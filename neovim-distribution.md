@@ -1,0 +1,13 @@
+https://github.com/crivotz/nv-ide
+https://github.com/LunarVim/LunarVim
+https://github.com/Pocco81/Catppuccino.nvim
+https://github.com/daverivera/neovim-dots
+https://github.com/samrath2007/kyoto.nvim
+https://github.com/ms-jpq/coq_nvim
+https://github.com/mattleong/CosmicNvim
+https://github.com/AyeSpacey/Nvimfy
+https://github.com/cstsunfu/.sea.nvim
+https://github.com/artart222/CodeArt
+https://github.com/mattleong/CosmicNvim
+https://github.com/shaeinst/roshnivim
+https://github.com/nishu-murmu/TezVim
