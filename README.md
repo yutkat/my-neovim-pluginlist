@@ -995,6 +995,7 @@
 - [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [declancm/git-scripts.nvim](https://github.com/declancm/git-scripts.nvim) ![](https://img.shields.io/github/stars/declancm/git-scripts.nvim) ![](https://img.shields.io/github/last-commit/declancm/git-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/git-scripts.nvim)
 - [Odie/gitabra](https://github.com/Odie/gitabra) ![](https://img.shields.io/github/stars/Odie/gitabra) ![](https://img.shields.io/github/last-commit/Odie/gitabra) ![](https://img.shields.io/github/commit-activity/y/Odie/gitabra)
+- [ipod825/igit.nvim](https://github.com/ipod825/igit.nvim) ![](https://img.shields.io/github/stars/ipod825/igit.nvim) ![](https://img.shields.io/github/last-commit/ipod825/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/igit.nvim)
 
 #### git status
 
