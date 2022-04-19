@@ -1,5 +1,6 @@
 # Neovim Distribution
 
+- [echasnovski/mini.nvim](https://github.com/echasnovski/mini.nvim) ![](https://img.shields.io/github/stars/echasnovski/mini.nvim) ![](https://img.shields.io/github/last-commit/echasnovski/mini.nvim) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.nvim)
 - [Pocco81/Catppuccino.nvim](https://github.com/Pocco81/Catppuccino.nvim) ![](https://img.shields.io/github/stars/Pocco81/Catppuccino.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/Catppuccino.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/Catppuccino.nvim)
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) ![](https://img.shields.io/github/stars/siduck76/NvChad) ![](https://img.shields.io/github/last-commit/siduck76/NvChad) ![](https://img.shields.io/github/commit-activity/y/siduck76/NvChad)
 - [AyeSpacey/Nvimfy](https://github.com/AyeSpacey/Nvimfy) ![](https://img.shields.io/github/stars/AyeSpacey/Nvimfy) ![](https://img.shields.io/github/last-commit/AyeSpacey/Nvimfy) ![](https://img.shields.io/github/commit-activity/y/AyeSpacey/Nvimfy)
