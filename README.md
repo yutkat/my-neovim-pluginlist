@@ -682,6 +682,7 @@
 ##### resize
 
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufresize.nvim)
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/smart-splits.nvim)
 
 ##### focus
 
@@ -1316,6 +1317,8 @@
 - [Olical/aniseed](https://github.com/Olical/aniseed) ![](https://img.shields.io/github/stars/Olical/aniseed) ![](https://img.shields.io/github/last-commit/Olical/aniseed) ![](https://img.shields.io/github/commit-activity/y/Olical/aniseed)
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
 - [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) ![](https://img.shields.io/github/stars/tsbohc/zest.nvim) ![](https://img.shields.io/github/last-commit/tsbohc/zest.nvim) ![](https://img.shields.io/github/commit-activity/y/tsbohc/zest.nvim)
+- [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/hibiscus.nvim)
+- [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/tangerine.nvim)
 
 ### Colorscheme Creation
 
