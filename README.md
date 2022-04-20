@@ -1328,6 +1328,6 @@
 
 ## [Colorscheme](./colorscheme.md)
 
-## [Neovim Distribution](./neovim-distribution.md.md)
+## [Neovim Distribution](./neovim-distribution.md)
 
 ## [GUI](./gui.md)
