@@ -24,6 +24,6 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
-          grep ": true" archived_check_list.txt
+          grep ": true" archived_check_list.txt || true
       - run: >
           test $(grep ': true' archived_check_list.txt | wc -l) -le 0
