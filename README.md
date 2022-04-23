@@ -131,6 +131,7 @@
     - [Session](#session)
     - [Mouse](#mouse)
     - [Profiler](#profiler)
+    - [Improve startup time](#improve-startup-time)
   - [Coding](#coding)
     - [Reading assistant feature](#reading-assistant-feature)
       - [Context Header](#context-header)
@@ -896,8 +897,11 @@
 
 ### Profiler
 
-- [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) ![](https://img.shields.io/github/stars/lewis6991/impatient.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/impatient.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/impatient.nvim)
 - [henriquehbr/nvim-startup.lua](https://github.com/henriquehbr/nvim-startup.lua) ![](https://img.shields.io/github/stars/henriquehbr/nvim-startup.lua) ![](https://img.shields.io/github/last-commit/henriquehbr/nvim-startup.lua) ![](https://img.shields.io/github/commit-activity/y/henriquehbr/nvim-startup.lua)
+
+### Improve startup time
+
+- [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) ![](https://img.shields.io/github/stars/lewis6991/impatient.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/impatient.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/impatient.nvim)
 
 ## Coding
 
