@@ -8,6 +8,7 @@
 
 ## Rules for making
 
+- This list is my hobby project. There is no particular fairness or transparency.
 - Only for Neovim plugins. Vim script-made plugin and plugin that also work with Vim are excluded.
 - Put competing plugins in the same category for ease of selection.
 - The one at the top of the category is my recommendation.
