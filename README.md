@@ -372,8 +372,7 @@
 - [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-writer.nvim)
 - [nvim-telescope/telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-packer.nvim)
 - [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
-- [nvim-telescope/telescope-snippets.nvim](https://github.com/nvim-telescope/telescope-snippets.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-snippets.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-snippets.nvim)
-- [delphinus/telescope-z.nvim](https://github.com/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/stars/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/last-commit/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/telescope-z.nvim)
+- [nvim-telescope/telescope-z.nvim](https://github.com/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/stars/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/last-commit/delphinus/telescope-z.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/telescope-z.nvim)
 - [delphinus/telescope-memo.nvim](https://github.com/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/stars/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/last-commit/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/telescope-memo.nvim)
 
 ## Filer
@@ -830,7 +829,7 @@
 
 #### Shell Command Integration
 
-[skywind3000/z.lua](skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
+[skywind3000/z.lua](https://github.com/skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
 
 ##### tmux
 
