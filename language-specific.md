@@ -2,22 +2,23 @@
 
 - [Table of Contents](#table-of-contents)
 - [Language specific](#language-specific)
-    - [Javascript/Typescript](#javascripttypescript)
-      - [Test](#test)
-    - [HTML](#html)
-    - [Python](#python)
-    - [Rust](#rust)
-    - [Go](#go)
-    - [C/C++](#cc)
-    - [Dart, Flutter](#dart-flutter)
-    - [Clojure](#clojure)
-    - [JSON](#json)
-    - [YAML](#yaml)
-    - [CSV](#csv)
-    - [SQL](#sql)
-    - [Markdown](#markdown)
-      - [Markdown preview](#markdown-preview)
-    - [Vimdoc](#vimdoc)
+  - [Javascript/Typescript](#javascripttypescript)
+    - [Test](#test)
+  - [HTML](#html)
+  - [Python](#python)
+  - [Rust](#rust)
+  - [Go](#go)
+  - [C/C++](#cc)
+  - [Dart, Flutter](#dart-flutter)
+  - [Clojure](#clojure)
+  - [JSON](#json)
+  - [YAML](#yaml)
+  - [CSV](#csv)
+  - [SQL](#sql)
+  - [Markdown](#markdown)
+    - [Markdown preview](#markdown-preview)
+  - [Vimdoc](#vimdoc)
+    - [Tex](#tex)
 
 # Language specific
 
@@ -100,3 +101,8 @@
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/last-commit/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/auto-pandoc.nvim)
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
 - [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/stars/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/last-commit/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/commit-activity/y/mjlbach/babelfish.nvim)
+
+#### Tex
+
+- [frabjous/knap](https://github.com/frabjous/knap) ![](https://img.shields.io/github/stars/frabjous/knap) ![](https://img.shields.io/github/last-commit/frabjous/knap) ![](https://img.shields.io/github/commit-activity/y/frabjous/knap)
+- [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/stars/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/texmagic.nvim)
