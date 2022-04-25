@@ -1,12 +1,13 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [FuzzyFinder](#fuzzyfinder)
-    - [Simple](#simple)
-    - [Floating Style](#floating-style)
-    - [FuzzyFinder Style](#fuzzyfinder-style)
+- [Filer](#filer)
+  - [Simple](#simple)
+  - [Floating Style](#floating-style)
+  - [FuzzyFinder Style](#fuzzyfinder-style)
+  - [Network File Manager](#network-file-manager)
 
-# FuzzyFinder
+# Filer
 
 - [nvim-neo-tree/neo-tree.nvim](https://github.com/nvim-neo-tree/neo-tree.nvim) ![](https://img.shields.io/github/stars/nvim-neo-tree/neo-tree.nvim) ![](https://img.shields.io/github/last-commit/nvim-neo-tree/neo-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neo-tree/neo-tree.nvim)
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/stars/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-tree.lua)
@@ -34,3 +35,7 @@
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) ![](https://img.shields.io/github/stars/conweller/findr.vim) ![](https://img.shields.io/github/last-commit/conweller/findr.vim) ![](https://img.shields.io/github/commit-activity/y/conweller/findr.vim)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
+
+### Network File Manager
+
+- [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)
