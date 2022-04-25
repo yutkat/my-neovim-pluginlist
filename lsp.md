@@ -4,6 +4,42 @@
 - [LSP](#lsp)
 
   - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
+  - [LSP misc](#lsp-misc)
+
+  - [Setup](#setup)
+  - [LSP Installer](#lsp-installer)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
+  - [LSP misc](#lsp-misc)
+
+  - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
+  - [LSP misc](#lsp-misc)
+
+  - [LSP Installer](#lsp-installer)
   - [LSP Feature Extension UI](#lsp-feature-extension-ui)
     - [Diagnostics](#diagnostics)
     - [Definition, Reference](#definition-reference)
@@ -33,6 +69,10 @@
 
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/stars/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/last-commit/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/commit-activity/y/williamboman/nvim-lsp-installer)
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/stars/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/last-commit/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/lspcontainers/lspcontainers.nvim)
+
+### Setup
+
+- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/stars/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/last-commit/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/commit-activity/y/junnplus/nvim-lsp-setup)
 
 ### LSP Feature Extension UI
 
