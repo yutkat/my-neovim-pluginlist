@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Git](#git)
     - [git status](#git-status)
+    - [git commit](#git-commit)
     - [git blame](#git-blame)
     - [git diff](#git-diff)
     - [git conflict](#git-conflict)
@@ -25,6 +26,10 @@
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/stars/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/last-commit/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/commit-activity/y/tanvirtin/vgit.nvim)
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) ![](https://img.shields.io/github/stars/rmagatti/igs.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/igs.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/igs.nvim)
 - [dsummersl/nvim-sluice](https://github.com/dsummersl/nvim-sluice) ![](https://img.shields.io/github/stars/dsummersl/nvim-sluice) ![](https://img.shields.io/github/last-commit/dsummersl/nvim-sluice) ![](https://img.shields.io/github/commit-activity/y/dsummersl/nvim-sluice)
+
+#### git commit
+
+- [olacin/telescope-cc.nvim](https://github.com/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/stars/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/olacin/telescope-cc.nvim)
 
 #### git blame
 
