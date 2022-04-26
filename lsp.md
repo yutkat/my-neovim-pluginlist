@@ -13,6 +13,17 @@
     - [Hover](#hover)
   - [LSP Status](#lsp-status)
   - [Local LSP Config](#local-lsp-config)
+
+  - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
   - [LSP misc](#lsp-misc)
 
   - [Setup](#setup)
@@ -123,7 +134,3 @@
 ### Local LSP Config
 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
-
-### LSP misc
-
-- [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/stars/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/last-commit/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/commit-activity/y/nanotee/nvim-lsp-basics)
