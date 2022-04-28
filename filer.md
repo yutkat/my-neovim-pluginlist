@@ -24,6 +24,7 @@
 - [Furkanzmc/firvish.nvim](https://github.com/Furkanzmc/firvish.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/firvish.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/firvish.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/firvish.nvim)
 - [uga-rosa/filittle.nvim](https://github.com/uga-rosa/filittle.nvim) ![](https://img.shields.io/github/stars/uga-rosa/filittle.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/filittle.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/filittle.nvim)
 - [EdvinVikstrom/filetree.nvim](https://github.com/EdvinVikstrom/filetree.nvim) ![](https://img.shields.io/github/stars/EdvinVikstrom/filetree.nvim) ![](https://img.shields.io/github/last-commit/EdvinVikstrom/filetree.nvim) ![](https://img.shields.io/github/commit-activity/y/EdvinVikstrom/filetree.nvim)
+- [bobrown101/minimal-nnn.nvim](https://github.com/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/stars/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/minimal-nnn.nvim)
 
 ### Floating Style
 
