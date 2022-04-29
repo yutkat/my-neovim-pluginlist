@@ -122,6 +122,7 @@
     - [Call Hierarchy](#call-hierarchy)
     - [Snippet](#snippet)
       - [Snippet definitions](#snippet-definitions)
+      - [Snippet converter](#snippet-converter)
       - [Snippet view](#snippet-view)
       - [Snippet assistant](#snippet-assistant)
     - [Template](#template)
@@ -723,6 +724,10 @@
 #### Snippet definitions
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
+
+#### Snippet converter
+
+- [smjonas/snippet-converter.nvim](https://github.com/smjonas/snippet-converter.nvim) ![](https://img.shields.io/github/stars/smjonas/snippet-converter.nvim) ![](https://img.shields.io/github/last-commit/smjonas/snippet-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/snippet-converter.nvim)
 
 #### Snippet view
 
