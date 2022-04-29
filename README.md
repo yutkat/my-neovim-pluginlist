@@ -122,6 +122,7 @@
     - [Call Hierarchy](#call-hierarchy)
     - [Snippet](#snippet)
       - [Snippet definitions](#snippet-definitions)
+      - [Snippet view](#snippet-view)
       - [Snippet assistant](#snippet-assistant)
     - [Template](#template)
     - [Task Runner](#task-runner)
@@ -722,6 +723,10 @@
 #### Snippet definitions
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
+
+#### Snippet view
+
+- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/stars/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/last-commit/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/benfowler/telescope-luasnip.nvim)
 
 #### Snippet assistant
 
