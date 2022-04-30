@@ -263,6 +263,7 @@
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 - [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/stars/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/last-commit/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/commit-activity/y/henriquehbr/ataraxis.lua)
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
+- [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/stars/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/last-commit/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/commit-activity/y/henriquehbr/ataraxis.lua)
 
 ### Background
 
