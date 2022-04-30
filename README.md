@@ -157,13 +157,13 @@
     - [Presentation](#presentation)
     - [Desktop Integration](#desktop-integration)
     - [Analytics](#analytics)
-    - [Joke](#joke)
-  - [Neovim Lua Library](#neovim-lua-library)
   - [Language specific](#language-specific)
+  - [Neovim Lua Library](#neovim-lua-library)
   - [Neovim Lua Development](#neovim-lua-development)
   - [Colorscheme](#colorscheme)
   - [Neovim Distribution](#neovim-distribution)
   - [GUI](#gui)
+  - [Toy](#toy)
 
 ## Plugin Manager
 
@@ -884,13 +884,9 @@
 
 ### Analytics
 
-### Joke
-
-- [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
+## [Language specific](./language-specific.md)
 
 ## [Neovim Lua Library](./neovim-lua-library.md)
-
-## [Language specific](./language-specific.md)
 
 ## [Neovim Lua Development](./neovim-lua-development.md)
 
@@ -899,3 +895,5 @@
 ## [Neovim Distribution](./neovim-distribution.md)
 
 ## [GUI](./gui.md)
+
+## [Toy](./toy.md)
