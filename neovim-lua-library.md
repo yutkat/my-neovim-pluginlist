@@ -8,6 +8,7 @@
   - [Hook](#hook)
   - [Icon](#icon)
   - [Unicode](#unicode)
+  - [Mathematics](#mathematics)
 
 ### Notification
 
@@ -45,3 +46,7 @@
 ### Unicode
 
 - [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/stars/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/utf8.nvim)
+
+### Mathematics
+
+- [jbyuki/swan.lua](https://github.com/jbyuki/swan.lua) ![](https://img.shields.io/github/stars/jbyuki/swan.lua) ![](https://img.shields.io/github/last-commit/jbyuki/swan.lua) ![](https://img.shields.io/github/commit-activity/y/jbyuki/swan.lua)
