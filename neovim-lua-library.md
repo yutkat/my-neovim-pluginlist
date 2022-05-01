@@ -7,6 +7,7 @@
   - [REST](#rest)
   - [Hook](#hook)
   - [Icon](#icon)
+  - [Unicode](#unicode)
 
 ### Notification
 
@@ -40,3 +41,7 @@
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
 - [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
+
+### Unicode
+
+- [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/stars/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/utf8.nvim)
