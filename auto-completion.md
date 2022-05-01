@@ -2,12 +2,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [Auto Completion](#auto-completion)
-    - [Made in Lua](#made-in-lua)
-    - [Made in Python](#made-in-python)
-    - [Made in Rust](#made-in-rust)
-    - [nvim-cmp sources](#nvim-cmp-sources)
-    - [Auto Completion support](#auto-completion-support)
-    - [AI Completion](#ai-completion)
+  - [Made in Lua](#made-in-lua)
+  - [Made in Python](#made-in-python)
+  - [Made in Rust](#made-in-rust)
+  - [nvim-cmp sources](#nvim-cmp-sources)
+  - [Auto Completion support](#auto-completion-support)
+  - [AI Completion](#ai-completion)
 
 # Auto Completion
 
@@ -55,6 +55,7 @@
   - [yutkat/cmp-mocword](https://github.com/yutkat/cmp-mocword) ![](https://img.shields.io/github/stars/yutkat/cmp-mocword) ![](https://img.shields.io/github/last-commit/yutkat/cmp-mocword) ![](https://img.shields.io/github/commit-activity/y/yutkat/cmp-mocword)
   - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/stars/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/last-commit/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/commit-activity/y/zbirenbaum/copilot-cmp)
   - [hrsh7th/cmp-copilot](https://github.com/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/stars/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-copilot)
+  - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) ![](https://img.shields.io/github/stars/rcarriga/cmp-dap) ![](https://img.shields.io/github/last-commit/rcarriga/cmp-dap) ![](https://img.shields.io/github/commit-activity/y/rcarriga/cmp-dap)
 
 ### Auto Completion support
 
