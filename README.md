@@ -13,7 +13,7 @@
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
     - [Highlight](#highlight)
-      - [ANSI Colorize](#ansi-colorize)
+        - [ANSI Colorize](#ansi-colorize)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
@@ -49,6 +49,7 @@
     - [Textobject](#textobject)
     - [Operator](#operator)
     - [Emoji](#emoji)
+      - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
     - [Misc](#misc)
   - [Buffer, Window, Tab Management](#buffer-window-tab-management)
     - [Buffer](#buffer)
@@ -383,6 +384,11 @@
 ### Emoji
 
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/stars/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-emoji)
+
+#### Emoji FuzzyFinder
+
+- [nvim-telescope/telescope-symbols.nvim](https://github.com/nvim-telescope/telescope-symbols.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-symbols.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-symbols.nvim)
+- [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/stars/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/telescope-emoji.nvim)
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) ![](https://img.shields.io/github/stars/protex/better-digraphs.nvim) ![](https://img.shields.io/github/last-commit/protex/better-digraphs.nvim) ![](https://img.shields.io/github/commit-activity/y/protex/better-digraphs.nvim)
 
 ### Misc
@@ -815,6 +821,7 @@
 ### Browser Integration
 
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
+- [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
 
 ### Project
 
@@ -824,6 +831,8 @@
 - [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) ![](https://img.shields.io/github/stars/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/last-commit/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/telescope-repo.nvim)
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-project.nvim)
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-gfold.lua)
+- [nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-z.nvim)
+- [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/stars/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/last-commit/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/commit-activity/y/jvgrootveld/telescope-zoxide)
 
 #### Project Root Detector
 

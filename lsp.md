@@ -46,6 +46,28 @@
     - [Hover](#hover)
   - [LSP Status](#lsp-status)
   - [Local LSP Config](#local-lsp-config)
+
+  - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
+
+  - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
   - [LSP misc](#lsp-misc)
 
   - [Setup](#setup)
@@ -131,6 +153,7 @@
 - [rmagatti/goto-preview](https://github.com/rmagatti/goto-preview) ![](https://img.shields.io/github/stars/rmagatti/goto-preview) ![](https://img.shields.io/github/last-commit/rmagatti/goto-preview) ![](https://img.shields.io/github/commit-activity/y/rmagatti/goto-preview)
 - [ojroques/nvim-lspfuzzy](https://github.com/ojroques/nvim-lspfuzzy) ![](https://img.shields.io/github/stars/ojroques/nvim-lspfuzzy) ![](https://img.shields.io/github/last-commit/ojroques/nvim-lspfuzzy) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-lspfuzzy)
 - [wiliamks/nice-reference.nvim](https://github.com/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/stars/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/last-commit/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/wiliamks/nice-reference.nvim)
+- [gbrlsnchs/telescope-lsp-handlers.nvim](https://github.com/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/stars/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/last-commit/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/commit-activity/y/gbrlsnchs/telescope-lsp-handlers.nvim)
 
 #### Code action
 

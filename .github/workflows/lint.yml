@@ -18,7 +18,7 @@ jobs:
           apt update
           apt-get install -y gh ca-certificates
       - run: >
-          grep '](https://github.com' README.md |
+          grep '](https://github.com' README.md [a-z]*.md |
           sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
           xargs -I {} gh api repos/{} --jq '.name + ": " + (.archived|tostring)' > archived_check_list.txt
         env:

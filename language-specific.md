@@ -17,6 +17,7 @@
   - [CSV](#csv)
   - [SQL](#sql)
   - [Markdown](#markdown)
+    - [Markdown header jump](#markdown-header-jump)
     - [Markdown preview](#markdown-preview)
     - [Markdown evaluate code](#markdown-evaluate-code)
   - [Vimdoc](#vimdoc)
@@ -98,6 +99,10 @@
 
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/stars/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/last-commit/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/follow-md-links.nvim)
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/stars/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/mdeval.nvim)
+
+#### Markdown header jump
+
+- [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/stars/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/last-commit/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/commit-activity/y/crispgm/telescope-heading.nvim)
 
 #### Markdown preview
 
