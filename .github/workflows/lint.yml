@@ -20,7 +20,7 @@ jobs:
       - run: >
           grep '](https://github.com' README.md [a-z]*.md |
           sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
-          xargs -I {} gh api repos/{} --jq '.name + ": " + (.archived|tostring)' > archived_check_list.txt
+          xargs -I {} gh api repos/{} --jq '.name + ": " + (.archived|tostring)' | tee archived_check_list.txt
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
