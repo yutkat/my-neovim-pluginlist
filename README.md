@@ -295,7 +295,7 @@
 
 ### Horizontal Move
 
-- lightspeed
+- [ggandor/lightspeed.nvim(1-character search (f/t))](https://github.com/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/lightspeed.nvim)
 - [kevinhwang91/nvim-fFHighlight](https://github.com/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-fFHighlight)
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) ![](https://img.shields.io/github/stars/gukz/ftFT.nvim) ![](https://img.shields.io/github/last-commit/gukz/ftFT.nvim) ![](https://img.shields.io/github/commit-activity/y/gukz/ftFT.nvim)
 
