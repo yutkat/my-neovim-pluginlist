@@ -9,6 +9,8 @@
     - [git conflict](#git-conflict)
     - [gitignore](#gitignore)
   - [GitHub](#github)
+    - [Features like gh](#features-like-gh)
+    - [GitHub tweaks](#github-tweaks)
 
 ### Git
 
@@ -52,7 +54,13 @@
 
 ### GitHub
 
+#### Features like gh
+
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) ![](https://img.shields.io/github/stars/pwntester/octo.nvim) ![](https://img.shields.io/github/last-commit/pwntester/octo.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/octo.nvim)
+- [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) ![](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/gh.nvim)
+
+#### GitHub tweaks
+
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
