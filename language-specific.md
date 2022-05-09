@@ -9,6 +9,7 @@
   - [Rust](#rust)
   - [Go](#go)
   - [C/C++](#cc)
+  - [Java](#java)
   - [Dart, Flutter](#dart-flutter)
   - [Clojure](#clojure)
   - [JSON](#json)
@@ -61,6 +62,10 @@
 ### C/C++
 
 - [Badhi/nvim-treesitter-cpp-tools](https://github.com/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/stars/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/last-commit/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/commit-activity/y/Badhi/nvim-treesitter-cpp-tools)
+
+### Java
+
+- [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-jdtls)
 
 ### Dart, Flutter
 
