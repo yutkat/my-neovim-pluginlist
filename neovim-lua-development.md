@@ -2,11 +2,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [Neovim Lua Development](#neovim-lua-development)
-    - [Neovim Lua REPL](#neovim-lua-repl)
-    - [Development Tools](#development-tools)
-    - [Testing](#testing)
-    - [Fennel](#fennel)
-    - [Colorscheme Creation](#colorscheme-creation)
+
+  - [Neovim Lua REPL](#neovim-lua-repl)
+  - [Development Tools](#development-tools)
+  - [Testing](#testing)
+  - [Fennel](#fennel)
+  - [Colorscheme Creation](#colorscheme-creation)
 
   - [Neovim Lua REPL](#neovim-lua-repl)
   - [Development Tools](#development-tools)
@@ -35,6 +36,7 @@
 ### Testing
 
 - [notomo/vusted](https://github.com/notomo/vusted) ![](https://img.shields.io/github/stars/notomo/vusted) ![](https://img.shields.io/github/last-commit/notomo/vusted) ![](https://img.shields.io/github/commit-activity/y/notomo/vusted)
+- [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) ![](https://img.shields.io/github/stars/hkupty/runes.nvim) ![](https://img.shields.io/github/last-commit/hkupty/runes.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/runes.nvim)
 
 ### Fennel
 
