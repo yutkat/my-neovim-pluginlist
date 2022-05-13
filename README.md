@@ -565,7 +565,7 @@
 
 #### sign
 
-- [chentau/marks.nvim](https://github.com/chentau/marks.nvim) ![](https://img.shields.io/github/stars/chentau/marks.nvim) ![](https://img.shields.io/github/last-commit/chentau/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentau/marks.nvim)
+- [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
 
 #### floating marker(easymotion style)
 
