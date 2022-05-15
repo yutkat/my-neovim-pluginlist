@@ -46,6 +46,7 @@
       - [Annotation](#annotation)
     - [Convert Case](#convert-case)
     - [Indent](#indent)
+    - [Align](#align)
     - [Textobject](#textobject)
     - [Operator](#operator)
     - [Emoji](#emoji)
@@ -77,6 +78,7 @@
     - [Replace](#replace)
     - [Grep](#grep)
     - [Select](#select)
+      - [Multi Cursor](#multi-cursor)
     - [Adding and subtracting](#adding-and-subtracting)
     - [Join](#join)
     - [Yank](#yank)
@@ -369,6 +371,8 @@
 - [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/stars/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/last-commit/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/commit-activity/y/zsugabubus/crazy8.nvim)
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/stars/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/last-commit/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/NMAC427/guess-indent.nvim)
 
+### Align
+
 ### Textobject
 
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-textobjects)
@@ -528,6 +532,8 @@
 ### Select
 
 - [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/stars/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/last-commit/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/commit-activity/y/ziontee113/syntax-tree-surfer)
+
+#### Multi Cursor
 
 ### Adding and subtracting
 
