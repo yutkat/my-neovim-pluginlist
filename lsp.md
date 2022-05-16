@@ -68,6 +68,17 @@
     - [Hover](#hover)
   - [LSP Status](#lsp-status)
   - [Local LSP Config](#local-lsp-config)
+
+  - [LSP Installer](#lsp-installer)
+  - [Setup](#setup)
+  - [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    - [Diagnostics](#diagnostics)
+    - [Definition, Reference](#definition-reference)
+    - [Code action](#code-action)
+    - [Code Lens](#code-lens)
+    - [Hover](#hover)
+  - [LSP Status](#lsp-status)
+  - [Local LSP Config](#local-lsp-config)
   - [LSP misc](#lsp-misc)
 
   - [Setup](#setup)
@@ -170,6 +181,7 @@
 
 - [jose-elias-alvarez/null-ls.nvim(Hover)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/stars/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/last-commit/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/lsp-preview-hover-doc.nvim)
+- [amrbashir/nvim-docs-view](https://github.com/amrbashir/nvim-docs-view) ![](https://img.shields.io/github/stars/amrbashir/nvim-docs-view) ![](https://img.shields.io/github/last-commit/amrbashir/nvim-docs-view) ![](https://img.shields.io/github/commit-activity/y/amrbashir/nvim-docs-view)
 
 ### LSP Status
 
