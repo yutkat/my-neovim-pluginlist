@@ -6,6 +6,7 @@
   - [UI](#ui)
   - [REST](#rest)
   - [Hook](#hook)
+  - [Mode](#mode)
   - [Icon](#icon)
   - [Unicode](#unicode)
   - [Mathematics](#mathematics)
@@ -36,6 +37,10 @@
 ### Hook
 
 - [rktjmp/fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/stars/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/fwatch.nvim)
+
+### Mode
+
+- [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/stars/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-libmodal)
 
 ### Icon
 
