@@ -71,6 +71,7 @@
   - [Terminal](#terminal)
     - [Terminal Enhancement](#terminal-enhancement)
     - [External terminal](#external-terminal)
+    - [Terminal Selector](#terminal-selector)
   - [Other Standard Feature Enhancement](#other-standard-feature-enhancement)
     - [Keymap](#keymap)
       - [Map search](#map-search)
@@ -500,6 +501,10 @@
 ### External terminal
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
+
+### Terminal Selector
+
+- [tknightz/telescope-termfinder.nvim](https://github.com/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/stars/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/last-commit/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/tknightz/telescope-termfinder.nvim)
 
 ## Other Standard Feature Enhancement
 
