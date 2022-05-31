@@ -2,6 +2,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [Neovim Lua Development](#neovim-lua-development)
+    - [Neovim Lua REPL](#neovim-lua-repl)
+    - [Development Tools](#development-tools)
+    - [Testing](#testing)
+    - [Fennel](#fennel)
+    - [Colorscheme Creation](#colorscheme-creation)
+    - [Color Creation](#color-creation)
 
   - [Neovim Lua REPL](#neovim-lua-repl)
   - [Development Tools](#development-tools)
@@ -54,3 +60,7 @@
 - [Iron-E/nvim-highlite](https://github.com/Iron-E/nvim-highlite) ![](https://img.shields.io/github/stars/Iron-E/nvim-highlite) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-highlite) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-highlite)
 - [ThemerCorp/themer.lua](https://github.com/themercorp/themer.lua) ![](https://img.shields.io/github/stars/ThemerCorp/themer.lua) ![](https://img.shields.io/github/last-commit/ThemerCorp/themer.lua) ![](https://img.shields.io/github/commit-activity/y/ThemerCorp/themer.lua)
 - [NTBBloodbath/color-converter.nvim](https://github.com/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/color-converter.nvim)
+
+### Color Creation
+
+- [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ![](https://img.shields.io/github/stars/max397574/colortils.nvim) ![](https://img.shields.io/github/last-commit/max397574/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/colortils.nvim)
