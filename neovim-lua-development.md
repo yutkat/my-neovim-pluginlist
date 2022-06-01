@@ -1,27 +1,15 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Neovim Lua Development](#neovim-lua-development)
-    - [Neovim Lua REPL](#neovim-lua-repl)
-    - [Development Tools](#development-tools)
-    - [Testing](#testing)
-    - [Fennel](#fennel)
-    - [Colorscheme Creation](#colorscheme-creation)
-    - [Color Creation](#color-creation)
-
+  - [Neovim Lua Development](#neovim-lua-development)
   - [Neovim Lua REPL](#neovim-lua-repl)
   - [Development Tools](#development-tools)
   - [Testing](#testing)
   - [Fennel](#fennel)
   - [Colorscheme Creation](#colorscheme-creation)
+  - [Color Creation](#color-creation)
 
-  - [Neovim Lua REPL](#neovim-lua-repl)
-  - [Development Tools](#development-tools)
-  - [Testing](#testing)
-  - [Fennel](#fennel)
-  - [Colorscheme Creation](#colorscheme-creation)
-
-# Neovim Lua Development
+### Neovim Lua Development
 
 - [folke/lua-dev.nvim](https://github.com/folke/lua-dev.nvim) ![](https://img.shields.io/github/stars/folke/lua-dev.nvim) ![](https://img.shields.io/github/last-commit/folke/lua-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lua-dev.nvim)
 - [notomo/lreload.nvim](https://github.com/notomo/lreload.nvim) ![](https://img.shields.io/github/stars/notomo/lreload.nvim) ![](https://img.shields.io/github/last-commit/notomo/lreload.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/lreload.nvim)
