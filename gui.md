@@ -41,3 +41,9 @@
 ## VS Code
 
 - [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/stars/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/last-commit/asvetliakov/vscode-neovim) ![](https://img.shields.io/github/commit-activity/y/asvetliakov/vscode-neovim)
+
+# GUI library
+
+## Font size
+
+- [tenxsoydev/size-matters.nvim](https://github.com/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/size-matters.nvim)
