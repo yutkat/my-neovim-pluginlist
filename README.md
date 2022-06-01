@@ -13,7 +13,7 @@
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
     - [Highlight](#highlight)
-        - [ANSI Colorize](#ansi-colorize)
+      - [ANSI Colorize](#ansi-colorize)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
@@ -104,6 +104,7 @@
         - [tmux](#tmux)
         - [perf](#perf)
       - [Matrix.org](#matrixorg)
+      - [Notion](#notion)
     - [History](#history)
     - [Spellcheck](#spellcheck)
     - [Abbreviation](#abbreviation)
@@ -657,6 +658,10 @@
 #### Matrix.org
 
 - [shift-d/radio.nvim](https://github.com/shift-d/radio.nvim) ![](https://img.shields.io/github/stars/shift-d/radio.nvim) ![](https://img.shields.io/github/last-commit/shift-d/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/shift-d/radio.nvim)
+
+#### Notion
+
+- [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
 
 ### History
 
