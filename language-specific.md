@@ -75,6 +75,7 @@
 ### Java
 
 - [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-jdtls)
+- [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ![](https://img.shields.io/github/stars/artur-shaik/jc.nvim) ![](https://img.shields.io/github/last-commit/artur-shaik/jc.nvim) ![](https://img.shields.io/github/commit-activity/y/artur-shaik/jc.nvim)
 
 ### Dart, Flutter
 
