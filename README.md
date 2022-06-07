@@ -381,6 +381,7 @@
 ### Convert Case
 
 - [josa42/nvim-actions](https://github.com/josa42/nvim-actions) ![](https://img.shields.io/github/stars/josa42/nvim-actions) ![](https://img.shields.io/github/last-commit/josa42/nvim-actions) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-actions)
+- [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) ![](https://img.shields.io/github/stars/johmsalas/text-case.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/text-case.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/text-case.nvim)
 
 ### Indent
 
