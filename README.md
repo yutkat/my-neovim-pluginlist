@@ -142,6 +142,7 @@
       - [Partial execution](#partial-execution)
     - [REPL](#repl)
     - [Test](#test)
+    - [Test Coverage](#test-coverage)
     - [Refactoring,Debugging](#refactoringdebugging)
     - [Debugger](#debugger)
     - [Git/GitHub](#gitgithub)
@@ -853,6 +854,10 @@
 - [klen/nvim-test](https://github.com/klen/nvim-test) ![](https://img.shields.io/github/stars/klen/nvim-test) ![](https://img.shields.io/github/last-commit/klen/nvim-test) ![](https://img.shields.io/github/commit-activity/y/klen/nvim-test)
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) ![](https://img.shields.io/github/stars/rcarriga/vim-ultest) ![](https://img.shields.io/github/last-commit/rcarriga/vim-ultest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/vim-ultest)
 - [rcarriga/neotest](https://github.com/rcarriga/neotest) ![](https://img.shields.io/github/stars/rcarriga/neotest) ![](https://img.shields.io/github/last-commit/rcarriga/neotest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/neotest)
+
+### Test Coverage
+
+- [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) ![](https://img.shields.io/github/stars/andythigpen/nvim-coverage) ![](https://img.shields.io/github/last-commit/andythigpen/nvim-coverage) ![](https://img.shields.io/github/commit-activity/y/andythigpen/nvim-coverage)
 
 ### Refactoring,Debugging
 
