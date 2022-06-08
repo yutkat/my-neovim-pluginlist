@@ -308,10 +308,10 @@
 
 - [phaazon/hop.nvim](https://github.com/phaazon/hop.nvim) ![](https://img.shields.io/github/stars/phaazon/hop.nvim) ![](https://img.shields.io/github/last-commit/phaazon/hop.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/hop.nvim)
 - [ggandor/lightspeed.nvim](https://github.com/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/lightspeed.nvim)
-- [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) ![](https://img.shields.io/github/stars/rlane/pounce.nvim) ![](https://img.shields.io/github/last-commit/rlane/pounce.nvim) ![](https://img.shields.io/github/commit-activity/y/rlane/pounce.nvim)
-- [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) ![](https://img.shields.io/github/stars/ggandor/leap.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap.nvim)
+- [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) ![](https://img.shields.io/github/stars/rlane/pounce.nvim) ![](https://img.shields.io/github/last-commit/rlane/pounce.nvim) ![](https://img.shields.io/github/commit-activity/y/rlane/pounce.nvim)
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-treehopper)
+- [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
 
 ### Horizontal Move
 
