@@ -13,18 +13,19 @@
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
     - [Highlight](#highlight)
-      - [ANSI Colorize](#ansi-colorize)
+        - [ANSI Colorize](#ansi-colorize)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
     - [Cursorline](#cursorline)
   - [Columnline](#columnline)
-    - [Mode](#mode)
+      - [Mode](#mode)
     - [Scrollbar](#scrollbar)
     - [Sidebar](#sidebar)
     - [Menu](#menu)
     - [Minimap](#minimap)
     - [Zen Mode](#zen-mode)
+      - [Highlight current function](#highlight-current-function)
     - [Background](#background)
   - [Movement](#movement)
     - [j/k](#jk)
@@ -284,10 +285,14 @@
 
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/stars/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/TrueZen.nvim)
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) ![](https://img.shields.io/github/stars/folke/zen-mode.nvim) ![](https://img.shields.io/github/last-commit/folke/zen-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/zen-mode.nvim)
-- [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 - [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/stars/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/last-commit/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/commit-activity/y/henriquehbr/ataraxis.lua)
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [henriquehbr/ataraxis.lua](https://github.com/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/stars/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/last-commit/henriquehbr/ataraxis.lua) ![](https://img.shields.io/github/commit-activity/y/henriquehbr/ataraxis.lua)
+
+#### Highlight current function
+
+- [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
+- [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/stars/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/last-commit/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/commit-activity/y/koenverburg/peepsight.nvim)
 
 ### Background
 
