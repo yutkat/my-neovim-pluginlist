@@ -13,13 +13,13 @@
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
     - [Highlight](#highlight)
-        - [ANSI Colorize](#ansi-colorize)
+      - [ANSI Colorize](#ansi-colorize)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
     - [Cursorline](#cursorline)
   - [Columnline](#columnline)
-      - [Mode](#mode)
+    - [Mode](#mode)
     - [Scrollbar](#scrollbar)
     - [Sidebar](#sidebar)
     - [Menu](#menu)
@@ -235,7 +235,6 @@
 
 #### Current word highlight
 
-- [RRethy/vim-illuminate](https://github.com/RRethy/vim-illuminate) ![](https://img.shields.io/github/stars/RRethy/vim-illuminate) ![](https://img.shields.io/github/last-commit/RRethy/vim-illuminate) ![](https://img.shields.io/github/commit-activity/y/RRethy/vim-illuminate)
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/stars/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-cursorword)
 
 #### Jump highlight
@@ -771,7 +770,6 @@
 - [jose-elias-alvarez/null-ls.nvim(Formatting)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/format.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/format.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/format.nvim)
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ![](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![](https://img.shields.io/github/last-commit/mhartington/formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/mhartington/formatter.nvim)
-- [sbdchd/neoformat](https://github.com/sbdchd/neoformat) ![](https://img.shields.io/github/stars/sbdchd/neoformat) ![](https://img.shields.io/github/last-commit/sbdchd/neoformat) ![](https://img.shields.io/github/commit-activity/y/sbdchd/neoformat)
 
 #### Trim Whitespace
 
