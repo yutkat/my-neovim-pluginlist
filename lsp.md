@@ -13,6 +13,7 @@
       - [Rename](#rename)
     - [LSP Status](#lsp-status)
     - [Local LSP Config](#local-lsp-config)
+    - [Preconfiguration](#preconfiguration)
 
 ## LSP
 
@@ -86,3 +87,7 @@
 ### Local LSP Config
 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
+
+### Preconfiguration
+
+- [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/lsp-zero.nvim)
