@@ -904,7 +904,6 @@
 
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) ![](https://img.shields.io/github/stars/shaeinst/penvim) ![](https://img.shields.io/github/last-commit/shaeinst/penvim) ![](https://img.shields.io/github/commit-activity/y/shaeinst/penvim)
 - [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoRoot.lua)
-- [ygm2/rooter.nvim](https://github.com/ygm2/rooter.nvim) ![](https://img.shields.io/github/stars/ygm2/rooter.nvim) ![](https://img.shields.io/github/last-commit/ygm2/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/ygm2/rooter.nvim)
 - [kyoh86/climbdir.nvim](https://github.com/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/stars/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/climbdir.nvim)
 
 #### Project Local Config
