@@ -13,13 +13,13 @@
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
     - [Highlight](#highlight)
-      - [ANSI Colorize](#ansi-colorize)
+        - [ANSI Colorize](#ansi-colorize)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
     - [Cursorline](#cursorline)
   - [Columnline](#columnline)
-    - [Mode](#mode)
+      - [Mode](#mode)
     - [Scrollbar](#scrollbar)
     - [Sidebar](#sidebar)
     - [Menu](#menu)
@@ -191,6 +191,7 @@
 ### Add runtime path (vim-plug like)
 
 - [ii14/neopm](https://github.com/ii14/neopm) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
+- [spywhere/plug.nvim](https://github.com/spywhere/plug.nvim) ![](https://img.shields.io/github/stars/spywhere/plug.nvim) ![](https://img.shields.io/github/last-commit/spywhere/plug.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/plug.nvim)
 
 ## [Auto Completion](./auto-completion.md)
 
