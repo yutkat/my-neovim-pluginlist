@@ -5,6 +5,7 @@
   - [async](#async)
   - [UI](#ui)
   - [REST](#rest)
+  - [Require](#require)
   - [Hook](#hook)
   - [Mode](#mode)
   - [Icon](#icon)
@@ -33,6 +34,10 @@
 ### REST
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
+
+### Require
+
+- [miversen33/import.nvim](https://github.com/miversen33/import.nvim) ![](https://img.shields.io/github/stars/miversen33/import.nvim) ![](https://img.shields.io/github/last-commit/miversen33/import.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/import.nvim)
 
 ### Hook
 
