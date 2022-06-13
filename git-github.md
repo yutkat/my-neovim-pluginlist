@@ -38,6 +38,7 @@
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) ![](https://img.shields.io/github/stars/f-person/git-blame.nvim) ![](https://img.shields.io/github/last-commit/f-person/git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/git-blame.nvim)
 - [tveskag/nvim-blame-line](https://github.com/tveskag/nvim-blame-line) ![](https://img.shields.io/github/stars/tveskag/nvim-blame-line) ![](https://img.shields.io/github/last-commit/tveskag/nvim-blame-line) ![](https://img.shields.io/github/commit-activity/y/tveskag/nvim-blame-line)
 - [emmanueltouzery/agitator.nvim](https://github.com/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/agitator.nvim)
+- [braxtons12/blame_line.nvim](https://github.com/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/stars/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/last-commit/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/commit-activity/y/braxtons12/blame_line.nvim)
 
 #### git diff
 
