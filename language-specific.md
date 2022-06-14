@@ -86,6 +86,7 @@
 ### Clojure
 
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/stars/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/last-commit/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/commit-activity/y/clojure-vim/jazz.nvim)
+- [tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim) ![](https://img.shields.io/github/stars/tami5/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/tami5/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/tami5/lispdocs.nvim)
 
 ## Configuration File
 
