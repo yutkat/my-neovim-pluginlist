@@ -51,6 +51,7 @@
 ### Python
 
 - [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
+- [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
 
 ### Rust
 
