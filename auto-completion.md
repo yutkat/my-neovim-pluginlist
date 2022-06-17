@@ -65,6 +65,7 @@
   - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) ![](https://img.shields.io/github/stars/rcarriga/cmp-dap) ![](https://img.shields.io/github/last-commit/rcarriga/cmp-dap) ![](https://img.shields.io/github/commit-activity/y/rcarriga/cmp-dap)
   - [meetcw/cmp-browser-source](https://github.com/meetcw/cmp-browser-source) ![](https://img.shields.io/github/stars/meetcw/cmp-browser-source) ![](https://img.shields.io/github/last-commit/meetcw/cmp-browser-source) ![](https://img.shields.io/github/commit-activity/y/meetcw/cmp-browser-source)
   - [paopaol/cmp-doxygen](https://github.com/paopaol/cmp-doxygen) ![](https://img.shields.io/github/stars/paopaol/cmp-doxygen) ![](https://img.shields.io/github/last-commit/paopaol/cmp-doxygen) ![](https://img.shields.io/github/commit-activity/y/paopaol/cmp-doxygen)
+  - [KadoBOT/cmp-plugins](https://github.com/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/stars/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/last-commit/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/commit-activity/y/KadoBOT/cmp-plugins)
 
 ### nvim-cmp comparator
 
