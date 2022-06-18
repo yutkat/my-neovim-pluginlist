@@ -163,6 +163,7 @@
     - [Collaborative Editing](#collaborative-editing)
     - [Config switcher](#config-switcher)
     - [Screenshot](#screenshot)
+    - [Clock](#clock)
     - [Image](#image)
       - [Viewer](#viewer)
       - [Uploader](#uploader)
@@ -955,6 +956,10 @@
 ### Screenshot
 
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
+
+### Clock
+
+- [akinsho/clock.nvim](https://github.com/akinsho/clock.nvim) ![](https://img.shields.io/github/stars/akinsho/clock.nvim) ![](https://img.shields.io/github/last-commit/akinsho/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/clock.nvim)
 
 ### Image
 
