@@ -22,6 +22,7 @@
     - [Markdown](#markdown)
       - [Markdown header jump](#markdown-header-jump)
       - [Markdown preview](#markdown-preview)
+      - [Markdown code fence](#markdown-code-fence)
       - [Markdown evaluate code](#markdown-evaluate-code)
     - [Vimdoc](#vimdoc)
       - [Tex](#tex)
@@ -126,6 +127,10 @@
 
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
+
+#### Markdown code fence
+
+- [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/stars/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/last-commit/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/commit-activity/y/chip/telescope-code-fence.nvim)
 
 #### Markdown evaluate code
 
