@@ -139,9 +139,6 @@
       - [Snippet assistant](#snippet-assistant)
     - [Template](#template)
     - [Task Runner](#task-runner)
-      - [Config file style](#config-file-style)
-      - [Command style](#command-style)
-      - [Partial execution](#partial-execution)
     - [REPL](#repl)
     - [Test](#test)
     - [Test Coverage](#test-coverage)
@@ -832,33 +829,7 @@
 
 - [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) ![](https://img.shields.io/github/stars/vigoux/templar.nvim) ![](https://img.shields.io/github/last-commit/vigoux/templar.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/templar.nvim)
 
-### Task Runner
-
-#### Config file style
-
-- JSON
-  - [sheodox/projectlaunch.nvim](https://github.com/sheodox/projectlaunch.nvim) ![](https://img.shields.io/github/stars/sheodox/projectlaunch.nvim) ![](https://img.shields.io/github/last-commit/sheodox/projectlaunch.nvim) ![](https://img.shields.io/github/commit-activity/y/sheodox/projectlaunch.nvim)
-  - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/stars/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/last-commit/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CRAG666/code_runner.nvim)
-  - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/toggletasks.nvim)
-- YAML
-  - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/stars/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/last-commit/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/commit-activity/y/Arjun31415/BuildTask.nvim)
-- Lua
-  - [pianocomposer321/yabs.nvim](https://github.com/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/stars/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/last-commit/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/commit-activity/y/pianocomposer321/yabs.nvim)
-  - [is0n/jaq-nvim](https://github.com/is0n/jaq-nvim) ![](https://img.shields.io/github/stars/is0n/jaq-nvim) ![](https://img.shields.io/github/last-commit/is0n/jaq-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/jaq-nvim)
-  - [amirrezaask/actions.nvim](https://github.com/amirrezaask/actions.nvim) ![](https://img.shields.io/github/stars/amirrezaask/actions.nvim) ![](https://img.shields.io/github/last-commit/amirrezaask/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/actions.nvim)
-- Shell
-  - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) ![](https://img.shields.io/github/stars/ojroques/nvim-buildme) ![](https://img.shields.io/github/last-commit/ojroques/nvim-buildme) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-buildme)
-
-#### Command style
-
-- [yutkat/taskrun.nvim](https://github.com/yutkat/taskrun.nvim) ![](https://img.shields.io/github/stars/yutkat/taskrun.nvim) ![](https://img.shields.io/github/last-commit/yutkat/taskrun.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/taskrun.nvim)
-- [antonk52/amake.nvim](https://github.com/antonk52/amake.nvim) ![](https://img.shields.io/github/stars/antonk52/amake.nvim) ![](https://img.shields.io/github/last-commit/antonk52/amake.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/amake.nvim)
-- [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/stars/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/last-commit/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/WaylonWalker/Telegraph.nvim)
-
-#### Partial execution
-
-- [michaelb/sniprun](https://github.com/michaelb/sniprun) ![](https://img.shields.io/github/stars/michaelb/sniprun) ![](https://img.shields.io/github/last-commit/michaelb/sniprun) ![](https://img.shields.io/github/commit-activity/y/michaelb/sniprun)
-- [arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/run-code.nvim)
+### [Task Runner](./task-runner.md)
 
 ### REPL
 
