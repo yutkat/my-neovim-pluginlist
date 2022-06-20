@@ -26,8 +26,9 @@
       - [Markdown evaluate code](#markdown-evaluate-code)
     - [Vimdoc](#vimdoc)
       - [Tex](#tex)
-  - [Development Environment](#development-environment)
-    - [Xcode](#xcode)
+- [Competitive programming](#competitive-programming)
+- [Development Environment](#development-environment)
+  - [Xcode](#xcode)
 
 # Language specific
 
@@ -147,8 +148,14 @@
 - [frabjous/knap](https://github.com/frabjous/knap) ![](https://img.shields.io/github/stars/frabjous/knap) ![](https://img.shields.io/github/last-commit/frabjous/knap) ![](https://img.shields.io/github/commit-activity/y/frabjous/knap)
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/stars/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/texmagic.nvim)
 
-## Development Environment
+# Competitive programming
 
-### Xcode
+- [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
+- [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ![](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim) ![](https://img.shields.io/github/commit-activity/y/xeluxee/competitest.nvim)
+- [nullchilly/cp.nvim](https://github.com/nullchilly/cp.nvim) ![](https://img.shields.io/github/stars/nullchilly/cp.nvim) ![](https://img.shields.io/github/last-commit/nullchilly/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/nullchilly/cp.nvim)
+
+# Development Environment
+
+## Xcode
 
 - [tami5/xbase](https://github.com/tami5/xbase) ![](https://img.shields.io/github/stars/tami5/xbase) ![](https://img.shields.io/github/last-commit/tami5/xbase) ![](https://img.shields.io/github/commit-activity/y/tami5/xbase)
