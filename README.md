@@ -880,6 +880,7 @@
 - [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) ![](https://img.shields.io/github/stars/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/last-commit/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/telescope-repo.nvim)
 - [nvim-telescope/telescope-project.nvim](https://github.com/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-project.nvim)
 - [AckslD/nvim-gfold.lua](https://github.com/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-gfold.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-gfold.lua)
+- [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) ![](https://img.shields.io/github/stars/charludo/projectmgr.nvim) ![](https://img.shields.io/github/last-commit/charludo/projectmgr.nvim) ![](https://img.shields.io/github/commit-activity/y/charludo/projectmgr.nvim)
 
 #### Project Root Detector
 
