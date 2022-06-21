@@ -147,6 +147,7 @@
 
 - [frabjous/knap](https://github.com/frabjous/knap) ![](https://img.shields.io/github/stars/frabjous/knap) ![](https://img.shields.io/github/last-commit/frabjous/knap) ![](https://img.shields.io/github/commit-activity/y/frabjous/knap)
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/stars/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/texmagic.nvim)
+- [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/stars/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/last-commit/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/commit-activity/y/bamonroe/rnoweb-nvim)
 
 # Competitive programming
 
