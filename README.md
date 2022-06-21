@@ -522,6 +522,7 @@
 - [pianocomposer321/consolation.nvim](https://github.com/pianocomposer321/consolation.nvim) ![](https://img.shields.io/github/stars/pianocomposer321/consolation.nvim) ![](https://img.shields.io/github/last-commit/pianocomposer321/consolation.nvim) ![](https://img.shields.io/github/commit-activity/y/pianocomposer321/consolation.nvim)
 - [jlesquembre/nterm.nvim](https://github.com/jlesquembre/nterm.nvim) ![](https://img.shields.io/github/stars/jlesquembre/nterm.nvim) ![](https://img.shields.io/github/last-commit/jlesquembre/nterm.nvim) ![](https://img.shields.io/github/commit-activity/y/jlesquembre/nterm.nvim)
 - [s1n7ax/nvim-terminal](https://github.com/s1n7ax/nvim-terminal) ![](https://img.shields.io/github/stars/s1n7ax/nvim-terminal) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-terminal) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-terminal)
+- [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoTerm.lua)
 
 ### External terminal
 
