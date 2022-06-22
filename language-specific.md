@@ -69,6 +69,7 @@
 - [Snyssfx/goerr-nvim](https://github.com/Snyssfx/goerr-nvim) ![](https://img.shields.io/github/stars/Snyssfx/goerr-nvim) ![](https://img.shields.io/github/last-commit/Snyssfx/goerr-nvim) ![](https://img.shields.io/github/commit-activity/y/Snyssfx/goerr-nvim)
 - [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim) ![](https://img.shields.io/github/stars/crusj/structrue-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/structrue-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/structrue-go.nvim)
 - [crusj/hierarchy-tree-go.nvim](https://github.com/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/hierarchy-tree-go.nvim)
+- [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) ![](https://img.shields.io/github/stars/olexsmir/gopher.nvim) ![](https://img.shields.io/github/last-commit/olexsmir/gopher.nvim) ![](https://img.shields.io/github/commit-activity/y/olexsmir/gopher.nvim)
 
 ### C/C++
 
