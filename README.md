@@ -27,7 +27,7 @@
     - [Zen Mode](#zen-mode)
       - [Highlight current function](#highlight-current-function)
     - [Background](#background)
-  - [Movement](#movement)
+  - [Motion](#motion)
     - [j/k](#jk)
     - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
     - [Horizontal Move](#horizontal-move)
@@ -36,7 +36,7 @@
     - [Line Move](#line-move)
     - [Jump](#jump)
       - [Edit History](#edit-history)
-      - [Cursor Movement History](#cursor-movement-history)
+      - [Cursor Position History](#cursor-position-history)
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
@@ -298,7 +298,7 @@
 
 - [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/stars/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-transparent)
 
-## Movement
+## Motion
 
 ### j/k
 
@@ -338,7 +338,7 @@
 
 #### Edit History
 
-#### Cursor Movement History
+#### Cursor Position History
 
 ### Scrolling
 
