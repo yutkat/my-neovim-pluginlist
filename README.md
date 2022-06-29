@@ -767,6 +767,7 @@
 
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/stars/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/last-commit/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/commit-activity/y/haringsrob/nvim_context_vt)
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
+- [uga-rosa/sticky-header.nvim](https://github.com/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/stars/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/sticky-header.nvim)
 
 #### Context Header
 
