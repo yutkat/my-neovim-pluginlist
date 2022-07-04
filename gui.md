@@ -47,3 +47,4 @@
 ## Font size
 
 - [tenxsoydev/size-matters.nvim](https://github.com/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/size-matters.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/size-matters.nvim)
+- [ktunprasert/gui-font-resize.nvim](https://github.com/ktunprasert/gui-font-resize.nvim) ![](https://img.shields.io/github/stars/ktunprasert/gui-font-resize.nvim) ![](https://img.shields.io/github/last-commit/ktunprasert/gui-font-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/ktunprasert/gui-font-resize.nvim)
