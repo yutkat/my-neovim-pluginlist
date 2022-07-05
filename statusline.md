@@ -34,6 +34,5 @@
 
 ## Statusline component
 
-- [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) ![](https://img.shields.io/github/stars/SmiteshP/nvim-gps) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-gps) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-gps)
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) ![](https://img.shields.io/github/stars/b0o/incline.nvim) ![](https://img.shields.io/github/last-commit/b0o/incline.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/incline.nvim)
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navic) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navic) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navic)
