@@ -90,7 +90,7 @@
 ### Clojure
 
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/stars/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/last-commit/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/commit-activity/y/clojure-vim/jazz.nvim)
-- [tami5/lispdocs.nvim](https://github.com/tami5/lispdocs.nvim) ![](https://img.shields.io/github/stars/tami5/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/tami5/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/tami5/lispdocs.nvim)
+- [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/stars/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lispdocs.nvim)
 
 ## Configuration File
 
@@ -160,4 +160,4 @@
 
 ## Xcode
 
-- [tami5/xbase](https://github.com/tami5/xbase) ![](https://img.shields.io/github/stars/tami5/xbase) ![](https://img.shields.io/github/last-commit/tami5/xbase) ![](https://img.shields.io/github/commit-activity/y/tami5/xbase)
+- [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
