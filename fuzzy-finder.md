@@ -2,15 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [FuzzyFinder](#fuzzyfinder)
-    - [Telescope Extensions](#telescope-extensions)
-      - [Sorter](#sorter)
-      - [Grep](#grep)
-      - [Integration for another plugin](#integration-for-another-plugin)
+  - [Telescope Extensions](#telescope-extensions)
+    - [Sorter](#sorter)
+    - [Grep](#grep)
+    - [Integration for another plugin](#integration-for-another-plugin)
 
 # FuzzyFinder
 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope.nvim)
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/stars/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/last-commit/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/commit-activity/y/vijaymarupudi/nvim-fzf)
+  - [vijaymarupudi/nvim-fzf-commands](https://github.com/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/stars/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/last-commit/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/commit-activity/y/vijaymarupudi/nvim-fzf-commands)
 - [amirrezaask/fuzzy.nvim](https://github.com/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/stars/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/fuzzy.nvim)
 - [camspiers/snap](https://github.com/camspiers/snap) ![](https://img.shields.io/github/stars/camspiers/snap) ![](https://img.shields.io/github/last-commit/camspiers/snap) ![](https://img.shields.io/github/commit-activity/y/camspiers/snap)
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) ![](https://img.shields.io/github/stars/ibhagwan/fzf-lua) ![](https://img.shields.io/github/last-commit/ibhagwan/fzf-lua) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/fzf-lua)
