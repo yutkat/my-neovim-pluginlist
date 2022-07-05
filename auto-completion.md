@@ -75,6 +75,7 @@
 
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) ![](https://img.shields.io/github/stars/onsails/lspkind-nvim) ![](https://img.shields.io/github/last-commit/onsails/lspkind-nvim) ![](https://img.shields.io/github/commit-activity/y/onsails/lspkind-nvim)
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/stars/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/last-commit/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/lsp_signature.nvim)
+- [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/stars/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/last-commit/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/commit-activity/y/Issafalcon/lsp-overloads.nvim)
 
 ## AI Completion
 
