@@ -129,6 +129,7 @@
 
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
+- [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 
 #### Markdown code fence
 

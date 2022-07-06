@@ -127,6 +127,7 @@
     - [Improve startup time](#improve-startup-time)
   - [Coding](#coding)
     - [Reading assistant feature](#reading-assistant-feature)
+      - [Current Position Info](#current-position-info)
       - [Context Header](#context-header)
         - [Indent Guide](#indent-guide)
     - [Formatting](#formatting)
@@ -779,6 +780,10 @@
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/stars/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/last-commit/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/commit-activity/y/haringsrob/nvim_context_vt)
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
 - [uga-rosa/sticky-header.nvim](https://github.com/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/stars/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/sticky-header.nvim)
+
+#### Current Position Info
+
+- [delphinus/characterize.nvim](https://github.com/delphinus/characterize.nvim) ![](https://img.shields.io/github/stars/delphinus/characterize.nvim) ![](https://img.shields.io/github/last-commit/delphinus/characterize.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/characterize.nvim)
 
 #### Context Header
 
