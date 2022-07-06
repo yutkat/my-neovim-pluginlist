@@ -13,6 +13,7 @@
     - [Java](#java)
     - [Dart, Flutter](#dart-flutter)
     - [Clojure](#clojure)
+    - [Moonscript](#moonscript)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
     - [YAML](#yaml)
@@ -91,6 +92,10 @@
 
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/stars/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/last-commit/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/commit-activity/y/clojure-vim/jazz.nvim)
 - [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/stars/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lispdocs.nvim)
+
+### Moonscript
+
+- [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
 
 ## Configuration File
 
