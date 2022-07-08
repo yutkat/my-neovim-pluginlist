@@ -13,6 +13,7 @@
     - [Java](#java)
     - [Dart, Flutter](#dart-flutter)
     - [Clojure](#clojure)
+    - [Elixir](#elixir)
     - [Moonscript](#moonscript)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
@@ -92,6 +93,10 @@
 
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/stars/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/last-commit/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/commit-activity/y/clojure-vim/jazz.nvim)
 - [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/stars/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lispdocs.nvim)
+
+### Elixir
+
+- [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) ![](https://img.shields.io/github/stars/mhanberg/elixir.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/elixir.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/elixir.nvim)
 
 ### Moonscript
 
