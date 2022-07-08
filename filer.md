@@ -27,6 +27,7 @@
 - [bobrown101/minimal-nnn.nvim](https://github.com/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/stars/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/minimal-nnn.nvim)
 - [ten3roberts/graphene.nvim](https://github.com/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/stars/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/last-commit/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/commit-activity/y/ten3roberts/graphene.nvim)
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) ![](https://img.shields.io/github/stars/lewis6991/brodir.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/brodir.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/brodir.nvim)
+- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
 
 ### Floating Style
 
