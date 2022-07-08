@@ -11,6 +11,7 @@
   - [Icon](#icon)
   - [Unicode](#unicode)
   - [Mathematics](#mathematics)
+  - [Enhanced Standard Features](#enhanced-standard-features)
 
 ### Notification
 
@@ -60,3 +61,7 @@
 ### Mathematics
 
 - [jbyuki/swan.lua](https://github.com/jbyuki/swan.lua) ![](https://img.shields.io/github/stars/jbyuki/swan.lua) ![](https://img.shields.io/github/last-commit/jbyuki/swan.lua) ![](https://img.shields.io/github/commit-activity/y/jbyuki/swan.lua)
+
+### Enhanced Standard Features
+
+- [delphinus/f_meta.nvim](https://github.com/delphinus/f_meta.nvim) ![](https://img.shields.io/github/stars/delphinus/f_meta.nvim) ![](https://img.shields.io/github/last-commit/delphinus/f_meta.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/f_meta.nvim)
