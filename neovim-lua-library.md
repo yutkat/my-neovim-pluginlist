@@ -1,17 +1,18 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Notification](#notification)
-  - [async](#async)
-  - [UI](#ui)
-  - [REST](#rest)
-  - [Require](#require)
-  - [Hook](#hook)
-  - [Mode](#mode)
-  - [Icon](#icon)
-  - [Unicode](#unicode)
-  - [Mathematics](#mathematics)
-  - [Enhanced Standard Features](#enhanced-standard-features)
+    - [Notification](#notification)
+    - [async](#async)
+    - [UI](#ui)
+    - [REST](#rest)
+    - [Require](#require)
+    - [Hook](#hook)
+    - [Mode](#mode)
+    - [Icon](#icon)
+    - [Unicode](#unicode)
+    - [Mathematics](#mathematics)
+    - [Treesitter](#treesitter)
+    - [Enhanced Standard Features](#enhanced-standard-features)
 
 ### Notification
 
@@ -61,6 +62,10 @@
 ### Mathematics
 
 - [jbyuki/swan.lua](https://github.com/jbyuki/swan.lua) ![](https://img.shields.io/github/stars/jbyuki/swan.lua) ![](https://img.shields.io/github/last-commit/jbyuki/swan.lua) ![](https://img.shields.io/github/commit-activity/y/jbyuki/swan.lua)
+
+### Treesitter
+
+- [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/stars/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/last-commit/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/commit-activity/y/tjdevries/tree-sitter-lua)
 
 ### Enhanced Standard Features
 
