@@ -15,6 +15,7 @@
     - [Dart, Flutter](#dart-flutter)
     - [Clojure](#clojure)
     - [Elixir](#elixir)
+    - [F#](#f)
     - [Moonscript](#moonscript)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
@@ -102,6 +103,10 @@
 ### Elixir
 
 - [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) ![](https://img.shields.io/github/stars/mhanberg/elixir.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/elixir.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/elixir.nvim)
+
+### F#
+
+- [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
 
 ### Moonscript
 
