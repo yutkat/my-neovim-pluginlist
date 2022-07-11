@@ -35,3 +35,4 @@
 
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) ![](https://img.shields.io/github/stars/michaelb/sniprun) ![](https://img.shields.io/github/last-commit/michaelb/sniprun) ![](https://img.shields.io/github/commit-activity/y/michaelb/sniprun)
 - [arjunmahishi/run-code.nvim](https://github.com/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/run-code.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/run-code.nvim)
+- [0x100101/lab.nvim](https://github.com/0x100101/lab.nvim) ![](https://img.shields.io/github/stars/0x100101/lab.nvim) ![](https://img.shields.io/github/last-commit/0x100101/lab.nvim) ![](https://img.shields.io/github/commit-activity/y/0x100101/lab.nvim)
