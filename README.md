@@ -31,6 +31,7 @@
     - [j/k](#jk)
     - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
     - [Horizontal Move](#horizontal-move)
+      - [Show jump word](#show-jump-word)
     - [Vertical Move](#vertical-move)
     - [Word Motion](#word-motion)
     - [Line Move](#line-move)
@@ -326,6 +327,10 @@
 - [ggandor/lightspeed.nvim(1-character search (f/t))](https://github.com/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/lightspeed.nvim)
 - [kevinhwang91/nvim-fFHighlight](https://github.com/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-fFHighlight)
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) ![](https://img.shields.io/github/stars/gukz/ftFT.nvim) ![](https://img.shields.io/github/last-commit/gukz/ftFT.nvim) ![](https://img.shields.io/github/commit-activity/y/gukz/ftFT.nvim)
+
+#### Show jump word
+
+- [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/stars/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/last-commit/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/commit-activity/y/jinh0/eyeliner.nvim)
 
 ### Vertical Move
 
