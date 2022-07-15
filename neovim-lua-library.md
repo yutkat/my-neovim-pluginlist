@@ -1,18 +1,19 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Notification](#notification)
-    - [async](#async)
-    - [UI](#ui)
-    - [REST](#rest)
-    - [Require](#require)
-    - [Hook](#hook)
-    - [Mode](#mode)
-    - [Icon](#icon)
-    - [Unicode](#unicode)
-    - [Mathematics](#mathematics)
-    - [Treesitter](#treesitter)
-    - [Enhanced Standard Features](#enhanced-standard-features)
+        - [Notification](#notification)
+        - [async](#async)
+        - [UI](#ui)
+        - [REST](#rest)
+        - [JSON](#json)
+        - [Require](#require)
+        - [Hook](#hook)
+        - [Mode](#mode)
+        - [Icon](#icon)
+        - [Unicode](#unicode)
+        - [Mathematics](#mathematics)
+        - [Treesitter](#treesitter)
+        - [Enhanced Standard Features](#enhanced-standard-features)
 
 ### Notification
 
@@ -36,6 +37,10 @@
 ### REST
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
+
+### JSON
+
+- [rxi/json.lua](https://github.com/rxi/json.lua) ![](https://img.shields.io/github/stars/rxi/json.lua) ![](https://img.shields.io/github/last-commit/rxi/json.lua) ![](https://img.shields.io/github/commit-activity/y/rxi/json.lua)
 
 ### Require
 
