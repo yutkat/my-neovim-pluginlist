@@ -9,6 +9,11 @@
       - [perf](#perf)
     - [Matrix.org](#matrixorg)
     - [Notion](#notion)
+    - [Twitch](#twitch)
+    - [Xcode](#xcode)
+    - [SuperCollider](#supercollider)
+    - [ROS](#ros)
+    - [IME](#ime)
 
 ## Integration with other apps
 
@@ -49,3 +54,25 @@
 ### Notion
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
+
+### Twitch
+
+- [samodostal/is-prime-online.nvim](https://github.com/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/stars/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/last-commit/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/is-prime-online.nvim)
+
+### Xcode
+
+- [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
+
+### SuperCollider
+
+- [madskjeldgaard/supercollider-h4x-nvim](https://github.com/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/supercollider-h4x-nvim)
+
+### ROS
+
+- [thibthib18/ros-nvim](https://github.com/thibthib18/ros-nvim) ![](https://img.shields.io/github/stars/thibthib18/ros-nvim) ![](https://img.shields.io/github/last-commit/thibthib18/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/ros-nvim)
+
+### IME
+
+- [tonyfettes/fcitx5.nvim](https://github.com/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/stars/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/fcitx5.nvim)
+- [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
+- [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
