@@ -30,6 +30,7 @@
 - [marcushwz/nvim-workbench](https://github.com/marcushwz/nvim-workbench) ![](https://img.shields.io/github/stars/marcushwz/nvim-workbench) ![](https://img.shields.io/github/last-commit/marcushwz/nvim-workbench) ![](https://img.shields.io/github/commit-activity/y/marcushwz/nvim-workbench)
 - [nagy135/capture-nvim](https://github.com/nagy135/capture-nvim) ![](https://img.shields.io/github/stars/nagy135/capture-nvim) ![](https://img.shields.io/github/last-commit/nagy135/capture-nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/capture-nvim)
 - [smolck/nvim-todoist.lua](https://github.com/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/stars/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/last-commit/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/commit-activity/y/smolck/nvim-todoist.lua)
+- [arnarg/todotxt.nvim](https://github.com/arnarg/todotxt.nvim) ![](https://img.shields.io/github/stars/arnarg/todotxt.nvim) ![](https://img.shields.io/github/last-commit/arnarg/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/arnarg/todotxt.nvim)
 
 ### etc
 

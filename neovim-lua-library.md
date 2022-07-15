@@ -1,19 +1,19 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Notification](#notification)
-    - [async](#async)
-    - [UI](#ui)
-    - [REST](#rest)
-    - [JSON](#json)
-    - [Require](#require)
-    - [Hook](#hook)
-    - [Mode](#mode)
-    - [Icon](#icon)
-    - [Unicode](#unicode)
-    - [Mathematics](#mathematics)
-    - [Treesitter](#treesitter)
-    - [Enhanced Standard Features](#enhanced-standard-features)
+        - [Notification](#notification)
+        - [async](#async)
+        - [UI](#ui)
+        - [REST](#rest)
+        - [JSON](#json)
+        - [Require](#require)
+        - [Hook](#hook)
+        - [Mode](#mode)
+        - [Icon](#icon)
+        - [Unicode](#unicode)
+        - [Mathematics](#mathematics)
+        - [Treesitter](#treesitter)
+        - [Enhanced Standard Features](#enhanced-standard-features)
 
 ### Notification
 
@@ -35,6 +35,7 @@
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) ![](https://img.shields.io/github/stars/stevearc/dressing.nvim) ![](https://img.shields.io/github/last-commit/stevearc/dressing.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/dressing.nvim)
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
+- [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
 
 ### REST
 

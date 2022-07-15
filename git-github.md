@@ -11,6 +11,7 @@
   - [GitHub](#github)
     - [Features like gh](#features-like-gh)
     - [GitHub tweaks](#github-tweaks)
+    - [Link](#link)
 
 ### Git
 
@@ -65,3 +66,7 @@
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
+
+#### Link
+
+- [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) ![](https://img.shields.io/github/stars/hkupty/pointer.nvim) ![](https://img.shields.io/github/last-commit/hkupty/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/pointer.nvim)

@@ -16,6 +16,7 @@
 - [camspiers/snap](https://github.com/camspiers/snap) ![](https://img.shields.io/github/stars/camspiers/snap) ![](https://img.shields.io/github/last-commit/camspiers/snap) ![](https://img.shields.io/github/commit-activity/y/camspiers/snap)
 - [ibhagwan/fzf-lua](https://github.com/ibhagwan/fzf-lua) ![](https://img.shields.io/github/stars/ibhagwan/fzf-lua) ![](https://img.shields.io/github/last-commit/ibhagwan/fzf-lua) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/fzf-lua)
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) ![](https://img.shields.io/github/stars/RishabhRD/nvim-finder) ![](https://img.shields.io/github/last-commit/RishabhRD/nvim-finder) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/nvim-finder)
+- [shoumodip/helm.nvim](https://github.com/shoumodip/helm.nvim) ![](https://img.shields.io/github/stars/shoumodip/helm.nvim) ![](https://img.shields.io/github/last-commit/shoumodip/helm.nvim) ![](https://img.shields.io/github/commit-activity/y/shoumodip/helm.nvim)
 
 ### Telescope Extensions
 
