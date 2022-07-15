@@ -12,6 +12,7 @@
 ### Org mode
 
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ![](https://img.shields.io/github/stars/nvim-neorg/neorg) ![](https://img.shields.io/github/last-commit/nvim-neorg/neorg) ![](https://img.shields.io/github/commit-activity/y/nvim-neorg/neorg)
+  - [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/stars/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/last-commit/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/commit-activity/y/nvim-neorg/neorg-telescope)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) ![](https://img.shields.io/github/stars/nvim-orgmode/orgmode) ![](https://img.shields.io/github/last-commit/nvim-orgmode/orgmode) ![](https://img.shields.io/github/commit-activity/y/nvim-orgmode/orgmode)
   - [akinsho/org-bullets.nvim](https://github.com/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/stars/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/last-commit/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/org-bullets.nvim)
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/orgWiki.nvim)

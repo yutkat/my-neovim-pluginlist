@@ -1,19 +1,19 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-        - [Notification](#notification)
-        - [async](#async)
-        - [UI](#ui)
-        - [REST](#rest)
-        - [JSON](#json)
-        - [Require](#require)
-        - [Hook](#hook)
-        - [Mode](#mode)
-        - [Icon](#icon)
-        - [Unicode](#unicode)
-        - [Mathematics](#mathematics)
-        - [Treesitter](#treesitter)
-        - [Enhanced Standard Features](#enhanced-standard-features)
+    - [Notification](#notification)
+    - [async](#async)
+    - [UI](#ui)
+    - [REST](#rest)
+    - [JSON](#json)
+    - [Require](#require)
+    - [Hook](#hook)
+    - [Mode](#mode)
+    - [Icon](#icon)
+    - [Unicode](#unicode)
+    - [Mathematics](#mathematics)
+    - [Treesitter](#treesitter)
+    - [Enhanced Standard Features](#enhanced-standard-features)
 
 ### Notification
 
@@ -26,6 +26,7 @@
 - [ms-jpq/lua-async-await](https://github.com/ms-jpq/lua-async-await) ![](https://img.shields.io/github/stars/ms-jpq/lua-async-await) ![](https://img.shields.io/github/last-commit/ms-jpq/lua-async-await) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/lua-async-await)
 - [notomo/promise.nvim](https://github.com/notomo/promise.nvim) ![](https://img.shields.io/github/stars/notomo/promise.nvim) ![](https://img.shields.io/github/last-commit/notomo/promise.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/promise.nvim)
 - [iamcco/async-await.lua](https://github.com/iamcco/async-await.lua) ![](https://img.shields.io/github/stars/iamcco/async-await.lua) ![](https://img.shields.io/github/last-commit/iamcco/async-await.lua) ![](https://img.shields.io/github/commit-activity/y/iamcco/async-await.lua)
+- [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) ![](https://img.shields.io/github/stars/kevinhwang91/promise-async) ![](https://img.shields.io/github/last-commit/kevinhwang91/promise-async) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/promise-async)
 
 ### UI
 
@@ -33,6 +34,7 @@
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
 - [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) ![](https://img.shields.io/github/stars/stevearc/dressing.nvim) ![](https://img.shields.io/github/last-commit/stevearc/dressing.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/dressing.nvim)
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
+- [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 
 ### REST
 

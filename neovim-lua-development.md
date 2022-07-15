@@ -8,6 +8,8 @@
   - [Fennel](#fennel)
   - [Colorscheme Creation](#colorscheme-creation)
   - [Color Creation](#color-creation)
+  - [CI](#ci)
+    - [Actions](#actions)
 
 ### Neovim Lua Development
 
@@ -53,3 +55,10 @@
 ### Color Creation
 
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ![](https://img.shields.io/github/stars/max397574/colortils.nvim) ![](https://img.shields.io/github/last-commit/max397574/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/colortils.nvim)
+- [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/color-picker.nvim)
+
+### CI
+
+#### Actions
+
+- [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
