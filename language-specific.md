@@ -58,6 +58,7 @@
 
 - [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
 - [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
+- [tacogips/run-jupyter.nvim](https://github.com/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/stars/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/last-commit/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/run-jupyter.nvim)
 
 ### Lua
 
