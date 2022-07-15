@@ -23,6 +23,7 @@
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/sekme.nvim)
 - [jose-elias-alvarez/null-ls.nvim(Completion)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [vigoux/complementree.nvim](https://github.com/vigoux/complementree.nvim) ![](https://img.shields.io/github/stars/vigoux/complementree.nvim) ![](https://img.shields.io/github/last-commit/vigoux/complementree.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/complementree.nvim)
+- [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lsp-compl)
 
 ### Made in Python
 

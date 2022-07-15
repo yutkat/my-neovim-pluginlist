@@ -6,6 +6,7 @@
     - [Javascript/Typescript](#javascripttypescript)
       - [Test](#test)
     - [HTML](#html)
+    - [React](#react)
     - [Python](#python)
     - [Lua](#lua)
     - [Rust](#rust)
@@ -22,6 +23,7 @@
     - [YAML](#yaml)
     - [CSV](#csv)
     - [SQL](#sql)
+      - [PostgreSQL](#postgresql)
   - [Documentation](#documentation)
     - [Markdown](#markdown)
       - [Markdown header jump](#markdown-header-jump)
@@ -45,6 +47,7 @@
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/typescript.nvim)
 - [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) ![](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/web-tools.nvim)
+- [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)
 
 #### Test
 
@@ -54,15 +57,21 @@
 
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/stars/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/last-commit/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-ts-autotag)
 
+### React
+
+- [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) ![](https://img.shields.io/github/stars/napmn/react-extract.nvim) ![](https://img.shields.io/github/last-commit/napmn/react-extract.nvim) ![](https://img.shields.io/github/commit-activity/y/napmn/react-extract.nvim)
+
 ### Python
 
 - [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
 - [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
 - [tacogips/run-jupyter.nvim](https://github.com/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/stars/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/last-commit/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/run-jupyter.nvim)
+- [HallerPatrick/py_lsp.nvim](https://github.com/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/stars/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/last-commit/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HallerPatrick/py_lsp.nvim)
 
 ### Lua
 
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) ![](https://img.shields.io/github/stars/ii14/emmylua-nvim) ![](https://img.shields.io/github/last-commit/ii14/emmylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/emmylua-nvim)
+- [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) ![](https://img.shields.io/github/stars/ckipp01/stylua-nvim) ![](https://img.shields.io/github/last-commit/ckipp01/stylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ckipp01/stylua-nvim)
 
 ### Rust
 
@@ -79,11 +88,13 @@
 - [crusj/structrue-go.nvim](https://github.com/crusj/structrue-go.nvim) ![](https://img.shields.io/github/stars/crusj/structrue-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/structrue-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/structrue-go.nvim)
 - [crusj/hierarchy-tree-go.nvim](https://github.com/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/hierarchy-tree-go.nvim)
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) ![](https://img.shields.io/github/stars/olexsmir/gopher.nvim) ![](https://img.shields.io/github/last-commit/olexsmir/gopher.nvim) ![](https://img.shields.io/github/commit-activity/y/olexsmir/gopher.nvim)
+- [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) ![](https://img.shields.io/github/stars/leoluz/nvim-dap-go) ![](https://img.shields.io/github/last-commit/leoluz/nvim-dap-go) ![](https://img.shields.io/github/commit-activity/y/leoluz/nvim-dap-go)
 
 ### C/C++
 
 - [Badhi/nvim-treesitter-cpp-tools](https://github.com/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/stars/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/last-commit/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/commit-activity/y/Badhi/nvim-treesitter-cpp-tools)
 - [jakemason/ouroboros](https://github.com/jakemason/ouroboros) ![](https://img.shields.io/github/stars/jakemason/ouroboros) ![](https://img.shields.io/github/last-commit/jakemason/ouroboros) ![](https://img.shields.io/github/commit-activity/y/jakemason/ouroboros)
+- [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/stars/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/last-commit/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/clangd_extensions.nvim)
 
 ### Java
 
@@ -134,6 +145,10 @@
 
 - [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
 
+#### PostgreSQL
+
+- [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
+
 ## Documentation
 
 ### Markdown
@@ -141,6 +156,7 @@
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/stars/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/last-commit/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/follow-md-links.nvim)
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/stars/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/mdeval.nvim)
 - [Iron-E/nvim-marktext](https://github.com/Iron-E/nvim-marktext) ![](https://img.shields.io/github/stars/Iron-E/nvim-marktext) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-marktext) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-marktext)
+- [jc-doyle/cmp-pandoc-references](https://github.com/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/stars/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/last-commit/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/commit-activity/y/jc-doyle/cmp-pandoc-references)
 
 #### Markdown header jump
 
@@ -171,6 +187,8 @@
 - [frabjous/knap](https://github.com/frabjous/knap) ![](https://img.shields.io/github/stars/frabjous/knap) ![](https://img.shields.io/github/last-commit/frabjous/knap) ![](https://img.shields.io/github/commit-activity/y/frabjous/knap)
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/stars/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/texmagic.nvim)
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/stars/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/last-commit/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/commit-activity/y/bamonroe/rnoweb-nvim)
+- [kdheepak/cmp-latex-symbols](https://github.com/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/stars/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/last-commit/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/commit-activity/y/kdheepak/cmp-latex-symbols)
+- [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-bibtex.nvim)
 
 # Competitive programming
 
