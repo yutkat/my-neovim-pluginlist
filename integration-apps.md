@@ -9,6 +9,7 @@
       - [perf](#perf)
     - [Matrix.org](#matrixorg)
     - [Notion](#notion)
+    - [Google Docs](#google-docs)
     - [Twitch](#twitch)
     - [Xcode](#xcode)
     - [SuperCollider](#supercollider)
@@ -54,6 +55,10 @@
 ### Notion
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
+
+### Google Docs
+
+- [aadv1k/gdoc.vim](https://github.com/aadv1k/gdoc.vim) ![](https://img.shields.io/github/stars/aadv1k/gdoc.vim) ![](https://img.shields.io/github/last-commit/aadv1k/gdoc.vim) ![](https://img.shields.io/github/commit-activity/y/aadv1k/gdoc.vim)
 
 ### Twitch
 
