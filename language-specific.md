@@ -27,7 +27,8 @@
     - [JSON](#json)
     - [YAML](#yaml)
     - [CSV](#csv)
-    - [SQL](#sql)
+    - [Database](#database)
+      - [SQL](#sql)
       - [PostgreSQL](#postgresql)
     - [Jenkins](#jenkins)
   - [Documentation](#documentation)
@@ -177,7 +178,11 @@
 
 - [chen244/csv-tools.lua](https://github.com/chen244/csv-tools.lua) ![](https://img.shields.io/github/stars/chen244/csv-tools.lua) ![](https://img.shields.io/github/last-commit/chen244/csv-tools.lua) ![](https://img.shields.io/github/commit-activity/y/chen244/csv-tools.lua)
 
-### SQL
+### Database
+
+- [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
+
+#### SQL
 
 - [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
 
