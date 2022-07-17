@@ -94,6 +94,7 @@
 ### Local LSP Config
 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
+- [zhang-stephen/nvim-lsp-loader](https://github.com/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/stars/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/last-commit/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/commit-activity/y/zhang-stephen/nvim-lsp-loader)
 
 ### Preconfiguration
 
