@@ -42,9 +42,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -93,6 +93,7 @@
     - [Join](#join)
     - [Yank](#yank)
       - [Register Selector](#register-selector)
+      - [OSC52](#osc52)
     - [Paste](#paste)
       - [Wise paste](#wise-paste)
       - [Cyclic paste](#cyclic-paste)
@@ -176,6 +177,7 @@
     - [Image](#image)
       - [Viewer](#viewer)
       - [Uploader](#uploader)
+    - [Do Not Disturb](#do-not-disturb)
     - [Hex Editor](#hex-editor)
     - [Presentation](#presentation)
     - [Desktop Integration](#desktop-integration)
@@ -271,6 +273,7 @@
 
 - [lukas-reineke/virt-column.nvim](https://github.com/lukas-reineke/virt-column.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/virt-column.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/virt-column.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/virt-column.nvim)
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/stars/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/virtcolumn.nvim)
+- [xiashuangxi/erd.nvim](https://github.com/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/stars/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/last-commit/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/commit-activity/y/xiashuangxi/erd.nvim)
 
 #### Mode
 
@@ -641,6 +644,10 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-peekup)
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) ![](https://img.shields.io/github/stars/tversteeg/registers.nvim) ![](https://img.shields.io/github/last-commit/tversteeg/registers.nvim) ![](https://img.shields.io/github/commit-activity/y/tversteeg/registers.nvim)
 - [acksld/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) ![](https://img.shields.io/github/stars/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/last-commit/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/commit-activity/y/acksld/nvim-neoclip.lua)
+
+#### OSC52
+
+- [ojroques/nvim-oscyank](https://github.com/ojroques/nvim-oscyank) ![](https://img.shields.io/github/stars/ojroques/nvim-oscyank) ![](https://img.shields.io/github/last-commit/ojroques/nvim-oscyank) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-oscyank)
 
 ### Paste
 
@@ -1037,6 +1044,10 @@
 #### Uploader
 
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) ![](https://img.shields.io/github/stars/askfiy/nvim-picgo) ![](https://img.shields.io/github/last-commit/askfiy/nvim-picgo) ![](https://img.shields.io/github/commit-activity/y/askfiy/nvim-picgo)
+
+### Do Not Disturb
+
+- [nicolascb/dnd.nvim](https://github.com/nicolascb/dnd.nvim) ![](https://img.shields.io/github/stars/nicolascb/dnd.nvim) ![](https://img.shields.io/github/last-commit/nicolascb/dnd.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolascb/dnd.nvim)
 
 ### Hex Editor
 

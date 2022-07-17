@@ -81,6 +81,7 @@
 - [HallerPatrick/py_lsp.nvim](https://github.com/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/stars/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/last-commit/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HallerPatrick/py_lsp.nvim)
 - [eddiebergman/nvim-treesitter-pyfold](https://github.com/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/stars/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/last-commit/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/commit-activity/y/eddiebergman/nvim-treesitter-pyfold)
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
+- [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 
 ### Ruby
 
@@ -245,6 +246,7 @@
 - [kdheepak/cmp-latex-symbols](https://github.com/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/stars/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/last-commit/kdheepak/cmp-latex-symbols) ![](https://img.shields.io/github/commit-activity/y/kdheepak/cmp-latex-symbols)
 - [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-bibtex.nvim)
 - [f3fora/nvim-texlabconfig](https://github.com/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/stars/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/last-commit/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/commit-activity/y/f3fora/nvim-texlabconfig)
+- [jhofscheier/nvim-texis](https://github.com/jhofscheier/nvim-texis) ![](https://img.shields.io/github/stars/jhofscheier/nvim-texis) ![](https://img.shields.io/github/last-commit/jhofscheier/nvim-texis) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/nvim-texis)
 
 # Competitive programming
 
