@@ -35,6 +35,7 @@
 - [spywhere/tmux.nvim](https://github.com/spywhere/tmux.nvim) ![](https://img.shields.io/github/stars/spywhere/tmux.nvim) ![](https://img.shields.io/github/last-commit/spywhere/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/tmux.nvim)
 - [camgraff/telescope-tmux.nvim](https://github.com/camgraff/telescope-tmux.nvim) ![](https://img.shields.io/github/stars/camgraff/telescope-tmux.nvim) ![](https://img.shields.io/github/last-commit/camgraff/telescope-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/camgraff/telescope-tmux.nvim)
 - [nathom/tmux.nvim](https://github.com/nathom/tmux.nvim) ![](https://img.shields.io/github/stars/nathom/tmux.nvim) ![](https://img.shields.io/github/last-commit/nathom/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/tmux.nvim)
+- [thlorenz/tmuxrun.nvim](https://github.com/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/stars/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/last-commit/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/commit-activity/y/thlorenz/tmuxrun.nvim)
 
 ### Kitty
 
