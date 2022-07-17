@@ -6,6 +6,7 @@
   - [Development Tools](#development-tools)
   - [Testing](#testing)
   - [Fennel](#fennel)
+  - [Rust Bindings](#rust-bindings)
   - [Colorscheme Creation](#colorscheme-creation)
   - [Color Creation](#color-creation)
   - [CI](#ci)
@@ -41,6 +42,10 @@
 - [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) ![](https://img.shields.io/github/stars/tsbohc/zest.nvim) ![](https://img.shields.io/github/last-commit/tsbohc/zest.nvim) ![](https://img.shields.io/github/commit-activity/y/tsbohc/zest.nvim)
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/hibiscus.nvim)
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/tangerine.nvim)
+
+### Rust Bindings
+
+- [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) ![](https://img.shields.io/github/stars/noib3/nvim-oxi) ![](https://img.shields.io/github/last-commit/noib3/nvim-oxi) ![](https://img.shields.io/github/commit-activity/y/noib3/nvim-oxi)
 
 ### Colorscheme Creation
 
