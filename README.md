@@ -42,9 +42,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -869,6 +869,7 @@
 
 #### Snippet definitions
 
+- [utilyre/spoon.nvim](https://github.com/utilyre/spoon.nvim) ![](https://img.shields.io/github/stars/utilyre/spoon.nvim) ![](https://img.shields.io/github/last-commit/utilyre/spoon.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/spoon.nvim)
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
 
 #### Snippet converter
