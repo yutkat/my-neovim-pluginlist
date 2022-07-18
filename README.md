@@ -191,6 +191,7 @@
   - [Colorscheme](#colorscheme)
   - [Neovim Distribution](#neovim-distribution)
   - [GUI](#gui)
+  - [External Tools](#external-tools)
   - [Toy](#toy)
 
 ## Plugin Manager
@@ -1085,5 +1086,7 @@
 ## [Neovim Distribution](./neovim-distribution.md)
 
 ## [GUI](./gui.md)
+
+## [External Tools](./external-tools.md)
 
 ## [Toy](./toy.md)
