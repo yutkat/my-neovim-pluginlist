@@ -247,6 +247,7 @@
 - [p00f/nvim-ts-rainbow](https://github.com/p00f/nvim-ts-rainbow) ![](https://img.shields.io/github/stars/p00f/nvim-ts-rainbow) ![](https://img.shields.io/github/last-commit/p00f/nvim-ts-rainbow) ![](https://img.shields.io/github/commit-activity/y/p00f/nvim-ts-rainbow)
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
+- [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/stars/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/last-commit/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/commit-activity/y/brenoprata10/nvim-highlight-colors)
 
 #### ANSI Colorize
 
@@ -457,6 +458,7 @@
 
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) ![](https://img.shields.io/github/stars/gbprod/substitute.nvim) ![](https://img.shields.io/github/last-commit/gbprod/substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/substitute.nvim)
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) ![](https://img.shields.io/github/stars/gbprod/cutlass.nvim) ![](https://img.shields.io/github/last-commit/gbprod/cutlass.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/cutlass.nvim)
+- [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) ![](https://img.shields.io/github/stars/zdcthomas/yop.nvim) ![](https://img.shields.io/github/last-commit/zdcthomas/yop.nvim) ![](https://img.shields.io/github/commit-activity/y/zdcthomas/yop.nvim)
 
 ### Emoji
 
@@ -716,6 +718,7 @@
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) ![](https://img.shields.io/github/stars/jghauser/mkdir.nvim) ![](https://img.shields.io/github/last-commit/jghauser/mkdir.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/mkdir.nvim)
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) ![](https://img.shields.io/github/stars/sQVe/sort.nvim) ![](https://img.shields.io/github/last-commit/sQVe/sort.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/sort.nvim)
 - [simonefranza/nvim-conv](https://github.com/simonefranza/nvim-conv) ![](https://img.shields.io/github/stars/simonefranza/nvim-conv) ![](https://img.shields.io/github/last-commit/simonefranza/nvim-conv) ![](https://img.shields.io/github/commit-activity/y/simonefranza/nvim-conv)
+- [stumash/sequence.nvim](https://github.com/stumash/sequence.nvim) ![](https://img.shields.io/github/stars/stumash/sequence.nvim) ![](https://img.shields.io/github/last-commit/stumash/sequence.nvim) ![](https://img.shields.io/github/commit-activity/y/stumash/sequence.nvim)
 
 #### Redirect to scratch buffer
 
