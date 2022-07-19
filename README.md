@@ -459,6 +459,7 @@
 - [gbprod/substitute.nvim](https://github.com/gbprod/substitute.nvim) ![](https://img.shields.io/github/stars/gbprod/substitute.nvim) ![](https://img.shields.io/github/last-commit/gbprod/substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/substitute.nvim)
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) ![](https://img.shields.io/github/stars/gbprod/cutlass.nvim) ![](https://img.shields.io/github/last-commit/gbprod/cutlass.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/cutlass.nvim)
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) ![](https://img.shields.io/github/stars/zdcthomas/yop.nvim) ![](https://img.shields.io/github/last-commit/zdcthomas/yop.nvim) ![](https://img.shields.io/github/commit-activity/y/zdcthomas/yop.nvim)
+- [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-ast.nvim)
 
 ### Emoji
 
