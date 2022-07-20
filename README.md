@@ -82,7 +82,7 @@
     - [Neovim in Neovim](#neovim-in-neovim)
   - [Other Standard Feature Enhancement](#other-standard-feature-enhancement)
     - [Keymap](#keymap)
-      - [Map search](#map-search)
+      - [Mapping search](#mapping-search)
       - [Prefix Key Binding](#prefix-key-binding)
     - [Search](#search)
     - [Replace](#replace)
@@ -599,7 +599,7 @@
 - [eugenpt/lite-xl-vibe](https://github.com/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/stars/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/last-commit/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/commit-activity/y/eugenpt/lite-xl-vibe)
 - [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-amend.nvim)
 
-#### Map search
+#### Mapping search
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ![](https://img.shields.io/github/stars/folke/which-key.nvim) ![](https://img.shields.io/github/last-commit/folke/which-key.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/which-key.nvim)
 - [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-whichkey-setup.lua)
@@ -618,6 +618,7 @@
 - [notomo/reacher.nvim](https://github.com/notomo/reacher.nvim) ![](https://img.shields.io/github/stars/notomo/reacher.nvim) ![](https://img.shields.io/github/last-commit/notomo/reacher.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/reacher.nvim)
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/searchbox.nvim)
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/stars/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/last-commit/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/commit-activity/y/ironhouzi/starlite-nvim)
+- [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/stars/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/last-commit/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/lasterisk.nvim)
 
 ### Replace
 
