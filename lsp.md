@@ -72,6 +72,7 @@
 
 - [jubnzv/virtual-types.nvim](https://github.com/jubnzv/virtual-types.nvim) ![](https://img.shields.io/github/stars/jubnzv/virtual-types.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/virtual-types.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/virtual-types.nvim)
 - [shurizzle/inlay-hints.nvim](https://github.com/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/stars/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/shurizzle/inlay-hints.nvim)
+- [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/stars/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/last-commit/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/commit-activity/y/lvimuser/lsp-inlayhints.nvim)
 
 #### Hover
 
