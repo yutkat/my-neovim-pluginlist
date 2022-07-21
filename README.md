@@ -42,9 +42,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -860,6 +860,7 @@
 - [McAuleyPenney/tidy.nvim](https://github.com/McAuleyPenney/tidy.nvim) ![](https://img.shields.io/github/stars/McAuleyPenney/tidy.nvim) ![](https://img.shields.io/github/last-commit/McAuleyPenney/tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/McAuleyPenney/tidy.nvim)
 - [lewis6991/spaceless.nvim](https://github.com/lewis6991/spaceless.nvim) ![](https://img.shields.io/github/stars/lewis6991/spaceless.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/spaceless.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/spaceless.nvim)
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/stars/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/last-commit/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/johnfrankmorgan/whitespace.nvim)
+- [zakharykaplan/nvim-retrail](https://github.com/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/stars/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/last-commit/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/commit-activity/y/zakharykaplan/nvim-retrail)
 
 ### Lint
 
