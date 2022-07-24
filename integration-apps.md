@@ -42,6 +42,10 @@
 
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
 
+### Vale
+
+- [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
+
 ### Kitty
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
