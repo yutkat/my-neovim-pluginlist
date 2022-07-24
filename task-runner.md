@@ -30,6 +30,7 @@
 - [yutkat/taskrun.nvim](https://github.com/yutkat/taskrun.nvim) ![](https://img.shields.io/github/stars/yutkat/taskrun.nvim) ![](https://img.shields.io/github/last-commit/yutkat/taskrun.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/taskrun.nvim)
 - [antonk52/amake.nvim](https://github.com/antonk52/amake.nvim) ![](https://img.shields.io/github/stars/antonk52/amake.nvim) ![](https://img.shields.io/github/last-commit/antonk52/amake.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/amake.nvim)
 - [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/stars/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/last-commit/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/WaylonWalker/Telegraph.nvim)
+- [crpier/fast-jobs.nvim](https://github.com/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/stars/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/last-commit/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/crpier/fast-jobs.nvim)
 
 ## Partial execution
 

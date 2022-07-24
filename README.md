@@ -42,9 +42,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -374,6 +374,7 @@
 
 - [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/karb94/neoscroll.nvim)
 - [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) ![](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/cinnamon.nvim)
+- [plax-00/endscroll.nvim](https://github.com/plax-00/endscroll.nvim) ![](https://img.shields.io/github/stars/plax-00/endscroll.nvim) ![](https://img.shields.io/github/last-commit/plax-00/endscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/plax-00/endscroll.nvim)
 
 ## Editing support
 
@@ -598,6 +599,7 @@
 - [linty-org/readline.nvim](https://github.com/linty-org/readline.nvim) ![](https://img.shields.io/github/stars/linty-org/readline.nvim) ![](https://img.shields.io/github/last-commit/linty-org/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/linty-org/readline.nvim)
 - [eugenpt/lite-xl-vibe](https://github.com/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/stars/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/last-commit/eugenpt/lite-xl-vibe) ![](https://img.shields.io/github/commit-activity/y/eugenpt/lite-xl-vibe)
 - [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-amend.nvim)
+- [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/stars/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/last-commit/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/stay-in-place.nvim)
 
 #### Mapping search
 
@@ -710,6 +712,7 @@
 - [pierreglaser/folding-nvim](https://github.com/pierreglaser/folding-nvim) ![](https://img.shields.io/github/stars/pierreglaser/folding-nvim) ![](https://img.shields.io/github/last-commit/pierreglaser/folding-nvim) ![](https://img.shields.io/github/commit-activity/y/pierreglaser/folding-nvim)
 - [lewis6991/foldsigns.nvim](https://github.com/lewis6991/foldsigns.nvim) ![](https://img.shields.io/github/stars/lewis6991/foldsigns.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/foldsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/foldsigns.nvim)
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-ufo)
+- [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/stars/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/fold-preview.nvim)
 
 ### Calculation
 
@@ -945,6 +948,7 @@
   - [Weissle/persistent-breakpoints.nvim](https://github.com/Weissle/persistent-breakpoints.nvim) ![](https://img.shields.io/github/stars/Weissle/persistent-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/Weissle/persistent-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/Weissle/persistent-breakpoints.nvim)
   - [rcarriga/cmp-dap](https://github.com/rcarriga/cmp-dap) ![](https://img.shields.io/github/stars/rcarriga/cmp-dap) ![](https://img.shields.io/github/last-commit/rcarriga/cmp-dap) ![](https://img.shields.io/github/commit-activity/y/rcarriga/cmp-dap)
   - [sidebar-nvim/sections-dap](https://github.com/sidebar-nvim/sections-dap) ![](https://img.shields.io/github/stars/sidebar-nvim/sections-dap) ![](https://img.shields.io/github/last-commit/sidebar-nvim/sections-dap) ![](https://img.shields.io/github/commit-activity/y/sidebar-nvim/sections-dap)
+  - [nickbanderson/nvim-dap-runner.nvim](https://github.com/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/stars/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/last-commit/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/nickbanderson/nvim-dap-runner.nvim)
 - [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) ![](https://img.shields.io/github/stars/sakhnik/nvim-gdb) ![](https://img.shields.io/github/last-commit/sakhnik/nvim-gdb) ![](https://img.shields.io/github/commit-activity/y/sakhnik/nvim-gdb)
 
 ### [Git/GitHub](./git-github.md)
