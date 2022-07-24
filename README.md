@@ -85,6 +85,7 @@
       - [Mapping search](#mapping-search)
       - [Prefix Key Binding](#prefix-key-binding)
     - [Search](#search)
+      - [Comment search](#comment-search)
     - [Replace](#replace)
     - [Grep](#grep)
     - [Select](#select)
@@ -621,6 +622,10 @@
 - [VonHeikemen/searchbox.nvim](https://github.com/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/searchbox.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/searchbox.nvim)
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/stars/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/last-commit/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/commit-activity/y/ironhouzi/starlite-nvim)
 - [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/stars/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/last-commit/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/lasterisk.nvim)
+
+#### Comment search
+
+- [ram02z/telescope-dev-comments.nvim](https://github.com/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/stars/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/last-commit/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/ram02z/telescope-dev-comments.nvim)
 
 ### Replace
 
