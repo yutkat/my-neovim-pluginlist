@@ -42,9 +42,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -239,6 +239,7 @@
 - [kdheepak/tabline.nvim](https://github.com/kdheepak/tabline.nvim) ![](https://img.shields.io/github/stars/kdheepak/tabline.nvim) ![](https://img.shields.io/github/last-commit/kdheepak/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/kdheepak/tabline.nvim)
 - [noib3/cokeline.nvim](https://github.com/noib3/cokeline.nvim) ![](https://img.shields.io/github/stars/noib3/cokeline.nvim) ![](https://img.shields.io/github/last-commit/noib3/cokeline.nvim) ![](https://img.shields.io/github/commit-activity/y/noib3/cokeline.nvim)
 - [rafcamlet/tabline-framework.nvim](https://github.com/rafcamlet/tabline-framework.nvim) ![](https://img.shields.io/github/stars/rafcamlet/tabline-framework.nvim) ![](https://img.shields.io/github/last-commit/rafcamlet/tabline-framework.nvim) ![](https://img.shields.io/github/commit-activity/y/rafcamlet/tabline-framework.nvim)
+- [ldelossa/buffertag](https://github.com/ldelossa/buffertag) ![](https://img.shields.io/github/stars/ldelossa/buffertag) ![](https://img.shields.io/github/last-commit/ldelossa/buffertag) ![](https://img.shields.io/github/commit-activity/y/ldelossa/buffertag)
 
 ### Highlight
 
