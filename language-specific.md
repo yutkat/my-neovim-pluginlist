@@ -2,7 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Language specific](#language-specific)
-  - [Programing Language](#programing-language)
+  - [Programing Language / Framework](#programing-language--framework)
     - [Javascript/Typescript](#javascripttypescript)
       - [Test](#test)
       - [npm](#npm)
@@ -45,7 +45,7 @@
 
 # Language specific
 
-## Programing Language
+## Programing Language / Framework
 
 ### Javascript/Typescript
 
@@ -246,6 +246,7 @@
 - [nvim-telescope/telescope-bibtex.nvim](https://github.com/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-bibtex.nvim)
 - [f3fora/nvim-texlabconfig](https://github.com/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/stars/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/last-commit/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/commit-activity/y/f3fora/nvim-texlabconfig)
 - [jhofscheier/nvim-texis](https://github.com/jhofscheier/nvim-texis) ![](https://img.shields.io/github/stars/jhofscheier/nvim-texis) ![](https://img.shields.io/github/last-commit/jhofscheier/nvim-texis) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/nvim-texis)
+- [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/stars/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/ltex_extra.nvim)
 
 # Competitive programming
 
