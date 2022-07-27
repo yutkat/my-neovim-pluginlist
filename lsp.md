@@ -9,7 +9,7 @@
       - [Definition, Reference](#definition-reference)
       - [Code action](#code-action)
       - [Code Lens](#code-lens)
-      - [Hover](#hover)
+      - [Hover Doc](#hover-doc)
       - [Rename](#rename)
     - [LSP Status](#lsp-status)
     - [Local LSP Config](#local-lsp-config)
@@ -74,7 +74,7 @@
 - [shurizzle/inlay-hints.nvim](https://github.com/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/stars/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/shurizzle/inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/shurizzle/inlay-hints.nvim)
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/stars/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/last-commit/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/commit-activity/y/lvimuser/lsp-inlayhints.nvim)
 
-#### Hover
+#### Hover Doc
 
 - [jose-elias-alvarez/null-ls.nvim(Hover)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [tamago324/lsp-preview-hover-doc.nvim](https://github.com/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/stars/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/last-commit/tamago324/lsp-preview-hover-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/lsp-preview-hover-doc.nvim)
