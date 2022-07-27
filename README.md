@@ -737,6 +737,7 @@
 - [simonefranza/nvim-conv](https://github.com/simonefranza/nvim-conv) ![](https://img.shields.io/github/stars/simonefranza/nvim-conv) ![](https://img.shields.io/github/last-commit/simonefranza/nvim-conv) ![](https://img.shields.io/github/commit-activity/y/simonefranza/nvim-conv)
 - [stumash/sequence.nvim](https://github.com/stumash/sequence.nvim) ![](https://img.shields.io/github/stars/stumash/sequence.nvim) ![](https://img.shields.io/github/last-commit/stumash/sequence.nvim) ![](https://img.shields.io/github/commit-activity/y/stumash/sequence.nvim)
 - [hlucco/nvim-eswpoch](https://github.com/hlucco/nvim-eswpoch) ![](https://img.shields.io/github/stars/hlucco/nvim-eswpoch) ![](https://img.shields.io/github/last-commit/hlucco/nvim-eswpoch) ![](https://img.shields.io/github/commit-activity/y/hlucco/nvim-eswpoch)
+- [smjonas/live-command.nvim](https://github.com/smjonas/live-command.nvim) ![](https://img.shields.io/github/stars/smjonas/live-command.nvim) ![](https://img.shields.io/github/last-commit/smjonas/live-command.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/live-command.nvim)
 
 #### Redirect to scratch buffer
 
