@@ -3,7 +3,6 @@
 - [Table of Contents](#table-of-contents)
   - [LSP](#lsp)
     - [LSP Installer](#lsp-installer)
-    - [Setup](#setup)
     - [LSP Feature Extension UI](#lsp-feature-extension-ui)
       - [Diagnostics](#diagnostics)
       - [Definition, Reference](#definition-reference)
@@ -13,8 +12,8 @@
       - [Rename](#rename)
     - [LSP Status](#lsp-status)
     - [Local LSP Config](#local-lsp-config)
-    - [Preconfiguration](#preconfiguration)
-    - [Backwards Compatibility](#backwards-compatibility)
+  - [Pre-configuration](#pre-configuration)
+  - [Backwards Compatibility](#backwards-compatibility)
 
 ## LSP
 
@@ -22,12 +21,10 @@
 
 ### LSP Installer
 
+- [williamboman/mason.nvim(lsp installer)](https://github.com/williamboman/mason.nvim) ![](https://img.shields.io/github/stars/williamboman/mason.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason.nvim)
+  - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/stars/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason-lspconfig.nvim)
 - [williamboman/nvim-lsp-installer](https://github.com/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/stars/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/last-commit/williamboman/nvim-lsp-installer) ![](https://img.shields.io/github/commit-activity/y/williamboman/nvim-lsp-installer)
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/stars/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/last-commit/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/lspcontainers/lspcontainers.nvim)
-
-### Setup
-
-- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/stars/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/last-commit/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/commit-activity/y/junnplus/nvim-lsp-setup)
 
 ### LSP Feature Extension UI
 
@@ -97,10 +94,11 @@
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
 - [zhang-stephen/nvim-lsp-loader](https://github.com/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/stars/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/last-commit/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/commit-activity/y/zhang-stephen/nvim-lsp-loader)
 
-### Preconfiguration
+## Pre-configuration
 
+- [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/stars/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/last-commit/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/commit-activity/y/junnplus/nvim-lsp-setup)
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/lsp-zero.nvim)
 
-### Backwards Compatibility
+## Backwards Compatibility
 
 - [weilbith/nvim-lsp-bacomp](https://github.com/weilbith/nvim-lsp-bacomp) ![](https://img.shields.io/github/stars/weilbith/nvim-lsp-bacomp) ![](https://img.shields.io/github/last-commit/weilbith/nvim-lsp-bacomp) ![](https://img.shields.io/github/commit-activity/y/weilbith/nvim-lsp-bacomp)
