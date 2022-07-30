@@ -4,6 +4,7 @@
   - [Neovim Lua Development](#neovim-lua-development)
   - [Neovim Lua REPL](#neovim-lua-repl)
   - [Development Tools](#development-tools)
+  - [Print](#print)
   - [Testing](#testing)
   - [Fennel](#fennel)
   - [FFI](#ffi)
@@ -29,6 +30,10 @@
 
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) ![](https://img.shields.io/github/stars/tjdevries/nlua.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/nlua.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/nlua.nvim)
 - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) ![](https://img.shields.io/github/stars/tjdevries/vlog.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/vlog.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/vlog.nvim)
+
+### Print
+
+- [dokwork/lua-schema.nvim](https://github.com/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/stars/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/last-commit/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/commit-activity/y/dokwork/lua-schema.nvim)
 
 ### Testing
 
