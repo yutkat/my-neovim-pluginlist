@@ -17,6 +17,7 @@
     - [SuperCollider](#supercollider)
     - [ROS](#ros)
     - [IME](#ime)
+    - [Battery](#battery)
 
 ## Integration with other apps
 
@@ -93,3 +94,7 @@
 - [tonyfettes/fcitx5.nvim](https://github.com/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/stars/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/fcitx5.nvim)
 - [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
+
+### Battery
+
+- [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) ![](https://img.shields.io/github/stars/justinhj/battery.nvim) ![](https://img.shields.io/github/last-commit/justinhj/battery.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/battery.nvim)
