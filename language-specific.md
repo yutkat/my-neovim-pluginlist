@@ -231,6 +231,7 @@
 - [aspeddro/pandoc.nvim](https://github.com/aspeddro/pandoc.nvim) ![](https://img.shields.io/github/stars/aspeddro/pandoc.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/pandoc.nvim)
 - [jc-doyle/cmp-pandoc-references](https://github.com/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/stars/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/last-commit/jc-doyle/cmp-pandoc-references) ![](https://img.shields.io/github/commit-activity/y/jc-doyle/cmp-pandoc-references)
 - [aspeddro/cmp-pandoc.nvim](https://github.com/aspeddro/cmp-pandoc.nvim) ![](https://img.shields.io/github/stars/aspeddro/cmp-pandoc.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/cmp-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/cmp-pandoc.nvim)
+- [onemoresuza/markup-previewer.nvim](https://github.com/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/stars/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/last-commit/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/onemoresuza/markup-previewer.nvim)
 
 ### Vimdoc
 
