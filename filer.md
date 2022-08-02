@@ -5,6 +5,7 @@
   - [Simple](#simple)
   - [Floating Style](#floating-style)
   - [FuzzyFinder Style](#fuzzyfinder-style)
+  - [nnn wrapper](#nnn-wrapper)
   - [Network File Manager](#network-file-manager)
 
 # Filer
@@ -13,7 +14,6 @@
   - [prncss-xyz/neo-tree-zk.nvim](https://github.com/prncss-xyz/neo-tree-zk.nvim) ![](https://img.shields.io/github/stars/prncss-xyz/neo-tree-zk.nvim) ![](https://img.shields.io/github/last-commit/prncss-xyz/neo-tree-zk.nvim) ![](https://img.shields.io/github/commit-activity/y/prncss-xyz/neo-tree-zk.nvim)
   - [mrbjarksen/neo-tree-diagnostics.nvim](https://github.com/mrbjarksen/neo-tree-diagnostics.nvim) ![](https://img.shields.io/github/stars/mrbjarksen/neo-tree-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/mrbjarksen/neo-tree-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/mrbjarksen/neo-tree-diagnostics.nvim)
 - [kyazdani42/nvim-tree.lua](https://github.com/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/stars/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-tree.lua) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-tree.lua)
-- [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/stars/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/nnn.nvim)
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) ![](https://img.shields.io/github/stars/tamago324/lir.nvim) ![](https://img.shields.io/github/last-commit/tamago324/lir.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/lir.nvim)
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) ![](https://img.shields.io/github/stars/Xuyuanp/yanil) ![](https://img.shields.io/github/last-commit/Xuyuanp/yanil) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/yanil)
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ![](https://img.shields.io/github/stars/ms-jpq/chadtree) ![](https://img.shields.io/github/last-commit/ms-jpq/chadtree) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/chadtree)
@@ -41,6 +41,11 @@
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) ![](https://img.shields.io/github/stars/conweller/findr.vim) ![](https://img.shields.io/github/last-commit/conweller/findr.vim) ![](https://img.shields.io/github/commit-activity/y/conweller/findr.vim)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
+
+### nnn wrapper
+
+- [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/stars/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/nnn.nvim)
+- [ggustafsson/nnn-dir.nvim](https://github.com/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/stars/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/last-commit/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/commit-activity/y/ggustafsson/nnn-dir.nvim)
 
 ### Network File Manager
 
