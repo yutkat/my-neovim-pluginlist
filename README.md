@@ -43,9 +43,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -178,6 +178,7 @@
     - [Config switcher](#config-switcher)
     - [Screenshot](#screenshot)
     - [Clock](#clock)
+      - [Pomodoro](#pomodoro)
     - [Image](#image)
       - [Viewer](#viewer)
       - [Uploader](#uploader)
@@ -1076,8 +1077,11 @@
 
 ### Clock
 
+#### Pomodoro
+
 - [akinsho/clock.nvim](https://github.com/akinsho/clock.nvim) ![](https://img.shields.io/github/stars/akinsho/clock.nvim) ![](https://img.shields.io/github/last-commit/akinsho/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/clock.nvim)
 - [PSebaRaj/tomatotimer.nvim](https://github.com/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/stars/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/last-commit/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/commit-activity/y/PSebaRaj/tomatotimer.nvim)
+- [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) ![](https://img.shields.io/github/stars/dbinagi/nomodoro) ![](https://img.shields.io/github/last-commit/dbinagi/nomodoro) ![](https://img.shields.io/github/commit-activity/y/dbinagi/nomodoro)
 
 ### Image
 
