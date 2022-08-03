@@ -41,6 +41,8 @@
 ## Command style
 
 - [stevearc/overseer.nvim(command)](https://github.com/stevearc/overseer.nvim) ![](https://img.shields.io/github/stars/stevearc/overseer.nvim) ![](https://img.shields.io/github/last-commit/stevearc/overseer.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/overseer.nvim)
+- [pianocomposer321/yabs.nvim(run_command)](https://github.com/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/stars/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/last-commit/pianocomposer321/yabs.nvim) ![](https://img.shields.io/github/commit-activity/y/pianocomposer321/yabs.nvim)
+- [is0n/jaq-nvim(bang)](https://github.com/is0n/jaq-nvim) ![](https://img.shields.io/github/stars/is0n/jaq-nvim) ![](https://img.shields.io/github/last-commit/is0n/jaq-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/jaq-nvim)
 - [yutkat/taskrun.nvim](https://github.com/yutkat/taskrun.nvim) ![](https://img.shields.io/github/stars/yutkat/taskrun.nvim) ![](https://img.shields.io/github/last-commit/yutkat/taskrun.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/taskrun.nvim)
 - [WaylonWalker/Telegraph.nvim](https://github.com/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/stars/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/last-commit/WaylonWalker/Telegraph.nvim) ![](https://img.shields.io/github/commit-activity/y/WaylonWalker/Telegraph.nvim)
 - [crpier/fast-jobs.nvim](https://github.com/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/stars/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/last-commit/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/crpier/fast-jobs.nvim)
