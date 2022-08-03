@@ -43,9 +43,9 @@
     - [Scrolling](#scrolling)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -258,6 +258,7 @@
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/stars/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/last-commit/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/commit-activity/y/brenoprata10/nvim-highlight-colors)
+- [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
 
 #### ANSI Colorize
 
@@ -344,6 +345,7 @@
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) ![](https://img.shields.io/github/stars/rlane/pounce.nvim) ![](https://img.shields.io/github/last-commit/rlane/pounce.nvim) ![](https://img.shields.io/github/commit-activity/y/rlane/pounce.nvim)
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-treehopper)
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
+- [mizlan/longbow.nvim](https://github.com/mizlan/longbow.nvim) ![](https://img.shields.io/github/stars/mizlan/longbow.nvim) ![](https://img.shields.io/github/last-commit/mizlan/longbow.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/longbow.nvim)
 
 ### Horizontal Move
 
@@ -626,6 +628,7 @@
 #### Prefix Key Binding
 
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/stars/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/hydra.nvim)
+- [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
 
 ### Search
 
