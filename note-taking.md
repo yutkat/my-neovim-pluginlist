@@ -5,6 +5,7 @@
   - [Org mode](#org-mode)
   - [Zettelkasten](#zettelkasten)
   - [ToDo](#todo)
+  - [Obsidian](#obsidian)
   - [etc](#etc)
 
 # Note Taking
@@ -32,9 +33,14 @@
 - [smolck/nvim-todoist.lua](https://github.com/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/stars/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/last-commit/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/commit-activity/y/smolck/nvim-todoist.lua)
 - [arnarg/todotxt.nvim](https://github.com/arnarg/todotxt.nvim) ![](https://img.shields.io/github/stars/arnarg/todotxt.nvim) ![](https://img.shields.io/github/last-commit/arnarg/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/arnarg/todotxt.nvim)
 
+### Obsidian
+
+- [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/stars/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/obsidian.nvim)
+
 ### etc
 
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) ![](https://img.shields.io/github/stars/stevearc/gkeep.nvim) ![](https://img.shields.io/github/last-commit/stevearc/gkeep.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/gkeep.nvim)
 - [NFrid/due.nvim](https://github.com/NFrid/due.nvim) ![](https://img.shields.io/github/stars/NFrid/due.nvim) ![](https://img.shields.io/github/last-commit/NFrid/due.nvim) ![](https://img.shields.io/github/commit-activity/y/NFrid/due.nvim)
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
+- [bloveless/notical.nvim](https://github.com/bloveless/notical.nvim) ![](https://img.shields.io/github/stars/bloveless/notical.nvim) ![](https://img.shields.io/github/last-commit/bloveless/notical.nvim) ![](https://img.shields.io/github/commit-activity/y/bloveless/notical.nvim)
