@@ -10,6 +10,7 @@
   - [FFI](#ffi)
   - [Colorscheme Creation](#colorscheme-creation)
   - [Color Creation](#color-creation)
+  - [Profiler](#profiler)
   - [CI](#ci)
     - [Actions](#actions)
 
@@ -66,6 +67,10 @@
 
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ![](https://img.shields.io/github/stars/max397574/colortils.nvim) ![](https://img.shields.io/github/last-commit/max397574/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/colortils.nvim)
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/color-picker.nvim)
+
+### Profiler
+
+- [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) ![](https://img.shields.io/github/stars/stevearc/profile.nvim) ![](https://img.shields.io/github/last-commit/stevearc/profile.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/profile.nvim)
 
 ### CI
 
