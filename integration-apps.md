@@ -7,6 +7,7 @@
     - [Docker](#docker)
     - [Vale](#vale)
     - [Kitty](#kitty)
+    - [dbt](#dbt)
     - [Password Manager](#password-manager)
       - [perf](#perf)
     - [Matrix.org](#matrixorg)
@@ -54,9 +55,14 @@
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
 
+### dbt
+
+- [cfmeyers/dbt.nvim](https://github.com/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/stars/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/last-commit/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/cfmeyers/dbt.nvim)
+
 ### Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
+- [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
 
 #### perf
 
