@@ -216,6 +216,7 @@
 
 #### Markdown code fence
 
+- [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-FeMaco.lua)
 - [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/stars/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/last-commit/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/commit-activity/y/chip/telescope-code-fence.nvim)
 
 #### Markdown evaluate code
