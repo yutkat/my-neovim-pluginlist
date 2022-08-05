@@ -8,6 +8,7 @@
     - [git diff](#git-diff)
     - [git conflict](#git-conflict)
     - [gitignore](#gitignore)
+    - [git hook](#git-hook)
   - [GitHub](#github)
     - [Features like gh](#features-like-gh)
     - [GitHub tweaks](#github-tweaks)
@@ -54,6 +55,10 @@
 #### gitignore
 
 - [antonk52/gitignore-grabber.nvim](https://github.com/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/stars/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/last-commit/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/gitignore-grabber.nvim)
+
+#### git hook
+
+- [Ttibsi/pre-commit.nvim](https://github.com/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/stars/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/last-commit/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Ttibsi/pre-commit.nvim)
 
 ### GitHub
 
