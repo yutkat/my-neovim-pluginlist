@@ -2,9 +2,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
-    - [Joke](#joke)
-    - [Game](#game)
-    - [Weather](#weather)
+        - [Joke](#joke)
+        - [Image](#image)
+        - [Game](#game)
+        - [Weather](#weather)
 
 # Toy
 
@@ -12,6 +13,10 @@
 
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
+
+### Image
+
+- [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
 
 ### Game
 
