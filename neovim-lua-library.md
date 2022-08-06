@@ -1,19 +1,6 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-        - [Notification](#notification)
-        - [async](#async)
-        - [UI](#ui)
-        - [REST](#rest)
-        - [JSON](#json)
-        - [Require](#require)
-        - [Hook](#hook)
-        - [Mode](#mode)
-        - [Icon](#icon)
-        - [Unicode](#unicode)
-        - [Mathematics](#mathematics)
-        - [Treesitter](#treesitter)
-        - [Enhanced Standard Features](#enhanced-standard-features)
+- [Table of Contents](#table-of-contents) - [Notification](#notification) - [async](#async) - [UI](#ui) - [Error handling](#error-handling) - [REST](#rest) - [JSON](#json) - [Require](#require) - [Hook](#hook) - [Mode](#mode) - [Icon](#icon) - [Unicode](#unicode) - [Mathematics](#mathematics) - [Treesitter](#treesitter) - [Enhanced Standard Features](#enhanced-standard-features)
 
 ## Notification
 
@@ -36,6 +23,10 @@
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
+
+## Error handling
+
+- [uga-rosa/lua-utils.nvim](https://github.com/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/stars/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/lua-utils.nvim)
 
 ## REST
 
