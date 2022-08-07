@@ -48,6 +48,7 @@
 - [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) ![](https://img.shields.io/github/stars/tsbohc/zest.nvim) ![](https://img.shields.io/github/last-commit/tsbohc/zest.nvim) ![](https://img.shields.io/github/commit-activity/y/tsbohc/zest.nvim)
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/hibiscus.nvim)
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/tangerine.nvim)
+- [beardedsakimonkey/nvim-antifennel](https://github.com/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-antifennel)
 
 ### FFI
 

@@ -7,6 +7,7 @@
       - [Test](#test)
       - [npm](#npm)
     - [HTML](#html)
+    - [CSS](#css)
     - [React](#react)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -14,6 +15,7 @@
     - [Rust](#rust)
     - [Go](#go)
     - [C/C++](#cc)
+    - [Zig](#zig)
     - [C#](#c)
     - [Java](#java)
     - [Scala](#scala)
@@ -68,6 +70,10 @@
 
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/stars/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/last-commit/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-ts-autotag)
 
+### CSS
+
+- [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
+
 ### React
 
 - [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) ![](https://img.shields.io/github/stars/napmn/react-extract.nvim) ![](https://img.shields.io/github/last-commit/napmn/react-extract.nvim) ![](https://img.shields.io/github/commit-activity/y/napmn/react-extract.nvim)
@@ -116,6 +122,10 @@
 - [Badhi/nvim-treesitter-cpp-tools](https://github.com/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/stars/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/last-commit/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/commit-activity/y/Badhi/nvim-treesitter-cpp-tools)
 - [jakemason/ouroboros](https://github.com/jakemason/ouroboros) ![](https://img.shields.io/github/stars/jakemason/ouroboros) ![](https://img.shields.io/github/last-commit/jakemason/ouroboros) ![](https://img.shields.io/github/commit-activity/y/jakemason/ouroboros)
 - [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/stars/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/last-commit/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/clangd_extensions.nvim)
+
+### Zig
+
+- [NTBBloodbath/zig-tools.nvim](https://github.com/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/zig-tools.nvim)
 
 ### C#
 

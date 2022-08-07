@@ -20,6 +20,8 @@
     - [IME](#ime)
     - [Battery](#battery)
     - [Azure](#azure)
+    - [Terraform](#terraform)
+    - [sdfcli](#sdfcli)
 
 ## Integration with other apps
 
@@ -109,3 +111,11 @@
 ### Azure
 
 - [interludedesign/azureutils.nvim](https://github.com/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/stars/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/last-commit/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/commit-activity/y/interludedesign/azureutils.nvim)
+
+### Terraform
+
+- [azratul/devops-tools.nvim](https://github.com/azratul/devops-tools.nvim) ![](https://img.shields.io/github/stars/azratul/devops-tools.nvim) ![](https://img.shields.io/github/last-commit/azratul/devops-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/devops-tools.nvim)
+
+### sdfcli
+
+- [Phandal/sdfcli.nvim](https://github.com/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/stars/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/last-commit/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/commit-activity/y/Phandal/sdfcli.nvim)
