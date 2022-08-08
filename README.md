@@ -832,9 +832,10 @@
 
 ### Startup
 
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) ![](https://img.shields.io/github/stars/glepnir/dashboard-nvim) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-nvim)
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) ![](https://img.shields.io/github/stars/goolord/alpha-nvim) ![](https://img.shields.io/github/last-commit/goolord/alpha-nvim) ![](https://img.shields.io/github/commit-activity/y/goolord/alpha-nvim)
+- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) ![](https://img.shields.io/github/stars/glepnir/dashboard-nvim) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-nvim)
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) ![](https://img.shields.io/github/stars/startup-nvim/startup.nvim) ![](https://img.shields.io/github/last-commit/startup-nvim/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/startup-nvim/startup.nvim)
+- [cameron-wags/splash.nvim](https://github.com/cameron-wags/splash.nvim) ![](https://img.shields.io/github/stars/cameron-wags/splash.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/splash.nvim)
 
 ### Session
 
@@ -1014,6 +1015,7 @@
 - [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) ![](https://img.shields.io/github/stars/windwp/nvim-projectconfig) ![](https://img.shields.io/github/last-commit/windwp/nvim-projectconfig) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-projectconfig)
 - [natecraddock/workspaces.nvim](https://github.com/natecraddock/workspaces.nvim) ![](https://img.shields.io/github/stars/natecraddock/workspaces.nvim) ![](https://img.shields.io/github/last-commit/natecraddock/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/natecraddock/workspaces.nvim)
 - [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim) ![](https://img.shields.io/github/stars/martini97/project-config.nvim) ![](https://img.shields.io/github/last-commit/martini97/project-config.nvim) ![](https://img.shields.io/github/commit-activity/y/martini97/project-config.nvim)
+- [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) ![](https://img.shields.io/github/stars/romainchapou/confiture.nvim) ![](https://img.shields.io/github/last-commit/romainchapou/confiture.nvim) ![](https://img.shields.io/github/commit-activity/y/romainchapou/confiture.nvim)
 
 ## New features
 
