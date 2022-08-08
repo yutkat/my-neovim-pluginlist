@@ -1,11 +1,7 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Toy](#toy)
-        - [Joke](#joke)
-        - [Image](#image)
-        - [Game](#game)
-        - [Weather](#weather)
+- [Toy](#toy) - [Joke](#joke) - [Image](#image) - [Game](#game) - [Weather](#weather)
 
 # Toy
 
@@ -25,3 +21,5 @@
 ### Weather
 
 - [wyattjsmith1/weather.nvim](https://github.com/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/stars/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/last-commit/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/wyattjsmith1/weather.nvim)
+- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
+  - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) ![](https://img.shields.io/github/stars/datwaft/themis.nvim) ![](https://img.shields.io/github/last-commit/datwaft/themis.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/themis.nvim)

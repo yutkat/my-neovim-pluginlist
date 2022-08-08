@@ -138,6 +138,7 @@
 - [esensar/neovim-java-plugin-host](https://github.com/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/stars/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/last-commit/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/commit-activity/y/esensar/neovim-java-plugin-host)
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
 - [aloussase/telescope-gradle.nvim](https://github.com/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/stars/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/last-commit/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/telescope-gradle.nvim)
+- [tobias-z/java-util.nvim](https://github.com/tobias-z/java-util.nvim) ![](https://img.shields.io/github/stars/tobias-z/java-util.nvim) ![](https://img.shields.io/github/last-commit/tobias-z/java-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-z/java-util.nvim)
 
 ### Scala
 
