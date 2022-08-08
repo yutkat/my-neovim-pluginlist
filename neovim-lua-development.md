@@ -1,18 +1,18 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Neovim Lua Development](#neovim-lua-development)
-  - [Neovim Lua REPL](#neovim-lua-repl)
-  - [Development Tools](#development-tools)
-  - [Print](#print)
-  - [Testing](#testing)
-  - [Fennel](#fennel)
-  - [FFI](#ffi)
-  - [Colorscheme Creation](#colorscheme-creation)
-  - [Color Creation](#color-creation)
-  - [Profiler](#profiler)
-  - [CI](#ci)
-    - [Actions](#actions)
+    - [Neovim Lua Development](#neovim-lua-development)
+    - [Neovim Lua REPL](#neovim-lua-repl)
+    - [Development Tools](#development-tools)
+    - [Print](#print)
+    - [Testing](#testing)
+    - [Fennel](#fennel)
+    - [FFI](#ffi)
+    - [Colorscheme Creation](#colorscheme-creation)
+    - [Color Creation](#color-creation)
+    - [Profiler](#profiler)
+    - [CI](#ci)
+      - [Actions](#actions)
 
 ### Neovim Lua Development
 
@@ -44,11 +44,11 @@
 ### Fennel
 
 - [Olical/aniseed](https://github.com/Olical/aniseed) ![](https://img.shields.io/github/stars/Olical/aniseed) ![](https://img.shields.io/github/last-commit/Olical/aniseed) ![](https://img.shields.io/github/commit-activity/y/Olical/aniseed)
-- [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
 - [tsbohc/zest.nvim](https://github.com/tsbohc/zest.nvim) ![](https://img.shields.io/github/stars/tsbohc/zest.nvim) ![](https://img.shields.io/github/last-commit/tsbohc/zest.nvim) ![](https://img.shields.io/github/commit-activity/y/tsbohc/zest.nvim)
 - [udayvir-singh/hibiscus.nvim](https://github.com/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/hibiscus.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/hibiscus.nvim)
 - [udayvir-singh/tangerine.nvim](https://github.com/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/stars/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/last-commit/udayvir-singh/tangerine.nvim) ![](https://img.shields.io/github/commit-activity/y/udayvir-singh/tangerine.nvim)
 - [beardedsakimonkey/nvim-antifennel](https://github.com/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-antifennel)
+- [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/stars/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/fennel-repl.nvim)
 
 ### FFI
 
