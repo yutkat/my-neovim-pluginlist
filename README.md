@@ -30,9 +30,9 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -127,15 +127,9 @@
     - [Popup Info](#popup-info)
     - [Command Palette](#command-palette)
     - [Package Manager](#package-manager)
-      - [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
-      - [Luarock](#luarock)
-    - [dotenv](#dotenv)
     - [Remote Development](#remote-development)
     - [Collaborative Editing](#collaborative-editing)
-    - [Screenshot](#screenshot)
     - [Image](#image)
-      - [Image Viewer](#image-viewer)
-      - [Image Uploader](#image-uploader)
     - [Concentration](#concentration)
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
@@ -753,22 +747,7 @@
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/stars/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/legendary.nvim)
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
 
-### Package Manager
-
-#### LSP, DAP, linter, formatter
-
-- [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) ![](https://img.shields.io/github/stars/williamboman/mason.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason.nvim)
-  - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/stars/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason-lspconfig.nvim)
-  - [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/mason-tool-installer.nvim)
-- [chiyadev/dep](https://github.com/chiyadev/dep) ![](https://img.shields.io/github/stars/chiyadev/dep) ![](https://img.shields.io/github/last-commit/chiyadev/dep) ![](https://img.shields.io/github/commit-activity/y/chiyadev/dep)
-
-#### Luarock
-
-- [theHamsta/nvim_rocks](https://github.com/theHamsta/nvim_rocks) ![](https://img.shields.io/github/stars/theHamsta/nvim_rocks) ![](https://img.shields.io/github/last-commit/theHamsta/nvim_rocks) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim_rocks)
-
-### dotenv
-
-- [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/dotenv.nvim)
+### [Package Manager](./package-manager.md)
 
 ### Remote Development
 
@@ -780,22 +759,7 @@
 
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) ![](https://img.shields.io/github/stars/jbyuki/instant.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/instant.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/instant.nvim)
 
-### Screenshot
-
-- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
-
-### Image
-
-#### Image Viewer
-
-- [nvim-telescope/telescope-media-files.nvim](https://github.com/nvim-telescope/telescope-media-files.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-media-files.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-media-files.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-media-files.nvim)
-- [ekickx/clipboard-image.nvim](https://github.com/ekickx/clipboard-image.nvim) ![](https://img.shields.io/github/stars/ekickx/clipboard-image.nvim) ![](https://img.shields.io/github/last-commit/ekickx/clipboard-image.nvim) ![](https://img.shields.io/github/commit-activity/y/ekickx/clipboard-image.nvim)
-- [sunjon/extmark-toy.nvim](https://github.com/sunjon/extmark-toy.nvim) ![](https://img.shields.io/github/stars/sunjon/extmark-toy.nvim) ![](https://img.shields.io/github/last-commit/sunjon/extmark-toy.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/extmark-toy.nvim)
-- [mbpowers/nvimager](https://github.com/mbpowers/nvimager) ![](https://img.shields.io/github/stars/mbpowers/nvimager) ![](https://img.shields.io/github/last-commit/mbpowers/nvimager) ![](https://img.shields.io/github/commit-activity/y/mbpowers/nvimager)
-
-#### Image Uploader
-
-- [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) ![](https://img.shields.io/github/stars/askfiy/nvim-picgo) ![](https://img.shields.io/github/last-commit/askfiy/nvim-picgo) ![](https://img.shields.io/github/commit-activity/y/askfiy/nvim-picgo)
+### [Image](./image.md)
 
 ### Concentration
 
