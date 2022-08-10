@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
   - [Integration with other apps](#integration-with-other-apps)
+    - [Browser Integration](#browser-integration)
     - [Other Editor](#other-editor)
       - [VS Code](#vs-code)
       - [Xcode](#xcode)
@@ -37,6 +38,11 @@
 - [LinArcX/telescope-env.nvim](https://github.com/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-env.nvim)
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) ![](https://img.shields.io/github/stars/Massolari/forem.nvim) ![](https://img.shields.io/github/last-commit/Massolari/forem.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/forem.nvim)
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) ![](https://img.shields.io/github/stars/gwatcha/reaper-keys) ![](https://img.shields.io/github/last-commit/gwatcha/reaper-keys) ![](https://img.shields.io/github/commit-activity/y/gwatcha/reaper-keys)
+
+### Browser Integration
+
+- [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
+- [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
 
 ### Other Editor
 

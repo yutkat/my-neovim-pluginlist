@@ -6,6 +6,7 @@
     - [Snippet converter](#snippet-converter)
     - [Snippet view](#snippet-view)
     - [Snippet assistant](#snippet-assistant)
+  - [Template](#template)
 
 ### Snippet
 
@@ -29,3 +30,9 @@
 #### Snippet assistant
 
 - [kevinhwang91/nvim-hclipboard](https://github.com/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-hclipboard)
+
+### Template
+
+- [glepnir/template.nvim](https://github.com/glepnir/template.nvim) ![](https://img.shields.io/github/stars/glepnir/template.nvim) ![](https://img.shields.io/github/last-commit/glepnir/template.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/template.nvim)
+- [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) ![](https://img.shields.io/github/stars/vigoux/templar.nvim) ![](https://img.shields.io/github/last-commit/vigoux/templar.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/templar.nvim)
+- [tamago324/telescope-sonictemplate.nvim](https://github.com/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/stars/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/last-commit/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/telescope-sonictemplate.nvim)

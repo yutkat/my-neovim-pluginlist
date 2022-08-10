@@ -112,13 +112,11 @@
     - [Code outline](#code-outline)
     - [Call Hierarchy](#call-hierarchy)
     - [Snippet/Template](#snippettemplate)
-    - [Template](#template)
     - [Task Runner](#task-runner)
     - [Test](#test)
     - [Test Coverage](#test-coverage)
     - [Debug/REPL](#debugrepl)
     - [Git/GitHub](#gitgithub)
-    - [Browser Integration](#browser-integration)
     - [Project](#project)
   - [New features](#new-features)
     - [Note Taking](#note-taking)
@@ -693,12 +691,6 @@
 
 ### [Snippet/Template](./snippet_template.md)
 
-### Template
-
-- [glepnir/template.nvim](https://github.com/glepnir/template.nvim) ![](https://img.shields.io/github/stars/glepnir/template.nvim) ![](https://img.shields.io/github/last-commit/glepnir/template.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/template.nvim)
-- [vigoux/templar.nvim](https://github.com/vigoux/templar.nvim) ![](https://img.shields.io/github/stars/vigoux/templar.nvim) ![](https://img.shields.io/github/last-commit/vigoux/templar.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/templar.nvim)
-- [tamago324/telescope-sonictemplate.nvim](https://github.com/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/stars/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/last-commit/tamago324/telescope-sonictemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/telescope-sonictemplate.nvim)
-
 ### [Task Runner](./task-runner.md)
 
 ### Test
@@ -714,11 +706,6 @@
 ### [Debug/REPL](./debugger_repl.md)
 
 ### [Git/GitHub](./git-github.md)
-
-### Browser Integration
-
-- [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
-- [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
 
 ### [Project](./project.md)
 
