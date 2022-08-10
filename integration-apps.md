@@ -5,6 +5,7 @@
     - [Other Editor](#other-editor)
       - [VS Code](#vs-code)
       - [Xcode](#xcode)
+    - [Desktop Integration](#desktop-integration)
     - [Development environment](#development-environment)
       - [tmux](#tmux)
       - [Docker](#docker)
@@ -46,6 +47,11 @@
 #### Xcode
 
 - [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
+
+### Desktop Integration
+
+- [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)
+- [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/auto-dark-mode.nvim)
 
 ### Development environment
 
