@@ -46,6 +46,7 @@
     - [Operator](#operator)
     - [Emoji](#emoji)
       - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
+      - [Emoji Width](#emoji-width)
     - [Misc](#misc)
   - [Buffer, Window, Tab Management](#buffer-window-tab-management)
   - [Terminal](#terminal)
@@ -369,6 +370,10 @@
 - [xiyaowong/telescope-emoji.nvim](https://github.com/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/stars/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/telescope-emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/telescope-emoji.nvim)
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) ![](https://img.shields.io/github/stars/protex/better-digraphs.nvim) ![](https://img.shields.io/github/last-commit/protex/better-digraphs.nvim) ![](https://img.shields.io/github/commit-activity/y/protex/better-digraphs.nvim)
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/icon-picker.nvim)
+
+#### Emoji Width
+
+- [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
 
 ### Misc
 
