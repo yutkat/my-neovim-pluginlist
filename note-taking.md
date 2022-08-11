@@ -8,6 +8,7 @@
   - [ToDo](#todo)
   - [Obsidian](#obsidian)
   - [Google Keep](#google-keep)
+  - [Dendron](#dendron)
   - [etc](#etc)
 
 # Note Taking
@@ -48,6 +49,10 @@
 ### Google Keep
 
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) ![](https://img.shields.io/github/stars/stevearc/gkeep.nvim) ![](https://img.shields.io/github/last-commit/stevearc/gkeep.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/gkeep.nvim)
+
+### Dendron
+
+- [namjul/dendron.nvim](https://github.com/namjul/dendron.nvim) ![](https://img.shields.io/github/stars/namjul/dendron.nvim) ![](https://img.shields.io/github/last-commit/namjul/dendron.nvim) ![](https://img.shields.io/github/commit-activity/y/namjul/dendron.nvim)
 
 ### etc
 
