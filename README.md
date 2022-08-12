@@ -33,6 +33,7 @@
       - [Auto insert](#auto-insert)
       - [Auto insert pairs](#auto-insert-pairs)
       - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -293,6 +294,10 @@
 
 - [TornaxO7/tree-setter](https://github.com/TornaxO7/tree-setter) ![](https://img.shields.io/github/stars/TornaxO7/tree-setter) ![](https://img.shields.io/github/last-commit/TornaxO7/tree-setter) ![](https://img.shields.io/github/commit-activity/y/TornaxO7/tree-setter)
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
+
+##### Auto convert
+
+- [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
 
 #### matchparen
 
