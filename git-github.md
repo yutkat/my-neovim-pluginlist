@@ -48,6 +48,7 @@
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) ![](https://img.shields.io/github/stars/sindrets/diffview.nvim) ![](https://img.shields.io/github/last-commit/sindrets/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/diffview.nvim)
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/stars/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/diff-therapy.nvim)
 - [milennik/gitdiff.nvim](https://github.com/milennik/gitdiff.nvim) ![](https://img.shields.io/github/stars/milennik/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/milennik/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/milennik/gitdiff.nvim)
+- [senkentarou/godch.nvim](https://github.com/senkentarou/godch.nvim) ![](https://img.shields.io/github/stars/senkentarou/godch.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/godch.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/godch.nvim)
 
 #### git conflict
 
