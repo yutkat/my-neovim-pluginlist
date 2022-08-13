@@ -142,6 +142,7 @@
 - [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [nitomoki/JPmode.nvim](https://github.com/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/stars/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/last-commit/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/commit-activity/y/nitomoki/JPmode.nvim)
+- [alohaia/fcitx.nvim](https://github.com/alohaia/fcitx.nvim) ![](https://img.shields.io/github/stars/alohaia/fcitx.nvim) ![](https://img.shields.io/github/last-commit/alohaia/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/alohaia/fcitx.nvim)
 
 ### Battery
 
