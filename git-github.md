@@ -82,3 +82,4 @@
 #### Link
 
 - [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) ![](https://img.shields.io/github/stars/hkupty/pointer.nvim) ![](https://img.shields.io/github/last-commit/hkupty/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/pointer.nvim)
+- [senkentarou/gobf.nvim](https://github.com/senkentarou/gobf.nvim) ![](https://img.shields.io/github/stars/senkentarou/gobf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gobf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gobf.nvim)
