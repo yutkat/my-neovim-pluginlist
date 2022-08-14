@@ -39,6 +39,7 @@
       - [Markdown preview](#markdown-preview)
       - [Markdown code fence](#markdown-code-fence)
       - [Markdown evaluate code](#markdown-evaluate-code)
+      - [Markdown checkbox](#markdown-checkbox)
     - [AsciiDoc](#asciidoc)
     - [Pandoc](#pandoc)
     - [Vimdoc](#vimdoc)
@@ -87,6 +88,7 @@
 - [eddiebergman/nvim-treesitter-pyfold](https://github.com/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/stars/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/last-commit/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/commit-activity/y/eddiebergman/nvim-treesitter-pyfold)
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
+- [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
 
 ### Ruby
 
@@ -233,6 +235,10 @@
 #### Markdown evaluate code
 
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
+
+#### Markdown checkbox
+
+- [opdavies/toggle-checkbox.nvim](https://github.com/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/opdavies/toggle-checkbox.nvim)
 
 ### AsciiDoc
 

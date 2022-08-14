@@ -72,6 +72,7 @@
 - [nathom/tmux.nvim](https://github.com/nathom/tmux.nvim) ![](https://img.shields.io/github/stars/nathom/tmux.nvim) ![](https://img.shields.io/github/last-commit/nathom/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/tmux.nvim)
 - [thlorenz/tmuxrun.nvim](https://github.com/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/stars/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/last-commit/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/commit-activity/y/thlorenz/tmuxrun.nvim)
 - [jerryreinoehl/nvim-tmux-nav](https://github.com/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/stars/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/last-commit/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/commit-activity/y/jerryreinoehl/nvim-tmux-nav)
+- [jsstevenson/nvim-tmux](https://github.com/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/stars/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/last-commit/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/commit-activity/y/jsstevenson/nvim-tmux)
 
 #### Docker
 

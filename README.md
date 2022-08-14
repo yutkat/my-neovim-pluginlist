@@ -30,10 +30,10 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
-      - [Auto convert](#auto-convert)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -56,6 +56,7 @@
       - [Mapping search](#mapping-search)
       - [Prefix Key Binding](#prefix-key-binding)
     - [Search](#search)
+      - [n/N Improvement](#nn-improvement)
       - [Search count](#search-count)
       - [Comment search](#comment-search)
     - [Replace](#replace)
@@ -199,6 +200,7 @@
 ### winbar
 
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) ![](https://img.shields.io/github/stars/utilyre/barbecue.nvim) ![](https://img.shields.io/github/last-commit/utilyre/barbecue.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/barbecue.nvim)
+- [aktersnurra/minibar.nvim](https://github.com/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/stars/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/last-commit/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/commit-activity/y/aktersnurra/minibar.nvim)
 
 ### Highlight
 
@@ -226,6 +228,8 @@
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
 
 ### Cursor
+
+- [Grazfather/blinker.nvim](https://github.com/Grazfather/blinker.nvim) ![](https://img.shields.io/github/stars/Grazfather/blinker.nvim) ![](https://img.shields.io/github/last-commit/Grazfather/blinker.nvim) ![](https://img.shields.io/github/commit-activity/y/Grazfather/blinker.nvim)
 
 ### Cursorline
 
@@ -405,6 +409,7 @@
 - [anuvyklack/keymap-amend.nvim](https://github.com/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-amend.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-amend.nvim)
 - [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/stars/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/last-commit/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/stay-in-place.nvim)
 - [Cassin01/emacs-key-source.nvim](https://github.com/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/stars/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/emacs-key-source.nvim)
+- [michamos/vim-bepo](https://github.com/michamos/vim-bepo) ![](https://img.shields.io/github/stars/michamos/vim-bepo) ![](https://img.shields.io/github/last-commit/michamos/vim-bepo) ![](https://img.shields.io/github/commit-activity/y/michamos/vim-bepo)
 
 #### Mapping search
 
@@ -427,6 +432,10 @@
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/stars/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/last-commit/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/commit-activity/y/ironhouzi/starlite-nvim)
 - [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/stars/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/last-commit/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/lasterisk.nvim)
 - [rapan931/utahraptor.nvim](https://github.com/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/stars/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/last-commit/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/utahraptor.nvim)
+
+#### n/N Improvement
+
+- [shiradofu/nice-scroll.nvim](https://github.com/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/stars/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/last-commit/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/shiradofu/nice-scroll.nvim)
 
 #### Search count
 

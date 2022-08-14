@@ -1,6 +1,25 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents) - [Notification](#notification) - [async](#async) - [UI](#ui) - [Error handling](#error-handling) - [REST](#rest) - [JSON](#json) - [Require](#require) - [Hook](#hook) - [Mode](#mode) - [Icon](#icon) - [Unicode](#unicode) - [Mathematics](#mathematics) - [Treesitter](#treesitter) - [Enhanced Standard Features](#enhanced-standard-features)
+- [Table of Contents](#table-of-contents)
+  - [Table](#table)
+  - [Notification](#notification)
+  - [async](#async)
+  - [UI](#ui)
+  - [Error handling](#error-handling)
+  - [REST](#rest)
+  - [JSON](#json)
+  - [Require](#require)
+  - [Hook](#hook)
+  - [Mode](#mode)
+  - [Icon](#icon)
+  - [Unicode](#unicode)
+  - [Mathematics](#mathematics)
+  - [Treesitter](#treesitter)
+  - [Enhanced Standard Features](#enhanced-standard-features)
+
+## Table
+
+- [nvisiom/unqualified.nvim](https://github.com/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/stars/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/last-commit/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/commit-activity/y/nvisiom/unqualified.nvim)
 
 ## Notification
 
