@@ -9,6 +9,7 @@
     - [HTML](#html)
     - [CSS](#css)
     - [React](#react)
+    - [mjml](#mjml)
     - [Python](#python)
     - [Ruby](#ruby)
     - [Lua](#lua)
@@ -78,6 +79,10 @@
 ### React
 
 - [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) ![](https://img.shields.io/github/stars/napmn/react-extract.nvim) ![](https://img.shields.io/github/last-commit/napmn/react-extract.nvim) ![](https://img.shields.io/github/commit-activity/y/napmn/react-extract.nvim)
+
+### mjml
+
+- [ec965/mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/stars/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/last-commit/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/mjml-preview.nvim)
 
 ### Python
 
