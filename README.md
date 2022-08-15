@@ -15,6 +15,7 @@
     - [winbar](#winbar)
     - [Highlight](#highlight)
       - [ANSI Colorize](#ansi-colorize)
+      - [Long line highlight](#long-line-highlight)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
@@ -30,10 +31,10 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
-        - [Auto convert](#auto-convert)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment out](#comment-out)
       - [CommentString](#commentstring)
@@ -216,6 +217,10 @@
 #### ANSI Colorize
 
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) ![](https://img.shields.io/github/stars/m00qek/baleia.nvim) ![](https://img.shields.io/github/last-commit/m00qek/baleia.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/baleia.nvim)
+
+#### Long line highlight
+
+- [lcheylus/overlength.nvim](https://github.com/lcheylus/overlength.nvim) ![](https://img.shields.io/github/stars/lcheylus/overlength.nvim) ![](https://img.shields.io/github/last-commit/lcheylus/overlength.nvim) ![](https://img.shields.io/github/commit-activity/y/lcheylus/overlength.nvim)
 
 #### Current word highlight
 
