@@ -41,6 +41,7 @@
       - [Markdown code fence](#markdown-code-fence)
       - [Markdown evaluate code](#markdown-evaluate-code)
       - [Markdown checkbox](#markdown-checkbox)
+      - [Markdown list](#markdown-list)
     - [AsciiDoc](#asciidoc)
     - [Pandoc](#pandoc)
     - [Vimdoc](#vimdoc)
@@ -94,6 +95,7 @@
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 - [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
+- [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
 
 ### Ruby
 
@@ -245,6 +247,10 @@
 #### Markdown checkbox
 
 - [opdavies/toggle-checkbox.nvim](https://github.com/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/opdavies/toggle-checkbox.nvim)
+
+#### Markdown list
+
+- [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
 
 ### AsciiDoc
 
