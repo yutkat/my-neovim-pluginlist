@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
   - [Git](#git)
+    - [git clone](#git-clone)
     - [git status](#git-status)
     - [git commit](#git-commit)
     - [git blame](#git-blame)
@@ -24,6 +25,10 @@
 - [declancm/git-scripts.nvim](https://github.com/declancm/git-scripts.nvim) ![](https://img.shields.io/github/stars/declancm/git-scripts.nvim) ![](https://img.shields.io/github/last-commit/declancm/git-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/git-scripts.nvim)
 - [Odie/gitabra](https://github.com/Odie/gitabra) ![](https://img.shields.io/github/stars/Odie/gitabra) ![](https://img.shields.io/github/last-commit/Odie/gitabra) ![](https://img.shields.io/github/commit-activity/y/Odie/gitabra)
 - [ipod825/igit.nvim](https://github.com/ipod825/igit.nvim) ![](https://img.shields.io/github/stars/ipod825/igit.nvim) ![](https://img.shields.io/github/last-commit/ipod825/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/igit.nvim)
+
+#### git clone
+
+- [Danielhp95/tmpclone-nvim](https://github.com/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/stars/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/last-commit/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/commit-activity/y/Danielhp95/tmpclone-nvim)
 
 #### git status
 
