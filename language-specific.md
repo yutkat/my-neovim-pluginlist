@@ -36,7 +36,7 @@
     - [Jenkins](#jenkins)
   - [Documentation](#documentation)
     - [Markdown](#markdown)
-      - [Markdown header jump](#markdown-header-jump)
+      - [Markdown link](#markdown-link)
       - [Markdown preview](#markdown-preview)
       - [Markdown code fence](#markdown-code-fence)
       - [Markdown evaluate code](#markdown-evaluate-code)
@@ -225,9 +225,10 @@
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/stars/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/mdeval.nvim)
 - [Iron-E/nvim-marktext](https://github.com/Iron-E/nvim-marktext) ![](https://img.shields.io/github/stars/Iron-E/nvim-marktext) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-marktext) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-marktext)
 
-#### Markdown header jump
+#### Markdown link
 
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/stars/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/last-commit/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/commit-activity/y/crispgm/telescope-heading.nvim)
+- [dburian/cmp-markdown-link](https://github.com/dburian/cmp-markdown-link) ![](https://img.shields.io/github/stars/dburian/cmp-markdown-link) ![](https://img.shields.io/github/last-commit/dburian/cmp-markdown-link) ![](https://img.shields.io/github/commit-activity/y/dburian/cmp-markdown-link)
 
 #### Markdown preview
 
