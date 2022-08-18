@@ -18,6 +18,7 @@
     - [Cloud](#cloud)
       - [Terraform](#terraform)
       - [Azure](#azure)
+      - [Salesforce](#salesforce)
       - [dbt](#dbt)
       - [sdfcli](#sdfcli)
     - [Web](#web)
@@ -105,6 +106,10 @@
 #### Azure
 
 - [interludedesign/azureutils.nvim](https://github.com/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/stars/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/last-commit/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/commit-activity/y/interludedesign/azureutils.nvim)
+
+#### Salesforce
+
+- [NazgoooAtanasov/sfcc-debugger.nvim](https://github.com/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/stars/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/last-commit/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/NazgoooAtanasov/sfcc-debugger.nvim)
 
 #### dbt
 
