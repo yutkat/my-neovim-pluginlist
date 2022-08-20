@@ -41,6 +41,7 @@
 - [smolck/nvim-todoist.lua](https://github.com/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/stars/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/last-commit/smolck/nvim-todoist.lua) ![](https://img.shields.io/github/commit-activity/y/smolck/nvim-todoist.lua)
 - [arnarg/todotxt.nvim](https://github.com/arnarg/todotxt.nvim) ![](https://img.shields.io/github/stars/arnarg/todotxt.nvim) ![](https://img.shields.io/github/last-commit/arnarg/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/arnarg/todotxt.nvim)
 - [NFrid/due.nvim](https://github.com/NFrid/due.nvim) ![](https://img.shields.io/github/stars/NFrid/due.nvim) ![](https://img.shields.io/github/last-commit/NFrid/due.nvim) ![](https://img.shields.io/github/commit-activity/y/NFrid/due.nvim)
+- [defntvdm/todos.nvim](https://github.com/defntvdm/todos.nvim) ![](https://img.shields.io/github/stars/defntvdm/todos.nvim) ![](https://img.shields.io/github/last-commit/defntvdm/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/defntvdm/todos.nvim)
 
 ### Obsidian
 

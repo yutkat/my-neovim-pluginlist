@@ -42,6 +42,7 @@
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
+- [doums/suit.nvim](https://github.com/doums/suit.nvim) ![](https://img.shields.io/github/stars/doums/suit.nvim) ![](https://img.shields.io/github/last-commit/doums/suit.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/suit.nvim)
 
 ## Error handling
 
