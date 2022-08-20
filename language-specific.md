@@ -96,6 +96,7 @@
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 - [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
 - [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
+- [jefromyers/python_usain.nvim](https://github.com/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/stars/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/last-commit/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/commit-activity/y/jefromyers/python_usain.nvim)
 
 ### Ruby
 
@@ -132,6 +133,7 @@
 - [Badhi/nvim-treesitter-cpp-tools](https://github.com/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/stars/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/last-commit/Badhi/nvim-treesitter-cpp-tools) ![](https://img.shields.io/github/commit-activity/y/Badhi/nvim-treesitter-cpp-tools)
 - [jakemason/ouroboros](https://github.com/jakemason/ouroboros) ![](https://img.shields.io/github/stars/jakemason/ouroboros) ![](https://img.shields.io/github/last-commit/jakemason/ouroboros) ![](https://img.shields.io/github/commit-activity/y/jakemason/ouroboros)
 - [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/stars/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/last-commit/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/clangd_extensions.nvim)
+- [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/ccls.nvim)
 
 ### Zig
 
