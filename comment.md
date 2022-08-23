@@ -1,10 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Comment out](#comment-out)
-    - [CommentString](#commentstring)
-    - [Comment Header](#comment-header)
-    - [Annotation](#annotation)
+    - [Comment out](#comment-out)
+      - [CommentString](#commentstring)
+      - [Comment Header](#comment-header)
+    - [Todo Comment Highlight](#todo-comment-highlight)
+      - [Annotation](#annotation)
 
 ### Comment out
 
@@ -25,6 +26,11 @@
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/stars/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-comment-frame)
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/stars/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/last-commit/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/commit-activity/y/LudoPinelli/comment-box.nvim)
 - [The-Repo-Club/header.nvim](https://github.com/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/stars/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/last-commit/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Repo-Club/header.nvim)
+
+### Todo Comment Highlight
+
+- [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/stars/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/better-comments.nvim)
+- [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ![](https://img.shields.io/github/stars/folke/todo-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/todo-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/todo-comments.nvim)
 
 #### Annotation
 
