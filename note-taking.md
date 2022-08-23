@@ -59,3 +59,4 @@
 
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
 - [bloveless/notical.nvim](https://github.com/bloveless/notical.nvim) ![](https://img.shields.io/github/stars/bloveless/notical.nvim) ![](https://img.shields.io/github/last-commit/bloveless/notical.nvim) ![](https://img.shields.io/github/commit-activity/y/bloveless/notical.nvim)
+- [utouto97/memo.nvim](https://github.com/utouto97/memo.nvim) ![](https://img.shields.io/github/stars/utouto97/memo.nvim) ![](https://img.shields.io/github/last-commit/utouto97/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/utouto97/memo.nvim)

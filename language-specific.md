@@ -231,6 +231,7 @@
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/stars/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/last-commit/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/follow-md-links.nvim)
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/stars/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/mdeval.nvim)
 - [Iron-E/nvim-marktext](https://github.com/Iron-E/nvim-marktext) ![](https://img.shields.io/github/stars/Iron-E/nvim-marktext) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-marktext) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-marktext)
+- [Jxstxs/mdbook.nvim](https://github.com/Jxstxs/mdbook.nvim) ![](https://img.shields.io/github/stars/Jxstxs/mdbook.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/mdbook.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/mdbook.nvim)
 
 #### Markdown link
 
