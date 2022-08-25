@@ -13,6 +13,7 @@
 ### Debugger
 
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap)
+- [hiberabyss/nvim-dbg](https://github.com/hiberabyss/nvim-dbg) ![](https://img.shields.io/github/stars/hiberabyss/nvim-dbg) ![](https://img.shields.io/github/last-commit/hiberabyss/nvim-dbg) ![](https://img.shields.io/github/commit-activity/y/hiberabyss/nvim-dbg)
 - [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) ![](https://img.shields.io/github/stars/sakhnik/nvim-gdb) ![](https://img.shields.io/github/last-commit/sakhnik/nvim-gdb) ![](https://img.shields.io/github/commit-activity/y/sakhnik/nvim-gdb)
 
 #### nvim-dap extension
