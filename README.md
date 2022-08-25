@@ -33,10 +33,10 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
-        - [Auto convert](#auto-convert)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment Out](#comment-out)
     - [Convert Case](#convert-case)
@@ -464,6 +464,7 @@
 
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-trevJ.lua)
 - [kizza/joinery.nvim](https://github.com/kizza/joinery.nvim) ![](https://img.shields.io/github/stars/kizza/joinery.nvim) ![](https://img.shields.io/github/last-commit/kizza/joinery.nvim) ![](https://img.shields.io/github/commit-activity/y/kizza/joinery.nvim)
+- [uga-rosa/join.nvim](https://github.com/uga-rosa/join.nvim) ![](https://img.shields.io/github/stars/uga-rosa/join.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/join.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/join.nvim)
 
 ### Yank
 
