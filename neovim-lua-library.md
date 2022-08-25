@@ -5,6 +5,9 @@
   - [Notification](#notification)
   - [async](#async)
   - [UI](#ui)
+    - [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
+    - [Popup](#popup)
+    - [FuzzyFinder](#fuzzyfinder)
   - [Error handling](#error-handling)
   - [REST](#rest)
   - [JSON](#json)
@@ -25,6 +28,7 @@
 
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
 - [Tastyep/structlog.nvim](https://github.com/Tastyep/structlog.nvim) ![](https://img.shields.io/github/stars/Tastyep/structlog.nvim) ![](https://img.shields.io/github/last-commit/Tastyep/structlog.nvim) ![](https://img.shields.io/github/commit-activity/y/Tastyep/structlog.nvim)
+- [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
 
 ## async
 
@@ -36,13 +40,22 @@
 
 ## UI
 
+- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
+
+### vim.ui.select/vim.ui.input
+
+- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) ![](https://img.shields.io/github/stars/stevearc/dressing.nvim) ![](https://img.shields.io/github/last-commit/stevearc/dressing.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/dressing.nvim)
+- [doums/suit.nvim](https://github.com/doums/suit.nvim) ![](https://img.shields.io/github/stars/doums/suit.nvim) ![](https://img.shields.io/github/last-commit/doums/suit.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/suit.nvim)
+- [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
+
+### Popup
+
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) ![](https://img.shields.io/github/stars/nvim-lua/popup.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/popup.nvim)
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
-- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) ![](https://img.shields.io/github/stars/stevearc/dressing.nvim) ![](https://img.shields.io/github/last-commit/stevearc/dressing.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/dressing.nvim)
-- [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
-- [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
+
+### FuzzyFinder
+
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
-- [doums/suit.nvim](https://github.com/doums/suit.nvim) ![](https://img.shields.io/github/stars/doums/suit.nvim) ![](https://img.shields.io/github/last-commit/doums/suit.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/suit.nvim)
 
 ## Error handling
 
