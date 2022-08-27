@@ -26,6 +26,7 @@
     - [Elixir](#elixir)
     - [F#](#f)
     - [Agda](#agda)
+    - [Monkey](#monkey)
     - [Moonscript](#moonscript)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
@@ -56,7 +57,6 @@
 ### Javascript/Typescript
 
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) ![](https://img.shields.io/github/stars/vuki656/package-info.nvim) ![](https://img.shields.io/github/last-commit/vuki656/package-info.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/package-info.nvim)
-- [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/typescript.nvim)
 - [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) ![](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/web-tools.nvim)
 
@@ -185,6 +185,10 @@
 ### Agda
 
 - [ashinkarov/nvim-agda](https://github.com/ashinkarov/nvim-agda) ![](https://img.shields.io/github/stars/ashinkarov/nvim-agda) ![](https://img.shields.io/github/last-commit/ashinkarov/nvim-agda) ![](https://img.shields.io/github/commit-activity/y/ashinkarov/nvim-agda)
+
+### Monkey
+
+- [mhanberg/monkey.nvim](https://github.com/mhanberg/monkey.nvim) ![](https://img.shields.io/github/stars/mhanberg/monkey.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/monkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/monkey.nvim)
 
 ### Moonscript
 
