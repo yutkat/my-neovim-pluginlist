@@ -31,6 +31,7 @@
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-treehopper)
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
 - [mizlan/longbow.nvim](https://github.com/mizlan/longbow.nvim) ![](https://img.shields.io/github/stars/mizlan/longbow.nvim) ![](https://img.shields.io/github/last-commit/mizlan/longbow.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/longbow.nvim)
+- [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) ![](https://img.shields.io/github/stars/ggandor/flit.nvim) ![](https://img.shields.io/github/last-commit/ggandor/flit.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/flit.nvim)
 
 ### Horizontal Move
 
