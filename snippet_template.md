@@ -15,7 +15,6 @@
 
 #### Snippet definitions
 
-- [utilyre/spoon.nvim](https://github.com/utilyre/spoon.nvim) ![](https://img.shields.io/github/stars/utilyre/spoon.nvim) ![](https://img.shields.io/github/last-commit/utilyre/spoon.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/spoon.nvim)
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
 
 #### Snippet converter
