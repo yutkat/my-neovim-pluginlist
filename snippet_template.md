@@ -1,12 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Snippet](#snippet)
-    - [Snippet definitions](#snippet-definitions)
-    - [Snippet converter](#snippet-converter)
-    - [Snippet view](#snippet-view)
-    - [Snippet assistant](#snippet-assistant)
-  - [Template](#template)
+    - [Snippet](#snippet)
+      - [Snippet definitions](#snippet-definitions)
+      - [Snippet converter](#snippet-converter)
+      - [Snippet view](#snippet-view)
+    - [Template](#template)
 
 ### Snippet
 
@@ -26,10 +25,6 @@
 #### Snippet view
 
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/stars/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/last-commit/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/benfowler/telescope-luasnip.nvim)
-
-#### Snippet assistant
-
-- [kevinhwang91/nvim-hclipboard](https://github.com/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-hclipboard) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-hclipboard)
 
 ### Template
 
