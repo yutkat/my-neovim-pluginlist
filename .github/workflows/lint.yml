@@ -28,7 +28,7 @@ jobs:
       - run: >
           test $(grep ': true' archived_check_list.txt | wc -l) -le 0
       - run: >
-          grep '](https://github.com' Archived.md |
+          grep '](https://github.com' README.md [a-z]*.md |
           sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
           xargs -P100 -I {} bash -c "curl -f -s -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
         env:
