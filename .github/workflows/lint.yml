@@ -27,3 +27,13 @@ jobs:
           grep ": true" archived_check_list.txt || true
       - run: >
           test $(grep ': true' archived_check_list.txt | wc -l) -le 0
+      - run: >
+          grep '](https://github.com' Archived.md |
+          sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
+          xargs -P100 -I {} bash -c "curl -f -s -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - run: >
+          cat removed_check_list.txt
+      - run: >
+          test $(cat removed_check_list.txt | wc -l) -le 0
