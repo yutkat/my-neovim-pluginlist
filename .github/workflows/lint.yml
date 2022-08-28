@@ -16,7 +16,7 @@ jobs:
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
           echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | tee /etc/apt/sources.list.d/github-cli.list > /dev/null
           apt update
-          apt-get install -y gh ca-certificates
+          apt-get install -y gh ca-certificates curl
       - run: >
           grep '](https://github.com' README.md [a-z]*.md |
           sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
@@ -27,13 +27,14 @@ jobs:
           grep ": true" archived_check_list.txt || true
       - run: >
           test $(grep ': true' archived_check_list.txt | wc -l) -le 0
-      - run: >
-          grep '](https://github.com' README.md [a-z]*.md |
-          sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
-          xargs -P100 -I {} bash -c "curl -f -s -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
-        env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-      - run: >
-          cat removed_check_list.txt
-      - run: >
-          test $(cat removed_check_list.txt | wc -l) -le 0
+      # curl 429 too many requests
+      # - run: >
+      #     grep '](https://github.com' README.md [a-z]*.md |
+      #     sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
+      #     xargs -P100 -I {} bash -c "curl -fsSL -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
+      #   env:
+      #     GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      # - run: >
+      #     cat removed_check_list.txt
+      # - run: >
+      #     test $(cat removed_check_list.txt | wc -l) -le 0
