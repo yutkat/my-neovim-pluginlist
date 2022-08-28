@@ -40,4 +40,3 @@
 
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
 - [smolovk/projector.nvim](https://github.com/smolovk/projector.nvim) ![](https://img.shields.io/github/stars/smolovk/projector.nvim) ![](https://img.shields.io/github/last-commit/smolovk/projector.nvim) ![](https://img.shields.io/github/commit-activity/y/smolovk/projector.nvim)
-- [Jxstxs/config-switcher.nvim](https://github.com/Jxstxs/config-switcher.nvim) ![](https://img.shields.io/github/stars/Jxstxs/config-switcher.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/config-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/config-switcher.nvim)

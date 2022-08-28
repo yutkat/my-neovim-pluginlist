@@ -16,17 +16,21 @@ jobs:
           curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | dd of=/usr/share/keyrings/githubcli-archive-keyring.gpg
           echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | tee /etc/apt/sources.list.d/github-cli.list > /dev/null
           apt update
-          apt-get install -y gh ca-certificates curl
+          apt-get install -y gh jq ca-certificates curl
       - run: >
           grep '](https://github.com' README.md [a-z]*.md |
           sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
-          xargs -I {} gh api repos/{} --jq '.name + ": " + (.archived|tostring)' | tee archived_check_list.txt
+          xargs -I {} bash -c "echo -n \"{}: \"; gh api repos/{} 2>/dev/null | jq -r '(.archived|tostring)'"  | tee archived_check_list.txt
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
           grep ": true" archived_check_list.txt || true
       - run: >
           test $(grep ': true' archived_check_list.txt | wc -l) -le 0
+      - run: >
+          grep ": null" archived_check_list.txt || true
+      - run: >
+          test $(grep ': null' archived_check_list.txt | wc -l) -le 0
       # curl 429 too many requests
       # - run: >
       #     grep '](https://github.com' README.md [a-z]*.md |

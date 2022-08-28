@@ -154,7 +154,6 @@
 - [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ![](https://img.shields.io/github/stars/artur-shaik/jc.nvim) ![](https://img.shields.io/github/last-commit/artur-shaik/jc.nvim) ![](https://img.shields.io/github/commit-activity/y/artur-shaik/jc.nvim)
 - [esensar/neovim-java-plugin-host](https://github.com/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/stars/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/last-commit/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/commit-activity/y/esensar/neovim-java-plugin-host)
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
-- [aloussase/telescope-gradle.nvim](https://github.com/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/stars/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/last-commit/aloussase/telescope-gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/telescope-gradle.nvim)
 - [tobias-z/java-util.nvim](https://github.com/tobias-z/java-util.nvim) ![](https://img.shields.io/github/stars/tobias-z/java-util.nvim) ![](https://img.shields.io/github/last-commit/tobias-z/java-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-z/java-util.nvim)
 
 ### Scala
@@ -280,7 +279,6 @@
 
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/last-commit/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/auto-pandoc.nvim)
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
-- [mjlbach/babelfish.nvim](https://github.com/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/stars/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/last-commit/mjlbach/babelfish.nvim) ![](https://img.shields.io/github/commit-activity/y/mjlbach/babelfish.nvim)
 
 ### Tex
 
