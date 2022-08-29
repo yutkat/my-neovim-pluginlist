@@ -768,6 +768,7 @@
 - [akinsho/clock.nvim](https://github.com/akinsho/clock.nvim) ![](https://img.shields.io/github/stars/akinsho/clock.nvim) ![](https://img.shields.io/github/last-commit/akinsho/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/clock.nvim)
 - [PSebaRaj/tomatotimer.nvim](https://github.com/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/stars/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/last-commit/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/commit-activity/y/PSebaRaj/tomatotimer.nvim)
 - [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) ![](https://img.shields.io/github/stars/dbinagi/nomodoro) ![](https://img.shields.io/github/last-commit/dbinagi/nomodoro) ![](https://img.shields.io/github/commit-activity/y/dbinagi/nomodoro)
+- [jouderianjr/pomodoro.nvim](https://github.com/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/stars/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/jouderianjr/pomodoro.nvim)
 
 #### Do Not Disturb
 
