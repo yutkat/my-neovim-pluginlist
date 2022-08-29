@@ -26,6 +26,7 @@
       - [Notion](#notion)
       - [Google Docs](#google-docs)
       - [Twitch](#twitch)
+      - [Spotify](#spotify)
     - [Password Manager](#password-manager)
     - [IME](#ime)
     - [Battery](#battery)
@@ -134,6 +135,10 @@
 #### Twitch
 
 - [samodostal/is-prime-online.nvim](https://github.com/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/stars/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/last-commit/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/is-prime-online.nvim)
+
+#### Spotify
+
+- [C0deBr3ak3r/neofy.nvim](https://github.com/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/stars/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/last-commit/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/commit-activity/y/C0deBr3ak3r/neofy.nvim)
 
 ### Password Manager
 
