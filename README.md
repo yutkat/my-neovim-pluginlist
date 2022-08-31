@@ -33,10 +33,10 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
-        - [Auto convert](#auto-convert)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment Out](#comment-out)
     - [Convert Case](#convert-case)
@@ -115,6 +115,7 @@
     - [Regex](#regex)
     - [Code outline](#code-outline)
     - [Call Hierarchy](#call-hierarchy)
+    - [Type Hierarchy](#type-hierarchy)
     - [Snippet/Template](#snippettemplate)
     - [Task Runner](#task-runner)
     - [Test](#test)
@@ -135,6 +136,7 @@
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
+    - [Security](#security)
     - [Hex Editor](#hex-editor)
     - [Presentation](#presentation)
     - [Tutorial](#tutorial)
@@ -711,6 +713,10 @@
 
 - [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee-calltree.nvim)
 
+### Type Hierarchy
+
+- [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/stars/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Slyces/hierarchy.nvim)
+
 ### [Snippet/Template](./snippet_template.md)
 
 ### [Task Runner](./task-runner.md)
@@ -780,6 +786,10 @@
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) ![](https://img.shields.io/github/stars/folke/zen-mode.nvim) ![](https://img.shields.io/github/last-commit/folke/zen-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/zen-mode.nvim)
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 
+### Security
+
+- [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim) ![](https://img.shields.io/github/stars/laytan/cloak.nvim) ![](https://img.shields.io/github/last-commit/laytan/cloak.nvim) ![](https://img.shields.io/github/commit-activity/y/laytan/cloak.nvim)
+
 ### Hex Editor
 
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
@@ -793,6 +803,8 @@
 - [antonk52/bad-practices.nvim](https://github.com/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/stars/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/last-commit/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/bad-practices.nvim)
 
 ### Analytics
+
+- [diego-rapoport/wt.nvim](https://github.com/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/stars/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/last-commit/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/diego-rapoport/wt.nvim)
 
 ## Util pack
 

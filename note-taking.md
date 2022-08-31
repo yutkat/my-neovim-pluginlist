@@ -2,14 +2,15 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-  - [Org mode](#org-mode)
-  - [Zettelkasten](#zettelkasten)
-  - [Markdown](#markdown)
-  - [ToDo](#todo)
-  - [Obsidian](#obsidian)
-  - [Google Keep](#google-keep)
-  - [Dendron](#dendron)
-  - [etc](#etc)
+    - [Org mode](#org-mode)
+    - [Zettelkasten](#zettelkasten)
+    - [Markdown](#markdown)
+    - [ToDo](#todo)
+    - [Obsidian](#obsidian)
+    - [Google Keep](#google-keep)
+    - [Dendron](#dendron)
+    - [BibleGateway](#biblegateway)
+    - [etc](#etc)
 
 # Note Taking
 
@@ -54,6 +55,10 @@
 ### Dendron
 
 - [namjul/dendron.nvim](https://github.com/namjul/dendron.nvim) ![](https://img.shields.io/github/stars/namjul/dendron.nvim) ![](https://img.shields.io/github/last-commit/namjul/dendron.nvim) ![](https://img.shields.io/github/commit-activity/y/namjul/dendron.nvim)
+
+### BibleGateway
+
+- [huynle/bible.nvim](https://github.com/huynle/bible.nvim) ![](https://img.shields.io/github/stars/huynle/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/bible.nvim)
 
 ### etc
 
