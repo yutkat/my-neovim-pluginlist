@@ -12,6 +12,7 @@
       - [Docker](#docker)
       - [dotenv](#dotenv)
       - [Kitty](#kitty)
+      - [Sphinx](#sphinx)
     - [CLI](#cli)
       - [perf](#perf)
       - [Vale](#vale)
@@ -86,6 +87,10 @@
 #### Kitty
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
+
+#### Sphinx
+
+- [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
 
 ### CLI
 
