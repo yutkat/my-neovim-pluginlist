@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Comment out](#comment-out)
-      - [CommentString](#commentstring)
-      - [Comment Header](#comment-header)
-    - [Todo Comment Highlight](#todo-comment-highlight)
-      - [Annotation](#annotation)
+  - [Comment out](#comment-out)
+    - [CommentString](#commentstring)
+    - [Comment Header](#comment-header)
+  - [Todo Comment Highlight](#todo-comment-highlight)
+    - [Annotation](#annotation)
 
 ### Comment out
 
@@ -31,6 +31,10 @@
 
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/stars/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/better-comments.nvim)
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ![](https://img.shields.io/github/stars/folke/todo-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/todo-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/todo-comments.nvim)
+
+### Special Comment
+
+- [rapan931/binary_comments.vim](https://github.com/rapan931/binary_comments.vim) ![](https://img.shields.io/github/stars/rapan931/binary_comments.vim) ![](https://img.shields.io/github/last-commit/rapan931/binary_comments.vim) ![](https://img.shields.io/github/commit-activity/y/rapan931/binary_comments.vim)
 
 #### Annotation
 

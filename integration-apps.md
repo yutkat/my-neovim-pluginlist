@@ -27,6 +27,7 @@
       - [Google Docs](#google-docs)
       - [Twitch](#twitch)
       - [Spotify](#spotify)
+      - [GitLab](#gitlab)
     - [Password Manager](#password-manager)
     - [IME](#ime)
     - [Battery](#battery)
@@ -139,6 +140,10 @@
 #### Spotify
 
 - [C0deBr3ak3r/neofy.nvim](https://github.com/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/stars/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/last-commit/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/commit-activity/y/C0deBr3ak3r/neofy.nvim)
+
+#### GitLab
+
+- [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
 
 ### Password Manager
 

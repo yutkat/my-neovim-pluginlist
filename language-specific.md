@@ -132,6 +132,7 @@
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) ![](https://img.shields.io/github/stars/olexsmir/gopher.nvim) ![](https://img.shields.io/github/last-commit/olexsmir/gopher.nvim) ![](https://img.shields.io/github/commit-activity/y/olexsmir/gopher.nvim)
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) ![](https://img.shields.io/github/stars/leoluz/nvim-dap-go) ![](https://img.shields.io/github/last-commit/leoluz/nvim-dap-go) ![](https://img.shields.io/github/commit-activity/y/leoluz/nvim-dap-go)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/stars/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/last-commit/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/commit-activity/y/benediktjost/nvim-treesitter-go-return)
+- [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
 
 ### C/C++
 
@@ -246,6 +247,7 @@
 - [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
+- [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 
 #### Markdown code fence
 
