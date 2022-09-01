@@ -16,6 +16,7 @@
     - [CLI](#cli)
       - [perf](#perf)
       - [Vale](#vale)
+      - [Silicon](#silicon)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
       - [Azure](#azure)
@@ -101,6 +102,10 @@
 #### Vale
 
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
+
+#### Silicon
+
+- [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
 
 ### Cloud
 
