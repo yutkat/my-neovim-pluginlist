@@ -108,6 +108,7 @@
 - [wassimk/cmp-rails-fixture-types](https://github.com/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-types)
 - [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [wassimk/cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/stars/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/last-commit/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-feature-flipper)
+- [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
 
 ### Lua
 
