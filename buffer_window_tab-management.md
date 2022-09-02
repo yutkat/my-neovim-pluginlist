@@ -80,6 +80,7 @@
 #### Window Management
 
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/stars/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/stabilize.nvim)
+- [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) ![](https://img.shields.io/github/stars/anuvyklack/windows.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/windows.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/windows.nvim)
 
 ##### swap
 
