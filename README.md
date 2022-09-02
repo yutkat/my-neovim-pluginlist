@@ -17,6 +17,7 @@
       - [Syntax](#syntax)
       - [Colorizer](#colorizer)
       - [ANSI Colorize](#ansi-colorize)
+      - [Colorscheme switcher](#colorscheme-switcher)
       - [Long line highlight](#long-line-highlight)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
@@ -33,10 +34,10 @@
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Brackets](#brackets)
-      - [Auto insert](#auto-insert)
-      - [Auto insert pairs](#auto-insert-pairs)
-      - [Auto insert semicolon](#auto-insert-semicolon)
-      - [Auto convert](#auto-convert)
+        - [Auto insert](#auto-insert)
+        - [Auto insert pairs](#auto-insert-pairs)
+        - [Auto insert semicolon](#auto-insert-semicolon)
+        - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment Out](#comment-out)
     - [Convert Case](#convert-case)
@@ -227,6 +228,10 @@
 #### ANSI Colorize
 
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) ![](https://img.shields.io/github/stars/m00qek/baleia.nvim) ![](https://img.shields.io/github/last-commit/m00qek/baleia.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/baleia.nvim)
+
+#### Colorscheme switcher
+
+- [NTBBloodbath/daylight.nvim](https://github.com/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/daylight.nvim)
 
 #### Long line highlight
 
