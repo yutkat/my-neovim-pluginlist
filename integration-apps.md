@@ -30,7 +30,8 @@
       - [Twitch](#twitch)
       - [Spotify](#spotify)
       - [GitLab](#gitlab)
-    - [Password Manager](#password-manager)
+      - [compiler-explorer](#compiler-explorer)
+  - [Password Manager](#password-manager)
     - [IME](#ime)
     - [Battery](#battery)
     - [Audio](#audio)
@@ -155,7 +156,11 @@
 
 - [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
 
-### Password Manager
+#### compiler-explorer
+
+- [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/stars/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/last-commit/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/krady21/compiler-explorer.nvim)
+
+## Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
 - [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
