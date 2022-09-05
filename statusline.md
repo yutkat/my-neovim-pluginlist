@@ -19,6 +19,7 @@
 - [rebelot/heirline.nvim](https://github.com/rebelot/heirline.nvim) ![](https://img.shields.io/github/stars/rebelot/heirline.nvim) ![](https://img.shields.io/github/last-commit/rebelot/heirline.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelot/heirline.nvim)
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) ![](https://img.shields.io/github/stars/ojroques/nvim-hardline) ![](https://img.shields.io/github/last-commit/ojroques/nvim-hardline) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-hardline)
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) ![](https://img.shields.io/github/stars/tjdevries/express_line.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/express_line.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/express_line.nvim)
+- [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-lines.lua)
 
 ### Simple
 
