@@ -8,6 +8,7 @@
   - [UI](#ui)
     - [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
     - [Popup](#popup)
+    - [Animation](#animation)
     - [FuzzyFinder](#fuzzyfinder)
   - [Error handling](#error-handling)
   - [REST](#rest)
@@ -15,6 +16,7 @@
   - [Require](#require)
   - [Hook](#hook)
   - [Mode](#mode)
+  - [Keymap](#keymap)
   - [Icon](#icon)
   - [Unicode](#unicode)
   - [Mathematics](#mathematics)
@@ -58,6 +60,10 @@
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) ![](https://img.shields.io/github/stars/nvim-lua/popup.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/popup.nvim)
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
 
+### Animation
+
+- [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
+
 ### FuzzyFinder
 
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
@@ -85,6 +91,10 @@
 ## Mode
 
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/stars/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-libmodal)
+
+## Keymap
+
+- [anuvyklack/keymap-layer.nvim](https://github.com/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-layer.nvim)
 
 ## Icon
 
