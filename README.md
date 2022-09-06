@@ -48,7 +48,6 @@
     - [Operator](#operator)
     - [Emoji](#emoji)
       - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
-      - [Emoji Width](#emoji-width)
     - [Misc](#misc)
   - [Buffer, Window, Tab Management](#buffer-window-tab-management)
   - [Terminal](#terminal)
@@ -144,6 +143,7 @@
     - [Presentation](#presentation)
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
+    - [Font](#font)
   - [Util pack](#util-pack)
   - [Integration with other apps](#integration-with-other-apps)
   - [Language specific](#language-specific)
@@ -381,10 +381,6 @@
 - [protex/better-digraphs.nvim](https://github.com/protex/better-digraphs.nvim) ![](https://img.shields.io/github/stars/protex/better-digraphs.nvim) ![](https://img.shields.io/github/last-commit/protex/better-digraphs.nvim) ![](https://img.shields.io/github/commit-activity/y/protex/better-digraphs.nvim)
 - [ziontee113/icon-picker.nvim](https://github.com/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/icon-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/icon-picker.nvim)
 - [WilsonOh/emoji_picker-nvim](https://github.com/WilsonOh/emoji_picker-nvim) ![](https://img.shields.io/github/stars/WilsonOh/emoji_picker-nvim) ![](https://img.shields.io/github/last-commit/WilsonOh/emoji_picker-nvim) ![](https://img.shields.io/github/commit-activity/y/WilsonOh/emoji_picker-nvim)
-
-#### Emoji Width
-
-- [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
 
 ### Misc
 
@@ -822,6 +818,11 @@
 ### Analytics
 
 - [diego-rapoport/wt.nvim](https://github.com/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/stars/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/last-commit/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/diego-rapoport/wt.nvim)
+
+### Font
+
+- [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
+- [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
 
 ## Util pack
 
