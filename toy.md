@@ -1,7 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Toy](#toy) - [Joke](#joke) - [Image](#image) - [Game](#game) - [Weather](#weather)
+- [Toy](#toy)
+  - [Joke](#joke)
+  - [Image](#image)
+  - [Game](#game)
+  - [Weather](#weather)
 
 # Toy
 
@@ -9,6 +13,7 @@
 
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
+- [samuzora/pet.nvim](https://github.com/samuzora/pet.nvim) ![](https://img.shields.io/github/stars/samuzora/pet.nvim) ![](https://img.shields.io/github/last-commit/samuzora/pet.nvim) ![](https://img.shields.io/github/commit-activity/y/samuzora/pet.nvim)
 
 ### Image
 
