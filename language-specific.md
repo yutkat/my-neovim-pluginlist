@@ -141,6 +141,7 @@
 - [jakemason/ouroboros](https://github.com/jakemason/ouroboros) ![](https://img.shields.io/github/stars/jakemason/ouroboros) ![](https://img.shields.io/github/last-commit/jakemason/ouroboros) ![](https://img.shields.io/github/commit-activity/y/jakemason/ouroboros)
 - [p00f/clangd_extensions.nvim](https://github.com/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/stars/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/last-commit/p00f/clangd_extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/clangd_extensions.nvim)
 - [ranjithshegde/ccls.nvim](https://github.com/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/ccls.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/ccls.nvim)
+- [strptrk/clangwarningparser.nvim](https://github.com/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/stars/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/last-commit/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/commit-activity/y/strptrk/clangwarningparser.nvim)
 
 ### Zig
 
