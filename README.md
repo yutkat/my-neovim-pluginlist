@@ -453,12 +453,14 @@
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) ![](https://img.shields.io/github/stars/axieax/urlview.nvim) ![](https://img.shields.io/github/last-commit/axieax/urlview.nvim) ![](https://img.shields.io/github/commit-activity/y/axieax/urlview.nvim)
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) ![](https://img.shields.io/github/stars/windwp/nvim-spectre) ![](https://img.shields.io/github/last-commit/windwp/nvim-spectre) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-spectre)
 - [lmenou/qfunleashed.nvim](https://github.com/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/stars/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/last-commit/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/commit-activity/y/lmenou/qfunleashed.nvim)
+- [nathanmsmith/livegrep.nvim](https://github.com/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/stars/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/last-commit/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanmsmith/livegrep.nvim)
 
 ### Select
 
 #### Multi Cursor
 
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/cool-substitute.nvim)
+- [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) ![](https://img.shields.io/github/stars/YacineDo/mc.nvim) ![](https://img.shields.io/github/last-commit/YacineDo/mc.nvim) ![](https://img.shields.io/github/commit-activity/y/YacineDo/mc.nvim)
 
 ### Adding and subtracting
 
