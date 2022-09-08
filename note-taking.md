@@ -28,7 +28,6 @@
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/stars/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/last-commit/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/commit-activity/y/oberblastmeister/neuron.nvim)
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) ![](https://img.shields.io/github/stars/mickael-menu/zk-nvim) ![](https://img.shields.io/github/last-commit/mickael-menu/zk-nvim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/zk-nvim)
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/zettelkasten.nvim)
-- [pyrho/nerveux.nvim](https://github.com/pyrho/nerveux.nvim) ![](https://img.shields.io/github/stars/pyrho/nerveux.nvim) ![](https://img.shields.io/github/last-commit/pyrho/nerveux.nvim) ![](https://img.shields.io/github/commit-activity/y/pyrho/nerveux.nvim)
 
 ### Markdown
 
