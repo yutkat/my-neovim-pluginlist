@@ -24,6 +24,7 @@
 ### YAML
 
 - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/stars/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/last-commit/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/commit-activity/y/Arjun31415/BuildTask.nvim)
+- [jjocram/nvim-run](https://github.com/jjocram/nvim-run) ![](https://img.shields.io/github/stars/jjocram/nvim-run) ![](https://img.shields.io/github/last-commit/jjocram/nvim-run) ![](https://img.shields.io/github/commit-activity/y/jjocram/nvim-run)
 
 ### Lua
 
