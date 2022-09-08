@@ -364,7 +364,6 @@
 
 #### Surround
 
-- [numToStr/Surround.nvim](https://github.com/numToStr/Surround.nvim) ![](https://img.shields.io/github/stars/numToStr/Surround.nvim) ![](https://img.shields.io/github/last-commit/numToStr/Surround.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/Surround.nvim)
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) ![](https://img.shields.io/github/stars/kylechui/nvim-surround) ![](https://img.shields.io/github/last-commit/kylechui/nvim-surround) ![](https://img.shields.io/github/commit-activity/y/kylechui/nvim-surround)
 - [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) ![](https://img.shields.io/github/stars/ur4ltz/surround.nvim) ![](https://img.shields.io/github/last-commit/ur4ltz/surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ur4ltz/surround.nvim)
 
@@ -590,7 +589,6 @@
 
 ### Spellcheck
 
-- [lewis6991/spellsitter.nvim](https://github.com/lewis6991/spellsitter.nvim) ![](https://img.shields.io/github/stars/lewis6991/spellsitter.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/spellsitter.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/spellsitter.nvim)
 - [dvdsk/prosesitter.nvim](https://github.com/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/stars/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/last-commit/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/dvdsk/prosesitter.nvim)
 
 ### Abbreviation
@@ -676,7 +674,6 @@
 
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/stars/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/last-commit/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/commit-activity/y/haringsrob/nvim_context_vt)
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
-- [uga-rosa/sticky-header.nvim](https://github.com/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/stars/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/sticky-header.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/sticky-header.nvim)
 
 #### Current Position Info
 
