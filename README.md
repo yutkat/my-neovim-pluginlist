@@ -33,6 +33,7 @@
     - [Background](#background)
   - [Motion](#motion)
   - [Editing support](#editing-support)
+    - [Insert](#insert)
     - [Brackets](#brackets)
         - [Auto insert](#auto-insert)
         - [Auto insert pairs](#auto-insert-pairs)
@@ -301,6 +302,10 @@
 ## [Motion](./motion.md)
 
 ## Editing support
+
+### Insert
+
+- [njaczko/nvim-dummy-text](https://github.com/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/stars/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/last-commit/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-dummy-text)
 
 ### Brackets
 
