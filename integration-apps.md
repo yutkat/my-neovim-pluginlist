@@ -14,6 +14,7 @@
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
     - [CLI](#cli)
+      - [make](#make)
       - [perf](#perf)
       - [Vale](#vale)
       - [Silicon](#silicon)
@@ -96,6 +97,10 @@
 
 ### CLI
 
+#### make
+
+- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
+
 #### perf
 
 - [t-troebst/perfanno.nvim](https://github.com/t-troebst/perfanno.nvim) ![](https://img.shields.io/github/stars/t-troebst/perfanno.nvim) ![](https://img.shields.io/github/last-commit/t-troebst/perfanno.nvim) ![](https://img.shields.io/github/commit-activity/y/t-troebst/perfanno.nvim)
@@ -173,6 +178,7 @@
 - [nitomoki/JPmode.nvim](https://github.com/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/stars/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/last-commit/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/commit-activity/y/nitomoki/JPmode.nvim)
 - [alohaia/fcitx.nvim](https://github.com/alohaia/fcitx.nvim) ![](https://img.shields.io/github/stars/alohaia/fcitx.nvim) ![](https://img.shields.io/github/last-commit/alohaia/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/alohaia/fcitx.nvim)
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ![](https://img.shields.io/github/stars/keaising/im-select.nvim) ![](https://img.shields.io/github/last-commit/keaising/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/im-select.nvim)
+- [uga-rosa/japanese-ime.nvim](https://github.com/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/stars/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/japanese-ime.nvim)
 
 ### Battery
 
