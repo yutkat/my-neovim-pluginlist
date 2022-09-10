@@ -40,7 +40,7 @@
     - [Markdown](#markdown)
       - [Markdown link](#markdown-link)
       - [Markdown preview](#markdown-preview)
-      - [Markdown code fence](#markdown-code-fence)
+      - [Markdown code block](#markdown-code-block)
       - [Markdown evaluate code](#markdown-evaluate-code)
       - [Markdown checkbox](#markdown-checkbox)
       - [Markdown list](#markdown-list)
@@ -110,6 +110,7 @@
 - [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [wassimk/cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/stars/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/last-commit/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-feature-flipper)
 - [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
+- [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
 
 ### Lua
 
@@ -253,10 +254,11 @@
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 
-#### Markdown code fence
+#### Markdown code block
 
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-FeMaco.lua)
 - [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/stars/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/last-commit/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/commit-activity/y/chip/telescope-code-fence.nvim)
+- [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 
 #### Markdown evaluate code
 
