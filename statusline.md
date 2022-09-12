@@ -2,13 +2,14 @@
 
 - [Table of Contents](#table-of-contents)
 - [Statusline](#statusline)
-  - [Simple](#simple)
-  - [Special Features](#special-features)
+    - [Simple](#simple)
+    - [Special Features](#special-features)
   - [Statusline component](#statusline-component)
 
 # Statusline
 
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/stars/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/last-commit/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lualine/lualine.nvim)
+  - [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lualine-lsp-progress.nvim)
 - [Famiu/feline.nvim](https://github.com/Famiu/feline.nvim) ![](https://img.shields.io/github/stars/Famiu/feline.nvim) ![](https://img.shields.io/github/last-commit/Famiu/feline.nvim) ![](https://img.shields.io/github/commit-activity/y/Famiu/feline.nvim)
 - [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/galaxyline.nvim)
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/stars/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/last-commit/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/galaxyline.nvim)

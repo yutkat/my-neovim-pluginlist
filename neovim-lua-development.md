@@ -1,6 +1,20 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents) - [Neovim Lua Development](#neovim-lua-development) - [Neovim Lua REPL](#neovim-lua-repl) - [Development Tools](#development-tools) - [Print](#print) - [Testing](#testing) - [Fennel](#fennel) - [FFI](#ffi) - [Colorscheme Creation](#colorscheme-creation) - [Color Creation](#color-creation) - [Color Export](#color-export) - [Profiler](#profiler) - [CI](#ci) - [Actions](#actions)
+- [Table of Contents](#table-of-contents)
+    - [Neovim Lua Development](#neovim-lua-development)
+    - [Neovim Lua REPL](#neovim-lua-repl)
+    - [Development Tools](#development-tools)
+    - [Log](#log)
+    - [Print](#print)
+    - [Testing](#testing)
+    - [Fennel](#fennel)
+    - [FFI](#ffi)
+    - [Colorscheme Creation](#colorscheme-creation)
+    - [Color Creation](#color-creation)
+    - [Color Export](#color-export)
+    - [Profiler](#profiler)
+    - [CI](#ci)
+      - [Actions](#actions)
 
 ### Neovim Lua Development
 
@@ -18,7 +32,11 @@
 ### Development Tools
 
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) ![](https://img.shields.io/github/stars/tjdevries/nlua.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/nlua.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/nlua.nvim)
+
+### Log
+
 - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) ![](https://img.shields.io/github/stars/tjdevries/vlog.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/vlog.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/vlog.nvim)
+- [smartpde/debuglog](https://github.com/smartpde/debuglog) ![](https://img.shields.io/github/stars/smartpde/debuglog) ![](https://img.shields.io/github/last-commit/smartpde/debuglog) ![](https://img.shields.io/github/commit-activity/y/smartpde/debuglog)
 
 ### Print
 

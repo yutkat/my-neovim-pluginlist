@@ -2,11 +2,12 @@
 
 - [Table of Contents](#table-of-contents)
 - [Filer](#filer)
-  - [Simple](#simple)
-  - [Floating Style](#floating-style)
-  - [FuzzyFinder Style](#fuzzyfinder-style)
-  - [nnn wrapper](#nnn-wrapper)
-  - [Network File Manager](#network-file-manager)
+    - [Simple](#simple)
+    - [Floating Style](#floating-style)
+    - [FuzzyFinder Style](#fuzzyfinder-style)
+    - [nnn wrapper](#nnn-wrapper)
+    - [ranger](#ranger)
+    - [Network File Manager](#network-file-manager)
 
 # Filer
 
@@ -46,6 +47,10 @@
 
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/stars/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/nnn.nvim)
 - [ggustafsson/nnn-dir.nvim](https://github.com/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/stars/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/last-commit/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/commit-activity/y/ggustafsson/nnn-dir.nvim)
+
+### ranger
+
+- [ipod825/ranger.nvim](https://github.com/ipod825/ranger.nvim) ![](https://img.shields.io/github/stars/ipod825/ranger.nvim) ![](https://img.shields.io/github/last-commit/ipod825/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/ranger.nvim)
 
 ### Network File Manager
 
