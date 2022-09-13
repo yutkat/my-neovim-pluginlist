@@ -2,10 +2,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [FuzzyFinder](#fuzzyfinder)
-  - [Telescope Extensions](#telescope-extensions)
-    - [Sorter](#sorter)
-    - [Grep](#grep)
-    - [Integration for another plugin](#integration-for-another-plugin)
+    - [Telescope Extensions](#telescope-extensions)
+      - [Sorter](#sorter)
+      - [Grep](#grep)
+      - [Integration for another plugin](#integration-for-another-plugin)
 
 # FuzzyFinder
 
@@ -18,6 +18,7 @@
 - [RishabhRD/nvim-finder](https://github.com/RishabhRD/nvim-finder) ![](https://img.shields.io/github/stars/RishabhRD/nvim-finder) ![](https://img.shields.io/github/last-commit/RishabhRD/nvim-finder) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/nvim-finder)
 - [shoumodip/helm.nvim](https://github.com/shoumodip/helm.nvim) ![](https://img.shields.io/github/stars/shoumodip/helm.nvim) ![](https://img.shields.io/github/last-commit/shoumodip/helm.nvim) ![](https://img.shields.io/github/commit-activity/y/shoumodip/helm.nvim)
 - [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/ivy.nvim)
+- [vigoux/azy.nvim](https://github.com/vigoux/azy.nvim) ![](https://img.shields.io/github/stars/vigoux/azy.nvim) ![](https://img.shields.io/github/last-commit/vigoux/azy.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/azy.nvim)
 
 ### Telescope Extensions
 
