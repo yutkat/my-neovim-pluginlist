@@ -21,6 +21,7 @@
 
 - [PHSix/faster.nvim](https://github.com/PHSix/faster.nvim) ![](https://img.shields.io/github/stars/PHSix/faster.nvim) ![](https://img.shields.io/github/last-commit/PHSix/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/PHSix/faster.nvim)
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/accelerated-jk.nvim)
+- [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/stars/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/last-commit/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/commit-activity/y/gen740/SmoothCursor.nvim)
 
 ### Label Jump (Easymotion style)
 
