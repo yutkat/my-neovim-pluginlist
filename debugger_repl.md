@@ -6,6 +6,7 @@
       - [nvim-dap extension](#nvim-dap-extension)
     - [REPL](#repl)
     - [Refactoring,Debugging](#refactoringdebugging)
+      - [print debug](#print-debug)
       - [stack trace analyze](#stack-trace-analyze)
 
 ## Debug
@@ -41,7 +42,11 @@
 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/refactoring.nvim)
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-refactor)
+
+#### print debug
+
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/stars/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/debugprint.nvim)
+- [rareitems/printer.nvim](https://github.com/rareitems/printer.nvim) ![](https://img.shields.io/github/stars/rareitems/printer.nvim) ![](https://img.shields.io/github/last-commit/rareitems/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/printer.nvim)
 
 #### stack trace analyze
 

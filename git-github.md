@@ -8,6 +8,7 @@
       - [git blame](#git-blame)
       - [git diff](#git-diff)
       - [git conflict](#git-conflict)
+      - [git open](#git-open)
       - [gitignore](#gitignore)
       - [git hook](#git-hook)
     - [GitHub](#github)
@@ -57,6 +58,10 @@
 #### git conflict
 
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/stars/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/last-commit/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/git-conflict.nvim)
+
+#### git open
+
+- [senkentarou/goacf.nvim](https://github.com/senkentarou/goacf.nvim) ![](https://img.shields.io/github/stars/senkentarou/goacf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/goacf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/goacf.nvim)
 
 #### gitignore
 
