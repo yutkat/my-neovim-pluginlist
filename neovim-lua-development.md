@@ -1,20 +1,20 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Neovim Lua Development](#neovim-lua-development)
-    - [Neovim Lua REPL](#neovim-lua-repl)
-    - [Development Tools](#development-tools)
-    - [Log](#log)
-    - [Print](#print)
-    - [Testing](#testing)
-    - [Fennel](#fennel)
-    - [FFI](#ffi)
-    - [Colorscheme Creation](#colorscheme-creation)
-    - [Color Creation](#color-creation)
-    - [Color Export](#color-export)
-    - [Profiler](#profiler)
-    - [CI](#ci)
-      - [Actions](#actions)
+        - [Neovim Lua Development](#neovim-lua-development)
+        - [Neovim Lua REPL](#neovim-lua-repl)
+        - [Development Tools](#development-tools)
+        - [Log](#log)
+        - [Print](#print)
+        - [Testing](#testing)
+        - [Fennel](#fennel)
+        - [FFI](#ffi)
+        - [Colorscheme Creation](#colorscheme-creation)
+        - [Color Creation](#color-creation)
+        - [Color Export](#color-export)
+        - [Profiler](#profiler)
+        - [CI](#ci)
+            - [Actions](#actions)
 
 ### Neovim Lua Development
 
@@ -74,6 +74,7 @@
 
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ![](https://img.shields.io/github/stars/max397574/colortils.nvim) ![](https://img.shields.io/github/last-commit/max397574/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/colortils.nvim)
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/color-picker.nvim)
+- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
 
 ### Color Export
 
