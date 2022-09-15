@@ -272,6 +272,9 @@
 
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
 
+#### Markdown converter
+- [realprogrammersusevim/md-to-html.nvim](https://github.com/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/stars/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/last-commit/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/commit-activity/y/realprogrammersusevim/md-to-html.nvim)
+
 ### AsciiDoc
 
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/stars/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/last-commit/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/commit-activity/y/marioortizmanero/adoc-pdf-live.nvim)
