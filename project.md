@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Project](#project)
-    - [Project Switcher](#project-switcher)
-    - [Project Root Detector](#project-root-detector)
-    - [Project Local Config](#project-local-config)
-    - [Config switcher](#config-switcher)
+    - [Project](#project)
+      - [Project Switcher](#project-switcher)
+      - [Project Root Detector](#project-root-detector)
+      - [Project Local Config](#project-local-config)
+      - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -19,6 +19,7 @@
 - [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) ![](https://img.shields.io/github/stars/charludo/projectmgr.nvim) ![](https://img.shields.io/github/last-commit/charludo/projectmgr.nvim) ![](https://img.shields.io/github/commit-activity/y/charludo/projectmgr.nvim)
 - [willthbill/opener.nvim](https://github.com/willthbill/opener.nvim) ![](https://img.shields.io/github/stars/willthbill/opener.nvim) ![](https://img.shields.io/github/last-commit/willthbill/opener.nvim) ![](https://img.shields.io/github/commit-activity/y/willthbill/opener.nvim)
 - [smartpde/neoscopes](https://github.com/smartpde/neoscopes) ![](https://img.shields.io/github/stars/smartpde/neoscopes) ![](https://img.shields.io/github/last-commit/smartpde/neoscopes) ![](https://img.shields.io/github/commit-activity/y/smartpde/neoscopes)
+- [Dax89/ide.nvim](https://github.com/Dax89/ide.nvim) ![](https://img.shields.io/github/stars/Dax89/ide.nvim) ![](https://img.shields.io/github/last-commit/Dax89/ide.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/ide.nvim)
 
 #### Project Root Detector
 
