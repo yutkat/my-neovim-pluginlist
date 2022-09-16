@@ -35,6 +35,7 @@
 - [GustavoKatel/tasks.nvim](https://github.com/GustavoKatel/tasks.nvim) ![](https://img.shields.io/github/stars/GustavoKatel/tasks.nvim) ![](https://img.shields.io/github/last-commit/GustavoKatel/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavoKatel/tasks.nvim)
 - [antonk52/amake.nvim](https://github.com/antonk52/amake.nvim) ![](https://img.shields.io/github/stars/antonk52/amake.nvim) ![](https://img.shields.io/github/last-commit/antonk52/amake.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/amake.nvim)
 - [charlie39/OneStop.nvim](https://github.com/charlie39/OneStop.nvim) ![](https://img.shields.io/github/stars/charlie39/OneStop.nvim) ![](https://img.shields.io/github/last-commit/charlie39/OneStop.nvim) ![](https://img.shields.io/github/commit-activity/y/charlie39/OneStop.nvim)
+- [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) ![](https://img.shields.io/github/stars/desdic/greyjoy.nvim) ![](https://img.shields.io/github/last-commit/desdic/greyjoy.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/greyjoy.nvim)
 
 ### Shell
 
