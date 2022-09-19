@@ -74,7 +74,7 @@
 
 - [max397574/colortils.nvim](https://github.com/max397574/colortils.nvim) ![](https://img.shields.io/github/stars/max397574/colortils.nvim) ![](https://img.shields.io/github/last-commit/max397574/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/colortils.nvim)
 - [ziontee113/color-picker.nvim](https://github.com/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/stars/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/color-picker.nvim)
-- [uga-rosa/ccc.nvim](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
+- [uga-rosa/ccc.nvim(color picker)](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
 
 ### Color Export
 

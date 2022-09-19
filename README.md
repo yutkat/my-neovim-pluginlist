@@ -95,6 +95,7 @@
     - [cd(change directory)](#cdchange-directory)
     - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
     - [Macro](#macro)
+    - [Message](#message)
     - [Help](#help)
     - [Messsage](#messsage)
     - [Save](#save)
@@ -226,6 +227,7 @@
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/stars/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/last-commit/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/commit-activity/y/norcalli/nvim-colorizer.lua)
 - [mrshmllow/document-color.nvim](https://github.com/mrshmllow/document-color.nvim) ![](https://img.shields.io/github/stars/mrshmllow/document-color.nvim) ![](https://img.shields.io/github/last-commit/mrshmllow/document-color.nvim) ![](https://img.shields.io/github/commit-activity/y/mrshmllow/document-color.nvim)
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/stars/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/last-commit/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/commit-activity/y/brenoprata10/nvim-highlight-colors)
+- [uga-rosa/ccc.nvim(colorizer)](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
 
 #### ANSI Colorize
 
@@ -619,6 +621,10 @@
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) ![](https://img.shields.io/github/stars/spywhere/detect-language.nvim) ![](https://img.shields.io/github/last-commit/spywhere/detect-language.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/detect-language.nvim)
 
 ### Macro
+
+### Message
+
+- [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) ![](https://img.shields.io/github/stars/AckslD/messages.nvim) ![](https://img.shields.io/github/last-commit/AckslD/messages.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/messages.nvim)
 
 ### Help
 
