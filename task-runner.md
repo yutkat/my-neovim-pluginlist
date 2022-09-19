@@ -51,6 +51,7 @@
 - [crpier/fast-jobs.nvim](https://github.com/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/stars/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/last-commit/crpier/fast-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/crpier/fast-jobs.nvim)
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) ![](https://img.shields.io/github/stars/Equilibris/nx.nvim) ![](https://img.shields.io/github/last-commit/Equilibris/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/Equilibris/nx.nvim)
 - [nullishamy/nvim-compile](https://github.com/nullishamy/nvim-compile) ![](https://img.shields.io/github/stars/nullishamy/nvim-compile) ![](https://img.shields.io/github/last-commit/nullishamy/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/nullishamy/nvim-compile)
+- [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
 
 ## Partial execution
 
