@@ -475,6 +475,7 @@
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) ![](https://img.shields.io/github/stars/monaqa/dial.nvim) ![](https://img.shields.io/github/last-commit/monaqa/dial.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/dial.nvim)
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/stars/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/last-commit/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/commit-activity/y/zegervdv/nrpattern.nvim)
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/stars/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/last-commit/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/commit-activity/y/nguyenvukhang/nvim-toggler)
+- [Dotrar/neovim-arithmagic](https://github.com/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/stars/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/last-commit/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/commit-activity/y/Dotrar/neovim-arithmagic)
 
 ### Join
 
