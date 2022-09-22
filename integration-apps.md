@@ -18,6 +18,7 @@
       - [perf](#perf)
       - [Vale](#vale)
       - [Silicon](#silicon)
+      - [dotnet](#dotnet)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
       - [Azure](#azure)
@@ -113,6 +114,10 @@
 #### Silicon
 
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
+
+#### dotnet
+
+- [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 
 ### Cloud
 
