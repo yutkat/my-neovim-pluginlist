@@ -10,6 +10,7 @@
     - [HTML](#html)
     - [CSS](#css)
     - [React](#react)
+    - [Deno](#deno)
     - [mjml](#mjml)
     - [Python](#python)
     - [Ruby](#ruby)
@@ -88,6 +89,10 @@
 
 - [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) ![](https://img.shields.io/github/stars/napmn/react-extract.nvim) ![](https://img.shields.io/github/last-commit/napmn/react-extract.nvim) ![](https://img.shields.io/github/commit-activity/y/napmn/react-extract.nvim)
 
+### Deno
+
+- [sigmaSd/deno-nvim](https://github.com/sigmaSd/deno-nvim) ![](https://img.shields.io/github/stars/sigmaSd/deno-nvim) ![](https://img.shields.io/github/last-commit/sigmaSd/deno-nvim) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/deno-nvim)
+
 ### mjml
 
 - [ec965/mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/stars/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/last-commit/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/mjml-preview.nvim)
@@ -105,6 +110,7 @@
 - [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
 - [jefromyers/python_usain.nvim](https://github.com/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/stars/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/last-commit/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/commit-activity/y/jefromyers/python_usain.nvim)
 - [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) ![](https://img.shields.io/github/stars/AckslD/swenv.nvim) ![](https://img.shields.io/github/last-commit/AckslD/swenv.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/swenv.nvim)
+- [mwil/nvim-block-markers](https://github.com/mwil/nvim-block-markers) ![](https://img.shields.io/github/stars/mwil/nvim-block-markers) ![](https://img.shields.io/github/last-commit/mwil/nvim-block-markers) ![](https://img.shields.io/github/commit-activity/y/mwil/nvim-block-markers)
 
 ### Ruby
 
@@ -261,6 +267,7 @@
 - [AckslD/nvim-FeMaco.lua](https://github.com/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-FeMaco.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-FeMaco.lua)
 - [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/stars/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/last-commit/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/commit-activity/y/chip/telescope-code-fence.nvim)
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
+- [Mr-Destructive/markrunner.nvim](https://github.com/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/markrunner.nvim)
 
 #### Markdown evaluate code
 
@@ -304,6 +311,7 @@
 - [f3fora/nvim-texlabconfig](https://github.com/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/stars/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/last-commit/f3fora/nvim-texlabconfig) ![](https://img.shields.io/github/commit-activity/y/f3fora/nvim-texlabconfig)
 - [jhofscheier/nvim-texis](https://github.com/jhofscheier/nvim-texis) ![](https://img.shields.io/github/stars/jhofscheier/nvim-texis) ![](https://img.shields.io/github/last-commit/jhofscheier/nvim-texis) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/nvim-texis)
 - [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/stars/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/ltex_extra.nvim)
+- [schavesgm/partex.nvim](https://github.com/schavesgm/partex.nvim) ![](https://img.shields.io/github/stars/schavesgm/partex.nvim) ![](https://img.shields.io/github/last-commit/schavesgm/partex.nvim) ![](https://img.shields.io/github/commit-activity/y/schavesgm/partex.nvim)
 
 # Competitive programming
 

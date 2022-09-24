@@ -2,12 +2,13 @@
 
 - [Table of Contents](#table-of-contents)
 - [Filer](#filer)
-        - [Simple](#simple)
-        - [Floating Style](#floating-style)
-        - [FuzzyFinder Style](#fuzzyfinder-style)
-        - [nnn wrapper](#nnn-wrapper)
-        - [ranger](#ranger)
-        - [Network File Manager](#network-file-manager)
+                - [Simple](#simple)
+                - [Floating Style](#floating-style)
+                - [FuzzyFinder Style](#fuzzyfinder-style)
+                - [Emacs style](#emacs-style)
+                - [nnn wrapper](#nnn-wrapper)
+                - [ranger](#ranger)
+                - [Network File Manager](#network-file-manager)
 
 # Filer
 
@@ -30,7 +31,6 @@
 - [bobrown101/minimal-nnn.nvim](https://github.com/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/stars/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/minimal-nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/minimal-nnn.nvim)
 - [ten3roberts/graphene.nvim](https://github.com/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/stars/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/last-commit/ten3roberts/graphene.nvim) ![](https://img.shields.io/github/commit-activity/y/ten3roberts/graphene.nvim)
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) ![](https://img.shields.io/github/stars/lewis6991/brodir.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/brodir.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/brodir.nvim)
-- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
 - [kbario/spear.nvim](https://github.com/kbario/spear.nvim) ![](https://img.shields.io/github/stars/kbario/spear.nvim) ![](https://img.shields.io/github/last-commit/kbario/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/spear.nvim)
 
 ### Floating Style
@@ -43,6 +43,12 @@
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) ![](https://img.shields.io/github/stars/conweller/findr.vim) ![](https://img.shields.io/github/last-commit/conweller/findr.vim) ![](https://img.shields.io/github/commit-activity/y/conweller/findr.vim)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
+
+### Emacs style
+
+- [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
+- [nkreiff/nlist.nvim](https://github.com/nkreiff/nlist.nvim) ![](https://img.shields.io/github/stars/nkreiff/nlist.nvim) ![](https://img.shields.io/github/last-commit/nkreiff/nlist.nvim) ![](https://img.shields.io/github/commit-activity/y/nkreiff/nlist.nvim)
+- [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) ![](https://img.shields.io/github/stars/2hdddg/fex.nvim) ![](https://img.shields.io/github/last-commit/2hdddg/fex.nvim) ![](https://img.shields.io/github/commit-activity/y/2hdddg/fex.nvim)
 
 ### nnn wrapper
 

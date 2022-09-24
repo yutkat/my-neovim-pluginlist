@@ -167,6 +167,7 @@
 - [rktjmp/pact.nvim](https://github.com/rktjmp/pact.nvim) ![](https://img.shields.io/github/stars/rktjmp/pact.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/pact.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/pact.nvim)
 - [Chromosore/lazily-nvim](https://github.com/Chromosore/lazily-nvim) ![](https://img.shields.io/github/stars/Chromosore/lazily-nvim) ![](https://img.shields.io/github/last-commit/Chromosore/lazily-nvim) ![](https://img.shields.io/github/commit-activity/y/Chromosore/lazily-nvim)
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
+- [loichyan/spark.nvim](https://github.com/loichyan/spark.nvim) ![](https://img.shields.io/github/stars/loichyan/spark.nvim) ![](https://img.shields.io/github/last-commit/loichyan/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/spark.nvim)
 
 ### Add runtime path (vim-plug like)
 
@@ -712,6 +713,8 @@
 - [jose-elias-alvarez/null-ls.nvim(Formatting)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/format.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/format.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/format.nvim)
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ![](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![](https://img.shields.io/github/last-commit/mhartington/formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/mhartington/formatter.nvim)
+- [joechrisellis/lsp-format-modifications.nvim](https://github.com/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/stars/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/last-commit/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/commit-activity/y/joechrisellis/lsp-format-modifications.nvim)
+- [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/stars/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/format-on-leave.nvim)
 
 ##### Trim Whitespace
 

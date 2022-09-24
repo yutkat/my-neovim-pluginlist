@@ -11,6 +11,7 @@
     - [Animation](#animation)
     - [FuzzyFinder](#fuzzyfinder)
   - [Error handling](#error-handling)
+  - [Assert](#assert)
   - [REST](#rest)
   - [JSON](#json)
   - [Require](#require)
@@ -71,6 +72,10 @@
 ## Error handling
 
 - [uga-rosa/lua-utils.nvim](https://github.com/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/stars/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/lua-utils.nvim)
+
+## Assert
+
+- [notomo/assertlib.nvim/](https://github.com/notomo/assertlib.nvim/) ![](https://img.shields.io/github/stars/notomo/assertlib.nvim/) ![](https://img.shields.io/github/last-commit/notomo/assertlib.nvim/) ![](https://img.shields.io/github/commit-activity/y/notomo/assertlib.nvim/)
 
 ## REST
 
