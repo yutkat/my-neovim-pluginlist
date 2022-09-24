@@ -34,6 +34,7 @@
 - [johann2357/nvim-smartbufs](https://github.com/johann2357/nvim-smartbufs) ![](https://img.shields.io/github/stars/johann2357/nvim-smartbufs) ![](https://img.shields.io/github/last-commit/johann2357/nvim-smartbufs) ![](https://img.shields.io/github/commit-activity/y/johann2357/nvim-smartbufs)
 - [sonarom/peruse.nvim](https://github.com/sonarom/peruse.nvim) ![](https://img.shields.io/github/stars/sonarom/peruse.nvim) ![](https://img.shields.io/github/last-commit/sonarom/peruse.nvim) ![](https://img.shields.io/github/commit-activity/y/sonarom/peruse.nvim)
 - [smartpde/telescope-recent-files](https://github.com/smartpde/telescope-recent-files) ![](https://img.shields.io/github/stars/smartpde/telescope-recent-files) ![](https://img.shields.io/github/last-commit/smartpde/telescope-recent-files) ![](https://img.shields.io/github/commit-activity/y/smartpde/telescope-recent-files)
+- [MaximilianLloyd/adjacent.nvim](https://github.com/MaximilianLloyd/adjacent.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/adjacent.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/adjacent.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/adjacent.nvim)
 
 #### Other Buffer Switcher
 
