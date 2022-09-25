@@ -31,6 +31,7 @@
     - [Minimap](#minimap)
     - [Highlight current function](#highlight-current-function)
     - [Background](#background)
+    - [Significant](#significant)
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Insert](#insert)
@@ -303,6 +304,10 @@
 ### Background
 
 - [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/stars/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-transparent)
+
+### Significant
+
+- [ElPiloto/significant.nvim](https://github.com/ElPiloto/significant.nvim) ![](https://img.shields.io/github/stars/ElPiloto/significant.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/significant.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/significant.nvim)
 
 ## [Motion](./motion.md)
 
@@ -809,6 +814,7 @@
 - [PSebaRaj/tomatotimer.nvim](https://github.com/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/stars/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/last-commit/PSebaRaj/tomatotimer.nvim) ![](https://img.shields.io/github/commit-activity/y/PSebaRaj/tomatotimer.nvim)
 - [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) ![](https://img.shields.io/github/stars/dbinagi/nomodoro) ![](https://img.shields.io/github/last-commit/dbinagi/nomodoro) ![](https://img.shields.io/github/commit-activity/y/dbinagi/nomodoro)
 - [jouderianjr/pomodoro.nvim](https://github.com/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/stars/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/jouderianjr/pomodoro.nvim)
+- [kaepa3/timer.nvim](https://github.com/kaepa3/timer.nvim) ![](https://img.shields.io/github/stars/kaepa3/timer.nvim) ![](https://img.shields.io/github/last-commit/kaepa3/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/kaepa3/timer.nvim)
 
 #### Do Not Disturb
 
