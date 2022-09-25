@@ -19,6 +19,7 @@
       - [Vale](#vale)
       - [Silicon](#silicon)
       - [dotnet](#dotnet)
+      - [Zeal](#zeal)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
       - [Azure](#azure)
@@ -81,6 +82,7 @@
 - [thlorenz/tmuxrun.nvim](https://github.com/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/stars/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/last-commit/thlorenz/tmuxrun.nvim) ![](https://img.shields.io/github/commit-activity/y/thlorenz/tmuxrun.nvim)
 - [jerryreinoehl/nvim-tmux-nav](https://github.com/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/stars/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/last-commit/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/commit-activity/y/jerryreinoehl/nvim-tmux-nav)
 - [jsstevenson/nvim-tmux](https://github.com/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/stars/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/last-commit/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/commit-activity/y/jsstevenson/nvim-tmux)
+- [elijahdanko/ttymux.nvim](https://github.com/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/stars/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/last-commit/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahdanko/ttymux.nvim)
 
 #### Docker
 
@@ -120,6 +122,10 @@
 
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 - [Lommix/godot.nvim](https://github.com/Lommix/godot.nvim) ![](https://img.shields.io/github/stars/Lommix/godot.nvim) ![](https://img.shields.io/github/last-commit/Lommix/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/godot.nvim)
+
+#### Zeal
+
+- [Betelgeuse1/zealua.nvim](https://github.com/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/stars/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/last-commit/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/commit-activity/y/Betelgeuse1/zealua.nvim)
 
 ### Cloud
 
