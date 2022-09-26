@@ -31,7 +31,7 @@
     - [Minimap](#minimap)
     - [Highlight current function](#highlight-current-function)
     - [Background](#background)
-    - [Significant](#significant)
+    - [Columnline](#columnline-1)
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Insert](#insert)
@@ -305,7 +305,7 @@
 
 - [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/stars/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-transparent)
 
-### Significant
+### Columnline
 
 - [ElPiloto/significant.nvim](https://github.com/ElPiloto/significant.nvim) ![](https://img.shields.io/github/stars/ElPiloto/significant.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/significant.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/significant.nvim)
 
