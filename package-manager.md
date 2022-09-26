@@ -12,8 +12,9 @@
 - [williamboman/mason.nvim](https://github.com/williamboman/mason.nvim) ![](https://img.shields.io/github/stars/williamboman/mason.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason.nvim)
   - [williamboman/mason-lspconfig.nvim](https://github.com/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/stars/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/williamboman/mason-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/williamboman/mason-lspconfig.nvim)
   - [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/mason-tool-installer.nvim)
+  - [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-null-ls.nvim)
+  - [jayp0521/mason-nvim-dap.nvim](https://github.com/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-nvim-dap.nvim)
 - [chiyadev/dep](https://github.com/chiyadev/dep) ![](https://img.shields.io/github/stars/chiyadev/dep) ![](https://img.shields.io/github/last-commit/chiyadev/dep) ![](https://img.shields.io/github/commit-activity/y/chiyadev/dep)
-- [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-null-ls.nvim)
 
 ### Luarock
 
