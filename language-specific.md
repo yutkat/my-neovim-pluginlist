@@ -14,6 +14,7 @@
     - [mjml](#mjml)
     - [Python](#python)
     - [Ruby](#ruby)
+      - [Rails](#rails)
     - [Lua](#lua)
     - [Rust](#rust)
     - [Go](#go)
@@ -114,11 +115,15 @@
 
 ### Ruby
 
-- [wassimk/cmp-rails-fixture-types](https://github.com/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-types)
-- [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [wassimk/cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/stars/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/last-commit/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-feature-flipper)
 - [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
+
+#### Rails
+
+- [wassimk/cmp-rails-fixture-types](https://github.com/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-types) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-types)
+- [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
+- [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
 
 ### Lua
 
@@ -261,6 +266,7 @@
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
+- [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/stars/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/md-prev.nvim)
 
 #### Markdown code block
 
