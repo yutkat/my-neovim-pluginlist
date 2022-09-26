@@ -20,6 +20,7 @@
 - [willthbill/opener.nvim](https://github.com/willthbill/opener.nvim) ![](https://img.shields.io/github/stars/willthbill/opener.nvim) ![](https://img.shields.io/github/last-commit/willthbill/opener.nvim) ![](https://img.shields.io/github/commit-activity/y/willthbill/opener.nvim)
 - [smartpde/neoscopes](https://github.com/smartpde/neoscopes) ![](https://img.shields.io/github/stars/smartpde/neoscopes) ![](https://img.shields.io/github/last-commit/smartpde/neoscopes) ![](https://img.shields.io/github/commit-activity/y/smartpde/neoscopes)
 - [Dax89/ide.nvim](https://github.com/Dax89/ide.nvim) ![](https://img.shields.io/github/stars/Dax89/ide.nvim) ![](https://img.shields.io/github/last-commit/Dax89/ide.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/ide.nvim)
+- [daricoder/workspaces.nvim](https://github.com/daricoder/workspaces.nvim) ![](https://img.shields.io/github/stars/daricoder/workspaces.nvim) ![](https://img.shields.io/github/last-commit/daricoder/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/daricoder/workspaces.nvim)
 
 #### Project Root Detector
 
