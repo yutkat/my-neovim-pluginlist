@@ -16,6 +16,7 @@
         - [swap](#swap)
         - [layout](#layout)
         - [resize](#resize)
+        - [maximize](#maximize)
         - [focus](#focus)
     - [Tab](#tab)
 
@@ -99,6 +100,10 @@
 
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufresize.nvim)
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/smart-splits.nvim)
+
+##### maximize
+
+- [0x00-ketsu/maximizer.nvim](https://github.com/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/maximizer.nvim)
 
 ##### focus
 
