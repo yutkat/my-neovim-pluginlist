@@ -125,6 +125,7 @@
     - [Task Runner](#task-runner)
     - [Test](#test)
     - [Debug/REPL](#debugrepl)
+    - [REST](#rest)
     - [Git/GitHub](#gitgithub)
     - [Project](#project)
   - [New features](#new-features)
@@ -761,6 +762,10 @@
 ### [Test](./test.md)
 
 ### [Debug/REPL](./debugger_repl.md)
+
+### REST
+
+- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
 
 ### [Git/GitHub](./git-github.md)
 

@@ -15,6 +15,7 @@
     - [Python](#python)
     - [Ruby](#ruby)
       - [Rails](#rails)
+    - [PHP](#php)
     - [Lua](#lua)
     - [Rust](#rust)
     - [Go](#go)
@@ -125,6 +126,11 @@
 - [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
+
+### PHP
+
+- [adalessa/composer.nvim](https://github.com/adalessa/composer.nvim) ![](https://img.shields.io/github/stars/adalessa/composer.nvim) ![](https://img.shields.io/github/last-commit/adalessa/composer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/composer.nvim)
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) ![](https://img.shields.io/github/stars/adalessa/laravel.nvim) ![](https://img.shields.io/github/last-commit/adalessa/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/laravel.nvim)
 
 ### Lua
 
