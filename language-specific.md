@@ -331,3 +331,4 @@
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ![](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim) ![](https://img.shields.io/github/commit-activity/y/xeluxee/competitest.nvim)
+- [xerbalind/dodona.nvim](https://github.com/xerbalind/dodona.nvim) ![](https://img.shields.io/github/stars/xerbalind/dodona.nvim) ![](https://img.shields.io/github/last-commit/xerbalind/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/xerbalind/dodona.nvim)
