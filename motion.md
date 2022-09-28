@@ -61,6 +61,7 @@
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
 - [notomo/curstr.nvim](https://github.com/notomo/curstr.nvim) ![](https://img.shields.io/github/stars/notomo/curstr.nvim) ![](https://img.shields.io/github/last-commit/notomo/curstr.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/curstr.nvim)
 - [jonatan-branting/nvim-better-n](https://github.com/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/stars/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/last-commit/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/nvim-better-n)
+- [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
 
 #### jumplist
 

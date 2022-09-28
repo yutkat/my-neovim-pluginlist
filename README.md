@@ -148,6 +148,7 @@
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
     - [Font](#font)
+    - [Keyboard Layout](#keyboard-layout)
   - [Util pack](#util-pack)
   - [Integration with other apps](#integration-with-other-apps)
   - [Language specific](#language-specific)
@@ -820,6 +821,7 @@
 - [dbinagi/nomodoro](https://github.com/dbinagi/nomodoro) ![](https://img.shields.io/github/stars/dbinagi/nomodoro) ![](https://img.shields.io/github/last-commit/dbinagi/nomodoro) ![](https://img.shields.io/github/commit-activity/y/dbinagi/nomodoro)
 - [jouderianjr/pomodoro.nvim](https://github.com/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/stars/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/jouderianjr/pomodoro.nvim)
 - [kaepa3/timer.nvim](https://github.com/kaepa3/timer.nvim) ![](https://img.shields.io/github/stars/kaepa3/timer.nvim) ![](https://img.shields.io/github/last-commit/kaepa3/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/kaepa3/timer.nvim)
+- [cmpadden/pomodoro.nvim](https://github.com/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/stars/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/pomodoro.nvim)
 
 #### Do Not Disturb
 
@@ -855,6 +857,10 @@
 
 - [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
 - [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
+
+### Keyboard Layout
+
+- [kbario/homerows.nvim](https://github.com/kbario/homerows.nvim) ![](https://img.shields.io/github/stars/kbario/homerows.nvim) ![](https://img.shields.io/github/last-commit/kbario/homerows.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/homerows.nvim)
 
 ## Util pack
 
