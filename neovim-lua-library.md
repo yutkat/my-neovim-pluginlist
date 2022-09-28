@@ -75,7 +75,7 @@
 
 ## Assert
 
-- [notomo/assertlib.nvim/](https://github.com/notomo/assertlib.nvim/) ![](https://img.shields.io/github/stars/notomo/assertlib.nvim/) ![](https://img.shields.io/github/last-commit/notomo/assertlib.nvim/) ![](https://img.shields.io/github/commit-activity/y/notomo/assertlib.nvim/)
+- [notomo/assertlib.nvim](https://github.com/notomo/assertlib.nvim) ![](https://img.shields.io/github/stars/notomo/assertlib.nvim) ![](https://img.shields.io/github/last-commit/notomo/assertlib.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/assertlib.nvim)
 
 ## REST
 
