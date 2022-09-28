@@ -43,6 +43,7 @@
 - [NFrid/due.nvim](https://github.com/NFrid/due.nvim) ![](https://img.shields.io/github/stars/NFrid/due.nvim) ![](https://img.shields.io/github/last-commit/NFrid/due.nvim) ![](https://img.shields.io/github/commit-activity/y/NFrid/due.nvim)
 - [defntvdm/todos.nvim](https://github.com/defntvdm/todos.nvim) ![](https://img.shields.io/github/stars/defntvdm/todos.nvim) ![](https://img.shields.io/github/last-commit/defntvdm/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/defntvdm/todos.nvim)
 - [amiroslaw/taskmaker.nvim](https://github.com/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/stars/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/taskmaker.nvim)
+- [unamatasanatarai/nvim-md-todo-toggle](https://github.com/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/stars/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/last-commit/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/commit-activity/y/unamatasanatarai/nvim-md-todo-toggle)
 
 ### Obsidian
 

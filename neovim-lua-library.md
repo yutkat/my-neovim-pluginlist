@@ -81,6 +81,10 @@
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
 
+## WebSocket
+
+- [rohanorton/ws.nvim](https://github.com/rohanorton/ws.nvim) ![](https://img.shields.io/github/stars/rohanorton/ws.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/ws.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/ws.nvim)
+
 ## JSON
 
 - [rxi/json.lua](https://github.com/rxi/json.lua) ![](https://img.shields.io/github/stars/rxi/json.lua) ![](https://img.shields.io/github/last-commit/rxi/json.lua) ![](https://img.shields.io/github/commit-activity/y/rxi/json.lua)
