@@ -809,6 +809,7 @@
 ### Collaborative Editing
 
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) ![](https://img.shields.io/github/stars/jbyuki/instant.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/instant.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/instant.nvim)
+- [pkage/coauthor.nvim](https://github.com/pkage/coauthor.nvim) ![](https://img.shields.io/github/stars/pkage/coauthor.nvim) ![](https://img.shields.io/github/last-commit/pkage/coauthor.nvim) ![](https://img.shields.io/github/commit-activity/y/pkage/coauthor.nvim)
 
 ### [Image](./image.md)
 
@@ -857,6 +858,7 @@
 
 - [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
 - [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
+- [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
 
 ### Keyboard Layout
 
