@@ -208,6 +208,10 @@
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
 
+### Cairo
+
+- [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
 ### Agda
 
 - [ashinkarov/nvim-agda](https://github.com/ashinkarov/nvim-agda) ![](https://img.shields.io/github/stars/ashinkarov/nvim-agda) ![](https://img.shields.io/github/last-commit/ashinkarov/nvim-agda) ![](https://img.shields.io/github/commit-activity/y/ashinkarov/nvim-agda)

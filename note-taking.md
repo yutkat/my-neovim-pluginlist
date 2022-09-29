@@ -2,15 +2,15 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-                - [Org mode](#org-mode)
-                - [Zettelkasten](#zettelkasten)
-                - [Markdown](#markdown)
-                - [ToDo](#todo)
-                - [Obsidian](#obsidian)
-                - [Google Keep](#google-keep)
-                - [Dendron](#dendron)
-                - [BibleGateway](#biblegateway)
-                - [etc](#etc)
+    - [Org mode](#org-mode)
+    - [Zettelkasten](#zettelkasten)
+    - [Markdown](#markdown)
+    - [ToDo](#todo)
+    - [Obsidian](#obsidian)
+    - [Google Keep](#google-keep)
+    - [Dendron](#dendron)
+    - [BibleGateway](#biblegateway)
+    - [etc](#etc)
 
 # Note Taking
 
@@ -25,6 +25,7 @@
 ### Zettelkasten
 
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/stars/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/last-commit/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/commit-activity/y/renerocksai/telekasten.nvim)
+  - [Cybolic/cmp-nvim-telekasten-tags](https://github.com/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/stars/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/last-commit/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/commit-activity/y/Cybolic/cmp-nvim-telekasten-tags)
 - [oberblastmeister/neuron.nvim](https://github.com/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/stars/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/last-commit/oberblastmeister/neuron.nvim) ![](https://img.shields.io/github/commit-activity/y/oberblastmeister/neuron.nvim)
 - [mickael-menu/zk-nvim](https://github.com/mickael-menu/zk-nvim) ![](https://img.shields.io/github/stars/mickael-menu/zk-nvim) ![](https://img.shields.io/github/last-commit/mickael-menu/zk-nvim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/zk-nvim)
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/zettelkasten.nvim)
