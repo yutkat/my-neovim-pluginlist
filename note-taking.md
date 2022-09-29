@@ -2,15 +2,15 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-        - [Org mode](#org-mode)
-        - [Zettelkasten](#zettelkasten)
-        - [Markdown](#markdown)
-        - [ToDo](#todo)
-        - [Obsidian](#obsidian)
-        - [Google Keep](#google-keep)
-        - [Dendron](#dendron)
-        - [BibleGateway](#biblegateway)
-        - [etc](#etc)
+                - [Org mode](#org-mode)
+                - [Zettelkasten](#zettelkasten)
+                - [Markdown](#markdown)
+                - [ToDo](#todo)
+                - [Obsidian](#obsidian)
+                - [Google Keep](#google-keep)
+                - [Dendron](#dendron)
+                - [BibleGateway](#biblegateway)
+                - [etc](#etc)
 
 # Note Taking
 
@@ -67,3 +67,4 @@
 - [bloveless/notical.nvim](https://github.com/bloveless/notical.nvim) ![](https://img.shields.io/github/stars/bloveless/notical.nvim) ![](https://img.shields.io/github/last-commit/bloveless/notical.nvim) ![](https://img.shields.io/github/commit-activity/y/bloveless/notical.nvim)
 - [utouto97/memo.nvim](https://github.com/utouto97/memo.nvim) ![](https://img.shields.io/github/stars/utouto97/memo.nvim) ![](https://img.shields.io/github/last-commit/utouto97/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/utouto97/memo.nvim)
 - [hisbaan/jot.nvim](https://github.com/hisbaan/jot.nvim) ![](https://img.shields.io/github/stars/hisbaan/jot.nvim) ![](https://img.shields.io/github/last-commit/hisbaan/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/hisbaan/jot.nvim)
+- [oem/arachne.nvim](https://github.com/oem/arachne.nvim) ![](https://img.shields.io/github/stars/oem/arachne.nvim) ![](https://img.shields.io/github/last-commit/oem/arachne.nvim) ![](https://img.shields.io/github/commit-activity/y/oem/arachne.nvim)

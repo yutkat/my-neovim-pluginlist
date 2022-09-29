@@ -2,11 +2,11 @@
 
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
-    - [Joke](#joke)
-    - [Image](#image)
-    - [Game](#game)
-    - [Weather](#weather)
-    - [Study](#study)
+        - [Joke](#joke)
+        - [Image](#image)
+        - [Game](#game)
+        - [Weather](#weather)
+        - [Study](#study)
 
 # Toy
 
@@ -33,4 +33,6 @@
 ### Study
 
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
+- [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
+
 
