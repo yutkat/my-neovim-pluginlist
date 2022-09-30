@@ -9,6 +9,7 @@
       - [npm](#npm)
     - [HTML](#html)
     - [CSS](#css)
+      - [tailwind](#tailwind)
     - [React](#react)
     - [Deno](#deno)
     - [mjml](#mjml)
@@ -28,6 +29,7 @@
     - [Clojure](#clojure)
     - [Elixir](#elixir)
     - [F#](#f)
+    - [Cairo](#cairo)
     - [Agda](#agda)
     - [Monkey](#monkey)
     - [Moonscript](#moonscript)
@@ -86,6 +88,10 @@
 ### CSS
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
+
+#### tailwind
+
+- [sigmaSd/nvim-tailwind](https://github.com/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/stars/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/last-commit/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/nvim-tailwind)
 
 ### React
 
