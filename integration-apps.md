@@ -28,6 +28,7 @@
       - [sdfcli](#sdfcli)
     - [Web](#web)
       - [Matrix.org](#matrixorg)
+      - [Discord](#discord)
       - [Slack](#slack)
       - [Notion](#notion)
       - [Google Docs](#google-docs)
@@ -157,6 +158,10 @@
 #### Matrix.org
 
 - [shift-d/radio.nvim](https://github.com/shift-d/radio.nvim) ![](https://img.shields.io/github/stars/shift-d/radio.nvim) ![](https://img.shields.io/github/last-commit/shift-d/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/shift-d/radio.nvim)
+
+#### Discord
+
+- [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
 
 #### Slack
 
