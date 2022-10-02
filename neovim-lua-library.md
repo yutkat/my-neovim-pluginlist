@@ -106,6 +106,10 @@
 
 - [anuvyklack/keymap-layer.nvim](https://github.com/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-layer.nvim)
 
+## autocmd
+
+- [juiceDeLemon/time.nvim](https://github.com/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/stars/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/last-commit/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/commit-activity/y/juiceDeLemon/time.nvim)
+
 ## Icon
 
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
