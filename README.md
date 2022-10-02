@@ -88,6 +88,7 @@
       - [Redirect to scratch buffer](#redirect-to-scratch-buffer)
       - [Shell Command](#shell-command)
     - [Command Line](#command-line)
+    - [Command Line UI](#command-line-ui)
       - [command line completion](#command-line-completion)
     - [History](#history)
     - [Spellcheck](#spellcheck)
@@ -199,6 +200,7 @@
 ### Bufferline
 
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ![](https://img.shields.io/github/stars/akinsho/bufferline.nvim) ![](https://img.shields.io/github/last-commit/akinsho/bufferline.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/bufferline.nvim)
+- [stevearc/three.nvim](https://github.com/stevearc/three.nvim) ![](https://img.shields.io/github/stars/stevearc/three.nvim) ![](https://img.shields.io/github/last-commit/stevearc/three.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/three.nvim)
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) ![](https://img.shields.io/github/stars/romgrk/barbar.nvim) ![](https://img.shields.io/github/last-commit/romgrk/barbar.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/barbar.nvim)
 - [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) ![](https://img.shields.io/github/stars/crispgm/nvim-tabline) ![](https://img.shields.io/github/last-commit/crispgm/nvim-tabline) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-tabline)
 - [alvarosevilla95/luatab.nvim](https://github.com/alvarosevilla95/luatab.nvim) ![](https://img.shields.io/github/stars/alvarosevilla95/luatab.nvim) ![](https://img.shields.io/github/last-commit/alvarosevilla95/luatab.nvim) ![](https://img.shields.io/github/commit-activity/y/alvarosevilla95/luatab.nvim)
@@ -591,6 +593,10 @@
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) ![](https://img.shields.io/github/stars/gelguy/wilder.nvim) ![](https://img.shields.io/github/last-commit/gelguy/wilder.nvim) ![](https://img.shields.io/github/commit-activity/y/gelguy/wilder.nvim)
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/fine-cmdline.nvim)
 - [delphinus/emcl.nvim](https://github.com/delphinus/emcl.nvim) ![](https://img.shields.io/github/stars/delphinus/emcl.nvim) ![](https://img.shields.io/github/last-commit/delphinus/emcl.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/emcl.nvim)
+
+### Command Line UI
+
+- [folke/noice.nvim](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 
 #### command line completion
 

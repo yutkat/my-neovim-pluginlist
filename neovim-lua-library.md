@@ -13,6 +13,7 @@
   - [Error handling](#error-handling)
   - [Assert](#assert)
   - [REST](#rest)
+  - [WebSocket](#websocket)
   - [JSON](#json)
   - [Require](#require)
   - [Hook](#hook)
