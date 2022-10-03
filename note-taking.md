@@ -2,15 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-    - [Org mode](#org-mode)
-    - [Zettelkasten](#zettelkasten)
-    - [Markdown](#markdown)
-    - [ToDo](#todo)
-    - [Obsidian](#obsidian)
-    - [Google Keep](#google-keep)
-    - [Dendron](#dendron)
-    - [BibleGateway](#biblegateway)
-    - [etc](#etc)
+        - [Org mode](#org-mode)
+        - [Zettelkasten](#zettelkasten)
+        - [Markdown](#markdown)
+        - [ToDo](#todo)
+        - [Obsidian](#obsidian)
+        - [Google Keep](#google-keep)
+        - [Dendron](#dendron)
+        - [BibleGateway](#biblegateway)
+        - [Wiki](#wiki)
+        - [etc](#etc)
 
 # Note Taking
 
@@ -45,6 +46,7 @@
 - [defntvdm/todos.nvim](https://github.com/defntvdm/todos.nvim) ![](https://img.shields.io/github/stars/defntvdm/todos.nvim) ![](https://img.shields.io/github/last-commit/defntvdm/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/defntvdm/todos.nvim)
 - [amiroslaw/taskmaker.nvim](https://github.com/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/stars/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/taskmaker.nvim)
 - [unamatasanatarai/nvim-md-todo-toggle](https://github.com/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/stars/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/last-commit/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/commit-activity/y/unamatasanatarai/nvim-md-todo-toggle)
+- [nocksock/do.nvim](https://github.com/nocksock/do.nvim) ![](https://img.shields.io/github/stars/nocksock/do.nvim) ![](https://img.shields.io/github/last-commit/nocksock/do.nvim) ![](https://img.shields.io/github/commit-activity/y/nocksock/do.nvim)
 
 ### Obsidian
 
@@ -61,6 +63,10 @@
 ### BibleGateway
 
 - [huynle/bible.nvim](https://github.com/huynle/bible.nvim) ![](https://img.shields.io/github/stars/huynle/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/bible.nvim)
+
+### Wiki
+
+- [Jxstxs/jaw.nvim](https://github.com/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/stars/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/jaw.nvim)
 
 ### etc
 

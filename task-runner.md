@@ -53,6 +53,10 @@
 - [nullishamy/nvim-compile](https://github.com/nullishamy/nvim-compile) ![](https://img.shields.io/github/stars/nullishamy/nvim-compile) ![](https://img.shields.io/github/last-commit/nullishamy/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/nullishamy/nvim-compile)
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
 
+## CLI
+
+- [BeatScherrer/just.nvim](https://github.com/BeatScherrer/just.nvim) ![](https://img.shields.io/github/stars/BeatScherrer/just.nvim) ![](https://img.shields.io/github/last-commit/BeatScherrer/just.nvim) ![](https://img.shields.io/github/commit-activity/y/BeatScherrer/just.nvim)
+
 ## Partial execution
 
 - [michaelb/sniprun](https://github.com/michaelb/sniprun) ![](https://img.shields.io/github/stars/michaelb/sniprun) ![](https://img.shields.io/github/last-commit/michaelb/sniprun) ![](https://img.shields.io/github/commit-activity/y/michaelb/sniprun)
