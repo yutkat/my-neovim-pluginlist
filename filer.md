@@ -2,13 +2,13 @@
 
 - [Table of Contents](#table-of-contents)
 - [Filer](#filer)
-                - [Simple](#simple)
-                - [Floating Style](#floating-style)
-                - [FuzzyFinder Style](#fuzzyfinder-style)
-                - [Emacs style](#emacs-style)
-                - [nnn wrapper](#nnn-wrapper)
-                - [ranger](#ranger)
-                - [Network File Manager](#network-file-manager)
+                                - [Simple](#simple)
+                                - [Floating Style](#floating-style)
+                                - [FuzzyFinder Style](#fuzzyfinder-style)
+                                - [Emacs style](#emacs-style)
+                                - [nnn wrapper](#nnn-wrapper)
+                                - [ranger](#ranger)
+                                - [Network File Manager](#network-file-manager)
 
 # Filer
 
@@ -20,6 +20,7 @@
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) ![](https://img.shields.io/github/stars/Xuyuanp/yanil) ![](https://img.shields.io/github/last-commit/Xuyuanp/yanil) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/yanil)
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ![](https://img.shields.io/github/stars/ms-jpq/chadtree) ![](https://img.shields.io/github/last-commit/ms-jpq/chadtree) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/chadtree)
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) ![](https://img.shields.io/github/stars/TheBlob42/drex.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/drex.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/drex.nvim)
+- [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
 
 ### Simple
 
