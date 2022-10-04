@@ -106,6 +106,7 @@
     - [Startup](#startup)
     - [Boot Arguments](#boot-arguments)
     - [Session](#session)
+    - [Session Selector](#session-selector)
     - [Mouse](#mouse)
     - [Profiler](#profiler)
     - [Improve startup time](#improve-startup-time)
@@ -685,6 +686,10 @@
   - [LukasPietzschmann/telescope-sessions](https://github.com/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/stars/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/telescope-sessions)
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) ![](https://img.shields.io/github/stars/rmagatti/auto-session) ![](https://img.shields.io/github/last-commit/rmagatti/auto-session) ![](https://img.shields.io/github/commit-activity/y/rmagatti/auto-session)
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) ![](https://img.shields.io/github/stars/folke/persistence.nvim) ![](https://img.shields.io/github/last-commit/folke/persistence.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/persistence.nvim)
+
+### Session Selector
+
+- [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
 
 ### Mouse
 
