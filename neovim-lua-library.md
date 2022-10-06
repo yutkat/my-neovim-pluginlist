@@ -19,6 +19,7 @@
   - [Hook](#hook)
   - [Mode](#mode)
   - [Keymap](#keymap)
+  - [autocmd](#autocmd)
   - [Icon](#icon)
   - [Unicode](#unicode)
   - [Mathematics](#mathematics)
@@ -38,6 +39,7 @@
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
 - [Tastyep/structlog.nvim](https://github.com/Tastyep/structlog.nvim) ![](https://img.shields.io/github/stars/Tastyep/structlog.nvim) ![](https://img.shields.io/github/last-commit/Tastyep/structlog.nvim) ![](https://img.shields.io/github/commit-activity/y/Tastyep/structlog.nvim)
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
+- [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) ![](https://img.shields.io/github/stars/phaazon/notisys.nvim) ![](https://img.shields.io/github/last-commit/phaazon/notisys.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/notisys.nvim)
 
 ## async
 
