@@ -427,6 +427,7 @@
 - [gbprod/stay-in-place.nvim](https://github.com/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/stars/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/last-commit/gbprod/stay-in-place.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/stay-in-place.nvim)
 - [Cassin01/emacs-key-source.nvim](https://github.com/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/stars/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/emacs-key-source.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/emacs-key-source.nvim)
 - [michamos/vim-bepo](https://github.com/michamos/vim-bepo) ![](https://img.shields.io/github/stars/michamos/vim-bepo) ![](https://img.shields.io/github/last-commit/michamos/vim-bepo) ![](https://img.shields.io/github/commit-activity/y/michamos/vim-bepo)
+- [FLinguenheld/potpourri.nvim](https://github.com/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/potpourri.nvim)
 
 #### Mapping search
 
@@ -449,6 +450,7 @@
 - [ironhouzi/starlite-nvim](https://github.com/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/stars/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/last-commit/ironhouzi/starlite-nvim) ![](https://img.shields.io/github/commit-activity/y/ironhouzi/starlite-nvim)
 - [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/stars/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/last-commit/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/lasterisk.nvim)
 - [rapan931/utahraptor.nvim](https://github.com/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/stars/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/last-commit/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/utahraptor.nvim)
+- [nat-418/castabout.nvim](https://github.com/nat-418/castabout.nvim) ![](https://img.shields.io/github/stars/nat-418/castabout.nvim) ![](https://img.shields.io/github/last-commit/nat-418/castabout.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/castabout.nvim)
 
 #### n/N Improvement
 
@@ -565,6 +567,7 @@
 - [kevinhwang91/nvim-ufo](https://github.com/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-ufo) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-ufo)
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/stars/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/fold-preview.nvim)
 - [Vonr/foldcus.nvim](https://github.com/Vonr/foldcus.nvim) ![](https://img.shields.io/github/stars/Vonr/foldcus.nvim) ![](https://img.shields.io/github/last-commit/Vonr/foldcus.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/foldcus.nvim)
+- [milisims/foldhue.nvim](https://github.com/milisims/foldhue.nvim) ![](https://img.shields.io/github/stars/milisims/foldhue.nvim) ![](https://img.shields.io/github/last-commit/milisims/foldhue.nvim) ![](https://img.shields.io/github/commit-activity/y/milisims/foldhue.nvim)
 
 ### Calculation
 

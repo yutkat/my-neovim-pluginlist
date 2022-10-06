@@ -18,6 +18,7 @@
         - [resize](#resize)
         - [maximize](#maximize)
         - [focus](#focus)
+      - [animation](#animation)
     - [Tab](#tab)
 
 ## Buffer, Window, Tab Management
@@ -52,6 +53,7 @@
 
 - [numToStr/BufOnly.nvim](https://github.com/numToStr/BufOnly.nvim) ![](https://img.shields.io/github/stars/numToStr/BufOnly.nvim) ![](https://img.shields.io/github/last-commit/numToStr/BufOnly.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/BufOnly.nvim)
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/stars/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/last-commit/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/stickybuf.nvim)
+- [nat-418/dbm.nvim](https://github.com/nat-418/dbm.nvim) ![](https://img.shields.io/github/stars/nat-418/dbm.nvim) ![](https://img.shields.io/github/last-commit/nat-418/dbm.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/dbm.nvim)
 
 ##### open
 
@@ -112,7 +114,12 @@
 - [declancm/maximize.nvim](https://github.com/declancm/maximize.nvim) ![](https://img.shields.io/github/stars/declancm/maximize.nvim) ![](https://img.shields.io/github/last-commit/declancm/maximize.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/maximize.nvim)
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) ![](https://img.shields.io/github/stars/levouh/tint.nvim) ![](https://img.shields.io/github/last-commit/levouh/tint.nvim) ![](https://img.shields.io/github/commit-activity/y/levouh/tint.nvim)
 
+#### animation
+
+- [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/flirt.nvim)
+
 ### Tab
 
 - [Iron-E/nvim-tabmode](https://github.com/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/stars/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-tabmode)
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) ![](https://img.shields.io/github/stars/nanozuki/tabby.nvim) ![](https://img.shields.io/github/last-commit/nanozuki/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/nanozuki/tabby.nvim)
+- [nat-418/tabbot.nvim](https://github.com/nat-418/tabbot.nvim) ![](https://img.shields.io/github/stars/nat-418/tabbot.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tabbot.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tabbot.nvim)

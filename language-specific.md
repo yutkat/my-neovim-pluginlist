@@ -149,6 +149,7 @@
 
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/stars/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/last-commit/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/rust-tools.nvim)
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) ![](https://img.shields.io/github/stars/Saecki/crates.nvim) ![](https://img.shields.io/github/last-commit/Saecki/crates.nvim) ![](https://img.shields.io/github/commit-activity/y/Saecki/crates.nvim)
+- [aaronhallaert/continuous-testing.nvim](https://github.com/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/continuous-testing.nvim)
 
 ### Go
 
@@ -246,6 +247,10 @@
 ### CSV
 
 - [chen244/csv-tools.lua](https://github.com/chen244/csv-tools.lua) ![](https://img.shields.io/github/stars/chen244/csv-tools.lua) ![](https://img.shields.io/github/last-commit/chen244/csv-tools.lua) ![](https://img.shields.io/github/commit-activity/y/chen244/csv-tools.lua)
+
+### OpenAPI
+
+- [rusagaib/oas-preview.nvim](https://github.com/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/stars/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/last-commit/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rusagaib/oas-preview.nvim)
 
 ### Database
 
