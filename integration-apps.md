@@ -19,7 +19,9 @@
       - [Vale](#vale)
       - [Silicon](#silicon)
       - [dotnet](#dotnet)
+      - [papis](#papis)
       - [Zeal](#zeal)
+      - [k8s (Kubernetes)](#k8s-kubernetes)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
       - [Azure](#azure)
@@ -134,6 +136,10 @@
 #### Zeal
 
 - [Betelgeuse1/zealua.nvim](https://github.com/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/stars/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/last-commit/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/commit-activity/y/Betelgeuse1/zealua.nvim)
+
+#### k8s (Kubernetes)
+
+- [arjunmahishi/k8s.nvim](https://github.com/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/k8s.nvim)
 
 ### Cloud
 
