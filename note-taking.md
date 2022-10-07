@@ -2,16 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-        - [Org mode](#org-mode)
-        - [Zettelkasten](#zettelkasten)
-        - [Markdown](#markdown)
-        - [ToDo](#todo)
-        - [Obsidian](#obsidian)
-        - [Google Keep](#google-keep)
-        - [Dendron](#dendron)
-        - [BibleGateway](#biblegateway)
-        - [Wiki](#wiki)
-        - [etc](#etc)
+                - [Org mode](#org-mode)
+                - [Zettelkasten](#zettelkasten)
+                - [Markdown](#markdown)
+                - [ToDo](#todo)
+                - [Obsidian](#obsidian)
+                - [Google Keep](#google-keep)
+                - [Dendron](#dendron)
+                - [BibleGateway](#biblegateway)
+                - [Wiki](#wiki)
+                - [etc](#etc)
 
 # Note Taking
 
@@ -47,6 +47,7 @@
 - [amiroslaw/taskmaker.nvim](https://github.com/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/stars/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/taskmaker.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/taskmaker.nvim)
 - [unamatasanatarai/nvim-md-todo-toggle](https://github.com/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/stars/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/last-commit/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/commit-activity/y/unamatasanatarai/nvim-md-todo-toggle)
 - [nocksock/do.nvim](https://github.com/nocksock/do.nvim) ![](https://img.shields.io/github/stars/nocksock/do.nvim) ![](https://img.shields.io/github/last-commit/nocksock/do.nvim) ![](https://img.shields.io/github/commit-activity/y/nocksock/do.nvim)
+- [MaximilianLloyd/todo.nvim](https://github.com/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/todo.nvim)
 
 ### Obsidian
 
