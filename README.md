@@ -338,7 +338,6 @@
 
 ##### Auto insert semicolon
 
-- [TornaxO7/tree-setter](https://github.com/TornaxO7/tree-setter) ![](https://img.shields.io/github/stars/TornaxO7/tree-setter) ![](https://img.shields.io/github/last-commit/TornaxO7/tree-setter) ![](https://img.shields.io/github/commit-activity/y/TornaxO7/tree-setter)
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 
 ##### Auto convert
