@@ -33,10 +33,12 @@
     - [Agda](#agda)
     - [Monkey](#monkey)
     - [Moonscript](#moonscript)
+    - [Prolog](#prolog)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
     - [YAML](#yaml)
     - [CSV](#csv)
+    - [OpenAPI](#openapi)
     - [Database](#database)
       - [SQL](#sql)
       - [PostgreSQL](#postgresql)
@@ -231,6 +233,10 @@
 
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
 
+### Prolog
+
+- [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
+
 ## Configuration File
 
 ### JSON
@@ -289,6 +295,7 @@
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 - [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/stars/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/md-prev.nvim)
+- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
 
 #### Markdown code block
 
@@ -340,6 +347,8 @@
 - [jhofscheier/nvim-texis](https://github.com/jhofscheier/nvim-texis) ![](https://img.shields.io/github/stars/jhofscheier/nvim-texis) ![](https://img.shields.io/github/last-commit/jhofscheier/nvim-texis) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/nvim-texis)
 - [barreiroleo/ltex_extra.nvim](https://github.com/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/stars/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/ltex_extra.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/ltex_extra.nvim)
 - [schavesgm/partex.nvim](https://github.com/schavesgm/partex.nvim) ![](https://img.shields.io/github/stars/schavesgm/partex.nvim) ![](https://img.shields.io/github/last-commit/schavesgm/partex.nvim) ![](https://img.shields.io/github/commit-activity/y/schavesgm/partex.nvim)
+- [amarakon/nvim-cmp-lua-latex-symbols](https://github.com/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-lua-latex-symbols)
+- [MomoInSpace/nvim-tex](https://github.com/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/stars/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/last-commit/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/MomoInSpace/nvim-tex)
 
 # Competitive programming
 
