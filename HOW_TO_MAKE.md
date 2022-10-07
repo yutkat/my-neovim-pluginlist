@@ -4,6 +4,7 @@
 
 - awesome-neovim: https://github.com/rockerBOO/awesome-neovim
 - Reddit Neovim: https://www.reddit.com/r/neovim/
+- New Neovim plugin RSS: https://github.com/yutkat/new-neovim-plugin-rss
 - Star of people I follow: https://github.com/yutkat?tab=following
 
 ## Rules for making
