@@ -5,6 +5,7 @@
     - [Image Viewer](#image-viewer)
     - [Image Uploader](#image-uploader)
     - [Screenshot](#screenshot)
+      - [Silicon](#silicon)
     - [Ascii](#ascii)
 
 ## Image
@@ -17,6 +18,7 @@
 - [mbpowers/nvimager](https://github.com/mbpowers/nvimager) ![](https://img.shields.io/github/stars/mbpowers/nvimager) ![](https://img.shields.io/github/last-commit/mbpowers/nvimager) ![](https://img.shields.io/github/commit-activity/y/mbpowers/nvimager)
 - [samodostal/image.nvim](https://github.com/samodostal/image.nvim) ![](https://img.shields.io/github/stars/samodostal/image.nvim) ![](https://img.shields.io/github/last-commit/samodostal/image.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/image.nvim)
 - [glepnir/dashboard-imageview](https://github.com/glepnir/dashboard-imageview) ![](https://img.shields.io/github/stars/glepnir/dashboard-imageview) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-imageview) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-imageview)
+- [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/stars/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/image_preview.nvim)
 
 ### Image Uploader
 
@@ -25,6 +27,10 @@
 ### Screenshot
 
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
+
+#### Silicon
+
+- [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
 
 ### Ascii
 

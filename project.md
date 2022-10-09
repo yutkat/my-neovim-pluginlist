@@ -38,6 +38,7 @@
 - [martini97/project-config.nvim](https://github.com/martini97/project-config.nvim) ![](https://img.shields.io/github/stars/martini97/project-config.nvim) ![](https://img.shields.io/github/last-commit/martini97/project-config.nvim) ![](https://img.shields.io/github/commit-activity/y/martini97/project-config.nvim)
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) ![](https://img.shields.io/github/stars/romainchapou/confiture.nvim) ![](https://img.shields.io/github/last-commit/romainchapou/confiture.nvim) ![](https://img.shields.io/github/commit-activity/y/romainchapou/confiture.nvim)
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/exrc.nvim)
+- [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
 
 #### Config switcher
 

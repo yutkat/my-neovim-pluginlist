@@ -46,6 +46,7 @@
   - [tzachar/cmp-fuzzy-buffer](https://github.com/tzachar/cmp-fuzzy-buffer) ![](https://img.shields.io/github/stars/tzachar/cmp-fuzzy-buffer) ![](https://img.shields.io/github/last-commit/tzachar/cmp-fuzzy-buffer) ![](https://img.shields.io/github/commit-activity/y/tzachar/cmp-fuzzy-buffer)
   - [tzachar/cmp-fuzzy-path](https://github.com/tzachar/cmp-fuzzy-path) ![](https://img.shields.io/github/stars/tzachar/cmp-fuzzy-path) ![](https://img.shields.io/github/last-commit/tzachar/cmp-fuzzy-path) ![](https://img.shields.io/github/commit-activity/y/tzachar/cmp-fuzzy-path)
   - [f3fora/cmp-spell](https://github.com/f3fora/cmp-spell) ![](https://img.shields.io/github/stars/f3fora/cmp-spell) ![](https://img.shields.io/github/last-commit/f3fora/cmp-spell) ![](https://img.shields.io/github/commit-activity/y/f3fora/cmp-spell)
+  - [bydlw98/cmp-env](https://github.com/bydlw98/cmp-env) ![](https://img.shields.io/github/stars/bydlw98/cmp-env) ![](https://img.shields.io/github/last-commit/bydlw98/cmp-env) ![](https://img.shields.io/github/commit-activity/y/bydlw98/cmp-env)
 - LSP source
   - [hrsh7th/cmp-nvim-lsp](https://github.com/hrsh7th/cmp-nvim-lsp) ![](https://img.shields.io/github/stars/hrsh7th/cmp-nvim-lsp) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-nvim-lsp) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-nvim-lsp)
   - [hrsh7th/cmp-nvim-lsp-signature-help](https://github.com/hrsh7th/cmp-nvim-lsp-signature-help) ![](https://img.shields.io/github/stars/hrsh7th/cmp-nvim-lsp-signature-help) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-nvim-lsp-signature-help) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-nvim-lsp-signature-help)
@@ -77,6 +78,7 @@
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) ![](https://img.shields.io/github/stars/onsails/lspkind-nvim) ![](https://img.shields.io/github/last-commit/onsails/lspkind-nvim) ![](https://img.shields.io/github/commit-activity/y/onsails/lspkind-nvim)
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/stars/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/last-commit/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/lsp_signature.nvim)
 - [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/stars/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/last-commit/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/commit-activity/y/Issafalcon/lsp-overloads.nvim)
+- [erhickey/sig-window-nvim](https://github.com/erhickey/sig-window-nvim) ![](https://img.shields.io/github/stars/erhickey/sig-window-nvim) ![](https://img.shields.io/github/last-commit/erhickey/sig-window-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/sig-window-nvim)
 
 ## AI Completion
 

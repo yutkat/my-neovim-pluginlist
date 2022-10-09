@@ -92,6 +92,7 @@
       - [command line completion](#command-line-completion)
     - [History](#history)
     - [Spellcheck](#spellcheck)
+      - [Vale](#vale)
     - [Abbreviation](#abbreviation)
     - [Quickfix](#quickfix)
     - [cd(change directory)](#cdchange-directory)
@@ -508,6 +509,7 @@
 #### OSC52
 
 - [ojroques/nvim-oscyank](https://github.com/ojroques/nvim-oscyank) ![](https://img.shields.io/github/stars/ojroques/nvim-oscyank) ![](https://img.shields.io/github/last-commit/ojroques/nvim-oscyank) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-oscyank)
+- [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/stars/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/last-commit/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/smartyank.nvim)
 
 ### Paste
 
@@ -617,6 +619,10 @@
 - [poljar/typos.nvim](https://github.com/poljar/typos.nvim) ![](https://img.shields.io/github/stars/poljar/typos.nvim) ![](https://img.shields.io/github/last-commit/poljar/typos.nvim) ![](https://img.shields.io/github/commit-activity/y/poljar/typos.nvim)
 - [superDross/spellbound.nvim](https://github.com/superDross/spellbound.nvim) ![](https://img.shields.io/github/stars/superDross/spellbound.nvim) ![](https://img.shields.io/github/last-commit/superDross/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/superDross/spellbound.nvim)
 
+#### Vale
+
+- [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
+
 ### Abbreviation
 
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/commit-activity/y/0styx0/abbreinder.nvim)
@@ -651,6 +657,7 @@
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/stars/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/sudormrfbin/cheatsheet.nvim)
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) ![](https://img.shields.io/github/stars/Djancyp/cheat-sheet) ![](https://img.shields.io/github/last-commit/Djancyp/cheat-sheet) ![](https://img.shields.io/github/commit-activity/y/Djancyp/cheat-sheet)
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/stars/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/help-vsplit.nvim)
+- [hn275/chtsh.nvim](https://github.com/hn275/chtsh.nvim) ![](https://img.shields.io/github/stars/hn275/chtsh.nvim) ![](https://img.shields.io/github/last-commit/hn275/chtsh.nvim) ![](https://img.shields.io/github/commit-activity/y/hn275/chtsh.nvim)
 
 ### Messsage
 
