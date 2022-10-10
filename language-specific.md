@@ -246,6 +246,7 @@
 - [b0o/SchemaStore.nvim](https://github.com/b0o/SchemaStore.nvim) ![](https://img.shields.io/github/stars/b0o/SchemaStore.nvim) ![](https://img.shields.io/github/last-commit/b0o/SchemaStore.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/SchemaStore.nvim)
 - [gennaro-tedesco/nvim-jqx](https://github.com/gennaro-tedesco/nvim-jqx) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-jqx) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-jqx) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-jqx)
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/jvim.nvim)
+- [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/stars/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/phelipetls/jsonpath.nvim)
 
 ### YAML
 
