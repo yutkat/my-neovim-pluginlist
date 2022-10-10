@@ -48,6 +48,7 @@
 - [unamatasanatarai/nvim-md-todo-toggle](https://github.com/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/stars/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/last-commit/unamatasanatarai/nvim-md-todo-toggle) ![](https://img.shields.io/github/commit-activity/y/unamatasanatarai/nvim-md-todo-toggle)
 - [nocksock/do.nvim](https://github.com/nocksock/do.nvim) ![](https://img.shields.io/github/stars/nocksock/do.nvim) ![](https://img.shields.io/github/last-commit/nocksock/do.nvim) ![](https://img.shields.io/github/commit-activity/y/nocksock/do.nvim)
 - [MaximilianLloyd/todo.nvim](https://github.com/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/todo.nvim)
+- [alex-laycalvert/todo.nvim](https://github.com/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/todo.nvim)
 
 ### Obsidian
 

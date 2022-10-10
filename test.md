@@ -10,6 +10,7 @@
 - [klen/nvim-test](https://github.com/klen/nvim-test) ![](https://img.shields.io/github/stars/klen/nvim-test) ![](https://img.shields.io/github/last-commit/klen/nvim-test) ![](https://img.shields.io/github/commit-activity/y/klen/nvim-test)
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) ![](https://img.shields.io/github/stars/rcarriga/vim-ultest) ![](https://img.shields.io/github/last-commit/rcarriga/vim-ultest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/vim-ultest)
 - [rcarriga/neotest](https://github.com/rcarriga/neotest) ![](https://img.shields.io/github/stars/rcarriga/neotest) ![](https://img.shields.io/github/last-commit/rcarriga/neotest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/neotest)
+- [kessejones/tester.nvim](https://github.com/kessejones/tester.nvim) ![](https://img.shields.io/github/stars/kessejones/tester.nvim) ![](https://img.shields.io/github/last-commit/kessejones/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/tester.nvim)
 
 ### Neotest adapter
 

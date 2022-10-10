@@ -23,6 +23,7 @@
 - [nyngwang/NeoTerm.lua](https://github.com/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoTerm.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoTerm.lua)
 - [itmecho/neoterm.nvim](https://github.com/itmecho/neoterm.nvim) ![](https://img.shields.io/github/stars/itmecho/neoterm.nvim) ![](https://img.shields.io/github/last-commit/itmecho/neoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/itmecho/neoterm.nvim)
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/stars/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/last-commit/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Hvassaa/sterm.nvim)
+- [notomo/termnavi.nvim](https://github.com/notomo/termnavi.nvim) ![](https://img.shields.io/github/stars/notomo/termnavi.nvim) ![](https://img.shields.io/github/last-commit/notomo/termnavi.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/termnavi.nvim)
 
 ### External terminal
 
