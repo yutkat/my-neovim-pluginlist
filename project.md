@@ -39,6 +39,7 @@
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) ![](https://img.shields.io/github/stars/romainchapou/confiture.nvim) ![](https://img.shields.io/github/last-commit/romainchapou/confiture.nvim) ![](https://img.shields.io/github/commit-activity/y/romainchapou/confiture.nvim)
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/exrc.nvim)
 - [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
+- [an-otter-world/gerard.nvim](https://github.com/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/stars/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/last-commit/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/commit-activity/y/an-otter-world/gerard.nvim)
 
 #### Config switcher
 

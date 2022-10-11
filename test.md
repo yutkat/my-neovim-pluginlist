@@ -11,6 +11,8 @@
 - [rcarriga/vim-ultest](https://github.com/rcarriga/vim-ultest) ![](https://img.shields.io/github/stars/rcarriga/vim-ultest) ![](https://img.shields.io/github/last-commit/rcarriga/vim-ultest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/vim-ultest)
 - [rcarriga/neotest](https://github.com/rcarriga/neotest) ![](https://img.shields.io/github/stars/rcarriga/neotest) ![](https://img.shields.io/github/last-commit/rcarriga/neotest) ![](https://img.shields.io/github/commit-activity/y/rcarriga/neotest)
 - [kessejones/tester.nvim](https://github.com/kessejones/tester.nvim) ![](https://img.shields.io/github/stars/kessejones/tester.nvim) ![](https://img.shields.io/github/last-commit/kessejones/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/tester.nvim)
+- [aaronhallaert/continuous-testing.nvim](https://github.com/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/continuous-testing.nvim)
+- [kessejones/tester.nvim](https://github.com/kessejones/tester.nvim) ![](https://img.shields.io/github/stars/kessejones/tester.nvim) ![](https://img.shields.io/github/last-commit/kessejones/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/tester.nvim)
 
 ### Neotest adapter
 
@@ -25,6 +27,7 @@
 - [nvim-neotest/neotest-go](https://github.com/nvim-neotest/neotest-go) ![](https://img.shields.io/github/stars/nvim-neotest/neotest-go) ![](https://img.shields.io/github/last-commit/nvim-neotest/neotest-go) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/neotest-go)
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) ![](https://img.shields.io/github/stars/nvim-neotest/neotest-python) ![](https://img.shields.io/github/last-commit/nvim-neotest/neotest-python) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/neotest-python)
 - [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest) ![](https://img.shields.io/github/stars/marilari88/neotest-vitest) ![](https://img.shields.io/github/last-commit/marilari88/neotest-vitest) ![](https://img.shields.io/github/commit-activity/y/marilari88/neotest-vitest)
+- [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
 
 ## Test Coverage
 

@@ -136,6 +136,10 @@
 - [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
 
+### Nix
+
+- [MrcJkb/telescope-manix](https://github.com/MrcJkb/telescope-manix) ![](https://img.shields.io/github/stars/MrcJkb/telescope-manix) ![](https://img.shields.io/github/last-commit/MrcJkb/telescope-manix) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/telescope-manix)
+
 ### PHP
 
 - [adalessa/composer.nvim](https://github.com/adalessa/composer.nvim) ![](https://img.shields.io/github/stars/adalessa/composer.nvim) ![](https://img.shields.io/github/last-commit/adalessa/composer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/composer.nvim)
