@@ -21,6 +21,7 @@
       - [Long line highlight](#long-line-highlight)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
+    - [Jump number](#jump-number)
     - [Cursor](#cursor)
     - [Cursorline](#cursorline)
     - [Columnline](#columnline)
@@ -260,6 +261,10 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) ![](https://img.shields.io/github/stars/edluffy/specs.nvim) ![](https://img.shields.io/github/last-commit/edluffy/specs.nvim) ![](https://img.shields.io/github/commit-activity/y/edluffy/specs.nvim)
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
+
+### Jump number
+
+- [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
 
 ### Cursor
 
