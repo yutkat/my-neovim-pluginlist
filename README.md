@@ -138,6 +138,7 @@
     - [Translate](#translate)
     - [Popup Info](#popup-info)
     - [Command Palette](#command-palette)
+    - [Reload Configuration](#reload-configuration)
     - [Package Manager](#package-manager)
     - [Remote Development](#remote-development)
     - [Collaborative Editing](#collaborative-editing)
@@ -831,6 +832,10 @@
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-command-palette.nvim)
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/stars/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/legendary.nvim)
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
+
+### Reload Configuration
+
+- [milkias17/reloader.nvim](https://github.com/milkias17/reloader.nvim) ![](https://img.shields.io/github/stars/milkias17/reloader.nvim) ![](https://img.shields.io/github/last-commit/milkias17/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/milkias17/reloader.nvim)
 
 ### [Package Manager](./package-manager.md)
 
