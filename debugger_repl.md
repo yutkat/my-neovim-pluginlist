@@ -39,6 +39,7 @@
 - [luissimas/eval.nvim](https://github.com/luissimas/eval.nvim) ![](https://img.shields.io/github/stars/luissimas/eval.nvim) ![](https://img.shields.io/github/last-commit/luissimas/eval.nvim) ![](https://img.shields.io/github/commit-activity/y/luissimas/eval.nvim)
 - [Olical/conjure](https://github.com/Olical/conjure) ![](https://img.shields.io/github/stars/Olical/conjure) ![](https://img.shields.io/github/last-commit/Olical/conjure) ![](https://img.shields.io/github/commit-activity/y/Olical/conjure)
 - [aoi-iter/brepl.nvim](https://github.com/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/stars/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/last-commit/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/commit-activity/y/aoi-iter/brepl.nvim)
+- [liborw/equals](https://github.com/liborw/equals) ![](https://img.shields.io/github/stars/liborw/equals) ![](https://img.shields.io/github/last-commit/liborw/equals) ![](https://img.shields.io/github/commit-activity/y/liborw/equals)
 
 ### Refactoring,Debugging
 
