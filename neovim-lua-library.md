@@ -52,6 +52,7 @@
 ## UI
 
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
+- [hn275/icee.nvim](https://github.com/hn275/icee.nvim) ![](https://img.shields.io/github/stars/hn275/icee.nvim) ![](https://img.shields.io/github/last-commit/hn275/icee.nvim) ![](https://img.shields.io/github/commit-activity/y/hn275/icee.nvim)
 
 ### vim.ui.select/vim.ui.input
 
