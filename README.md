@@ -479,6 +479,8 @@
 
 ### Select
 
+- [m-gail/escape.nvim](https://github.com/m-gail/escape.nvim) ![](https://img.shields.io/github/stars/m-gail/escape.nvim) ![](https://img.shields.io/github/last-commit/m-gail/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/escape.nvim)
+
 #### Multi Cursor
 
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/cool-substitute.nvim)
@@ -600,10 +602,12 @@
 - [gelguy/wilder.nvim](https://github.com/gelguy/wilder.nvim) ![](https://img.shields.io/github/stars/gelguy/wilder.nvim) ![](https://img.shields.io/github/last-commit/gelguy/wilder.nvim) ![](https://img.shields.io/github/commit-activity/y/gelguy/wilder.nvim)
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/fine-cmdline.nvim)
 - [delphinus/emcl.nvim](https://github.com/delphinus/emcl.nvim) ![](https://img.shields.io/github/stars/delphinus/emcl.nvim) ![](https://img.shields.io/github/last-commit/delphinus/emcl.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/emcl.nvim)
+- [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
 
 ### Command Line UI
 
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
+- [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
 
 #### command line completion
 

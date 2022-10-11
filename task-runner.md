@@ -8,6 +8,7 @@
     - [Lua](#lua)
     - [Shell](#shell)
   - [Command style](#command-style)
+  - [CLI](#cli)
   - [Partial execution](#partial-execution)
 
 # Task Runner
@@ -36,6 +37,7 @@
 - [antonk52/amake.nvim](https://github.com/antonk52/amake.nvim) ![](https://img.shields.io/github/stars/antonk52/amake.nvim) ![](https://img.shields.io/github/last-commit/antonk52/amake.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/amake.nvim)
 - [charlie39/OneStop.nvim](https://github.com/charlie39/OneStop.nvim) ![](https://img.shields.io/github/stars/charlie39/OneStop.nvim) ![](https://img.shields.io/github/last-commit/charlie39/OneStop.nvim) ![](https://img.shields.io/github/commit-activity/y/charlie39/OneStop.nvim)
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) ![](https://img.shields.io/github/stars/desdic/greyjoy.nvim) ![](https://img.shields.io/github/last-commit/desdic/greyjoy.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/greyjoy.nvim)
+- [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) ![](https://img.shields.io/github/stars/Shatur/neovim-tasks) ![](https://img.shields.io/github/last-commit/Shatur/neovim-tasks) ![](https://img.shields.io/github/commit-activity/y/Shatur/neovim-tasks)
 
 ### Shell
 
