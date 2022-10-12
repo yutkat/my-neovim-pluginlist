@@ -40,6 +40,7 @@
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/exrc.nvim)
 - [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
 - [an-otter-world/gerard.nvim](https://github.com/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/stars/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/last-commit/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/commit-activity/y/an-otter-world/gerard.nvim)
+- [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) ![](https://img.shields.io/github/stars/kndndrj/nvim-projector) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-projector) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-projector)
 
 #### Config switcher
 
