@@ -19,6 +19,8 @@
       - [dotnet](#dotnet)
       - [papis](#papis)
       - [Zeal](#zeal)
+      - [Snyk Code](#snyk-code)
+      - [Docker](#docker-1)
       - [k8s (Kubernetes)](#k8s-kubernetes)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
@@ -87,6 +89,7 @@
 - [jerryreinoehl/nvim-tmux-nav](https://github.com/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/stars/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/last-commit/jerryreinoehl/nvim-tmux-nav) ![](https://img.shields.io/github/commit-activity/y/jerryreinoehl/nvim-tmux-nav)
 - [jsstevenson/nvim-tmux](https://github.com/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/stars/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/last-commit/jsstevenson/nvim-tmux) ![](https://img.shields.io/github/commit-activity/y/jsstevenson/nvim-tmux)
 - [elijahdanko/ttymux.nvim](https://github.com/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/stars/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/last-commit/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahdanko/ttymux.nvim)
+- [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/stars/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/last-commit/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/commit-activity/y/andersevenrud/cmp-tmux)
 
 #### Docker
 
