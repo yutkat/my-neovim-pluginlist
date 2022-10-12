@@ -309,6 +309,8 @@
 
 ### Minimap
 
+- [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/gorbit99/codewindow.nvim)
+
 ### Highlight current function
 
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
