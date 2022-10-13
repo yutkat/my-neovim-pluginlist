@@ -2,11 +2,13 @@
 
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
-                - [Joke](#joke)
-                - [Image](#image)
-                - [Game](#game)
-                - [Weather](#weather)
-                - [Study](#study)
+                                - [Joke](#joke)
+                                - [Image](#image)
+                                - [Game](#game)
+                                                - [Typing](#typing)
+                                - [Weather](#weather)
+                                - [Study](#study)
+                                - [Music](#music)
 
 # Toy
 
@@ -23,6 +25,10 @@
 ### Game
 
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/stars/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/shenzhen-solitaire.nvim)
+
+#### Typing
+
+- [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
 
 ### Weather
 
