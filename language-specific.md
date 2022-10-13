@@ -328,6 +328,7 @@
 #### Markdown converter
 
 - [realprogrammersusevim/md-to-html.nvim](https://github.com/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/stars/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/last-commit/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/commit-activity/y/realprogrammersusevim/md-to-html.nvim)
+- [Tejada-Omar/notes-compile.nvim](https://github.com/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/stars/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/last-commit/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Tejada-Omar/notes-compile.nvim)
 
 ### AsciiDoc
 
