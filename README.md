@@ -32,6 +32,8 @@
     - [Highlight current function](#highlight-current-function)
     - [Background](#background)
     - [Columnline](#columnline-1)
+  - [Buffer, Window, Tab Management](#buffer-window-tab-management)
+  - [Terminal](#terminal)
   - [Motion](#motion)
   - [Editing support](#editing-support)
     - [Insert](#insert)
@@ -51,12 +53,10 @@
     - [Emoji](#emoji)
       - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
     - [Misc](#misc)
-  - [Buffer, Window, Tab Management](#buffer-window-tab-management)
-  - [Terminal](#terminal)
-  - [Search, Replace, Select](#search-replace-select)
-  - [Mapping](#mapping)
-  - [Yank, Paste](#yank-paste)
   - [Other Standard Feature Enhancement](#other-standard-feature-enhancement)
+    - [Search, Replace, Select](#search-replace-select)
+    - [Mapping](#mapping)
+    - [Yank, Paste](#yank-paste)
     - [Adding and subtracting](#adding-and-subtracting)
     - [Join](#join)
     - [Number](#number)
@@ -294,6 +294,10 @@
 
 - [ElPiloto/significant.nvim](https://github.com/ElPiloto/significant.nvim) ![](https://img.shields.io/github/stars/ElPiloto/significant.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/significant.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/significant.nvim)
 
+## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)
+
+## [Terminal](./terminal.md)
+
 ## [Motion](./motion.md)
 
 ## Editing support
@@ -389,17 +393,13 @@
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 - [glepnir/mcc.nvim](https://github.com/glepnir/mcc.nvim) ![](https://img.shields.io/github/stars/glepnir/mcc.nvim) ![](https://img.shields.io/github/last-commit/glepnir/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/mcc.nvim)
 
-## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)
-
-## [Terminal](./terminal.md)
-
-## [Search, Replace, Select](./search_replace_grep_select.md)
-
-## [Mapping](./mapping.md)
-
-## [Yank, Paste](./paste_yank.md)
-
 ## Other Standard Feature Enhancement
+
+### [Search, Replace, Select](./search_replace_grep_select.md)
+
+### [Mapping](./mapping.md)
+
+### [Yank, Paste](./paste_yank.md)
 
 ### Adding and subtracting
 
