@@ -10,6 +10,8 @@
     - [Word Motion](#word-motion)
     - [Line Move](#line-move)
     - [Jump](#jump)
+    - [Jump number](#jump-number)
+    - [Go to File](#go-to-file)
       - [jumplist](#jumplist)
       - [Edit History](#edit-history)
       - [Cursor Position History](#cursor-position-history)
@@ -58,10 +60,18 @@
 
 ### Jump
 
-- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
 - [notomo/curstr.nvim](https://github.com/notomo/curstr.nvim) ![](https://img.shields.io/github/stars/notomo/curstr.nvim) ![](https://img.shields.io/github/last-commit/notomo/curstr.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/curstr.nvim)
 - [jonatan-branting/nvim-better-n](https://github.com/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/stars/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/last-commit/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/nvim-better-n)
 - [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
+
+### Jump number
+
+- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
+- [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
+
+### Go to File
+
+- [rohanorton/lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/stars/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/lua-gf.nvim)
 
 #### jumplist
 
