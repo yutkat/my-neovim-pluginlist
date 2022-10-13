@@ -305,6 +305,7 @@
 ### Minimap
 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/gorbit99/codewindow.nvim)
+- [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) ![](https://img.shields.io/github/stars/ziontee113/neo-minimap) ![](https://img.shields.io/github/last-commit/ziontee113/neo-minimap) ![](https://img.shields.io/github/commit-activity/y/ziontee113/neo-minimap)
 
 ### Highlight current function
 
