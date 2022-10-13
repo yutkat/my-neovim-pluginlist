@@ -21,6 +21,7 @@
     - [Lua](#lua)
     - [Rust](#rust)
     - [Go](#go)
+      - [Test](#test-1)
     - [C/C++](#cc)
     - [Zig](#zig)
     - [C#](#c)
@@ -170,9 +171,13 @@
 - [olexsmir/gopher.nvim](https://github.com/olexsmir/gopher.nvim) ![](https://img.shields.io/github/stars/olexsmir/gopher.nvim) ![](https://img.shields.io/github/last-commit/olexsmir/gopher.nvim) ![](https://img.shields.io/github/commit-activity/y/olexsmir/gopher.nvim)
 - [leoluz/nvim-dap-go](https://github.com/leoluz/nvim-dap-go) ![](https://img.shields.io/github/stars/leoluz/nvim-dap-go) ![](https://img.shields.io/github/last-commit/leoluz/nvim-dap-go) ![](https://img.shields.io/github/commit-activity/y/leoluz/nvim-dap-go)
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/stars/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/last-commit/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/commit-activity/y/benediktjost/nvim-treesitter-go-return)
-- [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
 - [abecodes/gox.nvim](https://github.com/abecodes/gox.nvim) ![](https://img.shields.io/github/stars/abecodes/gox.nvim) ![](https://img.shields.io/github/last-commit/abecodes/gox.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/gox.nvim)
 - [aca/go-patch-unusedvar.nvim](https://github.com/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/stars/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/last-commit/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/commit-activity/y/aca/go-patch-unusedvar.nvim)
+
+#### Test
+
+- [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
+- [NachoNievaG/go-tester.nvim](https://github.com/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/go-tester.nvim)
 
 ### C/C++
 
