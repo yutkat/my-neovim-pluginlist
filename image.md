@@ -35,3 +35,4 @@
 ### Ascii
 
 - [superhawk610/ascii-blocks.nvim](https://github.com/superhawk610/ascii-blocks.nvim) ![](https://img.shields.io/github/stars/superhawk610/ascii-blocks.nvim) ![](https://img.shields.io/github/last-commit/superhawk610/ascii-blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/superhawk610/ascii-blocks.nvim)
+- [MaximilianLloyd/ascii.nvim](https://github.com/MaximilianLloyd/ascii.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/ascii.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/ascii.nvim)
