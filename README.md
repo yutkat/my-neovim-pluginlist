@@ -18,6 +18,7 @@
       - [Colorizer](#colorizer)
       - [ANSI Colorize](#ansi-colorize)
       - [Colorscheme switcher](#colorscheme-switcher)
+      - [Color name](#color-name)
       - [Long line highlight](#long-line-highlight)
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
@@ -221,6 +222,10 @@
 - [NTBBloodbath/daylight.nvim](https://github.com/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/daylight.nvim)
 - [propet/colorscheme-persist.nvim](https://github.com/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/stars/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/last-commit/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/propet/colorscheme-persist.nvim)
 - [raddari/last-color.nvim](https://github.com/raddari/last-color.nvim) ![](https://img.shields.io/github/stars/raddari/last-color.nvim) ![](https://img.shields.io/github/last-commit/raddari/last-color.nvim) ![](https://img.shields.io/github/commit-activity/y/raddari/last-color.nvim)
+
+#### Color name
+
+- [nat-418/telescope-color-names.nvim](https://github.com/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/telescope-color-names.nvim)
 
 #### Long line highlight
 
