@@ -45,6 +45,7 @@
 - [windwp/nvim-spectre](https://github.com/windwp/nvim-spectre) ![](https://img.shields.io/github/stars/windwp/nvim-spectre) ![](https://img.shields.io/github/last-commit/windwp/nvim-spectre) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-spectre)
 - [lmenou/qfunleashed.nvim](https://github.com/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/stars/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/last-commit/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/commit-activity/y/lmenou/qfunleashed.nvim)
 - [nathanmsmith/livegrep.nvim](https://github.com/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/stars/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/last-commit/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanmsmith/livegrep.nvim)
+- [wwcd/nvim-ack](https://github.com/wwcd/nvim-ack) ![](https://img.shields.io/github/stars/wwcd/nvim-ack) ![](https://img.shields.io/github/last-commit/wwcd/nvim-ack) ![](https://img.shields.io/github/commit-activity/y/wwcd/nvim-ack)
 
 # Select
 

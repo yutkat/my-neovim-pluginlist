@@ -2,16 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-                - [Org mode](#org-mode)
-                - [Zettelkasten](#zettelkasten)
-                - [Markdown](#markdown)
-                - [ToDo](#todo)
-                - [Obsidian](#obsidian)
-                - [Google Keep](#google-keep)
-                - [Dendron](#dendron)
-                - [BibleGateway](#biblegateway)
-                - [Wiki](#wiki)
-                - [etc](#etc)
+    - [Org mode](#org-mode)
+    - [Zettelkasten](#zettelkasten)
+    - [Markdown](#markdown)
+    - [ToDo](#todo)
+    - [Obsidian](#obsidian)
+    - [Google Keep](#google-keep)
+    - [Dendron](#dendron)
+    - [BibleGateway](#biblegateway)
+    - [Wiki](#wiki)
+    - [etc](#etc)
 
 # Note Taking
 
@@ -77,3 +77,5 @@
 - [utouto97/memo.nvim](https://github.com/utouto97/memo.nvim) ![](https://img.shields.io/github/stars/utouto97/memo.nvim) ![](https://img.shields.io/github/last-commit/utouto97/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/utouto97/memo.nvim)
 - [hisbaan/jot.nvim](https://github.com/hisbaan/jot.nvim) ![](https://img.shields.io/github/stars/hisbaan/jot.nvim) ![](https://img.shields.io/github/last-commit/hisbaan/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/hisbaan/jot.nvim)
 - [oem/arachne.nvim](https://github.com/oem/arachne.nvim) ![](https://img.shields.io/github/stars/oem/arachne.nvim) ![](https://img.shields.io/github/last-commit/oem/arachne.nvim) ![](https://img.shields.io/github/commit-activity/y/oem/arachne.nvim)
+- [Ostralyan/scribe.nvim](https://github.com/Ostralyan/scribe.nvim) ![](https://img.shields.io/github/stars/Ostralyan/scribe.nvim) ![](https://img.shields.io/github/last-commit/Ostralyan/scribe.nvim) ![](https://img.shields.io/github/commit-activity/y/Ostralyan/scribe.nvim)
+- [DevinLeamy/jot.nvim](https://github.com/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/stars/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/last-commit/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/DevinLeamy/jot.nvim)
