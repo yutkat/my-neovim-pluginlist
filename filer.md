@@ -2,13 +2,13 @@
 
 - [Table of Contents](#table-of-contents)
 - [Filer](#filer)
-                                - [Simple](#simple)
-                                - [Floating Style](#floating-style)
-                                - [FuzzyFinder Style](#fuzzyfinder-style)
-                                - [Emacs style](#emacs-style)
-                                - [nnn wrapper](#nnn-wrapper)
-                                - [ranger](#ranger)
-                                - [Network File Manager](#network-file-manager)
+- [Simple](#simple)
+- [Floating Style](#floating-style)
+- [FuzzyFinder Style](#fuzzyfinder-style)
+- [Emacs style](#emacs-style)
+- [nnn wrapper](#nnn-wrapper)
+- [ranger](#ranger)
+- [Network File Manager](#network-file-manager)
 
 # Filer
 
@@ -22,7 +22,7 @@
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) ![](https://img.shields.io/github/stars/TheBlob42/drex.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/drex.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/drex.nvim)
 - [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
 
-### Simple
+## Simple
 
 - [sidofc/carbon.nvim](https://github.com/sidofc/carbon.nvim) ![](https://img.shields.io/github/stars/sidofc/carbon.nvim) ![](https://img.shields.io/github/last-commit/sidofc/carbon.nvim) ![](https://img.shields.io/github/commit-activity/y/sidofc/carbon.nvim)
 - [elihunter173/dirbuf.nvim](https://github.com/elihunter173/dirbuf.nvim) ![](https://img.shields.io/github/stars/elihunter173/dirbuf.nvim) ![](https://img.shields.io/github/last-commit/elihunter173/dirbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/elihunter173/dirbuf.nvim)
@@ -34,32 +34,33 @@
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) ![](https://img.shields.io/github/stars/lewis6991/brodir.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/brodir.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/brodir.nvim)
 - [kbario/spear.nvim](https://github.com/kbario/spear.nvim) ![](https://img.shields.io/github/stars/kbario/spear.nvim) ![](https://img.shields.io/github/last-commit/kbario/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/spear.nvim)
 
-### Floating Style
+## Floating Style
 
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) ![](https://img.shields.io/github/stars/TimUntersberger/neofs) ![](https://img.shields.io/github/last-commit/TimUntersberger/neofs) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neofs)
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) ![](https://img.shields.io/github/stars/kevinhwang91/rnvimr) ![](https://img.shields.io/github/last-commit/kevinhwang91/rnvimr) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/rnvimr)
 
-### FuzzyFinder Style
+## FuzzyFinder Style
 
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) ![](https://img.shields.io/github/stars/conweller/findr.vim) ![](https://img.shields.io/github/last-commit/conweller/findr.vim) ![](https://img.shields.io/github/commit-activity/y/conweller/findr.vim)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
 
-### Emacs style
+## Emacs style
 
 - [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
 - [nkreiff/nlist.nvim](https://github.com/nkreiff/nlist.nvim) ![](https://img.shields.io/github/stars/nkreiff/nlist.nvim) ![](https://img.shields.io/github/last-commit/nkreiff/nlist.nvim) ![](https://img.shields.io/github/commit-activity/y/nkreiff/nlist.nvim)
 - [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) ![](https://img.shields.io/github/stars/2hdddg/fex.nvim) ![](https://img.shields.io/github/last-commit/2hdddg/fex.nvim) ![](https://img.shields.io/github/commit-activity/y/2hdddg/fex.nvim)
 
-### nnn wrapper
+## nnn wrapper
 
 - [luukvbaal/nnn.nvim](https://github.com/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/stars/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/nnn.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/nnn.nvim)
 - [ggustafsson/nnn-dir.nvim](https://github.com/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/stars/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/last-commit/ggustafsson/nnn-dir.nvim) ![](https://img.shields.io/github/commit-activity/y/ggustafsson/nnn-dir.nvim)
 
-### ranger
+## ranger
 
 - [ipod825/ranger.nvim](https://github.com/ipod825/ranger.nvim) ![](https://img.shields.io/github/stars/ipod825/ranger.nvim) ![](https://img.shields.io/github/last-commit/ipod825/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/ranger.nvim)
+- [kjuulh/ranger.nvim](https://github.com/kjuulh/ranger.nvim) ![](https://img.shields.io/github/stars/kjuulh/ranger.nvim) ![](https://img.shields.io/github/last-commit/kjuulh/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuulh/ranger.nvim)
 
-### Network File Manager
+## Network File Manager
 
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)

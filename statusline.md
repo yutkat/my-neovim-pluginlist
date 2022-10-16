@@ -21,6 +21,7 @@
 - [ojroques/nvim-hardline](https://github.com/ojroques/nvim-hardline) ![](https://img.shields.io/github/stars/ojroques/nvim-hardline) ![](https://img.shields.io/github/last-commit/ojroques/nvim-hardline) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-hardline)
 - [tjdevries/express_line.nvim](https://github.com/tjdevries/express_line.nvim) ![](https://img.shields.io/github/stars/tjdevries/express_line.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/express_line.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/express_line.nvim)
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-lines.lua)
+- [MunifTanjim/neobar.nvim](https://github.com/MunifTanjim/neobar.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/neobar.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/neobar.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/neobar.nvim)
 
 ### Simple
 

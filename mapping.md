@@ -25,6 +25,7 @@
 - [lazytanuki/nvim-mapper](https://github.com/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/stars/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/last-commit/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/commit-activity/y/lazytanuki/nvim-mapper)
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) ![](https://img.shields.io/github/stars/linty-org/key-menu.nvim) ![](https://img.shields.io/github/last-commit/linty-org/key-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/linty-org/key-menu.nvim)
 - [October-Studios/autoref.nvim](https://github.com/October-Studios/autoref.nvim) ![](https://img.shields.io/github/stars/October-Studios/autoref.nvim) ![](https://img.shields.io/github/last-commit/October-Studios/autoref.nvim) ![](https://img.shields.io/github/commit-activity/y/October-Studios/autoref.nvim)
+- [CharliePlate/whichkey-ft.nvim](https://github.com/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/stars/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/last-commit/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/CharliePlate/whichkey-ft.nvim)
 
 ## Prefix Key Binding
 
