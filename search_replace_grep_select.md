@@ -24,6 +24,7 @@
 ## n/N Improvement
 
 - [shiradofu/nice-scroll.nvim](https://github.com/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/stars/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/last-commit/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/shiradofu/nice-scroll.nvim)
+- [ivyl/bling.nvim](https://github.com/ivyl/bling.nvim) ![](https://img.shields.io/github/stars/ivyl/bling.nvim) ![](https://img.shields.io/github/last-commit/ivyl/bling.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/bling.nvim)
 
 ## Search count
 

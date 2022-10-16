@@ -24,6 +24,8 @@
 - [itmecho/neoterm.nvim](https://github.com/itmecho/neoterm.nvim) ![](https://img.shields.io/github/stars/itmecho/neoterm.nvim) ![](https://img.shields.io/github/last-commit/itmecho/neoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/itmecho/neoterm.nvim)
 - [Hvassaa/sterm.nvim](https://github.com/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/stars/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/last-commit/Hvassaa/sterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Hvassaa/sterm.nvim)
 - [notomo/termnavi.nvim](https://github.com/notomo/termnavi.nvim) ![](https://img.shields.io/github/stars/notomo/termnavi.nvim) ![](https://img.shields.io/github/last-commit/notomo/termnavi.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/termnavi.nvim)
+- [NvRose/terminal.nvim](https://github.com/NvRose/terminal.nvim) ![](https://img.shields.io/github/stars/NvRose/terminal.nvim) ![](https://img.shields.io/github/last-commit/NvRose/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/terminal.nvim)
+- [CRAG666/betterTerm.nvim](https://github.com/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/stars/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/last-commit/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/CRAG666/betterTerm.nvim)
 
 ### External terminal
 

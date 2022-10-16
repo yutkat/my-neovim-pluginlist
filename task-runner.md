@@ -8,6 +8,7 @@
     - [Lua](#lua)
     - [Shell](#shell)
   - [Command style](#command-style)
+  - [Map style](#map-style)
   - [CLI](#cli)
   - [Partial execution](#partial-execution)
 
@@ -54,6 +55,10 @@
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) ![](https://img.shields.io/github/stars/Equilibris/nx.nvim) ![](https://img.shields.io/github/last-commit/Equilibris/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/Equilibris/nx.nvim)
 - [nullishamy/nvim-compile](https://github.com/nullishamy/nvim-compile) ![](https://img.shields.io/github/stars/nullishamy/nvim-compile) ![](https://img.shields.io/github/last-commit/nullishamy/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/nullishamy/nvim-compile)
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
+
+## Map style
+
+- [addcninblue/nvim-acmetag](https://github.com/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/stars/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/last-commit/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/commit-activity/y/addcninblue/nvim-acmetag)
 
 ## CLI
 

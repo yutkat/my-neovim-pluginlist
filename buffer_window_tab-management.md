@@ -104,6 +104,8 @@
 
 - [kwkarlwang/bufresize.nvim](https://github.com/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufresize.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufresize.nvim)
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/smart-splits.nvim)
+- [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
+- [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
 
 #### maximize
 
