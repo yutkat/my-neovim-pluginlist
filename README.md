@@ -226,6 +226,7 @@
 #### Color name
 
 - [nat-418/telescope-color-names.nvim](https://github.com/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/telescope-color-names.nvim)
+- [nat-418/cmp-color-names.nvim](https://github.com/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/cmp-color-names.nvim)
 
 #### Long line highlight
 
