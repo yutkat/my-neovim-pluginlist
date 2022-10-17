@@ -12,6 +12,7 @@
   - [Appearance](#appearance)
     - [Statusline](#statusline)
     - [Bufferline](#bufferline)
+    - [Tabline](#tabline)
     - [winbar](#winbar)
     - [Highlight](#highlight)
       - [Syntax](#syntax)
@@ -187,6 +188,10 @@
 ### [Statusline](./statusline.md)
 
 ### [Bufferline](./bufferline.md)
+
+### Tabline
+
+- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) ![](https://img.shields.io/github/stars/NvRose/tabline.nvim) ![](https://img.shields.io/github/last-commit/NvRose/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/tabline.nvim)
 
 ### winbar
 

@@ -26,6 +26,7 @@
 - [notomo/termnavi.nvim](https://github.com/notomo/termnavi.nvim) ![](https://img.shields.io/github/stars/notomo/termnavi.nvim) ![](https://img.shields.io/github/last-commit/notomo/termnavi.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/termnavi.nvim)
 - [NvRose/terminal.nvim](https://github.com/NvRose/terminal.nvim) ![](https://img.shields.io/github/stars/NvRose/terminal.nvim) ![](https://img.shields.io/github/last-commit/NvRose/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/terminal.nvim)
 - [CRAG666/betterTerm.nvim](https://github.com/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/stars/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/last-commit/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/CRAG666/betterTerm.nvim)
+- [nat-418/termitary.nvim](https://github.com/nat-418/termitary.nvim) ![](https://img.shields.io/github/stars/nat-418/termitary.nvim) ![](https://img.shields.io/github/last-commit/nat-418/termitary.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/termitary.nvim)
 
 ### External terminal
 
