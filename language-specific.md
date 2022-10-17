@@ -45,6 +45,7 @@
     - [Database](#database)
       - [SQL](#sql)
       - [PostgreSQL](#postgresql)
+      - [MongoDB](#mongodb)
     - [Jenkins](#jenkins)
   - [Documentation](#documentation)
     - [Markdown](#markdown)
@@ -289,6 +290,10 @@
 #### PostgreSQL
 
 - [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
+
+#### MongoDB
+
+- [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
 
 ### Jenkins
 
