@@ -60,6 +60,7 @@
 #### open
 
 - [kyoh86/backgroundfile.nvim](https://github.com/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/stars/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/backgroundfile.nvim)
+- [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) ![](https://img.shields.io/github/stars/ofirgall/open.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/open.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/open.nvim)
 
 #### delete
 
