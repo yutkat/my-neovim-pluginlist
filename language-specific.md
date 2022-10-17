@@ -209,6 +209,7 @@
 ### Scala
 
 - [softinio/scaladex.nvim](https://github.com/softinio/scaladex.nvim) ![](https://img.shields.io/github/stars/softinio/scaladex.nvim) ![](https://img.shields.io/github/last-commit/softinio/scaladex.nvim) ![](https://img.shields.io/github/commit-activity/y/softinio/scaladex.nvim)
+- [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) ![](https://img.shields.io/github/stars/scalameta/nvim-metals) ![](https://img.shields.io/github/last-commit/scalameta/nvim-metals) ![](https://img.shields.io/github/commit-activity/y/scalameta/nvim-metals)
 
 ### Dart, Flutter
 
@@ -315,6 +316,7 @@
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 - [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/stars/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/md-prev.nvim)
 - [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
+- [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
 
 #### Markdown code block
 
