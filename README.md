@@ -129,6 +129,7 @@
     - [Remote Development](#remote-development)
     - [Collaborative Editing](#collaborative-editing)
     - [Image](#image)
+    - [Notification](#notification)
     - [Concentration](#concentration)
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
@@ -733,6 +734,14 @@
 - [pkage/coauthor.nvim](https://github.com/pkage/coauthor.nvim) ![](https://img.shields.io/github/stars/pkage/coauthor.nvim) ![](https://img.shields.io/github/last-commit/pkage/coauthor.nvim) ![](https://img.shields.io/github/commit-activity/y/pkage/coauthor.nvim)
 
 ### [Image](./image.md)
+
+### Notification
+
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
+
+- [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
+- [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) ![](https://img.shields.io/github/stars/phaazon/notisys.nvim) ![](https://img.shields.io/github/last-commit/phaazon/notisys.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/notisys.nvim)
+- [haolian9/zhiyuan.nvim](https://github.com/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/stars/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/last-commit/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/zhiyuan.nvim)
 
 ### Concentration
 

@@ -3,9 +3,10 @@
 - [Table of Contents](#table-of-contents)
   - [Table](#table)
   - [Class](#class)
-  - [Notification](#notification)
+  - [Log](#log)
   - [async](#async)
   - [UI](#ui)
+    - [Notification](#notification)
     - [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
     - [Popup](#popup)
     - [Animation](#animation)
@@ -34,12 +35,9 @@
 
 - [anuvyklack/middleclass](https://github.com/anuvyklack/middleclass) ![](https://img.shields.io/github/stars/anuvyklack/middleclass) ![](https://img.shields.io/github/last-commit/anuvyklack/middleclass) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/middleclass)
 
-## Notification
+## Log
 
-- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
 - [Tastyep/structlog.nvim](https://github.com/Tastyep/structlog.nvim) ![](https://img.shields.io/github/stars/Tastyep/structlog.nvim) ![](https://img.shields.io/github/last-commit/Tastyep/structlog.nvim) ![](https://img.shields.io/github/commit-activity/y/Tastyep/structlog.nvim)
-- [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
-- [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) ![](https://img.shields.io/github/stars/phaazon/notisys.nvim) ![](https://img.shields.io/github/last-commit/phaazon/notisys.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/notisys.nvim)
 
 ## async
 
@@ -53,6 +51,11 @@
 
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
 - [hn275/icee.nvim](https://github.com/hn275/icee.nvim) ![](https://img.shields.io/github/stars/hn275/icee.nvim) ![](https://img.shields.io/github/last-commit/hn275/icee.nvim) ![](https://img.shields.io/github/commit-activity/y/hn275/icee.nvim)
+
+### Notification
+
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
+- [folke/noice.nvim(notify)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 
 ### vim.ui.select/vim.ui.input
 
