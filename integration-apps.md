@@ -24,6 +24,8 @@
       - [k8s (Kubernetes)](#k8s-kubernetes)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
+      - [AWS](#aws)
+        - [S3](#s3)
       - [Azure](#azure)
       - [Salesforce](#salesforce)
       - [dbt](#dbt)
@@ -222,6 +224,7 @@
 - [alohaia/fcitx.nvim](https://github.com/alohaia/fcitx.nvim) ![](https://img.shields.io/github/stars/alohaia/fcitx.nvim) ![](https://img.shields.io/github/last-commit/alohaia/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/alohaia/fcitx.nvim)
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ![](https://img.shields.io/github/stars/keaising/im-select.nvim) ![](https://img.shields.io/github/last-commit/keaising/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/im-select.nvim)
 - [uga-rosa/japanese-ime.nvim](https://github.com/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/stars/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/japanese-ime.nvim)
+- [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
 
 ### Battery
 
