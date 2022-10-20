@@ -137,3 +137,9 @@
 ## Enhanced Standard Features
 
 - [delphinus/f_meta.nvim](https://github.com/delphinus/f_meta.nvim) ![](https://img.shields.io/github/stars/delphinus/f_meta.nvim) ![](https://img.shields.io/github/last-commit/delphinus/f_meta.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/f_meta.nvim)
+
+
+## Util wrapper
+
+- [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/stars/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/last-commit/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/nvim-api-wrappers)
+
