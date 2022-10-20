@@ -47,6 +47,7 @@
 - [lmenou/qfunleashed.nvim](https://github.com/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/stars/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/last-commit/lmenou/qfunleashed.nvim) ![](https://img.shields.io/github/commit-activity/y/lmenou/qfunleashed.nvim)
 - [nathanmsmith/livegrep.nvim](https://github.com/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/stars/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/last-commit/nathanmsmith/livegrep.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanmsmith/livegrep.nvim)
 - [wwcd/nvim-ack](https://github.com/wwcd/nvim-ack) ![](https://img.shields.io/github/stars/wwcd/nvim-ack) ![](https://img.shields.io/github/last-commit/wwcd/nvim-ack) ![](https://img.shields.io/github/commit-activity/y/wwcd/nvim-ack)
+- [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/stars/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/dir-telescope.nvim)
 
 # Select
 
