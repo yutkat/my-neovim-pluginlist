@@ -576,6 +576,7 @@
 - [Pocco81/AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/stars/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/AutoSave.nvim)
 - [boorboor/save.nvim](https://github.com/boorboor/save.nvim) ![](https://img.shields.io/github/stars/boorboor/save.nvim) ![](https://img.shields.io/github/last-commit/boorboor/save.nvim) ![](https://img.shields.io/github/commit-activity/y/boorboor/save.nvim)
 - [stefanwatt/auto-save.nvim](https://github.com/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/stars/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/auto-save.nvim)
+- [tmillr/sos.nvim](https://github.com/tmillr/sos.nvim) ![](https://img.shields.io/github/stars/tmillr/sos.nvim) ![](https://img.shields.io/github/last-commit/tmillr/sos.nvim) ![](https://img.shields.io/github/commit-activity/y/tmillr/sos.nvim)
 
 #### Cursor Position
 
