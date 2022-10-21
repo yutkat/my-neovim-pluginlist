@@ -12,6 +12,7 @@
       - [Rename](#rename)
     - [LSP Status](#lsp-status)
     - [Local LSP Config](#local-lsp-config)
+  - [Disable/Enable](#disableenable)
   - [Pre-configuration](#pre-configuration)
   - [Backwards Compatibility](#backwards-compatibility)
 
@@ -103,6 +104,10 @@
 
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
 - [zhang-stephen/nvim-lsp-loader](https://github.com/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/stars/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/last-commit/zhang-stephen/nvim-lsp-loader) ![](https://img.shields.io/github/commit-activity/y/zhang-stephen/nvim-lsp-loader)
+
+## Disable/Enable
+
+- [adoyle-h/lsp-toggle.nvim](https://github.com/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/lsp-toggle.nvim)
 
 ## Pre-configuration
 
