@@ -164,6 +164,7 @@
 - [Chromosore/lazily-nvim](https://github.com/Chromosore/lazily-nvim) ![](https://img.shields.io/github/stars/Chromosore/lazily-nvim) ![](https://img.shields.io/github/last-commit/Chromosore/lazily-nvim) ![](https://img.shields.io/github/commit-activity/y/Chromosore/lazily-nvim)
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
 - [loichyan/spark.nvim](https://github.com/loichyan/spark.nvim) ![](https://img.shields.io/github/stars/loichyan/spark.nvim) ![](https://img.shields.io/github/last-commit/loichyan/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/spark.nvim)
+- [nat-418/slowly.nvim](https://github.com/nat-418/slowly.nvim) ![](https://img.shields.io/github/stars/nat-418/slowly.nvim) ![](https://img.shields.io/github/last-commit/nat-418/slowly.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/slowly.nvim)
 
 ### Add runtime path (vim-plug like)
 

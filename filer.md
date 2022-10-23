@@ -2,13 +2,14 @@
 
 - [Table of Contents](#table-of-contents)
 - [Filer](#filer)
-- [Simple](#simple)
-- [Floating Style](#floating-style)
-- [FuzzyFinder Style](#fuzzyfinder-style)
-- [Emacs style](#emacs-style)
-- [nnn wrapper](#nnn-wrapper)
-- [ranger](#ranger)
-- [Network File Manager](#network-file-manager)
+  - [Simple](#simple)
+  - [Floating Style](#floating-style)
+  - [FuzzyFinder Style](#fuzzyfinder-style)
+  - [Emacs style](#emacs-style)
+  - [nnn wrapper](#nnn-wrapper)
+  - [ranger](#ranger)
+  - [vifm](#vifm)
+  - [Network File Manager](#network-file-manager)
 
 # Filer
 
@@ -44,6 +45,7 @@
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) ![](https://img.shields.io/github/stars/conweller/findr.vim) ![](https://img.shields.io/github/last-commit/conweller/findr.vim) ![](https://img.shields.io/github/commit-activity/y/conweller/findr.vim)
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
+- [Simondp/nvim-file_navigator](https://github.com/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/stars/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/last-commit/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/commit-activity/y/Simondp/nvim-file_navigator)
 
 ## Emacs style
 
@@ -60,6 +62,10 @@
 
 - [ipod825/ranger.nvim](https://github.com/ipod825/ranger.nvim) ![](https://img.shields.io/github/stars/ipod825/ranger.nvim) ![](https://img.shields.io/github/last-commit/ipod825/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/ranger.nvim)
 - [kjuulh/ranger.nvim](https://github.com/kjuulh/ranger.nvim) ![](https://img.shields.io/github/stars/kjuulh/ranger.nvim) ![](https://img.shields.io/github/last-commit/kjuulh/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuulh/ranger.nvim)
+
+## vifm
+
+- [rhaolian9/reveal.nvimepo/name](https://github.com/repo/name) ![](https://img.shields.io/github/stars/repo/name) ![](https://img.shields.io/github/last-commit/repo/name) ![](https://img.shields.io/github/commit-activity/y/repo/name)
 
 ## Network File Manager
 
