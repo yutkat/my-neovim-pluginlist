@@ -30,6 +30,7 @@
 - [nickbanderson/nvim-dap-runner.nvim](https://github.com/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/stars/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/last-commit/nickbanderson/nvim-dap-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/nickbanderson/nvim-dap-runner.nvim)
 - [ofirgall/goto-breakpoints.nvim](https://github.com/ofirgall/goto-breakpoints.nvim) ![](https://img.shields.io/github/stars/ofirgall/goto-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/goto-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/goto-breakpoints.nvim)
 - [suketa/nvim-dap-ruby](https://github.com/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/stars/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/last-commit/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/commit-activity/y/suketa/nvim-dap-ruby)
+- [LiadOz/meta-breakpoints.nvim](https://github.com/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/stars/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/LiadOz/meta-breakpoints.nvim)
 
 ### REPL
 

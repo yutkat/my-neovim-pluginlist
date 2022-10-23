@@ -28,6 +28,7 @@
 - [CRAG666/betterTerm.nvim](https://github.com/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/stars/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/last-commit/CRAG666/betterTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/CRAG666/betterTerm.nvim)
 - [nat-418/termitary.nvim](https://github.com/nat-418/termitary.nvim) ![](https://img.shields.io/github/stars/nat-418/termitary.nvim) ![](https://img.shields.io/github/last-commit/nat-418/termitary.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/termitary.nvim)
 - [CadeMichael/termbro.nvim](https://github.com/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/stars/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/termbro.nvim)
+- [caenrique/buffer-term.nvim](https://github.com/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/stars/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/last-commit/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/buffer-term.nvim)
 
 ### External terminal
 

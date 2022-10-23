@@ -56,6 +56,7 @@
 - [Equilibris/nx.nvim](https://github.com/Equilibris/nx.nvim) ![](https://img.shields.io/github/stars/Equilibris/nx.nvim) ![](https://img.shields.io/github/last-commit/Equilibris/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/Equilibris/nx.nvim)
 - [nullishamy/nvim-compile](https://github.com/nullishamy/nvim-compile) ![](https://img.shields.io/github/stars/nullishamy/nvim-compile) ![](https://img.shields.io/github/last-commit/nullishamy/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/nullishamy/nvim-compile)
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
+- [mrded/nvim-zond](https://github.com/mrded/nvim-zond) ![](https://img.shields.io/github/stars/mrded/nvim-zond) ![](https://img.shields.io/github/last-commit/mrded/nvim-zond) ![](https://img.shields.io/github/commit-activity/y/mrded/nvim-zond)
 
 ## Map style
 

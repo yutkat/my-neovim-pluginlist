@@ -253,6 +253,10 @@
 
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
 
+### Cell
+
+- [jordanvieler/cyto.nvim](https://github.com/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/stars/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/last-commit/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cyto.nvim)
+
 ### Prolog
 
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
