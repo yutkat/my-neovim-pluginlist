@@ -8,7 +8,6 @@
   - [Emacs style](#emacs-style)
   - [nnn wrapper](#nnn-wrapper)
   - [ranger](#ranger)
-  - [vifm](#vifm)
   - [Network File Manager](#network-file-manager)
 
 # Filer
@@ -62,10 +61,6 @@
 
 - [ipod825/ranger.nvim](https://github.com/ipod825/ranger.nvim) ![](https://img.shields.io/github/stars/ipod825/ranger.nvim) ![](https://img.shields.io/github/last-commit/ipod825/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/ranger.nvim)
 - [kjuulh/ranger.nvim](https://github.com/kjuulh/ranger.nvim) ![](https://img.shields.io/github/stars/kjuulh/ranger.nvim) ![](https://img.shields.io/github/last-commit/kjuulh/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuulh/ranger.nvim)
-
-## vifm
-
-- [rhaolian9/reveal.nvim](https://github.com/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/stars/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/last-commit/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/commit-activity/y/rhaolian9/reveal.nvim)
 
 ## Network File Manager
 
