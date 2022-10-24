@@ -65,7 +65,7 @@
 
 ## vifm
 
-- [rhaolian9/reveal.nvimepo/name](https://github.com/repo/name) ![](https://img.shields.io/github/stars/repo/name) ![](https://img.shields.io/github/last-commit/repo/name) ![](https://img.shields.io/github/commit-activity/y/repo/name)
+- [rhaolian9/reveal.nvim](https://github.com/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/stars/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/last-commit/rhaolian9/reveal.nvim) ![](https://img.shields.io/github/commit-activity/y/rhaolian9/reveal.nvim)
 
 ## Network File Manager
 
