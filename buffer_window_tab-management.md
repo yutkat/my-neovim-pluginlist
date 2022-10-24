@@ -20,6 +20,7 @@
       - [focus](#focus)
     - [animation](#animation)
   - [Tab](#tab)
+    - [select](#select)
 
 ## Buffer, Window, Tab Management
 
@@ -133,3 +134,7 @@
 - [Iron-E/nvim-tabmode](https://github.com/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/stars/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-tabmode) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-tabmode)
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) ![](https://img.shields.io/github/stars/nanozuki/tabby.nvim) ![](https://img.shields.io/github/last-commit/nanozuki/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/nanozuki/tabby.nvim)
 - [nat-418/tabbot.nvim](https://github.com/nat-418/tabbot.nvim) ![](https://img.shields.io/github/stars/nat-418/tabbot.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tabbot.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tabbot.nvim)
+
+### select
+
+- [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/stars/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/telescope-tabs)

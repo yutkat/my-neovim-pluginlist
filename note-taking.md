@@ -2,16 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-        - [Org mode](#org-mode)
-        - [Zettelkasten](#zettelkasten)
-        - [Markdown](#markdown)
-        - [ToDo](#todo)
-        - [Obsidian](#obsidian)
-        - [Google Keep](#google-keep)
-        - [Dendron](#dendron)
-        - [BibleGateway](#biblegateway)
-        - [Wiki](#wiki)
-        - [etc](#etc)
+                - [Org mode](#org-mode)
+                - [Zettelkasten](#zettelkasten)
+                - [Markdown](#markdown)
+                - [ToDo](#todo)
+                - [Obsidian](#obsidian)
+                - [Google Keep](#google-keep)
+                - [Dendron](#dendron)
+                - [BibleGateway](#biblegateway)
+                - [Wiki](#wiki)
+                - [etc](#etc)
 
 # Note Taking
 
@@ -52,6 +52,7 @@
 - [alex-laycalvert/todo.nvim](https://github.com/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/todo.nvim)
 - [torcor-dev/todoman.nvim](https://github.com/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/stars/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/last-commit/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/commit-activity/y/torcor-dev/todoman.nvim)
 - [malramsay64/mind.nvim](https://github.com/malramsay64/mind.nvim) ![](https://img.shields.io/github/stars/malramsay64/mind.nvim) ![](https://img.shields.io/github/last-commit/malramsay64/mind.nvim) ![](https://img.shields.io/github/commit-activity/y/malramsay64/mind.nvim)
+- [arakkkkk/kanban.nvim](https://github.com/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/kanban.nvim)
 
 ### Obsidian
 
