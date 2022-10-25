@@ -57,6 +57,7 @@
 - [nullishamy/nvim-compile](https://github.com/nullishamy/nvim-compile) ![](https://img.shields.io/github/stars/nullishamy/nvim-compile) ![](https://img.shields.io/github/last-commit/nullishamy/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/nullishamy/nvim-compile)
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
 - [mrded/nvim-zond](https://github.com/mrded/nvim-zond) ![](https://img.shields.io/github/stars/mrded/nvim-zond) ![](https://img.shields.io/github/last-commit/mrded/nvim-zond) ![](https://img.shields.io/github/commit-activity/y/mrded/nvim-zond)
+- [woosaaahh/brun.nvim](https://github.com/woosaaahh/brun.nvim) ![](https://img.shields.io/github/stars/woosaaahh/brun.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/brun.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/brun.nvim)
 
 ## Map style
 
