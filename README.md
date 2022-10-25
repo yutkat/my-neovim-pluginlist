@@ -771,6 +771,7 @@
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/stars/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/TrueZen.nvim)
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) ![](https://img.shields.io/github/stars/folke/zen-mode.nvim) ![](https://img.shields.io/github/last-commit/folke/zen-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/zen-mode.nvim)
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
+- [woosaaahh/zenith.nvim](https://github.com/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/stars/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/zenith.nvim)
 
 ### Security
 
