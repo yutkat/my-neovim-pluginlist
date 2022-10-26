@@ -456,6 +456,7 @@
 
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) ![](https://img.shields.io/github/stars/edluffy/hologram.nvim) ![](https://img.shields.io/github/last-commit/edluffy/hologram.nvim) ![](https://img.shields.io/github/commit-activity/y/edluffy/hologram.nvim)
 - [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon) ![](https://img.shields.io/github/stars/ThePrimeagen/harpoon) ![](https://img.shields.io/github/last-commit/ThePrimeagen/harpoon) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/harpoon)
+- [cbochs/grapple.nvim](https://github.com/cbochs/grapple.nvim) ![](https://img.shields.io/github/stars/cbochs/grapple.nvim) ![](https://img.shields.io/github/last-commit/cbochs/grapple.nvim) ![](https://img.shields.io/github/commit-activity/y/cbochs/grapple.nvim)
 
 ### Undo
 
