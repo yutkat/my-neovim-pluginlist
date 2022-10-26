@@ -36,6 +36,8 @@
     - [Agda](#agda)
     - [Monkey](#monkey)
     - [Moonscript](#moonscript)
+    - [Cell](#cell)
+    - [Tcl/Tk](#tcltk)
     - [Prolog](#prolog)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
@@ -256,6 +258,10 @@
 ### Cell
 
 - [jordanvieler/cyto.nvim](https://github.com/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/stars/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/last-commit/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cyto.nvim)
+
+### Tcl/Tk
+
+- [nat-418/tcl.nvim](https://github.com/nat-418/tcl.nvim) ![](https://img.shields.io/github/stars/nat-418/tcl.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tcl.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tcl.nvim)
 
 ### Prolog
 
