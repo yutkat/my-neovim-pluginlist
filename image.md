@@ -31,6 +31,7 @@
 #### Silicon
 
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
+- [narutoxy/silicon.lua](https://github.com/narutoxy/silicon.lua) ![](https://img.shields.io/github/stars/narutoxy/silicon.lua) ![](https://img.shields.io/github/last-commit/narutoxy/silicon.lua) ![](https://img.shields.io/github/commit-activity/y/narutoxy/silicon.lua)
 
 ### Ascii
 
