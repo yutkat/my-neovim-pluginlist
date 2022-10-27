@@ -386,6 +386,7 @@
 - [schavesgm/partex.nvim](https://github.com/schavesgm/partex.nvim) ![](https://img.shields.io/github/stars/schavesgm/partex.nvim) ![](https://img.shields.io/github/last-commit/schavesgm/partex.nvim) ![](https://img.shields.io/github/commit-activity/y/schavesgm/partex.nvim)
 - [amarakon/nvim-cmp-lua-latex-symbols](https://github.com/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-lua-latex-symbols)
 - [MomoInSpace/nvim-tex](https://github.com/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/stars/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/last-commit/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/MomoInSpace/nvim-tex)
+- [danilshvalov/latex-symbols.nvim](https://github.com/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/stars/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/latex-symbols.nvim)
 
 # Competitive programming
 

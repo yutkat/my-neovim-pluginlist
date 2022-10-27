@@ -210,6 +210,7 @@
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
 - [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
+- [ccbiozhaw/block-highlight.nvim](https://github.com/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/stars/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/last-commit/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ccbiozhaw/block-highlight.nvim)
 
 #### Syntax
 
@@ -338,6 +339,7 @@
 ##### Auto insert semicolon
 
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
+- [rareitems/put_at_end.nvim](https://github.com/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/stars/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/last-commit/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/put_at_end.nvim)
 
 ##### Auto convert
 
@@ -346,6 +348,7 @@
 #### matchparen
 
 - [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) ![](https://img.shields.io/github/stars/monkoose/matchparen.nvim) ![](https://img.shields.io/github/last-commit/monkoose/matchparen.nvim) ![](https://img.shields.io/github/commit-activity/y/monkoose/matchparen.nvim)
+- [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 
 ### [Comment Out](./comment.md)
 
