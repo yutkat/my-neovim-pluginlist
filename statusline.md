@@ -23,6 +23,7 @@
 - [yaocccc/nvim-lines.lua](https://github.com/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-lines.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-lines.lua)
 - [NvRose/statusline.nvim](https://github.com/NvRose/statusline.nvim) ![](https://img.shields.io/github/stars/NvRose/statusline.nvim) ![](https://img.shields.io/github/last-commit/NvRose/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/statusline.nvim)
 - [shavelskiy/statusline.nvim](https://github.com/shavelskiy/statusline.nvim) ![](https://img.shields.io/github/stars/shavelskiy/statusline.nvim) ![](https://img.shields.io/github/last-commit/shavelskiy/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/shavelskiy/statusline.nvim)
+- [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nougat.nvim)
 
 ### Simple
 

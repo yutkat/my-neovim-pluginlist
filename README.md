@@ -821,6 +821,7 @@
 - [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
 - [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
 - [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
+- [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
 
 ### Keyboard Layout
 

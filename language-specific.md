@@ -389,6 +389,10 @@
 - [MomoInSpace/nvim-tex](https://github.com/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/stars/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/last-commit/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/MomoInSpace/nvim-tex)
 - [danilshvalov/latex-symbols.nvim](https://github.com/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/stars/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/latex-symbols.nvim)
 
+### Copyright
+
+- [LittleMorph/copyright-updater.nvim](https://github.com/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/stars/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/last-commit/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleMorph/copyright-updater.nvim)
+
 # Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
