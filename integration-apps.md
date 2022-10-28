@@ -35,6 +35,7 @@
       - [Discord](#discord)
       - [Slack](#slack)
       - [Notion](#notion)
+      - [Jira](#jira)
       - [Google Docs](#google-docs)
       - [Twitch](#twitch)
       - [Spotify](#spotify)
@@ -190,6 +191,10 @@
 #### Notion
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
+
+#### Jira
+
+- [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) ![](https://img.shields.io/github/stars/halfdan/jira.nvim) ![](https://img.shields.io/github/last-commit/halfdan/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/halfdan/jira.nvim)
 
 #### Google Docs
 

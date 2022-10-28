@@ -4,6 +4,7 @@
   - [Plugin Manager](#plugin-manager)
     - [Use builtin package feature](#use-builtin-package-feature)
     - [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
+    - [Update checker](#update-checker)
   - [Auto Completion](#auto-completion)
   - [LSP](#lsp)
   - [Treesitter](#treesitter)
@@ -71,6 +72,7 @@
     - [Diff](#diff)
     - [Tags](#tags)
     - [Fold](#fold)
+    - [Conceal](#conceal)
     - [Calculation](#calculation)
     - [Command](#command)
       - [Redirect to scratch buffer](#redirect-to-scratch-buffer)
@@ -116,6 +118,7 @@
     - [Test](#test)
     - [Debug/REPL](#debugrepl)
     - [REST](#rest)
+    - [Graphql](#graphql)
     - [Git/GitHub](#gitgithub)
     - [Project](#project)
   - [New features](#new-features)
@@ -170,6 +173,10 @@
 
 - [ii14/neopm](https://github.com/ii14/neopm) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
 - [spywhere/plug.nvim](https://github.com/spywhere/plug.nvim) ![](https://img.shields.io/github/stars/spywhere/plug.nvim) ![](https://img.shields.io/github/last-commit/spywhere/plug.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/plug.nvim)
+
+### Update checker
+
+- [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
 
 ## [Auto Completion](./auto-completion.md)
 
@@ -260,6 +267,7 @@
 
 - [yamatsum/nvim-cursorline](https://github.com/yamatsum/nvim-cursorline) ![](https://img.shields.io/github/stars/yamatsum/nvim-cursorline) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-cursorline) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-cursorline)
 - [delphinus/auto-cursorline.nvim](https://github.com/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/stars/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/last-commit/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/auto-cursorline.nvim)
+- [ds1sqe/cusorlineHighlighter.nvim](https://github.com/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/stars/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/cusorlineHighlighter.nvim)
 
 ### Columnline
 
@@ -483,6 +491,10 @@
 - [Vonr/foldcus.nvim](https://github.com/Vonr/foldcus.nvim) ![](https://img.shields.io/github/stars/Vonr/foldcus.nvim) ![](https://img.shields.io/github/last-commit/Vonr/foldcus.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/foldcus.nvim)
 - [milisims/foldhue.nvim](https://github.com/milisims/foldhue.nvim) ![](https://img.shields.io/github/stars/milisims/foldhue.nvim) ![](https://img.shields.io/github/last-commit/milisims/foldhue.nvim) ![](https://img.shields.io/github/commit-activity/y/milisims/foldhue.nvim)
 
+### Conceal
+
+- [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/conceal.nvim)
+
 ### Calculation
 
 - [hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc) ![](https://img.shields.io/github/stars/hrsh7th/cmp-calc) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-calc) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-calc)
@@ -695,6 +707,10 @@
 
 - [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
 
+### Graphql
+
+- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
+
 ### [Git/GitHub](./git-github.md)
 
 ### [Project](./project.md)
@@ -728,6 +744,7 @@
 - [LinArcX/telescope-command-palette.nvim](https://github.com/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-command-palette.nvim)
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/stars/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/legendary.nvim)
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
+- [octarect/telescope-menu.nvim](https://github.com/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/stars/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/last-commit/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/octarect/telescope-menu.nvim)
 
 ### Reload Configuration
 
