@@ -15,8 +15,10 @@
       - [dotenv](#dotenv)
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
-    - [CLI](#cli)
+    - [Shell](#shell)
+      - [zsh](#zsh)
       - [fish](#fish)
+    - [CLI](#cli)
       - [make](#make)
       - [perf](#perf)
       - [dotnet](#dotnet)
@@ -120,11 +122,18 @@
 
 - [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
 
-### CLI
+### Shell
+
+#### zsh
+
+- [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) ![](https://img.shields.io/github/stars/tamago324/cmp-zsh) ![](https://img.shields.io/github/last-commit/tamago324/cmp-zsh) ![](https://img.shields.io/github/commit-activity/y/tamago324/cmp-zsh)
 
 #### fish
 
 - [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
+
+### CLI
+
 
 #### make
 
