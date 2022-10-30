@@ -113,6 +113,10 @@
 
 ### CLI
 
+#### fish
+
+- [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
+
 #### make
 
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
