@@ -3,6 +3,8 @@
 - [Table of Contents](#table-of-contents)
   - [Integration with other apps](#integration-with-other-apps)
     - [Browser Integration](#browser-integration)
+      - [live preview](#live-preview)
+      - [search](#search)
     - [Other Editor](#other-editor)
       - [VS Code](#vs-code)
       - [Xcode](#xcode)
@@ -61,10 +63,16 @@
 ### Browser Integration
 
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
-- [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
-- [dzfrias/gsearch.nvim](https://github.com/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/stars/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/gsearch.nvim)
+
+#### live preview
+
 - [dimchee/prochrome.nvim](https://github.com/dimchee/prochrome.nvim) ![](https://img.shields.io/github/stars/dimchee/prochrome.nvim) ![](https://img.shields.io/github/last-commit/dimchee/prochrome.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/prochrome.nvim)
+
+#### search
+
+- [sunjon/telescope-arecibo.nvim](https://github.com/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/stars/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/last-commit/sunjon/telescope-arecibo.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/telescope-arecibo.nvim)
 - [0ql/google_search.nvim](https://github.com/0ql/google_search.nvim) ![](https://img.shields.io/github/stars/0ql/google_search.nvim) ![](https://img.shields.io/github/last-commit/0ql/google_search.nvim) ![](https://img.shields.io/github/commit-activity/y/0ql/google_search.nvim)
+- [dzfrias/gsearch.nvim](https://github.com/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/stars/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/gsearch.nvim)
 
 ### Other Editor
 
