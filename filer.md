@@ -21,6 +21,7 @@
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ![](https://img.shields.io/github/stars/ms-jpq/chadtree) ![](https://img.shields.io/github/last-commit/ms-jpq/chadtree) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/chadtree)
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) ![](https://img.shields.io/github/stars/TheBlob42/drex.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/drex.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/drex.nvim)
 - [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
+- [lostl1ght/nvim-lf](https://github.com/lostl1ght/nvim-lf) ![](https://img.shields.io/github/stars/lostl1ght/nvim-lf) ![](https://img.shields.io/github/last-commit/lostl1ght/nvim-lf) ![](https://img.shields.io/github/commit-activity/y/lostl1ght/nvim-lf)
 
 ## Simple
 

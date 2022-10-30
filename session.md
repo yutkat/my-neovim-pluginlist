@@ -14,6 +14,7 @@
   - [LukasPietzschmann/telescope-sessions](https://github.com/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/stars/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/telescope-sessions) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/telescope-sessions)
 - [rmagatti/auto-session](https://github.com/rmagatti/auto-session) ![](https://img.shields.io/github/stars/rmagatti/auto-session) ![](https://img.shields.io/github/last-commit/rmagatti/auto-session) ![](https://img.shields.io/github/commit-activity/y/rmagatti/auto-session)
 - [folke/persistence.nvim](https://github.com/folke/persistence.nvim) ![](https://img.shields.io/github/stars/folke/persistence.nvim) ![](https://img.shields.io/github/last-commit/folke/persistence.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/persistence.nvim)
+- [echasnovski/mini.sessions](https://github.com/echasnovski/mini.sessions) ![](https://img.shields.io/github/stars/echasnovski/mini.sessions) ![](https://img.shields.io/github/last-commit/echasnovski/mini.sessions) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.sessions)
 
 ## Session Selector
 

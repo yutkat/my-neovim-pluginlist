@@ -13,6 +13,7 @@
 - [kessejones/tester.nvim](https://github.com/kessejones/tester.nvim) ![](https://img.shields.io/github/stars/kessejones/tester.nvim) ![](https://img.shields.io/github/last-commit/kessejones/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/tester.nvim)
 - [aaronhallaert/continuous-testing.nvim](https://github.com/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/continuous-testing.nvim)
 - [kessejones/tester.nvim](https://github.com/kessejones/tester.nvim) ![](https://img.shields.io/github/stars/kessejones/tester.nvim) ![](https://img.shields.io/github/last-commit/kessejones/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/kessejones/tester.nvim)
+- [echasnovski/mini.test](https://github.com/echasnovski/mini.test) ![](https://img.shields.io/github/stars/echasnovski/mini.test) ![](https://img.shields.io/github/last-commit/echasnovski/mini.test) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.test)
 
 ### Neotest adapter
 

@@ -19,6 +19,7 @@
 - [shoumodip/helm.nvim](https://github.com/shoumodip/helm.nvim) ![](https://img.shields.io/github/stars/shoumodip/helm.nvim) ![](https://img.shields.io/github/last-commit/shoumodip/helm.nvim) ![](https://img.shields.io/github/commit-activity/y/shoumodip/helm.nvim)
 - [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/ivy.nvim)
 - [beardedsakimonkey/nvim-ufind](https://github.com/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-ufind)
+- [echasnovski/mini.fuzzy](https://github.com/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/stars/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/last-commit/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.fuzzy)
 
 ### Telescope Extensions
 

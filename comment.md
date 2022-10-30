@@ -1,11 +1,12 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Comment out](#comment-out)
-    - [CommentString](#commentstring)
-    - [Comment Header](#comment-header)
-  - [Todo Comment Highlight](#todo-comment-highlight)
-    - [Annotation](#annotation)
+    - [Comment out](#comment-out)
+      - [CommentString](#commentstring)
+      - [Comment Header](#comment-header)
+    - [Todo Comment Highlight](#todo-comment-highlight)
+    - [Special Comment](#special-comment)
+      - [Annotation](#annotation)
 
 ### Comment out
 
@@ -16,6 +17,7 @@
 - [winston0410/commented.nvim](https://github.com/winston0410/commented.nvim) ![](https://img.shields.io/github/stars/winston0410/commented.nvim) ![](https://img.shields.io/github/last-commit/winston0410/commented.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/commented.nvim)
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) ![](https://img.shields.io/github/stars/glepnir/coman.nvim) ![](https://img.shields.io/github/last-commit/glepnir/coman.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/coman.nvim)
 - [FLinguenheld/luacomment.nvim](https://github.com/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/luacomment.nvim)
+- [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) ![](https://img.shields.io/github/stars/echasnovski/mini.comment) ![](https://img.shields.io/github/last-commit/echasnovski/mini.comment) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.comment)
 
 #### CommentString
 
