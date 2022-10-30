@@ -2,16 +2,17 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-                - [Org mode](#org-mode)
-                - [Zettelkasten](#zettelkasten)
-                - [Markdown](#markdown)
-                - [ToDo](#todo)
-                - [Obsidian](#obsidian)
-                - [Google Keep](#google-keep)
-                - [Dendron](#dendron)
-                - [BibleGateway](#biblegateway)
-                - [Wiki](#wiki)
-                - [etc](#etc)
+                                - [Org mode](#org-mode)
+                                - [Zettelkasten](#zettelkasten)
+                                - [Markdown](#markdown)
+                                - [ToDo](#todo)
+                                - [Obsidian](#obsidian)
+                                - [Google Keep](#google-keep)
+                                - [Dendron](#dendron)
+                                - [BibleGateway](#biblegateway)
+                                - [Wiki](#wiki)
+                                - [Scratch Buffer](#scratch-buffer)
+                                - [etc](#etc)
 
 # Note Taking
 
@@ -73,6 +74,10 @@
 ### Wiki
 
 - [Jxstxs/jaw.nvim](https://github.com/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/stars/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/jaw.nvim)
+
+### Scratch Buffer
+
+- [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/scratch.nvim)
 
 ### etc
 
