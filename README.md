@@ -134,6 +134,7 @@
     - [Collaborative Editing](#collaborative-editing)
     - [Image](#image)
     - [Notification](#notification)
+    - [Schedule](#schedule)
     - [Concentration](#concentration)
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
@@ -280,6 +281,7 @@
 - [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim) ![](https://img.shields.io/github/stars/mvllow/modes.nvim) ![](https://img.shields.io/github/last-commit/mvllow/modes.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/modes.nvim)
 - [melkster/modicator.nvim](https://github.com/melkster/modicator.nvim) ![](https://img.shields.io/github/stars/melkster/modicator.nvim) ![](https://img.shields.io/github/last-commit/melkster/modicator.nvim) ![](https://img.shields.io/github/commit-activity/y/melkster/modicator.nvim)
 - [doums/modeui.nvim](https://github.com/doums/modeui.nvim) ![](https://img.shields.io/github/stars/doums/modeui.nvim) ![](https://img.shields.io/github/last-commit/doums/modeui.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/modeui.nvim)
+- [doums/monark.nvim](https://github.com/doums/monark.nvim) ![](https://img.shields.io/github/stars/doums/monark.nvim) ![](https://img.shields.io/github/last-commit/doums/monark.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/monark.nvim)
 
 ### Scrollbar
 
@@ -388,6 +390,7 @@
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/stars/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/last-commit/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/treesitter-unit)
 - [andrewferrier/textobj-diagnostic.nvim](https://github.com/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/stars/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/textobj-diagnostic.nvim)
 - [theHamsta/crazy-node-movement](https://github.com/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/stars/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/last-commit/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/commit-activity/y/theHamsta/crazy-node-movement)
+- [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-spooky.nvim)
 
 #### Surround
 
@@ -772,6 +775,10 @@
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
 - [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) ![](https://img.shields.io/github/stars/phaazon/notisys.nvim) ![](https://img.shields.io/github/last-commit/phaazon/notisys.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/notisys.nvim)
 - [haolian9/zhiyuan.nvim](https://github.com/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/stars/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/last-commit/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/zhiyuan.nvim)
+
+### Schedule
+
+- [Cassin01/sche.nvim](https://github.com/Cassin01/sche.nvim) ![](https://img.shields.io/github/stars/Cassin01/sche.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sche.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sche.nvim)
 
 ### Concentration
 

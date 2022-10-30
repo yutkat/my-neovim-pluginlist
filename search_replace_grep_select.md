@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Search](#search)
+  - [Line search](#line-search)
   - [n/N Improvement](#nn-improvement)
   - [Search count](#search-count)
   - [Comment search](#comment-search)
@@ -20,6 +21,10 @@
 - [rapan931/lasterisk.nvim](https://github.com/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/stars/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/last-commit/rapan931/lasterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/lasterisk.nvim)
 - [rapan931/utahraptor.nvim](https://github.com/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/stars/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/last-commit/rapan931/utahraptor.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/utahraptor.nvim)
 - [nat-418/castabout.nvim](https://github.com/nat-418/castabout.nvim) ![](https://img.shields.io/github/stars/nat-418/castabout.nvim) ![](https://img.shields.io/github/last-commit/nat-418/castabout.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/castabout.nvim)
+
+## Line search
+
+- [neanias/telescope-lines.nvim](https://github.com/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/stars/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/last-commit/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/neanias/telescope-lines.nvim)
 
 ## n/N Improvement
 
