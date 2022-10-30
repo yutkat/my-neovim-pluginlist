@@ -8,6 +8,7 @@
     - [Print](#print)
     - [Debug](#debug)
     - [Testing](#testing)
+    - [Help](#help)
     - [Fennel](#fennel)
     - [FFI](#ffi)
     - [Colorscheme Creation](#colorscheme-creation)
@@ -51,6 +52,10 @@
 
 - [notomo/vusted](https://github.com/notomo/vusted) ![](https://img.shields.io/github/stars/notomo/vusted) ![](https://img.shields.io/github/last-commit/notomo/vusted) ![](https://img.shields.io/github/commit-activity/y/notomo/vusted)
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) ![](https://img.shields.io/github/stars/hkupty/runes.nvim) ![](https://img.shields.io/github/last-commit/hkupty/runes.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/runes.nvim)
+
+## Help
+
+- [echasnovski/mini.doc](https://github.com/echasnovski/mini.doc) ![](https://img.shields.io/github/stars/echasnovski/mini.doc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.doc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.doc)
 
 ## Fennel
 

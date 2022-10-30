@@ -36,12 +36,14 @@
 - [mizlan/longbow.nvim](https://github.com/mizlan/longbow.nvim) ![](https://img.shields.io/github/stars/mizlan/longbow.nvim) ![](https://img.shields.io/github/last-commit/mizlan/longbow.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/longbow.nvim)
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) ![](https://img.shields.io/github/stars/ggandor/flit.nvim) ![](https://img.shields.io/github/last-commit/ggandor/flit.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/flit.nvim)
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) ![](https://img.shields.io/github/stars/woosaaahh/sj.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/sj.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/sj.nvim)
+- [echasnovski/mini.jump2d](https://github.com/echasnovski/mini.jump2d) ![](https://img.shields.io/github/stars/echasnovski/mini.jump2d) ![](https://img.shields.io/github/last-commit/echasnovski/mini.jump2d) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.jump2d)
 
 ### Horizontal Move
 
 - [ggandor/lightspeed.nvim(1-character search (f/t))](https://github.com/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/stars/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/last-commit/ggandor/lightspeed.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/lightspeed.nvim)
 - [kevinhwang91/nvim-fFHighlight](https://github.com/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-fFHighlight) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-fFHighlight)
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) ![](https://img.shields.io/github/stars/gukz/ftFT.nvim) ![](https://img.shields.io/github/last-commit/gukz/ftFT.nvim) ![](https://img.shields.io/github/commit-activity/y/gukz/ftFT.nvim)
+- [echasnovski/mini.jump](https://github.com/echasnovski/mini.jump) ![](https://img.shields.io/github/stars/echasnovski/mini.jump) ![](https://img.shields.io/github/last-commit/echasnovski/mini.jump) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.jump)
 
 #### Show jump word
 

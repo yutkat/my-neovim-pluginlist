@@ -2,13 +2,14 @@
 
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
-    - [Joke](#joke)
-    - [Image](#image)
-    - [Game](#game)
-      - [Typing](#typing)
-    - [Weather](#weather)
-    - [Study](#study)
-    - [Music](#music)
+        - [Joke](#joke)
+        - [Image](#image)
+        - [Game](#game)
+            - [Typing](#typing)
+        - [Weather](#weather)
+        - [Study](#study)
+        - [Music](#music)
+        - [Screen server](#screen-server)
 
 # Toy
 
@@ -47,3 +48,6 @@
 
 - [Saverio976/music.nvim](https://github.com/Saverio976/music.nvim) ![](https://img.shields.io/github/stars/Saverio976/music.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/music.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/music.nvim)
 
+### Screen server
+
+- [folke/drop.nvim](https://github.com/folke/drop.nvim) ![](https://img.shields.io/github/stars/folke/drop.nvim) ![](https://img.shields.io/github/last-commit/folke/drop.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/drop.nvim)
