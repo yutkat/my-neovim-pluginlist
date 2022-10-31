@@ -11,6 +11,7 @@
     - [Desktop Integration](#desktop-integration)
     - [Development environment](#development-environment)
       - [tmux](#tmux)
+      - [Zellij](#zellij)
       - [Docker](#docker)
       - [dotenv](#dotenv)
       - [Kitty](#kitty)
@@ -25,7 +26,6 @@
       - [papis](#papis)
       - [Zeal](#zeal)
       - [Snyk Code](#snyk-code)
-      - [Docker](#docker-1)
       - [k8s (Kubernetes)](#k8s-kubernetes)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
@@ -106,9 +106,15 @@
 - [elijahdanko/ttymux.nvim](https://github.com/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/stars/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/last-commit/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahdanko/ttymux.nvim)
 - [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/stars/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/last-commit/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/commit-activity/y/andersevenrud/cmp-tmux)
 
+#### Zellij
+
+- [Lilja/zellij.nvim](https://github.com/Lilja/zellij.nvim) ![](https://img.shields.io/github/stars/Lilja/zellij.nvim) ![](https://img.shields.io/github/last-commit/Lilja/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/Lilja/zellij.nvim)
+
 #### Docker
 
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
+- [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
+- [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 
 #### dotenv
 
@@ -159,10 +165,6 @@
 #### Snyk Code
 
 - [maorun/snyk.nvim](https://github.com/maorun/snyk.nvim) ![](https://img.shields.io/github/stars/maorun/snyk.nvim) ![](https://img.shields.io/github/last-commit/maorun/snyk.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/snyk.nvim)
-
-#### Docker
-
-- [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 
 #### k8s (Kubernetes)
 
@@ -217,6 +219,7 @@
 #### Jira
 
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) ![](https://img.shields.io/github/stars/halfdan/jira.nvim) ![](https://img.shields.io/github/last-commit/halfdan/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/halfdan/jira.nvim)
+- [ofirgall/open-jira.nvim](https://github.com/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/stars/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/open-jira.nvim)
 
 #### Google Docs
 
@@ -254,6 +257,7 @@
 - [uga-rosa/japanese-ime.nvim](https://github.com/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/stars/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/japanese-ime.nvim)
 - [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
 - [haolian9/normalascii.nvim](https://github.com/haolian9/normalascii.nvim) ![](https://img.shields.io/github/stars/haolian9/normalascii.nvim) ![](https://img.shields.io/github/last-commit/haolian9/normalascii.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/normalascii.nvim)
+- [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
 
 ### Battery
 
