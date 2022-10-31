@@ -37,6 +37,7 @@
 - [ggandor/flit.nvim](https://github.com/ggandor/flit.nvim) ![](https://img.shields.io/github/stars/ggandor/flit.nvim) ![](https://img.shields.io/github/last-commit/ggandor/flit.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/flit.nvim)
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) ![](https://img.shields.io/github/stars/woosaaahh/sj.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/sj.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/sj.nvim)
 - [echasnovski/mini.jump2d](https://github.com/echasnovski/mini.jump2d) ![](https://img.shields.io/github/stars/echasnovski/mini.jump2d) ![](https://img.shields.io/github/last-commit/echasnovski/mini.jump2d) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.jump2d)
+- [Weissle/easy-action](https://github.com/Weissle/easy-action) ![](https://img.shields.io/github/stars/Weissle/easy-action) ![](https://img.shields.io/github/last-commit/Weissle/easy-action) ![](https://img.shields.io/github/commit-activity/y/Weissle/easy-action)
 
 ### Horizontal Move
 
