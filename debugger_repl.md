@@ -51,6 +51,7 @@
 
 - [andrewferrier/debugprint.nvim](https://github.com/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/stars/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/debugprint.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/debugprint.nvim)
 - [rareitems/printer.nvim](https://github.com/rareitems/printer.nvim) ![](https://img.shields.io/github/stars/rareitems/printer.nvim) ![](https://img.shields.io/github/last-commit/rareitems/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/printer.nvim)
+- [PatschD/zippy.nvim](https://github.com/PatschD/zippy.nvim) ![](https://img.shields.io/github/stars/PatschD/zippy.nvim) ![](https://img.shields.io/github/last-commit/PatschD/zippy.nvim) ![](https://img.shields.io/github/commit-activity/y/PatschD/zippy.nvim)
 
 #### stack trace analyze
 
