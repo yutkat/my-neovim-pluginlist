@@ -2,17 +2,17 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-                                - [Org mode](#org-mode)
-                                - [Zettelkasten](#zettelkasten)
-                                - [Markdown](#markdown)
-                                - [ToDo](#todo)
-                                - [Obsidian](#obsidian)
-                                - [Google Keep](#google-keep)
-                                - [Dendron](#dendron)
-                                - [BibleGateway](#biblegateway)
-                                - [Wiki](#wiki)
-                                - [Scratch Buffer](#scratch-buffer)
-                                - [etc](#etc)
+                                                                - [Org mode](#org-mode)
+                                                                - [Zettelkasten](#zettelkasten)
+                                                                - [Markdown](#markdown)
+                                                                - [ToDo](#todo)
+                                                                - [Obsidian](#obsidian)
+                                                                - [Google Keep](#google-keep)
+                                                                - [Dendron](#dendron)
+                                                                - [BibleGateway](#biblegateway)
+                                                                - [Wiki](#wiki)
+                                                                - [Scratch Buffer](#scratch-buffer)
+                                                                - [etc](#etc)
 
 # Note Taking
 
@@ -90,3 +90,4 @@
 - [DevinLeamy/jot.nvim](https://github.com/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/stars/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/last-commit/DevinLeamy/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/DevinLeamy/jot.nvim)
 - [caenrique/journal.nvim](https://github.com/caenrique/journal.nvim) ![](https://img.shields.io/github/stars/caenrique/journal.nvim) ![](https://img.shields.io/github/last-commit/caenrique/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/journal.nvim)
 - [Virosss/neonotes.nvim](https://github.com/Virosss/neonotes.nvim) ![](https://img.shields.io/github/stars/Virosss/neonotes.nvim) ![](https://img.shields.io/github/last-commit/Virosss/neonotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Virosss/neonotes.nvim)
+- [nkhlmn/gore.nvim](https://github.com/nkhlmn/gore.nvim) ![](https://img.shields.io/github/stars/nkhlmn/gore.nvim) ![](https://img.shields.io/github/last-commit/nkhlmn/gore.nvim) ![](https://img.shields.io/github/commit-activity/y/nkhlmn/gore.nvim)

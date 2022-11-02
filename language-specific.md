@@ -196,6 +196,7 @@
 - [strptrk/clangwarningparser.nvim](https://github.com/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/stars/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/last-commit/strptrk/clangwarningparser.nvim) ![](https://img.shields.io/github/commit-activity/y/strptrk/clangwarningparser.nvim)
 - [Kohirus/cppassist.nvim](https://github.com/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/stars/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/last-commit/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/commit-activity/y/Kohirus/cppassist.nvim)
 - [madskjeldgaard/cppman.nvim](https://github.com/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/cppman.nvim)
+- [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/stars/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/cmake-tools.nvim)
 
 ### Zig
 
