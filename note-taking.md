@@ -2,29 +2,30 @@
 
 - [Table of Contents](#table-of-contents)
 - [Note Taking](#note-taking)
-                                                                - [Org mode](#org-mode)
-                                                                - [Zettelkasten](#zettelkasten)
-                                                                - [Markdown](#markdown)
-                                                                - [ToDo](#todo)
-                                                                - [Obsidian](#obsidian)
-                                                                - [Google Keep](#google-keep)
-                                                                - [Dendron](#dendron)
-                                                                - [BibleGateway](#biblegateway)
-                                                                - [Wiki](#wiki)
-                                                                - [Scratch Buffer](#scratch-buffer)
-                                                                - [etc](#etc)
+  - [Org mode](#org-mode)
+  - [Zettelkasten](#zettelkasten)
+  - [Markdown](#markdown)
+  - [ToDo](#todo)
+  - [Obsidian](#obsidian)
+  - [Google Keep](#google-keep)
+  - [Dendron](#dendron)
+  - [BibleGateway](#biblegateway)
+  - [Wiki](#wiki)
+  - [Scratch Buffer](#scratch-buffer)
+  - [etc](#etc)
 
 # Note Taking
 
-### Org mode
+## Org mode
 
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ![](https://img.shields.io/github/stars/nvim-neorg/neorg) ![](https://img.shields.io/github/last-commit/nvim-neorg/neorg) ![](https://img.shields.io/github/commit-activity/y/nvim-neorg/neorg)
   - [nvim-neorg/neorg-telescope](https://github.com/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/stars/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/last-commit/nvim-neorg/neorg-telescope) ![](https://img.shields.io/github/commit-activity/y/nvim-neorg/neorg-telescope)
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) ![](https://img.shields.io/github/stars/nvim-orgmode/orgmode) ![](https://img.shields.io/github/last-commit/nvim-orgmode/orgmode) ![](https://img.shields.io/github/commit-activity/y/nvim-orgmode/orgmode)
   - [akinsho/org-bullets.nvim](https://github.com/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/stars/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/last-commit/akinsho/org-bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/org-bullets.nvim)
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/orgWiki.nvim)
+- [joaomsa/telescope-orgmode.nvim](https://github.com/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/stars/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/last-commit/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomsa/telescope-orgmode.nvim)
 
-### Zettelkasten
+## Zettelkasten
 
 - [renerocksai/telekasten.nvim](https://github.com/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/stars/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/last-commit/renerocksai/telekasten.nvim) ![](https://img.shields.io/github/commit-activity/y/renerocksai/telekasten.nvim)
   - [Cybolic/cmp-nvim-telekasten-tags](https://github.com/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/stars/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/last-commit/Cybolic/cmp-nvim-telekasten-tags) ![](https://img.shields.io/github/commit-activity/y/Cybolic/cmp-nvim-telekasten-tags)
@@ -33,12 +34,12 @@
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/zettelkasten.nvim)
 - [gja22/capture.nvim](https://github.com/gja22/capture.nvim) ![](https://img.shields.io/github/stars/gja22/capture.nvim) ![](https://img.shields.io/github/last-commit/gja22/capture.nvim) ![](https://img.shields.io/github/commit-activity/y/gja22/capture.nvim)
 
-### Markdown
+## Markdown
 
 - [phaazon/mind.nvim](https://github.com/phaazon/mind.nvim) ![](https://img.shields.io/github/stars/phaazon/mind.nvim) ![](https://img.shields.io/github/last-commit/phaazon/mind.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/mind.nvim)
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
 
-### ToDo
+## ToDo
 
 - [marcushwz/nvim-workbench](https://github.com/marcushwz/nvim-workbench) ![](https://img.shields.io/github/stars/marcushwz/nvim-workbench) ![](https://img.shields.io/github/last-commit/marcushwz/nvim-workbench) ![](https://img.shields.io/github/commit-activity/y/marcushwz/nvim-workbench)
 - [nagy135/capture-nvim](https://github.com/nagy135/capture-nvim) ![](https://img.shields.io/github/stars/nagy135/capture-nvim) ![](https://img.shields.io/github/last-commit/nagy135/capture-nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/capture-nvim)
@@ -55,31 +56,31 @@
 - [malramsay64/mind.nvim](https://github.com/malramsay64/mind.nvim) ![](https://img.shields.io/github/stars/malramsay64/mind.nvim) ![](https://img.shields.io/github/last-commit/malramsay64/mind.nvim) ![](https://img.shields.io/github/commit-activity/y/malramsay64/mind.nvim)
 - [arakkkkk/kanban.nvim](https://github.com/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/kanban.nvim)
 
-### Obsidian
+## Obsidian
 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/stars/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/obsidian.nvim)
 
-### Google Keep
+## Google Keep
 
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) ![](https://img.shields.io/github/stars/stevearc/gkeep.nvim) ![](https://img.shields.io/github/last-commit/stevearc/gkeep.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/gkeep.nvim)
 
-### Dendron
+## Dendron
 
 - [namjul/dendron.nvim](https://github.com/namjul/dendron.nvim) ![](https://img.shields.io/github/stars/namjul/dendron.nvim) ![](https://img.shields.io/github/last-commit/namjul/dendron.nvim) ![](https://img.shields.io/github/commit-activity/y/namjul/dendron.nvim)
 
-### BibleGateway
+## BibleGateway
 
 - [huynle/bible.nvim](https://github.com/huynle/bible.nvim) ![](https://img.shields.io/github/stars/huynle/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/bible.nvim)
 
-### Wiki
+## Wiki
 
 - [Jxstxs/jaw.nvim](https://github.com/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/stars/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/jaw.nvim)
 
-### Scratch Buffer
+## Scratch Buffer
 
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/scratch.nvim)
 
-### etc
+## etc
 
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
 - [bloveless/notical.nvim](https://github.com/bloveless/notical.nvim) ![](https://img.shields.io/github/stars/bloveless/notical.nvim) ![](https://img.shields.io/github/last-commit/bloveless/notical.nvim) ![](https://img.shields.io/github/commit-activity/y/bloveless/notical.nvim)
