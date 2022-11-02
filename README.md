@@ -26,6 +26,7 @@
       - [Current word highlight](#current-word-highlight)
       - [Jump highlight](#jump-highlight)
     - [Cursor](#cursor)
+    - [Screen position](#screen-position)
     - [Cursorline](#cursorline)
     - [Columnline](#columnline)
       - [Mode](#mode)
@@ -269,6 +270,10 @@
 ### Cursor
 
 - [Grazfather/blinker.nvim](https://github.com/Grazfather/blinker.nvim) ![](https://img.shields.io/github/stars/Grazfather/blinker.nvim) ![](https://img.shields.io/github/last-commit/Grazfather/blinker.nvim) ![](https://img.shields.io/github/commit-activity/y/Grazfather/blinker.nvim)
+
+### Screen position
+
+- [vvvvv/yfix.nvim](https://github.com/vvvvv/yfix.nvim) ![](https://img.shields.io/github/stars/vvvvv/yfix.nvim) ![](https://img.shields.io/github/last-commit/vvvvv/yfix.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvvv/yfix.nvim)
 
 ### Cursorline
 
@@ -853,6 +858,7 @@
 ### Keyboard Layout
 
 - [kbario/homerows.nvim](https://github.com/kbario/homerows.nvim) ![](https://img.shields.io/github/stars/kbario/homerows.nvim) ![](https://img.shields.io/github/last-commit/kbario/homerows.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/homerows.nvim)
+- [vetsE/bepo.nvim](https://github.com/vetsE/bepo.nvim) ![](https://img.shields.io/github/stars/vetsE/bepo.nvim) ![](https://img.shields.io/github/last-commit/vetsE/bepo.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/bepo.nvim)
 
 ## Util pack
 
