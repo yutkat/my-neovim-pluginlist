@@ -18,6 +18,7 @@
 - [sakhnik/nvim-gdb](https://github.com/sakhnik/nvim-gdb) ![](https://img.shields.io/github/stars/sakhnik/nvim-gdb) ![](https://img.shields.io/github/last-commit/sakhnik/nvim-gdb) ![](https://img.shields.io/github/commit-activity/y/sakhnik/nvim-gdb)
 - [dradtke/debug-console](https://github.com/dradtke/debug-console) ![](https://img.shields.io/github/stars/dradtke/debug-console) ![](https://img.shields.io/github/last-commit/dradtke/debug-console) ![](https://img.shields.io/github/commit-activity/y/dradtke/debug-console)
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/stars/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/last-commit/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/commit-activity/y/mxsdev/nvim-dap-vscode-js)
+- [austin5627/acr.nvim](https://github.com/austin5627/acr.nvim) ![](https://img.shields.io/github/stars/austin5627/acr.nvim) ![](https://img.shields.io/github/last-commit/austin5627/acr.nvim) ![](https://img.shields.io/github/commit-activity/y/austin5627/acr.nvim)
 
 #### nvim-dap extension
 
