@@ -631,6 +631,7 @@
 - [stefanwatt/auto-save.nvim](https://github.com/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/stars/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/auto-save.nvim)
 - [tmillr/sos.nvim](https://github.com/tmillr/sos.nvim) ![](https://img.shields.io/github/stars/tmillr/sos.nvim) ![](https://img.shields.io/github/last-commit/tmillr/sos.nvim) ![](https://img.shields.io/github/commit-activity/y/tmillr/sos.nvim)
 - [Fildo7525/Revolver](https://github.com/Fildo7525/Revolver) ![](https://img.shields.io/github/stars/Fildo7525/Revolver) ![](https://img.shields.io/github/last-commit/Fildo7525/Revolver) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/Revolver)
+- [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
 
 #### Cursor Position
 
