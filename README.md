@@ -67,6 +67,7 @@
     - [Adding and subtracting](#adding-and-subtracting)
     - [Join](#join)
     - [Number](#number)
+    - [Cursor location](#cursor-location)
     - [Mark](#mark)
       - [sign](#sign)
       - [floating marker(easymotion style)](#floating-markereasymotion-style)
@@ -478,11 +479,16 @@
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/numbers.nvim)
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
 
+### Cursor location
+
+- [diegoulloao/nvim-file-location](https://github.com/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/stars/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/last-commit/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/commit-activity/y/diegoulloao/nvim-file-location)
+
 ### Mark
 
 #### sign
 
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
+- [LintaoAmons/lazymark.nvim](https://github.com/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/lazymark.nvim)
 
 #### floating marker(easymotion style)
 
