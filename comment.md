@@ -18,6 +18,7 @@
 - [glepnir/coman.nvim](https://github.com/glepnir/coman.nvim) ![](https://img.shields.io/github/stars/glepnir/coman.nvim) ![](https://img.shields.io/github/last-commit/glepnir/coman.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/coman.nvim)
 - [FLinguenheld/luacomment.nvim](https://github.com/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/luacomment.nvim)
 - [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) ![](https://img.shields.io/github/stars/echasnovski/mini.comment) ![](https://img.shields.io/github/last-commit/echasnovski/mini.comment) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.comment)
+- [charkuils/nvim-hemingway](https://github.com/charkuils/nvim-hemingway) ![](https://img.shields.io/github/stars/charkuils/nvim-hemingway) ![](https://img.shields.io/github/last-commit/charkuils/nvim-hemingway) ![](https://img.shields.io/github/commit-activity/y/charkuils/nvim-hemingway)
 
 #### CommentString
 
