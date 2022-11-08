@@ -26,6 +26,7 @@
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) ![](https://img.shields.io/github/stars/linty-org/key-menu.nvim) ![](https://img.shields.io/github/last-commit/linty-org/key-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/linty-org/key-menu.nvim)
 - [October-Studios/autoref.nvim](https://github.com/October-Studios/autoref.nvim) ![](https://img.shields.io/github/stars/October-Studios/autoref.nvim) ![](https://img.shields.io/github/last-commit/October-Studios/autoref.nvim) ![](https://img.shields.io/github/commit-activity/y/October-Studios/autoref.nvim)
 - [CharliePlate/whichkey-ft.nvim](https://github.com/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/stars/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/last-commit/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/CharliePlate/whichkey-ft.nvim)
+- [bgrohman/nvim-keymapper](https://github.com/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/stars/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/last-commit/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/commit-activity/y/bgrohman/nvim-keymapper)
 
 ## Prefix Key Binding
 

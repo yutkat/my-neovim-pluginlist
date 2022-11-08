@@ -565,6 +565,7 @@
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/fine-cmdline.nvim)
 - [delphinus/emcl.nvim](https://github.com/delphinus/emcl.nvim) ![](https://img.shields.io/github/stars/delphinus/emcl.nvim) ![](https://img.shields.io/github/last-commit/delphinus/emcl.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/emcl.nvim)
 - [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
+- [ds1sqe/guid.nvim](https://github.com/ds1sqe/guid.nvim) ![](https://img.shields.io/github/stars/ds1sqe/guid.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/guid.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/guid.nvim)
 
 ### Command Line UI
 
