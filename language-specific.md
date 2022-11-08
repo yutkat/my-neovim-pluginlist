@@ -358,7 +358,7 @@
 #### Markdown checkbox
 
 - [opdavies/toggle-checkbox.nvim](https://github.com/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/opdavies/toggle-checkbox.nvim)
-- [markdown-togglecheck](https://github.com/markdown-togglecheck) ![](https://img.shields.io/github/stars/markdown-togglecheck) ![](https://img.shields.io/github/last-commit/markdown-togglecheck) ![](https://img.shields.io/github/commit-activity/y/markdown-togglecheck)
+- [NFrid/markdown-togglecheck](https://github.com/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/stars/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/last-commit/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/commit-activity/y/NFrid/markdown-togglecheck)
 
 #### Markdown list
 
