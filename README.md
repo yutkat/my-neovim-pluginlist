@@ -196,6 +196,7 @@
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) ![](https://img.shields.io/github/stars/yioneko/nvim-yati) ![](https://img.shields.io/github/last-commit/yioneko/nvim-yati) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-yati)
 - [s1n7ax/nvim-ts-utils](https://github.com/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/stars/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-ts-utils)
 - [ziontee113/query-secretary](https://github.com/ziontee113/query-secretary) ![](https://img.shields.io/github/stars/ziontee113/query-secretary) ![](https://img.shields.io/github/last-commit/ziontee113/query-secretary) ![](https://img.shields.io/github/commit-activity/y/ziontee113/query-secretary)
+- [NFrid/treesitter-utils](https://github.com/NFrid/treesitter-utils) ![](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![](https://img.shields.io/github/last-commit/NFrid/treesitter-utils) ![](https://img.shields.io/github/commit-activity/y/NFrid/treesitter-utils)
 
 ## [Fuzzy Finder](./fuzzy-finder.md)
 
@@ -863,6 +864,7 @@
 ### Analytics
 
 - [diego-rapoport/wt.nvim](https://github.com/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/stars/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/last-commit/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/diego-rapoport/wt.nvim)
+- [maorun/code-stats.nvim](https://github.com/maorun/code-stats.nvim) ![](https://img.shields.io/github/stars/maorun/code-stats.nvim) ![](https://img.shields.io/github/last-commit/maorun/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/code-stats.nvim)
 
 ### Font
 
