@@ -41,6 +41,7 @@
 - [desdic/greyjoy.nvim](https://github.com/desdic/greyjoy.nvim) ![](https://img.shields.io/github/stars/desdic/greyjoy.nvim) ![](https://img.shields.io/github/last-commit/desdic/greyjoy.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/greyjoy.nvim)
 - [Shatur/neovim-tasks](https://github.com/Shatur/neovim-tasks) ![](https://img.shields.io/github/stars/Shatur/neovim-tasks) ![](https://img.shields.io/github/last-commit/Shatur/neovim-tasks) ![](https://img.shields.io/github/commit-activity/y/Shatur/neovim-tasks)
 - [idanarye/nvim-moonicipal](https://github.com/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/stars/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/last-commit/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-moonicipal)
+- [lpoto/actions.nvim](https://github.com/lpoto/actions.nvim) ![](https://img.shields.io/github/stars/lpoto/actions.nvim) ![](https://img.shields.io/github/last-commit/lpoto/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/actions.nvim)
 
 ### Shell
 
