@@ -692,6 +692,7 @@
 
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/indent-blankline.nvim)
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/stars/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/last-commit/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/indent-guides.nvim)
+- [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/simpleIndentGuides.nvim)
 
 ### Formatting
 
