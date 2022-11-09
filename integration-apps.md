@@ -259,6 +259,7 @@
 - [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
 - [haolian9/normalascii.nvim](https://github.com/haolian9/normalascii.nvim) ![](https://img.shields.io/github/stars/haolian9/normalascii.nvim) ![](https://img.shields.io/github/last-commit/haolian9/normalascii.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/normalascii.nvim)
 - [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
+- [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 
 ### Battery
 
