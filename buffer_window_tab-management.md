@@ -69,6 +69,7 @@
 ##### remote open
 
 - [152334H/nvim-FileRecv](https://github.com/152334H/nvim-FileRecv) ![](https://img.shields.io/github/stars/152334H/nvim-FileRecv) ![](https://img.shields.io/github/last-commit/152334H/nvim-FileRecv) ![](https://img.shields.io/github/commit-activity/y/152334H/nvim-FileRecv)
+- [nat-418/scamp.nvim](https://github.com/nat-418/scamp.nvim) ![](https://img.shields.io/github/stars/nat-418/scamp.nvim) ![](https://img.shields.io/github/last-commit/nat-418/scamp.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/scamp.nvim)
 
 #### delete
 
