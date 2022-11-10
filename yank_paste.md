@@ -10,6 +10,8 @@
 
 # Yank
 
+- [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/karen-yank.nvim)
+
 ## Register Selector
 
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-peekup)
