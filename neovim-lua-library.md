@@ -122,6 +122,7 @@
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
 - [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
+- [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
 
 ## Unicode
 
