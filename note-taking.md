@@ -55,6 +55,7 @@
 - [torcor-dev/todoman.nvim](https://github.com/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/stars/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/last-commit/torcor-dev/todoman.nvim) ![](https://img.shields.io/github/commit-activity/y/torcor-dev/todoman.nvim)
 - [malramsay64/mind.nvim](https://github.com/malramsay64/mind.nvim) ![](https://img.shields.io/github/stars/malramsay64/mind.nvim) ![](https://img.shields.io/github/last-commit/malramsay64/mind.nvim) ![](https://img.shields.io/github/commit-activity/y/malramsay64/mind.nvim)
 - [arakkkkk/kanban.nvim](https://github.com/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/kanban.nvim)
+- [Cartogy/todo.nvim](https://github.com/Cartogy/todo.nvim) ![](https://img.shields.io/github/stars/Cartogy/todo.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/todo.nvim)
 
 ## Obsidian
 
