@@ -6,6 +6,7 @@
     - [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
     - [Update checker](#update-checker)
   - [Auto Completion](#auto-completion)
+  - [Completion](#completion)
   - [LSP](#lsp)
   - [Treesitter](#treesitter)
   - [Fuzzy Finder](#fuzzy-finder)
@@ -186,6 +187,10 @@
 - [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
 
 ## [Auto Completion](./auto-completion.md)
+
+## Completion
+
+- [- [atusy/telescomp.nvim](https://github.com/atusy/telescomp.nvim) ![](https://img.shields.io/github/stars/atusy/telescomp.nvim) ![](https://img.shields.io/github/last-commit/atusy/telescomp.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/telescomp.nvim)
 
 ## [LSP](./lsp.md)
 
