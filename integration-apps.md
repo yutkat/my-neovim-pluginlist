@@ -46,6 +46,7 @@
       - [Spotify](#spotify)
       - [GitLab](#gitlab)
       - [compiler-explorer](#compiler-explorer)
+      - [prefix.cc](#prefixcc)
   - [Password Manager](#password-manager)
     - [IME](#ime)
     - [Battery](#battery)
@@ -242,6 +243,10 @@
 #### compiler-explorer
 
 - [krady21/compiler-explorer.nvim](https://github.com/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/stars/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/last-commit/krady21/compiler-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/krady21/compiler-explorer.nvim)
+
+#### prefix.cc
+
+- [ajuvercr/prefix.cc.nvim](https://github.com/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/stars/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/last-commit/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ajuvercr/prefix.cc.nvim)
 
 ## Password Manager
 
