@@ -56,6 +56,7 @@
     - [Indent](#indent)
     - [Align](#align)
     - [Textobject](#textobject)
+      - [Swap](#swap)
       - [Surround](#surround)
     - [Operator](#operator)
     - [Emoji](#emoji)
@@ -67,6 +68,7 @@
     - [Yank, Paste](#yank-paste)
     - [Adding and subtracting](#adding-and-subtracting)
     - [Join](#join)
+    - [Split](#split)
     - [Number](#number)
     - [Cursor location](#cursor-location)
     - [Mark](#mark)
@@ -223,6 +225,7 @@
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) ![](https://img.shields.io/github/stars/utilyre/barbecue.nvim) ![](https://img.shields.io/github/last-commit/utilyre/barbecue.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/barbecue.nvim)
 - [aktersnurra/minibar.nvim](https://github.com/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/stars/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/last-commit/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/commit-activity/y/aktersnurra/minibar.nvim)
 - [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) ![](https://img.shields.io/github/stars/B4mbus/nvim-headband) ![](https://img.shields.io/github/last-commit/B4mbus/nvim-headband) ![](https://img.shields.io/github/commit-activity/y/B4mbus/nvim-headband)
+- [Alighorab/winbar.nvim](https://github.com/Alighorab/winbar.nvim) ![](https://img.shields.io/github/stars/Alighorab/winbar.nvim) ![](https://img.shields.io/github/last-commit/Alighorab/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Alighorab/winbar.nvim)
 
 ### Highlight
 
@@ -418,13 +421,17 @@
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-textobjects)
 - [RRethy/nvim-treesitter-textsubjects](https://github.com/RRethy/nvim-treesitter-textsubjects) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-textsubjects) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-textsubjects) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-textsubjects)
 - [XXiaoA/ns-textobject.nvim](https://github.com/XXiaoA/ns-textobject.nvim) ![](https://img.shields.io/github/stars/XXiaoA/ns-textobject.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/ns-textobject.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/ns-textobject.nvim)
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) ![](https://img.shields.io/github/stars/mizlan/iswap.nvim) ![](https://img.shields.io/github/last-commit/mizlan/iswap.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/iswap.nvim)
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-treehopper)
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/stars/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/last-commit/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/treesitter-unit)
 - [andrewferrier/textobj-diagnostic.nvim](https://github.com/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/stars/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/andrewferrier/textobj-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewferrier/textobj-diagnostic.nvim)
 - [theHamsta/crazy-node-movement](https://github.com/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/stars/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/last-commit/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/commit-activity/y/theHamsta/crazy-node-movement)
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-spooky.nvim)
 - [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) ![](https://img.shields.io/github/stars/echasnovski/mini.ai) ![](https://img.shields.io/github/last-commit/echasnovski/mini.ai) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.ai)
+
+#### Swap
+
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) ![](https://img.shields.io/github/stars/mizlan/iswap.nvim) ![](https://img.shields.io/github/last-commit/mizlan/iswap.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/iswap.nvim)
+- [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/binary-swap.nvim)
 
 #### Surround
 
@@ -481,6 +488,10 @@
 - [kizza/joinery.nvim](https://github.com/kizza/joinery.nvim) ![](https://img.shields.io/github/stars/kizza/joinery.nvim) ![](https://img.shields.io/github/last-commit/kizza/joinery.nvim) ![](https://img.shields.io/github/commit-activity/y/kizza/joinery.nvim)
 - [uga-rosa/join.nvim](https://github.com/uga-rosa/join.nvim) ![](https://img.shields.io/github/stars/uga-rosa/join.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/join.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/join.nvim)
 - [aarondiel/spread.nvim](https://github.com/aarondiel/spread.nvim) ![](https://img.shields.io/github/stars/aarondiel/spread.nvim) ![](https://img.shields.io/github/last-commit/aarondiel/spread.nvim) ![](https://img.shields.io/github/commit-activity/y/aarondiel/spread.nvim)
+
+### Split
+
+- [Jlll1/split.nvim](https://github.com/Jlll1/split.nvim) ![](https://img.shields.io/github/stars/Jlll1/split.nvim) ![](https://img.shields.io/github/last-commit/Jlll1/split.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlll1/split.nvim)
 
 ### Number
 
