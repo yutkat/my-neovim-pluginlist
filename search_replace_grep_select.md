@@ -42,6 +42,7 @@
 
 # Replace
 
+- [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/stars/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/last-commit/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/commit-activity/y/cshuaimin/ssr.nvim)
 - [filipdutescu/renamer.nvim](https://github.com/filipdutescu/renamer.nvim) ![](https://img.shields.io/github/stars/filipdutescu/renamer.nvim) ![](https://img.shields.io/github/last-commit/filipdutescu/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/filipdutescu/renamer.nvim)
 - [vigoux/architext.nvim](https://github.com/vigoux/architext.nvim) ![](https://img.shields.io/github/stars/vigoux/architext.nvim) ![](https://img.shields.io/github/last-commit/vigoux/architext.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/architext.nvim)
 - [Blackmorse/buffersed.nvim](https://github.com/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/stars/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/last-commit/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/commit-activity/y/Blackmorse/buffersed.nvim)
