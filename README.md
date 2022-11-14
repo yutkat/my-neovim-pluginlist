@@ -95,6 +95,7 @@
     - [Quickfix](#quickfix)
     - [cd(change directory)](#cdchange-directory)
     - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
+      - [filetype colorscheme](#filetype-colorscheme)
     - [Macro](#macro)
     - [Message](#message)
     - [Help](#help)
@@ -432,6 +433,7 @@
 
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) ![](https://img.shields.io/github/stars/mizlan/iswap.nvim) ![](https://img.shields.io/github/last-commit/mizlan/iswap.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/iswap.nvim)
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/binary-swap.nvim)
+- [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/sibling-swap.nvim)
 
 #### Surround
 
@@ -633,6 +635,10 @@
 ### ftdetect(Filetype detector)
 
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) ![](https://img.shields.io/github/stars/spywhere/detect-language.nvim) ![](https://img.shields.io/github/last-commit/spywhere/detect-language.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/detect-language.nvim)
+
+#### filetype colorscheme
+
+- [folke/styler.nvim](https://github.com/folke/styler.nvim) ![](https://img.shields.io/github/stars/folke/styler.nvim) ![](https://img.shields.io/github/last-commit/folke/styler.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/styler.nvim)
 
 ### Macro
 
