@@ -216,6 +216,7 @@
 ### Tabline
 
 - [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) ![](https://img.shields.io/github/stars/NvRose/tabline.nvim) ![](https://img.shields.io/github/last-commit/NvRose/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/tabline.nvim)
+- [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
 
 ### winbar
 
@@ -714,6 +715,7 @@
   - [princejoogie/mason-formatter.nvim](https://github.com/princejoogie/mason-formatter.nvim) ![](https://img.shields.io/github/stars/princejoogie/mason-formatter.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/mason-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/mason-formatter.nvim)
 - [joechrisellis/lsp-format-modifications.nvim](https://github.com/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/stars/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/last-commit/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/commit-activity/y/joechrisellis/lsp-format-modifications.nvim)
 - [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/stars/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/format-on-leave.nvim)
+- [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 
 ##### Trim Whitespace
 
@@ -811,6 +813,7 @@
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/distant.nvim)
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/stars/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/last-commit/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/commit-activity/y/jamestthompson3/nvim-remote-containers)
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) ![](https://img.shields.io/github/stars/esensar/nvim-dev-container) ![](https://img.shields.io/github/last-commit/esensar/nvim-dev-container) ![](https://img.shields.io/github/commit-activity/y/esensar/nvim-dev-container)
+- [stefanwatt/remote.nvim](https://github.com/stefanwatt/remote.nvim) ![](https://img.shields.io/github/stars/stefanwatt/remote.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/remote.nvim)
 
 ### Collaborative Editing
 

@@ -60,6 +60,7 @@
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
 - [mrded/nvim-zond](https://github.com/mrded/nvim-zond) ![](https://img.shields.io/github/stars/mrded/nvim-zond) ![](https://img.shields.io/github/last-commit/mrded/nvim-zond) ![](https://img.shields.io/github/commit-activity/y/mrded/nvim-zond)
 - [woosaaahh/brun.nvim](https://github.com/woosaaahh/brun.nvim) ![](https://img.shields.io/github/stars/woosaaahh/brun.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/brun.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/brun.nvim)
+- [Nanoteck137/scorbunny.nvim](https://github.com/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/scorbunny.nvim)
 
 ## Map style
 

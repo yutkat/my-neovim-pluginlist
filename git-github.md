@@ -54,6 +54,7 @@
 - [emmanueltouzery/agitator.nvim](https://github.com/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/agitator.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/agitator.nvim)
 - [braxtons12/blame_line.nvim](https://github.com/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/stars/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/last-commit/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/commit-activity/y/braxtons12/blame_line.nvim)
 - [shavelskiy/git-blame.nvim](https://github.com/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/stars/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/last-commit/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/shavelskiy/git-blame.nvim)
+- [EmilOhlsson/contributors.nvim](https://github.com/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/contributors.nvim)
 
 #### git lens
 
@@ -97,6 +98,7 @@
 #### Pull Request
 
 - [senkentarou/gopr.nvim](https://github.com/senkentarou/gopr.nvim) ![](https://img.shields.io/github/stars/senkentarou/gopr.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gopr.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gopr.nvim)
+- [rnprest/merge-request.nvim](https://github.com/rnprest/merge-request.nvim) ![](https://img.shields.io/github/stars/rnprest/merge-request.nvim) ![](https://img.shields.io/github/last-commit/rnprest/merge-request.nvim) ![](https://img.shields.io/github/commit-activity/y/rnprest/merge-request.nvim)
 
 #### Link
 

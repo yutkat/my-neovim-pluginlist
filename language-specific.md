@@ -63,6 +63,7 @@
     - [Pandoc](#pandoc)
     - [Vimdoc](#vimdoc)
     - [Tex](#tex)
+      - [BiBTex](#bibtex)
     - [Copyright](#copyright)
 - [Competitive programming](#competitive-programming)
 
@@ -331,6 +332,7 @@
 - [jghauser/follow-md-links.nvim](https://github.com/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/stars/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/last-commit/jghauser/follow-md-links.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/follow-md-links.nvim)
 - [jubnzv/mdeval.nvim](https://github.com/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/stars/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/last-commit/jubnzv/mdeval.nvim) ![](https://img.shields.io/github/commit-activity/y/jubnzv/mdeval.nvim)
 - [Iron-E/nvim-marktext](https://github.com/Iron-E/nvim-marktext) ![](https://img.shields.io/github/stars/Iron-E/nvim-marktext) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-marktext) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-marktext)
+- [sherlockhomeless/nvim-markdown](https://github.com/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/stars/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/last-commit/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/commit-activity/y/sherlockhomeless/nvim-markdown)
 
 #### Markdown link
 
@@ -403,6 +405,11 @@
 - [amarakon/nvim-cmp-lua-latex-symbols](https://github.com/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-lua-latex-symbols) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-lua-latex-symbols)
 - [MomoInSpace/nvim-tex](https://github.com/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/stars/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/last-commit/MomoInSpace/nvim-tex) ![](https://img.shields.io/github/commit-activity/y/MomoInSpace/nvim-tex)
 - [danilshvalov/latex-symbols.nvim](https://github.com/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/stars/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/latex-symbols.nvim)
+- [ryleelyman/latex.nvim](https://github.com/ryleelyman/latex.nvim) ![](https://img.shields.io/github/stars/ryleelyman/latex.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/latex.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/latex.nvim)
+
+#### BiBTex
+
+- [oncomouse/nvim-ref](https://github.com/oncomouse/nvim-ref) ![](https://img.shields.io/github/stars/oncomouse/nvim-ref) ![](https://img.shields.io/github/last-commit/oncomouse/nvim-ref) ![](https://img.shields.io/github/commit-activity/y/oncomouse/nvim-ref)
 
 ### Copyright
 
