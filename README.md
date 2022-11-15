@@ -468,6 +468,7 @@
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 - [glepnir/mcc.nvim](https://github.com/glepnir/mcc.nvim) ![](https://img.shields.io/github/stars/glepnir/mcc.nvim) ![](https://img.shields.io/github/last-commit/glepnir/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/mcc.nvim)
 - [LostNeophyte/bigfile.nvim](https://github.com/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/stars/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LostNeophyte/bigfile.nvim)
+- [LunarVim/bigfile.nvim](https://github.com/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/stars/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/bigfile.nvim)
 
 ## Other Standard Feature Enhancement
 
