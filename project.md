@@ -44,6 +44,7 @@
 - [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) ![](https://img.shields.io/github/stars/kndndrj/nvim-projector) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-projector) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-projector)
 - [lpoto/workspace.nvim](https://github.com/lpoto/workspace.nvim) ![](https://img.shields.io/github/stars/lpoto/workspace.nvim) ![](https://img.shields.io/github/last-commit/lpoto/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/workspace.nvim)
 - [guigui64/local.nvim](https://github.com/guigui64/local.nvim) ![](https://img.shields.io/github/stars/guigui64/local.nvim) ![](https://img.shields.io/github/last-commit/guigui64/local.nvim) ![](https://img.shields.io/github/commit-activity/y/guigui64/local.nvim)
+- [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) ![](https://img.shields.io/github/stars/folke/neoconf.nvim) ![](https://img.shields.io/github/last-commit/folke/neoconf.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/neoconf.nvim)
 
 #### Config switcher
 
