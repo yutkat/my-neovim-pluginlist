@@ -224,6 +224,7 @@
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
 - [tobias-z/java-util.nvim](https://github.com/tobias-z/java-util.nvim) ![](https://img.shields.io/github/stars/tobias-z/java-util.nvim) ![](https://img.shields.io/github/last-commit/tobias-z/java-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-z/java-util.nvim)
 - [charkuils/nvim-wildcat](https://github.com/charkuils/nvim-wildcat) ![](https://img.shields.io/github/stars/charkuils/nvim-wildcat) ![](https://img.shields.io/github/last-commit/charkuils/nvim-wildcat) ![](https://img.shields.io/github/commit-activity/y/charkuils/nvim-wildcat)
+- [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 
 ### Scala
 
