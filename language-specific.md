@@ -9,6 +9,9 @@
       - [npm](#npm)
     - [HTML](#html)
     - [CSS](#css)
+    - [HTTP](#http)
+    - [REST](#rest)
+    - [Graphql](#graphql)
       - [tailwind](#tailwind)
     - [React](#react)
     - [Deno](#deno)
@@ -102,6 +105,18 @@
 ### CSS
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
+
+### HTTP
+
+- [barrett-ruth/telescope-http.nvim](https://github.com/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/telescope-http.nvim)
+
+### REST
+
+- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
+
+### Graphql
+
+- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
 
 #### tailwind
 

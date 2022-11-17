@@ -126,8 +126,6 @@
     - [Task Runner](#task-runner)
     - [Test](#test)
     - [Debug/REPL](#debugrepl)
-    - [REST](#rest)
-    - [Graphql](#graphql)
     - [Git/GitHub](#gitgithub)
     - [Project](#project)
   - [New features](#new-features)
@@ -781,14 +779,6 @@
 ### [Test](./test.md)
 
 ### [Debug/REPL](./debugger_repl.md)
-
-### REST
-
-- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
-
-### Graphql
-
-- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
 
 ### [Git/GitHub](./git-github.md)
 
