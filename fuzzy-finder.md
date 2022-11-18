@@ -21,6 +21,7 @@
 - [AdeAttwood/ivy.nvim](https://github.com/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/ivy.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/ivy.nvim)
 - [beardedsakimonkey/nvim-ufind](https://github.com/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-ufind) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-ufind)
 - [echasnovski/mini.fuzzy](https://github.com/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/stars/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/last-commit/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.fuzzy)
+- [cpkio/nvim-fzf-windows](https://github.com/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/stars/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/last-commit/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-fzf-windows)
 
 ### Telescope Extensions
 
