@@ -534,6 +534,8 @@
 
 ### Undo
 
+- [haolian9/redostr.nvim](https://github.com/haolian9/redostr.nvim) ![](https://img.shields.io/github/stars/haolian9/redostr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/redostr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/redostr.nvim)
+
 ### Diff
 
 ### Tags
@@ -552,6 +554,7 @@
 - [anuvyklack/fold-preview.nvim](https://github.com/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/stars/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/fold-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/fold-preview.nvim)
 - [Vonr/foldcus.nvim](https://github.com/Vonr/foldcus.nvim) ![](https://img.shields.io/github/stars/Vonr/foldcus.nvim) ![](https://img.shields.io/github/last-commit/Vonr/foldcus.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/foldcus.nvim)
 - [milisims/foldhue.nvim](https://github.com/milisims/foldhue.nvim) ![](https://img.shields.io/github/stars/milisims/foldhue.nvim) ![](https://img.shields.io/github/last-commit/milisims/foldhue.nvim) ![](https://img.shields.io/github/commit-activity/y/milisims/foldhue.nvim)
+- [MrcJkb/nvim-lsp-foldexpr](https://github.com/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/stars/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/last-commit/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/nvim-lsp-foldexpr)
 
 ### Conceal
 
@@ -765,6 +768,7 @@
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/stars/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/symbols-outline.nvim)
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ![](https://img.shields.io/github/stars/stevearc/aerial.nvim) ![](https://img.shields.io/github/last-commit/stevearc/aerial.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/aerial.nvim)
 - [ElPiloto/sidekick.nvim](https://github.com/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/stars/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/sidekick.nvim)
+- [sencer/outline.nvim](https://github.com/sencer/outline.nvim) ![](https://img.shields.io/github/stars/sencer/outline.nvim) ![](https://img.shields.io/github/last-commit/sencer/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/outline.nvim)
 
 ### Call Hierarchy
 
