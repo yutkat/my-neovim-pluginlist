@@ -260,6 +260,7 @@
 - [NTBBloodbath/daylight.nvim](https://github.com/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/daylight.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/daylight.nvim)
 - [propet/colorscheme-persist.nvim](https://github.com/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/stars/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/last-commit/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/propet/colorscheme-persist.nvim)
 - [raddari/last-color.nvim](https://github.com/raddari/last-color.nvim) ![](https://img.shields.io/github/stars/raddari/last-color.nvim) ![](https://img.shields.io/github/last-commit/raddari/last-color.nvim) ![](https://img.shields.io/github/commit-activity/y/raddari/last-color.nvim)
+- [ksk0/nvim-fade-color](https://github.com/ksk0/nvim-fade-color) ![](https://img.shields.io/github/stars/ksk0/nvim-fade-color) ![](https://img.shields.io/github/last-commit/ksk0/nvim-fade-color) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-fade-color)
 
 #### Color name
 
