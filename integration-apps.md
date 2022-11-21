@@ -16,6 +16,7 @@
       - [dotenv](#dotenv)
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
+      - [gnome](#gnome)
     - [Shell](#shell)
       - [zsh](#zsh)
       - [fish](#fish)
@@ -45,6 +46,7 @@
       - [Google Docs](#google-docs)
       - [Twitch](#twitch)
       - [Spotify](#spotify)
+      - [StackOverflow](#stackoverflow)
       - [GitLab](#gitlab)
       - [compiler-explorer](#compiler-explorer)
       - [prefix.cc](#prefixcc)
@@ -130,6 +132,10 @@
 #### Sphinx
 
 - [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
+
+#### gnome
+
+- [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
 
 ### Shell
 
@@ -240,6 +246,10 @@
 #### Spotify
 
 - [C0deBr3ak3r/neofy.nvim](https://github.com/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/stars/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/last-commit/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/commit-activity/y/C0deBr3ak3r/neofy.nvim)
+
+#### StackOverflow
+
+- [jackMort/so.nvim](https://github.com/jackMort/so.nvim) ![](https://img.shields.io/github/stars/jackMort/so.nvim) ![](https://img.shields.io/github/last-commit/jackMort/so.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/so.nvim)
 
 #### GitLab
 

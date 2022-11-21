@@ -96,6 +96,7 @@
 ## JSON
 
 - [rxi/json.lua](https://github.com/rxi/json.lua) ![](https://img.shields.io/github/stars/rxi/json.lua) ![](https://img.shields.io/github/last-commit/rxi/json.lua) ![](https://img.shields.io/github/commit-activity/y/rxi/json.lua)
+- [Sup3Legacy/json.nvim](https://github.com/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/stars/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/last-commit/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/commit-activity/y/Sup3Legacy/json.nvim)
 
 ## Require
 
