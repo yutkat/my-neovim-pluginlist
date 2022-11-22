@@ -50,6 +50,7 @@
       - [GitLab](#gitlab)
       - [compiler-explorer](#compiler-explorer)
       - [prefix.cc](#prefixcc)
+      - [haste](#haste)
   - [Password Manager](#password-manager)
     - [IME](#ime)
     - [Battery](#battery)
@@ -148,7 +149,6 @@
 - [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
 
 ### CLI
-
 
 #### make
 
@@ -262,6 +262,10 @@
 #### prefix.cc
 
 - [ajuvercr/prefix.cc.nvim](https://github.com/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/stars/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/last-commit/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ajuvercr/prefix.cc.nvim)
+
+#### haste
+
+- [pollen00/haste-nvim](https://github.com/pollen00/haste-nvim) ![](https://img.shields.io/github/stars/pollen00/haste-nvim) ![](https://img.shields.io/github/last-commit/pollen00/haste-nvim) ![](https://img.shields.io/github/commit-activity/y/pollen00/haste-nvim)
 
 ## Password Manager
 
