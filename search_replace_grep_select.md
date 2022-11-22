@@ -6,6 +6,7 @@
   - [n/N Improvement](#nn-improvement)
   - [Search count](#search-count)
   - [Comment search](#comment-search)
+  - [Search highlight](#search-highlight)
 - [Replace](#replace)
 - [Grep](#grep)
 - [Select](#select)
@@ -39,6 +40,10 @@
 ## Comment search
 
 - [ram02z/telescope-dev-comments.nvim](https://github.com/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/stars/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/last-commit/ram02z/telescope-dev-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/ram02z/telescope-dev-comments.nvim)
+
+## Search highlight
+
+- [glepnir/hlsearch.nvim](https://github.com/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/stars/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/last-commit/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/hlsearch.nvim)
 
 # Replace
 

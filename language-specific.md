@@ -218,6 +218,7 @@
 - [Kohirus/cppassist.nvim](https://github.com/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/stars/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/last-commit/Kohirus/cppassist.nvim) ![](https://img.shields.io/github/commit-activity/y/Kohirus/cppassist.nvim)
 - [madskjeldgaard/cppman.nvim](https://github.com/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/cppman.nvim)
 - [Cartogy/cproj.nvim](https://github.com/Cartogy/cproj.nvim) ![](https://img.shields.io/github/stars/Cartogy/cproj.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/cproj.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/cproj.nvim)
+- [segoon/telescope-cc.nvim](https://github.com/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-cc.nvim)
 
 #### Cmake
 
@@ -253,6 +254,7 @@
 - [akinsho/pubspec-assist.nvim](https://github.com/akinsho/pubspec-assist.nvim) ![](https://img.shields.io/github/stars/akinsho/pubspec-assist.nvim) ![](https://img.shields.io/github/last-commit/akinsho/pubspec-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/pubspec-assist.nvim)
 - [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/stars/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/last-commit/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/flutter-tools.nvim)
 - [f-person/pubspec-assist-nvim](https://github.com/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/stars/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/last-commit/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/pubspec-assist-nvim)
+- [sidlatau/dart-lsp-refactorings.nvim](https://github.com/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/stars/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/last-commit/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/commit-activity/y/sidlatau/dart-lsp-refactorings.nvim)
 
 ### Clojure
 
