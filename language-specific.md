@@ -396,7 +396,7 @@
 
 ### PlantUML
 
-- [plantuml-previewer.nvim](https://github.com/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/plantuml-previewer.nvim)
+- [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
 
 ### AsciiDoc
 

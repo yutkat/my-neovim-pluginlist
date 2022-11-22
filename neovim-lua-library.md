@@ -30,8 +30,6 @@
 
 ## Table
 
-- [nvisiom/unqualified.nvim](https://github.com/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/stars/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/last-commit/nvisiom/unqualified.nvim) ![](https://img.shields.io/github/commit-activity/y/nvisiom/unqualified.nvim)
-
 ## Class
 
 - [anuvyklack/middleclass](https://github.com/anuvyklack/middleclass) ![](https://img.shields.io/github/stars/anuvyklack/middleclass) ![](https://img.shields.io/github/last-commit/anuvyklack/middleclass) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/middleclass)
