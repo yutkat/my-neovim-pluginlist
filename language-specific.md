@@ -35,6 +35,7 @@
     - [Clojure](#clojure)
     - [Elixir](#elixir)
     - [Haskell](#haskell)
+    - [Lisp](#lisp)
     - [F#](#f)
     - [Cairo](#cairo)
     - [Agda](#agda)
@@ -91,6 +92,7 @@
 
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) ![](https://img.shields.io/github/stars/David-Kunz/jester) ![](https://img.shields.io/github/last-commit/David-Kunz/jester) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/jester)
 - [chuck-flowers/jest.nvim](https://github.com/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/jest.nvim)
+- [justinrassier/jesting.nvim](https://github.com/justinrassier/jesting.nvim) ![](https://img.shields.io/github/stars/justinrassier/jesting.nvim) ![](https://img.shields.io/github/last-commit/justinrassier/jesting.nvim) ![](https://img.shields.io/github/commit-activity/y/justinrassier/jesting.nvim)
 
 #### npm
 
@@ -270,6 +272,10 @@
 ### Haskell
 
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/stars/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/last-commit/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/haskell-tools.nvim)
+
+### Lisp
+
+- [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 
 ### F#
 
