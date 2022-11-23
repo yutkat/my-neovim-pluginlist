@@ -42,6 +42,7 @@
 - [dsummersl/nvim-sluice](https://github.com/dsummersl/nvim-sluice) ![](https://img.shields.io/github/stars/dsummersl/nvim-sluice) ![](https://img.shields.io/github/last-commit/dsummersl/nvim-sluice) ![](https://img.shields.io/github/commit-activity/y/dsummersl/nvim-sluice)
 - [Juksuu/worktrees.nvim](https://github.com/Juksuu/worktrees.nvim) ![](https://img.shields.io/github/stars/Juksuu/worktrees.nvim) ![](https://img.shields.io/github/last-commit/Juksuu/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/Juksuu/worktrees.nvim)
 - [duydang2311/gh-status.nvim](https://github.com/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/stars/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/last-commit/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/commit-activity/y/duydang2311/gh-status.nvim)
+- [kyoh86/gitstat.nvim](https://github.com/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/stars/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/gitstat.nvim)
 
 ## git commit
 
