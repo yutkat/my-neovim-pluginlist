@@ -134,6 +134,7 @@
     - [Translate](#translate)
     - [Manual](#manual)
     - [Popup Info](#popup-info)
+    - [File Handling](#file-handling)
     - [Command Palette](#command-palette)
     - [Reload Configuration](#reload-configuration)
     - [Package Manager](#package-manager)
@@ -814,6 +815,10 @@
 - [lewis6991/hover.nvim](https://github.com/lewis6991/hover.nvim) ![](https://img.shields.io/github/stars/lewis6991/hover.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/hover.nvim)
 - [ellisonleao/weather.nvim](https://github.com/ellisonleao/weather.nvim) ![](https://img.shields.io/github/stars/ellisonleao/weather.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/weather.nvim)
 - [dgyurov/termify.nvim](https://github.com/dgyurov/termify.nvim) ![](https://img.shields.io/github/stars/dgyurov/termify.nvim) ![](https://img.shields.io/github/last-commit/dgyurov/termify.nvim) ![](https://img.shields.io/github/commit-activity/y/dgyurov/termify.nvim)
+
+### File Handling
+
+- [chrisgrieser/nvim-ghengis](https://github.com/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-ghengis) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-ghengis)
 
 ### Command Palette
 
