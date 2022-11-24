@@ -291,6 +291,7 @@
 - [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
 - [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 - [wingforth/nvim-im-select](https://github.com/wingforth/nvim-im-select) ![](https://img.shields.io/github/stars/wingforth/nvim-im-select) ![](https://img.shields.io/github/last-commit/wingforth/nvim-im-select) ![](https://img.shields.io/github/commit-activity/y/wingforth/nvim-im-select)
+- [fengwk/im-switch.nvim](https://github.com/fengwk/im-switch.nvim) ![](https://img.shields.io/github/stars/fengwk/im-switch.nvim) ![](https://img.shields.io/github/last-commit/fengwk/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/fengwk/im-switch.nvim)
 
 ### Battery
 
