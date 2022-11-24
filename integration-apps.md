@@ -30,6 +30,7 @@
       - [k8s (Kubernetes)](#k8s-kubernetes)
     - [Cloud](#cloud)
       - [Terraform](#terraform)
+      - [Ansible](#ansible)
       - [Kustomize](#kustomize)
       - [AWS](#aws)
         - [S3](#s3)
@@ -185,6 +186,10 @@
 
 - [azratul/devops-tools.nvim](https://github.com/azratul/devops-tools.nvim) ![](https://img.shields.io/github/stars/azratul/devops-tools.nvim) ![](https://img.shields.io/github/last-commit/azratul/devops-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/devops-tools.nvim)
 
+#### Ansible
+
+- [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/stars/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-ansible)
+
 #### Kustomize
 
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) ![](https://img.shields.io/github/stars/Allaman/kustomize.nvim) ![](https://img.shields.io/github/last-commit/Allaman/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/kustomize.nvim)
@@ -311,4 +316,3 @@
 ### Embedded Software
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
-
