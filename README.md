@@ -46,10 +46,10 @@
   - [Editing support](#editing-support)
     - [Insert](#insert)
     - [Brackets](#brackets)
-        - [Auto insert](#auto-insert)
-        - [Auto insert pairs](#auto-insert-pairs)
-        - [Auto insert semicolon](#auto-insert-semicolon)
-        - [Auto convert](#auto-convert)
+      - [Auto insert](#auto-insert)
+      - [Auto insert pairs](#auto-insert-pairs)
+      - [Auto insert semicolon](#auto-insert-semicolon)
+      - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
     - [Comment Out](#comment-out)
     - [Convert Case](#convert-case)
@@ -237,7 +237,7 @@
 - [ccbiozhaw/block-highlight.nvim](https://github.com/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/stars/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/last-commit/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ccbiozhaw/block-highlight.nvim)
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) ![](https://img.shields.io/github/stars/folke/paint.nvim) ![](https://img.shields.io/github/last-commit/folke/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/paint.nvim)
 
-### Window Separators 
+### Window Separators
 
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/stars/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/last-commit/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-zh/colorful-winsep.nvim)
 
@@ -370,9 +370,9 @@
 
 ### Brackets
 
-##### Auto insert
+#### Auto insert
 
-##### Auto insert pairs
+#### Auto insert pairs
 
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) ![](https://img.shields.io/github/stars/windwp/nvim-autopairs) ![](https://img.shields.io/github/last-commit/windwp/nvim-autopairs) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-autopairs)
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/stars/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/last-commit/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/commit-activity/y/ZhiyuanLck/smart-pairs)
@@ -383,12 +383,12 @@
 - [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) ![](https://img.shields.io/github/stars/echasnovski/mini.pairs) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pairs)
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
 
-##### Auto insert semicolon
+#### Auto insert semicolon
 
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 - [rareitems/put_at_end.nvim](https://github.com/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/stars/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/last-commit/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/put_at_end.nvim)
 
-##### Auto convert
+#### Auto convert
 
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
 
@@ -662,6 +662,7 @@
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/stars/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/sudormrfbin/cheatsheet.nvim)
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) ![](https://img.shields.io/github/stars/Djancyp/cheat-sheet) ![](https://img.shields.io/github/last-commit/Djancyp/cheat-sheet) ![](https://img.shields.io/github/commit-activity/y/Djancyp/cheat-sheet)
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/stars/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/help-vsplit.nvim)
+- [loadfms/chettahsheet.nvim](https://github.com/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/stars/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/last-commit/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/loadfms/chettahsheet.nvim)
 
 ### Messsage
 
