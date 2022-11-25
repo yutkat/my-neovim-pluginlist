@@ -29,11 +29,12 @@
 
 ### LSP Feature Extension UI
 
-- [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/stars/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lspsaga.nvim)
 - [glepnir/lspsaga.nvim](https://github.com/glepnir/lspsaga.nvim) ![](https://img.shields.io/github/stars/glepnir/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/glepnir/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/lspsaga.nvim)
+- [kkharji/lspsaga.nvim](https://github.com/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/stars/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lspsaga.nvim)
 - [folke/trouble.nvim](https://github.com/folke/trouble.nvim) ![](https://img.shields.io/github/stars/folke/trouble.nvim) ![](https://img.shields.io/github/last-commit/folke/trouble.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/trouble.nvim)
   - [folke/lsp-colors.nvim](https://github.com/folke/lsp-colors.nvim) ![](https://img.shields.io/github/stars/folke/lsp-colors.nvim) ![](https://img.shields.io/github/last-commit/folke/lsp-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lsp-colors.nvim)
   - [EthanJWright/toolwindow.nvim](https://github.com/EthanJWright/toolwindow.nvim) ![](https://img.shields.io/github/stars/EthanJWright/toolwindow.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/toolwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/toolwindow.nvim)
+- [DNLHC/glance.nvim](https://github.com/DNLHC/glance.nvim) ![](https://img.shields.io/github/stars/DNLHC/glance.nvim) ![](https://img.shields.io/github/last-commit/DNLHC/glance.nvim) ![](https://img.shields.io/github/commit-activity/y/DNLHC/glance.nvim)
 - [ray-x/navigator.lua](https://github.com/ray-x/navigator.lua) ![](https://img.shields.io/github/stars/ray-x/navigator.lua) ![](https://img.shields.io/github/last-commit/ray-x/navigator.lua) ![](https://img.shields.io/github/commit-activity/y/ray-x/navigator.lua)
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/stars/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/last-commit/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/gfanto/fzf-lsp.nvim)
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/stars/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/last-commit/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/nvim-lsputils)
