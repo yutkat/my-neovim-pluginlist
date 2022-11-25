@@ -157,6 +157,7 @@
   - [Util pack](#util-pack)
   - [Integration with other apps](#integration-with-other-apps)
   - [Language specific](#language-specific)
+  - [Documentation](#documentation)
   - [Neovim Lua Library](#neovim-lua-library)
   - [Neovim Lua Development](#neovim-lua-development)
   - [Colorscheme](#colorscheme)
@@ -926,6 +927,8 @@
 ## [Integration with other apps](./integration-apps.md)
 
 ## [Language specific](./language-specific.md)
+
+## [Documentation](./documentation.md)
 
 ## [Neovim Lua Library](./neovim-lua-library.md)
 
