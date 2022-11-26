@@ -45,6 +45,7 @@
 - [notomo/promise.nvim](https://github.com/notomo/promise.nvim) ![](https://img.shields.io/github/stars/notomo/promise.nvim) ![](https://img.shields.io/github/last-commit/notomo/promise.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/promise.nvim)
 - [iamcco/async-await.lua](https://github.com/iamcco/async-await.lua) ![](https://img.shields.io/github/stars/iamcco/async-await.lua) ![](https://img.shields.io/github/last-commit/iamcco/async-await.lua) ![](https://img.shields.io/github/commit-activity/y/iamcco/async-await.lua)
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) ![](https://img.shields.io/github/stars/kevinhwang91/promise-async) ![](https://img.shields.io/github/last-commit/kevinhwang91/promise-async) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/promise-async)
+- [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) ![](https://img.shields.io/github/stars/lewis6991/async.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/async.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/async.nvim)
 
 ## UI
 
