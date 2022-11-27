@@ -693,6 +693,7 @@
 - [cameron-wags/splash.nvim](https://github.com/cameron-wags/splash.nvim) ![](https://img.shields.io/github/stars/cameron-wags/splash.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/splash.nvim)
 - [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) ![](https://img.shields.io/github/stars/echasnovski/mini.starter) ![](https://img.shields.io/github/last-commit/echasnovski/mini.starter) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.starter)
 - [PythonPizzaDE/neostart.nvim](https://github.com/PythonPizzaDE/neostart.nvim) ![](https://img.shields.io/github/stars/PythonPizzaDE/neostart.nvim) ![](https://img.shields.io/github/last-commit/PythonPizzaDE/neostart.nvim) ![](https://img.shields.io/github/commit-activity/y/PythonPizzaDE/neostart.nvim)
+- [Kibadda/start-screen-sections.nvim](https://github.com/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/stars/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/start-screen-sections.nvim)
 
 ### Boot Arguments
 
