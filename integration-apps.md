@@ -17,6 +17,7 @@
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
       - [gnome](#gnome)
+      - [Skeleton](#skeleton)
     - [Shell](#shell)
       - [zsh](#zsh)
       - [fish](#fish)
@@ -24,6 +25,7 @@
       - [make](#make)
       - [perf](#perf)
       - [dotnet](#dotnet)
+      - [ctags](#ctags)
       - [papis](#papis)
       - [Zeal](#zeal)
       - [Snyk Code](#snyk-code)
@@ -139,6 +141,10 @@
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
 
+#### Skeleton
+
+- [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/stars/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/last-commit/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/commit-activity/y/cvigilv/esqueleto.nvim)
+
 ### Shell
 
 #### zsh
@@ -163,6 +169,10 @@
 
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 - [Lommix/godot.nvim](https://github.com/Lommix/godot.nvim) ![](https://img.shields.io/github/stars/Lommix/godot.nvim) ![](https://img.shields.io/github/last-commit/Lommix/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/godot.nvim)
+
+#### ctags
+
+- [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
 
 #### papis
 

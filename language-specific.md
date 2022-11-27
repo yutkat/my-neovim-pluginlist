@@ -66,6 +66,7 @@
 - [jose-elias-alvarez/typescript.nvim](https://github.com/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/typescript.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/typescript.nvim)
 - [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) ![](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/web-tools.nvim)
 - [blevantovych/printer.nvim](https://github.com/blevantovych/printer.nvim) ![](https://img.shields.io/github/stars/blevantovych/printer.nvim) ![](https://img.shields.io/github/last-commit/blevantovych/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/blevantovych/printer.nvim)
+- [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) ![](https://img.shields.io/github/stars/yioneko/nvim-vtsls) ![](https://img.shields.io/github/last-commit/yioneko/nvim-vtsls) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-vtsls)
 
 #### Formatter
 
@@ -152,6 +153,7 @@
 - [wassimk/cmp-rails-fixture-names](https://github.com/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/stars/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/last-commit/wassimk/cmp-rails-fixture-names) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-rails-fixture-names)
 - [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
+- [CadeMichael/roron.nvim](https://github.com/CadeMichael/roron.nvim) ![](https://img.shields.io/github/stars/CadeMichael/roron.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/roron.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/roron.nvim)
 
 ### Nix
 
