@@ -47,6 +47,7 @@
   - [Configuration File](#configuration-file)
     - [JSON](#json)
     - [YAML](#yaml)
+    - [dotbox](#dotbox)
     - [CSV](#csv)
     - [OpenAPI](#openapi)
     - [Database](#database)
@@ -308,6 +309,10 @@
 
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) ![](https://img.shields.io/github/stars/cuducos/yaml.nvim) ![](https://img.shields.io/github/last-commit/cuducos/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/yaml.nvim)
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/stars/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/someone-stole-my-name/yaml-companion.nvim)
+
+### dotbox
+
+- [jakehamilton/dotbox.nvim](https://github.com/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/stars/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/last-commit/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/commit-activity/y/jakehamilton/dotbox.nvim)
 
 ### CSV
 

@@ -143,6 +143,7 @@
     - [Image](#image)
     - [Notification](#notification)
     - [Schedule](#schedule)
+    - [Key stroke](#key-stroke)
     - [Concentration](#concentration)
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
@@ -861,6 +862,10 @@
 ### Schedule
 
 - [Cassin01/sche.nvim](https://github.com/Cassin01/sche.nvim) ![](https://img.shields.io/github/stars/Cassin01/sche.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sche.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sche.nvim)
+
+### Key stroke
+
+- [jerrywang1981/keystroke.nvim](https://github.com/jerrywang1981/keystroke.nvim) ![](https://img.shields.io/github/stars/jerrywang1981/keystroke.nvim) ![](https://img.shields.io/github/last-commit/jerrywang1981/keystroke.nvim) ![](https://img.shields.io/github/commit-activity/y/jerrywang1981/keystroke.nvim)
 
 ### Concentration
 
