@@ -18,6 +18,7 @@
   - [GitHub tweaks](#github-tweaks)
   - [Pull Request](#pull-request)
   - [Link](#link)
+    - [grep.app](#grepapp)
 
 # Git
 
@@ -113,3 +114,7 @@
 - [senkentarou/gobf.nvim](https://github.com/senkentarou/gobf.nvim) ![](https://img.shields.io/github/stars/senkentarou/gobf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gobf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gobf.nvim)
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/stars/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/last-commit/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/commit-activity/y/Almo7aya/openingh.nvim)
 - [ciehanski/nvim-git-line](https://github.com/ciehanski/nvim-git-line) ![](https://img.shields.io/github/stars/ciehanski/nvim-git-line) ![](https://img.shields.io/github/last-commit/ciehanski/nvim-git-line) ![](https://img.shields.io/github/commit-activity/y/ciehanski/nvim-git-line)
+
+### grep.app
+
+- [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)
