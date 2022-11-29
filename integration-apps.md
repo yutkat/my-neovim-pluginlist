@@ -114,6 +114,7 @@
 - [elijahdanko/ttymux.nvim](https://github.com/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/stars/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/last-commit/elijahdanko/ttymux.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahdanko/ttymux.nvim)
 - [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/stars/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/last-commit/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/commit-activity/y/andersevenrud/cmp-tmux)
 - [otavioschwanck/tmux-awesome-manager.nvim](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/tmux-awesome-manager.nvim)
+- [connordeckers/tmux-navigator.nvim](https://github.com/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/stars/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/last-commit/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/connordeckers/tmux-navigator.nvim)
 
 #### Zellij
 

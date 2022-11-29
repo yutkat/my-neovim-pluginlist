@@ -73,6 +73,7 @@
     - [Cursor location](#cursor-location)
     - [Mark](#mark)
       - [sign](#sign)
+      - [Jump](#jump)
       - [floating marker(easymotion style)](#floating-markereasymotion-style)
       - [bookmark](#bookmark)
       - [etc](#etc)
@@ -407,6 +408,7 @@
 - [josa42/nvim-actions](https://github.com/josa42/nvim-actions) ![](https://img.shields.io/github/stars/josa42/nvim-actions) ![](https://img.shields.io/github/last-commit/josa42/nvim-actions) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-actions)
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) ![](https://img.shields.io/github/stars/johmsalas/text-case.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/text-case.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/text-case.nvim)
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) ![](https://img.shields.io/github/stars/nat-418/boole.nvim) ![](https://img.shields.io/github/last-commit/nat-418/boole.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/boole.nvim)
+- [cbarrete/nvim-altcaps](https://github.com/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/stars/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/last-commit/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/commit-activity/y/cbarrete/nvim-altcaps)
 
 ### Indent
 
@@ -518,6 +520,10 @@
 
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
 - [LintaoAmons/lazymark.nvim](https://github.com/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/lazymark.nvim)
+
+#### Jump
+
+- [acifuentes99/nvim-jump-to-mark](https://github.com/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/stars/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/last-commit/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/commit-activity/y/acifuentes99/nvim-jump-to-mark)
 
 #### floating marker(easymotion style)
 

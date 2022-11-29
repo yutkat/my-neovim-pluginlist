@@ -22,6 +22,7 @@
 - [Dax89/ide.nvim](https://github.com/Dax89/ide.nvim) ![](https://img.shields.io/github/stars/Dax89/ide.nvim) ![](https://img.shields.io/github/last-commit/Dax89/ide.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/ide.nvim)
 - [daricoder/workspaces.nvim](https://github.com/daricoder/workspaces.nvim) ![](https://img.shields.io/github/stars/daricoder/workspaces.nvim) ![](https://img.shields.io/github/last-commit/daricoder/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/daricoder/workspaces.nvim)
 - [Nanoteck137/sobble.nvim](https://github.com/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/sobble.nvim)
+- [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
 
 #### Project Root Detector
 
