@@ -2,29 +2,30 @@
 
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
-        - [Joke](#joke)
-        - [Image](#image)
-        - [Game](#game)
-            - [Typing](#typing)
-        - [Weather](#weather)
-        - [Study](#study)
-        - [Music](#music)
-        - [Screen server](#screen-server)
+  - [Joke](#joke)
+  - [Image](#image)
+  - [Game](#game)
+    - [Typing](#typing)
+  - [Weather](#weather)
+  - [Study](#study)
+  - [Music](#music)
+  - [Screen server](#screen-server)
 
 # Toy
 
-### Joke
+## Joke
 
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
 - [samuzora/pet.nvim](https://github.com/samuzora/pet.nvim) ![](https://img.shields.io/github/stars/samuzora/pet.nvim) ![](https://img.shields.io/github/last-commit/samuzora/pet.nvim) ![](https://img.shields.io/github/commit-activity/y/samuzora/pet.nvim)
 - [b72u68/vscode.nvim](https://github.com/b72u68/vscode.nvim) ![](https://img.shields.io/github/stars/b72u68/vscode.nvim) ![](https://img.shields.io/github/last-commit/b72u68/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/b72u68/vscode.nvim)
+- [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
 
-### Image
+## Image
 
 - [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
 
-### Game
+## Game
 
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/stars/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/shenzhen-solitaire.nvim)
 
@@ -32,22 +33,22 @@
 
 - [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
 
-### Weather
+## Weather
 
 - [wyattjsmith1/weather.nvim](https://github.com/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/stars/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/last-commit/wyattjsmith1/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/wyattjsmith1/weather.nvim)
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
   - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) ![](https://img.shields.io/github/stars/datwaft/themis.nvim) ![](https://img.shields.io/github/last-commit/datwaft/themis.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/themis.nvim)
 
-### Study
+## Study
 
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
 - [davidgranstrom/oblique-strategies.nvim](https://github.com/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/stars/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/last-commit/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/oblique-strategies.nvim)
 
-### Music
+## Music
 
 - [Saverio976/music.nvim](https://github.com/Saverio976/music.nvim) ![](https://img.shields.io/github/stars/Saverio976/music.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/music.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/music.nvim)
 
-### Screen server
+## Screen server
 
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) ![](https://img.shields.io/github/stars/folke/drop.nvim) ![](https://img.shields.io/github/last-commit/folke/drop.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/drop.nvim)
