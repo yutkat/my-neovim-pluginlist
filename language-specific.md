@@ -329,6 +329,7 @@
 #### SQL
 
 - [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
+- [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
 
 #### PostgreSQL
 

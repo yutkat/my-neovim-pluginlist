@@ -11,6 +11,7 @@
 # Yank
 
 - [tenxsoydev/karen-yank.nvim](https://github.com/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/karen-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/karen-yank.nvim)
+- [vodrazka/paster.nvim](https://github.com/vodrazka/paster.nvim) ![](https://img.shields.io/github/stars/vodrazka/paster.nvim) ![](https://img.shields.io/github/last-commit/vodrazka/paster.nvim) ![](https://img.shields.io/github/commit-activity/y/vodrazka/paster.nvim)
 
 ## Register Selector
 
