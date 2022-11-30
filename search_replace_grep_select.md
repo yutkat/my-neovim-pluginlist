@@ -63,7 +63,7 @@
 
 # Select
 
-- [Dkendal/nvim-treeclimberk](https://github.com/Dkendal/nvim-treeclimberk) ![](https://img.shields.io/github/stars/Dkendal/nvim-treeclimberk) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-treeclimberk) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-treeclimberk)
+- [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/stars/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-treeclimber)
 - [m-gail/escape.nvim](https://github.com/m-gail/escape.nvim) ![](https://img.shields.io/github/stars/m-gail/escape.nvim) ![](https://img.shields.io/github/last-commit/m-gail/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/escape.nvim)
 
 ## Multi Cursor
