@@ -279,6 +279,7 @@
 
 - [xiyaowong/nvim-cursorword](https://github.com/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/stars/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-cursorword) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-cursorword)
 - [echasnovski/mini.cursorword](https://github.com/echasnovski/mini.cursorword) ![](https://img.shields.io/github/stars/echasnovski/mini.cursorword) ![](https://img.shields.io/github/last-commit/echasnovski/mini.cursorword) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.cursorword)
+- [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) ![](https://img.shields.io/github/stars/nyngwang/murmur.lua) ![](https://img.shields.io/github/last-commit/nyngwang/murmur.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/murmur.lua)
 
 #### Jump highlight
 
@@ -409,6 +410,7 @@
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) ![](https://img.shields.io/github/stars/johmsalas/text-case.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/text-case.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/text-case.nvim)
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) ![](https://img.shields.io/github/stars/nat-418/boole.nvim) ![](https://img.shields.io/github/last-commit/nat-418/boole.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/boole.nvim)
 - [cbarrete/nvim-altcaps](https://github.com/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/stars/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/last-commit/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/commit-activity/y/cbarrete/nvim-altcaps)
+- [tandy1229/wordswitch.nvim](https://github.com/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/stars/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/last-commit/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/tandy1229/wordswitch.nvim)
 
 ### Indent
 
