@@ -68,7 +68,7 @@
 - [ray-x/web-tools.nvim](https://github.com/ray-x/web-tools.nvim) ![](https://img.shields.io/github/stars/ray-x/web-tools.nvim) ![](https://img.shields.io/github/last-commit/ray-x/web-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/web-tools.nvim)
 - [blevantovych/printer.nvim](https://github.com/blevantovych/printer.nvim) ![](https://img.shields.io/github/stars/blevantovych/printer.nvim) ![](https://img.shields.io/github/last-commit/blevantovych/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/blevantovych/printer.nvim)
 - [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) ![](https://img.shields.io/github/stars/yioneko/nvim-vtsls) ![](https://img.shields.io/github/last-commit/yioneko/nvim-vtsls) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-vtsls)
-- [twoslash-queries.nvim](https://github.com/twoslash-queries.nvim) ![](https://img.shields.io/github/stars/twoslash-queries.nvim) ![](https://img.shields.io/github/last-commit/twoslash-queries.nvim) ![](https://img.shields.io/github/commit-activity/y/twoslash-queries.nvim)
+- [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/stars/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/last-commit/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/commit-activity/y/marilari88/twoslash-queries.nvim)
 
 #### Formatter
 
@@ -231,7 +231,6 @@
 - [esensar/neovim-java-plugin-host](https://github.com/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/stars/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/last-commit/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/commit-activity/y/esensar/neovim-java-plugin-host)
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
 - [tobias-z/java-util.nvim](https://github.com/tobias-z/java-util.nvim) ![](https://img.shields.io/github/stars/tobias-z/java-util.nvim) ![](https://img.shields.io/github/last-commit/tobias-z/java-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-z/java-util.nvim)
-- [charkuils/nvim-wildcat](https://github.com/charkuils/nvim-wildcat) ![](https://img.shields.io/github/stars/charkuils/nvim-wildcat) ![](https://img.shields.io/github/last-commit/charkuils/nvim-wildcat) ![](https://img.shields.io/github/commit-activity/y/charkuils/nvim-wildcat)
 - [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 
 ### Scala
