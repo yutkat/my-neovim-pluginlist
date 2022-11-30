@@ -11,7 +11,7 @@
       - [Hover Doc](#hover-doc)
       - [Formatting](#formatting)
       - [Rename](#rename)
-    - [LSP Status](#lsp-status)
+    - [LSP Progress](#lsp-progress)
     - [Local LSP Config](#local-lsp-config)
   - [Disable/Enable](#disableenable)
   - [Pre-configuration](#pre-configuration)
@@ -101,12 +101,13 @@
 
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/stars/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/last-commit/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/inc-rename.nvim)
 
-### LSP Status
+### LSP Progress
 
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) ![](https://img.shields.io/github/stars/j-hui/fidget.nvim) ![](https://img.shields.io/github/last-commit/j-hui/fidget.nvim) ![](https://img.shields.io/github/commit-activity/y/j-hui/fidget.nvim)
 - [nvim-lua/lsp-status.nvim](https://github.com/nvim-lua/lsp-status.nvim) ![](https://img.shields.io/github/stars/nvim-lua/lsp-status.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/lsp-status.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/lsp-status.nvim)
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/stars/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/last-commit/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/commit-activity/y/arkav/lualine-lsp-progress)
 - [doums/lsp_spinner.nvim](https://github.com/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/stars/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/last-commit/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/lsp_spinner.nvim)
+- [folke/noice.nvim(mini)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 
 ### Local LSP Config
 
