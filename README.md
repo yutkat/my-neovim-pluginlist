@@ -265,6 +265,7 @@
 - [propet/colorscheme-persist.nvim](https://github.com/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/stars/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/last-commit/propet/colorscheme-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/propet/colorscheme-persist.nvim)
 - [raddari/last-color.nvim](https://github.com/raddari/last-color.nvim) ![](https://img.shields.io/github/stars/raddari/last-color.nvim) ![](https://img.shields.io/github/last-commit/raddari/last-color.nvim) ![](https://img.shields.io/github/commit-activity/y/raddari/last-color.nvim)
 - [ksk0/nvim-fade-color](https://github.com/ksk0/nvim-fade-color) ![](https://img.shields.io/github/stars/ksk0/nvim-fade-color) ![](https://img.shields.io/github/last-commit/ksk0/nvim-fade-color) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-fade-color)
+- [eriedaberrie/colorscheme-file.nvim](https://github.com/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/stars/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/last-commit/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/commit-activity/y/eriedaberrie/colorscheme-file.nvim)
 
 #### Color name
 
