@@ -113,6 +113,7 @@
 
 - [anuvyklack/keymap-layer.nvim](https://github.com/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/stars/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/keymap-layer.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/keymap-layer.nvim)
 - [I60R/map-dsl.nvim](https://github.com/I60R/map-dsl.nvim) ![](https://img.shields.io/github/stars/I60R/map-dsl.nvim) ![](https://img.shields.io/github/last-commit/I60R/map-dsl.nvim) ![](https://img.shields.io/github/commit-activity/y/I60R/map-dsl.nvim)
+- [notomo/listdefined.nvim](https://github.com/notomo/listdefined.nvim) ![](https://img.shields.io/github/stars/notomo/listdefined.nvim) ![](https://img.shields.io/github/last-commit/notomo/listdefined.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/listdefined.nvim)
 
 ## autocmd
 
