@@ -142,6 +142,7 @@
 - [Mr-Destructive/black_snipper.nvim](https://github.com/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/black_snipper.nvim)
 - [yohi/install-pip-package.nvim](https://github.com/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/stars/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/last-commit/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/install-pip-package.nvim)
 - [lcfd/py.nvim](https://github.com/lcfd/py.nvim) ![](https://img.shields.io/github/stars/lcfd/py.nvim) ![](https://img.shields.io/github/last-commit/lcfd/py.nvim) ![](https://img.shields.io/github/commit-activity/y/lcfd/py.nvim)
+- [numine777/py-bazel.nvim](https://github.com/numine777/py-bazel.nvim) ![](https://img.shields.io/github/stars/numine777/py-bazel.nvim) ![](https://img.shields.io/github/last-commit/numine777/py-bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/numine777/py-bazel.nvim)
 
 ### Ruby
 
@@ -309,6 +310,7 @@
 
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) ![](https://img.shields.io/github/stars/cuducos/yaml.nvim) ![](https://img.shields.io/github/last-commit/cuducos/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/yaml.nvim)
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/stars/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/someone-stole-my-name/yaml-companion.nvim)
+- [aubinlrx/telescope-yamlnav.nvim](https://github.com/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/stars/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/last-commit/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/commit-activity/y/aubinlrx/telescope-yamlnav.nvim)
 
 ### dotbox
 
