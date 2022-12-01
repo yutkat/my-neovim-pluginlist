@@ -100,6 +100,7 @@
 ## Require
 
 - [miversen33/import.nvim](https://github.com/miversen33/import.nvim) ![](https://img.shields.io/github/stars/miversen33/import.nvim) ![](https://img.shields.io/github/last-commit/miversen33/import.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/import.nvim)
+- [delphinus/lazy_require.nvim](https://github.com/delphinus/lazy_require.nvim) ![](https://img.shields.io/github/stars/delphinus/lazy_require.nvim) ![](https://img.shields.io/github/last-commit/delphinus/lazy_require.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/lazy_require.nvim)
 
 ## Hook
 
