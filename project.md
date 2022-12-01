@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Project](#project)
-    - [Project Switcher](#project-switcher)
-    - [Project Root Detector](#project-root-detector)
-    - [Project Local Config](#project-local-config)
-    - [Config switcher](#config-switcher)
+    - [Project](#project)
+      - [Project Switcher](#project-switcher)
+      - [Project Root Detector](#project-root-detector)
+      - [Project Local Config](#project-local-config)
+      - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -42,7 +42,6 @@
 - [romainchapou/confiture.nvim](https://github.com/romainchapou/confiture.nvim) ![](https://img.shields.io/github/stars/romainchapou/confiture.nvim) ![](https://img.shields.io/github/last-commit/romainchapou/confiture.nvim) ![](https://img.shields.io/github/commit-activity/y/romainchapou/confiture.nvim)
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/exrc.nvim)
 - [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
-- [an-otter-world/gerard.nvim](https://github.com/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/stars/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/last-commit/an-otter-world/gerard.nvim) ![](https://img.shields.io/github/commit-activity/y/an-otter-world/gerard.nvim)
 - [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) ![](https://img.shields.io/github/stars/kndndrj/nvim-projector) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-projector) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-projector)
 - [lpoto/workspace.nvim](https://github.com/lpoto/workspace.nvim) ![](https://img.shields.io/github/stars/lpoto/workspace.nvim) ![](https://img.shields.io/github/last-commit/lpoto/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/workspace.nvim)
 - [guigui64/local.nvim](https://github.com/guigui64/local.nvim) ![](https://img.shields.io/github/stars/guigui64/local.nvim) ![](https://img.shields.io/github/last-commit/guigui64/local.nvim) ![](https://img.shields.io/github/commit-activity/y/guigui64/local.nvim)
