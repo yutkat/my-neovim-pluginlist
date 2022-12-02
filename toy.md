@@ -49,6 +49,7 @@
 
 - [Saverio976/music.nvim](https://github.com/Saverio976/music.nvim) ![](https://img.shields.io/github/stars/Saverio976/music.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/music.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/music.nvim)
 - [garyburd/norns.nvim](https://github.com/garyburd/norns.nvim) ![](https://img.shields.io/github/stars/garyburd/norns.nvim) ![](https://img.shields.io/github/last-commit/garyburd/norns.nvim) ![](https://img.shields.io/github/commit-activity/y/garyburd/norns.nvim)
+- [pogyomo/play.nvim](https://github.com/pogyomo/play.nvim) ![](https://img.shields.io/github/stars/pogyomo/play.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/play.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/play.nvim)
 
 ## Screen server
 
