@@ -11,6 +11,7 @@
 - [Grep](#grep)
 - [Select](#select)
   - [Multi Cursor](#multi-cursor)
+  - [Incremental selection](#incremental-selection)
 
 # Search
 
@@ -70,3 +71,8 @@
 
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/cool-substitute.nvim)
 - [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) ![](https://img.shields.io/github/stars/YacineDo/mc.nvim) ![](https://img.shields.io/github/last-commit/YacineDo/mc.nvim) ![](https://img.shields.io/github/commit-activity/y/YacineDo/mc.nvim)
+
+## Incremental selection
+
+- [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
+- [haolian9/lingboweibu.nvim](https://github.com/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/stars/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/last-commit/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/lingboweibu.nvim)
