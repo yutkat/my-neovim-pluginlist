@@ -674,6 +674,7 @@
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) ![](https://img.shields.io/github/stars/Djancyp/cheat-sheet) ![](https://img.shields.io/github/last-commit/Djancyp/cheat-sheet) ![](https://img.shields.io/github/commit-activity/y/Djancyp/cheat-sheet)
 - [anuvyklack/help-vsplit.nvim](https://github.com/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/stars/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/help-vsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/help-vsplit.nvim)
 - [loadfms/chettahsheet.nvim](https://github.com/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/stars/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/last-commit/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/loadfms/chettahsheet.nvim)
+- [octaltree/cmp-look](https://github.com/octaltree/cmp-look) ![](https://img.shields.io/github/stars/octaltree/cmp-look) ![](https://img.shields.io/github/last-commit/octaltree/cmp-look) ![](https://img.shields.io/github/commit-activity/y/octaltree/cmp-look)
 
 ### Messsage
 
