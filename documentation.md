@@ -55,6 +55,7 @@
 - [chip/telescope-code-fence.nvim](https://github.com/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/stars/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/last-commit/chip/telescope-code-fence.nvim) ![](https://img.shields.io/github/commit-activity/y/chip/telescope-code-fence.nvim)
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 - [Mr-Destructive/markrunner.nvim](https://github.com/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/markrunner.nvim)
+- [LostNeophyte/null-ls-embedded](https://github.com/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/stars/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/last-commit/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/commit-activity/y/LostNeophyte/null-ls-embedded)
 
 #### Markdown evaluate code
 

@@ -62,6 +62,7 @@
       - [LilyPond](#lilypond)
     - [Robot](#robot)
       - [ROS](#ros)
+      - [LEGO](#lego)
     - [Embedded Software](#embedded-software)
 
 ## Integration with other apps
@@ -324,6 +325,10 @@
 
 - [thibthib18/ros-nvim](https://github.com/thibthib18/ros-nvim) ![](https://img.shields.io/github/stars/thibthib18/ros-nvim) ![](https://img.shields.io/github/last-commit/thibthib18/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/ros-nvim)
 - [miferco97/ros2-debugger-plugin](https://github.com/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/stars/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/last-commit/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/commit-activity/y/miferco97/ros2-debugger-plugin)
+
+#### LEGO
+
+- [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
 
 ### Embedded Software
 
