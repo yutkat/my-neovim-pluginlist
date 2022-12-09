@@ -16,6 +16,7 @@
       - [dotenv](#dotenv)
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
+      - [Swagger](#swagger)
       - [gnome](#gnome)
       - [Skeleton](#skeleton)
     - [Shell](#shell)
@@ -74,6 +75,7 @@
 ### Browser Integration
 
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
+- [psaikido/hupoon.nvim](https://github.com/psaikido/hupoon.nvim) ![](https://img.shields.io/github/stars/psaikido/hupoon.nvim) ![](https://img.shields.io/github/last-commit/psaikido/hupoon.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/hupoon.nvim)
 
 #### live preview
 
@@ -138,6 +140,10 @@
 #### Sphinx
 
 - [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
+
+#### Swagger
+
+- [vinnymeller/swagger-preview.nvim](https://github.com/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/stars/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/vinnymeller/swagger-preview.nvim)
 
 #### gnome
 
@@ -207,6 +213,8 @@
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) ![](https://img.shields.io/github/stars/Allaman/kustomize.nvim) ![](https://img.shields.io/github/last-commit/Allaman/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/kustomize.nvim)
 
 #### AWS
+
+- [lunarxlark/telescope-aws.nvim](https://github.com/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/stars/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/last-commit/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/commit-activity/y/lunarxlark/telescope-aws.nvim)
 
 ##### S3
 

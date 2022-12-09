@@ -207,6 +207,7 @@
 - [s1n7ax/nvim-ts-utils](https://github.com/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/stars/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-ts-utils)
 - [ziontee113/query-secretary](https://github.com/ziontee113/query-secretary) ![](https://img.shields.io/github/stars/ziontee113/query-secretary) ![](https://img.shields.io/github/last-commit/ziontee113/query-secretary) ![](https://img.shields.io/github/commit-activity/y/ziontee113/query-secretary)
 - [NFrid/treesitter-utils](https://github.com/NFrid/treesitter-utils) ![](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![](https://img.shields.io/github/last-commit/NFrid/treesitter-utils) ![](https://img.shields.io/github/commit-activity/y/NFrid/treesitter-utils)
+- [miffi/asyn.nvim](https://github.com/miffi/asyn.nvim) ![](https://img.shields.io/github/stars/miffi/asyn.nvim) ![](https://img.shields.io/github/last-commit/miffi/asyn.nvim) ![](https://img.shields.io/github/commit-activity/y/miffi/asyn.nvim)
 
 ## [Fuzzy Finder](./fuzzy-finder.md)
 
@@ -412,6 +413,7 @@
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) ![](https://img.shields.io/github/stars/nat-418/boole.nvim) ![](https://img.shields.io/github/last-commit/nat-418/boole.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/boole.nvim)
 - [cbarrete/nvim-altcaps](https://github.com/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/stars/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/last-commit/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/commit-activity/y/cbarrete/nvim-altcaps)
 - [tandy1229/wordswitch.nvim](https://github.com/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/stars/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/last-commit/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/tandy1229/wordswitch.nvim)
+- [theoboldalex/case_manager.nvim](https://github.com/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/stars/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/case_manager.nvim)
 
 ### Indent
 

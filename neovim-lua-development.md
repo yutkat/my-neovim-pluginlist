@@ -1,22 +1,22 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Neovim Lua Development](#neovim-lua-development)
-    - [Neovim Lua REPL](#neovim-lua-repl)
-    - [Development Tools](#development-tools)
-    - [Log](#log)
-    - [Print](#print)
-    - [Debug](#debug)
-    - [Testing](#testing)
-    - [Help](#help)
-    - [Fennel](#fennel)
-    - [FFI](#ffi)
-    - [Colorscheme Creation](#colorscheme-creation)
-    - [Color Creation](#color-creation)
-    - [Color Export](#color-export)
-    - [Profiler](#profiler)
-    - [CI](#ci)
-        - [Actions](#actions)
+  - [Neovim Lua Development](#neovim-lua-development)
+  - [Neovim Lua REPL](#neovim-lua-repl)
+  - [Development Tools](#development-tools)
+  - [Log](#log)
+  - [Print](#print)
+  - [Debug](#debug)
+  - [Testing](#testing)
+  - [Help](#help)
+  - [Fennel](#fennel)
+  - [FFI](#ffi)
+  - [Colorscheme Creation](#colorscheme-creation)
+  - [Color Creation](#color-creation)
+  - [Color Export](#color-export)
+  - [Profiler](#profiler)
+  - [CI](#ci)
+    - [Actions](#actions)
 
 ## Neovim Lua Development
 
@@ -66,6 +66,7 @@
 - [beardedsakimonkey/nvim-antifennel](https://github.com/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-antifennel)
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/stars/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/fennel-repl.nvim)
 - [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) ![](https://img.shields.io/github/stars/aileot/nvim-laurel) ![](https://img.shields.io/github/last-commit/aileot/nvim-laurel) ![](https://img.shields.io/github/commit-activity/y/aileot/nvim-laurel)
+- [ec965/bulb.nvim](https://github.com/ec965/bulb.nvim) ![](https://img.shields.io/github/stars/ec965/bulb.nvim) ![](https://img.shields.io/github/last-commit/ec965/bulb.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/bulb.nvim)
 
 ## FFI
 
