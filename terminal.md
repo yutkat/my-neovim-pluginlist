@@ -29,6 +29,8 @@
 - [nat-418/termitary.nvim](https://github.com/nat-418/termitary.nvim) ![](https://img.shields.io/github/stars/nat-418/termitary.nvim) ![](https://img.shields.io/github/last-commit/nat-418/termitary.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/termitary.nvim)
 - [CadeMichael/termbro.nvim](https://github.com/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/stars/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/termbro.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/termbro.nvim)
 - [caenrique/buffer-term.nvim](https://github.com/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/stars/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/last-commit/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/buffer-term.nvim)
+- [vzytoi/quickterm.nvim](https://github.com/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/stars/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/last-commit/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/vzytoi/quickterm.nvim)
+- [fj0r/nvim-taberm](https://github.com/fj0r/nvim-taberm) ![](https://img.shields.io/github/stars/fj0r/nvim-taberm) ![](https://img.shields.io/github/last-commit/fj0r/nvim-taberm) ![](https://img.shields.io/github/commit-activity/y/fj0r/nvim-taberm)
 
 ### External terminal
 

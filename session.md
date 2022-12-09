@@ -17,6 +17,7 @@
 - [echasnovski/mini.sessions](https://github.com/echasnovski/mini.sessions) ![](https://img.shields.io/github/stars/echasnovski/mini.sessions) ![](https://img.shields.io/github/last-commit/echasnovski/mini.sessions) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.sessions)
 - [GnikDroy/projections.nvim](https://github.com/GnikDroy/projections.nvim) ![](https://img.shields.io/github/stars/GnikDroy/projections.nvim) ![](https://img.shields.io/github/last-commit/GnikDroy/projections.nvim) ![](https://img.shields.io/github/commit-activity/y/GnikDroy/projections.nvim)
 - [TimotheeSai/git-sessions.nvim](https://github.com/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/stars/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/last-commit/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/TimotheeSai/git-sessions.nvim)
+- [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/stars/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/last-commit/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/commit-activity/y/EricDriussi/remember-me.nvim)
 
 ## Session Selector
 

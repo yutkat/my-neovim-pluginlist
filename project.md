@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Project](#project)
-      - [Project Switcher](#project-switcher)
-      - [Project Root Detector](#project-root-detector)
-      - [Project Local Config](#project-local-config)
-      - [Config switcher](#config-switcher)
+  - [Project](#project)
+    - [Project Switcher](#project-switcher)
+    - [Project Root Detector](#project-root-detector)
+    - [Project Local Config](#project-local-config)
+    - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -23,6 +23,7 @@
 - [daricoder/workspaces.nvim](https://github.com/daricoder/workspaces.nvim) ![](https://img.shields.io/github/stars/daricoder/workspaces.nvim) ![](https://img.shields.io/github/last-commit/daricoder/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/daricoder/workspaces.nvim)
 - [Nanoteck137/sobble.nvim](https://github.com/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/sobble.nvim)
 - [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
+- [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/stars/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/last-commit/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/commit-activity/y/nyngwang/fzf-lua-projections.nvim)
 
 #### Project Root Detector
 
