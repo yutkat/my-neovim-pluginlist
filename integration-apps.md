@@ -45,6 +45,7 @@
       - [Matrix.org](#matrixorg)
       - [Discord](#discord)
       - [Slack](#slack)
+      - [Mastodon](#mastodon)
       - [Notion](#notion)
       - [Jira](#jira)
       - [Google Docs](#google-docs)
@@ -249,6 +250,10 @@
 #### Slack
 
 - [alex-laycalvert/slack.nvim](https://github.com/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/slack.nvim)
+
+#### Mastodon
+
+- [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) ![](https://img.shields.io/github/stars/kode-team/mastodon.nvim) ![](https://img.shields.io/github/last-commit/kode-team/mastodon.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/mastodon.nvim)
 
 #### Notion
 

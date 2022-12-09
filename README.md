@@ -581,6 +581,7 @@
 - [hrsh7th/cmp-calc](https://github.com/hrsh7th/cmp-calc) ![](https://img.shields.io/github/stars/hrsh7th/cmp-calc) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-calc) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-calc)
 - [jbyuki/quickmath.nvim](https://github.com/jbyuki/quickmath.nvim) ![](https://img.shields.io/github/stars/jbyuki/quickmath.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/quickmath.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/quickmath.nvim)
 - [vzze/calculator.nvim](https://github.com/vzze/calculator.nvim) ![](https://img.shields.io/github/stars/vzze/calculator.nvim) ![](https://img.shields.io/github/last-commit/vzze/calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/calculator.nvim)
+- [rapan931/dentaku.nvim](https://github.com/rapan931/dentaku.nvim) ![](https://img.shields.io/github/stars/rapan931/dentaku.nvim) ![](https://img.shields.io/github/last-commit/rapan931/dentaku.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/dentaku.nvim)
 
 ### Command
 
