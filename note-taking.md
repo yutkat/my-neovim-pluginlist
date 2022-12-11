@@ -11,6 +11,7 @@
   - [Dendron](#dendron)
   - [BibleGateway](#biblegateway)
   - [Wiki](#wiki)
+  - [VimWiki](#vimwiki)
   - [Scratch Buffer](#scratch-buffer)
   - [etc](#etc)
 
@@ -57,6 +58,7 @@
 - [arakkkkk/kanban.nvim](https://github.com/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/kanban.nvim)
 - [Cartogy/todo.nvim](https://github.com/Cartogy/todo.nvim) ![](https://img.shields.io/github/stars/Cartogy/todo.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/todo.nvim)
 - [kperath/dailynotes.nvim](https://github.com/kperath/dailynotes.nvim) ![](https://img.shields.io/github/stars/kperath/dailynotes.nvim) ![](https://img.shields.io/github/last-commit/kperath/dailynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/kperath/dailynotes.nvim)
+- [psaikido/lifetrak.nvim](https://github.com/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/stars/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/last-commit/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/lifetrak.nvim)
 
 ## Obsidian
 
@@ -77,6 +79,10 @@
 ## Wiki
 
 - [Jxstxs/jaw.nvim](https://github.com/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/stars/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/jaw.nvim)
+
+## VimWiki
+
+- [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
 
 ## Scratch Buffer
 
