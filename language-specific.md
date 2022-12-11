@@ -212,6 +212,7 @@
 - [Cartogy/cproj.nvim](https://github.com/Cartogy/cproj.nvim) ![](https://img.shields.io/github/stars/Cartogy/cproj.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/cproj.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/cproj.nvim)
 - [segoon/telescope-cc.nvim](https://github.com/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-cc.nvim)
 - [ii14/nvim-ts-docgen](https://github.com/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/stars/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/last-commit/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/commit-activity/y/ii14/nvim-ts-docgen)
+- [amikai/cscope.nvim](https://github.com/amikai/cscope.nvim) ![](https://img.shields.io/github/stars/amikai/cscope.nvim) ![](https://img.shields.io/github/last-commit/amikai/cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/amikai/cscope.nvim)
 
 #### Cmake
 
