@@ -54,6 +54,8 @@
     - [Comment Out](#comment-out)
     - [Convert Case](#convert-case)
     - [Indent](#indent)
+      - [Indent Size](#indent-size)
+      - [Indent Shift](#indent-shift)
     - [Align](#align)
     - [Textobject](#textobject)
       - [Unit](#unit)
@@ -419,11 +421,17 @@
 
 ### Indent
 
+#### Indent Size
+
 - [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/stars/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/last-commit/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/commit-activity/y/zsugabubus/crazy8.nvim)
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/stars/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/last-commit/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/NMAC427/guess-indent.nvim)
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) ![](https://img.shields.io/github/stars/Darazaki/indent-o-matic) ![](https://img.shields.io/github/last-commit/Darazaki/indent-o-matic) ![](https://img.shields.io/github/commit-activity/y/Darazaki/indent-o-matic)
 - [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) ![](https://img.shields.io/github/stars/echasnovski/mini.indentscope) ![](https://img.shields.io/github/last-commit/echasnovski/mini.indentscope) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.indentscope)
 - [vine91/nvim-indentconfig](https://github.com/vine91/nvim-indentconfig) ![](https://img.shields.io/github/stars/vine91/nvim-indentconfig) ![](https://img.shields.io/github/last-commit/vine91/nvim-indentconfig) ![](https://img.shields.io/github/commit-activity/y/vine91/nvim-indentconfig)
+
+#### Indent Shift
+
+- [joshuanr5/indentation-multiline.nvim](https://github.com/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/stars/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/last-commit/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuanr5/indentation-multiline.nvim)
 
 ### Align
 
