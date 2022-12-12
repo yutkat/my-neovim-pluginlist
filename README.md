@@ -196,6 +196,7 @@
 ## Completion
 
 - [atusy/telescomp.nvim](https://github.com/atusy/telescomp.nvim) ![](https://img.shields.io/github/stars/atusy/telescomp.nvim) ![](https://img.shields.io/github/last-commit/atusy/telescomp.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/telescomp.nvim)
+- [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/stars/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/telescope-insert-path.nvim)
 
 ## [LSP](./lsp.md)
 

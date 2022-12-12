@@ -14,6 +14,7 @@
   - [Error handling](#error-handling)
   - [Assert](#assert)
   - [REST](#rest)
+  - [GRPC](#grpc)
   - [WebSocket](#websocket)
   - [JSON](#json)
   - [Require](#require)
@@ -88,6 +89,10 @@
 ## REST
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
+
+## GRPC
+
+- [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) ![](https://img.shields.io/github/stars/hudclark/grpc-nvim) ![](https://img.shields.io/github/last-commit/hudclark/grpc-nvim) ![](https://img.shields.io/github/commit-activity/y/hudclark/grpc-nvim)
 
 ## WebSocket
 
