@@ -46,6 +46,7 @@
 ### Shell
 
 - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) ![](https://img.shields.io/github/stars/ojroques/nvim-buildme) ![](https://img.shields.io/github/last-commit/ojroques/nvim-buildme) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-buildme)
+- [LeonardsonCC/scrips.nvim](https://github.com/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/stars/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/last-commit/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonardsonCC/scrips.nvim)
 
 ## Command style
 
