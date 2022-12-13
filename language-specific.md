@@ -213,6 +213,7 @@
 - [segoon/telescope-cc.nvim](https://github.com/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-cc.nvim)
 - [ii14/nvim-ts-docgen](https://github.com/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/stars/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/last-commit/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/commit-activity/y/ii14/nvim-ts-docgen)
 - [amikai/cscope.nvim](https://github.com/amikai/cscope.nvim) ![](https://img.shields.io/github/stars/amikai/cscope.nvim) ![](https://img.shields.io/github/last-commit/amikai/cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/amikai/cscope.nvim)
+- [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
 
 #### Cmake
 

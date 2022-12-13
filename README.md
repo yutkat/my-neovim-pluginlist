@@ -687,6 +687,8 @@
 
 ### Macro
 
+- [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-recorder)
+
 ### Message
 
 - [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) ![](https://img.shields.io/github/stars/AckslD/messages.nvim) ![](https://img.shields.io/github/last-commit/AckslD/messages.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/messages.nvim)
@@ -867,6 +869,7 @@
 ### Reload Configuration
 
 - [milkias17/reloader.nvim](https://github.com/milkias17/reloader.nvim) ![](https://img.shields.io/github/stars/milkias17/reloader.nvim) ![](https://img.shields.io/github/last-commit/milkias17/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/milkias17/reloader.nvim)
+- [mskelton/live-reload.nvim](https://github.com/mskelton/live-reload.nvim) ![](https://img.shields.io/github/stars/mskelton/live-reload.nvim) ![](https://img.shields.io/github/last-commit/mskelton/live-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/live-reload.nvim)
 
 ### [Package Manager](./package-manager.md)
 
