@@ -99,6 +99,7 @@
     - [Quickfix](#quickfix)
     - [cd(change directory)](#cdchange-directory)
     - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
+    - [ftplugin](#ftplugin)
       - [filetype colorscheme](#filetype-colorscheme)
     - [Macro](#macro)
     - [Message](#message)
@@ -675,6 +676,10 @@
 ### ftdetect(Filetype detector)
 
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) ![](https://img.shields.io/github/stars/spywhere/detect-language.nvim) ![](https://img.shields.io/github/last-commit/spywhere/detect-language.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/detect-language.nvim)
+
+### ftplugin
+
+- [prichrd/ftconf.nvim](https://github.com/prichrd/ftconf.nvim) ![](https://img.shields.io/github/stars/prichrd/ftconf.nvim) ![](https://img.shields.io/github/last-commit/prichrd/ftconf.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/ftconf.nvim)
 
 #### filetype colorscheme
 
