@@ -124,7 +124,6 @@
 
 ## autocmd
 
-- [juiceDeLemon/time.nvim](https://github.com/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/stars/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/last-commit/juiceDeLemon/time.nvim) ![](https://img.shields.io/github/commit-activity/y/juiceDeLemon/time.nvim)
 - [distek/aftermath.nvim](https://github.com/distek/aftermath.nvim) ![](https://img.shields.io/github/stars/distek/aftermath.nvim) ![](https://img.shields.io/github/last-commit/distek/aftermath.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/aftermath.nvim)
 
 ## Icon
