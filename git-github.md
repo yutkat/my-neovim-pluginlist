@@ -50,6 +50,7 @@
 - [olacin/telescope-cc.nvim](https://github.com/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/stars/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/olacin/telescope-cc.nvim)
 - [Cassin01/cmp-gitcommit](https://github.com/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/stars/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/last-commit/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/commit-activity/y/Cassin01/cmp-gitcommit)
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/stars/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/last-commit/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/commit-activity/y/gbprod/tree-sitter-gitcommit)
+- [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
 
 ## git blame
 

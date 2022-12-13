@@ -304,6 +304,10 @@
 
 - [pollen00/haste-nvim](https://github.com/pollen00/haste-nvim) ![](https://img.shields.io/github/stars/pollen00/haste-nvim) ![](https://img.shields.io/github/last-commit/pollen00/haste-nvim) ![](https://img.shields.io/github/commit-activity/y/pollen00/haste-nvim)
 
+#### TabNews
+
+- [FelipeIzolan/tabnews.nvim](https://github.com/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/stars/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/last-commit/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeIzolan/tabnews.nvim)
+
 ## Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
