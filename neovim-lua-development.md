@@ -81,7 +81,7 @@
 - [ThemerCorp/themer.lua](https://github.com/themercorp/themer.lua) ![](https://img.shields.io/github/stars/ThemerCorp/themer.lua) ![](https://img.shields.io/github/last-commit/ThemerCorp/themer.lua) ![](https://img.shields.io/github/commit-activity/y/ThemerCorp/themer.lua)
 - [NTBBloodbath/color-converter.nvim](https://github.com/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/color-converter.nvim)
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) ![](https://img.shields.io/github/stars/dylanaraps/pywal) ![](https://img.shields.io/github/last-commit/dylanaraps/pywal) ![](https://img.shields.io/github/commit-activity/y/dylanaraps/pywal)
-- [katawful/kreative/](https://github.com/katawful/kreative/) ![](https://img.shields.io/github/stars/katawful/kreative/) ![](https://img.shields.io/github/last-commit/katawful/kreative/) ![](https://img.shields.io/github/commit-activity/y/katawful/kreative/)
+- [katawful/kreative](https://github.com/katawful/kreative) ![](https://img.shields.io/github/stars/katawful/kreative) ![](https://img.shields.io/github/last-commit/katawful/kreative) ![](https://img.shields.io/github/commit-activity/y/katawful/kreative)
 
 ## Color Creation
 

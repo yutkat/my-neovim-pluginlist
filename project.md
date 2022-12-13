@@ -44,7 +44,6 @@
 - [MunifTanjim/exrc.nvim](https://github.com/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/exrc.nvim)
 - [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
 - [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) ![](https://img.shields.io/github/stars/kndndrj/nvim-projector) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-projector) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-projector)
-- [lpoto/workspace.nvim](https://github.com/lpoto/workspace.nvim) ![](https://img.shields.io/github/stars/lpoto/workspace.nvim) ![](https://img.shields.io/github/last-commit/lpoto/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/workspace.nvim)
 - [guigui64/local.nvim](https://github.com/guigui64/local.nvim) ![](https://img.shields.io/github/stars/guigui64/local.nvim) ![](https://img.shields.io/github/last-commit/guigui64/local.nvim) ![](https://img.shields.io/github/commit-activity/y/guigui64/local.nvim)
 
 #### Config switcher
