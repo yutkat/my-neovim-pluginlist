@@ -52,6 +52,7 @@
       - [Twitch](#twitch)
       - [Spotify](#spotify)
       - [StackOverflow](#stackoverflow)
+      - [OpenAI](#openai)
       - [GitLab](#gitlab)
       - [compiler-explorer](#compiler-explorer)
       - [prefix.cc](#prefixcc)
@@ -280,6 +281,11 @@
 #### StackOverflow
 
 - [jackMort/so.nvim](https://github.com/jackMort/so.nvim) ![](https://img.shields.io/github/stars/jackMort/so.nvim) ![](https://img.shields.io/github/last-commit/jackMort/so.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/so.nvim)
+
+#### OpenAI
+
+- [karintomania/nvim-ai-chat](https://github.com/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/stars/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/last-commit/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/commit-activity/y/karintomania/nvim-ai-chat)
+- [aduros/ai.vim](https://github.com/aduros/ai.vim) ![](https://img.shields.io/github/stars/aduros/ai.vim) ![](https://img.shields.io/github/last-commit/aduros/ai.vim) ![](https://img.shields.io/github/commit-activity/y/aduros/ai.vim)
 
 #### GitLab
 
