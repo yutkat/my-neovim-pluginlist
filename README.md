@@ -773,6 +773,7 @@
 
 - [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/stars/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/last-commit/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/PlatyPew/format-installer.nvim)
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/stars/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/last-commit/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/editorconfig.nvim)
+- [emileferreira/nvim-strict](https://github.com/emileferreira/nvim-strict) ![](https://img.shields.io/github/stars/emileferreira/nvim-strict) ![](https://img.shields.io/github/last-commit/emileferreira/nvim-strict) ![](https://img.shields.io/github/commit-activity/y/emileferreira/nvim-strict)
 
 #### Formatter
 
@@ -792,6 +793,7 @@
 - [johnfrankmorgan/whitespace.nvim](https://github.com/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/stars/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/last-commit/johnfrankmorgan/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/johnfrankmorgan/whitespace.nvim)
 - [zakharykaplan/nvim-retrail](https://github.com/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/stars/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/last-commit/zakharykaplan/nvim-retrail) ![](https://img.shields.io/github/commit-activity/y/zakharykaplan/nvim-retrail)
 - [echasnovski/mini.trailspace](https://github.com/echasnovski/mini.trailspace) ![](https://img.shields.io/github/stars/echasnovski/mini.trailspace) ![](https://img.shields.io/github/last-commit/echasnovski/mini.trailspace) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.trailspace)
+- [saccarosium/nvim-whitespaces](https://github.com/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/stars/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/last-commit/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/commit-activity/y/saccarosium/nvim-whitespaces)
 
 ### Lint
 
