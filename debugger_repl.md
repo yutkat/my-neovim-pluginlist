@@ -33,6 +33,7 @@
 - [suketa/nvim-dap-ruby](https://github.com/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/stars/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/last-commit/suketa/nvim-dap-ruby) ![](https://img.shields.io/github/commit-activity/y/suketa/nvim-dap-ruby)
 - [LiadOz/meta-breakpoints.nvim](https://github.com/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/stars/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/LiadOz/meta-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/LiadOz/meta-breakpoints.nvim)
 - [csterlent/dap-hot-config.nvim](https://github.com/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/stars/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/last-commit/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/commit-activity/y/csterlent/dap-hot-config.nvim)
+- [chunleng/nvim-dap-kitty-launcher](https://github.com/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/stars/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/last-commit/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/commit-activity/y/chunleng/nvim-dap-kitty-launcher)
 
 ### REPL
 
