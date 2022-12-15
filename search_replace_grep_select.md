@@ -75,4 +75,3 @@
 ## Incremental selection
 
 - [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
-- [haolian9/lingboweibu.nvim](https://github.com/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/stars/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/last-commit/haolian9/lingboweibu.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/lingboweibu.nvim)
