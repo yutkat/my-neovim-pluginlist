@@ -18,6 +18,7 @@
       - [Sphinx](#sphinx)
       - [Swagger](#swagger)
       - [gnome](#gnome)
+      - [BQN](#bqn)
       - [Skeleton](#skeleton)
     - [Shell](#shell)
       - [zsh](#zsh)
@@ -60,6 +61,8 @@
       - [TabNews](#tabnews)
   - [Password Manager](#password-manager)
     - [IME](#ime)
+      - [Fcitx](#fcitx)
+      - [SKK](#skk)
     - [Battery](#battery)
     - [Audio](#audio)
       - [SuperCollider](#supercollider)
@@ -151,6 +154,10 @@
 #### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+#### BQN
+
+- [calebowens/nvim-bqn](https://github.com/calebowens/nvim-bqn) ![](https://img.shields.io/github/stars/calebowens/nvim-bqn) ![](https://img.shields.io/github/last-commit/calebowens/nvim-bqn) ![](https://img.shields.io/github/commit-activity/y/calebowens/nvim-bqn)
 
 #### Skeleton
 
@@ -317,19 +324,26 @@
 
 ### IME
 
-- [tonyfettes/fcitx5.nvim](https://github.com/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/stars/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/fcitx5.nvim)
-- [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
-- [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [nitomoki/JPmode.nvim](https://github.com/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/stars/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/last-commit/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/commit-activity/y/nitomoki/JPmode.nvim)
-- [alohaia/fcitx.nvim](https://github.com/alohaia/fcitx.nvim) ![](https://img.shields.io/github/stars/alohaia/fcitx.nvim) ![](https://img.shields.io/github/last-commit/alohaia/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/alohaia/fcitx.nvim)
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ![](https://img.shields.io/github/stars/keaising/im-select.nvim) ![](https://img.shields.io/github/last-commit/keaising/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/im-select.nvim)
 - [uga-rosa/japanese-ime.nvim](https://github.com/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/stars/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/japanese-ime.nvim)
-- [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
 - [haolian9/normalascii.nvim](https://github.com/haolian9/normalascii.nvim) ![](https://img.shields.io/github/stars/haolian9/normalascii.nvim) ![](https://img.shields.io/github/last-commit/haolian9/normalascii.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/normalascii.nvim)
 - [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
-- [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 - [wingforth/nvim-im-select](https://github.com/wingforth/nvim-im-select) ![](https://img.shields.io/github/stars/wingforth/nvim-im-select) ![](https://img.shields.io/github/last-commit/wingforth/nvim-im-select) ![](https://img.shields.io/github/commit-activity/y/wingforth/nvim-im-select)
 - [fengwk/im-switch.nvim](https://github.com/fengwk/im-switch.nvim) ![](https://img.shields.io/github/stars/fengwk/im-switch.nvim) ![](https://img.shields.io/github/last-commit/fengwk/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/fengwk/im-switch.nvim)
+
+#### Fcitx
+
+- [tonyfettes/fcitx5.nvim](https://github.com/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/stars/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/fcitx5.nvim)
+- [alohaia/fcitx.nvim](https://github.com/alohaia/fcitx.nvim) ![](https://img.shields.io/github/stars/alohaia/fcitx.nvim) ![](https://img.shields.io/github/last-commit/alohaia/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/alohaia/fcitx.nvim)
+- [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
+- [pysan3/fcitx5.nvim](https://github.com/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/stars/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/pysan3/fcitx5.nvim)
+
+#### SKK
+
+- [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
+- [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
+- [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 
 ### Battery
 
