@@ -565,6 +565,7 @@
 ### Undo
 
 - [haolian9/redostr.nvim](https://github.com/haolian9/redostr.nvim) ![](https://img.shields.io/github/stars/haolian9/redostr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/redostr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/redostr.nvim)
+- [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/stars/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/last-commit/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/debugloop/telescope-undo.nvim)
 
 ### Diff
 
@@ -664,6 +665,7 @@
 - [gabrielpoca/replacer.nvim](https://github.com/gabrielpoca/replacer.nvim) ![](https://img.shields.io/github/stars/gabrielpoca/replacer.nvim) ![](https://img.shields.io/github/last-commit/gabrielpoca/replacer.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielpoca/replacer.nvim)
 - [ten3roberts/qf.nvim](https://github.com/ten3roberts/qf.nvim) ![](https://img.shields.io/github/stars/ten3roberts/qf.nvim) ![](https://img.shields.io/github/last-commit/ten3roberts/qf.nvim) ![](https://img.shields.io/github/commit-activity/y/ten3roberts/qf.nvim)
 - [quocnho/nvim-pqf](https://github.com/quocnho/nvim-pqf) ![](https://img.shields.io/github/stars/quocnho/nvim-pqf) ![](https://img.shields.io/github/last-commit/quocnho/nvim-pqf) ![](https://img.shields.io/github/commit-activity/y/quocnho/nvim-pqf)
+- [delphinus/qfheight.nvim](https://github.com/delphinus/qfheight.nvim) ![](https://img.shields.io/github/stars/delphinus/qfheight.nvim) ![](https://img.shields.io/github/last-commit/delphinus/qfheight.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/qfheight.nvim)
 
 ### cd(change directory)
 
