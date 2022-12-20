@@ -19,6 +19,7 @@
 - [TimotheeSai/git-sessions.nvim](https://github.com/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/stars/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/last-commit/TimotheeSai/git-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/TimotheeSai/git-sessions.nvim)
 - [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/stars/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/last-commit/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/commit-activity/y/EricDriussi/remember-me.nvim)
 - [distek/session-tabs.nvim](https://github.com/distek/session-tabs.nvim) ![](https://img.shields.io/github/stars/distek/session-tabs.nvim) ![](https://img.shields.io/github/last-commit/distek/session-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/session-tabs.nvim)
+- [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) ![](https://img.shields.io/github/stars/nyngwang/suave.lua) ![](https://img.shields.io/github/last-commit/nyngwang/suave.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/suave.lua)
 
 ## Session Selector
 
