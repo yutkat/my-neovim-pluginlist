@@ -48,6 +48,7 @@
     - [Brackets](#brackets)
       - [Auto insert](#auto-insert)
       - [Auto insert pairs](#auto-insert-pairs)
+        - [endwise](#endwise)
       - [Auto insert semicolon](#auto-insert-semicolon)
       - [Auto convert](#auto-convert)
       - [matchparen](#matchparen)
@@ -393,6 +394,10 @@
 - [conch2/neoautoTools.nvim](https://github.com/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/stars/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/last-commit/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/commit-activity/y/conch2/neoautoTools.nvim)
 - [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) ![](https://img.shields.io/github/stars/echasnovski/mini.pairs) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pairs)
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
+
+##### endwise
+
+- [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
 
 #### Auto insert semicolon
 
