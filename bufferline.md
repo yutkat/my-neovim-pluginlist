@@ -6,6 +6,7 @@
 # Bufferline
 
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) ![](https://img.shields.io/github/stars/akinsho/bufferline.nvim) ![](https://img.shields.io/github/last-commit/akinsho/bufferline.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/bufferline.nvim)
+  - [roobert/bufferline-cycle-windowless.nvim](https://github.com/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/stars/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/last-commit/roobert/bufferline-cycle-windowless.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/bufferline-cycle-windowless.nvim)
 - [stevearc/three.nvim](https://github.com/stevearc/three.nvim) ![](https://img.shields.io/github/stars/stevearc/three.nvim) ![](https://img.shields.io/github/last-commit/stevearc/three.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/three.nvim)
 - [romgrk/barbar.nvim](https://github.com/romgrk/barbar.nvim) ![](https://img.shields.io/github/stars/romgrk/barbar.nvim) ![](https://img.shields.io/github/last-commit/romgrk/barbar.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/barbar.nvim)
 - [crispgm/nvim-tabline](https://github.com/crispgm/nvim-tabline) ![](https://img.shields.io/github/stars/crispgm/nvim-tabline) ![](https://img.shields.io/github/last-commit/crispgm/nvim-tabline) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-tabline)
