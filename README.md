@@ -457,6 +457,7 @@
 - [theHamsta/crazy-node-movement](https://github.com/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/stars/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/last-commit/theHamsta/crazy-node-movement) ![](https://img.shields.io/github/commit-activity/y/theHamsta/crazy-node-movement)
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-spooky.nvim)
 - [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) ![](https://img.shields.io/github/stars/echasnovski/mini.ai) ![](https://img.shields.io/github/last-commit/echasnovski/mini.ai) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.ai)
+- [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-various-textobjs)
 
 #### Unit
 
