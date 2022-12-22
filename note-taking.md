@@ -63,6 +63,7 @@
 ## Obsidian
 
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/stars/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/obsidian.nvim)
+- [frroossst/dragonglass.nvim](https://github.com/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/stars/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/last-commit/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/commit-activity/y/frroossst/dragonglass.nvim)
 
 ## Google Keep
 
