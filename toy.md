@@ -6,6 +6,7 @@
   - [Image](#image)
   - [Game](#game)
     - [Typing](#typing)
+  - [Gesture](#gesture)
   - [Weather](#weather)
   - [Study](#study)
   - [Music](#music)
@@ -32,6 +33,10 @@
 #### Typing
 
 - [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
+
+## Gesture
+
+- [kiyoon/nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/stars/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/last-commit/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/commit-activity/y/kiyoon/nvim-hand-gesture)
 
 ## Weather
 
