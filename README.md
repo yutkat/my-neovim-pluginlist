@@ -156,6 +156,7 @@
       - [Zen Mode](#zen-mode)
     - [Security](#security)
     - [Hex Editor](#hex-editor)
+    - [Mail](#mail)
     - [Presentation](#presentation)
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
@@ -945,6 +946,10 @@
 ### Hex Editor
 
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
+
+### Mail
+
+- [martineausimon/nvim-mail-merge](https://github.com/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/stars/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-mail-merge)
 
 ### Presentation
 
