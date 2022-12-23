@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Image](#image)
     - [Image Viewer](#image-viewer)
+    - [Image Paste](#image-paste)
     - [Image Uploader](#image-uploader)
     - [Screenshot](#screenshot)
       - [Silicon](#silicon)
@@ -19,6 +20,10 @@
 - [samodostal/image.nvim](https://github.com/samodostal/image.nvim) ![](https://img.shields.io/github/stars/samodostal/image.nvim) ![](https://img.shields.io/github/last-commit/samodostal/image.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/image.nvim)
 - [glepnir/dashboard-imageview](https://github.com/glepnir/dashboard-imageview) ![](https://img.shields.io/github/stars/glepnir/dashboard-imageview) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-imageview) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-imageview)
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/stars/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/image_preview.nvim)
+
+### Image Paste
+
+- [koga1020/pngpaste.nvim](https://github.com/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/stars/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/last-commit/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/commit-activity/y/koga1020/pngpaste.nvim)
 
 ### Image Uploader
 

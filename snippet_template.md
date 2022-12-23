@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Snippet](#snippet)
-      - [Snippet definitions](#snippet-definitions)
-      - [Snippet converter](#snippet-converter)
-      - [Snippet view](#snippet-view)
-    - [Template](#template)
+  - [Snippet](#snippet)
+    - [Snippet definitions](#snippet-definitions)
+    - [Snippet converter](#snippet-converter)
+    - [Snippet view](#snippet-view)
+  - [Template](#template)
 
 ### Snippet
 
@@ -16,6 +16,7 @@
 #### Snippet definitions
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
+- [madskjeldgaard/cheeky-snippets.nvim](https://github.com/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/cheeky-snippets.nvim)
 
 #### Snippet converter
 
