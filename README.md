@@ -537,6 +537,7 @@
 
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/numbers.nvim)
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
+- [hermitmaster/numbertoggle.nvim](https://github.com/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/stars/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/last-commit/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/hermitmaster/numbertoggle.nvim)
 
 ### Cursor location
 
@@ -606,6 +607,7 @@
 - [vzze/calculator.nvim](https://github.com/vzze/calculator.nvim) ![](https://img.shields.io/github/stars/vzze/calculator.nvim) ![](https://img.shields.io/github/last-commit/vzze/calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/calculator.nvim)
 - [rapan931/dentaku.nvim](https://github.com/rapan931/dentaku.nvim) ![](https://img.shields.io/github/stars/rapan931/dentaku.nvim) ![](https://img.shields.io/github/last-commit/rapan931/dentaku.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/dentaku.nvim)
 - [trmckay/based.nvim](https://github.com/trmckay/based.nvim) ![](https://img.shields.io/github/stars/trmckay/based.nvim) ![](https://img.shields.io/github/last-commit/trmckay/based.nvim) ![](https://img.shields.io/github/commit-activity/y/trmckay/based.nvim)
+- [Apeiros-46B/qalc.nvim](https://github.com/Apeiros-46B/qalc.nvim) ![](https://img.shields.io/github/stars/Apeiros-46B/qalc.nvim) ![](https://img.shields.io/github/last-commit/Apeiros-46B/qalc.nvim) ![](https://img.shields.io/github/commit-activity/y/Apeiros-46B/qalc.nvim)
 
 ### Command
 
@@ -925,6 +927,7 @@
 - [jouderianjr/pomodoro.nvim](https://github.com/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/stars/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/jouderianjr/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/jouderianjr/pomodoro.nvim)
 - [kaepa3/timer.nvim](https://github.com/kaepa3/timer.nvim) ![](https://img.shields.io/github/stars/kaepa3/timer.nvim) ![](https://img.shields.io/github/last-commit/kaepa3/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/kaepa3/timer.nvim)
 - [cmpadden/pomodoro.nvim](https://github.com/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/stars/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/pomodoro.nvim)
+- [cbrgm/countdown.nvim](https://github.com/cbrgm/countdown.nvim) ![](https://img.shields.io/github/stars/cbrgm/countdown.nvim) ![](https://img.shields.io/github/last-commit/cbrgm/countdown.nvim) ![](https://img.shields.io/github/commit-activity/y/cbrgm/countdown.nvim)
 
 #### Do Not Disturb
 
