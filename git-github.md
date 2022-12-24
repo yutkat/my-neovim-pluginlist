@@ -61,6 +61,7 @@
 - [braxtons12/blame_line.nvim](https://github.com/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/stars/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/last-commit/braxtons12/blame_line.nvim) ![](https://img.shields.io/github/commit-activity/y/braxtons12/blame_line.nvim)
 - [shavelskiy/git-blame.nvim](https://github.com/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/stars/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/last-commit/shavelskiy/git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/shavelskiy/git-blame.nvim)
 - [EmilOhlsson/contributors.nvim](https://github.com/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/contributors.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/contributors.nvim)
+- [Morozzzko/git-browse-nvim](https://github.com/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/stars/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/last-commit/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/commit-activity/y/Morozzzko/git-browse-nvim)
 
 ## git log
 
