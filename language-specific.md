@@ -104,6 +104,10 @@
 
 - [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
 
+### Hurl
+
+- [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
+
 ### Graphql
 
 - [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
