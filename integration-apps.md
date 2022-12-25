@@ -71,6 +71,7 @@
     - [Robot](#robot)
       - [ROS](#ros)
       - [LEGO](#lego)
+    - [Keyboard](#keyboard)
     - [Embedded Software](#embedded-software)
 
 ## Integration with other apps
@@ -375,6 +376,10 @@
 #### LEGO
 
 - [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
+
+### Keyboard
+
+- [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 
 ### Embedded Software
 
