@@ -669,6 +669,7 @@
 
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/commit-activity/y/0styx0/abbreinder.nvim)
 - [Pocco81/AbbrevMan.nvim](https://github.com/Pocco81/AbbrevMan.nvim) ![](https://img.shields.io/github/stars/Pocco81/AbbrevMan.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/AbbrevMan.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/AbbrevMan.nvim)
+- [Mateiadrielrafael/scrap.nvim](https://github.com/Mateiadrielrafael/scrap.nvim) ![](https://img.shields.io/github/stars/Mateiadrielrafael/scrap.nvim) ![](https://img.shields.io/github/last-commit/Mateiadrielrafael/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/Mateiadrielrafael/scrap.nvim)
 
 ### Quickfix
 
