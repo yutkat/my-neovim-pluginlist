@@ -28,6 +28,7 @@
       - [perf](#perf)
       - [dotnet](#dotnet)
       - [ctags](#ctags)
+      - [cheat.sh](#cheatsh)
       - [papis](#papis)
       - [Zeal](#zeal)
       - [Snyk Code](#snyk-code)
@@ -194,6 +195,10 @@
 
 - [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
 
+#### cheat.sh
+
+- [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
+
 #### papis
 
 - [jghauser/papis.nvim](https://github.com/jghauser/papis.nvim) ![](https://img.shields.io/github/stars/jghauser/papis.nvim) ![](https://img.shields.io/github/last-commit/jghauser/papis.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/papis.nvim)
@@ -298,6 +303,7 @@
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) ![](https://img.shields.io/github/stars/aduros/ai.vim) ![](https://img.shields.io/github/last-commit/aduros/ai.vim) ![](https://img.shields.io/github/commit-activity/y/aduros/ai.vim)
 - [naps62/pair-gpt.nvim](https://github.com/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/stars/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/last-commit/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/naps62/pair-gpt.nvim)
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
+- [dense-analysis/neural](https://github.com/dense-analysis/neural) ![](https://img.shields.io/github/stars/dense-analysis/neural) ![](https://img.shields.io/github/last-commit/dense-analysis/neural) ![](https://img.shields.io/github/commit-activity/y/dense-analysis/neural)
 
 #### Otter
 

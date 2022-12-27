@@ -275,6 +275,7 @@
 ### Lisp
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
+- [monkoose/nvlime](https://github.com/monkoose/nvlime) ![](https://img.shields.io/github/stars/monkoose/nvlime) ![](https://img.shields.io/github/last-commit/monkoose/nvlime) ![](https://img.shields.io/github/commit-activity/y/monkoose/nvlime)
 
 ### F #
 

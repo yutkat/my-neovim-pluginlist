@@ -163,6 +163,7 @@
     - [Font](#font)
     - [Keyboard Layout](#keyboard-layout)
   - [Util pack](#util-pack)
+  - [Patch](#patch)
   - [Integration with other apps](#integration-with-other-apps)
   - [Language specific](#language-specific)
   - [Documentation](#documentation)
@@ -987,6 +988,10 @@
 - [tamton-aquib/essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/essentials.nvim)
 - [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/stuff.nvim)
 - [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) ![](https://img.shields.io/github/stars/echasnovski/mini.misc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.misc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.misc)
+
+## Patch
+
+- [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/deferred-clipboard.nvim)
 
 ## [Integration with other apps](./integration-apps.md)
 
