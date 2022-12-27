@@ -74,6 +74,7 @@
       - [LEGO](#lego)
     - [Keyboard](#keyboard)
     - [Embedded Software](#embedded-software)
+      - [Arduino](#arduino)
 
 ## Integration with other apps
 
@@ -390,3 +391,7 @@
 ### Embedded Software
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
+
+#### Arduino
+
+- [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)

@@ -2,8 +2,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Statusline](#statusline)
-    - [Simple](#simple)
-    - [Special Features](#special-features)
+  - [Simple](#simple)
+  - [Special Features](#special-features)
   - [Statusline component](#statusline-component)
 
 # Statusline
@@ -33,6 +33,7 @@
 - [amirrezaask/nline.nvim](https://github.com/amirrezaask/nline.nvim) ![](https://img.shields.io/github/stars/amirrezaask/nline.nvim) ![](https://img.shields.io/github/last-commit/amirrezaask/nline.nvim) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/nline.nvim)
 - [RRethy/nvim-hotline](https://github.com/RRethy/nvim-hotline) ![](https://img.shields.io/github/stars/RRethy/nvim-hotline) ![](https://img.shields.io/github/last-commit/RRethy/nvim-hotline) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-hotline)
 - [hn275/simpleline.nvim](https://github.com/hn275/simpleline.nvim) ![](https://img.shields.io/github/stars/hn275/simpleline.nvim) ![](https://img.shields.io/github/last-commit/hn275/simpleline.nvim) ![](https://img.shields.io/github/commit-activity/y/hn275/simpleline.nvim)
+- [austinliuigi/bartender.nvim](https://github.com/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/stars/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/bartender.nvim)
 
 ### Special Features
 

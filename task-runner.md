@@ -43,6 +43,7 @@
 - [idanarye/nvim-moonicipal](https://github.com/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/stars/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/last-commit/idanarye/nvim-moonicipal) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-moonicipal)
 - [lpoto/actions.nvim](https://github.com/lpoto/actions.nvim) ![](https://img.shields.io/github/stars/lpoto/actions.nvim) ![](https://img.shields.io/github/last-commit/lpoto/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/actions.nvim)
 - [LucasTavaresA/command.nvim](https://github.com/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/command.nvim)
+- [4542elgh/telescope-scratch-run.nvim](https://github.com/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-scratch-run.nvim)
 
 ### Shell
 
