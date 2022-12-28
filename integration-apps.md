@@ -57,6 +57,7 @@
       - [OpenAI](#openai)
       - [Otter](#otter)
       - [GitLab](#gitlab)
+      - [Trello](#trello)
       - [compiler-explorer](#compiler-explorer)
       - [prefix.cc](#prefixcc)
       - [haste](#haste)
@@ -313,6 +314,10 @@
 #### GitLab
 
 - [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
+
+#### Trello
+
+- [roncallyt/vrello.nvim](https://github.com/roncallyt/vrello.nvim) ![](https://img.shields.io/github/stars/roncallyt/vrello.nvim) ![](https://img.shields.io/github/last-commit/roncallyt/vrello.nvim) ![](https://img.shields.io/github/commit-activity/y/roncallyt/vrello.nvim)
 
 #### compiler-explorer
 
