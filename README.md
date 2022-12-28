@@ -622,6 +622,7 @@
 - [Mohammed-Taher/AdvancedNewFile.nvim](https://github.com/Mohammed-Taher/AdvancedNewFile.nvim) ![](https://img.shields.io/github/stars/Mohammed-Taher/AdvancedNewFile.nvim) ![](https://img.shields.io/github/last-commit/Mohammed-Taher/AdvancedNewFile.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohammed-Taher/AdvancedNewFile.nvim)
 - [nkhlmn/spectur.nvim](https://github.com/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/stars/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/last-commit/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/commit-activity/y/nkhlmn/spectur.nvim)
 - [njaczko/nvim-misc](https://github.com/njaczko/nvim-misc) ![](https://img.shields.io/github/stars/njaczko/nvim-misc) ![](https://img.shields.io/github/last-commit/njaczko/nvim-misc) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-misc)
+- [dchiluisac/comdrop.nvim](https://github.com/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/stars/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/last-commit/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/commit-activity/y/dchiluisac/comdrop.nvim)
 
 #### Redirect to scratch buffer
 
@@ -933,6 +934,7 @@
 - [kaepa3/timer.nvim](https://github.com/kaepa3/timer.nvim) ![](https://img.shields.io/github/stars/kaepa3/timer.nvim) ![](https://img.shields.io/github/last-commit/kaepa3/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/kaepa3/timer.nvim)
 - [cmpadden/pomodoro.nvim](https://github.com/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/stars/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/pomodoro.nvim)
 - [cbrgm/countdown.nvim](https://github.com/cbrgm/countdown.nvim) ![](https://img.shields.io/github/stars/cbrgm/countdown.nvim) ![](https://img.shields.io/github/last-commit/cbrgm/countdown.nvim) ![](https://img.shields.io/github/commit-activity/y/cbrgm/countdown.nvim)
+- [mrbru12/stopwatch.nvim](https://github.com/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/stars/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/last-commit/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrbru12/stopwatch.nvim)
 
 #### Do Not Disturb
 
