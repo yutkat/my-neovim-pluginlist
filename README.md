@@ -258,6 +258,7 @@
 #### Syntax
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
+- [caosistema/nvim-spotlight](https://github.com/caosistema/nvim-spotlight) ![](https://img.shields.io/github/stars/caosistema/nvim-spotlight) ![](https://img.shields.io/github/last-commit/caosistema/nvim-spotlight) ![](https://img.shields.io/github/commit-activity/y/caosistema/nvim-spotlight)
 
 #### Colorizer
 
@@ -977,6 +978,7 @@
 - [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
 - [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
 - [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
+- [allvpv/resize-font.nvim](https://github.com/allvpv/resize-font.nvim) ![](https://img.shields.io/github/stars/allvpv/resize-font.nvim) ![](https://img.shields.io/github/last-commit/allvpv/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/allvpv/resize-font.nvim)
 
 ### Keyboard Layout
 
