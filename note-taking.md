@@ -60,6 +60,7 @@
 - [Cartogy/todo.nvim](https://github.com/Cartogy/todo.nvim) ![](https://img.shields.io/github/stars/Cartogy/todo.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/todo.nvim)
 - [kperath/dailynotes.nvim](https://github.com/kperath/dailynotes.nvim) ![](https://img.shields.io/github/stars/kperath/dailynotes.nvim) ![](https://img.shields.io/github/last-commit/kperath/dailynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/kperath/dailynotes.nvim)
 - [psaikido/lifetrak.nvim](https://github.com/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/stars/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/last-commit/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/lifetrak.nvim)
+- [arakkkkk/marktodo.nvim](https://github.com/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/stars/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/marktodo.nvim)
 
 ## Obsidian
 

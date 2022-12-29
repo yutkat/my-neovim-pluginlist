@@ -5,7 +5,7 @@
   - [Joke](#joke)
   - [Image](#image)
   - [Game](#game)
-    - [Typing](#typing)
+      - [Typing](#typing)
   - [Gesture](#gesture)
   - [Weather](#weather)
   - [Study](#study)
@@ -57,6 +57,7 @@
 - [pogyomo/play.nvim](https://github.com/pogyomo/play.nvim) ![](https://img.shields.io/github/stars/pogyomo/play.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/play.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/play.nvim)
 - [whleucka/soprano.nvim](https://github.com/whleucka/soprano.nvim) ![](https://img.shields.io/github/stars/whleucka/soprano.nvim) ![](https://img.shields.io/github/last-commit/whleucka/soprano.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/soprano.nvim)
 - [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
+- [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
 
 ## Screen server
 
