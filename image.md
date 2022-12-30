@@ -20,6 +20,7 @@
 - [samodostal/image.nvim](https://github.com/samodostal/image.nvim) ![](https://img.shields.io/github/stars/samodostal/image.nvim) ![](https://img.shields.io/github/last-commit/samodostal/image.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/image.nvim)
 - [glepnir/dashboard-imageview](https://github.com/glepnir/dashboard-imageview) ![](https://img.shields.io/github/stars/glepnir/dashboard-imageview) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-imageview) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-imageview)
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/stars/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/image_preview.nvim)
+- [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) ![](https://img.shields.io/github/stars/princejoogie/chafa.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/chafa.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/chafa.nvim)
 
 ### Image Paste
 
@@ -32,6 +33,7 @@
 ### Screenshot
 
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
+- [mattydebie/scs.nvim](https://github.com/mattydebie/scs.nvim) ![](https://img.shields.io/github/stars/mattydebie/scs.nvim) ![](https://img.shields.io/github/last-commit/mattydebie/scs.nvim) ![](https://img.shields.io/github/commit-activity/y/mattydebie/scs.nvim)
 
 #### Silicon
 
