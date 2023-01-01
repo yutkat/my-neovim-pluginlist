@@ -53,6 +53,7 @@
 - [vigoux/architext.nvim](https://github.com/vigoux/architext.nvim) ![](https://img.shields.io/github/stars/vigoux/architext.nvim) ![](https://img.shields.io/github/last-commit/vigoux/architext.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/architext.nvim)
 - [Blackmorse/buffersed.nvim](https://github.com/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/stars/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/last-commit/Blackmorse/buffersed.nvim) ![](https://img.shields.io/github/commit-activity/y/Blackmorse/buffersed.nvim)
 - [ray-x/sad.nvim](https://github.com/ray-x/sad.nvim) ![](https://img.shields.io/github/stars/ray-x/sad.nvim) ![](https://img.shields.io/github/last-commit/ray-x/sad.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/sad.nvim)
+- [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) ![](https://img.shields.io/github/stars/roobert/search-replace.nvim) ![](https://img.shields.io/github/last-commit/roobert/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/search-replace.nvim)
 
 # Grep
 
