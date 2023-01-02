@@ -1,12 +1,12 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Comment out](#comment-out)
-      - [CommentString](#commentstring)
-      - [Comment Header](#comment-header)
-    - [Todo Comment Highlight](#todo-comment-highlight)
-    - [Special Comment](#special-comment)
-      - [Annotation](#annotation)
+  - [Comment out](#comment-out)
+    - [CommentString](#commentstring)
+    - [Comment Header](#comment-header)
+  - [Todo Comment Highlight](#todo-comment-highlight)
+  - [Special Comment](#special-comment)
+    - [Annotation](#annotation)
 
 ### Comment out
 
@@ -30,6 +30,7 @@
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/stars/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/last-commit/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/commit-activity/y/LudoPinelli/comment-box.nvim)
 - [The-Repo-Club/header.nvim](https://github.com/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/stars/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/last-commit/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Repo-Club/header.nvim)
 - [abecodes/headache.nvim](https://github.com/abecodes/headache.nvim) ![](https://img.shields.io/github/stars/abecodes/headache.nvim) ![](https://img.shields.io/github/last-commit/abecodes/headache.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/headache.nvim)
+- [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/stars/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/last-commit/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/commit-activity/y/VincentBerthier/auto-header.nvim)
 
 ### Todo Comment Highlight
 
