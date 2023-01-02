@@ -11,6 +11,7 @@
     - [CSS](#css)
     - [HTTP](#http)
     - [REST](#rest)
+    - [Hurl](#hurl)
     - [Graphql](#graphql)
       - [tailwind](#tailwind)
     - [React](#react)
@@ -36,6 +37,7 @@
     - [Elixir](#elixir)
     - [Haskell](#haskell)
     - [Lisp](#lisp)
+    - [Nushell](#nushell)
     - [F #](#f-)
     - [Cairo](#cairo)
     - [Agda](#agda)
@@ -69,6 +71,7 @@
 - [blevantovych/printer.nvim](https://github.com/blevantovych/printer.nvim) ![](https://img.shields.io/github/stars/blevantovych/printer.nvim) ![](https://img.shields.io/github/last-commit/blevantovych/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/blevantovych/printer.nvim)
 - [yioneko/nvim-vtsls](https://github.com/yioneko/nvim-vtsls) ![](https://img.shields.io/github/stars/yioneko/nvim-vtsls) ![](https://img.shields.io/github/last-commit/yioneko/nvim-vtsls) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-vtsls)
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/stars/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/last-commit/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/commit-activity/y/marilari88/twoslash-queries.nvim)
+- [barrett-ruth/import-cost.nvim](https://github.com/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/import-cost.nvim)
 
 #### Formatter
 
@@ -276,6 +279,10 @@
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 - [monkoose/nvlime](https://github.com/monkoose/nvlime) ![](https://img.shields.io/github/stars/monkoose/nvlime) ![](https://img.shields.io/github/last-commit/monkoose/nvlime) ![](https://img.shields.io/github/commit-activity/y/monkoose/nvlime)
+
+### Nushell
+
+- [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) ![](https://img.shields.io/github/stars/LhKipp/nvim-nu) ![](https://img.shields.io/github/last-commit/LhKipp/nvim-nu) ![](https://img.shields.io/github/commit-activity/y/LhKipp/nvim-nu)
 
 ### F #
 
