@@ -24,6 +24,8 @@
 - [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
 - [lostl1ght/nvim-lf](https://github.com/lostl1ght/nvim-lf) ![](https://img.shields.io/github/stars/lostl1ght/nvim-lf) ![](https://img.shields.io/github/last-commit/lostl1ght/nvim-lf) ![](https://img.shields.io/github/commit-activity/y/lostl1ght/nvim-lf)
 - [lambda-larry/vim-vinegar.nvim](https://github.com/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/stars/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/last-commit/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/commit-activity/y/lambda-larry/vim-vinegar.nvim)
+- [dinhhuy258/sfm.nvim](https://github.com/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm.nvim)
+  - [dinhhuy258/sfm-filter.nvim](https://github.com/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-filter.nvim)
 
 ## Simple
 

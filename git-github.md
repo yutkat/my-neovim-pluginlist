@@ -5,6 +5,7 @@
   - [git clone](#git-clone)
   - [git status](#git-status)
   - [git commit](#git-commit)
+    - [co authored](#co-authored)
   - [git blame](#git-blame)
   - [git log](#git-log)
   - [git lens](#git-lens)
@@ -53,6 +54,10 @@
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/stars/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/last-commit/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/commit-activity/y/gbprod/tree-sitter-gitcommit)
 - [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
 
+### co authored
+
+- [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
+
 ## git blame
 
 - [f-person/git-blame.nvim](https://github.com/f-person/git-blame.nvim) ![](https://img.shields.io/github/stars/f-person/git-blame.nvim) ![](https://img.shields.io/github/last-commit/f-person/git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/git-blame.nvim)
@@ -76,6 +81,7 @@
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) ![](https://img.shields.io/github/stars/sindrets/diffview.nvim) ![](https://img.shields.io/github/last-commit/sindrets/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/diffview.nvim)
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/stars/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/diff-therapy.nvim)
 - [milennik/gitdiff.nvim](https://github.com/milennik/gitdiff.nvim) ![](https://img.shields.io/github/stars/milennik/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/milennik/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/milennik/gitdiff.nvim)
+- [paopaol/telescope-git-diffs.nvim](https://github.com/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/stars/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/last-commit/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/paopaol/telescope-git-diffs.nvim)
 
 ## git conflict
 

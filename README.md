@@ -570,6 +570,7 @@
 - [lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/stars/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/last-commit/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/lifer0se/ezbookmarks.nvim)
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) ![](https://img.shields.io/github/stars/crusj/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/crusj/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/bookmarks.nvim)
 - [jonarrien/bookmarks.nvim](https://github.com/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/stars/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/bookmarks.nvim)
+- [dinhhuy258/sfm-bookmark.nvim](https://github.com/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-bookmark.nvim)
 
 #### etc
 
@@ -952,6 +953,7 @@
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [woosaaahh/zenith.nvim](https://github.com/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/stars/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/zenith.nvim)
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/stars/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/last-commit/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/commit-activity/y/shortcuts/no-neck-pain.nvim)
+- [shanytc/blindvim.nvim](https://github.com/shanytc/blindvim.nvim) ![](https://img.shields.io/github/stars/shanytc/blindvim.nvim) ![](https://img.shields.io/github/last-commit/shanytc/blindvim.nvim) ![](https://img.shields.io/github/commit-activity/y/shanytc/blindvim.nvim)
 
 ### Security
 
