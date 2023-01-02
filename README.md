@@ -278,6 +278,7 @@
 - [raddari/last-color.nvim](https://github.com/raddari/last-color.nvim) ![](https://img.shields.io/github/stars/raddari/last-color.nvim) ![](https://img.shields.io/github/last-commit/raddari/last-color.nvim) ![](https://img.shields.io/github/commit-activity/y/raddari/last-color.nvim)
 - [ksk0/nvim-fade-color](https://github.com/ksk0/nvim-fade-color) ![](https://img.shields.io/github/stars/ksk0/nvim-fade-color) ![](https://img.shields.io/github/last-commit/ksk0/nvim-fade-color) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-fade-color)
 - [eriedaberrie/colorscheme-file.nvim](https://github.com/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/stars/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/last-commit/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/commit-activity/y/eriedaberrie/colorscheme-file.nvim)
+- [AdrianETP/AutoColor.nvim](https://github.com/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/stars/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/last-commit/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianETP/AutoColor.nvim)
 
 #### Color name
 
@@ -385,6 +386,7 @@
 
 - [njaczko/nvim-dummy-text](https://github.com/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/stars/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/last-commit/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-dummy-text)
 - [bwintertkb/enclose_nav.nvim](https://github.com/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/stars/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/last-commit/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/bwintertkb/enclose_nav.nvim)
+- [AntonVanAssche/date-time-inserter.nvim](https://github.com/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/date-time-inserter.nvim)
 
 ### Brackets
 
