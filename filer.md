@@ -26,6 +26,7 @@
 - [lambda-larry/vim-vinegar.nvim](https://github.com/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/stars/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/last-commit/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/commit-activity/y/lambda-larry/vim-vinegar.nvim)
 - [dinhhuy258/sfm.nvim](https://github.com/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm.nvim)
   - [dinhhuy258/sfm-filter.nvim](https://github.com/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-filter.nvim)
+- [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) ![](https://img.shields.io/github/stars/stevearc/oil.nvim) ![](https://img.shields.io/github/last-commit/stevearc/oil.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/oil.nvim)
 
 ## Simple
 
