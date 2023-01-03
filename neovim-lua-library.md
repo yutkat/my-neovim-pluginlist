@@ -5,6 +5,7 @@
   - [Class](#class)
   - [Log](#log)
   - [async](#async)
+  - [Coroutine](#coroutine)
   - [UI](#ui)
     - [Notification](#notification)
     - [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
@@ -48,6 +49,10 @@
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) ![](https://img.shields.io/github/stars/kevinhwang91/promise-async) ![](https://img.shields.io/github/last-commit/kevinhwang91/promise-async) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/promise-async)
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) ![](https://img.shields.io/github/stars/lewis6991/async.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/async.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/async.nvim)
 - [ec965/async-uv.nvim](https://github.com/ec965/async-uv.nvim) ![](https://img.shields.io/github/stars/ec965/async-uv.nvim) ![](https://img.shields.io/github/last-commit/ec965/async-uv.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/async-uv.nvim)
+
+## Coroutine
+
+- [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ![](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![](https://img.shields.io/github/last-commit/idanarye/nvim-channelot) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-channelot)
 
 ## UI
 
