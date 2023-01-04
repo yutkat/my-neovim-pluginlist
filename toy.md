@@ -5,7 +5,7 @@
   - [Joke](#joke)
   - [Image](#image)
   - [Game](#game)
-      - [Typing](#typing)
+    - [Typing](#typing)
   - [Gesture](#gesture)
   - [Weather](#weather)
   - [Study](#study)
@@ -58,6 +58,7 @@
 - [whleucka/soprano.nvim](https://github.com/whleucka/soprano.nvim) ![](https://img.shields.io/github/stars/whleucka/soprano.nvim) ![](https://img.shields.io/github/last-commit/whleucka/soprano.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/soprano.nvim)
 - [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
 - [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
+- [4542elgh/telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-youtube-mpv.nvim)
 
 ## Screen server
 
