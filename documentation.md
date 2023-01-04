@@ -36,6 +36,7 @@
 #### Markdown header
 
 - [xorid/asciitree.nvim](https://github.com/xorid/asciitree.nvim) ![](https://img.shields.io/github/stars/xorid/asciitree.nvim) ![](https://img.shields.io/github/last-commit/xorid/asciitree.nvim) ![](https://img.shields.io/github/commit-activity/y/xorid/asciitree.nvim)
+- [AntonVanAssche/md-headers.nvim](https://github.com/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/md-headers.nvim)
 
 #### Markdown preview
 
