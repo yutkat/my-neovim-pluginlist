@@ -18,7 +18,7 @@
     - [winbar](#winbar)
     - [Highlight](#highlight)
     - [Window Separators](#window-separators)
-      - [Syntax](#syntax)
+    - [Syntax](#syntax)
       - [Colorizer](#colorizer)
       - [ANSI Colorize](#ansi-colorize)
       - [Colorscheme switcher](#colorscheme-switcher)
@@ -255,7 +255,7 @@
 
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/stars/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/last-commit/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-zh/colorful-winsep.nvim)
 
-#### Syntax
+### Syntax
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
 - [caosistema/nvim-spotlight](https://github.com/caosistema/nvim-spotlight) ![](https://img.shields.io/github/stars/caosistema/nvim-spotlight) ![](https://img.shields.io/github/last-commit/caosistema/nvim-spotlight) ![](https://img.shields.io/github/commit-activity/y/caosistema/nvim-spotlight)
@@ -279,6 +279,7 @@
 - [ksk0/nvim-fade-color](https://github.com/ksk0/nvim-fade-color) ![](https://img.shields.io/github/stars/ksk0/nvim-fade-color) ![](https://img.shields.io/github/last-commit/ksk0/nvim-fade-color) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-fade-color)
 - [eriedaberrie/colorscheme-file.nvim](https://github.com/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/stars/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/last-commit/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/commit-activity/y/eriedaberrie/colorscheme-file.nvim)
 - [AdrianETP/AutoColor.nvim](https://github.com/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/stars/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/last-commit/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianETP/AutoColor.nvim)
+- [lrangell/theme-cycler.nvim](https://github.com/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/stars/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/last-commit/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/lrangell/theme-cycler.nvim)
 
 #### Color name
 
