@@ -35,6 +35,7 @@
 - [csterlent/dap-hot-config.nvim](https://github.com/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/stars/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/last-commit/csterlent/dap-hot-config.nvim) ![](https://img.shields.io/github/commit-activity/y/csterlent/dap-hot-config.nvim)
 - [chunleng/nvim-dap-kitty-launcher](https://github.com/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/stars/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/last-commit/chunleng/nvim-dap-kitty-launcher) ![](https://img.shields.io/github/commit-activity/y/chunleng/nvim-dap-kitty-launcher)
 - [przepompownia/nvim-dap-tab](https://github.com/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/stars/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/last-commit/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/commit-activity/y/przepompownia/nvim-dap-tab)
+- [GitEdvard/read-settings.nvim](https://github.com/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/stars/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/read-settings.nvim)
 
 ### REPL
 
