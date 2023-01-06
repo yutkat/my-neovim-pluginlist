@@ -65,7 +65,6 @@
 - [wiliamks/nice-reference.nvim](https://github.com/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/stars/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/last-commit/wiliamks/nice-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/wiliamks/nice-reference.nvim)
 - [gbrlsnchs/telescope-lsp-handlers.nvim](https://github.com/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/stars/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/last-commit/gbrlsnchs/telescope-lsp-handlers.nvim) ![](https://img.shields.io/github/commit-activity/y/gbrlsnchs/telescope-lsp-handlers.nvim)
 - [edolphin-ydf/goimpl.nvim](https://github.com/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/stars/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/last-commit/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/edolphin-ydf/goimpl.nvim)
-- [shavelskiy/lsp-finder.nvim](https://github.com/shavelskiy/lsp-finder.nvim) ![](https://img.shields.io/github/stars/shavelskiy/lsp-finder.nvim) ![](https://img.shields.io/github/last-commit/shavelskiy/lsp-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/shavelskiy/lsp-finder.nvim)
 - [hrsh7th/nvim-gtd](https://github.com/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/stars/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-gtd)
 
 #### Code action
@@ -124,7 +123,7 @@
 - [junnplus/nvim-lsp-setup](https://github.com/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/stars/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/last-commit/junnplus/nvim-lsp-setup) ![](https://img.shields.io/github/commit-activity/y/junnplus/nvim-lsp-setup)
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/lsp-zero.nvim)
 - [phaazon/poesie.nvim](https://github.com/phaazon/poesie.nvim) ![](https://img.shields.io/github/stars/phaazon/poesie.nvim) ![](https://img.shields.io/github/last-commit/phaazon/poesie.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/poesie.nvim)
-- [nvim-lua/kickstart.nvim/](https://github.com/nvim-lua/kickstart.nvim/) ![](https://img.shields.io/github/stars/nvim-lua/kickstart.nvim/) ![](https://img.shields.io/github/last-commit/nvim-lua/kickstart.nvim/) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/kickstart.nvim/)
+- [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/stars/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/kickstart.nvim)
 
 ## Backwards Compatibility
 
