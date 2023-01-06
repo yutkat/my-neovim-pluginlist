@@ -520,7 +520,7 @@
 
 ### [Mapping](./mapping.md)
 
-### [Yank, Paste](./paste_yank.md)
+### [Yank, Paste](./yank_paste.md)
 
 ### Adding and subtracting
 
