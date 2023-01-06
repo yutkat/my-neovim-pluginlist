@@ -48,7 +48,6 @@
 - [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
 - [GnikDroy/mdpreview.nvim](https://github.com/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/stars/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/GnikDroy/mdpreview.nvim)
-- [Alighorab/markdown.nvim](https://github.com/Alighorab/markdown.nvim) ![](https://img.shields.io/github/stars/Alighorab/markdown.nvim) ![](https://img.shields.io/github/last-commit/Alighorab/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/Alighorab/markdown.nvim)
 
 #### Markdown code block
 
