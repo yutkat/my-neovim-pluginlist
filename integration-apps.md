@@ -17,6 +17,7 @@
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
       - [Swagger](#swagger)
+      - [endpoints.json](#endpointsjson)
       - [gnome](#gnome)
       - [BQN](#bqn)
       - [Skeleton](#skeleton)
@@ -155,6 +156,10 @@
 #### Swagger
 
 - [vinnymeller/swagger-preview.nvim](https://github.com/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/stars/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/vinnymeller/swagger-preview.nvim)
+
+#### endpoints.json
+
+- [tlj/endpoint-previewer.nvim](https://github.com/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/stars/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/last-commit/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/endpoint-previewer.nvim)
 
 #### gnome
 
