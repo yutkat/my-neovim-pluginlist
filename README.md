@@ -239,7 +239,6 @@
 
 - [utilyre/barbecue.nvim](https://github.com/utilyre/barbecue.nvim) ![](https://img.shields.io/github/stars/utilyre/barbecue.nvim) ![](https://img.shields.io/github/last-commit/utilyre/barbecue.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/barbecue.nvim)
 - [aktersnurra/minibar.nvim](https://github.com/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/stars/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/last-commit/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/commit-activity/y/aktersnurra/minibar.nvim)
-- [B4mbus/nvim-headband](https://github.com/B4mbus/nvim-headband) ![](https://img.shields.io/github/stars/B4mbus/nvim-headband) ![](https://img.shields.io/github/last-commit/B4mbus/nvim-headband) ![](https://img.shields.io/github/commit-activity/y/B4mbus/nvim-headband)
 - [Alighorab/winbar.nvim](https://github.com/Alighorab/winbar.nvim) ![](https://img.shields.io/github/stars/Alighorab/winbar.nvim) ![](https://img.shields.io/github/last-commit/Alighorab/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Alighorab/winbar.nvim)
 
 ### Highlight
