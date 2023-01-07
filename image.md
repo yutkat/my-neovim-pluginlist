@@ -25,6 +25,7 @@
 ### Image Paste
 
 - [koga1020/pngpaste.nvim](https://github.com/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/stars/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/last-commit/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/commit-activity/y/koga1020/pngpaste.nvim)
+- [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) ![](https://img.shields.io/github/stars/niuiic/cp-image.nvim) ![](https://img.shields.io/github/last-commit/niuiic/cp-image.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/cp-image.nvim)
 
 ### Image Uploader
 
