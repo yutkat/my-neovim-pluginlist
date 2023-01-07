@@ -427,6 +427,7 @@
 ### Convert Case
 
 - [monaqa/dial.nvim(dial-augends-case)](https://github.com/monaqa/dial.nvim) ![](https://img.shields.io/github/stars/monaqa/dial.nvim) ![](https://img.shields.io/github/last-commit/monaqa/dial.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/dial.nvim)
+- [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) ![](https://img.shields.io/github/stars/CKolkey/ts-node-action) ![](https://img.shields.io/github/last-commit/CKolkey/ts-node-action) ![](https://img.shields.io/github/commit-activity/y/CKolkey/ts-node-action)
 - [josa42/nvim-actions](https://github.com/josa42/nvim-actions) ![](https://img.shields.io/github/stars/josa42/nvim-actions) ![](https://img.shields.io/github/last-commit/josa42/nvim-actions) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-actions)
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) ![](https://img.shields.io/github/stars/johmsalas/text-case.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/text-case.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/text-case.nvim)
 - [nat-418/boole.nvim](https://github.com/nat-418/boole.nvim) ![](https://img.shields.io/github/stars/nat-418/boole.nvim) ![](https://img.shields.io/github/last-commit/nat-418/boole.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/boole.nvim)
