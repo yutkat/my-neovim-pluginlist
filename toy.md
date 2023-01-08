@@ -59,6 +59,7 @@
 - [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
 - [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
 - [4542elgh/telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-youtube-mpv.nvim)
+- [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
 
 ## Screen server
 
