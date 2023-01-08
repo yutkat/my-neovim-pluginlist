@@ -18,6 +18,7 @@
     - [Tex](#tex)
       - [BiBTex](#bibtex)
     - [Copyright](#copyright)
+    - [Quarto](#quarto)
 
 ## Documentation
 
@@ -119,3 +120,7 @@
 ### Copyright
 
 - [LittleMorph/copyright-updater.nvim](https://github.com/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/stars/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/last-commit/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleMorph/copyright-updater.nvim)
+
+### Quarto
+
+- [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/commit-activity/y/quarto-dev/quarto-nvim)
