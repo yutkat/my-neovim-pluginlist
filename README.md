@@ -244,6 +244,7 @@
 
 - [Pocco81/HighStr.nvim](https://github.com/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/stars/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/HighStr.nvim)
 - [mrjones2014/nvim-ts-rainbow](https://github.com/mrjones2014/nvim-ts-rainbow) ![](https://img.shields.io/github/stars/mrjones2014/nvim-ts-rainbow) ![](https://img.shields.io/github/last-commit/mrjones2014/nvim-ts-rainbow) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/nvim-ts-rainbow)
+- [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
 - [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
@@ -877,6 +878,7 @@
 - [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) ![](https://img.shields.io/github/stars/potamides/pantran.nvim) ![](https://img.shields.io/github/last-commit/potamides/pantran.nvim) ![](https://img.shields.io/github/commit-activity/y/potamides/pantran.nvim)
 - [gw31415/deepl-commands.nvim](https://github.com/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/stars/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/last-commit/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/deepl-commands.nvim)
 - [nvima/nvim-translator](https://github.com/nvima/nvim-translator) ![](https://img.shields.io/github/stars/nvima/nvim-translator) ![](https://img.shields.io/github/last-commit/nvima/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/nvima/nvim-translator)
+- [jalvesaq/dict.nvim](https://github.com/jalvesaq/dict.nvim) ![](https://img.shields.io/github/stars/jalvesaq/dict.nvim) ![](https://img.shields.io/github/last-commit/jalvesaq/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/jalvesaq/dict.nvim)
 
 ### Manual
 
