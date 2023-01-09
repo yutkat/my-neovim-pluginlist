@@ -343,6 +343,7 @@
 - [Xuyuanp/scrollbar.nvim](https://github.com/Xuyuanp/scrollbar.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/scrollbar.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/scrollbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/scrollbar.nvim)
 - [dsummersl/nvim-sluice](https://github.com/dsummersl/nvim-sluice) ![](https://img.shields.io/github/stars/dsummersl/nvim-sluice) ![](https://img.shields.io/github/last-commit/dsummersl/nvim-sluice) ![](https://img.shields.io/github/commit-activity/y/dsummersl/nvim-sluice)
 - [kensyo/nvim-scrlbkun](https://github.com/kensyo/nvim-scrlbkun) ![](https://img.shields.io/github/stars/kensyo/nvim-scrlbkun) ![](https://img.shields.io/github/last-commit/kensyo/nvim-scrlbkun) ![](https://img.shields.io/github/commit-activity/y/kensyo/nvim-scrlbkun)
+- [doums/dmap.nvim](https://github.com/doums/dmap.nvim) ![](https://img.shields.io/github/stars/doums/dmap.nvim) ![](https://img.shields.io/github/last-commit/doums/dmap.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/dmap.nvim)
 
 ### Sidebar
 
