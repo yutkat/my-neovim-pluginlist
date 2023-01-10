@@ -255,6 +255,7 @@
 - [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
 - [ccbiozhaw/block-highlight.nvim](https://github.com/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/stars/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/last-commit/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ccbiozhaw/block-highlight.nvim)
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) ![](https://img.shields.io/github/stars/folke/paint.nvim) ![](https://img.shields.io/github/last-commit/folke/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/paint.nvim)
+- [JosefLitos/reform.nvim](https://github.com/JosefLitos/reform.nvim) ![](https://img.shields.io/github/stars/JosefLitos/reform.nvim) ![](https://img.shields.io/github/last-commit/JosefLitos/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLitos/reform.nvim)
 
 ### Window Separators
 
