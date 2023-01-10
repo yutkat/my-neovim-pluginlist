@@ -45,6 +45,7 @@
 - [LucasTavaresA/command.nvim](https://github.com/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/command.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/command.nvim)
 - [4542elgh/telescope-scratch-run.nvim](https://github.com/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-scratch-run.nvim)
 - [caosistema/nvim-remains](https://github.com/caosistema/nvim-remains) ![](https://img.shields.io/github/stars/caosistema/nvim-remains) ![](https://img.shields.io/github/last-commit/caosistema/nvim-remains) ![](https://img.shields.io/github/commit-activity/y/caosistema/nvim-remains)
+- [lpoto/telescope-tasks.nvim](https://github.com/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-tasks.nvim)
 
 ### Shell
 

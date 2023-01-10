@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Motion](#motion)
     - [j/k](#jk)
+    - [Smooth scroll](#smooth-scroll)
     - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
     - [Horizontal Move](#horizontal-move)
       - [Show jump word](#show-jump-word)
@@ -23,7 +24,11 @@
 
 - [PHSix/faster.nvim](https://github.com/PHSix/faster.nvim) ![](https://img.shields.io/github/stars/PHSix/faster.nvim) ![](https://img.shields.io/github/last-commit/PHSix/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/PHSix/faster.nvim)
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/accelerated-jk.nvim)
+
+### Smooth scroll
+
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/stars/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/last-commit/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/commit-activity/y/gen740/SmoothCursor.nvim)
+- [sindrets/view-tween.nvim](https://github.com/sindrets/view-tween.nvim) ![](https://img.shields.io/github/stars/sindrets/view-tween.nvim) ![](https://img.shields.io/github/last-commit/sindrets/view-tween.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/view-tween.nvim)
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) ![](https://img.shields.io/github/stars/echasnovski/mini.animate) ![](https://img.shields.io/github/last-commit/echasnovski/mini.animate) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.animate)
 
 ### Label Jump (Easymotion style)
