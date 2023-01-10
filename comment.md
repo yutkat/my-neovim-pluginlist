@@ -19,6 +19,7 @@
 - [FLinguenheld/luacomment.nvim](https://github.com/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/luacomment.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/luacomment.nvim)
 - [echasnovski/mini.comment](https://github.com/echasnovski/mini.comment) ![](https://img.shields.io/github/stars/echasnovski/mini.comment) ![](https://img.shields.io/github/last-commit/echasnovski/mini.comment) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.comment)
 - [whiskoder/nvim-hemingway](https://github.com/whiskoder/nvim-hemingway) ![](https://img.shields.io/github/stars/whiskoder/nvim-hemingway) ![](https://img.shields.io/github/last-commit/whiskoder/nvim-hemingway) ![](https://img.shields.io/github/commit-activity/y/whiskoder/nvim-hemingway)
+- [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/SingleComment.nvim)
 
 #### CommentString
 
