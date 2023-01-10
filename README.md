@@ -155,6 +155,7 @@
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
+    - [Scratchpad](#scratchpad)
     - [Security](#security)
     - [Hex Editor](#hex-editor)
     - [Mail](#mail)
@@ -968,11 +969,15 @@
 
 - [Pocco81/TrueZen.nvim](https://github.com/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/stars/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/TrueZen.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/TrueZen.nvim)
 - [folke/zen-mode.nvim](https://github.com/folke/zen-mode.nvim) ![](https://img.shields.io/github/stars/folke/zen-mode.nvim) ![](https://img.shields.io/github/last-commit/folke/zen-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/zen-mode.nvim)
-- [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [woosaaahh/zenith.nvim](https://github.com/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/stars/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/zenith.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/zenith.nvim)
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/stars/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/last-commit/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/commit-activity/y/shortcuts/no-neck-pain.nvim)
 - [shanytc/blindvim.nvim](https://github.com/shanytc/blindvim.nvim) ![](https://img.shields.io/github/stars/shanytc/blindvim.nvim) ![](https://img.shields.io/github/last-commit/shanytc/blindvim.nvim) ![](https://img.shields.io/github/commit-activity/y/shanytc/blindvim.nvim)
 - [albenisolmos/center.nvim](https://github.com/albenisolmos/center.nvim) ![](https://img.shields.io/github/stars/albenisolmos/center.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/center.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/center.nvim)
+
+### Scratchpad
+
+- [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
+- [sindrets/scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/stars/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/scratchpad.nvim)
 
 ### Security
 
