@@ -35,6 +35,7 @@
 - [hn275/simpleline.nvim](https://github.com/hn275/simpleline.nvim) ![](https://img.shields.io/github/stars/hn275/simpleline.nvim) ![](https://img.shields.io/github/last-commit/hn275/simpleline.nvim) ![](https://img.shields.io/github/commit-activity/y/hn275/simpleline.nvim)
 - [austinliuigi/bartender.nvim](https://github.com/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/stars/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/bartender.nvim)
 - [leath-dub/stat.nvim](https://github.com/leath-dub/stat.nvim) ![](https://img.shields.io/github/stars/leath-dub/stat.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/stat.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/stat.nvim)
+- [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) ![](https://img.shields.io/github/stars/bluz71/nvim-linefly) ![](https://img.shields.io/github/last-commit/bluz71/nvim-linefly) ![](https://img.shields.io/github/commit-activity/y/bluz71/nvim-linefly)
 
 ### Special Features
 
