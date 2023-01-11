@@ -32,6 +32,10 @@
 - [vzytoi/quickterm.nvim](https://github.com/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/stars/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/last-commit/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/vzytoi/quickterm.nvim)
 - [fj0r/nvim-taberm](https://github.com/fj0r/nvim-taberm) ![](https://img.shields.io/github/stars/fj0r/nvim-taberm) ![](https://img.shields.io/github/last-commit/fj0r/nvim-taberm) ![](https://img.shields.io/github/commit-activity/y/fj0r/nvim-taberm)
 
+### Edit
+
+- [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
+
 ### External terminal
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
