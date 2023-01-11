@@ -130,6 +130,7 @@
 #### maximize
 
 - [0x00-ketsu/maximizer.nvim](https://github.com/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/maximizer.nvim)
+- [niuiic/window.nvim](https://github.com/niuiic/window.nvim) ![](https://img.shields.io/github/stars/niuiic/window.nvim) ![](https://img.shields.io/github/last-commit/niuiic/window.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/window.nvim)
 
 #### focus
 

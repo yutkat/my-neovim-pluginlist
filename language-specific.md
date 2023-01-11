@@ -58,6 +58,7 @@
       - [PostgreSQL](#postgresql)
       - [MongoDB](#mongodb)
     - [Jenkins](#jenkins)
+    - [Drools Rule Language](#drools-rule-language)
 - [Competitive programming](#competitive-programming)
 
 # Language specific
@@ -178,6 +179,7 @@
 ### Nix
 
 - [MrcJkb/telescope-manix](https://github.com/MrcJkb/telescope-manix) ![](https://img.shields.io/github/stars/MrcJkb/telescope-manix) ![](https://img.shields.io/github/last-commit/MrcJkb/telescope-manix) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/telescope-manix)
+- [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/stars/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/last-commit/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/figsoda/nix-develop.nvim)
 
 ### PHP
 
