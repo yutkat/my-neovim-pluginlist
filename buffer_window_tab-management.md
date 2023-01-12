@@ -65,6 +65,7 @@
 
 ##### recent file
 
+- [prochri/telescope-all-recent.nvim](https://github.com/prochri/telescope-all-recent.nvim) ![](https://img.shields.io/github/stars/prochri/telescope-all-recent.nvim) ![](https://img.shields.io/github/last-commit/prochri/telescope-all-recent.nvim) ![](https://img.shields.io/github/commit-activity/y/prochri/telescope-all-recent.nvim)
 - [nvim-telescope/telescope-frecency.nvim](https://github.com/nvim-telescope/telescope-frecency.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-frecency.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-frecency.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-frecency.nvim)
 - [smartpde/telescope-recent-files](https://github.com/smartpde/telescope-recent-files) ![](https://img.shields.io/github/stars/smartpde/telescope-recent-files) ![](https://img.shields.io/github/last-commit/smartpde/telescope-recent-files) ![](https://img.shields.io/github/commit-activity/y/smartpde/telescope-recent-files)
 - [rohanorton/mru.nvim](https://github.com/rohanorton/mru.nvim) ![](https://img.shields.io/github/stars/rohanorton/mru.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mru.nvim)
