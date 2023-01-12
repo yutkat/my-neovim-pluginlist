@@ -19,6 +19,7 @@
     - [Deno](#deno)
     - [mjml](#mjml)
     - [Python](#python)
+      - [Jupyter](#jupyter)
     - [Ruby](#ruby)
       - [Rails](#rails)
     - [Nix](#nix)
@@ -143,7 +144,6 @@
 
 - [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
 - [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
-- [tacogips/run-jupyter.nvim](https://github.com/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/stars/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/last-commit/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/run-jupyter.nvim)
 - [HallerPatrick/py_lsp.nvim](https://github.com/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/stars/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/last-commit/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HallerPatrick/py_lsp.nvim)
 - [eddiebergman/nvim-treesitter-pyfold](https://github.com/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/stars/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/last-commit/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/commit-activity/y/eddiebergman/nvim-treesitter-pyfold)
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
@@ -161,6 +161,11 @@
 - [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
 - [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
 - [SimonZehetner/python_venv.nvim](https://github.com/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/stars/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/last-commit/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonZehetner/python_venv.nvim)
+
+#### Jupyter
+
+- [tacogips/run-jupyter.nvim](https://github.com/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/stars/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/last-commit/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/run-jupyter.nvim)
+- [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/jupynium.nvim)
 
 ### Ruby
 
