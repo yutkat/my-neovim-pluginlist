@@ -21,6 +21,7 @@
 - [EricDriussi/remember-me.nvim](https://github.com/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/stars/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/last-commit/EricDriussi/remember-me.nvim) ![](https://img.shields.io/github/commit-activity/y/EricDriussi/remember-me.nvim)
 - [distek/session-tabs.nvim](https://github.com/distek/session-tabs.nvim) ![](https://img.shields.io/github/stars/distek/session-tabs.nvim) ![](https://img.shields.io/github/last-commit/distek/session-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/session-tabs.nvim)
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) ![](https://img.shields.io/github/stars/nyngwang/suave.lua) ![](https://img.shields.io/github/last-commit/nyngwang/suave.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/suave.lua)
+- [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-possession)
 
 ## Session Selector
 
