@@ -40,6 +40,7 @@
 - [gfanto/fzf-lsp.nvim](https://github.com/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/stars/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/last-commit/gfanto/fzf-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/gfanto/fzf-lsp.nvim)
 - [RishabhRD/nvim-lsputils](https://github.com/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/stars/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/last-commit/RishabhRD/nvim-lsputils) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/nvim-lsputils)
 - [rzksobhy27/lsp_extras.nvim](https://github.com/rzksobhy27/lsp_extras.nvim) ![](https://img.shields.io/github/stars/rzksobhy27/lsp_extras.nvim) ![](https://img.shields.io/github/last-commit/rzksobhy27/lsp_extras.nvim) ![](https://img.shields.io/github/commit-activity/y/rzksobhy27/lsp_extras.nvim)
+- [seblj/nvim-lsp-extras](https://github.com/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/stars/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/last-commit/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-lsp-extras)
 
 #### Diagnostics
 

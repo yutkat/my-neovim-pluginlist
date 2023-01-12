@@ -19,6 +19,7 @@
       - [Swagger](#swagger)
       - [endpoints.json](#endpointsjson)
       - [gnome](#gnome)
+      - [Windows Terminal](#windows-terminal)
       - [BQN](#bqn)
       - [Skeleton](#skeleton)
     - [Shell](#shell)
@@ -26,6 +27,7 @@
       - [fish](#fish)
     - [CLI](#cli)
       - [make](#make)
+      - [ripgrep](#ripgrep)
       - [perf](#perf)
       - [dotnet](#dotnet)
       - [ctags](#ctags)
@@ -63,7 +65,7 @@
       - [prefix.cc](#prefixcc)
       - [haste](#haste)
       - [TabNews](#tabnews)
-  - [Password Manager](#password-manager)
+    - [Password Manager](#password-manager)
     - [IME](#ime)
       - [Fcitx](#fcitx)
       - [SKK](#skk)
@@ -71,12 +73,14 @@
     - [Audio](#audio)
       - [SuperCollider](#supercollider)
       - [LilyPond](#lilypond)
-    - [Robot](#robot)
-      - [ROS](#ros)
-      - [LEGO](#lego)
-    - [Keyboard](#keyboard)
-    - [Embedded Software](#embedded-software)
-      - [Arduino](#arduino)
+    - [Hardware](#hardware)
+      - [Robot](#robot)
+        - [ROS](#ros)
+        - [LEGO](#lego)
+      - [Keyboard](#keyboard)
+      - [Embedded Software](#embedded-software)
+        - [Arduino](#arduino)
+        - [FlipperZero](#flipperzero)
 
 ## Integration with other apps
 
@@ -165,6 +169,10 @@
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
 
+#### Windows Terminal
+
+- [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
+
 #### BQN
 
 - [calebowens/nvim-bqn](https://github.com/calebowens/nvim-bqn) ![](https://img.shields.io/github/stars/calebowens/nvim-bqn) ![](https://img.shields.io/github/last-commit/calebowens/nvim-bqn) ![](https://img.shields.io/github/commit-activity/y/calebowens/nvim-bqn)
@@ -188,6 +196,10 @@
 #### make
 
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
+
+#### ripgrep
+
+- [alanjcfs/rg.nvim](https://github.com/alanjcfs/rg.nvim) ![](https://img.shields.io/github/stars/alanjcfs/rg.nvim) ![](https://img.shields.io/github/last-commit/alanjcfs/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanjcfs/rg.nvim)
 
 #### perf
 
@@ -341,7 +353,7 @@
 
 - [FelipeIzolan/tabnews.nvim](https://github.com/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/stars/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/last-commit/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeIzolan/tabnews.nvim)
 
-## Password Manager
+### Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
 - [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
@@ -383,26 +395,32 @@
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
 
-### Robot
+### Hardware
 
-#### ROS
+#### Robot
+
+##### ROS
 
 - [thibthib18/ros-nvim](https://github.com/thibthib18/ros-nvim) ![](https://img.shields.io/github/stars/thibthib18/ros-nvim) ![](https://img.shields.io/github/last-commit/thibthib18/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/ros-nvim)
 - [miferco97/ros2-debugger-plugin](https://github.com/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/stars/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/last-commit/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/commit-activity/y/miferco97/ros2-debugger-plugin)
 - [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
 
-#### LEGO
+##### LEGO
 
 - [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
 
-### Keyboard
+#### Keyboard
 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 
-### Embedded Software
+#### Embedded Software
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
 
-#### Arduino
+##### Arduino
 
 - [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)
+
+##### FlipperZero
+
+- [ASoldo/FlipperZeroNeoCore.nvim](https://github.com/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/stars/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/last-commit/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/commit-activity/y/ASoldo/FlipperZeroNeoCore.nvim)

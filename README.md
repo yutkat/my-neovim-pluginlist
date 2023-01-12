@@ -449,6 +449,7 @@
 - [cbarrete/nvim-altcaps](https://github.com/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/stars/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/last-commit/cbarrete/nvim-altcaps) ![](https://img.shields.io/github/commit-activity/y/cbarrete/nvim-altcaps)
 - [tandy1229/wordswitch.nvim](https://github.com/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/stars/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/last-commit/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/tandy1229/wordswitch.nvim)
 - [theoboldalex/case_manager.nvim](https://github.com/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/stars/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/case_manager.nvim)
+- [gerazov/toggle-bool.nvim](https://github.com/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/stars/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/last-commit/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/toggle-bool.nvim)
 
 ### Indent
 
