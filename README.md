@@ -981,6 +981,7 @@
 - [shortcuts/no-neck-pain.nvim](https://github.com/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/stars/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/last-commit/shortcuts/no-neck-pain.nvim) ![](https://img.shields.io/github/commit-activity/y/shortcuts/no-neck-pain.nvim)
 - [shanytc/blindvim.nvim](https://github.com/shanytc/blindvim.nvim) ![](https://img.shields.io/github/stars/shanytc/blindvim.nvim) ![](https://img.shields.io/github/last-commit/shanytc/blindvim.nvim) ![](https://img.shields.io/github/commit-activity/y/shanytc/blindvim.nvim)
 - [albenisolmos/center.nvim](https://github.com/albenisolmos/center.nvim) ![](https://img.shields.io/github/stars/albenisolmos/center.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/center.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/center.nvim)
+- [Manas140/Zazen.nvim](https://github.com/Manas140/Zazen.nvim) ![](https://img.shields.io/github/stars/Manas140/Zazen.nvim) ![](https://img.shields.io/github/last-commit/Manas140/Zazen.nvim) ![](https://img.shields.io/github/commit-activity/y/Manas140/Zazen.nvim)
 
 ### Scratchpad
 
