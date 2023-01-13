@@ -1,11 +1,12 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Snippet](#snippet)
-    - [Snippet definitions](#snippet-definitions)
-    - [Snippet converter](#snippet-converter)
-    - [Snippet view](#snippet-view)
-  - [Template](#template)
+    - [Snippet](#snippet)
+      - [Snippet definitions](#snippet-definitions)
+      - [Snippet converter](#snippet-converter)
+      - [Snippet view](#snippet-view)
+    - [Emmet](#emmet)
+    - [Template](#template)
 
 ### Snippet
 
@@ -26,6 +27,10 @@
 
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/stars/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/last-commit/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/benfowler/telescope-luasnip.nvim)
 
+### Emmet
+
+- [barrett-ruth/emmet.nvim](https://github.com/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/emmet.nvim)
+
 ### Template
 
 - [glepnir/template.nvim](https://github.com/glepnir/template.nvim) ![](https://img.shields.io/github/stars/glepnir/template.nvim) ![](https://img.shields.io/github/last-commit/glepnir/template.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/template.nvim)
@@ -34,3 +39,4 @@
 - [nkhlmn/contemplate.nvim](https://github.com/nkhlmn/contemplate.nvim) ![](https://img.shields.io/github/stars/nkhlmn/contemplate.nvim) ![](https://img.shields.io/github/last-commit/nkhlmn/contemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/nkhlmn/contemplate.nvim)
 - [filipgodlewski/luasnip-ts-snippets.nvim](https://github.com/filipgodlewski/luasnip-ts-snippets.nvim) ![](https://img.shields.io/github/stars/filipgodlewski/luasnip-ts-snippets.nvim) ![](https://img.shields.io/github/last-commit/filipgodlewski/luasnip-ts-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/filipgodlewski/luasnip-ts-snippets.nvim)
 - [kuuote/latte.nvim](https://github.com/kuuote/latte.nvim) ![](https://img.shields.io/github/stars/kuuote/latte.nvim) ![](https://img.shields.io/github/last-commit/kuuote/latte.nvim) ![](https://img.shields.io/github/commit-activity/y/kuuote/latte.nvim)
+- [xvzc/skeleton.nvim](https://github.com/xvzc/skeleton.nvim) ![](https://img.shields.io/github/stars/xvzc/skeleton.nvim) ![](https://img.shields.io/github/last-commit/xvzc/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/skeleton.nvim)

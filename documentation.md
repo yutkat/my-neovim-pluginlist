@@ -8,6 +8,7 @@
       - [Markdown preview](#markdown-preview)
       - [Markdown code block](#markdown-code-block)
       - [Markdown evaluate code](#markdown-evaluate-code)
+      - [Styling](#styling)
       - [Markdown checkbox](#markdown-checkbox)
       - [Markdown list](#markdown-list)
       - [Markdown converter](#markdown-converter)
@@ -62,6 +63,10 @@
 
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 - [DiegoMoralesRoman/MDInlineRunner.nvim](https://github.com/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/stars/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/last-commit/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/DiegoMoralesRoman/MDInlineRunner.nvim)
+
+#### Styling
+
+- [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) ![](https://img.shields.io/github/stars/antonk52/markdowny.nvim) ![](https://img.shields.io/github/last-commit/antonk52/markdowny.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/markdowny.nvim)
 
 #### Markdown checkbox
 
