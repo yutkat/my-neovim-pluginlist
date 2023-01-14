@@ -7,6 +7,7 @@
     - [Other Buffer Switcher](#other-buffer-switcher)
     - [Buffer Management](#buffer-management)
       - [open](#open)
+        - [recent file](#recent-file)
         - [remote open](#remote-open)
       - [delete](#delete)
       - [access control](#access-control)
@@ -70,6 +71,7 @@
 - [smartpde/telescope-recent-files](https://github.com/smartpde/telescope-recent-files) ![](https://img.shields.io/github/stars/smartpde/telescope-recent-files) ![](https://img.shields.io/github/last-commit/smartpde/telescope-recent-files) ![](https://img.shields.io/github/commit-activity/y/smartpde/telescope-recent-files)
 - [rohanorton/mru.nvim](https://github.com/rohanorton/mru.nvim) ![](https://img.shields.io/github/stars/rohanorton/mru.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mru.nvim)
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/stars/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/last-commit/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/commit-activity/y/marcuscaisey/olddirs.nvim)
+- [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/stars/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/last-commit/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/danielfalk/smart-open.nvim)
 
 ##### remote open
 

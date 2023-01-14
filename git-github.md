@@ -124,6 +124,10 @@
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/stars/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/last-commit/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/commit-activity/y/Almo7aya/openingh.nvim)
 - [ciehanski/nvim-git-line](https://github.com/ciehanski/nvim-git-line) ![](https://img.shields.io/github/stars/ciehanski/nvim-git-line) ![](https://img.shields.io/github/last-commit/ciehanski/nvim-git-line) ![](https://img.shields.io/github/commit-activity/y/ciehanski/nvim-git-line)
 
+### Image
+
+- [ch3n9w/nvim-github-uploader](https://github.com/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/stars/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/last-commit/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/commit-activity/y/ch3n9w/nvim-github-uploader)
+
 ### grep.app
 
 - [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)

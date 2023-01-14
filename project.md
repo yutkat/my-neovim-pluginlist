@@ -33,6 +33,7 @@
 - [notjedi/nvim-rooter.lua](https://github.com/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/stars/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/last-commit/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/commit-activity/y/notjedi/nvim-rooter.lua)
 - [yyk/find-git-root.nvim](https://github.com/yyk/find-git-root.nvim) ![](https://img.shields.io/github/stars/yyk/find-git-root.nvim) ![](https://img.shields.io/github/last-commit/yyk/find-git-root.nvim) ![](https://img.shields.io/github/commit-activity/y/yyk/find-git-root.nvim)
 - [desdic/telescope-rooter.nvim](https://github.com/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/telescope-rooter.nvim)
+- [delphinus/rtr.nvim](https://github.com/delphinus/rtr.nvim) ![](https://img.shields.io/github/stars/delphinus/rtr.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtr.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtr.nvim)
 
 #### Project Local Config
 
