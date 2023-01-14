@@ -62,6 +62,7 @@
     - [Textobject](#textobject)
       - [Unit](#unit)
       - [Swap](#swap)
+      - [Move](#move)
       - [Surround](#surround)
     - [Operator](#operator)
     - [Emoji](#emoji)
@@ -461,6 +462,7 @@
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) ![](https://img.shields.io/github/stars/Darazaki/indent-o-matic) ![](https://img.shields.io/github/last-commit/Darazaki/indent-o-matic) ![](https://img.shields.io/github/commit-activity/y/Darazaki/indent-o-matic)
 - [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) ![](https://img.shields.io/github/stars/echasnovski/mini.indentscope) ![](https://img.shields.io/github/last-commit/echasnovski/mini.indentscope) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.indentscope)
 - [vine91/nvim-indentconfig](https://github.com/vine91/nvim-indentconfig) ![](https://img.shields.io/github/stars/vine91/nvim-indentconfig) ![](https://img.shields.io/github/last-commit/vine91/nvim-indentconfig) ![](https://img.shields.io/github/commit-activity/y/vine91/nvim-indentconfig)
+- [hrsh7th/nvim-dansa](https://github.com/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/stars/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-dansa)
 
 #### Indent Shift
 
@@ -496,6 +498,12 @@
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/binary-swap.nvim)
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/sibling-swap.nvim)
 
+#### Move
+
+- [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) ![](https://img.shields.io/github/stars/booperlv/nvim-gomove) ![](https://img.shields.io/github/last-commit/booperlv/nvim-gomove) ![](https://img.shields.io/github/commit-activity/y/booperlv/nvim-gomove)
+- [hinell/move.nvim](https://github.com/hinell/move.nvim) ![](https://img.shields.io/github/stars/hinell/move.nvim) ![](https://img.shields.io/github/last-commit/hinell/move.nvim) ![](https://img.shields.io/github/commit-activity/y/hinell/move.nvim)
+- [ur4ltz/move.nvim](https://github.com/ur4ltz/move.nvim) ![](https://img.shields.io/github/stars/ur4ltz/move.nvim) ![](https://img.shields.io/github/last-commit/ur4ltz/move.nvim) ![](https://img.shields.io/github/commit-activity/y/ur4ltz/move.nvim)
+
 #### Surround
 
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) ![](https://img.shields.io/github/stars/kylechui/nvim-surround) ![](https://img.shields.io/github/last-commit/kylechui/nvim-surround) ![](https://img.shields.io/github/commit-activity/y/kylechui/nvim-surround)
@@ -523,7 +531,6 @@
 
 ### Misc
 
-- [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) ![](https://img.shields.io/github/stars/booperlv/nvim-gomove) ![](https://img.shields.io/github/last-commit/booperlv/nvim-gomove) ![](https://img.shields.io/github/commit-activity/y/booperlv/nvim-gomove)
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) ![](https://img.shields.io/github/stars/abecodes/tabout.nvim) ![](https://img.shields.io/github/last-commit/abecodes/tabout.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/tabout.nvim)
 - [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) ![](https://img.shields.io/github/stars/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/last-commit/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/commit-activity/y/Allendang/nvim-expand-expr)
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
