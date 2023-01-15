@@ -161,6 +161,7 @@
     - [Security](#security)
     - [Hex Editor](#hex-editor)
     - [Mail](#mail)
+    - [Calendar](#calendar)
     - [Presentation](#presentation)
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
@@ -503,6 +504,7 @@
 - [booperlv/nvim-gomove](https://github.com/booperlv/nvim-gomove) ![](https://img.shields.io/github/stars/booperlv/nvim-gomove) ![](https://img.shields.io/github/last-commit/booperlv/nvim-gomove) ![](https://img.shields.io/github/commit-activity/y/booperlv/nvim-gomove)
 - [hinell/move.nvim](https://github.com/hinell/move.nvim) ![](https://img.shields.io/github/stars/hinell/move.nvim) ![](https://img.shields.io/github/last-commit/hinell/move.nvim) ![](https://img.shields.io/github/commit-activity/y/hinell/move.nvim)
 - [ur4ltz/move.nvim](https://github.com/ur4ltz/move.nvim) ![](https://img.shields.io/github/stars/ur4ltz/move.nvim) ![](https://img.shields.io/github/last-commit/ur4ltz/move.nvim) ![](https://img.shields.io/github/commit-activity/y/ur4ltz/move.nvim)
+- [echasnovski/mini.move](https://github.com/echasnovski/mini.move) ![](https://img.shields.io/github/stars/echasnovski/mini.move) ![](https://img.shields.io/github/last-commit/echasnovski/mini.move) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.move)
 
 #### Surround
 
@@ -585,6 +587,7 @@
 #### Jump
 
 - [acifuentes99/nvim-jump-to-mark](https://github.com/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/stars/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/last-commit/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/commit-activity/y/acifuentes99/nvim-jump-to-mark)
+- [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/stars/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/last-commit/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonHeidelbach/trailblazer.nvim)
 
 #### floating marker(easymotion style)
 
@@ -1008,6 +1011,10 @@
 ### Mail
 
 - [martineausimon/nvim-mail-merge](https://github.com/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/stars/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-mail-merge)
+
+### Calendar
+
+- [gaoDean/cal.nvim](https://github.com/gaoDean/cal.nvim) ![](https://img.shields.io/github/stars/gaoDean/cal.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/cal.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/cal.nvim)
 
 ### Presentation
 
