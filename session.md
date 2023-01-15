@@ -23,6 +23,7 @@
 - [nyngwang/suave.lua](https://github.com/nyngwang/suave.lua) ![](https://img.shields.io/github/stars/nyngwang/suave.lua) ![](https://img.shields.io/github/last-commit/nyngwang/suave.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/suave.lua)
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-possession)
 - [pluffie/neoproj](https://github.com/pluffie/neoproj) ![](https://img.shields.io/github/stars/pluffie/neoproj) ![](https://img.shields.io/github/last-commit/pluffie/neoproj) ![](https://img.shields.io/github/commit-activity/y/pluffie/neoproj)
+- [lukamanitta/branchsession.nvim](https://github.com/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/stars/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/last-commit/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/commit-activity/y/lukamanitta/branchsession.nvim)
 
 ## Session Selector
 

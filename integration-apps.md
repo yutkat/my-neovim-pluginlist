@@ -14,6 +14,7 @@
       - [Zellij](#zellij)
       - [Docker](#docker)
       - [dotenv](#dotenv)
+      - [Chamber](#chamber)
       - [Kitty](#kitty)
       - [Sphinx](#sphinx)
       - [Swagger](#swagger)
@@ -149,6 +150,10 @@
 
 - [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/dotenv.nvim)
 
+#### Chamber
+
+- [hieutran21198/telescope-chamber.nvim](https://github.com/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/stars/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/last-commit/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/commit-activity/y/hieutran21198/telescope-chamber.nvim)
+
 #### Kitty
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
@@ -196,6 +201,7 @@
 #### make
 
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
+- [ChSotiriou/nvim-telemake](https://github.com/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/stars/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/last-commit/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/commit-activity/y/ChSotiriou/nvim-telemake)
 
 #### ripgrep
 
