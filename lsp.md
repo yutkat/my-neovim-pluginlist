@@ -109,6 +109,7 @@
 - [arkav/lualine-lsp-progress](https://github.com/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/stars/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/last-commit/arkav/lualine-lsp-progress) ![](https://img.shields.io/github/commit-activity/y/arkav/lualine-lsp-progress)
 - [doums/lsp_spinner.nvim](https://github.com/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/stars/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/last-commit/doums/lsp_spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/lsp_spinner.nvim)
 - [folke/noice.nvim(mini)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
+- [mrded/nvim-lsp-notify](https://github.com/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/stars/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/last-commit/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/commit-activity/y/mrded/nvim-lsp-notify)
 
 ### Local LSP Config
 
