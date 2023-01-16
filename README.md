@@ -413,6 +413,7 @@
 #### Auto insert pairs
 
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) ![](https://img.shields.io/github/stars/windwp/nvim-autopairs) ![](https://img.shields.io/github/last-commit/windwp/nvim-autopairs) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-autopairs)
+- [hrsh7th/nvim-minx](https://github.com/hrsh7th/nvim-minx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-minx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-minx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-minx)
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/stars/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/last-commit/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/commit-activity/y/ZhiyuanLck/smart-pairs)
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) ![](https://img.shields.io/github/stars/steelsojka/pears.nvim) ![](https://img.shields.io/github/last-commit/steelsojka/pears.nvim) ![](https://img.shields.io/github/commit-activity/y/steelsojka/pears.nvim)
 - [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/stars/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/autoclose.nvim)
@@ -420,10 +421,10 @@
 - [conch2/neoautoTools.nvim](https://github.com/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/stars/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/last-commit/conch2/neoautoTools.nvim) ![](https://img.shields.io/github/commit-activity/y/conch2/neoautoTools.nvim)
 - [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) ![](https://img.shields.io/github/stars/echasnovski/mini.pairs) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pairs)
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
-- [hrsh7th/nvim-minx](https://github.com/hrsh7th/nvim-minx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-minx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-minx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-minx)
 
 ##### endwise
 
+- [hrsh7th/nvim-minx(endwise))](https://github.com/hrsh7th/nvim-minx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-minx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-minx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-minx)
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
 
 #### Auto insert semicolon
