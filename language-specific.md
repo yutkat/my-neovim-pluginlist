@@ -39,6 +39,7 @@
     - [Elixir](#elixir)
     - [Haskell](#haskell)
     - [Lisp](#lisp)
+    - [Shellscript(bash)](#shellscriptbash)
     - [Nushell](#nushell)
     - [F #](#f-)
     - [Cairo](#cairo)
@@ -295,6 +296,10 @@
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 - [monkoose/nvlime](https://github.com/monkoose/nvlime) ![](https://img.shields.io/github/stars/monkoose/nvlime) ![](https://img.shields.io/github/last-commit/monkoose/nvlime) ![](https://img.shields.io/github/commit-activity/y/monkoose/nvlime)
+
+### Shellscript(bash)
+
+- [Susensio/magic-bang.nvim](https://github.com/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/stars/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/last-commit/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Susensio/magic-bang.nvim)
 
 ### Nushell
 
