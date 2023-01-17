@@ -413,7 +413,7 @@
 #### Auto insert pairs
 
 - [windwp/nvim-autopairs](https://github.com/windwp/nvim-autopairs) ![](https://img.shields.io/github/stars/windwp/nvim-autopairs) ![](https://img.shields.io/github/last-commit/windwp/nvim-autopairs) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-autopairs)
-- [hrsh7th/nvim-minx](https://github.com/hrsh7th/nvim-minx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-minx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-minx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-minx)
+- [hrsh7th/nvim-insx](https://github.com/hrsh7th/nvim-insx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-insx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-insx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-insx)
 - [ZhiyuanLck/smart-pairs](https://github.com/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/stars/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/last-commit/ZhiyuanLck/smart-pairs) ![](https://img.shields.io/github/commit-activity/y/ZhiyuanLck/smart-pairs)
 - [steelsojka/pears.nvim](https://github.com/steelsojka/pears.nvim) ![](https://img.shields.io/github/stars/steelsojka/pears.nvim) ![](https://img.shields.io/github/last-commit/steelsojka/pears.nvim) ![](https://img.shields.io/github/commit-activity/y/steelsojka/pears.nvim)
 - [m4xshen/autoclose.nvim](https://github.com/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/stars/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/autoclose.nvim)
@@ -424,7 +424,7 @@
 
 ##### endwise
 
-- [hrsh7th/nvim-minx(endwise))](https://github.com/hrsh7th/nvim-minx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-minx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-minx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-minx)
+- [hrsh7th/nvim-insx(endwise))](https://github.com/hrsh7th/nvim-insx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-insx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-insx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-insx)
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
 
 #### Auto insert semicolon
