@@ -58,6 +58,7 @@
 - [stevearc/stickybuf.nvim](https://github.com/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/stars/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/last-commit/stevearc/stickybuf.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/stickybuf.nvim)
 - [nat-418/dbm.nvim](https://github.com/nat-418/dbm.nvim) ![](https://img.shields.io/github/stars/nat-418/dbm.nvim) ![](https://img.shields.io/github/last-commit/nat-418/dbm.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/dbm.nvim)
 - [nat-418/bufala.nvim](https://github.com/nat-418/bufala.nvim) ![](https://img.shields.io/github/stars/nat-418/bufala.nvim) ![](https://img.shields.io/github/last-commit/nat-418/bufala.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/bufala.nvim)
+- [Limeoats/buffer-manager.nvim](https://github.com/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Limeoats/buffer-manager.nvim)
 
 #### open
 
