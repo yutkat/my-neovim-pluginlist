@@ -97,7 +97,8 @@
     - [Command Line](#command-line-1)
       - [command line completion](#command-line-completion)
     - [History](#history)
-    - [Spellcheck](#spellcheck)
+    - [Spell](#spell)
+      - [Spellcheck](#spellcheck)
       - [Vale](#vale)
     - [Abbreviation](#abbreviation)
     - [Quickfix](#quickfix)
@@ -693,7 +694,11 @@
 
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-smart-history.nvim)
 
-### Spellcheck
+### Spell
+
+- [RKBethke/spellsync.nvim](https://github.com/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/stars/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/spellsync.nvim)
+
+#### Spellcheck
 
 - [dvdsk/prosesitter.nvim](https://github.com/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/stars/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/last-commit/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/dvdsk/prosesitter.nvim)
 - [poljar/typos.nvim](https://github.com/poljar/typos.nvim) ![](https://img.shields.io/github/stars/poljar/typos.nvim) ![](https://img.shields.io/github/last-commit/poljar/typos.nvim) ![](https://img.shields.io/github/commit-activity/y/poljar/typos.nvim)
