@@ -40,7 +40,6 @@
 ### Special Features
 
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) ![](https://img.shields.io/github/stars/windwp/windline.nvim) ![](https://img.shields.io/github/last-commit/windwp/windline.nvim) ![](https://img.shields.io/github/commit-activity/y/windwp/windline.nvim)
-- [datwaft/bubbly.nvim](https://github.com/datwaft/bubbly.nvim) ![](https://img.shields.io/github/stars/datwaft/bubbly.nvim) ![](https://img.shields.io/github/last-commit/datwaft/bubbly.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/bubbly.nvim)
 
 ## Statusline component
 

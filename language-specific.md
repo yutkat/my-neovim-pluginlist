@@ -106,7 +106,6 @@
 ### CSS
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
-- [roobert/tailwindcss-colorizer.nvim](https://github.com/roobert/tailwindcss-colorizer.nvim) ![](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer.nvim) ![](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tailwindcss-colorizer.nvim)
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tailwindcss-colorizer-cmp.nvim)
 
 ### HTTP
