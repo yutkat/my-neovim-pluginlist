@@ -31,6 +31,7 @@
       - [ripgrep](#ripgrep)
       - [perf](#perf)
       - [dotnet](#dotnet)
+      - [rsync](#rsync)
       - [ctags](#ctags)
       - [cheat.sh](#cheatsh)
       - [papis](#papis)
@@ -334,6 +335,7 @@
 - [naps62/pair-gpt.nvim](https://github.com/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/stars/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/last-commit/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/naps62/pair-gpt.nvim)
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) ![](https://img.shields.io/github/stars/dense-analysis/neural) ![](https://img.shields.io/github/last-commit/dense-analysis/neural) ![](https://img.shields.io/github/commit-activity/y/dense-analysis/neural)
+- [jungyong0615dot/gpt_scratch.nvim](https://github.com/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/gpt_scratch.nvim)
 
 #### Otter
 
