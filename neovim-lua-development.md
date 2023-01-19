@@ -1,6 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
+  - [Lua Development](#lua-development)
+    - [LSP](#lsp)
+    - [Lint](#lint)
+    - [Formatter](#formatter)
+    - [GitHub Actions](#github-actions)
   - [Neovim Lua Development](#neovim-lua-development)
   - [Neovim Lua REPL](#neovim-lua-repl)
   - [Development Tools](#development-tools)
@@ -17,6 +22,26 @@
   - [Profiler](#profiler)
   - [CI](#ci)
     - [Actions](#actions)
+
+## Lua Development
+
+### LSP
+
+- [sumneko/lua-language-server](https://github.com/sumneko/lua-language-server) ![](https://img.shields.io/github/stars/sumneko/lua-language-server) ![](https://img.shields.io/github/last-commit/sumneko/lua-language-server) ![](https://img.shields.io/github/commit-activity/y/sumneko/lua-language-server)
+
+### Lint
+
+- [Kampfkarren/selene](https://github.com/Kampfkarren/selene) ![](https://img.shields.io/github/stars/Kampfkarren/selene) ![](https://img.shields.io/github/last-commit/Kampfkarren/selene) ![](https://img.shields.io/github/commit-activity/y/Kampfkarren/selene)
+- [lunarmodules/luacheck](https://github.com/lunarmodules/luacheck) ![](https://img.shields.io/github/stars/lunarmodules/luacheck) ![](https://img.shields.io/github/last-commit/lunarmodules/luacheck) ![](https://img.shields.io/github/commit-activity/y/lunarmodules/luacheck)
+
+### Formatter
+
+- [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/stars/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/last-commit/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/commit-activity/y/JohnnyMorganz/StyLua)
+- [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) ![](https://img.shields.io/github/stars/Koihik/LuaFormatter) ![](https://img.shields.io/github/last-commit/Koihik/LuaFormatter) ![](https://img.shields.io/github/commit-activity/y/Koihik/LuaFormatter)
+
+### GitHub Actions
+
+- [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/stars/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/last-commit/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/lua-typecheck-action)
 
 ## Neovim Lua Development
 
