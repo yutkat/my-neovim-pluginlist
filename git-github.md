@@ -55,6 +55,10 @@
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/stars/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/last-commit/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/commit-activity/y/gbprod/tree-sitter-gitcommit)
 - [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
 
+### prefix
+
+- [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/stars/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/commit-prefix.nvim)
+
 ### co authored
 
 - [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
