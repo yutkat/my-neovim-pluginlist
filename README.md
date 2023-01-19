@@ -466,6 +466,7 @@
 - [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) ![](https://img.shields.io/github/stars/echasnovski/mini.indentscope) ![](https://img.shields.io/github/last-commit/echasnovski/mini.indentscope) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.indentscope)
 - [vine91/nvim-indentconfig](https://github.com/vine91/nvim-indentconfig) ![](https://img.shields.io/github/stars/vine91/nvim-indentconfig) ![](https://img.shields.io/github/last-commit/vine91/nvim-indentconfig) ![](https://img.shields.io/github/commit-activity/y/vine91/nvim-indentconfig)
 - [hrsh7th/nvim-dansa](https://github.com/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/stars/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-dansa)
+- [msg-labs/tabwidth.nvim](https://github.com/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/stars/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/last-commit/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/commit-activity/y/msg-labs/tabwidth.nvim)
 
 #### Indent Shift
 
@@ -1003,6 +1004,7 @@
 
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [sindrets/scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/stars/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/scratchpad.nvim)
+- [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) ![](https://img.shields.io/github/stars/niuiic/part-edit.nvim) ![](https://img.shields.io/github/last-commit/niuiic/part-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/part-edit.nvim)
 
 ### Security
 

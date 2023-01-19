@@ -311,6 +311,7 @@
 - [halfdan/jira.nvim](https://github.com/halfdan/jira.nvim) ![](https://img.shields.io/github/stars/halfdan/jira.nvim) ![](https://img.shields.io/github/last-commit/halfdan/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/halfdan/jira.nvim)
 - [ofirgall/open-jira.nvim](https://github.com/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/stars/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/open-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/open-jira.nvim)
 - [lttr/cmp-jira](https://github.com/lttr/cmp-jira) ![](https://img.shields.io/github/stars/lttr/cmp-jira) ![](https://img.shields.io/github/last-commit/lttr/cmp-jira) ![](https://img.shields.io/github/commit-activity/y/lttr/cmp-jira)
+- [jungyong0615dot/jira.nvim](https://github.com/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/jira.nvim)
 
 #### Google Docs
 
