@@ -67,6 +67,7 @@
 - [woosaaahh/brun.nvim](https://github.com/woosaaahh/brun.nvim) ![](https://img.shields.io/github/stars/woosaaahh/brun.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/brun.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/brun.nvim)
 - [Nanoteck137/scorbunny.nvim](https://github.com/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/scorbunny.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/scorbunny.nvim)
 - [AbaoFromCUG/async-runner.nvim](https://github.com/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/async-runner.nvim)
+- [LucLabarriere/maker.nvim](https://github.com/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/stars/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/last-commit/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/LucLabarriere/maker.nvim)
 
 ## Map style
 

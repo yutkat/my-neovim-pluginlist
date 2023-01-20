@@ -159,6 +159,7 @@
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
     - [Scratchpad](#scratchpad)
+    - [Performance Test](#performance-test)
     - [Security](#security)
     - [Hex Editor](#hex-editor)
     - [Mail](#mail)
@@ -291,6 +292,7 @@
 - [eriedaberrie/colorscheme-file.nvim](https://github.com/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/stars/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/last-commit/eriedaberrie/colorscheme-file.nvim) ![](https://img.shields.io/github/commit-activity/y/eriedaberrie/colorscheme-file.nvim)
 - [AdrianETP/AutoColor.nvim](https://github.com/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/stars/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/last-commit/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianETP/AutoColor.nvim)
 - [lrangell/theme-cycler.nvim](https://github.com/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/stars/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/last-commit/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/lrangell/theme-cycler.nvim)
+- [ZenLian/winddown.nvim](https://github.com/ZenLian/winddown.nvim) ![](https://img.shields.io/github/stars/ZenLian/winddown.nvim) ![](https://img.shields.io/github/last-commit/ZenLian/winddown.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenLian/winddown.nvim)
 
 #### Color name
 
@@ -845,6 +847,7 @@
 - [joechrisellis/lsp-format-modifications.nvim](https://github.com/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/stars/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/last-commit/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/commit-activity/y/joechrisellis/lsp-format-modifications.nvim)
 - [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/stars/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/format-on-leave.nvim)
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
+- [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
 
 ##### Trim Whitespace
 
@@ -1005,6 +1008,10 @@
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [sindrets/scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/stars/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/scratchpad.nvim)
 - [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) ![](https://img.shields.io/github/stars/niuiic/part-edit.nvim) ![](https://img.shields.io/github/last-commit/niuiic/part-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/part-edit.nvim)
+
+### Performance Test
+
+- [pseudocc/nvim-apm](https://github.com/pseudocc/nvim-apm) ![](https://img.shields.io/github/stars/pseudocc/nvim-apm) ![](https://img.shields.io/github/last-commit/pseudocc/nvim-apm) ![](https://img.shields.io/github/commit-activity/y/pseudocc/nvim-apm)
 
 ### Security
 
