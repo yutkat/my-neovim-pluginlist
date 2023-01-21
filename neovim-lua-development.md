@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
   - [Lua Development](#lua-development)
+    - [Plugin Template](#plugin-template)
     - [LSP](#lsp)
     - [Lint](#lint)
     - [Formatter](#formatter)
@@ -24,6 +25,13 @@
     - [Actions](#actions)
 
 ## Lua Development
+
+### Plugin Template
+
+- [ellisonleao/nvim-plugin-template](https://github.com/ellisonleao/nvim-plugin-template) ![](https://img.shields.io/github/stars/ellisonleao/nvim-plugin-template) ![](https://img.shields.io/github/last-commit/ellisonleao/nvim-plugin-template) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/nvim-plugin-template)
+- [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/stars/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/last-commit/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/commit-activity/y/shortcuts/neovim-plugin-boilerplate)
+- [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/stars/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/last-commit/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/nvim-lua-plugin-template)
+- [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/stars/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/last-commit/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/plugin-template.nvim)
 
 ### LSP
 
@@ -75,6 +83,7 @@
 
 ## Testing
 
+- [nvim-lua/plenary.nvim(PlenaryBustedDirectory)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
 - [notomo/vusted](https://github.com/notomo/vusted) ![](https://img.shields.io/github/stars/notomo/vusted) ![](https://img.shields.io/github/last-commit/notomo/vusted) ![](https://img.shields.io/github/commit-activity/y/notomo/vusted)
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) ![](https://img.shields.io/github/stars/hkupty/runes.nvim) ![](https://img.shields.io/github/last-commit/hkupty/runes.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/runes.nvim)
 
