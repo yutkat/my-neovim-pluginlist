@@ -16,6 +16,7 @@
       - [jumplist](#jumplist)
       - [Edit History](#edit-history)
       - [Cursor Position History](#cursor-position-history)
+    - [Paragraph](#paragraph)
     - [Scrolling](#scrolling)
 
 ## Motion
@@ -91,6 +92,10 @@
 #### Edit History
 
 #### Cursor Position History
+
+### Paragraph
+
+- [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/stars/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/last-commit/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/neoscroll-motions.nvim)
 
 ### Scrolling
 
