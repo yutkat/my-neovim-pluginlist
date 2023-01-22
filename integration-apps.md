@@ -28,6 +28,7 @@
       - [fish](#fish)
     - [CLI](#cli)
       - [make](#make)
+      - [Bazel](#bazel)
       - [ripgrep](#ripgrep)
       - [perf](#perf)
       - [dotnet](#dotnet)
@@ -203,6 +204,10 @@
 
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
 - [ChSotiriou/nvim-telemake](https://github.com/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/stars/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/last-commit/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/commit-activity/y/ChSotiriou/nvim-telemake)
+
+#### Bazel
+
+- [zaucy/bazel.nvim](https://github.com/zaucy/bazel.nvim) ![](https://img.shields.io/github/stars/zaucy/bazel.nvim) ![](https://img.shields.io/github/last-commit/zaucy/bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/bazel.nvim)
 
 #### ripgrep
 
