@@ -44,6 +44,10 @@
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
   - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) ![](https://img.shields.io/github/stars/datwaft/themis.nvim) ![](https://img.shields.io/github/last-commit/datwaft/themis.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/themis.nvim)
 
+## Stock price
+
+- [dbeauchamp/orderbook.nvim](https://github.com/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/stars/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/last-commit/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/commit-activity/y/dbeauchamp/orderbook.nvim)
+
 ## Study
 
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
