@@ -5,9 +5,10 @@
   - [Joke](#joke)
   - [Image](#image)
   - [Game](#game)
-    - [Typing](#typing)
+      - [Typing](#typing)
   - [Gesture](#gesture)
   - [Weather](#weather)
+  - [Stock price](#stock-price)
   - [Study](#study)
   - [Music](#music)
   - [Screen server](#screen-server)
@@ -64,6 +65,7 @@
 - [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
 - [4542elgh/telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-youtube-mpv.nvim)
 - [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
+- [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
 
 ## Screen server
 

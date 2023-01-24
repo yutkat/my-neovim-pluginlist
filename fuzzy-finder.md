@@ -2,15 +2,16 @@
 
 - [Table of Contents](#table-of-contents)
 - [FuzzyFinder](#fuzzyfinder)
-    - [Telescope Extensions](#telescope-extensions)
-      - [Sorter](#sorter)
-      - [Utils](#utils)
-      - [Grep](#grep)
-      - [Integration for another plugin](#integration-for-another-plugin)
+  - [Telescope Extensions](#telescope-extensions)
+    - [Sorter](#sorter)
+    - [Utils](#utils)
+    - [Grep](#grep)
+    - [Integration for another plugin](#integration-for-another-plugin)
 
 # FuzzyFinder
 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope.nvim)
+  - [josa42/nvim-telescope-minimal-layout](https://github.com/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/stars/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/last-commit/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-telescope-minimal-layout)
 - [vijaymarupudi/nvim-fzf](https://github.com/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/stars/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/last-commit/vijaymarupudi/nvim-fzf) ![](https://img.shields.io/github/commit-activity/y/vijaymarupudi/nvim-fzf)
   - [vijaymarupudi/nvim-fzf-commands](https://github.com/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/stars/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/last-commit/vijaymarupudi/nvim-fzf-commands) ![](https://img.shields.io/github/commit-activity/y/vijaymarupudi/nvim-fzf-commands)
 - [amirrezaask/fuzzy.nvim](https://github.com/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/stars/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/amirrezaask/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/fuzzy.nvim)
