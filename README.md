@@ -1018,6 +1018,7 @@
 
 - [laytan/cloak.nvim](https://github.com/laytan/cloak.nvim) ![](https://img.shields.io/github/stars/laytan/cloak.nvim) ![](https://img.shields.io/github/last-commit/laytan/cloak.nvim) ![](https://img.shields.io/github/commit-activity/y/laytan/cloak.nvim)
 - [kurotych/ccryptor.nvim](https://github.com/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/stars/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/last-commit/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/ccryptor.nvim)
+- [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/stars/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/last-commit/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/roberte777/keep-it-secret.nvim)
 
 ### Hex Editor
 
