@@ -367,6 +367,7 @@
 ### CSV
 
 - [chen244/csv-tools.lua](https://github.com/chen244/csv-tools.lua) ![](https://img.shields.io/github/stars/chen244/csv-tools.lua) ![](https://img.shields.io/github/last-commit/chen244/csv-tools.lua) ![](https://img.shields.io/github/commit-activity/y/chen244/csv-tools.lua)
+- [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/stars/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/rainbow_csv.nvim)
 
 ### OpenAPI
 

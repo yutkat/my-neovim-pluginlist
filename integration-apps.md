@@ -255,6 +255,7 @@
 #### Terraform
 
 - [azratul/devops-tools.nvim](https://github.com/azratul/devops-tools.nvim) ![](https://img.shields.io/github/stars/azratul/devops-tools.nvim) ![](https://img.shields.io/github/last-commit/azratul/devops-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/devops-tools.nvim)
+- [walbi-malbi/telescope-tfsec.nvim](https://github.com/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/stars/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/last-commit/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/commit-activity/y/walbi-malbi/telescope-tfsec.nvim)
 
 #### Ansible
 
