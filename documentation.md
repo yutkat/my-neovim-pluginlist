@@ -90,6 +90,7 @@
 ### AsciiDoc
 
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/stars/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/last-commit/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/commit-activity/y/marioortizmanero/adoc-pdf-live.nvim)
+- [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/stars/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/last-commit/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-asciidoc-preview)
 
 ### Pandoc
 

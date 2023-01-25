@@ -103,6 +103,10 @@
 
 - [Ttibsi/pre-commit.nvim](https://github.com/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/stars/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/last-commit/Ttibsi/pre-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/Ttibsi/pre-commit.nvim)
 
+## git info
+
+- [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/git-link.nvim)
+
 # GitHub
 
 ## Features like gh
