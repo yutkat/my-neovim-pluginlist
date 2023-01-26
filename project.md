@@ -24,6 +24,7 @@
 - [Nanoteck137/sobble.nvim](https://github.com/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/sobble.nvim)
 - [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/stars/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/last-commit/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/commit-activity/y/nyngwang/fzf-lua-projections.nvim)
+- [jinzhongjia/PS_manager.nvim](https://github.com/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/PS_manager.nvim)
 
 #### Project Root Detector
 
