@@ -30,8 +30,6 @@
 
 ### Emmet
 
-- [barrett-ruth/emmet.nvim](https://github.com/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/emmet.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/emmet.nvim)
-
 ### Template
 
 - [glepnir/template.nvim](https://github.com/glepnir/template.nvim) ![](https://img.shields.io/github/stars/glepnir/template.nvim) ![](https://img.shields.io/github/last-commit/glepnir/template.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/template.nvim)

@@ -226,7 +226,6 @@
 - [s1n7ax/nvim-ts-utils](https://github.com/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/stars/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-ts-utils)
 - [ziontee113/query-secretary](https://github.com/ziontee113/query-secretary) ![](https://img.shields.io/github/stars/ziontee113/query-secretary) ![](https://img.shields.io/github/last-commit/ziontee113/query-secretary) ![](https://img.shields.io/github/commit-activity/y/ziontee113/query-secretary)
 - [NFrid/treesitter-utils](https://github.com/NFrid/treesitter-utils) ![](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![](https://img.shields.io/github/last-commit/NFrid/treesitter-utils) ![](https://img.shields.io/github/commit-activity/y/NFrid/treesitter-utils)
-- [miffi/asyn.nvim](https://github.com/miffi/asyn.nvim) ![](https://img.shields.io/github/stars/miffi/asyn.nvim) ![](https://img.shields.io/github/last-commit/miffi/asyn.nvim) ![](https://img.shields.io/github/commit-activity/y/miffi/asyn.nvim)
 
 ## [Fuzzy Finder](./fuzzy-finder.md)
 
@@ -583,7 +582,6 @@
 
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/numbers.nvim)
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
-- [hermitmaster/numbertoggle.nvim](https://github.com/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/stars/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/last-commit/hermitmaster/numbertoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/hermitmaster/numbertoggle.nvim)
 - [joshdirkx/toggle-relativenumber.nvim](https://github.com/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/stars/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/last-commit/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/commit-activity/y/joshdirkx/toggle-relativenumber.nvim)
 
 ### Cursor location
