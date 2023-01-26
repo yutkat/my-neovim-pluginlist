@@ -30,5 +30,3 @@
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
 
 ## Cursor Position
-
-- [hermitmaster/resume.nvim](https://github.com/hermitmaster/resume.nvim) ![](https://img.shields.io/github/stars/hermitmaster/resume.nvim) ![](https://img.shields.io/github/last-commit/hermitmaster/resume.nvim) ![](https://img.shields.io/github/commit-activity/y/hermitmaster/resume.nvim)
