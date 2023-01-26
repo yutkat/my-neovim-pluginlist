@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Terminal](#terminal)
     - [Terminal Enhancement](#terminal-enhancement)
+    - [Edit](#edit)
     - [External terminal](#external-terminal)
     - [Terminal Selector](#terminal-selector)
     - [Neovim in Neovim](#neovim-in-neovim)
@@ -30,6 +31,7 @@
 - [caenrique/buffer-term.nvim](https://github.com/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/stars/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/last-commit/caenrique/buffer-term.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/buffer-term.nvim)
 - [vzytoi/quickterm.nvim](https://github.com/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/stars/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/last-commit/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/vzytoi/quickterm.nvim)
 - [fj0r/nvim-taberm](https://github.com/fj0r/nvim-taberm) ![](https://img.shields.io/github/stars/fj0r/nvim-taberm) ![](https://img.shields.io/github/last-commit/fj0r/nvim-taberm) ![](https://img.shields.io/github/commit-activity/y/fj0r/nvim-taberm)
+- [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/bufterm.nvim)
 
 ### Edit
 
