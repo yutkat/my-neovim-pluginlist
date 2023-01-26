@@ -788,6 +788,7 @@
 - [tmillr/sos.nvim](https://github.com/tmillr/sos.nvim) ![](https://img.shields.io/github/stars/tmillr/sos.nvim) ![](https://img.shields.io/github/last-commit/tmillr/sos.nvim) ![](https://img.shields.io/github/commit-activity/y/tmillr/sos.nvim)
 - [Fildo7525/Revolver](https://github.com/Fildo7525/Revolver) ![](https://img.shields.io/github/stars/Fildo7525/Revolver) ![](https://img.shields.io/github/last-commit/Fildo7525/Revolver) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/Revolver)
 - [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
+- [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
 
 #### Cursor Position
 
