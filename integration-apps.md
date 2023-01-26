@@ -15,17 +15,17 @@
       - [Docker](#docker)
       - [dotenv](#dotenv)
       - [Chamber](#chamber)
-      - [Kitty](#kitty)
       - [Sphinx](#sphinx)
       - [Swagger](#swagger)
       - [endpoints.json](#endpointsjson)
-      - [gnome](#gnome)
-      - [Windows Terminal](#windows-terminal)
       - [BQN](#bqn)
       - [Skeleton](#skeleton)
     - [Shell](#shell)
       - [zsh](#zsh)
       - [fish](#fish)
+    - [Terminal](#terminal)
+      - [Kitty](#kitty)
+      - [Windows Terminal](#windows-terminal)
     - [CLI](#cli)
       - [make](#make)
       - [Bazel](#bazel)
@@ -68,6 +68,10 @@
       - [prefix.cc](#prefixcc)
       - [haste](#haste)
       - [TabNews](#tabnews)
+    - [OS](#os)
+      - [Linux](#linux)
+        - [gnome](#gnome)
+        - [darkman](#darkman)
     - [Password Manager](#password-manager)
     - [IME](#ime)
       - [Fcitx](#fcitx)
@@ -156,10 +160,6 @@
 
 - [hieutran21198/telescope-chamber.nvim](https://github.com/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/stars/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/last-commit/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/commit-activity/y/hieutran21198/telescope-chamber.nvim)
 
-#### Kitty
-
-- [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
-
 #### Sphinx
 
 - [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
@@ -171,14 +171,6 @@
 #### endpoints.json
 
 - [tlj/endpoint-previewer.nvim](https://github.com/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/stars/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/last-commit/tlj/endpoint-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/endpoint-previewer.nvim)
-
-#### gnome
-
-- [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
-
-#### Windows Terminal
-
-- [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
 
 #### BQN
 
@@ -197,6 +189,16 @@
 #### fish
 
 - [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
+
+### Terminal
+
+#### Kitty
+
+- [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
+
+#### Windows Terminal
+
+- [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
 
 ### CLI
 
@@ -372,6 +374,18 @@
 #### TabNews
 
 - [FelipeIzolan/tabnews.nvim](https://github.com/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/stars/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/last-commit/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeIzolan/tabnews.nvim)
+
+### OS
+
+#### Linux
+
+##### gnome
+
+- [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+##### darkman
+
+- [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/4e554c4c/darkman.nvim)
 
 ### Password Manager
 
