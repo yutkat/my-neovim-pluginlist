@@ -1,12 +1,12 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Snippet](#snippet)
-      - [Snippet definitions](#snippet-definitions)
-      - [Snippet converter](#snippet-converter)
-      - [Snippet view](#snippet-view)
-    - [Emmet](#emmet)
-    - [Template](#template)
+  - [Snippet](#snippet)
+    - [Snippet definitions](#snippet-definitions)
+    - [Snippet converter](#snippet-converter)
+    - [Snippet view](#snippet-view)
+  - [Emmet](#emmet)
+  - [Template](#template)
 
 ### Snippet
 
@@ -18,6 +18,7 @@
 
 - [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/stars/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/last-commit/rafamadriz/friendly-snippets) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/friendly-snippets)
 - [madskjeldgaard/cheeky-snippets.nvim](https://github.com/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/cheeky-snippets.nvim)
+- [s1n7ax/nvim-snips](https://github.com/s1n7ax/nvim-snips) ![](https://img.shields.io/github/stars/s1n7ax/nvim-snips) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-snips) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-snips)
 
 #### Snippet converter
 
