@@ -13,6 +13,7 @@
     - [CSS](#css)
     - [HTTP](#http)
     - [REST](#rest)
+    - [Protocol buffer](#protocol-buffer)
     - [Hurl](#hurl)
     - [Graphql](#graphql)
       - [tailwind](#tailwind)
@@ -122,6 +123,10 @@
 
 - [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
 
+### Protocol buffer
+
+- [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
+
 ### Hurl
 
 - [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
@@ -227,6 +232,7 @@
 - [benediktjost/nvim-treesitter-go-return](https://github.com/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/stars/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/last-commit/benediktjost/nvim-treesitter-go-return) ![](https://img.shields.io/github/commit-activity/y/benediktjost/nvim-treesitter-go-return)
 - [abecodes/gox.nvim](https://github.com/abecodes/gox.nvim) ![](https://img.shields.io/github/stars/abecodes/gox.nvim) ![](https://img.shields.io/github/last-commit/abecodes/gox.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/gox.nvim)
 - [aca/go-patch-unusedvar.nvim](https://github.com/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/stars/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/last-commit/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/commit-activity/y/aca/go-patch-unusedvar.nvim)
+- [jeniasaigak/goplay.nvim](https://github.com/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/stars/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/last-commit/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/commit-activity/y/jeniasaigak/goplay.nvim)
 
 #### Test
 
