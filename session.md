@@ -24,6 +24,7 @@
 - [gennaro-tedesco/nvim-possession](https://github.com/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-possession) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-possession)
 - [pluffie/neoproj](https://github.com/pluffie/neoproj) ![](https://img.shields.io/github/stars/pluffie/neoproj) ![](https://img.shields.io/github/last-commit/pluffie/neoproj) ![](https://img.shields.io/github/commit-activity/y/pluffie/neoproj)
 - [lukamanitta/branchsession.nvim](https://github.com/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/stars/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/last-commit/lukamanitta/branchsession.nvim) ![](https://img.shields.io/github/commit-activity/y/lukamanitta/branchsession.nvim)
+- [glepnir/dbsession.nvim](https://github.com/glepnir/dbsession.nvim) ![](https://img.shields.io/github/stars/glepnir/dbsession.nvim) ![](https://img.shields.io/github/last-commit/glepnir/dbsession.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/dbsession.nvim)
 
 ## Session Selector
 
