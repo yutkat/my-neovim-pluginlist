@@ -223,6 +223,7 @@
 
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 - [Lommix/godot.nvim](https://github.com/Lommix/godot.nvim) ![](https://img.shields.io/github/stars/Lommix/godot.nvim) ![](https://img.shields.io/github/last-commit/Lommix/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/godot.nvim)
+- [niscolas/nvim-godot](https://github.com/niscolas/nvim-godot) ![](https://img.shields.io/github/stars/niscolas/nvim-godot) ![](https://img.shields.io/github/last-commit/niscolas/nvim-godot) ![](https://img.shields.io/github/commit-activity/y/niscolas/nvim-godot)
 
 #### rsync
 
