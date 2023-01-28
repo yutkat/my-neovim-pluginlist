@@ -341,6 +341,7 @@
 ### Visual
 
 - [0xAdk/full_visual_line.nvim](https://github.com/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/stars/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/last-commit/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/commit-activity/y/0xAdk/full_visual_line.nvim)
+- [coinator/gv-plus.nvim](https://github.com/coinator/gv-plus.nvim) ![](https://img.shields.io/github/stars/coinator/gv-plus.nvim) ![](https://img.shields.io/github/last-commit/coinator/gv-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/coinator/gv-plus.nvim)
 
 ### Wrap
 
@@ -521,6 +522,7 @@
 #### Surround
 
 - [kylechui/nvim-surround](https://github.com/kylechui/nvim-surround) ![](https://img.shields.io/github/stars/kylechui/nvim-surround) ![](https://img.shields.io/github/last-commit/kylechui/nvim-surround) ![](https://img.shields.io/github/commit-activity/y/kylechui/nvim-surround)
+  - [roobert/surround-ui.nvim](https://github.com/roobert/surround-ui.nvim) ![](https://img.shields.io/github/stars/roobert/surround-ui.nvim) ![](https://img.shields.io/github/last-commit/roobert/surround-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/surround-ui.nvim)
 - [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) ![](https://img.shields.io/github/stars/ur4ltz/surround.nvim) ![](https://img.shields.io/github/last-commit/ur4ltz/surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ur4ltz/surround.nvim)
 - [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) ![](https://img.shields.io/github/stars/echasnovski/mini.surround) ![](https://img.shields.io/github/last-commit/echasnovski/mini.surround) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.surround)
 
@@ -926,6 +928,7 @@
 - [gw31415/deepl-commands.nvim](https://github.com/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/stars/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/last-commit/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/deepl-commands.nvim)
 - [nvima/nvim-translator](https://github.com/nvima/nvim-translator) ![](https://img.shields.io/github/stars/nvima/nvim-translator) ![](https://img.shields.io/github/last-commit/nvima/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/nvima/nvim-translator)
 - [jalvesaq/dict.nvim](https://github.com/jalvesaq/dict.nvim) ![](https://img.shields.io/github/stars/jalvesaq/dict.nvim) ![](https://img.shields.io/github/last-commit/jalvesaq/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/jalvesaq/dict.nvim)
+- [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) ![](https://img.shields.io/github/stars/niuiic/translate.nvim) ![](https://img.shields.io/github/last-commit/niuiic/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/translate.nvim)
 
 ### Manual
 
