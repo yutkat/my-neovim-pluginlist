@@ -151,6 +151,7 @@
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
+- [lpoto/telescope-docker.nvim](https://github.com/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-docker.nvim)
 
 #### dotenv
 
