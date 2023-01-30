@@ -686,6 +686,7 @@
 - [VonHeikemen/fine-cmdline.nvim](https://github.com/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/fine-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/fine-cmdline.nvim)
 - [delphinus/emcl.nvim](https://github.com/delphinus/emcl.nvim) ![](https://img.shields.io/github/stars/delphinus/emcl.nvim) ![](https://img.shields.io/github/last-commit/delphinus/emcl.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/emcl.nvim)
 - [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
+- [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) ![](https://img.shields.io/github/stars/vzze/cmdline.nvim) ![](https://img.shields.io/github/last-commit/vzze/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/cmdline.nvim)
 
 #### GUID
 
@@ -863,6 +864,7 @@
 - [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/stars/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/format-on-leave.nvim)
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
+- [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
 
 ##### Trim Whitespace
 
