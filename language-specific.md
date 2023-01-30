@@ -51,6 +51,7 @@
     - [Cell](#cell)
     - [Tcl/Tk](#tcltk)
     - [Prolog](#prolog)
+    - [Brainfuck](#brainfuck)
   - [Configuration File](#configuration-file)
     - [JSON](#json)
     - [YAML](#yaml)
@@ -351,6 +352,10 @@
 ### Prolog
 
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
+
+### Brainfuck
+
+- [seandewar/brainfuck.nvim](https://github.com/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/stars/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/last-commit/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/commit-activity/y/seandewar/brainfuck.nvim)
 
 ## Configuration File
 
