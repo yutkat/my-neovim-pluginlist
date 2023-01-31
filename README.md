@@ -628,6 +628,8 @@
 
 ### Diff
 
+- [aaron-p1/compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/compare-remotes.nvim)
+
 ### Tags
 
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/stars/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/last-commit/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/commit-activity/y/nanotee/nvim-lsp-basics)
