@@ -26,6 +26,7 @@
       - [Rails](#rails)
     - [Nix](#nix)
     - [PHP](#php)
+      - [Laravel](#laravel)
     - [Lua](#lua)
     - [Rust](#rust)
     - [Go](#go)
@@ -204,8 +205,11 @@
 ### PHP
 
 - [adalessa/composer.nvim](https://github.com/adalessa/composer.nvim) ![](https://img.shields.io/github/stars/adalessa/composer.nvim) ![](https://img.shields.io/github/last-commit/adalessa/composer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/composer.nvim)
-- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) ![](https://img.shields.io/github/stars/adalessa/laravel.nvim) ![](https://img.shields.io/github/last-commit/adalessa/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/laravel.nvim)
 - [ccaglak/namespace.nvim](https://github.com/ccaglak/namespace.nvim) ![](https://img.shields.io/github/stars/ccaglak/namespace.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/namespace.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/namespace.nvim)
+
+#### Laravel
+
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) ![](https://img.shields.io/github/stars/adalessa/laravel.nvim) ![](https://img.shields.io/github/last-commit/adalessa/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/laravel.nvim)
 - [ccaglak/larago.nvim](https://github.com/ccaglak/larago.nvim) ![](https://img.shields.io/github/stars/ccaglak/larago.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/larago.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/larago.nvim)
 
 ### Lua
