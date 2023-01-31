@@ -105,6 +105,7 @@
     - [Abbreviation](#abbreviation)
     - [Quickfix](#quickfix)
     - [cd(change directory)](#cdchange-directory)
+      - [z](#z)
     - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
     - [ftplugin](#ftplugin)
       - [filetype colorscheme](#filetype-colorscheme)
@@ -748,8 +749,12 @@
 
 - [nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-z.nvim)
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/stars/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/last-commit/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/commit-activity/y/jvgrootveld/telescope-zoxide)
-- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) ![](https://img.shields.io/github/stars/Zane-/cder.nvim) ![](https://img.shields.io/github/last-commit/Zane-/cder.nvim) ![](https://img.shields.io/github/commit-activity/y/Zane-/cder.nvim)
+
+#### z
+
+- [skywind3000/z.lua](https://github.com/skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
+- [tenfyzhong/z.nvim](https://github.com/tenfyzhong/z.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/z.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/z.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/z.nvim)
 
 ### ftdetect(Filetype detector)
 
