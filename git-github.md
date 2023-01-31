@@ -5,6 +5,7 @@
   - [git clone](#git-clone)
   - [git status](#git-status)
   - [git commit](#git-commit)
+    - [prefix](#prefix)
     - [co authored](#co-authored)
   - [git blame](#git-blame)
   - [git log](#git-log)
@@ -14,11 +15,13 @@
   - [git open](#git-open)
   - [gitignore](#gitignore)
   - [git hook](#git-hook)
+  - [git info](#git-info)
 - [GitHub](#github)
   - [Features like gh](#features-like-gh)
   - [GitHub tweaks](#github-tweaks)
   - [Pull Request](#pull-request)
   - [Link](#link)
+    - [Image](#image)
     - [grep.app](#grepapp)
 
 # Git
@@ -113,6 +116,7 @@
 
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) ![](https://img.shields.io/github/stars/pwntester/octo.nvim) ![](https://img.shields.io/github/last-commit/pwntester/octo.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/octo.nvim)
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) ![](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/gh.nvim)
+- [muryp/nvim-muryp-git](https://github.com/muryp/nvim-muryp-git) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-git) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-git) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-git)
 
 ## GitHub tweaks
 
