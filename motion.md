@@ -54,6 +54,7 @@
 - [echasnovski/mini.jump](https://github.com/echasnovski/mini.jump) ![](https://img.shields.io/github/stars/echasnovski/mini.jump) ![](https://img.shields.io/github/last-commit/echasnovski/mini.jump) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.jump)
 - [ghostbuster91/nvim-next](https://github.com/ghostbuster91/nvim-next) ![](https://img.shields.io/github/stars/ghostbuster91/nvim-next) ![](https://img.shields.io/github/last-commit/ghostbuster91/nvim-next) ![](https://img.shields.io/github/commit-activity/y/ghostbuster91/nvim-next)
 - [0x00-ketsu/eft.nvim](https://github.com/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/eft.nvim)
+- [TheSafdarAwan/find-extender.nvim](https://github.com/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/stars/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/last-commit/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/commit-activity/y/TheSafdarAwan/find-extender.nvim)
 
 #### Show jump word
 
