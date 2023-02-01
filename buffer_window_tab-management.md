@@ -6,6 +6,7 @@
     - [Buffer Selector](#buffer-selector)
     - [Other Buffer Switcher](#other-buffer-switcher)
     - [Buffer Management](#buffer-management)
+      - [create](#create)
       - [open](#open)
         - [recent file](#recent-file)
         - [remote open](#remote-open)
@@ -59,6 +60,10 @@
 - [nat-418/dbm.nvim](https://github.com/nat-418/dbm.nvim) ![](https://img.shields.io/github/stars/nat-418/dbm.nvim) ![](https://img.shields.io/github/last-commit/nat-418/dbm.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/dbm.nvim)
 - [nat-418/bufala.nvim](https://github.com/nat-418/bufala.nvim) ![](https://img.shields.io/github/stars/nat-418/bufala.nvim) ![](https://img.shields.io/github/last-commit/nat-418/bufala.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/bufala.nvim)
 - [Limeoats/buffer-manager.nvim](https://github.com/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Limeoats/buffer-manager.nvim)
+
+#### create
+
+- [mskelton/local-yokel.nvim](https://github.com/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/stars/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/last-commit/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/local-yokel.nvim)
 
 #### open
 
