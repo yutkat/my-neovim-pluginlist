@@ -130,8 +130,6 @@
 
 ## autocmd
 
-- [distek/aftermath.nvim](https://github.com/distek/aftermath.nvim) ![](https://img.shields.io/github/stars/distek/aftermath.nvim) ![](https://img.shields.io/github/last-commit/distek/aftermath.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/aftermath.nvim)
-
 ## Icon
 
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
