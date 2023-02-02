@@ -273,7 +273,6 @@
 ### Syntax
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
-- [caosistema/nvim-spotlight](https://github.com/caosistema/nvim-spotlight) ![](https://img.shields.io/github/stars/caosistema/nvim-spotlight) ![](https://img.shields.io/github/last-commit/caosistema/nvim-spotlight) ![](https://img.shields.io/github/commit-activity/y/caosistema/nvim-spotlight)
 
 #### Colorizer
 
