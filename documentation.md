@@ -85,7 +85,6 @@
 ### PlantUML
 
 - [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
-- [caosistema/nvim-modelizer](https://github.com/caosistema/nvim-modelizer) ![](https://img.shields.io/github/stars/caosistema/nvim-modelizer) ![](https://img.shields.io/github/last-commit/caosistema/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/caosistema/nvim-modelizer)
 
 ### AsciiDoc
 
