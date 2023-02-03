@@ -96,6 +96,7 @@
       - [Vale](#vale)
     - [Abbreviation](#abbreviation)
     - [Quickfix](#quickfix)
+    - [Location](#location)
     - [cd(change directory)](#cdchange-directory)
       - [z](#z)
     - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
@@ -435,6 +436,7 @@
 - [ggandor/leap-spooky.nvim](https://github.com/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-spooky.nvim)
 - [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) ![](https://img.shields.io/github/stars/echasnovski/mini.ai) ![](https://img.shields.io/github/last-commit/echasnovski/mini.ai) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.ai)
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-various-textobjs)
+- [bagohart/textobj-before.nvim](https://github.com/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/stars/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/last-commit/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/textobj-before.nvim)
 
 #### Unit
 
@@ -680,6 +682,10 @@
 - [quocnho/nvim-pqf](https://github.com/quocnho/nvim-pqf) ![](https://img.shields.io/github/stars/quocnho/nvim-pqf) ![](https://img.shields.io/github/last-commit/quocnho/nvim-pqf) ![](https://img.shields.io/github/commit-activity/y/quocnho/nvim-pqf)
 - [delphinus/qfheight.nvim](https://github.com/delphinus/qfheight.nvim) ![](https://img.shields.io/github/stars/delphinus/qfheight.nvim) ![](https://img.shields.io/github/last-commit/delphinus/qfheight.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/qfheight.nvim)
 - [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoWell.lua)
+
+### Location
+
+- [tenfyzhong/loc-quic-action.nvim](https://github.com/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/loc-quic-action.nvim)
 
 ### cd(change directory)
 
@@ -961,6 +967,7 @@
 - [shanytc/blindvim.nvim](https://github.com/shanytc/blindvim.nvim) ![](https://img.shields.io/github/stars/shanytc/blindvim.nvim) ![](https://img.shields.io/github/last-commit/shanytc/blindvim.nvim) ![](https://img.shields.io/github/commit-activity/y/shanytc/blindvim.nvim)
 - [albenisolmos/center.nvim](https://github.com/albenisolmos/center.nvim) ![](https://img.shields.io/github/stars/albenisolmos/center.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/center.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/center.nvim)
 - [Manas140/Zazen.nvim](https://github.com/Manas140/Zazen.nvim) ![](https://img.shields.io/github/stars/Manas140/Zazen.nvim) ![](https://img.shields.io/github/last-commit/Manas140/Zazen.nvim) ![](https://img.shields.io/github/commit-activity/y/Manas140/Zazen.nvim)
+- [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) ![](https://img.shields.io/github/stars/catgoose/not-zen.nvim) ![](https://img.shields.io/github/last-commit/catgoose/not-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/not-zen.nvim)
 
 ### Scratchpad
 

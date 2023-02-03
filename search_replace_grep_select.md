@@ -48,6 +48,10 @@
 - [glepnir/hlsearch.nvim](https://github.com/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/stars/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/last-commit/glepnir/hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/hlsearch.nvim)
 - [asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/stars/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/last-commit/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/asiryk/auto-hlsearch.nvim)
 
+## Visual search
+
+- [bagohart/search-in-visual-selection.nvim](https://github.com/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/stars/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/last-commit/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/search-in-visual-selection.nvim)
+
 # Replace
 
 - [cshuaimin/ssr.nvim](https://github.com/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/stars/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/last-commit/cshuaimin/ssr.nvim) ![](https://img.shields.io/github/commit-activity/y/cshuaimin/ssr.nvim)
