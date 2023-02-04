@@ -7,9 +7,11 @@
   - [Search count](#search-count)
   - [Comment search](#comment-search)
   - [Search highlight](#search-highlight)
+  - [Visual search](#visual-search)
 - [Replace](#replace)
 - [Grep](#grep)
 - [Select](#select)
+  - [narrowing](#narrowing)
   - [Multi Cursor](#multi-cursor)
   - [Incremental selection](#incremental-selection)
 
@@ -75,6 +77,10 @@
 
 - [Dkendal/nvim-treeclimber](https://github.com/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/stars/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-treeclimber) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-treeclimber)
 - [m-gail/escape.nvim](https://github.com/m-gail/escape.nvim) ![](https://img.shields.io/github/stars/m-gail/escape.nvim) ![](https://img.shields.io/github/last-commit/m-gail/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/escape.nvim)
+
+## narrowing
+
+- [bagohart/minimal-narrow-region.nvim](https://github.com/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/stars/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/last-commit/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/minimal-narrow-region.nvim)
 
 ## Multi Cursor
 

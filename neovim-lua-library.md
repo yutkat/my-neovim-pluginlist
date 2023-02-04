@@ -14,6 +14,7 @@
     - [FuzzyFinder](#fuzzyfinder)
   - [Error handling](#error-handling)
   - [Assert](#assert)
+  - [Curl](#curl)
   - [REST](#rest)
   - [GRPC](#grpc)
   - [WebSocket](#websocket)
@@ -91,6 +92,10 @@
 
 - [notomo/assertlib.nvim](https://github.com/notomo/assertlib.nvim) ![](https://img.shields.io/github/stars/notomo/assertlib.nvim) ![](https://img.shields.io/github/last-commit/notomo/assertlib.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/assertlib.nvim)
 
+## Curl
+
+- [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
+
 ## REST
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
@@ -156,3 +161,4 @@
 ## Util wrapper
 
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/stars/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/last-commit/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/nvim-api-wrappers)
+- [javio7/nvim-osfa](https://github.com/javio7/nvim-osfa) ![](https://img.shields.io/github/stars/javio7/nvim-osfa) ![](https://img.shields.io/github/last-commit/javio7/nvim-osfa) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-osfa)
