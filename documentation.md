@@ -50,6 +50,7 @@
 - [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
 - [GnikDroy/mdpreview.nvim](https://github.com/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/stars/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/GnikDroy/mdpreview.nvim)
+- [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
 
 #### Markdown code block
 
@@ -85,6 +86,7 @@
 ### PlantUML
 
 - [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
+- [javio7/nvim-modelizer](https://github.com/javio7/nvim-modelizer) ![](https://img.shields.io/github/stars/javio7/nvim-modelizer) ![](https://img.shields.io/github/last-commit/javio7/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-modelizer)
 
 ### AsciiDoc
 
