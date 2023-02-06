@@ -301,6 +301,7 @@
 - [clojure-vim/jazz.nvim](https://github.com/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/stars/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/last-commit/clojure-vim/jazz.nvim) ![](https://img.shields.io/github/commit-activity/y/clojure-vim/jazz.nvim)
 - [kkharji/lispdocs.nvim](https://github.com/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/stars/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/last-commit/kkharji/lispdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/kkharji/lispdocs.nvim)
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) ![](https://img.shields.io/github/stars/PaterJason/cmp-conjure) ![](https://img.shields.io/github/last-commit/PaterJason/cmp-conjure) ![](https://img.shields.io/github/commit-activity/y/PaterJason/cmp-conjure)
+- [mikepjb/replica.nvim](https://github.com/mikepjb/replica.nvim) ![](https://img.shields.io/github/stars/mikepjb/replica.nvim) ![](https://img.shields.io/github/last-commit/mikepjb/replica.nvim) ![](https://img.shields.io/github/commit-activity/y/mikepjb/replica.nvim)
 
 ### Elixir
 

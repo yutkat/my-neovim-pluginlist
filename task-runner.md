@@ -8,7 +8,7 @@
     - [Lua](#lua)
     - [Shell](#shell)
   - [Command style](#command-style)
-  - [Map style](#map-style)
+  - [Auto detect style](#auto-detect-style)
   - [CLI](#cli)
   - [Partial execution](#partial-execution)
 
@@ -68,10 +68,11 @@
 - [AbaoFromCUG/async-runner.nvim](https://github.com/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/async-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/async-runner.nvim)
 - [LucLabarriere/maker.nvim](https://github.com/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/stars/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/last-commit/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/LucLabarriere/maker.nvim)
 
-## Map style
+## Auto detect style
 
 - [addcninblue/nvim-acmetag](https://github.com/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/stars/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/last-commit/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/commit-activity/y/addcninblue/nvim-acmetag)
 - [sencer/async.nvim](https://github.com/sencer/async.nvim) ![](https://img.shields.io/github/stars/sencer/async.nvim) ![](https://img.shields.io/github/last-commit/sencer/async.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/async.nvim)
+- [MarcHamamji/runner.nvim](https://github.com/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/stars/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/last-commit/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcHamamji/runner.nvim)
 
 ## CLI
 
