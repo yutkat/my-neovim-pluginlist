@@ -154,6 +154,7 @@
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
+    - [Human-readable](#human-readable)
     - [Scratchpad](#scratchpad)
     - [Performance Test](#performance-test)
     - [Security](#security)
@@ -974,6 +975,7 @@
 ### Human-readable
 
 - [chuck-flowers/purl.nvim](https://github.com/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/purl.nvim)
+- [asrul10/readable-number.nvim](https://github.com/asrul10/readable-number.nvim) ![](https://img.shields.io/github/stars/asrul10/readable-number.nvim) ![](https://img.shields.io/github/last-commit/asrul10/readable-number.nvim) ![](https://img.shields.io/github/commit-activity/y/asrul10/readable-number.nvim)
 
 ### Scratchpad
 
