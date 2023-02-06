@@ -189,7 +189,6 @@
 - [rktjmp/pact.nvim](https://github.com/rktjmp/pact.nvim) ![](https://img.shields.io/github/stars/rktjmp/pact.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/pact.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/pact.nvim)
 - [Chromosore/lazily-nvim](https://github.com/Chromosore/lazily-nvim) ![](https://img.shields.io/github/stars/Chromosore/lazily-nvim) ![](https://img.shields.io/github/last-commit/Chromosore/lazily-nvim) ![](https://img.shields.io/github/commit-activity/y/Chromosore/lazily-nvim)
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
-- [loichyan/spark.nvim](https://github.com/loichyan/spark.nvim) ![](https://img.shields.io/github/stars/loichyan/spark.nvim) ![](https://img.shields.io/github/last-commit/loichyan/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/spark.nvim)
 - [nat-418/slowly.nvim](https://github.com/nat-418/slowly.nvim) ![](https://img.shields.io/github/stars/nat-418/slowly.nvim) ![](https://img.shields.io/github/last-commit/nat-418/slowly.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/slowly.nvim)
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
 
@@ -687,8 +686,6 @@
 - [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoWell.lua)
 
 ### Location
-
-- [tenfyzhong/loc-quic-action.nvim](https://github.com/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/loc-quic-action.nvim)
 
 ### cd(change directory)
 
