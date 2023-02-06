@@ -47,6 +47,7 @@
 - [TymekDev/repos.nvim](https://github.com/TymekDev/repos.nvim) ![](https://img.shields.io/github/stars/TymekDev/repos.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/repos.nvim)
 - [kndndrj/nvim-projector](https://github.com/kndndrj/nvim-projector) ![](https://img.shields.io/github/stars/kndndrj/nvim-projector) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-projector) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-projector)
 - [guigui64/local.nvim](https://github.com/guigui64/local.nvim) ![](https://img.shields.io/github/stars/guigui64/local.nvim) ![](https://img.shields.io/github/last-commit/guigui64/local.nvim) ![](https://img.shields.io/github/commit-activity/y/guigui64/local.nvim)
+- [DrKGD/nvimlocale.nvim](https://github.com/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/stars/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/last-commit/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKGD/nvimlocale.nvim)
 
 #### Config switcher
 

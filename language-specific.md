@@ -48,6 +48,7 @@
     - [Cairo](#cairo)
     - [Agda](#agda)
     - [Monkey](#monkey)
+    - [GNU APL](#gnu-apl)
     - [Moonscript](#moonscript)
     - [Cell](#cell)
     - [Tcl/Tk](#tcltk)
@@ -340,6 +341,10 @@
 ### Monkey
 
 - [mhanberg/monkey.nvim](https://github.com/mhanberg/monkey.nvim) ![](https://img.shields.io/github/stars/mhanberg/monkey.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/monkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/monkey.nvim)
+
+### GNU APL
+
+- [salkin-mada/apl.nvim](https://github.com/salkin-mada/apl.nvim) ![](https://img.shields.io/github/stars/salkin-mada/apl.nvim) ![](https://img.shields.io/github/last-commit/salkin-mada/apl.nvim) ![](https://img.shields.io/github/commit-activity/y/salkin-mada/apl.nvim)
 
 ### Moonscript
 
