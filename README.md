@@ -269,6 +269,7 @@
 - [0xAdk/full_visual_line.nvim](https://github.com/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/stars/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/last-commit/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/commit-activity/y/0xAdk/full_visual_line.nvim)
 - [coinator/gv-plus.nvim](https://github.com/coinator/gv-plus.nvim) ![](https://img.shields.io/github/stars/coinator/gv-plus.nvim) ![](https://img.shields.io/github/last-commit/coinator/gv-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/coinator/gv-plus.nvim)
 - [bwintertkb/visual_wrap.nvim](https://github.com/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/stars/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/last-commit/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/bwintertkb/visual_wrap.nvim)
+- [bagohart/niceblock.nvim](https://github.com/bagohart/niceblock.nvim) ![](https://img.shields.io/github/stars/bagohart/niceblock.nvim) ![](https://img.shields.io/github/last-commit/bagohart/niceblock.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/niceblock.nvim)
 
 ### Wrap
 
@@ -386,6 +387,7 @@
 - [zegervdv/nrpattern.nvim](https://github.com/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/stars/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/last-commit/zegervdv/nrpattern.nvim) ![](https://img.shields.io/github/commit-activity/y/zegervdv/nrpattern.nvim)
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/stars/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/last-commit/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/commit-activity/y/nguyenvukhang/nvim-toggler)
 - [Dotrar/neovim-arithmagic](https://github.com/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/stars/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/last-commit/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/commit-activity/y/Dotrar/neovim-arithmagic)
+- [frenzox/nvim-uconv](https://github.com/frenzox/nvim-uconv) ![](https://img.shields.io/github/stars/frenzox/nvim-uconv) ![](https://img.shields.io/github/last-commit/frenzox/nvim-uconv) ![](https://img.shields.io/github/commit-activity/y/frenzox/nvim-uconv)
 
 ### Convert Case
 
@@ -643,6 +645,7 @@
 - [loadfms/chettahsheet.nvim](https://github.com/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/stars/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/last-commit/loadfms/chettahsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/loadfms/chettahsheet.nvim)
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) ![](https://img.shields.io/github/stars/octaltree/cmp-look) ![](https://img.shields.io/github/last-commit/octaltree/cmp-look) ![](https://img.shields.io/github/commit-activity/y/octaltree/cmp-look)
 - [yagiziskirik/AirSupport.nvim](https://github.com/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/stars/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/last-commit/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/commit-activity/y/yagiziskirik/AirSupport.nvim)
+- [roobert/tldr-lang.nvim](https://github.com/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/stars/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/last-commit/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tldr-lang.nvim)
 
 ### Messsage
 

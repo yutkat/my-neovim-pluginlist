@@ -51,6 +51,7 @@
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
 - [GnikDroy/mdpreview.nvim](https://github.com/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/stars/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/GnikDroy/mdpreview.nvim)
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
+- [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
 
 #### Markdown code block
 
