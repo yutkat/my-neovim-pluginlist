@@ -154,6 +154,7 @@
       - [Pomodoro](#pomodoro)
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
+    - [Human-readable](#human-readable)
     - [Scratchpad](#scratchpad)
     - [Performance Test](#performance-test)
     - [Security](#security)
@@ -188,7 +189,6 @@
 - [rktjmp/pact.nvim](https://github.com/rktjmp/pact.nvim) ![](https://img.shields.io/github/stars/rktjmp/pact.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/pact.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/pact.nvim)
 - [Chromosore/lazily-nvim](https://github.com/Chromosore/lazily-nvim) ![](https://img.shields.io/github/stars/Chromosore/lazily-nvim) ![](https://img.shields.io/github/last-commit/Chromosore/lazily-nvim) ![](https://img.shields.io/github/commit-activity/y/Chromosore/lazily-nvim)
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
-- [loichyan/spark.nvim](https://github.com/loichyan/spark.nvim) ![](https://img.shields.io/github/stars/loichyan/spark.nvim) ![](https://img.shields.io/github/last-commit/loichyan/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/spark.nvim)
 - [nat-418/slowly.nvim](https://github.com/nat-418/slowly.nvim) ![](https://img.shields.io/github/stars/nat-418/slowly.nvim) ![](https://img.shields.io/github/last-commit/nat-418/slowly.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/slowly.nvim)
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
 
@@ -687,8 +687,6 @@
 
 ### Location
 
-- [tenfyzhong/loc-quic-action.nvim](https://github.com/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/loc-quic-action.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/loc-quic-action.nvim)
-
 ### cd(change directory)
 
 - [nvim-telescope/telescope-z.nvim](https://github.com/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-z.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-z.nvim)
@@ -974,6 +972,7 @@
 ### Human-readable
 
 - [chuck-flowers/purl.nvim](https://github.com/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/purl.nvim)
+- [asrul10/readable-number.nvim](https://github.com/asrul10/readable-number.nvim) ![](https://img.shields.io/github/stars/asrul10/readable-number.nvim) ![](https://img.shields.io/github/last-commit/asrul10/readable-number.nvim) ![](https://img.shields.io/github/commit-activity/y/asrul10/readable-number.nvim)
 
 ### Scratchpad
 
