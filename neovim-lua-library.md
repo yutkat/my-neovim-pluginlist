@@ -12,6 +12,7 @@
     - [Popup](#popup)
     - [Animation](#animation)
     - [FuzzyFinder](#fuzzyfinder)
+    - [Spinner](#spinner)
   - [Error handling](#error-handling)
   - [Assert](#assert)
   - [Curl](#curl)
@@ -83,6 +84,10 @@
 ### FuzzyFinder
 
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
+
+### Spinner
+
+- [javio7/nvim-spinetta](https://github.com/javio7/nvim-spinetta) ![](https://img.shields.io/github/stars/javio7/nvim-spinetta) ![](https://img.shields.io/github/last-commit/javio7/nvim-spinetta) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-spinetta)
 
 ## Error handling
 

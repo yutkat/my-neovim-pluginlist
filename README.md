@@ -278,6 +278,7 @@
 
 - [0xAdk/full_visual_line.nvim](https://github.com/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/stars/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/last-commit/0xAdk/full_visual_line.nvim) ![](https://img.shields.io/github/commit-activity/y/0xAdk/full_visual_line.nvim)
 - [coinator/gv-plus.nvim](https://github.com/coinator/gv-plus.nvim) ![](https://img.shields.io/github/stars/coinator/gv-plus.nvim) ![](https://img.shields.io/github/last-commit/coinator/gv-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/coinator/gv-plus.nvim)
+- [bwintertkb/visual_wrap.nvim](https://github.com/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/stars/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/last-commit/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/bwintertkb/visual_wrap.nvim)
 
 ### Wrap
 
@@ -969,6 +970,10 @@
 - [albenisolmos/center.nvim](https://github.com/albenisolmos/center.nvim) ![](https://img.shields.io/github/stars/albenisolmos/center.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/center.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/center.nvim)
 - [Manas140/Zazen.nvim](https://github.com/Manas140/Zazen.nvim) ![](https://img.shields.io/github/stars/Manas140/Zazen.nvim) ![](https://img.shields.io/github/last-commit/Manas140/Zazen.nvim) ![](https://img.shields.io/github/commit-activity/y/Manas140/Zazen.nvim)
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) ![](https://img.shields.io/github/stars/catgoose/not-zen.nvim) ![](https://img.shields.io/github/last-commit/catgoose/not-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/not-zen.nvim)
+
+### Human-readable
+
+- [chuck-flowers/purl.nvim](https://github.com/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/purl.nvim)
 
 ### Scratchpad
 
