@@ -51,6 +51,10 @@
 - [duydang2311/gh-status.nvim](https://github.com/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/stars/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/last-commit/duydang2311/gh-status.nvim) ![](https://img.shields.io/github/commit-activity/y/duydang2311/gh-status.nvim)
 - [kyoh86/gitstat.nvim](https://github.com/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/stars/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/gitstat.nvim)
 
+## git add
+
+- [bagohart/diff-mappings.nvim](https://github.com/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/diff-mappings.nvim)
+
 ## git commit
 
 - [olacin/telescope-cc.nvim](https://github.com/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/stars/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/olacin/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/olacin/telescope-cc.nvim)
@@ -89,6 +93,10 @@
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/stars/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/diff-therapy.nvim)
 - [milennik/gitdiff.nvim](https://github.com/milennik/gitdiff.nvim) ![](https://img.shields.io/github/stars/milennik/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/milennik/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/milennik/gitdiff.nvim)
 - [paopaol/telescope-git-diffs.nvim](https://github.com/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/stars/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/last-commit/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/paopaol/telescope-git-diffs.nvim)
+
+## git rebase
+
+- [bagohart/git-rebase-mappings.nvim](https://github.com/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/git-rebase-mappings.nvim)
 
 ## git conflict
 
