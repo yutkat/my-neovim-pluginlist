@@ -52,6 +52,7 @@
 - [Everduin94/nvim-quick-switcher](https://github.com/Everduin94/nvim-quick-switcher) ![](https://img.shields.io/github/stars/Everduin94/nvim-quick-switcher) ![](https://img.shields.io/github/last-commit/Everduin94/nvim-quick-switcher) ![](https://img.shields.io/github/commit-activity/y/Everduin94/nvim-quick-switcher)
 - [Matsa59/potion-maker.nvim](https://github.com/Matsa59/potion-maker.nvim) ![](https://img.shields.io/github/stars/Matsa59/potion-maker.nvim) ![](https://img.shields.io/github/last-commit/Matsa59/potion-maker.nvim) ![](https://img.shields.io/github/commit-activity/y/Matsa59/potion-maker.nvim)
 - [otavioschwanck/telescope-alternate.nvim](https://github.com/otavioschwanck/telescope-alternate.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/telescope-alternate.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/telescope-alternate.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/telescope-alternate.nvim)
+- [FotiadisM/other.nvim](https://github.com/FotiadisM/other.nvim) ![](https://img.shields.io/github/stars/FotiadisM/other.nvim) ![](https://img.shields.io/github/last-commit/FotiadisM/other.nvim) ![](https://img.shields.io/github/commit-activity/y/FotiadisM/other.nvim)
 
 ### Buffer Management
 
