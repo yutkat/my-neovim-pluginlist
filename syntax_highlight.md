@@ -64,6 +64,7 @@
 - [echasnovski/mini.cursorword](https://github.com/echasnovski/mini.cursorword) ![](https://img.shields.io/github/stars/echasnovski/mini.cursorword) ![](https://img.shields.io/github/last-commit/echasnovski/mini.cursorword) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.cursorword)
 - [nyngwang/murmur.lua](https://github.com/nyngwang/murmur.lua) ![](https://img.shields.io/github/stars/nyngwang/murmur.lua) ![](https://img.shields.io/github/last-commit/nyngwang/murmur.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/murmur.lua)
 - [elfenpiff/nvim-word-highlight](https://github.com/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/stars/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/last-commit/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/commit-activity/y/elfenpiff/nvim-word-highlight)
+- [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) ![](https://img.shields.io/github/stars/tzachar/local-highlight.nvim) ![](https://img.shields.io/github/last-commit/tzachar/local-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/local-highlight.nvim)
 
 ### Jump highlight
 
