@@ -2,8 +2,10 @@
 
 - [Table of Contents](#table-of-contents)
 - [Git](#git)
+  - [lazygit](#lazygit)
   - [git clone](#git-clone)
   - [git status](#git-status)
+  - [git add](#git-add)
   - [git commit](#git-commit)
     - [prefix](#prefix)
     - [co authored](#co-authored)
@@ -11,6 +13,7 @@
   - [git log](#git-log)
   - [git lens](#git-lens)
   - [git diff](#git-diff)
+  - [git rebase](#git-rebase)
   - [git conflict](#git-conflict)
   - [git open](#git-open)
   - [gitignore](#gitignore)
@@ -27,15 +30,19 @@
 # Git
 
 - [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) ![](https://img.shields.io/github/stars/TimUntersberger/neogit) ![](https://img.shields.io/github/last-commit/TimUntersberger/neogit) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neogit)
-- [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/stars/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/last-commit/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/kdheepak/lazygit.nvim)
 - [dinhhuy258/git.nvim](https://github.com/dinhhuy258/git.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/git.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/git.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/git.nvim)
 - [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [declancm/git-scripts.nvim](https://github.com/declancm/git-scripts.nvim) ![](https://img.shields.io/github/stars/declancm/git-scripts.nvim) ![](https://img.shields.io/github/last-commit/declancm/git-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/git-scripts.nvim)
 - [Odie/gitabra](https://github.com/Odie/gitabra) ![](https://img.shields.io/github/stars/Odie/gitabra) ![](https://img.shields.io/github/last-commit/Odie/gitabra) ![](https://img.shields.io/github/commit-activity/y/Odie/gitabra)
 - [ipod825/igit.nvim](https://github.com/ipod825/igit.nvim) ![](https://img.shields.io/github/stars/ipod825/igit.nvim) ![](https://img.shields.io/github/last-commit/ipod825/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/igit.nvim)
-- [lostl1ght/nvim-lazygit](https://github.com/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/stars/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/last-commit/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/commit-activity/y/lostl1ght/nvim-lazygit)
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) ![](https://img.shields.io/github/stars/ray-x/forgit.nvim) ![](https://img.shields.io/github/last-commit/ray-x/forgit.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/forgit.nvim)
 - [Syu-fu/telescope-gitcommand.nvim](https://github.com/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/stars/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/last-commit/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/commit-activity/y/Syu-fu/telescope-gitcommand.nvim)
+
+## lazygit
+
+- [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/stars/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/last-commit/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/kdheepak/lazygit.nvim)
+- [lostl1ght/nvim-lazygit](https://github.com/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/stars/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/last-commit/lostl1ght/nvim-lazygit) ![](https://img.shields.io/github/commit-activity/y/lostl1ght/nvim-lazygit)
+- [oncomouse/lazygit.nvim](https://github.com/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/stars/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/lazygit.nvim)
 
 ## git clone
 
