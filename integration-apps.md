@@ -72,6 +72,9 @@
       - [Linux](#linux)
         - [gnome](#gnome)
         - [darkman](#darkman)
+    - [Windows](#windows)
+      - [Everything](#everything)
+    - [Mac](#mac)
     - [Password Manager](#password-manager)
     - [IME](#ime)
       - [Fcitx](#fcitx)
@@ -389,6 +392,14 @@
 
 - [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/4e554c4c/darkman.nvim)
 
+### Windows
+
+#### Everything
+
+- [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
+
+### Mac
+
 ### Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
@@ -440,6 +451,7 @@
 - [thibthib18/ros-nvim](https://github.com/thibthib18/ros-nvim) ![](https://img.shields.io/github/stars/thibthib18/ros-nvim) ![](https://img.shields.io/github/last-commit/thibthib18/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/ros-nvim)
 - [miferco97/ros2-debugger-plugin](https://github.com/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/stars/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/last-commit/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/commit-activity/y/miferco97/ros2-debugger-plugin)
 - [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
+- [taDachs/ros-nvim](https://github.com/taDachs/ros-nvim) ![](https://img.shields.io/github/stars/taDachs/ros-nvim) ![](https://img.shields.io/github/last-commit/taDachs/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/ros-nvim)
 
 ##### LEGO
 
