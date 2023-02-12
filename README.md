@@ -290,6 +290,7 @@
 
 - [pogyomo/submode.nvim](https://github.com/pogyomo/submode.nvim) ![](https://img.shields.io/github/stars/pogyomo/submode.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/submode.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/submode.nvim)
 - [csd1100/modes.nvim](https://github.com/csd1100/modes.nvim) ![](https://img.shields.io/github/stars/csd1100/modes.nvim) ![](https://img.shields.io/github/last-commit/csd1100/modes.nvim) ![](https://img.shields.io/github/commit-activity/y/csd1100/modes.nvim)
+- [ksk0/nvim-alt-modes](https://github.com/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/stars/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/last-commit/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-alt-modes)
 
 ### Scrollbar
 
@@ -488,6 +489,7 @@
 ### Diff
 
 - [aaron-p1/compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/compare-remotes.nvim)
+- [antosha417/nvim-compare-with-clipboard](https://github.com/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/stars/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/last-commit/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/commit-activity/y/antosha417/nvim-compare-with-clipboard)
 
 ### Tags
 

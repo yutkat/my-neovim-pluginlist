@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
 - [Toy](#toy)
   - [Joke](#joke)
+  - [Pet](#pet)
   - [Image](#image)
   - [Game](#game)
     - [Typing](#typing)
@@ -17,11 +18,15 @@
 
 ## Joke
 
-- [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
-- [samuzora/pet.nvim](https://github.com/samuzora/pet.nvim) ![](https://img.shields.io/github/stars/samuzora/pet.nvim) ![](https://img.shields.io/github/last-commit/samuzora/pet.nvim) ![](https://img.shields.io/github/commit-activity/y/samuzora/pet.nvim)
 - [b72u68/vscode.nvim](https://github.com/b72u68/vscode.nvim) ![](https://img.shields.io/github/stars/b72u68/vscode.nvim) ![](https://img.shields.io/github/last-commit/b72u68/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/b72u68/vscode.nvim)
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
+
+## Pet
+
+- [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
+- [samuzora/pet.nvim](https://github.com/samuzora/pet.nvim) ![](https://img.shields.io/github/stars/samuzora/pet.nvim) ![](https://img.shields.io/github/last-commit/samuzora/pet.nvim) ![](https://img.shields.io/github/commit-activity/y/samuzora/pet.nvim)
+- [giusgad/pets.nvim](https://github.com/giusgad/pets.nvim) ![](https://img.shields.io/github/stars/giusgad/pets.nvim) ![](https://img.shields.io/github/last-commit/giusgad/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/giusgad/pets.nvim)
 
 ## Image
 

@@ -1,5 +1,7 @@
 # Colorscheme
 
+The list is only selected if there is no duplication with other color schemes and more than 100 stars.
+
 ## Blue Base
 
 ### Nord
@@ -20,12 +22,31 @@
 
 - [rafamadriz/neon](https://github.com/rafamadriz/neon) ![](https://img.shields.io/github/stars/rafamadriz/neon) ![](https://img.shields.io/github/last-commit/rafamadriz/neon) ![](https://img.shields.io/github/commit-activity/y/rafamadriz/neon)
 
+### Rose pine
+
+- [rose-pine/neovim](https://github.com/rose-pine/neovim) ![](https://img.shields.io/github/stars/rose-pine/neovim) ![](https://img.shields.io/github/last-commit/rose-pine/neovim) ![](https://img.shields.io/github/commit-activity/y/rose-pine/neovim)
+
+### Dracula
+
+- [Mofiqul/dracula.nvim](https://github.com/Mofiqul/dracula.nvim) ![](https://img.shields.io/github/stars/Mofiqul/dracula.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/dracula.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/dracula.nvim)
+
+### Carbon
+
+- [nyoom-engineering/oxocarbon.nvim](https://github.com/nyoom-engineering/oxocarbon.nvim) ![](https://img.shields.io/github/stars/nyoom-engineering/oxocarbon.nvim) ![](https://img.shields.io/github/last-commit/nyoom-engineering/oxocarbon.nvim) ![](https://img.shields.io/github/commit-activity/y/nyoom-engineering/oxocarbon.nvim)
+
+### Doom
+
+- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/stars/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/last-commit/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/commit-activity/y/nyoom-engineering/nyoom.nvim)
+
+### VS Code
+
+- [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/stars/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/vscode.nvim)
+
 ## Warm Color Base
 
 ### Gruvbox
 
 - [luisiacc/gruvbox-baby](https://github.com/luisiacc/gruvbox-baby) ![](https://img.shields.io/github/stars/luisiacc/gruvbox-baby) ![](https://img.shields.io/github/last-commit/luisiacc/gruvbox-baby) ![](https://img.shields.io/github/commit-activity/y/luisiacc/gruvbox-baby)
-- [Murtaza-Udaipurwala/gruvqueen](https://github.com/Murtaza-Udaipurwala/gruvqueen) ![](https://img.shields.io/github/stars/Murtaza-Udaipurwala/gruvqueen) ![](https://img.shields.io/github/last-commit/Murtaza-Udaipurwala/gruvqueen) ![](https://img.shields.io/github/commit-activity/y/Murtaza-Udaipurwala/gruvqueen)
 
 ### Everblush
 
@@ -44,4 +65,6 @@
 
 ### Hybrid
 
-- [PHSix/nvim-hybrid](https://github.com/PHSix/nvim-hybrid) ![](https://img.shields.io/github/stars/PHSix/nvim-hybrid) ![](https://img.shields.io/github/last-commit/PHSix/nvim-hybrid) ![](https://img.shields.io/github/commit-activity/y/PHSix/nvim-hybrid)
+### Melange
+
+- [savq/melange-nvim](https://github.com/savq/melange-nvim) ![](https://img.shields.io/github/stars/savq/melange-nvim) ![](https://img.shields.io/github/last-commit/savq/melange-nvim) ![](https://img.shields.io/github/commit-activity/y/savq/melange-nvim)

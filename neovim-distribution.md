@@ -1,5 +1,7 @@
 # Neovim Distribution
 
+The list is only selected if it has more than 100 stars and is actively being updated.
+
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) ![](https://img.shields.io/github/stars/LunarVim/LunarVim) ![](https://img.shields.io/github/last-commit/LunarVim/LunarVim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/LunarVim)
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ![](https://img.shields.io/github/stars/LazyVim/LazyVim) ![](https://img.shields.io/github/last-commit/LazyVim/LazyVim) ![](https://img.shields.io/github/commit-activity/y/LazyVim/LazyVim)
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) ![](https://img.shields.io/github/stars/siduck76/NvChad) ![](https://img.shields.io/github/last-commit/siduck76/NvChad) ![](https://img.shields.io/github/commit-activity/y/siduck76/NvChad)

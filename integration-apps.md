@@ -326,6 +326,7 @@
 - [lttr/cmp-jira](https://github.com/lttr/cmp-jira) ![](https://img.shields.io/github/stars/lttr/cmp-jira) ![](https://img.shields.io/github/last-commit/lttr/cmp-jira) ![](https://img.shields.io/github/commit-activity/y/lttr/cmp-jira)
 - [jungyong0615dot/jira.nvim](https://github.com/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/jira.nvim)
 - [KerberosKomondor/jira.nvim](https://github.com/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/jira.nvim)
+- [KerberosKomondor/cmp-jira.nvim](https://github.com/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/cmp-jira.nvim)
 
 #### Google Docs
 
