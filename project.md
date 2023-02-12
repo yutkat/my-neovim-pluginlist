@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Project](#project)
-    - [Project Switcher](#project-switcher)
-    - [Project Root Detector](#project-root-detector)
-    - [Project Local Config](#project-local-config)
-    - [Config switcher](#config-switcher)
+    - [Project](#project)
+      - [Project Switcher](#project-switcher)
+      - [Project Root Detector](#project-root-detector)
+      - [Project Local Config](#project-local-config)
+      - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -29,7 +29,6 @@
 #### Project Root Detector
 
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) ![](https://img.shields.io/github/stars/shaeinst/penvim) ![](https://img.shields.io/github/last-commit/shaeinst/penvim) ![](https://img.shields.io/github/commit-activity/y/shaeinst/penvim)
-- [nyngwang/NeoRoot.lua](https://github.com/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoRoot.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoRoot.lua)
 - [kyoh86/climbdir.nvim](https://github.com/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/stars/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/climbdir.nvim)
 - [notjedi/nvim-rooter.lua](https://github.com/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/stars/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/last-commit/notjedi/nvim-rooter.lua) ![](https://img.shields.io/github/commit-activity/y/notjedi/nvim-rooter.lua)
 - [yyk/find-git-root.nvim](https://github.com/yyk/find-git-root.nvim) ![](https://img.shields.io/github/stars/yyk/find-git-root.nvim) ![](https://img.shields.io/github/last-commit/yyk/find-git-root.nvim) ![](https://img.shields.io/github/commit-activity/y/yyk/find-git-root.nvim)
