@@ -115,13 +115,13 @@
 
 ### CSS
 
-- [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
-
 #### tailwind
 
+- [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tailwindcss-colorizer-cmp.nvim)
 - [sigmaSd/nvim-tailwind](https://github.com/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/stars/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/last-commit/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/nvim-tailwind)
 - [laytan/tailwind-sorter.nvim](https://github.com/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/stars/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/last-commit/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/laytan/tailwind-sorter.nvim)
+- [themaxmarchuk/tailwindcss-colors.nvim](https://github.com/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/stars/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/last-commit/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/themaxmarchuk/tailwindcss-colors.nvim)
 
 ### HTTP
 
@@ -214,6 +214,7 @@
 
 - [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) ![](https://img.shields.io/github/stars/adalessa/laravel.nvim) ![](https://img.shields.io/github/last-commit/adalessa/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/laravel.nvim)
 - [ccaglak/larago.nvim](https://github.com/ccaglak/larago.nvim) ![](https://img.shields.io/github/stars/ccaglak/larago.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/larago.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/larago.nvim)
+- [jaytyrrell13/telescope-artisan.nvim](https://github.com/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/telescope-artisan.nvim)
 
 ### Lua
 
