@@ -392,6 +392,10 @@
 
 - [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/4e554c4c/darkman.nvim)
 
+##### fribidi
+
+- [mcookly/rosetta.nvim](https://github.com/mcookly/rosetta.nvim) ![](https://img.shields.io/github/stars/mcookly/rosetta.nvim) ![](https://img.shields.io/github/last-commit/mcookly/rosetta.nvim) ![](https://img.shields.io/github/commit-activity/y/mcookly/rosetta.nvim)
+
 ### Windows
 
 #### Everything

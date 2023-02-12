@@ -11,12 +11,12 @@
       - [conceal](#conceal)
       - [live server](#live-server)
     - [CSS](#css)
+      - [tailwind](#tailwind)
     - [HTTP](#http)
     - [REST](#rest)
     - [Protocol buffer](#protocol-buffer)
     - [Hurl](#hurl)
     - [Graphql](#graphql)
-      - [tailwind](#tailwind)
     - [React](#react)
     - [Deno](#deno)
     - [mjml](#mjml)
@@ -116,7 +116,12 @@
 ### CSS
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
+
+#### tailwind
+
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tailwindcss-colorizer-cmp.nvim)
+- [sigmaSd/nvim-tailwind](https://github.com/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/stars/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/last-commit/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/nvim-tailwind)
+- [laytan/tailwind-sorter.nvim](https://github.com/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/stars/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/last-commit/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/laytan/tailwind-sorter.nvim)
 
 ### HTTP
 
@@ -137,10 +142,6 @@
 ### Graphql
 
 - [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
-
-#### tailwind
-
-- [sigmaSd/nvim-tailwind](https://github.com/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/stars/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/last-commit/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/nvim-tailwind)
 
 ### React
 
@@ -376,6 +377,7 @@
 - [ThePrimeagen/jvim.nvim](https://github.com/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/jvim.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/jvim.nvim)
 - [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/stars/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/phelipetls/jsonpath.nvim)
 - [jrop/jq.nvim](https://github.com/jrop/jq.nvim) ![](https://img.shields.io/github/stars/jrop/jq.nvim) ![](https://img.shields.io/github/last-commit/jrop/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/jq.nvim)
+- [cosminadrianpopescu/telescope-json-history.nvim](https://github.com/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/stars/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/last-commit/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/commit-activity/y/cosminadrianpopescu/telescope-json-history.nvim)
 
 ### YAML
 
