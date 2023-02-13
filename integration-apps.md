@@ -77,6 +77,7 @@
     - [Windows](#windows)
       - [Everything](#everything)
     - [Mac](#mac)
+    - [iOS](#ios)
     - [Password Manager](#password-manager)
     - [IME](#ime)
       - [Fcitx](#fcitx)
@@ -410,6 +411,10 @@
 - [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
 
 ### Mac
+
+### iOS
+
+- [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
 
 ### Password Manager
 
