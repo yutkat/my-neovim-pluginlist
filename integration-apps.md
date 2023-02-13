@@ -61,6 +61,7 @@
       - [Spotify](#spotify)
       - [StackOverflow](#stackoverflow)
       - [OpenAI](#openai)
+        - [OpenAI](#openai-1)
       - [Otter](#otter)
       - [GitLab](#gitlab)
       - [Trello](#trello)
@@ -72,6 +73,7 @@
       - [Linux](#linux)
         - [gnome](#gnome)
         - [darkman](#darkman)
+        - [fribidi](#fribidi)
     - [Windows](#windows)
       - [Everything](#everything)
     - [Mac](#mac)
@@ -348,10 +350,13 @@
 
 - [karintomania/nvim-ai-chat](https://github.com/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/stars/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/last-commit/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/commit-activity/y/karintomania/nvim-ai-chat)
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) ![](https://img.shields.io/github/stars/aduros/ai.vim) ![](https://img.shields.io/github/last-commit/aduros/ai.vim) ![](https://img.shields.io/github/commit-activity/y/aduros/ai.vim)
-- [naps62/pair-gpt.nvim](https://github.com/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/stars/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/last-commit/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/naps62/pair-gpt.nvim)
-- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
 - [dense-analysis/neural](https://github.com/dense-analysis/neural) ![](https://img.shields.io/github/stars/dense-analysis/neural) ![](https://img.shields.io/github/last-commit/dense-analysis/neural) ![](https://img.shields.io/github/commit-activity/y/dense-analysis/neural)
+- [naps62/pair-gpt.nvim](https://github.com/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/stars/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/last-commit/naps62/pair-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/naps62/pair-gpt.nvim)
 - [jungyong0615dot/gpt_scratch.nvim](https://github.com/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/gpt_scratch.nvim)
+
+##### OpenAI
+
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
 
 #### Otter
 
