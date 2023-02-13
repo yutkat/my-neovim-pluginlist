@@ -201,6 +201,7 @@
 #### Kitty
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
+- [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) ![](https://img.shields.io/github/stars/romgrk/kui.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kui.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kui.nvim)
 
 #### Windows Terminal
 
