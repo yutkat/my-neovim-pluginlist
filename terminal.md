@@ -32,6 +32,7 @@
 - [vzytoi/quickterm.nvim](https://github.com/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/stars/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/last-commit/vzytoi/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/vzytoi/quickterm.nvim)
 - [fj0r/nvim-taberm](https://github.com/fj0r/nvim-taberm) ![](https://img.shields.io/github/stars/fj0r/nvim-taberm) ![](https://img.shields.io/github/last-commit/fj0r/nvim-taberm) ![](https://img.shields.io/github/commit-activity/y/fj0r/nvim-taberm)
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/bufterm.nvim)
+- [dk949/termutils.nvim](https://github.com/dk949/termutils.nvim) ![](https://img.shields.io/github/stars/dk949/termutils.nvim) ![](https://img.shields.io/github/last-commit/dk949/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/termutils.nvim)
 
 ### Edit
 
