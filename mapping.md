@@ -22,6 +22,7 @@
 ## Mapping search
 
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) ![](https://img.shields.io/github/stars/folke/which-key.nvim) ![](https://img.shields.io/github/last-commit/folke/which-key.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/which-key.nvim)
+  - [afreakk/unimpaired-which-key.nvim](https://github.com/afreakk/unimpaired-which-key.nvim) ![](https://img.shields.io/github/stars/afreakk/unimpaired-which-key.nvim) ![](https://img.shields.io/github/last-commit/afreakk/unimpaired-which-key.nvim) ![](https://img.shields.io/github/commit-activity/y/afreakk/unimpaired-which-key.nvim)
 - [AckslD/nvim-whichkey-setup.lua](https://github.com/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-whichkey-setup.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-whichkey-setup.lua)
 - [lazytanuki/nvim-mapper](https://github.com/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/stars/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/last-commit/lazytanuki/nvim-mapper) ![](https://img.shields.io/github/commit-activity/y/lazytanuki/nvim-mapper)
 - [linty-org/key-menu.nvim](https://github.com/linty-org/key-menu.nvim) ![](https://img.shields.io/github/stars/linty-org/key-menu.nvim) ![](https://img.shields.io/github/last-commit/linty-org/key-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/linty-org/key-menu.nvim)
