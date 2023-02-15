@@ -2,8 +2,8 @@
 
 - [Table of Contents](#table-of-contents)
   - [Plugin Manager](#plugin-manager)
-    - [Use builtin package feature](#use-builtin-package-feature)
     - [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
+    - [Use builtin package feature](#use-builtin-package-feature)
     - [Update checker](#update-checker)
   - [Auto Completion](#auto-completion)
   - [Completion](#completion)
@@ -173,6 +173,13 @@
 
 ## Plugin Manager
 
+### Add runtime path (vim-plug like)
+
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) ![](https://img.shields.io/github/stars/folke/lazy.nvim) ![](https://img.shields.io/github/last-commit/folke/lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lazy.nvim)
+  - [tsakirist/telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/stars/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/last-commit/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/tsakirist/telescope-lazy.nvim)
+- [ii14/neopm](https://github.com/ii14/neopm) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
+- [spywhere/plug.nvim](https://github.com/spywhere/plug.nvim) ![](https://img.shields.io/github/stars/spywhere/plug.nvim) ![](https://img.shields.io/github/last-commit/spywhere/plug.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/plug.nvim)
+
 ### Use builtin package feature
 
 - [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim) ![](https://img.shields.io/github/stars/wbthomason/packer.nvim) ![](https://img.shields.io/github/last-commit/wbthomason/packer.nvim) ![](https://img.shields.io/github/commit-activity/y/wbthomason/packer.nvim)
@@ -183,13 +190,6 @@
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
 - [nat-418/slowly.nvim](https://github.com/nat-418/slowly.nvim) ![](https://img.shields.io/github/stars/nat-418/slowly.nvim) ![](https://img.shields.io/github/last-commit/nat-418/slowly.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/slowly.nvim)
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
-
-### Add runtime path (vim-plug like)
-
-- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) ![](https://img.shields.io/github/stars/folke/lazy.nvim) ![](https://img.shields.io/github/last-commit/folke/lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lazy.nvim)
-  - [tsakirist/telescope-lazy.nvim](https://github.com/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/stars/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/last-commit/tsakirist/telescope-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/tsakirist/telescope-lazy.nvim)
-- [ii14/neopm](https://github.com/ii14/neopm) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
-- [spywhere/plug.nvim](https://github.com/spywhere/plug.nvim) ![](https://img.shields.io/github/stars/spywhere/plug.nvim) ![](https://img.shields.io/github/last-commit/spywhere/plug.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/plug.nvim)
 
 ### Update checker
 
@@ -725,7 +725,6 @@
 
 ### Formatting
 
-- [PlatyPew/format-installer.nvim](https://github.com/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/stars/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/last-commit/PlatyPew/format-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/PlatyPew/format-installer.nvim)
 - [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/stars/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/last-commit/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/editorconfig.nvim)
 - [emileferreira/nvim-strict](https://github.com/emileferreira/nvim-strict) ![](https://img.shields.io/github/stars/emileferreira/nvim-strict) ![](https://img.shields.io/github/last-commit/emileferreira/nvim-strict) ![](https://img.shields.io/github/commit-activity/y/emileferreira/nvim-strict)
 
@@ -740,6 +739,7 @@
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
 - [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
+- [glepnir/easyformat.nvim](https://github.com/glepnir/easyformat.nvim) ![](https://img.shields.io/github/stars/glepnir/easyformat.nvim) ![](https://img.shields.io/github/last-commit/glepnir/easyformat.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/easyformat.nvim)
 
 ##### Trim Whitespace
 
