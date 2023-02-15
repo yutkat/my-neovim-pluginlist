@@ -168,6 +168,7 @@
   - [Neovim Distribution](#neovim-distribution)
   - [GUI](#gui)
   - [External Tools](#external-tools)
+  - [Service](#service)
   - [Toy](#toy)
 
 ## Plugin Manager
@@ -989,5 +990,7 @@
 ## [GUI](./gui.md)
 
 ## [External Tools](./external-tools.md)
+
+## [Service](./service.md)
 
 ## [Toy](./toy.md)
