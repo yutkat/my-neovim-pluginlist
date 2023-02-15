@@ -152,6 +152,7 @@
     - [Mail](#mail)
     - [Calendar](#calendar)
     - [Presentation](#presentation)
+    - [EDITOR](#editor)
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
     - [Font](#font)
@@ -932,6 +933,10 @@
 ### Presentation
 
 - [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/present.nvim)
+
+### EDITOR
+
+- [notomo/waitevent.nvim](https://github.com/notomo/waitevent.nvim) ![](https://img.shields.io/github/stars/notomo/waitevent.nvim) ![](https://img.shields.io/github/last-commit/notomo/waitevent.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/waitevent.nvim)
 
 ### Tutorial
 

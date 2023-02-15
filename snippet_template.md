@@ -11,6 +11,7 @@
 ### Snippet
 
 - [L3MON4D3/LuaSnip](https://github.com/L3MON4D3/LuaSnip) ![](https://img.shields.io/github/stars/L3MON4D3/LuaSnip) ![](https://img.shields.io/github/last-commit/L3MON4D3/LuaSnip) ![](https://img.shields.io/github/commit-activity/y/L3MON4D3/LuaSnip)
+  - [ziontee113/SnippetGenie](https://github.com/ziontee113/SnippetGenie) ![](https://img.shields.io/github/stars/ziontee113/SnippetGenie) ![](https://img.shields.io/github/last-commit/ziontee113/SnippetGenie) ![](https://img.shields.io/github/commit-activity/y/ziontee113/SnippetGenie)
 - [norcalli/snippets.nvim](https://github.com/norcalli/snippets.nvim) ![](https://img.shields.io/github/stars/norcalli/snippets.nvim) ![](https://img.shields.io/github/last-commit/norcalli/snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/snippets.nvim)
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) ![](https://img.shields.io/github/stars/dcampos/nvim-snippy) ![](https://img.shields.io/github/last-commit/dcampos/nvim-snippy) ![](https://img.shields.io/github/commit-activity/y/dcampos/nvim-snippy)
 
