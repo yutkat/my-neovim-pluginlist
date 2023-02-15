@@ -30,6 +30,7 @@
     - [Lua](#lua)
     - [Rust](#rust)
     - [Go](#go)
+      - [gofmt](#gofmt)
       - [Test](#test-1)
     - [C/C++](#cc)
       - [Cmake](#cmake)
@@ -243,6 +244,10 @@
 - [abecodes/gox.nvim](https://github.com/abecodes/gox.nvim) ![](https://img.shields.io/github/stars/abecodes/gox.nvim) ![](https://img.shields.io/github/last-commit/abecodes/gox.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/gox.nvim)
 - [aca/go-patch-unusedvar.nvim](https://github.com/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/stars/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/last-commit/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/commit-activity/y/aca/go-patch-unusedvar.nvim)
 - [jeniasaigak/goplay.nvim](https://github.com/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/stars/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/last-commit/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/commit-activity/y/jeniasaigak/goplay.nvim)
+
+#### gofmt
+
+- [MaxwelMazur/gofmt.nvim](https://github.com/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/stars/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/last-commit/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/MaxwelMazur/gofmt.nvim)
 
 #### Test
 
