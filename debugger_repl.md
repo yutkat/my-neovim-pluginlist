@@ -19,6 +19,7 @@
 - [dradtke/debug-console](https://github.com/dradtke/debug-console) ![](https://img.shields.io/github/stars/dradtke/debug-console) ![](https://img.shields.io/github/last-commit/dradtke/debug-console) ![](https://img.shields.io/github/commit-activity/y/dradtke/debug-console)
 - [mxsdev/nvim-dap-vscode-js](https://github.com/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/stars/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/last-commit/mxsdev/nvim-dap-vscode-js) ![](https://img.shields.io/github/commit-activity/y/mxsdev/nvim-dap-vscode-js)
 - [austin5627/acr.nvim](https://github.com/austin5627/acr.nvim) ![](https://img.shields.io/github/stars/austin5627/acr.nvim) ![](https://img.shields.io/github/last-commit/austin5627/acr.nvim) ![](https://img.shields.io/github/commit-activity/y/austin5627/acr.nvim)
+- [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/stars/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/last-commit/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/commit-activity/y/AlphabetsAlphabets/gdb.nvim)
 
 #### nvim-dap extension
 
