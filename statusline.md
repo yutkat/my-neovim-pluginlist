@@ -2,8 +2,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Statusline](#statusline)
-  - [Simple](#simple)
-  - [Special Features](#special-features)
+    - [Simple](#simple)
+    - [Special Features](#special-features)
   - [Statusline component](#statusline-component)
 
 # Statusline
@@ -26,6 +26,7 @@
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nougat.nvim)
 - [echasnovski/mini.statusline](https://github.com/echasnovski/mini.statusline) ![](https://img.shields.io/github/stars/echasnovski/mini.statusline) ![](https://img.shields.io/github/last-commit/echasnovski/mini.statusline) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.statusline)
 - [glepnir/whiskyline.nvim](https://github.com/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/stars/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/last-commit/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/whiskyline.nvim)
+- [njeromin/line.nvim](https://github.com/njeromin/line.nvim) ![](https://img.shields.io/github/stars/njeromin/line.nvim) ![](https://img.shields.io/github/last-commit/njeromin/line.nvim) ![](https://img.shields.io/github/commit-activity/y/njeromin/line.nvim)
 
 ### Simple
 
