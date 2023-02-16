@@ -62,6 +62,7 @@
 - [Mr-Destructive/markrunner.nvim](https://github.com/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/markrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/markrunner.nvim)
 - [LostNeophyte/null-ls-embedded](https://github.com/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/stars/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/last-commit/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/commit-activity/y/LostNeophyte/null-ls-embedded)
 - [kokardy/md-codeblock-loader.nvim](https://github.com/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/stars/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/last-commit/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/kokardy/md-codeblock-loader.nvim)
+- [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/stars/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/last-commit/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/tsnode-marker.nvim)
 
 #### Markdown evaluate code
 
