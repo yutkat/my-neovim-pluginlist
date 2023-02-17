@@ -366,6 +366,7 @@
 - [echasnovski/mini.pairs](https://github.com/echasnovski/mini.pairs) ![](https://img.shields.io/github/stars/echasnovski/mini.pairs) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pairs) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pairs)
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/stars/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/last-commit/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/ultimate-autopair.nvim)
+- [wakeLanaka/enclosing.nvim](https://github.com/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/stars/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/last-commit/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/commit-activity/y/wakeLanaka/enclosing.nvim)
 
 ##### endwise
 

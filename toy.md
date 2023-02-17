@@ -5,6 +5,7 @@
   - [Joke](#joke)
   - [Pet](#pet)
   - [Image](#image)
+  - [Video](#video)
   - [Game](#game)
     - [Typing](#typing)
   - [Gesture](#gesture)
@@ -31,6 +32,10 @@
 ## Image
 
 - [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
+
+## Video
+
+- [Hanaasagi/anime.nvim](https://github.com/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/stars/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/last-commit/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/commit-activity/y/Hanaasagi/anime.nvim)
 
 ## Game
 
