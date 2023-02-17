@@ -78,6 +78,7 @@
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) ![](https://img.shields.io/github/stars/doums/suit.nvim) ![](https://img.shields.io/github/last-commit/doums/suit.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/suit.nvim)
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-qwahl)
+- [liangxianzhe/floating-input.nvim](https://github.com/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/floating-input.nvim)
 
 ### Popup
 
