@@ -76,6 +76,7 @@
         - [fribidi](#fribidi)
     - [Windows](#windows)
       - [Everything](#everything)
+      - [AutoHotKey](#autohotkey)
     - [Mac](#mac)
     - [iOS](#ios)
     - [Password Manager](#password-manager)
@@ -332,6 +333,7 @@
 - [jungyong0615dot/jira.nvim](https://github.com/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/jira.nvim)
 - [KerberosKomondor/jira.nvim](https://github.com/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/jira.nvim)
 - [KerberosKomondor/cmp-jira.nvim](https://github.com/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/cmp-jira.nvim)
+- [154pinkchairs/jira.nvim](https://github.com/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/stars/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/last-commit/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/154pinkchairs/jira.nvim)
 
 #### Google Docs
 
@@ -410,6 +412,10 @@
 #### Everything
 
 - [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
+
+#### AutoHotKey
+
+- [DasGandlaf/cmp-nvim-autohotkey](https://github.com/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/cmp-nvim-autohotkey)
 
 ### Mac
 

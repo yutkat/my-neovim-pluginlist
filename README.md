@@ -60,8 +60,7 @@
     - [Search, Replace, Select](#search-replace-select)
     - [Mapping](#mapping)
     - [Yank, Paste](#yank-paste)
-    - [Join](#join)
-    - [Split](#split)
+    - [Split / Join](#split--join)
     - [Number](#number)
     - [Cursor location](#cursor-location)
     - [Mark](#mark)
@@ -260,6 +259,7 @@
 - [delphinus/auto-cursorline.nvim](https://github.com/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/stars/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/last-commit/delphinus/auto-cursorline.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/auto-cursorline.nvim)
 - [ds1sqe/cusorlineHighlighter.nvim](https://github.com/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/stars/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/cusorlineHighlighter.nvim)
 - [Tummetott/reticle.nvim](https://github.com/Tummetott/reticle.nvim) ![](https://img.shields.io/github/stars/Tummetott/reticle.nvim) ![](https://img.shields.io/github/last-commit/Tummetott/reticle.nvim) ![](https://img.shields.io/github/commit-activity/y/Tummetott/reticle.nvim)
+- [kellywashere/nvim-blackline](https://github.com/kellywashere/nvim-blackline) ![](https://img.shields.io/github/stars/kellywashere/nvim-blackline) ![](https://img.shields.io/github/last-commit/kellywashere/nvim-blackline) ![](https://img.shields.io/github/commit-activity/y/kellywashere/nvim-blackline)
 
 ### Columnline
 
@@ -461,16 +461,14 @@
 
 ### [Yank, Paste](./yank_paste.md)
 
-### Join
+### Split / Join
 
 - [AckslD/nvim-trevJ.lua](https://github.com/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-trevJ.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-trevJ.lua)
 - [kizza/joinery.nvim](https://github.com/kizza/joinery.nvim) ![](https://img.shields.io/github/stars/kizza/joinery.nvim) ![](https://img.shields.io/github/last-commit/kizza/joinery.nvim) ![](https://img.shields.io/github/commit-activity/y/kizza/joinery.nvim)
 - [uga-rosa/join.nvim](https://github.com/uga-rosa/join.nvim) ![](https://img.shields.io/github/stars/uga-rosa/join.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/join.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/join.nvim)
 - [aarondiel/spread.nvim](https://github.com/aarondiel/spread.nvim) ![](https://img.shields.io/github/stars/aarondiel/spread.nvim) ![](https://img.shields.io/github/last-commit/aarondiel/spread.nvim) ![](https://img.shields.io/github/commit-activity/y/aarondiel/spread.nvim)
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) ![](https://img.shields.io/github/stars/Wansmer/treesj) ![](https://img.shields.io/github/last-commit/Wansmer/treesj) ![](https://img.shields.io/github/commit-activity/y/Wansmer/treesj)
-
-### Split
-
+- [bennypowers/splitjoin.nvim](https://github.com/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/stars/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/splitjoin.nvim)
 - [Jlll1/split.nvim](https://github.com/Jlll1/split.nvim) ![](https://img.shields.io/github/stars/Jlll1/split.nvim) ![](https://img.shields.io/github/last-commit/Jlll1/split.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlll1/split.nvim)
 
 ### Number
@@ -964,6 +962,7 @@
 
 - [kbario/homerows.nvim](https://github.com/kbario/homerows.nvim) ![](https://img.shields.io/github/stars/kbario/homerows.nvim) ![](https://img.shields.io/github/last-commit/kbario/homerows.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/homerows.nvim)
 - [vetsE/bepo.nvim](https://github.com/vetsE/bepo.nvim) ![](https://img.shields.io/github/stars/vetsE/bepo.nvim) ![](https://img.shields.io/github/last-commit/vetsE/bepo.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/bepo.nvim)
+- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/stars/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanesmantovich/xkbswitch.nvim)
 
 ## Util pack
 
