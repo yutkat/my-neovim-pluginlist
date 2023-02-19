@@ -19,7 +19,6 @@
 ### Made in Lua
 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp)
-- [jameshiew/nvim-magic](https://github.com/jameshiew/nvim-magic) ![](https://img.shields.io/github/stars/jameshiew/nvim-magic) ![](https://img.shields.io/github/last-commit/jameshiew/nvim-magic) ![](https://img.shields.io/github/commit-activity/y/jameshiew/nvim-magic)
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/sekme.nvim)
 - [jose-elias-alvarez/null-ls.nvim(Completion)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lsp-compl)

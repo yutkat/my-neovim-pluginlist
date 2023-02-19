@@ -2,8 +2,8 @@
 
 - [Table of Contents](#table-of-contents)
 - [Statusline](#statusline)
-    - [Simple](#simple)
-    - [Special Features](#special-features)
+  - [Simple](#simple)
+  - [Special Features](#special-features)
   - [Statusline component](#statusline-component)
 
 # Statusline
@@ -11,7 +11,6 @@
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/stars/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/last-commit/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lualine/lualine.nvim)
   - [WhoIsSethDaniel/lualine-lsp-progress.nvim](https://github.com/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lualine-lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lualine-lsp-progress.nvim)
   - [Isrothy/lualine-diagnostic-message](https://github.com/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/stars/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/last-commit/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/commit-activity/y/Isrothy/lualine-diagnostic-message)
-- [Famiu/feline.nvim](https://github.com/Famiu/feline.nvim) ![](https://img.shields.io/github/stars/Famiu/feline.nvim) ![](https://img.shields.io/github/last-commit/Famiu/feline.nvim) ![](https://img.shields.io/github/commit-activity/y/Famiu/feline.nvim)
 - [NTBBloodbath/galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/galaxyline.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/galaxyline.nvim)
 - [glepnir/galaxyline.nvim](https://github.com/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/stars/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/last-commit/glepnir/galaxyline.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/galaxyline.nvim)
   - [konapun/vacuumline.nvim](https://github.com/konapun/vacuumline.nvim) ![](https://img.shields.io/github/stars/konapun/vacuumline.nvim) ![](https://img.shields.io/github/last-commit/konapun/vacuumline.nvim) ![](https://img.shields.io/github/commit-activity/y/konapun/vacuumline.nvim)
