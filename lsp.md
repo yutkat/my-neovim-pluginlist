@@ -60,6 +60,7 @@
 - [casonadams/simple-diagnostics.nvim](https://github.com/casonadams/simple-diagnostics.nvim) ![](https://img.shields.io/github/stars/casonadams/simple-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/casonadams/simple-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/casonadams/simple-diagnostics.nvim)
 - [stefanwatt/lsp-lines.nvim](https://github.com/stefanwatt/lsp-lines.nvim) ![](https://img.shields.io/github/stars/stefanwatt/lsp-lines.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/lsp-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/lsp-lines.nvim)
 - [nicolomaioli/wtfm.nvim](https://github.com/nicolomaioli/wtfm.nvim) ![](https://img.shields.io/github/stars/nicolomaioli/wtfm.nvim) ![](https://img.shields.io/github/last-commit/nicolomaioli/wtfm.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolomaioli/wtfm.nvim)
+- [TomDeneire/notify-diagnostics.nvim](https://github.com/TomDeneire/notify-diagnostics.nvim) ![](https://img.shields.io/github/stars/TomDeneire/notify-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/TomDeneire/notify-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/TomDeneire/notify-diagnostics.nvim)
 
 #### Definition, Reference
 
