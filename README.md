@@ -510,6 +510,7 @@
 - [Vonr/foldcus.nvim](https://github.com/Vonr/foldcus.nvim) ![](https://img.shields.io/github/stars/Vonr/foldcus.nvim) ![](https://img.shields.io/github/last-commit/Vonr/foldcus.nvim) ![](https://img.shields.io/github/commit-activity/y/Vonr/foldcus.nvim)
 - [milisims/foldhue.nvim](https://github.com/milisims/foldhue.nvim) ![](https://img.shields.io/github/stars/milisims/foldhue.nvim) ![](https://img.shields.io/github/last-commit/milisims/foldhue.nvim) ![](https://img.shields.io/github/commit-activity/y/milisims/foldhue.nvim)
 - [MrcJkb/nvim-lsp-foldexpr](https://github.com/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/stars/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/last-commit/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/nvim-lsp-foldexpr)
+- [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/stars/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-foldsign)
 
 ### Conceal
 
