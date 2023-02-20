@@ -148,6 +148,7 @@
 - [andersevenrud/cmp-tmux](https://github.com/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/stars/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/last-commit/andersevenrud/cmp-tmux) ![](https://img.shields.io/github/commit-activity/y/andersevenrud/cmp-tmux)
 - [otavioschwanck/tmux-awesome-manager.nvim](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/tmux-awesome-manager.nvim)
 - [connordeckers/tmux-navigator.nvim](https://github.com/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/stars/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/last-commit/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/connordeckers/tmux-navigator.nvim)
+- [DeviousStoat/mumux.nvim](https://github.com/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/stars/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/last-commit/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/commit-activity/y/DeviousStoat/mumux.nvim)
 
 #### Zellij
 
@@ -310,6 +311,7 @@
 
 #### Discord
 
+- [Cyuria/discord.nvim](https://github.com/Cyuria/discord.nvim) ![](https://img.shields.io/github/stars/Cyuria/discord.nvim) ![](https://img.shields.io/github/last-commit/Cyuria/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/Cyuria/discord.nvim)
 - [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
 - [pandasoli/discord-presence.nvim](https://github.com/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/stars/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/last-commit/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/pandasoli/discord-presence.nvim)
 
