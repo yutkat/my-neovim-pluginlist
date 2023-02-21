@@ -418,6 +418,7 @@
 #### AutoHotKey
 
 - [DasGandlaf/cmp-nvim-autohotkey](https://github.com/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/cmp-nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/cmp-nvim-autohotkey)
+- [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
 
 ### Mac
 

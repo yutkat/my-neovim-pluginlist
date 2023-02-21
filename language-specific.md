@@ -68,6 +68,7 @@
     - [Jenkins](#jenkins)
     - [Drools Rule Language](#drools-rule-language)
 - [Competitive programming](#competitive-programming)
+- [Technical interviews](#technical-interviews)
 
 # Language specific
 
@@ -191,6 +192,7 @@
 - [wassimk/cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/stars/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/last-commit/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-feature-flipper)
 - [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
+- [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/ruby-toolkit.nvim)
 
 #### Rails
 
@@ -412,6 +414,7 @@
 
 - [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
 - [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
+- [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
 
 #### PostgreSQL
 
@@ -435,3 +438,9 @@
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ![](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim) ![](https://img.shields.io/github/commit-activity/y/xeluxee/competitest.nvim)
 - [xerbalind/dodona.nvim](https://github.com/xerbalind/dodona.nvim) ![](https://img.shields.io/github/stars/xerbalind/dodona.nvim) ![](https://img.shields.io/github/last-commit/xerbalind/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/xerbalind/dodona.nvim)
+
+# Technical interviews
+
+## LeetCode
+
+- [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
