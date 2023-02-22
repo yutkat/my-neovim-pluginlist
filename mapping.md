@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Keymap](#keymap)
+  - [Bracket](#bracket)
   - [Mapping search](#mapping-search)
   - [Prefix Key Binding](#prefix-key-binding)
 
@@ -18,6 +19,10 @@
 - [michamos/vim-bepo](https://github.com/michamos/vim-bepo) ![](https://img.shields.io/github/stars/michamos/vim-bepo) ![](https://img.shields.io/github/last-commit/michamos/vim-bepo) ![](https://img.shields.io/github/commit-activity/y/michamos/vim-bepo)
 - [FLinguenheld/potpourri.nvim](https://github.com/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/potpourri.nvim)
 - [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/nap.nvim)
+
+## Bracket
+
+- [echasnovski/mini.bracketed](https://github.com/echasnovski/mini.bracketed) ![](https://img.shields.io/github/stars/echasnovski/mini.bracketed) ![](https://img.shields.io/github/last-commit/echasnovski/mini.bracketed) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.bracketed)
 
 ## Mapping search
 
