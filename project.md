@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Project](#project)
-      - [Project Switcher](#project-switcher)
-      - [Project Root Detector](#project-root-detector)
-      - [Project Local Config](#project-local-config)
-      - [Config switcher](#config-switcher)
+  - [Project](#project)
+    - [Project Switcher](#project-switcher)
+    - [Project Root Detector](#project-root-detector)
+    - [Project Local Config](#project-local-config)
+    - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -25,6 +25,7 @@
 - [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
 - [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/stars/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/last-commit/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/commit-activity/y/nyngwang/fzf-lua-projections.nvim)
 - [jinzhongjia/PS_manager.nvim](https://github.com/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/PS_manager.nvim)
+- [mohitsinghs/repo.nvim](https://github.com/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/stars/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/last-commit/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/commit-activity/y/mohitsinghs/repo.nvim)
 
 #### Project Root Detector
 
