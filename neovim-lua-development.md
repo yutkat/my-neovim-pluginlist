@@ -16,6 +16,7 @@
   - [Testing](#testing)
   - [Help](#help)
   - [Fennel](#fennel)
+  - [Rust](#rust)
   - [FFI](#ffi)
   - [Colorscheme Creation](#colorscheme-creation)
   - [Color Creation](#color-creation)
@@ -100,6 +101,10 @@
 - [beardedsakimonkey/nvim-antifennel](https://github.com/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/stars/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/last-commit/beardedsakimonkey/nvim-antifennel) ![](https://img.shields.io/github/commit-activity/y/beardedsakimonkey/nvim-antifennel)
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/stars/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/fennel-repl.nvim)
 - [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) ![](https://img.shields.io/github/stars/aileot/nvim-laurel) ![](https://img.shields.io/github/last-commit/aileot/nvim-laurel) ![](https://img.shields.io/github/commit-activity/y/aileot/nvim-laurel)
+
+## Rust
+
+- [willothy/nvim-utils](https://github.com/willothy/nvim-utils) ![](https://img.shields.io/github/stars/willothy/nvim-utils) ![](https://img.shields.io/github/last-commit/willothy/nvim-utils) ![](https://img.shields.io/github/commit-activity/y/willothy/nvim-utils)
 
 ## FFI
 
