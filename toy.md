@@ -78,6 +78,10 @@
 - [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
 - [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
 
+### Recording
+
+- [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
+
 ## Screen server
 
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) ![](https://img.shields.io/github/stars/folke/drop.nvim) ![](https://img.shields.io/github/last-commit/folke/drop.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/drop.nvim)

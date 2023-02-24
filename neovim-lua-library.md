@@ -160,6 +160,7 @@
 - [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
 - [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
+- [mskelton/termicons.nvim](https://github.com/mskelton/termicons.nvim) ![](https://img.shields.io/github/stars/mskelton/termicons.nvim) ![](https://img.shields.io/github/last-commit/mskelton/termicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/termicons.nvim)
 
 ## Unicode
 

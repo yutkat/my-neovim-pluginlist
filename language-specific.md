@@ -28,6 +28,7 @@
     - [PHP](#php)
       - [Laravel](#laravel)
     - [Lua](#lua)
+    - [Luau](#luau)
     - [Rust](#rust)
     - [Go](#go)
       - [gofmt](#gofmt)
@@ -52,6 +53,7 @@
     - [GNU APL](#gnu-apl)
     - [Moonscript](#moonscript)
     - [Cell](#cell)
+    - [sylt](#sylt)
     - [Tcl/Tk](#tcltk)
     - [Prolog](#prolog)
     - [Brainfuck](#brainfuck)
@@ -69,6 +71,7 @@
     - [Drools Rule Language](#drools-rule-language)
 - [Competitive programming](#competitive-programming)
 - [Technical interviews](#technical-interviews)
+  - [LeetCode](#leetcode)
 
 # Language specific
 
@@ -225,6 +228,10 @@
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) ![](https://img.shields.io/github/stars/ckipp01/stylua-nvim) ![](https://img.shields.io/github/last-commit/ckipp01/stylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ckipp01/stylua-nvim)
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) ![](https://img.shields.io/github/stars/wesleimp/stylua.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/stylua.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/stylua.nvim)
 
+### Luau
+
+- [lopi-py/luau-lsp.nvim](https://github.com/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/lopi-py/luau-lsp.nvim)
+
 ### Rust
 
 - [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/stars/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/last-commit/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/rust-tools.nvim)
@@ -363,6 +370,10 @@
 ### Cell
 
 - [jordanvieler/cyto.nvim](https://github.com/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/stars/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/last-commit/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cyto.nvim)
+
+### sylt
+
+- [Quaqqer/sylt.nvim](https://github.com/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/stars/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/last-commit/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/commit-activity/y/Quaqqer/sylt.nvim)
 
 ### Tcl/Tk
 
