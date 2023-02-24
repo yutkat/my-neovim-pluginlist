@@ -55,6 +55,7 @@
 - [ghostbuster91/nvim-next](https://github.com/ghostbuster91/nvim-next) ![](https://img.shields.io/github/stars/ghostbuster91/nvim-next) ![](https://img.shields.io/github/last-commit/ghostbuster91/nvim-next) ![](https://img.shields.io/github/commit-activity/y/ghostbuster91/nvim-next)
 - [0x00-ketsu/eft.nvim](https://github.com/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/eft.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/eft.nvim)
 - [TheSafdarAwan/find-extender.nvim](https://github.com/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/stars/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/last-commit/TheSafdarAwan/find-extender.nvim) ![](https://img.shields.io/github/commit-activity/y/TheSafdarAwan/find-extender.nvim)
+- [UnsafeOats/oatjump.nvim](https://github.com/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/stars/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/last-commit/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/commit-activity/y/UnsafeOats/oatjump.nvim)
 
 #### Show jump word
 

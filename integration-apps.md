@@ -125,6 +125,8 @@
 
 #### Xcode
 
+- [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) ![](https://img.shields.io/github/stars/mickael-menu/ShadowVim) ![](https://img.shields.io/github/last-commit/mickael-menu/ShadowVim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/ShadowVim)
+
 ### Desktop Integration
 
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)

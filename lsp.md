@@ -119,6 +119,7 @@
 - [folke/noice.nvim(mini)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 - [mrded/nvim-lsp-notify](https://github.com/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/stars/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/last-commit/mrded/nvim-lsp-notify) ![](https://img.shields.io/github/commit-activity/y/mrded/nvim-lsp-notify)
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/stars/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/lsp-progress.nvim)
+- [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) ![](https://img.shields.io/github/stars/davidosomething/everandever.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/everandever.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/everandever.nvim)
 
 ### Local LSP Config
 
