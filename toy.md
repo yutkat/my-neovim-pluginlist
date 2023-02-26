@@ -7,12 +7,13 @@
   - [Image](#image)
   - [Video](#video)
   - [Game](#game)
-    - [Typing](#typing)
+      - [Typing](#typing)
   - [Gesture](#gesture)
   - [Weather](#weather)
   - [Stock price](#stock-price)
   - [Study](#study)
   - [Music](#music)
+    - [Recording](#recording)
   - [Screen server](#screen-server)
 
 # Toy
@@ -40,6 +41,7 @@
 ## Game
 
 - [rktjmp/shenzhen-solitaire.nvim](https://github.com/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/stars/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/shenzhen-solitaire.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/shenzhen-solitaire.nvim)
+- [alanfortlink/blackjack.nvim](https://github.com/alanfortlink/blackjack.nvim) ![](https://img.shields.io/github/stars/alanfortlink/blackjack.nvim) ![](https://img.shields.io/github/last-commit/alanfortlink/blackjack.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfortlink/blackjack.nvim)
 
 #### Typing
 

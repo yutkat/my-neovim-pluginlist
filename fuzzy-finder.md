@@ -24,6 +24,7 @@
 - [echasnovski/mini.fuzzy](https://github.com/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/stars/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/last-commit/echasnovski/mini.fuzzy) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.fuzzy)
 - [cpkio/nvim-fzf-windows](https://github.com/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/stars/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/last-commit/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-fzf-windows)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) ![](https://img.shields.io/github/stars/romgrk/kirby.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kirby.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kirby.nvim)
+- [haolian9/fond.nvim](https://github.com/haolian9/fond.nvim) ![](https://img.shields.io/github/stars/haolian9/fond.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fond.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fond.nvim)
 
 ### Telescope Extensions
 
