@@ -33,6 +33,8 @@
 - [fj0r/nvim-taberm](https://github.com/fj0r/nvim-taberm) ![](https://img.shields.io/github/stars/fj0r/nvim-taberm) ![](https://img.shields.io/github/last-commit/fj0r/nvim-taberm) ![](https://img.shields.io/github/commit-activity/y/fj0r/nvim-taberm)
 - [boltlessengineer/bufterm.nvim](https://github.com/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/bufterm.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/bufterm.nvim)
 - [dk949/termutils.nvim](https://github.com/dk949/termutils.nvim) ![](https://img.shields.io/github/stars/dk949/termutils.nvim) ![](https://img.shields.io/github/last-commit/dk949/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/termutils.nvim)
+- [cheinigk/teaman.nvim](https://github.com/cheinigk/teaman.nvim) ![](https://img.shields.io/github/stars/cheinigk/teaman.nvim) ![](https://img.shields.io/github/last-commit/cheinigk/teaman.nvim) ![](https://img.shields.io/github/commit-activity/y/cheinigk/teaman.nvim)
+- [Kibadda/terminal.nvim](https://github.com/Kibadda/terminal.nvim) ![](https://img.shields.io/github/stars/Kibadda/terminal.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/terminal.nvim)
 
 ### Edit
 

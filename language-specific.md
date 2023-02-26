@@ -189,6 +189,7 @@
 
 - [tacogips/run-jupyter.nvim](https://github.com/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/stars/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/last-commit/tacogips/run-jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/run-jupyter.nvim)
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/jupynium.nvim)
+- [lkhphuc/jupyter-kernel.nvim](https://github.com/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/stars/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/last-commit/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/commit-activity/y/lkhphuc/jupyter-kernel.nvim)
 
 ### Ruby
 

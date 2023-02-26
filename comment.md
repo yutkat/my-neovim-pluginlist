@@ -32,6 +32,7 @@
 - [The-Repo-Club/header.nvim](https://github.com/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/stars/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/last-commit/The-Repo-Club/header.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Repo-Club/header.nvim)
 - [abecodes/headache.nvim](https://github.com/abecodes/headache.nvim) ![](https://img.shields.io/github/stars/abecodes/headache.nvim) ![](https://img.shields.io/github/last-commit/abecodes/headache.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/headache.nvim)
 - [VincentBerthier/auto-header.nvim](https://github.com/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/stars/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/last-commit/VincentBerthier/auto-header.nvim) ![](https://img.shields.io/github/commit-activity/y/VincentBerthier/auto-header.nvim)
+- [JxJxxJxJ/DirHead.nvim](https://github.com/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/stars/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/last-commit/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/commit-activity/y/JxJxxJxJ/DirHead.nvim)
 
 ### Todo Comment Highlight
 
