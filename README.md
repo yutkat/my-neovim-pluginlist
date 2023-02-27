@@ -275,6 +275,7 @@
 - [bwintertkb/visual_wrap.nvim](https://github.com/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/stars/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/last-commit/bwintertkb/visual_wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/bwintertkb/visual_wrap.nvim)
 - [bagohart/niceblock.nvim](https://github.com/bagohart/niceblock.nvim) ![](https://img.shields.io/github/stars/bagohart/niceblock.nvim) ![](https://img.shields.io/github/last-commit/bagohart/niceblock.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/niceblock.nvim)
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/stars/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/match-visual.nvim)
+- [astaos/nvim-ultivisual](https://github.com/astaos/nvim-ultivisual) ![](https://img.shields.io/github/stars/astaos/nvim-ultivisual) ![](https://img.shields.io/github/last-commit/astaos/nvim-ultivisual) ![](https://img.shields.io/github/commit-activity/y/astaos/nvim-ultivisual)
 
 ### Wrap
 
@@ -723,6 +724,7 @@
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/indent-blankline.nvim)
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/stars/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/last-commit/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/indent-guides.nvim)
 - [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/simpleIndentGuides.nvim)
+- [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/shellRaining/hlchunk.nvim)
 
 ### Formatting
 

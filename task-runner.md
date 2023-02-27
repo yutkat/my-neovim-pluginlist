@@ -23,6 +23,7 @@
 - [CRAG666/code_runner.nvim](https://github.com/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/stars/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/last-commit/CRAG666/code_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CRAG666/code_runner.nvim)
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/toggletasks.nvim)
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/stars/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/vs-tasks.nvim)
+- [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) ![](https://img.shields.io/github/stars/Dax89/automaton.nvim) ![](https://img.shields.io/github/last-commit/Dax89/automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/automaton.nvim)
 
 ### YAML
 
