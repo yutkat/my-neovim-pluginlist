@@ -63,6 +63,7 @@
 - [arakkkkk/marktodo.nvim](https://github.com/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/stars/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/marktodo.nvim)
 - [ca-mantis-shrimp/Todoist.nvim](https://github.com/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/stars/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/last-commit/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/ca-mantis-shrimp/Todoist.nvim)
 - [jed-richards/todo.nvim](https://github.com/jed-richards/todo.nvim) ![](https://img.shields.io/github/stars/jed-richards/todo.nvim) ![](https://img.shields.io/github/last-commit/jed-richards/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/jed-richards/todo.nvim)
+- [oncomouse/todo.nvim](https://github.com/oncomouse/todo.nvim) ![](https://img.shields.io/github/stars/oncomouse/todo.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/todo.nvim)
 
 ## Obsidian
 

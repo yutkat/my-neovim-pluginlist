@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Terminal](#terminal)
     - [Terminal Enhancement](#terminal-enhancement)
+    - [Open](#open)
     - [Edit](#edit)
     - [External terminal](#external-terminal)
     - [Terminal Selector](#terminal-selector)
@@ -35,6 +36,10 @@
 - [dk949/termutils.nvim](https://github.com/dk949/termutils.nvim) ![](https://img.shields.io/github/stars/dk949/termutils.nvim) ![](https://img.shields.io/github/last-commit/dk949/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/termutils.nvim)
 - [cheinigk/teaman.nvim](https://github.com/cheinigk/teaman.nvim) ![](https://img.shields.io/github/stars/cheinigk/teaman.nvim) ![](https://img.shields.io/github/last-commit/cheinigk/teaman.nvim) ![](https://img.shields.io/github/commit-activity/y/cheinigk/teaman.nvim)
 - [Kibadda/terminal.nvim](https://github.com/Kibadda/terminal.nvim) ![](https://img.shields.io/github/stars/Kibadda/terminal.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/terminal.nvim)
+
+### Open
+
+- [Ernest1338/termplug.nvim](https://github.com/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/stars/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/termplug.nvim)
 
 ### Edit
 
