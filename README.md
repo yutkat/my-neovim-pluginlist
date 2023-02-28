@@ -726,6 +726,7 @@
 - [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/stars/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/last-commit/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/indent-guides.nvim)
 - [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/simpleIndentGuides.nvim)
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/shellRaining/hlchunk.nvim)
+- [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) ![](https://img.shields.io/github/stars/huy-hng/anyline.nvim) ![](https://img.shields.io/github/last-commit/huy-hng/anyline.nvim) ![](https://img.shields.io/github/commit-activity/y/huy-hng/anyline.nvim)
 
 ### Formatting
 
