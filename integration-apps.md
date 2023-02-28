@@ -222,6 +222,7 @@
 
 - [zaucy/bazel.nvim](https://github.com/zaucy/bazel.nvim) ![](https://img.shields.io/github/stars/zaucy/bazel.nvim) ![](https://img.shields.io/github/last-commit/zaucy/bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/bazel.nvim)
 - [alexander-born/bazel.nvim](https://github.com/alexander-born/bazel.nvim) ![](https://img.shields.io/github/stars/alexander-born/bazel.nvim) ![](https://img.shields.io/github/last-commit/alexander-born/bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/alexander-born/bazel.nvim)
+- [numine777/py-bazel.nvim](https://github.com/numine777/py-bazel.nvim) ![](https://img.shields.io/github/stars/numine777/py-bazel.nvim) ![](https://img.shields.io/github/last-commit/numine777/py-bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/numine777/py-bazel.nvim)
 
 #### ripgrep
 

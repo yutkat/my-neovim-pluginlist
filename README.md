@@ -190,6 +190,7 @@
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
 - [nat-418/slowly.nvim](https://github.com/nat-418/slowly.nvim) ![](https://img.shields.io/github/stars/nat-418/slowly.nvim) ![](https://img.shields.io/github/last-commit/nat-418/slowly.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/slowly.nvim)
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
+- [zukijifukato/hephy.nvim](https://github.com/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/stars/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/last-commit/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/commit-activity/y/zukijifukato/hephy.nvim)
 
 ### Update checker
 

@@ -21,6 +21,10 @@
     - [Deno](#deno)
     - [mjml](#mjml)
     - [Python](#python)
+      - [test](#test-1)
+      - [REPL](#repl)
+      - [build manager](#build-manager)
+      - [venv](#venv)
       - [Jupyter](#jupyter)
     - [Ruby](#ruby)
       - [Rails](#rails)
@@ -32,7 +36,7 @@
     - [Rust](#rust)
     - [Go](#go)
       - [gofmt](#gofmt)
-      - [Test](#test-1)
+      - [Test](#test-2)
     - [C/C++](#cc)
       - [Cmake](#cmake)
     - [Zig](#zig)
@@ -164,26 +168,38 @@
 
 ### Python
 
-- [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
-- [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
 - [HallerPatrick/py_lsp.nvim](https://github.com/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/stars/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/last-commit/HallerPatrick/py_lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HallerPatrick/py_lsp.nvim)
 - [eddiebergman/nvim-treesitter-pyfold](https://github.com/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/stars/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/last-commit/eddiebergman/nvim-treesitter-pyfold) ![](https://img.shields.io/github/commit-activity/y/eddiebergman/nvim-treesitter-pyfold)
-- [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
-- [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
-- [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
-- [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
-- [jefromyers/python_usain.nvim](https://github.com/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/stars/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/last-commit/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/commit-activity/y/jefromyers/python_usain.nvim)
-- [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) ![](https://img.shields.io/github/stars/AckslD/swenv.nvim) ![](https://img.shields.io/github/last-commit/AckslD/swenv.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/swenv.nvim)
 - [mwil/nvim-block-markers](https://github.com/mwil/nvim-block-markers) ![](https://img.shields.io/github/stars/mwil/nvim-block-markers) ![](https://img.shields.io/github/last-commit/mwil/nvim-block-markers) ![](https://img.shields.io/github/commit-activity/y/mwil/nvim-block-markers)
 - [Mr-Destructive/black_snipper.nvim](https://github.com/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/black_snipper.nvim)
-- [yohi/install-pip-package.nvim](https://github.com/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/stars/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/last-commit/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/install-pip-package.nvim)
-- [numine777/py-bazel.nvim](https://github.com/numine777/py-bazel.nvim) ![](https://img.shields.io/github/stars/numine777/py-bazel.nvim) ![](https://img.shields.io/github/last-commit/numine777/py-bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/numine777/py-bazel.nvim)
-- [jpfender/pipenv.nvim](https://github.com/jpfender/pipenv.nvim) ![](https://img.shields.io/github/stars/jpfender/pipenv.nvim) ![](https://img.shields.io/github/last-commit/jpfender/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/jpfender/pipenv.nvim)
-- [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
-- [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
-- [SimonZehetner/python_venv.nvim](https://github.com/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/stars/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/last-commit/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonZehetner/python_venv.nvim)
 - [prevostcorentin/nvim-yawn](https://github.com/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/stars/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/last-commit/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/commit-activity/y/prevostcorentin/nvim-yawn)
 - [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/stars/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/last-commit/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/f-string-toggle.nvim)
+
+#### test
+
+- [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
+- [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
+- [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
+- [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
+- [jefromyers/python_usain.nvim](https://github.com/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/stars/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/last-commit/jefromyers/python_usain.nvim) ![](https://img.shields.io/github/commit-activity/y/jefromyers/python_usain.nvim)
+
+#### REPL
+
+- [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
+- [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
+- [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
+
+#### build manager
+
+- [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
+- [yohi/install-pip-package.nvim](https://github.com/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/stars/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/last-commit/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/install-pip-package.nvim)
+- [jpfender/pipenv.nvim](https://github.com/jpfender/pipenv.nvim) ![](https://img.shields.io/github/stars/jpfender/pipenv.nvim) ![](https://img.shields.io/github/last-commit/jpfender/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/jpfender/pipenv.nvim)
+
+#### venv
+
+- [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) ![](https://img.shields.io/github/stars/AckslD/swenv.nvim) ![](https://img.shields.io/github/last-commit/AckslD/swenv.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/swenv.nvim)
+- [SimonZehetner/python_venv.nvim](https://github.com/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/stars/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/last-commit/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonZehetner/python_venv.nvim)
+- [linux-cultist/venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/stars/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/last-commit/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/linux-cultist/venv-selector.nvim)
 
 #### Jupyter
 
