@@ -339,6 +339,7 @@
 - [KerberosKomondor/jira.nvim](https://github.com/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/jira.nvim)
 - [KerberosKomondor/cmp-jira.nvim](https://github.com/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/cmp-jira.nvim)
 - [154pinkchairs/jira.nvim](https://github.com/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/stars/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/last-commit/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/154pinkchairs/jira.nvim)
+- [gnuh/jiracli.nvim](https://github.com/gnuh/jiracli.nvim) ![](https://img.shields.io/github/stars/gnuh/jiracli.nvim) ![](https://img.shields.io/github/last-commit/gnuh/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/jiracli.nvim)
 
 #### Google Docs
 
