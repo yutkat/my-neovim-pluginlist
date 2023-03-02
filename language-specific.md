@@ -275,6 +275,7 @@
 #### gofmt
 
 - [MaxwelMazur/gofmt.nvim](https://github.com/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/stars/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/last-commit/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/MaxwelMazur/gofmt.nvim)
+- [td0m/go-order.nvim](https://github.com/td0m/go-order.nvim) ![](https://img.shields.io/github/stars/td0m/go-order.nvim) ![](https://img.shields.io/github/last-commit/td0m/go-order.nvim) ![](https://img.shields.io/github/commit-activity/y/td0m/go-order.nvim)
 
 #### Test
 
