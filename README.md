@@ -141,6 +141,7 @@
     - [Key stroke](#key-stroke)
     - [Concentration](#concentration)
       - [Pomodoro](#pomodoro)
+      - [Alarm](#alarm)
       - [Do Not Disturb](#do-not-disturb)
       - [Zen Mode](#zen-mode)
     - [Human-readable](#human-readable)
@@ -888,6 +889,10 @@
 - [mrbru12/stopwatch.nvim](https://github.com/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/stars/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/last-commit/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrbru12/stopwatch.nvim)
 - [jackMort/pommodoro-clock.nvim](https://github.com/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/stars/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/last-commit/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/pommodoro-clock.nvim)
 - [Kevalin/tomato-timer.nvim](https://github.com/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/stars/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/last-commit/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kevalin/tomato-timer.nvim)
+
+#### Alarm
+
+- [gnuh/nalarm.nvim](https://github.com/gnuh/nalarm.nvim) ![](https://img.shields.io/github/stars/gnuh/nalarm.nvim) ![](https://img.shields.io/github/last-commit/gnuh/nalarm.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/nalarm.nvim)
 
 #### Do Not Disturb
 
