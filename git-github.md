@@ -19,6 +19,7 @@
   - [gitignore](#gitignore)
   - [git hook](#git-hook)
   - [git info](#git-info)
+  - [search](#search)
 - [GitHub](#github)
   - [Features like gh](#features-like-gh)
   - [GitHub tweaks](#github-tweaks)
@@ -124,6 +125,10 @@
 ## git info
 
 - [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/git-link.nvim)
+
+## search
+
+- [aaronhallaert/ts-advanced-git-search.nvim](https://github.com/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/ts-advanced-git-search.nvim)
 
 # GitHub
 
