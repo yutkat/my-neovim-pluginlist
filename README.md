@@ -889,6 +889,7 @@
 - [mrbru12/stopwatch.nvim](https://github.com/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/stars/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/last-commit/mrbru12/stopwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrbru12/stopwatch.nvim)
 - [jackMort/pommodoro-clock.nvim](https://github.com/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/stars/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/last-commit/jackMort/pommodoro-clock.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/pommodoro-clock.nvim)
 - [Kevalin/tomato-timer.nvim](https://github.com/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/stars/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/last-commit/Kevalin/tomato-timer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kevalin/tomato-timer.nvim)
+- [koczanm/nuff.nvim](https://github.com/koczanm/nuff.nvim) ![](https://img.shields.io/github/stars/koczanm/nuff.nvim) ![](https://img.shields.io/github/last-commit/koczanm/nuff.nvim) ![](https://img.shields.io/github/commit-activity/y/koczanm/nuff.nvim)
 
 #### Alarm
 
