@@ -1,22 +1,23 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Auto Completion](#auto-completion)
-  - [Auto Completion Plugin](#auto-completion-plugin)
-    - [Made in Lua](#made-in-lua)
-    - [Made in Python](#made-in-python)
-    - [Made in Rust](#made-in-rust)
-  - [nvim-cmp extension](#nvim-cmp-extension)
-    - [nvim-cmp sources](#nvim-cmp-sources)
-    - [nvim-cmp comparator](#nvim-cmp-comparator)
-  - [Auto Completion support](#auto-completion-support)
+  - [Auto Completion](#auto-completion)
+    - [Auto Completion Plugin](#auto-completion-plugin)
+      - [Made in Lua](#made-in-lua)
+      - [Made in Python](#made-in-python)
+      - [Made in Rust](#made-in-rust)
+    - [nvim-cmp extension](#nvim-cmp-extension)
+      - [nvim-cmp sources](#nvim-cmp-sources)
+      - [nvim-cmp comparator](#nvim-cmp-comparator)
+    - [Auto Completion support](#auto-completion-support)
   - [AI Completion](#ai-completion)
+  - [Standard Completion](#standard-completion)
 
-# Auto Completion
+## Auto Completion
 
-## Auto Completion Plugin
+### Auto Completion Plugin
 
-### Made in Lua
+#### Made in Lua
 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp)
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/sekme.nvim)
@@ -24,17 +25,17 @@
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lsp-compl)
 - [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) ![](https://img.shields.io/github/stars/echasnovski/mini.completion) ![](https://img.shields.io/github/last-commit/echasnovski/mini.completion) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.completion)
 
-### Made in Python
+#### Made in Python
 
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) ![](https://img.shields.io/github/stars/ms-jpq/coq_nvim) ![](https://img.shields.io/github/last-commit/ms-jpq/coq_nvim) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/coq_nvim)
 
-### Made in Rust
+#### Made in Rust
 
 - [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) ![](https://img.shields.io/github/stars/noib3/nvim-compleet) ![](https://img.shields.io/github/last-commit/noib3/nvim-compleet) ![](https://img.shields.io/github/commit-activity/y/noib3/nvim-compleet)
 
-## nvim-cmp extension
+### nvim-cmp extension
 
-### nvim-cmp sources
+#### nvim-cmp sources
 
 - Standard source
   - [hrsh7th/cmp-path](https://github.com/hrsh7th/cmp-path) ![](https://img.shields.io/github/stars/hrsh7th/cmp-path) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-path) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-path)
@@ -73,11 +74,11 @@
   - [KadoBOT/cmp-plugins](https://github.com/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/stars/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/last-commit/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/commit-activity/y/KadoBOT/cmp-plugins)
   - [delphinus/cmp-ctags](https://github.com/delphinus/cmp-ctags) ![](https://img.shields.io/github/stars/delphinus/cmp-ctags) ![](https://img.shields.io/github/last-commit/delphinus/cmp-ctags) ![](https://img.shields.io/github/commit-activity/y/delphinus/cmp-ctags)
 
-### nvim-cmp comparator
+#### nvim-cmp comparator
 
 - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/stars/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/last-commit/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/cmp-under-comparator)
 
-## Auto Completion support
+### Auto Completion support
 
 - [onsails/lspkind-nvim](https://github.com/onsails/lspkind-nvim) ![](https://img.shields.io/github/stars/onsails/lspkind-nvim) ![](https://img.shields.io/github/last-commit/onsails/lspkind-nvim) ![](https://img.shields.io/github/commit-activity/y/onsails/lspkind-nvim)
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/stars/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/last-commit/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/lsp_signature.nvim)
@@ -95,3 +96,8 @@
 - [jordanvieler/cmp-neurogenesis](https://github.com/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/stars/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/last-commit/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cmp-neurogenesis)
 - [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/stars/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/last-commit/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdickinson/codeium.nvim)
 - [jinzhongjia/Codegeex.nvim](https://github.com/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/Codegeex.nvim)
+
+## Standard Completion
+
+- [atusy/telescomp.nvim](https://github.com/atusy/telescomp.nvim) ![](https://img.shields.io/github/stars/atusy/telescomp.nvim) ![](https://img.shields.io/github/last-commit/atusy/telescomp.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/telescomp.nvim)
+- [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/stars/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/telescope-insert-path.nvim)
