@@ -35,6 +35,7 @@
 - [Furkanzmc/zettelkasten.nvim](https://github.com/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/zettelkasten.nvim)
 - [gja22/capture.nvim](https://github.com/gja22/capture.nvim) ![](https://img.shields.io/github/stars/gja22/capture.nvim) ![](https://img.shields.io/github/last-commit/gja22/capture.nvim) ![](https://img.shields.io/github/commit-activity/y/gja22/capture.nvim)
 - [Cartogy/zettelbrain.nvim](https://github.com/Cartogy/zettelbrain.nvim) ![](https://img.shields.io/github/stars/Cartogy/zettelbrain.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/zettelbrain.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/zettelbrain.nvim)
+- [BlakeJC94/field-notes.nvim](https://github.com/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/field-notes.nvim)
 
 ## Markdown
 
