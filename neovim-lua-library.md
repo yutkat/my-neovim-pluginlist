@@ -154,6 +154,8 @@
 
 ## autocmd
 
+- [mvllow/matcha.nvim](https://github.com/mvllow/matcha.nvim) ![](https://img.shields.io/github/stars/mvllow/matcha.nvim) ![](https://img.shields.io/github/last-commit/mvllow/matcha.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/matcha.nvim)
+
 ## Icon
 
 - [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
