@@ -34,6 +34,7 @@
 
 - [crispgm/telescope-heading.nvim](https://github.com/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/stars/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/last-commit/crispgm/telescope-heading.nvim) ![](https://img.shields.io/github/commit-activity/y/crispgm/telescope-heading.nvim)
 - [dburian/cmp-markdown-link](https://github.com/dburian/cmp-markdown-link) ![](https://img.shields.io/github/stars/dburian/cmp-markdown-link) ![](https://img.shields.io/github/last-commit/dburian/cmp-markdown-link) ![](https://img.shields.io/github/commit-activity/y/dburian/cmp-markdown-link)
+- [5eqn/nothura.nvim](https://github.com/5eqn/nothura.nvim) ![](https://img.shields.io/github/stars/5eqn/nothura.nvim) ![](https://img.shields.io/github/last-commit/5eqn/nothura.nvim) ![](https://img.shields.io/github/commit-activity/y/5eqn/nothura.nvim)
 
 #### Markdown header
 

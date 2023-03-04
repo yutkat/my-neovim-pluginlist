@@ -27,6 +27,7 @@
 - [nat-418/castabout.nvim](https://github.com/nat-418/castabout.nvim) ![](https://img.shields.io/github/stars/nat-418/castabout.nvim) ![](https://img.shields.io/github/last-commit/nat-418/castabout.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/castabout.nvim)
 - [ArnauPrat/nvim-gotoerror](https://github.com/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/stars/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/last-commit/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/commit-activity/y/ArnauPrat/nvim-gotoerror)
 - [monaqa/modesearch.nvim](https://github.com/monaqa/modesearch.nvim) ![](https://img.shields.io/github/stars/monaqa/modesearch.nvim) ![](https://img.shields.io/github/last-commit/monaqa/modesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/modesearch.nvim)
+- [MaximilianLloyd/patternvault.nvim](https://github.com/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/patternvault.nvim)
 
 ## Line search
 

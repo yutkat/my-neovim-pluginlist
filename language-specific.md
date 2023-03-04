@@ -151,6 +151,7 @@
 ### Graphql
 
 - [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
+- [darkonig/nvim-graphql-executor.lua](https://github.com/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/stars/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/last-commit/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/commit-activity/y/darkonig/nvim-graphql-executor.lua)
 
 ### React
 
@@ -296,6 +297,8 @@
 - [amikai/cscope.nvim](https://github.com/amikai/cscope.nvim) ![](https://img.shields.io/github/stars/amikai/cscope.nvim) ![](https://img.shields.io/github/last-commit/amikai/cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/amikai/cscope.nvim)
 - [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
 - [PatWie/include-guard.nvim](https://github.com/PatWie/include-guard.nvim) ![](https://img.shields.io/github/stars/PatWie/include-guard.nvim) ![](https://img.shields.io/github/last-commit/PatWie/include-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/PatWie/include-guard.nvim)
+- [paddywz/doxycpp.nvim](https://github.com/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/stars/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/last-commit/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/commit-activity/y/paddywz/doxycpp.nvim)
+- [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 
 #### Cmake
 
