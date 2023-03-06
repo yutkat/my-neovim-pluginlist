@@ -207,6 +207,7 @@
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) ![](https://img.shields.io/github/stars/romgrk/kui.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kui.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kui.nvim)
+- [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/stars/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/last-commit/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/commit-activity/y/garyhurtz/cmp_kitty)
 
 #### Windows Terminal
 
@@ -367,7 +368,7 @@
 - [ribelo/prompter.nvim](https://github.com/ribelo/prompter.nvim) ![](https://img.shields.io/github/stars/ribelo/prompter.nvim) ![](https://img.shields.io/github/last-commit/ribelo/prompter.nvim) ![](https://img.shields.io/github/commit-activity/y/ribelo/prompter.nvim)
 - [jungyong0615dot/gpt_scratch.nvim](https://github.com/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/gpt_scratch.nvim)
 - [karintomania/nvim-ai-chat](https://github.com/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/stars/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/last-commit/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/commit-activity/y/karintomania/nvim-ai-chat)
-](https://github.com/) ![](https://img.shields.io/github/stars/) ![](https://img.shields.io/github/last-commit/) ![](https://img.shields.io/github/commit-activity/y/)
+- [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/stars/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/last-commit/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/dpayne/CodeGPT.nvim)
 
 #### Otter
 
