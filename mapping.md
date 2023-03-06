@@ -5,6 +5,7 @@
   - [Bracket](#bracket)
   - [Mapping search](#mapping-search)
   - [Prefix Key Binding](#prefix-key-binding)
+  - [Mapping toggle](#mapping-toggle)
 
 # Keymap
 
@@ -38,3 +39,8 @@
 
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/stars/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/hydra.nvim)
 - [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
+
+## Mapping toggle
+
+- [paulfrische/mode.nvim](https://github.com/paulfrische/mode.nvim) ![](https://img.shields.io/github/stars/paulfrische/mode.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mode.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mode.nvim)
+- [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
