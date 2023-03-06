@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-  - [Project](#project)
-    - [Project Switcher](#project-switcher)
-    - [Project Root Detector](#project-root-detector)
-    - [Project Local Config](#project-local-config)
-    - [Config switcher](#config-switcher)
+    - [Project](#project)
+      - [Project Switcher](#project-switcher)
+      - [Project Root Detector](#project-root-detector)
+      - [Project Local Config](#project-local-config)
+      - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -19,11 +19,9 @@
 - [charludo/projectmgr.nvim](https://github.com/charludo/projectmgr.nvim) ![](https://img.shields.io/github/stars/charludo/projectmgr.nvim) ![](https://img.shields.io/github/last-commit/charludo/projectmgr.nvim) ![](https://img.shields.io/github/commit-activity/y/charludo/projectmgr.nvim)
 - [willthbill/opener.nvim](https://github.com/willthbill/opener.nvim) ![](https://img.shields.io/github/stars/willthbill/opener.nvim) ![](https://img.shields.io/github/last-commit/willthbill/opener.nvim) ![](https://img.shields.io/github/commit-activity/y/willthbill/opener.nvim)
 - [smartpde/neoscopes](https://github.com/smartpde/neoscopes) ![](https://img.shields.io/github/stars/smartpde/neoscopes) ![](https://img.shields.io/github/last-commit/smartpde/neoscopes) ![](https://img.shields.io/github/commit-activity/y/smartpde/neoscopes)
-- [Dax89/ide.nvim](https://github.com/Dax89/ide.nvim) ![](https://img.shields.io/github/stars/Dax89/ide.nvim) ![](https://img.shields.io/github/last-commit/Dax89/ide.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/ide.nvim)
 - [daricoder/workspaces.nvim](https://github.com/daricoder/workspaces.nvim) ![](https://img.shields.io/github/stars/daricoder/workspaces.nvim) ![](https://img.shields.io/github/last-commit/daricoder/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/daricoder/workspaces.nvim)
 - [Nanoteck137/sobble.nvim](https://github.com/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/stars/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/last-commit/Nanoteck137/sobble.nvim) ![](https://img.shields.io/github/commit-activity/y/Nanoteck137/sobble.nvim)
 - [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
-- [nyngwang/fzf-lua-projections.nvim](https://github.com/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/stars/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/last-commit/nyngwang/fzf-lua-projections.nvim) ![](https://img.shields.io/github/commit-activity/y/nyngwang/fzf-lua-projections.nvim)
 - [jinzhongjia/PS_manager.nvim](https://github.com/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/PS_manager.nvim)
 - [mohitsinghs/repo.nvim](https://github.com/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/stars/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/last-commit/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/commit-activity/y/mohitsinghs/repo.nvim)
 
