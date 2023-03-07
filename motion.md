@@ -90,6 +90,7 @@
 
 #### jumplist
 
+- [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) ![](https://img.shields.io/github/stars/cbochs/portal.nvim) ![](https://img.shields.io/github/last-commit/cbochs/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/cbochs/portal.nvim)
 - [kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufjump.nvim)
 
 #### Edit History
