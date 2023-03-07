@@ -784,6 +784,7 @@
 - [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
 - [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
 - [allvpv/resize-font.nvim](https://github.com/allvpv/resize-font.nvim) ![](https://img.shields.io/github/stars/allvpv/resize-font.nvim) ![](https://img.shields.io/github/last-commit/allvpv/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/allvpv/resize-font.nvim)
+- [glepnir/nerdicons.nvim](https://github.com/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/stars/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/nerdicons.nvim)
 
 ### [Emoji](./emoji.md)
 
