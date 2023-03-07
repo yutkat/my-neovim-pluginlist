@@ -69,6 +69,7 @@
 
 ### Multiple word highlight
 
+- [hek14/symbol-overlay.nvim](https://github.com/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/stars/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/last-commit/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/hek14/symbol-overlay.nvim)
 - [dvoytik/hi-my-words.nvim](https://github.com/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/stars/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/last-commit/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/commit-activity/y/dvoytik/hi-my-words.nvim)
 
 ### Jump highlight

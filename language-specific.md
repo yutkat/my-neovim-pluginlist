@@ -56,6 +56,7 @@
     - [Agda](#agda)
     - [Monkey](#monkey)
     - [GNU APL](#gnu-apl)
+    - [Godot](#godot)
     - [Moonscript](#moonscript)
     - [Cell](#cell)
     - [sylt](#sylt)
@@ -108,6 +109,7 @@
 
 - [nvim-telescope/telescope-node-modules.nvim](https://github.com/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-node-modules.nvim)
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/stars/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/last-commit/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/commit-activity/y/elianiva/telescope-npm.nvim)
+- [azizgharbi/nodePackageCheck.nvim](https://github.com/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/stars/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/last-commit/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/azizgharbi/nodePackageCheck.nvim)
 
 ### HTML
 
@@ -388,6 +390,12 @@
 ### GNU APL
 
 - [salkin-mada/apl.nvim](https://github.com/salkin-mada/apl.nvim) ![](https://img.shields.io/github/stars/salkin-mada/apl.nvim) ![](https://img.shields.io/github/last-commit/salkin-mada/apl.nvim) ![](https://img.shields.io/github/commit-activity/y/salkin-mada/apl.nvim)
+
+### Godot
+
+- [Lommix/godot.nvim](https://github.com/Lommix/godot.nvim) ![](https://img.shields.io/github/stars/Lommix/godot.nvim) ![](https://img.shields.io/github/last-commit/Lommix/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/godot.nvim)
+- [niscolas/nvim-godot](https://github.com/niscolas/nvim-godot) ![](https://img.shields.io/github/stars/niscolas/nvim-godot) ![](https://img.shields.io/github/last-commit/niscolas/nvim-godot) ![](https://img.shields.io/github/commit-activity/y/niscolas/nvim-godot)
+- [QuickGD/quickgd.nvim](https://github.com/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/stars/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/last-commit/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/commit-activity/y/QuickGD/quickgd.nvim)
 
 ### Moonscript
 
