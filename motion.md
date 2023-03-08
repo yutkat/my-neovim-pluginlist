@@ -69,6 +69,8 @@
 
 ### Word Motion
 
+- [Craftidore/camelCaseMotion.nvim](https://github.com/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/stars/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/last-commit/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/Craftidore/camelCaseMotion.nvim)
+
 ### Line Move
 
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)

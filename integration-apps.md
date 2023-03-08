@@ -242,6 +242,7 @@
 
 - [noorwachid/nvim-rsync](https://github.com/noorwachid/nvim-rsync) ![](https://img.shields.io/github/stars/noorwachid/nvim-rsync) ![](https://img.shields.io/github/last-commit/noorwachid/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/noorwachid/nvim-rsync)
 - [uiofgh/rsync.nvim](https://github.com/uiofgh/rsync.nvim) ![](https://img.shields.io/github/stars/uiofgh/rsync.nvim) ![](https://img.shields.io/github/last-commit/uiofgh/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/uiofgh/rsync.nvim)
+- [shinobu-uwu/rsync.nvim](https://github.com/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/stars/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/last-commit/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/shinobu-uwu/rsync.nvim)
 
 #### ctags
 
@@ -367,6 +368,7 @@
 - [jungyong0615dot/gpt_scratch.nvim](https://github.com/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/gpt_scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/gpt_scratch.nvim)
 - [karintomania/nvim-ai-chat](https://github.com/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/stars/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/last-commit/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/commit-activity/y/karintomania/nvim-ai-chat)
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/stars/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/last-commit/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/dpayne/CodeGPT.nvim)
+- [thmsmlr/gpt.nvim](https://github.com/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/stars/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/last-commit/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/thmsmlr/gpt.nvim)
 
 #### Otter
 
