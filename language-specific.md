@@ -357,6 +357,7 @@
 ### Haskell
 
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/stars/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/last-commit/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/haskell-tools.nvim)
+- [kiyoon/haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/haskell-scope-highlighting.nvim)
 
 ### Lisp
 
