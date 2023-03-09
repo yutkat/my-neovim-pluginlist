@@ -369,6 +369,8 @@
 - [karintomania/nvim-ai-chat](https://github.com/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/stars/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/last-commit/karintomania/nvim-ai-chat) ![](https://img.shields.io/github/commit-activity/y/karintomania/nvim-ai-chat)
 - [dpayne/CodeGPT.nvim](https://github.com/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/stars/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/last-commit/dpayne/CodeGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/dpayne/CodeGPT.nvim)
 - [thmsmlr/gpt.nvim](https://github.com/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/stars/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/last-commit/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/thmsmlr/gpt.nvim)
+- [lvauthrin/chatgpt.nvim](https://github.com/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/stars/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/last-commit/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/lvauthrin/chatgpt.nvim)
+- [sigmaSd/chat.nvim](https://github.com/sigmaSd/chat.nvim) ![](https://img.shields.io/github/stars/sigmaSd/chat.nvim) ![](https://img.shields.io/github/last-commit/sigmaSd/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/chat.nvim)
 
 #### Otter
 
