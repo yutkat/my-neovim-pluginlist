@@ -6,7 +6,7 @@
     - [Image Paste](#image-paste)
     - [Image Uploader](#image-uploader)
     - [Screenshot](#screenshot)
-      - [Silicon](#silicon)
+      - [Code Image](#code-image)
     - [Ascii](#ascii)
 
 ## Image
@@ -37,11 +37,12 @@
 - [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
 - [mattydebie/scs.nvim](https://github.com/mattydebie/scs.nvim) ![](https://img.shields.io/github/stars/mattydebie/scs.nvim) ![](https://img.shields.io/github/last-commit/mattydebie/scs.nvim) ![](https://img.shields.io/github/commit-activity/y/mattydebie/scs.nvim)
 
-#### Silicon
+#### Code Image
 
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
 - [narutoxy/silicon.lua](https://github.com/narutoxy/silicon.lua) ![](https://img.shields.io/github/stars/narutoxy/silicon.lua) ![](https://img.shields.io/github/last-commit/narutoxy/silicon.lua) ![](https://img.shields.io/github/commit-activity/y/narutoxy/silicon.lua)
 - [atlj/Pixie.nvim](https://github.com/atlj/Pixie.nvim) ![](https://img.shields.io/github/stars/atlj/Pixie.nvim) ![](https://img.shields.io/github/last-commit/atlj/Pixie.nvim) ![](https://img.shields.io/github/commit-activity/y/atlj/Pixie.nvim)
+- [matze/wastebin.nvim](https://github.com/matze/wastebin.nvim) ![](https://img.shields.io/github/stars/matze/wastebin.nvim) ![](https://img.shields.io/github/last-commit/matze/wastebin.nvim) ![](https://img.shields.io/github/commit-activity/y/matze/wastebin.nvim)
 
 ### Ascii
 
