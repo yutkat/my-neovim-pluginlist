@@ -107,8 +107,6 @@
 
 #### Semantic Token
 
-- [swarn/semanticist.nvim](https://github.com/swarn/semanticist.nvim) ![](https://img.shields.io/github/stars/swarn/semanticist.nvim) ![](https://img.shields.io/github/last-commit/swarn/semanticist.nvim) ![](https://img.shields.io/github/commit-activity/y/swarn/semanticist.nvim)
-
 ### LSP Progress
 
 - [j-hui/fidget.nvim](https://github.com/j-hui/fidget.nvim) ![](https://img.shields.io/github/stars/j-hui/fidget.nvim) ![](https://img.shields.io/github/last-commit/j-hui/fidget.nvim) ![](https://img.shields.io/github/commit-activity/y/j-hui/fidget.nvim)
