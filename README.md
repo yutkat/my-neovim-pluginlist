@@ -386,6 +386,7 @@
 - [nkakouros-original/numbers.nvim](https://github.com/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/numbers.nvim)
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
 - [joshdirkx/toggle-relativenumber.nvim](https://github.com/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/stars/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/last-commit/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/commit-activity/y/joshdirkx/toggle-relativenumber.nvim)
+- [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/stars/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/relative-toggle.nvim)
 
 ### Cursor location
 
