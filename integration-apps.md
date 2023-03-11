@@ -371,6 +371,7 @@
 - [thmsmlr/gpt.nvim](https://github.com/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/stars/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/last-commit/thmsmlr/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/thmsmlr/gpt.nvim)
 - [lvauthrin/chatgpt.nvim](https://github.com/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/stars/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/last-commit/lvauthrin/chatgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/lvauthrin/chatgpt.nvim)
 - [sigmaSd/chat.nvim](https://github.com/sigmaSd/chat.nvim) ![](https://img.shields.io/github/stars/sigmaSd/chat.nvim) ![](https://img.shields.io/github/last-commit/sigmaSd/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/chat.nvim)
+- [NewDawn0/rgpt.nvim](https://github.com/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/stars/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/rgpt.nvim)
 
 #### Otter
 
@@ -484,6 +485,7 @@
 - [miferco97/ros2-debugger-plugin](https://github.com/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/stars/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/last-commit/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/commit-activity/y/miferco97/ros2-debugger-plugin)
 - [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
 - [taDachs/ros-nvim](https://github.com/taDachs/ros-nvim) ![](https://img.shields.io/github/stars/taDachs/ros-nvim) ![](https://img.shields.io/github/last-commit/taDachs/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/ros-nvim)
+- [taketwo/nvim-ros](https://github.com/taketwo/nvim-ros) ![](https://img.shields.io/github/stars/taketwo/nvim-ros) ![](https://img.shields.io/github/last-commit/taketwo/nvim-ros) ![](https://img.shields.io/github/commit-activity/y/taketwo/nvim-ros)
 
 ##### LEGO
 

@@ -56,3 +56,4 @@
 ### Neovim in Neovim
 
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) ![](https://img.shields.io/github/stars/samjwill/nvim-unception) ![](https://img.shields.io/github/last-commit/samjwill/nvim-unception) ![](https://img.shields.io/github/commit-activity/y/samjwill/nvim-unception)
+- [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) ![](https://img.shields.io/github/stars/willothy/flatten.nvim) ![](https://img.shields.io/github/last-commit/willothy/flatten.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/flatten.nvim)
