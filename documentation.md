@@ -55,6 +55,7 @@
 - [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
 - [kurotych/crabix-desktop.nvim](https://github.com/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/stars/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/last-commit/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/crabix-desktop.nvim)
 - [josa42/nvim-markdown-preview](https://github.com/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/stars/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-markdown-preview)
+- [OlshaMB/remarko-md.nvim](https://github.com/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/stars/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/last-commit/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/commit-activity/y/OlshaMB/remarko-md.nvim)
 
 #### Markdown code block
 
