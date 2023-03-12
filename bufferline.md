@@ -2,6 +2,7 @@
 
 - [Table of Contents](#table-of-contents)
 - [Bufferline](#bufferline)
+  - [use winbar](#use-winbar)
 
 # Bufferline
 
@@ -18,3 +19,7 @@
 - [ldelossa/buffertag](https://github.com/ldelossa/buffertag) ![](https://img.shields.io/github/stars/ldelossa/buffertag) ![](https://img.shields.io/github/last-commit/ldelossa/buffertag) ![](https://img.shields.io/github/commit-activity/y/ldelossa/buffertag)
 - [echasnovski/mini.tabline](https://github.com/echasnovski/mini.tabline) ![](https://img.shields.io/github/stars/echasnovski/mini.tabline) ![](https://img.shields.io/github/last-commit/echasnovski/mini.tabline) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.tabline)
 - [fzdwx/bufline.nvim](https://github.com/fzdwx/bufline.nvim) ![](https://img.shields.io/github/stars/fzdwx/bufline.nvim) ![](https://img.shields.io/github/last-commit/fzdwx/bufline.nvim) ![](https://img.shields.io/github/commit-activity/y/fzdwx/bufline.nvim)
+
+## use winbar
+
+- [mrjones2014/winbarbar.nvim](https://github.com/mrjones2014/winbarbar.nvim) ![](https://img.shields.io/github/stars/mrjones2014/winbarbar.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/winbarbar.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/winbarbar.nvim)

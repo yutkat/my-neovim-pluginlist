@@ -70,6 +70,7 @@
 - [edolphin-ydf/goimpl.nvim](https://github.com/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/stars/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/last-commit/edolphin-ydf/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/edolphin-ydf/goimpl.nvim)
 - [hrsh7th/nvim-gtd](https://github.com/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/stars/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-gtd) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-gtd)
 - [Davidyz/lsp-location-handler.nvim](https://github.com/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/stars/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/lsp-location-handler.nvim)
+- [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/stars/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/last-commit/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/VidocqH/lsp-lens.nvim)
 
 #### Code action
 
