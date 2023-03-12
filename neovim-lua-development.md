@@ -15,6 +15,7 @@
   - [Debug](#debug)
   - [Testing](#testing)
   - [Help](#help)
+  - [runtimepath](#runtimepath)
   - [Fennel](#fennel)
   - [Rust](#rust)
   - [FFI](#ffi)
@@ -91,6 +92,10 @@
 ## Help
 
 - [echasnovski/mini.doc](https://github.com/echasnovski/mini.doc) ![](https://img.shields.io/github/stars/echasnovski/mini.doc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.doc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.doc)
+
+## runtimepath
+
+- [notomo/runtimetable.nvim](https://github.com/notomo/runtimetable.nvim) ![](https://img.shields.io/github/stars/notomo/runtimetable.nvim) ![](https://img.shields.io/github/last-commit/notomo/runtimetable.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/runtimetable.nvim)
 
 ## Fennel
 
