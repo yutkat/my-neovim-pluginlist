@@ -43,6 +43,7 @@
 - [kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufjump.nvim)
 - [LiamFenneman/hooks.nvim](https://github.com/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/stars/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/last-commit/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamFenneman/hooks.nvim)
 - [glepnir/flybuf.nvim](https://github.com/glepnir/flybuf.nvim) ![](https://img.shields.io/github/stars/glepnir/flybuf.nvim) ![](https://img.shields.io/github/last-commit/glepnir/flybuf.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/flybuf.nvim)
+- [sentientmachin3/bufswitch.nvim](https://github.com/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/stars/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/last-commit/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/sentientmachin3/bufswitch.nvim)
 
 ### Other Buffer Switcher
 
