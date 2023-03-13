@@ -216,6 +216,7 @@
 - [xiyaowong/virtcolumn.nvim](https://github.com/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/stars/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/virtcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/virtcolumn.nvim)
 - [xiashuangxi/erd.nvim](https://github.com/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/stars/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/last-commit/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/commit-activity/y/xiashuangxi/erd.nvim)
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/stars/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/smartcolumn.nvim)
+- [b4b4r07/cursor-x.nvim](https://github.com/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/stars/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/last-commit/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/commit-activity/y/b4b4r07/cursor-x.nvim)
 
 ### Visual
 
@@ -539,6 +540,7 @@
 - [octaltree/cmp-look](https://github.com/octaltree/cmp-look) ![](https://img.shields.io/github/stars/octaltree/cmp-look) ![](https://img.shields.io/github/last-commit/octaltree/cmp-look) ![](https://img.shields.io/github/commit-activity/y/octaltree/cmp-look)
 - [yagiziskirik/AirSupport.nvim](https://github.com/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/stars/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/last-commit/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/commit-activity/y/yagiziskirik/AirSupport.nvim)
 - [roobert/tldr-lang.nvim](https://github.com/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/stars/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/last-commit/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tldr-lang.nvim)
+- [Sc4ramouche/lists.nvim](https://github.com/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/stars/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/last-commit/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/commit-activity/y/Sc4ramouche/lists.nvim)
 
 ### Messsage
 
