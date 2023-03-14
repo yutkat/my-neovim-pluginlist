@@ -20,6 +20,7 @@
 - [echasnovski/mini.ai](https://github.com/echasnovski/mini.ai) ![](https://img.shields.io/github/stars/echasnovski/mini.ai) ![](https://img.shields.io/github/last-commit/echasnovski/mini.ai) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.ai)
 - [chrisgrieser/nvim-various-textobjs](https://github.com/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-various-textobjs) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-various-textobjs)
 - [bagohart/textobj-before.nvim](https://github.com/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/stars/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/last-commit/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/textobj-before.nvim)
+- [smjonas/duplicate.nvim](https://github.com/smjonas/duplicate.nvim) ![](https://img.shields.io/github/stars/smjonas/duplicate.nvim) ![](https://img.shields.io/github/last-commit/smjonas/duplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/duplicate.nvim)
 
 ### Unit
 
