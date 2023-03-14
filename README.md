@@ -424,6 +424,7 @@
 - [nkhlmn/spectur.nvim](https://github.com/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/stars/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/last-commit/nkhlmn/spectur.nvim) ![](https://img.shields.io/github/commit-activity/y/nkhlmn/spectur.nvim)
 - [njaczko/nvim-misc](https://github.com/njaczko/nvim-misc) ![](https://img.shields.io/github/stars/njaczko/nvim-misc) ![](https://img.shields.io/github/last-commit/njaczko/nvim-misc) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-misc)
 - [dchiluisac/comdrop.nvim](https://github.com/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/stars/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/last-commit/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/commit-activity/y/dchiluisac/comdrop.nvim)
+- [Seth-Buchanan/arrayify.nvim](https://github.com/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/stars/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/last-commit/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/commit-activity/y/Seth-Buchanan/arrayify.nvim)
 
 #### Redirect to scratch buffer
 
