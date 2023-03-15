@@ -20,6 +20,7 @@
       - [BiBTex](#bibtex)
     - [Copyright](#copyright)
     - [Quarto](#quarto)
+    - [Gist](#gist)
 
 ## Documentation
 
@@ -139,3 +140,7 @@
 ### Quarto
 
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/commit-activity/y/quarto-dev/quarto-nvim)
+
+### Gist
+
+- [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) ![](https://img.shields.io/github/stars/Rawnly/gist.nvim) ![](https://img.shields.io/github/last-commit/Rawnly/gist.nvim) ![](https://img.shields.io/github/commit-activity/y/Rawnly/gist.nvim)
