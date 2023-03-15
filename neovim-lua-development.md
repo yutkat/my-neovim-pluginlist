@@ -74,6 +74,7 @@
 
 - [tjdevries/vlog.nvim](https://github.com/tjdevries/vlog.nvim) ![](https://img.shields.io/github/stars/tjdevries/vlog.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/vlog.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/vlog.nvim)
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) ![](https://img.shields.io/github/stars/smartpde/debuglog) ![](https://img.shields.io/github/last-commit/smartpde/debuglog) ![](https://img.shields.io/github/commit-activity/y/smartpde/debuglog)
+- [linrongbin16/logger.nvim](https://github.com/linrongbin16/logger.nvim) ![](https://img.shields.io/github/stars/linrongbin16/logger.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/logger.nvim)
 
 ## Print
 
