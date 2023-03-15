@@ -125,6 +125,7 @@
 
 - [aurum77/live-server.nvim](https://github.com/aurum77/live-server.nvim) ![](https://img.shields.io/github/stars/aurum77/live-server.nvim) ![](https://img.shields.io/github/last-commit/aurum77/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/aurum77/live-server.nvim)
 - [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/live-server.nvim)
+- [liaohui5/vite-server.nvim](https://github.com/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/stars/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/last-commit/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/commit-activity/y/liaohui5/vite-server.nvim)
 
 ### CSS
 

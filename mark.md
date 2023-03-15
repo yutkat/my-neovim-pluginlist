@@ -26,7 +26,6 @@
 
 ### bookmark
 
-- [kristijanhusak/line-notes.nvim](https://github.com/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/line-notes.nvim)
 - [lifer0se/ezbookmarks.nvim](https://github.com/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/stars/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/last-commit/lifer0se/ezbookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/lifer0se/ezbookmarks.nvim)
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) ![](https://img.shields.io/github/stars/crusj/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/crusj/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/bookmarks.nvim)
 - [jonarrien/bookmarks.nvim](https://github.com/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/stars/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/bookmarks.nvim)

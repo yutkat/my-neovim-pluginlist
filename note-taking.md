@@ -13,6 +13,7 @@
   - [Wiki](#wiki)
   - [VimWiki](#vimwiki)
   - [Scratch Buffer](#scratch-buffer)
+  - [inline note](#inline-note)
   - [etc](#etc)
 
 # Note Taking
@@ -94,6 +95,11 @@
 ## Scratch Buffer
 
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/scratch.nvim)
+
+## inline note
+
+- [kristijanhusak/line-notes.nvim](https://github.com/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/line-notes.nvim)
+- [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/virt-notes.nvim)
 
 ## etc
 
