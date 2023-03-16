@@ -32,6 +32,7 @@
   - [dinhhuy258/sfm-telescope.nvim](https://github.com/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-telescope.nvim)
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) ![](https://img.shields.io/github/stars/stevearc/oil.nvim) ![](https://img.shields.io/github/last-commit/stevearc/oil.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/oil.nvim)
 - [josa42/nvim-gx](https://github.com/josa42/nvim-gx) ![](https://img.shields.io/github/stars/josa42/nvim-gx) ![](https://img.shields.io/github/last-commit/josa42/nvim-gx) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-gx)
+- [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) ![](https://img.shields.io/github/stars/chrishrb/gx.nvim) ![](https://img.shields.io/github/last-commit/chrishrb/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishrb/gx.nvim)
 
 ## Simple
 

@@ -61,6 +61,7 @@
     - [Moonscript](#moonscript)
     - [Cell](#cell)
     - [sylt](#sylt)
+    - [Cyber](#cyber)
     - [Tcl/Tk](#tcltk)
     - [Prolog](#prolog)
     - [Brainfuck](#brainfuck)
@@ -417,6 +418,10 @@
 
 - [Quaqqer/sylt.nvim](https://github.com/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/stars/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/last-commit/Quaqqer/sylt.nvim) ![](https://img.shields.io/github/commit-activity/y/Quaqqer/sylt.nvim)
 
+### Cyber
+
+- [instance-id/nvim-cyber](https://github.com/instance-id/nvim-cyber) ![](https://img.shields.io/github/stars/instance-id/nvim-cyber) ![](https://img.shields.io/github/last-commit/instance-id/nvim-cyber) ![](https://img.shields.io/github/commit-activity/y/instance-id/nvim-cyber)
+
 ### Tcl/Tk
 
 - [nat-418/tcl.nvim](https://github.com/nat-418/tcl.nvim) ![](https://img.shields.io/github/stars/nat-418/tcl.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tcl.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tcl.nvim)
@@ -468,6 +473,7 @@
 - [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
 - [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
+- [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
 
 #### PostgreSQL
 
