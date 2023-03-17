@@ -29,6 +29,7 @@
     - [Menu](#menu)
     - [Minimap](#minimap)
     - [Highlight current function](#highlight-current-function)
+    - [listchars](#listchars)
     - [Background](#background)
   - [Buffer, Window, Tab Management](#buffer-window-tab-management)
   - [Terminal](#terminal)
@@ -277,6 +278,10 @@
 
 - [folke/twilight.nvim](https://github.com/folke/twilight.nvim) ![](https://img.shields.io/github/stars/folke/twilight.nvim) ![](https://img.shields.io/github/last-commit/folke/twilight.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/twilight.nvim)
 - [koenverburg/peepsight.nvim](https://github.com/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/stars/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/last-commit/koenverburg/peepsight.nvim) ![](https://img.shields.io/github/commit-activity/y/koenverburg/peepsight.nvim)
+
+### listchars
+
+- [fraso-dev/nvim-listchars](https://github.com/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/stars/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/last-commit/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/commit-activity/y/fraso-dev/nvim-listchars)
 
 ### Background
 
