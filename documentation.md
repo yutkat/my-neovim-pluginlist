@@ -129,6 +129,7 @@
 - [danilshvalov/latex-symbols.nvim](https://github.com/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/stars/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/latex-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/latex-symbols.nvim)
 - [ryleelyman/latex.nvim](https://github.com/ryleelyman/latex.nvim) ![](https://img.shields.io/github/stars/ryleelyman/latex.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/latex.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/latex.nvim)
 - [icewind/ltex-client.nvim](https://github.com/icewind/ltex-client.nvim) ![](https://img.shields.io/github/stars/icewind/ltex-client.nvim) ![](https://img.shields.io/github/last-commit/icewind/ltex-client.nvim) ![](https://img.shields.io/github/commit-activity/y/icewind/ltex-client.nvim)
+- [Paroxyss/texmate.nvim](https://github.com/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/stars/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/last-commit/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Paroxyss/texmate.nvim)
 
 #### BiBTex
 

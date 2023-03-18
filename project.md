@@ -1,11 +1,11 @@
 # Table of Contents
 
 - [Table of Contents](#table-of-contents)
-    - [Project](#project)
-      - [Project Switcher](#project-switcher)
-      - [Project Root Detector](#project-root-detector)
-      - [Project Local Config](#project-local-config)
-      - [Config switcher](#config-switcher)
+  - [Project](#project)
+    - [Project Switcher](#project-switcher)
+    - [Project Root Detector](#project-root-detector)
+    - [Project Local Config](#project-local-config)
+    - [Config switcher](#config-switcher)
 
 ### Project
 
@@ -33,6 +33,7 @@
 - [yyk/find-git-root.nvim](https://github.com/yyk/find-git-root.nvim) ![](https://img.shields.io/github/stars/yyk/find-git-root.nvim) ![](https://img.shields.io/github/last-commit/yyk/find-git-root.nvim) ![](https://img.shields.io/github/commit-activity/y/yyk/find-git-root.nvim)
 - [desdic/telescope-rooter.nvim](https://github.com/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/telescope-rooter.nvim)
 - [delphinus/rtr.nvim](https://github.com/delphinus/rtr.nvim) ![](https://img.shields.io/github/stars/delphinus/rtr.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtr.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtr.nvim)
+- [albenisolmos/autochdir.nvim](https://github.com/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/stars/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/autochdir.nvim)
 
 #### Project Local Config
 
