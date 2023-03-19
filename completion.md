@@ -31,8 +31,6 @@
 
 #### Made in Rust
 
-- [noib3/nvim-compleet](https://github.com/noib3/nvim-compleet) ![](https://img.shields.io/github/stars/noib3/nvim-compleet) ![](https://img.shields.io/github/last-commit/noib3/nvim-compleet) ![](https://img.shields.io/github/commit-activity/y/noib3/nvim-compleet)
-
 ### nvim-cmp extension
 
 #### nvim-cmp sources
