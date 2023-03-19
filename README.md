@@ -733,6 +733,10 @@
 - [chuck-flowers/purl.nvim](https://github.com/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/purl.nvim)
 - [asrul10/readable-number.nvim](https://github.com/asrul10/readable-number.nvim) ![](https://img.shields.io/github/stars/asrul10/readable-number.nvim) ![](https://img.shields.io/github/last-commit/asrul10/readable-number.nvim) ![](https://img.shields.io/github/commit-activity/y/asrul10/readable-number.nvim)
 
+#### bionic reading
+
+- [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/stars/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/last-commit/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/commit-activity/y/JellyApple102/easyread.nvim)
+
 ### Scratchpad
 
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
