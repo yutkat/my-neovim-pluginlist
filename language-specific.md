@@ -325,6 +325,7 @@
 
 - [NTBBloodbath/zig-tools.nvim](https://github.com/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/zig-tools.nvim)
 - [CadeMichael/zig.nvim](https://github.com/CadeMichael/zig.nvim) ![](https://img.shields.io/github/stars/CadeMichael/zig.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/zig.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/zig.nvim)
+- [bfredl/nvim-zigclient](https://github.com/bfredl/nvim-zigclient) ![](https://img.shields.io/github/stars/bfredl/nvim-zigclient) ![](https://img.shields.io/github/last-commit/bfredl/nvim-zigclient) ![](https://img.shields.io/github/commit-activity/y/bfredl/nvim-zigclient)
 
 ### C #
 
@@ -362,6 +363,7 @@
 
 - [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) ![](https://img.shields.io/github/stars/mhanberg/elixir.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/elixir.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/elixir.nvim)
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) ![](https://img.shields.io/github/stars/brendalf/mix.nvim) ![](https://img.shields.io/github/last-commit/brendalf/mix.nvim) ![](https://img.shields.io/github/commit-activity/y/brendalf/mix.nvim)
+- [wesleimp/mix-credo.nvim](https://github.com/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/stars/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/mix-credo.nvim)
 
 ### Haskell
 

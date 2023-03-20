@@ -329,6 +329,7 @@
 - [tandy1229/wordswitch.nvim](https://github.com/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/stars/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/last-commit/tandy1229/wordswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/tandy1229/wordswitch.nvim)
 - [theoboldalex/case_manager.nvim](https://github.com/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/stars/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/case_manager.nvim)
 - [gerazov/toggle-bool.nvim](https://github.com/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/stars/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/last-commit/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/toggle-bool.nvim)
+- [blaisdellma/checklist.nvim](https://github.com/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/stars/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/last-commit/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/commit-activity/y/blaisdellma/checklist.nvim)
 
 ### Indent
 
