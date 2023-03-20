@@ -77,6 +77,7 @@
 - [princejoogie/dir-telescope.nvim](https://github.com/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/stars/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/dir-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/dir-telescope.nvim)
 - [smilovanovic/telescope-search-dir-picker.nvim](https://github.com/smilovanovic/telescope-search-dir-picker.nvim) ![](https://img.shields.io/github/stars/smilovanovic/telescope-search-dir-picker.nvim) ![](https://img.shields.io/github/last-commit/smilovanovic/telescope-search-dir-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/smilovanovic/telescope-search-dir-picker.nvim)
 - [molecule-man/telescope-menufacture](https://github.com/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/stars/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/last-commit/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/commit-activity/y/molecule-man/telescope-menufacture)
+- [brookhong/telescope-pathogen.nvim](https://github.com/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/stars/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/last-commit/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/commit-activity/y/brookhong/telescope-pathogen.nvim)
 
 # Select
 
