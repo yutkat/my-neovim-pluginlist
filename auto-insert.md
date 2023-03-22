@@ -24,6 +24,7 @@
 - [Sublimeful/nvim-brackets](https://github.com/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/stars/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/last-commit/Sublimeful/nvim-brackets) ![](https://img.shields.io/github/commit-activity/y/Sublimeful/nvim-brackets)
 - [altermo/ultimate-autopair.nvim](https://github.com/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/stars/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/last-commit/altermo/ultimate-autopair.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/ultimate-autopair.nvim)
 - [wakeLanaka/enclosing.nvim](https://github.com/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/stars/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/last-commit/wakeLanaka/enclosing.nvim) ![](https://img.shields.io/github/commit-activity/y/wakeLanaka/enclosing.nvim)
+- [CozyPenguin/twins.nvim](https://github.com/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/stars/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/last-commit/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/commit-activity/y/CozyPenguin/twins.nvim)
 
 ### endwise
 

@@ -353,6 +353,7 @@
 #### Twitch
 
 - [samodostal/is-prime-online.nvim](https://github.com/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/stars/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/last-commit/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/is-prime-online.nvim)
+- [willothy/twitch.nvim](https://github.com/willothy/twitch.nvim) ![](https://img.shields.io/github/stars/willothy/twitch.nvim) ![](https://img.shields.io/github/last-commit/willothy/twitch.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/twitch.nvim)
 
 #### Spotify
 
@@ -384,6 +385,10 @@
 #### GitLab
 
 - [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
+
+#### Meilisearch
+
+- [alanwsmith/nvim-grimoire](https://github.com/alanwsmith/nvim-grimoire) ![](https://img.shields.io/github/stars/alanwsmith/nvim-grimoire) ![](https://img.shields.io/github/last-commit/alanwsmith/nvim-grimoire) ![](https://img.shields.io/github/commit-activity/y/alanwsmith/nvim-grimoire)
 
 #### Trello
 
