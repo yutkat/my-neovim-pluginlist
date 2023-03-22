@@ -69,6 +69,7 @@
 
 ### Word Motion
 
+- [chrisgrieser/nvim-spider](https://github.com/chrisgrieser/nvim-spider) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-spider) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-spider) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-spider)
 - [Craftidore/camelCaseMotion.nvim](https://github.com/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/stars/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/last-commit/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/Craftidore/camelCaseMotion.nvim)
 
 ### Line Move
