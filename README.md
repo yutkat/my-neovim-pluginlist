@@ -125,6 +125,7 @@
     - [Key stroke](#key-stroke)
     - [Concentration(Pomodoro/Zenn)](#concentrationpomodorozenn)
     - [Human-readable](#human-readable)
+      - [bionic reading](#bionic-reading)
     - [Scratchpad](#scratchpad)
     - [Performance Test](#performance-test)
     - [Security](#security)
@@ -525,6 +526,7 @@
 ### Macro
 
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-recorder)
+- [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
 
 ### Message
 
@@ -790,6 +792,10 @@
 
 - [maorun/code-stats.nvim](https://github.com/maorun/code-stats.nvim) ![](https://img.shields.io/github/stars/maorun/code-stats.nvim) ![](https://img.shields.io/github/last-commit/maorun/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/code-stats.nvim)
 - [liljaylj/codestats.nvim](https://github.com/liljaylj/codestats.nvim) ![](https://img.shields.io/github/stars/liljaylj/codestats.nvim) ![](https://img.shields.io/github/last-commit/liljaylj/codestats.nvim) ![](https://img.shields.io/github/commit-activity/y/liljaylj/codestats.nvim)
+
+### Update check
+
+- [diegoroccia/checkupdate.nvim](https://github.com/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/stars/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/last-commit/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoroccia/checkupdate.nvim)
 
 ### Font
 

@@ -44,6 +44,7 @@
 - [LiamFenneman/hooks.nvim](https://github.com/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/stars/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/last-commit/LiamFenneman/hooks.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamFenneman/hooks.nvim)
 - [glepnir/flybuf.nvim](https://github.com/glepnir/flybuf.nvim) ![](https://img.shields.io/github/stars/glepnir/flybuf.nvim) ![](https://img.shields.io/github/last-commit/glepnir/flybuf.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/flybuf.nvim)
 - [sentientmachin3/bufswitch.nvim](https://github.com/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/stars/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/last-commit/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/sentientmachin3/bufswitch.nvim)
+- [ArmanHZ/nvim-select-buffer](https://github.com/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/stars/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/last-commit/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/commit-activity/y/ArmanHZ/nvim-select-buffer)
 
 ### Other Buffer Switcher
 

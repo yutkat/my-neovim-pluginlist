@@ -24,6 +24,7 @@
 - [Rejyr/root-switcher.nvim](https://github.com/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/stars/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/last-commit/Rejyr/root-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Rejyr/root-switcher.nvim)
 - [jinzhongjia/PS_manager.nvim](https://github.com/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/PS_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/PS_manager.nvim)
 - [mohitsinghs/repo.nvim](https://github.com/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/stars/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/last-commit/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/commit-activity/y/mohitsinghs/repo.nvim)
+- [mtmeyer/lil-project-switcher.nvim](https://github.com/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/stars/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/last-commit/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/mtmeyer/lil-project-switcher.nvim)
 
 #### Project Root Detector
 
