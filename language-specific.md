@@ -20,6 +20,7 @@
     - [Graphql](#graphql)
     - [React](#react)
     - [Deno](#deno)
+    - [Bun](#bun)
     - [mjml](#mjml)
     - [Python](#python)
       - [test](#test-1)
@@ -289,6 +290,7 @@
 - [abecodes/gox.nvim](https://github.com/abecodes/gox.nvim) ![](https://img.shields.io/github/stars/abecodes/gox.nvim) ![](https://img.shields.io/github/last-commit/abecodes/gox.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/gox.nvim)
 - [aca/go-patch-unusedvar.nvim](https://github.com/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/stars/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/last-commit/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/commit-activity/y/aca/go-patch-unusedvar.nvim)
 - [jeniasaigak/goplay.nvim](https://github.com/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/stars/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/last-commit/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/commit-activity/y/jeniasaigak/goplay.nvim)
+- [crusj/hierarchy-tree-go.nvim](https://github.com/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/hierarchy-tree-go.nvim)
 
 #### gofmt
 
