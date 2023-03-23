@@ -34,6 +34,7 @@
   - [Buffer, Window, Tab Management](#buffer-window-tab-management)
   - [Terminal](#terminal)
   - [Motion](#motion)
+  - [Jump](#jump)
   - [Editing support](#editing-support)
     - [Insert](#insert)
     - [Auto Insert](#auto-insert)
@@ -137,6 +138,7 @@
     - [Tutorial](#tutorial)
     - [Analytics](#analytics)
       - [Code::Stats](#codestats)
+    - [Update check](#update-check)
     - [Font](#font)
     - [Emoji](#emoji)
     - [Keyboard Layout](#keyboard-layout)
@@ -294,6 +296,8 @@
 ## [Terminal](./terminal.md)
 
 ## [Motion](./motion.md)
+
+## [Jump](./jump.md)
 
 ## Editing support
 

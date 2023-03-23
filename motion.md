@@ -3,6 +3,7 @@
 - [Table of Contents](#table-of-contents)
   - [Motion](#motion)
     - [j/k](#jk)
+      - [Scrolling](#scrolling)
     - [Smooth scroll](#smooth-scroll)
     - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
     - [Horizontal Move](#horizontal-move)
@@ -10,14 +11,7 @@
     - [Vertical Move](#vertical-move)
     - [Word Motion](#word-motion)
     - [Line Move](#line-move)
-    - [Jump](#jump)
-    - [Jump number](#jump-number)
-    - [Go to File](#go-to-file)
-      - [jumplist](#jumplist)
-      - [Edit History](#edit-history)
-      - [Cursor Position History](#cursor-position-history)
     - [Paragraph](#paragraph)
-    - [Scrolling](#scrolling)
 
 ## Motion
 
@@ -25,6 +19,13 @@
 
 - [PHSix/faster.nvim](https://github.com/PHSix/faster.nvim) ![](https://img.shields.io/github/stars/PHSix/faster.nvim) ![](https://img.shields.io/github/last-commit/PHSix/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/PHSix/faster.nvim)
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/accelerated-jk.nvim)
+
+#### Scrolling
+
+- [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/karb94/neoscroll.nvim)
+- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) ![](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/cinnamon.nvim)
+- [plax-00/endscroll.nvim](https://github.com/plax-00/endscroll.nvim) ![](https://img.shields.io/github/stars/plax-00/endscroll.nvim) ![](https://img.shields.io/github/last-commit/plax-00/endscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/plax-00/endscroll.nvim)
+- [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) ![](https://img.shields.io/github/stars/nullchilly/fsread.nvim) ![](https://img.shields.io/github/last-commit/nullchilly/fsread.nvim) ![](https://img.shields.io/github/commit-activity/y/nullchilly/fsread.nvim)
 
 ### Smooth scroll
 
@@ -76,38 +77,6 @@
 
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
 
-### Jump
-
-- [notomo/curstr.nvim](https://github.com/notomo/curstr.nvim) ![](https://img.shields.io/github/stars/notomo/curstr.nvim) ![](https://img.shields.io/github/last-commit/notomo/curstr.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/curstr.nvim)
-- [jonatan-branting/nvim-better-n](https://github.com/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/stars/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/last-commit/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/nvim-better-n)
-- [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
-
-### Jump number
-
-- [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
-- [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
-
-### Go to File
-
-- [rohanorton/lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/stars/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/lua-gf.nvim)
-
-#### jumplist
-
-- [cbochs/portal.nvim](https://github.com/cbochs/portal.nvim) ![](https://img.shields.io/github/stars/cbochs/portal.nvim) ![](https://img.shields.io/github/last-commit/cbochs/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/cbochs/portal.nvim)
-- [kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufjump.nvim)
-- [wilfreddenton/history.nvim](https://github.com/wilfreddenton/history.nvim) ![](https://img.shields.io/github/stars/wilfreddenton/history.nvim) ![](https://img.shields.io/github/last-commit/wilfreddenton/history.nvim) ![](https://img.shields.io/github/commit-activity/y/wilfreddenton/history.nvim)
-
-#### Edit History
-
-#### Cursor Position History
-
 ### Paragraph
 
 - [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/stars/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/last-commit/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/neoscroll-motions.nvim)
-
-### Scrolling
-
-- [karb94/neoscroll.nvim](https://github.com/karb94/neoscroll.nvim) ![](https://img.shields.io/github/stars/karb94/neoscroll.nvim) ![](https://img.shields.io/github/last-commit/karb94/neoscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/karb94/neoscroll.nvim)
-- [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) ![](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/cinnamon.nvim)
-- [plax-00/endscroll.nvim](https://github.com/plax-00/endscroll.nvim) ![](https://img.shields.io/github/stars/plax-00/endscroll.nvim) ![](https://img.shields.io/github/last-commit/plax-00/endscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/plax-00/endscroll.nvim)
-- [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) ![](https://img.shields.io/github/stars/nullchilly/fsread.nvim) ![](https://img.shields.io/github/last-commit/nullchilly/fsread.nvim) ![](https://img.shields.io/github/commit-activity/y/nullchilly/fsread.nvim)
