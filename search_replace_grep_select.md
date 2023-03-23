@@ -1,19 +1,22 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Search](#search)
-  - [Line search](#line-search)
-  - [n/N Improvement](#nn-improvement)
-  - [Search count](#search-count)
-  - [Comment search](#comment-search)
-  - [Search highlight](#search-highlight)
-  - [Visual search](#visual-search)
+  * [Line search](#line-search)
+  * [n/N Improvement](#nn-improvement)
+  * [Search count](#search-count)
+  * [Comment search](#comment-search)
+  * [Search highlight](#search-highlight)
+  * [Visual search](#visual-search)
 - [Replace](#replace)
 - [Grep](#grep)
 - [Select](#select)
-  - [narrowing](#narrowing)
-  - [Multi Cursor](#multi-cursor)
-  - [Incremental selection](#incremental-selection)
+  * [narrowing](#narrowing)
+  * [Multi Cursor](#multi-cursor)
+  * [Incremental selection](#incremental-selection)
+
+<!-- tocstop -->
 
 # Search
 

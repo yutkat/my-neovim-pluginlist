@@ -1,14 +1,17 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Filer](#filer)
-  - [Simple](#simple)
-  - [Floating Style](#floating-style)
-  - [FuzzyFinder Style](#fuzzyfinder-style)
-  - [Emacs style](#emacs-style)
-  - [nnn wrapper](#nnn-wrapper)
-  - [ranger](#ranger)
-  - [Network File Manager](#network-file-manager)
+  * [Simple](#simple)
+  * [Floating Style](#floating-style)
+  * [FuzzyFinder Style](#fuzzyfinder-style)
+  * [Emacs style](#emacs-style)
+  * [nnn wrapper](#nnn-wrapper)
+  * [ranger](#ranger)
+  * [Network File Manager](#network-file-manager)
+
+<!-- tocstop -->
 
 # Filer
 

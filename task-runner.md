@@ -1,17 +1,20 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Task Runner](#task-runner)
-  - [Config file style](#config-file-style)
-    - [JSON](#json)
-    - [YAML](#yaml)
-    - [Lua](#lua)
-    - [Shell](#shell)
-  - [Command style](#command-style)
-  - [Auto detect style](#auto-detect-style)
-  - [CLI](#cli)
-  - [Partial execution](#partial-execution)
-  - [Monitor](#monitor)
+  * [Config file style](#config-file-style)
+    + [JSON](#json)
+    + [YAML](#yaml)
+    + [Lua](#lua)
+    + [Shell](#shell)
+  * [Command style](#command-style)
+  * [Auto detect style](#auto-detect-style)
+  * [CLI](#cli)
+  * [Partial execution](#partial-execution)
+  * [Monitor](#monitor)
+
+<!-- tocstop -->
 
 # Task Runner
 

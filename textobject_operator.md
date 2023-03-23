@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Textobject](#textobject)
-    - [Unit](#unit)
-    - [Swap](#swap)
-    - [Move](#move)
-    - [Surround](#surround)
-  - [Operator](#operator)
+<!-- toc -->
+
+- [Textobject](#textobject)
+  * [Unit](#unit)
+  * [Swap](#swap)
+  * [Move](#move)
+  * [Surround](#surround)
+- [Operator](#operator)
+
+<!-- tocstop -->
 
 ## Textobject
 

@@ -1,26 +1,29 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Documentation](#documentation)
-    - [Markdown](#markdown)
-      - [Markdown link](#markdown-link)
-      - [Markdown header](#markdown-header)
-      - [Markdown preview](#markdown-preview)
-      - [Markdown code block](#markdown-code-block)
-      - [Markdown evaluate code](#markdown-evaluate-code)
-      - [Styling](#styling)
-      - [Markdown checkbox](#markdown-checkbox)
-      - [Markdown list](#markdown-list)
-      - [Markdown converter](#markdown-converter)
-    - [PlantUML](#plantuml)
-    - [AsciiDoc](#asciidoc)
-    - [Pandoc](#pandoc)
-    - [Vimdoc](#vimdoc)
-    - [Tex](#tex)
-      - [BiBTex](#bibtex)
-    - [Copyright](#copyright)
-    - [Quarto](#quarto)
-    - [Gist](#gist)
+<!-- toc -->
+
+- [Documentation](#documentation)
+  * [Markdown](#markdown)
+    + [Markdown link](#markdown-link)
+    + [Markdown header](#markdown-header)
+    + [Markdown preview](#markdown-preview)
+    + [Markdown code block](#markdown-code-block)
+    + [Markdown evaluate code](#markdown-evaluate-code)
+    + [Styling](#styling)
+    + [Markdown checkbox](#markdown-checkbox)
+    + [Markdown list](#markdown-list)
+    + [Markdown converter](#markdown-converter)
+  * [PlantUML](#plantuml)
+  * [AsciiDoc](#asciidoc)
+  * [Pandoc](#pandoc)
+  * [Vimdoc](#vimdoc)
+  * [Tex](#tex)
+    + [BiBTex](#bibtex)
+  * [Copyright](#copyright)
+  * [Quarto](#quarto)
+  * [Gist](#gist)
+
+<!-- tocstop -->
 
 ## Documentation
 

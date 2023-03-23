@@ -1,9 +1,12 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Test](#test)
-    - [Neotest adapter](#neotest-adapter)
-  - [Test Coverage](#test-coverage)
+<!-- toc -->
+
+- [Test](#test)
+  * [Neotest adapter](#neotest-adapter)
+- [Test Coverage](#test-coverage)
+
+<!-- tocstop -->
 
 ## Test
 

@@ -1,8 +1,11 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Color](#color)
-  - [Luarock](#luarock)
+<!-- toc -->
+
+- [Color](#color)
+- [Luarock](#luarock)
+
+<!-- tocstop -->
 
 ## Color
 

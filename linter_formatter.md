@@ -1,10 +1,13 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Formatting config](#formatting-config)
-  - [Formatter](#formatter)
-    - [Trim Whitespace](#trim-whitespace)
-  - [Lint](#lint)
+<!-- toc -->
+
+- [Formatting config](#formatting-config)
+- [Formatter](#formatter)
+  * [Trim Whitespace](#trim-whitespace)
+- [Lint](#lint)
+
+<!-- tocstop -->
 
 ## Formatting config
 

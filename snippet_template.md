@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Snippet](#snippet)
-    - [Snippet definitions](#snippet-definitions)
-    - [Snippet converter](#snippet-converter)
-    - [Snippet view](#snippet-view)
-  - [Emmet](#emmet)
-  - [Template](#template)
+<!-- toc -->
+
+- [Snippet](#snippet)
+  * [Snippet definitions](#snippet-definitions)
+  * [Snippet converter](#snippet-converter)
+  * [Snippet view](#snippet-view)
+- [Emmet](#emmet)
+- [Template](#template)
+
+<!-- tocstop -->
 
 ### Snippet
 

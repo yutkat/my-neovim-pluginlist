@@ -1,18 +1,21 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [GUI](#gui)
-  - [Typescript](#typescript)
-  - [Rust](#rust)
-  - [Go](#go)
-  - [C++](#c)
-  - [Clojure](#clojure)
-  - [F#](#f)
-  - [Lua](#lua)
-  - [MacOS](#macos)
-  - [VS Code](#vs-code)
+  * [Typescript](#typescript)
+  * [Rust](#rust)
+  * [Go](#go)
+  * [C++](#c)
+  * [Clojure](#clojure)
+  * [F](#f)
+  * [Lua](#lua)
+  * [MacOS](#macos)
+  * [VS Code](#vs-code)
 - [GUI library](#gui-library)
-  - [Font size](#font-size)
+  * [Font size](#font-size)
+
+<!-- tocstop -->
 
 # GUI
 
@@ -41,7 +44,7 @@
 
 - [jebberjeb/javafx-neovimpane](https://github.com/jebberjeb/javafx-neovimpane) ![](https://img.shields.io/github/stars/jebberjeb/javafx-neovimpane) ![](https://img.shields.io/github/last-commit/jebberjeb/javafx-neovimpane) ![](https://img.shields.io/github/commit-activity/y/jebberjeb/javafx-neovimpane)
 
-## F #
+## F
 
 - [yatli/fvim](https://github.com/yatli/fvim) ![](https://img.shields.io/github/stars/yatli/fvim) ![](https://img.shields.io/github/last-commit/yatli/fvim) ![](https://img.shields.io/github/commit-activity/y/yatli/fvim)
 

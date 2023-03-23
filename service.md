@@ -1,8 +1,11 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-    - [Online Help](#online-help)
-    - [Embed Neovim](#embed-neovim)
+<!-- toc -->
+
+- [Online Help](#online-help)
+- [Embed Neovim](#embed-neovim)
+
+<!-- tocstop -->
 
 ## Online Help
 

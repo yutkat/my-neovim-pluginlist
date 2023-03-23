@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-    - [Jump](#jump)
-    - [Jump number](#jump-number)
-    - [Go to File](#go-to-file)
-        - [jumplist](#jumplist)
-        - [Edit History](#edit-history)
-        - [Cursor Position History](#cursor-position-history)
+<!-- toc -->
+
+- [Jump](#jump)
+- [Jump number](#jump-number)
+- [Go to File](#go-to-file)
+  * [jumplist](#jumplist)
+  * [Edit History](#edit-history)
+  * [Cursor Position History](#cursor-position-history)
+
+<!-- tocstop -->
 
 ## Jump
 

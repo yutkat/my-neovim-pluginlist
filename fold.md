@@ -1,8 +1,11 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Fold](#fold)
-  - [Conceal](#conceal)
+<!-- toc -->
+
+- [Fold](#fold)
+- [Conceal](#conceal)
+
+<!-- tocstop -->
 
 ## Fold
 

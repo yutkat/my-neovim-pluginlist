@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Comment out](#comment-out)
-    - [CommentString](#commentstring)
-    - [Comment Header](#comment-header)
-  - [Todo Comment Highlight](#todo-comment-highlight)
-  - [Special Comment](#special-comment)
-    - [Annotation](#annotation)
+<!-- toc -->
+
+- [Comment out](#comment-out)
+  * [CommentString](#commentstring)
+  * [Comment Header](#comment-header)
+- [Todo Comment Highlight](#todo-comment-highlight)
+- [Special Comment](#special-comment)
+  * [Annotation](#annotation)
+
+<!-- tocstop -->
 
 ### Comment out
 

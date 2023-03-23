@@ -1,11 +1,14 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Auto insert](#auto-insert)
-  - [insert pairs](#insert-pairs)
-    - [endwise](#endwise)
-  - [Auto insert semicolon](#auto-insert-semicolon)
-  - [Auto convert](#auto-convert)
+<!-- toc -->
+
+- [Auto insert](#auto-insert)
+- [insert pairs](#insert-pairs)
+  * [endwise](#endwise)
+- [Auto insert semicolon](#auto-insert-semicolon)
+- [Auto convert](#auto-convert)
+
+<!-- tocstop -->
 
 ## Auto insert
 

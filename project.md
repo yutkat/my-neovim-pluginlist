@@ -1,11 +1,14 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Project](#project)
-    - [Project Switcher](#project-switcher)
-    - [Project Root Detector](#project-root-detector)
-    - [Project Local Config](#project-local-config)
-    - [Config switcher](#config-switcher)
+<!-- toc -->
+
+- [Project](#project)
+  * [Project Switcher](#project-switcher)
+  * [Project Root Detector](#project-root-detector)
+  * [Project Local Config](#project-local-config)
+  * [Config switcher](#config-switcher)
+
+<!-- tocstop -->
 
 ### Project
 

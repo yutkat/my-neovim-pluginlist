@@ -1,9 +1,12 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Session](#session)
-  - [Session Selector](#session-selector)
-  - [Cursor Position](#cursor-position)
+  * [Session Selector](#session-selector)
+  * [Cursor Position](#cursor-position)
+
+<!-- tocstop -->
 
 # Session
 

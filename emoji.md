@@ -1,8 +1,11 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Emoji](#emoji)
-    - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
+<!-- toc -->
+
+- [Emoji](#emoji)
+  * [Emoji FuzzyFinder](#emoji-fuzzyfinder)
+
+<!-- tocstop -->
 
 ## Emoji
 
