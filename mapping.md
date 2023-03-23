@@ -1,11 +1,14 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Keymap](#keymap)
-  - [Bracket](#bracket)
-  - [Mapping search](#mapping-search)
-  - [Prefix Key Binding](#prefix-key-binding)
-  - [Mapping toggle](#mapping-toggle)
+  * [Bracket](#bracket)
+  * [Mapping search](#mapping-search)
+  * [Prefix Key Binding](#prefix-key-binding)
+  * [Mapping toggle](#mapping-toggle)
+
+<!-- tocstop -->
 
 # Keymap
 

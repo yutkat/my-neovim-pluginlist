@@ -1,16 +1,19 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Highlight](#highlight)
-  - [Syntax](#syntax)
-    - [Colorizer](#colorizer)
-    - [ANSI Colorize](#ansi-colorize)
-    - [Colorscheme switcher](#colorscheme-switcher)
-    - [Color name](#color-name)
-    - [Long line highlight](#long-line-highlight)
-    - [Current word highlight](#current-word-highlight)
-    - [Multiple word highlight](#multiple-word-highlight)
-    - [Jump highlight](#jump-highlight)
+<!-- toc -->
+
+- [Highlight](#highlight)
+- [Syntax](#syntax)
+  * [Colorizer](#colorizer)
+  * [ANSI Colorize](#ansi-colorize)
+  * [Colorscheme switcher](#colorscheme-switcher)
+  * [Color name](#color-name)
+  * [Long line highlight](#long-line-highlight)
+  * [Current word highlight](#current-word-highlight)
+  * [Multiple word highlight](#multiple-word-highlight)
+  * [Jump highlight](#jump-highlight)
+
+<!-- tocstop -->
 
 ## Highlight
 

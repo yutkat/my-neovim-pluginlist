@@ -1,10 +1,13 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Plugin Manager](#plugin-manager)
-    - [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
-    - [Use builtin package feature](#use-builtin-package-feature)
-    - [Update checker](#update-checker)
+<!-- toc -->
+
+- [Plugin Manager](#plugin-manager)
+  * [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
+  * [Use builtin package feature](#use-builtin-package-feature)
+  * [Update checker](#update-checker)
+
+<!-- tocstop -->
 
 ## Plugin Manager
 

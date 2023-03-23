@@ -1,13 +1,16 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Terminal](#terminal)
-    - [Terminal Enhancement](#terminal-enhancement)
-    - [Open](#open)
-    - [Edit](#edit)
-    - [External terminal](#external-terminal)
-    - [Terminal Selector](#terminal-selector)
-    - [Neovim in Neovim](#neovim-in-neovim)
+<!-- toc -->
+
+- [Terminal](#terminal)
+  * [Terminal Enhancement](#terminal-enhancement)
+  * [Open](#open)
+  * [Edit](#edit)
+  * [External terminal](#external-terminal)
+  * [Terminal Selector](#terminal-selector)
+  * [Neovim in Neovim](#neovim-in-neovim)
+
+<!-- tocstop -->
 
 ## Terminal
 

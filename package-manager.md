@@ -1,9 +1,13 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Package Manager](#package-manager)
-    - [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
-    - [Luarock](#luarock)
+<!-- toc -->
+
+- [Package Manager](#package-manager)
+  * [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
+    + [formatter](#formatter)
+  * [Luarock](#luarock)
+
+<!-- tocstop -->
 
 ## Package Manager
 

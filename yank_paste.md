@@ -1,12 +1,16 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Yank](#yank)
-  - [Register Selector](#register-selector)
-  - [OSC52](#osc52)
+  * [Register Selector](#register-selector)
+  * [OSC52](#osc52)
 - [Paste](#paste)
-  - [Wise paste](#wise-paste)
-  - [Cyclic paste](#cyclic-paste)
+  * [Wise paste](#wise-paste)
+  * [Cyclic paste](#cyclic-paste)
+  * [Mac](#mac)
+
+<!-- tocstop -->
 
 # Yank
 

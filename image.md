@@ -1,13 +1,16 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Image](#image)
-    - [Image Viewer](#image-viewer)
-    - [Image Paste](#image-paste)
-    - [Image Uploader](#image-uploader)
-    - [Screenshot](#screenshot)
-      - [Code Image](#code-image)
-    - [Ascii](#ascii)
+<!-- toc -->
+
+- [Image](#image)
+  * [Image Viewer](#image-viewer)
+  * [Image Paste](#image-paste)
+  * [Image Uploader](#image-uploader)
+  * [Screenshot](#screenshot)
+    + [Code Image](#code-image)
+  * [Ascii](#ascii)
+
+<!-- tocstop -->
 
 ## Image
 

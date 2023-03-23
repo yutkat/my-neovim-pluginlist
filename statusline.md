@@ -1,10 +1,13 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Statusline](#statusline)
-    - [Simple](#simple)
-    - [Special Features](#special-features)
-  - [Statusline component](#statusline-component)
+    + [Simple](#simple)
+    + [Special Features](#special-features)
+  * [Statusline component](#statusline-component)
+
+<!-- tocstop -->
 
 # Statusline
 

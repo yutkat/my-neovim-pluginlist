@@ -1,20 +1,23 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Note Taking](#note-taking)
-  - [Org mode](#org-mode)
-  - [Zettelkasten](#zettelkasten)
-  - [Markdown](#markdown)
-  - [ToDo](#todo)
-  - [Obsidian](#obsidian)
-  - [Google Keep](#google-keep)
-  - [Dendron](#dendron)
-  - [BibleGateway](#biblegateway)
-  - [Wiki](#wiki)
-  - [VimWiki](#vimwiki)
-  - [Scratch Buffer](#scratch-buffer)
-  - [inline note](#inline-note)
-  - [etc](#etc)
+  * [Org mode](#org-mode)
+  * [Zettelkasten](#zettelkasten)
+  * [Markdown](#markdown)
+  * [ToDo](#todo)
+  * [Obsidian](#obsidian)
+  * [Google Keep](#google-keep)
+  * [Dendron](#dendron)
+  * [BibleGateway](#biblegateway)
+  * [Wiki](#wiki)
+  * [VimWiki](#vimwiki)
+  * [Scratch Buffer](#scratch-buffer)
+  * [inline note](#inline-note)
+  * [etc](#etc)
+
+<!-- tocstop -->
 
 # Note Taking
 

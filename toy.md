@@ -1,20 +1,23 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [Toy](#toy)
-  - [Joke](#joke)
-  - [Pet](#pet)
-  - [Image](#image)
-  - [Video](#video)
-  - [Game](#game)
+  * [Joke](#joke)
+  * [Pet](#pet)
+  * [Image](#image)
+  * [Video](#video)
+  * [Game](#game)
       - [Typing](#typing)
-  - [Gesture](#gesture)
-  - [Weather](#weather)
-  - [Stock price](#stock-price)
-  - [Study](#study)
-  - [Music](#music)
-    - [Recording](#recording)
-  - [Screen server](#screen-server)
+  * [Gesture](#gesture)
+  * [Weather](#weather)
+  * [Stock price](#stock-price)
+  * [Study](#study)
+  * [Music](#music)
+    + [Recording](#recording)
+  * [Screen server](#screen-server)
+
+<!-- tocstop -->
 
 # Toy
 

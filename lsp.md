@@ -1,22 +1,25 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [LSP](#lsp)
-    - [LSP Installer](#lsp-installer)
-    - [LSP Feature Extension UI](#lsp-feature-extension-ui)
-      - [Diagnostics](#diagnostics)
-      - [Definition, Reference](#definition-reference)
-      - [Code action](#code-action)
-      - [Hint](#hint)
-      - [Hover Doc](#hover-doc)
-      - [Formatting](#formatting)
-      - [Rename](#rename)
-      - [Semantic Token](#semantic-token)
-    - [LSP Progress](#lsp-progress)
-    - [Local LSP Config](#local-lsp-config)
-  - [Disable/Enable](#disableenable)
-  - [Pre-configuration](#pre-configuration)
-  - [Backwards Compatibility](#backwards-compatibility)
+<!-- toc -->
+
+- [LSP](#lsp)
+  * [LSP Installer](#lsp-installer)
+  * [LSP Feature Extension UI](#lsp-feature-extension-ui)
+    + [Diagnostics](#diagnostics)
+    + [Definition, Reference](#definition-reference)
+    + [Code action](#code-action)
+    + [Hint](#hint)
+    + [Hover Doc](#hover-doc)
+    + [Formatting](#formatting)
+    + [Rename](#rename)
+    + [Semantic Token](#semantic-token)
+  * [LSP Progress](#lsp-progress)
+  * [Local LSP Config](#local-lsp-config)
+- [Disable/Enable](#disableenable)
+- [Pre-configuration](#pre-configuration)
+- [Backwards Compatibility](#backwards-compatibility)
+
+<!-- tocstop -->
 
 ## LSP
 

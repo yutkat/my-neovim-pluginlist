@@ -1,10 +1,13 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Pomodoro](#pomodoro)
-  - [Alarm](#alarm)
-  - [Do Not Disturb](#do-not-disturb)
-  - [Zen Mode](#zen-mode)
+<!-- toc -->
+
+- [Pomodoro](#pomodoro)
+- [Alarm](#alarm)
+- [Do Not Disturb](#do-not-disturb)
+- [Zen Mode](#zen-mode)
+
+<!-- tocstop -->
 
 ## Pomodoro
 

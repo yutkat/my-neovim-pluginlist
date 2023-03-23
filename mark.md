@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Mark](#mark)
-    - [sign](#sign)
-    - [Jump](#jump)
-    - [floating marker(easymotion style)](#floating-markereasymotion-style)
-    - [bookmark](#bookmark)
-    - [etc](#etc)
+<!-- toc -->
+
+- [Mark](#mark)
+  * [sign](#sign)
+  * [Jump](#jump)
+  * [floating marker(easymotion style)](#floating-markereasymotion-style)
+  * [bookmark](#bookmark)
+  * [etc](#etc)
+
+<!-- tocstop -->
 
 ## Mark
 

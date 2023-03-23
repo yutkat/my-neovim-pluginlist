@@ -1,13 +1,16 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Debug](#debug)
-    - [Debugger](#debugger)
-      - [nvim-dap extension](#nvim-dap-extension)
-    - [REPL](#repl)
-    - [Refactoring,Debugging](#refactoringdebugging)
-      - [print debug](#print-debug)
-      - [stack trace analyze](#stack-trace-analyze)
+<!-- toc -->
+
+- [Debug](#debug)
+  * [Debugger](#debugger)
+    + [nvim-dap extension](#nvim-dap-extension)
+  * [REPL](#repl)
+  * [Refactoring,Debugging](#refactoringdebugging)
+    + [print debug](#print-debug)
+    + [stack trace analyze](#stack-trace-analyze)
+
+<!-- tocstop -->
 
 ## Debug
 

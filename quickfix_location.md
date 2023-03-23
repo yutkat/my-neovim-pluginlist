@@ -1,8 +1,11 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
-  - [Quickfix](#quickfix)
-  - [Location](#location)
+<!-- toc -->
+
+- [Quickfix](#quickfix)
+- [Location](#location)
+
+<!-- tocstop -->
 
 ## Quickfix
 

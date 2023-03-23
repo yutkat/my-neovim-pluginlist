@@ -1,12 +1,15 @@
 # Table of Contents
 
-- [Table of Contents](#table-of-contents)
+<!-- toc -->
+
 - [FuzzyFinder](#fuzzyfinder)
-  - [Telescope Extensions](#telescope-extensions)
-    - [Sorter](#sorter)
-    - [Utils](#utils)
-    - [Grep](#grep)
-    - [Integration for another plugin](#integration-for-another-plugin)
+    + [Telescope Extensions](#telescope-extensions)
+      - [Sorter](#sorter)
+      - [Utils](#utils)
+      - [Grep](#grep)
+      - [Integration for another plugin](#integration-for-another-plugin)
+
+<!-- tocstop -->
 
 # FuzzyFinder
 
