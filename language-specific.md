@@ -173,6 +173,10 @@
 
 - [sigmaSd/deno-nvim](https://github.com/sigmaSd/deno-nvim) ![](https://img.shields.io/github/stars/sigmaSd/deno-nvim) ![](https://img.shields.io/github/last-commit/sigmaSd/deno-nvim) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/deno-nvim)
 
+### Bun
+
+- [Fire-The-Fox/bun.nvim](https://github.com/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/stars/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/last-commit/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/commit-activity/y/Fire-The-Fox/bun.nvim)
+
 ### mjml
 
 - [ec965/mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/stars/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/last-commit/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/mjml-preview.nvim)

@@ -83,6 +83,7 @@
 - [rohanorton/mru.nvim](https://github.com/rohanorton/mru.nvim) ![](https://img.shields.io/github/stars/rohanorton/mru.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mru.nvim)
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/stars/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/last-commit/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/commit-activity/y/marcuscaisey/olddirs.nvim)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/stars/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/last-commit/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/danielfalk/smart-open.nvim)
+- [dharmx/track.nvim](https://github.com/dharmx/track.nvim) ![](https://img.shields.io/github/stars/dharmx/track.nvim) ![](https://img.shields.io/github/last-commit/dharmx/track.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/track.nvim)
 
 ##### remote open
 
