@@ -460,6 +460,7 @@
 - [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
 - [wingforth/nvim-im-select](https://github.com/wingforth/nvim-im-select) ![](https://img.shields.io/github/stars/wingforth/nvim-im-select) ![](https://img.shields.io/github/last-commit/wingforth/nvim-im-select) ![](https://img.shields.io/github/commit-activity/y/wingforth/nvim-im-select)
 - [fengwk/im-switch.nvim](https://github.com/fengwk/im-switch.nvim) ![](https://img.shields.io/github/stars/fengwk/im-switch.nvim) ![](https://img.shields.io/github/last-commit/fengwk/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/fengwk/im-switch.nvim)
+- [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/stars/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/langmapper.nvim)
 
 #### Fcitx
 
