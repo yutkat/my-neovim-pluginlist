@@ -22,6 +22,7 @@
   * [Copyright](#copyright)
   * [Quarto](#quarto)
   * [Gist](#gist)
+  * [typst](#typst)
 
 <!-- tocstop -->
 
@@ -134,6 +135,7 @@
 - [ryleelyman/latex.nvim](https://github.com/ryleelyman/latex.nvim) ![](https://img.shields.io/github/stars/ryleelyman/latex.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/latex.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/latex.nvim)
 - [icewind/ltex-client.nvim](https://github.com/icewind/ltex-client.nvim) ![](https://img.shields.io/github/stars/icewind/ltex-client.nvim) ![](https://img.shields.io/github/last-commit/icewind/ltex-client.nvim) ![](https://img.shields.io/github/commit-activity/y/icewind/ltex-client.nvim)
 - [Paroxyss/texmate.nvim](https://github.com/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/stars/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/last-commit/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Paroxyss/texmate.nvim)
+- [erooke/ltex.nvim](https://github.com/erooke/ltex.nvim) ![](https://img.shields.io/github/stars/erooke/ltex.nvim) ![](https://img.shields.io/github/last-commit/erooke/ltex.nvim) ![](https://img.shields.io/github/commit-activity/y/erooke/ltex.nvim)
 
 #### BiBTex
 
@@ -150,3 +152,7 @@
 ### Gist
 
 - [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) ![](https://img.shields.io/github/stars/Rawnly/gist.nvim) ![](https://img.shields.io/github/last-commit/Rawnly/gist.nvim) ![](https://img.shields.io/github/commit-activity/y/Rawnly/gist.nvim)
+
+### typst
+
+- [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) ![](https://img.shields.io/github/stars/SeniorMars/typst.nvim) ![](https://img.shields.io/github/last-commit/SeniorMars/typst.nvim) ![](https://img.shields.io/github/commit-activity/y/SeniorMars/typst.nvim)
