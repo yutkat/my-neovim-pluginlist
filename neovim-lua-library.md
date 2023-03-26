@@ -19,6 +19,7 @@
 - [Assert](#assert)
 - [Time](#time)
 - [Net](#net)
+  * [HTTP](#http)
   * [Curl](#curl)
   * [REST](#rest)
   * [GRPC](#grpc)
@@ -113,6 +114,10 @@
 - [bartek/epochconverter.nvim](https://github.com/bartek/epochconverter.nvim) ![](https://img.shields.io/github/stars/bartek/epochconverter.nvim) ![](https://img.shields.io/github/last-commit/bartek/epochconverter.nvim) ![](https://img.shields.io/github/commit-activity/y/bartek/epochconverter.nvim)
 
 ## Net
+
+### HTTP
+
+- [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) ![](https://img.shields.io/github/stars/jcdickinson/http.nvim) ![](https://img.shields.io/github/last-commit/jcdickinson/http.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdickinson/http.nvim)
 
 ### Curl
 

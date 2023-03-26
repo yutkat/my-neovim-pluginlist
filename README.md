@@ -214,6 +214,8 @@
 - [xiashuangxi/erd.nvim](https://github.com/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/stars/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/last-commit/xiashuangxi/erd.nvim) ![](https://img.shields.io/github/commit-activity/y/xiashuangxi/erd.nvim)
 - [m4xshen/smartcolumn.nvim](https://github.com/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/stars/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/smartcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/smartcolumn.nvim)
 - [b4b4r07/cursor-x.nvim](https://github.com/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/stars/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/last-commit/b4b4r07/cursor-x.nvim) ![](https://img.shields.io/github/commit-activity/y/b4b4r07/cursor-x.nvim)
+- [Bekaboo/deadcolumn.nvim](https://github.com/Bekaboo/deadcolumn.nvim) ![](https://img.shields.io/github/stars/Bekaboo/deadcolumn.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/deadcolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/deadcolumn.nvim)
+- [ecthelionvi/NeoColumn.nvim](https://github.com/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoColumn.nvim)
 
 ### Window Separators
 
@@ -563,6 +565,7 @@
 - [Fildo7525/Revolver](https://github.com/Fildo7525/Revolver) ![](https://img.shields.io/github/stars/Fildo7525/Revolver) ![](https://img.shields.io/github/last-commit/Fildo7525/Revolver) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/Revolver)
 - [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
 - [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
+- [ecthelionvi/NeoSave.nvim](https://github.com/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoSave.nvim)
 
 #### Cursor Position
 

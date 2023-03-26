@@ -464,6 +464,7 @@
 - [cuducos/yaml.nvim](https://github.com/cuducos/yaml.nvim) ![](https://img.shields.io/github/stars/cuducos/yaml.nvim) ![](https://img.shields.io/github/last-commit/cuducos/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/yaml.nvim)
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/stars/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/someone-stole-my-name/yaml-companion.nvim)
 - [aubinlrx/telescope-yamlnav.nvim](https://github.com/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/stars/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/last-commit/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/commit-activity/y/aubinlrx/telescope-yamlnav.nvim)
+- [slarwise/nvim-but-yaml](https://github.com/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/stars/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/last-commit/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/commit-activity/y/slarwise/nvim-but-yaml)
 
 ### dotbox
 
