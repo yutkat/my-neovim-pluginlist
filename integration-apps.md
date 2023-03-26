@@ -11,6 +11,8 @@
     + [Xcode](#xcode)
   * [Desktop Integration](#desktop-integration)
   * [Development environment](#development-environment)
+  * [CI](#ci)
+    + [CircleCI](#circleci)
     + [tmux](#tmux)
     + [Zellij](#zellij)
     + [Docker](#docker)
@@ -138,6 +140,12 @@
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/auto-dark-mode.nvim)
 
 ### Development environment
+
+### CI
+
+#### CircleCI
+
+- [tomoakley/circleci.nvim](https://github.com/tomoakley/circleci.nvim) ![](https://img.shields.io/github/stars/tomoakley/circleci.nvim) ![](https://img.shields.io/github/last-commit/tomoakley/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/tomoakley/circleci.nvim)
 
 #### tmux
 
@@ -320,6 +328,7 @@
 #### Matrix.org
 
 - [shift-d/radio.nvim](https://github.com/shift-d/radio.nvim) ![](https://img.shields.io/github/stars/shift-d/radio.nvim) ![](https://img.shields.io/github/last-commit/shift-d/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/shift-d/radio.nvim)
+- [dkasak/msc.nvim](https://github.com/dkasak/msc.nvim) ![](https://img.shields.io/github/stars/dkasak/msc.nvim) ![](https://img.shields.io/github/last-commit/dkasak/msc.nvim) ![](https://img.shields.io/github/commit-activity/y/dkasak/msc.nvim)
 
 #### Discord
 
