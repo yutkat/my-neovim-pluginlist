@@ -236,6 +236,7 @@
 - [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/ruby-toolkit.nvim)
+- [gmartsenkov/gotospec.nvim](https://github.com/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/gotospec.nvim)
 
 #### Rails
 

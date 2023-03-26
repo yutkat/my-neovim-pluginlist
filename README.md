@@ -637,6 +637,7 @@
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ![](https://img.shields.io/github/stars/stevearc/aerial.nvim) ![](https://img.shields.io/github/last-commit/stevearc/aerial.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/aerial.nvim)
 - [ElPiloto/sidekick.nvim](https://github.com/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/stars/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/sidekick.nvim)
 - [sencer/outline.nvim](https://github.com/sencer/outline.nvim) ![](https://img.shields.io/github/stars/sencer/outline.nvim) ![](https://img.shields.io/github/last-commit/sencer/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/outline.nvim)
+- [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) ![](https://img.shields.io/github/stars/desdic/agrolens.nvim) ![](https://img.shields.io/github/last-commit/desdic/agrolens.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/agrolens.nvim)
 
 ### Call Hierarchy
 
