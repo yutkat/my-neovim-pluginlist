@@ -169,6 +169,7 @@
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) ![](https://img.shields.io/github/stars/nanozuki/tabby.nvim) ![](https://img.shields.io/github/last-commit/nanozuki/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/nanozuki/tabby.nvim)
 - [nat-418/tabbot.nvim](https://github.com/nat-418/tabbot.nvim) ![](https://img.shields.io/github/stars/nat-418/tabbot.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tabbot.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tabbot.nvim)
 - [fuadsaud/rhizome.nvim](https://github.com/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/stars/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/last-commit/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/commit-activity/y/fuadsaud/rhizome.nvim)
+- [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) ![](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![](https://img.shields.io/github/last-commit/backdround/tabscope.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/tabscope.nvim)
 
 ### select
 
