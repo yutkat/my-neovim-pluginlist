@@ -782,7 +782,6 @@
 ### Calendar
 
 - [gaoDean/cal.nvim](https://github.com/gaoDean/cal.nvim) ![](https://img.shields.io/github/stars/gaoDean/cal.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/cal.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/cal.nvim)
-- [snaeil/apeoplescalendar.nvim](https://github.com/snaeil/apeoplescalendar.nvim) ![](https://img.shields.io/github/stars/snaeil/apeoplescalendar.nvim) ![](https://img.shields.io/github/last-commit/snaeil/apeoplescalendar.nvim) ![](https://img.shields.io/github/commit-activity/y/snaeil/apeoplescalendar.nvim)
 
 ### Presentation
 
