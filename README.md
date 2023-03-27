@@ -679,6 +679,7 @@
 - [nvima/nvim-translator](https://github.com/nvima/nvim-translator) ![](https://img.shields.io/github/stars/nvima/nvim-translator) ![](https://img.shields.io/github/last-commit/nvima/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/nvima/nvim-translator)
 - [jalvesaq/dict.nvim](https://github.com/jalvesaq/dict.nvim) ![](https://img.shields.io/github/stars/jalvesaq/dict.nvim) ![](https://img.shields.io/github/last-commit/jalvesaq/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/jalvesaq/dict.nvim)
 - [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) ![](https://img.shields.io/github/stars/niuiic/translate.nvim) ![](https://img.shields.io/github/last-commit/niuiic/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/translate.nvim)
+- [kiddos/translate.nvim](https://github.com/kiddos/translate.nvim) ![](https://img.shields.io/github/stars/kiddos/translate.nvim) ![](https://img.shields.io/github/last-commit/kiddos/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/translate.nvim)
 
 ### Manual
 

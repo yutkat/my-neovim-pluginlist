@@ -392,6 +392,7 @@
 - [NewDawn0/rgpt.nvim](https://github.com/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/stars/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/rgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/rgpt.nvim)
 - [krapjost/telescope-gpt.nvim](https://github.com/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/stars/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/last-commit/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/krapjost/telescope-gpt.nvim)
 - [meinside/openai.nvim](https://github.com/meinside/openai.nvim) ![](https://img.shields.io/github/stars/meinside/openai.nvim) ![](https://img.shields.io/github/last-commit/meinside/openai.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/openai.nvim)
+- [jay-aye-see-kay/chatbot-buffer.nvim](https://github.com/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/stars/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/last-commit/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/jay-aye-see-kay/chatbot-buffer.nvim)
 
 #### Otter
 

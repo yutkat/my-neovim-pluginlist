@@ -4,6 +4,7 @@
 
 - [FuzzyFinder](#fuzzyfinder)
     + [Telescope Extensions](#telescope-extensions)
+      - [Picker](#picker)
       - [Sorter](#sorter)
       - [Utils](#utils)
       - [Grep](#grep)
@@ -30,6 +31,10 @@
 - [haolian9/fond.nvim](https://github.com/haolian9/fond.nvim) ![](https://img.shields.io/github/stars/haolian9/fond.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fond.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fond.nvim)
 
 ### Telescope Extensions
+
+#### Picker
+
+- [OliverChao/telescope-picker-list.nvim](https://github.com/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/stars/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/telescope-picker-list.nvim)
 
 #### Sorter
 
