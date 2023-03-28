@@ -131,7 +131,8 @@
   * [Scratchpad](#scratchpad)
   * [Performance Test](#performance-test)
   * [Security](#security)
-  * [Hex Editor](#hex-editor)
+  * [Hex](#hex)
+    + [Hex Editor](#hex-editor)
   * [Mail](#mail)
   * [Calendar](#calendar)
   * [Presentation](#presentation)
@@ -770,7 +771,11 @@
 - [kurotych/ccryptor.nvim](https://github.com/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/stars/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/last-commit/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/ccryptor.nvim)
 - [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/stars/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/last-commit/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/roberte777/keep-it-secret.nvim)
 
-### Hex Editor
+### Hex
+
+- [meuter/hex-static.nvim](https://github.com/meuter/hex-static.nvim) ![](https://img.shields.io/github/stars/meuter/hex-static.nvim) ![](https://img.shields.io/github/last-commit/meuter/hex-static.nvim) ![](https://img.shields.io/github/commit-activity/y/meuter/hex-static.nvim)
+
+#### Hex Editor
 
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
 - [RaafatTurki/hex.nvim](https://github.com/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/hex.nvim)
