@@ -35,6 +35,7 @@
     + [ripgrep](#ripgrep)
     + [perf](#perf)
     + [dotnet](#dotnet)
+    + [ftp](#ftp)
     + [rsync](#rsync)
     + [ctags](#ctags)
     + [cheat.sh](#cheatsh)
@@ -252,6 +253,10 @@
 
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 
+#### ftp
+
+- [SDGLBL/nvim-sync.nvim](https://github.com/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/stars/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/nvim-sync.nvim)
+
 #### rsync
 
 - [noorwachid/nvim-rsync](https://github.com/noorwachid/nvim-rsync) ![](https://img.shields.io/github/stars/noorwachid/nvim-rsync) ![](https://img.shields.io/github/last-commit/noorwachid/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/noorwachid/nvim-rsync)
@@ -392,6 +397,7 @@
 - [krapjost/telescope-gpt.nvim](https://github.com/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/stars/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/last-commit/krapjost/telescope-gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/krapjost/telescope-gpt.nvim)
 - [meinside/openai.nvim](https://github.com/meinside/openai.nvim) ![](https://img.shields.io/github/stars/meinside/openai.nvim) ![](https://img.shields.io/github/last-commit/meinside/openai.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/openai.nvim)
 - [jay-aye-see-kay/chatbot-buffer.nvim](https://github.com/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/stars/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/last-commit/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/jay-aye-see-kay/chatbot-buffer.nvim)
+- [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/neochat.nvim)
 
 #### Otter
 
