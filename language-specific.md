@@ -350,6 +350,7 @@
 - [tobias-z/java-util.nvim](https://github.com/tobias-z/java-util.nvim) ![](https://img.shields.io/github/stars/tobias-z/java-util.nvim) ![](https://img.shields.io/github/last-commit/tobias-z/java-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-z/java-util.nvim)
 - [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 - [Iamnotagenius/mvnsearch.nvim](https://github.com/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/stars/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/last-commit/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Iamnotagenius/mvnsearch.nvim)
+- [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
 
 ### Scala
 
