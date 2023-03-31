@@ -28,6 +28,7 @@
   * [Link](#link)
     + [Image](#image)
     + [grep.app](#grepapp)
+- [GitLab](#gitlab)
 
 <!-- tocstop -->
 
@@ -168,3 +169,8 @@
 ### grep.app
 
 - [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)
+
+# GitLab
+
+- [thibthib18/glab.nvim](https://github.com/thibthib18/glab.nvim) ![](https://img.shields.io/github/stars/thibthib18/glab.nvim) ![](https://img.shields.io/github/last-commit/thibthib18/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/glab.nvim)
+- [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)

@@ -66,7 +66,6 @@
     + [StackOverflow](#stackoverflow)
     + [OpenAI](#openai)
     + [Otter](#otter)
-    + [GitLab](#gitlab)
     + [Meilisearch](#meilisearch)
     + [Trello](#trello)
     + [compiler-explorer](#compiler-explorer)
@@ -402,10 +401,6 @@
 #### Otter
 
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ![](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/otter.nvim)
-
-#### GitLab
-
-- [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
 
 #### Meilisearch
 
