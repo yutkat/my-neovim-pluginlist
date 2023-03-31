@@ -412,6 +412,7 @@
 
 - [aaron-p1/compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/compare-remotes.nvim)
 - [antosha417/nvim-compare-with-clipboard](https://github.com/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/stars/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/last-commit/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/commit-activity/y/antosha417/nvim-compare-with-clipboard)
+- [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/stars/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/last-commit/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jemag/telescope-diff.nvim)
 
 ### Tags
 
