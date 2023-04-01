@@ -51,6 +51,7 @@
 - [4542elgh/telescope-scratch-run.nvim](https://github.com/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-scratch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-scratch-run.nvim)
 - [lpoto/telescope-tasks.nvim](https://github.com/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-tasks.nvim)
 - [yaanae/actions.nvim](https://github.com/yaanae/actions.nvim) ![](https://img.shields.io/github/stars/yaanae/actions.nvim) ![](https://img.shields.io/github/last-commit/yaanae/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/yaanae/actions.nvim)
+- [devkvlt/floaty.nvim](https://github.com/devkvlt/floaty.nvim) ![](https://img.shields.io/github/stars/devkvlt/floaty.nvim) ![](https://img.shields.io/github/last-commit/devkvlt/floaty.nvim) ![](https://img.shields.io/github/commit-activity/y/devkvlt/floaty.nvim)
 
 ### Shell
 
