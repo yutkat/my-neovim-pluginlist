@@ -12,6 +12,7 @@
       - [recent file](#recent-file)
       - [remote open](#remote-open)
     + [delete](#delete)
+    + [auto close](#auto-close)
     + [access control](#access-control)
   * [Scratch Buffer](#scratch-buffer)
 - [Window](#window)
@@ -102,6 +103,10 @@
 - [kazhala/close-buffers.nvim](https://github.com/kazhala/close-buffers.nvim) ![](https://img.shields.io/github/stars/kazhala/close-buffers.nvim) ![](https://img.shields.io/github/last-commit/kazhala/close-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/kazhala/close-buffers.nvim)
 - [echasnovski/mini.bufremove](https://github.com/echasnovski/mini.bufremove) ![](https://img.shields.io/github/stars/echasnovski/mini.bufremove) ![](https://img.shields.io/github/last-commit/echasnovski/mini.bufremove) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.bufremove)
 - [mogulla3/buf-sweep.nvim](https://github.com/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/stars/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/buf-sweep.nvim)
+
+#### auto close
+
+- [chrisgrieser/nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-early-retirement)
 
 #### access control
 
