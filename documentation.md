@@ -7,6 +7,16 @@
     + [Markdown link](#markdown-link)
     + [Markdown header](#markdown-header)
     + [Markdown preview](#markdown-preview)
+      - [Lua](#lua)
+      - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
+      - [Node](#node)
+        * [live-server](#live-server)
+      - [Deno](#deno)
+      - [Glow](#glow)
+    + [Pandoc](#pandoc)
+      - [Rust](#rust)
+      - [markdown-preview-ls](#markdown-preview-ls)
+      - [Misc](#misc)
     + [Markdown code block](#markdown-code-block)
     + [Markdown evaluate code](#markdown-evaluate-code)
     + [Styling](#styling)
@@ -15,7 +25,7 @@
     + [Markdown converter](#markdown-converter)
   * [PlantUML](#plantuml)
   * [AsciiDoc](#asciidoc)
-  * [Pandoc](#pandoc)
+  * [Pandoc](#pandoc-1)
   * [Vimdoc](#vimdoc)
   * [Tex](#tex)
     + [BiBTex](#bibtex)
@@ -49,20 +59,49 @@
 
 #### Markdown preview
 
-- [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
-- [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
-- [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
-- [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
+##### Lua
+
 - [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/stars/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/md-prev.nvim)
-- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
-- [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
+
+##### Python(markdown-live-preview)
+
 - [GnikDroy/mdpreview.nvim](https://github.com/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/stars/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/GnikDroy/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/GnikDroy/mdpreview.nvim)
-- [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
-- [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
-- [kurotych/crabix-desktop.nvim](https://github.com/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/stars/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/last-commit/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/crabix-desktop.nvim)
-- [josa42/nvim-markdown-preview](https://github.com/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/stars/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-markdown-preview)
-- [OlshaMB/remarko-md.nvim](https://github.com/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/stars/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/last-commit/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/commit-activity/y/OlshaMB/remarko-md.nvim)
+
+##### Node
+
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) ![](https://img.shields.io/github/stars/cnshsliu/smp.nvim) ![](https://img.shields.io/github/last-commit/cnshsliu/smp.nvim) ![](https://img.shields.io/github/commit-activity/y/cnshsliu/smp.nvim)
+
+###### live-server
+
+- [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
+
+##### Deno
+
+- [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
+
+##### Glow
+
+- [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
+- [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
+- [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
+
+#### Pandoc
+
+- [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
+
+##### Rust
+
+- [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
+- [kurotych/crabix-desktop.nvim](https://github.com/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/stars/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/last-commit/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/crabix-desktop.nvim)
+- [OlshaMB/remarko-md.nvim](https://github.com/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/stars/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/last-commit/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/commit-activity/y/OlshaMB/remarko-md.nvim)
+
+##### markdown-preview-ls
+
+- [josa42/nvim-markdown-preview](https://github.com/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/stars/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-markdown-preview)
+
+##### Misc
+
+- [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
 
 #### Markdown code block
 
