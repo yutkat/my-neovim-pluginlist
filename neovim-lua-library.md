@@ -89,6 +89,7 @@
 
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) ![](https://img.shields.io/github/stars/nvim-lua/popup.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/popup.nvim)
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
+- [javiorfo/nvim-popcorn](https://github.com/javiorfo/nvim-popcorn) ![](https://img.shields.io/github/stars/javiorfo/nvim-popcorn) ![](https://img.shields.io/github/last-commit/javiorfo/nvim-popcorn) ![](https://img.shields.io/github/commit-activity/y/javiorfo/nvim-popcorn)
 
 ### Animation
 
