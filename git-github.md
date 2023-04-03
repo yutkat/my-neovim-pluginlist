@@ -108,6 +108,7 @@
 
 ## git rebase
 
+- [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/git-rebase-auto-diff.nvim)
 - [bagohart/git-rebase-mappings.nvim](https://github.com/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/git-rebase-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/git-rebase-mappings.nvim)
 
 ## git conflict

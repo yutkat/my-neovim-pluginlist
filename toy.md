@@ -4,6 +4,7 @@
 
 - [Toy](#toy)
   * [Joke](#joke)
+    + [Hacker typer](#hacker-typer)
   * [Pet](#pet)
   * [Image](#image)
   * [Video](#video)
@@ -26,6 +27,10 @@
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
 - [b72u68/vscode.nvim](https://github.com/b72u68/vscode.nvim) ![](https://img.shields.io/github/stars/b72u68/vscode.nvim) ![](https://img.shields.io/github/last-commit/b72u68/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/b72u68/vscode.nvim)
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
+
+### Hacker typer
+
+- [letieu/hacker.nvim](https://github.com/letieu/hacker.nvim) ![](https://img.shields.io/github/stars/letieu/hacker.nvim) ![](https://img.shields.io/github/last-commit/letieu/hacker.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/hacker.nvim)
 
 ## Pet
 
