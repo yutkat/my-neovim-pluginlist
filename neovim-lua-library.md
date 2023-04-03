@@ -21,6 +21,7 @@
 - [Net](#net)
   * [HTTP](#http)
   * [Curl](#curl)
+  * [Hurl](#hurl)
   * [REST](#rest)
   * [GRPC](#grpc)
   * [WebSocket](#websocket)
@@ -122,6 +123,10 @@
 ### Curl
 
 - [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
+
+### Hurl
+
+- [samueljoli/hurl.nvim](https://github.com/samueljoli/hurl.nvim) ![](https://img.shields.io/github/stars/samueljoli/hurl.nvim) ![](https://img.shields.io/github/last-commit/samueljoli/hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/samueljoli/hurl.nvim)
 
 ### REST
 

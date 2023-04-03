@@ -362,6 +362,7 @@
 - [KerberosKomondor/cmp-jira.nvim](https://github.com/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/stars/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/last-commit/KerberosKomondor/cmp-jira.nvim) ![](https://img.shields.io/github/commit-activity/y/KerberosKomondor/cmp-jira.nvim)
 - [154pinkchairs/jira.nvim](https://github.com/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/stars/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/last-commit/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/154pinkchairs/jira.nvim)
 - [gnuh/jiracli.nvim](https://github.com/gnuh/jiracli.nvim) ![](https://img.shields.io/github/stars/gnuh/jiracli.nvim) ![](https://img.shields.io/github/last-commit/gnuh/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/jiracli.nvim)
+- [kid-icarus/jira.nvim](https://github.com/kid-icarus/jira.nvim) ![](https://img.shields.io/github/stars/kid-icarus/jira.nvim) ![](https://img.shields.io/github/last-commit/kid-icarus/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/kid-icarus/jira.nvim)
 
 #### Google Docs
 
@@ -489,6 +490,7 @@
 - [rinx/cmp-skkeleton](https://github.com/rinx/cmp-skkeleton) ![](https://img.shields.io/github/stars/rinx/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/rinx/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/rinx/cmp-skkeleton)
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
+- [yuys13/skk-develop.nvim](https://github.com/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/stars/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/last-commit/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/skk-develop.nvim)
 
 ### Battery
 
