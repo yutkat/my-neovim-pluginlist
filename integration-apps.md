@@ -65,6 +65,7 @@
     + [Spotify](#spotify)
     + [StackOverflow](#stackoverflow)
     + [OpenAI](#openai)
+      - [OpenAI Review](#openai-review)
     + [Otter](#otter)
     + [Meilisearch](#meilisearch)
     + [Trello](#trello)
@@ -400,6 +401,10 @@
 - [jay-aye-see-kay/chatbot-buffer.nvim](https://github.com/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/stars/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/last-commit/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/jay-aye-see-kay/chatbot-buffer.nvim)
 - [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/neochat.nvim)
 - [juliusolson/gpt.nvim](https://github.com/juliusolson/gpt.nvim) ![](https://img.shields.io/github/stars/juliusolson/gpt.nvim) ![](https://img.shields.io/github/last-commit/juliusolson/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/juliusolson/gpt.nvim)
+
+##### OpenAI Review
+
+- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
 
 #### Otter
 
