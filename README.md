@@ -184,6 +184,7 @@
 
 - [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) ![](https://img.shields.io/github/stars/NvRose/tabline.nvim) ![](https://img.shields.io/github/last-commit/NvRose/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/tabline.nvim)
 - [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
+- [rafi/tabstrip.nvim](https://github.com/rafi/tabstrip.nvim) ![](https://img.shields.io/github/stars/rafi/tabstrip.nvim) ![](https://img.shields.io/github/last-commit/rafi/tabstrip.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/tabstrip.nvim)
 
 ### winbar
 
@@ -341,6 +342,7 @@
 - [theoboldalex/case_manager.nvim](https://github.com/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/stars/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/case_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/case_manager.nvim)
 - [gerazov/toggle-bool.nvim](https://github.com/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/stars/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/last-commit/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/toggle-bool.nvim)
 - [blaisdellma/checklist.nvim](https://github.com/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/stars/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/last-commit/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/commit-activity/y/blaisdellma/checklist.nvim)
+- [Skosulor/nibbler](https://github.com/Skosulor/nibbler) ![](https://img.shields.io/github/stars/Skosulor/nibbler) ![](https://img.shields.io/github/last-commit/Skosulor/nibbler) ![](https://img.shields.io/github/commit-activity/y/Skosulor/nibbler)
 
 ### Indent
 

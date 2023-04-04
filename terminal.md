@@ -39,6 +39,7 @@
 - [dk949/termutils.nvim](https://github.com/dk949/termutils.nvim) ![](https://img.shields.io/github/stars/dk949/termutils.nvim) ![](https://img.shields.io/github/last-commit/dk949/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/termutils.nvim)
 - [cheinigk/teaman.nvim](https://github.com/cheinigk/teaman.nvim) ![](https://img.shields.io/github/stars/cheinigk/teaman.nvim) ![](https://img.shields.io/github/last-commit/cheinigk/teaman.nvim) ![](https://img.shields.io/github/commit-activity/y/cheinigk/teaman.nvim)
 - [Kibadda/terminal.nvim](https://github.com/Kibadda/terminal.nvim) ![](https://img.shields.io/github/stars/Kibadda/terminal.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/terminal.nvim)
+- [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) ![](https://img.shields.io/github/stars/rebelot/terminal.nvim) ![](https://img.shields.io/github/last-commit/rebelot/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelot/terminal.nvim)
 
 ### Open
 
