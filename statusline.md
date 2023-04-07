@@ -29,6 +29,7 @@
 - [MunifTanjim/nougat.nvim](https://github.com/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nougat.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nougat.nvim)
 - [echasnovski/mini.statusline](https://github.com/echasnovski/mini.statusline) ![](https://img.shields.io/github/stars/echasnovski/mini.statusline) ![](https://img.shields.io/github/last-commit/echasnovski/mini.statusline) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.statusline)
 - [glepnir/whiskyline.nvim](https://github.com/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/stars/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/last-commit/glepnir/whiskyline.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/whiskyline.nvim)
+- [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/stars/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/last-commit/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/commit-activity/y/freddiehaddad/feline.nvim)
 
 ### Simple
 
