@@ -401,6 +401,7 @@
 - [jay-aye-see-kay/chatbot-buffer.nvim](https://github.com/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/stars/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/last-commit/jay-aye-see-kay/chatbot-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/jay-aye-see-kay/chatbot-buffer.nvim)
 - [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/neochat.nvim)
 - [juliusolson/gpt.nvim](https://github.com/juliusolson/gpt.nvim) ![](https://img.shields.io/github/stars/juliusolson/gpt.nvim) ![](https://img.shields.io/github/last-commit/juliusolson/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/juliusolson/gpt.nvim)
+- [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) ![](https://img.shields.io/github/stars/CamdenClark/flyboy) ![](https://img.shields.io/github/last-commit/CamdenClark/flyboy) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/flyboy)
 
 ##### OpenAI Review
 
