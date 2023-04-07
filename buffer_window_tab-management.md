@@ -108,6 +108,7 @@
 #### auto close
 
 - [chrisgrieser/nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-early-retirement)
+- [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) ![](https://img.shields.io/github/stars/axkirillov/hbac.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/hbac.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/hbac.nvim)
 
 #### access control
 
