@@ -87,6 +87,7 @@
   * [IME](#ime)
     + [Fcitx](#fcitx)
     + [SKK](#skk)
+    + [migemo](#migemo)
   * [Battery](#battery)
   * [Audio](#audio)
     + [SuperCollider](#supercollider)
@@ -497,6 +498,10 @@
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 - [yuys13/skk-develop.nvim](https://github.com/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/stars/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/last-commit/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/skk-develop.nvim)
+
+#### migemo
+
+- [sei40kr/migemo-search.nvim](https://github.com/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/stars/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/migemo-search.nvim)
 
 ### Battery
 
