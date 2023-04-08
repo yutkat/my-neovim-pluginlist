@@ -60,6 +60,7 @@
     + [Mastodon](#mastodon)
     + [Notion](#notion)
     + [Jira](#jira)
+    + [youtrack](#youtrack)
     + [Google Docs](#google-docs)
     + [Twitch](#twitch)
     + [Spotify](#spotify)
@@ -365,6 +366,10 @@
 - [154pinkchairs/jira.nvim](https://github.com/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/stars/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/last-commit/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/154pinkchairs/jira.nvim)
 - [gnuh/jiracli.nvim](https://github.com/gnuh/jiracli.nvim) ![](https://img.shields.io/github/stars/gnuh/jiracli.nvim) ![](https://img.shields.io/github/last-commit/gnuh/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/jiracli.nvim)
 - [kid-icarus/jira.nvim](https://github.com/kid-icarus/jira.nvim) ![](https://img.shields.io/github/stars/kid-icarus/jira.nvim) ![](https://img.shields.io/github/last-commit/kid-icarus/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/kid-icarus/jira.nvim)
+
+#### youtrack
+
+- [schrc3b6/youtrack_telescope.nvim](https://github.com/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/stars/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/last-commit/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/schrc3b6/youtrack_telescope.nvim)
 
 #### Google Docs
 

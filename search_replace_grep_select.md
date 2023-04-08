@@ -70,6 +70,7 @@
 - [roobert/search-replace.nvim](https://github.com/roobert/search-replace.nvim) ![](https://img.shields.io/github/stars/roobert/search-replace.nvim) ![](https://img.shields.io/github/last-commit/roobert/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/search-replace.nvim)
 - [s1n7ax/nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/stars/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-search-and-replace)
 - [lucaspellegrinelli/rip.nvim](https://github.com/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/stars/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/last-commit/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/commit-activity/y/lucaspellegrinelli/rip.nvim)
+- [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-alt-substitute)
 
 # Grep
 
