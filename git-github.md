@@ -73,6 +73,7 @@
 - [Cassin01/cmp-gitcommit](https://github.com/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/stars/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/last-commit/Cassin01/cmp-gitcommit) ![](https://img.shields.io/github/commit-activity/y/Cassin01/cmp-gitcommit)
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/stars/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/last-commit/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/commit-activity/y/gbprod/tree-sitter-gitcommit)
 - [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
+- [marocchino/acommit.nvim](https://github.com/marocchino/acommit.nvim) ![](https://img.shields.io/github/stars/marocchino/acommit.nvim) ![](https://img.shields.io/github/last-commit/marocchino/acommit.nvim) ![](https://img.shields.io/github/commit-activity/y/marocchino/acommit.nvim)
 
 ### prefix
 
