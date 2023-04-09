@@ -407,6 +407,7 @@
 - [Xuyuanp/neochat.nvim](https://github.com/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/neochat.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/neochat.nvim)
 - [juliusolson/gpt.nvim](https://github.com/juliusolson/gpt.nvim) ![](https://img.shields.io/github/stars/juliusolson/gpt.nvim) ![](https://img.shields.io/github/last-commit/juliusolson/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/juliusolson/gpt.nvim)
 - [CamdenClark/flyboy](https://github.com/CamdenClark/flyboy) ![](https://img.shields.io/github/stars/CamdenClark/flyboy) ![](https://img.shields.io/github/last-commit/CamdenClark/flyboy) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/flyboy)
+- [archibate/nvim-gpt](https://github.com/archibate/nvim-gpt) ![](https://img.shields.io/github/stars/archibate/nvim-gpt) ![](https://img.shields.io/github/last-commit/archibate/nvim-gpt) ![](https://img.shields.io/github/commit-activity/y/archibate/nvim-gpt)
 
 ##### OpenAI Review
 
