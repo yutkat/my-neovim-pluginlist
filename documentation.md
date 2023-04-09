@@ -89,7 +89,6 @@
 ##### Rust
 
 - [ikey4u/nvim-previewer](https://github.com/ikey4u/nvim-previewer) ![](https://img.shields.io/github/stars/ikey4u/nvim-previewer) ![](https://img.shields.io/github/last-commit/ikey4u/nvim-previewer) ![](https://img.shields.io/github/commit-activity/y/ikey4u/nvim-previewer)
-- [kurotych/crabix-desktop.nvim](https://github.com/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/stars/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/last-commit/kurotych/crabix-desktop.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/crabix-desktop.nvim)
 - [OlshaMB/remarko-md.nvim](https://github.com/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/stars/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/last-commit/OlshaMB/remarko-md.nvim) ![](https://img.shields.io/github/commit-activity/y/OlshaMB/remarko-md.nvim)
 
 ##### Go
