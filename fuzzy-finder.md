@@ -29,6 +29,7 @@
 - [cpkio/nvim-fzf-windows](https://github.com/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/stars/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/last-commit/cpkio/nvim-fzf-windows) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-fzf-windows)
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) ![](https://img.shields.io/github/stars/romgrk/kirby.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kirby.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kirby.nvim)
 - [haolian9/fond.nvim](https://github.com/haolian9/fond.nvim) ![](https://img.shields.io/github/stars/haolian9/fond.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fond.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fond.nvim)
+- [tani/pickup.nvim](https://github.com/tani/pickup.nvim) ![](https://img.shields.io/github/stars/tani/pickup.nvim) ![](https://img.shields.io/github/last-commit/tani/pickup.nvim) ![](https://img.shields.io/github/commit-activity/y/tani/pickup.nvim)
 
 ### Telescope Extensions
 
