@@ -12,6 +12,7 @@
   * [Current word highlight](#current-word-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
   * [Jump highlight](#jump-highlight)
+  * [Error highlight](#error-highlight)
 
 <!-- tocstop -->
 
@@ -81,3 +82,7 @@
 - [edluffy/specs.nvim](https://github.com/edluffy/specs.nvim) ![](https://img.shields.io/github/stars/edluffy/specs.nvim) ![](https://img.shields.io/github/last-commit/edluffy/specs.nvim) ![](https://img.shields.io/github/commit-activity/y/edluffy/specs.nvim)
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
+
+### Error highlight
+
+- [GeekMasher/securitree.nvim](https://github.com/GeekMasher/securitree.nvim) ![](https://img.shields.io/github/stars/GeekMasher/securitree.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/securitree.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/securitree.nvim)

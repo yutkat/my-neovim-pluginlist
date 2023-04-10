@@ -540,6 +540,7 @@
 
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-recorder)
 - [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
+- [bignos/bookmacro](https://github.com/bignos/bookmacro) ![](https://img.shields.io/github/stars/bignos/bookmacro) ![](https://img.shields.io/github/last-commit/bignos/bookmacro) ![](https://img.shields.io/github/commit-activity/y/bignos/bookmacro)
 
 ### Message
 
@@ -555,6 +556,7 @@
 - [yagiziskirik/AirSupport.nvim](https://github.com/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/stars/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/last-commit/yagiziskirik/AirSupport.nvim) ![](https://img.shields.io/github/commit-activity/y/yagiziskirik/AirSupport.nvim)
 - [roobert/tldr-lang.nvim](https://github.com/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/stars/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/last-commit/roobert/tldr-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tldr-lang.nvim)
 - [Sc4ramouche/lists.nvim](https://github.com/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/stars/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/last-commit/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/commit-activity/y/Sc4ramouche/lists.nvim)
+- [rolf-stargate/ankifly.nvim](https://github.com/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/stars/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/last-commit/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/commit-activity/y/rolf-stargate/ankifly.nvim)
 
 ### Messsage
 
@@ -575,6 +577,7 @@
 
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/stars/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/last-commit/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/commit-activity/y/ethanholz/nvim-lastplace)
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
+- [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
 
 ### Backup
 
