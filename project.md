@@ -38,6 +38,7 @@
 - [desdic/telescope-rooter.nvim](https://github.com/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/stars/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/last-commit/desdic/telescope-rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/telescope-rooter.nvim)
 - [delphinus/rtr.nvim](https://github.com/delphinus/rtr.nvim) ![](https://img.shields.io/github/stars/delphinus/rtr.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtr.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtr.nvim)
 - [albenisolmos/autochdir.nvim](https://github.com/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/stars/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/autochdir.nvim)
+- [gmartsenkov/root.nvim](https://github.com/gmartsenkov/root.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/root.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/root.nvim)
 
 #### Project Local Config
 
