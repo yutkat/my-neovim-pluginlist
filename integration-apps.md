@@ -354,6 +354,7 @@
 #### Notion
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
+- [Al0den/notion.nvim](https://github.com/Al0den/notion.nvim) ![](https://img.shields.io/github/stars/Al0den/notion.nvim) ![](https://img.shields.io/github/last-commit/Al0den/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/Al0den/notion.nvim)
 
 #### Jira
 
