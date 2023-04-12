@@ -182,7 +182,6 @@
 
 ### Tabline
 
-- [NvRose/tabline.nvim](https://github.com/NvRose/tabline.nvim) ![](https://img.shields.io/github/stars/NvRose/tabline.nvim) ![](https://img.shields.io/github/last-commit/NvRose/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/NvRose/tabline.nvim)
 - [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
 - [rafi/tabstrip.nvim](https://github.com/rafi/tabstrip.nvim) ![](https://img.shields.io/github/stars/rafi/tabstrip.nvim) ![](https://img.shields.io/github/last-commit/rafi/tabstrip.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/tabstrip.nvim)
 
@@ -629,7 +628,6 @@
 ##### Indent Guide
 
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/indent-blankline.nvim)
-- [glepnir/indent-guides.nvim](https://github.com/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/stars/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/last-commit/glepnir/indent-guides.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/indent-guides.nvim)
 - [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/simpleIndentGuides.nvim)
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/shellRaining/hlchunk.nvim)
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) ![](https://img.shields.io/github/stars/huy-hng/anyline.nvim) ![](https://img.shields.io/github/last-commit/huy-hng/anyline.nvim) ![](https://img.shields.io/github/commit-activity/y/huy-hng/anyline.nvim)
