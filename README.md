@@ -779,6 +779,7 @@
 - [kurotych/ccryptor.nvim](https://github.com/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/stars/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/last-commit/kurotych/ccryptor.nvim) ![](https://img.shields.io/github/commit-activity/y/kurotych/ccryptor.nvim)
 - [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/stars/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/last-commit/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/roberte777/keep-it-secret.nvim)
 - [Praczet/encrypt-text.nvim](https://github.com/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/stars/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/last-commit/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/encrypt-text.nvim)
+- [kode-team/vault.nvim](https://github.com/kode-team/vault.nvim) ![](https://img.shields.io/github/stars/kode-team/vault.nvim) ![](https://img.shields.io/github/last-commit/kode-team/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/vault.nvim)
 
 ### Hex
 
