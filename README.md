@@ -583,7 +583,7 @@
 ### Startup
 
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) ![](https://img.shields.io/github/stars/goolord/alpha-nvim) ![](https://img.shields.io/github/last-commit/goolord/alpha-nvim) ![](https://img.shields.io/github/commit-activity/y/goolord/alpha-nvim)
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) ![](https://img.shields.io/github/stars/glepnir/dashboard-nvim) ![](https://img.shields.io/github/last-commit/glepnir/dashboard-nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/dashboard-nvim)
+- [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/stars/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dashboard-nvim)
 - [willothy/veil.nvim](https://github.com/willothy/veil.nvim) ![](https://img.shields.io/github/stars/willothy/veil.nvim) ![](https://img.shields.io/github/last-commit/willothy/veil.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/veil.nvim)
 - [startup-nvim/startup.nvim](https://github.com/startup-nvim/startup.nvim) ![](https://img.shields.io/github/stars/startup-nvim/startup.nvim) ![](https://img.shields.io/github/last-commit/startup-nvim/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/startup-nvim/startup.nvim)
 - [cameron-wags/splash.nvim](https://github.com/cameron-wags/splash.nvim) ![](https://img.shields.io/github/stars/cameron-wags/splash.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/splash.nvim)
@@ -830,7 +830,7 @@
 - [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
 - [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
 - [allvpv/resize-font.nvim](https://github.com/allvpv/resize-font.nvim) ![](https://img.shields.io/github/stars/allvpv/resize-font.nvim) ![](https://img.shields.io/github/last-commit/allvpv/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/allvpv/resize-font.nvim)
-- [glepnir/nerdicons.nvim](https://github.com/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/stars/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/glepnir/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/nerdicons.nvim)
+- [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
 
 ### [Emoji](./emoji.md)
 
