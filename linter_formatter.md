@@ -25,7 +25,7 @@
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
 - [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
-- [glepnir/easyformat.nvim](https://github.com/glepnir/easyformat.nvim) ![](https://img.shields.io/github/stars/glepnir/easyformat.nvim) ![](https://img.shields.io/github/last-commit/glepnir/easyformat.nvim) ![](https://img.shields.io/github/commit-activity/y/glepnir/easyformat.nvim)
+- [nvimdev/easyformat.nvim](https://github.com/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/stars/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/easyformat.nvim)
 
 ### Trim Whitespace
 
