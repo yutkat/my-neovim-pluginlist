@@ -15,7 +15,8 @@
     + [Semantic Token](#semantic-token)
   * [LSP Progress](#lsp-progress)
   * [Local LSP Config](#local-lsp-config)
-- [Disable/Enable](#disableenable)
+- [Command](#command)
+  * [Disable/Enable](#disableenable)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
 
@@ -128,7 +129,11 @@
 - [folke/neoconf.nvim](https://github.com/folke/neoconf.nvim) ![](https://img.shields.io/github/stars/folke/neoconf.nvim) ![](https://img.shields.io/github/last-commit/folke/neoconf.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/neoconf.nvim)
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
 
-## Disable/Enable
+## Command
+
+- [ii14/lsp-command](https://github.com/ii14/lsp-command) ![](https://img.shields.io/github/stars/ii14/lsp-command) ![](https://img.shields.io/github/last-commit/ii14/lsp-command) ![](https://img.shields.io/github/commit-activity/y/ii14/lsp-command)
+
+### Disable/Enable
 
 - [adoyle-h/lsp-toggle.nvim](https://github.com/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/lsp-toggle.nvim)
 
