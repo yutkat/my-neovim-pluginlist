@@ -31,6 +31,7 @@
 - [ArnauPrat/nvim-gotoerror](https://github.com/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/stars/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/last-commit/ArnauPrat/nvim-gotoerror) ![](https://img.shields.io/github/commit-activity/y/ArnauPrat/nvim-gotoerror)
 - [monaqa/modesearch.nvim](https://github.com/monaqa/modesearch.nvim) ![](https://img.shields.io/github/stars/monaqa/modesearch.nvim) ![](https://img.shields.io/github/last-commit/monaqa/modesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/modesearch.nvim)
 - [MaximilianLloyd/patternvault.nvim](https://github.com/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/patternvault.nvim)
+- [IndianBoy42/fuzzy_slash.nvim](https://github.com/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/stars/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/last-commit/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/commit-activity/y/IndianBoy42/fuzzy_slash.nvim)
 
 ## Line search
 
