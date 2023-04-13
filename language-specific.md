@@ -52,6 +52,7 @@
     + [Elixir](#elixir)
     + [Haskell](#haskell)
     + [Lisp](#lisp)
+    + [OCaml](#ocaml)
     + [Shellscript(bash)](#shellscriptbash)
     + [Nushell](#nushell)
     + [F](#f)
@@ -389,6 +390,10 @@
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 - [monkoose/nvlime](https://github.com/monkoose/nvlime) ![](https://img.shields.io/github/stars/monkoose/nvlime) ![](https://img.shields.io/github/last-commit/monkoose/nvlime) ![](https://img.shields.io/github/commit-activity/y/monkoose/nvlime)
+
+### OCaml
+
+- [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 
 ### Shellscript(bash)
 
