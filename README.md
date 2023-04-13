@@ -631,6 +631,7 @@
 - [LucasTavaresA/simpleIndentGuides.nvim](https://github.com/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/simpleIndentGuides.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/simpleIndentGuides.nvim)
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/shellRaining/hlchunk.nvim)
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) ![](https://img.shields.io/github/stars/huy-hng/anyline.nvim) ![](https://img.shields.io/github/last-commit/huy-hng/anyline.nvim) ![](https://img.shields.io/github/commit-activity/y/huy-hng/anyline.nvim)
+- [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/stars/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/indentmini.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
 
