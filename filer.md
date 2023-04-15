@@ -41,6 +41,7 @@
 - [josa42/nvim-gx](https://github.com/josa42/nvim-gx) ![](https://img.shields.io/github/stars/josa42/nvim-gx) ![](https://img.shields.io/github/last-commit/josa42/nvim-gx) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-gx)
 - [chrishrb/gx.nvim](https://github.com/chrishrb/gx.nvim) ![](https://img.shields.io/github/stars/chrishrb/gx.nvim) ![](https://img.shields.io/github/last-commit/chrishrb/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishrb/gx.nvim)
 - [rmagatti/gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/stars/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/gx-extended.nvim)
+- [mrjones2014/lua-gf.nvim](https://github.com/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/stars/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/lua-gf.nvim)
 
 ## Simple
 

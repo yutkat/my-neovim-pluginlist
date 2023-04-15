@@ -8,6 +8,7 @@
 - [async](#async)
 - [Coroutine](#coroutine)
 - [File](#file)
+  * [path-trie](#path-trie)
 - [UI](#ui)
   * [Notification](#notification)
   * [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
@@ -67,6 +68,10 @@
 ## File
 
 - [nvim-lua/plenary.nvim(file)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
+
+### path-trie
+
+- [cljoly/path-trie.nvim](https://github.com/cljoly/path-trie.nvim) ![](https://img.shields.io/github/stars/cljoly/path-trie.nvim) ![](https://img.shields.io/github/last-commit/cljoly/path-trie.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/path-trie.nvim)
 
 ## UI
 

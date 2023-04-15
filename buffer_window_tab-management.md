@@ -89,6 +89,7 @@
 - [marcuscaisey/olddirs.nvim](https://github.com/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/stars/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/last-commit/marcuscaisey/olddirs.nvim) ![](https://img.shields.io/github/commit-activity/y/marcuscaisey/olddirs.nvim)
 - [danielfalk/smart-open.nvim](https://github.com/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/stars/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/last-commit/danielfalk/smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/danielfalk/smart-open.nvim)
 - [dharmx/track.nvim](https://github.com/dharmx/track.nvim) ![](https://img.shields.io/github/stars/dharmx/track.nvim) ![](https://img.shields.io/github/last-commit/dharmx/track.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/track.nvim)
+- [zzhirong/history-jumper.nvim](https://github.com/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/stars/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/last-commit/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/zzhirong/history-jumper.nvim)
 
 ##### remote open
 
@@ -113,6 +114,7 @@
 #### access control
 
 - [augustocdias/gatekeeper.nvim](https://github.com/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/stars/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/last-commit/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/commit-activity/y/augustocdias/gatekeeper.nvim)
+- [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) ![](https://img.shields.io/github/stars/sQVe/bufignore.nvim) ![](https://img.shields.io/github/last-commit/sQVe/bufignore.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/bufignore.nvim)
 
 ### Scratch Buffer
 

@@ -367,6 +367,7 @@
 - [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/stars/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/last-commit/akinsho/flutter-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/flutter-tools.nvim)
 - [f-person/pubspec-assist-nvim](https://github.com/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/stars/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/last-commit/f-person/pubspec-assist-nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/pubspec-assist-nvim)
 - [sidlatau/dart-lsp-refactorings.nvim](https://github.com/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/stars/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/last-commit/sidlatau/dart-lsp-refactorings.nvim) ![](https://img.shields.io/github/commit-activity/y/sidlatau/dart-lsp-refactorings.nvim)
+- [rafaelcolladojr/dart-boiler.nvim](https://github.com/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/stars/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/last-commit/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelcolladojr/dart-boiler.nvim)
 
 ### Clojure
 
