@@ -33,6 +33,7 @@
 - [crusj/bookmarks.nvim](https://github.com/crusj/bookmarks.nvim) ![](https://img.shields.io/github/stars/crusj/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/crusj/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/bookmarks.nvim)
 - [jonarrien/bookmarks.nvim](https://github.com/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/stars/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/bookmarks.nvim)
 - [dinhhuy258/sfm-bookmark.nvim](https://github.com/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-bookmark.nvim)
+- [muryp/nvim-muryp-telescope-bookmark](https://github.com/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-telescope-bookmark)
 
 ### etc
 

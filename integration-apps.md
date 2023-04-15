@@ -28,6 +28,7 @@
     + [fish](#fish)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
+    + [WezTerm](#wezterm)
     + [Windows Terminal](#windows-terminal)
   * [CLI](#cli)
     + [make](#make)
@@ -225,6 +226,10 @@
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) ![](https://img.shields.io/github/stars/romgrk/kui.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kui.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kui.nvim)
 - [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/stars/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/last-commit/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/commit-activity/y/garyhurtz/cmp_kitty)
 - [ouroboros8/nvim-kitty-navigator](https://github.com/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/stars/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/last-commit/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/commit-activity/y/ouroboros8/nvim-kitty-navigator)
+
+#### WezTerm
+
+- [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) ![](https://img.shields.io/github/stars/willothy/wezterm.nvim) ![](https://img.shields.io/github/last-commit/willothy/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/wezterm.nvim)
 
 #### Windows Terminal
 
