@@ -268,7 +268,6 @@
 
 - [noorwachid/nvim-rsync](https://github.com/noorwachid/nvim-rsync) ![](https://img.shields.io/github/stars/noorwachid/nvim-rsync) ![](https://img.shields.io/github/last-commit/noorwachid/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/noorwachid/nvim-rsync)
 - [uiofgh/rsync.nvim](https://github.com/uiofgh/rsync.nvim) ![](https://img.shields.io/github/stars/uiofgh/rsync.nvim) ![](https://img.shields.io/github/last-commit/uiofgh/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/uiofgh/rsync.nvim)
-- [shinobu-uwu/rsync.nvim](https://github.com/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/stars/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/last-commit/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/shinobu-uwu/rsync.nvim)
 
 #### ctags
 
