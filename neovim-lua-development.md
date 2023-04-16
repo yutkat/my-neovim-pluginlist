@@ -129,6 +129,7 @@
 - [NTBBloodbath/color-converter.nvim](https://github.com/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/color-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/color-converter.nvim)
 - [dylanaraps/pywal](https://github.com/dylanaraps/pywal) ![](https://img.shields.io/github/stars/dylanaraps/pywal) ![](https://img.shields.io/github/last-commit/dylanaraps/pywal) ![](https://img.shields.io/github/commit-activity/y/dylanaraps/pywal)
 - [katawful/kreative](https://github.com/katawful/kreative) ![](https://img.shields.io/github/stars/katawful/kreative) ![](https://img.shields.io/github/last-commit/katawful/kreative) ![](https://img.shields.io/github/commit-activity/y/katawful/kreative)
+- [echasnovski/mini.colors](https://github.com/echasnovski/mini.colors) ![](https://img.shields.io/github/stars/echasnovski/mini.colors) ![](https://img.shields.io/github/last-commit/echasnovski/mini.colors) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.colors)
 
 ## Color Creation
 
