@@ -62,6 +62,7 @@
     + [GNU APL](#gnu-apl)
     + [Godot](#godot)
     + [Moonscript](#moonscript)
+    + [Kind](#kind)
     + [Cell](#cell)
     + [sylt](#sylt)
     + [Cyber](#cyber)
@@ -433,6 +434,10 @@
 ### Moonscript
 
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
+
+### Kind
+
+- [HigherOrderCO/Kind.nvim](https://github.com/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/stars/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/last-commit/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/commit-activity/y/HigherOrderCO/Kind.nvim)
 
 ### Cell
 
