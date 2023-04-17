@@ -76,6 +76,7 @@
 - [hek14/symbol-overlay.nvim](https://github.com/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/stars/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/last-commit/hek14/symbol-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/hek14/symbol-overlay.nvim)
 - [dvoytik/hi-my-words.nvim](https://github.com/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/stars/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/last-commit/dvoytik/hi-my-words.nvim) ![](https://img.shields.io/github/commit-activity/y/dvoytik/hi-my-words.nvim)
 - [Mr-LLLLL/interestingwords.nvim](https://github.com/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/interestingwords.nvim)
+- [leisiji/interestingwords.nvim](https://github.com/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/stars/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/last-commit/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/commit-activity/y/leisiji/interestingwords.nvim)
 
 ### Jump highlight
 
