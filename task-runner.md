@@ -52,6 +52,7 @@
 - [yaanae/actions.nvim](https://github.com/yaanae/actions.nvim) ![](https://img.shields.io/github/stars/yaanae/actions.nvim) ![](https://img.shields.io/github/last-commit/yaanae/actions.nvim) ![](https://img.shields.io/github/commit-activity/y/yaanae/actions.nvim)
 - [devkvlt/floaty.nvim](https://github.com/devkvlt/floaty.nvim) ![](https://img.shields.io/github/stars/devkvlt/floaty.nvim) ![](https://img.shields.io/github/last-commit/devkvlt/floaty.nvim) ![](https://img.shields.io/github/commit-activity/y/devkvlt/floaty.nvim)
 - [LucLabarriere/light-projects.nvim](https://github.com/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/stars/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/last-commit/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/LucLabarriere/light-projects.nvim)
+- [Comamoca/runit.nvim](https://github.com/Comamoca/runit.nvim) ![](https://img.shields.io/github/stars/Comamoca/runit.nvim) ![](https://img.shields.io/github/last-commit/Comamoca/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/Comamoca/runit.nvim)
 
 ### Shell
 
