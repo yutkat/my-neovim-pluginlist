@@ -648,6 +648,7 @@
 - [sencer/outline.nvim](https://github.com/sencer/outline.nvim) ![](https://img.shields.io/github/stars/sencer/outline.nvim) ![](https://img.shields.io/github/last-commit/sencer/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/outline.nvim)
 - [desdic/agrolens.nvim](https://github.com/desdic/agrolens.nvim) ![](https://img.shields.io/github/stars/desdic/agrolens.nvim) ![](https://img.shields.io/github/last-commit/desdic/agrolens.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/agrolens.nvim)
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navbuddy)
+- [d00h/neo-tree-ctags.nvim](https://github.com/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/stars/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/last-commit/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/d00h/neo-tree-ctags.nvim)
 
 ### Call Hierarchy
 
