@@ -415,6 +415,7 @@
 - [archibate/nvim-gpt](https://github.com/archibate/nvim-gpt) ![](https://img.shields.io/github/stars/archibate/nvim-gpt) ![](https://img.shields.io/github/last-commit/archibate/nvim-gpt) ![](https://img.shields.io/github/commit-activity/y/archibate/nvim-gpt)
 - [EthanJWright/gpt.nvim](https://github.com/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/stars/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/gpt.nvim)
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) ![](https://img.shields.io/github/stars/Bryley/neoai.nvim) ![](https://img.shields.io/github/last-commit/Bryley/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/Bryley/neoai.nvim)
+- [gsuuon/llm.nvim](https://github.com/gsuuon/llm.nvim) ![](https://img.shields.io/github/stars/gsuuon/llm.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/llm.nvim)
 
 ##### OpenAI Review
 
