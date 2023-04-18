@@ -27,6 +27,7 @@
     + [Python](#python)
       - [test](#test)
       - [REPL](#repl)
+      - [Debugger](#debugger)
       - [build manager](#build-manager)
       - [venv](#venv)
       - [Jupyter](#jupyter)
@@ -215,6 +216,10 @@
 - [geg2102/nvim-python-repl](https://github.com/geg2102/nvim-python-repl) ![](https://img.shields.io/github/stars/geg2102/nvim-python-repl) ![](https://img.shields.io/github/last-commit/geg2102/nvim-python-repl) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-python-repl)
 - [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
+
+#### Debugger
+
+- [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
 
 #### build manager
 
