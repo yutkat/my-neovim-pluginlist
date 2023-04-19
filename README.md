@@ -63,6 +63,7 @@
   * [Command](#command)
     + [Redirect to scratch buffer](#redirect-to-scratch-buffer)
     + [Shell Command](#shell-command)
+      - [sudo](#sudo)
   * [Command Line](#command-line)
     + [GUID](#guid)
   * [Command Line UI](#command-line-ui)
@@ -452,6 +453,10 @@
 #### Shell Command
 
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) ![](https://img.shields.io/github/stars/axkirillov/easypick.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/easypick.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/easypick.nvim)
+
+##### sudo
+
+- [haolian9/sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/stars/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudo_write.nvim)
 
 ### Command Line
 

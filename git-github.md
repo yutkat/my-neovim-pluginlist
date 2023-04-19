@@ -167,6 +167,7 @@
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/stars/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/last-commit/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/commit-activity/y/Almo7aya/openingh.nvim)
 - [ciehanski/nvim-git-line](https://github.com/ciehanski/nvim-git-line) ![](https://img.shields.io/github/stars/ciehanski/nvim-git-line) ![](https://img.shields.io/github/last-commit/ciehanski/nvim-git-line) ![](https://img.shields.io/github/commit-activity/y/ciehanski/nvim-git-line)
 - [vincent178/nvim-github-linker](https://github.com/vincent178/nvim-github-linker) ![](https://img.shields.io/github/stars/vincent178/nvim-github-linker) ![](https://img.shields.io/github/last-commit/vincent178/nvim-github-linker) ![](https://img.shields.io/github/commit-activity/y/vincent178/nvim-github-linker)
+- [tetzng/open-github-url.nvim](https://github.com/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/stars/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/last-commit/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/open-github-url.nvim)
 
 ### Image
 
