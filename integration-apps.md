@@ -26,6 +26,7 @@
   * [Shell](#shell)
     + [zsh](#zsh)
     + [fish](#fish)
+    + [nushell](#nushell)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
     + [WezTerm](#wezterm)
@@ -80,6 +81,7 @@
       - [gnome](#gnome)
       - [darkman](#darkman)
       - [fribidi](#fribidi)
+      - [Inkscape](#inkscape)
   * [Windows](#windows)
     + [Everything](#everything)
     + [AutoHotKey](#autohotkey)
@@ -217,6 +219,10 @@
 #### fish
 
 - [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
+
+#### nushell
+
+- [zioroboco/nu-ls.nvim](https://github.com/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/stars/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/last-commit/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/zioroboco/nu-ls.nvim)
 
 ### Terminal
 
