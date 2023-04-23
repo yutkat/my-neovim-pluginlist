@@ -32,7 +32,6 @@
 - [monaqa/modesearch.nvim](https://github.com/monaqa/modesearch.nvim) ![](https://img.shields.io/github/stars/monaqa/modesearch.nvim) ![](https://img.shields.io/github/last-commit/monaqa/modesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/modesearch.nvim)
 - [MaximilianLloyd/patternvault.nvim](https://github.com/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/patternvault.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/patternvault.nvim)
 - [IndianBoy42/fuzzy_slash.nvim](https://github.com/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/stars/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/last-commit/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/commit-activity/y/IndianBoy42/fuzzy_slash.nvim)
-- [napisani/nvim-search-rules](https://github.com/napisani/nvim-search-rules) ![](https://img.shields.io/github/stars/napisani/nvim-search-rules) ![](https://img.shields.io/github/last-commit/napisani/nvim-search-rules) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-search-rules)
 
 ## Line search
 
@@ -73,6 +72,7 @@
 - [s1n7ax/nvim-search-and-replace](https://github.com/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/stars/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-search-and-replace) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-search-and-replace)
 - [lucaspellegrinelli/rip.nvim](https://github.com/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/stars/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/last-commit/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/commit-activity/y/lucaspellegrinelli/rip.nvim)
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-alt-substitute)
+- [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) ![](https://img.shields.io/github/stars/AckslD/muren.nvim) ![](https://img.shields.io/github/last-commit/AckslD/muren.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/muren.nvim)
 
 # Grep
 
@@ -86,6 +86,7 @@
 - [molecule-man/telescope-menufacture](https://github.com/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/stars/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/last-commit/molecule-man/telescope-menufacture) ![](https://img.shields.io/github/commit-activity/y/molecule-man/telescope-menufacture)
 - [brookhong/telescope-pathogen.nvim](https://github.com/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/stars/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/last-commit/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/commit-activity/y/brookhong/telescope-pathogen.nvim)
 - [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-egrepify.nvim)
+- [napisani/nvim-search-rules](https://github.com/napisani/nvim-search-rules) ![](https://img.shields.io/github/stars/napisani/nvim-search-rules) ![](https://img.shields.io/github/last-commit/napisani/nvim-search-rules) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-search-rules)
 
 # Select
 
