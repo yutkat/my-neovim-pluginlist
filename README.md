@@ -839,6 +839,7 @@
 - [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
 - [allvpv/resize-font.nvim](https://github.com/allvpv/resize-font.nvim) ![](https://img.shields.io/github/stars/allvpv/resize-font.nvim) ![](https://img.shields.io/github/last-commit/allvpv/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/allvpv/resize-font.nvim)
 - [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
+- [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 
 ### [Emoji](./emoji.md)
 

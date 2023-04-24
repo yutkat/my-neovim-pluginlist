@@ -6,6 +6,7 @@
   * [Snippet definitions](#snippet-definitions)
   * [Snippet converter](#snippet-converter)
   * [Snippet view](#snippet-view)
+  * [Snippet highlight](#snippet-highlight)
 - [Emmet](#emmet)
 - [Template](#template)
 
@@ -34,6 +35,10 @@
 #### Snippet view
 
 - [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/stars/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/last-commit/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/benfowler/telescope-luasnip.nvim)
+
+#### Snippet highlight
+
+- [wwkayak/nvim-snippet-highlighter](https://github.com/wwkayak/nvim-snippet-highlighter) ![](https://img.shields.io/github/stars/wwkayak/nvim-snippet-highlighter) ![](https://img.shields.io/github/last-commit/wwkayak/nvim-snippet-highlighter) ![](https://img.shields.io/github/commit-activity/y/wwkayak/nvim-snippet-highlighter)
 
 ### Emmet
 

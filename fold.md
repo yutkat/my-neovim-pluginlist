@@ -19,6 +19,7 @@
 - [milisims/foldhue.nvim](https://github.com/milisims/foldhue.nvim) ![](https://img.shields.io/github/stars/milisims/foldhue.nvim) ![](https://img.shields.io/github/last-commit/milisims/foldhue.nvim) ![](https://img.shields.io/github/commit-activity/y/milisims/foldhue.nvim)
 - [MrcJkb/nvim-lsp-foldexpr](https://github.com/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/stars/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/last-commit/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/nvim-lsp-foldexpr)
 - [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/stars/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-foldsign)
+- [snelling-a/better-folds.nvim](https://github.com/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/stars/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/last-commit/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/commit-activity/y/snelling-a/better-folds.nvim)
 
 ## Conceal
 

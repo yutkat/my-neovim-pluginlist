@@ -377,6 +377,7 @@
 - [154pinkchairs/jira.nvim](https://github.com/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/stars/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/last-commit/154pinkchairs/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/154pinkchairs/jira.nvim)
 - [gnuh/jiracli.nvim](https://github.com/gnuh/jiracli.nvim) ![](https://img.shields.io/github/stars/gnuh/jiracli.nvim) ![](https://img.shields.io/github/last-commit/gnuh/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/jiracli.nvim)
 - [kid-icarus/jira.nvim](https://github.com/kid-icarus/jira.nvim) ![](https://img.shields.io/github/stars/kid-icarus/jira.nvim) ![](https://img.shields.io/github/last-commit/kid-icarus/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/kid-icarus/jira.nvim)
+- [artem-nefedov/cmp-jira-issues.nvim](https://github.com/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/stars/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/last-commit/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/commit-activity/y/artem-nefedov/cmp-jira-issues.nvim)
 
 #### youtrack
 

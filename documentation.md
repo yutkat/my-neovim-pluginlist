@@ -108,6 +108,7 @@
 - [LostNeophyte/null-ls-embedded](https://github.com/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/stars/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/last-commit/LostNeophyte/null-ls-embedded) ![](https://img.shields.io/github/commit-activity/y/LostNeophyte/null-ls-embedded)
 - [kokardy/md-codeblock-loader.nvim](https://github.com/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/stars/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/last-commit/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/kokardy/md-codeblock-loader.nvim)
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/stars/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/last-commit/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/tsnode-marker.nvim)
+- [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/stars/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/last-commit/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/edit-code-block.nvim)
 
 #### Markdown evaluate code
 
@@ -173,6 +174,7 @@
 - [icewind/ltex-client.nvim](https://github.com/icewind/ltex-client.nvim) ![](https://img.shields.io/github/stars/icewind/ltex-client.nvim) ![](https://img.shields.io/github/last-commit/icewind/ltex-client.nvim) ![](https://img.shields.io/github/commit-activity/y/icewind/ltex-client.nvim)
 - [Paroxyss/texmate.nvim](https://github.com/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/stars/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/last-commit/Paroxyss/texmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Paroxyss/texmate.nvim)
 - [erooke/ltex.nvim](https://github.com/erooke/ltex.nvim) ![](https://img.shields.io/github/stars/erooke/ltex.nvim) ![](https://img.shields.io/github/last-commit/erooke/ltex.nvim) ![](https://img.shields.io/github/commit-activity/y/erooke/ltex.nvim)
+- [mbrea-c/latexmk-zathura-preview.nvim](https://github.com/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/stars/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/latexmk-zathura-preview.nvim)
 
 #### BiBTex
 
