@@ -399,7 +399,6 @@
 
 - [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) ![](https://img.shields.io/github/stars/mhanberg/elixir.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/elixir.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/elixir.nvim)
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) ![](https://img.shields.io/github/stars/brendalf/mix.nvim) ![](https://img.shields.io/github/last-commit/brendalf/mix.nvim) ![](https://img.shields.io/github/commit-activity/y/brendalf/mix.nvim)
-- [wesleimp/mix-credo.nvim](https://github.com/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/stars/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/mix-credo.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/mix-credo.nvim)
 
 ### Haskell
 
