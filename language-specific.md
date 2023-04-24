@@ -59,6 +59,7 @@
     + [Shellscript(bash)](#shellscriptbash)
     + [Nushell](#nushell)
     + [F](#f)
+    + [WebC](#webc)
     + [Cairo](#cairo)
     + [Agda](#agda)
     + [Monkey](#monkey)
@@ -425,6 +426,10 @@
 ### F
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
+
+### WebC
+
+- [bennypowers/webc.nvim](https://github.com/bennypowers/webc.nvim) ![](https://img.shields.io/github/stars/bennypowers/webc.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/webc.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/webc.nvim)
 
 ### Cairo
 
