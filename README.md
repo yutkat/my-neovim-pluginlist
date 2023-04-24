@@ -789,8 +789,6 @@
 
 ### Hex
 
-- [meuter/hex-static.nvim](https://github.com/meuter/hex-static.nvim) ![](https://img.shields.io/github/stars/meuter/hex-static.nvim) ![](https://img.shields.io/github/last-commit/meuter/hex-static.nvim) ![](https://img.shields.io/github/commit-activity/y/meuter/hex-static.nvim)
-
 #### Hex Editor
 
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
