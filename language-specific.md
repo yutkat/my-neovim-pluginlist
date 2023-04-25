@@ -106,6 +106,10 @@
 - [barrett-ruth/import-cost.nvim](https://github.com/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/import-cost.nvim)
 - [bennypowers/template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/stars/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/template-literal-comments.nvim)
 
+#### tsc(TypeScript compiler)
+
+- [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/tsc.nvim)
+
 #### Formatter
 
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)

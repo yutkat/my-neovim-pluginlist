@@ -423,6 +423,7 @@
 - [EthanJWright/gpt.nvim](https://github.com/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/stars/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/gpt.nvim)
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) ![](https://img.shields.io/github/stars/Bryley/neoai.nvim) ![](https://img.shields.io/github/last-commit/Bryley/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/Bryley/neoai.nvim)
 - [gsuuon/llm.nvim](https://github.com/gsuuon/llm.nvim) ![](https://img.shields.io/github/stars/gsuuon/llm.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/llm.nvim)
+- [deifyed/naVi](https://github.com/deifyed/naVi) ![](https://img.shields.io/github/stars/deifyed/naVi) ![](https://img.shields.io/github/last-commit/deifyed/naVi) ![](https://img.shields.io/github/commit-activity/y/deifyed/naVi)
 
 ##### OpenAI Review
 
