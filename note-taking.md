@@ -7,6 +7,7 @@
   * [Zettelkasten](#zettelkasten)
   * [Markdown](#markdown)
   * [ToDo](#todo)
+    + [Taskwarrior](#taskwarrior)
   * [Obsidian](#obsidian)
   * [Google Keep](#google-keep)
   * [Dendron](#dendron)
@@ -68,6 +69,10 @@
 - [ca-mantis-shrimp/Todoist.nvim](https://github.com/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/stars/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/last-commit/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/ca-mantis-shrimp/Todoist.nvim)
 - [jed-richards/todo.nvim](https://github.com/jed-richards/todo.nvim) ![](https://img.shields.io/github/stars/jed-richards/todo.nvim) ![](https://img.shields.io/github/last-commit/jed-richards/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/jed-richards/todo.nvim)
 - [oncomouse/todo.nvim](https://github.com/oncomouse/todo.nvim) ![](https://img.shields.io/github/stars/oncomouse/todo.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/todo.nvim)
+
+### Taskwarrior
+
+- [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim) ![](https://img.shields.io/github/stars/hugginsio/twig.nvim) ![](https://img.shields.io/github/last-commit/hugginsio/twig.nvim) ![](https://img.shields.io/github/commit-activity/y/hugginsio/twig.nvim)
 
 ## Obsidian
 

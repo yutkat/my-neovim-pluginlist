@@ -31,6 +31,7 @@
 - [niuiic/multiple-session.nvim](https://github.com/niuiic/multiple-session.nvim) ![](https://img.shields.io/github/stars/niuiic/multiple-session.nvim) ![](https://img.shields.io/github/last-commit/niuiic/multiple-session.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/multiple-session.nvim)
 - [Trouble-Truffle/sesh.nvim](https://github.com/Trouble-Truffle/sesh.nvim) ![](https://img.shields.io/github/stars/Trouble-Truffle/sesh.nvim) ![](https://img.shields.io/github/last-commit/Trouble-Truffle/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/Trouble-Truffle/sesh.nvim)
 - [liouk/jam-sessions.nvim](https://github.com/liouk/jam-sessions.nvim) ![](https://img.shields.io/github/stars/liouk/jam-sessions.nvim) ![](https://img.shields.io/github/last-commit/liouk/jam-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/jam-sessions.nvim)
+- [NiamhFerns/sesh.nvim](https://github.com/NiamhFerns/sesh.nvim) ![](https://img.shields.io/github/stars/NiamhFerns/sesh.nvim) ![](https://img.shields.io/github/last-commit/NiamhFerns/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/NiamhFerns/sesh.nvim)
 
 ## Session Selector
 
