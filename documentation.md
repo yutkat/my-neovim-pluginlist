@@ -44,6 +44,7 @@
 - [Iron-E/nvim-marktext](https://github.com/Iron-E/nvim-marktext) ![](https://img.shields.io/github/stars/Iron-E/nvim-marktext) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-marktext) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-marktext)
 - [sherlockhomeless/nvim-markdown](https://github.com/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/stars/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/last-commit/sherlockhomeless/nvim-markdown) ![](https://img.shields.io/github/commit-activity/y/sherlockhomeless/nvim-markdown)
 - [oncomouse/markdown.nvim](https://github.com/oncomouse/markdown.nvim) ![](https://img.shields.io/github/stars/oncomouse/markdown.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/markdown.nvim)
+- [hneutr/hnetxt-nvim](https://github.com/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/stars/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/last-commit/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/commit-activity/y/hneutr/hnetxt-nvim)
 
 #### Markdown link
 

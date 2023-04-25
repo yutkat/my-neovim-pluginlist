@@ -180,6 +180,7 @@
 - [fuadsaud/rhizome.nvim](https://github.com/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/stars/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/last-commit/fuadsaud/rhizome.nvim) ![](https://img.shields.io/github/commit-activity/y/fuadsaud/rhizome.nvim)
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) ![](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![](https://img.shields.io/github/last-commit/backdround/tabscope.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/tabscope.nvim)
 - [kkafar/nvim-manager](https://github.com/kkafar/nvim-manager) ![](https://img.shields.io/github/stars/kkafar/nvim-manager) ![](https://img.shields.io/github/last-commit/kkafar/nvim-manager) ![](https://img.shields.io/github/commit-activity/y/kkafar/nvim-manager)
+- [medwatt/tabby.nvim](https://github.com/medwatt/tabby.nvim) ![](https://img.shields.io/github/stars/medwatt/tabby.nvim) ![](https://img.shields.io/github/last-commit/medwatt/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/medwatt/tabby.nvim)
 
 ### select
 
