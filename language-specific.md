@@ -5,6 +5,7 @@
 - [Language specific](#language-specific)
   * [Programing Language / Framework](#programing-language--framework)
     + [Javascript/Typescript](#javascripttypescript)
+      - [tsc(TypeScript compiler)](#tsctypescript-compiler)
       - [Formatter](#formatter)
       - [tsserver](#tsserver)
       - [Test](#test)
@@ -83,6 +84,7 @@
       - [SQL](#sql)
       - [PostgreSQL](#postgresql)
       - [MongoDB](#mongodb)
+      - [SurrealDB](#surrealdb)
     + [Jenkins](#jenkins)
     + [Drools Rule Language](#drools-rule-language)
 - [Competitive programming](#competitive-programming)
@@ -537,6 +539,10 @@
 #### MongoDB
 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
+
+#### SurrealDB
+
+- [DariusCorvus/tree-sitter-surrealdb.nvim](https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/stars/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/last-commit/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/commit-activity/y/DariusCorvus/tree-sitter-surrealdb.nvim)
 
 ### Jenkins
 

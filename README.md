@@ -504,6 +504,7 @@
 - [superDross/spellbound.nvim](https://github.com/superDross/spellbound.nvim) ![](https://img.shields.io/github/stars/superDross/spellbound.nvim) ![](https://img.shields.io/github/last-commit/superDross/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/superDross/spellbound.nvim)
 - [norseghost/nvimwordlist](https://github.com/norseghost/nvimwordlist) ![](https://img.shields.io/github/stars/norseghost/nvimwordlist) ![](https://img.shields.io/github/last-commit/norseghost/nvimwordlist) ![](https://img.shields.io/github/commit-activity/y/norseghost/nvimwordlist)
 - [MenBrial/spell.nvim](https://github.com/MenBrial/spell.nvim) ![](https://img.shields.io/github/stars/MenBrial/spell.nvim) ![](https://img.shields.io/github/last-commit/MenBrial/spell.nvim) ![](https://img.shields.io/github/commit-activity/y/MenBrial/spell.nvim)
+- [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) ![](https://img.shields.io/github/stars/davidmh/cspell.nvim) ![](https://img.shields.io/github/last-commit/davidmh/cspell.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/cspell.nvim)
 
 #### Vale
 
