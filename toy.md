@@ -10,6 +10,7 @@
   * [Video](#video)
   * [Game](#game)
       - [Typing](#typing)
+  * [Training](#training)
   * [Gesture](#gesture)
   * [Weather](#weather)
   * [Stock price](#stock-price)
@@ -57,6 +58,10 @@
 
 - [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/stars/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/last-commit/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/commit-activity/y/kwakzalver/duckytype.nvim)
+
+## Training
+
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/stars/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/hardtime.nvim)
 
 ## Gesture
 
