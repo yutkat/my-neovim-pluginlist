@@ -21,6 +21,7 @@
   * [git hook](#git-hook)
   * [git info](#git-info)
   * [search](#search)
+  * [git utils](#git-utils)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
@@ -139,6 +140,10 @@
 - [aaronhallaert/ts-advanced-git-search.nvim](https://github.com/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/ts-advanced-git-search.nvim)
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
+
+## git utils
+
+- [yutkat/convert-git-url.nvim](https://github.com/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/stars/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/last-commit/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/convert-git-url.nvim)
 
 # GitHub
 

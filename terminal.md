@@ -6,6 +6,7 @@
   * [Terminal Enhancement](#terminal-enhancement)
   * [Open](#open)
   * [Edit](#edit)
+  * [Jump](#jump)
   * [External terminal](#external-terminal)
   * [Terminal Selector](#terminal-selector)
   * [Neovim in Neovim](#neovim-in-neovim)
@@ -49,6 +50,10 @@
 ### Edit
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
+
+### Jump
+
+- [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) ![](https://img.shields.io/github/stars/yutkat/term-gf.nvim) ![](https://img.shields.io/github/last-commit/yutkat/term-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/term-gf.nvim)
 
 ### External terminal
 

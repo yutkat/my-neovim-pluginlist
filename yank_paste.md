@@ -5,6 +5,7 @@
 - [Yank](#yank)
   * [Register Selector](#register-selector)
   * [OSC52](#osc52)
+  * [Save](#save)
 - [Paste](#paste)
   * [Wise paste](#wise-paste)
   * [Cyclic paste](#cyclic-paste)
@@ -29,6 +30,11 @@
 
 - [ojroques/nvim-oscyank](https://github.com/ojroques/nvim-oscyank) ![](https://img.shields.io/github/stars/ojroques/nvim-oscyank) ![](https://img.shields.io/github/last-commit/ojroques/nvim-oscyank) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-oscyank)
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/stars/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/last-commit/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/smartyank.nvim)
+- [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) ![](https://img.shields.io/github/stars/yutkat/osc52.nvim) ![](https://img.shields.io/github/last-commit/yutkat/osc52.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/osc52.nvim)
+
+## Save
+
+- [yutkat/save-clipboard-on-exit.nvim](https://github.com/yutkat/save-clipboard-on-exit.nvim) ![](https://img.shields.io/github/stars/yutkat/save-clipboard-on-exit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/save-clipboard-on-exit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/save-clipboard-on-exit.nvim)
 
 # Paste
 

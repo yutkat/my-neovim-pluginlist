@@ -20,6 +20,7 @@
   * [Window Management](#window-management)
     + [swap](#swap)
     + [layout](#layout)
+    + [split](#split)
     + [resize](#resize)
     + [maximize](#maximize)
     + [focus](#focus)
@@ -147,6 +148,10 @@
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) ![](https://img.shields.io/github/stars/sindrets/winshift.nvim) ![](https://img.shields.io/github/last-commit/sindrets/winshift.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/winshift.nvim)
 - [reanxp/nvim-window](https://github.com/reanxp/nvim-window) ![](https://img.shields.io/github/stars/reanxp/nvim-window) ![](https://img.shields.io/github/last-commit/reanxp/nvim-window) ![](https://img.shields.io/github/commit-activity/y/reanxp/nvim-window)
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) ![](https://img.shields.io/github/stars/itsFrank/nvim-swell) ![](https://img.shields.io/github/last-commit/itsFrank/nvim-swell) ![](https://img.shields.io/github/commit-activity/y/itsFrank/nvim-swell)
+
+#### split
+
+- [yutkat/spiral-split.nvim](https://github.com/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/stars/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/last-commit/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/spiral-split.nvim)
 
 #### resize
 
