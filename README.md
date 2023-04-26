@@ -490,6 +490,7 @@
 ### History
 
 - [nvim-telescope/telescope-smart-history.nvim](https://github.com/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-smart-history.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-smart-history.nvim)
+- [yutkat/history-ignore.nvim](https://github.com/yutkat/history-ignore.nvim) ![](https://img.shields.io/github/stars/yutkat/history-ignore.nvim) ![](https://img.shields.io/github/last-commit/yutkat/history-ignore.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/history-ignore.nvim)
 
 ### Spell
 

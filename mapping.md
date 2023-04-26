@@ -7,6 +7,11 @@
   * [Mapping search](#mapping-search)
   * [Prefix Key Binding](#prefix-key-binding)
   * [Mapping toggle](#mapping-toggle)
+  * [Improve Mappings](#improve-mappings)
+    + [Normal Mode](#normal-mode)
+      - [Word Motion](#word-motion)
+    + [Insert Mode](#insert-mode)
+      - [Delete word](#delete-word)
 
 <!-- tocstop -->
 
@@ -47,3 +52,17 @@
 
 - [paulfrische/mode.nvim](https://github.com/paulfrische/mode.nvim) ![](https://img.shields.io/github/stars/paulfrische/mode.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mode.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mode.nvim)
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
+
+## Improve Mappings
+
+### Normal Mode
+
+#### Word Motion
+
+- [yutkat/wb-only-current-line.nvim](https://github.com/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/stars/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/last-commit/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/wb-only-current-line.nvim)
+
+### Insert Mode
+
+#### Delete word
+
+- [yutkat/delete-word-to-chars.nvim](https://github.com/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/stars/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/last-commit/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/delete-word-to-chars.nvim)
