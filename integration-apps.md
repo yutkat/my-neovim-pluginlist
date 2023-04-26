@@ -188,8 +188,6 @@
 
 #### Chamber
 
-- [hieutran21198/telescope-chamber.nvim](https://github.com/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/stars/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/last-commit/hieutran21198/telescope-chamber.nvim) ![](https://img.shields.io/github/commit-activity/y/hieutran21198/telescope-chamber.nvim)
-
 #### Sphinx
 
 - [stsewd/sphinx.nvim](https://github.com/stsewd/sphinx.nvim) ![](https://img.shields.io/github/stars/stsewd/sphinx.nvim) ![](https://img.shields.io/github/last-commit/stsewd/sphinx.nvim) ![](https://img.shields.io/github/commit-activity/y/stsewd/sphinx.nvim)
