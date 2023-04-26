@@ -393,7 +393,6 @@
 - [aarondiel/spread.nvim](https://github.com/aarondiel/spread.nvim) ![](https://img.shields.io/github/stars/aarondiel/spread.nvim) ![](https://img.shields.io/github/last-commit/aarondiel/spread.nvim) ![](https://img.shields.io/github/commit-activity/y/aarondiel/spread.nvim)
 - [Wansmer/treesj](https://github.com/Wansmer/treesj) ![](https://img.shields.io/github/stars/Wansmer/treesj) ![](https://img.shields.io/github/last-commit/Wansmer/treesj) ![](https://img.shields.io/github/commit-activity/y/Wansmer/treesj)
 - [bennypowers/splitjoin.nvim](https://github.com/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/stars/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/splitjoin.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/splitjoin.nvim)
-- [Jlll1/split.nvim](https://github.com/Jlll1/split.nvim) ![](https://img.shields.io/github/stars/Jlll1/split.nvim) ![](https://img.shields.io/github/last-commit/Jlll1/split.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlll1/split.nvim)
 - [echasnovski/mini.splitjoin](https://github.com/echasnovski/mini.splitjoin) ![](https://img.shields.io/github/stars/echasnovski/mini.splitjoin) ![](https://img.shields.io/github/last-commit/echasnovski/mini.splitjoin) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.splitjoin)
 
 ### Number
