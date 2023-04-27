@@ -30,6 +30,7 @@
 - [Require](#require)
 - [Hook](#hook)
 - [Mode](#mode)
+- [Buffer](#buffer)
 - [Keymap](#keymap)
 - [autocmd](#autocmd)
 - [Icon](#icon)
@@ -163,6 +164,10 @@
 ## Mode
 
 - [Iron-E/nvim-libmodal](https://github.com/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/stars/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-libmodal) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-libmodal)
+
+## Buffer
+
+- [matu3ba/libbuf.nvim](https://github.com/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/stars/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/last-commit/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/matu3ba/libbuf.nvim)
 
 ## Keymap
 
