@@ -110,6 +110,7 @@
 - [kokardy/md-codeblock-loader.nvim](https://github.com/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/stars/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/last-commit/kokardy/md-codeblock-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/kokardy/md-codeblock-loader.nvim)
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/stars/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/last-commit/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/tsnode-marker.nvim)
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/stars/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/last-commit/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/edit-code-block.nvim)
+- [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-hl-mdcodeblock.lua)
 
 #### Markdown evaluate code
 

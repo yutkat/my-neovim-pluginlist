@@ -50,6 +50,7 @@
 - [nvimdev/flybuf.nvim](https://github.com/nvimdev/flybuf.nvim) ![](https://img.shields.io/github/stars/nvimdev/flybuf.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/flybuf.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/flybuf.nvim)
 - [sentientmachin3/bufswitch.nvim](https://github.com/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/stars/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/last-commit/sentientmachin3/bufswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/sentientmachin3/bufswitch.nvim)
 - [ArmanHZ/nvim-select-buffer](https://github.com/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/stars/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/last-commit/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/commit-activity/y/ArmanHZ/nvim-select-buffer)
+- [Hajime-Suzuki/vuffers.nvim](https://github.com/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/stars/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/last-commit/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Hajime-Suzuki/vuffers.nvim)
 
 ### Other Buffer Switcher
 
