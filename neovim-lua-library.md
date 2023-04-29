@@ -51,6 +51,7 @@
 ## Log
 
 - [Tastyep/structlog.nvim](https://github.com/Tastyep/structlog.nvim) ![](https://img.shields.io/github/stars/Tastyep/structlog.nvim) ![](https://img.shields.io/github/last-commit/Tastyep/structlog.nvim) ![](https://img.shields.io/github/commit-activity/y/Tastyep/structlog.nvim)
+- [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) ![](https://img.shields.io/github/stars/rmagatti/logger.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/logger.nvim)
 
 ## async
 
