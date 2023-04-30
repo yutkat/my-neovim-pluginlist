@@ -17,6 +17,7 @@
       - [Go](#go)
       - [Misc](#misc)
     + [Markdown code block](#markdown-code-block)
+    + [Markdown table](#markdown-table)
     + [Markdown evaluate code](#markdown-evaluate-code)
     + [Styling](#styling)
     + [Markdown checkbox](#markdown-checkbox)
@@ -111,6 +112,10 @@
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/stars/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/last-commit/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/tsnode-marker.nvim)
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/stars/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/last-commit/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/edit-code-block.nvim)
 - [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-hl-mdcodeblock.lua)
+
+#### Markdown table
+
+- [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/stars/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/last-commit/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/edit-markdown-table.nvim)
 
 #### Markdown evaluate code
 
