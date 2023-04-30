@@ -81,6 +81,7 @@
 
 - [ipod825/ranger.nvim](https://github.com/ipod825/ranger.nvim) ![](https://img.shields.io/github/stars/ipod825/ranger.nvim) ![](https://img.shields.io/github/last-commit/ipod825/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/ranger.nvim)
 - [kjuulh/ranger.nvim](https://github.com/kjuulh/ranger.nvim) ![](https://img.shields.io/github/stars/kjuulh/ranger.nvim) ![](https://img.shields.io/github/last-commit/kjuulh/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuulh/ranger.nvim)
+- [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/stars/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/last-commit/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kelly-lin/ranger.nvim)
 
 ## Network File Manager
 

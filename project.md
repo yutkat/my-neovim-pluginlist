@@ -5,6 +5,7 @@
 - [Project](#project)
   * [Project Switcher](#project-switcher)
   * [Project Root Detector](#project-root-detector)
+    + [Monorepo](#monorepo)
   * [Project Local Config](#project-local-config)
   * [Config switcher](#config-switcher)
 
@@ -40,6 +41,10 @@
 - [delphinus/rtr.nvim](https://github.com/delphinus/rtr.nvim) ![](https://img.shields.io/github/stars/delphinus/rtr.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtr.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtr.nvim)
 - [albenisolmos/autochdir.nvim](https://github.com/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/stars/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/autochdir.nvim)
 - [gmartsenkov/root.nvim](https://github.com/gmartsenkov/root.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/root.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/root.nvim)
+
+##### Monorepo
+
+- [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)
 
 #### Project Local Config
 

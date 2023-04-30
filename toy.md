@@ -17,6 +17,7 @@
   * [Study](#study)
   * [Music](#music)
     + [Recording](#recording)
+    + [Type sound](#type-sound)
   * [Screen server](#screen-server)
 
 <!-- tocstop -->
@@ -100,6 +101,10 @@
 ### Recording
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
+
+### Type sound
+
+- [pavlo-skobnikov/metal-pipe.nvim](https://github.com/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/stars/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/last-commit/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlo-skobnikov/metal-pipe.nvim)
 
 ## Screen server
 
