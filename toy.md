@@ -59,6 +59,7 @@
 
 - [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/stars/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/last-commit/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/commit-activity/y/kwakzalver/duckytype.nvim)
+- [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/stars/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/last-commit/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/commit-activity/y/BooleanCube/keylab.nvim)
 
 ## Training
 

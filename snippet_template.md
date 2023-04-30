@@ -20,6 +20,7 @@
 - [dcampos/nvim-snippy](https://github.com/dcampos/nvim-snippy) ![](https://img.shields.io/github/stars/dcampos/nvim-snippy) ![](https://img.shields.io/github/last-commit/dcampos/nvim-snippy) ![](https://img.shields.io/github/commit-activity/y/dcampos/nvim-snippy)
 - [CrispyBaccoon/sayama.nvim](https://github.com/CrispyBaccoon/sayama.nvim) ![](https://img.shields.io/github/stars/CrispyBaccoon/sayama.nvim) ![](https://img.shields.io/github/last-commit/CrispyBaccoon/sayama.nvim) ![](https://img.shields.io/github/commit-activity/y/CrispyBaccoon/sayama.nvim)
 - [cristianoliveira/snipgpt.nvim](https://github.com/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/snipgpt.nvim)
+- [haolian9/parrot.nvim](https://github.com/haolian9/parrot.nvim) ![](https://img.shields.io/github/stars/haolian9/parrot.nvim) ![](https://img.shields.io/github/last-commit/haolian9/parrot.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/parrot.nvim)
 
 #### Snippet definitions
 
