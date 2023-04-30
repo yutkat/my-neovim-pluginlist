@@ -94,8 +94,6 @@
 
 ## Wiki
 
-- [Jxstxs/jaw.nvim](https://github.com/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/stars/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/jaw.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/jaw.nvim)
-
 ## VimWiki
 
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
