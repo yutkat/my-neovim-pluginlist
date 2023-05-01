@@ -102,6 +102,7 @@
 
 - [LintaoAmons/scratch.nvim](https://github.com/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/scratch.nvim)
 - [distek/fnote.nvim](https://github.com/distek/fnote.nvim) ![](https://img.shields.io/github/stars/distek/fnote.nvim) ![](https://img.shields.io/github/last-commit/distek/fnote.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/fnote.nvim)
+- [Sonicfury/scretch](https://github.com/Sonicfury/scretch) ![](https://img.shields.io/github/stars/Sonicfury/scretch) ![](https://img.shields.io/github/last-commit/Sonicfury/scretch) ![](https://img.shields.io/github/commit-activity/y/Sonicfury/scretch)
 
 ## inline note
 

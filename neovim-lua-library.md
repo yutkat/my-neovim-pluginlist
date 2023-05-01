@@ -62,6 +62,7 @@
 - [kevinhwang91/promise-async](https://github.com/kevinhwang91/promise-async) ![](https://img.shields.io/github/stars/kevinhwang91/promise-async) ![](https://img.shields.io/github/last-commit/kevinhwang91/promise-async) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/promise-async)
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) ![](https://img.shields.io/github/stars/lewis6991/async.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/async.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/async.nvim)
 - [ec965/async-uv.nvim](https://github.com/ec965/async-uv.nvim) ![](https://img.shields.io/github/stars/ec965/async-uv.nvim) ![](https://img.shields.io/github/last-commit/ec965/async-uv.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/async-uv.nvim)
+- [Diogo-ss/nvim-async](https://github.com/Diogo-ss/nvim-async) ![](https://img.shields.io/github/stars/Diogo-ss/nvim-async) ![](https://img.shields.io/github/last-commit/Diogo-ss/nvim-async) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/nvim-async)
 
 ## Coroutine
 
