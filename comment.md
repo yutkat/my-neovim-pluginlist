@@ -8,6 +8,7 @@
 - [Todo Comment Highlight](#todo-comment-highlight)
 - [Special Comment](#special-comment)
   * [Annotation](#annotation)
+- [LICENSE](#license)
 
 <!-- tocstop -->
 
@@ -52,3 +53,7 @@
 #### Annotation
 
 - [danymat/neogen](https://github.com/danymat/neogen) ![](https://img.shields.io/github/stars/danymat/neogen) ![](https://img.shields.io/github/last-commit/danymat/neogen) ![](https://img.shields.io/github/commit-activity/y/danymat/neogen)
+
+### LICENSE
+
+- [KronsyC/nvim-license](https://github.com/KronsyC/nvim-license) ![](https://img.shields.io/github/stars/KronsyC/nvim-license) ![](https://img.shields.io/github/last-commit/KronsyC/nvim-license) ![](https://img.shields.io/github/commit-activity/y/KronsyC/nvim-license)
