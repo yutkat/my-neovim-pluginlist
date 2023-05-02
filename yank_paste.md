@@ -19,6 +19,7 @@
 - [vodrazka/paster.nvim](https://github.com/vodrazka/paster.nvim) ![](https://img.shields.io/github/stars/vodrazka/paster.nvim) ![](https://img.shields.io/github/last-commit/vodrazka/paster.nvim) ![](https://img.shields.io/github/commit-activity/y/vodrazka/paster.nvim)
 - [austinliuigi/lasso.nvim](https://github.com/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/stars/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/lasso.nvim)
 - [tsukimizake/nvim-fcopy](https://github.com/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/stars/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/last-commit/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/nvim-fcopy)
+- [Noah4ever/yanklist.nvim](https://github.com/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/stars/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/last-commit/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/commit-activity/y/Noah4ever/yanklist.nvim)
 
 ## Register Selector
 
