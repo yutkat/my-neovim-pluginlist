@@ -50,6 +50,7 @@
     + [Zig](#zig)
     + [C](#c)
     + [Java](#java)
+    + [Kotlin](#kotlin)
     + [Scala](#scala)
     + [Dart, Flutter](#dart-flutter)
     + [Clojure](#clojure)
@@ -381,6 +382,10 @@
 - [Iamnotagenius/mvnsearch.nvim](https://github.com/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/stars/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/last-commit/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Iamnotagenius/mvnsearch.nvim)
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
 
+### Kotlin
+
+- [Mgenuit/nvim-dap-kotlin](https://github.com/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/stars/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/last-commit/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/commit-activity/y/Mgenuit/nvim-dap-kotlin)
+
 ### Scala
 
 - [softinio/scaladex.nvim](https://github.com/softinio/scaladex.nvim) ![](https://img.shields.io/github/stars/softinio/scaladex.nvim) ![](https://img.shields.io/github/last-commit/softinio/scaladex.nvim) ![](https://img.shields.io/github/commit-activity/y/softinio/scaladex.nvim)
@@ -564,3 +569,4 @@
 ## LeetCode
 
 - [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
+- [gh-liu/leetcode.nvim](https://github.com/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/stars/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/leetcode.nvim)

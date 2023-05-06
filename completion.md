@@ -98,6 +98,7 @@
 - [jcdickinson/codeium.nvim](https://github.com/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/stars/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/last-commit/jcdickinson/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdickinson/codeium.nvim)
 - [jinzhongjia/Codegeex.nvim](https://github.com/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/Codegeex.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/Codegeex.nvim)
 - [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) ![](https://img.shields.io/github/stars/codota/tabnine-nvim) ![](https://img.shields.io/github/last-commit/codota/tabnine-nvim) ![](https://img.shields.io/github/commit-activity/y/codota/tabnine-nvim)
+- [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) ![](https://img.shields.io/github/stars/tzachar/cmp-ai) ![](https://img.shields.io/github/last-commit/tzachar/cmp-ai) ![](https://img.shields.io/github/commit-activity/y/tzachar/cmp-ai)
 
 ## Standard Completion
 
