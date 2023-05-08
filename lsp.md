@@ -12,6 +12,8 @@
     + [Hover Doc](#hover-doc)
     + [Formatting](#formatting)
     + [Rename](#rename)
+    + [textDocument](#textdocument)
+      - [LinkedEditingRange](#linkededitingrange)
     + [Semantic Token](#semantic-token)
   * [LSP Progress](#lsp-progress)
   * [LSP Log](#lsp-log)
@@ -113,6 +115,12 @@
 #### Rename
 
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/stars/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/last-commit/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/inc-rename.nvim)
+
+#### textDocument
+
+##### LinkedEditingRange
+
+- [hrsh7th/nvim-linkedit](https://github.com/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-linkedit)
 
 #### Semantic Token
 

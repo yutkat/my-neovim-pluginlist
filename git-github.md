@@ -26,6 +26,7 @@
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
   * [Pull Request](#pull-request)
+  * [Actions](#actions)
   * [Link](#link)
     + [Image](#image)
     + [grep.app](#grepapp)
@@ -98,6 +99,7 @@
 ## git log
 
 - [LhKipp/commit-viewer.nvim](https://github.com/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/stars/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/last-commit/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/LhKipp/commit-viewer.nvim)
+- [senkentarou/telescope-git-log.nvim](https://github.com/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-log.nvim)
 
 ## git lens
 
@@ -165,6 +167,10 @@
 
 - [senkentarou/gopr.nvim](https://github.com/senkentarou/gopr.nvim) ![](https://img.shields.io/github/stars/senkentarou/gopr.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gopr.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gopr.nvim)
 - [rnprest/merge-request.nvim](https://github.com/rnprest/merge-request.nvim) ![](https://img.shields.io/github/stars/rnprest/merge-request.nvim) ![](https://img.shields.io/github/last-commit/rnprest/merge-request.nvim) ![](https://img.shields.io/github/commit-activity/y/rnprest/merge-request.nvim)
+
+## Actions
+
+- [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/stars/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/gh-actions.nvim)
 
 ## Link
 
