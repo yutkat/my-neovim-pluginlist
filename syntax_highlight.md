@@ -53,6 +53,7 @@
 - [AdrianETP/AutoColor.nvim](https://github.com/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/stars/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/last-commit/AdrianETP/AutoColor.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianETP/AutoColor.nvim)
 - [lrangell/theme-cycler.nvim](https://github.com/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/stars/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/last-commit/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/lrangell/theme-cycler.nvim)
 - [ZenLian/winddown.nvim](https://github.com/ZenLian/winddown.nvim) ![](https://img.shields.io/github/stars/ZenLian/winddown.nvim) ![](https://img.shields.io/github/last-commit/ZenLian/winddown.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenLian/winddown.nvim)
+- [ollbx/dark-mode-win.nvim](https://github.com/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/stars/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/last-commit/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/dark-mode-win.nvim)
 
 ### Color name
 
