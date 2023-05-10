@@ -77,7 +77,6 @@
   * [Session](#session)
   * [Mouse](#mouse)
   * [Profiler](#profiler)
-  * [Improve startup time](#improve-startup-time)
 - [Coding](#coding)
   * [Reading assistant feature](#reading-assistant-feature)
     + [Current Position Info](#current-position-info)
@@ -481,10 +480,6 @@
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) ![](https://img.shields.io/github/stars/notomo/gesture.nvim) ![](https://img.shields.io/github/last-commit/notomo/gesture.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/gesture.nvim)
 
 ### Profiler
-
-### Improve startup time
-
-- [lewis6991/impatient.nvim](https://github.com/lewis6991/impatient.nvim) ![](https://img.shields.io/github/stars/lewis6991/impatient.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/impatient.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/impatient.nvim)
 
 ## Coding
 
