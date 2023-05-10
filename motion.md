@@ -39,6 +39,8 @@
 ### Label Jump (Easymotion style)
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) ![](https://img.shields.io/github/stars/ggandor/leap.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap.nvim)
+  - [atusy/leap-wide.nvim](https://github.com/atusy/leap-wide.nvim) ![](https://img.shields.io/github/stars/atusy/leap-wide.nvim) ![](https://img.shields.io/github/last-commit/atusy/leap-wide.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/leap-wide.nvim)
+  - [atusy/leap-search.nvim](https://github.com/atusy/leap-search.nvim) ![](https://img.shields.io/github/stars/atusy/leap-search.nvim) ![](https://img.shields.io/github/last-commit/atusy/leap-search.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/leap-search.nvim)
 - [rlane/pounce.nvim](https://github.com/rlane/pounce.nvim) ![](https://img.shields.io/github/stars/rlane/pounce.nvim) ![](https://img.shields.io/github/last-commit/rlane/pounce.nvim) ![](https://img.shields.io/github/commit-activity/y/rlane/pounce.nvim)
 - [mfussenegger/nvim-treehopper](https://github.com/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/stars/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-treehopper) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-treehopper)
 - [woosaaahh/sj.nvim](https://github.com/woosaaahh/sj.nvim) ![](https://img.shields.io/github/stars/woosaaahh/sj.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/sj.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/sj.nvim)

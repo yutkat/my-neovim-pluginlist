@@ -17,6 +17,7 @@
 - [delphinus/qfheight.nvim](https://github.com/delphinus/qfheight.nvim) ![](https://img.shields.io/github/stars/delphinus/qfheight.nvim) ![](https://img.shields.io/github/last-commit/delphinus/qfheight.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/qfheight.nvim)
 - [nyngwang/NeoWell.lua](https://github.com/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoWell.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoWell.lua)
 - [izo0x90/quickfix_actually.nvim](https://github.com/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/stars/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/last-commit/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/commit-activity/y/izo0x90/quickfix_actually.nvim)
+- [notomo/unionbuf.nvim](https://github.com/notomo/unionbuf.nvim) ![](https://img.shields.io/github/stars/notomo/unionbuf.nvim) ![](https://img.shields.io/github/last-commit/notomo/unionbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/unionbuf.nvim)
 
 ### Syntax
 
