@@ -4,6 +4,7 @@
 
 - [Integration with other apps](#integration-with-other-apps)
   * [Browser Integration](#browser-integration)
+    + [Firefox](#firefox)
     + [live preview](#live-preview)
     + [search](#search)
   * [Other Editor](#other-editor)
@@ -33,6 +34,7 @@
     + [make](#make)
     + [Bazel](#bazel)
     + [ripgrep](#ripgrep)
+    + [locate](#locate)
     + [perf](#perf)
     + [dotnet](#dotnet)
     + [ftp](#ftp)
@@ -119,6 +121,10 @@
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
 - [psaikido/hupoon.nvim](https://github.com/psaikido/hupoon.nvim) ![](https://img.shields.io/github/stars/psaikido/hupoon.nvim) ![](https://img.shields.io/github/last-commit/psaikido/hupoon.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/hupoon.nvim)
 - [mochi-sann/Select2Browser.nvim](https://github.com/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/stars/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/last-commit/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/commit-activity/y/mochi-sann/Select2Browser.nvim)
+
+#### Firefox
+
+- [dawsers/telescope-firefox.nvim](https://github.com/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-firefox.nvim)
 
 #### live preview
 
@@ -250,6 +256,10 @@
 #### ripgrep
 
 - [alanjcfs/rg.nvim](https://github.com/alanjcfs/rg.nvim) ![](https://img.shields.io/github/stars/alanjcfs/rg.nvim) ![](https://img.shields.io/github/last-commit/alanjcfs/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanjcfs/rg.nvim)
+
+#### locate
+
+- [dawsers/telescope-locate.nvim](https://github.com/dawsers/telescope-locate.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-locate.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-locate.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-locate.nvim)
 
 #### perf
 

@@ -78,6 +78,7 @@
 - [LucLabarriere/maker.nvim](https://github.com/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/stars/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/last-commit/LucLabarriere/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/LucLabarriere/maker.nvim)
 - [prmaloney/valet.nvim](https://github.com/prmaloney/valet.nvim) ![](https://img.shields.io/github/stars/prmaloney/valet.nvim) ![](https://img.shields.io/github/last-commit/prmaloney/valet.nvim) ![](https://img.shields.io/github/commit-activity/y/prmaloney/valet.nvim)
 - [paopaol/telescope-command.nvim](https://github.com/paopaol/telescope-command.nvim) ![](https://img.shields.io/github/stars/paopaol/telescope-command.nvim) ![](https://img.shields.io/github/last-commit/paopaol/telescope-command.nvim) ![](https://img.shields.io/github/commit-activity/y/paopaol/telescope-command.nvim)
+- [mvolkmann/autorun.nvim](https://github.com/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/stars/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/last-commit/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/mvolkmann/autorun.nvim)
 
 ## Auto detect style
 
