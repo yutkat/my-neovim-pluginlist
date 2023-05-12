@@ -282,6 +282,7 @@
 #### ctags
 
 - [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
+- [hallestar/nvgtags.nvim](https://github.com/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/stars/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/last-commit/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/commit-activity/y/hallestar/nvgtags.nvim)
 
 #### cheat.sh
 
