@@ -134,6 +134,7 @@
 #### Markdown list
 
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
+- [kaymmm/bullets.nvim](https://github.com/kaymmm/bullets.nvim) ![](https://img.shields.io/github/stars/kaymmm/bullets.nvim) ![](https://img.shields.io/github/last-commit/kaymmm/bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/kaymmm/bullets.nvim)
 
 #### Markdown converter
 

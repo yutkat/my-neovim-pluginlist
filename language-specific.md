@@ -164,6 +164,7 @@
 - [sigmaSd/nvim-tailwind](https://github.com/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/stars/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/last-commit/sigmaSd/nvim-tailwind) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/nvim-tailwind)
 - [laytan/tailwind-sorter.nvim](https://github.com/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/stars/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/last-commit/laytan/tailwind-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/laytan/tailwind-sorter.nvim)
 - [themaxmarchuk/tailwindcss-colors.nvim](https://github.com/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/stars/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/last-commit/themaxmarchuk/tailwindcss-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/themaxmarchuk/tailwindcss-colors.nvim)
+- [razak17/tailwind-fold.nvim](https://github.com/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/stars/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/last-commit/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/razak17/tailwind-fold.nvim)
 
 #### Bulma
 
