@@ -79,6 +79,7 @@
     + [TabNews](#tabnews)
   * [CI](#ci)
     + [CircleCI](#circleci)
+    + [Jenkins](#jenkins)
   * [OS](#os)
     + [Linux](#linux)
       - [gnome](#gnome)
@@ -470,6 +471,10 @@
 #### CircleCI
 
 - [tomoakley/circleci.nvim](https://github.com/tomoakley/circleci.nvim) ![](https://img.shields.io/github/stars/tomoakley/circleci.nvim) ![](https://img.shields.io/github/last-commit/tomoakley/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/tomoakley/circleci.nvim)
+
+#### Jenkins
+
+- [cvanhoosear/jenkins-linter.nvim](https://github.com/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/stars/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/last-commit/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/cvanhoosear/jenkins-linter.nvim)
 
 ### OS
 

@@ -14,6 +14,8 @@
     + [Rename](#rename)
     + [textDocument](#textdocument)
       - [LinkedEditingRange](#linkededitingrange)
+    + [window](#window)
+      - [logMessage](#logmessage)
     + [Semantic Token](#semantic-token)
   * [LSP Progress](#lsp-progress)
   * [LSP Log](#lsp-log)
@@ -122,6 +124,12 @@
 ##### LinkedEditingRange
 
 - [hrsh7th/nvim-linkedit](https://github.com/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-linkedit)
+
+#### window
+
+##### logMessage
+
+- [mhanberg/control-panel.nvim](https://github.com/mhanberg/control-panel.nvim) ![](https://img.shields.io/github/stars/mhanberg/control-panel.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/control-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/control-panel.nvim)
 
 #### Semantic Token
 

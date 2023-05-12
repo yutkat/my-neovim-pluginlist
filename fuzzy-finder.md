@@ -47,6 +47,7 @@
 
 - [adoyle-h/ad-telescope-extensions.nvim](https://github.com/adoyle-h/ad-telescope-extensions.nvim) ![](https://img.shields.io/github/stars/adoyle-h/ad-telescope-extensions.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/ad-telescope-extensions.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/ad-telescope-extensions.nvim)
 - [adoyle-h/telescope-extension-maker.nvim](https://github.com/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/stars/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/telescope-extension-maker.nvim)
+- [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) ![](https://img.shields.io/github/stars/Theo-Steiner/togglescope) ![](https://img.shields.io/github/last-commit/Theo-Steiner/togglescope) ![](https://img.shields.io/github/commit-activity/y/Theo-Steiner/togglescope)
 
 #### Grep
 
