@@ -358,7 +358,6 @@
 
 - [Cyuria/discord.nvim](https://github.com/Cyuria/discord.nvim) ![](https://img.shields.io/github/stars/Cyuria/discord.nvim) ![](https://img.shields.io/github/last-commit/Cyuria/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/Cyuria/discord.nvim)
 - [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
-- [pandasoli/discord-presence.nvim](https://github.com/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/stars/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/last-commit/pandasoli/discord-presence.nvim) ![](https://img.shields.io/github/commit-activity/y/pandasoli/discord-presence.nvim)
 
 #### Slack
 
