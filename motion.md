@@ -51,6 +51,7 @@
 - [echasnovski/mini.jump2d](https://github.com/echasnovski/mini.jump2d) ![](https://img.shields.io/github/stars/echasnovski/mini.jump2d) ![](https://img.shields.io/github/last-commit/echasnovski/mini.jump2d) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.jump2d)
 - [Weissle/easy-action](https://github.com/Weissle/easy-action) ![](https://img.shields.io/github/stars/Weissle/easy-action) ![](https://img.shields.io/github/last-commit/Weissle/easy-action) ![](https://img.shields.io/github/commit-activity/y/Weissle/easy-action)
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
+- [haolian9/gallop.nvim](https://github.com/haolian9/gallop.nvim) ![](https://img.shields.io/github/stars/haolian9/gallop.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gallop.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gallop.nvim)
 
 ### Horizontal Move
 
