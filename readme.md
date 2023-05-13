@@ -487,6 +487,7 @@
 
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/stars/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/last-commit/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/commit-activity/y/haringsrob/nvim_context_vt)
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
+- [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/stars/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/loctvl842/breadcrumb.nvim)
 
 #### Current Position Info
 

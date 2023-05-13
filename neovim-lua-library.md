@@ -35,6 +35,7 @@
 - [autocmd](#autocmd)
 - [Icon](#icon)
 - [Unicode](#unicode)
+- [random variable names](#random-variable-names)
 - [Mathematics](#mathematics)
 - [Treesitter](#treesitter)
 - [Enhanced Standard Features](#enhanced-standard-features)
@@ -193,6 +194,10 @@
 ## Unicode
 
 - [uga-rosa/utf8.nvim](https://github.com/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/stars/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/utf8.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/utf8.nvim)
+
+## random variable names
+
+- [ghidalgo93/boring_wozniak.nvim](https://github.com/ghidalgo93/boring_wozniak.nvim) ![](https://img.shields.io/github/stars/ghidalgo93/boring_wozniak.nvim) ![](https://img.shields.io/github/last-commit/ghidalgo93/boring_wozniak.nvim) ![](https://img.shields.io/github/commit-activity/y/ghidalgo93/boring_wozniak.nvim)
 
 ## Mathematics
 
