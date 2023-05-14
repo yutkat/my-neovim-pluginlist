@@ -71,6 +71,7 @@
 - [jed-richards/todo.nvim](https://github.com/jed-richards/todo.nvim) ![](https://img.shields.io/github/stars/jed-richards/todo.nvim) ![](https://img.shields.io/github/last-commit/jed-richards/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/jed-richards/todo.nvim)
 - [oncomouse/todo.nvim](https://github.com/oncomouse/todo.nvim) ![](https://img.shields.io/github/stars/oncomouse/todo.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/todo.nvim)
 - [mvolkmann/todo-quickfix.nvim](https://github.com/mvolkmann/todo-quickfix.nvim) ![](https://img.shields.io/github/stars/mvolkmann/todo-quickfix.nvim) ![](https://img.shields.io/github/last-commit/mvolkmann/todo-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/mvolkmann/todo-quickfix.nvim)
+- [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) ![](https://img.shields.io/github/stars/jellydn/my-note.nvim) ![](https://img.shields.io/github/last-commit/jellydn/my-note.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/my-note.nvim)
 
 ### Taskwarrior
 
