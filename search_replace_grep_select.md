@@ -73,6 +73,7 @@
 - [lucaspellegrinelli/rip.nvim](https://github.com/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/stars/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/last-commit/lucaspellegrinelli/rip.nvim) ![](https://img.shields.io/github/commit-activity/y/lucaspellegrinelli/rip.nvim)
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-alt-substitute)
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) ![](https://img.shields.io/github/stars/AckslD/muren.nvim) ![](https://img.shields.io/github/last-commit/AckslD/muren.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/muren.nvim)
+- [deponian/nvim-scalpelua](https://github.com/deponian/nvim-scalpelua) ![](https://img.shields.io/github/stars/deponian/nvim-scalpelua) ![](https://img.shields.io/github/last-commit/deponian/nvim-scalpelua) ![](https://img.shields.io/github/commit-activity/y/deponian/nvim-scalpelua)
 
 # Grep
 
