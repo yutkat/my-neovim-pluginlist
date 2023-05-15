@@ -434,6 +434,7 @@
 - [Bryley/neoai.nvim](https://github.com/Bryley/neoai.nvim) ![](https://img.shields.io/github/stars/Bryley/neoai.nvim) ![](https://img.shields.io/github/last-commit/Bryley/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/Bryley/neoai.nvim)
 - [gsuuon/llm.nvim](https://github.com/gsuuon/llm.nvim) ![](https://img.shields.io/github/stars/gsuuon/llm.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/llm.nvim)
 - [deifyed/naVi](https://github.com/deifyed/naVi) ![](https://img.shields.io/github/stars/deifyed/naVi) ![](https://img.shields.io/github/last-commit/deifyed/naVi) ![](https://img.shields.io/github/commit-activity/y/deifyed/naVi)
+- [goddoe/nvim-ai-assistant](https://github.com/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/stars/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/goddoe/nvim-ai-assistant)
 
 ##### OpenAI Review
 

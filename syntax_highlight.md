@@ -7,6 +7,7 @@
   * [Colorizer](#colorizer)
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
+  * [Colorscheme overwrite](#colorscheme-overwrite)
   * [Color name](#color-name)
   * [Long line highlight](#long-line-highlight)
   * [Current word highlight](#current-word-highlight)
@@ -54,6 +55,11 @@
 - [lrangell/theme-cycler.nvim](https://github.com/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/stars/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/last-commit/lrangell/theme-cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/lrangell/theme-cycler.nvim)
 - [ZenLian/winddown.nvim](https://github.com/ZenLian/winddown.nvim) ![](https://img.shields.io/github/stars/ZenLian/winddown.nvim) ![](https://img.shields.io/github/last-commit/ZenLian/winddown.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenLian/winddown.nvim)
 - [ollbx/dark-mode-win.nvim](https://github.com/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/stars/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/last-commit/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/dark-mode-win.nvim)
+- [duboisf/crepuscule.nvim](https://github.com/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/stars/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/last-commit/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/crepuscule.nvim)
+
+### Colorscheme overwrite
+
+- [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
 
 ### Color name
 
