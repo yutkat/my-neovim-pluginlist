@@ -537,6 +537,7 @@
 - [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
 - [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
 - [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
+- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) ![](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-dbee)
 
 #### PostgreSQL
 
