@@ -25,6 +25,7 @@
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
+  * [GitHub link](#github-link)
   * [Pull Request](#pull-request)
   * [Actions](#actions)
   * [Link](#link)
@@ -159,9 +160,14 @@
 ## GitHub tweaks
 
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
-- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
+
+## GitHub link
+
+- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
 - [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
+- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
+- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
 
 ## Pull Request
 

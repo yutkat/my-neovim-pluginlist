@@ -35,6 +35,7 @@
 - [dinhhuy258/sfm-bookmark.nvim](https://github.com/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-bookmark.nvim)
 - [muryp/nvim-muryp-telescope-bookmark](https://github.com/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-telescope-bookmark) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-telescope-bookmark)
 - [tomasky/bookmarks.nvim](https://github.com/tomasky/bookmarks.nvim) ![](https://img.shields.io/github/stars/tomasky/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/tomasky/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/tomasky/bookmarks.nvim)
+- [ChristianChiarulli/bookmark.nvim](https://github.com/ChristianChiarulli/bookmark.nvim) ![](https://img.shields.io/github/stars/ChristianChiarulli/bookmark.nvim) ![](https://img.shields.io/github/last-commit/ChristianChiarulli/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristianChiarulli/bookmark.nvim)
 
 ### etc
 

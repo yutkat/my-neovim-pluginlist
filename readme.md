@@ -274,10 +274,12 @@
 - [nguyenvukhang/nvim-toggler](https://github.com/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/stars/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/last-commit/nguyenvukhang/nvim-toggler) ![](https://img.shields.io/github/commit-activity/y/nguyenvukhang/nvim-toggler)
 - [Dotrar/neovim-arithmagic](https://github.com/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/stars/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/last-commit/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/commit-activity/y/Dotrar/neovim-arithmagic)
 - [frenzox/nvim-uconv](https://github.com/frenzox/nvim-uconv) ![](https://img.shields.io/github/stars/frenzox/nvim-uconv) ![](https://img.shields.io/github/last-commit/frenzox/nvim-uconv) ![](https://img.shields.io/github/commit-activity/y/frenzox/nvim-uconv)
+- [RutaTang/compter.nvim](https://github.com/RutaTang/compter.nvim) ![](https://img.shields.io/github/stars/RutaTang/compter.nvim) ![](https://img.shields.io/github/last-commit/RutaTang/compter.nvim) ![](https://img.shields.io/github/commit-activity/y/RutaTang/compter.nvim)
 
 ### Convert Case
 
 - [monaqa/dial.nvim(dial-augends-case)](https://github.com/monaqa/dial.nvim) ![](https://img.shields.io/github/stars/monaqa/dial.nvim) ![](https://img.shields.io/github/last-commit/monaqa/dial.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/dial.nvim)
+- [chenasraf/text-transform.nvim](https://github.com/chenasraf/text-transform.nvim) ![](https://img.shields.io/github/stars/chenasraf/text-transform.nvim) ![](https://img.shields.io/github/last-commit/chenasraf/text-transform.nvim) ![](https://img.shields.io/github/commit-activity/y/chenasraf/text-transform.nvim)
 - [CKolkey/ts-node-action](https://github.com/CKolkey/ts-node-action) ![](https://img.shields.io/github/stars/CKolkey/ts-node-action) ![](https://img.shields.io/github/last-commit/CKolkey/ts-node-action) ![](https://img.shields.io/github/commit-activity/y/CKolkey/ts-node-action)
 - [josa42/nvim-actions](https://github.com/josa42/nvim-actions) ![](https://img.shields.io/github/stars/josa42/nvim-actions) ![](https://img.shields.io/github/last-commit/josa42/nvim-actions) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-actions)
 - [johmsalas/text-case.nvim](https://github.com/johmsalas/text-case.nvim) ![](https://img.shields.io/github/stars/johmsalas/text-case.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/text-case.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/text-case.nvim)
@@ -655,6 +657,7 @@
 ### Calendar
 
 - [gaoDean/cal.nvim](https://github.com/gaoDean/cal.nvim) ![](https://img.shields.io/github/stars/gaoDean/cal.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/cal.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/cal.nvim)
+- [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/stars/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/Calendar.nvim)
 
 ### Presentation
 
