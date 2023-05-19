@@ -550,6 +550,7 @@
 - [jalvesaq/dict.nvim](https://github.com/jalvesaq/dict.nvim) ![](https://img.shields.io/github/stars/jalvesaq/dict.nvim) ![](https://img.shields.io/github/last-commit/jalvesaq/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/jalvesaq/dict.nvim)
 - [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) ![](https://img.shields.io/github/stars/niuiic/translate.nvim) ![](https://img.shields.io/github/last-commit/niuiic/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/translate.nvim)
 - [kiddos/translate.nvim](https://github.com/kiddos/translate.nvim) ![](https://img.shields.io/github/stars/kiddos/translate.nvim) ![](https://img.shields.io/github/last-commit/kiddos/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/translate.nvim)
+- [nabezokodaikon/translate.nvim](https://github.com/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/stars/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/last-commit/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/nabezokodaikon/translate.nvim)
 
 ### Manual
 
