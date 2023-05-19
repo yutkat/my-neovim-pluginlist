@@ -9,6 +9,7 @@
   * [Jump](#jump)
   * [External terminal](#external-terminal)
   * [Terminal Selector](#terminal-selector)
+  * [Command](#command)
   * [Neovim in Neovim](#neovim-in-neovim)
 
 <!-- tocstop -->
@@ -62,6 +63,10 @@
 ### Terminal Selector
 
 - [tknightz/telescope-termfinder.nvim](https://github.com/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/stars/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/last-commit/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/tknightz/telescope-termfinder.nvim)
+
+### Command
+
+- [FredeEB/alias.nvim](https://github.com/FredeEB/alias.nvim) ![](https://img.shields.io/github/stars/FredeEB/alias.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/alias.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/alias.nvim)
 
 ### Neovim in Neovim
 
