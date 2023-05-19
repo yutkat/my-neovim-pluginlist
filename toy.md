@@ -111,3 +111,4 @@
 
 - [folke/drop.nvim](https://github.com/folke/drop.nvim) ![](https://img.shields.io/github/stars/folke/drop.nvim) ![](https://img.shields.io/github/last-commit/folke/drop.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/drop.nvim)
 - [yunusey/nvim-batman](https://github.com/yunusey/nvim-batman) ![](https://img.shields.io/github/stars/yunusey/nvim-batman) ![](https://img.shields.io/github/last-commit/yunusey/nvim-batman) ![](https://img.shields.io/github/commit-activity/y/yunusey/nvim-batman)
+- [jovanlanik/fsplash.nvim](https://github.com/jovanlanik/fsplash.nvim) ![](https://img.shields.io/github/stars/jovanlanik/fsplash.nvim) ![](https://img.shields.io/github/last-commit/jovanlanik/fsplash.nvim) ![](https://img.shields.io/github/commit-activity/y/jovanlanik/fsplash.nvim)
