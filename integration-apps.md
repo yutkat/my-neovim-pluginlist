@@ -278,6 +278,7 @@
 
 - [noorwachid/nvim-rsync](https://github.com/noorwachid/nvim-rsync) ![](https://img.shields.io/github/stars/noorwachid/nvim-rsync) ![](https://img.shields.io/github/last-commit/noorwachid/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/noorwachid/nvim-rsync)
 - [uiofgh/rsync.nvim](https://github.com/uiofgh/rsync.nvim) ![](https://img.shields.io/github/stars/uiofgh/rsync.nvim) ![](https://img.shields.io/github/last-commit/uiofgh/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/uiofgh/rsync.nvim)
+- [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/stars/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/rsync.nvim)
 
 #### ctags
 
