@@ -4,25 +4,24 @@ on:
   push:
     branches:
       - main
-  pull_request:
-    branches:
-      - main
 
 jobs:
   github:
     runs-on: ubuntu-latest
     container: ubuntu:latest
     steps:
-      - uses: actions/checkout@v3
       - run: |
           apt update
           apt-get install -y git curl
+      - run: git config --global --add safe.directory $(realpath .)
+      - uses: actions/checkout@v3
+      - name: latest commit message
+        run: |
+          echo LATEST_MESSAGE=$(git log --no-merges --oneline -1 --pretty=%f) >> $GITHUB_ENV
       - name: check commit message
-        id: check_message
-        run: exit $(test $(git log --no-merges --oneline -1 --pretty=%f) = "Add")
-        continue-on-error: true
+        run: echo RESULT=$(test "$LATEST_MESSAGE" = "Add") >> $GITHUB_ENV
       - run: |
           curl -X POST -H "Authorization: token $GH_TOKEN" -H "Accept: application/vnd.github.v3+json" https://api.github.com/repos/yutkat/new-neovim-plugin-with-category-rss/dispatches -d '{"event_type":"trigger-new-repo"}'
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-        if: steps.check_message.outcome == 'success'
+        if: env.LATEST_MESSAGE == 'Add'
