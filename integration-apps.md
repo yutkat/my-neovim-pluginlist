@@ -512,6 +512,8 @@
 
 ### Mac
 
+- [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
+
 ### iOS
 
 - [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
