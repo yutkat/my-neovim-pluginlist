@@ -15,6 +15,8 @@ jobs:
           apt-get install -y git curl
       - run: git config --global --add safe.directory $(realpath .)
       - uses: actions/checkout@v3
+        with:
+          ref: main
       - name: latest commit message
         run: |
           echo LATEST_MESSAGE=$(git log --no-merges -n -1 --pretty=%s) >> $GITHUB_ENV
