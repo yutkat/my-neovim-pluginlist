@@ -31,6 +31,7 @@
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/orgWiki.nvim)
 - [joaomsa/telescope-orgmode.nvim](https://github.com/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/stars/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/last-commit/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomsa/telescope-orgmode.nvim)
 - [danilshvalov/org-modern.nvim](https://github.com/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/stars/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/org-modern.nvim)
+- [Jobin-Nelson/org-tangle.nvim](https://github.com/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/stars/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/last-commit/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/Jobin-Nelson/org-tangle.nvim)
 
 ## Zettelkasten
 
