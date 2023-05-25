@@ -17,7 +17,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: latest commit message
         run: |
-          echo LATEST_MESSAGE=$(git log --no-merges --oneline -1 --pretty=%f) >> $GITHUB_ENV
+          echo LATEST_MESSAGE=$(git log --no-merges -n -1 --pretty=%s) >> $GITHUB_ENV
       - name: check commit message
         run: echo $LATEST_MESSAGE
       - run: |
