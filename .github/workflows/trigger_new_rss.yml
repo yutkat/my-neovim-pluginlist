@@ -17,7 +17,7 @@ jobs:
       - name: latest commit message
         run: |
           echo LATEST_MESSAGE=$(git log --no-merges -n -1 --pretty=%s) >> $GITHUB_ENV
-        working-directory: ${{ github.repository }}
+        working-directory: ${{ github.event.repository.name }}
       - name: check commit message
         run: echo $LATEST_MESSAGE
       - run: |
@@ -25,4 +25,4 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         if: env.LATEST_MESSAGE == 'Add'
-        working-directory: ${{ github.repository }}
+        working-directory: ${{ github.event.repository.name }}
