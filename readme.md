@@ -510,6 +510,7 @@
 - [shellRaining/hlchunk.nvim](https://github.com/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/stars/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/shellRaining/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/shellRaining/hlchunk.nvim)
 - [huy-hng/anyline.nvim](https://github.com/huy-hng/anyline.nvim) ![](https://img.shields.io/github/stars/huy-hng/anyline.nvim) ![](https://img.shields.io/github/last-commit/huy-hng/anyline.nvim) ![](https://img.shields.io/github/commit-activity/y/huy-hng/anyline.nvim)
 - [nvimdev/indentmini.nvim](https://github.com/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/stars/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/indentmini.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/indentmini.nvim)
+- [TheGLander/indent-rainbowline.nvim](https://github.com/TheGLander/indent-rainbowline.nvim) ![](https://img.shields.io/github/stars/TheGLander/indent-rainbowline.nvim) ![](https://img.shields.io/github/last-commit/TheGLander/indent-rainbowline.nvim) ![](https://img.shields.io/github/commit-activity/y/TheGLander/indent-rainbowline.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
 
@@ -625,6 +626,7 @@
 #### bionic reading
 
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/stars/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/last-commit/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/commit-activity/y/JellyApple102/easyread.nvim)
+- [FluxxField/bionic-reading.nvim](https://github.com/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/stars/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/last-commit/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/commit-activity/y/FluxxField/bionic-reading.nvim)
 
 ### Scratchpad
 
