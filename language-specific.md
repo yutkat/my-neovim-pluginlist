@@ -326,6 +326,7 @@
 - [aca/go-patch-unusedvar.nvim](https://github.com/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/stars/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/last-commit/aca/go-patch-unusedvar.nvim) ![](https://img.shields.io/github/commit-activity/y/aca/go-patch-unusedvar.nvim)
 - [jeniasaigak/goplay.nvim](https://github.com/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/stars/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/last-commit/jeniasaigak/goplay.nvim) ![](https://img.shields.io/github/commit-activity/y/jeniasaigak/goplay.nvim)
 - [crusj/hierarchy-tree-go.nvim](https://github.com/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/stars/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/last-commit/crusj/hierarchy-tree-go.nvim) ![](https://img.shields.io/github/commit-activity/y/crusj/hierarchy-tree-go.nvim)
+- [BoyerDamien/golang-code-actions.nvim](https://github.com/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/stars/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/last-commit/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/BoyerDamien/golang-code-actions.nvim)
 
 #### gofmt
 

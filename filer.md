@@ -35,6 +35,7 @@
   - [dinhhuy258/sfm-fs.nvim](https://github.com/dinhhuy258/sfm-fs.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-fs.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-fs.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-fs.nvim)
   - [dinhhuy258/sfm-git.nvim](https://github.com/dinhhuy258/sfm-git.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-git.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-git.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-git.nvim)
   - [dinhhuy258/sfm-telescope.nvim](https://github.com/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-telescope.nvim)
+  - [dinhhuy258/sfm-paste.nvim](https://github.com/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-paste.nvim)
 
 ## gx
 
