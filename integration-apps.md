@@ -561,8 +561,6 @@
 
 #### SuperCollider
 
-- [madskjeldgaard/supercollider-h4x-nvim](https://github.com/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/supercollider-h4x-nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/supercollider-h4x-nvim)
-
 #### LilyPond
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
