@@ -5,11 +5,13 @@
 - [Code outline](#code-outline)
 - [Call Hierarchy](#call-hierarchy)
 - [Type Hierarchy](#type-hierarchy)
+- [Breadcrumbs](#breadcrumbs)
 
 <!-- tocstop -->
 
 ### Code outline
 
+- [nvimdev/lspsaga.nvim(outline)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
 - [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/stars/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/symbols-outline.nvim)
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ![](https://img.shields.io/github/stars/stevearc/aerial.nvim) ![](https://img.shields.io/github/last-commit/stevearc/aerial.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/aerial.nvim)
 - [ElPiloto/sidekick.nvim](https://github.com/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/stars/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/sidekick.nvim)
@@ -25,3 +27,9 @@
 ### Type Hierarchy
 
 - [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/stars/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Slyces/hierarchy.nvim)
+
+### Breadcrumbs
+
+- [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navic) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navic) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navic)
+- [nvimdev/lspsaga.nvim(symbols)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
+- [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/dropbar.nvim)
