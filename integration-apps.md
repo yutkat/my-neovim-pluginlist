@@ -91,6 +91,8 @@
     + [AutoHotKey](#autohotkey)
   * [Mac](#mac)
   * [iOS](#ios)
+  * [Ethereum](#ethereum)
+    + [foundry](#foundry)
   * [Password Manager](#password-manager)
   * [IME](#ime)
     + [Fcitx](#fcitx)
@@ -517,6 +519,12 @@
 ### iOS
 
 - [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
+
+### Ethereum
+
+#### foundry
+
+- [TheSnakeWitcher/chisel.nvim](https://github.com/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/stars/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/last-commit/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/TheSnakeWitcher/chisel.nvim)
 
 ### Password Manager
 
