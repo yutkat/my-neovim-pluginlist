@@ -628,6 +628,7 @@
 
 - [JellyApple102/easyread.nvim](https://github.com/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/stars/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/last-commit/JellyApple102/easyread.nvim) ![](https://img.shields.io/github/commit-activity/y/JellyApple102/easyread.nvim)
 - [FluxxField/bionic-reading.nvim](https://github.com/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/stars/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/last-commit/FluxxField/bionic-reading.nvim) ![](https://img.shields.io/github/commit-activity/y/FluxxField/bionic-reading.nvim)
+- [HampusHauffman/bionic.nvim](https://github.com/HampusHauffman/bionic.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/bionic.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/bionic.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/bionic.nvim)
 
 ### Scratchpad
 
