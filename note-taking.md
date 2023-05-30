@@ -83,6 +83,7 @@
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/stars/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/obsidian.nvim)
 - [frroossst/dragonglass.nvim](https://github.com/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/stars/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/last-commit/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/commit-activity/y/frroossst/dragonglass.nvim)
 - [apmyplol/nvim-obsidian-stuff](https://github.com/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/stars/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/last-commit/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/commit-activity/y/apmyplol/nvim-obsidian-stuff)
+- [Aya-nvim/Aya-vault.nvim](https://github.com/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/stars/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/last-commit/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/Aya-nvim/Aya-vault.nvim)
 
 ## Google Keep
 

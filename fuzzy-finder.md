@@ -36,6 +36,7 @@
 #### Picker
 
 - [OliverChao/telescope-picker-list.nvim](https://github.com/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/stars/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/telescope-picker-list.nvim)
+- [vhminh/better-telescope-builtins.nvim](https://github.com/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/stars/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/last-commit/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/commit-activity/y/vhminh/better-telescope-builtins.nvim)
 
 #### Sorter
 
