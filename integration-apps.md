@@ -159,6 +159,8 @@
 
 ### Shell
 
+- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/easy-commands.nvim)
+
 #### zsh
 
 - [tamago324/cmp-zsh](https://github.com/tamago324/cmp-zsh) ![](https://img.shields.io/github/stars/tamago324/cmp-zsh) ![](https://img.shields.io/github/last-commit/tamago324/cmp-zsh) ![](https://img.shields.io/github/commit-activity/y/tamago324/cmp-zsh)
