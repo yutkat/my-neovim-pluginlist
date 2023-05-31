@@ -22,6 +22,7 @@
     + [Windows Terminal](#windows-terminal)
   * [CLI](#cli)
     + [tmux](#tmux)
+      - [tmux alternative](#tmux-alternative)
     + [Zellij](#zellij)
     + [Docker](#docker)
     + [dotenv](#dotenv)
@@ -209,6 +210,10 @@
 - [otavioschwanck/tmux-awesome-manager.nvim](https://github.com/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/tmux-awesome-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/tmux-awesome-manager.nvim)
 - [connordeckers/tmux-navigator.nvim](https://github.com/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/stars/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/last-commit/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/connordeckers/tmux-navigator.nvim)
 - [DeviousStoat/mumux.nvim](https://github.com/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/stars/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/last-commit/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/commit-activity/y/DeviousStoat/mumux.nvim)
+
+##### tmux alternative
+
+- [hkupty/nvimux](https://github.com/hkupty/nvimux) ![](https://img.shields.io/github/stars/hkupty/nvimux) ![](https://img.shields.io/github/last-commit/hkupty/nvimux) ![](https://img.shields.io/github/commit-activity/y/hkupty/nvimux)
 
 #### Zellij
 
