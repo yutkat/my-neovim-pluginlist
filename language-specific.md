@@ -40,6 +40,7 @@
     + [PHP](#php)
       - [Laravel](#laravel)
     + [Lua](#lua)
+      - [Stylua](#stylua)
     + [Luau](#luau)
     + [Rust](#rust)
     + [Go](#go)
@@ -297,6 +298,9 @@
 
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) ![](https://img.shields.io/github/stars/ii14/emmylua-nvim) ![](https://img.shields.io/github/last-commit/ii14/emmylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/emmylua-nvim)
 - [willothy/luahint](https://github.com/willothy/luahint) ![](https://img.shields.io/github/stars/willothy/luahint) ![](https://img.shields.io/github/last-commit/willothy/luahint) ![](https://img.shields.io/github/commit-activity/y/willothy/luahint)
+
+#### Stylua
+
 - [ckipp01/stylua-nvim](https://github.com/ckipp01/stylua-nvim) ![](https://img.shields.io/github/stars/ckipp01/stylua-nvim) ![](https://img.shields.io/github/last-commit/ckipp01/stylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ckipp01/stylua-nvim)
 - [wesleimp/stylua.nvim](https://github.com/wesleimp/stylua.nvim) ![](https://img.shields.io/github/stars/wesleimp/stylua.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/stylua.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/stylua.nvim)
 
