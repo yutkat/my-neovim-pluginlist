@@ -342,6 +342,7 @@
 
 - [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
 - [NachoNievaG/go-tester.nvim](https://github.com/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/go-tester.nvim)
+- [crochee/gotests.nvim](https://github.com/crochee/gotests.nvim) ![](https://img.shields.io/github/stars/crochee/gotests.nvim) ![](https://img.shields.io/github/last-commit/crochee/gotests.nvim) ![](https://img.shields.io/github/commit-activity/y/crochee/gotests.nvim)
 
 ### C/C++
 
@@ -388,6 +389,7 @@
 - [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 - [Iamnotagenius/mvnsearch.nvim](https://github.com/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/stars/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/last-commit/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Iamnotagenius/mvnsearch.nvim)
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
+- [eatgrass/maven.nvim](https://github.com/eatgrass/maven.nvim) ![](https://img.shields.io/github/stars/eatgrass/maven.nvim) ![](https://img.shields.io/github/last-commit/eatgrass/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/eatgrass/maven.nvim)
 
 ### Kotlin
 
