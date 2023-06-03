@@ -156,6 +156,7 @@
 - [pwntester/octo.nvim](https://github.com/pwntester/octo.nvim) ![](https://img.shields.io/github/stars/pwntester/octo.nvim) ![](https://img.shields.io/github/last-commit/pwntester/octo.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/octo.nvim)
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) ![](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/gh.nvim)
 - [muryp/nvim-muryp-git](https://github.com/muryp/nvim-muryp-git) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-git) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-git) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-git)
+- [mistweaverco/githubutils.nvim](https://github.com/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/stars/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/githubutils.nvim)
 
 ## GitHub tweaks
 
