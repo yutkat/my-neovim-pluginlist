@@ -3,7 +3,6 @@
 <!-- toc -->
 
 - [Command Line](#command-line)
-  * [GUID](#guid)
 - [Command Line UI](#command-line-ui)
   * [command line completion](#command-line-completion)
   * [History](#history)
@@ -21,11 +20,6 @@
 - [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) ![](https://img.shields.io/github/stars/vzze/cmdline.nvim) ![](https://img.shields.io/github/last-commit/vzze/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/cmdline.nvim)
 - [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/stars/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/telescope-cmdline.nvim)
 - [hachy/recmdwin.nvim](https://github.com/hachy/recmdwin.nvim) ![](https://img.shields.io/github/stars/hachy/recmdwin.nvim) ![](https://img.shields.io/github/last-commit/hachy/recmdwin.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/recmdwin.nvim)
-
-### GUID
-
-- [ds1sqe/guid.nvim](https://github.com/ds1sqe/guid.nvim) ![](https://img.shields.io/github/stars/ds1sqe/guid.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/guid.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/guid.nvim)
-- [https://github.com/FooSoft/guid.nvim](https://github.com/https://github.com/FooSoft/guid.nvim) ![](https://img.shields.io/github/stars/https://github.com/FooSoft/guid.nvim) ![](https://img.shields.io/github/last-commit/https://github.com/FooSoft/guid.nvim) ![](https://img.shields.io/github/commit-activity/y/https://github.com/FooSoft/guid.nvim)
 
 ## Command Line UI
 
