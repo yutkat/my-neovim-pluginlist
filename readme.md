@@ -240,7 +240,7 @@
 
 ### Background
 
-- [xiyaowong/nvim-transparent](https://github.com/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/stars/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/last-commit/xiyaowong/nvim-transparent) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/nvim-transparent)
+- [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/stars/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/transparent.nvim)
 - [typicode/bg.nvim](https://github.com/typicode/bg.nvim) ![](https://img.shields.io/github/stars/typicode/bg.nvim) ![](https://img.shields.io/github/last-commit/typicode/bg.nvim) ![](https://img.shields.io/github/commit-activity/y/typicode/bg.nvim)
 
 ## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)

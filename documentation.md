@@ -56,7 +56,7 @@
 
 #### Markdown header
 
-- [xorid/asciitree.nvim](https://github.com/xorid/asciitree.nvim) ![](https://img.shields.io/github/stars/xorid/asciitree.nvim) ![](https://img.shields.io/github/last-commit/xorid/asciitree.nvim) ![](https://img.shields.io/github/commit-activity/y/xorid/asciitree.nvim)
+- [riddlew/asciitree.nvim](https://github.com/riddlew/asciitree.nvim) ![](https://img.shields.io/github/stars/riddlew/asciitree.nvim) ![](https://img.shields.io/github/last-commit/riddlew/asciitree.nvim) ![](https://img.shields.io/github/commit-activity/y/riddlew/asciitree.nvim)
 - [AntonVanAssche/md-headers.nvim](https://github.com/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/md-headers.nvim)
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) ![](https://img.shields.io/github/stars/Zeioth/markmap.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/markmap.nvim)
 

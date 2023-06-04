@@ -40,6 +40,7 @@
 - [mattydebie/scs.nvim](https://github.com/mattydebie/scs.nvim) ![](https://img.shields.io/github/stars/mattydebie/scs.nvim) ![](https://img.shields.io/github/last-commit/mattydebie/scs.nvim) ![](https://img.shields.io/github/commit-activity/y/mattydebie/scs.nvim)
 - [Raeein/screenshot.nvim](https://github.com/Raeein/screenshot.nvim) ![](https://img.shields.io/github/stars/Raeein/screenshot.nvim) ![](https://img.shields.io/github/last-commit/Raeein/screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/Raeein/screenshot.nvim)
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) ![](https://img.shields.io/github/stars/kiran94/maim.nvim) ![](https://img.shields.io/github/last-commit/kiran94/maim.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/maim.nvim)
+- [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/rayso.nvim)
 
 #### Code Image
 

@@ -363,7 +363,7 @@
 
 #### Matrix.org
 
-- [shift-d/radio.nvim](https://github.com/shift-d/radio.nvim) ![](https://img.shields.io/github/stars/shift-d/radio.nvim) ![](https://img.shields.io/github/last-commit/shift-d/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/shift-d/radio.nvim)
+- [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) ![](https://img.shields.io/github/stars/n-shift/radio.nvim) ![](https://img.shields.io/github/last-commit/n-shift/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/n-shift/radio.nvim)
 - [dkasak/msc.nvim](https://github.com/dkasak/msc.nvim) ![](https://img.shields.io/github/stars/dkasak/msc.nvim) ![](https://img.shields.io/github/last-commit/dkasak/msc.nvim) ![](https://img.shields.io/github/commit-activity/y/dkasak/msc.nvim)
 
 #### Discord
@@ -544,7 +544,7 @@
 
 - [nitomoki/JPmode.nvim](https://github.com/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/stars/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/last-commit/nitomoki/JPmode.nvim) ![](https://img.shields.io/github/commit-activity/y/nitomoki/JPmode.nvim)
 - [keaising/im-select.nvim](https://github.com/keaising/im-select.nvim) ![](https://img.shields.io/github/stars/keaising/im-select.nvim) ![](https://img.shields.io/github/last-commit/keaising/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/im-select.nvim)
-- [uga-rosa/japanese-ime.nvim](https://github.com/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/stars/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/japanese-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/japanese-ime.nvim)
+- [uga-rosa/jam.nvim](https://github.com/uga-rosa/jam.nvim) ![](https://img.shields.io/github/stars/uga-rosa/jam.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/jam.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/jam.nvim)
 - [haolian9/normalascii.nvim](https://github.com/haolian9/normalascii.nvim) ![](https://img.shields.io/github/stars/haolian9/normalascii.nvim) ![](https://img.shields.io/github/last-commit/haolian9/normalascii.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/normalascii.nvim)
 - [hosxy/IMSwitch.nvim](https://github.com/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/stars/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/last-commit/hosxy/IMSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/hosxy/IMSwitch.nvim)
 - [wingforth/nvim-im-select](https://github.com/wingforth/nvim-im-select) ![](https://img.shields.io/github/stars/wingforth/nvim-im-select) ![](https://img.shields.io/github/last-commit/wingforth/nvim-im-select) ![](https://img.shields.io/github/commit-activity/y/wingforth/nvim-im-select)

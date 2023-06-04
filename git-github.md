@@ -141,7 +141,7 @@
 
 ## search
 
-- [aaronhallaert/ts-advanced-git-search.nvim](https://github.com/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/ts-advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/ts-advanced-git-search.nvim)
+- [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/advanced-git-search.nvim)
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
 

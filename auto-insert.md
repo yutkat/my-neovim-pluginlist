@@ -12,7 +12,7 @@
 
 ## Auto insert
 
-- [nvimdev/mutchar.nvim](https://github.com/nvimdev/mutchar.nvim) ![](https://img.shields.io/github/stars/nvimdev/mutchar.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/mutchar.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/mutchar.nvim)
+- [nvimdev/dyninput.nvim](https://github.com/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/stars/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dyninput.nvim)
 
 ## insert pairs
 

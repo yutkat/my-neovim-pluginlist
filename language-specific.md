@@ -362,7 +362,6 @@
 - [paddywz/doxycpp.nvim](https://github.com/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/stars/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/last-commit/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/commit-activity/y/paddywz/doxycpp.nvim)
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
-- [Tsuunen/compile_run.nvim](https://github.com/Tsuunen/compile_run.nvim) ![](https://img.shields.io/github/stars/Tsuunen/compile_run.nvim) ![](https://img.shields.io/github/last-commit/Tsuunen/compile_run.nvim) ![](https://img.shields.io/github/commit-activity/y/Tsuunen/compile_run.nvim)
 
 #### Cmake
 
