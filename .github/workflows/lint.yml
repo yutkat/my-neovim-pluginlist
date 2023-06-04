@@ -18,19 +18,17 @@ jobs:
           apt update
           apt-get install -y gh jq ca-certificates curl
       - run: >
-          grep '](https://github.com' [a-z]*.md |
-          sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
-          xargs -I {} bash -c "echo -n \"{}: \"; gh api repos/{} 2>/dev/null | jq -r '(.archived|tostring)'"  | tee archived_check_list.txt
+          ./.github/scripts/archive_check.sh
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
-          grep ": true" archived_check_list.txt || true
+          grep ":true" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
-          test $(grep ': true' archived_check_list.txt | wc -l) -le 0
+          test $(grep ':true' archived_check_list.txt | wc -l) -le 0
       - run: >
-          grep ": null" archived_check_list.txt || true
+          grep ":null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
-          test $(grep ': null' archived_check_list.txt | wc -l) -le 0
+          test $(grep ':null' archived_check_list.txt | wc -l) -le 0
       # curl 429 too many requests
       # - run: >
       #     grep '](https://github.com' README.md [a-z]*.md |
