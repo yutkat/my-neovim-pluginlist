@@ -25,6 +25,7 @@
     + [React](#react)
     + [Deno](#deno)
     + [Bun](#bun)
+    + [Bootstrap](#bootstrap)
     + [mjml](#mjml)
     + [Python](#python)
       - [test](#test)
@@ -207,6 +208,10 @@
 ### Bun
 
 - [Fire-The-Fox/bun.nvim](https://github.com/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/stars/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/last-commit/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/commit-activity/y/Fire-The-Fox/bun.nvim)
+
+### Bootstrap
+
+- [Jezda1337/cmp_bootstrap](https://github.com/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/stars/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/last-commit/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/cmp_bootstrap)
 
 ### mjml
 
