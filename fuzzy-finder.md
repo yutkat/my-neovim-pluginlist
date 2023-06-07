@@ -30,6 +30,7 @@
 - [romgrk/kirby.nvim](https://github.com/romgrk/kirby.nvim) ![](https://img.shields.io/github/stars/romgrk/kirby.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kirby.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kirby.nvim)
 - [haolian9/fond.nvim](https://github.com/haolian9/fond.nvim) ![](https://img.shields.io/github/stars/haolian9/fond.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fond.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fond.nvim)
 - [tani/pickup.nvim](https://github.com/tani/pickup.nvim) ![](https://img.shields.io/github/stars/tani/pickup.nvim) ![](https://img.shields.io/github/last-commit/tani/pickup.nvim) ![](https://img.shields.io/github/commit-activity/y/tani/pickup.nvim)
+- [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/stars/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/jfind.nvim)
 
 ### Telescope Extensions
 
