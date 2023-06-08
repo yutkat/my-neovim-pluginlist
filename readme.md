@@ -290,6 +290,7 @@
 - [gerazov/toggle-bool.nvim](https://github.com/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/stars/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/last-commit/gerazov/toggle-bool.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/toggle-bool.nvim)
 - [blaisdellma/checklist.nvim](https://github.com/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/stars/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/last-commit/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/commit-activity/y/blaisdellma/checklist.nvim)
 - [Skosulor/nibbler](https://github.com/Skosulor/nibbler) ![](https://img.shields.io/github/stars/Skosulor/nibbler) ![](https://img.shields.io/github/last-commit/Skosulor/nibbler) ![](https://img.shields.io/github/commit-activity/y/Skosulor/nibbler)
+- [steve21168/command-pat.nvim](https://github.com/steve21168/command-pat.nvim) ![](https://img.shields.io/github/stars/steve21168/command-pat.nvim) ![](https://img.shields.io/github/last-commit/steve21168/command-pat.nvim) ![](https://img.shields.io/github/commit-activity/y/steve21168/command-pat.nvim)
 
 ### Indent
 
