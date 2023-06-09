@@ -43,6 +43,7 @@
     + [Indent Shift](#indent-shift)
   * [Align](#align)
   * [TextObject, Operator](#textobject-operator)
+  * [Parenthetical edit](#parenthetical-edit)
   * [Misc](#misc)
 - [Other Standard Feature Enhancement](#other-standard-feature-enhancement)
   * [Search, Replace, Select](#search-replace-select)
@@ -317,12 +318,15 @@
 
 ### [TextObject, Operator](./textobject_operator.md)
 
+### Parenthetical edit
+
+- [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
+
 ### Misc
 
 - [abecodes/tabout.nvim](https://github.com/abecodes/tabout.nvim) ![](https://img.shields.io/github/stars/abecodes/tabout.nvim) ![](https://img.shields.io/github/last-commit/abecodes/tabout.nvim) ![](https://img.shields.io/github/commit-activity/y/abecodes/tabout.nvim)
 - [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) ![](https://img.shields.io/github/stars/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/last-commit/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/commit-activity/y/Allendang/nvim-expand-expr)
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
-- [LostNeophyte/bigfile.nvim](https://github.com/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/stars/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LostNeophyte/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LostNeophyte/bigfile.nvim)
 - [LunarVim/bigfile.nvim](https://github.com/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/stars/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/bigfile.nvim)
 
 ## Other Standard Feature Enhancement
@@ -675,6 +679,7 @@
 ### Tutorial
 
 - [antonk52/bad-practices.nvim](https://github.com/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/stars/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/last-commit/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/bad-practices.nvim)
+- [xiantang/coach.nvim](https://github.com/xiantang/coach.nvim) ![](https://img.shields.io/github/stars/xiantang/coach.nvim) ![](https://img.shields.io/github/last-commit/xiantang/coach.nvim) ![](https://img.shields.io/github/commit-activity/y/xiantang/coach.nvim)
 
 ### Analytics
 
