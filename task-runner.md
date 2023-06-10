@@ -12,6 +12,7 @@
   * [Auto detect style](#auto-detect-style)
   * [CLI](#cli)
   * [Partial execution](#partial-execution)
+    + [Jupyter style](#jupyter-style)
   * [Monitor](#monitor)
 
 <!-- tocstop -->
@@ -102,6 +103,10 @@
 - [RimuhRimu/runthis.nvim](https://github.com/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/stars/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/last-commit/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/commit-activity/y/RimuhRimu/runthis.nvim)
 - [javio7/nvim-executor](https://github.com/javio7/nvim-executor) ![](https://img.shields.io/github/stars/javio7/nvim-executor) ![](https://img.shields.io/github/last-commit/javio7/nvim-executor) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-executor)
 - [czkz/smartrun.nvim](https://github.com/czkz/smartrun.nvim) ![](https://img.shields.io/github/stars/czkz/smartrun.nvim) ![](https://img.shields.io/github/last-commit/czkz/smartrun.nvim) ![](https://img.shields.io/github/commit-activity/y/czkz/smartrun.nvim)
+
+### Jupyter style
+
+- [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/stars/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/last-commit/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/GCBallesteros/NotebookNavigator.nvim)
 
 ## Monitor
 
