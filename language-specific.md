@@ -160,6 +160,8 @@
 
 ### CSS
 
+- [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/stars/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/last-commit/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/nvim-html-css)
+
 #### tailwind
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
@@ -373,6 +375,7 @@
 
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/stars/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/cmake-tools.nvim)
 - [Cartogy/nvim-cdbg](https://github.com/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/stars/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/last-commit/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/commit-activity/y/Cartogy/nvim-cdbg)
+- [hfn92/cmake-gtest.nvim](https://github.com/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/stars/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/last-commit/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/cmake-gtest.nvim)
 
 ### Zig
 
