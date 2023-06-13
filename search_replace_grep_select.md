@@ -90,6 +90,7 @@
 - [brookhong/telescope-pathogen.nvim](https://github.com/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/stars/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/last-commit/brookhong/telescope-pathogen.nvim) ![](https://img.shields.io/github/commit-activity/y/brookhong/telescope-pathogen.nvim)
 - [fdschmidt93/telescope-egrepify.nvim](https://github.com/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-egrepify.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-egrepify.nvim)
 - [napisani/nvim-search-rules](https://github.com/napisani/nvim-search-rules) ![](https://img.shields.io/github/stars/napisani/nvim-search-rules) ![](https://img.shields.io/github/last-commit/napisani/nvim-search-rules) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-search-rules)
+- [mertzt89/grep-op.nvim](https://github.com/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/stars/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/last-commit/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/commit-activity/y/mertzt89/grep-op.nvim)
 
 # Select
 
