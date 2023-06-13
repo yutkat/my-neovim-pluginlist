@@ -42,6 +42,7 @@
 ## Wise paste
 
 - [AckslD/nvim-anywise-reg.lua](https://github.com/AckslD/nvim-anywise-reg.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-anywise-reg.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-anywise-reg.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-anywise-reg.lua)
+- [jt-ziolo/nvim-bullseye](https://github.com/jt-ziolo/nvim-bullseye) ![](https://img.shields.io/github/stars/jt-ziolo/nvim-bullseye) ![](https://img.shields.io/github/last-commit/jt-ziolo/nvim-bullseye) ![](https://img.shields.io/github/commit-activity/y/jt-ziolo/nvim-bullseye)
 
 ## Cyclic paste
 
