@@ -94,6 +94,7 @@
 - [dharmx/track.nvim](https://github.com/dharmx/track.nvim) ![](https://img.shields.io/github/stars/dharmx/track.nvim) ![](https://img.shields.io/github/last-commit/dharmx/track.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/track.nvim)
 - [zzhirong/history-jumper.nvim](https://github.com/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/stars/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/last-commit/zzhirong/history-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/zzhirong/history-jumper.nvim)
 - [AlexXi19/recall.nvim](https://github.com/AlexXi19/recall.nvim) ![](https://img.shields.io/github/stars/AlexXi19/recall.nvim) ![](https://img.shields.io/github/last-commit/AlexXi19/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexXi19/recall.nvim)
+- [b-dee/buffleap.nvim](https://github.com/b-dee/buffleap.nvim) ![](https://img.shields.io/github/stars/b-dee/buffleap.nvim) ![](https://img.shields.io/github/last-commit/b-dee/buffleap.nvim) ![](https://img.shields.io/github/commit-activity/y/b-dee/buffleap.nvim)
 
 ##### remote open
 

@@ -38,6 +38,8 @@
 
 - [OliverChao/telescope-picker-list.nvim](https://github.com/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/stars/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/telescope-picker-list.nvim)
 - [vhminh/better-telescope-builtins.nvim](https://github.com/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/stars/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/last-commit/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/commit-activity/y/vhminh/better-telescope-builtins.nvim)
+- [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
+- [zigius/telescope-links-picker.nvim](https://github.com/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/stars/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/last-commit/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/zigius/telescope-links-picker.nvim)
 
 #### Sorter
 

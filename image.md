@@ -29,6 +29,7 @@
 - [koga1020/pngpaste.nvim](https://github.com/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/stars/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/last-commit/koga1020/pngpaste.nvim) ![](https://img.shields.io/github/commit-activity/y/koga1020/pngpaste.nvim)
 - [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) ![](https://img.shields.io/github/stars/niuiic/cp-image.nvim) ![](https://img.shields.io/github/last-commit/niuiic/cp-image.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/cp-image.nvim)
 - [evanpurkhiser/image-paste.nvim](https://github.com/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/stars/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/last-commit/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/evanpurkhiser/image-paste.nvim)
+- [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/pastify.nvim)
 
 ### Image Uploader
 
@@ -56,3 +57,4 @@
 - [olidacombe/commentalist.nvim](https://github.com/olidacombe/commentalist.nvim) ![](https://img.shields.io/github/stars/olidacombe/commentalist.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/commentalist.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/commentalist.nvim)
 - [ColaMint/pokemon.nvim](https://github.com/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/stars/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/last-commit/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/ColaMint/pokemon.nvim)
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/render.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/render.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/render.nvim)
+- [Jeansidharta/ascii-image.nvim](https://github.com/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/ascii-image.nvim)
