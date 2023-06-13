@@ -324,6 +324,7 @@
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) ![](https://img.shields.io/github/stars/Saecki/crates.nvim) ![](https://img.shields.io/github/last-commit/Saecki/crates.nvim) ![](https://img.shields.io/github/commit-activity/y/Saecki/crates.nvim)
 - [aaronhallaert/continuous-testing.nvim](https://github.com/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/continuous-testing.nvim)
 - [MattCairns/telescope-cargo-workspace.nvim](https://github.com/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/stars/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/last-commit/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/MattCairns/telescope-cargo-workspace.nvim)
+- [ryo33/nvim-cmp-rust](https://github.com/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/stars/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/last-commit/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/commit-activity/y/ryo33/nvim-cmp-rust)
 
 ### Go
 

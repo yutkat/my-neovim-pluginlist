@@ -243,6 +243,7 @@
 
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/stars/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/transparent.nvim)
 - [typicode/bg.nvim](https://github.com/typicode/bg.nvim) ![](https://img.shields.io/github/stars/typicode/bg.nvim) ![](https://img.shields.io/github/last-commit/typicode/bg.nvim) ![](https://img.shields.io/github/commit-activity/y/typicode/bg.nvim)
+- [orumin/ya-seiya.nvim](https://github.com/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/stars/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/last-commit/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/commit-activity/y/orumin/ya-seiya.nvim)
 
 ## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)
 
