@@ -25,6 +25,7 @@
 - [LucasTavaresA/SingleComment.nvim](https://github.com/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/SingleComment.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/SingleComment.nvim)
 - [javio7/nvim-hemingway](https://github.com/javio7/nvim-hemingway) ![](https://img.shields.io/github/stars/javio7/nvim-hemingway) ![](https://img.shields.io/github/last-commit/javio7/nvim-hemingway) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-hemingway)
 - [EvgeniGenchev/comment-nvim](https://github.com/EvgeniGenchev/comment-nvim) ![](https://img.shields.io/github/stars/EvgeniGenchev/comment-nvim) ![](https://img.shields.io/github/last-commit/EvgeniGenchev/comment-nvim) ![](https://img.shields.io/github/commit-activity/y/EvgeniGenchev/comment-nvim)
+- [haolian9/comet.nvim](https://github.com/haolian9/comet.nvim) ![](https://img.shields.io/github/stars/haolian9/comet.nvim) ![](https://img.shields.io/github/last-commit/haolian9/comet.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/comet.nvim)
 
 #### CommentString
 
