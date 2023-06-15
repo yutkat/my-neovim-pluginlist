@@ -143,6 +143,7 @@
 ## git grep
 
 - [barklan/telescope-git-grep.nvim](https://github.com/barklan/telescope-git-grep.nvim) ![](https://img.shields.io/github/stars/barklan/telescope-git-grep.nvim) ![](https://img.shields.io/github/last-commit/barklan/telescope-git-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/barklan/telescope-git-grep.nvim)
+- [davvid/telescope-git-grep.nvim](https://github.com/davvid/telescope-git-grep.nvim) ![](https://img.shields.io/github/stars/davvid/telescope-git-grep.nvim) ![](https://img.shields.io/github/last-commit/davvid/telescope-git-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/davvid/telescope-git-grep.nvim)
 
 ## search
 
