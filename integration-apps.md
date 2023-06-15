@@ -554,6 +554,8 @@
 - [fengwk/im-switch.nvim](https://github.com/fengwk/im-switch.nvim) ![](https://img.shields.io/github/stars/fengwk/im-switch.nvim) ![](https://img.shields.io/github/last-commit/fengwk/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/fengwk/im-switch.nvim)
 - [Wansmer/langmapper.nvim](https://github.com/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/stars/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/langmapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/langmapper.nvim)
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
+- [5long/imdi.nvim](https://github.com/5long/imdi.nvim) ![](https://img.shields.io/github/stars/5long/imdi.nvim) ![](https://img.shields.io/github/last-commit/5long/imdi.nvim) ![](https://img.shields.io/github/commit-activity/y/5long/imdi.nvim)
+- [TD-Sky/fcitx.nvim](https://github.com/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/stars/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/last-commit/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/TD-Sky/fcitx.nvim)
 
 #### Fcitx
 
