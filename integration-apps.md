@@ -448,7 +448,7 @@
 - [deifyed/naVi](https://github.com/deifyed/naVi) ![](https://img.shields.io/github/stars/deifyed/naVi) ![](https://img.shields.io/github/last-commit/deifyed/naVi) ![](https://img.shields.io/github/commit-activity/y/deifyed/naVi)
 - [goddoe/nvim-ai-assistant](https://github.com/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/stars/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/goddoe/nvim-ai-assistant)
 - [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/stars/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/explain-it.nvim)
-- [WhiteBlackGoose/gpt4all.nvim/](https://github.com/WhiteBlackGoose/gpt4all.nvim/) ![](https://img.shields.io/github/stars/WhiteBlackGoose/gpt4all.nvim/) ![](https://img.shields.io/github/last-commit/WhiteBlackGoose/gpt4all.nvim/) ![](https://img.shields.io/github/commit-activity/y/WhiteBlackGoose/gpt4all.nvim/)
+- [WhiteBlackGoose/gpt4all.nvim](https://github.com/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/stars/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/last-commit/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteBlackGoose/gpt4all.nvim)
 
 ##### OpenAI Review
 
