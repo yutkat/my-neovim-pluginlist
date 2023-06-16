@@ -84,6 +84,7 @@
   * [OS](#os)
     + [Linux](#linux)
       - [gnome](#gnome)
+      - [drun](#drun)
       - [darkman](#darkman)
       - [fribidi](#fribidi)
       - [Inkscape](#inkscape)
@@ -499,6 +500,10 @@
 ##### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+##### drun
+
+- [Eric-Song-Nop/launcher.nvim](https://github.com/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/launcher.nvim)
 
 ##### darkman
 
