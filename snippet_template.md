@@ -28,6 +28,7 @@
 - [madskjeldgaard/cheeky-snippets.nvim](https://github.com/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/cheeky-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/cheeky-snippets.nvim)
 - [s1n7ax/nvim-snips](https://github.com/s1n7ax/nvim-snips) ![](https://img.shields.io/github/stars/s1n7ax/nvim-snips) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-snips) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-snips)
 - [josa42/nvim-snippets](https://github.com/josa42/nvim-snippets) ![](https://img.shields.io/github/stars/josa42/nvim-snippets) ![](https://img.shields.io/github/last-commit/josa42/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-snippets)
+- [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/snips.nvim)
 
 #### Snippet converter
 
