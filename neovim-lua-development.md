@@ -37,6 +37,7 @@
 - [shortcuts/neovim-plugin-boilerplate](https://github.com/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/stars/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/last-commit/shortcuts/neovim-plugin-boilerplate) ![](https://img.shields.io/github/commit-activity/y/shortcuts/neovim-plugin-boilerplate)
 - [nvim-lua/nvim-lua-plugin-template](https://github.com/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/stars/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/last-commit/nvim-lua/nvim-lua-plugin-template) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/nvim-lua-plugin-template)
 - [m00qek/plugin-template.nvim](https://github.com/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/stars/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/last-commit/m00qek/plugin-template.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/plugin-template.nvim)
+- [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/stars/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/last-commit/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nvim-plugin-template)
 
 ### LSP
 
