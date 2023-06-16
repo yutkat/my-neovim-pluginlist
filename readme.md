@@ -481,6 +481,7 @@
 ### Boot Arguments
 
 - [mong8se/actually.nvim](https://github.com/mong8se/actually.nvim) ![](https://img.shields.io/github/stars/mong8se/actually.nvim) ![](https://img.shields.io/github/last-commit/mong8se/actually.nvim) ![](https://img.shields.io/github/commit-activity/y/mong8se/actually.nvim)
+- [lewis6991/fileline.nvim](https://github.com/lewis6991/fileline.nvim) ![](https://img.shields.io/github/stars/lewis6991/fileline.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/fileline.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/fileline.nvim)
 
 ### [Session](./session.md)
 
