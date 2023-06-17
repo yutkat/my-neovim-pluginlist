@@ -72,6 +72,7 @@
 - [chikko80/error-lens.nvim](https://github.com/chikko80/error-lens.nvim) ![](https://img.shields.io/github/stars/chikko80/error-lens.nvim) ![](https://img.shields.io/github/last-commit/chikko80/error-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/chikko80/error-lens.nvim)
 - [isaksamsten/better-virtual-text.nvim](https://github.com/isaksamsten/better-virtual-text.nvim) ![](https://img.shields.io/github/stars/isaksamsten/better-virtual-text.nvim) ![](https://img.shields.io/github/last-commit/isaksamsten/better-virtual-text.nvim) ![](https://img.shields.io/github/commit-activity/y/isaksamsten/better-virtual-text.nvim)
 - [luozhiya/lsp-virtual-improved.nvim](https://github.com/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/stars/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/lsp-virtual-improved.nvim)
+- [yorickpeterse/nvim-dd](https://github.com/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-dd)
 
 #### Definition, Reference
 
