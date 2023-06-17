@@ -561,6 +561,7 @@
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [5long/imdi.nvim](https://github.com/5long/imdi.nvim) ![](https://img.shields.io/github/stars/5long/imdi.nvim) ![](https://img.shields.io/github/last-commit/5long/imdi.nvim) ![](https://img.shields.io/github/commit-activity/y/5long/imdi.nvim)
 - [TD-Sky/fcitx.nvim](https://github.com/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/stars/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/last-commit/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/TD-Sky/fcitx.nvim)
+- [crispgm/nvim-auto-ime](https://github.com/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/stars/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/last-commit/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-auto-ime)
 
 #### Fcitx
 
