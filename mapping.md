@@ -43,6 +43,7 @@
 - [CharliePlate/whichkey-ft.nvim](https://github.com/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/stars/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/last-commit/CharliePlate/whichkey-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/CharliePlate/whichkey-ft.nvim)
 - [bgrohman/nvim-keymapper](https://github.com/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/stars/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/last-commit/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/commit-activity/y/bgrohman/nvim-keymapper)
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) ![](https://img.shields.io/github/stars/Cassin01/wf.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/wf.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/wf.nvim)
+- [mrs4ndman/keymaster.nvim](https://github.com/mrs4ndman/keymaster.nvim) ![](https://img.shields.io/github/stars/mrs4ndman/keymaster.nvim) ![](https://img.shields.io/github/last-commit/mrs4ndman/keymaster.nvim) ![](https://img.shields.io/github/commit-activity/y/mrs4ndman/keymaster.nvim)
 
 ## Prefix Key Binding
 
