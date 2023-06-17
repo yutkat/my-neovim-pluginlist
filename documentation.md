@@ -192,6 +192,7 @@
 - [mbrea-c/latexmk-zathura-preview.nvim](https://github.com/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/stars/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/last-commit/mbrea-c/latexmk-zathura-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/mbrea-c/latexmk-zathura-preview.nvim)
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/evesdropper/luasnip-latex-snippets.nvim)
 - [Vaisakhkm2625/hologram-math-preview.nvim](https://github.com/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/stars/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/last-commit/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Vaisakhkm2625/hologram-math-preview.nvim)
+- [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/iurimateus/luasnip-latex-snippets.nvim)
 
 #### BiBTex
 
