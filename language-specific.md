@@ -258,6 +258,7 @@
 - [AckslD/swenv.nvim](https://github.com/AckslD/swenv.nvim) ![](https://img.shields.io/github/stars/AckslD/swenv.nvim) ![](https://img.shields.io/github/last-commit/AckslD/swenv.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/swenv.nvim)
 - [SimonZehetner/python_venv.nvim](https://github.com/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/stars/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/last-commit/SimonZehetner/python_venv.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonZehetner/python_venv.nvim)
 - [linux-cultist/venv-selector.nvim](https://github.com/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/stars/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/last-commit/linux-cultist/venv-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/linux-cultist/venv-selector.nvim)
+- [candango/chase.nvim](https://github.com/candango/chase.nvim) ![](https://img.shields.io/github/stars/candango/chase.nvim) ![](https://img.shields.io/github/last-commit/candango/chase.nvim) ![](https://img.shields.io/github/commit-activity/y/candango/chase.nvim)
 
 #### Jupyter
 
