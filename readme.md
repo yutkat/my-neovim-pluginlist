@@ -527,6 +527,7 @@
 
 - [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) ![](https://img.shields.io/github/stars/Djancyp/regex.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/regex.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/regex.nvim)
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
+- [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
 
 ### [Code outline](./code-outline.md)
 
