@@ -32,6 +32,7 @@
   * [Link](#link)
     + [Image](#image)
     + [grep.app](#grepapp)
+    + [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
 
 <!-- tocstop -->
@@ -202,6 +203,10 @@
 ### grep.app
 
 - [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)
+
+### CODEOWNERS
+
+- [SebastienLeonce/nvim-codeowners](https://github.com/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/stars/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/last-commit/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/commit-activity/y/SebastienLeonce/nvim-codeowners)
 
 # GitLab
 
