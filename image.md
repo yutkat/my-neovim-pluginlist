@@ -8,6 +8,7 @@
   * [Image Uploader](#image-uploader)
   * [Screenshot](#screenshot)
     + [Code Image](#code-image)
+  * [SVG](#svg)
   * [Ascii](#ascii)
 
 <!-- tocstop -->
@@ -49,6 +50,10 @@
 - [atlj/Pixie.nvim](https://github.com/atlj/Pixie.nvim) ![](https://img.shields.io/github/stars/atlj/Pixie.nvim) ![](https://img.shields.io/github/last-commit/atlj/Pixie.nvim) ![](https://img.shields.io/github/commit-activity/y/atlj/Pixie.nvim)
 - [matze/wastebin.nvim](https://github.com/matze/wastebin.nvim) ![](https://img.shields.io/github/stars/matze/wastebin.nvim) ![](https://img.shields.io/github/last-commit/matze/wastebin.nvim) ![](https://img.shields.io/github/commit-activity/y/matze/wastebin.nvim)
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/stars/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/last-commit/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/commit-activity/y/michaelrommel/nvim-silicon)
+
+### SVG
+
+- [bennypowers/svgo.nvim](https://github.com/bennypowers/svgo.nvim) ![](https://img.shields.io/github/stars/bennypowers/svgo.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/svgo.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/svgo.nvim)
 
 ### Ascii
 
