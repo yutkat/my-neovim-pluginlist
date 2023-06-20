@@ -6,6 +6,7 @@
   * [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
   * [Use builtin package feature](#use-builtin-package-feature)
   * [Update checker](#update-checker)
+  * [Search](#search)
 
 <!-- tocstop -->
 
@@ -34,3 +35,7 @@
 ### Update checker
 
 - [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
+
+### Search
+
+- [darksinge/plink.nvim](https://github.com/darksinge/plink.nvim) ![](https://img.shields.io/github/stars/darksinge/plink.nvim) ![](https://img.shields.io/github/last-commit/darksinge/plink.nvim) ![](https://img.shields.io/github/commit-activity/y/darksinge/plink.nvim)

@@ -450,6 +450,7 @@
 - [goddoe/nvim-ai-assistant](https://github.com/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/stars/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/goddoe/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/goddoe/nvim-ai-assistant)
 - [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/stars/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/explain-it.nvim)
 - [WhiteBlackGoose/gpt4all.nvim](https://github.com/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/stars/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/last-commit/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteBlackGoose/gpt4all.nvim)
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) ![](https://img.shields.io/github/stars/Robitx/gp.nvim) ![](https://img.shields.io/github/last-commit/Robitx/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/Robitx/gp.nvim)
 
 ##### OpenAI Review
 
