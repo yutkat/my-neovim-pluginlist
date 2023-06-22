@@ -451,6 +451,7 @@
 - [tdfacer/explain-it.nvim](https://github.com/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/stars/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/explain-it.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/explain-it.nvim)
 - [WhiteBlackGoose/gpt4all.nvim](https://github.com/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/stars/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/last-commit/WhiteBlackGoose/gpt4all.nvim) ![](https://img.shields.io/github/commit-activity/y/WhiteBlackGoose/gpt4all.nvim)
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) ![](https://img.shields.io/github/stars/Robitx/gp.nvim) ![](https://img.shields.io/github/last-commit/Robitx/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/Robitx/gp.nvim)
+- [rusagaib/oas-preview.nvim](https://github.com/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/stars/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/last-commit/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rusagaib/oas-preview.nvim)
 
 ##### OpenAI Review
 

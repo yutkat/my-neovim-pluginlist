@@ -5,28 +5,25 @@
 - [Language specific](#language-specific)
   * [Programing Language / Framework](#programing-language--framework)
     + [Javascript/Typescript](#javascripttypescript)
-      - [tsc(TypeScript compiler)](#tsctypescript-compiler)
-      - [Formatter](#formatter)
-      - [tsserver](#tsserver)
-      - [Test](#test)
-      - [npm](#npm)
-      - [pnpm](#pnpm)
-    + [HTML](#html)
-      - [conceal](#conceal)
-      - [live server](#live-server)
-    + [CSS](#css)
-      - [tailwind](#tailwind)
-      - [Bulma](#bulma)
-    + [HTTP](#http)
-    + [REST](#rest)
-    + [Protocol buffer](#protocol-buffer)
-    + [Hurl](#hurl)
-    + [Graphql](#graphql)
-    + [React](#react)
-    + [Deno](#deno)
-    + [Bun](#bun)
-    + [Bootstrap](#bootstrap)
-    + [mjml](#mjml)
+      - [Toolchain](#toolchain)
+        * [tsc(TypeScript compiler)](#tsctypescript-compiler)
+        * [Formatter](#formatter)
+        * [tsserver](#tsserver)
+        * [Test](#test)
+        * [npm](#npm)
+          + [pnpm](#pnpm)
+      - [HTML](#html)
+        * [conceal](#conceal)
+        * [live server](#live-server)
+      - [CSS](#css)
+        * [tailwind](#tailwind)
+        * [Bulma](#bulma)
+      - [Framework](#framework)
+        * [React](#react)
+        * [Deno](#deno)
+        * [Bun](#bun)
+        * [Bootstrap](#bootstrap)
+        * [mjml](#mjml)
     + [Python](#python)
       - [test](#test)
       - [REPL](#repl)
@@ -50,7 +47,7 @@
     + [C/C++](#cc)
       - [Cmake](#cmake)
     + [Zig](#zig)
-    + [C](#c)
+    + [C#](#c%23)
     + [Java](#java)
     + [Kotlin](#kotlin)
     + [Scala](#scala)
@@ -82,14 +79,19 @@
     + [YAML](#yaml)
     + [dotbox](#dotbox)
     + [CSV](#csv)
-    + [OpenAPI](#openapi)
-    + [Database](#database)
-      - [SQL](#sql)
-      - [PostgreSQL](#postgresql)
-      - [MongoDB](#mongodb)
-      - [SurrealDB](#surrealdb)
     + [Jenkins](#jenkins)
     + [Drools Rule Language](#drools-rule-language)
+  * [Database](#database)
+    + [SQL](#sql)
+    + [PostgreSQL](#postgresql)
+    + [MongoDB](#mongodb)
+    + [SurrealDB](#surrealdb)
+  * [Protocol](#protocol)
+    + [HTTP](#http)
+    + [REST](#rest)
+    + [Protocol buffer](#protocol-buffer)
+    + [Hurl](#hurl)
+    + [Graphql](#graphql)
 - [Competitive programming](#competitive-programming)
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
@@ -111,60 +113,62 @@
 - [bennypowers/template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/stars/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/template-literal-comments.nvim)
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/stars/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/last-commit/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pmizio/typescript-tools.nvim)
 
-#### tsc(TypeScript compiler)
+#### Toolchain
+
+##### tsc(TypeScript compiler)
 
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/tsc.nvim)
 
-#### Formatter
+##### Formatter
 
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/stars/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/last-commit/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/prettierrc.nvim)
 
-#### tsserver
+##### tsserver
 
 - [davidosomething/format-ts-errors.nvim](https://github.com/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/format-ts-errors.nvim)
 
-#### Test
+##### Test
 
 - [David-Kunz/jester](https://github.com/David-Kunz/jester) ![](https://img.shields.io/github/stars/David-Kunz/jester) ![](https://img.shields.io/github/last-commit/David-Kunz/jester) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/jester)
 - [chuck-flowers/jest.nvim](https://github.com/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/jest.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/jest.nvim)
 - [justinrassier/jesting.nvim](https://github.com/justinrassier/jesting.nvim) ![](https://img.shields.io/github/stars/justinrassier/jesting.nvim) ![](https://img.shields.io/github/last-commit/justinrassier/jesting.nvim) ![](https://img.shields.io/github/commit-activity/y/justinrassier/jesting.nvim)
 - [adl3879/jest-runner.nvim](https://github.com/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/stars/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/last-commit/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/adl3879/jest-runner.nvim)
 
-#### npm
+##### npm
 
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) ![](https://img.shields.io/github/stars/vuki656/package-info.nvim) ![](https://img.shields.io/github/last-commit/vuki656/package-info.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/package-info.nvim)
 - [nvim-telescope/telescope-node-modules.nvim](https://github.com/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-node-modules.nvim)
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/stars/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/last-commit/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/commit-activity/y/elianiva/telescope-npm.nvim)
 - [azizgharbi/nodePackageCheck.nvim](https://github.com/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/stars/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/last-commit/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/azizgharbi/nodePackageCheck.nvim)
 
-#### pnpm
+###### pnpm
 
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
 
-### HTML
+#### HTML
 
 - [manyids2/htmlgui.nvim](https://github.com/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/stars/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/last-commit/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/htmlgui.nvim)
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/stars/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/last-commit/windwp/nvim-ts-autotag) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-ts-autotag)
 - [jcha0713/classy.nvim](https://github.com/jcha0713/classy.nvim) ![](https://img.shields.io/github/stars/jcha0713/classy.nvim) ![](https://img.shields.io/github/last-commit/jcha0713/classy.nvim) ![](https://img.shields.io/github/commit-activity/y/jcha0713/classy.nvim)
 - [buschco/nvim-cmp-ts-tag-close](https://github.com/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/stars/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/last-commit/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/commit-activity/y/buschco/nvim-cmp-ts-tag-close)
 
-#### conceal
+##### conceal
 
 - [dzfrias/nvim-classy](https://github.com/dzfrias/nvim-classy) ![](https://img.shields.io/github/stars/dzfrias/nvim-classy) ![](https://img.shields.io/github/last-commit/dzfrias/nvim-classy) ![](https://img.shields.io/github/commit-activity/y/dzfrias/nvim-classy)
 
-#### live server
+##### live server
 
 - [aurum77/live-server.nvim](https://github.com/aurum77/live-server.nvim) ![](https://img.shields.io/github/stars/aurum77/live-server.nvim) ![](https://img.shields.io/github/last-commit/aurum77/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/aurum77/live-server.nvim)
 - [barrett-ruth/live-server.nvim](https://github.com/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/live-server.nvim)
 - [liaohui5/vite-server.nvim](https://github.com/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/stars/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/last-commit/liaohui5/vite-server.nvim) ![](https://img.shields.io/github/commit-activity/y/liaohui5/vite-server.nvim)
 - [Rogerskelamen/live-server.nvim](https://github.com/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/stars/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/last-commit/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Rogerskelamen/live-server.nvim)
 
-### CSS
+#### CSS
 
 - [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/stars/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/last-commit/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/nvim-html-css)
 
-#### tailwind
+##### tailwind
 
 - [jcha0713/cmp-tw2css](https://github.com/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/stars/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/last-commit/jcha0713/cmp-tw2css) ![](https://img.shields.io/github/commit-activity/y/jcha0713/cmp-tw2css)
 - [roobert/tailwindcss-colorizer-cmp.nvim](https://github.com/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/stars/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/last-commit/roobert/tailwindcss-colorizer-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tailwindcss-colorizer-cmp.nvim)
@@ -174,51 +178,31 @@
 - [razak17/tailwind-fold.nvim](https://github.com/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/stars/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/last-commit/razak17/tailwind-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/razak17/tailwind-fold.nvim)
 - [princejoogie/tailwind-highlight.nvim](https://github.com/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/stars/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/tailwind-highlight.nvim)
 
-#### Bulma
+##### Bulma
 
 - [garyhurtz/cmp_bulma.nvim](https://github.com/garyhurtz/cmp_bulma.nvim) ![](https://img.shields.io/github/stars/garyhurtz/cmp_bulma.nvim) ![](https://img.shields.io/github/last-commit/garyhurtz/cmp_bulma.nvim) ![](https://img.shields.io/github/commit-activity/y/garyhurtz/cmp_bulma.nvim)
 
-### HTTP
+#### Framework
 
-- [barrett-ruth/telescope-http.nvim](https://github.com/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/telescope-http.nvim)
-
-### REST
-
-- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
-- [Cih2001/postwoman.nvim](https://github.com/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/stars/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/postwoman.nvim)
-
-### Protocol buffer
-
-- [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
-
-### Hurl
-
-- [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
-
-### Graphql
-
-- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
-- [darkonig/nvim-graphql-executor.lua](https://github.com/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/stars/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/last-commit/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/commit-activity/y/darkonig/nvim-graphql-executor.lua)
-
-### React
+##### React
 
 - [napmn/react-extract.nvim](https://github.com/napmn/react-extract.nvim) ![](https://img.shields.io/github/stars/napmn/react-extract.nvim) ![](https://img.shields.io/github/last-commit/napmn/react-extract.nvim) ![](https://img.shields.io/github/commit-activity/y/napmn/react-extract.nvim)
 - [olrtg/nvim-rename-state](https://github.com/olrtg/nvim-rename-state) ![](https://img.shields.io/github/stars/olrtg/nvim-rename-state) ![](https://img.shields.io/github/last-commit/olrtg/nvim-rename-state) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-rename-state)
 - [s1n7ax/nvim-react](https://github.com/s1n7ax/nvim-react) ![](https://img.shields.io/github/stars/s1n7ax/nvim-react) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-react) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-react)
 
-### Deno
+##### Deno
 
 - [sigmaSd/deno-nvim](https://github.com/sigmaSd/deno-nvim) ![](https://img.shields.io/github/stars/sigmaSd/deno-nvim) ![](https://img.shields.io/github/last-commit/sigmaSd/deno-nvim) ![](https://img.shields.io/github/commit-activity/y/sigmaSd/deno-nvim)
 
-### Bun
+##### Bun
 
 - [Fire-The-Fox/bun.nvim](https://github.com/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/stars/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/last-commit/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/commit-activity/y/Fire-The-Fox/bun.nvim)
 
-### Bootstrap
+##### Bootstrap
 
 - [Jezda1337/cmp_bootstrap](https://github.com/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/stars/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/last-commit/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/cmp_bootstrap)
 
-### mjml
+##### mjml
 
 - [ec965/mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/stars/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/last-commit/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/mjml-preview.nvim)
 
@@ -377,6 +361,7 @@
 - [paddywz/doxycpp.nvim](https://github.com/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/stars/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/last-commit/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/commit-activity/y/paddywz/doxycpp.nvim)
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
+- [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
 
 #### Cmake
 
@@ -390,9 +375,9 @@
 - [CadeMichael/zig.nvim](https://github.com/CadeMichael/zig.nvim) ![](https://img.shields.io/github/stars/CadeMichael/zig.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/zig.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/zig.nvim)
 - [bfredl/nvim-zigclient](https://github.com/bfredl/nvim-zigclient) ![](https://img.shields.io/github/stars/bfredl/nvim-zigclient) ![](https://img.shields.io/github/last-commit/bfredl/nvim-zigclient) ![](https://img.shields.io/github/commit-activity/y/bfredl/nvim-zigclient)
 
-### C
+### C#
 
-- [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
+- [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
 
 ### Java
 
@@ -550,36 +535,6 @@
 - [chen244/csv-tools.lua](https://github.com/chen244/csv-tools.lua) ![](https://img.shields.io/github/stars/chen244/csv-tools.lua) ![](https://img.shields.io/github/last-commit/chen244/csv-tools.lua) ![](https://img.shields.io/github/commit-activity/y/chen244/csv-tools.lua)
 - [cameron-wags/rainbow_csv.nvim](https://github.com/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/stars/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/rainbow_csv.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/rainbow_csv.nvim)
 
-### OpenAPI
-
-- [rusagaib/oas-preview.nvim](https://github.com/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/stars/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/last-commit/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rusagaib/oas-preview.nvim)
-
-### Database
-
-- [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
-
-#### SQL
-
-- [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
-- [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
-- [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
-- [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
-- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) ![](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-dbee)
-- [ddzero2c/go-embedded-sql.nvim](https://github.com/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/stars/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/go-embedded-sql.nvim)
-
-#### PostgreSQL
-
-- [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
-- [jsMRSoL/pg.nvim](https://github.com/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/pg.nvim)
-
-#### MongoDB
-
-- [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
-
-#### SurrealDB
-
-- [DariusCorvus/tree-sitter-surrealdb.nvim](https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/stars/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/last-commit/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/commit-activity/y/DariusCorvus/tree-sitter-surrealdb.nvim)
-
 ### Jenkins
 
 - [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
@@ -588,6 +543,56 @@
 ### Drools Rule Language
 
 - [errantepiphany/drools.nvim](https://github.com/errantepiphany/drools.nvim) ![](https://img.shields.io/github/stars/errantepiphany/drools.nvim) ![](https://img.shields.io/github/last-commit/errantepiphany/drools.nvim) ![](https://img.shields.io/github/commit-activity/y/errantepiphany/drools.nvim)
+
+## Database
+
+- [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
+
+### SQL
+
+- [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
+- [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
+- [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
+- [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
+- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) ![](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-dbee)
+- [ddzero2c/go-embedded-sql.nvim](https://github.com/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/stars/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/go-embedded-sql.nvim)
+
+### PostgreSQL
+
+- [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
+- [jsMRSoL/pg.nvim](https://github.com/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/pg.nvim)
+
+### MongoDB
+
+- [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
+
+### SurrealDB
+
+- [DariusCorvus/tree-sitter-surrealdb.nvim](https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/stars/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/last-commit/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/commit-activity/y/DariusCorvus/tree-sitter-surrealdb.nvim)
+
+## Protocol
+
+### HTTP
+
+- [barrett-ruth/telescope-http.nvim](https://github.com/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/telescope-http.nvim)
+
+### REST
+
+- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
+- [Cih2001/postwoman.nvim](https://github.com/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/stars/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/postwoman.nvim)
+
+### Protocol buffer
+
+- [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
+
+### Hurl
+
+- [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
+
+### Graphql
+
+- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
+- [darkonig/nvim-graphql-executor.lua](https://github.com/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/stars/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/last-commit/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/commit-activity/y/darkonig/nvim-graphql-executor.lua)
 
 # Competitive programming
 
