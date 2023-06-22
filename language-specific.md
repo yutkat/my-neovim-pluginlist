@@ -109,6 +109,7 @@
 - [marilari88/twoslash-queries.nvim](https://github.com/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/stars/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/last-commit/marilari88/twoslash-queries.nvim) ![](https://img.shields.io/github/commit-activity/y/marilari88/twoslash-queries.nvim)
 - [barrett-ruth/import-cost.nvim](https://github.com/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/import-cost.nvim)
 - [bennypowers/template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/stars/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/template-literal-comments.nvim)
+- [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/stars/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/last-commit/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pmizio/typescript-tools.nvim)
 
 #### tsc(TypeScript compiler)
 
@@ -569,6 +570,7 @@
 #### PostgreSQL
 
 - [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
+- [jsMRSoL/pg.nvim](https://github.com/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/pg.nvim)
 
 #### MongoDB
 
