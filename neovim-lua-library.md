@@ -46,6 +46,8 @@
 
 ## Table
 
+- [darksinge/neodash.nvim](https://github.com/darksinge/neodash.nvim) ![](https://img.shields.io/github/stars/darksinge/neodash.nvim) ![](https://img.shields.io/github/last-commit/darksinge/neodash.nvim) ![](https://img.shields.io/github/commit-activity/y/darksinge/neodash.nvim)
+
 ## Class
 
 - [anuvyklack/middleclass](https://github.com/anuvyklack/middleclass) ![](https://img.shields.io/github/stars/anuvyklack/middleclass) ![](https://img.shields.io/github/last-commit/anuvyklack/middleclass) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/middleclass)
