@@ -160,6 +160,7 @@
 #### split
 
 - [yutkat/spiral-split.nvim](https://github.com/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/stars/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/last-commit/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/spiral-split.nvim)
+- [yuma140902/auto-split-direction.nvim](https://github.com/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/stars/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/last-commit/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/commit-activity/y/yuma140902/auto-split-direction.nvim)
 
 #### resize
 
