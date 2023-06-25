@@ -9,7 +9,7 @@
   * [Image](#image)
   * [Video](#video)
   * [Game](#game)
-      - [Typing](#typing)
+    + [Typing](#typing)
   * [Training](#training)
   * [Gesture](#gesture)
   * [Weather](#weather)
@@ -55,11 +55,12 @@
 - [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/stars/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/last-commit/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/commit-activity/y/jim-fx/sudoku.nvim)
 - [rafi/telescope-thesaurus.nvim](https://github.com/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/stars/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/last-commit/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/telescope-thesaurus.nvim)
 
-#### Typing
+### Typing
 
 - [nagy135/typebreak.nvim](https://github.com/nagy135/typebreak.nvim) ![](https://img.shields.io/github/stars/nagy135/typebreak.nvim) ![](https://img.shields.io/github/last-commit/nagy135/typebreak.nvim) ![](https://img.shields.io/github/commit-activity/y/nagy135/typebreak.nvim)
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/stars/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/last-commit/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/commit-activity/y/kwakzalver/duckytype.nvim)
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/stars/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/last-commit/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/commit-activity/y/BooleanCube/keylab.nvim)
+- [BYT0723/typist.nvim](https://github.com/BYT0723/typist.nvim) ![](https://img.shields.io/github/stars/BYT0723/typist.nvim) ![](https://img.shields.io/github/last-commit/BYT0723/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/BYT0723/typist.nvim)
 
 ## Training
 
@@ -98,6 +99,7 @@
 - [4542elgh/telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-youtube-mpv.nvim)
 - [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
 - [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
+- [pogyomo/harmony.nvim](https://github.com/pogyomo/harmony.nvim) ![](https://img.shields.io/github/stars/pogyomo/harmony.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/harmony.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/harmony.nvim)
 
 ### Recording
 

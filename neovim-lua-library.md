@@ -184,6 +184,7 @@
 - [I60R/map-dsl.nvim](https://github.com/I60R/map-dsl.nvim) ![](https://img.shields.io/github/stars/I60R/map-dsl.nvim) ![](https://img.shields.io/github/last-commit/I60R/map-dsl.nvim) ![](https://img.shields.io/github/commit-activity/y/I60R/map-dsl.nvim)
 - [notomo/listdefined.nvim](https://github.com/notomo/listdefined.nvim) ![](https://img.shields.io/github/stars/notomo/listdefined.nvim) ![](https://img.shields.io/github/last-commit/notomo/listdefined.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/listdefined.nvim)
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) ![](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim) ![](https://img.shields.io/github/commit-activity/y/Nexmean/caskey.nvim)
+- [jake-stewart/normon.nvim](https://github.com/jake-stewart/normon.nvim) ![](https://img.shields.io/github/stars/jake-stewart/normon.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/normon.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/normon.nvim)
 
 ## autocmd
 
