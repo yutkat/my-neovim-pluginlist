@@ -34,6 +34,7 @@
 - [IndianBoy42/fuzzy_slash.nvim](https://github.com/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/stars/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/last-commit/IndianBoy42/fuzzy_slash.nvim) ![](https://img.shields.io/github/commit-activity/y/IndianBoy42/fuzzy_slash.nvim)
 - [fsantand/magnifier.nvim](https://github.com/fsantand/magnifier.nvim) ![](https://img.shields.io/github/stars/fsantand/magnifier.nvim) ![](https://img.shields.io/github/last-commit/fsantand/magnifier.nvim) ![](https://img.shields.io/github/commit-activity/y/fsantand/magnifier.nvim)
 - [barklan/searchword.nvim](https://github.com/barklan/searchword.nvim) ![](https://img.shields.io/github/stars/barklan/searchword.nvim) ![](https://img.shields.io/github/last-commit/barklan/searchword.nvim) ![](https://img.shields.io/github/commit-activity/y/barklan/searchword.nvim)
+- [SDGLBL/hapigo.nvim](https://github.com/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/stars/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/hapigo.nvim)
 
 ## Line search
 
