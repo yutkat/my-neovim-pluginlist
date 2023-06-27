@@ -549,6 +549,7 @@
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
 - [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
+- [NeverW8/nvim_pw.nvim](https://github.com/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/stars/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/last-commit/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nvim_pw.nvim)
 
 ### IME
 
