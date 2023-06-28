@@ -107,6 +107,7 @@
   * [Hardware](#hardware)
     + [Robot](#robot)
       - [ROS](#ros)
+      - [FRC(First robotics competition)](#frcfirst-robotics-competition)
       - [LEGO](#lego)
     + [Keyboard](#keyboard)
     + [Embedded Software](#embedded-software)
@@ -607,6 +608,10 @@
 - [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
 - [taDachs/ros-nvim](https://github.com/taDachs/ros-nvim) ![](https://img.shields.io/github/stars/taDachs/ros-nvim) ![](https://img.shields.io/github/last-commit/taDachs/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/ros-nvim)
 - [taketwo/nvim-ros](https://github.com/taketwo/nvim-ros) ![](https://img.shields.io/github/stars/taketwo/nvim-ros) ![](https://img.shields.io/github/last-commit/taketwo/nvim-ros) ![](https://img.shields.io/github/commit-activity/y/taketwo/nvim-ros)
+
+##### FRC(First robotics competition)
+
+- [VLPatton/frcpal.nvim](https://github.com/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/stars/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/last-commit/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/commit-activity/y/VLPatton/frcpal.nvim)
 
 ##### LEGO
 
