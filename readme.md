@@ -104,6 +104,7 @@
   * [Reload Configuration](#reload-configuration)
   * [Package Manager](#package-manager)
   * [Remote Development](#remote-development)
+  * [Devcontainer](#devcontainer)
   * [Collaborative Editing](#collaborative-editing)
   * [Image](#image)
   * [Notification](#notification)
@@ -647,6 +648,7 @@
 - [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
 - [sindrets/scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/stars/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/scratchpad.nvim)
 - [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) ![](https://img.shields.io/github/stars/niuiic/part-edit.nvim) ![](https://img.shields.io/github/last-commit/niuiic/part-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/part-edit.nvim)
+- [musaubrian/scratch.nvim](https://github.com/musaubrian/scratch.nvim) ![](https://img.shields.io/github/stars/musaubrian/scratch.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/scratch.nvim)
 
 ### Performance Test
 

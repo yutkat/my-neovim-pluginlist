@@ -56,6 +56,7 @@
 - [LucLabarriere/light-projects.nvim](https://github.com/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/stars/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/last-commit/LucLabarriere/light-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/LucLabarriere/light-projects.nvim)
 - [Comamoca/runit.nvim](https://github.com/Comamoca/runit.nvim) ![](https://img.shields.io/github/stars/Comamoca/runit.nvim) ![](https://img.shields.io/github/last-commit/Comamoca/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/Comamoca/runit.nvim)
 - [google/executor.nvim](https://github.com/google/executor.nvim) ![](https://img.shields.io/github/stars/google/executor.nvim) ![](https://img.shields.io/github/last-commit/google/executor.nvim) ![](https://img.shields.io/github/commit-activity/y/google/executor.nvim)
+- [neysanfoo/coderunner.nvim](https://github.com/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/stars/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/coderunner.nvim)
 
 ### Shell
 

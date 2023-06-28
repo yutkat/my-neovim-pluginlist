@@ -22,6 +22,7 @@
 
 - [acifuentes99/nvim-jump-to-mark](https://github.com/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/stars/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/last-commit/acifuentes99/nvim-jump-to-mark) ![](https://img.shields.io/github/commit-activity/y/acifuentes99/nvim-jump-to-mark)
 - [LeonHeidelbach/trailblazer.nvim](https://github.com/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/stars/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/last-commit/LeonHeidelbach/trailblazer.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonHeidelbach/trailblazer.nvim)
+- [BartSte/nvim-project-marks](https://github.com/BartSte/nvim-project-marks) ![](https://img.shields.io/github/stars/BartSte/nvim-project-marks) ![](https://img.shields.io/github/last-commit/BartSte/nvim-project-marks) ![](https://img.shields.io/github/commit-activity/y/BartSte/nvim-project-marks)
 
 ### floating marker(easymotion style)
 
