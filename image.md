@@ -24,6 +24,7 @@
 - [samodostal/image.nvim](https://github.com/samodostal/image.nvim) ![](https://img.shields.io/github/stars/samodostal/image.nvim) ![](https://img.shields.io/github/last-commit/samodostal/image.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/image.nvim)
 - [adelarsq/image_preview.nvim](https://github.com/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/stars/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/image_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/image_preview.nvim)
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) ![](https://img.shields.io/github/stars/princejoogie/chafa.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/chafa.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/chafa.nvim)
+- [3rd/image.nvim](https://github.com/3rd/image.nvim) ![](https://img.shields.io/github/stars/3rd/image.nvim) ![](https://img.shields.io/github/last-commit/3rd/image.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/image.nvim)
 
 ### Image Paste
 
