@@ -195,6 +195,7 @@
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) ![](https://img.shields.io/github/stars/backdround/tabscope.nvim) ![](https://img.shields.io/github/last-commit/backdround/tabscope.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/tabscope.nvim)
 - [kkafar/nvim-manager](https://github.com/kkafar/nvim-manager) ![](https://img.shields.io/github/stars/kkafar/nvim-manager) ![](https://img.shields.io/github/last-commit/kkafar/nvim-manager) ![](https://img.shields.io/github/commit-activity/y/kkafar/nvim-manager)
 - [medwatt/tabulous](https://github.com/medwatt/tabulous) ![](https://img.shields.io/github/stars/medwatt/tabulous) ![](https://img.shields.io/github/last-commit/medwatt/tabulous) ![](https://img.shields.io/github/commit-activity/y/medwatt/tabulous)
+- [pynappo/tabnames.nvim](https://github.com/pynappo/tabnames.nvim) ![](https://img.shields.io/github/stars/pynappo/tabnames.nvim) ![](https://img.shields.io/github/last-commit/pynappo/tabnames.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/tabnames.nvim)
 
 ### select
 
