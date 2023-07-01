@@ -41,6 +41,7 @@
 - [przepompownia/nvim-dap-tab](https://github.com/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/stars/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/last-commit/przepompownia/nvim-dap-tab) ![](https://img.shields.io/github/commit-activity/y/przepompownia/nvim-dap-tab)
 - [GitEdvard/read-settings.nvim](https://github.com/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/stars/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/read-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/read-settings.nvim)
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/stars/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/last-commit/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/commit-activity/y/LiadOz/nvim-dap-repl-highlights)
+- [kilisio/nvim-dap-projects](https://github.com/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/stars/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/last-commit/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/commit-activity/y/kilisio/nvim-dap-projects)
 
 ### REPL
 

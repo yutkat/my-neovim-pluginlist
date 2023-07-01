@@ -26,6 +26,8 @@
         * [Bootstrap](#bootstrap)
         * [mjml](#mjml)
     + [Python](#python)
+      - [tweaks](#tweaks)
+        * [string](#string)
       - [test](#test)
       - [REPL](#repl)
       - [Debugger](#debugger)
@@ -223,6 +225,12 @@
 - [prevostcorentin/nvim-yawn](https://github.com/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/stars/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/last-commit/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/commit-activity/y/prevostcorentin/nvim-yawn)
 - [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/stars/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/last-commit/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/f-string-toggle.nvim)
 
+#### tweaks
+
+##### string
+
+- [haolian9/fstr.nvim](https://github.com/haolian9/fstr.nvim) ![](https://img.shields.io/github/stars/haolian9/fstr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fstr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fstr.nvim)
+
 #### test
 
 - [AckslD/nvim-pytrize.lua](https://github.com/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/stars/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/last-commit/AckslD/nvim-pytrize.lua) ![](https://img.shields.io/github/commit-activity/y/AckslD/nvim-pytrize.lua)
@@ -390,6 +398,7 @@
 ### C#
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
+- [oysandvik94/boilercreate.nvim](https://github.com/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/stars/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/boilercreate.nvim)
 
 ### Java
 
@@ -530,6 +539,7 @@
 - [phelipetls/jsonpath.nvim](https://github.com/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/stars/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/phelipetls/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/phelipetls/jsonpath.nvim)
 - [jrop/jq.nvim](https://github.com/jrop/jq.nvim) ![](https://img.shields.io/github/stars/jrop/jq.nvim) ![](https://img.shields.io/github/last-commit/jrop/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/jq.nvim)
 - [cosminadrianpopescu/telescope-json-history.nvim](https://github.com/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/stars/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/last-commit/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/commit-activity/y/cosminadrianpopescu/telescope-json-history.nvim)
+- [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) ![](https://img.shields.io/github/stars/2nthony/sortjson.nvim) ![](https://img.shields.io/github/last-commit/2nthony/sortjson.nvim) ![](https://img.shields.io/github/commit-activity/y/2nthony/sortjson.nvim)
 
 ### YAML
 
