@@ -11,6 +11,7 @@
   * [nnn wrapper](#nnn-wrapper)
   * [ranger](#ranger)
   * [Network File Manager](#network-file-manager)
+  * [Open directory](#open-directory)
 
 <!-- tocstop -->
 
@@ -91,3 +92,7 @@
 ## Network File Manager
 
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)
+
+## Open directory
+
+- [tomato3713/hijack-open-directory.nvim](https://github.com/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/stars/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/last-commit/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/tomato3713/hijack-open-directory.nvim)
