@@ -21,6 +21,7 @@
 - [njaczko/nvim-misc](https://github.com/njaczko/nvim-misc) ![](https://img.shields.io/github/stars/njaczko/nvim-misc) ![](https://img.shields.io/github/last-commit/njaczko/nvim-misc) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-misc)
 - [dchiluisac/comdrop.nvim](https://github.com/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/stars/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/last-commit/dchiluisac/comdrop.nvim) ![](https://img.shields.io/github/commit-activity/y/dchiluisac/comdrop.nvim)
 - [Seth-Buchanan/arrayify.nvim](https://github.com/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/stars/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/last-commit/Seth-Buchanan/arrayify.nvim) ![](https://img.shields.io/github/commit-activity/y/Seth-Buchanan/arrayify.nvim)
+- [ragnarok22/whereami.nvim](https://github.com/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/stars/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/whereami.nvim)
 
 ### sort
 

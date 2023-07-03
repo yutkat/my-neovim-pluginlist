@@ -105,6 +105,7 @@
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
   * [Hardware](#hardware)
+    + [CAD](#cad)
     + [Robot](#robot)
       - [ROS](#ros)
       - [FRC(First robotics competition)](#frcfirst-robotics-competition)
@@ -599,6 +600,10 @@
 
 ### Hardware
 
+#### CAD
+
+- [petrisch/nvim-hicad](https://github.com/petrisch/nvim-hicad) ![](https://img.shields.io/github/stars/petrisch/nvim-hicad) ![](https://img.shields.io/github/last-commit/petrisch/nvim-hicad) ![](https://img.shields.io/github/commit-activity/y/petrisch/nvim-hicad)
+
 #### Robot
 
 ##### ROS
@@ -616,6 +621,7 @@
 ##### LEGO
 
 - [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
+- [KWSmit/nvim-pybricks.nvim](https://github.com/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-pybricks.nvim)
 
 #### Keyboard
 
