@@ -39,7 +39,7 @@
 
 # Git
 
-- [TimUntersberger/neogit](https://github.com/TimUntersberger/neogit) ![](https://img.shields.io/github/stars/TimUntersberger/neogit) ![](https://img.shields.io/github/last-commit/TimUntersberger/neogit) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neogit)
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) ![](https://img.shields.io/github/stars/NeogitOrg/neogit) ![](https://img.shields.io/github/last-commit/NeogitOrg/neogit) ![](https://img.shields.io/github/commit-activity/y/NeogitOrg/neogit)
 - [dinhhuy258/git.nvim](https://github.com/dinhhuy258/git.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/git.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/git.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/git.nvim)
 - [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [declancm/git-scripts.nvim](https://github.com/declancm/git-scripts.nvim) ![](https://img.shields.io/github/stars/declancm/git-scripts.nvim) ![](https://img.shields.io/github/last-commit/declancm/git-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/git-scripts.nvim)
