@@ -108,6 +108,7 @@
 
 - [otavioschwanck/cool-substitute.nvim](https://github.com/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/cool-substitute.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/cool-substitute.nvim)
 - [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) ![](https://img.shields.io/github/stars/YacineDo/mc.nvim) ![](https://img.shields.io/github/last-commit/YacineDo/mc.nvim) ![](https://img.shields.io/github/commit-activity/y/YacineDo/mc.nvim)
+- [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) ![](https://img.shields.io/github/stars/smoka7/multicursors.nvim) ![](https://img.shields.io/github/last-commit/smoka7/multicursors.nvim) ![](https://img.shields.io/github/commit-activity/y/smoka7/multicursors.nvim)
 
 ## Incremental selection
 
