@@ -150,6 +150,7 @@
 - [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
 - [javio7/nvim-modelizer](https://github.com/javio7/nvim-modelizer) ![](https://img.shields.io/github/stars/javio7/nvim-modelizer) ![](https://img.shields.io/github/last-commit/javio7/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-modelizer)
 - [zapling/plantuml.nvim](https://github.com/zapling/plantuml.nvim) ![](https://img.shields.io/github/stars/zapling/plantuml.nvim) ![](https://img.shields.io/github/last-commit/zapling/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/plantuml.nvim)
+- [BenceBakos/plantuml.nvim](https://github.com/BenceBakos/plantuml.nvim) ![](https://img.shields.io/github/stars/BenceBakos/plantuml.nvim) ![](https://img.shields.io/github/last-commit/BenceBakos/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/BenceBakos/plantuml.nvim)
 
 ### AsciiDoc
 
