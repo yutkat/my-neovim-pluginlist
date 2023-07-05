@@ -317,6 +317,7 @@
 - [RRethy/nvim-align](https://github.com/RRethy/nvim-align) ![](https://img.shields.io/github/stars/RRethy/nvim-align) ![](https://img.shields.io/github/last-commit/RRethy/nvim-align) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-align)
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
 - [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
+- [imLew/nvim-align-mode](https://github.com/imLew/nvim-align-mode) ![](https://img.shields.io/github/stars/imLew/nvim-align-mode) ![](https://img.shields.io/github/last-commit/imLew/nvim-align-mode) ![](https://img.shields.io/github/commit-activity/y/imLew/nvim-align-mode)
 
 ### [TextObject, Operator](./textobject_operator.md)
 
@@ -464,6 +465,7 @@
 - [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/stars/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/last-commit/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/commit-activity/y/ethanholz/nvim-lastplace)
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
 - [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
+- [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
 
 ### Backup
 
