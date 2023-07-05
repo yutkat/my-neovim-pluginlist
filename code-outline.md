@@ -20,6 +20,7 @@
 - [SmiteshP/nvim-navbuddy](https://github.com/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navbuddy) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navbuddy)
 - [d00h/neo-tree-ctags.nvim](https://github.com/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/stars/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/last-commit/d00h/neo-tree-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/d00h/neo-tree-ctags.nvim)
 - [dawsers/navigator.nvim](https://github.com/dawsers/navigator.nvim) ![](https://img.shields.io/github/stars/dawsers/navigator.nvim) ![](https://img.shields.io/github/last-commit/dawsers/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/navigator.nvim)
+- [MikkelvtK/outliner.nvim](https://github.com/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/stars/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/last-commit/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikkelvtK/outliner.nvim)
 
 ### Call Hierarchy
 

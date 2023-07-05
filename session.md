@@ -4,7 +4,6 @@
 
 - [Session](#session)
   * [Session Selector](#session-selector)
-  * [Cursor Position](#cursor-position)
 
 <!-- tocstop -->
 
@@ -36,5 +35,3 @@
 ## Session Selector
 
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
-
-## Cursor Position
