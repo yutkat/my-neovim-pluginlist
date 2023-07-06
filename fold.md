@@ -20,6 +20,7 @@
 - [MrcJkb/nvim-lsp-foldexpr](https://github.com/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/stars/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/last-commit/MrcJkb/nvim-lsp-foldexpr) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/nvim-lsp-foldexpr)
 - [yaocccc/nvim-foldsign](https://github.com/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/stars/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-foldsign) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-foldsign)
 - [snelling-a/better-folds.nvim](https://github.com/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/stars/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/last-commit/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/commit-activity/y/snelling-a/better-folds.nvim)
+- [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/last-commit/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/malbertzard/inline-fold.nvim)
 
 ## Conceal
 
