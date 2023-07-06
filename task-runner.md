@@ -86,6 +86,7 @@
 - [mvolkmann/autorun.nvim](https://github.com/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/stars/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/last-commit/mvolkmann/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/mvolkmann/autorun.nvim)
 - [commrade-goad/nvim-cc-module](https://github.com/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/stars/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/last-commit/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/commit-activity/y/commrade-goad/nvim-cc-module)
 - [lolpie244/simple-kitty-runner.nvim](https://github.com/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/stars/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/simple-kitty-runner.nvim)
+- [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) ![](https://img.shields.io/github/stars/Hubro/nvim-splitrun) ![](https://img.shields.io/github/last-commit/Hubro/nvim-splitrun) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-splitrun)
 
 ## Auto detect style
 

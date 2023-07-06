@@ -54,6 +54,8 @@
     + [Zig](#zig)
     + [C#](#c%23)
     + [Java](#java)
+      - [Maven](#maven)
+      - [Gradle](#gradle)
     + [Kotlin](#kotlin)
     + [Scala](#scala)
     + [Dart, Flutter](#dart-flutter)
@@ -415,7 +417,14 @@
 - [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 - [Iamnotagenius/mvnsearch.nvim](https://github.com/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/stars/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/last-commit/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Iamnotagenius/mvnsearch.nvim)
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
+
+#### Maven
+
 - [eatgrass/maven.nvim](https://github.com/eatgrass/maven.nvim) ![](https://img.shields.io/github/stars/eatgrass/maven.nvim) ![](https://img.shields.io/github/last-commit/eatgrass/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/eatgrass/maven.nvim)
+
+#### Gradle
+
+- [sledigabel/gradle.nvim](https://github.com/sledigabel/gradle.nvim) ![](https://img.shields.io/github/stars/sledigabel/gradle.nvim) ![](https://img.shields.io/github/last-commit/sledigabel/gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/sledigabel/gradle.nvim)
 
 ### Kotlin
 
