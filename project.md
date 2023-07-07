@@ -29,6 +29,7 @@
 - [mohitsinghs/repo.nvim](https://github.com/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/stars/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/last-commit/mohitsinghs/repo.nvim) ![](https://img.shields.io/github/commit-activity/y/mohitsinghs/repo.nvim)
 - [mtmeyer/lil-project-switcher.nvim](https://github.com/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/stars/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/last-commit/mtmeyer/lil-project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/mtmeyer/lil-project-switcher.nvim)
 - [aaditeynair/conduct.nvim](https://github.com/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/stars/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/last-commit/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/commit-activity/y/aaditeynair/conduct.nvim)
+- [Hubro/nvim-projects](https://github.com/Hubro/nvim-projects) ![](https://img.shields.io/github/stars/Hubro/nvim-projects) ![](https://img.shields.io/github/last-commit/Hubro/nvim-projects) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-projects)
 
 #### Project Root Detector
 
