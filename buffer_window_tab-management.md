@@ -52,6 +52,7 @@
 - [ArmanHZ/nvim-select-buffer](https://github.com/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/stars/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/last-commit/ArmanHZ/nvim-select-buffer) ![](https://img.shields.io/github/commit-activity/y/ArmanHZ/nvim-select-buffer)
 - [Hajime-Suzuki/vuffers.nvim](https://github.com/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/stars/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/last-commit/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Hajime-Suzuki/vuffers.nvim)
 - [ryanoneill/treble.nvim](https://github.com/ryanoneill/treble.nvim) ![](https://img.shields.io/github/stars/ryanoneill/treble.nvim) ![](https://img.shields.io/github/last-commit/ryanoneill/treble.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanoneill/treble.nvim)
+- [gaoDean/ido.nvim](https://github.com/gaoDean/ido.nvim) ![](https://img.shields.io/github/stars/gaoDean/ido.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/ido.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/ido.nvim)
 
 ### Other Buffer Switcher
 
