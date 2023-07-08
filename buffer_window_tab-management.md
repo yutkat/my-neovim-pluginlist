@@ -202,3 +202,4 @@
 ### select
 
 - [LukasPietzschmann/telescope-tabs](https://github.com/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/stars/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/telescope-tabs) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/telescope-tabs)
+- [Lucirukei/telescope-tab-picker.nvim](https://github.com/Lucirukei/telescope-tab-picker.nvim) ![](https://img.shields.io/github/stars/Lucirukei/telescope-tab-picker.nvim) ![](https://img.shields.io/github/last-commit/Lucirukei/telescope-tab-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Lucirukei/telescope-tab-picker.nvim)
