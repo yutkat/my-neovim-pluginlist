@@ -41,7 +41,6 @@
 - [austinliuigi/bartender.nvim](https://github.com/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/stars/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/bartender.nvim)
 - [leath-dub/stat.nvim](https://github.com/leath-dub/stat.nvim) ![](https://img.shields.io/github/stars/leath-dub/stat.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/stat.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/stat.nvim)
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) ![](https://img.shields.io/github/stars/bluz71/nvim-linefly) ![](https://img.shields.io/github/last-commit/bluz71/nvim-linefly) ![](https://img.shields.io/github/commit-activity/y/bluz71/nvim-linefly)
-- [girishji/cstatusline.nvim](https://github.com/girishji/cstatusline.nvim) ![](https://img.shields.io/github/stars/girishji/cstatusline.nvim) ![](https://img.shields.io/github/last-commit/girishji/cstatusline.nvim) ![](https://img.shields.io/github/commit-activity/y/girishji/cstatusline.nvim)
 - [juiceDeLemon/schitoozleen.nvim](https://github.com/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/stars/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/last-commit/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/commit-activity/y/juiceDeLemon/schitoozleen.nvim)
 
 ### Special Features
