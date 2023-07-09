@@ -729,6 +729,7 @@
 - [kbario/homerows.nvim](https://github.com/kbario/homerows.nvim) ![](https://img.shields.io/github/stars/kbario/homerows.nvim) ![](https://img.shields.io/github/last-commit/kbario/homerows.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/homerows.nvim)
 - [vetsE/bepo.nvim](https://github.com/vetsE/bepo.nvim) ![](https://img.shields.io/github/stars/vetsE/bepo.nvim) ![](https://img.shields.io/github/last-commit/vetsE/bepo.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/bepo.nvim)
 - [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/stars/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanesmantovich/xkbswitch.nvim)
+- [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
 
 ## Util pack
 
