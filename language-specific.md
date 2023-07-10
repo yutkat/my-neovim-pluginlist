@@ -7,6 +7,7 @@
     + [Javascript/Typescript](#javascripttypescript)
       - [Toolchain](#toolchain)
         * [tsc(TypeScript compiler)](#tsctypescript-compiler)
+        * [eslint](#eslint)
         * [Formatter](#formatter)
         * [tsserver](#tsserver)
         * [Test](#test)
@@ -125,6 +126,10 @@
 ##### tsc(TypeScript compiler)
 
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/tsc.nvim)
+
+##### eslint
+
+- [gi4c0/lint-node.nvim](https://github.com/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/stars/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/last-commit/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/commit-activity/y/gi4c0/lint-node.nvim)
 
 ##### Formatter
 

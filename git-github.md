@@ -196,6 +196,7 @@
 - [vincent178/nvim-github-linker](https://github.com/vincent178/nvim-github-linker) ![](https://img.shields.io/github/stars/vincent178/nvim-github-linker) ![](https://img.shields.io/github/last-commit/vincent178/nvim-github-linker) ![](https://img.shields.io/github/commit-activity/y/vincent178/nvim-github-linker)
 - [tetzng/open-github-url.nvim](https://github.com/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/stars/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/last-commit/tetzng/open-github-url.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/open-github-url.nvim)
 - [pabloariasal/webify.nvim](https://github.com/pabloariasal/webify.nvim) ![](https://img.shields.io/github/stars/pabloariasal/webify.nvim) ![](https://img.shields.io/github/last-commit/pabloariasal/webify.nvim) ![](https://img.shields.io/github/commit-activity/y/pabloariasal/webify.nvim)
+- [Pagliacii/sys-open.nvim](https://github.com/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/stars/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/last-commit/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/commit-activity/y/Pagliacii/sys-open.nvim)
 
 ### Image
 
