@@ -223,4 +223,4 @@
 
 # Graphite
 
-- [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)](https://github.com/- [CLI](#cli)) ![](https://img.shields.io/github/stars/- [CLI](#cli)) ![](https://img.shields.io/github/last-commit/- [CLI](#cli)) ![](https://img.shields.io/github/commit-activity/y/- [CLI](#cli))
+- [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)
