@@ -20,6 +20,7 @@
 - [Error handling](#error-handling)
 - [Assert](#assert)
 - [Time](#time)
+- [UUID](#uuid)
 - [Net](#net)
   * [HTTP](#http)
   * [Curl](#curl)
@@ -129,6 +130,10 @@
 ## Time
 
 - [bartek/epochconverter.nvim](https://github.com/bartek/epochconverter.nvim) ![](https://img.shields.io/github/stars/bartek/epochconverter.nvim) ![](https://img.shields.io/github/last-commit/bartek/epochconverter.nvim) ![](https://img.shields.io/github/commit-activity/y/bartek/epochconverter.nvim)
+
+## UUID
+
+- [timwmillard/uuid.nvim](https://github.com/timwmillard/uuid.nvim) ![](https://img.shields.io/github/stars/timwmillard/uuid.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/uuid.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/uuid.nvim)
 
 ## Net
 

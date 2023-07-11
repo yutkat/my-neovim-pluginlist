@@ -34,6 +34,8 @@
     + [grep.app](#grepapp)
     + [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
+- [CLI](#cli)
+- [Graphite](#graphite)
 
 <!-- tocstop -->
 
@@ -216,3 +218,9 @@
 - [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
 - [vaidotasp/gitlab-open.nvim](https://github.com/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/stars/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/last-commit/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/commit-activity/y/vaidotasp/gitlab-open.nvim)
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
+
+# CLI
+
+# Graphite
+
+- [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)](https://github.com/- [CLI](#cli)) ![](https://img.shields.io/github/stars/- [CLI](#cli)) ![](https://img.shields.io/github/last-commit/- [CLI](#cli)) ![](https://img.shields.io/github/commit-activity/y/- [CLI](#cli))

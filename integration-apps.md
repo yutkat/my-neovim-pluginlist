@@ -53,6 +53,7 @@
     + [Kustomize](#kustomize)
     + [AWS](#aws)
       - [S3](#s3)
+      - [CloudWatch](#cloudwatch)
     + [Azure](#azure)
     + [Salesforce](#salesforce)
     + [dbt](#dbt)
@@ -345,6 +346,10 @@
 ##### S3
 
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) ![](https://img.shields.io/github/stars/kiran94/s3edit.nvim) ![](https://img.shields.io/github/last-commit/kiran94/s3edit.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/s3edit.nvim)
+
+##### CloudWatch
+
+- [DiscretePython/cw.nvim](https://github.com/DiscretePython/cw.nvim) ![](https://img.shields.io/github/stars/DiscretePython/cw.nvim) ![](https://img.shields.io/github/last-commit/DiscretePython/cw.nvim) ![](https://img.shields.io/github/commit-activity/y/DiscretePython/cw.nvim)
 
 #### Azure
 

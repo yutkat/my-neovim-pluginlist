@@ -30,6 +30,7 @@
 - [echasnovski/mini.statusline](https://github.com/echasnovski/mini.statusline) ![](https://img.shields.io/github/stars/echasnovski/mini.statusline) ![](https://img.shields.io/github/last-commit/echasnovski/mini.statusline) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.statusline)
 - [nvimdev/whiskyline.nvim](https://github.com/nvimdev/whiskyline.nvim) ![](https://img.shields.io/github/stars/nvimdev/whiskyline.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/whiskyline.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/whiskyline.nvim)
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/stars/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/last-commit/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/commit-activity/y/freddiehaddad/feline.nvim)
+- [gaoDean/fstatus.nvim](https://github.com/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/stars/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/fstatus.nvim)
 
 ### Simple
 
