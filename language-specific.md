@@ -325,6 +325,7 @@
 
 - [ii14/emmylua-nvim](https://github.com/ii14/emmylua-nvim) ![](https://img.shields.io/github/stars/ii14/emmylua-nvim) ![](https://img.shields.io/github/last-commit/ii14/emmylua-nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/emmylua-nvim)
 - [willothy/luahint](https://github.com/willothy/luahint) ![](https://img.shields.io/github/stars/willothy/luahint) ![](https://img.shields.io/github/last-commit/willothy/luahint) ![](https://img.shields.io/github/commit-activity/y/willothy/luahint)
+- [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/stars/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/Evalua)
 
 #### Stylua
 
