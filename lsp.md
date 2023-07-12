@@ -75,6 +75,7 @@
 - [luozhiya/lsp-virtual-improved.nvim](https://github.com/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/stars/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/lsp-virtual-improved.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/lsp-virtual-improved.nvim)
 - [yorickpeterse/nvim-dd](https://github.com/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-dd)
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) ![](https://img.shields.io/github/stars/dgagn/diagflow.nvim) ![](https://img.shields.io/github/last-commit/dgagn/diagflow.nvim) ![](https://img.shields.io/github/commit-activity/y/dgagn/diagflow.nvim)
+- [askfiy/lsp_extra_dim](https://github.com/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/stars/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/last-commit/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/commit-activity/y/askfiy/lsp_extra_dim)
 
 #### Definition, Reference
 
