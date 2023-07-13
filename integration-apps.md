@@ -72,6 +72,7 @@
     + [StackOverflow](#stackoverflow)
     + [OpenAI](#openai)
       - [OpenAI Review](#openai-review)
+    + [Aider](#aider)
     + [Otter](#otter)
     + [Meilisearch](#meilisearch)
     + [Trello](#trello)
@@ -464,6 +465,10 @@
 ##### OpenAI Review
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
+
+#### Aider
+
+- [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) ![](https://img.shields.io/github/stars/joshuavial/aider.nvim) ![](https://img.shields.io/github/last-commit/joshuavial/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuavial/aider.nvim)
 
 #### Otter
 

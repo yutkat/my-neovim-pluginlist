@@ -35,6 +35,7 @@
 
 - [hrsh7th/nvim-insx(endwise))](https://github.com/hrsh7th/nvim-insx) ![](https://img.shields.io/github/stars/hrsh7th/nvim-insx) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-insx) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-insx)
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
+- [haolian9/fixends.nvim](https://github.com/haolian9/fixends.nvim) ![](https://img.shields.io/github/stars/haolian9/fixends.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fixends.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fixends.nvim)
 
 ## Auto insert semicolon
 
