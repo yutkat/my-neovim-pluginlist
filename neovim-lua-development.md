@@ -115,8 +115,6 @@
 
 ## Rust
 
-- [willothy/nvim-utils](https://github.com/willothy/nvim-utils) ![](https://img.shields.io/github/stars/willothy/nvim-utils) ![](https://img.shields.io/github/last-commit/willothy/nvim-utils) ![](https://img.shields.io/github/commit-activity/y/willothy/nvim-utils)
-
 ## FFI
 
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) ![](https://img.shields.io/github/stars/noib3/nvim-oxi) ![](https://img.shields.io/github/last-commit/noib3/nvim-oxi) ![](https://img.shields.io/github/commit-activity/y/noib3/nvim-oxi)
