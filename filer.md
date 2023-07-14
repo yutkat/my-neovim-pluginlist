@@ -39,6 +39,7 @@
   - [dinhhuy258/sfm-telescope.nvim](https://github.com/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-telescope.nvim)
   - [dinhhuy258/sfm-paste.nvim](https://github.com/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-paste.nvim)
 - [echasnovski/mini.files](https://github.com/echasnovski/mini.files) ![](https://img.shields.io/github/stars/echasnovski/mini.files) ![](https://img.shields.io/github/last-commit/echasnovski/mini.files) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.files)
+- [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller)
 
 ## gx
 
