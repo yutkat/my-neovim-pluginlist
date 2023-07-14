@@ -224,6 +224,7 @@
 - [sunjon/stylish.nvim](https://github.com/sunjon/stylish.nvim) ![](https://img.shields.io/github/stars/sunjon/stylish.nvim) ![](https://img.shields.io/github/last-commit/sunjon/stylish.nvim) ![](https://img.shields.io/github/commit-activity/y/sunjon/stylish.nvim)
 - [notomo/piemenu.nvim](https://github.com/notomo/piemenu.nvim) ![](https://img.shields.io/github/stars/notomo/piemenu.nvim) ![](https://img.shields.io/github/last-commit/notomo/piemenu.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/piemenu.nvim)
 - [meznaric/conmenu](https://github.com/meznaric/conmenu) ![](https://img.shields.io/github/stars/meznaric/conmenu) ![](https://img.shields.io/github/last-commit/meznaric/conmenu) ![](https://img.shields.io/github/commit-activity/y/meznaric/conmenu)
+- [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) ![](https://img.shields.io/github/stars/willothy/hollywood.nvim) ![](https://img.shields.io/github/last-commit/willothy/hollywood.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/hollywood.nvim)
 
 ### Minimap
 
