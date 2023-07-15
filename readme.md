@@ -495,6 +495,8 @@
 
 ### Profiler
 
+- [mgerb/metrics.nvim](https://github.com/mgerb/metrics.nvim) ![](https://img.shields.io/github/stars/mgerb/metrics.nvim) ![](https://img.shields.io/github/last-commit/mgerb/metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/mgerb/metrics.nvim)
+
 ## Coding
 
 ### Reading assistant feature

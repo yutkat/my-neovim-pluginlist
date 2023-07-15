@@ -107,6 +107,7 @@
 ## VimWiki
 
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
+- [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/stars/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/last-commit/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/serenevoid/kiwi.nvim)
 
 ## Scratch Buffer
 
