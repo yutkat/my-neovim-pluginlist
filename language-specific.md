@@ -85,6 +85,7 @@
   * [Configuration File](#configuration-file)
     + [JSON](#json)
     + [YAML](#yaml)
+    + [TOML](#toml)
     + [dotbox](#dotbox)
     + [CSV](#csv)
     + [Jenkins](#jenkins)
@@ -377,6 +378,7 @@
 - [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
 - [NachoNievaG/go-tester.nvim](https://github.com/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/go-tester.nvim)
 - [crochee/gotests.nvim](https://github.com/crochee/gotests.nvim) ![](https://img.shields.io/github/stars/crochee/gotests.nvim) ![](https://img.shields.io/github/last-commit/crochee/gotests.nvim) ![](https://img.shields.io/github/commit-activity/y/crochee/gotests.nvim)
+- [hobord/gotest.nvim](https://github.com/hobord/gotest.nvim) ![](https://img.shields.io/github/stars/hobord/gotest.nvim) ![](https://img.shields.io/github/last-commit/hobord/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/hobord/gotest.nvim)
 
 ### C/C++
 
@@ -571,6 +573,10 @@
 - [someone-stole-my-name/yaml-companion.nvim](https://github.com/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/stars/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/someone-stole-my-name/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/someone-stole-my-name/yaml-companion.nvim)
 - [aubinlrx/telescope-yamlnav.nvim](https://github.com/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/stars/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/last-commit/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/commit-activity/y/aubinlrx/telescope-yamlnav.nvim)
 - [slarwise/nvim-but-yaml](https://github.com/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/stars/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/last-commit/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/commit-activity/y/slarwise/nvim-but-yaml)
+
+### TOML
+
+- [dharmx/toml.nvim](https://github.com/dharmx/toml.nvim) ![](https://img.shields.io/github/stars/dharmx/toml.nvim) ![](https://img.shields.io/github/last-commit/dharmx/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/toml.nvim)
 
 ### dotbox
 

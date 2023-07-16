@@ -26,6 +26,7 @@
 - [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
 - [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
 - [nvimdev/easyformat.nvim](https://github.com/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/stars/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/easyformat.nvim)
+- [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) ![](https://img.shields.io/github/stars/elentok/format-on-save.nvim) ![](https://img.shields.io/github/last-commit/elentok/format-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/format-on-save.nvim)
 
 ### Trim Whitespace
 
