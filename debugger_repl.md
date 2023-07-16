@@ -54,6 +54,7 @@
 - [aoi-iter/brepl.nvim](https://github.com/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/stars/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/last-commit/aoi-iter/brepl.nvim) ![](https://img.shields.io/github/commit-activity/y/aoi-iter/brepl.nvim)
 - [liborw/equals](https://github.com/liborw/equals) ![](https://img.shields.io/github/stars/liborw/equals) ![](https://img.shields.io/github/last-commit/liborw/equals) ![](https://img.shields.io/github/commit-activity/y/liborw/equals)
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/commit-activity/y/milanglacier/yarepl.nvim)
+- [sourproton/tunnell.nvim](https://github.com/sourproton/tunnell.nvim) ![](https://img.shields.io/github/stars/sourproton/tunnell.nvim) ![](https://img.shields.io/github/last-commit/sourproton/tunnell.nvim) ![](https://img.shields.io/github/commit-activity/y/sourproton/tunnell.nvim)
 
 ### Refactoring,Debugging
 
