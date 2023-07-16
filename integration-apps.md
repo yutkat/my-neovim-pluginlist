@@ -121,7 +121,6 @@
 
 ## Integration with other apps
 
-- [LinArcX/telescope-env.nvim](https://github.com/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-env.nvim)
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) ![](https://img.shields.io/github/stars/Massolari/forem.nvim) ![](https://img.shields.io/github/last-commit/Massolari/forem.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/forem.nvim)
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) ![](https://img.shields.io/github/stars/gwatcha/reaper-keys) ![](https://img.shields.io/github/last-commit/gwatcha/reaper-keys) ![](https://img.shields.io/github/commit-activity/y/gwatcha/reaper-keys)
 
