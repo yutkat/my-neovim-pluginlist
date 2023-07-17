@@ -51,6 +51,7 @@
       - [OpenAI Review](#openai-review)
     + [Aider](#aider)
     + [Otter](#otter)
+    + [Google Bard](#google-bard)
   * [Machine Learning](#machine-learning)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
@@ -362,6 +363,10 @@
 #### Otter
 
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ![](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/otter.nvim)
+
+#### Google Bard
+
+- [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
 
 ### Machine Learning
 
