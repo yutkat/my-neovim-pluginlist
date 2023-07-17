@@ -117,6 +117,7 @@
 - [atusy/tsnode-marker.nvim](https://github.com/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/stars/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/last-commit/atusy/tsnode-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/tsnode-marker.nvim)
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/stars/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/last-commit/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/edit-code-block.nvim)
 - [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-hl-mdcodeblock.lua)
+- [mskelton/hoverdown.nvim](https://github.com/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/stars/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/last-commit/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/hoverdown.nvim)
 
 #### Markdown table
 
@@ -195,6 +196,7 @@
 - [evesdropper/luasnip-latex-snippets.nvim](https://github.com/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/evesdropper/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/evesdropper/luasnip-latex-snippets.nvim)
 - [Vaisakhkm2625/hologram-math-preview.nvim](https://github.com/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/stars/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/last-commit/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Vaisakhkm2625/hologram-math-preview.nvim)
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/iurimateus/luasnip-latex-snippets.nvim)
+- [jhofscheier/ltex-utils.nvim](https://github.com/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/stars/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/last-commit/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/ltex-utils.nvim)
 
 #### BiBTex
 
