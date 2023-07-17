@@ -27,6 +27,7 @@
 - [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
 - [nvimdev/easyformat.nvim](https://github.com/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/stars/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/easyformat.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/easyformat.nvim)
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) ![](https://img.shields.io/github/stars/elentok/format-on-save.nvim) ![](https://img.shields.io/github/last-commit/elentok/format-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/format-on-save.nvim)
+- [niuiic/format.nvim](https://github.com/niuiic/format.nvim) ![](https://img.shields.io/github/stars/niuiic/format.nvim) ![](https://img.shields.io/github/last-commit/niuiic/format.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/format.nvim)
 
 ### Trim Whitespace
 
