@@ -38,6 +38,7 @@
   * [matchparen](#matchparen)
   * [Adding and subtracting](#adding-and-subtracting)
   * [Convert Case](#convert-case)
+  * [Base64](#base64)
   * [Indent](#indent)
     + [Indent Size](#indent-size)
     + [Indent Shift](#indent-shift)
@@ -296,6 +297,10 @@
 - [Skosulor/nibbler](https://github.com/Skosulor/nibbler) ![](https://img.shields.io/github/stars/Skosulor/nibbler) ![](https://img.shields.io/github/last-commit/Skosulor/nibbler) ![](https://img.shields.io/github/commit-activity/y/Skosulor/nibbler)
 - [steve21168/command-pat.nvim](https://github.com/steve21168/command-pat.nvim) ![](https://img.shields.io/github/stars/steve21168/command-pat.nvim) ![](https://img.shields.io/github/last-commit/steve21168/command-pat.nvim) ![](https://img.shields.io/github/commit-activity/y/steve21168/command-pat.nvim)
 
+### Base64
+
+- [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/decipher.nvim)
+
 ### Indent
 
 #### Indent Size
@@ -504,6 +509,7 @@
 - [haringsrob/nvim_context_vt](https://github.com/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/stars/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/last-commit/haringsrob/nvim_context_vt) ![](https://img.shields.io/github/commit-activity/y/haringsrob/nvim_context_vt)
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
 - [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/stars/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/loctvl842/breadcrumb.nvim)
+- [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/stars/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/TreePin)
 
 #### Current Position Info
 
