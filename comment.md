@@ -8,6 +8,7 @@
 - [Todo Comment Highlight](#todo-comment-highlight)
 - [Special Comment](#special-comment)
   * [Annotation](#annotation)
+  * [Comment highlight](#comment-highlight)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -54,6 +55,10 @@
 #### Annotation
 
 - [danymat/neogen](https://github.com/danymat/neogen) ![](https://img.shields.io/github/stars/danymat/neogen) ![](https://img.shields.io/github/last-commit/danymat/neogen) ![](https://img.shields.io/github/commit-activity/y/danymat/neogen)
+
+#### Comment highlight
+
+- [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
 
 ### LICENSE
 
