@@ -33,6 +33,7 @@
 - [Motion](#motion)
 - [Jump](#jump)
 - [Editing support](#editing-support)
+  * [Select Edit](#select-edit)
   * [Insert](#insert)
   * [Auto Insert](#auto-insert)
   * [matchparen](#matchparen)
@@ -255,6 +256,10 @@
 ## [Jump](./jump.md)
 
 ## Editing support
+
+### Select Edit
+
+- [00sapo/visual.nvim](https://github.com/00sapo/visual.nvim) ![](https://img.shields.io/github/stars/00sapo/visual.nvim) ![](https://img.shields.io/github/last-commit/00sapo/visual.nvim) ![](https://img.shields.io/github/commit-activity/y/00sapo/visual.nvim)
 
 ### Insert
 
