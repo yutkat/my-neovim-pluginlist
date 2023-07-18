@@ -379,6 +379,7 @@
 - [NachoNievaG/go-tester.nvim](https://github.com/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/go-tester.nvim)
 - [crochee/gotests.nvim](https://github.com/crochee/gotests.nvim) ![](https://img.shields.io/github/stars/crochee/gotests.nvim) ![](https://img.shields.io/github/last-commit/crochee/gotests.nvim) ![](https://img.shields.io/github/commit-activity/y/crochee/gotests.nvim)
 - [hobord/gotest.nvim](https://github.com/hobord/gotest.nvim) ![](https://img.shields.io/github/stars/hobord/gotest.nvim) ![](https://img.shields.io/github/last-commit/hobord/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/hobord/gotest.nvim)
+- [sshelll/gott.nvim](https://github.com/sshelll/gott.nvim) ![](https://img.shields.io/github/stars/sshelll/gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/gott.nvim)
 
 ### C/C++
 
