@@ -33,6 +33,7 @@
     + [BQN](#bqn)
     + [Skeleton](#skeleton)
     + [make](#make)
+      - [xmake](#xmake)
     + [Bazel](#bazel)
     + [ripgrep](#ripgrep)
     + [locate](#locate)
@@ -96,6 +97,7 @@
     + [Everything](#everything)
     + [AutoHotKey](#autohotkey)
   * [Mac](#mac)
+    + [iTerm](#iterm)
   * [iOS](#ios)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
@@ -262,6 +264,10 @@
 
 - [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
 - [ChSotiriou/nvim-telemake](https://github.com/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/stars/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/last-commit/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/commit-activity/y/ChSotiriou/nvim-telemake)
+
+##### xmake
+
+- [CnsMaple/xmake.nvim](https://github.com/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/stars/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/last-commit/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/CnsMaple/xmake.nvim)
 
 #### Bazel
 
@@ -554,6 +560,10 @@
 
 - [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
 - [MXCR-cpu/boop.nvim](https://github.com/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/stars/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/last-commit/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/commit-activity/y/MXCR-cpu/boop.nvim)
+
+#### iTerm
+
+- [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
 
 ### iOS
 
