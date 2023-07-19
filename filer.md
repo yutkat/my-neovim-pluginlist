@@ -97,3 +97,4 @@
 ## Open directory
 
 - [tomato3713/hijack-open-directory.nvim](https://github.com/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/stars/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/last-commit/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/tomato3713/hijack-open-directory.nvim)
+- [metalelf0/supermover.nvim](https://github.com/metalelf0/supermover.nvim) ![](https://img.shields.io/github/stars/metalelf0/supermover.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/supermover.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/supermover.nvim)
