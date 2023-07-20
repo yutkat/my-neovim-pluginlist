@@ -35,7 +35,7 @@
     + [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
 - [CLI](#cli)
-- [Graphite](#graphite)
+  * [Graphite](#graphite)
 
 <!-- tocstop -->
 
@@ -222,6 +222,6 @@
 
 # CLI
 
-# Graphite
+## Graphite
 
 - [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)
