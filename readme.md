@@ -648,6 +648,7 @@
 - [roberte777/keep-it-secret.nvim](https://github.com/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/stars/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/last-commit/roberte777/keep-it-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/roberte777/keep-it-secret.nvim)
 - [Praczet/encrypt-text.nvim](https://github.com/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/stars/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/last-commit/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/encrypt-text.nvim)
 - [kode-team/vault.nvim](https://github.com/kode-team/vault.nvim) ![](https://img.shields.io/github/stars/kode-team/vault.nvim) ![](https://img.shields.io/github/last-commit/kode-team/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/vault.nvim)
+- [Kolkhis/streamer-mode.nvim](https://github.com/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/stars/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/last-commit/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Kolkhis/streamer-mode.nvim)
 
 ### Hex
 
@@ -686,6 +687,7 @@
 - [jcdickinson/wpm.nvim](https://github.com/jcdickinson/wpm.nvim) ![](https://img.shields.io/github/stars/jcdickinson/wpm.nvim) ![](https://img.shields.io/github/last-commit/jcdickinson/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdickinson/wpm.nvim)
 - [rohanorton/mytime.nvim](https://github.com/rohanorton/mytime.nvim) ![](https://img.shields.io/github/stars/rohanorton/mytime.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mytime.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mytime.nvim)
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/gaborvecsei/usage-tracker.nvim)
+- [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) ![](https://img.shields.io/github/stars/mvllow/stand.nvim) ![](https://img.shields.io/github/last-commit/mvllow/stand.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/stand.nvim)
 
 #### Code::Stats
 
