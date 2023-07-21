@@ -440,6 +440,7 @@
 - [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
 - [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
 - [ecthelionvi/NeoSave.nvim](https://github.com/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoSave.nvim)
+- [willothy/savior.nvim](https://github.com/willothy/savior.nvim) ![](https://img.shields.io/github/stars/willothy/savior.nvim) ![](https://img.shields.io/github/last-commit/willothy/savior.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/savior.nvim)
 
 #### Cursor Position
 
