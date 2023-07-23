@@ -27,6 +27,7 @@
 ## Alarm
 
 - [gnuh/nalarm.nvim](https://github.com/gnuh/nalarm.nvim) ![](https://img.shields.io/github/stars/gnuh/nalarm.nvim) ![](https://img.shields.io/github/last-commit/gnuh/nalarm.nvim) ![](https://img.shields.io/github/commit-activity/y/gnuh/nalarm.nvim)
+- [Asthestarsfalll/clock.nvim](https://github.com/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/stars/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/last-commit/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/Asthestarsfalll/clock.nvim)
 
 ## Do Not Disturb
 

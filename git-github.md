@@ -200,6 +200,7 @@
 - [pabloariasal/webify.nvim](https://github.com/pabloariasal/webify.nvim) ![](https://img.shields.io/github/stars/pabloariasal/webify.nvim) ![](https://img.shields.io/github/last-commit/pabloariasal/webify.nvim) ![](https://img.shields.io/github/commit-activity/y/pabloariasal/webify.nvim)
 - [Pagliacii/sys-open.nvim](https://github.com/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/stars/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/last-commit/Pagliacii/sys-open.nvim) ![](https://img.shields.io/github/commit-activity/y/Pagliacii/sys-open.nvim)
 - [haolian9/thislineongithub.nvim](https://github.com/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/stars/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/last-commit/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/thislineongithub.nvim)
+- [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/stars/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/last-commit/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/commit-activity/y/mrshmllow/open-handlers.nvim)
 
 ### Image
 
