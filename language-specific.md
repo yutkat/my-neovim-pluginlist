@@ -52,6 +52,7 @@
       - [gofmt](#gofmt)
       - [Test](#test-1)
     + [C/C++](#cc)
+      - [Formatter](#formatter-1)
       - [Cmake](#cmake)
     + [Zig](#zig)
     + [C#](#c%23)
@@ -122,6 +123,7 @@
 - [barrett-ruth/import-cost.nvim](https://github.com/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/import-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/import-cost.nvim)
 - [bennypowers/template-literal-comments.nvim](https://github.com/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/stars/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/template-literal-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/template-literal-comments.nvim)
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/stars/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/last-commit/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pmizio/typescript-tools.nvim)
+- [llllvvuu/nvim-js-actions](https://github.com/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/stars/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/last-commit/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/commit-activity/y/llllvvuu/nvim-js-actions)
 
 #### Toolchain
 
@@ -405,6 +407,10 @@
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
 - [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
+
+#### Formatter
+
+- [Diogo-ss/42-C-Formatter.nvim](https://github.com/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/42-C-Formatter.nvim)
 
 #### Cmake
 
