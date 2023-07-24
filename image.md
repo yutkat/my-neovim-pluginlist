@@ -32,6 +32,7 @@
 - [niuiic/cp-image.nvim](https://github.com/niuiic/cp-image.nvim) ![](https://img.shields.io/github/stars/niuiic/cp-image.nvim) ![](https://img.shields.io/github/last-commit/niuiic/cp-image.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/cp-image.nvim)
 - [evanpurkhiser/image-paste.nvim](https://github.com/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/stars/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/last-commit/evanpurkhiser/image-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/evanpurkhiser/image-paste.nvim)
 - [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/pastify.nvim)
+- [zaiic/pinmd.nvim](https://github.com/zaiic/pinmd.nvim) ![](https://img.shields.io/github/stars/zaiic/pinmd.nvim) ![](https://img.shields.io/github/last-commit/zaiic/pinmd.nvim) ![](https://img.shields.io/github/commit-activity/y/zaiic/pinmd.nvim)
 
 ### Image Uploader
 
