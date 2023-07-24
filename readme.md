@@ -266,6 +266,7 @@
 - [njaczko/nvim-dummy-text](https://github.com/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/stars/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/last-commit/njaczko/nvim-dummy-text) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-dummy-text)
 - [bwintertkb/enclose_nav.nvim](https://github.com/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/stars/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/last-commit/bwintertkb/enclose_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/bwintertkb/enclose_nav.nvim)
 - [AntonVanAssche/date-time-inserter.nvim](https://github.com/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/date-time-inserter.nvim)
+- [resonyze/erase_node.nvim](https://github.com/resonyze/erase_node.nvim) ![](https://img.shields.io/github/stars/resonyze/erase_node.nvim) ![](https://img.shields.io/github/last-commit/resonyze/erase_node.nvim) ![](https://img.shields.io/github/commit-activity/y/resonyze/erase_node.nvim)
 
 ### [Auto Insert](./auto-insert.md)
 
