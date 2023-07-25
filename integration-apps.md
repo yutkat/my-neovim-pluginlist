@@ -435,7 +435,6 @@
 
 #### Discord
 
-- [Cyuria/discord.nvim](https://github.com/Cyuria/discord.nvim) ![](https://img.shields.io/github/stars/Cyuria/discord.nvim) ![](https://img.shields.io/github/last-commit/Cyuria/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/Cyuria/discord.nvim)
 - [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
 - [CatKoder123/presence.nvim](https://github.com/CatKoder123/presence.nvim) ![](https://img.shields.io/github/stars/CatKoder123/presence.nvim) ![](https://img.shields.io/github/last-commit/CatKoder123/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/CatKoder123/presence.nvim)
 
