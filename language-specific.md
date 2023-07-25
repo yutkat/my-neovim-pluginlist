@@ -578,6 +578,7 @@
 - [jrop/jq.nvim](https://github.com/jrop/jq.nvim) ![](https://img.shields.io/github/stars/jrop/jq.nvim) ![](https://img.shields.io/github/last-commit/jrop/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/jq.nvim)
 - [cosminadrianpopescu/telescope-json-history.nvim](https://github.com/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/stars/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/last-commit/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/commit-activity/y/cosminadrianpopescu/telescope-json-history.nvim)
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) ![](https://img.shields.io/github/stars/2nthony/sortjson.nvim) ![](https://img.shields.io/github/last-commit/2nthony/sortjson.nvim) ![](https://img.shields.io/github/commit-activity/y/2nthony/sortjson.nvim)
+- [Duologic/nvim-jsonnet](https://github.com/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/stars/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/last-commit/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/commit-activity/y/Duologic/nvim-jsonnet)
 
 ### YAML
 

@@ -50,6 +50,7 @@
 - [ray-x/forgit.nvim](https://github.com/ray-x/forgit.nvim) ![](https://img.shields.io/github/stars/ray-x/forgit.nvim) ![](https://img.shields.io/github/last-commit/ray-x/forgit.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/forgit.nvim)
 - [Syu-fu/telescope-gitcommand.nvim](https://github.com/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/stars/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/last-commit/Syu-fu/telescope-gitcommand.nvim) ![](https://img.shields.io/github/commit-activity/y/Syu-fu/telescope-gitcommand.nvim)
 - [mathiasmellemstuen/git-popup.nvim](https://github.com/mathiasmellemstuen/git-popup.nvim) ![](https://img.shields.io/github/stars/mathiasmellemstuen/git-popup.nvim) ![](https://img.shields.io/github/last-commit/mathiasmellemstuen/git-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/mathiasmellemstuen/git-popup.nvim)
+- [haolian9/digits.nvim](https://github.com/haolian9/digits.nvim) ![](https://img.shields.io/github/stars/haolian9/digits.nvim) ![](https://img.shields.io/github/last-commit/haolian9/digits.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/digits.nvim)
 
 ## lazygit
 
