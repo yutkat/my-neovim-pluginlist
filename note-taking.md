@@ -51,6 +51,7 @@
 ## Markdown
 
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
+- [aaronbartholomew/inka.nvim](https://github.com/aaronbartholomew/inka.nvim) ![](https://img.shields.io/github/stars/aaronbartholomew/inka.nvim) ![](https://img.shields.io/github/last-commit/aaronbartholomew/inka.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronbartholomew/inka.nvim)
 
 ## ToDo
 
