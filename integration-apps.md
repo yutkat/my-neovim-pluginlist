@@ -580,6 +580,7 @@
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
 - [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
 - [NeverW8/nvim_pw.nvim](https://github.com/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/stars/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/last-commit/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nvim_pw.nvim)
+- [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
 
 ### IME
 
@@ -655,6 +656,7 @@
 
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 - [jdsee/umlauts.nvim](https://github.com/jdsee/umlauts.nvim) ![](https://img.shields.io/github/stars/jdsee/umlauts.nvim) ![](https://img.shields.io/github/last-commit/jdsee/umlauts.nvim) ![](https://img.shields.io/github/commit-activity/y/jdsee/umlauts.nvim)
+- [linduxed/colemak.nvim](https://github.com/linduxed/colemak.nvim) ![](https://img.shields.io/github/stars/linduxed/colemak.nvim) ![](https://img.shields.io/github/last-commit/linduxed/colemak.nvim) ![](https://img.shields.io/github/commit-activity/y/linduxed/colemak.nvim)
 
 #### Embedded Software
 

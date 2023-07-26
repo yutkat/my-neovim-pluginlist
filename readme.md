@@ -710,6 +710,7 @@
 - [allvpv/resize-font.nvim](https://github.com/allvpv/resize-font.nvim) ![](https://img.shields.io/github/stars/allvpv/resize-font.nvim) ![](https://img.shields.io/github/last-commit/allvpv/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/allvpv/resize-font.nvim)
 - [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
+- [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 
 ### [Emoji](./emoji.md)
 
