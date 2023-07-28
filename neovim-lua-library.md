@@ -134,6 +134,7 @@
 ## UUID
 
 - [timwmillard/uuid.nvim](https://github.com/timwmillard/uuid.nvim) ![](https://img.shields.io/github/stars/timwmillard/uuid.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/uuid.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/uuid.nvim)
+- [srpmtt/nvim-guid-generator](https://github.com/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/stars/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-guid-generator)
 
 ## Net
 

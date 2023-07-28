@@ -59,6 +59,7 @@
     + [Java](#java)
       - [Maven](#maven)
       - [Gradle](#gradle)
+      - [Spring Boot](#spring-boot)
     + [Kotlin](#kotlin)
     + [Scala](#scala)
     + [Dart, Flutter](#dart-flutter)
@@ -447,6 +448,10 @@
 #### Gradle
 
 - [sledigabel/gradle.nvim](https://github.com/sledigabel/gradle.nvim) ![](https://img.shields.io/github/stars/sledigabel/gradle.nvim) ![](https://img.shields.io/github/last-commit/sledigabel/gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/sledigabel/gradle.nvim)
+
+#### Spring Boot
+
+- [niT-Tin/springboot-start.nvim](https://github.com/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/stars/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/last-commit/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/commit-activity/y/niT-Tin/springboot-start.nvim)
 
 ### Kotlin
 
