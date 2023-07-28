@@ -465,6 +465,7 @@
 - [echasnovski/mini.starter](https://github.com/echasnovski/mini.starter) ![](https://img.shields.io/github/stars/echasnovski/mini.starter) ![](https://img.shields.io/github/last-commit/echasnovski/mini.starter) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.starter)
 - [Kibadda/start-screen-sections.nvim](https://github.com/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/stars/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/start-screen-sections.nvim)
 - [eoh-bse/minintro.nvim](https://github.com/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/stars/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/last-commit/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/commit-activity/y/eoh-bse/minintro.nvim)
+- [Yoolayn/nvim-intro](https://github.com/Yoolayn/nvim-intro) ![](https://img.shields.io/github/stars/Yoolayn/nvim-intro) ![](https://img.shields.io/github/last-commit/Yoolayn/nvim-intro) ![](https://img.shields.io/github/commit-activity/y/Yoolayn/nvim-intro)
 
 ### Boot Arguments
 
