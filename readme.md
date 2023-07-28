@@ -554,6 +554,7 @@
 - [kiddos/translate.nvim](https://github.com/kiddos/translate.nvim) ![](https://img.shields.io/github/stars/kiddos/translate.nvim) ![](https://img.shields.io/github/last-commit/kiddos/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/translate.nvim)
 - [nabezokodaikon/translate.nvim](https://github.com/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/stars/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/last-commit/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/nabezokodaikon/translate.nvim)
 - [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
+- [Eric-Song-Nop/virtrans.nvim](https://github.com/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/virtrans.nvim)
 
 ### Manual
 
@@ -590,6 +591,7 @@
 
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/distant.nvim)
 - [stefanwatt/remote.nvim](https://github.com/stefanwatt/remote.nvim) ![](https://img.shields.io/github/stars/stefanwatt/remote.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/remote.nvim)
+- [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/stars/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/last-commit/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/amitds1997/remote-nvim.nvim)
 
 ### Devcontainer
 
