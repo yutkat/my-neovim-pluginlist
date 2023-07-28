@@ -446,7 +446,6 @@
 
 #### Cursor Position
 
-- [ethanholz/nvim-lastplace](https://github.com/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/stars/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/last-commit/ethanholz/nvim-lastplace) ![](https://img.shields.io/github/commit-activity/y/ethanholz/nvim-lastplace)
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
 - [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
 - [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
