@@ -408,6 +408,7 @@
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
 - [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
+- [v1nh1shungry/cppreference.nvim](https://github.com/v1nh1shungry/cppreference.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/cppreference.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/cppreference.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/cppreference.nvim)
 
 #### Formatter
 
@@ -452,6 +453,7 @@
 #### Spring Boot
 
 - [niT-Tin/springboot-start.nvim](https://github.com/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/stars/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/last-commit/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/commit-activity/y/niT-Tin/springboot-start.nvim)
+- [mslauson/spring-boot.nvim](https://github.com/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/stars/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/mslauson/spring-boot.nvim)
 
 ### Kotlin
 
