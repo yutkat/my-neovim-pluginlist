@@ -133,6 +133,7 @@
 - [lalitmee/browse.nvim](https://github.com/lalitmee/browse.nvim) ![](https://img.shields.io/github/stars/lalitmee/browse.nvim) ![](https://img.shields.io/github/last-commit/lalitmee/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lalitmee/browse.nvim)
 - [psaikido/hupoon.nvim](https://github.com/psaikido/hupoon.nvim) ![](https://img.shields.io/github/stars/psaikido/hupoon.nvim) ![](https://img.shields.io/github/last-commit/psaikido/hupoon.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/hupoon.nvim)
 - [mochi-sann/Select2Browser.nvim](https://github.com/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/stars/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/last-commit/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/commit-activity/y/mochi-sann/Select2Browser.nvim)
+- [andres-lowrie/nvim-search-internet](https://github.com/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/stars/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/last-commit/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/commit-activity/y/andres-lowrie/nvim-search-internet)
 
 #### Firefox
 
@@ -194,6 +195,7 @@
 #### WezTerm
 
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) ![](https://img.shields.io/github/stars/willothy/wezterm.nvim) ![](https://img.shields.io/github/last-commit/willothy/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/wezterm.nvim)
+- [jonboh/wezterm-mux.nvim](https://github.com/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/stars/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/last-commit/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/commit-activity/y/jonboh/wezterm-mux.nvim)
 
 #### Windows Terminal
 
