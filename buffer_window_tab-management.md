@@ -146,6 +146,7 @@
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/stars/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/stabilize.nvim)
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) ![](https://img.shields.io/github/stars/anuvyklack/windows.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/windows.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/windows.nvim)
 - [hesiod-au/fastkeywins.nvim](https://github.com/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/stars/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/fastkeywins.nvim)
+- [willothy/glass.nvim](https://github.com/willothy/glass.nvim) ![](https://img.shields.io/github/stars/willothy/glass.nvim) ![](https://img.shields.io/github/last-commit/willothy/glass.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/glass.nvim)
 
 #### swap
 
