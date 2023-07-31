@@ -90,6 +90,7 @@
 - [frroossst/dragonglass.nvim](https://github.com/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/stars/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/last-commit/frroossst/dragonglass.nvim) ![](https://img.shields.io/github/commit-activity/y/frroossst/dragonglass.nvim)
 - [apmyplol/nvim-obsidian-stuff](https://github.com/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/stars/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/last-commit/apmyplol/nvim-obsidian-stuff) ![](https://img.shields.io/github/commit-activity/y/apmyplol/nvim-obsidian-stuff)
 - [Aya-nvim/Aya-vault.nvim](https://github.com/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/stars/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/last-commit/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/Aya-nvim/Aya-vault.nvim)
+- [ada0l/obsidian](https://github.com/ada0l/obsidian) ![](https://img.shields.io/github/stars/ada0l/obsidian) ![](https://img.shields.io/github/last-commit/ada0l/obsidian) ![](https://img.shields.io/github/commit-activity/y/ada0l/obsidian)
 
 ## Google Keep
 
