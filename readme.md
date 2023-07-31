@@ -86,6 +86,7 @@
       - [Indent Guide](#indent-guide)
   * [Linter / Formatter](#linter--formatter)
   * [Regex](#regex)
+  * [Generate documentation](#generate-documentation)
   * [Code outline](#code-outline)
   * [Snippet/Template](#snippettemplate)
   * [Task Runner](#task-runner)
@@ -191,6 +192,7 @@
 ### Window Separators
 
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/stars/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/last-commit/nvim-zh/colorful-winsep.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-zh/colorful-winsep.nvim)
+- [A-Lamia/spotlight.nvim](https://github.com/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/stars/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/last-commit/A-Lamia/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/A-Lamia/spotlight.nvim)
 
 ### Screen position
 
@@ -518,6 +520,10 @@
 - [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) ![](https://img.shields.io/github/stars/Djancyp/regex.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/regex.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/regex.nvim)
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
 - [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
+
+### Generate documentation
+
+- [Zeioth/dooku.nvim](https://github.com/Zeioth/dooku.nvim) ![](https://img.shields.io/github/stars/Zeioth/dooku.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/dooku.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/dooku.nvim)
 
 ### [Code outline](./code-outline.md)
 
