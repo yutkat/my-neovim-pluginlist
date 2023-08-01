@@ -54,6 +54,7 @@
   * [Mark](#mark)
   * [Undo](#undo)
   * [Diff](#diff)
+    + [Register](#register)
   * [Tags](#tags)
   * [Fold / Conceal](#fold--conceal)
   * [Calculation](#calculation)
@@ -352,8 +353,12 @@
 ### Diff
 
 - [aaron-p1/compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/compare-remotes.nvim)
-- [antosha417/nvim-compare-with-clipboard](https://github.com/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/stars/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/last-commit/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/commit-activity/y/antosha417/nvim-compare-with-clipboard)
 - [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/stars/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/last-commit/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jemag/telescope-diff.nvim)
+
+#### Register
+
+- [antosha417/nvim-compare-with-clipboard](https://github.com/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/stars/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/last-commit/antosha417/nvim-compare-with-clipboard) ![](https://img.shields.io/github/commit-activity/y/antosha417/nvim-compare-with-clipboard)
+- [ksuimraoShare/diff-register.nvim](https://github.com/ksuimraoShare/diff-register.nvim) ![](https://img.shields.io/github/stars/ksuimraoShare/diff-register.nvim) ![](https://img.shields.io/github/last-commit/ksuimraoShare/diff-register.nvim) ![](https://img.shields.io/github/commit-activity/y/ksuimraoShare/diff-register.nvim)
 
 ### Tags
 
@@ -659,6 +664,7 @@
 - [Praczet/encrypt-text.nvim](https://github.com/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/stars/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/last-commit/Praczet/encrypt-text.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/encrypt-text.nvim)
 - [kode-team/vault.nvim](https://github.com/kode-team/vault.nvim) ![](https://img.shields.io/github/stars/kode-team/vault.nvim) ![](https://img.shields.io/github/last-commit/kode-team/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/vault.nvim)
 - [Kolkhis/streamer-mode.nvim](https://github.com/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/stars/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/last-commit/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Kolkhis/streamer-mode.nvim)
+- [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/stars/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/last-commit/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/lucidph3nx/nvim-sops)
 
 ### Hex
 

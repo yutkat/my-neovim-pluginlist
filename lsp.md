@@ -77,6 +77,8 @@
 - [yorickpeterse/nvim-dd](https://github.com/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-dd) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-dd)
 - [dgagn/diagflow.nvim](https://github.com/dgagn/diagflow.nvim) ![](https://img.shields.io/github/stars/dgagn/diagflow.nvim) ![](https://img.shields.io/github/last-commit/dgagn/diagflow.nvim) ![](https://img.shields.io/github/commit-activity/y/dgagn/diagflow.nvim)
 - [askfiy/lsp_extra_dim](https://github.com/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/stars/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/last-commit/askfiy/lsp_extra_dim) ![](https://img.shields.io/github/commit-activity/y/askfiy/lsp_extra_dim)
+- [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/stars/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/santigo-zero/right-corner-diagnostics.nvim)
+- [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/stars/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/last-commit/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/commit-activity/y/cdecompilador/rcd.nvim)
 
 #### Definition, Reference
 
