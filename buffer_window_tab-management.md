@@ -15,6 +15,7 @@
     + [auto close](#auto-close)
     + [access control](#access-control)
   * [Scratch Buffer](#scratch-buffer)
+  * [buffer Sharing](#buffer-sharing)
 - [Window](#window)
   * [Window Switcher](#window-switcher)
   * [Window Management](#window-management)
@@ -131,6 +132,10 @@
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) ![](https://img.shields.io/github/stars/m-demare/attempt.nvim) ![](https://img.shields.io/github/last-commit/m-demare/attempt.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/attempt.nvim)
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) ![](https://img.shields.io/github/stars/n-shift/scratch.nvim) ![](https://img.shields.io/github/last-commit/n-shift/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/n-shift/scratch.nvim)
 - [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoNoName.lua)
+
+### buffer Sharing
+
+- [tomiis4/BufEx.nvim](https://github.com/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/stars/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/BufEx.nvim)
 
 ## Window
 
