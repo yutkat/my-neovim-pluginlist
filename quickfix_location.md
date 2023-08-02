@@ -19,6 +19,7 @@
 - [izo0x90/quickfix_actually.nvim](https://github.com/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/stars/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/last-commit/izo0x90/quickfix_actually.nvim) ![](https://img.shields.io/github/commit-activity/y/izo0x90/quickfix_actually.nvim)
 - [notomo/unionbuf.nvim](https://github.com/notomo/unionbuf.nvim) ![](https://img.shields.io/github/stars/notomo/unionbuf.nvim) ![](https://img.shields.io/github/last-commit/notomo/unionbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/unionbuf.nvim)
 - [ashfinal/qfview.nvim](https://github.com/ashfinal/qfview.nvim) ![](https://img.shields.io/github/stars/ashfinal/qfview.nvim) ![](https://img.shields.io/github/last-commit/ashfinal/qfview.nvim) ![](https://img.shields.io/github/commit-activity/y/ashfinal/qfview.nvim)
+- [hfn92/qf-virtual-text.nvim](https://github.com/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/stars/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/last-commit/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/qf-virtual-text.nvim)
 
 ### Syntax
 
