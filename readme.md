@@ -437,6 +437,7 @@
 - [Sc4ramouche/lists.nvim](https://github.com/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/stars/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/last-commit/Sc4ramouche/lists.nvim) ![](https://img.shields.io/github/commit-activity/y/Sc4ramouche/lists.nvim)
 - [rolf-stargate/ankifly.nvim](https://github.com/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/stars/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/last-commit/rolf-stargate/ankifly.nvim) ![](https://img.shields.io/github/commit-activity/y/rolf-stargate/ankifly.nvim)
 - [tobb10001/indexcard.nvim](https://github.com/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/stars/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/last-commit/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/commit-activity/y/tobb10001/indexcard.nvim)
+- [Tyler-Barham/floating-help.nvim](https://github.com/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/stars/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/last-commit/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyler-Barham/floating-help.nvim)
 
 ### Save
 
