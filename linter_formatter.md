@@ -47,6 +47,7 @@
   - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lint) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lint) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lint)
 - [nvimdev/guard.nvim(lint)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
+- [haolian9/linters.nvim](https://github.com/haolian9/linters.nvim) ![](https://img.shields.io/github/stars/haolian9/linters.nvim) ![](https://img.shields.io/github/last-commit/haolian9/linters.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/linters.nvim)
 
 ### Global variables
 

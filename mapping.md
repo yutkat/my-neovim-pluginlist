@@ -28,6 +28,7 @@
 - [michamos/vim-bepo](https://github.com/michamos/vim-bepo) ![](https://img.shields.io/github/stars/michamos/vim-bepo) ![](https://img.shields.io/github/last-commit/michamos/vim-bepo) ![](https://img.shields.io/github/commit-activity/y/michamos/vim-bepo)
 - [FLinguenheld/potpourri.nvim](https://github.com/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/stars/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/last-commit/FLinguenheld/potpourri.nvim) ![](https://img.shields.io/github/commit-activity/y/FLinguenheld/potpourri.nvim)
 - [liangxianzhe/nap.nvim](https://github.com/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/nap.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/nap.nvim)
+- [lumiknit/emacs-keys.nvim](https://github.com/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/stars/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/last-commit/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/lumiknit/emacs-keys.nvim)
 
 ## Bracket
 

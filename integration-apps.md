@@ -89,6 +89,7 @@
   * [OS](#os)
     + [Linux](#linux)
       - [gnome](#gnome)
+      - [Nix](#nix)
       - [drun](#drun)
       - [darkman](#darkman)
       - [fribidi](#fribidi)
@@ -531,6 +532,10 @@
 ##### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+##### Nix
+
+- [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ![](https://img.shields.io/github/stars/calops/hmts.nvim) ![](https://img.shields.io/github/last-commit/calops/hmts.nvim) ![](https://img.shields.io/github/commit-activity/y/calops/hmts.nvim)
 
 ##### drun
 
