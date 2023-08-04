@@ -249,6 +249,7 @@
 - [xiyaowong/transparent.nvim](https://github.com/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/stars/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/transparent.nvim)
 - [typicode/bg.nvim](https://github.com/typicode/bg.nvim) ![](https://img.shields.io/github/stars/typicode/bg.nvim) ![](https://img.shields.io/github/last-commit/typicode/bg.nvim) ![](https://img.shields.io/github/commit-activity/y/typicode/bg.nvim)
 - [orumin/ya-seiya.nvim](https://github.com/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/stars/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/last-commit/orumin/ya-seiya.nvim) ![](https://img.shields.io/github/commit-activity/y/orumin/ya-seiya.nvim)
+- [wangl-cc/auto-bg.nvim](https://github.com/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/stars/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/last-commit/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/wangl-cc/auto-bg.nvim)
 
 ## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)
 
@@ -341,6 +342,7 @@
 - [sitiom/nvim-numbertoggle](https://github.com/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/stars/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/last-commit/sitiom/nvim-numbertoggle) ![](https://img.shields.io/github/commit-activity/y/sitiom/nvim-numbertoggle)
 - [joshdirkx/toggle-relativenumber.nvim](https://github.com/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/stars/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/last-commit/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/commit-activity/y/joshdirkx/toggle-relativenumber.nvim)
 - [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/stars/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/relative-toggle.nvim)
+- [gvlatko/inline-relative-numbers.nvim](https://github.com/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/stars/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/last-commit/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/gvlatko/inline-relative-numbers.nvim)
 
 ### [Mark](./mark.md)
 
