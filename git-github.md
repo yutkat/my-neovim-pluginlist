@@ -136,6 +136,7 @@
 
 - [antonk52/gitignore-grabber.nvim](https://github.com/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/stars/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/last-commit/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/gitignore-grabber.nvim)
 - [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/stars/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/last-commit/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/wintermute-cell/gitignore.nvim)
+- [dylf/gitignore.nvim](https://github.com/dylf/gitignore.nvim) ![](https://img.shields.io/github/stars/dylf/gitignore.nvim) ![](https://img.shields.io/github/last-commit/dylf/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/dylf/gitignore.nvim)
 
 ## git hook
 

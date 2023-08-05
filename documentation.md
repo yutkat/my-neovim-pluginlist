@@ -74,6 +74,7 @@
 ##### Lua
 
 - [jbyuki/md-prev.nvim](https://github.com/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/stars/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/md-prev.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/md-prev.nvim)
+- [mrjones2014/mdpreview.nvim](https://github.com/mrjones2014/mdpreview.nvim) ![](https://img.shields.io/github/stars/mrjones2014/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/mdpreview.nvim)
 
 ##### Node
 

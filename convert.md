@@ -6,6 +6,7 @@
   * [Adding and subtracting](#adding-and-subtracting)
   * [Convert Case](#convert-case)
   * [Base64](#base64)
+  * [Date](#date)
 
 <!-- tocstop -->
 
@@ -39,3 +40,7 @@
 ### Base64
 
 - [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/decipher.nvim)
+
+### Date
+
+- [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/stars/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/last-commit/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianvalenz/chronos.nvim)

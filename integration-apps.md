@@ -222,6 +222,7 @@
 - [connordeckers/tmux-navigator.nvim](https://github.com/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/stars/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/last-commit/connordeckers/tmux-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/connordeckers/tmux-navigator.nvim)
 - [DeviousStoat/mumux.nvim](https://github.com/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/stars/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/last-commit/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/commit-activity/y/DeviousStoat/mumux.nvim)
 - [maladroitthief/telescope-rtfm.nvim](https://github.com/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/stars/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/telescope-rtfm.nvim)
+- [ErvinRacz/tmux-interface.nvim](https://github.com/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/stars/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/last-commit/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/commit-activity/y/ErvinRacz/tmux-interface.nvim)
 
 ##### tmux alternative
 
@@ -441,6 +442,7 @@
 
 - [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
 - [CatKoder123/presence.nvim](https://github.com/CatKoder123/presence.nvim) ![](https://img.shields.io/github/stars/CatKoder123/presence.nvim) ![](https://img.shields.io/github/last-commit/CatKoder123/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/CatKoder123/presence.nvim)
+- [einKnuffy/betterpresence.nvim](https://github.com/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/stars/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/last-commit/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/einKnuffy/betterpresence.nvim)
 
 #### Slack
 

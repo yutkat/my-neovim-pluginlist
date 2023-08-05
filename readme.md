@@ -126,6 +126,7 @@
   * [EDITOR](#editor)
   * [Tutorial](#tutorial)
   * [Analytics](#analytics)
+  * [IDE feature](#ide-feature)
     + [Code::Stats](#codestats)
   * [Update check](#update-check)
   * [Font](#font)
@@ -707,6 +708,10 @@
 - [rohanorton/mytime.nvim](https://github.com/rohanorton/mytime.nvim) ![](https://img.shields.io/github/stars/rohanorton/mytime.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mytime.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mytime.nvim)
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/gaborvecsei/usage-tracker.nvim)
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) ![](https://img.shields.io/github/stars/mvllow/stand.nvim) ![](https://img.shields.io/github/last-commit/mvllow/stand.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/stand.nvim)
+
+### IDE feature
+
+- [AbaoFromCUG/intergrater.nvim](https://github.com/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/intergrater.nvim)
 
 #### Code::Stats
 
