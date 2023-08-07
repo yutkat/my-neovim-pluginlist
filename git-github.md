@@ -186,6 +186,7 @@
 
 - [senkentarou/gopr.nvim](https://github.com/senkentarou/gopr.nvim) ![](https://img.shields.io/github/stars/senkentarou/gopr.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gopr.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gopr.nvim)
 - [rnprest/merge-request.nvim](https://github.com/rnprest/merge-request.nvim) ![](https://img.shields.io/github/stars/rnprest/merge-request.nvim) ![](https://img.shields.io/github/last-commit/rnprest/merge-request.nvim) ![](https://img.shields.io/github/commit-activity/y/rnprest/merge-request.nvim)
+- [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) ![](https://img.shields.io/github/stars/Velrok/pr_status.nvim) ![](https://img.shields.io/github/last-commit/Velrok/pr_status.nvim) ![](https://img.shields.io/github/commit-activity/y/Velrok/pr_status.nvim)
 
 ## Actions
 
