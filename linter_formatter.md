@@ -28,6 +28,7 @@
 - [seblj/nvim-formatter](https://github.com/seblj/nvim-formatter) ![](https://img.shields.io/github/stars/seblj/nvim-formatter) ![](https://img.shields.io/github/last-commit/seblj/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-formatter)
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) ![](https://img.shields.io/github/stars/elentok/format-on-save.nvim) ![](https://img.shields.io/github/last-commit/elentok/format-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/format-on-save.nvim)
 - [niuiic/format.nvim](https://github.com/niuiic/format.nvim) ![](https://img.shields.io/github/stars/niuiic/format.nvim) ![](https://img.shields.io/github/last-commit/niuiic/format.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/format.nvim)
+- [haolian9/morphling.nvim](https://github.com/haolian9/morphling.nvim) ![](https://img.shields.io/github/stars/haolian9/morphling.nvim) ![](https://img.shields.io/github/last-commit/haolian9/morphling.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/morphling.nvim)
 
 ### Trim Whitespace
 

@@ -204,6 +204,7 @@
 - [Vaisakhkm2625/hologram-math-preview.nvim](https://github.com/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/stars/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/last-commit/Vaisakhkm2625/hologram-math-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Vaisakhkm2625/hologram-math-preview.nvim)
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/iurimateus/luasnip-latex-snippets.nvim)
 - [jhofscheier/ltex-utils.nvim](https://github.com/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/stars/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/last-commit/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/ltex-utils.nvim)
+- [LeoSchae/nvim-texlab-tools](https://github.com/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/stars/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/last-commit/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/commit-activity/y/LeoSchae/nvim-texlab-tools)
 
 #### BiBTex
 

@@ -88,6 +88,7 @@
 - [lolpie244/simple-kitty-runner.nvim](https://github.com/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/stars/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/simple-kitty-runner.nvim)
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) ![](https://img.shields.io/github/stars/Hubro/nvim-splitrun) ![](https://img.shields.io/github/last-commit/Hubro/nvim-splitrun) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-splitrun)
 - [isaac238/terminal_run.nvim](https://github.com/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/stars/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/last-commit/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/commit-activity/y/isaac238/terminal_run.nvim)
+- [nvimdev/rapid.nvim](https://github.com/nvimdev/rapid.nvim) ![](https://img.shields.io/github/stars/nvimdev/rapid.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/rapid.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/rapid.nvim)
 
 ## Auto detect style
 
