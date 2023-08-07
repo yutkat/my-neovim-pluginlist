@@ -74,6 +74,7 @@
 - [nat-418/dbm.nvim](https://github.com/nat-418/dbm.nvim) ![](https://img.shields.io/github/stars/nat-418/dbm.nvim) ![](https://img.shields.io/github/last-commit/nat-418/dbm.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/dbm.nvim)
 - [nat-418/bufala.nvim](https://github.com/nat-418/bufala.nvim) ![](https://img.shields.io/github/stars/nat-418/bufala.nvim) ![](https://img.shields.io/github/last-commit/nat-418/bufala.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/bufala.nvim)
 - [Limeoats/buffer-manager.nvim](https://github.com/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Limeoats/buffer-manager.nvim)
+- [Norlock/nvim-traveller-buffers](https://github.com/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller-buffers)
 
 #### create
 
@@ -165,6 +166,7 @@
 - [sindrets/winshift.nvim](https://github.com/sindrets/winshift.nvim) ![](https://img.shields.io/github/stars/sindrets/winshift.nvim) ![](https://img.shields.io/github/last-commit/sindrets/winshift.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/winshift.nvim)
 - [reanxp/nvim-window](https://github.com/reanxp/nvim-window) ![](https://img.shields.io/github/stars/reanxp/nvim-window) ![](https://img.shields.io/github/last-commit/reanxp/nvim-window) ![](https://img.shields.io/github/commit-activity/y/reanxp/nvim-window)
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) ![](https://img.shields.io/github/stars/itsFrank/nvim-swell) ![](https://img.shields.io/github/last-commit/itsFrank/nvim-swell) ![](https://img.shields.io/github/commit-activity/y/itsFrank/nvim-swell)
+- [MisanthropicBit/winmove.nvim](https://github.com/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/winmove.nvim)
 
 #### split
 
