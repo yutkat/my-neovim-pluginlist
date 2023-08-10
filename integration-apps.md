@@ -273,6 +273,7 @@
 ##### xmake
 
 - [CnsMaple/xmake.nvim](https://github.com/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/stars/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/last-commit/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/CnsMaple/xmake.nvim)
+- [Mythos-404/xmake.nvim](https://github.com/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/stars/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/last-commit/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mythos-404/xmake.nvim)
 
 #### Bazel
 

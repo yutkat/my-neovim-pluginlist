@@ -6,6 +6,7 @@
   * [LSP Installer](#lsp-installer)
   * [LSP Feature Extension UI](#lsp-feature-extension-ui)
     + [Diagnostics](#diagnostics)
+      - [diagnostics summary](#diagnostics-summary)
     + [Definition, Reference](#definition-reference)
     + [Code action](#code-action)
     + [Hint](#hint)
@@ -60,7 +61,6 @@
 - [onsails/diaglist.nvim](https://github.com/onsails/diaglist.nvim) ![](https://img.shields.io/github/stars/onsails/diaglist.nvim) ![](https://img.shields.io/github/last-commit/onsails/diaglist.nvim) ![](https://img.shields.io/github/commit-activity/y/onsails/diaglist.nvim)
 - [lithammer/nvim-diagnosticls](https://github.com/lithammer/nvim-diagnosticls) ![](https://img.shields.io/github/stars/lithammer/nvim-diagnosticls) ![](https://img.shields.io/github/last-commit/lithammer/nvim-diagnosticls) ![](https://img.shields.io/github/commit-activity/y/lithammer/nvim-diagnosticls)
 - [kaputi/e-kaput.nvim](https://github.com/kaputi/e-kaput.nvim) ![](https://img.shields.io/github/stars/kaputi/e-kaput.nvim) ![](https://img.shields.io/github/last-commit/kaputi/e-kaput.nvim) ![](https://img.shields.io/github/commit-activity/y/kaputi/e-kaput.nvim)
-- [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) ![](https://img.shields.io/github/stars/Mofiqul/trld.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/trld.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/trld.nvim)
 - [Maan2003/lsp_lines.nvim](https://github.com/Maan2003/lsp_lines.nvim) ![](https://img.shields.io/github/stars/Maan2003/lsp_lines.nvim) ![](https://img.shields.io/github/last-commit/Maan2003/lsp_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/Maan2003/lsp_lines.nvim)
 - [ksyasuda/lsp_lines.nvim](https://github.com/ksyasuda/lsp_lines.nvim) ![](https://img.shields.io/github/stars/ksyasuda/lsp_lines.nvim) ![](https://img.shields.io/github/last-commit/ksyasuda/lsp_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/ksyasuda/lsp_lines.nvim)
 - [Kasama/nvim-custom-diagnostic-highlight](https://github.com/Kasama/nvim-custom-diagnostic-highlight) ![](https://img.shields.io/github/stars/Kasama/nvim-custom-diagnostic-highlight) ![](https://img.shields.io/github/last-commit/Kasama/nvim-custom-diagnostic-highlight) ![](https://img.shields.io/github/commit-activity/y/Kasama/nvim-custom-diagnostic-highlight)
@@ -80,6 +80,11 @@
 - [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/stars/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/santigo-zero/right-corner-diagnostics.nvim)
 - [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/stars/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/last-commit/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/commit-activity/y/cdecompilador/rcd.nvim)
 - [rayzr522/diagnostic-filter.nvim](https://github.com/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/stars/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/last-commit/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rayzr522/diagnostic-filter.nvim)
+
+##### diagnostics summary
+
+- [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) ![](https://img.shields.io/github/stars/Mofiqul/trld.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/trld.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/trld.nvim)
+- [ivanjermakov/troublesum.nvim](https://github.com/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/troublesum.nvim)
 
 #### Definition, Reference
 
