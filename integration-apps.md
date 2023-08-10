@@ -83,6 +83,7 @@
     + [prefix.cc](#prefixcc)
     + [haste](#haste)
     + [TabNews](#tabnews)
+    + [DevDocs](#devdocs)
   * [CI](#ci)
     + [CircleCI](#circleci)
     + [Jenkins](#jenkins)
@@ -518,6 +519,10 @@
 #### TabNews
 
 - [FelipeIzolan/tabnews.nvim](https://github.com/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/stars/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/last-commit/FelipeIzolan/tabnews.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeIzolan/tabnews.nvim)
+
+#### DevDocs
+
+- [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/stars/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/last-commit/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/nvim-devdocs)
 
 ### CI
 
