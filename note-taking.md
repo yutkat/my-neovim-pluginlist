@@ -16,6 +16,7 @@
   * [VimWiki](#vimwiki)
   * [Scratch Buffer](#scratch-buffer)
   * [inline note](#inline-note)
+  * [Anki](#anki)
   * [etc](#etc)
 
 <!-- tocstop -->
@@ -125,6 +126,11 @@
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/virt-notes.nvim)
 - [winter-again/annotate.nvim](https://github.com/winter-again/annotate.nvim) ![](https://img.shields.io/github/stars/winter-again/annotate.nvim) ![](https://img.shields.io/github/last-commit/winter-again/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/annotate.nvim)
 
+## Anki
+
+- [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
+- [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
+
 ## etc
 
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
@@ -137,7 +143,6 @@
 - [caenrique/journal.nvim](https://github.com/caenrique/journal.nvim) ![](https://img.shields.io/github/stars/caenrique/journal.nvim) ![](https://img.shields.io/github/last-commit/caenrique/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/journal.nvim)
 - [Virosss/neonotes.nvim](https://github.com/Virosss/neonotes.nvim) ![](https://img.shields.io/github/stars/Virosss/neonotes.nvim) ![](https://img.shields.io/github/last-commit/Virosss/neonotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Virosss/neonotes.nvim)
 - [nkhlmn/gore.nvim](https://github.com/nkhlmn/gore.nvim) ![](https://img.shields.io/github/stars/nkhlmn/gore.nvim) ![](https://img.shields.io/github/last-commit/nkhlmn/gore.nvim) ![](https://img.shields.io/github/commit-activity/y/nkhlmn/gore.nvim)
-- [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
 - [psaikido/lifetrak.nvim](https://github.com/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/stars/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/last-commit/psaikido/lifetrak.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/lifetrak.nvim)
 - [RutaTang/quicknote.nvim](https://github.com/RutaTang/quicknote.nvim) ![](https://img.shields.io/github/stars/RutaTang/quicknote.nvim) ![](https://img.shields.io/github/last-commit/RutaTang/quicknote.nvim) ![](https://img.shields.io/github/commit-activity/y/RutaTang/quicknote.nvim)
 - [Nedra1998/nvim-journal](https://github.com/Nedra1998/nvim-journal) ![](https://img.shields.io/github/stars/Nedra1998/nvim-journal) ![](https://img.shields.io/github/last-commit/Nedra1998/nvim-journal) ![](https://img.shields.io/github/commit-activity/y/Nedra1998/nvim-journal)
