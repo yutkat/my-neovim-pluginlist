@@ -87,5 +87,3 @@
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
 
 ### Paragraph
-
-- [roobert/neoscroll-motions.nvim](https://github.com/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/stars/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/last-commit/roobert/neoscroll-motions.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/neoscroll-motions.nvim)
