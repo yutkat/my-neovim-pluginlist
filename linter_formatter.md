@@ -17,7 +17,6 @@
 
 ## Formatter
 
-- [jose-elias-alvarez/null-ls.nvim(Formatting)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
 - [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/format.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/format.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/format.nvim)
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ![](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![](https://img.shields.io/github/last-commit/mhartington/formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/mhartington/formatter.nvim)
 - [nvimdev/guard.nvim(fmt)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
@@ -44,8 +43,7 @@
 
 ## Lint
 
-- [jose-elias-alvarez/null-ls.nvim(Diagnostics)](https://github.com/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/stars/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/last-commit/jose-elias-alvarez/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jose-elias-alvarez/null-ls.nvim)
-  - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
+- [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
 - [mfussenegger/nvim-lint](https://github.com/mfussenegger/nvim-lint) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lint) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lint) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lint)
 - [nvimdev/guard.nvim(lint)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
 - [haolian9/linters.nvim](https://github.com/haolian9/linters.nvim) ![](https://img.shields.io/github/stars/haolian9/linters.nvim) ![](https://img.shields.io/github/last-commit/haolian9/linters.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/linters.nvim)
