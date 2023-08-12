@@ -22,13 +22,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
-          grep ":true" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+          grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
-          test $(grep ':true' archived_check_list.txt | wc -l) -le 0
-      - run: >
-          grep ":null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
-      - run: >
-          test $(grep ':null' archived_check_list.txt | wc -l) -le 0
+          test $(grep ':true\|:null' archived_check_list.txt | wc -l) -le 0
       # curl 429 too many requests
       # - run: >
       #     grep '](https://github.com' README.md [a-z]*.md |
