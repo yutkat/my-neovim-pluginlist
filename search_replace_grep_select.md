@@ -3,19 +3,19 @@
 <!-- toc -->
 
 - [Search](#search)
-  * [Line search](#line-search)
-  * [n/N Improvement](#nn-improvement)
-  * [Search count](#search-count)
-  * [Comment search](#comment-search)
-  * [Search highlight](#search-highlight)
-  * [Visual search](#visual-search)
+  - [Line search](#line-search)
+  - [n/N Improvement](#nn-improvement)
+  - [Search count](#search-count)
+  - [Comment search](#comment-search)
+  - [Search highlight](#search-highlight)
+  - [Visual search](#visual-search)
 - [Replace](#replace)
 - [Grep](#grep)
-  * [AST](#ast)
+  - [AST](#ast)
 - [Select](#select)
-  * [narrowing](#narrowing)
-  * [Multi Cursor](#multi-cursor)
-  * [Incremental selection](#incremental-selection)
+  - [narrowing](#narrowing)
+  - [Multi Cursor](#multi-cursor)
+  - [Incremental selection](#incremental-selection)
 
 <!-- tocstop -->
 
@@ -78,6 +78,7 @@
 - [chrisgrieser/nvim-alt-substitute](https://github.com/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-alt-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-alt-substitute)
 - [AckslD/muren.nvim](https://github.com/AckslD/muren.nvim) ![](https://img.shields.io/github/stars/AckslD/muren.nvim) ![](https://img.shields.io/github/last-commit/AckslD/muren.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/muren.nvim)
 - [deponian/nvim-scalpelua](https://github.com/deponian/nvim-scalpelua) ![](https://img.shields.io/github/stars/deponian/nvim-scalpelua) ![](https://img.shields.io/github/last-commit/deponian/nvim-scalpelua) ![](https://img.shields.io/github/commit-activity/y/deponian/nvim-scalpelua)
+- [Sett17/quicksub.nvim](https://github.com/Sett17/quicksub.nvim) ![](https://img.shields.io/github/stars/Sett17/quicksub.nvim) ![](https://img.shields.io/github/last-commit/Sett17/quicksub.nvim) ![](https://img.shields.io/github/commit-activity/y/Sett17/quicksub.nvim)
 
 # Grep
 
