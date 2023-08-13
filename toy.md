@@ -3,23 +3,23 @@
 <!-- toc -->
 
 - [Toy](#toy)
-  * [Joke](#joke)
-    + [Hacker typer](#hacker-typer)
-  * [Pet](#pet)
-  * [Image](#image)
-  * [Video](#video)
-  * [Game](#game)
-    + [Typing](#typing)
-  * [Training](#training)
-  * [Gesture](#gesture)
-  * [Weather](#weather)
-  * [Clock](#clock)
-  * [Stock price](#stock-price)
-  * [Study](#study)
-  * [Music](#music)
-    + [Recording](#recording)
-    + [Type sound](#type-sound)
-  * [Screen server](#screen-server)
+  - [Joke](#joke)
+    - [Hacker typer](#hacker-typer)
+  - [Pet](#pet)
+  - [Image](#image)
+  - [Video](#video)
+  - [Game](#game)
+    - [Typing](#typing)
+  - [Training](#training)
+  - [Gesture](#gesture)
+  - [Weather](#weather)
+  - [Clock](#clock)
+  - [Stock price](#stock-price)
+  - [Study](#study)
+  - [Music](#music)
+    - [Recording](#recording)
+    - [Type sound](#type-sound)
+  - [Screen server](#screen-server)
 
 <!-- tocstop -->
 
@@ -105,6 +105,10 @@
 - [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
 - [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
 - [pogyomo/harmony.nvim](https://github.com/pogyomo/harmony.nvim) ![](https://img.shields.io/github/stars/pogyomo/harmony.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/harmony.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/harmony.nvim)
+
+#### Morse
+
+- [TheyCallMeHacked/morse.nvim](https://github.com/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/stars/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/last-commit/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/commit-activity/y/TheyCallMeHacked/morse.nvim)
 
 ### Recording
 

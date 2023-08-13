@@ -3,16 +3,16 @@
 <!-- toc -->
 
 - [Motion](#motion)
-  * [j/k](#jk)
-    + [Scrolling](#scrolling)
-  * [Smooth scroll](#smooth-scroll)
-  * [Label Jump (Easymotion style)](#label-jump-easymotion-style)
-  * [Horizontal Move](#horizontal-move)
-    + [Show jump word](#show-jump-word)
-  * [Vertical Move](#vertical-move)
-  * [Word Motion](#word-motion)
-  * [Line Move](#line-move)
-  * [Paragraph](#paragraph)
+  - [j/k](#jk)
+    - [Scrolling](#scrolling)
+  - [Smooth scroll](#smooth-scroll)
+  - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
+  - [Horizontal Move](#horizontal-move)
+    - [Show jump word](#show-jump-word)
+  - [Vertical Move](#vertical-move)
+  - [Word Motion](#word-motion)
+  - [Line Move](#line-move)
+  - [Paragraph](#paragraph)
 
 <!-- tocstop -->
 
@@ -85,5 +85,3 @@
 ### Line Move
 
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
-
-### Paragraph
