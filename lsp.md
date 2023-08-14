@@ -79,6 +79,7 @@
 - [santigo-zero/right-corner-diagnostics.nvim](https://github.com/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/stars/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/santigo-zero/right-corner-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/santigo-zero/right-corner-diagnostics.nvim)
 - [cdecompilador/rcd.nvim](https://github.com/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/stars/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/last-commit/cdecompilador/rcd.nvim) ![](https://img.shields.io/github/commit-activity/y/cdecompilador/rcd.nvim)
 - [rayzr522/diagnostic-filter.nvim](https://github.com/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/stars/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/last-commit/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rayzr522/diagnostic-filter.nvim)
+- [m-gail/diagnostic_manipulation.nvim](https://github.com/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/stars/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/last-commit/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/diagnostic_manipulation.nvim)
 
 ##### diagnostics summary
 

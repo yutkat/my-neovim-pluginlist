@@ -285,6 +285,7 @@
 #### ripgrep
 
 - [alanjcfs/rg.nvim](https://github.com/alanjcfs/rg.nvim) ![](https://img.shields.io/github/stars/alanjcfs/rg.nvim) ![](https://img.shields.io/github/last-commit/alanjcfs/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanjcfs/rg.nvim)
+- [doums/rg.nvim](https://github.com/doums/rg.nvim) ![](https://img.shields.io/github/stars/doums/rg.nvim) ![](https://img.shields.io/github/last-commit/doums/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/rg.nvim)
 
 #### locate
 
