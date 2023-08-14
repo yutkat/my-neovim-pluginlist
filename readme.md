@@ -69,6 +69,7 @@
   * [ftplugin](#ftplugin)
     + [filetype colorscheme](#filetype-colorscheme)
   * [Macro](#macro)
+  * [Errorformat](#errorformat)
   * [Message](#message)
   * [Help](#help)
   * [Save](#save)
