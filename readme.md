@@ -424,6 +424,10 @@
 - [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
 - [bignos/bookmacro](https://github.com/bignos/bookmacro) ![](https://img.shields.io/github/stars/bignos/bookmacro) ![](https://img.shields.io/github/last-commit/bignos/bookmacro) ![](https://img.shields.io/github/commit-activity/y/bignos/bookmacro)
 
+### Errorformat
+
+- [faergeek/neomakery.nvim](https://github.com/faergeek/neomakery.nvim) ![](https://img.shields.io/github/stars/faergeek/neomakery.nvim) ![](https://img.shields.io/github/last-commit/faergeek/neomakery.nvim) ![](https://img.shields.io/github/commit-activity/y/faergeek/neomakery.nvim)
+
 ### Message
 
 - [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) ![](https://img.shields.io/github/stars/AckslD/messages.nvim) ![](https://img.shields.io/github/last-commit/AckslD/messages.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/messages.nvim)
