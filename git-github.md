@@ -102,6 +102,7 @@
 - [Morozzzko/git-browse-nvim](https://github.com/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/stars/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/last-commit/Morozzzko/git-browse-nvim) ![](https://img.shields.io/github/commit-activity/y/Morozzzko/git-browse-nvim)
 - [ja-he/fugitive-blame-heatmap.nvim](https://github.com/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/stars/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/last-commit/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-he/fugitive-blame-heatmap.nvim)
 - [sairajchouhan/blame.nvim](https://github.com/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/stars/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/last-commit/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/sairajchouhan/blame.nvim)
+- [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/stars/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/last-commit/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/FabijanZulj/blame.nvim)
 
 ## git log
 
