@@ -3,19 +3,20 @@
 <!-- toc -->
 
 - [Search](#search)
-  - [Line search](#line-search)
-  - [n/N Improvement](#nn-improvement)
-  - [Search count](#search-count)
-  - [Comment search](#comment-search)
-  - [Search highlight](#search-highlight)
-  - [Visual search](#visual-search)
+  * [Line search](#line-search)
+  * [n/N Improvement](#nn-improvement)
+  * [Search count](#search-count)
+  * [Comment search](#comment-search)
+  * [Search highlight](#search-highlight)
+  * [Visual search](#visual-search)
 - [Replace](#replace)
 - [Grep](#grep)
-  - [AST](#ast)
+  * [AST](#ast)
 - [Select](#select)
-  - [narrowing](#narrowing)
-  - [Multi Cursor](#multi-cursor)
-  - [Incremental selection](#incremental-selection)
+  * [Bracket and quote](#bracket-and-quote)
+  * [narrowing](#narrowing)
+  * [Multi Cursor](#multi-cursor)
+  * [Incremental selection](#incremental-selection)
 
 <!-- tocstop -->
 
@@ -106,6 +107,12 @@
 - [m-gail/escape.nvim](https://github.com/m-gail/escape.nvim) ![](https://img.shields.io/github/stars/m-gail/escape.nvim) ![](https://img.shields.io/github/last-commit/m-gail/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/escape.nvim)
 - [ziontee113/SelectEase](https://github.com/ziontee113/SelectEase) ![](https://img.shields.io/github/stars/ziontee113/SelectEase) ![](https://img.shields.io/github/last-commit/ziontee113/SelectEase) ![](https://img.shields.io/github/commit-activity/y/ziontee113/SelectEase)
 - [karim-hammami/selector.nvim](https://github.com/karim-hammami/selector.nvim) ![](https://img.shields.io/github/stars/karim-hammami/selector.nvim) ![](https://img.shields.io/github/last-commit/karim-hammami/selector.nvim) ![](https://img.shields.io/github/commit-activity/y/karim-hammami/selector.nvim)
+
+## Bracket and quote
+
+](https://github.com/) ![](https://img.shields.io/github/stars/) ![](https://img.shields.io/github/last-commit/) ![](https://img.shields.io/github/commit-activity/y/)
+
+- [EdgardoArriagada/vaquero-shoot.nvim](https://github.com/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/stars/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/last-commit/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/commit-activity/y/EdgardoArriagada/vaquero-shoot.nvim)
 
 ## narrowing
 
