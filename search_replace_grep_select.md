@@ -110,8 +110,6 @@
 
 ## Bracket and quote
 
-](https://github.com/) ![](https://img.shields.io/github/stars/) ![](https://img.shields.io/github/last-commit/) ![](https://img.shields.io/github/commit-activity/y/)
-
 - [EdgardoArriagada/vaquero-shoot.nvim](https://github.com/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/stars/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/last-commit/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/commit-activity/y/EdgardoArriagada/vaquero-shoot.nvim)
 
 ## narrowing
