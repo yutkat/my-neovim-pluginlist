@@ -3,11 +3,11 @@
 <!-- toc -->
 
 - [Textobject](#textobject)
-  - [Unit](#unit)
-  - [indent](#indent)
-  - [Swap](#swap)
-  - [Move](#move)
-  - [Surround](#surround)
+  * [Unit](#unit)
+  * [indent](#indent)
+  * [Swap](#swap)
+  * [Move](#move)
+  * [Surround](#surround)
 - [Operator](#operator)
 
 <!-- tocstop -->
@@ -64,3 +64,4 @@
 - [gbprod/cutlass.nvim](https://github.com/gbprod/cutlass.nvim) ![](https://img.shields.io/github/stars/gbprod/cutlass.nvim) ![](https://img.shields.io/github/last-commit/gbprod/cutlass.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/cutlass.nvim)
 - [zdcthomas/yop.nvim](https://github.com/zdcthomas/yop.nvim) ![](https://img.shields.io/github/stars/zdcthomas/yop.nvim) ![](https://img.shields.io/github/last-commit/zdcthomas/yop.nvim) ![](https://img.shields.io/github/commit-activity/y/zdcthomas/yop.nvim)
 - [ggandor/leap-ast.nvim](https://github.com/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/stars/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap-ast.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap-ast.nvim)
+- [echasnovski/mini.operators](https://github.com/echasnovski/mini.operators) ![](https://img.shields.io/github/stars/echasnovski/mini.operators) ![](https://img.shields.io/github/last-commit/echasnovski/mini.operators) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.operators)
