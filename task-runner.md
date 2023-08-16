@@ -10,6 +10,7 @@
     + [Shell](#shell)
   * [Command style](#command-style)
   * [Auto detect style](#auto-detect-style)
+  * [:make style](#make-style)
   * [CLI](#cli)
   * [Partial execution](#partial-execution)
     + [Jupyter style](#jupyter-style)
@@ -95,6 +96,10 @@
 - [addcninblue/nvim-acmetag](https://github.com/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/stars/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/last-commit/addcninblue/nvim-acmetag) ![](https://img.shields.io/github/commit-activity/y/addcninblue/nvim-acmetag)
 - [sencer/async.nvim](https://github.com/sencer/async.nvim) ![](https://img.shields.io/github/stars/sencer/async.nvim) ![](https://img.shields.io/github/last-commit/sencer/async.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/async.nvim)
 - [MarcHamamji/runner.nvim](https://github.com/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/stars/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/last-commit/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcHamamji/runner.nvim)
+
+## :make style
+
+- [msaher/makegrep-job.nvim](https://github.com/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/stars/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/last-commit/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/makegrep-job.nvim)
 
 ## CLI
 

@@ -54,6 +54,7 @@
       - [Test](#test-1)
     + [C/C++](#cc)
       - [Formatter](#formatter-1)
+      - [Makefile](#makefile)
       - [Cmake](#cmake)
       - [Disassemble](#disassemble)
     + [Zig](#zig)
@@ -421,6 +422,10 @@
 
 - [Diogo-ss/42-C-Formatter.nvim](https://github.com/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/42-C-Formatter.nvim)
 
+#### Makefile
+
+- [Feferoni/build-system.nvim](https://github.com/Feferoni/build-system.nvim) ![](https://img.shields.io/github/stars/Feferoni/build-system.nvim) ![](https://img.shields.io/github/last-commit/Feferoni/build-system.nvim) ![](https://img.shields.io/github/commit-activity/y/Feferoni/build-system.nvim)
+
 #### Cmake
 
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/stars/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/cmake-tools.nvim)
@@ -504,7 +509,8 @@
 
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/stars/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/last-commit/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/haskell-tools.nvim)
 - [kiyoon/haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/haskell-scope-highlighting.nvim)
-- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)
+- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)](https://github.com/- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)) ![](https://img.shields.io/github/stars/- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)) ![](https://img.shields.io/github/last-commit/- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)) ![](https://img.shields.io/github/commit-activity/y/- [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim))
+- [aloussase/point-free.nvim](https://github.com/aloussase/point-free.nvim) ![](https://img.shields.io/github/stars/aloussase/point-free.nvim) ![](https://img.shields.io/github/last-commit/aloussase/point-free.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/point-free.nvim)
 
 ### Lisp
 

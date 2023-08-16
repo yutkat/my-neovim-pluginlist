@@ -190,6 +190,7 @@
 ### Cursor
 
 - [Grazfather/blinker.nvim](https://github.com/Grazfather/blinker.nvim) ![](https://img.shields.io/github/stars/Grazfather/blinker.nvim) ![](https://img.shields.io/github/last-commit/Grazfather/blinker.nvim) ![](https://img.shields.io/github/commit-activity/y/Grazfather/blinker.nvim)
+- [scheisa/relpointers.nvim](https://github.com/scheisa/relpointers.nvim) ![](https://img.shields.io/github/stars/scheisa/relpointers.nvim) ![](https://img.shields.io/github/last-commit/scheisa/relpointers.nvim) ![](https://img.shields.io/github/commit-activity/y/scheisa/relpointers.nvim)
 
 ### [Cursorline / Columnline](./cursorline_columnline.md)
 
