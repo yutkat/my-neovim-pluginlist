@@ -182,6 +182,7 @@
 - [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
+- [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ![](https://img.shields.io/github/stars/9seconds/repolink.nvim) ![](https://img.shields.io/github/last-commit/9seconds/repolink.nvim) ![](https://img.shields.io/github/commit-activity/y/9seconds/repolink.nvim)
 
 ## Pull Request
 

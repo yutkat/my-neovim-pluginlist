@@ -31,6 +31,7 @@
 - [freddiehaddad/feline.nvim](https://github.com/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/stars/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/last-commit/freddiehaddad/feline.nvim) ![](https://img.shields.io/github/commit-activity/y/freddiehaddad/feline.nvim)
 - [gaoDean/fstatus.nvim](https://github.com/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/stars/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/fstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/fstatus.nvim)
 - [aghriss/statusline.nvim](https://github.com/aghriss/statusline.nvim) ![](https://img.shields.io/github/stars/aghriss/statusline.nvim) ![](https://img.shields.io/github/last-commit/aghriss/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/aghriss/statusline.nvim)
+- [SingularisArt/nvim-statusline](https://github.com/SingularisArt/nvim-statusline) ![](https://img.shields.io/github/stars/SingularisArt/nvim-statusline) ![](https://img.shields.io/github/last-commit/SingularisArt/nvim-statusline) ![](https://img.shields.io/github/commit-activity/y/SingularisArt/nvim-statusline)
 
 ### Simple
 
