@@ -4,30 +4,31 @@
 
 - [Buffer, Window, Tab Management](#buffer-window-tab-management)
 - [Buffer](#buffer)
-  - [Buffer Selector](#buffer-selector)
-  - [Other Buffer Switcher](#other-buffer-switcher)
-  - [Buffer Management](#buffer-management)
-    - [create](#create)
-    - [open](#open)
+  * [Buffer Selector](#buffer-selector)
+  * [Other Buffer Switcher](#other-buffer-switcher)
+  * [Buffer Management](#buffer-management)
+    + [create](#create)
+    + [open](#open)
       - [recent file](#recent-file)
       - [remote open](#remote-open)
-    - [delete](#delete)
-    - [auto close](#auto-close)
-    - [access control](#access-control)
-  - [Scratch Buffer](#scratch-buffer)
-  - [buffer Sharing](#buffer-sharing)
+    + [delete](#delete)
+    + [auto close](#auto-close)
+    + [access control](#access-control)
+    + [path](#path)
+  * [Scratch Buffer](#scratch-buffer)
+  * [buffer Sharing](#buffer-sharing)
 - [Window](#window)
-  - [Window Switcher](#window-switcher)
-  - [Window Management](#window-management)
-    - [swap](#swap)
-    - [layout](#layout)
-    - [split](#split)
-    - [resize](#resize)
-    - [maximize](#maximize)
-    - [focus](#focus)
-  - [animation](#animation)
+  * [Window Switcher](#window-switcher)
+  * [Window Management](#window-management)
+    + [swap](#swap)
+    + [layout](#layout)
+    + [split](#split)
+    + [resize](#resize)
+    + [maximize](#maximize)
+    + [focus](#focus)
+  * [animation](#animation)
 - [Tab](#tab)
-  - [select](#select)
+  * [select](#select)
 
 <!-- tocstop -->
 
@@ -128,6 +129,10 @@
 
 - [augustocdias/gatekeeper.nvim](https://github.com/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/stars/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/last-commit/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/commit-activity/y/augustocdias/gatekeeper.nvim)
 - [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) ![](https://img.shields.io/github/stars/sQVe/bufignore.nvim) ![](https://img.shields.io/github/last-commit/sQVe/bufignore.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/bufignore.nvim)
+
+#### path
+
+- [ohakutsu/socks-copypath.nvim](https://github.com/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/stars/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/last-commit/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ohakutsu/socks-copypath.nvim)
 
 ### Scratch Buffer
 
