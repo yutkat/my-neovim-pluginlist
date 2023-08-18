@@ -3,23 +3,24 @@
 <!-- toc -->
 
 - [Toy](#toy)
-  - [Joke](#joke)
-    - [Hacker typer](#hacker-typer)
-  - [Pet](#pet)
-  - [Image](#image)
-  - [Video](#video)
-  - [Game](#game)
-    - [Typing](#typing)
-  - [Training](#training)
-  - [Gesture](#gesture)
-  - [Weather](#weather)
-  - [Clock](#clock)
-  - [Stock price](#stock-price)
-  - [Study](#study)
-  - [Music](#music)
-    - [Recording](#recording)
-    - [Type sound](#type-sound)
-  - [Screen server](#screen-server)
+  * [Joke](#joke)
+    + [Hacker typer](#hacker-typer)
+  * [Pet](#pet)
+  * [Image](#image)
+  * [Video](#video)
+  * [Game](#game)
+    + [Typing](#typing)
+  * [Training](#training)
+  * [Gesture](#gesture)
+  * [Weather](#weather)
+  * [Clock](#clock)
+  * [Stock price](#stock-price)
+  * [Study](#study)
+  * [Music](#music)
+      - [Morse](#morse)
+    + [Recording](#recording)
+    + [Type sound](#type-sound)
+  * [Screen server](#screen-server)
 
 <!-- tocstop -->
 
@@ -117,6 +118,7 @@
 ### Type sound
 
 - [pavlo-skobnikov/metal-pipe.nvim](https://github.com/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/stars/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/last-commit/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlo-skobnikov/metal-pipe.nvim)
+- [whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim) ![](https://img.shields.io/github/stars/whleucka/reverb.nvim) ![](https://img.shields.io/github/last-commit/whleucka/reverb.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/reverb.nvim)
 
 ## Screen server
 
