@@ -15,6 +15,7 @@
   * [Weather](#weather)
   * [Clock](#clock)
   * [Stock price](#stock-price)
+  * [Cowsay](#cowsay)
   * [Study](#study)
   * [Music](#music)
       - [Morse](#morse)
@@ -87,6 +88,10 @@
 
 - [dbeauchamp/orderbook.nvim](https://github.com/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/stars/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/last-commit/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/commit-activity/y/dbeauchamp/orderbook.nvim)
 - [Hzzy2O/cryptowatch.nvim](https://github.com/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/stars/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/last-commit/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Hzzy2O/cryptowatch.nvim)
+
+## Cowsay
+
+- [TheBlckbird/bible-votd.nvim](https://github.com/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/stars/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/last-commit/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlckbird/bible-votd.nvim)
 
 ## Study
 

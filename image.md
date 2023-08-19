@@ -40,7 +40,6 @@
 
 ### Screenshot
 
-- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
 - [mattydebie/scs.nvim](https://github.com/mattydebie/scs.nvim) ![](https://img.shields.io/github/stars/mattydebie/scs.nvim) ![](https://img.shields.io/github/last-commit/mattydebie/scs.nvim) ![](https://img.shields.io/github/commit-activity/y/mattydebie/scs.nvim)
 - [Raeein/screenshot.nvim](https://github.com/Raeein/screenshot.nvim) ![](https://img.shields.io/github/stars/Raeein/screenshot.nvim) ![](https://img.shields.io/github/last-commit/Raeein/screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/Raeein/screenshot.nvim)
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) ![](https://img.shields.io/github/stars/kiran94/maim.nvim) ![](https://img.shields.io/github/last-commit/kiran94/maim.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/maim.nvim)
@@ -48,10 +47,12 @@
 
 #### Code Image
 
+- [ellisonleao/carbon-now.nvim](https://github.com/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/stars/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/carbon-now.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/carbon-now.nvim)
 - [krivahtoo/silicon.nvim](https://github.com/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/stars/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/last-commit/krivahtoo/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/krivahtoo/silicon.nvim)
 - [atlj/Pixie.nvim](https://github.com/atlj/Pixie.nvim) ![](https://img.shields.io/github/stars/atlj/Pixie.nvim) ![](https://img.shields.io/github/last-commit/atlj/Pixie.nvim) ![](https://img.shields.io/github/commit-activity/y/atlj/Pixie.nvim)
 - [matze/wastebin.nvim](https://github.com/matze/wastebin.nvim) ![](https://img.shields.io/github/stars/matze/wastebin.nvim) ![](https://img.shields.io/github/last-commit/matze/wastebin.nvim) ![](https://img.shields.io/github/commit-activity/y/matze/wastebin.nvim)
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/stars/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/last-commit/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/commit-activity/y/michaelrommel/nvim-silicon)
+- [niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim) ![](https://img.shields.io/github/stars/niuiic/code-shot.nvim) ![](https://img.shields.io/github/last-commit/niuiic/code-shot.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/code-shot.nvim)
 
 ### SVG
 

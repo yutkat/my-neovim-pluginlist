@@ -57,6 +57,7 @@
 - [ur4ltz/surround.nvim](https://github.com/ur4ltz/surround.nvim) ![](https://img.shields.io/github/stars/ur4ltz/surround.nvim) ![](https://img.shields.io/github/last-commit/ur4ltz/surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ur4ltz/surround.nvim)
 - [echasnovski/mini.surround](https://github.com/echasnovski/mini.surround) ![](https://img.shields.io/github/stars/echasnovski/mini.surround) ![](https://img.shields.io/github/last-commit/echasnovski/mini.surround) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.surround)
 - [SUSTech-data/wildfire.nvim](https://github.com/SUSTech-data/wildfire.nvim) ![](https://img.shields.io/github/stars/SUSTech-data/wildfire.nvim) ![](https://img.shields.io/github/last-commit/SUSTech-data/wildfire.nvim) ![](https://img.shields.io/github/commit-activity/y/SUSTech-data/wildfire.nvim)
+- [keaising/textobj-backtick.nvim](https://github.com/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/stars/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/last-commit/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/textobj-backtick.nvim)
 
 ## Operator
 

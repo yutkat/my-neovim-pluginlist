@@ -30,6 +30,7 @@
 - [CozyPenguin/twins.nvim](https://github.com/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/stars/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/last-commit/CozyPenguin/twins.nvim) ![](https://img.shields.io/github/commit-activity/y/CozyPenguin/twins.nvim)
 - [fedepujol/bracketpair.nvim](https://github.com/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/stars/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/bracketpair.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/bracketpair.nvim)
 - [Daiki48/quote-bracketeer.nvim](https://github.com/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/stars/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/quote-bracketeer.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/quote-bracketeer.nvim)
+- [doums/tenaille.nvim](https://github.com/doums/tenaille.nvim) ![](https://img.shields.io/github/stars/doums/tenaille.nvim) ![](https://img.shields.io/github/last-commit/doums/tenaille.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/tenaille.nvim)
 
 ### endwise
 
