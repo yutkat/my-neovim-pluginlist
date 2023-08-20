@@ -26,6 +26,7 @@
 ### Call Hierarchy
 
 - [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee-calltree.nvim)
+- [prasy-loyola/call-tree.nvim](https://github.com/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/stars/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/last-commit/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/prasy-loyola/call-tree.nvim)
 
 ### Type Hierarchy
 
