@@ -717,6 +717,7 @@
 - [rohanorton/mytime.nvim](https://github.com/rohanorton/mytime.nvim) ![](https://img.shields.io/github/stars/rohanorton/mytime.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mytime.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mytime.nvim)
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/gaborvecsei/usage-tracker.nvim)
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) ![](https://img.shields.io/github/stars/mvllow/stand.nvim) ![](https://img.shields.io/github/last-commit/mvllow/stand.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/stand.nvim)
+- [kimpors/progress.nvim](https://github.com/kimpors/progress.nvim) ![](https://img.shields.io/github/stars/kimpors/progress.nvim) ![](https://img.shields.io/github/last-commit/kimpors/progress.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpors/progress.nvim)
 
 ### Market place
 
