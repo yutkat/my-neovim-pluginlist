@@ -685,6 +685,7 @@
 ### Hurl
 
 - [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
+- [ethancarlsson/nvim-treesitter-hurl](https://github.com/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/stars/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/last-commit/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/commit-activity/y/ethancarlsson/nvim-treesitter-hurl)
 
 ### Graphql
 
