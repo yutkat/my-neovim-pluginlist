@@ -7,6 +7,7 @@
   * [Redirect to scratch buffer](#redirect-to-scratch-buffer)
   * [Shell Command](#shell-command)
     + [sudo](#sudo)
+    + [quit](#quit)
 
 <!-- tocstop -->
 
@@ -40,3 +41,8 @@
 #### sudo
 
 - [haolian9/sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/stars/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudo_write.nvim)
+
+#### quit
+
+- [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/stars/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/confirm-quit.nvim)
+- [haolian9/barrier.nvim](https://github.com/haolian9/barrier.nvim) ![](https://img.shields.io/github/stars/haolian9/barrier.nvim) ![](https://img.shields.io/github/last-commit/haolian9/barrier.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/barrier.nvim)
