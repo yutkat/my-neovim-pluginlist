@@ -59,6 +59,7 @@
       - [Disassemble](#disassemble)
     + [Zig](#zig)
     + [C#](#c%23)
+    + [Unity](#unity)
     + [Java](#java)
       - [Maven](#maven)
       - [Gradle](#gradle)
@@ -330,6 +331,7 @@
 - [adalessa/composer.nvim](https://github.com/adalessa/composer.nvim) ![](https://img.shields.io/github/stars/adalessa/composer.nvim) ![](https://img.shields.io/github/last-commit/adalessa/composer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/composer.nvim)
 - [ccaglak/namespace.nvim](https://github.com/ccaglak/namespace.nvim) ![](https://img.shields.io/github/stars/ccaglak/namespace.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/namespace.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/namespace.nvim)
 - [Heyfara/php-cs-fixer.nvim](https://github.com/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/stars/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/last-commit/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/commit-activity/y/Heyfara/php-cs-fixer.nvim)
+- [ahollister/phpcbf.nvim](https://github.com/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/stars/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/last-commit/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/phpcbf.nvim)
 
 #### Laravel
 
@@ -448,6 +450,10 @@
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
 - [oysandvik94/boilercreate.nvim](https://github.com/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/stars/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/boilercreate.nvim)
+
+### Unity
+
+- [Lohni/unitysync.nvim](https://github.com/Lohni/unitysync.nvim) ![](https://img.shields.io/github/stars/Lohni/unitysync.nvim) ![](https://img.shields.io/github/last-commit/Lohni/unitysync.nvim) ![](https://img.shields.io/github/commit-activity/y/Lohni/unitysync.nvim)
 
 ### Java
 
@@ -686,6 +692,7 @@
 
 - [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
 - [ethancarlsson/nvim-treesitter-hurl](https://github.com/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/stars/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/last-commit/ethancarlsson/nvim-treesitter-hurl) ![](https://img.shields.io/github/commit-activity/y/ethancarlsson/nvim-treesitter-hurl)
+- [ethancarlsson/nvim-hurl.nvim](https://github.com/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/stars/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/last-commit/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/ethancarlsson/nvim-hurl.nvim)
 
 ### Graphql
 
