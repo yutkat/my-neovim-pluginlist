@@ -79,6 +79,7 @@
     + [StackOverflow](#stackoverflow)
     + [Meilisearch](#meilisearch)
     + [Trello](#trello)
+    + [WordPress](#wordpress)
     + [compiler-explorer](#compiler-explorer)
     + [prefix.cc](#prefixcc)
     + [haste](#haste)
@@ -505,6 +506,10 @@
 #### Trello
 
 - [roncallyt/vrello.nvim](https://github.com/roncallyt/vrello.nvim) ![](https://img.shields.io/github/stars/roncallyt/vrello.nvim) ![](https://img.shields.io/github/last-commit/roncallyt/vrello.nvim) ![](https://img.shields.io/github/commit-activity/y/roncallyt/vrello.nvim)
+
+#### WordPress
+
+- [ahollister/wp-utils.nvim](https://github.com/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/stars/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/last-commit/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/wp-utils.nvim)
 
 #### compiler-explorer
 

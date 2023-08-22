@@ -111,6 +111,7 @@
 - [gpanders/fennel-repl.nvim](https://github.com/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/stars/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/gpanders/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/fennel-repl.nvim)
 - [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) ![](https://img.shields.io/github/stars/aileot/nvim-laurel) ![](https://img.shields.io/github/last-commit/aileot/nvim-laurel) ![](https://img.shields.io/github/commit-activity/y/aileot/nvim-laurel)
 - [Olical/nfnl](https://github.com/Olical/nfnl) ![](https://img.shields.io/github/stars/Olical/nfnl) ![](https://img.shields.io/github/last-commit/Olical/nfnl) ![](https://img.shields.io/github/commit-activity/y/Olical/nfnl)
+- [HiPhish/fennel-repl.nvim](https://github.com/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/stars/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/fennel-repl.nvim)
 
 ## Rust
 
