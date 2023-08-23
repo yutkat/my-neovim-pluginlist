@@ -79,6 +79,7 @@
 ##### Node
 
 - [cnshsliu/smp.nvim](https://github.com/cnshsliu/smp.nvim) ![](https://img.shields.io/github/stars/cnshsliu/smp.nvim) ![](https://img.shields.io/github/last-commit/cnshsliu/smp.nvim) ![](https://img.shields.io/github/commit-activity/y/cnshsliu/smp.nvim)
+- [gualcasas/markdown-preview.nvim](https://github.com/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/stars/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gualcasas/markdown-preview.nvim)
 
 ##### Deno
 
