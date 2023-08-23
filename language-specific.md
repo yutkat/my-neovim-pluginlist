@@ -75,6 +75,7 @@
     + [Shellscript(bash)](#shellscriptbash)
     + [Nushell](#nushell)
     + [F](#f)
+    + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
     + [Agda](#agda)
@@ -540,6 +541,10 @@
 ### F
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
+
+### Wasm
+
+- [jakobgetz/wat-the-wasm.nvim](https://github.com/jakobgetz/wat-the-wasm.nvim) ![](https://img.shields.io/github/stars/jakobgetz/wat-the-wasm.nvim) ![](https://img.shields.io/github/last-commit/jakobgetz/wat-the-wasm.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobgetz/wat-the-wasm.nvim)
 
 ### WebC
 
