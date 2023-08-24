@@ -207,6 +207,7 @@
 - [princejoogie/tailwind-highlight.nvim](https://github.com/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/stars/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/tailwind-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/tailwind-highlight.nvim)
 - [ziontee113/deliberate.nvim](https://github.com/ziontee113/deliberate.nvim) ![](https://img.shields.io/github/stars/ziontee113/deliberate.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/deliberate.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/deliberate.nvim)
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/tw-values.nvim)
+- [nazo6/telescope-tailwind.nvim](https://github.com/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/stars/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/last-commit/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/telescope-tailwind.nvim)
 
 ##### SCSS
 
