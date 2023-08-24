@@ -620,6 +620,7 @@
 - [5long/imdi.nvim](https://github.com/5long/imdi.nvim) ![](https://img.shields.io/github/stars/5long/imdi.nvim) ![](https://img.shields.io/github/last-commit/5long/imdi.nvim) ![](https://img.shields.io/github/commit-activity/y/5long/imdi.nvim)
 - [TD-Sky/fcitx.nvim](https://github.com/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/stars/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/last-commit/TD-Sky/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/TD-Sky/fcitx.nvim)
 - [crispgm/nvim-auto-ime](https://github.com/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/stars/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/last-commit/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-auto-ime)
+- [Xx1gS/clef.nvim](https://github.com/Xx1gS/clef.nvim) ![](https://img.shields.io/github/stars/Xx1gS/clef.nvim) ![](https://img.shields.io/github/last-commit/Xx1gS/clef.nvim) ![](https://img.shields.io/github/commit-activity/y/Xx1gS/clef.nvim)
 
 #### Fcitx
 
