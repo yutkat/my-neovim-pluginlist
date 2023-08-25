@@ -225,6 +225,7 @@
 - [EpiCanard/tanu.nvim](https://github.com/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/stars/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/last-commit/EpiCanard/tanu.nvim) ![](https://img.shields.io/github/commit-activity/y/EpiCanard/tanu.nvim)
 - [vaidotasp/gitlab-open.nvim](https://github.com/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/stars/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/last-commit/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/commit-activity/y/vaidotasp/gitlab-open.nvim)
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
+- [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
 
 # CLI
 

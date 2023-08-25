@@ -83,6 +83,7 @@
     + [GNU APL](#gnu-apl)
     + [Godot](#godot)
     + [Moonscript](#moonscript)
+    + [Haxe](#haxe)
     + [Kind](#kind)
     + [Cell](#cell)
     + [sylt](#sylt)
@@ -402,6 +403,7 @@
 - [hobord/gotest.nvim](https://github.com/hobord/gotest.nvim) ![](https://img.shields.io/github/stars/hobord/gotest.nvim) ![](https://img.shields.io/github/last-commit/hobord/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/hobord/gotest.nvim)
 - [sshelll/gott.nvim](https://github.com/sshelll/gott.nvim) ![](https://img.shields.io/github/stars/sshelll/gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/gott.nvim)
 - [KaFski/gotest.nvim](https://github.com/KaFski/gotest.nvim) ![](https://img.shields.io/github/stars/KaFski/gotest.nvim) ![](https://img.shields.io/github/last-commit/KaFski/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/KaFski/gotest.nvim)
+- [leoluz/gotest.nvim](https://github.com/leoluz/gotest.nvim) ![](https://img.shields.io/github/stars/leoluz/gotest.nvim) ![](https://img.shields.io/github/last-commit/leoluz/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/leoluz/gotest.nvim)
 
 ### C/C++
 
@@ -576,6 +578,10 @@
 ### Moonscript
 
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
+
+### Haxe
+
+- [noriapi/select-hxml.nvim](https://github.com/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/stars/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/last-commit/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/commit-activity/y/noriapi/select-hxml.nvim)
 
 ### Kind
 
