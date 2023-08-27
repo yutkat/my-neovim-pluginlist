@@ -12,6 +12,7 @@
   * [Auto detect style](#auto-detect-style)
   * [:make style](#make-style)
   * [CLI](#cli)
+  * [Specific runner](#specific-runner)
   * [Partial execution](#partial-execution)
     + [Jupyter style](#jupyter-style)
   * [Monitor](#monitor)
@@ -59,6 +60,7 @@
 - [google/executor.nvim](https://github.com/google/executor.nvim) ![](https://img.shields.io/github/stars/google/executor.nvim) ![](https://img.shields.io/github/last-commit/google/executor.nvim) ![](https://img.shields.io/github/commit-activity/y/google/executor.nvim)
 - [neysanfoo/coderunner.nvim](https://github.com/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/stars/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/coderunner.nvim)
 - [Walcriz/action-lists.nvim](https://github.com/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/stars/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/last-commit/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/commit-activity/y/Walcriz/action-lists.nvim)
+- [Leeziao/code_runner.nvim](https://github.com/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/stars/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/last-commit/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Leeziao/code_runner.nvim)
 
 ### Shell
 
@@ -104,6 +106,10 @@
 ## CLI
 
 - [BeatScherrer/just.nvim](https://github.com/BeatScherrer/just.nvim) ![](https://img.shields.io/github/stars/BeatScherrer/just.nvim) ![](https://img.shields.io/github/last-commit/BeatScherrer/just.nvim) ![](https://img.shields.io/github/commit-activity/y/BeatScherrer/just.nvim)
+
+## Specific runner
+
+- [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/static.nvim)
 
 ## Partial execution
 

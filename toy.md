@@ -64,6 +64,7 @@
 - [kwakzalver/duckytype.nvim](https://github.com/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/stars/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/last-commit/kwakzalver/duckytype.nvim) ![](https://img.shields.io/github/commit-activity/y/kwakzalver/duckytype.nvim)
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/stars/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/last-commit/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/commit-activity/y/BooleanCube/keylab.nvim)
 - [BYT0723/typist.nvim](https://github.com/BYT0723/typist.nvim) ![](https://img.shields.io/github/stars/BYT0723/typist.nvim) ![](https://img.shields.io/github/last-commit/BYT0723/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/BYT0723/typist.nvim)
+- [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/stars/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/speedtyper.nvim)
 
 ## Training
 

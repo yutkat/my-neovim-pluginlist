@@ -7,6 +7,7 @@
   * [Mapping search](#mapping-search)
   * [Show assigned](#show-assigned)
   * [Prefix Key Binding](#prefix-key-binding)
+  * [Layout Switch](#layout-switch)
   * [Mapping toggle](#mapping-toggle)
   * [Improve Mappings](#improve-mappings)
     + [Normal Mode](#normal-mode)
@@ -55,6 +56,10 @@
 
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/stars/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/hydra.nvim)
 - [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
+
+## Layout Switch
+
+- [dkostmii/keymap.nvim](https://github.com/dkostmii/keymap.nvim) ![](https://img.shields.io/github/stars/dkostmii/keymap.nvim) ![](https://img.shields.io/github/last-commit/dkostmii/keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/dkostmii/keymap.nvim)
 
 ## Mapping toggle
 
