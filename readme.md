@@ -290,7 +290,6 @@
 
 #### Indent Size
 
-- [zsugabubus/crazy8.nvim](https://github.com/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/stars/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/last-commit/zsugabubus/crazy8.nvim) ![](https://img.shields.io/github/commit-activity/y/zsugabubus/crazy8.nvim)
 - [NMAC427/guess-indent.nvim](https://github.com/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/stars/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/last-commit/NMAC427/guess-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/NMAC427/guess-indent.nvim)
 - [Darazaki/indent-o-matic](https://github.com/Darazaki/indent-o-matic) ![](https://img.shields.io/github/stars/Darazaki/indent-o-matic) ![](https://img.shields.io/github/last-commit/Darazaki/indent-o-matic) ![](https://img.shields.io/github/commit-activity/y/Darazaki/indent-o-matic)
 - [echasnovski/mini.indentscope](https://github.com/echasnovski/mini.indentscope) ![](https://img.shields.io/github/stars/echasnovski/mini.indentscope) ![](https://img.shields.io/github/last-commit/echasnovski/mini.indentscope) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.indentscope)
@@ -485,7 +484,6 @@
 - [Kibadda/start-screen-sections.nvim](https://github.com/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/stars/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/start-screen-sections.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/start-screen-sections.nvim)
 - [eoh-bse/minintro.nvim](https://github.com/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/stars/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/last-commit/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/commit-activity/y/eoh-bse/minintro.nvim)
 - [Yoolayn/nvim-intro](https://github.com/Yoolayn/nvim-intro) ![](https://img.shields.io/github/stars/Yoolayn/nvim-intro) ![](https://img.shields.io/github/last-commit/Yoolayn/nvim-intro) ![](https://img.shields.io/github/commit-activity/y/Yoolayn/nvim-intro)
-- [RAprogramm/neviraide-dashboard.nvim](https://github.com/RAprogramm/neviraide-dashboard.nvim) ![](https://img.shields.io/github/stars/RAprogramm/neviraide-dashboard.nvim) ![](https://img.shields.io/github/last-commit/RAprogramm/neviraide-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/neviraide-dashboard.nvim)
 
 ### Boot Arguments
 
