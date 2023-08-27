@@ -19,6 +19,7 @@
 
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ![](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![](https://img.shields.io/github/last-commit/mhartington/formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/mhartington/formatter.nvim)
 - [nvimdev/guard.nvim(fmt)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
+  - [nvimdev/guard-collection](https://github.com/nvimdev/guard-collection) ![](https://img.shields.io/github/stars/nvimdev/guard-collection) ![](https://img.shields.io/github/last-commit/nvimdev/guard-collection) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard-collection)
 - [joechrisellis/lsp-format-modifications.nvim](https://github.com/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/stars/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/last-commit/joechrisellis/lsp-format-modifications.nvim) ![](https://img.shields.io/github/commit-activity/y/joechrisellis/lsp-format-modifications.nvim)
 - [ofirgall/format-on-leave.nvim](https://github.com/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/stars/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/format-on-leave.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/format-on-leave.nvim)
 - [mgnsk/sync-format.nvim](https://github.com/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/stars/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/sync-format.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/sync-format.nvim)
@@ -29,6 +30,7 @@
 - [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/format.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/format.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/format.nvim)
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [rickyelopez/uncrustify.nvim](https://github.com/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/stars/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/last-commit/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/commit-activity/y/rickyelopez/uncrustify.nvim)
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) ![](https://img.shields.io/github/stars/stevearc/conform.nvim) ![](https://img.shields.io/github/last-commit/stevearc/conform.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/conform.nvim)
 
 ### Trim Whitespace
 

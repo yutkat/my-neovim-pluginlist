@@ -16,6 +16,7 @@
   * [git diff](#git-diff)
   * [git rebase](#git-rebase)
   * [git conflict](#git-conflict)
+  * [git pull](#git-pull)
   * [git open](#git-open)
   * [gitignore](#gitignore)
   * [git hook](#git-hook)
@@ -128,6 +129,10 @@
 ## git conflict
 
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/stars/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/last-commit/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/git-conflict.nvim)
+
+## git pull
+
+- [Jarvismkennedy/git-auto-sync.nvim](https://github.com/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/stars/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/last-commit/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/Jarvismkennedy/git-auto-sync.nvim)
 
 ## git open
 
