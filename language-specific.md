@@ -531,6 +531,7 @@
 ### OCaml
 
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
+- [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
 
 ### Shellscript(bash)
 

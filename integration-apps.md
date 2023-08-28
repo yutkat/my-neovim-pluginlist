@@ -51,6 +51,7 @@
   * [AI Coding](#ai-coding)
     + [OpenAI](#openai)
       - [OpenAI Review](#openai-review)
+    + [Llama](#llama)
     + [Aider](#aider)
     + [Otter](#otter)
     + [Google Bard](#google-bard)
@@ -377,6 +378,10 @@
 ##### OpenAI Review
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
+
+#### Llama
+
+- [jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama) ![](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![](https://img.shields.io/github/last-commit/jpmcb/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/jpmcb/nvim-llama)
 
 #### Aider
 
