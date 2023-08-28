@@ -426,6 +426,7 @@
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-recorder)
 - [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
 - [bignos/bookmacro](https://github.com/bignos/bookmacro) ![](https://img.shields.io/github/stars/bignos/bookmacro) ![](https://img.shields.io/github/last-commit/bignos/bookmacro) ![](https://img.shields.io/github/commit-activity/y/bignos/bookmacro)
+- [desdic/macrothis.nvim](https://github.com/desdic/macrothis.nvim) ![](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![](https://img.shields.io/github/last-commit/desdic/macrothis.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/macrothis.nvim)
 
 ### Errorformat
 
