@@ -72,6 +72,7 @@
   * [Errorformat](#errorformat)
   * [Message](#message)
   * [Help](#help)
+  * [checkhealth](#checkhealth)
   * [Save](#save)
     + [Cursor Position](#cursor-position)
   * [Backup](#backup)
@@ -451,6 +452,10 @@
 - [tobb10001/indexcard.nvim](https://github.com/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/stars/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/last-commit/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/commit-activity/y/tobb10001/indexcard.nvim)
 - [Tyler-Barham/floating-help.nvim](https://github.com/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/stars/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/last-commit/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyler-Barham/floating-help.nvim)
 - [riodelphino/cheatsheet.nvim](https://github.com/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/stars/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/cheatsheet.nvim)
+
+### checkhealth
+
+- [Davidyz/executable-checker.nvim](https://github.com/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/stars/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/executable-checker.nvim)
 
 ### Save
 
