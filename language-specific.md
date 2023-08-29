@@ -439,6 +439,7 @@
 - [Cartogy/nvim-cdbg](https://github.com/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/stars/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/last-commit/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/commit-activity/y/Cartogy/nvim-cdbg)
 - [hfn92/cmake-gtest.nvim](https://github.com/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/stars/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/last-commit/hfn92/cmake-gtest.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/cmake-gtest.nvim)
 - [Carbone13/runner.nvim](https://github.com/Carbone13/runner.nvim) ![](https://img.shields.io/github/stars/Carbone13/runner.nvim) ![](https://img.shields.io/github/last-commit/Carbone13/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Carbone13/runner.nvim)
+- [AbaoFromCUG/cmake-tools.nvim](https://github.com/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/cmake-tools.nvim)
 
 #### Disassemble
 
