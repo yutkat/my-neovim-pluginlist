@@ -342,6 +342,7 @@
 - [ccaglak/larago.nvim](https://github.com/ccaglak/larago.nvim) ![](https://img.shields.io/github/stars/ccaglak/larago.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/larago.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/larago.nvim)
 - [jaytyrrell13/telescope-artisan.nvim](https://github.com/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/telescope-artisan.nvim)
 - [oliverhkraft/nvim-pint](https://github.com/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/stars/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/last-commit/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/commit-activity/y/oliverhkraft/nvim-pint)
+- [theoboldalex/artisan.nvim](https://github.com/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/stars/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/artisan.nvim)
 
 ### Lua
 

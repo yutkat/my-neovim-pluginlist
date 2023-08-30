@@ -44,6 +44,7 @@
 - [rebelot/terminal.nvim](https://github.com/rebelot/terminal.nvim) ![](https://img.shields.io/github/stars/rebelot/terminal.nvim) ![](https://img.shields.io/github/last-commit/rebelot/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelot/terminal.nvim)
 - [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ugaterm.nvim)
 - [nickramsay19/nkterm.nvim](https://github.com/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/stars/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/last-commit/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/commit-activity/y/nickramsay19/nkterm.nvim)
+- [AbaoFromCUG/terminal.nvim](https://github.com/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/terminal.nvim)
 
 ### Open
 
