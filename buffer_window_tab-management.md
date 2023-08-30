@@ -133,6 +133,7 @@
 #### path
 
 - [ohakutsu/socks-copypath.nvim](https://github.com/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/stars/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/last-commit/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ohakutsu/socks-copypath.nvim)
+- [notomo/pluginbuf.nvim](https://github.com/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/stars/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/last-commit/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/pluginbuf.nvim)
 
 ### Scratch Buffer
 
