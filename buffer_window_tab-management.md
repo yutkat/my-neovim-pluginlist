@@ -22,6 +22,7 @@
   * [Window Management](#window-management)
     + [swap](#swap)
     + [layout](#layout)
+    + [center](#center)
     + [split](#split)
     + [resize](#resize)
     + [maximize](#maximize)
@@ -174,6 +175,10 @@
 - [reanxp/nvim-window](https://github.com/reanxp/nvim-window) ![](https://img.shields.io/github/stars/reanxp/nvim-window) ![](https://img.shields.io/github/last-commit/reanxp/nvim-window) ![](https://img.shields.io/github/commit-activity/y/reanxp/nvim-window)
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) ![](https://img.shields.io/github/stars/itsFrank/nvim-swell) ![](https://img.shields.io/github/last-commit/itsFrank/nvim-swell) ![](https://img.shields.io/github/commit-activity/y/itsFrank/nvim-swell)
 - [MisanthropicBit/winmove.nvim](https://github.com/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/winmove.nvim)
+
+#### center
+
+- [alteredoxide/centerterm.nvim](https://github.com/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/stars/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/last-commit/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/commit-activity/y/alteredoxide/centerterm.nvim)
 
 #### split
 

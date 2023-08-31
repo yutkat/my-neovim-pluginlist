@@ -56,6 +56,8 @@
     + [Otter](#otter)
     + [Google Bard](#google-bard)
   * [Machine Learning](#machine-learning)
+  * [Infra](#infra)
+    + [OpenStack](#openstack)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
     + [Ansible](#ansible)
@@ -98,12 +100,12 @@
       - [darkman](#darkman)
       - [fribidi](#fribidi)
       - [Inkscape](#inkscape)
-  * [Windows](#windows)
-    + [Everything](#everything)
-    + [AutoHotKey](#autohotkey)
-  * [Mac](#mac)
-    + [iTerm](#iterm)
-  * [iOS](#ios)
+    + [Windows](#windows)
+      - [Everything](#everything)
+      - [AutoHotKey](#autohotkey)
+    + [Mac](#mac)
+      - [iTerm](#iterm)
+    + [iOS](#ios)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
   * [Password Manager](#password-manager)
@@ -400,6 +402,12 @@
 
 - [dav1d-wright/nvim-dap-cv-image-viewer](https://github.com/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/stars/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/last-commit/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/nvim-dap-cv-image-viewer)
 
+### Infra
+
+#### OpenStack
+
+- [yasufum/os-tox.nvim](https://github.com/yasufum/os-tox.nvim) ![](https://img.shields.io/github/stars/yasufum/os-tox.nvim) ![](https://img.shields.io/github/last-commit/yasufum/os-tox.nvim) ![](https://img.shields.io/github/commit-activity/y/yasufum/os-tox.nvim)
+
 ### Cloud
 
 #### Terraform
@@ -581,26 +589,26 @@
 
 - [silaswaxter/inkscape-figure-manager.nvim](https://github.com/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/stars/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/last-commit/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/silaswaxter/inkscape-figure-manager.nvim)
 
-### Windows
+#### Windows
 
-#### Everything
+##### Everything
 
 - [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
 
-#### AutoHotKey
+##### AutoHotKey
 
 - [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
 
-### Mac
+#### Mac
 
 - [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
 - [MXCR-cpu/boop.nvim](https://github.com/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/stars/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/last-commit/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/commit-activity/y/MXCR-cpu/boop.nvim)
 
-#### iTerm
+##### iTerm
 
 - [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
 
-### iOS
+#### iOS
 
 - [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
 
