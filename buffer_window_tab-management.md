@@ -56,6 +56,7 @@
 - [Hajime-Suzuki/vuffers.nvim](https://github.com/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/stars/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/last-commit/Hajime-Suzuki/vuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Hajime-Suzuki/vuffers.nvim)
 - [ryanoneill/treble.nvim](https://github.com/ryanoneill/treble.nvim) ![](https://img.shields.io/github/stars/ryanoneill/treble.nvim) ![](https://img.shields.io/github/last-commit/ryanoneill/treble.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanoneill/treble.nvim)
 - [gaoDean/ido.nvim](https://github.com/gaoDean/ido.nvim) ![](https://img.shields.io/github/stars/gaoDean/ido.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/ido.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/ido.nvim)
+- [SneezNoodle/bufmenu.nvim](https://github.com/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/stars/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/last-commit/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/commit-activity/y/SneezNoodle/bufmenu.nvim)
 
 ### Other Buffer Switcher
 
