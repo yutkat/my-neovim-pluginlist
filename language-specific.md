@@ -11,9 +11,11 @@
         * [Formatter](#formatter)
         * [tsserver](#tsserver)
         * [Test](#test)
-        * [yarn](#yarn)
-        * [npm](#npm)
+        * [Task Runner](#task-runner)
+          + [yarn](#yarn)
+          + [npm](#npm)
           + [pnpm](#pnpm)
+          + [Biome](#biome)
       - [HTML](#html)
         * [conceal](#conceal)
         * [live server](#live-server)
@@ -160,11 +162,13 @@
 - [raine/testonly.nvim](https://github.com/raine/testonly.nvim) ![](https://img.shields.io/github/stars/raine/testonly.nvim) ![](https://img.shields.io/github/last-commit/raine/testonly.nvim) ![](https://img.shields.io/github/commit-activity/y/raine/testonly.nvim)
 - [zivlakmilos/TestRunner.nvim](https://github.com/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/stars/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/last-commit/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/zivlakmilos/TestRunner.nvim)
 
-##### yarn
+##### Task Runner
+
+###### yarn
 
 - [gugahoi/yarn.nvim](https://github.com/gugahoi/yarn.nvim) ![](https://img.shields.io/github/stars/gugahoi/yarn.nvim) ![](https://img.shields.io/github/last-commit/gugahoi/yarn.nvim) ![](https://img.shields.io/github/commit-activity/y/gugahoi/yarn.nvim)
 
-##### npm
+###### npm
 
 - [vuki656/package-info.nvim](https://github.com/vuki656/package-info.nvim) ![](https://img.shields.io/github/stars/vuki656/package-info.nvim) ![](https://img.shields.io/github/last-commit/vuki656/package-info.nvim) ![](https://img.shields.io/github/commit-activity/y/vuki656/package-info.nvim)
 - [nvim-telescope/telescope-node-modules.nvim](https://github.com/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-node-modules.nvim)
@@ -174,6 +178,10 @@
 ###### pnpm
 
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
+
+###### Biome
+
+- [zapling/biome.nvim](https://github.com/zapling/biome.nvim) ![](https://img.shields.io/github/stars/zapling/biome.nvim) ![](https://img.shields.io/github/last-commit/zapling/biome.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/biome.nvim)
 
 #### HTML
 

@@ -89,6 +89,7 @@
     + [haste](#haste)
     + [TabNews](#tabnews)
     + [DevDocs](#devdocs)
+    + [paste.rs](#pasters)
   * [CI](#ci)
     + [CircleCI](#circleci)
     + [Jenkins](#jenkins)
@@ -549,6 +550,10 @@
 #### DevDocs
 
 - [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/stars/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/last-commit/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/nvim-devdocs)
+
+#### paste.rs
+
+- [postfen/trozo.nvim](https://github.com/postfen/trozo.nvim) ![](https://img.shields.io/github/stars/postfen/trozo.nvim) ![](https://img.shields.io/github/last-commit/postfen/trozo.nvim) ![](https://img.shields.io/github/commit-activity/y/postfen/trozo.nvim)
 
 ### CI
 
