@@ -59,8 +59,6 @@
 
 ## Layout Switch
 
-- [dkostmii/keymap.nvim](https://github.com/dkostmii/keymap.nvim) ![](https://img.shields.io/github/stars/dkostmii/keymap.nvim) ![](https://img.shields.io/github/last-commit/dkostmii/keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/dkostmii/keymap.nvim)
-
 ## Mapping toggle
 
 - [paulfrische/mode.nvim](https://github.com/paulfrische/mode.nvim) ![](https://img.shields.io/github/stars/paulfrische/mode.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mode.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mode.nvim)
