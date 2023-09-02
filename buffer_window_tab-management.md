@@ -78,6 +78,7 @@
 - [nat-418/bufala.nvim](https://github.com/nat-418/bufala.nvim) ![](https://img.shields.io/github/stars/nat-418/bufala.nvim) ![](https://img.shields.io/github/last-commit/nat-418/bufala.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/bufala.nvim)
 - [Limeoats/buffer-manager.nvim](https://github.com/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Limeoats/buffer-manager.nvim)
 - [Norlock/nvim-traveller-buffers](https://github.com/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller-buffers)
+- [kesleymartins/monoke.nvim](https://github.com/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/stars/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/last-commit/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/commit-activity/y/kesleymartins/monoke.nvim)
 
 #### create
 

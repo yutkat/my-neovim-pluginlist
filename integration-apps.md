@@ -386,6 +386,8 @@
 #### Llama
 
 - [jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama) ![](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![](https://img.shields.io/github/last-commit/jpmcb/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/jpmcb/nvim-llama)
+- [marco-souza/ollero.nvim](https://github.com/marco-souza/ollero.nvim) ![](https://img.shields.io/github/stars/marco-souza/ollero.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ollero.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ollero.nvim)
+- [nc-glitch/llama_code.nvim](https://github.com/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/stars/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/last-commit/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/commit-activity/y/nc-glitch/llama_code.nvim)
 
 #### Aider
 

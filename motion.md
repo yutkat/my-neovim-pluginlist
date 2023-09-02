@@ -3,16 +3,15 @@
 <!-- toc -->
 
 - [Motion](#motion)
-  - [j/k](#jk)
-    - [Scrolling](#scrolling)
-  - [Smooth scroll](#smooth-scroll)
-  - [Label Jump (Easymotion style)](#label-jump-easymotion-style)
-  - [Horizontal Move](#horizontal-move)
-    - [Show jump word](#show-jump-word)
-  - [Vertical Move](#vertical-move)
-  - [Word Motion](#word-motion)
-  - [Line Move](#line-move)
-  - [Paragraph](#paragraph)
+  * [j/k](#jk)
+    + [Scrolling](#scrolling)
+  * [Smooth scroll](#smooth-scroll)
+  * [Label Jump (Easymotion style)](#label-jump-easymotion-style)
+  * [Horizontal Move](#horizontal-move)
+    + [Show jump word](#show-jump-word)
+  * [Vertical Move](#vertical-move)
+  * [Word Motion](#word-motion)
+  * [Line Move](#line-move)
 
 <!-- tocstop -->
 
@@ -53,6 +52,7 @@
 - [Weissle/easy-action](https://github.com/Weissle/easy-action) ![](https://img.shields.io/github/stars/Weissle/easy-action) ![](https://img.shields.io/github/last-commit/Weissle/easy-action) ![](https://img.shields.io/github/commit-activity/y/Weissle/easy-action)
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
 - [haolian9/gallop.nvim](https://github.com/haolian9/gallop.nvim) ![](https://img.shields.io/github/stars/haolian9/gallop.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gallop.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gallop.nvim)
+- [madyanov/svart.nvim](https://github.com/madyanov/svart.nvim) ![](https://img.shields.io/github/stars/madyanov/svart.nvim) ![](https://img.shields.io/github/last-commit/madyanov/svart.nvim) ![](https://img.shields.io/github/commit-activity/y/madyanov/svart.nvim)
 
 ### Horizontal Move
 
