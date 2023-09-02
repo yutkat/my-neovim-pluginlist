@@ -81,6 +81,7 @@
 - [rayzr522/diagnostic-filter.nvim](https://github.com/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/stars/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/last-commit/rayzr522/diagnostic-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rayzr522/diagnostic-filter.nvim)
 - [m-gail/diagnostic_manipulation.nvim](https://github.com/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/stars/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/last-commit/m-gail/diagnostic_manipulation.nvim) ![](https://img.shields.io/github/commit-activity/y/m-gail/diagnostic_manipulation.nvim)
 - [piersolenski/wtf.nvim](https://github.com/piersolenski/wtf.nvim) ![](https://img.shields.io/github/stars/piersolenski/wtf.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/wtf.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/wtf.nvim)
+- [suliatis/mess-around.nvim](https://github.com/suliatis/mess-around.nvim) ![](https://img.shields.io/github/stars/suliatis/mess-around.nvim) ![](https://img.shields.io/github/last-commit/suliatis/mess-around.nvim) ![](https://img.shields.io/github/commit-activity/y/suliatis/mess-around.nvim)
 
 ##### diagnostics summary
 
