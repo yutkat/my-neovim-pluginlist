@@ -93,6 +93,7 @@
     + [Tcl/Tk](#tcltk)
     + [Unison](#unison)
     + [Prolog](#prolog)
+    + [CHIP-8](#chip-8)
     + [Brainfuck](#brainfuck)
   * [Configuration File](#configuration-file)
     + [JSON](#json)
@@ -620,6 +621,10 @@
 ### Prolog
 
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
+
+### CHIP-8
+
+- [rktjmp/chip-8.nvim](https://github.com/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/stars/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/chip-8.nvim)
 
 ### Brainfuck
 
