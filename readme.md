@@ -175,6 +175,7 @@
 
 - [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
 - [rafi/tabstrip.nvim](https://github.com/rafi/tabstrip.nvim) ![](https://img.shields.io/github/stars/rafi/tabstrip.nvim) ![](https://img.shields.io/github/last-commit/rafi/tabstrip.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/tabstrip.nvim)
+- [lpoto/tabline.nvim](https://github.com/lpoto/tabline.nvim) ![](https://img.shields.io/github/stars/lpoto/tabline.nvim) ![](https://img.shields.io/github/last-commit/lpoto/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/tabline.nvim)
 
 ### winbar
 
