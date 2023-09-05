@@ -88,6 +88,7 @@
     + [Context Header](#context-header)
       - [Indent Guide](#indent-guide)
   * [Linter / Formatter](#linter--formatter)
+  * [Import](#import)
   * [Regex](#regex)
   * [Generate documentation](#generate-documentation)
   * [Code outline](#code-outline)
@@ -540,6 +541,10 @@
 - [HampusHauffman/block.nvim](https://github.com/HampusHauffman/block.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/block.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/block.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/block.nvim)
 
 ### [Linter / Formatter](./linter_formatter.md)
+
+### Import
+
+- [piersolenski/telescope-import.nvim](https://github.com/piersolenski/telescope-import.nvim) ![](https://img.shields.io/github/stars/piersolenski/telescope-import.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/telescope-import.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/telescope-import.nvim)
 
 ### Regex
 
