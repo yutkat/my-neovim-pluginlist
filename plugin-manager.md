@@ -31,6 +31,7 @@
 - [notomo/optpack.nvim](https://github.com/notomo/optpack.nvim) ![](https://img.shields.io/github/stars/notomo/optpack.nvim) ![](https://img.shields.io/github/last-commit/notomo/optpack.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/optpack.nvim)
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
 - [zukijifukato/hephy.nvim](https://github.com/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/stars/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/last-commit/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/commit-activity/y/zukijifukato/hephy.nvim)
+- [nocksock/baggage.nvim](https://github.com/nocksock/baggage.nvim) ![](https://img.shields.io/github/stars/nocksock/baggage.nvim) ![](https://img.shields.io/github/last-commit/nocksock/baggage.nvim) ![](https://img.shields.io/github/commit-activity/y/nocksock/baggage.nvim)
 
 ### Update checker
 

@@ -23,6 +23,7 @@
   * [git info](#git-info)
   * [git grep](#git-grep)
   * [search](#search)
+  * [worktree](#worktree)
   * [git utils](#git-utils)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
@@ -33,6 +34,7 @@
   * [Link](#link)
     + [Image](#image)
     + [grep.app](#grepapp)
+    + [Organization](#organization)
     + [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
 - [CLI](#cli)
@@ -163,6 +165,10 @@
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
 
+## worktree
+
+- [Mohanbarman/g-worktree.nvim](https://github.com/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/stars/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/last-commit/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohanbarman/g-worktree.nvim)
+
 ## git utils
 
 - [yutkat/convert-git-url.nvim](https://github.com/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/stars/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/last-commit/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/convert-git-url.nvim)
@@ -219,6 +225,10 @@
 ### grep.app
 
 - [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)
+
+### Organization
+
+- [xixiaofinland/force.nvim](https://github.com/xixiaofinland/force.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/force.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/force.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/force.nvim)
 
 ### CODEOWNERS
 
