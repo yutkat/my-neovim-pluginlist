@@ -731,6 +731,7 @@
 - [gaborvecsei/usage-tracker.nvim](https://github.com/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/stars/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/gaborvecsei/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/gaborvecsei/usage-tracker.nvim)
 - [mvllow/stand.nvim](https://github.com/mvllow/stand.nvim) ![](https://img.shields.io/github/stars/mvllow/stand.nvim) ![](https://img.shields.io/github/last-commit/mvllow/stand.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/stand.nvim)
 - [kimpors/progress.nvim](https://github.com/kimpors/progress.nvim) ![](https://img.shields.io/github/stars/kimpors/progress.nvim) ![](https://img.shields.io/github/last-commit/kimpors/progress.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpors/progress.nvim)
+- [Lamby777/timewasted.nvim](https://github.com/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/stars/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/last-commit/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/commit-activity/y/Lamby777/timewasted.nvim)
 
 ### Market place
 

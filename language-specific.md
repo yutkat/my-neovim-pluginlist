@@ -511,6 +511,7 @@
 - [rafaelcolladojr/dart-boiler.nvim](https://github.com/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/stars/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/last-commit/rafaelcolladojr/dart-boiler.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelcolladojr/dart-boiler.nvim)
 - [mskelton/flutter.nvim](https://github.com/mskelton/flutter.nvim) ![](https://img.shields.io/github/stars/mskelton/flutter.nvim) ![](https://img.shields.io/github/last-commit/mskelton/flutter.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/flutter.nvim)
 - [RobertPietraru/bloc.nvim](https://github.com/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/stars/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/last-commit/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertPietraru/bloc.nvim)
+- [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/stars/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/last-commit/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertBrunhage/dart-tools.nvim)
 
 ### Clojure
 

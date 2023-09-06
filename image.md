@@ -53,6 +53,7 @@
 - [matze/wastebin.nvim](https://github.com/matze/wastebin.nvim) ![](https://img.shields.io/github/stars/matze/wastebin.nvim) ![](https://img.shields.io/github/last-commit/matze/wastebin.nvim) ![](https://img.shields.io/github/commit-activity/y/matze/wastebin.nvim)
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/stars/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/last-commit/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/commit-activity/y/michaelrommel/nvim-silicon)
 - [niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim) ![](https://img.shields.io/github/stars/niuiic/code-shot.nvim) ![](https://img.shields.io/github/last-commit/niuiic/code-shot.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/code-shot.nvim)
+- [AlexXi19/share.nvim](https://github.com/AlexXi19/share.nvim) ![](https://img.shields.io/github/stars/AlexXi19/share.nvim) ![](https://img.shields.io/github/last-commit/AlexXi19/share.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexXi19/share.nvim)
 
 ### SVG
 
