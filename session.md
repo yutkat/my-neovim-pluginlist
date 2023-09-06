@@ -34,6 +34,7 @@
 - [Sammyalhashe/session_manager.nvim](https://github.com/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/stars/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/last-commit/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Sammyalhashe/session_manager.nvim)
 - [AbaoFromCUG/session.nvim](https://github.com/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/session.nvim)
 - [lpoto/telescope-sessions.nvim](https://github.com/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-sessions.nvim)
+- [ivanjermakov/oh-no-my-buffers.nvim](https://github.com/ivanjermakov/oh-no-my-buffers.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/oh-no-my-buffers.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/oh-no-my-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/oh-no-my-buffers.nvim)
 
 ## Session Selector
 
