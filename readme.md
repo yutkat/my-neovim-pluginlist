@@ -431,6 +431,7 @@
 - [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
 - [bignos/bookmacro](https://github.com/bignos/bookmacro) ![](https://img.shields.io/github/stars/bignos/bookmacro) ![](https://img.shields.io/github/last-commit/bignos/bookmacro) ![](https://img.shields.io/github/commit-activity/y/bignos/bookmacro)
 - [desdic/macrothis.nvim](https://github.com/desdic/macrothis.nvim) ![](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![](https://img.shields.io/github/last-commit/desdic/macrothis.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/macrothis.nvim)
+- [jake-stewart/recursive-macro.nvim](https://github.com/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/stars/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/recursive-macro.nvim)
 
 ### Errorformat
 
