@@ -249,6 +249,7 @@
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [lpoto/telescope-docker.nvim](https://github.com/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-docker.nvim)
+- [aloussase/dockerlint.nvim](https://github.com/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/stars/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/last-commit/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/dockerlint.nvim)
 
 #### dotenv
 
@@ -499,6 +500,7 @@
 - [kid-icarus/jira.nvim](https://github.com/kid-icarus/jira.nvim) ![](https://img.shields.io/github/stars/kid-icarus/jira.nvim) ![](https://img.shields.io/github/last-commit/kid-icarus/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/kid-icarus/jira.nvim)
 - [artem-nefedov/cmp-jira-issues.nvim](https://github.com/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/stars/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/last-commit/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/commit-activity/y/artem-nefedov/cmp-jira-issues.nvim)
 - [ChristophSonnleitner/jira.nvim](https://github.com/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/stars/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/last-commit/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristophSonnleitner/jira.nvim)
+- [Funk66/jira.nvim](https://github.com/Funk66/jira.nvim) ![](https://img.shields.io/github/stars/Funk66/jira.nvim) ![](https://img.shields.io/github/last-commit/Funk66/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Funk66/jira.nvim)
 
 #### youtrack
 
