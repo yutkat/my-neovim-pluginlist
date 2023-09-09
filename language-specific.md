@@ -87,6 +87,7 @@
     + [Moonscript](#moonscript)
     + [Haxe](#haxe)
     + [Kind](#kind)
+    + [MatLab](#matlab)
     + [Cell](#cell)
     + [sylt](#sylt)
     + [Cyber](#cyber)
@@ -600,6 +601,10 @@
 ### Kind
 
 - [HigherOrderCO/Kind.nvim](https://github.com/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/stars/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/last-commit/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/commit-activity/y/HigherOrderCO/Kind.nvim)
+
+### MatLab
+
+- [BalderHolst/matlab.nvim](https://github.com/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/stars/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/last-commit/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/BalderHolst/matlab.nvim)
 
 ### Cell
 
