@@ -144,6 +144,7 @@
 - [opdavies/toggle-checkbox.nvim](https://github.com/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/opdavies/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/opdavies/toggle-checkbox.nvim)
 - [NFrid/markdown-togglecheck](https://github.com/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/stars/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/last-commit/NFrid/markdown-togglecheck) ![](https://img.shields.io/github/commit-activity/y/NFrid/markdown-togglecheck)
 - [thenbe/markdown-todo.nvim](https://github.com/thenbe/markdown-todo.nvim) ![](https://img.shields.io/github/stars/thenbe/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/thenbe/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/markdown-todo.nvim)
+- [marco-souza/tasks.nvim](https://github.com/marco-souza/tasks.nvim) ![](https://img.shields.io/github/stars/marco-souza/tasks.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/tasks.nvim)
 
 #### Markdown list
 
