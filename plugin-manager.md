@@ -7,6 +7,7 @@
   * [Use builtin package feature](#use-builtin-package-feature)
   * [Update checker](#update-checker)
   * [Search](#search)
+  * [add](#add)
 
 <!-- tocstop -->
 
@@ -40,3 +41,7 @@
 ### Search
 
 - [darksinge/plink.nvim](https://github.com/darksinge/plink.nvim) ![](https://img.shields.io/github/stars/darksinge/plink.nvim) ![](https://img.shields.io/github/last-commit/darksinge/plink.nvim) ![](https://img.shields.io/github/commit-activity/y/darksinge/plink.nvim)
+
+### add
+
+- [tetzng/add-plugin.nvim](https://github.com/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/stars/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/last-commit/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/add-plugin.nvim)
