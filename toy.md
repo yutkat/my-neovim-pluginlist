@@ -18,6 +18,7 @@
   * [Cowsay](#cowsay)
   * [Study](#study)
   * [Music](#music)
+      - [MIDI](#midi)
       - [Morse](#morse)
     + [Recording](#recording)
     + [Type sound](#type-sound)
@@ -112,6 +113,10 @@
 - [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
 - [pogyomo/harmony.nvim](https://github.com/pogyomo/harmony.nvim) ![](https://img.shields.io/github/stars/pogyomo/harmony.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/harmony.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/harmony.nvim)
 - [whleucka/melody.nvim](https://github.com/whleucka/melody.nvim) ![](https://img.shields.io/github/stars/whleucka/melody.nvim) ![](https://img.shields.io/github/last-commit/whleucka/melody.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/melody.nvim)
+
+#### MIDI
+
+- [niveK77pur/midi-input.nvim](https://github.com/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/stars/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/last-commit/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/commit-activity/y/niveK77pur/midi-input.nvim)
 
 #### Morse
 

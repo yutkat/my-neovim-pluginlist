@@ -80,6 +80,7 @@
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
+    + [Promela](#promela)
     + [Agda](#agda)
     + [Monkey](#monkey)
     + [GNU APL](#gnu-apl)
@@ -383,6 +384,7 @@
 - [MattCairns/telescope-cargo-workspace.nvim](https://github.com/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/stars/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/last-commit/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/MattCairns/telescope-cargo-workspace.nvim)
 - [ryo33/nvim-cmp-rust](https://github.com/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/stars/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/last-commit/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/commit-activity/y/ryo33/nvim-cmp-rust)
 - [AbaoFromCUG/rust-tools.nvim](https://github.com/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/rust-tools.nvim)
+- [vxpm/rust-expand-macro.nvim](https://github.com/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/stars/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/last-commit/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/rust-expand-macro.nvim)
 
 ### Go
 
@@ -571,6 +573,10 @@
 ### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+### Promela
+
+- [sebostien/spin.nvim](https://github.com/sebostien/spin.nvim) ![](https://img.shields.io/github/stars/sebostien/spin.nvim) ![](https://img.shields.io/github/last-commit/sebostien/spin.nvim) ![](https://img.shields.io/github/commit-activity/y/sebostien/spin.nvim)
 
 ### Agda
 
