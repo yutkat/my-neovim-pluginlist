@@ -143,8 +143,6 @@
 
 ### HTTP
 
-- [jcdickinson/http.nvim](https://github.com/jcdickinson/http.nvim) ![](https://img.shields.io/github/stars/jcdickinson/http.nvim) ![](https://img.shields.io/github/last-commit/jcdickinson/http.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdickinson/http.nvim)
-
 ### Curl
 
 - [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
