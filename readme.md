@@ -317,6 +317,7 @@
 ### Parenthetical edit
 
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
+  - [julienvincent/nvim-paredit-fennel](https://github.com/julienvincent/nvim-paredit-fennel) ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit-fennel) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit-fennel) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit-fennel)
 
 ### Misc
 
