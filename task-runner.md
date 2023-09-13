@@ -61,6 +61,7 @@
 - [neysanfoo/coderunner.nvim](https://github.com/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/stars/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/coderunner.nvim)
 - [Walcriz/action-lists.nvim](https://github.com/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/stars/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/last-commit/Walcriz/action-lists.nvim) ![](https://img.shields.io/github/commit-activity/y/Walcriz/action-lists.nvim)
 - [Leeziao/code_runner.nvim](https://github.com/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/stars/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/last-commit/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Leeziao/code_runner.nvim)
+- [LiamFenneman/quick-run.nvim](https://github.com/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/stars/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/last-commit/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamFenneman/quick-run.nvim)
 
 ### Shell
 
