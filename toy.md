@@ -10,6 +10,8 @@
   * [Video](#video)
   * [Game](#game)
     + [Typing](#typing)
+    + [FiveM](#fivem)
+  * [Gaming](#gaming)
   * [Training](#training)
   * [Gesture](#gesture)
   * [Weather](#weather)
@@ -66,6 +68,14 @@
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/stars/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/last-commit/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/commit-activity/y/BooleanCube/keylab.nvim)
 - [BYT0723/typist.nvim](https://github.com/BYT0723/typist.nvim) ![](https://img.shields.io/github/stars/BYT0723/typist.nvim) ![](https://img.shields.io/github/last-commit/BYT0723/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/BYT0723/typist.nvim)
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/stars/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/speedtyper.nvim)
+
+### FiveM
+
+- [Z3rio/FiveM.nvim](https://github.com/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/stars/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/last-commit/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/commit-activity/y/Z3rio/FiveM.nvim)
+
+## Gaming
+
+- [neysanfoo/party.nvim](https://github.com/neysanfoo/party.nvim) ![](https://img.shields.io/github/stars/neysanfoo/party.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/party.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/party.nvim)
 
 ## Training
 
