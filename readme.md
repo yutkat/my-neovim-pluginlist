@@ -296,6 +296,7 @@
 - [echasnovski/mini.align](https://github.com/echasnovski/mini.align) ![](https://img.shields.io/github/stars/echasnovski/mini.align) ![](https://img.shields.io/github/last-commit/echasnovski/mini.align) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.align)
 - [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
 - [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
+- [chuck-flowers/align-selection.nvim](https://github.com/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/align-selection.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 
@@ -611,6 +612,7 @@
 - [jamestthompson3/nvim-remote-containers](https://github.com/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/stars/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/last-commit/jamestthompson3/nvim-remote-containers) ![](https://img.shields.io/github/commit-activity/y/jamestthompson3/nvim-remote-containers)
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) ![](https://img.shields.io/github/stars/esensar/nvim-dev-container) ![](https://img.shields.io/github/last-commit/esensar/nvim-dev-container) ![](https://img.shields.io/github/commit-activity/y/esensar/nvim-dev-container)
 - [arnaupv/nvim-devcontainer-cli](https://github.com/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/stars/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/last-commit/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/commit-activity/y/arnaupv/nvim-devcontainer-cli)
+- [aw1875/devcontainers.nvim](https://github.com/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/stars/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/devcontainers.nvim)
 
 ### Collaborative Editing
 

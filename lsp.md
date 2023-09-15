@@ -7,6 +7,7 @@
   * [LSP Feature Extension UI](#lsp-feature-extension-ui)
     + [Diagnostics](#diagnostics)
       - [diagnostics summary](#diagnostics-summary)
+    + [Signature Help](#signature-help)
     + [Definition, Reference](#definition-reference)
     + [Code action](#code-action)
     + [Hint](#hint)
@@ -88,6 +89,10 @@
 
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) ![](https://img.shields.io/github/stars/Mofiqul/trld.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/trld.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/trld.nvim)
 - [ivanjermakov/troublesum.nvim](https://github.com/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/troublesum.nvim)
+
+#### Signature Help
+
+- [temchik00/toggle-signature-help.nvim](https://github.com/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/stars/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/last-commit/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/commit-activity/y/temchik00/toggle-signature-help.nvim)
 
 #### Definition, Reference
 
