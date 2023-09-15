@@ -511,6 +511,7 @@
 - [mhanberg/elixir.nvim](https://github.com/mhanberg/elixir.nvim) ![](https://img.shields.io/github/stars/mhanberg/elixir.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/elixir.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/elixir.nvim)
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) ![](https://img.shields.io/github/stars/brendalf/mix.nvim) ![](https://img.shields.io/github/last-commit/brendalf/mix.nvim) ![](https://img.shields.io/github/commit-activity/y/brendalf/mix.nvim)
 - [chujDK/bootlin.nvim](https://github.com/chujDK/bootlin.nvim) ![](https://img.shields.io/github/stars/chujDK/bootlin.nvim) ![](https://img.shields.io/github/last-commit/chujDK/bootlin.nvim) ![](https://img.shields.io/github/commit-activity/y/chujDK/bootlin.nvim)
+- [wesleimp/elixir-keys.nvim](https://github.com/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/stars/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/elixir-keys.nvim)
 
 ### Haskell
 

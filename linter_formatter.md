@@ -31,6 +31,7 @@
 - [lukas-reineke/format.nvim](https://github.com/lukas-reineke/format.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/format.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/format.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/format.nvim)
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [rickyelopez/uncrustify.nvim](https://github.com/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/stars/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/last-commit/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/commit-activity/y/rickyelopez/uncrustify.nvim)
+- [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/stars/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/last-commit/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/minimal-format.nvim)
 
 ### Trim Whitespace
 

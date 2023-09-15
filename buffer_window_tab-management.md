@@ -122,6 +122,8 @@
 - [echasnovski/mini.bufremove](https://github.com/echasnovski/mini.bufremove) ![](https://img.shields.io/github/stars/echasnovski/mini.bufremove) ![](https://img.shields.io/github/last-commit/echasnovski/mini.bufremove) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.bufremove)
 - [mogulla3/buf-sweep.nvim](https://github.com/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/stars/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/buf-sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/buf-sweep.nvim)
 - [towry/window-bufstack.nvim](https://github.com/towry/window-bufstack.nvim) ![](https://img.shields.io/github/stars/towry/window-bufstack.nvim) ![](https://img.shields.io/github/last-commit/towry/window-bufstack.nvim) ![](https://img.shields.io/github/commit-activity/y/towry/window-bufstack.nvim)
+- [kyoh86/bdelete-buffers.nvim](https://github.com/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/stars/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/bdelete-buffers.nvim)
+- [kyoh86/unload-buffers.nvim](https://github.com/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/stars/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/unload-buffers.nvim)
 
 #### auto close
 
