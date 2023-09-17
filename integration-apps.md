@@ -386,6 +386,7 @@
 - [rusagaib/oas-preview.nvim](https://github.com/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/stars/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/last-commit/rusagaib/oas-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/rusagaib/oas-preview.nvim)
 - [lu5her-s/neogpt.nvim](https://github.com/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/stars/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/last-commit/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/commit-activity/y/lu5her-s/neogpt.nvim)
 - [catgoose/chat-gypsy.nvim](https://github.com/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/stars/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/last-commit/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/chat-gypsy.nvim)
+- [youshyee/gpt.nvim](https://github.com/youshyee/gpt.nvim) ![](https://img.shields.io/github/stars/youshyee/gpt.nvim) ![](https://img.shields.io/github/last-commit/youshyee/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/youshyee/gpt.nvim)
 
 ##### OpenAI Review
 
