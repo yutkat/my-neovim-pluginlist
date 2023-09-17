@@ -6,6 +6,7 @@
     + [Telescope Extensions](#telescope-extensions)
       - [Picker](#picker)
       - [Sorter](#sorter)
+      - [Action](#action)
       - [Utils](#utils)
       - [Grep](#grep)
       - [Integration for another plugin](#integration-for-another-plugin)
@@ -47,6 +48,10 @@
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-native.nvim)
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzy-native.nvim)
 - [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/stars/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/last-commit/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/commit-activity/y/natecraddock/telescope-zf-native.nvim)
+
+#### Action
+
+- [omaraboumrad/telescope-extra-actions.nvim](https://github.com/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/stars/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/last-commit/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/omaraboumrad/telescope-extra-actions.nvim)
 
 #### Utils
 

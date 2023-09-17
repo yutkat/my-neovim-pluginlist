@@ -754,6 +754,7 @@
 - [tamton-aquib/essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/essentials.nvim)
 - [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/stuff.nvim)
 - [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) ![](https://img.shields.io/github/stars/echasnovski/mini.misc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.misc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.misc)
+- [altermo/small.nvim](https://github.com/altermo/small.nvim) ![](https://img.shields.io/github/stars/altermo/small.nvim) ![](https://img.shields.io/github/last-commit/altermo/small.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/small.nvim)
 
 ## Patch
 

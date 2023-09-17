@@ -172,6 +172,7 @@
 
 - [caenrique/swap-buffers.nvim](https://github.com/caenrique/swap-buffers.nvim) ![](https://img.shields.io/github/stars/caenrique/swap-buffers.nvim) ![](https://img.shields.io/github/last-commit/caenrique/swap-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/caenrique/swap-buffers.nvim)
 - [c60cb859/bufMov.nvim](https://github.com/c60cb859/bufMov.nvim) ![](https://img.shields.io/github/stars/c60cb859/bufMov.nvim) ![](https://img.shields.io/github/last-commit/c60cb859/bufMov.nvim) ![](https://img.shields.io/github/commit-activity/y/c60cb859/bufMov.nvim)
+- [haolian9/winswap.nvim](https://github.com/haolian9/winswap.nvim) ![](https://img.shields.io/github/stars/haolian9/winswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winswap.nvim)
 
 #### layout
 

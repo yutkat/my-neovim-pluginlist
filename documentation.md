@@ -57,6 +57,7 @@
 - [dburian/cmp-markdown-link](https://github.com/dburian/cmp-markdown-link) ![](https://img.shields.io/github/stars/dburian/cmp-markdown-link) ![](https://img.shields.io/github/last-commit/dburian/cmp-markdown-link) ![](https://img.shields.io/github/commit-activity/y/dburian/cmp-markdown-link)
 - [5eqn/nothura.nvim](https://github.com/5eqn/nothura.nvim) ![](https://img.shields.io/github/stars/5eqn/nothura.nvim) ![](https://img.shields.io/github/last-commit/5eqn/nothura.nvim) ![](https://img.shields.io/github/commit-activity/y/5eqn/nothura.nvim)
 - [PhilippFeO/telescope-filelinks.nvim](https://github.com/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/telescope-filelinks.nvim)
+- [muryp/muryp-link.nvim](https://github.com/muryp/muryp-link.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-link.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-link.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-link.nvim)
 
 #### Markdown header
 
