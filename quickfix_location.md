@@ -20,6 +20,7 @@
 - [notomo/unionbuf.nvim](https://github.com/notomo/unionbuf.nvim) ![](https://img.shields.io/github/stars/notomo/unionbuf.nvim) ![](https://img.shields.io/github/last-commit/notomo/unionbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/unionbuf.nvim)
 - [ashfinal/qfview.nvim](https://github.com/ashfinal/qfview.nvim) ![](https://img.shields.io/github/stars/ashfinal/qfview.nvim) ![](https://img.shields.io/github/last-commit/ashfinal/qfview.nvim) ![](https://img.shields.io/github/commit-activity/y/ashfinal/qfview.nvim)
 - [hfn92/qf-virtual-text.nvim](https://github.com/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/stars/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/last-commit/hfn92/qf-virtual-text.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/qf-virtual-text.nvim)
+- [yorickpeterse/nvim-pqf](https://github.com/yorickpeterse/nvim-pqf) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-pqf) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-pqf) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-pqf)
 
 ### Syntax
 

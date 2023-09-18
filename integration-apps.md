@@ -124,6 +124,7 @@
     + [Robot](#robot)
       - [ROS](#ros)
       - [FRC(First robotics competition)](#frcfirst-robotics-competition)
+    + [Microcomputer](#microcomputer)
       - [LEGO](#lego)
     + [Keyboard](#keyboard)
     + [Embedded Software](#embedded-software)
@@ -709,6 +710,10 @@
 ##### FRC(First robotics competition)
 
 - [VLPatton/frcpal.nvim](https://github.com/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/stars/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/last-commit/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/commit-activity/y/VLPatton/frcpal.nvim)
+
+#### Microcomputer
+
+- [fmaggi/stm32.nvim](https://github.com/fmaggi/stm32.nvim) ![](https://img.shields.io/github/stars/fmaggi/stm32.nvim) ![](https://img.shields.io/github/last-commit/fmaggi/stm32.nvim) ![](https://img.shields.io/github/commit-activity/y/fmaggi/stm32.nvim)
 
 ##### LEGO
 
