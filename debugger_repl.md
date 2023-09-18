@@ -43,6 +43,7 @@
 - [LiadOz/nvim-dap-repl-highlights](https://github.com/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/stars/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/last-commit/LiadOz/nvim-dap-repl-highlights) ![](https://img.shields.io/github/commit-activity/y/LiadOz/nvim-dap-repl-highlights)
 - [kilisio/nvim-dap-projects](https://github.com/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/stars/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/last-commit/kilisio/nvim-dap-projects) ![](https://img.shields.io/github/commit-activity/y/kilisio/nvim-dap-projects)
 - [niuiic/dap-utils.nvim](https://github.com/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/stars/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/last-commit/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/dap-utils.nvim)
+- [ZyriabDsgn/npm-dap.nvim](https://github.com/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/stars/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/last-commit/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/ZyriabDsgn/npm-dap.nvim)
 
 ### REPL
 

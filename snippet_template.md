@@ -45,6 +45,8 @@
 
 ### Emmet
 
+- [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) ![](https://img.shields.io/github/stars/olrtg/nvim-emmet) ![](https://img.shields.io/github/last-commit/olrtg/nvim-emmet) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-emmet)
+
 ### Template
 
 - [nvimdev/template.nvim](https://github.com/nvimdev/template.nvim) ![](https://img.shields.io/github/stars/nvimdev/template.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/template.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/template.nvim)

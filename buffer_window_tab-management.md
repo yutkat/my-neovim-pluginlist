@@ -159,6 +159,7 @@
 - [tkmpypy/chowcho.nvim](https://github.com/tkmpypy/chowcho.nvim) ![](https://img.shields.io/github/stars/tkmpypy/chowcho.nvim) ![](https://img.shields.io/github/last-commit/tkmpypy/chowcho.nvim) ![](https://img.shields.io/github/commit-activity/y/tkmpypy/chowcho.nvim)
 - [gbrlsnchs/winpick.nvim](https://github.com/gbrlsnchs/winpick.nvim) ![](https://img.shields.io/github/stars/gbrlsnchs/winpick.nvim) ![](https://img.shields.io/github/last-commit/gbrlsnchs/winpick.nvim) ![](https://img.shields.io/github/commit-activity/y/gbrlsnchs/winpick.nvim)
 - [meeehdi-dev/win-picker.nvim](https://github.com/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/stars/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/last-commit/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/meeehdi-dev/win-picker.nvim)
+- [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-window) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-window) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-window)
 
 ### Window Management
 
