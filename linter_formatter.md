@@ -6,6 +6,7 @@
 - [Formatter](#formatter)
   * [Trim Whitespace](#trim-whitespace)
 - [Lint](#lint)
+- [null-ls fork](#null-ls-fork)
   * [Global variables](#global-variables)
 
 <!-- tocstop -->
@@ -51,6 +52,11 @@
 - [nvimdev/guard.nvim(lint)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
 - [haolian9/linters.nvim](https://github.com/haolian9/linters.nvim) ![](https://img.shields.io/github/stars/haolian9/linters.nvim) ![](https://img.shields.io/github/last-commit/haolian9/linters.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/linters.nvim)
 - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
+
+## null-ls fork
+
+- [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/stars/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/last-commit/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimtools/none-ls.nvim)
+- [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/stars/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/last-commit/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-stuff/null-ls.nvim)
 
 ### Global variables
 
