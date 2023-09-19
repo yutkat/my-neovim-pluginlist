@@ -105,6 +105,7 @@
 - [Davidyz/lsp-location-handler.nvim](https://github.com/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/stars/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/lsp-location-handler.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/lsp-location-handler.nvim)
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/stars/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/last-commit/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/VidocqH/lsp-lens.nvim)
 - [KostkaBrukowa/definition-or-references.nvim](https://github.com/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/stars/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/last-commit/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/commit-activity/y/KostkaBrukowa/definition-or-references.nvim)
+- [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/stars/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/symbol-usage.nvim)
 
 #### Code action
 

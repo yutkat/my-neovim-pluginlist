@@ -90,6 +90,7 @@
     + [haste](#haste)
     + [TabNews](#tabnews)
     + [DevDocs](#devdocs)
+    + [Runme](#runme)
     + [paste.rs](#pasters)
   * [CI](#ci)
     + [CircleCI](#circleci)
@@ -565,6 +566,10 @@
 #### DevDocs
 
 - [luckasRanarison/nvim-devdocs](https://github.com/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/stars/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/last-commit/luckasRanarison/nvim-devdocs) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/nvim-devdocs)
+
+#### Runme
+
+- [catdevman/runme.nvim](https://github.com/catdevman/runme.nvim) ![](https://img.shields.io/github/stars/catdevman/runme.nvim) ![](https://img.shields.io/github/last-commit/catdevman/runme.nvim) ![](https://img.shields.io/github/commit-activity/y/catdevman/runme.nvim)
 
 #### paste.rs
 
