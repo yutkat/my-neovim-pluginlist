@@ -93,6 +93,7 @@
 - [Aya-nvim/Aya-vault.nvim](https://github.com/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/stars/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/last-commit/Aya-nvim/Aya-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/Aya-nvim/Aya-vault.nvim)
 - [ada0l/obsidian](https://github.com/ada0l/obsidian) ![](https://img.shields.io/github/stars/ada0l/obsidian) ![](https://img.shields.io/github/last-commit/ada0l/obsidian) ![](https://img.shields.io/github/commit-activity/y/ada0l/obsidian)
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/obs.nvim)
+- [oflisback/obsidian-sync.nvim](https://github.com/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/stars/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/last-commit/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/oflisback/obsidian-sync.nvim)
 
 ## Google Keep
 

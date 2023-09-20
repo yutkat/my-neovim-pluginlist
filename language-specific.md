@@ -74,6 +74,8 @@
     + [Haskell](#haskell)
     + [Lisp](#lisp)
     + [OCaml](#ocaml)
+    + [Julia](#julia)
+    + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
     + [Nushell](#nushell)
     + [F](#f)
@@ -250,6 +252,7 @@
 - [Mr-Destructive/black_snipper.nvim](https://github.com/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/stars/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/last-commit/Mr-Destructive/black_snipper.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-Destructive/black_snipper.nvim)
 - [prevostcorentin/nvim-yawn](https://github.com/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/stars/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/last-commit/prevostcorentin/nvim-yawn) ![](https://img.shields.io/github/commit-activity/y/prevostcorentin/nvim-yawn)
 - [roobert/f-string-toggle.nvim](https://github.com/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/stars/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/last-commit/roobert/f-string-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/f-string-toggle.nvim)
+- [chrisgrieser/nvim-puppeteer](https://github.com/chrisgrieser/nvim-puppeteer) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-puppeteer) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-puppeteer) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-puppeteer)
 
 #### tweaks
 
@@ -529,6 +532,12 @@
 
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
+
+### Julia
+
+### R
+
+- [jumanbar/tocnavigator.nvim](https://github.com/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/stars/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/last-commit/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/jumanbar/tocnavigator.nvim)
 
 ### Shellscript(bash)
 
