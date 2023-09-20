@@ -4,6 +4,7 @@
 
 - [Integration with other apps](#integration-with-other-apps)
   * [Browser Integration](#browser-integration)
+    + [url open](#url-open)
     + [DevTools](#devtools)
     + [Firefox](#firefox)
     + [live preview](#live-preview)
@@ -146,6 +147,10 @@
 - [mochi-sann/Select2Browser.nvim](https://github.com/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/stars/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/last-commit/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/commit-activity/y/mochi-sann/Select2Browser.nvim)
 - [andres-lowrie/nvim-search-internet](https://github.com/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/stars/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/last-commit/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/commit-activity/y/andres-lowrie/nvim-search-internet)
 
+#### url open
+
+- [sontungexpt/url-open](https://github.com/sontungexpt/url-open) ![](https://img.shields.io/github/stars/sontungexpt/url-open) ![](https://img.shields.io/github/last-commit/sontungexpt/url-open) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/url-open)
+
 #### DevTools
 
 - [carlosrocha/chrome-remote.nvim](https://github.com/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/stars/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/last-commit/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosrocha/chrome-remote.nvim)
@@ -206,6 +211,7 @@
 - [romgrk/kui.nvim](https://github.com/romgrk/kui.nvim) ![](https://img.shields.io/github/stars/romgrk/kui.nvim) ![](https://img.shields.io/github/last-commit/romgrk/kui.nvim) ![](https://img.shields.io/github/commit-activity/y/romgrk/kui.nvim)
 - [garyhurtz/cmp_kitty](https://github.com/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/stars/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/last-commit/garyhurtz/cmp_kitty) ![](https://img.shields.io/github/commit-activity/y/garyhurtz/cmp_kitty)
 - [ouroboros8/nvim-kitty-navigator](https://github.com/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/stars/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/last-commit/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/commit-activity/y/ouroboros8/nvim-kitty-navigator)
+- [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/kitty-scrollback.nvim)
 
 #### WezTerm
 
