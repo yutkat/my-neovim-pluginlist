@@ -80,6 +80,7 @@
 - [jellydn/my-note.nvim](https://github.com/jellydn/my-note.nvim) ![](https://img.shields.io/github/stars/jellydn/my-note.nvim) ![](https://img.shields.io/github/last-commit/jellydn/my-note.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/my-note.nvim)
 - [rareitems/saved_notes.nvim](https://github.com/rareitems/saved_notes.nvim) ![](https://img.shields.io/github/stars/rareitems/saved_notes.nvim) ![](https://img.shields.io/github/last-commit/rareitems/saved_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/saved_notes.nvim)
 - [pablopunk/todo.nvim](https://github.com/pablopunk/todo.nvim) ![](https://img.shields.io/github/stars/pablopunk/todo.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/todo.nvim)
+- [mariogarridopt/todo.nvim](https://github.com/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/stars/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/last-commit/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/mariogarridopt/todo.nvim)
 
 ### Taskwarrior
 
