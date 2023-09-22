@@ -53,6 +53,8 @@
   * [AI Coding](#ai-coding)
     + [OpenAI](#openai)
       - [OpenAI Review](#openai-review)
+      - [Generate Doc](#generate-doc)
+        * [Mintlify Writer](#mintlify-writer)
     + [Llama](#llama)
     + [Aider](#aider)
     + [Otter](#otter)
@@ -399,6 +401,12 @@
 ##### OpenAI Review
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
+
+##### Generate Doc
+
+###### Mintlify Writer
+
+- [moozd/aidoc.nvim](https://github.com/moozd/aidoc.nvim) ![](https://img.shields.io/github/stars/moozd/aidoc.nvim) ![](https://img.shields.io/github/last-commit/moozd/aidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/moozd/aidoc.nvim)
 
 #### Llama
 
