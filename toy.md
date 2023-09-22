@@ -68,6 +68,7 @@
 - [BooleanCube/keylab.nvim](https://github.com/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/stars/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/last-commit/BooleanCube/keylab.nvim) ![](https://img.shields.io/github/commit-activity/y/BooleanCube/keylab.nvim)
 - [BYT0723/typist.nvim](https://github.com/BYT0723/typist.nvim) ![](https://img.shields.io/github/stars/BYT0723/typist.nvim) ![](https://img.shields.io/github/last-commit/BYT0723/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/BYT0723/typist.nvim)
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/stars/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/speedtyper.nvim)
+- [gbelouze/stereotype.nvim](https://github.com/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/stars/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/last-commit/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/commit-activity/y/gbelouze/stereotype.nvim)
 
 ### FiveM
 
