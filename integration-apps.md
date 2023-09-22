@@ -642,6 +642,7 @@
 
 - [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
 - [MXCR-cpu/boop.nvim](https://github.com/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/stars/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/last-commit/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/commit-activity/y/MXCR-cpu/boop.nvim)
+- [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/alfred-neovim-utilities)
 
 ##### iTerm
 
