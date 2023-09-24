@@ -19,6 +19,7 @@
 ### Terminal Enhancement
 
 - [akinsho/toggleterm.nvim](https://github.com/akinsho/toggleterm.nvim) ![](https://img.shields.io/github/stars/akinsho/toggleterm.nvim) ![](https://img.shields.io/github/last-commit/akinsho/toggleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/toggleterm.nvim)
+  - [ryanmsnyder/telescope-toggleterm.nvim](https://github.com/ryanmsnyder/telescope-toggleterm.nvim) ![](https://img.shields.io/github/stars/ryanmsnyder/telescope-toggleterm.nvim) ![](https://img.shields.io/github/last-commit/ryanmsnyder/telescope-toggleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanmsnyder/telescope-toggleterm.nvim)
 - [LoricAndre/OneTerm.nvim](https://github.com/LoricAndre/OneTerm.nvim) ![](https://img.shields.io/github/stars/LoricAndre/OneTerm.nvim) ![](https://img.shields.io/github/last-commit/LoricAndre/OneTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/LoricAndre/OneTerm.nvim)
 - [nikvdp/neomux](https://github.com/nikvdp/neomux) ![](https://img.shields.io/github/stars/nikvdp/neomux) ![](https://img.shields.io/github/last-commit/nikvdp/neomux) ![](https://img.shields.io/github/commit-activity/y/nikvdp/neomux)
 - [norcalli/nvim-terminal.lua](https://github.com/norcalli/nvim-terminal.lua) ![](https://img.shields.io/github/stars/norcalli/nvim-terminal.lua) ![](https://img.shields.io/github/last-commit/norcalli/nvim-terminal.lua) ![](https://img.shields.io/github/commit-activity/y/norcalli/nvim-terminal.lua)
