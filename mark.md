@@ -13,6 +13,8 @@
 
 ## Mark
 
+- [saccarosium/neomarks](https://github.com/saccarosium/neomarks) ![](https://img.shields.io/github/stars/saccarosium/neomarks) ![](https://img.shields.io/github/last-commit/saccarosium/neomarks) ![](https://img.shields.io/github/commit-activity/y/saccarosium/neomarks)
+
 ### sign
 
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
