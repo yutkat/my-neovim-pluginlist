@@ -5,6 +5,7 @@
 - [Language specific](#language-specific)
   * [Programing Language / Framework](#programing-language--framework)
     + [Javascript/Typescript](#javascripttypescript)
+      - [string](#string)
       - [Toolchain](#toolchain)
         * [tsc(TypeScript compiler)](#tsctypescript-compiler)
         * [eslint](#eslint)
@@ -33,7 +34,7 @@
         * [mjml](#mjml)
     + [Python](#python)
       - [tweaks](#tweaks)
-        * [string](#string)
+        * [string](#string-1)
       - [test](#test)
       - [REPL](#repl)
       - [Debugger](#debugger)
@@ -120,6 +121,10 @@
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/stars/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/last-commit/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pmizio/typescript-tools.nvim)
 - [llllvvuu/nvim-js-actions](https://github.com/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/stars/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/last-commit/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/commit-activity/y/llllvvuu/nvim-js-actions)
 - [github-naresh/auto-fold-imports.nvim](https://github.com/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/stars/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/last-commit/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/github-naresh/auto-fold-imports.nvim)
+
+#### string
+
+- [fmillone/string-quotes.nvim](https://github.com/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/stars/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/last-commit/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/string-quotes.nvim)
 
 #### Toolchain
 
