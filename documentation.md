@@ -232,3 +232,4 @@
 
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) ![](https://img.shields.io/github/stars/SeniorMars/typst.nvim) ![](https://img.shields.io/github/last-commit/SeniorMars/typst.nvim) ![](https://img.shields.io/github/commit-activity/y/SeniorMars/typst.nvim)
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) ![](https://img.shields.io/github/stars/SeniorMars/render.nvim) ![](https://img.shields.io/github/last-commit/SeniorMars/render.nvim) ![](https://img.shields.io/github/commit-activity/y/SeniorMars/render.nvim)
+- [niuiic/typst-preview.nvim](https://github.com/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/stars/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/typst-preview.nvim)
