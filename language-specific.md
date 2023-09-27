@@ -50,6 +50,7 @@
     + [Lua](#lua)
       - [Stylua](#stylua)
       - [LuaFormatter](#luaformatter)
+      - [Docstring](#docstring)
     + [Luau](#luau)
     + [Rust](#rust)
     + [Go](#go)
@@ -68,6 +69,7 @@
       - [Gradle](#gradle)
       - [Spring Boot](#spring-boot)
     + [Kotlin](#kotlin)
+    + [Swift](#swift)
     + [Scala](#scala)
     + [Dart, Flutter](#dart-flutter)
     + [Clojure](#clojure)
@@ -362,6 +364,10 @@
 
 - [pchaos/vim-lua-formatter.nvim](https://github.com/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/stars/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/last-commit/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/pchaos/vim-lua-formatter.nvim)
 
+#### Docstring
+
+- [WERDXZ/nvim-dox](https://github.com/WERDXZ/nvim-dox) ![](https://img.shields.io/github/stars/WERDXZ/nvim-dox) ![](https://img.shields.io/github/last-commit/WERDXZ/nvim-dox) ![](https://img.shields.io/github/commit-activity/y/WERDXZ/nvim-dox)
+
 ### Luau
 
 - [lopi-py/luau-lsp.nvim](https://github.com/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/lopi-py/luau-lsp.nvim)
@@ -492,6 +498,10 @@
 ### Kotlin
 
 - [Mgenuit/nvim-dap-kotlin](https://github.com/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/stars/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/last-commit/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/commit-activity/y/Mgenuit/nvim-dap-kotlin)
+
+### Swift
+
+- [m-housh/swift.nvim](https://github.com/m-housh/swift.nvim) ![](https://img.shields.io/github/stars/m-housh/swift.nvim) ![](https://img.shields.io/github/last-commit/m-housh/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/m-housh/swift.nvim)
 
 ### Scala
 

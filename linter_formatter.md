@@ -46,6 +46,7 @@
 - [saccarosium/nvim-whitespaces](https://github.com/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/stars/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/last-commit/saccarosium/nvim-whitespaces) ![](https://img.shields.io/github/commit-activity/y/saccarosium/nvim-whitespaces)
 - [lukoshkin/trailing-whitespace](https://github.com/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/stars/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/last-commit/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/trailing-whitespace)
 - [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/tabs-vs-spaces.nvim)
+- [amarakon/nvim-markspace](https://github.com/amarakon/nvim-markspace) ![](https://img.shields.io/github/stars/amarakon/nvim-markspace) ![](https://img.shields.io/github/last-commit/amarakon/nvim-markspace) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-markspace)
 
 ## Lint
 
@@ -62,6 +63,7 @@
 
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/stars/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/last-commit/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimtools/none-ls.nvim)
 - [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/stars/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/last-commit/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-stuff/null-ls.nvim)
+- [edanisko/null-ls.nvim](https://github.com/edanisko/null-ls.nvim) ![](https://img.shields.io/github/stars/edanisko/null-ls.nvim) ![](https://img.shields.io/github/last-commit/edanisko/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/edanisko/null-ls.nvim)
 
 ### Global variables
 
