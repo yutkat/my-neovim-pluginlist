@@ -79,6 +79,7 @@
 - [Limeoats/buffer-manager.nvim](https://github.com/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Limeoats/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Limeoats/buffer-manager.nvim)
 - [Norlock/nvim-traveller-buffers](https://github.com/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller-buffers)
 - [kesleymartins/monoke.nvim](https://github.com/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/stars/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/last-commit/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/commit-activity/y/kesleymartins/monoke.nvim)
+- [mrquantumcodes/bufferchad.nvim](https://github.com/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/bufferchad.nvim)
 
 #### create
 
