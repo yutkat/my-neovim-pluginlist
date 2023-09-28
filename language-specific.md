@@ -77,6 +77,7 @@
     + [Haskell](#haskell)
     + [Lisp](#lisp)
     + [OCaml](#ocaml)
+    + [Nim](#nim)
     + [Julia](#julia)
     + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
@@ -550,6 +551,10 @@
 
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
+
+### Nim
+
+- [aMOPel/nvim-treesitter-nim](https://github.com/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/stars/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/last-commit/aMOPel/nvim-treesitter-nim) ![](https://img.shields.io/github/commit-activity/y/aMOPel/nvim-treesitter-nim)
 
 ### Julia
 
