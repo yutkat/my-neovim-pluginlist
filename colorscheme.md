@@ -36,8 +36,6 @@ The list is only selected if there is no duplication with other color schemes an
 
 ### Doom
 
-- [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/stars/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/last-commit/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/commit-activity/y/nyoom-engineering/nyoom.nvim)
-
 ### VS Code
 
 - [Mofiqul/vscode.nvim](https://github.com/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/stars/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/vscode.nvim)
