@@ -5,6 +5,7 @@
 - [Formatting config](#formatting-config)
 - [Formatter](#formatter)
   * [Trim Whitespace](#trim-whitespace)
+  * [Formatter switcher](#formatter-switcher)
 - [Lint](#lint)
   * [Ignore](#ignore)
 - [null-ls fork](#null-ls-fork)
@@ -47,6 +48,10 @@
 - [lukoshkin/trailing-whitespace](https://github.com/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/stars/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/last-commit/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/trailing-whitespace)
 - [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/tabs-vs-spaces.nvim)
 - [amarakon/nvim-markspace](https://github.com/amarakon/nvim-markspace) ![](https://img.shields.io/github/stars/amarakon/nvim-markspace) ![](https://img.shields.io/github/last-commit/amarakon/nvim-markspace) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-markspace)
+
+### Formatter switcher
+
+- [fmbarina/pick-lsp-formatter.nvim](https://github.com/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/stars/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/last-commit/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/fmbarina/pick-lsp-formatter.nvim)
 
 ## Lint
 
