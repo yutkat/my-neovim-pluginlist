@@ -115,6 +115,7 @@
 - [RishabhRD/lspactions](https://github.com/RishabhRD/lspactions) ![](https://img.shields.io/github/stars/RishabhRD/lspactions) ![](https://img.shields.io/github/last-commit/RishabhRD/lspactions) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/lspactions)
 - [nyarthan/telescope-code-actions.nvim](https://github.com/nyarthan/telescope-code-actions.nvim) ![](https://img.shields.io/github/stars/nyarthan/telescope-code-actions.nvim) ![](https://img.shields.io/github/last-commit/nyarthan/telescope-code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/nyarthan/telescope-code-actions.nvim)
 - [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/stars/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/last-commit/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aznhe21/actions-preview.nvim)
+- [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/clear-action.nvim)
 
 #### Hint
 
