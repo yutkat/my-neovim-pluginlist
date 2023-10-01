@@ -141,6 +141,7 @@
 ## git open
 
 - [senkentarou/goacf.nvim](https://github.com/senkentarou/goacf.nvim) ![](https://img.shields.io/github/stars/senkentarou/goacf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/goacf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/goacf.nvim)
+- [mrexox/github-open.nvim](https://github.com/mrexox/github-open.nvim) ![](https://img.shields.io/github/stars/mrexox/github-open.nvim) ![](https://img.shields.io/github/last-commit/mrexox/github-open.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/github-open.nvim)
 
 ## gitignore
 
