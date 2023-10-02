@@ -96,6 +96,7 @@
     + [DevDocs](#devdocs)
     + [Runme](#runme)
     + [paste.rs](#pasters)
+    + [Drupal](#drupal)
   * [CI](#ci)
     + [CircleCI](#circleci)
     + [Jenkins](#jenkins)
@@ -593,6 +594,10 @@
 #### paste.rs
 
 - [postfen/trozo.nvim](https://github.com/postfen/trozo.nvim) ![](https://img.shields.io/github/stars/postfen/trozo.nvim) ![](https://img.shields.io/github/last-commit/postfen/trozo.nvim) ![](https://img.shields.io/github/commit-activity/y/postfen/trozo.nvim)
+
+#### Drupal
+
+- [everynameistaken1/nvim-drupal-sh](https://github.com/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/stars/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/last-commit/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/commit-activity/y/everynameistaken1/nvim-drupal-sh)
 
 ### CI
 

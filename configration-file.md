@@ -36,6 +36,7 @@
 - [cosminadrianpopescu/telescope-json-history.nvim](https://github.com/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/stars/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/last-commit/cosminadrianpopescu/telescope-json-history.nvim) ![](https://img.shields.io/github/commit-activity/y/cosminadrianpopescu/telescope-json-history.nvim)
 - [2nthony/sortjson.nvim](https://github.com/2nthony/sortjson.nvim) ![](https://img.shields.io/github/stars/2nthony/sortjson.nvim) ![](https://img.shields.io/github/last-commit/2nthony/sortjson.nvim) ![](https://img.shields.io/github/commit-activity/y/2nthony/sortjson.nvim)
 - [Duologic/nvim-jsonnet](https://github.com/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/stars/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/last-commit/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/commit-activity/y/Duologic/nvim-jsonnet)
+- [midoBB/nvim-quicktype](https://github.com/midoBB/nvim-quicktype) ![](https://img.shields.io/github/stars/midoBB/nvim-quicktype) ![](https://img.shields.io/github/last-commit/midoBB/nvim-quicktype) ![](https://img.shields.io/github/commit-activity/y/midoBB/nvim-quicktype)
 
 ### YAML
 

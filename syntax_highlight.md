@@ -58,6 +58,7 @@
 - [ollbx/dark-mode-win.nvim](https://github.com/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/stars/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/last-commit/ollbx/dark-mode-win.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/dark-mode-win.nvim)
 - [duboisf/crepuscule.nvim](https://github.com/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/stars/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/last-commit/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/crepuscule.nvim)
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) ![](https://img.shields.io/github/stars/zaldih/themery.nvim) ![](https://img.shields.io/github/last-commit/zaldih/themery.nvim) ![](https://img.shields.io/github/commit-activity/y/zaldih/themery.nvim)
+- [dimitriosvalodimos/chameleon.nvim](https://github.com/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/stars/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/last-commit/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/commit-activity/y/dimitriosvalodimos/chameleon.nvim)
 
 ### Colorscheme overwrite
 
