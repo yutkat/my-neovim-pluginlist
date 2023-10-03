@@ -39,6 +39,7 @@
   - [dinhhuy258/sfm-paste.nvim](https://github.com/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-paste.nvim)
 - [echasnovski/mini.files](https://github.com/echasnovski/mini.files) ![](https://img.shields.io/github/stars/echasnovski/mini.files) ![](https://img.shields.io/github/last-commit/echasnovski/mini.files) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.files)
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller)
+- [nvim-jo/fm.nvim](https://github.com/nvim-jo/fm.nvim) ![](https://img.shields.io/github/stars/nvim-jo/fm.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/fm.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/fm.nvim)
 
 ## gx
 

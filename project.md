@@ -30,6 +30,7 @@
 - [aaditeynair/conduct.nvim](https://github.com/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/stars/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/last-commit/aaditeynair/conduct.nvim) ![](https://img.shields.io/github/commit-activity/y/aaditeynair/conduct.nvim)
 - [Hubro/nvim-projects](https://github.com/Hubro/nvim-projects) ![](https://img.shields.io/github/stars/Hubro/nvim-projects) ![](https://img.shields.io/github/last-commit/Hubro/nvim-projects) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-projects)
 - [coffebar/neovim-project](https://github.com/coffebar/neovim-project) ![](https://img.shields.io/github/stars/coffebar/neovim-project) ![](https://img.shields.io/github/last-commit/coffebar/neovim-project) ![](https://img.shields.io/github/commit-activity/y/coffebar/neovim-project)
+- [pbnj/telescope-projects.nvim](https://github.com/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/stars/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/last-commit/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/pbnj/telescope-projects.nvim)
 
 #### Project Root Detector
 

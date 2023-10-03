@@ -26,3 +26,4 @@
 ## Conceal
 
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/conceal.nvim)
+- [nvim-jo/conceal.nvim](https://github.com/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/stars/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/conceal.nvim)
