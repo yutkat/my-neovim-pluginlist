@@ -631,7 +631,6 @@
 
 ##### fribidi
 
-- [mcookly/rosetta.nvim](https://github.com/mcookly/rosetta.nvim) ![](https://img.shields.io/github/stars/mcookly/rosetta.nvim) ![](https://img.shields.io/github/last-commit/mcookly/rosetta.nvim) ![](https://img.shields.io/github/commit-activity/y/mcookly/rosetta.nvim)
 - [mcookly/bidi.nvim](https://github.com/mcookly/bidi.nvim) ![](https://img.shields.io/github/stars/mcookly/bidi.nvim) ![](https://img.shields.io/github/last-commit/mcookly/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/mcookly/bidi.nvim)
 
 ##### Inkscape
