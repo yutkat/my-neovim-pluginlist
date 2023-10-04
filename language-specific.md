@@ -94,6 +94,7 @@
     + [Moonscript](#moonscript)
     + [Haxe](#haxe)
     + [Kind](#kind)
+    + [Coq](#coq)
     + [MatLab](#matlab)
     + [Cell](#cell)
     + [sylt](#sylt)
@@ -620,6 +621,10 @@
 ### Kind
 
 - [HigherOrderCO/Kind.nvim](https://github.com/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/stars/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/last-commit/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/commit-activity/y/HigherOrderCO/Kind.nvim)
+
+### Coq
+
+- [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
 
 ### MatLab
 

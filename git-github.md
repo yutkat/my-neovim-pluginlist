@@ -39,6 +39,7 @@
 - [GitLab](#gitlab)
 - [CLI](#cli)
   * [Graphite](#graphite)
+  * [Backup](#backup)
 
 <!-- tocstop -->
 
@@ -92,6 +93,7 @@
 ### prefix
 
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/stars/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/commit-prefix.nvim)
+- [mjacobus/telescope-gitmoji.nvim](https://github.com/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/stars/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/mjacobus/telescope-gitmoji.nvim)
 
 ### co authored
 
@@ -253,3 +255,7 @@
 ## Graphite
 
 - [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)
+
+## Backup
+
+- [Lilja/cnotes.nvim](https://github.com/Lilja/cnotes.nvim) ![](https://img.shields.io/github/stars/Lilja/cnotes.nvim) ![](https://img.shields.io/github/last-commit/Lilja/cnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Lilja/cnotes.nvim)
