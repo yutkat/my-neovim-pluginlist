@@ -25,6 +25,7 @@
 - [Color Export](#color-export)
 - [Profiler](#profiler)
 - [CI](#ci)
+  * [Template](#template)
   * [Actions](#actions)
 
 <!-- tocstop -->
@@ -147,6 +148,10 @@
 - [stevearc/profile.nvim](https://github.com/stevearc/profile.nvim) ![](https://img.shields.io/github/stars/stevearc/profile.nvim) ![](https://img.shields.io/github/last-commit/stevearc/profile.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/profile.nvim)
 
 ## CI
+
+### Template
+
+- [lukas-reineke/ci-template.nvim](https://github.com/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/ci-template.nvim)
 
 ### Actions
 
