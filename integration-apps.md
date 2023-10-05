@@ -247,6 +247,7 @@
 - [DeviousStoat/mumux.nvim](https://github.com/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/stars/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/last-commit/DeviousStoat/mumux.nvim) ![](https://img.shields.io/github/commit-activity/y/DeviousStoat/mumux.nvim)
 - [maladroitthief/telescope-rtfm.nvim](https://github.com/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/stars/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/telescope-rtfm.nvim)
 - [ErvinRacz/tmux-interface.nvim](https://github.com/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/stars/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/last-commit/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/commit-activity/y/ErvinRacz/tmux-interface.nvim)
+- [sanathks/workspace.nvim](https://github.com/sanathks/workspace.nvim) ![](https://img.shields.io/github/stars/sanathks/workspace.nvim) ![](https://img.shields.io/github/last-commit/sanathks/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/workspace.nvim)
 
 ##### tmux alternative
 

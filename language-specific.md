@@ -27,6 +27,7 @@
       - [Framework](#framework)
         * [React](#react)
         * [Angular](#angular)
+        * [Svelte](#svelte)
         * [Node.js](#nodejs)
         * [Deno](#deno)
         * [Bun](#bun)
@@ -234,6 +235,10 @@
 ##### Angular
 
 - [abelfubu/nvim-treesitter-angular](https://github.com/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/stars/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/last-commit/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/commit-activity/y/abelfubu/nvim-treesitter-angular)
+
+##### Svelte
+
+- [weskeiser/svelte-hop.nvim](https://github.com/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/stars/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/last-commit/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/weskeiser/svelte-hop.nvim)
 
 ##### Node.js
 
