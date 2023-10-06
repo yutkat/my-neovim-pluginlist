@@ -4,6 +4,7 @@
 
 - [Search](#search)
   * [Line search](#line-search)
+  * [Range Search](#range-search)
   * [n/N Improvement](#nn-improvement)
   * [Search count](#search-count)
   * [Comment search](#comment-search)
@@ -42,6 +43,10 @@
 
 - [neanias/telescope-lines.nvim](https://github.com/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/stars/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/last-commit/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/neanias/telescope-lines.nvim)
 - [jtroo/telescope-buffer-extract](https://github.com/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/stars/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/last-commit/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/commit-activity/y/jtroo/telescope-buffer-extract)
+
+## Range Search
+
+- [Ajnasz/nvim-rfind](https://github.com/Ajnasz/nvim-rfind) ![](https://img.shields.io/github/stars/Ajnasz/nvim-rfind) ![](https://img.shields.io/github/last-commit/Ajnasz/nvim-rfind) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/nvim-rfind)
 
 ## n/N Improvement
 

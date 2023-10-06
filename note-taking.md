@@ -82,6 +82,7 @@
 - [pablopunk/todo.nvim](https://github.com/pablopunk/todo.nvim) ![](https://img.shields.io/github/stars/pablopunk/todo.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/todo.nvim)
 - [mariogarridopt/todo.nvim](https://github.com/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/stars/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/last-commit/mariogarridopt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/mariogarridopt/todo.nvim)
 - [aymenhafeez/scratch.nvim](https://github.com/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/stars/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/last-commit/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/aymenhafeez/scratch.nvim)
+- [marco-souza/ollama.nvim](https://github.com/marco-souza/ollama.nvim) ![](https://img.shields.io/github/stars/marco-souza/ollama.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ollama.nvim)
 
 ### Taskwarrior
 
