@@ -46,6 +46,8 @@
 - [uga-rosa/ugaterm.nvim](https://github.com/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ugaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ugaterm.nvim)
 - [nickramsay19/nkterm.nvim](https://github.com/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/stars/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/last-commit/nickramsay19/nkterm.nvim) ![](https://img.shields.io/github/commit-activity/y/nickramsay19/nkterm.nvim)
 - [AbaoFromCUG/terminal.nvim](https://github.com/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/terminal.nvim)
+- [lukoshkin/bterm.nvim](https://github.com/lukoshkin/bterm.nvim) ![](https://img.shields.io/github/stars/lukoshkin/bterm.nvim) ![](https://img.shields.io/github/last-commit/lukoshkin/bterm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/bterm.nvim)
+  - [lukoshkin/bterm-repl.nvim](https://github.com/lukoshkin/bterm-repl.nvim) ![](https://img.shields.io/github/stars/lukoshkin/bterm-repl.nvim) ![](https://img.shields.io/github/last-commit/lukoshkin/bterm-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/bterm-repl.nvim)
 
 ### Open
 

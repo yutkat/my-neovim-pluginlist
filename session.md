@@ -34,6 +34,7 @@
 - [Sammyalhashe/session_manager.nvim](https://github.com/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/stars/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/last-commit/Sammyalhashe/session_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Sammyalhashe/session_manager.nvim)
 - [AbaoFromCUG/session.nvim](https://github.com/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/session.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/session.nvim)
 - [lpoto/telescope-sessions.nvim](https://github.com/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-sessions.nvim)
+- [mrquantumcodes/retrospect.nvim](https://github.com/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/retrospect.nvim)
 
 ## Session Selector
 

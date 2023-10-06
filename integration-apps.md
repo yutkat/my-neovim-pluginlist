@@ -365,6 +365,7 @@
 #### k8s (Kubernetes)
 
 - [arjunmahishi/k8s.nvim](https://github.com/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/k8s.nvim)
+- [elasticrash/kubels.nvim](https://github.com/elasticrash/kubels.nvim) ![](https://img.shields.io/github/stars/elasticrash/kubels.nvim) ![](https://img.shields.io/github/last-commit/elasticrash/kubels.nvim) ![](https://img.shields.io/github/commit-activity/y/elasticrash/kubels.nvim)
 
 ### AI Coding
 
