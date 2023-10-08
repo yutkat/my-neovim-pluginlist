@@ -175,6 +175,8 @@
 - [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
 - [rafi/tabstrip.nvim](https://github.com/rafi/tabstrip.nvim) ![](https://img.shields.io/github/stars/rafi/tabstrip.nvim) ![](https://img.shields.io/github/last-commit/rafi/tabstrip.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/tabstrip.nvim)
 - [lpoto/tabline.nvim](https://github.com/lpoto/tabline.nvim) ![](https://img.shields.io/github/stars/lpoto/tabline.nvim) ![](https://img.shields.io/github/last-commit/lpoto/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/tabline.nvim)
+- [mgnsk/autotabline.nvim](https://github.com/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/stars/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/autotabline.nvim)
+- [jryom/nvim-tabulous](https://github.com/jryom/nvim-tabulous) ![](https://img.shields.io/github/stars/jryom/nvim-tabulous) ![](https://img.shields.io/github/last-commit/jryom/nvim-tabulous) ![](https://img.shields.io/github/commit-activity/y/jryom/nvim-tabulous)
 
 ### winbar
 
@@ -740,6 +742,7 @@
 - [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
+- [abcdefg233/fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/stars/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/fontresizer.nvim)
 
 ### [Emoji](./emoji.md)
 

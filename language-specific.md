@@ -101,6 +101,7 @@
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Tcl/Tk](#tcltk)
+    + [Moonbit](#moonbit)
     + [Unison](#unison)
     + [Prolog](#prolog)
     + [CHIP-8](#chip-8)
@@ -171,6 +172,7 @@
 - [nvim-telescope/telescope-node-modules.nvim](https://github.com/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-node-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-node-modules.nvim)
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/stars/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/last-commit/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/commit-activity/y/elianiva/telescope-npm.nvim)
 - [azizgharbi/nodePackageCheck.nvim](https://github.com/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/stars/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/last-commit/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/azizgharbi/nodePackageCheck.nvim)
+- [pipoprods/nvm.nvim](https://github.com/pipoprods/nvm.nvim) ![](https://img.shields.io/github/stars/pipoprods/nvm.nvim) ![](https://img.shields.io/github/last-commit/pipoprods/nvm.nvim) ![](https://img.shields.io/github/commit-activity/y/pipoprods/nvm.nvim)
 
 ###### pnpm
 
@@ -442,6 +444,7 @@
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
 - [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
+- [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) ![](https://img.shields.io/github/stars/rossjaywill/insights.nvim) ![](https://img.shields.io/github/last-commit/rossjaywill/insights.nvim) ![](https://img.shields.io/github/commit-activity/y/rossjaywill/insights.nvim)
 
 #### Formatter
 
@@ -650,6 +653,10 @@
 ### Tcl/Tk
 
 - [nat-418/tcl.nvim](https://github.com/nat-418/tcl.nvim) ![](https://img.shields.io/github/stars/nat-418/tcl.nvim) ![](https://img.shields.io/github/last-commit/nat-418/tcl.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/tcl.nvim)
+
+### Moonbit
+
+- [tonyfettes/moonbit.nvim](https://github.com/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/stars/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/moonbit.nvim)
 
 ### Unison
 
