@@ -7,6 +7,7 @@
   * [Range Search](#range-search)
   * [n/N Improvement](#nn-improvement)
   * [Search count](#search-count)
+  * [Word Count](#word-count)
   * [Comment search](#comment-search)
   * [Search highlight](#search-highlight)
   * [Visual search](#visual-search)
@@ -57,6 +58,10 @@
 
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-hlslens)
 - [rapan931/bistahieversor.nvim](https://github.com/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/stars/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/last-commit/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/bistahieversor.nvim)
+
+## Word Count
+
+- [skwee357/nvim-prose](https://github.com/skwee357/nvim-prose) ![](https://img.shields.io/github/stars/skwee357/nvim-prose) ![](https://img.shields.io/github/last-commit/skwee357/nvim-prose) ![](https://img.shields.io/github/commit-activity/y/skwee357/nvim-prose)
 
 ## Comment search
 

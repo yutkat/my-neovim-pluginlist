@@ -27,6 +27,7 @@
       - [tmux alternative](#tmux-alternative)
     + [Zellij](#zellij)
     + [Docker](#docker)
+      - [Docker Compose](#docker-compose)
     + [Subversion](#subversion)
     + [dotenv](#dotenv)
     + [Chamber](#chamber)
@@ -108,6 +109,7 @@
       - [darkman](#darkman)
       - [fribidi](#fribidi)
       - [Inkscape](#inkscape)
+      - [Rofi](#rofi)
     + [Windows](#windows)
       - [Everything](#everything)
       - [AutoHotKey](#autohotkey)
@@ -264,6 +266,10 @@
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [lpoto/telescope-docker.nvim](https://github.com/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-docker.nvim)
 - [aloussase/dockerlint.nvim](https://github.com/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/stars/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/last-commit/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/dockerlint.nvim)
+
+##### Docker Compose
+
+- [pipoprods/docker-compose.nvim](https://github.com/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/stars/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/last-commit/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/commit-activity/y/pipoprods/docker-compose.nvim)
 
 #### Subversion
 
@@ -484,6 +490,8 @@
 
 - [NazgoooAtanasov/sfcc-debugger.nvim](https://github.com/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/stars/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/last-commit/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/NazgoooAtanasov/sfcc-debugger.nvim)
 - [g-duff/sf.nvim](https://github.com/g-duff/sf.nvim) ![](https://img.shields.io/github/stars/g-duff/sf.nvim) ![](https://img.shields.io/github/last-commit/g-duff/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/g-duff/sf.nvim)
+- [xixiaofinland/sfterm.nvim](https://github.com/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sfterm.nvim)
+- [xixiaofinland/sforg.nvim](https://github.com/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sforg.nvim)
 
 #### dbt
 
@@ -639,6 +647,10 @@
 
 - [silaswaxter/inkscape-figure-manager.nvim](https://github.com/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/stars/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/last-commit/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/silaswaxter/inkscape-figure-manager.nvim)
 
+##### Rofi
+
+- [giacomo618/rofi-select.nvim](https://github.com/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/stars/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/last-commit/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/commit-activity/y/giacomo618/rofi-select.nvim)
+
 #### Windows
 
 ##### Everything
@@ -717,6 +729,8 @@
 ### Audio
 
 #### SuperCollider
+
+- [madskjeldgaard/telescope-supercollider.nvim](https://github.com/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/telescope-supercollider.nvim)
 
 #### LilyPond
 
