@@ -5,6 +5,7 @@
 - [Comment out](#comment-out)
   * [CommentString](#commentstring)
   * [Comment Header](#comment-header)
+- [File Header](#file-header)
 - [Todo Comment Highlight](#todo-comment-highlight)
 - [Special Comment](#special-comment)
   * [Annotation](#annotation)
@@ -13,7 +14,7 @@
 
 <!-- tocstop -->
 
-### Comment out
+## Comment out
 
 - [numToStr/Comment.nvim](https://github.com/numToStr/Comment.nvim) ![](https://img.shields.io/github/stars/numToStr/Comment.nvim) ![](https://img.shields.io/github/last-commit/numToStr/Comment.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/Comment.nvim)
 - [b3nj5m1n/kommentary](https://github.com/b3nj5m1n/kommentary) ![](https://img.shields.io/github/stars/b3nj5m1n/kommentary) ![](https://img.shields.io/github/last-commit/b3nj5m1n/kommentary) ![](https://img.shields.io/github/commit-activity/y/b3nj5m1n/kommentary)
@@ -28,11 +29,11 @@
 - [haolian9/comet.nvim](https://github.com/haolian9/comet.nvim) ![](https://img.shields.io/github/stars/haolian9/comet.nvim) ![](https://img.shields.io/github/last-commit/haolian9/comet.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/comet.nvim)
 - [Calder-Ty/comment_toggle.nvim](https://github.com/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/stars/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/last-commit/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Calder-Ty/comment_toggle.nvim)
 
-#### CommentString
+### CommentString
 
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/stars/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/last-commit/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/commit-activity/y/JoosepAlviste/nvim-ts-context-commentstring)
 
-#### Comment Header
+### Comment Header
 
 - [s1n7ax/nvim-comment-frame](https://github.com/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/stars/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-comment-frame) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-comment-frame)
 - [LudoPinelli/comment-box.nvim](https://github.com/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/stars/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/last-commit/LudoPinelli/comment-box.nvim) ![](https://img.shields.io/github/commit-activity/y/LudoPinelli/comment-box.nvim)
@@ -43,25 +44,29 @@
 - [Fangjun-Zhou/comment-divider.nvim](https://github.com/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/stars/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/last-commit/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/commit-activity/y/Fangjun-Zhou/comment-divider.nvim)
 - [attilarepka/header.nvim](https://github.com/attilarepka/header.nvim) ![](https://img.shields.io/github/stars/attilarepka/header.nvim) ![](https://img.shields.io/github/last-commit/attilarepka/header.nvim) ![](https://img.shields.io/github/commit-activity/y/attilarepka/header.nvim)
 
-### Todo Comment Highlight
+## File Header
+
+- [ProudFaceOfSUiR/epitech.nvim](https://github.com/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/stars/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/last-commit/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/commit-activity/y/ProudFaceOfSUiR/epitech.nvim)
+
+## Todo Comment Highlight
 
 - [Djancyp/better-comments.nvim](https://github.com/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/stars/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/better-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/better-comments.nvim)
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ![](https://img.shields.io/github/stars/folke/todo-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/todo-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/todo-comments.nvim)
 
-### Special Comment
+## Special Comment
 
 - [rapan931/binary_comments.vim](https://github.com/rapan931/binary_comments.vim) ![](https://img.shields.io/github/stars/rapan931/binary_comments.vim) ![](https://img.shields.io/github/last-commit/rapan931/binary_comments.vim) ![](https://img.shields.io/github/commit-activity/y/rapan931/binary_comments.vim)
 - [niuiic/divider.nvim](https://github.com/niuiic/divider.nvim) ![](https://img.shields.io/github/stars/niuiic/divider.nvim) ![](https://img.shields.io/github/last-commit/niuiic/divider.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/divider.nvim)
 
-#### Annotation
+### Annotation
 
 - [danymat/neogen](https://github.com/danymat/neogen) ![](https://img.shields.io/github/stars/danymat/neogen) ![](https://img.shields.io/github/last-commit/danymat/neogen) ![](https://img.shields.io/github/commit-activity/y/danymat/neogen)
 - [AuLaSW/annotate.nvim](https://github.com/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/stars/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/annotate.nvim)
 
-#### Comment highlight
+### Comment highlight
 
 - [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
 
-### LICENSE
+## LICENSE
 
 - [KronsyC/nvim-license](https://github.com/KronsyC/nvim-license) ![](https://img.shields.io/github/stars/KronsyC/nvim-license) ![](https://img.shields.io/github/last-commit/KronsyC/nvim-license) ![](https://img.shields.io/github/commit-activity/y/KronsyC/nvim-license)
