@@ -85,7 +85,6 @@
 #### create
 
 - [mskelton/local-yokel.nvim](https://github.com/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/stars/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/last-commit/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/local-yokel.nvim)
-- [lpoto/buffers.nvim](https://github.com/lpoto/buffers.nvim) ![](https://img.shields.io/github/stars/lpoto/buffers.nvim) ![](https://img.shields.io/github/last-commit/lpoto/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/buffers.nvim)
 
 #### open
 

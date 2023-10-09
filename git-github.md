@@ -236,8 +236,6 @@
 
 ### Organization
 
-- [xixiaofinland/force.nvim](https://github.com/xixiaofinland/force.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/force.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/force.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/force.nvim)
-
 ### CODEOWNERS
 
 - [SebastienLeonce/nvim-codeowners](https://github.com/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/stars/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/last-commit/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/commit-activity/y/SebastienLeonce/nvim-codeowners)

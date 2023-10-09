@@ -85,8 +85,6 @@
 
 ### path-trie
 
-- [cljoly/path-trie.nvim](https://github.com/cljoly/path-trie.nvim) ![](https://img.shields.io/github/stars/cljoly/path-trie.nvim) ![](https://img.shields.io/github/last-commit/cljoly/path-trie.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/path-trie.nvim)
-
 ## UI
 
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
