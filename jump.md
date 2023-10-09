@@ -3,11 +3,12 @@
 <!-- toc -->
 
 - [Jump](#jump)
+  * [Brackets](#brackets)
 - [Jump number](#jump-number)
 - [Go to File](#go-to-file)
-  - [jumplist](#jumplist)
-  - [Edit History](#edit-history)
-  - [Cursor Position History](#cursor-position-history)
+  * [jumplist](#jumplist)
+  * [Edit History](#edit-history)
+  * [Cursor Position History](#cursor-position-history)
 
 <!-- tocstop -->
 
@@ -36,6 +37,7 @@
 - [kwkarlwang/bufjump.nvim](https://github.com/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/stars/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/last-commit/kwkarlwang/bufjump.nvim) ![](https://img.shields.io/github/commit-activity/y/kwkarlwang/bufjump.nvim)
 - [wilfreddenton/history.nvim](https://github.com/wilfreddenton/history.nvim) ![](https://img.shields.io/github/stars/wilfreddenton/history.nvim) ![](https://img.shields.io/github/last-commit/wilfreddenton/history.nvim) ![](https://img.shields.io/github/commit-activity/y/wilfreddenton/history.nvim)
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/stars/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/whatthejump.nvim)
+- [DarkKronicle/recall.nvim](https://github.com/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/stars/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/last-commit/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/DarkKronicle/recall.nvim)
 
 ### Edit History
 

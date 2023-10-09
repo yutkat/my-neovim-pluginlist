@@ -201,6 +201,7 @@
 - [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/lsp-zero.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/lsp-zero.nvim)
 - [phaazon/poesie.nvim](https://github.com/phaazon/poesie.nvim) ![](https://img.shields.io/github/stars/phaazon/poesie.nvim) ![](https://img.shields.io/github/last-commit/phaazon/poesie.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/poesie.nvim)
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/stars/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/kickstart.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/kickstart.nvim)
+- [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) ![](https://img.shields.io/github/stars/neph-iap/forge.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/forge.nvim)
 
 ## Backwards Compatibility
 

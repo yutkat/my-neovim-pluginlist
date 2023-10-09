@@ -57,6 +57,7 @@
 - [ryanoneill/treble.nvim](https://github.com/ryanoneill/treble.nvim) ![](https://img.shields.io/github/stars/ryanoneill/treble.nvim) ![](https://img.shields.io/github/last-commit/ryanoneill/treble.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanoneill/treble.nvim)
 - [gaoDean/ido.nvim](https://github.com/gaoDean/ido.nvim) ![](https://img.shields.io/github/stars/gaoDean/ido.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/ido.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/ido.nvim)
 - [SneezNoodle/bufmenu.nvim](https://github.com/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/stars/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/last-commit/SneezNoodle/bufmenu.nvim) ![](https://img.shields.io/github/commit-activity/y/SneezNoodle/bufmenu.nvim)
+- [mistweaverco/bafa.nvim](https://github.com/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/stars/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/bafa.nvim)
 
 ### Other Buffer Switcher
 

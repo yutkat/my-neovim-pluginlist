@@ -58,6 +58,7 @@
       - [gofmt](#gofmt)
       - [Test](#test-1)
     + [C/C++](#cc)
+      - [Clang](#clang)
       - [Formatter](#formatter-1)
       - [Makefile](#makefile)
       - [Cmake](#cmake)
@@ -445,6 +446,10 @@
 - [Xertes0/cppdoc.nvim](https://github.com/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/stars/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/last-commit/Xertes0/cppdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Xertes0/cppdoc.nvim)
 - [Hoffs/omnisharp-extended-lsp.nvim](https://github.com/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hoffs/omnisharp-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hoffs/omnisharp-extended-lsp.nvim)
 - [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) ![](https://img.shields.io/github/stars/rossjaywill/insights.nvim) ![](https://img.shields.io/github/last-commit/rossjaywill/insights.nvim) ![](https://img.shields.io/github/commit-activity/y/rossjaywill/insights.nvim)
+
+#### Clang
+
+- [leosmaia21/gcompilecommands.nvim](https://github.com/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/stars/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/gcompilecommands.nvim)
 
 #### Formatter
 
