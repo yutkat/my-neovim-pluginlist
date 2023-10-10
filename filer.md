@@ -72,6 +72,7 @@
 - [nvim-telescope/telescope-file-browser.nvim](https://github.com/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-file-browser.nvim)
 - [is0n/fm-nvim](https://github.com/is0n/fm-nvim) ![](https://img.shields.io/github/stars/is0n/fm-nvim) ![](https://img.shields.io/github/last-commit/is0n/fm-nvim) ![](https://img.shields.io/github/commit-activity/y/is0n/fm-nvim)
 - [Simondp/nvim-file_navigator](https://github.com/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/stars/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/last-commit/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/commit-activity/y/Simondp/nvim-file_navigator)
+- [nvim-jo/file-browser.nvim](https://github.com/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/file-browser.nvim)
 
 ## Emacs style
 
