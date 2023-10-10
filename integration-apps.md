@@ -128,6 +128,7 @@
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
   * [Hardware](#hardware)
+    + [IoT](#iot)
     + [CAD](#cad)
     + [Robot](#robot)
       - [ROS](#ros)
@@ -738,6 +739,10 @@
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
 
 ### Hardware
+
+#### IoT
+
+- [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
 
 #### CAD
 
