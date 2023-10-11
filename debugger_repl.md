@@ -45,6 +45,7 @@
 - [niuiic/dap-utils.nvim](https://github.com/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/stars/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/last-commit/niuiic/dap-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/dap-utils.nvim)
 - [ZyriabDsgn/npm-dap.nvim](https://github.com/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/stars/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/last-commit/ZyriabDsgn/npm-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/ZyriabDsgn/npm-dap.nvim)
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/stars/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/last-commit/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/commit-activity/y/jonboh/nvim-dap-rr)
+- [daic0r/dap-helper.nvim](https://github.com/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/stars/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/last-commit/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/daic0r/dap-helper.nvim)
 
 ### REPL
 
