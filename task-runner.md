@@ -63,6 +63,7 @@
 - [Leeziao/code_runner.nvim](https://github.com/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/stars/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/last-commit/Leeziao/code_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Leeziao/code_runner.nvim)
 - [LiamFenneman/quick-run.nvim](https://github.com/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/stars/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/last-commit/LiamFenneman/quick-run.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamFenneman/quick-run.nvim)
 - [serrexlabs/sketch.nvim](https://github.com/serrexlabs/sketch.nvim) ![](https://img.shields.io/github/stars/serrexlabs/sketch.nvim) ![](https://img.shields.io/github/last-commit/serrexlabs/sketch.nvim) ![](https://img.shields.io/github/commit-activity/y/serrexlabs/sketch.nvim)
+- [s3dman/rundi.nvim](https://github.com/s3dman/rundi.nvim) ![](https://img.shields.io/github/stars/s3dman/rundi.nvim) ![](https://img.shields.io/github/last-commit/s3dman/rundi.nvim) ![](https://img.shields.io/github/commit-activity/y/s3dman/rundi.nvim)
 
 ### Shell
 

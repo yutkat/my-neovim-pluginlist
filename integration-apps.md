@@ -90,6 +90,7 @@
     + [Meilisearch](#meilisearch)
     + [Trello](#trello)
     + [WordPress](#wordpress)
+    + [Outline](#outline)
     + [compiler-explorer](#compiler-explorer)
     + [prefix.cc](#prefixcc)
     + [haste](#haste)
@@ -579,6 +580,10 @@
 #### WordPress
 
 - [ahollister/wp-utils.nvim](https://github.com/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/stars/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/last-commit/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/wp-utils.nvim)
+
+#### Outline
+
+- [JockeKv/OutlineWiki.nvim](https://github.com/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/stars/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/last-commit/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/JockeKv/OutlineWiki.nvim)
 
 #### compiler-explorer
 
