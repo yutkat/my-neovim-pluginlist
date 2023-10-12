@@ -138,6 +138,7 @@
 - [Integration with other apps](#integration-with-other-apps)
   * [Web Service](#web-service)
   * [CLI](#cli)
+  * [AI](#ai)
 - [Language specific](#language-specific)
   * [Javascript/Typescript](#javascripttypescript)
   * [Python](#python)
@@ -778,6 +779,8 @@
 ### [Web Service](./web-service.md)
 
 ### [CLI](./cli.md)
+
+### [AI](./ai.md)
 
 ## [Language specific](./language-specific.md)
 
