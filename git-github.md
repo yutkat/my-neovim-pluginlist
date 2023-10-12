@@ -10,6 +10,7 @@
   * [git commit](#git-commit)
     + [prefix](#prefix)
     + [co authored](#co-authored)
+    + [Auto commit](#auto-commit)
   * [git blame](#git-blame)
   * [git log](#git-log)
   * [git lens](#git-lens)
@@ -98,6 +99,10 @@
 ### co authored
 
 - [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
+
+### Auto commit
+
+- [AuLaSW/autocommit.nvim](https://github.com/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/stars/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/autocommit.nvim)
 
 ## git blame
 

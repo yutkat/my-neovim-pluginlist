@@ -45,6 +45,7 @@
 ### Base64
 
 - [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/decipher.nvim)
+- [jasonwoodland/base64.nvim](https://github.com/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/stars/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/last-commit/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/commit-activity/y/jasonwoodland/base64.nvim)
 
 ### Date
 

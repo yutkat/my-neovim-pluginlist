@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Highlight](#highlight)
+  * [Arguments](#arguments)
 - [Syntax](#syntax)
   * [Colorizer](#colorizer)
   * [ANSI Colorize](#ansi-colorize)
@@ -22,13 +23,17 @@
 - [Pocco81/HighStr.nvim](https://github.com/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/stars/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/HighStr.nvim)
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/stars/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/rainbow-delimiters.nvim)
-- [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
 - [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
 - [ccbiozhaw/block-highlight.nvim](https://github.com/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/stars/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/last-commit/ccbiozhaw/block-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ccbiozhaw/block-highlight.nvim)
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) ![](https://img.shields.io/github/stars/folke/paint.nvim) ![](https://img.shields.io/github/last-commit/folke/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/paint.nvim)
 - [JosefLitos/reform.nvim](https://github.com/JosefLitos/reform.nvim) ![](https://img.shields.io/github/stars/JosefLitos/reform.nvim) ![](https://img.shields.io/github/last-commit/JosefLitos/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLitos/reform.nvim)
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
+
+### Arguments
+
+- [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
+- [nvim-jo/highlightargs.nvim](https://github.com/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/stars/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/highlightargs.nvim)
 
 ## Syntax
 

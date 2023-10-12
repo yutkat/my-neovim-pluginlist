@@ -24,6 +24,7 @@
       - [Morse](#morse)
     + [Recording](#recording)
     + [Type sound](#type-sound)
+    + [Input Animation](#input-animation)
   * [Screen server](#screen-server)
 
 <!-- tocstop -->
@@ -140,6 +141,10 @@
 
 - [pavlo-skobnikov/metal-pipe.nvim](https://github.com/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/stars/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/last-commit/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlo-skobnikov/metal-pipe.nvim)
 - [whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim) ![](https://img.shields.io/github/stars/whleucka/reverb.nvim) ![](https://img.shields.io/github/last-commit/whleucka/reverb.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/reverb.nvim)
+
+### Input Animation
+
+- [paradoxskin/boringBubble.nvim](https://github.com/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/stars/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/boringBubble.nvim)
 
 ## Screen server
 
