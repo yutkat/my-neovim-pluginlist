@@ -114,6 +114,7 @@
 - [NOSDuco/remote-sshfs.nvim](https://github.com/NOSDuco/remote-sshfs.nvim) ![](https://img.shields.io/github/stars/NOSDuco/remote-sshfs.nvim) ![](https://img.shields.io/github/last-commit/NOSDuco/remote-sshfs.nvim) ![](https://img.shields.io/github/commit-activity/y/NOSDuco/remote-sshfs.nvim)
 - [nfuhler/sshfs.nvim](https://github.com/nfuhler/sshfs.nvim) ![](https://img.shields.io/github/stars/nfuhler/sshfs.nvim) ![](https://img.shields.io/github/last-commit/nfuhler/sshfs.nvim) ![](https://img.shields.io/github/commit-activity/y/nfuhler/sshfs.nvim)
 - [pseudoacacial/turbo.nvim](https://github.com/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/stars/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/last-commit/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/commit-activity/y/pseudoacacial/turbo.nvim)
+- [niuiic/remote.nvim](https://github.com/niuiic/remote.nvim) ![](https://img.shields.io/github/stars/niuiic/remote.nvim) ![](https://img.shields.io/github/last-commit/niuiic/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/remote.nvim)
 
 #### delete
 
