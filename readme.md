@@ -139,6 +139,10 @@
   * [Web Service](#web-service)
   * [CLI](#cli)
 - [Language specific](#language-specific)
+  * [Javascript/Typescript](#javascripttypescript)
+  * [Python](#python)
+  * [C/C++](#cc)
+  * [Go](#go)
 - [Configuration File](#configuration-file)
 - [Documentation](#documentation)
 - [Neovim Lua Library](#neovim-lua-library)
@@ -776,6 +780,14 @@
 ### [CLI](./cli.md)
 
 ## [Language specific](./language-specific.md)
+
+### [Javascript/Typescript](./js_ts.md)
+
+### [Python](./python.md)
+
+### [C/C++](./c_cpp.md)
+
+### [Go](./go.md)
 
 ## [Configuration File](./configration-file.md)
 
