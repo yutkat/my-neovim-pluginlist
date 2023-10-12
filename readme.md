@@ -136,6 +136,8 @@
 - [Util pack](#util-pack)
 - [Patch](#patch)
 - [Integration with other apps](#integration-with-other-apps)
+  * [Web Service](#web-service)
+  * [CLI](#cli)
 - [Language specific](#language-specific)
 - [Configuration File](#configuration-file)
 - [Documentation](#documentation)
@@ -768,6 +770,10 @@
 - [tanchihpin0517/cursorhold-timeout.nvim](https://github.com/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/stars/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/last-commit/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/tanchihpin0517/cursorhold-timeout.nvim)
 
 ## [Integration with other apps](./integration-apps.md)
+
+### [Web Service](./web-service.md)
+
+### [CLI](./cli.md)
 
 ## [Language specific](./language-specific.md)
 
