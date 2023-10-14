@@ -7,6 +7,7 @@
     + [Lua](#lua)
       - [Stylua](#stylua)
       - [LuaFormatter](#luaformatter)
+      - [Live Server](#live-server)
       - [Docstring](#docstring)
     + [Luau](#luau)
     + [Rust](#rust)
@@ -83,6 +84,10 @@
 #### LuaFormatter
 
 - [pchaos/vim-lua-formatter.nvim](https://github.com/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/stars/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/last-commit/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/pchaos/vim-lua-formatter.nvim)
+
+#### Live Server
+
+- [diegoandino/nvim-liveserver](https://github.com/diegoandino/nvim-liveserver) ![](https://img.shields.io/github/stars/diegoandino/nvim-liveserver) ![](https://img.shields.io/github/last-commit/diegoandino/nvim-liveserver) ![](https://img.shields.io/github/commit-activity/y/diegoandino/nvim-liveserver)
 
 #### Docstring
 
