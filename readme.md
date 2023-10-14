@@ -580,6 +580,8 @@
 - [nabezokodaikon/translate.nvim](https://github.com/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/stars/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/last-commit/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/nabezokodaikon/translate.nvim)
 - [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
 - [Eric-Song-Nop/virtrans.nvim](https://github.com/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/virtrans.nvim)
+- [coffebar/crowtranslate.nvim](https://github.com/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/stars/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/last-commit/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/crowtranslate.nvim)
+- [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
 
 ### Manual
 

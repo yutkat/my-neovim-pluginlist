@@ -36,6 +36,7 @@
 - [tamton-aquib/zone.nvim](https://github.com/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/zone.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/zone.nvim)
 - [b72u68/vscode.nvim](https://github.com/b72u68/vscode.nvim) ![](https://img.shields.io/github/stars/b72u68/vscode.nvim) ![](https://img.shields.io/github/last-commit/b72u68/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/b72u68/vscode.nvim)
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
+- [MAHcodes/roll.nvim](https://github.com/MAHcodes/roll.nvim) ![](https://img.shields.io/github/stars/MAHcodes/roll.nvim) ![](https://img.shields.io/github/last-commit/MAHcodes/roll.nvim) ![](https://img.shields.io/github/commit-activity/y/MAHcodes/roll.nvim)
 
 ### Hacker typer
 
