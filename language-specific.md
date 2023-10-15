@@ -225,6 +225,7 @@
 - [brendalf/mix.nvim](https://github.com/brendalf/mix.nvim) ![](https://img.shields.io/github/stars/brendalf/mix.nvim) ![](https://img.shields.io/github/last-commit/brendalf/mix.nvim) ![](https://img.shields.io/github/commit-activity/y/brendalf/mix.nvim)
 - [chujDK/bootlin.nvim](https://github.com/chujDK/bootlin.nvim) ![](https://img.shields.io/github/stars/chujDK/bootlin.nvim) ![](https://img.shields.io/github/last-commit/chujDK/bootlin.nvim) ![](https://img.shields.io/github/commit-activity/y/chujDK/bootlin.nvim)
 - [wesleimp/elixir-keys.nvim](https://github.com/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/stars/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/elixir-keys.nvim)
+- [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/elixir-extras.nvim)
 
 ### Haskell
 

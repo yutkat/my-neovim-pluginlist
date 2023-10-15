@@ -33,6 +33,7 @@
 - [tani/pickup.nvim](https://github.com/tani/pickup.nvim) ![](https://img.shields.io/github/stars/tani/pickup.nvim) ![](https://img.shields.io/github/last-commit/tani/pickup.nvim) ![](https://img.shields.io/github/commit-activity/y/tani/pickup.nvim)
 - [jake-stewart/jfind.nvim](https://github.com/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/stars/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/jfind.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/jfind.nvim)
 - [linrongbin16/fzfx.nvim](https://github.com/linrongbin16/fzfx.nvim) ![](https://img.shields.io/github/stars/linrongbin16/fzfx.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/fzfx.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/fzfx.nvim)
+- [echasnovski/mini.pick](https://github.com/echasnovski/mini.pick) ![](https://img.shields.io/github/stars/echasnovski/mini.pick) ![](https://img.shields.io/github/last-commit/echasnovski/mini.pick) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.pick)
 
 ### Telescope Extensions
 

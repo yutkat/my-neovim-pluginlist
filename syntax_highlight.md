@@ -9,6 +9,7 @@
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
+  * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Color name](#color-name)
   * [Long line highlight](#long-line-highlight)
   * [Current word highlight](#current-word-highlight)
@@ -68,6 +69,10 @@
 ### Colorscheme overwrite
 
 - [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
+
+### Auto generate colorscheme
+
+- [123Untitled/nvim-ucg](https://github.com/123Untitled/nvim-ucg) ![](https://img.shields.io/github/stars/123Untitled/nvim-ucg) ![](https://img.shields.io/github/last-commit/123Untitled/nvim-ucg) ![](https://img.shields.io/github/commit-activity/y/123Untitled/nvim-ucg)
 
 ### Color name
 

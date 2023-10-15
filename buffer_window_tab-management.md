@@ -214,6 +214,7 @@
 - [declancm/maximize.nvim](https://github.com/declancm/maximize.nvim) ![](https://img.shields.io/github/stars/declancm/maximize.nvim) ![](https://img.shields.io/github/last-commit/declancm/maximize.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/maximize.nvim)
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) ![](https://img.shields.io/github/stars/levouh/tint.nvim) ![](https://img.shields.io/github/last-commit/levouh/tint.nvim) ![](https://img.shields.io/github/commit-activity/y/levouh/tint.nvim)
 - [amarakon/nvim-unfocused-cursor](https://github.com/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/stars/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/last-commit/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-unfocused-cursor)
+- [kdssoftware/lua-obfuscator.nvim](https://github.com/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/stars/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/last-commit/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/commit-activity/y/kdssoftware/lua-obfuscator.nvim)
 
 ### animation
 
