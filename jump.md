@@ -38,6 +38,7 @@
 - [wilfreddenton/history.nvim](https://github.com/wilfreddenton/history.nvim) ![](https://img.shields.io/github/stars/wilfreddenton/history.nvim) ![](https://img.shields.io/github/last-commit/wilfreddenton/history.nvim) ![](https://img.shields.io/github/commit-activity/y/wilfreddenton/history.nvim)
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/stars/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/whatthejump.nvim)
 - [DarkKronicle/recall.nvim](https://github.com/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/stars/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/last-commit/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/DarkKronicle/recall.nvim)
+- [l-bowman/timewarp.nvim](https://github.com/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/stars/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/last-commit/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/commit-activity/y/l-bowman/timewarp.nvim)
 
 ### Edit History
 

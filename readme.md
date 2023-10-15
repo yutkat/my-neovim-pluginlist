@@ -683,6 +683,7 @@
 - [kode-team/vault.nvim](https://github.com/kode-team/vault.nvim) ![](https://img.shields.io/github/stars/kode-team/vault.nvim) ![](https://img.shields.io/github/last-commit/kode-team/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/vault.nvim)
 - [Kolkhis/streamer-mode.nvim](https://github.com/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/stars/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/last-commit/Kolkhis/streamer-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Kolkhis/streamer-mode.nvim)
 - [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/stars/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/last-commit/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/lucidph3nx/nvim-sops)
+- [KingMichaelPark/age.nvim](https://github.com/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/stars/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/last-commit/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/commit-activity/y/KingMichaelPark/age.nvim)
 
 ### Hex
 
