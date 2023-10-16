@@ -39,6 +39,7 @@
 - [lewis6991/whatthejump.nvim](https://github.com/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/stars/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/whatthejump.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/whatthejump.nvim)
 - [DarkKronicle/recall.nvim](https://github.com/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/stars/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/last-commit/DarkKronicle/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/DarkKronicle/recall.nvim)
 - [l-bowman/timewarp.nvim](https://github.com/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/stars/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/last-commit/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/commit-activity/y/l-bowman/timewarp.nvim)
+- [suglow/telescope_jumpbuf.nvim](https://github.com/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/stars/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/last-commit/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/suglow/telescope_jumpbuf.nvim)
 
 ### Edit History
 
