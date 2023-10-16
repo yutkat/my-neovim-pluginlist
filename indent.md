@@ -9,7 +9,7 @@
 
 <!-- tocstop -->
 
-## [Indent](./indent.md)
+## Indent
 
 ### Indent Size
 
@@ -19,6 +19,7 @@
 - [vine91/nvim-indentconfig](https://github.com/vine91/nvim-indentconfig) ![](https://img.shields.io/github/stars/vine91/nvim-indentconfig) ![](https://img.shields.io/github/last-commit/vine91/nvim-indentconfig) ![](https://img.shields.io/github/commit-activity/y/vine91/nvim-indentconfig)
 - [hrsh7th/nvim-dansa](https://github.com/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/stars/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-dansa) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-dansa)
 - [msg-labs/tabwidth.nvim](https://github.com/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/stars/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/last-commit/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/commit-activity/y/msg-labs/tabwidth.nvim)
+- [antonk52/denty.nvim](https://github.com/antonk52/denty.nvim) ![](https://img.shields.io/github/stars/antonk52/denty.nvim) ![](https://img.shields.io/github/last-commit/antonk52/denty.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/denty.nvim)
 
 ### Indent Shift
 

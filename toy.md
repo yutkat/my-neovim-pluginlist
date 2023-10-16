@@ -107,6 +107,7 @@
 ## Cowsay
 
 - [TheBlckbird/bible-votd.nvim](https://github.com/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/stars/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/last-commit/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlckbird/bible-votd.nvim)
+- [adibfarrasy/quote.nvim](https://github.com/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/stars/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/last-commit/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/commit-activity/y/adibfarrasy/quote.nvim)
 
 ## Study
 
