@@ -28,6 +28,7 @@
 - [mfussenegger/nvim-lsp-compl](https://github.com/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-lsp-compl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-lsp-compl)
 - [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) ![](https://img.shields.io/github/stars/echasnovski/mini.completion) ![](https://img.shields.io/github/last-commit/echasnovski/mini.completion) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.completion)
 - [thatnerdjosh/nvim-ketho-wow](https://github.com/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/stars/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/last-commit/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/commit-activity/y/thatnerdjosh/nvim-ketho-wow)
+- [nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim) ![](https://img.shields.io/github/stars/nvimdev/epo.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/epo.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/epo.nvim)
 
 #### Made in Python
 
