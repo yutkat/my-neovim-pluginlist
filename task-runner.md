@@ -66,6 +66,7 @@
 - [s3dman/rundi.nvim](https://github.com/s3dman/rundi.nvim) ![](https://img.shields.io/github/stars/s3dman/rundi.nvim) ![](https://img.shields.io/github/last-commit/s3dman/rundi.nvim) ![](https://img.shields.io/github/commit-activity/y/s3dman/rundi.nvim)
 - [trimclain/builder.nvim](https://github.com/trimclain/builder.nvim) ![](https://img.shields.io/github/stars/trimclain/builder.nvim) ![](https://img.shields.io/github/last-commit/trimclain/builder.nvim) ![](https://img.shields.io/github/commit-activity/y/trimclain/builder.nvim)
 - [dasupradyumna/launch.nvim](https://github.com/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/stars/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/last-commit/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/commit-activity/y/dasupradyumna/launch.nvim)
+- [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/stars/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ej-shafran/compile-mode.nvim)
 
 ### Shell
 
