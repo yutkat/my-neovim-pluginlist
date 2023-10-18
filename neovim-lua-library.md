@@ -70,6 +70,7 @@
 - [lewis6991/async.nvim](https://github.com/lewis6991/async.nvim) ![](https://img.shields.io/github/stars/lewis6991/async.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/async.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/async.nvim)
 - [ec965/async-uv.nvim](https://github.com/ec965/async-uv.nvim) ![](https://img.shields.io/github/stars/ec965/async-uv.nvim) ![](https://img.shields.io/github/last-commit/ec965/async-uv.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/async-uv.nvim)
 - [willothy/micro-async.nvim](https://github.com/willothy/micro-async.nvim) ![](https://img.shields.io/github/stars/willothy/micro-async.nvim) ![](https://img.shields.io/github/last-commit/willothy/micro-async.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/micro-async.nvim)
+- [svermeulen/nvim-lusc](https://github.com/svermeulen/nvim-lusc) ![](https://img.shields.io/github/stars/svermeulen/nvim-lusc) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-lusc) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-lusc)
 
 ## Coroutine
 
