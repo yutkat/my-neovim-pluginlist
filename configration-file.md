@@ -81,6 +81,7 @@
 - [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
 - [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) ![](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-dbee)
 - [ddzero2c/go-embedded-sql.nvim](https://github.com/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/stars/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/go-embedded-sql.nvim)
+- [mrvaita/sqlrun.nvim](https://github.com/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/stars/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/last-commit/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/commit-activity/y/mrvaita/sqlrun.nvim)
 
 ### PostgreSQL
 
