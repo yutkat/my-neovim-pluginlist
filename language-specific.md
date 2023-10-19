@@ -106,7 +106,6 @@
 - [MattCairns/telescope-cargo-workspace.nvim](https://github.com/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/stars/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/last-commit/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/MattCairns/telescope-cargo-workspace.nvim)
 - [ryo33/nvim-cmp-rust](https://github.com/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/stars/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/last-commit/ryo33/nvim-cmp-rust) ![](https://img.shields.io/github/commit-activity/y/ryo33/nvim-cmp-rust)
 - [AbaoFromCUG/rust-tools.nvim](https://github.com/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/rust-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/rust-tools.nvim)
-- [vxpm/rust-expand-macro.nvim](https://github.com/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/stars/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/last-commit/vxpm/rust-expand-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/rust-expand-macro.nvim)
 - [willothy/leptos.nvim](https://github.com/willothy/leptos.nvim) ![](https://img.shields.io/github/stars/willothy/leptos.nvim) ![](https://img.shields.io/github/last-commit/willothy/leptos.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/leptos.nvim)
 
 ### Zig
