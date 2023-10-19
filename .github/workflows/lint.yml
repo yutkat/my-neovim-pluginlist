@@ -18,7 +18,8 @@ jobs:
           apt update
           apt-get install -y gh jq ca-certificates curl
       - run: >
-          ./.github/scripts/archive_check.sh
+          grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos.txt
+          ./.github/scripts/archive_check.sh /tmp/repos.txt
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
