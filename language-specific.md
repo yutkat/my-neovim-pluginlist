@@ -24,6 +24,7 @@
       - [Maven](#maven)
       - [Gradle](#gradle)
       - [Spring Boot](#spring-boot)
+      - [JBoss](#jboss)
     + [Kotlin](#kotlin)
     + [Swift](#swift)
     + [Scala](#scala)
@@ -191,6 +192,10 @@
 
 - [niT-Tin/springboot-start.nvim](https://github.com/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/stars/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/last-commit/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/commit-activity/y/niT-Tin/springboot-start.nvim)
 - [mslauson/spring-boot.nvim](https://github.com/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/stars/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/mslauson/spring-boot.nvim)
+
+#### JBoss
+
+- [orfosys/nvim-wildcat](https://github.com/orfosys/nvim-wildcat) ![](https://img.shields.io/github/stars/orfosys/nvim-wildcat) ![](https://img.shields.io/github/last-commit/orfosys/nvim-wildcat) ![](https://img.shields.io/github/commit-activity/y/orfosys/nvim-wildcat)
 
 ### Kotlin
 

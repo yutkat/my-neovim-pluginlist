@@ -121,6 +121,7 @@
 #### Xcode
 
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) ![](https://img.shields.io/github/stars/mickael-menu/ShadowVim) ![](https://img.shields.io/github/last-commit/mickael-menu/ShadowVim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/ShadowVim)
+- [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
 
 ### Desktop Integration
 
