@@ -12,6 +12,7 @@
   * [Aider](#aider)
   * [Otter](#otter)
   * [Google Bard](#google-bard)
+  * [Codeium](#codeium)
 - [Machine Learning](#machine-learning)
 
 <!-- tocstop -->
@@ -82,6 +83,10 @@
 #### Google Bard
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
+
+#### Codeium 
+
+- [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 
 ### Machine Learning
 

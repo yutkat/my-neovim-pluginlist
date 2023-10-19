@@ -6,6 +6,7 @@
   * [LSP Installer](#lsp-installer)
   * [LSP Feature Extension UI](#lsp-feature-extension-ui)
     + [Diagnostics](#diagnostics)
+      - [unused variable](#unused-variable)
       - [diagnostics summary](#diagnostics-summary)
     + [Signature Help](#signature-help)
     + [Definition, Reference](#definition-reference)
@@ -86,6 +87,10 @@
 - [suliatis/mess-around.nvim](https://github.com/suliatis/mess-around.nvim) ![](https://img.shields.io/github/stars/suliatis/mess-around.nvim) ![](https://img.shields.io/github/last-commit/suliatis/mess-around.nvim) ![](https://img.shields.io/github/commit-activity/y/suliatis/mess-around.nvim)
 - [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/corn.nvim)
 - [dknaack/qf-diagnostics.nvim](https://github.com/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/stars/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/dknaack/qf-diagnostics.nvim)
+
+##### unused variable
+
+- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) ![](https://img.shields.io/github/stars/0oAstro/dim.lua) ![](https://img.shields.io/github/last-commit/0oAstro/dim.lua) ![](https://img.shields.io/github/commit-activity/y/0oAstro/dim.lua)
 
 ##### diagnostics summary
 
