@@ -1,0 +1,13 @@
+{
+  "problemMatcher": [
+    {
+      "owner": "archive-checker",
+      "pattern": [
+        {
+          "regexp": "^(https:\/\/github\.com\/.+\/.+)$",
+          "url": 1
+        }
+      ]
+    }
+  ]
+}
