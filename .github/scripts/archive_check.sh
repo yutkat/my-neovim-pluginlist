@@ -1,9 +1,8 @@
 #!/bin/bash
 
-filename="/tmp/repos.txt"
+filename="$1"
 output="archived_check_list.txt"
 lines_per_chunk=100
-grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > $filename
 
 if [ -e "$output" ]; then
 	rm "$output"
