@@ -17,15 +17,29 @@ jobs:
           echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | tee /etc/apt/sources.list.d/github-cli.list > /dev/null
           apt update
           apt-get install -y gh jq ca-certificates curl
+      - name: enable problem matcher
+        run: |
+          echo "::add-matcher::.github/archive-repo-matcher.json"
       - run: |
           grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos.txt
-          ./.github/scripts/archive_check.sh /tmp/repos.txt
+          ./.github/scripts/archive_check.sh /tmp/repos.txt archived_check_list.txt
         env:
           GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
       - run: >
           grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
           test $(grep ':true\|:null' archived_check_list.txt | wc -l) -le 0
+      - run: |
+          grep '](https://github.com' Archived.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos_archive.txt
+          ./.github/scripts/archive_check.sh /tmp/repos_archive.txt archive_list.txt
+        env:
+          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      - run: >
+          grep ":false" archive_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
+      - run: >
+          test $(grep ':false' archive_list.txt | wc -l) -le 0
+      - name: Disable problem matcher
+        run: echo "::remove-matcher owner=archive-checker::"
       # curl 429 too many requests
       # - run: >
       #     grep '](https://github.com' README.md [a-z]*.md |

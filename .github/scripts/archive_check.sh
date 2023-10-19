@@ -1,7 +1,7 @@
 #!/bin/bash
 
 filename="$1"
-output="archived_check_list.txt"
+output="$2"
 lines_per_chunk=100
 
 if [ -e "$output" ]; then
