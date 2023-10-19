@@ -72,6 +72,7 @@
 
 ### Auto generate colorscheme
 
+- [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/last-commit/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/commit-activity/y/svermeulen/text-to-colorscheme)
 - [123Untitled/nvim-ucg](https://github.com/123Untitled/nvim-ucg) ![](https://img.shields.io/github/stars/123Untitled/nvim-ucg) ![](https://img.shields.io/github/last-commit/123Untitled/nvim-ucg) ![](https://img.shields.io/github/commit-activity/y/123Untitled/nvim-ucg)
 
 ### Color name
