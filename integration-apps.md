@@ -47,6 +47,7 @@
     + [Windows](#windows)
       - [Everything](#everything)
       - [AutoHotKey](#autohotkey)
+      - [WSL](#wsl)
     + [Mac](#mac)
       - [iTerm](#iterm)
     + [iOS](#ios)
@@ -262,6 +263,10 @@
 ##### AutoHotKey
 
 - [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
+
+##### WSL
+
+- [ggresillion/nvim-wsl-copypasta](https://github.com/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/stars/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/last-commit/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/commit-activity/y/ggresillion/nvim-wsl-copypasta)
 
 #### Mac
 
