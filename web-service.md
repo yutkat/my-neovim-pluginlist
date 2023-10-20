@@ -9,6 +9,7 @@
   * [Mastodon](#mastodon)
   * [Notion](#notion)
   * [Jira](#jira)
+  * [Track](#track)
   * [youtrack](#youtrack)
   * [Google Docs](#google-docs)
   * [Twitch](#twitch)
@@ -72,6 +73,10 @@
 - [artem-nefedov/cmp-jira-issues.nvim](https://github.com/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/stars/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/last-commit/artem-nefedov/cmp-jira-issues.nvim) ![](https://img.shields.io/github/commit-activity/y/artem-nefedov/cmp-jira-issues.nvim)
 - [ChristophSonnleitner/jira.nvim](https://github.com/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/stars/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/last-commit/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristophSonnleitner/jira.nvim)
 - [Funk66/jira.nvim](https://github.com/Funk66/jira.nvim) ![](https://img.shields.io/github/stars/Funk66/jira.nvim) ![](https://img.shields.io/github/last-commit/Funk66/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Funk66/jira.nvim)
+
+#### Track
+
+- [lrnzmonaco/trak.nvim](https://github.com/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/stars/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/last-commit/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/commit-activity/y/lrnzmonaco/trak.nvim)
 
 #### youtrack
 

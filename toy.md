@@ -55,6 +55,7 @@
 ## Video
 
 - [Hanaasagi/anime.nvim](https://github.com/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/stars/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/last-commit/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/commit-activity/y/Hanaasagi/anime.nvim)
+- [njegg/dvd.nvim](https://github.com/njegg/dvd.nvim) ![](https://img.shields.io/github/stars/njegg/dvd.nvim) ![](https://img.shields.io/github/last-commit/njegg/dvd.nvim) ![](https://img.shields.io/github/commit-activity/y/njegg/dvd.nvim)
 
 ## Game
 
