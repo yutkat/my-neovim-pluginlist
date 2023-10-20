@@ -5,7 +5,7 @@
       "pattern": [
         {
           "regexp": "^(https:\\\/\\\/github.com\\\/.+\\\/.+)$",
-          "url": 1
+          "message": 1
         }
       ]
     }
