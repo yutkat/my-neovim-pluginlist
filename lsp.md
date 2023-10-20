@@ -178,8 +178,6 @@
 
 ### Get LSP Client
 
-- [i314q159/ac.nvim](https://github.com/i314q159/ac.nvim) ![](https://img.shields.io/github/stars/i314q159/ac.nvim) ![](https://img.shields.io/github/last-commit/i314q159/ac.nvim) ![](https://img.shields.io/github/commit-activity/y/i314q159/ac.nvim)
-
 ### LSP timeout
 
 - [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/stars/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/last-commit/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/hinell/lsp-timeout.nvim)
