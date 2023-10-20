@@ -84,6 +84,7 @@
 - [aymenhafeez/scratch.nvim](https://github.com/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/stars/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/last-commit/aymenhafeez/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/aymenhafeez/scratch.nvim)
 - [marco-souza/ollama.nvim](https://github.com/marco-souza/ollama.nvim) ![](https://img.shields.io/github/stars/marco-souza/ollama.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ollama.nvim)
 - [yoshigoya/nvim-joplin.nvim](https://github.com/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/stars/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/last-commit/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/yoshigoya/nvim-joplin.nvim)
+- [jungyong0615dot/planner.nvim](https://github.com/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/planner.nvim)
 
 ### Taskwarrior
 
