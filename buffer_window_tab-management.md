@@ -186,6 +186,7 @@
 - [itsFrank/nvim-swell](https://github.com/itsFrank/nvim-swell) ![](https://img.shields.io/github/stars/itsFrank/nvim-swell) ![](https://img.shields.io/github/last-commit/itsFrank/nvim-swell) ![](https://img.shields.io/github/commit-activity/y/itsFrank/nvim-swell)
 - [MisanthropicBit/winmove.nvim](https://github.com/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/winmove.nvim)
 - [jyscao/ventana.nvim](https://github.com/jyscao/ventana.nvim) ![](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![](https://img.shields.io/github/last-commit/jyscao/ventana.nvim) ![](https://img.shields.io/github/commit-activity/y/jyscao/ventana.nvim)
+- [distek/panel.nvim](https://github.com/distek/panel.nvim) ![](https://img.shields.io/github/stars/distek/panel.nvim) ![](https://img.shields.io/github/last-commit/distek/panel.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/panel.nvim)
 
 #### center
 
@@ -202,6 +203,7 @@
 - [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/stars/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/smart-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/smart-splits.nvim)
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
+- [danielefongo/tile.nvim](https://github.com/danielefongo/tile.nvim) ![](https://img.shields.io/github/stars/danielefongo/tile.nvim) ![](https://img.shields.io/github/last-commit/danielefongo/tile.nvim) ![](https://img.shields.io/github/commit-activity/y/danielefongo/tile.nvim)
 
 #### maximize
 
