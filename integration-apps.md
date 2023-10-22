@@ -44,6 +44,7 @@
       - [fribidi](#fribidi)
       - [Inkscape](#inkscape)
       - [Rofi](#rofi)
+      - [xrandr](#xrandr)
     + [Windows](#windows)
       - [Everything](#everything)
       - [AutoHotKey](#autohotkey)
@@ -65,6 +66,7 @@
   * [Hardware](#hardware)
     + [IoT](#iot)
     + [CAD](#cad)
+    + [Verilog](#verilog)
     + [Robot](#robot)
       - [ROS](#ros)
       - [FRC(First robotics competition)](#frcfirst-robotics-competition)
@@ -255,6 +257,10 @@
 
 - [giacomo618/rofi-select.nvim](https://github.com/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/stars/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/last-commit/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/commit-activity/y/giacomo618/rofi-select.nvim)
 
+##### xrandr
+
+- [HannHank/monitor.nvim](https://github.com/HannHank/monitor.nvim) ![](https://img.shields.io/github/stars/HannHank/monitor.nvim) ![](https://img.shields.io/github/last-commit/HannHank/monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/HannHank/monitor.nvim)
+
 #### Windows
 
 ##### Everything
@@ -353,6 +359,10 @@
 #### CAD
 
 - [petrisch/nvim-hicad](https://github.com/petrisch/nvim-hicad) ![](https://img.shields.io/github/stars/petrisch/nvim-hicad) ![](https://img.shields.io/github/last-commit/petrisch/nvim-hicad) ![](https://img.shields.io/github/commit-activity/y/petrisch/nvim-hicad)
+
+#### Verilog
+
+- [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
 
 #### Robot
 
