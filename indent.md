@@ -21,6 +21,7 @@
 - [msg-labs/tabwidth.nvim](https://github.com/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/stars/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/last-commit/msg-labs/tabwidth.nvim) ![](https://img.shields.io/github/commit-activity/y/msg-labs/tabwidth.nvim)
 - [antonk52/denty.nvim](https://github.com/antonk52/denty.nvim) ![](https://img.shields.io/github/stars/antonk52/denty.nvim) ![](https://img.shields.io/github/last-commit/antonk52/denty.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/denty.nvim)
 - [Sam-programs/indent.nvim](https://github.com/Sam-programs/indent.nvim) ![](https://img.shields.io/github/stars/Sam-programs/indent.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/indent.nvim)
+- [VidocqH/auto-indent.nvim](https://github.com/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/stars/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/last-commit/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/VidocqH/auto-indent.nvim)
 
 ### Indent Shift
 

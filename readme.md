@@ -66,6 +66,7 @@
   * [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
   * [ftplugin](#ftplugin)
     + [filetype colorscheme](#filetype-colorscheme)
+  * [Encoding](#encoding)
   * [Macro](#macro)
   * [Errorformat](#errorformat)
   * [Message](#message)
@@ -421,6 +422,10 @@
 
 - [folke/styler.nvim](https://github.com/folke/styler.nvim) ![](https://img.shields.io/github/stars/folke/styler.nvim) ![](https://img.shields.io/github/last-commit/folke/styler.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/styler.nvim)
 
+### Encoding
+
+- [sjjwantfish/encodings.nvim](https://github.com/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/stars/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/last-commit/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/commit-activity/y/sjjwantfish/encodings.nvim)
+
 ### Macro
 
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoComposer.nvim)
@@ -516,6 +521,7 @@
 - [code-biscuits/nvim-biscuits](https://github.com/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/stars/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/last-commit/code-biscuits/nvim-biscuits) ![](https://img.shields.io/github/commit-activity/y/code-biscuits/nvim-biscuits)
 - [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/stars/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/loctvl842/breadcrumb.nvim)
 - [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/stars/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/TreePin)
+- [Gelio/nvim-relative-date](https://github.com/Gelio/nvim-relative-date) ![](https://img.shields.io/github/stars/Gelio/nvim-relative-date) ![](https://img.shields.io/github/last-commit/Gelio/nvim-relative-date) ![](https://img.shields.io/github/commit-activity/y/Gelio/nvim-relative-date)
 
 #### Current Position Info
 

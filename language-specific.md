@@ -126,6 +126,7 @@
 - [gmartsenkov/gotospec.nvim](https://github.com/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/gotospec.nvim)
 - [Philwi/nvim-code-smell](https://github.com/Philwi/nvim-code-smell) ![](https://img.shields.io/github/stars/Philwi/nvim-code-smell) ![](https://img.shields.io/github/last-commit/Philwi/nvim-code-smell) ![](https://img.shields.io/github/commit-activity/y/Philwi/nvim-code-smell)
 - [npupko/buddy.nvim](https://github.com/npupko/buddy.nvim) ![](https://img.shields.io/github/stars/npupko/buddy.nvim) ![](https://img.shields.io/github/last-commit/npupko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/npupko/buddy.nvim)
+- [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
 
 #### Rails
 
