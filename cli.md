@@ -152,6 +152,7 @@
 - [uiofgh/rsync.nvim](https://github.com/uiofgh/rsync.nvim) ![](https://img.shields.io/github/stars/uiofgh/rsync.nvim) ![](https://img.shields.io/github/last-commit/uiofgh/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/uiofgh/rsync.nvim)
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/stars/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/rsync.nvim)
 - [michel-garcia/rsync.nvim](https://github.com/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/stars/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/rsync.nvim)
+- [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) ![](https://img.shields.io/github/stars/coffebar/transfer.nvim) ![](https://img.shields.io/github/last-commit/coffebar/transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/transfer.nvim)
 
 #### ctags
 
