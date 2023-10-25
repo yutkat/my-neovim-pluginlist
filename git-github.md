@@ -121,6 +121,7 @@
 - [LhKipp/commit-viewer.nvim](https://github.com/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/stars/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/last-commit/LhKipp/commit-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/LhKipp/commit-viewer.nvim)
 - [senkentarou/telescope-git-log.nvim](https://github.com/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-log.nvim)
 - [niuiic/git-log.nvim](https://github.com/niuiic/git-log.nvim) ![](https://img.shields.io/github/stars/niuiic/git-log.nvim) ![](https://img.shields.io/github/last-commit/niuiic/git-log.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/git-log.nvim)
+- [FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim) ![](https://img.shields.io/github/stars/FredeEB/tardis.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/tardis.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/tardis.nvim)
 
 ## git lens
 
