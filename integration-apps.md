@@ -67,6 +67,7 @@
     + [IoT](#iot)
     + [CAD](#cad)
     + [Verilog](#verilog)
+    + [Grooper](#grooper)
     + [Robot](#robot)
       - [ROS](#ros)
       - [FRC(First robotics competition)](#frcfirst-robotics-competition)
@@ -90,6 +91,7 @@
 - [psaikido/hupoon.nvim](https://github.com/psaikido/hupoon.nvim) ![](https://img.shields.io/github/stars/psaikido/hupoon.nvim) ![](https://img.shields.io/github/last-commit/psaikido/hupoon.nvim) ![](https://img.shields.io/github/commit-activity/y/psaikido/hupoon.nvim)
 - [mochi-sann/Select2Browser.nvim](https://github.com/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/stars/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/last-commit/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/commit-activity/y/mochi-sann/Select2Browser.nvim)
 - [andres-lowrie/nvim-search-internet](https://github.com/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/stars/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/last-commit/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/commit-activity/y/andres-lowrie/nvim-search-internet)
+- [elentok/open-link.nvim](https://github.com/elentok/open-link.nvim) ![](https://img.shields.io/github/stars/elentok/open-link.nvim) ![](https://img.shields.io/github/last-commit/elentok/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/open-link.nvim)
 
 #### url open
 
@@ -364,6 +366,10 @@
 #### Verilog
 
 - [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
+
+#### Grooper
+
+- [StevenRotelli/nvim-grooper](https://github.com/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/stars/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/last-commit/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/commit-activity/y/StevenRotelli/nvim-grooper)
 
 #### Robot
 
