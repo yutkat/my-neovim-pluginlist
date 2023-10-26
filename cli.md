@@ -30,6 +30,7 @@
   * [papis](#papis)
   * [Zeal](#zeal)
   * [Snyk Code](#snyk-code)
+  * [Croc](#croc)
   * [k8s (Kubernetes)](#k8s-kubernetes)
 
 <!-- tocstop -->
@@ -177,7 +178,12 @@
 
 - [maorun/snyk.nvim](https://github.com/maorun/snyk.nvim) ![](https://img.shields.io/github/stars/maorun/snyk.nvim) ![](https://img.shields.io/github/last-commit/maorun/snyk.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/snyk.nvim)
 
+#### Croc
+
+- [heaveless/croc.nvim](https://github.com/heaveless/croc.nvim) ![](https://img.shields.io/github/stars/heaveless/croc.nvim) ![](https://img.shields.io/github/last-commit/heaveless/croc.nvim) ![](https://img.shields.io/github/commit-activity/y/heaveless/croc.nvim)
+
 #### k8s (Kubernetes)
 
 - [arjunmahishi/k8s.nvim](https://github.com/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/k8s.nvim)
 - [elasticrash/kubels.nvim](https://github.com/elasticrash/kubels.nvim) ![](https://img.shields.io/github/stars/elasticrash/kubels.nvim) ![](https://img.shields.io/github/last-commit/elasticrash/kubels.nvim) ![](https://img.shields.io/github/commit-activity/y/elasticrash/kubels.nvim)
+- [diogo464/kubernetes.nvim](https://github.com/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/stars/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/kubernetes.nvim)
