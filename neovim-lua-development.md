@@ -7,6 +7,7 @@
   * [LSP](#lsp)
   * [Lint](#lint)
   * [Formatter](#formatter)
+  * [LuaRocks](#luarocks)
   * [GitHub Actions](#github-actions)
 - [Neovim Lua Development](#neovim-lua-development)
 - [Neovim Lua REPL](#neovim-lua-repl)
@@ -53,6 +54,10 @@
 
 - [JohnnyMorganz/StyLua](https://github.com/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/stars/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/last-commit/JohnnyMorganz/StyLua) ![](https://img.shields.io/github/commit-activity/y/JohnnyMorganz/StyLua)
 - [Koihik/LuaFormatter](https://github.com/Koihik/LuaFormatter) ![](https://img.shields.io/github/stars/Koihik/LuaFormatter) ![](https://img.shields.io/github/last-commit/Koihik/LuaFormatter) ![](https://img.shields.io/github/commit-activity/y/Koihik/LuaFormatter)
+
+### LuaRocks
+
+- [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks.nvim)
 
 ### GitHub Actions
 
