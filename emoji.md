@@ -11,6 +11,7 @@
 
 - [hrsh7th/cmp-emoji](https://github.com/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/stars/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-emoji) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-emoji)
 - [Dynge/gitmoji.nvim](https://github.com/Dynge/gitmoji.nvim) ![](https://img.shields.io/github/stars/Dynge/gitmoji.nvim) ![](https://img.shields.io/github/last-commit/Dynge/gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/Dynge/gitmoji.nvim)
+- [ronisbr/emojify.nvim](https://github.com/ronisbr/emojify.nvim) ![](https://img.shields.io/github/stars/ronisbr/emojify.nvim) ![](https://img.shields.io/github/last-commit/ronisbr/emojify.nvim) ![](https://img.shields.io/github/commit-activity/y/ronisbr/emojify.nvim)
 
 ### Emoji FuzzyFinder
 

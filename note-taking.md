@@ -128,6 +128,7 @@
 - [statiolake/nvim-junkfile](https://github.com/statiolake/nvim-junkfile) ![](https://img.shields.io/github/stars/statiolake/nvim-junkfile) ![](https://img.shields.io/github/last-commit/statiolake/nvim-junkfile) ![](https://img.shields.io/github/commit-activity/y/statiolake/nvim-junkfile)
 - [AidanThomas/scratchpad.nvim](https://github.com/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/stars/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/AidanThomas/scratchpad.nvim)
 - [adalessa/scratch.nvim](https://github.com/adalessa/scratch.nvim) ![](https://img.shields.io/github/stars/adalessa/scratch.nvim) ![](https://img.shields.io/github/last-commit/adalessa/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/scratch.nvim)
+- [miguelcrespo/scratch-buffer.nvim](https://github.com/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/stars/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/last-commit/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelcrespo/scratch-buffer.nvim)
 
 ## inline note
 

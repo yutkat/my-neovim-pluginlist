@@ -8,6 +8,7 @@
   * [Boolean](#boolean)
   * [Base64](#base64)
   * [Date](#date)
+  * [Pixel](#pixel)
 
 <!-- tocstop -->
 
@@ -50,3 +51,7 @@
 ### Date
 
 - [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/stars/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/last-commit/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianvalenz/chronos.nvim)
+
+### Pixel
+
+- [jsongerber/nvim-px-to-rem](https://github.com/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/jsongerber/nvim-px-to-rem)

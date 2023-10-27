@@ -12,6 +12,7 @@
   * [Vertical Move](#vertical-move)
   * [Word Motion](#word-motion)
   * [Line Move](#line-move)
+  * [Emacs Motion](#emacs-motion)
 
 <!-- tocstop -->
 
@@ -88,3 +89,8 @@
 ### Line Move
 
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
+
+### Emacs Motion
+
+- [sysedwinistrator/readline.nvim](https://github.com/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/stars/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/last-commit/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/sysedwinistrator/readline.nvim)
+
