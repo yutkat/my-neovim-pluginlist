@@ -6,6 +6,7 @@
   * [Arguments](#arguments)
 - [Syntax](#syntax)
   * [Colorizer](#colorizer)
+  * [Color picker](#color-picker)
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
@@ -46,6 +47,10 @@
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/stars/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/last-commit/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/commit-activity/y/brenoprata10/nvim-highlight-colors)
 - [uga-rosa/ccc.nvim(colorizer)](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
 - [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/stars/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/last-commit/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.hipatterns)
+
+### Color picker
+
+- [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/stars/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/easycolor.nvim)
 
 ### ANSI Colorize
 
