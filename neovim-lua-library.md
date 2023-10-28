@@ -176,6 +176,7 @@
 ## Hook
 
 - [rktjmp/fwatch.nvim](https://github.com/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/stars/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/fwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/fwatch.nvim)
+- [notomo/obhook.nvim](https://github.com/notomo/obhook.nvim) ![](https://img.shields.io/github/stars/notomo/obhook.nvim) ![](https://img.shields.io/github/last-commit/notomo/obhook.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/obhook.nvim)
 
 ## Mode
 
