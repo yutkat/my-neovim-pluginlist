@@ -11,6 +11,7 @@
   * [build manager](#build-manager)
   * [venv](#venv)
   * [Jupyter](#jupyter)
+  * [Anaconda](#anaconda)
   * [Scrapy](#scrapy)
 
 <!-- tocstop -->
@@ -67,6 +68,10 @@
 
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/jupynium.nvim)
 - [lkhphuc/jupyter-kernel.nvim](https://github.com/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/stars/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/last-commit/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/commit-activity/y/lkhphuc/jupyter-kernel.nvim)
+
+#### Anaconda
+
+- [kmontocam/nvim-conda](https://github.com/kmontocam/nvim-conda) ![](https://img.shields.io/github/stars/kmontocam/nvim-conda) ![](https://img.shields.io/github/last-commit/kmontocam/nvim-conda) ![](https://img.shields.io/github/commit-activity/y/kmontocam/nvim-conda)
 
 #### Scrapy
 

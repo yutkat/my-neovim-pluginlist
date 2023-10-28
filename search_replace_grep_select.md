@@ -11,6 +11,7 @@
   * [Comment search](#comment-search)
   * [Search highlight](#search-highlight)
   * [Visual search](#visual-search)
+  * [File search](#file-search)
 - [Replace](#replace)
 - [Grep](#grep)
   * [AST](#ast)
@@ -76,6 +77,10 @@
 ## Visual search
 
 - [bagohart/search-in-visual-selection.nvim](https://github.com/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/stars/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/last-commit/bagohart/search-in-visual-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/search-in-visual-selection.nvim)
+
+## File search
+
+- [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
 
 # Replace
 
