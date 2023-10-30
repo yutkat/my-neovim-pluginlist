@@ -44,6 +44,7 @@
 - [JxJxxJxJ/DirHead.nvim](https://github.com/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/stars/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/last-commit/JxJxxJxJ/DirHead.nvim) ![](https://img.shields.io/github/commit-activity/y/JxJxxJxJ/DirHead.nvim)
 - [Fangjun-Zhou/comment-divider.nvim](https://github.com/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/stars/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/last-commit/Fangjun-Zhou/comment-divider.nvim) ![](https://img.shields.io/github/commit-activity/y/Fangjun-Zhou/comment-divider.nvim)
 - [attilarepka/header.nvim](https://github.com/attilarepka/header.nvim) ![](https://img.shields.io/github/stars/attilarepka/header.nvim) ![](https://img.shields.io/github/last-commit/attilarepka/header.nvim) ![](https://img.shields.io/github/commit-activity/y/attilarepka/header.nvim)
+- [nate-sys/comment-banner.nvim](https://github.com/nate-sys/comment-banner.nvim) ![](https://img.shields.io/github/stars/nate-sys/comment-banner.nvim) ![](https://img.shields.io/github/last-commit/nate-sys/comment-banner.nvim) ![](https://img.shields.io/github/commit-activity/y/nate-sys/comment-banner.nvim)
 
 ## File Header
 

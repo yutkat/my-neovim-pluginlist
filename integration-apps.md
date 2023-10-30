@@ -11,6 +11,7 @@
     + [search](#search)
   * [Other Editor](#other-editor)
     + [VS Code](#vs-code)
+    + [Helix](#helix)
     + [Xcode](#xcode)
   * [Desktop Integration](#desktop-integration)
 - [Development environment](#development-environment)
@@ -121,6 +122,10 @@
 #### VS Code
 
 - [elijahmanor/export-to-vscode.nvim](https://github.com/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/stars/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/last-commit/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahmanor/export-to-vscode.nvim)
+
+#### Helix
+
+- [Nossigen/helix.nvim](https://github.com/Nossigen/helix.nvim) ![](https://img.shields.io/github/stars/Nossigen/helix.nvim) ![](https://img.shields.io/github/last-commit/Nossigen/helix.nvim) ![](https://img.shields.io/github/commit-activity/y/Nossigen/helix.nvim)
 
 #### Xcode
 
