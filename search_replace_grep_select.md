@@ -97,6 +97,7 @@
 - [Sett17/quicksub.nvim](https://github.com/Sett17/quicksub.nvim) ![](https://img.shields.io/github/stars/Sett17/quicksub.nvim) ![](https://img.shields.io/github/last-commit/Sett17/quicksub.nvim) ![](https://img.shields.io/github/commit-activity/y/Sett17/quicksub.nvim)
 - [t-hg/nvim-search-replace](https://github.com/t-hg/nvim-search-replace) ![](https://img.shields.io/github/stars/t-hg/nvim-search-replace) ![](https://img.shields.io/github/last-commit/t-hg/nvim-search-replace) ![](https://img.shields.io/github/commit-activity/y/t-hg/nvim-search-replace)
 - [srpmtt/nvim-replace](https://github.com/srpmtt/nvim-replace) ![](https://img.shields.io/github/stars/srpmtt/nvim-replace) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-replace) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-replace)
+- [ctimmins96/fnr.nvim](https://github.com/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/stars/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/last-commit/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/commit-activity/y/ctimmins96/fnr.nvim)
 
 # Grep
 

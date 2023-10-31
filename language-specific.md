@@ -313,6 +313,7 @@
 - [Lommix/godot.nvim](https://github.com/Lommix/godot.nvim) ![](https://img.shields.io/github/stars/Lommix/godot.nvim) ![](https://img.shields.io/github/last-commit/Lommix/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/godot.nvim)
 - [niscolas/nvim-godot](https://github.com/niscolas/nvim-godot) ![](https://img.shields.io/github/stars/niscolas/nvim-godot) ![](https://img.shields.io/github/last-commit/niscolas/nvim-godot) ![](https://img.shields.io/github/commit-activity/y/niscolas/nvim-godot)
 - [QuickGD/quickgd.nvim](https://github.com/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/stars/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/last-commit/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/commit-activity/y/QuickGD/quickgd.nvim)
+- [Teatek/gdscript-extended-lsp.nvim](https://github.com/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Teatek/gdscript-extended-lsp.nvim)
 
 ### Moonscript
 

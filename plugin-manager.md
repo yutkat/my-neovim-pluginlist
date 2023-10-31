@@ -8,6 +8,7 @@
   * [Update checker](#update-checker)
   * [Search](#search)
   * [add](#add)
+  * [Lazy load](#lazy-load)
 
 <!-- tocstop -->
 
@@ -47,3 +48,7 @@
 ### add
 
 - [tetzng/add-plugin.nvim](https://github.com/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/stars/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/last-commit/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/add-plugin.nvim)
+
+### Lazy load
+
+- [Xarvex/lazy-load.nvim](https://github.com/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/stars/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/last-commit/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/commit-activity/y/Xarvex/lazy-load.nvim)
