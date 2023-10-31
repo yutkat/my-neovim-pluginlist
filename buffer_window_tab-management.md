@@ -218,6 +218,7 @@
 - [levouh/tint.nvim](https://github.com/levouh/tint.nvim) ![](https://img.shields.io/github/stars/levouh/tint.nvim) ![](https://img.shields.io/github/last-commit/levouh/tint.nvim) ![](https://img.shields.io/github/commit-activity/y/levouh/tint.nvim)
 - [amarakon/nvim-unfocused-cursor](https://github.com/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/stars/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/last-commit/amarakon/nvim-unfocused-cursor) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-unfocused-cursor)
 - [kdssoftware/lua-obfuscator.nvim](https://github.com/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/stars/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/last-commit/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/commit-activity/y/kdssoftware/lua-obfuscator.nvim)
+- [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/stars/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/last-commit/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/sunglasses.nvim)
 
 ### animation
 
