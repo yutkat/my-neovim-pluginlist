@@ -44,4 +44,6 @@
 
 ### Edit History
 
+- [Sharonex/edit-list.nvim](https://github.com/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/stars/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/edit-list.nvim)
+
 ### Cursor Position History
