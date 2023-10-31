@@ -98,8 +98,6 @@
 
 ###### Biome
 
-- [zapling/biome.nvim](https://github.com/zapling/biome.nvim) ![](https://img.shields.io/github/stars/zapling/biome.nvim) ![](https://img.shields.io/github/last-commit/zapling/biome.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/biome.nvim)
-
 #### HTML
 
 - [manyids2/htmlgui.nvim](https://github.com/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/stars/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/last-commit/manyids2/htmlgui.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/htmlgui.nvim)
