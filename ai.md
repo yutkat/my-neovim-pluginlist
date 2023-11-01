@@ -52,6 +52,7 @@
 - [lu5her-s/neogpt.nvim](https://github.com/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/stars/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/last-commit/lu5her-s/neogpt.nvim) ![](https://img.shields.io/github/commit-activity/y/lu5her-s/neogpt.nvim)
 - [catgoose/chat-gypsy.nvim](https://github.com/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/stars/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/last-commit/catgoose/chat-gypsy.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/chat-gypsy.nvim)
 - [youshyee/gpt.nvim](https://github.com/youshyee/gpt.nvim) ![](https://img.shields.io/github/stars/youshyee/gpt.nvim) ![](https://img.shields.io/github/last-commit/youshyee/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/youshyee/gpt.nvim)
+- [CamdenClark/carrier.nvim](https://github.com/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/stars/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/last-commit/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/carrier.nvim)
 
 ##### OpenAI Review
 
