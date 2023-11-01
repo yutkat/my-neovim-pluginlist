@@ -30,6 +30,7 @@
   * [Pandoc](#pandoc)
   * [Vimdoc](#vimdoc)
   * [Tex](#tex)
+    + [Tex Preview](#tex-preview)
     + [BiBTex](#bibtex)
   * [Copyright](#copyright)
   * [Quarto](#quarto)
@@ -215,6 +216,10 @@
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/iurimateus/luasnip-latex-snippets.nvim)
 - [jhofscheier/ltex-utils.nvim](https://github.com/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/stars/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/last-commit/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/ltex-utils.nvim)
 - [LeoSchae/nvim-texlab-tools](https://github.com/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/stars/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/last-commit/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/commit-activity/y/LeoSchae/nvim-texlab-tools)
+
+#### Tex Preview
+
+- [anthonymolinari/latex_preview.nvim](https://github.com/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/stars/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/last-commit/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anthonymolinari/latex_preview.nvim)
 
 #### BiBTex
 
