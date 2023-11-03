@@ -87,6 +87,7 @@
 - [suliatis/mess-around.nvim](https://github.com/suliatis/mess-around.nvim) ![](https://img.shields.io/github/stars/suliatis/mess-around.nvim) ![](https://img.shields.io/github/last-commit/suliatis/mess-around.nvim) ![](https://img.shields.io/github/commit-activity/y/suliatis/mess-around.nvim)
 - [RaafatTurki/corn.nvim](https://github.com/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/corn.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/corn.nvim)
 - [dknaack/qf-diagnostics.nvim](https://github.com/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/stars/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/dknaack/qf-diagnostics.nvim)
+- [jake-stewart/diagnostic-jump.nvim](https://github.com/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/stars/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/diagnostic-jump.nvim)
 
 ##### unused variable
 

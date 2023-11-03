@@ -6,6 +6,7 @@
   * [JSON](#json)
   * [YAML](#yaml)
   * [TOML](#toml)
+  * [XML](#xml)
   * [dotbox](#dotbox)
   * [CSV](#csv)
   * [Jenkins](#jenkins)
@@ -48,6 +49,10 @@
 ### TOML
 
 - [dharmx/toml.nvim](https://github.com/dharmx/toml.nvim) ![](https://img.shields.io/github/stars/dharmx/toml.nvim) ![](https://img.shields.io/github/last-commit/dharmx/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/toml.nvim)
+
+### XML
+
+- [TheDrawingCoder-Gamer/prc.nvim](https://github.com/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/stars/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/last-commit/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/commit-activity/y/TheDrawingCoder-Gamer/prc.nvim)
 
 ### dotbox
 

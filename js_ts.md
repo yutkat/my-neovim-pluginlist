@@ -9,6 +9,7 @@
     + [eslint](#eslint)
     + [Formatter](#formatter)
     + [tsserver](#tsserver)
+    + [Typst preview](#typst-preview)
     + [Test](#test)
     + [Task Runner](#task-runner)
       - [yarn](#yarn)
@@ -68,6 +69,10 @@
 ##### tsserver
 
 - [davidosomething/format-ts-errors.nvim](https://github.com/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/format-ts-errors.nvim)
+
+##### Typst preview
+
+- [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
 
 ##### Test
 
