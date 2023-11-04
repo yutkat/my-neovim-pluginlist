@@ -45,6 +45,7 @@
 - [ObserverOfTime/nvimcord](https://github.com/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/stars/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/last-commit/ObserverOfTime/nvimcord) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/nvimcord)
 - [CatKoder123/presence.nvim](https://github.com/CatKoder123/presence.nvim) ![](https://img.shields.io/github/stars/CatKoder123/presence.nvim) ![](https://img.shields.io/github/last-commit/CatKoder123/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/CatKoder123/presence.nvim)
 - [einKnuffy/betterpresence.nvim](https://github.com/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/stars/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/last-commit/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/einKnuffy/betterpresence.nvim)
+- [lpturmel/discord.nvim](https://github.com/lpturmel/discord.nvim) ![](https://img.shields.io/github/stars/lpturmel/discord.nvim) ![](https://img.shields.io/github/last-commit/lpturmel/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/lpturmel/discord.nvim)
 
 #### Slack
 
