@@ -35,6 +35,7 @@
 - [Editing support](#editing-support)
   * [Select Edit](#select-edit)
   * [Insert](#insert)
+    + [Smart Tab](#smart-tab)
   * [Auto Insert](#auto-insert)
   * [matchparen](#matchparen)
   * [Convert](#convert)
@@ -286,7 +287,11 @@
 - [AntonVanAssche/date-time-inserter.nvim](https://github.com/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/date-time-inserter.nvim)
 - [resonyze/erase_node.nvim](https://github.com/resonyze/erase_node.nvim) ![](https://img.shields.io/github/stars/resonyze/erase_node.nvim) ![](https://img.shields.io/github/last-commit/resonyze/erase_node.nvim) ![](https://img.shields.io/github/commit-activity/y/resonyze/erase_node.nvim)
 - [adammccartney/nvim-rinse](https://github.com/adammccartney/nvim-rinse) ![](https://img.shields.io/github/stars/adammccartney/nvim-rinse) ![](https://img.shields.io/github/last-commit/adammccartney/nvim-rinse) ![](https://img.shields.io/github/commit-activity/y/adammccartney/nvim-rinse)
+
+#### Smart Tab
+
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/smart-tab.nvim)
+- [nvim-jo/smarttab.nvim](https://github.com/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/stars/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/smarttab.nvim)
 
 ### [Auto Insert](./auto-insert.md)
 

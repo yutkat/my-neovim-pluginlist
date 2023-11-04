@@ -4,6 +4,7 @@
 
 - [Go](#go)
   * [gofmt](#gofmt)
+  * [go list](#go-list)
   * [Test](#test)
 
 <!-- tocstop -->
@@ -31,6 +32,10 @@
 #### gofmt
 
 - [MaxwelMazur/gofmt.nvim](https://github.com/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/stars/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/last-commit/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/MaxwelMazur/gofmt.nvim)
+
+#### go list
+
+- [lukasl-dev/go-list.nvim](https://github.com/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/stars/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/last-commit/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasl-dev/go-list.nvim)
 
 #### Test
 

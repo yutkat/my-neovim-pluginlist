@@ -115,6 +115,8 @@
 - [mertzt89/grep-op.nvim](https://github.com/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/stars/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/last-commit/mertzt89/grep-op.nvim) ![](https://img.shields.io/github/commit-activity/y/mertzt89/grep-op.nvim)
 - [Sduby22/telescope-fuzzy-grep.nvim](https://github.com/Sduby22/telescope-fuzzy-grep.nvim) ![](https://img.shields.io/github/stars/Sduby22/telescope-fuzzy-grep.nvim) ![](https://img.shields.io/github/last-commit/Sduby22/telescope-fuzzy-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Sduby22/telescope-fuzzy-grep.nvim)
 - [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) ![](https://img.shields.io/github/stars/SalOrak/whaler.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/whaler.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/whaler.nvim)
+- [Sharonex/grape.nvim](https://github.com/Sharonex/grape.nvim) ![](https://img.shields.io/github/stars/Sharonex/grape.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/grape.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/grape.nvim)
+- [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mangelozzi/rgflow.nvim)
 
 ## AST
 
