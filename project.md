@@ -32,6 +32,7 @@
 - [coffebar/neovim-project](https://github.com/coffebar/neovim-project) ![](https://img.shields.io/github/stars/coffebar/neovim-project) ![](https://img.shields.io/github/last-commit/coffebar/neovim-project) ![](https://img.shields.io/github/commit-activity/y/coffebar/neovim-project)
 - [pbnj/telescope-projects.nvim](https://github.com/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/stars/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/last-commit/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/pbnj/telescope-projects.nvim)
 - [mskelton/telescope-jumper.nvim](https://github.com/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/stars/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/last-commit/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/telescope-jumper.nvim)
+- [yonchando/my-spaces.nvim](https://github.com/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/stars/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/last-commit/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/my-spaces.nvim)
 
 #### Project Root Detector
 

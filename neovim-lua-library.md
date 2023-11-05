@@ -35,6 +35,7 @@
 - [Buffer](#buffer)
 - [Keymap](#keymap)
 - [autocmd](#autocmd)
+- [Color](#color)
 - [Icon](#icon)
 - [Unicode](#unicode)
 - [random variable names](#random-variable-names)
@@ -198,6 +199,10 @@
 
 - [mvllow/matcha.nvim](https://github.com/mvllow/matcha.nvim) ![](https://img.shields.io/github/stars/mvllow/matcha.nvim) ![](https://img.shields.io/github/last-commit/mvllow/matcha.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/matcha.nvim)
 - [CWood-sdf/future.nvim](https://github.com/CWood-sdf/future.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/future.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/future.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/future.nvim)
+
+## Color
+
+- [oleksiiluchnikov/gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/gradient.nvim)
 
 ## Icon
 
