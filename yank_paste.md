@@ -20,6 +20,7 @@
 - [austinliuigi/lasso.nvim](https://github.com/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/stars/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/lasso.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/lasso.nvim)
 - [tsukimizake/nvim-fcopy](https://github.com/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/stars/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/last-commit/tsukimizake/nvim-fcopy) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/nvim-fcopy)
 - [Noah4ever/yanklist.nvim](https://github.com/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/stars/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/last-commit/Noah4ever/yanklist.nvim) ![](https://img.shields.io/github/commit-activity/y/Noah4ever/yanklist.nvim)
+- [suba327777/yank-diag.nvim](https://github.com/suba327777/yank-diag.nvim) ![](https://img.shields.io/github/stars/suba327777/yank-diag.nvim) ![](https://img.shields.io/github/last-commit/suba327777/yank-diag.nvim) ![](https://img.shields.io/github/commit-activity/y/suba327777/yank-diag.nvim)
 
 ## Register Selector
 
