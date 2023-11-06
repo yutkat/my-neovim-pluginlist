@@ -32,6 +32,7 @@
 - [lumiknit/emacs-keys.nvim](https://github.com/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/stars/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/last-commit/lumiknit/emacs-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/lumiknit/emacs-keys.nvim)
 - [mfussenegger/nvim-overfly](https://github.com/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/stars/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-overfly)
 - [lumiknit/alty-keys.nvim](https://github.com/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/stars/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/last-commit/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/lumiknit/alty-keys.nvim)
+- [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) ![](https://img.shields.io/github/stars/mirlge/kak.nvim) ![](https://img.shields.io/github/last-commit/mirlge/kak.nvim) ![](https://img.shields.io/github/commit-activity/y/mirlge/kak.nvim)
 
 ## Bracket
 

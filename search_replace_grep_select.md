@@ -121,6 +121,7 @@
 ## AST
 
 - [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg) ![](https://img.shields.io/github/stars/Marskey/telescope-sg) ![](https://img.shields.io/github/last-commit/Marskey/telescope-sg) ![](https://img.shields.io/github/commit-activity/y/Marskey/telescope-sg)
+- [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/stars/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/last-commit/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/telescope-ast-grep.nvim)
 
 # Select
 

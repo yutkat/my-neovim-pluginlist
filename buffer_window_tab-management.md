@@ -15,6 +15,7 @@
     + [auto close](#auto-close)
     + [access control](#access-control)
     + [path](#path)
+    + [status](#status)
   * [Scratch Buffer](#scratch-buffer)
   * [buffer Sharing](#buffer-sharing)
 - [Window](#window)
@@ -143,6 +144,10 @@
 
 - [ohakutsu/socks-copypath.nvim](https://github.com/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/stars/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/last-commit/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ohakutsu/socks-copypath.nvim)
 - [notomo/pluginbuf.nvim](https://github.com/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/stars/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/last-commit/notomo/pluginbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/pluginbuf.nvim)
+
+#### status
+
+- [AxerTheAxe/bufferstore.nvim](https://github.com/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/stars/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/last-commit/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/commit-activity/y/AxerTheAxe/bufferstore.nvim)
 
 ### Scratch Buffer
 

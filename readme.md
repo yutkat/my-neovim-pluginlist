@@ -465,6 +465,7 @@
 - [tobb10001/indexcard.nvim](https://github.com/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/stars/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/last-commit/tobb10001/indexcard.nvim) ![](https://img.shields.io/github/commit-activity/y/tobb10001/indexcard.nvim)
 - [Tyler-Barham/floating-help.nvim](https://github.com/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/stars/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/last-commit/Tyler-Barham/floating-help.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyler-Barham/floating-help.nvim)
 - [riodelphino/cheatsheet.nvim](https://github.com/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/stars/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/cheatsheet.nvim)
+- [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/stars/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/last-commit/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/telescope-helpgrep.nvim)
 
 ### checkhealth
 
