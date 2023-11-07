@@ -17,6 +17,7 @@
 - [notomo/curstr.nvim](https://github.com/notomo/curstr.nvim) ![](https://img.shields.io/github/stars/notomo/curstr.nvim) ![](https://img.shields.io/github/last-commit/notomo/curstr.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/curstr.nvim)
 - [jonatan-branting/nvim-better-n](https://github.com/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/stars/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/last-commit/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/nvim-better-n)
 - [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
+- [xiaoshihou514/squirrel.nvim](https://github.com/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/stars/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/last-commit/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoshihou514/squirrel.nvim)
 
 ### Brackets
 

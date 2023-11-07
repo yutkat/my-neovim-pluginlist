@@ -73,6 +73,7 @@
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [lpoto/telescope-docker.nvim](https://github.com/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-docker.nvim)
 - [aloussase/dockerlint.nvim](https://github.com/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/stars/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/last-commit/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/dockerlint.nvim)
+- [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
 
 ##### Docker Compose
 
