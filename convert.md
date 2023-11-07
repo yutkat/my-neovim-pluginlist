@@ -38,6 +38,7 @@
 - [blaisdellma/checklist.nvim](https://github.com/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/stars/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/last-commit/blaisdellma/checklist.nvim) ![](https://img.shields.io/github/commit-activity/y/blaisdellma/checklist.nvim)
 - [Skosulor/nibbler](https://github.com/Skosulor/nibbler) ![](https://img.shields.io/github/stars/Skosulor/nibbler) ![](https://img.shields.io/github/last-commit/Skosulor/nibbler) ![](https://img.shields.io/github/commit-activity/y/Skosulor/nibbler)
 - [steve21168/command-pat.nvim](https://github.com/steve21168/command-pat.nvim) ![](https://img.shields.io/github/stars/steve21168/command-pat.nvim) ![](https://img.shields.io/github/last-commit/steve21168/command-pat.nvim) ![](https://img.shields.io/github/commit-activity/y/steve21168/command-pat.nvim)
+- [senkentarou/telescope-convert-word-case.nvim](https://github.com/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-convert-word-case.nvim)
 
 ### Boolean
 

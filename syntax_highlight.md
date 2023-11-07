@@ -83,6 +83,7 @@
 
 - [nat-418/telescope-color-names.nvim](https://github.com/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/telescope-color-names.nvim)
 - [nat-418/cmp-color-names.nvim](https://github.com/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/cmp-color-names.nvim)
+- [dam9000/show-highlight.nvim](https://github.com/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/stars/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/last-commit/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/dam9000/show-highlight.nvim)
 
 ### Long line highlight
 
