@@ -52,6 +52,7 @@
 - [Carbone13/runner.nvim](https://github.com/Carbone13/runner.nvim) ![](https://img.shields.io/github/stars/Carbone13/runner.nvim) ![](https://img.shields.io/github/last-commit/Carbone13/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Carbone13/runner.nvim)
 - [AbaoFromCUG/cmake-tools.nvim](https://github.com/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/cmake-tools.nvim)
 - [XDeme/cmake-kits.nvim](https://github.com/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/stars/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/last-commit/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/commit-activity/y/XDeme/cmake-kits.nvim)
+- [gergol/cmake-debugger.nvim](https://github.com/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/stars/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/last-commit/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/gergol/cmake-debugger.nvim)
 
 #### Disassemble
 

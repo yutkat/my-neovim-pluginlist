@@ -6,6 +6,7 @@
   * [tweaks](#tweaks)
     + [string](#string)
   * [test](#test)
+  * [import](#import)
   * [REPL](#repl)
   * [Debugger](#debugger)
   * [build manager](#build-manager)
@@ -40,6 +41,10 @@
 - [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
 - [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
 - [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
+
+#### import
+
+- [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/commit-activity/y/stevanmilic/nvim-lspimport)
 
 #### REPL
 
