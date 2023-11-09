@@ -619,6 +619,7 @@
 - [octarect/telescope-menu.nvim](https://github.com/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/stars/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/last-commit/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/octarect/telescope-menu.nvim)
 - [jvs/commanderly.nvim](https://github.com/jvs/commanderly.nvim) ![](https://img.shields.io/github/stars/jvs/commanderly.nvim) ![](https://img.shields.io/github/last-commit/jvs/commanderly.nvim) ![](https://img.shields.io/github/commit-activity/y/jvs/commanderly.nvim)
 - [hachy/cmdpalette.nvim](https://github.com/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/stars/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/last-commit/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/cmdpalette.nvim)
+- [AtleSkaanes/command-palette.nvim](https://github.com/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/stars/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/last-commit/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/AtleSkaanes/command-palette.nvim)
 
 ### Reload Configuration
 

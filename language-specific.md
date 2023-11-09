@@ -21,6 +21,7 @@
     + [Unity](#unity)
     + [Unreal](#unreal)
     + [Java](#java)
+      - [rename](#rename)
       - [Maven](#maven)
       - [Gradle](#gradle)
       - [Spring Boot](#spring-boot)
@@ -182,6 +183,10 @@
 - [aw1875/tests.nvim](https://github.com/aw1875/tests.nvim) ![](https://img.shields.io/github/stars/aw1875/tests.nvim) ![](https://img.shields.io/github/last-commit/aw1875/tests.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/tests.nvim)
 - [Iamnotagenius/mvnsearch.nvim](https://github.com/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/stars/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/last-commit/Iamnotagenius/mvnsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Iamnotagenius/mvnsearch.nvim)
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
+
+#### rename
+
+- [simaxme/java-rename.nvim](https://github.com/simaxme/java-rename.nvim) ![](https://img.shields.io/github/stars/simaxme/java-rename.nvim) ![](https://img.shields.io/github/last-commit/simaxme/java-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/simaxme/java-rename.nvim)
 
 #### Maven
 

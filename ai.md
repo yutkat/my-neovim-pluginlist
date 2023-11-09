@@ -79,6 +79,7 @@
 #### Ollama
 
 - [rheinardkorf/nvim-ollama](https://github.com/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/stars/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/last-commit/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/rheinardkorf/nvim-ollama)
+- [nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim) ![](https://img.shields.io/github/stars/nomnivore/ollama.nvim) ![](https://img.shields.io/github/last-commit/nomnivore/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/nomnivore/ollama.nvim)
 
 #### Aider
 
