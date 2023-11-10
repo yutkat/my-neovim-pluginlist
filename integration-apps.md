@@ -281,6 +281,7 @@
 ##### WSL
 
 - [ggresillion/nvim-wsl-copypasta](https://github.com/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/stars/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/last-commit/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/commit-activity/y/ggresillion/nvim-wsl-copypasta)
+- [hajin-chung/wsl-clipboard.nvim](https://github.com/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/stars/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/last-commit/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hajin-chung/wsl-clipboard.nvim)
 
 #### Mac
 
