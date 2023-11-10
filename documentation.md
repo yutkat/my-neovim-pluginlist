@@ -69,6 +69,7 @@
 #### toc
 
 - [richardbizik/nvim-toc](https://github.com/richardbizik/nvim-toc) ![](https://img.shields.io/github/stars/richardbizik/nvim-toc) ![](https://img.shields.io/github/last-commit/richardbizik/nvim-toc) ![](https://img.shields.io/github/commit-activity/y/richardbizik/nvim-toc)
+- [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/stars/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/markdown-toc.nvim)
 
 #### Markdown preview
 

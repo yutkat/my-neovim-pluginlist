@@ -13,6 +13,7 @@
   * [Aider](#aider)
   * [Otter](#otter)
   * [Google Bard](#google-bard)
+  * [Mentat](#mentat)
   * [Codeium](#codeium)
 - [Machine Learning](#machine-learning)
 
@@ -92,6 +93,10 @@
 #### Google Bard
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
+
+#### Mentat
+
+- [hesiod-au/mentat.nvim](https://github.com/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/stars/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/mentat.nvim)
 
 #### Codeium 
 
