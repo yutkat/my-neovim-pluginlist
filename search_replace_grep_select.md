@@ -145,6 +145,7 @@
 - [YacineDo/mc.nvim](https://github.com/YacineDo/mc.nvim) ![](https://img.shields.io/github/stars/YacineDo/mc.nvim) ![](https://img.shields.io/github/last-commit/YacineDo/mc.nvim) ![](https://img.shields.io/github/commit-activity/y/YacineDo/mc.nvim)
 - [smoka7/multicursors.nvim](https://github.com/smoka7/multicursors.nvim) ![](https://img.shields.io/github/stars/smoka7/multicursors.nvim) ![](https://img.shields.io/github/last-commit/smoka7/multicursors.nvim) ![](https://img.shields.io/github/commit-activity/y/smoka7/multicursors.nvim)
 - [vscode-neovim/vscode-multi-cursor.nvim](https://github.com/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/stars/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/last-commit/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/vscode-neovim/vscode-multi-cursor.nvim)
+- [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/stars/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/last-commit/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/commit-activity/y/brenton-leighton/multiple-cursors.nvim)
 
 ## Incremental selection
 
