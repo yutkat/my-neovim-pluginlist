@@ -89,6 +89,7 @@
 ### Line Move
 
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
+- [0x00-ketsu/pull-line.nvim](https://github.com/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/pull-line.nvim)
 
 ### Emacs Motion
 

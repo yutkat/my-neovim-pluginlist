@@ -246,6 +246,7 @@
 ### CODEOWNERS
 
 - [SebastienLeonce/nvim-codeowners](https://github.com/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/stars/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/last-commit/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/commit-activity/y/SebastienLeonce/nvim-codeowners)
+- [rsreimer/codeowners.nvim](https://github.com/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/stars/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/codeowners.nvim)
 
 # GitLab
 
@@ -254,6 +255,7 @@
 - [vaidotasp/gitlab-open.nvim](https://github.com/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/stars/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/last-commit/vaidotasp/gitlab-open.nvim) ![](https://img.shields.io/github/commit-activity/y/vaidotasp/gitlab-open.nvim)
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
 - [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
+- [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
 
 # CLI
 
