@@ -25,6 +25,7 @@
     + [layout](#layout)
     + [center](#center)
     + [split](#split)
+    + [Popup](#popup)
     + [resize](#resize)
     + [maximize](#maximize)
     + [focus](#focus)
@@ -202,6 +203,10 @@
 
 - [yutkat/spiral-split.nvim](https://github.com/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/stars/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/last-commit/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/spiral-split.nvim)
 - [yuma140902/auto-split-direction.nvim](https://github.com/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/stars/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/last-commit/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/commit-activity/y/yuma140902/auto-split-direction.nvim)
+
+#### Popup
+
+- [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) ![](https://img.shields.io/github/stars/carbon-steel/detour.nvim) ![](https://img.shields.io/github/last-commit/carbon-steel/detour.nvim) ![](https://img.shields.io/github/commit-activity/y/carbon-steel/detour.nvim)
 
 #### resize
 
