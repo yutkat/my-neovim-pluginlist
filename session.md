@@ -36,6 +36,7 @@
 - [lpoto/telescope-sessions.nvim](https://github.com/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/stars/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/last-commit/lpoto/telescope-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/telescope-sessions.nvim)
 - [mrquantumcodes/retrospect.nvim](https://github.com/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/retrospect.nvim)
 - [keaising/startup.nvim](https://github.com/keaising/startup.nvim) ![](https://img.shields.io/github/stars/keaising/startup.nvim) ![](https://img.shields.io/github/last-commit/keaising/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/startup.nvim)
+- [Febri-i/resurrect.nvim](https://github.com/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/stars/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/last-commit/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/commit-activity/y/Febri-i/resurrect.nvim)
 
 ## Session Selector
 
