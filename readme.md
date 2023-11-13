@@ -554,6 +554,7 @@
 - [Djancyp/regex.nvim](https://github.com/Djancyp/regex.nvim) ![](https://img.shields.io/github/stars/Djancyp/regex.nvim) ![](https://img.shields.io/github/last-commit/Djancyp/regex.nvim) ![](https://img.shields.io/github/commit-activity/y/Djancyp/regex.nvim)
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
 - [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
+- [jake-stewart/regex-vars.nvim](https://github.com/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/stars/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/regex-vars.nvim)
 
 ### Generate documentation
 
@@ -593,7 +594,6 @@
 - [kiddos/translate.nvim](https://github.com/kiddos/translate.nvim) ![](https://img.shields.io/github/stars/kiddos/translate.nvim) ![](https://img.shields.io/github/last-commit/kiddos/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/translate.nvim)
 - [nabezokodaikon/translate.nvim](https://github.com/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/stars/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/last-commit/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/nabezokodaikon/translate.nvim)
 - [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
-- [Eric-Song-Nop/virtrans.nvim](https://github.com/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/virtrans.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/virtrans.nvim)
 - [coffebar/crowtranslate.nvim](https://github.com/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/stars/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/last-commit/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/crowtranslate.nvim)
 - [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
 
