@@ -202,6 +202,7 @@
 ## GitHub link
 
 - [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gitlinker.nvim)
 - [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
