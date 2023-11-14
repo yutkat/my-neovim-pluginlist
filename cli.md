@@ -156,6 +156,7 @@
 - [OscarCreator/rsync.nvim](https://github.com/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/stars/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/rsync.nvim)
 - [michel-garcia/rsync.nvim](https://github.com/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/stars/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/rsync.nvim)
 - [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) ![](https://img.shields.io/github/stars/coffebar/transfer.nvim) ![](https://img.shields.io/github/last-commit/coffebar/transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/transfer.nvim)
+- [syednabilashraf/sync-remote.nvim](https://github.com/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/stars/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/last-commit/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/syednabilashraf/sync-remote.nvim)
 
 #### ctags
 
@@ -190,3 +191,4 @@
 - [elasticrash/kubels.nvim](https://github.com/elasticrash/kubels.nvim) ![](https://img.shields.io/github/stars/elasticrash/kubels.nvim) ![](https://img.shields.io/github/last-commit/elasticrash/kubels.nvim) ![](https://img.shields.io/github/commit-activity/y/elasticrash/kubels.nvim)
 - [diogo464/kubernetes.nvim](https://github.com/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/stars/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/diogo464/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/kubernetes.nvim)
 - [disrupted/kpops.nvim](https://github.com/disrupted/kpops.nvim) ![](https://img.shields.io/github/stars/disrupted/kpops.nvim) ![](https://img.shields.io/github/last-commit/disrupted/kpops.nvim) ![](https://img.shields.io/github/commit-activity/y/disrupted/kpops.nvim)
+- [alonso-montero/k8vim.nvim](https://github.com/alonso-montero/k8vim.nvim) ![](https://img.shields.io/github/stars/alonso-montero/k8vim.nvim) ![](https://img.shields.io/github/last-commit/alonso-montero/k8vim.nvim) ![](https://img.shields.io/github/commit-activity/y/alonso-montero/k8vim.nvim)

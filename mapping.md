@@ -10,6 +10,7 @@
   * [Layout Switch](#layout-switch)
   * [Mapping toggle](#mapping-toggle)
   * [Improve Mappings](#improve-mappings)
+    + [Repeatable](#repeatable)
     + [Normal Mode](#normal-mode)
       - [Word Motion](#word-motion)
     + [Insert Mode](#insert-mode)
@@ -65,6 +66,10 @@
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
 
 ## Improve Mappings
+
+### Repeatable
+
+- [jake-stewart/repeatable.nvim](https://github.com/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/stars/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/repeatable.nvim)
 
 ### Normal Mode
 

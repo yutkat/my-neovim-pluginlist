@@ -13,6 +13,7 @@
     + [Rust](#rust)
     + [Zig](#zig)
     + [Ruby](#ruby)
+      - [Gem](#gem)
       - [Rails](#rails)
     + [Nix](#nix)
     + [PHP](#php)
@@ -128,6 +129,10 @@
 - [Philwi/nvim-code-smell](https://github.com/Philwi/nvim-code-smell) ![](https://img.shields.io/github/stars/Philwi/nvim-code-smell) ![](https://img.shields.io/github/last-commit/Philwi/nvim-code-smell) ![](https://img.shields.io/github/commit-activity/y/Philwi/nvim-code-smell)
 - [npupko/buddy.nvim](https://github.com/npupko/buddy.nvim) ![](https://img.shields.io/github/stars/npupko/buddy.nvim) ![](https://img.shields.io/github/last-commit/npupko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/npupko/buddy.nvim)
 - [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
+
+#### Gem
+
+- [jeffrydegrande/bundler-info.nvim](https://github.com/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/stars/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/last-commit/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/commit-activity/y/jeffrydegrande/bundler-info.nvim)
 
 #### Rails
 

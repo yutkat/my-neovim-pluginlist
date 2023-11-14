@@ -12,6 +12,7 @@
   * [ranger](#ranger)
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
+  * [Create directory](#create-directory)
 
 <!-- tocstop -->
 
@@ -101,3 +102,8 @@
 
 - [tomato3713/hijack-open-directory.nvim](https://github.com/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/stars/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/last-commit/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/tomato3713/hijack-open-directory.nvim)
 - [metalelf0/supermover.nvim](https://github.com/metalelf0/supermover.nvim) ![](https://img.shields.io/github/stars/metalelf0/supermover.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/supermover.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/supermover.nvim)
+
+## Create directory
+
+- [aikooo7/funnyfiles.nvim](https://github.com/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/stars/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/last-commit/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/aikooo7/funnyfiles.nvim)
+
