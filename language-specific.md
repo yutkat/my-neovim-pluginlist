@@ -112,6 +112,7 @@
 - [willothy/leptos.nvim](https://github.com/willothy/leptos.nvim) ![](https://img.shields.io/github/stars/willothy/leptos.nvim) ![](https://img.shields.io/github/last-commit/willothy/leptos.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/leptos.nvim)
 - [vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim) ![](https://img.shields.io/github/stars/vxpm/ferris.nvim) ![](https://img.shields.io/github/last-commit/vxpm/ferris.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/ferris.nvim)
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) ![](https://img.shields.io/github/stars/mrcjkb/rustaceanvim) ![](https://img.shields.io/github/last-commit/mrcjkb/rustaceanvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/rustaceanvim)
+- [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
 
 ### Zig
 

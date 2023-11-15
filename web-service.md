@@ -27,6 +27,7 @@
   * [Runme](#runme)
   * [paste.rs](#pasters)
   * [Drupal](#drupal)
+- [Prefab](#prefab)
 - [CI](#ci)
   * [CircleCI](#circleci)
   * [Jenkins](#jenkins)
@@ -149,6 +150,10 @@
 #### Drupal
 
 - [everynameistaken1/nvim-drupal-sh](https://github.com/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/stars/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/last-commit/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/commit-activity/y/everynameistaken1/nvim-drupal-sh)
+
+### Prefab
+
+- [prefab-cloud/prefab.nvim](https://github.com/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/stars/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/last-commit/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/commit-activity/y/prefab-cloud/prefab.nvim)
 
 ### CI
 

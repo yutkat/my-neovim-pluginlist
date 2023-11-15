@@ -153,6 +153,7 @@
 
 - [smjonas/inc-rename.nvim](https://github.com/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/stars/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/last-commit/smjonas/inc-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/smjonas/inc-rename.nvim)
 - [metalelf0/treesitter-renamer.nvim](https://github.com/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/stars/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/treesitter-renamer.nvim)
+- [luckasRanarison/neo-rename.nvim](https://github.com/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/neo-rename.nvim)
 
 #### textDocument
 
