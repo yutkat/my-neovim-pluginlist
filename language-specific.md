@@ -56,6 +56,7 @@
     + [Coq](#coq)
     + [MatLab](#matlab)
     + [Cell](#cell)
+    + [Orca](#orca)
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Tcl/Tk](#tcltk)
@@ -349,6 +350,10 @@
 ### Cell
 
 - [jordanvieler/cyto.nvim](https://github.com/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/stars/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/last-commit/jordanvieler/cyto.nvim) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cyto.nvim)
+
+### Orca
+
+- [noearc/nvim-orca](https://github.com/noearc/nvim-orca) ![](https://img.shields.io/github/stars/noearc/nvim-orca) ![](https://img.shields.io/github/last-commit/noearc/nvim-orca) ![](https://img.shields.io/github/commit-activity/y/noearc/nvim-orca)
 
 ### sylt
 

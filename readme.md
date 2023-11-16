@@ -467,6 +467,7 @@
 - [riodelphino/cheatsheet.nvim](https://github.com/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/stars/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/cheatsheet.nvim)
 - [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/stars/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/last-commit/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/telescope-helpgrep.nvim)
 - [TobinPalmer/Tip.nvim](https://github.com/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/Tip.nvim)
+- [jtubbenhauer/selfhelp.nvim](https://github.com/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/selfhelp.nvim)
 
 ### checkhealth
 

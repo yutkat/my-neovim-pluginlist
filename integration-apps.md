@@ -225,6 +225,7 @@
 - [g-duff/sf.nvim](https://github.com/g-duff/sf.nvim) ![](https://img.shields.io/github/stars/g-duff/sf.nvim) ![](https://img.shields.io/github/last-commit/g-duff/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/g-duff/sf.nvim)
 - [xixiaofinland/sfterm.nvim](https://github.com/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sfterm.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sfterm.nvim)
 - [xixiaofinland/sforg.nvim](https://github.com/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sforg.nvim)
+- [devinjc213/sfdeez.nvim](https://github.com/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/stars/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/last-commit/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/commit-activity/y/devinjc213/sfdeez.nvim)
 
 #### dbt
 
