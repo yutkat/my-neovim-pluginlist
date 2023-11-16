@@ -9,7 +9,8 @@
 - [Coroutine](#coroutine)
 - [String](#string)
 - [File](#file)
-  * [path-trie](#path-trie)
+  * [Path](#path)
+- [Exec](#exec)
 - [UI](#ui)
   * [Notification](#notification)
   * [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
@@ -86,7 +87,13 @@
 
 - [nvim-lua/plenary.nvim(file)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
 
-### path-trie
+### Path
+
+- [pysan3/pathlib.nvim](https://github.com/pysan3/pathlib.nvim) ![](https://img.shields.io/github/stars/pysan3/pathlib.nvim) ![](https://img.shields.io/github/last-commit/pysan3/pathlib.nvim) ![](https://img.shields.io/github/commit-activity/y/pysan3/pathlib.nvim)
+
+## Exec
+
+- [cyn1x/outhouse.nvim](https://github.com/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/stars/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/last-commit/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/commit-activity/y/cyn1x/outhouse.nvim)
 
 ## UI
 
@@ -140,6 +147,7 @@
 - [timwmillard/uuid.nvim](https://github.com/timwmillard/uuid.nvim) ![](https://img.shields.io/github/stars/timwmillard/uuid.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/uuid.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/uuid.nvim)
 - [srpmtt/nvim-guid-generator](https://github.com/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/stars/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-guid-generator) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-guid-generator)
 - [TrevorS/uuid-nvim](https://github.com/TrevorS/uuid-nvim) ![](https://img.shields.io/github/stars/TrevorS/uuid-nvim) ![](https://img.shields.io/github/last-commit/TrevorS/uuid-nvim) ![](https://img.shields.io/github/commit-activity/y/TrevorS/uuid-nvim)
+- [danporterhonor/uuid-hex.nvim](https://github.com/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/stars/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/last-commit/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/commit-activity/y/danporterhonor/uuid-hex.nvim)
 
 ## Net
 

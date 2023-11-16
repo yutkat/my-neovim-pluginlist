@@ -12,6 +12,7 @@
       - [Node](#node)
       - [Deno](#deno)
       - [Glow](#glow)
+      - [Zathura](#zathura)
     + [Pandoc Preview](#pandoc-preview)
       - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
       - [Rust](#rust)
@@ -95,6 +96,10 @@
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 
+##### Zathura
+
+- [evdunbar/zathura-md.nvim](https://github.com/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/stars/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/last-commit/evdunbar/zathura-md.nvim) ![](https://img.shields.io/github/commit-activity/y/evdunbar/zathura-md.nvim)
+
 #### Pandoc Preview
 
 - [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
@@ -134,6 +139,7 @@
 #### Markdown table
 
 - [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/stars/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/last-commit/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/edit-markdown-table.nvim)
+- [lhybdv/md-table.nvim](https://github.com/lhybdv/md-table.nvim) ![](https://img.shields.io/github/stars/lhybdv/md-table.nvim) ![](https://img.shields.io/github/last-commit/lhybdv/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/lhybdv/md-table.nvim)
 
 #### Markdown evaluate code
 

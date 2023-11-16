@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Git](#git)
+  * [gitui](#gitui)
   * [lazygit](#lazygit)
   * [git clone](#git-clone)
   * [git status](#git-status)
@@ -48,7 +49,6 @@
 
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) ![](https://img.shields.io/github/stars/NeogitOrg/neogit) ![](https://img.shields.io/github/last-commit/NeogitOrg/neogit) ![](https://img.shields.io/github/commit-activity/y/NeogitOrg/neogit)
 - [dinhhuy258/git.nvim](https://github.com/dinhhuy258/git.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/git.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/git.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/git.nvim)
-- [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [declancm/git-scripts.nvim](https://github.com/declancm/git-scripts.nvim) ![](https://img.shields.io/github/stars/declancm/git-scripts.nvim) ![](https://img.shields.io/github/last-commit/declancm/git-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/git-scripts.nvim)
 - [Odie/gitabra](https://github.com/Odie/gitabra) ![](https://img.shields.io/github/stars/Odie/gitabra) ![](https://img.shields.io/github/last-commit/Odie/gitabra) ![](https://img.shields.io/github/commit-activity/y/Odie/gitabra)
 - [ipod825/igit.nvim](https://github.com/ipod825/igit.nvim) ![](https://img.shields.io/github/stars/ipod825/igit.nvim) ![](https://img.shields.io/github/last-commit/ipod825/igit.nvim) ![](https://img.shields.io/github/commit-activity/y/ipod825/igit.nvim)
@@ -58,6 +58,11 @@
 - [haolian9/digits.nvim](https://github.com/haolian9/digits.nvim) ![](https://img.shields.io/github/stars/haolian9/digits.nvim) ![](https://img.shields.io/github/last-commit/haolian9/digits.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/digits.nvim)
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-tinygit)
 - [GitEdvard/git-worktree.windows.nvim](https://github.com/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/stars/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/git-worktree.windows.nvim)
+
+## gitui
+
+- [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
+- [mikinovation/nvim-gitui](https://github.com/mikinovation/nvim-gitui) ![](https://img.shields.io/github/stars/mikinovation/nvim-gitui) ![](https://img.shields.io/github/last-commit/mikinovation/nvim-gitui) ![](https://img.shields.io/github/commit-activity/y/mikinovation/nvim-gitui)
 
 ## lazygit
 
@@ -193,6 +198,7 @@
 - [ldelossa/gh.nvim](https://github.com/ldelossa/gh.nvim) ![](https://img.shields.io/github/stars/ldelossa/gh.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/gh.nvim)
 - [muryp/nvim-muryp-git](https://github.com/muryp/nvim-muryp-git) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-git) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-git) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-git)
 - [mistweaverco/githubutils.nvim](https://github.com/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/stars/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/githubutils.nvim)
+- [muryp/muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-gh.nvim)
 
 ## GitHub tweaks
 
