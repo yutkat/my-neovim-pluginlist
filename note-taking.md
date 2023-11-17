@@ -52,6 +52,7 @@
 ## Markdown
 
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
+- [jcdampil23/note_navigation.nvim](https://github.com/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/stars/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/last-commit/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdampil23/note_navigation.nvim)
 
 ## ToDo
 
