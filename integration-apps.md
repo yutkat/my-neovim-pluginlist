@@ -204,6 +204,7 @@
 #### AWS
 
 - [lunarxlark/telescope-aws.nvim](https://github.com/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/stars/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/last-commit/lunarxlark/telescope-aws.nvim) ![](https://img.shields.io/github/commit-activity/y/lunarxlark/telescope-aws.nvim)
+- [harryvince/aws-sdk.nvim](https://github.com/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/stars/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/last-commit/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/commit-activity/y/harryvince/aws-sdk.nvim)
 
 ##### S3
 

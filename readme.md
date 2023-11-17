@@ -468,6 +468,7 @@
 - [catgoose/telescope-helpgrep.nvim](https://github.com/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/stars/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/last-commit/catgoose/telescope-helpgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/telescope-helpgrep.nvim)
 - [TobinPalmer/Tip.nvim](https://github.com/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/Tip.nvim)
 - [jtubbenhauer/selfhelp.nvim](https://github.com/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/selfhelp.nvim)
+- [bennypowers/changesets.nvim](https://github.com/bennypowers/changesets.nvim) ![](https://img.shields.io/github/stars/bennypowers/changesets.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/changesets.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/changesets.nvim)
 
 ### checkhealth
 
