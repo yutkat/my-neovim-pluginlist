@@ -8,6 +8,7 @@
   * [Makefile](#makefile)
   * [Cmake](#cmake)
   * [Disassemble](#disassemble)
+  * [Cscope](#cscope)
 
 <!-- tocstop -->
 
@@ -57,3 +58,7 @@
 #### Disassemble
 
 - [hfn92/disassembly.nvim](https://github.com/hfn92/disassembly.nvim) ![](https://img.shields.io/github/stars/hfn92/disassembly.nvim) ![](https://img.shields.io/github/last-commit/hfn92/disassembly.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/disassembly.nvim)
+
+#### Cscope
+
+- [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
