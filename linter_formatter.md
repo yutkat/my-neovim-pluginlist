@@ -7,6 +7,7 @@
   * [Trim Whitespace](#trim-whitespace)
   * [Formatter switcher](#formatter-switcher)
 - [Lint](#lint)
+  * [Grammar](#grammar)
   * [Ignore](#ignore)
 - [null-ls fork](#null-ls-fork)
   * [Global variables](#global-variables)
@@ -59,6 +60,10 @@
 - [nvimdev/guard.nvim(lint)](https://github.com/nvimdev/guard.nvim) ![](https://img.shields.io/github/stars/nvimdev/guard.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/guard.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/guard.nvim)
 - [haolian9/linters.nvim](https://github.com/haolian9/linters.nvim) ![](https://img.shields.io/github/stars/haolian9/linters.nvim) ![](https://img.shields.io/github/last-commit/haolian9/linters.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/linters.nvim)
 - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
+
+### Grammar
+
+- [S1M0N38/dante.nvim](https://github.com/S1M0N38/dante.nvim) ![](https://img.shields.io/github/stars/S1M0N38/dante.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/dante.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/dante.nvim)
 
 ### Ignore
 

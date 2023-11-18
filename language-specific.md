@@ -34,6 +34,7 @@
     + [Clojure](#clojure)
     + [Elixir](#elixir)
     + [Haskell](#haskell)
+    + [Perl](#perl)
     + [Lisp](#lisp)
     + [OCaml](#ocaml)
     + [Nim](#nim)
@@ -68,6 +69,7 @@
 - [Competitive programming](#competitive-programming)
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
+- [Configuration](#configuration)
 
 <!-- tocstop -->
 
@@ -259,6 +261,10 @@
 - [kiyoon/haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/haskell-scope-highlighting.nvim)
 - [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)
 
+### Perl
+
+- [zKurisu/perldoc.nvim](https://github.com/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/stars/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/perldoc.nvim)
+
 ### Lisp
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
@@ -402,3 +408,7 @@
 - [gh-liu/leetcode.nvim](https://github.com/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/stars/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/leetcode.nvim)
 - [Dhanus3133/Leetbuddy.nvim](https://github.com/Dhanus3133/Leetbuddy.nvim) ![](https://img.shields.io/github/stars/Dhanus3133/Leetbuddy.nvim) ![](https://img.shields.io/github/last-commit/Dhanus3133/Leetbuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/Dhanus3133/Leetbuddy.nvim)
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
+
+# Configuration
+
+- [Dronakurl/injectme.nvim](https://github.com/Dronakurl/injectme.nvim) ![](https://img.shields.io/github/stars/Dronakurl/injectme.nvim) ![](https://img.shields.io/github/last-commit/Dronakurl/injectme.nvim) ![](https://img.shields.io/github/commit-activity/y/Dronakurl/injectme.nvim)
