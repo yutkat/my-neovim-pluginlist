@@ -170,7 +170,6 @@
 #### WezTerm
 
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) ![](https://img.shields.io/github/stars/willothy/wezterm.nvim) ![](https://img.shields.io/github/last-commit/willothy/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/wezterm.nvim)
-- [jonboh/wezterm-mux.nvim](https://github.com/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/stars/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/last-commit/jonboh/wezterm-mux.nvim) ![](https://img.shields.io/github/commit-activity/y/jonboh/wezterm-mux.nvim)
 - [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/stars/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/last-commit/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/wezterm-config.nvim)
 
 #### Windows Terminal
