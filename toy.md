@@ -129,6 +129,7 @@
 - [ryleelyman/supercollider.nvim](https://github.com/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/stars/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/last-commit/ryleelyman/supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/ryleelyman/supercollider.nvim)
 - [pogyomo/harmony.nvim](https://github.com/pogyomo/harmony.nvim) ![](https://img.shields.io/github/stars/pogyomo/harmony.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/harmony.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/harmony.nvim)
 - [whleucka/melody.nvim](https://github.com/whleucka/melody.nvim) ![](https://img.shields.io/github/stars/whleucka/melody.nvim) ![](https://img.shields.io/github/last-commit/whleucka/melody.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/melody.nvim)
+- [maxi0604/music.nvim](https://github.com/maxi0604/music.nvim) ![](https://img.shields.io/github/stars/maxi0604/music.nvim) ![](https://img.shields.io/github/last-commit/maxi0604/music.nvim) ![](https://img.shields.io/github/commit-activity/y/maxi0604/music.nvim)
 
 #### MIDI
 

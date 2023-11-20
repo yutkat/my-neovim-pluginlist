@@ -203,6 +203,7 @@
 - [notomo/listdefined.nvim](https://github.com/notomo/listdefined.nvim) ![](https://img.shields.io/github/stars/notomo/listdefined.nvim) ![](https://img.shields.io/github/last-commit/notomo/listdefined.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/listdefined.nvim)
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) ![](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim) ![](https://img.shields.io/github/commit-activity/y/Nexmean/caskey.nvim)
 - [jake-stewart/normon.nvim](https://github.com/jake-stewart/normon.nvim) ![](https://img.shields.io/github/stars/jake-stewart/normon.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/normon.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/normon.nvim)
+- [CrispyBaccoon/keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/stars/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/last-commit/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/CrispyBaccoon/keymaps.nvim)
 
 ## autocmd
 
