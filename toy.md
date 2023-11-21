@@ -65,6 +65,7 @@
 - [jim-fx/sudoku.nvim](https://github.com/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/stars/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/last-commit/jim-fx/sudoku.nvim) ![](https://img.shields.io/github/commit-activity/y/jim-fx/sudoku.nvim)
 - [rafi/telescope-thesaurus.nvim](https://github.com/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/stars/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/last-commit/rafi/telescope-thesaurus.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/telescope-thesaurus.nvim)
 - [efueyo/td.nvim](https://github.com/efueyo/td.nvim) ![](https://img.shields.io/github/stars/efueyo/td.nvim) ![](https://img.shields.io/github/last-commit/efueyo/td.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/td.nvim)
+- [Febri-i/snake.nvim](https://github.com/Febri-i/snake.nvim) ![](https://img.shields.io/github/stars/Febri-i/snake.nvim) ![](https://img.shields.io/github/last-commit/Febri-i/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Febri-i/snake.nvim)
 
 ### Typing
 
