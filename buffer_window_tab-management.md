@@ -170,6 +170,7 @@
 - [meeehdi-dev/win-picker.nvim](https://github.com/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/stars/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/last-commit/meeehdi-dev/win-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/meeehdi-dev/win-picker.nvim)
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-window) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-window) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-window)
 - [haolian9/winjump.nvim](https://github.com/haolian9/winjump.nvim) ![](https://img.shields.io/github/stars/haolian9/winjump.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winjump.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winjump.nvim)
+- [vqcuong/window-picker.nvim](https://github.com/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/stars/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/last-commit/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/vqcuong/window-picker.nvim)
 
 ### Window Management
 

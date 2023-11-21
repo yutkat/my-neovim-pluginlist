@@ -58,6 +58,7 @@
 - [haolian9/digits.nvim](https://github.com/haolian9/digits.nvim) ![](https://img.shields.io/github/stars/haolian9/digits.nvim) ![](https://img.shields.io/github/last-commit/haolian9/digits.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/digits.nvim)
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-tinygit)
 - [GitEdvard/git-worktree.windows.nvim](https://github.com/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/stars/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/git-worktree.windows.nvim)
+- [UncertainSchrodinger/git-worktree.nvim](https://github.com/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/stars/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/UncertainSchrodinger/git-worktree.nvim)
 
 ## gitui
 
