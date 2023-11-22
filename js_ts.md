@@ -6,6 +6,7 @@
   * [string](#string)
   * [Toolchain](#toolchain)
     + [tsc(TypeScript compiler)](#tsctypescript-compiler)
+    + [Type check](#type-check)
     + [eslint](#eslint)
     + [Formatter](#formatter)
     + [tsserver](#tsserver)
@@ -56,6 +57,10 @@
 ##### tsc(TypeScript compiler)
 
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/tsc.nvim)
+
+##### Type check
+
+- [jellydn/typecheck.nvim](https://github.com/jellydn/typecheck.nvim) ![](https://img.shields.io/github/stars/jellydn/typecheck.nvim) ![](https://img.shields.io/github/last-commit/jellydn/typecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/typecheck.nvim)
 
 ##### eslint
 

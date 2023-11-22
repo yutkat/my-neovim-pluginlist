@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Jump](#jump)
+  * [Error](#error)
   * [Brackets](#brackets)
 - [Jump number](#jump-number)
 - [Go to File](#go-to-file)
@@ -18,6 +19,10 @@
 - [jonatan-branting/nvim-better-n](https://github.com/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/stars/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/last-commit/jonatan-branting/nvim-better-n) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/nvim-better-n)
 - [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
 - [xiaoshihou514/squirrel.nvim](https://github.com/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/stars/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/last-commit/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoshihou514/squirrel.nvim)
+
+### Error
+
+- [Dr-42/error-jump.nvim](https://github.com/Dr-42/error-jump.nvim) ![](https://img.shields.io/github/stars/Dr-42/error-jump.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/error-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/error-jump.nvim)
 
 ### Brackets
 

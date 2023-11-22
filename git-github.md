@@ -26,6 +26,7 @@
   * [git grep](#git-grep)
   * [search](#search)
   * [worktree](#worktree)
+  * [submodule](#submodule)
   * [git utils](#git-utils)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
@@ -186,6 +187,10 @@
 ## worktree
 
 - [Mohanbarman/g-worktree.nvim](https://github.com/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/stars/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/last-commit/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohanbarman/g-worktree.nvim)
+
+## submodule
+
+- [agoodshort/telescope-git-submodules.nvim](https://github.com/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/stars/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/last-commit/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/commit-activity/y/agoodshort/telescope-git-submodules.nvim)
 
 ## git utils
 

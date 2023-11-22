@@ -17,8 +17,9 @@
   * [BQN](#bqn)
   * [Skeleton](#skeleton)
   * [make](#make)
-  * [just](#just)
+    + [just](#just)
     + [xmake](#xmake)
+    + [xc](#xc)
   * [Bazel](#bazel)
   * [ripgrep](#ripgrep)
   * [locate](#locate)
@@ -118,7 +119,7 @@
 - [ChSotiriou/nvim-telemake](https://github.com/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/stars/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/last-commit/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/commit-activity/y/ChSotiriou/nvim-telemake)
 - [LittleAmara/make.nvim](https://github.com/LittleAmara/make.nvim) ![](https://img.shields.io/github/stars/LittleAmara/make.nvim) ![](https://img.shields.io/github/last-commit/LittleAmara/make.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleAmara/make.nvim)
 
-#### just
+##### just
 
 - [IndianBoy42/tree-sitter-just](https://github.com/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/stars/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/last-commit/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/commit-activity/y/IndianBoy42/tree-sitter-just)
 
@@ -126,6 +127,10 @@
 
 - [CnsMaple/xmake.nvim](https://github.com/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/stars/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/last-commit/CnsMaple/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/CnsMaple/xmake.nvim)
 - [Mythos-404/xmake.nvim](https://github.com/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/stars/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/last-commit/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mythos-404/xmake.nvim)
+
+##### xc
+
+- [joerdav/telescope-xc.nvim](https://github.com/joerdav/telescope-xc.nvim) ![](https://img.shields.io/github/stars/joerdav/telescope-xc.nvim) ![](https://img.shields.io/github/last-commit/joerdav/telescope-xc.nvim) ![](https://img.shields.io/github/commit-activity/y/joerdav/telescope-xc.nvim)
 
 #### Bazel
 
