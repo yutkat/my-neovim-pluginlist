@@ -119,6 +119,7 @@
 - [SalOrak/whaler.nvim](https://github.com/SalOrak/whaler.nvim) ![](https://img.shields.io/github/stars/SalOrak/whaler.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/whaler.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/whaler.nvim)
 - [Sharonex/grape.nvim](https://github.com/Sharonex/grape.nvim) ![](https://img.shields.io/github/stars/Sharonex/grape.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/grape.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/grape.nvim)
 - [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mangelozzi/rgflow.nvim)
+- [ctfrancia/locate.nvim](https://github.com/ctfrancia/locate.nvim) ![](https://img.shields.io/github/stars/ctfrancia/locate.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/locate.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/locate.nvim)
 
 ## AST
 
