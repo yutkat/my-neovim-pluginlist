@@ -12,6 +12,7 @@
 
 - [RKBethke/spellsync.nvim](https://github.com/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/stars/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/spellsync.nvim)
 - [Jan9103/download-lang-files.nvim](https://github.com/Jan9103/download-lang-files.nvim) ![](https://img.shields.io/github/stars/Jan9103/download-lang-files.nvim) ![](https://img.shields.io/github/last-commit/Jan9103/download-lang-files.nvim) ![](https://img.shields.io/github/commit-activity/y/Jan9103/download-lang-files.nvim)
+- [cuducos/spellfile.nvim](https://github.com/cuducos/spellfile.nvim) ![](https://img.shields.io/github/stars/cuducos/spellfile.nvim) ![](https://img.shields.io/github/last-commit/cuducos/spellfile.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/spellfile.nvim)
 
 #### Spellcheck
 

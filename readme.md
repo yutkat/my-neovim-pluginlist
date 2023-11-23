@@ -795,6 +795,7 @@
 
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/deferred-clipboard.nvim)
 - [tanchihpin0517/cursorhold-timeout.nvim](https://github.com/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/stars/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/last-commit/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/tanchihpin0517/cursorhold-timeout.nvim)
+- [BranimirE/fix-auto-scroll.nvim](https://github.com/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/stars/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/last-commit/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/BranimirE/fix-auto-scroll.nvim)
 
 ## [Integration with other apps](./integration-apps.md)
 
