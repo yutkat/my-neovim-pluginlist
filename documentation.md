@@ -59,6 +59,7 @@
 - [5eqn/nothura.nvim](https://github.com/5eqn/nothura.nvim) ![](https://img.shields.io/github/stars/5eqn/nothura.nvim) ![](https://img.shields.io/github/last-commit/5eqn/nothura.nvim) ![](https://img.shields.io/github/commit-activity/y/5eqn/nothura.nvim)
 - [PhilippFeO/telescope-filelinks.nvim](https://github.com/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/telescope-filelinks.nvim)
 - [muryp/muryp-link.nvim](https://github.com/muryp/muryp-link.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-link.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-link.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-link.nvim)
+- [RunfengTsui/wiki.nvim](https://github.com/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/stars/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/last-commit/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/RunfengTsui/wiki.nvim)
 
 #### Markdown header
 
@@ -179,6 +180,7 @@
 
 - [marioortizmanero/adoc-pdf-live.nvim](https://github.com/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/stars/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/last-commit/marioortizmanero/adoc-pdf-live.nvim) ![](https://img.shields.io/github/commit-activity/y/marioortizmanero/adoc-pdf-live.nvim)
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/stars/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/last-commit/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-asciidoc-preview)
+- [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 
 ### PDF
 
