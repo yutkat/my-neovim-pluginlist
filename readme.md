@@ -441,6 +441,7 @@
 - [desdic/macrothis.nvim](https://github.com/desdic/macrothis.nvim) ![](https://img.shields.io/github/stars/desdic/macrothis.nvim) ![](https://img.shields.io/github/last-commit/desdic/macrothis.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/macrothis.nvim)
 - [jake-stewart/recursive-macro.nvim](https://github.com/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/stars/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/recursive-macro.nvim)
 - [1riz/telescope-macros.nvim](https://github.com/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/stars/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/last-commit/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/1riz/telescope-macros.nvim)
+- [jesseleite/nvim-macroni](https://github.com/jesseleite/nvim-macroni) ![](https://img.shields.io/github/stars/jesseleite/nvim-macroni) ![](https://img.shields.io/github/last-commit/jesseleite/nvim-macroni) ![](https://img.shields.io/github/commit-activity/y/jesseleite/nvim-macroni)
 
 ### Errorformat
 
