@@ -50,6 +50,7 @@
 - [rmagatti/gx-extended.nvim](https://github.com/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/stars/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/gx-extended.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/gx-extended.nvim)
 - [mrjones2014/lua-gf.nvim](https://github.com/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/stars/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/lua-gf.nvim)
 - [TobinPalmer/BetterGx.nvim](https://github.com/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/BetterGx.nvim)
+- [xuanan92/gx.nvim](https://github.com/xuanan92/gx.nvim) ![](https://img.shields.io/github/stars/xuanan92/gx.nvim) ![](https://img.shields.io/github/last-commit/xuanan92/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/xuanan92/gx.nvim)
 
 ## Simple
 

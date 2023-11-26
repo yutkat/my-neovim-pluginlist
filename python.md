@@ -8,7 +8,7 @@
   * [test](#test)
   * [import](#import)
   * [REPL](#repl)
-  * [Debugger](#debugger)
+  * [Debug](#debug)
   * [build manager](#build-manager)
   * [venv](#venv)
   * [Jupyter](#jupyter)
@@ -53,9 +53,10 @@
 - [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 
-#### Debugger
+#### Debug
 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
+- [camilotorresf/icecream.nvim](https://github.com/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/stars/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/last-commit/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/commit-activity/y/camilotorresf/icecream.nvim)
 
 #### build manager
 

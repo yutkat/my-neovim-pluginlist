@@ -255,6 +255,7 @@
 - [chujDK/bootlin.nvim](https://github.com/chujDK/bootlin.nvim) ![](https://img.shields.io/github/stars/chujDK/bootlin.nvim) ![](https://img.shields.io/github/last-commit/chujDK/bootlin.nvim) ![](https://img.shields.io/github/commit-activity/y/chujDK/bootlin.nvim)
 - [wesleimp/elixir-keys.nvim](https://github.com/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/stars/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/elixir-keys.nvim)
 - [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/elixir-extras.nvim)
+- [Danielwsx64/elixir-dev.nvim](https://github.com/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/stars/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/last-commit/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/Danielwsx64/elixir-dev.nvim)
 
 ### Haskell
 
