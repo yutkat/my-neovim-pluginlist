@@ -27,6 +27,7 @@
   * [Local LSP Config](#local-lsp-config)
 - [Command](#command)
   * [Disable/Enable](#disableenable)
+  * [Handler](#handler)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
 
@@ -203,6 +204,10 @@
 ### Disable/Enable
 
 - [adoyle-h/lsp-toggle.nvim](https://github.com/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/lsp-toggle.nvim)
+
+### Handler
+
+- [notomo/lsp-handler-intercept.nvim](https://github.com/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/stars/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/last-commit/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/lsp-handler-intercept.nvim)
 
 ## Pre-configuration
 
