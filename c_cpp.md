@@ -9,6 +9,7 @@
   * [Cmake](#cmake)
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
+  * [OpenMP](#openmp)
 
 <!-- tocstop -->
 
@@ -63,3 +64,8 @@
 #### Cscope
 
 - [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
+
+#### OpenMP
+
+- [Horan-Z/OMP-Engineer.nvim](https://github.com/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/stars/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/last-commit/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/commit-activity/y/Horan-Z/OMP-Engineer.nvim)
+
