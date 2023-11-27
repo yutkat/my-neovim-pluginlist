@@ -189,9 +189,6 @@
 #### Terraform
 
 - [azratul/devops-tools.nvim](https://github.com/azratul/devops-tools.nvim) ![](https://img.shields.io/github/stars/azratul/devops-tools.nvim) ![](https://img.shields.io/github/last-commit/azratul/devops-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/devops-tools.nvim)
-- [walbi-malbi/telescope-tfsec.nvim](https://github.com/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/stars/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/last-commit/walbi-malbi/telescope-tfsec.nvim) ![](https://img.shields.io/github/commit-activity/y/walbi-malbi/telescope-tfsec.nvim)
-- [walbi-malbi/telescope-terraform-doc.nvim](https://github.com/walbi-malbi/telescope-terraform-doc.nvim) ![](https://img.shields.io/github/stars/walbi-malbi/telescope-terraform-doc.nvim) ![](https://img.shields.io/github/last-commit/walbi-malbi/telescope-terraform-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/walbi-malbi/telescope-terraform-doc.nvim)
-- [walbi-malbi/terraform-doc.nvim](https://github.com/walbi-malbi/terraform-doc.nvim) ![](https://img.shields.io/github/stars/walbi-malbi/terraform-doc.nvim) ![](https://img.shields.io/github/last-commit/walbi-malbi/terraform-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/walbi-malbi/terraform-doc.nvim)
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/stars/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/last-commit/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/mvaldes14/terraform.nvim)
 
 #### Ansible
