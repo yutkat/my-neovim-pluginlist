@@ -76,6 +76,7 @@
 
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/jupynium.nvim)
 - [lkhphuc/jupyter-kernel.nvim](https://github.com/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/stars/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/last-commit/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/commit-activity/y/lkhphuc/jupyter-kernel.nvim)
+- [GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/stars/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/last-commit/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/commit-activity/y/GCBallesteros/jupytext.nvim)
 
 #### Anaconda
 
