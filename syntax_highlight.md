@@ -70,6 +70,7 @@
 - [duboisf/crepuscule.nvim](https://github.com/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/stars/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/last-commit/duboisf/crepuscule.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/crepuscule.nvim)
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) ![](https://img.shields.io/github/stars/zaldih/themery.nvim) ![](https://img.shields.io/github/last-commit/zaldih/themery.nvim) ![](https://img.shields.io/github/commit-activity/y/zaldih/themery.nvim)
 - [dimitriosvalodimos/chameleon.nvim](https://github.com/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/stars/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/last-commit/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/commit-activity/y/dimitriosvalodimos/chameleon.nvim)
+- [runih/colorscheme-picker.nvim](https://github.com/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/colorscheme-picker.nvim)
 
 ### Colorscheme overwrite
 
