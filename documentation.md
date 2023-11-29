@@ -51,6 +51,7 @@
 - [oncomouse/markdown.nvim](https://github.com/oncomouse/markdown.nvim) ![](https://img.shields.io/github/stars/oncomouse/markdown.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/markdown.nvim)
 - [hneutr/hnetxt-nvim](https://github.com/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/stars/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/last-commit/hneutr/hnetxt-nvim) ![](https://img.shields.io/github/commit-activity/y/hneutr/hnetxt-nvim)
 - [alanfvn/neomark.nvim](https://github.com/alanfvn/neomark.nvim) ![](https://img.shields.io/github/stars/alanfvn/neomark.nvim) ![](https://img.shields.io/github/last-commit/alanfvn/neomark.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfvn/neomark.nvim)
+- [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/stars/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/last-commit/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/tadmccorkle/markdown.nvim)
 
 #### Markdown link
 
