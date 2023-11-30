@@ -61,6 +61,7 @@
 - [PhilippFeO/telescope-filelinks.nvim](https://github.com/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/telescope-filelinks.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/telescope-filelinks.nvim)
 - [muryp/muryp-link.nvim](https://github.com/muryp/muryp-link.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-link.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-link.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-link.nvim)
 - [RunfengTsui/wiki.nvim](https://github.com/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/stars/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/last-commit/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/RunfengTsui/wiki.nvim)
+- [Marcos-cat/traverse.nvim](https://github.com/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/stars/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/last-commit/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/commit-activity/y/Marcos-cat/traverse.nvim)
 
 #### Markdown header
 

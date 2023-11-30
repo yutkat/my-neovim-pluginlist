@@ -19,6 +19,8 @@
     + [zsh](#zsh)
     + [fish](#fish)
     + [nushell](#nushell)
+  * [GUI](#gui)
+    + [Avalonia](#avalonia)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
     + [WezTerm](#wezterm)
@@ -158,6 +160,12 @@
 
 - [zioroboco/nu-ls.nvim](https://github.com/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/stars/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/last-commit/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/zioroboco/nu-ls.nvim)
 
+### GUI
+
+#### Avalonia
+
+- [Johanw123/avalonia.nvim](https://github.com/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/stars/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/last-commit/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/commit-activity/y/Johanw123/avalonia.nvim)
+
 ### Terminal
 
 #### Kitty
@@ -211,6 +219,7 @@
 ##### CloudWatch
 
 - [DiscretePython/cw.nvim](https://github.com/DiscretePython/cw.nvim) ![](https://img.shields.io/github/stars/DiscretePython/cw.nvim) ![](https://img.shields.io/github/last-commit/DiscretePython/cw.nvim) ![](https://img.shields.io/github/commit-activity/y/DiscretePython/cw.nvim)
+- [michaelPotter/cloudwatchInsights.nvim](https://github.com/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/stars/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/cloudwatchInsights.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/cloudwatchInsights.nvim)
 
 #### Azure
 
