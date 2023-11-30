@@ -411,6 +411,7 @@
 - [jvgrootveld/telescope-zoxide](https://github.com/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/stars/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/last-commit/jvgrootveld/telescope-zoxide) ![](https://img.shields.io/github/commit-activity/y/jvgrootveld/telescope-zoxide)
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) ![](https://img.shields.io/github/stars/Zane-/cder.nvim) ![](https://img.shields.io/github/last-commit/Zane-/cder.nvim) ![](https://img.shields.io/github/commit-activity/y/Zane-/cder.nvim)
 - [9999years/broot.nvim](https://github.com/9999years/broot.nvim) ![](https://img.shields.io/github/stars/9999years/broot.nvim) ![](https://img.shields.io/github/last-commit/9999years/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/9999years/broot.nvim)
+- [lexay/telescope-zoxide.nvim](https://github.com/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-zoxide.nvim)
 
 #### z
 
