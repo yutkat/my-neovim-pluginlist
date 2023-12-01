@@ -11,6 +11,7 @@
   * [Obsidian](#obsidian)
   * [Google Keep](#google-keep)
   * [Dendron](#dendron)
+  * [Linear.app](#linearapp)
   * [BibleGateway](#biblegateway)
   * [Wiki](#wiki)
   * [VimWiki](#vimwiki)
@@ -110,6 +111,10 @@
 ## Dendron
 
 - [namjul/dendron.nvim](https://github.com/namjul/dendron.nvim) ![](https://img.shields.io/github/stars/namjul/dendron.nvim) ![](https://img.shields.io/github/last-commit/namjul/dendron.nvim) ![](https://img.shields.io/github/commit-activity/y/namjul/dendron.nvim)
+
+## Linear.app
+
+- [alma3lol/linear.nvim](https://github.com/alma3lol/linear.nvim) ![](https://img.shields.io/github/stars/alma3lol/linear.nvim) ![](https://img.shields.io/github/last-commit/alma3lol/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/alma3lol/linear.nvim)
 
 ## BibleGateway
 

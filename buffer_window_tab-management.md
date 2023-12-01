@@ -135,6 +135,7 @@
 - [chrisgrieser/nvim-early-retirement](https://github.com/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-early-retirement) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-early-retirement)
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) ![](https://img.shields.io/github/stars/axkirillov/hbac.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/hbac.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/hbac.nvim)
 - [AckslD/bufmax.nvim](https://github.com/AckslD/bufmax.nvim) ![](https://img.shields.io/github/stars/AckslD/bufmax.nvim) ![](https://img.shields.io/github/last-commit/AckslD/bufmax.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/bufmax.nvim)
+- [pierregoutheraud/buffers-auto-close.nvim](https://github.com/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/stars/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/last-commit/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/commit-activity/y/pierregoutheraud/buffers-auto-close.nvim)
 
 #### access control
 

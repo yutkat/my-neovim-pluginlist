@@ -204,6 +204,7 @@
 - [Nexmean/caskey.nvim](https://github.com/Nexmean/caskey.nvim) ![](https://img.shields.io/github/stars/Nexmean/caskey.nvim) ![](https://img.shields.io/github/last-commit/Nexmean/caskey.nvim) ![](https://img.shields.io/github/commit-activity/y/Nexmean/caskey.nvim)
 - [jake-stewart/normon.nvim](https://github.com/jake-stewart/normon.nvim) ![](https://img.shields.io/github/stars/jake-stewart/normon.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/normon.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/normon.nvim)
 - [CrispyBaccoon/keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/stars/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/last-commit/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/CrispyBaccoon/keymaps.nvim)
+- [kamalsacranie/nvim-mapper](https://github.com/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/stars/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/last-commit/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/nvim-mapper)
 
 ## autocmd
 
