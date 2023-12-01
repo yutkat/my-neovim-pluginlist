@@ -25,6 +25,7 @@
 - [rafael-almeida/pomodoro.nvim](https://github.com/rafael-almeida/pomodoro.nvim) ![](https://img.shields.io/github/stars/rafael-almeida/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/rafael-almeida/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/rafael-almeida/pomodoro.nvim)
 - [linguini1/pulse.nvim](https://github.com/linguini1/pulse.nvim) ![](https://img.shields.io/github/stars/linguini1/pulse.nvim) ![](https://img.shields.io/github/last-commit/linguini1/pulse.nvim) ![](https://img.shields.io/github/commit-activity/y/linguini1/pulse.nvim)
 - [ttak0422/piccolo-pomodoro.nvim](https://github.com/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/stars/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/piccolo-pomodoro.nvim)
+- [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) ![](https://img.shields.io/github/stars/epwalsh/pomo.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/pomo.nvim)
 
 ## Alarm
 

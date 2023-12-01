@@ -49,6 +49,7 @@
       - [Rofi](#rofi)
       - [xrandr](#xrandr)
     + [Windows](#windows)
+      - [Explorer](#explorer)
       - [Everything](#everything)
       - [AutoHotKey](#autohotkey)
       - [WSL](#wsl)
@@ -254,6 +255,7 @@
 ##### Nix
 
 - [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ![](https://img.shields.io/github/stars/calops/hmts.nvim) ![](https://img.shields.io/github/last-commit/calops/hmts.nvim) ![](https://img.shields.io/github/commit-activity/y/calops/hmts.nvim)
+- [b-src/lazy-nix-helper.nvim](https://github.com/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/stars/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/last-commit/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/b-src/lazy-nix-helper.nvim)
 
 ##### drun
 
@@ -280,6 +282,10 @@
 - [HannHank/monitor.nvim](https://github.com/HannHank/monitor.nvim) ![](https://img.shields.io/github/stars/HannHank/monitor.nvim) ![](https://img.shields.io/github/last-commit/HannHank/monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/HannHank/monitor.nvim)
 
 #### Windows
+
+##### Explorer
+
+- [srpmtt/nvim-open-in-explorer](https://github.com/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-open-in-explorer)
 
 ##### Everything
 
