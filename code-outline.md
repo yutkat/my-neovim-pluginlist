@@ -6,6 +6,7 @@
 - [Call Hierarchy](#call-hierarchy)
 - [Type Hierarchy](#type-hierarchy)
 - [Breadcrumbs](#breadcrumbs)
+- [Code Block Separater](#code-block-separater)
 
 <!-- tocstop -->
 
@@ -38,3 +39,7 @@
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navic) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navic) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navic)
 - [nvimdev/lspsaga.nvim(symbols)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/dropbar.nvim)
+
+### Code Block Separater
+
+- [yantongl/separator.nvim](https://github.com/yantongl/separator.nvim) ![](https://img.shields.io/github/stars/yantongl/separator.nvim) ![](https://img.shields.io/github/last-commit/yantongl/separator.nvim) ![](https://img.shields.io/github/commit-activity/y/yantongl/separator.nvim)
