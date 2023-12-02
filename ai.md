@@ -4,7 +4,6 @@
 
 - [AI Coding](#ai-coding)
   * [OpenAI](#openai)
-    + [OpenAI Review](#openai-review)
   * [LLM](#llm)
     + [Generate Doc](#generate-doc)
       - [Mintlify Writer](#mintlify-writer)
@@ -15,13 +14,15 @@
   * [Google Bard](#google-bard)
   * [Mentat](#mentat)
   * [Codeium](#codeium)
-- [Machine Learning](#machine-learning)
+  * [Machine Learning](#machine-learning)
+- [Chat](#chat)
+- [OpenAI Review](#openai-review)
 
 <!-- tocstop -->
 
-### AI Coding
+## AI Coding
 
-#### OpenAI
+### OpenAI
 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) ![](https://img.shields.io/github/stars/aduros/ai.vim) ![](https://img.shields.io/github/last-commit/aduros/ai.vim) ![](https://img.shields.io/github/commit-activity/y/aduros/ai.vim)
@@ -55,23 +56,19 @@
 - [youshyee/gpt.nvim](https://github.com/youshyee/gpt.nvim) ![](https://img.shields.io/github/stars/youshyee/gpt.nvim) ![](https://img.shields.io/github/last-commit/youshyee/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/youshyee/gpt.nvim)
 - [CamdenClark/carrier.nvim](https://github.com/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/stars/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/last-commit/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/carrier.nvim)
 
-##### OpenAI Review
-
-- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
-
-#### LLM
+### LLM
 
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) ![](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/gen.nvim)
 - [martinra/facileLLM.nvim](https://github.com/martinra/facileLLM.nvim) ![](https://img.shields.io/github/stars/martinra/facileLLM.nvim) ![](https://img.shields.io/github/last-commit/martinra/facileLLM.nvim) ![](https://img.shields.io/github/commit-activity/y/martinra/facileLLM.nvim)
 - [bakks/butterfish.nvim](https://github.com/bakks/butterfish.nvim) ![](https://img.shields.io/github/stars/bakks/butterfish.nvim) ![](https://img.shields.io/github/last-commit/bakks/butterfish.nvim) ![](https://img.shields.io/github/commit-activity/y/bakks/butterfish.nvim)
 
-##### Generate Doc
+#### Generate Doc
 
-###### Mintlify Writer
+##### Mintlify Writer
 
 - [moozd/aidoc.nvim](https://github.com/moozd/aidoc.nvim) ![](https://img.shields.io/github/stars/moozd/aidoc.nvim) ![](https://img.shields.io/github/last-commit/moozd/aidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/moozd/aidoc.nvim)
 
-#### Llama
+### Llama
 
 - [jpmcb/nvim-llama](https://github.com/jpmcb/nvim-llama) ![](https://img.shields.io/github/stars/jpmcb/nvim-llama) ![](https://img.shields.io/github/last-commit/jpmcb/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/jpmcb/nvim-llama)
 - [marco-souza/ollero.nvim](https://github.com/marco-souza/ollero.nvim) ![](https://img.shields.io/github/stars/marco-souza/ollero.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ollero.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ollero.nvim)
@@ -79,32 +76,40 @@
 - [ziontee113/ollama.nvim](https://github.com/ziontee113/ollama.nvim) ![](https://img.shields.io/github/stars/ziontee113/ollama.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/ollama.nvim)
 - [dustinblackman/oatmeal.nvim](https://github.com/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/stars/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/last-commit/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/commit-activity/y/dustinblackman/oatmeal.nvim)
 
-#### Ollama
+### Ollama
 
 - [rheinardkorf/nvim-ollama](https://github.com/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/stars/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/last-commit/rheinardkorf/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/rheinardkorf/nvim-ollama)
 - [nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim) ![](https://img.shields.io/github/stars/nomnivore/ollama.nvim) ![](https://img.shields.io/github/last-commit/nomnivore/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/nomnivore/ollama.nvim)
 - [huynle/ogpt.nvim](https://github.com/huynle/ogpt.nvim) ![](https://img.shields.io/github/stars/huynle/ogpt.nvim) ![](https://img.shields.io/github/last-commit/huynle/ogpt.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/ogpt.nvim)
 
-#### Aider
+### Aider
 
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) ![](https://img.shields.io/github/stars/joshuavial/aider.nvim) ![](https://img.shields.io/github/last-commit/joshuavial/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuavial/aider.nvim)
 
-#### Otter
+### Otter
 
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ![](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/otter.nvim)
 
-#### Google Bard
+### Google Bard
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
 
-#### Mentat
+### Mentat
 
 - [hesiod-au/mentat.nvim](https://github.com/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/stars/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/mentat.nvim)
 
-#### Codeium 
+### Codeium 
 
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 
 ### Machine Learning
 
 - [dav1d-wright/nvim-dap-cv-image-viewer](https://github.com/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/stars/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/last-commit/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/nvim-dap-cv-image-viewer)
+
+## Chat
+
+- [mikeslattery/genie.nvim](https://github.com/mikeslattery/genie.nvim) ![](https://img.shields.io/github/stars/mikeslattery/genie.nvim) ![](https://img.shields.io/github/last-commit/mikeslattery/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/mikeslattery/genie.nvim)
+
+## OpenAI Review
+
+- [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
