@@ -23,6 +23,7 @@
 - [cristianoliveira/snipgpt.nvim](https://github.com/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/snipgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/snipgpt.nvim)
 - [haolian9/parrot.nvim](https://github.com/haolian9/parrot.nvim) ![](https://img.shields.io/github/stars/haolian9/parrot.nvim) ![](https://img.shields.io/github/last-commit/haolian9/parrot.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/parrot.nvim)
 - [jake-stewart/shnip.nvim](https://github.com/jake-stewart/shnip.nvim) ![](https://img.shields.io/github/stars/jake-stewart/shnip.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/shnip.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/shnip.nvim)
+- [garymjr/nvim-snippets](https://github.com/garymjr/nvim-snippets) ![](https://img.shields.io/github/stars/garymjr/nvim-snippets) ![](https://img.shields.io/github/last-commit/garymjr/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/garymjr/nvim-snippets)
 
 #### Snippet definitions
 
