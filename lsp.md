@@ -16,6 +16,7 @@
     + [Formatting](#formatting)
     + [Rename](#rename)
     + [textDocument](#textdocument)
+      - [CodeLens](#codelens)
       - [LinkedEditingRange](#linkededitingrange)
     + [window](#window)
       - [logMessage](#logmessage)
@@ -132,7 +133,6 @@
 - [lvimuser/lsp-inlayhints.nvim](https://github.com/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/stars/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/last-commit/lvimuser/lsp-inlayhints.nvim) ![](https://img.shields.io/github/commit-activity/y/lvimuser/lsp-inlayhints.nvim)
 - [simrat39/inlay-hints.nvim](https://github.com/simrat39/inlay-hints.nvim) ![](https://img.shields.io/github/stars/simrat39/inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/simrat39/inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/inlay-hints.nvim)
 - [Daniel-Esteban/nvim-inlay-hints](https://github.com/Daniel-Esteban/nvim-inlay-hints) ![](https://img.shields.io/github/stars/Daniel-Esteban/nvim-inlay-hints) ![](https://img.shields.io/github/last-commit/Daniel-Esteban/nvim-inlay-hints) ![](https://img.shields.io/github/commit-activity/y/Daniel-Esteban/nvim-inlay-hints)
-- [phenax/nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/stars/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/last-commit/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/commit-activity/y/phenax/nvim-extra-codelens)
 - [27justin/virtuality.nvim](https://github.com/27justin/virtuality.nvim) ![](https://img.shields.io/github/stars/27justin/virtuality.nvim) ![](https://img.shields.io/github/last-commit/27justin/virtuality.nvim) ![](https://img.shields.io/github/commit-activity/y/27justin/virtuality.nvim)
 - [kazenix/lsp_hints.nvim](https://github.com/kazenix/lsp_hints.nvim) ![](https://img.shields.io/github/stars/kazenix/lsp_hints.nvim) ![](https://img.shields.io/github/last-commit/kazenix/lsp_hints.nvim) ![](https://img.shields.io/github/commit-activity/y/kazenix/lsp_hints.nvim)
 - [soulis-1256/hoverhints.nvim](https://github.com/soulis-1256/hoverhints.nvim) ![](https://img.shields.io/github/stars/soulis-1256/hoverhints.nvim) ![](https://img.shields.io/github/last-commit/soulis-1256/hoverhints.nvim) ![](https://img.shields.io/github/commit-activity/y/soulis-1256/hoverhints.nvim)
@@ -158,6 +158,11 @@
 - [luckasRanarison/neo-rename.nvim](https://github.com/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/neo-rename.nvim)
 
 #### textDocument
+
+##### CodeLens
+
+- [phenax/nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/stars/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/last-commit/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/commit-activity/y/phenax/nvim-extra-codelens)
+- [SvSchen/clh.nvim](https://github.com/SvSchen/clh.nvim) ![](https://img.shields.io/github/stars/SvSchen/clh.nvim) ![](https://img.shields.io/github/last-commit/SvSchen/clh.nvim) ![](https://img.shields.io/github/commit-activity/y/SvSchen/clh.nvim)
 
 ##### LinkedEditingRange
 

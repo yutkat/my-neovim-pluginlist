@@ -128,6 +128,7 @@
   * [EDITOR](#editor)
   * [Tutorial](#tutorial)
   * [Analytics](#analytics)
+    + [Typing speed](#typing-speed)
   * [Market place](#market-place)
   * [IDE feature](#ide-feature)
     + [Code::Stats](#codestats)
@@ -748,6 +749,10 @@
 - [Lamby777/timewasted.nvim](https://github.com/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/stars/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/last-commit/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/commit-activity/y/Lamby777/timewasted.nvim)
 - [OscarCreator/keystats.nvim](https://github.com/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/stars/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/keystats.nvim)
 - [FriedemannG/klog.nvim](https://github.com/FriedemannG/klog.nvim) ![](https://img.shields.io/github/stars/FriedemannG/klog.nvim) ![](https://img.shields.io/github/last-commit/FriedemannG/klog.nvim) ![](https://img.shields.io/github/commit-activity/y/FriedemannG/klog.nvim)
+
+#### Typing speed
+
+- [JakobSachs/typing-metrics.nvim](https://github.com/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/stars/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/last-commit/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/JakobSachs/typing-metrics.nvim)
 
 ### Market place
 

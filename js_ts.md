@@ -57,6 +57,7 @@
 ##### tsc(TypeScript compiler)
 
 - [dmmulroy/tsc.nvim](https://github.com/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/stars/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/tsc.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/tsc.nvim)
+- [OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/stars/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/OlegGulevskyy/better-ts-errors.nvim)
 
 ##### Type check
 

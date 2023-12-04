@@ -23,6 +23,7 @@
     + [Unreal](#unreal)
     + [Java](#java)
       - [rename](#rename)
+      - [Debugger](#debugger)
       - [Maven](#maven)
       - [Gradle](#gradle)
       - [Spring Boot](#spring-boot)
@@ -194,10 +195,15 @@
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
 - [nvim-java/nvim-java-core](https://github.com/nvim-java/nvim-java-core) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-core) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-core) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-core)
 - [codegik/nvim-unused](https://github.com/codegik/nvim-unused) ![](https://img.shields.io/github/stars/codegik/nvim-unused) ![](https://img.shields.io/github/last-commit/codegik/nvim-unused) ![](https://img.shields.io/github/commit-activity/y/codegik/nvim-unused)
+- [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
 
 #### rename
 
 - [simaxme/java-rename.nvim](https://github.com/simaxme/java-rename.nvim) ![](https://img.shields.io/github/stars/simaxme/java-rename.nvim) ![](https://img.shields.io/github/last-commit/simaxme/java-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/simaxme/java-rename.nvim)
+
+#### Debugger
+
+- [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
 
 #### Maven
 
