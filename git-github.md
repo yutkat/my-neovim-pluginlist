@@ -245,6 +245,7 @@
 - [haolian9/thislineongithub.nvim](https://github.com/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/stars/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/last-commit/haolian9/thislineongithub.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/thislineongithub.nvim)
 - [mrshmllow/open-handlers.nvim](https://github.com/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/stars/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/last-commit/mrshmllow/open-handlers.nvim) ![](https://img.shields.io/github/commit-activity/y/mrshmllow/open-handlers.nvim)
 - [robgyiv/git-web-line.nvim](https://github.com/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/stars/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/last-commit/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/commit-activity/y/robgyiv/git-web-line.nvim)
+- [ushmz/github-link.nvim](https://github.com/ushmz/github-link.nvim) ![](https://img.shields.io/github/stars/ushmz/github-link.nvim) ![](https://img.shields.io/github/last-commit/ushmz/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/github-link.nvim)
 
 ### Image
 

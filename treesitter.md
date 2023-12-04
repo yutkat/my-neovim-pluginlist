@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Treesitter](#treesitter)
+  * [Installer](#installer)
 
 <!-- tocstop -->
 
@@ -15,3 +16,7 @@
 - [ziontee113/query-secretary](https://github.com/ziontee113/query-secretary) ![](https://img.shields.io/github/stars/ziontee113/query-secretary) ![](https://img.shields.io/github/last-commit/ziontee113/query-secretary) ![](https://img.shields.io/github/commit-activity/y/ziontee113/query-secretary)
 - [NFrid/treesitter-utils](https://github.com/NFrid/treesitter-utils) ![](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![](https://img.shields.io/github/last-commit/NFrid/treesitter-utils) ![](https://img.shields.io/github/commit-activity/y/NFrid/treesitter-utils)
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) ![](https://img.shields.io/github/stars/roobert/node-type.nvim) ![](https://img.shields.io/github/last-commit/roobert/node-type.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/node-type.nvim)
+
+### Installer
+
+- [nazo6/ts-query-installer.nvim](https://github.com/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/stars/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/last-commit/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/ts-query-installer.nvim)
