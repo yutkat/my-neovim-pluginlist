@@ -120,6 +120,7 @@
   * [Scratchpad](#scratchpad)
   * [Performance Test](#performance-test)
   * [Security](#security)
+    + [Privacy](#privacy)
   * [Hex](#hex)
     + [Hex Editor](#hex-editor)
   * [Mail](#mail)
@@ -203,6 +204,7 @@
 
 - [Grazfather/blinker.nvim](https://github.com/Grazfather/blinker.nvim) ![](https://img.shields.io/github/stars/Grazfather/blinker.nvim) ![](https://img.shields.io/github/last-commit/Grazfather/blinker.nvim) ![](https://img.shields.io/github/commit-activity/y/Grazfather/blinker.nvim)
 - [scheisa/relpointers.nvim](https://github.com/scheisa/relpointers.nvim) ![](https://img.shields.io/github/stars/scheisa/relpointers.nvim) ![](https://img.shields.io/github/last-commit/scheisa/relpointers.nvim) ![](https://img.shields.io/github/commit-activity/y/scheisa/relpointers.nvim)
+- [abcdefg233/rainbowcursor.nvim](https://github.com/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/stars/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/rainbowcursor.nvim)
 
 ### [Cursorline / Columnline](./cursorline_columnline.md)
 
@@ -706,6 +708,10 @@
 - [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/stars/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/last-commit/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/lucidph3nx/nvim-sops)
 - [KingMichaelPark/age.nvim](https://github.com/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/stars/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/last-commit/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/commit-activity/y/KingMichaelPark/age.nvim)
 - [bgaillard/readonly.nvim](https://github.com/bgaillard/readonly.nvim) ![](https://img.shields.io/github/stars/bgaillard/readonly.nvim) ![](https://img.shields.io/github/last-commit/bgaillard/readonly.nvim) ![](https://img.shields.io/github/commit-activity/y/bgaillard/readonly.nvim)
+
+#### Privacy
+
+- [mimisheesharp/whiteout.nvim](https://github.com/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/stars/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/last-commit/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/commit-activity/y/mimisheesharp/whiteout.nvim)
 
 ### Hex
 
