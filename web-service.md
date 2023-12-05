@@ -26,6 +26,7 @@
   * [DevDocs](#devdocs)
   * [Runme](#runme)
   * [paste.rs](#pasters)
+  * [Cloudinary](#cloudinary)
   * [Drupal](#drupal)
 - [Prefab](#prefab)
 - [CI](#ci)
@@ -146,6 +147,10 @@
 #### paste.rs
 
 - [postfen/trozo.nvim](https://github.com/postfen/trozo.nvim) ![](https://img.shields.io/github/stars/postfen/trozo.nvim) ![](https://img.shields.io/github/last-commit/postfen/trozo.nvim) ![](https://img.shields.io/github/commit-activity/y/postfen/trozo.nvim)
+
+#### Cloudinary
+
+- [e2r2fx/cloudy.nvim](https://github.com/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/stars/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/cloudy.nvim)
 
 #### Drupal
 
