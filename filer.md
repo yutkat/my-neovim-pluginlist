@@ -95,6 +95,7 @@
 - [kjuulh/ranger.nvim](https://github.com/kjuulh/ranger.nvim) ![](https://img.shields.io/github/stars/kjuulh/ranger.nvim) ![](https://img.shields.io/github/last-commit/kjuulh/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuulh/ranger.nvim)
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/stars/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/last-commit/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kelly-lin/ranger.nvim)
 - [theniceboy/joshuto.nvim](https://github.com/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/stars/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/last-commit/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/commit-activity/y/theniceboy/joshuto.nvim)
+- [Kicamon/ranger.nvim](https://github.com/Kicamon/ranger.nvim) ![](https://img.shields.io/github/stars/Kicamon/ranger.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/ranger.nvim)
 
 ## Network File Manager
 
