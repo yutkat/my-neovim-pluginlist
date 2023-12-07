@@ -52,6 +52,7 @@
 ## Show assigned
 
 - [jokajak/keyseer.nvim](https://github.com/jokajak/keyseer.nvim) ![](https://img.shields.io/github/stars/jokajak/keyseer.nvim) ![](https://img.shields.io/github/last-commit/jokajak/keyseer.nvim) ![](https://img.shields.io/github/commit-activity/y/jokajak/keyseer.nvim)
+- [cronJohn/keytex.nvim](https://github.com/cronJohn/keytex.nvim) ![](https://img.shields.io/github/stars/cronJohn/keytex.nvim) ![](https://img.shields.io/github/last-commit/cronJohn/keytex.nvim) ![](https://img.shields.io/github/commit-activity/y/cronJohn/keytex.nvim)
 
 ## Prefix Key Binding
 
