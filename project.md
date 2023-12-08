@@ -64,6 +64,7 @@
 - [guigui64/local.nvim](https://github.com/guigui64/local.nvim) ![](https://img.shields.io/github/stars/guigui64/local.nvim) ![](https://img.shields.io/github/last-commit/guigui64/local.nvim) ![](https://img.shields.io/github/commit-activity/y/guigui64/local.nvim)
 - [DrKGD/nvimlocale.nvim](https://github.com/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/stars/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/last-commit/DrKGD/nvimlocale.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKGD/nvimlocale.nvim)
 - [mhanberg/workspace-folders.nvim](https://github.com/mhanberg/workspace-folders.nvim) ![](https://img.shields.io/github/stars/mhanberg/workspace-folders.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/workspace-folders.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/workspace-folders.nvim)
+- [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/exrc.nvim)
 
 #### Config switcher
 

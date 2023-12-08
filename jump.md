@@ -5,10 +5,10 @@
 - [Jump](#jump)
   * [Error](#error)
   * [Brackets](#brackets)
-- [Jump number](#jump-number)
-- [Go to File](#go-to-file)
+    + [File tracking](#file-tracking)
+  * [Jump number](#jump-number)
+  * [Go to File](#go-to-file)
   * [jumplist](#jumplist)
-  * [Edit History](#edit-history)
   * [Cursor Position History](#cursor-position-history)
 
 <!-- tocstop -->
@@ -28,12 +28,16 @@
 
 - [roobert/tabtree.nvim](https://github.com/roobert/tabtree.nvim) ![](https://img.shields.io/github/stars/roobert/tabtree.nvim) ![](https://img.shields.io/github/last-commit/roobert/tabtree.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tabtree.nvim)
 
-## Jump number
+#### File tracking
+
+- [mikeslattery/ax.nvim](https://github.com/mikeslattery/ax.nvim) ![](https://img.shields.io/github/stars/mikeslattery/ax.nvim) ![](https://img.shields.io/github/last-commit/mikeslattery/ax.nvim) ![](https://img.shields.io/github/commit-activity/y/mikeslattery/ax.nvim)
+
+### Jump number
 
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
 - [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
 
-## Go to File
+### Go to File
 
 - [rohanorton/lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/stars/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/lua-gf.nvim)
 
@@ -48,7 +52,7 @@
 - [amiroslaw/telescope-jumps.nvim](https://github.com/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/stars/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/telescope-jumps.nvim)
 - [jake-stewart/filestack.nvim](https://github.com/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/stars/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/filestack.nvim)
 
-### Edit History
+](https://github.com/) ![](https://img.shields.io/github/stars/) ![](https://img.shields.io/github/last-commit/) ![](https://img.shields.io/github/commit-activity/y/)### Edit History
 
 - [Sharonex/edit-list.nvim](https://github.com/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/stars/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/edit-list.nvim)
 - [l-bowman/timewarp.nvim](https://github.com/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/stars/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/last-commit/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/commit-activity/y/l-bowman/timewarp.nvim)
