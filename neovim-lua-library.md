@@ -11,6 +11,7 @@
 - [File](#file)
   * [Path](#path)
 - [Exec](#exec)
+- [Config](#config)
 - [UI](#ui)
   * [Notification](#notification)
   * [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
@@ -94,6 +95,10 @@
 ## Exec
 
 - [cyn1x/outhouse.nvim](https://github.com/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/stars/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/last-commit/cyn1x/outhouse.nvim) ![](https://img.shields.io/github/commit-activity/y/cyn1x/outhouse.nvim)
+
+## Config
+
+- [abcdefg233/hcutil.nvim](https://github.com/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/stars/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/hcutil.nvim)
 
 ## UI
 

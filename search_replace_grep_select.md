@@ -120,6 +120,7 @@
 - [Sharonex/grape.nvim](https://github.com/Sharonex/grape.nvim) ![](https://img.shields.io/github/stars/Sharonex/grape.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/grape.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/grape.nvim)
 - [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mangelozzi/rgflow.nvim)
 - [ctfrancia/locate.nvim](https://github.com/ctfrancia/locate.nvim) ![](https://img.shields.io/github/stars/ctfrancia/locate.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/locate.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/locate.nvim)
+- [rsreimer/magnet.nvim](https://github.com/rsreimer/magnet.nvim) ![](https://img.shields.io/github/stars/rsreimer/magnet.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/magnet.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/magnet.nvim)
 
 ## AST
 
