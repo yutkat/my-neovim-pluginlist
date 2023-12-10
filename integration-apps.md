@@ -351,6 +351,8 @@
 - [smartding/fcitx.nvim](https://github.com/smartding/fcitx.nvim) ![](https://img.shields.io/github/stars/smartding/fcitx.nvim) ![](https://img.shields.io/github/last-commit/smartding/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/fcitx.nvim)
 - [pysan3/fcitx5.nvim](https://github.com/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/stars/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/last-commit/pysan3/fcitx5.nvim) ![](https://img.shields.io/github/commit-activity/y/pysan3/fcitx5.nvim)
 - [hnjae/fcitx.nvim](https://github.com/hnjae/fcitx.nvim) ![](https://img.shields.io/github/stars/hnjae/fcitx.nvim) ![](https://img.shields.io/github/last-commit/hnjae/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/hnjae/fcitx.nvim)
+- [niuiic/fcitx.nvim](https://github.com/niuiic/fcitx.nvim) ![](https://img.shields.io/github/stars/niuiic/fcitx.nvim) ![](https://img.shields.io/github/last-commit/niuiic/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/fcitx.nvim)
+- [OliverChao/autoime.nvim](https://github.com/OliverChao/autoime.nvim) ![](https://img.shields.io/github/stars/OliverChao/autoime.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/autoime.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/autoime.nvim)
 
 #### SKK
 

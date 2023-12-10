@@ -205,6 +205,7 @@
 - [Grazfather/blinker.nvim](https://github.com/Grazfather/blinker.nvim) ![](https://img.shields.io/github/stars/Grazfather/blinker.nvim) ![](https://img.shields.io/github/last-commit/Grazfather/blinker.nvim) ![](https://img.shields.io/github/commit-activity/y/Grazfather/blinker.nvim)
 - [scheisa/relpointers.nvim](https://github.com/scheisa/relpointers.nvim) ![](https://img.shields.io/github/stars/scheisa/relpointers.nvim) ![](https://img.shields.io/github/last-commit/scheisa/relpointers.nvim) ![](https://img.shields.io/github/commit-activity/y/scheisa/relpointers.nvim)
 - [abcdefg233/rainbowcursor.nvim](https://github.com/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/stars/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/rainbowcursor.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/rainbowcursor.nvim)
+- [ukyouz/syntax-highlighted-cursor.nvim](https://github.com/ukyouz/syntax-highlighted-cursor.nvim) ![](https://img.shields.io/github/stars/ukyouz/syntax-highlighted-cursor.nvim) ![](https://img.shields.io/github/last-commit/ukyouz/syntax-highlighted-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/ukyouz/syntax-highlighted-cursor.nvim)
 
 ### [Cursorline / Columnline](./cursorline_columnline.md)
 
@@ -709,6 +710,7 @@
 - [lucidph3nx/nvim-sops](https://github.com/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/stars/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/last-commit/lucidph3nx/nvim-sops) ![](https://img.shields.io/github/commit-activity/y/lucidph3nx/nvim-sops)
 - [KingMichaelPark/age.nvim](https://github.com/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/stars/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/last-commit/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/commit-activity/y/KingMichaelPark/age.nvim)
 - [bgaillard/readonly.nvim](https://github.com/bgaillard/readonly.nvim) ![](https://img.shields.io/github/stars/bgaillard/readonly.nvim) ![](https://img.shields.io/github/last-commit/bgaillard/readonly.nvim) ![](https://img.shields.io/github/commit-activity/y/bgaillard/readonly.nvim)
+- [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/DevSecInspect.nvim)
 
 #### Privacy
 
