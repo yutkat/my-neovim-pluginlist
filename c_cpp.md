@@ -68,5 +68,3 @@
 
 #### OpenMP
 
-- [Horan-Z/OMP-Engineer.nvim](https://github.com/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/stars/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/last-commit/Horan-Z/OMP-Engineer.nvim) ![](https://img.shields.io/github/commit-activity/y/Horan-Z/OMP-Engineer.nvim)
-
