@@ -28,6 +28,7 @@
   * [ftp](#ftp)
   * [rsync](#rsync)
   * [ctags](#ctags)
+  * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
   * [papis](#papis)
   * [Zeal](#zeal)
@@ -174,6 +175,10 @@
 - [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
 - [hallestar/nvgtags.nvim](https://github.com/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/stars/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/last-commit/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/commit-activity/y/hallestar/nvgtags.nvim)
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) ![](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![](https://img.shields.io/github/last-commit/JMarkin/gentags.lua) ![](https://img.shields.io/github/commit-activity/y/JMarkin/gentags.lua)
+
+#### tldr
+
+- [acuteenvy/tldr.nvim](https://github.com/acuteenvy/tldr.nvim) ![](https://img.shields.io/github/stars/acuteenvy/tldr.nvim) ![](https://img.shields.io/github/last-commit/acuteenvy/tldr.nvim) ![](https://img.shields.io/github/commit-activity/y/acuteenvy/tldr.nvim)
 
 #### cheat.sh
 

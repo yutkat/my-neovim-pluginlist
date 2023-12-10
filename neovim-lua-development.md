@@ -158,6 +158,7 @@
 ### Template
 
 - [lukas-reineke/ci-template.nvim](https://github.com/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/ci-template.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/ci-template.nvim)
+- [linrongbin16/ci-template.nvim](https://github.com/linrongbin16/ci-template.nvim) ![](https://img.shields.io/github/stars/linrongbin16/ci-template.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/ci-template.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/ci-template.nvim)
 
 ### Actions
 
