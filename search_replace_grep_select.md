@@ -82,7 +82,6 @@
 ## File search
 
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
-- [rsreimer/find-in-directory.nvim](https://github.com/rsreimer/find-in-directory.nvim) ![](https://img.shields.io/github/stars/rsreimer/find-in-directory.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/find-in-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/find-in-directory.nvim)
 
 # Replace
 
