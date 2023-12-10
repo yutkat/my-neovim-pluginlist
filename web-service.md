@@ -84,6 +84,7 @@
 #### youtrack
 
 - [schrc3b6/youtrack_telescope.nvim](https://github.com/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/stars/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/last-commit/schrc3b6/youtrack_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/schrc3b6/youtrack_telescope.nvim)
+- [ruslan-korneev/youtrack.nvim](https://github.com/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/stars/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/last-commit/ruslan-korneev/youtrack.nvim) ![](https://img.shields.io/github/commit-activity/y/ruslan-korneev/youtrack.nvim)
 
 #### Google Docs
 

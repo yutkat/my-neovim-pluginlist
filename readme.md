@@ -447,6 +447,7 @@
 - [jake-stewart/recursive-macro.nvim](https://github.com/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/stars/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/recursive-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/recursive-macro.nvim)
 - [1riz/telescope-macros.nvim](https://github.com/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/stars/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/last-commit/1riz/telescope-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/1riz/telescope-macros.nvim)
 - [jesseleite/nvim-macroni](https://github.com/jesseleite/nvim-macroni) ![](https://img.shields.io/github/stars/jesseleite/nvim-macroni) ![](https://img.shields.io/github/last-commit/jesseleite/nvim-macroni) ![](https://img.shields.io/github/commit-activity/y/jesseleite/nvim-macroni)
+- [FredTheDino/ma-pur-ma.nvim](https://github.com/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/stars/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/last-commit/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/commit-activity/y/FredTheDino/ma-pur-ma.nvim)
 
 ### Errorformat
 
