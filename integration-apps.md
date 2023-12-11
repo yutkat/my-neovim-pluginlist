@@ -79,6 +79,7 @@
     + [Microcomputer](#microcomputer)
       - [LEGO](#lego)
     + [Keyboard](#keyboard)
+      - [Virtual Keyboard](#virtual-keyboard)
     + [Embedded Software](#embedded-software)
       - [Arduino](#arduino)
       - [FlipperZero](#flipperzero)
@@ -430,6 +431,10 @@
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 - [jdsee/umlauts.nvim](https://github.com/jdsee/umlauts.nvim) ![](https://img.shields.io/github/stars/jdsee/umlauts.nvim) ![](https://img.shields.io/github/last-commit/jdsee/umlauts.nvim) ![](https://img.shields.io/github/commit-activity/y/jdsee/umlauts.nvim)
 - [linduxed/colemak.nvim](https://github.com/linduxed/colemak.nvim) ![](https://img.shields.io/github/stars/linduxed/colemak.nvim) ![](https://img.shields.io/github/last-commit/linduxed/colemak.nvim) ![](https://img.shields.io/github/commit-activity/y/linduxed/colemak.nvim)
+
+##### Virtual Keyboard
+
+- [mk0v3l/visualkeyboard.nvim](https://github.com/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/stars/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/last-commit/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/commit-activity/y/mk0v3l/visualkeyboard.nvim)
 
 #### Embedded Software
 

@@ -758,6 +758,7 @@
 - [Lamby777/timewasted.nvim](https://github.com/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/stars/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/last-commit/Lamby777/timewasted.nvim) ![](https://img.shields.io/github/commit-activity/y/Lamby777/timewasted.nvim)
 - [OscarCreator/keystats.nvim](https://github.com/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/stars/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/keystats.nvim)
 - [FriedemannG/klog.nvim](https://github.com/FriedemannG/klog.nvim) ![](https://img.shields.io/github/stars/FriedemannG/klog.nvim) ![](https://img.shields.io/github/last-commit/FriedemannG/klog.nvim) ![](https://img.shields.io/github/commit-activity/y/FriedemannG/klog.nvim)
+- [rymdlego/readtime.nvim](https://github.com/rymdlego/readtime.nvim) ![](https://img.shields.io/github/stars/rymdlego/readtime.nvim) ![](https://img.shields.io/github/last-commit/rymdlego/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rymdlego/readtime.nvim)
 
 #### Typing speed
 
