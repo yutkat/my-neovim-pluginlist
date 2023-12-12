@@ -30,6 +30,7 @@
   * [ctags](#ctags)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
+  * [age](#age)
   * [papis](#papis)
   * [Zeal](#zeal)
   * [Snyk Code](#snyk-code)
@@ -184,6 +185,10 @@
 
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
+
+#### age
+
+- [histrio/age-secret.nvim](https://github.com/histrio/age-secret.nvim) ![](https://img.shields.io/github/stars/histrio/age-secret.nvim) ![](https://img.shields.io/github/last-commit/histrio/age-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/histrio/age-secret.nvim)
 
 #### papis
 
