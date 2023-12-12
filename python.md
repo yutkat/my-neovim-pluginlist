@@ -78,6 +78,7 @@
 - [lkhphuc/jupyter-kernel.nvim](https://github.com/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/stars/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/last-commit/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/commit-activity/y/lkhphuc/jupyter-kernel.nvim)
 - [GCBallesteros/jupytext.nvim](https://github.com/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/stars/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/last-commit/GCBallesteros/jupytext.nvim) ![](https://img.shields.io/github/commit-activity/y/GCBallesteros/jupytext.nvim)
 - [sondalex/mystnb.nvim](https://github.com/sondalex/mystnb.nvim) ![](https://img.shields.io/github/stars/sondalex/mystnb.nvim) ![](https://img.shields.io/github/last-commit/sondalex/mystnb.nvim) ![](https://img.shields.io/github/commit-activity/y/sondalex/mystnb.nvim)
+- [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) ![](https://img.shields.io/github/stars/benlubas/molten-nvim) ![](https://img.shields.io/github/last-commit/benlubas/molten-nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/molten-nvim)
 
 #### Anaconda
 
