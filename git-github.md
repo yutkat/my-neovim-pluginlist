@@ -220,6 +220,7 @@
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
 - [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ![](https://img.shields.io/github/stars/9seconds/repolink.nvim) ![](https://img.shields.io/github/last-commit/9seconds/repolink.nvim) ![](https://img.shields.io/github/commit-activity/y/9seconds/repolink.nvim)
 - [josephwoodward/github-browse.nvim](https://github.com/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-browse.nvim)
+- [juacker/git-link.nvim](https://github.com/juacker/git-link.nvim) ![](https://img.shields.io/github/stars/juacker/git-link.nvim) ![](https://img.shields.io/github/last-commit/juacker/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/juacker/git-link.nvim)
 
 ## Pull Request
 

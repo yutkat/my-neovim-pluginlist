@@ -6,6 +6,7 @@
   * [Clang](#clang)
   * [Formatter](#formatter)
   * [Makefile](#makefile)
+  * [GoogleTest](#googletest)
   * [Cmake](#cmake)
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
@@ -47,6 +48,10 @@
 #### Makefile
 
 - [Feferoni/build-system.nvim](https://github.com/Feferoni/build-system.nvim) ![](https://img.shields.io/github/stars/Feferoni/build-system.nvim) ![](https://img.shields.io/github/last-commit/Feferoni/build-system.nvim) ![](https://img.shields.io/github/commit-activity/y/Feferoni/build-system.nvim)
+
+#### GoogleTest
+
+- [ofwinterpassed/gtestrunner.nvim](https://github.com/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/stars/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/last-commit/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/ofwinterpassed/gtestrunner.nvim)
 
 #### Cmake
 
