@@ -9,6 +9,7 @@
   * [Jump number](#jump-number)
   * [Go to File](#go-to-file)
   * [jumplist](#jumplist)
+  * [Edit History](#edit-history)
   * [Cursor Position History](#cursor-position-history)
 
 <!-- tocstop -->
@@ -52,7 +53,7 @@
 - [amiroslaw/telescope-jumps.nvim](https://github.com/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/stars/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/telescope-jumps.nvim)
 - [jake-stewart/filestack.nvim](https://github.com/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/stars/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/filestack.nvim)
 
-](https://github.com/) ![](https://img.shields.io/github/stars/) ![](https://img.shields.io/github/last-commit/) ![](https://img.shields.io/github/commit-activity/y/)### Edit History
+### Edit History
 
 - [Sharonex/edit-list.nvim](https://github.com/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/stars/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/edit-list.nvim)
 - [l-bowman/timewarp.nvim](https://github.com/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/stars/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/last-commit/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/commit-activity/y/l-bowman/timewarp.nvim)
