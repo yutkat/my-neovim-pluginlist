@@ -74,6 +74,8 @@
 
 ### Normal Mode
 
+- [hiberabyss/readline.nvim](https://github.com/hiberabyss/readline.nvim) ![](https://img.shields.io/github/stars/hiberabyss/readline.nvim) ![](https://img.shields.io/github/last-commit/hiberabyss/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/hiberabyss/readline.nvim)
+
 #### Word Motion
 
 - [yutkat/wb-only-current-line.nvim](https://github.com/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/stars/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/last-commit/yutkat/wb-only-current-line.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/wb-only-current-line.nvim)
