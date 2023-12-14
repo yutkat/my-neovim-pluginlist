@@ -196,6 +196,7 @@
 - [nvim-java/nvim-java-core](https://github.com/nvim-java/nvim-java-core) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-core) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-core) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-core)
 - [codegik/nvim-unused](https://github.com/codegik/nvim-unused) ![](https://img.shields.io/github/stars/codegik/nvim-unused) ![](https://img.shields.io/github/last-commit/codegik/nvim-unused) ![](https://img.shields.io/github/commit-activity/y/codegik/nvim-unused)
 - [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
+- [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ![](https://img.shields.io/github/stars/nvim-java/nvim-java) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java)
 
 #### rename
 

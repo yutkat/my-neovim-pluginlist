@@ -38,6 +38,8 @@
 
 ### nvim-cmp extension
 
+- [gitaarik/nvim-cmp-toggle](https://github.com/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/stars/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/last-commit/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/commit-activity/y/gitaarik/nvim-cmp-toggle)
+
 #### nvim-cmp sources
 
 - Standard source
