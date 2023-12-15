@@ -41,6 +41,7 @@
   * [OS](#os)
     + [Linux](#linux)
       - [gnome](#gnome)
+      - [X11](#x11)
       - [Nix](#nix)
       - [drun](#drun)
       - [darkman](#darkman)
@@ -252,6 +253,10 @@
 ##### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+##### X11
+
+- [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
 
 ##### Nix
 
