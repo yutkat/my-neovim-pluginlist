@@ -30,6 +30,7 @@
   * [ctags](#ctags)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
+  * [chezmoi](#chezmoi)
   * [age](#age)
   * [papis](#papis)
   * [Zeal](#zeal)
@@ -185,6 +186,10 @@
 
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
+
+#### chezmoi
+
+- [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/stars/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/last-commit/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/chezmoi.nvim)
 
 #### age
 

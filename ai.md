@@ -82,6 +82,7 @@
 - [nomnivore/ollama.nvim](https://github.com/nomnivore/ollama.nvim) ![](https://img.shields.io/github/stars/nomnivore/ollama.nvim) ![](https://img.shields.io/github/last-commit/nomnivore/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/nomnivore/ollama.nvim)
 - [huynle/ogpt.nvim](https://github.com/huynle/ogpt.nvim) ![](https://img.shields.io/github/stars/huynle/ogpt.nvim) ![](https://img.shields.io/github/last-commit/huynle/ogpt.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/ogpt.nvim)
 - [gerazov/ollama-chat.nvim](https://github.com/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/stars/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/ollama-chat.nvim)
+- [m-c-frank/mycelium.nvim](https://github.com/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/stars/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/last-commit/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/commit-activity/y/m-c-frank/mycelium.nvim)
 
 ### Aider
 
