@@ -43,6 +43,8 @@
 - [Norlock/nvim-traveller](https://github.com/Norlock/nvim-traveller) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller)
 - [nvim-jo/fm.nvim](https://github.com/nvim-jo/fm.nvim) ![](https://img.shields.io/github/stars/nvim-jo/fm.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/fm.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/fm.nvim)
 - [TheBallsUp/lube.nvim](https://github.com/TheBallsUp/lube.nvim) ![](https://img.shields.io/github/stars/TheBallsUp/lube.nvim) ![](https://img.shields.io/github/last-commit/TheBallsUp/lube.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBallsUp/lube.nvim)
+- [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) ![](https://img.shields.io/github/stars/simonmclean/triptych.nvim) ![](https://img.shields.io/github/last-commit/simonmclean/triptych.nvim) ![](https://img.shields.io/github/commit-activity/y/simonmclean/triptych.nvim)
+- [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/stars/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/last-commit/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/commit-activity/y/Rolv-Apneseth/tfm.nvim)
 
 ## gx
 
