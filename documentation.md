@@ -121,7 +121,6 @@
 ##### Go
 
 - [josa42/nvim-markdown-preview](https://github.com/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/stars/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/josa42/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-markdown-preview)
-- [FelipeIzolan/markviewer.nvim](https://github.com/FelipeIzolan/markviewer.nvim) ![](https://img.shields.io/github/stars/FelipeIzolan/markviewer.nvim) ![](https://img.shields.io/github/last-commit/FelipeIzolan/markviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeIzolan/markviewer.nvim)
 
 ##### Misc
 
