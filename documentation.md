@@ -24,6 +24,7 @@
     + [Styling](#styling)
     + [Markdown checkbox](#markdown-checkbox)
     + [Markdown list](#markdown-list)
+    + [Markdown concealer](#markdown-concealer)
     + [Markdown converter](#markdown-converter)
   * [PlantUML](#plantuml)
   * [AsciiDoc](#asciidoc)
@@ -166,6 +167,10 @@
 
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
 - [kaymmm/bullets.nvim](https://github.com/kaymmm/bullets.nvim) ![](https://img.shields.io/github/stars/kaymmm/bullets.nvim) ![](https://img.shields.io/github/last-commit/kaymmm/bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/kaymmm/bullets.nvim)
+
+#### Markdown concealer
+
+- [logannday/md_concealer.nvim](https://github.com/logannday/md_concealer.nvim) ![](https://img.shields.io/github/stars/logannday/md_concealer.nvim) ![](https://img.shields.io/github/last-commit/logannday/md_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/logannday/md_concealer.nvim)
 
 #### Markdown converter
 

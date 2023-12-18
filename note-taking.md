@@ -88,6 +88,7 @@
 - [yoshigoya/nvim-joplin.nvim](https://github.com/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/stars/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/last-commit/yoshigoya/nvim-joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/yoshigoya/nvim-joplin.nvim)
 - [jungyong0615dot/planner.nvim](https://github.com/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/stars/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/last-commit/jungyong0615dot/planner.nvim) ![](https://img.shields.io/github/commit-activity/y/jungyong0615dot/planner.nvim)
 - [kimpors/plan.nvim](https://github.com/kimpors/plan.nvim) ![](https://img.shields.io/github/stars/kimpors/plan.nvim) ![](https://img.shields.io/github/last-commit/kimpors/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpors/plan.nvim)
+- [rrossmiller/tasklist.nvim](https://github.com/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/stars/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/last-commit/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/commit-activity/y/rrossmiller/tasklist.nvim)
 
 ### Taskwarrior
 
