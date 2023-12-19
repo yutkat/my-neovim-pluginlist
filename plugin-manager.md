@@ -9,6 +9,7 @@
   * [Search](#search)
   * [add](#add)
   * [Lazy load](#lazy-load)
+  * [Plugin Config](#plugin-config)
 
 <!-- tocstop -->
 
@@ -54,3 +55,7 @@
 ### Lazy load
 
 - [Xarvex/lazy-load.nvim](https://github.com/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/stars/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/last-commit/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/commit-activity/y/Xarvex/lazy-load.nvim)
+
+### Plugin Config
+
+- [marco-souza/ncm.nvim](https://github.com/marco-souza/ncm.nvim) ![](https://img.shields.io/github/stars/marco-souza/ncm.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ncm.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ncm.nvim)

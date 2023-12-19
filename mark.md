@@ -4,6 +4,7 @@
 
 - [Mark](#mark)
   * [sign](#sign)
+    + [git sign](#git-sign)
   * [Auto Mark](#auto-mark)
   * [Jump](#jump)
   * [floating marker(easymotion style)](#floating-markereasymotion-style)
@@ -21,6 +22,10 @@
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
 - [LintaoAmons/lazymark.nvim](https://github.com/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/lazymark.nvim)
 - [adelarsq/showmarks.nvim](https://github.com/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/stars/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/showmarks.nvim)
+
+#### git sign
+
+- [ianebeckett/dumb-gutter.nvim](https://github.com/ianebeckett/dumb-gutter.nvim) ![](https://img.shields.io/github/stars/ianebeckett/dumb-gutter.nvim) ![](https://img.shields.io/github/last-commit/ianebeckett/dumb-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/ianebeckett/dumb-gutter.nvim)
 
 ### Auto Mark
 

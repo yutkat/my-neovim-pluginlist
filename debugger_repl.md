@@ -60,6 +60,7 @@
 - [milanglacier/yarepl.nvim](https://github.com/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/stars/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/last-commit/milanglacier/yarepl.nvim) ![](https://img.shields.io/github/commit-activity/y/milanglacier/yarepl.nvim)
 - [sourproton/tunnell.nvim](https://github.com/sourproton/tunnell.nvim) ![](https://img.shields.io/github/stars/sourproton/tunnell.nvim) ![](https://img.shields.io/github/last-commit/sourproton/tunnell.nvim) ![](https://img.shields.io/github/commit-activity/y/sourproton/tunnell.nvim)
 - [geenen124/trepl.nvim](https://github.com/geenen124/trepl.nvim) ![](https://img.shields.io/github/stars/geenen124/trepl.nvim) ![](https://img.shields.io/github/last-commit/geenen124/trepl.nvim) ![](https://img.shields.io/github/commit-activity/y/geenen124/trepl.nvim)
+- [almahoozi/repl.nvim](https://github.com/almahoozi/repl.nvim) ![](https://img.shields.io/github/stars/almahoozi/repl.nvim) ![](https://img.shields.io/github/last-commit/almahoozi/repl.nvim) ![](https://img.shields.io/github/commit-activity/y/almahoozi/repl.nvim)
 
 ### Refactoring,Debugging
 
