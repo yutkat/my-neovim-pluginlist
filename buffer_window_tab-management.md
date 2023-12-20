@@ -83,6 +83,7 @@
 - [Norlock/nvim-traveller-buffers](https://github.com/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller-buffers) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller-buffers)
 - [kesleymartins/monoke.nvim](https://github.com/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/stars/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/last-commit/kesleymartins/monoke.nvim) ![](https://img.shields.io/github/commit-activity/y/kesleymartins/monoke.nvim)
 - [mrquantumcodes/bufferchad.nvim](https://github.com/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/bufferchad.nvim)
+- [gremble0/bufferstack.nvim](https://github.com/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/stars/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/last-commit/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/commit-activity/y/gremble0/bufferstack.nvim)
 
 #### create
 

@@ -21,6 +21,7 @@
     + [C#](#c%23)
     + [Unity](#unity)
     + [Unreal](#unreal)
+    + [Roblox studio](#roblox-studio)
     + [Java](#java)
       - [rename](#rename)
       - [Debugger](#debugger)
@@ -182,6 +183,10 @@
 ### Unreal
 
 - [zadirion/Unreal.nvim](https://github.com/zadirion/Unreal.nvim) ![](https://img.shields.io/github/stars/zadirion/Unreal.nvim) ![](https://img.shields.io/github/last-commit/zadirion/Unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/zadirion/Unreal.nvim)
+
+### Roblox studio
+
+- [zilibobi/luau-tree.nvim](https://github.com/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/stars/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/last-commit/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/zilibobi/luau-tree.nvim)
 
 ### Java
 
