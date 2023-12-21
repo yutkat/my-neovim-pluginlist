@@ -144,6 +144,7 @@
 - [xiyaowong/link-visitor.nvim](https://github.com/xiyaowong/link-visitor.nvim) ![](https://img.shields.io/github/stars/xiyaowong/link-visitor.nvim) ![](https://img.shields.io/github/last-commit/xiyaowong/link-visitor.nvim) ![](https://img.shields.io/github/commit-activity/y/xiyaowong/link-visitor.nvim)
 - [resonyze/doc-window.nvim](https://github.com/resonyze/doc-window.nvim) ![](https://img.shields.io/github/stars/resonyze/doc-window.nvim) ![](https://img.shields.io/github/last-commit/resonyze/doc-window.nvim) ![](https://img.shields.io/github/commit-activity/y/resonyze/doc-window.nvim)
 - [roobert/hoversplit.nvim](https://github.com/roobert/hoversplit.nvim) ![](https://img.shields.io/github/stars/roobert/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/roobert/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/hoversplit.nvim)
+- [patrickpichler/hovercraft.nvim](https://github.com/patrickpichler/hovercraft.nvim) ![](https://img.shields.io/github/stars/patrickpichler/hovercraft.nvim) ![](https://img.shields.io/github/last-commit/patrickpichler/hovercraft.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickpichler/hovercraft.nvim)
 
 #### Formatting
 

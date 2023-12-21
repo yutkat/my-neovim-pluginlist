@@ -11,6 +11,7 @@
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
   * [OpenMP](#openmp)
+  * [Header](#header)
 
 <!-- tocstop -->
 
@@ -72,4 +73,8 @@
 - [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
 
 #### OpenMP
+
+#### Header
+
+- [Maduki-tech/header.nvim](https://github.com/Maduki-tech/header.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/header.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/header.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/header.nvim)
 
