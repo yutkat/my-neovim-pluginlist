@@ -88,6 +88,8 @@
 - [huynle/ogpt.nvim](https://github.com/huynle/ogpt.nvim) ![](https://img.shields.io/github/stars/huynle/ogpt.nvim) ![](https://img.shields.io/github/last-commit/huynle/ogpt.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/ogpt.nvim)
 - [gerazov/ollama-chat.nvim](https://github.com/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/stars/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/gerazov/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/ollama-chat.nvim)
 - [m-c-frank/mycelium.nvim](https://github.com/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/stars/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/last-commit/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/commit-activity/y/m-c-frank/mycelium.nvim)
+- [totu/nvim-ollama](https://github.com/totu/nvim-ollama) ![](https://img.shields.io/github/stars/totu/nvim-ollama) ![](https://img.shields.io/github/last-commit/totu/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/totu/nvim-ollama)
+- [slimslenderslacks/nvim-docker-ai](https://github.com/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-docker-ai)
 
 ### Aider
 

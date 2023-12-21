@@ -36,6 +36,7 @@
   * [Zeal](#zeal)
   * [Snyk Code](#snyk-code)
   * [Croc](#croc)
+  * [diagon](#diagon)
   * [k8s (Kubernetes)](#k8s-kubernetes)
 
 <!-- tocstop -->
@@ -210,6 +211,10 @@
 #### Croc
 
 - [heaveless/croc.nvim](https://github.com/heaveless/croc.nvim) ![](https://img.shields.io/github/stars/heaveless/croc.nvim) ![](https://img.shields.io/github/last-commit/heaveless/croc.nvim) ![](https://img.shields.io/github/commit-activity/y/heaveless/croc.nvim)
+
+#### diagon
+
+- [h8rtv/diagon.nvim](https://github.com/h8rtv/diagon.nvim) ![](https://img.shields.io/github/stars/h8rtv/diagon.nvim) ![](https://img.shields.io/github/last-commit/h8rtv/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/h8rtv/diagon.nvim)
 
 #### k8s (Kubernetes)
 

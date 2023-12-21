@@ -16,6 +16,7 @@
 ## Mark
 
 - [saccarosium/neomarks](https://github.com/saccarosium/neomarks) ![](https://img.shields.io/github/stars/saccarosium/neomarks) ![](https://img.shields.io/github/last-commit/saccarosium/neomarks) ![](https://img.shields.io/github/commit-activity/y/saccarosium/neomarks)
+- [crooksryan/hover_mark.nvim](https://github.com/crooksryan/hover_mark.nvim) ![](https://img.shields.io/github/stars/crooksryan/hover_mark.nvim) ![](https://img.shields.io/github/last-commit/crooksryan/hover_mark.nvim) ![](https://img.shields.io/github/commit-activity/y/crooksryan/hover_mark.nvim)
 
 ### sign
 
