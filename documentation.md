@@ -233,6 +233,7 @@
 - [iurimateus/luasnip-latex-snippets.nvim](https://github.com/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/iurimateus/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/iurimateus/luasnip-latex-snippets.nvim)
 - [jhofscheier/ltex-utils.nvim](https://github.com/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/stars/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/last-commit/jhofscheier/ltex-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/jhofscheier/ltex-utils.nvim)
 - [LeoSchae/nvim-texlab-tools](https://github.com/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/stars/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/last-commit/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/commit-activity/y/LeoSchae/nvim-texlab-tools)
+- [wyv3rn/latex-abbrify.nvim](https://github.com/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/stars/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/last-commit/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/commit-activity/y/wyv3rn/latex-abbrify.nvim)
 
 #### Tex Preview
 
