@@ -71,6 +71,7 @@
 - [gukz/ftFT.nvim](https://github.com/gukz/ftFT.nvim) ![](https://img.shields.io/github/stars/gukz/ftFT.nvim) ![](https://img.shields.io/github/last-commit/gukz/ftFT.nvim) ![](https://img.shields.io/github/commit-activity/y/gukz/ftFT.nvim)
 - [UnsafeOats/oatjump.nvim](https://github.com/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/stars/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/last-commit/UnsafeOats/oatjump.nvim) ![](https://img.shields.io/github/commit-activity/y/UnsafeOats/oatjump.nvim)
 - [tar80/fret.nvim](https://github.com/tar80/fret.nvim) ![](https://img.shields.io/github/stars/tar80/fret.nvim) ![](https://img.shields.io/github/last-commit/tar80/fret.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/fret.nvim)
+- [backdround/improved-ft.nvim](https://github.com/backdround/improved-ft.nvim) ![](https://img.shields.io/github/stars/backdround/improved-ft.nvim) ![](https://img.shields.io/github/last-commit/backdround/improved-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/improved-ft.nvim)
 
 #### Show jump word
 
