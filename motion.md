@@ -58,6 +58,7 @@
 - [tjdevries/train.nvim](https://github.com/tjdevries/train.nvim) ![](https://img.shields.io/github/stars/tjdevries/train.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/train.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/train.nvim)
 - [haolian9/gallop.nvim](https://github.com/haolian9/gallop.nvim) ![](https://img.shields.io/github/stars/haolian9/gallop.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gallop.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gallop.nvim)
 - [madyanov/svart.nvim](https://github.com/madyanov/svart.nvim) ![](https://img.shields.io/github/stars/madyanov/svart.nvim) ![](https://img.shields.io/github/last-commit/madyanov/svart.nvim) ![](https://img.shields.io/github/commit-activity/y/madyanov/svart.nvim)
+- [atusy/treemonkey.nvim](https://github.com/atusy/treemonkey.nvim) ![](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/treemonkey.nvim)
 
 ### Horizontal Move
 
