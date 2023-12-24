@@ -30,7 +30,9 @@
   * [ctags](#ctags)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
-  * [chezmoi](#chezmoi)
+  * [dotfiles](#dotfiles)
+    + [chezmoi](#chezmoi)
+    + [vcsh](#vcsh)
   * [age](#age)
   * [papis](#papis)
   * [Zeal](#zeal)
@@ -188,9 +190,15 @@
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
 
-#### chezmoi
+#### dotfiles
+
+##### chezmoi
 
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/stars/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/last-commit/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/chezmoi.nvim)
+
+##### vcsh
+
+- [jwhitley/telescope-vcsh.nvim](https://github.com/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/stars/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/last-commit/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/commit-activity/y/jwhitley/telescope-vcsh.nvim)
 
 #### age
 

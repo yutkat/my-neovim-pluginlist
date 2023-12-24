@@ -6,6 +6,7 @@
   * [Line search](#line-search)
   * [Range Search](#range-search)
   * [n/N Improvement](#nn-improvement)
+  * [Current Word Search](#current-word-search)
   * [Search count](#search-count)
   * [Word Count](#word-count)
   * [Comment search](#comment-search)
@@ -54,6 +55,10 @@
 
 - [shiradofu/nice-scroll.nvim](https://github.com/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/stars/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/last-commit/shiradofu/nice-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/shiradofu/nice-scroll.nvim)
 - [ivyl/bling.nvim](https://github.com/ivyl/bling.nvim) ![](https://img.shields.io/github/stars/ivyl/bling.nvim) ![](https://img.shields.io/github/last-commit/ivyl/bling.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/bling.nvim)
+
+## Current Word Search
+
+- [loqusion/star.nvim](https://github.com/loqusion/star.nvim) ![](https://img.shields.io/github/stars/loqusion/star.nvim) ![](https://img.shields.io/github/last-commit/loqusion/star.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/star.nvim)
 
 ## Search count
 

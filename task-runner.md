@@ -68,6 +68,7 @@
 - [dasupradyumna/launch.nvim](https://github.com/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/stars/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/last-commit/dasupradyumna/launch.nvim) ![](https://img.shields.io/github/commit-activity/y/dasupradyumna/launch.nvim)
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/stars/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ej-shafran/compile-mode.nvim)
 - [treemcgee42/custom-compile.nvim](https://github.com/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/stars/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/last-commit/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/treemcgee42/custom-compile.nvim)
+- [616b2f/bsp.nvim](https://github.com/616b2f/bsp.nvim) ![](https://img.shields.io/github/stars/616b2f/bsp.nvim) ![](https://img.shields.io/github/last-commit/616b2f/bsp.nvim) ![](https://img.shields.io/github/commit-activity/y/616b2f/bsp.nvim)
 
 ### Shell
 

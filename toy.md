@@ -18,6 +18,7 @@
   * [Clock](#clock)
   * [Stock price](#stock-price)
   * [Cowsay](#cowsay)
+      - [Tips](#tips)
   * [Study](#study)
   * [Music](#music)
       - [MIDI](#midi)
@@ -113,6 +114,10 @@
 - [TheBlckbird/bible-votd.nvim](https://github.com/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/stars/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/last-commit/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlckbird/bible-votd.nvim)
 - [adibfarrasy/quote.nvim](https://github.com/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/stars/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/last-commit/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/commit-activity/y/adibfarrasy/quote.nvim)
 - [shellheim/ashaar.nvim](https://github.com/shellheim/ashaar.nvim) ![](https://img.shields.io/github/stars/shellheim/ashaar.nvim) ![](https://img.shields.io/github/last-commit/shellheim/ashaar.nvim) ![](https://img.shields.io/github/commit-activity/y/shellheim/ashaar.nvim)
+
+#### Tips
+
+- [steveclarke/daily-focus.nvim](https://github.com/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/stars/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/last-commit/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/steveclarke/daily-focus.nvim)
 
 ## Study
 

@@ -122,6 +122,7 @@
 - [ja-he/fugitive-blame-heatmap.nvim](https://github.com/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/stars/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/last-commit/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-he/fugitive-blame-heatmap.nvim)
 - [sairajchouhan/blame.nvim](https://github.com/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/stars/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/last-commit/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/sairajchouhan/blame.nvim)
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/stars/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/last-commit/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/FabijanZulj/blame.nvim)
+- [Zorcal/gitblame.nvim](https://github.com/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/stars/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/last-commit/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/commit-activity/y/Zorcal/gitblame.nvim)
 
 ## git log
 
@@ -248,6 +249,7 @@
 - [robgyiv/git-web-line.nvim](https://github.com/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/stars/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/last-commit/robgyiv/git-web-line.nvim) ![](https://img.shields.io/github/commit-activity/y/robgyiv/git-web-line.nvim)
 - [ushmz/github-link.nvim](https://github.com/ushmz/github-link.nvim) ![](https://img.shields.io/github/stars/ushmz/github-link.nvim) ![](https://img.shields.io/github/last-commit/ushmz/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/github-link.nvim)
 - [Rigellute/vcs-url.nvim](https://github.com/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/stars/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/last-commit/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Rigellute/vcs-url.nvim)
+- [tenfyzhong/nvim-gito](https://github.com/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-gito)
 
 ### Image
 
