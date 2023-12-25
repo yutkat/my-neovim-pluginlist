@@ -60,6 +60,7 @@
   * [Command](#command)
   * [Command Line](#command-line)
   * [Spell check](#spell-check)
+  * [Dictionary](#dictionary)
   * [Abbreviation](#abbreviation)
   * [Quickfix / Location](#quickfix--location)
   * [cd(change directory)](#cdchange-directory)
@@ -400,6 +401,11 @@
 ### [Command Line](./commandline.md)
 
 ### [Spell check](./spellcheck.md)
+
+### Dictionary
+
+- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
+- [PaysanCorrezien/dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/dictionary.nvim)
 
 ### Abbreviation
 
@@ -811,6 +817,7 @@
 - [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) ![](https://img.shields.io/github/stars/echasnovski/mini.misc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.misc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.misc)
 - [altermo/small.nvim](https://github.com/altermo/small.nvim) ![](https://img.shields.io/github/stars/altermo/small.nvim) ![](https://img.shields.io/github/last-commit/altermo/small.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/small.nvim)
 - [enigmaiiiiiiii/mini-functions.nvim](https://github.com/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/stars/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/last-commit/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/enigmaiiiiiiii/mini-functions.nvim)
+- [zegabr/toolbox.nvim](https://github.com/zegabr/toolbox.nvim) ![](https://img.shields.io/github/stars/zegabr/toolbox.nvim) ![](https://img.shields.io/github/last-commit/zegabr/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/zegabr/toolbox.nvim)
 
 ## Patch
 
