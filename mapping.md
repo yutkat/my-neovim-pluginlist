@@ -57,6 +57,8 @@
 ## Prefix Key Binding
 
 - [anuvyklack/hydra.nvim](https://github.com/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/stars/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/hydra.nvim)
+  - [nvim-island/hydra.nvim](https://github.com/nvim-island/hydra.nvim) ![](https://img.shields.io/github/stars/nvim-island/hydra.nvim) ![](https://img.shields.io/github/last-commit/nvim-island/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-island/hydra.nvim)
+  - [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) ![](https://img.shields.io/github/stars/nvimtools/hydra.nvim) ![](https://img.shields.io/github/last-commit/nvimtools/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimtools/hydra.nvim)
 - [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
 
 ## Layout Switch
