@@ -90,6 +90,7 @@
 - [kimpors/plan.nvim](https://github.com/kimpors/plan.nvim) ![](https://img.shields.io/github/stars/kimpors/plan.nvim) ![](https://img.shields.io/github/last-commit/kimpors/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpors/plan.nvim)
 - [rrossmiller/tasklist.nvim](https://github.com/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/stars/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/last-commit/rrossmiller/tasklist.nvim) ![](https://img.shields.io/github/commit-activity/y/rrossmiller/tasklist.nvim)
 - [LandonTr0n/taskb0t.nvim](https://github.com/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/stars/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/last-commit/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/commit-activity/y/LandonTr0n/taskb0t.nvim)
+- [ManasPatil0967/nvim-todo](https://github.com/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/stars/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/last-commit/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/ManasPatil0967/nvim-todo)
 
 ### Taskwarrior
 

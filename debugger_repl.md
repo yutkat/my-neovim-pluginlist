@@ -61,6 +61,7 @@
 - [sourproton/tunnell.nvim](https://github.com/sourproton/tunnell.nvim) ![](https://img.shields.io/github/stars/sourproton/tunnell.nvim) ![](https://img.shields.io/github/last-commit/sourproton/tunnell.nvim) ![](https://img.shields.io/github/commit-activity/y/sourproton/tunnell.nvim)
 - [geenen124/trepl.nvim](https://github.com/geenen124/trepl.nvim) ![](https://img.shields.io/github/stars/geenen124/trepl.nvim) ![](https://img.shields.io/github/last-commit/geenen124/trepl.nvim) ![](https://img.shields.io/github/commit-activity/y/geenen124/trepl.nvim)
 - [almahoozi/repl.nvim](https://github.com/almahoozi/repl.nvim) ![](https://img.shields.io/github/stars/almahoozi/repl.nvim) ![](https://img.shields.io/github/last-commit/almahoozi/repl.nvim) ![](https://img.shields.io/github/commit-activity/y/almahoozi/repl.nvim)
+- [matarina/nvim_ds_repl](https://github.com/matarina/nvim_ds_repl) ![](https://img.shields.io/github/stars/matarina/nvim_ds_repl) ![](https://img.shields.io/github/last-commit/matarina/nvim_ds_repl) ![](https://img.shields.io/github/commit-activity/y/matarina/nvim_ds_repl)
 
 ### Refactoring,Debugging
 
