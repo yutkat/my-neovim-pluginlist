@@ -98,6 +98,7 @@
 - [gbprod/tree-sitter-gitcommit](https://github.com/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/stars/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/last-commit/gbprod/tree-sitter-gitcommit) ![](https://img.shields.io/github/commit-activity/y/gbprod/tree-sitter-gitcommit)
 - [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
 - [marocchino/acommit.nvim](https://github.com/marocchino/acommit.nvim) ![](https://img.shields.io/github/stars/marocchino/acommit.nvim) ![](https://img.shields.io/github/last-commit/marocchino/acommit.nvim) ![](https://img.shields.io/github/commit-activity/y/marocchino/acommit.nvim)
+- [towry/commit-msg-sg.nvim](https://github.com/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/stars/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/last-commit/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/commit-activity/y/towry/commit-msg-sg.nvim)
 
 ### prefix
 
