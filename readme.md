@@ -423,6 +423,7 @@
 - [Zane-/cder.nvim](https://github.com/Zane-/cder.nvim) ![](https://img.shields.io/github/stars/Zane-/cder.nvim) ![](https://img.shields.io/github/last-commit/Zane-/cder.nvim) ![](https://img.shields.io/github/commit-activity/y/Zane-/cder.nvim)
 - [9999years/broot.nvim](https://github.com/9999years/broot.nvim) ![](https://img.shields.io/github/stars/9999years/broot.nvim) ![](https://img.shields.io/github/last-commit/9999years/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/9999years/broot.nvim)
 - [lexay/telescope-zoxide.nvim](https://github.com/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-zoxide.nvim)
+- [phanen/dirstack.nvim](https://github.com/phanen/dirstack.nvim) ![](https://img.shields.io/github/stars/phanen/dirstack.nvim) ![](https://img.shields.io/github/last-commit/phanen/dirstack.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/dirstack.nvim)
 
 #### z
 

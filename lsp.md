@@ -196,6 +196,7 @@
 ### LSP Log
 
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/stars/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/output-panel.nvim)
+- [WillLillis/lsploghover.nvim](https://github.com/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/stars/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/last-commit/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/commit-activity/y/WillLillis/lsploghover.nvim)
 
 ### Local LSP Config
 
