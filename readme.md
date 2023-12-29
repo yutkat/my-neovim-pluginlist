@@ -189,6 +189,7 @@
 - [lpoto/tabline.nvim](https://github.com/lpoto/tabline.nvim) ![](https://img.shields.io/github/stars/lpoto/tabline.nvim) ![](https://img.shields.io/github/last-commit/lpoto/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/tabline.nvim)
 - [mgnsk/autotabline.nvim](https://github.com/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/stars/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/autotabline.nvim)
 - [jryom/nvim-tabulous](https://github.com/jryom/nvim-tabulous) ![](https://img.shields.io/github/stars/jryom/nvim-tabulous) ![](https://img.shields.io/github/last-commit/jryom/nvim-tabulous) ![](https://img.shields.io/github/commit-activity/y/jryom/nvim-tabulous)
+- [nathanberry97/dumbtab.nvim](https://github.com/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtab.nvim)
 
 ### winbar
 
@@ -385,6 +386,7 @@
 - [nanotee/nvim-lsp-basics](https://github.com/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/stars/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/last-commit/nanotee/nvim-lsp-basics) ![](https://img.shields.io/github/commit-activity/y/nanotee/nvim-lsp-basics)
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/stars/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/last-commit/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/commit-activity/y/weilbith/nvim-floating-tag-preview)
 - [quangnguyen30192/cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/stars/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/last-commit/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/commit-activity/y/quangnguyen30192/cmp-nvim-tags)
+- [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gentags.nvim)
 
 ### [Fold / Conceal](./fold.md)
 
@@ -675,6 +677,7 @@
 - [vigoux/notifier.nvim](https://github.com/vigoux/notifier.nvim) ![](https://img.shields.io/github/stars/vigoux/notifier.nvim) ![](https://img.shields.io/github/last-commit/vigoux/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/notifier.nvim)
 - [phaazon/notisys.nvim](https://github.com/phaazon/notisys.nvim) ![](https://img.shields.io/github/stars/phaazon/notisys.nvim) ![](https://img.shields.io/github/last-commit/phaazon/notisys.nvim) ![](https://img.shields.io/github/commit-activity/y/phaazon/notisys.nvim)
 - [haolian9/zhiyuan.nvim](https://github.com/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/stars/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/last-commit/haolian9/zhiyuan.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/zhiyuan.nvim)
+- [waltr-fr/redalert.nvim](https://github.com/waltr-fr/redalert.nvim) ![](https://img.shields.io/github/stars/waltr-fr/redalert.nvim) ![](https://img.shields.io/github/last-commit/waltr-fr/redalert.nvim) ![](https://img.shields.io/github/commit-activity/y/waltr-fr/redalert.nvim)
 
 ### Schedule
 
