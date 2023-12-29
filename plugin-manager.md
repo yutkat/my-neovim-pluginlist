@@ -10,6 +10,7 @@
   * [add](#add)
   * [Lazy load](#lazy-load)
   * [Plugin Config](#plugin-config)
+  * [Open README](#open-readme)
 
 <!-- tocstop -->
 
@@ -59,3 +60,7 @@
 ### Plugin Config
 
 - [marco-souza/ncm.nvim](https://github.com/marco-souza/ncm.nvim) ![](https://img.shields.io/github/stars/marco-souza/ncm.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ncm.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ncm.nvim)
+
+### Open README
+
+- [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) ![](https://img.shields.io/github/stars/neuromaancer/readup.nvim) ![](https://img.shields.io/github/last-commit/neuromaancer/readup.nvim) ![](https://img.shields.io/github/commit-activity/y/neuromaancer/readup.nvim)

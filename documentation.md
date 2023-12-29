@@ -140,6 +140,7 @@
 - [dawsers/edit-code-block.nvim](https://github.com/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/stars/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/last-commit/dawsers/edit-code-block.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/edit-code-block.nvim)
 - [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-hl-mdcodeblock.lua)
 - [mskelton/hoverdown.nvim](https://github.com/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/stars/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/last-commit/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/hoverdown.nvim)
+- [simondwall/literate_markdown.nvim](https://github.com/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/stars/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/last-commit/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/literate_markdown.nvim)
 
 #### Markdown table
 

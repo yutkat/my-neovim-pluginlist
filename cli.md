@@ -188,6 +188,7 @@
 
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
+- [nedelcu-ioan/ned-chtsh.nvim](https://github.com/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/stars/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/last-commit/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/commit-activity/y/nedelcu-ioan/ned-chtsh.nvim)
 
 #### dotfiles
 
