@@ -114,6 +114,7 @@
 - [TheBlckbird/bible-votd.nvim](https://github.com/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/stars/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/last-commit/TheBlckbird/bible-votd.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlckbird/bible-votd.nvim)
 - [adibfarrasy/quote.nvim](https://github.com/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/stars/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/last-commit/adibfarrasy/quote.nvim) ![](https://img.shields.io/github/commit-activity/y/adibfarrasy/quote.nvim)
 - [shellheim/ashaar.nvim](https://github.com/shellheim/ashaar.nvim) ![](https://img.shields.io/github/stars/shellheim/ashaar.nvim) ![](https://img.shields.io/github/last-commit/shellheim/ashaar.nvim) ![](https://img.shields.io/github/commit-activity/y/shellheim/ashaar.nvim)
+- [0x5a4/oogway.nvim](https://github.com/0x5a4/oogway.nvim) ![](https://img.shields.io/github/stars/0x5a4/oogway.nvim) ![](https://img.shields.io/github/last-commit/0x5a4/oogway.nvim) ![](https://img.shields.io/github/commit-activity/y/0x5a4/oogway.nvim)
 
 #### Tips
 
