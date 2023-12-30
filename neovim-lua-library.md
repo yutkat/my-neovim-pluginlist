@@ -7,6 +7,7 @@
 - [Log](#log)
 - [async](#async)
 - [Coroutine](#coroutine)
+- [Reactive](#reactive)
 - [String](#string)
 - [File](#file)
   * [Path](#path)
@@ -80,6 +81,10 @@
 ## Coroutine
 
 - [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ![](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![](https://img.shields.io/github/last-commit/idanarye/nvim-channelot) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-channelot)
+
+## Reactive
+
+- [pvsfair/reactivex.nvim](https://github.com/pvsfair/reactivex.nvim) ![](https://img.shields.io/github/stars/pvsfair/reactivex.nvim) ![](https://img.shields.io/github/last-commit/pvsfair/reactivex.nvim) ![](https://img.shields.io/github/commit-activity/y/pvsfair/reactivex.nvim)
 
 ## String
 

@@ -125,6 +125,7 @@
 - [mangelozzi/rgflow.nvim](https://github.com/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/stars/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/last-commit/mangelozzi/rgflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mangelozzi/rgflow.nvim)
 - [ctfrancia/locate.nvim](https://github.com/ctfrancia/locate.nvim) ![](https://img.shields.io/github/stars/ctfrancia/locate.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/locate.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/locate.nvim)
 - [rsreimer/magnet.nvim](https://github.com/rsreimer/magnet.nvim) ![](https://img.shields.io/github/stars/rsreimer/magnet.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/magnet.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/magnet.nvim)
+- [P4Cu/ctrlsf-ui.nvim](https://github.com/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/stars/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/last-commit/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/P4Cu/ctrlsf-ui.nvim)
 
 ## AST
 
