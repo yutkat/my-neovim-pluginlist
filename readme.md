@@ -295,6 +295,7 @@
 - [AntonVanAssche/date-time-inserter.nvim](https://github.com/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/date-time-inserter.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/date-time-inserter.nvim)
 - [resonyze/erase_node.nvim](https://github.com/resonyze/erase_node.nvim) ![](https://img.shields.io/github/stars/resonyze/erase_node.nvim) ![](https://img.shields.io/github/last-commit/resonyze/erase_node.nvim) ![](https://img.shields.io/github/commit-activity/y/resonyze/erase_node.nvim)
 - [adammccartney/nvim-rinse](https://github.com/adammccartney/nvim-rinse) ![](https://img.shields.io/github/stars/adammccartney/nvim-rinse) ![](https://img.shields.io/github/last-commit/adammccartney/nvim-rinse) ![](https://img.shields.io/github/commit-activity/y/adammccartney/nvim-rinse)
+- [AgusDOLARD/backout.nvim](https://github.com/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/stars/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/last-commit/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/commit-activity/y/AgusDOLARD/backout.nvim)
 
 #### Smart Tab
 
