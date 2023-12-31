@@ -326,8 +326,6 @@
 
 #### foundry
 
-- [TheSnakeWitcher/chisel.nvim](https://github.com/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/stars/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/last-commit/TheSnakeWitcher/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/TheSnakeWitcher/chisel.nvim)
-
 ### Password Manager
 
 - [nacro90/omen.nvim](https://github.com/nacro90/omen.nvim) ![](https://img.shields.io/github/stars/nacro90/omen.nvim) ![](https://img.shields.io/github/last-commit/nacro90/omen.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/omen.nvim)
