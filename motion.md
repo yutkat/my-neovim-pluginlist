@@ -31,6 +31,7 @@
 - [declancm/cinnamon.nvim](https://github.com/declancm/cinnamon.nvim) ![](https://img.shields.io/github/stars/declancm/cinnamon.nvim) ![](https://img.shields.io/github/last-commit/declancm/cinnamon.nvim) ![](https://img.shields.io/github/commit-activity/y/declancm/cinnamon.nvim)
 - [plax-00/endscroll.nvim](https://github.com/plax-00/endscroll.nvim) ![](https://img.shields.io/github/stars/plax-00/endscroll.nvim) ![](https://img.shields.io/github/last-commit/plax-00/endscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/plax-00/endscroll.nvim)
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) ![](https://img.shields.io/github/stars/nullchilly/fsread.nvim) ![](https://img.shields.io/github/last-commit/nullchilly/fsread.nvim) ![](https://img.shields.io/github/commit-activity/y/nullchilly/fsread.nvim)
+- [nkakouros-original/scrollofffraction.nvim](https://github.com/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/scrollofffraction.nvim)
 
 ### Smooth scroll
 

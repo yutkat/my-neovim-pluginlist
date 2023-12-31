@@ -131,6 +131,7 @@
 - [kyoh86/bdelete-buffers.nvim](https://github.com/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/stars/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/bdelete-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/bdelete-buffers.nvim)
 - [kyoh86/unload-buffers.nvim](https://github.com/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/stars/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/unload-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/unload-buffers.nvim)
 - [pablopunk/unclutter.nvim](https://github.com/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/stars/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/unclutter.nvim)
+- [dseum/window.nvim](https://github.com/dseum/window.nvim) ![](https://img.shields.io/github/stars/dseum/window.nvim) ![](https://img.shields.io/github/last-commit/dseum/window.nvim) ![](https://img.shields.io/github/commit-activity/y/dseum/window.nvim)
 
 #### auto close
 

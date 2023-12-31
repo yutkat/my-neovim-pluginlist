@@ -363,6 +363,7 @@
 - [joshdirkx/toggle-relativenumber.nvim](https://github.com/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/stars/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/last-commit/joshdirkx/toggle-relativenumber.nvim) ![](https://img.shields.io/github/commit-activity/y/joshdirkx/toggle-relativenumber.nvim)
 - [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/stars/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/relative-toggle.nvim)
 - [gvlatko/inline-relative-numbers.nvim](https://github.com/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/stars/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/last-commit/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/gvlatko/inline-relative-numbers.nvim)
+- [togawalk/relative-toggle.nvim](https://github.com/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/stars/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/togawalk/relative-toggle.nvim)
 
 ### [Mark](./mark.md)
 
