@@ -752,6 +752,7 @@
 ### Presentation
 
 - [Chaitanyabsprip/present.nvim](https://github.com/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/present.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/present.nvim)
+- [sotte/presenting.nvim](https://github.com/sotte/presenting.nvim) ![](https://img.shields.io/github/stars/sotte/presenting.nvim) ![](https://img.shields.io/github/last-commit/sotte/presenting.nvim) ![](https://img.shields.io/github/commit-activity/y/sotte/presenting.nvim)
 
 ### EDITOR
 
