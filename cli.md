@@ -95,6 +95,7 @@
 
 - [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/dotenv.nvim)
 - [LinArcX/telescope-env.nvim](https://github.com/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-env.nvim)
+- [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/stars/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/last-commit/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/cmp-dotenv)
 
 #### Chamber
 

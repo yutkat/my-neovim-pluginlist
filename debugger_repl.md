@@ -76,6 +76,7 @@
 - [kitallen23/timber.nvim](https://github.com/kitallen23/timber.nvim) ![](https://img.shields.io/github/stars/kitallen23/timber.nvim) ![](https://img.shields.io/github/last-commit/kitallen23/timber.nvim) ![](https://img.shields.io/github/commit-activity/y/kitallen23/timber.nvim)
 - [wakeLanaka/refactor.nvim](https://github.com/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/stars/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/last-commit/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/wakeLanaka/refactor.nvim)
 - [SFToro/turbosalva.nvim](https://github.com/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/stars/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/last-commit/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/commit-activity/y/SFToro/turbosalva.nvim)
+- [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-chainsaw)
 
 #### stack trace analyze
 
