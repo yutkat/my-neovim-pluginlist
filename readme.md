@@ -471,6 +471,7 @@
 - [AckslD/messages.nvim](https://github.com/AckslD/messages.nvim) ![](https://img.shields.io/github/stars/AckslD/messages.nvim) ![](https://img.shields.io/github/last-commit/AckslD/messages.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/messages.nvim)
 - [notomo/hlmsg.nvim](https://github.com/notomo/hlmsg.nvim) ![](https://img.shields.io/github/stars/notomo/hlmsg.nvim) ![](https://img.shields.io/github/last-commit/notomo/hlmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/hlmsg.nvim)
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/stars/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/last-commit/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/commit-activity/y/ariel-frischer/bmessages.nvim)
+- [OliverChao/bufmsg.nvim](https://github.com/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/stars/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/bufmsg.nvim)
 
 ### Help
 
