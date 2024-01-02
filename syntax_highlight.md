@@ -5,6 +5,7 @@
 - [Highlight](#highlight)
   * [Arguments](#arguments)
 - [Syntax](#syntax)
+  * [Semantic highlight](#semantic-highlight)
   * [Colorizer](#colorizer)
   * [Color picker](#color-picker)
   * [ANSI Colorize](#ansi-colorize)
@@ -41,6 +42,10 @@
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
 
+### Semantic highlight
+
+- [meznaric/nvim-controlflow-queries](https://github.com/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/stars/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/last-commit/meznaric/nvim-controlflow-queries) ![](https://img.shields.io/github/commit-activity/y/meznaric/nvim-controlflow-queries)
+
 ### Colorizer
 
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/stars/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/last-commit/norcalli/nvim-colorizer.lua) ![](https://img.shields.io/github/commit-activity/y/norcalli/nvim-colorizer.lua)
@@ -71,6 +76,7 @@
 - [zaldih/themery.nvim](https://github.com/zaldih/themery.nvim) ![](https://img.shields.io/github/stars/zaldih/themery.nvim) ![](https://img.shields.io/github/last-commit/zaldih/themery.nvim) ![](https://img.shields.io/github/commit-activity/y/zaldih/themery.nvim)
 - [dimitriosvalodimos/chameleon.nvim](https://github.com/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/stars/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/last-commit/dimitriosvalodimos/chameleon.nvim) ![](https://img.shields.io/github/commit-activity/y/dimitriosvalodimos/chameleon.nvim)
 - [runih/colorscheme-picker.nvim](https://github.com/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/colorscheme-picker.nvim)
+- [CWood-sdf/pineapple](https://github.com/CWood-sdf/pineapple) ![](https://img.shields.io/github/stars/CWood-sdf/pineapple) ![](https://img.shields.io/github/last-commit/CWood-sdf/pineapple) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/pineapple)
 
 ### Colorscheme overwrite
 
