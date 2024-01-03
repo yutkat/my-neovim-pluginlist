@@ -46,6 +46,7 @@
 - [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) ![](https://img.shields.io/github/stars/simonmclean/triptych.nvim) ![](https://img.shields.io/github/last-commit/simonmclean/triptych.nvim) ![](https://img.shields.io/github/commit-activity/y/simonmclean/triptych.nvim)
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/stars/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/last-commit/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/commit-activity/y/Rolv-Apneseth/tfm.nvim)
 - [wllfaria/grove.nvim](https://github.com/wllfaria/grove.nvim) ![](https://img.shields.io/github/stars/wllfaria/grove.nvim) ![](https://img.shields.io/github/last-commit/wllfaria/grove.nvim) ![](https://img.shields.io/github/commit-activity/y/wllfaria/grove.nvim)
+- [mohit-rathee/Explorer.nvim](https://github.com/mohit-rathee/Explorer.nvim) ![](https://img.shields.io/github/stars/mohit-rathee/Explorer.nvim) ![](https://img.shields.io/github/last-commit/mohit-rathee/Explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/mohit-rathee/Explorer.nvim)
 
 ## gx
 
