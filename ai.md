@@ -118,7 +118,7 @@
 ## Chat
 
 - [mikeslattery/genie.nvim](https://github.com/mikeslattery/genie.nvim) ![](https://img.shields.io/github/stars/mikeslattery/genie.nvim) ![](https://img.shields.io/github/last-commit/mikeslattery/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/mikeslattery/genie.nvim)
-- [gptlang/CopilotChat.nvim](https://github.com/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/stars/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/gptlang/CopilotChat.nvim)
+- [gptlang/CopilotChat.nvim(remote plugin)](https://github.com/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/stars/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/gptlang/CopilotChat.nvim)
 
 ## OpenAI Review
 
