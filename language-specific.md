@@ -161,6 +161,7 @@
 - [Heyfara/php-cs-fixer.nvim](https://github.com/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/stars/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/last-commit/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/commit-activity/y/Heyfara/php-cs-fixer.nvim)
 - [ahollister/phpcbf.nvim](https://github.com/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/stars/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/last-commit/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/phpcbf.nvim)
 - [whleucka/latte.nvim](https://github.com/whleucka/latte.nvim) ![](https://img.shields.io/github/stars/whleucka/latte.nvim) ![](https://img.shields.io/github/last-commit/whleucka/latte.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/latte.nvim)
+- [ccaglak/phpUtils.nvim](https://github.com/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/stars/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/phpUtils.nvim)
 
 #### Laravel
 

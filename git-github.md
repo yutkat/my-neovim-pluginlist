@@ -60,6 +60,7 @@
 - [chrisgrieser/nvim-tinygit](https://github.com/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-tinygit) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-tinygit)
 - [GitEdvard/git-worktree.windows.nvim](https://github.com/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/stars/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/git-worktree.windows.nvim)
 - [UncertainSchrodinger/git-worktree.nvim](https://github.com/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/stars/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/UncertainSchrodinger/git-worktree.nvim)
+- [paulo-granthon/agitate.nvim](https://github.com/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/stars/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/last-commit/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/commit-activity/y/paulo-granthon/agitate.nvim)
 
 ## gitui
 
@@ -99,6 +100,7 @@
 - [mskelton/bandit.nvim](https://github.com/mskelton/bandit.nvim) ![](https://img.shields.io/github/stars/mskelton/bandit.nvim) ![](https://img.shields.io/github/last-commit/mskelton/bandit.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/bandit.nvim)
 - [marocchino/acommit.nvim](https://github.com/marocchino/acommit.nvim) ![](https://img.shields.io/github/stars/marocchino/acommit.nvim) ![](https://img.shields.io/github/last-commit/marocchino/acommit.nvim) ![](https://img.shields.io/github/commit-activity/y/marocchino/acommit.nvim)
 - [towry/commit-msg-sg.nvim](https://github.com/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/stars/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/last-commit/towry/commit-msg-sg.nvim) ![](https://img.shields.io/github/commit-activity/y/towry/commit-msg-sg.nvim)
+- [senkentarou/telescope-git-commit.nvim](https://github.com/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-commit.nvim)
 
 ### prefix
 
