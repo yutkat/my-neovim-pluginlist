@@ -54,6 +54,7 @@
 - [hamada/telescope-file-bookmarks.nvim](https://github.com/hamada/telescope-file-bookmarks.nvim) ![](https://img.shields.io/github/stars/hamada/telescope-file-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/hamada/telescope-file-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/hamada/telescope-file-bookmarks.nvim)
 - [3Xpl0it3r/bookmarks.nvim](https://github.com/3Xpl0it3r/bookmarks.nvim) ![](https://img.shields.io/github/stars/3Xpl0it3r/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/3Xpl0it3r/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/3Xpl0it3r/bookmarks.nvim)
 - [qrsforever/telescope-ntree-marks.nvim](https://github.com/qrsforever/telescope-ntree-marks.nvim) ![](https://img.shields.io/github/stars/qrsforever/telescope-ntree-marks.nvim) ![](https://img.shields.io/github/last-commit/qrsforever/telescope-ntree-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/qrsforever/telescope-ntree-marks.nvim)
+- [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/arrow.nvim)
 
 ### etc
 
