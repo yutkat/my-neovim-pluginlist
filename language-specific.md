@@ -108,7 +108,6 @@
 
 ### Rust
 
-- [simrat39/rust-tools.nvim](https://github.com/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/stars/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/last-commit/simrat39/rust-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/rust-tools.nvim)
 - [Saecki/crates.nvim](https://github.com/Saecki/crates.nvim) ![](https://img.shields.io/github/stars/Saecki/crates.nvim) ![](https://img.shields.io/github/last-commit/Saecki/crates.nvim) ![](https://img.shields.io/github/commit-activity/y/Saecki/crates.nvim)
 - [aaronhallaert/continuous-testing.nvim](https://github.com/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/continuous-testing.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/continuous-testing.nvim)
 - [MattCairns/telescope-cargo-workspace.nvim](https://github.com/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/stars/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/last-commit/MattCairns/telescope-cargo-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/MattCairns/telescope-cargo-workspace.nvim)
