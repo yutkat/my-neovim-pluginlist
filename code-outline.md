@@ -13,7 +13,6 @@
 ### Code outline
 
 - [nvimdev/lspsaga.nvim(outline)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
-- [simrat39/symbols-outline.nvim](https://github.com/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/stars/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/simrat39/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/symbols-outline.nvim)
 - [hedyhli/symbols-outline.nvim](https://github.com/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/stars/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/symbols-outline.nvim)
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ![](https://img.shields.io/github/stars/stevearc/aerial.nvim) ![](https://img.shields.io/github/last-commit/stevearc/aerial.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/aerial.nvim)
 - [ElPiloto/sidekick.nvim](https://github.com/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/stars/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/sidekick.nvim)
