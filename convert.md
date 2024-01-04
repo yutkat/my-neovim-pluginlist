@@ -40,12 +40,7 @@
 - [steve21168/command-pat.nvim](https://github.com/steve21168/command-pat.nvim) ![](https://img.shields.io/github/stars/steve21168/command-pat.nvim) ![](https://img.shields.io/github/last-commit/steve21168/command-pat.nvim) ![](https://img.shields.io/github/commit-activity/y/steve21168/command-pat.nvim)
 - [senkentarou/telescope-convert-word-case.nvim](https://github.com/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-convert-word-case.nvim)
 - [aklk1ng/flip-word.nvim](https://github.com/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/stars/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/last-commit/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/commit-activity/y/aklk1ng/flip-word.nvim)
-vim.api.nvim_create_user_command("LineDiff1", function(opts)
-	if opts.range > 0 then
-		print(opts.line1, opts.line2)
-		vim.cmd(opts.line1 .. "," .. opts.line2 .. "y x")
-	end
-end, { force = true, range = true })
+- [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ![](https://img.shields.io/github/stars/gregorias/coerce.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coerce.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coerce.nvim)
 
 ### Boolean
 

@@ -221,6 +221,7 @@
 - [vvvvv/yfix.nvim](https://github.com/vvvvv/yfix.nvim) ![](https://img.shields.io/github/stars/vvvvv/yfix.nvim) ![](https://img.shields.io/github/last-commit/vvvvv/yfix.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvvv/yfix.nvim)
 - [Aasim-A/scrollEOF.nvim](https://github.com/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/stars/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/last-commit/Aasim-A/scrollEOF.nvim) ![](https://img.shields.io/github/commit-activity/y/Aasim-A/scrollEOF.nvim)
 - [gcanoxl/better-zz.nvim](https://github.com/gcanoxl/better-zz.nvim) ![](https://img.shields.io/github/stars/gcanoxl/better-zz.nvim) ![](https://img.shields.io/github/last-commit/gcanoxl/better-zz.nvim) ![](https://img.shields.io/github/commit-activity/y/gcanoxl/better-zz.nvim)
+- [MagnetizedFreckles/centerscroll.nvim](https://github.com/MagnetizedFreckles/centerscroll.nvim) ![](https://img.shields.io/github/stars/MagnetizedFreckles/centerscroll.nvim) ![](https://img.shields.io/github/last-commit/MagnetizedFreckles/centerscroll.nvim) ![](https://img.shields.io/github/commit-activity/y/MagnetizedFreckles/centerscroll.nvim)
 
 ### Wrap line
 
@@ -827,6 +828,7 @@
 - [altermo/small.nvim](https://github.com/altermo/small.nvim) ![](https://img.shields.io/github/stars/altermo/small.nvim) ![](https://img.shields.io/github/last-commit/altermo/small.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/small.nvim)
 - [enigmaiiiiiiii/mini-functions.nvim](https://github.com/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/stars/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/last-commit/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/enigmaiiiiiiii/mini-functions.nvim)
 - [zegabr/toolbox.nvim](https://github.com/zegabr/toolbox.nvim) ![](https://img.shields.io/github/stars/zegabr/toolbox.nvim) ![](https://img.shields.io/github/last-commit/zegabr/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/zegabr/toolbox.nvim)
+- [Kicamon/tool.nvim](https://github.com/Kicamon/tool.nvim) ![](https://img.shields.io/github/stars/Kicamon/tool.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/tool.nvim)
 
 ## Patch
 
