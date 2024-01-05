@@ -66,6 +66,7 @@
 ##### eslint
 
 - [gi4c0/lint-node.nvim](https://github.com/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/stars/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/last-commit/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/commit-activity/y/gi4c0/lint-node.nvim)
+- [stornquist/eslint-workspace-linter.nvim](https://github.com/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/eslint-workspace-linter.nvim)
 
 ##### Formatter
 
@@ -75,6 +76,7 @@
 ##### tsserver
 
 - [davidosomething/format-ts-errors.nvim](https://github.com/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/format-ts-errors.nvim)
+- [stornquist/tsserver-workspace-linter.nvim](https://github.com/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/tsserver-workspace-linter.nvim)
 
 ##### Typst preview
 
