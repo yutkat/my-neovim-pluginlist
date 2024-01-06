@@ -234,7 +234,6 @@
 
 - [NazgoooAtanasov/sfcc-debugger.nvim](https://github.com/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/stars/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/last-commit/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/NazgoooAtanasov/sfcc-debugger.nvim)
 - [g-duff/sf.nvim](https://github.com/g-duff/sf.nvim) ![](https://img.shields.io/github/stars/g-duff/sf.nvim) ![](https://img.shields.io/github/last-commit/g-duff/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/g-duff/sf.nvim)
-- [xixiaofinland/sforg.nvim](https://github.com/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sforg.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sforg.nvim)
 
 #### dbt
 
