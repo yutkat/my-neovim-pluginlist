@@ -134,6 +134,7 @@
 - [Philwi/nvim-code-smell](https://github.com/Philwi/nvim-code-smell) ![](https://img.shields.io/github/stars/Philwi/nvim-code-smell) ![](https://img.shields.io/github/last-commit/Philwi/nvim-code-smell) ![](https://img.shields.io/github/commit-activity/y/Philwi/nvim-code-smell)
 - [npupko/buddy.nvim](https://github.com/npupko/buddy.nvim) ![](https://img.shields.io/github/stars/npupko/buddy.nvim) ![](https://img.shields.io/github/last-commit/npupko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/npupko/buddy.nvim)
 - [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
+- [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
 
 #### Gem
 
