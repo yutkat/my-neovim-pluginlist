@@ -732,8 +732,6 @@
 
 #### Privacy
 
-- [mimisheesharp/whiteout.nvim](https://github.com/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/stars/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/last-commit/mimisheesharp/whiteout.nvim) ![](https://img.shields.io/github/commit-activity/y/mimisheesharp/whiteout.nvim)
-
 ### Hex
 
 #### Hex Editor
