@@ -164,6 +164,7 @@
 - [marco-souza/tasks.nvim](https://github.com/marco-souza/tasks.nvim) ![](https://img.shields.io/github/stars/marco-souza/tasks.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/tasks.nvim)
 - [muryp/checklist.nvim](https://github.com/muryp/checklist.nvim) ![](https://img.shields.io/github/stars/muryp/checklist.nvim) ![](https://img.shields.io/github/last-commit/muryp/checklist.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/checklist.nvim)
 - [ibutra/checkbox.nvim](https://github.com/ibutra/checkbox.nvim) ![](https://img.shields.io/github/stars/ibutra/checkbox.nvim) ![](https://img.shields.io/github/last-commit/ibutra/checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/ibutra/checkbox.nvim)
+- [phanen/toggle-checkbox.nvim](https://github.com/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/toggle-checkbox.nvim)
 
 #### Markdown list
 

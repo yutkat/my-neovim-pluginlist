@@ -646,6 +646,7 @@
 - [jvs/commanderly.nvim](https://github.com/jvs/commanderly.nvim) ![](https://img.shields.io/github/stars/jvs/commanderly.nvim) ![](https://img.shields.io/github/last-commit/jvs/commanderly.nvim) ![](https://img.shields.io/github/commit-activity/y/jvs/commanderly.nvim)
 - [hachy/cmdpalette.nvim](https://github.com/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/stars/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/last-commit/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/cmdpalette.nvim)
 - [AtleSkaanes/command-palette.nvim](https://github.com/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/stars/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/last-commit/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/AtleSkaanes/command-palette.nvim)
+- [Ajnasz/telescope-runcmd.nvim](https://github.com/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/stars/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/telescope-runcmd.nvim)
 
 ### Reload Configuration
 

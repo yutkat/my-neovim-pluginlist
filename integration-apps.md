@@ -13,6 +13,7 @@
     + [VS Code](#vs-code)
     + [Helix](#helix)
     + [Xcode](#xcode)
+  * [JetBrains](#jetbrains)
   * [Desktop Integration](#desktop-integration)
 - [Development environment](#development-environment)
   * [Shell](#shell)
@@ -139,6 +140,10 @@
 - [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/xcodebuild.nvim)
 
+### JetBrains
+
+- [vianney-g/jetbrains-scopes.nvim](https://github.com/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/stars/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/jetbrains-scopes.nvim)
+
 ### Desktop Integration
 
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)
@@ -201,6 +206,7 @@
 
 - [azratul/devops-tools.nvim](https://github.com/azratul/devops-tools.nvim) ![](https://img.shields.io/github/stars/azratul/devops-tools.nvim) ![](https://img.shields.io/github/last-commit/azratul/devops-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/devops-tools.nvim)
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/stars/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/last-commit/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/mvaldes14/terraform.nvim)
+- [raphapr/terraform.nvim](https://github.com/raphapr/terraform.nvim) ![](https://img.shields.io/github/stars/raphapr/terraform.nvim) ![](https://img.shields.io/github/last-commit/raphapr/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/raphapr/terraform.nvim)
 
 #### Ansible
 

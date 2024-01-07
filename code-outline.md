@@ -23,6 +23,7 @@
 - [dawsers/navigator.nvim](https://github.com/dawsers/navigator.nvim) ![](https://img.shields.io/github/stars/dawsers/navigator.nvim) ![](https://img.shields.io/github/last-commit/dawsers/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/navigator.nvim)
 - [MikkelvtK/outliner.nvim](https://github.com/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/stars/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/last-commit/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikkelvtK/outliner.nvim)
 - [ivanjermakov/telescope-file-structure.nvim](https://github.com/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/telescope-file-structure.nvim)
+- [AyMeeko/stack-trace.nvim](https://github.com/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/stars/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/last-commit/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/AyMeeko/stack-trace.nvim)
 
 ### Call Hierarchy
 
