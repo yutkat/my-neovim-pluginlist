@@ -37,6 +37,7 @@
 - [2lambda123/staline.nvim](https://github.com/2lambda123/staline.nvim) ![](https://img.shields.io/github/stars/2lambda123/staline.nvim) ![](https://img.shields.io/github/last-commit/2lambda123/staline.nvim) ![](https://img.shields.io/github/commit-activity/y/2lambda123/staline.nvim)
 - [sontungexpt/sttusline](https://github.com/sontungexpt/sttusline) ![](https://img.shields.io/github/stars/sontungexpt/sttusline) ![](https://img.shields.io/github/last-commit/sontungexpt/sttusline) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/sttusline)
 - [nvim-jo/statusline.nvim](https://github.com/nvim-jo/statusline.nvim) ![](https://img.shields.io/github/stars/nvim-jo/statusline.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/statusline.nvim)
+- [adelarsq/bar.nvim](https://github.com/adelarsq/bar.nvim) ![](https://img.shields.io/github/stars/adelarsq/bar.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/bar.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/bar.nvim)
 
 ### Simple
 

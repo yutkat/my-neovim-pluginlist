@@ -98,6 +98,7 @@
 ### MongoDB
 
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
+- [SirZenith/mongosh.nvim](https://github.com/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/stars/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/last-commit/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/commit-activity/y/SirZenith/mongosh.nvim)
 
 ### SurrealDB
 

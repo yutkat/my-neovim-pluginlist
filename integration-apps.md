@@ -129,6 +129,7 @@
 #### VS Code
 
 - [elijahmanor/export-to-vscode.nvim](https://github.com/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/stars/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/last-commit/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahmanor/export-to-vscode.nvim)
+- [xlboy/vscode-opener.nvim](https://github.com/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/stars/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/last-commit/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/vscode-opener.nvim)
 
 #### Helix
 
