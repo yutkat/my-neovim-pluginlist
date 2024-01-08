@@ -6,6 +6,7 @@
   * [Config file style](#config-file-style)
     + [JSON](#json)
     + [YAML](#yaml)
+    + [TOML](#toml)
     + [Lua](#lua)
     + [Shell](#shell)
   * [Command style](#command-style)
@@ -35,6 +36,10 @@
 
 - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/stars/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/last-commit/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/commit-activity/y/Arjun31415/BuildTask.nvim)
 - [jjocram/nvim-run](https://github.com/jjocram/nvim-run) ![](https://img.shields.io/github/stars/jjocram/nvim-run) ![](https://img.shields.io/github/last-commit/jjocram/nvim-run) ![](https://img.shields.io/github/commit-activity/y/jjocram/nvim-run)
+
+### TOML
+
+- [SpyicyDev/run.nvim](https://github.com/SpyicyDev/run.nvim) ![](https://img.shields.io/github/stars/SpyicyDev/run.nvim) ![](https://img.shields.io/github/last-commit/SpyicyDev/run.nvim) ![](https://img.shields.io/github/commit-activity/y/SpyicyDev/run.nvim)
 
 ### Lua
 
