@@ -25,6 +25,7 @@
 - [chentoast/marks.nvim](https://github.com/chentoast/marks.nvim) ![](https://img.shields.io/github/stars/chentoast/marks.nvim) ![](https://img.shields.io/github/last-commit/chentoast/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/chentoast/marks.nvim)
 - [LintaoAmons/lazymark.nvim](https://github.com/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/lazymark.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/lazymark.nvim)
 - [adelarsq/showmarks.nvim](https://github.com/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/stars/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/showmarks.nvim)
+- [CWood-sdf/melon.nvim](https://github.com/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/melon.nvim)
 
 #### git sign
 
