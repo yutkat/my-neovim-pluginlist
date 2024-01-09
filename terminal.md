@@ -51,6 +51,7 @@
 - [niuiic/terminal.nvim](https://github.com/niuiic/terminal.nvim) ![](https://img.shields.io/github/stars/niuiic/terminal.nvim) ![](https://img.shields.io/github/last-commit/niuiic/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/terminal.nvim)
 - [VioletJewel/vimterm.nvim](https://github.com/VioletJewel/vimterm.nvim) ![](https://img.shields.io/github/stars/VioletJewel/vimterm.nvim) ![](https://img.shields.io/github/last-commit/VioletJewel/vimterm.nvim) ![](https://img.shields.io/github/commit-activity/y/VioletJewel/vimterm.nvim)
 - [pvskp/btterm.nvim](https://github.com/pvskp/btterm.nvim) ![](https://img.shields.io/github/stars/pvskp/btterm.nvim) ![](https://img.shields.io/github/last-commit/pvskp/btterm.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/btterm.nvim)
+- [marco-souza/term.nvim](https://github.com/marco-souza/term.nvim) ![](https://img.shields.io/github/stars/marco-souza/term.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/term.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/term.nvim)
 
 ### Open
 

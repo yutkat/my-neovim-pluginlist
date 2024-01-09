@@ -36,6 +36,7 @@
 - [joaomsa/telescope-orgmode.nvim](https://github.com/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/stars/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/last-commit/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomsa/telescope-orgmode.nvim)
 - [danilshvalov/org-modern.nvim](https://github.com/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/stars/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/org-modern.nvim)
 - [Jobin-Nelson/org-tangle.nvim](https://github.com/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/stars/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/last-commit/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/Jobin-Nelson/org-tangle.nvim)
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 
 ## Zettelkasten
 
@@ -178,3 +179,4 @@
 - [MagnumTrader/neonotes.nvim](https://github.com/MagnumTrader/neonotes.nvim) ![](https://img.shields.io/github/stars/MagnumTrader/neonotes.nvim) ![](https://img.shields.io/github/last-commit/MagnumTrader/neonotes.nvim) ![](https://img.shields.io/github/commit-activity/y/MagnumTrader/neonotes.nvim)
 - [HumanEntity/denote.nvim](https://github.com/HumanEntity/denote.nvim) ![](https://img.shields.io/github/stars/HumanEntity/denote.nvim) ![](https://img.shields.io/github/last-commit/HumanEntity/denote.nvim) ![](https://img.shields.io/github/commit-activity/y/HumanEntity/denote.nvim)
 - [natefduncan/notes.nvim](https://github.com/natefduncan/notes.nvim) ![](https://img.shields.io/github/stars/natefduncan/notes.nvim) ![](https://img.shields.io/github/last-commit/natefduncan/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/natefduncan/notes.nvim)
+- [chrishannah/blogutils.nvim](https://github.com/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/stars/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/blogutils.nvim)

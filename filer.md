@@ -10,6 +10,7 @@
   * [Emacs style](#emacs-style)
   * [nnn wrapper](#nnn-wrapper)
   * [ranger](#ranger)
+  * [yazi](#yazi)
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
   * [Create directory](#create-directory)
@@ -100,6 +101,10 @@
 - [kelly-lin/ranger.nvim](https://github.com/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/stars/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/last-commit/kelly-lin/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/kelly-lin/ranger.nvim)
 - [theniceboy/joshuto.nvim](https://github.com/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/stars/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/last-commit/theniceboy/joshuto.nvim) ![](https://img.shields.io/github/commit-activity/y/theniceboy/joshuto.nvim)
 - [Kicamon/ranger.nvim](https://github.com/Kicamon/ranger.nvim) ![](https://img.shields.io/github/stars/Kicamon/ranger.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/ranger.nvim)
+
+## yazi
+
+- [SR-MyStar/yazi.nvim](https://github.com/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/yazi.nvim)
 
 ## Network File Manager
 
