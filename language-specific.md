@@ -162,6 +162,7 @@
 - [ahollister/phpcbf.nvim](https://github.com/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/stars/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/last-commit/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/phpcbf.nvim)
 - [whleucka/latte.nvim](https://github.com/whleucka/latte.nvim) ![](https://img.shields.io/github/stars/whleucka/latte.nvim) ![](https://img.shields.io/github/last-commit/whleucka/latte.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/latte.nvim)
 - [ccaglak/phpUtils.nvim](https://github.com/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/stars/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/phpUtils.nvim)
+- [ta-tikoma/php.easy.nvim](https://github.com/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/stars/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/last-commit/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/commit-activity/y/ta-tikoma/php.easy.nvim)
 
 #### Laravel
 
