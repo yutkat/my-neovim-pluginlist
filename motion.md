@@ -60,6 +60,7 @@
 - [haolian9/gallop.nvim](https://github.com/haolian9/gallop.nvim) ![](https://img.shields.io/github/stars/haolian9/gallop.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gallop.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gallop.nvim)
 - [madyanov/svart.nvim](https://github.com/madyanov/svart.nvim) ![](https://img.shields.io/github/stars/madyanov/svart.nvim) ![](https://img.shields.io/github/last-commit/madyanov/svart.nvim) ![](https://img.shields.io/github/commit-activity/y/madyanov/svart.nvim)
 - [atusy/treemonkey.nvim](https://github.com/atusy/treemonkey.nvim) ![](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/treemonkey.nvim)
+- [jjshoots/betterf.nvim](https://github.com/jjshoots/betterf.nvim) ![](https://img.shields.io/github/stars/jjshoots/betterf.nvim) ![](https://img.shields.io/github/last-commit/jjshoots/betterf.nvim) ![](https://img.shields.io/github/commit-activity/y/jjshoots/betterf.nvim)
 
 ### Horizontal Move
 

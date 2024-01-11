@@ -133,6 +133,7 @@
 #### CSS
 
 - [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/stars/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/last-commit/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/nvim-html-css)
+- [victoroliveirab/css-utils.nvim](https://github.com/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/stars/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/last-commit/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/victoroliveirab/css-utils.nvim)
 
 ##### tailwind
 
