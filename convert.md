@@ -41,6 +41,7 @@
 - [senkentarou/telescope-convert-word-case.nvim](https://github.com/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-convert-word-case.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-convert-word-case.nvim)
 - [aklk1ng/flip-word.nvim](https://github.com/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/stars/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/last-commit/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/commit-activity/y/aklk1ng/flip-word.nvim)
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ![](https://img.shields.io/github/stars/gregorias/coerce.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coerce.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coerce.nvim)
+- [chrishannah/textcase.nvim](https://github.com/chrishannah/textcase.nvim) ![](https://img.shields.io/github/stars/chrishannah/textcase.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/textcase.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/textcase.nvim)
 
 ### Boolean
 

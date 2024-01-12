@@ -5,6 +5,7 @@
 - [Command Line](#command-line)
   * [GUID](#guid)
 - [Command Line UI](#command-line-ui)
+  * [Highlight](#highlight)
   * [command line completion](#command-line-completion)
   * [History](#history)
 
@@ -30,6 +31,10 @@
 
 - [folke/noice.nvim](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 - [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
+
+### Highlight
+
+- [Sam-programs/cmdline-hl.nvim](https://github.com/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/stars/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/cmdline-hl.nvim)
 
 ### command line completion
 
