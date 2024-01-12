@@ -77,6 +77,7 @@
 - [NStefan002/speedtyper.nvim](https://github.com/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/stars/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/speedtyper.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/speedtyper.nvim)
 - [gbelouze/stereotype.nvim](https://github.com/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/stars/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/last-commit/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/commit-activity/y/gbelouze/stereotype.nvim)
 - [gerazov/wpm.nvim](https://github.com/gerazov/wpm.nvim) ![](https://img.shields.io/github/stars/gerazov/wpm.nvim) ![](https://img.shields.io/github/last-commit/gerazov/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/wpm.nvim)
+- [BenjaminJorgensen/typer.nvim](https://github.com/BenjaminJorgensen/typer.nvim) ![](https://img.shields.io/github/stars/BenjaminJorgensen/typer.nvim) ![](https://img.shields.io/github/last-commit/BenjaminJorgensen/typer.nvim) ![](https://img.shields.io/github/commit-activity/y/BenjaminJorgensen/typer.nvim)
 
 ### FiveM
 

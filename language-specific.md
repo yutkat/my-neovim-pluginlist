@@ -34,6 +34,8 @@
     + [Scala](#scala)
     + [Dart, Flutter](#dart-flutter)
     + [Clojure](#clojure)
+    + [Erlang](#erlang)
+      - [hex](#hex)
     + [Elixir](#elixir)
     + [Haskell](#haskell)
     + [Perl](#perl)
@@ -186,6 +188,7 @@
 ### Unreal
 
 - [zadirion/Unreal.nvim](https://github.com/zadirion/Unreal.nvim) ![](https://img.shields.io/github/stars/zadirion/Unreal.nvim) ![](https://img.shields.io/github/last-commit/zadirion/Unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/zadirion/Unreal.nvim)
+- [goopey7/unreal-support.nvim](https://github.com/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/stars/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/last-commit/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/commit-activity/y/goopey7/unreal-support.nvim)
 
 ### Roblox studio
 
@@ -263,6 +266,12 @@
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) ![](https://img.shields.io/github/stars/PaterJason/cmp-conjure) ![](https://img.shields.io/github/last-commit/PaterJason/cmp-conjure) ![](https://img.shields.io/github/commit-activity/y/PaterJason/cmp-conjure)
 - [mikepjb/replica.nvim](https://github.com/mikepjb/replica.nvim) ![](https://img.shields.io/github/stars/mikepjb/replica.nvim) ![](https://img.shields.io/github/last-commit/mikepjb/replica.nvim) ![](https://img.shields.io/github/commit-activity/y/mikepjb/replica.nvim)
 - [AdeAttwood/nrepl.nvim](https://github.com/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/nrepl.nvim)
+
+### Erlang
+
+#### hex
+
+- [steven-mathew/gleam-cmp.nvim](https://github.com/steven-mathew/gleam-cmp.nvim) ![](https://img.shields.io/github/stars/steven-mathew/gleam-cmp.nvim) ![](https://img.shields.io/github/last-commit/steven-mathew/gleam-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/steven-mathew/gleam-cmp.nvim)
 
 ### Elixir
 
