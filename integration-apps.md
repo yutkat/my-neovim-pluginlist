@@ -364,6 +364,7 @@
 - [hnjae/fcitx.nvim](https://github.com/hnjae/fcitx.nvim) ![](https://img.shields.io/github/stars/hnjae/fcitx.nvim) ![](https://img.shields.io/github/last-commit/hnjae/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/hnjae/fcitx.nvim)
 - [niuiic/fcitx.nvim](https://github.com/niuiic/fcitx.nvim) ![](https://img.shields.io/github/stars/niuiic/fcitx.nvim) ![](https://img.shields.io/github/last-commit/niuiic/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/fcitx.nvim)
 - [OliverChao/autoime.nvim](https://github.com/OliverChao/autoime.nvim) ![](https://img.shields.io/github/stars/OliverChao/autoime.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/autoime.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/autoime.nvim)
+- [SR-MyStar/fcitx5-switch.nvim](https://github.com/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/fcitx5-switch.nvim)
 
 #### SKK
 

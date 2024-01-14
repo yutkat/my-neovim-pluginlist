@@ -174,6 +174,7 @@
 - [oliverhkraft/nvim-pint](https://github.com/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/stars/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/last-commit/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/commit-activity/y/oliverhkraft/nvim-pint)
 - [theoboldalex/artisan.nvim](https://github.com/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/stars/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/artisan.nvim)
 - [adoolaard/nvim-cmp-laravel](https://github.com/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/stars/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/last-commit/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/commit-activity/y/adoolaard/nvim-cmp-laravel)
+- [mikereyez/laravel-helpers.nvim](https://github.com/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/stars/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/last-commit/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/mikereyez/laravel-helpers.nvim)
 
 ### C#
 

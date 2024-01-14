@@ -297,6 +297,7 @@
 - [resonyze/erase_node.nvim](https://github.com/resonyze/erase_node.nvim) ![](https://img.shields.io/github/stars/resonyze/erase_node.nvim) ![](https://img.shields.io/github/last-commit/resonyze/erase_node.nvim) ![](https://img.shields.io/github/commit-activity/y/resonyze/erase_node.nvim)
 - [adammccartney/nvim-rinse](https://github.com/adammccartney/nvim-rinse) ![](https://img.shields.io/github/stars/adammccartney/nvim-rinse) ![](https://img.shields.io/github/last-commit/adammccartney/nvim-rinse) ![](https://img.shields.io/github/commit-activity/y/adammccartney/nvim-rinse)
 - [AgusDOLARD/backout.nvim](https://github.com/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/stars/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/last-commit/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/commit-activity/y/AgusDOLARD/backout.nvim)
+- [Someone-s-out-there/stutter.nvim](https://github.com/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/stars/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/last-commit/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/commit-activity/y/Someone-s-out-there/stutter.nvim)
 
 #### Smart Tab
 
@@ -532,6 +533,7 @@
 - [eoh-bse/minintro.nvim](https://github.com/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/stars/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/last-commit/eoh-bse/minintro.nvim) ![](https://img.shields.io/github/commit-activity/y/eoh-bse/minintro.nvim)
 - [Yoolayn/nvim-intro](https://github.com/Yoolayn/nvim-intro) ![](https://img.shields.io/github/stars/Yoolayn/nvim-intro) ![](https://img.shields.io/github/last-commit/Yoolayn/nvim-intro) ![](https://img.shields.io/github/commit-activity/y/Yoolayn/nvim-intro)
 - [MeanderingProgrammer/dashboard.nvim](https://github.com/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/dashboard.nvim)
+- [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/spaceport.nvim)
 
 ### Boot Arguments
 

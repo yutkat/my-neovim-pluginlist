@@ -4,6 +4,7 @@
 
 - [C/C++](#cc)
   * [Clang](#clang)
+  * [GCC](#gcc)
   * [Formatter](#formatter)
   * [Makefile](#makefile)
   * [GoogleTest](#googletest)
@@ -41,6 +42,10 @@
 #### Clang
 
 - [leosmaia21/gcompilecommands.nvim](https://github.com/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/stars/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/gcompilecommands.nvim)
+
+#### GCC
+
+- [eoBattisti/autocrun.nvim](https://github.com/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/stars/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/autocrun.nvim)
 
 #### Formatter
 

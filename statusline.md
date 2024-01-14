@@ -51,6 +51,7 @@
 - [bluz71/nvim-linefly](https://github.com/bluz71/nvim-linefly) ![](https://img.shields.io/github/stars/bluz71/nvim-linefly) ![](https://img.shields.io/github/last-commit/bluz71/nvim-linefly) ![](https://img.shields.io/github/commit-activity/y/bluz71/nvim-linefly)
 - [juiceDeLemon/schitoozleen.nvim](https://github.com/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/stars/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/last-commit/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/commit-activity/y/juiceDeLemon/schitoozleen.nvim)
 - [Ernest1338/eg-statusline.nvim](https://github.com/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/stars/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/eg-statusline.nvim)
+- [brianaung/yasl.nvim](https://github.com/brianaung/yasl.nvim) ![](https://img.shields.io/github/stars/brianaung/yasl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/yasl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/yasl.nvim)
 
 ### Special Features
 

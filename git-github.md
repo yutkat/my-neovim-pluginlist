@@ -28,6 +28,7 @@
   * [worktree](#worktree)
   * [submodule](#submodule)
   * [git utils](#git-utils)
+  * [Contribution](#contribution)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
@@ -201,6 +202,10 @@
 ## git utils
 
 - [yutkat/convert-git-url.nvim](https://github.com/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/stars/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/last-commit/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/convert-git-url.nvim)
+
+## Contribution
+
+- [ronylee11/gitcontrib.nvim](https://github.com/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/stars/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/last-commit/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/commit-activity/y/ronylee11/gitcontrib.nvim)
 
 # GitHub
 
