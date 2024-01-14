@@ -105,6 +105,7 @@
 ## Clock
 
 - [registerGen/clock.nvim](https://github.com/registerGen/clock.nvim) ![](https://img.shields.io/github/stars/registerGen/clock.nvim) ![](https://img.shields.io/github/last-commit/registerGen/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/registerGen/clock.nvim)
+- [rushjs1/clock.nvim](https://github.com/rushjs1/clock.nvim) ![](https://img.shields.io/github/stars/rushjs1/clock.nvim) ![](https://img.shields.io/github/last-commit/rushjs1/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/rushjs1/clock.nvim)
 
 ## Stock price
 
