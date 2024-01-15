@@ -180,6 +180,7 @@
 ### Window Management
 
 - [folke/edgy.nvim](https://github.com/folke/edgy.nvim) ![](https://img.shields.io/github/stars/folke/edgy.nvim) ![](https://img.shields.io/github/last-commit/folke/edgy.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/edgy.nvim)
+  - [lucobellic/edgy-group.nvim](https://github.com/lucobellic/edgy-group.nvim) ![](https://img.shields.io/github/stars/lucobellic/edgy-group.nvim) ![](https://img.shields.io/github/last-commit/lucobellic/edgy-group.nvim) ![](https://img.shields.io/github/commit-activity/y/lucobellic/edgy-group.nvim)
 - [luukvbaal/stabilize.nvim](https://github.com/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/stars/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/last-commit/luukvbaal/stabilize.nvim) ![](https://img.shields.io/github/commit-activity/y/luukvbaal/stabilize.nvim)
 - [anuvyklack/windows.nvim](https://github.com/anuvyklack/windows.nvim) ![](https://img.shields.io/github/stars/anuvyklack/windows.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/windows.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/windows.nvim)
 - [hesiod-au/fastkeywins.nvim](https://github.com/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/stars/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/fastkeywins.nvim)

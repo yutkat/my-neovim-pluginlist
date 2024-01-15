@@ -242,6 +242,7 @@
 - [NazgoooAtanasov/sfcc-debugger.nvim](https://github.com/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/stars/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/last-commit/NazgoooAtanasov/sfcc-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/NazgoooAtanasov/sfcc-debugger.nvim)
 - [g-duff/sf.nvim](https://github.com/g-duff/sf.nvim) ![](https://img.shields.io/github/stars/g-duff/sf.nvim) ![](https://img.shields.io/github/last-commit/g-duff/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/g-duff/sf.nvim)
 - [devinjc213/sfdeez.nvim](https://github.com/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/stars/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/last-commit/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/commit-activity/y/devinjc213/sfdeez.nvim)
+- [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/stars/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/last-commit/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/commit-activity/y/jonathanmorris180/salesforce.nvim)
 
 #### dbt
 
