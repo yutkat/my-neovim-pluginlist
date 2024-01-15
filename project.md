@@ -33,6 +33,7 @@
 - [pbnj/telescope-projects.nvim](https://github.com/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/stars/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/last-commit/pbnj/telescope-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/pbnj/telescope-projects.nvim)
 - [mskelton/telescope-jumper.nvim](https://github.com/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/stars/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/last-commit/mskelton/telescope-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/telescope-jumper.nvim)
 - [yonchando/my-spaces.nvim](https://github.com/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/stars/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/last-commit/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/my-spaces.nvim)
+- [tiagovla/projet.nvim](https://github.com/tiagovla/projet.nvim) ![](https://img.shields.io/github/stars/tiagovla/projet.nvim) ![](https://img.shields.io/github/last-commit/tiagovla/projet.nvim) ![](https://img.shields.io/github/commit-activity/y/tiagovla/projet.nvim)
 
 #### Project Root Detector
 
