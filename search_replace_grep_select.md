@@ -69,6 +69,7 @@
 
 - [skwee357/nvim-prose](https://github.com/skwee357/nvim-prose) ![](https://img.shields.io/github/stars/skwee357/nvim-prose) ![](https://img.shields.io/github/last-commit/skwee357/nvim-prose) ![](https://img.shields.io/github/commit-activity/y/skwee357/nvim-prose)
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) ![](https://img.shields.io/github/stars/backdround/improved-search.nvim) ![](https://img.shields.io/github/last-commit/backdround/improved-search.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/improved-search.nvim)
+- [soryu-ryouji/nvim-ccount.lua](https://github.com/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/stars/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/last-commit/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/commit-activity/y/soryu-ryouji/nvim-ccount.lua)
 
 ## Comment search
 

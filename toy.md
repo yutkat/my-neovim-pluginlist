@@ -24,6 +24,7 @@
       - [MIDI](#midi)
       - [Morse](#morse)
     + [Recording](#recording)
+    + [Animation](#animation)
     + [Type sound](#type-sound)
     + [Input Animation](#input-animation)
   * [Screen server](#screen-server)
@@ -153,6 +154,10 @@
 ### Recording
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
+
+### Animation
+
+- [Derrekito/nvim-type-anim](https://github.com/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/stars/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/last-commit/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/nvim-type-anim)
 
 ### Type sound
 
