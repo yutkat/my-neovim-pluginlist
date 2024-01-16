@@ -156,6 +156,7 @@
 ## git conflict
 
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/stars/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/last-commit/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/git-conflict.nvim)
+- [Snikimonkd/telescope-git-conflicts.nvim](https://github.com/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/stars/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/Snikimonkd/telescope-git-conflicts.nvim)
 
 ## git pull
 
