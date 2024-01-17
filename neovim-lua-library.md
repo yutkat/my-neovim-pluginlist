@@ -181,6 +181,7 @@
 ### GRPC
 
 - [hudclark/grpc-nvim](https://github.com/hudclark/grpc-nvim) ![](https://img.shields.io/github/stars/hudclark/grpc-nvim) ![](https://img.shields.io/github/last-commit/hudclark/grpc-nvim) ![](https://img.shields.io/github/commit-activity/y/hudclark/grpc-nvim)
+- [nickkoul/nvim-grpc-explorer](https://github.com/nickkoul/nvim-grpc-explorer) ![](https://img.shields.io/github/stars/nickkoul/nvim-grpc-explorer) ![](https://img.shields.io/github/last-commit/nickkoul/nvim-grpc-explorer) ![](https://img.shields.io/github/commit-activity/y/nickkoul/nvim-grpc-explorer)
 
 ### WebSocket
 

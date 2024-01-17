@@ -36,6 +36,7 @@
 - [mrquantumcodes/retrospect.nvim](https://github.com/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/retrospect.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/retrospect.nvim)
 - [keaising/startup.nvim](https://github.com/keaising/startup.nvim) ![](https://img.shields.io/github/stars/keaising/startup.nvim) ![](https://img.shields.io/github/last-commit/keaising/startup.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/startup.nvim)
 - [Febri-i/resurrect.nvim](https://github.com/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/stars/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/last-commit/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/commit-activity/y/Febri-i/resurrect.nvim)
+- [codymikol/multiverse.nvim](https://github.com/codymikol/multiverse.nvim) ![](https://img.shields.io/github/stars/codymikol/multiverse.nvim) ![](https://img.shields.io/github/last-commit/codymikol/multiverse.nvim) ![](https://img.shields.io/github/commit-activity/y/codymikol/multiverse.nvim)
 
 ## Session Selector
 

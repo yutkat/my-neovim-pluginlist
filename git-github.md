@@ -20,6 +20,7 @@
   * [git conflict](#git-conflict)
   * [git pull](#git-pull)
   * [git open](#git-open)
+  * [git switch](#git-switch)
   * [gitignore](#gitignore)
   * [git hook](#git-hook)
   * [git info](#git-info)
@@ -166,6 +167,10 @@
 
 - [senkentarou/goacf.nvim](https://github.com/senkentarou/goacf.nvim) ![](https://img.shields.io/github/stars/senkentarou/goacf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/goacf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/goacf.nvim)
 - [mrexox/github-open.nvim](https://github.com/mrexox/github-open.nvim) ![](https://img.shields.io/github/stars/mrexox/github-open.nvim) ![](https://img.shields.io/github/last-commit/mrexox/github-open.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/github-open.nvim)
+
+## git switch
+
+- [cszczepaniak/git-lb.nvim](https://github.com/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/git-lb.nvim)
 
 ## gitignore
 
