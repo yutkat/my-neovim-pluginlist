@@ -15,6 +15,7 @@
       - [Word Motion](#word-motion)
     + [Insert Mode](#insert-mode)
       - [Delete word](#delete-word)
+      - [Home key](#home-key)
 
 <!-- tocstop -->
 
@@ -88,3 +89,7 @@
 #### Delete word
 
 - [yutkat/delete-word-to-chars.nvim](https://github.com/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/stars/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/last-commit/yutkat/delete-word-to-chars.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/delete-word-to-chars.nvim)
+
+#### Home key
+
+- [bwpge/homekey.nvim](https://github.com/bwpge/homekey.nvim) ![](https://img.shields.io/github/stars/bwpge/homekey.nvim) ![](https://img.shields.io/github/last-commit/bwpge/homekey.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/homekey.nvim)
