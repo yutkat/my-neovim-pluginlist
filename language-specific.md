@@ -433,7 +433,6 @@
 ## LeetCode
 
 - [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
-- [gh-liu/leetcode.nvim](https://github.com/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/stars/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/leetcode.nvim)
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
 
 # Configuration
