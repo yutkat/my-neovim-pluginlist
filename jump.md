@@ -5,6 +5,7 @@
 - [Jump](#jump)
   * [Error](#error)
   * [Brackets](#brackets)
+  * [Treesitter Node](#treesitter-node)
     + [File tracking](#file-tracking)
   * [Jump number](#jump-number)
   * [Go to File](#go-to-file)
@@ -28,6 +29,10 @@
 ### Brackets
 
 - [roobert/tabtree.nvim](https://github.com/roobert/tabtree.nvim) ![](https://img.shields.io/github/stars/roobert/tabtree.nvim) ![](https://img.shields.io/github/last-commit/roobert/tabtree.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/tabtree.nvim)
+
+### Treesitter Node
+
+- [xlboy/node-edge-toggler.nvim](https://github.com/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/stars/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/last-commit/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/node-edge-toggler.nvim)
 
 #### File tracking
 

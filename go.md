@@ -6,10 +6,11 @@
   * [gofmt](#gofmt)
   * [go list](#go-list)
   * [Test](#test)
+  * [struct](#struct)
 
 <!-- tocstop -->
 
-### Go
+## Go
 
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) ![](https://img.shields.io/github/stars/ray-x/go.nvim) ![](https://img.shields.io/github/last-commit/ray-x/go.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/go.nvim)
 - [crispgm/nvim-go](https://github.com/crispgm/nvim-go) ![](https://img.shields.io/github/stars/crispgm/nvim-go) ![](https://img.shields.io/github/last-commit/crispgm/nvim-go) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-go)
@@ -29,15 +30,15 @@
 - [lordvidex/go-heat.nvim](https://github.com/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/stars/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/last-commit/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/commit-activity/y/lordvidex/go-heat.nvim)
 - [pcolladosoto/tinygo.nvim](https://github.com/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/stars/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/last-commit/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/commit-activity/y/pcolladosoto/tinygo.nvim)
 
-#### gofmt
+### gofmt
 
 - [MaxwelMazur/gofmt.nvim](https://github.com/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/stars/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/last-commit/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/MaxwelMazur/gofmt.nvim)
 
-#### go list
+### go list
 
 - [lukasl-dev/go-list.nvim](https://github.com/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/stars/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/last-commit/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasl-dev/go-list.nvim)
 
-#### Test
+### Test
 
 - [Azrealy/go-autotest.nvim](https://github.com/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/stars/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/last-commit/Azrealy/go-autotest.nvim) ![](https://img.shields.io/github/commit-activity/y/Azrealy/go-autotest.nvim)
 - [NachoNievaG/go-tester.nvim](https://github.com/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/go-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/go-tester.nvim)
@@ -47,3 +48,7 @@
 - [KaFski/gotest.nvim](https://github.com/KaFski/gotest.nvim) ![](https://img.shields.io/github/stars/KaFski/gotest.nvim) ![](https://img.shields.io/github/last-commit/KaFski/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/KaFski/gotest.nvim)
 - [leoluz/gotest.nvim](https://github.com/leoluz/gotest.nvim) ![](https://img.shields.io/github/stars/leoluz/gotest.nvim) ![](https://img.shields.io/github/last-commit/leoluz/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/leoluz/gotest.nvim)
 - [CadeMichael/gotest.nvim](https://github.com/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/stars/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/gotest.nvim)
+
+### struct
+
+- [triarius/json2struct.nvim](https://github.com/triarius/json2struct.nvim) ![](https://img.shields.io/github/stars/triarius/json2struct.nvim) ![](https://img.shields.io/github/last-commit/triarius/json2struct.nvim) ![](https://img.shields.io/github/commit-activity/y/triarius/json2struct.nvim)

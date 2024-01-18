@@ -355,6 +355,7 @@
 - [crispgm/nvim-auto-ime](https://github.com/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/stars/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/last-commit/crispgm/nvim-auto-ime) ![](https://img.shields.io/github/commit-activity/y/crispgm/nvim-auto-ime)
 - [Xx1gS/clef.nvim](https://github.com/Xx1gS/clef.nvim) ![](https://img.shields.io/github/stars/Xx1gS/clef.nvim) ![](https://img.shields.io/github/last-commit/Xx1gS/clef.nvim) ![](https://img.shields.io/github/commit-activity/y/Xx1gS/clef.nvim)
 - [wangl-cc/im-switch.nvim](https://github.com/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/stars/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/last-commit/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/wangl-cc/im-switch.nvim)
+- [yangrq1018/im-switch.nvim](https://github.com/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/stars/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/last-commit/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/yangrq1018/im-switch.nvim)
 
 #### Fcitx
 
