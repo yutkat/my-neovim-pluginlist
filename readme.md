@@ -494,6 +494,7 @@
 - [TobinPalmer/Tip.nvim](https://github.com/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/Tip.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/Tip.nvim)
 - [jtubbenhauer/selfhelp.nvim](https://github.com/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/selfhelp.nvim)
 - [bennypowers/changesets.nvim](https://github.com/bennypowers/changesets.nvim) ![](https://img.shields.io/github/stars/bennypowers/changesets.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/changesets.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/changesets.nvim)
+- [hinkers/nvim-cheatsheet](https://github.com/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/stars/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/hinkers/nvim-cheatsheet)
 
 ### checkhealth
 
@@ -516,6 +517,7 @@
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
 - [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
 - [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
+- [Myzel394/telescope-last-positions.nvim](https://github.com/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/stars/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/telescope-last-positions.nvim)
 
 ### Backup
 
