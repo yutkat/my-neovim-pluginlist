@@ -33,7 +33,6 @@
 - [doums/tenaille.nvim](https://github.com/doums/tenaille.nvim) ![](https://img.shields.io/github/stars/doums/tenaille.nvim) ![](https://img.shields.io/github/last-commit/doums/tenaille.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/tenaille.nvim)
 - [nvimdev/pairmate.nvim](https://github.com/nvimdev/pairmate.nvim) ![](https://img.shields.io/github/stars/nvimdev/pairmate.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/pairmate.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/pairmate.nvim)
 - [Sam-programs/autopairs.nvim](https://github.com/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/stars/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/autopairs.nvim)
-- [kaiuri/fakepairs.nvim](https://github.com/kaiuri/fakepairs.nvim) ![](https://img.shields.io/github/stars/kaiuri/fakepairs.nvim) ![](https://img.shields.io/github/last-commit/kaiuri/fakepairs.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiuri/fakepairs.nvim)
 
 ### endwise
 
