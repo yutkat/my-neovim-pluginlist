@@ -5,6 +5,7 @@
 - [Convert](#convert)
   * [Adding and subtracting](#adding-and-subtracting)
   * [Convert Case](#convert-case)
+  * [Convert Word](#convert-word)
   * [Boolean](#boolean)
   * [Base64](#base64)
   * [Date](#date)
@@ -42,6 +43,10 @@
 - [aklk1ng/flip-word.nvim](https://github.com/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/stars/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/last-commit/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/commit-activity/y/aklk1ng/flip-word.nvim)
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ![](https://img.shields.io/github/stars/gregorias/coerce.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coerce.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coerce.nvim)
 - [chrishannah/textcase.nvim](https://github.com/chrishannah/textcase.nvim) ![](https://img.shields.io/github/stars/chrishannah/textcase.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/textcase.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/textcase.nvim)
+
+### Convert Word
+
+- [SR-MyStar/antonym.nvim](https://github.com/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/antonym.nvim)
 
 ### Boolean
 

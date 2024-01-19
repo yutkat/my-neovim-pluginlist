@@ -13,6 +13,7 @@
   * [Auto detect style](#auto-detect-style)
   * [:make style](#make-style)
   * [CLI](#cli)
+    + [Taskfile](#taskfile)
   * [Specific runner](#specific-runner)
   * [Partial execution](#partial-execution)
     + [Jupyter style](#jupyter-style)
@@ -31,6 +32,7 @@
 - [jedrzejboczar/toggletasks.nvim](https://github.com/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/toggletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/toggletasks.nvim)
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/stars/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/vs-tasks.nvim)
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) ![](https://img.shields.io/github/stars/Dax89/automaton.nvim) ![](https://img.shields.io/github/last-commit/Dax89/automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/automaton.nvim)
+- [JoelMTom/nvim-automakerun](https://github.com/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/stars/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/last-commit/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/commit-activity/y/JoelMTom/nvim-automakerun)
 
 ### YAML
 
@@ -118,6 +120,10 @@
 ## CLI
 
 - [BeatScherrer/just.nvim](https://github.com/BeatScherrer/just.nvim) ![](https://img.shields.io/github/stars/BeatScherrer/just.nvim) ![](https://img.shields.io/github/last-commit/BeatScherrer/just.nvim) ![](https://img.shields.io/github/commit-activity/y/BeatScherrer/just.nvim)
+
+### Taskfile
+
+- [ShadowApex/Taskfile.nvim](https://github.com/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/stars/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/last-commit/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadowApex/Taskfile.nvim)
 
 ## Specific runner
 
