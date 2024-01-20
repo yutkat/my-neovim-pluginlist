@@ -4,6 +4,7 @@
 
 - [Treesitter](#treesitter)
   * [Installer](#installer)
+- [Code Action](#code-action)
 
 <!-- tocstop -->
 
@@ -20,3 +21,7 @@
 ### Installer
 
 - [nazo6/ts-query-installer.nvim](https://github.com/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/stars/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/last-commit/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/ts-query-installer.nvim)
+
+## Code Action
+
+- [jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/code-refactor.nvim)
