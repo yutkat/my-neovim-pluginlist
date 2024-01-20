@@ -18,6 +18,7 @@
     + [Nix](#nix)
     + [PHP](#php)
       - [Laravel](#laravel)
+        * [drupal](#drupal)
     + [C#](#c%23)
     + [Unity](#unity)
     + [Unreal](#unreal)
@@ -176,6 +177,10 @@
 - [adoolaard/nvim-cmp-laravel](https://github.com/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/stars/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/last-commit/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/commit-activity/y/adoolaard/nvim-cmp-laravel)
 - [mikereyez/laravel-helpers.nvim](https://github.com/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/stars/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/last-commit/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/mikereyez/laravel-helpers.nvim)
 
+##### drupal
+
+- [jdrupal-dev/drupal.nvim](https://github.com/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/drupal.nvim)
+
 ### C#
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
@@ -302,6 +307,7 @@
 
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
+- [theoboldalex/typelens.nvim](https://github.com/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/stars/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/typelens.nvim)
 
 ### Nim
 

@@ -14,6 +14,7 @@
   * [Visual search](#visual-search)
   * [File search](#file-search)
 - [Replace](#replace)
+  * [Rename](#rename)
 - [Grep](#grep)
   * [AST](#ast)
 - [Select](#select)
@@ -107,6 +108,10 @@
 - [t-hg/nvim-search-replace](https://github.com/t-hg/nvim-search-replace) ![](https://img.shields.io/github/stars/t-hg/nvim-search-replace) ![](https://img.shields.io/github/last-commit/t-hg/nvim-search-replace) ![](https://img.shields.io/github/commit-activity/y/t-hg/nvim-search-replace)
 - [srpmtt/nvim-replace](https://github.com/srpmtt/nvim-replace) ![](https://img.shields.io/github/stars/srpmtt/nvim-replace) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-replace) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-replace)
 - [ctimmins96/fnr.nvim](https://github.com/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/stars/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/last-commit/ctimmins96/fnr.nvim) ![](https://img.shields.io/github/commit-activity/y/ctimmins96/fnr.nvim)
+
+## Rename
+
+- [seasonalmatcha/symbol-renamer.nvim](https://github.com/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/stars/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/last-commit/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/seasonalmatcha/symbol-renamer.nvim)
 
 # Grep
 

@@ -169,6 +169,7 @@
 ##### Angular
 
 - [abelfubu/nvim-treesitter-angular](https://github.com/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/stars/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/last-commit/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/commit-activity/y/abelfubu/nvim-treesitter-angular)
+- [justinrassier/nvim-treesitter-ng](https://github.com/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/stars/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/last-commit/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/commit-activity/y/justinrassier/nvim-treesitter-ng)
 
 ##### Svelte
 

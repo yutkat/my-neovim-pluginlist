@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Yank](#yank)
+  * [URL](#url)
   * [Register Selector](#register-selector)
   * [OSC52](#osc52)
   * [Save](#save)
@@ -24,6 +25,10 @@
 - [dam9000/classic-copy-paste.nvim](https://github.com/dam9000/classic-copy-paste.nvim) ![](https://img.shields.io/github/stars/dam9000/classic-copy-paste.nvim) ![](https://img.shields.io/github/last-commit/dam9000/classic-copy-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/dam9000/classic-copy-paste.nvim)
 - [jake-stewart/append-unnamed.nvim](https://github.com/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/stars/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/append-unnamed.nvim)
 - [RomanoZumbe/yanki.nvim](https://github.com/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/stars/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/last-commit/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanoZumbe/yanki.nvim)
+
+## URL
+
+- [salvaft/copyurl.nvim](https://github.com/salvaft/copyurl.nvim) ![](https://img.shields.io/github/stars/salvaft/copyurl.nvim) ![](https://img.shields.io/github/last-commit/salvaft/copyurl.nvim) ![](https://img.shields.io/github/commit-activity/y/salvaft/copyurl.nvim)
 
 ## Register Selector
 
