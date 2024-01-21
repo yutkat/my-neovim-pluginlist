@@ -41,6 +41,7 @@
 - [nvim-neopack/neopack.nvim](https://github.com/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/stars/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/last-commit/nvim-neopack/neopack.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neopack/neopack.nvim)
 - [zukijifukato/hephy.nvim](https://github.com/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/stars/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/last-commit/zukijifukato/hephy.nvim) ![](https://img.shields.io/github/commit-activity/y/zukijifukato/hephy.nvim)
 - [nocksock/baggage.nvim](https://github.com/nocksock/baggage.nvim) ![](https://img.shields.io/github/stars/nocksock/baggage.nvim) ![](https://img.shields.io/github/last-commit/nocksock/baggage.nvim) ![](https://img.shields.io/github/commit-activity/y/nocksock/baggage.nvim)
+- [ripjackie/alpaca.nvim](https://github.com/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/stars/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/last-commit/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/commit-activity/y/ripjackie/alpaca.nvim)
 
 ### Update checker
 

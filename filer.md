@@ -14,6 +14,7 @@
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
   * [Create directory](#create-directory)
+  * [Tree View](#tree-view)
 
 <!-- tocstop -->
 
@@ -119,4 +120,9 @@
 ## Create directory
 
 - [aikooo7/funnyfiles.nvim](https://github.com/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/stars/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/last-commit/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/aikooo7/funnyfiles.nvim)
+
+
+## Tree View
+
+- [amlanjlahkar/splitree.nvim](https://github.com/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/splitree.nvim)
 
