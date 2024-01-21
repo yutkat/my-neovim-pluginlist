@@ -27,6 +27,7 @@
     + [Markdown list](#markdown-list)
     + [Markdown concealer](#markdown-concealer)
     + [Markdown converter](#markdown-converter)
+    + [MDX](#mdx)
     + [Marp](#marp)
   * [PlantUML](#plantuml)
   * [AsciiDoc](#asciidoc)
@@ -146,11 +147,13 @@
 - [yaocccc/nvim-hl-mdcodeblock.lua](https://github.com/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/stars/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/last-commit/yaocccc/nvim-hl-mdcodeblock.lua) ![](https://img.shields.io/github/commit-activity/y/yaocccc/nvim-hl-mdcodeblock.lua)
 - [mskelton/hoverdown.nvim](https://github.com/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/stars/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/last-commit/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/hoverdown.nvim)
 - [simondwall/literate_markdown.nvim](https://github.com/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/stars/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/last-commit/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/literate_markdown.nvim)
+- [fishioon/cmd.nvim](https://github.com/fishioon/cmd.nvim) ![](https://img.shields.io/github/stars/fishioon/cmd.nvim) ![](https://img.shields.io/github/last-commit/fishioon/cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/fishioon/cmd.nvim)
 
 #### Markdown table
 
 - [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/stars/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/last-commit/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/edit-markdown-table.nvim)
 - [lhybdv/md-table.nvim](https://github.com/lhybdv/md-table.nvim) ![](https://img.shields.io/github/stars/lhybdv/md-table.nvim) ![](https://img.shields.io/github/last-commit/lhybdv/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/lhybdv/md-table.nvim)
+- [shaneworld/NeoTabulator.nvim](https://github.com/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/stars/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/last-commit/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneworld/NeoTabulator.nvim)
 
 #### Markdown evaluate code
 
@@ -186,6 +189,11 @@
 - [realprogrammersusevim/md-to-html.nvim](https://github.com/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/stars/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/last-commit/realprogrammersusevim/md-to-html.nvim) ![](https://img.shields.io/github/commit-activity/y/realprogrammersusevim/md-to-html.nvim)
 - [Tejada-Omar/notes-compile.nvim](https://github.com/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/stars/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/last-commit/Tejada-Omar/notes-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Tejada-Omar/notes-compile.nvim)
 
+#### MDX
+
+- [loqusion/experimental_mdx.nvim](https://github.com/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/stars/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/last-commit/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/experimental_mdx.nvim)
+
+
 #### Marp
 
 - [mpas/marp-nvim](https://github.com/mpas/marp-nvim) ![](https://img.shields.io/github/stars/mpas/marp-nvim) ![](https://img.shields.io/github/last-commit/mpas/marp-nvim) ![](https://img.shields.io/github/commit-activity/y/mpas/marp-nvim)
@@ -208,6 +216,7 @@
 - [arminveres/md-pdf.nvim](https://github.com/arminveres/md-pdf.nvim) ![](https://img.shields.io/github/stars/arminveres/md-pdf.nvim) ![](https://img.shields.io/github/last-commit/arminveres/md-pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/arminveres/md-pdf.nvim)
 - [IsaacTay/nougat.nvim](https://github.com/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/stars/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/last-commit/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/commit-activity/y/IsaacTay/nougat.nvim)
 - [PaysanCorrezien/pdf.nvim](https://github.com/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/pdf.nvim)
+- [mcjkula/md-pdf.nvim](https://github.com/mcjkula/md-pdf.nvim) ![](https://img.shields.io/github/stars/mcjkula/md-pdf.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/md-pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/md-pdf.nvim)
 
 ### Pandoc
 

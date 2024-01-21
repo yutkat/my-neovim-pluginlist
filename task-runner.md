@@ -75,6 +75,7 @@
 - [ej-shafran/compile-mode.nvim](https://github.com/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/stars/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ej-shafran/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ej-shafran/compile-mode.nvim)
 - [treemcgee42/custom-compile.nvim](https://github.com/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/stars/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/last-commit/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/treemcgee42/custom-compile.nvim)
 - [616b2f/bsp.nvim](https://github.com/616b2f/bsp.nvim) ![](https://img.shields.io/github/stars/616b2f/bsp.nvim) ![](https://img.shields.io/github/last-commit/616b2f/bsp.nvim) ![](https://img.shields.io/github/commit-activity/y/616b2f/bsp.nvim)
+- [jellydn/quick-code-runner.nvim](https://github.com/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/stars/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/last-commit/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/quick-code-runner.nvim)
 
 ### Shell
 
@@ -104,6 +105,7 @@
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) ![](https://img.shields.io/github/stars/Hubro/nvim-splitrun) ![](https://img.shields.io/github/last-commit/Hubro/nvim-splitrun) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-splitrun)
 - [isaac238/terminal_run.nvim](https://github.com/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/stars/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/last-commit/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/commit-activity/y/isaac238/terminal_run.nvim)
 - [nvimdev/rapid.nvim](https://github.com/nvimdev/rapid.nvim) ![](https://img.shields.io/github/stars/nvimdev/rapid.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/rapid.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/rapid.nvim)
+- [fishioon/term.nvim](https://github.com/fishioon/term.nvim) ![](https://img.shields.io/github/stars/fishioon/term.nvim) ![](https://img.shields.io/github/last-commit/fishioon/term.nvim) ![](https://img.shields.io/github/commit-activity/y/fishioon/term.nvim)
 
 ## Auto detect style
 
