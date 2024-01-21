@@ -1,0 +1,32 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [Save](#save)
+  * [Cursor Position](#cursor-position)
+- [Backup](#backup)
+
+<!-- tocstop -->
+
+## Save
+
+- [Pocco81/AutoSave.nvim](https://github.com/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/stars/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/AutoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/AutoSave.nvim)
+- [boorboor/save.nvim](https://github.com/boorboor/save.nvim) ![](https://img.shields.io/github/stars/boorboor/save.nvim) ![](https://img.shields.io/github/last-commit/boorboor/save.nvim) ![](https://img.shields.io/github/commit-activity/y/boorboor/save.nvim)
+- [stefanwatt/auto-save.nvim](https://github.com/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/stars/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/auto-save.nvim)
+- [tmillr/sos.nvim](https://github.com/tmillr/sos.nvim) ![](https://img.shields.io/github/stars/tmillr/sos.nvim) ![](https://img.shields.io/github/last-commit/tmillr/sos.nvim) ![](https://img.shields.io/github/commit-activity/y/tmillr/sos.nvim)
+- [Fildo7525/Revolver](https://github.com/Fildo7525/Revolver) ![](https://img.shields.io/github/stars/Fildo7525/Revolver) ![](https://img.shields.io/github/last-commit/Fildo7525/Revolver) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/Revolver)
+- [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
+- [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
+- [ecthelionvi/NeoSave.nvim](https://github.com/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoSave.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoSave.nvim)
+- [willothy/savior.nvim](https://github.com/willothy/savior.nvim) ![](https://img.shields.io/github/stars/willothy/savior.nvim) ![](https://img.shields.io/github/last-commit/willothy/savior.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/savior.nvim)
+
+### Cursor Position
+
+- [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
+- [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
+- [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
+- [Myzel394/telescope-last-positions.nvim](https://github.com/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/stars/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/telescope-last-positions.nvim)
+
+## Backup
+
+- [dawsers/telescope-file-history.nvim](https://github.com/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-file-history.nvim)
