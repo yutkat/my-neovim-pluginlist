@@ -1,0 +1,22 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [Translate](#translate)
+
+<!-- tocstop -->
+
+## Translate
+
+- [uga-rosa/translate.nvim](https://github.com/uga-rosa/translate.nvim) ![](https://img.shields.io/github/stars/uga-rosa/translate.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/translate.nvim)
+- [potamides/pantran.nvim](https://github.com/potamides/pantran.nvim) ![](https://img.shields.io/github/stars/potamides/pantran.nvim) ![](https://img.shields.io/github/last-commit/potamides/pantran.nvim) ![](https://img.shields.io/github/commit-activity/y/potamides/pantran.nvim)
+- [gw31415/deepl-commands.nvim](https://github.com/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/stars/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/last-commit/gw31415/deepl-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/deepl-commands.nvim)
+- [torikatsupg/deepl.nvim](https://github.com/torikatsupg/deepl.nvim) ![](https://img.shields.io/github/stars/torikatsupg/deepl.nvim) ![](https://img.shields.io/github/last-commit/torikatsupg/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/torikatsupg/deepl.nvim)
+- [nvima/nvim-translator](https://github.com/nvima/nvim-translator) ![](https://img.shields.io/github/stars/nvima/nvim-translator) ![](https://img.shields.io/github/last-commit/nvima/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/nvima/nvim-translator)
+- [jalvesaq/dict.nvim](https://github.com/jalvesaq/dict.nvim) ![](https://img.shields.io/github/stars/jalvesaq/dict.nvim) ![](https://img.shields.io/github/last-commit/jalvesaq/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/jalvesaq/dict.nvim)
+- [niuiic/translate.nvim](https://github.com/niuiic/translate.nvim) ![](https://img.shields.io/github/stars/niuiic/translate.nvim) ![](https://img.shields.io/github/last-commit/niuiic/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/translate.nvim)
+- [kiddos/translate.nvim](https://github.com/kiddos/translate.nvim) ![](https://img.shields.io/github/stars/kiddos/translate.nvim) ![](https://img.shields.io/github/last-commit/kiddos/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/translate.nvim)
+- [nabezokodaikon/translate.nvim](https://github.com/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/stars/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/last-commit/nabezokodaikon/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/nabezokodaikon/translate.nvim)
+- [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
+- [coffebar/crowtranslate.nvim](https://github.com/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/stars/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/last-commit/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/crowtranslate.nvim)
+- [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
