@@ -175,6 +175,7 @@
 - [michel-garcia/rsync.nvim](https://github.com/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/stars/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/rsync.nvim)
 - [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) ![](https://img.shields.io/github/stars/coffebar/transfer.nvim) ![](https://img.shields.io/github/last-commit/coffebar/transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/transfer.nvim)
 - [syednabilashraf/sync-remote.nvim](https://github.com/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/stars/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/last-commit/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/syednabilashraf/sync-remote.nvim)
+- [bradenhelmer/nvim-syncer](https://github.com/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/stars/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/last-commit/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/commit-activity/y/bradenhelmer/nvim-syncer)
 
 #### ctags
 
