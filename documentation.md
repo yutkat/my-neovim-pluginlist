@@ -92,6 +92,7 @@
 - [NStefan002/mdmaker.nvim](https://github.com/NStefan002/mdmaker.nvim) ![](https://img.shields.io/github/stars/NStefan002/mdmaker.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/mdmaker.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/mdmaker.nvim)
 - [topazape/md-preview.nvim](https://github.com/topazape/md-preview.nvim) ![](https://img.shields.io/github/stars/topazape/md-preview.nvim) ![](https://img.shields.io/github/last-commit/topazape/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/topazape/md-preview.nvim)
 - [ReidMason/md-preview.nvim](https://github.com/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/stars/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/last-commit/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ReidMason/md-preview.nvim)
+- [Civitasv/mdp.nvim](https://github.com/Civitasv/mdp.nvim) ![](https://img.shields.io/github/stars/Civitasv/mdp.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/mdp.nvim)
 
 ##### Node
 

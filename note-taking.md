@@ -93,6 +93,7 @@
 - [LandonTr0n/taskb0t.nvim](https://github.com/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/stars/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/last-commit/LandonTr0n/taskb0t.nvim) ![](https://img.shields.io/github/commit-activity/y/LandonTr0n/taskb0t.nvim)
 - [ManasPatil0967/nvim-todo](https://github.com/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/stars/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/last-commit/ManasPatil0967/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/ManasPatil0967/nvim-todo)
 - [sammy-kablammy/simpletodo.nvim](https://github.com/sammy-kablammy/simpletodo.nvim) ![](https://img.shields.io/github/stars/sammy-kablammy/simpletodo.nvim) ![](https://img.shields.io/github/last-commit/sammy-kablammy/simpletodo.nvim) ![](https://img.shields.io/github/commit-activity/y/sammy-kablammy/simpletodo.nvim)
+- [cyrusn/task.nvim](https://github.com/cyrusn/task.nvim) ![](https://img.shields.io/github/stars/cyrusn/task.nvim) ![](https://img.shields.io/github/last-commit/cyrusn/task.nvim) ![](https://img.shields.io/github/commit-activity/y/cyrusn/task.nvim)
 
 ### Taskwarrior
 

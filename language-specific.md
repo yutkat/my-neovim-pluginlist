@@ -297,6 +297,7 @@
 ### Perl
 
 - [zKurisu/perldoc.nvim](https://github.com/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/stars/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/perldoc.nvim)
+- [dnebauer/dn-perl.nvim](https://github.com/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-perl.nvim)
 
 ### Lisp
 
