@@ -47,6 +47,7 @@
     + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
     + [Nushell](#nushell)
+    + [PowerShell](#powershell)
     + [F](#f)
     + [Wasm](#wasm)
     + [WebC](#webc)
@@ -329,6 +330,10 @@
 ### Nushell
 
 - [LhKipp/nvim-nu](https://github.com/LhKipp/nvim-nu) ![](https://img.shields.io/github/stars/LhKipp/nvim-nu) ![](https://img.shields.io/github/last-commit/LhKipp/nvim-nu) ![](https://img.shields.io/github/commit-activity/y/LhKipp/nvim-nu)
+
+### PowerShell
+
+- [TheLeoP/powershell.nvim](https://github.com/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/stars/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/last-commit/TheLeoP/powershell.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLeoP/powershell.nvim)
 
 ### F
 
