@@ -28,6 +28,7 @@
     + [Windows Terminal](#windows-terminal)
   * [Infra](#infra)
     + [OpenStack](#openstack)
+    + [SonarLint](#sonarlint)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
     + [Ansible](#ansible)
@@ -200,6 +201,10 @@
 #### OpenStack
 
 - [yasufum/os-tox.nvim](https://github.com/yasufum/os-tox.nvim) ![](https://img.shields.io/github/stars/yasufum/os-tox.nvim) ![](https://img.shields.io/github/last-commit/yasufum/os-tox.nvim) ![](https://img.shields.io/github/commit-activity/y/yasufum/os-tox.nvim)
+
+#### SonarLint
+
+- [alnav3/sonarlint.nvim](https://github.com/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/stars/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/last-commit/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/commit-activity/y/alnav3/sonarlint.nvim)
 
 ### Cloud
 
