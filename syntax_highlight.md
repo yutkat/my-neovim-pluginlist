@@ -13,6 +13,7 @@
   * [Colorscheme overwrite](#colorscheme-overwrite)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Color name](#color-name)
+  * [RGB](#rgb)
   * [Long line highlight](#long-line-highlight)
   * [Current word highlight](#current-word-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
@@ -91,6 +92,10 @@
 - [nat-418/telescope-color-names.nvim](https://github.com/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/telescope-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/telescope-color-names.nvim)
 - [nat-418/cmp-color-names.nvim](https://github.com/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/stars/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/last-commit/nat-418/cmp-color-names.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/cmp-color-names.nvim)
 - [dam9000/show-highlight.nvim](https://github.com/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/stars/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/last-commit/dam9000/show-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/dam9000/show-highlight.nvim)
+
+### RGB
+
+- [austinwilcox/hex2rgba](https://github.com/austinwilcox/hex2rgba) ![](https://img.shields.io/github/stars/austinwilcox/hex2rgba) ![](https://img.shields.io/github/last-commit/austinwilcox/hex2rgba) ![](https://img.shields.io/github/commit-activity/y/austinwilcox/hex2rgba)
 
 ### Long line highlight
 
