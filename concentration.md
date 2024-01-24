@@ -27,6 +27,7 @@
 - [ttak0422/piccolo-pomodoro.nvim](https://github.com/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/stars/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/piccolo-pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/piccolo-pomodoro.nvim)
 - [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) ![](https://img.shields.io/github/stars/epwalsh/pomo.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/pomo.nvim)
 - [donbignose/flowtime.nvim](https://github.com/donbignose/flowtime.nvim) ![](https://img.shields.io/github/stars/donbignose/flowtime.nvim) ![](https://img.shields.io/github/last-commit/donbignose/flowtime.nvim) ![](https://img.shields.io/github/commit-activity/y/donbignose/flowtime.nvim)
+- [gestylinaga/pomo.nvim](https://github.com/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/stars/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/last-commit/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/gestylinaga/pomo.nvim)
 
 ## Alarm
 
