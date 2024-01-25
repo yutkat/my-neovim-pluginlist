@@ -10,6 +10,7 @@
   * [Move](#move)
   * [Surround](#surround)
 - [Operator](#operator)
+  * [s](#s)
 
 <!-- tocstop -->
 
@@ -71,3 +72,8 @@
 - [echasnovski/mini.operators](https://github.com/echasnovski/mini.operators) ![](https://img.shields.io/github/stars/echasnovski/mini.operators) ![](https://img.shields.io/github/last-commit/echasnovski/mini.operators) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.operators)
 - [cat-phish/smooth-operator.nvim](https://github.com/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/stars/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/smooth-operator.nvim)
 - [monaqa/general-converter.nvim](https://github.com/monaqa/general-converter.nvim) ![](https://img.shields.io/github/stars/monaqa/general-converter.nvim) ![](https://img.shields.io/github/last-commit/monaqa/general-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/general-converter.nvim)
+
+### s
+
+- [Meqr1/s.nvim](https://github.com/Meqr1/s.nvim) ![](https://img.shields.io/github/stars/Meqr1/s.nvim) ![](https://img.shields.io/github/last-commit/Meqr1/s.nvim) ![](https://img.shields.io/github/commit-activity/y/Meqr1/s.nvim)
+

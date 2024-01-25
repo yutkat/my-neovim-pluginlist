@@ -22,6 +22,7 @@
 - [norseghost/nvimwordlist](https://github.com/norseghost/nvimwordlist) ![](https://img.shields.io/github/stars/norseghost/nvimwordlist) ![](https://img.shields.io/github/last-commit/norseghost/nvimwordlist) ![](https://img.shields.io/github/commit-activity/y/norseghost/nvimwordlist)
 - [MenBrial/spell.nvim](https://github.com/MenBrial/spell.nvim) ![](https://img.shields.io/github/stars/MenBrial/spell.nvim) ![](https://img.shields.io/github/last-commit/MenBrial/spell.nvim) ![](https://img.shields.io/github/commit-activity/y/MenBrial/spell.nvim)
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) ![](https://img.shields.io/github/stars/davidmh/cspell.nvim) ![](https://img.shields.io/github/last-commit/davidmh/cspell.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/cspell.nvim)
+- [nathom/autocorrect.nvim](https://github.com/nathom/autocorrect.nvim) ![](https://img.shields.io/github/stars/nathom/autocorrect.nvim) ![](https://img.shields.io/github/last-commit/nathom/autocorrect.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/autocorrect.nvim)
 
 #### Vale
 
