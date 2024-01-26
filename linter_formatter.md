@@ -53,6 +53,7 @@
 ### Formatter switcher
 
 - [fmbarina/pick-lsp-formatter.nvim](https://github.com/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/stars/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/last-commit/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/fmbarina/pick-lsp-formatter.nvim)
+- [mxilinas/flexblock.nvim](https://github.com/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/stars/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/last-commit/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/commit-activity/y/mxilinas/flexblock.nvim)
 
 ## Lint
 

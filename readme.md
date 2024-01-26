@@ -494,6 +494,7 @@
 ### Profiler
 
 - [mgerb/metrics.nvim](https://github.com/mgerb/metrics.nvim) ![](https://img.shields.io/github/stars/mgerb/metrics.nvim) ![](https://img.shields.io/github/last-commit/mgerb/metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/mgerb/metrics.nvim)
+- [wookayin/nvim-profiler](https://github.com/wookayin/nvim-profiler) ![](https://img.shields.io/github/stars/wookayin/nvim-profiler) ![](https://img.shields.io/github/last-commit/wookayin/nvim-profiler) ![](https://img.shields.io/github/commit-activity/y/wookayin/nvim-profiler)
 
 ## Coding
 
