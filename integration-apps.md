@@ -243,6 +243,7 @@
 - [interludedesign/azureutils.nvim](https://github.com/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/stars/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/last-commit/interludedesign/azureutils.nvim) ![](https://img.shields.io/github/commit-activity/y/interludedesign/azureutils.nvim)
 - [maxrzaw/azdo.nvim](https://github.com/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/stars/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/azdo.nvim)
 - [KaiWalter/azure-functions.nvim](https://github.com/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/stars/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/last-commit/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/KaiWalter/azure-functions.nvim)
+- [danarth/telescope-ado.nvim](https://github.com/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-ado.nvim)
 
 #### Salesforce
 

@@ -679,6 +679,7 @@
 
 - [martineausimon/nvim-mail-merge](https://github.com/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/stars/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-mail-merge)
 - [elmarsto/mountaineer.nvim](https://github.com/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/stars/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/last-commit/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/commit-activity/y/elmarsto/mountaineer.nvim)
+- [dnebauer/dn-mail.nvim](https://github.com/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-mail.nvim)
 
 ### Calendar
 
@@ -711,6 +712,7 @@
 - [OscarCreator/keystats.nvim](https://github.com/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/stars/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/last-commit/OscarCreator/keystats.nvim) ![](https://img.shields.io/github/commit-activity/y/OscarCreator/keystats.nvim)
 - [FriedemannG/klog.nvim](https://github.com/FriedemannG/klog.nvim) ![](https://img.shields.io/github/stars/FriedemannG/klog.nvim) ![](https://img.shields.io/github/last-commit/FriedemannG/klog.nvim) ![](https://img.shields.io/github/commit-activity/y/FriedemannG/klog.nvim)
 - [rymdlego/readtime.nvim](https://github.com/rymdlego/readtime.nvim) ![](https://img.shields.io/github/stars/rymdlego/readtime.nvim) ![](https://img.shields.io/github/last-commit/rymdlego/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rymdlego/readtime.nvim)
+- [Forsigg/daily-symbols-count.nvim](https://github.com/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/stars/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/last-commit/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/commit-activity/y/Forsigg/daily-symbols-count.nvim)
 
 #### Typing speed
 
