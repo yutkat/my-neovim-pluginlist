@@ -11,6 +11,7 @@
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
+  * [colorscheme transparent](#colorscheme-transparent)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Color name](#color-name)
   * [RGB](#rgb)
@@ -82,6 +83,10 @@
 ### Colorscheme overwrite
 
 - [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
+
+### colorscheme transparent
+
+- [GusJelly/transparent.nvim](https://github.com/GusJelly/transparent.nvim) ![](https://img.shields.io/github/stars/GusJelly/transparent.nvim) ![](https://img.shields.io/github/last-commit/GusJelly/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/GusJelly/transparent.nvim)
 
 ### Auto generate colorscheme
 
