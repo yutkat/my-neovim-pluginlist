@@ -678,7 +678,6 @@
 ### Mail
 
 - [martineausimon/nvim-mail-merge](https://github.com/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/stars/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-mail-merge) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-mail-merge)
-- [elmarsto/mountaineer.nvim](https://github.com/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/stars/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/last-commit/elmarsto/mountaineer.nvim) ![](https://img.shields.io/github/commit-activity/y/elmarsto/mountaineer.nvim)
 - [dnebauer/dn-mail.nvim](https://github.com/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-mail.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-mail.nvim)
 
 ### Calendar
