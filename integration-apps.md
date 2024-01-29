@@ -315,6 +315,7 @@
 ##### AutoHotKey
 
 - [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
+- [GrzegorzKozub/ahk.nvim](https://github.com/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/stars/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/last-commit/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/commit-activity/y/GrzegorzKozub/ahk.nvim)
 
 ##### WSL
 

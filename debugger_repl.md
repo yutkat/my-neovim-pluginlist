@@ -47,6 +47,7 @@
 - [jonboh/nvim-dap-rr](https://github.com/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/stars/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/last-commit/jonboh/nvim-dap-rr) ![](https://img.shields.io/github/commit-activity/y/jonboh/nvim-dap-rr)
 - [daic0r/dap-helper.nvim](https://github.com/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/stars/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/last-commit/daic0r/dap-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/daic0r/dap-helper.nvim)
 - [SteffenBlake/nvim-dap-dotnet-helper](https://github.com/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/stars/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/last-commit/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/commit-activity/y/SteffenBlake/nvim-dap-dotnet-helper)
+- [babak-kh/breakpoints.nvim](https://github.com/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/stars/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/last-commit/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/babak-kh/breakpoints.nvim)
 
 ### REPL
 

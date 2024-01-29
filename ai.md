@@ -60,6 +60,7 @@
 ### Gemini
 
 - [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) ![](https://img.shields.io/github/stars/gera2ld/ai.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/ai.nvim)
+- [kiddos/gemini.nvim](https://github.com/kiddos/gemini.nvim) ![](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![](https://img.shields.io/github/last-commit/kiddos/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/gemini.nvim)
 
 ### LLM
 
