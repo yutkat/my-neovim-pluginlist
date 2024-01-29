@@ -103,6 +103,7 @@
 - [rktjmp/hotpot.nvim](https://github.com/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/stars/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/hotpot.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/hotpot.nvim)
   - [datwaft/themis.nvim](https://github.com/datwaft/themis.nvim) ![](https://img.shields.io/github/stars/datwaft/themis.nvim) ![](https://img.shields.io/github/last-commit/datwaft/themis.nvim) ![](https://img.shields.io/github/commit-activity/y/datwaft/themis.nvim)
 - [bitspaceorg/Weather-Reporto.nvim](https://github.com/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/stars/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/last-commit/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/commit-activity/y/bitspaceorg/Weather-Reporto.nvim)
+- [lazymaniac/wttr.nvim](https://github.com/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/stars/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/last-commit/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/commit-activity/y/lazymaniac/wttr.nvim)
 
 ## Clock
 
