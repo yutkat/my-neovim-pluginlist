@@ -173,6 +173,7 @@
 
 - [samueljoli/hurl.nvim](https://github.com/samueljoli/hurl.nvim) ![](https://img.shields.io/github/stars/samueljoli/hurl.nvim) ![](https://img.shields.io/github/last-commit/samueljoli/hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/samueljoli/hurl.nvim)
 - [Zhuxy/hurl.nvim](https://github.com/Zhuxy/hurl.nvim) ![](https://img.shields.io/github/stars/Zhuxy/hurl.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/hurl.nvim)
+- [jellydn/hurl.nvim](https://github.com/jellydn/hurl.nvim) ![](https://img.shields.io/github/stars/jellydn/hurl.nvim) ![](https://img.shields.io/github/last-commit/jellydn/hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/hurl.nvim)
 
 ### REST
 
