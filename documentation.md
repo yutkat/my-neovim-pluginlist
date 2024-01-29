@@ -93,6 +93,7 @@
 - [topazape/md-preview.nvim](https://github.com/topazape/md-preview.nvim) ![](https://img.shields.io/github/stars/topazape/md-preview.nvim) ![](https://img.shields.io/github/last-commit/topazape/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/topazape/md-preview.nvim)
 - [ReidMason/md-preview.nvim](https://github.com/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/stars/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/last-commit/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ReidMason/md-preview.nvim)
 - [Civitasv/mdp.nvim](https://github.com/Civitasv/mdp.nvim) ![](https://img.shields.io/github/stars/Civitasv/mdp.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/mdp.nvim)
+- [mcjkula/live-preview.nvim](https://github.com/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/stars/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/live-preview.nvim)
 
 ##### Node
 
@@ -194,7 +195,6 @@
 
 - [loqusion/experimental_mdx.nvim](https://github.com/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/stars/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/last-commit/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/experimental_mdx.nvim)
 
-
 #### Marp
 
 - [mpas/marp-nvim](https://github.com/mpas/marp-nvim) ![](https://img.shields.io/github/stars/mpas/marp-nvim) ![](https://img.shields.io/github/last-commit/mpas/marp-nvim) ![](https://img.shields.io/github/commit-activity/y/mpas/marp-nvim)
@@ -226,6 +226,7 @@
 - [onemoresuza/markup-previewer.nvim](https://github.com/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/stars/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/last-commit/onemoresuza/markup-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/onemoresuza/markup-previewer.nvim)
 - [GarciaBarreiro/nvim-pandoc](https://github.com/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/stars/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/last-commit/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/commit-activity/y/GarciaBarreiro/nvim-pandoc)
 - [kamalsacranie/pandoc-preview.nvim](https://github.com/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/stars/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/last-commit/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/pandoc-preview.nvim)
+- [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
 
 ### Vimdoc
 
