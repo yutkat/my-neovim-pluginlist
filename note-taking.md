@@ -111,6 +111,8 @@
 - [IlyasYOY/obs.nvim](https://github.com/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/obs.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/obs.nvim)
 - [oflisback/obsidian-sync.nvim](https://github.com/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/stars/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/last-commit/oflisback/obsidian-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/oflisback/obsidian-sync.nvim)
 - [oleksiiluchnikov/vault.nvim](https://github.com/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/vault.nvim)
+- [NextPi/obsidian.nvim](https://github.com/NextPi/obsidian.nvim) ![](https://img.shields.io/github/stars/NextPi/obsidian.nvim) ![](https://img.shields.io/github/last-commit/NextPi/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/NextPi/obsidian.nvim)
+- [NoseferatuWKF/dijon.nvim](https://github.com/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/stars/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/last-commit/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/commit-activity/y/NoseferatuWKF/dijon.nvim)
 
 ## Google Keep
 
