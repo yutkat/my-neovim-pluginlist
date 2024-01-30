@@ -191,6 +191,7 @@
 ### Unity
 
 - [Lohni/unitysync.nvim](https://github.com/Lohni/unitysync.nvim) ![](https://img.shields.io/github/stars/Lohni/unitysync.nvim) ![](https://img.shields.io/github/last-commit/Lohni/unitysync.nvim) ![](https://img.shields.io/github/commit-activity/y/Lohni/unitysync.nvim)
+- [PostCyberPunk/Univim.nvim](https://github.com/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/stars/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/last-commit/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/commit-activity/y/PostCyberPunk/Univim.nvim)
 
 ### Unreal
 

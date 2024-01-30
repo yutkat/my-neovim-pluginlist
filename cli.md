@@ -10,6 +10,7 @@
     + [Docker Compose](#docker-compose)
   * [Subversion](#subversion)
   * [dotenv](#dotenv)
+  * [direnv](#direnv)
   * [Chamber](#chamber)
   * [Sphinx](#sphinx)
   * [Swagger](#swagger)
@@ -98,6 +99,10 @@
 - [LinArcX/telescope-env.nvim](https://github.com/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-env.nvim)
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/stars/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/last-commit/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/cmp-dotenv)
 
+#### direnv
+
+- [Aleod-m/direnv.nvim](https://github.com/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/stars/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/last-commit/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/Aleod-m/direnv.nvim)
+
 #### Chamber
 
 #### Sphinx
@@ -119,6 +124,7 @@
 #### Skeleton
 
 - [cvigilv/esqueleto.nvim](https://github.com/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/stars/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/last-commit/cvigilv/esqueleto.nvim) ![](https://img.shields.io/github/commit-activity/y/cvigilv/esqueleto.nvim)
+- [nocis/skeleton.nvim](https://github.com/nocis/skeleton.nvim) ![](https://img.shields.io/github/stars/nocis/skeleton.nvim) ![](https://img.shields.io/github/last-commit/nocis/skeleton.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/skeleton.nvim)
 
 #### make
 
@@ -176,6 +182,7 @@
 - [coffebar/transfer.nvim](https://github.com/coffebar/transfer.nvim) ![](https://img.shields.io/github/stars/coffebar/transfer.nvim) ![](https://img.shields.io/github/last-commit/coffebar/transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/transfer.nvim)
 - [syednabilashraf/sync-remote.nvim](https://github.com/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/stars/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/last-commit/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/syednabilashraf/sync-remote.nvim)
 - [bradenhelmer/nvim-syncer](https://github.com/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/stars/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/last-commit/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/commit-activity/y/bradenhelmer/nvim-syncer)
+- [lennarkivimae/nvim-rsync](https://github.com/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/stars/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/last-commit/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/lennarkivimae/nvim-rsync)
 
 #### ctags
 
