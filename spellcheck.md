@@ -23,6 +23,7 @@
 - [MenBrial/spell.nvim](https://github.com/MenBrial/spell.nvim) ![](https://img.shields.io/github/stars/MenBrial/spell.nvim) ![](https://img.shields.io/github/last-commit/MenBrial/spell.nvim) ![](https://img.shields.io/github/commit-activity/y/MenBrial/spell.nvim)
 - [davidmh/cspell.nvim](https://github.com/davidmh/cspell.nvim) ![](https://img.shields.io/github/stars/davidmh/cspell.nvim) ![](https://img.shields.io/github/last-commit/davidmh/cspell.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/cspell.nvim)
 - [nathom/autocorrect.nvim](https://github.com/nathom/autocorrect.nvim) ![](https://img.shields.io/github/stars/nathom/autocorrect.nvim) ![](https://img.shields.io/github/last-commit/nathom/autocorrect.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/autocorrect.nvim)
+- [swaits/thethethe.nvim](https://github.com/swaits/thethethe.nvim) ![](https://img.shields.io/github/stars/swaits/thethethe.nvim) ![](https://img.shields.io/github/last-commit/swaits/thethethe.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/thethethe.nvim)
 
 #### Vale
 

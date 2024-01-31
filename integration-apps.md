@@ -22,6 +22,7 @@
     + [nushell](#nushell)
   * [GUI](#gui)
     + [Avalonia](#avalonia)
+    + [Stata](#stata)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
     + [WezTerm](#wezterm)
@@ -175,6 +176,10 @@
 #### Avalonia
 
 - [Johanw123/avalonia.nvim](https://github.com/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/stars/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/last-commit/Johanw123/avalonia.nvim) ![](https://img.shields.io/github/commit-activity/y/Johanw123/avalonia.nvim)
+
+#### Stata
+
+- [leerauljin/do-stata.nvim](https://github.com/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/stars/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/last-commit/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/commit-activity/y/leerauljin/do-stata.nvim)
 
 ### Terminal
 

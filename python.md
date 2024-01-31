@@ -14,6 +14,7 @@
   * [Jupyter](#jupyter)
   * [Anaconda](#anaconda)
   * [Scrapy](#scrapy)
+- [MicroPython](#micropython)
 
 <!-- tocstop -->
 
@@ -88,3 +89,7 @@
 #### Scrapy
 
 - [Uszczi/nvim-scrapy-debug](https://github.com/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/stars/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/last-commit/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/commit-activity/y/Uszczi/nvim-scrapy-debug)
+
+### MicroPython
+
+- [Linus187erz/pico-boa.nvim](https://github.com/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/stars/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/last-commit/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/commit-activity/y/Linus187erz/pico-boa.nvim)
