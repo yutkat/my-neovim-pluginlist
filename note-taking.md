@@ -146,6 +146,7 @@
 - [AidanThomas/scratchpad.nvim](https://github.com/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/stars/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/AidanThomas/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/AidanThomas/scratchpad.nvim)
 - [adalessa/scratch.nvim](https://github.com/adalessa/scratch.nvim) ![](https://img.shields.io/github/stars/adalessa/scratch.nvim) ![](https://img.shields.io/github/last-commit/adalessa/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/scratch.nvim)
 - [miguelcrespo/scratch-buffer.nvim](https://github.com/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/stars/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/last-commit/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelcrespo/scratch-buffer.nvim)
+- [swaits/scratch.nvim](https://github.com/swaits/scratch.nvim) ![](https://img.shields.io/github/stars/swaits/scratch.nvim) ![](https://img.shields.io/github/last-commit/swaits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/scratch.nvim)
 
 ## inline note
 
