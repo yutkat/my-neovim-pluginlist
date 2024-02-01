@@ -74,6 +74,7 @@
 
 - [nvimtools/none-ls.nvim](https://github.com/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/stars/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/last-commit/nvimtools/none-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimtools/none-ls.nvim)
   - [gbprod/none-ls-php.nvim](https://github.com/gbprod/none-ls-php.nvim) ![](https://img.shields.io/github/stars/gbprod/none-ls-php.nvim) ![](https://img.shields.io/github/last-commit/gbprod/none-ls-php.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/none-ls-php.nvim)
+  - [gbprod/none-ls-luacheck.nvim](https://github.com/gbprod/none-ls-luacheck.nvim) ![](https://img.shields.io/github/stars/gbprod/none-ls-luacheck.nvim) ![](https://img.shields.io/github/last-commit/gbprod/none-ls-luacheck.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/none-ls-luacheck.nvim)
 - [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/stars/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/last-commit/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-stuff/null-ls.nvim)
 - [edanisko/null-ls.nvim](https://github.com/edanisko/null-ls.nvim) ![](https://img.shields.io/github/stars/edanisko/null-ls.nvim) ![](https://img.shields.io/github/last-commit/edanisko/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/edanisko/null-ls.nvim)
 

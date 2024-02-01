@@ -168,6 +168,7 @@
 #### dotnet
 
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
+- [Cozidian/nvim-dotnet-cli](https://github.com/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/stars/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/last-commit/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/commit-activity/y/Cozidian/nvim-dotnet-cli)
 
 #### ftp
 

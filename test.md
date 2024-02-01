@@ -21,6 +21,7 @@
 - [GitEdvard/test-on-save.nvim](https://github.com/GitEdvard/test-on-save.nvim) ![](https://img.shields.io/github/stars/GitEdvard/test-on-save.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/test-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/test-on-save.nvim)
 - [Al0den/tester.nvim](https://github.com/Al0den/tester.nvim) ![](https://img.shields.io/github/stars/Al0den/tester.nvim) ![](https://img.shields.io/github/last-commit/Al0den/tester.nvim) ![](https://img.shields.io/github/commit-activity/y/Al0den/tester.nvim)
 - [sebhein/nvim-tron](https://github.com/sebhein/nvim-tron) ![](https://img.shields.io/github/stars/sebhein/nvim-tron) ![](https://img.shields.io/github/last-commit/sebhein/nvim-tron) ![](https://img.shields.io/github/commit-activity/y/sebhein/nvim-tron)
+- [lewis6991/nvim-test](https://github.com/lewis6991/nvim-test) ![](https://img.shields.io/github/stars/lewis6991/nvim-test) ![](https://img.shields.io/github/last-commit/lewis6991/nvim-test) ![](https://img.shields.io/github/commit-activity/y/lewis6991/nvim-test)
 
 ### Test file
 
