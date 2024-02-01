@@ -11,6 +11,7 @@
       - [Docstring](#docstring)
     + [Luau](#luau)
     + [Rust](#rust)
+      - [Test](#test)
     + [Zig](#zig)
     + [Ruby](#ruby)
       - [Gem](#gem)
@@ -121,6 +122,10 @@
 - [willothy/leptos.nvim](https://github.com/willothy/leptos.nvim) ![](https://img.shields.io/github/stars/willothy/leptos.nvim) ![](https://img.shields.io/github/last-commit/willothy/leptos.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/leptos.nvim)
 - [vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim) ![](https://img.shields.io/github/stars/vxpm/ferris.nvim) ![](https://img.shields.io/github/last-commit/vxpm/ferris.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/ferris.nvim)
 - [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
+
+#### Test
+
+- [pgherveou/rust-quick-tests.nvim](https://github.com/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/stars/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/last-commit/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/commit-activity/y/pgherveou/rust-quick-tests.nvim)
 
 ### Zig
 
@@ -448,6 +453,7 @@
 
 - [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
+- [cjon256/dsa.nvim](https://github.com/cjon256/dsa.nvim) ![](https://img.shields.io/github/stars/cjon256/dsa.nvim) ![](https://img.shields.io/github/last-commit/cjon256/dsa.nvim) ![](https://img.shields.io/github/commit-activity/y/cjon256/dsa.nvim)
 
 # Configuration
 

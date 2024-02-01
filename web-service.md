@@ -10,6 +10,7 @@
   * [Notion](#notion)
   * [Gmail](#gmail)
   * [Jira](#jira)
+  * [Linear](#linear)
   * [Track](#track)
   * [youtrack](#youtrack)
   * [Google Docs](#google-docs)
@@ -82,6 +83,10 @@
 - [ChristophSonnleitner/jira.nvim](https://github.com/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/stars/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/last-commit/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristophSonnleitner/jira.nvim)
 - [Funk66/jira.nvim](https://github.com/Funk66/jira.nvim) ![](https://img.shields.io/github/stars/Funk66/jira.nvim) ![](https://img.shields.io/github/last-commit/Funk66/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Funk66/jira.nvim)
 - [jonarrien/jira.nvim](https://github.com/jonarrien/jira.nvim) ![](https://img.shields.io/github/stars/jonarrien/jira.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/jira.nvim)
+
+#### Linear
+
+- [vianney-g/linear.nvim](https://github.com/vianney-g/linear.nvim) ![](https://img.shields.io/github/stars/vianney-g/linear.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/linear.nvim)
 
 #### Track
 
