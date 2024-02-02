@@ -35,6 +35,7 @@
 - [yonchando/my-spaces.nvim](https://github.com/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/stars/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/last-commit/yonchando/my-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/my-spaces.nvim)
 - [tiagovla/projet.nvim](https://github.com/tiagovla/projet.nvim) ![](https://img.shields.io/github/stars/tiagovla/projet.nvim) ![](https://img.shields.io/github/last-commit/tiagovla/projet.nvim) ![](https://img.shields.io/github/commit-activity/y/tiagovla/projet.nvim)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/cd-project.nvim)
+- [xlboy/workspace-scanner.nvim](https://github.com/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/stars/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/last-commit/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/workspace-scanner.nvim)
 
 #### Project Root Detector
 

@@ -13,6 +13,7 @@
   * [Path](#path)
 - [Exec](#exec)
 - [Config](#config)
+- [Control another neovim](#control-another-neovim)
 - [UI](#ui)
   * [Notification](#notification)
   * [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
@@ -106,6 +107,10 @@
 
 - [abcdefg233/hcutil.nvim](https://github.com/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/stars/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/hcutil.nvim)
 
+## Control another neovim 
+
+- [HiPhish/yo-dawg.nvim](https://github.com/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/stars/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/yo-dawg.nvim)
+
 ## UI
 
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
@@ -165,9 +170,12 @@
 
 ### HTTP
 
+- [ianjkaplan/hermes.nvim](https://github.com/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/hermes.nvim)
+
 ### Curl
 
 - [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
+- [minowak/nvim-curl](https://github.com/minowak/nvim-curl) ![](https://img.shields.io/github/stars/minowak/nvim-curl) ![](https://img.shields.io/github/last-commit/minowak/nvim-curl) ![](https://img.shields.io/github/commit-activity/y/minowak/nvim-curl)
 
 ### Hurl
 
