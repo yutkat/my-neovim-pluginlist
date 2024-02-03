@@ -4,6 +4,7 @@
 
 - [Pomodoro](#pomodoro)
 - [Alarm](#alarm)
+- [Timer](#timer)
 - [Do Not Disturb](#do-not-disturb)
 - [Zen Mode](#zen-mode)
 
@@ -35,6 +36,10 @@
 - [Asthestarsfalll/clock.nvim](https://github.com/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/stars/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/last-commit/Asthestarsfalll/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/Asthestarsfalll/clock.nvim)
 - [stefanlogue/hydrate.nvim](https://github.com/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/stars/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/hydrate.nvim)
 - [ryand67/focuswatch.nvim](https://github.com/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/stars/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/last-commit/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/commit-activity/y/ryand67/focuswatch.nvim)
+
+## Timer
+
+- [aynaever/timer.nvim](https://github.com/aynaever/timer.nvim) ![](https://img.shields.io/github/stars/aynaever/timer.nvim) ![](https://img.shields.io/github/last-commit/aynaever/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/aynaever/timer.nvim)
 
 ## Do Not Disturb
 

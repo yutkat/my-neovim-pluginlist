@@ -16,6 +16,7 @@
   * [Mentat](#mentat)
   * [Codeium](#codeium)
   * [Machine Learning](#machine-learning)
+  * [Fitten Code](#fitten-code)
 - [Chat](#chat)
 - [OpenAI Review](#openai-review)
 
@@ -115,6 +116,10 @@
 ### Machine Learning
 
 - [dav1d-wright/nvim-dap-cv-image-viewer](https://github.com/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/stars/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/last-commit/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/nvim-dap-cv-image-viewer)
+
+### Fitten Code
+
+- [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/stars/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/fittencode.nvim)
 
 ## Chat
 
