@@ -11,6 +11,7 @@
     + [Formatter](#formatter)
     + [tsserver](#tsserver)
     + [Typst preview](#typst-preview)
+    + [JSON](#json)
     + [Test](#test)
     + [Task Runner](#task-runner)
       - [yarn](#yarn)
@@ -81,6 +82,10 @@
 ##### Typst preview
 
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
+
+##### JSON
+
+- [Redoxahmii/json-to-ts.nvim](https://github.com/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/stars/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/Redoxahmii/json-to-ts.nvim)
 
 ##### Test
 

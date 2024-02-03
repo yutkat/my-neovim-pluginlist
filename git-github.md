@@ -42,6 +42,7 @@
     + [Organization](#organization)
     + [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
+- [Sapling](#sapling)
 - [CLI](#cli)
   * [Graphite](#graphite)
   * [Backup](#backup)
@@ -292,6 +293,10 @@
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
 - [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
 - [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
+
+# Sapling
+
+- [AdeAttwood/sapling.nvim](https://github.com/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/sapling.nvim)
 
 # CLI
 

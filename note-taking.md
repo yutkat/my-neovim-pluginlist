@@ -132,6 +132,8 @@
 
 ## Wiki
 
+- [dneumann42/nvim-wikid](https://github.com/dneumann42/nvim-wikid) ![](https://img.shields.io/github/stars/dneumann42/nvim-wikid) ![](https://img.shields.io/github/last-commit/dneumann42/nvim-wikid) ![](https://img.shields.io/github/commit-activity/y/dneumann42/nvim-wikid)
+
 ## VimWiki
 
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
