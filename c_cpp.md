@@ -13,6 +13,7 @@
   * [Cscope](#cscope)
   * [OpenMP](#openmp)
   * [Header](#header)
+- [PlatformIO](#platformio)
 
 <!-- tocstop -->
 
@@ -84,3 +85,6 @@
 
 - [Maduki-tech/header.nvim](https://github.com/Maduki-tech/header.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/header.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/header.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/header.nvim)
 
+### PlatformIO
+
+- [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/stars/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/last-commit/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/commit-activity/y/anurag3301/nvim-platformio.lua)
