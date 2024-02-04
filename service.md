@@ -19,4 +19,4 @@
 ## Marketplace
 
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) ![](https://img.shields.io/github/stars/codicocodes/dotfyle) ![](https://img.shields.io/github/last-commit/codicocodes/dotfyle) ![](https://img.shields.io/github/commit-activity/y/codicocodes/dotfyle)
-- [https://neoland.dev](https://github.com/https://neoland.dev) ![](https://img.shields.io/github/stars/https://neoland.dev) ![](https://img.shields.io/github/last-commit/https://neoland.dev) ![](https://img.shields.io/github/commit-activity/y/https://neoland.dev)
+- [akasuv/neoland](https://github.com/akasuv/neoland) ![](https://img.shields.io/github/stars/akasuv/neoland) ![](https://img.shields.io/github/last-commit/akasuv/neoland) ![](https://img.shields.io/github/commit-activity/y/akasuv/neoland)
