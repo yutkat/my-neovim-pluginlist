@@ -44,6 +44,7 @@
 - [Raeein/screenshot.nvim](https://github.com/Raeein/screenshot.nvim) ![](https://img.shields.io/github/stars/Raeein/screenshot.nvim) ![](https://img.shields.io/github/last-commit/Raeein/screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/Raeein/screenshot.nvim)
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) ![](https://img.shields.io/github/stars/kiran94/maim.nvim) ![](https://img.shields.io/github/last-commit/kiran94/maim.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/maim.nvim)
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/rayso.nvim)
+- [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
 
 #### Code Image
 
