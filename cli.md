@@ -82,7 +82,6 @@
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
-- [aloussase/dockerlint.nvim](https://github.com/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/stars/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/last-commit/aloussase/dockerlint.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/dockerlint.nvim)
 - [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
 
 ##### Docker Compose

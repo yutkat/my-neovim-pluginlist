@@ -263,8 +263,6 @@
 
 #### sdfcli
 
-- [Phandal/sdfcli.nvim](https://github.com/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/stars/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/last-commit/Phandal/sdfcli.nvim) ![](https://img.shields.io/github/commit-activity/y/Phandal/sdfcli.nvim)
-
 ### OS
 
 #### Linux
