@@ -18,6 +18,7 @@
   - [WhoIsSethDaniel/mason-tool-installer.nvim](https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/mason-tool-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/mason-tool-installer.nvim)
   - [jayp0521/mason-null-ls.nvim](https://github.com/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-null-ls.nvim)
   - [jayp0521/mason-nvim-dap.nvim](https://github.com/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-nvim-dap.nvim)
+  - [zapling/mason-lock.nvim](https://github.com/zapling/mason-lock.nvim) ![](https://img.shields.io/github/stars/zapling/mason-lock.nvim) ![](https://img.shields.io/github/last-commit/zapling/mason-lock.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/mason-lock.nvim)
 
 #### formatter
 

@@ -67,6 +67,7 @@
 - [RunfengTsui/wiki.nvim](https://github.com/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/stars/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/last-commit/RunfengTsui/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/RunfengTsui/wiki.nvim)
 - [Marcos-cat/traverse.nvim](https://github.com/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/stars/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/last-commit/Marcos-cat/traverse.nvim) ![](https://img.shields.io/github/commit-activity/y/Marcos-cat/traverse.nvim)
 - [daenikon/marknav.nvim](https://github.com/daenikon/marknav.nvim) ![](https://img.shields.io/github/stars/daenikon/marknav.nvim) ![](https://img.shields.io/github/last-commit/daenikon/marknav.nvim) ![](https://img.shields.io/github/commit-activity/y/daenikon/marknav.nvim)
+- [Nedra1998/nvim-mdlink](https://github.com/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/stars/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/last-commit/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/commit-activity/y/Nedra1998/nvim-mdlink)
 
 #### Markdown header
 
