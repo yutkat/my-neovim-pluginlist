@@ -6,6 +6,7 @@
   * [JSON](#json)
   * [YAML](#yaml)
   * [TOML](#toml)
+  * [Pkl](#pkl)
   * [XML](#xml)
   * [dotbox](#dotbox)
   * [CSV](#csv)
@@ -50,6 +51,10 @@
 ### TOML
 
 - [dharmx/toml.nvim](https://github.com/dharmx/toml.nvim) ![](https://img.shields.io/github/stars/dharmx/toml.nvim) ![](https://img.shields.io/github/last-commit/dharmx/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/toml.nvim)
+
+### Pkl
+
+- [apple/pkl-neovim](https://github.com/apple/pkl-neovim) ![](https://img.shields.io/github/stars/apple/pkl-neovim) ![](https://img.shields.io/github/last-commit/apple/pkl-neovim) ![](https://img.shields.io/github/commit-activity/y/apple/pkl-neovim)
 
 ### XML
 

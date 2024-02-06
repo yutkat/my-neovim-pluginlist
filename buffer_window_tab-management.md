@@ -62,6 +62,7 @@
 - [mistweaverco/bafa.nvim](https://github.com/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/stars/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/bafa.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/bafa.nvim)
 - [xiaoqixian/buffer-explorer.nvim](https://github.com/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/stars/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/last-commit/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoqixian/buffer-explorer.nvim)
 - [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim) ![](https://img.shields.io/github/stars/genzyy/hasten.nvim) ![](https://img.shields.io/github/last-commit/genzyy/hasten.nvim) ![](https://img.shields.io/github/commit-activity/y/genzyy/hasten.nvim)
+- [sathishmanohar/quick-buffer-jump](https://github.com/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/stars/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/last-commit/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/commit-activity/y/sathishmanohar/quick-buffer-jump)
 
 ### Other Buffer Switcher
 

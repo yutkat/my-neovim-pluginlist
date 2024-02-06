@@ -36,6 +36,7 @@
 - [fwojciec/format.nvim](https://github.com/fwojciec/format.nvim) ![](https://img.shields.io/github/stars/fwojciec/format.nvim) ![](https://img.shields.io/github/last-commit/fwojciec/format.nvim) ![](https://img.shields.io/github/commit-activity/y/fwojciec/format.nvim)
 - [rickyelopez/uncrustify.nvim](https://github.com/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/stars/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/last-commit/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/commit-activity/y/rickyelopez/uncrustify.nvim)
 - [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/stars/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/last-commit/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/minimal-format.nvim)
+- [p1486/afmt.nvim](https://github.com/p1486/afmt.nvim) ![](https://img.shields.io/github/stars/p1486/afmt.nvim) ![](https://img.shields.io/github/last-commit/p1486/afmt.nvim) ![](https://img.shields.io/github/commit-activity/y/p1486/afmt.nvim)
 
 ### Trim Whitespace
 

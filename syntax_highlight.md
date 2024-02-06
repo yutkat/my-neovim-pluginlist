@@ -12,6 +12,7 @@
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
   * [colorscheme transparent](#colorscheme-transparent)
+  * [Colorscheme session](#colorscheme-session)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Color name](#color-name)
   * [RGB](#rgb)
@@ -88,6 +89,10 @@
 ### colorscheme transparent
 
 - [GusJelly/transparent.nvim](https://github.com/GusJelly/transparent.nvim) ![](https://img.shields.io/github/stars/GusJelly/transparent.nvim) ![](https://img.shields.io/github/last-commit/GusJelly/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/GusJelly/transparent.nvim)
+
+### Colorscheme session
+
+- [swaits/colorsaver.nvim](https://github.com/swaits/colorsaver.nvim) ![](https://img.shields.io/github/stars/swaits/colorsaver.nvim) ![](https://img.shields.io/github/last-commit/swaits/colorsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/colorsaver.nvim)
 
 ### Auto generate colorscheme
 
