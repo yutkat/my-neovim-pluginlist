@@ -10,6 +10,7 @@
   * [REPL](#repl)
   * [Debug](#debug)
   * [build manager](#build-manager)
+  * [pypi](#pypi)
   * [venv](#venv)
   * [Jupyter](#jupyter)
   * [Anaconda](#anaconda)
@@ -65,6 +66,10 @@
 - [vsedov/py.nvim](https://github.com/vsedov/py.nvim) ![](https://img.shields.io/github/stars/vsedov/py.nvim) ![](https://img.shields.io/github/last-commit/vsedov/py.nvim) ![](https://img.shields.io/github/commit-activity/y/vsedov/py.nvim)
 - [yohi/install-pip-package.nvim](https://github.com/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/stars/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/last-commit/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/install-pip-package.nvim)
 - [jpfender/pipenv.nvim](https://github.com/jpfender/pipenv.nvim) ![](https://img.shields.io/github/stars/jpfender/pipenv.nvim) ![](https://img.shields.io/github/last-commit/jpfender/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/jpfender/pipenv.nvim)
+
+#### pypi
+
+- [topenkoff/pyproject.nvim](https://github.com/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/stars/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/last-commit/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/commit-activity/y/topenkoff/pyproject.nvim)
 
 #### venv
 

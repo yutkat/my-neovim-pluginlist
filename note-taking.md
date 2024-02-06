@@ -96,6 +96,7 @@
 - [cyrusn/task.nvim](https://github.com/cyrusn/task.nvim) ![](https://img.shields.io/github/stars/cyrusn/task.nvim) ![](https://img.shields.io/github/last-commit/cyrusn/task.nvim) ![](https://img.shields.io/github/commit-activity/y/cyrusn/task.nvim)
 - [MVN-14/nvim-todo](https://github.com/MVN-14/nvim-todo) ![](https://img.shields.io/github/stars/MVN-14/nvim-todo) ![](https://img.shields.io/github/last-commit/MVN-14/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/MVN-14/nvim-todo)
 - [KDesp73/todo-manager.nvim](https://github.com/KDesp73/todo-manager.nvim) ![](https://img.shields.io/github/stars/KDesp73/todo-manager.nvim) ![](https://img.shields.io/github/last-commit/KDesp73/todo-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/KDesp73/todo-manager.nvim)
+- [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/tdo.nvim)
 
 ### Taskwarrior
 
