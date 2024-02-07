@@ -197,6 +197,7 @@
 #### MDX
 
 - [loqusion/experimental_mdx.nvim](https://github.com/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/stars/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/last-commit/loqusion/experimental_mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/experimental_mdx.nvim)
+- [davidmh/mdx.nvim](https://github.com/davidmh/mdx.nvim) ![](https://img.shields.io/github/stars/davidmh/mdx.nvim) ![](https://img.shields.io/github/last-commit/davidmh/mdx.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/mdx.nvim)
 
 #### Marp
 

@@ -21,6 +21,7 @@
   * [Trello](#trello)
   * [WordPress](#wordpress)
   * [Outline](#outline)
+  * [Codeforce](#codeforce)
   * [compiler-explorer](#compiler-explorer)
   * [prefix.cc](#prefixcc)
   * [haste](#haste)
@@ -132,6 +133,10 @@
 #### Outline
 
 - [JockeKv/OutlineWiki.nvim](https://github.com/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/stars/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/last-commit/JockeKv/OutlineWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/JockeKv/OutlineWiki.nvim)
+
+#### Codeforce
+
+- [JustAnAverageGuy/codeforces_submitter.nvim](https://github.com/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/stars/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/last-commit/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/commit-activity/y/JustAnAverageGuy/codeforces_submitter.nvim)
 
 #### compiler-explorer
 
