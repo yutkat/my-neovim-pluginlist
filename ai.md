@@ -128,7 +128,6 @@
 - [gptlang/CopilotChat.nvim(remote plugin)](https://github.com/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/stars/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/gptlang/CopilotChat.nvim)
 - [Lommix/ollamachad.nvim](https://github.com/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/stars/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/last-commit/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/ollamachad.nvim)
 - [z0rzi/ai-chat.nvim](https://github.com/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/stars/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/ai-chat.nvim)
-- [jellydn/CopilotChat.nvim](https://github.com/jellydn/CopilotChat.nvim) ![](https://img.shields.io/github/stars/jellydn/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/jellydn/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/CopilotChat.nvim)
 
 ## OpenAI Review
 
