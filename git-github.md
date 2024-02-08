@@ -33,7 +33,6 @@
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
-  * [GitHub link](#github-link)
   * [Trend](#trend)
   * [Pull Request](#pull-request)
   * [Actions](#actions)
@@ -233,18 +232,6 @@
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
 
-## GitHub link
-
-- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
-- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gitlinker.nvim)
-- [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
-- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
-- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
-- [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ![](https://img.shields.io/github/stars/9seconds/repolink.nvim) ![](https://img.shields.io/github/last-commit/9seconds/repolink.nvim) ![](https://img.shields.io/github/commit-activity/y/9seconds/repolink.nvim)
-- [josephwoodward/github-browse.nvim](https://github.com/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-browse.nvim)
-- [juacker/git-link.nvim](https://github.com/juacker/git-link.nvim) ![](https://img.shields.io/github/stars/juacker/git-link.nvim) ![](https://img.shields.io/github/last-commit/juacker/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/juacker/git-link.nvim)
-- [namtx/git.nvim](https://github.com/namtx/git.nvim) ![](https://img.shields.io/github/stars/namtx/git.nvim) ![](https://img.shields.io/github/last-commit/namtx/git.nvim) ![](https://img.shields.io/github/commit-activity/y/namtx/git.nvim)
-
 ## Trend
 
 - [gsuuon/social.nvim](https://github.com/gsuuon/social.nvim) ![](https://img.shields.io/github/stars/gsuuon/social.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/social.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/social.nvim)
@@ -263,6 +250,15 @@
 
 ## Link
 
+- [ruifm/gitlinker.nvim](https://github.com/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/stars/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/ruifm/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/ruifm/gitlinker.nvim)
+- [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gitlinker.nvim)
+- [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
+- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
+- [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
+- [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ![](https://img.shields.io/github/stars/9seconds/repolink.nvim) ![](https://img.shields.io/github/last-commit/9seconds/repolink.nvim) ![](https://img.shields.io/github/commit-activity/y/9seconds/repolink.nvim)
+- [josephwoodward/github-browse.nvim](https://github.com/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-browse.nvim)
+- [juacker/git-link.nvim](https://github.com/juacker/git-link.nvim) ![](https://img.shields.io/github/stars/juacker/git-link.nvim) ![](https://img.shields.io/github/last-commit/juacker/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/juacker/git-link.nvim)
+- [namtx/git.nvim](https://github.com/namtx/git.nvim) ![](https://img.shields.io/github/stars/namtx/git.nvim) ![](https://img.shields.io/github/last-commit/namtx/git.nvim) ![](https://img.shields.io/github/commit-activity/y/namtx/git.nvim)
 - [hkupty/pointer.nvim](https://github.com/hkupty/pointer.nvim) ![](https://img.shields.io/github/stars/hkupty/pointer.nvim) ![](https://img.shields.io/github/last-commit/hkupty/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/pointer.nvim)
 - [senkentarou/gobf.nvim](https://github.com/senkentarou/gobf.nvim) ![](https://img.shields.io/github/stars/senkentarou/gobf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/gobf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/gobf.nvim)
 - [Almo7aya/openingh.nvim](https://github.com/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/stars/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/last-commit/Almo7aya/openingh.nvim) ![](https://img.shields.io/github/commit-activity/y/Almo7aya/openingh.nvim)
