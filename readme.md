@@ -298,11 +298,13 @@
 - [adammccartney/nvim-rinse](https://github.com/adammccartney/nvim-rinse) ![](https://img.shields.io/github/stars/adammccartney/nvim-rinse) ![](https://img.shields.io/github/last-commit/adammccartney/nvim-rinse) ![](https://img.shields.io/github/commit-activity/y/adammccartney/nvim-rinse)
 - [AgusDOLARD/backout.nvim](https://github.com/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/stars/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/last-commit/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/commit-activity/y/AgusDOLARD/backout.nvim)
 - [Someone-s-out-there/stutter.nvim](https://github.com/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/stars/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/last-commit/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/commit-activity/y/Someone-s-out-there/stutter.nvim)
+- [nobody-famous/lima.nvim](https://github.com/nobody-famous/lima.nvim) ![](https://img.shields.io/github/stars/nobody-famous/lima.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/lima.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/lima.nvim)
 
 #### Smart Tab
 
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/smart-tab.nvim)
 - [nvim-jo/smarttab.nvim](https://github.com/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/stars/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/smarttab.nvim)
+- [lsvmello/elastictabstops.nvim](https://github.com/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/stars/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/last-commit/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/commit-activity/y/lsvmello/elastictabstops.nvim)
 
 ### [Auto Insert](./auto-insert.md)
 
