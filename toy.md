@@ -69,6 +69,7 @@
 - [efueyo/td.nvim](https://github.com/efueyo/td.nvim) ![](https://img.shields.io/github/stars/efueyo/td.nvim) ![](https://img.shields.io/github/last-commit/efueyo/td.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/td.nvim)
 - [Febri-i/snake.nvim](https://github.com/Febri-i/snake.nvim) ![](https://img.shields.io/github/stars/Febri-i/snake.nvim) ![](https://img.shields.io/github/last-commit/Febri-i/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Febri-i/snake.nvim)
 - [ActionScripted/tetris.nvim](https://github.com/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/stars/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/last-commit/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/commit-activity/y/ActionScripted/tetris.nvim)
+- [NStefan002/2048.nvim](https://github.com/NStefan002/2048.nvim) ![](https://img.shields.io/github/stars/NStefan002/2048.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/2048.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/2048.nvim)
 
 ### Typing
 

@@ -274,6 +274,7 @@
 - [Rigellute/vcs-url.nvim](https://github.com/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/stars/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/last-commit/Rigellute/vcs-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Rigellute/vcs-url.nvim)
 - [tenfyzhong/nvim-gito](https://github.com/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-gito) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-gito)
 - [fowlie/open-github-repo](https://github.com/fowlie/open-github-repo) ![](https://img.shields.io/github/stars/fowlie/open-github-repo) ![](https://img.shields.io/github/last-commit/fowlie/open-github-repo) ![](https://img.shields.io/github/commit-activity/y/fowlie/open-github-repo)
+- [mistricky/code-link.nvim](https://github.com/mistricky/code-link.nvim) ![](https://img.shields.io/github/stars/mistricky/code-link.nvim) ![](https://img.shields.io/github/last-commit/mistricky/code-link.nvim) ![](https://img.shields.io/github/commit-activity/y/mistricky/code-link.nvim)
 
 ### Image
 
