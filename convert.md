@@ -51,6 +51,7 @@
 ### Boolean
 
 - [ferplnat/truefalse.nvim](https://github.com/ferplnat/truefalse.nvim) ![](https://img.shields.io/github/stars/ferplnat/truefalse.nvim) ![](https://img.shields.io/github/last-commit/ferplnat/truefalse.nvim) ![](https://img.shields.io/github/commit-activity/y/ferplnat/truefalse.nvim)
+- [methanius/treesitter_home_tools.nvim](https://github.com/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/stars/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/last-commit/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/methanius/treesitter_home_tools.nvim)
 
 ### Base64
 

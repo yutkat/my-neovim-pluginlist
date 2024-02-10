@@ -39,6 +39,7 @@
     + [Erlang](#erlang)
       - [hex](#hex)
     + [Elixir](#elixir)
+      - [REPL](#repl)
     + [Haskell](#haskell)
     + [Perl](#perl)
     + [Lisp](#lisp)
@@ -297,6 +298,10 @@
 - [wesleimp/elixir-keys.nvim](https://github.com/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/stars/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/elixir-keys.nvim)
 - [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/elixir-extras.nvim)
 - [Danielwsx64/elixir-dev.nvim](https://github.com/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/stars/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/last-commit/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/Danielwsx64/elixir-dev.nvim)
+
+#### REPL
+
+- [ThenWhenceComethEvil/elixir-repl.nvim](https://github.com/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/stars/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/last-commit/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/ThenWhenceComethEvil/elixir-repl.nvim)
 
 ### Haskell
 

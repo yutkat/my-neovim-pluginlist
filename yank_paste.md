@@ -37,6 +37,7 @@
 - [tversteeg/registers.nvim](https://github.com/tversteeg/registers.nvim) ![](https://img.shields.io/github/stars/tversteeg/registers.nvim) ![](https://img.shields.io/github/last-commit/tversteeg/registers.nvim) ![](https://img.shields.io/github/commit-activity/y/tversteeg/registers.nvim)
 - [acksld/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) ![](https://img.shields.io/github/stars/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/last-commit/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/commit-activity/y/acksld/nvim-neoclip.lua)
 - [Piotr1215/yanksearch.nvim](https://github.com/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/stars/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/yanksearch.nvim)
+- [bartdorsey/quickclip.nvim](https://github.com/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/stars/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/last-commit/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/commit-activity/y/bartdorsey/quickclip.nvim)
 
 ## OSC52
 
