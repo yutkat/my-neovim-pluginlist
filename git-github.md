@@ -131,7 +131,6 @@
 - [ja-he/fugitive-blame-heatmap.nvim](https://github.com/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/stars/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/last-commit/ja-he/fugitive-blame-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-he/fugitive-blame-heatmap.nvim)
 - [sairajchouhan/blame.nvim](https://github.com/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/stars/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/last-commit/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/sairajchouhan/blame.nvim)
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/stars/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/last-commit/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/FabijanZulj/blame.nvim)
-- [Zorcal/gitblame.nvim](https://github.com/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/stars/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/last-commit/Zorcal/gitblame.nvim) ![](https://img.shields.io/github/commit-activity/y/Zorcal/gitblame.nvim)
 - [MatteoBouvier/blame-multi.nvim](https://github.com/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/stars/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/last-commit/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/MatteoBouvier/blame-multi.nvim)
 
 ## git log
