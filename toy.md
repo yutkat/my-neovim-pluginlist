@@ -123,6 +123,7 @@
 - [shellheim/ashaar.nvim](https://github.com/shellheim/ashaar.nvim) ![](https://img.shields.io/github/stars/shellheim/ashaar.nvim) ![](https://img.shields.io/github/last-commit/shellheim/ashaar.nvim) ![](https://img.shields.io/github/commit-activity/y/shellheim/ashaar.nvim)
 - [0x5a4/oogway.nvim](https://github.com/0x5a4/oogway.nvim) ![](https://img.shields.io/github/stars/0x5a4/oogway.nvim) ![](https://img.shields.io/github/last-commit/0x5a4/oogway.nvim) ![](https://img.shields.io/github/commit-activity/y/0x5a4/oogway.nvim)
 - [gestylinaga/askRyu.nvim](https://github.com/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/stars/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/last-commit/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/commit-activity/y/gestylinaga/askRyu.nvim)
+- [TylerLott/waifu.nvim](https://github.com/TylerLott/waifu.nvim) ![](https://img.shields.io/github/stars/TylerLott/waifu.nvim) ![](https://img.shields.io/github/last-commit/TylerLott/waifu.nvim) ![](https://img.shields.io/github/commit-activity/y/TylerLott/waifu.nvim)
 
 #### Tips
 

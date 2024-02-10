@@ -30,6 +30,7 @@
 - [Calder-Ty/comment_toggle.nvim](https://github.com/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/stars/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/last-commit/Calder-Ty/comment_toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Calder-Ty/comment_toggle.nvim)
 - [orfosys/nvim-hemingway](https://github.com/orfosys/nvim-hemingway) ![](https://img.shields.io/github/stars/orfosys/nvim-hemingway) ![](https://img.shields.io/github/last-commit/orfosys/nvim-hemingway) ![](https://img.shields.io/github/commit-activity/y/orfosys/nvim-hemingway)
 - [alexshelto/boringcomment.nvim](https://github.com/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/stars/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/last-commit/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/commit-activity/y/alexshelto/boringcomment.nvim)
+- [chellipse/lua-comment.nvim](https://github.com/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/stars/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/last-commit/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/chellipse/lua-comment.nvim)
 
 ### CommentString
 
