@@ -157,6 +157,7 @@
 
 #### status
 
+- [AxerTheAxe/bufferstore.nvim](https://github.com/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/stars/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/last-commit/AxerTheAxe/bufferstore.nvim) ![](https://img.shields.io/github/commit-activity/y/AxerTheAxe/bufferstore.nvim)
 
 ### Scratch Buffer
 
