@@ -7,6 +7,7 @@
   * [Image Paste](#image-paste)
   * [Image Uploader](#image-uploader)
   * [Screenshot](#screenshot)
+  * [Screen Key](#screen-key)
     + [Code Image](#code-image)
   * [SVG](#svg)
   * [Ascii](#ascii)
@@ -45,6 +46,10 @@
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) ![](https://img.shields.io/github/stars/kiran94/maim.nvim) ![](https://img.shields.io/github/last-commit/kiran94/maim.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/maim.nvim)
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/rayso.nvim)
 - [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
+
+### Screen Key
+
+- [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/keys.nvim)
 
 #### Code Image
 

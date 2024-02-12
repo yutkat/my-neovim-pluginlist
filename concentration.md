@@ -40,6 +40,7 @@
 ## Timer
 
 - [aynaever/timer.nvim](https://github.com/aynaever/timer.nvim) ![](https://img.shields.io/github/stars/aynaever/timer.nvim) ![](https://img.shields.io/github/last-commit/aynaever/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/aynaever/timer.nvim)
+- [sammce/fleeting.nvim](https://github.com/sammce/fleeting.nvim) ![](https://img.shields.io/github/stars/sammce/fleeting.nvim) ![](https://img.shields.io/github/last-commit/sammce/fleeting.nvim) ![](https://img.shields.io/github/commit-activity/y/sammce/fleeting.nvim)
 
 ## Do Not Disturb
 

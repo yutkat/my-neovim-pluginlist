@@ -191,6 +191,7 @@
 - [ouroboros8/nvim-kitty-navigator](https://github.com/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/stars/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/last-commit/ouroboros8/nvim-kitty-navigator) ![](https://img.shields.io/github/commit-activity/y/ouroboros8/nvim-kitty-navigator)
 - [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/kitty-scrollback.nvim)
 - [MunsMan/kitty-navigator.nvim](https://github.com/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/stars/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/last-commit/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/MunsMan/kitty-navigator.nvim)
+- [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) ![](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![](https://img.shields.io/github/last-commit/RAprogramm/nekifoch) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/nekifoch)
 
 #### WezTerm
 
