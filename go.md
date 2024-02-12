@@ -29,6 +29,7 @@
 - [BoyerDamien/golang-code-actions.nvim](https://github.com/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/stars/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/last-commit/BoyerDamien/golang-code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/BoyerDamien/golang-code-actions.nvim)
 - [lordvidex/go-heat.nvim](https://github.com/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/stars/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/last-commit/lordvidex/go-heat.nvim) ![](https://img.shields.io/github/commit-activity/y/lordvidex/go-heat.nvim)
 - [pcolladosoto/tinygo.nvim](https://github.com/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/stars/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/last-commit/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/commit-activity/y/pcolladosoto/tinygo.nvim)
+- [Azpect3120/gomon.nvim](https://github.com/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/stars/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/last-commit/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/commit-activity/y/Azpect3120/gomon.nvim)
 
 ### gofmt
 

@@ -76,6 +76,8 @@
 - [treemcgee42/custom-compile.nvim](https://github.com/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/stars/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/last-commit/treemcgee42/custom-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/treemcgee42/custom-compile.nvim)
 - [616b2f/bsp.nvim](https://github.com/616b2f/bsp.nvim) ![](https://img.shields.io/github/stars/616b2f/bsp.nvim) ![](https://img.shields.io/github/last-commit/616b2f/bsp.nvim) ![](https://img.shields.io/github/commit-activity/y/616b2f/bsp.nvim)
 - [jellydn/quick-code-runner.nvim](https://github.com/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/stars/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/last-commit/jellydn/quick-code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/quick-code-runner.nvim)
+- [blurskye/code-runner.nvim](https://github.com/blurskye/code-runner.nvim) ![](https://img.shields.io/github/stars/blurskye/code-runner.nvim) ![](https://img.shields.io/github/last-commit/blurskye/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/blurskye/code-runner.nvim)
+- [kuznetsss/delegate.nvim](https://github.com/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/stars/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/last-commit/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/commit-activity/y/kuznetsss/delegate.nvim)
 
 ### Shell
 

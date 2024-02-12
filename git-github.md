@@ -132,6 +132,8 @@
 - [sairajchouhan/blame.nvim](https://github.com/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/stars/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/last-commit/sairajchouhan/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/sairajchouhan/blame.nvim)
 - [FabijanZulj/blame.nvim](https://github.com/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/stars/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/last-commit/FabijanZulj/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/FabijanZulj/blame.nvim)
 - [MatteoBouvier/blame-multi.nvim](https://github.com/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/stars/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/last-commit/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/MatteoBouvier/blame-multi.nvim)
+- [hougesen/blame-me.nvim](https://github.com/hougesen/blame-me.nvim) ![](https://img.shields.io/github/stars/hougesen/blame-me.nvim) ![](https://img.shields.io/github/last-commit/hougesen/blame-me.nvim) ![](https://img.shields.io/github/commit-activity/y/hougesen/blame-me.nvim)
+- [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-blame.nvim)
 
 ## git log
 
