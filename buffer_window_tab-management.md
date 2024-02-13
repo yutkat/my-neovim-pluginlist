@@ -23,6 +23,7 @@
   * [Window Management](#window-management)
     + [swap](#swap)
     + [layout](#layout)
+    + [keep window](#keep-window)
     + [center](#center)
     + [split](#split)
     + [Popup](#popup)
@@ -63,6 +64,7 @@
 - [xiaoqixian/buffer-explorer.nvim](https://github.com/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/stars/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/last-commit/xiaoqixian/buffer-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoqixian/buffer-explorer.nvim)
 - [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim) ![](https://img.shields.io/github/stars/genzyy/hasten.nvim) ![](https://img.shields.io/github/last-commit/genzyy/hasten.nvim) ![](https://img.shields.io/github/commit-activity/y/genzyy/hasten.nvim)
 - [sathishmanohar/quick-buffer-jump](https://github.com/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/stars/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/last-commit/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/commit-activity/y/sathishmanohar/quick-buffer-jump)
+- [srcrip/torus.nvim](https://github.com/srcrip/torus.nvim) ![](https://img.shields.io/github/stars/srcrip/torus.nvim) ![](https://img.shields.io/github/last-commit/srcrip/torus.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/torus.nvim)
 
 ### Other Buffer Switcher
 
@@ -205,6 +207,10 @@
 - [MisanthropicBit/winmove.nvim](https://github.com/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/winmove.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/winmove.nvim)
 - [jyscao/ventana.nvim](https://github.com/jyscao/ventana.nvim) ![](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![](https://img.shields.io/github/last-commit/jyscao/ventana.nvim) ![](https://img.shields.io/github/commit-activity/y/jyscao/ventana.nvim)
 - [distek/panel.nvim](https://github.com/distek/panel.nvim) ![](https://img.shields.io/github/stars/distek/panel.nvim) ![](https://img.shields.io/github/last-commit/distek/panel.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/panel.nvim)
+
+#### keep window
+
+- [NTBBloodbath/exemplum.nvim](https://github.com/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/exemplum.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/exemplum.nvim)
 
 #### center
 
