@@ -298,6 +298,7 @@
 - [wesleimp/elixir-keys.nvim](https://github.com/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/stars/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/last-commit/wesleimp/elixir-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/wesleimp/elixir-keys.nvim)
 - [emmanueltouzery/elixir-extras.nvim](https://github.com/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/elixir-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/elixir-extras.nvim)
 - [Danielwsx64/elixir-dev.nvim](https://github.com/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/stars/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/last-commit/Danielwsx64/elixir-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/Danielwsx64/elixir-dev.nvim)
+- [smpallen99/elixir-projectionist.nvim](https://github.com/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/stars/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/last-commit/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/commit-activity/y/smpallen99/elixir-projectionist.nvim)
 
 #### REPL
 

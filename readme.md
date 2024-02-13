@@ -61,6 +61,7 @@
   * [Command Line](#command-line)
   * [Spell check](#spell-check)
   * [Dictionary](#dictionary)
+  * [digraph](#digraph)
   * [Abbreviation](#abbreviation)
   * [Quickfix / Location](#quickfix--location)
   * [cd(change directory)](#cdchange-directory)
@@ -382,6 +383,7 @@
 
 - [aaron-p1/compare-remotes.nvim](https://github.com/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/compare-remotes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/compare-remotes.nvim)
 - [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/stars/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/last-commit/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jemag/telescope-diff.nvim)
+- [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/stars/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/last-commit/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/ryutaro-asada/partial-diff.nvim)
 
 #### Register
 
@@ -417,6 +419,10 @@
 
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
 - [PaysanCorrezien/dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/dictionary.nvim)
+
+### digraph
+
+- [jonathanforhan/nvim-glyph](https://github.com/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/stars/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/last-commit/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/commit-activity/y/jonathanforhan/nvim-glyph)
 
 ### Abbreviation
 
@@ -591,6 +597,7 @@
 - [hachy/cmdpalette.nvim](https://github.com/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/stars/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/last-commit/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/cmdpalette.nvim)
 - [AtleSkaanes/command-palette.nvim](https://github.com/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/stars/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/last-commit/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/AtleSkaanes/command-palette.nvim)
 - [Ajnasz/telescope-runcmd.nvim](https://github.com/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/stars/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/telescope-runcmd.nvim)
+- [azatakmyradov/command.nvim](https://github.com/azatakmyradov/command.nvim) ![](https://img.shields.io/github/stars/azatakmyradov/command.nvim) ![](https://img.shields.io/github/last-commit/azatakmyradov/command.nvim) ![](https://img.shields.io/github/commit-activity/y/azatakmyradov/command.nvim)
 
 ### Reload Configuration
 
@@ -719,6 +726,7 @@
 - [FriedemannG/klog.nvim](https://github.com/FriedemannG/klog.nvim) ![](https://img.shields.io/github/stars/FriedemannG/klog.nvim) ![](https://img.shields.io/github/last-commit/FriedemannG/klog.nvim) ![](https://img.shields.io/github/commit-activity/y/FriedemannG/klog.nvim)
 - [rymdlego/readtime.nvim](https://github.com/rymdlego/readtime.nvim) ![](https://img.shields.io/github/stars/rymdlego/readtime.nvim) ![](https://img.shields.io/github/last-commit/rymdlego/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rymdlego/readtime.nvim)
 - [Forsigg/daily-symbols-count.nvim](https://github.com/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/stars/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/last-commit/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/commit-activity/y/Forsigg/daily-symbols-count.nvim)
+- [lincore81/zeitraum.nvim](https://github.com/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/stars/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/last-commit/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/commit-activity/y/lincore81/zeitraum.nvim)
 
 #### Typing speed
 
