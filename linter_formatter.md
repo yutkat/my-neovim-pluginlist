@@ -50,6 +50,7 @@
 - [lukoshkin/trailing-whitespace](https://github.com/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/stars/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/last-commit/lukoshkin/trailing-whitespace) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/trailing-whitespace)
 - [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/tabs-vs-spaces.nvim)
 - [amarakon/nvim-markspace](https://github.com/amarakon/nvim-markspace) ![](https://img.shields.io/github/stars/amarakon/nvim-markspace) ![](https://img.shields.io/github/last-commit/amarakon/nvim-markspace) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-markspace)
+- [getty104/air-duster.nvim](https://github.com/getty104/air-duster.nvim) ![](https://img.shields.io/github/stars/getty104/air-duster.nvim) ![](https://img.shields.io/github/last-commit/getty104/air-duster.nvim) ![](https://img.shields.io/github/commit-activity/y/getty104/air-duster.nvim)
 
 ### Formatter switcher
 

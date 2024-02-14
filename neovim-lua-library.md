@@ -65,6 +65,7 @@
 - [Tastyep/structlog.nvim](https://github.com/Tastyep/structlog.nvim) ![](https://img.shields.io/github/stars/Tastyep/structlog.nvim) ![](https://img.shields.io/github/last-commit/Tastyep/structlog.nvim) ![](https://img.shields.io/github/commit-activity/y/Tastyep/structlog.nvim)
 - [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) ![](https://img.shields.io/github/stars/rmagatti/logger.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/logger.nvim)
 - [novicedev7291/consolelog.nvim](https://github.com/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/stars/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/last-commit/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/commit-activity/y/novicedev7291/consolelog.nvim)
+- [NTBBloodbath/logging.nvim](https://github.com/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/logging.nvim)
 
 ## async
 

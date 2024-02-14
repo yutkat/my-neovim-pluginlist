@@ -25,6 +25,7 @@
     + [Stata](#stata)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
+      - [Image](#image)
     + [WezTerm](#wezterm)
     + [Windows Terminal](#windows-terminal)
   * [Infra](#infra)
@@ -192,6 +193,10 @@
 - [mikesmithgh/kitty-scrollback.nvim](https://github.com/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/kitty-scrollback.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/kitty-scrollback.nvim)
 - [MunsMan/kitty-navigator.nvim](https://github.com/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/stars/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/last-commit/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/MunsMan/kitty-navigator.nvim)
 - [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) ![](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![](https://img.shields.io/github/last-commit/RAprogramm/nekifoch) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/nekifoch)
+
+##### Image
+
+- [eduardotlc/telescope-du-preview.nvim](https://github.com/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/stars/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/last-commit/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardotlc/telescope-du-preview.nvim)
 
 #### WezTerm
 
