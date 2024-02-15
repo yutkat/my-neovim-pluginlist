@@ -143,6 +143,8 @@
   * [Web Service](#web-service)
   * [CLI](#cli)
   * [AI](#ai)
+  * [OS](#os)
+  * [Hardware](#hardware)
 - [Language specific](#language-specific)
   * [Javascript/Typescript](#javascripttypescript)
   * [Python](#python)
@@ -801,6 +803,10 @@
 ### [CLI](./cli.md)
 
 ### [AI](./ai.md)
+
+### [OS](./os.md)
+
+### [Hardware](./hardware.md)
 
 ## [Language specific](./language-specific.md)
 
