@@ -345,7 +345,6 @@
 
 - [Susensio/magic-bang.nvim](https://github.com/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/stars/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/last-commit/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Susensio/magic-bang.nvim)
 - [elentok/scriptify.nvim](https://github.com/elentok/scriptify.nvim) ![](https://img.shields.io/github/stars/elentok/scriptify.nvim) ![](https://img.shields.io/github/last-commit/elentok/scriptify.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/scriptify.nvim)
-- [carbon-steel/shell_editor.nvim](https://github.com/carbon-steel/shell_editor.nvim) ![](https://img.shields.io/github/stars/carbon-steel/shell_editor.nvim) ![](https://img.shields.io/github/last-commit/carbon-steel/shell_editor.nvim) ![](https://img.shields.io/github/commit-activity/y/carbon-steel/shell_editor.nvim)
 
 ### Nushell
 
