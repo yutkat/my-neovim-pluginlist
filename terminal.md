@@ -58,6 +58,7 @@
 ### Open
 
 - [Ernest1338/termplug.nvim](https://github.com/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/stars/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/termplug.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/termplug.nvim)
+- [karvla/term-toggle.nvim](https://github.com/karvla/term-toggle.nvim) ![](https://img.shields.io/github/stars/karvla/term-toggle.nvim) ![](https://img.shields.io/github/last-commit/karvla/term-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/karvla/term-toggle.nvim)
 
 ### Edit
 

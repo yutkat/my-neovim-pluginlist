@@ -58,6 +58,7 @@
 - [otavioschwanck/arrow.nvim](https://github.com/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/arrow.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/arrow.nvim)
 - [JoeManto/bookmark.nvim](https://github.com/JoeManto/bookmark.nvim) ![](https://img.shields.io/github/stars/JoeManto/bookmark.nvim) ![](https://img.shields.io/github/last-commit/JoeManto/bookmark.nvim) ![](https://img.shields.io/github/commit-activity/y/JoeManto/bookmark.nvim)
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/bookmarks.nvim)
+- [kdnk/bookmarks-cycle-through.nvim](https://github.com/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/stars/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/last-commit/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/commit-activity/y/kdnk/bookmarks-cycle-through.nvim)
 
 ### etc
 

@@ -16,6 +16,7 @@
     + [Ruby](#ruby)
       - [Gem](#gem)
       - [Rails](#rails)
+      - [Redis](#redis)
     + [Nix](#nix)
     + [PHP](#php)
       - [Laravel](#laravel)
@@ -158,6 +159,10 @@
 - [sato-s/telescope-rails.nvim](https://github.com/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/stars/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/last-commit/sato-s/telescope-rails.nvim) ![](https://img.shields.io/github/commit-activity/y/sato-s/telescope-rails.nvim)
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
 - [CadeMichael/roron.nvim](https://github.com/CadeMichael/roron.nvim) ![](https://img.shields.io/github/stars/CadeMichael/roron.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/roron.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/roron.nvim)
+
+#### Redis
+
+- [recap/nvim-redis](https://github.com/recap/nvim-redis) ![](https://img.shields.io/github/stars/recap/nvim-redis) ![](https://img.shields.io/github/last-commit/recap/nvim-redis) ![](https://img.shields.io/github/commit-activity/y/recap/nvim-redis)
 
 ### Nix
 
