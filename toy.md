@@ -71,6 +71,7 @@
 - [ActionScripted/tetris.nvim](https://github.com/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/stars/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/last-commit/ActionScripted/tetris.nvim) ![](https://img.shields.io/github/commit-activity/y/ActionScripted/tetris.nvim)
 - [NStefan002/2048.nvim](https://github.com/NStefan002/2048.nvim) ![](https://img.shields.io/github/stars/NStefan002/2048.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/2048.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/2048.nvim)
 - [S1M0N38/love2d.nvim](https://github.com/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/stars/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/love2d.nvim)
+- [fpeterek/nvim-surfers](https://github.com/fpeterek/nvim-surfers) ![](https://img.shields.io/github/stars/fpeterek/nvim-surfers) ![](https://img.shields.io/github/last-commit/fpeterek/nvim-surfers) ![](https://img.shields.io/github/commit-activity/y/fpeterek/nvim-surfers)
 
 ### Typing
 

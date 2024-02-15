@@ -7,6 +7,7 @@
   * [Discord](#discord)
   * [Slack](#slack)
   * [Mastodon](#mastodon)
+  * [Nostr](#nostr)
   * [Notion](#notion)
   * [Gmail](#gmail)
   * [Jira](#jira)
@@ -60,6 +61,10 @@
 #### Mastodon
 
 - [kode-team/mastodon.nvim](https://github.com/kode-team/mastodon.nvim) ![](https://img.shields.io/github/stars/kode-team/mastodon.nvim) ![](https://img.shields.io/github/last-commit/kode-team/mastodon.nvim) ![](https://img.shields.io/github/commit-activity/y/kode-team/mastodon.nvim)
+
+#### Nostr
+
+- [candy12t/nostr.nvim](https://github.com/candy12t/nostr.nvim) ![](https://img.shields.io/github/stars/candy12t/nostr.nvim) ![](https://img.shields.io/github/last-commit/candy12t/nostr.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/nostr.nvim)
 
 #### Notion
 

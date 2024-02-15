@@ -423,6 +423,7 @@
 ### digraph
 
 - [jonathanforhan/nvim-glyph](https://github.com/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/stars/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/last-commit/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/commit-activity/y/jonathanforhan/nvim-glyph)
+- [adorostkar/NGG.nvim](https://github.com/adorostkar/NGG.nvim) ![](https://img.shields.io/github/stars/adorostkar/NGG.nvim) ![](https://img.shields.io/github/last-commit/adorostkar/NGG.nvim) ![](https://img.shields.io/github/commit-activity/y/adorostkar/NGG.nvim)
 
 ### Abbreviation
 
@@ -791,6 +792,7 @@
 - [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/deferred-clipboard.nvim)
 - [tanchihpin0517/cursorhold-timeout.nvim](https://github.com/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/stars/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/last-commit/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/tanchihpin0517/cursorhold-timeout.nvim)
 - [BranimirE/fix-auto-scroll.nvim](https://github.com/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/stars/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/last-commit/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/BranimirE/fix-auto-scroll.nvim)
+- [4513ECHO/treesitter-compat-highlights.nvim](https://github.com/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/stars/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/last-commit/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/4513ECHO/treesitter-compat-highlights.nvim)
 
 ## [Integration with other apps](./integration-apps.md)
 
