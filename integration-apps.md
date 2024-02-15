@@ -42,26 +42,6 @@
     + [Salesforce](#salesforce)
     + [dbt](#dbt)
     + [sdfcli](#sdfcli)
-  * [OS](#os)
-    + [Linux](#linux)
-      - [gnome](#gnome)
-      - [X11](#x11)
-      - [Nix](#nix)
-      - [drun](#drun)
-      - [darkman](#darkman)
-      - [fribidi](#fribidi)
-      - [Inkscape](#inkscape)
-      - [Rofi](#rofi)
-      - [xrandr](#xrandr)
-    + [Windows](#windows)
-      - [Explorer](#explorer)
-      - [Everything](#everything)
-      - [AutoHotKey](#autohotkey)
-      - [WSL](#wsl)
-    + [Mac](#mac)
-      - [iTerm](#iterm)
-    + [iOS](#ios)
-    + [Android](#android)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
   * [Password Manager](#password-manager)
@@ -73,22 +53,6 @@
   * [Audio](#audio)
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
-  * [Hardware](#hardware)
-    + [IoT](#iot)
-    + [CAD](#cad)
-    + [Verilog](#verilog)
-    + [Grooper](#grooper)
-    + [SketchUp](#sketchup)
-    + [Robot](#robot)
-      - [ROS](#ros)
-      - [FRC(First robotics competition)](#frcfirst-robotics-competition)
-    + [Microcomputer](#microcomputer)
-      - [LEGO](#lego)
-    + [Keyboard](#keyboard)
-      - [Virtual Keyboard](#virtual-keyboard)
-    + [Embedded Software](#embedded-software)
-      - [Arduino](#arduino)
-      - [FlipperZero](#flipperzero)
 
 <!-- tocstop -->
 
@@ -270,88 +234,6 @@
 
 #### sdfcli
 
-### OS
-
-#### Linux
-
-##### gnome
-
-- [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
-
-##### X11
-
-- [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
-- [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)
-
-##### Nix
-
-- [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ![](https://img.shields.io/github/stars/calops/hmts.nvim) ![](https://img.shields.io/github/last-commit/calops/hmts.nvim) ![](https://img.shields.io/github/commit-activity/y/calops/hmts.nvim)
-- [b-src/lazy-nix-helper.nvim](https://github.com/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/stars/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/last-commit/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/b-src/lazy-nix-helper.nvim)
-
-##### drun
-
-- [Eric-Song-Nop/launcher.nvim](https://github.com/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/launcher.nvim)
-
-##### darkman
-
-- [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/4e554c4c/darkman.nvim)
-
-##### fribidi
-
-- [mcookly/bidi.nvim](https://github.com/mcookly/bidi.nvim) ![](https://img.shields.io/github/stars/mcookly/bidi.nvim) ![](https://img.shields.io/github/last-commit/mcookly/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/mcookly/bidi.nvim)
-
-##### Inkscape
-
-- [silaswaxter/inkscape-figure-manager.nvim](https://github.com/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/stars/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/last-commit/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/silaswaxter/inkscape-figure-manager.nvim)
-
-##### Rofi
-
-- [giacomo618/rofi-select.nvim](https://github.com/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/stars/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/last-commit/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/commit-activity/y/giacomo618/rofi-select.nvim)
-
-##### xrandr
-
-- [HannHank/monitor.nvim](https://github.com/HannHank/monitor.nvim) ![](https://img.shields.io/github/stars/HannHank/monitor.nvim) ![](https://img.shields.io/github/last-commit/HannHank/monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/HannHank/monitor.nvim)
-
-#### Windows
-
-##### Explorer
-
-- [srpmtt/nvim-open-in-explorer](https://github.com/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-open-in-explorer)
-
-##### Everything
-
-- [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
-
-##### AutoHotKey
-
-- [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
-- [GrzegorzKozub/ahk.nvim](https://github.com/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/stars/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/last-commit/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/commit-activity/y/GrzegorzKozub/ahk.nvim)
-
-##### WSL
-
-- [ggresillion/nvim-wsl-copypasta](https://github.com/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/stars/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/last-commit/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/commit-activity/y/ggresillion/nvim-wsl-copypasta)
-- [hajin-chung/wsl-clipboard.nvim](https://github.com/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/stars/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/last-commit/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hajin-chung/wsl-clipboard.nvim)
-
-#### Mac
-
-- [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
-- [MXCR-cpu/boop.nvim](https://github.com/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/stars/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/last-commit/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/commit-activity/y/MXCR-cpu/boop.nvim)
-- [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/alfred-neovim-utilities)
-- [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
-- [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
-
-##### iTerm
-
-- [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
-
-#### iOS
-
-- [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
-
-#### Android
-
-- [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
-
 ### Ethereum
 
 #### foundry
@@ -416,71 +298,3 @@
 #### LilyPond
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
-
-### Hardware
-
-#### IoT
-
-- [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
-
-#### CAD
-
-- [petrisch/nvim-hicad](https://github.com/petrisch/nvim-hicad) ![](https://img.shields.io/github/stars/petrisch/nvim-hicad) ![](https://img.shields.io/github/last-commit/petrisch/nvim-hicad) ![](https://img.shields.io/github/commit-activity/y/petrisch/nvim-hicad)
-
-#### Verilog
-
-- [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
-
-#### Grooper
-
-- [StevenRotelli/nvim-grooper](https://github.com/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/stars/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/last-commit/StevenRotelli/nvim-grooper) ![](https://img.shields.io/github/commit-activity/y/StevenRotelli/nvim-grooper)
-
-#### SketchUp
-
-- [yorik1984/sketchup.nvim](https://github.com/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/stars/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/sketchup.nvim)
-
-#### Robot
-
-##### ROS
-
-- [thibthib18/ros-nvim](https://github.com/thibthib18/ros-nvim) ![](https://img.shields.io/github/stars/thibthib18/ros-nvim) ![](https://img.shields.io/github/last-commit/thibthib18/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/thibthib18/ros-nvim)
-- [miferco97/ros2-debugger-plugin](https://github.com/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/stars/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/last-commit/miferco97/ros2-debugger-plugin) ![](https://img.shields.io/github/commit-activity/y/miferco97/ros2-debugger-plugin)
-- [bi0ha2ard/ros-builder.nvim](https://github.com/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/ros-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/ros-builder.nvim)
-- [taDachs/ros-nvim](https://github.com/taDachs/ros-nvim) ![](https://img.shields.io/github/stars/taDachs/ros-nvim) ![](https://img.shields.io/github/last-commit/taDachs/ros-nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/ros-nvim)
-- [taketwo/nvim-ros](https://github.com/taketwo/nvim-ros) ![](https://img.shields.io/github/stars/taketwo/nvim-ros) ![](https://img.shields.io/github/last-commit/taketwo/nvim-ros) ![](https://img.shields.io/github/commit-activity/y/taketwo/nvim-ros)
-
-##### FRC(First robotics competition)
-
-- [VLPatton/frcpal.nvim](https://github.com/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/stars/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/last-commit/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/commit-activity/y/VLPatton/frcpal.nvim)
-- [frc4533-lincoln/wpilib.nvim](https://github.com/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/stars/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/last-commit/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/frc4533-lincoln/wpilib.nvim)
-
-#### Microcomputer
-
-- [fmaggi/stm32.nvim](https://github.com/fmaggi/stm32.nvim) ![](https://img.shields.io/github/stars/fmaggi/stm32.nvim) ![](https://img.shields.io/github/last-commit/fmaggi/stm32.nvim) ![](https://img.shields.io/github/commit-activity/y/fmaggi/stm32.nvim)
-
-##### LEGO
-
-- [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
-- [KWSmit/nvim-pybricks.nvim](https://github.com/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-pybricks.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-pybricks.nvim)
-
-#### Keyboard
-
-- [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
-- [jdsee/umlauts.nvim](https://github.com/jdsee/umlauts.nvim) ![](https://img.shields.io/github/stars/jdsee/umlauts.nvim) ![](https://img.shields.io/github/last-commit/jdsee/umlauts.nvim) ![](https://img.shields.io/github/commit-activity/y/jdsee/umlauts.nvim)
-- [linduxed/colemak.nvim](https://github.com/linduxed/colemak.nvim) ![](https://img.shields.io/github/stars/linduxed/colemak.nvim) ![](https://img.shields.io/github/last-commit/linduxed/colemak.nvim) ![](https://img.shields.io/github/commit-activity/y/linduxed/colemak.nvim)
-
-##### Virtual Keyboard
-
-- [mk0v3l/visualkeyboard.nvim](https://github.com/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/stars/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/last-commit/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/commit-activity/y/mk0v3l/visualkeyboard.nvim)
-
-#### Embedded Software
-
-- [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
-
-##### Arduino
-
-- [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)
-
-##### FlipperZero
-
-- [ASoldo/FlipperZeroNeoCore.nvim](https://github.com/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/stars/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/last-commit/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/commit-activity/y/ASoldo/FlipperZeroNeoCore.nvim)

@@ -1,0 +1,108 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [OS](#os)
+  * [Linux](#linux)
+    + [gnome](#gnome)
+    + [X11](#x11)
+    + [Nix](#nix)
+    + [drun](#drun)
+    + [darkman](#darkman)
+    + [fribidi](#fribidi)
+    + [Inkscape](#inkscape)
+    + [Rofi](#rofi)
+    + [xrandr](#xrandr)
+  * [Windows](#windows)
+    + [Explorer](#explorer)
+    + [Everything](#everything)
+    + [AutoHotKey](#autohotkey)
+    + [WSL](#wsl)
+  * [Mac](#mac)
+    + [iTerm](#iterm)
+  * [iOS](#ios)
+  * [Android](#android)
+
+<!-- tocstop -->
+
+## OS
+
+### Linux
+
+#### gnome
+
+- [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+#### X11
+
+- [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
+- [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)
+
+#### Nix
+
+- [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ![](https://img.shields.io/github/stars/calops/hmts.nvim) ![](https://img.shields.io/github/last-commit/calops/hmts.nvim) ![](https://img.shields.io/github/commit-activity/y/calops/hmts.nvim)
+- [b-src/lazy-nix-helper.nvim](https://github.com/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/stars/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/last-commit/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/b-src/lazy-nix-helper.nvim)
+
+#### drun
+
+- [Eric-Song-Nop/launcher.nvim](https://github.com/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/stars/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/last-commit/Eric-Song-Nop/launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Eric-Song-Nop/launcher.nvim)
+
+#### darkman
+
+- [4e554c4c/darkman.nvim](https://github.com/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/stars/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/last-commit/4e554c4c/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/4e554c4c/darkman.nvim)
+
+#### fribidi
+
+- [mcookly/bidi.nvim](https://github.com/mcookly/bidi.nvim) ![](https://img.shields.io/github/stars/mcookly/bidi.nvim) ![](https://img.shields.io/github/last-commit/mcookly/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/mcookly/bidi.nvim)
+
+#### Inkscape
+
+- [silaswaxter/inkscape-figure-manager.nvim](https://github.com/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/stars/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/last-commit/silaswaxter/inkscape-figure-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/silaswaxter/inkscape-figure-manager.nvim)
+
+#### Rofi
+
+- [giacomo618/rofi-select.nvim](https://github.com/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/stars/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/last-commit/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/commit-activity/y/giacomo618/rofi-select.nvim)
+
+#### xrandr
+
+- [HannHank/monitor.nvim](https://github.com/HannHank/monitor.nvim) ![](https://img.shields.io/github/stars/HannHank/monitor.nvim) ![](https://img.shields.io/github/last-commit/HannHank/monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/HannHank/monitor.nvim)
+
+### Windows
+
+#### Explorer
+
+- [srpmtt/nvim-open-in-explorer](https://github.com/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-open-in-explorer)
+
+#### Everything
+
+- [Verf/telescope-everything.nvim](https://github.com/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/stars/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/last-commit/Verf/telescope-everything.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/telescope-everything.nvim)
+
+#### AutoHotKey
+
+- [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
+- [GrzegorzKozub/ahk.nvim](https://github.com/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/stars/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/last-commit/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/commit-activity/y/GrzegorzKozub/ahk.nvim)
+
+#### WSL
+
+- [ggresillion/nvim-wsl-copypasta](https://github.com/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/stars/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/last-commit/ggresillion/nvim-wsl-copypasta) ![](https://img.shields.io/github/commit-activity/y/ggresillion/nvim-wsl-copypasta)
+- [hajin-chung/wsl-clipboard.nvim](https://github.com/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/stars/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/last-commit/hajin-chung/wsl-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hajin-chung/wsl-clipboard.nvim)
+
+### Mac
+
+- [clvnkhr/macaltkey.nvim](https://github.com/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/stars/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/last-commit/clvnkhr/macaltkey.nvim) ![](https://img.shields.io/github/commit-activity/y/clvnkhr/macaltkey.nvim)
+- [MXCR-cpu/boop.nvim](https://github.com/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/stars/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/last-commit/MXCR-cpu/boop.nvim) ![](https://img.shields.io/github/commit-activity/y/MXCR-cpu/boop.nvim)
+- [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/alfred-neovim-utilities)
+- [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
+- [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
+
+#### iTerm
+
+- [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
+
+### iOS
+
+- [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
+
+### Android
+
+- [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
