@@ -61,6 +61,7 @@
     + [Mac](#mac)
       - [iTerm](#iterm)
     + [iOS](#ios)
+    + [Android](#android)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
   * [Password Manager](#password-manager)
@@ -346,6 +347,10 @@
 #### iOS
 
 - [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
+
+#### Android
+
+- [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
 
 ### Ethereum
 
