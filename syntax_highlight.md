@@ -59,6 +59,7 @@
 ### Color picker
 
 - [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/stars/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/easycolor.nvim)
+- [roycrippen4/colors.nvim](https://github.com/roycrippen4/colors.nvim) ![](https://img.shields.io/github/stars/roycrippen4/colors.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/colors.nvim)
 
 ### ANSI Colorize
 

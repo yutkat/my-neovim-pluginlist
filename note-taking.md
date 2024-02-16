@@ -99,6 +99,7 @@
 - [2KAbhishek/tdo.nvim](https://github.com/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/tdo.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/tdo.nvim)
 - [skykosiner/todoist.nvim](https://github.com/skykosiner/todoist.nvim) ![](https://img.shields.io/github/stars/skykosiner/todoist.nvim) ![](https://img.shields.io/github/last-commit/skykosiner/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/skykosiner/todoist.nvim)
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) ![](https://img.shields.io/github/stars/backdround/global-note.nvim) ![](https://img.shields.io/github/last-commit/backdround/global-note.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/global-note.nvim)
+- [eliasCVII/timew.nvim](https://github.com/eliasCVII/timew.nvim) ![](https://img.shields.io/github/stars/eliasCVII/timew.nvim) ![](https://img.shields.io/github/last-commit/eliasCVII/timew.nvim) ![](https://img.shields.io/github/commit-activity/y/eliasCVII/timew.nvim)
 
 ### Taskwarrior
 
