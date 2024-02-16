@@ -7,6 +7,7 @@
   * [go list](#go-list)
   * [Test](#test)
   * [struct](#struct)
+  * [impl](#impl)
 
 <!-- tocstop -->
 
@@ -53,3 +54,7 @@
 ### struct
 
 - [triarius/json2struct.nvim](https://github.com/triarius/json2struct.nvim) ![](https://img.shields.io/github/stars/triarius/json2struct.nvim) ![](https://img.shields.io/github/last-commit/triarius/json2struct.nvim) ![](https://img.shields.io/github/commit-activity/y/triarius/json2struct.nvim)
+
+### impl
+
+- [venomlab/goimpl.nvim](https://github.com/venomlab/goimpl.nvim) ![](https://img.shields.io/github/stars/venomlab/goimpl.nvim) ![](https://img.shields.io/github/last-commit/venomlab/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/venomlab/goimpl.nvim)

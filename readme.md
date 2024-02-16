@@ -716,6 +716,7 @@
 
 - [antonk52/bad-practices.nvim](https://github.com/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/stars/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/last-commit/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/bad-practices.nvim)
 - [xiantang/coach.nvim](https://github.com/xiantang/coach.nvim) ![](https://img.shields.io/github/stars/xiantang/coach.nvim) ![](https://img.shields.io/github/last-commit/xiantang/coach.nvim) ![](https://img.shields.io/github/commit-activity/y/xiantang/coach.nvim)
+- [Ernest1338/training.nvim](https://github.com/Ernest1338/training.nvim) ![](https://img.shields.io/github/stars/Ernest1338/training.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/training.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/training.nvim)
 
 ### Analytics
 
