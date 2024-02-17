@@ -191,6 +191,7 @@
 - [mvaldes14/terraform.nvim](https://github.com/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/stars/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/last-commit/mvaldes14/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/mvaldes14/terraform.nvim)
 - [raphapr/terraform.nvim](https://github.com/raphapr/terraform.nvim) ![](https://img.shields.io/github/stars/raphapr/terraform.nvim) ![](https://img.shields.io/github/last-commit/raphapr/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/raphapr/terraform.nvim)
 - [dakota-m/terraform.nvim](https://github.com/dakota-m/terraform.nvim) ![](https://img.shields.io/github/stars/dakota-m/terraform.nvim) ![](https://img.shields.io/github/last-commit/dakota-m/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/dakota-m/terraform.nvim)
+- [olidacombe/terrabastard.nvim](https://github.com/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/stars/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/terrabastard.nvim)
 
 #### Ansible
 

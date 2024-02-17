@@ -120,6 +120,7 @@
 
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
 - [folke/noice.nvim(notify)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
+- [Ajnasz/notify-send.nvim](https://github.com/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/stars/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/notify-send.nvim)
 
 ### vim.ui.select/vim.ui.input
 
