@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [OS](#os)
+  * [CPU/Memory](#cpumemory)
   * [Linux](#linux)
     + [gnome](#gnome)
     + [X11](#x11)
@@ -26,6 +27,10 @@
 <!-- tocstop -->
 
 ## OS
+
+### CPU/Memory
+
+- [mimikun/human-rights.nvim](https://github.com/mimikun/human-rights.nvim) ![](https://img.shields.io/github/stars/mimikun/human-rights.nvim) ![](https://img.shields.io/github/last-commit/mimikun/human-rights.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/human-rights.nvim)
 
 ### Linux
 

@@ -18,6 +18,7 @@
   * [Embedded Software](#embedded-software)
     + [Arduino](#arduino)
     + [FlipperZero](#flipperzero)
+    + [WPILib](#wpilib)
 
 <!-- tocstop -->
 
@@ -88,3 +89,7 @@
 #### FlipperZero
 
 - [ASoldo/FlipperZeroNeoCore.nvim](https://github.com/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/stars/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/last-commit/ASoldo/FlipperZeroNeoCore.nvim) ![](https://img.shields.io/github/commit-activity/y/ASoldo/FlipperZeroNeoCore.nvim)
+
+#### WPILib
+
+- [spacey-sooty/wpilib.nvim](https://github.com/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/stars/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/last-commit/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/spacey-sooty/wpilib.nvim)

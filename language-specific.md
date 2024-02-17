@@ -59,6 +59,8 @@
     + [Agda](#agda)
     + [Monkey](#monkey)
     + [GNU APL](#gnu-apl)
+    + [Ada](#ada)
+      - [Alire](#alire)
     + [Godot](#godot)
     + [Moonscript](#moonscript)
     + [Haxe](#haxe)
@@ -385,6 +387,12 @@
 ### GNU APL
 
 - [salkin-mada/apl.nvim](https://github.com/salkin-mada/apl.nvim) ![](https://img.shields.io/github/stars/salkin-mada/apl.nvim) ![](https://img.shields.io/github/last-commit/salkin-mada/apl.nvim) ![](https://img.shields.io/github/commit-activity/y/salkin-mada/apl.nvim)
+
+### Ada
+
+#### Alire
+
+- [TamaMcGlinn/nvim-alire-tools](https://github.com/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/stars/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/last-commit/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/commit-activity/y/TamaMcGlinn/nvim-alire-tools)
 
 ### Godot
 
