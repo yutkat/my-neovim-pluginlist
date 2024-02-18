@@ -339,6 +339,8 @@
 
 ### Julia
 
+- [Klafyvel/nvim-smuggler](https://github.com/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/stars/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/last-commit/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/commit-activity/y/Klafyvel/nvim-smuggler)
+
 ### R
 
 - [jumanbar/tocnavigator.nvim](https://github.com/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/stars/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/last-commit/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/jumanbar/tocnavigator.nvim)

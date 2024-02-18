@@ -29,6 +29,7 @@
 - [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) ![](https://img.shields.io/github/stars/echasnovski/mini.completion) ![](https://img.shields.io/github/last-commit/echasnovski/mini.completion) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.completion)
 - [thatnerdjosh/nvim-ketho-wow](https://github.com/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/stars/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/last-commit/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/commit-activity/y/thatnerdjosh/nvim-ketho-wow)
 - [nvimdev/epo.nvim](https://github.com/nvimdev/epo.nvim) ![](https://img.shields.io/github/stars/nvimdev/epo.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/epo.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/epo.nvim)
+- [deathbeam/autocomplete.nvim](https://github.com/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/stars/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/autocomplete.nvim)
 
 #### Made in Python
 
