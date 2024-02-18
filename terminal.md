@@ -54,6 +54,7 @@
 - [pvskp/btterm.nvim](https://github.com/pvskp/btterm.nvim) ![](https://img.shields.io/github/stars/pvskp/btterm.nvim) ![](https://img.shields.io/github/last-commit/pvskp/btterm.nvim) ![](https://img.shields.io/github/commit-activity/y/pvskp/btterm.nvim)
 - [marco-souza/term.nvim](https://github.com/marco-souza/term.nvim) ![](https://img.shields.io/github/stars/marco-souza/term.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/term.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/term.nvim)
 - [Faisal-Aljutaili/OpenInPopUp.nvim](https://github.com/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/stars/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/last-commit/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/commit-activity/y/Faisal-Aljutaili/OpenInPopUp.nvim)
+- [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/termim.nvim)
 
 ### Open
 
