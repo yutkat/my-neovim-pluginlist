@@ -61,7 +61,6 @@
 
 ### Microcomputer
 
-- [fmaggi/stm32.nvim](https://github.com/fmaggi/stm32.nvim) ![](https://img.shields.io/github/stars/fmaggi/stm32.nvim) ![](https://img.shields.io/github/last-commit/fmaggi/stm32.nvim) ![](https://img.shields.io/github/commit-activity/y/fmaggi/stm32.nvim)
 
 #### LEGO
 
