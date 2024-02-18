@@ -33,6 +33,7 @@
 - [EthanJWright/vs-tasks.nvim](https://github.com/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/stars/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/vs-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/vs-tasks.nvim)
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) ![](https://img.shields.io/github/stars/Dax89/automaton.nvim) ![](https://img.shields.io/github/last-commit/Dax89/automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/automaton.nvim)
 - [JoelMTom/nvim-automakerun](https://github.com/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/stars/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/last-commit/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/commit-activity/y/JoelMTom/nvim-automakerun)
+- [nobody-famous/tasks.nvim](https://github.com/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/stars/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/tasks.nvim)
 
 ### YAML
 

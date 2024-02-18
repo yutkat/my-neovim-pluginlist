@@ -702,6 +702,7 @@
 - [gaoDean/cal.nvim](https://github.com/gaoDean/cal.nvim) ![](https://img.shields.io/github/stars/gaoDean/cal.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/cal.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/cal.nvim)
 - [ds1sqe/Calendar.nvim](https://github.com/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/stars/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/Calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/Calendar.nvim)
 - [aPeoplesCalendar/apc.nvim](https://github.com/aPeoplesCalendar/apc.nvim) ![](https://img.shields.io/github/stars/aPeoplesCalendar/apc.nvim) ![](https://img.shields.io/github/last-commit/aPeoplesCalendar/apc.nvim) ![](https://img.shields.io/github/commit-activity/y/aPeoplesCalendar/apc.nvim)
+- [lutzzdias/calendrum.nvim](https://github.com/lutzzdias/calendrum.nvim) ![](https://img.shields.io/github/stars/lutzzdias/calendrum.nvim) ![](https://img.shields.io/github/last-commit/lutzzdias/calendrum.nvim) ![](https://img.shields.io/github/commit-activity/y/lutzzdias/calendrum.nvim)
 
 ### Presentation
 
