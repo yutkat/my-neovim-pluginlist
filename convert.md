@@ -8,6 +8,7 @@
   * [Convert Word](#convert-word)
   * [Boolean](#boolean)
   * [Base64](#base64)
+  * [Number](#number)
   * [Date](#date)
   * [Pixel](#pixel)
 
@@ -59,6 +60,10 @@
 - [MisanthropicBit/decipher.nvim](https://github.com/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/decipher.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/decipher.nvim)
 - [jasonwoodland/base64.nvim](https://github.com/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/stars/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/last-commit/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/commit-activity/y/jasonwoodland/base64.nvim)
 - [antarktikali/nvim-external-base64](https://github.com/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/stars/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/last-commit/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/commit-activity/y/antarktikali/nvim-external-base64)
+
+### Number
+
+- [jlodenius/strider.nvim](https://github.com/jlodenius/strider.nvim) ![](https://img.shields.io/github/stars/jlodenius/strider.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/strider.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/strider.nvim)
 
 ### Date
 
