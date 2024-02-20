@@ -39,6 +39,7 @@
 - [b72u68/vscode.nvim](https://github.com/b72u68/vscode.nvim) ![](https://img.shields.io/github/stars/b72u68/vscode.nvim) ![](https://img.shields.io/github/last-commit/b72u68/vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/b72u68/vscode.nvim)
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
 - [MAHcodes/roll.nvim](https://github.com/MAHcodes/roll.nvim) ![](https://img.shields.io/github/stars/MAHcodes/roll.nvim) ![](https://img.shields.io/github/last-commit/MAHcodes/roll.nvim) ![](https://img.shields.io/github/commit-activity/y/MAHcodes/roll.nvim)
+- [mimre25/jokes.nvim](https://github.com/mimre25/jokes.nvim) ![](https://img.shields.io/github/stars/mimre25/jokes.nvim) ![](https://img.shields.io/github/last-commit/mimre25/jokes.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/jokes.nvim)
 
 ### Hacker typer
 
