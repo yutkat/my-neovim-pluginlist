@@ -18,6 +18,7 @@
   * [Scratch Buffer](#scratch-buffer)
   * [inline note](#inline-note)
   * [Anki](#anki)
+  * [Clickup](#clickup)
   * [etc](#etc)
 
 <!-- tocstop -->
@@ -117,6 +118,7 @@
 - [oleksiiluchnikov/vault.nvim](https://github.com/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/vault.nvim)
 - [NextPi/obsidian.nvim](https://github.com/NextPi/obsidian.nvim) ![](https://img.shields.io/github/stars/NextPi/obsidian.nvim) ![](https://img.shields.io/github/last-commit/NextPi/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/NextPi/obsidian.nvim)
 - [NoseferatuWKF/dijon.nvim](https://github.com/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/stars/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/last-commit/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/commit-activity/y/NoseferatuWKF/dijon.nvim)
+- [seibs/obsidian-logbook.nvim](https://github.com/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/stars/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/last-commit/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/commit-activity/y/seibs/obsidian-logbook.nvim)
 
 ## Google Keep
 
@@ -166,6 +168,10 @@
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
 - [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
 
+## Clickup
+
+- [mbe-setpoint/clickup.nvim](https://github.com/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/stars/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/last-commit/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/commit-activity/y/mbe-setpoint/clickup.nvim)
+
 ## etc
 
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
@@ -198,3 +204,6 @@
 - [rguruprakash/simple-note.nvim](https://github.com/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/stars/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/last-commit/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/rguruprakash/simple-note.nvim)
 - [dhananjaylatkar/notes.nvim](https://github.com/dhananjaylatkar/notes.nvim) ![](https://img.shields.io/github/stars/dhananjaylatkar/notes.nvim) ![](https://img.shields.io/github/last-commit/dhananjaylatkar/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/dhananjaylatkar/notes.nvim)
 - [Lukas412/scatternotes.nvim](https://github.com/Lukas412/scatternotes.nvim) ![](https://img.shields.io/github/stars/Lukas412/scatternotes.nvim) ![](https://img.shields.io/github/last-commit/Lukas412/scatternotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Lukas412/scatternotes.nvim)
+- [MarchCraft/quicknotes.nvim](https://github.com/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/stars/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/MarchCraft/quicknotes.nvim)
+- [brattonross/standup.nvim](https://github.com/brattonross/standup.nvim) ![](https://img.shields.io/github/stars/brattonross/standup.nvim) ![](https://img.shields.io/github/last-commit/brattonross/standup.nvim) ![](https://img.shields.io/github/commit-activity/y/brattonross/standup.nvim)
+- [slarse/teletasks.nvim](https://github.com/slarse/teletasks.nvim) ![](https://img.shields.io/github/stars/slarse/teletasks.nvim) ![](https://img.shields.io/github/last-commit/slarse/teletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/slarse/teletasks.nvim)

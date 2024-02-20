@@ -732,6 +732,7 @@
 - [rymdlego/readtime.nvim](https://github.com/rymdlego/readtime.nvim) ![](https://img.shields.io/github/stars/rymdlego/readtime.nvim) ![](https://img.shields.io/github/last-commit/rymdlego/readtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rymdlego/readtime.nvim)
 - [Forsigg/daily-symbols-count.nvim](https://github.com/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/stars/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/last-commit/Forsigg/daily-symbols-count.nvim) ![](https://img.shields.io/github/commit-activity/y/Forsigg/daily-symbols-count.nvim)
 - [lincore81/zeitraum.nvim](https://github.com/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/stars/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/last-commit/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/commit-activity/y/lincore81/zeitraum.nvim)
+- [wjorden/focus-tracker.nvim](https://github.com/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/stars/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/last-commit/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/wjorden/focus-tracker.nvim)
 
 #### Typing speed
 
