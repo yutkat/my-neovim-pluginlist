@@ -110,6 +110,7 @@
 - [isaac238/terminal_run.nvim](https://github.com/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/stars/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/last-commit/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/commit-activity/y/isaac238/terminal_run.nvim)
 - [nvimdev/rapid.nvim](https://github.com/nvimdev/rapid.nvim) ![](https://img.shields.io/github/stars/nvimdev/rapid.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/rapid.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/rapid.nvim)
 - [fishioon/term.nvim](https://github.com/fishioon/term.nvim) ![](https://img.shields.io/github/stars/fishioon/term.nvim) ![](https://img.shields.io/github/last-commit/fishioon/term.nvim) ![](https://img.shields.io/github/commit-activity/y/fishioon/term.nvim)
+- [samharju/yeet.nvim](https://github.com/samharju/yeet.nvim) ![](https://img.shields.io/github/stars/samharju/yeet.nvim) ![](https://img.shields.io/github/last-commit/samharju/yeet.nvim) ![](https://img.shields.io/github/commit-activity/y/samharju/yeet.nvim)
 
 ## Auto detect style
 
