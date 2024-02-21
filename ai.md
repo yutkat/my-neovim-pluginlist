@@ -57,6 +57,7 @@
 - [youshyee/gpt.nvim](https://github.com/youshyee/gpt.nvim) ![](https://img.shields.io/github/stars/youshyee/gpt.nvim) ![](https://img.shields.io/github/last-commit/youshyee/gpt.nvim) ![](https://img.shields.io/github/commit-activity/y/youshyee/gpt.nvim)
 - [CamdenClark/carrier.nvim](https://github.com/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/stars/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/last-commit/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/carrier.nvim)
 - [S1M0N38/ai.nvim](https://github.com/S1M0N38/ai.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ai.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ai.nvim)
+- [ashaiber/openaipg.nvim](https://github.com/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/stars/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/last-commit/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/commit-activity/y/ashaiber/openaipg.nvim)
 
 ### Gemini
 

@@ -22,6 +22,7 @@
   * [narrowing](#narrowing)
   * [Multi Cursor](#multi-cursor)
   * [Incremental selection](#incremental-selection)
+  * [Around select](#around-select)
 
 <!-- tocstop -->
 
@@ -169,3 +170,7 @@
 ## Incremental selection
 
 - [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
+
+## Around select
+
+- [lhedeby/around.nvim](https://github.com/lhedeby/around.nvim) ![](https://img.shields.io/github/stars/lhedeby/around.nvim) ![](https://img.shields.io/github/last-commit/lhedeby/around.nvim) ![](https://img.shields.io/github/commit-activity/y/lhedeby/around.nvim)
