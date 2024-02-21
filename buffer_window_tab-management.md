@@ -66,6 +66,7 @@
 - [genzyy/hasten.nvim](https://github.com/genzyy/hasten.nvim) ![](https://img.shields.io/github/stars/genzyy/hasten.nvim) ![](https://img.shields.io/github/last-commit/genzyy/hasten.nvim) ![](https://img.shields.io/github/commit-activity/y/genzyy/hasten.nvim)
 - [sathishmanohar/quick-buffer-jump](https://github.com/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/stars/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/last-commit/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/commit-activity/y/sathishmanohar/quick-buffer-jump)
 - [srcrip/torus.nvim](https://github.com/srcrip/torus.nvim) ![](https://img.shields.io/github/stars/srcrip/torus.nvim) ![](https://img.shields.io/github/last-commit/srcrip/torus.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/torus.nvim)
+- [ayoubelmhamdi/qbuf.nvim](https://github.com/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/stars/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/last-commit/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/ayoubelmhamdi/qbuf.nvim)
 
 ### Other Buffer Switcher
 
@@ -92,6 +93,7 @@
 - [mrquantumcodes/bufferchad.nvim](https://github.com/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/stars/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/last-commit/mrquantumcodes/bufferchad.nvim) ![](https://img.shields.io/github/commit-activity/y/mrquantumcodes/bufferchad.nvim)
 - [gremble0/bufferstack.nvim](https://github.com/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/stars/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/last-commit/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/commit-activity/y/gremble0/bufferstack.nvim)
 - [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) ![](https://img.shields.io/github/stars/desdic/marlin.nvim) ![](https://img.shields.io/github/last-commit/desdic/marlin.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/marlin.nvim)
+- [smilhey/cabinet.nvim](https://github.com/smilhey/cabinet.nvim) ![](https://img.shields.io/github/stars/smilhey/cabinet.nvim) ![](https://img.shields.io/github/last-commit/smilhey/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/smilhey/cabinet.nvim)
 
 #### create
 
