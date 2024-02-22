@@ -19,6 +19,7 @@
     + [textDocument](#textdocument)
       - [CodeLens](#codelens)
       - [LinkedEditingRange](#linkededitingrange)
+      - [documentLink](#documentlink)
     + [window](#window)
       - [logMessage](#logmessage)
     + [Semantic Token](#semantic-token)
@@ -173,6 +174,10 @@
 ##### LinkedEditingRange
 
 - [hrsh7th/nvim-linkedit](https://github.com/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-linkedit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-linkedit)
+
+##### documentLink
+
+- [icholy/nvim-lsplinks](https://github.com/icholy/nvim-lsplinks) ![](https://img.shields.io/github/stars/icholy/nvim-lsplinks) ![](https://img.shields.io/github/last-commit/icholy/nvim-lsplinks) ![](https://img.shields.io/github/commit-activity/y/icholy/nvim-lsplinks)
 
 #### window
 
