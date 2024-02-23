@@ -4,6 +4,7 @@
 
 - [Javascript/Typescript](#javascripttypescript)
   * [string](#string)
+  * [console.log](#consolelog)
   * [Toolchain](#toolchain)
     + [tsc(TypeScript compiler)](#tsctypescript-compiler)
     + [Type check](#type-check)
@@ -54,6 +55,10 @@
 #### string
 
 - [fmillone/string-quotes.nvim](https://github.com/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/stars/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/last-commit/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/string-quotes.nvim)
+
+#### console.log
+
+- [bad4iz/console.log.nvim](https://github.com/bad4iz/console.log.nvim) ![](https://img.shields.io/github/stars/bad4iz/console.log.nvim) ![](https://img.shields.io/github/last-commit/bad4iz/console.log.nvim) ![](https://img.shields.io/github/commit-activity/y/bad4iz/console.log.nvim)
 
 #### Toolchain
 

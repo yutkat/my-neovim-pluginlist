@@ -14,6 +14,7 @@
   * [OpenMP](#openmp)
   * [Header](#header)
 - [PlatformIO](#platformio)
+- [ASM](#asm)
 
 <!-- tocstop -->
 
@@ -88,3 +89,8 @@
 ### PlatformIO
 
 - [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/stars/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/last-commit/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/commit-activity/y/anurag3301/nvim-platformio.lua)
+
+### ASM
+
+- [kamoshi/disasm.nvim](https://github.com/kamoshi/disasm.nvim) ![](https://img.shields.io/github/stars/kamoshi/disasm.nvim) ![](https://img.shields.io/github/last-commit/kamoshi/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/kamoshi/disasm.nvim)
+

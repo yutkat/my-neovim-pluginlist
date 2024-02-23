@@ -29,6 +29,7 @@
 - [epwalsh/pomo.nvim](https://github.com/epwalsh/pomo.nvim) ![](https://img.shields.io/github/stars/epwalsh/pomo.nvim) ![](https://img.shields.io/github/last-commit/epwalsh/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/epwalsh/pomo.nvim)
 - [donbignose/flowtime.nvim](https://github.com/donbignose/flowtime.nvim) ![](https://img.shields.io/github/stars/donbignose/flowtime.nvim) ![](https://img.shields.io/github/last-commit/donbignose/flowtime.nvim) ![](https://img.shields.io/github/commit-activity/y/donbignose/flowtime.nvim)
 - [gestylinaga/pomo.nvim](https://github.com/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/stars/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/last-commit/gestylinaga/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/gestylinaga/pomo.nvim)
+- [snehlsen/pomo.nvim](https://github.com/snehlsen/pomo.nvim) ![](https://img.shields.io/github/stars/snehlsen/pomo.nvim) ![](https://img.shields.io/github/last-commit/snehlsen/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/snehlsen/pomo.nvim)
 
 ## Alarm
 

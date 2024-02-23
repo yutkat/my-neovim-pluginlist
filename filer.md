@@ -13,6 +13,7 @@
   * [yazi](#yazi)
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
+  * [broot](#broot)
   * [Create directory](#create-directory)
   * [Tree View](#tree-view)
 
@@ -119,7 +120,11 @@
 - [tomato3713/hijack-open-directory.nvim](https://github.com/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/stars/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/last-commit/tomato3713/hijack-open-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/tomato3713/hijack-open-directory.nvim)
 - [metalelf0/supermover.nvim](https://github.com/metalelf0/supermover.nvim) ![](https://img.shields.io/github/stars/metalelf0/supermover.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/supermover.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/supermover.nvim)
 - [fbuchlak/telescope-directory.nvim](https://github.com/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/stars/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/last-commit/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/telescope-directory.nvim)
+
+## broot
+
 - [FrancescElies/broot.nvim](https://github.com/FrancescElies/broot.nvim) ![](https://img.shields.io/github/stars/FrancescElies/broot.nvim) ![](https://img.shields.io/github/last-commit/FrancescElies/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancescElies/broot.nvim)
+- [aohoyd/broot.nvim](https://github.com/aohoyd/broot.nvim) ![](https://img.shields.io/github/stars/aohoyd/broot.nvim) ![](https://img.shields.io/github/last-commit/aohoyd/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/aohoyd/broot.nvim)
 
 ## Create directory
 
