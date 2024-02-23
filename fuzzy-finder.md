@@ -63,6 +63,7 @@
 - [adoyle-h/telescope-extension-maker.nvim](https://github.com/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/stars/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/telescope-extension-maker.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/telescope-extension-maker.nvim)
 - [Theo-Steiner/togglescope](https://github.com/Theo-Steiner/togglescope) ![](https://img.shields.io/github/stars/Theo-Steiner/togglescope) ![](https://img.shields.io/github/last-commit/Theo-Steiner/togglescope) ![](https://img.shields.io/github/commit-activity/y/Theo-Steiner/togglescope)
 - [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) ![](https://img.shields.io/github/stars/FabianWirth/search.nvim) ![](https://img.shields.io/github/last-commit/FabianWirth/search.nvim) ![](https://img.shields.io/github/commit-activity/y/FabianWirth/search.nvim)
+- [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 
 #### Grep
 
