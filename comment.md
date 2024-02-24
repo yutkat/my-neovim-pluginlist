@@ -76,3 +76,4 @@
 
 - [KronsyC/nvim-license](https://github.com/KronsyC/nvim-license) ![](https://img.shields.io/github/stars/KronsyC/nvim-license) ![](https://img.shields.io/github/last-commit/KronsyC/nvim-license) ![](https://img.shields.io/github/commit-activity/y/KronsyC/nvim-license)
 - [kksat/licenses.nvim](https://github.com/kksat/licenses.nvim) ![](https://img.shields.io/github/stars/kksat/licenses.nvim) ![](https://img.shields.io/github/last-commit/kksat/licenses.nvim) ![](https://img.shields.io/github/commit-activity/y/kksat/licenses.nvim)
+- [CyberFatherRT/license.nvim](https://github.com/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/license.nvim)

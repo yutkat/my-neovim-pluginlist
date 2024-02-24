@@ -22,6 +22,7 @@
 - [vzze/cmdline.nvim](https://github.com/vzze/cmdline.nvim) ![](https://img.shields.io/github/stars/vzze/cmdline.nvim) ![](https://img.shields.io/github/last-commit/vzze/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/cmdline.nvim)
 - [jonarrien/telescope-cmdline.nvim](https://github.com/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/stars/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/telescope-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/telescope-cmdline.nvim)
 - [hachy/recmdwin.nvim](https://github.com/hachy/recmdwin.nvim) ![](https://img.shields.io/github/stars/hachy/recmdwin.nvim) ![](https://img.shields.io/github/last-commit/hachy/recmdwin.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/recmdwin.nvim)
+- [otavioschwanck/telescope-cmdline-word.nvim](https://github.com/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/telescope-cmdline-word.nvim)
 
 ### GUID
 
