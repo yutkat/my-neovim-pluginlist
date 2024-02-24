@@ -48,6 +48,7 @@
 - [albenisolmos/autochdir.nvim](https://github.com/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/stars/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/autochdir.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/autochdir.nvim)
 - [gmartsenkov/root.nvim](https://github.com/gmartsenkov/root.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/root.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/root.nvim)
 - [kilisio/nvim-root-dir](https://github.com/kilisio/nvim-root-dir) ![](https://img.shields.io/github/stars/kilisio/nvim-root-dir) ![](https://img.shields.io/github/last-commit/kilisio/nvim-root-dir) ![](https://img.shields.io/github/commit-activity/y/kilisio/nvim-root-dir)
+- [michel-garcia/radix.nvim](https://github.com/michel-garcia/radix.nvim) ![](https://img.shields.io/github/stars/michel-garcia/radix.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/radix.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/radix.nvim)
 
 ##### Monorepo
 
