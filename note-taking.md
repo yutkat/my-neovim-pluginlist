@@ -38,6 +38,7 @@
 - [danilshvalov/org-modern.nvim](https://github.com/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/stars/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/org-modern.nvim)
 - [Jobin-Nelson/org-tangle.nvim](https://github.com/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/stars/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/last-commit/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/Jobin-Nelson/org-tangle.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
+- [massix/org-checkbox.nvim](https://github.com/massix/org-checkbox.nvim) ![](https://img.shields.io/github/stars/massix/org-checkbox.nvim) ![](https://img.shields.io/github/last-commit/massix/org-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/org-checkbox.nvim)
 
 ## Zettelkasten
 
@@ -207,3 +208,4 @@
 - [MarchCraft/quicknotes.nvim](https://github.com/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/stars/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/MarchCraft/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/MarchCraft/quicknotes.nvim)
 - [brattonross/standup.nvim](https://github.com/brattonross/standup.nvim) ![](https://img.shields.io/github/stars/brattonross/standup.nvim) ![](https://img.shields.io/github/last-commit/brattonross/standup.nvim) ![](https://img.shields.io/github/commit-activity/y/brattonross/standup.nvim)
 - [slarse/teletasks.nvim](https://github.com/slarse/teletasks.nvim) ![](https://img.shields.io/github/stars/slarse/teletasks.nvim) ![](https://img.shields.io/github/last-commit/slarse/teletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/slarse/teletasks.nvim)
+- [pilarskikt/qnotes.nvim](https://github.com/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/stars/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/last-commit/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/pilarskikt/qnotes.nvim)

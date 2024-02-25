@@ -71,6 +71,7 @@
     + [Orca](#orca)
     + [sylt](#sylt)
     + [Cyber](#cyber)
+    + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
     + [Unison](#unison)
@@ -137,6 +138,7 @@
 - [NTBBloodbath/zig-tools.nvim](https://github.com/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/zig-tools.nvim)
 - [CadeMichael/zig.nvim](https://github.com/CadeMichael/zig.nvim) ![](https://img.shields.io/github/stars/CadeMichael/zig.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/zig.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/zig.nvim)
 - [bfredl/nvim-zigclient](https://github.com/bfredl/nvim-zigclient) ![](https://img.shields.io/github/stars/bfredl/nvim-zigclient) ![](https://img.shields.io/github/last-commit/bfredl/nvim-zigclient) ![](https://img.shields.io/github/commit-activity/y/bfredl/nvim-zigclient)
+- [speed2exe/zig-comp-diag.nvim](https://github.com/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/stars/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/last-commit/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/commit-activity/y/speed2exe/zig-comp-diag.nvim)
 
 ### Ruby
 
@@ -438,6 +440,10 @@
 ### Cyber
 
 - [instance-id/nvim-cyber](https://github.com/instance-id/nvim-cyber) ![](https://img.shields.io/github/stars/instance-id/nvim-cyber) ![](https://img.shields.io/github/last-commit/instance-id/nvim-cyber) ![](https://img.shields.io/github/commit-activity/y/instance-id/nvim-cyber)
+
+### ABC
+
+- [jisensee/abc.nvim](https://github.com/jisensee/abc.nvim) ![](https://img.shields.io/github/stars/jisensee/abc.nvim) ![](https://img.shields.io/github/last-commit/jisensee/abc.nvim) ![](https://img.shields.io/github/commit-activity/y/jisensee/abc.nvim)
 
 ### Tcl/Tk
 

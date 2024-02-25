@@ -63,6 +63,7 @@
   - [nvim-island/hydra.nvim](https://github.com/nvim-island/hydra.nvim) ![](https://img.shields.io/github/stars/nvim-island/hydra.nvim) ![](https://img.shields.io/github/last-commit/nvim-island/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-island/hydra.nvim)
   - [nvimtools/hydra.nvim](https://github.com/nvimtools/hydra.nvim) ![](https://img.shields.io/github/stars/nvimtools/hydra.nvim) ![](https://img.shields.io/github/last-commit/nvimtools/hydra.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimtools/hydra.nvim)
 - [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
+- [N4nid/easynums.nvim](https://github.com/N4nid/easynums.nvim) ![](https://img.shields.io/github/stars/N4nid/easynums.nvim) ![](https://img.shields.io/github/last-commit/N4nid/easynums.nvim) ![](https://img.shields.io/github/commit-activity/y/N4nid/easynums.nvim)
 
 ## Layout Switch
 
