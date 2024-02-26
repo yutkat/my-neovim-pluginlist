@@ -62,6 +62,7 @@
 - [atusy/treemonkey.nvim](https://github.com/atusy/treemonkey.nvim) ![](https://img.shields.io/github/stars/atusy/treemonkey.nvim) ![](https://img.shields.io/github/last-commit/atusy/treemonkey.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/treemonkey.nvim)
 - [jjshoots/betterf.nvim](https://github.com/jjshoots/betterf.nvim) ![](https://img.shields.io/github/stars/jjshoots/betterf.nvim) ![](https://img.shields.io/github/last-commit/jjshoots/betterf.nvim) ![](https://img.shields.io/github/commit-activity/y/jjshoots/betterf.nvim)
 - [atusy/mickeymotion.nvim](https://github.com/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/stars/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/last-commit/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/mickeymotion.nvim)
+- [rasulomaroff/telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/stars/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/last-commit/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/commit-activity/y/rasulomaroff/telepath.nvim)
 
 ### Horizontal Move
 
