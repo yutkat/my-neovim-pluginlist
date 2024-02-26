@@ -82,6 +82,7 @@
 - [runih/colorscheme-picker.nvim](https://github.com/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/runih/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/colorscheme-picker.nvim)
 - [CWood-sdf/pineapple](https://github.com/CWood-sdf/pineapple) ![](https://img.shields.io/github/stars/CWood-sdf/pineapple) ![](https://img.shields.io/github/last-commit/CWood-sdf/pineapple) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/pineapple)
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) ![](https://img.shields.io/github/stars/vague2k/huez.nvim) ![](https://img.shields.io/github/last-commit/vague2k/huez.nvim) ![](https://img.shields.io/github/commit-activity/y/vague2k/huez.nvim)
+- [andrew-george/telescope-themes](https://github.com/andrew-george/telescope-themes) ![](https://img.shields.io/github/stars/andrew-george/telescope-themes) ![](https://img.shields.io/github/last-commit/andrew-george/telescope-themes) ![](https://img.shields.io/github/commit-activity/y/andrew-george/telescope-themes)
 
 ### Colorscheme overwrite
 

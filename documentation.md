@@ -160,6 +160,7 @@
 - [kiran94/edit-markdown-table.nvim](https://github.com/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/stars/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/last-commit/kiran94/edit-markdown-table.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/edit-markdown-table.nvim)
 - [lhybdv/md-table.nvim](https://github.com/lhybdv/md-table.nvim) ![](https://img.shields.io/github/stars/lhybdv/md-table.nvim) ![](https://img.shields.io/github/last-commit/lhybdv/md-table.nvim) ![](https://img.shields.io/github/commit-activity/y/lhybdv/md-table.nvim)
 - [shaneworld/NeoTabulator.nvim](https://github.com/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/stars/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/last-commit/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneworld/NeoTabulator.nvim)
+- [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) ![](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/easytables.nvim)
 
 #### Markdown evaluate code
 
