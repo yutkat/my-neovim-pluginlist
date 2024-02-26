@@ -71,6 +71,7 @@
     + [Orca](#orca)
     + [sylt](#sylt)
     + [Cyber](#cyber)
+    + [Templaty](#templaty)
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
@@ -127,6 +128,7 @@
 - [willothy/leptos.nvim](https://github.com/willothy/leptos.nvim) ![](https://img.shields.io/github/stars/willothy/leptos.nvim) ![](https://img.shields.io/github/last-commit/willothy/leptos.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/leptos.nvim)
 - [vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim) ![](https://img.shields.io/github/stars/vxpm/ferris.nvim) ![](https://img.shields.io/github/last-commit/vxpm/ferris.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/ferris.nvim)
 - [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
+- [wuchuheng/auto-fix-rust.nvim](https://github.com/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/stars/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/last-commit/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/wuchuheng/auto-fix-rust.nvim)
 
 #### Test
 
@@ -440,6 +442,10 @@
 ### Cyber
 
 - [instance-id/nvim-cyber](https://github.com/instance-id/nvim-cyber) ![](https://img.shields.io/github/stars/instance-id/nvim-cyber) ![](https://img.shields.io/github/last-commit/instance-id/nvim-cyber) ![](https://img.shields.io/github/commit-activity/y/instance-id/nvim-cyber)
+
+### Templaty
+
+- [samvv/templaty.nvim](https://github.com/samvv/templaty.nvim) ![](https://img.shields.io/github/stars/samvv/templaty.nvim) ![](https://img.shields.io/github/last-commit/samvv/templaty.nvim) ![](https://img.shields.io/github/commit-activity/y/samvv/templaty.nvim)
 
 ### ABC
 

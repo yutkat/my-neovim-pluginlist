@@ -26,6 +26,7 @@
 - [jake-stewart/append-unnamed.nvim](https://github.com/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/stars/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/append-unnamed.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/append-unnamed.nvim)
 - [RomanoZumbe/yanki.nvim](https://github.com/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/stars/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/last-commit/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanoZumbe/yanki.nvim)
 - [raghue9/nvim-relativelinecopy](https://github.com/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/stars/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/last-commit/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/commit-activity/y/raghue9/nvim-relativelinecopy)
+- [petersid2022/clippy.nvim](https://github.com/petersid2022/clippy.nvim) ![](https://img.shields.io/github/stars/petersid2022/clippy.nvim) ![](https://img.shields.io/github/last-commit/petersid2022/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/petersid2022/clippy.nvim)
 
 ## URL
 

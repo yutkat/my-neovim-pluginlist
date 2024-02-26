@@ -9,6 +9,7 @@
   * [import](#import)
   * [REPL](#repl)
   * [Debug](#debug)
+  * [Stacktrace](#stacktrace)
   * [build manager](#build-manager)
   * [pypi](#pypi)
   * [venv](#venv)
@@ -60,6 +61,10 @@
 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
 - [camilotorresf/icecream.nvim](https://github.com/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/stars/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/last-commit/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/commit-activity/y/camilotorresf/icecream.nvim)
+
+#### Stacktrace
+
+- [philjnicholls/stacknav.nvim](https://github.com/philjnicholls/stacknav.nvim) ![](https://img.shields.io/github/stars/philjnicholls/stacknav.nvim) ![](https://img.shields.io/github/last-commit/philjnicholls/stacknav.nvim) ![](https://img.shields.io/github/commit-activity/y/philjnicholls/stacknav.nvim)
 
 #### build manager
 

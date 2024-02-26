@@ -37,6 +37,7 @@
 - [rickyelopez/uncrustify.nvim](https://github.com/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/stars/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/last-commit/rickyelopez/uncrustify.nvim) ![](https://img.shields.io/github/commit-activity/y/rickyelopez/uncrustify.nvim)
 - [cljoly/minimal-format.nvim](https://github.com/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/stars/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/last-commit/cljoly/minimal-format.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/minimal-format.nvim)
 - [9yokuro/afmt.nvim](https://github.com/9yokuro/afmt.nvim) ![](https://img.shields.io/github/stars/9yokuro/afmt.nvim) ![](https://img.shields.io/github/last-commit/9yokuro/afmt.nvim) ![](https://img.shields.io/github/commit-activity/y/9yokuro/afmt.nvim)
+- [nazo6/format-order.nvim](https://github.com/nazo6/format-order.nvim) ![](https://img.shields.io/github/stars/nazo6/format-order.nvim) ![](https://img.shields.io/github/last-commit/nazo6/format-order.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/format-order.nvim)
 
 ### Trim Whitespace
 
