@@ -8,6 +8,7 @@
   * [Test](#test)
   * [struct](#struct)
   * [impl](#impl)
+  * [implement](#implement)
 
 <!-- tocstop -->
 
@@ -58,3 +59,7 @@
 ### impl
 
 - [venomlab/goimpl.nvim](https://github.com/venomlab/goimpl.nvim) ![](https://img.shields.io/github/stars/venomlab/goimpl.nvim) ![](https://img.shields.io/github/last-commit/venomlab/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/venomlab/goimpl.nvim)
+
+### implement
+
+- [relardev/go-component-generator.nvim](https://github.com/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/stars/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/last-commit/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/relardev/go-component-generator.nvim)
