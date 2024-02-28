@@ -6,6 +6,7 @@
   * [LSP Installer](#lsp-installer)
   * [LSP Feature Extension UI](#lsp-feature-extension-ui)
     + [Diagnostics](#diagnostics)
+      - [Diagnostics goto](#diagnostics-goto)
     + [Pull Diagnostics](#pull-diagnostics)
       - [unused variable](#unused-variable)
       - [diagnostics summary](#diagnostics-summary)
@@ -93,6 +94,10 @@
 - [dknaack/qf-diagnostics.nvim](https://github.com/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/stars/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/dknaack/qf-diagnostics.nvim)
 - [jake-stewart/diagnostic-jump.nvim](https://github.com/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/stars/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/diagnostic-jump.nvim)
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/stars/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/artemave/workspace-diagnostics.nvim)
+
+##### Diagnostics goto
+
+- [mizlan/delimited.nvim](https://github.com/mizlan/delimited.nvim) ![](https://img.shields.io/github/stars/mizlan/delimited.nvim) ![](https://img.shields.io/github/last-commit/mizlan/delimited.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/delimited.nvim)
 
 #### Pull Diagnostics
 
