@@ -5,6 +5,7 @@
 - [Yank](#yank)
   * [URL](#url)
   * [Register Selector](#register-selector)
+  * [Edit Register](#edit-register)
   * [OSC52](#osc52)
   * [Save](#save)
 - [Paste](#paste)
@@ -39,6 +40,10 @@
 - [acksld/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua) ![](https://img.shields.io/github/stars/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/last-commit/acksld/nvim-neoclip.lua) ![](https://img.shields.io/github/commit-activity/y/acksld/nvim-neoclip.lua)
 - [Piotr1215/yanksearch.nvim](https://github.com/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/stars/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/yanksearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/yanksearch.nvim)
 - [bartdorsey/quickclip.nvim](https://github.com/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/stars/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/last-commit/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/commit-activity/y/bartdorsey/quickclip.nvim)
+
+## Edit Register
+
+- [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
 
 ## OSC52
 
