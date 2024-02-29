@@ -13,6 +13,7 @@
   * [Word Motion](#word-motion)
   * [Line Move](#line-move)
   * [Emacs Motion](#emacs-motion)
+  * [Treesitter Node](#treesitter-node)
 
 <!-- tocstop -->
 
@@ -104,3 +105,6 @@
 - [sysedwinistrator/readline.nvim](https://github.com/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/stars/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/last-commit/sysedwinistrator/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/sysedwinistrator/readline.nvim)
 - [krishnakumarg1984/readline.nvim](https://github.com/krishnakumarg1984/readline.nvim) ![](https://img.shields.io/github/stars/krishnakumarg1984/readline.nvim) ![](https://img.shields.io/github/last-commit/krishnakumarg1984/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/krishnakumarg1984/readline.nvim)
 
+### Treesitter Node
+
+- [ThenWhenceComethEvil/scheme-motions.nvim](https://github.com/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/stars/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/last-commit/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/commit-activity/y/ThenWhenceComethEvil/scheme-motions.nvim)

@@ -9,6 +9,7 @@
     + [Firefox](#firefox)
     + [live preview](#live-preview)
     + [search](#search)
+    + [Bookmarks](#bookmarks)
   * [Other Editor](#other-editor)
     + [VS Code](#vs-code)
     + [Helix](#helix)
@@ -91,6 +92,10 @@
 - [0ql/google_search.nvim](https://github.com/0ql/google_search.nvim) ![](https://img.shields.io/github/stars/0ql/google_search.nvim) ![](https://img.shields.io/github/last-commit/0ql/google_search.nvim) ![](https://img.shields.io/github/commit-activity/y/0ql/google_search.nvim)
 - [dzfrias/gsearch.nvim](https://github.com/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/stars/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/gsearch.nvim)
 - [gudjonragnar/searcher.nvim](https://github.com/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/stars/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/last-commit/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/commit-activity/y/gudjonragnar/searcher.nvim)
+
+#### Bookmarks
+
+- [danarth/telescope-buku.nvim](https://github.com/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-buku.nvim)
 
 ### Other Editor
 

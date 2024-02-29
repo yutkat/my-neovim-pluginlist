@@ -19,6 +19,7 @@
       - [npm](#npm)
       - [pnpm](#pnpm)
       - [Biome](#biome)
+  * [refactor](#refactor)
   * [HTML](#html)
     + [conceal](#conceal)
     + [live server](#live-server)
@@ -103,6 +104,7 @@
 - [adl3879/jest-runner.nvim](https://github.com/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/stars/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/last-commit/adl3879/jest-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/adl3879/jest-runner.nvim)
 - [raine/testonly.nvim](https://github.com/raine/testonly.nvim) ![](https://img.shields.io/github/stars/raine/testonly.nvim) ![](https://img.shields.io/github/last-commit/raine/testonly.nvim) ![](https://img.shields.io/github/commit-activity/y/raine/testonly.nvim)
 - [zivlakmilos/TestRunner.nvim](https://github.com/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/stars/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/last-commit/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/zivlakmilos/TestRunner.nvim)
+- [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
 
 ##### Task Runner
 
@@ -124,6 +126,10 @@
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
 
 ###### Biome
+
+#### refactor
+  
+- [ianjkaplan/shrub.nvim](https://github.com/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/shrub.nvim)
 
 #### HTML
 
