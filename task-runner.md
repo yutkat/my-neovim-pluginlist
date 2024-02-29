@@ -80,6 +80,7 @@
 - [blurskye/code-runner.nvim](https://github.com/blurskye/code-runner.nvim) ![](https://img.shields.io/github/stars/blurskye/code-runner.nvim) ![](https://img.shields.io/github/last-commit/blurskye/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/blurskye/code-runner.nvim)
 - [kuznetsss/delegate.nvim](https://github.com/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/stars/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/last-commit/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/commit-activity/y/kuznetsss/delegate.nvim)
 - [sondalex/gubbins.nvim](https://github.com/sondalex/gubbins.nvim) ![](https://img.shields.io/github/stars/sondalex/gubbins.nvim) ![](https://img.shields.io/github/last-commit/sondalex/gubbins.nvim) ![](https://img.shields.io/github/commit-activity/y/sondalex/gubbins.nvim)
+- [wuilliam321/nvim-autorun](https://github.com/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/stars/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/last-commit/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/commit-activity/y/wuilliam321/nvim-autorun)
 
 ### Shell
 

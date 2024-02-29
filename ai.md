@@ -85,6 +85,7 @@
 - [nc-glitch/llama_code.nvim](https://github.com/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/stars/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/last-commit/nc-glitch/llama_code.nvim) ![](https://img.shields.io/github/commit-activity/y/nc-glitch/llama_code.nvim)
 - [ziontee113/ollama.nvim](https://github.com/ziontee113/ollama.nvim) ![](https://img.shields.io/github/stars/ziontee113/ollama.nvim) ![](https://img.shields.io/github/last-commit/ziontee113/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/ziontee113/ollama.nvim)
 - [dustinblackman/oatmeal.nvim](https://github.com/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/stars/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/last-commit/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/commit-activity/y/dustinblackman/oatmeal.nvim)
+- [Sntz91/sentence-rewriting.nvim](https://github.com/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/stars/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/last-commit/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/commit-activity/y/Sntz91/sentence-rewriting.nvim)
 
 ### Ollama
 

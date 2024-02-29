@@ -36,6 +36,7 @@
 - [sQVe/sort.nvim](https://github.com/sQVe/sort.nvim) ![](https://img.shields.io/github/stars/sQVe/sort.nvim) ![](https://img.shields.io/github/last-commit/sQVe/sort.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/sort.nvim)
 - [haolian9/sortrequires.nvim](https://github.com/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/stars/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sortrequires.nvim)
 - [maskudo/bharyang.nvim](https://github.com/maskudo/bharyang.nvim) ![](https://img.shields.io/github/stars/maskudo/bharyang.nvim) ![](https://img.shields.io/github/last-commit/maskudo/bharyang.nvim) ![](https://img.shields.io/github/commit-activity/y/maskudo/bharyang.nvim)
+- [stonemaster/import-sort.nvim](https://github.com/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/stars/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/last-commit/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/stonemaster/import-sort.nvim)
 
 ### Redirect to scratch buffer
 
