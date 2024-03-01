@@ -52,6 +52,7 @@
 #### Formatter
 
 - [Diogo-ss/42-C-Formatter.nvim](https://github.com/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/42-C-Formatter.nvim)
+- [marcosantos98/clang-format.nvim](https://github.com/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/stars/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/last-commit/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/commit-activity/y/marcosantos98/clang-format.nvim)
 
 #### Makefile
 

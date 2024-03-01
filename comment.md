@@ -10,6 +10,7 @@
 - [Special Comment](#special-comment)
   * [Annotation](#annotation)
   * [Comment highlight](#comment-highlight)
+  * [Internal comment](#internal-comment)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -71,6 +72,10 @@
 ### Comment highlight
 
 - [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
+
+### Internal comment
+
+- [melMass/icommit.nvim](https://github.com/melMass/icommit.nvim) ![](https://img.shields.io/github/stars/melMass/icommit.nvim) ![](https://img.shields.io/github/last-commit/melMass/icommit.nvim) ![](https://img.shields.io/github/commit-activity/y/melMass/icommit.nvim)
 
 ## LICENSE
 

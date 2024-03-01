@@ -45,6 +45,7 @@
     + [Perl](#perl)
     + [Lisp](#lisp)
     + [OCaml](#ocaml)
+      - [LCaml](#lcaml)
     + [Nim](#nim)
     + [Julia](#julia)
     + [R](#r)
@@ -336,6 +337,10 @@
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
 - [theoboldalex/typelens.nvim](https://github.com/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/stars/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/typelens.nvim)
+
+#### LCaml
+
+- [barnii77/lcaml.nvim](https://github.com/barnii77/lcaml.nvim) ![](https://img.shields.io/github/stars/barnii77/lcaml.nvim) ![](https://img.shields.io/github/last-commit/barnii77/lcaml.nvim) ![](https://img.shields.io/github/commit-activity/y/barnii77/lcaml.nvim)
 
 ### Nim
 
