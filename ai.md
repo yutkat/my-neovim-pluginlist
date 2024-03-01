@@ -65,6 +65,7 @@
 - [kiddos/gemini.nvim](https://github.com/kiddos/gemini.nvim) ![](https://img.shields.io/github/stars/kiddos/gemini.nvim) ![](https://img.shields.io/github/last-commit/kiddos/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/gemini.nvim)
 - [airpods69/yagp.nvim](https://github.com/airpods69/yagp.nvim) ![](https://img.shields.io/github/stars/airpods69/yagp.nvim) ![](https://img.shields.io/github/last-commit/airpods69/yagp.nvim) ![](https://img.shields.io/github/commit-activity/y/airpods69/yagp.nvim)
 - [kentchiu/gemini.nvim](https://github.com/kentchiu/gemini.nvim) ![](https://img.shields.io/github/stars/kentchiu/gemini.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/gemini.nvim)
+- [meinside/gemini.nvim](https://github.com/meinside/gemini.nvim) ![](https://img.shields.io/github/stars/meinside/gemini.nvim) ![](https://img.shields.io/github/last-commit/meinside/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/gemini.nvim)
 
 ### LLM
 

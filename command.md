@@ -9,6 +9,7 @@
   * [Shell Command](#shell-command)
     + [sudo](#sudo)
     + [quit](#quit)
+- [Multiple Command](#multiple-command)
 
 <!-- tocstop -->
 
@@ -55,3 +56,7 @@
 
 - [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/stars/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/confirm-quit.nvim)
 - [haolian9/barrier.nvim](https://github.com/haolian9/barrier.nvim) ![](https://img.shields.io/github/stars/haolian9/barrier.nvim) ![](https://img.shields.io/github/last-commit/haolian9/barrier.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/barrier.nvim)
+
+## Multiple Command
+
+- [zKurisu/multi-do.nvim](https://github.com/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/stars/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/multi-do.nvim)

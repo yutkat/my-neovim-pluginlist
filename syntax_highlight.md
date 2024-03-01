@@ -87,6 +87,7 @@
 ### Colorscheme overwrite
 
 - [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
+- [JasonBoyett/Goethe.nvim](https://github.com/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/stars/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/last-commit/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/commit-activity/y/JasonBoyett/Goethe.nvim)
 
 ### colorscheme transparent
 
