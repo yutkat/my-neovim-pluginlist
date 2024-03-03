@@ -81,6 +81,7 @@
 - [kuznetsss/delegate.nvim](https://github.com/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/stars/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/last-commit/kuznetsss/delegate.nvim) ![](https://img.shields.io/github/commit-activity/y/kuznetsss/delegate.nvim)
 - [sondalex/gubbins.nvim](https://github.com/sondalex/gubbins.nvim) ![](https://img.shields.io/github/stars/sondalex/gubbins.nvim) ![](https://img.shields.io/github/last-commit/sondalex/gubbins.nvim) ![](https://img.shields.io/github/commit-activity/y/sondalex/gubbins.nvim)
 - [wuilliam321/nvim-autorun](https://github.com/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/stars/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/last-commit/wuilliam321/nvim-autorun) ![](https://img.shields.io/github/commit-activity/y/wuilliam321/nvim-autorun)
+- [wakelin-g/run.nvim](https://github.com/wakelin-g/run.nvim) ![](https://img.shields.io/github/stars/wakelin-g/run.nvim) ![](https://img.shields.io/github/last-commit/wakelin-g/run.nvim) ![](https://img.shields.io/github/commit-activity/y/wakelin-g/run.nvim)
 
 ### Shell
 
