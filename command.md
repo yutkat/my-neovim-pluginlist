@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Command](#command)
+  * [HTTP Request](#http-request)
   * [mkdir](#mkdir)
   * [sort](#sort)
   * [Redirect to scratch buffer](#redirect-to-scratch-buffer)
@@ -26,6 +27,10 @@
 - [ragnarok22/whereami.nvim](https://github.com/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/stars/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/whereami.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/whereami.nvim)
 - [mr55p-dev/jobber.nvim](https://github.com/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/jobber.nvim)
 - [tenfyzhong/nvim-F](https://github.com/tenfyzhong/nvim-F) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-F) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-F) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-F)
+
+### HTTP Request
+
+- [wet-sandwich/hyper.nvim](https://github.com/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/hyper.nvim)
 
 ### mkdir
 

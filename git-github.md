@@ -283,6 +283,7 @@
 - [fowlie/open-github-repo](https://github.com/fowlie/open-github-repo) ![](https://img.shields.io/github/stars/fowlie/open-github-repo) ![](https://img.shields.io/github/last-commit/fowlie/open-github-repo) ![](https://img.shields.io/github/commit-activity/y/fowlie/open-github-repo)
 - [mistricky/code-link.nvim](https://github.com/mistricky/code-link.nvim) ![](https://img.shields.io/github/stars/mistricky/code-link.nvim) ![](https://img.shields.io/github/last-commit/mistricky/code-link.nvim) ![](https://img.shields.io/github/commit-activity/y/mistricky/code-link.nvim)
 - [totegamma/gotogh.nvim](https://github.com/totegamma/gotogh.nvim) ![](https://img.shields.io/github/stars/totegamma/gotogh.nvim) ![](https://img.shields.io/github/last-commit/totegamma/gotogh.nvim) ![](https://img.shields.io/github/commit-activity/y/totegamma/gotogh.nvim)
+- [lobkovilya/gh-browse.nvim](https://github.com/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/stars/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/gh-browse.nvim)
 
 ### Image
 

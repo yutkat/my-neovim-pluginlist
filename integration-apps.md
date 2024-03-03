@@ -69,6 +69,7 @@
 - [mochi-sann/Select2Browser.nvim](https://github.com/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/stars/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/last-commit/mochi-sann/Select2Browser.nvim) ![](https://img.shields.io/github/commit-activity/y/mochi-sann/Select2Browser.nvim)
 - [andres-lowrie/nvim-search-internet](https://github.com/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/stars/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/last-commit/andres-lowrie/nvim-search-internet) ![](https://img.shields.io/github/commit-activity/y/andres-lowrie/nvim-search-internet)
 - [elentok/open-link.nvim](https://github.com/elentok/open-link.nvim) ![](https://img.shields.io/github/stars/elentok/open-link.nvim) ![](https://img.shields.io/github/last-commit/elentok/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/open-link.nvim)
+- [z0rzi/open-from-chrome.nvim](https://github.com/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/stars/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/open-from-chrome.nvim)
 
 #### url open
 

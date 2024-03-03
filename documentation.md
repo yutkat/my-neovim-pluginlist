@@ -77,6 +77,7 @@
 - [AntonVanAssche/md-headers.nvim](https://github.com/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/md-headers.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/md-headers.nvim)
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) ![](https://img.shields.io/github/stars/Zeioth/markmap.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/markmap.nvim)
 - [arthur-remy/md-auto-filename.nvim](https://github.com/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/stars/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/last-commit/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/commit-activity/y/arthur-remy/md-auto-filename.nvim)
+- [thjbdvlt/underlowne.nvim](https://github.com/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/underlowne.nvim)
 
 ##### Title explorer
 
