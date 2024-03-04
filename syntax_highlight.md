@@ -18,6 +18,7 @@
   * [RGB](#rgb)
   * [Long line highlight](#long-line-highlight)
   * [Current word highlight](#current-word-highlight)
+  * [Current block highlight](#current-block-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
   * [Jump highlight](#jump-highlight)
   * [Error highlight](#error-highlight)
@@ -123,6 +124,10 @@
 - [elfenpiff/nvim-word-highlight](https://github.com/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/stars/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/last-commit/elfenpiff/nvim-word-highlight) ![](https://img.shields.io/github/commit-activity/y/elfenpiff/nvim-word-highlight)
 - [tzachar/local-highlight.nvim](https://github.com/tzachar/local-highlight.nvim) ![](https://img.shields.io/github/stars/tzachar/local-highlight.nvim) ![](https://img.shields.io/dvoytik/hi-my-words.nvimgithub/last-commit/tzachar/local-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/local-highlight.nvim)
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) ![](https://img.shields.io/github/stars/sontungexpt/stcursorword) ![](https://img.shields.io/github/last-commit/sontungexpt/stcursorword) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/stcursorword)
+
+### Current block highlight
+
+- [ArijanJ/sexp-highlight.nvim](https://github.com/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/stars/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/last-commit/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ArijanJ/sexp-highlight.nvim)
 
 ### Multiple word highlight
 

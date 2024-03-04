@@ -62,5 +62,6 @@
 
 - [Sharonex/edit-list.nvim](https://github.com/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/stars/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/last-commit/Sharonex/edit-list.nvim) ![](https://img.shields.io/github/commit-activity/y/Sharonex/edit-list.nvim)
 - [l-bowman/timewarp.nvim](https://github.com/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/stars/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/last-commit/l-bowman/timewarp.nvim) ![](https://img.shields.io/github/commit-activity/y/l-bowman/timewarp.nvim)
+- [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) ![](https://img.shields.io/github/stars/bloznelis/before.nvim) ![](https://img.shields.io/github/last-commit/bloznelis/before.nvim) ![](https://img.shields.io/github/commit-activity/y/bloznelis/before.nvim)
 
 ### Cursor Position History
