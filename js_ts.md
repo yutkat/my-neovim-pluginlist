@@ -19,6 +19,7 @@
       - [npm](#npm)
       - [pnpm](#pnpm)
       - [Biome](#biome)
+      - [Playground](#playground)
   * [refactor](#refactor)
   * [HTML](#html)
     + [conceal](#conceal)
@@ -126,6 +127,10 @@
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
 
 ###### Biome
+
+###### Playground
+
+- [barspielberg/jsplayground.nvim](https://github.com/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/stars/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/last-commit/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/commit-activity/y/barspielberg/jsplayground.nvim)
 
 #### refactor
   
