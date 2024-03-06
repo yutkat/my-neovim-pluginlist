@@ -5,6 +5,7 @@
 - [OS](#os)
   * [CPU/Memory](#cpumemory)
   * [Linux](#linux)
+    + [kernel](#kernel)
     + [gnome](#gnome)
     + [X11](#x11)
     + [Nix](#nix)
@@ -33,6 +34,10 @@
 - [mimikun/human-rights.nvim](https://github.com/mimikun/human-rights.nvim) ![](https://img.shields.io/github/stars/mimikun/human-rights.nvim) ![](https://img.shields.io/github/last-commit/mimikun/human-rights.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/human-rights.nvim)
 
 ### Linux
+
+#### kernel
+
+- [rbmarliere/get_maintainer.nvim](https://github.com/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/stars/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/get_maintainer.nvim)
 
 #### gnome
 

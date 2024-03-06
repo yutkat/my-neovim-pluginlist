@@ -96,6 +96,7 @@
 - [gremble0/bufferstack.nvim](https://github.com/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/stars/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/last-commit/gremble0/bufferstack.nvim) ![](https://img.shields.io/github/commit-activity/y/gremble0/bufferstack.nvim)
 - [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) ![](https://img.shields.io/github/stars/desdic/marlin.nvim) ![](https://img.shields.io/github/last-commit/desdic/marlin.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/marlin.nvim)
 - [smilhey/cabinet.nvim](https://github.com/smilhey/cabinet.nvim) ![](https://img.shields.io/github/stars/smilhey/cabinet.nvim) ![](https://img.shields.io/github/last-commit/smilhey/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/smilhey/cabinet.nvim)
+- [kilavila/nvim-bufferlist](https://github.com/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/stars/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/last-commit/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-bufferlist)
 
 #### create
 
