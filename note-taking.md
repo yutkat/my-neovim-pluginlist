@@ -102,6 +102,7 @@
 - [skykosiner/todoist.nvim](https://github.com/skykosiner/todoist.nvim) ![](https://img.shields.io/github/stars/skykosiner/todoist.nvim) ![](https://img.shields.io/github/last-commit/skykosiner/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/skykosiner/todoist.nvim)
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) ![](https://img.shields.io/github/stars/backdround/global-note.nvim) ![](https://img.shields.io/github/last-commit/backdround/global-note.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/global-note.nvim)
 - [eliasCVII/timew.nvim](https://github.com/eliasCVII/timew.nvim) ![](https://img.shields.io/github/stars/eliasCVII/timew.nvim) ![](https://img.shields.io/github/last-commit/eliasCVII/timew.nvim) ![](https://img.shields.io/github/commit-activity/y/eliasCVII/timew.nvim)
+- [Ausbxuse/capture.nvim](https://github.com/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/stars/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/last-commit/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausbxuse/capture.nvim)
 
 ### Taskwarrior
 
@@ -209,3 +210,4 @@
 - [brattonross/standup.nvim](https://github.com/brattonross/standup.nvim) ![](https://img.shields.io/github/stars/brattonross/standup.nvim) ![](https://img.shields.io/github/last-commit/brattonross/standup.nvim) ![](https://img.shields.io/github/commit-activity/y/brattonross/standup.nvim)
 - [slarse/teletasks.nvim](https://github.com/slarse/teletasks.nvim) ![](https://img.shields.io/github/stars/slarse/teletasks.nvim) ![](https://img.shields.io/github/last-commit/slarse/teletasks.nvim) ![](https://img.shields.io/github/commit-activity/y/slarse/teletasks.nvim)
 - [pilarskikt/qnotes.nvim](https://github.com/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/stars/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/last-commit/pilarskikt/qnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/pilarskikt/qnotes.nvim)
+- [lhedeby/notes.nvim](https://github.com/lhedeby/notes.nvim) ![](https://img.shields.io/github/stars/lhedeby/notes.nvim) ![](https://img.shields.io/github/last-commit/lhedeby/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lhedeby/notes.nvim)
