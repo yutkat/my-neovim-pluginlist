@@ -36,6 +36,7 @@
 - [tiagovla/projet.nvim](https://github.com/tiagovla/projet.nvim) ![](https://img.shields.io/github/stars/tiagovla/projet.nvim) ![](https://img.shields.io/github/last-commit/tiagovla/projet.nvim) ![](https://img.shields.io/github/commit-activity/y/tiagovla/projet.nvim)
 - [LintaoAmons/cd-project.nvim](https://github.com/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/cd-project.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/cd-project.nvim)
 - [xlboy/workspace-scanner.nvim](https://github.com/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/stars/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/last-commit/xlboy/workspace-scanner.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/workspace-scanner.nvim)
+- [The-Plottwist/nvim-workspace-manager](https://github.com/The-Plottwist/nvim-workspace-manager) ![](https://img.shields.io/github/stars/The-Plottwist/nvim-workspace-manager) ![](https://img.shields.io/github/last-commit/The-Plottwist/nvim-workspace-manager) ![](https://img.shields.io/github/commit-activity/y/The-Plottwist/nvim-workspace-manager)
 
 #### Project Root Detector
 

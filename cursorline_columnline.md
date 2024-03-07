@@ -14,6 +14,7 @@
 - [ds1sqe/cusorlineHighlighter.nvim](https://github.com/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/stars/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/cusorlineHighlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/cusorlineHighlighter.nvim)
 - [tummetott/reticle.nvim](https://github.com/tummetott/reticle.nvim) ![](https://img.shields.io/github/stars/tummetott/reticle.nvim) ![](https://img.shields.io/github/last-commit/tummetott/reticle.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/reticle.nvim)
 - [kellywashere/nvim-blackline](https://github.com/kellywashere/nvim-blackline) ![](https://img.shields.io/github/stars/kellywashere/nvim-blackline) ![](https://img.shields.io/github/last-commit/kellywashere/nvim-blackline) ![](https://img.shields.io/github/commit-activity/y/kellywashere/nvim-blackline)
+- [domsch1988/mattern.nvim](https://github.com/domsch1988/mattern.nvim) ![](https://img.shields.io/github/stars/domsch1988/mattern.nvim) ![](https://img.shields.io/github/last-commit/domsch1988/mattern.nvim) ![](https://img.shields.io/github/commit-activity/y/domsch1988/mattern.nvim)
 
 ## Columnline
 
