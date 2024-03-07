@@ -77,6 +77,7 @@
 ### Repeatable
 
 - [jake-stewart/repeatable.nvim](https://github.com/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/stars/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/repeatable.nvim)
+- [dvrlabs/takeout.nvim](https://github.com/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/stars/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/last-commit/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/commit-activity/y/dvrlabs/takeout.nvim)
 
 ### Normal Mode
 
