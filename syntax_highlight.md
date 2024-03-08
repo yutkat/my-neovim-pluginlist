@@ -36,6 +36,7 @@
 - [folke/paint.nvim](https://github.com/folke/paint.nvim) ![](https://img.shields.io/github/stars/folke/paint.nvim) ![](https://img.shields.io/github/last-commit/folke/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/paint.nvim)
 - [JosefLitos/reform.nvim](https://github.com/JosefLitos/reform.nvim) ![](https://img.shields.io/github/stars/JosefLitos/reform.nvim) ![](https://img.shields.io/github/last-commit/JosefLitos/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLitos/reform.nvim)
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
+- [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
 
 ### Arguments
 
