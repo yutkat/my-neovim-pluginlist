@@ -61,7 +61,6 @@
 - [michaelrommel/nvim-silicon](https://github.com/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/stars/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/last-commit/michaelrommel/nvim-silicon) ![](https://img.shields.io/github/commit-activity/y/michaelrommel/nvim-silicon)
 - [niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim) ![](https://img.shields.io/github/stars/niuiic/code-shot.nvim) ![](https://img.shields.io/github/last-commit/niuiic/code-shot.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/code-shot.nvim)
 - [AlexXi19/share.nvim](https://github.com/AlexXi19/share.nvim) ![](https://img.shields.io/github/stars/AlexXi19/share.nvim) ![](https://img.shields.io/github/last-commit/AlexXi19/share.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexXi19/share.nvim)
-- [0oAstro/silicon.lua](https://github.com/0oAstro/silicon.lua) ![](https://img.shields.io/github/stars/0oAstro/silicon.lua) ![](https://img.shields.io/github/last-commit/0oAstro/silicon.lua) ![](https://img.shields.io/github/commit-activity/y/0oAstro/silicon.lua)
 - [SergioRibera/codeshot.nvim](https://github.com/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/stars/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/last-commit/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/codeshot.nvim)
 
 ### SVG
