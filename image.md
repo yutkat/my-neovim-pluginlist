@@ -11,6 +11,7 @@
     + [Code Image](#code-image)
   * [SVG](#svg)
   * [Ascii](#ascii)
+  * [Sixel](#sixel)
 
 <!-- tocstop -->
 
@@ -75,3 +76,7 @@
 - [ColaMint/pokemon.nvim](https://github.com/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/stars/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/last-commit/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/ColaMint/pokemon.nvim)
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/render.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/render.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/render.nvim)
 - [Jeansidharta/ascii-image.nvim](https://github.com/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/ascii-image.nvim)
+
+### Sixel
+
+- [kjuq/sixelview.nvim](https://github.com/kjuq/sixelview.nvim) ![](https://img.shields.io/github/stars/kjuq/sixelview.nvim) ![](https://img.shields.io/github/last-commit/kjuq/sixelview.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuq/sixelview.nvim)

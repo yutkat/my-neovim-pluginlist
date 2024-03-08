@@ -227,6 +227,7 @@
 - [maxrzaw/azdo.nvim](https://github.com/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/stars/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/azdo.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/azdo.nvim)
 - [KaiWalter/azure-functions.nvim](https://github.com/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/stars/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/last-commit/KaiWalter/azure-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/KaiWalter/azure-functions.nvim)
 - [danarth/telescope-ado.nvim](https://github.com/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-ado.nvim)
+- [dan-nicholls/azure-cli.nvim](https://github.com/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/stars/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/last-commit/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dan-nicholls/azure-cli.nvim)
 
 #### Salesforce
 
