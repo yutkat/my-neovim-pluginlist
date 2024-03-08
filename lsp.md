@@ -105,8 +105,6 @@
 
 ##### unused variable
 
-- [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) ![](https://img.shields.io/github/stars/0oAstro/dim.lua) ![](https://img.shields.io/github/last-commit/0oAstro/dim.lua) ![](https://img.shields.io/github/commit-activity/y/0oAstro/dim.lua)
-
 ##### diagnostics summary
 
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) ![](https://img.shields.io/github/stars/Mofiqul/trld.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/trld.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/trld.nvim)
