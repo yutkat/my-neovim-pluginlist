@@ -167,6 +167,7 @@
 - [TrevorS/uuid-nvim](https://github.com/TrevorS/uuid-nvim) ![](https://img.shields.io/github/stars/TrevorS/uuid-nvim) ![](https://img.shields.io/github/last-commit/TrevorS/uuid-nvim) ![](https://img.shields.io/github/commit-activity/y/TrevorS/uuid-nvim)
 - [danporterhonor/uuid-hex.nvim](https://github.com/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/stars/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/last-commit/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/commit-activity/y/danporterhonor/uuid-hex.nvim)
 - [chrsolr/quicky-uuid.nvim](https://github.com/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/stars/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/last-commit/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsolr/quicky-uuid.nvim)
+- [mubisco/idx.nvim](https://github.com/mubisco/idx.nvim) ![](https://img.shields.io/github/stars/mubisco/idx.nvim) ![](https://img.shields.io/github/last-commit/mubisco/idx.nvim) ![](https://img.shields.io/github/commit-activity/y/mubisco/idx.nvim)
 
 ## Net
 
