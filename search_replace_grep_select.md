@@ -166,6 +166,7 @@
 - [vscode-neovim/vscode-multi-cursor.nvim](https://github.com/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/stars/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/last-commit/vscode-neovim/vscode-multi-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/vscode-neovim/vscode-multi-cursor.nvim)
 - [brenton-leighton/multiple-cursors.nvim](https://github.com/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/stars/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/last-commit/brenton-leighton/multiple-cursors.nvim) ![](https://img.shields.io/github/commit-activity/y/brenton-leighton/multiple-cursors.nvim)
 - [lincheney/nvim-multi-cursor](https://github.com/lincheney/nvim-multi-cursor) ![](https://img.shields.io/github/stars/lincheney/nvim-multi-cursor) ![](https://img.shields.io/github/last-commit/lincheney/nvim-multi-cursor) ![](https://img.shields.io/github/commit-activity/y/lincheney/nvim-multi-cursor)
+- [altermo/iedit.nvim](https://github.com/altermo/iedit.nvim) ![](https://img.shields.io/github/stars/altermo/iedit.nvim) ![](https://img.shields.io/github/last-commit/altermo/iedit.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/iedit.nvim)
 
 ## Incremental selection
 

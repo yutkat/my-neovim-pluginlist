@@ -33,6 +33,7 @@
 ### Treesitter Node
 
 - [xlboy/node-edge-toggler.nvim](https://github.com/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/stars/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/last-commit/xlboy/node-edge-toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/node-edge-toggler.nvim)
+- [Mr-LLLLL/treesitter-outer](https://github.com/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/stars/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/treesitter-outer) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/treesitter-outer)
 
 #### File tracking
 
