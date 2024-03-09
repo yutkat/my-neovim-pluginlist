@@ -43,6 +43,7 @@
 ### TOML
 
 - [SpyicyDev/run.nvim](https://github.com/SpyicyDev/run.nvim) ![](https://img.shields.io/github/stars/SpyicyDev/run.nvim) ![](https://img.shields.io/github/last-commit/SpyicyDev/run.nvim) ![](https://img.shields.io/github/commit-activity/y/SpyicyDev/run.nvim)
+- [pspiagicw/groom.nvim](https://github.com/pspiagicw/groom.nvim) ![](https://img.shields.io/github/stars/pspiagicw/groom.nvim) ![](https://img.shields.io/github/last-commit/pspiagicw/groom.nvim) ![](https://img.shields.io/github/commit-activity/y/pspiagicw/groom.nvim)
 
 ### Lua
 

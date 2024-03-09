@@ -68,6 +68,7 @@
 - [maladroitthief/telescope-rtfm.nvim](https://github.com/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/stars/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/telescope-rtfm.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/telescope-rtfm.nvim)
 - [ErvinRacz/tmux-interface.nvim](https://github.com/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/stars/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/last-commit/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/commit-activity/y/ErvinRacz/tmux-interface.nvim)
 - [sanathks/workspace.nvim](https://github.com/sanathks/workspace.nvim) ![](https://img.shields.io/github/stars/sanathks/workspace.nvim) ![](https://img.shields.io/github/last-commit/sanathks/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/workspace.nvim)
+- [winter-again/tmux-send.nvim](https://github.com/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/stars/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/tmux-send.nvim)
 
 ##### tmux alternative
 
@@ -175,6 +176,7 @@
 - [olekatpyle/xunit.nvim](https://github.com/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/stars/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/last-commit/olekatpyle/xunit.nvim) ![](https://img.shields.io/github/commit-activity/y/olekatpyle/xunit.nvim)
 - [Cozidian/nvim-dotnet-cli](https://github.com/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/stars/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/last-commit/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/commit-activity/y/Cozidian/nvim-dotnet-cli)
 - [Spycemyster/dotnet-goto.nvim](https://github.com/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/stars/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/last-commit/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/Spycemyster/dotnet-goto.nvim)
+- [Tornjk/dotnet.nvim](https://github.com/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/stars/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/last-commit/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/Tornjk/dotnet.nvim)
 
 #### ftp
 

@@ -25,6 +25,7 @@
 - [rainbowhxch/accelerated-jk.nvim](https://github.com/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/accelerated-jk.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/accelerated-jk.nvim)
 - [jake-stewart/slide.nvim](https://github.com/jake-stewart/slide.nvim) ![](https://img.shields.io/github/stars/jake-stewart/slide.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/slide.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/slide.nvim)
 - [gsuuon/tshjkl.nvim](https://github.com/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/stars/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/tshjkl.nvim)
+- [Rentib/cliff.nvim](https://github.com/Rentib/cliff.nvim) ![](https://img.shields.io/github/stars/Rentib/cliff.nvim) ![](https://img.shields.io/github/last-commit/Rentib/cliff.nvim) ![](https://img.shields.io/github/commit-activity/y/Rentib/cliff.nvim)
 
 #### Scrolling
 

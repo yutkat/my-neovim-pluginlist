@@ -32,6 +32,7 @@
   * [Infra](#infra)
     + [OpenStack](#openstack)
     + [SonarLint](#sonarlint)
+    + [Kafka](#kafka)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
     + [Ansible](#ansible)
@@ -188,6 +189,10 @@
 #### SonarLint
 
 - [alnav3/sonarlint.nvim](https://github.com/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/stars/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/last-commit/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/commit-activity/y/alnav3/sonarlint.nvim)
+
+#### Kafka
+
+- [krisajenkins/telescope-kafka.nvim](https://github.com/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-kafka.nvim)
 
 ### Cloud
 
