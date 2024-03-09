@@ -748,7 +748,6 @@
 
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) ![](https://img.shields.io/github/stars/roobert/activate.nvim) ![](https://img.shields.io/github/last-commit/roobert/activate.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/activate.nvim)
-- [altermo/doune.nvim](https://github.com/altermo/doune.nvim) ![](https://img.shields.io/github/stars/altermo/doune.nvim) ![](https://img.shields.io/github/last-commit/altermo/doune.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/doune.nvim)
 
 ### RSS
 
