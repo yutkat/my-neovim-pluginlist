@@ -52,6 +52,7 @@
 - [BlakeJC94/field-notes.nvim](https://github.com/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/field-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/field-notes.nvim)
 - [taDachs/zettel.nvim](https://github.com/taDachs/zettel.nvim) ![](https://img.shields.io/github/stars/taDachs/zettel.nvim) ![](https://img.shields.io/github/last-commit/taDachs/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/zettel.nvim)
 - [n-sweep/slipbox.nvim](https://github.com/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/stars/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/last-commit/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/commit-activity/y/n-sweep/slipbox.nvim)
+- [grezxune/zettel.nvim](https://github.com/grezxune/zettel.nvim) ![](https://img.shields.io/github/stars/grezxune/zettel.nvim) ![](https://img.shields.io/github/last-commit/grezxune/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/grezxune/zettel.nvim)
 
 ## Markdown
 

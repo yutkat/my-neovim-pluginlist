@@ -59,6 +59,7 @@
 - [LintaoAmons/bookmarks.nvim](https://github.com/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/bookmarks.nvim)
 - [kdnk/bookmarks-cycle-through.nvim](https://github.com/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/stars/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/last-commit/kdnk/bookmarks-cycle-through.nvim) ![](https://img.shields.io/github/commit-activity/y/kdnk/bookmarks-cycle-through.nvim)
 - [fnune/recall.nvim](https://github.com/fnune/recall.nvim) ![](https://img.shields.io/github/stars/fnune/recall.nvim) ![](https://img.shields.io/github/last-commit/fnune/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/fnune/recall.nvim)
+- [yuriescl/minimal-bookmarks.nvim](https://github.com/yuriescl/minimal-bookmarks.nvim) ![](https://img.shields.io/github/stars/yuriescl/minimal-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/yuriescl/minimal-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/yuriescl/minimal-bookmarks.nvim)
 
 ### etc
 

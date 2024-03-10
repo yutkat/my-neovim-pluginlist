@@ -29,6 +29,7 @@
   * [www.ietf.org](#wwwietforg)
   * [haste](#haste)
   * [TabNews](#tabnews)
+  * [Zotero](#zotero)
   * [DevDocs](#devdocs)
   * [Runme](#runme)
   * [paste.rs](#pasters)
@@ -167,6 +168,10 @@
 - [pollen00/haste-nvim](https://github.com/pollen00/haste-nvim) ![](https://img.shields.io/github/stars/pollen00/haste-nvim) ![](https://img.shields.io/github/last-commit/pollen00/haste-nvim) ![](https://img.shields.io/github/commit-activity/y/pollen00/haste-nvim)
 
 #### TabNews
+
+#### Zotero
+
+- [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 
 #### DevDocs
 

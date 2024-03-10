@@ -73,6 +73,7 @@
 ##### Type check
 
 - [jellydn/typecheck.nvim](https://github.com/jellydn/typecheck.nvim) ![](https://img.shields.io/github/stars/jellydn/typecheck.nvim) ![](https://img.shields.io/github/last-commit/jellydn/typecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/typecheck.nvim)
+- [Canciller/typescript-type-checker.nvim](https://github.com/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/stars/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/last-commit/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Canciller/typescript-type-checker.nvim)
 
 ##### eslint
 
