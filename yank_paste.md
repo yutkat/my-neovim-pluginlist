@@ -28,6 +28,7 @@
 - [RomanoZumbe/yanki.nvim](https://github.com/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/stars/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/last-commit/RomanoZumbe/yanki.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanoZumbe/yanki.nvim)
 - [raghue9/nvim-relativelinecopy](https://github.com/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/stars/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/last-commit/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/commit-activity/y/raghue9/nvim-relativelinecopy)
 - [petersid2022/clippy.nvim](https://github.com/petersid2022/clippy.nvim) ![](https://img.shields.io/github/stars/petersid2022/clippy.nvim) ![](https://img.shields.io/github/last-commit/petersid2022/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/petersid2022/clippy.nvim)
+- [kilavila/nvim-yoink](https://github.com/kilavila/nvim-yoink) ![](https://img.shields.io/github/stars/kilavila/nvim-yoink) ![](https://img.shields.io/github/last-commit/kilavila/nvim-yoink) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-yoink)
 
 ## URL
 
