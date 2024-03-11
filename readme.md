@@ -802,6 +802,7 @@
 - [enigmaiiiiiiii/mini-functions.nvim](https://github.com/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/stars/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/last-commit/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/enigmaiiiiiiii/mini-functions.nvim)
 - [zegabr/toolbox.nvim](https://github.com/zegabr/toolbox.nvim) ![](https://img.shields.io/github/stars/zegabr/toolbox.nvim) ![](https://img.shields.io/github/last-commit/zegabr/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/zegabr/toolbox.nvim)
 - [Kicamon/tool.nvim](https://github.com/Kicamon/tool.nvim) ![](https://img.shields.io/github/stars/Kicamon/tool.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/tool.nvim)
+- [Mr-LLLLL/utilities.nvim](https://github.com/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/utilities.nvim)
 
 ## Patch
 
