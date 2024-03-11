@@ -137,6 +137,7 @@
 - [Mr-LLLLL/interestingwords.nvim](https://github.com/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/interestingwords.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/interestingwords.nvim)
 - [leisiji/interestingwords.nvim](https://github.com/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/stars/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/last-commit/leisiji/interestingwords.nvim) ![](https://img.shields.io/github/commit-activity/y/leisiji/interestingwords.nvim)
 - [IsaacTay/chromaword.nvim](https://github.com/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/stars/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/last-commit/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/commit-activity/y/IsaacTay/chromaword.nvim)
+- [dwrdx/mywords.nvim](https://github.com/dwrdx/mywords.nvim) ![](https://img.shields.io/github/stars/dwrdx/mywords.nvim) ![](https://img.shields.io/github/last-commit/dwrdx/mywords.nvim) ![](https://img.shields.io/github/commit-activity/y/dwrdx/mywords.nvim)
 
 ### Jump highlight
 

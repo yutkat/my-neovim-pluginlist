@@ -52,6 +52,7 @@
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/stars/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/last-commit/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/commit-activity/y/Rolv-Apneseth/tfm.nvim)
 - [wllfaria/grove.nvim](https://github.com/wllfaria/grove.nvim) ![](https://img.shields.io/github/stars/wllfaria/grove.nvim) ![](https://img.shields.io/github/last-commit/wllfaria/grove.nvim) ![](https://img.shields.io/github/commit-activity/y/wllfaria/grove.nvim)
 - [cvknage/netrw-tree.nvim](https://github.com/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/stars/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/last-commit/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/cvknage/netrw-tree.nvim)
+- [thjbdvlt/frolicd.nvim](https://github.com/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/frolicd.nvim)
 
 ## gx
 

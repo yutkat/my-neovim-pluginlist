@@ -79,6 +79,7 @@
   * [Save&Backup](#savebackup)
   * [Startup](#startup)
   * [Session](#session)
+  * [init.lua(vimrc)](#initluavimrc)
   * [Mouse](#mouse)
   * [Profiler](#profiler)
 - [Coding](#coding)
@@ -271,6 +272,7 @@
 ### listchars
 
 - [fraso-dev/nvim-listchars](https://github.com/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/stars/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/last-commit/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/commit-activity/y/fraso-dev/nvim-listchars)
+- [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
 
 ### Background
 
@@ -508,6 +510,10 @@
 ### [Startup](./startup.md)
 
 ### [Session](./session.md)
+
+### init.lua(vimrc)
+
+- [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/stars/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/distroupdate.nvim)
 
 ### Mouse
 

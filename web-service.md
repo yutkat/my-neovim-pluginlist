@@ -55,6 +55,7 @@
 - [CatKoder123/presence.nvim](https://github.com/CatKoder123/presence.nvim) ![](https://img.shields.io/github/stars/CatKoder123/presence.nvim) ![](https://img.shields.io/github/last-commit/CatKoder123/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/CatKoder123/presence.nvim)
 - [einKnuffy/betterpresence.nvim](https://github.com/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/stars/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/last-commit/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/einKnuffy/betterpresence.nvim)
 - [lpturmel/discord.nvim](https://github.com/lpturmel/discord.nvim) ![](https://img.shields.io/github/stars/lpturmel/discord.nvim) ![](https://img.shields.io/github/last-commit/lpturmel/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/lpturmel/discord.nvim)
+- [circles-00/nvim-discord-status](https://github.com/circles-00/nvim-discord-status) ![](https://img.shields.io/github/stars/circles-00/nvim-discord-status) ![](https://img.shields.io/github/last-commit/circles-00/nvim-discord-status) ![](https://img.shields.io/github/commit-activity/y/circles-00/nvim-discord-status)
 
 #### Slack
 

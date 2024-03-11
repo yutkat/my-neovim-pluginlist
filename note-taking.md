@@ -123,6 +123,7 @@
 - [NoseferatuWKF/dijon.nvim](https://github.com/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/stars/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/last-commit/NoseferatuWKF/dijon.nvim) ![](https://img.shields.io/github/commit-activity/y/NoseferatuWKF/dijon.nvim)
 - [seibs/obsidian-logbook.nvim](https://github.com/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/stars/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/last-commit/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/commit-activity/y/seibs/obsidian-logbook.nvim)
 - [mimikun/silhouette.nvim](https://github.com/mimikun/silhouette.nvim) ![](https://img.shields.io/github/stars/mimikun/silhouette.nvim) ![](https://img.shields.io/github/last-commit/mimikun/silhouette.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/silhouette.nvim)
+- [magnusblondal/hux.nvim](https://github.com/magnusblondal/hux.nvim) ![](https://img.shields.io/github/stars/magnusblondal/hux.nvim) ![](https://img.shields.io/github/last-commit/magnusblondal/hux.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusblondal/hux.nvim)
 
 ## Google Keep
 
