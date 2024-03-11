@@ -20,6 +20,7 @@
     + [Nix](#nix)
     + [PHP](#php)
       - [Laravel](#laravel)
+      - [Symfony](#symfony)
         * [drupal](#drupal)
     + [C#](#c%23)
     + [Unity](#unity)
@@ -197,6 +198,10 @@
 - [theoboldalex/artisan.nvim](https://github.com/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/stars/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/artisan.nvim)
 - [adoolaard/nvim-cmp-laravel](https://github.com/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/stars/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/last-commit/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/commit-activity/y/adoolaard/nvim-cmp-laravel)
 - [mikereyez/laravel-helpers.nvim](https://github.com/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/stars/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/last-commit/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/mikereyez/laravel-helpers.nvim)
+
+#### Symfony
+
+- [fbuchlak/cmp-symfony-router](https://github.com/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/stars/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/last-commit/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/cmp-symfony-router)
 
 ##### drupal
 

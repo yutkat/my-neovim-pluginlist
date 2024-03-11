@@ -38,10 +38,10 @@
   * [Pull Request](#pull-request)
   * [Actions](#actions)
   * [Link](#link)
-    + [Image](#image)
-    + [grep.app](#grepapp)
-    + [Organization](#organization)
-    + [CODEOWNERS](#codeowners)
+  * [Image](#image)
+  * [grep.app](#grepapp)
+  * [Organization](#organization)
+  * [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
 - [Sapling](#sapling)
 - [BigBucket](#bigbucket)
@@ -284,18 +284,19 @@
 - [mistricky/code-link.nvim](https://github.com/mistricky/code-link.nvim) ![](https://img.shields.io/github/stars/mistricky/code-link.nvim) ![](https://img.shields.io/github/last-commit/mistricky/code-link.nvim) ![](https://img.shields.io/github/commit-activity/y/mistricky/code-link.nvim)
 - [totegamma/gotogh.nvim](https://github.com/totegamma/gotogh.nvim) ![](https://img.shields.io/github/stars/totegamma/gotogh.nvim) ![](https://img.shields.io/github/last-commit/totegamma/gotogh.nvim) ![](https://img.shields.io/github/commit-activity/y/totegamma/gotogh.nvim)
 - [lobkovilya/gh-browse.nvim](https://github.com/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/stars/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/gh-browse.nvim)
+- [jgoguen/git-linker.nvim](https://github.com/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/stars/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/last-commit/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/jgoguen/git-linker.nvim)
 
-### Image
+## Image
 
 - [ch3n9w/nvim-github-uploader](https://github.com/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/stars/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/last-commit/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/commit-activity/y/ch3n9w/nvim-github-uploader)
 
-### grep.app
+## grep.app
 
 - [matheusfillipe/grep_app.nvim](https://github.com/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/stars/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/last-commit/matheusfillipe/grep_app.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusfillipe/grep_app.nvim)
 
-### Organization
+## Organization
 
-### CODEOWNERS
+## CODEOWNERS
 
 - [SebastienLeonce/nvim-codeowners](https://github.com/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/stars/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/last-commit/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/commit-activity/y/SebastienLeonce/nvim-codeowners)
 - [rsreimer/codeowners.nvim](https://github.com/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/stars/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/codeowners.nvim)

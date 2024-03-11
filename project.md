@@ -5,6 +5,7 @@
 - [Project](#project)
   * [Project Switcher](#project-switcher)
   * [Project Root Detector](#project-root-detector)
+- [Project Template](#project-template)
     + [Monorepo](#monorepo)
   * [Project Local Config](#project-local-config)
   * [Config switcher](#config-switcher)
@@ -50,6 +51,11 @@
 - [gmartsenkov/root.nvim](https://github.com/gmartsenkov/root.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/root.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/root.nvim)
 - [kilisio/nvim-root-dir](https://github.com/kilisio/nvim-root-dir) ![](https://img.shields.io/github/stars/kilisio/nvim-root-dir) ![](https://img.shields.io/github/last-commit/kilisio/nvim-root-dir) ![](https://img.shields.io/github/commit-activity/y/kilisio/nvim-root-dir)
 - [michel-garcia/radix.nvim](https://github.com/michel-garcia/radix.nvim) ![](https://img.shields.io/github/stars/michel-garcia/radix.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/radix.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/radix.nvim)
+- [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
+
+### Project Template
+
+- [raphaelladinig/nvim-projectmanager](https://github.com/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/stars/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/last-commit/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/commit-activity/y/raphaelladinig/nvim-projectmanager)
 
 ##### Monorepo
 

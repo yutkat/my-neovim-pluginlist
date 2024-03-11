@@ -26,6 +26,7 @@
     + [Recording](#recording)
     + [Animation](#animation)
     + [Type sound](#type-sound)
+    + [event sound](#event-sound)
     + [Input Animation](#input-animation)
   * [Screen server](#screen-server)
 
@@ -172,6 +173,10 @@
 
 - [pavlo-skobnikov/metal-pipe.nvim](https://github.com/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/stars/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/last-commit/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlo-skobnikov/metal-pipe.nvim)
 - [whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim) ![](https://img.shields.io/github/stars/whleucka/reverb.nvim) ![](https://img.shields.io/github/last-commit/whleucka/reverb.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/reverb.nvim)
+
+### event sound
+
+- [melMass/echo.nvim](https://github.com/melMass/echo.nvim) ![](https://img.shields.io/github/stars/melMass/echo.nvim) ![](https://img.shields.io/github/last-commit/melMass/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/melMass/echo.nvim)
 
 ### Input Animation
 

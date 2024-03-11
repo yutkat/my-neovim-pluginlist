@@ -139,6 +139,7 @@
 - [LittleAmara/make.nvim](https://github.com/LittleAmara/make.nvim) ![](https://img.shields.io/github/stars/LittleAmara/make.nvim) ![](https://img.shields.io/github/last-commit/LittleAmara/make.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleAmara/make.nvim)
 - [boredcoder411/make.nvim](https://github.com/boredcoder411/make.nvim) ![](https://img.shields.io/github/stars/boredcoder411/make.nvim) ![](https://img.shields.io/github/last-commit/boredcoder411/make.nvim) ![](https://img.shields.io/github/commit-activity/y/boredcoder411/make.nvim)
 - [Kuchteq/build.nvim](https://github.com/Kuchteq/build.nvim) ![](https://img.shields.io/github/stars/Kuchteq/build.nvim) ![](https://img.shields.io/github/last-commit/Kuchteq/build.nvim) ![](https://img.shields.io/github/commit-activity/y/Kuchteq/build.nvim)
+- [Zeioth/makeit.nvim](https://github.com/Zeioth/makeit.nvim) ![](https://img.shields.io/github/stars/Zeioth/makeit.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/makeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/makeit.nvim)
 
 ##### just
 
