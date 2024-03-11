@@ -129,8 +129,8 @@
 
 ## Chat
 
+- [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/stars/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/CopilotC-Nvim/CopilotChat.nvim)
 - [mikeslattery/genie.nvim](https://github.com/mikeslattery/genie.nvim) ![](https://img.shields.io/github/stars/mikeslattery/genie.nvim) ![](https://img.shields.io/github/last-commit/mikeslattery/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/mikeslattery/genie.nvim)
-- [gptlang/CopilotChat.nvim(remote plugin)](https://github.com/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/stars/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/gptlang/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/gptlang/CopilotChat.nvim)
 - [Lommix/ollamachad.nvim](https://github.com/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/stars/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/last-commit/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/ollamachad.nvim)
 - [z0rzi/ai-chat.nvim](https://github.com/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/stars/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/ai-chat.nvim)
 
