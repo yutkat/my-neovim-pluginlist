@@ -108,6 +108,7 @@
 #### asdf
 
 - [mosheavni/asdf.nvim](https://github.com/mosheavni/asdf.nvim) ![](https://img.shields.io/github/stars/mosheavni/asdf.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/asdf.nvim)
+- [bry-guy/asdf.nvim](https://github.com/bry-guy/asdf.nvim) ![](https://img.shields.io/github/stars/bry-guy/asdf.nvim) ![](https://img.shields.io/github/last-commit/bry-guy/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/bry-guy/asdf.nvim)
 
 #### Chamber
 
@@ -140,6 +141,7 @@
 - [boredcoder411/make.nvim](https://github.com/boredcoder411/make.nvim) ![](https://img.shields.io/github/stars/boredcoder411/make.nvim) ![](https://img.shields.io/github/last-commit/boredcoder411/make.nvim) ![](https://img.shields.io/github/commit-activity/y/boredcoder411/make.nvim)
 - [Kuchteq/build.nvim](https://github.com/Kuchteq/build.nvim) ![](https://img.shields.io/github/stars/Kuchteq/build.nvim) ![](https://img.shields.io/github/last-commit/Kuchteq/build.nvim) ![](https://img.shields.io/github/commit-activity/y/Kuchteq/build.nvim)
 - [Zeioth/makeit.nvim](https://github.com/Zeioth/makeit.nvim) ![](https://img.shields.io/github/stars/Zeioth/makeit.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/makeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/makeit.nvim)
+- [burgr033/mf-runner.nvim](https://github.com/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/stars/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/last-commit/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/burgr033/mf-runner.nvim)
 
 ##### just
 

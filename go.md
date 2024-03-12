@@ -9,6 +9,7 @@
   * [struct](#struct)
   * [impl](#impl)
   * [implement](#implement)
+  * [Type](#type)
 
 <!-- tocstop -->
 
@@ -64,3 +65,7 @@
 ### implement
 
 - [relardev/go-component-generator.nvim](https://github.com/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/stars/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/last-commit/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/relardev/go-component-generator.nvim)
+
+### Type
+
+- [DeanRTaylor1/inline-types.nvim](https://github.com/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/stars/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/last-commit/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/commit-activity/y/DeanRTaylor1/inline-types.nvim)

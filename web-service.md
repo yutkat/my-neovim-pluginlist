@@ -139,6 +139,7 @@
 #### Trello
 
 - [roncallyt/vrello.nvim](https://github.com/roncallyt/vrello.nvim) ![](https://img.shields.io/github/stars/roncallyt/vrello.nvim) ![](https://img.shields.io/github/last-commit/roncallyt/vrello.nvim) ![](https://img.shields.io/github/commit-activity/y/roncallyt/vrello.nvim)
+- [florianbellmann/nvim-trellocard](https://github.com/florianbellmann/nvim-trellocard) ![](https://img.shields.io/github/stars/florianbellmann/nvim-trellocard) ![](https://img.shields.io/github/last-commit/florianbellmann/nvim-trellocard) ![](https://img.shields.io/github/commit-activity/y/florianbellmann/nvim-trellocard)
 
 #### WordPress
 
