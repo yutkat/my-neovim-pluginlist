@@ -54,6 +54,7 @@
     + [Nushell](#nushell)
     + [PowerShell](#powershell)
     + [F](#f)
+    + [Juice](#juice)
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
@@ -378,6 +379,10 @@
 ### F
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
+
+### Juice
+
+- [juicelang/juice.nvim](https://github.com/juicelang/juice.nvim) ![](https://img.shields.io/github/stars/juicelang/juice.nvim) ![](https://img.shields.io/github/last-commit/juicelang/juice.nvim) ![](https://img.shields.io/github/commit-activity/y/juicelang/juice.nvim)
 
 ### Wasm
 
