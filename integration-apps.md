@@ -33,6 +33,7 @@
     + [OpenStack](#openstack)
     + [SonarLint](#sonarlint)
     + [Kafka](#kafka)
+    + [Dataform](#dataform)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
     + [Ansible](#ansible)
@@ -194,6 +195,10 @@
 #### Kafka
 
 - [krisajenkins/telescope-kafka.nvim](https://github.com/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-kafka.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-kafka.nvim)
+
+#### Dataform
+
+- [magal1337/dataform.nvim](https://github.com/magal1337/dataform.nvim) ![](https://img.shields.io/github/stars/magal1337/dataform.nvim) ![](https://img.shields.io/github/last-commit/magal1337/dataform.nvim) ![](https://img.shields.io/github/commit-activity/y/magal1337/dataform.nvim)
 
 ### Cloud
 

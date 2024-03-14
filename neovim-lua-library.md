@@ -115,6 +115,7 @@
 ## UI
 
 - [MunifTanjim/nui.nvim](https://github.com/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/nui.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/nui.nvim)
+  - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/stars/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/last-commit/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/commit-activity/y/grapp-dev/nui-components.nvim)
 
 ### Notification
 
