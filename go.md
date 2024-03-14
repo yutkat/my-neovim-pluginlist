@@ -36,7 +36,6 @@
 
 ### gofmt
 
-- [MaxwelMazur/gofmt.nvim](https://github.com/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/stars/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/last-commit/MaxwelMazur/gofmt.nvim) ![](https://img.shields.io/github/commit-activity/y/MaxwelMazur/gofmt.nvim)
 
 ### go list
 
