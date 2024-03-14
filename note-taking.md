@@ -161,6 +161,7 @@
 - [miguelcrespo/scratch-buffer.nvim](https://github.com/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/stars/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/last-commit/miguelcrespo/scratch-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/miguelcrespo/scratch-buffer.nvim)
 - [swaits/scratch.nvim](https://github.com/swaits/scratch.nvim) ![](https://img.shields.io/github/stars/swaits/scratch.nvim) ![](https://img.shields.io/github/last-commit/swaits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/scratch.nvim)
 - [CoderJoshDK/playground.nvim](https://github.com/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/stars/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/last-commit/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderJoshDK/playground.nvim)
+- [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 
 ## inline note
 

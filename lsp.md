@@ -202,6 +202,7 @@
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/stars/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/lsp-progress.nvim)
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) ![](https://img.shields.io/github/stars/davidosomething/everandever.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/everandever.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/everandever.nvim)
 - [deathbeam/lspecho.nvim](https://github.com/deathbeam/lspecho.nvim) ![](https://img.shields.io/github/stars/deathbeam/lspecho.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/lspecho.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/lspecho.nvim)
+- [mortymacs/lsp-meta.nvim](https://github.com/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/stars/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/last-commit/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/mortymacs/lsp-meta.nvim)
 
 ### Get LSP Client
 
