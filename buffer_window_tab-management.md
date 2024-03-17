@@ -122,6 +122,7 @@
 - [b-dee/buffleap.nvim](https://github.com/b-dee/buffleap.nvim) ![](https://img.shields.io/github/stars/b-dee/buffleap.nvim) ![](https://img.shields.io/github/last-commit/b-dee/buffleap.nvim) ![](https://img.shields.io/github/commit-activity/y/b-dee/buffleap.nvim)
 - [CJYLZS/nvim-bufsurf](https://github.com/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/stars/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/last-commit/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/commit-activity/y/CJYLZS/nvim-bufsurf)
 - [echasnovski/mini.visits](https://github.com/echasnovski/mini.visits) ![](https://img.shields.io/github/stars/echasnovski/mini.visits) ![](https://img.shields.io/github/last-commit/echasnovski/mini.visits) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.visits)
+- [mollerhoj/telescope-recent-files.nvim](https://github.com/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/stars/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/last-commit/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/commit-activity/y/mollerhoj/telescope-recent-files.nvim)
 
 ##### remote open
 

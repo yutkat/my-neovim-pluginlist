@@ -7,6 +7,7 @@
     + [Lua](#lua)
       - [Stylua](#stylua)
       - [LuaFormatter](#luaformatter)
+      - [Rocks](#rocks)
       - [Live Server](#live-server)
       - [Docstring](#docstring)
     + [Luau](#luau)
@@ -107,6 +108,10 @@
 #### LuaFormatter
 
 - [pchaos/vim-lua-formatter.nvim](https://github.com/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/stars/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/last-commit/pchaos/vim-lua-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/pchaos/vim-lua-formatter.nvim)
+
+#### Rocks
+
+- [nvim-neorocks/rocks-treesitter.nvim](https://github.com/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks-treesitter.nvim)
 
 #### Live Server
 

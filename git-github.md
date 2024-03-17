@@ -15,6 +15,7 @@
   * [git push](#git-push)
   * [git blame](#git-blame)
   * [git log](#git-log)
+    + [preview contents](#preview-contents)
   * [git lens](#git-lens)
   * [git diff](#git-diff)
   * [git rebase](#git-rebase)
@@ -147,6 +148,10 @@
 - [senkentarou/telescope-git-log.nvim](https://github.com/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-log.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-log.nvim)
 - [niuiic/git-log.nvim](https://github.com/niuiic/git-log.nvim) ![](https://img.shields.io/github/stars/niuiic/git-log.nvim) ![](https://img.shields.io/github/last-commit/niuiic/git-log.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/git-log.nvim)
 - [FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim) ![](https://img.shields.io/github/stars/FredeEB/tardis.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/tardis.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/tardis.nvim)
+
+### preview contents
+
+- [isak102/telescope-git-file-history.nvim](https://github.com/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/stars/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/last-commit/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/telescope-git-file-history.nvim)
 
 ## git lens
 
@@ -285,6 +290,7 @@
 - [totegamma/gotogh.nvim](https://github.com/totegamma/gotogh.nvim) ![](https://img.shields.io/github/stars/totegamma/gotogh.nvim) ![](https://img.shields.io/github/last-commit/totegamma/gotogh.nvim) ![](https://img.shields.io/github/commit-activity/y/totegamma/gotogh.nvim)
 - [lobkovilya/gh-browse.nvim](https://github.com/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/stars/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/gh-browse.nvim)
 - [jgoguen/git-linker.nvim](https://github.com/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/stars/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/last-commit/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/jgoguen/git-linker.nvim)
+- [aaaaargZombies/forge-link.nvim](https://github.com/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/forge-link.nvim)
 
 ## Image
 
