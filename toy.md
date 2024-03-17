@@ -152,6 +152,7 @@
 - [pogyomo/harmony.nvim](https://github.com/pogyomo/harmony.nvim) ![](https://img.shields.io/github/stars/pogyomo/harmony.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/harmony.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/harmony.nvim)
 - [whleucka/melody.nvim](https://github.com/whleucka/melody.nvim) ![](https://img.shields.io/github/stars/whleucka/melody.nvim) ![](https://img.shields.io/github/last-commit/whleucka/melody.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/melody.nvim)
 - [maxi0604/music.nvim](https://github.com/maxi0604/music.nvim) ![](https://img.shields.io/github/stars/maxi0604/music.nvim) ![](https://img.shields.io/github/last-commit/maxi0604/music.nvim) ![](https://img.shields.io/github/commit-activity/y/maxi0604/music.nvim)
+- [CyberFatherRT/vgm.nvim](https://github.com/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/vgm.nvim)
 
 #### MIDI
 

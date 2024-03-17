@@ -62,6 +62,7 @@
 
 - [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/stars/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/easycolor.nvim)
 - [roycrippen4/colors.nvim](https://github.com/roycrippen4/colors.nvim) ![](https://img.shields.io/github/stars/roycrippen4/colors.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/colors.nvim)
+- [Omixxx/pastelli.nvim](https://github.com/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/stars/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/last-commit/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/commit-activity/y/Omixxx/pastelli.nvim)
 
 ### ANSI Colorize
 
