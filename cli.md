@@ -196,6 +196,8 @@
 - [syednabilashraf/sync-remote.nvim](https://github.com/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/stars/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/last-commit/syednabilashraf/sync-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/syednabilashraf/sync-remote.nvim)
 - [bradenhelmer/nvim-syncer](https://github.com/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/stars/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/last-commit/bradenhelmer/nvim-syncer) ![](https://img.shields.io/github/commit-activity/y/bradenhelmer/nvim-syncer)
 - [lennarkivimae/nvim-rsync](https://github.com/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/stars/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/last-commit/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/lennarkivimae/nvim-rsync)
+- [shinobu-uwu/rsync.nvim](https://github.com/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/stars/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/last-commit/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/shinobu-uwu/rsync.nvim)
+
 
 #### ctags
 
