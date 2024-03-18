@@ -52,6 +52,7 @@
 - [leoluz/gotest.nvim](https://github.com/leoluz/gotest.nvim) ![](https://img.shields.io/github/stars/leoluz/gotest.nvim) ![](https://img.shields.io/github/last-commit/leoluz/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/leoluz/gotest.nvim)
 - [CadeMichael/gotest.nvim](https://github.com/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/stars/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/gotest.nvim)
 - [yanskun/gotests.nvim](https://github.com/yanskun/gotests.nvim) ![](https://img.shields.io/github/stars/yanskun/gotests.nvim) ![](https://img.shields.io/github/last-commit/yanskun/gotests.nvim) ![](https://img.shields.io/github/commit-activity/y/yanskun/gotests.nvim)
+- [mitubaEX/toggle_go_test_file.nvim](https://github.com/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/stars/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/toggle_go_test_file.nvim)
 
 ### struct
 

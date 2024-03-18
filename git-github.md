@@ -162,6 +162,7 @@
 - [tjdevries/diff-therapy.nvim](https://github.com/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/stars/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/diff-therapy.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/diff-therapy.nvim)
 - [milennik/gitdiff.nvim](https://github.com/milennik/gitdiff.nvim) ![](https://img.shields.io/github/stars/milennik/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/milennik/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/milennik/gitdiff.nvim)
 - [paopaol/telescope-git-diffs.nvim](https://github.com/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/stars/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/last-commit/paopaol/telescope-git-diffs.nvim) ![](https://img.shields.io/github/commit-activity/y/paopaol/telescope-git-diffs.nvim)
+- [Bleksak/diffthis.nvim](https://github.com/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/stars/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/diffthis.nvim)
 
 ## git rebase
 
@@ -191,6 +192,7 @@
 - [antonk52/gitignore-grabber.nvim](https://github.com/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/stars/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/last-commit/antonk52/gitignore-grabber.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/gitignore-grabber.nvim)
 - [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/stars/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/last-commit/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/wintermute-cell/gitignore.nvim)
 - [dylf/gitignore.nvim](https://github.com/dylf/gitignore.nvim) ![](https://img.shields.io/github/stars/dylf/gitignore.nvim) ![](https://img.shields.io/github/last-commit/dylf/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/dylf/gitignore.nvim)
+- [kilavila/nvim-gitignore](https://github.com/kilavila/nvim-gitignore) ![](https://img.shields.io/github/stars/kilavila/nvim-gitignore) ![](https://img.shields.io/github/last-commit/kilavila/nvim-gitignore) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-gitignore)
 
 ## git hook
 
