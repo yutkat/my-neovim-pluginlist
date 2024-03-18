@@ -72,6 +72,7 @@
 
 - [adrianvalenz/chronos.nvim](https://github.com/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/stars/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/last-commit/adrianvalenz/chronos.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianvalenz/chronos.nvim)
 - [alexpresthus/julian.nvim](https://github.com/alexpresthus/julian.nvim) ![](https://img.shields.io/github/stars/alexpresthus/julian.nvim) ![](https://img.shields.io/github/last-commit/alexpresthus/julian.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpresthus/julian.nvim)
+- [zenyusy/epochconv.nvim](https://github.com/zenyusy/epochconv.nvim) ![](https://img.shields.io/github/stars/zenyusy/epochconv.nvim) ![](https://img.shields.io/github/last-commit/zenyusy/epochconv.nvim) ![](https://img.shields.io/github/commit-activity/y/zenyusy/epochconv.nvim)
 
 ### Pixel
 

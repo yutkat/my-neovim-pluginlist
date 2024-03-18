@@ -95,6 +95,7 @@
 - [dknaack/qf-diagnostics.nvim](https://github.com/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/stars/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/dknaack/qf-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/dknaack/qf-diagnostics.nvim)
 - [jake-stewart/diagnostic-jump.nvim](https://github.com/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/stars/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/diagnostic-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/diagnostic-jump.nvim)
 - [artemave/workspace-diagnostics.nvim](https://github.com/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/stars/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/artemave/workspace-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/artemave/workspace-diagnostics.nvim)
+- [jtsiddons/diagnostic_level.nvim](https://github.com/jtsiddons/diagnostic_level.nvim) ![](https://img.shields.io/github/stars/jtsiddons/diagnostic_level.nvim) ![](https://img.shields.io/github/last-commit/jtsiddons/diagnostic_level.nvim) ![](https://img.shields.io/github/commit-activity/y/jtsiddons/diagnostic_level.nvim)
 
 ##### Diagnostics goto
 
