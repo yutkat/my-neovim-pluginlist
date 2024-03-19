@@ -69,6 +69,8 @@
   - [dcampos/cmp-snippy](https://github.com/dcampos/cmp-snippy) ![](https://img.shields.io/github/stars/dcampos/cmp-snippy) ![](https://img.shields.io/github/last-commit/dcampos/cmp-snippy) ![](https://img.shields.io/github/commit-activity/y/dcampos/cmp-snippy)
   - [quangnguyen30192/cmp-nvim-ultisnips](https://github.com/quangnguyen30192/cmp-nvim-ultisnips) ![](https://img.shields.io/github/stars/quangnguyen30192/cmp-nvim-ultisnips) ![](https://img.shields.io/github/last-commit/quangnguyen30192/cmp-nvim-ultisnips) ![](https://img.shields.io/github/commit-activity/y/quangnguyen30192/cmp-nvim-ultisnips)
   - [hrsh7th/cmp-vsnip](https://github.com/hrsh7th/cmp-vsnip) ![](https://img.shields.io/github/stars/hrsh7th/cmp-vsnip) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-vsnip) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-vsnip)
+- Other letters
+  - [max397574/cmp-greek](https://github.com/max397574/cmp-greek) ![](https://img.shields.io/github/stars/max397574/cmp-greek) ![](https://img.shields.io/github/last-commit/max397574/cmp-greek) ![](https://img.shields.io/github/commit-activity/y/max397574/cmp-greek)
 - External program source
   - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) ![](https://img.shields.io/github/stars/petertriho/cmp-git) ![](https://img.shields.io/github/last-commit/petertriho/cmp-git) ![](https://img.shields.io/github/commit-activity/y/petertriho/cmp-git)
   - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/stars/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/last-commit/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/cmp-rg)
