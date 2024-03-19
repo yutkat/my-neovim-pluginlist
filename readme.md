@@ -425,7 +425,6 @@
 
 ### Dictionary
 
-- [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
 - [PaysanCorrezien/dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/dictionary.nvim)
 - [Nealium/dict-popup.nvim](https://github.com/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/stars/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/last-commit/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/Nealium/dict-popup.nvim)
 
