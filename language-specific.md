@@ -37,6 +37,7 @@
     + [Kotlin](#kotlin)
     + [Swift](#swift)
     + [Scala](#scala)
+      - [ZIO](#zio)
     + [Dart, Flutter](#dart-flutter)
     + [Clojure](#clojure)
     + [Erlang](#erlang)
@@ -288,6 +289,10 @@
 
 - [softinio/scaladex.nvim](https://github.com/softinio/scaladex.nvim) ![](https://img.shields.io/github/stars/softinio/scaladex.nvim) ![](https://img.shields.io/github/last-commit/softinio/scaladex.nvim) ![](https://img.shields.io/github/commit-activity/y/softinio/scaladex.nvim)
 - [scalameta/nvim-metals](https://github.com/scalameta/nvim-metals) ![](https://img.shields.io/github/stars/scalameta/nvim-metals) ![](https://img.shields.io/github/last-commit/scalameta/nvim-metals) ![](https://img.shields.io/github/commit-activity/y/scalameta/nvim-metals)
+
+#### ZIO
+
+- [alisiikh/nvim-scala-zio-quickfix](https://github.com/alisiikh/nvim-scala-zio-quickfix) ![](https://img.shields.io/github/stars/alisiikh/nvim-scala-zio-quickfix) ![](https://img.shields.io/github/last-commit/alisiikh/nvim-scala-zio-quickfix) ![](https://img.shields.io/github/commit-activity/y/alisiikh/nvim-scala-zio-quickfix)
 
 ### Dart, Flutter
 

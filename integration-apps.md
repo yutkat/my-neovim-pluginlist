@@ -283,6 +283,7 @@
 - [wangl-cc/im-switch.nvim](https://github.com/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/stars/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/last-commit/wangl-cc/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/wangl-cc/im-switch.nvim)
 - [yangrq1018/im-switch.nvim](https://github.com/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/stars/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/last-commit/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/yangrq1018/im-switch.nvim)
 - [drop-stones/im-switch.nvim](https://github.com/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/stars/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/im-switch.nvim)
+- [MagicMarvel/smart-im-select.nvim](https://github.com/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/stars/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/last-commit/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicMarvel/smart-im-select.nvim)
 
 #### Fcitx
 

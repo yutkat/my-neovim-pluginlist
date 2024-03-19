@@ -86,6 +86,7 @@
 - [CWood-sdf/pineapple](https://github.com/CWood-sdf/pineapple) ![](https://img.shields.io/github/stars/CWood-sdf/pineapple) ![](https://img.shields.io/github/last-commit/CWood-sdf/pineapple) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/pineapple)
 - [vague2k/huez.nvim](https://github.com/vague2k/huez.nvim) ![](https://img.shields.io/github/stars/vague2k/huez.nvim) ![](https://img.shields.io/github/last-commit/vague2k/huez.nvim) ![](https://img.shields.io/github/commit-activity/y/vague2k/huez.nvim)
 - [andrew-george/telescope-themes](https://github.com/andrew-george/telescope-themes) ![](https://img.shields.io/github/stars/andrew-george/telescope-themes) ![](https://img.shields.io/github/last-commit/andrew-george/telescope-themes) ![](https://img.shields.io/github/commit-activity/y/andrew-george/telescope-themes)
+- [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/colorbox.nvim)
 
 ### Colorscheme overwrite
 
