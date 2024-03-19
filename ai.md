@@ -59,6 +59,7 @@
 - [CamdenClark/carrier.nvim](https://github.com/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/stars/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/last-commit/CamdenClark/carrier.nvim) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/carrier.nvim)
 - [S1M0N38/ai.nvim](https://github.com/S1M0N38/ai.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ai.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ai.nvim)
 - [ashaiber/openaipg.nvim](https://github.com/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/stars/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/last-commit/ashaiber/openaipg.nvim) ![](https://img.shields.io/github/commit-activity/y/ashaiber/openaipg.nvim)
+- [sudo-burger/m0.nvim](https://github.com/sudo-burger/m0.nvim) ![](https://img.shields.io/github/stars/sudo-burger/m0.nvim) ![](https://img.shields.io/github/last-commit/sudo-burger/m0.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-burger/m0.nvim)
 
 ### Gemini
 
@@ -98,6 +99,7 @@
 - [m-c-frank/mycelium.nvim](https://github.com/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/stars/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/last-commit/m-c-frank/mycelium.nvim) ![](https://img.shields.io/github/commit-activity/y/m-c-frank/mycelium.nvim)
 - [totu/nvim-ollama](https://github.com/totu/nvim-ollama) ![](https://img.shields.io/github/stars/totu/nvim-ollama) ![](https://img.shields.io/github/last-commit/totu/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/totu/nvim-ollama)
 - [slimslenderslacks/nvim-docker-ai](https://github.com/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-docker-ai)
+- [h4ckm1n-dev/nvim-ollama](https://github.com/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/stars/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/nvim-ollama)
 
 ### Aider
 
