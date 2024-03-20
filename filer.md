@@ -123,6 +123,7 @@
 - [metalelf0/supermover.nvim](https://github.com/metalelf0/supermover.nvim) ![](https://img.shields.io/github/stars/metalelf0/supermover.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/supermover.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/supermover.nvim)
 - [fbuchlak/telescope-directory.nvim](https://github.com/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/stars/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/last-commit/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/telescope-directory.nvim)
 - [albenisolmos/telescope-oil.nvim](https://github.com/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/stars/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/telescope-oil.nvim)
+- [synic/telescope-dirpicker.nvim](https://github.com/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/stars/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/last-commit/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/telescope-dirpicker.nvim)
 
 ## broot
 
