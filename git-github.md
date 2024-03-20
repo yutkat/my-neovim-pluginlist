@@ -67,6 +67,7 @@
 - [GitEdvard/git-worktree.windows.nvim](https://github.com/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/stars/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/last-commit/GitEdvard/git-worktree.windows.nvim) ![](https://img.shields.io/github/commit-activity/y/GitEdvard/git-worktree.windows.nvim)
 - [UncertainSchrodinger/git-worktree.nvim](https://github.com/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/stars/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/UncertainSchrodinger/git-worktree.nvim)
 - [paulo-granthon/agitate.nvim](https://github.com/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/stars/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/last-commit/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/commit-activity/y/paulo-granthon/agitate.nvim)
+- [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/stars/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/fugit2.nvim)
 
 ## gitui
 
