@@ -142,7 +142,6 @@
 
 ## Music
 
-- [Saverio976/music.nvim](https://github.com/Saverio976/music.nvim) ![](https://img.shields.io/github/stars/Saverio976/music.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/music.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/music.nvim)
 - [garyburd/norns.nvim](https://github.com/garyburd/norns.nvim) ![](https://img.shields.io/github/stars/garyburd/norns.nvim) ![](https://img.shields.io/github/last-commit/garyburd/norns.nvim) ![](https://img.shields.io/github/commit-activity/y/garyburd/norns.nvim)
 - [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
 - [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
