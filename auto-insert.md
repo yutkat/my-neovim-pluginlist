@@ -46,6 +46,7 @@
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 - [rareitems/put_at_end.nvim](https://github.com/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/stars/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/last-commit/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/put_at_end.nvim)
 - [Jumas-Cola/cosco.nvim](https://github.com/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/stars/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/last-commit/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/commit-activity/y/Jumas-Cola/cosco.nvim)
+- [iafshinafshin/end-tag.nvim](https://github.com/iafshinafshin/end-tag.nvim) ![](https://img.shields.io/github/stars/iafshinafshin/end-tag.nvim) ![](https://img.shields.io/github/last-commit/iafshinafshin/end-tag.nvim) ![](https://img.shields.io/github/commit-activity/y/iafshinafshin/end-tag.nvim)
 
 ## Auto convert
 

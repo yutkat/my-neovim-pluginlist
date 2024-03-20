@@ -4,6 +4,7 @@
 
 - [Highlight](#highlight)
   * [Arguments](#arguments)
+  * [URL](#url)
 - [Syntax](#syntax)
   * [Semantic highlight](#semantic-highlight)
   * [Colorizer](#colorizer)
@@ -11,8 +12,9 @@
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
-  * [colorscheme transparent](#colorscheme-transparent)
+  * [Colorscheme transparent](#colorscheme-transparent)
   * [Colorscheme session](#colorscheme-session)
+  * [Colorscheme file](#colorscheme-file)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Color name](#color-name)
   * [RGB](#rgb)
@@ -42,6 +44,10 @@
 
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
 - [nvim-jo/highlightargs.nvim](https://github.com/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/stars/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/highlightargs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/highlightargs.nvim)
+
+### URL
+
+- [rubiin/highlighturl.nvim](https://github.com/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/stars/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/last-commit/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/highlighturl.nvim)
 
 ## Syntax
 
@@ -93,13 +99,17 @@
 - [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
 - [JasonBoyett/Goethe.nvim](https://github.com/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/stars/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/last-commit/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/commit-activity/y/JasonBoyett/Goethe.nvim)
 
-### colorscheme transparent
+### Colorscheme transparent
 
 - [GusJelly/transparent.nvim](https://github.com/GusJelly/transparent.nvim) ![](https://img.shields.io/github/stars/GusJelly/transparent.nvim) ![](https://img.shields.io/github/last-commit/GusJelly/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/GusJelly/transparent.nvim)
 
 ### Colorscheme session
 
 - [swaits/colorsaver.nvim](https://github.com/swaits/colorsaver.nvim) ![](https://img.shields.io/github/stars/swaits/colorsaver.nvim) ![](https://img.shields.io/github/last-commit/swaits/colorsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/colorsaver.nvim)
+
+### Colorscheme file
+
+- [mr55p-dev/color-control.nvim](https://github.com/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/color-control.nvim)
 
 ### Auto generate colorscheme
 

@@ -80,6 +80,7 @@
 - [wakeLanaka/refactor.nvim](https://github.com/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/stars/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/last-commit/wakeLanaka/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/wakeLanaka/refactor.nvim)
 - [SFToro/turbosalva.nvim](https://github.com/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/stars/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/last-commit/SFToro/turbosalva.nvim) ![](https://img.shields.io/github/commit-activity/y/SFToro/turbosalva.nvim)
 - [chrisgrieser/nvim-chainsaw](https://github.com/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-chainsaw) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-chainsaw)
+- [kungfusheep/randomword.nvim](https://github.com/kungfusheep/randomword.nvim) ![](https://img.shields.io/github/stars/kungfusheep/randomword.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/randomword.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/randomword.nvim)
 
 #### stack trace analyze
 
