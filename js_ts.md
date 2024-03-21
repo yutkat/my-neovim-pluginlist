@@ -175,6 +175,7 @@
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/tw-values.nvim)
 - [nazo6/telescope-tailwind.nvim](https://github.com/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/stars/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/last-commit/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/telescope-tailwind.nvim)
 - [SushyDev/tailwind-linter.nvim](https://github.com/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/stars/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/last-commit/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/SushyDev/tailwind-linter.nvim)
+- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/tailwind-tools.nvim)
 
 ##### SCSS
 
