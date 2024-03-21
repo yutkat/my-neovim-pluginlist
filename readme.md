@@ -67,6 +67,7 @@
   * [Quickfix / Location](#quickfix--location)
   * [cd(change directory)](#cdchange-directory)
     + [z](#z)
+  * [CWD](#cwd)
   * [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
   * [ftplugin](#ftplugin)
     + [filetype colorscheme](#filetype-colorscheme)
@@ -455,6 +456,10 @@
 
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
 - [tenfyzhong/z.nvim](https://github.com/tenfyzhong/z.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/z.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/z.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/z.nvim)
+
+### CWD
+
+- [prichrd/vwd.nvim](https://github.com/prichrd/vwd.nvim) ![](https://img.shields.io/github/stars/prichrd/vwd.nvim) ![](https://img.shields.io/github/last-commit/prichrd/vwd.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/vwd.nvim)
 
 ### ftdetect(Filetype detector)
 

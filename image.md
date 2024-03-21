@@ -12,6 +12,7 @@
   * [SVG](#svg)
   * [Ascii](#ascii)
   * [Sixel](#sixel)
+  * [Illustrate](#illustrate)
 
 <!-- tocstop -->
 
@@ -79,3 +80,7 @@
 ### Sixel
 
 - [kjuq/sixelview.nvim](https://github.com/kjuq/sixelview.nvim) ![](https://img.shields.io/github/stars/kjuq/sixelview.nvim) ![](https://img.shields.io/github/last-commit/kjuq/sixelview.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuq/sixelview.nvim)
+
+### Illustrate
+
+- [rpapallas/illustrate.nvim](https://github.com/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/stars/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/last-commit/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/commit-activity/y/rpapallas/illustrate.nvim)
