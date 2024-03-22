@@ -262,7 +262,6 @@
 #### Maven
 
 - [eatgrass/maven.nvim](https://github.com/eatgrass/maven.nvim) ![](https://img.shields.io/github/stars/eatgrass/maven.nvim) ![](https://img.shields.io/github/last-commit/eatgrass/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/eatgrass/maven.nvim)
-- [sem-peters/pom-support.nvim](https://github.com/sem-peters/pom-support.nvim) ![](https://img.shields.io/github/stars/sem-peters/pom-support.nvim) ![](https://img.shields.io/github/last-commit/sem-peters/pom-support.nvim) ![](https://img.shields.io/github/commit-activity/y/sem-peters/pom-support.nvim)
 
 #### Gradle
 
