@@ -12,6 +12,7 @@
   * [LLDB](#lldb)
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
+  * [Doxygen](#doxygen)
   * [OpenMP](#openmp)
   * [Header](#header)
 - [PlatformIO](#platformio)
@@ -85,6 +86,10 @@
 
 - [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
 - [rbmarliere/telescope-cscope.nvim](https://github.com/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/stars/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/telescope-cscope.nvim)
+
+#### Doxygen
+
+- [jla2000/lazydocs.nvim](https://github.com/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/stars/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/jla2000/lazydocs.nvim)
 
 #### OpenMP
 

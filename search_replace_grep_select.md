@@ -44,6 +44,7 @@
 - [barklan/searchword.nvim](https://github.com/barklan/searchword.nvim) ![](https://img.shields.io/github/stars/barklan/searchword.nvim) ![](https://img.shields.io/github/last-commit/barklan/searchword.nvim) ![](https://img.shields.io/github/commit-activity/y/barklan/searchword.nvim)
 - [SDGLBL/hapigo.nvim](https://github.com/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/stars/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/hapigo.nvim)
 - [jacobrreed/search-replace.nvim](https://github.com/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/stars/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/last-commit/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobrreed/search-replace.nvim)
+- [kilavila/nvim-quick-search](https://github.com/kilavila/nvim-quick-search) ![](https://img.shields.io/github/stars/kilavila/nvim-quick-search) ![](https://img.shields.io/github/last-commit/kilavila/nvim-quick-search) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-quick-search)
 
 ## Line search
 
