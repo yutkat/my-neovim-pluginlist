@@ -42,6 +42,7 @@
 - [adelarsq/bar.nvim](https://github.com/adelarsq/bar.nvim) ![](https://img.shields.io/github/stars/adelarsq/bar.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/bar.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/bar.nvim)
 - [ferplnat/linedancing.nvim](https://github.com/ferplnat/linedancing.nvim) ![](https://img.shields.io/github/stars/ferplnat/linedancing.nvim) ![](https://img.shields.io/github/last-commit/ferplnat/linedancing.nvim) ![](https://img.shields.io/github/commit-activity/y/ferplnat/linedancing.nvim)
 - [dubzland/dubzline.nvim](https://github.com/dubzland/dubzline.nvim) ![](https://img.shields.io/github/stars/dubzland/dubzline.nvim) ![](https://img.shields.io/github/last-commit/dubzland/dubzline.nvim) ![](https://img.shields.io/github/commit-activity/y/dubzland/dubzline.nvim)
+- [CWood-sdf/lazyline.nvim](https://github.com/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/lazyline.nvim)
 
 ### Simple
 

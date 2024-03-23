@@ -7,6 +7,7 @@
   * [endwise](#endwise)
 - [Auto insert semicolon](#auto-insert-semicolon)
 - [Auto convert](#auto-convert)
+- [List](#list)
 
 <!-- tocstop -->
 
@@ -50,3 +51,7 @@
 ## Auto convert
 
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
+
+## List
+
+- [haolian9/buds.nvim](https://github.com/haolian9/buds.nvim) ![](https://img.shields.io/github/stars/haolian9/buds.nvim) ![](https://img.shields.io/github/last-commit/haolian9/buds.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/buds.nvim)
