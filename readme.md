@@ -536,6 +536,7 @@
 - [loctvl842/breadcrumb.nvim](https://github.com/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/stars/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/loctvl842/breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/loctvl842/breadcrumb.nvim)
 - [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/stars/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/TreePin)
 - [Gelio/nvim-relative-date](https://github.com/Gelio/nvim-relative-date) ![](https://img.shields.io/github/stars/Gelio/nvim-relative-date) ![](https://img.shields.io/github/last-commit/Gelio/nvim-relative-date) ![](https://img.shields.io/github/commit-activity/y/Gelio/nvim-relative-date)
+- [Maldus512/reader.nvim](https://github.com/Maldus512/reader.nvim) ![](https://img.shields.io/github/stars/Maldus512/reader.nvim) ![](https://img.shields.io/github/last-commit/Maldus512/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Maldus512/reader.nvim)
 
 #### Current Position Info
 

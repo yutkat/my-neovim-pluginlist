@@ -123,6 +123,7 @@
 - [CJYLZS/nvim-bufsurf](https://github.com/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/stars/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/last-commit/CJYLZS/nvim-bufsurf) ![](https://img.shields.io/github/commit-activity/y/CJYLZS/nvim-bufsurf)
 - [echasnovski/mini.visits](https://github.com/echasnovski/mini.visits) ![](https://img.shields.io/github/stars/echasnovski/mini.visits) ![](https://img.shields.io/github/last-commit/echasnovski/mini.visits) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.visits)
 - [mollerhoj/telescope-recent-files.nvim](https://github.com/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/stars/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/last-commit/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/commit-activity/y/mollerhoj/telescope-recent-files.nvim)
+- [tripplyons/stacker.nvim](https://github.com/tripplyons/stacker.nvim) ![](https://img.shields.io/github/stars/tripplyons/stacker.nvim) ![](https://img.shields.io/github/last-commit/tripplyons/stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/tripplyons/stacker.nvim)
 
 ##### remote open
 

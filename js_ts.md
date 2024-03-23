@@ -53,6 +53,7 @@
 - [pmizio/typescript-tools.nvim](https://github.com/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/stars/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/last-commit/pmizio/typescript-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pmizio/typescript-tools.nvim)
 - [llllvvuu/nvim-js-actions](https://github.com/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/stars/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/last-commit/llllvvuu/nvim-js-actions) ![](https://img.shields.io/github/commit-activity/y/llllvvuu/nvim-js-actions)
 - [github-naresh/auto-fold-imports.nvim](https://github.com/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/stars/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/last-commit/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/github-naresh/auto-fold-imports.nvim)
+- [ewal/ember-altrel.nvim](https://github.com/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/stars/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/last-commit/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/commit-activity/y/ewal/ember-altrel.nvim)
 
 #### string
 

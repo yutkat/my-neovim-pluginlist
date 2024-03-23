@@ -12,6 +12,7 @@
     + [prefix](#prefix)
     + [co authored](#co-authored)
     + [Auto commit](#auto-commit)
+  * [git fetch](#git-fetch)
   * [git push](#git-push)
   * [git blame](#git-blame)
   * [git log](#git-log)
@@ -122,6 +123,10 @@
 ### Auto commit
 
 - [AuLaSW/autocommit.nvim](https://github.com/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/stars/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/autocommit.nvim)
+
+## git fetch
+
+- [JojoMakesGames/git-remote-url.nvim](https://github.com/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/stars/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/JojoMakesGames/git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/JojoMakesGames/git-remote-url.nvim)
 
 ## git push
 

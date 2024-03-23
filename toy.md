@@ -157,6 +157,7 @@
 - [whleucka/melody.nvim](https://github.com/whleucka/melody.nvim) ![](https://img.shields.io/github/stars/whleucka/melody.nvim) ![](https://img.shields.io/github/last-commit/whleucka/melody.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/melody.nvim)
 - [maxi0604/music.nvim](https://github.com/maxi0604/music.nvim) ![](https://img.shields.io/github/stars/maxi0604/music.nvim) ![](https://img.shields.io/github/last-commit/maxi0604/music.nvim) ![](https://img.shields.io/github/commit-activity/y/maxi0604/music.nvim)
 - [CyberFatherRT/vgm.nvim](https://github.com/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/vgm.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/vgm.nvim)
+- [fernandoalex/music.nvim](https://github.com/fernandoalex/music.nvim) ![](https://img.shields.io/github/stars/fernandoalex/music.nvim) ![](https://img.shields.io/github/last-commit/fernandoalex/music.nvim) ![](https://img.shields.io/github/commit-activity/y/fernandoalex/music.nvim)
 
 #### MIDI
 
