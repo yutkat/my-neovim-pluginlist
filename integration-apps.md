@@ -284,6 +284,7 @@
 - [yangrq1018/im-switch.nvim](https://github.com/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/stars/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/last-commit/yangrq1018/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/yangrq1018/im-switch.nvim)
 - [drop-stones/im-switch.nvim](https://github.com/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/stars/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/im-switch.nvim)
 - [MagicMarvel/smart-im-select.nvim](https://github.com/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/stars/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/last-commit/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicMarvel/smart-im-select.nvim)
+- [puddings233/fcitx5-switcher.nvim](https://github.com/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/stars/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/last-commit/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/puddings233/fcitx5-switcher.nvim)
 
 #### Fcitx
 

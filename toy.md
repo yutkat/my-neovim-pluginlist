@@ -76,6 +76,7 @@
 - [S1M0N38/love2d.nvim](https://github.com/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/stars/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/love2d.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/love2d.nvim)
 - [fpeterek/nvim-surfers](https://github.com/fpeterek/nvim-surfers) ![](https://img.shields.io/github/stars/fpeterek/nvim-surfers) ![](https://img.shields.io/github/last-commit/fpeterek/nvim-surfers) ![](https://img.shields.io/github/commit-activity/y/fpeterek/nvim-surfers)
 - [willothy/strat-hero.nvim](https://github.com/willothy/strat-hero.nvim) ![](https://img.shields.io/github/stars/willothy/strat-hero.nvim) ![](https://img.shields.io/github/last-commit/willothy/strat-hero.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/strat-hero.nvim)
+- [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
 
 ### Typing
 
@@ -130,6 +131,7 @@
 - [0x5a4/oogway.nvim](https://github.com/0x5a4/oogway.nvim) ![](https://img.shields.io/github/stars/0x5a4/oogway.nvim) ![](https://img.shields.io/github/last-commit/0x5a4/oogway.nvim) ![](https://img.shields.io/github/commit-activity/y/0x5a4/oogway.nvim)
 - [gestylinaga/askRyu.nvim](https://github.com/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/stars/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/last-commit/gestylinaga/askRyu.nvim) ![](https://img.shields.io/github/commit-activity/y/gestylinaga/askRyu.nvim)
 - [TylerLott/waifu.nvim](https://github.com/TylerLott/waifu.nvim) ![](https://img.shields.io/github/stars/TylerLott/waifu.nvim) ![](https://img.shields.io/github/last-commit/TylerLott/waifu.nvim) ![](https://img.shields.io/github/commit-activity/y/TylerLott/waifu.nvim)
+- [kungfusheep/randomquote.nvim](https://github.com/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/stars/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/randomquote.nvim)
 
 #### Tips
 

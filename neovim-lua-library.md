@@ -190,6 +190,7 @@
 ### REST
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
+  - [amirali/rest-ui.nvim](https://github.com/amirali/rest-ui.nvim) ![](https://img.shields.io/github/stars/amirali/rest-ui.nvim) ![](https://img.shields.io/github/last-commit/amirali/rest-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/amirali/rest-ui.nvim)
 
 ### GRPC
 
@@ -242,6 +243,7 @@
 ## Color
 
 - [oleksiiluchnikov/gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/gradient.nvim)
+- [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/stars/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/polychrome.nvim)
 
 ## Icon
 
