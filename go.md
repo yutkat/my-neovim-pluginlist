@@ -53,6 +53,7 @@
 - [CadeMichael/gotest.nvim](https://github.com/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/stars/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/gotest.nvim)
 - [yanskun/gotests.nvim](https://github.com/yanskun/gotests.nvim) ![](https://img.shields.io/github/stars/yanskun/gotests.nvim) ![](https://img.shields.io/github/last-commit/yanskun/gotests.nvim) ![](https://img.shields.io/github/commit-activity/y/yanskun/gotests.nvim)
 - [mitubaEX/toggle_go_test_file.nvim](https://github.com/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/stars/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/toggle_go_test_file.nvim)
+- [jamespixovr/pixovr.nvim](https://github.com/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/stars/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/last-commit/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamespixovr/pixovr.nvim)
 
 ### struct
 

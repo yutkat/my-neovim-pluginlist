@@ -253,6 +253,7 @@
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
 - [Dimfred/resize-mode.nvim](https://github.com/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/stars/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/last-commit/Dimfred/resize-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dimfred/resize-mode.nvim)
 - [danielefongo/tile.nvim](https://github.com/danielefongo/tile.nvim) ![](https://img.shields.io/github/stars/danielefongo/tile.nvim) ![](https://img.shields.io/github/last-commit/danielefongo/tile.nvim) ![](https://img.shields.io/github/commit-activity/y/danielefongo/tile.nvim)
+- [siadat/animated-resize.nvim](https://github.com/siadat/animated-resize.nvim) ![](https://img.shields.io/github/stars/siadat/animated-resize.nvim) ![](https://img.shields.io/github/last-commit/siadat/animated-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/animated-resize.nvim)
 
 #### maximize
 

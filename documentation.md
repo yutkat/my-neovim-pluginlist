@@ -58,6 +58,7 @@
 - [alanfvn/neomark.nvim](https://github.com/alanfvn/neomark.nvim) ![](https://img.shields.io/github/stars/alanfvn/neomark.nvim) ![](https://img.shields.io/github/last-commit/alanfvn/neomark.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfvn/neomark.nvim)
 - [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/stars/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/last-commit/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/tadmccorkle/markdown.nvim)
 - [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/markdown.nvim)
+- [MarcusSimonsen/ride.nvim](https://github.com/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/stars/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/last-commit/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcusSimonsen/ride.nvim)
 
 #### Markdown link
 
