@@ -6,6 +6,7 @@
   * [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
     + [formatter](#formatter)
   * [Luarock](#luarock)
+- [for programming languages](#for-programming-languages)
 
 <!-- tocstop -->
 
@@ -27,3 +28,7 @@
 ### Luarock
 
 - [theHamsta/nvim_rocks](https://github.com/theHamsta/nvim_rocks) ![](https://img.shields.io/github/stars/theHamsta/nvim_rocks) ![](https://img.shields.io/github/last-commit/theHamsta/nvim_rocks) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim_rocks)
+
+## for programming languages
+
+- [jdrupal-dev/parcel.nvim](https://github.com/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/parcel.nvim)

@@ -298,6 +298,7 @@
 - [lobkovilya/gh-browse.nvim](https://github.com/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/stars/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/gh-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/gh-browse.nvim)
 - [jgoguen/git-linker.nvim](https://github.com/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/stars/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/last-commit/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/jgoguen/git-linker.nvim)
 - [aaaaargZombies/forge-link.nvim](https://github.com/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/forge-link.nvim)
+- [candy12t/github-link.nvim](https://github.com/candy12t/github-link.nvim) ![](https://img.shields.io/github/stars/candy12t/github-link.nvim) ![](https://img.shields.io/github/last-commit/candy12t/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/github-link.nvim)
 
 ## Image
 
