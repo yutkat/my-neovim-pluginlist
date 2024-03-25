@@ -10,6 +10,7 @@
       - [Mintlify Writer](#mintlify-writer)
   * [Llama](#llama)
   * [Ollama](#ollama)
+  * [Claude](#claude)
   * [Aider](#aider)
   * [Otter](#otter)
   * [Google Bard](#google-bard)
@@ -100,6 +101,10 @@
 - [totu/nvim-ollama](https://github.com/totu/nvim-ollama) ![](https://img.shields.io/github/stars/totu/nvim-ollama) ![](https://img.shields.io/github/last-commit/totu/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/totu/nvim-ollama)
 - [slimslenderslacks/nvim-docker-ai](https://github.com/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-docker-ai)
 - [h4ckm1n-dev/nvim-ollama](https://github.com/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/stars/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/nvim-ollama)
+
+### Claude
+
+- [evangstav/claude.nvim](https://github.com/evangstav/claude.nvim) ![](https://img.shields.io/github/stars/evangstav/claude.nvim) ![](https://img.shields.io/github/last-commit/evangstav/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/evangstav/claude.nvim)
 
 ### Aider
 

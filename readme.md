@@ -428,6 +428,7 @@
 
 - [PaysanCorrezien/dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/dictionary.nvim)
 - [Nealium/dict-popup.nvim](https://github.com/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/stars/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/last-commit/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/Nealium/dict-popup.nvim)
+- [phanen/word.nvim](https://github.com/phanen/word.nvim) ![](https://img.shields.io/github/stars/phanen/word.nvim) ![](https://img.shields.io/github/last-commit/phanen/word.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/word.nvim)
 
 ### digraph
 
@@ -618,6 +619,7 @@
 - [AtleSkaanes/command-palette.nvim](https://github.com/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/stars/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/last-commit/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/AtleSkaanes/command-palette.nvim)
 - [Ajnasz/telescope-runcmd.nvim](https://github.com/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/stars/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/telescope-runcmd.nvim)
 - [azatakmyradov/command.nvim](https://github.com/azatakmyradov/command.nvim) ![](https://img.shields.io/github/stars/azatakmyradov/command.nvim) ![](https://img.shields.io/github/last-commit/azatakmyradov/command.nvim) ![](https://img.shields.io/github/commit-activity/y/azatakmyradov/command.nvim)
+- [0xfraso/command.nvim](https://github.com/0xfraso/command.nvim) ![](https://img.shields.io/github/stars/0xfraso/command.nvim) ![](https://img.shields.io/github/last-commit/0xfraso/command.nvim) ![](https://img.shields.io/github/commit-activity/y/0xfraso/command.nvim)
 
 ### Reload Configuration
 
