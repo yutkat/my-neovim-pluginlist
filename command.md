@@ -12,6 +12,7 @@
     + [sudo](#sudo)
     + [quit](#quit)
 - [Multiple Command](#multiple-command)
+  * [Command Palette](#command-palette)
 
 <!-- tocstop -->
 
@@ -70,3 +71,15 @@
 ## Multiple Command
 
 - [zKurisu/multi-do.nvim](https://github.com/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/stars/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/multi-do.nvim)
+
+### Command Palette
+
+- [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/stars/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/legendary.nvim)
+- [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
+- [octarect/telescope-menu.nvim](https://github.com/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/stars/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/last-commit/octarect/telescope-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/octarect/telescope-menu.nvim)
+- [jvs/commanderly.nvim](https://github.com/jvs/commanderly.nvim) ![](https://img.shields.io/github/stars/jvs/commanderly.nvim) ![](https://img.shields.io/github/last-commit/jvs/commanderly.nvim) ![](https://img.shields.io/github/commit-activity/y/jvs/commanderly.nvim)
+- [hachy/cmdpalette.nvim](https://github.com/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/stars/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/last-commit/hachy/cmdpalette.nvim) ![](https://img.shields.io/github/commit-activity/y/hachy/cmdpalette.nvim)
+- [AtleSkaanes/command-palette.nvim](https://github.com/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/stars/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/last-commit/AtleSkaanes/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/AtleSkaanes/command-palette.nvim)
+- [Ajnasz/telescope-runcmd.nvim](https://github.com/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/stars/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/telescope-runcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/telescope-runcmd.nvim)
+- [azatakmyradov/command.nvim](https://github.com/azatakmyradov/command.nvim) ![](https://img.shields.io/github/stars/azatakmyradov/command.nvim) ![](https://img.shields.io/github/last-commit/azatakmyradov/command.nvim) ![](https://img.shields.io/github/commit-activity/y/azatakmyradov/command.nvim)
+- [0xfraso/command.nvim](https://github.com/0xfraso/command.nvim) ![](https://img.shields.io/github/stars/0xfraso/command.nvim) ![](https://img.shields.io/github/last-commit/0xfraso/command.nvim) ![](https://img.shields.io/github/commit-activity/y/0xfraso/command.nvim)
