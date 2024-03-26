@@ -57,6 +57,7 @@
 - [Faisal-Aljutaili/OpenInPopUp.nvim](https://github.com/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/stars/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/last-commit/Faisal-Aljutaili/OpenInPopUp.nvim) ![](https://img.shields.io/github/commit-activity/y/Faisal-Aljutaili/OpenInPopUp.nvim)
 - [2KAbhishek/termim.nvim](https://github.com/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/termim.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/termim.nvim)
 - [Coockson/popterminal.nvim](https://github.com/Coockson/popterminal.nvim) ![](https://img.shields.io/github/stars/Coockson/popterminal.nvim) ![](https://img.shields.io/github/last-commit/Coockson/popterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Coockson/popterminal.nvim)
+- [lexysoda/nvim-toggle-term](https://github.com/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/stars/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/last-commit/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/commit-activity/y/lexysoda/nvim-toggle-term)
 
 ### Open
 

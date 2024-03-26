@@ -18,6 +18,7 @@
   * [Partial execution](#partial-execution)
     + [Jupyter style](#jupyter-style)
   * [Monitor](#monitor)
+  * [Preset task](#preset-task)
 
 <!-- tocstop -->
 
@@ -162,3 +163,7 @@
 ## Monitor
 
 - [Operdies/gwatch.nvim](https://github.com/Operdies/gwatch.nvim) ![](https://img.shields.io/github/stars/Operdies/gwatch.nvim) ![](https://img.shields.io/github/last-commit/Operdies/gwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Operdies/gwatch.nvim)
+
+## Preset task
+
+- [mbwilding/profiles.nvim](https://github.com/mbwilding/profiles.nvim) ![](https://img.shields.io/github/stars/mbwilding/profiles.nvim) ![](https://img.shields.io/github/last-commit/mbwilding/profiles.nvim) ![](https://img.shields.io/github/commit-activity/y/mbwilding/profiles.nvim)

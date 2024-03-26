@@ -21,6 +21,7 @@
 - [MeanderingProgrammer/dashboard.nvim](https://github.com/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/dashboard.nvim)
 - [CWood-sdf/spaceport.nvim](https://github.com/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/spaceport.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/spaceport.nvim)
 - [rubiin/fortune.nvim](https://github.com/rubiin/fortune.nvim) ![](https://img.shields.io/github/stars/rubiin/fortune.nvim) ![](https://img.shields.io/github/last-commit/rubiin/fortune.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/fortune.nvim)
+- [OXY2DEV/intro.nvim](https://github.com/OXY2DEV/intro.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/intro.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/intro.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/intro.nvim)
 
 ### Boot Arguments
 

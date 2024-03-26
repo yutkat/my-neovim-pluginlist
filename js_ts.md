@@ -196,6 +196,8 @@
 
 ##### Vue
 
+- [codymikol/mason-vue-language-server-lazy-shim.nvim](https://github.com/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/stars/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/last-commit/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/commit-activity/y/codymikol/mason-vue-language-server-lazy-shim.nvim)
+
 ###### Nuxt
 
 - [rushjs1/nuxt-goto-alias.nvim](https://github.com/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/stars/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/last-commit/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/commit-activity/y/rushjs1/nuxt-goto-alias.nvim)

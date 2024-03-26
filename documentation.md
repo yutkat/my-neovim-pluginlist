@@ -36,6 +36,7 @@
   * [Pandoc](#pandoc)
   * [Vimdoc](#vimdoc)
   * [Tex](#tex)
+    + [Image](#image)
     + [Tex Preview](#tex-preview)
     + [BiBTex](#bibtex)
   * [Copyright](#copyright)
@@ -275,6 +276,10 @@
 - [LeoSchae/nvim-texlab-tools](https://github.com/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/stars/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/last-commit/LeoSchae/nvim-texlab-tools) ![](https://img.shields.io/github/commit-activity/y/LeoSchae/nvim-texlab-tools)
 - [wyv3rn/latex-abbrify.nvim](https://github.com/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/stars/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/last-commit/wyv3rn/latex-abbrify.nvim) ![](https://img.shields.io/github/commit-activity/y/wyv3rn/latex-abbrify.nvim)
 - [micangl/cmp-vimtex](https://github.com/micangl/cmp-vimtex) ![](https://img.shields.io/github/stars/micangl/cmp-vimtex) ![](https://img.shields.io/github/last-commit/micangl/cmp-vimtex) ![](https://img.shields.io/github/commit-activity/y/micangl/cmp-vimtex)
+
+#### Image
+
+- [Scarcy/LatexImage.nvim](https://github.com/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/stars/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/last-commit/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/commit-activity/y/Scarcy/LatexImage.nvim)
 
 #### Tex Preview
 

@@ -33,6 +33,7 @@
   * [submodule](#submodule)
   * [git utils](#git-utils)
   * [Contribution](#contribution)
+  * [flow](#flow)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
@@ -235,6 +236,10 @@
 ## Contribution
 
 - [ronylee11/gitcontrib.nvim](https://github.com/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/stars/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/last-commit/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/commit-activity/y/ronylee11/gitcontrib.nvim)
+
+## flow
+
+- [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
 
 # GitHub
 
