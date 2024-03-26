@@ -56,6 +56,7 @@
 - [einKnuffy/betterpresence.nvim](https://github.com/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/stars/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/last-commit/einKnuffy/betterpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/einKnuffy/betterpresence.nvim)
 - [lpturmel/discord.nvim](https://github.com/lpturmel/discord.nvim) ![](https://img.shields.io/github/stars/lpturmel/discord.nvim) ![](https://img.shields.io/github/last-commit/lpturmel/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/lpturmel/discord.nvim)
 - [circles-00/nvim-discord-status](https://github.com/circles-00/nvim-discord-status) ![](https://img.shields.io/github/stars/circles-00/nvim-discord-status) ![](https://img.shields.io/github/last-commit/circles-00/nvim-discord-status) ![](https://img.shields.io/github/commit-activity/y/circles-00/nvim-discord-status)
+- [reblast/cord.nvim](https://github.com/reblast/cord.nvim) ![](https://img.shields.io/github/stars/reblast/cord.nvim) ![](https://img.shields.io/github/last-commit/reblast/cord.nvim) ![](https://img.shields.io/github/commit-activity/y/reblast/cord.nvim)
 
 #### Slack
 

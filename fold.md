@@ -22,6 +22,7 @@
 - [snelling-a/better-folds.nvim](https://github.com/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/stars/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/last-commit/snelling-a/better-folds.nvim) ![](https://img.shields.io/github/commit-activity/y/snelling-a/better-folds.nvim)
 - [malbertzard/inline-fold.nvim](https://github.com/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/stars/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/last-commit/malbertzard/inline-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/malbertzard/inline-fold.nvim)
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-origami)
+- [gbirke/telescope-foldmarkers.nvim](https://github.com/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/stars/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/last-commit/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/gbirke/telescope-foldmarkers.nvim)
 
 ## Conceal
 
