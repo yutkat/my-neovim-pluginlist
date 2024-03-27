@@ -42,6 +42,7 @@
   * [Actions](#actions)
   * [Link](#link)
   * [Image](#image)
+  * [Star](#star)
   * [grep.app](#grepapp)
   * [Organization](#organization)
   * [CODEOWNERS](#codeowners)
@@ -308,6 +309,10 @@
 ## Image
 
 - [ch3n9w/nvim-github-uploader](https://github.com/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/stars/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/last-commit/ch3n9w/nvim-github-uploader) ![](https://img.shields.io/github/commit-activity/y/ch3n9w/nvim-github-uploader)
+
+## Star
+
+- [jsongerber/thanks.nvim](https://github.com/jsongerber/thanks.nvim) ![](https://img.shields.io/github/stars/jsongerber/thanks.nvim) ![](https://img.shields.io/github/last-commit/jsongerber/thanks.nvim) ![](https://img.shields.io/github/commit-activity/y/jsongerber/thanks.nvim)
 
 ## grep.app
 
