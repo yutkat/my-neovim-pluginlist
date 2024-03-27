@@ -86,6 +86,7 @@
 - [wakelin-g/run.nvim](https://github.com/wakelin-g/run.nvim) ![](https://img.shields.io/github/stars/wakelin-g/run.nvim) ![](https://img.shields.io/github/last-commit/wakelin-g/run.nvim) ![](https://img.shields.io/github/commit-activity/y/wakelin-g/run.nvim)
 - [rgolangh/venkat.nvim](https://github.com/rgolangh/venkat.nvim) ![](https://img.shields.io/github/stars/rgolangh/venkat.nvim) ![](https://img.shields.io/github/last-commit/rgolangh/venkat.nvim) ![](https://img.shields.io/github/commit-activity/y/rgolangh/venkat.nvim)
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) ![](https://img.shields.io/github/stars/catgoose/coderunner.nvim) ![](https://img.shields.io/github/last-commit/catgoose/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/coderunner.nvim)
+- [dsieradzki/nvim-runner](https://github.com/dsieradzki/nvim-runner) ![](https://img.shields.io/github/stars/dsieradzki/nvim-runner) ![](https://img.shields.io/github/last-commit/dsieradzki/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/dsieradzki/nvim-runner)
 
 ### Shell
 
