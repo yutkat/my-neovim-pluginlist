@@ -49,6 +49,7 @@
 - [GitLab](#gitlab)
 - [Sapling](#sapling)
 - [BigBucket](#bigbucket)
+- [Sourcegraph](#sourcegraph)
 - [CLI](#cli)
   * [Graphite](#graphite)
   * [Backup](#backup)
@@ -341,6 +342,10 @@
 # BigBucket
 
 - [Otterpatsch/bitbucket.nvim](https://github.com/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/stars/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/last-commit/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/commit-activity/y/Otterpatsch/bitbucket.nvim)
+
+# Sourcegraph
+
+- [DefiDepotSuper/sg.nvim](https://github.com/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/stars/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/last-commit/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/commit-activity/y/DefiDepotSuper/sg.nvim)
 
 # CLI
 
