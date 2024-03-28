@@ -20,6 +20,7 @@
       - [Redis](#redis)
     + [Nix](#nix)
     + [PHP](#php)
+      - [Live server](#live-server)
       - [Laravel](#laravel)
       - [Symfony](#symfony)
         * [drupal](#drupal)
@@ -195,6 +196,11 @@
 - [ccaglak/phpUtils.nvim](https://github.com/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/stars/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/phpUtils.nvim)
 - [ta-tikoma/php.easy.nvim](https://github.com/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/stars/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/last-commit/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/commit-activity/y/ta-tikoma/php.easy.nvim)
 - [RicardoRamirezR/php-use-sort.nvim](https://github.com/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-use-sort.nvim)
+- [praem90/neotest-docker-phpunit.nvim](https://github.com/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/stars/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/last-commit/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/neotest-docker-phpunit.nvim)
+
+#### Live server
+
+- [Diogo-ss/five-server.nvim](https://github.com/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/five-server.nvim)
 
 #### Laravel
 
@@ -509,6 +515,7 @@
 - [xeluxee/competitest.nvim](https://github.com/xeluxee/competitest.nvim) ![](https://img.shields.io/github/stars/xeluxee/competitest.nvim) ![](https://img.shields.io/github/last-commit/xeluxee/competitest.nvim) ![](https://img.shields.io/github/commit-activity/y/xeluxee/competitest.nvim)
 - [xerbalind/dodona.nvim](https://github.com/xerbalind/dodona.nvim) ![](https://img.shields.io/github/stars/xerbalind/dodona.nvim) ![](https://img.shields.io/github/last-commit/xerbalind/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/xerbalind/dodona.nvim)
 - [eash-d/CPHelper.nvim](https://github.com/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/stars/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/last-commit/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/commit-activity/y/eash-d/CPHelper.nvim)
+- [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/assistant.nvim)
 
 # Technical interviews
 
