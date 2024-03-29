@@ -63,6 +63,7 @@
 - [niuiic/code-shot.nvim](https://github.com/niuiic/code-shot.nvim) ![](https://img.shields.io/github/stars/niuiic/code-shot.nvim) ![](https://img.shields.io/github/last-commit/niuiic/code-shot.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/code-shot.nvim)
 - [AlexXi19/share.nvim](https://github.com/AlexXi19/share.nvim) ![](https://img.shields.io/github/stars/AlexXi19/share.nvim) ![](https://img.shields.io/github/last-commit/AlexXi19/share.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexXi19/share.nvim)
 - [SergioRibera/codeshot.nvim](https://github.com/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/stars/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/last-commit/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/codeshot.nvim)
+- [isabelroses/charm-freeze.nvim](https://github.com/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/stars/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/last-commit/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/isabelroses/charm-freeze.nvim)
 
 ### SVG
 

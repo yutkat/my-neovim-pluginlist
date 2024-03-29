@@ -87,6 +87,7 @@
 - [rgolangh/venkat.nvim](https://github.com/rgolangh/venkat.nvim) ![](https://img.shields.io/github/stars/rgolangh/venkat.nvim) ![](https://img.shields.io/github/last-commit/rgolangh/venkat.nvim) ![](https://img.shields.io/github/commit-activity/y/rgolangh/venkat.nvim)
 - [catgoose/coderunner.nvim](https://github.com/catgoose/coderunner.nvim) ![](https://img.shields.io/github/stars/catgoose/coderunner.nvim) ![](https://img.shields.io/github/last-commit/catgoose/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/coderunner.nvim)
 - [dsieradzki/nvim-runner](https://github.com/dsieradzki/nvim-runner) ![](https://img.shields.io/github/stars/dsieradzki/nvim-runner) ![](https://img.shields.io/github/last-commit/dsieradzki/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/dsieradzki/nvim-runner)
+- [rafaelcl292/run.nvim](https://github.com/rafaelcl292/run.nvim) ![](https://img.shields.io/github/stars/rafaelcl292/run.nvim) ![](https://img.shields.io/github/last-commit/rafaelcl292/run.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelcl292/run.nvim)
 
 ### Shell
 
@@ -165,6 +166,7 @@
 ## Monitor
 
 - [Operdies/gwatch.nvim](https://github.com/Operdies/gwatch.nvim) ![](https://img.shields.io/github/stars/Operdies/gwatch.nvim) ![](https://img.shields.io/github/last-commit/Operdies/gwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Operdies/gwatch.nvim)
+- [Makaze/watch.nvim](https://github.com/Makaze/watch.nvim) ![](https://img.shields.io/github/stars/Makaze/watch.nvim) ![](https://img.shields.io/github/last-commit/Makaze/watch.nvim) ![](https://img.shields.io/github/commit-activity/y/Makaze/watch.nvim)
 
 ## Preset task
 

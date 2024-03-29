@@ -34,6 +34,7 @@
     + [SonarLint](#sonarlint)
     + [Kafka](#kafka)
     + [Dataform](#dataform)
+    + [Nginx](#nginx)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
     + [Ansible](#ansible)
@@ -199,6 +200,10 @@
 #### Dataform
 
 - [magal1337/dataform.nvim](https://github.com/magal1337/dataform.nvim) ![](https://img.shields.io/github/stars/magal1337/dataform.nvim) ![](https://img.shields.io/github/last-commit/magal1337/dataform.nvim) ![](https://img.shields.io/github/commit-activity/y/magal1337/dataform.nvim)
+
+#### Nginx
+
+- [dlvandenberg/nvim-treesitter-nginx](https://github.com/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/stars/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/last-commit/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/commit-activity/y/dlvandenberg/nvim-treesitter-nginx)
 
 ### Cloud
 

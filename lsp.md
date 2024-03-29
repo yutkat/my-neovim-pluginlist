@@ -137,6 +137,7 @@
 - [aznhe21/actions-preview.nvim](https://github.com/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/stars/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/last-commit/aznhe21/actions-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aznhe21/actions-preview.nvim)
 - [luckasRanarison/clear-action.nvim](https://github.com/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/clear-action.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/clear-action.nvim)
 - [llllvvuu/interactive-inlay.nvim](https://github.com/llllvvuu/interactive-inlay.nvim) ![](https://img.shields.io/github/stars/llllvvuu/interactive-inlay.nvim) ![](https://img.shields.io/github/last-commit/llllvvuu/interactive-inlay.nvim) ![](https://img.shields.io/github/commit-activity/y/llllvvuu/interactive-inlay.nvim)
+- [jan-xyz/lsp-preview.nvim](https://github.com/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/stars/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/last-commit/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/jan-xyz/lsp-preview.nvim)
 
 #### Hint
 
