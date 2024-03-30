@@ -69,6 +69,7 @@
 - [ErvinRacz/tmux-interface.nvim](https://github.com/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/stars/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/last-commit/ErvinRacz/tmux-interface.nvim) ![](https://img.shields.io/github/commit-activity/y/ErvinRacz/tmux-interface.nvim)
 - [sanathks/workspace.nvim](https://github.com/sanathks/workspace.nvim) ![](https://img.shields.io/github/stars/sanathks/workspace.nvim) ![](https://img.shields.io/github/last-commit/sanathks/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/workspace.nvim)
 - [winter-again/tmux-send.nvim](https://github.com/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/stars/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/tmux-send.nvim)
+- [MrLys/tmuxp.nvim](https://github.com/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/stars/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/last-commit/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/commit-activity/y/MrLys/tmuxp.nvim)
 
 ##### tmux alternative
 
