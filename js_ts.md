@@ -27,6 +27,7 @@
   * [CSS](#css)
     + [tailwind](#tailwind)
     + [SCSS](#scss)
+    + [pixel size](#pixel-size)
     + [Bulma](#bulma)
   * [Framework](#framework)
     + [React](#react)
@@ -181,6 +182,10 @@
 ##### SCSS
 
 - [SerMeliodas/ecsstractor.nvim](https://github.com/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/stars/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/last-commit/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/commit-activity/y/SerMeliodas/ecsstractor.nvim)
+
+##### pixel size
+
+- [Jsongerber/nvim-px-to-rem](https://github.com/Jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/Jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/Jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/Jsongerber/nvim-px-to-rem)
 
 ##### Bulma
 

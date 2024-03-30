@@ -38,6 +38,7 @@
 - [Febri-i/resurrect.nvim](https://github.com/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/stars/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/last-commit/Febri-i/resurrect.nvim) ![](https://img.shields.io/github/commit-activity/y/Febri-i/resurrect.nvim)
 - [codymikol/multiverse.nvim](https://github.com/codymikol/multiverse.nvim) ![](https://img.shields.io/github/stars/codymikol/multiverse.nvim) ![](https://img.shields.io/github/last-commit/codymikol/multiverse.nvim) ![](https://img.shields.io/github/commit-activity/y/codymikol/multiverse.nvim)
 - [The-Plottwist/nvim-session-manager](https://github.com/The-Plottwist/nvim-session-manager) ![](https://img.shields.io/github/stars/The-Plottwist/nvim-session-manager) ![](https://img.shields.io/github/last-commit/The-Plottwist/nvim-session-manager) ![](https://img.shields.io/github/commit-activity/y/The-Plottwist/nvim-session-manager)
+- [mackeper/SeshMgr.nvim](https://github.com/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/stars/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/last-commit/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/commit-activity/y/mackeper/SeshMgr.nvim)
 
 ## Session Selector
 
