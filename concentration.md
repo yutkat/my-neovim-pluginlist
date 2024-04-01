@@ -7,6 +7,7 @@
 - [Timer](#timer)
 - [Do Not Disturb](#do-not-disturb)
 - [Zen Mode](#zen-mode)
+- [Random Selection](#random-selection)
 
 <!-- tocstop -->
 
@@ -62,3 +63,7 @@
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) ![](https://img.shields.io/github/stars/catgoose/not-zen.nvim) ![](https://img.shields.io/github/last-commit/catgoose/not-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/not-zen.nvim)
 - [SamuelLorrain/focus.nvim](https://github.com/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/stars/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/last-commit/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/SamuelLorrain/focus.nvim)
 - [fasterius/simple-zoom.nvim](https://github.com/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/stars/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/last-commit/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/simple-zoom.nvim)
+
+## Random Selection
+
+- [vorjdux/daily-name-picker.nvim](https://github.com/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/stars/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/last-commit/vorjdux/daily-name-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/vorjdux/daily-name-picker.nvim)

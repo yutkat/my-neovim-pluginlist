@@ -64,10 +64,12 @@
 - [AlexXi19/share.nvim](https://github.com/AlexXi19/share.nvim) ![](https://img.shields.io/github/stars/AlexXi19/share.nvim) ![](https://img.shields.io/github/last-commit/AlexXi19/share.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexXi19/share.nvim)
 - [SergioRibera/codeshot.nvim](https://github.com/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/stars/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/last-commit/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/codeshot.nvim)
 - [isabelroses/charm-freeze.nvim](https://github.com/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/stars/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/last-commit/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/isabelroses/charm-freeze.nvim)
+- [ethanholz/freeze.nvim](https://github.com/ethanholz/freeze.nvim) ![](https://img.shields.io/github/stars/ethanholz/freeze.nvim) ![](https://img.shields.io/github/last-commit/ethanholz/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanholz/freeze.nvim)
 
 ### SVG
 
 - [bennypowers/svgo.nvim](https://github.com/bennypowers/svgo.nvim) ![](https://img.shields.io/github/stars/bennypowers/svgo.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/svgo.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/svgo.nvim)
+- [felipejoribeiro/svgo.nvim](https://github.com/felipejoribeiro/svgo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/svgo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/svgo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/svgo.nvim)
 
 ### Ascii
 

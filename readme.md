@@ -480,6 +480,7 @@
 
 ### Macro
 
+- [tani/dmacro.nvim](https://github.com/tani/dmacro.nvim) ![](https://img.shields.io/github/stars/tani/dmacro.nvim) ![](https://img.shields.io/github/last-commit/tani/dmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/tani/dmacro.nvim)
 - [ecthelionvi/NeoComposer.nvim](https://github.com/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoComposer.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoComposer.nvim)
 - [chrisgrieser/nvim-recorder](https://github.com/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-recorder) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-recorder)
 - [kensleDev/persistent-macros.nvim](https://github.com/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/stars/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/last-commit/kensleDev/persistent-macros.nvim) ![](https://img.shields.io/github/commit-activity/y/kensleDev/persistent-macros.nvim)
@@ -491,6 +492,7 @@
 - [FredTheDino/ma-pur-ma.nvim](https://github.com/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/stars/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/last-commit/FredTheDino/ma-pur-ma.nvim) ![](https://img.shields.io/github/commit-activity/y/FredTheDino/ma-pur-ma.nvim)
 - [kr40/nvim-macros](https://github.com/kr40/nvim-macros) ![](https://img.shields.io/github/stars/kr40/nvim-macros) ![](https://img.shields.io/github/last-commit/kr40/nvim-macros) ![](https://img.shields.io/github/commit-activity/y/kr40/nvim-macros)
 - [alexjercan/macros.nvim](https://github.com/alexjercan/macros.nvim) ![](https://img.shields.io/github/stars/alexjercan/macros.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/macros.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/macros.nvim)
+- [hrsh7th/nvim-automa-poc](https://github.com/hrsh7th/nvim-automa-poc) ![](https://img.shields.io/github/stars/hrsh7th/nvim-automa-poc) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-automa-poc) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-automa-poc)
 
 ### Errorformat
 
@@ -563,6 +565,7 @@
 - [bennypowers/nvim-regexplainer](https://github.com/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/stars/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/last-commit/bennypowers/nvim-regexplainer) ![](https://img.shields.io/github/commit-activity/y/bennypowers/nvim-regexplainer)
 - [tomiis4/Hypersonic.nvim](https://github.com/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/stars/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/Hypersonic.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/Hypersonic.nvim)
 - [jake-stewart/regex-vars.nvim](https://github.com/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/stars/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/regex-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/regex-vars.nvim)
+- [rclawlor/regex-railroad.nvim](https://github.com/rclawlor/regex-railroad.nvim) ![](https://img.shields.io/github/stars/rclawlor/regex-railroad.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/regex-railroad.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/regex-railroad.nvim)
 
 ### Generate documentation
 
@@ -741,6 +744,7 @@
 - [lincore81/zeitraum.nvim](https://github.com/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/stars/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/last-commit/lincore81/zeitraum.nvim) ![](https://img.shields.io/github/commit-activity/y/lincore81/zeitraum.nvim)
 - [wjorden/focus-tracker.nvim](https://github.com/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/stars/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/last-commit/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/wjorden/focus-tracker.nvim)
 - [maorun/timeTrack.nvim](https://github.com/maorun/timeTrack.nvim) ![](https://img.shields.io/github/stars/maorun/timeTrack.nvim) ![](https://img.shields.io/github/last-commit/maorun/timeTrack.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/timeTrack.nvim)
+- [3rd/time-tracker.nvim](https://github.com/3rd/time-tracker.nvim) ![](https://img.shields.io/github/stars/3rd/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/3rd/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/time-tracker.nvim)
 
 #### Typing speed
 
