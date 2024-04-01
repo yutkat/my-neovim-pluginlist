@@ -55,8 +55,6 @@
 
 ### Project Template
 
-- [raphaelladinig/nvim-projectmanager](https://github.com/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/stars/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/last-commit/raphaelladinig/nvim-projectmanager) ![](https://img.shields.io/github/commit-activity/y/raphaelladinig/nvim-projectmanager)
-
 ##### Monorepo
 
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)
