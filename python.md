@@ -18,6 +18,7 @@
   * [Anaconda](#anaconda)
   * [Scrapy](#scrapy)
 - [MicroPython](#micropython)
+- [Quix](#quix)
 
 <!-- tocstop -->
 
@@ -110,3 +111,8 @@
 ### MicroPython
 
 - [Linus187erz/pico-boa.nvim](https://github.com/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/stars/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/last-commit/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/commit-activity/y/Linus187erz/pico-boa.nvim)
+
+### Quix
+
+- [krisajenkins/telescope-quix.nvim](https://github.com/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-quix.nvim)
+

@@ -10,6 +10,7 @@
     + [Taskwarrior](#taskwarrior)
   * [Obsidian](#obsidian)
   * [Google Keep](#google-keep)
+  * [Typst](#typst)
   * [Dendron](#dendron)
   * [Linear.app](#linearapp)
   * [BibleGateway](#biblegateway)
@@ -128,6 +129,10 @@
 ## Google Keep
 
 - [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) ![](https://img.shields.io/github/stars/stevearc/gkeep.nvim) ![](https://img.shields.io/github/last-commit/stevearc/gkeep.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/gkeep.nvim)
+
+## Typst
+
+- [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
 
 ## Dendron
 

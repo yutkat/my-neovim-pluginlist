@@ -10,9 +10,11 @@
       - [Rocks](#rocks)
       - [Live Server](#live-server)
       - [Docstring](#docstring)
+      - [LuaJava](#luajava)
     + [Luau](#luau)
     + [Rust](#rust)
       - [Test](#test)
+      - [Completion](#completion)
     + [Zig](#zig)
     + [Ruby](#ruby)
       - [Gem](#gem)
@@ -54,6 +56,7 @@
     + [Julia](#julia)
     + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
+    + [fish](#fish)
     + [Nushell](#nushell)
     + [PowerShell](#powershell)
     + [F](#f)
@@ -123,6 +126,10 @@
 
 - [WERDXZ/nvim-dox](https://github.com/WERDXZ/nvim-dox) ![](https://img.shields.io/github/stars/WERDXZ/nvim-dox) ![](https://img.shields.io/github/last-commit/WERDXZ/nvim-dox) ![](https://img.shields.io/github/commit-activity/y/WERDXZ/nvim-dox)
 
+#### LuaJava
+
+- [sillydan1/luajava.nvim](https://github.com/sillydan1/luajava.nvim) ![](https://img.shields.io/github/stars/sillydan1/luajava.nvim) ![](https://img.shields.io/github/last-commit/sillydan1/luajava.nvim) ![](https://img.shields.io/github/commit-activity/y/sillydan1/luajava.nvim)
+
 ### Luau
 
 - [lopi-py/luau-lsp.nvim](https://github.com/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/stars/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/last-commit/lopi-py/luau-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/lopi-py/luau-lsp.nvim)
@@ -144,6 +151,10 @@
 
 - [pgherveou/rust-quick-tests.nvim](https://github.com/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/stars/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/last-commit/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/commit-activity/y/pgherveou/rust-quick-tests.nvim)
 - [codersauce/runst.nvim](https://github.com/codersauce/runst.nvim) ![](https://img.shields.io/github/stars/codersauce/runst.nvim) ![](https://img.shields.io/github/last-commit/codersauce/runst.nvim) ![](https://img.shields.io/github/commit-activity/y/codersauce/runst.nvim)
+
+#### Completion
+
+- [zjp-CN/nvim-cmp-lsp-rs](https://github.com/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/stars/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/last-commit/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/commit-activity/y/zjp-CN/nvim-cmp-lsp-rs)
 
 ### Zig
 
@@ -383,6 +394,10 @@
 
 - [Susensio/magic-bang.nvim](https://github.com/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/stars/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/last-commit/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Susensio/magic-bang.nvim)
 - [elentok/scriptify.nvim](https://github.com/elentok/scriptify.nvim) ![](https://img.shields.io/github/stars/elentok/scriptify.nvim) ![](https://img.shields.io/github/last-commit/elentok/scriptify.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/scriptify.nvim)
+
+### fish
+
+- [haolian9/saltedfish.nvim](https://github.com/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/stars/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/last-commit/haolian9/saltedfish.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/saltedfish.nvim)
 
 ### Nushell
 

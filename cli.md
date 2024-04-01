@@ -86,6 +86,7 @@
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
+- [krisajenkins/telescope-docker.nvim](https://github.com/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-docker.nvim)
 
 ##### Docker Compose
 
