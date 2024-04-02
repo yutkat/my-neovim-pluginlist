@@ -52,6 +52,7 @@
 ### Screen Key
 
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/keys.nvim)
+- [4513ECHO/nvim-keycastr](https://github.com/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/stars/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/last-commit/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/commit-activity/y/4513ECHO/nvim-keycastr)
 
 #### Code Image
 

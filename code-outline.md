@@ -30,6 +30,7 @@
 - [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee-calltree.nvim)
 - [prasy-loyola/call-tree.nvim](https://github.com/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/stars/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/last-commit/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/prasy-loyola/call-tree.nvim)
 - [kontura/trails.nvim](https://github.com/kontura/trails.nvim) ![](https://img.shields.io/github/stars/kontura/trails.nvim) ![](https://img.shields.io/github/last-commit/kontura/trails.nvim) ![](https://img.shields.io/github/commit-activity/y/kontura/trails.nvim)
+- [emmanueltouzery/code-compass.nvim](https://github.com/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/code-compass.nvim)
 
 ### Type Hierarchy
 

@@ -39,6 +39,7 @@
 - [9yokuro/afmt.nvim](https://github.com/9yokuro/afmt.nvim) ![](https://img.shields.io/github/stars/9yokuro/afmt.nvim) ![](https://img.shields.io/github/last-commit/9yokuro/afmt.nvim) ![](https://img.shields.io/github/commit-activity/y/9yokuro/afmt.nvim)
 - [nazo6/format-order.nvim](https://github.com/nazo6/format-order.nvim) ![](https://img.shields.io/github/stars/nazo6/format-order.nvim) ![](https://img.shields.io/github/last-commit/nazo6/format-order.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/format-order.nvim)
 - [mistweaverco/umbizo.nvim](https://github.com/mistweaverco/umbizo.nvim) ![](https://img.shields.io/github/stars/mistweaverco/umbizo.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/umbizo.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/umbizo.nvim)
+- [groteck/order-of-formatters.nvim](https://github.com/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/stars/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/last-commit/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/commit-activity/y/groteck/order-of-formatters.nvim)
 
 ### Trim Whitespace
 

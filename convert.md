@@ -56,6 +56,7 @@
 - [methanius/treesitter_home_tools.nvim](https://github.com/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/stars/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/last-commit/methanius/treesitter_home_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/methanius/treesitter_home_tools.nvim)
 - [tobser/btoggle.nvim](https://github.com/tobser/btoggle.nvim) ![](https://img.shields.io/github/stars/tobser/btoggle.nvim) ![](https://img.shields.io/github/last-commit/tobser/btoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/tobser/btoggle.nvim)
 - [polirritmico/simple-boolean-toggle.nvim](https://github.com/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/stars/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/last-commit/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/polirritmico/simple-boolean-toggle.nvim)
+- [hugo-berendi/srr.nvim](https://github.com/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/stars/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/last-commit/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/commit-activity/y/hugo-berendi/srr.nvim)
 
 ### Base64
 
