@@ -38,6 +38,7 @@
 - [Prefab](#prefab)
 - [CI](#ci)
   * [CircleCI](#circleci)
+  * [Nx](#nx)
   * [Jenkins](#jenkins)
 
 <!-- tocstop -->
@@ -205,6 +206,10 @@
 #### CircleCI
 
 - [tomoakley/circleci.nvim](https://github.com/tomoakley/circleci.nvim) ![](https://img.shields.io/github/stars/tomoakley/circleci.nvim) ![](https://img.shields.io/github/last-commit/tomoakley/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/tomoakley/circleci.nvim)
+
+#### Nx
+
+- [andtankian/nxtest.nvim](https://github.com/andtankian/nxtest.nvim) ![](https://img.shields.io/github/stars/andtankian/nxtest.nvim) ![](https://img.shields.io/github/last-commit/andtankian/nxtest.nvim) ![](https://img.shields.io/github/commit-activity/y/andtankian/nxtest.nvim)
 
 #### Jenkins
 

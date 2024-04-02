@@ -193,6 +193,7 @@
 - [mgnsk/autotabline.nvim](https://github.com/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/stars/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/autotabline.nvim)
 - [nathanberry97/dumbtab.nvim](https://github.com/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtab.nvim)
 - [eliseshaffer/tableau.nvim](https://github.com/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/stars/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/last-commit/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/commit-activity/y/eliseshaffer/tableau.nvim)
+- [mnjm/topline.nvim](https://github.com/mnjm/topline.nvim) ![](https://img.shields.io/github/stars/mnjm/topline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/topline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/topline.nvim)
 
 ### winbar
 

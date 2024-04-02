@@ -60,6 +60,7 @@
 - [tadmccorkle/markdown.nvim](https://github.com/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/stars/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/last-commit/tadmccorkle/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/tadmccorkle/markdown.nvim)
 - [MeanderingProgrammer/markdown.nvim](https://github.com/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/markdown.nvim)
 - [MarcusSimonsen/ride.nvim](https://github.com/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/stars/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/last-commit/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcusSimonsen/ride.nvim)
+- [ray-x/mkdn.nvim](https://github.com/ray-x/mkdn.nvim) ![](https://img.shields.io/github/stars/ray-x/mkdn.nvim) ![](https://img.shields.io/github/last-commit/ray-x/mkdn.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/mkdn.nvim)
 
 #### Markdown link
 
