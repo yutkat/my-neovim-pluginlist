@@ -74,6 +74,7 @@
     + [Moonscript](#moonscript)
     + [Haxe](#haxe)
     + [Kind](#kind)
+    + [K](#k)
     + [Coq](#coq)
     + [MatLab](#matlab)
     + [Cell](#cell)
@@ -208,6 +209,7 @@
 - [ta-tikoma/php.easy.nvim](https://github.com/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/stars/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/last-commit/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/commit-activity/y/ta-tikoma/php.easy.nvim)
 - [RicardoRamirezR/php-use-sort.nvim](https://github.com/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-use-sort.nvim)
 - [praem90/neotest-docker-phpunit.nvim](https://github.com/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/stars/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/last-commit/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/neotest-docker-phpunit.nvim)
+- [RVxLab/php-composer.nvim](https://github.com/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/stars/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/last-commit/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/commit-activity/y/RVxLab/php-composer.nvim)
 
 #### Live server
 
@@ -467,6 +469,10 @@
 ### Kind
 
 - [HigherOrderCO/Kind.nvim](https://github.com/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/stars/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/last-commit/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/commit-activity/y/HigherOrderCO/Kind.nvim)
+
+### K
+
+- [RKBethke/k.nvim](https://github.com/RKBethke/k.nvim) ![](https://img.shields.io/github/stars/RKBethke/k.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/k.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/k.nvim)
 
 ### Coq
 

@@ -70,6 +70,7 @@
 - [sanathks/workspace.nvim](https://github.com/sanathks/workspace.nvim) ![](https://img.shields.io/github/stars/sanathks/workspace.nvim) ![](https://img.shields.io/github/last-commit/sanathks/workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/workspace.nvim)
 - [winter-again/tmux-send.nvim](https://github.com/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/stars/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/tmux-send.nvim)
 - [MrLys/tmuxp.nvim](https://github.com/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/stars/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/last-commit/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/commit-activity/y/MrLys/tmuxp.nvim)
+- [HadiModarres/repo-tmux.nvim](https://github.com/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/stars/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/last-commit/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/HadiModarres/repo-tmux.nvim)
 
 ##### tmux alternative
 
