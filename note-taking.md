@@ -109,6 +109,7 @@
 ### Taskwarrior
 
 - [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim) ![](https://img.shields.io/github/stars/hugginsio/twig.nvim) ![](https://img.shields.io/github/last-commit/hugginsio/twig.nvim) ![](https://img.shields.io/github/commit-activity/y/hugginsio/twig.nvim)
+- [huantrinh1802/m_taskwarrior_d.nvim](https://github.com/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/stars/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/last-commit/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/commit-activity/y/huantrinh1802/m_taskwarrior_d.nvim)
 
 ## Obsidian
 
