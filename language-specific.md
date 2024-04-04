@@ -323,7 +323,6 @@
 - [mskelton/flutter.nvim](https://github.com/mskelton/flutter.nvim) ![](https://img.shields.io/github/stars/mskelton/flutter.nvim) ![](https://img.shields.io/github/last-commit/mskelton/flutter.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/flutter.nvim)
 - [RobertPietraru/bloc.nvim](https://github.com/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/stars/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/last-commit/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertPietraru/bloc.nvim)
 - [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/stars/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/last-commit/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertBrunhage/dart-tools.nvim)
-- [gcanoxl/dart-const-organizer.nvim](https://github.com/gcanoxl/dart-const-organizer.nvim) ![](https://img.shields.io/github/stars/gcanoxl/dart-const-organizer.nvim) ![](https://img.shields.io/github/last-commit/gcanoxl/dart-const-organizer.nvim) ![](https://img.shields.io/github/commit-activity/y/gcanoxl/dart-const-organizer.nvim)
 - [wa11breaker/flutter-bloc.nvim](https://github.com/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/stars/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/last-commit/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/wa11breaker/flutter-bloc.nvim)
 
 ### Clojure
