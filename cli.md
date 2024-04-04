@@ -88,6 +88,7 @@
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
 - [krisajenkins/telescope-docker.nvim](https://github.com/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-docker.nvim)
+- [antonioanerao/dockerimages.nvim](https://github.com/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/stars/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/last-commit/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/commit-activity/y/antonioanerao/dockerimages.nvim)
 
 ##### Docker Compose
 
@@ -184,6 +185,7 @@
 - [Cozidian/nvim-dotnet-cli](https://github.com/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/stars/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/last-commit/Cozidian/nvim-dotnet-cli) ![](https://img.shields.io/github/commit-activity/y/Cozidian/nvim-dotnet-cli)
 - [Spycemyster/dotnet-goto.nvim](https://github.com/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/stars/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/last-commit/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/Spycemyster/dotnet-goto.nvim)
 - [Tornjk/dotnet.nvim](https://github.com/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/stars/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/last-commit/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/Tornjk/dotnet.nvim)
+- [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-dotnet.nvim)
 
 #### ftp
 
