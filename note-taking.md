@@ -126,6 +126,7 @@
 - [seibs/obsidian-logbook.nvim](https://github.com/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/stars/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/last-commit/seibs/obsidian-logbook.nvim) ![](https://img.shields.io/github/commit-activity/y/seibs/obsidian-logbook.nvim)
 - [mimikun/silhouette.nvim](https://github.com/mimikun/silhouette.nvim) ![](https://img.shields.io/github/stars/mimikun/silhouette.nvim) ![](https://img.shields.io/github/last-commit/mimikun/silhouette.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/silhouette.nvim)
 - [magnusblondal/hux.nvim](https://github.com/magnusblondal/hux.nvim) ![](https://img.shields.io/github/stars/magnusblondal/hux.nvim) ![](https://img.shields.io/github/last-commit/magnusblondal/hux.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusblondal/hux.nvim)
+- [when-harry-met-sally/obsidian-plus.nvim](https://github.com/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/stars/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/last-commit/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/when-harry-met-sally/obsidian-plus.nvim)
 
 ## Google Keep
 
