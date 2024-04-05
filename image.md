@@ -66,6 +66,7 @@
 - [SergioRibera/codeshot.nvim](https://github.com/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/stars/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/last-commit/SergioRibera/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/codeshot.nvim)
 - [isabelroses/charm-freeze.nvim](https://github.com/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/stars/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/last-commit/isabelroses/charm-freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/isabelroses/charm-freeze.nvim)
 - [ethanholz/freeze.nvim](https://github.com/ethanholz/freeze.nvim) ![](https://img.shields.io/github/stars/ethanholz/freeze.nvim) ![](https://img.shields.io/github/last-commit/ethanholz/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanholz/freeze.nvim)
+- [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) ![](https://img.shields.io/github/stars/mistricky/codesnap.nvim) ![](https://img.shields.io/github/last-commit/mistricky/codesnap.nvim) ![](https://img.shields.io/github/commit-activity/y/mistricky/codesnap.nvim)
 
 ### SVG
 
