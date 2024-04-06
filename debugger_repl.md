@@ -65,6 +65,7 @@
 - [almahoozi/repl.nvim](https://github.com/almahoozi/repl.nvim) ![](https://img.shields.io/github/stars/almahoozi/repl.nvim) ![](https://img.shields.io/github/last-commit/almahoozi/repl.nvim) ![](https://img.shields.io/github/commit-activity/y/almahoozi/repl.nvim)
 - [matarina/nvim_ds_repl](https://github.com/matarina/nvim_ds_repl) ![](https://img.shields.io/github/stars/matarina/nvim_ds_repl) ![](https://img.shields.io/github/last-commit/matarina/nvim_ds_repl) ![](https://img.shields.io/github/commit-activity/y/matarina/nvim_ds_repl)
 - [amsesk/toggleterm-repl.nvim](https://github.com/amsesk/toggleterm-repl.nvim) ![](https://img.shields.io/github/stars/amsesk/toggleterm-repl.nvim) ![](https://img.shields.io/github/last-commit/amsesk/toggleterm-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/amsesk/toggleterm-repl.nvim)
+- [azr4e1/easyREPL.nvim](https://github.com/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/stars/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/last-commit/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/commit-activity/y/azr4e1/easyREPL.nvim)
 
 ### Refactoring,Debugging
 

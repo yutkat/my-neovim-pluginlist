@@ -34,6 +34,7 @@
   * [git utils](#git-utils)
   * [Contribution](#contribution)
   * [flow](#flow)
+- [Jujutsu(jj)](#jujutsujj)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
   * [GitHub tweaks](#github-tweaks)
@@ -242,6 +243,10 @@
 ## flow
 
 - [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
+
+# Jujutsu(jj)
+
+- [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
 
 # GitHub
 

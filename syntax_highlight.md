@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Highlight](#highlight)
+  * [Delimiter](#delimiter)
   * [Arguments](#arguments)
   * [URL](#url)
 - [Syntax](#syntax)
@@ -30,7 +31,6 @@
 ## Highlight
 
 - [Pocco81/HighStr.nvim](https://github.com/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/stars/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/last-commit/Pocco81/HighStr.nvim) ![](https://img.shields.io/github/commit-activity/y/Pocco81/HighStr.nvim)
-- [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
 - [HiPhish/rainbow-delimiters.nvim](https://github.com/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/stars/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/rainbow-delimiters.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/rainbow-delimiters.nvim)
 - [winston0410/range-highlight.nvim](https://github.com/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/stars/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/last-commit/winston0410/range-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/range-highlight.nvim)
 - [ivyl/highlight-annotate.nvim](https://github.com/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/stars/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/last-commit/ivyl/highlight-annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/ivyl/highlight-annotate.nvim)
@@ -39,6 +39,11 @@
 - [JosefLitos/reform.nvim](https://github.com/JosefLitos/reform.nvim) ![](https://img.shields.io/github/stars/JosefLitos/reform.nvim) ![](https://img.shields.io/github/last-commit/JosefLitos/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLitos/reform.nvim)
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
 - [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
+
+### Delimiter
+
+- [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
+- [eliezerlobaton/nvim-ts-rainbow-eliezer](https://github.com/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/stars/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/last-commit/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/commit-activity/y/eliezerlobaton/nvim-ts-rainbow-eliezer)
 
 ### Arguments
 
@@ -69,6 +74,7 @@
 - [neph-iap/easycolor.nvim](https://github.com/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/stars/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/easycolor.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/easycolor.nvim)
 - [roycrippen4/colors.nvim](https://github.com/roycrippen4/colors.nvim) ![](https://img.shields.io/github/stars/roycrippen4/colors.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/colors.nvim)
 - [Omixxx/pastelli.nvim](https://github.com/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/stars/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/last-commit/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/commit-activity/y/Omixxx/pastelli.nvim)
+- [kolja/loriini.nvim](https://github.com/kolja/loriini.nvim) ![](https://img.shields.io/github/stars/kolja/loriini.nvim) ![](https://img.shields.io/github/last-commit/kolja/loriini.nvim) ![](https://img.shields.io/github/commit-activity/y/kolja/loriini.nvim)
 
 ### ANSI Colorize
 
