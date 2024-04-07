@@ -22,6 +22,7 @@
     + [fish](#fish)
     + [nushell](#nushell)
   * [GUI](#gui)
+    + [Blender](#blender)
     + [Avalonia](#avalonia)
     + [Stata](#stata)
   * [Terminal](#terminal)
@@ -148,6 +149,10 @@
 - [zioroboco/nu-ls.nvim](https://github.com/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/stars/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/last-commit/zioroboco/nu-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/zioroboco/nu-ls.nvim)
 
 ### GUI
+
+#### Blender
+
+- [b0o/blender.nvim](https://github.com/b0o/blender.nvim) ![](https://img.shields.io/github/stars/b0o/blender.nvim) ![](https://img.shields.io/github/last-commit/b0o/blender.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/blender.nvim)
 
 #### Avalonia
 

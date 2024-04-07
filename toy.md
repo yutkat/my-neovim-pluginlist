@@ -177,6 +177,7 @@
 ### Animation
 
 - [Derrekito/nvim-type-anim](https://github.com/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/stars/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/last-commit/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/nvim-type-anim)
+- [tjfehdgns1/bongocat.nvim](https://github.com/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/stars/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/last-commit/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/commit-activity/y/tjfehdgns1/bongocat.nvim)
 
 ### Type sound
 
