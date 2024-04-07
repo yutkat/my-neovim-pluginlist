@@ -73,6 +73,7 @@
 - [UncertainSchrodinger/git-worktree.nvim](https://github.com/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/stars/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/UncertainSchrodinger/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/UncertainSchrodinger/git-worktree.nvim)
 - [paulo-granthon/agitate.nvim](https://github.com/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/stars/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/last-commit/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/commit-activity/y/paulo-granthon/agitate.nvim)
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/stars/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/fugit2.nvim)
+- [rmassaroni/nvim-gpush](https://github.com/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/stars/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/last-commit/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/commit-activity/y/rmassaroni/nvim-gpush)
 
 ## gitui
 

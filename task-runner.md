@@ -89,6 +89,7 @@
 - [dsieradzki/nvim-runner](https://github.com/dsieradzki/nvim-runner) ![](https://img.shields.io/github/stars/dsieradzki/nvim-runner) ![](https://img.shields.io/github/last-commit/dsieradzki/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/dsieradzki/nvim-runner)
 - [rafaelcl292/run.nvim](https://github.com/rafaelcl292/run.nvim) ![](https://img.shields.io/github/stars/rafaelcl292/run.nvim) ![](https://img.shields.io/github/last-commit/rafaelcl292/run.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelcl292/run.nvim)
 - [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/stars/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/last-commit/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/do-the-needful.nvim)
+- [cultab/command.nvim](https://github.com/cultab/command.nvim) ![](https://img.shields.io/github/stars/cultab/command.nvim) ![](https://img.shields.io/github/last-commit/cultab/command.nvim) ![](https://img.shields.io/github/commit-activity/y/cultab/command.nvim)
 
 ### Shell
 

@@ -169,6 +169,7 @@
 - [swaits/scratch.nvim](https://github.com/swaits/scratch.nvim) ![](https://img.shields.io/github/stars/swaits/scratch.nvim) ![](https://img.shields.io/github/last-commit/swaits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/scratch.nvim)
 - [CoderJoshDK/playground.nvim](https://github.com/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/stars/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/last-commit/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderJoshDK/playground.nvim)
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
+- [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
 
 ## inline note
 
