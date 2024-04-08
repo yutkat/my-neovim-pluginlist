@@ -105,6 +105,7 @@
 - [backdround/global-note.nvim](https://github.com/backdround/global-note.nvim) ![](https://img.shields.io/github/stars/backdround/global-note.nvim) ![](https://img.shields.io/github/last-commit/backdround/global-note.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/global-note.nvim)
 - [eliasCVII/timew.nvim](https://github.com/eliasCVII/timew.nvim) ![](https://img.shields.io/github/stars/eliasCVII/timew.nvim) ![](https://img.shields.io/github/last-commit/eliasCVII/timew.nvim) ![](https://img.shields.io/github/commit-activity/y/eliasCVII/timew.nvim)
 - [Ausbxuse/capture.nvim](https://github.com/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/stars/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/last-commit/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausbxuse/capture.nvim)
+- [devidw/anxtgo.nvim](https://github.com/devidw/anxtgo.nvim) ![](https://img.shields.io/github/stars/devidw/anxtgo.nvim) ![](https://img.shields.io/github/last-commit/devidw/anxtgo.nvim) ![](https://img.shields.io/github/commit-activity/y/devidw/anxtgo.nvim)
 
 ### Taskwarrior
 

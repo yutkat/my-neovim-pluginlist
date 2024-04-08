@@ -70,6 +70,7 @@
   * [CWD](#cwd)
   * [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
   * [ftplugin](#ftplugin)
+  * [filetype](#filetype)
     + [filetype colorscheme](#filetype-colorscheme)
   * [Encoding](#encoding)
   * [Macro](#macro)
@@ -472,6 +473,10 @@
 ### ftplugin
 
 - [prichrd/ftconf.nvim](https://github.com/prichrd/ftconf.nvim) ![](https://img.shields.io/github/stars/prichrd/ftconf.nvim) ![](https://img.shields.io/github/last-commit/prichrd/ftconf.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/ftconf.nvim)
+
+### filetype
+
+- [rtalexk/telescope-filetypes.nvim](https://github.com/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/stars/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/last-commit/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/commit-activity/y/rtalexk/telescope-filetypes.nvim)
 
 #### filetype colorscheme
 
