@@ -10,6 +10,7 @@
   * [Nostr](#nostr)
   * [Notion](#notion)
   * [Gmail](#gmail)
+  * [WhatsApp](#whatsapp)
   * [Jira](#jira)
   * [Confluence](#confluence)
   * [Linear](#linear)
@@ -58,6 +59,7 @@
 - [lpturmel/discord.nvim](https://github.com/lpturmel/discord.nvim) ![](https://img.shields.io/github/stars/lpturmel/discord.nvim) ![](https://img.shields.io/github/last-commit/lpturmel/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/lpturmel/discord.nvim)
 - [circles-00/nvim-discord-status](https://github.com/circles-00/nvim-discord-status) ![](https://img.shields.io/github/stars/circles-00/nvim-discord-status) ![](https://img.shields.io/github/last-commit/circles-00/nvim-discord-status) ![](https://img.shields.io/github/commit-activity/y/circles-00/nvim-discord-status)
 - [reblast/cord.nvim](https://github.com/reblast/cord.nvim) ![](https://img.shields.io/github/stars/reblast/cord.nvim) ![](https://img.shields.io/github/last-commit/reblast/cord.nvim) ![](https://img.shields.io/github/commit-activity/y/reblast/cord.nvim)
+- [Dekr0/richpresence.nvim](https://github.com/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/stars/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/last-commit/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/Dekr0/richpresence.nvim)
 
 #### Slack
 
@@ -80,6 +82,10 @@
 #### Gmail
 
 - [ogomezba/nvim-gmail](https://github.com/ogomezba/nvim-gmail) ![](https://img.shields.io/github/stars/ogomezba/nvim-gmail) ![](https://img.shields.io/github/last-commit/ogomezba/nvim-gmail) ![](https://img.shields.io/github/commit-activity/y/ogomezba/nvim-gmail)
+
+#### WhatsApp
+
+- [alcidesbsilvaneto/nvim-whatsapp](https://github.com/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/stars/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/last-commit/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/commit-activity/y/alcidesbsilvaneto/nvim-whatsapp)
 
 #### Jira
 
