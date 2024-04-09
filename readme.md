@@ -203,6 +203,7 @@
 - [aktersnurra/minibar.nvim](https://github.com/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/stars/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/last-commit/aktersnurra/minibar.nvim) ![](https://img.shields.io/github/commit-activity/y/aktersnurra/minibar.nvim)
 - [Alighorab/winbar.nvim](https://github.com/Alighorab/winbar.nvim) ![](https://img.shields.io/github/stars/Alighorab/winbar.nvim) ![](https://img.shields.io/github/last-commit/Alighorab/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Alighorab/winbar.nvim)
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) ![](https://img.shields.io/github/stars/fgheng/winbar.nvim) ![](https://img.shields.io/github/last-commit/fgheng/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/fgheng/winbar.nvim)
+- [mnjm/winline.nvim](https://github.com/mnjm/winline.nvim) ![](https://img.shields.io/github/stars/mnjm/winline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/winline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/winline.nvim)
 
 ### statuscolumn
 
@@ -322,6 +323,7 @@
 - [monkoose/matchparen.nvim](https://github.com/monkoose/matchparen.nvim) ![](https://img.shields.io/github/stars/monkoose/matchparen.nvim) ![](https://img.shields.io/github/last-commit/monkoose/matchparen.nvim) ![](https://img.shields.io/github/commit-activity/y/monkoose/matchparen.nvim)
 - [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) ![](https://img.shields.io/github/stars/utilyre/sentiment.nvim) ![](https://img.shields.io/github/last-commit/utilyre/sentiment.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/sentiment.nvim)
+- [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
 
 ### [Convert](./convert.md)
 
@@ -699,6 +701,7 @@
 - [KingMichaelPark/age.nvim](https://github.com/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/stars/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/last-commit/KingMichaelPark/age.nvim) ![](https://img.shields.io/github/commit-activity/y/KingMichaelPark/age.nvim)
 - [bgaillard/readonly.nvim](https://github.com/bgaillard/readonly.nvim) ![](https://img.shields.io/github/stars/bgaillard/readonly.nvim) ![](https://img.shields.io/github/last-commit/bgaillard/readonly.nvim) ![](https://img.shields.io/github/commit-activity/y/bgaillard/readonly.nvim)
 - [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/DevSecInspect.nvim)
+- [michaelPotter/secure-settings.nvim](https://github.com/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/stars/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/secure-settings.nvim)
 
 #### Privacy
 
