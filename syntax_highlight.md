@@ -43,7 +43,6 @@
 ### Delimiter
 
 - [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
-- [eliezerlobaton/nvim-ts-rainbow-eliezer](https://github.com/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/stars/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/last-commit/eliezerlobaton/nvim-ts-rainbow-eliezer) ![](https://img.shields.io/github/commit-activity/y/eliezerlobaton/nvim-ts-rainbow-eliezer)
 
 ### Arguments
 

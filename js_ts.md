@@ -229,7 +229,6 @@
 
 ##### Bun
 
-- [Fire-The-Fox/bun.nvim](https://github.com/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/stars/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/last-commit/Fire-The-Fox/bun.nvim) ![](https://img.shields.io/github/commit-activity/y/Fire-The-Fox/bun.nvim)
 
 ##### Bootstrap
 
