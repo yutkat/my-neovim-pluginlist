@@ -7,6 +7,7 @@
   * [HTTP Request](#http-request)
   * [mkdir](#mkdir)
   * [sort](#sort)
+  * [make](#make)
   * [Redirect to scratch buffer](#redirect-to-scratch-buffer)
   * [Shell Command](#shell-command)
     + [sudo](#sudo)
@@ -49,6 +50,10 @@
 - [haolian9/sortrequires.nvim](https://github.com/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/stars/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sortrequires.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sortrequires.nvim)
 - [maskudo/bharyang.nvim](https://github.com/maskudo/bharyang.nvim) ![](https://img.shields.io/github/stars/maskudo/bharyang.nvim) ![](https://img.shields.io/github/last-commit/maskudo/bharyang.nvim) ![](https://img.shields.io/github/commit-activity/y/maskudo/bharyang.nvim)
 - [stonemaster/import-sort.nvim](https://github.com/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/stars/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/last-commit/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/stonemaster/import-sort.nvim)
+
+### make
+
+- [segcore/build-selector.nvim](https://github.com/segcore/build-selector.nvim) ![](https://img.shields.io/github/stars/segcore/build-selector.nvim) ![](https://img.shields.io/github/last-commit/segcore/build-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/segcore/build-selector.nvim)
 
 ### Redirect to scratch buffer
 
