@@ -74,6 +74,7 @@
 - [roycrippen4/colors.nvim](https://github.com/roycrippen4/colors.nvim) ![](https://img.shields.io/github/stars/roycrippen4/colors.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/colors.nvim)
 - [Omixxx/pastelli.nvim](https://github.com/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/stars/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/last-commit/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/commit-activity/y/Omixxx/pastelli.nvim)
 - [kolja/loriini.nvim](https://github.com/kolja/loriini.nvim) ![](https://img.shields.io/github/stars/kolja/loriini.nvim) ![](https://img.shields.io/github/last-commit/kolja/loriini.nvim) ![](https://img.shields.io/github/commit-activity/y/kolja/loriini.nvim)
+- [petraszd/telescope-file-colors.nvim](https://github.com/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/stars/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/last-commit/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/petraszd/telescope-file-colors.nvim)
 
 ### ANSI Colorize
 

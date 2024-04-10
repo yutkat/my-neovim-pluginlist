@@ -55,6 +55,7 @@
 - [mitubaEX/toggle_go_test_file.nvim](https://github.com/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/stars/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/toggle_go_test_file.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/toggle_go_test_file.nvim)
 - [jamespixovr/pixovr.nvim](https://github.com/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/stars/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/last-commit/jamespixovr/pixovr.nvim) ![](https://img.shields.io/github/commit-activity/y/jamespixovr/pixovr.nvim)
 - [rzauls/checkmark.nvim](https://github.com/rzauls/checkmark.nvim) ![](https://img.shields.io/github/stars/rzauls/checkmark.nvim) ![](https://img.shields.io/github/last-commit/rzauls/checkmark.nvim) ![](https://img.shields.io/github/commit-activity/y/rzauls/checkmark.nvim)
+- [jborkows/gotest.nvim](https://github.com/jborkows/gotest.nvim) ![](https://img.shields.io/github/stars/jborkows/gotest.nvim) ![](https://img.shields.io/github/last-commit/jborkows/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/jborkows/gotest.nvim)
 
 ### struct
 
