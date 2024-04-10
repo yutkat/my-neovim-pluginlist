@@ -36,6 +36,7 @@
 - [mfussenegger/nvim-overfly](https://github.com/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/stars/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-overfly) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-overfly)
 - [lumiknit/alty-keys.nvim](https://github.com/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/stars/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/last-commit/lumiknit/alty-keys.nvim) ![](https://img.shields.io/github/commit-activity/y/lumiknit/alty-keys.nvim)
 - [drybalka/clean.nvim](https://github.com/drybalka/clean.nvim) ![](https://img.shields.io/github/stars/drybalka/clean.nvim) ![](https://img.shields.io/github/last-commit/drybalka/clean.nvim) ![](https://img.shields.io/github/commit-activity/y/drybalka/clean.nvim)
+- [tummetott/unimpaired.nvim](https://github.com/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/stars/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/last-commit/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/unimpaired.nvim)
 
 ## callback
 
