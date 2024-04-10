@@ -10,7 +10,8 @@
   * [Emacs style](#emacs-style)
   * [nnn wrapper](#nnn-wrapper)
   * [ranger](#ranger)
-  * [yazi](#yazi)
+    + [Joshuto](#joshuto)
+    + [yazi](#yazi)
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
   * [broot](#broot)
@@ -111,7 +112,9 @@
 - [Kicamon/ranger.nvim](https://github.com/Kicamon/ranger.nvim) ![](https://img.shields.io/github/stars/Kicamon/ranger.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/ranger.nvim)
 - [LunarLambda/nvim-vranger](https://github.com/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/stars/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/last-commit/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/nvim-vranger)
 
-## yazi
+### Joshuto
+
+### yazi
 
 - [SR-MyStar/yazi.nvim](https://github.com/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/yazi.nvim)
 

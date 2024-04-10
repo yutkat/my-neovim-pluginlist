@@ -10,6 +10,7 @@
   * [add](#add)
   * [Lazy load](#lazy-load)
   * [Plugin Config](#plugin-config)
+  * [Switch](#switch)
   * [Open README](#open-readme)
 
 <!-- tocstop -->
@@ -63,6 +64,10 @@
 ### Plugin Config
 
 - [marco-souza/ncm.nvim](https://github.com/marco-souza/ncm.nvim) ![](https://img.shields.io/github/stars/marco-souza/ncm.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ncm.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ncm.nvim)
+
+### Switch
+
+- [azatakmyradov/easyswitch.nvim](https://github.com/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/stars/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/last-commit/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/azatakmyradov/easyswitch.nvim)
 
 ### Open README
 
