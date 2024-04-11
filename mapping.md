@@ -5,6 +5,7 @@
 - [Keymap](#keymap)
   * [callback](#callback)
   * [Bracket](#bracket)
+  * [Remap](#remap)
   * [Mapping search](#mapping-search)
   * [Show assigned](#show-assigned)
   * [Prefix Key Binding](#prefix-key-binding)
@@ -45,6 +46,10 @@
 ## Bracket
 
 - [echasnovski/mini.bracketed](https://github.com/echasnovski/mini.bracketed) ![](https://img.shields.io/github/stars/echasnovski/mini.bracketed) ![](https://img.shields.io/github/last-commit/echasnovski/mini.bracketed) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.bracketed)
+
+## Remap
+
+- [codescovery/lazy-remap.nvim](https://github.com/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/stars/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/last-commit/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/commit-activity/y/codescovery/lazy-remap.nvim)
 
 ## Mapping search
 

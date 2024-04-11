@@ -11,6 +11,8 @@
     + [Code Image](#code-image)
   * [SVG](#svg)
   * [Ascii](#ascii)
+  * [Graph](#graph)
+    + [graphedit](#graphedit)
   * [Sixel](#sixel)
   * [Illustrate](#illustrate)
 
@@ -81,6 +83,12 @@
 - [ColaMint/pokemon.nvim](https://github.com/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/stars/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/last-commit/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/ColaMint/pokemon.nvim)
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/render.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/render.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/render.nvim)
 - [Jeansidharta/ascii-image.nvim](https://github.com/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/ascii-image.nvim)
+
+### Graph
+
+#### graphedit
+
+- [sillydan1/graphedit](https://github.com/sillydan1/graphedit) ![](https://img.shields.io/github/stars/sillydan1/graphedit) ![](https://img.shields.io/github/last-commit/sillydan1/graphedit) ![](https://img.shields.io/github/commit-activity/y/sillydan1/graphedit)
 
 ### Sixel
 

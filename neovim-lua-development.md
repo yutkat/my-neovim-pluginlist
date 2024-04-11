@@ -126,6 +126,7 @@
 ## FFI
 
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) ![](https://img.shields.io/github/stars/noib3/nvim-oxi) ![](https://img.shields.io/github/last-commit/noib3/nvim-oxi) ![](https://img.shields.io/github/commit-activity/y/noib3/nvim-oxi)
+- [Norlock/nvim-traveller-rs](https://github.com/Norlock/nvim-traveller-rs) ![](https://img.shields.io/github/stars/Norlock/nvim-traveller-rs) ![](https://img.shields.io/github/last-commit/Norlock/nvim-traveller-rs) ![](https://img.shields.io/github/commit-activity/y/Norlock/nvim-traveller-rs)
 
 ## Colorscheme Creation
 
