@@ -257,6 +257,7 @@
 - [devinjc213/sfdeez.nvim](https://github.com/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/stars/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/last-commit/devinjc213/sfdeez.nvim) ![](https://img.shields.io/github/commit-activity/y/devinjc213/sfdeez.nvim)
 - [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/stars/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/last-commit/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/commit-activity/y/jonathanmorris180/salesforce.nvim)
 - [KanesAccount/lazysf.nvim](https://github.com/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/stars/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/last-commit/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/commit-activity/y/KanesAccount/lazysf.nvim)
+- [julihermes/sfm-focus.nvim](https://github.com/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/stars/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/last-commit/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/julihermes/sfm-focus.nvim)
 
 #### dbt
 
