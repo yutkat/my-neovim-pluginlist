@@ -22,7 +22,6 @@
 ### Cursor Position
 
 - [vladdoster/remember.nvim](https://github.com/vladdoster/remember.nvim) ![](https://img.shields.io/github/stars/vladdoster/remember.nvim) ![](https://img.shields.io/github/last-commit/vladdoster/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/vladdoster/remember.nvim)
-- [ecthelionvi/NeoView.nvim](https://github.com/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoView.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoView.nvim)
 - [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
 - [Myzel394/telescope-last-positions.nvim](https://github.com/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/stars/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/telescope-last-positions.nvim)
 
