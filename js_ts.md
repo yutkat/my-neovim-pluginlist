@@ -241,5 +241,3 @@
 
 ##### mjml
 
-- [ec965/mjml-preview.nvim](https://github.com/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/stars/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/last-commit/ec965/mjml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ec965/mjml-preview.nvim)
-
