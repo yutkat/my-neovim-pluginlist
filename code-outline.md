@@ -24,6 +24,7 @@
 - [MikkelvtK/outliner.nvim](https://github.com/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/stars/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/last-commit/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikkelvtK/outliner.nvim)
 - [ivanjermakov/telescope-file-structure.nvim](https://github.com/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/telescope-file-structure.nvim)
 - [AyMeeko/stack-trace.nvim](https://github.com/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/stars/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/last-commit/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/AyMeeko/stack-trace.nvim)
+- [fmillone/lsp-highlight.nvim](https://github.com/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/stars/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/last-commit/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/lsp-highlight.nvim)
 
 ### Call Hierarchy
 

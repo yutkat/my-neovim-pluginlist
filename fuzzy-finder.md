@@ -69,6 +69,7 @@
 
 - [nvim-telescope/telescope-rg.nvim](https://github.com/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-rg.nvim)
 - [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-writer.nvim)
+- [thenbe/telescope-glob.nvim](https://github.com/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/stars/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/last-commit/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/telescope-glob.nvim)
 
 #### Integration for another plugin
 

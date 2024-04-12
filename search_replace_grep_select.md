@@ -63,6 +63,7 @@
 ## Current Word Search
 
 - [loqusion/star.nvim](https://github.com/loqusion/star.nvim) ![](https://img.shields.io/github/stars/loqusion/star.nvim) ![](https://img.shields.io/github/last-commit/loqusion/star.nvim) ![](https://img.shields.io/github/commit-activity/y/loqusion/star.nvim)
+- [fmillone/lsp-highlight.nvim](https://github.com/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/stars/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/last-commit/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/lsp-highlight.nvim)
 
 ## Search count
 
