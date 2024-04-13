@@ -42,6 +42,7 @@
 - [Duologic/nvim-jsonnet](https://github.com/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/stars/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/last-commit/Duologic/nvim-jsonnet) ![](https://img.shields.io/github/commit-activity/y/Duologic/nvim-jsonnet)
 - [midoBB/nvim-quicktype](https://github.com/midoBB/nvim-quicktype) ![](https://img.shields.io/github/stars/midoBB/nvim-quicktype) ![](https://img.shields.io/github/last-commit/midoBB/nvim-quicktype) ![](https://img.shields.io/github/commit-activity/y/midoBB/nvim-quicktype)
 - [austinwilcox/jsonhero.nvim](https://github.com/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/stars/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/last-commit/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/commit-activity/y/austinwilcox/jsonhero.nvim)
+- [Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/stars/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/jsonfly.nvim)
 
 ### YAML
 

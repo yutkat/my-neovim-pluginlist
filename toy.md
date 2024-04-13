@@ -19,6 +19,7 @@
   * [Stock price](#stock-price)
   * [Cowsay](#cowsay)
       - [Tips](#tips)
+      - [Message](#message)
       - [Edit Info](#edit-info)
   * [Study](#study)
   * [Music](#music)
@@ -137,6 +138,10 @@
 #### Tips
 
 - [steveclarke/daily-focus.nvim](https://github.com/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/stars/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/last-commit/steveclarke/daily-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/steveclarke/daily-focus.nvim)
+
+#### Message
+
+- [r-cha/encourage.nvim](https://github.com/r-cha/encourage.nvim) ![](https://img.shields.io/github/stars/r-cha/encourage.nvim) ![](https://img.shields.io/github/last-commit/r-cha/encourage.nvim) ![](https://img.shields.io/github/commit-activity/y/r-cha/encourage.nvim)
 
 #### Edit Info
 

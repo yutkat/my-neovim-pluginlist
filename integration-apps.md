@@ -183,6 +183,7 @@
 - [willothy/wezterm.nvim](https://github.com/willothy/wezterm.nvim) ![](https://img.shields.io/github/stars/willothy/wezterm.nvim) ![](https://img.shields.io/github/last-commit/willothy/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/wezterm.nvim)
 - [winter-again/wezterm-config.nvim](https://github.com/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/stars/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/last-commit/winter-again/wezterm-config.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/wezterm-config.nvim)
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/stars/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/last-commit/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/commit-activity/y/paytonward6/nvim-wezlime)
+- [letieu/wezterm-move.nvim](https://github.com/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/stars/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/last-commit/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/wezterm-move.nvim)
 
 #### Windows Terminal
 
