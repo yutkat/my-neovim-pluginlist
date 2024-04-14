@@ -4,6 +4,7 @@
 
 - [Command](#command)
   * [Shell command](#shell-command)
+    + [execute from buffer](#execute-from-buffer)
   * [HTTP Request](#http-request)
   * [mkdir](#mkdir)
   * [sort](#sort)
@@ -13,7 +14,7 @@
     + [sudo](#sudo)
     + [quit](#quit)
 - [Multiple Command](#multiple-command)
-  * [Command Palette](#command-palette)
+- [Command Palette](#command-palette)
 
 <!-- tocstop -->
 
@@ -34,6 +35,10 @@
 ### Shell command
 
 - [siadat/shell.nvim](https://github.com/siadat/shell.nvim) ![](https://img.shields.io/github/stars/siadat/shell.nvim) ![](https://img.shields.io/github/last-commit/siadat/shell.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/shell.nvim)
+
+#### execute from buffer
+
+- [TheK4n/postman.nvim](https://github.com/TheK4n/postman.nvim) ![](https://img.shields.io/github/stars/TheK4n/postman.nvim) ![](https://img.shields.io/github/last-commit/TheK4n/postman.nvim) ![](https://img.shields.io/github/commit-activity/y/TheK4n/postman.nvim)
 
 ### HTTP Request
 
@@ -77,7 +82,7 @@
 
 - [zKurisu/multi-do.nvim](https://github.com/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/stars/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/multi-do.nvim)
 
-### Command Palette
+## Command Palette
 
 - [mrjones2014/legendary.nvim](https://github.com/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/stars/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/legendary.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/legendary.nvim)
 - [FeiyouG/command_center.nvim](https://github.com/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/stars/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/last-commit/FeiyouG/command_center.nvim) ![](https://img.shields.io/github/commit-activity/y/FeiyouG/command_center.nvim)
