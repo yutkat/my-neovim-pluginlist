@@ -37,6 +37,7 @@
 - [Jujutsu(jj)](#jujutsujj)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
+    + [Notify](#notify)
   * [GitHub tweaks](#github-tweaks)
   * [Trend](#trend)
   * [Pull Request](#pull-request)
@@ -48,6 +49,7 @@
   * [Organization](#organization)
   * [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
+  * [GitLab CI](#gitlab-ci)
 - [Sapling](#sapling)
 - [BigBucket](#bigbucket)
 - [Sourcegraph](#sourcegraph)
@@ -74,6 +76,7 @@
 - [paulo-granthon/agitate.nvim](https://github.com/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/stars/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/last-commit/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/commit-activity/y/paulo-granthon/agitate.nvim)
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/stars/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/fugit2.nvim)
 - [rmassaroni/nvim-gpush](https://github.com/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/stars/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/last-commit/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/commit-activity/y/rmassaroni/nvim-gpush)
+- [GustavEikaas/easy-git.nvim](https://github.com/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-git.nvim)
 
 ## gitui
 
@@ -259,6 +262,10 @@
 - [mistweaverco/githubutils.nvim](https://github.com/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/stars/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/githubutils.nvim)
 - [muryp/muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-gh.nvim)
 
+### Notify
+
+- [GustavEikaas/gh-notify.nvim](https://github.com/GustavEikaas/gh-notify.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/gh-notify.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/gh-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/gh-notify.nvim)
+
 ## GitHub tweaks
 
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
@@ -340,6 +347,10 @@
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
 - [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
 - [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
+
+## GitLab CI
+
+- [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
 
 # Sapling
 
