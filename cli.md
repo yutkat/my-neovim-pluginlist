@@ -191,6 +191,7 @@
 
 - [SDGLBL/nvim-sync.nvim](https://github.com/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/stars/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/nvim-sync.nvim)
 - [DevDec/transmit.nvim](https://github.com/DevDec/transmit.nvim) ![](https://img.shields.io/github/stars/DevDec/transmit.nvim) ![](https://img.shields.io/github/last-commit/DevDec/transmit.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDec/transmit.nvim)
+- [ForsakenNGS/netdeploy.nvim](https://github.com/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/stars/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/last-commit/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/commit-activity/y/ForsakenNGS/netdeploy.nvim)
 
 #### rsync
 
