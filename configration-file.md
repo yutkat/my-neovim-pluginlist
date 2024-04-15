@@ -11,6 +11,7 @@
   * [dotbox](#dotbox)
   * [CSV](#csv)
   * [Jenkins](#jenkins)
+  * [Cron](#cron)
   * [Drools Rule Language](#drools-rule-language)
 - [Database](#database)
   * [SQL](#sql)
@@ -81,6 +82,10 @@
 - [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
 - [ckipp01/nvim-jenkinsfile-linter](https://github.com/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/stars/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/last-commit/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/commit-activity/y/ckipp01/nvim-jenkinsfile-linter)
 
+### Cron
+
+- [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/stars/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/last-commit/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/commit-activity/y/fabridamicelli/cronex.nvim)
+
 ### Drools Rule Language
 
 - [errantepiphany/drools.nvim](https://github.com/errantepiphany/drools.nvim) ![](https://img.shields.io/github/stars/errantepiphany/drools.nvim) ![](https://img.shields.io/github/last-commit/errantepiphany/drools.nvim) ![](https://img.shields.io/github/commit-activity/y/errantepiphany/drools.nvim)
@@ -105,6 +110,7 @@
 - [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
 - [jsMRSoL/pg.nvim](https://github.com/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/pg.nvim)
 - [njaczko/nvim-psql](https://github.com/njaczko/nvim-psql) ![](https://img.shields.io/github/stars/njaczko/nvim-psql) ![](https://img.shields.io/github/last-commit/njaczko/nvim-psql) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-psql)
+- [evanrichards/maitre-psql.nvim](https://github.com/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/stars/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/last-commit/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/commit-activity/y/evanrichards/maitre-psql.nvim)
 
 ### MongoDB
 
