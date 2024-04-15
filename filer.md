@@ -117,6 +117,7 @@
 ### yazi
 
 - [SR-MyStar/yazi.nvim](https://github.com/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/yazi.nvim)
+- [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/stars/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/yazi.nvim)
 
 ## Network File Manager
 
