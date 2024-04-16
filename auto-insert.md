@@ -36,6 +36,7 @@
 - [Sam-programs/autopairs.nvim](https://github.com/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/stars/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/autopairs.nvim)
 - [lewis6991/nvim-treesitter-pairs](https://github.com/lewis6991/nvim-treesitter-pairs) ![](https://img.shields.io/github/stars/lewis6991/nvim-treesitter-pairs) ![](https://img.shields.io/github/last-commit/lewis6991/nvim-treesitter-pairs) ![](https://img.shields.io/github/commit-activity/y/lewis6991/nvim-treesitter-pairs)
 - [tomashruska1/nvim-autoclose](https://github.com/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/stars/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/last-commit/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/commit-activity/y/tomashruska1/nvim-autoclose)
+- [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) ![](https://img.shields.io/github/stars/kawre/neotab.nvim) ![](https://img.shields.io/github/last-commit/kawre/neotab.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/neotab.nvim)
 
 ### endwise
 
