@@ -707,6 +707,8 @@
 
 ### Hex
 
+- [qleveque/Hex.nvim](https://github.com/qleveque/Hex.nvim) ![](https://img.shields.io/github/stars/qleveque/Hex.nvim) ![](https://img.shields.io/github/last-commit/qleveque/Hex.nvim) ![](https://img.shields.io/github/commit-activity/y/qleveque/Hex.nvim)
+
 #### Hex Editor
 
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
