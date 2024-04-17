@@ -94,6 +94,7 @@
 
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
 - [napisani/nvim-dadbod-bg](https://github.com/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/stars/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/last-commit/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-dadbod-bg)
+- [icyavocado/gobang.nvim](https://github.com/icyavocado/gobang.nvim) ![](https://img.shields.io/github/stars/icyavocado/gobang.nvim) ![](https://img.shields.io/github/last-commit/icyavocado/gobang.nvim) ![](https://img.shields.io/github/commit-activity/y/icyavocado/gobang.nvim)
 
 ### SQL
 

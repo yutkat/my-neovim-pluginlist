@@ -15,6 +15,7 @@
     + [Typst preview](#typst-preview)
     + [JSON](#json)
     + [Test](#test)
+    + [jsdoc](#jsdoc)
     + [Task Runner](#task-runner)
       - [yarn](#yarn)
       - [npm](#npm)
@@ -114,6 +115,10 @@
 - [raine/testonly.nvim](https://github.com/raine/testonly.nvim) ![](https://img.shields.io/github/stars/raine/testonly.nvim) ![](https://img.shields.io/github/last-commit/raine/testonly.nvim) ![](https://img.shields.io/github/commit-activity/y/raine/testonly.nvim)
 - [zivlakmilos/TestRunner.nvim](https://github.com/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/stars/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/last-commit/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/zivlakmilos/TestRunner.nvim)
 - [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
+
+##### jsdoc
+
+- [joeldotdias/jsdoc-switch.nvim](https://github.com/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/stars/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/last-commit/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/joeldotdias/jsdoc-switch.nvim)
 
 ##### Task Runner
 
