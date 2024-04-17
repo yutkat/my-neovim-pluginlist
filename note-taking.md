@@ -107,6 +107,8 @@
 - [eliasCVII/timew.nvim](https://github.com/eliasCVII/timew.nvim) ![](https://img.shields.io/github/stars/eliasCVII/timew.nvim) ![](https://img.shields.io/github/last-commit/eliasCVII/timew.nvim) ![](https://img.shields.io/github/commit-activity/y/eliasCVII/timew.nvim)
 - [Ausbxuse/capture.nvim](https://github.com/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/stars/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/last-commit/Ausbxuse/capture.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausbxuse/capture.nvim)
 - [devidw/anxtgo.nvim](https://github.com/devidw/anxtgo.nvim) ![](https://img.shields.io/github/stars/devidw/anxtgo.nvim) ![](https://img.shields.io/github/last-commit/devidw/anxtgo.nvim) ![](https://img.shields.io/github/commit-activity/y/devidw/anxtgo.nvim)
+- [Horryportier/minimal_todo.nvim](https://github.com/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/stars/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/last-commit/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Horryportier/minimal_todo.nvim)
+- [xeysz/scripta-unica.nvim](https://github.com/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/stars/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/last-commit/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/commit-activity/y/xeysz/scripta-unica.nvim)
 
 ### Taskwarrior
 
