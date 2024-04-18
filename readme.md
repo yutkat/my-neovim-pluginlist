@@ -132,6 +132,7 @@
   * [Tutorial](#tutorial)
   * [Analytics](#analytics)
     + [Typing speed](#typing-speed)
+    + [Operation Log](#operation-log)
   * [Market place](#market-place)
   * [RSS](#rss)
   * [IDE feature](#ide-feature)
@@ -763,6 +764,10 @@
 #### Typing speed
 
 - [JakobSachs/typing-metrics.nvim](https://github.com/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/stars/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/last-commit/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/JakobSachs/typing-metrics.nvim)
+
+#### Operation Log
+
+- [icholy/keylog.nvim](https://github.com/icholy/keylog.nvim) ![](https://img.shields.io/github/stars/icholy/keylog.nvim) ![](https://img.shields.io/github/last-commit/icholy/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/icholy/keylog.nvim)
 
 ### Market place
 
