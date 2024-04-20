@@ -325,6 +325,7 @@
 - [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) ![](https://img.shields.io/github/stars/utilyre/sentiment.nvim) ![](https://img.shields.io/github/last-commit/utilyre/sentiment.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/sentiment.nvim)
 - [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
+- [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
 
 ### [Convert](./convert.md)
 
@@ -436,6 +437,7 @@
 - [PaysanCorrezien/dictionary.nvim](https://github.com/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/dictionary.nvim)
 - [Nealium/dict-popup.nvim](https://github.com/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/stars/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/last-commit/Nealium/dict-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/Nealium/dict-popup.nvim)
 - [phanen/word.nvim](https://github.com/phanen/word.nvim) ![](https://img.shields.io/github/stars/phanen/word.nvim) ![](https://img.shields.io/github/last-commit/phanen/word.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/word.nvim)
+- [IdoKendo/synonym.nvim](https://github.com/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/stars/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/last-commit/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/commit-activity/y/IdoKendo/synonym.nvim)
 
 ### digraph
 
@@ -715,6 +717,7 @@
 - [rktjmp/paperplanes.nvim](https://github.com/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/stars/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/paperplanes.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/paperplanes.nvim)
 - [RaafatTurki/hex.nvim](https://github.com/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/hex.nvim)
 - [vetsE/hexamine.nvim](https://github.com/vetsE/hexamine.nvim) ![](https://img.shields.io/github/stars/vetsE/hexamine.nvim) ![](https://img.shields.io/github/last-commit/vetsE/hexamine.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/hexamine.nvim)
+- [ArcaneSpecs/HexEditor.nvim](https://github.com/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/stars/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/last-commit/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/commit-activity/y/ArcaneSpecs/HexEditor.nvim)
 
 ### Mail
 

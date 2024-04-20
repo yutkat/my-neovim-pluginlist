@@ -64,6 +64,7 @@
 - [jasonwoodland/base64.nvim](https://github.com/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/stars/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/last-commit/jasonwoodland/base64.nvim) ![](https://img.shields.io/github/commit-activity/y/jasonwoodland/base64.nvim)
 - [antarktikali/nvim-external-base64](https://github.com/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/stars/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/last-commit/antarktikali/nvim-external-base64) ![](https://img.shields.io/github/commit-activity/y/antarktikali/nvim-external-base64)
 - [paytonward6/base64.nvim](https://github.com/paytonward6/base64.nvim) ![](https://img.shields.io/github/stars/paytonward6/base64.nvim) ![](https://img.shields.io/github/last-commit/paytonward6/base64.nvim) ![](https://img.shields.io/github/commit-activity/y/paytonward6/base64.nvim)
+- [thangeshbabu/based64.nvim](https://github.com/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/stars/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/last-commit/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/commit-activity/y/thangeshbabu/based64.nvim)
 
 ### Number
 

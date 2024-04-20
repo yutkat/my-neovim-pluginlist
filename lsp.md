@@ -173,6 +173,7 @@
 - [metalelf0/treesitter-renamer.nvim](https://github.com/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/stars/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/treesitter-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/treesitter-renamer.nvim)
 - [luckasRanarison/neo-rename.nvim](https://github.com/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/neo-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/neo-rename.nvim)
 - [tiyashbasu/refactor.nvim](https://github.com/tiyashbasu/refactor.nvim) ![](https://img.shields.io/github/stars/tiyashbasu/refactor.nvim) ![](https://img.shields.io/github/last-commit/tiyashbasu/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyashbasu/refactor.nvim)
+- [javiorfo/nvim-renamid](https://github.com/javiorfo/nvim-renamid) ![](https://img.shields.io/github/stars/javiorfo/nvim-renamid) ![](https://img.shields.io/github/last-commit/javiorfo/nvim-renamid) ![](https://img.shields.io/github/commit-activity/y/javiorfo/nvim-renamid)
 
 #### textDocument
 

@@ -68,6 +68,7 @@
     + [Agda](#agda)
     + [Monkey](#monkey)
     + [GNU APL](#gnu-apl)
+    + [GritQL](#gritql)
     + [Ada](#ada)
       - [Alire](#alire)
     + [Godot](#godot)
@@ -292,6 +293,7 @@
 
 - [niT-Tin/springboot-start.nvim](https://github.com/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/stars/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/last-commit/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/commit-activity/y/niT-Tin/springboot-start.nvim)
 - [mslauson/spring-boot.nvim](https://github.com/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/stars/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/mslauson/spring-boot.nvim)
+- [zerochae/telescope-spring.nvim](https://github.com/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/stars/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/last-commit/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/telescope-spring.nvim)
 
 #### JBoss
 
@@ -444,6 +446,10 @@
 ### GNU APL
 
 - [salkin-mada/apl.nvim](https://github.com/salkin-mada/apl.nvim) ![](https://img.shields.io/github/stars/salkin-mada/apl.nvim) ![](https://img.shields.io/github/last-commit/salkin-mada/apl.nvim) ![](https://img.shields.io/github/commit-activity/y/salkin-mada/apl.nvim)
+
+### GritQL
+
+- [noahbald/grit-telescope.nvim](https://github.com/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/stars/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/last-commit/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/grit-telescope.nvim)
 
 ### Ada
 
