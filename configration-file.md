@@ -9,6 +9,7 @@
   * [Pkl](#pkl)
   * [XML](#xml)
   * [dotbox](#dotbox)
+  * [Jayvee](#jayvee)
   * [CSV](#csv)
   * [Jenkins](#jenkins)
   * [Cron](#cron)
@@ -67,6 +68,10 @@
 ### dotbox
 
 - [jakehamilton/dotbox.nvim](https://github.com/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/stars/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/last-commit/jakehamilton/dotbox.nvim) ![](https://img.shields.io/github/commit-activity/y/jakehamilton/dotbox.nvim)
+
+### Jayvee
+
+- [jvalue/jayvee.nvim](https://github.com/jvalue/jayvee.nvim) ![](https://img.shields.io/github/stars/jvalue/jayvee.nvim) ![](https://img.shields.io/github/last-commit/jvalue/jayvee.nvim) ![](https://img.shields.io/github/commit-activity/y/jvalue/jayvee.nvim)
 
 ### CSV
 

@@ -7,6 +7,7 @@
   * [Rust](#rust)
   * [Go](#go)
   * [C++](#c)
+  * [QML](#qml)
   * [Clojure](#clojure)
   * [F](#f)
   * [Lua](#lua)
@@ -39,6 +40,10 @@
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) ![](https://img.shields.io/github/stars/RMichelsen/Nvy) ![](https://img.shields.io/github/last-commit/RMichelsen/Nvy) ![](https://img.shields.io/github/commit-activity/y/RMichelsen/Nvy)
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) ![](https://img.shields.io/github/stars/rohit-px2/nvui) ![](https://img.shields.io/github/last-commit/rohit-px2/nvui) ![](https://img.shields.io/github/commit-activity/y/rohit-px2/nvui)
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) ![](https://img.shields.io/github/stars/equalsraf/neovim-qt) ![](https://img.shields.io/github/last-commit/equalsraf/neovim-qt) ![](https://img.shields.io/github/commit-activity/y/equalsraf/neovim-qt)
+
+## QML
+
+- [Leon-Degel-Koehn/qmlformat.nvim](https://github.com/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/stars/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/last-commit/Leon-Degel-Koehn/qmlformat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leon-Degel-Koehn/qmlformat.nvim)
 
 ## Clojure
 
