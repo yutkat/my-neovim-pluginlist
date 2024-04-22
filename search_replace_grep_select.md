@@ -45,6 +45,7 @@
 - [SDGLBL/hapigo.nvim](https://github.com/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/stars/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/hapigo.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/hapigo.nvim)
 - [jacobrreed/search-replace.nvim](https://github.com/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/stars/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/last-commit/jacobrreed/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobrreed/search-replace.nvim)
 - [kilavila/nvim-quick-search](https://github.com/kilavila/nvim-quick-search) ![](https://img.shields.io/github/stars/kilavila/nvim-quick-search) ![](https://img.shields.io/github/last-commit/kilavila/nvim-quick-search) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-quick-search)
+- [yujinyuz/very-magic-slash.nvim](https://github.com/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/stars/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/last-commit/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/commit-activity/y/yujinyuz/very-magic-slash.nvim)
 
 ## Line search
 
