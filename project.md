@@ -52,6 +52,7 @@
 - [kilisio/nvim-root-dir](https://github.com/kilisio/nvim-root-dir) ![](https://img.shields.io/github/stars/kilisio/nvim-root-dir) ![](https://img.shields.io/github/last-commit/kilisio/nvim-root-dir) ![](https://img.shields.io/github/commit-activity/y/kilisio/nvim-root-dir)
 - [michel-garcia/radix.nvim](https://github.com/michel-garcia/radix.nvim) ![](https://img.shields.io/github/stars/michel-garcia/radix.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/radix.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/radix.nvim)
 - [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
+- [DzedCPT/nvim-rooter](https://github.com/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/stars/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/last-commit/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/DzedCPT/nvim-rooter)
 
 ### Project Template
 

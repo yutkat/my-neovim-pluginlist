@@ -310,6 +310,7 @@
 - [AgusDOLARD/backout.nvim](https://github.com/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/stars/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/last-commit/AgusDOLARD/backout.nvim) ![](https://img.shields.io/github/commit-activity/y/AgusDOLARD/backout.nvim)
 - [Someone-s-out-there/stutter.nvim](https://github.com/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/stars/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/last-commit/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/commit-activity/y/Someone-s-out-there/stutter.nvim)
 - [nobody-famous/lima.nvim](https://github.com/nobody-famous/lima.nvim) ![](https://img.shields.io/github/stars/nobody-famous/lima.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/lima.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/lima.nvim)
+- [LarssonMartin1998/indent-invader.nvim](https://github.com/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/stars/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/last-commit/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/commit-activity/y/LarssonMartin1998/indent-invader.nvim)
 
 #### Smart Tab
 
@@ -542,6 +543,7 @@
 
 - [mgerb/metrics.nvim](https://github.com/mgerb/metrics.nvim) ![](https://img.shields.io/github/stars/mgerb/metrics.nvim) ![](https://img.shields.io/github/last-commit/mgerb/metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/mgerb/metrics.nvim)
 - [wookayin/nvim-profiler](https://github.com/wookayin/nvim-profiler) ![](https://img.shields.io/github/stars/wookayin/nvim-profiler) ![](https://img.shields.io/github/last-commit/wookayin/nvim-profiler) ![](https://img.shields.io/github/commit-activity/y/wookayin/nvim-profiler)
+- [letieu/key-report.nvim](https://github.com/letieu/key-report.nvim) ![](https://img.shields.io/github/stars/letieu/key-report.nvim) ![](https://img.shields.io/github/last-commit/letieu/key-report.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/key-report.nvim)
 
 ## Coding
 
@@ -644,6 +646,7 @@
 - [esensar/nvim-dev-container](https://github.com/esensar/nvim-dev-container) ![](https://img.shields.io/github/stars/esensar/nvim-dev-container) ![](https://img.shields.io/github/last-commit/esensar/nvim-dev-container) ![](https://img.shields.io/github/commit-activity/y/esensar/nvim-dev-container)
 - [arnaupv/nvim-devcontainer-cli](https://github.com/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/stars/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/last-commit/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/commit-activity/y/arnaupv/nvim-devcontainer-cli)
 - [aw1875/devcontainers.nvim](https://github.com/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/stars/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/devcontainers.nvim)
+- [goropikari/local-container.nvim](https://github.com/goropikari/local-container.nvim) ![](https://img.shields.io/github/stars/goropikari/local-container.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-container.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-container.nvim)
 
 ### Collaborative Editing
 

@@ -36,6 +36,7 @@
   * [paste.rs](#pasters)
   * [Cloudinary](#cloudinary)
   * [Drupal](#drupal)
+  * [Netsuite](#netsuite)
 - [Prefab](#prefab)
 - [CI](#ci)
   * [CircleCI](#circleci)
@@ -59,6 +60,7 @@
 - [lpturmel/discord.nvim](https://github.com/lpturmel/discord.nvim) ![](https://img.shields.io/github/stars/lpturmel/discord.nvim) ![](https://img.shields.io/github/last-commit/lpturmel/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/lpturmel/discord.nvim)
 - [circles-00/nvim-discord-status](https://github.com/circles-00/nvim-discord-status) ![](https://img.shields.io/github/stars/circles-00/nvim-discord-status) ![](https://img.shields.io/github/last-commit/circles-00/nvim-discord-status) ![](https://img.shields.io/github/commit-activity/y/circles-00/nvim-discord-status)
 - [Dekr0/richpresence.nvim](https://github.com/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/stars/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/last-commit/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/Dekr0/richpresence.nvim)
+- [956MB/ncks.nvim](https://github.com/956MB/ncks.nvim) ![](https://img.shields.io/github/stars/956MB/ncks.nvim) ![](https://img.shields.io/github/last-commit/956MB/ncks.nvim) ![](https://img.shields.io/github/commit-activity/y/956MB/ncks.nvim)
 
 #### Slack
 
@@ -201,6 +203,10 @@
 #### Drupal
 
 - [everynameistaken1/nvim-drupal-sh](https://github.com/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/stars/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/last-commit/everynameistaken1/nvim-drupal-sh) ![](https://img.shields.io/github/commit-activity/y/everynameistaken1/nvim-drupal-sh)
+
+#### Netsuite
+
+- [rtanner1231/nsconn.nvim](https://github.com/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/stars/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/last-commit/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/commit-activity/y/rtanner1231/nsconn.nvim)
 
 ### Prefab
 
