@@ -45,6 +45,7 @@
 - [midoBB/nvim-quicktype](https://github.com/midoBB/nvim-quicktype) ![](https://img.shields.io/github/stars/midoBB/nvim-quicktype) ![](https://img.shields.io/github/last-commit/midoBB/nvim-quicktype) ![](https://img.shields.io/github/commit-activity/y/midoBB/nvim-quicktype)
 - [austinwilcox/jsonhero.nvim](https://github.com/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/stars/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/last-commit/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/commit-activity/y/austinwilcox/jsonhero.nvim)
 - [Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/stars/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/jsonfly.nvim)
+- [jvdmeulen/json-fold.nvim](https://github.com/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/stars/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/last-commit/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/jvdmeulen/json-fold.nvim)
 
 ### YAML
 
@@ -100,6 +101,7 @@
 - [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
 - [napisani/nvim-dadbod-bg](https://github.com/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/stars/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/last-commit/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-dadbod-bg)
 - [icyavocado/gobang.nvim](https://github.com/icyavocado/gobang.nvim) ![](https://img.shields.io/github/stars/icyavocado/gobang.nvim) ![](https://img.shields.io/github/last-commit/icyavocado/gobang.nvim) ![](https://img.shields.io/github/commit-activity/y/icyavocado/gobang.nvim)
+- [miversen33/dbman.nvim](https://github.com/miversen33/dbman.nvim) ![](https://img.shields.io/github/stars/miversen33/dbman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/dbman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/dbman.nvim)
 
 ### SQL
 

@@ -77,6 +77,7 @@
 - [jedrzejboczar/exrc.nvim](https://github.com/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/exrc.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/exrc.nvim)
 - [rawnly/profiles.nvim](https://github.com/rawnly/profiles.nvim) ![](https://img.shields.io/github/stars/rawnly/profiles.nvim) ![](https://img.shields.io/github/last-commit/rawnly/profiles.nvim) ![](https://img.shields.io/github/commit-activity/y/rawnly/profiles.nvim)
 - [simirian/nvim-manager](https://github.com/simirian/nvim-manager) ![](https://img.shields.io/github/stars/simirian/nvim-manager) ![](https://img.shields.io/github/last-commit/simirian/nvim-manager) ![](https://img.shields.io/github/commit-activity/y/simirian/nvim-manager)
+- [szulf/projectManager.nvim](https://github.com/szulf/projectManager.nvim) ![](https://img.shields.io/github/stars/szulf/projectManager.nvim) ![](https://img.shields.io/github/last-commit/szulf/projectManager.nvim) ![](https://img.shields.io/github/commit-activity/y/szulf/projectManager.nvim)
 
 #### Config switcher
 

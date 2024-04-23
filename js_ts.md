@@ -157,6 +157,7 @@
 - [jcha0713/classy.nvim](https://github.com/jcha0713/classy.nvim) ![](https://img.shields.io/github/stars/jcha0713/classy.nvim) ![](https://img.shields.io/github/last-commit/jcha0713/classy.nvim) ![](https://img.shields.io/github/commit-activity/y/jcha0713/classy.nvim)
 - [buschco/nvim-cmp-ts-tag-close](https://github.com/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/stars/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/last-commit/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/commit-activity/y/buschco/nvim-cmp-ts-tag-close)
 - [pigoz/nvim-ruby-css](https://github.com/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/stars/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/last-commit/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/commit-activity/y/pigoz/nvim-ruby-css)
+- [catgoose/eddie.nvim](https://github.com/catgoose/eddie.nvim) ![](https://img.shields.io/github/stars/catgoose/eddie.nvim) ![](https://img.shields.io/github/last-commit/catgoose/eddie.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/eddie.nvim)
 
 ##### conceal
 
@@ -174,6 +175,7 @@
 - [Jezda1337/nvim-html-css](https://github.com/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/stars/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/last-commit/Jezda1337/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/nvim-html-css)
 - [victoroliveirab/css-utils.nvim](https://github.com/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/stars/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/last-commit/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/victoroliveirab/css-utils.nvim)
 - [jdrupal-dev/css-vars.nvim](https://github.com/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/css-vars.nvim)
+- [farias-hecdin/Colorker.nvim](https://github.com/farias-hecdin/Colorker.nvim) ![](https://img.shields.io/github/stars/farias-hecdin/Colorker.nvim) ![](https://img.shields.io/github/last-commit/farias-hecdin/Colorker.nvim) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/Colorker.nvim)
 
 ##### tailwind
 
