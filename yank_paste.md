@@ -29,6 +29,7 @@
 - [raghue9/nvim-relativelinecopy](https://github.com/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/stars/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/last-commit/raghue9/nvim-relativelinecopy) ![](https://img.shields.io/github/commit-activity/y/raghue9/nvim-relativelinecopy)
 - [petersid2022/clippy.nvim](https://github.com/petersid2022/clippy.nvim) ![](https://img.shields.io/github/stars/petersid2022/clippy.nvim) ![](https://img.shields.io/github/last-commit/petersid2022/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/petersid2022/clippy.nvim)
 - [kilavila/nvim-yoink](https://github.com/kilavila/nvim-yoink) ![](https://img.shields.io/github/stars/kilavila/nvim-yoink) ![](https://img.shields.io/github/last-commit/kilavila/nvim-yoink) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-yoink)
+- [pthapli/nvim-clipboard](https://github.com/pthapli/nvim-clipboard) ![](https://img.shields.io/github/stars/pthapli/nvim-clipboard) ![](https://img.shields.io/github/last-commit/pthapli/nvim-clipboard) ![](https://img.shields.io/github/commit-activity/y/pthapli/nvim-clipboard)
 
 ## URL
 
