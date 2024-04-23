@@ -131,7 +131,6 @@
 - [sencer/async.nvim](https://github.com/sencer/async.nvim) ![](https://img.shields.io/github/stars/sencer/async.nvim) ![](https://img.shields.io/github/last-commit/sencer/async.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/async.nvim)
 - [MarcHamamji/runner.nvim](https://github.com/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/stars/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/last-commit/MarcHamamji/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcHamamji/runner.nvim)
 - [Egypt-Open-Source/coderunner.nvim](https://github.com/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/stars/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/last-commit/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Egypt-Open-Source/coderunner.nvim)
-- [joonasjouttijarvi/nvim-coderunner](https://github.com/joonasjouttijarvi/nvim-coderunner) ![](https://img.shields.io/github/stars/joonasjouttijarvi/nvim-coderunner) ![](https://img.shields.io/github/last-commit/joonasjouttijarvi/nvim-coderunner) ![](https://img.shields.io/github/commit-activity/y/joonasjouttijarvi/nvim-coderunner)
 
 ## :make style
 
