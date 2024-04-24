@@ -12,6 +12,7 @@
   * [Command style](#command-style)
   * [Auto detect style](#auto-detect-style)
   * [:make style](#make-style)
+  * [Auto Execute](#auto-execute)
   * [CLI](#cli)
     + [Taskfile](#taskfile)
   * [Specific runner](#specific-runner)
@@ -135,6 +136,10 @@
 ## :make style
 
 - [msaher/makegrep-job.nvim](https://github.com/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/stars/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/last-commit/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/makegrep-job.nvim)
+
+## Auto Execute
+
+- [sachinsenal0x64/hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/stars/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/last-commit/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/commit-activity/y/sachinsenal0x64/hot.nvim)
 
 ## CLI
 
