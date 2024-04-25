@@ -133,7 +133,6 @@
 
 ## broot
 
-- [FrancescElies/broot.nvim](https://github.com/FrancescElies/broot.nvim) ![](https://img.shields.io/github/stars/FrancescElies/broot.nvim) ![](https://img.shields.io/github/last-commit/FrancescElies/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancescElies/broot.nvim)
 - [aohoyd/broot.nvim](https://github.com/aohoyd/broot.nvim) ![](https://img.shields.io/github/stars/aohoyd/broot.nvim) ![](https://img.shields.io/github/last-commit/aohoyd/broot.nvim) ![](https://img.shields.io/github/commit-activity/y/aohoyd/broot.nvim)
 
 ## Create directory
