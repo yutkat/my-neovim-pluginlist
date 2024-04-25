@@ -9,6 +9,7 @@
   * [Snippet highlight](#snippet-highlight)
 - [Emmet](#emmet)
 - [Template](#template)
+  * [README](#readme)
 - [Shebang](#shebang)
 
 <!-- tocstop -->
@@ -67,6 +68,11 @@
 - [KDesp73/project-starter.nvim](https://github.com/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/stars/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/last-commit/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/commit-activity/y/KDesp73/project-starter.nvim)
 - [M1nts02/nvim-template](https://github.com/M1nts02/nvim-template) ![](https://img.shields.io/github/stars/M1nts02/nvim-template) ![](https://img.shields.io/github/last-commit/M1nts02/nvim-template) ![](https://img.shields.io/github/commit-activity/y/M1nts02/nvim-template)
 
+#### README
+
+- [mimikun/generate-readme.nvim](https://github.com/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/stars/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/last-commit/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/generate-readme.nvim)
+
 ### Shebang
 
 - [LunarLambda/shebang.nvim](https://github.com/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/stars/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/last-commit/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/shebang.nvim)
+
