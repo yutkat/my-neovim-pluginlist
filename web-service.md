@@ -221,6 +221,7 @@
 #### Nx
 
 - [andtankian/nxtest.nvim](https://github.com/andtankian/nxtest.nvim) ![](https://img.shields.io/github/stars/andtankian/nxtest.nvim) ![](https://img.shields.io/github/last-commit/andtankian/nxtest.nvim) ![](https://img.shields.io/github/commit-activity/y/andtankian/nxtest.nvim)
+- [James-Kni/fzf-nx.nvim](https://github.com/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/stars/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/last-commit/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/commit-activity/y/James-Kni/fzf-nx.nvim)
 
 #### Jenkins
 
