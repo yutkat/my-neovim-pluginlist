@@ -250,7 +250,5 @@
 
 ##### Bootstrap
 
-- [Jezda1337/cmp_bootstrap](https://github.com/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/stars/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/last-commit/Jezda1337/cmp_bootstrap) ![](https://img.shields.io/github/commit-activity/y/Jezda1337/cmp_bootstrap)
-
 ##### mjml
 
