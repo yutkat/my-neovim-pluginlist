@@ -67,6 +67,7 @@
 - [brenoprata10/nvim-highlight-colors](https://github.com/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/stars/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/last-commit/brenoprata10/nvim-highlight-colors) ![](https://img.shields.io/github/commit-activity/y/brenoprata10/nvim-highlight-colors)
 - [uga-rosa/ccc.nvim(colorizer)](https://github.com/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/stars/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/ccc.nvim)
 - [echasnovski/mini.hipatterns](https://github.com/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/stars/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/last-commit/echasnovski/mini.hipatterns) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.hipatterns)
+- [Minnowo/sch.nvim](https://github.com/Minnowo/sch.nvim) ![](https://img.shields.io/github/stars/Minnowo/sch.nvim) ![](https://img.shields.io/github/last-commit/Minnowo/sch.nvim) ![](https://img.shields.io/github/commit-activity/y/Minnowo/sch.nvim)
 
 ### Color picker
 
