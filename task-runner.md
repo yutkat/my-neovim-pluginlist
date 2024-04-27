@@ -140,6 +140,7 @@
 ## Auto Execute
 
 - [sachinsenal0x64/hot.nvim](https://github.com/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/stars/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/last-commit/sachinsenal0x64/hot.nvim) ![](https://img.shields.io/github/commit-activity/y/sachinsenal0x64/hot.nvim)
+- [audunhov/autorun.nvim](https://github.com/audunhov/autorun.nvim) ![](https://img.shields.io/github/stars/audunhov/autorun.nvim) ![](https://img.shields.io/github/last-commit/audunhov/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/audunhov/autorun.nvim)
 
 ## CLI
 

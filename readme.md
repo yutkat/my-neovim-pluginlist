@@ -767,6 +767,8 @@
 - [wjorden/focus-tracker.nvim](https://github.com/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/stars/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/last-commit/wjorden/focus-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/wjorden/focus-tracker.nvim)
 - [maorun/timeTrack.nvim](https://github.com/maorun/timeTrack.nvim) ![](https://img.shields.io/github/stars/maorun/timeTrack.nvim) ![](https://img.shields.io/github/last-commit/maorun/timeTrack.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/timeTrack.nvim)
 - [3rd/time-tracker.nvim](https://github.com/3rd/time-tracker.nvim) ![](https://img.shields.io/github/stars/3rd/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/3rd/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/time-tracker.nvim)
+- [Aityz/usage.nvim](https://github.com/Aityz/usage.nvim) ![](https://img.shields.io/github/stars/Aityz/usage.nvim) ![](https://img.shields.io/github/last-commit/Aityz/usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/usage.nvim)
+- [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
 
 #### Typing speed
 
