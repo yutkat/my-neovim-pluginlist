@@ -27,6 +27,7 @@
   * [locate](#locate)
   * [perf](#perf)
   * [dotnet](#dotnet)
+    + [Nuget](#nuget)
   * [ftp](#ftp)
   * [rsync](#rsync)
   * [ctags](#ctags)
@@ -186,6 +187,10 @@
 - [Spycemyster/dotnet-goto.nvim](https://github.com/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/stars/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/last-commit/Spycemyster/dotnet-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/Spycemyster/dotnet-goto.nvim)
 - [Tornjk/dotnet.nvim](https://github.com/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/stars/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/last-commit/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/Tornjk/dotnet.nvim)
 - [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-dotnet.nvim)
+
+##### Nuget
+
+- [pgdanes/nug.nvim](https://github.com/pgdanes/nug.nvim) ![](https://img.shields.io/github/stars/pgdanes/nug.nvim) ![](https://img.shields.io/github/last-commit/pgdanes/nug.nvim) ![](https://img.shields.io/github/commit-activity/y/pgdanes/nug.nvim)
 
 #### ftp
 
