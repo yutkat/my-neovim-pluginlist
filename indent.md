@@ -27,6 +27,7 @@
 ### Indent Shift
 
 - [joshuanr5/indentation-multiline.nvim](https://github.com/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/stars/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/last-commit/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuanr5/indentation-multiline.nvim)
+- [natw/nvim-indentnav](https://github.com/natw/nvim-indentnav) ![](https://img.shields.io/github/stars/natw/nvim-indentnav) ![](https://img.shields.io/github/last-commit/natw/nvim-indentnav) ![](https://img.shields.io/github/commit-activity/y/natw/nvim-indentnav)
 
 ### Indent Guide
 

@@ -30,6 +30,7 @@
 - [petersid2022/clippy.nvim](https://github.com/petersid2022/clippy.nvim) ![](https://img.shields.io/github/stars/petersid2022/clippy.nvim) ![](https://img.shields.io/github/last-commit/petersid2022/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/petersid2022/clippy.nvim)
 - [kilavila/nvim-yoink](https://github.com/kilavila/nvim-yoink) ![](https://img.shields.io/github/stars/kilavila/nvim-yoink) ![](https://img.shields.io/github/last-commit/kilavila/nvim-yoink) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-yoink)
 - [pthapli/nvim-clipboard](https://github.com/pthapli/nvim-clipboard) ![](https://img.shields.io/github/stars/pthapli/nvim-clipboard) ![](https://img.shields.io/github/last-commit/pthapli/nvim-clipboard) ![](https://img.shields.io/github/commit-activity/y/pthapli/nvim-clipboard)
+- [catlee/spin-clipboard.nvim](https://github.com/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/stars/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/last-commit/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/catlee/spin-clipboard.nvim)
 
 ## URL
 

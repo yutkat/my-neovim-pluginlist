@@ -109,6 +109,7 @@
 - [devidw/anxtgo.nvim](https://github.com/devidw/anxtgo.nvim) ![](https://img.shields.io/github/stars/devidw/anxtgo.nvim) ![](https://img.shields.io/github/last-commit/devidw/anxtgo.nvim) ![](https://img.shields.io/github/commit-activity/y/devidw/anxtgo.nvim)
 - [Horryportier/minimal_todo.nvim](https://github.com/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/stars/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/last-commit/Horryportier/minimal_todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Horryportier/minimal_todo.nvim)
 - [xeysz/scripta-unica.nvim](https://github.com/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/stars/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/last-commit/xeysz/scripta-unica.nvim) ![](https://img.shields.io/github/commit-activity/y/xeysz/scripta-unica.nvim)
+- [petrisch/todo-nu-picker.nvim](https://github.com/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/stars/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/last-commit/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/petrisch/todo-nu-picker.nvim)
 
 ### Taskwarrior
 
