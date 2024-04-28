@@ -29,6 +29,7 @@
     + [Animation](#animation)
     + [Type sound](#type-sound)
     + [event sound](#event-sound)
+    + [Speech](#speech)
     + [Input Animation](#input-animation)
   * [Screen server](#screen-server)
 
@@ -195,6 +196,10 @@
 ### event sound
 
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) ![](https://img.shields.io/github/stars/melMass/echo.nvim) ![](https://img.shields.io/github/last-commit/melMass/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/melMass/echo.nvim)
+
+### Speech
+
+- [sevi-kun/narrator.nvim](https://github.com/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/stars/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/last-commit/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/commit-activity/y/sevi-kun/narrator.nvim)
 
 ### Input Animation
 

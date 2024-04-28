@@ -769,6 +769,7 @@
 - [3rd/time-tracker.nvim](https://github.com/3rd/time-tracker.nvim) ![](https://img.shields.io/github/stars/3rd/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/3rd/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/time-tracker.nvim)
 - [Aityz/usage.nvim](https://github.com/Aityz/usage.nvim) ![](https://img.shields.io/github/stars/Aityz/usage.nvim) ![](https://img.shields.io/github/last-commit/Aityz/usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/usage.nvim)
 - [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
+- [mgastonportillo/yerbreak.nvim](https://github.com/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/yerbreak.nvim)
 
 #### Typing speed
 
