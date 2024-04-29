@@ -58,6 +58,7 @@
 - [jborkows/gotest.nvim](https://github.com/jborkows/gotest.nvim) ![](https://img.shields.io/github/stars/jborkows/gotest.nvim) ![](https://img.shields.io/github/last-commit/jborkows/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/jborkows/gotest.nvim)
 - [Aryonal/gou.nvim](https://github.com/Aryonal/gou.nvim) ![](https://img.shields.io/github/stars/Aryonal/gou.nvim) ![](https://img.shields.io/github/last-commit/Aryonal/gou.nvim) ![](https://img.shields.io/github/commit-activity/y/Aryonal/gou.nvim)
 - [sshelll/telescope-gott.nvim](https://github.com/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-gott.nvim)
+- [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) ![](https://img.shields.io/github/stars/vcraescu/gotest.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/gotest.nvim)
 
 ### struct
 

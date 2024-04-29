@@ -648,6 +648,7 @@
 - [arnaupv/nvim-devcontainer-cli](https://github.com/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/stars/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/last-commit/arnaupv/nvim-devcontainer-cli) ![](https://img.shields.io/github/commit-activity/y/arnaupv/nvim-devcontainer-cli)
 - [aw1875/devcontainers.nvim](https://github.com/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/stars/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/devcontainers.nvim)
 - [goropikari/local-container.nvim](https://github.com/goropikari/local-container.nvim) ![](https://img.shields.io/github/stars/goropikari/local-container.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-container.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-container.nvim)
+- [goropikari/local-devcontainer.nvim](https://github.com/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/stars/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-devcontainer.nvim)
 
 ### Collaborative Editing
 
