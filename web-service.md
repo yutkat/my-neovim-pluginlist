@@ -61,6 +61,7 @@
 - [circles-00/nvim-discord-status](https://github.com/circles-00/nvim-discord-status) ![](https://img.shields.io/github/stars/circles-00/nvim-discord-status) ![](https://img.shields.io/github/last-commit/circles-00/nvim-discord-status) ![](https://img.shields.io/github/commit-activity/y/circles-00/nvim-discord-status)
 - [Dekr0/richpresence.nvim](https://github.com/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/stars/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/last-commit/Dekr0/richpresence.nvim) ![](https://img.shields.io/github/commit-activity/y/Dekr0/richpresence.nvim)
 - [956MB/ncks.nvim](https://github.com/956MB/ncks.nvim) ![](https://img.shields.io/github/stars/956MB/ncks.nvim) ![](https://img.shields.io/github/last-commit/956MB/ncks.nvim) ![](https://img.shields.io/github/commit-activity/y/956MB/ncks.nvim)
+- [mistweaverco/discord.nvim](https://github.com/mistweaverco/discord.nvim) ![](https://img.shields.io/github/stars/mistweaverco/discord.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/discord.nvim)
 
 #### Slack
 
