@@ -57,6 +57,7 @@
 - [cvknage/netrw-tree.nvim](https://github.com/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/stars/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/last-commit/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/cvknage/netrw-tree.nvim)
 - [thjbdvlt/frolicd.nvim](https://github.com/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/frolicd.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/frolicd.nvim)
 - [behzade/lf.nvim](https://github.com/behzade/lf.nvim) ![](https://img.shields.io/github/stars/behzade/lf.nvim) ![](https://img.shields.io/github/last-commit/behzade/lf.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/lf.nvim)
+- [sys9kdr/dsfe.nvim](https://github.com/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/stars/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/last-commit/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/commit-activity/y/sys9kdr/dsfe.nvim)
 
 ## gx
 
