@@ -778,11 +778,13 @@
 #### Operation Log
 
 - [icholy/keylog.nvim](https://github.com/icholy/keylog.nvim) ![](https://img.shields.io/github/stars/icholy/keylog.nvim) ![](https://img.shields.io/github/last-commit/icholy/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/icholy/keylog.nvim)
+- [glottologist/keylog.nvim](https://github.com/glottologist/keylog.nvim) ![](https://img.shields.io/github/stars/glottologist/keylog.nvim) ![](https://img.shields.io/github/last-commit/glottologist/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/glottologist/keylog.nvim)
 
 ### Market place
 
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) ![](https://img.shields.io/github/stars/roobert/activate.nvim) ![](https://img.shields.io/github/last-commit/roobert/activate.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/activate.nvim)
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicDuck/grug-far.nvim)
 
 ### RSS
 

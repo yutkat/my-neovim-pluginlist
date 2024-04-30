@@ -23,6 +23,7 @@
 - [jtubbenhauer/selfhelp.nvim](https://github.com/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/selfhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/selfhelp.nvim)
 - [bennypowers/changesets.nvim](https://github.com/bennypowers/changesets.nvim) ![](https://img.shields.io/github/stars/bennypowers/changesets.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/changesets.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/changesets.nvim)
 - [phanen/lazy-help.nvim](https://github.com/phanen/lazy-help.nvim) ![](https://img.shields.io/github/stars/phanen/lazy-help.nvim) ![](https://img.shields.io/github/last-commit/phanen/lazy-help.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lazy-help.nvim)
+- [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
 
 ## CheatSheet
 
