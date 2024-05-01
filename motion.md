@@ -9,6 +9,7 @@
   * [Label Jump (Easymotion style)](#label-jump-easymotion-style)
   * [Horizontal Move](#horizontal-move)
     + [Show jump word](#show-jump-word)
+  * [Motion Label](#motion-label)
   * [Vertical Move](#vertical-move)
   * [Word Motion](#word-motion)
   * [Line Move](#line-move)
@@ -85,6 +86,10 @@
 #### Show jump word
 
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/stars/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/last-commit/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/commit-activity/y/jinh0/eyeliner.nvim)
+
+### Motion Label
+
+- [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) ![](https://img.shields.io/github/stars/tris203/precognition.nvim) ![](https://img.shields.io/github/last-commit/tris203/precognition.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/precognition.nvim)
 
 ### Vertical Move
 
