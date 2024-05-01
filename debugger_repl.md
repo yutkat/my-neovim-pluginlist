@@ -73,6 +73,7 @@
 - [azr4e1/easyREPL.nvim](https://github.com/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/stars/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/last-commit/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/commit-activity/y/azr4e1/easyREPL.nvim)
 - [atinylittleshell/comment-repl.nvim](https://github.com/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/stars/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/last-commit/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/atinylittleshell/comment-repl.nvim)
 - [spaghettijeff/spank.nvim](https://github.com/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/stars/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/last-commit/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/commit-activity/y/spaghettijeff/spank.nvim)
+- [treybastian/nvim-jack-in](https://github.com/treybastian/nvim-jack-in) ![](https://img.shields.io/github/stars/treybastian/nvim-jack-in) ![](https://img.shields.io/github/last-commit/treybastian/nvim-jack-in) ![](https://img.shields.io/github/commit-activity/y/treybastian/nvim-jack-in)
 
 ### Refactoring,Debugging
 
