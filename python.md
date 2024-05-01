@@ -14,6 +14,7 @@
   * [pypi](#pypi)
   * [venv](#venv)
   * [Jupyter](#jupyter)
+  * [Pandas](#pandas)
   * [visidata](#visidata)
   * [Anaconda](#anaconda)
   * [Scrapy](#scrapy)
@@ -95,6 +96,10 @@
 - [benlubas/molten-nvim](https://github.com/benlubas/molten-nvim) ![](https://img.shields.io/github/stars/benlubas/molten-nvim) ![](https://img.shields.io/github/last-commit/benlubas/molten-nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/molten-nvim)
 - [hermabr/jupynava.nvim](https://github.com/hermabr/jupynava.nvim) ![](https://img.shields.io/github/stars/hermabr/jupynava.nvim) ![](https://img.shields.io/github/last-commit/hermabr/jupynava.nvim) ![](https://img.shields.io/github/commit-activity/y/hermabr/jupynava.nvim)
 - [SUSTech-data/neopyter](https://github.com/SUSTech-data/neopyter) ![](https://img.shields.io/github/stars/SUSTech-data/neopyter) ![](https://img.shields.io/github/last-commit/SUSTech-data/neopyter) ![](https://img.shields.io/github/commit-activity/y/SUSTech-data/neopyter)
+
+#### Pandas
+
+- [simondanielsson/nvim-pandas.nvim](https://github.com/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/stars/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/last-commit/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/commit-activity/y/simondanielsson/nvim-pandas.nvim)
 
 #### visidata
 

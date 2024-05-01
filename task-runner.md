@@ -92,6 +92,7 @@
 - [catgoose/do-the-needful.nvim](https://github.com/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/stars/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/last-commit/catgoose/do-the-needful.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/do-the-needful.nvim)
 - [cultab/command.nvim](https://github.com/cultab/command.nvim) ![](https://img.shields.io/github/stars/cultab/command.nvim) ![](https://img.shields.io/github/last-commit/cultab/command.nvim) ![](https://img.shields.io/github/commit-activity/y/cultab/command.nvim)
 - [Rocco-Gossmann/nvim-taskrunner](https://github.com/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/stars/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/last-commit/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/commit-activity/y/Rocco-Gossmann/nvim-taskrunner)
+- [speelbarrow/spLauncher.nvim](https://github.com/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/stars/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/last-commit/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/commit-activity/y/speelbarrow/spLauncher.nvim)
 
 ### Shell
 

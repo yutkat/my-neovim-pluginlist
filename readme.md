@@ -770,6 +770,7 @@
 - [Aityz/usage.nvim](https://github.com/Aityz/usage.nvim) ![](https://img.shields.io/github/stars/Aityz/usage.nvim) ![](https://img.shields.io/github/last-commit/Aityz/usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/usage.nvim)
 - [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
 - [mgastonportillo/yerbreak.nvim](https://github.com/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/yerbreak.nvim)
+- [GuiC0506/Tracker.nvim](https://github.com/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/stars/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/last-commit/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/GuiC0506/Tracker.nvim)
 
 #### Typing speed
 
