@@ -1,0 +1,26 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [Util pack](#util-pack)
+- [Patch](#patch)
+
+<!-- tocstop -->
+
+## Util pack
+
+- [tamton-aquib/essentials.nvim](https://github.com/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/essentials.nvim)
+- [tamton-aquib/stuff.nvim](https://github.com/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/stuff.nvim)
+- [echasnovski/mini.misc](https://github.com/echasnovski/mini.misc) ![](https://img.shields.io/github/stars/echasnovski/mini.misc) ![](https://img.shields.io/github/last-commit/echasnovski/mini.misc) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.misc)
+- [altermo/small.nvim](https://github.com/altermo/small.nvim) ![](https://img.shields.io/github/stars/altermo/small.nvim) ![](https://img.shields.io/github/last-commit/altermo/small.nvim) ![](https://img.shields.io/github/commit-activity/y/altermo/small.nvim)
+- [enigmaiiiiiiii/mini-functions.nvim](https://github.com/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/stars/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/last-commit/enigmaiiiiiiii/mini-functions.nvim) ![](https://img.shields.io/github/commit-activity/y/enigmaiiiiiiii/mini-functions.nvim)
+- [zegabr/toolbox.nvim](https://github.com/zegabr/toolbox.nvim) ![](https://img.shields.io/github/stars/zegabr/toolbox.nvim) ![](https://img.shields.io/github/last-commit/zegabr/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/zegabr/toolbox.nvim)
+- [Kicamon/tool.nvim](https://github.com/Kicamon/tool.nvim) ![](https://img.shields.io/github/stars/Kicamon/tool.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/tool.nvim)
+- [Mr-LLLLL/utilities.nvim](https://github.com/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/utilities.nvim)
+
+## Patch
+
+- [EtiamNullam/deferred-clipboard.nvim](https://github.com/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/deferred-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/deferred-clipboard.nvim)
+- [tanchihpin0517/cursorhold-timeout.nvim](https://github.com/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/stars/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/last-commit/tanchihpin0517/cursorhold-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/tanchihpin0517/cursorhold-timeout.nvim)
+- [BranimirE/fix-auto-scroll.nvim](https://github.com/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/stars/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/last-commit/BranimirE/fix-auto-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/BranimirE/fix-auto-scroll.nvim)
+- [4513ECHO/treesitter-compat-highlights.nvim](https://github.com/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/stars/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/last-commit/4513ECHO/treesitter-compat-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/4513ECHO/treesitter-compat-highlights.nvim)

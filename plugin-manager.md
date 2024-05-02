@@ -12,6 +12,7 @@
   * [Plugin Config](#plugin-config)
   * [Switch](#switch)
   * [Open README](#open-readme)
+- [Market place](#market-place)
 
 <!-- tocstop -->
 
@@ -72,3 +73,9 @@
 ### Open README
 
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) ![](https://img.shields.io/github/stars/neuromaancer/readup.nvim) ![](https://img.shields.io/github/last-commit/neuromaancer/readup.nvim) ![](https://img.shields.io/github/commit-activity/y/neuromaancer/readup.nvim)
+
+## Market place
+
+- [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)
+- [roobert/activate.nvim](https://github.com/roobert/activate.nvim) ![](https://img.shields.io/github/stars/roobert/activate.nvim) ![](https://img.shields.io/github/last-commit/roobert/activate.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/activate.nvim)
+- [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicDuck/grug-far.nvim)

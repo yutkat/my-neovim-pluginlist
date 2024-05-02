@@ -3,7 +3,9 @@
 <!-- toc -->
 
 - [Help](#help)
-- [CheatSheet](#cheatsheet)
+  * [CheatSheet](#cheatsheet)
+  * [External Manual](#external-manual)
+- [Tutorial](#tutorial)
 
 <!-- tocstop -->
 
@@ -25,7 +27,7 @@
 - [phanen/lazy-help.nvim](https://github.com/phanen/lazy-help.nvim) ![](https://img.shields.io/github/stars/phanen/lazy-help.nvim) ![](https://img.shields.io/github/last-commit/phanen/lazy-help.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lazy-help.nvim)
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
 
-## CheatSheet
+### CheatSheet
 
 - [sudormrfbin/cheatsheet.nvim](https://github.com/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/stars/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/sudormrfbin/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/sudormrfbin/cheatsheet.nvim)
 - [Djancyp/cheat-sheet](https://github.com/Djancyp/cheat-sheet) ![](https://img.shields.io/github/stars/Djancyp/cheat-sheet) ![](https://img.shields.io/github/last-commit/Djancyp/cheat-sheet) ![](https://img.shields.io/github/commit-activity/y/Djancyp/cheat-sheet)
@@ -33,3 +35,13 @@
 - [hinkers/nvim-cheatsheet](https://github.com/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/stars/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/hinkers/nvim-cheatsheet)
 - [siawkz/nvim-cheatsh](https://github.com/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/stars/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/last-commit/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/commit-activity/y/siawkz/nvim-cheatsh)
 - [smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/stars/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/last-commit/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/smartinellimarco/nvcheatsheet.nvim)
+
+### External Manual
+
+- [loganswartz/updoc.nvim](https://github.com/loganswartz/updoc.nvim) ![](https://img.shields.io/github/stars/loganswartz/updoc.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/updoc.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/updoc.nvim)
+
+## Tutorial
+
+- [antonk52/bad-practices.nvim](https://github.com/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/stars/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/last-commit/antonk52/bad-practices.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/bad-practices.nvim)
+- [xiantang/coach.nvim](https://github.com/xiantang/coach.nvim) ![](https://img.shields.io/github/stars/xiantang/coach.nvim) ![](https://img.shields.io/github/last-commit/xiantang/coach.nvim) ![](https://img.shields.io/github/commit-activity/y/xiantang/coach.nvim)
+- [Ernest1338/training.nvim](https://github.com/Ernest1338/training.nvim) ![](https://img.shields.io/github/stars/Ernest1338/training.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/training.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/training.nvim)

@@ -1,0 +1,19 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [Tabline](#tabline)
+
+<!-- tocstop -->
+
+## Tabline
+
+- [andrewjwaggoner/cabline.nvim](https://github.com/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/stars/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/last-commit/andrewjwaggoner/cabline.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewjwaggoner/cabline.nvim)
+- [rafi/tabstrip.nvim](https://github.com/rafi/tabstrip.nvim) ![](https://img.shields.io/github/stars/rafi/tabstrip.nvim) ![](https://img.shields.io/github/last-commit/rafi/tabstrip.nvim) ![](https://img.shields.io/github/commit-activity/y/rafi/tabstrip.nvim)
+- [lpoto/tabline.nvim](https://github.com/lpoto/tabline.nvim) ![](https://img.shields.io/github/stars/lpoto/tabline.nvim) ![](https://img.shields.io/github/last-commit/lpoto/tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/lpoto/tabline.nvim)
+- [mgnsk/autotabline.nvim](https://github.com/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/stars/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/autotabline.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/autotabline.nvim)
+- [nathanberry97/dumbtab.nvim](https://github.com/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtab.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtab.nvim)
+- [eliseshaffer/tableau.nvim](https://github.com/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/stars/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/last-commit/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/commit-activity/y/eliseshaffer/tableau.nvim)
+- [mnjm/topline.nvim](https://github.com/mnjm/topline.nvim) ![](https://img.shields.io/github/stars/mnjm/topline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/topline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/topline.nvim)
+- [TeddyRandby/taboo.nvim](https://github.com/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/stars/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/last-commit/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/commit-activity/y/TeddyRandby/taboo.nvim)
+
