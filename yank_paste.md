@@ -6,6 +6,7 @@
   * [URL](#url)
   * [Register Selector](#register-selector)
   * [Edit Register](#edit-register)
+  * [Line Number](#line-number)
   * [OSC52](#osc52)
   * [Save](#save)
 - [Paste](#paste)
@@ -48,6 +49,10 @@
 ## Edit Register
 
 - [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
+
+## Line Number
+
+- [akiyosi/copysource.nvim](https://github.com/akiyosi/copysource.nvim) ![](https://img.shields.io/github/stars/akiyosi/copysource.nvim) ![](https://img.shields.io/github/last-commit/akiyosi/copysource.nvim) ![](https://img.shields.io/github/commit-activity/y/akiyosi/copysource.nvim)
 
 ## OSC52
 

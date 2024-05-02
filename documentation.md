@@ -12,11 +12,12 @@
       - [Lua](#lua)
       - [Node](#node)
       - [Deno](#deno)
+      - [Rust](#rust)
       - [Glow](#glow)
       - [Zathura](#zathura)
     + [Pandoc Preview](#pandoc-preview)
       - [Python(markdown-live-preview)](#pythonmarkdown-live-preview)
-      - [Rust](#rust)
+      - [Rust](#rust-1)
       - [Go](#go)
       - [Misc](#misc)
     + [Markdown code block](#markdown-code-block)
@@ -113,6 +114,10 @@
 ##### Deno
 
 - [toppair/peek.nvim](https://github.com/toppair/peek.nvim) ![](https://img.shields.io/github/stars/toppair/peek.nvim) ![](https://img.shields.io/github/last-commit/toppair/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/toppair/peek.nvim)
+
+##### Rust
+
+- [henriklovhaug/Preview.nvim](https://github.com/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/stars/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/last-commit/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/commit-activity/y/henriklovhaug/Preview.nvim)
 
 ##### Glow
 
