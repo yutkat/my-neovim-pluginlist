@@ -63,17 +63,11 @@
   * [Abbreviation](#abbreviation)
   * [Quickfix / Location](#quickfix--location)
   * [Directory](#directory)
-  * [Directory](#directory-1)
-  * [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
-  * [ftplugin](#ftplugin)
   * [filetype](#filetype)
-    + [filetype colorscheme](#filetype-colorscheme)
-  * [Encoding](#encoding)
   * [Macro](#macro)
   * [Errorformat](#errorformat)
   * [Message / Notification](#message--notification)
   * [Help](#help)
-  * [checkhealth](#checkhealth)
   * [Save&Backup](#savebackup)
   * [Startup](#startup)
   * [Session](#session)
@@ -113,8 +107,7 @@
   * [Analytics](#analytics)
   * [RSS](#rss)
     + [Code::Stats](#codestats)
-  * [Update check](#update-check)
-    + [init.lua(vimrc)](#initluavimrc)
+  * [Checker](#checker)
   * [Font / Emoji](#font--emoji)
 - [Util pack](#util-pack)
 - [Integration with other apps](#integration-with-other-apps)
@@ -355,27 +348,7 @@
 
 ### [Directory](./directory.md)
 
-### [Directory](./directory.md)
-
-### ftdetect(Filetype detector)
-
-- [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) ![](https://img.shields.io/github/stars/spywhere/detect-language.nvim) ![](https://img.shields.io/github/last-commit/spywhere/detect-language.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/detect-language.nvim)
-
-### ftplugin
-
-- [prichrd/ftconf.nvim](https://github.com/prichrd/ftconf.nvim) ![](https://img.shields.io/github/stars/prichrd/ftconf.nvim) ![](https://img.shields.io/github/last-commit/prichrd/ftconf.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/ftconf.nvim)
-
-### filetype
-
-- [rtalexk/telescope-filetypes.nvim](https://github.com/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/stars/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/last-commit/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/commit-activity/y/rtalexk/telescope-filetypes.nvim)
-
-#### filetype colorscheme
-
-- [folke/styler.nvim](https://github.com/folke/styler.nvim) ![](https://img.shields.io/github/stars/folke/styler.nvim) ![](https://img.shields.io/github/last-commit/folke/styler.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/styler.nvim)
-
-### Encoding
-
-- [sjjwantfish/encodings.nvim](https://github.com/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/stars/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/last-commit/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/commit-activity/y/sjjwantfish/encodings.nvim)
+### [filetype](./filetype.md)
 
 ### [Macro](./macro.md)
 
@@ -386,10 +359,6 @@
 ### [Message / Notification](./message_notification.md)
 
 ### [Help](./help.md)
-
-### checkhealth
-
-- [Davidyz/executable-checker.nvim](https://github.com/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/stars/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/executable-checker.nvim)
 
 ### [Save&Backup](./save_backup.md)
 
@@ -509,13 +478,7 @@
 - [maorun/code-stats.nvim](https://github.com/maorun/code-stats.nvim) ![](https://img.shields.io/github/stars/maorun/code-stats.nvim) ![](https://img.shields.io/github/last-commit/maorun/code-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/code-stats.nvim)
 - [liljaylj/codestats.nvim](https://github.com/liljaylj/codestats.nvim) ![](https://img.shields.io/github/stars/liljaylj/codestats.nvim) ![](https://img.shields.io/github/last-commit/liljaylj/codestats.nvim) ![](https://img.shields.io/github/commit-activity/y/liljaylj/codestats.nvim)
 
-### Update check
-
-- [diegoroccia/checkupdate.nvim](https://github.com/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/stars/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/last-commit/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoroccia/checkupdate.nvim)
-
-#### init.lua(vimrc)
-
-- [Zeioth/distroupdate.nvim](https://github.com/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/stars/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/distroupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/distroupdate.nvim)
+### [Checker](./checker.md)
 
 ### [Font / Emoji](./font_emoji.md)
 
