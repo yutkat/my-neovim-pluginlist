@@ -134,7 +134,6 @@
 - [elianiva/telescope-npm.nvim](https://github.com/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/stars/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/last-commit/elianiva/telescope-npm.nvim) ![](https://img.shields.io/github/commit-activity/y/elianiva/telescope-npm.nvim)
 - [azizgharbi/nodePackageCheck.nvim](https://github.com/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/stars/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/last-commit/azizgharbi/nodePackageCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/azizgharbi/nodePackageCheck.nvim)
 - [pipoprods/nvm.nvim](https://github.com/pipoprods/nvm.nvim) ![](https://img.shields.io/github/stars/pipoprods/nvm.nvim) ![](https://img.shields.io/github/last-commit/pipoprods/nvm.nvim) ![](https://img.shields.io/github/commit-activity/y/pipoprods/nvm.nvim)
-- [muryp/muryp-findList.nvim](https://github.com/muryp/muryp-findList.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-findList.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-findList.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-findList.nvim)
 - [ferrgo/telescope-npm-scripts.nvim](https://github.com/ferrgo/telescope-npm-scripts.nvim) ![](https://img.shields.io/github/stars/ferrgo/telescope-npm-scripts.nvim) ![](https://img.shields.io/github/last-commit/ferrgo/telescope-npm-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/ferrgo/telescope-npm-scripts.nvim)
 
 ###### pnpm
