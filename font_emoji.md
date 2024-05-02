@@ -2,10 +2,22 @@
 
 <!-- toc -->
 
+- [Font](#font)
 - [Emoji](#emoji)
   * [Emoji FuzzyFinder](#emoji-fuzzyfinder)
 
 <!-- tocstop -->
+
+## Font
+
+- [delphinus/eaw.nvim](https://github.com/delphinus/eaw.nvim) ![](https://img.shields.io/github/stars/delphinus/eaw.nvim) ![](https://img.shields.io/github/last-commit/delphinus/eaw.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/eaw.nvim)
+- [delphinus/cellwidths.nvim](https://github.com/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/stars/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/last-commit/delphinus/cellwidths.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/cellwidths.nvim)
+- [amarakon/nvim-cmp-fonts](https://github.com/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/stars/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/last-commit/amarakon/nvim-cmp-fonts) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-cmp-fonts)
+- [NycRat/gui-fonts.nvim](https://github.com/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/stars/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/last-commit/NycRat/gui-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/gui-fonts.nvim)
+- [nvimdev/nerdicons.nvim](https://github.com/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/stars/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/nerdicons.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nerdicons.nvim)
+- [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
+- [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
+- [abcdefg233/fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/stars/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/fontresizer.nvim)
 
 ## Emoji
 

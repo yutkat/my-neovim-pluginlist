@@ -18,6 +18,7 @@
     + [status](#status)
     + [oldfiles](#oldfiles)
   * [Scratch Buffer](#scratch-buffer)
+  * [Scratchpad](#scratchpad)
   * [buffer Sharing](#buffer-sharing)
 - [Window](#window)
   * [Window Switcher](#window-switcher)
@@ -180,6 +181,13 @@
 - [m-demare/attempt.nvim](https://github.com/m-demare/attempt.nvim) ![](https://img.shields.io/github/stars/m-demare/attempt.nvim) ![](https://img.shields.io/github/last-commit/m-demare/attempt.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/attempt.nvim)
 - [n-shift/scratch.nvim](https://github.com/n-shift/scratch.nvim) ![](https://img.shields.io/github/stars/n-shift/scratch.nvim) ![](https://img.shields.io/github/last-commit/n-shift/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/n-shift/scratch.nvim)
 - [nyngwang/NeoNoName.lua](https://github.com/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/stars/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/last-commit/nyngwang/NeoNoName.lua) ![](https://img.shields.io/github/commit-activity/y/nyngwang/NeoNoName.lua)
+
+### Scratchpad
+
+- [FraserLee/ScratchPad](https://github.com/FraserLee/ScratchPad) ![](https://img.shields.io/github/stars/FraserLee/ScratchPad) ![](https://img.shields.io/github/last-commit/FraserLee/ScratchPad) ![](https://img.shields.io/github/commit-activity/y/FraserLee/ScratchPad)
+- [sindrets/scratchpad.nvim](https://github.com/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/stars/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/sindrets/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/scratchpad.nvim)
+- [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) ![](https://img.shields.io/github/stars/niuiic/part-edit.nvim) ![](https://img.shields.io/github/last-commit/niuiic/part-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/part-edit.nvim)
+- [musaubrian/scratch.nvim](https://github.com/musaubrian/scratch.nvim) ![](https://img.shields.io/github/stars/musaubrian/scratch.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/scratch.nvim)
 
 ### buffer Sharing
 

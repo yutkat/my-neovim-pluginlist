@@ -1,0 +1,47 @@
+# Table of Contents
+
+<!-- toc -->
+
+- [PHP](#php)
+  * [Live server](#live-server)
+  * [Laravel](#laravel)
+  * [Symfony](#symfony)
+    + [drupal](#drupal)
+
+<!-- tocstop -->
+
+## PHP
+
+- [adalessa/composer.nvim](https://github.com/adalessa/composer.nvim) ![](https://img.shields.io/github/stars/adalessa/composer.nvim) ![](https://img.shields.io/github/last-commit/adalessa/composer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/composer.nvim)
+- [ccaglak/namespace.nvim](https://github.com/ccaglak/namespace.nvim) ![](https://img.shields.io/github/stars/ccaglak/namespace.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/namespace.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/namespace.nvim)
+- [Heyfara/php-cs-fixer.nvim](https://github.com/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/stars/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/last-commit/Heyfara/php-cs-fixer.nvim) ![](https://img.shields.io/github/commit-activity/y/Heyfara/php-cs-fixer.nvim)
+- [ahollister/phpcbf.nvim](https://github.com/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/stars/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/last-commit/ahollister/phpcbf.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/phpcbf.nvim)
+- [whleucka/latte.nvim](https://github.com/whleucka/latte.nvim) ![](https://img.shields.io/github/stars/whleucka/latte.nvim) ![](https://img.shields.io/github/last-commit/whleucka/latte.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/latte.nvim)
+- [ccaglak/phpUtils.nvim](https://github.com/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/stars/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/phpUtils.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/phpUtils.nvim)
+- [ta-tikoma/php.easy.nvim](https://github.com/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/stars/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/last-commit/ta-tikoma/php.easy.nvim) ![](https://img.shields.io/github/commit-activity/y/ta-tikoma/php.easy.nvim)
+- [RicardoRamirezR/php-use-sort.nvim](https://github.com/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-use-sort.nvim)
+- [praem90/neotest-docker-phpunit.nvim](https://github.com/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/stars/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/last-commit/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/neotest-docker-phpunit.nvim)
+- [RVxLab/php-composer.nvim](https://github.com/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/stars/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/last-commit/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/commit-activity/y/RVxLab/php-composer.nvim)
+
+### Live server
+
+- [Diogo-ss/five-server.nvim](https://github.com/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/five-server.nvim)
+
+### Laravel
+
+- [adalessa/laravel.nvim](https://github.com/adalessa/laravel.nvim) ![](https://img.shields.io/github/stars/adalessa/laravel.nvim) ![](https://img.shields.io/github/last-commit/adalessa/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/laravel.nvim)
+- [ccaglak/larago.nvim](https://github.com/ccaglak/larago.nvim) ![](https://img.shields.io/github/stars/ccaglak/larago.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/larago.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/larago.nvim)
+- [jaytyrrell13/telescope-artisan.nvim](https://github.com/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/telescope-artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/telescope-artisan.nvim)
+- [oliverhkraft/nvim-pint](https://github.com/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/stars/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/last-commit/oliverhkraft/nvim-pint) ![](https://img.shields.io/github/commit-activity/y/oliverhkraft/nvim-pint)
+- [theoboldalex/artisan.nvim](https://github.com/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/stars/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/artisan.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/artisan.nvim)
+- [adoolaard/nvim-cmp-laravel](https://github.com/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/stars/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/last-commit/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/commit-activity/y/adoolaard/nvim-cmp-laravel)
+- [mikereyez/laravel-helpers.nvim](https://github.com/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/stars/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/last-commit/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/mikereyez/laravel-helpers.nvim)
+
+### Symfony
+
+- [fbuchlak/cmp-symfony-router](https://github.com/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/stars/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/last-commit/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/cmp-symfony-router)
+- [thomas-hiron/symfony-goto.nvim](https://github.com/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/stars/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/last-commit/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-hiron/symfony-goto.nvim)
+
+#### drupal
+
+- [jdrupal-dev/drupal.nvim](https://github.com/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/drupal.nvim)

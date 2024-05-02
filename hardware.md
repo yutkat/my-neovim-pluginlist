@@ -14,6 +14,7 @@
   * [Microcomputer](#microcomputer)
     + [LEGO](#lego)
   * [Keyboard](#keyboard)
+    + [Keyboard Layout](#keyboard-layout)
     + [Virtual Keyboard](#virtual-keyboard)
   * [Embedded Software](#embedded-software)
     + [Arduino](#arduino)
@@ -72,6 +73,15 @@
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 - [jdsee/umlauts.nvim](https://github.com/jdsee/umlauts.nvim) ![](https://img.shields.io/github/stars/jdsee/umlauts.nvim) ![](https://img.shields.io/github/last-commit/jdsee/umlauts.nvim) ![](https://img.shields.io/github/commit-activity/y/jdsee/umlauts.nvim)
 - [linduxed/colemak.nvim](https://github.com/linduxed/colemak.nvim) ![](https://img.shields.io/github/stars/linduxed/colemak.nvim) ![](https://img.shields.io/github/last-commit/linduxed/colemak.nvim) ![](https://img.shields.io/github/commit-activity/y/linduxed/colemak.nvim)
+
+#### Keyboard Layout
+
+- [kbario/homerows.nvim](https://github.com/kbario/homerows.nvim) ![](https://img.shields.io/github/stars/kbario/homerows.nvim) ![](https://img.shields.io/github/last-commit/kbario/homerows.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/homerows.nvim)
+- [vetsE/bepo.nvim](https://github.com/vetsE/bepo.nvim) ![](https://img.shields.io/github/stars/vetsE/bepo.nvim) ![](https://img.shields.io/github/last-commit/vetsE/bepo.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/bepo.nvim)
+- [ivanesmantovich/xkbswitch.nvim](https://github.com/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/stars/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/ivanesmantovich/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanesmantovich/xkbswitch.nvim)
+- [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
+- [jaredmontoya/bikey.nvim](https://github.com/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/stars/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/last-commit/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/commit-activity/y/jaredmontoya/bikey.nvim)
+- [fullpipe/xkbswitch.nvim](https://github.com/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/stars/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/fullpipe/xkbswitch.nvim)
 
 #### Virtual Keyboard
 
