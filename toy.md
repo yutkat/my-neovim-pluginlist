@@ -25,6 +25,7 @@
   * [Music](#music)
       - [MIDI](#midi)
       - [Morse](#morse)
+      - [Guitar](#guitar)
     + [Recording](#recording)
     + [Animation](#animation)
     + [Type sound](#type-sound)
@@ -178,6 +179,10 @@
 #### Morse
 
 - [TheyCallMeHacked/morse.nvim](https://github.com/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/stars/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/last-commit/TheyCallMeHacked/morse.nvim) ![](https://img.shields.io/github/commit-activity/y/TheyCallMeHacked/morse.nvim)
+
+#### Guitar
+
+- [mikemehl/guitar.nvim](https://github.com/mikemehl/guitar.nvim) ![](https://img.shields.io/github/stars/mikemehl/guitar.nvim) ![](https://img.shields.io/github/last-commit/mikemehl/guitar.nvim) ![](https://img.shields.io/github/commit-activity/y/mikemehl/guitar.nvim)
 
 ### Recording
 
