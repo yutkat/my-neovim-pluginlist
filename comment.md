@@ -54,6 +54,7 @@
 ## File Header
 
 - [ProudFaceOfSUiR/epitech.nvim](https://github.com/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/stars/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/last-commit/ProudFaceOfSUiR/epitech.nvim) ![](https://img.shields.io/github/commit-activity/y/ProudFaceOfSUiR/epitech.nvim)
+- [cschult/insgitheader.nvim](https://github.com/cschult/insgitheader.nvim) ![](https://img.shields.io/github/stars/cschult/insgitheader.nvim) ![](https://img.shields.io/github/last-commit/cschult/insgitheader.nvim) ![](https://img.shields.io/github/commit-activity/y/cschult/insgitheader.nvim)
 
 ## Todo Comment Highlight
 
