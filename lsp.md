@@ -10,6 +10,7 @@
     + [Pull Diagnostics](#pull-diagnostics)
       - [unused variable](#unused-variable)
       - [diagnostics summary](#diagnostics-summary)
+    + [Annotation](#annotation)
     + [Signature Help](#signature-help)
     + [Definition, Reference](#definition-reference)
     + [Code action](#code-action)
@@ -111,6 +112,10 @@
 
 - [Mofiqul/trld.nvim](https://github.com/Mofiqul/trld.nvim) ![](https://img.shields.io/github/stars/Mofiqul/trld.nvim) ![](https://img.shields.io/github/last-commit/Mofiqul/trld.nvim) ![](https://img.shields.io/github/commit-activity/y/Mofiqul/trld.nvim)
 - [ivanjermakov/troublesum.nvim](https://github.com/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/troublesum.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/troublesum.nvim)
+
+#### Annotation
+
+- [amadanmath/diag_ignore.nvim](https://github.com/amadanmath/diag_ignore.nvim) ![](https://img.shields.io/github/stars/amadanmath/diag_ignore.nvim) ![](https://img.shields.io/github/last-commit/amadanmath/diag_ignore.nvim) ![](https://img.shields.io/github/commit-activity/y/amadanmath/diag_ignore.nvim)
 
 #### Signature Help
 

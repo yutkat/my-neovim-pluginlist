@@ -3,7 +3,8 @@
 <!-- toc -->
 
 - [Security](#security)
-  * [Privacy](#privacy)
+  * [Secrets](#secrets)
+- [Privacy](#privacy)
 
 <!-- tocstop -->
 
@@ -21,4 +22,9 @@
 - [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/DevSecInspect.nvim)
 - [michaelPotter/secure-settings.nvim](https://github.com/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/stars/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/secure-settings.nvim)
 
-#### Privacy
+#### Secrets
+
+- [conneroisu/doppler.nvim](https://github.com/conneroisu/doppler.nvim) ![](https://img.shields.io/github/stars/conneroisu/doppler.nvim) ![](https://img.shields.io/github/last-commit/conneroisu/doppler.nvim) ![](https://img.shields.io/github/commit-activity/y/conneroisu/doppler.nvim)
+
+### Privacy
+
