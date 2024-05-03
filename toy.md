@@ -80,6 +80,7 @@
 - [fpeterek/nvim-surfers](https://github.com/fpeterek/nvim-surfers) ![](https://img.shields.io/github/stars/fpeterek/nvim-surfers) ![](https://img.shields.io/github/last-commit/fpeterek/nvim-surfers) ![](https://img.shields.io/github/commit-activity/y/fpeterek/nvim-surfers)
 - [willothy/strat-hero.nvim](https://github.com/willothy/strat-hero.nvim) ![](https://img.shields.io/github/stars/willothy/strat-hero.nvim) ![](https://img.shields.io/github/last-commit/willothy/strat-hero.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/strat-hero.nvim)
 - [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
+- [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) ![](https://img.shields.io/github/stars/rktjmp/playtime.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/playtime.nvim)
 
 ### Typing
 
