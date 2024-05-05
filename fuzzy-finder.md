@@ -37,6 +37,7 @@
 - [roginfarrer/fzf-lua-lazy.nvim](https://github.com/roginfarrer/fzf-lua-lazy.nvim) ![](https://img.shields.io/github/stars/roginfarrer/fzf-lua-lazy.nvim) ![](https://img.shields.io/github/last-commit/roginfarrer/fzf-lua-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/roginfarrer/fzf-lua-lazy.nvim)
 - [kupospelov/nvim-fzf](https://github.com/kupospelov/nvim-fzf) ![](https://img.shields.io/github/stars/kupospelov/nvim-fzf) ![](https://img.shields.io/github/last-commit/kupospelov/nvim-fzf) ![](https://img.shields.io/github/commit-activity/y/kupospelov/nvim-fzf)
 - [homerours/jumper.nvim](https://github.com/homerours/jumper.nvim) ![](https://img.shields.io/github/stars/homerours/jumper.nvim) ![](https://img.shields.io/github/last-commit/homerours/jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/homerours/jumper.nvim)
+- [adigitoleo/quark.nvim](https://github.com/adigitoleo/quark.nvim) ![](https://img.shields.io/github/stars/adigitoleo/quark.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/quark.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/quark.nvim)
 
 ### Telescope Extensions
 

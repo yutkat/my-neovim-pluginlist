@@ -330,6 +330,7 @@
 - [xerbalind/dodona.nvim](https://github.com/xerbalind/dodona.nvim) ![](https://img.shields.io/github/stars/xerbalind/dodona.nvim) ![](https://img.shields.io/github/last-commit/xerbalind/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/xerbalind/dodona.nvim)
 - [eash-d/CPHelper.nvim](https://github.com/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/stars/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/last-commit/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/commit-activity/y/eash-d/CPHelper.nvim)
 - [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/assistant.nvim)
+- [XXiaoA/cp.nvim](https://github.com/XXiaoA/cp.nvim) ![](https://img.shields.io/github/stars/XXiaoA/cp.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/cp.nvim)
 
 # Computer science
 
