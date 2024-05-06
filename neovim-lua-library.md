@@ -193,6 +193,7 @@
 
 - [NTBBloodbath/rest.nvim](https://github.com/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/rest.nvim)
   - [amirali/rest-ui.nvim](https://github.com/amirali/rest-ui.nvim) ![](https://img.shields.io/github/stars/amirali/rest-ui.nvim) ![](https://img.shields.io/github/last-commit/amirali/rest-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/amirali/rest-ui.nvim)
+- [lima1909/resty.nvim](https://github.com/lima1909/resty.nvim) ![](https://img.shields.io/github/stars/lima1909/resty.nvim) ![](https://img.shields.io/github/last-commit/lima1909/resty.nvim) ![](https://img.shields.io/github/commit-activity/y/lima1909/resty.nvim)
 
 ### GRPC
 

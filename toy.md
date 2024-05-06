@@ -172,6 +172,7 @@
 - [reblast/foobar2000.nvim](https://github.com/reblast/foobar2000.nvim) ![](https://img.shields.io/github/stars/reblast/foobar2000.nvim) ![](https://img.shields.io/github/last-commit/reblast/foobar2000.nvim) ![](https://img.shields.io/github/commit-activity/y/reblast/foobar2000.nvim)
 - [cockytrumpet/yt_audio.nvim](https://github.com/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/stars/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/last-commit/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/commit-activity/y/cockytrumpet/yt_audio.nvim)
 - [Leenuus/mpc.nvim](https://github.com/Leenuus/mpc.nvim) ![](https://img.shields.io/github/stars/Leenuus/mpc.nvim) ![](https://img.shields.io/github/last-commit/Leenuus/mpc.nvim) ![](https://img.shields.io/github/commit-activity/y/Leenuus/mpc.nvim)
+- [paulfrische/mpd.nvim](https://github.com/paulfrische/mpd.nvim) ![](https://img.shields.io/github/stars/paulfrische/mpd.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mpd.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mpd.nvim)
 
 #### MIDI
 
