@@ -252,6 +252,7 @@
 - [GarciaBarreiro/nvim-pandoc](https://github.com/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/stars/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/last-commit/GarciaBarreiro/nvim-pandoc) ![](https://img.shields.io/github/commit-activity/y/GarciaBarreiro/nvim-pandoc)
 - [kamalsacranie/pandoc-preview.nvim](https://github.com/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/stars/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/last-commit/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/pandoc-preview.nvim)
 - [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
+- [wwaltb/run-pandoc.nvim](https://github.com/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/stars/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/last-commit/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/wwaltb/run-pandoc.nvim)
 
 ### Vimdoc
 
