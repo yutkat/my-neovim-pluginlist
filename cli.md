@@ -79,7 +79,6 @@
 
 #### Zellij
 
-- [Lilja/zellij.nvim](https://github.com/Lilja/zellij.nvim) ![](https://img.shields.io/github/stars/Lilja/zellij.nvim) ![](https://img.shields.io/github/last-commit/Lilja/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/Lilja/zellij.nvim)
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/stars/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/zellij-nav.nvim)
 - [hiasr/vim-zellij-navigator.nvim](https://github.com/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/stars/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/last-commit/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/hiasr/vim-zellij-navigator.nvim)
 
