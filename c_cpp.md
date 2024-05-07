@@ -74,6 +74,7 @@
 - [XDeme/cmake-kits.nvim](https://github.com/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/stars/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/last-commit/XDeme/cmake-kits.nvim) ![](https://img.shields.io/github/commit-activity/y/XDeme/cmake-kits.nvim)
 - [gergol/cmake-debugger.nvim](https://github.com/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/stars/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/last-commit/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/gergol/cmake-debugger.nvim)
 - [cyuria/build.nvim](https://github.com/cyuria/build.nvim) ![](https://img.shields.io/github/stars/cyuria/build.nvim) ![](https://img.shields.io/github/last-commit/cyuria/build.nvim) ![](https://img.shields.io/github/commit-activity/y/cyuria/build.nvim)
+- [daniilrozanov/cmake.nvim](https://github.com/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/stars/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/last-commit/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/daniilrozanov/cmake.nvim)
 
 #### LLDB
 
