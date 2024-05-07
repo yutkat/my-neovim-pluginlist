@@ -69,6 +69,7 @@
 - [sathishmanohar/quick-buffer-jump](https://github.com/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/stars/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/last-commit/sathishmanohar/quick-buffer-jump) ![](https://img.shields.io/github/commit-activity/y/sathishmanohar/quick-buffer-jump)
 - [srcrip/torus.nvim](https://github.com/srcrip/torus.nvim) ![](https://img.shields.io/github/stars/srcrip/torus.nvim) ![](https://img.shields.io/github/last-commit/srcrip/torus.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/torus.nvim)
 - [ayoubelmhamdi/qbuf.nvim](https://github.com/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/stars/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/last-commit/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/ayoubelmhamdi/qbuf.nvim)
+- [ernstwi/juggler.nvim](https://github.com/ernstwi/juggler.nvim) ![](https://img.shields.io/github/stars/ernstwi/juggler.nvim) ![](https://img.shields.io/github/last-commit/ernstwi/juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/ernstwi/juggler.nvim)
 
 ### Other Buffer Switcher
 

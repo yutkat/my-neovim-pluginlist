@@ -100,6 +100,7 @@
 - [notomo/vusted](https://github.com/notomo/vusted) ![](https://img.shields.io/github/stars/notomo/vusted) ![](https://img.shields.io/github/last-commit/notomo/vusted) ![](https://img.shields.io/github/commit-activity/y/notomo/vusted)
 - [hkupty/runes.nvim](https://github.com/hkupty/runes.nvim) ![](https://img.shields.io/github/stars/hkupty/runes.nvim) ![](https://img.shields.io/github/last-commit/hkupty/runes.nvim) ![](https://img.shields.io/github/commit-activity/y/hkupty/runes.nvim)
 - [Sam-programs/keymap-tester.nvim](https://github.com/Sam-programs/keymap-tester.nvim) ![](https://img.shields.io/github/stars/Sam-programs/keymap-tester.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/keymap-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/keymap-tester.nvim)
+- [3rd/testing.nvim](https://github.com/3rd/testing.nvim) ![](https://img.shields.io/github/stars/3rd/testing.nvim) ![](https://img.shields.io/github/last-commit/3rd/testing.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/testing.nvim)
 
 ## Help
 

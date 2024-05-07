@@ -102,6 +102,7 @@
 - [slimslenderslacks/nvim-docker-ai](https://github.com/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-docker-ai) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-docker-ai)
 - [h4ckm1n-dev/nvim-ollama](https://github.com/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/stars/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/nvim-ollama)
 - [louis-brunet/ollouma.nvim](https://github.com/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/stars/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/last-commit/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/commit-activity/y/louis-brunet/ollouma.nvim)
+- [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/stars/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/last-commit/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/commit-activity/y/meeehdi-dev/bropilot.nvim)
 
 ### Claude
 

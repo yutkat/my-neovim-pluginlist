@@ -51,6 +51,7 @@
     + [Orca](#orca)
     + [sylt](#sylt)
     + [Cyber](#cyber)
+    + [Aeria](#aeria)
     + [Templaty](#templaty)
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
@@ -290,6 +291,10 @@
 ### Cyber
 
 - [instance-id/nvim-cyber](https://github.com/instance-id/nvim-cyber) ![](https://img.shields.io/github/stars/instance-id/nvim-cyber) ![](https://img.shields.io/github/last-commit/instance-id/nvim-cyber) ![](https://img.shields.io/github/commit-activity/y/instance-id/nvim-cyber)
+
+### Aeria
+
+- [aeria-org/aeria.nvim](https://github.com/aeria-org/aeria.nvim) ![](https://img.shields.io/github/stars/aeria-org/aeria.nvim) ![](https://img.shields.io/github/last-commit/aeria-org/aeria.nvim) ![](https://img.shields.io/github/commit-activity/y/aeria-org/aeria.nvim)
 
 ### Templaty
 
