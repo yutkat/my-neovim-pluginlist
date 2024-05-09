@@ -38,6 +38,7 @@
   * [Vimdoc](#vimdoc)
   * [Tex](#tex)
     + [Image](#image)
+    + [subfiles](#subfiles)
     + [Tex Preview](#tex-preview)
     + [BiBTex](#bibtex)
   * [Copyright](#copyright)
@@ -84,6 +85,7 @@
 - [Zeioth/markmap.nvim](https://github.com/Zeioth/markmap.nvim) ![](https://img.shields.io/github/stars/Zeioth/markmap.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/markmap.nvim)
 - [arthur-remy/md-auto-filename.nvim](https://github.com/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/stars/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/last-commit/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/commit-activity/y/arthur-remy/md-auto-filename.nvim)
 - [thjbdvlt/underlowne.nvim](https://github.com/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/underlowne.nvim)
+- [onurozuduru/himarkdown.nvim](https://github.com/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/stars/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/last-commit/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/onurozuduru/himarkdown.nvim)
 
 ##### Title explorer
 
@@ -290,6 +292,10 @@
 #### Image
 
 - [Scarcy/LatexImage.nvim](https://github.com/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/stars/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/last-commit/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/commit-activity/y/Scarcy/LatexImage.nvim)
+
+#### subfiles
+
+- [thornoar/nvim-subfiles](https://github.com/thornoar/nvim-subfiles) ![](https://img.shields.io/github/stars/thornoar/nvim-subfiles) ![](https://img.shields.io/github/last-commit/thornoar/nvim-subfiles) ![](https://img.shields.io/github/commit-activity/y/thornoar/nvim-subfiles)
 
 #### Tex Preview
 
