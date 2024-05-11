@@ -13,7 +13,7 @@
   * [Claude](#claude)
   * [Aider](#aider)
   * [Otter](#otter)
-  * [Google Bard](#google-bard)
+  * [Gemini](#gemini-1)
   * [Mentat](#mentat)
   * [Codeium](#codeium)
   * [Machine Learning](#machine-learning)
@@ -22,6 +22,7 @@
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
 - [OpenAI Review](#openai-review)
+- [Writefull](#writefull)
 
 <!-- tocstop -->
 
@@ -116,7 +117,7 @@
 
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ![](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/otter.nvim)
 
-### Google Bard
+### Gemini
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
 
@@ -157,3 +158,7 @@
 ## OpenAI Review
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
+
+## Writefull
+
+- [arunoruto/writefull.nvim](https://github.com/arunoruto/writefull.nvim) ![](https://img.shields.io/github/stars/arunoruto/writefull.nvim) ![](https://img.shields.io/github/last-commit/arunoruto/writefull.nvim) ![](https://img.shields.io/github/commit-activity/y/arunoruto/writefull.nvim)

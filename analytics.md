@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Analytics](#analytics)
+  * [Mapping stat](#mapping-stat)
   * [Typing speed](#typing-speed)
   * [Operation Log](#operation-log)
   * [Performance Test](#performance-test)
@@ -30,6 +31,10 @@
 - [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
 - [mgastonportillo/yerbreak.nvim](https://github.com/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/yerbreak.nvim)
 - [GuiC0506/Tracker.nvim](https://github.com/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/stars/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/last-commit/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/GuiC0506/Tracker.nvim)
+
+### Mapping stat
+
+- [gmatheu/keymap-stats.nvim](https://github.com/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/stars/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/last-commit/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/gmatheu/keymap-stats.nvim)
 
 ### Typing speed
 

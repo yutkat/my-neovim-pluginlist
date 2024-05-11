@@ -47,6 +47,7 @@
 ### Duplicate
 
 - [hinell/duplicate.nvim](https://github.com/hinell/duplicate.nvim) ![](https://img.shields.io/github/stars/hinell/duplicate.nvim) ![](https://img.shields.io/github/last-commit/hinell/duplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/hinell/duplicate.nvim)
+- [AT-AT/duplines.nvim](https://github.com/AT-AT/duplines.nvim) ![](https://img.shields.io/github/stars/AT-AT/duplines.nvim) ![](https://img.shields.io/github/last-commit/AT-AT/duplines.nvim) ![](https://img.shields.io/github/commit-activity/y/AT-AT/duplines.nvim)
 
 ### Move
 
