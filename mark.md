@@ -19,6 +19,7 @@
 - [patnr/emarks.nvim](https://github.com/patnr/emarks.nvim) ![](https://img.shields.io/github/stars/patnr/emarks.nvim) ![](https://img.shields.io/github/last-commit/patnr/emarks.nvim) ![](https://img.shields.io/github/commit-activity/y/patnr/emarks.nvim)
 - [Laellekoenig/marky-mark.nvim](https://github.com/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/stars/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/last-commit/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/Laellekoenig/marky-mark.nvim)
 - [brunobmello25/project-marks.nvim](https://github.com/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/stars/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/last-commit/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/brunobmello25/project-marks.nvim)
+- [niuiic/track.nvim](https://github.com/niuiic/track.nvim) ![](https://img.shields.io/github/stars/niuiic/track.nvim) ![](https://img.shields.io/github/last-commit/niuiic/track.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/track.nvim)
 
 ### sign
 
