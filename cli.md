@@ -72,6 +72,7 @@
 - [winter-again/tmux-send.nvim](https://github.com/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/stars/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/winter-again/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/winter-again/tmux-send.nvim)
 - [MrLys/tmuxp.nvim](https://github.com/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/stars/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/last-commit/MrLys/tmuxp.nvim) ![](https://img.shields.io/github/commit-activity/y/MrLys/tmuxp.nvim)
 - [HadiModarres/repo-tmux.nvim](https://github.com/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/stars/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/last-commit/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/HadiModarres/repo-tmux.nvim)
+- [mimre25/tmux-telescope-picker.nvim](https://github.com/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/stars/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/last-commit/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/tmux-telescope-picker.nvim)
 
 ##### tmux alternative
 

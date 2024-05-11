@@ -34,6 +34,7 @@
   * [submodule](#submodule)
   * [git utils](#git-utils)
   * [Contribution](#contribution)
+  * [git environment variable](#git-environment-variable)
   * [flow](#flow)
 - [Jujutsu(jj)](#jujutsujj)
 - [GitHub](#github)
@@ -249,6 +250,10 @@
 ## Contribution
 
 - [ronylee11/gitcontrib.nvim](https://github.com/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/stars/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/last-commit/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/commit-activity/y/ronylee11/gitcontrib.nvim)
+
+## git environment variable
+
+- [ejrichards/baredot.nvim](https://github.com/ejrichards/baredot.nvim) ![](https://img.shields.io/github/stars/ejrichards/baredot.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/baredot.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/baredot.nvim)
 
 ## flow
 
