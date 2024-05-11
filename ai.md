@@ -18,6 +18,8 @@
   * [Codeium](#codeium)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
+- [AI Completion](#ai-completion)
+  * [Copilot](#copilot)
 - [Chat](#chat)
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
@@ -137,6 +139,23 @@
 ### Fitten Code
 
 - [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/stars/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/fittencode.nvim)
+
+## AI Completion
+
+- [vappolinario/cmp-clippy](https://github.com/vappolinario/cmp-clippy) ![](https://img.shields.io/github/stars/vappolinario/cmp-clippy) ![](https://img.shields.io/github/last-commit/vappolinario/cmp-clippy) ![](https://img.shields.io/github/commit-activity/y/vappolinario/cmp-clippy)
+- [jordanvieler/cmp-neurogenesis](https://github.com/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/stars/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/last-commit/jordanvieler/cmp-neurogenesis) ![](https://img.shields.io/github/commit-activity/y/jordanvieler/cmp-neurogenesis)
+- [codota/tabnine-nvim](https://github.com/codota/tabnine-nvim) ![](https://img.shields.io/github/stars/codota/tabnine-nvim) ![](https://img.shields.io/github/last-commit/codota/tabnine-nvim) ![](https://img.shields.io/github/commit-activity/y/codota/tabnine-nvim)
+- [tzachar/cmp-ai](https://github.com/tzachar/cmp-ai) ![](https://img.shields.io/github/stars/tzachar/cmp-ai) ![](https://img.shields.io/github/last-commit/tzachar/cmp-ai) ![](https://img.shields.io/github/commit-activity/y/tzachar/cmp-ai)
+- [huggingface/hfcc.nvim](https://github.com/huggingface/hfcc.nvim) ![](https://img.shields.io/github/stars/huggingface/hfcc.nvim) ![](https://img.shields.io/github/last-commit/huggingface/hfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/huggingface/hfcc.nvim)
+- [archibate/genius.nvim](https://github.com/archibate/genius.nvim) ![](https://img.shields.io/github/stars/archibate/genius.nvim) ![](https://img.shields.io/github/last-commit/archibate/genius.nvim) ![](https://img.shields.io/github/commit-activity/y/archibate/genius.nvim)
+
+### Copilot
+
+- [zbirenbaum/copilot.lua](https://github.com/zbirenbaum/copilot.lua) ![](https://img.shields.io/github/stars/zbirenbaum/copilot.lua) ![](https://img.shields.io/github/last-commit/zbirenbaum/copilot.lua) ![](https://img.shields.io/github/commit-activity/y/zbirenbaum/copilot.lua)
+  - [jonahgoldwastaken/copilot-status.nvim](https://github.com/jonahgoldwastaken/copilot-status.nvim) ![](https://img.shields.io/github/stars/jonahgoldwastaken/copilot-status.nvim) ![](https://img.shields.io/github/last-commit/jonahgoldwastaken/copilot-status.nvim) ![](https://img.shields.io/github/commit-activity/y/jonahgoldwastaken/copilot-status.nvim)
+  - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/stars/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/last-commit/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/commit-activity/y/zbirenbaum/copilot-cmp)
+  - [hrsh7th/cmp-copilot](https://github.com/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/stars/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-copilot)
+- [krshrimali/context-pilot.nvim](https://github.com/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/stars/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/context-pilot.nvim)
 
 ## Chat
 
