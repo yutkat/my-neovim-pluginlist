@@ -4,6 +4,7 @@
 
 - [Mark](#mark)
   * [sign](#sign)
+  * [mark note](#mark-note)
     + [git sign](#git-sign)
   * [Auto Mark](#auto-mark)
   * [Jump](#jump)
@@ -28,6 +29,10 @@
 - [adelarsq/showmarks.nvim](https://github.com/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/stars/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/showmarks.nvim)
 - [CWood-sdf/melon.nvim](https://github.com/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/melon.nvim)
 - [vanaigr/mark-signs.nvim](https://github.com/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/stars/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/mark-signs.nvim)
+
+### mark note
+
+- [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
 
 #### git sign
 

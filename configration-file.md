@@ -46,6 +46,7 @@
 - [austinwilcox/jsonhero.nvim](https://github.com/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/stars/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/last-commit/austinwilcox/jsonhero.nvim) ![](https://img.shields.io/github/commit-activity/y/austinwilcox/jsonhero.nvim)
 - [Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/stars/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/jsonfly.nvim)
 - [jvdmeulen/json-fold.nvim](https://github.com/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/stars/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/last-commit/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/jvdmeulen/json-fold.nvim)
+- [alainrk/jsonviz.nvim](https://github.com/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/stars/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/last-commit/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/commit-activity/y/alainrk/jsonviz.nvim)
 
 ### YAML
 

@@ -172,6 +172,7 @@
 
 - [alanjcfs/rg.nvim](https://github.com/alanjcfs/rg.nvim) ![](https://img.shields.io/github/stars/alanjcfs/rg.nvim) ![](https://img.shields.io/github/last-commit/alanjcfs/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanjcfs/rg.nvim)
 - [doums/rg.nvim](https://github.com/doums/rg.nvim) ![](https://img.shields.io/github/stars/doums/rg.nvim) ![](https://img.shields.io/github/last-commit/doums/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/rg.nvim)
+- [BlankTiger/telescope-rg.nvim](https://github.com/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/stars/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlankTiger/telescope-rg.nvim)
 
 #### locate
 
@@ -280,3 +281,4 @@
 - [Piotr1215/telescope-crossplane.nvim](https://github.com/Piotr1215/telescope-crossplane.nvim) ![](https://img.shields.io/github/stars/Piotr1215/telescope-crossplane.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/telescope-crossplane.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/telescope-crossplane.nvim)
 - [venc0r/telescope-k8s.nvim](https://github.com/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/stars/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/last-commit/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/venc0r/telescope-k8s.nvim)
 - [h4ckm1n-dev/kube-utils-nvim](https://github.com/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/stars/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/kube-utils-nvim)
+- [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/stars/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/kubectl.nvim)
