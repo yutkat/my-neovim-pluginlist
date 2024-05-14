@@ -78,6 +78,7 @@
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) ![](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/gen.nvim)
 - [martinra/facileLLM.nvim](https://github.com/martinra/facileLLM.nvim) ![](https://img.shields.io/github/stars/martinra/facileLLM.nvim) ![](https://img.shields.io/github/last-commit/martinra/facileLLM.nvim) ![](https://img.shields.io/github/commit-activity/y/martinra/facileLLM.nvim)
 - [bakks/butterfish.nvim](https://github.com/bakks/butterfish.nvim) ![](https://img.shields.io/github/stars/bakks/butterfish.nvim) ![](https://img.shields.io/github/last-commit/bakks/butterfish.nvim) ![](https://img.shields.io/github/commit-activity/y/bakks/butterfish.nvim)
+- [melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim) ![](https://img.shields.io/github/stars/melbaldove/llm.nvim) ![](https://img.shields.io/github/last-commit/melbaldove/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/melbaldove/llm.nvim)
 
 #### Generate Doc
 
