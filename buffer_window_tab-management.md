@@ -207,6 +207,7 @@
 - [yorickpeterse/nvim-window](https://github.com/yorickpeterse/nvim-window) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-window) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-window) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-window)
 - [haolian9/winjump.nvim](https://github.com/haolian9/winjump.nvim) ![](https://img.shields.io/github/stars/haolian9/winjump.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winjump.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winjump.nvim)
 - [vqcuong/window-picker.nvim](https://github.com/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/stars/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/last-commit/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/vqcuong/window-picker.nvim)
+- [inertialshock/kangaroo.nvim](https://github.com/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/stars/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/last-commit/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/commit-activity/y/inertialshock/kangaroo.nvim)
 
 ### Window Management
 

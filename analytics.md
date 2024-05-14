@@ -35,6 +35,7 @@
 ### Mapping stat
 
 - [gmatheu/keymap-stats.nvim](https://github.com/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/stars/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/last-commit/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/gmatheu/keymap-stats.nvim)
+- [dougrocha/keytrack.nvim](https://github.com/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/stars/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/last-commit/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/commit-activity/y/dougrocha/keytrack.nvim)
 
 ### Typing speed
 
