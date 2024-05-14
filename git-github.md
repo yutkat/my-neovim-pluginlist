@@ -35,6 +35,7 @@
   * [git utils](#git-utils)
   * [Contribution](#contribution)
   * [git environment variable](#git-environment-variable)
+  * [Change](#change)
   * [flow](#flow)
 - [Jujutsu(jj)](#jujutsujj)
 - [GitHub](#github)
@@ -254,6 +255,10 @@
 ## git environment variable
 
 - [ejrichards/baredot.nvim](https://github.com/ejrichards/baredot.nvim) ![](https://img.shields.io/github/stars/ejrichards/baredot.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/baredot.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/baredot.nvim)
+
+## Change
+
+- [tomkennedy513/git_changed.nvim](https://github.com/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/stars/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/last-commit/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/commit-activity/y/tomkennedy513/git_changed.nvim)
 
 ## flow
 
