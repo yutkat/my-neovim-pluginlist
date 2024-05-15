@@ -254,6 +254,7 @@
 - [yutkat/spiral-split.nvim](https://github.com/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/stars/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/last-commit/yutkat/spiral-split.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/spiral-split.nvim)
 - [yuma140902/auto-split-direction.nvim](https://github.com/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/stars/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/last-commit/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/commit-activity/y/yuma140902/auto-split-direction.nvim)
 - [michaelPotter/accordian.nvim](https://github.com/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/stars/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/accordian.nvim)
+- [lbennett-stacki/here.nvim](https://github.com/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/stars/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/last-commit/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/commit-activity/y/lbennett-stacki/here.nvim)
 
 #### Popup
 
