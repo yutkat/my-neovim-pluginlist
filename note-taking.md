@@ -41,6 +41,7 @@
 - [Jobin-Nelson/org-tangle.nvim](https://github.com/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/stars/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/last-commit/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/Jobin-Nelson/org-tangle.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 - [massix/org-checkbox.nvim](https://github.com/massix/org-checkbox.nvim) ![](https://img.shields.io/github/stars/massix/org-checkbox.nvim) ![](https://img.shields.io/github/last-commit/massix/org-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/org-checkbox.nvim)
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 
 ## Zettelkasten
 
