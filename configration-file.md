@@ -47,6 +47,7 @@
 - [Myzel394/jsonfly.nvim](https://github.com/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/stars/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/jsonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/jsonfly.nvim)
 - [jvdmeulen/json-fold.nvim](https://github.com/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/stars/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/last-commit/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/jvdmeulen/json-fold.nvim)
 - [alainrk/jsonviz.nvim](https://github.com/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/stars/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/last-commit/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/commit-activity/y/alainrk/jsonviz.nvim)
+- [mimikun/jqplay.nvim](https://github.com/mimikun/jqplay.nvim) ![](https://img.shields.io/github/stars/mimikun/jqplay.nvim) ![](https://img.shields.io/github/last-commit/mimikun/jqplay.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/jqplay.nvim)
 
 ### YAML
 
@@ -103,6 +104,7 @@
 - [napisani/nvim-dadbod-bg](https://github.com/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/stars/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/last-commit/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-dadbod-bg)
 - [icyavocado/gobang.nvim](https://github.com/icyavocado/gobang.nvim) ![](https://img.shields.io/github/stars/icyavocado/gobang.nvim) ![](https://img.shields.io/github/last-commit/icyavocado/gobang.nvim) ![](https://img.shields.io/github/commit-activity/y/icyavocado/gobang.nvim)
 - [miversen33/dbman.nvim](https://github.com/miversen33/dbman.nvim) ![](https://img.shields.io/github/stars/miversen33/dbman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/dbman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/dbman.nvim)
+- [Sanix-Darker/dockdb.nvim](https://github.com/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/dockdb.nvim)
 
 ### SQL
 

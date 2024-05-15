@@ -36,6 +36,7 @@
   * [dotfiles](#dotfiles)
     + [chezmoi](#chezmoi)
     + [vcsh](#vcsh)
+    + [yadm](#yadm)
   * [age](#age)
   * [papis](#papis)
   * [Zeal](#zeal)
@@ -232,6 +233,8 @@
 
 #### dotfiles
 
+- [ecasselton/polarbare.nvim](https://github.com/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/stars/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/last-commit/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/commit-activity/y/ecasselton/polarbare.nvim)
+
 ##### chezmoi
 
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/stars/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/last-commit/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/chezmoi.nvim)
@@ -239,6 +242,10 @@
 ##### vcsh
 
 - [jwhitley/telescope-vcsh.nvim](https://github.com/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/stars/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/last-commit/jwhitley/telescope-vcsh.nvim) ![](https://img.shields.io/github/commit-activity/y/jwhitley/telescope-vcsh.nvim)
+
+##### yadm
+
+- [robstumborg/yadm.nvim](https://github.com/robstumborg/yadm.nvim) ![](https://img.shields.io/github/stars/robstumborg/yadm.nvim) ![](https://img.shields.io/github/last-commit/robstumborg/yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/robstumborg/yadm.nvim)
 
 #### age
 

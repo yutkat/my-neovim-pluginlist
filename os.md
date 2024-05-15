@@ -8,6 +8,7 @@
     + [kernel](#kernel)
     + [gnome](#gnome)
     + [X11](#x11)
+    + [flatpak](#flatpak)
     + [Nix](#nix)
     + [drun](#drun)
     + [darkman](#darkman)
@@ -47,6 +48,10 @@
 
 - [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
 - [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)
+
+#### flatpak
+
+- [CleoMenezesJr/flatpak-builder.nvim](https://github.com/CleoMenezesJr/flatpak-builder.nvim) ![](https://img.shields.io/github/stars/CleoMenezesJr/flatpak-builder.nvim) ![](https://img.shields.io/github/last-commit/CleoMenezesJr/flatpak-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/CleoMenezesJr/flatpak-builder.nvim)
 
 #### Nix
 

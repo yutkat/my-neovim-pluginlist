@@ -4,6 +4,7 @@
 
 - [Lua](#lua)
   * [LSP](#lsp)
+  * [Treesitter](#treesitter)
   * [Stylua](#stylua)
   * [LuaFormatter](#luaformatter)
   * [Rocks](#rocks)
@@ -23,6 +24,10 @@
 ### LSP
 
 - [AbaoFromCUG/luals.nvim](https://github.com/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luals.nvim)
+
+### Treesitter
+
+- [mgastonportillo/popurri.nvim](https://github.com/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/popurri.nvim)
 
 ### Stylua
 
