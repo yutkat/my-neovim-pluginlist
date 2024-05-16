@@ -17,6 +17,7 @@
 - [zegabr/toolbox.nvim](https://github.com/zegabr/toolbox.nvim) ![](https://img.shields.io/github/stars/zegabr/toolbox.nvim) ![](https://img.shields.io/github/last-commit/zegabr/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/zegabr/toolbox.nvim)
 - [Kicamon/tool.nvim](https://github.com/Kicamon/tool.nvim) ![](https://img.shields.io/github/stars/Kicamon/tool.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/tool.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/tool.nvim)
 - [Mr-LLLLL/utilities.nvim](https://github.com/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/utilities.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/utilities.nvim)
+- [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) ![](https://img.shields.io/github/stars/Saghen/blink.nvim) ![](https://img.shields.io/github/last-commit/Saghen/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.nvim)
 
 ## Patch
 

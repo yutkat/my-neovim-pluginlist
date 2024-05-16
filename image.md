@@ -4,6 +4,7 @@
 
 - [Image](#image)
   * [Image Viewer](#image-viewer)
+  * [Image Magic](#image-magic)
   * [Image Paste](#image-paste)
   * [Image Uploader](#image-uploader)
   * [Screenshot](#screenshot)
@@ -30,6 +31,10 @@
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) ![](https://img.shields.io/github/stars/princejoogie/chafa.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/chafa.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/chafa.nvim)
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) ![](https://img.shields.io/github/stars/3rd/image.nvim) ![](https://img.shields.io/github/last-commit/3rd/image.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/image.nvim)
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/stars/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/last-commit/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/telescope-media.nvim)
+
+### Image Magic
+
+- [Suehn/image-diy.nvim](https://github.com/Suehn/image-diy.nvim) ![](https://img.shields.io/github/stars/Suehn/image-diy.nvim) ![](https://img.shields.io/github/last-commit/Suehn/image-diy.nvim) ![](https://img.shields.io/github/commit-activity/y/Suehn/image-diy.nvim)
 
 ### Image Paste
 
