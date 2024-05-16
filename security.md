@@ -4,6 +4,7 @@
 
 - [Security](#security)
   * [Secrets](#secrets)
+  * [Encrypt](#encrypt)
 - [Privacy](#privacy)
 
 <!-- tocstop -->
@@ -25,6 +26,10 @@
 #### Secrets
 
 - [conneroisu/doppler.nvim](https://github.com/conneroisu/doppler.nvim) ![](https://img.shields.io/github/stars/conneroisu/doppler.nvim) ![](https://img.shields.io/github/last-commit/conneroisu/doppler.nvim) ![](https://img.shields.io/github/commit-activity/y/conneroisu/doppler.nvim)
+
+#### Encrypt
+
+- [elentok/encrypt.nvim](https://github.com/elentok/encrypt.nvim) ![](https://img.shields.io/github/stars/elentok/encrypt.nvim) ![](https://img.shields.io/github/last-commit/elentok/encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/encrypt.nvim)
 
 ### Privacy
 

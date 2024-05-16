@@ -7,6 +7,7 @@
     + [url open](#url-open)
     + [DevTools](#devtools)
     + [Firefox](#firefox)
+    + [DuckDuckGo](#duckduckgo)
     + [live preview](#live-preview)
     + [search](#search)
     + [Bookmarks](#bookmarks)
@@ -87,6 +88,10 @@
 #### Firefox
 
 - [dawsers/telescope-firefox.nvim](https://github.com/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-firefox.nvim)
+
+#### DuckDuckGo
+
+- [pawemix/duqtalk.nvim](https://github.com/pawemix/duqtalk.nvim) ![](https://img.shields.io/github/stars/pawemix/duqtalk.nvim) ![](https://img.shields.io/github/last-commit/pawemix/duqtalk.nvim) ![](https://img.shields.io/github/commit-activity/y/pawemix/duqtalk.nvim)
 
 #### live preview
 
