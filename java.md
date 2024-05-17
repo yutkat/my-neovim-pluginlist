@@ -9,6 +9,7 @@
   * [Gradle](#gradle)
   * [Spring Boot](#spring-boot)
   * [JBoss](#jboss)
+  * [Tomcat](#tomcat)
 
 <!-- tocstop -->
 
@@ -53,3 +54,7 @@
 ### JBoss
 
 - [orfosys/nvim-wildcat](https://github.com/orfosys/nvim-wildcat) ![](https://img.shields.io/github/stars/orfosys/nvim-wildcat) ![](https://img.shields.io/github/last-commit/orfosys/nvim-wildcat) ![](https://img.shields.io/github/commit-activity/y/orfosys/nvim-wildcat)
+
+### Tomcat
+
+- [JesperLundberg/tomat.nvim](https://github.com/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/stars/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/last-commit/JesperLundberg/tomat.nvim) ![](https://img.shields.io/github/commit-activity/y/JesperLundberg/tomat.nvim)

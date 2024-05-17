@@ -38,6 +38,7 @@
 - [kupospelov/nvim-fzf](https://github.com/kupospelov/nvim-fzf) ![](https://img.shields.io/github/stars/kupospelov/nvim-fzf) ![](https://img.shields.io/github/last-commit/kupospelov/nvim-fzf) ![](https://img.shields.io/github/commit-activity/y/kupospelov/nvim-fzf)
 - [homerours/jumper.nvim](https://github.com/homerours/jumper.nvim) ![](https://img.shields.io/github/stars/homerours/jumper.nvim) ![](https://img.shields.io/github/last-commit/homerours/jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/homerours/jumper.nvim)
 - [adigitoleo/quark.nvim](https://github.com/adigitoleo/quark.nvim) ![](https://img.shields.io/github/stars/adigitoleo/quark.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/quark.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/quark.nvim)
+- [samsze0/fzf.nvim](https://github.com/samsze0/fzf.nvim) ![](https://img.shields.io/github/stars/samsze0/fzf.nvim) ![](https://img.shields.io/github/last-commit/samsze0/fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/fzf.nvim)
 
 ### Telescope Extensions
 

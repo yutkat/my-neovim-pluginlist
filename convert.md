@@ -69,6 +69,7 @@
 ### Number
 
 - [jlodenius/strider.nvim](https://github.com/jlodenius/strider.nvim) ![](https://img.shields.io/github/stars/jlodenius/strider.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/strider.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/strider.nvim)
+- [jimmykodes/incr.nvim](https://github.com/jimmykodes/incr.nvim) ![](https://img.shields.io/github/stars/jimmykodes/incr.nvim) ![](https://img.shields.io/github/last-commit/jimmykodes/incr.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmykodes/incr.nvim)
 
 ### Date
 

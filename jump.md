@@ -59,6 +59,7 @@
 - [suglow/telescope_jumpbuf.nvim](https://github.com/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/stars/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/last-commit/suglow/telescope_jumpbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/suglow/telescope_jumpbuf.nvim)
 - [amiroslaw/telescope-jumps.nvim](https://github.com/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/stars/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/last-commit/amiroslaw/telescope-jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/amiroslaw/telescope-jumps.nvim)
 - [jake-stewart/filestack.nvim](https://github.com/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/stars/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/filestack.nvim)
+- [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) ![](https://img.shields.io/github/stars/samsze0/jumplist.nvim) ![](https://img.shields.io/github/last-commit/samsze0/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/jumplist.nvim)
 
 ### Edit History
 
