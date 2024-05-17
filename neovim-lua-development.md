@@ -28,6 +28,8 @@
 - [CI](#ci)
   * [Template](#template)
   * [Actions](#actions)
+- [Docs](#docs)
+  * [Best Practices](#best-practices)
 
 <!-- tocstop -->
 
@@ -166,3 +168,9 @@
 
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
 - [nvim-neorocks/luarocks-tag-release](https://github.com/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/stars/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/last-commit/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/luarocks-tag-release)
+
+## Docs
+
+### Best Practices
+
+- [nvim-neorocks/nvim-best-practices](https://github.com/nvim-neorocks/nvim-best-practices) ![](https://img.shields.io/github/stars/nvim-neorocks/nvim-best-practices) ![](https://img.shields.io/github/last-commit/nvim-neorocks/nvim-best-practices) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/nvim-best-practices)
