@@ -70,6 +70,7 @@
 - [srcrip/torus.nvim](https://github.com/srcrip/torus.nvim) ![](https://img.shields.io/github/stars/srcrip/torus.nvim) ![](https://img.shields.io/github/last-commit/srcrip/torus.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/torus.nvim)
 - [ayoubelmhamdi/qbuf.nvim](https://github.com/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/stars/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/last-commit/ayoubelmhamdi/qbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/ayoubelmhamdi/qbuf.nvim)
 - [ernstwi/juggler.nvim](https://github.com/ernstwi/juggler.nvim) ![](https://img.shields.io/github/stars/ernstwi/juggler.nvim) ![](https://img.shields.io/github/last-commit/ernstwi/juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/ernstwi/juggler.nvim)
+- [VoxelPrismatic/rabbit.nvim](https://github.com/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/stars/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/last-commit/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/VoxelPrismatic/rabbit.nvim)
 
 ### Other Buffer Switcher
 

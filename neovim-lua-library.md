@@ -124,6 +124,7 @@
 - [folke/noice.nvim(notify)](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 - [Ajnasz/notify-send.nvim](https://github.com/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/stars/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/notify-send.nvim)
 - [dssste/stack-box.nvim](https://github.com/dssste/stack-box.nvim) ![](https://img.shields.io/github/stars/dssste/stack-box.nvim) ![](https://img.shields.io/github/last-commit/dssste/stack-box.nvim) ![](https://img.shields.io/github/commit-activity/y/dssste/stack-box.nvim)
+- [samsze0/notifier.nvim](https://github.com/samsze0/notifier.nvim) ![](https://img.shields.io/github/stars/samsze0/notifier.nvim) ![](https://img.shields.io/github/last-commit/samsze0/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/notifier.nvim)
 
 ### vim.ui.select/vim.ui.input
 

@@ -11,6 +11,7 @@
   * [Terminal Selector](#terminal-selector)
   * [Command](#command)
   * [Neovim in Neovim](#neovim-in-neovim)
+  * [ansi escape sequence](#ansi-escape-sequence)
 
 <!-- tocstop -->
 
@@ -91,3 +92,7 @@
 
 - [samjwill/nvim-unception](https://github.com/samjwill/nvim-unception) ![](https://img.shields.io/github/stars/samjwill/nvim-unception) ![](https://img.shields.io/github/last-commit/samjwill/nvim-unception) ![](https://img.shields.io/github/commit-activity/y/samjwill/nvim-unception)
 - [willothy/flatten.nvim](https://github.com/willothy/flatten.nvim) ![](https://img.shields.io/github/stars/willothy/flatten.nvim) ![](https://img.shields.io/github/last-commit/willothy/flatten.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/flatten.nvim)
+
+### ansi escape sequence
+
+- [samsze0/terminal-filetype.nvim](https://github.com/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/stars/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/last-commit/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/terminal-filetype.nvim)
