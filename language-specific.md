@@ -262,8 +262,6 @@
 
 ### Kind
 
-- [HigherOrderCO/Kind.nvim](https://github.com/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/stars/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/last-commit/HigherOrderCO/Kind.nvim) ![](https://img.shields.io/github/commit-activity/y/HigherOrderCO/Kind.nvim)
-
 ### K
 
 - [RKBethke/k.nvim](https://github.com/RKBethke/k.nvim) ![](https://img.shields.io/github/stars/RKBethke/k.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/k.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/k.nvim)
