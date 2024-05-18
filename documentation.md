@@ -233,6 +233,7 @@
 - [javio7/nvim-modelizer](https://github.com/javio7/nvim-modelizer) ![](https://img.shields.io/github/stars/javio7/nvim-modelizer) ![](https://img.shields.io/github/last-commit/javio7/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-modelizer)
 - [zapling/plantuml.nvim](https://github.com/zapling/plantuml.nvim) ![](https://img.shields.io/github/stars/zapling/plantuml.nvim) ![](https://img.shields.io/github/last-commit/zapling/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/plantuml.nvim)
 - [bnse/plantuml.nvim](https://github.com/bnse/plantuml.nvim) ![](https://img.shields.io/github/stars/bnse/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bnse/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bnse/plantuml.nvim)
+- [v1nh1shungry/plantuml-preview.nvim](https://github.com/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/plantuml-preview.nvim)
 
 ### AsciiDoc
 
