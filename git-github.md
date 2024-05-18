@@ -161,6 +161,7 @@
 - [MatteoBouvier/blame-multi.nvim](https://github.com/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/stars/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/last-commit/MatteoBouvier/blame-multi.nvim) ![](https://img.shields.io/github/commit-activity/y/MatteoBouvier/blame-multi.nvim)
 - [hougesen/blame-me.nvim](https://github.com/hougesen/blame-me.nvim) ![](https://img.shields.io/github/stars/hougesen/blame-me.nvim) ![](https://img.shields.io/github/last-commit/hougesen/blame-me.nvim) ![](https://img.shields.io/github/commit-activity/y/hougesen/blame-me.nvim)
 - [dlvhdr/gh-blame.nvim](https://github.com/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-blame.nvim)
+- [rsvargas/nvim-git-blame-line](https://github.com/rsvargas/nvim-git-blame-line) ![](https://img.shields.io/github/stars/rsvargas/nvim-git-blame-line) ![](https://img.shields.io/github/last-commit/rsvargas/nvim-git-blame-line) ![](https://img.shields.io/github/commit-activity/y/rsvargas/nvim-git-blame-line)
 
 ## git log
 

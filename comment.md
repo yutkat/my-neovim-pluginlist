@@ -76,6 +76,7 @@
 ### function comment
 
 - [dhananjaylatkar/docgen.nvim](https://github.com/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/stars/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/last-commit/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/commit-activity/y/dhananjaylatkar/docgen.nvim)
+- [tbsklg/nvim-exec](https://github.com/tbsklg/nvim-exec) ![](https://img.shields.io/github/stars/tbsklg/nvim-exec) ![](https://img.shields.io/github/last-commit/tbsklg/nvim-exec) ![](https://img.shields.io/github/commit-activity/y/tbsklg/nvim-exec)
 
 ### Comment highlight
 

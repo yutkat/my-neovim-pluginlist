@@ -138,8 +138,6 @@
 
 ## Google Keep
 
-- [stevearc/gkeep.nvim](https://github.com/stevearc/gkeep.nvim) ![](https://img.shields.io/github/stars/stevearc/gkeep.nvim) ![](https://img.shields.io/github/last-commit/stevearc/gkeep.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/gkeep.nvim)
-
 ## Typst
 
 - [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
@@ -239,3 +237,4 @@
 - [xiaket/n.nvim](https://github.com/xiaket/n.nvim) ![](https://img.shields.io/github/stars/xiaket/n.nvim) ![](https://img.shields.io/github/last-commit/xiaket/n.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/n.nvim)
 - [jakobkhansen/journal.nvim](https://github.com/jakobkhansen/journal.nvim) ![](https://img.shields.io/github/stars/jakobkhansen/journal.nvim) ![](https://img.shields.io/github/last-commit/jakobkhansen/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobkhansen/journal.nvim)
 - [yujinyuz/gitpad.nvim](https://github.com/yujinyuz/gitpad.nvim) ![](https://img.shields.io/github/stars/yujinyuz/gitpad.nvim) ![](https://img.shields.io/github/last-commit/yujinyuz/gitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/yujinyuz/gitpad.nvim)
+- [Kuwagata/notes.nvim](https://github.com/Kuwagata/notes.nvim) ![](https://img.shields.io/github/stars/Kuwagata/notes.nvim) ![](https://img.shields.io/github/last-commit/Kuwagata/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/Kuwagata/notes.nvim)

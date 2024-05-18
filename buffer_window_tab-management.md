@@ -128,6 +128,7 @@
 - [echasnovski/mini.visits](https://github.com/echasnovski/mini.visits) ![](https://img.shields.io/github/stars/echasnovski/mini.visits) ![](https://img.shields.io/github/last-commit/echasnovski/mini.visits) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.visits)
 - [mollerhoj/telescope-recent-files.nvim](https://github.com/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/stars/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/last-commit/mollerhoj/telescope-recent-files.nvim) ![](https://img.shields.io/github/commit-activity/y/mollerhoj/telescope-recent-files.nvim)
 - [tripplyons/stacker.nvim](https://github.com/tripplyons/stacker.nvim) ![](https://img.shields.io/github/stars/tripplyons/stacker.nvim) ![](https://img.shields.io/github/last-commit/tripplyons/stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/tripplyons/stacker.nvim)
+- [mikemcbride/telescope-mru.nvim](https://github.com/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/stars/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/last-commit/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/commit-activity/y/mikemcbride/telescope-mru.nvim)
 
 ##### remote open
 

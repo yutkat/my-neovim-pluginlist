@@ -199,6 +199,7 @@
 
 - [pavlo-skobnikov/metal-pipe.nvim](https://github.com/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/stars/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/last-commit/pavlo-skobnikov/metal-pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlo-skobnikov/metal-pipe.nvim)
 - [whleucka/reverb.nvim](https://github.com/whleucka/reverb.nvim) ![](https://img.shields.io/github/stars/whleucka/reverb.nvim) ![](https://img.shields.io/github/last-commit/whleucka/reverb.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/reverb.nvim)
+- [v1nh1shungry/typewriter.nvim](https://github.com/v1nh1shungry/typewriter.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/typewriter.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/typewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/typewriter.nvim)
 
 ### event sound
 

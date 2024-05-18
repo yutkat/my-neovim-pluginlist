@@ -57,6 +57,7 @@
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
     + [Unison](#unison)
+    + [LMNtal](#lmntal)
     + [Prolog](#prolog)
     + [CHIP-8](#chip-8)
     + [Brainfuck](#brainfuck)
@@ -313,6 +314,10 @@
 ### Unison
 
 - [chuwy/ucm.nvim](https://github.com/chuwy/ucm.nvim) ![](https://img.shields.io/github/stars/chuwy/ucm.nvim) ![](https://img.shields.io/github/last-commit/chuwy/ucm.nvim) ![](https://img.shields.io/github/commit-activity/y/chuwy/ucm.nvim)
+
+### LMNtal
+
+- [kyawaway/lmntal.nvim](https://github.com/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/stars/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/last-commit/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyawaway/lmntal.nvim)
 
 ### Prolog
 
