@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Font](#font)
+- [Icon](#icon)
   * [Devicon color](#devicon-color)
 - [Emoji](#emoji)
   * [Emoji FuzzyFinder](#emoji-fuzzyfinder)
@@ -19,6 +20,15 @@
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 - [abcdefg233/fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/stars/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/fontresizer.nvim)
+
+## Icon
+
+- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
+  - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) ![](https://img.shields.io/github/stars/projekt0n/circles.nvim) ![](https://img.shields.io/github/last-commit/projekt0n/circles.nvim) ![](https://img.shields.io/github/commit-activity/y/projekt0n/circles.nvim)
+- [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
+- [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
+- [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
+- [mskelton/termicons.nvim](https://github.com/mskelton/termicons.nvim) ![](https://img.shields.io/github/stars/mskelton/termicons.nvim) ![](https://img.shields.io/github/last-commit/mskelton/termicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/termicons.nvim)
 
 ### Devicon color
 

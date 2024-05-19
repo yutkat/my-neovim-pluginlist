@@ -40,7 +40,6 @@
 - [Keymap](#keymap)
 - [autocmd](#autocmd)
 - [Color](#color)
-- [Icon](#icon)
 - [Date](#date)
 - [Unicode](#unicode)
 - [random variable names](#random-variable-names)
@@ -249,15 +248,6 @@
 
 - [oleksiiluchnikov/gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/gradient.nvim)
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/stars/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/polychrome.nvim)
-
-## Icon
-
-- [kyazdani42/nvim-web-devicons](https://github.com/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/stars/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/last-commit/kyazdani42/nvim-web-devicons) ![](https://img.shields.io/github/commit-activity/y/kyazdani42/nvim-web-devicons)
-  - [projekt0n/circles.nvim](https://github.com/projekt0n/circles.nvim) ![](https://img.shields.io/github/stars/projekt0n/circles.nvim) ![](https://img.shields.io/github/last-commit/projekt0n/circles.nvim) ![](https://img.shields.io/github/commit-activity/y/projekt0n/circles.nvim)
-- [yamatsum/nvim-nonicons](https://github.com/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/stars/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/last-commit/yamatsum/nvim-nonicons) ![](https://img.shields.io/github/commit-activity/y/yamatsum/nvim-nonicons)
-- [mortepau/codicons.nvim](https://github.com/mortepau/codicons.nvim) ![](https://img.shields.io/github/stars/mortepau/codicons.nvim) ![](https://img.shields.io/github/last-commit/mortepau/codicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mortepau/codicons.nvim)
-- [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
-- [mskelton/termicons.nvim](https://github.com/mskelton/termicons.nvim) ![](https://img.shields.io/github/stars/mskelton/termicons.nvim) ![](https://img.shields.io/github/last-commit/mskelton/termicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/termicons.nvim)
 
 ## Date
 
