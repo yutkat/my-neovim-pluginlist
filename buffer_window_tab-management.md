@@ -224,6 +224,7 @@
 #### move
 
 - [antoinemadec/window-movement.nvim](https://github.com/antoinemadec/window-movement.nvim) ![](https://img.shields.io/github/stars/antoinemadec/window-movement.nvim) ![](https://img.shields.io/github/last-commit/antoinemadec/window-movement.nvim) ![](https://img.shields.io/github/commit-activity/y/antoinemadec/window-movement.nvim)
+- [9th8/unimpaired.nvim](https://github.com/9th8/unimpaired.nvim) ![](https://img.shields.io/github/stars/9th8/unimpaired.nvim) ![](https://img.shields.io/github/last-commit/9th8/unimpaired.nvim) ![](https://img.shields.io/github/commit-activity/y/9th8/unimpaired.nvim)
 
 #### swap
 

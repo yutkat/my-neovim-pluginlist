@@ -44,6 +44,7 @@
 - [aklk1ng/flip-word.nvim](https://github.com/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/stars/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/last-commit/aklk1ng/flip-word.nvim) ![](https://img.shields.io/github/commit-activity/y/aklk1ng/flip-word.nvim)
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ![](https://img.shields.io/github/stars/gregorias/coerce.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coerce.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coerce.nvim)
 - [chrishannah/textcase.nvim](https://github.com/chrishannah/textcase.nvim) ![](https://img.shields.io/github/stars/chrishannah/textcase.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/textcase.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/textcase.nvim)
+- [cowboy8625/case-swap.nvim](https://github.com/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/stars/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/last-commit/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/cowboy8625/case-swap.nvim)
 
 ### Convert Word
 
