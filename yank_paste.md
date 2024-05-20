@@ -49,6 +49,7 @@
 ## Edit Register
 
 - [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
+- [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
 
 ## Line Number
 
