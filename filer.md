@@ -81,6 +81,7 @@
 - [lewis6991/brodir.nvim](https://github.com/lewis6991/brodir.nvim) ![](https://img.shields.io/github/stars/lewis6991/brodir.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/brodir.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/brodir.nvim)
 - [kbario/spear.nvim](https://github.com/kbario/spear.nvim) ![](https://img.shields.io/github/stars/kbario/spear.nvim) ![](https://img.shields.io/github/last-commit/kbario/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/spear.nvim)
 - [bobrown101/fff.nvim](https://github.com/bobrown101/fff.nvim) ![](https://img.shields.io/github/stars/bobrown101/fff.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/fff.nvim)
+- [Rizwanelansyah/simplyfile.nvim](https://github.com/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/simplyfile.nvim)
 
 ## Floating Style
 

@@ -300,6 +300,7 @@
 - [Velrok/pr_status.nvim](https://github.com/Velrok/pr_status.nvim) ![](https://img.shields.io/github/stars/Velrok/pr_status.nvim) ![](https://img.shields.io/github/last-commit/Velrok/pr_status.nvim) ![](https://img.shields.io/github/commit-activity/y/Velrok/pr_status.nvim)
 - [josephwoodward/github-pr.nvim](https://github.com/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-pr.nvim)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
+- [kamrul1157024/nvim-pr](https://github.com/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/stars/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/last-commit/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/commit-activity/y/kamrul1157024/nvim-pr)
 
 ## Actions
 
