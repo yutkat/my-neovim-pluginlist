@@ -245,7 +245,6 @@
 
 ##### yadm
 
-- [robstumborg/yadm.nvim](https://github.com/robstumborg/yadm.nvim) ![](https://img.shields.io/github/stars/robstumborg/yadm.nvim) ![](https://img.shields.io/github/last-commit/robstumborg/yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/robstumborg/yadm.nvim)
 - [rj1/yadm.nvim](https://github.com/rj1/yadm.nvim) ![](https://img.shields.io/github/stars/rj1/yadm.nvim) ![](https://img.shields.io/github/last-commit/rj1/yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/rj1/yadm.nvim)
 
 #### age
