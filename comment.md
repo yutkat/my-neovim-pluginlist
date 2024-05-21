@@ -34,6 +34,7 @@
 - [alexshelto/boringcomment.nvim](https://github.com/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/stars/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/last-commit/alexshelto/boringcomment.nvim) ![](https://img.shields.io/github/commit-activity/y/alexshelto/boringcomment.nvim)
 - [chellipse/lua-comment.nvim](https://github.com/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/stars/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/last-commit/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/chellipse/lua-comment.nvim)
 - [francescoApophis/comment.nvim](https://github.com/francescoApophis/comment.nvim) ![](https://img.shields.io/github/stars/francescoApophis/comment.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/comment.nvim)
+- [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) ![](https://img.shields.io/github/stars/folke/ts-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/ts-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/ts-comments.nvim)
 
 ### CommentString
 
