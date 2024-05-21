@@ -2,12 +2,12 @@
 
 <!-- toc -->
 
-- [Startup(DashBoard)](#startupdashboard)
+- [Startup screen (DashBoard)](#startup-screen-dashboard)
   * [Boot Arguments](#boot-arguments)
 
 <!-- tocstop -->
 
-## Startup(DashBoard)
+## Startup screen (DashBoard)
 
 - [goolord/alpha-nvim](https://github.com/goolord/alpha-nvim) ![](https://img.shields.io/github/stars/goolord/alpha-nvim) ![](https://img.shields.io/github/last-commit/goolord/alpha-nvim) ![](https://img.shields.io/github/commit-activity/y/goolord/alpha-nvim)
 - [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/stars/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dashboard-nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dashboard-nvim)
@@ -26,6 +26,7 @@
 - [ElPiloto/make_your_own_luck.nvim](https://github.com/ElPiloto/make_your_own_luck.nvim) ![](https://img.shields.io/github/stars/ElPiloto/make_your_own_luck.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/make_your_own_luck.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/make_your_own_luck.nvim)
 - [zerochae/zerodash.nvim](https://github.com/zerochae/zerodash.nvim) ![](https://img.shields.io/github/stars/zerochae/zerodash.nvim) ![](https://img.shields.io/github/last-commit/zerochae/zerodash.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/zerodash.nvim)
 - [denstiny/orig.nvim](https://github.com/denstiny/orig.nvim) ![](https://img.shields.io/github/stars/denstiny/orig.nvim) ![](https://img.shields.io/github/last-commit/denstiny/orig.nvim) ![](https://img.shields.io/github/commit-activity/y/denstiny/orig.nvim)
+- [NeViRAIDE/harbinger.nvim](https://github.com/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/harbinger.nvim)
 
 ### Boot Arguments
 

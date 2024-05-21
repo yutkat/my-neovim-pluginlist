@@ -81,6 +81,7 @@
 - [willothy/strat-hero.nvim](https://github.com/willothy/strat-hero.nvim) ![](https://img.shields.io/github/stars/willothy/strat-hero.nvim) ![](https://img.shields.io/github/last-commit/willothy/strat-hero.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/strat-hero.nvim)
 - [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) ![](https://img.shields.io/github/stars/rktjmp/playtime.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/playtime.nvim)
+- [FireIsGood/pond.nvim](https://github.com/FireIsGood/pond.nvim) ![](https://img.shields.io/github/stars/FireIsGood/pond.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/pond.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/pond.nvim)
 
 ### Typing
 
@@ -173,6 +174,7 @@
 - [cockytrumpet/yt_audio.nvim](https://github.com/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/stars/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/last-commit/cockytrumpet/yt_audio.nvim) ![](https://img.shields.io/github/commit-activity/y/cockytrumpet/yt_audio.nvim)
 - [Leenuus/mpc.nvim](https://github.com/Leenuus/mpc.nvim) ![](https://img.shields.io/github/stars/Leenuus/mpc.nvim) ![](https://img.shields.io/github/last-commit/Leenuus/mpc.nvim) ![](https://img.shields.io/github/commit-activity/y/Leenuus/mpc.nvim)
 - [paulfrische/mpd.nvim](https://github.com/paulfrische/mpd.nvim) ![](https://img.shields.io/github/stars/paulfrische/mpd.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mpd.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mpd.nvim)
+- [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
 
 #### MIDI
 
