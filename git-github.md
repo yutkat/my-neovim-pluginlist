@@ -80,6 +80,7 @@
 - [SuperBo/fugit2.nvim](https://github.com/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/stars/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/fugit2.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/fugit2.nvim)
 - [rmassaroni/nvim-gpush](https://github.com/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/stars/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/last-commit/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/commit-activity/y/rmassaroni/nvim-gpush)
 - [GustavEikaas/easy-git.nvim](https://github.com/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-git.nvim)
+- [echasnovski/mini-git](https://github.com/echasnovski/mini-git) ![](https://img.shields.io/github/stars/echasnovski/mini-git) ![](https://img.shields.io/github/last-commit/echasnovski/mini-git) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini-git)
 
 ## gitui
 
