@@ -13,6 +13,7 @@
   * [Mapping toggle](#mapping-toggle)
   * [Improve Mappings](#improve-mappings)
     + [Repeatable](#repeatable)
+    + [CapsLock](#capslock)
     + [Normal Mode](#normal-mode)
       - [Word Motion](#word-motion)
     + [Insert Mode](#insert-mode)
@@ -91,6 +92,10 @@
 
 - [jake-stewart/repeatable.nvim](https://github.com/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/stars/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/repeatable.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/repeatable.nvim)
 - [dvrlabs/takeout.nvim](https://github.com/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/stars/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/last-commit/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/commit-activity/y/dvrlabs/takeout.nvim)
+
+### CapsLock
+
+- [oskarmeyenburg/nvim-caps-lock](https://github.com/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/stars/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/last-commit/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/commit-activity/y/oskarmeyenburg/nvim-caps-lock)
 
 ### Normal Mode
 

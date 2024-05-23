@@ -27,6 +27,7 @@
 - [zerochae/zerodash.nvim](https://github.com/zerochae/zerodash.nvim) ![](https://img.shields.io/github/stars/zerochae/zerodash.nvim) ![](https://img.shields.io/github/last-commit/zerochae/zerodash.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/zerodash.nvim)
 - [denstiny/orig.nvim](https://github.com/denstiny/orig.nvim) ![](https://img.shields.io/github/stars/denstiny/orig.nvim) ![](https://img.shields.io/github/last-commit/denstiny/orig.nvim) ![](https://img.shields.io/github/commit-activity/y/denstiny/orig.nvim)
 - [NeViRAIDE/harbinger.nvim](https://github.com/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/harbinger.nvim)
+- [idanarye/nvim-impairative](https://github.com/idanarye/nvim-impairative) ![](https://img.shields.io/github/stars/idanarye/nvim-impairative) ![](https://img.shields.io/github/last-commit/idanarye/nvim-impairative) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-impairative)
 
 ### Boot Arguments
 
