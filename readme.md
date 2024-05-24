@@ -74,6 +74,7 @@
   * [Mouse](#mouse)
 - [Coding](#coding)
   * [Readable Assistant](#readable-assistant)
+  * [Function Arguments](#function-arguments)
   * [Comment Out](#comment-out)
     + [Context Header](#context-header)
   * [Linter / Formatter](#linter--formatter)
@@ -374,6 +375,10 @@
 ## Coding
 
 ### [Readable Assistant](./readable-assistant.md)
+
+### Function Arguments
+
+- [SleepySwords/change-function.nvim](https://github.com/SleepySwords/change-function.nvim) ![](https://img.shields.io/github/stars/SleepySwords/change-function.nvim) ![](https://img.shields.io/github/last-commit/SleepySwords/change-function.nvim) ![](https://img.shields.io/github/commit-activity/y/SleepySwords/change-function.nvim)
 
 ### [Comment Out](./comment.md)
 
