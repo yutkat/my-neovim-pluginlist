@@ -62,6 +62,8 @@
 #### string
 
 - [fmillone/string-quotes.nvim](https://github.com/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/stars/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/last-commit/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/string-quotes.nvim)
+- [rxtsel/template-string.nvim](https://github.com/rxtsel/template-string.nvim) ![](https://img.shields.io/github/stars/rxtsel/template-string.nvim) ![](https://img.shields.io/github/last-commit/rxtsel/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/rxtsel/template-string.nvim)
+- [aaaaargZombies/webcomponent-template-editor.nvim](https://github.com/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/webcomponent-template-editor.nvim)
 
 #### console.log
 

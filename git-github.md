@@ -43,6 +43,7 @@
     + [Notify](#notify)
   * [GitHub tweaks](#github-tweaks)
   * [Trend](#trend)
+  * [Issue](#issue)
   * [Pull Request](#pull-request)
   * [Actions](#actions)
   * [Link](#link)
@@ -293,6 +294,10 @@
 ## Trend
 
 - [gsuuon/social.nvim](https://github.com/gsuuon/social.nvim) ![](https://img.shields.io/github/stars/gsuuon/social.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/social.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/social.nvim)
+
+## Issue
+
+- [MovieMaker93/telescope-ghissue.nvim](https://github.com/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/stars/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/last-commit/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/commit-activity/y/MovieMaker93/telescope-ghissue.nvim)
 
 ## Pull Request
 

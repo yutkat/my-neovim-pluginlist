@@ -31,6 +31,7 @@
 - [princejoogie/chafa.nvim](https://github.com/princejoogie/chafa.nvim) ![](https://img.shields.io/github/stars/princejoogie/chafa.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/chafa.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/chafa.nvim)
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) ![](https://img.shields.io/github/stars/3rd/image.nvim) ![](https://img.shields.io/github/last-commit/3rd/image.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/image.nvim)
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/stars/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/last-commit/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/telescope-media.nvim)
+- [queue-miscreant/nvim-image-test](https://github.com/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/stars/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/last-commit/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/commit-activity/y/queue-miscreant/nvim-image-test)
 
 ### Image Magic
 
