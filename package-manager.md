@@ -21,6 +21,7 @@
   - [jayp0521/mason-nvim-dap.nvim](https://github.com/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/stars/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/last-commit/jayp0521/mason-nvim-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/jayp0521/mason-nvim-dap.nvim)
   - [zapling/mason-lock.nvim](https://github.com/zapling/mason-lock.nvim) ![](https://img.shields.io/github/stars/zapling/mason-lock.nvim) ![](https://img.shields.io/github/last-commit/zapling/mason-lock.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/mason-lock.nvim)
   - [Frostplexx/mason-bridge.nvim](https://github.com/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/stars/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/last-commit/Frostplexx/mason-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/Frostplexx/mason-bridge.nvim)
+- [cmus-enjoyers/pipka.nvim](https://github.com/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/pipka.nvim)
 
 #### formatter
 

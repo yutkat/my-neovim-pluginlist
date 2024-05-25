@@ -69,6 +69,7 @@
 - [FabrizioPerria/CodeBox.nvim](https://github.com/FabrizioPerria/CodeBox.nvim) ![](https://img.shields.io/github/stars/FabrizioPerria/CodeBox.nvim) ![](https://img.shields.io/github/last-commit/FabrizioPerria/CodeBox.nvim) ![](https://img.shields.io/github/commit-activity/y/FabrizioPerria/CodeBox.nvim)
 - [KDesp73/project-starter.nvim](https://github.com/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/stars/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/last-commit/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/commit-activity/y/KDesp73/project-starter.nvim)
 - [M1nts02/nvim-template](https://github.com/M1nts02/nvim-template) ![](https://img.shields.io/github/stars/M1nts02/nvim-template) ![](https://img.shields.io/github/last-commit/M1nts02/nvim-template) ![](https://img.shields.io/github/commit-activity/y/M1nts02/nvim-template)
+- [dheerajshenoy/templatory.nvim](https://github.com/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/stars/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/last-commit/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/commit-activity/y/dheerajshenoy/templatory.nvim)
 
 #### README
 
