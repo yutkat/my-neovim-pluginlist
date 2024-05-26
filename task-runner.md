@@ -94,6 +94,7 @@
 - [Rocco-Gossmann/nvim-taskrunner](https://github.com/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/stars/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/last-commit/Rocco-Gossmann/nvim-taskrunner) ![](https://img.shields.io/github/commit-activity/y/Rocco-Gossmann/nvim-taskrunner)
 - [speelbarrow/spLauncher.nvim](https://github.com/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/stars/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/last-commit/speelbarrow/spLauncher.nvim) ![](https://img.shields.io/github/commit-activity/y/speelbarrow/spLauncher.nvim)
 - [niuiic/task.nvim](https://github.com/niuiic/task.nvim) ![](https://img.shields.io/github/stars/niuiic/task.nvim) ![](https://img.shields.io/github/last-commit/niuiic/task.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/task.nvim)
+- [trajanoreuter/telescope-extension.nvim](https://github.com/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/stars/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/last-commit/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/trajanoreuter/telescope-extension.nvim)
 
 ### Shell
 

@@ -44,3 +44,4 @@
 ## Session Selector
 
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
+- [Sawansunar56/nvim-sessionar](https://github.com/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/stars/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/last-commit/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/commit-activity/y/Sawansunar56/nvim-sessionar)

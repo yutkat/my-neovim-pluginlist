@@ -9,6 +9,7 @@
   * [import](#import)
   * [REPL](#repl)
   * [Debug](#debug)
+- [pydoc](#pydoc)
   * [Stacktrace](#stacktrace)
   * [build manager](#build-manager)
   * [pypi](#pypi)
@@ -64,6 +65,10 @@
 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
 - [camilotorresf/icecream.nvim](https://github.com/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/stars/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/last-commit/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/commit-activity/y/camilotorresf/icecream.nvim)
+
+### pydoc
+
+- [RazorBest/pydoc.nvim](https://github.com/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/stars/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/last-commit/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/RazorBest/pydoc.nvim)
 
 #### Stacktrace
 
