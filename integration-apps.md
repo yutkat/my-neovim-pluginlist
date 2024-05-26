@@ -76,6 +76,7 @@
 - [elentok/open-link.nvim](https://github.com/elentok/open-link.nvim) ![](https://img.shields.io/github/stars/elentok/open-link.nvim) ![](https://img.shields.io/github/last-commit/elentok/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/open-link.nvim)
 - [z0rzi/open-from-chrome.nvim](https://github.com/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/stars/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/open-from-chrome.nvim)
 - [andrewwillette/open.nvim](https://github.com/andrewwillette/open.nvim) ![](https://img.shields.io/github/stars/andrewwillette/open.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/open.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/open.nvim)
+- [wallpants/napoleon.nvim](https://github.com/wallpants/napoleon.nvim) ![](https://img.shields.io/github/stars/wallpants/napoleon.nvim) ![](https://img.shields.io/github/last-commit/wallpants/napoleon.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/napoleon.nvim)
 
 #### url open
 
