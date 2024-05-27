@@ -10,6 +10,7 @@
   * [impl](#impl)
   * [implement](#implement)
   * [Type](#type)
+  * [Generator](#generator)
 
 <!-- tocstop -->
 
@@ -75,3 +76,7 @@
 ### Type
 
 - [DeanRTaylor1/inline-types.nvim](https://github.com/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/stars/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/last-commit/DeanRTaylor1/inline-types.nvim) ![](https://img.shields.io/github/commit-activity/y/DeanRTaylor1/inline-types.nvim)
+
+### Generator
+
+- [cszczepaniak/go-tools.nvim](https://github.com/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/go-tools.nvim)
