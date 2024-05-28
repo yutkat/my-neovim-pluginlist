@@ -155,6 +155,7 @@
 - [karim-hammami/selector.nvim](https://github.com/karim-hammami/selector.nvim) ![](https://img.shields.io/github/stars/karim-hammami/selector.nvim) ![](https://img.shields.io/github/last-commit/karim-hammami/selector.nvim) ![](https://img.shields.io/github/commit-activity/y/karim-hammami/selector.nvim)
 - [yowcow/partial.nvim](https://github.com/yowcow/partial.nvim) ![](https://img.shields.io/github/stars/yowcow/partial.nvim) ![](https://img.shields.io/github/last-commit/yowcow/partial.nvim) ![](https://img.shields.io/github/commit-activity/y/yowcow/partial.nvim)
 - [brlywk/section.nvim](https://github.com/brlywk/section.nvim) ![](https://img.shields.io/github/stars/brlywk/section.nvim) ![](https://img.shields.io/github/last-commit/brlywk/section.nvim) ![](https://img.shields.io/github/commit-activity/y/brlywk/section.nvim)
+- [vanaigr/motion.nvim](https://github.com/vanaigr/motion.nvim) ![](https://img.shields.io/github/stars/vanaigr/motion.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/motion.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/motion.nvim)
 
 ## Bracket and quote
 

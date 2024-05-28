@@ -281,6 +281,7 @@
 - [muryp/nvim-muryp-git](https://github.com/muryp/nvim-muryp-git) ![](https://img.shields.io/github/stars/muryp/nvim-muryp-git) ![](https://img.shields.io/github/last-commit/muryp/nvim-muryp-git) ![](https://img.shields.io/github/commit-activity/y/muryp/nvim-muryp-git)
 - [mistweaverco/githubutils.nvim](https://github.com/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/stars/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/githubutils.nvim)
 - [muryp/muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-gh.nvim)
+- [wassimk/gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/stars/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/last-commit/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/gh-navigator.nvim)
 
 ### Notify
 
