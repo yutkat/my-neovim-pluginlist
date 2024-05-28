@@ -86,6 +86,7 @@
 - [arthur-remy/md-auto-filename.nvim](https://github.com/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/stars/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/last-commit/arthur-remy/md-auto-filename.nvim) ![](https://img.shields.io/github/commit-activity/y/arthur-remy/md-auto-filename.nvim)
 - [thjbdvlt/underlowne.nvim](https://github.com/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/underlowne.nvim)
 - [onurozuduru/himarkdown.nvim](https://github.com/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/stars/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/last-commit/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/onurozuduru/himarkdown.nvim)
+- [hyogoa2c/mdheadnums.nvim](https://github.com/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/stars/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/last-commit/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/commit-activity/y/hyogoa2c/mdheadnums.nvim)
 
 ##### Title explorer
 

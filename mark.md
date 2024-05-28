@@ -21,6 +21,7 @@
 - [Laellekoenig/marky-mark.nvim](https://github.com/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/stars/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/last-commit/Laellekoenig/marky-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/Laellekoenig/marky-mark.nvim)
 - [brunobmello25/project-marks.nvim](https://github.com/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/stars/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/last-commit/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/brunobmello25/project-marks.nvim)
 - [niuiic/track.nvim](https://github.com/niuiic/track.nvim) ![](https://img.shields.io/github/stars/niuiic/track.nvim) ![](https://img.shields.io/github/last-commit/niuiic/track.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/track.nvim)
+- [nkey-ops/extended-marks.nvim](https://github.com/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/stars/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/last-commit/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkey-ops/extended-marks.nvim)
 
 ### sign
 

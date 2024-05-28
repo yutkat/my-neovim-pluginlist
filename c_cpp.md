@@ -51,6 +51,7 @@
 ### Clang
 
 - [leosmaia21/gcompilecommands.nvim](https://github.com/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/stars/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/gcompilecommands.nvim)
+- [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/stars/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/last-commit/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/reloader.nvim)
 
 ### GCC
 
