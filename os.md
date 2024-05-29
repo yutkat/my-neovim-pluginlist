@@ -22,6 +22,7 @@
     + [AutoHotKey](#autohotkey)
     + [WSL](#wsl)
   * [Mac](#mac)
+    + [Window Manager](#window-manager)
     + [iTerm](#iterm)
   * [iOS](#ios)
   * [Android](#android)
@@ -109,6 +110,10 @@
 - [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/alfred-neovim-utilities)
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
 - [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
+
+#### Window Manager
+
+- [brandoncc/window-management.nvim](https://github.com/brandoncc/window-management.nvim) ![](https://img.shields.io/github/stars/brandoncc/window-management.nvim) ![](https://img.shields.io/github/last-commit/brandoncc/window-management.nvim) ![](https://img.shields.io/github/commit-activity/y/brandoncc/window-management.nvim)
 
 #### iTerm
 
