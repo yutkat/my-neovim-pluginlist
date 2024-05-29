@@ -219,6 +219,7 @@
 - [s1n7ax/nvim-react](https://github.com/s1n7ax/nvim-react) ![](https://img.shields.io/github/stars/s1n7ax/nvim-react) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-react) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-react)
 - [Shobhit-Nagpal/nvim-rafce](https://github.com/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/stars/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/last-commit/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/commit-activity/y/Shobhit-Nagpal/nvim-rafce)
 - [dromse/radon.nvim](https://github.com/dromse/radon.nvim) ![](https://img.shields.io/github/stars/dromse/radon.nvim) ![](https://img.shields.io/github/last-commit/dromse/radon.nvim) ![](https://img.shields.io/github/commit-activity/y/dromse/radon.nvim)
+- [TiagoMDG/react-comp-gen.nvim](https://github.com/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/stars/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/last-commit/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/TiagoMDG/react-comp-gen.nvim)
 
 ##### Vue
 

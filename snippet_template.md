@@ -71,6 +71,7 @@
 - [KDesp73/project-starter.nvim](https://github.com/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/stars/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/last-commit/KDesp73/project-starter.nvim) ![](https://img.shields.io/github/commit-activity/y/KDesp73/project-starter.nvim)
 - [M1nts02/nvim-template](https://github.com/M1nts02/nvim-template) ![](https://img.shields.io/github/stars/M1nts02/nvim-template) ![](https://img.shields.io/github/last-commit/M1nts02/nvim-template) ![](https://img.shields.io/github/commit-activity/y/M1nts02/nvim-template)
 - [dheerajshenoy/templatory.nvim](https://github.com/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/stars/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/last-commit/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/commit-activity/y/dheerajshenoy/templatory.nvim)
+- [Thanatisia/devenv.nvim](https://github.com/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/stars/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/last-commit/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Thanatisia/devenv.nvim)
 
 #### README
 
