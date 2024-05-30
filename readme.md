@@ -65,6 +65,7 @@
   * [Directory](#directory)
   * [filetype](#filetype)
   * [Macro](#macro)
+  * [Environment Variable](#environment-variable)
   * [Errorformat](#errorformat)
   * [Message / Notification](#message--notification)
   * [Help](#help)
@@ -353,6 +354,10 @@
 ### [filetype](./filetype.md)
 
 ### [Macro](./macro.md)
+
+### Environment Variable
+
+- [yohendry/envs.nvim](https://github.com/yohendry/envs.nvim) ![](https://img.shields.io/github/stars/yohendry/envs.nvim) ![](https://img.shields.io/github/last-commit/yohendry/envs.nvim) ![](https://img.shields.io/github/commit-activity/y/yohendry/envs.nvim)
 
 ### Errorformat
 

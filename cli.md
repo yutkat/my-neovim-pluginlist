@@ -214,7 +214,7 @@
 - [lennarkivimae/nvim-rsync](https://github.com/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/stars/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/last-commit/lennarkivimae/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/lennarkivimae/nvim-rsync)
 - [shinobu-uwu/rsync.nvim](https://github.com/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/stars/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/last-commit/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/shinobu-uwu/rsync.nvim)
 - [Martins3/rsync.nvim](https://github.com/Martins3/rsync.nvim) ![](https://img.shields.io/github/stars/Martins3/rsync.nvim) ![](https://img.shields.io/github/last-commit/Martins3/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Martins3/rsync.nvim)
-
+- [iFarmGolems/deploy.nvim](https://github.com/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/stars/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/last-commit/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/commit-activity/y/iFarmGolems/deploy.nvim)
 
 #### ctags
 

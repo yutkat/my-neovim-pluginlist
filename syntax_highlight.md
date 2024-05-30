@@ -102,6 +102,7 @@
 - [linrongbin16/colorbox.nvim](https://github.com/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/stars/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/colorbox.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/colorbox.nvim)
 - [liamrlawrence/crayons.nvim](https://github.com/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/crayons.nvim)
 - [oonamo/manage-my-colors.nvim](https://github.com/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/stars/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/last-commit/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/oonamo/manage-my-colors.nvim)
+- [harrisonbierman/picasso.nvim](https://github.com/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/stars/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/last-commit/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisonbierman/picasso.nvim)
 
 ### Colorscheme overwrite
 
