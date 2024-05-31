@@ -42,8 +42,6 @@
 
 ### Delimiter
 
-- [HiPhish/nvim-ts-rainbow2](https://github.com/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/stars/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-ts-rainbow2) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-ts-rainbow2)
-
 ### Arguments
 
 - [m-demare/hlargs.nvim](https://github.com/m-demare/hlargs.nvim) ![](https://img.shields.io/github/stars/m-demare/hlargs.nvim) ![](https://img.shields.io/github/last-commit/m-demare/hlargs.nvim) ![](https://img.shields.io/github/commit-activity/y/m-demare/hlargs.nvim)
