@@ -168,6 +168,7 @@
 - [mskelton/hoverdown.nvim](https://github.com/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/stars/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/last-commit/mskelton/hoverdown.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/hoverdown.nvim)
 - [simondwall/literate_markdown.nvim](https://github.com/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/stars/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/last-commit/simondwall/literate_markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/literate_markdown.nvim)
 - [fishioon/cmd.nvim](https://github.com/fishioon/cmd.nvim) ![](https://img.shields.io/github/stars/fishioon/cmd.nvim) ![](https://img.shields.io/github/last-commit/fishioon/cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/fishioon/cmd.nvim)
+- [denstiny/styledoc.nvim](https://github.com/denstiny/styledoc.nvim) ![](https://img.shields.io/github/stars/denstiny/styledoc.nvim) ![](https://img.shields.io/github/last-commit/denstiny/styledoc.nvim) ![](https://img.shields.io/github/commit-activity/y/denstiny/styledoc.nvim)
 
 #### Markdown table
 
