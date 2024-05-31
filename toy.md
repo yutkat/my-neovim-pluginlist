@@ -23,6 +23,7 @@
       - [Edit Info](#edit-info)
   * [Study](#study)
   * [Music](#music)
+    + [Tidal](#tidal)
       - [MIDI](#midi)
       - [Morse](#morse)
       - [Guitar](#guitar)
@@ -161,7 +162,6 @@
 ## Music
 
 - [garyburd/norns.nvim](https://github.com/garyburd/norns.nvim) ![](https://img.shields.io/github/stars/garyburd/norns.nvim) ![](https://img.shields.io/github/last-commit/garyburd/norns.nvim) ![](https://img.shields.io/github/commit-activity/y/garyburd/norns.nvim)
-- [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
 - [tamton-aquib/mpv.nvim](https://github.com/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/mpv.nvim)
 - [4542elgh/telescope-youtube-mpv.nvim](https://github.com/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-youtube-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-youtube-mpv.nvim)
 - [AntonVanAssche/music-controls.nvim](https://github.com/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/stars/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/last-commit/AntonVanAssche/music-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/AntonVanAssche/music-controls.nvim)
@@ -176,6 +176,11 @@
 - [Leenuus/mpc.nvim](https://github.com/Leenuus/mpc.nvim) ![](https://img.shields.io/github/stars/Leenuus/mpc.nvim) ![](https://img.shields.io/github/last-commit/Leenuus/mpc.nvim) ![](https://img.shields.io/github/commit-activity/y/Leenuus/mpc.nvim)
 - [paulfrische/mpd.nvim](https://github.com/paulfrische/mpd.nvim) ![](https://img.shields.io/github/stars/paulfrische/mpd.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mpd.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mpd.nvim)
 - [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
+
+### Tidal
+
+- [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
+- [grddavies/tidal.nvim](https://github.com/grddavies/tidal.nvim) ![](https://img.shields.io/github/stars/grddavies/tidal.nvim) ![](https://img.shields.io/github/last-commit/grddavies/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/grddavies/tidal.nvim)
 
 #### MIDI
 
@@ -197,7 +202,6 @@
 
 - [Derrekito/nvim-type-anim](https://github.com/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/stars/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/last-commit/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/nvim-type-anim)
 - [tjfehdgns1/bongocat.nvim](https://github.com/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/stars/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/last-commit/tjfehdgns1/bongocat.nvim) ![](https://img.shields.io/github/commit-activity/y/tjfehdgns1/bongocat.nvim)
-- [grddavies/tidal.nvim](https://github.com/grddavies/tidal.nvim) ![](https://img.shields.io/github/stars/grddavies/tidal.nvim) ![](https://img.shields.io/github/last-commit/grddavies/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/grddavies/tidal.nvim)
 
 ### Type sound
 
