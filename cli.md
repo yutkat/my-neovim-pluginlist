@@ -239,6 +239,7 @@
 ##### chezmoi
 
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/stars/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/last-commit/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/chezmoi.nvim)
+- [GianniBYoung/chezmoi-telescope.nvim](https://github.com/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/stars/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/last-commit/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/GianniBYoung/chezmoi-telescope.nvim)
 
 ##### vcsh
 
@@ -290,3 +291,4 @@
 - [venc0r/telescope-k8s.nvim](https://github.com/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/stars/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/last-commit/venc0r/telescope-k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/venc0r/telescope-k8s.nvim)
 - [h4ckm1n-dev/kube-utils-nvim](https://github.com/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/stars/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/kube-utils-nvim)
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/stars/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/kubectl.nvim)
+- [anasinnyk/nvim-k8s-crd](https://github.com/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/stars/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/last-commit/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/commit-activity/y/anasinnyk/nvim-k8s-crd)

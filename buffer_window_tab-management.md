@@ -288,6 +288,7 @@
 - [kdssoftware/lua-obfuscator.nvim](https://github.com/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/stars/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/last-commit/kdssoftware/lua-obfuscator.nvim) ![](https://img.shields.io/github/commit-activity/y/kdssoftware/lua-obfuscator.nvim)
 - [miversen33/sunglasses.nvim](https://github.com/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/stars/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/last-commit/miversen33/sunglasses.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/sunglasses.nvim)
 - [xsmallo/opacity.nvim](https://github.com/xsmallo/opacity.nvim) ![](https://img.shields.io/github/stars/xsmallo/opacity.nvim) ![](https://img.shields.io/github/last-commit/xsmallo/opacity.nvim) ![](https://img.shields.io/github/commit-activity/y/xsmallo/opacity.nvim)
+- [JuanBaut/eclipse.nvim](https://github.com/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/stars/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/last-commit/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanBaut/eclipse.nvim)
 
 ### animation
 

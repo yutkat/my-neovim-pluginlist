@@ -58,6 +58,7 @@
     + [Moonbit](#moonbit)
     + [Unison](#unison)
     + [LMNtal](#lmntal)
+    + [Eno](#eno)
     + [Prolog](#prolog)
     + [CHIP-8](#chip-8)
     + [Brainfuck](#brainfuck)
@@ -318,6 +319,10 @@
 ### LMNtal
 
 - [kyawaway/lmntal.nvim](https://github.com/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/stars/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/last-commit/kyawaway/lmntal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyawaway/lmntal.nvim)
+
+### Eno
+
+- [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
 
 ### Prolog
 
