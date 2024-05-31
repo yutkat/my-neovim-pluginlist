@@ -6,6 +6,7 @@
   * [callback](#callback)
   * [Bracket](#bracket)
   * [Remap](#remap)
+  * [Remove default](#remove-default)
   * [Mapping search](#mapping-search)
   * [Show assigned](#show-assigned)
   * [Prefix Key Binding](#prefix-key-binding)
@@ -53,6 +54,10 @@
 ## Remap
 
 - [codescovery/lazy-remap.nvim](https://github.com/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/stars/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/last-commit/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/commit-activity/y/codescovery/lazy-remap.nvim)
+
+## Remove default
+
+- [ryoppippi/nvim-reset](https://github.com/ryoppippi/nvim-reset) ![](https://img.shields.io/github/stars/ryoppippi/nvim-reset) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-reset) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-reset)
 
 ## Mapping search
 
