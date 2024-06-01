@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Cursor](#cursor)
+- [Cursor position](#cursor-position)
 
 <!-- tocstop -->
 
@@ -15,3 +16,7 @@
 - [haoran-mc/beacon.nvim](https://github.com/haoran-mc/beacon.nvim) ![](https://img.shields.io/github/stars/haoran-mc/beacon.nvim) ![](https://img.shields.io/github/last-commit/haoran-mc/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/haoran-mc/beacon.nvim)
 - [moyiz/command-and-cursor.nvim](https://github.com/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/moyiz/command-and-cursor.nvim)
 - [adelarsq/snake_cursor.nvim](https://github.com/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/stars/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/snake_cursor.nvim)
+
+## Cursor position
+
+- [rlychrisg/keepcursor.nvim](https://github.com/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/stars/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/keepcursor.nvim)

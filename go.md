@@ -68,6 +68,7 @@
 ### impl
 
 - [venomlab/goimpl.nvim](https://github.com/venomlab/goimpl.nvim) ![](https://img.shields.io/github/stars/venomlab/goimpl.nvim) ![](https://img.shields.io/github/last-commit/venomlab/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/venomlab/goimpl.nvim)
+- [jack-rabe/impl.nvim](https://github.com/jack-rabe/impl.nvim) ![](https://img.shields.io/github/stars/jack-rabe/impl.nvim) ![](https://img.shields.io/github/last-commit/jack-rabe/impl.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-rabe/impl.nvim)
 
 ### implement
 
