@@ -9,6 +9,7 @@
   * [import](#import)
   * [REPL](#repl)
   * [Debug](#debug)
+- [Docstring](#docstring)
 - [pydoc](#pydoc)
   * [Stacktrace](#stacktrace)
   * [build manager](#build-manager)
@@ -65,6 +66,10 @@
 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
 - [camilotorresf/icecream.nvim](https://github.com/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/stars/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/last-commit/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/commit-activity/y/camilotorresf/icecream.nvim)
+
+### Docstring
+
+- [unawarez/nvim-python-docstrings](https://github.com/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/stars/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/last-commit/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/commit-activity/y/unawarez/nvim-python-docstrings)
 
 ### pydoc
 
