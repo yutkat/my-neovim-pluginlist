@@ -16,6 +16,7 @@
   * [Gemini](#gemini-1)
   * [Mentat](#mentat)
   * [Codeium](#codeium)
+  * [Codegeex](#codegeex)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
 - [AI Completion](#ai-completion)
@@ -136,6 +137,10 @@
 
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
+
+### Codegeex
+
+- [sunn4room/codegeex.nvim](https://github.com/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/stars/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/last-commit/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/commit-activity/y/sunn4room/codegeex.nvim)
 
 ### Machine Learning
 
