@@ -23,6 +23,7 @@
 
 ### LSP
 
+- [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) ![](https://img.shields.io/github/stars/folke/lazydev.nvim) ![](https://img.shields.io/github/last-commit/folke/lazydev.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lazydev.nvim)
 - [AbaoFromCUG/luals.nvim](https://github.com/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luals.nvim)
 
 ### Treesitter
