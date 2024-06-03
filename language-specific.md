@@ -60,6 +60,7 @@
     + [LMNtal](#lmntal)
     + [Eno](#eno)
     + [Prolog](#prolog)
+    + [Beancount](#beancount)
     + [CHIP-8](#chip-8)
     + [Brainfuck](#brainfuck)
 - [Competitive programming](#competitive-programming)
@@ -327,6 +328,10 @@
 ### Prolog
 
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
+
+### Beancount
+
+- [crispgm/cmp-beancount](https://github.com/crispgm/cmp-beancount) ![](https://img.shields.io/github/stars/crispgm/cmp-beancount) ![](https://img.shields.io/github/last-commit/crispgm/cmp-beancount) ![](https://img.shields.io/github/commit-activity/y/crispgm/cmp-beancount)
 
 ### CHIP-8
 
