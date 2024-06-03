@@ -151,6 +151,7 @@
 - [Kuchteq/build.nvim](https://github.com/Kuchteq/build.nvim) ![](https://img.shields.io/github/stars/Kuchteq/build.nvim) ![](https://img.shields.io/github/last-commit/Kuchteq/build.nvim) ![](https://img.shields.io/github/commit-activity/y/Kuchteq/build.nvim)
 - [Zeioth/makeit.nvim](https://github.com/Zeioth/makeit.nvim) ![](https://img.shields.io/github/stars/Zeioth/makeit.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/makeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/makeit.nvim)
 - [burgr033/mf-runner.nvim](https://github.com/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/stars/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/last-commit/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/burgr033/mf-runner.nvim)
+- [l3k4n/justmake.nvim](https://github.com/l3k4n/justmake.nvim) ![](https://img.shields.io/github/stars/l3k4n/justmake.nvim) ![](https://img.shields.io/github/last-commit/l3k4n/justmake.nvim) ![](https://img.shields.io/github/commit-activity/y/l3k4n/justmake.nvim)
 
 ##### just
 
