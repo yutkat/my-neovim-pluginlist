@@ -30,6 +30,7 @@
 - [chrisgrieser/nvim-scissors](https://github.com/chrisgrieser/nvim-scissors) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-scissors) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-scissors) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-scissors)
 - [guilherme-puida/tesoura.nvim](https://github.com/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/stars/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/last-commit/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-puida/tesoura.nvim)
 - [mfussenegger/nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/stars/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-snippasta)
+- [aattoa/nvim-simple-snippets](https://github.com/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/stars/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/last-commit/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-simple-snippets)
 
 #### Snippet definitions
 

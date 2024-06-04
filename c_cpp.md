@@ -4,6 +4,7 @@
 
 - [C/C++](#cc)
   * [Syntax](#syntax)
+  * [Macro](#macro)
   * [Clang](#clang)
   * [GCC](#gcc)
   * [Formatter](#formatter)
@@ -47,6 +48,10 @@
 ### Syntax
 
 - [RyanBlaney/syntax-tract.nvim](https://github.com/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/stars/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/last-commit/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanBlaney/syntax-tract.nvim)
+
+### Macro
+
+- [sciccolella/cmacro.nvim](https://github.com/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/stars/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/last-commit/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/sciccolella/cmacro.nvim)
 
 ### Clang
 
