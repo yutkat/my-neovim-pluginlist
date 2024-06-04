@@ -62,7 +62,6 @@
 - [juiceDeLemon/schitoozleen.nvim](https://github.com/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/stars/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/last-commit/juiceDeLemon/schitoozleen.nvim) ![](https://img.shields.io/github/commit-activity/y/juiceDeLemon/schitoozleen.nvim)
 - [Ernest1338/eg-statusline.nvim](https://github.com/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/stars/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/eg-statusline.nvim)
 - [brianaung/yasl.nvim](https://github.com/brianaung/yasl.nvim) ![](https://img.shields.io/github/stars/brianaung/yasl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/yasl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/yasl.nvim)
-- [adriankarlen/stsln.nvim](https://github.com/adriankarlen/stsln.nvim) ![](https://img.shields.io/github/stars/adriankarlen/stsln.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/stsln.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/stsln.nvim)
 
 ### Special Features
 
