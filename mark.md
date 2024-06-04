@@ -22,6 +22,7 @@
 - [brunobmello25/project-marks.nvim](https://github.com/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/stars/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/last-commit/brunobmello25/project-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/brunobmello25/project-marks.nvim)
 - [niuiic/track.nvim](https://github.com/niuiic/track.nvim) ![](https://img.shields.io/github/stars/niuiic/track.nvim) ![](https://img.shields.io/github/last-commit/niuiic/track.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/track.nvim)
 - [nkey-ops/extended-marks.nvim](https://github.com/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/stars/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/last-commit/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkey-ops/extended-marks.nvim)
+- [2KAbhishek/markit.nvim](https://github.com/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/markit.nvim)
 
 ### sign
 

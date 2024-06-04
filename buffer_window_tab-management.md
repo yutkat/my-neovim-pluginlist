@@ -86,6 +86,7 @@
 - [RaafatTurki/view.nvim](https://github.com/RaafatTurki/view.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/view.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/view.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/view.nvim)
 - [zopu/testswitch.nvim](https://github.com/zopu/testswitch.nvim) ![](https://img.shields.io/github/stars/zopu/testswitch.nvim) ![](https://img.shields.io/github/last-commit/zopu/testswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/zopu/testswitch.nvim)
 - [sshelll/telescope-switch.nvim](https://github.com/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-switch.nvim)
+- [nikbrunner/fff.nvim](https://github.com/nikbrunner/fff.nvim) ![](https://img.shields.io/github/stars/nikbrunner/fff.nvim) ![](https://img.shields.io/github/last-commit/nikbrunner/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/nikbrunner/fff.nvim)
 
 ### Buffer Management
 
