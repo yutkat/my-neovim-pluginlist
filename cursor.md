@@ -20,3 +20,4 @@
 ## Cursor position
 
 - [rlychrisg/keepcursor.nvim](https://github.com/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/stars/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/keepcursor.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/keepcursor.nvim)
+- [sarrisv/readermode.nvim](https://github.com/sarrisv/readermode.nvim) ![](https://img.shields.io/github/stars/sarrisv/readermode.nvim) ![](https://img.shields.io/github/last-commit/sarrisv/readermode.nvim) ![](https://img.shields.io/github/commit-activity/y/sarrisv/readermode.nvim)

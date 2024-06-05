@@ -64,6 +64,7 @@
 ### struct
 
 - [triarius/json2struct.nvim](https://github.com/triarius/json2struct.nvim) ![](https://img.shields.io/github/stars/triarius/json2struct.nvim) ![](https://img.shields.io/github/last-commit/triarius/json2struct.nvim) ![](https://img.shields.io/github/commit-activity/y/triarius/json2struct.nvim)
+- [devkvlt/go-tags.nvim](https://github.com/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/stars/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/last-commit/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/commit-activity/y/devkvlt/go-tags.nvim)
 
 ### impl
 
