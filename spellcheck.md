@@ -25,6 +25,7 @@
 - [nathom/autocorrect.nvim](https://github.com/nathom/autocorrect.nvim) ![](https://img.shields.io/github/stars/nathom/autocorrect.nvim) ![](https://img.shields.io/github/last-commit/nathom/autocorrect.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/autocorrect.nvim)
 - [swaits/thethethe.nvim](https://github.com/swaits/thethethe.nvim) ![](https://img.shields.io/github/stars/swaits/thethethe.nvim) ![](https://img.shields.io/github/last-commit/swaits/thethethe.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/thethethe.nvim)
 - [barnii77/typofix.nvim](https://github.com/barnii77/typofix.nvim) ![](https://img.shields.io/github/stars/barnii77/typofix.nvim) ![](https://img.shields.io/github/last-commit/barnii77/typofix.nvim) ![](https://img.shields.io/github/commit-activity/y/barnii77/typofix.nvim)
+- [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/stars/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/spellwarn.nvim)
 
 #### Vale
 

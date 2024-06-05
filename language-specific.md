@@ -7,6 +7,7 @@
     + [Zig](#zig)
     + [Nix](#nix)
     + [C#](#c%23)
+      - [ASP.NET](#aspnet)
     + [Kotlin](#kotlin)
     + [Swift](#swift)
     + [Scala](#scala)
@@ -95,6 +96,10 @@
 - [oysandvik94/boilercreate.nvim](https://github.com/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/stars/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/boilercreate.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/boilercreate.nvim)
 - [jmederosalvarado/roslyn.nvim](https://github.com/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/stars/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/last-commit/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/jmederosalvarado/roslyn.nvim)
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
+
+#### ASP.NET
+
+- [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) ![](https://img.shields.io/github/stars/tris203/rzls.nvim) ![](https://img.shields.io/github/last-commit/tris203/rzls.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/rzls.nvim)
 
 ### Kotlin
 
