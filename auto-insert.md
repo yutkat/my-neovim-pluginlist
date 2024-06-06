@@ -4,6 +4,7 @@
 
 - [Auto insert](#auto-insert)
 - [insert pairs](#insert-pairs)
+  * [escape pairs](#escape-pairs)
   * [endwise](#endwise)
 - [Auto insert semicolon](#auto-insert-semicolon)
 - [Auto convert](#auto-convert)
@@ -38,6 +39,10 @@
 - [tomashruska1/nvim-autoclose](https://github.com/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/stars/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/last-commit/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/commit-activity/y/tomashruska1/nvim-autoclose)
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) ![](https://img.shields.io/github/stars/kawre/neotab.nvim) ![](https://img.shields.io/github/last-commit/kawre/neotab.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/neotab.nvim)
 - [Masgharoth/match-close.nvim](https://github.com/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/stars/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/last-commit/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/commit-activity/y/Masgharoth/match-close.nvim)
+
+### escape pairs
+
+- [ysmb-wtsg/escape.nvim](https://github.com/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/escape.nvim)
 
 ### endwise
 

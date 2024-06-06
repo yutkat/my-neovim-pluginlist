@@ -129,6 +129,7 @@
 - [samharju/yeet.nvim](https://github.com/samharju/yeet.nvim) ![](https://img.shields.io/github/stars/samharju/yeet.nvim) ![](https://img.shields.io/github/last-commit/samharju/yeet.nvim) ![](https://img.shields.io/github/commit-activity/y/samharju/yeet.nvim)
 - [paulfrische/compile.nvim](https://github.com/paulfrische/compile.nvim) ![](https://img.shields.io/github/stars/paulfrische/compile.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/compile.nvim)
 - [CyberFatherRT/compile.nvim](https://github.com/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/compile.nvim)
+- [sakhnik/make-async.nvim](https://github.com/sakhnik/make-async.nvim) ![](https://img.shields.io/github/stars/sakhnik/make-async.nvim) ![](https://img.shields.io/github/last-commit/sakhnik/make-async.nvim) ![](https://img.shields.io/github/commit-activity/y/sakhnik/make-async.nvim)
 
 ## Auto detect style
 
