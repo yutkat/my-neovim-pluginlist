@@ -166,6 +166,7 @@
 
 ### Actions
 
+- [stevearc/nvim-typecheck-action](https://github.com/stevearc/nvim-typecheck-action) ![](https://img.shields.io/github/stars/stevearc/nvim-typecheck-action) ![](https://img.shields.io/github/last-commit/stevearc/nvim-typecheck-action) ![](https://img.shields.io/github/commit-activity/y/stevearc/nvim-typecheck-action)
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
 - [nvim-neorocks/luarocks-tag-release](https://github.com/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/stars/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/last-commit/nvim-neorocks/luarocks-tag-release) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/luarocks-tag-release)
 
