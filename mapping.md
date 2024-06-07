@@ -20,6 +20,7 @@
     + [Insert Mode](#insert-mode)
       - [Delete word](#delete-word)
       - [Home key](#home-key)
+    + [Command mode](#command-mode)
 
 <!-- tocstop -->
 
@@ -119,3 +120,7 @@
 #### Home key
 
 - [bwpge/homekey.nvim](https://github.com/bwpge/homekey.nvim) ![](https://img.shields.io/github/stars/bwpge/homekey.nvim) ![](https://img.shields.io/github/last-commit/bwpge/homekey.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/homekey.nvim)
+
+### Command mode
+
+- [edte/normal-colon.nvim](https://github.com/edte/normal-colon.nvim) ![](https://img.shields.io/github/stars/edte/normal-colon.nvim) ![](https://img.shields.io/github/last-commit/edte/normal-colon.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/normal-colon.nvim)

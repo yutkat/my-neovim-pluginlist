@@ -143,6 +143,7 @@
 - [molvrr/spotify.nvim](https://github.com/molvrr/spotify.nvim) ![](https://img.shields.io/github/stars/molvrr/spotify.nvim) ![](https://img.shields.io/github/last-commit/molvrr/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/molvrr/spotify.nvim)
 - [Z3rio/spotify.nvim](https://github.com/Z3rio/spotify.nvim) ![](https://img.shields.io/github/stars/Z3rio/spotify.nvim) ![](https://img.shields.io/github/last-commit/Z3rio/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/Z3rio/spotify.nvim)
 - [ElCapitanSponge/spotify.nvim](https://github.com/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/stars/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/last-commit/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/ElCapitanSponge/spotify.nvim)
+- [v1nh1shungry/lyricify.nvim](https://github.com/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/lyricify.nvim)
 
 #### StackOverflow
 
