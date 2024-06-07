@@ -26,6 +26,7 @@
 - [aw1875/devcontainers.nvim](https://github.com/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/stars/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/aw1875/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/aw1875/devcontainers.nvim)
 - [goropikari/local-container.nvim](https://github.com/goropikari/local-container.nvim) ![](https://img.shields.io/github/stars/goropikari/local-container.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-container.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-container.nvim)
 - [goropikari/local-devcontainer.nvim](https://github.com/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/stars/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-devcontainer.nvim)
+- [erichlf/devcontainer-cli.nvim](https://github.com/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/stars/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/last-commit/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/erichlf/devcontainer-cli.nvim)
 
 ### Collaborative Editing
 
