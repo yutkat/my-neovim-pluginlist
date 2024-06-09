@@ -130,6 +130,8 @@
   * [PHP](#php)
   * [Game Engine](#game-engine)
 - [Configuration File](#configuration-file)
+- [Database](#database)
+- [Protocol](#protocol)
 - [Documentation](#documentation)
 - [Neovim Lua Library](#neovim-lua-library)
 - [Neovim Lua Development](#neovim-lua-development)
@@ -527,6 +529,10 @@
 ### [Game Engine](./game-engine.md)
 
 ## [Configuration File](./configration-file.md)
+
+## [Database](./db.md)
+
+## [Protocol](./protocol.md)
 
 ## [Documentation](./documentation.md)
 
