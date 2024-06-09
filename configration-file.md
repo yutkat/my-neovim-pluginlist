@@ -14,20 +14,6 @@
   * [Jenkins](#jenkins)
   * [Cron](#cron)
   * [Drools Rule Language](#drools-rule-language)
-- [Database](#database)
-  * [SQL](#sql)
-  * [PostgreSQL](#postgresql)
-  * [MongoDB](#mongodb)
-  * [SurrealDB](#surrealdb)
-- [Protocol](#protocol)
-  * [HTTP](#http)
-  * [REST](#rest)
-    + [OpenAPI](#openapi)
-  * [Protocol buffer](#protocol-buffer)
-  * [Hurl](#hurl)
-  * [Graphql](#graphql)
-  * [WebSocket](#websocket)
-  * [webrcp](#webrcp)
 
 <!-- tocstop -->
 
@@ -99,76 +85,3 @@
 ### Drools Rule Language
 
 - [errantepiphany/drools.nvim](https://github.com/errantepiphany/drools.nvim) ![](https://img.shields.io/github/stars/errantepiphany/drools.nvim) ![](https://img.shields.io/github/last-commit/errantepiphany/drools.nvim) ![](https://img.shields.io/github/commit-activity/y/errantepiphany/drools.nvim)
-
-## Database
-
-- [abenz1267/nvim-databasehelper](https://github.com/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/stars/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/last-commit/abenz1267/nvim-databasehelper) ![](https://img.shields.io/github/commit-activity/y/abenz1267/nvim-databasehelper)
-- [napisani/nvim-dadbod-bg](https://github.com/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/stars/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/last-commit/napisani/nvim-dadbod-bg) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-dadbod-bg)
-- [icyavocado/gobang.nvim](https://github.com/icyavocado/gobang.nvim) ![](https://img.shields.io/github/stars/icyavocado/gobang.nvim) ![](https://img.shields.io/github/last-commit/icyavocado/gobang.nvim) ![](https://img.shields.io/github/commit-activity/y/icyavocado/gobang.nvim)
-- [miversen33/dbman.nvim](https://github.com/miversen33/dbman.nvim) ![](https://img.shields.io/github/stars/miversen33/dbman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/dbman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/dbman.nvim)
-- [Sanix-Darker/dockdb.nvim](https://github.com/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/dockdb.nvim)
-
-### SQL
-
-- [guysherman/pg.nvim](https://github.com/guysherman/pg.nvim) ![](https://img.shields.io/github/stars/guysherman/pg.nvim) ![](https://img.shields.io/github/last-commit/guysherman/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/guysherman/pg.nvim)
-- [tosiek88/nvim-sql-runner](https://github.com/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/stars/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/last-commit/tosiek88/nvim-sql-runner) ![](https://img.shields.io/github/commit-activity/y/tosiek88/nvim-sql-runner)
-- [Xemptuous/sqlua.nvim](https://github.com/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/stars/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/last-commit/Xemptuous/sqlua.nvim) ![](https://img.shields.io/github/commit-activity/y/Xemptuous/sqlua.nvim)
-- [rsdot/sqlpilot.nvim](https://github.com/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/stars/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/last-commit/rsdot/sqlpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/rsdot/sqlpilot.nvim)
-- [kndndrj/nvim-dbee](https://github.com/kndndrj/nvim-dbee) ![](https://img.shields.io/github/stars/kndndrj/nvim-dbee) ![](https://img.shields.io/github/last-commit/kndndrj/nvim-dbee) ![](https://img.shields.io/github/commit-activity/y/kndndrj/nvim-dbee)
-- [ddzero2c/go-embedded-sql.nvim](https://github.com/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/stars/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/go-embedded-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/go-embedded-sql.nvim)
-- [mrvaita/sqlrun.nvim](https://github.com/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/stars/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/last-commit/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/commit-activity/y/mrvaita/sqlrun.nvim)
-- [ray-x/cmp-sql](https://github.com/ray-x/cmp-sql) ![](https://img.shields.io/github/stars/ray-x/cmp-sql) ![](https://img.shields.io/github/last-commit/ray-x/cmp-sql) ![](https://img.shields.io/github/commit-activity/y/ray-x/cmp-sql)
-
-### PostgreSQL
-
-- [mzarnitsa/psql](https://github.com/mzarnitsa/psql) ![](https://img.shields.io/github/stars/mzarnitsa/psql) ![](https://img.shields.io/github/last-commit/mzarnitsa/psql) ![](https://img.shields.io/github/commit-activity/y/mzarnitsa/psql)
-- [jsMRSoL/pg.nvim](https://github.com/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/pg.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/pg.nvim)
-- [njaczko/nvim-psql](https://github.com/njaczko/nvim-psql) ![](https://img.shields.io/github/stars/njaczko/nvim-psql) ![](https://img.shields.io/github/last-commit/njaczko/nvim-psql) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-psql)
-- [evanrichards/maitre-psql.nvim](https://github.com/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/stars/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/last-commit/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/commit-activity/y/evanrichards/maitre-psql.nvim)
-
-### MongoDB
-
-- [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
-- [SirZenith/mongosh.nvim](https://github.com/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/stars/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/last-commit/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/commit-activity/y/SirZenith/mongosh.nvim)
-
-### SurrealDB
-
-- [DariusCorvus/tree-sitter-surrealdb.nvim](https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/stars/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/last-commit/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/commit-activity/y/DariusCorvus/tree-sitter-surrealdb.nvim)
-
-## Protocol
-
-### HTTP
-
-- [barrett-ruth/telescope-http.nvim](https://github.com/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/telescope-http.nvim)
-
-### REST
-
-- [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
-- [Cih2001/postwoman.nvim](https://github.com/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/stars/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/postwoman.nvim)
-- [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/atac.nvim)
-
-#### OpenAPI
-
-- [codeasashu/oas.nvim](https://github.com/codeasashu/oas.nvim) ![](https://img.shields.io/github/stars/codeasashu/oas.nvim) ![](https://img.shields.io/github/last-commit/codeasashu/oas.nvim) ![](https://img.shields.io/github/commit-activity/y/codeasashu/oas.nvim)
-
-### Protocol buffer
-
-- [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
-
-### Hurl
-
-- [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)
-- [ethancarlsson/nvim-hurl.nvim](https://github.com/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/stars/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/last-commit/ethancarlsson/nvim-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/ethancarlsson/nvim-hurl.nvim)
-
-### Graphql
-
-- [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
-- [darkonig/nvim-graphql-executor.lua](https://github.com/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/stars/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/last-commit/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/commit-activity/y/darkonig/nvim-graphql-executor.lua)
-
-### WebSocket
-
-- [niels4/websocket-text-relay.nvim](https://github.com/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/stars/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/last-commit/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/websocket-text-relay.nvim)
-
-### webrcp
-
-- [david-littlefarmer/ridl.nvim](https://github.com/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/stars/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/last-commit/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/commit-activity/y/david-littlefarmer/ridl.nvim)
