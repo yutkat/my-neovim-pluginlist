@@ -82,6 +82,7 @@
 - [rmassaroni/nvim-gpush](https://github.com/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/stars/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/last-commit/rmassaroni/nvim-gpush) ![](https://img.shields.io/github/commit-activity/y/rmassaroni/nvim-gpush)
 - [GustavEikaas/easy-git.nvim](https://github.com/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-git.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-git.nvim)
 - [echasnovski/mini-git](https://github.com/echasnovski/mini-git) ![](https://img.shields.io/github/stars/echasnovski/mini-git) ![](https://img.shields.io/github/last-commit/echasnovski/mini-git) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini-git)
+- [Kibadda/git.nvim](https://github.com/Kibadda/git.nvim) ![](https://img.shields.io/github/stars/Kibadda/git.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/git.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/git.nvim)
 
 ## gitui
 

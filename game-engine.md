@@ -22,6 +22,7 @@
 - [zadirion/Unreal.nvim](https://github.com/zadirion/Unreal.nvim) ![](https://img.shields.io/github/stars/zadirion/Unreal.nvim) ![](https://img.shields.io/github/last-commit/zadirion/Unreal.nvim) ![](https://img.shields.io/github/commit-activity/y/zadirion/Unreal.nvim)
 - [goopey7/unreal-support.nvim](https://github.com/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/stars/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/last-commit/goopey7/unreal-support.nvim) ![](https://img.shields.io/github/commit-activity/y/goopey7/unreal-support.nvim)
 - [Xett/nvim-ue5](https://github.com/Xett/nvim-ue5) ![](https://img.shields.io/github/stars/Xett/nvim-ue5) ![](https://img.shields.io/github/last-commit/Xett/nvim-ue5) ![](https://img.shields.io/github/commit-activity/y/Xett/nvim-ue5)
+- [cvusmo/LinuxUnrealBuildTool.nvim](https://github.com/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/stars/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/last-commit/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/commit-activity/y/cvusmo/LinuxUnrealBuildTool.nvim)
 
 ### Godot
 
