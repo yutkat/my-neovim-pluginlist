@@ -89,6 +89,7 @@
 - [MrcJkb/telescope-manix](https://github.com/MrcJkb/telescope-manix) ![](https://img.shields.io/github/stars/MrcJkb/telescope-manix) ![](https://img.shields.io/github/last-commit/MrcJkb/telescope-manix) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/telescope-manix)
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/stars/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/last-commit/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/figsoda/nix-develop.nvim)
 - [willruggiano/nix-flake-prefetch.nvim](https://github.com/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/stars/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/last-commit/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/commit-activity/y/willruggiano/nix-flake-prefetch.nvim)
+- [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) ![](https://img.shields.io/github/stars/reo101/nix-update.nvim) ![](https://img.shields.io/github/last-commit/reo101/nix-update.nvim) ![](https://img.shields.io/github/commit-activity/y/reo101/nix-update.nvim)
 
 ### C#
 
