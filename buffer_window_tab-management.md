@@ -274,6 +274,7 @@
 - [danielefongo/tile.nvim](https://github.com/danielefongo/tile.nvim) ![](https://img.shields.io/github/stars/danielefongo/tile.nvim) ![](https://img.shields.io/github/last-commit/danielefongo/tile.nvim) ![](https://img.shields.io/github/commit-activity/y/danielefongo/tile.nvim)
 - [siadat/animated-resize.nvim](https://github.com/siadat/animated-resize.nvim) ![](https://img.shields.io/github/stars/siadat/animated-resize.nvim) ![](https://img.shields.io/github/last-commit/siadat/animated-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/animated-resize.nvim)
 - [unawarez/nvim-winpolicy](https://github.com/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/stars/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/last-commit/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/commit-activity/y/unawarez/nvim-winpolicy)
+- [pogyomo/winresize.nvim](https://github.com/pogyomo/winresize.nvim) ![](https://img.shields.io/github/stars/pogyomo/winresize.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/winresize.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/winresize.nvim)
 
 #### maximize
 
