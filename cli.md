@@ -79,6 +79,7 @@
 ##### tmux alternative
 
 - [hkupty/nvimux](https://github.com/hkupty/nvimux) ![](https://img.shields.io/github/stars/hkupty/nvimux) ![](https://img.shields.io/github/last-commit/hkupty/nvimux) ![](https://img.shields.io/github/commit-activity/y/hkupty/nvimux)
+- [thiru/nvtmux.nvim](https://github.com/thiru/nvtmux.nvim) ![](https://img.shields.io/github/stars/thiru/nvtmux.nvim) ![](https://img.shields.io/github/last-commit/thiru/nvtmux.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/nvtmux.nvim)
 
 #### Zellij
 

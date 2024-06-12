@@ -14,6 +14,7 @@
   * [Aider](#aider)
   * [Otter](#otter)
   * [Gemini](#gemini-1)
+  * [Mistral](#mistral)
   * [Mentat](#mentat)
   * [Codeium](#codeium)
   * [Codegeex](#codegeex)
@@ -128,6 +129,10 @@
 ### Gemini
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
+
+### Mistral
+
+- [felixboulin/prompt.nvim](https://github.com/felixboulin/prompt.nvim) ![](https://img.shields.io/github/stars/felixboulin/prompt.nvim) ![](https://img.shields.io/github/last-commit/felixboulin/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/felixboulin/prompt.nvim)
 
 ### Mentat
 

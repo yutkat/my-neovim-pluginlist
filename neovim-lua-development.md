@@ -66,6 +66,7 @@
 ### GitHub Actions
 
 - [mrcjkb/lua-typecheck-action](https://github.com/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/stars/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/last-commit/mrcjkb/lua-typecheck-action) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/lua-typecheck-action)
+- [nvim-neorocks/nvim-busted-action](https://github.com/nvim-neorocks/nvim-busted-action) ![](https://img.shields.io/github/stars/nvim-neorocks/nvim-busted-action) ![](https://img.shields.io/github/last-commit/nvim-neorocks/nvim-busted-action) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/nvim-busted-action)
 
 ## Neovim Lua Development
 

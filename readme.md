@@ -234,6 +234,7 @@
 - [Someone-s-out-there/stutter.nvim](https://github.com/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/stars/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/last-commit/Someone-s-out-there/stutter.nvim) ![](https://img.shields.io/github/commit-activity/y/Someone-s-out-there/stutter.nvim)
 - [nobody-famous/lima.nvim](https://github.com/nobody-famous/lima.nvim) ![](https://img.shields.io/github/stars/nobody-famous/lima.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/lima.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/lima.nvim)
 - [LarssonMartin1998/indent-invader.nvim](https://github.com/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/stars/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/last-commit/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/commit-activity/y/LarssonMartin1998/indent-invader.nvim)
+- [haolian9/ico.nvim](https://github.com/haolian9/ico.nvim) ![](https://img.shields.io/github/stars/haolian9/ico.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ico.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ico.nvim)
 
 #### Smart Tab
 
