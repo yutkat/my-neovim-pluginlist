@@ -25,6 +25,7 @@
 - [sebhein/nvim-tron](https://github.com/sebhein/nvim-tron) ![](https://img.shields.io/github/stars/sebhein/nvim-tron) ![](https://img.shields.io/github/last-commit/sebhein/nvim-tron) ![](https://img.shields.io/github/commit-activity/y/sebhein/nvim-tron)
 - [lewis6991/nvim-test](https://github.com/lewis6991/nvim-test) ![](https://img.shields.io/github/stars/lewis6991/nvim-test) ![](https://img.shields.io/github/last-commit/lewis6991/nvim-test) ![](https://img.shields.io/github/commit-activity/y/lewis6991/nvim-test)
 - [maggflor/nvim-tdd](https://github.com/maggflor/nvim-tdd) ![](https://img.shields.io/github/stars/maggflor/nvim-tdd) ![](https://img.shields.io/github/last-commit/maggflor/nvim-tdd) ![](https://img.shields.io/github/commit-activity/y/maggflor/nvim-tdd)
+- [AdeAttwood/spec.nvim](https://github.com/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/spec.nvim)
 
 ### Test file
 
