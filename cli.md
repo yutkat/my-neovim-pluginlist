@@ -110,6 +110,7 @@
 - [LinArcX/telescope-env.nvim](https://github.com/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/stars/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/last-commit/LinArcX/telescope-env.nvim) ![](https://img.shields.io/github/commit-activity/y/LinArcX/telescope-env.nvim)
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/stars/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/last-commit/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/cmp-dotenv)
 - [petermnhull/nvim-dotenv](https://github.com/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/stars/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/last-commit/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/commit-activity/y/petermnhull/nvim-dotenv)
+- [amihere/dotenv.nvim](https://github.com/amihere/dotenv.nvim) ![](https://img.shields.io/github/stars/amihere/dotenv.nvim) ![](https://img.shields.io/github/last-commit/amihere/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/amihere/dotenv.nvim)
 
 #### direnv
 

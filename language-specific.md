@@ -54,6 +54,7 @@
     + [Cyber](#cyber)
     + [Aeria](#aeria)
     + [Templaty](#templaty)
+    + [Storm](#storm)
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
@@ -307,6 +308,10 @@
 ### Templaty
 
 - [samvv/templaty.nvim](https://github.com/samvv/templaty.nvim) ![](https://img.shields.io/github/stars/samvv/templaty.nvim) ![](https://img.shields.io/github/last-commit/samvv/templaty.nvim) ![](https://img.shields.io/github/commit-activity/y/samvv/templaty.nvim)
+
+### Storm
+
+- [HoppenR/storm-mode.nvim](https://github.com/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/stars/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/last-commit/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/HoppenR/storm-mode.nvim)
 
 ### ABC
 
