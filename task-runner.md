@@ -130,6 +130,7 @@
 - [paulfrische/compile.nvim](https://github.com/paulfrische/compile.nvim) ![](https://img.shields.io/github/stars/paulfrische/compile.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/compile.nvim)
 - [CyberFatherRT/compile.nvim](https://github.com/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/compile.nvim)
 - [sakhnik/make-async.nvim](https://github.com/sakhnik/make-async.nvim) ![](https://img.shields.io/github/stars/sakhnik/make-async.nvim) ![](https://img.shields.io/github/last-commit/sakhnik/make-async.nvim) ![](https://img.shields.io/github/commit-activity/y/sakhnik/make-async.nvim)
+- [JordenHuang/como.nvim](https://github.com/JordenHuang/como.nvim) ![](https://img.shields.io/github/stars/JordenHuang/como.nvim) ![](https://img.shields.io/github/last-commit/JordenHuang/como.nvim) ![](https://img.shields.io/github/commit-activity/y/JordenHuang/como.nvim)
 
 ## Auto detect style
 

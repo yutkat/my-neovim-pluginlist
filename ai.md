@@ -4,6 +4,7 @@
 
 - [AI Coding](#ai-coding)
   * [OpenAI](#openai)
+    + [log](#log)
   * [Gemini](#gemini)
   * [LLM](#llm)
     + [Generate Doc](#generate-doc)
@@ -68,6 +69,10 @@
 - [sudo-burger/m0.nvim](https://github.com/sudo-burger/m0.nvim) ![](https://img.shields.io/github/stars/sudo-burger/m0.nvim) ![](https://img.shields.io/github/last-commit/sudo-burger/m0.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-burger/m0.nvim)
 - [you-n-g/simplegpt.nvim](https://github.com/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/commit-activity/y/you-n-g/simplegpt.nvim)
 - [isgrove/chat.nvim](https://github.com/isgrove/chat.nvim) ![](https://img.shields.io/github/stars/isgrove/chat.nvim) ![](https://img.shields.io/github/last-commit/isgrove/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/isgrove/chat.nvim)
+
+#### log
+
+- [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
 
 ### Gemini
 
