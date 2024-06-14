@@ -161,6 +161,7 @@
 - [axkirillov/hbac.nvim](https://github.com/axkirillov/hbac.nvim) ![](https://img.shields.io/github/stars/axkirillov/hbac.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/hbac.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/hbac.nvim)
 - [AckslD/bufmax.nvim](https://github.com/AckslD/bufmax.nvim) ![](https://img.shields.io/github/stars/AckslD/bufmax.nvim) ![](https://img.shields.io/github/last-commit/AckslD/bufmax.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/bufmax.nvim)
 - [pierregoutheraud/buffers-auto-close.nvim](https://github.com/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/stars/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/last-commit/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/commit-activity/y/pierregoutheraud/buffers-auto-close.nvim)
+- [ChuufMaster/buffer-vacuum](https://github.com/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/stars/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/last-commit/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/buffer-vacuum)
 
 #### access control
 
