@@ -157,6 +157,7 @@
 #### Playground
 
 - [barspielberg/jsplayground.nvim](https://github.com/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/stars/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/last-commit/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/commit-activity/y/barspielberg/jsplayground.nvim)
+- [try-to-fly/js-playground.nvim](https://github.com/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/stars/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/js-playground.nvim)
 
 ### refactor
   

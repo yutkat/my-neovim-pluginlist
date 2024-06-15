@@ -91,6 +91,7 @@
 ### Motion Label
 
 - [tris203/precognition.nvim](https://github.com/tris203/precognition.nvim) ![](https://img.shields.io/github/stars/tris203/precognition.nvim) ![](https://img.shields.io/github/last-commit/tris203/precognition.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/precognition.nvim)
+- [joshuadanpeterson/typewriter.nvim](https://github.com/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/stars/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/last-commit/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuadanpeterson/typewriter.nvim)
 
 ### Vertical Move
 
