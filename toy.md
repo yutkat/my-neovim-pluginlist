@@ -21,6 +21,7 @@
       - [Tips](#tips)
       - [Message](#message)
       - [Edit Info](#edit-info)
+      - [Ninjas Facts](#ninjas-facts)
   * [Study](#study)
   * [Music](#music)
     + [Tidal](#tidal)
@@ -152,6 +153,10 @@
 #### Edit Info
 
 - [idanarye/nvim-days-without](https://github.com/idanarye/nvim-days-without) ![](https://img.shields.io/github/stars/idanarye/nvim-days-without) ![](https://img.shields.io/github/last-commit/idanarye/nvim-days-without) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-days-without)
+
+#### Ninjas Facts
+
+- [notelgnis/fetchfact.nvim](https://github.com/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/stars/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/last-commit/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/commit-activity/y/notelgnis/fetchfact.nvim)
 
 ## Study
 
