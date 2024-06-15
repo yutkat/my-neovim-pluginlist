@@ -13,8 +13,6 @@
 ## Ruby
 
 - [wassimk/cmp-feature-flipper](https://github.com/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/stars/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/last-commit/wassimk/cmp-feature-flipper) ![](https://img.shields.io/github/commit-activity/y/wassimk/cmp-feature-flipper)
-- [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
-- [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [otavioschwanck/ruby-toolkit.nvim](https://github.com/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/ruby-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/ruby-toolkit.nvim)
 - [gmartsenkov/gotospec.nvim](https://github.com/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/stars/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/last-commit/gmartsenkov/gotospec.nvim) ![](https://img.shields.io/github/commit-activity/y/gmartsenkov/gotospec.nvim)
 - [Philwi/nvim-code-smell](https://github.com/Philwi/nvim-code-smell) ![](https://img.shields.io/github/stars/Philwi/nvim-code-smell) ![](https://img.shields.io/github/last-commit/Philwi/nvim-code-smell) ![](https://img.shields.io/github/commit-activity/y/Philwi/nvim-code-smell)
@@ -24,6 +22,8 @@
 
 ### Test
 
+- [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
+- [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 
 ### Gem
