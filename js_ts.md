@@ -251,6 +251,7 @@
 - [abelfubu/nvim-treesitter-angular](https://github.com/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/stars/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/last-commit/abelfubu/nvim-treesitter-angular) ![](https://img.shields.io/github/commit-activity/y/abelfubu/nvim-treesitter-angular)
 - [justinrassier/nvim-treesitter-ng](https://github.com/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/stars/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/last-commit/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/commit-activity/y/justinrassier/nvim-treesitter-ng)
 - [matthiasweiss/angular-quickswitch.nvim](https://github.com/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/stars/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/last-commit/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/matthiasweiss/angular-quickswitch.nvim)
+- [ergoproxy623/nvim-angular-selectors](https://github.com/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-angular-selectors)
 
 ### Svelte
 
