@@ -55,6 +55,7 @@
     + [Aeria](#aeria)
     + [Templaty](#templaty)
     + [Storm](#storm)
+    + [Genero](#genero)
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
@@ -312,6 +313,10 @@
 ### Storm
 
 - [HoppenR/storm-mode.nvim](https://github.com/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/stars/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/last-commit/HoppenR/storm-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/HoppenR/storm-mode.nvim)
+
+### Genero
+
+- [harrison-dean/genero-tools.nvim](https://github.com/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/stars/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/last-commit/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/harrison-dean/genero-tools.nvim)
 
 ### ABC
 
