@@ -106,8 +106,6 @@
 
 ### CapsLock
 
-- [oskarmeyenburg/nvim-caps-lock](https://github.com/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/stars/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/last-commit/oskarmeyenburg/nvim-caps-lock) ![](https://img.shields.io/github/commit-activity/y/oskarmeyenburg/nvim-caps-lock)
-
 ### Normal Mode
 
 - [hiberabyss/readline.nvim](https://github.com/hiberabyss/readline.nvim) ![](https://img.shields.io/github/stars/hiberabyss/readline.nvim) ![](https://img.shields.io/github/last-commit/hiberabyss/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/hiberabyss/readline.nvim)
