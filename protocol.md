@@ -11,6 +11,7 @@
   * [Graphql](#graphql)
   * [WebSocket](#websocket)
   * [webrcp](#webrcp)
+  * [httpyac](#httpyac)
 
 <!-- tocstop -->
 
@@ -51,3 +52,7 @@
 ### webrcp
 
 - [david-littlefarmer/ridl.nvim](https://github.com/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/stars/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/last-commit/david-littlefarmer/ridl.nvim) ![](https://img.shields.io/github/commit-activity/y/david-littlefarmer/ridl.nvim)
+
+### httpyac
+
+- [ZieMcd/nvim-httpyac](https://github.com/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/stars/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/last-commit/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/ZieMcd/nvim-httpyac)

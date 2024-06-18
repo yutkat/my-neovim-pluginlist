@@ -72,6 +72,8 @@
 - [ernstwi/juggler.nvim](https://github.com/ernstwi/juggler.nvim) ![](https://img.shields.io/github/stars/ernstwi/juggler.nvim) ![](https://img.shields.io/github/last-commit/ernstwi/juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/ernstwi/juggler.nvim)
 - [VoxelPrismatic/rabbit.nvim](https://github.com/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/stars/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/last-commit/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/VoxelPrismatic/rabbit.nvim)
 - [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-buffers-switcher.nvim)
+- [pacidic/bufcycle.nvim](https://github.com/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/stars/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/last-commit/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/commit-activity/y/pacidic/bufcycle.nvim)
+
 
 ### Other Buffer Switcher
 

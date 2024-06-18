@@ -256,6 +256,7 @@
 ### Svelte
 
 - [weskeiser/svelte-hop.nvim](https://github.com/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/stars/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/last-commit/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/weskeiser/svelte-hop.nvim)
+- [StephenGunn/sveltecheck.nvim](https://github.com/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/stars/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/last-commit/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/StephenGunn/sveltecheck.nvim)
 
 ### Node.js
 
