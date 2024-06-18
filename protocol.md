@@ -19,8 +19,6 @@
 
 ### HTTP
 
-- [barrett-ruth/telescope-http.nvim](https://github.com/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/telescope-http.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/telescope-http.nvim)
-
 ### REST
 
 - [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
