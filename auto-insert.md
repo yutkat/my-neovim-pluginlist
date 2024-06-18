@@ -39,6 +39,7 @@
 - [tomashruska1/nvim-autoclose](https://github.com/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/stars/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/last-commit/tomashruska1/nvim-autoclose) ![](https://img.shields.io/github/commit-activity/y/tomashruska1/nvim-autoclose)
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) ![](https://img.shields.io/github/stars/kawre/neotab.nvim) ![](https://img.shields.io/github/last-commit/kawre/neotab.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/neotab.nvim)
 - [Masgharoth/match-close.nvim](https://github.com/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/stars/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/last-commit/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/commit-activity/y/Masgharoth/match-close.nvim)
+- [mgnsk/dumb-autopairs.nvim](https://github.com/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/stars/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/dumb-autopairs.nvim)
 
 ### escape pairs
 

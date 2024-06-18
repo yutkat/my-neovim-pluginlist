@@ -302,6 +302,7 @@
 - [cpea2506/relative-toggle.nvim](https://github.com/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/stars/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/relative-toggle.nvim)
 - [gvlatko/inline-relative-numbers.nvim](https://github.com/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/stars/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/last-commit/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/gvlatko/inline-relative-numbers.nvim)
 - [togawalk/relative-toggle.nvim](https://github.com/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/stars/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/togawalk/relative-toggle.nvim)
+- [prichrd/flagmode.nvim](https://github.com/prichrd/flagmode.nvim) ![](https://img.shields.io/github/stars/prichrd/flagmode.nvim) ![](https://img.shields.io/github/last-commit/prichrd/flagmode.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/flagmode.nvim)
 
 ### [Mark](./mark.md)
 

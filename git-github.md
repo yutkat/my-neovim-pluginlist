@@ -123,6 +123,7 @@
 - [marocchino/acommit.nvim](https://github.com/marocchino/acommit.nvim) ![](https://img.shields.io/github/stars/marocchino/acommit.nvim) ![](https://img.shields.io/github/last-commit/marocchino/acommit.nvim) ![](https://img.shields.io/github/commit-activity/y/marocchino/acommit.nvim)
 - [senkentarou/telescope-git-commit.nvim](https://github.com/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-commit.nvim)
 - [przepompownia/git-utils.nvim](https://github.com/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/stars/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/last-commit/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/przepompownia/git-utils.nvim)
+- [AlejandroSuero/commitizen.nvim](https://github.com/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/commitizen.nvim)
 
 ### prefix
 

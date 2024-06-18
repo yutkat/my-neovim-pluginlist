@@ -26,6 +26,7 @@
 - [lewis6991/nvim-test](https://github.com/lewis6991/nvim-test) ![](https://img.shields.io/github/stars/lewis6991/nvim-test) ![](https://img.shields.io/github/last-commit/lewis6991/nvim-test) ![](https://img.shields.io/github/commit-activity/y/lewis6991/nvim-test)
 - [maggflor/nvim-tdd](https://github.com/maggflor/nvim-tdd) ![](https://img.shields.io/github/stars/maggflor/nvim-tdd) ![](https://img.shields.io/github/last-commit/maggflor/nvim-tdd) ![](https://img.shields.io/github/commit-activity/y/maggflor/nvim-tdd)
 - [AdeAttwood/spec.nvim](https://github.com/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/spec.nvim)
+- [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) ![](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim) ![](https://img.shields.io/github/commit-activity/y/quolpr/quicktest.nvim)
 
 ### Test file
 
