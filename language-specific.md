@@ -56,6 +56,7 @@
     + [Templaty](#templaty)
     + [Storm](#storm)
     + [Genero](#genero)
+    + [rested](#rested)
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
@@ -317,6 +318,10 @@
 ### Genero
 
 - [harrison-dean/genero-tools.nvim](https://github.com/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/stars/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/last-commit/harrison-dean/genero-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/harrison-dean/genero-tools.nvim)
+
+### rested
+
+- [Gnarus-G/restedlang.nvim](https://github.com/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/stars/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/last-commit/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/commit-activity/y/Gnarus-G/restedlang.nvim)
 
 ### ABC
 

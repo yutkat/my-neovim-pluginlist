@@ -264,6 +264,7 @@
 - [vzze/aligner.nvim](https://github.com/vzze/aligner.nvim) ![](https://img.shields.io/github/stars/vzze/aligner.nvim) ![](https://img.shields.io/github/last-commit/vzze/aligner.nvim) ![](https://img.shields.io/github/commit-activity/y/vzze/aligner.nvim)
 - [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
 - [chuck-flowers/align-selection.nvim](https://github.com/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/align-selection.nvim)
+- [haolian9/furrow.nvim](https://github.com/haolian9/furrow.nvim) ![](https://img.shields.io/github/stars/haolian9/furrow.nvim) ![](https://img.shields.io/github/last-commit/haolian9/furrow.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/furrow.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 

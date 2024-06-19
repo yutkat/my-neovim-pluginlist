@@ -4,6 +4,7 @@
 
 - [Protocol](#protocol)
   * [HTTP](#http)
+    + [Status](#status)
   * [REST](#rest)
     + [OpenAPI](#openapi)
   * [Protocol buffer](#protocol-buffer)
@@ -18,6 +19,10 @@
 ## Protocol
 
 ### HTTP
+
+#### Status
+
+- [barrett-ruth/http-codes.nvim](https://github.com/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/http-codes.nvim)
 
 ### REST
 
