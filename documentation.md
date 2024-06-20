@@ -45,6 +45,7 @@
   * [Quarto](#quarto)
   * [Gist](#gist)
   * [typst](#typst)
+  * [Textile](#textile)
 
 <!-- tocstop -->
 
@@ -199,6 +200,7 @@
 - [ibutra/checkbox.nvim](https://github.com/ibutra/checkbox.nvim) ![](https://img.shields.io/github/stars/ibutra/checkbox.nvim) ![](https://img.shields.io/github/last-commit/ibutra/checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/ibutra/checkbox.nvim)
 - [phanen/toggle-checkbox.nvim](https://github.com/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/toggle-checkbox.nvim)
 - [purrutia/checkbox_toggle.nvim](https://github.com/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/stars/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/last-commit/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/purrutia/checkbox_toggle.nvim)
+- [robertarles/taskra.nvim](https://github.com/robertarles/taskra.nvim) ![](https://img.shields.io/github/stars/robertarles/taskra.nvim) ![](https://img.shields.io/github/last-commit/robertarles/taskra.nvim) ![](https://img.shields.io/github/commit-activity/y/robertarles/taskra.nvim)
 
 #### Markdown list
 
@@ -330,3 +332,7 @@
 - [SeniorMars/render.nvim](https://github.com/SeniorMars/render.nvim) ![](https://img.shields.io/github/stars/SeniorMars/render.nvim) ![](https://img.shields.io/github/last-commit/SeniorMars/render.nvim) ![](https://img.shields.io/github/commit-activity/y/SeniorMars/render.nvim)
 - [niuiic/typst-preview.nvim](https://github.com/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/stars/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/niuiic/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/typst-preview.nvim)
 - [marnym/typst-watch.nvim](https://github.com/marnym/typst-watch.nvim) ![](https://img.shields.io/github/stars/marnym/typst-watch.nvim) ![](https://img.shields.io/github/last-commit/marnym/typst-watch.nvim) ![](https://img.shields.io/github/commit-activity/y/marnym/typst-watch.nvim)
+
+### Textile
+
+- [arakkkkk/textile.nvim](https://github.com/arakkkkk/textile.nvim) ![](https://img.shields.io/github/stars/arakkkkk/textile.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/textile.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/textile.nvim)

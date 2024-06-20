@@ -37,6 +37,7 @@
 - [adoolaard/nvim-cmp-laravel](https://github.com/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/stars/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/last-commit/adoolaard/nvim-cmp-laravel) ![](https://img.shields.io/github/commit-activity/y/adoolaard/nvim-cmp-laravel)
 - [mikereyez/laravel-helpers.nvim](https://github.com/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/stars/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/last-commit/mikereyez/laravel-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/mikereyez/laravel-helpers.nvim)
 - [RicardoRamirezR/lali-components.nvim](https://github.com/RicardoRamirezR/lali-components.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/lali-components.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/lali-components.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/lali-components.nvim)
+- [RicardoRamirezR/blade-nav.nvim](https://github.com/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/blade-nav.nvim)
 
 ### Symfony
 
