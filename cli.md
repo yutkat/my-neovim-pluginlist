@@ -12,6 +12,7 @@
   * [dotenv](#dotenv)
   * [direnv](#direnv)
   * [asdf](#asdf)
+  * [mise](#mise)
   * [Chamber](#chamber)
   * [Sphinx](#sphinx)
   * [Swagger](#swagger)
@@ -75,6 +76,7 @@
 - [HadiModarres/repo-tmux.nvim](https://github.com/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/stars/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/last-commit/HadiModarres/repo-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/HadiModarres/repo-tmux.nvim)
 - [mimre25/tmux-telescope-picker.nvim](https://github.com/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/stars/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/last-commit/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/tmux-telescope-picker.nvim)
 - [karshPrime/tmux-compile.nvim](https://github.com/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/stars/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/last-commit/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/karshPrime/tmux-compile.nvim)
+- [karshPrime/only-tmux.nvim](https://github.com/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/stars/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/last-commit/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/karshPrime/only-tmux.nvim)
 
 ##### tmux alternative
 
@@ -121,6 +123,10 @@
 
 - [mosheavni/asdf.nvim](https://github.com/mosheavni/asdf.nvim) ![](https://img.shields.io/github/stars/mosheavni/asdf.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/asdf.nvim)
 - [bry-guy/asdf.nvim](https://github.com/bry-guy/asdf.nvim) ![](https://img.shields.io/github/stars/bry-guy/asdf.nvim) ![](https://img.shields.io/github/last-commit/bry-guy/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/bry-guy/asdf.nvim)
+
+#### mise
+
+- [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) ![](https://img.shields.io/github/stars/ejrichards/mise.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/mise.nvim)
 
 #### Chamber
 
