@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Translate](#translate)
+- [i18n](#i18n)
 
 <!-- tocstop -->
 
@@ -20,3 +21,7 @@
 - [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
 - [coffebar/crowtranslate.nvim](https://github.com/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/stars/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/last-commit/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/crowtranslate.nvim)
 - [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
+
+## i18n
+
+- [FelipeJz/i18n-menu.nvim](https://github.com/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/stars/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/i18n-menu.nvim)

@@ -56,6 +56,7 @@
 - [taDachs/zettel.nvim](https://github.com/taDachs/zettel.nvim) ![](https://img.shields.io/github/stars/taDachs/zettel.nvim) ![](https://img.shields.io/github/last-commit/taDachs/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/taDachs/zettel.nvim)
 - [n-sweep/slipbox.nvim](https://github.com/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/stars/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/last-commit/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/commit-activity/y/n-sweep/slipbox.nvim)
 - [grezxune/zettel.nvim](https://github.com/grezxune/zettel.nvim) ![](https://img.shields.io/github/stars/grezxune/zettel.nvim) ![](https://img.shields.io/github/last-commit/grezxune/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/grezxune/zettel.nvim)
+- [HaradaKazunari/nvim-zettelnote](https://github.com/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/stars/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/last-commit/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/commit-activity/y/HaradaKazunari/nvim-zettelnote)
 
 ## Markdown
 
@@ -246,3 +247,4 @@
 - [pongpatapee/nvim_notes.nvim](https://github.com/pongpatapee/nvim_notes.nvim) ![](https://img.shields.io/github/stars/pongpatapee/nvim_notes.nvim) ![](https://img.shields.io/github/last-commit/pongpatapee/nvim_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/pongpatapee/nvim_notes.nvim)
 - [anotherroot/dev-notes.nvim](https://github.com/anotherroot/dev-notes.nvim) ![](https://img.shields.io/github/stars/anotherroot/dev-notes.nvim) ![](https://img.shields.io/github/last-commit/anotherroot/dev-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/anotherroot/dev-notes.nvim)
 - [omarcospo/dumbnotes.nvim](https://github.com/omarcospo/dumbnotes.nvim) ![](https://img.shields.io/github/stars/omarcospo/dumbnotes.nvim) ![](https://img.shields.io/github/last-commit/omarcospo/dumbnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcospo/dumbnotes.nvim)
+- [dcoello-dev/sandbox.nvim](https://github.com/dcoello-dev/sandbox.nvim) ![](https://img.shields.io/github/stars/dcoello-dev/sandbox.nvim) ![](https://img.shields.io/github/last-commit/dcoello-dev/sandbox.nvim) ![](https://img.shields.io/github/commit-activity/y/dcoello-dev/sandbox.nvim)

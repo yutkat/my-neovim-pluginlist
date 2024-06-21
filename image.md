@@ -32,6 +32,7 @@
 - [3rd/image.nvim](https://github.com/3rd/image.nvim) ![](https://img.shields.io/github/stars/3rd/image.nvim) ![](https://img.shields.io/github/last-commit/3rd/image.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/image.nvim)
 - [dharmx/telescope-media.nvim](https://github.com/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/stars/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/last-commit/dharmx/telescope-media.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/telescope-media.nvim)
 - [queue-miscreant/nvim-image-test](https://github.com/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/stars/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/last-commit/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/commit-activity/y/queue-miscreant/nvim-image-test)
+- [machichima/image-wezterm-tmux.nvim](https://github.com/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/stars/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/last-commit/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/machichima/image-wezterm-tmux.nvim)
 
 ### Image Magic
 
