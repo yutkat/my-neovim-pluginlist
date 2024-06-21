@@ -263,6 +263,7 @@
 - [kamalsacranie/pandoc-preview.nvim](https://github.com/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/stars/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/last-commit/kamalsacranie/pandoc-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/pandoc-preview.nvim)
 - [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
 - [wwaltb/run-pandoc.nvim](https://github.com/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/stars/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/last-commit/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/wwaltb/run-pandoc.nvim)
+- [xpcoffee/nvim-markdown-adaptor](https://github.com/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-adaptor)
 
 ### Vimdoc
 
