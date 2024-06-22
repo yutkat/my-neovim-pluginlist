@@ -72,6 +72,7 @@
 #### sudo
 
 - [haolian9/sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/stars/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudo_write.nvim)
+- [Grafcube/suedit.nvim](https://github.com/Grafcube/suedit.nvim) ![](https://img.shields.io/github/stars/Grafcube/suedit.nvim) ![](https://img.shields.io/github/last-commit/Grafcube/suedit.nvim) ![](https://img.shields.io/github/commit-activity/y/Grafcube/suedit.nvim)
 
 #### quit
 
