@@ -12,6 +12,7 @@
   * [Command style](#command-style)
   * [Auto detect style](#auto-detect-style)
   * [:make style](#make-style)
+  * [use tmux](#use-tmux)
   * [Auto Execute](#auto-execute)
   * [CLI](#cli)
     + [Taskfile](#taskfile)
@@ -142,6 +143,10 @@
 ## :make style
 
 - [msaher/makegrep-job.nvim](https://github.com/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/stars/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/last-commit/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/makegrep-job.nvim)
+
+## use tmux
+
+- [Veirt/trun.nvim](https://github.com/Veirt/trun.nvim) ![](https://img.shields.io/github/stars/Veirt/trun.nvim) ![](https://img.shields.io/github/last-commit/Veirt/trun.nvim) ![](https://img.shields.io/github/commit-activity/y/Veirt/trun.nvim)
 
 ## Auto Execute
 

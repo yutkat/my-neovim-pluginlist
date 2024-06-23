@@ -59,3 +59,4 @@
 ### httpyac
 
 - [ZieMcd/nvim-httpyac](https://github.com/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/stars/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/last-commit/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/ZieMcd/nvim-httpyac)
+- [abidibo/nvim-httpyac](https://github.com/abidibo/nvim-httpyac) ![](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-httpyac)
