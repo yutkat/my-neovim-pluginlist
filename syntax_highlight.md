@@ -102,6 +102,7 @@
 - [liamrlawrence/crayons.nvim](https://github.com/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/crayons.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/crayons.nvim)
 - [oonamo/manage-my-colors.nvim](https://github.com/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/stars/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/last-commit/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/oonamo/manage-my-colors.nvim)
 - [harrisonbierman/picasso.nvim](https://github.com/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/stars/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/last-commit/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisonbierman/picasso.nvim)
+- [kutiny/colors.nvim](https://github.com/kutiny/colors.nvim) ![](https://img.shields.io/github/stars/kutiny/colors.nvim) ![](https://img.shields.io/github/last-commit/kutiny/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/kutiny/colors.nvim)
 
 ### Colorscheme overwrite
 

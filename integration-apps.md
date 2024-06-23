@@ -246,6 +246,7 @@
 ##### S3
 
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) ![](https://img.shields.io/github/stars/kiran94/s3edit.nvim) ![](https://img.shields.io/github/last-commit/kiran94/s3edit.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/s3edit.nvim)
+- [oguzhancoskun/aws-s3.nvim](https://github.com/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-s3.nvim)
 
 ##### CloudWatch
 
