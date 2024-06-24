@@ -70,6 +70,7 @@
 - [sudo-burger/m0.nvim](https://github.com/sudo-burger/m0.nvim) ![](https://img.shields.io/github/stars/sudo-burger/m0.nvim) ![](https://img.shields.io/github/last-commit/sudo-burger/m0.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-burger/m0.nvim)
 - [you-n-g/simplegpt.nvim](https://github.com/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/stars/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/last-commit/you-n-g/simplegpt.nvim) ![](https://img.shields.io/github/commit-activity/y/you-n-g/simplegpt.nvim)
 - [isgrove/chat.nvim](https://github.com/isgrove/chat.nvim) ![](https://img.shields.io/github/stars/isgrove/chat.nvim) ![](https://img.shields.io/github/last-commit/isgrove/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/isgrove/chat.nvim)
+- [presindent/coddit.nvim](https://github.com/presindent/coddit.nvim) ![](https://img.shields.io/github/stars/presindent/coddit.nvim) ![](https://img.shields.io/github/last-commit/presindent/coddit.nvim) ![](https://img.shields.io/github/commit-activity/y/presindent/coddit.nvim)
 
 #### log
 

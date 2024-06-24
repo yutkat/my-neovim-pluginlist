@@ -158,6 +158,7 @@
 
 - [barspielberg/jsplayground.nvim](https://github.com/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/stars/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/last-commit/barspielberg/jsplayground.nvim) ![](https://img.shields.io/github/commit-activity/y/barspielberg/jsplayground.nvim)
 - [try-to-fly/js-playground.nvim](https://github.com/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/stars/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/js-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/js-playground.nvim)
+- [mgastonportillo/js-playground.nvim](https://github.com/mgastonportillo/js-playground.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/js-playground.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/js-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/js-playground.nvim)
 
 ### refactor
   
