@@ -35,7 +35,6 @@
 - [chellipse/lua-comment.nvim](https://github.com/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/stars/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/last-commit/chellipse/lua-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/chellipse/lua-comment.nvim)
 - [francescoApophis/comment.nvim](https://github.com/francescoApophis/comment.nvim) ![](https://img.shields.io/github/stars/francescoApophis/comment.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/comment.nvim)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) ![](https://img.shields.io/github/stars/folke/ts-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/ts-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/ts-comments.nvim)
-- [BarriosXJavier/nvim-comment-toggle](https://github.com/BarriosXJavier/nvim-comment-toggle) ![](https://img.shields.io/github/stars/BarriosXJavier/nvim-comment-toggle) ![](https://img.shields.io/github/last-commit/BarriosXJavier/nvim-comment-toggle) ![](https://img.shields.io/github/commit-activity/y/BarriosXJavier/nvim-comment-toggle)
 
 ### CommentString
 
