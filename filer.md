@@ -102,7 +102,6 @@
 ## Emacs style
 
 - [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
-- [nkreiff/nlist.nvim](https://github.com/nkreiff/nlist.nvim) ![](https://img.shields.io/github/stars/nkreiff/nlist.nvim) ![](https://img.shields.io/github/last-commit/nkreiff/nlist.nvim) ![](https://img.shields.io/github/commit-activity/y/nkreiff/nlist.nvim)
 - [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) ![](https://img.shields.io/github/stars/2hdddg/fex.nvim) ![](https://img.shields.io/github/last-commit/2hdddg/fex.nvim) ![](https://img.shields.io/github/commit-activity/y/2hdddg/fex.nvim)
 
 ## nnn wrapper
