@@ -4,6 +4,7 @@
 
 - [Keymap](#keymap)
     + [map function utiliy](#map-function-utiliy)
+  * [instant mapping](#instant-mapping)
   * [callback](#callback)
   * [Bracket](#bracket)
   * [Remap](#remap)
@@ -49,6 +50,10 @@
 
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) ![](https://img.shields.io/github/stars/LionC/nest.nvim) ![](https://img.shields.io/github/last-commit/LionC/nest.nvim) ![](https://img.shields.io/github/commit-activity/y/LionC/nest.nvim)
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/stars/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-cartographer)
+
+## instant mapping
+
+- [shmerl/session-keys](https://github.com/shmerl/session-keys) ![](https://img.shields.io/github/stars/shmerl/session-keys) ![](https://img.shields.io/github/last-commit/shmerl/session-keys) ![](https://img.shields.io/github/commit-activity/y/shmerl/session-keys)
 
 ## callback
 
