@@ -14,4 +14,5 @@
 - [fgheng/winbar.nvim](https://github.com/fgheng/winbar.nvim) ![](https://img.shields.io/github/stars/fgheng/winbar.nvim) ![](https://img.shields.io/github/last-commit/fgheng/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/fgheng/winbar.nvim)
 - [mnjm/winline.nvim](https://github.com/mnjm/winline.nvim) ![](https://img.shields.io/github/stars/mnjm/winline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/winline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/winline.nvim)
 - [Ramilito/winbar.nvim](https://github.com/Ramilito/winbar.nvim) ![](https://img.shields.io/github/stars/Ramilito/winbar.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/winbar.nvim)
+- [LunarVim/breadcrumbs.nvim](https://github.com/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/stars/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/breadcrumbs.nvim)
 
