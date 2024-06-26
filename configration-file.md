@@ -35,6 +35,7 @@
 - [jvdmeulen/json-fold.nvim](https://github.com/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/stars/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/last-commit/jvdmeulen/json-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/jvdmeulen/json-fold.nvim)
 - [alainrk/jsonviz.nvim](https://github.com/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/stars/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/last-commit/alainrk/jsonviz.nvim) ![](https://img.shields.io/github/commit-activity/y/alainrk/jsonviz.nvim)
 - [mimikun/jqplay.nvim](https://github.com/mimikun/jqplay.nvim) ![](https://img.shields.io/github/stars/mimikun/jqplay.nvim) ![](https://img.shields.io/github/last-commit/mimikun/jqplay.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/jqplay.nvim)
+- [muhfaris/devtools.nvim](https://github.com/muhfaris/devtools.nvim) ![](https://img.shields.io/github/stars/muhfaris/devtools.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/devtools.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/devtools.nvim)
 
 ### YAML
 
