@@ -110,6 +110,7 @@
 - [ReidMason/md-preview.nvim](https://github.com/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/stars/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/last-commit/ReidMason/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ReidMason/md-preview.nvim)
 - [Civitasv/mdp.nvim](https://github.com/Civitasv/mdp.nvim) ![](https://img.shields.io/github/stars/Civitasv/mdp.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/mdp.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/mdp.nvim)
 - [mcjkula/live-preview.nvim](https://github.com/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/stars/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/live-preview.nvim)
+- [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/markview.nvim)
 
 ##### Node
 

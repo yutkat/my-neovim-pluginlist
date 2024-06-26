@@ -29,6 +29,7 @@
 - [funkymcb/nvim-rest-client](https://github.com/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/stars/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/last-commit/funkymcb/nvim-rest-client) ![](https://img.shields.io/github/commit-activity/y/funkymcb/nvim-rest-client)
 - [Cih2001/postwoman.nvim](https://github.com/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/stars/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/postwoman.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/postwoman.nvim)
 - [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/atac.nvim)
+- [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/stars/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/kulala.nvim)
 
 #### OpenAPI
 
