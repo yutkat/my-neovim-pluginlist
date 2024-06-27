@@ -32,6 +32,7 @@
 - [kilavila/nvim-yoink](https://github.com/kilavila/nvim-yoink) ![](https://img.shields.io/github/stars/kilavila/nvim-yoink) ![](https://img.shields.io/github/last-commit/kilavila/nvim-yoink) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-yoink)
 - [pthapli/nvim-clipboard](https://github.com/pthapli/nvim-clipboard) ![](https://img.shields.io/github/stars/pthapli/nvim-clipboard) ![](https://img.shields.io/github/last-commit/pthapli/nvim-clipboard) ![](https://img.shields.io/github/commit-activity/y/pthapli/nvim-clipboard)
 - [catlee/spin-clipboard.nvim](https://github.com/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/stars/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/last-commit/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/catlee/spin-clipboard.nvim)
+- [svban/YankAssassin.nvim](https://github.com/svban/YankAssassin.nvim) ![](https://img.shields.io/github/stars/svban/YankAssassin.nvim) ![](https://img.shields.io/github/last-commit/svban/YankAssassin.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/YankAssassin.nvim)
 
 ## URL
 

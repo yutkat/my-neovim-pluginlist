@@ -78,6 +78,7 @@
 - [daenikon/marknav.nvim](https://github.com/daenikon/marknav.nvim) ![](https://img.shields.io/github/stars/daenikon/marknav.nvim) ![](https://img.shields.io/github/last-commit/daenikon/marknav.nvim) ![](https://img.shields.io/github/commit-activity/y/daenikon/marknav.nvim)
 - [Nedra1998/nvim-mdlink](https://github.com/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/stars/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/last-commit/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/commit-activity/y/Nedra1998/nvim-mdlink)
 - [alexhokl/nvim-md-open-link](https://github.com/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-open-link)
+- [samerickson/markdown-title-fetch.nvim](https://github.com/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/stars/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/last-commit/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/samerickson/markdown-title-fetch.nvim)
 
 #### Markdown header
 

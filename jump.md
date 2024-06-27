@@ -44,6 +44,7 @@
 
 - [nacro90/numb.nvim](https://github.com/nacro90/numb.nvim) ![](https://img.shields.io/github/stars/nacro90/numb.nvim) ![](https://img.shields.io/github/last-commit/nacro90/numb.nvim) ![](https://img.shields.io/github/commit-activity/y/nacro90/numb.nvim)
 - [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
+- [fidgetingbits/rowglow.nvim](https://github.com/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/stars/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/last-commit/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/commit-activity/y/fidgetingbits/rowglow.nvim)
 
 ### Go to File
 
