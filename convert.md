@@ -73,6 +73,7 @@
 - [jlodenius/strider.nvim](https://github.com/jlodenius/strider.nvim) ![](https://img.shields.io/github/stars/jlodenius/strider.nvim) ![](https://img.shields.io/github/last-commit/jlodenius/strider.nvim) ![](https://img.shields.io/github/commit-activity/y/jlodenius/strider.nvim)
 - [jimmykodes/incr.nvim](https://github.com/jimmykodes/incr.nvim) ![](https://img.shields.io/github/stars/jimmykodes/incr.nvim) ![](https://img.shields.io/github/last-commit/jimmykodes/incr.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmykodes/incr.nvim)
 - [BrendanArmstrong1/base_converter.nvim](https://github.com/BrendanArmstrong1/base_converter.nvim) ![](https://img.shields.io/github/stars/BrendanArmstrong1/base_converter.nvim) ![](https://img.shields.io/github/last-commit/BrendanArmstrong1/base_converter.nvim) ![](https://img.shields.io/github/commit-activity/y/BrendanArmstrong1/base_converter.nvim)
+- [svban/NumbSub.nvim](https://github.com/svban/NumbSub.nvim) ![](https://img.shields.io/github/stars/svban/NumbSub.nvim) ![](https://img.shields.io/github/last-commit/svban/NumbSub.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/NumbSub.nvim)
 
 ### Color
 
