@@ -15,6 +15,7 @@
 - [wangl-cc/auto-bg.nvim](https://github.com/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/stars/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/last-commit/wangl-cc/auto-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/wangl-cc/auto-bg.nvim)
 - [SamYouatt/proper-dave.nvim](https://github.com/SamYouatt/proper-dave.nvim) ![](https://img.shields.io/github/stars/SamYouatt/proper-dave.nvim) ![](https://img.shields.io/github/last-commit/SamYouatt/proper-dave.nvim) ![](https://img.shields.io/github/commit-activity/y/SamYouatt/proper-dave.nvim)
 - [tribela/transparent.nvim](https://github.com/tribela/transparent.nvim) ![](https://img.shields.io/github/stars/tribela/transparent.nvim) ![](https://img.shields.io/github/last-commit/tribela/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/tribela/transparent.nvim)
+- [amlanjlahkar/cthru.nvim](https://github.com/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/cthru.nvim)
 
 ### Switch theme
 

@@ -4,6 +4,7 @@
 
 - [Cursorline](#cursorline)
 - [Columnline](#columnline)
+  * [limit column](#limit-column)
 
 <!-- tocstop -->
 
@@ -28,3 +29,7 @@
 - [miklu612/margin.nvim](https://github.com/miklu612/margin.nvim) ![](https://img.shields.io/github/stars/miklu612/margin.nvim) ![](https://img.shields.io/github/last-commit/miklu612/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/miklu612/margin.nvim)
 - [tiyn/tccs.nvim](https://github.com/tiyn/tccs.nvim) ![](https://img.shields.io/github/stars/tiyn/tccs.nvim) ![](https://img.shields.io/github/last-commit/tiyn/tccs.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/tccs.nvim)
 - [MaggieLostKeys/nvim-ccutil](https://github.com/MaggieLostKeys/nvim-ccutil) ![](https://img.shields.io/github/stars/MaggieLostKeys/nvim-ccutil) ![](https://img.shields.io/github/last-commit/MaggieLostKeys/nvim-ccutil) ![](https://img.shields.io/github/commit-activity/y/MaggieLostKeys/nvim-ccutil)
+
+### limit column
+
+- [fouladi/toggle-overlength.nvim](https://github.com/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/stars/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/last-commit/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/toggle-overlength.nvim)
