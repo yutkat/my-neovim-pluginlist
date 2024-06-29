@@ -305,6 +305,7 @@
 - [micangl/cmp-vimtex](https://github.com/micangl/cmp-vimtex) ![](https://img.shields.io/github/stars/micangl/cmp-vimtex) ![](https://img.shields.io/github/last-commit/micangl/cmp-vimtex) ![](https://img.shields.io/github/commit-activity/y/micangl/cmp-vimtex)
 - [samuelireson/texsnip.nvim](https://github.com/samuelireson/texsnip.nvim) ![](https://img.shields.io/github/stars/samuelireson/texsnip.nvim) ![](https://img.shields.io/github/last-commit/samuelireson/texsnip.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelireson/texsnip.nvim)
 - [lentilus/fastex.nvim](https://github.com/lentilus/fastex.nvim) ![](https://img.shields.io/github/stars/lentilus/fastex.nvim) ![](https://img.shields.io/github/last-commit/lentilus/fastex.nvim) ![](https://img.shields.io/github/commit-activity/y/lentilus/fastex.nvim)
+- [Matze-isses/latex-writer.nvim](https://github.com/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/stars/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/last-commit/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/Matze-isses/latex-writer.nvim)
 
 #### Image
 
