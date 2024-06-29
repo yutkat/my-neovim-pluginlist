@@ -48,6 +48,7 @@
 - [CWood-sdf/lazyline.nvim](https://github.com/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/lazyline.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/lazyline.nvim)
 - [mnjm/bottomline.nvim](https://github.com/mnjm/bottomline.nvim) ![](https://img.shields.io/github/stars/mnjm/bottomline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/bottomline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/bottomline.nvim)
 - [NeViRAIDE/neviline.nvim](https://github.com/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/neviline.nvim)
+- [richardhbtz/blitzline.nvim](https://github.com/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/stars/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/last-commit/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhbtz/blitzline.nvim)
 
 ### Simple
 
