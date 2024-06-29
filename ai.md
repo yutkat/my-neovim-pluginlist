@@ -106,6 +106,7 @@
 - [dustinblackman/oatmeal.nvim](https://github.com/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/stars/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/last-commit/dustinblackman/oatmeal.nvim) ![](https://img.shields.io/github/commit-activity/y/dustinblackman/oatmeal.nvim)
 - [Sntz91/sentence-rewriting.nvim](https://github.com/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/stars/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/last-commit/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/commit-activity/y/Sntz91/sentence-rewriting.nvim)
 - [sagmansercan/nvim-llama](https://github.com/sagmansercan/nvim-llama) ![](https://img.shields.io/github/stars/sagmansercan/nvim-llama) ![](https://img.shields.io/github/last-commit/sagmansercan/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/sagmansercan/nvim-llama)
+- [4onen/llama_nvim.nvim](https://github.com/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/stars/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/last-commit/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/4onen/llama_nvim.nvim)
 
 ### Ollama
 
@@ -120,6 +121,7 @@
 - [louis-brunet/ollouma.nvim](https://github.com/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/stars/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/last-commit/louis-brunet/ollouma.nvim) ![](https://img.shields.io/github/commit-activity/y/louis-brunet/ollouma.nvim)
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/stars/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/last-commit/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/commit-activity/y/meeehdi-dev/bropilot.nvim)
 - [Prometheus1400/ollama-pilot.nvim](https://github.com/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/stars/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/last-commit/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Prometheus1400/ollama-pilot.nvim)
+- [magicalne/fim.nvim](https://github.com/magicalne/fim.nvim) ![](https://img.shields.io/github/stars/magicalne/fim.nvim) ![](https://img.shields.io/github/last-commit/magicalne/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/magicalne/fim.nvim)
 
 ### Claude
 

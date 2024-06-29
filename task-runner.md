@@ -97,6 +97,7 @@
 - [niuiic/task.nvim](https://github.com/niuiic/task.nvim) ![](https://img.shields.io/github/stars/niuiic/task.nvim) ![](https://img.shields.io/github/last-commit/niuiic/task.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/task.nvim)
 - [trajanoreuter/telescope-extension.nvim](https://github.com/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/stars/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/last-commit/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/trajanoreuter/telescope-extension.nvim)
 - [ll-nick/mrt.nvim](https://github.com/ll-nick/mrt.nvim) ![](https://img.shields.io/github/stars/ll-nick/mrt.nvim) ![](https://img.shields.io/github/last-commit/ll-nick/mrt.nvim) ![](https://img.shields.io/github/commit-activity/y/ll-nick/mrt.nvim)
+- [4542elgh/telescope-arsenal.nvim](https://github.com/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-arsenal.nvim)
 
 ### Shell
 
