@@ -101,6 +101,7 @@
 - [NeViRAIDE/diagnoz.nvim](https://github.com/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/diagnoz.nvim)
 - [NeViRAIDE/diagnoz.nvim](https://github.com/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/diagnoz.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/diagnoz.nvim)
 - [hsaker312/diagnostics-details.nvim](https://github.com/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/stars/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/last-commit/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/commit-activity/y/hsaker312/diagnostics-details.nvim)
+- [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-inline-diagnostic.nvim)
 
 ##### Diagnostics goto
 
