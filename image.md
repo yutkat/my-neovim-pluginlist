@@ -8,7 +8,7 @@
   * [Image Paste](#image-paste)
   * [Image Uploader](#image-uploader)
   * [Screenshot](#screenshot)
-  * [Screen Key](#screen-key)
+  * [Screen Key (Show Typing key)](#screen-key-show-typing-key)
     + [Code Image](#code-image)
   * [SVG](#svg)
   * [Ascii](#ascii)
@@ -59,11 +59,12 @@
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/rayso.nvim)
 - [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
 
-### Screen Key
+### Screen Key (Show Typing key)
 
 - [tamton-aquib/keys.nvim](https://github.com/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/keys.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/keys.nvim)
 - [4513ECHO/nvim-keycastr](https://github.com/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/stars/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/last-commit/4513ECHO/nvim-keycastr) ![](https://img.shields.io/github/commit-activity/y/4513ECHO/nvim-keycastr)
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/stars/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/screenkey.nvim)
+- [Piotr1215/typeit.nvim](https://github.com/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/stars/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/typeit.nvim)
 
 #### Code Image
 

@@ -66,6 +66,7 @@
 - [MarcusSimonsen/ride.nvim](https://github.com/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/stars/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/last-commit/MarcusSimonsen/ride.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcusSimonsen/ride.nvim)
 - [ray-x/mkdn.nvim](https://github.com/ray-x/mkdn.nvim) ![](https://img.shields.io/github/stars/ray-x/mkdn.nvim) ![](https://img.shields.io/github/last-commit/ray-x/mkdn.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/mkdn.nvim)
 - [batmikun/mactions.nvim](https://github.com/batmikun/mactions.nvim) ![](https://img.shields.io/github/stars/batmikun/mactions.nvim) ![](https://img.shields.io/github/last-commit/batmikun/mactions.nvim) ![](https://img.shields.io/github/commit-activity/y/batmikun/mactions.nvim)
+- [yuukibarns/markdown.nvim](https://github.com/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/stars/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/markdown.nvim)
 
 #### Markdown link
 

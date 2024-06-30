@@ -107,6 +107,7 @@
 - [Sntz91/sentence-rewriting.nvim](https://github.com/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/stars/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/last-commit/Sntz91/sentence-rewriting.nvim) ![](https://img.shields.io/github/commit-activity/y/Sntz91/sentence-rewriting.nvim)
 - [sagmansercan/nvim-llama](https://github.com/sagmansercan/nvim-llama) ![](https://img.shields.io/github/stars/sagmansercan/nvim-llama) ![](https://img.shields.io/github/last-commit/sagmansercan/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/sagmansercan/nvim-llama)
 - [4onen/llama_nvim.nvim](https://github.com/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/stars/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/last-commit/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/4onen/llama_nvim.nvim)
+- [MathieuTuli/jarvis.nvim](https://github.com/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/stars/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/last-commit/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/MathieuTuli/jarvis.nvim)
 
 ### Ollama
 

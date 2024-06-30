@@ -63,6 +63,7 @@
 - [nvim-neorocks/rocks.nvim](https://github.com/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks.nvim)
   - [nvim-neorocks/rocks-lazy.nvim](https://github.com/nvim-neorocks/rocks-lazy.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks-lazy.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks-lazy.nvim)
   - [nvim-neorocks/rocks-git.nvim](https://github.com/nvim-neorocks/rocks-git.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks-git.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks-git.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks-git.nvim)
+  - [nvim-neorocks/rocks-edit.nvim](https://github.com/nvim-neorocks/rocks-edit.nvim) ![](https://img.shields.io/github/stars/nvim-neorocks/rocks-edit.nvim) ![](https://img.shields.io/github/last-commit/nvim-neorocks/rocks-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-neorocks/rocks-edit.nvim)
 
 ### GitHub Actions
 
