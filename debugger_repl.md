@@ -50,6 +50,7 @@
 - [SteffenBlake/nvim-dap-dotnet-helper](https://github.com/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/stars/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/last-commit/SteffenBlake/nvim-dap-dotnet-helper) ![](https://img.shields.io/github/commit-activity/y/SteffenBlake/nvim-dap-dotnet-helper)
 - [babak-kh/breakpoints.nvim](https://github.com/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/stars/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/last-commit/babak-kh/breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/babak-kh/breakpoints.nvim)
 - [Cliffback/netcoredbg-macOS-arm64.nvim](https://github.com/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/stars/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/netcoredbg-macOS-arm64.nvim)
+- [kdheepak/nvim-dap-julia](https://github.com/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/stars/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/last-commit/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/commit-activity/y/kdheepak/nvim-dap-julia)
 
 #### Launch.json
 
