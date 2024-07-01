@@ -10,6 +10,7 @@
   * [Formatter](#formatter)
   * [Makefile](#makefile)
   * [GoogleTest](#googletest)
+  * [Stress test](#stress-test)
   * [Cmake](#cmake)
   * [Debug](#debug)
   * [LLDB](#lldb)
@@ -75,6 +76,10 @@
 ### GoogleTest
 
 - [ofwinterpassed/gtestrunner.nvim](https://github.com/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/stars/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/last-commit/ofwinterpassed/gtestrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/ofwinterpassed/gtestrunner.nvim)
+
+### Stress test
+
+- [roirepus/nvim-stress-test](https://github.com/roirepus/nvim-stress-test) ![](https://img.shields.io/github/stars/roirepus/nvim-stress-test) ![](https://img.shields.io/github/last-commit/roirepus/nvim-stress-test) ![](https://img.shields.io/github/commit-activity/y/roirepus/nvim-stress-test)
 
 ### Cmake
 
