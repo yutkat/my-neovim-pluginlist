@@ -161,6 +161,7 @@
 - [soulis-1256/eagle.nvim](https://github.com/soulis-1256/eagle.nvim) ![](https://img.shields.io/github/stars/soulis-1256/eagle.nvim) ![](https://img.shields.io/github/last-commit/soulis-1256/eagle.nvim) ![](https://img.shields.io/github/commit-activity/y/soulis-1256/eagle.nvim)
 - [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/stars/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/MysticalDevil/inlay-hints.nvim)
 - [felpafel/inlay-hint.nvim](https://github.com/felpafel/inlay-hint.nvim) ![](https://img.shields.io/github/stars/felpafel/inlay-hint.nvim) ![](https://img.shields.io/github/last-commit/felpafel/inlay-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/felpafel/inlay-hint.nvim)
+- [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-lsp-endhints)
 
 #### Hover Doc
 
