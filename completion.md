@@ -98,3 +98,4 @@
 
 - [atusy/telescomp.nvim](https://github.com/atusy/telescomp.nvim) ![](https://img.shields.io/github/stars/atusy/telescomp.nvim) ![](https://img.shields.io/github/last-commit/atusy/telescomp.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/telescomp.nvim)
 - [kiyoon/telescope-insert-path.nvim](https://github.com/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/stars/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/telescope-insert-path.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/telescope-insert-path.nvim)
+- [illia-shkroba/telescope-completion.nvim](https://github.com/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/stars/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/last-commit/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/illia-shkroba/telescope-completion.nvim)

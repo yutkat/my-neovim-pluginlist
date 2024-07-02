@@ -5,6 +5,8 @@
 - [Rust](#rust)
   * [Test](#test)
   * [Completion](#completion)
+  * [Template](#template)
+    + [Askama](#askama)
 
 <!-- tocstop -->
 
@@ -29,3 +31,9 @@
 ### Completion
 
 - [zjp-CN/nvim-cmp-lsp-rs](https://github.com/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/stars/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/last-commit/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/commit-activity/y/zjp-CN/nvim-cmp-lsp-rs)
+
+### Template
+
+#### Askama
+
+- [jorismertz/askama.nvim](https://github.com/jorismertz/askama.nvim) ![](https://img.shields.io/github/stars/jorismertz/askama.nvim) ![](https://img.shields.io/github/last-commit/jorismertz/askama.nvim) ![](https://img.shields.io/github/commit-activity/y/jorismertz/askama.nvim)

@@ -73,7 +73,7 @@
 - [VoxelPrismatic/rabbit.nvim](https://github.com/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/stars/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/last-commit/VoxelPrismatic/rabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/VoxelPrismatic/rabbit.nvim)
 - [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-buffers-switcher.nvim)
 - [pacidic/bufcycle.nvim](https://github.com/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/stars/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/last-commit/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/commit-activity/y/pacidic/bufcycle.nvim)
-
+- [mong8se/buffish.nvim](https://github.com/mong8se/buffish.nvim) ![](https://img.shields.io/github/stars/mong8se/buffish.nvim) ![](https://img.shields.io/github/last-commit/mong8se/buffish.nvim) ![](https://img.shields.io/github/commit-activity/y/mong8se/buffish.nvim)
 
 ### Other Buffer Switcher
 
@@ -91,6 +91,7 @@
 - [sshelll/telescope-switch.nvim](https://github.com/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-switch.nvim)
 - [nikbrunner/fff.nvim](https://github.com/nikbrunner/fff.nvim) ![](https://img.shields.io/github/stars/nikbrunner/fff.nvim) ![](https://img.shields.io/github/last-commit/nikbrunner/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/nikbrunner/fff.nvim)
 - [AlekseySav/gosource.nvim](https://github.com/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/stars/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/last-commit/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/commit-activity/y/AlekseySav/gosource.nvim)
+- [zimeg/proximity.nvim](https://github.com/zimeg/proximity.nvim) ![](https://img.shields.io/github/stars/zimeg/proximity.nvim) ![](https://img.shields.io/github/last-commit/zimeg/proximity.nvim) ![](https://img.shields.io/github/commit-activity/y/zimeg/proximity.nvim)
 
 ### Buffer Management
 
@@ -135,6 +136,7 @@
 - [tripplyons/stacker.nvim](https://github.com/tripplyons/stacker.nvim) ![](https://img.shields.io/github/stars/tripplyons/stacker.nvim) ![](https://img.shields.io/github/last-commit/tripplyons/stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/tripplyons/stacker.nvim)
 - [mikemcbride/telescope-mru.nvim](https://github.com/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/stars/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/last-commit/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/commit-activity/y/mikemcbride/telescope-mru.nvim)
 - [ingur/captain.nvim](https://github.com/ingur/captain.nvim) ![](https://img.shields.io/github/stars/ingur/captain.nvim) ![](https://img.shields.io/github/last-commit/ingur/captain.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/captain.nvim)
+- [tomimara52/nvim-bufbox](https://github.com/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/stars/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/last-commit/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/commit-activity/y/tomimara52/nvim-bufbox)
 
 ##### remote open
 
