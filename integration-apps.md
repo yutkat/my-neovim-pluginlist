@@ -81,6 +81,7 @@
 #### url open
 
 - [sontungexpt/url-open](https://github.com/sontungexpt/url-open) ![](https://img.shields.io/github/stars/sontungexpt/url-open) ![](https://img.shields.io/github/last-commit/sontungexpt/url-open) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/url-open)
+- [kristoferfannar/urlopen.nvim](https://github.com/kristoferfannar/urlopen.nvim) ![](https://img.shields.io/github/stars/kristoferfannar/urlopen.nvim) ![](https://img.shields.io/github/last-commit/kristoferfannar/urlopen.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferfannar/urlopen.nvim)
 
 #### DevTools
 
