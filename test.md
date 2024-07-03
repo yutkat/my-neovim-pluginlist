@@ -26,6 +26,7 @@
 - [lewis6991/nvim-test](https://github.com/lewis6991/nvim-test) ![](https://img.shields.io/github/stars/lewis6991/nvim-test) ![](https://img.shields.io/github/last-commit/lewis6991/nvim-test) ![](https://img.shields.io/github/commit-activity/y/lewis6991/nvim-test)
 - [AdeAttwood/spec.nvim](https://github.com/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/spec.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/spec.nvim)
 - [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) ![](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim) ![](https://img.shields.io/github/commit-activity/y/quolpr/quicktest.nvim)
+- [fcoury/vial.nvim](https://github.com/fcoury/vial.nvim) ![](https://img.shields.io/github/stars/fcoury/vial.nvim) ![](https://img.shields.io/github/last-commit/fcoury/vial.nvim) ![](https://img.shields.io/github/commit-activity/y/fcoury/vial.nvim)
 
 ### Test file
 
