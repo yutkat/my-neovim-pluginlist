@@ -73,6 +73,7 @@
 - [M1nts02/nvim-template](https://github.com/M1nts02/nvim-template) ![](https://img.shields.io/github/stars/M1nts02/nvim-template) ![](https://img.shields.io/github/last-commit/M1nts02/nvim-template) ![](https://img.shields.io/github/commit-activity/y/M1nts02/nvim-template)
 - [dheerajshenoy/templatory.nvim](https://github.com/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/stars/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/last-commit/dheerajshenoy/templatory.nvim) ![](https://img.shields.io/github/commit-activity/y/dheerajshenoy/templatory.nvim)
 - [Thanatisia/devenv.nvim](https://github.com/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/stars/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/last-commit/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Thanatisia/devenv.nvim)
+- [Luis-Licea/template-loader.nvim](https://github.com/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/stars/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/last-commit/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/Luis-Licea/template-loader.nvim)
 
 #### README
 
