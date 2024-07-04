@@ -29,6 +29,7 @@
   * [Chatblade](#chatblade)
 - [OpenAI Review](#openai-review)
 - [Writefull](#writefull)
+- [Neovim Command](#neovim-command)
 
 <!-- tocstop -->
 
@@ -212,3 +213,7 @@
 ## Writefull
 
 - [arunoruto/writefull.nvim](https://github.com/arunoruto/writefull.nvim) ![](https://img.shields.io/github/stars/arunoruto/writefull.nvim) ![](https://img.shields.io/github/last-commit/arunoruto/writefull.nvim) ![](https://img.shields.io/github/commit-activity/y/arunoruto/writefull.nvim)
+
+## Neovim Command
+
+- [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
