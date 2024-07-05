@@ -66,6 +66,7 @@
 - [rmagatti/logger.nvim](https://github.com/rmagatti/logger.nvim) ![](https://img.shields.io/github/stars/rmagatti/logger.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/logger.nvim)
 - [novicedev7291/consolelog.nvim](https://github.com/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/stars/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/last-commit/novicedev7291/consolelog.nvim) ![](https://img.shields.io/github/commit-activity/y/novicedev7291/consolelog.nvim)
 - [NTBBloodbath/logging.nvim](https://github.com/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/logging.nvim)
+- [jnpngshiii/logger.nvim](https://github.com/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/stars/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/last-commit/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/jnpngshiii/logger.nvim)
 
 ## async
 

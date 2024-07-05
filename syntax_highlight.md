@@ -79,6 +79,7 @@
 ### ANSI Colorize
 
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) ![](https://img.shields.io/github/stars/m00qek/baleia.nvim) ![](https://img.shields.io/github/last-commit/m00qek/baleia.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/baleia.nvim)
+- [haolian9/ansiesc.nvim](https://github.com/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/stars/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ansiesc.nvim)
 
 ### Colorscheme switcher
 
