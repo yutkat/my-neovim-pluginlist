@@ -30,6 +30,7 @@
 - [DaikyXendo/nvim-material-icon](https://github.com/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/stars/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/last-commit/DaikyXendo/nvim-material-icon) ![](https://img.shields.io/github/commit-activity/y/DaikyXendo/nvim-material-icon)
 - [mskelton/termicons.nvim](https://github.com/mskelton/termicons.nvim) ![](https://img.shields.io/github/stars/mskelton/termicons.nvim) ![](https://img.shields.io/github/last-commit/mskelton/termicons.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/termicons.nvim)
 - [NeViRAIDE/stigmata.nvim](https://github.com/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/stigmata.nvim)
+- [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) ![](https://img.shields.io/github/stars/echasnovski/mini.icons) ![](https://img.shields.io/github/last-commit/echasnovski/mini.icons) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.icons)
 
 ### Devicon color
 
