@@ -98,6 +98,7 @@
 - [trajanoreuter/telescope-extension.nvim](https://github.com/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/stars/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/last-commit/trajanoreuter/telescope-extension.nvim) ![](https://img.shields.io/github/commit-activity/y/trajanoreuter/telescope-extension.nvim)
 - [ll-nick/mrt.nvim](https://github.com/ll-nick/mrt.nvim) ![](https://img.shields.io/github/stars/ll-nick/mrt.nvim) ![](https://img.shields.io/github/last-commit/ll-nick/mrt.nvim) ![](https://img.shields.io/github/commit-activity/y/ll-nick/mrt.nvim)
 - [4542elgh/telescope-arsenal.nvim](https://github.com/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-arsenal.nvim)
+- [gloggers99/build.nvim](https://github.com/gloggers99/build.nvim) ![](https://img.shields.io/github/stars/gloggers99/build.nvim) ![](https://img.shields.io/github/last-commit/gloggers99/build.nvim) ![](https://img.shields.io/github/commit-activity/y/gloggers99/build.nvim)
 
 ### Shell
 
