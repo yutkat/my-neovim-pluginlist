@@ -68,6 +68,7 @@
 - [haolian9/linters.nvim](https://github.com/haolian9/linters.nvim) ![](https://img.shields.io/github/stars/haolian9/linters.nvim) ![](https://img.shields.io/github/last-commit/haolian9/linters.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/linters.nvim)
 - [idanarye/nvim-buffls](https://github.com/idanarye/nvim-buffls) ![](https://img.shields.io/github/stars/idanarye/nvim-buffls) ![](https://img.shields.io/github/last-commit/idanarye/nvim-buffls) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-buffls)
 - [Piotr1215/toggler.nvim](https://github.com/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/stars/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/toggler.nvim)
+- [pojokcodeid/auto-lint.nvim](https://github.com/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-lint.nvim)
 
 ### Grammar
 

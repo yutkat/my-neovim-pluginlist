@@ -5,6 +5,7 @@
 - [Treesitter](#treesitter)
   * [Installer](#installer)
 - [Code Action](#code-action)
+- [Info](#info)
 
 <!-- tocstop -->
 
@@ -25,3 +26,7 @@
 ## Code Action
 
 - [jdrupal-dev/code-refactor.nvim](https://github.com/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/code-refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/code-refactor.nvim)
+
+## Info
+
+- [roycrippen4/telescope-treesitter-info.nvim](https://github.com/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/stars/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/telescope-treesitter-info.nvim)

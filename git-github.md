@@ -217,6 +217,7 @@
 ## git switch
 
 - [cszczepaniak/git-lb.nvim](https://github.com/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/git-lb.nvim)
+- [mrloop/telescope-git-branch.nvim](https://github.com/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrloop/telescope-git-branch.nvim)
 
 ## gitignore
 
@@ -351,6 +352,7 @@
 - [jgoguen/git-linker.nvim](https://github.com/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/stars/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/last-commit/jgoguen/git-linker.nvim) ![](https://img.shields.io/github/commit-activity/y/jgoguen/git-linker.nvim)
 - [aaaaargZombies/forge-link.nvim](https://github.com/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/forge-link.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/forge-link.nvim)
 - [candy12t/github-link.nvim](https://github.com/candy12t/github-link.nvim) ![](https://img.shields.io/github/stars/candy12t/github-link.nvim) ![](https://img.shields.io/github/last-commit/candy12t/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/github-link.nvim)
+- [ksaito422/remote-line.nvim](https://github.com/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/stars/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/last-commit/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/commit-activity/y/ksaito422/remote-line.nvim)
 
 ## Image
 

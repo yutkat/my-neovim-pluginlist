@@ -130,6 +130,7 @@
 ### jsdoc
 
 - [joeldotdias/jsdoc-switch.nvim](https://github.com/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/stars/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/last-commit/joeldotdias/jsdoc-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/joeldotdias/jsdoc-switch.nvim)
+- [anmol-fzr/js-docs-mdn.nvim](https://github.com/anmol-fzr/js-docs-mdn.nvim) ![](https://img.shields.io/github/stars/anmol-fzr/js-docs-mdn.nvim) ![](https://img.shields.io/github/last-commit/anmol-fzr/js-docs-mdn.nvim) ![](https://img.shields.io/github/commit-activity/y/anmol-fzr/js-docs-mdn.nvim)
 
 ### Task Runner
 

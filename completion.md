@@ -93,6 +93,7 @@
 - [ray-x/lsp_signature.nvim](https://github.com/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/stars/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/last-commit/ray-x/lsp_signature.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/lsp_signature.nvim)
 - [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/stars/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/last-commit/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/commit-activity/y/Issafalcon/lsp-overloads.nvim)
 - [erhickey/sig-window-nvim](https://github.com/erhickey/sig-window-nvim) ![](https://img.shields.io/github/stars/erhickey/sig-window-nvim) ![](https://img.shields.io/github/last-commit/erhickey/sig-window-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/sig-window-nvim)
+- [tranzystorekk/cmp-minikind.nvim](https://github.com/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/stars/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/last-commit/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/commit-activity/y/tranzystorekk/cmp-minikind.nvim)
 
 ## Standard Completion
 

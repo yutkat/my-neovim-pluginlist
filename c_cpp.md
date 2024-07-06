@@ -5,6 +5,7 @@
 - [C/C++](#cc)
   * [Syntax](#syntax)
   * [Macro](#macro)
+  * [Compile](#compile)
   * [Clang](#clang)
   * [GCC](#gcc)
   * [Formatter](#formatter)
@@ -55,6 +56,10 @@
 ### Macro
 
 - [sciccolella/cmacro.nvim](https://github.com/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/stars/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/last-commit/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/sciccolella/cmacro.nvim)
+
+### Compile
+
+- [AZarbade/cmc.nvim](https://github.com/AZarbade/cmc.nvim) ![](https://img.shields.io/github/stars/AZarbade/cmc.nvim) ![](https://img.shields.io/github/last-commit/AZarbade/cmc.nvim) ![](https://img.shields.io/github/commit-activity/y/AZarbade/cmc.nvim)
 
 ### Clang
 
