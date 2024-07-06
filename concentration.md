@@ -47,6 +47,7 @@
 - [Ernest1338/cube-timer.nvim](https://github.com/Ernest1338/cube-timer.nvim) ![](https://img.shields.io/github/stars/Ernest1338/cube-timer.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/cube-timer.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/cube-timer.nvim)
 - [jmatth11/time-tracker.nvim](https://github.com/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/stars/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/jmatth11/time-tracker.nvim)
 - [Cambo9p/productivitytimer.nvim](https://github.com/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/stars/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/last-commit/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/commit-activity/y/Cambo9p/productivitytimer.nvim)
+- [cochranjd/timeblocker.nvim](https://github.com/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/stars/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/last-commit/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/commit-activity/y/cochranjd/timeblocker.nvim)
 
 ## Do Not Disturb
 
