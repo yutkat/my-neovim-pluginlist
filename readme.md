@@ -36,6 +36,7 @@
     + [Smart Tab](#smart-tab)
   * [Auto Insert](#auto-insert)
   * [matchparen](#matchparen)
+  * [matchadd](#matchadd)
   * [Convert](#convert)
   * [Indent](#indent)
   * [Align](#align)
@@ -252,6 +253,10 @@
 - [utilyre/sentiment.nvim](https://github.com/utilyre/sentiment.nvim) ![](https://img.shields.io/github/stars/utilyre/sentiment.nvim) ![](https://img.shields.io/github/last-commit/utilyre/sentiment.nvim) ![](https://img.shields.io/github/commit-activity/y/utilyre/sentiment.nvim)
 - [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
 - [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
+
+### matchadd
+
+- [haolian9/gary.nvim](https://github.com/haolian9/gary.nvim) ![](https://img.shields.io/github/stars/haolian9/gary.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gary.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gary.nvim)
 
 ### [Convert](./convert.md)
 
