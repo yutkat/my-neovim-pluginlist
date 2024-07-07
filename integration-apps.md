@@ -142,7 +142,6 @@
 
 ### Shell
 
-- [LintaoAmons/easy-commands.nvim](https://github.com/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/easy-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/easy-commands.nvim)
 
 #### zsh
 

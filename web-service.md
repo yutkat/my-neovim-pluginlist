@@ -140,7 +140,6 @@
 
 #### Spotify
 
-- [C0deBr3ak3r/neofy.nvim](https://github.com/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/stars/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/last-commit/C0deBr3ak3r/neofy.nvim) ![](https://img.shields.io/github/commit-activity/y/C0deBr3ak3r/neofy.nvim)
 - [molvrr/spotify.nvim](https://github.com/molvrr/spotify.nvim) ![](https://img.shields.io/github/stars/molvrr/spotify.nvim) ![](https://img.shields.io/github/last-commit/molvrr/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/molvrr/spotify.nvim)
 - [Z3rio/spotify.nvim](https://github.com/Z3rio/spotify.nvim) ![](https://img.shields.io/github/stars/Z3rio/spotify.nvim) ![](https://img.shields.io/github/last-commit/Z3rio/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/Z3rio/spotify.nvim)
 - [ElCapitanSponge/spotify.nvim](https://github.com/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/stars/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/last-commit/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/ElCapitanSponge/spotify.nvim)
