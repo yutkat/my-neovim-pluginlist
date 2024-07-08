@@ -42,6 +42,7 @@
 - [mackeper/SeshMgr.nvim](https://github.com/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/stars/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/last-commit/mackeper/SeshMgr.nvim) ![](https://img.shields.io/github/commit-activity/y/mackeper/SeshMgr.nvim)
 - [enricava/quicksave.nvim](https://github.com/enricava/quicksave.nvim) ![](https://img.shields.io/github/stars/enricava/quicksave.nvim) ![](https://img.shields.io/github/last-commit/enricava/quicksave.nvim) ![](https://img.shields.io/github/commit-activity/y/enricava/quicksave.nvim)
 - [tristone13th/session.nvim](https://github.com/tristone13th/session.nvim) ![](https://img.shields.io/github/stars/tristone13th/session.nvim) ![](https://img.shields.io/github/last-commit/tristone13th/session.nvim) ![](https://img.shields.io/github/commit-activity/y/tristone13th/session.nvim)
+- [devoc09/session-manager.nvim](https://github.com/devoc09/session-manager.nvim) ![](https://img.shields.io/github/stars/devoc09/session-manager.nvim) ![](https://img.shields.io/github/last-commit/devoc09/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/devoc09/session-manager.nvim)
 
 ## Session Selector
 

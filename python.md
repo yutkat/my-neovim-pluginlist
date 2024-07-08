@@ -6,6 +6,7 @@
   * [tweaks](#tweaks)
     + [string](#string)
   * [test](#test)
+    + [jurigged](#jurigged)
   * [import](#import)
   * [REPL](#repl)
   * [Debug](#debug)
@@ -51,6 +52,10 @@
 - [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
 - [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
 - [naddeoa/nvim-pytest](https://github.com/naddeoa/nvim-pytest) ![](https://img.shields.io/github/stars/naddeoa/nvim-pytest) ![](https://img.shields.io/github/last-commit/naddeoa/nvim-pytest) ![](https://img.shields.io/github/commit-activity/y/naddeoa/nvim-pytest)
+
+##### jurigged
+
+- [Proteusiq/moto.nvim](https://github.com/Proteusiq/moto.nvim) ![](https://img.shields.io/github/stars/Proteusiq/moto.nvim) ![](https://img.shields.io/github/last-commit/Proteusiq/moto.nvim) ![](https://img.shields.io/github/commit-activity/y/Proteusiq/moto.nvim)
 
 #### import
 
