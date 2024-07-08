@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Analytics](#analytics)
+  * [Coding time](#coding-time)
   * [Mapping stat](#mapping-stat)
   * [Typing speed](#typing-speed)
   * [Operation Log](#operation-log)
@@ -30,6 +31,10 @@
 - [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
 - [mgastonportillo/yerbreak.nvim](https://github.com/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/yerbreak.nvim)
 - [GuiC0506/Tracker.nvim](https://github.com/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/stars/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/last-commit/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/GuiC0506/Tracker.nvim)
+
+### Coding time
+
+- [rmarinn/codetime.nvim](https://github.com/rmarinn/codetime.nvim) ![](https://img.shields.io/github/stars/rmarinn/codetime.nvim) ![](https://img.shields.io/github/last-commit/rmarinn/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/rmarinn/codetime.nvim)
 
 ### Mapping stat
 

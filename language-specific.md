@@ -63,6 +63,7 @@
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
+    + [Koan](#koan)
     + [Prolog](#prolog)
     + [Beancount](#beancount)
     + [CHIP-8](#chip-8)
@@ -345,6 +346,10 @@
 ### Eno
 
 - [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
+
+### Koan
+
+- [TogarashiPepper/koan.nvim](https://github.com/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/stars/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/last-commit/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/commit-activity/y/TogarashiPepper/koan.nvim)
 
 ### Prolog
 

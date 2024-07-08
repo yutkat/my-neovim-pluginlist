@@ -21,6 +21,7 @@
 - [phanen/dirstack.nvim](https://github.com/phanen/dirstack.nvim) ![](https://img.shields.io/github/stars/phanen/dirstack.nvim) ![](https://img.shields.io/github/last-commit/phanen/dirstack.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/dirstack.nvim)
 - [itsfrank/cd-stack.nvim](https://github.com/itsfrank/cd-stack.nvim) ![](https://img.shields.io/github/stars/itsfrank/cd-stack.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/cd-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/cd-stack.nvim)
 - [zaucy/proj.nvim](https://github.com/zaucy/proj.nvim) ![](https://img.shields.io/github/stars/zaucy/proj.nvim) ![](https://img.shields.io/github/last-commit/zaucy/proj.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/proj.nvim)
+- [PriceHiller/ppd.nvim](https://github.com/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/stars/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/last-commit/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/commit-activity/y/PriceHiller/ppd.nvim)
 
 ### z
 
