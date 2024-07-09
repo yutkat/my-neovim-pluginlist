@@ -80,6 +80,7 @@
 - [willothy/micro-async.nvim](https://github.com/willothy/micro-async.nvim) ![](https://img.shields.io/github/stars/willothy/micro-async.nvim) ![](https://img.shields.io/github/last-commit/willothy/micro-async.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/micro-async.nvim)
 - [svermeulen/nvim-lusc](https://github.com/svermeulen/nvim-lusc) ![](https://img.shields.io/github/stars/svermeulen/nvim-lusc) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-lusc) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-lusc)
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/stars/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/last-commit/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/nvim-nio)
+- [izelnakri/callback.nvim](https://github.com/izelnakri/callback.nvim) ![](https://img.shields.io/github/stars/izelnakri/callback.nvim) ![](https://img.shields.io/github/last-commit/izelnakri/callback.nvim) ![](https://img.shields.io/github/commit-activity/y/izelnakri/callback.nvim)
 
 ## Coroutine
 
@@ -256,6 +257,7 @@
 
 - [oleksiiluchnikov/gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/gradient.nvim)
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/stars/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/polychrome.nvim)
+- [OXY2DEV/colors.nvim](https://github.com/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/colors.nvim)
 
 ## Date
 

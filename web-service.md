@@ -31,6 +31,7 @@
   * [www.ietf.org](#wwwietforg)
   * [haste](#haste)
   * [TabNews](#tabnews)
+  * [HackerNews](#hackernews)
   * [Zotero](#zotero)
   * [DevDocs](#devdocs)
   * [Runme](#runme)
@@ -188,6 +189,10 @@
 - [pollen00/haste-nvim](https://github.com/pollen00/haste-nvim) ![](https://img.shields.io/github/stars/pollen00/haste-nvim) ![](https://img.shields.io/github/last-commit/pollen00/haste-nvim) ![](https://img.shields.io/github/commit-activity/y/pollen00/haste-nvim)
 
 #### TabNews
+
+#### HackerNews
+
+- [gnudad/hackernews.nvim](https://github.com/gnudad/hackernews.nvim) ![](https://img.shields.io/github/stars/gnudad/hackernews.nvim) ![](https://img.shields.io/github/last-commit/gnudad/hackernews.nvim) ![](https://img.shields.io/github/commit-activity/y/gnudad/hackernews.nvim)
 
 #### Zotero
 

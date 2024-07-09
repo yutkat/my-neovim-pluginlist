@@ -19,6 +19,7 @@
   * [Desktop Integration](#desktop-integration)
 - [Development environment](#development-environment)
   * [Shell](#shell)
+    + [bash](#bash)
     + [zsh](#zsh)
     + [fish](#fish)
     + [nushell](#nushell)
@@ -26,6 +27,7 @@
     + [Blender](#blender)
     + [Avalonia](#avalonia)
     + [Stata](#stata)
+  * [TUI](#tui)
   * [Terminal](#terminal)
     + [Kitty](#kitty)
       - [Image](#image)
@@ -142,6 +144,9 @@
 
 ### Shell
 
+#### bash
+
+- [Porter/bash_history.nvim](https://github.com/Porter/bash_history.nvim) ![](https://img.shields.io/github/stars/Porter/bash_history.nvim) ![](https://img.shields.io/github/last-commit/Porter/bash_history.nvim) ![](https://img.shields.io/github/commit-activity/y/Porter/bash_history.nvim)
 
 #### zsh
 
@@ -168,6 +173,10 @@
 #### Stata
 
 - [leerauljin/do-stata.nvim](https://github.com/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/stars/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/last-commit/leerauljin/do-stata.nvim) ![](https://img.shields.io/github/commit-activity/y/leerauljin/do-stata.nvim)
+
+### TUI
+
+- [samsze0/tui.nvim](https://github.com/samsze0/tui.nvim) ![](https://img.shields.io/github/stars/samsze0/tui.nvim) ![](https://img.shields.io/github/last-commit/samsze0/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/tui.nvim)
 
 ### Terminal
 
