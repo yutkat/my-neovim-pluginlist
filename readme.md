@@ -141,6 +141,8 @@
 - [GUI](#gui)
 - [External Tools](#external-tools)
 - [Service](#service)
+- [Music](#music)
+- [Animation](#animation)
 - [Toy](#toy)
 
 <!-- tocstop -->
@@ -560,5 +562,9 @@
 ## [External Tools](./external-tools.md)
 
 ## [Service](./service.md)
+
+## [Music](./music.md)
+
+## [Animation](./animation.md)
 
 ## [Toy](./toy.md)
