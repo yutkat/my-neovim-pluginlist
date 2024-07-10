@@ -111,6 +111,7 @@
 - [sagmansercan/nvim-llama](https://github.com/sagmansercan/nvim-llama) ![](https://img.shields.io/github/stars/sagmansercan/nvim-llama) ![](https://img.shields.io/github/last-commit/sagmansercan/nvim-llama) ![](https://img.shields.io/github/commit-activity/y/sagmansercan/nvim-llama)
 - [4onen/llama_nvim.nvim](https://github.com/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/stars/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/last-commit/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/4onen/llama_nvim.nvim)
 - [MathieuTuli/jarvis.nvim](https://github.com/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/stars/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/last-commit/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/MathieuTuli/jarvis.nvim)
+- [domgdsman/llmcopilot.nvim](https://github.com/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/stars/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/last-commit/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/commit-activity/y/domgdsman/llmcopilot.nvim)
 
 ### Ollama
 

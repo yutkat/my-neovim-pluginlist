@@ -142,6 +142,8 @@
 - [PaterJason/cmp-conjure](https://github.com/PaterJason/cmp-conjure) ![](https://img.shields.io/github/stars/PaterJason/cmp-conjure) ![](https://img.shields.io/github/last-commit/PaterJason/cmp-conjure) ![](https://img.shields.io/github/commit-activity/y/PaterJason/cmp-conjure)
 - [mikepjb/replica.nvim](https://github.com/mikepjb/replica.nvim) ![](https://img.shields.io/github/stars/mikepjb/replica.nvim) ![](https://img.shields.io/github/last-commit/mikepjb/replica.nvim) ![](https://img.shields.io/github/commit-activity/y/mikepjb/replica.nvim)
 - [AdeAttwood/nrepl.nvim](https://github.com/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/nrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/nrepl.nvim)
+- [PaterJason/nvim-nrepl](https://github.com/PaterJason/nvim-nrepl) ![](https://img.shields.io/github/stars/PaterJason/nvim-nrepl) ![](https://img.shields.io/github/last-commit/PaterJason/nvim-nrepl) ![](https://img.shields.io/github/commit-activity/y/PaterJason/nvim-nrepl)
+
 
 ### Erlang
 
