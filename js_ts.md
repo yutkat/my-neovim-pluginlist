@@ -149,6 +149,7 @@
 - [roycrippen4/package-info.nvim](https://github.com/roycrippen4/package-info.nvim) ![](https://img.shields.io/github/stars/roycrippen4/package-info.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/package-info.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/package-info.nvim)
 - [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) ![](https://img.shields.io/github/stars/diegofigs/npackages.nvim) ![](https://img.shields.io/github/last-commit/diegofigs/npackages.nvim) ![](https://img.shields.io/github/commit-activity/y/diegofigs/npackages.nvim)
 - [sajjathossain/nvim-npm](https://github.com/sajjathossain/nvim-npm) ![](https://img.shields.io/github/stars/sajjathossain/nvim-npm) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-npm) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-npm)
+- [maxolasersquad/npm-scripts.nvim](https://github.com/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/stars/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/last-commit/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/maxolasersquad/npm-scripts.nvim)
 
 #### pnpm
 

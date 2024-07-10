@@ -24,6 +24,7 @@
       - [Ninjas Facts](#ninjas-facts)
   * [Study](#study)
   * [Music](#music)
+    + [Apple music](#apple-music)
     + [Tidal](#tidal)
       - [MIDI](#midi)
       - [Morse](#morse)
@@ -180,6 +181,10 @@
 - [Leenuus/mpc.nvim](https://github.com/Leenuus/mpc.nvim) ![](https://img.shields.io/github/stars/Leenuus/mpc.nvim) ![](https://img.shields.io/github/last-commit/Leenuus/mpc.nvim) ![](https://img.shields.io/github/commit-activity/y/Leenuus/mpc.nvim)
 - [paulfrische/mpd.nvim](https://github.com/paulfrische/mpd.nvim) ![](https://img.shields.io/github/stars/paulfrische/mpd.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mpd.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mpd.nvim)
 - [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
+
+### Apple music
+
+- [p5quared/nvim-apple-music](https://github.com/p5quared/nvim-apple-music) ![](https://img.shields.io/github/stars/p5quared/nvim-apple-music) ![](https://img.shields.io/github/last-commit/p5quared/nvim-apple-music) ![](https://img.shields.io/github/commit-activity/y/p5quared/nvim-apple-music)
 
 ### Tidal
 
