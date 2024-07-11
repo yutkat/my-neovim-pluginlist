@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Cursor](#cursor)
+- [Cursor animation](#cursor-animation)
 - [Cursor position](#cursor-position)
 
 <!-- tocstop -->
@@ -17,6 +18,10 @@
 - [moyiz/command-and-cursor.nvim](https://github.com/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/stars/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/last-commit/moyiz/command-and-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/moyiz/command-and-cursor.nvim)
 - [adelarsq/snake_cursor.nvim](https://github.com/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/stars/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/snake_cursor.nvim)
 - [rlychrisg/cursorshine.nvim](https://github.com/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/stars/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/cursorshine.nvim)
+
+## Cursor animation
+
+- [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) ![](https://img.shields.io/github/stars/mei28/luminate.nvim) ![](https://img.shields.io/github/last-commit/mei28/luminate.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/luminate.nvim)
 
 ## Cursor position
 
