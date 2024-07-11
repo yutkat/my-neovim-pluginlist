@@ -6,6 +6,7 @@
   * [string](#string)
   * [console.log](#consolelog)
   * [export](#export)
+  * [index.js](#indexjs)
   * [Package](#package)
     + [i18next](#i18next)
 - [Toolchain](#toolchain)
@@ -74,6 +75,10 @@
 ### export
 
 - [OsmarJoseph/Export.nvim](https://github.com/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/stars/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/last-commit/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/commit-activity/y/OsmarJoseph/Export.nvim)
+
+### index.js
+
+- [try-to-fly/create-index.nvim](https://github.com/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/stars/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/create-index.nvim)
 
 ### Package
 

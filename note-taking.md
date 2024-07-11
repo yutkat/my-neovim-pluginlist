@@ -113,6 +113,7 @@
 - [petrisch/todo-nu-picker.nvim](https://github.com/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/stars/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/last-commit/petrisch/todo-nu-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/petrisch/todo-nu-picker.nvim)
 - [Lukaswe94/nvim-todo](https://github.com/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/stars/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/last-commit/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/Lukaswe94/nvim-todo)
 - [arthuradolfo/godo.nvim](https://github.com/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/stars/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/last-commit/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/commit-activity/y/arthuradolfo/godo.nvim)
+- [mlp1802/periscope.nvim](https://github.com/mlp1802/periscope.nvim) ![](https://img.shields.io/github/stars/mlp1802/periscope.nvim) ![](https://img.shields.io/github/last-commit/mlp1802/periscope.nvim) ![](https://img.shields.io/github/commit-activity/y/mlp1802/periscope.nvim)
 
 ### Taskwarrior
 
@@ -136,6 +137,7 @@
 - [magnusblondal/hux.nvim](https://github.com/magnusblondal/hux.nvim) ![](https://img.shields.io/github/stars/magnusblondal/hux.nvim) ![](https://img.shields.io/github/last-commit/magnusblondal/hux.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusblondal/hux.nvim)
 - [when-harry-met-sally/obsidian-plus.nvim](https://github.com/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/stars/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/last-commit/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/when-harry-met-sally/obsidian-plus.nvim)
 - [w40141/obsidian-daily-tweets.nvim](https://github.com/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/stars/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/last-commit/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/commit-activity/y/w40141/obsidian-daily-tweets.nvim)
+- [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
 
 ## Google Keep
 
