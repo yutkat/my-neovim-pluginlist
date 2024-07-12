@@ -16,6 +16,7 @@
 - [tummetott/reticle.nvim](https://github.com/tummetott/reticle.nvim) ![](https://img.shields.io/github/stars/tummetott/reticle.nvim) ![](https://img.shields.io/github/last-commit/tummetott/reticle.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/reticle.nvim)
 - [kellywashere/nvim-blackline](https://github.com/kellywashere/nvim-blackline) ![](https://img.shields.io/github/stars/kellywashere/nvim-blackline) ![](https://img.shields.io/github/last-commit/kellywashere/nvim-blackline) ![](https://img.shields.io/github/commit-activity/y/kellywashere/nvim-blackline)
 - [domsch1988/mattern.nvim](https://github.com/domsch1988/mattern.nvim) ![](https://img.shields.io/github/stars/domsch1988/mattern.nvim) ![](https://img.shields.io/github/last-commit/domsch1988/mattern.nvim) ![](https://img.shields.io/github/commit-activity/y/domsch1988/mattern.nvim)
+- [svampkorg/moody.nvim](https://github.com/svampkorg/moody.nvim) ![](https://img.shields.io/github/stars/svampkorg/moody.nvim) ![](https://img.shields.io/github/last-commit/svampkorg/moody.nvim) ![](https://img.shields.io/github/commit-activity/y/svampkorg/moody.nvim)
 
 ## Columnline
 
