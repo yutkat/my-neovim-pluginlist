@@ -58,6 +58,7 @@
 - [kiran94/maim.nvim](https://github.com/kiran94/maim.nvim) ![](https://img.shields.io/github/stars/kiran94/maim.nvim) ![](https://img.shields.io/github/last-commit/kiran94/maim.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/maim.nvim)
 - [TobinPalmer/rayso.nvim](https://github.com/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/rayso.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/rayso.nvim)
 - [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
+- [TymekDev/freeze.nvim](https://github.com/TymekDev/freeze.nvim) ![](https://img.shields.io/github/stars/TymekDev/freeze.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/freeze.nvim)
 
 ### Screen Key (Show Typing key)
 
