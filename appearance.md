@@ -23,9 +23,11 @@
 - [notomo/piemenu.nvim](https://github.com/notomo/piemenu.nvim) ![](https://img.shields.io/github/stars/notomo/piemenu.nvim) ![](https://img.shields.io/github/last-commit/notomo/piemenu.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/piemenu.nvim)
 - [meznaric/conmenu](https://github.com/meznaric/conmenu) ![](https://img.shields.io/github/stars/meznaric/conmenu) ![](https://img.shields.io/github/last-commit/meznaric/conmenu) ![](https://img.shields.io/github/commit-activity/y/meznaric/conmenu)
 - [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) ![](https://img.shields.io/github/stars/willothy/hollywood.nvim) ![](https://img.shields.io/github/last-commit/willothy/hollywood.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/hollywood.nvim)
+- [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/context-menu.nvim)
 
 ### Minimap
 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/gorbit99/codewindow.nvim)
 - [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) ![](https://img.shields.io/github/stars/ziontee113/neo-minimap) ![](https://img.shields.io/github/last-commit/ziontee113/neo-minimap) ![](https://img.shields.io/github/commit-activity/y/ziontee113/neo-minimap)
 - [echasnovski/mini.map](https://github.com/echasnovski/mini.map) ![](https://img.shields.io/github/stars/echasnovski/mini.map) ![](https://img.shields.io/github/last-commit/echasnovski/mini.map) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.map)
+- [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/stars/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/last-commit/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/commit-activity/y/Isrothy/neominimap.nvim)

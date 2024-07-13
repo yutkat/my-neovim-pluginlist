@@ -32,6 +32,7 @@
     + [MDX](#mdx)
     + [Marp](#marp)
   * [PlantUML](#plantuml)
+  * [Graphviz](#graphviz)
   * [AsciiDoc](#asciidoc)
   * [PDF](#pdf)
   * [EPUB](#epub)
@@ -67,6 +68,7 @@
 - [ray-x/mkdn.nvim](https://github.com/ray-x/mkdn.nvim) ![](https://img.shields.io/github/stars/ray-x/mkdn.nvim) ![](https://img.shields.io/github/last-commit/ray-x/mkdn.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/mkdn.nvim)
 - [batmikun/mactions.nvim](https://github.com/batmikun/mactions.nvim) ![](https://img.shields.io/github/stars/batmikun/mactions.nvim) ![](https://img.shields.io/github/last-commit/batmikun/mactions.nvim) ![](https://img.shields.io/github/commit-activity/y/batmikun/mactions.nvim)
 - [yuukibarns/markdown.nvim](https://github.com/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/stars/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/markdown.nvim)
+- [roodolv/markdown-toggle.nvim](https://github.com/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/stars/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/last-commit/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roodolv/markdown-toggle.nvim)
 
 #### Markdown link
 
@@ -244,6 +246,10 @@
 - [bnse/plantuml.nvim](https://github.com/bnse/plantuml.nvim) ![](https://img.shields.io/github/stars/bnse/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bnse/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bnse/plantuml.nvim)
 - [v1nh1shungry/plantuml-preview.nvim](https://github.com/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/plantuml-preview.nvim)
 - [bryangrimes/plantuml.nvim](https://github.com/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/stars/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bryangrimes/plantuml.nvim)
+
+### Graphviz
+
+- [izocha/graphviz.nvim](https://github.com/izocha/graphviz.nvim) ![](https://img.shields.io/github/stars/izocha/graphviz.nvim) ![](https://img.shields.io/github/last-commit/izocha/graphviz.nvim) ![](https://img.shields.io/github/commit-activity/y/izocha/graphviz.nvim)
 
 ### AsciiDoc
 

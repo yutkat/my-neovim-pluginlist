@@ -99,6 +99,7 @@
 - [ll-nick/mrt.nvim](https://github.com/ll-nick/mrt.nvim) ![](https://img.shields.io/github/stars/ll-nick/mrt.nvim) ![](https://img.shields.io/github/last-commit/ll-nick/mrt.nvim) ![](https://img.shields.io/github/commit-activity/y/ll-nick/mrt.nvim)
 - [4542elgh/telescope-arsenal.nvim](https://github.com/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/stars/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/last-commit/4542elgh/telescope-arsenal.nvim) ![](https://img.shields.io/github/commit-activity/y/4542elgh/telescope-arsenal.nvim)
 - [gloggers99/build.nvim](https://github.com/gloggers99/build.nvim) ![](https://img.shields.io/github/stars/gloggers99/build.nvim) ![](https://img.shields.io/github/last-commit/gloggers99/build.nvim) ![](https://img.shields.io/github/commit-activity/y/gloggers99/build.nvim)
+- [M4rti21/compi.nvim](https://github.com/M4rti21/compi.nvim) ![](https://img.shields.io/github/stars/M4rti21/compi.nvim) ![](https://img.shields.io/github/last-commit/M4rti21/compi.nvim) ![](https://img.shields.io/github/commit-activity/y/M4rti21/compi.nvim)
 
 ### Shell
 
