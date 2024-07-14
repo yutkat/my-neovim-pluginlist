@@ -9,6 +9,7 @@
   * [Image](#image)
   * [Video](#video)
   * [Game](#game)
+    + [Tetris](#tetris)
     + [Typing](#typing)
     + [FiveM](#fivem)
   * [Gaming](#gaming)
@@ -73,6 +74,10 @@
 - [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) ![](https://img.shields.io/github/stars/rktjmp/playtime.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/playtime.nvim)
 - [FireIsGood/pond.nvim](https://github.com/FireIsGood/pond.nvim) ![](https://img.shields.io/github/stars/FireIsGood/pond.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/pond.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/pond.nvim)
+
+### Tetris
+
+- [jayanthd04/asctris.nvim](https://github.com/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/stars/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/last-commit/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/commit-activity/y/jayanthd04/asctris.nvim)
 
 ### Typing
 

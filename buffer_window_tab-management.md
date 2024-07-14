@@ -20,6 +20,7 @@
   * [Scratch Buffer](#scratch-buffer)
   * [Scratchpad](#scratchpad)
   * [buffer Sharing](#buffer-sharing)
+  * [Move history](#move-history)
 - [Window](#window)
   * [Window Switcher](#window-switcher)
   * [Window Management](#window-management)
@@ -159,6 +160,7 @@
 - [pablopunk/unclutter.nvim](https://github.com/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/stars/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/unclutter.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/unclutter.nvim)
 - [dseum/window.nvim](https://github.com/dseum/window.nvim) ![](https://img.shields.io/github/stars/dseum/window.nvim) ![](https://img.shields.io/github/last-commit/dseum/window.nvim) ![](https://img.shields.io/github/commit-activity/y/dseum/window.nvim)
 - [senkentarou/close_buffer.nvim](https://github.com/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/stars/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/close_buffer.nvim)
+- [radioactivepb/smartclose.nvim](https://github.com/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/stars/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/smartclose.nvim)
 
 #### auto close
 
@@ -206,6 +208,10 @@
 ### buffer Sharing
 
 - [tomiis4/BufEx.nvim](https://github.com/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/stars/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/last-commit/tomiis4/BufEx.nvim) ![](https://img.shields.io/github/commit-activity/y/tomiis4/BufEx.nvim)
+
+### Move history
+
+- [FaisonZ/bring-a-map.nvim](https://github.com/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/stars/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/last-commit/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/commit-activity/y/FaisonZ/bring-a-map.nvim)
 
 ## Window
 

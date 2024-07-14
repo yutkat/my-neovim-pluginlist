@@ -75,6 +75,7 @@
 - [Omixxx/pastelli.nvim](https://github.com/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/stars/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/last-commit/Omixxx/pastelli.nvim) ![](https://img.shields.io/github/commit-activity/y/Omixxx/pastelli.nvim)
 - [kolja/loriini.nvim](https://github.com/kolja/loriini.nvim) ![](https://img.shields.io/github/stars/kolja/loriini.nvim) ![](https://img.shields.io/github/last-commit/kolja/loriini.nvim) ![](https://img.shields.io/github/commit-activity/y/kolja/loriini.nvim)
 - [petraszd/telescope-file-colors.nvim](https://github.com/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/stars/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/last-commit/petraszd/telescope-file-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/petraszd/telescope-file-colors.nvim)
+- [wsdjeg/cpicker.nvim](https://github.com/wsdjeg/cpicker.nvim) ![](https://img.shields.io/github/stars/wsdjeg/cpicker.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/cpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/cpicker.nvim)
 
 ### ANSI Colorize
 
