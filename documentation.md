@@ -191,6 +191,7 @@
 
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 - [DiegoMoralesRoman/MDInlineRunner.nvim](https://github.com/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/stars/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/last-commit/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/DiegoMoralesRoman/MDInlineRunner.nvim)
+- [flexphere/mdrun.nvim](https://github.com/flexphere/mdrun.nvim) ![](https://img.shields.io/github/stars/flexphere/mdrun.nvim) ![](https://img.shields.io/github/last-commit/flexphere/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/mdrun.nvim)
 
 #### Styling
 
