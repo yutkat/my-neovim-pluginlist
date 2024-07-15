@@ -39,6 +39,7 @@
 - [stefanlogue/hydrate.nvim](https://github.com/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/stars/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/hydrate.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/hydrate.nvim)
 - [ryand67/focuswatch.nvim](https://github.com/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/stars/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/last-commit/ryand67/focuswatch.nvim) ![](https://img.shields.io/github/commit-activity/y/ryand67/focuswatch.nvim)
 - [mana-byte/time-to-sleep.nvim](https://github.com/mana-byte/time-to-sleep.nvim) ![](https://img.shields.io/github/stars/mana-byte/time-to-sleep.nvim) ![](https://img.shields.io/github/last-commit/mana-byte/time-to-sleep.nvim) ![](https://img.shields.io/github/commit-activity/y/mana-byte/time-to-sleep.nvim)
+- [rodolfojsv/reminders.nvim](https://github.com/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/reminders.nvim)
 
 ## Timer
 

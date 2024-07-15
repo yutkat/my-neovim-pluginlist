@@ -24,6 +24,7 @@
 - [chrisgrieser/nvim-origami](https://github.com/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-origami) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-origami)
 - [gbirke/telescope-foldmarkers.nvim](https://github.com/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/stars/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/last-commit/gbirke/telescope-foldmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/gbirke/telescope-foldmarkers.nvim)
 - [gh-liu/fold_line.nvim](https://github.com/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/stars/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/fold_line.nvim)
+- [OXY2DEV/foldtext.nvim](https://github.com/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/foldtext.nvim)
 
 ## Conceal
 
