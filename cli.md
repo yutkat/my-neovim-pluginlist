@@ -29,6 +29,7 @@
   * [perf](#perf)
   * [dotnet](#dotnet)
     + [Nuget](#nuget)
+  * [ssh](#ssh)
   * [ftp](#ftp)
   * [rsync](#rsync)
   * [curl](#curl)
@@ -78,6 +79,7 @@
 - [mimre25/tmux-telescope-picker.nvim](https://github.com/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/stars/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/last-commit/mimre25/tmux-telescope-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/tmux-telescope-picker.nvim)
 - [karshPrime/tmux-compile.nvim](https://github.com/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/stars/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/last-commit/karshPrime/tmux-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/karshPrime/tmux-compile.nvim)
 - [karshPrime/only-tmux.nvim](https://github.com/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/stars/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/last-commit/karshPrime/only-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/karshPrime/only-tmux.nvim)
+- [dkooll/tmuxer.nvim](https://github.com/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/stars/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/tmuxer.nvim)
 
 ##### tmux alternative
 
@@ -210,6 +212,10 @@
 
 - [pgdanes/nug.nvim](https://github.com/pgdanes/nug.nvim) ![](https://img.shields.io/github/stars/pgdanes/nug.nvim) ![](https://img.shields.io/github/last-commit/pgdanes/nug.nvim) ![](https://img.shields.io/github/commit-activity/y/pgdanes/nug.nvim)
 
+#### ssh
+
+- [thiru/telescope-ssh.nvim](https://github.com/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/stars/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/last-commit/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/telescope-ssh.nvim)
+
 #### ftp
 
 - [SDGLBL/nvim-sync.nvim](https://github.com/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/stars/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/nvim-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/nvim-sync.nvim)
@@ -311,3 +317,4 @@
 - [h4ckm1n-dev/kube-utils-nvim](https://github.com/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/stars/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/last-commit/h4ckm1n-dev/kube-utils-nvim) ![](https://img.shields.io/github/commit-activity/y/h4ckm1n-dev/kube-utils-nvim)
 - [Ramilito/kubectl.nvim](https://github.com/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/stars/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/kubectl.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/kubectl.nvim)
 - [anasinnyk/nvim-k8s-crd](https://github.com/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/stars/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/last-commit/anasinnyk/nvim-k8s-crd) ![](https://img.shields.io/github/commit-activity/y/anasinnyk/nvim-k8s-crd)
+- [mimparat132/kube.nvim](https://github.com/mimparat132/kube.nvim) ![](https://img.shields.io/github/stars/mimparat132/kube.nvim) ![](https://img.shields.io/github/last-commit/mimparat132/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/mimparat132/kube.nvim)

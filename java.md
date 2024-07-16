@@ -4,6 +4,7 @@
 
 - [Java](#java)
   * [rename](#rename)
+  * [method](#method)
   * [Debugger](#debugger)
   * [Maven](#maven)
   * [Gradle](#gradle)
@@ -31,6 +32,10 @@
 ### rename
 
 - [simaxme/java-rename.nvim](https://github.com/simaxme/java-rename.nvim) ![](https://img.shields.io/github/stars/simaxme/java-rename.nvim) ![](https://img.shields.io/github/last-commit/simaxme/java-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/simaxme/java-rename.nvim)
+
+### method
+
+- [jkeresman01/java-method-search.nvim](https://github.com/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-method-search.nvim)
 
 ### Debugger
 

@@ -113,6 +113,7 @@
 - [4onen/llama_nvim.nvim](https://github.com/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/stars/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/last-commit/4onen/llama_nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/4onen/llama_nvim.nvim)
 - [MathieuTuli/jarvis.nvim](https://github.com/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/stars/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/last-commit/MathieuTuli/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/MathieuTuli/jarvis.nvim)
 - [domgdsman/llmcopilot.nvim](https://github.com/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/stars/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/last-commit/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/commit-activity/y/domgdsman/llmcopilot.nvim)
+- [justinhj/chatty-ai.nvim](https://github.com/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai.nvim)
 
 ### Ollama
 
@@ -128,6 +129,7 @@
 - [meeehdi-dev/bropilot.nvim](https://github.com/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/stars/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/last-commit/meeehdi-dev/bropilot.nvim) ![](https://img.shields.io/github/commit-activity/y/meeehdi-dev/bropilot.nvim)
 - [Prometheus1400/ollama-pilot.nvim](https://github.com/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/stars/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/last-commit/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Prometheus1400/ollama-pilot.nvim)
 - [magicalne/fim.nvim](https://github.com/magicalne/fim.nvim) ![](https://img.shields.io/github/stars/magicalne/fim.nvim) ![](https://img.shields.io/github/last-commit/magicalne/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/magicalne/fim.nvim)
+- [oxatruchdev/ollama.nvim](https://github.com/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/stars/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/last-commit/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/oxatruchdev/ollama.nvim)
 
 ### Claude
 
