@@ -186,6 +186,7 @@
 - [shaneworld/NeoTabulator.nvim](https://github.com/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/stars/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/last-commit/shaneworld/NeoTabulator.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneworld/NeoTabulator.nvim)
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) ![](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/easytables.nvim)
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/markdown-table-mode.nvim)
+- [qaptoR-nvim/fantableous.nvim](https://github.com/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/stars/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/last-commit/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/commit-activity/y/qaptoR-nvim/fantableous.nvim)
 
 #### Markdown evaluate code
 

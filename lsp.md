@@ -152,6 +152,7 @@
 - [jan-xyz/lsp-preview.nvim](https://github.com/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/stars/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/last-commit/jan-xyz/lsp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/jan-xyz/lsp-preview.nvim)
 - [crwebb85/mark-code-action.nvim](https://github.com/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/stars/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/last-commit/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/commit-activity/y/crwebb85/mark-code-action.nvim)
 - [Chaitanyabsprip/fastaction.nvim](https://github.com/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/fastaction.nvim)
+- [neovim-plugin/lightbulb.nvim](https://github.com/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/lightbulb.nvim)
 
 #### Hint
 
