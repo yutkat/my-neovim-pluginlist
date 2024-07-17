@@ -43,6 +43,7 @@
 - [Wansmer/binary-swap.nvim](https://github.com/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/binary-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/binary-swap.nvim)
 - [Wansmer/sibling-swap.nvim](https://github.com/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/stars/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/sibling-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/sibling-swap.nvim)
 - [xlboy/swap-ternary.nvim](https://github.com/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/stars/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/last-commit/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/swap-ternary.nvim)
+- [haolian9/textswap.nvim](https://github.com/haolian9/textswap.nvim) ![](https://img.shields.io/github/stars/haolian9/textswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/textswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/textswap.nvim)
 
 ### Duplicate
 
