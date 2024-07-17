@@ -118,6 +118,7 @@
 - [kyoh86/backgroundfile.nvim](https://github.com/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/stars/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/backgroundfile.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/backgroundfile.nvim)
 - [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) ![](https://img.shields.io/github/stars/ofirgall/open.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/open.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/open.nvim)
 - [zakissimo/hook.nvim](https://github.com/zakissimo/hook.nvim) ![](https://img.shields.io/github/stars/zakissimo/hook.nvim) ![](https://img.shields.io/github/last-commit/zakissimo/hook.nvim) ![](https://img.shields.io/github/commit-activity/y/zakissimo/hook.nvim)
+- [lorentzforces/rectify-buffers.nvim](https://github.com/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/stars/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/last-commit/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/lorentzforces/rectify-buffers.nvim)
 
 ##### recent file
 

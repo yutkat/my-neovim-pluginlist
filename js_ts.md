@@ -68,6 +68,7 @@
 - [fmillone/string-quotes.nvim](https://github.com/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/stars/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/last-commit/fmillone/string-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/string-quotes.nvim)
 - [rxtsel/template-string.nvim](https://github.com/rxtsel/template-string.nvim) ![](https://img.shields.io/github/stars/rxtsel/template-string.nvim) ![](https://img.shields.io/github/last-commit/rxtsel/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/rxtsel/template-string.nvim)
 - [aaaaargZombies/webcomponent-template-editor.nvim](https://github.com/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/webcomponent-template-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/webcomponent-template-editor.nvim)
+- [HSMF/autotemplate.nvim](https://github.com/HSMF/autotemplate.nvim) ![](https://img.shields.io/github/stars/HSMF/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/HSMF/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/autotemplate.nvim)
 
 ### import
 
@@ -164,6 +165,7 @@
 #### pnpm
 
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
+- [m-jovan/telescope-pnpm-workspace.nvim](https://github.com/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/stars/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/last-commit/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/m-jovan/telescope-pnpm-workspace.nvim)
 
 #### Biome
 
@@ -271,6 +273,7 @@
 
 - [weskeiser/svelte-hop.nvim](https://github.com/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/stars/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/last-commit/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/weskeiser/svelte-hop.nvim)
 - [StephenGunn/sveltecheck.nvim](https://github.com/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/stars/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/last-commit/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/StephenGunn/sveltecheck.nvim)
+- [jamesblckwell/nvimkit.nvim](https://github.com/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/stars/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/last-commit/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesblckwell/nvimkit.nvim)
 
 ### Node.js
 
