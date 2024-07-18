@@ -79,6 +79,7 @@
 - [yutkat/confirm-quit.nvim](https://github.com/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/stars/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/last-commit/yutkat/confirm-quit.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/confirm-quit.nvim)
 - [haolian9/barrier.nvim](https://github.com/haolian9/barrier.nvim) ![](https://img.shields.io/github/stars/haolian9/barrier.nvim) ![](https://img.shields.io/github/last-commit/haolian9/barrier.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/barrier.nvim)
 - [Dillonb/betterquit.nvim](https://github.com/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/stars/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/last-commit/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/commit-activity/y/Dillonb/betterquit.nvim)
+- [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
 
 ## Multiple Command
 

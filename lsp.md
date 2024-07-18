@@ -29,6 +29,7 @@
   * [Get LSP Client](#get-lsp-client)
   * [LSP timeout](#lsp-timeout)
   * [LSP Log](#lsp-log)
+    + [Debug](#debug)
   * [Local LSP Config](#local-lsp-config)
 - [Command](#command)
   * [Disable/Enable](#disableenable)
@@ -240,6 +241,10 @@
 
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/stars/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/output-panel.nvim)
 - [WillLillis/lsploghover.nvim](https://github.com/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/stars/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/last-commit/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/commit-activity/y/WillLillis/lsploghover.nvim)
+
+#### Debug
+
+- [Diltsman/nvim-lsp-debug](https://github.com/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/stars/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/last-commit/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/commit-activity/y/Diltsman/nvim-lsp-debug)
 
 ### Local LSP Config
 
