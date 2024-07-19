@@ -9,6 +9,7 @@
 - [Auto insert semicolon](#auto-insert-semicolon)
 - [Auto convert](#auto-convert)
 - [List](#list)
+- [random string](#random-string)
 
 <!-- tocstop -->
 
@@ -64,3 +65,7 @@
 ## List
 
 - [haolian9/buds.nvim](https://github.com/haolian9/buds.nvim) ![](https://img.shields.io/github/stars/haolian9/buds.nvim) ![](https://img.shields.io/github/last-commit/haolian9/buds.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/buds.nvim)
+
+## random string
+
+- [benjaminshawki/nvim-random-id](https://github.com/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/stars/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/last-commit/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/commit-activity/y/benjaminshawki/nvim-random-id)
