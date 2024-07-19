@@ -68,6 +68,7 @@
 - [NTBBloodbath/logging.nvim](https://github.com/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/stars/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/logging.nvim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/logging.nvim)
 - [jnpngshiii/logger.nvim](https://github.com/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/stars/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/last-commit/jnpngshiii/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/jnpngshiii/logger.nvim)
 - [ursuscamp/slf.nvim](https://github.com/ursuscamp/slf.nvim) ![](https://img.shields.io/github/stars/ursuscamp/slf.nvim) ![](https://img.shields.io/github/last-commit/ursuscamp/slf.nvim) ![](https://img.shields.io/github/commit-activity/y/ursuscamp/slf.nvim)
+- [enrodpre/logging.nvim](https://github.com/enrodpre/logging.nvim) ![](https://img.shields.io/github/stars/enrodpre/logging.nvim) ![](https://img.shields.io/github/last-commit/enrodpre/logging.nvim) ![](https://img.shields.io/github/commit-activity/y/enrodpre/logging.nvim)
 
 ## async
 

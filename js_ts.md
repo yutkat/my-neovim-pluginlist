@@ -15,6 +15,8 @@
   * [Type check](#type-check)
   * [eslint](#eslint)
   * [Formatter](#formatter)
+  * [Lint](#lint)
+    + [eslint](#eslint-1)
   * [tsserver](#tsserver)
   * [Typst preview](#typst-preview)
   * [JSON](#json)
@@ -114,6 +116,12 @@
 
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/stars/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/last-commit/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/prettierrc.nvim)
+
+### Lint
+
+#### eslint
+
+- [ceceppa/lint.nvim](https://github.com/ceceppa/lint.nvim) ![](https://img.shields.io/github/stars/ceceppa/lint.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/lint.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/lint.nvim)
 
 ### tsserver
 
