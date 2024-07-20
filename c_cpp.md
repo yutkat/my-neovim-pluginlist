@@ -24,6 +24,7 @@
     + [include](#include)
 - [PlatformIO](#platformio)
 - [ASM](#asm)
+- [Linux kernel development](#linux-kernel-development)
 
 <!-- tocstop -->
 
@@ -144,4 +145,8 @@
 ## ASM
 
 - [kamoshi/disasm.nvim](https://github.com/kamoshi/disasm.nvim) ![](https://img.shields.io/github/stars/kamoshi/disasm.nvim) ![](https://img.shields.io/github/last-commit/kamoshi/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/kamoshi/disasm.nvim)
+
+## Linux kernel development
+
+- [Daparrag/Linux-sty-pluging.nvim](https://github.com/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/stars/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/last-commit/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/commit-activity/y/Daparrag/Linux-sty-pluging.nvim)
 

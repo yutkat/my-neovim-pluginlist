@@ -33,6 +33,7 @@
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) ![](https://img.shields.io/github/stars/jbyuki/instant.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/instant.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/instant.nvim)
 - [pkage/coauthor.nvim](https://github.com/pkage/coauthor.nvim) ![](https://img.shields.io/github/stars/pkage/coauthor.nvim) ![](https://img.shields.io/github/last-commit/pkage/coauthor.nvim) ![](https://img.shields.io/github/commit-activity/y/pkage/coauthor.nvim)
 - [skeletony007/pair.nvim](https://github.com/skeletony007/pair.nvim) ![](https://img.shields.io/github/stars/skeletony007/pair.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/pair.nvim)
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) ![](https://img.shields.io/github/stars/azratul/live-share.nvim) ![](https://img.shields.io/github/last-commit/azratul/live-share.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/live-share.nvim)
 
 ### IDE feature
 

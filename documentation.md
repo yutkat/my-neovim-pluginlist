@@ -83,6 +83,7 @@
 - [Nedra1998/nvim-mdlink](https://github.com/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/stars/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/last-commit/Nedra1998/nvim-mdlink) ![](https://img.shields.io/github/commit-activity/y/Nedra1998/nvim-mdlink)
 - [alexhokl/nvim-md-open-link](https://github.com/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-open-link)
 - [samerickson/markdown-title-fetch.nvim](https://github.com/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/stars/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/last-commit/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/samerickson/markdown-title-fetch.nvim)
+- [Praczet/markdown-links.nvim](https://github.com/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/stars/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/markdown-links.nvim)
 
 #### Markdown header
 
