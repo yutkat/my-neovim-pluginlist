@@ -105,6 +105,7 @@
 - [oonamo/manage-my-colors.nvim](https://github.com/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/stars/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/last-commit/oonamo/manage-my-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/oonamo/manage-my-colors.nvim)
 - [harrisonbierman/picasso.nvim](https://github.com/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/stars/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/last-commit/harrisonbierman/picasso.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisonbierman/picasso.nvim)
 - [kutiny/colors.nvim](https://github.com/kutiny/colors.nvim) ![](https://img.shields.io/github/stars/kutiny/colors.nvim) ![](https://img.shields.io/github/last-commit/kutiny/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/kutiny/colors.nvim)
+- [felipesere/darkmode.nvim](https://github.com/felipesere/darkmode.nvim) ![](https://img.shields.io/github/stars/felipesere/darkmode.nvim) ![](https://img.shields.io/github/last-commit/felipesere/darkmode.nvim) ![](https://img.shields.io/github/commit-activity/y/felipesere/darkmode.nvim)
 
 ### Colorscheme overwrite
 
