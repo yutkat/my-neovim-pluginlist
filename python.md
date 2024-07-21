@@ -61,6 +61,7 @@
 
 - [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/commit-activity/y/stevanmilic/nvim-lspimport)
 - [kiyoon/python-import.nvim](https://github.com/kiyoon/python-import.nvim) ![](https://img.shields.io/github/stars/kiyoon/python-import.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/python-import.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/python-import.nvim)
+- [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/pymple.nvim)
 
 #### REPL
 

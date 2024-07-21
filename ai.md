@@ -94,6 +94,7 @@
 - [bakks/butterfish.nvim](https://github.com/bakks/butterfish.nvim) ![](https://img.shields.io/github/stars/bakks/butterfish.nvim) ![](https://img.shields.io/github/last-commit/bakks/butterfish.nvim) ![](https://img.shields.io/github/commit-activity/y/bakks/butterfish.nvim)
 - [melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim) ![](https://img.shields.io/github/stars/melbaldove/llm.nvim) ![](https://img.shields.io/github/last-commit/melbaldove/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/melbaldove/llm.nvim)
 - [Aaronik/GPTModels.nvim](https://github.com/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/stars/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/last-commit/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/commit-activity/y/Aaronik/GPTModels.nvim)
+- [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/last-commit/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/milanglacier/minuet-ai.nvim)
 
 #### Generate Doc
 
