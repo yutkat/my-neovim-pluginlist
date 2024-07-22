@@ -84,6 +84,8 @@
 - [echasnovski/mini-git](https://github.com/echasnovski/mini-git) ![](https://img.shields.io/github/stars/echasnovski/mini-git) ![](https://img.shields.io/github/last-commit/echasnovski/mini-git) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini-git)
 - [Kibadda/git.nvim](https://github.com/Kibadda/git.nvim) ![](https://img.shields.io/github/stars/Kibadda/git.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/git.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/git.nvim)
 - [DannickBedard/githelper.nvim](https://github.com/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/stars/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/last-commit/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/commit-activity/y/DannickBedard/githelper.nvim)
+- [muryp/muryp-git.nvim](https://github.com/muryp/muryp-git.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-git.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-git.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-git.nvim)
+- [teddybear0430/git.nvim](https://github.com/teddybear0430/git.nvim) ![](https://img.shields.io/github/stars/teddybear0430/git.nvim) ![](https://img.shields.io/github/last-commit/teddybear0430/git.nvim) ![](https://img.shields.io/github/commit-activity/y/teddybear0430/git.nvim)
 
 ## gitui
 

@@ -139,6 +139,7 @@
 - [mikemcbride/telescope-mru.nvim](https://github.com/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/stars/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/last-commit/mikemcbride/telescope-mru.nvim) ![](https://img.shields.io/github/commit-activity/y/mikemcbride/telescope-mru.nvim)
 - [ingur/captain.nvim](https://github.com/ingur/captain.nvim) ![](https://img.shields.io/github/stars/ingur/captain.nvim) ![](https://img.shields.io/github/last-commit/ingur/captain.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/captain.nvim)
 - [tomimara52/nvim-bufbox](https://github.com/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/stars/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/last-commit/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/commit-activity/y/tomimara52/nvim-bufbox)
+- [iamyoki/buffer-reopen.nvim](https://github.com/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/stars/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/last-commit/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/commit-activity/y/iamyoki/buffer-reopen.nvim)
 
 ##### remote open
 
