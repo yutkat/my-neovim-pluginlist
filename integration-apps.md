@@ -317,6 +317,7 @@
 - [MagicMarvel/smart-im-select.nvim](https://github.com/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/stars/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/last-commit/MagicMarvel/smart-im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicMarvel/smart-im-select.nvim)
 - [puddings233/fcitx5-switcher.nvim](https://github.com/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/stars/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/last-commit/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/puddings233/fcitx5-switcher.nvim)
 - [DeccanLin/im-select.nvim](https://github.com/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/stars/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/last-commit/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/DeccanLin/im-select.nvim)
+- [Freed-Wu/ime.nvim](https://github.com/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/ime.nvim)
 
 #### Fcitx
 
