@@ -78,6 +78,7 @@
 - [z0rzi/open-from-chrome.nvim](https://github.com/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/stars/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/open-from-chrome.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/open-from-chrome.nvim)
 - [andrewwillette/open.nvim](https://github.com/andrewwillette/open.nvim) ![](https://img.shields.io/github/stars/andrewwillette/open.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/open.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/open.nvim)
 - [wallpants/napoleon.nvim](https://github.com/wallpants/napoleon.nvim) ![](https://img.shields.io/github/stars/wallpants/napoleon.nvim) ![](https://img.shields.io/github/last-commit/wallpants/napoleon.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/napoleon.nvim)
+- [ridulfo/browse.nvim](https://github.com/ridulfo/browse.nvim) ![](https://img.shields.io/github/stars/ridulfo/browse.nvim) ![](https://img.shields.io/github/last-commit/ridulfo/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/ridulfo/browse.nvim)
 
 #### url open
 
