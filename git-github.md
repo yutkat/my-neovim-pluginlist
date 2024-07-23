@@ -38,6 +38,7 @@
   * [Change](#change)
   * [flow](#flow)
 - [Jujutsu(jj)](#jujutsujj)
+  * [diff](#diff)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
     + [Notify](#notify)
@@ -280,6 +281,11 @@
 # Jujutsu(jj)
 
 - [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
+
+## diff
+
+- [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
+
 
 # GitHub
 
