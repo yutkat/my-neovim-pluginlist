@@ -75,6 +75,7 @@
 - [presindent/coddit.nvim](https://github.com/presindent/coddit.nvim) ![](https://img.shields.io/github/stars/presindent/coddit.nvim) ![](https://img.shields.io/github/last-commit/presindent/coddit.nvim) ![](https://img.shields.io/github/commit-activity/y/presindent/coddit.nvim)
 - [yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/stars/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/last-commit/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/yacineMTB/dingllm.nvim)
 - [chottolabs/kznllm.nvim](https://github.com/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/stars/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/last-commit/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/commit-activity/y/chottolabs/kznllm.nvim)
+- [evanmcneely/enlighten.nvim](https://github.com/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/stars/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/last-commit/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcneely/enlighten.nvim)
 
 #### log
 

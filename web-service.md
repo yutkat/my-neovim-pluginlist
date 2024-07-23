@@ -229,6 +229,7 @@
 #### CircleCI
 
 - [tomoakley/circleci.nvim](https://github.com/tomoakley/circleci.nvim) ![](https://img.shields.io/github/stars/tomoakley/circleci.nvim) ![](https://img.shields.io/github/last-commit/tomoakley/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/tomoakley/circleci.nvim)
+- [ismailshak/circleci.nvim](https://github.com/ismailshak/circleci.nvim) ![](https://img.shields.io/github/stars/ismailshak/circleci.nvim) ![](https://img.shields.io/github/last-commit/ismailshak/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/ismailshak/circleci.nvim)
 
 #### Nx
 

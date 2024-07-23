@@ -98,6 +98,7 @@
 - [Simondp/nvim-file_navigator](https://github.com/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/stars/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/last-commit/Simondp/nvim-file_navigator) ![](https://img.shields.io/github/commit-activity/y/Simondp/nvim-file_navigator)
 - [nvim-jo/file-browser.nvim](https://github.com/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/stars/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/file-browser.nvim)
 - [night0721/ccc.nvim](https://github.com/night0721/ccc.nvim) ![](https://img.shields.io/github/stars/night0721/ccc.nvim) ![](https://img.shields.io/github/last-commit/night0721/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/night0721/ccc.nvim)
+- [youguanxinqing/find-file.nvim](https://github.com/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/find-file.nvim)
 
 ## Emacs style
 
