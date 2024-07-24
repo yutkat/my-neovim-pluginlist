@@ -6,7 +6,7 @@
   * [OpenAI](#openai)
     + [log](#log)
   * [Gemini](#gemini)
-  * [LLM](#llm)
+  * [Multi LLM](#multi-llm)
     + [Generate Doc](#generate-doc)
       - [Mintlify Writer](#mintlify-writer)
   * [Llama](#llama)
@@ -88,7 +88,7 @@
 - [airpods69/yagp.nvim](https://github.com/airpods69/yagp.nvim) ![](https://img.shields.io/github/stars/airpods69/yagp.nvim) ![](https://img.shields.io/github/last-commit/airpods69/yagp.nvim) ![](https://img.shields.io/github/commit-activity/y/airpods69/yagp.nvim)
 - [meinside/gemini.nvim](https://github.com/meinside/gemini.nvim) ![](https://img.shields.io/github/stars/meinside/gemini.nvim) ![](https://img.shields.io/github/last-commit/meinside/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/gemini.nvim)
 
-### LLM
+### Multi LLM
 
 - [David-Kunz/gen.nvim](https://github.com/David-Kunz/gen.nvim) ![](https://img.shields.io/github/stars/David-Kunz/gen.nvim) ![](https://img.shields.io/github/last-commit/David-Kunz/gen.nvim) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/gen.nvim)
 - [martinra/facileLLM.nvim](https://github.com/martinra/facileLLM.nvim) ![](https://img.shields.io/github/stars/martinra/facileLLM.nvim) ![](https://img.shields.io/github/last-commit/martinra/facileLLM.nvim) ![](https://img.shields.io/github/commit-activity/y/martinra/facileLLM.nvim)
@@ -96,6 +96,8 @@
 - [melbaldove/llm.nvim](https://github.com/melbaldove/llm.nvim) ![](https://img.shields.io/github/stars/melbaldove/llm.nvim) ![](https://img.shields.io/github/last-commit/melbaldove/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/melbaldove/llm.nvim)
 - [Aaronik/GPTModels.nvim](https://github.com/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/stars/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/last-commit/Aaronik/GPTModels.nvim) ![](https://img.shields.io/github/commit-activity/y/Aaronik/GPTModels.nvim)
 - [milanglacier/minuet-ai.nvim](https://github.com/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/stars/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/last-commit/milanglacier/minuet-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/milanglacier/minuet-ai.nvim)
+- [flatplate/elelem.nvim](https://github.com/flatplate/elelem.nvim) ![](https://img.shields.io/github/stars/flatplate/elelem.nvim) ![](https://img.shields.io/github/last-commit/flatplate/elelem.nvim) ![](https://img.shields.io/github/commit-activity/y/flatplate/elelem.nvim)
+- [natixgroup/code-ai.nvim](https://github.com/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/stars/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/last-commit/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/natixgroup/code-ai.nvim)
 
 #### Generate Doc
 

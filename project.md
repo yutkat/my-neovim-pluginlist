@@ -41,6 +41,7 @@
 - [FireIsGood/spaceman.nvim](https://github.com/FireIsGood/spaceman.nvim) ![](https://img.shields.io/github/stars/FireIsGood/spaceman.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/spaceman.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/spaceman.nvim)
 - [truongnd98/project-manager.nvim](https://github.com/truongnd98/project-manager.nvim) ![](https://img.shields.io/github/stars/truongnd98/project-manager.nvim) ![](https://img.shields.io/github/last-commit/truongnd98/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/truongnd98/project-manager.nvim)
 - [ceceppa/projects.nvim](https://github.com/ceceppa/projects.nvim) ![](https://img.shields.io/github/stars/ceceppa/projects.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/projects.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/projects.nvim)
+- [JohanChane/wsnavigator.nvim](https://github.com/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/stars/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/last-commit/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/JohanChane/wsnavigator.nvim)
 
 #### Project Root Detector
 
