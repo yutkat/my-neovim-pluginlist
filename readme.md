@@ -348,6 +348,7 @@
 - [IdoKendo/synonym.nvim](https://github.com/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/stars/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/last-commit/IdoKendo/synonym.nvim) ![](https://img.shields.io/github/commit-activity/y/IdoKendo/synonym.nvim)
 - [manning390/wrd.nvim](https://github.com/manning390/wrd.nvim) ![](https://img.shields.io/github/stars/manning390/wrd.nvim) ![](https://img.shields.io/github/last-commit/manning390/wrd.nvim) ![](https://img.shields.io/github/commit-activity/y/manning390/wrd.nvim)
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
+- [pythonmcpi/define.nvim](https://github.com/pythonmcpi/define.nvim) ![](https://img.shields.io/github/stars/pythonmcpi/define.nvim) ![](https://img.shields.io/github/last-commit/pythonmcpi/define.nvim) ![](https://img.shields.io/github/commit-activity/y/pythonmcpi/define.nvim)
 
 ### digraph
 
