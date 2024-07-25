@@ -153,6 +153,7 @@
 - [crwebb85/mark-code-action.nvim](https://github.com/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/stars/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/last-commit/crwebb85/mark-code-action.nvim) ![](https://img.shields.io/github/commit-activity/y/crwebb85/mark-code-action.nvim)
 - [Chaitanyabsprip/fastaction.nvim](https://github.com/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/fastaction.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/fastaction.nvim)
 - [neovim-plugin/lightbulb.nvim](https://github.com/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/lightbulb.nvim)
+- [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-code-action.nvim)
 
 #### Hint
 

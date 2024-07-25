@@ -27,6 +27,7 @@
 - [denstiny/orig.nvim](https://github.com/denstiny/orig.nvim) ![](https://img.shields.io/github/stars/denstiny/orig.nvim) ![](https://img.shields.io/github/last-commit/denstiny/orig.nvim) ![](https://img.shields.io/github/commit-activity/y/denstiny/orig.nvim)
 - [NeViRAIDE/harbinger.nvim](https://github.com/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/harbinger.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/harbinger.nvim)
 - [idanarye/nvim-impairative](https://github.com/idanarye/nvim-impairative) ![](https://img.shields.io/github/stars/idanarye/nvim-impairative) ![](https://img.shields.io/github/last-commit/idanarye/nvim-impairative) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-impairative)
+- [thomaslin649/fortune.nvim](https://github.com/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/stars/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/last-commit/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/commit-activity/y/thomaslin649/fortune.nvim)
 
 ### Boot Arguments
 
