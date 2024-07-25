@@ -239,6 +239,7 @@
 - [LarssonMartin1998/indent-invader.nvim](https://github.com/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/stars/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/last-commit/LarssonMartin1998/indent-invader.nvim) ![](https://img.shields.io/github/commit-activity/y/LarssonMartin1998/indent-invader.nvim)
 - [haolian9/ico.nvim](https://github.com/haolian9/ico.nvim) ![](https://img.shields.io/github/stars/haolian9/ico.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ico.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ico.nvim)
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) ![](https://img.shields.io/github/stars/enoatu/nvim-smartchr) ![](https://img.shields.io/github/last-commit/enoatu/nvim-smartchr) ![](https://img.shields.io/github/commit-activity/y/enoatu/nvim-smartchr)
+- [ins0mniaque/sacrilege.nvim](https://github.com/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/stars/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/last-commit/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/commit-activity/y/ins0mniaque/sacrilege.nvim)
 
 #### Smart Tab
 
