@@ -15,6 +15,7 @@
 - [Config](#config)
 - [Control another neovim](#control-another-neovim)
 - [UI](#ui)
+  * [HTML](#html)
   * [Notification](#notification)
   * [vim.ui.select/vim.ui.input](#vimuiselectvimuiinput)
   * [Popup](#popup)
@@ -125,6 +126,10 @@
 - [comfysage/yosu.nvim](https://github.com/comfysage/yosu.nvim) ![](https://img.shields.io/github/stars/comfysage/yosu.nvim) ![](https://img.shields.io/github/last-commit/comfysage/yosu.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/yosu.nvim)
 - [Rizwanelansyah/windui.nvim](https://github.com/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/windui.nvim)
 
+### HTML
+
+- [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/banana.nvim)
+
 ### Notification
 
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) ![](https://img.shields.io/github/stars/rcarriga/nvim-notify) ![](https://img.shields.io/github/last-commit/rcarriga/nvim-notify) ![](https://img.shields.io/github/commit-activity/y/rcarriga/nvim-notify)
@@ -140,6 +145,7 @@
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-qwahl)
 - [liangxianzhe/floating-input.nvim](https://github.com/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/floating-input.nvim)
+- [Axlefublr/selabel.nvim](https://github.com/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/stars/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/selabel.nvim)
 
 ### Popup
 

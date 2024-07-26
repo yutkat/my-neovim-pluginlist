@@ -59,6 +59,7 @@
 ## callback
 
 - [gregorias/keyoverloader.nvim](https://github.com/gregorias/keyoverloader.nvim) ![](https://img.shields.io/github/stars/gregorias/keyoverloader.nvim) ![](https://img.shields.io/github/last-commit/gregorias/keyoverloader.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/keyoverloader.nvim)
+- [haolian9/capsbulb.nvim](https://github.com/haolian9/capsbulb.nvim) ![](https://img.shields.io/github/stars/haolian9/capsbulb.nvim) ![](https://img.shields.io/github/last-commit/haolian9/capsbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/capsbulb.nvim)
 
 ## Bracket
 
