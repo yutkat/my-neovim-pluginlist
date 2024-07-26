@@ -113,6 +113,7 @@
 - [Lukaswe94/nvim-todo](https://github.com/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/stars/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/last-commit/Lukaswe94/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/Lukaswe94/nvim-todo)
 - [arthuradolfo/godo.nvim](https://github.com/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/stars/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/last-commit/arthuradolfo/godo.nvim) ![](https://img.shields.io/github/commit-activity/y/arthuradolfo/godo.nvim)
 - [mlp1802/periscope.nvim](https://github.com/mlp1802/periscope.nvim) ![](https://img.shields.io/github/stars/mlp1802/periscope.nvim) ![](https://img.shields.io/github/last-commit/mlp1802/periscope.nvim) ![](https://img.shields.io/github/commit-activity/y/mlp1802/periscope.nvim)
+- [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim) ![](https://img.shields.io/github/stars/niuiic/todo.nvim) ![](https://img.shields.io/github/last-commit/niuiic/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/todo.nvim)
 
 ### Taskwarrior
 

@@ -120,6 +120,7 @@
 ## Rename
 
 - [seasonalmatcha/symbol-renamer.nvim](https://github.com/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/stars/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/last-commit/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/seasonalmatcha/symbol-renamer.nvim)
+- [mei28/instant-rename.nvim](https://github.com/mei28/instant-rename.nvim) ![](https://img.shields.io/github/stars/mei28/instant-rename.nvim) ![](https://img.shields.io/github/last-commit/mei28/instant-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/instant-rename.nvim)
 
 # Grep
 
