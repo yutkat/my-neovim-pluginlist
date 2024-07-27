@@ -31,6 +31,7 @@
 #### Encrypt
 
 - [elentok/encrypt.nvim](https://github.com/elentok/encrypt.nvim) ![](https://img.shields.io/github/stars/elentok/encrypt.nvim) ![](https://img.shields.io/github/last-commit/elentok/encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/encrypt.nvim)
+- [trixnz/sops.nvim](https://github.com/trixnz/sops.nvim) ![](https://img.shields.io/github/stars/trixnz/sops.nvim) ![](https://img.shields.io/github/last-commit/trixnz/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/trixnz/sops.nvim)
 
 ### Privacy
 
