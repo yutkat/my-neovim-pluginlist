@@ -47,6 +47,7 @@
 - [bartdorsey/quickclip.nvim](https://github.com/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/stars/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/last-commit/bartdorsey/quickclip.nvim) ![](https://img.shields.io/github/commit-activity/y/bartdorsey/quickclip.nvim)
 - [ptdewey/yankbank-nvim](https://github.com/ptdewey/yankbank-nvim) ![](https://img.shields.io/github/stars/ptdewey/yankbank-nvim) ![](https://img.shields.io/github/last-commit/ptdewey/yankbank-nvim) ![](https://img.shields.io/github/commit-activity/y/ptdewey/yankbank-nvim)
 - [Axlefublr/edister.nvim](https://github.com/Axlefublr/edister.nvim) ![](https://img.shields.io/github/stars/Axlefublr/edister.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/edister.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/edister.nvim)
+- [eliogilvy/pasted.nvim](https://github.com/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/stars/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/last-commit/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/commit-activity/y/eliogilvy/pasted.nvim)
 
 ## Edit Register
 

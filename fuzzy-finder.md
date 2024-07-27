@@ -40,6 +40,8 @@
 - [adigitoleo/quark.nvim](https://github.com/adigitoleo/quark.nvim) ![](https://img.shields.io/github/stars/adigitoleo/quark.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/quark.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/quark.nvim)
 - [samsze0/fzf.nvim](https://github.com/samsze0/fzf.nvim) ![](https://img.shields.io/github/stars/samsze0/fzf.nvim) ![](https://img.shields.io/github/last-commit/samsze0/fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/fzf.nvim)
 - [haolian9/beckon.nvim](https://github.com/haolian9/beckon.nvim) ![](https://img.shields.io/github/stars/haolian9/beckon.nvim) ![](https://img.shields.io/github/last-commit/haolian9/beckon.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/beckon.nvim)
+- [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/stars/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-fzy)
+  - [phongnh/fzy-settings.nvim](https://github.com/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/stars/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/last-commit/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/phongnh/fzy-settings.nvim)
 
 ### Telescope Extensions
 
