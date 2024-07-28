@@ -186,6 +186,7 @@
 - [tjdevries/ppx_rapper.nvim](https://github.com/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/stars/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/ppx_rapper.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/ppx_rapper.nvim)
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
 - [theoboldalex/typelens.nvim](https://github.com/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/stars/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/typelens.nvim)
+- [ocaml-mlx/ocaml_mlx.nvim](https://github.com/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/stars/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/last-commit/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/commit-activity/y/ocaml-mlx/ocaml_mlx.nvim)
 
 #### LCaml
 
