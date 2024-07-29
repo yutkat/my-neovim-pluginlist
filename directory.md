@@ -32,3 +32,4 @@
 ### CWD
 
 - [prichrd/vwd.nvim](https://github.com/prichrd/vwd.nvim) ![](https://img.shields.io/github/stars/prichrd/vwd.nvim) ![](https://img.shields.io/github/last-commit/prichrd/vwd.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/vwd.nvim)
+- [lukasx999/syncwd.nvim](https://github.com/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/stars/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/last-commit/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasx999/syncwd.nvim)

@@ -75,6 +75,7 @@
 - [rachartier/tiny-buffers-switcher.nvim](https://github.com/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-buffers-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-buffers-switcher.nvim)
 - [pacidic/bufcycle.nvim](https://github.com/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/stars/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/last-commit/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/commit-activity/y/pacidic/bufcycle.nvim)
 - [mong8se/buffish.nvim](https://github.com/mong8se/buffish.nvim) ![](https://img.shields.io/github/stars/mong8se/buffish.nvim) ![](https://img.shields.io/github/last-commit/mong8se/buffish.nvim) ![](https://img.shields.io/github/commit-activity/y/mong8se/buffish.nvim)
+- [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) ![](https://img.shields.io/github/stars/leath-dub/snipe.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/snipe.nvim)
 
 ### Other Buffer Switcher
 

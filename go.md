@@ -74,6 +74,7 @@
 ### implement
 
 - [relardev/go-component-generator.nvim](https://github.com/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/stars/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/last-commit/relardev/go-component-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/relardev/go-component-generator.nvim)
+- [maxandron/goplements.nvim](https://github.com/maxandron/goplements.nvim) ![](https://img.shields.io/github/stars/maxandron/goplements.nvim) ![](https://img.shields.io/github/last-commit/maxandron/goplements.nvim) ![](https://img.shields.io/github/commit-activity/y/maxandron/goplements.nvim)
 
 ### Type
 
