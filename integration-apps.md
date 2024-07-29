@@ -280,6 +280,7 @@
 - [jonathanmorris180/salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/stars/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/last-commit/jonathanmorris180/salesforce.nvim) ![](https://img.shields.io/github/commit-activity/y/jonathanmorris180/salesforce.nvim)
 - [KanesAccount/lazysf.nvim](https://github.com/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/stars/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/last-commit/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/commit-activity/y/KanesAccount/lazysf.nvim)
 - [julihermes/sfm-focus.nvim](https://github.com/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/stars/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/last-commit/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/julihermes/sfm-focus.nvim)
+- [xixiaofinland/sf.nvim](https://github.com/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sf.nvim)
 
 #### dbt
 
