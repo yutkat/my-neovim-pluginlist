@@ -30,6 +30,7 @@
 - [Terminal](#terminal)
 - [Motion](#motion)
 - [Jump](#jump)
+- [Set Option](#set-option)
 - [Editing support](#editing-support)
   * [Select Edit](#select-edit)
   * [Insert](#insert)
@@ -221,6 +222,10 @@
 ## [Motion](./motion.md)
 
 ## [Jump](./jump.md)
+
+## Set Option
+
+- [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) ![](https://img.shields.io/github/stars/gregorias/toggle.nvim) ![](https://img.shields.io/github/last-commit/gregorias/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/toggle.nvim)
 
 ## Editing support
 

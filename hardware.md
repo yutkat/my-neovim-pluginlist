@@ -16,6 +16,7 @@
   * [Keyboard](#keyboard)
     + [Keyboard Layout](#keyboard-layout)
     + [Virtual Keyboard](#virtual-keyboard)
+    + [LED](#led)
   * [Embedded Software](#embedded-software)
     + [Arduino](#arduino)
     + [FlipperZero](#flipperzero)
@@ -86,6 +87,10 @@
 #### Virtual Keyboard
 
 - [mk0v3l/visualkeyboard.nvim](https://github.com/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/stars/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/last-commit/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/commit-activity/y/mk0v3l/visualkeyboard.nvim)
+
+#### LED
+
+- [lukewiebe/kontroll.nvim](https://github.com/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/stars/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/last-commit/lukewiebe/kontroll.nvim) ![](https://img.shields.io/github/commit-activity/y/lukewiebe/kontroll.nvim)
 
 ### Embedded Software
 

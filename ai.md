@@ -99,6 +99,7 @@
 - [flatplate/elelem.nvim](https://github.com/flatplate/elelem.nvim) ![](https://img.shields.io/github/stars/flatplate/elelem.nvim) ![](https://img.shields.io/github/last-commit/flatplate/elelem.nvim) ![](https://img.shields.io/github/commit-activity/y/flatplate/elelem.nvim)
 - [natixgroup/code-ai.nvim](https://github.com/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/stars/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/last-commit/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/natixgroup/code-ai.nvim)
 - [shanetwinterhalter/llms.nvim](https://github.com/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/stars/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/last-commit/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/commit-activity/y/shanetwinterhalter/llms.nvim)
+- [Chunt0/llm.nvim](https://github.com/Chunt0/llm.nvim) ![](https://img.shields.io/github/stars/Chunt0/llm.nvim) ![](https://img.shields.io/github/last-commit/Chunt0/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/Chunt0/llm.nvim)
 
 #### Generate Doc
 

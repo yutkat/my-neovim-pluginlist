@@ -26,6 +26,7 @@
 - [bennypowers/changesets.nvim](https://github.com/bennypowers/changesets.nvim) ![](https://img.shields.io/github/stars/bennypowers/changesets.nvim) ![](https://img.shields.io/github/last-commit/bennypowers/changesets.nvim) ![](https://img.shields.io/github/commit-activity/y/bennypowers/changesets.nvim)
 - [phanen/lazy-help.nvim](https://github.com/phanen/lazy-help.nvim) ![](https://img.shields.io/github/stars/phanen/lazy-help.nvim) ![](https://img.shields.io/github/last-commit/phanen/lazy-help.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lazy-help.nvim)
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
+- [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/helpview.nvim)
 
 ### CheatSheet
 
