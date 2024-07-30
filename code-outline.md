@@ -47,4 +47,3 @@
 
 ### Code Block Separater
 
-- [yantongl/separator.nvim](https://github.com/yantongl/separator.nvim) ![](https://img.shields.io/github/stars/yantongl/separator.nvim) ![](https://img.shields.io/github/last-commit/yantongl/separator.nvim) ![](https://img.shields.io/github/commit-activity/y/yantongl/separator.nvim)
