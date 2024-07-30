@@ -119,6 +119,7 @@
 #### Pandas
 
 - [simondanielsson/nvim-pandas.nvim](https://github.com/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/stars/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/last-commit/simondanielsson/nvim-pandas.nvim) ![](https://img.shields.io/github/commit-activity/y/simondanielsson/nvim-pandas.nvim)
+- [andreiamatuni/dataframes.nvim](https://github.com/andreiamatuni/dataframes.nvim) ![](https://img.shields.io/github/stars/andreiamatuni/dataframes.nvim) ![](https://img.shields.io/github/last-commit/andreiamatuni/dataframes.nvim) ![](https://img.shields.io/github/commit-activity/y/andreiamatuni/dataframes.nvim)
 
 #### visidata
 

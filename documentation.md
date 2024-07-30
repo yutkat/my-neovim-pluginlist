@@ -29,6 +29,7 @@
     + [Markdown concealer](#markdown-concealer)
     + [Markdown converter](#markdown-converter)
     + [Code to Markdown](#code-to-markdown)
+  * [Query](#query)
     + [MDX](#mdx)
     + [Marp](#marp)
   * [PlantUML](#plantuml)
@@ -229,6 +230,10 @@
 #### Code to Markdown
 
 - [kunring/copy-as-markdown.nvim](https://github.com/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/stars/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/last-commit/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/kunring/copy-as-markdown.nvim)
+
+### Query
+
+- [k-lar/dynomark.nvim](https://github.com/k-lar/dynomark.nvim) ![](https://img.shields.io/github/stars/k-lar/dynomark.nvim) ![](https://img.shields.io/github/last-commit/k-lar/dynomark.nvim) ![](https://img.shields.io/github/commit-activity/y/k-lar/dynomark.nvim)
 
 #### MDX
 

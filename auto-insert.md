@@ -41,6 +41,7 @@
 - [kawre/neotab.nvim](https://github.com/kawre/neotab.nvim) ![](https://img.shields.io/github/stars/kawre/neotab.nvim) ![](https://img.shields.io/github/last-commit/kawre/neotab.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/neotab.nvim)
 - [Masgharoth/match-close.nvim](https://github.com/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/stars/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/last-commit/Masgharoth/match-close.nvim) ![](https://img.shields.io/github/commit-activity/y/Masgharoth/match-close.nvim)
 - [mgnsk/dumb-autopairs.nvim](https://github.com/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/stars/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/dumb-autopairs.nvim)
+- [Chattille/pairs.nvim](https://github.com/Chattille/pairs.nvim) ![](https://img.shields.io/github/stars/Chattille/pairs.nvim) ![](https://img.shields.io/github/last-commit/Chattille/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Chattille/pairs.nvim)
 
 ### escape pairs
 

@@ -29,6 +29,7 @@
 - [ecthelionvi/NeoColumn.nvim](https://github.com/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/stars/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/last-commit/ecthelionvi/NeoColumn.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthelionvi/NeoColumn.nvim)
 - [miklu612/margin.nvim](https://github.com/miklu612/margin.nvim) ![](https://img.shields.io/github/stars/miklu612/margin.nvim) ![](https://img.shields.io/github/last-commit/miklu612/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/miklu612/margin.nvim)
 - [tiyn/tccs.nvim](https://github.com/tiyn/tccs.nvim) ![](https://img.shields.io/github/stars/tiyn/tccs.nvim) ![](https://img.shields.io/github/last-commit/tiyn/tccs.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/tccs.nvim)
+- [parmeniong/neocolumn.nvim](https://github.com/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/stars/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/last-commit/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/parmeniong/neocolumn.nvim)
 
 ### limit column
 
