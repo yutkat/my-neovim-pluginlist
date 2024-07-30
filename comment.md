@@ -4,6 +4,7 @@
 
 - [Comment out](#comment-out)
   * [CommentString](#commentstring)
+  * [Diagnostic Comment](#diagnostic-comment)
   * [Comment Header](#comment-header)
 - [File Header](#file-header)
 - [Todo Comment Highlight](#todo-comment-highlight)
@@ -39,6 +40,10 @@
 ### CommentString
 
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/stars/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/last-commit/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/commit-activity/y/JoosepAlviste/nvim-ts-context-commentstring)
+
+### Diagnostic Comment
+
+- [ktappdev/diagnostic-comments.nvim](https://github.com/ktappdev/diagnostic-comments.nvim) ![](https://img.shields.io/github/stars/ktappdev/diagnostic-comments.nvim) ![](https://img.shields.io/github/last-commit/ktappdev/diagnostic-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/ktappdev/diagnostic-comments.nvim)
 
 ### Comment Header
 
