@@ -46,6 +46,7 @@
 - [gregorias/coerce.nvim](https://github.com/gregorias/coerce.nvim) ![](https://img.shields.io/github/stars/gregorias/coerce.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coerce.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coerce.nvim)
 - [chrishannah/textcase.nvim](https://github.com/chrishannah/textcase.nvim) ![](https://img.shields.io/github/stars/chrishannah/textcase.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/textcase.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/textcase.nvim)
 - [cowboy8625/case-swap.nvim](https://github.com/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/stars/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/last-commit/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/cowboy8625/case-swap.nvim)
+- [StubbornVegeta/style-transfer.nvim](https://github.com/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/stars/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/last-commit/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/StubbornVegeta/style-transfer.nvim)
 
 ### Convert Word
 

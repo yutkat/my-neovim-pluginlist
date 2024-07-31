@@ -115,6 +115,8 @@
 
 ### CapsLock
 
+- [dmtrKovalenko/caps-word.nvim](https://github.com/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/caps-word.nvim)
+
 ### Normal Mode
 
 - [hiberabyss/readline.nvim](https://github.com/hiberabyss/readline.nvim) ![](https://img.shields.io/github/stars/hiberabyss/readline.nvim) ![](https://img.shields.io/github/last-commit/hiberabyss/readline.nvim) ![](https://img.shields.io/github/commit-activity/y/hiberabyss/readline.nvim)
