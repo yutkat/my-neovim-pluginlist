@@ -31,6 +31,7 @@
 - [felipejoribeiro/dunedo.nvim](https://github.com/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/dunedo.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/dunedo.nvim)
 - [mgastonportillo/yerbreak.nvim](https://github.com/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/yerbreak.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/yerbreak.nvim)
 - [GuiC0506/Tracker.nvim](https://github.com/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/stars/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/last-commit/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/GuiC0506/Tracker.nvim)
+- [QuentinGruber/timespent.nvim](https://github.com/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/stars/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/last-commit/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/commit-activity/y/QuentinGruber/timespent.nvim)
 
 ### Coding time
 
