@@ -52,6 +52,7 @@
 - [Cliffback/netcoredbg-macOS-arm64.nvim](https://github.com/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/stars/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/netcoredbg-macOS-arm64.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/netcoredbg-macOS-arm64.nvim)
 - [kdheepak/nvim-dap-julia](https://github.com/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/stars/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/last-commit/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/commit-activity/y/kdheepak/nvim-dap-julia)
 - [piredman/nvim-dap-dotnet](https://github.com/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/stars/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/last-commit/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/commit-activity/y/piredman/nvim-dap-dotnet)
+- [Carcuis/dap-breakpoints.nvim](https://github.com/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/stars/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/Carcuis/dap-breakpoints.nvim)
 
 #### Launch.json
 

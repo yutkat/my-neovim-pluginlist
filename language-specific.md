@@ -7,6 +7,7 @@
     + [Zig](#zig)
     + [Nix](#nix)
     + [C#](#c%23)
+      - [.NET](#net)
       - [ASP.NET](#aspnet)
     + [Kotlin](#kotlin)
     + [Swift](#swift)
@@ -101,6 +102,10 @@
 - [jmederosalvarado/roslyn.nvim](https://github.com/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/stars/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/last-commit/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/jmederosalvarado/roslyn.nvim)
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
 - [markchristianlacap/cs_to_ts.nvim](https://github.com/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/stars/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/last-commit/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/commit-activity/y/markchristianlacap/cs_to_ts.nvim)
+
+#### .NET
+
+- [adamkali/dotnvim](https://github.com/adamkali/dotnvim) ![](https://img.shields.io/github/stars/adamkali/dotnvim) ![](https://img.shields.io/github/last-commit/adamkali/dotnvim) ![](https://img.shields.io/github/commit-activity/y/adamkali/dotnvim)
 
 #### ASP.NET
 

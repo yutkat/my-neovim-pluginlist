@@ -13,6 +13,7 @@
 - [notomo/hlmsg.nvim](https://github.com/notomo/hlmsg.nvim) ![](https://img.shields.io/github/stars/notomo/hlmsg.nvim) ![](https://img.shields.io/github/last-commit/notomo/hlmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/hlmsg.nvim)
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/stars/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/last-commit/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/commit-activity/y/ariel-frischer/bmessages.nvim)
 - [OliverChao/bufmsg.nvim](https://github.com/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/stars/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/bufmsg.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/bufmsg.nvim)
+- [haolian9/msgcleaner.nvim](https://github.com/haolian9/msgcleaner.nvim) ![](https://img.shields.io/github/stars/haolian9/msgcleaner.nvim) ![](https://img.shields.io/github/last-commit/haolian9/msgcleaner.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/msgcleaner.nvim)
 
 ## Notification
 
