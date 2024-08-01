@@ -209,6 +209,7 @@
 - [Rogerskelamen/live-server.nvim](https://github.com/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/stars/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/last-commit/Rogerskelamen/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Rogerskelamen/live-server.nvim)
 - [mouhamedsylla/live-server.nvim](https://github.com/mouhamedsylla/live-server.nvim) ![](https://img.shields.io/github/stars/mouhamedsylla/live-server.nvim) ![](https://img.shields.io/github/last-commit/mouhamedsylla/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/mouhamedsylla/live-server.nvim)
 - [d-vegapunk/live-server.nvim](https://github.com/d-vegapunk/live-server.nvim) ![](https://img.shields.io/github/stars/d-vegapunk/live-server.nvim) ![](https://img.shields.io/github/last-commit/d-vegapunk/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/d-vegapunk/live-server.nvim)
+- [hat0uma/prelive.nvim](https://github.com/hat0uma/prelive.nvim) ![](https://img.shields.io/github/stars/hat0uma/prelive.nvim) ![](https://img.shields.io/github/last-commit/hat0uma/prelive.nvim) ![](https://img.shields.io/github/commit-activity/y/hat0uma/prelive.nvim)
 
 ## CSS
 

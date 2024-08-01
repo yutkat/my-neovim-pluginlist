@@ -11,6 +11,7 @@
   * [implement](#implement)
   * [Type](#type)
   * [Generator](#generator)
+  * [templ.guide](#templguide)
 
 <!-- tocstop -->
 
@@ -83,3 +84,7 @@
 ### Generator
 
 - [cszczepaniak/go-tools.nvim](https://github.com/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/go-tools.nvim)
+
+### templ.guide
+
+- [Bparsons0904/nvim-templ-static-reload](https://github.com/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/stars/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/last-commit/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/nvim-templ-static-reload)
