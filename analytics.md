@@ -36,6 +36,7 @@
 ### Coding time
 
 - [rmarinn/codetime.nvim](https://github.com/rmarinn/codetime.nvim) ![](https://img.shields.io/github/stars/rmarinn/codetime.nvim) ![](https://img.shields.io/github/last-commit/rmarinn/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/rmarinn/codetime.nvim)
+- [2giosangmitom/codetime.nvim](https://github.com/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/stars/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/last-commit/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/2giosangmitom/codetime.nvim)
 
 ### Mapping stat
 
