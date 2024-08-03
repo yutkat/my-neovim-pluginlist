@@ -165,6 +165,7 @@
 - [dseum/window.nvim](https://github.com/dseum/window.nvim) ![](https://img.shields.io/github/stars/dseum/window.nvim) ![](https://img.shields.io/github/last-commit/dseum/window.nvim) ![](https://img.shields.io/github/commit-activity/y/dseum/window.nvim)
 - [senkentarou/close_buffer.nvim](https://github.com/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/stars/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/close_buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/close_buffer.nvim)
 - [radioactivepb/smartclose.nvim](https://github.com/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/stars/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/smartclose.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/smartclose.nvim)
+- [JohanChane/delbufs.nvim](https://github.com/JohanChane/delbufs.nvim) ![](https://img.shields.io/github/stars/JohanChane/delbufs.nvim) ![](https://img.shields.io/github/last-commit/JohanChane/delbufs.nvim) ![](https://img.shields.io/github/commit-activity/y/JohanChane/delbufs.nvim)
 
 #### auto close
 
