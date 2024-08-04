@@ -6,6 +6,7 @@
   * [gofmt](#gofmt)
   * [go list](#go-list)
   * [Test](#test)
+  * [packages](#packages)
   * [struct](#struct)
   * [impl](#impl)
   * [implement](#implement)
@@ -61,6 +62,10 @@
 - [Aryonal/gou.nvim](https://github.com/Aryonal/gou.nvim) ![](https://img.shields.io/github/stars/Aryonal/gou.nvim) ![](https://img.shields.io/github/last-commit/Aryonal/gou.nvim) ![](https://img.shields.io/github/commit-activity/y/Aryonal/gou.nvim)
 - [sshelll/telescope-gott.nvim](https://github.com/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-gott.nvim)
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) ![](https://img.shields.io/github/stars/vcraescu/gotest.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/gotest.nvim)
+
+### packages
+
+- [Snikimonkd/cmp-go-pkgs](https://github.com/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/commit-activity/y/Snikimonkd/cmp-go-pkgs)
 
 ### struct
 

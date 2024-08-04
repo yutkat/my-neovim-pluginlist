@@ -39,6 +39,7 @@
 - [weizheheng/ror.nvim](https://github.com/weizheheng/ror.nvim) ![](https://img.shields.io/github/stars/weizheheng/ror.nvim) ![](https://img.shields.io/github/last-commit/weizheheng/ror.nvim) ![](https://img.shields.io/github/commit-activity/y/weizheheng/ror.nvim)
 - [CadeMichael/roron.nvim](https://github.com/CadeMichael/roron.nvim) ![](https://img.shields.io/github/stars/CadeMichael/roron.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/roron.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/roron.nvim)
 - [mactunechy/rails-view-component-gd.nvim](https://github.com/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/stars/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/last-commit/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/commit-activity/y/mactunechy/rails-view-component-gd.nvim)
+- [Madyn0/rails-finder.nvim](https://github.com/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/stars/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/last-commit/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Madyn0/rails-finder.nvim)
 
 ### Redis
 
