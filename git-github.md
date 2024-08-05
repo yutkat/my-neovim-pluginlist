@@ -172,6 +172,7 @@
 - [ring0-rootkit/gitblame.nvim](https://github.com/ring0-rootkit/gitblame.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/gitblame.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/gitblame.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/gitblame.nvim)
 - [lsig/messenger.nvim](https://github.com/lsig/messenger.nvim) ![](https://img.shields.io/github/stars/lsig/messenger.nvim) ![](https://img.shields.io/github/last-commit/lsig/messenger.nvim) ![](https://img.shields.io/github/commit-activity/y/lsig/messenger.nvim)
 - [psjay/blamer.nvim](https://github.com/psjay/blamer.nvim) ![](https://img.shields.io/github/stars/psjay/blamer.nvim) ![](https://img.shields.io/github/last-commit/psjay/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/blamer.nvim)
+- [RandomHumanoidFromEarth/nvim-git-blame](https://github.com/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/stars/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/last-commit/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/commit-activity/y/RandomHumanoidFromEarth/nvim-git-blame)
 
 ## git log
 

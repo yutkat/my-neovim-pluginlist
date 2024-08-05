@@ -22,6 +22,7 @@
 ## filetype
 
 - [rtalexk/telescope-filetypes.nvim](https://github.com/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/stars/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/last-commit/rtalexk/telescope-filetypes.nvim) ![](https://img.shields.io/github/commit-activity/y/rtalexk/telescope-filetypes.nvim)
+- [wojtacha/filetyper.nvim](https://github.com/wojtacha/filetyper.nvim) ![](https://img.shields.io/github/stars/wojtacha/filetyper.nvim) ![](https://img.shields.io/github/last-commit/wojtacha/filetyper.nvim) ![](https://img.shields.io/github/commit-activity/y/wojtacha/filetyper.nvim)
 
 ### filetype colorscheme
 
