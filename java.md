@@ -6,6 +6,7 @@
   * [rename](#rename)
   * [method](#method)
   * [Debugger](#debugger)
+  * [Test](#test)
   * [Maven](#maven)
   * [Gradle](#gradle)
   * [Spring Boot](#spring-boot)
@@ -40,6 +41,10 @@
 ### Debugger
 
 - [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
+
+### Test
+
+- [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
 
 ### Maven
 
