@@ -10,6 +10,7 @@
   * [index.js](#indexjs)
   * [Package](#package)
     + [i18next](#i18next)
+  * [Jsx](#jsx)
 - [Toolchain](#toolchain)
   * [tsc(TypeScript compiler)](#tsctypescript-compiler)
   * [Type check](#type-check)
@@ -93,6 +94,10 @@
 #### i18next
 
 - [nabekou29/js-i18n.nvim](https://github.com/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/stars/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/js-i18n.nvim)
+
+### Jsx
+
+- [Apfelfrosch/jsxcomments.nvim](https://github.com/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/stars/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/last-commit/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/commit-activity/y/Apfelfrosch/jsxcomments.nvim)
 
 ## Toolchain
 

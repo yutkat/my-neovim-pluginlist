@@ -146,6 +146,7 @@
 - [ElCapitanSponge/spotify.nvim](https://github.com/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/stars/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/last-commit/ElCapitanSponge/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/ElCapitanSponge/spotify.nvim)
 - [v1nh1shungry/lyricify.nvim](https://github.com/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/lyricify.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/lyricify.nvim)
 - [OceanMan156/spot.nvim](https://github.com/OceanMan156/spot.nvim) ![](https://img.shields.io/github/stars/OceanMan156/spot.nvim) ![](https://img.shields.io/github/last-commit/OceanMan156/spot.nvim) ![](https://img.shields.io/github/commit-activity/y/OceanMan156/spot.nvim)
+- [kellyiscute/spotify.nvim](https://github.com/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/stars/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/last-commit/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/kellyiscute/spotify.nvim)
 
 #### StackOverflow
 
