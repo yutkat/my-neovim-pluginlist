@@ -42,6 +42,7 @@
     + [Monkey](#monkey)
     + [GNU APL](#gnu-apl)
     + [GritQL](#gritql)
+    + [ntangle](#ntangle)
     + [Ada](#ada)
       - [Alire](#alire)
     + [Moonscript](#moonscript)
@@ -271,6 +272,12 @@
 ### GritQL
 
 - [noahbald/grit-telescope.nvim](https://github.com/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/stars/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/last-commit/noahbald/grit-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/grit-telescope.nvim)
+
+### ntangle
+
+- [jbyuki/ntangle.nvim](https://github.com/jbyuki/ntangle.nvim) ![](https://img.shields.io/github/stars/jbyuki/ntangle.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/ntangle.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/ntangle.nvim)
+  - [jbyuki/ntangle-inc.nvim](https://github.com/jbyuki/ntangle-inc.nvim) ![](https://img.shields.io/github/stars/jbyuki/ntangle-inc.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/ntangle-inc.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/ntangle-inc.nvim)
+- [jbyuki/ntangle-ts.nvim](https://github.com/jbyuki/ntangle-ts.nvim) ![](https://img.shields.io/github/stars/jbyuki/ntangle-ts.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/ntangle-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/ntangle-ts.nvim)
 
 ### Ada
 

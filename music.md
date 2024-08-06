@@ -32,6 +32,7 @@
 ### Apple music
 
 - [p5quared/apple-music.nvim](https://github.com/p5quared/apple-music.nvim) ![](https://img.shields.io/github/stars/p5quared/apple-music.nvim) ![](https://img.shields.io/github/last-commit/p5quared/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/p5quared/apple-music.nvim)
+- [Vilos92/media-controls.nvim](https://github.com/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/stars/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/last-commit/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/Vilos92/media-controls.nvim)
 
 ### Tidal
 

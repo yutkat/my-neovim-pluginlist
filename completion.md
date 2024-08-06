@@ -29,6 +29,7 @@
 - [deathbeam/autocomplete.nvim](https://github.com/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/stars/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/autocomplete.nvim)
 - [francescoApophis/trie-cmp.nvim](https://github.com/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/stars/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/trie-cmp.nvim)
 - [brianaung/autocompl.nvim](https://github.com/brianaung/autocompl.nvim) ![](https://img.shields.io/github/stars/brianaung/autocompl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/autocompl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/autocompl.nvim)
+- [max397574/care.nvim](https://github.com/max397574/care.nvim) ![](https://img.shields.io/github/stars/max397574/care.nvim) ![](https://img.shields.io/github/last-commit/max397574/care.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/care.nvim)
 
 #### Made in Python
 
