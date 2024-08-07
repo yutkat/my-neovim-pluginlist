@@ -82,7 +82,6 @@
 - [bgrohman/nvim-keymapper](https://github.com/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/stars/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/last-commit/bgrohman/nvim-keymapper) ![](https://img.shields.io/github/commit-activity/y/bgrohman/nvim-keymapper)
 - [Cassin01/wf.nvim](https://github.com/Cassin01/wf.nvim) ![](https://img.shields.io/github/stars/Cassin01/wf.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/wf.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/wf.nvim)
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/stars/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/last-commit/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/hawtkeys.nvim)
-- [Std-Enigma/mapper.nvim](https://github.com/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/stars/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/last-commit/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Std-Enigma/mapper.nvim)
 - [wd40bug/Hints.nvim](https://github.com/wd40bug/Hints.nvim) ![](https://img.shields.io/github/stars/wd40bug/Hints.nvim) ![](https://img.shields.io/github/last-commit/wd40bug/Hints.nvim) ![](https://img.shields.io/github/commit-activity/y/wd40bug/Hints.nvim)
 
 ## Show assigned
