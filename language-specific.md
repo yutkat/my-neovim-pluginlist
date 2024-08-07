@@ -104,6 +104,7 @@
 - [jmederosalvarado/roslyn.nvim](https://github.com/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/stars/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/last-commit/jmederosalvarado/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/jmederosalvarado/roslyn.nvim)
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
 - [markchristianlacap/cs_to_ts.nvim](https://github.com/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/stars/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/last-commit/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/commit-activity/y/markchristianlacap/cs_to_ts.nvim)
+- [DestopLine/boilersharp.nvim](https://github.com/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/stars/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/boilersharp.nvim)
 
 #### Compile
 

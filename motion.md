@@ -36,6 +36,7 @@
 - [nullchilly/fsread.nvim](https://github.com/nullchilly/fsread.nvim) ![](https://img.shields.io/github/stars/nullchilly/fsread.nvim) ![](https://img.shields.io/github/last-commit/nullchilly/fsread.nvim) ![](https://img.shields.io/github/commit-activity/y/nullchilly/fsread.nvim)
 - [nkakouros-original/scrollofffraction.nvim](https://github.com/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/stars/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/last-commit/nkakouros-original/scrollofffraction.nvim) ![](https://img.shields.io/github/commit-activity/y/nkakouros-original/scrollofffraction.nvim)
 - [niuiic/scroll.nvim](https://github.com/niuiic/scroll.nvim) ![](https://img.shields.io/github/stars/niuiic/scroll.nvim) ![](https://img.shields.io/github/last-commit/niuiic/scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/scroll.nvim)
+- [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/stars/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/last-commit/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/commit-activity/y/tonymajestro/smart-scrolloff.nvim)
 
 ### Smooth scroll
 
