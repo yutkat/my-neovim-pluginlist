@@ -22,6 +22,7 @@
       - [Misc](#misc)
     + [Markdown code block](#markdown-code-block)
     + [Markdown table](#markdown-table)
+    + [footnote](#footnote)
     + [Markdown evaluate code](#markdown-evaluate-code)
     + [Styling](#styling)
     + [Markdown checkbox](#markdown-checkbox)
@@ -189,6 +190,10 @@
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) ![](https://img.shields.io/github/stars/Myzel394/easytables.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/easytables.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/easytables.nvim)
 - [Kicamon/markdown-table-mode.nvim](https://github.com/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/stars/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/markdown-table-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/markdown-table-mode.nvim)
 - [qaptoR-nvim/fantableous.nvim](https://github.com/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/stars/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/last-commit/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/commit-activity/y/qaptoR-nvim/fantableous.nvim)
+
+#### footnote
+
+- [chenxin-yan/footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/footnote.nvim)
 
 #### Markdown evaluate code
 

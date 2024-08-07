@@ -120,6 +120,7 @@
 
 - [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim) ![](https://img.shields.io/github/stars/hugginsio/twig.nvim) ![](https://img.shields.io/github/last-commit/hugginsio/twig.nvim) ![](https://img.shields.io/github/commit-activity/y/hugginsio/twig.nvim)
 - [huantrinh1802/m_taskwarrior_d.nvim](https://github.com/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/stars/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/last-commit/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/commit-activity/y/huantrinh1802/m_taskwarrior_d.nvim)
+- [Praczet/little-taskwarrior.nvim](https://github.com/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/stars/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/little-taskwarrior.nvim)
 
 ## Obsidian
 
@@ -255,3 +256,4 @@
 - [radioactivepb/dailynotes.nvim](https://github.com/radioactivepb/dailynotes.nvim) ![](https://img.shields.io/github/stars/radioactivepb/dailynotes.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/dailynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/dailynotes.nvim)
 - [tcrundall/gtd.nvim](https://github.com/tcrundall/gtd.nvim) ![](https://img.shields.io/github/stars/tcrundall/gtd.nvim) ![](https://img.shields.io/github/last-commit/tcrundall/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/tcrundall/gtd.nvim)
 - [makefunstuff/sketchbook.nvim](https://github.com/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/stars/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/last-commit/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/sketchbook.nvim)
+- [sfrieds3/easynote.nvim](https://github.com/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/stars/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/last-commit/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/commit-activity/y/sfrieds3/easynote.nvim)
