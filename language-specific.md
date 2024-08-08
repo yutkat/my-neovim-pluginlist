@@ -37,6 +37,7 @@
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
+      - [Test](#test)
     + [Promela](#promela)
     + [Agda](#agda)
     + [Monkey](#monkey)
@@ -253,6 +254,10 @@
 ### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+#### Test
+
+- [maxandron/neotest-cairo](https://github.com/maxandron/neotest-cairo) ![](https://img.shields.io/github/stars/maxandron/neotest-cairo) ![](https://img.shields.io/github/last-commit/maxandron/neotest-cairo) ![](https://img.shields.io/github/commit-activity/y/maxandron/neotest-cairo)
 
 ### Promela
 
