@@ -136,6 +136,7 @@
 - [Prometheus1400/ollama-pilot.nvim](https://github.com/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/stars/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/last-commit/Prometheus1400/ollama-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Prometheus1400/ollama-pilot.nvim)
 - [magicalne/fim.nvim](https://github.com/magicalne/fim.nvim) ![](https://img.shields.io/github/stars/magicalne/fim.nvim) ![](https://img.shields.io/github/last-commit/magicalne/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/magicalne/fim.nvim)
 - [oxatruchdev/ollama.nvim](https://github.com/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/stars/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/last-commit/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/oxatruchdev/ollama.nvim)
+- [thetien2k2/ollamacmp.nvim](https://github.com/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/stars/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/last-commit/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/commit-activity/y/thetien2k2/ollamacmp.nvim)
 
 ### Claude
 
