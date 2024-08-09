@@ -51,6 +51,7 @@
 - [jmatth11/time-tracker.nvim](https://github.com/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/stars/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/last-commit/jmatth11/time-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/jmatth11/time-tracker.nvim)
 - [Cambo9p/productivitytimer.nvim](https://github.com/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/stars/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/last-commit/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/commit-activity/y/Cambo9p/productivitytimer.nvim)
 - [cochranjd/timeblocker.nvim](https://github.com/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/stars/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/last-commit/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/commit-activity/y/cochranjd/timeblocker.nvim)
+- [SunnyTamang/pendulum.nvim](https://github.com/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/pendulum.nvim)
 
 ## Do Not Disturb
 

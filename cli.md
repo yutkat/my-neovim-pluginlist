@@ -214,6 +214,7 @@
 ##### Nuget
 
 - [pgdanes/nug.nvim](https://github.com/pgdanes/nug.nvim) ![](https://img.shields.io/github/stars/pgdanes/nug.nvim) ![](https://img.shields.io/github/last-commit/pgdanes/nug.nvim) ![](https://img.shields.io/github/commit-activity/y/pgdanes/nug.nvim)
+- [abdulrahmanDev1/nuget.nvim](https://github.com/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/stars/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/last-commit/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/commit-activity/y/abdulrahmanDev1/nuget.nvim)
 
 #### ssh
 
@@ -242,6 +243,7 @@
 #### curl
 
 - [oysandvik94/curl.nvim](https://github.com/oysandvik94/curl.nvim) ![](https://img.shields.io/github/stars/oysandvik94/curl.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/curl.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/curl.nvim)
+- [io26/http.nvim](https://github.com/io26/http.nvim) ![](https://img.shields.io/github/stars/io26/http.nvim) ![](https://img.shields.io/github/last-commit/io26/http.nvim) ![](https://img.shields.io/github/commit-activity/y/io26/http.nvim)
 
 #### ctags
 
