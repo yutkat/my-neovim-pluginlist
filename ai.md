@@ -173,8 +173,6 @@
 
 ### Codegeex
 
-- [sunn4room/codegeex.nvim](https://github.com/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/stars/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/last-commit/sunn4room/codegeex.nvim) ![](https://img.shields.io/github/commit-activity/y/sunn4room/codegeex.nvim)
-
 ### lsp-ai
 
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/stars/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/lsp-ai.nvim)
