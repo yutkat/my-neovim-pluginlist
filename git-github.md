@@ -128,6 +128,7 @@
 - [senkentarou/telescope-git-commit.nvim](https://github.com/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-commit.nvim)
 - [przepompownia/git-utils.nvim](https://github.com/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/stars/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/last-commit/przepompownia/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/przepompownia/git-utils.nvim)
 - [AlejandroSuero/commitizen.nvim](https://github.com/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/commitizen.nvim)
+- [marzeq/visual-commit.nvim](https://github.com/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/stars/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/last-commit/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/visual-commit.nvim)
 
 ### prefix
 
@@ -137,6 +138,7 @@
 ### co authored
 
 - [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
+- [Penpen7/telescope-co-author.nvim](https://github.com/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/stars/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/last-commit/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/Penpen7/telescope-co-author.nvim)
 
 ### Auto commit
 
@@ -331,6 +333,7 @@
 ## Actions
 
 - [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/stars/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/gh-actions.nvim)
+- [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
 
 ## Link
 

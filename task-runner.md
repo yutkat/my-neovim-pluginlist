@@ -37,6 +37,7 @@
 - [Dax89/automaton.nvim](https://github.com/Dax89/automaton.nvim) ![](https://img.shields.io/github/stars/Dax89/automaton.nvim) ![](https://img.shields.io/github/last-commit/Dax89/automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Dax89/automaton.nvim)
 - [JoelMTom/nvim-automakerun](https://github.com/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/stars/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/last-commit/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/commit-activity/y/JoelMTom/nvim-automakerun)
 - [nobody-famous/tasks.nvim](https://github.com/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/stars/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/tasks.nvim)
+- [NycRat/maker.nvim](https://github.com/NycRat/maker.nvim) ![](https://img.shields.io/github/stars/NycRat/maker.nvim) ![](https://img.shields.io/github/last-commit/NycRat/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/maker.nvim)
 
 ### YAML
 
@@ -146,6 +147,7 @@
 - [Egypt-Open-Source/coderunner.nvim](https://github.com/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/stars/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/last-commit/Egypt-Open-Source/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Egypt-Open-Source/coderunner.nvim)
 - [vilari-mickopf/praise-the-run.nvim](https://github.com/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/stars/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/last-commit/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/commit-activity/y/vilari-mickopf/praise-the-run.nvim)
 - [jimmykodes/cheetah.nvim](https://github.com/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/stars/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/last-commit/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmykodes/cheetah.nvim)
+- [GustavEikaas/code-playground.nvim](https://github.com/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/code-playground.nvim)
 
 ## :make style
 

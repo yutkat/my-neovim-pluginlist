@@ -51,6 +51,7 @@
     + [Kind](#kind)
     + [K](#k)
     + [Coq](#coq)
+    + [Idris2](#idris2)
     + [MatLab](#matlab)
     + [Cell](#cell)
     + [Orca](#orca)
@@ -147,6 +148,7 @@
 - [RobertPietraru/bloc.nvim](https://github.com/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/stars/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/last-commit/RobertPietraru/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertPietraru/bloc.nvim)
 - [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/stars/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/last-commit/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertBrunhage/dart-tools.nvim)
 - [wa11breaker/flutter-bloc.nvim](https://github.com/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/stars/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/last-commit/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/wa11breaker/flutter-bloc.nvim)
+- [mayorbyrne/dart-checkForSdkUpdates.nvim](https://github.com/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/stars/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/last-commit/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/commit-activity/y/mayorbyrne/dart-checkForSdkUpdates.nvim)
 
 ### Clojure
 
@@ -309,6 +311,10 @@
 
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
 
+### Idris2
+
+- [crumbtoo/idris2-snippets.nvim](https://github.com/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/stars/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/last-commit/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/crumbtoo/idris2-snippets.nvim)
+
 ### MatLab
 
 - [BalderHolst/matlab.nvim](https://github.com/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/stars/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/last-commit/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/BalderHolst/matlab.nvim)
@@ -401,6 +407,7 @@
 - [eash-d/CPHelper.nvim](https://github.com/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/stars/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/last-commit/eash-d/CPHelper.nvim) ![](https://img.shields.io/github/commit-activity/y/eash-d/CPHelper.nvim)
 - [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/assistant.nvim)
 - [XXiaoA/cp.nvim](https://github.com/XXiaoA/cp.nvim) ![](https://img.shields.io/github/stars/XXiaoA/cp.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/cp.nvim)
+- [DedsecKnight/dactl.nvim](https://github.com/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/stars/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/last-commit/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/commit-activity/y/DedsecKnight/dactl.nvim)
 
 # Computer science
 

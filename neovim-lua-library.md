@@ -6,6 +6,7 @@
 - [Class](#class)
 - [Log](#log)
 - [async](#async)
+- [Thread](#thread)
 - [Coroutine](#coroutine)
 - [Reactive](#reactive)
 - [String](#string)
@@ -85,6 +86,10 @@
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/stars/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/last-commit/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/nvim-nio)
 - [izelnakri/callback.nvim](https://github.com/izelnakri/callback.nvim) ![](https://img.shields.io/github/stars/izelnakri/callback.nvim) ![](https://img.shields.io/github/last-commit/izelnakri/callback.nvim) ![](https://img.shields.io/github/commit-activity/y/izelnakri/callback.nvim)
 
+## Thread
+
+- [aaron-p1/threading.nvim](https://github.com/aaron-p1/threading.nvim) ![](https://img.shields.io/github/stars/aaron-p1/threading.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/threading.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/threading.nvim)
+
 ## Coroutine
 
 - [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ![](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![](https://img.shields.io/github/last-commit/idanarye/nvim-channelot) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-channelot)
@@ -146,6 +151,7 @@
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-qwahl)
 - [liangxianzhe/floating-input.nvim](https://github.com/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/floating-input.nvim)
 - [Axlefublr/selabel.nvim](https://github.com/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/stars/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/selabel.nvim)
+- [Axlefublr/dress.nvim](https://github.com/Axlefublr/dress.nvim) ![](https://img.shields.io/github/stars/Axlefublr/dress.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/dress.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/dress.nvim)
 
 ### Popup
 

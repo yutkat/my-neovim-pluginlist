@@ -69,6 +69,7 @@
 
 - [axkirillov/easypick.nvim](https://github.com/axkirillov/easypick.nvim) ![](https://img.shields.io/github/stars/axkirillov/easypick.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/easypick.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/easypick.nvim)
 - [jake-stewart/pipe.nvim](https://github.com/jake-stewart/pipe.nvim) ![](https://img.shields.io/github/stars/jake-stewart/pipe.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/pipe.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/pipe.nvim)
+- [Axlefublr/wife.nvim](https://github.com/Axlefublr/wife.nvim) ![](https://img.shields.io/github/stars/Axlefublr/wife.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/wife.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/wife.nvim)
 
 #### sudo
 

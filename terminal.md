@@ -60,6 +60,7 @@
 - [lexysoda/nvim-toggle-term](https://github.com/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/stars/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/last-commit/lexysoda/nvim-toggle-term) ![](https://img.shields.io/github/commit-activity/y/lexysoda/nvim-toggle-term)
 - [oroszarnold12/nvim-simpleterm](https://github.com/oroszarnold12/nvim-simpleterm) ![](https://img.shields.io/github/stars/oroszarnold12/nvim-simpleterm) ![](https://img.shields.io/github/last-commit/oroszarnold12/nvim-simpleterm) ![](https://img.shields.io/github/commit-activity/y/oroszarnold12/nvim-simpleterm)
 - [morgsmccauley/termbuf.nvim](https://github.com/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/termbuf.nvim)
+- [9th8/termutils.nvim](https://github.com/9th8/termutils.nvim) ![](https://img.shields.io/github/stars/9th8/termutils.nvim) ![](https://img.shields.io/github/last-commit/9th8/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/9th8/termutils.nvim)
 
 ### Open
 

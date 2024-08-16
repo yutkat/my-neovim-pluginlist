@@ -16,6 +16,7 @@
   * [Aider](#aider)
   * [Otter](#otter)
   * [Gemini](#gemini-1)
+  * [CodeGemma](#codegemma)
   * [Mistral](#mistral)
   * [Mentat](#mentat)
   * [Codeium](#codeium)
@@ -100,6 +101,9 @@
 - [natixgroup/code-ai.nvim](https://github.com/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/stars/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/last-commit/natixgroup/code-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/natixgroup/code-ai.nvim)
 - [shanetwinterhalter/llms.nvim](https://github.com/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/stars/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/last-commit/shanetwinterhalter/llms.nvim) ![](https://img.shields.io/github/commit-activity/y/shanetwinterhalter/llms.nvim)
 - [Chunt0/llm.nvim](https://github.com/Chunt0/llm.nvim) ![](https://img.shields.io/github/stars/Chunt0/llm.nvim) ![](https://img.shields.io/github/last-commit/Chunt0/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/Chunt0/llm.nvim)
+- [maldevide/llm-beamer.nvim](https://github.com/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/stars/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/last-commit/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/commit-activity/y/maldevide/llm-beamer.nvim)
+- [rwtnb/alpha4.nvim](https://github.com/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/stars/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/last-commit/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/commit-activity/y/rwtnb/alpha4.nvim)
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ![](https://img.shields.io/github/stars/yetone/avante.nvim) ![](https://img.shields.io/github/last-commit/yetone/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yetone/avante.nvim)
 
 #### Generate Doc
 
@@ -157,6 +161,10 @@
 ### Gemini
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
+
+### CodeGemma
+
+- [dorage/ppp.nvim](https://github.com/dorage/ppp.nvim) ![](https://img.shields.io/github/stars/dorage/ppp.nvim) ![](https://img.shields.io/github/last-commit/dorage/ppp.nvim) ![](https://img.shields.io/github/commit-activity/y/dorage/ppp.nvim)
 
 ### Mistral
 

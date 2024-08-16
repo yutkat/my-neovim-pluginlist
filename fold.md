@@ -26,6 +26,7 @@
 - [gh-liu/fold_line.nvim](https://github.com/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/stars/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/fold_line.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/fold_line.nvim)
 - [OXY2DEV/foldtext.nvim](https://github.com/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/foldtext.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/foldtext.nvim)
 - [domharries/foldnav.nvim](https://github.com/domharries/foldnav.nvim) ![](https://img.shields.io/github/stars/domharries/foldnav.nvim) ![](https://img.shields.io/github/last-commit/domharries/foldnav.nvim) ![](https://img.shields.io/github/commit-activity/y/domharries/foldnav.nvim)
+- [EtiamNullam/fold-ribbon.nvim](https://github.com/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/fold-ribbon.nvim)
 
 ## Conceal
 
