@@ -83,7 +83,6 @@
 - [mistricky/codesnap.nvim](https://github.com/mistricky/codesnap.nvim) ![](https://img.shields.io/github/stars/mistricky/codesnap.nvim) ![](https://img.shields.io/github/last-commit/mistricky/codesnap.nvim) ![](https://img.shields.io/github/commit-activity/y/mistricky/codesnap.nvim)
 - [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/freeze-code.nvim)
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) ![](https://img.shields.io/github/stars/ndom91/freeze.nvim) ![](https://img.shields.io/github/last-commit/ndom91/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/ndom91/freeze.nvim)
-- [1m-N00b/carbon.nvim](https://github.com/1m-N00b/carbon.nvim) ![](https://img.shields.io/github/stars/1m-N00b/carbon.nvim) ![](https://img.shields.io/github/last-commit/1m-N00b/carbon.nvim) ![](https://img.shields.io/github/commit-activity/y/1m-N00b/carbon.nvim)
 
 ### SVG
 
