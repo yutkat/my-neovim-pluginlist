@@ -22,6 +22,7 @@
 - [rwblokzijl/nvim-jump-mode](https://github.com/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/stars/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/last-commit/rwblokzijl/nvim-jump-mode) ![](https://img.shields.io/github/commit-activity/y/rwblokzijl/nvim-jump-mode)
 - [xiaoshihou514/squirrel.nvim](https://github.com/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/stars/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/last-commit/xiaoshihou514/squirrel.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoshihou514/squirrel.nvim)
 - [lululau/telescope-autojump.nvim](https://github.com/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/stars/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/last-commit/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/telescope-autojump.nvim)
+- [pinbraerts/swipe.nvim](https://github.com/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/stars/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/last-commit/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pinbraerts/swipe.nvim)
 
 ### Error
 
@@ -62,6 +63,7 @@
 - [jake-stewart/filestack.nvim](https://github.com/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/stars/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/filestack.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/filestack.nvim)
 - [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) ![](https://img.shields.io/github/stars/samsze0/jumplist.nvim) ![](https://img.shields.io/github/last-commit/samsze0/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/jumplist.nvim)
 - [adelarsq/jumper.nvim](https://github.com/adelarsq/jumper.nvim) ![](https://img.shields.io/github/stars/adelarsq/jumper.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/jumper.nvim)
+- [Rex-Sanchez/jumplist.nvim](https://github.com/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/stars/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/last-commit/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/Rex-Sanchez/jumplist.nvim)
 
 ### Edit History
 

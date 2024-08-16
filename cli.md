@@ -46,6 +46,7 @@
   * [Snyk Code](#snyk-code)
   * [Croc](#croc)
   * [sc-im](#sc-im)
+  * [ledger](#ledger)
   * [diagon](#diagon)
   * [k8s (Kubernetes)](#k8s-kubernetes)
 
@@ -219,6 +220,7 @@
 #### ssh
 
 - [thiru/telescope-ssh.nvim](https://github.com/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/stars/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/last-commit/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/telescope-ssh.nvim)
+- [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
 
 #### ftp
 
@@ -302,6 +304,10 @@
 #### sc-im
 
 - [DAmesberger/sc-im.nvim](https://github.com/DAmesberger/sc-im.nvim) ![](https://img.shields.io/github/stars/DAmesberger/sc-im.nvim) ![](https://img.shields.io/github/last-commit/DAmesberger/sc-im.nvim) ![](https://img.shields.io/github/commit-activity/y/DAmesberger/sc-im.nvim)
+
+#### ledger
+
+- [wllfaria/ledger.nvim](https://github.com/wllfaria/ledger.nvim) ![](https://img.shields.io/github/stars/wllfaria/ledger.nvim) ![](https://img.shields.io/github/last-commit/wllfaria/ledger.nvim) ![](https://img.shields.io/github/commit-activity/y/wllfaria/ledger.nvim)
 
 #### diagon
 

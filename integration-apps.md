@@ -177,6 +177,7 @@
 ### TUI
 
 - [samsze0/tui.nvim](https://github.com/samsze0/tui.nvim) ![](https://img.shields.io/github/stars/samsze0/tui.nvim) ![](https://img.shields.io/github/last-commit/samsze0/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/tui.nvim)
+- [ezechukwu69/tui.nvim](https://github.com/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/tui.nvim)
 
 ### Terminal
 
@@ -321,6 +322,7 @@
 - [puddings233/fcitx5-switcher.nvim](https://github.com/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/stars/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/last-commit/puddings233/fcitx5-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/puddings233/fcitx5-switcher.nvim)
 - [DeccanLin/im-select.nvim](https://github.com/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/stars/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/last-commit/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/DeccanLin/im-select.nvim)
 - [Freed-Wu/ime.nvim](https://github.com/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/ime.nvim)
+- [lazy-dinosaur/Backtoeng.nvim](https://github.com/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/stars/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/last-commit/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/commit-activity/y/lazy-dinosaur/Backtoeng.nvim)
 
 #### Fcitx
 

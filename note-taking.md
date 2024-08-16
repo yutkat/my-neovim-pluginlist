@@ -154,6 +154,7 @@
 ## Linear.app
 
 - [alma3lol/linear.nvim](https://github.com/alma3lol/linear.nvim) ![](https://img.shields.io/github/stars/alma3lol/linear.nvim) ![](https://img.shields.io/github/last-commit/alma3lol/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/alma3lol/linear.nvim)
+- [mvaldes14/linear.nvim](https://github.com/mvaldes14/linear.nvim) ![](https://img.shields.io/github/stars/mvaldes14/linear.nvim) ![](https://img.shields.io/github/last-commit/mvaldes14/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/mvaldes14/linear.nvim)
 
 ## BibleGateway
 
@@ -181,6 +182,7 @@
 - [CoderJoshDK/playground.nvim](https://github.com/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/stars/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/last-commit/CoderJoshDK/playground.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderJoshDK/playground.nvim)
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
+- [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
 
 ## inline note
 
@@ -257,3 +259,4 @@
 - [tcrundall/gtd.nvim](https://github.com/tcrundall/gtd.nvim) ![](https://img.shields.io/github/stars/tcrundall/gtd.nvim) ![](https://img.shields.io/github/last-commit/tcrundall/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/tcrundall/gtd.nvim)
 - [makefunstuff/sketchbook.nvim](https://github.com/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/stars/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/last-commit/makefunstuff/sketchbook.nvim) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/sketchbook.nvim)
 - [sfrieds3/easynote.nvim](https://github.com/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/stars/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/last-commit/sfrieds3/easynote.nvim) ![](https://img.shields.io/github/commit-activity/y/sfrieds3/easynote.nvim)
+- [Praczet/habits-tracker.nvim](https://github.com/Praczet/habits-tracker.nvim) ![](https://img.shields.io/github/stars/Praczet/habits-tracker.nvim) ![](https://img.shields.io/github/last-commit/Praczet/habits-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/habits-tracker.nvim)

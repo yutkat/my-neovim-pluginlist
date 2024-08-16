@@ -45,6 +45,7 @@
 - [devoc09/session-manager.nvim](https://github.com/devoc09/session-manager.nvim) ![](https://img.shields.io/github/stars/devoc09/session-manager.nvim) ![](https://img.shields.io/github/last-commit/devoc09/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/devoc09/session-manager.nvim)
 - [qtyra/smart-persistence.nvim](https://github.com/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/stars/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/last-commit/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/commit-activity/y/qtyra/smart-persistence.nvim)
 - [lazicnemanja/tjuvar.nvim](https://github.com/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/stars/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/last-commit/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/commit-activity/y/lazicnemanja/tjuvar.nvim)
+- [sebajun9/seshi.nvim](https://github.com/sebajun9/seshi.nvim) ![](https://img.shields.io/github/stars/sebajun9/seshi.nvim) ![](https://img.shields.io/github/last-commit/sebajun9/seshi.nvim) ![](https://img.shields.io/github/commit-activity/y/sebajun9/seshi.nvim)
 
 ## Session Selector
 

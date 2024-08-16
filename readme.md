@@ -319,6 +319,7 @@
 - [gvlatko/inline-relative-numbers.nvim](https://github.com/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/stars/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/last-commit/gvlatko/inline-relative-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/gvlatko/inline-relative-numbers.nvim)
 - [togawalk/relative-toggle.nvim](https://github.com/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/stars/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/last-commit/togawalk/relative-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/togawalk/relative-toggle.nvim)
 - [prichrd/flagmode.nvim](https://github.com/prichrd/flagmode.nvim) ![](https://img.shields.io/github/stars/prichrd/flagmode.nvim) ![](https://img.shields.io/github/last-commit/prichrd/flagmode.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/flagmode.nvim)
+- [redxtech/sharing.nvim](https://github.com/redxtech/sharing.nvim) ![](https://img.shields.io/github/stars/redxtech/sharing.nvim) ![](https://img.shields.io/github/last-commit/redxtech/sharing.nvim) ![](https://img.shields.io/github/commit-activity/y/redxtech/sharing.nvim)
 
 ### [Mark](./mark.md)
 
@@ -451,6 +452,7 @@
 
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 - [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
+- [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
 
 ### [Translate](./translate.md)
 
