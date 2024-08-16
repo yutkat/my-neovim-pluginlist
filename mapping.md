@@ -51,6 +51,7 @@
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) ![](https://img.shields.io/github/stars/LionC/nest.nvim) ![](https://img.shields.io/github/last-commit/LionC/nest.nvim) ![](https://img.shields.io/github/commit-activity/y/LionC/nest.nvim)
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/stars/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-cartographer)
 - [Chaitanyabsprip/hashish.nvim](https://github.com/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/hashish.nvim)
+- [Std-Enigma/mapper.nvim](https://github.com/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/stars/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/last-commit/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Std-Enigma/mapper.nvim)
 
 ## instant mapping
 
