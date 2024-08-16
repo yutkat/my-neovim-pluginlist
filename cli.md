@@ -211,6 +211,7 @@
 - [Tornjk/dotnet.nvim](https://github.com/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/stars/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/last-commit/Tornjk/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/Tornjk/dotnet.nvim)
 - [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-dotnet.nvim)
 - [notelgnis/netbuild.nvim](https://github.com/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/stars/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/last-commit/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/notelgnis/netbuild.nvim)
+- [MoaidHathot/dotnet.nvim](https://github.com/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/stars/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/last-commit/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/MoaidHathot/dotnet.nvim)
 
 ##### Nuget
 
