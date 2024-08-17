@@ -46,6 +46,7 @@
 - [qtyra/smart-persistence.nvim](https://github.com/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/stars/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/last-commit/qtyra/smart-persistence.nvim) ![](https://img.shields.io/github/commit-activity/y/qtyra/smart-persistence.nvim)
 - [lazicnemanja/tjuvar.nvim](https://github.com/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/stars/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/last-commit/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/commit-activity/y/lazicnemanja/tjuvar.nvim)
 - [sebajun9/seshi.nvim](https://github.com/sebajun9/seshi.nvim) ![](https://img.shields.io/github/stars/sebajun9/seshi.nvim) ![](https://img.shields.io/github/last-commit/sebajun9/seshi.nvim) ![](https://img.shields.io/github/commit-activity/y/sebajun9/seshi.nvim)
+- [naaysayer/nvim-gitsessions](https://github.com/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/stars/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/last-commit/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/commit-activity/y/naaysayer/nvim-gitsessions)
 
 ## Session Selector
 
