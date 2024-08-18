@@ -11,6 +11,7 @@
     + [Show jump word](#show-jump-word)
   * [Motion Label](#motion-label)
   * [Vertical Move](#vertical-move)
+  * [Cursor motion](#cursor-motion)
   * [Word Motion](#word-motion)
   * [Line Move](#line-move)
   * [Emacs Motion](#emacs-motion)
@@ -101,6 +102,10 @@
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/commit-activity/y/drybalka/tree-climber.nvim)
 - [woosaaahh/vertigo.nvim](https://github.com/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/stars/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/vertigo.nvim)
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/stars/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/last-commit/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/mluders/comfy-line-numbers.nvim)
+
+### Cursor motion
+
+- [phanen/made-in-heaven.nvim](https://github.com/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/stars/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/last-commit/phanen/made-in-heaven.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/made-in-heaven.nvim)
 
 ### Word Motion
 

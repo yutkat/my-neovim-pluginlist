@@ -50,6 +50,7 @@
 ### Go to File
 
 - [rohanorton/lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/stars/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/lua-gf.nvim)
+- [vE5li/better-goto-file.nvim](https://github.com/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/stars/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/last-commit/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/better-goto-file.nvim)
 
 ### jumplist
 
