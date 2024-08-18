@@ -102,6 +102,7 @@
 - [gloggers99/build.nvim](https://github.com/gloggers99/build.nvim) ![](https://img.shields.io/github/stars/gloggers99/build.nvim) ![](https://img.shields.io/github/last-commit/gloggers99/build.nvim) ![](https://img.shields.io/github/commit-activity/y/gloggers99/build.nvim)
 - [M4rti21/compi.nvim](https://github.com/M4rti21/compi.nvim) ![](https://img.shields.io/github/stars/M4rti21/compi.nvim) ![](https://img.shields.io/github/last-commit/M4rti21/compi.nvim) ![](https://img.shields.io/github/commit-activity/y/M4rti21/compi.nvim)
 - [HE7086/code-runner.nvim](https://github.com/HE7086/code-runner.nvim) ![](https://img.shields.io/github/stars/HE7086/code-runner.nvim) ![](https://img.shields.io/github/last-commit/HE7086/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/code-runner.nvim)
+- [badumbatish/brt.nvim](https://github.com/badumbatish/brt.nvim) ![](https://img.shields.io/github/stars/badumbatish/brt.nvim) ![](https://img.shields.io/github/last-commit/badumbatish/brt.nvim) ![](https://img.shields.io/github/commit-activity/y/badumbatish/brt.nvim)
 
 ### Shell
 
