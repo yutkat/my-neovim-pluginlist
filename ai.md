@@ -19,6 +19,7 @@
   * [CodeGemma](#codegemma)
   * [Mistral](#mistral)
   * [Mentat](#mentat)
+  * [Worker AI](#worker-ai)
   * [Codeium](#codeium)
   * [Codegeex](#codegeex)
   * [lsp-ai](#lsp-ai)
@@ -77,6 +78,7 @@
 - [yacineMTB/dingllm.nvim](https://github.com/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/stars/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/last-commit/yacineMTB/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/yacineMTB/dingllm.nvim)
 - [chottolabs/kznllm.nvim](https://github.com/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/stars/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/last-commit/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/commit-activity/y/chottolabs/kznllm.nvim)
 - [evanmcneely/enlighten.nvim](https://github.com/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/stars/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/last-commit/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcneely/enlighten.nvim)
+- [grahamking/calum.nvim](https://github.com/grahamking/calum.nvim) ![](https://img.shields.io/github/stars/grahamking/calum.nvim) ![](https://img.shields.io/github/last-commit/grahamking/calum.nvim) ![](https://img.shields.io/github/commit-activity/y/grahamking/calum.nvim)
 
 #### log
 
@@ -173,6 +175,10 @@
 ### Mentat
 
 - [hesiod-au/mentat.nvim](https://github.com/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/stars/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/mentat.nvim)
+
+### Worker AI
+
+- [StubbornVegeta/llm.nvim](https://github.com/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/stars/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/last-commit/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/StubbornVegeta/llm.nvim)
 
 ### Codeium 
 
