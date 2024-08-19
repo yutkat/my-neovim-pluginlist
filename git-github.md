@@ -334,6 +334,7 @@
 
 - [topaxi/gh-actions.nvim](https://github.com/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/stars/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/topaxi/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/gh-actions.nvim)
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
+- [GustavEikaas/gh-actions.nvim](https://github.com/GustavEikaas/gh-actions.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/gh-actions.nvim)
 
 ## Link
 

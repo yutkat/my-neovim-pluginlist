@@ -24,6 +24,7 @@
   * [Scrapy](#scrapy)
 - [MicroPython](#micropython)
 - [Quix](#quix)
+- [Nuke](#nuke)
 
 <!-- tocstop -->
 
@@ -147,3 +148,7 @@
 
 - [krisajenkins/telescope-quix.nvim](https://github.com/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-quix.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-quix.nvim)
 
+
+### Nuke
+
+- [sisoe24/nuketools.nvim](https://github.com/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/stars/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/last-commit/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/commit-activity/y/sisoe24/nuketools.nvim)

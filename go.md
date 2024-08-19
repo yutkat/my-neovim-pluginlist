@@ -8,6 +8,7 @@
   * [Test](#test)
   * [packages](#packages)
   * [struct](#struct)
+  * [return](#return)
   * [impl](#impl)
   * [implement](#implement)
   * [Type](#type)
@@ -71,6 +72,10 @@
 
 - [triarius/json2struct.nvim](https://github.com/triarius/json2struct.nvim) ![](https://img.shields.io/github/stars/triarius/json2struct.nvim) ![](https://img.shields.io/github/last-commit/triarius/json2struct.nvim) ![](https://img.shields.io/github/commit-activity/y/triarius/json2struct.nvim)
 - [devkvlt/go-tags.nvim](https://github.com/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/stars/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/last-commit/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/commit-activity/y/devkvlt/go-tags.nvim)
+
+### return
+
+- [Jay-Madden/auto-fix-return.nvim](https://github.com/Jay-Madden/auto-fix-return.nvim) ![](https://img.shields.io/github/stars/Jay-Madden/auto-fix-return.nvim) ![](https://img.shields.io/github/last-commit/Jay-Madden/auto-fix-return.nvim) ![](https://img.shields.io/github/commit-activity/y/Jay-Madden/auto-fix-return.nvim)
 
 ### impl
 
