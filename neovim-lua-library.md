@@ -174,6 +174,7 @@
 ## Error handling
 
 - [uga-rosa/lua-utils.nvim](https://github.com/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/stars/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/lua-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/lua-utils.nvim)
+- [aaron-p1/handle_lua_errors.nvim](https://github.com/aaron-p1/handle_lua_errors.nvim) ![](https://img.shields.io/github/stars/aaron-p1/handle_lua_errors.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/handle_lua_errors.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/handle_lua_errors.nvim)
 
 ## Assert
 
