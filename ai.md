@@ -79,6 +79,7 @@
 - [chottolabs/kznllm.nvim](https://github.com/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/stars/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/last-commit/chottolabs/kznllm.nvim) ![](https://img.shields.io/github/commit-activity/y/chottolabs/kznllm.nvim)
 - [evanmcneely/enlighten.nvim](https://github.com/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/stars/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/last-commit/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcneely/enlighten.nvim)
 - [grahamking/calum.nvim](https://github.com/grahamking/calum.nvim) ![](https://img.shields.io/github/stars/grahamking/calum.nvim) ![](https://img.shields.io/github/last-commit/grahamking/calum.nvim) ![](https://img.shields.io/github/commit-activity/y/grahamking/calum.nvim)
+- [breytenlybaert/pythia.nvim](https://github.com/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/stars/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/last-commit/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/commit-activity/y/breytenlybaert/pythia.nvim)
 
 #### log
 
@@ -143,6 +144,7 @@
 - [magicalne/fim.nvim](https://github.com/magicalne/fim.nvim) ![](https://img.shields.io/github/stars/magicalne/fim.nvim) ![](https://img.shields.io/github/last-commit/magicalne/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/magicalne/fim.nvim)
 - [oxatruchdev/ollama.nvim](https://github.com/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/stars/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/last-commit/oxatruchdev/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/oxatruchdev/ollama.nvim)
 - [thetien2k2/ollamacmp.nvim](https://github.com/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/stars/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/last-commit/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/commit-activity/y/thetien2k2/ollamacmp.nvim)
+- [spielhuus/llamacode.nvim](https://github.com/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/stars/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/last-commit/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/commit-activity/y/spielhuus/llamacode.nvim)
 
 ### Claude
 
