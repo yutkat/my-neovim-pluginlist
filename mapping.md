@@ -45,6 +45,7 @@
 - [tummetott/unimpaired.nvim](https://github.com/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/stars/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/last-commit/tummetott/unimpaired.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/unimpaired.nvim)
 - [mirlge/kak.nvim](https://github.com/mirlge/kak.nvim) ![](https://img.shields.io/github/stars/mirlge/kak.nvim) ![](https://img.shields.io/github/last-commit/mirlge/kak.nvim) ![](https://img.shields.io/github/commit-activity/y/mirlge/kak.nvim)
 - [lthms/bepo-tsrn.nvim](https://github.com/lthms/bepo-tsrn.nvim) ![](https://img.shields.io/github/stars/lthms/bepo-tsrn.nvim) ![](https://img.shields.io/github/last-commit/lthms/bepo-tsrn.nvim) ![](https://img.shields.io/github/commit-activity/y/lthms/bepo-tsrn.nvim)
+- [groutoutlook/emacsinsert.nvim](https://github.com/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/stars/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/last-commit/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/groutoutlook/emacsinsert.nvim)
 
 ### map function utiliy
 

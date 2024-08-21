@@ -47,6 +47,7 @@
 - [lazicnemanja/tjuvar.nvim](https://github.com/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/stars/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/last-commit/lazicnemanja/tjuvar.nvim) ![](https://img.shields.io/github/commit-activity/y/lazicnemanja/tjuvar.nvim)
 - [sebajun9/seshi.nvim](https://github.com/sebajun9/seshi.nvim) ![](https://img.shields.io/github/stars/sebajun9/seshi.nvim) ![](https://img.shields.io/github/last-commit/sebajun9/seshi.nvim) ![](https://img.shields.io/github/commit-activity/y/sebajun9/seshi.nvim)
 - [naaysayer/nvim-gitsessions](https://github.com/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/stars/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/last-commit/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/commit-activity/y/naaysayer/nvim-gitsessions)
+- [anekos/achoo.nvim](https://github.com/anekos/achoo.nvim) ![](https://img.shields.io/github/stars/anekos/achoo.nvim) ![](https://img.shields.io/github/last-commit/anekos/achoo.nvim) ![](https://img.shields.io/github/commit-activity/y/anekos/achoo.nvim)
 
 ## Session Selector
 

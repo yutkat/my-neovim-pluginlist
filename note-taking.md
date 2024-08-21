@@ -13,6 +13,7 @@
   * [Typst](#typst)
   * [Dendron](#dendron)
   * [Linear.app](#linearapp)
+  * [Omnivore](#omnivore)
   * [BibleGateway](#biblegateway)
   * [Wiki](#wiki)
   * [VimWiki](#vimwiki)
@@ -155,6 +156,10 @@
 
 - [alma3lol/linear.nvim](https://github.com/alma3lol/linear.nvim) ![](https://img.shields.io/github/stars/alma3lol/linear.nvim) ![](https://img.shields.io/github/last-commit/alma3lol/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/alma3lol/linear.nvim)
 - [mvaldes14/linear.nvim](https://github.com/mvaldes14/linear.nvim) ![](https://img.shields.io/github/stars/mvaldes14/linear.nvim) ![](https://img.shields.io/github/last-commit/mvaldes14/linear.nvim) ![](https://img.shields.io/github/commit-activity/y/mvaldes14/linear.nvim)
+
+## Omnivore
+
+- [rgibbons-dev/gitsync.nvim](https://github.com/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/stars/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/last-commit/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/commit-activity/y/rgibbons-dev/gitsync.nvim)
 
 ## BibleGateway
 

@@ -107,6 +107,7 @@
 - [maldevide/llm-beamer.nvim](https://github.com/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/stars/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/last-commit/maldevide/llm-beamer.nvim) ![](https://img.shields.io/github/commit-activity/y/maldevide/llm-beamer.nvim)
 - [rwtnb/alpha4.nvim](https://github.com/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/stars/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/last-commit/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/commit-activity/y/rwtnb/alpha4.nvim)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ![](https://img.shields.io/github/stars/yetone/avante.nvim) ![](https://img.shields.io/github/last-commit/yetone/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yetone/avante.nvim)
+  - [yuchanns/avante_bedrock.nvim](https://github.com/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/stars/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/avante_bedrock.nvim)
 
 #### Generate Doc
 
