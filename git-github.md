@@ -217,6 +217,7 @@
 ## git pull
 
 - [Jarvismkennedy/git-auto-sync.nvim](https://github.com/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/stars/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/last-commit/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/Jarvismkennedy/git-auto-sync.nvim)
+- [rgibbons-dev/gitsync.nvim](https://github.com/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/stars/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/last-commit/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/commit-activity/y/rgibbons-dev/gitsync.nvim)
 
 ## git open
 
