@@ -18,6 +18,7 @@
 - [mogulla3/autosave.nvim](https://github.com/mogulla3/autosave.nvim) ![](https://img.shields.io/github/stars/mogulla3/autosave.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/autosave.nvim)
 - [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) ![](https://img.shields.io/github/stars/willothy/savior.nvim) ![](https://img.shields.io/github/last-commit/willothy/savior.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/savior.nvim)
+- [Little-Captain/auto-save.nvim](https://github.com/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/stars/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/last-commit/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/Little-Captain/auto-save.nvim)
 
 ### Cursor Position
 

@@ -20,6 +20,7 @@
   * [Window Separators](#window-separators)
   * [Screen position](#screen-position)
   * [Wrap line](#wrap-line)
+  * [modeline](#modeline)
   * [Mode](#mode)
   * [Scrollbar](#scrollbar)
   * [Appearance](#appearance)
@@ -198,6 +199,10 @@
 - [benlubas/wrapping-paper.nvim](https://github.com/benlubas/wrapping-paper.nvim) ![](https://img.shields.io/github/stars/benlubas/wrapping-paper.nvim) ![](https://img.shields.io/github/last-commit/benlubas/wrapping-paper.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/wrapping-paper.nvim)
 - [rlychrisg/truncateline.nvim](https://github.com/rlychrisg/truncateline.nvim) ![](https://img.shields.io/github/stars/rlychrisg/truncateline.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/truncateline.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/truncateline.nvim)
 
+### modeline
+
+- [RoBaertschi/modeline2.nvim](https://github.com/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/stars/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/last-commit/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/commit-activity/y/RoBaertschi/modeline2.nvim)
+
 ### [Mode](./mode.md)
 
 ### [Scrollbar](./scrollbar.md)
@@ -357,6 +362,7 @@
 - [manning390/wrd.nvim](https://github.com/manning390/wrd.nvim) ![](https://img.shields.io/github/stars/manning390/wrd.nvim) ![](https://img.shields.io/github/last-commit/manning390/wrd.nvim) ![](https://img.shields.io/github/commit-activity/y/manning390/wrd.nvim)
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
 - [pythonmcpi/define.nvim](https://github.com/pythonmcpi/define.nvim) ![](https://img.shields.io/github/stars/pythonmcpi/define.nvim) ![](https://img.shields.io/github/last-commit/pythonmcpi/define.nvim) ![](https://img.shields.io/github/commit-activity/y/pythonmcpi/define.nvim)
+- [Praczet/words-the-def.nvim](https://github.com/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/stars/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/last-commit/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/words-the-def.nvim)
 
 ### digraph
 

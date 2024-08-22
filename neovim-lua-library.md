@@ -268,6 +268,7 @@
 
 - [mvllow/matcha.nvim](https://github.com/mvllow/matcha.nvim) ![](https://img.shields.io/github/stars/mvllow/matcha.nvim) ![](https://img.shields.io/github/last-commit/mvllow/matcha.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/matcha.nvim)
 - [CWood-sdf/future.nvim](https://github.com/CWood-sdf/future.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/future.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/future.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/future.nvim)
+- [gregorias/predicate-autocmd.nvim](https://github.com/gregorias/predicate-autocmd.nvim) ![](https://img.shields.io/github/stars/gregorias/predicate-autocmd.nvim) ![](https://img.shields.io/github/last-commit/gregorias/predicate-autocmd.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/predicate-autocmd.nvim)
 
 ## Color
 
