@@ -253,6 +253,7 @@
 - [harryvince/aws-sdk.nvim](https://github.com/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/stars/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/last-commit/harryvince/aws-sdk.nvim) ![](https://img.shields.io/github/commit-activity/y/harryvince/aws-sdk.nvim)
 - [oguzhancoskun/aws-ssm.nvim](https://github.com/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-ssm.nvim)
 - [liraymond04/awa5_rs.nvim](https://github.com/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/stars/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/last-commit/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/commit-activity/y/liraymond04/awa5_rs.nvim)
+- [zuzmuz/nvimawscli](https://github.com/zuzmuz/nvimawscli) ![](https://img.shields.io/github/stars/zuzmuz/nvimawscli) ![](https://img.shields.io/github/last-commit/zuzmuz/nvimawscli) ![](https://img.shields.io/github/commit-activity/y/zuzmuz/nvimawscli)
 
 ##### S3
 
