@@ -422,6 +422,7 @@
 ## Graphite
 
 - [kroucher/graphite.nvim](https://github.com/kroucher/graphite.nvim) ![](https://img.shields.io/github/stars/kroucher/graphite.nvim) ![](https://img.shields.io/github/last-commit/kroucher/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/kroucher/graphite.nvim)
+- [chrisaddy/graphite.nvim](https://github.com/chrisaddy/graphite.nvim) ![](https://img.shields.io/github/stars/chrisaddy/graphite.nvim) ![](https://img.shields.io/github/last-commit/chrisaddy/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisaddy/graphite.nvim)
 
 ## Backup
 
