@@ -102,6 +102,7 @@
 - [hsaker312/diagnostics-details.nvim](https://github.com/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/stars/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/last-commit/hsaker312/diagnostics-details.nvim) ![](https://img.shields.io/github/commit-activity/y/hsaker312/diagnostics-details.nvim)
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-inline-diagnostic.nvim)
 - [sontungexpt/better-diagnostic-virtual-text](https://github.com/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/stars/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/last-commit/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/better-diagnostic-virtual-text)
+- [maxmx03/diagpop.nvim](https://github.com/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/stars/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/diagpop.nvim)
 
 ##### Diagnostics goto
 
@@ -139,6 +140,7 @@
 - [VidocqH/lsp-lens.nvim](https://github.com/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/stars/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/last-commit/VidocqH/lsp-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/VidocqH/lsp-lens.nvim)
 - [KostkaBrukowa/definition-or-references.nvim](https://github.com/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/stars/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/last-commit/KostkaBrukowa/definition-or-references.nvim) ![](https://img.shields.io/github/commit-activity/y/KostkaBrukowa/definition-or-references.nvim)
 - [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/stars/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/symbol-usage.nvim)
+- [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) ![](https://img.shields.io/github/stars/mawkler/refjump.nvim) ![](https://img.shields.io/github/last-commit/mawkler/refjump.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/refjump.nvim)
 
 #### Code action
 

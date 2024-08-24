@@ -31,6 +31,7 @@
 - [guilherme-puida/tesoura.nvim](https://github.com/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/stars/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/last-commit/guilherme-puida/tesoura.nvim) ![](https://img.shields.io/github/commit-activity/y/guilherme-puida/tesoura.nvim)
 - [mfussenegger/nvim-snippasta](https://github.com/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/stars/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-snippasta) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-snippasta)
 - [aattoa/nvim-simple-snippets](https://github.com/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/stars/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/last-commit/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-simple-snippets)
+- [pik4li/telesnip.nvim](https://github.com/pik4li/telesnip.nvim) ![](https://img.shields.io/github/stars/pik4li/telesnip.nvim) ![](https://img.shields.io/github/last-commit/pik4li/telesnip.nvim) ![](https://img.shields.io/github/commit-activity/y/pik4li/telesnip.nvim)
 
 #### Snippet definitions
 

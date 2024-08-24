@@ -21,6 +21,7 @@
     + [Jupyter style](#jupyter-style)
   * [Monitor](#monitor)
   * [Preset task](#preset-task)
+  * [moon (moonrepo)](#moon-moonrepo)
 
 <!-- tocstop -->
 
@@ -203,3 +204,7 @@
 ## Preset task
 
 - [mbwilding/profiles.nvim](https://github.com/mbwilding/profiles.nvim) ![](https://img.shields.io/github/stars/mbwilding/profiles.nvim) ![](https://img.shields.io/github/last-commit/mbwilding/profiles.nvim) ![](https://img.shields.io/github/commit-activity/y/mbwilding/profiles.nvim)
+
+## moon (moonrepo)
+
+- [nhomble/moon-monorepo.nvim](https://github.com/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/stars/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/last-commit/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/nhomble/moon-monorepo.nvim)
