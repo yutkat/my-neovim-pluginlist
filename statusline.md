@@ -52,6 +52,7 @@
 - [NeViRAIDE/neviline.nvim](https://github.com/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/neviline.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/neviline.nvim)
 - [richardhbtz/blitzline.nvim](https://github.com/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/stars/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/last-commit/richardhbtz/blitzline.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhbtz/blitzline.nvim)
 - [abhilash26/zenline.nvim](https://github.com/abhilash26/zenline.nvim) ![](https://img.shields.io/github/stars/abhilash26/zenline.nvim) ![](https://img.shields.io/github/last-commit/abhilash26/zenline.nvim) ![](https://img.shields.io/github/commit-activity/y/abhilash26/zenline.nvim)
+- [sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/stars/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/last-commit/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/commit-activity/y/sschleemilch/slimline.nvim)
 
 ### Simple
 
