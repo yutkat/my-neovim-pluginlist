@@ -18,4 +18,4 @@
 - [RaafatTurki/hex.nvim](https://github.com/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/stars/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/last-commit/RaafatTurki/hex.nvim) ![](https://img.shields.io/github/commit-activity/y/RaafatTurki/hex.nvim)
 - [vetsE/hexamine.nvim](https://github.com/vetsE/hexamine.nvim) ![](https://img.shields.io/github/stars/vetsE/hexamine.nvim) ![](https://img.shields.io/github/last-commit/vetsE/hexamine.nvim) ![](https://img.shields.io/github/commit-activity/y/vetsE/hexamine.nvim)
 - [ArcaneSpecs/HexEditor.nvim](https://github.com/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/stars/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/last-commit/ArcaneSpecs/HexEditor.nvim) ![](https://img.shields.io/github/commit-activity/y/ArcaneSpecs/HexEditor.nvim)
-
+- [dmxk062/bined.nvim](https://github.com/dmxk062/bined.nvim) ![](https://img.shields.io/github/stars/dmxk062/bined.nvim) ![](https://img.shields.io/github/last-commit/dmxk062/bined.nvim) ![](https://img.shields.io/github/commit-activity/y/dmxk062/bined.nvim)

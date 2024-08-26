@@ -41,6 +41,7 @@
 - [danilshvalov/org-modern.nvim](https://github.com/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/stars/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/last-commit/danilshvalov/org-modern.nvim) ![](https://img.shields.io/github/commit-activity/y/danilshvalov/org-modern.nvim)
 - [Jobin-Nelson/org-tangle.nvim](https://github.com/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/stars/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/last-commit/Jobin-Nelson/org-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/Jobin-Nelson/org-tangle.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
+  - [bi0ha2ard/telescope-org_roam.nvim](https://github.com/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/telescope-org_roam.nvim)
 - [massix/org-checkbox.nvim](https://github.com/massix/org-checkbox.nvim) ![](https://img.shields.io/github/stars/massix/org-checkbox.nvim) ![](https://img.shields.io/github/last-commit/massix/org-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/org-checkbox.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 
@@ -116,6 +117,7 @@
 - [mlp1802/periscope.nvim](https://github.com/mlp1802/periscope.nvim) ![](https://img.shields.io/github/stars/mlp1802/periscope.nvim) ![](https://img.shields.io/github/last-commit/mlp1802/periscope.nvim) ![](https://img.shields.io/github/commit-activity/y/mlp1802/periscope.nvim)
 - [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim) ![](https://img.shields.io/github/stars/niuiic/todo.nvim) ![](https://img.shields.io/github/last-commit/niuiic/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/todo.nvim)
 - [tadashi-aikawa/ghostwriter.nvim](https://github.com/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/ghostwriter.nvim)
+- [crimsoncrayfish/todo.nvim](https://github.com/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/stars/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/last-commit/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/crimsoncrayfish/todo.nvim)
 
 ### Taskwarrior
 
