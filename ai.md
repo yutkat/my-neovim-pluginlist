@@ -81,6 +81,7 @@
 - [evanmcneely/enlighten.nvim](https://github.com/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/stars/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/last-commit/evanmcneely/enlighten.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcneely/enlighten.nvim)
 - [grahamking/calum.nvim](https://github.com/grahamking/calum.nvim) ![](https://img.shields.io/github/stars/grahamking/calum.nvim) ![](https://img.shields.io/github/last-commit/grahamking/calum.nvim) ![](https://img.shields.io/github/commit-activity/y/grahamking/calum.nvim)
 - [breytenlybaert/pythia.nvim](https://github.com/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/stars/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/last-commit/breytenlybaert/pythia.nvim) ![](https://img.shields.io/github/commit-activity/y/breytenlybaert/pythia.nvim)
+- [baketnk/l.nvim](https://github.com/baketnk/l.nvim) ![](https://img.shields.io/github/stars/baketnk/l.nvim) ![](https://img.shields.io/github/last-commit/baketnk/l.nvim) ![](https://img.shields.io/github/commit-activity/y/baketnk/l.nvim)
 
 #### log
 
