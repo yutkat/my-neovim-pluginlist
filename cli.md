@@ -220,7 +220,6 @@
 
 #### ssh
 
-- [thiru/telescope-ssh.nvim](https://github.com/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/stars/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/last-commit/thiru/telescope-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/thiru/telescope-ssh.nvim)
 - [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
 
 #### ftp
