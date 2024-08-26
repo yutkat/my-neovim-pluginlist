@@ -12,6 +12,7 @@
   * [Llama](#llama)
   * [Ollama](#ollama)
   * [Claude](#claude)
+  * [Supermaven](#supermaven)
   * [greptile](#greptile)
   * [Aider](#aider)
   * [Otter](#otter)
@@ -152,6 +153,10 @@
 ### Claude
 
 - [evangstav/claude.nvim](https://github.com/evangstav/claude.nvim) ![](https://img.shields.io/github/stars/evangstav/claude.nvim) ![](https://img.shields.io/github/last-commit/evangstav/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/evangstav/claude.nvim)
+
+### Supermaven
+
+- [supermaven-inc/supermaven-nvim](https://github.com/supermaven-inc/supermaven-nvim) ![](https://img.shields.io/github/stars/supermaven-inc/supermaven-nvim) ![](https://img.shields.io/github/last-commit/supermaven-inc/supermaven-nvim) ![](https://img.shields.io/github/commit-activity/y/supermaven-inc/supermaven-nvim)
 
 ### greptile
 
