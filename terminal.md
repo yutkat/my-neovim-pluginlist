@@ -68,6 +68,7 @@
 - [karvla/term-toggle.nvim](https://github.com/karvla/term-toggle.nvim) ![](https://img.shields.io/github/stars/karvla/term-toggle.nvim) ![](https://img.shields.io/github/last-commit/karvla/term-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/karvla/term-toggle.nvim)
 - [jam1015/nvim-smart-termsplit](https://github.com/jam1015/nvim-smart-termsplit) ![](https://img.shields.io/github/stars/jam1015/nvim-smart-termsplit) ![](https://img.shields.io/github/last-commit/jam1015/nvim-smart-termsplit) ![](https://img.shields.io/github/commit-activity/y/jam1015/nvim-smart-termsplit)
 - [ChrisBrowne/terminal-toggle.nvim](https://github.com/ChrisBrowne/terminal-toggle.nvim) ![](https://img.shields.io/github/stars/ChrisBrowne/terminal-toggle.nvim) ![](https://img.shields.io/github/last-commit/ChrisBrowne/terminal-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisBrowne/terminal-toggle.nvim)
+- [LiXuanqi/termx.nvim](https://github.com/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/termx.nvim)
 
 ### Edit
 

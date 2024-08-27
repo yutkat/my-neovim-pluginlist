@@ -371,6 +371,7 @@
 - [candy12t/github-link.nvim](https://github.com/candy12t/github-link.nvim) ![](https://img.shields.io/github/stars/candy12t/github-link.nvim) ![](https://img.shields.io/github/last-commit/candy12t/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/github-link.nvim)
 - [ksaito422/remote-line.nvim](https://github.com/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/stars/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/last-commit/ksaito422/remote-line.nvim) ![](https://img.shields.io/github/commit-activity/y/ksaito422/remote-line.nvim)
 - [johmsalas/gitlink.nvim](https://github.com/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/stars/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/gitlink.nvim)
+- [LiXuanqi/github-link.nvim](https://github.com/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/github-link.nvim)
 
 ## Image
 
