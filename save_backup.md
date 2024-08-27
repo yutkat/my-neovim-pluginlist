@@ -19,6 +19,7 @@
 - [0x00-ketsu/autosave.nvim](https://github.com/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/autosave.nvim)
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) ![](https://img.shields.io/github/stars/willothy/savior.nvim) ![](https://img.shields.io/github/last-commit/willothy/savior.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/savior.nvim)
 - [Little-Captain/auto-save.nvim](https://github.com/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/stars/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/last-commit/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/Little-Captain/auto-save.nvim)
+- [brianhuster/autosave.nvim](https://github.com/brianhuster/autosave.nvim) ![](https://img.shields.io/github/stars/brianhuster/autosave.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/autosave.nvim)
 
 ### Cursor Position
 

@@ -21,6 +21,7 @@
   * [Pandas](#pandas)
   * [visidata](#visidata)
   * [Anaconda](#anaconda)
+  * [Databricks](#databricks)
   * [Scrapy](#scrapy)
 - [MicroPython](#micropython)
 - [Quix](#quix)
@@ -134,6 +135,10 @@
 #### Anaconda
 
 - [kmontocam/nvim-conda](https://github.com/kmontocam/nvim-conda) ![](https://img.shields.io/github/stars/kmontocam/nvim-conda) ![](https://img.shields.io/github/last-commit/kmontocam/nvim-conda) ![](https://img.shields.io/github/commit-activity/y/kmontocam/nvim-conda)
+
+#### Databricks
+
+- [Kristina-Pianykh/nvim-databricks](https://github.com/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/stars/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/last-commit/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/commit-activity/y/Kristina-Pianykh/nvim-databricks)
 
 #### Scrapy
 
