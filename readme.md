@@ -364,6 +364,7 @@
 - [uga-rosa/cmp-dictionary](https://github.com/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/stars/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-dictionary) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-dictionary)
 - [pythonmcpi/define.nvim](https://github.com/pythonmcpi/define.nvim) ![](https://img.shields.io/github/stars/pythonmcpi/define.nvim) ![](https://img.shields.io/github/last-commit/pythonmcpi/define.nvim) ![](https://img.shields.io/github/commit-activity/y/pythonmcpi/define.nvim)
 - [Praczet/words-the-def.nvim](https://github.com/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/stars/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/last-commit/Praczet/words-the-def.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/words-the-def.nvim)
+- [metaporia/dico.nvim](https://github.com/metaporia/dico.nvim) ![](https://img.shields.io/github/stars/metaporia/dico.nvim) ![](https://img.shields.io/github/last-commit/metaporia/dico.nvim) ![](https://img.shields.io/github/commit-activity/y/metaporia/dico.nvim)
 
 ### digraph
 

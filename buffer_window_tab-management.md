@@ -284,6 +284,7 @@
 #### Popup
 
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) ![](https://img.shields.io/github/stars/carbon-steel/detour.nvim) ![](https://img.shields.io/github/last-commit/carbon-steel/detour.nvim) ![](https://img.shields.io/github/commit-activity/y/carbon-steel/detour.nvim)
+- [e-mar404/tooltip.nvim](https://github.com/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/stars/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/last-commit/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/commit-activity/y/e-mar404/tooltip.nvim)
 
 #### resize
 

@@ -37,6 +37,7 @@
 
 - [rmarinn/codetime.nvim](https://github.com/rmarinn/codetime.nvim) ![](https://img.shields.io/github/stars/rmarinn/codetime.nvim) ![](https://img.shields.io/github/last-commit/rmarinn/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/rmarinn/codetime.nvim)
 - [2giosangmitom/codetime.nvim](https://github.com/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/stars/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/last-commit/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/2giosangmitom/codetime.nvim)
+- [ptdewey/pendulum-nvim](https://github.com/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/commit-activity/y/ptdewey/pendulum-nvim)
 
 ### Mapping stat
 
