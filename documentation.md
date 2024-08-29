@@ -219,6 +219,7 @@
 - [phanen/toggle-checkbox.nvim](https://github.com/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/phanen/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/toggle-checkbox.nvim)
 - [purrutia/checkbox_toggle.nvim](https://github.com/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/stars/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/last-commit/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/purrutia/checkbox_toggle.nvim)
 - [robertarles/taskra.nvim](https://github.com/robertarles/taskra.nvim) ![](https://img.shields.io/github/stars/robertarles/taskra.nvim) ![](https://img.shields.io/github/last-commit/robertarles/taskra.nvim) ![](https://img.shields.io/github/commit-activity/y/robertarles/taskra.nvim)
+- [otavioschwanck/markdown-todo.nvim](https://github.com/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/markdown-todo.nvim)
 
 #### Markdown list
 
@@ -257,6 +258,7 @@
 - [mpas/marp-nvim](https://github.com/mpas/marp-nvim) ![](https://img.shields.io/github/stars/mpas/marp-nvim) ![](https://img.shields.io/github/last-commit/mpas/marp-nvim) ![](https://img.shields.io/github/commit-activity/y/mpas/marp-nvim)
 - [mecattaf/marp.nvim](https://github.com/mecattaf/marp.nvim) ![](https://img.shields.io/github/stars/mecattaf/marp.nvim) ![](https://img.shields.io/github/last-commit/mecattaf/marp.nvim) ![](https://img.shields.io/github/commit-activity/y/mecattaf/marp.nvim)
 - [thmshmm/marp-preview.nvim](https://github.com/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/stars/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/last-commit/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/thmshmm/marp-preview.nvim)
+- [mingxue619/mx-mp.nvim](https://github.com/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/stars/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/last-commit/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/commit-activity/y/mingxue619/mx-mp.nvim)
 
 ### PlantUML
 
