@@ -142,6 +142,7 @@
 - [sakhnik/make-async.nvim](https://github.com/sakhnik/make-async.nvim) ![](https://img.shields.io/github/stars/sakhnik/make-async.nvim) ![](https://img.shields.io/github/last-commit/sakhnik/make-async.nvim) ![](https://img.shields.io/github/commit-activity/y/sakhnik/make-async.nvim)
 - [JordenHuang/como.nvim](https://github.com/JordenHuang/como.nvim) ![](https://img.shields.io/github/stars/JordenHuang/como.nvim) ![](https://img.shields.io/github/last-commit/JordenHuang/como.nvim) ![](https://img.shields.io/github/commit-activity/y/JordenHuang/como.nvim)
 - [ceceppa/execAsync.nvim](https://github.com/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/stars/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/execAsync.nvim)
+- [marzeq/command-runner.nvim](https://github.com/marzeq/command-runner.nvim) ![](https://img.shields.io/github/stars/marzeq/command-runner.nvim) ![](https://img.shields.io/github/last-commit/marzeq/command-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/command-runner.nvim)
 
 ## Auto detect style
 
