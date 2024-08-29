@@ -23,6 +23,7 @@
   * [Worker AI](#worker-ai)
   * [Codeium](#codeium)
   * [Gen42 AI](#gen42-ai)
+  * [FastGPT Kagi](#fastgpt-kagi)
   * [Codegeex](#codegeex)
   * [lsp-ai](#lsp-ai)
   * [Machine Learning](#machine-learning)
@@ -194,10 +195,15 @@
 
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
+- [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
 
 ### Gen42 AI
 
 - [mcjkula/gen42.nvim](https://github.com/mcjkula/gen42.nvim) ![](https://img.shields.io/github/stars/mcjkula/gen42.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/gen42.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/gen42.nvim)
+
+### FastGPT Kagi
+
+- [ibutra/kagi.nvim](https://github.com/ibutra/kagi.nvim) ![](https://img.shields.io/github/stars/ibutra/kagi.nvim) ![](https://img.shields.io/github/last-commit/ibutra/kagi.nvim) ![](https://img.shields.io/github/commit-activity/y/ibutra/kagi.nvim)
 
 ### Codegeex
 

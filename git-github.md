@@ -87,6 +87,7 @@
 - [DannickBedard/githelper.nvim](https://github.com/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/stars/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/last-commit/DannickBedard/githelper.nvim) ![](https://img.shields.io/github/commit-activity/y/DannickBedard/githelper.nvim)
 - [muryp/muryp-git.nvim](https://github.com/muryp/muryp-git.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-git.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-git.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-git.nvim)
 - [teddybear0430/git.nvim](https://github.com/teddybear0430/git.nvim) ![](https://img.shields.io/github/stars/teddybear0430/git.nvim) ![](https://img.shields.io/github/last-commit/teddybear0430/git.nvim) ![](https://img.shields.io/github/commit-activity/y/teddybear0430/git.nvim)
+- [bdsilver89/git2.nvim](https://github.com/bdsilver89/git2.nvim) ![](https://img.shields.io/github/stars/bdsilver89/git2.nvim) ![](https://img.shields.io/github/last-commit/bdsilver89/git2.nvim) ![](https://img.shields.io/github/commit-activity/y/bdsilver89/git2.nvim)
 
 ## gitui
 
@@ -201,7 +202,6 @@
 - [Bleksak/diffthis.nvim](https://github.com/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/stars/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/diffthis.nvim)
 - [perryrh0dan/pickers.nvim](https://github.com/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/stars/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/last-commit/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/perryrh0dan/pickers.nvim)
 - [leonnelc/git_diff.nvim](https://github.com/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/stars/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/last-commit/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/leonnelc/git_diff.nvim)
-- [grbovae5/diff-therapy.nvim](https://github.com/grbovae5/diff-therapy.nvim) ![](https://img.shields.io/github/stars/grbovae5/diff-therapy.nvim) ![](https://img.shields.io/github/last-commit/grbovae5/diff-therapy.nvim) ![](https://img.shields.io/github/commit-activity/y/grbovae5/diff-therapy.nvim)
 
 ## git rebase
 
