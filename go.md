@@ -15,6 +15,8 @@
   * [Type](#type)
   * [Generator](#generator)
   * [templ.guide](#templguide)
+- [Framework](#framework)
+  * [Gin](#gin)
 
 <!-- tocstop -->
 
@@ -104,3 +106,9 @@
 ### templ.guide
 
 - [Bparsons0904/nvim-templ-static-reload](https://github.com/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/stars/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/last-commit/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/nvim-templ-static-reload)
+
+## Framework
+
+### Gin
+
+- [ogaken-1/nvim-gin-preview](https://github.com/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/stars/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-gin-preview)
