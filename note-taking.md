@@ -190,6 +190,7 @@
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
+- [Futarimiti/codi.nvim](https://github.com/Futarimiti/codi.nvim) ![](https://img.shields.io/github/stars/Futarimiti/codi.nvim) ![](https://img.shields.io/github/last-commit/Futarimiti/codi.nvim) ![](https://img.shields.io/github/commit-activity/y/Futarimiti/codi.nvim)
 
 ## inline note
 
