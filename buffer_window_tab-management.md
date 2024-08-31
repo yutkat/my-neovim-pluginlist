@@ -21,6 +21,7 @@
   * [Scratchpad](#scratchpad)
   * [buffer Sharing](#buffer-sharing)
   * [Move history](#move-history)
+  * [refresh](#refresh)
 - [Window](#window)
   * [Window Switcher](#window-switcher)
   * [Window Management](#window-management)
@@ -219,6 +220,10 @@
 ### Move history
 
 - [FaisonZ/bring-a-map.nvim](https://github.com/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/stars/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/last-commit/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/commit-activity/y/FaisonZ/bring-a-map.nvim)
+
+### refresh
+
+- [jkallio/auto-refresh-messages.nvim](https://github.com/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/stars/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/last-commit/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/jkallio/auto-refresh-messages.nvim)
 
 ## Window
 

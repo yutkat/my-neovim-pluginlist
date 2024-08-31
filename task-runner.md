@@ -105,6 +105,7 @@
 - [M4rti21/compi.nvim](https://github.com/M4rti21/compi.nvim) ![](https://img.shields.io/github/stars/M4rti21/compi.nvim) ![](https://img.shields.io/github/last-commit/M4rti21/compi.nvim) ![](https://img.shields.io/github/commit-activity/y/M4rti21/compi.nvim)
 - [HE7086/code-runner.nvim](https://github.com/HE7086/code-runner.nvim) ![](https://img.shields.io/github/stars/HE7086/code-runner.nvim) ![](https://img.shields.io/github/last-commit/HE7086/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/code-runner.nvim)
 - [badumbatish/brt.nvim](https://github.com/badumbatish/brt.nvim) ![](https://img.shields.io/github/stars/badumbatish/brt.nvim) ![](https://img.shields.io/github/last-commit/badumbatish/brt.nvim) ![](https://img.shields.io/github/commit-activity/y/badumbatish/brt.nvim)
+- [Kicamon/running.nvim](https://github.com/Kicamon/running.nvim) ![](https://img.shields.io/github/stars/Kicamon/running.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/running.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/running.nvim)
 
 ### Shell
 
