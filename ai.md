@@ -25,6 +25,7 @@
   * [Gen42 AI](#gen42-ai)
   * [FastGPT Kagi](#fastgpt-kagi)
   * [Codegeex](#codegeex)
+  * [Bedrock](#bedrock)
   * [lsp-ai](#lsp-ai)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
@@ -208,6 +209,10 @@
 ### Codegeex
 
 - [sunn4room/nvim-cmp-codegeex](https://github.com/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/stars/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/last-commit/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/commit-activity/y/sunn4room/nvim-cmp-codegeex)
+
+### Bedrock
+
+- [yuchanns/avante_bedrock.nvim](https://github.com/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/stars/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/avante_bedrock.nvim)
 
 ### lsp-ai
 
