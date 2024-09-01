@@ -53,6 +53,7 @@
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/stars/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-cartographer)
 - [Chaitanyabsprip/hashish.nvim](https://github.com/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/hashish.nvim)
 - [Std-Enigma/mapper.nvim](https://github.com/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/stars/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/last-commit/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Std-Enigma/mapper.nvim)
+- [phanen/m.m.nvim](https://github.com/phanen/m.m.nvim) ![](https://img.shields.io/github/stars/phanen/m.m.nvim) ![](https://img.shields.io/github/last-commit/phanen/m.m.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/m.m.nvim)
 
 ## instant mapping
 
@@ -91,6 +92,7 @@
 - [jokajak/keyseer.nvim](https://github.com/jokajak/keyseer.nvim) ![](https://img.shields.io/github/stars/jokajak/keyseer.nvim) ![](https://img.shields.io/github/last-commit/jokajak/keyseer.nvim) ![](https://img.shields.io/github/commit-activity/y/jokajak/keyseer.nvim)
 - [cronJohn/keytex.nvim](https://github.com/cronJohn/keytex.nvim) ![](https://img.shields.io/github/stars/cronJohn/keytex.nvim) ![](https://img.shields.io/github/last-commit/cronJohn/keytex.nvim) ![](https://img.shields.io/github/commit-activity/y/cronJohn/keytex.nvim)
 - [punktigel/key-tree.nvim](https://github.com/punktigel/key-tree.nvim) ![](https://img.shields.io/github/stars/punktigel/key-tree.nvim) ![](https://img.shields.io/github/last-commit/punktigel/key-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/punktigel/key-tree.nvim)
+- [tsilvs/kbdcheat.nvim](https://github.com/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/stars/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/last-commit/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/commit-activity/y/tsilvs/kbdcheat.nvim)
 
 ## Prefix Key Binding
 

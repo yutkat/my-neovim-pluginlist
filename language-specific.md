@@ -74,8 +74,10 @@
     + [Prolog](#prolog)
     + [Beancount](#beancount)
     + [CHIP-8](#chip-8)
+    + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     + [Brainfuck](#brainfuck)
 - [Competitive programming](#competitive-programming)
+  * [Codeforces](#codeforces)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
@@ -405,6 +407,10 @@
 
 - [rktjmp/chip-8.nvim](https://github.com/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/stars/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/chip-8.nvim)
 
+### Enclave Definition Language (EDL)
+
+- [mrdgo/edl.nvim](https://github.com/mrdgo/edl.nvim) ![](https://img.shields.io/github/stars/mrdgo/edl.nvim) ![](https://img.shields.io/github/last-commit/mrdgo/edl.nvim) ![](https://img.shields.io/github/commit-activity/y/mrdgo/edl.nvim)
+
 ### Brainfuck
 
 - [seandewar/brainfuck.nvim](https://github.com/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/stars/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/last-commit/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/commit-activity/y/seandewar/brainfuck.nvim)
@@ -418,6 +424,10 @@
 - [A7Lavinraj/assistant.nvim](https://github.com/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/assistant.nvim)
 - [XXiaoA/cp.nvim](https://github.com/XXiaoA/cp.nvim) ![](https://img.shields.io/github/stars/XXiaoA/cp.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/cp.nvim)
 - [DedsecKnight/dactl.nvim](https://github.com/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/stars/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/last-commit/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/commit-activity/y/DedsecKnight/dactl.nvim)
+
+## Codeforces
+
+- [khushimitr/lazycf.nvim](https://github.com/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/stars/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/last-commit/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/commit-activity/y/khushimitr/lazycf.nvim)
 
 # Computer science
 

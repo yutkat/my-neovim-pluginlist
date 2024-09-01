@@ -154,6 +154,7 @@
 - [vilari-mickopf/praise-the-run.nvim](https://github.com/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/stars/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/last-commit/vilari-mickopf/praise-the-run.nvim) ![](https://img.shields.io/github/commit-activity/y/vilari-mickopf/praise-the-run.nvim)
 - [jimmykodes/cheetah.nvim](https://github.com/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/stars/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/last-commit/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmykodes/cheetah.nvim)
 - [GustavEikaas/code-playground.nvim](https://github.com/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/code-playground.nvim)
+- [Aliqyan-21/runTA.nvim](https://github.com/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/runTA.nvim)
 
 ## :make style
 
