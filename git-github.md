@@ -43,6 +43,7 @@
   * [Features like gh](#features-like-gh)
     + [Notify](#notify)
   * [GitHub tweaks](#github-tweaks)
+  * [Notification](#notification)
   * [Trend](#trend)
   * [Issue](#issue)
   * [Pull Request](#pull-request)
@@ -313,6 +314,10 @@
 
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
+
+## Notification
+
+- [LucasMRC/ghn.nvim](https://github.com/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/stars/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/last-commit/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMRC/ghn.nvim)
 
 ## Trend
 
