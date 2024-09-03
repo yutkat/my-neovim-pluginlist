@@ -110,6 +110,7 @@
 - [felipesere/darkmode.nvim](https://github.com/felipesere/darkmode.nvim) ![](https://img.shields.io/github/stars/felipesere/darkmode.nvim) ![](https://img.shields.io/github/last-commit/felipesere/darkmode.nvim) ![](https://img.shields.io/github/commit-activity/y/felipesere/darkmode.nvim)
 - [marcos-venicius/tms.nvim](https://github.com/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/stars/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/last-commit/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/commit-activity/y/marcos-venicius/tms.nvim)
 - [LmanTW/themify.nvim](https://github.com/LmanTW/themify.nvim) ![](https://img.shields.io/github/stars/LmanTW/themify.nvim) ![](https://img.shields.io/github/last-commit/LmanTW/themify.nvim) ![](https://img.shields.io/github/commit-activity/y/LmanTW/themify.nvim)
+- [tingey21/telescope-colorscheme-persist.nvim](https://github.com/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/stars/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/last-commit/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/tingey21/telescope-colorscheme-persist.nvim)
 
 ### Colorscheme overwrite
 
