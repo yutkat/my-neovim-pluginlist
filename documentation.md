@@ -46,6 +46,7 @@
     + [subfiles](#subfiles)
     + [Tex Preview](#tex-preview)
     + [BiBTex](#bibtex)
+    + [Speech](#speech)
   * [Copyright](#copyright)
   * [Quarto](#quarto)
   * [Gist](#gist)
@@ -354,6 +355,10 @@
 #### BiBTex
 
 - [oncomouse/nvim-ref](https://github.com/oncomouse/nvim-ref) ![](https://img.shields.io/github/stars/oncomouse/nvim-ref) ![](https://img.shields.io/github/last-commit/oncomouse/nvim-ref) ![](https://img.shields.io/github/commit-activity/y/oncomouse/nvim-ref)
+
+#### Speech
+
+- [wazizian/voicetex.nvim](https://github.com/wazizian/voicetex.nvim) ![](https://img.shields.io/github/stars/wazizian/voicetex.nvim) ![](https://img.shields.io/github/last-commit/wazizian/voicetex.nvim) ![](https://img.shields.io/github/commit-activity/y/wazizian/voicetex.nvim)
 
 ### Copyright
 
