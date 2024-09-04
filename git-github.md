@@ -378,6 +378,7 @@
 - [johmsalas/gitlink.nvim](https://github.com/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/stars/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/last-commit/johmsalas/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/johmsalas/gitlink.nvim)
 - [LiXuanqi/github-link.nvim](https://github.com/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/github-link.nvim)
 - [baroldgene/github-links.nvim](https://github.com/baroldgene/github-links.nvim) ![](https://img.shields.io/github/stars/baroldgene/github-links.nvim) ![](https://img.shields.io/github/last-commit/baroldgene/github-links.nvim) ![](https://img.shields.io/github/commit-activity/y/baroldgene/github-links.nvim)
+- [avano/simple-gitlink.nvim](https://github.com/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/stars/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/last-commit/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/avano/simple-gitlink.nvim)
 
 ## Image
 

@@ -79,6 +79,7 @@
 - [andrewwillette/open.nvim](https://github.com/andrewwillette/open.nvim) ![](https://img.shields.io/github/stars/andrewwillette/open.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/open.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/open.nvim)
 - [wallpants/napoleon.nvim](https://github.com/wallpants/napoleon.nvim) ![](https://img.shields.io/github/stars/wallpants/napoleon.nvim) ![](https://img.shields.io/github/last-commit/wallpants/napoleon.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/napoleon.nvim)
 - [ridulfo/browse.nvim](https://github.com/ridulfo/browse.nvim) ![](https://img.shields.io/github/stars/ridulfo/browse.nvim) ![](https://img.shields.io/github/last-commit/ridulfo/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/ridulfo/browse.nvim)
+- [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/wit.nvim)
 
 #### url open
 
