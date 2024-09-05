@@ -56,6 +56,7 @@
   * [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
   * [GitLab CI](#gitlab-ci)
+  * [GitLab Kanban](#gitlab-kanban)
 - [Sapling](#sapling)
 - [BigBucket](#bigbucket)
 - [Sourcegraph](#sourcegraph)
@@ -411,6 +412,10 @@
 ## GitLab CI
 
 - [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
+
+## GitLab Kanban
+
+- [Kibadda/kanban.nvim](https://github.com/Kibadda/kanban.nvim) ![](https://img.shields.io/github/stars/Kibadda/kanban.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/kanban.nvim)
 
 # Sapling
 
