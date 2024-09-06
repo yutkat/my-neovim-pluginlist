@@ -39,6 +39,7 @@
 - [JoelMTom/nvim-automakerun](https://github.com/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/stars/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/last-commit/JoelMTom/nvim-automakerun) ![](https://img.shields.io/github/commit-activity/y/JoelMTom/nvim-automakerun)
 - [nobody-famous/tasks.nvim](https://github.com/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/stars/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/tasks.nvim)
 - [NycRat/maker.nvim](https://github.com/NycRat/maker.nvim) ![](https://img.shields.io/github/stars/NycRat/maker.nvim) ![](https://img.shields.io/github/last-commit/NycRat/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/maker.nvim)
+- [Seba244c/run.nvim](https://github.com/Seba244c/run.nvim) ![](https://img.shields.io/github/stars/Seba244c/run.nvim) ![](https://img.shields.io/github/last-commit/Seba244c/run.nvim) ![](https://img.shields.io/github/commit-activity/y/Seba244c/run.nvim)
 
 ### YAML
 
