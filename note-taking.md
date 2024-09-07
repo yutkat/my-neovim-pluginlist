@@ -117,6 +117,7 @@
 - [niuiic/todo.nvim](https://github.com/niuiic/todo.nvim) ![](https://img.shields.io/github/stars/niuiic/todo.nvim) ![](https://img.shields.io/github/last-commit/niuiic/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/todo.nvim)
 - [tadashi-aikawa/ghostwriter.nvim](https://github.com/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/ghostwriter.nvim)
 - [crimsoncrayfish/todo.nvim](https://github.com/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/stars/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/last-commit/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/crimsoncrayfish/todo.nvim)
+- [negativeOne1/noto.nvim](https://github.com/negativeOne1/noto.nvim) ![](https://img.shields.io/github/stars/negativeOne1/noto.nvim) ![](https://img.shields.io/github/last-commit/negativeOne1/noto.nvim) ![](https://img.shields.io/github/commit-activity/y/negativeOne1/noto.nvim)
 
 ### Taskwarrior
 
