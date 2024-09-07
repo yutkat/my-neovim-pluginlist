@@ -37,8 +37,6 @@
 
 #### Askama
 
-- [jorismertz/askama.nvim](https://github.com/jorismertz/askama.nvim) ![](https://img.shields.io/github/stars/jorismertz/askama.nvim) ![](https://img.shields.io/github/last-commit/jorismertz/askama.nvim) ![](https://img.shields.io/github/commit-activity/y/jorismertz/askama.nvim)
-
 ### Crate
 
 - [Aityz/cratesearch.nvim](https://github.com/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/stars/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/last-commit/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/cratesearch.nvim)
