@@ -97,6 +97,7 @@
 - [nikbrunner/fff.nvim](https://github.com/nikbrunner/fff.nvim) ![](https://img.shields.io/github/stars/nikbrunner/fff.nvim) ![](https://img.shields.io/github/last-commit/nikbrunner/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/nikbrunner/fff.nvim)
 - [AlekseySav/gosource.nvim](https://github.com/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/stars/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/last-commit/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/commit-activity/y/AlekseySav/gosource.nvim)
 - [zimeg/proximity.nvim](https://github.com/zimeg/proximity.nvim) ![](https://img.shields.io/github/stars/zimeg/proximity.nvim) ![](https://img.shields.io/github/last-commit/zimeg/proximity.nvim) ![](https://img.shields.io/github/commit-activity/y/zimeg/proximity.nvim)
+- [Julian/runt.nvim](https://github.com/Julian/runt.nvim) ![](https://img.shields.io/github/stars/Julian/runt.nvim) ![](https://img.shields.io/github/last-commit/Julian/runt.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/runt.nvim)
 
 ### Buffer Management
 
@@ -144,6 +145,7 @@
 - [ingur/captain.nvim](https://github.com/ingur/captain.nvim) ![](https://img.shields.io/github/stars/ingur/captain.nvim) ![](https://img.shields.io/github/last-commit/ingur/captain.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/captain.nvim)
 - [tomimara52/nvim-bufbox](https://github.com/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/stars/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/last-commit/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/commit-activity/y/tomimara52/nvim-bufbox)
 - [iamyoki/buffer-reopen.nvim](https://github.com/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/stars/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/last-commit/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/commit-activity/y/iamyoki/buffer-reopen.nvim)
+- [ThanhKhoaIT/moiday.nvim](https://github.com/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/stars/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/last-commit/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/commit-activity/y/ThanhKhoaIT/moiday.nvim)
 
 ##### remote open
 
