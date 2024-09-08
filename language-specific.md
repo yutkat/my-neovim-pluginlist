@@ -75,6 +75,7 @@
     + [Beancount](#beancount)
     + [CHIP-8](#chip-8)
     + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
+    + [E2](#e2)
     + [Brainfuck](#brainfuck)
 - [Competitive programming](#competitive-programming)
   * [Codeforces](#codeforces)
@@ -410,6 +411,10 @@
 ### Enclave Definition Language (EDL)
 
 - [mrdgo/edl.nvim](https://github.com/mrdgo/edl.nvim) ![](https://img.shields.io/github/stars/mrdgo/edl.nvim) ![](https://img.shields.io/github/last-commit/mrdgo/edl.nvim) ![](https://img.shields.io/github/commit-activity/y/mrdgo/edl.nvim)
+
+### E2
+
+- [mrdgo/e2.nvim](https://github.com/mrdgo/e2.nvim) ![](https://img.shields.io/github/stars/mrdgo/e2.nvim) ![](https://img.shields.io/github/last-commit/mrdgo/e2.nvim) ![](https://img.shields.io/github/commit-activity/y/mrdgo/e2.nvim)
 
 ### Brainfuck
 

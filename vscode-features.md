@@ -38,3 +38,4 @@
 ### IDE feature
 
 - [AbaoFromCUG/intergrater.nvim](https://github.com/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/intergrater.nvim)
+- [AEKjeldal/imposter.nvim](https://github.com/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/stars/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/last-commit/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKjeldal/imposter.nvim)

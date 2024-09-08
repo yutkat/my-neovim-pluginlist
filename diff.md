@@ -13,6 +13,7 @@
 - [jemag/telescope-diff.nvim](https://github.com/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/stars/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/last-commit/jemag/telescope-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jemag/telescope-diff.nvim)
 - [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/stars/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/last-commit/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/ryutaro-asada/partial-diff.nvim)
 - [echasnovski/mini.diff](https://github.com/echasnovski/mini.diff) ![](https://img.shields.io/github/stars/echasnovski/mini.diff) ![](https://img.shields.io/github/last-commit/echasnovski/mini.diff) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.diff)
+- [bassamsdata/llmdiff.nvim](https://github.com/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/stars/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/llmdiff.nvim)
 
 ### Diff Register
 

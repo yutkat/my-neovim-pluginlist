@@ -4,6 +4,7 @@
 
 - [Ruby](#ruby)
   * [Test](#test)
+  * [Debug](#debug)
   * [Gem](#gem)
   * [Rails](#rails)
   * [Redis](#redis)
@@ -26,6 +27,10 @@
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 - [jpeterburs/rspec.nvim](https://github.com/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/stars/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/last-commit/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/jpeterburs/rspec.nvim)
+
+### Debug
+
+- [kaka-ruto/nvim-ruby-debugger](https://github.com/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/stars/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/last-commit/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/nvim-ruby-debugger)
 
 ### Gem
 
