@@ -9,6 +9,7 @@
   * [mkdir](#mkdir)
   * [sort](#sort)
   * [make](#make)
+  * [scriptnames](#scriptnames)
   * [Redirect to scratch buffer](#redirect-to-scratch-buffer)
   * [Shell Command](#shell-command)
     + [sudo](#sudo)
@@ -60,6 +61,10 @@
 ### make
 
 - [segcore/build-selector.nvim](https://github.com/segcore/build-selector.nvim) ![](https://img.shields.io/github/stars/segcore/build-selector.nvim) ![](https://img.shields.io/github/last-commit/segcore/build-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/segcore/build-selector.nvim)
+
+### scriptnames
+
+- [hugginsio/telescope-scriptnames.nvim](https://github.com/hugginsio/telescope-scriptnames.nvim) ![](https://img.shields.io/github/stars/hugginsio/telescope-scriptnames.nvim) ![](https://img.shields.io/github/last-commit/hugginsio/telescope-scriptnames.nvim) ![](https://img.shields.io/github/commit-activity/y/hugginsio/telescope-scriptnames.nvim)
 
 ### Redirect to scratch buffer
 
