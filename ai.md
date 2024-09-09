@@ -152,6 +152,7 @@
 - [thetien2k2/ollamacmp.nvim](https://github.com/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/stars/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/last-commit/thetien2k2/ollamacmp.nvim) ![](https://img.shields.io/github/commit-activity/y/thetien2k2/ollamacmp.nvim)
 - [spielhuus/llamacode.nvim](https://github.com/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/stars/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/last-commit/spielhuus/llamacode.nvim) ![](https://img.shields.io/github/commit-activity/y/spielhuus/llamacode.nvim)
 - [antonio-hickey/Oracle.nvim](https://github.com/antonio-hickey/Oracle.nvim) ![](https://img.shields.io/github/stars/antonio-hickey/Oracle.nvim) ![](https://img.shields.io/github/last-commit/antonio-hickey/Oracle.nvim) ![](https://img.shields.io/github/commit-activity/y/antonio-hickey/Oracle.nvim)
+- [Dan7h3x/chatter.nvim](https://github.com/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/chatter.nvim)
 
 ### Claude
 

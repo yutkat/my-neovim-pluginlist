@@ -111,6 +111,7 @@
 - [marcos-venicius/tms.nvim](https://github.com/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/stars/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/last-commit/marcos-venicius/tms.nvim) ![](https://img.shields.io/github/commit-activity/y/marcos-venicius/tms.nvim)
 - [LmanTW/themify.nvim](https://github.com/LmanTW/themify.nvim) ![](https://img.shields.io/github/stars/LmanTW/themify.nvim) ![](https://img.shields.io/github/last-commit/LmanTW/themify.nvim) ![](https://img.shields.io/github/commit-activity/y/LmanTW/themify.nvim)
 - [tingey21/telescope-colorscheme-persist.nvim](https://github.com/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/stars/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/last-commit/tingey21/telescope-colorscheme-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/tingey21/telescope-colorscheme-persist.nvim)
+- [Diogo364/colorscheme-manager.nvim](https://github.com/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/stars/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/last-commit/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo364/colorscheme-manager.nvim)
 
 ### Colorscheme overwrite
 
