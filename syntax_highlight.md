@@ -24,6 +24,7 @@
   * [Current block highlight](#current-block-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
   * [Cursor Jump highlight](#cursor-jump-highlight)
+  * [Edit highlight](#edit-highlight)
   * [Error highlight](#error-highlight)
 
 <!-- tocstop -->
@@ -178,6 +179,10 @@
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
 - [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) ![](https://img.shields.io/github/stars/mei28/luminate.nvim) ![](https://img.shields.io/github/last-commit/mei28/luminate.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/luminate.nvim)
+
+### Edit highlight
+
+- [iguanacucumber/highlight-actions.nvim](https://github.com/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/stars/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/last-commit/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/iguanacucumber/highlight-actions.nvim)
 
 ### Error highlight
 

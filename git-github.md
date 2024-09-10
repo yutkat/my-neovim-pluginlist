@@ -12,6 +12,7 @@
     + [prefix](#prefix)
     + [co authored](#co-authored)
     + [Auto commit](#auto-commit)
+    + [pre-commit](#pre-commit)
   * [git fetch](#git-fetch)
   * [git push](#git-push)
   * [git checkout](#git-checkout)
@@ -147,6 +148,10 @@
 ### Auto commit
 
 - [AuLaSW/autocommit.nvim](https://github.com/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/stars/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/autocommit.nvim)
+
+### pre-commit
+
+- [seiay/commit-tia.nvim](https://github.com/seiay/commit-tia.nvim) ![](https://img.shields.io/github/stars/seiay/commit-tia.nvim) ![](https://img.shields.io/github/last-commit/seiay/commit-tia.nvim) ![](https://img.shields.io/github/commit-activity/y/seiay/commit-tia.nvim)
 
 ## git fetch
 
