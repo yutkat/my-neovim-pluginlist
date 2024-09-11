@@ -178,6 +178,7 @@
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
 - [agusnt/askGemini.nvim](https://github.com/agusnt/askGemini.nvim) ![](https://img.shields.io/github/stars/agusnt/askGemini.nvim) ![](https://img.shields.io/github/last-commit/agusnt/askGemini.nvim) ![](https://img.shields.io/github/commit-activity/y/agusnt/askGemini.nvim)
+- [veseckytomas/gemini.nvim](https://github.com/veseckytomas/gemini.nvim) ![](https://img.shields.io/github/stars/veseckytomas/gemini.nvim) ![](https://img.shields.io/github/last-commit/veseckytomas/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/veseckytomas/gemini.nvim)
 
 ### CodeGemma
 

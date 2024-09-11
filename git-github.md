@@ -386,6 +386,7 @@
 - [LiXuanqi/github-link.nvim](https://github.com/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/github-link.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/github-link.nvim)
 - [baroldgene/github-links.nvim](https://github.com/baroldgene/github-links.nvim) ![](https://img.shields.io/github/stars/baroldgene/github-links.nvim) ![](https://img.shields.io/github/last-commit/baroldgene/github-links.nvim) ![](https://img.shields.io/github/commit-activity/y/baroldgene/github-links.nvim)
 - [avano/simple-gitlink.nvim](https://github.com/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/stars/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/last-commit/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/avano/simple-gitlink.nvim)
+- [rajneesh2k10/codebrowser.nvim](https://github.com/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/stars/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/last-commit/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/commit-activity/y/rajneesh2k10/codebrowser.nvim)
 
 ## Image
 
