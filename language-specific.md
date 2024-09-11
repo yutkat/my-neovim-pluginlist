@@ -22,6 +22,7 @@
     + [Elixir](#elixir)
       - [REPL](#repl)
     + [Haskell](#haskell)
+      - [GHCi](#ghci)
     + [Perl](#perl)
     + [Lisp](#lisp)
     + [OCaml](#ocaml)
@@ -194,6 +195,10 @@
 - [MrcJkb/haskell-tools.nvim](https://github.com/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/stars/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/last-commit/MrcJkb/haskell-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/MrcJkb/haskell-tools.nvim)
 - [kiyoon/haskell-scope-highlighting.nvim](https://github.com/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/stars/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/haskell-scope-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/haskell-scope-highlighting.nvim)
 - [mrcjkb/haskell-snippets.nvim](https://github.com/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/stars/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/last-commit/mrcjkb/haskell-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/haskell-snippets.nvim)
+
+#### GHCi
+
+- [Futarimiti/ghci.nvim](https://github.com/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/stars/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/last-commit/Futarimiti/ghci.nvim) ![](https://img.shields.io/github/commit-activity/y/Futarimiti/ghci.nvim)
 
 ### Perl
 

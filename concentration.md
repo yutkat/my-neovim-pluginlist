@@ -32,6 +32,7 @@
 - [snehlsen/pomo.nvim](https://github.com/snehlsen/pomo.nvim) ![](https://img.shields.io/github/stars/snehlsen/pomo.nvim) ![](https://img.shields.io/github/last-commit/snehlsen/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/snehlsen/pomo.nvim)
 - [JesperLundberg/svartafanan.nvim](https://github.com/JesperLundberg/svartafanan.nvim) ![](https://img.shields.io/github/stars/JesperLundberg/svartafanan.nvim) ![](https://img.shields.io/github/last-commit/JesperLundberg/svartafanan.nvim) ![](https://img.shields.io/github/commit-activity/y/JesperLundberg/svartafanan.nvim)
 - [maths-lover/pomodoro.nvim](https://github.com/maths-lover/pomodoro.nvim) ![](https://img.shields.io/github/stars/maths-lover/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/maths-lover/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/maths-lover/pomodoro.nvim)
+- [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/QuentinGruber/pomodoro.nvim)
 
 ## Alarm
 

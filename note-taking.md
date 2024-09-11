@@ -142,6 +142,7 @@
 - [when-harry-met-sally/obsidian-plus.nvim](https://github.com/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/stars/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/last-commit/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/when-harry-met-sally/obsidian-plus.nvim)
 - [w40141/obsidian-daily-tweets.nvim](https://github.com/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/stars/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/last-commit/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/commit-activity/y/w40141/obsidian-daily-tweets.nvim)
 - [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
+- [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
 
 ## Google Keep
 
