@@ -49,6 +49,7 @@
 - [naaysayer/nvim-gitsessions](https://github.com/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/stars/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/last-commit/naaysayer/nvim-gitsessions) ![](https://img.shields.io/github/commit-activity/y/naaysayer/nvim-gitsessions)
 - [anekos/achoo.nvim](https://github.com/anekos/achoo.nvim) ![](https://img.shields.io/github/stars/anekos/achoo.nvim) ![](https://img.shields.io/github/last-commit/anekos/achoo.nvim) ![](https://img.shields.io/github/commit-activity/y/anekos/achoo.nvim)
 - [tigion/nvim-sessions](https://github.com/tigion/nvim-sessions) ![](https://img.shields.io/github/stars/tigion/nvim-sessions) ![](https://img.shields.io/github/last-commit/tigion/nvim-sessions) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-sessions)
+- [mistweaverco/kikao.nvim](https://github.com/mistweaverco/kikao.nvim) ![](https://img.shields.io/github/stars/mistweaverco/kikao.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/kikao.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/kikao.nvim)
 
 ## Session Selector
 

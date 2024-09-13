@@ -20,6 +20,7 @@
 - [willothy/savior.nvim](https://github.com/willothy/savior.nvim) ![](https://img.shields.io/github/stars/willothy/savior.nvim) ![](https://img.shields.io/github/last-commit/willothy/savior.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/savior.nvim)
 - [Little-Captain/auto-save.nvim](https://github.com/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/stars/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/last-commit/Little-Captain/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/Little-Captain/auto-save.nvim)
 - [brianhuster/autosave.nvim](https://github.com/brianhuster/autosave.nvim) ![](https://img.shields.io/github/stars/brianhuster/autosave.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/autosave.nvim)
+- [NitroSniper/autowrite.nvim](https://github.com/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/stars/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/last-commit/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroSniper/autowrite.nvim)
 
 ### Cursor Position
 
