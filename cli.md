@@ -33,6 +33,7 @@
   * [ftp](#ftp)
   * [rsync](#rsync)
   * [curl](#curl)
+  * [bruno](#bruno)
   * [ctags](#ctags)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
@@ -247,6 +248,10 @@
 
 - [oysandvik94/curl.nvim](https://github.com/oysandvik94/curl.nvim) ![](https://img.shields.io/github/stars/oysandvik94/curl.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/curl.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/curl.nvim)
 - [io26/http.nvim](https://github.com/io26/http.nvim) ![](https://img.shields.io/github/stars/io26/http.nvim) ![](https://img.shields.io/github/last-commit/io26/http.nvim) ![](https://img.shields.io/github/commit-activity/y/io26/http.nvim)
+
+#### bruno
+
+- [romek-codes/bruno.nvim](https://github.com/romek-codes/bruno.nvim) ![](https://img.shields.io/github/stars/romek-codes/bruno.nvim) ![](https://img.shields.io/github/last-commit/romek-codes/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/romek-codes/bruno.nvim)
 
 #### ctags
 
