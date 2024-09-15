@@ -40,6 +40,7 @@
 - [2giosangmitom/codetime.nvim](https://github.com/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/stars/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/last-commit/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/2giosangmitom/codetime.nvim)
 - [ptdewey/pendulum-nvim](https://github.com/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/stars/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/last-commit/ptdewey/pendulum-nvim) ![](https://img.shields.io/github/commit-activity/y/ptdewey/pendulum-nvim)
 - [boganworld/crackboard.nvim](https://github.com/boganworld/crackboard.nvim) ![](https://img.shields.io/github/stars/boganworld/crackboard.nvim) ![](https://img.shields.io/github/last-commit/boganworld/crackboard.nvim) ![](https://img.shields.io/github/commit-activity/y/boganworld/crackboard.nvim)
+- [vsinagl/codetracker.nvim](https://github.com/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/stars/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/last-commit/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/commit-activity/y/vsinagl/codetracker.nvim)
 
 ### Mapping stat
 

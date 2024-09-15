@@ -196,6 +196,7 @@
 - [javio7/nvim-executor](https://github.com/javio7/nvim-executor) ![](https://img.shields.io/github/stars/javio7/nvim-executor) ![](https://img.shields.io/github/last-commit/javio7/nvim-executor) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-executor)
 - [czkz/smartrun.nvim](https://github.com/czkz/smartrun.nvim) ![](https://img.shields.io/github/stars/czkz/smartrun.nvim) ![](https://img.shields.io/github/last-commit/czkz/smartrun.nvim) ![](https://img.shields.io/github/commit-activity/y/czkz/smartrun.nvim)
 - [tiberiuiurco/runny.nvim](https://github.com/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/stars/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/last-commit/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/commit-activity/y/tiberiuiurco/runny.nvim)
+- [devmuu/nvim-run-script](https://github.com/devmuu/nvim-run-script) ![](https://img.shields.io/github/stars/devmuu/nvim-run-script) ![](https://img.shields.io/github/last-commit/devmuu/nvim-run-script) ![](https://img.shields.io/github/commit-activity/y/devmuu/nvim-run-script)
 
 ### Jupyter style
 
