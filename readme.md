@@ -27,7 +27,9 @@
   * [Highlight current function](#highlight-current-function)
   * [listchars](#listchars)
   * [Background](#background)
-- [Buffer, Window, Tab Management](#buffer-window-tab-management)
+- [Buffer](#buffer)
+- [Window](#window)
+- [Tab](#tab)
 - [Terminal](#terminal)
 - [Motion](#motion)
 - [Jump](#jump)
@@ -222,7 +224,11 @@
 
 ### [Background](./background.md)
 
-## [Buffer, Window, Tab Management](./buffer_window_tab-management.md)
+## [Buffer](./buffer.md)
+
+## [Window](./window.md)
+
+## [Tab](./tab.md)
 
 ## [Terminal](./terminal.md)
 
