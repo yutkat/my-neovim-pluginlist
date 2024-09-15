@@ -288,6 +288,7 @@
 - [yuma140902/auto-split-direction.nvim](https://github.com/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/stars/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/last-commit/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/commit-activity/y/yuma140902/auto-split-direction.nvim)
 - [michaelPotter/accordian.nvim](https://github.com/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/stars/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/accordian.nvim)
 - [lbennett-stacki/here.nvim](https://github.com/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/stars/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/last-commit/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/commit-activity/y/lbennett-stacki/here.nvim)
+- [joaomendoncaa/sane-splits.nvim](https://github.com/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sane-splits.nvim)
 
 #### Popup
 

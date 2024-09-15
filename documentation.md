@@ -222,6 +222,7 @@
 - [purrutia/checkbox_toggle.nvim](https://github.com/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/stars/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/last-commit/purrutia/checkbox_toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/purrutia/checkbox_toggle.nvim)
 - [robertarles/taskra.nvim](https://github.com/robertarles/taskra.nvim) ![](https://img.shields.io/github/stars/robertarles/taskra.nvim) ![](https://img.shields.io/github/last-commit/robertarles/taskra.nvim) ![](https://img.shields.io/github/commit-activity/y/robertarles/taskra.nvim)
 - [otavioschwanck/markdown-todo.nvim](https://github.com/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/markdown-todo.nvim)
+- [epilande/checkbox-cycle.nvim](https://github.com/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/stars/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/last-commit/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/epilande/checkbox-cycle.nvim)
 
 #### Markdown list
 

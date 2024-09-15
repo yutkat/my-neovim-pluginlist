@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [PHP](#php)
+  * [Element sort](#element-sort)
   * [Live server](#live-server)
   * [Laravel](#laravel)
   * [Symfony](#symfony)
@@ -21,6 +22,10 @@
 - [RicardoRamirezR/php-use-sort.nvim](https://github.com/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-use-sort.nvim)
 - [praem90/neotest-docker-phpunit.nvim](https://github.com/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/stars/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/last-commit/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/neotest-docker-phpunit.nvim)
 - [RVxLab/php-composer.nvim](https://github.com/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/stars/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/last-commit/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/commit-activity/y/RVxLab/php-composer.nvim)
+
+### Element sort
+
+- [RicardoRamirezR/php-elements-sorter.nvim](https://github.com/RicardoRamirezR/php-elements-sorter.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-elements-sorter.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-elements-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-elements-sorter.nvim)
 
 ### Live server
 
