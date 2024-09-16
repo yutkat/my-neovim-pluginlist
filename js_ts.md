@@ -180,6 +180,7 @@
 
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
 - [m-jovan/telescope-pnpm-workspace.nvim](https://github.com/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/stars/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/last-commit/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/m-jovan/telescope-pnpm-workspace.nvim)
+- [ryoppippi/nvim-pnpm-catalog-lens](https://github.com/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/stars/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-pnpm-catalog-lens)
 
 #### Biome
 
@@ -291,6 +292,7 @@
 - [weskeiser/svelte-hop.nvim](https://github.com/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/stars/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/last-commit/weskeiser/svelte-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/weskeiser/svelte-hop.nvim)
 - [StephenGunn/sveltecheck.nvim](https://github.com/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/stars/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/last-commit/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/StephenGunn/sveltecheck.nvim)
 - [jamesblckwell/nvimkit.nvim](https://github.com/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/stars/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/last-commit/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesblckwell/nvimkit.nvim)
+- [ryoppippi/vim-svelte-inspector](https://github.com/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/stars/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/last-commit/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/vim-svelte-inspector)
 
 ### Node.js
 
