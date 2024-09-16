@@ -121,6 +121,7 @@
 - [mcjkula/live-preview.nvim](https://github.com/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/stars/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/live-preview.nvim)
 - [OXY2DEV/markview.nvim](https://github.com/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/markview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/markview.nvim)
 - [yelog/marklive.nvim](https://github.com/yelog/marklive.nvim) ![](https://img.shields.io/github/stars/yelog/marklive.nvim) ![](https://img.shields.io/github/last-commit/yelog/marklive.nvim) ![](https://img.shields.io/github/commit-activity/y/yelog/marklive.nvim)
+- [mayerstrk/live.nvim](https://github.com/mayerstrk/live.nvim) ![](https://img.shields.io/github/stars/mayerstrk/live.nvim) ![](https://img.shields.io/github/last-commit/mayerstrk/live.nvim) ![](https://img.shields.io/github/commit-activity/y/mayerstrk/live.nvim)
 
 ##### Node
 

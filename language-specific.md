@@ -41,6 +41,7 @@
     + [WebC](#webc)
     + [Cairo](#cairo)
       - [Test](#test)
+    + [Processing](#processing)
     + [Promela](#promela)
     + [Agda](#agda)
     + [Monkey](#monkey)
@@ -278,6 +279,10 @@
 #### Test
 
 - [maxandron/neotest-cairo](https://github.com/maxandron/neotest-cairo) ![](https://img.shields.io/github/stars/maxandron/neotest-cairo) ![](https://img.shields.io/github/last-commit/maxandron/neotest-cairo) ![](https://img.shields.io/github/commit-activity/y/maxandron/neotest-cairo)
+
+### Processing
+
+- [sophieforrest/processing.nvim](https://github.com/sophieforrest/processing.nvim) ![](https://img.shields.io/github/stars/sophieforrest/processing.nvim) ![](https://img.shields.io/github/last-commit/sophieforrest/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/sophieforrest/processing.nvim)
 
 ### Promela
 
