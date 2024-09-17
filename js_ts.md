@@ -121,6 +121,7 @@
 
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/stars/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/last-commit/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/prettierrc.nvim)
+- [AlejandroSuero/pretty-ts-errors.nvim](https://github.com/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/pretty-ts-errors.nvim)
 
 ### Lint
 
@@ -286,6 +287,7 @@
 - [justinrassier/nvim-treesitter-ng](https://github.com/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/stars/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/last-commit/justinrassier/nvim-treesitter-ng) ![](https://img.shields.io/github/commit-activity/y/justinrassier/nvim-treesitter-ng)
 - [matthiasweiss/angular-quickswitch.nvim](https://github.com/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/stars/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/last-commit/matthiasweiss/angular-quickswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/matthiasweiss/angular-quickswitch.nvim)
 - [ergoproxy623/nvim-angular-selectors](https://github.com/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-angular-selectors)
+- [Kyariban/angular-scripts.nvim](https://github.com/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/stars/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/last-commit/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyariban/angular-scripts.nvim)
 
 ### Svelte
 
