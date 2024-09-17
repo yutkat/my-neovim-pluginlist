@@ -45,6 +45,7 @@
     + [Kustomize](#kustomize)
     + [AWS](#aws)
       - [S3](#s3)
+      - [SAM](#sam)
       - [CloudWatch](#cloudwatch)
     + [Azure](#azure)
     + [Salesforce](#salesforce)
@@ -261,6 +262,10 @@
 
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) ![](https://img.shields.io/github/stars/kiran94/s3edit.nvim) ![](https://img.shields.io/github/last-commit/kiran94/s3edit.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/s3edit.nvim)
 - [oguzhancoskun/aws-s3.nvim](https://github.com/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-s3.nvim)
+
+##### SAM
+
+- [divagueame/aws-sam.nvim](https://github.com/divagueame/aws-sam.nvim) ![](https://img.shields.io/github/stars/divagueame/aws-sam.nvim) ![](https://img.shields.io/github/last-commit/divagueame/aws-sam.nvim) ![](https://img.shields.io/github/commit-activity/y/divagueame/aws-sam.nvim)
 
 ##### CloudWatch
 
