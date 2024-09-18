@@ -224,6 +224,7 @@
 - [robertarles/taskra.nvim](https://github.com/robertarles/taskra.nvim) ![](https://img.shields.io/github/stars/robertarles/taskra.nvim) ![](https://img.shields.io/github/last-commit/robertarles/taskra.nvim) ![](https://img.shields.io/github/commit-activity/y/robertarles/taskra.nvim)
 - [otavioschwanck/markdown-todo.nvim](https://github.com/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/markdown-todo.nvim)
 - [epilande/checkbox-cycle.nvim](https://github.com/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/stars/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/last-commit/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/epilande/checkbox-cycle.nvim)
+- [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 
 #### Markdown list
 

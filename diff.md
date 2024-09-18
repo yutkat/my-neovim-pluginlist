@@ -14,6 +14,7 @@
 - [ryutaro-asada/partial-diff.nvim](https://github.com/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/stars/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/last-commit/ryutaro-asada/partial-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/ryutaro-asada/partial-diff.nvim)
 - [echasnovski/mini.diff](https://github.com/echasnovski/mini.diff) ![](https://img.shields.io/github/stars/echasnovski/mini.diff) ![](https://img.shields.io/github/last-commit/echasnovski/mini.diff) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.diff)
 - [bassamsdata/llmdiff.nvim](https://github.com/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/stars/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/llmdiff.nvim)
+- [nitsanavni/approvals.nvim](https://github.com/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/stars/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/last-commit/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/commit-activity/y/nitsanavni/approvals.nvim)
 
 ### Diff Register
 
