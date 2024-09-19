@@ -123,6 +123,7 @@
 - [hugginsio/twig.nvim](https://github.com/hugginsio/twig.nvim) ![](https://img.shields.io/github/stars/hugginsio/twig.nvim) ![](https://img.shields.io/github/last-commit/hugginsio/twig.nvim) ![](https://img.shields.io/github/commit-activity/y/hugginsio/twig.nvim)
 - [huantrinh1802/m_taskwarrior_d.nvim](https://github.com/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/stars/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/last-commit/huantrinh1802/m_taskwarrior_d.nvim) ![](https://img.shields.io/github/commit-activity/y/huantrinh1802/m_taskwarrior_d.nvim)
 - [Praczet/little-taskwarrior.nvim](https://github.com/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/stars/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/little-taskwarrior.nvim)
+- [duckdm/neowarrior.nvim](https://github.com/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/stars/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/last-commit/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/neowarrior.nvim)
 
 ## Obsidian
 
