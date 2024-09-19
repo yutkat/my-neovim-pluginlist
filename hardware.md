@@ -83,6 +83,7 @@
 - [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
 - [jaredmontoya/bikey.nvim](https://github.com/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/stars/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/last-commit/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/commit-activity/y/jaredmontoya/bikey.nvim)
 - [fullpipe/xkbswitch.nvim](https://github.com/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/stars/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/fullpipe/xkbswitch.nvim)
+- [MahdiGMK/keymap-switch.nvim](https://github.com/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/stars/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/last-commit/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/MahdiGMK/keymap-switch.nvim)
 
 #### Virtual Keyboard
 
