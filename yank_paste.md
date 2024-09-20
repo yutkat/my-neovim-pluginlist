@@ -35,6 +35,8 @@
 - [catlee/spin-clipboard.nvim](https://github.com/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/stars/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/last-commit/catlee/spin-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/catlee/spin-clipboard.nvim)
 - [svban/YankAssassin.nvim](https://github.com/svban/YankAssassin.nvim) ![](https://img.shields.io/github/stars/svban/YankAssassin.nvim) ![](https://img.shields.io/github/last-commit/svban/YankAssassin.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/YankAssassin.nvim)
 - [olrtg/nvim-copy-deep-path](https://github.com/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/stars/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/last-commit/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-copy-deep-path)
+- [DJARUUN/clipboard.nvim](https://github.com/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/stars/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/clipboard.nvim)
+- [gcmt/regtee.nvim](https://github.com/gcmt/regtee.nvim) ![](https://img.shields.io/github/stars/gcmt/regtee.nvim) ![](https://img.shields.io/github/last-commit/gcmt/regtee.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/regtee.nvim)
 
 ### yank highlight
 
