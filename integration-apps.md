@@ -41,6 +41,7 @@
     + [Nginx](#nginx)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
+      - [atmos](#atmos)
     + [Ansible](#ansible)
     + [Kustomize](#kustomize)
     + [AWS](#aws)
@@ -243,6 +244,10 @@
 - [dakota-m/terraform.nvim](https://github.com/dakota-m/terraform.nvim) ![](https://img.shields.io/github/stars/dakota-m/terraform.nvim) ![](https://img.shields.io/github/last-commit/dakota-m/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/dakota-m/terraform.nvim)
 - [olidacombe/terrabastard.nvim](https://github.com/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/stars/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/terrabastard.nvim)
 
+##### atmos
+
+- [RoseSecurity/atmos.nvim](https://github.com/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/stars/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/last-commit/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/commit-activity/y/RoseSecurity/atmos.nvim)
+
 #### Ansible
 
 - [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/stars/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-ansible)
@@ -336,6 +341,7 @@
 - [DeccanLin/im-select.nvim](https://github.com/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/stars/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/last-commit/DeccanLin/im-select.nvim) ![](https://img.shields.io/github/commit-activity/y/DeccanLin/im-select.nvim)
 - [Freed-Wu/ime.nvim](https://github.com/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/ime.nvim)
 - [lazy-dinosaur/Backtoeng.nvim](https://github.com/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/stars/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/last-commit/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/commit-activity/y/lazy-dinosaur/Backtoeng.nvim)
+- [iamxiaojianzheng/im-switch-for-windows.nvim](https://github.com/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/stars/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/last-commit/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/iamxiaojianzheng/im-switch-for-windows.nvim)
 
 #### Fcitx
 

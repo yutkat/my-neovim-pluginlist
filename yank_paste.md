@@ -4,6 +4,7 @@
 
 - [Yank](#yank)
   * [yank highlight](#yank-highlight)
+  * [remove indent](#remove-indent)
   * [URL](#url)
   * [Register Selector](#register-selector)
   * [Edit Register](#edit-register)
@@ -41,6 +42,10 @@
 ### yank highlight
 
 - [DeamonDev/yank-highlighter.nvim](https://github.com/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/stars/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/last-commit/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/DeamonDev/yank-highlighter.nvim)
+
+### remove indent
+
+- [k2589/LLuMinate.nvim](https://github.com/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/stars/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/last-commit/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/LLuMinate.nvim)
 
 ### URL
 

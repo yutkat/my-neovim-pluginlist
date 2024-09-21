@@ -4,7 +4,7 @@
 
 - [Image](#image)
   * [Image Viewer](#image-viewer)
-  * [Image Magic](#image-magic)
+  * [Image Magick](#image-magick)
   * [Image Paste](#image-paste)
   * [Image Uploader](#image-uploader)
   * [Screenshot](#screenshot)
@@ -34,9 +34,10 @@
 - [queue-miscreant/nvim-image-test](https://github.com/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/stars/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/last-commit/queue-miscreant/nvim-image-test) ![](https://img.shields.io/github/commit-activity/y/queue-miscreant/nvim-image-test)
 - [machichima/image-wezterm-tmux.nvim](https://github.com/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/stars/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/last-commit/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/machichima/image-wezterm-tmux.nvim)
 
-### Image Magic
+### Image Magick
 
 - [Suehn/image-diy.nvim](https://github.com/Suehn/image-diy.nvim) ![](https://img.shields.io/github/stars/Suehn/image-diy.nvim) ![](https://img.shields.io/github/last-commit/Suehn/image-diy.nvim) ![](https://img.shields.io/github/commit-activity/y/Suehn/image-diy.nvim)
+- [kiyoon/magick.nvim](https://github.com/kiyoon/magick.nvim) ![](https://img.shields.io/github/stars/kiyoon/magick.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/magick.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/magick.nvim)
 
 ### Image Paste
 

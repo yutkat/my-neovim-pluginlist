@@ -76,6 +76,7 @@
 - [rikuma-t/csvview.nvim](https://github.com/rikuma-t/csvview.nvim) ![](https://img.shields.io/github/stars/rikuma-t/csvview.nvim) ![](https://img.shields.io/github/last-commit/rikuma-t/csvview.nvim) ![](https://img.shields.io/github/commit-activity/y/rikuma-t/csvview.nvim)
 - [theKnightsOfRohan/csvlens.nvim](https://github.com/theKnightsOfRohan/csvlens.nvim) ![](https://img.shields.io/github/stars/theKnightsOfRohan/csvlens.nvim) ![](https://img.shields.io/github/last-commit/theKnightsOfRohan/csvlens.nvim) ![](https://img.shields.io/github/commit-activity/y/theKnightsOfRohan/csvlens.nvim)
 - [emmanueltouzery/decisive.nvim](https://github.com/emmanueltouzery/decisive.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/decisive.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/decisive.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/decisive.nvim)
+- [u6xk3/csv-analyser.nvim](https://github.com/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/stars/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/last-commit/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/commit-activity/y/u6xk3/csv-analyser.nvim)
 
 ### Jenkins
 
