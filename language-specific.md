@@ -40,6 +40,7 @@
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
+    + [Racket](#racket)
       - [Test](#test)
     + [Processing](#processing)
     + [Promela](#promela)
@@ -156,6 +157,7 @@
 - [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/stars/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/last-commit/RobertBrunhage/dart-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/RobertBrunhage/dart-tools.nvim)
 - [wa11breaker/flutter-bloc.nvim](https://github.com/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/stars/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/last-commit/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/wa11breaker/flutter-bloc.nvim)
 - [mayorbyrne/dart-checkForSdkUpdates.nvim](https://github.com/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/stars/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/last-commit/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/commit-activity/y/mayorbyrne/dart-checkForSdkUpdates.nvim)
+- [Coosis/flutterhelp.nvim](https://github.com/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/stars/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/last-commit/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Coosis/flutterhelp.nvim)
 
 ### Clojure
 
@@ -275,6 +277,10 @@
 ### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+### Racket
+
+- [gordoncyu/racket-cover.nvim](https://github.com/gordoncyu/racket-cover.nvim) ![](https://img.shields.io/github/stars/gordoncyu/racket-cover.nvim) ![](https://img.shields.io/github/last-commit/gordoncyu/racket-cover.nvim) ![](https://img.shields.io/github/commit-activity/y/gordoncyu/racket-cover.nvim)
 
 #### Test
 
