@@ -36,6 +36,7 @@
 - [hinkers/nvim-cheatsheet](https://github.com/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/stars/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/hinkers/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/hinkers/nvim-cheatsheet)
 - [siawkz/nvim-cheatsh](https://github.com/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/stars/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/last-commit/siawkz/nvim-cheatsh) ![](https://img.shields.io/github/commit-activity/y/siawkz/nvim-cheatsh)
 - [smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/stars/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/last-commit/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/smartinellimarco/nvcheatsheet.nvim)
+- [901228/mochi-cheatsheet.nvim](https://github.com/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/stars/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/901228/mochi-cheatsheet.nvim)
 
 ### External Manual
 

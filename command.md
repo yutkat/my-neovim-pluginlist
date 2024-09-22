@@ -82,6 +82,7 @@
 - [haolian9/sudo_write.nvim](https://github.com/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/stars/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/last-commit/haolian9/sudo_write.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/sudo_write.nvim)
 - [Grafcube/suedit.nvim](https://github.com/Grafcube/suedit.nvim) ![](https://img.shields.io/github/stars/Grafcube/suedit.nvim) ![](https://img.shields.io/github/last-commit/Grafcube/suedit.nvim) ![](https://img.shields.io/github/commit-activity/y/Grafcube/suedit.nvim)
 - [HE7086/sudoedit.nvim](https://github.com/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/stars/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/last-commit/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/sudoedit.nvim)
+- [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/stars/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/last-commit/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/commit-activity/y/denialofsandwich/sudo.nvim)
 
 #### quit
 

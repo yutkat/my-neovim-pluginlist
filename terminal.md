@@ -7,6 +7,7 @@
   * [Open](#open)
   * [Edit](#edit)
   * [Jump](#jump)
+  * [Terminal mode](#terminal-mode)
   * [External terminal](#external-terminal)
   * [Terminal Selector](#terminal-selector)
   * [Command](#command)
@@ -78,6 +79,10 @@
 ### Jump
 
 - [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) ![](https://img.shields.io/github/stars/yutkat/term-gf.nvim) ![](https://img.shields.io/github/last-commit/yutkat/term-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/term-gf.nvim)
+
+### Terminal mode
+
+- [JefferyBoy/stay_mode.nvim](https://github.com/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/stay_mode.nvim)
 
 ### External terminal
 

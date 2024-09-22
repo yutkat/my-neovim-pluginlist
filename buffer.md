@@ -93,6 +93,7 @@
 - [desdic/marlin.nvim](https://github.com/desdic/marlin.nvim) ![](https://img.shields.io/github/stars/desdic/marlin.nvim) ![](https://img.shields.io/github/last-commit/desdic/marlin.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/marlin.nvim)
 - [smilhey/cabinet.nvim](https://github.com/smilhey/cabinet.nvim) ![](https://img.shields.io/github/stars/smilhey/cabinet.nvim) ![](https://img.shields.io/github/last-commit/smilhey/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/smilhey/cabinet.nvim)
 - [kilavila/nvim-bufferlist](https://github.com/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/stars/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/last-commit/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-bufferlist)
+- [EL-MASTOR/bufferlist.nvim](https://github.com/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/EL-MASTOR/bufferlist.nvim)
 
 #### create
 

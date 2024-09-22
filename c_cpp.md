@@ -6,8 +6,9 @@
   * [Syntax](#syntax)
   * [Macro](#macro)
   * [Compile](#compile)
-  * [Clang](#clang)
-  * [GCC](#gcc)
+    + [insight](#insight)
+    + [Clang](#clang)
+    + [GCC](#gcc)
   * [Formatter](#formatter)
   * [Makefile](#makefile)
   * [GoogleTest](#googletest)
@@ -64,12 +65,16 @@
 - [AZarbade/cmc.nvim](https://github.com/AZarbade/cmc.nvim) ![](https://img.shields.io/github/stars/AZarbade/cmc.nvim) ![](https://img.shields.io/github/last-commit/AZarbade/cmc.nvim) ![](https://img.shields.io/github/commit-activity/y/AZarbade/cmc.nvim)
 - [lliuaotian/compile.nvim](https://github.com/lliuaotian/compile.nvim) ![](https://img.shields.io/github/stars/lliuaotian/compile.nvim) ![](https://img.shields.io/github/last-commit/lliuaotian/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/lliuaotian/compile.nvim)
 
-### Clang
+#### insight
+
+- [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/cppinsights.nvim)
+
+#### Clang
 
 - [leosmaia21/gcompilecommands.nvim](https://github.com/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/stars/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/gcompilecommands.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/gcompilecommands.nvim)
 - [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/stars/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/last-commit/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/reloader.nvim)
 
-### GCC
+#### GCC
 
 - [eoBattisti/autocrun.nvim](https://github.com/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/stars/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/autocrun.nvim)
 
