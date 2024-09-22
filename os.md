@@ -26,6 +26,7 @@
     + [iTerm](#iterm)
   * [iOS](#ios)
   * [Android](#android)
+    + [adb](#adb)
 
 <!-- tocstop -->
 
@@ -128,3 +129,8 @@
 ### Android
 
 - [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
+
+#### adb
+
+- [JefferyBoy/adb_dumpsys.nvim](https://github.com/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/adb_dumpsys.nvim)
+

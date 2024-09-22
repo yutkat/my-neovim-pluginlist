@@ -211,6 +211,7 @@
 - [Bleksak/diffthis.nvim](https://github.com/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/stars/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/diffthis.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/diffthis.nvim)
 - [perryrh0dan/pickers.nvim](https://github.com/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/stars/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/last-commit/perryrh0dan/pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/perryrh0dan/pickers.nvim)
 - [leonnelc/git_diff.nvim](https://github.com/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/stars/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/last-commit/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/leonnelc/git_diff.nvim)
+- [JefferyBoy/git_diff.nvim](https://github.com/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/git_diff.nvim)
 
 ## git rebase
 

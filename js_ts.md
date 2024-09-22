@@ -248,6 +248,7 @@
 
 - [SerMeliodas/ecsstractor.nvim](https://github.com/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/stars/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/last-commit/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/commit-activity/y/SerMeliodas/ecsstractor.nvim)
 - [microph1/nvim-pde](https://github.com/microph1/nvim-pde) ![](https://img.shields.io/github/stars/microph1/nvim-pde) ![](https://img.shields.io/github/last-commit/microph1/nvim-pde) ![](https://img.shields.io/github/commit-activity/y/microph1/nvim-pde)
+- [joshddunn/nvim-scss-variables](https://github.com/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/stars/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/last-commit/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/commit-activity/y/joshddunn/nvim-scss-variables)
 
 ### pixel size
 

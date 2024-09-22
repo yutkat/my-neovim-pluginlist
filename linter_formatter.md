@@ -55,6 +55,7 @@
 - [tenxsoydev/tabs-vs-spaces.nvim](https://github.com/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/tabs-vs-spaces.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/tabs-vs-spaces.nvim)
 - [amarakon/nvim-markspace](https://github.com/amarakon/nvim-markspace) ![](https://img.shields.io/github/stars/amarakon/nvim-markspace) ![](https://img.shields.io/github/last-commit/amarakon/nvim-markspace) ![](https://img.shields.io/github/commit-activity/y/amarakon/nvim-markspace)
 - [getty104/air-duster.nvim](https://github.com/getty104/air-duster.nvim) ![](https://img.shields.io/github/stars/getty104/air-duster.nvim) ![](https://img.shields.io/github/last-commit/getty104/air-duster.nvim) ![](https://img.shields.io/github/commit-activity/y/getty104/air-duster.nvim)
+- [joshddunn/nvim-remove-trailing-whitespace](https://github.com/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/stars/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/last-commit/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/commit-activity/y/joshddunn/nvim-remove-trailing-whitespace)
 
 ### Formatter switcher
 

@@ -13,6 +13,7 @@
   * [Switch](#switch)
   * [Open README](#open-readme)
 - [Market place](#market-place)
+- [Usage Report](#usage-report)
 
 <!-- tocstop -->
 
@@ -84,3 +85,7 @@
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) ![](https://img.shields.io/github/stars/roobert/activate.nvim) ![](https://img.shields.io/github/last-commit/roobert/activate.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/activate.nvim)
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicDuck/grug-far.nvim)
+
+## Usage Report
+
+- [michaperki/nvim-plugin-tracker](https://github.com/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/stars/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/last-commit/michaperki/nvim-plugin-tracker) ![](https://img.shields.io/github/commit-activity/y/michaperki/nvim-plugin-tracker)
