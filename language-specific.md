@@ -63,6 +63,7 @@
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Aeria](#aeria)
+    + [Apple II](#apple-ii)
     + [Templaty](#templaty)
     + [Storm](#storm)
     + [Genero](#genero)
@@ -367,6 +368,10 @@
 ### Aeria
 
 - [aeria-org/aeria.nvim](https://github.com/aeria-org/aeria.nvim) ![](https://img.shields.io/github/stars/aeria-org/aeria.nvim) ![](https://img.shields.io/github/last-commit/aeria-org/aeria.nvim) ![](https://img.shields.io/github/commit-activity/y/aeria-org/aeria.nvim)
+
+### Apple II
+
+- [dfgordon/nvim-a2-pack](https://github.com/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/stars/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/last-commit/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/commit-activity/y/dfgordon/nvim-a2-pack)
 
 ### Templaty
 

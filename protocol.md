@@ -49,6 +49,7 @@
 - [phenax/cmp-graphql](https://github.com/phenax/cmp-graphql) ![](https://img.shields.io/github/stars/phenax/cmp-graphql) ![](https://img.shields.io/github/last-commit/phenax/cmp-graphql) ![](https://img.shields.io/github/commit-activity/y/phenax/cmp-graphql)
 - [darkonig/nvim-graphql-executor.lua](https://github.com/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/stars/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/last-commit/darkonig/nvim-graphql-executor.lua) ![](https://img.shields.io/github/commit-activity/y/darkonig/nvim-graphql-executor.lua)
 - [enthusiva/gql.nvim](https://github.com/enthusiva/gql.nvim) ![](https://img.shields.io/github/stars/enthusiva/gql.nvim) ![](https://img.shields.io/github/last-commit/enthusiva/gql.nvim) ![](https://img.shields.io/github/commit-activity/y/enthusiva/gql.nvim)
+- [ariakh55/graphql.nvim](https://github.com/ariakh55/graphql.nvim) ![](https://img.shields.io/github/stars/ariakh55/graphql.nvim) ![](https://img.shields.io/github/last-commit/ariakh55/graphql.nvim) ![](https://img.shields.io/github/commit-activity/y/ariakh55/graphql.nvim)
 
 ### WebSocket
 

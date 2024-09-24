@@ -41,6 +41,7 @@
   * [Auto Insert](#auto-insert)
   * [matchparen](#matchparen)
   * [matchadd](#matchadd)
+  * [Eval](#eval)
   * [Convert](#convert)
   * [Indent](#indent)
   * [Align](#align)
@@ -279,6 +280,10 @@
 ### matchadd
 
 - [haolian9/gary.nvim](https://github.com/haolian9/gary.nvim) ![](https://img.shields.io/github/stars/haolian9/gary.nvim) ![](https://img.shields.io/github/last-commit/haolian9/gary.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/gary.nvim)
+
+### Eval
+
+- [fvictorio/eval-replace.nvim](https://github.com/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/stars/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/last-commit/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/fvictorio/eval-replace.nvim)
 
 ### [Convert](./convert.md)
 
