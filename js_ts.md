@@ -225,6 +225,7 @@
 - [victoroliveirab/css-utils.nvim](https://github.com/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/stars/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/last-commit/victoroliveirab/css-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/victoroliveirab/css-utils.nvim)
 - [jdrupal-dev/css-vars.nvim](https://github.com/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/css-vars.nvim)
 - [farias-hecdin/CSSVarHighlight](https://github.com/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarHighlight)
+- [farias-hecdin/CSSVarViewer](https://github.com/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarViewer)
 
 ### tailwind
 

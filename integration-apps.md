@@ -138,6 +138,7 @@
 ### JetBrains
 
 - [vianney-g/jetbrains-scopes.nvim](https://github.com/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/stars/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/jetbrains-scopes.nvim)
+- [hisasann/run-storm.nvim](https://github.com/hisasann/run-storm.nvim) ![](https://img.shields.io/github/stars/hisasann/run-storm.nvim) ![](https://img.shields.io/github/last-commit/hisasann/run-storm.nvim) ![](https://img.shields.io/github/commit-activity/y/hisasann/run-storm.nvim)
 
 ### Desktop Integration
 

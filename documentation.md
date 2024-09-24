@@ -8,6 +8,7 @@
     + [Markdown header](#markdown-header)
       - [Title explorer](#title-explorer)
     + [toc](#toc)
+    + [Calculation](#calculation)
     + [Markdown preview](#markdown-preview)
       - [Lua](#lua)
       - [Node](#node)
@@ -42,6 +43,7 @@
   * [Pandoc](#pandoc)
   * [Vimdoc](#vimdoc)
   * [Tex](#tex)
+    + [Preview](#preview)
     + [Image](#image)
     + [subfiles](#subfiles)
     + [Tex Preview](#tex-preview)
@@ -109,6 +111,10 @@
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/stars/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/markdown-toc.nvim)
 - [adigitoleo/overview.nvim](https://github.com/adigitoleo/overview.nvim) ![](https://img.shields.io/github/stars/adigitoleo/overview.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/overview.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/overview.nvim)
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/markdown-toc)
+
+#### Calculation
+
+- [SleepySwords/mathjax.nvim](https://github.com/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/stars/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/last-commit/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/commit-activity/y/SleepySwords/mathjax.nvim)
 
 #### Markdown preview
 
@@ -343,6 +349,10 @@
 - [lentilus/fastex.nvim](https://github.com/lentilus/fastex.nvim) ![](https://img.shields.io/github/stars/lentilus/fastex.nvim) ![](https://img.shields.io/github/last-commit/lentilus/fastex.nvim) ![](https://img.shields.io/github/commit-activity/y/lentilus/fastex.nvim)
 - [Matze-isses/latex-writer.nvim](https://github.com/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/stars/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/last-commit/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/Matze-isses/latex-writer.nvim)
 - [frvnzj/xJUSTEXx.nvim](https://github.com/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/stars/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/last-commit/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/commit-activity/y/frvnzj/xJUSTEXx.nvim)
+
+#### Preview
+
+- [thevimmer/latex_renderer.nvim](https://github.com/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/stars/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/last-commit/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/commit-activity/y/thevimmer/latex_renderer.nvim)
 
 #### Image
 

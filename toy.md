@@ -14,6 +14,7 @@
     + [FiveM](#fivem)
   * [Gaming](#gaming)
   * [Training](#training)
+  * [Turing path](#turing-path)
   * [Gesture](#gesture)
   * [Weather](#weather)
   * [Clock](#clock)
@@ -102,6 +103,10 @@
 
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/stars/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/hardtime.nvim)
 - [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) ![](https://img.shields.io/github/stars/Weyaaron/nvim-training) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-training) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-training)
+
+## Turing path
+
+- [1NickPappas/turing_path.nvim](https://github.com/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/stars/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/last-commit/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/commit-activity/y/1NickPappas/turing_path.nvim)
 
 ## Gesture
 

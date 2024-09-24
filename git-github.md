@@ -223,6 +223,7 @@
 - [akinsho/git-conflict.nvim](https://github.com/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/stars/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/last-commit/akinsho/git-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/akinsho/git-conflict.nvim)
 - [Snikimonkd/telescope-git-conflicts.nvim](https://github.com/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/stars/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/Snikimonkd/telescope-git-conflicts.nvim)
 - [pv-hernandez/conflict-juggler.nvim](https://github.com/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/stars/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/last-commit/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/pv-hernandez/conflict-juggler.nvim)
+- [youguanxinqing/git-conflicts.nvim](https://github.com/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/git-conflicts.nvim)
 
 ## git pull
 
