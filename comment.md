@@ -37,6 +37,7 @@
 - [francescoApophis/comment.nvim](https://github.com/francescoApophis/comment.nvim) ![](https://img.shields.io/github/stars/francescoApophis/comment.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/comment.nvim)
 - [folke/ts-comments.nvim](https://github.com/folke/ts-comments.nvim) ![](https://img.shields.io/github/stars/folke/ts-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/ts-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/ts-comments.nvim)
 - [h-cow/nvim-cow-commenter](https://github.com/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/stars/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/last-commit/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-cow-commenter)
+- [tj-moody/nucomment.nvim](https://github.com/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/stars/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/last-commit/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/commit-activity/y/tj-moody/nucomment.nvim)
 
 ### CommentString
 

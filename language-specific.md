@@ -17,6 +17,7 @@
     + [Dart, Flutter](#dart-flutter)
     + [Clojure](#clojure)
       - [test](#test)
+      - [format](#format)
     + [Erlang](#erlang)
       - [hex](#hex)
     + [Elixir](#elixir)
@@ -173,6 +174,9 @@
 
 - [julienvincent/clojure-test.nvim](https://github.com/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/stars/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/clojure-test.nvim)
 
+#### format
+
+- [raystubbs/nvim-cljfmt-indents](https://github.com/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/stars/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/last-commit/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/commit-activity/y/raystubbs/nvim-cljfmt-indents)
 
 ### Erlang
 
