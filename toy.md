@@ -48,6 +48,7 @@
 - [tamton-aquib/duck.nvim](https://github.com/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/duck.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/duck.nvim)
 - [samuzora/pet.nvim](https://github.com/samuzora/pet.nvim) ![](https://img.shields.io/github/stars/samuzora/pet.nvim) ![](https://img.shields.io/github/last-commit/samuzora/pet.nvim) ![](https://img.shields.io/github/commit-activity/y/samuzora/pet.nvim)
 - [giusgad/pets.nvim](https://github.com/giusgad/pets.nvim) ![](https://img.shields.io/github/stars/giusgad/pets.nvim) ![](https://img.shields.io/github/last-commit/giusgad/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/giusgad/pets.nvim)
+- [The-Silent-One/goose.nvim](https://github.com/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/goose.nvim)
 
 ## Image
 

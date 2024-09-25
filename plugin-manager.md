@@ -50,6 +50,7 @@
 - [ripjackie/alpaca.nvim](https://github.com/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/stars/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/last-commit/ripjackie/alpaca.nvim) ![](https://img.shields.io/github/commit-activity/y/ripjackie/alpaca.nvim)
 - [echasnovski/mini.deps](https://github.com/echasnovski/mini.deps) ![](https://img.shields.io/github/stars/echasnovski/mini.deps) ![](https://img.shields.io/github/last-commit/echasnovski/mini.deps) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.deps)
 - [nvimdev/minpm.nvim](https://github.com/nvimdev/minpm.nvim) ![](https://img.shields.io/github/stars/nvimdev/minpm.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/minpm.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/minpm.nvim)
+- [mvllow/pam.nvim](https://github.com/mvllow/pam.nvim) ![](https://img.shields.io/github/stars/mvllow/pam.nvim) ![](https://img.shields.io/github/last-commit/mvllow/pam.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/pam.nvim)
 
 ### Update checker
 

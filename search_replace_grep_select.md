@@ -9,6 +9,7 @@
   * [Current Word Search](#current-word-search)
   * [Search count](#search-count)
   * [Word Count](#word-count)
+  * [Line Count](#line-count)
   * [Comment search](#comment-search)
   * [Search highlight](#search-highlight)
   * [Visual search](#visual-search)
@@ -80,6 +81,10 @@
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) ![](https://img.shields.io/github/stars/backdround/improved-search.nvim) ![](https://img.shields.io/github/last-commit/backdround/improved-search.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/improved-search.nvim)
 - [soryu-ryouji/nvim-ccount.lua](https://github.com/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/stars/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/last-commit/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/commit-activity/y/soryu-ryouji/nvim-ccount.lua)
 - [Ullreich/wordcount.nvim](https://github.com/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/stars/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/last-commit/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/commit-activity/y/Ullreich/wordcount.nvim)
+
+## Line Count
+
+- [TuTaRdrgZ/ft_count_lines.nvim](https://github.com/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/stars/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/last-commit/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/TuTaRdrgZ/ft_count_lines.nvim)
 
 ## Comment search
 

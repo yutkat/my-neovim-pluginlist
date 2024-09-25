@@ -52,6 +52,9 @@
 - [kdheepak/nvim-dap-julia](https://github.com/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/stars/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/last-commit/kdheepak/nvim-dap-julia) ![](https://img.shields.io/github/commit-activity/y/kdheepak/nvim-dap-julia)
 - [piredman/nvim-dap-dotnet](https://github.com/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/stars/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/last-commit/piredman/nvim-dap-dotnet) ![](https://img.shields.io/github/commit-activity/y/piredman/nvim-dap-dotnet)
 - [Carcuis/dap-breakpoints.nvim](https://github.com/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/stars/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/last-commit/Carcuis/dap-breakpoints.nvim) ![](https://img.shields.io/github/commit-activity/y/Carcuis/dap-breakpoints.nvim)
+- [lucaSartore/nvim-dap-exception-breakpoints](https://github.com/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/stars/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/last-commit/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/commit-activity/y/lucaSartore/nvim-dap-exception-breakpoints)
+- [goropikari/nvim-dap-rdbg](https://github.com/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-rdbg)
+- [goropikari/nvim-dap-cpp](https://github.com/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-cpp)
 
 #### Launch.json
 

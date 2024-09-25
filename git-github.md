@@ -391,6 +391,7 @@
 - [avano/simple-gitlink.nvim](https://github.com/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/stars/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/last-commit/avano/simple-gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/avano/simple-gitlink.nvim)
 - [rajneesh2k10/codebrowser.nvim](https://github.com/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/stars/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/last-commit/rajneesh2k10/codebrowser.nvim) ![](https://img.shields.io/github/commit-activity/y/rajneesh2k10/codebrowser.nvim)
 - [trevorhauter/gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/stars/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/last-commit/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorhauter/gitportal.nvim)
+- [hzieba/git-remote.nvim](https://github.com/hzieba/git-remote.nvim) ![](https://img.shields.io/github/stars/hzieba/git-remote.nvim) ![](https://img.shields.io/github/last-commit/hzieba/git-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/hzieba/git-remote.nvim)
 
 ## Image
 

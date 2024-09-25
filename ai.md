@@ -159,6 +159,7 @@
 ### Claude
 
 - [evangstav/claude.nvim](https://github.com/evangstav/claude.nvim) ![](https://img.shields.io/github/stars/evangstav/claude.nvim) ![](https://img.shields.io/github/last-commit/evangstav/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/evangstav/claude.nvim)
+- [yuzhegan/avante.nvim](https://github.com/yuzhegan/avante.nvim) ![](https://img.shields.io/github/stars/yuzhegan/avante.nvim) ![](https://img.shields.io/github/last-commit/yuzhegan/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yuzhegan/avante.nvim)
 
 ### Supermaven
 
