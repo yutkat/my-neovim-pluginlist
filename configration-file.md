@@ -38,6 +38,7 @@
 - [muhfaris/devtools.nvim](https://github.com/muhfaris/devtools.nvim) ![](https://img.shields.io/github/stars/muhfaris/devtools.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/devtools.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/devtools.nvim)
 - [TravisYeah/jq.nvim](https://github.com/TravisYeah/jq.nvim) ![](https://img.shields.io/github/stars/TravisYeah/jq.nvim) ![](https://img.shields.io/github/last-commit/TravisYeah/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/TravisYeah/jq.nvim)
 - [cenk1cenk2/jq.nvim](https://github.com/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/jq.nvim)
+- [try-to-fly/json-path-picker.nvim](https://github.com/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/stars/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/json-path-picker.nvim)
 
 ### YAML
 
@@ -58,6 +59,7 @@
 ### XML
 
 - [TheDrawingCoder-Gamer/prc.nvim](https://github.com/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/stars/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/last-commit/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/commit-activity/y/TheDrawingCoder-Gamer/prc.nvim)
+- [try-to-fly/xml-preview.nvim](https://github.com/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/stars/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/xml-preview.nvim)
 
 ### dotbox
 
