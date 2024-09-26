@@ -4,6 +4,7 @@
 
 - [Protocol](#protocol)
   * [HTTP](#http)
+    + [Request](#request)
     + [Status](#status)
   * [REST](#rest)
     + [OpenAPI](#openapi)
@@ -19,6 +20,10 @@
 ## Protocol
 
 ### HTTP
+
+#### Request
+
+- [sunn4room/httpc.nvim](https://github.com/sunn4room/httpc.nvim) ![](https://img.shields.io/github/stars/sunn4room/httpc.nvim) ![](https://img.shields.io/github/last-commit/sunn4room/httpc.nvim) ![](https://img.shields.io/github/commit-activity/y/sunn4room/httpc.nvim)
 
 #### Status
 

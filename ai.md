@@ -115,6 +115,7 @@
 - [rwtnb/alpha4.nvim](https://github.com/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/stars/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/last-commit/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/commit-activity/y/rwtnb/alpha4.nvim)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ![](https://img.shields.io/github/stars/yetone/avante.nvim) ![](https://img.shields.io/github/last-commit/yetone/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yetone/avante.nvim)
 - [magicalne/nvim.ai](https://github.com/magicalne/nvim.ai) ![](https://img.shields.io/github/stars/magicalne/nvim.ai) ![](https://img.shields.io/github/last-commit/magicalne/nvim.ai) ![](https://img.shields.io/github/commit-activity/y/magicalne/nvim.ai)
+- [dreamtrail/gp.nvim](https://github.com/dreamtrail/gp.nvim) ![](https://img.shields.io/github/stars/dreamtrail/gp.nvim) ![](https://img.shields.io/github/last-commit/dreamtrail/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/dreamtrail/gp.nvim)
 
 #### Generate Doc
 
