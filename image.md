@@ -99,6 +99,7 @@
 - [ColaMint/pokemon.nvim](https://github.com/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/stars/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/last-commit/ColaMint/pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/ColaMint/pokemon.nvim)
 - [mikesmithgh/render.nvim](https://github.com/mikesmithgh/render.nvim) ![](https://img.shields.io/github/stars/mikesmithgh/render.nvim) ![](https://img.shields.io/github/last-commit/mikesmithgh/render.nvim) ![](https://img.shields.io/github/commit-activity/y/mikesmithgh/render.nvim)
 - [Jeansidharta/ascii-image.nvim](https://github.com/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/ascii-image.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/ascii-image.nvim)
+- [phamdat8/alpha-art.nvim](https://github.com/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/stars/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/last-commit/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/commit-activity/y/phamdat8/alpha-art.nvim)
 
 ### Graph
 

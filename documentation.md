@@ -47,6 +47,7 @@
     + [Image](#image)
     + [subfiles](#subfiles)
     + [Tex Preview](#tex-preview)
+    + [conceal](#conceal)
     + [BiBTex](#bibtex)
     + [Speech](#speech)
   * [Copyright](#copyright)
@@ -365,6 +366,10 @@
 #### Tex Preview
 
 - [anthonymolinari/latex_preview.nvim](https://github.com/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/stars/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/last-commit/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anthonymolinari/latex_preview.nvim)
+
+#### conceal
+
+- [dirichy/latex_concealer.nvim](https://github.com/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/stars/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/last-commit/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/latex_concealer.nvim)
 
 #### BiBTex
 
