@@ -35,6 +35,7 @@
   * [curl](#curl)
   * [bruno](#bruno)
   * [ctags](#ctags)
+  * [global](#global)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
   * [dotfiles](#dotfiles)
@@ -260,6 +261,10 @@
 - [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
 - [hallestar/nvgtags.nvim](https://github.com/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/stars/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/last-commit/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/commit-activity/y/hallestar/nvgtags.nvim)
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) ![](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![](https://img.shields.io/github/last-commit/JMarkin/gentags.lua) ![](https://img.shields.io/github/commit-activity/y/JMarkin/gentags.lua)
+
+#### global
+
+- [rargo/nvim-global](https://github.com/rargo/nvim-global) ![](https://img.shields.io/github/stars/rargo/nvim-global) ![](https://img.shields.io/github/last-commit/rargo/nvim-global) ![](https://img.shields.io/github/commit-activity/y/rargo/nvim-global)
 
 #### tldr
 

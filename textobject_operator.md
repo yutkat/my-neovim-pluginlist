@@ -27,6 +27,7 @@
 - [bagohart/textobj-before.nvim](https://github.com/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/stars/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/last-commit/bagohart/textobj-before.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/textobj-before.nvim)
 - [juselara1/teoj.nvim](https://github.com/juselara1/teoj.nvim) ![](https://img.shields.io/github/stars/juselara1/teoj.nvim) ![](https://img.shields.io/github/last-commit/juselara1/teoj.nvim) ![](https://img.shields.io/github/commit-activity/y/juselara1/teoj.nvim)
 - [ggandor/spooky.nvim](https://github.com/ggandor/spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/spooky.nvim)
+- [srghma/nvim-various-textobjs-movements](https://github.com/srghma/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma/nvim-various-textobjs-movements)
 
 ### Unit
 
