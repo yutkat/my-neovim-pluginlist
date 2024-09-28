@@ -22,6 +22,7 @@
 - [niuiic/track.nvim](https://github.com/niuiic/track.nvim) ![](https://img.shields.io/github/stars/niuiic/track.nvim) ![](https://img.shields.io/github/last-commit/niuiic/track.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/track.nvim)
 - [nkey-ops/extended-marks.nvim](https://github.com/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/stars/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/last-commit/nkey-ops/extended-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nkey-ops/extended-marks.nvim)
 - [2KAbhishek/markit.nvim](https://github.com/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/markit.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/markit.nvim)
+- [gcmt/vessel.nvim](https://github.com/gcmt/vessel.nvim) ![](https://img.shields.io/github/stars/gcmt/vessel.nvim) ![](https://img.shields.io/github/last-commit/gcmt/vessel.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/vessel.nvim)
 
 ### sign
 
