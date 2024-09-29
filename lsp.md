@@ -103,6 +103,7 @@
 - [rachartier/tiny-inline-diagnostic.nvim](https://github.com/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-inline-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-inline-diagnostic.nvim)
 - [sontungexpt/better-diagnostic-virtual-text](https://github.com/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/stars/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/last-commit/sontungexpt/better-diagnostic-virtual-text) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/better-diagnostic-virtual-text)
 - [maxmx03/diagpop.nvim](https://github.com/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/stars/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/diagpop.nvim)
+- [TomDeneire/lsp-in-gutter.nvim](https://github.com/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/stars/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/last-commit/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/TomDeneire/lsp-in-gutter.nvim)
 
 ##### Diagnostics goto
 

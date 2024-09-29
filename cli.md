@@ -85,6 +85,7 @@
 - [dkooll/tmuxer.nvim](https://github.com/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/stars/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/tmuxer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/tmuxer.nvim)
 - [jkeresman01/tmux-switch.nvim](https://github.com/jkeresman01/tmux-switch.nvim) ![](https://img.shields.io/github/stars/jkeresman01/tmux-switch.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/tmux-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/tmux-switch.nvim)
 - [cgimenes/tmux-files.nvim](https://github.com/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/stars/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/last-commit/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/commit-activity/y/cgimenes/tmux-files.nvim)
+- [burntfalafel/signaltmux.nvim](https://github.com/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/stars/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/last-commit/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/commit-activity/y/burntfalafel/signaltmux.nvim)
 
 ##### tmux alternative
 
