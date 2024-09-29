@@ -30,6 +30,7 @@
 - [francescoApophis/trie-cmp.nvim](https://github.com/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/stars/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/trie-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/trie-cmp.nvim)
 - [brianaung/autocompl.nvim](https://github.com/brianaung/autocompl.nvim) ![](https://img.shields.io/github/stars/brianaung/autocompl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/autocompl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/autocompl.nvim)
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) ![](https://img.shields.io/github/stars/max397574/care.nvim) ![](https://img.shields.io/github/last-commit/max397574/care.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/care.nvim)
+- [vx-clutch/comppls.nvim](https://github.com/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/stars/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/last-commit/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/commit-activity/y/vx-clutch/comppls.nvim)
 
 #### Made in Python
 

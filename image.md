@@ -85,6 +85,7 @@
 - [AlejandroSuero/freeze-code.nvim](https://github.com/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/freeze-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/freeze-code.nvim)
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) ![](https://img.shields.io/github/stars/ndom91/freeze.nvim) ![](https://img.shields.io/github/last-commit/ndom91/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/ndom91/freeze.nvim)
 - [kenielf/silicon.nvim](https://github.com/kenielf/silicon.nvim) ![](https://img.shields.io/github/stars/kenielf/silicon.nvim) ![](https://img.shields.io/github/last-commit/kenielf/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/kenielf/silicon.nvim)
+- [jkellogg01/freeze.nvim](https://github.com/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/stars/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/last-commit/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/jkellogg01/freeze.nvim)
 
 ### SVG
 
