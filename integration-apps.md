@@ -16,6 +16,7 @@
     + [Helix](#helix)
     + [Xcode](#xcode)
   * [JetBrains](#jetbrains)
+  * [Zed](#zed)
   * [Desktop Integration](#desktop-integration)
 - [Development environment](#development-environment)
   * [Shell](#shell)
@@ -139,6 +140,10 @@
 
 - [vianney-g/jetbrains-scopes.nvim](https://github.com/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/stars/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/jetbrains-scopes.nvim)
 - [hisasann/run-storm.nvim](https://github.com/hisasann/run-storm.nvim) ![](https://img.shields.io/github/stars/hisasann/run-storm.nvim) ![](https://img.shields.io/github/last-commit/hisasann/run-storm.nvim) ![](https://img.shields.io/github/commit-activity/y/hisasann/run-storm.nvim)
+
+### Zed
+
+- [kogakure/export-to-zed.nvim](https://github.com/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/stars/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/last-commit/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/commit-activity/y/kogakure/export-to-zed.nvim)
 
 ### Desktop Integration
 
