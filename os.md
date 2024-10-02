@@ -7,6 +7,7 @@
   * [Linux](#linux)
     + [kernel](#kernel)
     + [gnome](#gnome)
+    + [Hyprland](#hyprland)
     + [X11](#x11)
     + [flatpak](#flatpak)
     + [Nix](#nix)
@@ -45,6 +46,10 @@
 #### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+
+#### Hyprland
+
+- [rgarber11/hyprland-keymap-picker.nvim](https://github.com/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/stars/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/last-commit/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarber11/hyprland-keymap-picker.nvim)
 
 #### X11
 
