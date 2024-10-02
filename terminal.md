@@ -63,6 +63,7 @@
 - [morgsmccauley/termbuf.nvim](https://github.com/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/termbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/termbuf.nvim)
 - [9th8/termutils.nvim](https://github.com/9th8/termutils.nvim) ![](https://img.shields.io/github/stars/9th8/termutils.nvim) ![](https://img.shields.io/github/last-commit/9th8/termutils.nvim) ![](https://img.shields.io/github/commit-activity/y/9th8/termutils.nvim)
 - [jaimecgomezz/here.term](https://github.com/jaimecgomezz/here.term) ![](https://img.shields.io/github/stars/jaimecgomezz/here.term) ![](https://img.shields.io/github/last-commit/jaimecgomezz/here.term) ![](https://img.shields.io/github/commit-activity/y/jaimecgomezz/here.term)
+- [monteiroliveira/cocoon.nvim](https://github.com/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/stars/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/last-commit/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/commit-activity/y/monteiroliveira/cocoon.nvim)
 
 ### Open
 
