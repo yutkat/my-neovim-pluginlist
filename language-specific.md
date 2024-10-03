@@ -56,6 +56,7 @@
     + [Haxe](#haxe)
     + [Kind](#kind)
     + [K](#k)
+    + [Scheme](#scheme)
     + [Coq](#coq)
     + [Idris2](#idris2)
     + [MatLab](#matlab)
@@ -340,6 +341,10 @@
 ### K
 
 - [RKBethke/k.nvim](https://github.com/RKBethke/k.nvim) ![](https://img.shields.io/github/stars/RKBethke/k.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/k.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/k.nvim)
+
+### Scheme
+
+- [bsssssss/scheme2max.nvim](https://github.com/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/stars/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/scheme2max.nvim)
 
 ### Coq
 

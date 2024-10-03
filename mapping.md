@@ -94,6 +94,7 @@
 - [cronJohn/keytex.nvim](https://github.com/cronJohn/keytex.nvim) ![](https://img.shields.io/github/stars/cronJohn/keytex.nvim) ![](https://img.shields.io/github/last-commit/cronJohn/keytex.nvim) ![](https://img.shields.io/github/commit-activity/y/cronJohn/keytex.nvim)
 - [punktigel/key-tree.nvim](https://github.com/punktigel/key-tree.nvim) ![](https://img.shields.io/github/stars/punktigel/key-tree.nvim) ![](https://img.shields.io/github/last-commit/punktigel/key-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/punktigel/key-tree.nvim)
 - [tsilvs/kbdcheat.nvim](https://github.com/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/stars/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/last-commit/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/commit-activity/y/tsilvs/kbdcheat.nvim)
+- [AlexanderHott/keyquest.nvim](https://github.com/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/stars/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/last-commit/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderHott/keyquest.nvim)
 
 ## Prefix Key Binding
 

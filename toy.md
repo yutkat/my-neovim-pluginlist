@@ -143,6 +143,7 @@
 - [kungfusheep/randomquote.nvim](https://github.com/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/stars/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/randomquote.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/randomquote.nvim)
 - [letieu/btw.nvim](https://github.com/letieu/btw.nvim) ![](https://img.shields.io/github/stars/letieu/btw.nvim) ![](https://img.shields.io/github/last-commit/letieu/btw.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/btw.nvim)
 - [zemafaz/motivation.nvim](https://github.com/zemafaz/motivation.nvim) ![](https://img.shields.io/github/stars/zemafaz/motivation.nvim) ![](https://img.shields.io/github/last-commit/zemafaz/motivation.nvim) ![](https://img.shields.io/github/commit-activity/y/zemafaz/motivation.nvim)
+- [kirill-d-lappo/nvim-daily-quotes](https://github.com/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-daily-quotes)
 
 #### Tips
 

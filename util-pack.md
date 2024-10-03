@@ -19,6 +19,7 @@
 - [Saghen/blink.nvim](https://github.com/Saghen/blink.nvim) ![](https://img.shields.io/github/stars/Saghen/blink.nvim) ![](https://img.shields.io/github/last-commit/Saghen/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.nvim)
 - [samsze0/utils.nvim](https://github.com/samsze0/utils.nvim) ![](https://img.shields.io/github/stars/samsze0/utils.nvim) ![](https://img.shields.io/github/last-commit/samsze0/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/utils.nvim)
 - [NeViRAIDE/neviraide-ui](https://github.com/NeViRAIDE/neviraide-ui) ![](https://img.shields.io/github/stars/NeViRAIDE/neviraide-ui) ![](https://img.shields.io/github/last-commit/NeViRAIDE/neviraide-ui) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/neviraide-ui)
+- [grChad/grUtils.nvim](https://github.com/grChad/grUtils.nvim) ![](https://img.shields.io/github/stars/grChad/grUtils.nvim) ![](https://img.shields.io/github/last-commit/grChad/grUtils.nvim) ![](https://img.shields.io/github/commit-activity/y/grChad/grUtils.nvim)
 
 ## Patch
 
