@@ -122,6 +122,7 @@
 - [wassimk/scalpel.nvim](https://github.com/wassimk/scalpel.nvim) ![](https://img.shields.io/github/stars/wassimk/scalpel.nvim) ![](https://img.shields.io/github/last-commit/wassimk/scalpel.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/scalpel.nvim)
 - [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-rip-substitute)
 - [bbbkbc/find-replace.nvim](https://github.com/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/stars/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/last-commit/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/bbbkbc/find-replace.nvim)
+- [Sayyidalijufri/findreplace.nvim](https://github.com/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/findreplace.nvim)
 
 ## Rename
 
