@@ -146,6 +146,7 @@
 - [JordenHuang/como.nvim](https://github.com/JordenHuang/como.nvim) ![](https://img.shields.io/github/stars/JordenHuang/como.nvim) ![](https://img.shields.io/github/last-commit/JordenHuang/como.nvim) ![](https://img.shields.io/github/commit-activity/y/JordenHuang/como.nvim)
 - [ceceppa/execAsync.nvim](https://github.com/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/stars/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/execAsync.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/execAsync.nvim)
 - [marzeq/command-runner.nvim](https://github.com/marzeq/command-runner.nvim) ![](https://img.shields.io/github/stars/marzeq/command-runner.nvim) ![](https://img.shields.io/github/last-commit/marzeq/command-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/command-runner.nvim)
+- [lbzfran/compile-mode.nvim](https://github.com/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/stars/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/lbzfran/compile-mode.nvim)
 
 ## Auto detect style
 

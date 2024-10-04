@@ -79,6 +79,7 @@
 - [AlekseySav/gosource.nvim](https://github.com/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/stars/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/last-commit/AlekseySav/gosource.nvim) ![](https://img.shields.io/github/commit-activity/y/AlekseySav/gosource.nvim)
 - [zimeg/proximity.nvim](https://github.com/zimeg/proximity.nvim) ![](https://img.shields.io/github/stars/zimeg/proximity.nvim) ![](https://img.shields.io/github/last-commit/zimeg/proximity.nvim) ![](https://img.shields.io/github/commit-activity/y/zimeg/proximity.nvim)
 - [Julian/runt.nvim](https://github.com/Julian/runt.nvim) ![](https://img.shields.io/github/stars/Julian/runt.nvim) ![](https://img.shields.io/github/last-commit/Julian/runt.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/runt.nvim)
+- [ruhendrawan/same-folder-file-cycle.nvim](https://github.com/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/stars/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/last-commit/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/ruhendrawan/same-folder-file-cycle.nvim)
 
 ### Buffer Management
 
