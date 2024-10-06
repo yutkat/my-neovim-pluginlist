@@ -151,6 +151,7 @@
 - [ctfrancia/locate.nvim](https://github.com/ctfrancia/locate.nvim) ![](https://img.shields.io/github/stars/ctfrancia/locate.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/locate.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/locate.nvim)
 - [P4Cu/ctrlsf-ui.nvim](https://github.com/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/stars/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/last-commit/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/P4Cu/ctrlsf-ui.nvim)
 - [mistweaverco/tafuta.nvim](https://github.com/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/stars/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/tafuta.nvim)
+- [cristy-the-one/es.nvim](https://github.com/cristy-the-one/es.nvim) ![](https://img.shields.io/github/stars/cristy-the-one/es.nvim) ![](https://img.shields.io/github/last-commit/cristy-the-one/es.nvim) ![](https://img.shields.io/github/commit-activity/y/cristy-the-one/es.nvim)
 
 ## AST
 

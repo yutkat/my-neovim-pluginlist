@@ -62,6 +62,8 @@
     + [MatLab](#matlab)
     + [Cell](#cell)
     + [Orca](#orca)
+    + [Boxlang](#boxlang)
+    + [CFML](#cfml)
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Aeria](#aeria)
@@ -363,6 +365,14 @@
 ### Orca
 
 - [noearc/nvim-orca](https://github.com/noearc/nvim-orca) ![](https://img.shields.io/github/stars/noearc/nvim-orca) ![](https://img.shields.io/github/last-commit/noearc/nvim-orca) ![](https://img.shields.io/github/commit-activity/y/noearc/nvim-orca)
+
+### Boxlang
+
+- [HannaEckert/boxlsp.nvim](https://github.com/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/stars/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/last-commit/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HannaEckert/boxlsp.nvim)
+
+### CFML
+
+- [HannaEckert/cfmlsp.nvim](https://github.com/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/stars/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/last-commit/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HannaEckert/cfmlsp.nvim)
 
 ### sylt
 

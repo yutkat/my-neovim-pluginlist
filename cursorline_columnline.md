@@ -30,6 +30,7 @@
 - [miklu612/margin.nvim](https://github.com/miklu612/margin.nvim) ![](https://img.shields.io/github/stars/miklu612/margin.nvim) ![](https://img.shields.io/github/last-commit/miklu612/margin.nvim) ![](https://img.shields.io/github/commit-activity/y/miklu612/margin.nvim)
 - [tiyn/tccs.nvim](https://github.com/tiyn/tccs.nvim) ![](https://img.shields.io/github/stars/tiyn/tccs.nvim) ![](https://img.shields.io/github/last-commit/tiyn/tccs.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/tccs.nvim)
 - [parmeniong/neocolumn.nvim](https://github.com/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/stars/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/last-commit/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/parmeniong/neocolumn.nvim)
+- [adewitt76/color-columns.nvim](https://github.com/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/stars/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/last-commit/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/commit-activity/y/adewitt76/color-columns.nvim)
 
 ### limit column
 
