@@ -24,6 +24,8 @@
 - [meznaric/conmenu](https://github.com/meznaric/conmenu) ![](https://img.shields.io/github/stars/meznaric/conmenu) ![](https://img.shields.io/github/last-commit/meznaric/conmenu) ![](https://img.shields.io/github/commit-activity/y/meznaric/conmenu)
 - [willothy/hollywood.nvim](https://github.com/willothy/hollywood.nvim) ![](https://img.shields.io/github/stars/willothy/hollywood.nvim) ![](https://img.shields.io/github/last-commit/willothy/hollywood.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/hollywood.nvim)
 - [LintaoAmons/context-menu.nvim](https://github.com/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/stars/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/last-commit/LintaoAmons/context-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/LintaoAmons/context-menu.nvim)
+- [NvChad/menu](https://github.com/NvChad/menu) ![](https://img.shields.io/github/stars/NvChad/menu) ![](https://img.shields.io/github/last-commit/NvChad/menu) ![](https://img.shields.io/github/commit-activity/y/NvChad/menu)
+- [NvChad/volt](https://github.com/NvChad/volt) ![](https://img.shields.io/github/stars/NvChad/volt) ![](https://img.shields.io/github/last-commit/NvChad/volt) ![](https://img.shields.io/github/commit-activity/y/NvChad/volt)
 
 ### Minimap
 
