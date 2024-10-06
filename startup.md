@@ -39,3 +39,4 @@
 ### Logo
 
 - [kirill-d-lappo/nvim-logos](https://github.com/kirill-d-lappo/nvim-logos) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-logos) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-logos) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-logos)
+- [squarejellyfish/banner.nvim](https://github.com/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/stars/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/last-commit/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/commit-activity/y/squarejellyfish/banner.nvim)

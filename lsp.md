@@ -128,6 +128,7 @@
 
 - [temchik00/toggle-signature-help.nvim](https://github.com/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/stars/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/last-commit/temchik00/toggle-signature-help.nvim) ![](https://img.shields.io/github/commit-activity/y/temchik00/toggle-signature-help.nvim)
 - [aattoa/nvim-everysig](https://github.com/aattoa/nvim-everysig) ![](https://img.shields.io/github/stars/aattoa/nvim-everysig) ![](https://img.shields.io/github/last-commit/aattoa/nvim-everysig) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-everysig)
+- [Dan7h3x/signup.nvim](https://github.com/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/signup.nvim)
 
 #### Definition, Reference
 

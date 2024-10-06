@@ -40,11 +40,13 @@
 - [nobody-famous/tasks.nvim](https://github.com/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/stars/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/last-commit/nobody-famous/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/nobody-famous/tasks.nvim)
 - [NycRat/maker.nvim](https://github.com/NycRat/maker.nvim) ![](https://img.shields.io/github/stars/NycRat/maker.nvim) ![](https://img.shields.io/github/last-commit/NycRat/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/maker.nvim)
 - [Seba244c/run.nvim](https://github.com/Seba244c/run.nvim) ![](https://img.shields.io/github/stars/Seba244c/run.nvim) ![](https://img.shields.io/github/last-commit/Seba244c/run.nvim) ![](https://img.shields.io/github/commit-activity/y/Seba244c/run.nvim)
+- [Beloin/Launch.nvim](https://github.com/Beloin/Launch.nvim) ![](https://img.shields.io/github/stars/Beloin/Launch.nvim) ![](https://img.shields.io/github/last-commit/Beloin/Launch.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/Launch.nvim)
 
 ### YAML
 
 - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/stars/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/last-commit/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/commit-activity/y/Arjun31415/BuildTask.nvim)
 - [jjocram/nvim-run](https://github.com/jjocram/nvim-run) ![](https://img.shields.io/github/stars/jjocram/nvim-run) ![](https://img.shields.io/github/last-commit/jjocram/nvim-run) ![](https://img.shields.io/github/commit-activity/y/jjocram/nvim-run)
+- [moffgato/taskfile.nvim](https://github.com/moffgato/taskfile.nvim) ![](https://img.shields.io/github/stars/moffgato/taskfile.nvim) ![](https://img.shields.io/github/last-commit/moffgato/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/moffgato/taskfile.nvim)
 
 ### TOML
 

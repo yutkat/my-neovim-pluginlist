@@ -7,6 +7,7 @@
 - [filetype](#filetype)
   * [filetype colorscheme](#filetype-colorscheme)
 - [Encoding](#encoding)
+- [file attributes](#file-attributes)
 
 <!-- tocstop -->
 
@@ -31,3 +32,8 @@
 ## Encoding
 
 - [sjjwantfish/encodings.nvim](https://github.com/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/stars/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/last-commit/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/commit-activity/y/sjjwantfish/encodings.nvim)
+- [pguimier/ToggleEncode.nvim](https://github.com/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/stars/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/last-commit/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/commit-activity/y/pguimier/ToggleEncode.nvim)
+
+## file attributes
+
+- [Sam-Hobson/extended_attributes.nvim](https://github.com/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/stars/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/last-commit/Sam-Hobson/extended_attributes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-Hobson/extended_attributes.nvim)

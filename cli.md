@@ -310,6 +310,7 @@
 #### Snyk Code
 
 - [maorun/snyk.nvim](https://github.com/maorun/snyk.nvim) ![](https://img.shields.io/github/stars/maorun/snyk.nvim) ![](https://img.shields.io/github/last-commit/maorun/snyk.nvim) ![](https://img.shields.io/github/commit-activity/y/maorun/snyk.nvim)
+- [VinceDeslo/vulny.nvim](https://github.com/VinceDeslo/vulny.nvim) ![](https://img.shields.io/github/stars/VinceDeslo/vulny.nvim) ![](https://img.shields.io/github/last-commit/VinceDeslo/vulny.nvim) ![](https://img.shields.io/github/commit-activity/y/VinceDeslo/vulny.nvim)
 
 #### Croc
 

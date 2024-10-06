@@ -298,6 +298,7 @@
 - [jakeru/columnize.nvim](https://github.com/jakeru/columnize.nvim) ![](https://img.shields.io/github/stars/jakeru/columnize.nvim) ![](https://img.shields.io/github/last-commit/jakeru/columnize.nvim) ![](https://img.shields.io/github/commit-activity/y/jakeru/columnize.nvim)
 - [chuck-flowers/align-selection.nvim](https://github.com/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/align-selection.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/align-selection.nvim)
 - [haolian9/furrow.nvim](https://github.com/haolian9/furrow.nvim) ![](https://img.shields.io/github/stars/haolian9/furrow.nvim) ![](https://img.shields.io/github/last-commit/haolian9/furrow.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/furrow.nvim)
+- [CoffeeCoder1/virtual-align.nvim](https://github.com/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/stars/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/last-commit/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/commit-activity/y/CoffeeCoder1/virtual-align.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 
@@ -527,6 +528,7 @@
 ### RSS
 
 - [pawemix/decscribe.nvim](https://github.com/pawemix/decscribe.nvim) ![](https://img.shields.io/github/stars/pawemix/decscribe.nvim) ![](https://img.shields.io/github/last-commit/pawemix/decscribe.nvim) ![](https://img.shields.io/github/commit-activity/y/pawemix/decscribe.nvim)
+- [neo451/feed.nvim](https://github.com/neo451/feed.nvim) ![](https://img.shields.io/github/stars/neo451/feed.nvim) ![](https://img.shields.io/github/last-commit/neo451/feed.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/feed.nvim)
 
 #### Code::Stats
 

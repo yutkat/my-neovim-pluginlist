@@ -117,6 +117,7 @@
 - [candango/chase.nvim](https://github.com/candango/chase.nvim) ![](https://img.shields.io/github/stars/candango/chase.nvim) ![](https://img.shields.io/github/last-commit/candango/chase.nvim) ![](https://img.shields.io/github/commit-activity/y/candango/chase.nvim)
 - [jglasovic/venv-lsp.nvim](https://github.com/jglasovic/venv-lsp.nvim) ![](https://img.shields.io/github/stars/jglasovic/venv-lsp.nvim) ![](https://img.shields.io/github/last-commit/jglasovic/venv-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/jglasovic/venv-lsp.nvim)
 - [musaubrian/pye.nvim](https://github.com/musaubrian/pye.nvim) ![](https://img.shields.io/github/stars/musaubrian/pye.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/pye.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/pye.nvim)
+- [aanatoly/venv.nvim](https://github.com/aanatoly/venv.nvim) ![](https://img.shields.io/github/stars/aanatoly/venv.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/venv.nvim)
 
 #### Jupyter
 
