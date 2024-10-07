@@ -4,6 +4,7 @@
 
 - [Yank](#yank)
   * [yank highlight](#yank-highlight)
+  * [Copy with line info](#copy-with-line-info)
   * [remove indent](#remove-indent)
   * [URL](#url)
   * [Register Selector](#register-selector)
@@ -42,6 +43,10 @@
 ### yank highlight
 
 - [DeamonDev/yank-highlighter.nvim](https://github.com/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/stars/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/last-commit/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/DeamonDev/yank-highlighter.nvim)
+
+### Copy with line info
+
+- [h-cow/nvim-cow-copy-lines](https://github.com/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/stars/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/last-commit/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-cow-copy-lines)
 
 ### remove indent
 

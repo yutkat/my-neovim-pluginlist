@@ -64,6 +64,7 @@
     + [Orca](#orca)
     + [Boxlang](#boxlang)
     + [CFML](#cfml)
+    + [Zed](#zed)
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Aeria](#aeria)
@@ -373,6 +374,10 @@
 ### CFML
 
 - [HannaEckert/cfmlsp.nvim](https://github.com/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/stars/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/last-commit/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HannaEckert/cfmlsp.nvim)
+
+### Zed
+
+- [hens0n/runzq.nvim](https://github.com/hens0n/runzq.nvim) ![](https://img.shields.io/github/stars/hens0n/runzq.nvim) ![](https://img.shields.io/github/last-commit/hens0n/runzq.nvim) ![](https://img.shields.io/github/commit-activity/y/hens0n/runzq.nvim)
 
 ### sylt
 

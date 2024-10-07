@@ -32,6 +32,7 @@
 - [brianaung/autocompl.nvim](https://github.com/brianaung/autocompl.nvim) ![](https://img.shields.io/github/stars/brianaung/autocompl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/autocompl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/autocompl.nvim)
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) ![](https://img.shields.io/github/stars/max397574/care.nvim) ![](https://img.shields.io/github/last-commit/max397574/care.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/care.nvim)
 - [vx-clutch/comppls.nvim](https://github.com/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/stars/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/last-commit/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/commit-activity/y/vx-clutch/comppls.nvim)
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) ![](https://img.shields.io/github/stars/Saghen/blink.cmp) ![](https://img.shields.io/github/last-commit/Saghen/blink.cmp) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.cmp)
 
 #### Made in Python
 
