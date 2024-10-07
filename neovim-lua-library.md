@@ -162,6 +162,7 @@
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) ![](https://img.shields.io/github/stars/nvim-lua/popup.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/popup.nvim)
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
 - [javio7/nvim-popcorn](https://github.com/javio7/nvim-popcorn) ![](https://img.shields.io/github/stars/javio7/nvim-popcorn) ![](https://img.shields.io/github/last-commit/javio7/nvim-popcorn) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-popcorn)
+- [divagueame/lacasitos.nvim](https://github.com/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/stars/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/last-commit/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/commit-activity/y/divagueame/lacasitos.nvim)
 
 ### Animation
 
