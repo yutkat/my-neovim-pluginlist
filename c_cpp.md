@@ -21,6 +21,7 @@
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
   * [Doxygen](#doxygen)
+  * [Valgrind](#valgrind)
   * [OpenMP](#openmp)
   * [Header](#header)
     + [include](#include)
@@ -137,6 +138,10 @@
 ### Doxygen
 
 - [jla2000/lazydocs.nvim](https://github.com/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/stars/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/jla2000/lazydocs.nvim)
+
+### Valgrind
+
+- [dlyongemallo/valgrind.nvim](https://github.com/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/valgrind.nvim)
 
 ### OpenMP
 

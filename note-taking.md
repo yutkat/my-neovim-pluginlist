@@ -58,6 +58,7 @@
 - [n-sweep/slipbox.nvim](https://github.com/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/stars/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/last-commit/n-sweep/slipbox.nvim) ![](https://img.shields.io/github/commit-activity/y/n-sweep/slipbox.nvim)
 - [grezxune/zettel.nvim](https://github.com/grezxune/zettel.nvim) ![](https://img.shields.io/github/stars/grezxune/zettel.nvim) ![](https://img.shields.io/github/last-commit/grezxune/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/grezxune/zettel.nvim)
 - [HaradaKazunari/nvim-zettelnote](https://github.com/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/stars/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/last-commit/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/commit-activity/y/HaradaKazunari/nvim-zettelnote)
+- [FrederikRichter/texkasten.nvim](https://github.com/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/stars/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/last-commit/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/FrederikRichter/texkasten.nvim)
 
 ## Markdown
 
