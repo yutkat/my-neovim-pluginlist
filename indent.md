@@ -5,6 +5,7 @@
 - [Indent](#indent)
   * [Indent Size](#indent-size)
   * [Indent Shift](#indent-shift)
+  * [indentkeys](#indentkeys)
   * [Indent Guide](#indent-guide)
 
 <!-- tocstop -->
@@ -30,6 +31,10 @@
 - [joshuanr5/indentation-multiline.nvim](https://github.com/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/stars/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/last-commit/joshuanr5/indentation-multiline.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuanr5/indentation-multiline.nvim)
 - [natw/nvim-indentnav](https://github.com/natw/nvim-indentnav) ![](https://img.shields.io/github/stars/natw/nvim-indentnav) ![](https://img.shields.io/github/last-commit/natw/nvim-indentnav) ![](https://img.shields.io/github/commit-activity/y/natw/nvim-indentnav)
 
+### indentkeys
+
+- [yioneko/nvim-dinkeys](https://github.com/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/stars/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/last-commit/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-dinkeys)
+
 ### Indent Guide
 
 - [lukas-reineke/indent-blankline.nvim](https://github.com/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/stars/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/last-commit/lukas-reineke/indent-blankline.nvim) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/indent-blankline.nvim)
@@ -42,3 +47,4 @@
 - [asters1/hlchunk.nvim](https://github.com/asters1/hlchunk.nvim) ![](https://img.shields.io/github/stars/asters1/hlchunk.nvim) ![](https://img.shields.io/github/last-commit/asters1/hlchunk.nvim) ![](https://img.shields.io/github/commit-activity/y/asters1/hlchunk.nvim)
 - [briangwaltney/paren-hint.nvim](https://github.com/briangwaltney/paren-hint.nvim) ![](https://img.shields.io/github/stars/briangwaltney/paren-hint.nvim) ![](https://img.shields.io/github/last-commit/briangwaltney/paren-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/briangwaltney/paren-hint.nvim)
 - [Mr-LLLLL/cool-chunk.nvim](https://github.com/Mr-LLLLL/cool-chunk.nvim) ![](https://img.shields.io/github/stars/Mr-LLLLL/cool-chunk.nvim) ![](https://img.shields.io/github/last-commit/Mr-LLLLL/cool-chunk.nvim) ![](https://img.shields.io/github/commit-activity/y/Mr-LLLLL/cool-chunk.nvim)
+- [yioneko/indentlines-decorator](https://github.com/yioneko/indentlines-decorator) ![](https://img.shields.io/github/stars/yioneko/indentlines-decorator) ![](https://img.shields.io/github/last-commit/yioneko/indentlines-decorator) ![](https://img.shields.io/github/commit-activity/y/yioneko/indentlines-decorator)
