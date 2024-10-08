@@ -5,6 +5,7 @@
 - [Mark](#mark)
   * [sign](#sign)
   * [mark note](#mark-note)
+  * [hashtag](#hashtag)
     + [git sign](#git-sign)
   * [Auto Mark](#auto-mark)
   * [Jump](#jump)
@@ -36,6 +37,10 @@
 ### mark note
 
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
+
+### hashtag
+
+- [daic0r/hashtags.nvim](https://github.com/daic0r/hashtags.nvim) ![](https://img.shields.io/github/stars/daic0r/hashtags.nvim) ![](https://img.shields.io/github/last-commit/daic0r/hashtags.nvim) ![](https://img.shields.io/github/commit-activity/y/daic0r/hashtags.nvim)
 
 #### git sign
 
