@@ -224,6 +224,7 @@
 - [Snikimonkd/telescope-git-conflicts.nvim](https://github.com/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/stars/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/Snikimonkd/telescope-git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/Snikimonkd/telescope-git-conflicts.nvim)
 - [pv-hernandez/conflict-juggler.nvim](https://github.com/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/stars/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/last-commit/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/pv-hernandez/conflict-juggler.nvim)
 - [youguanxinqing/git-conflicts.nvim](https://github.com/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/git-conflicts.nvim)
+- [Tronikelis/conflict-marker.nvim](https://github.com/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/stars/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/conflict-marker.nvim)
 
 ## git pull
 
@@ -393,6 +394,7 @@
 - [trevorhauter/gitportal.nvim](https://github.com/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/stars/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/last-commit/trevorhauter/gitportal.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorhauter/gitportal.nvim)
 - [hzieba/git-remote.nvim](https://github.com/hzieba/git-remote.nvim) ![](https://img.shields.io/github/stars/hzieba/git-remote.nvim) ![](https://img.shields.io/github/last-commit/hzieba/git-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/hzieba/git-remote.nvim)
 - [akonkol/gitweb.nvim](https://github.com/akonkol/gitweb.nvim) ![](https://img.shields.io/github/stars/akonkol/gitweb.nvim) ![](https://img.shields.io/github/last-commit/akonkol/gitweb.nvim) ![](https://img.shields.io/github/commit-activity/y/akonkol/gitweb.nvim)
+- [lvsz/open-origin.nvim](https://github.com/lvsz/open-origin.nvim) ![](https://img.shields.io/github/stars/lvsz/open-origin.nvim) ![](https://img.shields.io/github/last-commit/lvsz/open-origin.nvim) ![](https://img.shields.io/github/commit-activity/y/lvsz/open-origin.nvim)
 
 ## Image
 
