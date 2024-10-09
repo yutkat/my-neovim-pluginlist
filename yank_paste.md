@@ -47,6 +47,7 @@
 ### Copy with line info
 
 - [h-cow/nvim-cow-copy-lines](https://github.com/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/stars/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/last-commit/h-cow/nvim-cow-copy-lines) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-cow-copy-lines)
+- [xpcoffee/nvim-copy-code-link](https://github.com/xpcoffee/nvim-copy-code-link) ![](https://img.shields.io/github/stars/xpcoffee/nvim-copy-code-link) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-copy-code-link) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-copy-code-link)
 
 ### remove indent
 
