@@ -50,6 +50,7 @@
   * [Bun](#bun)
   * [Bootstrap](#bootstrap)
   * [mjml](#mjml)
+  * [Hygen](#hygen)
 
 <!-- tocstop -->
 
@@ -314,3 +315,6 @@
 
 ### mjml
 
+### Hygen
+
+- [Hdoc1509/hygen.nvim](https://github.com/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/hygen.nvim)
