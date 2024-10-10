@@ -65,6 +65,7 @@
     + [Boxlang](#boxlang)
     + [CFML](#cfml)
     + [Zed](#zed)
+    + [Lean](#lean)
     + [sylt](#sylt)
     + [Cyber](#cyber)
     + [Aeria](#aeria)
@@ -137,6 +138,7 @@
 ### Kotlin
 
 - [Mgenuit/nvim-dap-kotlin](https://github.com/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/stars/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/last-commit/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/commit-activity/y/Mgenuit/nvim-dap-kotlin)
+- [franckrasolo/luasnip4k.nvim](https://github.com/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/stars/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/last-commit/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/commit-activity/y/franckrasolo/luasnip4k.nvim)
 
 ### Swift
 
@@ -378,6 +380,10 @@
 ### Zed
 
 - [hens0n/runzq.nvim](https://github.com/hens0n/runzq.nvim) ![](https://img.shields.io/github/stars/hens0n/runzq.nvim) ![](https://img.shields.io/github/last-commit/hens0n/runzq.nvim) ![](https://img.shields.io/github/commit-activity/y/hens0n/runzq.nvim)
+
+### Lean
+
+- [will-lynas/lean-snippets.nvim](https://github.com/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/stars/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/last-commit/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/will-lynas/lean-snippets.nvim)
 
 ### sylt
 

@@ -10,6 +10,7 @@
 - [Coroutine](#coroutine)
 - [Reactive](#reactive)
 - [String](#string)
+- [List](#list)
 - [File](#file)
   * [Path](#path)
 - [Exec](#exec)
@@ -103,6 +104,10 @@
 
 - [jsMRSoL/txtin.nvim](https://github.com/jsMRSoL/txtin.nvim) ![](https://img.shields.io/github/stars/jsMRSoL/txtin.nvim) ![](https://img.shields.io/github/last-commit/jsMRSoL/txtin.nvim) ![](https://img.shields.io/github/commit-activity/y/jsMRSoL/txtin.nvim)
 
+## List
+
+- [al1-ce/jsfunc.nvim](https://github.com/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/stars/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/jsfunc.nvim)
+
 ## File
 
 - [nvim-lua/plenary.nvim(file)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
@@ -157,6 +162,7 @@
 - [liangxianzhe/floating-input.nvim](https://github.com/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/stars/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/last-commit/liangxianzhe/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/liangxianzhe/floating-input.nvim)
 - [Axlefublr/selabel.nvim](https://github.com/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/stars/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/selabel.nvim)
 - [Axlefublr/dress.nvim](https://github.com/Axlefublr/dress.nvim) ![](https://img.shields.io/github/stars/Axlefublr/dress.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/dress.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/dress.nvim)
+- [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/stars/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/toolbox.nvim)
 
 ### Popup
 
