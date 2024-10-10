@@ -31,6 +31,7 @@
 - [tiyn/tccs.nvim](https://github.com/tiyn/tccs.nvim) ![](https://img.shields.io/github/stars/tiyn/tccs.nvim) ![](https://img.shields.io/github/last-commit/tiyn/tccs.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/tccs.nvim)
 - [parmeniong/neocolumn.nvim](https://github.com/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/stars/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/last-commit/parmeniong/neocolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/parmeniong/neocolumn.nvim)
 - [adewitt76/color-columns.nvim](https://github.com/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/stars/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/last-commit/adewitt76/color-columns.nvim) ![](https://img.shields.io/github/commit-activity/y/adewitt76/color-columns.nvim)
+- [matthewtolman/column-width.nvim](https://github.com/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/stars/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/last-commit/matthewtolman/column-width.nvim) ![](https://img.shields.io/github/commit-activity/y/matthewtolman/column-width.nvim)
 
 ### limit column
 
