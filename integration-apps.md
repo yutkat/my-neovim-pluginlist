@@ -84,6 +84,7 @@
 - [wallpants/napoleon.nvim](https://github.com/wallpants/napoleon.nvim) ![](https://img.shields.io/github/stars/wallpants/napoleon.nvim) ![](https://img.shields.io/github/last-commit/wallpants/napoleon.nvim) ![](https://img.shields.io/github/commit-activity/y/wallpants/napoleon.nvim)
 - [ridulfo/browse.nvim](https://github.com/ridulfo/browse.nvim) ![](https://img.shields.io/github/stars/ridulfo/browse.nvim) ![](https://img.shields.io/github/last-commit/ridulfo/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/ridulfo/browse.nvim)
 - [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/wit.nvim)
+- [neovim-plugin/browse.nvim](https://github.com/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/browse.nvim)
 
 #### url open
 

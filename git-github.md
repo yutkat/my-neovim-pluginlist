@@ -346,6 +346,7 @@
 - [josephwoodward/github-pr.nvim](https://github.com/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-pr.nvim)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
 - [kamrul1157024/nvim-pr](https://github.com/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/stars/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/last-commit/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/commit-activity/y/kamrul1157024/nvim-pr)
+- [ryanvu/mai_pr.nvim](https://github.com/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/stars/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/last-commit/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanvu/mai_pr.nvim)
 
 ## Actions
 
