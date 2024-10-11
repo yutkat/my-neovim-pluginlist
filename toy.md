@@ -26,6 +26,8 @@
       - [Ninjas Facts](#ninjas-facts)
   * [Study](#study)
   * [Speech](#speech)
+  * [Sports](#sports)
+    + [NHL](#nhl)
 
 <!-- tocstop -->
 
@@ -170,4 +172,10 @@
 ## Speech
 
 - [sevi-kun/narrator.nvim](https://github.com/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/stars/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/last-commit/sevi-kun/narrator.nvim) ![](https://img.shields.io/github/commit-activity/y/sevi-kun/narrator.nvim)
+
+## Sports
+
+### NHL
+
+- [mgrin212/nhl.nvim](https://github.com/mgrin212/nhl.nvim) ![](https://img.shields.io/github/stars/mgrin212/nhl.nvim) ![](https://img.shields.io/github/last-commit/mgrin212/nhl.nvim) ![](https://img.shields.io/github/commit-activity/y/mgrin212/nhl.nvim)
 

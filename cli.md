@@ -253,6 +253,7 @@
 - [oysandvik94/curl.nvim](https://github.com/oysandvik94/curl.nvim) ![](https://img.shields.io/github/stars/oysandvik94/curl.nvim) ![](https://img.shields.io/github/last-commit/oysandvik94/curl.nvim) ![](https://img.shields.io/github/commit-activity/y/oysandvik94/curl.nvim)
 - [io26/http.nvim](https://github.com/io26/http.nvim) ![](https://img.shields.io/github/stars/io26/http.nvim) ![](https://img.shields.io/github/last-commit/io26/http.nvim) ![](https://img.shields.io/github/commit-activity/y/io26/http.nvim)
 - [nabekou29/open-by-http.nvim](https://github.com/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/stars/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/open-by-http.nvim)
+- [gera2ld/remotely.nvim](https://github.com/gera2ld/remotely.nvim) ![](https://img.shields.io/github/stars/gera2ld/remotely.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/remotely.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/remotely.nvim)
 
 #### bruno
 
