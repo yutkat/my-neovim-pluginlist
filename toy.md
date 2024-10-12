@@ -79,6 +79,7 @@
 - [marco-souza/snake.nvim](https://github.com/marco-souza/snake.nvim) ![](https://img.shields.io/github/stars/marco-souza/snake.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/snake.nvim)
 - [rktjmp/playtime.nvim](https://github.com/rktjmp/playtime.nvim) ![](https://img.shields.io/github/stars/rktjmp/playtime.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/playtime.nvim)
 - [FireIsGood/pond.nvim](https://github.com/FireIsGood/pond.nvim) ![](https://img.shields.io/github/stars/FireIsGood/pond.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/pond.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/pond.nvim)
+- [ikouchiha47/games.nvim](https://github.com/ikouchiha47/games.nvim) ![](https://img.shields.io/github/stars/ikouchiha47/games.nvim) ![](https://img.shields.io/github/last-commit/ikouchiha47/games.nvim) ![](https://img.shields.io/github/commit-activity/y/ikouchiha47/games.nvim)
 
 ### Tetris
 
