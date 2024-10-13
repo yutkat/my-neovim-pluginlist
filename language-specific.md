@@ -230,6 +230,7 @@
 - [Halbaroth/ocp-indent.nvim](https://github.com/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/stars/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/last-commit/Halbaroth/ocp-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/Halbaroth/ocp-indent.nvim)
 - [theoboldalex/typelens.nvim](https://github.com/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/stars/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/last-commit/theoboldalex/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/theoboldalex/typelens.nvim)
 - [ocaml-mlx/ocaml_mlx.nvim](https://github.com/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/stars/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/last-commit/ocaml-mlx/ocaml_mlx.nvim) ![](https://img.shields.io/github/commit-activity/y/ocaml-mlx/ocaml_mlx.nvim)
+- [Syudagye/utop.nvim](https://github.com/Syudagye/utop.nvim) ![](https://img.shields.io/github/stars/Syudagye/utop.nvim) ![](https://img.shields.io/github/last-commit/Syudagye/utop.nvim) ![](https://img.shields.io/github/commit-activity/y/Syudagye/utop.nvim)
 
 #### LCaml
 

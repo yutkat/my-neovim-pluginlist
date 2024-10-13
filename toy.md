@@ -7,6 +7,7 @@
     + [Hacker typer](#hacker-typer)
   * [Pet](#pet)
   * [Image](#image)
+  * [Book](#book)
   * [Video](#video)
   * [Game](#game)
     + [Tetris](#tetris)
@@ -56,12 +57,17 @@
 
 - [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
 
+## Book
+
+- [thjbdvlt/retrolire.nvim](https://github.com/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/retrolire.nvim)
+
 ## Video
 
 - [Hanaasagi/anime.nvim](https://github.com/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/stars/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/last-commit/Hanaasagi/anime.nvim) ![](https://img.shields.io/github/commit-activity/y/Hanaasagi/anime.nvim)
 - [njegg/dvd.nvim](https://github.com/njegg/dvd.nvim) ![](https://img.shields.io/github/stars/njegg/dvd.nvim) ![](https://img.shields.io/github/last-commit/njegg/dvd.nvim) ![](https://img.shields.io/github/commit-activity/y/njegg/dvd.nvim)
 - [nvimdev/3danimation.nvim](https://github.com/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/stars/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/3danimation.nvim)
 - [rawrrawrpurpledinosaur/brainrot.nvim](https://github.com/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/stars/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/last-commit/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/rawrrawrpurpledinosaur/brainrot.nvim)
+- [The-Silent-One/mpv.nvim](https://github.com/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/mpv.nvim)
 
 ## Game
 
