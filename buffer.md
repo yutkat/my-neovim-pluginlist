@@ -60,6 +60,7 @@
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) ![](https://img.shields.io/github/stars/leath-dub/snipe.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/snipe.nvim)
 - [kutiny/buff.nvim](https://github.com/kutiny/buff.nvim) ![](https://img.shields.io/github/stars/kutiny/buff.nvim) ![](https://img.shields.io/github/last-commit/kutiny/buff.nvim) ![](https://img.shields.io/github/commit-activity/y/kutiny/buff.nvim)
 - [johanneswolfgruber/switcher.nvim](https://github.com/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/stars/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/last-commit/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/johanneswolfgruber/switcher.nvim)
+- [flavray/bufferlist.nvim](https://github.com/flavray/bufferlist.nvim) ![](https://img.shields.io/github/stars/flavray/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/flavray/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/flavray/bufferlist.nvim)
 
 ### Other Buffer Switcher
 
