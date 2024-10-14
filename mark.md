@@ -82,6 +82,7 @@
 - [comfysage/shelf.nvim](https://github.com/comfysage/shelf.nvim) ![](https://img.shields.io/github/stars/comfysage/shelf.nvim) ![](https://img.shields.io/github/last-commit/comfysage/shelf.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/shelf.nvim)
 - [tristone13th/smark.nvim](https://github.com/tristone13th/smark.nvim) ![](https://img.shields.io/github/stars/tristone13th/smark.nvim) ![](https://img.shields.io/github/last-commit/tristone13th/smark.nvim) ![](https://img.shields.io/github/commit-activity/y/tristone13th/smark.nvim)
 - [tristone13th/lspmark.nvim](https://github.com/tristone13th/lspmark.nvim) ![](https://img.shields.io/github/stars/tristone13th/lspmark.nvim) ![](https://img.shields.io/github/last-commit/tristone13th/lspmark.nvim) ![](https://img.shields.io/github/commit-activity/y/tristone13th/lspmark.nvim)
+- [jackMort/tide.nvim](https://github.com/jackMort/tide.nvim) ![](https://img.shields.io/github/stars/jackMort/tide.nvim) ![](https://img.shields.io/github/last-commit/jackMort/tide.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/tide.nvim)
 
 ### etc
 

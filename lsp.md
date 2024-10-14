@@ -280,6 +280,7 @@
 - [neph-iap/forge.nvim](https://github.com/neph-iap/forge.nvim) ![](https://img.shields.io/github/stars/neph-iap/forge.nvim) ![](https://img.shields.io/github/last-commit/neph-iap/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/neph-iap/forge.nvim)
 - [WieeRd/auto-lsp.nvim](https://github.com/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/stars/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/last-commit/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/WieeRd/auto-lsp.nvim)
 - [nikitarevenco/instant-lsp.nvim](https://github.com/nikitarevenco/instant-lsp.nvim) ![](https://img.shields.io/github/stars/nikitarevenco/instant-lsp.nvim) ![](https://img.shields.io/github/last-commit/nikitarevenco/instant-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/nikitarevenco/instant-lsp.nvim)
+- [mmohaveri/EZ-LSP.nvim](https://github.com/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/stars/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/last-commit/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/commit-activity/y/mmohaveri/EZ-LSP.nvim)
 
 ## Backwards Compatibility
 

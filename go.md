@@ -5,6 +5,7 @@
 - [Go](#go)
   * [gofmt](#gofmt)
   * [go list](#go-list)
+  * [debug](#debug)
   * [Test](#test)
     + [Test file](#test-file)
   * [packages](#packages)
@@ -50,6 +51,10 @@
 ### go list
 
 - [lukasl-dev/go-list.nvim](https://github.com/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/stars/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/last-commit/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasl-dev/go-list.nvim)
+
+### debug
+
+- [goropikari/nvim-dap-golang](https://github.com/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-golang)
 
 ### Test
 
