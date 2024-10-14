@@ -80,6 +80,7 @@
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
+    + [Solidity](#solidity)
     + [Koan](#koan)
     + [Prolog](#prolog)
     + [Beancount](#beancount)
@@ -441,6 +442,10 @@
 ### Eno
 
 - [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
+
+### Solidity
+
+- [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
 
 ### Koan
 

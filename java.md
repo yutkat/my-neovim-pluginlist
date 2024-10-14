@@ -55,6 +55,7 @@
 ### Gradle
 
 - [sledigabel/gradle.nvim](https://github.com/sledigabel/gradle.nvim) ![](https://img.shields.io/github/stars/sledigabel/gradle.nvim) ![](https://img.shields.io/github/last-commit/sledigabel/gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/sledigabel/gradle.nvim)
+- [iomallach/telescope-gradle.nvim](https://github.com/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/stars/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/last-commit/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/iomallach/telescope-gradle.nvim)
 
 ### Spring Boot
 

@@ -59,6 +59,7 @@
 - [grezxune/zettel.nvim](https://github.com/grezxune/zettel.nvim) ![](https://img.shields.io/github/stars/grezxune/zettel.nvim) ![](https://img.shields.io/github/last-commit/grezxune/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/grezxune/zettel.nvim)
 - [HaradaKazunari/nvim-zettelnote](https://github.com/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/stars/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/last-commit/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/commit-activity/y/HaradaKazunari/nvim-zettelnote)
 - [FrederikRichter/texkasten.nvim](https://github.com/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/stars/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/last-commit/FrederikRichter/texkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/FrederikRichter/texkasten.nvim)
+- [lentilus/xk.nvim](https://github.com/lentilus/xk.nvim) ![](https://img.shields.io/github/stars/lentilus/xk.nvim) ![](https://img.shields.io/github/last-commit/lentilus/xk.nvim) ![](https://img.shields.io/github/commit-activity/y/lentilus/xk.nvim)
 
 ## Markdown
 
@@ -118,6 +119,7 @@
 - [tadashi-aikawa/ghostwriter.nvim](https://github.com/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/ghostwriter.nvim)
 - [crimsoncrayfish/todo.nvim](https://github.com/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/stars/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/last-commit/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/crimsoncrayfish/todo.nvim)
 - [negativeOne1/noto.nvim](https://github.com/negativeOne1/noto.nvim) ![](https://img.shields.io/github/stars/negativeOne1/noto.nvim) ![](https://img.shields.io/github/last-commit/negativeOne1/noto.nvim) ![](https://img.shields.io/github/commit-activity/y/negativeOne1/noto.nvim)
+- [tbm5k/todo.nvim](https://github.com/tbm5k/todo.nvim) ![](https://img.shields.io/github/stars/tbm5k/todo.nvim) ![](https://img.shields.io/github/last-commit/tbm5k/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/tbm5k/todo.nvim)
 
 ### Taskwarrior
 

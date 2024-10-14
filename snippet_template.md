@@ -33,6 +33,7 @@
 - [aattoa/nvim-simple-snippets](https://github.com/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/stars/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/last-commit/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-simple-snippets)
 - [pik4li/telesnip.nvim](https://github.com/pik4li/telesnip.nvim) ![](https://img.shields.io/github/stars/pik4li/telesnip.nvim) ![](https://img.shields.io/github/last-commit/pik4li/telesnip.nvim) ![](https://img.shields.io/github/commit-activity/y/pik4li/telesnip.nvim)
 - [pianoboy71/nvim-snippets](https://github.com/pianoboy71/nvim-snippets) ![](https://img.shields.io/github/stars/pianoboy71/nvim-snippets) ![](https://img.shields.io/github/last-commit/pianoboy71/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/pianoboy71/nvim-snippets)
+- [ndelucca/chunks.nvim](https://github.com/ndelucca/chunks.nvim) ![](https://img.shields.io/github/stars/ndelucca/chunks.nvim) ![](https://img.shields.io/github/last-commit/ndelucca/chunks.nvim) ![](https://img.shields.io/github/commit-activity/y/ndelucca/chunks.nvim)
 
 #### Snippet definitions
 
