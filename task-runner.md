@@ -150,6 +150,7 @@
 - [marzeq/command-runner.nvim](https://github.com/marzeq/command-runner.nvim) ![](https://img.shields.io/github/stars/marzeq/command-runner.nvim) ![](https://img.shields.io/github/last-commit/marzeq/command-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/command-runner.nvim)
 - [lbzfran/compile-mode.nvim](https://github.com/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/stars/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/lbzfran/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/lbzfran/compile-mode.nvim)
 - [ideless/run_command.nvim](https://github.com/ideless/run_command.nvim) ![](https://img.shields.io/github/stars/ideless/run_command.nvim) ![](https://img.shields.io/github/last-commit/ideless/run_command.nvim) ![](https://img.shields.io/github/commit-activity/y/ideless/run_command.nvim)
+- [immanelg/simple-compilation-mode.nvim](https://github.com/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/stars/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/immanelg/simple-compilation-mode.nvim)
 
 ## Auto detect style
 
