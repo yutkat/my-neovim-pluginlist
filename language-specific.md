@@ -80,6 +80,7 @@
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
+    + [Gren](#gren)
     + [Solidity](#solidity)
     + [Koan](#koan)
     + [Prolog](#prolog)
@@ -442,6 +443,10 @@
 ### Eno
 
 - [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
+
+### Gren
+
+- [MaeBrooks/nvim-gren](https://github.com/MaeBrooks/nvim-gren) ![](https://img.shields.io/github/stars/MaeBrooks/nvim-gren) ![](https://img.shields.io/github/last-commit/MaeBrooks/nvim-gren) ![](https://img.shields.io/github/commit-activity/y/MaeBrooks/nvim-gren)
 
 ### Solidity
 

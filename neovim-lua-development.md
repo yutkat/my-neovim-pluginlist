@@ -108,6 +108,7 @@
 - [3rd/testing.nvim](https://github.com/3rd/testing.nvim) ![](https://img.shields.io/github/stars/3rd/testing.nvim) ![](https://img.shields.io/github/last-commit/3rd/testing.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/testing.nvim)
 - [notomo/requireall.nvim](https://github.com/notomo/requireall.nvim) ![](https://img.shields.io/github/stars/notomo/requireall.nvim) ![](https://img.shields.io/github/last-commit/notomo/requireall.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/requireall.nvim)
 - [HiPhish/nvim-busted-shims](https://github.com/HiPhish/nvim-busted-shims) ![](https://img.shields.io/github/stars/HiPhish/nvim-busted-shims) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-busted-shims) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-busted-shims)
+- [Jafagervik/Testy.nvim](https://github.com/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/stars/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/last-commit/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/commit-activity/y/Jafagervik/Testy.nvim)
 
 ## Help
 
