@@ -87,6 +87,7 @@
 - [cgimenes/tmux-files.nvim](https://github.com/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/stars/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/last-commit/cgimenes/tmux-files.nvim) ![](https://img.shields.io/github/commit-activity/y/cgimenes/tmux-files.nvim)
 - [burntfalafel/signaltmux.nvim](https://github.com/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/stars/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/last-commit/burntfalafel/signaltmux.nvim) ![](https://img.shields.io/github/commit-activity/y/burntfalafel/signaltmux.nvim)
 - [slimeless/sessionizer.nvim](https://github.com/slimeless/sessionizer.nvim) ![](https://img.shields.io/github/stars/slimeless/sessionizer.nvim) ![](https://img.shields.io/github/last-commit/slimeless/sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/slimeless/sessionizer.nvim)
+- [cenk1cenk2/tmux-toggle-popup.nvim](https://github.com/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/tmux-toggle-popup.nvim)
 
 ##### tmux alternative
 

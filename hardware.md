@@ -21,6 +21,7 @@
     + [Arduino](#arduino)
     + [FlipperZero](#flipperzero)
     + [WPILib](#wpilib)
+    + [Analyzer4D](#analyzer4d)
 
 <!-- tocstop -->
 
@@ -108,3 +109,7 @@
 #### WPILib
 
 - [spacey-sooty/wpilib.nvim](https://github.com/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/stars/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/last-commit/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/spacey-sooty/wpilib.nvim)
+
+#### Analyzer4D
+
+- [ossmos/analyzer4d.nvim](https://github.com/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/stars/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/last-commit/ossmos/analyzer4d.nvim) ![](https://img.shields.io/github/commit-activity/y/ossmos/analyzer4d.nvim)
