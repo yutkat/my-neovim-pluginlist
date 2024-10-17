@@ -17,6 +17,7 @@
   * [broot](#broot)
   * [Create directory](#create-directory)
   * [Tree View](#tree-view)
+  * [File rename](#file-rename)
 
 <!-- tocstop -->
 
@@ -149,8 +150,10 @@
 
 - [aikooo7/funnyfiles.nvim](https://github.com/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/stars/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/last-commit/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/aikooo7/funnyfiles.nvim)
 
-
 ## Tree View
 
 - [amlanjlahkar/splitree.nvim](https://github.com/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/splitree.nvim)
 
+## File rename
+
+- [JulienZD/file-case-gen.nvim](https://github.com/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/stars/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/last-commit/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienZD/file-case-gen.nvim)

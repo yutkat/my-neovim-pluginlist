@@ -31,6 +31,7 @@
 ### Debug
 
 - [kaka-ruto/nvim-ruby-debugger](https://github.com/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/stars/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/last-commit/kaka-ruto/nvim-ruby-debugger) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/nvim-ruby-debugger)
+- [n1xn/nvim-dap-ruby](https://github.com/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/stars/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/last-commit/n1xn/nvim-dap-ruby) ![](https://img.shields.io/github/commit-activity/y/n1xn/nvim-dap-ruby)
 
 ### Gem
 

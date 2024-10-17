@@ -66,6 +66,7 @@
 - [monteiroliveira/cocoon.nvim](https://github.com/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/stars/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/last-commit/monteiroliveira/cocoon.nvim) ![](https://img.shields.io/github/commit-activity/y/monteiroliveira/cocoon.nvim)
 - [fmc-sh/nvim-permtermbuf](https://github.com/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/stars/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/last-commit/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/commit-activity/y/fmc-sh/nvim-permtermbuf)
 - [Dan7h3x/neaterm.nvim](https://github.com/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/neaterm.nvim)
+- [EmilOhlsson/FloatTerm.nvim](https://github.com/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/FloatTerm.nvim)
 
 ### Open
 
