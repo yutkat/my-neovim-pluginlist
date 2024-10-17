@@ -259,6 +259,7 @@
 #### Ansible
 
 - [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/stars/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-ansible)
+- [HiPhish/ansible-doc.nvim](https://github.com/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/stars/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/ansible-doc.nvim)
 
 #### Kustomize
 

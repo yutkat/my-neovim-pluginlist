@@ -122,6 +122,7 @@
 - [Diogo364/colorscheme-manager.nvim](https://github.com/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/stars/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/last-commit/Diogo364/colorscheme-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo364/colorscheme-manager.nvim)
 - [Styzex/RandTheme.nvim](https://github.com/Styzex/RandTheme.nvim) ![](https://img.shields.io/github/stars/Styzex/RandTheme.nvim) ![](https://img.shields.io/github/last-commit/Styzex/RandTheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Styzex/RandTheme.nvim)
 - [panghu-huang/theme-picker.nvim](https://github.com/panghu-huang/theme-picker.nvim) ![](https://img.shields.io/github/stars/panghu-huang/theme-picker.nvim) ![](https://img.shields.io/github/last-commit/panghu-huang/theme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/panghu-huang/theme-picker.nvim)
+- [jdtron/randomcs.nvim](https://github.com/jdtron/randomcs.nvim) ![](https://img.shields.io/github/stars/jdtron/randomcs.nvim) ![](https://img.shields.io/github/last-commit/jdtron/randomcs.nvim) ![](https://img.shields.io/github/commit-activity/y/jdtron/randomcs.nvim)
 
 ### Colorscheme overwrite
 
