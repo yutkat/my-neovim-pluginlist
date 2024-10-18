@@ -35,3 +35,4 @@
 
 ### Privacy
 
+- [skeletony007/private-mode.nvim](https://github.com/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/stars/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/private-mode.nvim)

@@ -32,6 +32,7 @@
     + [Julia](#julia)
     + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
+      - [ShellCheck](#shellcheck)
     + [fish](#fish)
     + [Nushell](#nushell)
     + [PowerShell](#powershell)
@@ -254,6 +255,10 @@
 
 - [Susensio/magic-bang.nvim](https://github.com/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/stars/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/last-commit/Susensio/magic-bang.nvim) ![](https://img.shields.io/github/commit-activity/y/Susensio/magic-bang.nvim)
 - [elentok/scriptify.nvim](https://github.com/elentok/scriptify.nvim) ![](https://img.shields.io/github/stars/elentok/scriptify.nvim) ![](https://img.shields.io/github/last-commit/elentok/scriptify.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/scriptify.nvim)
+
+#### ShellCheck
+
+- [pablos123/shellcheck.nvim](https://github.com/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/stars/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/last-commit/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/pablos123/shellcheck.nvim)
 
 ### fish
 
