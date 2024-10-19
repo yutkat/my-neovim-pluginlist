@@ -68,6 +68,7 @@
 - [Axlefublr/edister.nvim](https://github.com/Axlefublr/edister.nvim) ![](https://img.shields.io/github/stars/Axlefublr/edister.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/edister.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/edister.nvim)
 - [eliogilvy/pasted.nvim](https://github.com/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/stars/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/last-commit/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/commit-activity/y/eliogilvy/pasted.nvim)
 - [joelflaig/clip.nvim](https://github.com/joelflaig/clip.nvim) ![](https://img.shields.io/github/stars/joelflaig/clip.nvim) ![](https://img.shields.io/github/last-commit/joelflaig/clip.nvim) ![](https://img.shields.io/github/commit-activity/y/joelflaig/clip.nvim)
+- [royanirudd/clipboard-history.nvim](https://github.com/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/stars/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/last-commit/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/commit-activity/y/royanirudd/clipboard-history.nvim)
 
 ### Edit Register
 
