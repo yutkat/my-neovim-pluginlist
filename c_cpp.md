@@ -28,6 +28,7 @@
 - [PlatformIO](#platformio)
 - [ASM](#asm)
 - [Linux kernel development](#linux-kernel-development)
+- [Norminette](#norminette)
 
 <!-- tocstop -->
 
@@ -44,7 +45,6 @@
 - [segoon/telescope-cc.nvim](https://github.com/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-cc.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-cc.nvim)
 - [ii14/nvim-ts-docgen](https://github.com/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/stars/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/last-commit/ii14/nvim-ts-docgen) ![](https://img.shields.io/github/commit-activity/y/ii14/nvim-ts-docgen)
 - [amikai/cscope.nvim](https://github.com/amikai/cscope.nvim) ![](https://img.shields.io/github/stars/amikai/cscope.nvim) ![](https://img.shields.io/github/last-commit/amikai/cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/amikai/cscope.nvim)
-- [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
 - [PatWie/include-guard.nvim](https://github.com/PatWie/include-guard.nvim) ![](https://img.shields.io/github/stars/PatWie/include-guard.nvim) ![](https://img.shields.io/github/last-commit/PatWie/include-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/PatWie/include-guard.nvim)
 - [paddywz/doxycpp.nvim](https://github.com/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/stars/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/last-commit/paddywz/doxycpp.nvim) ![](https://img.shields.io/github/commit-activity/y/paddywz/doxycpp.nvim)
 - [liaozixin/nvim-cpptools](https://github.com/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/stars/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/last-commit/liaozixin/nvim-cpptools) ![](https://img.shields.io/github/commit-activity/y/liaozixin/nvim-cpptools)
@@ -166,4 +166,10 @@
 ## Linux kernel development
 
 - [Daparrag/Linux-sty-pluging.nvim](https://github.com/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/stars/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/last-commit/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/commit-activity/y/Daparrag/Linux-sty-pluging.nvim)
+
+## Norminette
+
+- [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
+- [FtVim/norminette-lint.nvim](https://github.com/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/stars/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/last-commit/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/FtVim/norminette-lint.nvim)
+- [FtVim/ft_count_lines.nvim](https://github.com/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/stars/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/last-commit/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/FtVim/ft_count_lines.nvim)
 

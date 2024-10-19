@@ -342,6 +342,7 @@
 - [prichrd/flagmode.nvim](https://github.com/prichrd/flagmode.nvim) ![](https://img.shields.io/github/stars/prichrd/flagmode.nvim) ![](https://img.shields.io/github/last-commit/prichrd/flagmode.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/flagmode.nvim)
 - [redxtech/sharing.nvim](https://github.com/redxtech/sharing.nvim) ![](https://img.shields.io/github/stars/redxtech/sharing.nvim) ![](https://img.shields.io/github/last-commit/redxtech/sharing.nvim) ![](https://img.shields.io/github/commit-activity/y/redxtech/sharing.nvim)
 - [iiixio/nvim-dynamiclinenumbers](https://github.com/iiixio/nvim-dynamiclinenumbers) ![](https://img.shields.io/github/stars/iiixio/nvim-dynamiclinenumbers) ![](https://img.shields.io/github/last-commit/iiixio/nvim-dynamiclinenumbers) ![](https://img.shields.io/github/commit-activity/y/iiixio/nvim-dynamiclinenumbers)
+- [Sayyidalijufri/termlinehide.nvim](https://github.com/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/termlinehide.nvim)
 
 ### [Mark](./mark.md)
 
