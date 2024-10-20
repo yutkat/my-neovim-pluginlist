@@ -30,6 +30,7 @@
 - [mrvaita/sqlrun.nvim](https://github.com/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/stars/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/last-commit/mrvaita/sqlrun.nvim) ![](https://img.shields.io/github/commit-activity/y/mrvaita/sqlrun.nvim)
 - [ray-x/cmp-sql](https://github.com/ray-x/cmp-sql) ![](https://img.shields.io/github/stars/ray-x/cmp-sql) ![](https://img.shields.io/github/last-commit/ray-x/cmp-sql) ![](https://img.shields.io/github/commit-activity/y/ray-x/cmp-sql)
 - [Praczet/sql-command.nvim](https://github.com/Praczet/sql-command.nvim) ![](https://img.shields.io/github/stars/Praczet/sql-command.nvim) ![](https://img.shields.io/github/last-commit/Praczet/sql-command.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/sql-command.nvim)
+- [hsanson/usql.nvim](https://github.com/hsanson/usql.nvim) ![](https://img.shields.io/github/stars/hsanson/usql.nvim) ![](https://img.shields.io/github/last-commit/hsanson/usql.nvim) ![](https://img.shields.io/github/commit-activity/y/hsanson/usql.nvim)
 
 ### PostgreSQL
 
