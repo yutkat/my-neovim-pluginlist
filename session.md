@@ -54,6 +54,7 @@
 - [limxingzhi/toychest.nvim](https://github.com/limxingzhi/toychest.nvim) ![](https://img.shields.io/github/stars/limxingzhi/toychest.nvim) ![](https://img.shields.io/github/last-commit/limxingzhi/toychest.nvim) ![](https://img.shields.io/github/commit-activity/y/limxingzhi/toychest.nvim)
 - [fmc-sh/nvim-session-dashboard](https://github.com/fmc-sh/nvim-session-dashboard) ![](https://img.shields.io/github/stars/fmc-sh/nvim-session-dashboard) ![](https://img.shields.io/github/last-commit/fmc-sh/nvim-session-dashboard) ![](https://img.shields.io/github/commit-activity/y/fmc-sh/nvim-session-dashboard)
 - [njayman/season.nvim](https://github.com/njayman/season.nvim) ![](https://img.shields.io/github/stars/njayman/season.nvim) ![](https://img.shields.io/github/last-commit/njayman/season.nvim) ![](https://img.shields.io/github/commit-activity/y/njayman/season.nvim)
+- [Tronikelis/sstash.nvim](https://github.com/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/stars/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/sstash.nvim)
 
 ## Session Selector
 
