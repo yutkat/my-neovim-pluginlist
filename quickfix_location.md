@@ -26,7 +26,6 @@
 - [mei28/qfc.nvim](https://github.com/mei28/qfc.nvim) ![](https://img.shields.io/github/stars/mei28/qfc.nvim) ![](https://img.shields.io/github/last-commit/mei28/qfc.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/qfc.nvim)
 - [stevearc/quicker.nvim](https://github.com/stevearc/quicker.nvim) ![](https://img.shields.io/github/stars/stevearc/quicker.nvim) ![](https://img.shields.io/github/last-commit/stevearc/quicker.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/quicker.nvim)
 - [BlankTiger/aqf.nvim](https://github.com/BlankTiger/aqf.nvim) ![](https://img.shields.io/github/stars/BlankTiger/aqf.nvim) ![](https://img.shields.io/github/last-commit/BlankTiger/aqf.nvim) ![](https://img.shields.io/github/commit-activity/y/BlankTiger/aqf.nvim)
-- [jfly/sticky-quickfix.nvim](https://github.com/jfly/sticky-quickfix.nvim) ![](https://img.shields.io/github/stars/jfly/sticky-quickfix.nvim) ![](https://img.shields.io/github/last-commit/jfly/sticky-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/jfly/sticky-quickfix.nvim)
 
 ### Syntax
 
