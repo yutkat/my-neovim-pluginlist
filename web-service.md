@@ -78,7 +78,6 @@
 
 #### iMessage
 
-- [idvorkin/nvim-messages](https://github.com/idvorkin/nvim-messages) ![](https://img.shields.io/github/stars/idvorkin/nvim-messages) ![](https://img.shields.io/github/last-commit/idvorkin/nvim-messages) ![](https://img.shields.io/github/commit-activity/y/idvorkin/nvim-messages)
 
 ### SNS
 

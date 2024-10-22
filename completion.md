@@ -87,7 +87,6 @@
   - [paopaol/cmp-doxygen](https://github.com/paopaol/cmp-doxygen) ![](https://img.shields.io/github/stars/paopaol/cmp-doxygen) ![](https://img.shields.io/github/last-commit/paopaol/cmp-doxygen) ![](https://img.shields.io/github/commit-activity/y/paopaol/cmp-doxygen)
   - [KadoBOT/cmp-plugins](https://github.com/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/stars/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/last-commit/KadoBOT/cmp-plugins) ![](https://img.shields.io/github/commit-activity/y/KadoBOT/cmp-plugins)
   - [delphinus/cmp-ctags](https://github.com/delphinus/cmp-ctags) ![](https://img.shields.io/github/stars/delphinus/cmp-ctags) ![](https://img.shields.io/github/last-commit/delphinus/cmp-ctags) ![](https://img.shields.io/github/commit-activity/y/delphinus/cmp-ctags)
-  - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/stars/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/last-commit/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/blink-cmp-rg.nvim)
 
 #### nvim-cmp comparator
 
