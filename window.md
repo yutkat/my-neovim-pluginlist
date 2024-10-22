@@ -97,6 +97,7 @@
 - [siadat/animated-resize.nvim](https://github.com/siadat/animated-resize.nvim) ![](https://img.shields.io/github/stars/siadat/animated-resize.nvim) ![](https://img.shields.io/github/last-commit/siadat/animated-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/animated-resize.nvim)
 - [unawarez/nvim-winpolicy](https://github.com/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/stars/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/last-commit/unawarez/nvim-winpolicy) ![](https://img.shields.io/github/commit-activity/y/unawarez/nvim-winpolicy)
 - [pogyomo/winresize.nvim](https://github.com/pogyomo/winresize.nvim) ![](https://img.shields.io/github/stars/pogyomo/winresize.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/winresize.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/winresize.nvim)
+- [mboyov/pane-resizer.nvim](https://github.com/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/stars/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/last-commit/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/mboyov/pane-resizer.nvim)
 
 #### maximize
 
