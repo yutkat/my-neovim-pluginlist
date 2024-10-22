@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Search](#search)
+  * [Window local search](#window-local-search)
   * [Line search](#line-search)
   * [Range Search](#range-search)
   * [n/N Improvement](#nn-improvement)
@@ -48,6 +49,10 @@
 - [kilavila/nvim-quick-search](https://github.com/kilavila/nvim-quick-search) ![](https://img.shields.io/github/stars/kilavila/nvim-quick-search) ![](https://img.shields.io/github/last-commit/kilavila/nvim-quick-search) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-quick-search)
 - [yujinyuz/very-magic-slash.nvim](https://github.com/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/stars/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/last-commit/yujinyuz/very-magic-slash.nvim) ![](https://img.shields.io/github/commit-activity/y/yujinyuz/very-magic-slash.nvim)
 - [m6vrm/svart.nvim](https://github.com/m6vrm/svart.nvim) ![](https://img.shields.io/github/stars/m6vrm/svart.nvim) ![](https://img.shields.io/github/last-commit/m6vrm/svart.nvim) ![](https://img.shields.io/github/commit-activity/y/m6vrm/svart.nvim)
+
+## Window local search
+
+- [xiaoqixian/winlocal-search.nvim](https://github.com/xiaoqixian/winlocal-search.nvim) ![](https://img.shields.io/github/stars/xiaoqixian/winlocal-search.nvim) ![](https://img.shields.io/github/last-commit/xiaoqixian/winlocal-search.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaoqixian/winlocal-search.nvim)
 
 ## Line search
 
@@ -123,6 +128,7 @@
 - [chrisgrieser/nvim-rip-substitute](https://github.com/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-rip-substitute) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-rip-substitute)
 - [bbbkbc/find-replace.nvim](https://github.com/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/stars/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/last-commit/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/bbbkbc/find-replace.nvim)
 - [Sayyidalijufri/findreplace.nvim](https://github.com/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/findreplace.nvim)
+- [4rtemis-4rrow/SR-71.nvim](https://github.com/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/stars/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/last-commit/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/commit-activity/y/4rtemis-4rrow/SR-71.nvim)
 
 ## Rename
 

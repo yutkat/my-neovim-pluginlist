@@ -195,6 +195,7 @@
 - [SalahDevp/scratch.nvim](https://github.com/SalahDevp/scratch.nvim) ![](https://img.shields.io/github/stars/SalahDevp/scratch.nvim) ![](https://img.shields.io/github/last-commit/SalahDevp/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/SalahDevp/scratch.nvim)
 - [cenk1cenk2/scratch.nvim](https://github.com/cenk1cenk2/scratch.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/scratch.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/scratch.nvim)
 - [ShalevAri/tempfile.nvim](https://github.com/ShalevAri/tempfile.nvim) ![](https://img.shields.io/github/stars/ShalevAri/tempfile.nvim) ![](https://img.shields.io/github/last-commit/ShalevAri/tempfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ShalevAri/tempfile.nvim)
+- [hoangnghiem/nvim-scratch](https://github.com/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/stars/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/last-commit/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/commit-activity/y/hoangnghiem/nvim-scratch)
 
 ### Scratchpad
 
