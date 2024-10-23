@@ -391,6 +391,7 @@
 
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/commit-activity/y/0styx0/abbreinder.nvim)
 - [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/stars/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/last-commit/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/shadyalfred/electric-quotes.nvim)
+- [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
 
 ### [Quickfix / Location](./quickfix_location.md)
 

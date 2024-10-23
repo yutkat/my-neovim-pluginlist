@@ -40,6 +40,7 @@
 - [cenk1cenk2/jq.nvim](https://github.com/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/jq.nvim)
 - [try-to-fly/json-path-picker.nvim](https://github.com/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/stars/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/json-path-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/json-path-picker.nvim)
 - [goropikari/jnv.nvim](https://github.com/goropikari/jnv.nvim) ![](https://img.shields.io/github/stars/goropikari/jnv.nvim) ![](https://img.shields.io/github/last-commit/goropikari/jnv.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/jnv.nvim)
+- [philippdrebes/jsonpath.nvim](https://github.com/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/stars/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/philippdrebes/jsonpath.nvim)
 
 ### YAML
 

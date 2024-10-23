@@ -62,6 +62,8 @@
 
 ### Project Template
 
+- [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
+
 ##### Monorepo
 
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)

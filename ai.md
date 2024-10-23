@@ -33,6 +33,7 @@
 - [AI Completion](#ai-completion)
   * [Copilot](#copilot)
 - [Chat](#chat)
+- [Cursor](#cursor)
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
 - [OpenAI Review](#openai-review)
@@ -118,6 +119,7 @@
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ![](https://img.shields.io/github/stars/yetone/avante.nvim) ![](https://img.shields.io/github/last-commit/yetone/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yetone/avante.nvim)
 - [magicalne/nvim.ai](https://github.com/magicalne/nvim.ai) ![](https://img.shields.io/github/stars/magicalne/nvim.ai) ![](https://img.shields.io/github/last-commit/magicalne/nvim.ai) ![](https://img.shields.io/github/commit-activity/y/magicalne/nvim.ai)
 - [dreamtrail/gp.nvim](https://github.com/dreamtrail/gp.nvim) ![](https://img.shields.io/github/stars/dreamtrail/gp.nvim) ![](https://img.shields.io/github/last-commit/dreamtrail/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/dreamtrail/gp.nvim)
+- [huangyingw/avante.nvim](https://github.com/huangyingw/avante.nvim) ![](https://img.shields.io/github/stars/huangyingw/avante.nvim) ![](https://img.shields.io/github/last-commit/huangyingw/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/huangyingw/avante.nvim)
 
 #### Generate Doc
 
@@ -266,6 +268,10 @@
 - [Lommix/ollamachad.nvim](https://github.com/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/stars/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/last-commit/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/ollamachad.nvim)
 - [z0rzi/ai-chat.nvim](https://github.com/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/stars/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/ai-chat.nvim)
 - [DanielKlossek/github-chatpilot.nvim](https://github.com/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/stars/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/last-commit/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielKlossek/github-chatpilot.nvim)
+
+## Cursor
+
+- [circansm/nvim-cursor](https://github.com/circansm/nvim-cursor) ![](https://img.shields.io/github/stars/circansm/nvim-cursor) ![](https://img.shields.io/github/last-commit/circansm/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/circansm/nvim-cursor)
 
 ## Code generate
 
