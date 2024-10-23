@@ -402,6 +402,7 @@
 - [hzieba/git-remote.nvim](https://github.com/hzieba/git-remote.nvim) ![](https://img.shields.io/github/stars/hzieba/git-remote.nvim) ![](https://img.shields.io/github/last-commit/hzieba/git-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/hzieba/git-remote.nvim)
 - [akonkol/gitweb.nvim](https://github.com/akonkol/gitweb.nvim) ![](https://img.shields.io/github/stars/akonkol/gitweb.nvim) ![](https://img.shields.io/github/last-commit/akonkol/gitweb.nvim) ![](https://img.shields.io/github/commit-activity/y/akonkol/gitweb.nvim)
 - [lvsz/open-origin.nvim](https://github.com/lvsz/open-origin.nvim) ![](https://img.shields.io/github/stars/lvsz/open-origin.nvim) ![](https://img.shields.io/github/last-commit/lvsz/open-origin.nvim) ![](https://img.shields.io/github/commit-activity/y/lvsz/open-origin.nvim)
+- [anugrahn1/goto-github.nvim](https://github.com/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/stars/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/last-commit/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/commit-activity/y/anugrahn1/goto-github.nvim)
 
 ## Image
 
