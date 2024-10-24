@@ -261,6 +261,7 @@
 - [enoatu/nvim-smartchr](https://github.com/enoatu/nvim-smartchr) ![](https://img.shields.io/github/stars/enoatu/nvim-smartchr) ![](https://img.shields.io/github/last-commit/enoatu/nvim-smartchr) ![](https://img.shields.io/github/commit-activity/y/enoatu/nvim-smartchr)
 - [ins0mniaque/sacrilege.nvim](https://github.com/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/stars/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/last-commit/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/commit-activity/y/ins0mniaque/sacrilege.nvim)
 - [csessh/stopinsert.nvim](https://github.com/csessh/stopinsert.nvim) ![](https://img.shields.io/github/stars/csessh/stopinsert.nvim) ![](https://img.shields.io/github/last-commit/csessh/stopinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/stopinsert.nvim)
+- [Akirisu-kirisu/nvim-insert-mode](https://github.com/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/stars/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/last-commit/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/commit-activity/y/Akirisu-kirisu/nvim-insert-mode)
 
 #### Smart Tab
 

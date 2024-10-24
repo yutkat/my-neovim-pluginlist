@@ -67,6 +67,7 @@
 - [fmc-sh/nvim-permtermbuf](https://github.com/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/stars/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/last-commit/fmc-sh/nvim-permtermbuf) ![](https://img.shields.io/github/commit-activity/y/fmc-sh/nvim-permtermbuf)
 - [Dan7h3x/neaterm.nvim](https://github.com/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/neaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/neaterm.nvim)
 - [EmilOhlsson/FloatTerm.nvim](https://github.com/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/FloatTerm.nvim)
+- [maxmx03/terminal.nvim](https://github.com/maxmx03/terminal.nvim) ![](https://img.shields.io/github/stars/maxmx03/terminal.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/terminal.nvim)
 
 ### Open
 
