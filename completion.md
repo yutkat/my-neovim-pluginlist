@@ -33,6 +33,7 @@
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) ![](https://img.shields.io/github/stars/max397574/care.nvim) ![](https://img.shields.io/github/last-commit/max397574/care.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/care.nvim)
 - [vx-clutch/comppls.nvim](https://github.com/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/stars/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/last-commit/vx-clutch/comppls.nvim) ![](https://img.shields.io/github/commit-activity/y/vx-clutch/comppls.nvim)
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) ![](https://img.shields.io/github/stars/Saghen/blink.cmp) ![](https://img.shields.io/github/last-commit/Saghen/blink.cmp) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.cmp)
+  - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/stars/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/last-commit/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/blink-cmp-rg.nvim)
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 
 #### Made in Python
