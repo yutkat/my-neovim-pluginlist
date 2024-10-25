@@ -110,6 +110,7 @@
 - [badumbatish/brt.nvim](https://github.com/badumbatish/brt.nvim) ![](https://img.shields.io/github/stars/badumbatish/brt.nvim) ![](https://img.shields.io/github/last-commit/badumbatish/brt.nvim) ![](https://img.shields.io/github/commit-activity/y/badumbatish/brt.nvim)
 - [Kicamon/running.nvim](https://github.com/Kicamon/running.nvim) ![](https://img.shields.io/github/stars/Kicamon/running.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/running.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/running.nvim)
 - [miroshQa/rittli.nvim](https://github.com/miroshQa/rittli.nvim) ![](https://img.shields.io/github/stars/miroshQa/rittli.nvim) ![](https://img.shields.io/github/last-commit/miroshQa/rittli.nvim) ![](https://img.shields.io/github/commit-activity/y/miroshQa/rittli.nvim)
+- [wf001/runme.nvim](https://github.com/wf001/runme.nvim) ![](https://img.shields.io/github/stars/wf001/runme.nvim) ![](https://img.shields.io/github/last-commit/wf001/runme.nvim) ![](https://img.shields.io/github/commit-activity/y/wf001/runme.nvim)
 
 ### Shell
 
