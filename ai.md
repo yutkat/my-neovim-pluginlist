@@ -90,6 +90,7 @@
 - [oflisback/describe-command.nvim](https://github.com/oflisback/describe-command.nvim) ![](https://img.shields.io/github/stars/oflisback/describe-command.nvim) ![](https://img.shields.io/github/last-commit/oflisback/describe-command.nvim) ![](https://img.shields.io/github/commit-activity/y/oflisback/describe-command.nvim)
 - [KroneCorylus/InvokeAI.nvim](https://github.com/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/stars/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/last-commit/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/commit-activity/y/KroneCorylus/InvokeAI.nvim)
 - [Luke-Doms/oracle.nvim](https://github.com/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/stars/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/last-commit/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/commit-activity/y/Luke-Doms/oracle.nvim)
+- [webpolis/wingman.nvim](https://github.com/webpolis/wingman.nvim) ![](https://img.shields.io/github/stars/webpolis/wingman.nvim) ![](https://img.shields.io/github/last-commit/webpolis/wingman.nvim) ![](https://img.shields.io/github/commit-activity/y/webpolis/wingman.nvim)
 
 #### log
 
