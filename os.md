@@ -6,9 +6,10 @@
   * [CPU/Memory](#cpumemory)
   * [Linux](#linux)
     + [kernel](#kernel)
-    + [gnome](#gnome)
-    + [Hyprland](#hyprland)
-    + [X11](#x11)
+    + [Window Manager (Desktop Manager)](#window-manager-desktop-manager)
+      - [gnome](#gnome)
+      - [Hyprland](#hyprland)
+      - [X11](#x11)
     + [flatpak](#flatpak)
     + [Nix](#nix)
     + [drun](#drun)
@@ -44,15 +45,19 @@
 
 - [rbmarliere/get_maintainer.nvim](https://github.com/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/stars/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/get_maintainer.nvim)
 
-#### gnome
+#### Window Manager (Desktop Manager)
+
+- [amedoeyes/nvim-winnav](https://github.com/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/stars/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/last-commit/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/commit-activity/y/amedoeyes/nvim-winnav)
+
+##### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
 
-#### Hyprland
+##### Hyprland
 
 - [rgarber11/hyprland-keymap-picker.nvim](https://github.com/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/stars/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/last-commit/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarber11/hyprland-keymap-picker.nvim)
 
-#### X11
+##### X11
 
 - [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
 - [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)

@@ -22,6 +22,7 @@
   * [Jupyter](#jupyter)
   * [Pandas](#pandas)
   * [visidata](#visidata)
+  * [Kedro](#kedro)
   * [Anaconda](#anaconda)
   * [Databricks](#databricks)
   * [Scrapy](#scrapy)
@@ -143,6 +144,10 @@
 ### visidata
 
 - [Willem-J-an/visidata.nvim](https://github.com/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/visidata.nvim)
+
+### Kedro
+
+- [galenseilis/nvim-kedro](https://github.com/galenseilis/nvim-kedro) ![](https://img.shields.io/github/stars/galenseilis/nvim-kedro) ![](https://img.shields.io/github/last-commit/galenseilis/nvim-kedro) ![](https://img.shields.io/github/commit-activity/y/galenseilis/nvim-kedro)
 
 ### Anaconda
 

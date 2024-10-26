@@ -88,6 +88,7 @@
 - [danymat/neogen](https://github.com/danymat/neogen) ![](https://img.shields.io/github/stars/danymat/neogen) ![](https://img.shields.io/github/last-commit/danymat/neogen) ![](https://img.shields.io/github/commit-activity/y/danymat/neogen)
 - [AuLaSW/annotate.nvim](https://github.com/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/stars/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/annotate.nvim)
 - [nhomble/thought-flow.nvim](https://github.com/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/stars/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/last-commit/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/nhomble/thought-flow.nvim)
+- [Sahas-Ananth/code_annotate.nvim](https://github.com/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/stars/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/last-commit/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/Sahas-Ananth/code_annotate.nvim)
 
 ### function comment
 
