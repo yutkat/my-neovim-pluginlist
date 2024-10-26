@@ -108,6 +108,7 @@
 - [OlegGulevskyy/better-ts-errors.nvim](https://github.com/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/stars/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/OlegGulevskyy/better-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/OlegGulevskyy/better-ts-errors.nvim)
 - [dmmulroy/ts-error-translator.nvim](https://github.com/dmmulroy/ts-error-translator.nvim) ![](https://img.shields.io/github/stars/dmmulroy/ts-error-translator.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/ts-error-translator.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/ts-error-translator.nvim)
 - [MichaelOstermann/nvim-tsc](https://github.com/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/stars/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/last-commit/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/commit-activity/y/MichaelOstermann/nvim-tsc)
+- [EthanJWright/it-compiles.nvim](https://github.com/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/stars/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/it-compiles.nvim)
 
 ### Type check
 
@@ -118,6 +119,7 @@
 
 - [gi4c0/lint-node.nvim](https://github.com/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/stars/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/last-commit/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/commit-activity/y/gi4c0/lint-node.nvim)
 - [stornquist/eslint-workspace-linter.nvim](https://github.com/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/eslint-workspace-linter.nvim)
+- [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) ![](https://img.shields.io/github/stars/esmuellert/nvim-eslint) ![](https://img.shields.io/github/last-commit/esmuellert/nvim-eslint) ![](https://img.shields.io/github/commit-activity/y/esmuellert/nvim-eslint)
 
 ### Formatter
 
@@ -254,6 +256,7 @@
 - [SerMeliodas/ecsstractor.nvim](https://github.com/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/stars/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/last-commit/SerMeliodas/ecsstractor.nvim) ![](https://img.shields.io/github/commit-activity/y/SerMeliodas/ecsstractor.nvim)
 - [microph1/nvim-pde](https://github.com/microph1/nvim-pde) ![](https://img.shields.io/github/stars/microph1/nvim-pde) ![](https://img.shields.io/github/last-commit/microph1/nvim-pde) ![](https://img.shields.io/github/commit-activity/y/microph1/nvim-pde)
 - [joshddunn/nvim-scss-variables](https://github.com/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/stars/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/last-commit/joshddunn/nvim-scss-variables) ![](https://img.shields.io/github/commit-activity/y/joshddunn/nvim-scss-variables)
+- [mr-scrpt/html-to-scss-skelet.nvim](https://github.com/mr-scrpt/html-to-scss-skelet.nvim) ![](https://img.shields.io/github/stars/mr-scrpt/html-to-scss-skelet.nvim) ![](https://img.shields.io/github/last-commit/mr-scrpt/html-to-scss-skelet.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-scrpt/html-to-scss-skelet.nvim)
 
 ### pixel size
 

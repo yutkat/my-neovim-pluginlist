@@ -44,6 +44,7 @@
 - [JohanChane/wsnavigator.nvim](https://github.com/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/stars/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/last-commit/JohanChane/wsnavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/JohanChane/wsnavigator.nvim)
 - [Rics-Dev/project-explorer.nvim](https://github.com/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/stars/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/last-commit/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Rics-Dev/project-explorer.nvim)
 - [haaag/projects.nvim](https://github.com/haaag/projects.nvim) ![](https://img.shields.io/github/stars/haaag/projects.nvim) ![](https://img.shields.io/github/last-commit/haaag/projects.nvim) ![](https://img.shields.io/github/commit-activity/y/haaag/projects.nvim)
+- [jamesespericueta/nvim-proman](https://github.com/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/stars/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/last-commit/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/commit-activity/y/jamesespericueta/nvim-proman)
 
 #### Project Root Detector
 

@@ -71,6 +71,7 @@
 - [catgoose/not-zen.nvim](https://github.com/catgoose/not-zen.nvim) ![](https://img.shields.io/github/stars/catgoose/not-zen.nvim) ![](https://img.shields.io/github/last-commit/catgoose/not-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/not-zen.nvim)
 - [SamuelLorrain/focus.nvim](https://github.com/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/stars/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/last-commit/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/SamuelLorrain/focus.nvim)
 - [fasterius/simple-zoom.nvim](https://github.com/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/stars/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/last-commit/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/simple-zoom.nvim)
+- [irohn/focus.nvim](https://github.com/irohn/focus.nvim) ![](https://img.shields.io/github/stars/irohn/focus.nvim) ![](https://img.shields.io/github/last-commit/irohn/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/focus.nvim)
 
 ## Random Selection
 

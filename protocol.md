@@ -14,6 +14,7 @@
   * [WebSocket](#websocket)
   * [webrcp](#webrcp)
   * [httpyac](#httpyac)
+  * [HL7](#hl7)
 
 <!-- tocstop -->
 
@@ -68,3 +69,7 @@
 
 - [ZieMcd/nvim-httpyac](https://github.com/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/stars/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/last-commit/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/ZieMcd/nvim-httpyac)
 - [abidibo/nvim-httpyac](https://github.com/abidibo/nvim-httpyac) ![](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-httpyac)
+
+### HL7
+
+- [hamaluik/hl7-hud.nvim](https://github.com/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/stars/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/last-commit/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/commit-activity/y/hamaluik/hl7-hud.nvim)
