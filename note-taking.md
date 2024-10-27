@@ -119,7 +119,7 @@
 - [crimsoncrayfish/todo.nvim](https://github.com/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/stars/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/last-commit/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/crimsoncrayfish/todo.nvim)
 - [negativeOne1/noto.nvim](https://github.com/negativeOne1/noto.nvim) ![](https://img.shields.io/github/stars/negativeOne1/noto.nvim) ![](https://img.shields.io/github/last-commit/negativeOne1/noto.nvim) ![](https://img.shields.io/github/commit-activity/y/negativeOne1/noto.nvim)
 - [tbm5k/todo.nvim](https://github.com/tbm5k/todo.nvim) ![](https://img.shields.io/github/stars/tbm5k/todo.nvim) ![](https://img.shields.io/github/last-commit/tbm5k/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/tbm5k/todo.nvim)
-- [smsimone/todolist.nvi](https://github.com/smsimone/todolist.nvi) ![](https://img.shields.io/github/stars/smsimone/todolist.nvi) ![](https://img.shields.io/github/last-commit/smsimone/todolist.nvi) ![](https://img.shields.io/github/commit-activity/y/smsimone/todolist.nvi)
+- [smsimone/todolist.nvim](https://github.com/smsimone/todolist.nvim) ![](https://img.shields.io/github/stars/smsimone/todolist.nvim) ![](https://img.shields.io/github/last-commit/smsimone/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/smsimone/todolist.nvim)
 
 ### Taskwarrior
 
