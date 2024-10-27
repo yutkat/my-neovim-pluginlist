@@ -61,6 +61,7 @@
 - [kutiny/buff.nvim](https://github.com/kutiny/buff.nvim) ![](https://img.shields.io/github/stars/kutiny/buff.nvim) ![](https://img.shields.io/github/last-commit/kutiny/buff.nvim) ![](https://img.shields.io/github/commit-activity/y/kutiny/buff.nvim)
 - [johanneswolfgruber/switcher.nvim](https://github.com/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/stars/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/last-commit/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/johanneswolfgruber/switcher.nvim)
 - [flavray/bufferlist.nvim](https://github.com/flavray/bufferlist.nvim) ![](https://img.shields.io/github/stars/flavray/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/flavray/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/flavray/bufferlist.nvim)
+- [dzfrias/arena.nvim](https://github.com/dzfrias/arena.nvim) ![](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/arena.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/arena.nvim)
 
 ### Other Buffer Switcher
 
@@ -98,6 +99,7 @@
 - [kilavila/nvim-bufferlist](https://github.com/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/stars/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/last-commit/kilavila/nvim-bufferlist) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-bufferlist)
 - [EL-MASTOR/bufferlist.nvim](https://github.com/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/EL-MASTOR/bufferlist.nvim)
 - [OleJoik/bufbouncer.nvim](https://github.com/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/stars/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/bufbouncer.nvim)
+- [andrewteall/buff-man.nvim](https://github.com/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/stars/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/last-commit/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewteall/buff-man.nvim)
 
 #### create
 
