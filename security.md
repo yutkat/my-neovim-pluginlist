@@ -6,6 +6,7 @@
   * [Secrets](#secrets)
   * [Encrypt](#encrypt)
 - [Privacy](#privacy)
+- [GPG](#gpg)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@
 ### Privacy
 
 - [skeletony007/private-mode.nvim](https://github.com/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/stars/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/private-mode.nvim)
+
+### GPG
+
+- [defyus/doxly.nvim](https://github.com/defyus/doxly.nvim) ![](https://img.shields.io/github/stars/defyus/doxly.nvim) ![](https://img.shields.io/github/last-commit/defyus/doxly.nvim) ![](https://img.shields.io/github/commit-activity/y/defyus/doxly.nvim)

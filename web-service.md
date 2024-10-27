@@ -14,6 +14,7 @@
   * [Notion](#notion)
   * [micro.blog](#microblog)
   * [Gmail](#gmail)
+  * [ntfy](#ntfy)
   * [WhatsApp](#whatsapp)
   * [Jira](#jira)
   * [Confluence](#confluence)
@@ -103,6 +104,10 @@
 
 - [ogomezba/nvim-gmail](https://github.com/ogomezba/nvim-gmail) ![](https://img.shields.io/github/stars/ogomezba/nvim-gmail) ![](https://img.shields.io/github/last-commit/ogomezba/nvim-gmail) ![](https://img.shields.io/github/commit-activity/y/ogomezba/nvim-gmail)
 
+### ntfy
+
+- [jorgegomzar/ntfy.nvim](https://github.com/jorgegomzar/ntfy.nvim) ![](https://img.shields.io/github/stars/jorgegomzar/ntfy.nvim) ![](https://img.shields.io/github/last-commit/jorgegomzar/ntfy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorgegomzar/ntfy.nvim)
+
 ### WhatsApp
 
 - [alcidesbsilvaneto/nvim-whatsapp](https://github.com/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/stars/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/last-commit/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/commit-activity/y/alcidesbsilvaneto/nvim-whatsapp)
@@ -122,6 +127,7 @@
 - [ChristophSonnleitner/jira.nvim](https://github.com/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/stars/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/last-commit/ChristophSonnleitner/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristophSonnleitner/jira.nvim)
 - [Funk66/jira.nvim](https://github.com/Funk66/jira.nvim) ![](https://img.shields.io/github/stars/Funk66/jira.nvim) ![](https://img.shields.io/github/last-commit/Funk66/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Funk66/jira.nvim)
 - [jonarrien/jira.nvim](https://github.com/jonarrien/jira.nvim) ![](https://img.shields.io/github/stars/jonarrien/jira.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/jira.nvim)
+- [DukicDev/telescope-jsw.nvim](https://github.com/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/stars/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/last-commit/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/commit-activity/y/DukicDev/telescope-jsw.nvim)
 
 ### Confluence
 
