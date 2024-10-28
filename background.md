@@ -4,6 +4,7 @@
 
 - [Background](#background)
   * [Switch theme](#switch-theme)
+  * [Transparency](#transparency)
 
 <!-- tocstop -->
 
@@ -20,3 +21,7 @@
 ### Switch theme
 
 - [mktip/adaptive-theme.nvim](https://github.com/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/stars/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/last-commit/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/mktip/adaptive-theme.nvim)
+
+### Transparency
+
+- [IniyanKanmani/term-transparency.nvim](https://github.com/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/term-transparency.nvim)

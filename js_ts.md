@@ -7,6 +7,7 @@
   * [import](#import)
   * [console.log](#consolelog)
   * [export](#export)
+  * [Type](#type)
   * [index.js](#indexjs)
   * [Package](#package)
     + [i18next](#i18next)
@@ -85,6 +86,10 @@
 ### export
 
 - [OsmarJoseph/Export.nvim](https://github.com/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/stars/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/last-commit/OsmarJoseph/Export.nvim) ![](https://img.shields.io/github/commit-activity/y/OsmarJoseph/Export.nvim)
+
+### Type
+
+- [marcos-brasil/fix-ts-var-hints.nvim](https://github.com/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/stars/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/last-commit/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/marcos-brasil/fix-ts-var-hints.nvim)
 
 ### index.js
 

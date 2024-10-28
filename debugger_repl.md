@@ -79,6 +79,7 @@
 - [atinylittleshell/comment-repl.nvim](https://github.com/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/stars/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/last-commit/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/atinylittleshell/comment-repl.nvim)
 - [spaghettijeff/spank.nvim](https://github.com/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/stars/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/last-commit/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/commit-activity/y/spaghettijeff/spank.nvim)
 - [treybastian/nvim-jack-in](https://github.com/treybastian/nvim-jack-in) ![](https://img.shields.io/github/stars/treybastian/nvim-jack-in) ![](https://img.shields.io/github/last-commit/treybastian/nvim-jack-in) ![](https://img.shields.io/github/commit-activity/y/treybastian/nvim-jack-in)
+- [conig/nvim-slimetree](https://github.com/conig/nvim-slimetree) ![](https://img.shields.io/github/stars/conig/nvim-slimetree) ![](https://img.shields.io/github/last-commit/conig/nvim-slimetree) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-slimetree)
 
 ### Refactoring,Debugging
 
