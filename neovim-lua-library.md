@@ -91,6 +91,7 @@
 ## Thread
 
 - [aaron-p1/threading.nvim](https://github.com/aaron-p1/threading.nvim) ![](https://img.shields.io/github/stars/aaron-p1/threading.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/threading.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/threading.nvim)
+- [gregorias/coop.nvim](https://github.com/gregorias/coop.nvim) ![](https://img.shields.io/github/stars/gregorias/coop.nvim) ![](https://img.shields.io/github/last-commit/gregorias/coop.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/coop.nvim)
 
 ## Coroutine
 
