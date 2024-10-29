@@ -122,6 +122,7 @@
 - [dreamtrail/gp.nvim](https://github.com/dreamtrail/gp.nvim) ![](https://img.shields.io/github/stars/dreamtrail/gp.nvim) ![](https://img.shields.io/github/last-commit/dreamtrail/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/dreamtrail/gp.nvim)
   - [undg/telescope-gp-agent-picker.nvim](https://github.com/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/stars/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/undg/telescope-gp-agent-picker.nvim)
 - [huangyingw/avante.nvim](https://github.com/huangyingw/avante.nvim) ![](https://img.shields.io/github/stars/huangyingw/avante.nvim) ![](https://img.shields.io/github/last-commit/huangyingw/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/huangyingw/avante.nvim)
+- [guerrerojuli/coder.nvim](https://github.com/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/stars/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/last-commit/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/guerrerojuli/coder.nvim)
 
 #### Generate Doc
 
@@ -170,6 +171,7 @@
 - [yuzhegan/avante.nvim](https://github.com/yuzhegan/avante.nvim) ![](https://img.shields.io/github/stars/yuzhegan/avante.nvim) ![](https://img.shields.io/github/last-commit/yuzhegan/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yuzhegan/avante.nvim)
 - [tacogips/cereb.nvim](https://github.com/tacogips/cereb.nvim) ![](https://img.shields.io/github/stars/tacogips/cereb.nvim) ![](https://img.shields.io/github/last-commit/tacogips/cereb.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/cereb.nvim)
 - [Addanine/aurore.nvim](https://github.com/Addanine/aurore.nvim) ![](https://img.shields.io/github/stars/Addanine/aurore.nvim) ![](https://img.shields.io/github/last-commit/Addanine/aurore.nvim) ![](https://img.shields.io/github/commit-activity/y/Addanine/aurore.nvim)
+- [Wellbek/wellm.nvim](https://github.com/Wellbek/wellm.nvim) ![](https://img.shields.io/github/stars/Wellbek/wellm.nvim) ![](https://img.shields.io/github/last-commit/Wellbek/wellm.nvim) ![](https://img.shields.io/github/commit-activity/y/Wellbek/wellm.nvim)
 
 ### Supermaven
 

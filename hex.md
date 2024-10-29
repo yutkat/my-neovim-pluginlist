@@ -11,6 +11,7 @@
 
 - [qleveque/Hex.nvim](https://github.com/qleveque/Hex.nvim) ![](https://img.shields.io/github/stars/qleveque/Hex.nvim) ![](https://img.shields.io/github/last-commit/qleveque/Hex.nvim) ![](https://img.shields.io/github/commit-activity/y/qleveque/Hex.nvim)
 - [mgastonportillo/binary-peek.nvim](https://github.com/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/binary-peek.nvim)
+- [lukost/Ox.nvim](https://github.com/lukost/Ox.nvim) ![](https://img.shields.io/github/stars/lukost/Ox.nvim) ![](https://img.shields.io/github/last-commit/lukost/Ox.nvim) ![](https://img.shields.io/github/commit-activity/y/lukost/Ox.nvim)
 
 ### Hex Editor
 

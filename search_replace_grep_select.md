@@ -129,6 +129,7 @@
 - [bbbkbc/find-replace.nvim](https://github.com/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/stars/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/last-commit/bbbkbc/find-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/bbbkbc/find-replace.nvim)
 - [Sayyidalijufri/findreplace.nvim](https://github.com/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/findreplace.nvim)
 - [4rtemis-4rrow/SR-71.nvim](https://github.com/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/stars/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/last-commit/4rtemis-4rrow/SR-71.nvim) ![](https://img.shields.io/github/commit-activity/y/4rtemis-4rrow/SR-71.nvim)
+- [Async10/nvim-keepcase](https://github.com/Async10/nvim-keepcase) ![](https://img.shields.io/github/stars/Async10/nvim-keepcase) ![](https://img.shields.io/github/last-commit/Async10/nvim-keepcase) ![](https://img.shields.io/github/commit-activity/y/Async10/nvim-keepcase)
 
 ## Rename
 
