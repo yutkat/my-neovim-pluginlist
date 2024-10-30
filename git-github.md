@@ -21,6 +21,7 @@
     + [preview contents](#preview-contents)
   * [git lens](#git-lens)
   * [git diff](#git-diff)
+    + [image diff](#image-diff)
   * [git rebase](#git-rebase)
   * [git conflict](#git-conflict)
   * [git pull](#git-pull)
@@ -216,6 +217,10 @@
 - [leonnelc/git_diff.nvim](https://github.com/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/stars/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/last-commit/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/leonnelc/git_diff.nvim)
 - [JefferyBoy/git_diff.nvim](https://github.com/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/git_diff.nvim)
 - [Chen-Yulin/ColorfulDiff.nvim](https://github.com/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/stars/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/last-commit/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Chen-Yulin/ColorfulDiff.nvim)
+
+### image diff
+
+- [sankantsu/gin-diff-image.nvim](https://github.com/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/stars/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/last-commit/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/commit-activity/y/sankantsu/gin-diff-image.nvim)
 
 ## git rebase
 
