@@ -78,6 +78,7 @@
 - [Thanatisia/devenv.nvim](https://github.com/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/stars/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/last-commit/Thanatisia/devenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Thanatisia/devenv.nvim)
 - [Luis-Licea/template-loader.nvim](https://github.com/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/stars/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/last-commit/Luis-Licea/template-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/Luis-Licea/template-loader.nvim)
 - [ADIX7/new-file-template.nvim](https://github.com/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/stars/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/last-commit/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/commit-activity/y/ADIX7/new-file-template.nvim)
+- [darko-mesaros/codecast.nvim](https://github.com/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/stars/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/last-commit/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/commit-activity/y/darko-mesaros/codecast.nvim)
 
 #### README
 

@@ -91,6 +91,7 @@
 - [KroneCorylus/InvokeAI.nvim](https://github.com/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/stars/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/last-commit/KroneCorylus/InvokeAI.nvim) ![](https://img.shields.io/github/commit-activity/y/KroneCorylus/InvokeAI.nvim)
 - [Luke-Doms/oracle.nvim](https://github.com/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/stars/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/last-commit/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/commit-activity/y/Luke-Doms/oracle.nvim)
 - [webpolis/wingman.nvim](https://github.com/webpolis/wingman.nvim) ![](https://img.shields.io/github/stars/webpolis/wingman.nvim) ![](https://img.shields.io/github/last-commit/webpolis/wingman.nvim) ![](https://img.shields.io/github/commit-activity/y/webpolis/wingman.nvim)
+- [justinhj/chatty-ai-service-openai.nvim](https://github.com/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-openai.nvim)
 
 #### log
 
@@ -172,6 +173,7 @@
 - [tacogips/cereb.nvim](https://github.com/tacogips/cereb.nvim) ![](https://img.shields.io/github/stars/tacogips/cereb.nvim) ![](https://img.shields.io/github/last-commit/tacogips/cereb.nvim) ![](https://img.shields.io/github/commit-activity/y/tacogips/cereb.nvim)
 - [Addanine/aurore.nvim](https://github.com/Addanine/aurore.nvim) ![](https://img.shields.io/github/stars/Addanine/aurore.nvim) ![](https://img.shields.io/github/last-commit/Addanine/aurore.nvim) ![](https://img.shields.io/github/commit-activity/y/Addanine/aurore.nvim)
 - [Wellbek/wellm.nvim](https://github.com/Wellbek/wellm.nvim) ![](https://img.shields.io/github/stars/Wellbek/wellm.nvim) ![](https://img.shields.io/github/last-commit/Wellbek/wellm.nvim) ![](https://img.shields.io/github/commit-activity/y/Wellbek/wellm.nvim)
+- [justinhj/chatty-ai-service-anthropic.nvim](https://github.com/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-anthropic.nvim)
 
 ### Supermaven
 
