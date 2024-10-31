@@ -90,6 +90,7 @@
     + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     + [E2](#e2)
     + [Brainfuck](#brainfuck)
+    + [stenography](#stenography)
 - [Competitive programming](#competitive-programming)
   * [Codeforces](#codeforces)
 - [Computer science](#computer-science)
@@ -483,6 +484,10 @@
 ### Brainfuck
 
 - [seandewar/brainfuck.nvim](https://github.com/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/stars/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/last-commit/seandewar/brainfuck.nvim) ![](https://img.shields.io/github/commit-activity/y/seandewar/brainfuck.nvim)
+
+### stenography
+
+- [carlinigraphy/steno.nvim](https://github.com/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/steno.nvim)
 
 # Competitive programming
 
