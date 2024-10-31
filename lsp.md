@@ -30,6 +30,7 @@
   * [LSP timeout](#lsp-timeout)
   * [LSP Log](#lsp-log)
     + [Debug](#debug)
+    + [LSP Info](#lsp-info)
   * [Local LSP Config](#local-lsp-config)
 - [Command](#command)
   * [Disable/Enable](#disableenable)
@@ -252,6 +253,10 @@
 #### Debug
 
 - [Diltsman/nvim-lsp-debug](https://github.com/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/stars/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/last-commit/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/commit-activity/y/Diltsman/nvim-lsp-debug)
+
+#### LSP Info
+
+- [urizennnn/rescue-lsp.nvim](https://github.com/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/stars/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/last-commit/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/urizennnn/rescue-lsp.nvim)
 
 ### Local LSP Config
 
