@@ -59,6 +59,7 @@
   * [Password Manager](#password-manager)
   * [IME](#ime)
     + [Fcitx](#fcitx)
+    + [ibus](#ibus)
     + [SKK](#skk)
     + [migemo](#migemo)
   * [Battery](#battery)
@@ -364,6 +365,10 @@
 - [OliverChao/autoime.nvim](https://github.com/OliverChao/autoime.nvim) ![](https://img.shields.io/github/stars/OliverChao/autoime.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/autoime.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/autoime.nvim)
 - [SR-MyStar/fcitx5-switch.nvim](https://github.com/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/fcitx5-switch.nvim)
 - [JefferyBoy/fcitx.nvim](https://github.com/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/fcitx.nvim)
+
+#### ibus
+
+- [lumynou5/ibus-switcher.nvim](https://github.com/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/stars/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/last-commit/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lumynou5/ibus-switcher.nvim)
 
 #### SKK
 

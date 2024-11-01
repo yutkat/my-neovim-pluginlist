@@ -14,6 +14,7 @@
   * [Makefile](#makefile)
   * [GoogleTest](#googletest)
   * [Stress test](#stress-test)
+  * [Line count](#line-count)
   * [Cmake](#cmake)
   * [CTest](#ctest)
   * [Debug](#debug)
@@ -101,6 +102,10 @@
 ### Stress test
 
 - [roirepus/nvim-stress-test](https://github.com/roirepus/nvim-stress-test) ![](https://img.shields.io/github/stars/roirepus/nvim-stress-test) ![](https://img.shields.io/github/last-commit/roirepus/nvim-stress-test) ![](https://img.shields.io/github/commit-activity/y/roirepus/nvim-stress-test)
+
+### Line count
+
+- [Natox10/ftcountline.nvim](https://github.com/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/stars/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/last-commit/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/commit-activity/y/Natox10/ftcountline.nvim)
 
 ### Cmake
 

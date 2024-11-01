@@ -25,6 +25,7 @@
 ### event sound
 
 - [melMass/echo.nvim](https://github.com/melMass/echo.nvim) ![](https://img.shields.io/github/stars/melMass/echo.nvim) ![](https://img.shields.io/github/last-commit/melMass/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/melMass/echo.nvim)
+- [NullSeile/flashbang.nvim](https://github.com/NullSeile/flashbang.nvim) ![](https://img.shields.io/github/stars/NullSeile/flashbang.nvim) ![](https://img.shields.io/github/last-commit/NullSeile/flashbang.nvim) ![](https://img.shields.io/github/commit-activity/y/NullSeile/flashbang.nvim)
 
 ## Screen server
 

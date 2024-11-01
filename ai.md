@@ -174,6 +174,7 @@
 - [Addanine/aurore.nvim](https://github.com/Addanine/aurore.nvim) ![](https://img.shields.io/github/stars/Addanine/aurore.nvim) ![](https://img.shields.io/github/last-commit/Addanine/aurore.nvim) ![](https://img.shields.io/github/commit-activity/y/Addanine/aurore.nvim)
 - [Wellbek/wellm.nvim](https://github.com/Wellbek/wellm.nvim) ![](https://img.shields.io/github/stars/Wellbek/wellm.nvim) ![](https://img.shields.io/github/last-commit/Wellbek/wellm.nvim) ![](https://img.shields.io/github/commit-activity/y/Wellbek/wellm.nvim)
 - [justinhj/chatty-ai-service-anthropic.nvim](https://github.com/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-anthropic.nvim)
+- [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) ![](https://img.shields.io/github/stars/tjdevries/luai.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/luai.nvim)
 
 ### Supermaven
 
@@ -186,6 +187,7 @@
 ### Aider
 
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) ![](https://img.shields.io/github/stars/joshuavial/aider.nvim) ![](https://img.shields.io/github/last-commit/joshuavial/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuavial/aider.nvim)
+- [ddzero2c/aider.nvim](https://github.com/ddzero2c/aider.nvim) ![](https://img.shields.io/github/stars/ddzero2c/aider.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/aider.nvim)
 
 ### Otter
 
