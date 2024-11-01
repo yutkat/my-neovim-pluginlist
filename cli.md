@@ -299,7 +299,6 @@
 ##### yadm
 
 - [rj1/yadm.nvim](https://github.com/rj1/yadm.nvim) ![](https://img.shields.io/github/stars/rj1/yadm.nvim) ![](https://img.shields.io/github/last-commit/rj1/yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/rj1/yadm.nvim)
-- [seanbreckenridge/gitsigns-yadm.nvim](https://github.com/seanbreckenridge/gitsigns-yadm.nvim) ![](https://img.shields.io/github/stars/seanbreckenridge/gitsigns-yadm.nvim) ![](https://img.shields.io/github/last-commit/seanbreckenridge/gitsigns-yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/seanbreckenridge/gitsigns-yadm.nvim)
 
 #### age
 
