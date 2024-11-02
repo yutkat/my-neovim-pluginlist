@@ -44,6 +44,7 @@
 - [rodolfojsv/reminders.nvim](https://github.com/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/reminders.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/reminders.nvim)
 - [steventhorne/nvim-waterme](https://github.com/steventhorne/nvim-waterme) ![](https://img.shields.io/github/stars/steventhorne/nvim-waterme) ![](https://img.shields.io/github/last-commit/steventhorne/nvim-waterme) ![](https://img.shields.io/github/commit-activity/y/steventhorne/nvim-waterme)
 - [navicore/nvim-reminders](https://github.com/navicore/nvim-reminders) ![](https://img.shields.io/github/stars/navicore/nvim-reminders) ![](https://img.shields.io/github/last-commit/navicore/nvim-reminders) ![](https://img.shields.io/github/commit-activity/y/navicore/nvim-reminders)
+- [mnsdojo/drink-watah.nvim](https://github.com/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/stars/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/last-commit/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/commit-activity/y/mnsdojo/drink-watah.nvim)
 
 ## Timer
 
