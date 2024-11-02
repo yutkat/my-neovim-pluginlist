@@ -169,6 +169,7 @@
 - [wa11breaker/flutter-bloc.nvim](https://github.com/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/stars/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/last-commit/wa11breaker/flutter-bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/wa11breaker/flutter-bloc.nvim)
 - [mayorbyrne/dart-checkForSdkUpdates.nvim](https://github.com/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/stars/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/last-commit/mayorbyrne/dart-checkForSdkUpdates.nvim) ![](https://img.shields.io/github/commit-activity/y/mayorbyrne/dart-checkForSdkUpdates.nvim)
 - [Coosis/flutterhelp.nvim](https://github.com/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/stars/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/last-commit/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Coosis/flutterhelp.nvim)
+- [The-Sirius-Black/dart-spells.nvim](https://github.com/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/stars/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/last-commit/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Sirius-Black/dart-spells.nvim)
 
 ### Clojure
 
