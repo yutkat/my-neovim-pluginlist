@@ -159,6 +159,7 @@
 - [P4Cu/ctrlsf-ui.nvim](https://github.com/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/stars/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/last-commit/P4Cu/ctrlsf-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/P4Cu/ctrlsf-ui.nvim)
 - [mistweaverco/tafuta.nvim](https://github.com/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/stars/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/tafuta.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/tafuta.nvim)
 - [cristy-the-one/es.nvim](https://github.com/cristy-the-one/es.nvim) ![](https://img.shields.io/github/stars/cristy-the-one/es.nvim) ![](https://img.shields.io/github/last-commit/cristy-the-one/es.nvim) ![](https://img.shields.io/github/commit-activity/y/cristy-the-one/es.nvim)
+- [Cannafox/fox-grep.nvim](https://github.com/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/stars/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/last-commit/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannafox/fox-grep.nvim)
 
 ## AST
 
