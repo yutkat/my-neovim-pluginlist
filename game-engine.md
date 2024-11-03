@@ -7,6 +7,7 @@
   * [Unreal](#unreal)
   * [Godot](#godot)
   * [Roblox studio](#roblox-studio)
+  * [Garry's Mod](#garrys-mod)
 
 <!-- tocstop -->
 
@@ -16,6 +17,7 @@
 
 - [Lohni/unitysync.nvim](https://github.com/Lohni/unitysync.nvim) ![](https://img.shields.io/github/stars/Lohni/unitysync.nvim) ![](https://img.shields.io/github/last-commit/Lohni/unitysync.nvim) ![](https://img.shields.io/github/commit-activity/y/Lohni/unitysync.nvim)
 - [PostCyberPunk/Univim.nvim](https://github.com/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/stars/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/last-commit/PostCyberPunk/Univim.nvim) ![](https://img.shields.io/github/commit-activity/y/PostCyberPunk/Univim.nvim)
+- [nagaohiroki/unity.nvim](https://github.com/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/stars/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/last-commit/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/commit-activity/y/nagaohiroki/unity.nvim)
 
 ### Unreal
 
@@ -35,3 +37,7 @@
 ### Roblox studio
 
 - [zilibobi/luau-tree.nvim](https://github.com/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/stars/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/last-commit/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/zilibobi/luau-tree.nvim)
+
+### Garry's Mod
+
+- [wrldspawn/nvim-gmod-luadev](https://github.com/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/stars/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/last-commit/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/commit-activity/y/wrldspawn/nvim-gmod-luadev)

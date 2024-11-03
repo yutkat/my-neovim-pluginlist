@@ -15,7 +15,7 @@
   * [GoogleTest](#googletest)
   * [Stress test](#stress-test)
   * [Line count](#line-count)
-  * [Cmake](#cmake)
+  * [CMake](#cmake)
   * [CTest](#ctest)
   * [Debug](#debug)
   * [LLDB](#lldb)
@@ -107,7 +107,7 @@
 
 - [Natox10/ftcountline.nvim](https://github.com/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/stars/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/last-commit/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/commit-activity/y/Natox10/ftcountline.nvim)
 
-### Cmake
+### CMake
 
 - [Civitasv/cmake-tools.nvim](https://github.com/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/stars/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/Civitasv/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Civitasv/cmake-tools.nvim)
 - [Cartogy/nvim-cdbg](https://github.com/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/stars/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/last-commit/Cartogy/nvim-cdbg) ![](https://img.shields.io/github/commit-activity/y/Cartogy/nvim-cdbg)
@@ -118,6 +118,7 @@
 - [gergol/cmake-debugger.nvim](https://github.com/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/stars/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/last-commit/gergol/cmake-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/gergol/cmake-debugger.nvim)
 - [cyuria/build.nvim](https://github.com/cyuria/build.nvim) ![](https://img.shields.io/github/stars/cyuria/build.nvim) ![](https://img.shields.io/github/last-commit/cyuria/build.nvim) ![](https://img.shields.io/github/commit-activity/y/cyuria/build.nvim)
 - [daniilrozanov/cmake.nvim](https://github.com/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/stars/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/last-commit/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/daniilrozanov/cmake.nvim)
+- [marc0x71/cmake-simple.nvim](https://github.com/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/stars/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/cmake-simple.nvim)
 
 ### CTest
 

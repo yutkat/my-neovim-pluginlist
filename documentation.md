@@ -358,6 +358,7 @@
 - [lentilus/fastex.nvim](https://github.com/lentilus/fastex.nvim) ![](https://img.shields.io/github/stars/lentilus/fastex.nvim) ![](https://img.shields.io/github/last-commit/lentilus/fastex.nvim) ![](https://img.shields.io/github/commit-activity/y/lentilus/fastex.nvim)
 - [Matze-isses/latex-writer.nvim](https://github.com/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/stars/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/last-commit/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/Matze-isses/latex-writer.nvim)
 - [frvnzj/xJUSTEXx.nvim](https://github.com/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/stars/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/last-commit/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/commit-activity/y/frvnzj/xJUSTEXx.nvim)
+- [dirichy/nvimtex.nvim](https://github.com/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/stars/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/last-commit/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/nvimtex.nvim)
 
 #### Preview
 
