@@ -43,6 +43,7 @@
 - [mgnsk/dumb-autopairs.nvim](https://github.com/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/stars/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/last-commit/mgnsk/dumb-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/mgnsk/dumb-autopairs.nvim)
 - [Chattille/pairs.nvim](https://github.com/Chattille/pairs.nvim) ![](https://img.shields.io/github/stars/Chattille/pairs.nvim) ![](https://img.shields.io/github/last-commit/Chattille/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Chattille/pairs.nvim)
 - [cjcarrick/pairs.nvim](https://github.com/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/stars/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/last-commit/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/cjcarrick/pairs.nvim)
+- [GabrielNatucci/wrapwords.nvim](https://github.com/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/stars/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/last-commit/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/commit-activity/y/GabrielNatucci/wrapwords.nvim)
 
 ### escape pairs
 

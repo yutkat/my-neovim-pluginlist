@@ -73,6 +73,7 @@
 - [SamuelLorrain/focus.nvim](https://github.com/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/stars/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/last-commit/SamuelLorrain/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/SamuelLorrain/focus.nvim)
 - [fasterius/simple-zoom.nvim](https://github.com/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/stars/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/last-commit/fasterius/simple-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/simple-zoom.nvim)
 - [irohn/focus.nvim](https://github.com/irohn/focus.nvim) ![](https://img.shields.io/github/stars/irohn/focus.nvim) ![](https://img.shields.io/github/last-commit/irohn/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/focus.nvim)
+- [cdmill/focus.nvim](https://github.com/cdmill/focus.nvim) ![](https://img.shields.io/github/stars/cdmill/focus.nvim) ![](https://img.shields.io/github/last-commit/cdmill/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/focus.nvim)
 
 ## Random Selection
 
