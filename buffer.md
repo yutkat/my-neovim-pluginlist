@@ -62,7 +62,6 @@
 - [johanneswolfgruber/switcher.nvim](https://github.com/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/stars/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/last-commit/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/johanneswolfgruber/switcher.nvim)
 - [flavray/bufferlist.nvim](https://github.com/flavray/bufferlist.nvim) ![](https://img.shields.io/github/stars/flavray/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/flavray/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/flavray/bufferlist.nvim)
 - [dzfrias/arena.nvim](https://github.com/dzfrias/arena.nvim) ![](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/arena.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/arena.nvim)
-- [behaviorism/ido.nvim](https://github.com/behaviorism/ido.nvim) ![](https://img.shields.io/github/stars/behaviorism/ido.nvim) ![](https://img.shields.io/github/last-commit/behaviorism/ido.nvim) ![](https://img.shields.io/github/commit-activity/y/behaviorism/ido.nvim)
 
 ### Other Buffer Switcher
 
