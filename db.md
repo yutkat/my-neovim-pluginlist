@@ -5,6 +5,7 @@
 - [Database](#database)
   * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+  * [SQLite](#sqlite)
   * [MongoDB](#mongodb)
   * [SurrealDB](#surrealdb)
 
@@ -39,6 +40,10 @@
 - [njaczko/nvim-psql](https://github.com/njaczko/nvim-psql) ![](https://img.shields.io/github/stars/njaczko/nvim-psql) ![](https://img.shields.io/github/last-commit/njaczko/nvim-psql) ![](https://img.shields.io/github/commit-activity/y/njaczko/nvim-psql)
 - [evanrichards/maitre-psql.nvim](https://github.com/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/stars/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/last-commit/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/commit-activity/y/evanrichards/maitre-psql.nvim)
 - [bpanahij/postgresql.nvim](https://github.com/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/stars/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/last-commit/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/commit-activity/y/bpanahij/postgresql.nvim)
+
+### SQLite
+
+- [andrenaP/nvim-sql-completion](https://github.com/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/stars/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/last-commit/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/commit-activity/y/andrenaP/nvim-sql-completion)
 
 ### MongoDB
 

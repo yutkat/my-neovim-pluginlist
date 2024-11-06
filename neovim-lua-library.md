@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Table](#table)
+- [Key-Value Storage](#key-value-storage)
 - [Class](#class)
 - [Log](#log)
 - [async](#async)
@@ -58,6 +59,10 @@
 ## Table
 
 - [darksinge/neodash.nvim](https://github.com/darksinge/neodash.nvim) ![](https://img.shields.io/github/stars/darksinge/neodash.nvim) ![](https://img.shields.io/github/last-commit/darksinge/neodash.nvim) ![](https://img.shields.io/github/commit-activity/y/darksinge/neodash.nvim)
+
+## Key-Value Storage
+
+- [willothy/durable.nvim](https://github.com/willothy/durable.nvim) ![](https://img.shields.io/github/stars/willothy/durable.nvim) ![](https://img.shields.io/github/last-commit/willothy/durable.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/durable.nvim)
 
 ## Class
 
