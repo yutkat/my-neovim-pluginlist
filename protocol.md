@@ -72,4 +72,3 @@
 
 ### HL7
 
-- [hamaluik/hl7-hud.nvim](https://github.com/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/stars/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/last-commit/hamaluik/hl7-hud.nvim) ![](https://img.shields.io/github/commit-activity/y/hamaluik/hl7-hud.nvim)
