@@ -35,6 +35,7 @@
 - [Command](#command)
   * [Disable/Enable](#disableenable)
   * [Handler](#handler)
+  * [Language server](#language-server)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
 
@@ -275,6 +276,10 @@
 
 - [notomo/lsp-handler-intercept.nvim](https://github.com/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/stars/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/last-commit/notomo/lsp-handler-intercept.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/lsp-handler-intercept.nvim)
 - [IrisRainbow7/telescope-lsp-server-capabilities.nvim](https://github.com/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/stars/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/last-commit/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/commit-activity/y/IrisRainbow7/telescope-lsp-server-capabilities.nvim)
+
+### Language server
+
+- [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 
 ## Pre-configuration
 
