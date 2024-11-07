@@ -34,7 +34,6 @@
 - [aattoa/nvim-simple-snippets](https://github.com/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/stars/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/last-commit/aattoa/nvim-simple-snippets) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-simple-snippets)
 - [pik4li/telesnip.nvim](https://github.com/pik4li/telesnip.nvim) ![](https://img.shields.io/github/stars/pik4li/telesnip.nvim) ![](https://img.shields.io/github/last-commit/pik4li/telesnip.nvim) ![](https://img.shields.io/github/commit-activity/y/pik4li/telesnip.nvim)
 - [ndelucca/chunks.nvim](https://github.com/ndelucca/chunks.nvim) ![](https://img.shields.io/github/stars/ndelucca/chunks.nvim) ![](https://img.shields.io/github/last-commit/ndelucca/chunks.nvim) ![](https://img.shields.io/github/commit-activity/y/ndelucca/chunks.nvim)
-- [Kibadda/snippets.nvim](https://github.com/Kibadda/snippets.nvim) ![](https://img.shields.io/github/stars/Kibadda/snippets.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/snippets.nvim)
 
 #### Snippet definitions
 
