@@ -7,6 +7,7 @@
   * [Mapping stat](#mapping-stat)
   * [Typing speed](#typing-speed)
   * [Operation Log](#operation-log)
+  * [Clockify](#clockify)
   * [Performance Test](#performance-test)
 - [Neovim Profiler](#neovim-profiler)
 
@@ -55,6 +56,10 @@
 
 - [icholy/keylog.nvim](https://github.com/icholy/keylog.nvim) ![](https://img.shields.io/github/stars/icholy/keylog.nvim) ![](https://img.shields.io/github/last-commit/icholy/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/icholy/keylog.nvim)
 - [glottologist/keylog.nvim](https://github.com/glottologist/keylog.nvim) ![](https://img.shields.io/github/stars/glottologist/keylog.nvim) ![](https://img.shields.io/github/last-commit/glottologist/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/glottologist/keylog.nvim)
+
+### Clockify
+
+- [felipejoribeiro/clockify.nvim](https://github.com/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/clockify.nvim)
 
 ### Performance Test
 
