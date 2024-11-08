@@ -72,6 +72,7 @@
 - [mistweaverco/discord.nvim](https://github.com/mistweaverco/discord.nvim) ![](https://img.shields.io/github/stars/mistweaverco/discord.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/discord.nvim)
 - [EpicBirb/discord.nvim](https://github.com/EpicBirb/discord.nvim) ![](https://img.shields.io/github/stars/EpicBirb/discord.nvim) ![](https://img.shields.io/github/last-commit/EpicBirb/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/EpicBirb/discord.nvim)
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) ![](https://img.shields.io/github/stars/IogaMaster/neocord) ![](https://img.shields.io/github/last-commit/IogaMaster/neocord) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/neocord)
+- [snooting/sotd.nvim](https://github.com/snooting/sotd.nvim) ![](https://img.shields.io/github/stars/snooting/sotd.nvim) ![](https://img.shields.io/github/last-commit/snooting/sotd.nvim) ![](https://img.shields.io/github/commit-activity/y/snooting/sotd.nvim)
 
 #### Slack
 

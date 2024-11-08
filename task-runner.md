@@ -41,6 +41,7 @@
 - [NycRat/maker.nvim](https://github.com/NycRat/maker.nvim) ![](https://img.shields.io/github/stars/NycRat/maker.nvim) ![](https://img.shields.io/github/last-commit/NycRat/maker.nvim) ![](https://img.shields.io/github/commit-activity/y/NycRat/maker.nvim)
 - [Seba244c/run.nvim](https://github.com/Seba244c/run.nvim) ![](https://img.shields.io/github/stars/Seba244c/run.nvim) ![](https://img.shields.io/github/last-commit/Seba244c/run.nvim) ![](https://img.shields.io/github/commit-activity/y/Seba244c/run.nvim)
 - [Beloin/Launch.nvim](https://github.com/Beloin/Launch.nvim) ![](https://img.shields.io/github/stars/Beloin/Launch.nvim) ![](https://img.shields.io/github/last-commit/Beloin/Launch.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/Launch.nvim)
+- [H4-MM-3R/recon.nvim](https://github.com/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/stars/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/last-commit/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/commit-activity/y/H4-MM-3R/recon.nvim)
 
 ### YAML
 

@@ -33,6 +33,7 @@
 ### REPL
 
 - [YaroSpace/lua-console.nvim](https://github.com/YaroSpace/lua-console.nvim) ![](https://img.shields.io/github/stars/YaroSpace/lua-console.nvim) ![](https://img.shields.io/github/last-commit/YaroSpace/lua-console.nvim) ![](https://img.shields.io/github/commit-activity/y/YaroSpace/lua-console.nvim)
+- [zeiran/nvim-launchpad](https://github.com/zeiran/nvim-launchpad) ![](https://img.shields.io/github/stars/zeiran/nvim-launchpad) ![](https://img.shields.io/github/last-commit/zeiran/nvim-launchpad) ![](https://img.shields.io/github/commit-activity/y/zeiran/nvim-launchpad)
 
 ### Stylua
 
