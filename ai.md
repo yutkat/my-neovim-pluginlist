@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [AI Coding](#ai-coding)
-  * [OpenAI](#openai)
+  * [OpenAI(ChatGPT)](#openaichatgpt)
     + [log](#log)
   * [Gemini](#gemini)
   * [Multi LLM](#multi-llm)
@@ -45,7 +45,7 @@
 
 ## AI Coding
 
-### OpenAI
+### OpenAI(ChatGPT)
 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/stars/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/last-commit/jackMort/ChatGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/ChatGPT.nvim)
 - [aduros/ai.vim](https://github.com/aduros/ai.vim) ![](https://img.shields.io/github/stars/aduros/ai.vim) ![](https://img.shields.io/github/last-commit/aduros/ai.vim) ![](https://img.shields.io/github/commit-activity/y/aduros/ai.vim)
@@ -93,6 +93,7 @@
 - [Luke-Doms/oracle.nvim](https://github.com/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/stars/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/last-commit/Luke-Doms/oracle.nvim) ![](https://img.shields.io/github/commit-activity/y/Luke-Doms/oracle.nvim)
 - [webpolis/wingman.nvim](https://github.com/webpolis/wingman.nvim) ![](https://img.shields.io/github/stars/webpolis/wingman.nvim) ![](https://img.shields.io/github/last-commit/webpolis/wingman.nvim) ![](https://img.shields.io/github/commit-activity/y/webpolis/wingman.nvim)
 - [justinhj/chatty-ai-service-openai.nvim](https://github.com/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-openai.nvim)
+- [vutlhari/zenpai.nvim](https://github.com/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/stars/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/last-commit/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/commit-activity/y/vutlhari/zenpai.nvim)
 
 #### log
 
@@ -125,6 +126,7 @@
   - [undg/telescope-gp-agent-picker.nvim](https://github.com/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/stars/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/undg/telescope-gp-agent-picker.nvim)
 - [huangyingw/avante.nvim](https://github.com/huangyingw/avante.nvim) ![](https://img.shields.io/github/stars/huangyingw/avante.nvim) ![](https://img.shields.io/github/last-commit/huangyingw/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/huangyingw/avante.nvim)
 - [guerrerojuli/coder.nvim](https://github.com/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/stars/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/last-commit/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/guerrerojuli/coder.nvim)
+- [uanandaraja/nvim-llm.nvim](https://github.com/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/stars/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/last-commit/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/uanandaraja/nvim-llm.nvim)
 
 #### Generate Doc
 
