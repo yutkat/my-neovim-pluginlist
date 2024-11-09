@@ -65,6 +65,7 @@
 - [jyscao/ventana.nvim](https://github.com/jyscao/ventana.nvim) ![](https://img.shields.io/github/stars/jyscao/ventana.nvim) ![](https://img.shields.io/github/last-commit/jyscao/ventana.nvim) ![](https://img.shields.io/github/commit-activity/y/jyscao/ventana.nvim)
 - [distek/panel.nvim](https://github.com/distek/panel.nvim) ![](https://img.shields.io/github/stars/distek/panel.nvim) ![](https://img.shields.io/github/last-commit/distek/panel.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/panel.nvim)
 - [hek14/layman.nvim](https://github.com/hek14/layman.nvim) ![](https://img.shields.io/github/stars/hek14/layman.nvim) ![](https://img.shields.io/github/last-commit/hek14/layman.nvim) ![](https://img.shields.io/github/commit-activity/y/hek14/layman.nvim)
+- [DrKGD/pragma.nvim](https://github.com/DrKGD/pragma.nvim) ![](https://img.shields.io/github/stars/DrKGD/pragma.nvim) ![](https://img.shields.io/github/last-commit/DrKGD/pragma.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKGD/pragma.nvim)
 
 #### keep window
 
