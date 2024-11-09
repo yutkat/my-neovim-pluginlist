@@ -21,6 +21,7 @@
   * [buffer Sharing](#buffer-sharing)
   * [Move history](#move-history)
   * [refresh](#refresh)
+  * [Buffer info](#buffer-info)
 
 <!-- tocstop -->
 
@@ -219,4 +220,8 @@
 ### refresh
 
 - [jkallio/auto-refresh-messages.nvim](https://github.com/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/stars/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/last-commit/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/jkallio/auto-refresh-messages.nvim)
+
+### Buffer info
+
+- [addisonbeck/where-am-i.nvim](https://github.com/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/stars/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/last-commit/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/commit-activity/y/addisonbeck/where-am-i.nvim)
 
