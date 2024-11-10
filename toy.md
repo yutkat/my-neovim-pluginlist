@@ -87,6 +87,7 @@
 - [FireIsGood/pond.nvim](https://github.com/FireIsGood/pond.nvim) ![](https://img.shields.io/github/stars/FireIsGood/pond.nvim) ![](https://img.shields.io/github/last-commit/FireIsGood/pond.nvim) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/pond.nvim)
 - [ikouchiha47/games.nvim](https://github.com/ikouchiha47/games.nvim) ![](https://img.shields.io/github/stars/ikouchiha47/games.nvim) ![](https://img.shields.io/github/last-commit/ikouchiha47/games.nvim) ![](https://img.shields.io/github/commit-activity/y/ikouchiha47/games.nvim)
 - [Facel3ss1/subway-surfers.nvim](https://github.com/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/stars/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/last-commit/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/commit-activity/y/Facel3ss1/subway-surfers.nvim)
+- [thejezzi/conway.nvim](https://github.com/thejezzi/conway.nvim) ![](https://img.shields.io/github/stars/thejezzi/conway.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/conway.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/conway.nvim)
 
 ### Tetris
 

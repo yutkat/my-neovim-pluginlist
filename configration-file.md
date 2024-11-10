@@ -14,6 +14,7 @@
   * [Jenkins](#jenkins)
   * [Cron](#cron)
   * [Drools Rule Language](#drools-rule-language)
+  * [Log](#log)
 
 <!-- tocstop -->
 
@@ -95,3 +96,8 @@
 ### Drools Rule Language
 
 - [errantepiphany/drools.nvim](https://github.com/errantepiphany/drools.nvim) ![](https://img.shields.io/github/stars/errantepiphany/drools.nvim) ![](https://img.shields.io/github/last-commit/errantepiphany/drools.nvim) ![](https://img.shields.io/github/commit-activity/y/errantepiphany/drools.nvim)
+
+### Log
+
+- [saneDG/beaver.nvim](https://github.com/saneDG/beaver.nvim) ![](https://img.shields.io/github/stars/saneDG/beaver.nvim) ![](https://img.shields.io/github/last-commit/saneDG/beaver.nvim) ![](https://img.shields.io/github/commit-activity/y/saneDG/beaver.nvim)
+
