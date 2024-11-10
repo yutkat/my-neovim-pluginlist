@@ -45,6 +45,7 @@
 - [Rics-Dev/project-explorer.nvim](https://github.com/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/stars/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/last-commit/Rics-Dev/project-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Rics-Dev/project-explorer.nvim)
 - [haaag/projects.nvim](https://github.com/haaag/projects.nvim) ![](https://img.shields.io/github/stars/haaag/projects.nvim) ![](https://img.shields.io/github/last-commit/haaag/projects.nvim) ![](https://img.shields.io/github/commit-activity/y/haaag/projects.nvim)
 - [jamesespericueta/nvim-proman](https://github.com/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/stars/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/last-commit/jamesespericueta/nvim-proman) ![](https://img.shields.io/github/commit-activity/y/jamesespericueta/nvim-proman)
+- [doter0/workflow.nvim](https://github.com/doter0/workflow.nvim) ![](https://img.shields.io/github/stars/doter0/workflow.nvim) ![](https://img.shields.io/github/last-commit/doter0/workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/doter0/workflow.nvim)
 
 #### Project Root Detector
 

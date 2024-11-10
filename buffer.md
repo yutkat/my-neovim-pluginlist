@@ -84,6 +84,7 @@
 - [Julian/runt.nvim](https://github.com/Julian/runt.nvim) ![](https://img.shields.io/github/stars/Julian/runt.nvim) ![](https://img.shields.io/github/last-commit/Julian/runt.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/runt.nvim)
 - [ruhendrawan/same-folder-file-cycle.nvim](https://github.com/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/stars/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/last-commit/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/ruhendrawan/same-folder-file-cycle.nvim)
 - [eulegang/testswitch.nvim](https://github.com/eulegang/testswitch.nvim) ![](https://img.shields.io/github/stars/eulegang/testswitch.nvim) ![](https://img.shields.io/github/last-commit/eulegang/testswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/eulegang/testswitch.nvim)
+- [tobyond/turnips.nvim](https://github.com/tobyond/turnips.nvim) ![](https://img.shields.io/github/stars/tobyond/turnips.nvim) ![](https://img.shields.io/github/last-commit/tobyond/turnips.nvim) ![](https://img.shields.io/github/commit-activity/y/tobyond/turnips.nvim)
 
 ### Buffer Management
 

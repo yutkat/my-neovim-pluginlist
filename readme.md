@@ -313,6 +313,7 @@
 
 - [LunarVim/bigfile.nvim](https://github.com/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/stars/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/bigfile.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/bigfile.nvim)
 - [pteroctopus/faster.nvim](https://github.com/pteroctopus/faster.nvim) ![](https://img.shields.io/github/stars/pteroctopus/faster.nvim) ![](https://img.shields.io/github/last-commit/pteroctopus/faster.nvim) ![](https://img.shields.io/github/commit-activity/y/pteroctopus/faster.nvim)
+- [mei28/BigSheetGardna.nvim](https://github.com/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/stars/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/last-commit/mei28/BigSheetGardna.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/BigSheetGardna.nvim)
 
 ### Misc
 
