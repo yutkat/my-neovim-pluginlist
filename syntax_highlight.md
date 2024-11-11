@@ -170,6 +170,7 @@
 - [sontungexpt/stcursorword](https://github.com/sontungexpt/stcursorword) ![](https://img.shields.io/github/stars/sontungexpt/stcursorword) ![](https://img.shields.io/github/last-commit/sontungexpt/stcursorword) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/stcursorword)
 - [mei28/blink-bang-word-light.nvim](https://github.com/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/stars/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/last-commit/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/blink-bang-word-light.nvim)
 - [EmilOhlsson/highlighter.nvim](https://github.com/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/highlighter.nvim)
+- [utubo/hlpairs.nvim](https://github.com/utubo/hlpairs.nvim) ![](https://img.shields.io/github/stars/utubo/hlpairs.nvim) ![](https://img.shields.io/github/last-commit/utubo/hlpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/utubo/hlpairs.nvim)
 
 ### Current block highlight
 

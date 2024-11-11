@@ -28,6 +28,7 @@
   * [Spinner](#spinner)
 - [Error handling](#error-handling)
 - [Assert](#assert)
+- [Range](#range)
 - [Time](#time)
 - [UUID](#uuid)
 - [Net](#net)
@@ -197,6 +198,10 @@
 ## Assert
 
 - [notomo/assertlib.nvim](https://github.com/notomo/assertlib.nvim) ![](https://img.shields.io/github/stars/notomo/assertlib.nvim) ![](https://img.shields.io/github/last-commit/notomo/assertlib.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/assertlib.nvim)
+
+## Range
+
+- [jrop/u.nvim](https://github.com/jrop/u.nvim) ![](https://img.shields.io/github/stars/jrop/u.nvim) ![](https://img.shields.io/github/last-commit/jrop/u.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/u.nvim)
 
 ## Time
 

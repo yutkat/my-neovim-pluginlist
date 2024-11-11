@@ -52,6 +52,7 @@
 ##### gnome
 
 - [willmcpherson2/gnome.nvim](https://github.com/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/stars/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/last-commit/willmcpherson2/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/willmcpherson2/gnome.nvim)
+- [luckasRanarison/gnome.nvim](https://github.com/luckasRanarison/gnome.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/gnome.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/gnome.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/gnome.nvim)
 
 ##### Hyprland
 
