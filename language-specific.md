@@ -78,6 +78,7 @@
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
+    + [OZ](#oz)
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
@@ -438,6 +439,10 @@
 ### Moonbit
 
 - [tonyfettes/moonbit.nvim](https://github.com/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/stars/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/moonbit.nvim)
+
+### OZ
+
+- [luxluth/oz.nvim](https://github.com/luxluth/oz.nvim) ![](https://img.shields.io/github/stars/luxluth/oz.nvim) ![](https://img.shields.io/github/last-commit/luxluth/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/luxluth/oz.nvim)
 
 ### Unison
 
