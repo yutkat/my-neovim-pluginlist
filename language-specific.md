@@ -172,6 +172,7 @@
 - [Coosis/flutterhelp.nvim](https://github.com/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/stars/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/last-commit/Coosis/flutterhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Coosis/flutterhelp.nvim)
 - [The-Sirius-Black/dart-spells.nvim](https://github.com/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/stars/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/last-commit/The-Sirius-Black/dart-spells.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Sirius-Black/dart-spells.nvim)
 - [IniyanKanmani/dart-snippets.nvim](https://github.com/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/dart-snippets.nvim)
+- [rithikjain/flutter-launch.nvim](https://github.com/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/stars/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/last-commit/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/commit-activity/y/rithikjain/flutter-launch.nvim)
 
 ### Clojure
 

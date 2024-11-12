@@ -29,6 +29,7 @@
     + [npm](#npm)
     + [pnpm](#pnpm)
     + [Biome](#biome)
+    + [Vite](#vite)
     + [Playground](#playground)
   * [refactor](#refactor)
 - [HTML](#html)
@@ -193,6 +194,10 @@
 - [ryoppippi/nvim-pnpm-catalog-lens](https://github.com/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/stars/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-pnpm-catalog-lens)
 
 #### Biome
+
+#### Vite
+
+- [bassamsdata/vite.nvim](https://github.com/bassamsdata/vite.nvim) ![](https://img.shields.io/github/stars/bassamsdata/vite.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/vite.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/vite.nvim)
 
 #### Playground
 

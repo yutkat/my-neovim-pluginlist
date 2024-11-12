@@ -108,6 +108,7 @@
 ## git clone
 
 - [Danielhp95/tmpclone-nvim](https://github.com/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/stars/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/last-commit/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/commit-activity/y/Danielhp95/tmpclone-nvim)
+- [onexbash/origin.nvim](https://github.com/onexbash/origin.nvim) ![](https://img.shields.io/github/stars/onexbash/origin.nvim) ![](https://img.shields.io/github/last-commit/onexbash/origin.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/origin.nvim)
 
 ## git status
 
