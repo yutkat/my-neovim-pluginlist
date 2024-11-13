@@ -69,7 +69,7 @@
 - [atusy/mickeymotion.nvim](https://github.com/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/stars/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/last-commit/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/mickeymotion.nvim)
 - [rasulomaroff/telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/stars/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/last-commit/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/commit-activity/y/rasulomaroff/telepath.nvim)
 - [Ausgefuchster/quickselect.nvim](https://github.com/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/stars/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/last-commit/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausgefuchster/quickselect.nvim)
-- [franespeche/teleport.nvim/](https://github.com/franespeche/teleport.nvim/) ![](https://img.shields.io/github/stars/franespeche/teleport.nvim/) ![](https://img.shields.io/github/last-commit/franespeche/teleport.nvim/) ![](https://img.shields.io/github/commit-activity/y/franespeche/teleport.nvim/)
+- [franespeche/teleport.nvi](https://github.com/franespeche/teleport.nvi) ![](https://img.shields.io/github/stars/franespeche/teleport.nvi) ![](https://img.shields.io/github/last-commit/franespeche/teleport.nvi) ![](https://img.shields.io/github/commit-activity/y/franespeche/teleport.nvi)
 
 ### Horizontal Move
 
