@@ -40,6 +40,7 @@
   * [cheat.sh](#cheatsh)
   * [dotfiles](#dotfiles)
     + [chezmoi](#chezmoi)
+    + [stow](#stow)
     + [vcsh](#vcsh)
     + [yadm](#yadm)
   * [age](#age)
@@ -292,6 +293,10 @@
 - [xvzc/chezmoi.nvim](https://github.com/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/stars/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/last-commit/xvzc/chezmoi.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/chezmoi.nvim)
 - [GianniBYoung/chezmoi-telescope.nvim](https://github.com/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/stars/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/last-commit/GianniBYoung/chezmoi-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/GianniBYoung/chezmoi-telescope.nvim)
 - [andre-kotake/nvim-chezmoi](https://github.com/andre-kotake/nvim-chezmoi) ![](https://img.shields.io/github/stars/andre-kotake/nvim-chezmoi) ![](https://img.shields.io/github/last-commit/andre-kotake/nvim-chezmoi) ![](https://img.shields.io/github/commit-activity/y/andre-kotake/nvim-chezmoi)
+
+##### stow
+
+- [stephansama/stow.nvim](https://github.com/stephansama/stow.nvim) ![](https://img.shields.io/github/stars/stephansama/stow.nvim) ![](https://img.shields.io/github/last-commit/stephansama/stow.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/stow.nvim)
 
 ##### vcsh
 
