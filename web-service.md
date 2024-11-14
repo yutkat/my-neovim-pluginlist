@@ -74,6 +74,7 @@
 - [IogaMaster/neocord](https://github.com/IogaMaster/neocord) ![](https://img.shields.io/github/stars/IogaMaster/neocord) ![](https://img.shields.io/github/last-commit/IogaMaster/neocord) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/neocord)
 - [snooting/sotd.nvim](https://github.com/snooting/sotd.nvim) ![](https://img.shields.io/github/stars/snooting/sotd.nvim) ![](https://img.shields.io/github/last-commit/snooting/sotd.nvim) ![](https://img.shields.io/github/commit-activity/y/snooting/sotd.nvim)
 - [osteensco/discordStatus.nvim](https://github.com/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/stars/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/last-commit/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/commit-activity/y/osteensco/discordStatus.nvim)
+- [lipeedev/termuxcord.nvim](https://github.com/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/stars/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/last-commit/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/commit-activity/y/lipeedev/termuxcord.nvim)
 
 #### Slack
 
