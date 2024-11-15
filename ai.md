@@ -30,6 +30,7 @@
   * [lsp-ai](#lsp-ai)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
+  * [khulnasoft](#khulnasoft)
 - [AI Completion](#ai-completion)
   * [Copilot](#copilot)
 - [Chat](#chat)
@@ -257,6 +258,10 @@
 ### Fitten Code
 
 - [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/stars/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/fittencode.nvim)
+
+### khulnasoft
+
+- [khulnasoft/khulnasoft.nvim](https://github.com/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/stars/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/last-commit/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/commit-activity/y/khulnasoft/khulnasoft.nvim)
 
 ## AI Completion
 
