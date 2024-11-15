@@ -30,6 +30,5 @@
 ### Minimap
 
 - [gorbit99/codewindow.nvim](https://github.com/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/stars/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/last-commit/gorbit99/codewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/gorbit99/codewindow.nvim)
-- [ziontee113/neo-minimap](https://github.com/ziontee113/neo-minimap) ![](https://img.shields.io/github/stars/ziontee113/neo-minimap) ![](https://img.shields.io/github/last-commit/ziontee113/neo-minimap) ![](https://img.shields.io/github/commit-activity/y/ziontee113/neo-minimap)
 - [echasnovski/mini.map](https://github.com/echasnovski/mini.map) ![](https://img.shields.io/github/stars/echasnovski/mini.map) ![](https://img.shields.io/github/last-commit/echasnovski/mini.map) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.map)
 - [Isrothy/neominimap.nvim](https://github.com/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/stars/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/last-commit/Isrothy/neominimap.nvim) ![](https://img.shields.io/github/commit-activity/y/Isrothy/neominimap.nvim)
