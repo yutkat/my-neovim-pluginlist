@@ -239,6 +239,7 @@
 - [otavioschwanck/markdown-todo.nvim](https://github.com/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/markdown-todo.nvim)
 - [epilande/checkbox-cycle.nvim](https://github.com/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/stars/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/last-commit/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/epilande/checkbox-cycle.nvim)
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
+- [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
 
 #### Markdown list
 

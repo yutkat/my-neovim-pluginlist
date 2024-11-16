@@ -59,6 +59,7 @@
 - [pacidic/bufcycle.nvim](https://github.com/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/stars/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/last-commit/pacidic/bufcycle.nvim) ![](https://img.shields.io/github/commit-activity/y/pacidic/bufcycle.nvim)
 - [mong8se/buffish.nvim](https://github.com/mong8se/buffish.nvim) ![](https://img.shields.io/github/stars/mong8se/buffish.nvim) ![](https://img.shields.io/github/last-commit/mong8se/buffish.nvim) ![](https://img.shields.io/github/commit-activity/y/mong8se/buffish.nvim)
 - [leath-dub/snipe.nvim](https://github.com/leath-dub/snipe.nvim) ![](https://img.shields.io/github/stars/leath-dub/snipe.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/snipe.nvim)
+  - [kungfusheep/snipe-lsp.nvim](https://github.com/kungfusheep/snipe-lsp.nvim) ![](https://img.shields.io/github/stars/kungfusheep/snipe-lsp.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/snipe-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/snipe-lsp.nvim)
 - [kutiny/buff.nvim](https://github.com/kutiny/buff.nvim) ![](https://img.shields.io/github/stars/kutiny/buff.nvim) ![](https://img.shields.io/github/last-commit/kutiny/buff.nvim) ![](https://img.shields.io/github/commit-activity/y/kutiny/buff.nvim)
 - [johanneswolfgruber/switcher.nvim](https://github.com/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/stars/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/last-commit/johanneswolfgruber/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/johanneswolfgruber/switcher.nvim)
 - [flavray/bufferlist.nvim](https://github.com/flavray/bufferlist.nvim) ![](https://img.shields.io/github/stars/flavray/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/flavray/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/flavray/bufferlist.nvim)
@@ -136,6 +137,7 @@
 - [tomimara52/nvim-bufbox](https://github.com/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/stars/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/last-commit/tomimara52/nvim-bufbox) ![](https://img.shields.io/github/commit-activity/y/tomimara52/nvim-bufbox)
 - [iamyoki/buffer-reopen.nvim](https://github.com/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/stars/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/last-commit/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/commit-activity/y/iamyoki/buffer-reopen.nvim)
 - [ThanhKhoaIT/moiday.nvim](https://github.com/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/stars/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/last-commit/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/commit-activity/y/ThanhKhoaIT/moiday.nvim)
+- [wd60622/go-to.nvim](https://github.com/wd60622/go-to.nvim) ![](https://img.shields.io/github/stars/wd60622/go-to.nvim) ![](https://img.shields.io/github/last-commit/wd60622/go-to.nvim) ![](https://img.shields.io/github/commit-activity/y/wd60622/go-to.nvim)
 
 ##### remote open
 

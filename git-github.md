@@ -218,6 +218,7 @@
 - [leonnelc/git_diff.nvim](https://github.com/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/stars/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/last-commit/leonnelc/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/leonnelc/git_diff.nvim)
 - [JefferyBoy/git_diff.nvim](https://github.com/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/git_diff.nvim)
 - [Chen-Yulin/ColorfulDiff.nvim](https://github.com/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/stars/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/last-commit/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Chen-Yulin/ColorfulDiff.nvim)
+- [jecaro/fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/stars/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/last-commit/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/commit-activity/y/jecaro/fugitive-difftool.nvim)
 
 ### image diff
 
