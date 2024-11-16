@@ -22,6 +22,7 @@
   * [Mentat](#mentat)
   * [Worker AI](#worker-ai)
   * [Codeium](#codeium)
+  * [Groq](#groq)
   * [Gen42 AI](#gen42-ai)
   * [FastGPT Kagi](#fastgpt-kagi)
   * [Codegeex](#codegeex)
@@ -225,6 +226,10 @@
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
+
+### Groq
+
+- [Vinni-Cedraz/groq-chat.nvim](https://github.com/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/stars/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/last-commit/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Vinni-Cedraz/groq-chat.nvim)
 
 ### Gen42 AI
 

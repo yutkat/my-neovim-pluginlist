@@ -94,6 +94,7 @@
 
 - [Feferoni/build-system.nvim](https://github.com/Feferoni/build-system.nvim) ![](https://img.shields.io/github/stars/Feferoni/build-system.nvim) ![](https://img.shields.io/github/last-commit/Feferoni/build-system.nvim) ![](https://img.shields.io/github/commit-activity/y/Feferoni/build-system.nvim)
 - [PJMessi/maked.nvim](https://github.com/PJMessi/maked.nvim) ![](https://img.shields.io/github/stars/PJMessi/maked.nvim) ![](https://img.shields.io/github/last-commit/PJMessi/maked.nvim) ![](https://img.shields.io/github/commit-activity/y/PJMessi/maked.nvim)
+- [danielyaba/makefile.nvim](https://github.com/danielyaba/makefile.nvim) ![](https://img.shields.io/github/stars/danielyaba/makefile.nvim) ![](https://img.shields.io/github/last-commit/danielyaba/makefile.nvim) ![](https://img.shields.io/github/commit-activity/y/danielyaba/makefile.nvim)
 
 ### GoogleTest
 
