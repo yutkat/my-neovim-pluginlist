@@ -40,6 +40,7 @@
     + [Kafka](#kafka)
     + [Dataform](#dataform)
     + [Nginx](#nginx)
+    + [OpenFGA](#openfga)
   * [Cloud](#cloud)
     + [Terraform](#terraform)
       - [atmos](#atmos)
@@ -85,6 +86,7 @@
 - [ridulfo/browse.nvim](https://github.com/ridulfo/browse.nvim) ![](https://img.shields.io/github/stars/ridulfo/browse.nvim) ![](https://img.shields.io/github/last-commit/ridulfo/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/ridulfo/browse.nvim)
 - [Aliqyan-21/wit.nvim](https://github.com/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/wit.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/wit.nvim)
 - [neovim-plugin/browse.nvim](https://github.com/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/browse.nvim)
+- [LampsaDev/HAE.nvim](https://github.com/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/stars/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/last-commit/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/commit-activity/y/LampsaDev/HAE.nvim)
 
 #### url open
 
@@ -242,6 +244,10 @@
 #### Nginx
 
 - [dlvandenberg/nvim-treesitter-nginx](https://github.com/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/stars/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/last-commit/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/commit-activity/y/dlvandenberg/nvim-treesitter-nginx)
+
+#### OpenFGA
+
+- [hedengran/fga.nvim](https://github.com/hedengran/fga.nvim) ![](https://img.shields.io/github/stars/hedengran/fga.nvim) ![](https://img.shields.io/github/last-commit/hedengran/fga.nvim) ![](https://img.shields.io/github/commit-activity/y/hedengran/fga.nvim)
 
 ### Cloud
 

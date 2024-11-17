@@ -232,6 +232,7 @@
 #### ssh
 
 - [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
+- [irohn/wormhole.nvim](https://github.com/irohn/wormhole.nvim) ![](https://img.shields.io/github/stars/irohn/wormhole.nvim) ![](https://img.shields.io/github/last-commit/irohn/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/wormhole.nvim)
 
 #### ftp
 
@@ -252,6 +253,7 @@
 - [shinobu-uwu/rsync.nvim](https://github.com/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/stars/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/last-commit/shinobu-uwu/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/shinobu-uwu/rsync.nvim)
 - [Martins3/rsync.nvim](https://github.com/Martins3/rsync.nvim) ![](https://img.shields.io/github/stars/Martins3/rsync.nvim) ![](https://img.shields.io/github/last-commit/Martins3/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Martins3/rsync.nvim)
 - [iFarmGolems/deploy.nvim](https://github.com/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/stars/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/last-commit/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/commit-activity/y/iFarmGolems/deploy.nvim)
+- [Meursau1T/rsync-git.nvim](https://github.com/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/stars/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/last-commit/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/commit-activity/y/Meursau1T/rsync-git.nvim)
 
 #### curl
 
@@ -357,3 +359,4 @@
 - [mimparat132/kube.nvim](https://github.com/mimparat132/kube.nvim) ![](https://img.shields.io/github/stars/mimparat132/kube.nvim) ![](https://img.shields.io/github/last-commit/mimparat132/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/mimparat132/kube.nvim)
 - [ben-smyth/kustomize.nvim](https://github.com/ben-smyth/kustomize.nvim) ![](https://img.shields.io/github/stars/ben-smyth/kustomize.nvim) ![](https://img.shields.io/github/last-commit/ben-smyth/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/ben-smyth/kustomize.nvim)
 - [cenk1cenk2/yaml-companion.nvim](https://github.com/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/yaml-companion.nvim)
+- [mmazer/k8s.nvim](https://github.com/mmazer/k8s.nvim) ![](https://img.shields.io/github/stars/mmazer/k8s.nvim) ![](https://img.shields.io/github/last-commit/mmazer/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/mmazer/k8s.nvim)

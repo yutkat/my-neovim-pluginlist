@@ -17,6 +17,7 @@
   * [Type](#type)
   * [Generator](#generator)
   * [templ.guide](#templguide)
+  * [gomodifytags](#gomodifytags)
 - [Framework](#framework)
   * [Gin](#gin)
 
@@ -120,6 +121,10 @@
 ### templ.guide
 
 - [Bparsons0904/nvim-templ-static-reload](https://github.com/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/stars/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/last-commit/Bparsons0904/nvim-templ-static-reload) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/nvim-templ-static-reload)
+
+### gomodifytags
+
+- [zgs225/gomodifytags.nvim](https://github.com/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/stars/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/last-commit/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/commit-activity/y/zgs225/gomodifytags.nvim)
 
 ## Framework
 

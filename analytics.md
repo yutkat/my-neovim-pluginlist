@@ -42,6 +42,7 @@
 - [boganworld/crackboard.nvim](https://github.com/boganworld/crackboard.nvim) ![](https://img.shields.io/github/stars/boganworld/crackboard.nvim) ![](https://img.shields.io/github/last-commit/boganworld/crackboard.nvim) ![](https://img.shields.io/github/commit-activity/y/boganworld/crackboard.nvim)
 - [vsinagl/codetracker.nvim](https://github.com/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/stars/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/last-commit/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/commit-activity/y/vsinagl/codetracker.nvim)
 - [alikaya/youtrack.nvim](https://github.com/alikaya/youtrack.nvim) ![](https://img.shields.io/github/stars/alikaya/youtrack.nvim) ![](https://img.shields.io/github/last-commit/alikaya/youtrack.nvim) ![](https://img.shields.io/github/commit-activity/y/alikaya/youtrack.nvim)
+- [alfredosa/devtime.nvim](https://github.com/alfredosa/devtime.nvim) ![](https://img.shields.io/github/stars/alfredosa/devtime.nvim) ![](https://img.shields.io/github/last-commit/alfredosa/devtime.nvim) ![](https://img.shields.io/github/commit-activity/y/alfredosa/devtime.nvim)
 
 ### Mapping stat
 
