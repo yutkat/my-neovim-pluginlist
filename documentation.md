@@ -324,6 +324,7 @@
 - [wwaltb/run-pandoc.nvim](https://github.com/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/stars/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/last-commit/wwaltb/run-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/wwaltb/run-pandoc.nvim)
 - [xpcoffee/nvim-markdown-adaptor](https://github.com/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-adaptor)
 - [dilithaw123/pandoc.nvim](https://github.com/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/stars/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/last-commit/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/dilithaw123/pandoc.nvim)
+- [gabrielfruet/pandocking.nvim](https://github.com/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/pandocking.nvim)
 
 ### Vimdoc
 

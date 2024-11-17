@@ -4,6 +4,7 @@
 
 - [Ruby](#ruby)
   * [Test](#test)
+  * [LSP](#lsp)
   * [Debug](#debug)
   * [Gem](#gem)
   * [Rails](#rails)
@@ -27,6 +28,10 @@
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 - [jpeterburs/rspec.nvim](https://github.com/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/stars/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/last-commit/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/jpeterburs/rspec.nvim)
+
+### LSP
+
+- [vinibispo/ruby-lsp.nvim](https://github.com/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/vinibispo/ruby-lsp.nvim)
 
 ### Debug
 
