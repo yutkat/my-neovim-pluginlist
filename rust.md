@@ -5,6 +5,7 @@
 - [Rust](#rust)
   * [Test](#test)
     + [Coverage](#coverage)
+  * [Debug](#debug)
   * [Cargo](#cargo)
   * [Completion](#completion)
   * [Template](#template)
@@ -35,6 +36,10 @@
 #### Coverage
 
 - [ChosunOne/tarp.nvim](https://github.com/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/stars/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/last-commit/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/commit-activity/y/ChosunOne/tarp.nvim)
+
+### Debug
+
+- [omagdy7/dbgln.nvim](https://github.com/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/stars/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/last-commit/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/commit-activity/y/omagdy7/dbgln.nvim)
 
 ### Cargo
 

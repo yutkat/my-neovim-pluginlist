@@ -54,6 +54,7 @@
 - [eatgrass/maven.nvim](https://github.com/eatgrass/maven.nvim) ![](https://img.shields.io/github/stars/eatgrass/maven.nvim) ![](https://img.shields.io/github/last-commit/eatgrass/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/eatgrass/maven.nvim)
 - [trabeast/thymeleaf-compile.nvim](https://github.com/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/stars/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/last-commit/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/trabeast/thymeleaf-compile.nvim)
 - [jkeresman01/java-maven-test.nvim](https://github.com/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-maven-test.nvim)
+- [pojokcodeid/auto-java-project.nvim](https://github.com/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-java-project.nvim)
 
 ### Gradle
 
