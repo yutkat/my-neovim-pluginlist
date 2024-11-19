@@ -121,6 +121,7 @@
 - [kyoh86/gitstat.nvim](https://github.com/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/stars/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/gitstat.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/gitstat.nvim)
 - [senkentarou/telescope-git-status.nvim](https://github.com/senkentarou/telescope-git-status.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-git-status.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-git-status.nvim)
 - [diaakasem/nvim-git-modified](https://github.com/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/stars/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/last-commit/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/commit-activity/y/diaakasem/nvim-git-modified)
+- [abccsss/nvim-gitstatus](https://github.com/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/stars/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/last-commit/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/commit-activity/y/abccsss/nvim-gitstatus)
 
 ## git add
 

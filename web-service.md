@@ -43,7 +43,7 @@
   * [Cloudinary](#cloudinary)
   * [Drupal](#drupal)
   * [Netsuite](#netsuite)
-- [Prefab](#prefab)
+  * [Prefab](#prefab)
 - [CI](#ci)
   * [CircleCI](#circleci)
   * [Nx](#nx)
@@ -241,7 +241,7 @@
 
 - [rtanner1231/nsconn.nvim](https://github.com/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/stars/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/last-commit/rtanner1231/nsconn.nvim) ![](https://img.shields.io/github/commit-activity/y/rtanner1231/nsconn.nvim)
 
-## Prefab
+### Prefab
 
 - [prefab-cloud/prefab.nvim](https://github.com/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/stars/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/last-commit/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/commit-activity/y/prefab-cloud/prefab.nvim)
 

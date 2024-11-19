@@ -38,6 +38,7 @@
 - [smartinellimarco/nvcheatsheet.nvim](https://github.com/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/stars/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/last-commit/smartinellimarco/nvcheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/smartinellimarco/nvcheatsheet.nvim)
 - [901228/mochi-cheatsheet.nvim](https://github.com/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/stars/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/901228/mochi-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/901228/mochi-cheatsheet.nvim)
 - [boazj/nvim-cheatsheet](https://github.com/boazj/nvim-cheatsheet) ![](https://img.shields.io/github/stars/boazj/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/boazj/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/boazj/nvim-cheatsheet)
+- [Thomasprss/cheatsheet.nvim](https://github.com/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/stars/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/Thomasprss/cheatsheet.nvim)
 
 ### External Manual
 
