@@ -36,6 +36,7 @@
   - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/stars/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/last-commit/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/blink-cmp-rg.nvim)
   - [Nikutsuki/bcp.nvim](https://github.com/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/stars/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/last-commit/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nikutsuki/bcp.nvim)
   - [giuxtaposition/blink-cmp-copilot](https://github.com/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/stars/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/last-commit/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/giuxtaposition/blink-cmp-copilot)
+  - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/stars/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/blink-ripgrep.nvim)
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 
 #### Made in Python

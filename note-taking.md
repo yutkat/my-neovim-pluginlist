@@ -121,6 +121,7 @@
 - [tbm5k/todo.nvim](https://github.com/tbm5k/todo.nvim) ![](https://img.shields.io/github/stars/tbm5k/todo.nvim) ![](https://img.shields.io/github/last-commit/tbm5k/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/tbm5k/todo.nvim)
 - [smsimone/todolist.nvim](https://github.com/smsimone/todolist.nvim) ![](https://img.shields.io/github/stars/smsimone/todolist.nvim) ![](https://img.shields.io/github/last-commit/smsimone/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/smsimone/todolist.nvim)
 - [pongpatapee/kanban.nvim](https://github.com/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/stars/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/last-commit/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/pongpatapee/kanban.nvim)
+- [adam-coates/todoist.nvim](https://github.com/adam-coates/todoist.nvim) ![](https://img.shields.io/github/stars/adam-coates/todoist.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/todoist.nvim)
 
 ### Taskwarrior
 
@@ -282,3 +283,4 @@
 - [ficcdaf/taskview.nvim](https://github.com/ficcdaf/taskview.nvim) ![](https://img.shields.io/github/stars/ficcdaf/taskview.nvim) ![](https://img.shields.io/github/last-commit/ficcdaf/taskview.nvim) ![](https://img.shields.io/github/commit-activity/y/ficcdaf/taskview.nvim)
 - [ccarral/project-notes.nvim](https://github.com/ccarral/project-notes.nvim) ![](https://img.shields.io/github/stars/ccarral/project-notes.nvim) ![](https://img.shields.io/github/last-commit/ccarral/project-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ccarral/project-notes.nvim)
 - [davmacario/nvim-quicknotes](https://github.com/davmacario/nvim-quicknotes) ![](https://img.shields.io/github/stars/davmacario/nvim-quicknotes) ![](https://img.shields.io/github/last-commit/davmacario/nvim-quicknotes) ![](https://img.shields.io/github/commit-activity/y/davmacario/nvim-quicknotes)
+- [clpi/word.lua](https://github.com/clpi/word.lua) ![](https://img.shields.io/github/stars/clpi/word.lua) ![](https://img.shields.io/github/last-commit/clpi/word.lua) ![](https://img.shields.io/github/commit-activity/y/clpi/word.lua)

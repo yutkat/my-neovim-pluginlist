@@ -23,6 +23,7 @@
       - [Delete word](#delete-word)
       - [Home key](#home-key)
     + [Command mode](#command-mode)
+    + [Cyrillic](#cyrillic)
 
 <!-- tocstop -->
 
@@ -147,3 +148,8 @@
 ### Command mode
 
 - [edte/normal-colon.nvim](https://github.com/edte/normal-colon.nvim) ![](https://img.shields.io/github/stars/edte/normal-colon.nvim) ![](https://img.shields.io/github/last-commit/edte/normal-colon.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/normal-colon.nvim)
+
+### Cyrillic
+
+- [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
+- [eojysele/cyrillic-keymaps.nvim](https://github.com/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/stars/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/last-commit/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/eojysele/cyrillic-keymaps.nvim)

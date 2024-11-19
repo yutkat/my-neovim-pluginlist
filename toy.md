@@ -29,6 +29,8 @@
   * [Speech](#speech)
   * [Sports](#sports)
     + [NHL](#nhl)
+  * [Religion](#religion)
+    + [Judaism](#judaism)
 
 <!-- tocstop -->
 
@@ -191,3 +193,8 @@
 
 - [mgrin212/nhl.nvim](https://github.com/mgrin212/nhl.nvim) ![](https://img.shields.io/github/stars/mgrin212/nhl.nvim) ![](https://img.shields.io/github/last-commit/mgrin212/nhl.nvim) ![](https://img.shields.io/github/commit-activity/y/mgrin212/nhl.nvim)
 
+## Religion
+
+### Judaism
+
+- [sammyshear/drash.nvim](https://github.com/sammyshear/drash.nvim) ![](https://img.shields.io/github/stars/sammyshear/drash.nvim) ![](https://img.shields.io/github/last-commit/sammyshear/drash.nvim) ![](https://img.shields.io/github/commit-activity/y/sammyshear/drash.nvim)
