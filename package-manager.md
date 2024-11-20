@@ -7,6 +7,7 @@
     + [formatter](#formatter)
   * [Luarock](#luarock)
 - [for programming languages](#for-programming-languages)
+- [for CLI](#for-cli)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@
 ## for programming languages
 
 - [jdrupal-dev/parcel.nvim](https://github.com/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/parcel.nvim)
+
+## for CLI
+
+- [onexbash/prereq.nvim](https://github.com/onexbash/prereq.nvim) ![](https://img.shields.io/github/stars/onexbash/prereq.nvim) ![](https://img.shields.io/github/last-commit/onexbash/prereq.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/prereq.nvim)

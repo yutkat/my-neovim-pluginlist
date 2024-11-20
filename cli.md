@@ -91,6 +91,7 @@
 - [cenk1cenk2/tmux-toggle-popup.nvim](https://github.com/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/tmux-toggle-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/tmux-toggle-popup.nvim)
 - [EvWilson/slimux.nvim](https://github.com/EvWilson/slimux.nvim) ![](https://img.shields.io/github/stars/EvWilson/slimux.nvim) ![](https://img.shields.io/github/last-commit/EvWilson/slimux.nvim) ![](https://img.shields.io/github/commit-activity/y/EvWilson/slimux.nvim)
 - [canova/tmux-jump.nvim](https://github.com/canova/tmux-jump.nvim) ![](https://img.shields.io/github/stars/canova/tmux-jump.nvim) ![](https://img.shields.io/github/last-commit/canova/tmux-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/canova/tmux-jump.nvim)
+- [rpapallas/nvim-tmux-commander](https://github.com/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/stars/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/last-commit/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/commit-activity/y/rpapallas/nvim-tmux-commander)
 
 ##### tmux alternative
 
