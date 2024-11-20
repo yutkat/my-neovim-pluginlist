@@ -47,7 +47,6 @@
 ### Test
 
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
-- [slobodanzivanovic/java-runner.nvim](https://github.com/slobodanzivanovic/java-runner.nvim) ![](https://img.shields.io/github/stars/slobodanzivanovic/java-runner.nvim) ![](https://img.shields.io/github/last-commit/slobodanzivanovic/java-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/slobodanzivanovic/java-runner.nvim)
 
 ### Maven
 

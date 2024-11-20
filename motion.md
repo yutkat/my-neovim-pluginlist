@@ -69,7 +69,6 @@
 - [atusy/mickeymotion.nvim](https://github.com/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/stars/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/last-commit/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/mickeymotion.nvim)
 - [rasulomaroff/telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/stars/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/last-commit/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/commit-activity/y/rasulomaroff/telepath.nvim)
 - [Ausgefuchster/quickselect.nvim](https://github.com/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/stars/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/last-commit/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausgefuchster/quickselect.nvim)
-- [franespeche/teleport.nvi](https://github.com/franespeche/teleport.nvi) ![](https://img.shields.io/github/stars/franespeche/teleport.nvi) ![](https://img.shields.io/github/last-commit/franespeche/teleport.nvi) ![](https://img.shields.io/github/commit-activity/y/franespeche/teleport.nvi)
 
 ### Horizontal Move
 
@@ -98,7 +97,6 @@
 
 ### Vertical Move
 
-- [ziontee113/syntax-tree-surfer](https://github.com/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/stars/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/last-commit/ziontee113/syntax-tree-surfer) ![](https://img.shields.io/github/commit-activity/y/ziontee113/syntax-tree-surfer)
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/commit-activity/y/drybalka/tree-climber.nvim)
 - [woosaaahh/vertigo.nvim](https://github.com/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/stars/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/vertigo.nvim)
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/stars/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/last-commit/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/mluders/comfy-line-numbers.nvim)

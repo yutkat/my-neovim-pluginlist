@@ -44,7 +44,6 @@
 - [RicardoRamirezR/blade-nav.nvim](https://github.com/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/blade-nav.nvim)
 - [Bleksak/laravel-ide-helper.nvim](https://github.com/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/stars/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/laravel-ide-helper.nvim)
 - [DJARUUN/laravel.nvim](https://github.com/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/stars/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/laravel.nvim)
-- [ccaglak/laravells.nvim](https://github.com/ccaglak/laravells.nvim) ![](https://img.shields.io/github/stars/ccaglak/laravells.nvim) ![](https://img.shields.io/github/last-commit/ccaglak/laravells.nvim) ![](https://img.shields.io/github/commit-activity/y/ccaglak/laravells.nvim)
 
 ### Symfony
 
