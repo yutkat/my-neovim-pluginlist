@@ -158,7 +158,6 @@
 
 ## Dendron
 
-- [namjul/dendron.nvim](https://github.com/namjul/dendron.nvim) ![](https://img.shields.io/github/stars/namjul/dendron.nvim) ![](https://img.shields.io/github/last-commit/namjul/dendron.nvim) ![](https://img.shields.io/github/commit-activity/y/namjul/dendron.nvim)
 
 ## Linear.app
 
