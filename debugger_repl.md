@@ -55,6 +55,7 @@
 - [lucaSartore/nvim-dap-exception-breakpoints](https://github.com/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/stars/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/last-commit/lucaSartore/nvim-dap-exception-breakpoints) ![](https://img.shields.io/github/commit-activity/y/lucaSartore/nvim-dap-exception-breakpoints)
 - [goropikari/nvim-dap-rdbg](https://github.com/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-rdbg)
 - [goropikari/nvim-dap-cpp](https://github.com/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-cpp)
+- [itsfrank/breakingpoint.nvim](https://github.com/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/stars/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/breakingpoint.nvim)
 
 #### Launch.json
 

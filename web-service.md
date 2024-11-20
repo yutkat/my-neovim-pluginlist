@@ -41,6 +41,7 @@
   * [Runme](#runme)
   * [paste.rs](#pasters)
   * [Cloudinary](#cloudinary)
+  * [Dagster](#dagster)
   * [Drupal](#drupal)
   * [Netsuite](#netsuite)
   * [Prefab](#prefab)
@@ -232,6 +233,10 @@
 ### Cloudinary
 
 - [e2r2fx/cloudy.nvim](https://github.com/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/stars/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/cloudy.nvim)
+
+### Dagster
+
+- [cmpadden/dagster.nvim](https://github.com/cmpadden/dagster.nvim) ![](https://img.shields.io/github/stars/cmpadden/dagster.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/dagster.nvim)
 
 ### Drupal
 
