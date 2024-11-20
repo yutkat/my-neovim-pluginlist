@@ -136,6 +136,7 @@
 - [hermabr/jupynava.nvim](https://github.com/hermabr/jupynava.nvim) ![](https://img.shields.io/github/stars/hermabr/jupynava.nvim) ![](https://img.shields.io/github/last-commit/hermabr/jupynava.nvim) ![](https://img.shields.io/github/commit-activity/y/hermabr/jupynava.nvim)
 - [SUSTech-data/neopyter](https://github.com/SUSTech-data/neopyter) ![](https://img.shields.io/github/stars/SUSTech-data/neopyter) ![](https://img.shields.io/github/last-commit/SUSTech-data/neopyter) ![](https://img.shields.io/github/commit-activity/y/SUSTech-data/neopyter)
 - [DavidRR-F/notebook-manager.nvim](https://github.com/DavidRR-F/notebook-manager.nvim) ![](https://img.shields.io/github/stars/DavidRR-F/notebook-manager.nvim) ![](https://img.shields.io/github/last-commit/DavidRR-F/notebook-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRR-F/notebook-manager.nvim)
+- [geg2102/nvim-jupyter-client](https://github.com/geg2102/nvim-jupyter-client) ![](https://img.shields.io/github/stars/geg2102/nvim-jupyter-client) ![](https://img.shields.io/github/last-commit/geg2102/nvim-jupyter-client) ![](https://img.shields.io/github/commit-activity/y/geg2102/nvim-jupyter-client)
 
 ### Pandas
 
