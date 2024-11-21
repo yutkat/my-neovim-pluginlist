@@ -86,6 +86,7 @@
 - [backdround/improved-ft.nvim](https://github.com/backdround/improved-ft.nvim) ![](https://img.shields.io/github/stars/backdround/improved-ft.nvim) ![](https://img.shields.io/github/last-commit/backdround/improved-ft.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/improved-ft.nvim)
 - [Laellekoenig/first.nvim](https://github.com/Laellekoenig/first.nvim) ![](https://img.shields.io/github/stars/Laellekoenig/first.nvim) ![](https://img.shields.io/github/last-commit/Laellekoenig/first.nvim) ![](https://img.shields.io/github/commit-activity/y/Laellekoenig/first.nvim)
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) ![](https://img.shields.io/github/stars/mawkler/demicolon.nvim) ![](https://img.shields.io/github/last-commit/mawkler/demicolon.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/demicolon.nvim)
+- [atusy/jab.nvim](https://github.com/atusy/jab.nvim) ![](https://img.shields.io/github/stars/atusy/jab.nvim) ![](https://img.shields.io/github/last-commit/atusy/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/jab.nvim)
 
 #### Show jump word
 
