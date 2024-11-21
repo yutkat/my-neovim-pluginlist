@@ -14,6 +14,7 @@
   * [Cursor motion](#cursor-motion)
   * [Word Motion](#word-motion)
   * [Line Move](#line-move)
+  * [Paragraph Motion](#paragraph-motion)
   * [Emacs Motion](#emacs-motion)
   * [Treesitter Node](#treesitter-node)
 
@@ -117,6 +118,10 @@
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
 - [0x00-ketsu/pull-line.nvim](https://github.com/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/pull-line.nvim)
 - [EbadiDev/nvim-move-mode](https://github.com/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/stars/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/last-commit/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/commit-activity/y/EbadiDev/nvim-move-mode)
+
+### Paragraph Motion
+
+- [aidancz/paramo.nvim](https://github.com/aidancz/paramo.nvim) ![](https://img.shields.io/github/stars/aidancz/paramo.nvim) ![](https://img.shields.io/github/last-commit/aidancz/paramo.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/paramo.nvim)
 
 ### Emacs Motion
 

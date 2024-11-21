@@ -194,6 +194,7 @@
 
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) ![](https://img.shields.io/github/stars/joshuavial/aider.nvim) ![](https://img.shields.io/github/last-commit/joshuavial/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuavial/aider.nvim)
 - [ddzero2c/aider.nvim](https://github.com/ddzero2c/aider.nvim) ![](https://img.shields.io/github/stars/ddzero2c/aider.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/aider.nvim)
+- [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/stars/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/last-commit/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/commit-activity/y/GeorgesAlkhouri/nvim-aider)
 
 ### Otter
 
