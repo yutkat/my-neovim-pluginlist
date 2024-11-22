@@ -32,6 +32,7 @@
 ### LSP
 
 - [vinibispo/ruby-lsp.nvim](https://github.com/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/vinibispo/ruby-lsp.nvim)
+- [adam12/ruby-lsp.nvim](https://github.com/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/ruby-lsp.nvim)
 
 ### Debug
 
@@ -51,6 +52,7 @@
 - [CadeMichael/roron.nvim](https://github.com/CadeMichael/roron.nvim) ![](https://img.shields.io/github/stars/CadeMichael/roron.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/roron.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/roron.nvim)
 - [mactunechy/rails-view-component-gd.nvim](https://github.com/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/stars/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/last-commit/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/commit-activity/y/mactunechy/rails-view-component-gd.nvim)
 - [Madyn0/rails-finder.nvim](https://github.com/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/stars/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/last-commit/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Madyn0/rails-finder.nvim)
+- [palekiwi/rails-utils.nvim](https://github.com/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/stars/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/last-commit/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi/rails-utils.nvim)
 
 ### Redis
 

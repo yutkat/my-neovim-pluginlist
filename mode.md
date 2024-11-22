@@ -20,6 +20,7 @@
 - [doums/modeui.nvim](https://github.com/doums/modeui.nvim) ![](https://img.shields.io/github/stars/doums/modeui.nvim) ![](https://img.shields.io/github/last-commit/doums/modeui.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/modeui.nvim)
 - [doums/monark.nvim](https://github.com/doums/monark.nvim) ![](https://img.shields.io/github/stars/doums/monark.nvim) ![](https://img.shields.io/github/last-commit/doums/monark.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/monark.nvim)
 - [sethen/line-number-change-mode.nvim](https://github.com/sethen/line-number-change-mode.nvim) ![](https://img.shields.io/github/stars/sethen/line-number-change-mode.nvim) ![](https://img.shields.io/github/last-commit/sethen/line-number-change-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/sethen/line-number-change-mode.nvim)
+- [DevCetra/nvim-color-line-numbers-by-mode](https://github.com/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/stars/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/last-commit/DevCetra/nvim-color-line-numbers-by-mode) ![](https://img.shields.io/github/commit-activity/y/DevCetra/nvim-color-line-numbers-by-mode)
 
 ### Visual
 

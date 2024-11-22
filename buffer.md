@@ -227,4 +227,5 @@
 ### Buffer info
 
 - [addisonbeck/where-am-i.nvim](https://github.com/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/stars/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/last-commit/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/commit-activity/y/addisonbeck/where-am-i.nvim)
+- [adriankarlen/buffed.nvim](https://github.com/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/stars/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/buffed.nvim)
 
