@@ -56,6 +56,7 @@
 ### HML
 
 - [mawkler/hml.nvim](https://github.com/mawkler/hml.nvim) ![](https://img.shields.io/github/stars/mawkler/hml.nvim) ![](https://img.shields.io/github/last-commit/mawkler/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/hml.nvim)
+- [yochem/jumpsigns.nvim](https://github.com/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/stars/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/last-commit/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jumpsigns.nvim)
 
 ### jumplist
 

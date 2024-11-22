@@ -33,6 +33,7 @@
     + [R](#r)
     + [Shellscript(bash)](#shellscriptbash)
       - [ShellCheck](#shellcheck)
+      - [REPL](#repl-1)
     + [fish](#fish)
     + [Nushell](#nushell)
     + [PowerShell](#powershell)
@@ -265,6 +266,10 @@
 #### ShellCheck
 
 - [pablos123/shellcheck.nvim](https://github.com/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/stars/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/last-commit/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/pablos123/shellcheck.nvim)
+
+#### REPL
+
+- [Lingnik/shrepl.nvim](https://github.com/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/stars/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/last-commit/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingnik/shrepl.nvim)
 
 ### fish
 
