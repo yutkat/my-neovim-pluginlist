@@ -78,6 +78,7 @@
 - [LiXuanqi/termx.nvim](https://github.com/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/termx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/termx.nvim)
 - [friedow/buggler.nvim](https://github.com/friedow/buggler.nvim) ![](https://img.shields.io/github/stars/friedow/buggler.nvim) ![](https://img.shields.io/github/last-commit/friedow/buggler.nvim) ![](https://img.shields.io/github/commit-activity/y/friedow/buggler.nvim)
 - [LunarLambda/quickterm.nvim](https://github.com/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/stars/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/last-commit/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/quickterm.nvim)
+- [ingur/floatty.nvim](https://github.com/ingur/floatty.nvim) ![](https://img.shields.io/github/stars/ingur/floatty.nvim) ![](https://img.shields.io/github/last-commit/ingur/floatty.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/floatty.nvim)
 
 ### Edit
 
@@ -102,6 +103,7 @@
 ### Command
 
 - [FredeEB/alias.nvim](https://github.com/FredeEB/alias.nvim) ![](https://img.shields.io/github/stars/FredeEB/alias.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/alias.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/alias.nvim)
+- [ilan-schemoul/nvim-simple-send-to-term](https://github.com/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-simple-send-to-term)
 
 ### Neovim in Neovim
 

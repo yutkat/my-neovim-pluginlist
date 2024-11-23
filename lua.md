@@ -5,6 +5,7 @@
 - [Lua](#lua)
   * [LSP](#lsp)
   * [Treesitter](#treesitter)
+  * [Test](#test)
   * [REPL](#repl)
   * [Stylua](#stylua)
   * [LuaFormatter](#luaformatter)
@@ -29,6 +30,10 @@
 ### Treesitter
 
 - [mgastonportillo/popurri.nvim](https://github.com/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/popurri.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/popurri.nvim)
+
+### Test
+
+- [ally1002/spec-utils.nvim](https://github.com/ally1002/spec-utils.nvim) ![](https://img.shields.io/github/stars/ally1002/spec-utils.nvim) ![](https://img.shields.io/github/last-commit/ally1002/spec-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ally1002/spec-utils.nvim)
 
 ### REPL
 

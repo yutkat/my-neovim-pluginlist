@@ -9,7 +9,7 @@
   * [git status](#git-status)
   * [git add](#git-add)
   * [git commit](#git-commit)
-    + [prefix](#prefix)
+    + [prefix(conventional-commits)](#prefixconventional-commits)
     + [co authored](#co-authored)
     + [Auto commit](#auto-commit)
     + [pre-commit](#pre-commit)
@@ -140,11 +140,12 @@
 - [marzeq/visual-commit.nvim](https://github.com/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/stars/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/last-commit/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/visual-commit.nvim)
 - [JosephPenaQuino/committer.nvim](https://github.com/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/stars/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/last-commit/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/commit-activity/y/JosephPenaQuino/committer.nvim)
 
-### prefix
+### prefix(conventional-commits)
 
 - [ofirgall/commit-prefix.nvim](https://github.com/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/stars/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/commit-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/commit-prefix.nvim)
 - [mjacobus/telescope-gitmoji.nvim](https://github.com/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/stars/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/mjacobus/telescope-gitmoji.nvim)
 - [ViiEx/gcmh.nvim](https://github.com/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/stars/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/last-commit/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/commit-activity/y/ViiEx/gcmh.nvim)
+- [stefanlogue/meteor.nvim](https://github.com/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/stars/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/meteor.nvim)
 
 ### co authored
 
@@ -413,6 +414,7 @@
 - [akonkol/gitweb.nvim](https://github.com/akonkol/gitweb.nvim) ![](https://img.shields.io/github/stars/akonkol/gitweb.nvim) ![](https://img.shields.io/github/last-commit/akonkol/gitweb.nvim) ![](https://img.shields.io/github/commit-activity/y/akonkol/gitweb.nvim)
 - [lvsz/open-origin.nvim](https://github.com/lvsz/open-origin.nvim) ![](https://img.shields.io/github/stars/lvsz/open-origin.nvim) ![](https://img.shields.io/github/last-commit/lvsz/open-origin.nvim) ![](https://img.shields.io/github/commit-activity/y/lvsz/open-origin.nvim)
 - [anugrahn1/goto-github.nvim](https://github.com/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/stars/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/last-commit/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/commit-activity/y/anugrahn1/goto-github.nvim)
+- [tronikelis/gitdive.nvim](https://github.com/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/stars/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/gitdive.nvim)
 
 ## Image
 

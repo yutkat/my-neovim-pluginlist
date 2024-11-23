@@ -95,6 +95,7 @@
 - [webpolis/wingman.nvim](https://github.com/webpolis/wingman.nvim) ![](https://img.shields.io/github/stars/webpolis/wingman.nvim) ![](https://img.shields.io/github/last-commit/webpolis/wingman.nvim) ![](https://img.shields.io/github/commit-activity/y/webpolis/wingman.nvim)
 - [justinhj/chatty-ai-service-openai.nvim](https://github.com/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-openai.nvim)
 - [vutlhari/zenpai.nvim](https://github.com/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/stars/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/last-commit/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/commit-activity/y/vutlhari/zenpai.nvim)
+- [g0t4/ask-openai.nvim](https://github.com/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/stars/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/last-commit/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/ask-openai.nvim)
 
 #### log
 
