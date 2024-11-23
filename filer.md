@@ -66,6 +66,7 @@
 - [sys9kdr/dsfe.nvim](https://github.com/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/stars/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/last-commit/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/commit-activity/y/sys9kdr/dsfe.nvim)
 - [Tronikelis/xylene.nvim](https://github.com/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/stars/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/xylene.nvim)
 - [stefanwatt/trek.nvim](https://github.com/stefanwatt/trek.nvim) ![](https://img.shields.io/github/stars/stefanwatt/trek.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/trek.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/trek.nvim)
+- [kivattt/fen.nvim](https://github.com/kivattt/fen.nvim) ![](https://img.shields.io/github/stars/kivattt/fen.nvim) ![](https://img.shields.io/github/last-commit/kivattt/fen.nvim) ![](https://img.shields.io/github/commit-activity/y/kivattt/fen.nvim)
 
 ## gx
 
