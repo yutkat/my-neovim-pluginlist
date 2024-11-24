@@ -12,6 +12,7 @@
   * [Color](#color)
   * [Date](#date)
   * [Pixel](#pixel)
+  * [Dash](#dash)
 
 <!-- tocstop -->
 
@@ -93,3 +94,8 @@
 ### Pixel
 
 - [jsongerber/nvim-px-to-rem](https://github.com/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/jsongerber/nvim-px-to-rem)
+
+### Dash
+
+- [mvllow/supplement.nvim](https://github.com/mvllow/supplement.nvim) ![](https://img.shields.io/github/stars/mvllow/supplement.nvim) ![](https://img.shields.io/github/last-commit/mvllow/supplement.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/supplement.nvim)
+

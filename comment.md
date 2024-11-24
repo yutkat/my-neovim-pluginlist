@@ -82,6 +82,7 @@
 
 - [rapan931/binary_comments.vim](https://github.com/rapan931/binary_comments.vim) ![](https://img.shields.io/github/stars/rapan931/binary_comments.vim) ![](https://img.shields.io/github/last-commit/rapan931/binary_comments.vim) ![](https://img.shields.io/github/commit-activity/y/rapan931/binary_comments.vim)
 - [niuiic/divider.nvim](https://github.com/niuiic/divider.nvim) ![](https://img.shields.io/github/stars/niuiic/divider.nvim) ![](https://img.shields.io/github/last-commit/niuiic/divider.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/divider.nvim)
+- [Layxe/comment-divider.nvim](https://github.com/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/stars/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/last-commit/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/commit-activity/y/Layxe/comment-divider.nvim)
 
 ### Annotation
 
