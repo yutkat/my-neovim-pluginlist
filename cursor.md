@@ -6,6 +6,7 @@
   * [Cursor Style](#cursor-style)
   * [Cursor position](#cursor-position)
   * [Hold](#hold)
+  * [Animation](#animation)
 
 <!-- tocstop -->
 
@@ -36,3 +37,7 @@
 ### Hold
 
 - [gh-liu/cursorhold.nvim](https://github.com/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/stars/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/last-commit/gh-liu/cursorhold.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-liu/cursorhold.nvim)
+
+### Animation
+
+- [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sphamba/smear-cursor.nvim)

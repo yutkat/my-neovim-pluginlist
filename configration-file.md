@@ -4,6 +4,7 @@
 
 - [Configuration File](#configuration-file)
   * [JSON](#json)
+    + [fx](#fx)
   * [YAML](#yaml)
   * [TOML](#toml)
   * [Pkl](#pkl)
@@ -42,6 +43,10 @@
 - [goropikari/jnv.nvim](https://github.com/goropikari/jnv.nvim) ![](https://img.shields.io/github/stars/goropikari/jnv.nvim) ![](https://img.shields.io/github/last-commit/goropikari/jnv.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/jnv.nvim)
 - [philippdrebes/jsonpath.nvim](https://github.com/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/stars/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/philippdrebes/jsonpath.nvim)
 - [GZLiew/jsonpath.nvim](https://github.com/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/stars/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/GZLiew/jsonpath.nvim)
+
+#### fx
+
+- [davidfmatheson/nvim-fx](https://github.com/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/stars/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/last-commit/davidfmatheson/nvim-fx) ![](https://img.shields.io/github/commit-activity/y/davidfmatheson/nvim-fx)
 
 ### YAML
 
