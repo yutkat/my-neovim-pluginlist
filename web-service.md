@@ -38,6 +38,7 @@
   * [HackerNews](#hackernews)
   * [Zotero](#zotero)
   * [DevDocs](#devdocs)
+  * [gerrit API](#gerrit-api)
   * [Runme](#runme)
   * [paste.rs](#pasters)
   * [Cloudinary](#cloudinary)
@@ -221,6 +222,10 @@
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 
 ### DevDocs
+
+### gerrit API
+
+- [ilan-schemoul/nvim-gerrit](https://github.com/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-gerrit) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-gerrit)
 
 ### Runme
 

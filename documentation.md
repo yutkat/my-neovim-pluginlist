@@ -289,6 +289,7 @@
 - [v1nh1shungry/plantuml-preview.nvim](https://github.com/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/plantuml-preview.nvim)
 - [bryangrimes/plantuml.nvim](https://github.com/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/stars/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bryangrimes/plantuml.nvim)
 - [goropikari/plantuml.nvim](https://github.com/goropikari/plantuml.nvim) ![](https://img.shields.io/github/stars/goropikari/plantuml.nvim) ![](https://img.shields.io/github/last-commit/goropikari/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/plantuml.nvim)
+- [arakkkkk/plantuml-ascii.nvim](https://github.com/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/stars/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/plantuml-ascii.nvim)
 
 ### Graphviz
 

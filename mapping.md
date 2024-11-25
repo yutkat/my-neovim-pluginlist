@@ -98,6 +98,7 @@
 - [tsilvs/kbdcheat.nvim](https://github.com/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/stars/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/last-commit/tsilvs/kbdcheat.nvim) ![](https://img.shields.io/github/commit-activity/y/tsilvs/kbdcheat.nvim)
 - [AlexanderHott/keyquest.nvim](https://github.com/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/stars/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/last-commit/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderHott/keyquest.nvim)
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/stars/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/last-commit/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/meznaric/key-analyzer.nvim)
+- [JulianNymark/telescope_grouped_keymaps.nvim](https://github.com/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/stars/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/last-commit/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianNymark/telescope_grouped_keymaps.nvim)
 
 ## Prefix Key Binding
 
