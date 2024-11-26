@@ -363,6 +363,7 @@
 - [Matze-isses/latex-writer.nvim](https://github.com/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/stars/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/last-commit/Matze-isses/latex-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/Matze-isses/latex-writer.nvim)
 - [frvnzj/xJUSTEXx.nvim](https://github.com/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/stars/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/last-commit/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/commit-activity/y/frvnzj/xJUSTEXx.nvim)
 - [dirichy/nvimtex.nvim](https://github.com/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/stars/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/last-commit/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/nvimtex.nvim)
+- [Blobosle/mintex.nvim](https://github.com/Blobosle/mintex.nvim) ![](https://img.shields.io/github/stars/Blobosle/mintex.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/mintex.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/mintex.nvim)
 
 #### Preview
 

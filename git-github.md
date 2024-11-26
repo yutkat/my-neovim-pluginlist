@@ -279,6 +279,7 @@
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/advanced-git-search.nvim)
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
+- [joaomendoncaa/sourcer.nvim](https://github.com/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sourcer.nvim)
 
 ## worktree
 
@@ -415,6 +416,7 @@
 - [lvsz/open-origin.nvim](https://github.com/lvsz/open-origin.nvim) ![](https://img.shields.io/github/stars/lvsz/open-origin.nvim) ![](https://img.shields.io/github/last-commit/lvsz/open-origin.nvim) ![](https://img.shields.io/github/commit-activity/y/lvsz/open-origin.nvim)
 - [anugrahn1/goto-github.nvim](https://github.com/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/stars/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/last-commit/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/commit-activity/y/anugrahn1/goto-github.nvim)
 - [tronikelis/gitdive.nvim](https://github.com/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/stars/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/gitdive.nvim)
+- [claydugo/browsher.nvim](https://github.com/claydugo/browsher.nvim) ![](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![](https://img.shields.io/github/last-commit/claydugo/browsher.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/browsher.nvim)
 
 ## Image
 

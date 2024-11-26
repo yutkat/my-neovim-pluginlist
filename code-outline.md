@@ -27,6 +27,7 @@
 - [fmillone/lsp-highlight.nvim](https://github.com/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/stars/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/last-commit/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/lsp-highlight.nvim)
 - [jessesimpson36/whereami.nvim](https://github.com/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/stars/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/last-commit/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/commit-activity/y/jessesimpson36/whereami.nvim)
 - [jeroldhu/symbols-outline.nvim](https://github.com/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/stars/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroldhu/symbols-outline.nvim)
+- [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
 
 ### Call Hierarchy
 
