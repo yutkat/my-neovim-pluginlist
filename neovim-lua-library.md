@@ -45,6 +45,7 @@
 - [Mode](#mode)
 - [Buffer](#buffer)
 - [Keymap](#keymap)
+- [Command](#command)
 - [autocmd](#autocmd)
 - [Color](#color)
 - [Date](#date)
@@ -287,6 +288,10 @@
 - [jake-stewart/normon.nvim](https://github.com/jake-stewart/normon.nvim) ![](https://img.shields.io/github/stars/jake-stewart/normon.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/normon.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/normon.nvim)
 - [CrispyBaccoon/keymaps.nvim](https://github.com/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/stars/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/last-commit/CrispyBaccoon/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/CrispyBaccoon/keymaps.nvim)
 - [kamalsacranie/nvim-mapper](https://github.com/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/stars/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/last-commit/kamalsacranie/nvim-mapper) ![](https://img.shields.io/github/commit-activity/y/kamalsacranie/nvim-mapper)
+
+## Command
+
+- [CWood-sdf/cmdTree.nvim](https://github.com/CWood-sdf/cmdTree.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/cmdTree.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/cmdTree.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/cmdTree.nvim)
 
 ## autocmd
 
