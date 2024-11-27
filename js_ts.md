@@ -19,6 +19,7 @@
   * [Formatter](#formatter)
   * [Lint](#lint)
     + [eslint](#eslint-1)
+    + [OXC](#oxc)
   * [tsserver](#tsserver)
   * [Typst preview](#typst-preview)
   * [JSON](#json)
@@ -140,6 +141,10 @@
 #### eslint
 
 - [ceceppa/lint.nvim](https://github.com/ceceppa/lint.nvim) ![](https://img.shields.io/github/stars/ceceppa/lint.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/lint.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/lint.nvim)
+
+#### OXC
+
+- [soulsam480/nvim-oxlint](https://github.com/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/stars/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/last-commit/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/commit-activity/y/soulsam480/nvim-oxlint)
 
 ### tsserver
 

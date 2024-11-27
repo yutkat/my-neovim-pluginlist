@@ -186,6 +186,7 @@
 
 - [IndianBoy42/tree-sitter-just](https://github.com/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/stars/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/last-commit/IndianBoy42/tree-sitter-just) ![](https://img.shields.io/github/commit-activity/y/IndianBoy42/tree-sitter-just)
 - [chrisgrieser/nvim-justice](https://github.com/chrisgrieser/nvim-justice) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-justice) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-justice) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-justice)
+- [kiliandbigblue/nvim-just](https://github.com/kiliandbigblue/nvim-just) ![](https://img.shields.io/github/stars/kiliandbigblue/nvim-just) ![](https://img.shields.io/github/last-commit/kiliandbigblue/nvim-just) ![](https://img.shields.io/github/commit-activity/y/kiliandbigblue/nvim-just)
 
 ##### xmake
 

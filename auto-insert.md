@@ -10,6 +10,7 @@
 - [Auto convert](#auto-convert)
 - [List](#list)
 - [random string](#random-string)
+- [Lorem Ipsum](#lorem-ipsum)
 
 <!-- tocstop -->
 
@@ -73,3 +74,8 @@
 ## random string
 
 - [benjaminshawki/nvim-random-id](https://github.com/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/stars/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/last-commit/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/commit-activity/y/benjaminshawki/nvim-random-id)
+
+## Lorem Ipsum
+
+- [elvxk/mylorem.nvim](https://github.com/elvxk/mylorem.nvim) ![](https://img.shields.io/github/stars/elvxk/mylorem.nvim) ![](https://img.shields.io/github/last-commit/elvxk/mylorem.nvim) ![](https://img.shields.io/github/commit-activity/y/elvxk/mylorem.nvim)
+

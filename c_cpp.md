@@ -120,6 +120,7 @@
 - [cyuria/build.nvim](https://github.com/cyuria/build.nvim) ![](https://img.shields.io/github/stars/cyuria/build.nvim) ![](https://img.shields.io/github/last-commit/cyuria/build.nvim) ![](https://img.shields.io/github/commit-activity/y/cyuria/build.nvim)
 - [daniilrozanov/cmake.nvim](https://github.com/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/stars/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/last-commit/daniilrozanov/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/daniilrozanov/cmake.nvim)
 - [marc0x71/cmake-simple.nvim](https://github.com/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/stars/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/cmake-simple.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/cmake-simple.nvim)
+- [avkudr/cmake-mate.nvim](https://github.com/avkudr/cmake-mate.nvim) ![](https://img.shields.io/github/stars/avkudr/cmake-mate.nvim) ![](https://img.shields.io/github/last-commit/avkudr/cmake-mate.nvim) ![](https://img.shields.io/github/commit-activity/y/avkudr/cmake-mate.nvim)
 
 ### CTest
 

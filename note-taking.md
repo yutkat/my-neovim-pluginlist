@@ -122,6 +122,8 @@
 - [smsimone/todolist.nvim](https://github.com/smsimone/todolist.nvim) ![](https://img.shields.io/github/stars/smsimone/todolist.nvim) ![](https://img.shields.io/github/last-commit/smsimone/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/smsimone/todolist.nvim)
 - [pongpatapee/kanban.nvim](https://github.com/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/stars/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/last-commit/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/pongpatapee/kanban.nvim)
 - [adam-coates/todoist.nvim](https://github.com/adam-coates/todoist.nvim) ![](https://img.shields.io/github/stars/adam-coates/todoist.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/todoist.nvim)
+- [Sheeplet1/todo-view.nvim](https://github.com/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/stars/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/last-commit/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/commit-activity/y/Sheeplet1/todo-view.nvim)
+- [Hashino/doing.nvim](https://github.com/Hashino/doing.nvim) ![](https://img.shields.io/github/stars/Hashino/doing.nvim) ![](https://img.shields.io/github/last-commit/Hashino/doing.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/doing.nvim)
 
 ### Taskwarrior
 

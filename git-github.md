@@ -146,6 +146,7 @@
 - [mjacobus/telescope-gitmoji.nvim](https://github.com/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/stars/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/mjacobus/telescope-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/mjacobus/telescope-gitmoji.nvim)
 - [ViiEx/gcmh.nvim](https://github.com/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/stars/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/last-commit/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/commit-activity/y/ViiEx/gcmh.nvim)
 - [stefanlogue/meteor.nvim](https://github.com/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/stars/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/meteor.nvim)
+- [LuisanaMTDev/conventionalgc.nvim](https://github.com/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/stars/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/last-commit/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/commit-activity/y/LuisanaMTDev/conventionalgc.nvim)
 
 ### co authored
 
