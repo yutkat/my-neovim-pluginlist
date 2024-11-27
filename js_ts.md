@@ -15,10 +15,9 @@
 - [Toolchain](#toolchain)
   * [tsc(TypeScript compiler)](#tsctypescript-compiler)
   * [Type check](#type-check)
-  * [eslint](#eslint)
   * [Formatter](#formatter)
   * [Lint](#lint)
-    + [eslint](#eslint-1)
+    + [eslint](#eslint)
     + [OXC](#oxc)
   * [tsserver](#tsserver)
   * [Typst preview](#typst-preview)
@@ -124,12 +123,6 @@
 - [jellydn/typecheck.nvim](https://github.com/jellydn/typecheck.nvim) ![](https://img.shields.io/github/stars/jellydn/typecheck.nvim) ![](https://img.shields.io/github/last-commit/jellydn/typecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/typecheck.nvim)
 - [Canciller/typescript-type-checker.nvim](https://github.com/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/stars/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/last-commit/Canciller/typescript-type-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Canciller/typescript-type-checker.nvim)
 
-### eslint
-
-- [gi4c0/lint-node.nvim](https://github.com/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/stars/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/last-commit/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/commit-activity/y/gi4c0/lint-node.nvim)
-- [stornquist/eslint-workspace-linter.nvim](https://github.com/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/eslint-workspace-linter.nvim)
-- [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) ![](https://img.shields.io/github/stars/esmuellert/nvim-eslint) ![](https://img.shields.io/github/last-commit/esmuellert/nvim-eslint) ![](https://img.shields.io/github/commit-activity/y/esmuellert/nvim-eslint)
-
 ### Formatter
 
 - [MunifTanjim/prettier.nvim](https://github.com/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/prettier.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/prettier.nvim)
@@ -141,6 +134,9 @@
 #### eslint
 
 - [ceceppa/lint.nvim](https://github.com/ceceppa/lint.nvim) ![](https://img.shields.io/github/stars/ceceppa/lint.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/lint.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/lint.nvim)
+- [gi4c0/lint-node.nvim](https://github.com/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/stars/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/last-commit/gi4c0/lint-node.nvim) ![](https://img.shields.io/github/commit-activity/y/gi4c0/lint-node.nvim)
+- [stornquist/eslint-workspace-linter.nvim](https://github.com/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/eslint-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/eslint-workspace-linter.nvim)
+- [esmuellert/nvim-eslint](https://github.com/esmuellert/nvim-eslint) ![](https://img.shields.io/github/stars/esmuellert/nvim-eslint) ![](https://img.shields.io/github/last-commit/esmuellert/nvim-eslint) ![](https://img.shields.io/github/commit-activity/y/esmuellert/nvim-eslint)
 
 #### OXC
 
