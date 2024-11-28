@@ -22,6 +22,7 @@
 - [brianhuster/autosave.nvim](https://github.com/brianhuster/autosave.nvim) ![](https://img.shields.io/github/stars/brianhuster/autosave.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/autosave.nvim)
 - [NitroSniper/autowrite.nvim](https://github.com/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/stars/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/last-commit/NitroSniper/autowrite.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroSniper/autowrite.nvim)
 - [claydugo/tip-of-my-buffer.nvim](https://github.com/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/stars/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/last-commit/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/tip-of-my-buffer.nvim)
+- [muhammadzkralla/zpragmatic.nvim](https://github.com/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/stars/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/last-commit/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/commit-activity/y/muhammadzkralla/zpragmatic.nvim)
 
 ### Cursor Position
 

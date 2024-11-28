@@ -107,6 +107,7 @@
 - [maxmx03/diagpop.nvim](https://github.com/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/stars/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/diagpop.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/diagpop.nvim)
 - [TomDeneire/lsp-in-gutter.nvim](https://github.com/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/stars/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/last-commit/TomDeneire/lsp-in-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/TomDeneire/lsp-in-gutter.nvim)
 - [Tronikelis/debdiag.nvim](https://github.com/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/stars/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/debdiag.nvim)
+- [cperion/ai-diagnostics.nvim](https://github.com/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/stars/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/cperion/ai-diagnostics.nvim)
 
 ##### Diagnostics goto
 

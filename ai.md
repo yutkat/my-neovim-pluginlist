@@ -38,6 +38,7 @@
 - [Cursor](#cursor)
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
+- [Error Fix Support](#error-fix-support)
 - [OpenAI Review](#openai-review)
 - [Documentation](#documentation)
 - [Writefull](#writefull)
@@ -307,6 +308,10 @@
 ### Chatblade
 
 - [cmpadden/chatblade.nvim](https://github.com/cmpadden/chatblade.nvim) ![](https://img.shields.io/github/stars/cmpadden/chatblade.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/chatblade.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/chatblade.nvim)
+
+## Error Fix Support
+
+- [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
 
 ## OpenAI Review
 
