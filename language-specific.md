@@ -79,6 +79,8 @@
     + [ABC](#abc)
     + [Tcl/Tk](#tcltk)
     + [Moonbit](#moonbit)
+    + [MCNP](#mcnp)
+    + [Clingo](#clingo)
     + [OZ](#oz)
     + [Unison](#unison)
     + [LMNtal](#lmntal)
@@ -447,6 +449,14 @@
 ### Moonbit
 
 - [tonyfettes/moonbit.nvim](https://github.com/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/stars/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/last-commit/tonyfettes/moonbit.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyfettes/moonbit.nvim)
+
+### MCNP
+
+- [sodium-hydroxide/nvim-mcnp](https://github.com/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/stars/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/last-commit/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/commit-activity/y/sodium-hydroxide/nvim-mcnp)
+
+### Clingo
+
+- [rkaminsk/clingo-syntax.nvim](https://github.com/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/stars/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/last-commit/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/commit-activity/y/rkaminsk/clingo-syntax.nvim)
 
 ### OZ
 
