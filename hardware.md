@@ -33,7 +33,6 @@
 
 ### CAD
 
-- [petrisch/nvim-hicad](https://github.com/petrisch/nvim-hicad) ![](https://img.shields.io/github/stars/petrisch/nvim-hicad) ![](https://img.shields.io/github/last-commit/petrisch/nvim-hicad) ![](https://img.shields.io/github/commit-activity/y/petrisch/nvim-hicad)
 
 ### Verilog
 
