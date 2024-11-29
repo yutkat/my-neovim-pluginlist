@@ -288,11 +288,13 @@
 - [Shobhit-Nagpal/nvim-rafce](https://github.com/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/stars/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/last-commit/Shobhit-Nagpal/nvim-rafce) ![](https://img.shields.io/github/commit-activity/y/Shobhit-Nagpal/nvim-rafce)
 - [dromse/radon.nvim](https://github.com/dromse/radon.nvim) ![](https://img.shields.io/github/stars/dromse/radon.nvim) ![](https://img.shields.io/github/last-commit/dromse/radon.nvim) ![](https://img.shields.io/github/commit-activity/y/dromse/radon.nvim)
 - [TiagoMDG/react-comp-gen.nvim](https://github.com/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/stars/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/last-commit/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/TiagoMDG/react-comp-gen.nvim)
+- [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/stars/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/last-commit/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/commit-activity/y/harisb2012/tsnest.nvim)
 
 ### Vue
 
 - [codymikol/mason-vue-language-server-lazy-shim.nvim](https://github.com/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/stars/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/last-commit/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/commit-activity/y/codymikol/mason-vue-language-server-lazy-shim.nvim)
 - [catgoose/vue-goto-definition.nvim](https://github.com/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/stars/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/last-commit/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/vue-goto-definition.nvim)
+- [yimme/vue-marks.nvim](https://github.com/yimme/vue-marks.nvim) ![](https://img.shields.io/github/stars/yimme/vue-marks.nvim) ![](https://img.shields.io/github/last-commit/yimme/vue-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/yimme/vue-marks.nvim)
 
 #### Vleam
 
