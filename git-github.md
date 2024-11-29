@@ -49,6 +49,7 @@
   * [Trend](#trend)
   * [Issue](#issue)
   * [Pull Request](#pull-request)
+    + [Pull Request Comment](#pull-request-comment)
   * [Actions](#actions)
   * [Link](#link)
   * [Image](#image)
@@ -314,6 +315,7 @@
 # Jujutsu(jj)
 
 - [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
+- [swaits/lazyjj.nvim](https://github.com/swaits/lazyjj.nvim) ![](https://img.shields.io/github/stars/swaits/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/swaits/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/lazyjj.nvim)
 
 ## diff
 
@@ -366,6 +368,10 @@
 - [kamrul1157024/nvim-pr](https://github.com/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/stars/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/last-commit/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/commit-activity/y/kamrul1157024/nvim-pr)
 - [ryanvu/mai_pr.nvim](https://github.com/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/stars/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/last-commit/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanvu/mai_pr.nvim)
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) ![](https://img.shields.io/github/stars/daliusd/ghlite.nvim) ![](https://img.shields.io/github/last-commit/daliusd/ghlite.nvim) ![](https://img.shields.io/github/commit-activity/y/daliusd/ghlite.nvim)
+
+### Pull Request Comment
+
+- [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/stars/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/last-commit/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/mcnangus/pr-comments.nvim)
 
 ## Actions
 
