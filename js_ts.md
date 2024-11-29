@@ -189,6 +189,7 @@
 - [diegofigs/npackages.nvim](https://github.com/diegofigs/npackages.nvim) ![](https://img.shields.io/github/stars/diegofigs/npackages.nvim) ![](https://img.shields.io/github/last-commit/diegofigs/npackages.nvim) ![](https://img.shields.io/github/commit-activity/y/diegofigs/npackages.nvim)
 - [sajjathossain/nvim-npm](https://github.com/sajjathossain/nvim-npm) ![](https://img.shields.io/github/stars/sajjathossain/nvim-npm) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-npm) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-npm)
 - [maxolasersquad/npm-scripts.nvim](https://github.com/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/stars/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/last-commit/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/maxolasersquad/npm-scripts.nvim)
+- [antonk52/npm_scripts.nvim](https://github.com/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/stars/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/last-commit/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/npm_scripts.nvim)
 
 #### pnpm
 
