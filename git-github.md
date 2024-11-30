@@ -95,6 +95,7 @@
 - [bdsilver89/git2.nvim](https://github.com/bdsilver89/git2.nvim) ![](https://img.shields.io/github/stars/bdsilver89/git2.nvim) ![](https://img.shields.io/github/last-commit/bdsilver89/git2.nvim) ![](https://img.shields.io/github/commit-activity/y/bdsilver89/git2.nvim)
 - [paulo-granthon/agitate.nvim](https://github.com/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/stars/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/last-commit/paulo-granthon/agitate.nvim) ![](https://img.shields.io/github/commit-activity/y/paulo-granthon/agitate.nvim)
 - [goncaloalves/gitglide.nvim](https://github.com/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/stars/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/last-commit/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/commit-activity/y/goncaloalves/gitglide.nvim)
+- [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/git2.nvim)
 
 ## gitui
 

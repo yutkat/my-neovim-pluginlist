@@ -28,6 +28,7 @@
   * [Meilisearch](#meilisearch)
   * [Trello](#trello)
   * [WordPress](#wordpress)
+  * [Shopify](#shopify)
   * [Outline](#outline)
   * [Codeforce](#codeforce)
   * [compiler-explorer](#compiler-explorer)
@@ -186,6 +187,10 @@
 ### WordPress
 
 - [ahollister/wp-utils.nvim](https://github.com/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/stars/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/last-commit/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/wp-utils.nvim)
+
+### Shopify
+
+- [JulianH99/cmp-shopify-input-types](https://github.com/JulianH99/cmp-shopify-input-types) ![](https://img.shields.io/github/stars/JulianH99/cmp-shopify-input-types) ![](https://img.shields.io/github/last-commit/JulianH99/cmp-shopify-input-types) ![](https://img.shields.io/github/commit-activity/y/JulianH99/cmp-shopify-input-types)
 
 ### Outline
 

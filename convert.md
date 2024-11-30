@@ -6,6 +6,7 @@
   * [Adding and subtracting](#adding-and-subtracting)
   * [Convert Case](#convert-case)
   * [Convert Word](#convert-word)
+  * [Quote](#quote)
   * [Boolean](#boolean)
   * [Base64](#base64)
   * [Number](#number)
@@ -53,6 +54,10 @@
 
 - [SR-MyStar/antonym.nvim](https://github.com/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/antonym.nvim)
 - [gczcn/antonym.nvim](https://github.com/gczcn/antonym.nvim) ![](https://img.shields.io/github/stars/gczcn/antonym.nvim) ![](https://img.shields.io/github/last-commit/gczcn/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/gczcn/antonym.nvim)
+
+### Quote
+
+- [paul-louyot/toggle-quotes.nvim](https://github.com/paul-louyot/toggle-quotes.nvim) ![](https://img.shields.io/github/stars/paul-louyot/toggle-quotes.nvim) ![](https://img.shields.io/github/last-commit/paul-louyot/toggle-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/paul-louyot/toggle-quotes.nvim)
 
 ### Boolean
 
