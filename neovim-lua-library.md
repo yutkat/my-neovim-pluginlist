@@ -53,6 +53,7 @@
 - [random variable names](#random-variable-names)
 - [Mathematics](#mathematics)
 - [Treesitter](#treesitter)
+- [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
 - [Util wrapper](#util-wrapper)
 
@@ -324,6 +325,10 @@
 ## Treesitter
 
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/stars/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/last-commit/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/commit-activity/y/tjdevries/tree-sitter-lua)
+
+## Tokenizer
+
+- [sirasagi62/tinysegmenter.nvim](https://github.com/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/stars/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/last-commit/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/commit-activity/y/sirasagi62/tinysegmenter.nvim)
 
 ## Enhanced Standard Features
 
