@@ -132,3 +132,4 @@
 ### Treesitter Node
 
 - [ThenWhenceComethEvil/scheme-motions.nvim](https://github.com/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/stars/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/last-commit/ThenWhenceComethEvil/scheme-motions.nvim) ![](https://img.shields.io/github/commit-activity/y/ThenWhenceComethEvil/scheme-motions.nvim)
+- [aaronik/treewalker.nvim](https://github.com/aaronik/treewalker.nvim) ![](https://img.shields.io/github/stars/aaronik/treewalker.nvim) ![](https://img.shields.io/github/last-commit/aaronik/treewalker.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronik/treewalker.nvim)

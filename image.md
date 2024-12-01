@@ -68,6 +68,7 @@
 - [NStefan002/screenkey.nvim](https://github.com/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/stars/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/screenkey.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/screenkey.nvim)
 - [Piotr1215/typeit.nvim](https://github.com/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/stars/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/typeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/typeit.nvim)
 - [tigh-latte/showoff.nvim](https://github.com/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/stars/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/last-commit/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/commit-activity/y/tigh-latte/showoff.nvim)
+- [17xande/track.nvim](https://github.com/17xande/track.nvim) ![](https://img.shields.io/github/stars/17xande/track.nvim) ![](https://img.shields.io/github/last-commit/17xande/track.nvim) ![](https://img.shields.io/github/commit-activity/y/17xande/track.nvim)
 
 #### Code Image
 

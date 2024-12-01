@@ -9,6 +9,7 @@
   * [URL](#url)
   * [Register Selector](#register-selector)
   * [Edit Register](#edit-register)
+  * [Lock Register](#lock-register)
   * [Line Number](#line-number)
   * [OSC52](#osc52)
   * [System Clipboard](#system-clipboard)
@@ -75,6 +76,10 @@
 
 - [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
 - [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
+
+### Lock Register
+
+- [daltongd/yanklock.nvim](https://github.com/daltongd/yanklock.nvim) ![](https://img.shields.io/github/stars/daltongd/yanklock.nvim) ![](https://img.shields.io/github/last-commit/daltongd/yanklock.nvim) ![](https://img.shields.io/github/commit-activity/y/daltongd/yanklock.nvim)
 
 ### Line Number
 
