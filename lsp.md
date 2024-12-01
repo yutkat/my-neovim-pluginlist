@@ -35,6 +35,7 @@
 - [Command](#command)
   * [Disable/Enable](#disableenable)
   * [Handler](#handler)
+  * [lsptrace](#lsptrace)
   * [Language server](#language-server)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
@@ -276,6 +277,10 @@
 ### Handler
 
 - [IrisRainbow7/telescope-lsp-server-capabilities.nvim](https://github.com/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/stars/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/last-commit/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/commit-activity/y/IrisRainbow7/telescope-lsp-server-capabilities.nvim)
+
+### lsptrace
+
+- [mparq/lsptrace.nvim](https://github.com/mparq/lsptrace.nvim) ![](https://img.shields.io/github/stars/mparq/lsptrace.nvim) ![](https://img.shields.io/github/last-commit/mparq/lsptrace.nvim) ![](https://img.shields.io/github/commit-activity/y/mparq/lsptrace.nvim)
 
 ### Language server
 

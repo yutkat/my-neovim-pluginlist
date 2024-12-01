@@ -260,6 +260,7 @@
 
 - [jumanbar/tocnavigator.nvim](https://github.com/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/stars/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/last-commit/jumanbar/tocnavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/jumanbar/tocnavigator.nvim)
 - [dreanod/rtests.nvim](https://github.com/dreanod/rtests.nvim) ![](https://img.shields.io/github/stars/dreanod/rtests.nvim) ![](https://img.shields.io/github/last-commit/dreanod/rtests.nvim) ![](https://img.shields.io/github/commit-activity/y/dreanod/rtests.nvim)
+- [conig/nvim-target-target](https://github.com/conig/nvim-target-target) ![](https://img.shields.io/github/stars/conig/nvim-target-target) ![](https://img.shields.io/github/last-commit/conig/nvim-target-target) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-target-target)
 
 ### Shellscript(bash)
 
