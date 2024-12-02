@@ -151,6 +151,7 @@
 ### Swift
 
 - [m-housh/swift.nvim](https://github.com/m-housh/swift.nvim) ![](https://img.shields.io/github/stars/m-housh/swift.nvim) ![](https://img.shields.io/github/last-commit/m-housh/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/m-housh/swift.nvim)
+- [ha100/thor.nvim](https://github.com/ha100/thor.nvim) ![](https://img.shields.io/github/stars/ha100/thor.nvim) ![](https://img.shields.io/github/last-commit/ha100/thor.nvim) ![](https://img.shields.io/github/commit-activity/y/ha100/thor.nvim)
 
 ### Scala
 

@@ -54,6 +54,7 @@
 - [njayman/season.nvim](https://github.com/njayman/season.nvim) ![](https://img.shields.io/github/stars/njayman/season.nvim) ![](https://img.shields.io/github/last-commit/njayman/season.nvim) ![](https://img.shields.io/github/commit-activity/y/njayman/season.nvim)
 - [Tronikelis/sstash.nvim](https://github.com/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/stars/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/sstash.nvim)
 - [sebszyller/sesh.nvim](https://github.com/sebszyller/sesh.nvim) ![](https://img.shields.io/github/stars/sebszyller/sesh.nvim) ![](https://img.shields.io/github/last-commit/sebszyller/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/sebszyller/sesh.nvim)
+- [xuanyuwang/session-manager.nvim](https://github.com/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/stars/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/last-commit/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xuanyuwang/session-manager.nvim)
 
 ## Session Selector
 

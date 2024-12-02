@@ -273,6 +273,7 @@
 ### Disable/Enable
 
 - [adoyle-h/lsp-toggle.nvim](https://github.com/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/lsp-toggle.nvim)
+- [tronikelis/lsp-gc.nvim](https://github.com/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/stars/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/lsp-gc.nvim)
 
 ### Handler
 

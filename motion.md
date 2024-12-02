@@ -87,6 +87,7 @@
 - [Laellekoenig/first.nvim](https://github.com/Laellekoenig/first.nvim) ![](https://img.shields.io/github/stars/Laellekoenig/first.nvim) ![](https://img.shields.io/github/last-commit/Laellekoenig/first.nvim) ![](https://img.shields.io/github/commit-activity/y/Laellekoenig/first.nvim)
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) ![](https://img.shields.io/github/stars/mawkler/demicolon.nvim) ![](https://img.shields.io/github/last-commit/mawkler/demicolon.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/demicolon.nvim)
 - [atusy/jab.nvim](https://github.com/atusy/jab.nvim) ![](https://img.shields.io/github/stars/atusy/jab.nvim) ![](https://img.shields.io/github/last-commit/atusy/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/jab.nvim)
+- [teraoka-k/sonido.nvim](https://github.com/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/stars/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/last-commit/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/commit-activity/y/teraoka-k/sonido.nvim)
 
 #### Show jump word
 

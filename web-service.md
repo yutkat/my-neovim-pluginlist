@@ -7,6 +7,7 @@
     + [Matrix.org](#matrixorg)
     + [Discord](#discord)
     + [Slack](#slack)
+    + [IRC](#irc)
     + [iMessage](#imessage)
   * [SNS](#sns)
     + [Mastodon](#mastodon)
@@ -82,6 +83,10 @@
 #### Slack
 
 - [alex-laycalvert/slack.nvim](https://github.com/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/slack.nvim)
+
+#### IRC
+
+- [boredcoder411/nirc](https://github.com/boredcoder411/nirc) ![](https://img.shields.io/github/stars/boredcoder411/nirc) ![](https://img.shields.io/github/last-commit/boredcoder411/nirc) ![](https://img.shields.io/github/commit-activity/y/boredcoder411/nirc)
 
 #### iMessage
 
@@ -170,6 +175,7 @@
 - [OceanMan156/spot.nvim](https://github.com/OceanMan156/spot.nvim) ![](https://img.shields.io/github/stars/OceanMan156/spot.nvim) ![](https://img.shields.io/github/last-commit/OceanMan156/spot.nvim) ![](https://img.shields.io/github/commit-activity/y/OceanMan156/spot.nvim)
 - [kellyiscute/spotify.nvim](https://github.com/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/stars/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/last-commit/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/kellyiscute/spotify.nvim)
 - [externalhost0/spotty.nvim](https://github.com/externalhost0/spotty.nvim) ![](https://img.shields.io/github/stars/externalhost0/spotty.nvim) ![](https://img.shields.io/github/last-commit/externalhost0/spotty.nvim) ![](https://img.shields.io/github/commit-activity/y/externalhost0/spotty.nvim)
+- [spinalshock/spotify.nvim](https://github.com/spinalshock/spotify.nvim) ![](https://img.shields.io/github/stars/spinalshock/spotify.nvim) ![](https://img.shields.io/github/last-commit/spinalshock/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/spinalshock/spotify.nvim)
 
 ### StackOverflow
 
