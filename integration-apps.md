@@ -219,6 +219,7 @@
 - [paytonward6/nvim-wezlime](https://github.com/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/stars/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/last-commit/paytonward6/nvim-wezlime) ![](https://img.shields.io/github/commit-activity/y/paytonward6/nvim-wezlime)
 - [letieu/wezterm-move.nvim](https://github.com/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/stars/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/last-commit/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/wezterm-move.nvim)
 - [ianhomer/wezterm.nvim](https://github.com/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/stars/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/last-commit/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ianhomer/wezterm.nvim)
+- [kedarmd/nvim-wez-navigator.nvim](https://github.com/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/stars/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/last-commit/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kedarmd/nvim-wez-navigator.nvim)
 
 #### Windows Terminal
 

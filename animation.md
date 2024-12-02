@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Animation](#animation)
+  * [Snow effect](#snow-effect)
   * [Type sound](#type-sound)
   * [event sound](#event-sound)
 - [Screen server](#screen-server)
@@ -13,6 +14,10 @@
 
 - [Derrekito/nvim-type-anim](https://github.com/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/stars/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/last-commit/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/nvim-type-anim)
 - [paradoxskin/boringBubble.nvim](https://github.com/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/stars/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/boringBubble.nvim)
+
+### Snow effect
+
+- [marcussimonsen/let-it-snow.nvim](https://github.com/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/stars/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/last-commit/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/commit-activity/y/marcussimonsen/let-it-snow.nvim)
 
 ### Type sound
 

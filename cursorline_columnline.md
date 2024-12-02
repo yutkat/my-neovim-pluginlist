@@ -6,6 +6,7 @@
   * [tweak](#tweak)
 - [Columnline](#columnline)
   * [limit column](#limit-column)
+  * [EOL](#eol)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@
 ### limit column
 
 - [fouladi/toggle-overlength.nvim](https://github.com/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/stars/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/last-commit/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/toggle-overlength.nvim)
+
+### EOL
+
+- [aidancz/eolmark.nvim](https://github.com/aidancz/eolmark.nvim) ![](https://img.shields.io/github/stars/aidancz/eolmark.nvim) ![](https://img.shields.io/github/last-commit/aidancz/eolmark.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/eolmark.nvim)

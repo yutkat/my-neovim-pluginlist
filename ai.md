@@ -173,6 +173,7 @@
 - [Dan7h3x/chatter.nvim](https://github.com/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/chatter.nvim)
 - [goropikari/prompt-chat.nvim](https://github.com/goropikari/prompt-chat.nvim) ![](https://img.shields.io/github/stars/goropikari/prompt-chat.nvim) ![](https://img.shields.io/github/last-commit/goropikari/prompt-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/prompt-chat.nvim)
 - [goropikari/ollama.nvim](https://github.com/goropikari/ollama.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama.nvim)
+- [yuys13/collama.nvim](https://github.com/yuys13/collama.nvim) ![](https://img.shields.io/github/stars/yuys13/collama.nvim) ![](https://img.shields.io/github/last-commit/yuys13/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/collama.nvim)
 
 ### Claude
 
