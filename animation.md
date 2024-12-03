@@ -18,6 +18,7 @@
 ### Snow effect
 
 - [marcussimonsen/let-it-snow.nvim](https://github.com/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/stars/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/last-commit/marcussimonsen/let-it-snow.nvim) ![](https://img.shields.io/github/commit-activity/y/marcussimonsen/let-it-snow.nvim)
+- [OJII3/snowfall.nvim](https://github.com/OJII3/snowfall.nvim) ![](https://img.shields.io/github/stars/OJII3/snowfall.nvim) ![](https://img.shields.io/github/last-commit/OJII3/snowfall.nvim) ![](https://img.shields.io/github/commit-activity/y/OJII3/snowfall.nvim)
 
 ### Type sound
 

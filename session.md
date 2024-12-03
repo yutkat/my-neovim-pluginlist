@@ -55,6 +55,7 @@
 - [Tronikelis/sstash.nvim](https://github.com/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/stars/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/sstash.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/sstash.nvim)
 - [sebszyller/sesh.nvim](https://github.com/sebszyller/sesh.nvim) ![](https://img.shields.io/github/stars/sebszyller/sesh.nvim) ![](https://img.shields.io/github/last-commit/sebszyller/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/sebszyller/sesh.nvim)
 - [xuanyuwang/session-manager.nvim](https://github.com/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/stars/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/last-commit/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xuanyuwang/session-manager.nvim)
+- [like2foxes/foxession.nvim](https://github.com/like2foxes/foxession.nvim) ![](https://img.shields.io/github/stars/like2foxes/foxession.nvim) ![](https://img.shields.io/github/last-commit/like2foxes/foxession.nvim) ![](https://img.shields.io/github/commit-activity/y/like2foxes/foxession.nvim)
 
 ## Session Selector
 
