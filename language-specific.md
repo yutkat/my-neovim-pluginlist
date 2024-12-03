@@ -43,6 +43,7 @@
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
+    + [Spade](#spade)
     + [Racket](#racket)
       - [Test](#test)
     + [Processing](#processing)
@@ -311,6 +312,10 @@
 ### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+### Spade
+
+- [ethanuppal/spade.nvim](https://github.com/ethanuppal/spade.nvim) ![](https://img.shields.io/github/stars/ethanuppal/spade.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/spade.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/spade.nvim)
 
 ### Racket
 

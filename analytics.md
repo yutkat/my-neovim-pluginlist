@@ -57,6 +57,7 @@
 ### Typing speed
 
 - [JakobSachs/typing-metrics.nvim](https://github.com/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/stars/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/last-commit/JakobSachs/typing-metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/JakobSachs/typing-metrics.nvim)
+- [Pekikii/apm.nvim](https://github.com/Pekikii/apm.nvim) ![](https://img.shields.io/github/stars/Pekikii/apm.nvim) ![](https://img.shields.io/github/last-commit/Pekikii/apm.nvim) ![](https://img.shields.io/github/commit-activity/y/Pekikii/apm.nvim)
 
 ### Operation Log
 
