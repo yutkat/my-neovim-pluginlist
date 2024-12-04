@@ -184,6 +184,7 @@
 - [justinhj/chatty-ai-service-anthropic.nvim](https://github.com/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-anthropic.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-anthropic.nvim)
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) ![](https://img.shields.io/github/stars/tjdevries/luai.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/luai.nvim)
 - [saibayadon/llm-buffer.nvim](https://github.com/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/stars/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/last-commit/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saibayadon/llm-buffer.nvim)
+- [default-anton/llm-sidekick.nvim](https://github.com/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/stars/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/last-commit/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/default-anton/llm-sidekick.nvim)
 
 ### Supermaven
 

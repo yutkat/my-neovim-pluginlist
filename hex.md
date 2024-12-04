@@ -13,6 +13,7 @@
 - [mgastonportillo/binary-peek.nvim](https://github.com/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/stars/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/last-commit/mgastonportillo/binary-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/mgastonportillo/binary-peek.nvim)
 - [lukost/Ox.nvim](https://github.com/lukost/Ox.nvim) ![](https://img.shields.io/github/stars/lukost/Ox.nvim) ![](https://img.shields.io/github/last-commit/lukost/Ox.nvim) ![](https://img.shields.io/github/commit-activity/y/lukost/Ox.nvim)
 - [dmxk062/hexed.nvim](https://github.com/dmxk062/hexed.nvim) ![](https://img.shields.io/github/stars/dmxk062/hexed.nvim) ![](https://img.shields.io/github/last-commit/dmxk062/hexed.nvim) ![](https://img.shields.io/github/commit-activity/y/dmxk062/hexed.nvim)
+- [MichaelTennant/nvim-hexdump](https://github.com/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/stars/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/last-commit/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/commit-activity/y/MichaelTennant/nvim-hexdump)
 
 ### Hex Editor
 

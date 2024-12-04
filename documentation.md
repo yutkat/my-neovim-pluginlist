@@ -308,6 +308,7 @@
 - [IsaacTay/nougat.nvim](https://github.com/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/stars/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/last-commit/IsaacTay/nougat.nvim) ![](https://img.shields.io/github/commit-activity/y/IsaacTay/nougat.nvim)
 - [PaysanCorrezien/pdf.nvim](https://github.com/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/stars/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/last-commit/PaysanCorrezien/pdf.nvim) ![](https://img.shields.io/github/commit-activity/y/PaysanCorrezien/pdf.nvim)
 - [basola21/PDFview](https://github.com/basola21/PDFview) ![](https://img.shields.io/github/stars/basola21/PDFview) ![](https://img.shields.io/github/last-commit/basola21/PDFview) ![](https://img.shields.io/github/commit-activity/y/basola21/PDFview)
+- [HubertusWeber/PaperPlane.nvim](https://github.com/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/stars/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/last-commit/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertusWeber/PaperPlane.nvim)
 
 ### EPUB
 
