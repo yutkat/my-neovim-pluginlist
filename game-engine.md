@@ -8,6 +8,7 @@
   * [Godot](#godot)
   * [Roblox studio](#roblox-studio)
   * [Garry's Mod](#garrys-mod)
+  * [Bevy](#bevy)
 
 <!-- tocstop -->
 
@@ -41,3 +42,7 @@
 ### Garry's Mod
 
 - [wrldspawn/nvim-gmod-luadev](https://github.com/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/stars/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/last-commit/wrldspawn/nvim-gmod-luadev) ![](https://img.shields.io/github/commit-activity/y/wrldspawn/nvim-gmod-luadev)
+
+### Bevy
+
+- [Lommix/bevy_inspector.nvim](https://github.com/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/stars/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/last-commit/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/bevy_inspector.nvim)

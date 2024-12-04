@@ -33,6 +33,7 @@
 - [vqcuong/window-picker.nvim](https://github.com/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/stars/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/last-commit/vqcuong/window-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/vqcuong/window-picker.nvim)
 - [inertialshock/kangaroo.nvim](https://github.com/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/stars/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/last-commit/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/commit-activity/y/inertialshock/kangaroo.nvim)
 - [NStefan002/wormhole.nvim](https://github.com/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/stars/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/wormhole.nvim)
+- [OfferLifted/window-selector.nvim](https://github.com/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/stars/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/window-selector.nvim)
 
 ### Window Management
 
@@ -117,6 +118,8 @@
 - [xsmallo/opacity.nvim](https://github.com/xsmallo/opacity.nvim) ![](https://img.shields.io/github/stars/xsmallo/opacity.nvim) ![](https://img.shields.io/github/last-commit/xsmallo/opacity.nvim) ![](https://img.shields.io/github/commit-activity/y/xsmallo/opacity.nvim)
 - [JuanBaut/eclipse.nvim](https://github.com/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/stars/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/last-commit/JuanBaut/eclipse.nvim) ![](https://img.shields.io/github/commit-activity/y/JuanBaut/eclipse.nvim)
 - [TaDaa/vimade](https://github.com/TaDaa/vimade) ![](https://img.shields.io/github/stars/TaDaa/vimade) ![](https://img.shields.io/github/last-commit/TaDaa/vimade) ![](https://img.shields.io/github/commit-activity/y/TaDaa/vimade)
+- [jceb/blinds.nvim](https://github.com/jceb/blinds.nvim) ![](https://img.shields.io/github/stars/jceb/blinds.nvim) ![](https://img.shields.io/github/last-commit/jceb/blinds.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/blinds.nvim)
+- [OfferLifted/inactive-dimmer.nvim](https://github.com/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/stars/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/inactive-dimmer.nvim)
 
 #### Window Number
 

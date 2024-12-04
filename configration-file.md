@@ -43,6 +43,7 @@
 - [goropikari/jnv.nvim](https://github.com/goropikari/jnv.nvim) ![](https://img.shields.io/github/stars/goropikari/jnv.nvim) ![](https://img.shields.io/github/last-commit/goropikari/jnv.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/jnv.nvim)
 - [philippdrebes/jsonpath.nvim](https://github.com/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/stars/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/philippdrebes/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/philippdrebes/jsonpath.nvim)
 - [GZLiew/jsonpath.nvim](https://github.com/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/stars/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/GZLiew/jsonpath.nvim)
+- [yochem/jq-playground.nvim](https://github.com/yochem/jq-playground.nvim) ![](https://img.shields.io/github/stars/yochem/jq-playground.nvim) ![](https://img.shields.io/github/last-commit/yochem/jq-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jq-playground.nvim)
 
 #### fx
 
