@@ -22,6 +22,7 @@
     + [Explorer](#explorer)
     + [Everything](#everything)
     + [AutoHotKey](#autohotkey)
+    + [windbg](#windbg)
     + [WSL](#wsl)
   * [Mac](#mac)
     + [Window Manager](#window-manager)
@@ -111,6 +112,10 @@
 
 - [DasGandlaf/nvim-autohotkey](https://github.com/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/stars/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/last-commit/DasGandlaf/nvim-autohotkey) ![](https://img.shields.io/github/commit-activity/y/DasGandlaf/nvim-autohotkey)
 - [GrzegorzKozub/ahk.nvim](https://github.com/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/stars/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/last-commit/GrzegorzKozub/ahk.nvim) ![](https://img.shields.io/github/commit-activity/y/GrzegorzKozub/ahk.nvim)
+
+#### windbg
+
+- [zeiran/nvim-windbg](https://github.com/zeiran/nvim-windbg) ![](https://img.shields.io/github/stars/zeiran/nvim-windbg) ![](https://img.shields.io/github/last-commit/zeiran/nvim-windbg) ![](https://img.shields.io/github/commit-activity/y/zeiran/nvim-windbg)
 
 #### WSL
 
