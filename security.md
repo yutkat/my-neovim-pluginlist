@@ -7,6 +7,7 @@
   * [Encrypt](#encrypt)
 - [Privacy](#privacy)
 - [GPG](#gpg)
+- [Sigma rule](#sigma-rule)
 
 <!-- tocstop -->
 
@@ -42,3 +43,7 @@
 ### GPG
 
 - [defyus/doxly.nvim](https://github.com/defyus/doxly.nvim) ![](https://img.shields.io/github/stars/defyus/doxly.nvim) ![](https://img.shields.io/github/last-commit/defyus/doxly.nvim) ![](https://img.shields.io/github/commit-activity/y/defyus/doxly.nvim)
+
+### Sigma rule
+
+- [pop-ecx/sigma_picker.nvim](https://github.com/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/stars/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/last-commit/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/pop-ecx/sigma_picker.nvim)

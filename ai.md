@@ -185,6 +185,7 @@
 - [tjdevries/luai.nvim](https://github.com/tjdevries/luai.nvim) ![](https://img.shields.io/github/stars/tjdevries/luai.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/luai.nvim)
 - [saibayadon/llm-buffer.nvim](https://github.com/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/stars/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/last-commit/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saibayadon/llm-buffer.nvim)
 - [default-anton/llm-sidekick.nvim](https://github.com/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/stars/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/last-commit/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/default-anton/llm-sidekick.nvim)
+- [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) ![](https://img.shields.io/github/stars/dlants/magenta.nvim) ![](https://img.shields.io/github/last-commit/dlants/magenta.nvim) ![](https://img.shields.io/github/commit-activity/y/dlants/magenta.nvim)
 
 ### Supermaven
 
