@@ -91,6 +91,7 @@
 ## Line Count
 
 - [TuTaRdrgZ/ft_count_lines.nvim](https://github.com/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/stars/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/last-commit/TuTaRdrgZ/ft_count_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/TuTaRdrgZ/ft_count_lines.nvim)
+- [gcanoxl/cloc.nvim](https://github.com/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/stars/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/last-commit/gcanoxl/cloc.nvim) ![](https://img.shields.io/github/commit-activity/y/gcanoxl/cloc.nvim)
 
 ## Comment search
 

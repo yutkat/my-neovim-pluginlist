@@ -6,6 +6,7 @@
   * [Delimiter](#delimiter)
   * [Arguments](#arguments)
   * [URL](#url)
+  * [Placeholder](#placeholder)
 - [Syntax](#syntax)
   * [Semantic highlight](#semantic-highlight)
   * [Colorizer](#colorizer)
@@ -53,6 +54,10 @@
 ### URL
 
 - [rubiin/highlighturl.nvim](https://github.com/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/stars/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/last-commit/rubiin/highlighturl.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/highlighturl.nvim)
+
+### Placeholder
+
+- [Joreh-T/placeholder_highlighter.nvim](https://github.com/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/stars/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/placeholder_highlighter.nvim)
 
 ## Syntax
 
