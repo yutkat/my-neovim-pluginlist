@@ -125,6 +125,7 @@
 - [Sheeplet1/todo-view.nvim](https://github.com/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/stars/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/last-commit/Sheeplet1/todo-view.nvim) ![](https://img.shields.io/github/commit-activity/y/Sheeplet1/todo-view.nvim)
 - [Hashino/doing.nvim](https://github.com/Hashino/doing.nvim) ![](https://img.shields.io/github/stars/Hashino/doing.nvim) ![](https://img.shields.io/github/last-commit/Hashino/doing.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/doing.nvim)
 - [KasperJSdeVries/plan.nvim](https://github.com/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/stars/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/last-commit/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/KasperJSdeVries/plan.nvim)
+- [renancavalcantercb/todo.nvim](https://github.com/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/stars/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/last-commit/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/renancavalcantercb/todo.nvim)
 
 ### Taskwarrior
 
