@@ -92,6 +92,7 @@
 - [EvWilson/slimux.nvim](https://github.com/EvWilson/slimux.nvim) ![](https://img.shields.io/github/stars/EvWilson/slimux.nvim) ![](https://img.shields.io/github/last-commit/EvWilson/slimux.nvim) ![](https://img.shields.io/github/commit-activity/y/EvWilson/slimux.nvim)
 - [canova/tmux-jump.nvim](https://github.com/canova/tmux-jump.nvim) ![](https://img.shields.io/github/stars/canova/tmux-jump.nvim) ![](https://img.shields.io/github/last-commit/canova/tmux-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/canova/tmux-jump.nvim)
 - [rpapallas/nvim-tmux-commander](https://github.com/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/stars/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/last-commit/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/commit-activity/y/rpapallas/nvim-tmux-commander)
+- [juselara1/tmutils.nvim](https://github.com/juselara1/tmutils.nvim) ![](https://img.shields.io/github/stars/juselara1/tmutils.nvim) ![](https://img.shields.io/github/last-commit/juselara1/tmutils.nvim) ![](https://img.shields.io/github/commit-activity/y/juselara1/tmutils.nvim)
 
 ##### tmux alternative
 

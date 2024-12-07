@@ -7,6 +7,7 @@
   * [Arguments](#arguments)
   * [URL](#url)
   * [Placeholder](#placeholder)
+  * [Whitespace](#whitespace)
 - [Syntax](#syntax)
   * [Semantic highlight](#semantic-highlight)
   * [Colorizer](#colorizer)
@@ -58,6 +59,10 @@
 ### Placeholder
 
 - [Joreh-T/placeholder_highlighter.nvim](https://github.com/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/stars/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/placeholder_highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/placeholder_highlighter.nvim)
+
+### Whitespace
+
+- [aidancz/whitespace.nvim](https://github.com/aidancz/whitespace.nvim) ![](https://img.shields.io/github/stars/aidancz/whitespace.nvim) ![](https://img.shields.io/github/last-commit/aidancz/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/whitespace.nvim)
 
 ## Syntax
 
@@ -177,6 +182,7 @@
 - [mei28/blink-bang-word-light.nvim](https://github.com/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/stars/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/last-commit/mei28/blink-bang-word-light.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/blink-bang-word-light.nvim)
 - [EmilOhlsson/highlighter.nvim](https://github.com/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/highlighter.nvim)
 - [utubo/hlpairs.nvim](https://github.com/utubo/hlpairs.nvim) ![](https://img.shields.io/github/stars/utubo/hlpairs.nvim) ![](https://img.shields.io/github/last-commit/utubo/hlpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/utubo/hlpairs.nvim)
+- [saliola/accentuate.nvim](https://github.com/saliola/accentuate.nvim) ![](https://img.shields.io/github/stars/saliola/accentuate.nvim) ![](https://img.shields.io/github/last-commit/saliola/accentuate.nvim) ![](https://img.shields.io/github/commit-activity/y/saliola/accentuate.nvim)
 
 ### Current block highlight
 
