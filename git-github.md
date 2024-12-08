@@ -13,6 +13,7 @@
     + [co authored](#co-authored)
     + [Auto commit](#auto-commit)
     + [pre-commit](#pre-commit)
+    + [commit reminder](#commit-reminder)
   * [git fetch](#git-fetch)
   * [git push](#git-push)
   * [git checkout](#git-checkout)
@@ -162,6 +163,10 @@
 ### pre-commit
 
 - [seiay/commit-tia.nvim](https://github.com/seiay/commit-tia.nvim) ![](https://img.shields.io/github/stars/seiay/commit-tia.nvim) ![](https://img.shields.io/github/last-commit/seiay/commit-tia.nvim) ![](https://img.shields.io/github/commit-activity/y/seiay/commit-tia.nvim)
+
+### commit reminder
+
+- [nick-skriabin/commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/commitment.nvim)
 
 ## git fetch
 
