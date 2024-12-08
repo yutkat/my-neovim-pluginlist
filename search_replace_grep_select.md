@@ -132,6 +132,7 @@
 - [Sayyidalijufri/findreplace.nvim](https://github.com/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/findreplace.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/findreplace.nvim)
 - [Async10/nvim-keepcase](https://github.com/Async10/nvim-keepcase) ![](https://img.shields.io/github/stars/Async10/nvim-keepcase) ![](https://img.shields.io/github/last-commit/Async10/nvim-keepcase) ![](https://img.shields.io/github/commit-activity/y/Async10/nvim-keepcase)
 - [p-nerd/sr.nvim](https://github.com/p-nerd/sr.nvim) ![](https://img.shields.io/github/stars/p-nerd/sr.nvim) ![](https://img.shields.io/github/last-commit/p-nerd/sr.nvim) ![](https://img.shields.io/github/commit-activity/y/p-nerd/sr.nvim)
+- [vi013t/dragonfly.nvim](https://github.com/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/stars/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/last-commit/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/dragonfly.nvim)
 
 ## Rename
 
