@@ -107,6 +107,7 @@
 
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/stars/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/last-commit/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/kdheepak/lazygit.nvim)
 - [oncomouse/lazygit.nvim](https://github.com/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/stars/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/lazygit.nvim)
+- [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/stars/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/tsugit.nvim)
 
 ## git clone
 
