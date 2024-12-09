@@ -44,6 +44,8 @@
     + [WebC](#webc)
     + [Cairo](#cairo)
     + [Spade](#spade)
+    + [Radiant](#radiant)
+    + [BAML](#baml)
     + [Racket](#racket)
       - [Test](#test)
     + [Processing](#processing)
@@ -316,6 +318,14 @@
 ### Spade
 
 - [ethanuppal/spade.nvim](https://github.com/ethanuppal/spade.nvim) ![](https://img.shields.io/github/stars/ethanuppal/spade.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/spade.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/spade.nvim)
+
+### Radiant
+
+- [mahgoh/radiant.nvim](https://github.com/mahgoh/radiant.nvim) ![](https://img.shields.io/github/stars/mahgoh/radiant.nvim) ![](https://img.shields.io/github/last-commit/mahgoh/radiant.nvim) ![](https://img.shields.io/github/commit-activity/y/mahgoh/radiant.nvim)
+
+### BAML
+
+- [klepp0/nvim-baml-syntax](https://github.com/klepp0/nvim-baml-syntax) ![](https://img.shields.io/github/stars/klepp0/nvim-baml-syntax) ![](https://img.shields.io/github/last-commit/klepp0/nvim-baml-syntax) ![](https://img.shields.io/github/commit-activity/y/klepp0/nvim-baml-syntax)
 
 ### Racket
 
