@@ -64,6 +64,7 @@
 - [Sapling](#sapling)
 - [BigBucket](#bigbucket)
 - [Sourcegraph](#sourcegraph)
+- [Perforce](#perforce)
 - [CLI](#cli)
   * [Graphite](#graphite)
   * [Backup](#backup)
@@ -481,6 +482,10 @@
 # Sourcegraph
 
 - [DefiDepotSuper/sg.nvim](https://github.com/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/stars/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/last-commit/DefiDepotSuper/sg.nvim) ![](https://img.shields.io/github/commit-activity/y/DefiDepotSuper/sg.nvim)
+
+# Perforce
+
+- [motiongorilla/p4nvim](https://github.com/motiongorilla/p4nvim) ![](https://img.shields.io/github/stars/motiongorilla/p4nvim) ![](https://img.shields.io/github/last-commit/motiongorilla/p4nvim) ![](https://img.shields.io/github/commit-activity/y/motiongorilla/p4nvim)
 
 # CLI
 
