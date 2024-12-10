@@ -29,6 +29,7 @@
 #### Secrets
 
 - [conneroisu/doppler.nvim](https://github.com/conneroisu/doppler.nvim) ![](https://img.shields.io/github/stars/conneroisu/doppler.nvim) ![](https://img.shields.io/github/last-commit/conneroisu/doppler.nvim) ![](https://img.shields.io/github/commit-activity/y/conneroisu/doppler.nvim)
+- [lemarsu/sops.nvim](https://github.com/lemarsu/sops.nvim) ![](https://img.shields.io/github/stars/lemarsu/sops.nvim) ![](https://img.shields.io/github/last-commit/lemarsu/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/lemarsu/sops.nvim)
 
 #### Encrypt
 
