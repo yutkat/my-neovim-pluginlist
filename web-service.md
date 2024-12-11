@@ -278,6 +278,7 @@
 - [andtankian/nxtest.nvim](https://github.com/andtankian/nxtest.nvim) ![](https://img.shields.io/github/stars/andtankian/nxtest.nvim) ![](https://img.shields.io/github/last-commit/andtankian/nxtest.nvim) ![](https://img.shields.io/github/commit-activity/y/andtankian/nxtest.nvim)
 - [James-Kni/fzf-nx.nvim](https://github.com/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/stars/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/last-commit/James-Kni/fzf-nx.nvim) ![](https://img.shields.io/github/commit-activity/y/James-Kni/fzf-nx.nvim)
 - [shadowgate15/nx.nvim](https://github.com/shadowgate15/nx.nvim) ![](https://img.shields.io/github/stars/shadowgate15/nx.nvim) ![](https://img.shields.io/github/last-commit/shadowgate15/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowgate15/nx.nvim)
+- [perryrh0dan/nx.nvim](https://github.com/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/stars/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/last-commit/perryrh0dan/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/perryrh0dan/nx.nvim)
 
 ### Jenkins
 

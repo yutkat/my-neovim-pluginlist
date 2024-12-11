@@ -12,6 +12,7 @@
   * [Debug](#debug)
   * [Profiler](#profiler)
 - [LSP](#lsp)
+  * [inlayhint](#inlayhint)
 - [Docstring](#docstring)
 - [pydoc](#pydoc)
   * [Stacktrace](#stacktrace)
@@ -89,6 +90,10 @@
 ## LSP
 
 - [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) ![](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim) ![](https://img.shields.io/github/commit-activity/y/neolooong/whichpy.nvim)
+
+### inlayhint
+
+- [Davidyz/inlayhint-filler.nvim](https://github.com/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/stars/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/inlayhint-filler.nvim)
 
 ## Docstring
 
