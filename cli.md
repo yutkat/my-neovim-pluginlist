@@ -133,6 +133,7 @@
 - [SergioRibera/cmp-dotenv](https://github.com/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/stars/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/last-commit/SergioRibera/cmp-dotenv) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/cmp-dotenv)
 - [petermnhull/nvim-dotenv](https://github.com/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/stars/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/last-commit/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/commit-activity/y/petermnhull/nvim-dotenv)
 - [amihere/dotenv.nvim](https://github.com/amihere/dotenv.nvim) ![](https://img.shields.io/github/stars/amihere/dotenv.nvim) ![](https://img.shields.io/github/last-commit/amihere/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/amihere/dotenv.nvim)
+- [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/commit-activity/y/philosofonusus/ecolog.nvim)
 
 #### direnv
 
