@@ -12,6 +12,7 @@
 - [Reactive](#reactive)
 - [String](#string)
 - [List](#list)
+- [Save lua variable](#save-lua-variable)
 - [File](#file)
   * [Path](#path)
 - [Exec](#exec)
@@ -117,6 +118,10 @@
 
 - [al1-ce/jsfunc.nvim](https://github.com/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/stars/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/jsfunc.nvim)
 
+## Save lua variable
+
+- [lbzfran/lasts.nvim](https://github.com/lbzfran/lasts.nvim) ![](https://img.shields.io/github/stars/lbzfran/lasts.nvim) ![](https://img.shields.io/github/last-commit/lbzfran/lasts.nvim) ![](https://img.shields.io/github/commit-activity/y/lbzfran/lasts.nvim)
+
 ## File
 
 - [nvim-lua/plenary.nvim(file)](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
@@ -172,6 +177,7 @@
 - [Axlefublr/selabel.nvim](https://github.com/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/stars/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/selabel.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/selabel.nvim)
 - [Axlefublr/dress.nvim](https://github.com/Axlefublr/dress.nvim) ![](https://img.shields.io/github/stars/Axlefublr/dress.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/dress.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/dress.nvim)
 - [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/stars/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/toolbox.nvim)
+- [vi013t/input.nvim](https://github.com/vi013t/input.nvim) ![](https://img.shields.io/github/stars/vi013t/input.nvim) ![](https://img.shields.io/github/last-commit/vi013t/input.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/input.nvim)
 
 ### Popup
 

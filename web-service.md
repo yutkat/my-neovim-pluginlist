@@ -176,6 +176,7 @@
 - [kellyiscute/spotify.nvim](https://github.com/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/stars/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/last-commit/kellyiscute/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/kellyiscute/spotify.nvim)
 - [externalhost0/spotty.nvim](https://github.com/externalhost0/spotty.nvim) ![](https://img.shields.io/github/stars/externalhost0/spotty.nvim) ![](https://img.shields.io/github/last-commit/externalhost0/spotty.nvim) ![](https://img.shields.io/github/commit-activity/y/externalhost0/spotty.nvim)
 - [spinalshock/spotify.nvim](https://github.com/spinalshock/spotify.nvim) ![](https://img.shields.io/github/stars/spinalshock/spotify.nvim) ![](https://img.shields.io/github/last-commit/spinalshock/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/spinalshock/spotify.nvim)
+- [ollbx/spotify-player.nvim](https://github.com/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/stars/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/spotify-player.nvim)
 
 ### StackOverflow
 

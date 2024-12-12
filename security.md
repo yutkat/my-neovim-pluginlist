@@ -36,6 +36,7 @@
 - [elentok/encrypt.nvim](https://github.com/elentok/encrypt.nvim) ![](https://img.shields.io/github/stars/elentok/encrypt.nvim) ![](https://img.shields.io/github/last-commit/elentok/encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/encrypt.nvim)
 - [trixnz/sops.nvim](https://github.com/trixnz/sops.nvim) ![](https://img.shields.io/github/stars/trixnz/sops.nvim) ![](https://img.shields.io/github/last-commit/trixnz/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/trixnz/sops.nvim)
 - [MrMichou/nvim-hiera.nvim](https://github.com/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/stars/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/last-commit/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/commit-activity/y/MrMichou/nvim-hiera.nvim)
+- [abhi-xyz/just.nvim](https://github.com/abhi-xyz/just.nvim) ![](https://img.shields.io/github/stars/abhi-xyz/just.nvim) ![](https://img.shields.io/github/last-commit/abhi-xyz/just.nvim) ![](https://img.shields.io/github/commit-activity/y/abhi-xyz/just.nvim)
 
 ### Privacy
 
