@@ -25,6 +25,7 @@
 - [VidocqH/auto-indent.nvim](https://github.com/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/stars/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/last-commit/VidocqH/auto-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/VidocqH/auto-indent.nvim)
 - [ochi12/neodent.nvim](https://github.com/ochi12/neodent.nvim) ![](https://img.shields.io/github/stars/ochi12/neodent.nvim) ![](https://img.shields.io/github/last-commit/ochi12/neodent.nvim) ![](https://img.shields.io/github/commit-activity/y/ochi12/neodent.nvim)
 - [suwuako/fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/stars/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/last-commit/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/commit-activity/y/suwuako/fibonaccindent.nvim)
+- [daikonk/catt.nvim](https://github.com/daikonk/catt.nvim) ![](https://img.shields.io/github/stars/daikonk/catt.nvim) ![](https://img.shields.io/github/last-commit/daikonk/catt.nvim) ![](https://img.shields.io/github/commit-activity/y/daikonk/catt.nvim)
 
 ### Indent Shift
 

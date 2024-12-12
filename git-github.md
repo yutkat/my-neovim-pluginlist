@@ -377,6 +377,7 @@
 - [ryanvu/mai_pr.nvim](https://github.com/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/stars/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/last-commit/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanvu/mai_pr.nvim)
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) ![](https://img.shields.io/github/stars/daliusd/ghlite.nvim) ![](https://img.shields.io/github/last-commit/daliusd/ghlite.nvim) ![](https://img.shields.io/github/commit-activity/y/daliusd/ghlite.nvim)
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
+- [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
 
 ### Pull Request Comment
 
