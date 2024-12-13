@@ -17,6 +17,7 @@
     + [fribidi](#fribidi)
     + [Inkscape](#inkscape)
     + [Rofi](#rofi)
+    + [Noti](#noti)
     + [xrandr](#xrandr)
   * [Windows](#windows)
     + [Explorer](#explorer)
@@ -93,6 +94,10 @@
 #### Rofi
 
 - [giacomo618/rofi-select.nvim](https://github.com/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/stars/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/last-commit/giacomo618/rofi-select.nvim) ![](https://img.shields.io/github/commit-activity/y/giacomo618/rofi-select.nvim)
+
+#### Noti
+
+- [noti-rs/noti.nvim](https://github.com/noti-rs/noti.nvim) ![](https://img.shields.io/github/stars/noti-rs/noti.nvim) ![](https://img.shields.io/github/last-commit/noti-rs/noti.nvim) ![](https://img.shields.io/github/commit-activity/y/noti-rs/noti.nvim)
 
 #### xrandr
 

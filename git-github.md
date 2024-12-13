@@ -109,6 +109,7 @@
 - [kdheepak/lazygit.nvim](https://github.com/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/stars/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/last-commit/kdheepak/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/kdheepak/lazygit.nvim)
 - [oncomouse/lazygit.nvim](https://github.com/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/stars/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/lazygit.nvim)
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/stars/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/tsugit.nvim)
+- [zachbuchli/lazygit.nvim](https://github.com/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/stars/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/lazygit.nvim)
 
 ## git clone
 
@@ -324,6 +325,7 @@
 
 - [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
 - [swaits/lazyjj.nvim](https://github.com/swaits/lazyjj.nvim) ![](https://img.shields.io/github/stars/swaits/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/swaits/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/lazyjj.nvim)
+- [obayemi/jjsigns.nvim](https://github.com/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/stars/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/obayemi/jjsigns.nvim)
 
 ## diff
 

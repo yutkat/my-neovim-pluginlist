@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Save](#save)
+  * [Edit history](#edit-history)
   * [Cursor Position](#cursor-position)
 - [Backup](#backup)
 
@@ -24,6 +25,10 @@
 - [claydugo/tip-of-my-buffer.nvim](https://github.com/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/stars/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/last-commit/claydugo/tip-of-my-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/tip-of-my-buffer.nvim)
 - [muhammadzkralla/zpragmatic.nvim](https://github.com/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/stars/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/last-commit/muhammadzkralla/zpragmatic.nvim) ![](https://img.shields.io/github/commit-activity/y/muhammadzkralla/zpragmatic.nvim)
 - [brunofpessoa/autosave.nvim](https://github.com/brunofpessoa/autosave.nvim) ![](https://img.shields.io/github/stars/brunofpessoa/autosave.nvim) ![](https://img.shields.io/github/last-commit/brunofpessoa/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/brunofpessoa/autosave.nvim)
+
+### Edit history
+
+- [franpfeiffer/worklog.nvim](https://github.com/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/worklog.nvim)
 
 ### Cursor Position
 
