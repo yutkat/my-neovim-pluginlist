@@ -88,6 +88,7 @@
 - [mawkler/demicolon.nvim](https://github.com/mawkler/demicolon.nvim) ![](https://img.shields.io/github/stars/mawkler/demicolon.nvim) ![](https://img.shields.io/github/last-commit/mawkler/demicolon.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/demicolon.nvim)
 - [atusy/jab.nvim](https://github.com/atusy/jab.nvim) ![](https://img.shields.io/github/stars/atusy/jab.nvim) ![](https://img.shields.io/github/last-commit/atusy/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/jab.nvim)
 - [teraoka-k/sonido.nvim](https://github.com/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/stars/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/last-commit/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/commit-activity/y/teraoka-k/sonido.nvim)
+- [aidancz/tT.nvim](https://github.com/aidancz/tT.nvim) ![](https://img.shields.io/github/stars/aidancz/tT.nvim) ![](https://img.shields.io/github/last-commit/aidancz/tT.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/tT.nvim)
 
 #### Show jump word
 

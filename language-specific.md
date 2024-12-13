@@ -104,6 +104,7 @@
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
   * [exercism](#exercism)
+  * [Advent of code](#advent-of-code)
 - [Configuration](#configuration)
 
 <!-- tocstop -->
@@ -560,6 +561,10 @@
 ## exercism
 
 - [2KAbhishek/exercism.nvim](https://github.com/2KAbhishek/exercism.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/exercism.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/exercism.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/exercism.nvim)
+
+## Advent of code
+
+- [csessh/aoc.nvim](https://github.com/csessh/aoc.nvim) ![](https://img.shields.io/github/stars/csessh/aoc.nvim) ![](https://img.shields.io/github/last-commit/csessh/aoc.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/aoc.nvim)
 
 # Configuration
 

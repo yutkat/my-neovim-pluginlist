@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Help](#help)
+  * [Neovim doc](#neovim-doc)
   * [CheatSheet](#cheatsheet)
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
@@ -27,6 +28,10 @@
 - [phanen/lazy-help.nvim](https://github.com/phanen/lazy-help.nvim) ![](https://img.shields.io/github/stars/phanen/lazy-help.nvim) ![](https://img.shields.io/github/last-commit/phanen/lazy-help.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lazy-help.nvim)
 - [adigitoleo/haunt.nvim](https://github.com/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/stars/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/haunt.nvim)
 - [OXY2DEV/helpview.nvim](https://github.com/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/helpview.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/helpview.nvim)
+
+### Neovim doc
+
+- [delphinus/open-official-doc.nvim](https://github.com/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/stars/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/last-commit/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/open-official-doc.nvim)
 
 ### CheatSheet
 

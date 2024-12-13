@@ -44,6 +44,7 @@
 - [vsinagl/codetracker.nvim](https://github.com/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/stars/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/last-commit/vsinagl/codetracker.nvim) ![](https://img.shields.io/github/commit-activity/y/vsinagl/codetracker.nvim)
 - [alikaya/youtrack.nvim](https://github.com/alikaya/youtrack.nvim) ![](https://img.shields.io/github/stars/alikaya/youtrack.nvim) ![](https://img.shields.io/github/last-commit/alikaya/youtrack.nvim) ![](https://img.shields.io/github/commit-activity/y/alikaya/youtrack.nvim)
 - [alfredosa/devtime.nvim](https://github.com/alfredosa/devtime.nvim) ![](https://img.shields.io/github/stars/alfredosa/devtime.nvim) ![](https://img.shields.io/github/last-commit/alfredosa/devtime.nvim) ![](https://img.shields.io/github/commit-activity/y/alfredosa/devtime.nvim)
+- [wd60622/toggl.nvim](https://github.com/wd60622/toggl.nvim) ![](https://img.shields.io/github/stars/wd60622/toggl.nvim) ![](https://img.shields.io/github/last-commit/wd60622/toggl.nvim) ![](https://img.shields.io/github/commit-activity/y/wd60622/toggl.nvim)
 
 #### Timewarrior
 
