@@ -81,6 +81,7 @@
 - [Minnowo/sch.nvim](https://github.com/Minnowo/sch.nvim) ![](https://img.shields.io/github/stars/Minnowo/sch.nvim) ![](https://img.shields.io/github/last-commit/Minnowo/sch.nvim) ![](https://img.shields.io/github/commit-activity/y/Minnowo/sch.nvim)
 - [rocktimsaikia/color-switch.nvim](https://github.com/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/stars/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/last-commit/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/rocktimsaikia/color-switch.nvim)
 - [arztareef/colorify.nvim](https://github.com/arztareef/colorify.nvim) ![](https://img.shields.io/github/stars/arztareef/colorify.nvim) ![](https://img.shields.io/github/last-commit/arztareef/colorify.nvim) ![](https://img.shields.io/github/commit-activity/y/arztareef/colorify.nvim)
+- [joelflaig/colorify.nvim](https://github.com/joelflaig/colorify.nvim) ![](https://img.shields.io/github/stars/joelflaig/colorify.nvim) ![](https://img.shields.io/github/last-commit/joelflaig/colorify.nvim) ![](https://img.shields.io/github/commit-activity/y/joelflaig/colorify.nvim)
 
 ### Color picker
 

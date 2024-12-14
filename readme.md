@@ -262,6 +262,7 @@
 - [ins0mniaque/sacrilege.nvim](https://github.com/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/stars/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/last-commit/ins0mniaque/sacrilege.nvim) ![](https://img.shields.io/github/commit-activity/y/ins0mniaque/sacrilege.nvim)
 - [csessh/stopinsert.nvim](https://github.com/csessh/stopinsert.nvim) ![](https://img.shields.io/github/stars/csessh/stopinsert.nvim) ![](https://img.shields.io/github/last-commit/csessh/stopinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/stopinsert.nvim)
 - [Akirisu-kirisu/nvim-insert-mode](https://github.com/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/stars/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/last-commit/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/commit-activity/y/Akirisu-kirisu/nvim-insert-mode)
+- [aidancz/lfsp.nvim](https://github.com/aidancz/lfsp.nvim) ![](https://img.shields.io/github/stars/aidancz/lfsp.nvim) ![](https://img.shields.io/github/last-commit/aidancz/lfsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/lfsp.nvim)
 
 #### Smart Tab
 
@@ -345,6 +346,7 @@
 - [redxtech/sharing.nvim](https://github.com/redxtech/sharing.nvim) ![](https://img.shields.io/github/stars/redxtech/sharing.nvim) ![](https://img.shields.io/github/last-commit/redxtech/sharing.nvim) ![](https://img.shields.io/github/commit-activity/y/redxtech/sharing.nvim)
 - [Sayyidalijufri/termlinehide.nvim](https://github.com/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/termlinehide.nvim)
 - [DarrellBrogdon/trnu.nvim](https://github.com/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/stars/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/last-commit/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/commit-activity/y/DarrellBrogdon/trnu.nvim)
+- [fluxdiv/relative-rainbow.nvim](https://github.com/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/stars/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/relative-rainbow.nvim)
 
 ### [Mark](./mark.md)
 
@@ -460,6 +462,7 @@
 ### Generate documentation
 
 - [Zeioth/dooku.nvim](https://github.com/Zeioth/dooku.nvim) ![](https://img.shields.io/github/stars/Zeioth/dooku.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/dooku.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/dooku.nvim)
+- [jeangiraldoo/codedocs.nvim](https://github.com/jeangiraldoo/codedocs.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/codedocs.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/codedocs.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/codedocs.nvim)
 
 ### [Code outline](./code-outline.md)
 

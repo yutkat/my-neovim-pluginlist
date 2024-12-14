@@ -20,6 +20,7 @@
   * [pypi](#pypi)
   * [venv](#venv)
   * [Poetry](#poetry)
+  * [Mesone](#mesone)
   * [Jupyter](#jupyter)
   * [Pandas](#pandas)
   * [DataFrame](#dataframe)
@@ -131,6 +132,10 @@
 ### Poetry
 
 - [iomallach/poetry.nvim](https://github.com/iomallach/poetry.nvim) ![](https://img.shields.io/github/stars/iomallach/poetry.nvim) ![](https://img.shields.io/github/last-commit/iomallach/poetry.nvim) ![](https://img.shields.io/github/commit-activity/y/iomallach/poetry.nvim)
+
+### Mesone
+
+- [marc0x71/mesone.nvim](https://github.com/marc0x71/mesone.nvim) ![](https://img.shields.io/github/stars/marc0x71/mesone.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/mesone.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/mesone.nvim)
 
 ### Jupyter
 

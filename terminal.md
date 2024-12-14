@@ -79,6 +79,7 @@
 - [friedow/buggler.nvim](https://github.com/friedow/buggler.nvim) ![](https://img.shields.io/github/stars/friedow/buggler.nvim) ![](https://img.shields.io/github/last-commit/friedow/buggler.nvim) ![](https://img.shields.io/github/commit-activity/y/friedow/buggler.nvim)
 - [LunarLambda/quickterm.nvim](https://github.com/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/stars/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/last-commit/LunarLambda/quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/quickterm.nvim)
 - [ingur/floatty.nvim](https://github.com/ingur/floatty.nvim) ![](https://img.shields.io/github/stars/ingur/floatty.nvim) ![](https://img.shields.io/github/last-commit/ingur/floatty.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/floatty.nvim)
+- [sajibt/flexterm.nvim](https://github.com/sajibt/flexterm.nvim) ![](https://img.shields.io/github/stars/sajibt/flexterm.nvim) ![](https://img.shields.io/github/last-commit/sajibt/flexterm.nvim) ![](https://img.shields.io/github/commit-activity/y/sajibt/flexterm.nvim)
 
 ### Edit
 
