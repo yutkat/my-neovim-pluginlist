@@ -85,6 +85,7 @@
 ### console.log
 
 - [bad4iz/console.log.nvim](https://github.com/bad4iz/console.log.nvim) ![](https://img.shields.io/github/stars/bad4iz/console.log.nvim) ![](https://img.shields.io/github/last-commit/bad4iz/console.log.nvim) ![](https://img.shields.io/github/commit-activity/y/bad4iz/console.log.nvim)
+- [sabinsthnp/nvim-log-insert](https://github.com/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/stars/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/last-commit/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/commit-activity/y/sabinsthnp/nvim-log-insert)
 
 ### export
 
@@ -322,6 +323,7 @@
 - [StephenGunn/sveltecheck.nvim](https://github.com/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/stars/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/last-commit/StephenGunn/sveltecheck.nvim) ![](https://img.shields.io/github/commit-activity/y/StephenGunn/sveltecheck.nvim)
 - [jamesblckwell/nvimkit.nvim](https://github.com/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/stars/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/last-commit/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesblckwell/nvimkit.nvim)
 - [ryoppippi/vim-svelte-inspector](https://github.com/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/stars/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/last-commit/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/vim-svelte-inspector)
+- [theIbraDev/sveltekit_motions.nvim](https://github.com/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/stars/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/last-commit/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/commit-activity/y/theIbraDev/sveltekit_motions.nvim)
 
 ### Node.js
 

@@ -363,6 +363,7 @@
 - [Freed-Wu/ime.nvim](https://github.com/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/ime.nvim)
 - [lazy-dinosaur/Backtoeng.nvim](https://github.com/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/stars/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/last-commit/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/commit-activity/y/lazy-dinosaur/Backtoeng.nvim)
 - [iamxiaojianzheng/im-switch-for-windows.nvim](https://github.com/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/stars/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/last-commit/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/iamxiaojianzheng/im-switch-for-windows.nvim)
+- [vaxowt/aimswitcher.nvim](https://github.com/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/stars/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/last-commit/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/vaxowt/aimswitcher.nvim)
 
 #### Fcitx
 

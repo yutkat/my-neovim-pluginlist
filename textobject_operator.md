@@ -10,6 +10,7 @@
   * [Move](#move)
   * [Surround](#surround)
 - [Operator](#operator)
+  * [Replace](#replace)
   * [s](#s)
 
 <!-- tocstop -->
@@ -78,6 +79,10 @@
 - [echasnovski/mini.operators](https://github.com/echasnovski/mini.operators) ![](https://img.shields.io/github/stars/echasnovski/mini.operators) ![](https://img.shields.io/github/last-commit/echasnovski/mini.operators) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.operators)
 - [cat-phish/smooth-operator.nvim](https://github.com/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/stars/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/smooth-operator.nvim)
 - [monaqa/general-converter.nvim](https://github.com/monaqa/general-converter.nvim) ![](https://img.shields.io/github/stars/monaqa/general-converter.nvim) ![](https://img.shields.io/github/last-commit/monaqa/general-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/general-converter.nvim)
+
+### Replace
+
+- [tar80/rereope.nvim](https://github.com/tar80/rereope.nvim) ![](https://img.shields.io/github/stars/tar80/rereope.nvim) ![](https://img.shields.io/github/last-commit/tar80/rereope.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/rereope.nvim)
 
 ### s
 
