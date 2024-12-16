@@ -327,6 +327,7 @@
 - [xpcoffee/nvim-markdown-adaptor](https://github.com/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-adaptor) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-adaptor)
 - [dilithaw123/pandoc.nvim](https://github.com/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/stars/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/last-commit/dilithaw123/pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/dilithaw123/pandoc.nvim)
 - [gabrielfruet/pandocking.nvim](https://github.com/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/pandocking.nvim)
+- [calcu1on/ahoy.nvim](https://github.com/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/stars/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/last-commit/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/commit-activity/y/calcu1on/ahoy.nvim)
 
 ### Vimdoc
 
