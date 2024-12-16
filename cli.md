@@ -233,6 +233,7 @@
 
 - [pgdanes/nug.nvim](https://github.com/pgdanes/nug.nvim) ![](https://img.shields.io/github/stars/pgdanes/nug.nvim) ![](https://img.shields.io/github/last-commit/pgdanes/nug.nvim) ![](https://img.shields.io/github/commit-activity/y/pgdanes/nug.nvim)
 - [abdulrahmanDev1/nuget.nvim](https://github.com/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/stars/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/last-commit/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/commit-activity/y/abdulrahmanDev1/nuget.nvim)
+- [quffe/nvim-nuget](https://github.com/quffe/nvim-nuget) ![](https://img.shields.io/github/stars/quffe/nvim-nuget) ![](https://img.shields.io/github/last-commit/quffe/nvim-nuget) ![](https://img.shields.io/github/commit-activity/y/quffe/nvim-nuget)
 
 #### ssh
 

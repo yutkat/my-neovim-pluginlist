@@ -16,4 +16,5 @@
 - [eliseshaffer/tableau.nvim](https://github.com/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/stars/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/last-commit/eliseshaffer/tableau.nvim) ![](https://img.shields.io/github/commit-activity/y/eliseshaffer/tableau.nvim)
 - [mnjm/topline.nvim](https://github.com/mnjm/topline.nvim) ![](https://img.shields.io/github/stars/mnjm/topline.nvim) ![](https://img.shields.io/github/last-commit/mnjm/topline.nvim) ![](https://img.shields.io/github/commit-activity/y/mnjm/topline.nvim)
 - [TeddyRandby/taboo.nvim](https://github.com/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/stars/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/last-commit/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/commit-activity/y/TeddyRandby/taboo.nvim)
+- [ecuasonic/elements.nvim](https://github.com/ecuasonic/elements.nvim) ![](https://img.shields.io/github/stars/ecuasonic/elements.nvim) ![](https://img.shields.io/github/last-commit/ecuasonic/elements.nvim) ![](https://img.shields.io/github/commit-activity/y/ecuasonic/elements.nvim)
 

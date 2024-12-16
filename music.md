@@ -29,6 +29,7 @@
 - [paulfrische/mpd.nvim](https://github.com/paulfrische/mpd.nvim) ![](https://img.shields.io/github/stars/paulfrische/mpd.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mpd.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mpd.nvim)
 - [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
 - [alexxGmZ/player.nvim](https://github.com/alexxGmZ/player.nvim) ![](https://img.shields.io/github/stars/alexxGmZ/player.nvim) ![](https://img.shields.io/github/last-commit/alexxGmZ/player.nvim) ![](https://img.shields.io/github/commit-activity/y/alexxGmZ/player.nvim)
+- [aroario2003/neomusic.nvim](https://github.com/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/stars/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/last-commit/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/commit-activity/y/aroario2003/neomusic.nvim)
 
 ### Apple music
 

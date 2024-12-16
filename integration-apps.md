@@ -305,6 +305,7 @@
 - [danarth/telescope-ado.nvim](https://github.com/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-ado.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-ado.nvim)
 - [dan-nicholls/azure-cli.nvim](https://github.com/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/stars/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/last-commit/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dan-nicholls/azure-cli.nvim)
 - [Willem-J-an/adopure.nvim](https://github.com/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/adopure.nvim)
+- [zachbuchli/azcli.nvim](https://github.com/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/stars/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/azcli.nvim)
 
 #### Adobe
 
