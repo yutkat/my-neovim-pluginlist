@@ -29,6 +29,7 @@
   * [Anaconda](#anaconda)
   * [Databricks](#databricks)
   * [Scrapy](#scrapy)
+- [django](#django)
 - [MicroPython](#micropython)
 - [Quix](#quix)
 - [Nuke](#nuke)
@@ -179,6 +180,10 @@
 ### Scrapy
 
 - [Uszczi/nvim-scrapy-debug](https://github.com/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/stars/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/last-commit/Uszczi/nvim-scrapy-debug) ![](https://img.shields.io/github/commit-activity/y/Uszczi/nvim-scrapy-debug)
+
+## django
+
+- [shtayeb/nvim-django-shell](https://github.com/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/stars/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/last-commit/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/commit-activity/y/shtayeb/nvim-django-shell)
 
 ## MicroPython
 

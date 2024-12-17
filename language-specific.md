@@ -88,6 +88,7 @@
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
+    + [Jule](#jule)
     + [Gren](#gren)
     + [Solidity](#solidity)
     + [Koan](#koan)
@@ -134,6 +135,7 @@
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
 - [markchristianlacap/cs_to_ts.nvim](https://github.com/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/stars/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/last-commit/markchristianlacap/cs_to_ts.nvim) ![](https://img.shields.io/github/commit-activity/y/markchristianlacap/cs_to_ts.nvim)
 - [DestopLine/boilersharp.nvim](https://github.com/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/stars/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/boilersharp.nvim)
+- [seblj/roslyn.nvim](https://github.com/seblj/roslyn.nvim) ![](https://img.shields.io/github/stars/seblj/roslyn.nvim) ![](https://img.shields.io/github/last-commit/seblj/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/seblj/roslyn.nvim)
 
 #### Compile
 
@@ -491,6 +493,10 @@
 ### Eno
 
 - [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
+
+### Jule
+
+- [julelang/jule.nvim](https://github.com/julelang/jule.nvim) ![](https://img.shields.io/github/stars/julelang/jule.nvim) ![](https://img.shields.io/github/last-commit/julelang/jule.nvim) ![](https://img.shields.io/github/commit-activity/y/julelang/jule.nvim)
 
 ### Gren
 

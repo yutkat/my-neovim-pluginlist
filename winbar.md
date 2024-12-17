@@ -16,4 +16,5 @@
 - [Ramilito/winbar.nvim](https://github.com/Ramilito/winbar.nvim) ![](https://img.shields.io/github/stars/Ramilito/winbar.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/winbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/winbar.nvim)
 - [LunarVim/breadcrumbs.nvim](https://github.com/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/stars/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/LunarVim/breadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarVim/breadcrumbs.nvim)
 - [xStormyy/topbar.nvim](https://github.com/xStormyy/topbar.nvim) ![](https://img.shields.io/github/stars/xStormyy/topbar.nvim) ![](https://img.shields.io/github/last-commit/xStormyy/topbar.nvim) ![](https://img.shields.io/github/commit-activity/y/xStormyy/topbar.nvim)
+- [mdLafrance/tabby.nvim](https://github.com/mdLafrance/tabby.nvim) ![](https://img.shields.io/github/stars/mdLafrance/tabby.nvim) ![](https://img.shields.io/github/last-commit/mdLafrance/tabby.nvim) ![](https://img.shields.io/github/commit-activity/y/mdLafrance/tabby.nvim)
 

@@ -72,6 +72,7 @@
 - [cschult/insgitheader.nvim](https://github.com/cschult/insgitheader.nvim) ![](https://img.shields.io/github/stars/cschult/insgitheader.nvim) ![](https://img.shields.io/github/last-commit/cschult/insgitheader.nvim) ![](https://img.shields.io/github/commit-activity/y/cschult/insgitheader.nvim)
 - [Diogo-ss/42-header.nvim](https://github.com/Diogo-ss/42-header.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/42-header.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/42-header.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/42-header.nvim)
 - [956MB/head.nvim](https://github.com/956MB/head.nvim) ![](https://img.shields.io/github/stars/956MB/head.nvim) ![](https://img.shields.io/github/last-commit/956MB/head.nvim) ![](https://img.shields.io/github/commit-activity/y/956MB/head.nvim)
+- [verdigris12/auctor.nvim](https://github.com/verdigris12/auctor.nvim) ![](https://img.shields.io/github/stars/verdigris12/auctor.nvim) ![](https://img.shields.io/github/last-commit/verdigris12/auctor.nvim) ![](https://img.shields.io/github/commit-activity/y/verdigris12/auctor.nvim)
 
 ## Todo Comment
 
