@@ -93,6 +93,7 @@
 - [canova/tmux-jump.nvim](https://github.com/canova/tmux-jump.nvim) ![](https://img.shields.io/github/stars/canova/tmux-jump.nvim) ![](https://img.shields.io/github/last-commit/canova/tmux-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/canova/tmux-jump.nvim)
 - [rpapallas/nvim-tmux-commander](https://github.com/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/stars/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/last-commit/rpapallas/nvim-tmux-commander) ![](https://img.shields.io/github/commit-activity/y/rpapallas/nvim-tmux-commander)
 - [juselara1/tmutils.nvim](https://github.com/juselara1/tmutils.nvim) ![](https://img.shields.io/github/stars/juselara1/tmutils.nvim) ![](https://img.shields.io/github/last-commit/juselara1/tmutils.nvim) ![](https://img.shields.io/github/commit-activity/y/juselara1/tmutils.nvim)
+- [itamark-targa/tmux_commands.nvim](https://github.com/itamark-targa/tmux_commands.nvim) ![](https://img.shields.io/github/stars/itamark-targa/tmux_commands.nvim) ![](https://img.shields.io/github/last-commit/itamark-targa/tmux_commands.nvim) ![](https://img.shields.io/github/commit-activity/y/itamark-targa/tmux_commands.nvim)
 
 ##### tmux alternative
 

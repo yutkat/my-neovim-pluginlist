@@ -162,6 +162,7 @@
 - [neovim-plugin/lightbulb.nvim](https://github.com/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/lightbulb.nvim)
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-code-action.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-code-action.nvim)
 - [fnune/codeactions-on-save.nvim](https://github.com/fnune/codeactions-on-save.nvim) ![](https://img.shields.io/github/stars/fnune/codeactions-on-save.nvim) ![](https://img.shields.io/github/last-commit/fnune/codeactions-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/fnune/codeactions-on-save.nvim)
+- [jordangarcia/ts-actions.nvim](https://github.com/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/stars/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/last-commit/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/jordangarcia/ts-actions.nvim)
 
 #### Hint
 
