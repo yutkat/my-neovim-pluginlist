@@ -8,6 +8,7 @@
     + [move](#move)
     + [swap](#swap)
     + [layout](#layout)
+    + [close](#close)
     + [keep window](#keep-window)
     + [center](#center)
     + [split](#split)
@@ -68,6 +69,10 @@
 - [distek/panel.nvim](https://github.com/distek/panel.nvim) ![](https://img.shields.io/github/stars/distek/panel.nvim) ![](https://img.shields.io/github/last-commit/distek/panel.nvim) ![](https://img.shields.io/github/commit-activity/y/distek/panel.nvim)
 - [hek14/layman.nvim](https://github.com/hek14/layman.nvim) ![](https://img.shields.io/github/stars/hek14/layman.nvim) ![](https://img.shields.io/github/last-commit/hek14/layman.nvim) ![](https://img.shields.io/github/commit-activity/y/hek14/layman.nvim)
 - [DrKGD/pragma.nvim](https://github.com/DrKGD/pragma.nvim) ![](https://img.shields.io/github/stars/DrKGD/pragma.nvim) ![](https://img.shields.io/github/last-commit/DrKGD/pragma.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKGD/pragma.nvim)
+
+#### close
+
+- [tomxkay/pane-surgeon.nvim](https://github.com/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/stars/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/last-commit/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/commit-activity/y/tomxkay/pane-surgeon.nvim)
 
 #### keep window
 

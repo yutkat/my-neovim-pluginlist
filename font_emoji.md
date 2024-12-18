@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Font](#font)
+- [Unicode character](#unicode-character)
 - [Icon](#icon)
   * [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -20,6 +21,10 @@
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 - [abcdefg233/fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/stars/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/fontresizer.nvim)
+
+## Unicode character
+
+- [Zeta611/tex2uni.nvim](https://github.com/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/stars/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/last-commit/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeta611/tex2uni.nvim)
 
 ## Icon
 
