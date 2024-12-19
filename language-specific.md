@@ -50,6 +50,7 @@
       - [Test](#test)
     + [Processing](#processing)
     + [Promela](#promela)
+    + [Gno](#gno)
     + [Agda](#agda)
     + [Monkey](#monkey)
     + [GNU APL](#gnu-apl)
@@ -345,6 +346,10 @@
 ### Promela
 
 - [sebostien/spin.nvim](https://github.com/sebostien/spin.nvim) ![](https://img.shields.io/github/stars/sebostien/spin.nvim) ![](https://img.shields.io/github/last-commit/sebostien/spin.nvim) ![](https://img.shields.io/github/commit-activity/y/sebostien/spin.nvim)
+
+### Gno
+
+- [x1unix/gno.nvim](https://github.com/x1unix/gno.nvim) ![](https://img.shields.io/github/stars/x1unix/gno.nvim) ![](https://img.shields.io/github/last-commit/x1unix/gno.nvim) ![](https://img.shields.io/github/commit-activity/y/x1unix/gno.nvim)
 
 ### Agda
 

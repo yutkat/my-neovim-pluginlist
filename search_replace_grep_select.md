@@ -164,6 +164,7 @@
 - [cristy-the-one/es.nvim](https://github.com/cristy-the-one/es.nvim) ![](https://img.shields.io/github/stars/cristy-the-one/es.nvim) ![](https://img.shields.io/github/last-commit/cristy-the-one/es.nvim) ![](https://img.shields.io/github/commit-activity/y/cristy-the-one/es.nvim)
 - [Cannafox/fox-grep.nvim](https://github.com/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/stars/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/last-commit/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannafox/fox-grep.nvim)
 - [allcentury/telescope_csearch.nvim](https://github.com/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/stars/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/last-commit/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/commit-activity/y/allcentury/telescope_csearch.nvim)
+- [BrunoCiccarino/lazygrep.nvim](https://github.com/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/stars/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/last-commit/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/BrunoCiccarino/lazygrep.nvim)
 
 ## AST
 

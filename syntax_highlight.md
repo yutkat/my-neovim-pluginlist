@@ -20,6 +20,7 @@
   * [Colorscheme session](#colorscheme-session)
   * [Colorscheme file](#colorscheme-file)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
+  * [Colorsheme Compiler](#colorsheme-compiler)
   * [Color name](#color-name)
   * [RGB](#rgb)
   * [Long line highlight](#long-line-highlight)
@@ -157,6 +158,12 @@
 ### Auto generate colorscheme
 
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/last-commit/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/commit-activity/y/svermeulen/text-to-colorscheme)
+- [JoseMM2002/walltheme.nvim](https://github.com/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/stars/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/last-commit/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseMM2002/walltheme.nvim)
+
+
+### Colorsheme Compiler
+
+- [paradoxical-dev/color-compiler.nvim](https://github.com/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/color-compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/color-compiler.nvim)
 
 ### Color name
 
