@@ -68,6 +68,7 @@
 - [EmilOhlsson/FloatTerm.nvim](https://github.com/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/FloatTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/FloatTerm.nvim)
 - [maxmx03/terminal.nvim](https://github.com/maxmx03/terminal.nvim) ![](https://img.shields.io/github/stars/maxmx03/terminal.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/terminal.nvim)
 - [Blobosle/interm.nvim](https://github.com/Blobosle/interm.nvim) ![](https://img.shields.io/github/stars/Blobosle/interm.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/interm.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/interm.nvim)
+- [hmunye/echo.nvim](https://github.com/hmunye/echo.nvim) ![](https://img.shields.io/github/stars/hmunye/echo.nvim) ![](https://img.shields.io/github/last-commit/hmunye/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/echo.nvim)
 
 ### Open
 
