@@ -43,6 +43,7 @@
 - [groteck/order-of-formatters.nvim](https://github.com/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/stars/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/last-commit/groteck/order-of-formatters.nvim) ![](https://img.shields.io/github/commit-activity/y/groteck/order-of-formatters.nvim)
 - [kupospelov/nvim-fmt](https://github.com/kupospelov/nvim-fmt) ![](https://img.shields.io/github/stars/kupospelov/nvim-fmt) ![](https://img.shields.io/github/last-commit/kupospelov/nvim-fmt) ![](https://img.shields.io/github/commit-activity/y/kupospelov/nvim-fmt)
 - [wurli/split.nvim](https://github.com/wurli/split.nvim) ![](https://img.shields.io/github/stars/wurli/split.nvim) ![](https://img.shields.io/github/last-commit/wurli/split.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/split.nvim)
+- [wsdjeg/format.nvim](https://github.com/wsdjeg/format.nvim) ![](https://img.shields.io/github/stars/wsdjeg/format.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/format.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/format.nvim)
 
 ### Trim Whitespace
 

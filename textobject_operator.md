@@ -39,6 +39,7 @@
 
 - [kiyoon/treesitter-indent-object.nvim](https://github.com/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/stars/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/treesitter-indent-object.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/treesitter-indent-object.nvim)
 - [haolian9/indentobject.nvim](https://github.com/haolian9/indentobject.nvim) ![](https://img.shields.io/github/stars/haolian9/indentobject.nvim) ![](https://img.shields.io/github/last-commit/haolian9/indentobject.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/indentobject.nvim)
+- [jessekelighine/vindent.nvim](https://github.com/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/stars/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/last-commit/jessekelighine/vindent.nvim) ![](https://img.shields.io/github/commit-activity/y/jessekelighine/vindent.nvim)
 
 ### Swap
 

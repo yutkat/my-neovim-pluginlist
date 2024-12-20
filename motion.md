@@ -89,6 +89,7 @@
 - [atusy/jab.nvim](https://github.com/atusy/jab.nvim) ![](https://img.shields.io/github/stars/atusy/jab.nvim) ![](https://img.shields.io/github/last-commit/atusy/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/jab.nvim)
 - [teraoka-k/sonido.nvim](https://github.com/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/stars/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/last-commit/teraoka-k/sonido.nvim) ![](https://img.shields.io/github/commit-activity/y/teraoka-k/sonido.nvim)
 - [aidancz/tT.nvim](https://github.com/aidancz/tT.nvim) ![](https://img.shields.io/github/stars/aidancz/tT.nvim) ![](https://img.shields.io/github/last-commit/aidancz/tT.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/tT.nvim)
+- [aaronma37/motion-preview.nvim](https://github.com/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/stars/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/last-commit/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronma37/motion-preview.nvim)
 
 #### Show jump word
 

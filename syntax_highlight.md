@@ -83,6 +83,7 @@
 - [rocktimsaikia/color-switch.nvim](https://github.com/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/stars/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/last-commit/rocktimsaikia/color-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/rocktimsaikia/color-switch.nvim)
 - [arztareef/colorify.nvim](https://github.com/arztareef/colorify.nvim) ![](https://img.shields.io/github/stars/arztareef/colorify.nvim) ![](https://img.shields.io/github/last-commit/arztareef/colorify.nvim) ![](https://img.shields.io/github/commit-activity/y/arztareef/colorify.nvim)
 - [joelflaig/colorify.nvim](https://github.com/joelflaig/colorify.nvim) ![](https://img.shields.io/github/stars/joelflaig/colorify.nvim) ![](https://img.shields.io/github/last-commit/joelflaig/colorify.nvim) ![](https://img.shields.io/github/commit-activity/y/joelflaig/colorify.nvim)
+- [nilsojunior/colours.nvim](https://github.com/nilsojunior/colours.nvim) ![](https://img.shields.io/github/stars/nilsojunior/colours.nvim) ![](https://img.shields.io/github/last-commit/nilsojunior/colours.nvim) ![](https://img.shields.io/github/commit-activity/y/nilsojunior/colours.nvim)
 
 ### Color picker
 
