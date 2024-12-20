@@ -27,7 +27,6 @@
 - [mogulla3/rspec.nvim](https://github.com/mogulla3/rspec.nvim) ![](https://img.shields.io/github/stars/mogulla3/rspec.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/rspec.nvim)
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
-- [jpeterburs/rspec.nvim](https://github.com/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/stars/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/last-commit/jpeterburs/rspec.nvim) ![](https://img.shields.io/github/commit-activity/y/jpeterburs/rspec.nvim)
 - [pippokairos/rspec-runner.nvim](https://github.com/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/stars/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/last-commit/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pippokairos/rspec-runner.nvim)
 
 ### LSP

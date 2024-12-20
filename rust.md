@@ -38,7 +38,6 @@
 
 ### Debug
 
-- [omagdy7/dbgln.nvim](https://github.com/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/stars/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/last-commit/omagdy7/dbgln.nvim) ![](https://img.shields.io/github/commit-activity/y/omagdy7/dbgln.nvim)
 
 ### Cargo
 
