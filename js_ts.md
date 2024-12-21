@@ -147,6 +147,7 @@
 
 - [davidosomething/format-ts-errors.nvim](https://github.com/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/format-ts-errors.nvim)
 - [stornquist/tsserver-workspace-linter.nvim](https://github.com/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/tsserver-workspace-linter.nvim)
+- [davidfriar/tserrors.nvim](https://github.com/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/stars/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/last-commit/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidfriar/tserrors.nvim)
 
 ### Typst preview
 

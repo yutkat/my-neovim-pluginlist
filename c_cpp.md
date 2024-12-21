@@ -112,6 +112,7 @@
 ### Line count
 
 - [Natox10/ftcountline.nvim](https://github.com/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/stars/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/last-commit/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/commit-activity/y/Natox10/ftcountline.nvim)
+- [EyzeCOLD/nvim-function-linecount](https://github.com/EyzeCOLD/nvim-function-linecount) ![](https://img.shields.io/github/stars/EyzeCOLD/nvim-function-linecount) ![](https://img.shields.io/github/last-commit/EyzeCOLD/nvim-function-linecount) ![](https://img.shields.io/github/commit-activity/y/EyzeCOLD/nvim-function-linecount)
 
 ### CMake
 
