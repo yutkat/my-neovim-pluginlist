@@ -18,6 +18,7 @@
   * [Wise paste](#wise-paste)
   * [Cyclic paste](#cyclic-paste)
   * [Mac](#mac)
+- [Cut](#cut)
 
 <!-- tocstop -->
 
@@ -76,6 +77,7 @@
 
 - [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
 - [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
+- [ravibrock/regisfilter.nvim](https://github.com/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/stars/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/regisfilter.nvim)
 
 ### Lock Register
 
@@ -118,3 +120,7 @@
 ### Mac
 
 - [mattdibi/incolla.nvim](https://github.com/mattdibi/incolla.nvim) ![](https://img.shields.io/github/stars/mattdibi/incolla.nvim) ![](https://img.shields.io/github/last-commit/mattdibi/incolla.nvim) ![](https://img.shields.io/github/commit-activity/y/mattdibi/incolla.nvim)
+
+## Cut
+
+- [maarutan/nvim-nocut](https://github.com/maarutan/nvim-nocut) ![](https://img.shields.io/github/stars/maarutan/nvim-nocut) ![](https://img.shields.io/github/last-commit/maarutan/nvim-nocut) ![](https://img.shields.io/github/commit-activity/y/maarutan/nvim-nocut)

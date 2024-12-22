@@ -98,6 +98,7 @@
 - [vutlhari/zenpai.nvim](https://github.com/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/stars/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/last-commit/vutlhari/zenpai.nvim) ![](https://img.shields.io/github/commit-activity/y/vutlhari/zenpai.nvim)
 - [g0t4/ask-openai.nvim](https://github.com/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/stars/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/last-commit/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/ask-openai.nvim)
 - [harjotgill/CodeGPT.nvim](https://github.com/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/stars/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/last-commit/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/harjotgill/CodeGPT.nvim)
+- [iovdin/tune.nvim](https://github.com/iovdin/tune.nvim) ![](https://img.shields.io/github/stars/iovdin/tune.nvim) ![](https://img.shields.io/github/last-commit/iovdin/tune.nvim) ![](https://img.shields.io/github/commit-activity/y/iovdin/tune.nvim)
 
 #### log
 
@@ -213,6 +214,7 @@
 
 - [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
 - [agusnt/askGemini.nvim](https://github.com/agusnt/askGemini.nvim) ![](https://img.shields.io/github/stars/agusnt/askGemini.nvim) ![](https://img.shields.io/github/last-commit/agusnt/askGemini.nvim) ![](https://img.shields.io/github/commit-activity/y/agusnt/askGemini.nvim)
+- [Euro20179/nvim-gemini](https://github.com/Euro20179/nvim-gemini) ![](https://img.shields.io/github/stars/Euro20179/nvim-gemini) ![](https://img.shields.io/github/last-commit/Euro20179/nvim-gemini) ![](https://img.shields.io/github/commit-activity/y/Euro20179/nvim-gemini)
 
 ### CodeGemma
 
