@@ -24,6 +24,7 @@
   * [Jupyter](#jupyter)
   * [Pandas](#pandas)
   * [DataFrame](#dataframe)
+  * [Pytorch](#pytorch)
   * [visidata](#visidata)
   * [Kedro](#kedro)
   * [Anaconda](#anaconda)
@@ -160,6 +161,10 @@
 ### DataFrame
 
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
+
+### Pytorch
+
+- [alejandro-cobo/torchinfo.nvim](https://github.com/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/stars/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/last-commit/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/alejandro-cobo/torchinfo.nvim)
 
 ### visidata
 
