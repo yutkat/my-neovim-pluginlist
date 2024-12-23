@@ -72,6 +72,7 @@
 - [samsze0/jumplist.nvim](https://github.com/samsze0/jumplist.nvim) ![](https://img.shields.io/github/stars/samsze0/jumplist.nvim) ![](https://img.shields.io/github/last-commit/samsze0/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/jumplist.nvim)
 - [adelarsq/jumper.nvim](https://github.com/adelarsq/jumper.nvim) ![](https://img.shields.io/github/stars/adelarsq/jumper.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/jumper.nvim)
 - [Rex-Sanchez/jumplist.nvim](https://github.com/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/stars/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/last-commit/Rex-Sanchez/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/Rex-Sanchez/jumplist.nvim)
+- [vunhatchuong/fzf-lua-jumplist.nvim](https://github.com/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/fzf-lua-jumplist.nvim)
 
 ### Edit History
 

@@ -5,6 +5,7 @@
 - [Analytics](#analytics)
   * [Coding time](#coding-time)
     + [Timewarrior](#timewarrior)
+    + [ActivityWatch](#activitywatch)
   * [Mapping stat](#mapping-stat)
   * [Typing speed](#typing-speed)
   * [Operation Log](#operation-log)
@@ -49,6 +50,10 @@
 #### Timewarrior
 
 - [gallois/timewarrior.nvim](https://github.com/gallois/timewarrior.nvim) ![](https://img.shields.io/github/stars/gallois/timewarrior.nvim) ![](https://img.shields.io/github/last-commit/gallois/timewarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/gallois/timewarrior.nvim)
+
+#### ActivityWatch
+
+- [lowitea/aw-watcher.nvim](https://github.com/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/stars/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/last-commit/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lowitea/aw-watcher.nvim)
 
 ### Mapping stat
 

@@ -69,6 +69,7 @@
 - [maxmx03/terminal.nvim](https://github.com/maxmx03/terminal.nvim) ![](https://img.shields.io/github/stars/maxmx03/terminal.nvim) ![](https://img.shields.io/github/last-commit/maxmx03/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmx03/terminal.nvim)
 - [Blobosle/interm.nvim](https://github.com/Blobosle/interm.nvim) ![](https://img.shields.io/github/stars/Blobosle/interm.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/interm.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/interm.nvim)
 - [hmunye/echo.nvim](https://github.com/hmunye/echo.nvim) ![](https://img.shields.io/github/stars/hmunye/echo.nvim) ![](https://img.shields.io/github/last-commit/hmunye/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/echo.nvim)
+- [mtkld/ctxterm.nvim](https://github.com/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/stars/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/ctxterm.nvim)
 
 ### Open
 

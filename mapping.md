@@ -50,6 +50,7 @@
 - [groutoutlook/emacsinsert.nvim](https://github.com/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/stars/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/last-commit/groutoutlook/emacsinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/groutoutlook/emacsinsert.nvim)
 - [kirill-d-lappo/nvim-keymaps](https://github.com/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-keymaps)
 - [anongecko/keywhiz.nvim](https://github.com/anongecko/keywhiz.nvim) ![](https://img.shields.io/github/stars/anongecko/keywhiz.nvim) ![](https://img.shields.io/github/last-commit/anongecko/keywhiz.nvim) ![](https://img.shields.io/github/commit-activity/y/anongecko/keywhiz.nvim)
+- [fholmer/no.nvim](https://github.com/fholmer/no.nvim) ![](https://img.shields.io/github/stars/fholmer/no.nvim) ![](https://img.shields.io/github/last-commit/fholmer/no.nvim) ![](https://img.shields.io/github/commit-activity/y/fholmer/no.nvim)
 
 ### map function utiliy
 

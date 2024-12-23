@@ -76,6 +76,7 @@
 - [irohn/focus.nvim](https://github.com/irohn/focus.nvim) ![](https://img.shields.io/github/stars/irohn/focus.nvim) ![](https://img.shields.io/github/last-commit/irohn/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/focus.nvim)
 - [cdmill/focus.nvim](https://github.com/cdmill/focus.nvim) ![](https://img.shields.io/github/stars/cdmill/focus.nvim) ![](https://img.shields.io/github/last-commit/cdmill/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/focus.nvim)
 - [kelvinauta/focushere.nvim](https://github.com/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/stars/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/last-commit/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/commit-activity/y/kelvinauta/focushere.nvim)
+- [ryantbrown/mindful.nvim](https://github.com/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/stars/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/last-commit/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/commit-activity/y/ryantbrown/mindful.nvim)
 
 ## Random Selection
 

@@ -15,6 +15,7 @@
   * [Linear.app](#linearapp)
   * [Omnivore](#omnivore)
   * [BibleGateway](#biblegateway)
+  * [Zotero](#zotero)
   * [Wiki](#wiki)
   * [VimWiki](#vimwiki)
   * [Scratch Buffer](#scratch-buffer)
@@ -176,6 +177,10 @@
 ## BibleGateway
 
 - [huynle/bible.nvim](https://github.com/huynle/bible.nvim) ![](https://img.shields.io/github/stars/huynle/bible.nvim) ![](https://img.shields.io/github/last-commit/huynle/bible.nvim) ![](https://img.shields.io/github/commit-activity/y/huynle/bible.nvim)
+
+## Zotero
+
+- [beetlejuice16/zotero-telescope.nvim](https://github.com/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/zotero-telescope.nvim)
 
 ## Wiki
 

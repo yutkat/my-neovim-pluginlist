@@ -24,6 +24,7 @@
 - [folke/snacks.nvim](https://github.com/folke/snacks.nvim) ![](https://img.shields.io/github/stars/folke/snacks.nvim) ![](https://img.shields.io/github/last-commit/folke/snacks.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/snacks.nvim)
 - [sodium-hydroxide/nvim-ui](https://github.com/sodium-hydroxide/nvim-ui) ![](https://img.shields.io/github/stars/sodium-hydroxide/nvim-ui) ![](https://img.shields.io/github/last-commit/sodium-hydroxide/nvim-ui) ![](https://img.shields.io/github/commit-activity/y/sodium-hydroxide/nvim-ui)
 - [BytePaws/termtools.nvim](https://github.com/BytePaws/termtools.nvim) ![](https://img.shields.io/github/stars/BytePaws/termtools.nvim) ![](https://img.shields.io/github/last-commit/BytePaws/termtools.nvim) ![](https://img.shields.io/github/commit-activity/y/BytePaws/termtools.nvim)
+- [andriusm/toolbox.nvim](https://github.com/andriusm/toolbox.nvim) ![](https://img.shields.io/github/stars/andriusm/toolbox.nvim) ![](https://img.shields.io/github/last-commit/andriusm/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/andriusm/toolbox.nvim)
 
 ## UI
 
