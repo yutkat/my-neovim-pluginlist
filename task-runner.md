@@ -154,7 +154,6 @@
 - [ideless/run_command.nvim](https://github.com/ideless/run_command.nvim) ![](https://img.shields.io/github/stars/ideless/run_command.nvim) ![](https://img.shields.io/github/last-commit/ideless/run_command.nvim) ![](https://img.shields.io/github/commit-activity/y/ideless/run_command.nvim)
 - [immanelg/simple-compilation-mode.nvim](https://github.com/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/stars/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/immanelg/simple-compilation-mode.nvim)
 - [diniamo/run.nvim](https://github.com/diniamo/run.nvim) ![](https://img.shields.io/github/stars/diniamo/run.nvim) ![](https://img.shields.io/github/last-commit/diniamo/run.nvim) ![](https://img.shields.io/github/commit-activity/y/diniamo/run.nvim)
-- [saccarosium/asyncrun.nvim](https://github.com/saccarosium/asyncrun.nvim) ![](https://img.shields.io/github/stars/saccarosium/asyncrun.nvim) ![](https://img.shields.io/github/last-commit/saccarosium/asyncrun.nvim) ![](https://img.shields.io/github/commit-activity/y/saccarosium/asyncrun.nvim)
 
 ## Auto detect style
 
