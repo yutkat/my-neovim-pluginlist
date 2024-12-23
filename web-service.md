@@ -206,6 +206,7 @@
 ### Codeforce
 
 - [JustAnAverageGuy/codeforces_submitter.nvim](https://github.com/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/stars/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/last-commit/JustAnAverageGuy/codeforces_submitter.nvim) ![](https://img.shields.io/github/commit-activity/y/JustAnAverageGuy/codeforces_submitter.nvim)
+- [yunusey/codeforces-nvim](https://github.com/yunusey/codeforces-nvim) ![](https://img.shields.io/github/stars/yunusey/codeforces-nvim) ![](https://img.shields.io/github/last-commit/yunusey/codeforces-nvim) ![](https://img.shields.io/github/commit-activity/y/yunusey/codeforces-nvim)
 
 ### compiler-explorer
 

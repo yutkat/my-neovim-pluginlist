@@ -7,6 +7,7 @@
   * [Trim Whitespace](#trim-whitespace)
   * [Trim EOL](#trim-eol)
   * [Formatter switcher](#formatter-switcher)
+  * [textwidth](#textwidth)
 - [Lint](#lint)
   * [Grammar](#grammar)
   * [Ignore](#ignore)
@@ -69,6 +70,10 @@
 
 - [fmbarina/pick-lsp-formatter.nvim](https://github.com/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/stars/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/last-commit/fmbarina/pick-lsp-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/fmbarina/pick-lsp-formatter.nvim)
 - [mxilinas/flexblock.nvim](https://github.com/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/stars/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/last-commit/mxilinas/flexblock.nvim) ![](https://img.shields.io/github/commit-activity/y/mxilinas/flexblock.nvim)
+
+### textwidth
+
+- [paulshuker/textangle.nvim](https://github.com/paulshuker/textangle.nvim) ![](https://img.shields.io/github/stars/paulshuker/textangle.nvim) ![](https://img.shields.io/github/last-commit/paulshuker/textangle.nvim) ![](https://img.shields.io/github/commit-activity/y/paulshuker/textangle.nvim)
 
 ## Lint
 
