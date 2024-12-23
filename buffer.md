@@ -139,6 +139,7 @@
 - [iamyoki/buffer-reopen.nvim](https://github.com/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/stars/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/last-commit/iamyoki/buffer-reopen.nvim) ![](https://img.shields.io/github/commit-activity/y/iamyoki/buffer-reopen.nvim)
 - [ThanhKhoaIT/moiday.nvim](https://github.com/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/stars/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/last-commit/ThanhKhoaIT/moiday.nvim) ![](https://img.shields.io/github/commit-activity/y/ThanhKhoaIT/moiday.nvim)
 - [wd60622/go-to.nvim](https://github.com/wd60622/go-to.nvim) ![](https://img.shields.io/github/stars/wd60622/go-to.nvim) ![](https://img.shields.io/github/last-commit/wd60622/go-to.nvim) ![](https://img.shields.io/github/commit-activity/y/wd60622/go-to.nvim)
+- [mschlumpp/quick-switch.nvim](https://github.com/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/stars/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/last-commit/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/mschlumpp/quick-switch.nvim)
 
 ##### remote open
 
