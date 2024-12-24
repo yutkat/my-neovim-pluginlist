@@ -291,6 +291,7 @@
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
 - [joaomendoncaa/sourcer.nvim](https://github.com/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sourcer.nvim)
+- [jomavf/cosmoseek.nvim](https://github.com/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/stars/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/last-commit/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/commit-activity/y/jomavf/cosmoseek.nvim)
 
 ## worktree
 
