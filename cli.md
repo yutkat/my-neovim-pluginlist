@@ -140,6 +140,7 @@
 
 - [Aleod-m/direnv.nvim](https://github.com/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/stars/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/last-commit/Aleod-m/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/Aleod-m/direnv.nvim)
 - [actionshrimp/direnv.nvim](https://github.com/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/stars/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/last-commit/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/actionshrimp/direnv.nvim)
+- [diniamo/direnv.nvim](https://github.com/diniamo/direnv.nvim) ![](https://img.shields.io/github/stars/diniamo/direnv.nvim) ![](https://img.shields.io/github/last-commit/diniamo/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/diniamo/direnv.nvim)
 
 #### asdf
 

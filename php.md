@@ -46,6 +46,7 @@
 - [RicardoRamirezR/blade-nav.nvim](https://github.com/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/blade-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/blade-nav.nvim)
 - [Bleksak/laravel-ide-helper.nvim](https://github.com/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/stars/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/laravel-ide-helper.nvim)
 - [DJARUUN/laravel.nvim](https://github.com/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/stars/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/laravel.nvim)
+- [yahyasghayron/nvim-goto-view-laravel](https://github.com/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/stars/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/last-commit/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/commit-activity/y/yahyasghayron/nvim-goto-view-laravel)
 
 ### Slim
 

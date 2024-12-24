@@ -50,6 +50,7 @@
       - [Test](#test)
     + [Processing](#processing)
     + [Promela](#promela)
+    + [Move](#move)
     + [Gno](#gno)
     + [Agda](#agda)
     + [Monkey](#monkey)
@@ -347,6 +348,10 @@
 ### Promela
 
 - [sebostien/spin.nvim](https://github.com/sebostien/spin.nvim) ![](https://img.shields.io/github/stars/sebostien/spin.nvim) ![](https://img.shields.io/github/last-commit/sebostien/spin.nvim) ![](https://img.shields.io/github/commit-activity/y/sebostien/spin.nvim)
+
+### Move
+
+- [fishman/movelang.nvim](https://github.com/fishman/movelang.nvim) ![](https://img.shields.io/github/stars/fishman/movelang.nvim) ![](https://img.shields.io/github/last-commit/fishman/movelang.nvim) ![](https://img.shields.io/github/commit-activity/y/fishman/movelang.nvim)
 
 ### Gno
 

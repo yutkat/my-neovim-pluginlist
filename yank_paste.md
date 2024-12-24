@@ -42,6 +42,7 @@
 - [olrtg/nvim-copy-deep-path](https://github.com/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/stars/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/last-commit/olrtg/nvim-copy-deep-path) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-copy-deep-path)
 - [DJARUUN/clipboard.nvim](https://github.com/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/stars/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/clipboard.nvim)
 - [gcmt/regtee.nvim](https://github.com/gcmt/regtee.nvim) ![](https://img.shields.io/github/stars/gcmt/regtee.nvim) ![](https://img.shields.io/github/last-commit/gcmt/regtee.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/regtee.nvim)
+- [kushaldas/pastewindow.nvim](https://github.com/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/stars/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/last-commit/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/kushaldas/pastewindow.nvim)
 
 ### yank highlight
 
