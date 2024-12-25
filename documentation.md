@@ -290,7 +290,6 @@
 - [bryangrimes/plantuml.nvim](https://github.com/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/stars/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bryangrimes/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bryangrimes/plantuml.nvim)
 - [goropikari/plantuml.nvim](https://github.com/goropikari/plantuml.nvim) ![](https://img.shields.io/github/stars/goropikari/plantuml.nvim) ![](https://img.shields.io/github/last-commit/goropikari/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/plantuml.nvim)
 - [arakkkkk/plantuml-ascii.nvim](https://github.com/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/stars/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/plantuml-ascii.nvim)
-- [Gabz-Araujo/plantuml.nvim](https://github.com/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/stars/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/last-commit/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/Gabz-Araujo/plantuml.nvim)
 
 ### Graphviz
 
