@@ -56,6 +56,8 @@
 - [Treesitter](#treesitter)
 - [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
+- [Language](#language)
+  * [Japanese](#japanese)
 - [Util wrapper](#util-wrapper)
 
 <!-- tocstop -->
@@ -341,6 +343,12 @@
 ## Enhanced Standard Features
 
 - [delphinus/f_meta.nvim](https://github.com/delphinus/f_meta.nvim) ![](https://img.shields.io/github/stars/delphinus/f_meta.nvim) ![](https://img.shields.io/github/last-commit/delphinus/f_meta.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/f_meta.nvim)
+
+## Language
+
+### Japanese
+
+- [atusy/budoux.lua](https://github.com/atusy/budoux.lua) ![](https://img.shields.io/github/stars/atusy/budoux.lua) ![](https://img.shields.io/github/last-commit/atusy/budoux.lua) ![](https://img.shields.io/github/commit-activity/y/atusy/budoux.lua)
 
 ## Util wrapper
 

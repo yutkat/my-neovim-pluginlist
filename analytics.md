@@ -47,6 +47,7 @@
 - [alfredosa/devtime.nvim](https://github.com/alfredosa/devtime.nvim) ![](https://img.shields.io/github/stars/alfredosa/devtime.nvim) ![](https://img.shields.io/github/last-commit/alfredosa/devtime.nvim) ![](https://img.shields.io/github/commit-activity/y/alfredosa/devtime.nvim)
 - [wd60622/toggl.nvim](https://github.com/wd60622/toggl.nvim) ![](https://img.shields.io/github/stars/wd60622/toggl.nvim) ![](https://img.shields.io/github/last-commit/wd60622/toggl.nvim) ![](https://img.shields.io/github/commit-activity/y/wd60622/toggl.nvim)
 - [2giosangmitom/codetime.nvim](https://github.com/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/stars/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/last-commit/2giosangmitom/codetime.nvim) ![](https://img.shields.io/github/commit-activity/y/2giosangmitom/codetime.nvim)
+- [ervan0707/codestats.nvim](https://github.com/ervan0707/codestats.nvim) ![](https://img.shields.io/github/stars/ervan0707/codestats.nvim) ![](https://img.shields.io/github/last-commit/ervan0707/codestats.nvim) ![](https://img.shields.io/github/commit-activity/y/ervan0707/codestats.nvim)
 
 #### Timewarrior
 

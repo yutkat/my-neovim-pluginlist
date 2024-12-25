@@ -21,6 +21,7 @@
   * [AST](#ast)
 - [Select](#select)
   * [Bracket and quote](#bracket-and-quote)
+  * [expand region](#expand-region)
   * [narrowing](#narrowing)
   * [Multi Cursor](#multi-cursor)
   * [Incremental selection](#incremental-selection)
@@ -183,6 +184,10 @@
 ## Bracket and quote
 
 - [EdgardoArriagada/vaquero-shoot.nvim](https://github.com/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/stars/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/last-commit/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/commit-activity/y/EdgardoArriagada/vaquero-shoot.nvim)
+
+## expand region
+
+- [darrell-pittman/wgc-expand-region.nvim](https://github.com/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-expand-region.nvim)
 
 ## narrowing
 

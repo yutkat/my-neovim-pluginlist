@@ -53,6 +53,7 @@
 - [mactunechy/rails-view-component-gd.nvim](https://github.com/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/stars/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/last-commit/mactunechy/rails-view-component-gd.nvim) ![](https://img.shields.io/github/commit-activity/y/mactunechy/rails-view-component-gd.nvim)
 - [Madyn0/rails-finder.nvim](https://github.com/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/stars/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/last-commit/Madyn0/rails-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Madyn0/rails-finder.nvim)
 - [palekiwi/rails-utils.nvim](https://github.com/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/stars/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/last-commit/palekiwi/rails-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi/rails-utils.nvim)
+- [DJARUUN/rails.nvim](https://github.com/DJARUUN/rails.nvim) ![](https://img.shields.io/github/stars/DJARUUN/rails.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/rails.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/rails.nvim)
 
 ### Redis
 

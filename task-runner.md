@@ -174,6 +174,7 @@
 
 - [Veirt/trun.nvim](https://github.com/Veirt/trun.nvim) ![](https://img.shields.io/github/stars/Veirt/trun.nvim) ![](https://img.shields.io/github/last-commit/Veirt/trun.nvim) ![](https://img.shields.io/github/commit-activity/y/Veirt/trun.nvim)
 - [landonturner/run-cmd.nvim](https://github.com/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/stars/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/last-commit/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/landonturner/run-cmd.nvim)
+- [bestie/paneity.nvim](https://github.com/bestie/paneity.nvim) ![](https://img.shields.io/github/stars/bestie/paneity.nvim) ![](https://img.shields.io/github/last-commit/bestie/paneity.nvim) ![](https://img.shields.io/github/commit-activity/y/bestie/paneity.nvim)
 
 ## Auto Execute
 
