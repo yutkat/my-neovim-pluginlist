@@ -51,6 +51,7 @@
     + [Processing](#processing)
     + [Promela](#promela)
     + [Move](#move)
+    + [MQL](#mql)
     + [Gno](#gno)
     + [Agda](#agda)
     + [Monkey](#monkey)
@@ -352,6 +353,10 @@
 ### Move
 
 - [fishman/movelang.nvim](https://github.com/fishman/movelang.nvim) ![](https://img.shields.io/github/stars/fishman/movelang.nvim) ![](https://img.shields.io/github/last-commit/fishman/movelang.nvim) ![](https://img.shields.io/github/commit-activity/y/fishman/movelang.nvim)
+
+### MQL
+
+- [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
 
 ### Gno
 

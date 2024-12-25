@@ -62,7 +62,7 @@
   * [GitLab CI](#gitlab-ci)
   * [GitLab Kanban](#gitlab-kanban)
 - [Sapling](#sapling)
-- [BigBucket](#bigbucket)
+- [BitBucket](#bitbucket)
 - [Sourcegraph](#sourcegraph)
 - [Perforce](#perforce)
 - [CLI](#cli)
@@ -110,6 +110,7 @@
 - [oncomouse/lazygit.nvim](https://github.com/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/stars/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/lazygit.nvim)
 - [mikavilpas/tsugit.nvim](https://github.com/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/stars/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/tsugit.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/tsugit.nvim)
 - [zachbuchli/lazygit.nvim](https://github.com/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/stars/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/lazygit.nvim)
+- [thelastpsion/lazygit-confirm.nvim](https://github.com/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/stars/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/last-commit/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/commit-activity/y/thelastpsion/lazygit-confirm.nvim)
 
 ## git clone
 
@@ -479,10 +480,11 @@
 
 - [AdeAttwood/sapling.nvim](https://github.com/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/stars/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/last-commit/AdeAttwood/sapling.nvim) ![](https://img.shields.io/github/commit-activity/y/AdeAttwood/sapling.nvim)
 
-# BigBucket
+# BitBucket
 
 - [Otterpatsch/bitbucket.nvim](https://github.com/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/stars/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/last-commit/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/commit-activity/y/Otterpatsch/bitbucket.nvim)
 - [Speiser/bitbucket-url.nvim](https://github.com/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/stars/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/bitbucket-url.nvim)
+- [TheChessDev/bb.nvim](https://github.com/TheChessDev/bb.nvim) ![](https://img.shields.io/github/stars/TheChessDev/bb.nvim) ![](https://img.shields.io/github/last-commit/TheChessDev/bb.nvim) ![](https://img.shields.io/github/commit-activity/y/TheChessDev/bb.nvim)
 
 # Sourcegraph
 

@@ -90,6 +90,8 @@
 
 - [Diogo-ss/42-C-Formatter.nvim](https://github.com/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/42-C-Formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/42-C-Formatter.nvim)
 - [marcosantos98/clang-format.nvim](https://github.com/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/stars/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/last-commit/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/commit-activity/y/marcosantos98/clang-format.nvim)
+- [gabref/cformat42.nvim](https://github.com/gabref/cformat42.nvim) ![](https://img.shields.io/github/stars/gabref/cformat42.nvim) ![](https://img.shields.io/github/last-commit/gabref/cformat42.nvim) ![](https://img.shields.io/github/commit-activity/y/gabref/cformat42.nvim)
+- [tigran-sargsyan-w/nvim-42-format](https://github.com/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/nvim-42-format)
 
 ### Linter
 
@@ -163,6 +165,7 @@
 
 - [Maduki-tech/header.nvim](https://github.com/Maduki-tech/header.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/header.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/header.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/header.nvim)
 - [Frayzen/cpp-tools.nvim](https://github.com/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/stars/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Frayzen/cpp-tools.nvim)
+- [tigran-sargsyan-w/42-header.nvim](https://github.com/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/42-header.nvim)
 
 #### include
 

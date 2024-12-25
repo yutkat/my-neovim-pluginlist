@@ -84,4 +84,5 @@
 ## Lorem Ipsum
 
 - [elvxk/mylorem.nvim](https://github.com/elvxk/mylorem.nvim) ![](https://img.shields.io/github/stars/elvxk/mylorem.nvim) ![](https://img.shields.io/github/last-commit/elvxk/mylorem.nvim) ![](https://img.shields.io/github/commit-activity/y/elvxk/mylorem.nvim)
+- [maarutan/lorem.nvim](https://github.com/maarutan/lorem.nvim) ![](https://img.shields.io/github/stars/maarutan/lorem.nvim) ![](https://img.shields.io/github/last-commit/maarutan/lorem.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/lorem.nvim)
 
