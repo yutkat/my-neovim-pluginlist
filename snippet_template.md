@@ -81,6 +81,7 @@
 - [ADIX7/new-file-template.nvim](https://github.com/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/stars/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/last-commit/ADIX7/new-file-template.nvim) ![](https://img.shields.io/github/commit-activity/y/ADIX7/new-file-template.nvim)
 - [darko-mesaros/codecast.nvim](https://github.com/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/stars/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/last-commit/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/commit-activity/y/darko-mesaros/codecast.nvim)
 - [goropikari/default-new-file.nvim](https://github.com/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/stars/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/last-commit/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/default-new-file.nvim)
+- [qdiaps/nvim-template](https://github.com/qdiaps/nvim-template) ![](https://img.shields.io/github/stars/qdiaps/nvim-template) ![](https://img.shields.io/github/last-commit/qdiaps/nvim-template) ![](https://img.shields.io/github/commit-activity/y/qdiaps/nvim-template)
 
 #### README
 

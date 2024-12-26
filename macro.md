@@ -21,6 +21,7 @@
 - [kr40/nvim-macros](https://github.com/kr40/nvim-macros) ![](https://img.shields.io/github/stars/kr40/nvim-macros) ![](https://img.shields.io/github/last-commit/kr40/nvim-macros) ![](https://img.shields.io/github/commit-activity/y/kr40/nvim-macros)
 - [alexjercan/macros.nvim](https://github.com/alexjercan/macros.nvim) ![](https://img.shields.io/github/stars/alexjercan/macros.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/macros.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/macros.nvim)
 - [gabriGutiz/termacro.nvim](https://github.com/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/stars/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/last-commit/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/commit-activity/y/gabriGutiz/termacro.nvim)
+- [maarutan/macro-notify.nvim](https://github.com/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/stars/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/last-commit/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/macro-notify.nvim)
 
 ### Automatic macro
 

@@ -43,6 +43,7 @@
 - [Documentation](#documentation)
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
+- [Copy File Context](#copy-file-context)
 - [Integration](#integration)
   * [Linkup](#linkup)
 
@@ -190,6 +191,7 @@
 - [saibayadon/llm-buffer.nvim](https://github.com/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/stars/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/last-commit/saibayadon/llm-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saibayadon/llm-buffer.nvim)
 - [default-anton/llm-sidekick.nvim](https://github.com/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/stars/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/last-commit/default-anton/llm-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/default-anton/llm-sidekick.nvim)
 - [dlants/magenta.nvim](https://github.com/dlants/magenta.nvim) ![](https://img.shields.io/github/stars/dlants/magenta.nvim) ![](https://img.shields.io/github/last-commit/dlants/magenta.nvim) ![](https://img.shields.io/github/commit-activity/y/dlants/magenta.nvim)
+- [scossar/converse.nvim](https://github.com/scossar/converse.nvim) ![](https://img.shields.io/github/stars/scossar/converse.nvim) ![](https://img.shields.io/github/last-commit/scossar/converse.nvim) ![](https://img.shields.io/github/commit-activity/y/scossar/converse.nvim)
 
 ### Supermaven
 
@@ -339,6 +341,10 @@
 ## Neovim Command
 
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
+
+## Copy File Context 
+
+- [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
 
 ## Integration
 

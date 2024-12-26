@@ -165,6 +165,7 @@
 - [jimmykodes/cheetah.nvim](https://github.com/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/stars/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/last-commit/jimmykodes/cheetah.nvim) ![](https://img.shields.io/github/commit-activity/y/jimmykodes/cheetah.nvim)
 - [GustavEikaas/code-playground.nvim](https://github.com/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/code-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/code-playground.nvim)
 - [Aliqyan-21/runTA.nvim](https://github.com/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/runTA.nvim)
+- [pauloburke/tt-coderunner.nvim](https://github.com/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/stars/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/last-commit/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/pauloburke/tt-coderunner.nvim)
 
 ## :make style
 

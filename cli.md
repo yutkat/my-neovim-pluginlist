@@ -281,6 +281,7 @@
 - [ixpectus/telescope-ctags.nvim](https://github.com/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/stars/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/last-commit/ixpectus/telescope-ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/ixpectus/telescope-ctags.nvim)
 - [hallestar/nvgtags.nvim](https://github.com/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/stars/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/last-commit/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/commit-activity/y/hallestar/nvgtags.nvim)
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) ![](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![](https://img.shields.io/github/last-commit/JMarkin/gentags.lua) ![](https://img.shields.io/github/commit-activity/y/JMarkin/gentags.lua)
+- [epheien/outline-ctags-provider.nvim](https://github.com/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-ctags-provider.nvim)
 
 #### global
 

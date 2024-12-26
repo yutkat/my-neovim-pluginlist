@@ -43,6 +43,7 @@
 - [DJARUUN/clipboard.nvim](https://github.com/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/stars/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/clipboard.nvim)
 - [gcmt/regtee.nvim](https://github.com/gcmt/regtee.nvim) ![](https://img.shields.io/github/stars/gcmt/regtee.nvim) ![](https://img.shields.io/github/last-commit/gcmt/regtee.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/regtee.nvim)
 - [kushaldas/pastewindow.nvim](https://github.com/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/stars/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/last-commit/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/kushaldas/pastewindow.nvim)
+- [swaits/universal-clipboard.nvim](https://github.com/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/stars/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/last-commit/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/universal-clipboard.nvim)
 
 ### yank highlight
 
