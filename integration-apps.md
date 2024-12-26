@@ -88,6 +88,7 @@
 - [neovim-plugin/browse.nvim](https://github.com/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/stars/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/last-commit/neovim-plugin/browse.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-plugin/browse.nvim)
 - [LampsaDev/HAE.nvim](https://github.com/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/stars/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/last-commit/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/commit-activity/y/LampsaDev/HAE.nvim)
 - [KaitoMuraoka/websearcher.nvim](https://github.com/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/stars/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/last-commit/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/commit-activity/y/KaitoMuraoka/websearcher.nvim)
+- [mei28/weview.nvim](https://github.com/mei28/weview.nvim) ![](https://img.shields.io/github/stars/mei28/weview.nvim) ![](https://img.shields.io/github/last-commit/mei28/weview.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/weview.nvim)
 
 #### url open
 
@@ -283,6 +284,7 @@
 - [oguzhancoskun/aws-ssm.nvim](https://github.com/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-ssm.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-ssm.nvim)
 - [liraymond04/awa5_rs.nvim](https://github.com/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/stars/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/last-commit/liraymond04/awa5_rs.nvim) ![](https://img.shields.io/github/commit-activity/y/liraymond04/awa5_rs.nvim)
 - [zuzmuz/nvimawscli](https://github.com/zuzmuz/nvimawscli) ![](https://img.shields.io/github/stars/zuzmuz/nvimawscli) ![](https://img.shields.io/github/last-commit/zuzmuz/nvimawscli) ![](https://img.shields.io/github/commit-activity/y/zuzmuz/nvimawscli)
+- [rahulmlokurte/awsecret.nvim](https://github.com/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/stars/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/last-commit/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/commit-activity/y/rahulmlokurte/awsecret.nvim)
 
 ##### S3
 

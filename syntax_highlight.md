@@ -8,6 +8,7 @@
   * [URL](#url)
   * [Placeholder](#placeholder)
   * [Whitespace](#whitespace)
+  * [Dim](#dim)
 - [Syntax](#syntax)
   * [Semantic highlight](#semantic-highlight)
   * [Colorizer](#colorizer)
@@ -64,6 +65,10 @@
 ### Whitespace
 
 - [aidancz/whitespace.nvim](https://github.com/aidancz/whitespace.nvim) ![](https://img.shields.io/github/stars/aidancz/whitespace.nvim) ![](https://img.shields.io/github/last-commit/aidancz/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/whitespace.nvim)
+
+### Dim
+
+- [ck-zhang/obfuscate.nvim](https://github.com/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/stars/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/obfuscate.nvim)
 
 ## Syntax
 

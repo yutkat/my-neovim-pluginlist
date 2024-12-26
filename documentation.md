@@ -113,6 +113,7 @@
 - [hedyhli/markdown-toc.nvim](https://github.com/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/stars/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/markdown-toc.nvim)
 - [adigitoleo/overview.nvim](https://github.com/adigitoleo/overview.nvim) ![](https://img.shields.io/github/stars/adigitoleo/overview.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/overview.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/overview.nvim)
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/markdown-toc)
+- [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
 
 #### Calculation
 
