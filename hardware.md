@@ -5,6 +5,7 @@
 - [Hardware](#hardware)
   * [IoT](#iot)
   * [CAD](#cad)
+  * [VHDL](#vhdl)
   * [Verilog](#verilog)
   * [Grooper](#grooper)
   * [SketchUp](#sketchup)
@@ -33,6 +34,10 @@
 
 ### CAD
 
+
+### VHDL
+
+- [patgro1/vhdl-utils.nvim](https://github.com/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/stars/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/last-commit/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/patgro1/vhdl-utils.nvim)
 
 ### Verilog
 
