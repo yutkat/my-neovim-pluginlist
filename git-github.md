@@ -293,6 +293,7 @@
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
 - [joaomendoncaa/sourcer.nvim](https://github.com/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sourcer.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sourcer.nvim)
 - [jomavf/cosmoseek.nvim](https://github.com/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/stars/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/last-commit/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/commit-activity/y/jomavf/cosmoseek.nvim)
+- [keyboard-slayer/git-search.nvim](https://github.com/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/stars/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/last-commit/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/keyboard-slayer/git-search.nvim)
 
 ## worktree
 

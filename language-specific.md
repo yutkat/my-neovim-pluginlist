@@ -94,6 +94,8 @@
     + [Jule](#jule)
     + [Gren](#gren)
     + [Solidity](#solidity)
+    + [D2](#d2)
+    + [Fe](#fe)
     + [Koan](#koan)
     + [Prolog](#prolog)
     + [Beancount](#beancount)
@@ -523,6 +525,14 @@
 ### Solidity
 
 - [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
+
+### D2
+
+- [linw1995/nvim-treesitter-d2](https://github.com/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/stars/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/last-commit/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-treesitter-d2)
+
+### Fe
+
+- [fe-lang/nvim-fe](https://github.com/fe-lang/nvim-fe) ![](https://img.shields.io/github/stars/fe-lang/nvim-fe) ![](https://img.shields.io/github/last-commit/fe-lang/nvim-fe) ![](https://img.shields.io/github/commit-activity/y/fe-lang/nvim-fe)
 
 ### Koan
 
