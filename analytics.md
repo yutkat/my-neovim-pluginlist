@@ -36,6 +36,7 @@
 - [GuiC0506/Tracker.nvim](https://github.com/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/stars/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/last-commit/GuiC0506/Tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/GuiC0506/Tracker.nvim)
 - [QuentinGruber/timespent.nvim](https://github.com/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/stars/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/last-commit/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/commit-activity/y/QuentinGruber/timespent.nvim)
 - [piperinnshall/count.nvim](https://github.com/piperinnshall/count.nvim) ![](https://img.shields.io/github/stars/piperinnshall/count.nvim) ![](https://img.shields.io/github/last-commit/piperinnshall/count.nvim) ![](https://img.shields.io/github/commit-activity/y/piperinnshall/count.nvim)
+- [boatnoah/neowrapped.nvim](https://github.com/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/stars/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/last-commit/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/boatnoah/neowrapped.nvim)
 
 ### Coding time
 

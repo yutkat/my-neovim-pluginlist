@@ -100,6 +100,7 @@
 - [venomlab/goimpl.nvim](https://github.com/venomlab/goimpl.nvim) ![](https://img.shields.io/github/stars/venomlab/goimpl.nvim) ![](https://img.shields.io/github/last-commit/venomlab/goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/venomlab/goimpl.nvim)
 - [jack-rabe/impl.nvim](https://github.com/jack-rabe/impl.nvim) ![](https://img.shields.io/github/stars/jack-rabe/impl.nvim) ![](https://img.shields.io/github/last-commit/jack-rabe/impl.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-rabe/impl.nvim)
 - [defntvdm/fzf-goimpl.nvim](https://github.com/defntvdm/fzf-goimpl.nvim) ![](https://img.shields.io/github/stars/defntvdm/fzf-goimpl.nvim) ![](https://img.shields.io/github/last-commit/defntvdm/fzf-goimpl.nvim) ![](https://img.shields.io/github/commit-activity/y/defntvdm/fzf-goimpl.nvim)
+- [fang2hou/go-impl.nvim](https://github.com/fang2hou/go-impl.nvim) ![](https://img.shields.io/github/stars/fang2hou/go-impl.nvim) ![](https://img.shields.io/github/last-commit/fang2hou/go-impl.nvim) ![](https://img.shields.io/github/commit-activity/y/fang2hou/go-impl.nvim)
 
 ### implement
 

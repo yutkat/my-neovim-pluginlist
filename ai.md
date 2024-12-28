@@ -270,6 +270,7 @@
 ### lsp-ai
 
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/stars/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/lsp-ai.nvim)
+- [amirsalarsafaei/llm-lsp.nvim](https://github.com/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/stars/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/last-commit/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/amirsalarsafaei/llm-lsp.nvim)
 
 ### Machine Learning
 

@@ -142,6 +142,7 @@
 - [registerGen/clock.nvim](https://github.com/registerGen/clock.nvim) ![](https://img.shields.io/github/stars/registerGen/clock.nvim) ![](https://img.shields.io/github/last-commit/registerGen/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/registerGen/clock.nvim)
 - [rushjs1/clock.nvim](https://github.com/rushjs1/clock.nvim) ![](https://img.shields.io/github/stars/rushjs1/clock.nvim) ![](https://img.shields.io/github/last-commit/rushjs1/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/rushjs1/clock.nvim)
 - [Aliqyan-21/timy.nvim](https://github.com/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/timy.nvim)
+- [4DRIAN0RTIZ/binaryclock.nvim](https://github.com/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/binaryclock.nvim)
 
 ## Stock price
 
