@@ -28,6 +28,7 @@
 - [jessesimpson36/whereami.nvim](https://github.com/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/stars/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/last-commit/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/commit-activity/y/jessesimpson36/whereami.nvim)
 - [jeroldhu/symbols-outline.nvim](https://github.com/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/stars/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroldhu/symbols-outline.nvim)
 - [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
+- [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
 
 ### Call Hierarchy
 

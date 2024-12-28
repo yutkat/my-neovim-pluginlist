@@ -19,6 +19,7 @@
 - [miversen33/dbman.nvim](https://github.com/miversen33/dbman.nvim) ![](https://img.shields.io/github/stars/miversen33/dbman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/dbman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/dbman.nvim)
 - [Sanix-Darker/dockdb.nvim](https://github.com/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/dockdb.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/dockdb.nvim)
 - [LostbBlizzard/lazysql.nvim](https://github.com/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/stars/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/last-commit/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/commit-activity/y/LostbBlizzard/lazysql.nvim)
+- [e3oroush/dbridge.nvim](https://github.com/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/stars/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/last-commit/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e3oroush/dbridge.nvim)
 
 ### SQL
 
