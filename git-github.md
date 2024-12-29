@@ -203,6 +203,7 @@
 - [lsig/messenger.nvim](https://github.com/lsig/messenger.nvim) ![](https://img.shields.io/github/stars/lsig/messenger.nvim) ![](https://img.shields.io/github/last-commit/lsig/messenger.nvim) ![](https://img.shields.io/github/commit-activity/y/lsig/messenger.nvim)
 - [psjay/blamer.nvim](https://github.com/psjay/blamer.nvim) ![](https://img.shields.io/github/stars/psjay/blamer.nvim) ![](https://img.shields.io/github/last-commit/psjay/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/blamer.nvim)
 - [RandomHumanoidFromEarth/nvim-git-blame](https://github.com/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/stars/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/last-commit/RandomHumanoidFromEarth/nvim-git-blame) ![](https://img.shields.io/github/commit-activity/y/RandomHumanoidFromEarth/nvim-git-blame)
+- [rosswilson2306/blame-jump.nvim](https://github.com/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/stars/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/last-commit/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/rosswilson2306/blame-jump.nvim)
 
 ## git log
 

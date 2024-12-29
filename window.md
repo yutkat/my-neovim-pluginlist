@@ -35,6 +35,7 @@
 - [inertialshock/kangaroo.nvim](https://github.com/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/stars/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/last-commit/inertialshock/kangaroo.nvim) ![](https://img.shields.io/github/commit-activity/y/inertialshock/kangaroo.nvim)
 - [NStefan002/wormhole.nvim](https://github.com/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/stars/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/wormhole.nvim)
 - [OfferLifted/window-selector.nvim](https://github.com/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/stars/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/window-selector.nvim)
+- [goropikari/window-selector.nvim](https://github.com/goropikari/window-selector.nvim) ![](https://img.shields.io/github/stars/goropikari/window-selector.nvim) ![](https://img.shields.io/github/last-commit/goropikari/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/window-selector.nvim)
 
 ### Window Management
 
@@ -90,6 +91,7 @@
 - [lbennett-stacki/here.nvim](https://github.com/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/stars/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/last-commit/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/commit-activity/y/lbennett-stacki/here.nvim)
 - [joaomendoncaa/sane-splits.nvim](https://github.com/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sane-splits.nvim)
 - [CharlesBClarke/fibonacci-splits.nvim](https://github.com/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/stars/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/last-commit/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesBClarke/fibonacci-splits.nvim)
+- [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
 
 #### Popup
 

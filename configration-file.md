@@ -105,4 +105,5 @@
 ### Log
 
 - [saneDG/beaver.nvim](https://github.com/saneDG/beaver.nvim) ![](https://img.shields.io/github/stars/saneDG/beaver.nvim) ![](https://img.shields.io/github/last-commit/saneDG/beaver.nvim) ![](https://img.shields.io/github/commit-activity/y/saneDG/beaver.nvim)
+- [LukeBaal/lumberjack.nvim](https://github.com/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/stars/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/last-commit/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/commit-activity/y/LukeBaal/lumberjack.nvim)
 

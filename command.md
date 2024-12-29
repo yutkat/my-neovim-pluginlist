@@ -14,6 +14,7 @@
   * [Shell Command](#shell-command)
     + [sudo](#sudo)
     + [quit](#quit)
+  * [Random value](#random-value)
 - [Multiple Command](#multiple-command)
 - [Command Palette](#command-palette)
 
@@ -90,6 +91,10 @@
 - [haolian9/barrier.nvim](https://github.com/haolian9/barrier.nvim) ![](https://img.shields.io/github/stars/haolian9/barrier.nvim) ![](https://img.shields.io/github/last-commit/haolian9/barrier.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/barrier.nvim)
 - [Dillonb/betterquit.nvim](https://github.com/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/stars/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/last-commit/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/commit-activity/y/Dillonb/betterquit.nvim)
 - [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
+
+### Random value
+
+- [simone-lungarella/randomize.nvim](https://github.com/simone-lungarella/randomize.nvim) ![](https://img.shields.io/github/stars/simone-lungarella/randomize.nvim) ![](https://img.shields.io/github/last-commit/simone-lungarella/randomize.nvim) ![](https://img.shields.io/github/commit-activity/y/simone-lungarella/randomize.nvim)
 
 ## Multiple Command
 
