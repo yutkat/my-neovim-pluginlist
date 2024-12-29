@@ -60,6 +60,7 @@
 ### Emmet
 
 - [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) ![](https://img.shields.io/github/stars/olrtg/nvim-emmet) ![](https://img.shields.io/github/last-commit/olrtg/nvim-emmet) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-emmet)
+- [dorage/tree-emmet.nvim](https://github.com/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/stars/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/last-commit/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/commit-activity/y/dorage/tree-emmet.nvim)
 
 ### Template
 

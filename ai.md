@@ -210,6 +210,7 @@
 - [aweis89/aider.nvim](https://github.com/aweis89/aider.nvim) ![](https://img.shields.io/github/stars/aweis89/aider.nvim) ![](https://img.shields.io/github/last-commit/aweis89/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/aider.nvim)
 - [shaleix/aider-ui.nvim](https://github.com/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/stars/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/last-commit/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/aider-ui.nvim)
 - [kentchiu/aider.nvim](https://github.com/kentchiu/aider.nvim) ![](https://img.shields.io/github/stars/kentchiu/aider.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/aider.nvim)
+- [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
 
 ### Otter
 

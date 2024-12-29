@@ -38,6 +38,7 @@
     + [Nushell](#nushell)
     + [PowerShell](#powershell)
     + [F](#f)
+    + [D](#d)
     + [DSL](#dsl)
     + [Juice](#juice)
     + [Wasm](#wasm)
@@ -271,6 +272,7 @@
 ### Julia
 
 - [Klafyvel/nvim-smuggler](https://github.com/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/stars/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/last-commit/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/commit-activity/y/Klafyvel/nvim-smuggler)
+- [ArbitRandomUser/projectsearchjl.nvim](https://github.com/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/stars/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/last-commit/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/commit-activity/y/ArbitRandomUser/projectsearchjl.nvim)
 
 ### R
 
@@ -306,6 +308,10 @@
 ### F
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
+
+### D
+
+- [emcclure/dcompiler.nvim](https://github.com/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/stars/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/last-commit/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/commit-activity/y/emcclure/dcompiler.nvim)
 
 ### DSL
 

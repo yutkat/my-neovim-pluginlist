@@ -86,6 +86,7 @@
 - [seolman/floatterminal.nvim](https://github.com/seolman/floatterminal.nvim) ![](https://img.shields.io/github/stars/seolman/floatterminal.nvim) ![](https://img.shields.io/github/last-commit/seolman/floatterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/seolman/floatterminal.nvim)
 - [benbrackenbury/floating-terminal.nvim](https://github.com/benbrackenbury/floating-terminal.nvim) ![](https://img.shields.io/github/stars/benbrackenbury/floating-terminal.nvim) ![](https://img.shields.io/github/last-commit/benbrackenbury/floating-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/benbrackenbury/floating-terminal.nvim)
 - [Z-xus/float.nvim](https://github.com/Z-xus/float.nvim) ![](https://img.shields.io/github/stars/Z-xus/float.nvim) ![](https://img.shields.io/github/last-commit/Z-xus/float.nvim) ![](https://img.shields.io/github/commit-activity/y/Z-xus/float.nvim)
+- [IamNanjo/floaterm.nvim](https://github.com/IamNanjo/floaterm.nvim) ![](https://img.shields.io/github/stars/IamNanjo/floaterm.nvim) ![](https://img.shields.io/github/last-commit/IamNanjo/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/IamNanjo/floaterm.nvim)
 
 ### Edit
 

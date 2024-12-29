@@ -7,6 +7,7 @@
   * [Copy with line info](#copy-with-line-info)
   * [remove indent](#remove-indent)
   * [URL](#url)
+  * [Buffer](#buffer)
   * [Register Selector](#register-selector)
   * [Edit Register](#edit-register)
   * [Lock Register](#lock-register)
@@ -62,6 +63,11 @@
 
 - [salvaft/copyurl.nvim](https://github.com/salvaft/copyurl.nvim) ![](https://img.shields.io/github/stars/salvaft/copyurl.nvim) ![](https://img.shields.io/github/last-commit/salvaft/copyurl.nvim) ![](https://img.shields.io/github/commit-activity/y/salvaft/copyurl.nvim)
 
+### Buffer
+
+- [hesiod-au/bufclip.nvim](https://github.com/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/stars/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/bufclip.nvim)
+
+
 ### Register Selector
 
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/stars/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/last-commit/gennaro-tedesco/nvim-peekup) ![](https://img.shields.io/github/commit-activity/y/gennaro-tedesco/nvim-peekup)
@@ -74,6 +80,7 @@
 - [eliogilvy/pasted.nvim](https://github.com/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/stars/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/last-commit/eliogilvy/pasted.nvim) ![](https://img.shields.io/github/commit-activity/y/eliogilvy/pasted.nvim)
 - [joelflaig/clip.nvim](https://github.com/joelflaig/clip.nvim) ![](https://img.shields.io/github/stars/joelflaig/clip.nvim) ![](https://img.shields.io/github/last-commit/joelflaig/clip.nvim) ![](https://img.shields.io/github/commit-activity/y/joelflaig/clip.nvim)
 - [royanirudd/clipboard-history.nvim](https://github.com/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/stars/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/last-commit/royanirudd/clipboard-history.nvim) ![](https://img.shields.io/github/commit-activity/y/royanirudd/clipboard-history.nvim)
+- [viljarh/yanklist.nvim](https://github.com/viljarh/yanklist.nvim) ![](https://img.shields.io/github/stars/viljarh/yanklist.nvim) ![](https://img.shields.io/github/last-commit/viljarh/yanklist.nvim) ![](https://img.shields.io/github/commit-activity/y/viljarh/yanklist.nvim)
 
 ### Edit Register
 

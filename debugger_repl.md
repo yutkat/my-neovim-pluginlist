@@ -56,6 +56,7 @@
 - [goropikari/nvim-dap-rdbg](https://github.com/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-rdbg) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-rdbg)
 - [goropikari/nvim-dap-cpp](https://github.com/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-cpp) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-cpp)
 - [itsfrank/breakingpoint.nvim](https://github.com/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/stars/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/breakingpoint.nvim)
+- [theHamsta/nvim-dap-commands](https://github.com/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/stars/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim-dap-commands)
 
 #### Launch.json
 
