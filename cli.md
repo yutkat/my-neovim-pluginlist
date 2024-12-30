@@ -241,7 +241,6 @@
 
 - [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
 - [irohn/wormhole.nvim](https://github.com/irohn/wormhole.nvim) ![](https://img.shields.io/github/stars/irohn/wormhole.nvim) ![](https://img.shields.io/github/last-commit/irohn/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/wormhole.nvim)
-- [ismaarino/mirror.nvim](https://github.com/ismaarino/mirror.nvim) ![](https://img.shields.io/github/stars/ismaarino/mirror.nvim) ![](https://img.shields.io/github/last-commit/ismaarino/mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/ismaarino/mirror.nvim)
 
 #### ftp
 
