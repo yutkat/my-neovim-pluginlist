@@ -13,6 +13,7 @@
     + [Tetris](#tetris)
     + [Typing](#typing)
     + [FiveM](#fivem)
+    + [World of Warcraft](#world-of-warcraft)
   * [Gaming](#gaming)
   * [Training](#training)
   * [Turing path](#turing-path)
@@ -110,6 +111,10 @@
 ### FiveM
 
 - [Z3rio/FiveM.nvim](https://github.com/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/stars/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/last-commit/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/commit-activity/y/Z3rio/FiveM.nvim)
+
+### World of Warcraft
+
+- [Tyrannican/warcraft-api.nvim](https://github.com/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/stars/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/last-commit/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyrannican/warcraft-api.nvim)
 
 ## Gaming
 

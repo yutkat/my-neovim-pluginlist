@@ -8,6 +8,7 @@
 - [Privacy](#privacy)
 - [GPG](#gpg)
 - [Sigma rule](#sigma-rule)
+- [Vulnerability test](#vulnerability-test)
 
 <!-- tocstop -->
 
@@ -48,3 +49,7 @@
 ### Sigma rule
 
 - [pop-ecx/sigma_picker.nvim](https://github.com/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/stars/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/last-commit/pop-ecx/sigma_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/pop-ecx/sigma_picker.nvim)
+
+### Vulnerability test
+
+- [propilideno/vulntest.nvim](https://github.com/propilideno/vulntest.nvim) ![](https://img.shields.io/github/stars/propilideno/vulntest.nvim) ![](https://img.shields.io/github/last-commit/propilideno/vulntest.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/vulntest.nvim)

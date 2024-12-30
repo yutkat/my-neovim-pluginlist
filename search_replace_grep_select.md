@@ -166,6 +166,7 @@
 - [Cannafox/fox-grep.nvim](https://github.com/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/stars/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/last-commit/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannafox/fox-grep.nvim)
 - [allcentury/telescope_csearch.nvim](https://github.com/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/stars/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/last-commit/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/commit-activity/y/allcentury/telescope_csearch.nvim)
 - [BrunoCiccarino/lazygrep.nvim](https://github.com/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/stars/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/last-commit/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/BrunoCiccarino/lazygrep.nvim)
+- [lcpichette/silver-search.nvim](https://github.com/lcpichette/silver-search.nvim) ![](https://img.shields.io/github/stars/lcpichette/silver-search.nvim) ![](https://img.shields.io/github/last-commit/lcpichette/silver-search.nvim) ![](https://img.shields.io/github/commit-activity/y/lcpichette/silver-search.nvim)
 
 ## AST
 
