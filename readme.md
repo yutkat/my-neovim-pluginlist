@@ -222,6 +222,7 @@
 
 - [fraso-dev/nvim-listchars](https://github.com/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/stars/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/last-commit/fraso-dev/nvim-listchars) ![](https://img.shields.io/github/commit-activity/y/fraso-dev/nvim-listchars)
 - [mcauley-penney/visual-whitespace.nvim](https://github.com/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/visual-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/visual-whitespace.nvim)
+- [rseichter/ellipsis.nvim](https://github.com/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/stars/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/last-commit/rseichter/ellipsis.nvim) ![](https://img.shields.io/github/commit-activity/y/rseichter/ellipsis.nvim)
 
 ### [Background](./background.md)
 
@@ -263,6 +264,7 @@
 - [csessh/stopinsert.nvim](https://github.com/csessh/stopinsert.nvim) ![](https://img.shields.io/github/stars/csessh/stopinsert.nvim) ![](https://img.shields.io/github/last-commit/csessh/stopinsert.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/stopinsert.nvim)
 - [Akirisu-kirisu/nvim-insert-mode](https://github.com/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/stars/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/last-commit/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/commit-activity/y/Akirisu-kirisu/nvim-insert-mode)
 - [aidancz/lfsp.nvim](https://github.com/aidancz/lfsp.nvim) ![](https://img.shields.io/github/stars/aidancz/lfsp.nvim) ![](https://img.shields.io/github/last-commit/aidancz/lfsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/lfsp.nvim)
+- [tehdb/nvim-faker](https://github.com/tehdb/nvim-faker) ![](https://img.shields.io/github/stars/tehdb/nvim-faker) ![](https://img.shields.io/github/last-commit/tehdb/nvim-faker) ![](https://img.shields.io/github/commit-activity/y/tehdb/nvim-faker)
 
 #### Smart Tab
 

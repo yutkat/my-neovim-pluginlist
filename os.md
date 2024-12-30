@@ -28,6 +28,7 @@
   * [Mac](#mac)
     + [Window Manager](#window-manager)
     + [iTerm](#iterm)
+    + [input source](#input-source)
   * [iOS](#ios)
   * [Android](#android)
     + [adb](#adb)
@@ -142,6 +143,10 @@
 #### iTerm
 
 - [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
+
+#### input source
+
+- [smartding/macism.nvim](https://github.com/smartding/macism.nvim) ![](https://img.shields.io/github/stars/smartding/macism.nvim) ![](https://img.shields.io/github/last-commit/smartding/macism.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/macism.nvim)
 
 ### iOS
 

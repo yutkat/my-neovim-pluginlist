@@ -8,6 +8,7 @@
   * [SQLite](#sqlite)
   * [MongoDB](#mongodb)
   * [SurrealDB](#surrealdb)
+  * [EdgeDB](#edgedb)
 
 <!-- tocstop -->
 
@@ -57,3 +58,7 @@
 ### SurrealDB
 
 - [DariusCorvus/tree-sitter-surrealdb.nvim](https://github.com/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/stars/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/last-commit/DariusCorvus/tree-sitter-surrealdb.nvim) ![](https://img.shields.io/github/commit-activity/y/DariusCorvus/tree-sitter-surrealdb.nvim)
+
+### EdgeDB
+
+- [deepbuzin/gel-query.nvim](https://github.com/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/stars/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/last-commit/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/commit-activity/y/deepbuzin/gel-query.nvim)

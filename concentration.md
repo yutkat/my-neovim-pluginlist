@@ -46,6 +46,7 @@
 - [navicore/nvim-reminders](https://github.com/navicore/nvim-reminders) ![](https://img.shields.io/github/stars/navicore/nvim-reminders) ![](https://img.shields.io/github/last-commit/navicore/nvim-reminders) ![](https://img.shields.io/github/commit-activity/y/navicore/nvim-reminders)
 - [mnsdojo/drink-watah.nvim](https://github.com/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/stars/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/last-commit/mnsdojo/drink-watah.nvim) ![](https://img.shields.io/github/commit-activity/y/mnsdojo/drink-watah.nvim)
 - [hellgrenj/popclock.nvim](https://github.com/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/stars/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/last-commit/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/commit-activity/y/hellgrenj/popclock.nvim)
+- [CoderParth/remind.nvim](https://github.com/CoderParth/remind.nvim) ![](https://img.shields.io/github/stars/CoderParth/remind.nvim) ![](https://img.shields.io/github/last-commit/CoderParth/remind.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderParth/remind.nvim)
 
 ## Timer
 

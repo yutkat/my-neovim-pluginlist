@@ -304,6 +304,7 @@
 ## submodule
 
 - [agoodshort/telescope-git-submodules.nvim](https://github.com/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/stars/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/last-commit/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/commit-activity/y/agoodshort/telescope-git-submodules.nvim)
+- [tlj/graft-git.nvim](https://github.com/tlj/graft-git.nvim) ![](https://img.shields.io/github/stars/tlj/graft-git.nvim) ![](https://img.shields.io/github/last-commit/tlj/graft-git.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/graft-git.nvim)
 
 ## git utils
 

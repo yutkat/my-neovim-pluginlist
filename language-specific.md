@@ -39,6 +39,7 @@
     + [PowerShell](#powershell)
     + [F](#f)
     + [D](#d)
+    + [fortran](#fortran)
     + [DSL](#dsl)
     + [Juice](#juice)
     + [Wasm](#wasm)
@@ -312,6 +313,10 @@
 ### D
 
 - [emcclure/dcompiler.nvim](https://github.com/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/stars/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/last-commit/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/commit-activity/y/emcclure/dcompiler.nvim)
+
+### fortran
+
+- [gustav-jansen/nvim-fortran-snippets](https://github.com/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/stars/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/last-commit/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/commit-activity/y/gustav-jansen/nvim-fortran-snippets)
 
 ### DSL
 
