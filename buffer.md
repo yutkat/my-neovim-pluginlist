@@ -87,6 +87,7 @@
 - [ruhendrawan/same-folder-file-cycle.nvim](https://github.com/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/stars/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/last-commit/ruhendrawan/same-folder-file-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/ruhendrawan/same-folder-file-cycle.nvim)
 - [eulegang/testswitch.nvim](https://github.com/eulegang/testswitch.nvim) ![](https://img.shields.io/github/stars/eulegang/testswitch.nvim) ![](https://img.shields.io/github/last-commit/eulegang/testswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/eulegang/testswitch.nvim)
 - [tobyond/turnips.nvim](https://github.com/tobyond/turnips.nvim) ![](https://img.shields.io/github/stars/tobyond/turnips.nvim) ![](https://img.shields.io/github/last-commit/tobyond/turnips.nvim) ![](https://img.shields.io/github/commit-activity/y/tobyond/turnips.nvim)
+- [Dreagen/jump-to-test.nvim](https://github.com/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/stars/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/last-commit/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/commit-activity/y/Dreagen/jump-to-test.nvim)
 
 ### Buffer Management
 
@@ -141,6 +142,7 @@
 - [wd60622/go-to.nvim](https://github.com/wd60622/go-to.nvim) ![](https://img.shields.io/github/stars/wd60622/go-to.nvim) ![](https://img.shields.io/github/last-commit/wd60622/go-to.nvim) ![](https://img.shields.io/github/commit-activity/y/wd60622/go-to.nvim)
 - [mschlumpp/quick-switch.nvim](https://github.com/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/stars/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/last-commit/mschlumpp/quick-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/mschlumpp/quick-switch.nvim)
 - [lth-go/mru.nvim](https://github.com/lth-go/mru.nvim) ![](https://img.shields.io/github/stars/lth-go/mru.nvim) ![](https://img.shields.io/github/last-commit/lth-go/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/lth-go/mru.nvim)
+- [mdLafrance/flip.nvim](https://github.com/mdLafrance/flip.nvim) ![](https://img.shields.io/github/stars/mdLafrance/flip.nvim) ![](https://img.shields.io/github/last-commit/mdLafrance/flip.nvim) ![](https://img.shields.io/github/commit-activity/y/mdLafrance/flip.nvim)
 
 ##### remote open
 

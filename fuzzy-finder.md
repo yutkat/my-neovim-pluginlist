@@ -43,6 +43,7 @@
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/stars/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-fzy)
   - [phongnh/fzy-settings.nvim](https://github.com/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/stars/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/last-commit/phongnh/fzy-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/phongnh/fzy-settings.nvim)
 - [mishkafreddy2009/fzyf.nvim](https://github.com/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/stars/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/last-commit/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/commit-activity/y/mishkafreddy2009/fzyf.nvim)
+- [mikavilpas/nucleo.nvim](https://github.com/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/stars/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/nucleo.nvim)
 
 ### Telescope Extensions
 
@@ -73,6 +74,7 @@
 - [FabianWirth/search.nvim](https://github.com/FabianWirth/search.nvim) ![](https://img.shields.io/github/stars/FabianWirth/search.nvim) ![](https://img.shields.io/github/last-commit/FabianWirth/search.nvim) ![](https://img.shields.io/github/commit-activity/y/FabianWirth/search.nvim)
 - [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 - [xq-meng/neopop.nvim](https://github.com/xq-meng/neopop.nvim) ![](https://img.shields.io/github/stars/xq-meng/neopop.nvim) ![](https://img.shields.io/github/last-commit/xq-meng/neopop.nvim) ![](https://img.shields.io/github/commit-activity/y/xq-meng/neopop.nvim)
+- [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
 
 #### Grep
 

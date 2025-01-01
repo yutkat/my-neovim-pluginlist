@@ -21,6 +21,7 @@
   * [AST](#ast)
 - [Select](#select)
   * [Bracket and quote](#bracket-and-quote)
+  * [Region info](#region-info)
   * [expand region](#expand-region)
   * [narrowing](#narrowing)
   * [Multi Cursor](#multi-cursor)
@@ -185,6 +186,10 @@
 ## Bracket and quote
 
 - [EdgardoArriagada/vaquero-shoot.nvim](https://github.com/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/stars/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/last-commit/EdgardoArriagada/vaquero-shoot.nvim) ![](https://img.shields.io/github/commit-activity/y/EdgardoArriagada/vaquero-shoot.nvim)
+
+## Region info
+
+- [gadkadosh/vimsum.nvim](https://github.com/gadkadosh/vimsum.nvim) ![](https://img.shields.io/github/stars/gadkadosh/vimsum.nvim) ![](https://img.shields.io/github/last-commit/gadkadosh/vimsum.nvim) ![](https://img.shields.io/github/commit-activity/y/gadkadosh/vimsum.nvim)
 
 ## expand region
 

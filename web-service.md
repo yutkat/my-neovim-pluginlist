@@ -139,6 +139,7 @@
 - [Funk66/jira.nvim](https://github.com/Funk66/jira.nvim) ![](https://img.shields.io/github/stars/Funk66/jira.nvim) ![](https://img.shields.io/github/last-commit/Funk66/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/Funk66/jira.nvim)
 - [jonarrien/jira.nvim](https://github.com/jonarrien/jira.nvim) ![](https://img.shields.io/github/stars/jonarrien/jira.nvim) ![](https://img.shields.io/github/last-commit/jonarrien/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/jonarrien/jira.nvim)
 - [DukicDev/telescope-jsw.nvim](https://github.com/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/stars/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/last-commit/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/commit-activity/y/DukicDev/telescope-jsw.nvim)
+- [janBorowy/jirac.nvim](https://github.com/janBorowy/jirac.nvim) ![](https://img.shields.io/github/stars/janBorowy/jirac.nvim) ![](https://img.shields.io/github/last-commit/janBorowy/jirac.nvim) ![](https://img.shields.io/github/commit-activity/y/janBorowy/jirac.nvim)
 
 ### Confluence
 

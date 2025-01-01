@@ -33,6 +33,7 @@
   * [ftp](#ftp)
   * [rsync](#rsync)
   * [curl](#curl)
+  * [OpenSSL](#openssl)
   * [bruno](#bruno)
   * [ctags](#ctags)
   * [global](#global)
@@ -116,6 +117,7 @@
 - [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
 - [krisajenkins/telescope-docker.nvim](https://github.com/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-docker.nvim)
 - [antonioanerao/dockerimages.nvim](https://github.com/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/stars/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/last-commit/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/commit-activity/y/antonioanerao/dockerimages.nvim)
+- [phukon/docker.nvim](https://github.com/phukon/docker.nvim) ![](https://img.shields.io/github/stars/phukon/docker.nvim) ![](https://img.shields.io/github/last-commit/phukon/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/phukon/docker.nvim)
 
 ##### Docker Compose
 
@@ -270,6 +272,10 @@
 - [io26/http.nvim](https://github.com/io26/http.nvim) ![](https://img.shields.io/github/stars/io26/http.nvim) ![](https://img.shields.io/github/last-commit/io26/http.nvim) ![](https://img.shields.io/github/commit-activity/y/io26/http.nvim)
 - [nabekou29/open-by-http.nvim](https://github.com/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/stars/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/open-by-http.nvim)
 - [gera2ld/remotely.nvim](https://github.com/gera2ld/remotely.nvim) ![](https://img.shields.io/github/stars/gera2ld/remotely.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/remotely.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/remotely.nvim)
+
+#### OpenSSL
+
+- [johannww/openssl.nvim](https://github.com/johannww/openssl.nvim) ![](https://img.shields.io/github/stars/johannww/openssl.nvim) ![](https://img.shields.io/github/last-commit/johannww/openssl.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/openssl.nvim)
 
 #### bruno
 

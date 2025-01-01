@@ -5,6 +5,7 @@
 - [Go](#go)
   * [gofmt](#gofmt)
   * [go list](#go-list)
+  * [go run](#go-run)
   * [debug](#debug)
   * [Test](#test)
     + [Test file](#test-file)
@@ -45,6 +46,7 @@
 - [pcolladosoto/tinygo.nvim](https://github.com/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/stars/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/last-commit/pcolladosoto/tinygo.nvim) ![](https://img.shields.io/github/commit-activity/y/pcolladosoto/tinygo.nvim)
 - [Azpect3120/gomon.nvim](https://github.com/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/stars/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/last-commit/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/commit-activity/y/Azpect3120/gomon.nvim)
 - [jocades/go-tools.nvim](https://github.com/jocades/go-tools.nvim) ![](https://img.shields.io/github/stars/jocades/go-tools.nvim) ![](https://img.shields.io/github/last-commit/jocades/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/jocades/go-tools.nvim)
+- [Axot017/golang-tools.nvim](https://github.com/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/stars/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/last-commit/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/golang-tools.nvim)
 
 ### gofmt
 
@@ -52,6 +54,10 @@
 ### go list
 
 - [lukasl-dev/go-list.nvim](https://github.com/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/stars/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/last-commit/lukasl-dev/go-list.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasl-dev/go-list.nvim)
+
+### go run
+
+- [hungdh9x/gorun.nvim](https://github.com/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/stars/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/last-commit/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/commit-activity/y/hungdh9x/gorun.nvim)
 
 ### debug
 
