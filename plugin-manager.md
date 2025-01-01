@@ -6,6 +6,7 @@
   * [Add runtime path (vim-plug like)](#add-runtime-path-vim-plug-like)
   * [Use builtin package feature](#use-builtin-package-feature)
   * [Update checker](#update-checker)
+  * [Orphan checker](#orphan-checker)
   * [Search](#search)
   * [add](#add)
   * [Lazy load](#lazy-load)
@@ -57,6 +58,10 @@
 ### Update checker
 
 - [loganswartz/plugwatch.nvim](https://github.com/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/stars/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/plugwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/plugwatch.nvim)
+
+### Orphan checker
+
+- [ZWindL/orphans.nvim](https://github.com/ZWindL/orphans.nvim) ![](https://img.shields.io/github/stars/ZWindL/orphans.nvim) ![](https://img.shields.io/github/last-commit/ZWindL/orphans.nvim) ![](https://img.shields.io/github/commit-activity/y/ZWindL/orphans.nvim)
 
 ### Search
 

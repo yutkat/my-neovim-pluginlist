@@ -9,6 +9,8 @@
   * [ToDo](#todo)
     + [Taskwarrior](#taskwarrior)
   * [Obsidian](#obsidian)
+  * [Blog](#blog)
+    + [Hugo](#hugo)
   * [Google Keep](#google-keep)
   * [Typst](#typst)
   * [Dendron](#dendron)
@@ -156,6 +158,12 @@
 - [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
 - [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
 
+## Blog
+
+### Hugo
+
+- [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
+
 ## Google Keep
 
 ## Typst
@@ -298,3 +306,4 @@
 - [syiin/nvim-logbook](https://github.com/syiin/nvim-logbook) ![](https://img.shields.io/github/stars/syiin/nvim-logbook) ![](https://img.shields.io/github/last-commit/syiin/nvim-logbook) ![](https://img.shields.io/github/commit-activity/y/syiin/nvim-logbook)
 - [phrmendes/notes.nvim](https://github.com/phrmendes/notes.nvim) ![](https://img.shields.io/github/stars/phrmendes/notes.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/notes.nvim)
 - [icemau/projectnote.nvim](https://github.com/icemau/projectnote.nvim) ![](https://img.shields.io/github/stars/icemau/projectnote.nvim) ![](https://img.shields.io/github/last-commit/icemau/projectnote.nvim) ![](https://img.shields.io/github/commit-activity/y/icemau/projectnote.nvim)
+- [phrmendes/todotxt.nvim](https://github.com/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/stars/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/todotxt.nvim)

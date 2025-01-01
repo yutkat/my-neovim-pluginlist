@@ -33,6 +33,7 @@
     + [Kitty](#kitty)
       - [Image](#image)
     + [WezTerm](#wezterm)
+    + [Ghostty](#ghostty)
     + [Windows Terminal](#windows-terminal)
   * [Infra](#infra)
     + [OpenStack](#openstack)
@@ -221,6 +222,10 @@
 - [letieu/wezterm-move.nvim](https://github.com/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/stars/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/last-commit/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/wezterm-move.nvim)
 - [ianhomer/wezterm.nvim](https://github.com/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/stars/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/last-commit/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ianhomer/wezterm.nvim)
 - [kedarmd/nvim-wez-navigator.nvim](https://github.com/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/stars/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/last-commit/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kedarmd/nvim-wez-navigator.nvim)
+
+#### Ghostty
+
+- [isak102/ghostty.nvim](https://github.com/isak102/ghostty.nvim) ![](https://img.shields.io/github/stars/isak102/ghostty.nvim) ![](https://img.shields.io/github/last-commit/isak102/ghostty.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/ghostty.nvim)
 
 #### Windows Terminal
 

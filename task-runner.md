@@ -113,6 +113,7 @@
 - [miroshQa/rittli.nvim](https://github.com/miroshQa/rittli.nvim) ![](https://img.shields.io/github/stars/miroshQa/rittli.nvim) ![](https://img.shields.io/github/last-commit/miroshQa/rittli.nvim) ![](https://img.shields.io/github/commit-activity/y/miroshQa/rittli.nvim)
 - [wf001/runme.nvim](https://github.com/wf001/runme.nvim) ![](https://img.shields.io/github/stars/wf001/runme.nvim) ![](https://img.shields.io/github/last-commit/wf001/runme.nvim) ![](https://img.shields.io/github/commit-activity/y/wf001/runme.nvim)
 - [CsiPA0723/task-runner.nvim](https://github.com/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/stars/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/last-commit/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CsiPA0723/task-runner.nvim)
+- [darrell-pittman/wgc-run.nvim](https://github.com/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-run.nvim)
 
 ### Shell
 

@@ -11,6 +11,7 @@
   * [Video](#video)
   * [Game](#game)
     + [Tetris](#tetris)
+    + [Mine Sweeper](#mine-sweeper)
     + [Typing](#typing)
     + [FiveM](#fivem)
     + [World of Warcraft](#world-of-warcraft)
@@ -64,6 +65,7 @@
 ## Book
 
 - [thjbdvlt/retrolire.nvim](https://github.com/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/retrolire.nvim)
+- [oleksiiluchnikov/eagle.nvim](https://github.com/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/eagle.nvim)
 
 ## Video
 
@@ -93,10 +95,15 @@
 - [Facel3ss1/subway-surfers.nvim](https://github.com/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/stars/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/last-commit/Facel3ss1/subway-surfers.nvim) ![](https://img.shields.io/github/commit-activity/y/Facel3ss1/subway-surfers.nvim)
 - [thejezzi/conway.nvim](https://github.com/thejezzi/conway.nvim) ![](https://img.shields.io/github/stars/thejezzi/conway.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/conway.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/conway.nvim)
 - [QU4SIMOTO/hangman.nvim](https://github.com/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/hangman.nvim)
+- [Leonardo-Luz/snake.nvim](https://github.com/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/snake.nvim)
 
 ### Tetris
 
 - [jayanthd04/asctris.nvim](https://github.com/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/stars/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/last-commit/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/commit-activity/y/jayanthd04/asctris.nvim)
+
+### Mine Sweeper
+
+- [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
 
 ### Typing
 

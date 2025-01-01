@@ -251,6 +251,7 @@
 - [pv-hernandez/conflict-juggler.nvim](https://github.com/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/stars/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/last-commit/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/pv-hernandez/conflict-juggler.nvim)
 - [youguanxinqing/git-conflicts.nvim](https://github.com/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/git-conflicts.nvim)
 - [Tronikelis/conflict-marker.nvim](https://github.com/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/stars/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/conflict-marker.nvim)
+- [DylanBarratt/mergetool.nvim](https://github.com/DylanBarratt/mergetool.nvim) ![](https://img.shields.io/github/stars/DylanBarratt/mergetool.nvim) ![](https://img.shields.io/github/last-commit/DylanBarratt/mergetool.nvim) ![](https://img.shields.io/github/commit-activity/y/DylanBarratt/mergetool.nvim)
 
 ## git pull
 
@@ -305,6 +306,7 @@
 
 - [agoodshort/telescope-git-submodules.nvim](https://github.com/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/stars/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/last-commit/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/commit-activity/y/agoodshort/telescope-git-submodules.nvim)
 - [tlj/graft-git.nvim](https://github.com/tlj/graft-git.nvim) ![](https://img.shields.io/github/stars/tlj/graft-git.nvim) ![](https://img.shields.io/github/last-commit/tlj/graft-git.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/graft-git.nvim)
+  - [tlj/graft-ui.nvim](https://github.com/tlj/graft-ui.nvim) ![](https://img.shields.io/github/stars/tlj/graft-ui.nvim) ![](https://img.shields.io/github/last-commit/tlj/graft-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/graft-ui.nvim)
 
 ## git utils
 
@@ -331,6 +333,7 @@
 - [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
 - [swaits/lazyjj.nvim](https://github.com/swaits/lazyjj.nvim) ![](https://img.shields.io/github/stars/swaits/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/swaits/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/lazyjj.nvim)
 - [obayemi/jjsigns.nvim](https://github.com/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/stars/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/obayemi/jjsigns.nvim)
+- [CharlesTaylor7/majjit.nvim](https://github.com/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/stars/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/last-commit/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesTaylor7/majjit.nvim)
 
 ## diff
 
