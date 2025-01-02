@@ -218,6 +218,7 @@
 - [niuiic/part-edit.nvim](https://github.com/niuiic/part-edit.nvim) ![](https://img.shields.io/github/stars/niuiic/part-edit.nvim) ![](https://img.shields.io/github/last-commit/niuiic/part-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/part-edit.nvim)
 - [musaubrian/scratch.nvim](https://github.com/musaubrian/scratch.nvim) ![](https://img.shields.io/github/stars/musaubrian/scratch.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/scratch.nvim)
 - [slugbyte/whip.nvim](https://github.com/slugbyte/whip.nvim) ![](https://img.shields.io/github/stars/slugbyte/whip.nvim) ![](https://img.shields.io/github/last-commit/slugbyte/whip.nvim) ![](https://img.shields.io/github/commit-activity/y/slugbyte/whip.nvim)
+- [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/scratchpad.nvim)
 
 ### buffer Sharing
 

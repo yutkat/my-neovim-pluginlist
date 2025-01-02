@@ -157,6 +157,7 @@
 - [w40141/obsidian-daily-tweets.nvim](https://github.com/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/stars/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/last-commit/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/commit-activity/y/w40141/obsidian-daily-tweets.nvim)
 - [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
 - [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
+- [efirlus/quickadd.nvim](https://github.com/efirlus/quickadd.nvim) ![](https://img.shields.io/github/stars/efirlus/quickadd.nvim) ![](https://img.shields.io/github/last-commit/efirlus/quickadd.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/quickadd.nvim)
 
 ## Blog
 
@@ -307,3 +308,4 @@
 - [phrmendes/notes.nvim](https://github.com/phrmendes/notes.nvim) ![](https://img.shields.io/github/stars/phrmendes/notes.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/notes.nvim)
 - [icemau/projectnote.nvim](https://github.com/icemau/projectnote.nvim) ![](https://img.shields.io/github/stars/icemau/projectnote.nvim) ![](https://img.shields.io/github/last-commit/icemau/projectnote.nvim) ![](https://img.shields.io/github/commit-activity/y/icemau/projectnote.nvim)
 - [phrmendes/todotxt.nvim](https://github.com/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/stars/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/todotxt.nvim)
+- [guglielmobartelloni/neatnotes.nvim](https://github.com/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/stars/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/last-commit/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/guglielmobartelloni/neatnotes.nvim)

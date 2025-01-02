@@ -5,6 +5,7 @@
 - [Help](#help)
   * [Neovim doc](#neovim-doc)
   * [CheatSheet](#cheatsheet)
+  * [Tips](#tips)
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
 
@@ -46,6 +47,10 @@
 - [Thomasprss/cheatsheet.nvim](https://github.com/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/stars/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/Thomasprss/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/Thomasprss/cheatsheet.nvim)
 - [kilavila/cheat-sh.nvim](https://github.com/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/stars/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/last-commit/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/kilavila/cheat-sh.nvim)
 - [danitrap/cheatsh.nvim](https://github.com/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/stars/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/last-commit/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/commit-activity/y/danitrap/cheatsh.nvim)
+
+### Tips
+
+- [rene-hess/tip.nvim](https://github.com/rene-hess/tip.nvim) ![](https://img.shields.io/github/stars/rene-hess/tip.nvim) ![](https://img.shields.io/github/last-commit/rene-hess/tip.nvim) ![](https://img.shields.io/github/commit-activity/y/rene-hess/tip.nvim)
 
 ### External Manual
 
