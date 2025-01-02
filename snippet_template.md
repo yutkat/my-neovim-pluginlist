@@ -35,6 +35,7 @@
 - [rspoonz/snipbase.nvim](https://github.com/rspoonz/snipbase.nvim) ![](https://img.shields.io/github/stars/rspoonz/snipbase.nvim) ![](https://img.shields.io/github/last-commit/rspoonz/snipbase.nvim) ![](https://img.shields.io/github/commit-activity/y/rspoonz/snipbase.nvim)
 - [vmargb/funcy.nvim](https://github.com/vmargb/funcy.nvim) ![](https://img.shields.io/github/stars/vmargb/funcy.nvim) ![](https://img.shields.io/github/last-commit/vmargb/funcy.nvim) ![](https://img.shields.io/github/commit-activity/y/vmargb/funcy.nvim)
 - [echasnovski/mini.snippets](https://github.com/echasnovski/mini.snippets) ![](https://img.shields.io/github/stars/echasnovski/mini.snippets) ![](https://img.shields.io/github/last-commit/echasnovski/mini.snippets) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.snippets)
+  - [abeldekat/cmp-mini-snippets](https://github.com/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/stars/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/last-commit/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/commit-activity/y/abeldekat/cmp-mini-snippets)
 
 #### Snippet definitions
 

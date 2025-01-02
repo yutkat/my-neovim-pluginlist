@@ -208,6 +208,7 @@
 - [alexander-born/bazel.nvim](https://github.com/alexander-born/bazel.nvim) ![](https://img.shields.io/github/stars/alexander-born/bazel.nvim) ![](https://img.shields.io/github/last-commit/alexander-born/bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/alexander-born/bazel.nvim)
 - [numine777/py-bazel.nvim](https://github.com/numine777/py-bazel.nvim) ![](https://img.shields.io/github/stars/numine777/py-bazel.nvim) ![](https://img.shields.io/github/last-commit/numine777/py-bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/numine777/py-bazel.nvim)
 - [mrheinen/bazelbub.nvim](https://github.com/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/stars/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/last-commit/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/commit-activity/y/mrheinen/bazelbub.nvim)
+- [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) ![](https://img.shields.io/github/stars/lewistg/pesto.nvim) ![](https://img.shields.io/github/last-commit/lewistg/pesto.nvim) ![](https://img.shields.io/github/commit-activity/y/lewistg/pesto.nvim)
 
 #### ripgrep
 

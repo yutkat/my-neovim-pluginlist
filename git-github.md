@@ -445,6 +445,7 @@
 - [anugrahn1/goto-github.nvim](https://github.com/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/stars/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/last-commit/anugrahn1/goto-github.nvim) ![](https://img.shields.io/github/commit-activity/y/anugrahn1/goto-github.nvim)
 - [tronikelis/gitdive.nvim](https://github.com/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/stars/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/gitdive.nvim)
 - [claydugo/browsher.nvim](https://github.com/claydugo/browsher.nvim) ![](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![](https://img.shields.io/github/last-commit/claydugo/browsher.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/browsher.nvim)
+- [elliotxx/copypath.nvim](https://github.com/elliotxx/copypath.nvim) ![](https://img.shields.io/github/stars/elliotxx/copypath.nvim) ![](https://img.shields.io/github/last-commit/elliotxx/copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotxx/copypath.nvim)
 
 ## Image
 

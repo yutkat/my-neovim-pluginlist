@@ -92,6 +92,7 @@
 - [jackMort/tide.nvim](https://github.com/jackMort/tide.nvim) ![](https://img.shields.io/github/stars/jackMort/tide.nvim) ![](https://img.shields.io/github/last-commit/jackMort/tide.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/tide.nvim)
 - [EvWilson/spelunk.nvim](https://github.com/EvWilson/spelunk.nvim) ![](https://img.shields.io/github/stars/EvWilson/spelunk.nvim) ![](https://img.shields.io/github/last-commit/EvWilson/spelunk.nvim) ![](https://img.shields.io/github/commit-activity/y/EvWilson/spelunk.nvim)
 - [ericshenshs/telescope_bookmarks.nvim](https://github.com/ericshenshs/telescope_bookmarks.nvim) ![](https://img.shields.io/github/stars/ericshenshs/telescope_bookmarks.nvim) ![](https://img.shields.io/github/last-commit/ericshenshs/telescope_bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/ericshenshs/telescope_bookmarks.nvim)
+- [zongben/navimark.nvim](https://github.com/zongben/navimark.nvim) ![](https://img.shields.io/github/stars/zongben/navimark.nvim) ![](https://img.shields.io/github/last-commit/zongben/navimark.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/navimark.nvim)
 
 ### etc
 
