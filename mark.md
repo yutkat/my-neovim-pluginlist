@@ -27,6 +27,7 @@
 - [gcmt/vessel.nvim](https://github.com/gcmt/vessel.nvim) ![](https://img.shields.io/github/stars/gcmt/vessel.nvim) ![](https://img.shields.io/github/last-commit/gcmt/vessel.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/vessel.nvim)
 - [gabrielfruet/mint.nvim](https://github.com/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/mint.nvim)
 - [nicholasxjy/snipe-marks.nvim](https://github.com/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/snipe-marks.nvim)
+- [mgierada/marker.nvim](https://github.com/mgierada/marker.nvim) ![](https://img.shields.io/github/stars/mgierada/marker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/marker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/marker.nvim)
 
 ### extmark
 
