@@ -110,6 +110,7 @@
 - [Tronikelis/debdiag.nvim](https://github.com/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/stars/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/debdiag.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/debdiag.nvim)
 - [cperion/ai-diagnostics.nvim](https://github.com/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/stars/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/cperion/ai-diagnostics.nvim)
 - [bwcroft/faultless.nvim](https://github.com/bwcroft/faultless.nvim) ![](https://img.shields.io/github/stars/bwcroft/faultless.nvim) ![](https://img.shields.io/github/last-commit/bwcroft/faultless.nvim) ![](https://img.shields.io/github/commit-activity/y/bwcroft/faultless.nvim)
+- [DerivadaDX/diagnostics-loclist-plus.nvim](https://github.com/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/stars/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/last-commit/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/DerivadaDX/diagnostics-loclist-plus.nvim)
 
 ##### Diagnostics goto
 
