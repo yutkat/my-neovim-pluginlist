@@ -175,6 +175,7 @@
 - [kirill-d-lappo/nvim-daily-quotes](https://github.com/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-daily-quotes)
 - [Sayyidalijufri/bismillahline.nvim](https://github.com/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/bismillahline.nvim)
 - [jpmcb/rip-and-tear.nvim](https://github.com/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/stars/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/last-commit/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/commit-activity/y/jpmcb/rip-and-tear.nvim)
+- [michaelstrefeler/peptalk.nvim](https://github.com/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/stars/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/last-commit/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelstrefeler/peptalk.nvim)
 
 #### Tips
 

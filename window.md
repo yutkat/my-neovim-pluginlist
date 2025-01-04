@@ -17,6 +17,7 @@
     + [maximize](#maximize)
     + [focus](#focus)
     + [Window Number](#window-number)
+    + [redraw](#redraw)
   * [animation](#animation)
 
 <!-- tocstop -->
@@ -133,6 +134,11 @@
 
 - [Antony-AXS/indicator.nvim](https://github.com/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/stars/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/last-commit/Antony-AXS/indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/Antony-AXS/indicator.nvim)
 
+#### redraw
+
+- [notomo/redraw-inspect.nvim](https://github.com/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/stars/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/last-commit/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/redraw-inspect.nvim)
+
 ### animation
 
 - [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/flirt.nvim)
+
