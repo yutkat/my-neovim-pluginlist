@@ -213,6 +213,7 @@
 - [FredeEB/tardis.nvim](https://github.com/FredeEB/tardis.nvim) ![](https://img.shields.io/github/stars/FredeEB/tardis.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/tardis.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/tardis.nvim)
 - [isakbm/gitgraph.nvim](https://github.com/isakbm/gitgraph.nvim) ![](https://img.shields.io/github/stars/isakbm/gitgraph.nvim) ![](https://img.shields.io/github/last-commit/isakbm/gitgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/isakbm/gitgraph.nvim)
 - [oflisback/cursor-git-ref-command.nvim](https://github.com/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/stars/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/last-commit/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/commit-activity/y/oflisback/cursor-git-ref-command.nvim)
+- [martin-walls/git-graph.nvim](https://github.com/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/stars/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/last-commit/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/martin-walls/git-graph.nvim)
 
 ### preview contents
 

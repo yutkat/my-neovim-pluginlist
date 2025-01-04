@@ -106,6 +106,7 @@
 - [Issafalcon/lsp-overloads.nvim](https://github.com/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/stars/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/last-commit/Issafalcon/lsp-overloads.nvim) ![](https://img.shields.io/github/commit-activity/y/Issafalcon/lsp-overloads.nvim)
 - [erhickey/sig-window-nvim](https://github.com/erhickey/sig-window-nvim) ![](https://img.shields.io/github/stars/erhickey/sig-window-nvim) ![](https://img.shields.io/github/last-commit/erhickey/sig-window-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/sig-window-nvim)
 - [tranzystorekk/cmp-minikind.nvim](https://github.com/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/stars/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/last-commit/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/commit-activity/y/tranzystorekk/cmp-minikind.nvim)
+- [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/stars/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/last-commit/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/xzbdmw/colorful-menu.nvim)
 
 ## Standard Completion
 

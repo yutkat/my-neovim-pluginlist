@@ -36,6 +36,7 @@
 - [prasy-loyola/call-tree.nvim](https://github.com/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/stars/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/last-commit/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/prasy-loyola/call-tree.nvim)
 - [kontura/trails.nvim](https://github.com/kontura/trails.nvim) ![](https://img.shields.io/github/stars/kontura/trails.nvim) ![](https://img.shields.io/github/last-commit/kontura/trails.nvim) ![](https://img.shields.io/github/commit-activity/y/kontura/trails.nvim)
 - [emmanueltouzery/code-compass.nvim](https://github.com/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/code-compass.nvim)
+- [jmacadie/telescope-hierarchy.nvim](https://github.com/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/stars/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/jmacadie/telescope-hierarchy.nvim)
 
 ### Type Hierarchy
 

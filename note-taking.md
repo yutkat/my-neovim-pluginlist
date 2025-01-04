@@ -130,6 +130,7 @@
 - [KasperJSdeVries/plan.nvim](https://github.com/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/stars/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/last-commit/KasperJSdeVries/plan.nvim) ![](https://img.shields.io/github/commit-activity/y/KasperJSdeVries/plan.nvim)
 - [renancavalcantercb/todo.nvim](https://github.com/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/stars/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/last-commit/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/renancavalcantercb/todo.nvim)
 - [balinux/nvim-kanban-board](https://github.com/balinux/nvim-kanban-board) ![](https://img.shields.io/github/stars/balinux/nvim-kanban-board) ![](https://img.shields.io/github/last-commit/balinux/nvim-kanban-board) ![](https://img.shields.io/github/commit-activity/y/balinux/nvim-kanban-board)
+- [N1lsE/simple-todo.nvim](https://github.com/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/stars/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/N1lsE/simple-todo.nvim)
 
 ### Taskwarrior
 
@@ -309,3 +310,4 @@
 - [icemau/projectnote.nvim](https://github.com/icemau/projectnote.nvim) ![](https://img.shields.io/github/stars/icemau/projectnote.nvim) ![](https://img.shields.io/github/last-commit/icemau/projectnote.nvim) ![](https://img.shields.io/github/commit-activity/y/icemau/projectnote.nvim)
 - [phrmendes/todotxt.nvim](https://github.com/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/stars/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/last-commit/phrmendes/todotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/phrmendes/todotxt.nvim)
 - [guglielmobartelloni/neatnotes.nvim](https://github.com/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/stars/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/last-commit/guglielmobartelloni/neatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/guglielmobartelloni/neatnotes.nvim)
+- [remino/scraps.nvim](https://github.com/remino/scraps.nvim) ![](https://img.shields.io/github/stars/remino/scraps.nvim) ![](https://img.shields.io/github/last-commit/remino/scraps.nvim) ![](https://img.shields.io/github/commit-activity/y/remino/scraps.nvim)

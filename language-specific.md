@@ -101,6 +101,7 @@
     + [Koan](#koan)
     + [Prolog](#prolog)
     + [Beancount](#beancount)
+    + [incc](#incc)
     + [CHIP-8](#chip-8)
     + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     + [E2](#e2)
@@ -557,6 +558,10 @@
 ### Beancount
 
 - [crispgm/cmp-beancount](https://github.com/crispgm/cmp-beancount) ![](https://img.shields.io/github/stars/crispgm/cmp-beancount) ![](https://img.shields.io/github/last-commit/crispgm/cmp-beancount) ![](https://img.shields.io/github/commit-activity/y/crispgm/cmp-beancount)
+
+### incc
+
+- [DominikOcsofszki/lsp-incc.nvim](https://github.com/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/lsp-incc.nvim)
 
 ### CHIP-8
 
