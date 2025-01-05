@@ -8,6 +8,7 @@
   * [Tips](#tips)
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
+- [RFC](#rfc)
 
 <!-- tocstop -->
 
@@ -63,3 +64,7 @@
 - [Ernest1338/training.nvim](https://github.com/Ernest1338/training.nvim) ![](https://img.shields.io/github/stars/Ernest1338/training.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/training.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/training.nvim)
 - [doriancmore/practice.nvim](https://github.com/doriancmore/practice.nvim) ![](https://img.shields.io/github/stars/doriancmore/practice.nvim) ![](https://img.shields.io/github/last-commit/doriancmore/practice.nvim) ![](https://img.shields.io/github/commit-activity/y/doriancmore/practice.nvim)
 - [maarutan/keycalm.nvim](https://github.com/maarutan/keycalm.nvim) ![](https://img.shields.io/github/stars/maarutan/keycalm.nvim) ![](https://img.shields.io/github/last-commit/maarutan/keycalm.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/keycalm.nvim)
+
+## RFC
+
+- [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) ![](https://img.shields.io/github/stars/moniquelive/rfc.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/rfc.nvim)

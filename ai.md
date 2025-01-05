@@ -101,6 +101,8 @@
 - [g0t4/ask-openai.nvim](https://github.com/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/stars/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/last-commit/g0t4/ask-openai.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/ask-openai.nvim)
 - [harjotgill/CodeGPT.nvim](https://github.com/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/stars/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/last-commit/harjotgill/CodeGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/harjotgill/CodeGPT.nvim)
 - [iovdin/tune.nvim](https://github.com/iovdin/tune.nvim) ![](https://img.shields.io/github/stars/iovdin/tune.nvim) ![](https://img.shields.io/github/last-commit/iovdin/tune.nvim) ![](https://img.shields.io/github/commit-activity/y/iovdin/tune.nvim)
+- [josiahdenton/copilot-chat-context.nvim](https://github.com/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/stars/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/copilot-chat-context.nvim)
+- [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
 
 #### log
 
@@ -135,6 +137,7 @@
 - [huangyingw/avante.nvim](https://github.com/huangyingw/avante.nvim) ![](https://img.shields.io/github/stars/huangyingw/avante.nvim) ![](https://img.shields.io/github/last-commit/huangyingw/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/huangyingw/avante.nvim)
 - [guerrerojuli/coder.nvim](https://github.com/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/stars/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/last-commit/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/guerrerojuli/coder.nvim)
 - [uanandaraja/nvim-llm.nvim](https://github.com/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/stars/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/last-commit/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/uanandaraja/nvim-llm.nvim)
+- [sally-sandwich/llm.nvim](https://github.com/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/stars/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/last-commit/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/sally-sandwich/llm.nvim)
 
 #### Generate Doc
 
