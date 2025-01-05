@@ -23,6 +23,7 @@
   * [Typst preview](#typst-preview)
   * [JSON](#json)
   * [Test](#test)
+  * [Debug](#debug)
   * [jsdoc](#jsdoc)
   * [Task Runner](#task-runner)
     + [yarn](#yarn)
@@ -169,6 +170,10 @@
 - [zivlakmilos/TestRunner.nvim](https://github.com/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/stars/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/last-commit/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/zivlakmilos/TestRunner.nvim)
 - [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
 - [sashankr98/nvim-jester](https://github.com/sashankr98/nvim-jester) ![](https://img.shields.io/github/stars/sashankr98/nvim-jester) ![](https://img.shields.io/github/last-commit/sashankr98/nvim-jester) ![](https://img.shields.io/github/commit-activity/y/sashankr98/nvim-jester)
+
+### Debug
+
+- [askerdev/debugjs.nvim](https://github.com/askerdev/debugjs.nvim) ![](https://img.shields.io/github/stars/askerdev/debugjs.nvim) ![](https://img.shields.io/github/last-commit/askerdev/debugjs.nvim) ![](https://img.shields.io/github/commit-activity/y/askerdev/debugjs.nvim)
 
 ### jsdoc
 

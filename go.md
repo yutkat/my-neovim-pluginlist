@@ -82,6 +82,7 @@
 - [sshelll/telescope-gott.nvim](https://github.com/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-gott.nvim)
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) ![](https://img.shields.io/github/stars/vcraescu/gotest.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/gotest.nvim)
 - [vladevelops/gtestler.nvim](https://github.com/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/stars/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/last-commit/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/commit-activity/y/vladevelops/gtestler.nvim)
+- [devoc09/go-test.nvim](https://github.com/devoc09/go-test.nvim) ![](https://img.shields.io/github/stars/devoc09/go-test.nvim) ![](https://img.shields.io/github/last-commit/devoc09/go-test.nvim) ![](https://img.shields.io/github/commit-activity/y/devoc09/go-test.nvim)
 
 #### Test file
 

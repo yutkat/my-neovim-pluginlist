@@ -114,6 +114,7 @@
 
 - [X3eRo0/dired.nvim](https://github.com/X3eRo0/dired.nvim) ![](https://img.shields.io/github/stars/X3eRo0/dired.nvim) ![](https://img.shields.io/github/last-commit/X3eRo0/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/X3eRo0/dired.nvim)
 - [2hdddg/fex.nvim](https://github.com/2hdddg/fex.nvim) ![](https://img.shields.io/github/stars/2hdddg/fex.nvim) ![](https://img.shields.io/github/last-commit/2hdddg/fex.nvim) ![](https://img.shields.io/github/commit-activity/y/2hdddg/fex.nvim)
+- [nvimdev/dired.nvim](https://github.com/nvimdev/dired.nvim) ![](https://img.shields.io/github/stars/nvimdev/dired.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dired.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dired.nvim)
 
 ## nnn wrapper
 

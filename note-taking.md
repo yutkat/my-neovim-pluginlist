@@ -131,6 +131,8 @@
 - [renancavalcantercb/todo.nvim](https://github.com/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/stars/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/last-commit/renancavalcantercb/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/renancavalcantercb/todo.nvim)
 - [balinux/nvim-kanban-board](https://github.com/balinux/nvim-kanban-board) ![](https://img.shields.io/github/stars/balinux/nvim-kanban-board) ![](https://img.shields.io/github/last-commit/balinux/nvim-kanban-board) ![](https://img.shields.io/github/commit-activity/y/balinux/nvim-kanban-board)
 - [N1lsE/simple-todo.nvim](https://github.com/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/stars/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/N1lsE/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/N1lsE/simple-todo.nvim)
+- [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo) ![](https://img.shields.io/github/stars/Dan7h3x/LazyDo) ![](https://img.shields.io/github/last-commit/Dan7h3x/LazyDo) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/LazyDo)
+- [steven-dyson/todo-finder.nvim](https://github.com/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/stars/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/last-commit/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/steven-dyson/todo-finder.nvim)
 
 ### Taskwarrior
 
