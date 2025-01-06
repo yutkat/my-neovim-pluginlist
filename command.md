@@ -59,6 +59,7 @@
 - [stonemaster/import-sort.nvim](https://github.com/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/stars/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/last-commit/stonemaster/import-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/stonemaster/import-sort.nvim)
 - [mtrajano/tssorter.nvim](https://github.com/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/stars/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/last-commit/mtrajano/tssorter.nvim) ![](https://img.shields.io/github/commit-activity/y/mtrajano/tssorter.nvim)
 - [cqb13/line-length-sorter.nvim](https://github.com/cqb13/line-length-sorter.nvim) ![](https://img.shields.io/github/stars/cqb13/line-length-sorter.nvim) ![](https://img.shields.io/github/last-commit/cqb13/line-length-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/cqb13/line-length-sorter.nvim)
+- [maxbol/treesorter.nvim](https://github.com/maxbol/treesorter.nvim) ![](https://img.shields.io/github/stars/maxbol/treesorter.nvim) ![](https://img.shields.io/github/last-commit/maxbol/treesorter.nvim) ![](https://img.shields.io/github/commit-activity/y/maxbol/treesorter.nvim)
 
 ### make
 

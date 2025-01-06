@@ -25,6 +25,7 @@
     + [Markdown code block](#markdown-code-block)
     + [Markdown table](#markdown-table)
     + [footnote](#footnote)
+    + [ID](#id)
     + [Markdown evaluate code](#markdown-evaluate-code)
     + [Styling](#styling)
     + [Markdown checkbox](#markdown-checkbox)
@@ -215,6 +216,10 @@
 #### footnote
 
 - [chenxin-yan/footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/footnote.nvim)
+
+#### ID
+
+- [scossar/markdown-fileid.nvim](https://github.com/scossar/markdown-fileid.nvim) ![](https://img.shields.io/github/stars/scossar/markdown-fileid.nvim) ![](https://img.shields.io/github/last-commit/scossar/markdown-fileid.nvim) ![](https://img.shields.io/github/commit-activity/y/scossar/markdown-fileid.nvim)
 
 #### Markdown evaluate code
 
