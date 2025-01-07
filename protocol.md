@@ -15,6 +15,7 @@
   * [webrcp](#webrcp)
   * [httpyac](#httpyac)
   * [HL7](#hl7)
+  * [CCSDS](#ccsds)
 
 <!-- tocstop -->
 
@@ -73,4 +74,8 @@
 - [abidibo/nvim-httpyac](https://github.com/abidibo/nvim-httpyac) ![](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-httpyac)
 
 ### HL7
+
+### CCSDS
+
+- [rogueWookie/ccsds-hdr.nvim](https://github.com/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/rogueWookie/ccsds-hdr.nvim)
 
