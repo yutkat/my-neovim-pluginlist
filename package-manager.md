@@ -8,6 +8,7 @@
   * [Luarock](#luarock)
 - [for programming languages](#for-programming-languages)
 - [for CLI](#for-cli)
+- [for Rust](#for-rust)
 
 <!-- tocstop -->
 
@@ -43,3 +44,7 @@
 ## for CLI
 
 - [onexbash/prereq.nvim](https://github.com/onexbash/prereq.nvim) ![](https://img.shields.io/github/stars/onexbash/prereq.nvim) ![](https://img.shields.io/github/last-commit/onexbash/prereq.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/prereq.nvim)
+
+## for Rust
+
+- [cortesi/nvirun.nvim](https://github.com/cortesi/nvirun.nvim) ![](https://img.shields.io/github/stars/cortesi/nvirun.nvim) ![](https://img.shields.io/github/last-commit/cortesi/nvirun.nvim) ![](https://img.shields.io/github/commit-activity/y/cortesi/nvirun.nvim)

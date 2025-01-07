@@ -61,6 +61,7 @@
 - [sschleemilch/slimline.nvim](https://github.com/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/stars/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/last-commit/sschleemilch/slimline.nvim) ![](https://img.shields.io/github/commit-activity/y/sschleemilch/slimline.nvim)
 - [musaubrian/minline.nvim](https://github.com/musaubrian/minline.nvim) ![](https://img.shields.io/github/stars/musaubrian/minline.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/minline.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/minline.nvim)
 - [aroario2003/neostatus.nvim](https://github.com/aroario2003/neostatus.nvim) ![](https://img.shields.io/github/stars/aroario2003/neostatus.nvim) ![](https://img.shields.io/github/last-commit/aroario2003/neostatus.nvim) ![](https://img.shields.io/github/commit-activity/y/aroario2003/neostatus.nvim)
+- [harryvince/statusbar.nvim](https://github.com/harryvince/statusbar.nvim) ![](https://img.shields.io/github/stars/harryvince/statusbar.nvim) ![](https://img.shields.io/github/last-commit/harryvince/statusbar.nvim) ![](https://img.shields.io/github/commit-activity/y/harryvince/statusbar.nvim)
 
 ### Simple
 
