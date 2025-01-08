@@ -12,6 +12,7 @@
 - [Neovim Lua Development](#neovim-lua-development)
 - [Neovim Lua REPL](#neovim-lua-repl)
 - [Development Tools](#development-tools)
+- [Type](#type)
 - [Log](#log)
 - [Print](#print)
 - [Debug](#debug)
@@ -87,6 +88,10 @@
 ## Development Tools
 
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) ![](https://img.shields.io/github/stars/tjdevries/nlua.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/nlua.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/nlua.nvim)
+
+## Type
+
+- [codethread/ct.nvim](https://github.com/codethread/ct.nvim) ![](https://img.shields.io/github/stars/codethread/ct.nvim) ![](https://img.shields.io/github/last-commit/codethread/ct.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/ct.nvim)
 
 ## Log
 

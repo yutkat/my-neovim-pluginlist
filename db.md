@@ -5,6 +5,7 @@
 - [Database](#database)
   * [SQL](#sql)
   * [PostgreSQL](#postgresql)
+  * [MySQL](#mysql)
   * [SQLite](#sqlite)
   * [MongoDB](#mongodb)
   * [SurrealDB](#surrealdb)
@@ -44,6 +45,10 @@
 - [evanrichards/maitre-psql.nvim](https://github.com/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/stars/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/last-commit/evanrichards/maitre-psql.nvim) ![](https://img.shields.io/github/commit-activity/y/evanrichards/maitre-psql.nvim)
 - [bpanahij/postgresql.nvim](https://github.com/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/stars/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/last-commit/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/commit-activity/y/bpanahij/postgresql.nvim)
 - [jesses-code-adventures/pg_query.nvim](https://github.com/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/pg_query.nvim)
+
+### MySQL
+
+- [NyeKo-ItL/mysql_query.nvim](https://github.com/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/stars/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/last-commit/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/commit-activity/y/NyeKo-ItL/mysql_query.nvim)
 
 ### SQLite
 

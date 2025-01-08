@@ -14,6 +14,7 @@
 
 - [Derrekito/nvim-type-anim](https://github.com/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/stars/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/last-commit/Derrekito/nvim-type-anim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/nvim-type-anim)
 - [paradoxskin/boringBubble.nvim](https://github.com/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/stars/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/boringBubble.nvim)
+- [V-U-Simon/power_emoji.nvim](https://github.com/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/stars/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/last-commit/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/V-U-Simon/power_emoji.nvim)
 
 ### Snow effect
 

@@ -223,6 +223,7 @@
 - [letieu/wezterm-move.nvim](https://github.com/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/stars/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/last-commit/letieu/wezterm-move.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/wezterm-move.nvim)
 - [ianhomer/wezterm.nvim](https://github.com/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/stars/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/last-commit/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ianhomer/wezterm.nvim)
 - [kedarmd/nvim-wez-navigator.nvim](https://github.com/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/stars/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/last-commit/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kedarmd/nvim-wez-navigator.nvim)
+- [chrhjoh/wezterm-paster.nvim](https://github.com/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/stars/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/last-commit/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/commit-activity/y/chrhjoh/wezterm-paster.nvim)
 
 #### Ghostty
 
@@ -374,6 +375,7 @@
 - [lazy-dinosaur/Backtoeng.nvim](https://github.com/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/stars/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/last-commit/lazy-dinosaur/Backtoeng.nvim) ![](https://img.shields.io/github/commit-activity/y/lazy-dinosaur/Backtoeng.nvim)
 - [iamxiaojianzheng/im-switch-for-windows.nvim](https://github.com/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/stars/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/last-commit/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/iamxiaojianzheng/im-switch-for-windows.nvim)
 - [vaxowt/aimswitcher.nvim](https://github.com/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/stars/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/last-commit/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/vaxowt/aimswitcher.nvim)
+- [imkerberos/rime.nvim](https://github.com/imkerberos/rime.nvim) ![](https://img.shields.io/github/stars/imkerberos/rime.nvim) ![](https://img.shields.io/github/last-commit/imkerberos/rime.nvim) ![](https://img.shields.io/github/commit-activity/y/imkerberos/rime.nvim)
 
 #### Fcitx
 

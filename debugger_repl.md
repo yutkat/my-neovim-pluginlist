@@ -101,6 +101,7 @@
 - [cromery/nvim-lazylog](https://github.com/cromery/nvim-lazylog) ![](https://img.shields.io/github/stars/cromery/nvim-lazylog) ![](https://img.shields.io/github/last-commit/cromery/nvim-lazylog) ![](https://img.shields.io/github/commit-activity/y/cromery/nvim-lazylog)
 - [OmerBilgin21/print-debugger.nvim](https://github.com/OmerBilgin21/print-debugger.nvim) ![](https://img.shields.io/github/stars/OmerBilgin21/print-debugger.nvim) ![](https://img.shields.io/github/last-commit/OmerBilgin21/print-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/OmerBilgin21/print-debugger.nvim)
 - [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim) ![](https://img.shields.io/github/stars/Goose97/timber.nvim) ![](https://img.shields.io/github/last-commit/Goose97/timber.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/timber.nvim)
+- [jpwallace22/consolelogger.nvim](https://github.com/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/stars/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/last-commit/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/commit-activity/y/jpwallace22/consolelogger.nvim)
 
 #### stack trace analyze
 
