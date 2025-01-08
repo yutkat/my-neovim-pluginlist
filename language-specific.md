@@ -98,6 +98,7 @@
     + [Solidity](#solidity)
     + [D2](#d2)
     + [Fe](#fe)
+    + [CoNLL-U](#conll-u)
     + [Koan](#koan)
     + [Prolog](#prolog)
     + [Beancount](#beancount)
@@ -546,6 +547,10 @@
 ### Fe
 
 - [fe-lang/nvim-fe](https://github.com/fe-lang/nvim-fe) ![](https://img.shields.io/github/stars/fe-lang/nvim-fe) ![](https://img.shields.io/github/last-commit/fe-lang/nvim-fe) ![](https://img.shields.io/github/commit-activity/y/fe-lang/nvim-fe)
+
+### CoNLL-U
+
+- [pmagistry/conllu.nvim](https://github.com/pmagistry/conllu.nvim) ![](https://img.shields.io/github/stars/pmagistry/conllu.nvim) ![](https://img.shields.io/github/last-commit/pmagistry/conllu.nvim) ![](https://img.shields.io/github/commit-activity/y/pmagistry/conllu.nvim)
 
 ### Koan
 

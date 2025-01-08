@@ -155,6 +155,7 @@
 - [immanelg/simple-compilation-mode.nvim](https://github.com/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/stars/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/immanelg/simple-compilation-mode.nvim)
 - [diniamo/run.nvim](https://github.com/diniamo/run.nvim) ![](https://img.shields.io/github/stars/diniamo/run.nvim) ![](https://img.shields.io/github/last-commit/diniamo/run.nvim) ![](https://img.shields.io/github/commit-activity/y/diniamo/run.nvim)
 - [castlele/build.nvim](https://github.com/castlele/build.nvim) ![](https://img.shields.io/github/stars/castlele/build.nvim) ![](https://img.shields.io/github/last-commit/castlele/build.nvim) ![](https://img.shields.io/github/commit-activity/y/castlele/build.nvim)
+- [joalon/easyexec.nvim](https://github.com/joalon/easyexec.nvim) ![](https://img.shields.io/github/stars/joalon/easyexec.nvim) ![](https://img.shields.io/github/last-commit/joalon/easyexec.nvim) ![](https://img.shields.io/github/commit-activity/y/joalon/easyexec.nvim)
 
 ## Auto detect style
 

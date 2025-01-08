@@ -52,6 +52,7 @@
   * [CircleCI](#circleci)
   * [Nx](#nx)
   * [Jenkins](#jenkins)
+  * [GLPI](#glpi)
 
 <!-- tocstop -->
 
@@ -179,6 +180,7 @@
 - [externalhost0/spotty.nvim](https://github.com/externalhost0/spotty.nvim) ![](https://img.shields.io/github/stars/externalhost0/spotty.nvim) ![](https://img.shields.io/github/last-commit/externalhost0/spotty.nvim) ![](https://img.shields.io/github/commit-activity/y/externalhost0/spotty.nvim)
 - [spinalshock/spotify.nvim](https://github.com/spinalshock/spotify.nvim) ![](https://img.shields.io/github/stars/spinalshock/spotify.nvim) ![](https://img.shields.io/github/last-commit/spinalshock/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/spinalshock/spotify.nvim)
 - [ollbx/spotify-player.nvim](https://github.com/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/stars/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/spotify-player.nvim)
+- [mmuldo/spotify.nvim](https://github.com/mmuldo/spotify.nvim) ![](https://img.shields.io/github/stars/mmuldo/spotify.nvim) ![](https://img.shields.io/github/last-commit/mmuldo/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/mmuldo/spotify.nvim)
 
 ### StackOverflow
 
@@ -287,3 +289,7 @@
 ### Jenkins
 
 - [cvanhoosear/jenkins-linter.nvim](https://github.com/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/stars/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/last-commit/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/cvanhoosear/jenkins-linter.nvim)
+
+### GLPI
+
+- [TheoSarrazin/glpi.nvim](https://github.com/TheoSarrazin/glpi.nvim) ![](https://img.shields.io/github/stars/TheoSarrazin/glpi.nvim) ![](https://img.shields.io/github/last-commit/TheoSarrazin/glpi.nvim) ![](https://img.shields.io/github/commit-activity/y/TheoSarrazin/glpi.nvim)
