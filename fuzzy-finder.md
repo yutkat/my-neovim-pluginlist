@@ -42,7 +42,6 @@
 - [haolian9/beckon.nvim](https://github.com/haolian9/beckon.nvim) ![](https://img.shields.io/github/stars/haolian9/beckon.nvim) ![](https://img.shields.io/github/last-commit/haolian9/beckon.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/beckon.nvim)
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/stars/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-fzy)
 - [mishkafreddy2009/fzyf.nvim](https://github.com/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/stars/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/last-commit/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/commit-activity/y/mishkafreddy2009/fzyf.nvim)
-- [mikavilpas/nucleo.nvim](https://github.com/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/stars/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/nucleo.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/nucleo.nvim)
 - [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) ![](https://img.shields.io/github/stars/hrsh7th/nvim-deck) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-deck) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-deck)
 
 ### Telescope Extensions
