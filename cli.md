@@ -119,6 +119,7 @@
 - [krisajenkins/telescope-docker.nvim](https://github.com/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/stars/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/telescope-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/telescope-docker.nvim)
 - [antonioanerao/dockerimages.nvim](https://github.com/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/stars/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/last-commit/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/commit-activity/y/antonioanerao/dockerimages.nvim)
 - [phukon/docker.nvim](https://github.com/phukon/docker.nvim) ![](https://img.shields.io/github/stars/phukon/docker.nvim) ![](https://img.shields.io/github/last-commit/phukon/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/phukon/docker.nvim)
+- [WardenDigital/echolocator.nvim](https://github.com/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/stars/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/last-commit/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/commit-activity/y/WardenDigital/echolocator.nvim)
 
 ##### Docker Compose
 
