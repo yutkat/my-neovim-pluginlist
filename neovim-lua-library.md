@@ -56,6 +56,7 @@
 - [Treesitter](#treesitter)
 - [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
+- [Completion](#completion)
 - [Markdown](#markdown)
 - [Language](#language)
   * [Japanese](#japanese)
@@ -345,6 +346,10 @@
 ## Enhanced Standard Features
 
 - [delphinus/f_meta.nvim](https://github.com/delphinus/f_meta.nvim) ![](https://img.shields.io/github/stars/delphinus/f_meta.nvim) ![](https://img.shields.io/github/last-commit/delphinus/f_meta.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/f_meta.nvim)
+
+## Completion
+
+- [hrsh7th/nvim-cmp-kit](https://github.com/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp-kit)
 
 ## Markdown
 

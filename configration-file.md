@@ -107,4 +107,5 @@
 
 - [saneDG/beaver.nvim](https://github.com/saneDG/beaver.nvim) ![](https://img.shields.io/github/stars/saneDG/beaver.nvim) ![](https://img.shields.io/github/last-commit/saneDG/beaver.nvim) ![](https://img.shields.io/github/commit-activity/y/saneDG/beaver.nvim)
 - [LukeBaal/lumberjack.nvim](https://github.com/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/stars/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/last-commit/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/commit-activity/y/LukeBaal/lumberjack.nvim)
+- [rinke-livinglogic-nl/relay.nvim](https://github.com/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/stars/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/last-commit/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/rinke-livinglogic-nl/relay.nvim)
 
