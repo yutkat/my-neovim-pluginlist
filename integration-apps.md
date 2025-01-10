@@ -54,6 +54,8 @@
     + [Azure](#azure)
     + [Adobe](#adobe)
     + [Salesforce](#salesforce)
+    + [Accounting tool](#accounting-tool)
+      - [hledger](#hledger)
     + [dbt](#dbt)
     + [sdfcli](#sdfcli)
   * [Ethereum](#ethereum)
@@ -321,6 +323,7 @@
 #### Adobe
 
 - [Tylopilus/sync-aem.nvim](https://github.com/Tylopilus/sync-aem.nvim) ![](https://img.shields.io/github/stars/Tylopilus/sync-aem.nvim) ![](https://img.shields.io/github/last-commit/Tylopilus/sync-aem.nvim) ![](https://img.shields.io/github/commit-activity/y/Tylopilus/sync-aem.nvim)
+- [joshbduncan/esrunner.nvim](https://github.com/joshbduncan/esrunner.nvim) ![](https://img.shields.io/github/stars/joshbduncan/esrunner.nvim) ![](https://img.shields.io/github/last-commit/joshbduncan/esrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/joshbduncan/esrunner.nvim)
 
 #### Salesforce
 
@@ -331,6 +334,12 @@
 - [KanesAccount/lazysf.nvim](https://github.com/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/stars/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/last-commit/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/commit-activity/y/KanesAccount/lazysf.nvim)
 - [julihermes/sfm-focus.nvim](https://github.com/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/stars/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/last-commit/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/julihermes/sfm-focus.nvim)
 - [xixiaofinland/sf.nvim](https://github.com/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sf.nvim)
+
+#### Accounting tool
+
+##### hledger
+
+- [davidhelbig/hledger.nvim](https://github.com/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/stars/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/last-commit/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/commit-activity/y/davidhelbig/hledger.nvim)
 
 #### dbt
 

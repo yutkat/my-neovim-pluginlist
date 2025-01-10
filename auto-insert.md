@@ -47,6 +47,7 @@
 - [cjcarrick/pairs.nvim](https://github.com/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/stars/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/last-commit/cjcarrick/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/cjcarrick/pairs.nvim)
 - [GabrielNatucci/wrapwords.nvim](https://github.com/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/stars/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/last-commit/GabrielNatucci/wrapwords.nvim) ![](https://img.shields.io/github/commit-activity/y/GabrielNatucci/wrapwords.nvim)
 - [ingenarel/nvim-pairMan](https://github.com/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/stars/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/last-commit/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/commit-activity/y/ingenarel/nvim-pairMan)
+- [MrNerzan/enclose.nvim](https://github.com/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/stars/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/last-commit/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/commit-activity/y/MrNerzan/enclose.nvim)
 
 ### escape pairs
 

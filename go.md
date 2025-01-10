@@ -9,6 +9,8 @@
   * [debug](#debug)
   * [Test](#test)
     + [Test file](#test-file)
+  * [Report](#report)
+    + [allure](#allure)
   * [packages](#packages)
   * [struct](#struct)
   * [return](#return)
@@ -87,6 +89,12 @@
 #### Test file
 
 - [tscolari/goalt.nvim](https://github.com/tscolari/goalt.nvim) ![](https://img.shields.io/github/stars/tscolari/goalt.nvim) ![](https://img.shields.io/github/last-commit/tscolari/goalt.nvim) ![](https://img.shields.io/github/commit-activity/y/tscolari/goalt.nvim)
+
+### Report
+
+#### allure
+
+- [Alexandersfg4/allure-go.nvim](https://github.com/Alexandersfg4/allure-go.nvim) ![](https://img.shields.io/github/stars/Alexandersfg4/allure-go.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/allure-go.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/allure-go.nvim)
 
 ### packages
 

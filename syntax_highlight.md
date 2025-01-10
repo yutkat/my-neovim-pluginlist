@@ -165,6 +165,7 @@
 
 - [svermeulen/text-to-colorscheme](https://github.com/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/stars/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/last-commit/svermeulen/text-to-colorscheme) ![](https://img.shields.io/github/commit-activity/y/svermeulen/text-to-colorscheme)
 - [JoseMM2002/walltheme.nvim](https://github.com/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/stars/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/last-commit/JoseMM2002/walltheme.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseMM2002/walltheme.nvim)
+- [daddodev/pimp.nvim](https://github.com/daddodev/pimp.nvim) ![](https://img.shields.io/github/stars/daddodev/pimp.nvim) ![](https://img.shields.io/github/last-commit/daddodev/pimp.nvim) ![](https://img.shields.io/github/commit-activity/y/daddodev/pimp.nvim)
 
 
 ### Colorsheme Compiler
