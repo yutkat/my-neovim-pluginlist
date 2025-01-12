@@ -195,7 +195,6 @@
 
 ## MicroPython
 
-- [Linus187erz/pico-boa.nvim](https://github.com/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/stars/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/last-commit/Linus187erz/pico-boa.nvim) ![](https://img.shields.io/github/commit-activity/y/Linus187erz/pico-boa.nvim)
 - [jim-at-jibba/micropython.nvim](https://github.com/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/micropython.nvim)
 
 ## Quix
