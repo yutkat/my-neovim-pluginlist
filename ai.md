@@ -7,6 +7,7 @@
     + [log](#log)
   * [Gemini](#gemini)
   * [Multi LLM](#multi-llm)
+    + [mods](#mods)
     + [Generate Doc](#generate-doc)
       - [Mintlify Writer](#mintlify-writer)
   * [Llama](#llama)
@@ -139,6 +140,11 @@
 - [guerrerojuli/coder.nvim](https://github.com/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/stars/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/last-commit/guerrerojuli/coder.nvim) ![](https://img.shields.io/github/commit-activity/y/guerrerojuli/coder.nvim)
 - [uanandaraja/nvim-llm.nvim](https://github.com/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/stars/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/last-commit/uanandaraja/nvim-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/uanandaraja/nvim-llm.nvim)
 - [sally-sandwich/llm.nvim](https://github.com/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/stars/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/last-commit/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/sally-sandwich/llm.nvim)
+- [jmmarotta/reapo.nvim](https://github.com/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/stars/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/reapo.nvim)
+
+#### mods
+
+- [ntawileh/mods.nvim](https://github.com/ntawileh/mods.nvim) ![](https://img.shields.io/github/stars/ntawileh/mods.nvim) ![](https://img.shields.io/github/last-commit/ntawileh/mods.nvim) ![](https://img.shields.io/github/commit-activity/y/ntawileh/mods.nvim)
 
 #### Generate Doc
 
@@ -182,6 +188,7 @@
 - [goropikari/ollama.nvim](https://github.com/goropikari/ollama.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama.nvim)
 - [yuys13/collama.nvim](https://github.com/yuys13/collama.nvim) ![](https://img.shields.io/github/stars/yuys13/collama.nvim) ![](https://img.shields.io/github/last-commit/yuys13/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/collama.nvim)
 - [hmunye/llama.nvim](https://github.com/hmunye/llama.nvim) ![](https://img.shields.io/github/stars/hmunye/llama.nvim) ![](https://img.shields.io/github/last-commit/hmunye/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/llama.nvim)
+- [hadleyhzy34/ollama_popup.nvim](https://github.com/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/stars/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/last-commit/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/commit-activity/y/hadleyhzy34/ollama_popup.nvim)
 
 ### Claude
 

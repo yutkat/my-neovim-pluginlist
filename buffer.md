@@ -210,6 +210,7 @@
 - [hoangnghiem/nvim-scratch](https://github.com/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/stars/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/last-commit/hoangnghiem/nvim-scratch) ![](https://img.shields.io/github/commit-activity/y/hoangnghiem/nvim-scratch)
 - [periaate/nyafi.nvim](https://github.com/periaate/nyafi.nvim) ![](https://img.shields.io/github/stars/periaate/nyafi.nvim) ![](https://img.shields.io/github/last-commit/periaate/nyafi.nvim) ![](https://img.shields.io/github/commit-activity/y/periaate/nyafi.nvim)
 - [ericrswanny/chkn.nvim](https://github.com/ericrswanny/chkn.nvim) ![](https://img.shields.io/github/stars/ericrswanny/chkn.nvim) ![](https://img.shields.io/github/last-commit/ericrswanny/chkn.nvim) ![](https://img.shields.io/github/commit-activity/y/ericrswanny/chkn.nvim)
+- [Klodii/scratch.nvim](https://github.com/Klodii/scratch.nvim) ![](https://img.shields.io/github/stars/Klodii/scratch.nvim) ![](https://img.shields.io/github/last-commit/Klodii/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/Klodii/scratch.nvim)
 
 ### Scratchpad
 
