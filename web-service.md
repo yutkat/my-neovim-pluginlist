@@ -17,6 +17,7 @@
   * [Gmail](#gmail)
   * [ntfy](#ntfy)
   * [WhatsApp](#whatsapp)
+  * [Redmine](#redmine)
   * [Jira](#jira)
   * [Confluence](#confluence)
   * [Linear](#linear)
@@ -124,6 +125,10 @@
 ### WhatsApp
 
 - [alcidesbsilvaneto/nvim-whatsapp](https://github.com/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/stars/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/last-commit/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/commit-activity/y/alcidesbsilvaneto/nvim-whatsapp)
+
+### Redmine
+
+- [sgross-emlix/angerona.nvim](https://github.com/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/stars/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/last-commit/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/commit-activity/y/sgross-emlix/angerona.nvim)
 
 ### Jira
 

@@ -143,6 +143,7 @@
 - [jdtron/randomcs.nvim](https://github.com/jdtron/randomcs.nvim) ![](https://img.shields.io/github/stars/jdtron/randomcs.nvim) ![](https://img.shields.io/github/last-commit/jdtron/randomcs.nvim) ![](https://img.shields.io/github/commit-activity/y/jdtron/randomcs.nvim)
 - [DhavySantos/SchemeKeeper.nvim](https://github.com/DhavySantos/SchemeKeeper.nvim) ![](https://img.shields.io/github/stars/DhavySantos/SchemeKeeper.nvim) ![](https://img.shields.io/github/last-commit/DhavySantos/SchemeKeeper.nvim) ![](https://img.shields.io/github/commit-activity/y/DhavySantos/SchemeKeeper.nvim)
 - [MrSloth-dev/Switcheroo.nvim](https://github.com/MrSloth-dev/Switcheroo.nvim) ![](https://img.shields.io/github/stars/MrSloth-dev/Switcheroo.nvim) ![](https://img.shields.io/github/last-commit/MrSloth-dev/Switcheroo.nvim) ![](https://img.shields.io/github/commit-activity/y/MrSloth-dev/Switcheroo.nvim)
+- [vunhatchuong/themify-extras.nvim](https://github.com/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/themify-extras.nvim)
 
 ### Colorscheme overwrite
 

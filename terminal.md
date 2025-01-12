@@ -71,6 +71,7 @@
 - [hmunye/echo.nvim](https://github.com/hmunye/echo.nvim) ![](https://img.shields.io/github/stars/hmunye/echo.nvim) ![](https://img.shields.io/github/last-commit/hmunye/echo.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/echo.nvim)
 - [mtkld/ctxterm.nvim](https://github.com/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/stars/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/ctxterm.nvim)
 - [splondike/nvim-tui](https://github.com/splondike/nvim-tui) ![](https://img.shields.io/github/stars/splondike/nvim-tui) ![](https://img.shields.io/github/last-commit/splondike/nvim-tui) ![](https://img.shields.io/github/commit-activity/y/splondike/nvim-tui)
+- [ollbx/build-term.nvim](https://github.com/ollbx/build-term.nvim) ![](https://img.shields.io/github/stars/ollbx/build-term.nvim) ![](https://img.shields.io/github/last-commit/ollbx/build-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/build-term.nvim)
 
 ### Open
 

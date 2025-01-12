@@ -30,6 +30,7 @@
     + [Styling](#styling)
     + [Markdown checkbox](#markdown-checkbox)
     + [Markdown list](#markdown-list)
+    + [Markdown image](#markdown-image)
     + [Markdown concealer](#markdown-concealer)
     + [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
@@ -252,6 +253,10 @@
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
 - [kaymmm/bullets.nvim](https://github.com/kaymmm/bullets.nvim) ![](https://img.shields.io/github/stars/kaymmm/bullets.nvim) ![](https://img.shields.io/github/last-commit/kaymmm/bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/kaymmm/bullets.nvim)
 - [c-dilks/notator.nvim](https://github.com/c-dilks/notator.nvim) ![](https://img.shields.io/github/stars/c-dilks/notator.nvim) ![](https://img.shields.io/github/last-commit/c-dilks/notator.nvim) ![](https://img.shields.io/github/commit-activity/y/c-dilks/notator.nvim)
+
+#### Markdown image
+
+- [breiting/idado.nvim](https://github.com/breiting/idado.nvim) ![](https://img.shields.io/github/stars/breiting/idado.nvim) ![](https://img.shields.io/github/last-commit/breiting/idado.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/idado.nvim)
 
 #### Markdown concealer
 

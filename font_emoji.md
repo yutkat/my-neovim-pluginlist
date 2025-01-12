@@ -22,6 +22,7 @@
 - [tetzng/telescope-cica-icons.nvim](https://github.com/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/stars/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/last-commit/tetzng/telescope-cica-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/telescope-cica-icons.nvim)
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 - [abcdefg233/fontresizer.nvim](https://github.com/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/stars/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/fontresizer.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/fontresizer.nvim)
+- [jackplus-xyz/monaspace.nvim](https://github.com/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/monaspace.nvim)
 
 ### Resize
 
