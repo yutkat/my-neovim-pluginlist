@@ -95,6 +95,7 @@
 - [juselara1/tmutils.nvim](https://github.com/juselara1/tmutils.nvim) ![](https://img.shields.io/github/stars/juselara1/tmutils.nvim) ![](https://img.shields.io/github/last-commit/juselara1/tmutils.nvim) ![](https://img.shields.io/github/commit-activity/y/juselara1/tmutils.nvim)
 - [gassayping/tmux-peek.nvim](https://github.com/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/stars/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/last-commit/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/gassayping/tmux-peek.nvim)
 - [itakatz/tmux_commands.nvim](https://github.com/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/stars/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/last-commit/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/commit-activity/y/itakatz/tmux_commands.nvim)
+- [anoopkcn/split-jump.nvim](https://github.com/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/stars/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/split-jump.nvim)
 
 ##### tmux alternative
 

@@ -161,6 +161,7 @@
 - [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
 - [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
 - [efirlus/quickadd.nvim](https://github.com/efirlus/quickadd.nvim) ![](https://img.shields.io/github/stars/efirlus/quickadd.nvim) ![](https://img.shields.io/github/last-commit/efirlus/quickadd.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/quickadd.nvim)
+- [wtfauonabt/obsidian-tasks.nvim](https://github.com/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wtfauonabt/obsidian-tasks.nvim)
 
 ## Blog
 
@@ -315,3 +316,4 @@
 - [remino/scraps.nvim](https://github.com/remino/scraps.nvim) ![](https://img.shields.io/github/stars/remino/scraps.nvim) ![](https://img.shields.io/github/last-commit/remino/scraps.nvim) ![](https://img.shields.io/github/commit-activity/y/remino/scraps.nvim)
 - [Leonardo-Luz/quicknotes.nvim](https://github.com/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/quicknotes.nvim)
 - [avegancafe/completionist.nvim](https://github.com/avegancafe/completionist.nvim) ![](https://img.shields.io/github/stars/avegancafe/completionist.nvim) ![](https://img.shields.io/github/last-commit/avegancafe/completionist.nvim) ![](https://img.shields.io/github/commit-activity/y/avegancafe/completionist.nvim)
+- [fmpisantos/notes.nvim](https://github.com/fmpisantos/notes.nvim) ![](https://img.shields.io/github/stars/fmpisantos/notes.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/notes.nvim)
