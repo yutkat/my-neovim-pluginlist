@@ -105,6 +105,7 @@
 ### Tetris
 
 - [jayanthd04/asctris.nvim](https://github.com/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/stars/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/last-commit/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/commit-activity/y/jayanthd04/asctris.nvim)
+- [Leonardo-Luz/tetris.nvim](https://github.com/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/tetris.nvim)
 
 ### Mine Sweeper
 
