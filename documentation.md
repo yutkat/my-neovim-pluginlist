@@ -8,6 +8,7 @@
     + [Markdown header](#markdown-header)
       - [Title explorer](#title-explorer)
     + [toc](#toc)
+    + [split file](#split-file)
     + [Calculation](#calculation)
     + [Markdown preview](#markdown-preview)
       - [Lua](#lua)
@@ -116,6 +117,10 @@
 - [adigitoleo/overview.nvim](https://github.com/adigitoleo/overview.nvim) ![](https://img.shields.io/github/stars/adigitoleo/overview.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/overview.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/overview.nvim)
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/markdown-toc)
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
+
+#### split file
+
+- [gitpulljoe/crazywall.nvim](https://github.com/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/stars/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/last-commit/gitpulljoe/crazywall.nvim) ![](https://img.shields.io/github/commit-activity/y/gitpulljoe/crazywall.nvim)
 
 #### Calculation
 
