@@ -49,6 +49,7 @@
 ### yank highlight
 
 - [DeamonDev/yank-highlighter.nvim](https://github.com/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/stars/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/last-commit/DeamonDev/yank-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/DeamonDev/yank-highlighter.nvim)
+- [rachartier/tiny-glimmer.nvim](https://github.com/rachartier/tiny-glimmer.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-glimmer.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-glimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-glimmer.nvim)
 
 ### Copy with line info
 
