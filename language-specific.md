@@ -113,6 +113,7 @@
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
+  * [AtCoder](#atcoder)
   * [exercism](#exercism)
   * [Advent of code](#advent-of-code)
 - [Configuration](#configuration)
@@ -615,6 +616,10 @@
 - [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
 - [cjon256/dsa.nvim](https://github.com/cjon256/dsa.nvim) ![](https://img.shields.io/github/stars/cjon256/dsa.nvim) ![](https://img.shields.io/github/last-commit/cjon256/dsa.nvim) ![](https://img.shields.io/github/commit-activity/y/cjon256/dsa.nvim)
+
+## AtCoder
+
+- [goropikari/online-judge.nvim](https://github.com/goropikari/online-judge.nvim) ![](https://img.shields.io/github/stars/goropikari/online-judge.nvim) ![](https://img.shields.io/github/last-commit/goropikari/online-judge.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/online-judge.nvim)
 
 ## exercism
 

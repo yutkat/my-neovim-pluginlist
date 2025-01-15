@@ -1,4 +1,4 @@
-# Table of Contents
+# Tabl]letieu/graphql.nvim of Contents
 
 <!-- toc -->
 
@@ -45,6 +45,7 @@
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
 - [Copy File Context](#copy-file-context)
+- [RAG](#rag)
 - [Integration](#integration)
   * [Linkup](#linkup)
 
@@ -357,6 +358,10 @@
 ## Copy File Context 
 
 - [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
+
+## RAG
+
+- [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
 
 ## Integration
 
