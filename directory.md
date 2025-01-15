@@ -35,3 +35,4 @@
 
 - [prichrd/vwd.nvim](https://github.com/prichrd/vwd.nvim) ![](https://img.shields.io/github/stars/prichrd/vwd.nvim) ![](https://img.shields.io/github/last-commit/prichrd/vwd.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/vwd.nvim)
 - [lukasx999/syncwd.nvim](https://github.com/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/stars/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/last-commit/lukasx999/syncwd.nvim) ![](https://img.shields.io/github/commit-activity/y/lukasx999/syncwd.nvim)
+- [Klodii/change-cwd.nvim](https://github.com/Klodii/change-cwd.nvim) ![](https://img.shields.io/github/stars/Klodii/change-cwd.nvim) ![](https://img.shields.io/github/last-commit/Klodii/change-cwd.nvim) ![](https://img.shields.io/github/commit-activity/y/Klodii/change-cwd.nvim)

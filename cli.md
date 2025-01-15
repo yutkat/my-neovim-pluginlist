@@ -211,6 +211,7 @@
 - [numine777/py-bazel.nvim](https://github.com/numine777/py-bazel.nvim) ![](https://img.shields.io/github/stars/numine777/py-bazel.nvim) ![](https://img.shields.io/github/last-commit/numine777/py-bazel.nvim) ![](https://img.shields.io/github/commit-activity/y/numine777/py-bazel.nvim)
 - [mrheinen/bazelbub.nvim](https://github.com/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/stars/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/last-commit/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/commit-activity/y/mrheinen/bazelbub.nvim)
 - [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) ![](https://img.shields.io/github/stars/lewistg/pesto.nvim) ![](https://img.shields.io/github/last-commit/lewistg/pesto.nvim) ![](https://img.shields.io/github/commit-activity/y/lewistg/pesto.nvim)
+- [glindstedt/obazel.nvim](https://github.com/glindstedt/obazel.nvim) ![](https://img.shields.io/github/stars/glindstedt/obazel.nvim) ![](https://img.shields.io/github/last-commit/glindstedt/obazel.nvim) ![](https://img.shields.io/github/commit-activity/y/glindstedt/obazel.nvim)
 
 #### ripgrep
 
@@ -235,6 +236,7 @@
 - [GustavEikaas/easy-dotnet.nvim](https://github.com/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/stars/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/last-commit/GustavEikaas/easy-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavEikaas/easy-dotnet.nvim)
 - [notelgnis/netbuild.nvim](https://github.com/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/stars/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/last-commit/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/notelgnis/netbuild.nvim)
 - [MoaidHathot/dotnet.nvim](https://github.com/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/stars/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/last-commit/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/MoaidHathot/dotnet.nvim)
+- [cantti/fzf-dotnet.nvim](https://github.com/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/stars/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/last-commit/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/fzf-dotnet.nvim)
 
 ##### Nuget
 

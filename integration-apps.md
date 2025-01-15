@@ -134,6 +134,7 @@
 - [elijahmanor/export-to-vscode.nvim](https://github.com/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/stars/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/last-commit/elijahmanor/export-to-vscode.nvim) ![](https://img.shields.io/github/commit-activity/y/elijahmanor/export-to-vscode.nvim)
 - [xlboy/vscode-opener.nvim](https://github.com/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/stars/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/last-commit/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/vscode-opener.nvim)
 - [tssujt/openinvscode.nvim](https://github.com/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/stars/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/last-commit/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/commit-activity/y/tssujt/openinvscode.nvim)
+- [mark-ng/Code.nvim](https://github.com/mark-ng/Code.nvim) ![](https://img.shields.io/github/stars/mark-ng/Code.nvim) ![](https://img.shields.io/github/last-commit/mark-ng/Code.nvim) ![](https://img.shields.io/github/commit-activity/y/mark-ng/Code.nvim)
 
 #### Helix
 
@@ -272,6 +273,7 @@
 - [olidacombe/terrabastard.nvim](https://github.com/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/stars/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/terrabastard.nvim)
 - [dkooll/bouncer.nvim](https://github.com/dkooll/bouncer.nvim) ![](https://img.shields.io/github/stars/dkooll/bouncer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/bouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/bouncer.nvim)
 - [danielyaba/terraform.nvim](https://github.com/danielyaba/terraform.nvim) ![](https://img.shields.io/github/stars/danielyaba/terraform.nvim) ![](https://img.shields.io/github/last-commit/danielyaba/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/danielyaba/terraform.nvim)
+- [dkooll/diffy.nvim](https://github.com/dkooll/diffy.nvim) ![](https://img.shields.io/github/stars/dkooll/diffy.nvim) ![](https://img.shields.io/github/last-commit/dkooll/diffy.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/diffy.nvim)
 
 ##### atmos
 

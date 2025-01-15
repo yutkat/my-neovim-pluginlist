@@ -112,6 +112,7 @@
 
 - [melMass/icommit.nvim](https://github.com/melMass/icommit.nvim) ![](https://img.shields.io/github/stars/melMass/icommit.nvim) ![](https://img.shields.io/github/last-commit/melMass/icommit.nvim) ![](https://img.shields.io/github/commit-activity/y/melMass/icommit.nvim)
 - [nullromo/go-up.nvim](https://github.com/nullromo/go-up.nvim) ![](https://img.shields.io/github/stars/nullromo/go-up.nvim) ![](https://img.shields.io/github/last-commit/nullromo/go-up.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/go-up.nvim)
+- [josiahdenton/inline-session-notes.nvim](https://github.com/josiahdenton/inline-session-notes.nvim) ![](https://img.shields.io/github/stars/josiahdenton/inline-session-notes.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/inline-session-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/inline-session-notes.nvim)
 
 ## LICENSE
 
