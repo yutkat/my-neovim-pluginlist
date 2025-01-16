@@ -258,6 +258,7 @@
 - [gaoDean/autolist.nvim](https://github.com/gaoDean/autolist.nvim) ![](https://img.shields.io/github/stars/gaoDean/autolist.nvim) ![](https://img.shields.io/github/last-commit/gaoDean/autolist.nvim) ![](https://img.shields.io/github/commit-activity/y/gaoDean/autolist.nvim)
 - [kaymmm/bullets.nvim](https://github.com/kaymmm/bullets.nvim) ![](https://img.shields.io/github/stars/kaymmm/bullets.nvim) ![](https://img.shields.io/github/last-commit/kaymmm/bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/kaymmm/bullets.nvim)
 - [c-dilks/notator.nvim](https://github.com/c-dilks/notator.nvim) ![](https://img.shields.io/github/stars/c-dilks/notator.nvim) ![](https://img.shields.io/github/last-commit/c-dilks/notator.nvim) ![](https://img.shields.io/github/commit-activity/y/c-dilks/notator.nvim)
+- [efirlus/keepin-md.nvim](https://github.com/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/stars/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/last-commit/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/keepin-md.nvim)
 
 #### Markdown image
 

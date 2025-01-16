@@ -120,6 +120,7 @@
 - [antonioanerao/dockerimages.nvim](https://github.com/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/stars/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/last-commit/antonioanerao/dockerimages.nvim) ![](https://img.shields.io/github/commit-activity/y/antonioanerao/dockerimages.nvim)
 - [phukon/docker.nvim](https://github.com/phukon/docker.nvim) ![](https://img.shields.io/github/stars/phukon/docker.nvim) ![](https://img.shields.io/github/last-commit/phukon/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/phukon/docker.nvim)
 - [WardenDigital/echolocator.nvim](https://github.com/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/stars/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/last-commit/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/commit-activity/y/WardenDigital/echolocator.nvim)
+- [pixlmint/dockrat.nvim](https://github.com/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/stars/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/last-commit/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/commit-activity/y/pixlmint/dockrat.nvim)
 
 ##### Docker Compose
 
@@ -248,6 +249,7 @@
 
 - [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
 - [irohn/wormhole.nvim](https://github.com/irohn/wormhole.nvim) ![](https://img.shields.io/github/stars/irohn/wormhole.nvim) ![](https://img.shields.io/github/last-commit/irohn/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/wormhole.nvim)
+- [BrightXiaoHan/nvim-trzsz](https://github.com/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/stars/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/last-commit/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/commit-activity/y/BrightXiaoHan/nvim-trzsz)
 
 #### ftp
 

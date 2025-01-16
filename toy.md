@@ -46,6 +46,7 @@
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/stars/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/Eandrju/cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/Eandrju/cellular-automaton.nvim)
 - [MAHcodes/roll.nvim](https://github.com/MAHcodes/roll.nvim) ![](https://img.shields.io/github/stars/MAHcodes/roll.nvim) ![](https://img.shields.io/github/last-commit/MAHcodes/roll.nvim) ![](https://img.shields.io/github/commit-activity/y/MAHcodes/roll.nvim)
 - [mimre25/jokes.nvim](https://github.com/mimre25/jokes.nvim) ![](https://img.shields.io/github/stars/mimre25/jokes.nvim) ![](https://img.shields.io/github/last-commit/mimre25/jokes.nvim) ![](https://img.shields.io/github/commit-activity/y/mimre25/jokes.nvim)
+- [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/you-are-an-idiot.nvim)
 
 ### Hacker typer
 

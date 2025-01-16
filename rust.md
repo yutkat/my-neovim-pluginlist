@@ -45,6 +45,7 @@
 - [washanhanzi/cargo-appraiser.nvim](https://github.com/washanhanzi/cargo-appraiser.nvim) ![](https://img.shields.io/github/stars/washanhanzi/cargo-appraiser.nvim) ![](https://img.shields.io/github/last-commit/washanhanzi/cargo-appraiser.nvim) ![](https://img.shields.io/github/commit-activity/y/washanhanzi/cargo-appraiser.nvim)
 - [johnsaigle/cargo-expand.nvim](https://github.com/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/stars/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/cargo-expand.nvim)
 - [nwiizo/nvim-cargo-add](https://github.com/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/stars/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/last-commit/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/commit-activity/y/nwiizo/nvim-cargo-add)
+- [nwiizo/cargo.nvim](https://github.com/nwiizo/cargo.nvim) ![](https://img.shields.io/github/stars/nwiizo/cargo.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/cargo.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/cargo.nvim)
 
 ### Completion
 
