@@ -446,6 +446,7 @@
 - [tronikelis/gitdive.nvim](https://github.com/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/stars/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/gitdive.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/gitdive.nvim)
 - [claydugo/browsher.nvim](https://github.com/claydugo/browsher.nvim) ![](https://img.shields.io/github/stars/claydugo/browsher.nvim) ![](https://img.shields.io/github/last-commit/claydugo/browsher.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/browsher.nvim)
 - [elliotxx/copypath.nvim](https://github.com/elliotxx/copypath.nvim) ![](https://img.shields.io/github/stars/elliotxx/copypath.nvim) ![](https://img.shields.io/github/last-commit/elliotxx/copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotxx/copypath.nvim)
+- [johnsaigle/github-permalink.nvim](https://github.com/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/stars/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/github-permalink.nvim)
 
 ## Image
 

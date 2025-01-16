@@ -106,6 +106,7 @@
 - [EL-MASTOR/bufferlist.nvim](https://github.com/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/stars/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/EL-MASTOR/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/EL-MASTOR/bufferlist.nvim)
 - [OleJoik/bufbouncer.nvim](https://github.com/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/stars/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/bufbouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/bufbouncer.nvim)
 - [andrewteall/buff-man.nvim](https://github.com/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/stars/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/last-commit/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewteall/buff-man.nvim)
+- [sam-sly/quickfiles.nvim](https://github.com/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/stars/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/last-commit/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/sam-sly/quickfiles.nvim)
 
 #### create
 

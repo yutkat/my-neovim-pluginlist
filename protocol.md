@@ -27,6 +27,7 @@
 
 - [sunn4room/httpc.nvim](https://github.com/sunn4room/httpc.nvim) ![](https://img.shields.io/github/stars/sunn4room/httpc.nvim) ![](https://img.shields.io/github/last-commit/sunn4room/httpc.nvim) ![](https://img.shields.io/github/commit-activity/y/sunn4room/httpc.nvim)
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
+- [YarikYar/posting.nvim](https://github.com/YarikYar/posting.nvim) ![](https://img.shields.io/github/stars/YarikYar/posting.nvim) ![](https://img.shields.io/github/last-commit/YarikYar/posting.nvim) ![](https://img.shields.io/github/commit-activity/y/YarikYar/posting.nvim)
 
 #### Status
 
