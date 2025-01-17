@@ -378,6 +378,7 @@
 ### MQL
 
 - [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
+- [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
 
 ### Gno
 

@@ -64,6 +64,7 @@
 - [Ernest1338/training.nvim](https://github.com/Ernest1338/training.nvim) ![](https://img.shields.io/github/stars/Ernest1338/training.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/training.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/training.nvim)
 - [doriancmore/practice.nvim](https://github.com/doriancmore/practice.nvim) ![](https://img.shields.io/github/stars/doriancmore/practice.nvim) ![](https://img.shields.io/github/last-commit/doriancmore/practice.nvim) ![](https://img.shields.io/github/commit-activity/y/doriancmore/practice.nvim)
 - [maarutan/keycalm.nvim](https://github.com/maarutan/keycalm.nvim) ![](https://img.shields.io/github/stars/maarutan/keycalm.nvim) ![](https://img.shields.io/github/last-commit/maarutan/keycalm.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/keycalm.nvim)
+- [L0m1g/noarrow.nvim](https://github.com/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/stars/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/last-commit/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/commit-activity/y/L0m1g/noarrow.nvim)
 
 ## RFC
 
