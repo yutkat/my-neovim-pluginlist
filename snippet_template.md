@@ -85,6 +85,7 @@
 - [darko-mesaros/codecast.nvim](https://github.com/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/stars/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/last-commit/darko-mesaros/codecast.nvim) ![](https://img.shields.io/github/commit-activity/y/darko-mesaros/codecast.nvim)
 - [goropikari/default-new-file.nvim](https://github.com/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/stars/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/last-commit/goropikari/default-new-file.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/default-new-file.nvim)
 - [qdiaps/nvim-template](https://github.com/qdiaps/nvim-template) ![](https://img.shields.io/github/stars/qdiaps/nvim-template) ![](https://img.shields.io/github/last-commit/qdiaps/nvim-template) ![](https://img.shields.io/github/commit-activity/y/qdiaps/nvim-template)
+- [yamazhen/autotemplate.nvim](https://github.com/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/stars/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/autotemplate.nvim)
 
 #### README
 

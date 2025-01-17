@@ -35,6 +35,7 @@
 - [niscolas/nvim-godot](https://github.com/niscolas/nvim-godot) ![](https://img.shields.io/github/stars/niscolas/nvim-godot) ![](https://img.shields.io/github/last-commit/niscolas/nvim-godot) ![](https://img.shields.io/github/commit-activity/y/niscolas/nvim-godot)
 - [QuickGD/quickgd.nvim](https://github.com/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/stars/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/last-commit/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/commit-activity/y/QuickGD/quickgd.nvim)
 - [Teatek/gdscript-extended-lsp.nvim](https://github.com/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Teatek/gdscript-extended-lsp.nvim)
+- [ShadesAndGrays/Godoterm.nvim](https://github.com/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/stars/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/last-commit/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadesAndGrays/Godoterm.nvim)
 
 ### Roblox studio
 

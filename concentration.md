@@ -7,6 +7,7 @@
 - [Timer](#timer)
 - [Do Not Disturb](#do-not-disturb)
 - [Zen Mode](#zen-mode)
+  * [Focus Mode](#focus-mode)
 - [Random Selection](#random-selection)
 
 <!-- tocstop -->
@@ -80,6 +81,10 @@
 - [kelvinauta/focushere.nvim](https://github.com/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/stars/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/last-commit/kelvinauta/focushere.nvim) ![](https://img.shields.io/github/commit-activity/y/kelvinauta/focushere.nvim)
 - [ryantbrown/mindful.nvim](https://github.com/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/stars/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/last-commit/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/commit-activity/y/ryantbrown/mindful.nvim)
 - [kronning6/fringe-mode.nvim](https://github.com/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/stars/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/last-commit/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kronning6/fringe-mode.nvim)
+
+### Focus Mode
+
+- [itsamayo/microscope.nvim](https://github.com/itsamayo/microscope.nvim) ![](https://img.shields.io/github/stars/itsamayo/microscope.nvim) ![](https://img.shields.io/github/last-commit/itsamayo/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/itsamayo/microscope.nvim)
 
 ## Random Selection
 

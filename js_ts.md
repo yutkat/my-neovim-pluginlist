@@ -258,6 +258,7 @@
 - [jdrupal-dev/css-vars.nvim](https://github.com/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/css-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/css-vars.nvim)
 - [farias-hecdin/CSSVarHighlight](https://github.com/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarHighlight)
 - [farias-hecdin/CSSVarViewer](https://github.com/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarViewer)
+- [ergoproxy623/nvim-html-css](https://github.com/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-html-css)
 
 ### tailwind
 
@@ -325,6 +326,7 @@
 - [ergoproxy623/nvim-angular-selectors](https://github.com/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-angular-selectors) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-angular-selectors)
 - [Kyariban/angular-scripts.nvim](https://github.com/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/stars/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/last-commit/Kyariban/angular-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyariban/angular-scripts.nvim)
 - [Kyariban/angular-schematics.nvim](https://github.com/Kyariban/angular-schematics.nvim) ![](https://img.shields.io/github/stars/Kyariban/angular-schematics.nvim) ![](https://img.shields.io/github/last-commit/Kyariban/angular-schematics.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyariban/angular-schematics.nvim)
+- [ergoproxy623/nvim-css-angular](https://github.com/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-css-angular)
 
 ### Svelte
 
