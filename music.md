@@ -56,3 +56,4 @@
 ### Recording
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
+- [ronxjansen/voice.nvim](https://github.com/ronxjansen/voice.nvim) ![](https://img.shields.io/github/stars/ronxjansen/voice.nvim) ![](https://img.shields.io/github/last-commit/ronxjansen/voice.nvim) ![](https://img.shields.io/github/commit-activity/y/ronxjansen/voice.nvim)

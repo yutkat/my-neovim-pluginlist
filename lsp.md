@@ -111,6 +111,7 @@
 - [cperion/ai-diagnostics.nvim](https://github.com/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/stars/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/cperion/ai-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/cperion/ai-diagnostics.nvim)
 - [bwcroft/faultless.nvim](https://github.com/bwcroft/faultless.nvim) ![](https://img.shields.io/github/stars/bwcroft/faultless.nvim) ![](https://img.shields.io/github/last-commit/bwcroft/faultless.nvim) ![](https://img.shields.io/github/commit-activity/y/bwcroft/faultless.nvim)
 - [DerivadaDX/diagnostics-loclist-plus.nvim](https://github.com/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/stars/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/last-commit/DerivadaDX/diagnostics-loclist-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/DerivadaDX/diagnostics-loclist-plus.nvim)
+- [johnsaigle/semgrep-diagnostics.nvim](https://github.com/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/stars/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/semgrep-diagnostics.nvim)
 
 ##### Diagnostics goto
 

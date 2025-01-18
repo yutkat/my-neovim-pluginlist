@@ -250,6 +250,7 @@
 - [ihersom/remote-ssh.nvim](https://github.com/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/stars/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/ihersom/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/ihersom/remote-ssh.nvim)
 - [irohn/wormhole.nvim](https://github.com/irohn/wormhole.nvim) ![](https://img.shields.io/github/stars/irohn/wormhole.nvim) ![](https://img.shields.io/github/last-commit/irohn/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/wormhole.nvim)
 - [BrightXiaoHan/nvim-trzsz](https://github.com/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/stars/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/last-commit/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/commit-activity/y/BrightXiaoHan/nvim-trzsz)
+- [epheien/conn-manager.nvim](https://github.com/epheien/conn-manager.nvim) ![](https://img.shields.io/github/stars/epheien/conn-manager.nvim) ![](https://img.shields.io/github/last-commit/epheien/conn-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/conn-manager.nvim)
 
 #### ftp
 
@@ -384,3 +385,4 @@
 - [cenk1cenk2/yaml-companion.nvim](https://github.com/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/stars/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/cenk1cenk2/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/cenk1cenk2/yaml-companion.nvim)
 - [mmazer/k8s.nvim](https://github.com/mmazer/k8s.nvim) ![](https://img.shields.io/github/stars/mmazer/k8s.nvim) ![](https://img.shields.io/github/last-commit/mmazer/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/mmazer/k8s.nvim)
 - [imroc/kubernetes.nvim](https://github.com/imroc/kubernetes.nvim) ![](https://img.shields.io/github/stars/imroc/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/imroc/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/imroc/kubernetes.nvim)
+- [kezhenxu94/kube.nvim](https://github.com/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/kube.nvim)

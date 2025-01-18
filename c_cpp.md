@@ -161,6 +161,7 @@
 
 - [Maduki-tech/header.nvim](https://github.com/Maduki-tech/header.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/header.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/header.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/header.nvim)
 - [Frayzen/cpp-tools.nvim](https://github.com/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/stars/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Frayzen/cpp-tools.nvim)
+- [spalter/nvim-cpp-header-source-pair](https://github.com/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/stars/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/last-commit/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/commit-activity/y/spalter/nvim-cpp-header-source-pair)
 
 #### include
 
