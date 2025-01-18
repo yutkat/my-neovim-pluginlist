@@ -40,6 +40,7 @@
 ### Roblox studio
 
 - [zilibobi/luau-tree.nvim](https://github.com/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/stars/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/last-commit/zilibobi/luau-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/zilibobi/luau-tree.nvim)
+- [ShouxTech/rojo.nvim](https://github.com/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/stars/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/last-commit/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ShouxTech/rojo.nvim)
 
 ### Garry's Mod
 
