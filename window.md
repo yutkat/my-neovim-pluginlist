@@ -113,6 +113,7 @@
 - [pogyomo/winresize.nvim](https://github.com/pogyomo/winresize.nvim) ![](https://img.shields.io/github/stars/pogyomo/winresize.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/winresize.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/winresize.nvim)
 - [mboyov/pane-resizer.nvim](https://github.com/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/stars/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/last-commit/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/mboyov/pane-resizer.nvim)
 - [maarutan/splitResizer.nvim](https://github.com/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/stars/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/last-commit/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/splitResizer.nvim)
+- [Kaiser-Yang/win-resizer.nvim](https://github.com/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/win-resizer.nvim)
 
 #### maximize
 

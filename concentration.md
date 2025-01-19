@@ -59,6 +59,7 @@
 - [Cambo9p/productivitytimer.nvim](https://github.com/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/stars/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/last-commit/Cambo9p/productivitytimer.nvim) ![](https://img.shields.io/github/commit-activity/y/Cambo9p/productivitytimer.nvim)
 - [cochranjd/timeblocker.nvim](https://github.com/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/stars/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/last-commit/cochranjd/timeblocker.nvim) ![](https://img.shields.io/github/commit-activity/y/cochranjd/timeblocker.nvim)
 - [SunnyTamang/pendulum.nvim](https://github.com/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/pendulum.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/pendulum.nvim)
+- [Nishkea/timey.nvim](https://github.com/Nishkea/timey.nvim) ![](https://img.shields.io/github/stars/Nishkea/timey.nvim) ![](https://img.shields.io/github/last-commit/Nishkea/timey.nvim) ![](https://img.shields.io/github/commit-activity/y/Nishkea/timey.nvim)
 
 ## Do Not Disturb
 

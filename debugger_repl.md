@@ -58,6 +58,7 @@
 - [itsfrank/breakingpoint.nvim](https://github.com/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/stars/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/breakingpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/breakingpoint.nvim)
 - [theHamsta/nvim-dap-commands](https://github.com/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/stars/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim-dap-commands)
 - [pathmann/nvim-dap-project-configuration](https://github.com/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/stars/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/last-commit/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/commit-activity/y/pathmann/nvim-dap-project-configuration)
+- [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/stars/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/last-commit/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/commit-activity/y/igorlfs/nvim-dap-view)
 
 #### Launch.json
 

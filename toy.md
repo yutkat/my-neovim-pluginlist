@@ -102,6 +102,7 @@
 - [thejezzi/conway.nvim](https://github.com/thejezzi/conway.nvim) ![](https://img.shields.io/github/stars/thejezzi/conway.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/conway.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/conway.nvim)
 - [QU4SIMOTO/hangman.nvim](https://github.com/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/hangman.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/hangman.nvim)
 - [Leonardo-Luz/snake.nvim](https://github.com/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/snake.nvim)
+- [raquentin/tamagotchi.nvim](https://github.com/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/stars/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/last-commit/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/commit-activity/y/raquentin/tamagotchi.nvim)
 
 ### Tetris
 
@@ -205,6 +206,7 @@
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
 - [davidgranstrom/oblique-strategies.nvim](https://github.com/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/stars/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/last-commit/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/oblique-strategies.nvim)
+- [GutMutCode/learn-lang.nvim](https://github.com/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/stars/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/last-commit/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/GutMutCode/learn-lang.nvim)
 
 ## Speech
 

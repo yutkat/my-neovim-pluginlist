@@ -28,6 +28,7 @@
   * [FastGPT Kagi](#fastgpt-kagi)
   * [Codegeex](#codegeex)
   * [Bedrock](#bedrock)
+  * [Blink AI](#blink-ai)
   * [tgpt](#tgpt)
   * [lsp-ai](#lsp-ai)
   * [Machine Learning](#machine-learning)
@@ -274,6 +275,10 @@
 ### Bedrock
 
 - [yuchanns/avante_bedrock.nvim](https://github.com/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/stars/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/avante_bedrock.nvim)
+
+### Blink AI
+
+- [wispl/blink-ars.nvim](https://github.com/wispl/blink-ars.nvim) ![](https://img.shields.io/github/stars/wispl/blink-ars.nvim) ![](https://img.shields.io/github/last-commit/wispl/blink-ars.nvim) ![](https://img.shields.io/github/commit-activity/y/wispl/blink-ars.nvim)
 
 ### tgpt
 
