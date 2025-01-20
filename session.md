@@ -56,6 +56,7 @@
 - [sebszyller/sesh.nvim](https://github.com/sebszyller/sesh.nvim) ![](https://img.shields.io/github/stars/sebszyller/sesh.nvim) ![](https://img.shields.io/github/last-commit/sebszyller/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/sebszyller/sesh.nvim)
 - [xuanyuwang/session-manager.nvim](https://github.com/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/stars/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/last-commit/xuanyuwang/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xuanyuwang/session-manager.nvim)
 - [like2foxes/foxession.nvim](https://github.com/like2foxes/foxession.nvim) ![](https://img.shields.io/github/stars/like2foxes/foxession.nvim) ![](https://img.shields.io/github/last-commit/like2foxes/foxession.nvim) ![](https://img.shields.io/github/commit-activity/y/like2foxes/foxession.nvim)
+- [sysraccoon/motion-canvas-editor.nvim](https://github.com/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/stars/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/last-commit/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/sysraccoon/motion-canvas-editor.nvim)
 
 ## Session Selector
 
