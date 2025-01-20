@@ -94,6 +94,7 @@
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)
 - [roobert/activate.nvim](https://github.com/roobert/activate.nvim) ![](https://img.shields.io/github/stars/roobert/activate.nvim) ![](https://img.shields.io/github/last-commit/roobert/activate.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/activate.nvim)
 - [MagicDuck/grug-far.nvim](https://github.com/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/stars/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/last-commit/MagicDuck/grug-far.nvim) ![](https://img.shields.io/github/commit-activity/y/MagicDuck/grug-far.nvim)
+- [janwvjaarsveld/neovimcraft.nvim](https://github.com/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/stars/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/last-commit/janwvjaarsveld/neovimcraft.nvim) ![](https://img.shields.io/github/commit-activity/y/janwvjaarsveld/neovimcraft.nvim)
 
 ## Usage Report
 

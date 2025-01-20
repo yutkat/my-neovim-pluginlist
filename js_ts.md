@@ -174,6 +174,7 @@
 ### Debug
 
 - [askerdev/debugjs.nvim](https://github.com/askerdev/debugjs.nvim) ![](https://img.shields.io/github/stars/askerdev/debugjs.nvim) ![](https://img.shields.io/github/last-commit/askerdev/debugjs.nvim) ![](https://img.shields.io/github/commit-activity/y/askerdev/debugjs.nvim)
+- [M1z23R/quicks.nvim](https://github.com/M1z23R/quicks.nvim) ![](https://img.shields.io/github/stars/M1z23R/quicks.nvim) ![](https://img.shields.io/github/last-commit/M1z23R/quicks.nvim) ![](https://img.shields.io/github/commit-activity/y/M1z23R/quicks.nvim)
 
 ### jsdoc
 
