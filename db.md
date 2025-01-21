@@ -61,6 +61,7 @@
 - [jrop/mongo.nvim](https://github.com/jrop/mongo.nvim) ![](https://img.shields.io/github/stars/jrop/mongo.nvim) ![](https://img.shields.io/github/last-commit/jrop/mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/mongo.nvim)
 - [SirZenith/mongosh.nvim](https://github.com/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/stars/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/last-commit/SirZenith/mongosh.nvim) ![](https://img.shields.io/github/commit-activity/y/SirZenith/mongosh.nvim)
 - [kopecmaciej/vi-mongo.nvim](https://github.com/kopecmaciej/vi-mongo.nvim) ![](https://img.shields.io/github/stars/kopecmaciej/vi-mongo.nvim) ![](https://img.shields.io/github/last-commit/kopecmaciej/vi-mongo.nvim) ![](https://img.shields.io/github/commit-activity/y/kopecmaciej/vi-mongo.nvim)
+- [GrammAcc/mongoscripting.nvim](https://github.com/GrammAcc/mongoscripting.nvim) ![](https://img.shields.io/github/stars/GrammAcc/mongoscripting.nvim) ![](https://img.shields.io/github/last-commit/GrammAcc/mongoscripting.nvim) ![](https://img.shields.io/github/commit-activity/y/GrammAcc/mongoscripting.nvim)
 
 ### SurrealDB
 

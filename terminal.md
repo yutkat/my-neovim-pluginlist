@@ -73,6 +73,7 @@
 - [splondike/nvim-tui](https://github.com/splondike/nvim-tui) ![](https://img.shields.io/github/stars/splondike/nvim-tui) ![](https://img.shields.io/github/last-commit/splondike/nvim-tui) ![](https://img.shields.io/github/commit-activity/y/splondike/nvim-tui)
 - [ollbx/build-term.nvim](https://github.com/ollbx/build-term.nvim) ![](https://img.shields.io/github/stars/ollbx/build-term.nvim) ![](https://img.shields.io/github/last-commit/ollbx/build-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/build-term.nvim)
 - [schillermann/nvim-jest-terminal](https://github.com/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/stars/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/last-commit/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/commit-activity/y/schillermann/nvim-jest-terminal)
+- [n0bukai/tterm.nvim](https://github.com/n0bukai/tterm.nvim) ![](https://img.shields.io/github/stars/n0bukai/tterm.nvim) ![](https://img.shields.io/github/last-commit/n0bukai/tterm.nvim) ![](https://img.shields.io/github/commit-activity/y/n0bukai/tterm.nvim)
 
 ### Open
 

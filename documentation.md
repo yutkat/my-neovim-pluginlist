@@ -33,6 +33,7 @@
     + [Markdown list](#markdown-list)
     + [Markdown image](#markdown-image)
     + [Markdown concealer](#markdown-concealer)
+    + [Markdown graph](#markdown-graph)
     + [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
     + [Code to Markdown](#code-to-markdown)
@@ -252,6 +253,7 @@
 - [epilande/checkbox-cycle.nvim](https://github.com/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/stars/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/last-commit/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/epilande/checkbox-cycle.nvim)
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
+- [NeoManslayer/powerlevel.nvim](https://github.com/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/stars/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/last-commit/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoManslayer/powerlevel.nvim)
 
 #### Markdown list
 
@@ -267,6 +269,10 @@
 #### Markdown concealer
 
 - [logannday/md_concealer.nvim](https://github.com/logannday/md_concealer.nvim) ![](https://img.shields.io/github/stars/logannday/md_concealer.nvim) ![](https://img.shields.io/github/last-commit/logannday/md_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/logannday/md_concealer.nvim)
+
+#### Markdown graph
+
+- [yairvogel/mdbox.nvim](https://github.com/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/stars/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/last-commit/yairvogel/mdbox.nvim) ![](https://img.shields.io/github/commit-activity/y/yairvogel/mdbox.nvim)
 
 #### Markdown converter
 
@@ -385,6 +391,7 @@
 - [frvnzj/xJUSTEXx.nvim](https://github.com/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/stars/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/last-commit/frvnzj/xJUSTEXx.nvim) ![](https://img.shields.io/github/commit-activity/y/frvnzj/xJUSTEXx.nvim)
 - [dirichy/nvimtex.nvim](https://github.com/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/stars/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/last-commit/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/nvimtex.nvim)
 - [Blobosle/mintex.nvim](https://github.com/Blobosle/mintex.nvim) ![](https://img.shields.io/github/stars/Blobosle/mintex.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/mintex.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/mintex.nvim)
+- [DanielMSussman/motleyLatex.nvim](https://github.com/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/motleyLatex.nvim)
 
 #### Preview
 
