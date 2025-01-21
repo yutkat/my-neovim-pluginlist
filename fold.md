@@ -28,6 +28,7 @@
 - [domharries/foldnav.nvim](https://github.com/domharries/foldnav.nvim) ![](https://img.shields.io/github/stars/domharries/foldnav.nvim) ![](https://img.shields.io/github/last-commit/domharries/foldnav.nvim) ![](https://img.shields.io/github/commit-activity/y/domharries/foldnav.nvim)
 - [EtiamNullam/fold-ribbon.nvim](https://github.com/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/fold-ribbon.nvim)
 - [kevinliao852/nvim-folding](https://github.com/kevinliao852/nvim-folding) ![](https://img.shields.io/github/stars/kevinliao852/nvim-folding) ![](https://img.shields.io/github/last-commit/kevinliao852/nvim-folding) ![](https://img.shields.io/github/commit-activity/y/kevinliao852/nvim-folding)
+- [tombell/pleat.nvim](https://github.com/tombell/pleat.nvim) ![](https://img.shields.io/github/stars/tombell/pleat.nvim) ![](https://img.shields.io/github/last-commit/tombell/pleat.nvim) ![](https://img.shields.io/github/commit-activity/y/tombell/pleat.nvim)
 
 ## Conceal
 

@@ -53,6 +53,7 @@
   * [ledger](#ledger)
   * [diagon](#diagon)
   * [k8s (Kubernetes)](#k8s-kubernetes)
+  * [ntpy](#ntpy)
 
 <!-- tocstop -->
 
@@ -273,6 +274,7 @@
 - [Martins3/rsync.nvim](https://github.com/Martins3/rsync.nvim) ![](https://img.shields.io/github/stars/Martins3/rsync.nvim) ![](https://img.shields.io/github/last-commit/Martins3/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Martins3/rsync.nvim)
 - [iFarmGolems/deploy.nvim](https://github.com/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/stars/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/last-commit/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/commit-activity/y/iFarmGolems/deploy.nvim)
 - [Meursau1T/rsync-git.nvim](https://github.com/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/stars/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/last-commit/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/commit-activity/y/Meursau1T/rsync-git.nvim)
+- [NikolaiLyssogor/sink.nvim](https://github.com/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/stars/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/last-commit/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/commit-activity/y/NikolaiLyssogor/sink.nvim)
 
 #### curl
 
@@ -386,3 +388,8 @@
 - [mmazer/k8s.nvim](https://github.com/mmazer/k8s.nvim) ![](https://img.shields.io/github/stars/mmazer/k8s.nvim) ![](https://img.shields.io/github/last-commit/mmazer/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/mmazer/k8s.nvim)
 - [imroc/kubernetes.nvim](https://github.com/imroc/kubernetes.nvim) ![](https://img.shields.io/github/stars/imroc/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/imroc/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/imroc/kubernetes.nvim)
 - [kezhenxu94/kube.nvim](https://github.com/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/kube.nvim)
+
+#### ntpy
+
+- [jbyuki/ntpy.nvim](https://github.com/jbyuki/ntpy.nvim) ![](https://img.shields.io/github/stars/jbyuki/ntpy.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/ntpy.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/ntpy.nvim)
+

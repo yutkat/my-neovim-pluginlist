@@ -154,6 +154,7 @@
 - [ViiEx/gcmh.nvim](https://github.com/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/stars/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/last-commit/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/commit-activity/y/ViiEx/gcmh.nvim)
 - [stefanlogue/meteor.nvim](https://github.com/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/stars/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/meteor.nvim)
 - [LuisanaMTDev/conventionalgc.nvim](https://github.com/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/stars/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/last-commit/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/commit-activity/y/LuisanaMTDev/conventionalgc.nvim)
+- [andostronaut/cocli.nvim](https://github.com/andostronaut/cocli.nvim) ![](https://img.shields.io/github/stars/andostronaut/cocli.nvim) ![](https://img.shields.io/github/last-commit/andostronaut/cocli.nvim) ![](https://img.shields.io/github/commit-activity/y/andostronaut/cocli.nvim)
 
 ### co authored
 
@@ -368,6 +369,7 @@
 ## Notification
 
 - [LucasMRC/ghn.nvim](https://github.com/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/stars/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/last-commit/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMRC/ghn.nvim)
+- [jfgordon2/gh-notifications.nvim](https://github.com/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/stars/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/gh-notifications.nvim)
 
 ## Trend
 
