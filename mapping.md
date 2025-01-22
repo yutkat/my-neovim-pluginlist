@@ -16,7 +16,8 @@
   * [Mapping toggle](#mapping-toggle)
   * [Improve Mappings](#improve-mappings)
     + [Repeatable](#repeatable)
-  * [Escape](#escape)
+  * [Key](#key)
+    + [Escape](#escape)
     + [CapsLock](#capslock)
     + [Normal Mode](#normal-mode)
       - [Word Motion](#word-motion)
@@ -127,7 +128,9 @@
 - [dvrlabs/takeout.nvim](https://github.com/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/stars/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/last-commit/dvrlabs/takeout.nvim) ![](https://img.shields.io/github/commit-activity/y/dvrlabs/takeout.nvim)
 - [genesy/repeatable.nvim](https://github.com/genesy/repeatable.nvim) ![](https://img.shields.io/github/stars/genesy/repeatable.nvim) ![](https://img.shields.io/github/last-commit/genesy/repeatable.nvim) ![](https://img.shields.io/github/commit-activity/y/genesy/repeatable.nvim)
 
-## Escape
+## Key
+
+### Escape
 
 - [TheBlob42/houdini.nvim](https://github.com/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/stars/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/houdini.nvim)
 

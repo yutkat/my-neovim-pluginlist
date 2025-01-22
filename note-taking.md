@@ -135,6 +135,7 @@
 - [Dan7h3x/LazyDo](https://github.com/Dan7h3x/LazyDo) ![](https://img.shields.io/github/stars/Dan7h3x/LazyDo) ![](https://img.shields.io/github/last-commit/Dan7h3x/LazyDo) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/LazyDo)
 - [steven-dyson/todo-finder.nvim](https://github.com/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/stars/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/last-commit/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/steven-dyson/todo-finder.nvim)
 - [cche/todo-txt.nvim](https://github.com/cche/todo-txt.nvim) ![](https://img.shields.io/github/stars/cche/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/cche/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/cche/todo-txt.nvim)
+- [toddhainsworth/todos.nvim](https://github.com/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/stars/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/last-commit/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/toddhainsworth/todos.nvim)
 
 ### Taskwarrior
 
@@ -165,6 +166,7 @@
 - [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
 - [efirlus/quickadd.nvim](https://github.com/efirlus/quickadd.nvim) ![](https://img.shields.io/github/stars/efirlus/quickadd.nvim) ![](https://img.shields.io/github/last-commit/efirlus/quickadd.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/quickadd.nvim)
 - [wtfauonabt/obsidian-tasks.nvim](https://github.com/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wtfauonabt/obsidian-tasks.nvim)
+- [nilszeilon/bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/stars/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/bedrock.nvim)
 
 ## Blog
 
@@ -320,3 +322,4 @@
 - [Leonardo-Luz/quicknotes.nvim](https://github.com/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/quicknotes.nvim)
 - [avegancafe/completionist.nvim](https://github.com/avegancafe/completionist.nvim) ![](https://img.shields.io/github/stars/avegancafe/completionist.nvim) ![](https://img.shields.io/github/last-commit/avegancafe/completionist.nvim) ![](https://img.shields.io/github/commit-activity/y/avegancafe/completionist.nvim)
 - [fmpisantos/notes.nvim](https://github.com/fmpisantos/notes.nvim) ![](https://img.shields.io/github/stars/fmpisantos/notes.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/notes.nvim)
+- [Nate96/journal.nvim](https://github.com/Nate96/journal.nvim) ![](https://img.shields.io/github/stars/Nate96/journal.nvim) ![](https://img.shields.io/github/last-commit/Nate96/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/Nate96/journal.nvim)
