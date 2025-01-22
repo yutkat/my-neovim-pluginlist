@@ -106,6 +106,7 @@
 - [thjbdvlt/underlowne.nvim](https://github.com/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/underlowne.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/underlowne.nvim)
 - [onurozuduru/himarkdown.nvim](https://github.com/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/stars/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/last-commit/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/onurozuduru/himarkdown.nvim)
 - [hyogoa2c/mdheadnums.nvim](https://github.com/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/stars/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/last-commit/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/commit-activity/y/hyogoa2c/mdheadnums.nvim)
+- [nick-skriabin/timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/timeline.nvim)
 
 ##### Title explorer
 
@@ -314,6 +315,7 @@
 - [goropikari/plantuml.nvim](https://github.com/goropikari/plantuml.nvim) ![](https://img.shields.io/github/stars/goropikari/plantuml.nvim) ![](https://img.shields.io/github/last-commit/goropikari/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/plantuml.nvim)
 - [arakkkkk/plantuml-ascii.nvim](https://github.com/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/stars/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/plantuml-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/plantuml-ascii.nvim)
 - [Maduki-tech/nvim-plantuml](https://github.com/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/stars/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/last-commit/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/nvim-plantuml)
+- [SebastiaanBooman/botanist.nvim](https://github.com/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/stars/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/last-commit/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/commit-activity/y/SebastiaanBooman/botanist.nvim)
 
 ### Graphviz
 

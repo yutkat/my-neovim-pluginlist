@@ -302,6 +302,7 @@
 
 - [Mohanbarman/g-worktree.nvim](https://github.com/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/stars/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/last-commit/Mohanbarman/g-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/Mohanbarman/g-worktree.nvim)
 - [davvid/telescope-git-selector.nvim](https://github.com/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/stars/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/last-commit/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/davvid/telescope-git-selector.nvim)
+- [xopo/worktree.nvim](https://github.com/xopo/worktree.nvim) ![](https://img.shields.io/github/stars/xopo/worktree.nvim) ![](https://img.shields.io/github/last-commit/xopo/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/xopo/worktree.nvim)
 
 ## submodule
 

@@ -12,6 +12,7 @@
     + [GCC](#gcc)
   * [Formatter](#formatter)
   * [Linter](#linter)
+  * [Comment](#comment)
   * [Makefile](#makefile)
   * [GoogleTest](#googletest)
   * [Stress test](#stress-test)
@@ -93,6 +94,10 @@
 ### Linter
 
 - [TuTaRdrgZ/norminette-lint.nvim](https://github.com/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/stars/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/last-commit/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/TuTaRdrgZ/norminette-lint.nvim)
+
+### Comment
+
+- [rmccord7/c-format-comment.nvim](https://github.com/rmccord7/c-format-comment.nvim) ![](https://img.shields.io/github/stars/rmccord7/c-format-comment.nvim) ![](https://img.shields.io/github/last-commit/rmccord7/c-format-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/rmccord7/c-format-comment.nvim)
 
 ### Makefile
 
