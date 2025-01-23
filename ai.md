@@ -144,6 +144,7 @@
 - [sally-sandwich/llm.nvim](https://github.com/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/stars/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/last-commit/sally-sandwich/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/sally-sandwich/llm.nvim)
 - [jmmarotta/reapo.nvim](https://github.com/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/stars/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/reapo.nvim)
 - [Zhuxy/llmate.nvim](https://github.com/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/stars/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/llmate.nvim)
+- [silveiralexf/nvim-modelmate](https://github.com/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/stars/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/last-commit/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/commit-activity/y/silveiralexf/nvim-modelmate)
 
 #### mods
 

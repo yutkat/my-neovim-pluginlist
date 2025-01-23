@@ -112,6 +112,7 @@
 - [CsiPA0723/task-runner.nvim](https://github.com/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/stars/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/last-commit/CsiPA0723/task-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CsiPA0723/task-runner.nvim)
 - [darrell-pittman/wgc-run.nvim](https://github.com/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-run.nvim)
 - [maarutan/betterRun.nvim](https://github.com/maarutan/betterRun.nvim) ![](https://img.shields.io/github/stars/maarutan/betterRun.nvim) ![](https://img.shields.io/github/last-commit/maarutan/betterRun.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/betterRun.nvim)
+- [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/stars/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/last-commit/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/commit-activity/y/gitpushjoe/zuzu.nvim)
 
 ### Shell
 

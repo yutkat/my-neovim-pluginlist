@@ -65,6 +65,7 @@
 - [flavray/bufferlist.nvim](https://github.com/flavray/bufferlist.nvim) ![](https://img.shields.io/github/stars/flavray/bufferlist.nvim) ![](https://img.shields.io/github/last-commit/flavray/bufferlist.nvim) ![](https://img.shields.io/github/commit-activity/y/flavray/bufferlist.nvim)
 - [dzfrias/arena.nvim](https://github.com/dzfrias/arena.nvim) ![](https://img.shields.io/github/stars/dzfrias/arena.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/arena.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/arena.nvim)
 - [spiperac/buffhunter.nvim](https://github.com/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/stars/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/last-commit/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/commit-activity/y/spiperac/buffhunter.nvim)
+- [dangooddd/chosen.nvim](https://github.com/dangooddd/chosen.nvim) ![](https://img.shields.io/github/stars/dangooddd/chosen.nvim) ![](https://img.shields.io/github/last-commit/dangooddd/chosen.nvim) ![](https://img.shields.io/github/commit-activity/y/dangooddd/chosen.nvim)
 
 ### Other Buffer Switcher
 

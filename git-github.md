@@ -236,6 +236,7 @@
 - [JefferyBoy/git_diff.nvim](https://github.com/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/git_diff.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/git_diff.nvim)
 - [Chen-Yulin/ColorfulDiff.nvim](https://github.com/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/stars/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/last-commit/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Chen-Yulin/ColorfulDiff.nvim)
 - [jecaro/fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/stars/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/last-commit/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/commit-activity/y/jecaro/fugitive-difftool.nvim)
+- [tronikelis/telescope-git-diff-stat.nvim](https://github.com/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/stars/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/telescope-git-diff-stat.nvim)
 
 ### image diff
 
