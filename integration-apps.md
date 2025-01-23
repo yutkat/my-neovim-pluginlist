@@ -104,6 +104,7 @@
 #### DevTools
 
 - [carlosrocha/chrome-remote.nvim](https://github.com/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/stars/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/last-commit/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosrocha/chrome-remote.nvim)
+- [livinglogic-nl/cdp.nvim](https://github.com/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/stars/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/last-commit/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/commit-activity/y/livinglogic-nl/cdp.nvim)
 
 #### Firefox
 

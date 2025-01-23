@@ -65,6 +65,7 @@
 - [niT-Tin/springboot-start.nvim](https://github.com/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/stars/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/last-commit/niT-Tin/springboot-start.nvim) ![](https://img.shields.io/github/commit-activity/y/niT-Tin/springboot-start.nvim)
 - [mslauson/spring-boot.nvim](https://github.com/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/stars/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/mslauson/spring-boot.nvim)
 - [zerochae/telescope-spring.nvim](https://github.com/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/stars/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/last-commit/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/telescope-spring.nvim)
+- [JavaHello/spring-boot.nvim](https://github.com/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/stars/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/JavaHello/spring-boot.nvim)
 
 ### JBoss
 
