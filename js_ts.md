@@ -336,6 +336,7 @@
 - [jamesblckwell/nvimkit.nvim](https://github.com/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/stars/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/last-commit/jamesblckwell/nvimkit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesblckwell/nvimkit.nvim)
 - [ryoppippi/vim-svelte-inspector](https://github.com/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/stars/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/last-commit/ryoppippi/vim-svelte-inspector) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/vim-svelte-inspector)
 - [theIbraDev/sveltekit_motions.nvim](https://github.com/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/stars/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/last-commit/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/commit-activity/y/theIbraDev/sveltekit_motions.nvim)
+- [nvim-svelte/nvim-svelte-snippets](https://github.com/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/stars/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/last-commit/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/commit-activity/y/nvim-svelte/nvim-svelte-snippets)
 
 ### Node.js
 

@@ -361,6 +361,7 @@
 ### Japanese
 
 - [atusy/budoux.lua](https://github.com/atusy/budoux.lua) ![](https://img.shields.io/github/stars/atusy/budoux.lua) ![](https://img.shields.io/github/last-commit/atusy/budoux.lua) ![](https://img.shields.io/github/commit-activity/y/atusy/budoux.lua)
+- [atusy/budouxify.nvim](https://github.com/atusy/budouxify.nvim) ![](https://img.shields.io/github/stars/atusy/budouxify.nvim) ![](https://img.shields.io/github/last-commit/atusy/budouxify.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/budouxify.nvim)
 
 ## Util wrapper
 
