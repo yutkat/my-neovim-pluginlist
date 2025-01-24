@@ -220,6 +220,7 @@
 - [alanjcfs/rg.nvim](https://github.com/alanjcfs/rg.nvim) ![](https://img.shields.io/github/stars/alanjcfs/rg.nvim) ![](https://img.shields.io/github/last-commit/alanjcfs/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanjcfs/rg.nvim)
 - [doums/rg.nvim](https://github.com/doums/rg.nvim) ![](https://img.shields.io/github/stars/doums/rg.nvim) ![](https://img.shields.io/github/last-commit/doums/rg.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/rg.nvim)
 - [BlankTiger/telescope-rg.nvim](https://github.com/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/stars/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/BlankTiger/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlankTiger/telescope-rg.nvim)
+- [walker84837/ripgrep.nvim](https://github.com/walker84837/ripgrep.nvim) ![](https://img.shields.io/github/stars/walker84837/ripgrep.nvim) ![](https://img.shields.io/github/last-commit/walker84837/ripgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/ripgrep.nvim)
 
 #### locate
 
