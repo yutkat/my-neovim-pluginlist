@@ -203,6 +203,7 @@
 ## Wiki
 
 - [dneumann42/nvim-wikid](https://github.com/dneumann42/nvim-wikid) ![](https://img.shields.io/github/stars/dneumann42/nvim-wikid) ![](https://img.shields.io/github/last-commit/dneumann42/nvim-wikid) ![](https://img.shields.io/github/commit-activity/y/dneumann42/nvim-wikid)
+- [jmtd/nvim-microwiki](https://github.com/jmtd/nvim-microwiki) ![](https://img.shields.io/github/stars/jmtd/nvim-microwiki) ![](https://img.shields.io/github/last-commit/jmtd/nvim-microwiki) ![](https://img.shields.io/github/commit-activity/y/jmtd/nvim-microwiki)
 
 ## VimWiki
 
@@ -324,3 +325,4 @@
 - [fmpisantos/notes.nvim](https://github.com/fmpisantos/notes.nvim) ![](https://img.shields.io/github/stars/fmpisantos/notes.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/notes.nvim)
 - [Nate96/journal.nvim](https://github.com/Nate96/journal.nvim) ![](https://img.shields.io/github/stars/Nate96/journal.nvim) ![](https://img.shields.io/github/last-commit/Nate96/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/Nate96/journal.nvim)
 - [pxwg/note.nvim](https://github.com/pxwg/note.nvim) ![](https://img.shields.io/github/stars/pxwg/note.nvim) ![](https://img.shields.io/github/last-commit/pxwg/note.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/note.nvim)
+- [lienzhuzhu/notaker.nvim](https://github.com/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/stars/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/last-commit/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/commit-activity/y/lienzhuzhu/notaker.nvim)
