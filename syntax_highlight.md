@@ -147,6 +147,7 @@
 - [vunhatchuong/themify-extras.nvim](https://github.com/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/themify-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/themify-extras.nvim)
 - [rene-hess/randomcolorscheme.nvim](https://github.com/rene-hess/randomcolorscheme.nvim) ![](https://img.shields.io/github/stars/rene-hess/randomcolorscheme.nvim) ![](https://img.shields.io/github/last-commit/rene-hess/randomcolorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/rene-hess/randomcolorscheme.nvim)
 - [joaoinez/caipirinha.nvim](https://github.com/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/stars/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/last-commit/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/commit-activity/y/joaoinez/caipirinha.nvim)
+- [Sulring/suthema.nvim](https://github.com/Sulring/suthema.nvim) ![](https://img.shields.io/github/stars/Sulring/suthema.nvim) ![](https://img.shields.io/github/last-commit/Sulring/suthema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sulring/suthema.nvim)
 
 ### Colorscheme overwrite
 
