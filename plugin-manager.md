@@ -88,7 +88,6 @@
 
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) ![](https://img.shields.io/github/stars/neuromaancer/readup.nvim) ![](https://img.shields.io/github/last-commit/neuromaancer/readup.nvim) ![](https://img.shields.io/github/commit-activity/y/neuromaancer/readup.nvim)
 - [selectnull/plugin-readme.nvim](https://github.com/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/stars/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/last-commit/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/selectnull/plugin-readme.nvim)
-- [janwvjaarsveld/vim-readme.nvim](https://github.com/janwvjaarsveld/vim-readme.nvim) ![](https://img.shields.io/github/stars/janwvjaarsveld/vim-readme.nvim) ![](https://img.shields.io/github/last-commit/janwvjaarsveld/vim-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/janwvjaarsveld/vim-readme.nvim)
 
 ## Market place
 
