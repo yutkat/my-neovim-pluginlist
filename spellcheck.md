@@ -27,6 +27,7 @@
 - [barnii77/typofix.nvim](https://github.com/barnii77/typofix.nvim) ![](https://img.shields.io/github/stars/barnii77/typofix.nvim) ![](https://img.shields.io/github/last-commit/barnii77/typofix.nvim) ![](https://img.shields.io/github/commit-activity/y/barnii77/typofix.nvim)
 - [ravibrock/spellwarn.nvim](https://github.com/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/stars/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/spellwarn.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/spellwarn.nvim)
 - [kungfusheep/snipe-spell.nvim](https://github.com/kungfusheep/snipe-spell.nvim) ![](https://img.shields.io/github/stars/kungfusheep/snipe-spell.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/snipe-spell.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/snipe-spell.nvim)
+- [okaydouglas/spelling.nvim](https://github.com/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/stars/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/last-commit/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/commit-activity/y/okaydouglas/spelling.nvim)
 
 #### Vale
 
