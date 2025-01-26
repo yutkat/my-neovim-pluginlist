@@ -47,6 +47,7 @@
   - [bi0ha2ard/telescope-org_roam.nvim](https://github.com/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/stars/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/last-commit/bi0ha2ard/telescope-org_roam.nvim) ![](https://img.shields.io/github/commit-activity/y/bi0ha2ard/telescope-org_roam.nvim)
 - [massix/org-checkbox.nvim](https://github.com/massix/org-checkbox.nvim) ![](https://img.shields.io/github/stars/massix/org-checkbox.nvim) ![](https://img.shields.io/github/last-commit/massix/org-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/org-checkbox.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
+- [0xzhzh/fzf-org.nvim](https://github.com/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/stars/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/last-commit/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/commit-activity/y/0xzhzh/fzf-org.nvim)
 
 ## Zettelkasten
 
