@@ -349,6 +349,7 @@
 - [Sayyidalijufri/termlinehide.nvim](https://github.com/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/termlinehide.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/termlinehide.nvim)
 - [DarrellBrogdon/trnu.nvim](https://github.com/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/stars/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/last-commit/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/commit-activity/y/DarrellBrogdon/trnu.nvim)
 - [fluxdiv/relative-rainbow.nvim](https://github.com/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/stars/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/relative-rainbow.nvim)
+- [Long104/hidecolumn.nvim](https://github.com/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/stars/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/last-commit/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Long104/hidecolumn.nvim)
 
 ### [Mark](./mark.md)
 
