@@ -276,6 +276,7 @@
 - [iFarmGolems/deploy.nvim](https://github.com/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/stars/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/last-commit/iFarmGolems/deploy.nvim) ![](https://img.shields.io/github/commit-activity/y/iFarmGolems/deploy.nvim)
 - [Meursau1T/rsync-git.nvim](https://github.com/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/stars/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/last-commit/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/commit-activity/y/Meursau1T/rsync-git.nvim)
 - [NikolaiLyssogor/sink.nvim](https://github.com/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/stars/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/last-commit/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/commit-activity/y/NikolaiLyssogor/sink.nvim)
+- [yimuchen/rsync.nvim](https://github.com/yimuchen/rsync.nvim) ![](https://img.shields.io/github/stars/yimuchen/rsync.nvim) ![](https://img.shields.io/github/last-commit/yimuchen/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/yimuchen/rsync.nvim)
 
 #### curl
 

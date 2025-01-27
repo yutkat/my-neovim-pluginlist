@@ -55,6 +55,7 @@
 - [nvimdev/minpm.nvim](https://github.com/nvimdev/minpm.nvim) ![](https://img.shields.io/github/stars/nvimdev/minpm.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/minpm.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/minpm.nvim)
 - [mvllow/pam.nvim](https://github.com/mvllow/pam.nvim) ![](https://img.shields.io/github/stars/mvllow/pam.nvim) ![](https://img.shields.io/github/last-commit/mvllow/pam.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/pam.nvim)
 - [neo451/lit.nvim](https://github.com/neo451/lit.nvim) ![](https://img.shields.io/github/stars/neo451/lit.nvim) ![](https://img.shields.io/github/last-commit/neo451/lit.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/lit.nvim)
+- [NewDawn0/loader.nvim](https://github.com/NewDawn0/loader.nvim) ![](https://img.shields.io/github/stars/NewDawn0/loader.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/loader.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/loader.nvim)
 
 ### Update checker
 
