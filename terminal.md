@@ -73,6 +73,7 @@
 - [ollbx/build-term.nvim](https://github.com/ollbx/build-term.nvim) ![](https://img.shields.io/github/stars/ollbx/build-term.nvim) ![](https://img.shields.io/github/last-commit/ollbx/build-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/build-term.nvim)
 - [schillermann/nvim-jest-terminal](https://github.com/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/stars/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/last-commit/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/commit-activity/y/schillermann/nvim-jest-terminal)
 - [n0bukai/tterm.nvim](https://github.com/n0bukai/tterm.nvim) ![](https://img.shields.io/github/stars/n0bukai/tterm.nvim) ![](https://img.shields.io/github/last-commit/n0bukai/tterm.nvim) ![](https://img.shields.io/github/commit-activity/y/n0bukai/tterm.nvim)
+- [J-Me-2307/terminalis.nvim](https://github.com/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/stars/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/last-commit/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/commit-activity/y/J-Me-2307/terminalis.nvim)
 
 ### Open
 

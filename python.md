@@ -34,6 +34,7 @@
 - [MicroPython](#micropython)
 - [Quix](#quix)
 - [Nuke](#nuke)
+- [Rope](#rope)
 
 <!-- tocstop -->
 
@@ -204,3 +205,7 @@
 ## Nuke
 
 - [sisoe24/nuketools.nvim](https://github.com/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/stars/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/last-commit/sisoe24/nuketools.nvim) ![](https://img.shields.io/github/commit-activity/y/sisoe24/nuketools.nvim)
+
+## Rope
+
+- [niilohlin/rope.nvim](https://github.com/niilohlin/rope.nvim) ![](https://img.shields.io/github/stars/niilohlin/rope.nvim) ![](https://img.shields.io/github/last-commit/niilohlin/rope.nvim) ![](https://img.shields.io/github/commit-activity/y/niilohlin/rope.nvim)
