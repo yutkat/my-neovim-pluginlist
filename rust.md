@@ -11,6 +11,7 @@
   * [Template](#template)
     + [Askama](#askama)
   * [Crate](#crate)
+  * [lifetime](#lifetime)
 
 <!-- tocstop -->
 
@@ -58,3 +59,8 @@
 ### Crate
 
 - [Aityz/cratesearch.nvim](https://github.com/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/stars/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/last-commit/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/cratesearch.nvim)
+
+### lifetime
+
+- [cordx56/rustowl](https://github.com/cordx56/rustowl) ![](https://img.shields.io/github/stars/cordx56/rustowl) ![](https://img.shields.io/github/last-commit/cordx56/rustowl) ![](https://img.shields.io/github/commit-activity/y/cordx56/rustowl)
+

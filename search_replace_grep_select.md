@@ -167,6 +167,7 @@
 - [Cannafox/fox-grep.nvim](https://github.com/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/stars/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/last-commit/Cannafox/fox-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannafox/fox-grep.nvim)
 - [allcentury/telescope_csearch.nvim](https://github.com/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/stars/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/last-commit/allcentury/telescope_csearch.nvim) ![](https://img.shields.io/github/commit-activity/y/allcentury/telescope_csearch.nvim)
 - [BrunoCiccarino/lazygrep.nvim](https://github.com/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/stars/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/last-commit/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/BrunoCiccarino/lazygrep.nvim)
+- [wsdjeg/flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/flygrep.nvim)
 
 ## AST
 

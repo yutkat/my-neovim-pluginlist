@@ -100,6 +100,7 @@
 - [bpanahij/conversations_tools.nvim](https://github.com/bpanahij/conversations_tools.nvim) ![](https://img.shields.io/github/stars/bpanahij/conversations_tools.nvim) ![](https://img.shields.io/github/last-commit/bpanahij/conversations_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/bpanahij/conversations_tools.nvim)
 - [krzmknt/procon-utils.nvim](https://github.com/krzmknt/procon-utils.nvim) ![](https://img.shields.io/github/stars/krzmknt/procon-utils.nvim) ![](https://img.shields.io/github/last-commit/krzmknt/procon-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/krzmknt/procon-utils.nvim)
 - [HueGreywell/beam.nvim](https://github.com/HueGreywell/beam.nvim) ![](https://img.shields.io/github/stars/HueGreywell/beam.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/beam.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/beam.nvim)
+- [brunocroh/open-link.nvim](https://github.com/brunocroh/open-link.nvim) ![](https://img.shields.io/github/stars/brunocroh/open-link.nvim) ![](https://img.shields.io/github/last-commit/brunocroh/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/brunocroh/open-link.nvim)
 
 #### DevTools
 
