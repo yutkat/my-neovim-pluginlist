@@ -5,6 +5,7 @@
 - [Quickfix](#quickfix)
   * [Syntax](#syntax)
 - [Location](#location)
+- [Error](#error)
 
 <!-- tocstop -->
 
@@ -33,3 +34,8 @@
 - [BenSeefeldt/qf-format.nvim](https://github.com/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/stars/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/last-commit/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/commit-activity/y/BenSeefeldt/qf-format.nvim)
 
 ## Location
+
+
+## Error
+
+- [msaher/bufix.nvim](https://github.com/msaher/bufix.nvim) ![](https://img.shields.io/github/stars/msaher/bufix.nvim) ![](https://img.shields.io/github/last-commit/msaher/bufix.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/bufix.nvim)

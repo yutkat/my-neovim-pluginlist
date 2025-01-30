@@ -83,6 +83,7 @@
 - [spaghettijeff/spank.nvim](https://github.com/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/stars/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/last-commit/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/commit-activity/y/spaghettijeff/spank.nvim)
 - [treybastian/nvim-jack-in](https://github.com/treybastian/nvim-jack-in) ![](https://img.shields.io/github/stars/treybastian/nvim-jack-in) ![](https://img.shields.io/github/last-commit/treybastian/nvim-jack-in) ![](https://img.shields.io/github/commit-activity/y/treybastian/nvim-jack-in)
 - [conig/nvim-slimetree](https://github.com/conig/nvim-slimetree) ![](https://img.shields.io/github/stars/conig/nvim-slimetree) ![](https://img.shields.io/github/last-commit/conig/nvim-slimetree) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-slimetree)
+- [human-d3v/term-repl.nvim](https://github.com/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/stars/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/term-repl.nvim)
 
 ### Refactoring,Debugging
 

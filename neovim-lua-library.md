@@ -236,6 +236,7 @@
 
 - [ianjkaplan/hermes.nvim](https://github.com/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/hermes.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/hermes.nvim)
 - [heilgar/nvim-http-client](https://github.com/heilgar/nvim-http-client) ![](https://img.shields.io/github/stars/heilgar/nvim-http-client) ![](https://img.shields.io/github/last-commit/heilgar/nvim-http-client) ![](https://img.shields.io/github/commit-activity/y/heilgar/nvim-http-client)
+- [sfenzke/http-client.nvim](https://github.com/sfenzke/http-client.nvim) ![](https://img.shields.io/github/stars/sfenzke/http-client.nvim) ![](https://img.shields.io/github/last-commit/sfenzke/http-client.nvim) ![](https://img.shields.io/github/commit-activity/y/sfenzke/http-client.nvim)
 
 ### Curl
 

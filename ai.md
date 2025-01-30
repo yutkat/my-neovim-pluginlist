@@ -13,6 +13,7 @@
   * [Llama](#llama)
   * [Ollama](#ollama)
   * [Claude](#claude)
+  * [DeepSeek](#deepseek)
   * [Supermaven](#supermaven)
   * [greptile](#greptile)
   * [Aider](#aider)
@@ -207,6 +208,9 @@
 - [scossar/converse.nvim](https://github.com/scossar/converse.nvim) ![](https://img.shields.io/github/stars/scossar/converse.nvim) ![](https://img.shields.io/github/last-commit/scossar/converse.nvim) ![](https://img.shields.io/github/commit-activity/y/scossar/converse.nvim)
 - [jarenm1/nvim-llm](https://github.com/jarenm1/nvim-llm) ![](https://img.shields.io/github/stars/jarenm1/nvim-llm) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-llm)
 - [Antoine-Prieur/nvim-ai-assistant](https://github.com/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/stars/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/Antoine-Prieur/nvim-ai-assistant)
+
+### DeepSeek
+
 
 ### Supermaven
 

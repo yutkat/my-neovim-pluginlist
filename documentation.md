@@ -60,6 +60,7 @@
   * [Gist](#gist)
   * [typst](#typst)
   * [Textile](#textile)
+  * [Jekyll](#jekyll)
 
 <!-- tocstop -->
 
@@ -449,3 +450,7 @@
 ### Textile
 
 - [arakkkkk/textile.nvim](https://github.com/arakkkkk/textile.nvim) ![](https://img.shields.io/github/stars/arakkkkk/textile.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/textile.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/textile.nvim)
+
+### Jekyll
+
+- [kanedo/jekyll.nvim](https://github.com/kanedo/jekyll.nvim) ![](https://img.shields.io/github/stars/kanedo/jekyll.nvim) ![](https://img.shields.io/github/last-commit/kanedo/jekyll.nvim) ![](https://img.shields.io/github/commit-activity/y/kanedo/jekyll.nvim)

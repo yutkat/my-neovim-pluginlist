@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Java](#java)
+  * [package import](#package-import)
   * [rename](#rename)
   * [method](#method)
   * [Debugger](#debugger)
@@ -31,6 +32,10 @@
 - [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ![](https://img.shields.io/github/stars/nvim-java/nvim-java) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java)
 - [andreluisos/nvim-jpagenie](https://github.com/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/stars/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/last-commit/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/commit-activity/y/andreluisos/nvim-jpagenie)
+
+### package import
+
+- [Tacsiazuma/easyjava.nvim](https://github.com/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/stars/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/last-commit/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/commit-activity/y/Tacsiazuma/easyjava.nvim)
 
 ### rename
 
