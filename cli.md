@@ -108,7 +108,6 @@
 - [swaits/zellij-nav.nvim](https://github.com/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/stars/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/swaits/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/zellij-nav.nvim)
 - [hiasr/vim-zellij-navigator.nvim](https://github.com/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/stars/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/last-commit/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/hiasr/vim-zellij-navigator.nvim)
 - [GR3YH4TT3R93/zellij-nav.nvim](https://github.com/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/stars/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/GR3YH4TT3R93/zellij-nav.nvim)
-- [nhat-tien/lucgiac.nvim](https://github.com/nhat-tien/lucgiac.nvim) ![](https://img.shields.io/github/stars/nhat-tien/lucgiac.nvim) ![](https://img.shields.io/github/last-commit/nhat-tien/lucgiac.nvim) ![](https://img.shields.io/github/commit-activity/y/nhat-tien/lucgiac.nvim)
 - [noahbald/nangz.nvim](https://github.com/noahbald/nangz.nvim) ![](https://img.shields.io/github/stars/noahbald/nangz.nvim) ![](https://img.shields.io/github/last-commit/noahbald/nangz.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/nangz.nvim)
 
 #### Docker
