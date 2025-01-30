@@ -14,6 +14,7 @@
 - [lukost/Ox.nvim](https://github.com/lukost/Ox.nvim) ![](https://img.shields.io/github/stars/lukost/Ox.nvim) ![](https://img.shields.io/github/last-commit/lukost/Ox.nvim) ![](https://img.shields.io/github/commit-activity/y/lukost/Ox.nvim)
 - [dmxk062/hexed.nvim](https://github.com/dmxk062/hexed.nvim) ![](https://img.shields.io/github/stars/dmxk062/hexed.nvim) ![](https://img.shields.io/github/last-commit/dmxk062/hexed.nvim) ![](https://img.shields.io/github/commit-activity/y/dmxk062/hexed.nvim)
 - [MichaelTennant/nvim-hexdump](https://github.com/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/stars/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/last-commit/MichaelTennant/nvim-hexdump) ![](https://img.shields.io/github/commit-activity/y/MichaelTennant/nvim-hexdump)
+- [theKnightsOfRohan/hexer.nvim](https://github.com/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/stars/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/last-commit/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/commit-activity/y/theKnightsOfRohan/hexer.nvim)
 
 ### Hex Editor
 

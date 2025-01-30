@@ -76,6 +76,7 @@
 - [956MB/head.nvim](https://github.com/956MB/head.nvim) ![](https://img.shields.io/github/stars/956MB/head.nvim) ![](https://img.shields.io/github/last-commit/956MB/head.nvim) ![](https://img.shields.io/github/commit-activity/y/956MB/head.nvim)
 - [verdigris12/auctor.nvim](https://github.com/verdigris12/auctor.nvim) ![](https://img.shields.io/github/stars/verdigris12/auctor.nvim) ![](https://img.shields.io/github/last-commit/verdigris12/auctor.nvim) ![](https://img.shields.io/github/commit-activity/y/verdigris12/auctor.nvim)
 - [LucasTavaresA/headers.nvim](https://github.com/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/headers.nvim)
+- [ekhar/filename_cc.nvim](https://github.com/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/stars/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/last-commit/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ekhar/filename_cc.nvim)
 
 ## Todo Comment
 
