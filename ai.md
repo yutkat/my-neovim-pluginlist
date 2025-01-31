@@ -145,6 +145,7 @@
 - [jmmarotta/reapo.nvim](https://github.com/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/stars/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/last-commit/jmmarotta/reapo.nvim) ![](https://img.shields.io/github/commit-activity/y/jmmarotta/reapo.nvim)
 - [Zhuxy/llmate.nvim](https://github.com/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/stars/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/llmate.nvim)
 - [silveiralexf/nvim-modelmate](https://github.com/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/stars/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/last-commit/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/commit-activity/y/silveiralexf/nvim-modelmate)
+- [davidyz/vectorcode](https://github.com/davidyz/vectorcode) ![](https://img.shields.io/github/stars/davidyz/vectorcode) ![](https://img.shields.io/github/last-commit/davidyz/vectorcode) ![](https://img.shields.io/github/commit-activity/y/davidyz/vectorcode)
 
 #### mods
 
