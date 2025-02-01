@@ -96,6 +96,7 @@
     + [Jule](#jule)
     + [Gren](#gren)
     + [Solidity](#solidity)
+    + [Bril](#bril)
     + [D2](#d2)
     + [Fe](#fe)
     + [CoNLL-U](#conll-u)
@@ -544,6 +545,10 @@
 ### Solidity
 
 - [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
+
+### Bril
+
+- [ethanuppal/bril.nvim](https://github.com/ethanuppal/bril.nvim) ![](https://img.shields.io/github/stars/ethanuppal/bril.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/bril.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/bril.nvim)
 
 ### D2
 

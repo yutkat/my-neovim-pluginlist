@@ -82,6 +82,7 @@
 - [osteensco/discordStatus.nvim](https://github.com/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/stars/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/last-commit/osteensco/discordStatus.nvim) ![](https://img.shields.io/github/commit-activity/y/osteensco/discordStatus.nvim)
 - [lipeedev/termuxcord.nvim](https://github.com/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/stars/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/last-commit/lipeedev/termuxcord.nvim) ![](https://img.shields.io/github/commit-activity/y/lipeedev/termuxcord.nvim)
 - [kiselevart/nvim-discord-rpc](https://github.com/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/stars/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/last-commit/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/commit-activity/y/kiselevart/nvim-discord-rpc)
+- [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) ![](https://img.shields.io/github/stars/vyfor/cord.nvim) ![](https://img.shields.io/github/last-commit/vyfor/cord.nvim) ![](https://img.shields.io/github/commit-activity/y/vyfor/cord.nvim)
 
 #### Slack
 
