@@ -65,6 +65,7 @@
 - [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
 - [naddeoa/nvim-pytest](https://github.com/naddeoa/nvim-pytest) ![](https://img.shields.io/github/stars/naddeoa/nvim-pytest) ![](https://img.shields.io/github/last-commit/naddeoa/nvim-pytest) ![](https://img.shields.io/github/commit-activity/y/naddeoa/nvim-pytest)
 - [Sombrer0Dev/pytest.nvim](https://github.com/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/stars/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/last-commit/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrer0Dev/pytest.nvim)
+- [jjvanvuren/copybreadcrumbs.nvim](https://github.com/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/copybreadcrumbs.nvim)
 
 #### jurigged
 
@@ -75,6 +76,7 @@
 - [stevanmilic/nvim-lspimport](https://github.com/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/stars/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/last-commit/stevanmilic/nvim-lspimport) ![](https://img.shields.io/github/commit-activity/y/stevanmilic/nvim-lspimport)
 - [kiyoon/python-import.nvim](https://github.com/kiyoon/python-import.nvim) ![](https://img.shields.io/github/stars/kiyoon/python-import.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/python-import.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/python-import.nvim)
 - [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/pymple.nvim)
+- [jjvanvuren/isort.nvim](https://github.com/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/isort.nvim)
 
 ### REPL
 

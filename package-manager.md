@@ -26,6 +26,7 @@
   - [Zeioth/mason-extra-cmds](https://github.com/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/stars/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/last-commit/Zeioth/mason-extra-cmds) ![](https://img.shields.io/github/commit-activity/y/Zeioth/mason-extra-cmds)
 - [cmus-enjoyers/pipka.nvim](https://github.com/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/pipka.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/pipka.nvim)
 - [v-l-a-d-i-m-i-r/nvim-components](https://github.com/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/stars/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/last-commit/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/commit-activity/y/v-l-a-d-i-m-i-r/nvim-components)
+- [ingenarel/metapack.nvim](https://github.com/ingenarel/metapack.nvim) ![](https://img.shields.io/github/stars/ingenarel/metapack.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/metapack.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/metapack.nvim)
 
 #### formatter
 
