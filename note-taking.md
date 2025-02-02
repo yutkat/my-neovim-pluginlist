@@ -49,6 +49,7 @@
 - [massix/org-checkbox.nvim](https://github.com/massix/org-checkbox.nvim) ![](https://img.shields.io/github/stars/massix/org-checkbox.nvim) ![](https://img.shields.io/github/last-commit/massix/org-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/org-checkbox.nvim)
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 - [0xzhzh/fzf-org.nvim](https://github.com/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/stars/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/last-commit/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/commit-activity/y/0xzhzh/fzf-org.nvim)
+- [zenarvus/md-agenda.nvim](https://github.com/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/stars/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/last-commit/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/zenarvus/md-agenda.nvim)
 
 ## Zettelkasten
 
@@ -334,3 +335,4 @@
 - [lienzhuzhu/notaker.nvim](https://github.com/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/stars/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/last-commit/lienzhuzhu/notaker.nvim) ![](https://img.shields.io/github/commit-activity/y/lienzhuzhu/notaker.nvim)
 - [PKerty/eznotes.nvim](https://github.com/PKerty/eznotes.nvim) ![](https://img.shields.io/github/stars/PKerty/eznotes.nvim) ![](https://img.shields.io/github/last-commit/PKerty/eznotes.nvim) ![](https://img.shields.io/github/commit-activity/y/PKerty/eznotes.nvim)
 - [616b2f/ak.nvim](https://github.com/616b2f/ak.nvim) ![](https://img.shields.io/github/stars/616b2f/ak.nvim) ![](https://img.shields.io/github/last-commit/616b2f/ak.nvim) ![](https://img.shields.io/github/commit-activity/y/616b2f/ak.nvim)
+- [nilszeilon/lumen.nvim](https://github.com/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/stars/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/lumen.nvim)

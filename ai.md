@@ -14,6 +14,7 @@
   * [Ollama](#ollama)
   * [Claude](#claude)
   * [DeepSeek](#deepseek)
+  * [OpenRouter](#openrouter)
   * [Supermaven](#supermaven)
   * [greptile](#greptile)
   * [Aider](#aider)
@@ -146,6 +147,7 @@
 - [Zhuxy/llmate.nvim](https://github.com/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/stars/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/llmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/llmate.nvim)
 - [silveiralexf/nvim-modelmate](https://github.com/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/stars/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/last-commit/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/commit-activity/y/silveiralexf/nvim-modelmate)
 - [davidyz/vectorcode](https://github.com/davidyz/vectorcode) ![](https://img.shields.io/github/stars/davidyz/vectorcode) ![](https://img.shields.io/github/last-commit/davidyz/vectorcode) ![](https://img.shields.io/github/commit-activity/y/davidyz/vectorcode)
+- [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
 
 #### mods
 
@@ -194,6 +196,7 @@
 - [yuys13/collama.nvim](https://github.com/yuys13/collama.nvim) ![](https://img.shields.io/github/stars/yuys13/collama.nvim) ![](https://img.shields.io/github/last-commit/yuys13/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/collama.nvim)
 - [hmunye/llama.nvim](https://github.com/hmunye/llama.nvim) ![](https://img.shields.io/github/stars/hmunye/llama.nvim) ![](https://img.shields.io/github/last-commit/hmunye/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/llama.nvim)
 - [hadleyhzy34/ollama_popup.nvim](https://github.com/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/stars/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/last-commit/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/commit-activity/y/hadleyhzy34/ollama_popup.nvim)
+- [jasper-clarke/collama.nvim](https://github.com/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/stars/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/last-commit/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/jasper-clarke/collama.nvim)
 
 ### Claude
 
@@ -213,6 +216,10 @@
 ### DeepSeek
 
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
+
+### OpenRouter
+
+- [bresilla/llmchat.nvim](https://github.com/bresilla/llmchat.nvim) ![](https://img.shields.io/github/stars/bresilla/llmchat.nvim) ![](https://img.shields.io/github/last-commit/bresilla/llmchat.nvim) ![](https://img.shields.io/github/commit-activity/y/bresilla/llmchat.nvim)
 
 ### Supermaven
 

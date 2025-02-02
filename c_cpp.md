@@ -181,6 +181,7 @@
 ## ASM
 
 - [kamoshi/disasm.nvim](https://github.com/kamoshi/disasm.nvim) ![](https://img.shields.io/github/stars/kamoshi/disasm.nvim) ![](https://img.shields.io/github/last-commit/kamoshi/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/kamoshi/disasm.nvim)
+- [ii14/neobolt.nvim](https://github.com/ii14/neobolt.nvim) ![](https://img.shields.io/github/stars/ii14/neobolt.nvim) ![](https://img.shields.io/github/last-commit/ii14/neobolt.nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/neobolt.nvim)
 
 ## Linux kernel development
 

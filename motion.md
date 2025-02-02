@@ -71,6 +71,7 @@
 - [atusy/mickeymotion.nvim](https://github.com/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/stars/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/last-commit/atusy/mickeymotion.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/mickeymotion.nvim)
 - [rasulomaroff/telepath.nvim](https://github.com/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/stars/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/last-commit/rasulomaroff/telepath.nvim) ![](https://img.shields.io/github/commit-activity/y/rasulomaroff/telepath.nvim)
 - [Ausgefuchster/quickselect.nvim](https://github.com/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/stars/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/last-commit/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausgefuchster/quickselect.nvim)
+- [slezica/blip.nvim](https://github.com/slezica/blip.nvim) ![](https://img.shields.io/github/stars/slezica/blip.nvim) ![](https://img.shields.io/github/last-commit/slezica/blip.nvim) ![](https://img.shields.io/github/commit-activity/y/slezica/blip.nvim)
 
 ### Horizontal Move
 

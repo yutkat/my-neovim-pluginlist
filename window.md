@@ -37,6 +37,7 @@
 - [NStefan002/wormhole.nvim](https://github.com/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/stars/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/wormhole.nvim)
 - [OfferLifted/window-selector.nvim](https://github.com/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/stars/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/window-selector.nvim)
 - [goropikari/window-selector.nvim](https://github.com/goropikari/window-selector.nvim) ![](https://img.shields.io/github/stars/goropikari/window-selector.nvim) ![](https://img.shields.io/github/last-commit/goropikari/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/window-selector.nvim)
+- [hrsh7th/nvim-swm](https://github.com/hrsh7th/nvim-swm) ![](https://img.shields.io/github/stars/hrsh7th/nvim-swm) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-swm) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-swm)
 
 ### Window Management
 
