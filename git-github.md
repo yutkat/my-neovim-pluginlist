@@ -271,6 +271,7 @@
 
 - [cszczepaniak/git-lb.nvim](https://github.com/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/git-lb.nvim)
 - [mrloop/telescope-git-branch.nvim](https://github.com/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrloop/telescope-git-branch.nvim)
+- [zerochae/branch.nvim](https://github.com/zerochae/branch.nvim) ![](https://img.shields.io/github/stars/zerochae/branch.nvim) ![](https://img.shields.io/github/last-commit/zerochae/branch.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/branch.nvim)
 
 ## gitignore
 
