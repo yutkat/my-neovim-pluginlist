@@ -118,7 +118,6 @@
 - [Craftidore/camelCaseMotion.nvim](https://github.com/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/stars/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/last-commit/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/Craftidore/camelCaseMotion.nvim)
 - [backdround/neowords.nvim](https://github.com/backdround/neowords.nvim) ![](https://img.shields.io/github/stars/backdround/neowords.nvim) ![](https://img.shields.io/github/last-commit/backdround/neowords.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/neowords.nvim)
 - [nvimdev/cwordmini.nvim](https://github.com/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/stars/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/cwordmini.nvim)
-- [dotnetian/numbove.nvim](https://github.com/dotnetian/numbove.nvim) ![](https://img.shields.io/github/stars/dotnetian/numbove.nvim) ![](https://img.shields.io/github/last-commit/dotnetian/numbove.nvim) ![](https://img.shields.io/github/commit-activity/y/dotnetian/numbove.nvim)
 
 ### Line Move
 
