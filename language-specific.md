@@ -200,6 +200,7 @@
 - [IniyanKanmani/dart-snippets.nvim](https://github.com/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/dart-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/dart-snippets.nvim)
 - [rithikjain/flutter-launch.nvim](https://github.com/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/stars/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/last-commit/rithikjain/flutter-launch.nvim) ![](https://img.shields.io/github/commit-activity/y/rithikjain/flutter-launch.nvim)
 - [Uniyo-Ltd/nvim-flutter-tdd](https://github.com/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/stars/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/last-commit/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/commit-activity/y/Uniyo-Ltd/nvim-flutter-tdd)
+- [rithikjain/flutter-freezed.nvim](https://github.com/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/stars/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/last-commit/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/commit-activity/y/rithikjain/flutter-freezed.nvim)
 
 ### Clojure
 

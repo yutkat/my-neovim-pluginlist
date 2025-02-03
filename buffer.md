@@ -12,6 +12,7 @@
       - [remote open](#remote-open)
     + [delete](#delete)
     + [auto close](#auto-close)
+    + [auto reload](#auto-reload)
     + [access control](#access-control)
     + [path](#path)
     + [status](#status)
@@ -181,6 +182,10 @@
 - [AckslD/bufmax.nvim](https://github.com/AckslD/bufmax.nvim) ![](https://img.shields.io/github/stars/AckslD/bufmax.nvim) ![](https://img.shields.io/github/last-commit/AckslD/bufmax.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/bufmax.nvim)
 - [pierregoutheraud/buffers-auto-close.nvim](https://github.com/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/stars/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/last-commit/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/commit-activity/y/pierregoutheraud/buffers-auto-close.nvim)
 - [ChuufMaster/buffer-vacuum](https://github.com/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/stars/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/last-commit/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/buffer-vacuum)
+
+#### auto reload
+
+- [manuuurino/autoread.nvim](https://github.com/manuuurino/autoread.nvim) ![](https://img.shields.io/github/stars/manuuurino/autoread.nvim) ![](https://img.shields.io/github/last-commit/manuuurino/autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/manuuurino/autoread.nvim)
 
 #### access control
 

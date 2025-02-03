@@ -173,6 +173,7 @@
 - [zivlakmilos/TestRunner.nvim](https://github.com/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/stars/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/last-commit/zivlakmilos/TestRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/zivlakmilos/TestRunner.nvim)
 - [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
 - [sashankr98/nvim-jester](https://github.com/sashankr98/nvim-jester) ![](https://img.shields.io/github/stars/sashankr98/nvim-jester) ![](https://img.shields.io/github/last-commit/sashankr98/nvim-jester) ![](https://img.shields.io/github/commit-activity/y/sashankr98/nvim-jester)
+- [nicolasgandrade/jest-runner.nvim](https://github.com/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/stars/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/last-commit/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasgandrade/jest-runner.nvim)
 
 ### Debug
 

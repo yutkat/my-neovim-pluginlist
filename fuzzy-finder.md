@@ -43,6 +43,7 @@
 - [mfussenegger/nvim-fzy](https://github.com/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/stars/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-fzy) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-fzy)
 - [mishkafreddy2009/fzyf.nvim](https://github.com/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/stars/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/last-commit/mishkafreddy2009/fzyf.nvim) ![](https://img.shields.io/github/commit-activity/y/mishkafreddy2009/fzyf.nvim)
 - [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) ![](https://img.shields.io/github/stars/hrsh7th/nvim-deck) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-deck) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-deck)
+- [askerdev/fzf.nvim](https://github.com/askerdev/fzf.nvim) ![](https://img.shields.io/github/stars/askerdev/fzf.nvim) ![](https://img.shields.io/github/last-commit/askerdev/fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/askerdev/fzf.nvim)
 
 ### Telescope Extensions
 

@@ -38,6 +38,7 @@
   * [git utils](#git-utils)
   * [Contribution](#contribution)
   * [git environment variable](#git-environment-variable)
+  * [git ls-files](#git-ls-files)
   * [Change](#change)
   * [flow](#flow)
 - [Jujutsu(jj)](#jujutsujj)
@@ -326,6 +327,10 @@
 
 - [ejrichards/baredot.nvim](https://github.com/ejrichards/baredot.nvim) ![](https://img.shields.io/github/stars/ejrichards/baredot.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/baredot.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/baredot.nvim)
 
+## git ls-files
+
+- [askerdev/arc.nvim](https://github.com/askerdev/arc.nvim) ![](https://img.shields.io/github/stars/askerdev/arc.nvim) ![](https://img.shields.io/github/last-commit/askerdev/arc.nvim) ![](https://img.shields.io/github/commit-activity/y/askerdev/arc.nvim)
+
 ## Change
 
 - [tomkennedy513/git_changed.nvim](https://github.com/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/stars/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/last-commit/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/commit-activity/y/tomkennedy513/git_changed.nvim)
@@ -344,7 +349,6 @@
 ## diff
 
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
-
 
 # GitHub
 
