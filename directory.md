@@ -24,6 +24,7 @@
 - [PriceHiller/ppd.nvim](https://github.com/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/stars/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/last-commit/PriceHiller/ppd.nvim) ![](https://img.shields.io/github/commit-activity/y/PriceHiller/ppd.nvim)
 - [juliuswaldmann/here.nvim](https://github.com/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/stars/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/last-commit/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/commit-activity/y/juliuswaldmann/here.nvim)
 - [j--c/cwd.nvim](https://github.com/j--c/cwd.nvim) ![](https://img.shields.io/github/stars/j--c/cwd.nvim) ![](https://img.shields.io/github/last-commit/j--c/cwd.nvim) ![](https://img.shields.io/github/commit-activity/y/j--c/cwd.nvim)
+- [gw31415/root.nvim](https://github.com/gw31415/root.nvim) ![](https://img.shields.io/github/stars/gw31415/root.nvim) ![](https://img.shields.io/github/last-commit/gw31415/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/root.nvim)
 
 ### z
 

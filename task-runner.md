@@ -48,6 +48,7 @@
 - [Arjun31415/BuildTask.nvim](https://github.com/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/stars/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/last-commit/Arjun31415/BuildTask.nvim) ![](https://img.shields.io/github/commit-activity/y/Arjun31415/BuildTask.nvim)
 - [jjocram/nvim-run](https://github.com/jjocram/nvim-run) ![](https://img.shields.io/github/stars/jjocram/nvim-run) ![](https://img.shields.io/github/last-commit/jjocram/nvim-run) ![](https://img.shields.io/github/commit-activity/y/jjocram/nvim-run)
 - [moffgato/taskfile.nvim](https://github.com/moffgato/taskfile.nvim) ![](https://img.shields.io/github/stars/moffgato/taskfile.nvim) ![](https://img.shields.io/github/last-commit/moffgato/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/moffgato/taskfile.nvim)
+- [Sergey-Polishchenko/tasker.nvim](https://github.com/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/stars/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/last-commit/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/Sergey-Polishchenko/tasker.nvim)
 
 ### TOML
 

@@ -170,6 +170,7 @@
 - [efirlus/quickadd.nvim](https://github.com/efirlus/quickadd.nvim) ![](https://img.shields.io/github/stars/efirlus/quickadd.nvim) ![](https://img.shields.io/github/last-commit/efirlus/quickadd.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/quickadd.nvim)
 - [wtfauonabt/obsidian-tasks.nvim](https://github.com/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wtfauonabt/obsidian-tasks.nvim)
 - [nilszeilon/bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/stars/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/bedrock.nvim)
+- [7sedam7/perec.nvim](https://github.com/7sedam7/perec.nvim) ![](https://img.shields.io/github/stars/7sedam7/perec.nvim) ![](https://img.shields.io/github/last-commit/7sedam7/perec.nvim) ![](https://img.shields.io/github/commit-activity/y/7sedam7/perec.nvim)
 
 ## nb
 

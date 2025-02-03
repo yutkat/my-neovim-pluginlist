@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Music](#music)
+  * [sapf](#sapf)
   * [Apple music](#apple-music)
   * [Tidal](#tidal)
     + [MIDI](#midi)
@@ -30,6 +31,10 @@
 - [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
 - [alexxGmZ/player.nvim](https://github.com/alexxGmZ/player.nvim) ![](https://img.shields.io/github/stars/alexxGmZ/player.nvim) ![](https://img.shields.io/github/last-commit/alexxGmZ/player.nvim) ![](https://img.shields.io/github/commit-activity/y/alexxGmZ/player.nvim)
 - [aroario2003/neomusic.nvim](https://github.com/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/stars/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/last-commit/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/commit-activity/y/aroario2003/neomusic.nvim)
+
+### sapf
+
+- [vasilymilovidov/sapf.nvim](https://github.com/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/stars/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/last-commit/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/commit-activity/y/vasilymilovidov/sapf.nvim)
 
 ### Apple music
 

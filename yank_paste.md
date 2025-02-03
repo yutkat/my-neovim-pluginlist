@@ -8,6 +8,7 @@
   * [remove indent](#remove-indent)
   * [URL](#url)
   * [Buffer](#buffer)
+  * [Path](#path)
   * [Register Selector](#register-selector)
   * [Edit Register](#edit-register)
   * [Lock Register](#lock-register)
@@ -68,6 +69,9 @@
 
 - [hesiod-au/bufclip.nvim](https://github.com/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/stars/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/bufclip.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/bufclip.nvim)
 
+### Path
+
+- [tolluset/yankpath.nvim](https://github.com/tolluset/yankpath.nvim) ![](https://img.shields.io/github/stars/tolluset/yankpath.nvim) ![](https://img.shields.io/github/last-commit/tolluset/yankpath.nvim) ![](https://img.shields.io/github/commit-activity/y/tolluset/yankpath.nvim)
 
 ### Register Selector
 
