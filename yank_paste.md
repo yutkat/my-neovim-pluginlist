@@ -46,6 +46,7 @@
 - [gcmt/regtee.nvim](https://github.com/gcmt/regtee.nvim) ![](https://img.shields.io/github/stars/gcmt/regtee.nvim) ![](https://img.shields.io/github/last-commit/gcmt/regtee.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/regtee.nvim)
 - [kushaldas/pastewindow.nvim](https://github.com/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/stars/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/last-commit/kushaldas/pastewindow.nvim) ![](https://img.shields.io/github/commit-activity/y/kushaldas/pastewindow.nvim)
 - [swaits/universal-clipboard.nvim](https://github.com/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/stars/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/last-commit/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/universal-clipboard.nvim)
+- [YounesElhjouji/nvim-copy](https://github.com/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/stars/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/last-commit/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/commit-activity/y/YounesElhjouji/nvim-copy)
 
 ### yank highlight
 

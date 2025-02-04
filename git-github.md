@@ -400,6 +400,7 @@
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) ![](https://img.shields.io/github/stars/daliusd/ghlite.nvim) ![](https://img.shields.io/github/last-commit/daliusd/ghlite.nvim) ![](https://img.shields.io/github/commit-activity/y/daliusd/ghlite.nvim)
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
+- [tkuramot/go-to-pr.nvim](https://github.com/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/stars/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/last-commit/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/tkuramot/go-to-pr.nvim)
 
 ### Pull Request Comment
 

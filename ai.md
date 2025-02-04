@@ -51,6 +51,7 @@
 - [RAG](#rag)
 - [Integration](#integration)
   * [Linkup](#linkup)
+  * [Gennie CLI](#gennie-cli)
 
 <!-- tocstop -->
 
@@ -107,6 +108,7 @@
 - [iovdin/tune.nvim](https://github.com/iovdin/tune.nvim) ![](https://img.shields.io/github/stars/iovdin/tune.nvim) ![](https://img.shields.io/github/last-commit/iovdin/tune.nvim) ![](https://img.shields.io/github/commit-activity/y/iovdin/tune.nvim)
 - [josiahdenton/copilot-chat-context.nvim](https://github.com/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/stars/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/copilot-chat-context.nvim)
 - [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
+- [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
 
 #### log
 
@@ -148,6 +150,7 @@
 - [silveiralexf/nvim-modelmate](https://github.com/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/stars/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/last-commit/silveiralexf/nvim-modelmate) ![](https://img.shields.io/github/commit-activity/y/silveiralexf/nvim-modelmate)
 - [davidyz/vectorcode](https://github.com/davidyz/vectorcode) ![](https://img.shields.io/github/stars/davidyz/vectorcode) ![](https://img.shields.io/github/last-commit/davidyz/vectorcode) ![](https://img.shields.io/github/commit-activity/y/davidyz/vectorcode)
 - [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
+- [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
 
 #### mods
 
@@ -389,3 +392,7 @@
 ### Linkup
 
 - [cjumel/linkup.nvim](https://github.com/cjumel/linkup.nvim) ![](https://img.shields.io/github/stars/cjumel/linkup.nvim) ![](https://img.shields.io/github/last-commit/cjumel/linkup.nvim) ![](https://img.shields.io/github/commit-activity/y/cjumel/linkup.nvim)
+
+### Gennie CLI
+
+- [robertoseba/gennie.nvim](https://github.com/robertoseba/gennie.nvim) ![](https://img.shields.io/github/stars/robertoseba/gennie.nvim) ![](https://img.shields.io/github/last-commit/robertoseba/gennie.nvim) ![](https://img.shields.io/github/commit-activity/y/robertoseba/gennie.nvim)
