@@ -25,3 +25,4 @@
 ### Match
 
 - [wurli/visimatch.nvim](https://github.com/wurli/visimatch.nvim) ![](https://img.shields.io/github/stars/wurli/visimatch.nvim) ![](https://img.shields.io/github/last-commit/wurli/visimatch.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/visimatch.nvim)
+- [hahaharry10/focus.nvim](https://github.com/hahaharry10/focus.nvim) ![](https://img.shields.io/github/stars/hahaharry10/focus.nvim) ![](https://img.shields.io/github/last-commit/hahaharry10/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/hahaharry10/focus.nvim)
