@@ -87,6 +87,7 @@
 - [qdiaps/nvim-template](https://github.com/qdiaps/nvim-template) ![](https://img.shields.io/github/stars/qdiaps/nvim-template) ![](https://img.shields.io/github/last-commit/qdiaps/nvim-template) ![](https://img.shields.io/github/commit-activity/y/qdiaps/nvim-template)
 - [yamazhen/autotemplate.nvim](https://github.com/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/stars/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/autotemplate.nvim)
 - [arkochan/boil.nvim](https://github.com/arkochan/boil.nvim) ![](https://img.shields.io/github/stars/arkochan/boil.nvim) ![](https://img.shields.io/github/last-commit/arkochan/boil.nvim) ![](https://img.shields.io/github/commit-activity/y/arkochan/boil.nvim)
+- [yebt/stencil.nvim](https://github.com/yebt/stencil.nvim) ![](https://img.shields.io/github/stars/yebt/stencil.nvim) ![](https://img.shields.io/github/last-commit/yebt/stencil.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/stencil.nvim)
 
 #### README
 

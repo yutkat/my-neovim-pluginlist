@@ -121,6 +121,7 @@
 - [airpods69/yagp.nvim](https://github.com/airpods69/yagp.nvim) ![](https://img.shields.io/github/stars/airpods69/yagp.nvim) ![](https://img.shields.io/github/last-commit/airpods69/yagp.nvim) ![](https://img.shields.io/github/commit-activity/y/airpods69/yagp.nvim)
 - [meinside/gemini.nvim](https://github.com/meinside/gemini.nvim) ![](https://img.shields.io/github/stars/meinside/gemini.nvim) ![](https://img.shields.io/github/last-commit/meinside/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/gemini.nvim)
 - [maheshbansod/ai.nvim](https://github.com/maheshbansod/ai.nvim) ![](https://img.shields.io/github/stars/maheshbansod/ai.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/ai.nvim)
+- [NagaPranavN/pranavllm.nvim](https://github.com/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/stars/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/last-commit/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/commit-activity/y/NagaPranavN/pranavllm.nvim)
 
 ### Multi LLM
 
@@ -151,6 +152,7 @@
 - [davidyz/vectorcode](https://github.com/davidyz/vectorcode) ![](https://img.shields.io/github/stars/davidyz/vectorcode) ![](https://img.shields.io/github/last-commit/davidyz/vectorcode) ![](https://img.shields.io/github/commit-activity/y/davidyz/vectorcode)
 - [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
 - [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
+- [junaydb/dingllm.nvim](https://github.com/junaydb/dingllm.nvim) ![](https://img.shields.io/github/stars/junaydb/dingllm.nvim) ![](https://img.shields.io/github/last-commit/junaydb/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/junaydb/dingllm.nvim)
 
 #### mods
 
