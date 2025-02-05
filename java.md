@@ -48,6 +48,7 @@
 ### Debugger
 
 - [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
+- [noion/jstacktrace.nvim](https://github.com/noion/jstacktrace.nvim) ![](https://img.shields.io/github/stars/noion/jstacktrace.nvim) ![](https://img.shields.io/github/last-commit/noion/jstacktrace.nvim) ![](https://img.shields.io/github/commit-activity/y/noion/jstacktrace.nvim)
 
 ### Test
 

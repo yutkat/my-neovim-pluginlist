@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-- [Analytics](#analytics)
+- [Neovim Usage Analytics](#neovim-usage-analytics)
   * [Coding time](#coding-time)
     + [Timewarrior](#timewarrior)
     + [ActivityWatch](#activitywatch)
@@ -15,7 +15,7 @@
 
 <!-- tocstop -->
 
-## Analytics
+## Neovim Usage Analytics
 
 - [diego-rapoport/wt.nvim](https://github.com/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/stars/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/last-commit/diego-rapoport/wt.nvim) ![](https://img.shields.io/github/commit-activity/y/diego-rapoport/wt.nvim)
 - [rohanorton/mytime.nvim](https://github.com/rohanorton/mytime.nvim) ![](https://img.shields.io/github/stars/rohanorton/mytime.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/mytime.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/mytime.nvim)
@@ -37,6 +37,7 @@
 - [QuentinGruber/timespent.nvim](https://github.com/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/stars/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/last-commit/QuentinGruber/timespent.nvim) ![](https://img.shields.io/github/commit-activity/y/QuentinGruber/timespent.nvim)
 - [piperinnshall/count.nvim](https://github.com/piperinnshall/count.nvim) ![](https://img.shields.io/github/stars/piperinnshall/count.nvim) ![](https://img.shields.io/github/last-commit/piperinnshall/count.nvim) ![](https://img.shields.io/github/commit-activity/y/piperinnshall/count.nvim)
 - [boatnoah/neowrapped.nvim](https://github.com/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/stars/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/last-commit/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/boatnoah/neowrapped.nvim)
+- [lnus/stalker.nvim](https://github.com/lnus/stalker.nvim) ![](https://img.shields.io/github/stars/lnus/stalker.nvim) ![](https://img.shields.io/github/last-commit/lnus/stalker.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/stalker.nvim)
 
 ### Coding time
 
