@@ -19,7 +19,6 @@
   * [greptile](#greptile)
   * [Aider](#aider)
   * [Otter](#otter)
-  * [Gemini](#gemini-1)
   * [CodeGemma](#codegemma)
   * [Mistral](#mistral)
   * [Mentat](#mentat)
@@ -122,6 +121,9 @@
 - [meinside/gemini.nvim](https://github.com/meinside/gemini.nvim) ![](https://img.shields.io/github/stars/meinside/gemini.nvim) ![](https://img.shields.io/github/last-commit/meinside/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/meinside/gemini.nvim)
 - [maheshbansod/ai.nvim](https://github.com/maheshbansod/ai.nvim) ![](https://img.shields.io/github/stars/maheshbansod/ai.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/ai.nvim)
 - [NagaPranavN/pranavllm.nvim](https://github.com/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/stars/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/last-commit/NagaPranavN/pranavllm.nvim) ![](https://img.shields.io/github/commit-activity/y/NagaPranavN/pranavllm.nvim)
+- [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
+- [agusnt/askGemini.nvim](https://github.com/agusnt/askGemini.nvim) ![](https://img.shields.io/github/stars/agusnt/askGemini.nvim) ![](https://img.shields.io/github/last-commit/agusnt/askGemini.nvim) ![](https://img.shields.io/github/commit-activity/y/agusnt/askGemini.nvim)
+- [Euro20179/nvim-gemini](https://github.com/Euro20179/nvim-gemini) ![](https://img.shields.io/github/stars/Euro20179/nvim-gemini) ![](https://img.shields.io/github/last-commit/Euro20179/nvim-gemini) ![](https://img.shields.io/github/commit-activity/y/Euro20179/nvim-gemini)
 
 ### Multi LLM
 
@@ -247,12 +249,6 @@
 ### Otter
 
 - [jmbuhr/otter.nvim](https://github.com/jmbuhr/otter.nvim) ![](https://img.shields.io/github/stars/jmbuhr/otter.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/otter.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/otter.nvim)
-
-### Gemini
-
-- [martineausimon/nvim-bard](https://github.com/martineausimon/nvim-bard) ![](https://img.shields.io/github/stars/martineausimon/nvim-bard) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-bard) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-bard)
-- [agusnt/askGemini.nvim](https://github.com/agusnt/askGemini.nvim) ![](https://img.shields.io/github/stars/agusnt/askGemini.nvim) ![](https://img.shields.io/github/last-commit/agusnt/askGemini.nvim) ![](https://img.shields.io/github/commit-activity/y/agusnt/askGemini.nvim)
-- [Euro20179/nvim-gemini](https://github.com/Euro20179/nvim-gemini) ![](https://img.shields.io/github/stars/Euro20179/nvim-gemini) ![](https://img.shields.io/github/last-commit/Euro20179/nvim-gemini) ![](https://img.shields.io/github/commit-activity/y/Euro20179/nvim-gemini)
 
 ### CodeGemma
 
