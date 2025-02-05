@@ -7,6 +7,7 @@
   * [rename](#rename)
   * [method](#method)
   * [Debugger](#debugger)
+    + [Stacktrace](#stacktrace)
   * [Test](#test)
   * [Maven](#maven)
   * [Gradle](#gradle)
@@ -29,7 +30,6 @@
 - [alienman5k/jdecomp.nvim](https://github.com/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/stars/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/last-commit/alienman5k/jdecomp.nvim) ![](https://img.shields.io/github/commit-activity/y/alienman5k/jdecomp.nvim)
 - [nvim-java/nvim-java-core](https://github.com/nvim-java/nvim-java-core) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-core) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-core) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-core)
 - [codegik/nvim-unused](https://github.com/codegik/nvim-unused) ![](https://img.shields.io/github/stars/codegik/nvim-unused) ![](https://img.shields.io/github/last-commit/codegik/nvim-unused) ![](https://img.shields.io/github/commit-activity/y/codegik/nvim-unused)
-- [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ![](https://img.shields.io/github/stars/nvim-java/nvim-java) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java)
 - [andreluisos/nvim-jpagenie](https://github.com/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/stars/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/last-commit/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/commit-activity/y/andreluisos/nvim-jpagenie)
 
@@ -48,6 +48,10 @@
 ### Debugger
 
 - [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
+
+#### Stacktrace
+
+- [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
 - [noion/jstacktrace.nvim](https://github.com/noion/jstacktrace.nvim) ![](https://img.shields.io/github/stars/noion/jstacktrace.nvim) ![](https://img.shields.io/github/last-commit/noion/jstacktrace.nvim) ![](https://img.shields.io/github/commit-activity/y/noion/jstacktrace.nvim)
 
 ### Test
