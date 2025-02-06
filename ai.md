@@ -51,6 +51,7 @@
 - [Integration](#integration)
   * [Linkup](#linkup)
   * [Gennie CLI](#gennie-cli)
+  * [llmcat](#llmcat)
 
 <!-- tocstop -->
 
@@ -394,3 +395,8 @@
 ### Gennie CLI
 
 - [robertoseba/gennie.nvim](https://github.com/robertoseba/gennie.nvim) ![](https://img.shields.io/github/stars/robertoseba/gennie.nvim) ![](https://img.shields.io/github/last-commit/robertoseba/gennie.nvim) ![](https://img.shields.io/github/commit-activity/y/robertoseba/gennie.nvim)
+
+### llmcat
+
+- [doganarif/llmcat.nvim](https://github.com/doganarif/llmcat.nvim) ![](https://img.shields.io/github/stars/doganarif/llmcat.nvim) ![](https://img.shields.io/github/last-commit/doganarif/llmcat.nvim) ![](https://img.shields.io/github/commit-activity/y/doganarif/llmcat.nvim)
+

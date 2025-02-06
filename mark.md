@@ -28,6 +28,8 @@
 - [gabrielfruet/mint.nvim](https://github.com/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/mint.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/mint.nvim)
 - [nicholasxjy/snipe-marks.nvim](https://github.com/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/snipe-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/snipe-marks.nvim)
 - [mgierada/marker.nvim](https://github.com/mgierada/marker.nvim) ![](https://img.shields.io/github/stars/mgierada/marker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/marker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/marker.nvim)
+- [winter233/neomark.nvim](https://github.com/winter233/neomark.nvim) ![](https://img.shields.io/github/stars/winter233/neomark.nvim) ![](https://img.shields.io/github/last-commit/winter233/neomark.nvim) ![](https://img.shields.io/github/commit-activity/y/winter233/neomark.nvim)
+- [SearidangPa/blackboard.nvim](https://github.com/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/stars/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/blackboard.nvim)
 
 ### extmark
 
