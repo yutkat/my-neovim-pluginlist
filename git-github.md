@@ -148,6 +148,7 @@
 - [AlejandroSuero/commitizen.nvim](https://github.com/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/commitizen.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/commitizen.nvim)
 - [marzeq/visual-commit.nvim](https://github.com/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/stars/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/last-commit/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/visual-commit.nvim)
 - [JosephPenaQuino/committer.nvim](https://github.com/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/stars/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/last-commit/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/commit-activity/y/JosephPenaQuino/committer.nvim)
+- [ken11/GitComet.nvim](https://github.com/ken11/GitComet.nvim) ![](https://img.shields.io/github/stars/ken11/GitComet.nvim) ![](https://img.shields.io/github/last-commit/ken11/GitComet.nvim) ![](https://img.shields.io/github/commit-activity/y/ken11/GitComet.nvim)
 
 ### prefix(conventional-commits)
 

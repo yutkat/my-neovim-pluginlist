@@ -45,6 +45,7 @@
 - [GZLiew/jsonpath.nvim](https://github.com/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/stars/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/last-commit/GZLiew/jsonpath.nvim) ![](https://img.shields.io/github/commit-activity/y/GZLiew/jsonpath.nvim)
 - [yochem/jq-playground.nvim](https://github.com/yochem/jq-playground.nvim) ![](https://img.shields.io/github/stars/yochem/jq-playground.nvim) ![](https://img.shields.io/github/last-commit/yochem/jq-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jq-playground.nvim)
 - [S1M0N38/chatml.nvim](https://github.com/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/stars/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/chatml.nvim)
+- [virakkhun/flatjson.nvim](https://github.com/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/stars/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/last-commit/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/commit-activity/y/virakkhun/flatjson.nvim)
 
 #### fx
 

@@ -240,6 +240,7 @@
 #### REPL
 
 - [ThenWhenceComethEvil/elixir-repl.nvim](https://github.com/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/stars/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/last-commit/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/ThenWhenceComethEvil/elixir-repl.nvim)
+- [victor23k/iex.nvim](https://github.com/victor23k/iex.nvim) ![](https://img.shields.io/github/stars/victor23k/iex.nvim) ![](https://img.shields.io/github/last-commit/victor23k/iex.nvim) ![](https://img.shields.io/github/commit-activity/y/victor23k/iex.nvim)
 
 ### Haskell
 
