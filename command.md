@@ -51,6 +51,7 @@
 
 - [jghauser/mkdir.nvim](https://github.com/jghauser/mkdir.nvim) ![](https://img.shields.io/github/stars/jghauser/mkdir.nvim) ![](https://img.shields.io/github/last-commit/jghauser/mkdir.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/mkdir.nvim)
 - [mateuszwieloch/automkdir.nvim](https://github.com/mateuszwieloch/automkdir.nvim) ![](https://img.shields.io/github/stars/mateuszwieloch/automkdir.nvim) ![](https://img.shields.io/github/last-commit/mateuszwieloch/automkdir.nvim) ![](https://img.shields.io/github/commit-activity/y/mateuszwieloch/automkdir.nvim)
+- [pvfm/makedir.nvim](https://github.com/pvfm/makedir.nvim) ![](https://img.shields.io/github/stars/pvfm/makedir.nvim) ![](https://img.shields.io/github/last-commit/pvfm/makedir.nvim) ![](https://img.shields.io/github/commit-activity/y/pvfm/makedir.nvim)
 
 ### sort
 

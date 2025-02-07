@@ -74,6 +74,7 @@
 - [schillermann/nvim-jest-terminal](https://github.com/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/stars/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/last-commit/schillermann/nvim-jest-terminal) ![](https://img.shields.io/github/commit-activity/y/schillermann/nvim-jest-terminal)
 - [n0bukai/tterm.nvim](https://github.com/n0bukai/tterm.nvim) ![](https://img.shields.io/github/stars/n0bukai/tterm.nvim) ![](https://img.shields.io/github/last-commit/n0bukai/tterm.nvim) ![](https://img.shields.io/github/commit-activity/y/n0bukai/tterm.nvim)
 - [J-Me-2307/terminalis.nvim](https://github.com/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/stars/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/last-commit/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/commit-activity/y/J-Me-2307/terminalis.nvim)
+- [kennytheeggman/embterm.nvim](https://github.com/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/stars/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/last-commit/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/commit-activity/y/kennytheeggman/embterm.nvim)
 
 ### Open
 

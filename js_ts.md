@@ -227,6 +227,7 @@
 ### refactor
   
 - [ianjkaplan/shrub.nvim](https://github.com/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/shrub.nvim)
+- [ArielBenichou/grosse-patate.nvim](https://github.com/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/stars/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/last-commit/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/commit-activity/y/ArielBenichou/grosse-patate.nvim)
 
 ## HTML
 

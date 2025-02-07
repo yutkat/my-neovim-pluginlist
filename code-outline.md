@@ -30,10 +30,12 @@
 - [jeroldhu/symbols-outline.nvim](https://github.com/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/stars/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroldhu/symbols-outline.nvim)
 - [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
+- [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
 
 ### Definition
 
 - [FelipeJz/code-peek.nvim](https://github.com/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/stars/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/code-peek.nvim)
+- [byzf/hoversplit.nvim](https://github.com/byzf/hoversplit.nvim) ![](https://img.shields.io/github/stars/byzf/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/byzf/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/byzf/hoversplit.nvim)
 
 ### Call Hierarchy
 

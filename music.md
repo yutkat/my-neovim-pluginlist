@@ -35,6 +35,7 @@
 ### sapf
 
 - [vasilymilovidov/sapf.nvim](https://github.com/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/stars/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/last-commit/vasilymilovidov/sapf.nvim) ![](https://img.shields.io/github/commit-activity/y/vasilymilovidov/sapf.nvim)
+- [salkin-mada/sapf.nvim](https://github.com/salkin-mada/sapf.nvim) ![](https://img.shields.io/github/stars/salkin-mada/sapf.nvim) ![](https://img.shields.io/github/last-commit/salkin-mada/sapf.nvim) ![](https://img.shields.io/github/commit-activity/y/salkin-mada/sapf.nvim)
 
 ### Apple music
 

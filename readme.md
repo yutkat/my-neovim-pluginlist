@@ -359,6 +359,7 @@
 - [debugloop/telescope-undo.nvim](https://github.com/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/stars/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/last-commit/debugloop/telescope-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/debugloop/telescope-undo.nvim)
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/stars/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/last-commit/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/highlight-undo.nvim)
 - [aileot/emission.nvim](https://github.com/aileot/emission.nvim) ![](https://img.shields.io/github/stars/aileot/emission.nvim) ![](https://img.shields.io/github/last-commit/aileot/emission.nvim) ![](https://img.shields.io/github/commit-activity/y/aileot/emission.nvim)
+- [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/select-undo.nvim)
 
 ### [Diff](./diff.md)
 
@@ -416,6 +417,7 @@
 ### Environment Variable
 
 - [yohendry/envs.nvim](https://github.com/yohendry/envs.nvim) ![](https://img.shields.io/github/stars/yohendry/envs.nvim) ![](https://img.shields.io/github/last-commit/yohendry/envs.nvim) ![](https://img.shields.io/github/commit-activity/y/yohendry/envs.nvim)
+- [Alexandersfg4/environment.nvim](https://github.com/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/stars/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/environment.nvim)
 
 ### Errorformat
 

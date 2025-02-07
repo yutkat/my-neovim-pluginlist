@@ -47,6 +47,7 @@
 - [doter0/workflow.nvim](https://github.com/doter0/workflow.nvim) ![](https://img.shields.io/github/stars/doter0/workflow.nvim) ![](https://img.shields.io/github/last-commit/doter0/workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/doter0/workflow.nvim)
 - [zongben/proot.nvim](https://github.com/zongben/proot.nvim) ![](https://img.shields.io/github/stars/zongben/proot.nvim) ![](https://img.shields.io/github/last-commit/zongben/proot.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/proot.nvim)
 - [DannickBedard/loom.nvim](https://github.com/DannickBedard/loom.nvim) ![](https://img.shields.io/github/stars/DannickBedard/loom.nvim) ![](https://img.shields.io/github/last-commit/DannickBedard/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/DannickBedard/loom.nvim)
+- [Dr-42/project-manager.nvim](https://github.com/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/stars/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/project-manager.nvim)
 
 #### Project Root Detector
 
