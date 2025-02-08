@@ -24,6 +24,7 @@
   * [Track](#track)
   * [youtrack](#youtrack)
   * [Google Docs](#google-docs)
+  * [0x0.st](#0x0st)
   * [Twitch](#twitch)
   * [Spotify](#spotify)
   * [StackOverflow](#stackoverflow)
@@ -169,6 +170,10 @@
 ### Google Docs
 
 - [aadv1k/gdoc.vim](https://github.com/aadv1k/gdoc.vim) ![](https://img.shields.io/github/stars/aadv1k/gdoc.vim) ![](https://img.shields.io/github/last-commit/aadv1k/gdoc.vim) ![](https://img.shields.io/github/commit-activity/y/aadv1k/gdoc.vim)
+
+### 0x0.st
+
+- [LionyxML/nvim-0x0](https://github.com/LionyxML/nvim-0x0) ![](https://img.shields.io/github/stars/LionyxML/nvim-0x0) ![](https://img.shields.io/github/last-commit/LionyxML/nvim-0x0) ![](https://img.shields.io/github/commit-activity/y/LionyxML/nvim-0x0)
 
 ### Twitch
 

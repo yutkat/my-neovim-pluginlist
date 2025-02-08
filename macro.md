@@ -22,6 +22,7 @@
 - [alexjercan/macros.nvim](https://github.com/alexjercan/macros.nvim) ![](https://img.shields.io/github/stars/alexjercan/macros.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/macros.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/macros.nvim)
 - [gabriGutiz/termacro.nvim](https://github.com/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/stars/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/last-commit/gabriGutiz/termacro.nvim) ![](https://img.shields.io/github/commit-activity/y/gabriGutiz/termacro.nvim)
 - [maarutan/macro-notify.nvim](https://github.com/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/stars/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/last-commit/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/macro-notify.nvim)
+- [z0rzi/do-at-each.nvim](https://github.com/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/stars/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/do-at-each.nvim)
 
 ### Automatic macro
 

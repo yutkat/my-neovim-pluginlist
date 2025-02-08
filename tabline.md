@@ -18,4 +18,4 @@
 - [TeddyRandby/taboo.nvim](https://github.com/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/stars/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/last-commit/TeddyRandby/taboo.nvim) ![](https://img.shields.io/github/commit-activity/y/TeddyRandby/taboo.nvim)
 - [ecuasonic/elements.nvim](https://github.com/ecuasonic/elements.nvim) ![](https://img.shields.io/github/stars/ecuasonic/elements.nvim) ![](https://img.shields.io/github/last-commit/ecuasonic/elements.nvim) ![](https://img.shields.io/github/commit-activity/y/ecuasonic/elements.nvim)
 - [at2er/simple-tabline.nvim](https://github.com/at2er/simple-tabline.nvim) ![](https://img.shields.io/github/stars/at2er/simple-tabline.nvim) ![](https://img.shields.io/github/last-commit/at2er/simple-tabline.nvim) ![](https://img.shields.io/github/commit-activity/y/at2er/simple-tabline.nvim)
-
+- [daodejing/tabber.nvim](https://github.com/daodejing/tabber.nvim) ![](https://img.shields.io/github/stars/daodejing/tabber.nvim) ![](https://img.shields.io/github/last-commit/daodejing/tabber.nvim) ![](https://img.shields.io/github/commit-activity/y/daodejing/tabber.nvim)

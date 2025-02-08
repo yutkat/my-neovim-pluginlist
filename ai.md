@@ -142,6 +142,7 @@
 - [rwtnb/alpha4.nvim](https://github.com/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/stars/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/last-commit/rwtnb/alpha4.nvim) ![](https://img.shields.io/github/commit-activity/y/rwtnb/alpha4.nvim)
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) ![](https://img.shields.io/github/stars/yetone/avante.nvim) ![](https://img.shields.io/github/last-commit/yetone/avante.nvim) ![](https://img.shields.io/github/commit-activity/y/yetone/avante.nvim)
   - [takeshiD/avante-status.nvim](https://github.com/takeshiD/avante-status.nvim) ![](https://img.shields.io/github/stars/takeshiD/avante-status.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/avante-status.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/avante-status.nvim)
+  - [oleksiiluchnikov/telescope-avante.nvim](https://github.com/oleksiiluchnikov/telescope-avante.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-avante.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-avante.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-avante.nvim)
 - [magicalne/nvim.ai](https://github.com/magicalne/nvim.ai) ![](https://img.shields.io/github/stars/magicalne/nvim.ai) ![](https://img.shields.io/github/last-commit/magicalne/nvim.ai) ![](https://img.shields.io/github/commit-activity/y/magicalne/nvim.ai)
 - [dreamtrail/gp.nvim](https://github.com/dreamtrail/gp.nvim) ![](https://img.shields.io/github/stars/dreamtrail/gp.nvim) ![](https://img.shields.io/github/last-commit/dreamtrail/gp.nvim) ![](https://img.shields.io/github/commit-activity/y/dreamtrail/gp.nvim)
   - [undg/telescope-gp-agent-picker.nvim](https://github.com/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/stars/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/undg/telescope-gp-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/undg/telescope-gp-agent-picker.nvim)
@@ -156,6 +157,7 @@
 - [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
 - [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
 - [junaydb/dingllm.nvim](https://github.com/junaydb/dingllm.nvim) ![](https://img.shields.io/github/stars/junaydb/dingllm.nvim) ![](https://img.shields.io/github/last-commit/junaydb/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/junaydb/dingllm.nvim)
+- [NSalberg/llm.nvim](https://github.com/NSalberg/llm.nvim) ![](https://img.shields.io/github/stars/NSalberg/llm.nvim) ![](https://img.shields.io/github/last-commit/NSalberg/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/NSalberg/llm.nvim)
 
 #### mods
 

@@ -90,6 +90,7 @@
 - [ndom91/freeze.nvim](https://github.com/ndom91/freeze.nvim) ![](https://img.shields.io/github/stars/ndom91/freeze.nvim) ![](https://img.shields.io/github/last-commit/ndom91/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/ndom91/freeze.nvim)
 - [kenielf/silicon.nvim](https://github.com/kenielf/silicon.nvim) ![](https://img.shields.io/github/stars/kenielf/silicon.nvim) ![](https://img.shields.io/github/last-commit/kenielf/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/kenielf/silicon.nvim)
 - [jkellogg01/freeze.nvim](https://github.com/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/stars/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/last-commit/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/jkellogg01/freeze.nvim)
+- [4DRIAN0RTIZ/code_printer.nvim](https://github.com/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/code_printer.nvim)
 
 ### SVG
 
