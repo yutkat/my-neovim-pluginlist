@@ -360,6 +360,7 @@
 - [tzachar/highlight-undo.nvim](https://github.com/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/stars/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/last-commit/tzachar/highlight-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/tzachar/highlight-undo.nvim)
 - [aileot/emission.nvim](https://github.com/aileot/emission.nvim) ![](https://img.shields.io/github/stars/aileot/emission.nvim) ![](https://img.shields.io/github/last-commit/aileot/emission.nvim) ![](https://img.shields.io/github/commit-activity/y/aileot/emission.nvim)
 - [SunnyTamang/select-undo.nvim](https://github.com/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/select-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/select-undo.nvim)
+- [mvllow/session-undo.nvim](https://github.com/mvllow/session-undo.nvim) ![](https://img.shields.io/github/stars/mvllow/session-undo.nvim) ![](https://img.shields.io/github/last-commit/mvllow/session-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/session-undo.nvim)
 
 ### [Diff](./diff.md)
 

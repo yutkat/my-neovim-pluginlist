@@ -212,6 +212,7 @@
 - [denstiny/styledoc.nvim](https://github.com/denstiny/styledoc.nvim) ![](https://img.shields.io/github/stars/denstiny/styledoc.nvim) ![](https://img.shields.io/github/last-commit/denstiny/styledoc.nvim) ![](https://img.shields.io/github/commit-activity/y/denstiny/styledoc.nvim)
 - [hustuhao/markdown-codeblock-format.nvim](https://github.com/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/stars/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/last-commit/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/commit-activity/y/hustuhao/markdown-codeblock-format.nvim)
 - [chutipascal/org_to_md.nvim](https://github.com/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/stars/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/last-commit/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/commit-activity/y/chutipascal/org_to_md.nvim)
+- [lnus/fencey.nvim](https://github.com/lnus/fencey.nvim) ![](https://img.shields.io/github/stars/lnus/fencey.nvim) ![](https://img.shields.io/github/last-commit/lnus/fencey.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/fencey.nvim)
 
 #### Markdown table
 

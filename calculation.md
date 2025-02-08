@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Calculation](#calculation)
+  * [Time](#time)
 
 <!-- tocstop -->
 
@@ -17,3 +18,8 @@
 - [tobias-walle/quickmath.nvim](https://github.com/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/stars/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/last-commit/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-walle/quickmath.nvim)
 - [isaeldiaz/calc.nvim](https://github.com/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/stars/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/last-commit/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/isaeldiaz/calc.nvim)
 - [22ispencer/calc.nvim](https://github.com/22ispencer/calc.nvim) ![](https://img.shields.io/github/stars/22ispencer/calc.nvim) ![](https://img.shields.io/github/last-commit/22ispencer/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/22ispencer/calc.nvim)
+
+### Time
+
+- [Ask-786/time-calculator.nvim](https://github.com/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/stars/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/time-calculator.nvim)
+
