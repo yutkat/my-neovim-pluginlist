@@ -35,6 +35,7 @@
 - [machichima/image-wezterm-tmux.nvim](https://github.com/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/stars/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/last-commit/machichima/image-wezterm-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/machichima/image-wezterm-tmux.nvim)
 - [NeoSahadeo/image-preview.nvim](https://github.com/NeoSahadeo/image-preview.nvim) ![](https://img.shields.io/github/stars/NeoSahadeo/image-preview.nvim) ![](https://img.shields.io/github/last-commit/NeoSahadeo/image-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoSahadeo/image-preview.nvim)
 - [SylvanFranklin/omni-preview.nvim](https://github.com/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/stars/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/last-commit/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SylvanFranklin/omni-preview.nvim)
+- [Skardyy/neo-img](https://github.com/Skardyy/neo-img) ![](https://img.shields.io/github/stars/Skardyy/neo-img) ![](https://img.shields.io/github/last-commit/Skardyy/neo-img) ![](https://img.shields.io/github/commit-activity/y/Skardyy/neo-img)
 
 ### Image Magick
 
