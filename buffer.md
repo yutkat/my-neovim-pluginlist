@@ -69,6 +69,7 @@
 - [spiperac/buffhunter.nvim](https://github.com/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/stars/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/last-commit/spiperac/buffhunter.nvim) ![](https://img.shields.io/github/commit-activity/y/spiperac/buffhunter.nvim)
 - [dangooddd/chosen.nvim](https://github.com/dangooddd/chosen.nvim) ![](https://img.shields.io/github/stars/dangooddd/chosen.nvim) ![](https://img.shields.io/github/last-commit/dangooddd/chosen.nvim) ![](https://img.shields.io/github/commit-activity/y/dangooddd/chosen.nvim)
 - [Yao-Xinchen/preview-buffer.nvim](https://github.com/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/stars/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/last-commit/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/Yao-Xinchen/preview-buffer.nvim)
+- [wojciech-kulik/filenav.nvim](https://github.com/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/filenav.nvim)
 
 ### Other Buffer Switcher
 

@@ -72,6 +72,7 @@
 - [kivattt/fen.nvim](https://github.com/kivattt/fen.nvim) ![](https://img.shields.io/github/stars/kivattt/fen.nvim) ![](https://img.shields.io/github/last-commit/kivattt/fen.nvim) ![](https://img.shields.io/github/commit-activity/y/kivattt/fen.nvim)
 - [hoaian412003/nvim-ducky](https://github.com/hoaian412003/nvim-ducky) ![](https://img.shields.io/github/stars/hoaian412003/nvim-ducky) ![](https://img.shields.io/github/last-commit/hoaian412003/nvim-ducky) ![](https://img.shields.io/github/commit-activity/y/hoaian412003/nvim-ducky)
 - [kkkkkhuang/simple-tree.nvim](https://github.com/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/stars/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/last-commit/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/kkkkkhuang/simple-tree.nvim)
+- [JanneSalokoski/olive.nvim](https://github.com/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/stars/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/last-commit/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/commit-activity/y/JanneSalokoski/olive.nvim)
 
 ## gx
 

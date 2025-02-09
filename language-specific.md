@@ -625,6 +625,7 @@
 - [dragfire/leetup.nvim](https://github.com/dragfire/leetup.nvim) ![](https://img.shields.io/github/stars/dragfire/leetup.nvim) ![](https://img.shields.io/github/last-commit/dragfire/leetup.nvim) ![](https://img.shields.io/github/commit-activity/y/dragfire/leetup.nvim)
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
 - [cjon256/dsa.nvim](https://github.com/cjon256/dsa.nvim) ![](https://img.shields.io/github/stars/cjon256/dsa.nvim) ![](https://img.shields.io/github/last-commit/cjon256/dsa.nvim) ![](https://img.shields.io/github/commit-activity/y/cjon256/dsa.nvim)
+- [ZicorXXIX/leetcode.nvim](https://github.com/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/stars/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/last-commit/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/ZicorXXIX/leetcode.nvim)
 
 ## AtCoder
 
