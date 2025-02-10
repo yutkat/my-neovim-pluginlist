@@ -80,4 +80,5 @@
 ### CCSDS
 
 - [rogueWookie/ccsds-hdr.nvim](https://github.com/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/rogueWookie/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/rogueWookie/ccsds-hdr.nvim)
+- [shaneyost/ccsds-hdr.nvim](https://github.com/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneyost/ccsds-hdr.nvim)
 

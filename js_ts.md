@@ -205,6 +205,7 @@
 - [maxolasersquad/npm-scripts.nvim](https://github.com/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/stars/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/last-commit/maxolasersquad/npm-scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/maxolasersquad/npm-scripts.nvim)
 - [antonk52/npm_scripts.nvim](https://github.com/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/stars/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/last-commit/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/npm_scripts.nvim)
 - [danitrap/version-lens.nvim](https://github.com/danitrap/version-lens.nvim) ![](https://img.shields.io/github/stars/danitrap/version-lens.nvim) ![](https://img.shields.io/github/last-commit/danitrap/version-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/danitrap/version-lens.nvim)
+- [MerryChaos/package-versions.nvim](https://github.com/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/stars/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/last-commit/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/commit-activity/y/MerryChaos/package-versions.nvim)
 
 #### pnpm
 

@@ -44,6 +44,7 @@
 - [Error Fix Support](#error-fix-support)
 - [OpenAI Review](#openai-review)
 - [Documentation](#documentation)
+- [REPL](#repl)
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
 - [Copy File Context](#copy-file-context)
@@ -207,6 +208,7 @@
 - [hmunye/llama.nvim](https://github.com/hmunye/llama.nvim) ![](https://img.shields.io/github/stars/hmunye/llama.nvim) ![](https://img.shields.io/github/last-commit/hmunye/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/llama.nvim)
 - [hadleyhzy34/ollama_popup.nvim](https://github.com/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/stars/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/last-commit/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/commit-activity/y/hadleyhzy34/ollama_popup.nvim)
 - [jasper-clarke/collama.nvim](https://github.com/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/stars/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/last-commit/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/jasper-clarke/collama.nvim)
+- [TangerineGlacier/nvim-tangerine](https://github.com/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/stars/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/last-commit/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/commit-activity/y/TangerineGlacier/nvim-tangerine)
 
 ### Claude
 
@@ -371,6 +373,11 @@
 ## Documentation
 
 - [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
+- [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
+
+## REPL
+
+- [dan-amoroso/llm-repl.nvim](https://github.com/dan-amoroso/llm-repl.nvim) ![](https://img.shields.io/github/stars/dan-amoroso/llm-repl.nvim) ![](https://img.shields.io/github/last-commit/dan-amoroso/llm-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/dan-amoroso/llm-repl.nvim)
 
 ## Writefull
 

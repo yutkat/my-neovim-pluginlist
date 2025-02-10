@@ -140,6 +140,7 @@
 - [steven-dyson/todo-finder.nvim](https://github.com/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/stars/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/last-commit/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/steven-dyson/todo-finder.nvim)
 - [cche/todo-txt.nvim](https://github.com/cche/todo-txt.nvim) ![](https://img.shields.io/github/stars/cche/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/cche/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/cche/todo-txt.nvim)
 - [toddhainsworth/todos.nvim](https://github.com/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/stars/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/last-commit/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/toddhainsworth/todos.nvim)
+- [TrippW/todo.nvim](https://github.com/TrippW/todo.nvim) ![](https://img.shields.io/github/stars/TrippW/todo.nvim) ![](https://img.shields.io/github/last-commit/TrippW/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TrippW/todo.nvim)
 
 ### Taskwarrior
 
