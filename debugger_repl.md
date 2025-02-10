@@ -85,6 +85,7 @@
 - [conig/nvim-slimetree](https://github.com/conig/nvim-slimetree) ![](https://img.shields.io/github/stars/conig/nvim-slimetree) ![](https://img.shields.io/github/last-commit/conig/nvim-slimetree) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-slimetree)
 - [human-d3v/term-repl.nvim](https://github.com/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/stars/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/term-repl.nvim)
 - [brianhuster/snipexec.nvim](https://github.com/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/stars/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/snipexec.nvim)
+- [yimuchen/tmux-repl.nvim](https://github.com/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/stars/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/last-commit/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/yimuchen/tmux-repl.nvim)
 
 ### Refactoring,Debugging
 

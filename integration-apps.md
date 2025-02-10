@@ -218,6 +218,7 @@
 - [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) ![](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![](https://img.shields.io/github/last-commit/RAprogramm/nekifoch) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/nekifoch)
 - [NeViRAIDE/nekifoch.nvim](https://github.com/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/nekifoch.nvim)
 - [9quock/kitty_preview.nvim](https://github.com/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/stars/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/last-commit/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/9quock/kitty_preview.nvim)
+- [Toprun123/PicVim](https://github.com/Toprun123/PicVim) ![](https://img.shields.io/github/stars/Toprun123/PicVim) ![](https://img.shields.io/github/last-commit/Toprun123/PicVim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/PicVim)
 
 ##### Image
 
@@ -326,6 +327,7 @@
 - [dan-nicholls/azure-cli.nvim](https://github.com/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/stars/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/last-commit/dan-nicholls/azure-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dan-nicholls/azure-cli.nvim)
 - [Willem-J-an/adopure.nvim](https://github.com/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/adopure.nvim)
 - [zachbuchli/azcli.nvim](https://github.com/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/stars/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/azcli.nvim)
+- [jawee/azuredo.nvim](https://github.com/jawee/azuredo.nvim) ![](https://img.shields.io/github/stars/jawee/azuredo.nvim) ![](https://img.shields.io/github/last-commit/jawee/azuredo.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/azuredo.nvim)
 
 #### Adobe
 
