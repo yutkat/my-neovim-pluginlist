@@ -38,6 +38,7 @@
 - [piperinnshall/count.nvim](https://github.com/piperinnshall/count.nvim) ![](https://img.shields.io/github/stars/piperinnshall/count.nvim) ![](https://img.shields.io/github/last-commit/piperinnshall/count.nvim) ![](https://img.shields.io/github/commit-activity/y/piperinnshall/count.nvim)
 - [boatnoah/neowrapped.nvim](https://github.com/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/stars/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/last-commit/boatnoah/neowrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/boatnoah/neowrapped.nvim)
 - [lnus/stalker.nvim](https://github.com/lnus/stalker.nvim) ![](https://img.shields.io/github/stars/lnus/stalker.nvim) ![](https://img.shields.io/github/last-commit/lnus/stalker.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/stalker.nvim)
+- [mr-voluntas/nvim-trackage](https://github.com/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/stars/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/last-commit/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/commit-activity/y/mr-voluntas/nvim-trackage)
 
 ### Coding time
 

@@ -114,6 +114,7 @@
 - [darrell-pittman/wgc-run.nvim](https://github.com/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-run.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-run.nvim)
 - [maarutan/betterRun.nvim](https://github.com/maarutan/betterRun.nvim) ![](https://img.shields.io/github/stars/maarutan/betterRun.nvim) ![](https://img.shields.io/github/last-commit/maarutan/betterRun.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/betterRun.nvim)
 - [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/stars/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/last-commit/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/commit-activity/y/gitpushjoe/zuzu.nvim)
+- [edlandm/holster.nvim](https://github.com/edlandm/holster.nvim) ![](https://img.shields.io/github/stars/edlandm/holster.nvim) ![](https://img.shields.io/github/last-commit/edlandm/holster.nvim) ![](https://img.shields.io/github/commit-activity/y/edlandm/holster.nvim)
 
 ### Shell
 
