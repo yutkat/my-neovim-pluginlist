@@ -88,7 +88,6 @@
 - [jaredmontoya/bikey.nvim](https://github.com/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/stars/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/last-commit/jaredmontoya/bikey.nvim) ![](https://img.shields.io/github/commit-activity/y/jaredmontoya/bikey.nvim)
 - [fullpipe/xkbswitch.nvim](https://github.com/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/stars/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/last-commit/fullpipe/xkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/fullpipe/xkbswitch.nvim)
 - [MahdiGMK/keymap-switch.nvim](https://github.com/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/stars/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/last-commit/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/MahdiGMK/keymap-switch.nvim)
-- [sarahkarfagen/nvim-sixty](https://github.com/sarahkarfagen/nvim-sixty) ![](https://img.shields.io/github/stars/sarahkarfagen/nvim-sixty) ![](https://img.shields.io/github/last-commit/sarahkarfagen/nvim-sixty) ![](https://img.shields.io/github/commit-activity/y/sarahkarfagen/nvim-sixty)
 - [MatanyaP/keyboard-guard.nvim](https://github.com/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/stars/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/last-commit/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/MatanyaP/keyboard-guard.nvim)
 
 #### Virtual Keyboard

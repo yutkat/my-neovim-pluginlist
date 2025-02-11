@@ -87,5 +87,4 @@
 
 ### s
 
-- [Meqr1/s.nvim](https://github.com/Meqr1/s.nvim) ![](https://img.shields.io/github/stars/Meqr1/s.nvim) ![](https://img.shields.io/github/last-commit/Meqr1/s.nvim) ![](https://img.shields.io/github/commit-activity/y/Meqr1/s.nvim)
 

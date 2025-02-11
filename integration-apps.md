@@ -217,7 +217,6 @@
 - [MunsMan/kitty-navigator.nvim](https://github.com/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/stars/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/last-commit/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/MunsMan/kitty-navigator.nvim)
 - [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) ![](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![](https://img.shields.io/github/last-commit/RAprogramm/nekifoch) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/nekifoch)
 - [NeViRAIDE/nekifoch.nvim](https://github.com/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/nekifoch.nvim)
-- [9quock/kitty_preview.nvim](https://github.com/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/stars/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/last-commit/9quock/kitty_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/9quock/kitty_preview.nvim)
 - [Toprun123/PicVim](https://github.com/Toprun123/PicVim) ![](https://img.shields.io/github/stars/Toprun123/PicVim) ![](https://img.shields.io/github/last-commit/Toprun123/PicVim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/PicVim)
 
 ##### Image
