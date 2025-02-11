@@ -66,6 +66,7 @@
 - [grezxune/zettel.nvim](https://github.com/grezxune/zettel.nvim) ![](https://img.shields.io/github/stars/grezxune/zettel.nvim) ![](https://img.shields.io/github/last-commit/grezxune/zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/grezxune/zettel.nvim)
 - [HaradaKazunari/nvim-zettelnote](https://github.com/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/stars/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/last-commit/HaradaKazunari/nvim-zettelnote) ![](https://img.shields.io/github/commit-activity/y/HaradaKazunari/nvim-zettelnote)
 - [lentilus/xk.nvim](https://github.com/lentilus/xk.nvim) ![](https://img.shields.io/github/stars/lentilus/xk.nvim) ![](https://img.shields.io/github/last-commit/lentilus/xk.nvim) ![](https://img.shields.io/github/commit-activity/y/lentilus/xk.nvim)
+- [willem66745/notitiebak.nvim](https://github.com/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/stars/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/last-commit/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/commit-activity/y/willem66745/notitiebak.nvim)
 
 ## Markdown
 

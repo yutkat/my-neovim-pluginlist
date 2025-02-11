@@ -343,6 +343,7 @@
 - [KanesAccount/lazysf.nvim](https://github.com/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/stars/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/last-commit/KanesAccount/lazysf.nvim) ![](https://img.shields.io/github/commit-activity/y/KanesAccount/lazysf.nvim)
 - [julihermes/sfm-focus.nvim](https://github.com/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/stars/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/last-commit/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/julihermes/sfm-focus.nvim)
 - [xixiaofinland/sf.nvim](https://github.com/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sf.nvim)
+- [clavery/nvim-sfcc](https://github.com/clavery/nvim-sfcc) ![](https://img.shields.io/github/stars/clavery/nvim-sfcc) ![](https://img.shields.io/github/last-commit/clavery/nvim-sfcc) ![](https://img.shields.io/github/commit-activity/y/clavery/nvim-sfcc)
 
 #### Odoo
 
