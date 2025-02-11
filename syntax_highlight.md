@@ -229,7 +229,6 @@
 
 ### Edit highlight
 
-- [iguanacucumber/highlight-actions.nvim](https://github.com/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/stars/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/last-commit/iguanacucumber/highlight-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/iguanacucumber/highlight-actions.nvim)
 
 ### Error highlight
 
