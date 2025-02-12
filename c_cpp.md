@@ -186,6 +186,7 @@
 ## Linux kernel development
 
 - [Daparrag/Linux-sty-pluging.nvim](https://github.com/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/stars/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/last-commit/Daparrag/Linux-sty-pluging.nvim) ![](https://img.shields.io/github/commit-activity/y/Daparrag/Linux-sty-pluging.nvim)
+- [ldelossa/kbrowse.nvim](https://github.com/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/stars/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/kbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/kbrowse.nvim)
 
 ## Norminette
 
