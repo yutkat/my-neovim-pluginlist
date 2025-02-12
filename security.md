@@ -9,6 +9,7 @@
 - [GPG](#gpg)
 - [Sigma rule](#sigma-rule)
 - [Vulnerability test](#vulnerability-test)
+- [Solana](#solana)
 
 <!-- tocstop -->
 
@@ -54,3 +55,7 @@
 ### Vulnerability test
 
 - [propilideno/vulntest.nvim](https://github.com/propilideno/vulntest.nvim) ![](https://img.shields.io/github/stars/propilideno/vulntest.nvim) ![](https://img.shields.io/github/last-commit/propilideno/vulntest.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/vulntest.nvim)
+
+### Solana
+
+- [johnsaigle/solana-radar.nvim](https://github.com/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/stars/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/solana-radar.nvim)

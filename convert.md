@@ -76,6 +76,7 @@
 - [paytonward6/base64.nvim](https://github.com/paytonward6/base64.nvim) ![](https://img.shields.io/github/stars/paytonward6/base64.nvim) ![](https://img.shields.io/github/last-commit/paytonward6/base64.nvim) ![](https://img.shields.io/github/commit-activity/y/paytonward6/base64.nvim)
 - [thangeshbabu/based64.nvim](https://github.com/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/stars/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/last-commit/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/commit-activity/y/thangeshbabu/based64.nvim)
 - [SirAppSec/hacker-helper.nvim](https://github.com/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/stars/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/last-commit/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/SirAppSec/hacker-helper.nvim)
+- [klausnitzer/nvim-base64-tools](https://github.com/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/stars/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/last-commit/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/commit-activity/y/klausnitzer/nvim-base64-tools)
 
 ### Number
 

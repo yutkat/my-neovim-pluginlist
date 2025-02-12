@@ -13,6 +13,7 @@
   * [Game](#game)
     + [Tetris](#tetris)
     + [Mine Sweeper](#mine-sweeper)
+    + [Sudoku](#sudoku)
     + [Typing](#typing)
     + [FiveM](#fivem)
     + [World of Warcraft](#world-of-warcraft)
@@ -113,6 +114,10 @@
 ### Mine Sweeper
 
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
+
+### Sudoku
+
+- [svenbergner/sudokusolver.nvim](https://github.com/svenbergner/sudokusolver.nvim) ![](https://img.shields.io/github/stars/svenbergner/sudokusolver.nvim) ![](https://img.shields.io/github/last-commit/svenbergner/sudokusolver.nvim) ![](https://img.shields.io/github/commit-activity/y/svenbergner/sudokusolver.nvim)
 
 ### Typing
 
