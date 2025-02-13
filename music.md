@@ -30,6 +30,7 @@
 - [cmus-enjoyers/cmus.nvim](https://github.com/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/stars/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/last-commit/cmus-enjoyers/cmus.nvim) ![](https://img.shields.io/github/commit-activity/y/cmus-enjoyers/cmus.nvim)
 - [alexxGmZ/player.nvim](https://github.com/alexxGmZ/player.nvim) ![](https://img.shields.io/github/stars/alexxGmZ/player.nvim) ![](https://img.shields.io/github/last-commit/alexxGmZ/player.nvim) ![](https://img.shields.io/github/commit-activity/y/alexxGmZ/player.nvim)
 - [aroario2003/neomusic.nvim](https://github.com/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/stars/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/last-commit/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/commit-activity/y/aroario2003/neomusic.nvim)
+- [Matchiye/noisemachine.nvim](https://github.com/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/stars/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/last-commit/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/Matchiye/noisemachine.nvim)
 
 ### sapf
 
@@ -40,6 +41,7 @@
 
 - [p5quared/apple-music.nvim](https://github.com/p5quared/apple-music.nvim) ![](https://img.shields.io/github/stars/p5quared/apple-music.nvim) ![](https://img.shields.io/github/last-commit/p5quared/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/p5quared/apple-music.nvim)
 - [Vilos92/media-controls.nvim](https://github.com/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/stars/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/last-commit/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/Vilos92/media-controls.nvim)
+- [NoamFav/apple_music.nvim](https://github.com/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/stars/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/last-commit/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/commit-activity/y/NoamFav/apple_music.nvim)
 
 ### Tidal
 

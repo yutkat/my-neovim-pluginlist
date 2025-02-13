@@ -46,6 +46,7 @@
 - [yochem/jq-playground.nvim](https://github.com/yochem/jq-playground.nvim) ![](https://img.shields.io/github/stars/yochem/jq-playground.nvim) ![](https://img.shields.io/github/last-commit/yochem/jq-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jq-playground.nvim)
 - [S1M0N38/chatml.nvim](https://github.com/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/stars/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/chatml.nvim)
 - [virakkhun/flatjson.nvim](https://github.com/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/stars/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/last-commit/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/commit-activity/y/virakkhun/flatjson.nvim)
+- [Ask-786/json-to-ts.nvim](https://github.com/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/stars/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/json-to-ts.nvim)
 
 #### fx
 
