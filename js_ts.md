@@ -239,6 +239,7 @@
 - [pigoz/nvim-ruby-css](https://github.com/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/stars/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/last-commit/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/commit-activity/y/pigoz/nvim-ruby-css)
 - [catgoose/eddie.nvim](https://github.com/catgoose/eddie.nvim) ![](https://img.shields.io/github/stars/catgoose/eddie.nvim) ![](https://img.shields.io/github/last-commit/catgoose/eddie.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/eddie.nvim)js
 - [neo451/treedoc.nvim](https://github.com/neo451/treedoc.nvim) ![](https://img.shields.io/github/stars/neo451/treedoc.nvim) ![](https://img.shields.io/github/last-commit/neo451/treedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/treedoc.nvim)
+- [BarriosXJavier/tag-replacer.nvim](https://github.com/BarriosXJavier/tag-replacer.nvim) ![](https://img.shields.io/github/stars/BarriosXJavier/tag-replacer.nvim) ![](https://img.shields.io/github/last-commit/BarriosXJavier/tag-replacer.nvim) ![](https://img.shields.io/github/commit-activity/y/BarriosXJavier/tag-replacer.nvim)
 
 ### conceal
 

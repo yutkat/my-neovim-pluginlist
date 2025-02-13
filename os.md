@@ -75,6 +75,7 @@
 - [calops/hmts.nvim](https://github.com/calops/hmts.nvim) ![](https://img.shields.io/github/stars/calops/hmts.nvim) ![](https://img.shields.io/github/last-commit/calops/hmts.nvim) ![](https://img.shields.io/github/commit-activity/y/calops/hmts.nvim)
 - [b-src/lazy-nix-helper.nvim](https://github.com/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/stars/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/last-commit/b-src/lazy-nix-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/b-src/lazy-nix-helper.nvim)
 - [redxtech/nix-reaver.nvim](https://github.com/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/stars/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/last-commit/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/commit-activity/y/redxtech/nix-reaver.nvim)
+- [pete3n/nix-prefetch.nvim](https://github.com/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/stars/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/last-commit/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/commit-activity/y/pete3n/nix-prefetch.nvim)
 
 #### drun
 
