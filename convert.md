@@ -54,6 +54,7 @@
 
 - [SR-MyStar/antonym.nvim](https://github.com/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/antonym.nvim)
 - [gczcn/antonym.nvim](https://github.com/gczcn/antonym.nvim) ![](https://img.shields.io/github/stars/gczcn/antonym.nvim) ![](https://img.shields.io/github/last-commit/gczcn/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/gczcn/antonym.nvim)
+- [tigion/nvim-opposites](https://github.com/tigion/nvim-opposites) ![](https://img.shields.io/github/stars/tigion/nvim-opposites) ![](https://img.shields.io/github/last-commit/tigion/nvim-opposites) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-opposites)
 
 ### Quote
 
