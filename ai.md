@@ -126,6 +126,8 @@
 - [agusnt/askGemini.nvim](https://github.com/agusnt/askGemini.nvim) ![](https://img.shields.io/github/stars/agusnt/askGemini.nvim) ![](https://img.shields.io/github/last-commit/agusnt/askGemini.nvim) ![](https://img.shields.io/github/commit-activity/y/agusnt/askGemini.nvim)
 - [Euro20179/nvim-gemini](https://github.com/Euro20179/nvim-gemini) ![](https://img.shields.io/github/stars/Euro20179/nvim-gemini) ![](https://img.shields.io/github/last-commit/Euro20179/nvim-gemini) ![](https://img.shields.io/github/commit-activity/y/Euro20179/nvim-gemini)
 - [Riley1101/gideon.nvim](https://github.com/Riley1101/gideon.nvim) ![](https://img.shields.io/github/stars/Riley1101/gideon.nvim) ![](https://img.shields.io/github/last-commit/Riley1101/gideon.nvim) ![](https://img.shields.io/github/commit-activity/y/Riley1101/gideon.nvim)
+- [leonardo-luz/ai.nvim](https://github.com/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/ai.nvim)
+  - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
 
 ### Multi LLM
 

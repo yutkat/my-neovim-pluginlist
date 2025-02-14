@@ -84,6 +84,7 @@
 - [meatballs/ipynb.nvim](https://github.com/meatballs/ipynb.nvim) ![](https://img.shields.io/github/stars/meatballs/ipynb.nvim) ![](https://img.shields.io/github/last-commit/meatballs/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/meatballs/ipynb.nvim)
 - [Josiah-tan/python-nvim](https://github.com/Josiah-tan/python-nvim) ![](https://img.shields.io/github/stars/Josiah-tan/python-nvim) ![](https://img.shields.io/github/last-commit/Josiah-tan/python-nvim) ![](https://img.shields.io/github/commit-activity/y/Josiah-tan/python-nvim)
 - [garrettkrohn/pyrun.nvim](https://github.com/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/stars/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/last-commit/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/garrettkrohn/pyrun.nvim)
+- [L-P-Lewis/py-snippets.nvim](https://github.com/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/stars/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/last-commit/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/L-P-Lewis/py-snippets.nvim)
 
 ### Debug
 
