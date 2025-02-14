@@ -175,6 +175,7 @@
 - [nilszeilon/bedrock.nvim](https://github.com/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/stars/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/bedrock.nvim)
 - [7sedam7/perec.nvim](https://github.com/7sedam7/perec.nvim) ![](https://img.shields.io/github/stars/7sedam7/perec.nvim) ![](https://img.shields.io/github/last-commit/7sedam7/perec.nvim) ![](https://img.shields.io/github/commit-activity/y/7sedam7/perec.nvim)
 - [micku/telescope-pkm-find-or-create.nvim](https://github.com/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/stars/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/last-commit/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/commit-activity/y/micku/telescope-pkm-find-or-create.nvim)
+- [chrhjoh/obsidian-tools.nvim](https://github.com/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/stars/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/last-commit/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/chrhjoh/obsidian-tools.nvim)
 
 ## nb
 
