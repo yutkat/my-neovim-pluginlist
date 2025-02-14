@@ -7,6 +7,7 @@
   * [Visual](#visual)
   * [Submode](#submode)
   * [Parinfer](#parinfer)
+  * [Helix selection mode](#helix-selection-mode)
 
 <!-- tocstop -->
 
@@ -40,3 +41,7 @@
 ### Parinfer
 
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) ![](https://img.shields.io/github/stars/gpanders/nvim-parinfer) ![](https://img.shields.io/github/last-commit/gpanders/nvim-parinfer) ![](https://img.shields.io/github/commit-activity/y/gpanders/nvim-parinfer)
+
+### Helix selection mode
+
+- [luiscassih/AniMotion.nvim](https://github.com/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/stars/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/last-commit/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/luiscassih/AniMotion.nvim)
