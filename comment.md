@@ -42,6 +42,7 @@
 - [h-cow/nvim-cow-commenter](https://github.com/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/stars/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/last-commit/h-cow/nvim-cow-commenter) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-cow-commenter)
 - [tj-moody/nucomment.nvim](https://github.com/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/stars/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/last-commit/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/commit-activity/y/tj-moody/nucomment.nvim)
 - [OliverHeffernan/comments.nvim](https://github.com/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/stars/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/last-commit/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverHeffernan/comments.nvim)
+- [Rainfxxk/comment.nvim](https://github.com/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/comment.nvim)
 
 ### CommentString
 

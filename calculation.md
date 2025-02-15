@@ -18,6 +18,7 @@
 - [tobias-walle/quickmath.nvim](https://github.com/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/stars/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/last-commit/tobias-walle/quickmath.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-walle/quickmath.nvim)
 - [isaeldiaz/calc.nvim](https://github.com/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/stars/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/last-commit/isaeldiaz/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/isaeldiaz/calc.nvim)
 - [22ispencer/calc.nvim](https://github.com/22ispencer/calc.nvim) ![](https://img.shields.io/github/stars/22ispencer/calc.nvim) ![](https://img.shields.io/github/last-commit/22ispencer/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/22ispencer/calc.nvim)
+- [josephburgess/nvumi](https://github.com/josephburgess/nvumi) ![](https://img.shields.io/github/stars/josephburgess/nvumi) ![](https://img.shields.io/github/last-commit/josephburgess/nvumi) ![](https://img.shields.io/github/commit-activity/y/josephburgess/nvumi)
 
 ### Time
 
