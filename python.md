@@ -56,6 +56,7 @@
 
 - [haolian9/fstr.nvim](https://github.com/haolian9/fstr.nvim) ![](https://img.shields.io/github/stars/haolian9/fstr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fstr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fstr.nvim)
 - [stefanlogue/auto-fstring.nvim](https://github.com/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/stars/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/auto-fstring.nvim)
+- [amitkot/printformat.nvim](https://github.com/amitkot/printformat.nvim) ![](https://img.shields.io/github/stars/amitkot/printformat.nvim) ![](https://img.shields.io/github/last-commit/amitkot/printformat.nvim) ![](https://img.shields.io/github/commit-activity/y/amitkot/printformat.nvim)
 
 ### test
 

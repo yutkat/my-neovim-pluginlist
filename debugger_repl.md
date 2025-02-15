@@ -59,6 +59,7 @@
 - [theHamsta/nvim-dap-commands](https://github.com/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/stars/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/last-commit/theHamsta/nvim-dap-commands) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim-dap-commands)
 - [pathmann/nvim-dap-project-configuration](https://github.com/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/stars/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/last-commit/pathmann/nvim-dap-project-configuration) ![](https://img.shields.io/github/commit-activity/y/pathmann/nvim-dap-project-configuration)
 - [igorlfs/nvim-dap-view](https://github.com/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/stars/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/last-commit/igorlfs/nvim-dap-view) ![](https://img.shields.io/github/commit-activity/y/igorlfs/nvim-dap-view)
+- [VanyaDNDZ/nvim-dap-bazel-go](https://github.com/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/stars/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/last-commit/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/commit-activity/y/VanyaDNDZ/nvim-dap-bazel-go)
 
 #### Launch.json
 

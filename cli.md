@@ -39,6 +39,7 @@
   * [global](#global)
   * [tldr](#tldr)
   * [cheat.sh](#cheatsh)
+  * [htop](#htop)
   * [dotfiles](#dotfiles)
     + [chezmoi](#chezmoi)
     + [stow](#stow)
@@ -97,6 +98,7 @@
 - [gassayping/tmux-peek.nvim](https://github.com/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/stars/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/last-commit/gassayping/tmux-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/gassayping/tmux-peek.nvim)
 - [itakatz/tmux_commands.nvim](https://github.com/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/stars/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/last-commit/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/commit-activity/y/itakatz/tmux_commands.nvim)
 - [anoopkcn/split-jump.nvim](https://github.com/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/stars/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/split-jump.nvim)
+- [cjodo/nvim-tms](https://github.com/cjodo/nvim-tms) ![](https://img.shields.io/github/stars/cjodo/nvim-tms) ![](https://img.shields.io/github/last-commit/cjodo/nvim-tms) ![](https://img.shields.io/github/commit-activity/y/cjodo/nvim-tms)
 
 ##### tmux alternative
 
@@ -311,6 +313,10 @@
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
 - [nedelcu-ioan/ned-chtsh.nvim](https://github.com/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/stars/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/last-commit/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/commit-activity/y/nedelcu-ioan/ned-chtsh.nvim)
+
+#### htop
+
+- [idossha/htop.nvim](https://github.com/idossha/htop.nvim) ![](https://img.shields.io/github/stars/idossha/htop.nvim) ![](https://img.shields.io/github/last-commit/idossha/htop.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/htop.nvim)
 
 #### dotfiles
 

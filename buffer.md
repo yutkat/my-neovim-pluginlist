@@ -71,6 +71,7 @@
 - [Yao-Xinchen/preview-buffer.nvim](https://github.com/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/stars/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/last-commit/Yao-Xinchen/preview-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/Yao-Xinchen/preview-buffer.nvim)
 - [wojciech-kulik/filenav.nvim](https://github.com/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/filenav.nvim)
 - [majamin/buffy.nvim](https://github.com/majamin/buffy.nvim) ![](https://img.shields.io/github/stars/majamin/buffy.nvim) ![](https://img.shields.io/github/last-commit/majamin/buffy.nvim) ![](https://img.shields.io/github/commit-activity/y/majamin/buffy.nvim)
+- [benzhou1/buf_switcher.nvim](https://github.com/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/stars/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/last-commit/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/benzhou1/buf_switcher.nvim)
 
 ### Other Buffer Switcher
 
