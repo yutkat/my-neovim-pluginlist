@@ -18,6 +18,7 @@
   * [JetBrains](#jetbrains)
   * [Zed](#zed)
   * [Desktop Integration](#desktop-integration)
+  * [Blockchain](#blockchain)
 - [Development environment](#development-environment)
   * [Shell](#shell)
     + [bash](#bash)
@@ -167,6 +168,10 @@
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/auto-dark-mode.nvim)
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/stars/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/last-commit/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/notifications.nvim)
+
+### Blockchain
+
+- [neanvo/buben.nvim](https://github.com/neanvo/buben.nvim) ![](https://img.shields.io/github/stars/neanvo/buben.nvim) ![](https://img.shields.io/github/last-commit/neanvo/buben.nvim) ![](https://img.shields.io/github/commit-activity/y/neanvo/buben.nvim)
 
 ## Development environment
 
