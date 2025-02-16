@@ -64,6 +64,7 @@
       - [Alire](#alire)
     + [Moonscript](#moonscript)
     + [Haxe](#haxe)
+    + [Coralogix dataprime](#coralogix-dataprime)
     + [Kind](#kind)
     + [K](#k)
     + [Scheme](#scheme)
@@ -423,6 +424,10 @@
 ### Haxe
 
 - [noriapi/select-hxml.nvim](https://github.com/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/stars/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/last-commit/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/commit-activity/y/noriapi/select-hxml.nvim)
+
+### Coralogix dataprime
+
+- [smrtrfszm/dataprime.nvim](https://github.com/smrtrfszm/dataprime.nvim) ![](https://img.shields.io/github/stars/smrtrfszm/dataprime.nvim) ![](https://img.shields.io/github/last-commit/smrtrfszm/dataprime.nvim) ![](https://img.shields.io/github/commit-activity/y/smrtrfszm/dataprime.nvim)
 
 ### Kind
 

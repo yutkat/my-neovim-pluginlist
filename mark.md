@@ -30,6 +30,7 @@
 - [mgierada/marker.nvim](https://github.com/mgierada/marker.nvim) ![](https://img.shields.io/github/stars/mgierada/marker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/marker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/marker.nvim)
 - [winter233/neomark.nvim](https://github.com/winter233/neomark.nvim) ![](https://img.shields.io/github/stars/winter233/neomark.nvim) ![](https://img.shields.io/github/last-commit/winter233/neomark.nvim) ![](https://img.shields.io/github/commit-activity/y/winter233/neomark.nvim)
 - [SearidangPa/blackboard.nvim](https://github.com/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/stars/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/blackboard.nvim)
+- [mohseenrm/marko.nvim](https://github.com/mohseenrm/marko.nvim) ![](https://img.shields.io/github/stars/mohseenrm/marko.nvim) ![](https://img.shields.io/github/last-commit/mohseenrm/marko.nvim) ![](https://img.shields.io/github/commit-activity/y/mohseenrm/marko.nvim)
 
 ### extmark
 
