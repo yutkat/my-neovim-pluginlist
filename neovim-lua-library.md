@@ -176,7 +176,6 @@
 
 ### vim.ui.select/vim.ui.input
 
-- [stevearc/dressing.nvim](https://github.com/stevearc/dressing.nvim) ![](https://img.shields.io/github/stars/stevearc/dressing.nvim) ![](https://img.shields.io/github/last-commit/stevearc/dressing.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/dressing.nvim)
 - [doums/suit.nvim](https://github.com/doums/suit.nvim) ![](https://img.shields.io/github/stars/doums/suit.nvim) ![](https://img.shields.io/github/last-commit/doums/suit.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/suit.nvim)
 - [hood/popui.nvim](https://github.com/hood/popui.nvim) ![](https://img.shields.io/github/stars/hood/popui.nvim) ![](https://img.shields.io/github/last-commit/hood/popui.nvim) ![](https://img.shields.io/github/commit-activity/y/hood/popui.nvim)
 - [mfussenegger/nvim-qwahl](https://github.com/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/stars/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-qwahl) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-qwahl)

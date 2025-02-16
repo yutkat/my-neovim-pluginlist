@@ -263,7 +263,6 @@
 
 #### Debug
 
-- [Diltsman/nvim-lsp-debug](https://github.com/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/stars/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/last-commit/Diltsman/nvim-lsp-debug) ![](https://img.shields.io/github/commit-activity/y/Diltsman/nvim-lsp-debug)
 
 #### LSP Info
 
