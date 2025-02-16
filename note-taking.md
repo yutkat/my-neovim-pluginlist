@@ -10,6 +10,7 @@
     + [Taskwarrior](#taskwarrior)
   * [Obsidian](#obsidian)
   * [nb](#nb)
+  * [Zeppelin](#zeppelin)
   * [Blog](#blog)
     + [Hugo](#hugo)
   * [Google Keep](#google-keep)
@@ -180,6 +181,10 @@
 ## nb
 
 - [shoebox/nb.nvim](https://github.com/shoebox/nb.nvim) ![](https://img.shields.io/github/stars/shoebox/nb.nvim) ![](https://img.shields.io/github/last-commit/shoebox/nb.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/nb.nvim)
+
+## Zeppelin
+
+- [mihneamanolache/zeppelin.nvim](https://github.com/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/stars/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/last-commit/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/commit-activity/y/mihneamanolache/zeppelin.nvim)
 
 ## Blog
 

@@ -252,6 +252,7 @@
 - [irohn/wormhole.nvim](https://github.com/irohn/wormhole.nvim) ![](https://img.shields.io/github/stars/irohn/wormhole.nvim) ![](https://img.shields.io/github/last-commit/irohn/wormhole.nvim) ![](https://img.shields.io/github/commit-activity/y/irohn/wormhole.nvim)
 - [BrightXiaoHan/nvim-trzsz](https://github.com/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/stars/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/last-commit/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/commit-activity/y/BrightXiaoHan/nvim-trzsz)
 - [epheien/conn-manager.nvim](https://github.com/epheien/conn-manager.nvim) ![](https://img.shields.io/github/stars/epheien/conn-manager.nvim) ![](https://img.shields.io/github/last-commit/epheien/conn-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/conn-manager.nvim)
+- [UpHillSolutions-roberth/nvim-ssh](https://github.com/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/stars/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/last-commit/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/commit-activity/y/UpHillSolutions-roberth/nvim-ssh)
 
 #### ftp
 
