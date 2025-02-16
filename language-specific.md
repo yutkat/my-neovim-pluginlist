@@ -135,6 +135,7 @@
 - [bfredl/nvim-zigclient](https://github.com/bfredl/nvim-zigclient) ![](https://img.shields.io/github/stars/bfredl/nvim-zigclient) ![](https://img.shields.io/github/last-commit/bfredl/nvim-zigclient) ![](https://img.shields.io/github/commit-activity/y/bfredl/nvim-zigclient)
 - [speed2exe/zig-comp-diag.nvim](https://github.com/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/stars/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/last-commit/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/commit-activity/y/speed2exe/zig-comp-diag.nvim)
 - [Libsod/zig-tools.nvim](https://github.com/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/stars/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Libsod/zig-tools.nvim)
+- [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/stars/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/last-commit/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/zig-lamp)
 
 ### Nix
 
