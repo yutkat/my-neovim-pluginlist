@@ -20,6 +20,7 @@
   * [Aider](#aider)
   * [Otter](#otter)
   * [CodeGemma](#codegemma)
+  * [Goose](#goose)
   * [Mistral](#mistral)
   * [Mentat](#mentat)
   * [Worker AI](#worker-ai)
@@ -260,6 +261,10 @@
 ### CodeGemma
 
 - [dorage/ppp.nvim](https://github.com/dorage/ppp.nvim) ![](https://img.shields.io/github/stars/dorage/ppp.nvim) ![](https://img.shields.io/github/last-commit/dorage/ppp.nvim) ![](https://img.shields.io/github/commit-activity/y/dorage/ppp.nvim)
+
+### Goose
+
+- [thefux/gooseai.nvim](https://github.com/thefux/gooseai.nvim) ![](https://img.shields.io/github/stars/thefux/gooseai.nvim) ![](https://img.shields.io/github/last-commit/thefux/gooseai.nvim) ![](https://img.shields.io/github/commit-activity/y/thefux/gooseai.nvim)
 
 ### Mistral
 

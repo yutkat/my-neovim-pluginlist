@@ -115,6 +115,7 @@
 - [mboyov/pane-resizer.nvim](https://github.com/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/stars/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/last-commit/mboyov/pane-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/mboyov/pane-resizer.nvim)
 - [maarutan/splitResizer.nvim](https://github.com/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/stars/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/last-commit/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/splitResizer.nvim)
 - [Kaiser-Yang/win-resizer.nvim](https://github.com/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/win-resizer.nvim)
+- [ian-howell/ripple.nvim](https://github.com/ian-howell/ripple.nvim) ![](https://img.shields.io/github/stars/ian-howell/ripple.nvim) ![](https://img.shields.io/github/last-commit/ian-howell/ripple.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-howell/ripple.nvim)
 
 #### maximize
 

@@ -101,6 +101,7 @@
 
 - [Snikimonkd/cmp-go-pkgs](https://github.com/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/stars/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/last-commit/Snikimonkd/cmp-go-pkgs) ![](https://img.shields.io/github/commit-activity/y/Snikimonkd/cmp-go-pkgs)
 - [sukhjit/go-pkgs-check.nvim](https://github.com/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/stars/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/last-commit/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/commit-activity/y/sukhjit/go-pkgs-check.nvim)
+- [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/godoc.nvim)
 
 ### import
 

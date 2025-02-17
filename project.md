@@ -48,6 +48,7 @@
 - [zongben/proot.nvim](https://github.com/zongben/proot.nvim) ![](https://img.shields.io/github/stars/zongben/proot.nvim) ![](https://img.shields.io/github/last-commit/zongben/proot.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/proot.nvim)
 - [DannickBedard/loom.nvim](https://github.com/DannickBedard/loom.nvim) ![](https://img.shields.io/github/stars/DannickBedard/loom.nvim) ![](https://img.shields.io/github/last-commit/DannickBedard/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/DannickBedard/loom.nvim)
 - [Dr-42/project-manager.nvim](https://github.com/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/stars/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/project-manager.nvim)
+- [jarrodb/projectile.nvim](https://github.com/jarrodb/projectile.nvim) ![](https://img.shields.io/github/stars/jarrodb/projectile.nvim) ![](https://img.shields.io/github/last-commit/jarrodb/projectile.nvim) ![](https://img.shields.io/github/commit-activity/y/jarrodb/projectile.nvim)
 
 #### Project Root Detector
 
