@@ -47,6 +47,7 @@
   * [Align](#align)
   * [TextObject, Operator](#textobject-operator)
   * [Parenthetical edit](#parenthetical-edit)
+  * [Edit Prediction](#edit-prediction)
   * [Large file](#large-file)
   * [Misc](#misc)
 - [Other Standard Feature Enhancement](#other-standard-feature-enhancement)
@@ -311,6 +312,10 @@
 
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
   - [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
+
+### Edit Prediction
+
+- [boltlessengineer/zeta.nvim](https://github.com/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/zeta.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/zeta.nvim)
 
 ### Large file
 
