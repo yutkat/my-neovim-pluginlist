@@ -15,6 +15,7 @@
   * [Line Number](#line-number)
   * [OSC52](#osc52)
   * [System Clipboard](#system-clipboard)
+    + [Clipper](#clipper)
   * [Save](#save)
 - [Paste](#paste)
   * [Wise paste](#wise-paste)
@@ -113,6 +114,10 @@
 ### System Clipboard
 
 - [haphamdev/copier.nvim](https://github.com/haphamdev/copier.nvim) ![](https://img.shields.io/github/stars/haphamdev/copier.nvim) ![](https://img.shields.io/github/last-commit/haphamdev/copier.nvim) ![](https://img.shields.io/github/commit-activity/y/haphamdev/copier.nvim)
+
+#### Clipper
+
+- [wincent/nvim-clipper](https://github.com/wincent/nvim-clipper) ![](https://img.shields.io/github/stars/wincent/nvim-clipper) ![](https://img.shields.io/github/last-commit/wincent/nvim-clipper) ![](https://img.shields.io/github/commit-activity/y/wincent/nvim-clipper)
 
 ### Save
 

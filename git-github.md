@@ -259,6 +259,7 @@
 - [pv-hernandez/conflict-juggler.nvim](https://github.com/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/stars/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/last-commit/pv-hernandez/conflict-juggler.nvim) ![](https://img.shields.io/github/commit-activity/y/pv-hernandez/conflict-juggler.nvim)
 - [youguanxinqing/git-conflicts.nvim](https://github.com/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/git-conflicts.nvim)
 - [Tronikelis/conflict-marker.nvim](https://github.com/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/stars/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/conflict-marker.nvim)
+- [isaksamsten/conflicting.nvim](https://github.com/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/stars/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/last-commit/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/commit-activity/y/isaksamsten/conflicting.nvim)
 
 ## git pull
 
