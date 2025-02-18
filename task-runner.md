@@ -159,6 +159,7 @@
 - [castlele/build.nvim](https://github.com/castlele/build.nvim) ![](https://img.shields.io/github/stars/castlele/build.nvim) ![](https://img.shields.io/github/last-commit/castlele/build.nvim) ![](https://img.shields.io/github/commit-activity/y/castlele/build.nvim)
 - [joalon/easyexec.nvim](https://github.com/joalon/easyexec.nvim) ![](https://img.shields.io/github/stars/joalon/easyexec.nvim) ![](https://img.shields.io/github/last-commit/joalon/easyexec.nvim) ![](https://img.shields.io/github/commit-activity/y/joalon/easyexec.nvim)
 - [nexcov/compile-mode.nvim](https://github.com/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/stars/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/nexcov/compile-mode.nvim)
+- [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
 
 ## Auto detect style
 

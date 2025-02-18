@@ -4,6 +4,7 @@
 
 - [Directory](#directory)
   * [cd(change directory)](#cdchange-directory)
+  * [zoxide](#zoxide)
   * [z](#z)
   * [CWD](#cwd)
 
@@ -25,6 +26,10 @@
 - [juliuswaldmann/here.nvim](https://github.com/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/stars/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/last-commit/juliuswaldmann/here.nvim) ![](https://img.shields.io/github/commit-activity/y/juliuswaldmann/here.nvim)
 - [j--c/cwd.nvim](https://github.com/j--c/cwd.nvim) ![](https://img.shields.io/github/stars/j--c/cwd.nvim) ![](https://img.shields.io/github/last-commit/j--c/cwd.nvim) ![](https://img.shields.io/github/commit-activity/y/j--c/cwd.nvim)
 - [gw31415/root.nvim](https://github.com/gw31415/root.nvim) ![](https://img.shields.io/github/stars/gw31415/root.nvim) ![](https://img.shields.io/github/last-commit/gw31415/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/root.nvim)
+
+### zoxide
+
+- [alfaix/nvim-zoxide](https://github.com/alfaix/nvim-zoxide) ![](https://img.shields.io/github/stars/alfaix/nvim-zoxide) ![](https://img.shields.io/github/last-commit/alfaix/nvim-zoxide) ![](https://img.shields.io/github/commit-activity/y/alfaix/nvim-zoxide)
 
 ### z
 

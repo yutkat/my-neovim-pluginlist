@@ -94,6 +94,7 @@
 - [LampsaDev/HAE.nvim](https://github.com/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/stars/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/last-commit/LampsaDev/HAE.nvim) ![](https://img.shields.io/github/commit-activity/y/LampsaDev/HAE.nvim)
 - [KaitoMuraoka/websearcher.nvim](https://github.com/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/stars/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/last-commit/KaitoMuraoka/websearcher.nvim) ![](https://img.shields.io/github/commit-activity/y/KaitoMuraoka/websearcher.nvim)
 - [mei28/weview.nvim](https://github.com/mei28/weview.nvim) ![](https://img.shields.io/github/stars/mei28/weview.nvim) ![](https://img.shields.io/github/last-commit/mei28/weview.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/weview.nvim)
+- [Menh1505/browser.nvim](https://github.com/Menh1505/browser.nvim) ![](https://img.shields.io/github/stars/Menh1505/browser.nvim) ![](https://img.shields.io/github/last-commit/Menh1505/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/Menh1505/browser.nvim)
 
 #### url open
 
@@ -239,6 +240,7 @@
 - [ianhomer/wezterm.nvim](https://github.com/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/stars/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/last-commit/ianhomer/wezterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ianhomer/wezterm.nvim)
 - [kedarmd/nvim-wez-navigator.nvim](https://github.com/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/stars/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/last-commit/kedarmd/nvim-wez-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/kedarmd/nvim-wez-navigator.nvim)
 - [chrhjoh/wezterm-paster.nvim](https://github.com/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/stars/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/last-commit/chrhjoh/wezterm-paster.nvim) ![](https://img.shields.io/github/commit-activity/y/chrhjoh/wezterm-paster.nvim)
+- [relausen/wezterm-support.nvim](https://github.com/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/stars/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/last-commit/relausen/wezterm-support.nvim) ![](https://img.shields.io/github/commit-activity/y/relausen/wezterm-support.nvim)
 
 #### Ghostty
 

@@ -113,6 +113,7 @@
 - [johnsaigle/semgrep-diagnostics.nvim](https://github.com/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/stars/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/semgrep-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/semgrep-diagnostics.nvim)
 - [NickStafford2/copy-diagnostics.nvim](https://github.com/NickStafford2/copy-diagnostics.nvim) ![](https://img.shields.io/github/stars/NickStafford2/copy-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/NickStafford2/copy-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/NickStafford2/copy-diagnostics.nvim)
 - [nikita-voronoy/native-diag.nvim](https://github.com/nikita-voronoy/native-diag.nvim) ![](https://img.shields.io/github/stars/nikita-voronoy/native-diag.nvim) ![](https://img.shields.io/github/last-commit/nikita-voronoy/native-diag.nvim) ![](https://img.shields.io/github/commit-activity/y/nikita-voronoy/native-diag.nvim)
+- [johnsaigle/nvim-diagnostics-template](https://github.com/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/stars/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/last-commit/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/nvim-diagnostics-template)
 
 ##### Diagnostics goto
 
