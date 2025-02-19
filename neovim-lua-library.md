@@ -184,6 +184,7 @@
 - [Axlefublr/dress.nvim](https://github.com/Axlefublr/dress.nvim) ![](https://img.shields.io/github/stars/Axlefublr/dress.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/dress.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/dress.nvim)
 - [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/stars/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/toolbox.nvim)
 - [vi013t/input.nvim](https://github.com/vi013t/input.nvim) ![](https://img.shields.io/github/stars/vi013t/input.nvim) ![](https://img.shields.io/github/last-commit/vi013t/input.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/input.nvim)
+- [mistweaverco/uzuri.nvim](https://github.com/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/stars/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/uzuri.nvim)
 
 ### Popup
 
