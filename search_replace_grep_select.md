@@ -18,7 +18,7 @@
 - [Replace](#replace)
   * [Rename](#rename)
 - [Grep](#grep)
-  * [AST](#ast)
+  * [AST (Semantic search)](#ast-semantic-search)
 - [Select](#select)
   * [Bracket and quote](#bracket-and-quote)
   * [Region info](#region-info)
@@ -171,11 +171,12 @@
 - [wsdjeg/flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/flygrep.nvim)
 - [hsk-kr/licovim.nvim](https://github.com/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/stars/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/last-commit/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/commit-activity/y/hsk-kr/licovim.nvim)
 
-## AST
+## AST (Semantic search)
 
 - [Marskey/telescope-sg](https://github.com/Marskey/telescope-sg) ![](https://img.shields.io/github/stars/Marskey/telescope-sg) ![](https://img.shields.io/github/last-commit/Marskey/telescope-sg) ![](https://img.shields.io/github/commit-activity/y/Marskey/telescope-sg)
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/stars/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/last-commit/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/telescope-ast-grep.nvim)
 - [pratikneupane/nSearch.nvim](https://github.com/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/stars/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/last-commit/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/commit-activity/y/pratikneupane/nSearch.nvim)
+- [newtoallofthis123/goated.nvim](https://github.com/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/stars/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/last-commit/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/commit-activity/y/newtoallofthis123/goated.nvim)
 
 # Select
 

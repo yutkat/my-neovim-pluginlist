@@ -72,6 +72,7 @@
   * [Audio](#audio)
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
+  * [Core dump](#core-dump)
 
 <!-- tocstop -->
 
@@ -448,3 +449,7 @@
 #### LilyPond
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
+
+### Core dump
+
+- [pathmann/stackwalk.nvim](https://github.com/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/stars/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/last-commit/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/pathmann/stackwalk.nvim)

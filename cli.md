@@ -98,6 +98,7 @@
 - [itakatz/tmux_commands.nvim](https://github.com/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/stars/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/last-commit/itakatz/tmux_commands.nvim) ![](https://img.shields.io/github/commit-activity/y/itakatz/tmux_commands.nvim)
 - [anoopkcn/split-jump.nvim](https://github.com/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/stars/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/split-jump.nvim)
 - [cjodo/nvim-tms](https://github.com/cjodo/nvim-tms) ![](https://img.shields.io/github/stars/cjodo/nvim-tms) ![](https://img.shields.io/github/last-commit/cjodo/nvim-tms) ![](https://img.shields.io/github/commit-activity/y/cjodo/nvim-tms)
+- [jawee/tmuxcmd.nvim](https://github.com/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/stars/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/last-commit/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/tmuxcmd.nvim)
 
 ##### tmux alternative
 

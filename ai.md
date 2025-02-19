@@ -33,6 +33,7 @@
   * [Blink AI](#blink-ai)
   * [tgpt](#tgpt)
   * [lsp-ai](#lsp-ai)
+  * [LMStudio](#lmstudio)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
   * [khulnasoft](#khulnasoft)
@@ -316,6 +317,10 @@
 
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/stars/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/lsp-ai.nvim)
 - [amirsalarsafaei/llm-lsp.nvim](https://github.com/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/stars/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/last-commit/amirsalarsafaei/llm-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/amirsalarsafaei/llm-lsp.nvim)
+
+### LMStudio
+
+- [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
 
 ### Machine Learning
 
