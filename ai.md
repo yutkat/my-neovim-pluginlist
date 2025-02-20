@@ -162,6 +162,7 @@
 - [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
 - [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
 - [junaydb/dingllm.nvim](https://github.com/junaydb/dingllm.nvim) ![](https://img.shields.io/github/stars/junaydb/dingllm.nvim) ![](https://img.shields.io/github/last-commit/junaydb/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/junaydb/dingllm.nvim)
+- [oleksiiluchnikov/telescope-prompts.nvim](https://github.com/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-prompts.nvim)
 
 #### mods
 

@@ -44,6 +44,7 @@
 - [s1n7ax/nvim-snips](https://github.com/s1n7ax/nvim-snips) ![](https://img.shields.io/github/stars/s1n7ax/nvim-snips) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-snips) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-snips)
 - [josa42/nvim-snippets](https://github.com/josa42/nvim-snippets) ![](https://img.shields.io/github/stars/josa42/nvim-snippets) ![](https://img.shields.io/github/last-commit/josa42/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-snippets)
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/snips.nvim)
+- [One-In-Dark/luasnippy.nvim](https://github.com/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/stars/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/last-commit/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/commit-activity/y/One-In-Dark/luasnippy.nvim)
 
 #### Snippet converter
 
