@@ -116,6 +116,8 @@
 - [johnsaigle/nvim-diagnostics-template](https://github.com/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/stars/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/last-commit/johnsaigle/nvim-diagnostics-template) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/nvim-diagnostics-template)
 - [caliguIa/zendiagram.nvim](https://github.com/caliguIa/zendiagram.nvim) ![](https://img.shields.io/github/stars/caliguIa/zendiagram.nvim) ![](https://img.shields.io/github/last-commit/caliguIa/zendiagram.nvim) ![](https://img.shields.io/github/commit-activity/y/caliguIa/zendiagram.nvim)
 - [johnsaigle/channelcheck.nvim](https://github.com/johnsaigle/channelcheck.nvim) ![](https://img.shields.io/github/stars/johnsaigle/channelcheck.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/channelcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/channelcheck.nvim)
+- [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/sense.nvim)
+- [yochem/chime.nvim](https://github.com/yochem/chime.nvim) ![](https://img.shields.io/github/stars/yochem/chime.nvim) ![](https://img.shields.io/github/last-commit/yochem/chime.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/chime.nvim)
 
 ##### Diagnostics goto
 

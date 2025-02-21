@@ -49,6 +49,7 @@
 - [DannickBedard/loom.nvim](https://github.com/DannickBedard/loom.nvim) ![](https://img.shields.io/github/stars/DannickBedard/loom.nvim) ![](https://img.shields.io/github/last-commit/DannickBedard/loom.nvim) ![](https://img.shields.io/github/commit-activity/y/DannickBedard/loom.nvim)
 - [Dr-42/project-manager.nvim](https://github.com/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/stars/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/project-manager.nvim)
 - [jarrodb/projectile.nvim](https://github.com/jarrodb/projectile.nvim) ![](https://img.shields.io/github/stars/jarrodb/projectile.nvim) ![](https://img.shields.io/github/last-commit/jarrodb/projectile.nvim) ![](https://img.shields.io/github/commit-activity/y/jarrodb/projectile.nvim)
+- [sapnvim/sapnvim_project.nvim](https://github.com/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/stars/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/last-commit/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/commit-activity/y/sapnvim/sapnvim_project.nvim)
 
 #### Project Root Detector
 
@@ -64,6 +65,7 @@
 - [michel-garcia/radix.nvim](https://github.com/michel-garcia/radix.nvim) ![](https://img.shields.io/github/stars/michel-garcia/radix.nvim) ![](https://img.shields.io/github/last-commit/michel-garcia/radix.nvim) ![](https://img.shields.io/github/commit-activity/y/michel-garcia/radix.nvim)
 - [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
 - [DzedCPT/nvim-rooter](https://github.com/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/stars/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/last-commit/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/DzedCPT/nvim-rooter)
+- [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/rooter.nvim)
 
 ### Project Template
 

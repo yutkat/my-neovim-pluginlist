@@ -633,6 +633,7 @@
 - [kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim) ![](https://img.shields.io/github/stars/kawre/leetcode.nvim) ![](https://img.shields.io/github/last-commit/kawre/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/kawre/leetcode.nvim)
 - [cjon256/dsa.nvim](https://github.com/cjon256/dsa.nvim) ![](https://img.shields.io/github/stars/cjon256/dsa.nvim) ![](https://img.shields.io/github/last-commit/cjon256/dsa.nvim) ![](https://img.shields.io/github/commit-activity/y/cjon256/dsa.nvim)
 - [ZicorXXIX/leetcode.nvim](https://github.com/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/stars/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/last-commit/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/ZicorXXIX/leetcode.nvim)
+- [ludbarzs/leetcoder.nvim](https://github.com/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/stars/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/last-commit/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ludbarzs/leetcoder.nvim)
 
 ## AtCoder
 

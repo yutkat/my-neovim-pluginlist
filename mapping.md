@@ -60,6 +60,8 @@
 - [Chaitanyabsprip/hashish.nvim](https://github.com/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/stars/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/last-commit/Chaitanyabsprip/hashish.nvim) ![](https://img.shields.io/github/commit-activity/y/Chaitanyabsprip/hashish.nvim)
 - [Std-Enigma/mapper.nvim](https://github.com/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/stars/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/last-commit/Std-Enigma/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Std-Enigma/mapper.nvim)
 - [phanen/m.m.nvim](https://github.com/phanen/m.m.nvim) ![](https://img.shields.io/github/stars/phanen/m.m.nvim) ![](https://img.shields.io/github/last-commit/phanen/m.m.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/m.m.nvim)
+- [DeciStudios/mapper.nvim](https://github.com/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper.nvim)
+  - [DeciStudios/mapper-cheatsheet.nvim](https://github.com/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper-cheatsheet.nvim)
 
 ## instant mapping
 
