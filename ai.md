@@ -18,6 +18,7 @@
   * [Supermaven](#supermaven)
   * [greptile](#greptile)
   * [Aider](#aider)
+  * [CodeGate](#codegate)
   * [Otter](#otter)
   * [CodeGemma](#codegemma)
   * [Goose](#goose)
@@ -51,6 +52,7 @@
 - [Neovim Command](#neovim-command)
 - [Copy File Context](#copy-file-context)
 - [RAG](#rag)
+- [Model Context Protocol](#model-context-protocol)
 - [Integration](#integration)
   * [Linkup](#linkup)
   * [Gennie CLI](#gennie-cli)
@@ -229,6 +231,7 @@
 - [scossar/converse.nvim](https://github.com/scossar/converse.nvim) ![](https://img.shields.io/github/stars/scossar/converse.nvim) ![](https://img.shields.io/github/last-commit/scossar/converse.nvim) ![](https://img.shields.io/github/commit-activity/y/scossar/converse.nvim)
 - [jarenm1/nvim-llm](https://github.com/jarenm1/nvim-llm) ![](https://img.shields.io/github/stars/jarenm1/nvim-llm) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-llm)
 - [Antoine-Prieur/nvim-ai-assistant](https://github.com/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/stars/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/Antoine-Prieur/nvim-ai-assistant)
+- [StanAngeloff/claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/commit-activity/y/StanAngeloff/claudius.nvim)
 
 ### DeepSeek
 
@@ -255,6 +258,10 @@
 - [shaleix/aider-ui.nvim](https://github.com/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/stars/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/last-commit/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/aider-ui.nvim)
 - [kentchiu/aider.nvim](https://github.com/kentchiu/aider.nvim) ![](https://img.shields.io/github/stars/kentchiu/aider.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/aider.nvim)
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
+
+### CodeGate
+
+- [stacklok/codegate.nvim](https://github.com/stacklok/codegate.nvim) ![](https://img.shields.io/github/stars/stacklok/codegate.nvim) ![](https://img.shields.io/github/last-commit/stacklok/codegate.nvim) ![](https://img.shields.io/github/commit-activity/y/stacklok/codegate.nvim)
 
 ### Otter
 
@@ -352,6 +359,7 @@
   - [zbirenbaum/copilot-cmp](https://github.com/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/stars/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/last-commit/zbirenbaum/copilot-cmp) ![](https://img.shields.io/github/commit-activity/y/zbirenbaum/copilot-cmp)
   - [hrsh7th/cmp-copilot](https://github.com/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/stars/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-copilot)
 - [krshrimali/context-pilot.nvim](https://github.com/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/stars/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/context-pilot.nvim)
+- [SearidangPa/copilot_hop.nvim](https://github.com/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/stars/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/copilot_hop.nvim)
 
 ## Chat
 
@@ -407,6 +415,10 @@
 ## RAG
 
 - [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
+
+## Model Context Protocol
+
+- [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
 
 ## Integration
 

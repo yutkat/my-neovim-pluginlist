@@ -185,6 +185,7 @@
 - [DanWlker/toolbox.nvim](https://github.com/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/stars/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/toolbox.nvim)
 - [vi013t/input.nvim](https://github.com/vi013t/input.nvim) ![](https://img.shields.io/github/stars/vi013t/input.nvim) ![](https://img.shields.io/github/last-commit/vi013t/input.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/input.nvim)
 - [mistweaverco/uzuri.nvim](https://github.com/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/stars/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/uzuri.nvim)
+- [erikbloodshed/floating-input.nvim](https://github.com/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/floating-input.nvim)
 
 ### Popup
 

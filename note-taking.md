@@ -222,6 +222,7 @@
 
 - [dneumann42/nvim-wikid](https://github.com/dneumann42/nvim-wikid) ![](https://img.shields.io/github/stars/dneumann42/nvim-wikid) ![](https://img.shields.io/github/last-commit/dneumann42/nvim-wikid) ![](https://img.shields.io/github/commit-activity/y/dneumann42/nvim-wikid)
 - [jmtd/nvim-microwiki](https://github.com/jmtd/nvim-microwiki) ![](https://img.shields.io/github/stars/jmtd/nvim-microwiki) ![](https://img.shields.io/github/last-commit/jmtd/nvim-microwiki) ![](https://img.shields.io/github/commit-activity/y/jmtd/nvim-microwiki)
+- [TyrannosaurusLjx/wiki.nvim](https://github.com/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/stars/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/last-commit/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/TyrannosaurusLjx/wiki.nvim)
 
 ## VimWiki
 
@@ -349,3 +350,4 @@
 - [nilszeilon/lumen.nvim](https://github.com/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/stars/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/lumen.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/lumen.nvim)
 - [aniaan/notes.nvim](https://github.com/aniaan/notes.nvim) ![](https://img.shields.io/github/stars/aniaan/notes.nvim) ![](https://img.shields.io/github/last-commit/aniaan/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aniaan/notes.nvim)
 - [qkzk/qnote.nvim](https://github.com/qkzk/qnote.nvim) ![](https://img.shields.io/github/stars/qkzk/qnote.nvim) ![](https://img.shields.io/github/last-commit/qkzk/qnote.nvim) ![](https://img.shields.io/github/commit-activity/y/qkzk/qnote.nvim)
+- [1321tremblay/notes.nvim](https://github.com/1321tremblay/notes.nvim) ![](https://img.shields.io/github/stars/1321tremblay/notes.nvim) ![](https://img.shields.io/github/last-commit/1321tremblay/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/1321tremblay/notes.nvim)
