@@ -115,6 +115,7 @@
 - [maarutan/betterRun.nvim](https://github.com/maarutan/betterRun.nvim) ![](https://img.shields.io/github/stars/maarutan/betterRun.nvim) ![](https://img.shields.io/github/last-commit/maarutan/betterRun.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/betterRun.nvim)
 - [gitpushjoe/zuzu.nvim](https://github.com/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/stars/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/last-commit/gitpushjoe/zuzu.nvim) ![](https://img.shields.io/github/commit-activity/y/gitpushjoe/zuzu.nvim)
 - [edlandm/holster.nvim](https://github.com/edlandm/holster.nvim) ![](https://img.shields.io/github/stars/edlandm/holster.nvim) ![](https://img.shields.io/github/last-commit/edlandm/holster.nvim) ![](https://img.shields.io/github/commit-activity/y/edlandm/holster.nvim)
+- [NewDawn0/build.nvim](https://github.com/NewDawn0/build.nvim) ![](https://img.shields.io/github/stars/NewDawn0/build.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/build.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/build.nvim)
 
 ### Shell
 
