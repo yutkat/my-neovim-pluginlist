@@ -241,6 +241,7 @@
 - [notelgnis/netbuild.nvim](https://github.com/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/stars/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/last-commit/notelgnis/netbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/notelgnis/netbuild.nvim)
 - [MoaidHathot/dotnet.nvim](https://github.com/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/stars/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/last-commit/MoaidHathot/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/MoaidHathot/dotnet.nvim)
 - [jonatanP1993/dotnet_user_secrets.nvim](https://github.com/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/stars/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/last-commit/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/jonatanP1993/dotnet_user_secrets.nvim)
+- [jmattner/dotnet.nvim](https://github.com/jmattner/dotnet.nvim) ![](https://img.shields.io/github/stars/jmattner/dotnet.nvim) ![](https://img.shields.io/github/last-commit/jmattner/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattner/dotnet.nvim)
 
 ##### Nuget
 

@@ -43,6 +43,7 @@
 - [NeViRAIDE/stigmata.nvim](https://github.com/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/stigmata.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/stigmata.nvim)
 - [echasnovski/mini.icons](https://github.com/echasnovski/mini.icons) ![](https://img.shields.io/github/stars/echasnovski/mini.icons) ![](https://img.shields.io/github/last-commit/echasnovski/mini.icons) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.icons)
 - [Hugo1974/nvim-webicons](https://github.com/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/stars/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/last-commit/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/nvim-webicons)
+- [iamvladw/material-icons.nvim](https://github.com/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/stars/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/last-commit/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/iamvladw/material-icons.nvim)
 
 ### Devicon color
 
