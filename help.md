@@ -9,6 +9,7 @@
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
 - [RFC](#rfc)
+- [DevDocs](#devdocs)
 
 <!-- tocstop -->
 
@@ -70,3 +71,7 @@
 ## RFC
 
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) ![](https://img.shields.io/github/stars/moniquelive/rfc.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/rfc.nvim)
+
+## DevDocs
+
+- [maskudo/devdocs.nvim](https://github.com/maskudo/devdocs.nvim) ![](https://img.shields.io/github/stars/maskudo/devdocs.nvim) ![](https://img.shields.io/github/last-commit/maskudo/devdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/maskudo/devdocs.nvim)

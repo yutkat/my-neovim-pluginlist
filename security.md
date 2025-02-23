@@ -10,6 +10,7 @@
 - [Sigma rule](#sigma-rule)
 - [Vulnerability test](#vulnerability-test)
 - [Solana](#solana)
+- [SARIF](#sarif)
 
 <!-- tocstop -->
 
@@ -59,3 +60,7 @@
 ### Solana
 
 - [johnsaigle/solana-radar.nvim](https://github.com/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/stars/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/solana-radar.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/solana-radar.nvim)
+
+### SARIF
+
+- [nifey/sarif.nvim](https://github.com/nifey/sarif.nvim) ![](https://img.shields.io/github/stars/nifey/sarif.nvim) ![](https://img.shields.io/github/last-commit/nifey/sarif.nvim) ![](https://img.shields.io/github/commit-activity/y/nifey/sarif.nvim)

@@ -143,6 +143,7 @@
 - [cche/todo-txt.nvim](https://github.com/cche/todo-txt.nvim) ![](https://img.shields.io/github/stars/cche/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/cche/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/cche/todo-txt.nvim)
 - [toddhainsworth/todos.nvim](https://github.com/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/stars/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/last-commit/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/toddhainsworth/todos.nvim)
 - [TrippW/todo.nvim](https://github.com/TrippW/todo.nvim) ![](https://img.shields.io/github/stars/TrippW/todo.nvim) ![](https://img.shields.io/github/last-commit/TrippW/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TrippW/todo.nvim)
+- [yamazhen/zhenlist.nvim](https://github.com/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/stars/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/zhenlist.nvim)
 
 ### Taskwarrior
 
@@ -351,3 +352,4 @@
 - [aniaan/notes.nvim](https://github.com/aniaan/notes.nvim) ![](https://img.shields.io/github/stars/aniaan/notes.nvim) ![](https://img.shields.io/github/last-commit/aniaan/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aniaan/notes.nvim)
 - [qkzk/qnote.nvim](https://github.com/qkzk/qnote.nvim) ![](https://img.shields.io/github/stars/qkzk/qnote.nvim) ![](https://img.shields.io/github/last-commit/qkzk/qnote.nvim) ![](https://img.shields.io/github/commit-activity/y/qkzk/qnote.nvim)
 - [1321tremblay/notes.nvim](https://github.com/1321tremblay/notes.nvim) ![](https://img.shields.io/github/stars/1321tremblay/notes.nvim) ![](https://img.shields.io/github/last-commit/1321tremblay/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/1321tremblay/notes.nvim)
+- [jakebark/notes.nvim](https://github.com/jakebark/notes.nvim) ![](https://img.shields.io/github/stars/jakebark/notes.nvim) ![](https://img.shields.io/github/last-commit/jakebark/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/jakebark/notes.nvim)
