@@ -33,6 +33,7 @@
 - [conneroisu/doppler.nvim](https://github.com/conneroisu/doppler.nvim) ![](https://img.shields.io/github/stars/conneroisu/doppler.nvim) ![](https://img.shields.io/github/last-commit/conneroisu/doppler.nvim) ![](https://img.shields.io/github/commit-activity/y/conneroisu/doppler.nvim)
 - [lemarsu/sops.nvim](https://github.com/lemarsu/sops.nvim) ![](https://img.shields.io/github/stars/lemarsu/sops.nvim) ![](https://img.shields.io/github/last-commit/lemarsu/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/lemarsu/sops.nvim)
 - [diogo464/sops.nvim](https://github.com/diogo464/sops.nvim) ![](https://img.shields.io/github/stars/diogo464/sops.nvim) ![](https://img.shields.io/github/last-commit/diogo464/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/sops.nvim)
+- [BB223/redact_pass.nvim](https://github.com/BB223/redact_pass.nvim) ![](https://img.shields.io/github/stars/BB223/redact_pass.nvim) ![](https://img.shields.io/github/last-commit/BB223/redact_pass.nvim) ![](https://img.shields.io/github/commit-activity/y/BB223/redact_pass.nvim)
 
 #### Encrypt
 

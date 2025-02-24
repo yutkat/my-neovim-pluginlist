@@ -115,6 +115,7 @@
 - [andrewteall/buff-man.nvim](https://github.com/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/stars/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/last-commit/andrewteall/buff-man.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewteall/buff-man.nvim)
 - [sam-sly/quickfiles.nvim](https://github.com/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/stars/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/last-commit/sam-sly/quickfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/sam-sly/quickfiles.nvim)
 - [tkachenkosi/mbuffers.nvim](https://github.com/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/mbuffers.nvim)
+- [francescarpi/buffon.nvim](https://github.com/francescarpi/buffon.nvim) ![](https://img.shields.io/github/stars/francescarpi/buffon.nvim) ![](https://img.shields.io/github/last-commit/francescarpi/buffon.nvim) ![](https://img.shields.io/github/commit-activity/y/francescarpi/buffon.nvim)
 
 #### create
 
@@ -155,6 +156,7 @@
 - [lukeb06/history.nvim](https://github.com/lukeb06/history.nvim) ![](https://img.shields.io/github/stars/lukeb06/history.nvim) ![](https://img.shields.io/github/last-commit/lukeb06/history.nvim) ![](https://img.shields.io/github/commit-activity/y/lukeb06/history.nvim)
 - [rf0ster/recall.nvim](https://github.com/rf0ster/recall.nvim) ![](https://img.shields.io/github/stars/rf0ster/recall.nvim) ![](https://img.shields.io/github/last-commit/rf0ster/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/rf0ster/recall.nvim)
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ![](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/mru.nvim)
+- [rclawlor/wwi.nvim](https://github.com/rclawlor/wwi.nvim) ![](https://img.shields.io/github/stars/rclawlor/wwi.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/wwi.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/wwi.nvim)
 
 ##### remote open
 

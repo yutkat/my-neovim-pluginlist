@@ -70,6 +70,7 @@
 - [keaising/textobj-backtick.nvim](https://github.com/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/stars/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/last-commit/keaising/textobj-backtick.nvim) ![](https://img.shields.io/github/commit-activity/y/keaising/textobj-backtick.nvim)
 - [NStefan002/visual-surround.nvim](https://github.com/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/stars/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/visual-surround.nvim)
 - [cz875/multichar-surround.nvim](https://github.com/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/stars/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/last-commit/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/cz875/multichar-surround.nvim)
+- [ricefordinr/yet-another-surround.nvim](https://github.com/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/stars/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/last-commit/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ricefordinr/yet-another-surround.nvim)
 
 ## Operator
 
