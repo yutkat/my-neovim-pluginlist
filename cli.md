@@ -99,6 +99,7 @@
 - [anoopkcn/split-jump.nvim](https://github.com/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/stars/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/split-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/split-jump.nvim)
 - [cjodo/nvim-tms](https://github.com/cjodo/nvim-tms) ![](https://img.shields.io/github/stars/cjodo/nvim-tms) ![](https://img.shields.io/github/last-commit/cjodo/nvim-tms) ![](https://img.shields.io/github/commit-activity/y/cjodo/nvim-tms)
 - [jawee/tmuxcmd.nvim](https://github.com/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/stars/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/last-commit/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/tmuxcmd.nvim)
+- [tkapous/nvim-neovimux](https://github.com/tkapous/nvim-neovimux) ![](https://img.shields.io/github/stars/tkapous/nvim-neovimux) ![](https://img.shields.io/github/last-commit/tkapous/nvim-neovimux) ![](https://img.shields.io/github/commit-activity/y/tkapous/nvim-neovimux)
 
 ##### tmux alternative
 
@@ -157,6 +158,7 @@
 #### mise
 
 - [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) ![](https://img.shields.io/github/stars/ejrichards/mise.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/mise.nvim)
+- [carldaws/miser.nvim](https://github.com/carldaws/miser.nvim) ![](https://img.shields.io/github/stars/carldaws/miser.nvim) ![](https://img.shields.io/github/last-commit/carldaws/miser.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/miser.nvim)
 
 #### Chamber
 
@@ -302,6 +304,7 @@
 - [hallestar/nvgtags.nvim](https://github.com/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/stars/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/last-commit/hallestar/nvgtags.nvim) ![](https://img.shields.io/github/commit-activity/y/hallestar/nvgtags.nvim)
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) ![](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![](https://img.shields.io/github/last-commit/JMarkin/gentags.lua) ![](https://img.shields.io/github/commit-activity/y/JMarkin/gentags.lua)
 - [epheien/outline-ctags-provider.nvim](https://github.com/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-ctags-provider.nvim)
+- [francescoApophis/my_ctags.nvim](https://github.com/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/stars/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/my_ctags.nvim)
 
 #### global
 
