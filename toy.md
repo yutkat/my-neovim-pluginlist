@@ -190,7 +190,6 @@
 - [letieu/btw.nvim](https://github.com/letieu/btw.nvim) ![](https://img.shields.io/github/stars/letieu/btw.nvim) ![](https://img.shields.io/github/last-commit/letieu/btw.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/btw.nvim)
 - [zemafaz/motivation.nvim](https://github.com/zemafaz/motivation.nvim) ![](https://img.shields.io/github/stars/zemafaz/motivation.nvim) ![](https://img.shields.io/github/last-commit/zemafaz/motivation.nvim) ![](https://img.shields.io/github/commit-activity/y/zemafaz/motivation.nvim)
 - [kirill-d-lappo/nvim-daily-quotes](https://github.com/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-daily-quotes)
-- [Sayyidalijufri/bismillahline.nvim](https://github.com/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/stars/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/last-commit/Sayyidalijufri/bismillahline.nvim) ![](https://img.shields.io/github/commit-activity/y/Sayyidalijufri/bismillahline.nvim)
 - [jpmcb/rip-and-tear.nvim](https://github.com/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/stars/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/last-commit/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/commit-activity/y/jpmcb/rip-and-tear.nvim)
 - [michaelstrefeler/peptalk.nvim](https://github.com/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/stars/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/last-commit/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelstrefeler/peptalk.nvim)
 
@@ -215,7 +214,6 @@
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
 - [davidgranstrom/oblique-strategies.nvim](https://github.com/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/stars/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/last-commit/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/oblique-strategies.nvim)
-- [GutMutCode/learn-lang.nvim](https://github.com/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/stars/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/last-commit/GutMutCode/learn-lang.nvim) ![](https://img.shields.io/github/commit-activity/y/GutMutCode/learn-lang.nvim)
 
 ## Speech
 
