@@ -116,6 +116,7 @@
 #### Firefox
 
 - [dawsers/telescope-firefox.nvim](https://github.com/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-firefox.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-firefox.nvim)
+- [dawsers/snacks-picker-firefox.nvim](https://github.com/dawsers/snacks-picker-firefox.nvim) ![](https://img.shields.io/github/stars/dawsers/snacks-picker-firefox.nvim) ![](https://img.shields.io/github/last-commit/dawsers/snacks-picker-firefox.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/snacks-picker-firefox.nvim)
 
 #### DuckDuckGo
 

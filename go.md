@@ -20,6 +20,7 @@
   * [Template](#template)
   * [Type](#type)
   * [Generator](#generator)
+  * [Hint](#hint)
   * [templ.guide](#templguide)
   * [gomodifytags](#gomodifytags)
 - [Framework](#framework)
@@ -141,6 +142,10 @@
 ### Generator
 
 - [cszczepaniak/go-tools.nvim](https://github.com/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/go-tools.nvim)
+
+### Hint
+
+- [Yu-Leo/gosigns.nvim](https://github.com/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/gosigns.nvim)
 
 ### templ.guide
 

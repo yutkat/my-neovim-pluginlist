@@ -7,6 +7,7 @@
     + [Request](#request)
     + [Status](#status)
   * [REST](#rest)
+    + [.http / .rest file](#http--rest-file)
     + [OpenAPI](#openapi)
   * [Protocol buffer](#protocol-buffer)
   * [Hurl](#hurl)
@@ -40,6 +41,10 @@
 - [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/atac.nvim)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/stars/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/kulala.nvim)
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
+
+#### .http / .rest file
+
+- [bosvik/http-convert.nvim](https://github.com/bosvik/http-convert.nvim) ![](https://img.shields.io/github/stars/bosvik/http-convert.nvim) ![](https://img.shields.io/github/last-commit/bosvik/http-convert.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/http-convert.nvim)
 
 #### OpenAPI
 

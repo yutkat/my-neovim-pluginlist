@@ -89,6 +89,7 @@
 - [backdround/improved-search.nvim](https://github.com/backdround/improved-search.nvim) ![](https://img.shields.io/github/stars/backdround/improved-search.nvim) ![](https://img.shields.io/github/last-commit/backdround/improved-search.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/improved-search.nvim)
 - [soryu-ryouji/nvim-ccount.lua](https://github.com/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/stars/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/last-commit/soryu-ryouji/nvim-ccount.lua) ![](https://img.shields.io/github/commit-activity/y/soryu-ryouji/nvim-ccount.lua)
 - [Ullreich/wordcount.nvim](https://github.com/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/stars/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/last-commit/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/commit-activity/y/Ullreich/wordcount.nvim)
+- [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) ![](https://img.shields.io/github/stars/kghose/lekha.nvim) ![](https://img.shields.io/github/last-commit/kghose/lekha.nvim) ![](https://img.shields.io/github/commit-activity/y/kghose/lekha.nvim)
 
 ## Line Count
 
