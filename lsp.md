@@ -17,6 +17,7 @@
     + [Hint](#hint)
     + [Hover Doc](#hover-doc)
     + [Formatting](#formatting)
+    + [Symbol](#symbol)
     + [Rename](#rename)
     + [textDocument](#textdocument)
       - [CodeLens](#codelens)
@@ -204,6 +205,10 @@
 
 - [yioneko/nvim-type-fmt](https://github.com/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/stars/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/last-commit/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-type-fmt)
 - [aznhe21/lsp-query-format.nvim](https://github.com/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/stars/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/last-commit/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/commit-activity/y/aznhe21/lsp-query-format.nvim)
+
+#### Symbol
+
+- [maxkatzmann/flares.nvim](https://github.com/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/stars/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/last-commit/maxkatzmann/flares.nvim) ![](https://img.shields.io/github/commit-activity/y/maxkatzmann/flares.nvim)
 
 #### Rename
 
