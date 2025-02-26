@@ -13,6 +13,7 @@
   * [Llama](#llama)
   * [Ollama](#ollama)
   * [Claude](#claude)
+  * [Claude Code](#claude-code)
   * [DeepSeek](#deepseek)
   * [OpenRouter](#openrouter)
   * [Supermaven](#supermaven)
@@ -232,6 +233,10 @@
 - [jarenm1/nvim-llm](https://github.com/jarenm1/nvim-llm) ![](https://img.shields.io/github/stars/jarenm1/nvim-llm) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-llm)
 - [Antoine-Prieur/nvim-ai-assistant](https://github.com/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/stars/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/Antoine-Prieur/nvim-ai-assistant)
 - [StanAngeloff/claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/commit-activity/y/StanAngeloff/claudius.nvim)
+
+### Claude Code
+
+- [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) ![](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![](https://img.shields.io/github/last-commit/greggh/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/claude-code.nvim)
 
 ### DeepSeek
 

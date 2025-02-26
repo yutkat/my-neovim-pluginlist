@@ -108,6 +108,7 @@
 - [onurozuduru/himarkdown.nvim](https://github.com/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/stars/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/last-commit/onurozuduru/himarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/onurozuduru/himarkdown.nvim)
 - [hyogoa2c/mdheadnums.nvim](https://github.com/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/stars/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/last-commit/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/commit-activity/y/hyogoa2c/mdheadnums.nvim)
 - [nick-skriabin/timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/timeline.nvim)
+- [Fireond/number-markdown.nvim](https://github.com/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/stars/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/last-commit/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/Fireond/number-markdown.nvim)
 
 ##### Title explorer
 

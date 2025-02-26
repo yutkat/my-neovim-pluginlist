@@ -8,6 +8,7 @@
     + [Status](#status)
   * [REST](#rest)
     + [.http / .rest file](#http--rest-file)
+    + [HTTP server](#http-server)
     + [OpenAPI](#openapi)
   * [Protocol buffer](#protocol-buffer)
   * [Hurl](#hurl)
@@ -29,6 +30,7 @@
 - [sunn4room/httpc.nvim](https://github.com/sunn4room/httpc.nvim) ![](https://img.shields.io/github/stars/sunn4room/httpc.nvim) ![](https://img.shields.io/github/last-commit/sunn4room/httpc.nvim) ![](https://img.shields.io/github/commit-activity/y/sunn4room/httpc.nvim)
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
 - [YarikYar/posting.nvim](https://github.com/YarikYar/posting.nvim) ![](https://img.shields.io/github/stars/YarikYar/posting.nvim) ![](https://img.shields.io/github/last-commit/YarikYar/posting.nvim) ![](https://img.shields.io/github/commit-activity/y/YarikYar/posting.nvim)
+- [Leonardo-Luz/http.nvim](https://github.com/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/http.nvim)
 
 #### Status
 
@@ -45,6 +47,10 @@
 #### .http / .rest file
 
 - [bosvik/http-convert.nvim](https://github.com/bosvik/http-convert.nvim) ![](https://img.shields.io/github/stars/bosvik/http-convert.nvim) ![](https://img.shields.io/github/last-commit/bosvik/http-convert.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/http-convert.nvim)
+
+#### HTTP server
+
+- [taybart/serve.nvim](https://github.com/taybart/serve.nvim) ![](https://img.shields.io/github/stars/taybart/serve.nvim) ![](https://img.shields.io/github/last-commit/taybart/serve.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/serve.nvim)
 
 #### OpenAPI
 
