@@ -58,6 +58,7 @@
 - [like2foxes/foxession.nvim](https://github.com/like2foxes/foxession.nvim) ![](https://img.shields.io/github/stars/like2foxes/foxession.nvim) ![](https://img.shields.io/github/last-commit/like2foxes/foxession.nvim) ![](https://img.shields.io/github/commit-activity/y/like2foxes/foxession.nvim)
 - [sysraccoon/motion-canvas-editor.nvim](https://github.com/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/stars/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/last-commit/sysraccoon/motion-canvas-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/sysraccoon/motion-canvas-editor.nvim)
 - [tkachenkosi/msession.nvim](https://github.com/tkachenkosi/msession.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/msession.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/msession.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/msession.nvim)
+- [I0I-I0I/sessions.nvim](https://github.com/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/stars/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/last-commit/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/I0I-I0I/sessions.nvim)
 
 ## Session Selector
 

@@ -266,6 +266,7 @@
 - [farias-hecdin/CSSVarHighlight](https://github.com/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarHighlight) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarHighlight)
 - [farias-hecdin/CSSVarViewer](https://github.com/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/stars/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/last-commit/farias-hecdin/CSSVarViewer) ![](https://img.shields.io/github/commit-activity/y/farias-hecdin/CSSVarViewer)
 - [ergoproxy623/nvim-html-css](https://github.com/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-html-css)
+- [aciiip/nvim-c-css](https://github.com/aciiip/nvim-c-css) ![](https://img.shields.io/github/stars/aciiip/nvim-c-css) ![](https://img.shields.io/github/last-commit/aciiip/nvim-c-css) ![](https://img.shields.io/github/commit-activity/y/aciiip/nvim-c-css)
 
 ### tailwind
 
