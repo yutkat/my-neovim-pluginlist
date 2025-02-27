@@ -180,6 +180,7 @@
 - [samodostal/is-prime-online.nvim](https://github.com/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/stars/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/last-commit/samodostal/is-prime-online.nvim) ![](https://img.shields.io/github/commit-activity/y/samodostal/is-prime-online.nvim)
 - [willothy/twitch.nvim](https://github.com/willothy/twitch.nvim) ![](https://img.shields.io/github/stars/willothy/twitch.nvim) ![](https://img.shields.io/github/last-commit/willothy/twitch.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/twitch.nvim)
 - [inferst/nvim-chaos](https://github.com/inferst/nvim-chaos) ![](https://img.shields.io/github/stars/inferst/nvim-chaos) ![](https://img.shields.io/github/last-commit/inferst/nvim-chaos) ![](https://img.shields.io/github/commit-activity/y/inferst/nvim-chaos)
+- [ShimmyTheDev/nvim-twitchchat](https://github.com/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/stars/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/last-commit/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/commit-activity/y/ShimmyTheDev/nvim-twitchchat)
 
 ### Spotify
 

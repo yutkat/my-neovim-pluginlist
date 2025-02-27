@@ -74,6 +74,7 @@
 - [jakewvincent/mkdnflow.nvim](https://github.com/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/stars/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/mkdnflow.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/mkdnflow.nvim)
 - [jcdampil23/note_navigation.nvim](https://github.com/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/stars/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/last-commit/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdampil23/note_navigation.nvim)
 - [OmegaLambda1998/KMdS.nvim](https://github.com/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/stars/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/last-commit/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/commit-activity/y/OmegaLambda1998/KMdS.nvim)
+- [cynumini/notes.nvim](https://github.com/cynumini/notes.nvim) ![](https://img.shields.io/github/stars/cynumini/notes.nvim) ![](https://img.shields.io/github/last-commit/cynumini/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/cynumini/notes.nvim)
 
 ## ToDo
 
@@ -144,6 +145,7 @@
 - [toddhainsworth/todos.nvim](https://github.com/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/stars/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/last-commit/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/toddhainsworth/todos.nvim)
 - [TrippW/todo.nvim](https://github.com/TrippW/todo.nvim) ![](https://img.shields.io/github/stars/TrippW/todo.nvim) ![](https://img.shields.io/github/last-commit/TrippW/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TrippW/todo.nvim)
 - [yamazhen/zhenlist.nvim](https://github.com/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/stars/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/zhenlist.nvim)
+- [lazybobcat/todolist.nvim](https://github.com/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/stars/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/last-commit/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/lazybobcat/todolist.nvim)
 
 ### Taskwarrior
 

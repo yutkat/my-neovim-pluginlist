@@ -27,6 +27,7 @@
 - [cvusmo/LinuxUnrealBuildTool.nvim](https://github.com/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/stars/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/last-commit/cvusmo/LinuxUnrealBuildTool.nvim) ![](https://img.shields.io/github/commit-activity/y/cvusmo/LinuxUnrealBuildTool.nvim)
 - [zaucy/uproject.nvim](https://github.com/zaucy/uproject.nvim) ![](https://img.shields.io/github/stars/zaucy/uproject.nvim) ![](https://img.shields.io/github/last-commit/zaucy/uproject.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/uproject.nvim)
 - [sharpoff/unreal_engine.nvim](https://github.com/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/stars/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/last-commit/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/commit-activity/y/sharpoff/unreal_engine.nvim)
+- [thomppa030/unreal-tools.nvim](https://github.com/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/stars/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/last-commit/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/thomppa030/unreal-tools.nvim)
 
 ### Godot
 
