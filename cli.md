@@ -100,6 +100,7 @@
 - [cjodo/nvim-tms](https://github.com/cjodo/nvim-tms) ![](https://img.shields.io/github/stars/cjodo/nvim-tms) ![](https://img.shields.io/github/last-commit/cjodo/nvim-tms) ![](https://img.shields.io/github/commit-activity/y/cjodo/nvim-tms)
 - [jawee/tmuxcmd.nvim](https://github.com/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/stars/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/last-commit/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/tmuxcmd.nvim)
 - [tkapous/nvim-neovimux](https://github.com/tkapous/nvim-neovimux) ![](https://img.shields.io/github/stars/tkapous/nvim-neovimux) ![](https://img.shields.io/github/last-commit/tkapous/nvim-neovimux) ![](https://img.shields.io/github/commit-activity/y/tkapous/nvim-neovimux)
+- [raresica1234/switch-project.nvim](https://github.com/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/stars/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/last-commit/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/commit-activity/y/raresica1234/switch-project.nvim)
 
 ##### tmux alternative
 
@@ -400,6 +401,7 @@
 - [mmazer/k8s.nvim](https://github.com/mmazer/k8s.nvim) ![](https://img.shields.io/github/stars/mmazer/k8s.nvim) ![](https://img.shields.io/github/last-commit/mmazer/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/mmazer/k8s.nvim)
 - [imroc/kubernetes.nvim](https://github.com/imroc/kubernetes.nvim) ![](https://img.shields.io/github/stars/imroc/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/imroc/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/imroc/kubernetes.nvim)
 - [kezhenxu94/kube.nvim](https://github.com/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/kube.nvim)
+- [tinoschroeter/sealed-secrets.nvim](https://github.com/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/stars/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/last-commit/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/tinoschroeter/sealed-secrets.nvim)
 
 #### ntpy
 

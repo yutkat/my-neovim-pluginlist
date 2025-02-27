@@ -396,6 +396,7 @@
 - [dirichy/nvimtex.nvim](https://github.com/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/stars/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/last-commit/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/nvimtex.nvim)
 - [Blobosle/mintex.nvim](https://github.com/Blobosle/mintex.nvim) ![](https://img.shields.io/github/stars/Blobosle/mintex.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/mintex.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/mintex.nvim)
 - [DanielMSussman/motleyLatex.nvim](https://github.com/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/motleyLatex.nvim)
+- [mathjiajia/nvim-latex-conceal](https://github.com/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/stars/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/last-commit/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/commit-activity/y/mathjiajia/nvim-latex-conceal)
 
 #### Preview
 
