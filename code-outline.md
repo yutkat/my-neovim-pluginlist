@@ -45,6 +45,7 @@
 - [emmanueltouzery/code-compass.nvim](https://github.com/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/code-compass.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/code-compass.nvim)
 - [jmacadie/telescope-hierarchy.nvim](https://github.com/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/stars/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/jmacadie/telescope-hierarchy.nvim)
 - [ravenxrz/call-graph.nvim](https://github.com/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/stars/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/call-graph.nvim)
+- [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/stars/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/lafarr/hierarchy.nvim)
 
 ### Type Hierarchy
 

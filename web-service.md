@@ -18,6 +18,7 @@
   * [ntfy](#ntfy)
   * [WhatsApp](#whatsapp)
   * [Redmine](#redmine)
+  * [Shortcut](#shortcut)
   * [Jira](#jira)
   * [Confluence](#confluence)
   * [Linear](#linear)
@@ -131,6 +132,10 @@
 ### Redmine
 
 - [sgross-emlix/angerona.nvim](https://github.com/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/stars/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/last-commit/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/commit-activity/y/sgross-emlix/angerona.nvim)
+
+### Shortcut
+
+- [semperos/shortcut-api.nvim](https://github.com/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/stars/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/last-commit/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/commit-activity/y/semperos/shortcut-api.nvim)
 
 ### Jira
 

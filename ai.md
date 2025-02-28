@@ -58,6 +58,7 @@
   * [Linkup](#linkup)
   * [Gennie CLI](#gennie-cli)
   * [llmcat](#llmcat)
+  * [Whisper Transcribe](#whisper-transcribe)
 
 <!-- tocstop -->
 
@@ -237,6 +238,7 @@
 ### Claude Code
 
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) ![](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![](https://img.shields.io/github/last-commit/greggh/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/claude-code.nvim)
+- [rsmdt/claude-code.nvim](https://github.com/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/stars/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/last-commit/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmdt/claude-code.nvim)
 
 ### DeepSeek
 
@@ -301,6 +303,7 @@
 ### Groq
 
 - [Vinni-Cedraz/groq-chat.nvim](https://github.com/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/stars/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/last-commit/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Vinni-Cedraz/groq-chat.nvim)
+- [gabrielfruet/constructor.nvim](https://github.com/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/constructor.nvim)
 
 ### Gen42 AI
 
@@ -438,4 +441,8 @@
 ### llmcat
 
 - [doganarif/llmcat.nvim](https://github.com/doganarif/llmcat.nvim) ![](https://img.shields.io/github/stars/doganarif/llmcat.nvim) ![](https://img.shields.io/github/last-commit/doganarif/llmcat.nvim) ![](https://img.shields.io/github/commit-activity/y/doganarif/llmcat.nvim)
+
+### Whisper Transcribe
+
+- [RussianStar/nwhisper.nvim](https://github.com/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/stars/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/last-commit/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/RussianStar/nwhisper.nvim)
 
