@@ -98,6 +98,7 @@
 - [silentadv/fterm.nvim](https://github.com/silentadv/fterm.nvim) ![](https://img.shields.io/github/stars/silentadv/fterm.nvim) ![](https://img.shields.io/github/last-commit/silentadv/fterm.nvim) ![](https://img.shields.io/github/commit-activity/y/silentadv/fterm.nvim)
 - [AgentOJR/floating-term.nvim](https://github.com/AgentOJR/floating-term.nvim) ![](https://img.shields.io/github/stars/AgentOJR/floating-term.nvim) ![](https://img.shields.io/github/last-commit/AgentOJR/floating-term.nvim) ![](https://img.shields.io/github/commit-activity/y/AgentOJR/floating-term.nvim)
 - [dawsers/floaterm.nvim](https://github.com/dawsers/floaterm.nvim) ![](https://img.shields.io/github/stars/dawsers/floaterm.nvim) ![](https://img.shields.io/github/last-commit/dawsers/floaterm.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/floaterm.nvim)
+- [carldaws/flotsam.nvim](https://github.com/carldaws/flotsam.nvim) ![](https://img.shields.io/github/stars/carldaws/flotsam.nvim) ![](https://img.shields.io/github/last-commit/carldaws/flotsam.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/flotsam.nvim)
 
 ### Edit
 

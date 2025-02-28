@@ -28,6 +28,7 @@
 - [melopilosyan/rspec-integrated.nvim](https://github.com/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/stars/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/last-commit/melopilosyan/rspec-integrated.nvim) ![](https://img.shields.io/github/commit-activity/y/melopilosyan/rspec-integrated.nvim)
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 - [pippokairos/rspec-runner.nvim](https://github.com/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/stars/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/last-commit/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pippokairos/rspec-runner.nvim)
+- [apaslak/factory_finder.nvim](https://github.com/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/stars/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/last-commit/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/commit-activity/y/apaslak/factory_finder.nvim)
 
 ### LSP
 
