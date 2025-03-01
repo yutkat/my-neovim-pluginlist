@@ -154,6 +154,7 @@
 - [Praczet/little-taskwarrior.nvim](https://github.com/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/stars/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/little-taskwarrior.nvim)
 - [duckdm/neowarrior.nvim](https://github.com/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/stars/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/last-commit/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/neowarrior.nvim)
 - [ChrisGVE/taskforge.nvim](https://github.com/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/taskforge.nvim)
+- [OdaraIT/ntask.nvim](https://github.com/OdaraIT/ntask.nvim) ![](https://img.shields.io/github/stars/OdaraIT/ntask.nvim) ![](https://img.shields.io/github/last-commit/OdaraIT/ntask.nvim) ![](https://img.shields.io/github/commit-activity/y/OdaraIT/ntask.nvim)
 
 ## Obsidian
 
