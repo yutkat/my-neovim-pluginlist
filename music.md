@@ -31,6 +31,7 @@
 - [alexxGmZ/player.nvim](https://github.com/alexxGmZ/player.nvim) ![](https://img.shields.io/github/stars/alexxGmZ/player.nvim) ![](https://img.shields.io/github/last-commit/alexxGmZ/player.nvim) ![](https://img.shields.io/github/commit-activity/y/alexxGmZ/player.nvim)
 - [aroario2003/neomusic.nvim](https://github.com/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/stars/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/last-commit/aroario2003/neomusic.nvim) ![](https://img.shields.io/github/commit-activity/y/aroario2003/neomusic.nvim)
 - [Matchiye/noisemachine.nvim](https://github.com/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/stars/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/last-commit/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/Matchiye/noisemachine.nvim)
+- [plsdev89/lazympv.nvim](https://github.com/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/stars/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/last-commit/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/commit-activity/y/plsdev89/lazympv.nvim)
 
 ### sapf
 

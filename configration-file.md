@@ -47,6 +47,7 @@
 - [S1M0N38/chatml.nvim](https://github.com/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/stars/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/chatml.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/chatml.nvim)
 - [virakkhun/flatjson.nvim](https://github.com/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/stars/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/last-commit/virakkhun/flatjson.nvim) ![](https://img.shields.io/github/commit-activity/y/virakkhun/flatjson.nvim)
 - [Ask-786/json-to-ts.nvim](https://github.com/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/stars/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/json-to-ts.nvim)
+- [FastTrackAudio/nvim-scaffolder](https://github.com/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/stars/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/last-commit/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/commit-activity/y/FastTrackAudio/nvim-scaffolder)
 
 #### fx
 

@@ -229,6 +229,7 @@
 - [Klodii/scratch.nvim](https://github.com/Klodii/scratch.nvim) ![](https://img.shields.io/github/stars/Klodii/scratch.nvim) ![](https://img.shields.io/github/last-commit/Klodii/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/Klodii/scratch.nvim)
 - [leobeosab/brr.nvim](https://github.com/leobeosab/brr.nvim) ![](https://img.shields.io/github/stars/leobeosab/brr.nvim) ![](https://img.shields.io/github/last-commit/leobeosab/brr.nvim) ![](https://img.shields.io/github/commit-activity/y/leobeosab/brr.nvim)
 - [MikeWelsh801/scratch.nvim](https://github.com/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/stars/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/last-commit/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeWelsh801/scratch.nvim)
+- [skeletony007/scratchman.nvim](https://github.com/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/stars/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/scratchman.nvim)
 
 ### Scratchpad
 
