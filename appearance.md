@@ -11,6 +11,8 @@
 
 ## Appearance
 
+- [tar80/staba.nvim](https://github.com/tar80/staba.nvim) ![](https://img.shields.io/github/stars/tar80/staba.nvim) ![](https://img.shields.io/github/last-commit/tar80/staba.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/staba.nvim)
+
 ### Sidebar
 
 - [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/stars/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/last-commit/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavoKatel/sidebar.nvim)

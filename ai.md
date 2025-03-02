@@ -167,6 +167,7 @@
 - [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
 - [junaydb/dingllm.nvim](https://github.com/junaydb/dingllm.nvim) ![](https://img.shields.io/github/stars/junaydb/dingllm.nvim) ![](https://img.shields.io/github/last-commit/junaydb/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/junaydb/dingllm.nvim)
 - [oleksiiluchnikov/telescope-prompts.nvim](https://github.com/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-prompts.nvim)
+- [brewinski/avante-cody.nvim](https://github.com/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/stars/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/last-commit/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/commit-activity/y/brewinski/avante-cody.nvim)
 
 #### mods
 
