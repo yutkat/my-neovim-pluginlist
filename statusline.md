@@ -66,6 +66,7 @@
 - [harryvince/statusbar.nvim](https://github.com/harryvince/statusbar.nvim) ![](https://img.shields.io/github/stars/harryvince/statusbar.nvim) ![](https://img.shields.io/github/last-commit/harryvince/statusbar.nvim) ![](https://img.shields.io/github/commit-activity/y/harryvince/statusbar.nvim)
 - [josiahdenton/statusbar.nvim](https://github.com/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/stars/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/statusbar.nvim)
 - [drgfunk/streamline.nvim](https://github.com/drgfunk/streamline.nvim) ![](https://img.shields.io/github/stars/drgfunk/streamline.nvim) ![](https://img.shields.io/github/last-commit/drgfunk/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/drgfunk/streamline.nvim)
+- [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statusline.nvim)
 
 ### Simple
 

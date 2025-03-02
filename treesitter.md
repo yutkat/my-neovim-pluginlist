@@ -18,6 +18,7 @@
 - [NFrid/treesitter-utils](https://github.com/NFrid/treesitter-utils) ![](https://img.shields.io/github/stars/NFrid/treesitter-utils) ![](https://img.shields.io/github/last-commit/NFrid/treesitter-utils) ![](https://img.shields.io/github/commit-activity/y/NFrid/treesitter-utils)
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) ![](https://img.shields.io/github/stars/roobert/node-type.nvim) ![](https://img.shields.io/github/last-commit/roobert/node-type.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/node-type.nvim)
 - [yioneko/nvim-tsteer](https://github.com/yioneko/nvim-tsteer) ![](https://img.shields.io/github/stars/yioneko/nvim-tsteer) ![](https://img.shields.io/github/last-commit/yioneko/nvim-tsteer) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-tsteer)
+- [baketnk/treeporter.nvim](https://github.com/baketnk/treeporter.nvim) ![](https://img.shields.io/github/stars/baketnk/treeporter.nvim) ![](https://img.shields.io/github/last-commit/baketnk/treeporter.nvim) ![](https://img.shields.io/github/commit-activity/y/baketnk/treeporter.nvim)
 
 ### Installer
 

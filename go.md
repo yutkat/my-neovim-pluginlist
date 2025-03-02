@@ -146,6 +146,7 @@
 ### Hint
 
 - [Yu-Leo/gosigns.nvim](https://github.com/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/gosigns.nvim)
+- [Yu-Leo/gosigns.nvim](https://github.com/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/stars/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/last-commit/Yu-Leo/gosigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/gosigns.nvim)
 
 ### templ.guide
 

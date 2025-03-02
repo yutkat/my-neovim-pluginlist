@@ -47,6 +47,7 @@
 - [Bleksak/laravel-ide-helper.nvim](https://github.com/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/stars/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/last-commit/Bleksak/laravel-ide-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/Bleksak/laravel-ide-helper.nvim)
 - [DJARUUN/laravel.nvim](https://github.com/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/stars/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/last-commit/DJARUUN/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/DJARUUN/laravel.nvim)
 - [yahyasghayron/nvim-goto-view-laravel](https://github.com/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/stars/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/last-commit/yahyasghayron/nvim-goto-view-laravel) ![](https://img.shields.io/github/commit-activity/y/yahyasghayron/nvim-goto-view-laravel)
+- [greggh/laravel-helper.nvim](https://github.com/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/stars/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/last-commit/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/laravel-helper.nvim)
 
 ### Slim
 
