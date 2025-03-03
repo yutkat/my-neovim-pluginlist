@@ -71,6 +71,7 @@
 ## Key-Value Storage
 
 - [willothy/durable.nvim](https://github.com/willothy/durable.nvim) ![](https://img.shields.io/github/stars/willothy/durable.nvim) ![](https://img.shields.io/github/last-commit/willothy/durable.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/durable.nvim)
+- [areiass36/kvstore.nvim](https://github.com/areiass36/kvstore.nvim) ![](https://img.shields.io/github/stars/areiass36/kvstore.nvim) ![](https://img.shields.io/github/last-commit/areiass36/kvstore.nvim) ![](https://img.shields.io/github/commit-activity/y/areiass36/kvstore.nvim)
 
 ## Class
 

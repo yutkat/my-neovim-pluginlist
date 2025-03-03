@@ -317,6 +317,7 @@
 - [codymikol/mason-vue-language-server-lazy-shim.nvim](https://github.com/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/stars/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/last-commit/codymikol/mason-vue-language-server-lazy-shim.nvim) ![](https://img.shields.io/github/commit-activity/y/codymikol/mason-vue-language-server-lazy-shim.nvim)
 - [catgoose/vue-goto-definition.nvim](https://github.com/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/stars/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/last-commit/catgoose/vue-goto-definition.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/vue-goto-definition.nvim)
 - [yimme/vue-marks.nvim](https://github.com/yimme/vue-marks.nvim) ![](https://img.shields.io/github/stars/yimme/vue-marks.nvim) ![](https://img.shields.io/github/last-commit/yimme/vue-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/yimme/vue-marks.nvim)
+- [MGouillardon/vue-component-creator.nvim](https://github.com/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/stars/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/last-commit/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/commit-activity/y/MGouillardon/vue-component-creator.nvim)
 
 #### Vleam
 

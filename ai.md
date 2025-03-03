@@ -305,6 +305,7 @@
 
 - [Vinni-Cedraz/groq-chat.nvim](https://github.com/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/stars/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/last-commit/Vinni-Cedraz/groq-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Vinni-Cedraz/groq-chat.nvim)
 - [gabrielfruet/constructor.nvim](https://github.com/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/constructor.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/constructor.nvim)
+- [gaelph/tabtab.nvim](https://github.com/gaelph/tabtab.nvim) ![](https://img.shields.io/github/stars/gaelph/tabtab.nvim) ![](https://img.shields.io/github/last-commit/gaelph/tabtab.nvim) ![](https://img.shields.io/github/commit-activity/y/gaelph/tabtab.nvim)
 
 ### Gen42 AI
 
