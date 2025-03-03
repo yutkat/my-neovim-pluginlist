@@ -260,6 +260,7 @@
 - [youguanxinqing/git-conflicts.nvim](https://github.com/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/git-conflicts.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/git-conflicts.nvim)
 - [Tronikelis/conflict-marker.nvim](https://github.com/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/stars/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/conflict-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/conflict-marker.nvim)
 - [isaksamsten/conflicting.nvim](https://github.com/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/stars/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/last-commit/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/commit-activity/y/isaksamsten/conflicting.nvim)
+- [frannoriega/gitsolve.nvim](https://github.com/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/stars/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/last-commit/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/commit-activity/y/frannoriega/gitsolve.nvim)
 
 ## git pull
 

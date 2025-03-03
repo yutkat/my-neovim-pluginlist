@@ -78,6 +78,7 @@
 - [thangeshbabu/based64.nvim](https://github.com/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/stars/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/last-commit/thangeshbabu/based64.nvim) ![](https://img.shields.io/github/commit-activity/y/thangeshbabu/based64.nvim)
 - [SirAppSec/hacker-helper.nvim](https://github.com/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/stars/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/last-commit/SirAppSec/hacker-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/SirAppSec/hacker-helper.nvim)
 - [klausnitzer/nvim-base64-tools](https://github.com/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/stars/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/last-commit/klausnitzer/nvim-base64-tools) ![](https://img.shields.io/github/commit-activity/y/klausnitzer/nvim-base64-tools)
+- [ovk/endec.nvim](https://github.com/ovk/endec.nvim) ![](https://img.shields.io/github/stars/ovk/endec.nvim) ![](https://img.shields.io/github/last-commit/ovk/endec.nvim) ![](https://img.shields.io/github/commit-activity/y/ovk/endec.nvim)
 
 ### Number
 
