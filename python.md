@@ -200,6 +200,7 @@
 ## django
 
 - [shtayeb/nvim-django-shell](https://github.com/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/stars/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/last-commit/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/commit-activity/y/shtayeb/nvim-django-shell)
+- [Jamsjz/django.nvim](https://github.com/Jamsjz/django.nvim) ![](https://img.shields.io/github/stars/Jamsjz/django.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/django.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/django.nvim)
 
 ## MicroPython
 

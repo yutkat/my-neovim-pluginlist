@@ -59,6 +59,7 @@
   * [Gennie CLI](#gennie-cli)
   * [llmcat](#llmcat)
   * [Whisper Transcribe](#whisper-transcribe)
+  * [SeaGOAT](#seagoat)
 
 <!-- tocstop -->
 
@@ -447,4 +448,8 @@
 ### Whisper Transcribe
 
 - [RussianStar/nwhisper.nvim](https://github.com/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/stars/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/last-commit/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/RussianStar/nwhisper.nvim)
+
+### SeaGOAT
+
+- [kantord/seagoat.nvim](https://github.com/kantord/seagoat.nvim) ![](https://img.shields.io/github/stars/kantord/seagoat.nvim) ![](https://img.shields.io/github/last-commit/kantord/seagoat.nvim) ![](https://img.shields.io/github/commit-activity/y/kantord/seagoat.nvim)
 

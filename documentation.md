@@ -144,6 +144,7 @@
 - [mayerstrk/live.nvim](https://github.com/mayerstrk/live.nvim) ![](https://img.shields.io/github/stars/mayerstrk/live.nvim) ![](https://img.shields.io/github/last-commit/mayerstrk/live.nvim) ![](https://img.shields.io/github/commit-activity/y/mayerstrk/live.nvim)
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) ![](https://img.shields.io/github/stars/gcmt/glare.nvim) ![](https://img.shields.io/github/last-commit/gcmt/glare.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/glare.nvim)
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
+- [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
 
 ##### Node
 

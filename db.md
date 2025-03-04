@@ -23,6 +23,7 @@
 - [LostbBlizzard/lazysql.nvim](https://github.com/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/stars/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/last-commit/LostbBlizzard/lazysql.nvim) ![](https://img.shields.io/github/commit-activity/y/LostbBlizzard/lazysql.nvim)
 - [e3oroush/dbridge.nvim](https://github.com/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/stars/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/last-commit/e3oroush/dbridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e3oroush/dbridge.nvim)
 - [davesavic/dadbod-ui-yank](https://github.com/davesavic/dadbod-ui-yank) ![](https://img.shields.io/github/stars/davesavic/dadbod-ui-yank) ![](https://img.shields.io/github/last-commit/davesavic/dadbod-ui-yank) ![](https://img.shields.io/github/commit-activity/y/davesavic/dadbod-ui-yank)
+- [tkopets/dadbod-explorer.nvim](https://github.com/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/stars/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/last-commit/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/tkopets/dadbod-explorer.nvim)
 
 ### SQL
 
