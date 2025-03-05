@@ -147,6 +147,7 @@
 - [yamazhen/zhenlist.nvim](https://github.com/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/stars/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/zhenlist.nvim)
 - [lazybobcat/todolist.nvim](https://github.com/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/stars/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/last-commit/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/lazybobcat/todolist.nvim)
 - [wsdjeg/todo.nvim](https://github.com/wsdjeg/todo.nvim) ![](https://img.shields.io/github/stars/wsdjeg/todo.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/todo.nvim)
+- [hschne/todox.nvim](https://github.com/hschne/todox.nvim) ![](https://img.shields.io/github/stars/hschne/todox.nvim) ![](https://img.shields.io/github/last-commit/hschne/todox.nvim) ![](https://img.shields.io/github/commit-activity/y/hschne/todox.nvim)
 
 ### Taskwarrior
 

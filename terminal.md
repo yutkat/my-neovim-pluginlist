@@ -6,6 +6,7 @@
   * [Terminal Enhancement](#terminal-enhancement)
   * [Open](#open)
   * [Edit](#edit)
+  * [Mapping](#mapping)
   * [Jump](#jump)
   * [Terminal mode](#terminal-mode)
   * [External terminal](#external-terminal)
@@ -104,6 +105,10 @@
 ### Edit
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
+
+### Mapping
+
+- [Axot017/multiterm.nvim](https://github.com/Axot017/multiterm.nvim) ![](https://img.shields.io/github/stars/Axot017/multiterm.nvim) ![](https://img.shields.io/github/last-commit/Axot017/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/multiterm.nvim)
 
 ### Jump
 
