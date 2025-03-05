@@ -220,6 +220,7 @@
 - [jasper-clarke/collama.nvim](https://github.com/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/stars/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/last-commit/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/jasper-clarke/collama.nvim)
 - [TangerineGlacier/nvim-tangerine](https://github.com/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/stars/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/last-commit/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/commit-activity/y/TangerineGlacier/nvim-tangerine)
 - [CaKellum/ollama_question.nvim](https://github.com/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/stars/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/last-commit/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/commit-activity/y/CaKellum/ollama_question.nvim)
+- [haydenzeller/nvim-wingman](https://github.com/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/stars/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/last-commit/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/commit-activity/y/haydenzeller/nvim-wingman)
 
 ### Claude
 

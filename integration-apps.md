@@ -10,6 +10,7 @@
     + [DuckDuckGo](#duckduckgo)
     + [live preview](#live-preview)
     + [search](#search)
+      - [Search without browser](#search-without-browser)
     + [Bookmarks](#bookmarks)
   * [Other Editor](#other-editor)
     + [VS Code](#vs-code)
@@ -133,6 +134,10 @@
 - [dzfrias/gsearch.nvim](https://github.com/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/stars/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/gsearch.nvim)
 - [gudjonragnar/searcher.nvim](https://github.com/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/stars/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/last-commit/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/commit-activity/y/gudjonragnar/searcher.nvim)
 - [ulf-westermann/websearch.nvim](https://github.com/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/stars/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/last-commit/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/commit-activity/y/ulf-westermann/websearch.nvim)
+
+##### Search without browser
+
+- [akasataikisiti/info_gatherer.nvim](https://github.com/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/stars/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/last-commit/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/commit-activity/y/akasataikisiti/info_gatherer.nvim)
 
 #### Bookmarks
 
