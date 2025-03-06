@@ -72,6 +72,7 @@
 - [wojciech-kulik/filenav.nvim](https://github.com/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/filenav.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/filenav.nvim)
 - [majamin/buffy.nvim](https://github.com/majamin/buffy.nvim) ![](https://img.shields.io/github/stars/majamin/buffy.nvim) ![](https://img.shields.io/github/last-commit/majamin/buffy.nvim) ![](https://img.shields.io/github/commit-activity/y/majamin/buffy.nvim)
 - [benzhou1/buf_switcher.nvim](https://github.com/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/stars/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/last-commit/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/benzhou1/buf_switcher.nvim)
+- [ashurbekovz/buffer-conflict.nvim](https://github.com/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/stars/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/last-commit/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/ashurbekovz/buffer-conflict.nvim)
 
 ### Other Buffer Switcher
 
