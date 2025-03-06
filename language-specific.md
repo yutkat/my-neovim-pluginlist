@@ -69,6 +69,7 @@
     + [K](#k)
     + [Scheme](#scheme)
     + [Coq](#coq)
+    + [NWScript](#nwscript)
     + [Idris2](#idris2)
     + [MatLab](#matlab)
     + [Cell](#cell)
@@ -444,6 +445,10 @@
 ### Coq
 
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
+
+### NWScript
+
+- [StefanoND/nwscript-ee-lsp.nvim](https://github.com/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/stars/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/last-commit/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanoND/nwscript-ee-lsp.nvim)
 
 ### Idris2
 
