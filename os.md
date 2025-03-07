@@ -159,6 +159,7 @@
 
 - [massix/termux.nvim](https://github.com/massix/termux.nvim) ![](https://img.shields.io/github/stars/massix/termux.nvim) ![](https://img.shields.io/github/last-commit/massix/termux.nvim) ![](https://img.shields.io/github/commit-activity/y/massix/termux.nvim)
 - [Biplab-Dutta/nvim-android-device](https://github.com/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/stars/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/last-commit/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/commit-activity/y/Biplab-Dutta/nvim-android-device)
+- [aehabdelouadoud/android_tools.nvim](https://github.com/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/stars/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/last-commit/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/aehabdelouadoud/android_tools.nvim)
 
 #### adb
 

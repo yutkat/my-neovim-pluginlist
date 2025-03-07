@@ -5,6 +5,7 @@
 - [Music](#music)
   * [sapf](#sapf)
   * [Apple music](#apple-music)
+  * [YouTube Music](#youtube-music)
   * [Tidal](#tidal)
     + [MIDI](#midi)
     + [Morse](#morse)
@@ -44,6 +45,10 @@
 - [p5quared/apple-music.nvim](https://github.com/p5quared/apple-music.nvim) ![](https://img.shields.io/github/stars/p5quared/apple-music.nvim) ![](https://img.shields.io/github/last-commit/p5quared/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/p5quared/apple-music.nvim)
 - [Vilos92/media-controls.nvim](https://github.com/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/stars/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/last-commit/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/Vilos92/media-controls.nvim)
 - [NoamFav/apple_music.nvim](https://github.com/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/stars/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/last-commit/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/commit-activity/y/NoamFav/apple_music.nvim)
+
+### YouTube Music
+
+- [hainakus/yt-dlp.nvim](https://github.com/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/stars/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/last-commit/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/commit-activity/y/hainakus/yt-dlp.nvim)
 
 ### Tidal
 
