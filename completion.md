@@ -42,6 +42,7 @@
   - [MahanRahmati/blink-look.nvim](https://github.com/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-look.nvim)
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 - [nvimdev/phoenix.nvim](https://github.com/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/stars/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/phoenix.nvim)
+- [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) ![](https://img.shields.io/github/stars/wsdjeg/nvim-completion) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-completion) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-completion)
 
 #### Made in Python
 

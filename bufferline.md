@@ -28,6 +28,7 @@
 - [paradoxskin/cfdufo.nvim](https://github.com/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/stars/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/cfdufo.nvim)
 - [paradoxskin/cfdufo.nvim](https://github.com/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/stars/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/cfdufo.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/cfdufo.nvim)
 - [abhilash26/zenbufline.nvim](https://github.com/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/stars/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/last-commit/abhilash26/zenbufline.nvim) ![](https://img.shields.io/github/commit-activity/y/abhilash26/zenbufline.nvim)
+- [aidancz/buvvers.nvim](https://github.com/aidancz/buvvers.nvim) ![](https://img.shields.io/github/stars/aidancz/buvvers.nvim) ![](https://img.shields.io/github/last-commit/aidancz/buvvers.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/buvvers.nvim)
 
 ### Vertical
 

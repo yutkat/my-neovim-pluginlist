@@ -148,6 +148,7 @@
 - [lazybobcat/todolist.nvim](https://github.com/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/stars/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/last-commit/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/lazybobcat/todolist.nvim)
 - [wsdjeg/todo.nvim](https://github.com/wsdjeg/todo.nvim) ![](https://img.shields.io/github/stars/wsdjeg/todo.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/todo.nvim)
 - [hschne/todox.nvim](https://github.com/hschne/todox.nvim) ![](https://img.shields.io/github/stars/hschne/todox.nvim) ![](https://img.shields.io/github/last-commit/hschne/todox.nvim) ![](https://img.shields.io/github/commit-activity/y/hschne/todox.nvim)
+- [hamidzr/task-manager.nvim](https://github.com/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/stars/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/last-commit/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidzr/task-manager.nvim)
 
 ### Taskwarrior
 
