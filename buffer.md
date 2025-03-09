@@ -159,6 +159,7 @@
 - [rf0ster/recall.nvim](https://github.com/rf0ster/recall.nvim) ![](https://img.shields.io/github/stars/rf0ster/recall.nvim) ![](https://img.shields.io/github/last-commit/rf0ster/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/rf0ster/recall.nvim)
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ![](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/mru.nvim)
 - [rclawlor/wwi.nvim](https://github.com/rclawlor/wwi.nvim) ![](https://img.shields.io/github/stars/rclawlor/wwi.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/wwi.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/wwi.nvim)
+- [naranyala/buffcounts.nvim](https://github.com/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/stars/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/last-commit/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/buffcounts.nvim)
 
 ##### remote open
 
