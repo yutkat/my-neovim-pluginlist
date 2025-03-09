@@ -32,6 +32,8 @@
 - [SearidangPa/blackboard.nvim](https://github.com/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/stars/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/blackboard.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/blackboard.nvim)
 - [mohseenrm/marko.nvim](https://github.com/mohseenrm/marko.nvim) ![](https://img.shields.io/github/stars/mohseenrm/marko.nvim) ![](https://img.shields.io/github/last-commit/mohseenrm/marko.nvim) ![](https://img.shields.io/github/commit-activity/y/mohseenrm/marko.nvim)
 - [benzhou1/codemarks.nvim](https://github.com/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/stars/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/last-commit/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/commit-activity/y/benzhou1/codemarks.nvim)
+- [jake-stewart/vmark.nvim](https://github.com/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/stars/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/vmark.nvim)
+- [suvasanket/buf_mark.nvim](https://github.com/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/stars/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/buf_mark.nvim)
 
 ### extmark
 
@@ -123,3 +125,4 @@
 - [0x7a7a/bufpin.nvim](https://github.com/0x7a7a/bufpin.nvim) ![](https://img.shields.io/github/stars/0x7a7a/bufpin.nvim) ![](https://img.shields.io/github/last-commit/0x7a7a/bufpin.nvim) ![](https://img.shields.io/github/commit-activity/y/0x7a7a/bufpin.nvim)
 - [WolfeCub/harpeek.nvim](https://github.com/WolfeCub/harpeek.nvim) ![](https://img.shields.io/github/stars/WolfeCub/harpeek.nvim) ![](https://img.shields.io/github/last-commit/WolfeCub/harpeek.nvim) ![](https://img.shields.io/github/commit-activity/y/WolfeCub/harpeek.nvim)
 - [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/stars/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/syntax-gaslighting.nvim)
+- [sijirama/syntax-gaslighting.nvim](https://github.com/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/stars/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/last-commit/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/syntax-gaslighting.nvim)
