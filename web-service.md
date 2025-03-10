@@ -55,6 +55,7 @@
   * [CircleCI](#circleci)
   * [Nx](#nx)
   * [Jenkins](#jenkins)
+  * [SonarQube](#sonarqube)
   * [GLPI](#glpi)
 
 <!-- tocstop -->
@@ -199,6 +200,7 @@
 - [ollbx/spotify-player.nvim](https://github.com/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/stars/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/ollbx/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/spotify-player.nvim)
 - [mmuldo/spotify.nvim](https://github.com/mmuldo/spotify.nvim) ![](https://img.shields.io/github/stars/mmuldo/spotify.nvim) ![](https://img.shields.io/github/last-commit/mmuldo/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/mmuldo/spotify.nvim)
 - [jfinnis/spotify-notification.nvim](https://github.com/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/stars/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/last-commit/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/commit-activity/y/jfinnis/spotify-notification.nvim)
+- [FocusThen/music-player.nvim](https://github.com/FocusThen/music-player.nvim) ![](https://img.shields.io/github/stars/FocusThen/music-player.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/music-player.nvim)
 
 ### StackOverflow
 
@@ -307,6 +309,10 @@
 ### Jenkins
 
 - [cvanhoosear/jenkins-linter.nvim](https://github.com/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/stars/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/last-commit/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/cvanhoosear/jenkins-linter.nvim)
+
+### SonarQube
+
+- [carlbeattie2000/nvim-sonar-review](https://github.com/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/stars/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/last-commit/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/commit-activity/y/carlbeattie2000/nvim-sonar-review)
 
 ### GLPI
 
