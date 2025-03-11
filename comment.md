@@ -111,6 +111,7 @@
 ### Comment highlight
 
 - [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
+- [fluxdiv/instacolor.nvim](https://github.com/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/stars/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/instacolor.nvim)
 
 ### Internal comment
 

@@ -118,6 +118,7 @@
 - [edlandm/holster.nvim](https://github.com/edlandm/holster.nvim) ![](https://img.shields.io/github/stars/edlandm/holster.nvim) ![](https://img.shields.io/github/last-commit/edlandm/holster.nvim) ![](https://img.shields.io/github/commit-activity/y/edlandm/holster.nvim)
 - [NewDawn0/build.nvim](https://github.com/NewDawn0/build.nvim) ![](https://img.shields.io/github/stars/NewDawn0/build.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/build.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/build.nvim)
 - [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/code-runner.nvim)
+- [DestopLine/scratch-runner.nvim](https://github.com/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/stars/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/scratch-runner.nvim)
 
 ### Shell
 

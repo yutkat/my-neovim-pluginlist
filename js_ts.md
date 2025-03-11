@@ -122,6 +122,7 @@
 - [MichaelOstermann/nvim-tsc](https://github.com/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/stars/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/last-commit/MichaelOstermann/nvim-tsc) ![](https://img.shields.io/github/commit-activity/y/MichaelOstermann/nvim-tsc)
 - [EthanJWright/it-compiles.nvim](https://github.com/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/stars/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/it-compiles.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/it-compiles.nvim)
 - [jpwallace22/typelens.nvim](https://github.com/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/stars/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/last-commit/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/jpwallace22/typelens.nvim)
+- [jacksonmelcher/pretty-ts-errors.nvim](https://github.com/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/jacksonmelcher/pretty-ts-errors.nvim)
 
 ### Type check
 
