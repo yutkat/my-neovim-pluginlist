@@ -106,6 +106,7 @@
     + [Prolog](#prolog)
     + [Beancount](#beancount)
     + [incc](#incc)
+    + [Slang](#slang)
     + [CHIP-8](#chip-8)
     + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     + [E2](#e2)
@@ -456,6 +457,7 @@
 ### MatLab
 
 - [BalderHolst/matlab.nvim](https://github.com/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/stars/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/last-commit/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/BalderHolst/matlab.nvim)
+- [idossha/matlab.nvim](https://github.com/idossha/matlab.nvim) ![](https://img.shields.io/github/stars/idossha/matlab.nvim) ![](https://img.shields.io/github/last-commit/idossha/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/matlab.nvim)
 
 ### Cell
 
@@ -592,6 +594,10 @@
 ### incc
 
 - [DominikOcsofszki/lsp-incc.nvim](https://github.com/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/lsp-incc.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/lsp-incc.nvim)
+
+### Slang
+
+- [sgaulter/slang-server.nvim](https://github.com/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/stars/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/last-commit/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/commit-activity/y/sgaulter/slang-server.nvim)
 
 ### CHIP-8
 

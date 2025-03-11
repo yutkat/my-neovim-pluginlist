@@ -151,6 +151,7 @@
 - [xlboy/vscode-opener.nvim](https://github.com/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/stars/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/last-commit/xlboy/vscode-opener.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/vscode-opener.nvim)
 - [tssujt/openinvscode.nvim](https://github.com/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/stars/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/last-commit/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/commit-activity/y/tssujt/openinvscode.nvim)
 - [mark-ng/Code.nvim](https://github.com/mark-ng/Code.nvim) ![](https://img.shields.io/github/stars/mark-ng/Code.nvim) ![](https://img.shields.io/github/last-commit/mark-ng/Code.nvim) ![](https://img.shields.io/github/commit-activity/y/mark-ng/Code.nvim)
+- [zqqqqz2000/shadow-play.nvim](https://github.com/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/stars/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/last-commit/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/commit-activity/y/zqqqqz2000/shadow-play.nvim)
 
 #### Helix
 
@@ -295,6 +296,7 @@
 - [dkooll/bouncer.nvim](https://github.com/dkooll/bouncer.nvim) ![](https://img.shields.io/github/stars/dkooll/bouncer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/bouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/bouncer.nvim)
 - [danielyaba/terraform.nvim](https://github.com/danielyaba/terraform.nvim) ![](https://img.shields.io/github/stars/danielyaba/terraform.nvim) ![](https://img.shields.io/github/last-commit/danielyaba/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/danielyaba/terraform.nvim)
 - [dkooll/diffy.nvim](https://github.com/dkooll/diffy.nvim) ![](https://img.shields.io/github/stars/dkooll/diffy.nvim) ![](https://img.shields.io/github/last-commit/dkooll/diffy.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/diffy.nvim)
+- [sunnybharne/nvim-terraform-snippets](https://github.com/sunnybharne/nvim-terraform-snippets) ![](https://img.shields.io/github/stars/sunnybharne/nvim-terraform-snippets) ![](https://img.shields.io/github/last-commit/sunnybharne/nvim-terraform-snippets) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/nvim-terraform-snippets)
 
 ##### atmos
 

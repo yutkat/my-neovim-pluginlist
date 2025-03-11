@@ -174,6 +174,7 @@
 - [Ajnasz/notify-send.nvim](https://github.com/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/stars/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/last-commit/Ajnasz/notify-send.nvim) ![](https://img.shields.io/github/commit-activity/y/Ajnasz/notify-send.nvim)
 - [dssste/stack-box.nvim](https://github.com/dssste/stack-box.nvim) ![](https://img.shields.io/github/stars/dssste/stack-box.nvim) ![](https://img.shields.io/github/last-commit/dssste/stack-box.nvim) ![](https://img.shields.io/github/commit-activity/y/dssste/stack-box.nvim)
 - [samsze0/notifier.nvim](https://github.com/samsze0/notifier.nvim) ![](https://img.shields.io/github/stars/samsze0/notifier.nvim) ![](https://img.shields.io/github/last-commit/samsze0/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/notifier.nvim)
+- [d1agnoze/noti.nvim](https://github.com/d1agnoze/noti.nvim) ![](https://img.shields.io/github/stars/d1agnoze/noti.nvim) ![](https://img.shields.io/github/last-commit/d1agnoze/noti.nvim) ![](https://img.shields.io/github/commit-activity/y/d1agnoze/noti.nvim)
 
 ### vim.ui.select/vim.ui.input
 
@@ -246,6 +247,7 @@
 
 - [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
 - [minowak/nvim-curl](https://github.com/minowak/nvim-curl) ![](https://img.shields.io/github/stars/minowak/nvim-curl) ![](https://img.shields.io/github/last-commit/minowak/nvim-curl) ![](https://img.shields.io/github/commit-activity/y/minowak/nvim-curl)
+- [bdargan/curl_insert.nvim](https://github.com/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/stars/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/last-commit/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/commit-activity/y/bdargan/curl_insert.nvim)
 
 ### Hurl
 

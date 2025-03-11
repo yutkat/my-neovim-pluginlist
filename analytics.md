@@ -52,6 +52,7 @@
 - [hard-tender-blade/session-timer.nvim](https://github.com/hard-tender-blade/session-timer.nvim) ![](https://img.shields.io/github/stars/hard-tender-blade/session-timer.nvim) ![](https://img.shields.io/github/last-commit/hard-tender-blade/session-timer.nvim) ![](https://img.shields.io/github/commit-activity/y/hard-tender-blade/session-timer.nvim)
 - [walker84837/playtime.nvim](https://github.com/walker84837/playtime.nvim) ![](https://img.shields.io/github/stars/walker84837/playtime.nvim) ![](https://img.shields.io/github/last-commit/walker84837/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/playtime.nvim)
 - [mraspaud/timelog.nvim](https://github.com/mraspaud/timelog.nvim) ![](https://img.shields.io/github/stars/mraspaud/timelog.nvim) ![](https://img.shields.io/github/last-commit/mraspaud/timelog.nvim) ![](https://img.shields.io/github/commit-activity/y/mraspaud/timelog.nvim)
+- [Weyaaron/nvim-project-time-tracking](https://github.com/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/stars/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-project-time-tracking)
 
 #### Timewarrior
 
