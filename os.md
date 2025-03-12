@@ -29,6 +29,7 @@
     + [Window Manager](#window-manager)
     + [iTerm](#iterm)
     + [input source](#input-source)
+    + [Theme](#theme)
   * [iOS](#ios)
   * [Android](#android)
     + [adb](#adb)
@@ -149,6 +150,10 @@
 #### input source
 
 - [smartding/macism.nvim](https://github.com/smartding/macism.nvim) ![](https://img.shields.io/github/stars/smartding/macism.nvim) ![](https://img.shields.io/github/last-commit/smartding/macism.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/macism.nvim)
+
+#### Theme
+
+- [twenty9-labs/neotone.nvim](https://github.com/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/stars/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/last-commit/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/commit-activity/y/twenty9-labs/neotone.nvim)
 
 ### iOS
 

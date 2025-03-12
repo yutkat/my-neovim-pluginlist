@@ -101,6 +101,7 @@
 - [jawee/tmuxcmd.nvim](https://github.com/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/stars/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/last-commit/jawee/tmuxcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/tmuxcmd.nvim)
 - [tkapous/nvim-neovimux](https://github.com/tkapous/nvim-neovimux) ![](https://img.shields.io/github/stars/tkapous/nvim-neovimux) ![](https://img.shields.io/github/last-commit/tkapous/nvim-neovimux) ![](https://img.shields.io/github/commit-activity/y/tkapous/nvim-neovimux)
 - [raresica1234/switch-project.nvim](https://github.com/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/stars/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/last-commit/raresica1234/switch-project.nvim) ![](https://img.shields.io/github/commit-activity/y/raresica1234/switch-project.nvim)
+- [kiyoon/tmux-send.nvim](https://github.com/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/stars/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/tmux-send.nvim)
 
 ##### tmux alternative
 
@@ -260,6 +261,7 @@
 - [BrightXiaoHan/nvim-trzsz](https://github.com/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/stars/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/last-commit/BrightXiaoHan/nvim-trzsz) ![](https://img.shields.io/github/commit-activity/y/BrightXiaoHan/nvim-trzsz)
 - [epheien/conn-manager.nvim](https://github.com/epheien/conn-manager.nvim) ![](https://img.shields.io/github/stars/epheien/conn-manager.nvim) ![](https://img.shields.io/github/last-commit/epheien/conn-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/conn-manager.nvim)
 - [UpHillSolutions-roberth/nvim-ssh](https://github.com/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/stars/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/last-commit/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/commit-activity/y/UpHillSolutions-roberth/nvim-ssh)
+- [kumarvivek1752/remote-ssh.nvim](https://github.com/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/stars/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/kumarvivek1752/remote-ssh.nvim)
 
 #### ftp
 
