@@ -118,6 +118,7 @@
     + [Code::Stats](#codestats)
   * [Checker](#checker)
   * [Font / Emoji](#font--emoji)
+  * [TTS (text-to-speech)](#tts-text-to-speech)
 - [Util pack](#util-pack)
 - [Integration with other apps](#integration-with-other-apps)
   * [Web Service](#web-service)
@@ -568,6 +569,10 @@
 ### [Checker](./checker.md)
 
 ### [Font / Emoji](./font_emoji.md)
+
+### TTS (text-to-speech)
+
+- [johannww/tts.nvim](https://github.com/johannww/tts.nvim) ![](https://img.shields.io/github/stars/johannww/tts.nvim) ![](https://img.shields.io/github/last-commit/johannww/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/tts.nvim)
 
 ## [Util pack](./util-pack.md)
 

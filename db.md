@@ -10,6 +10,7 @@
   * [MongoDB](#mongodb)
   * [SurrealDB](#surrealdb)
   * [EdgeDB](#edgedb)
+  * [Metabase](#metabase)
 
 <!-- tocstop -->
 
@@ -72,3 +73,7 @@
 ### EdgeDB
 
 - [deepbuzin/gel-query.nvim](https://github.com/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/stars/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/last-commit/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/commit-activity/y/deepbuzin/gel-query.nvim)
+
+### Metabase
+
+- [YGautier/mb-query.nvim](https://github.com/YGautier/mb-query.nvim) ![](https://img.shields.io/github/stars/YGautier/mb-query.nvim) ![](https://img.shields.io/github/last-commit/YGautier/mb-query.nvim) ![](https://img.shields.io/github/commit-activity/y/YGautier/mb-query.nvim)

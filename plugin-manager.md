@@ -9,6 +9,7 @@
   * [Orphan checker](#orphan-checker)
   * [Search](#search)
   * [add](#add)
+  * [Info](#info)
   * [Lazy load](#lazy-load)
   * [Plugin Config](#plugin-config)
   * [Switch](#switch)
@@ -76,6 +77,10 @@
 ### add
 
 - [tetzng/add-plugin.nvim](https://github.com/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/stars/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/last-commit/tetzng/add-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/add-plugin.nvim)
+
+### Info
+
+- [naranyala/pluginsize.nvim](https://github.com/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/stars/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/last-commit/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/pluginsize.nvim)
 
 ### Lazy load
 
