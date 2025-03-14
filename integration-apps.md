@@ -416,6 +416,8 @@
 - [iamxiaojianzheng/im-switch-for-windows.nvim](https://github.com/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/stars/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/last-commit/iamxiaojianzheng/im-switch-for-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/iamxiaojianzheng/im-switch-for-windows.nvim)
 - [vaxowt/aimswitcher.nvim](https://github.com/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/stars/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/last-commit/vaxowt/aimswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/vaxowt/aimswitcher.nvim)
 - [imkerberos/rime.nvim](https://github.com/imkerberos/rime.nvim) ![](https://img.shields.io/github/stars/imkerberos/rime.nvim) ![](https://img.shields.io/github/last-commit/imkerberos/rime.nvim) ![](https://img.shields.io/github/commit-activity/y/imkerberos/rime.nvim)
+- [yehuohan/blink-cmp-im](https://github.com/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/stars/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/blink-cmp-im)
+- [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
 
 #### Fcitx
 
