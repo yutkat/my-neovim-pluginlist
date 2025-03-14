@@ -318,6 +318,7 @@
 - [WieeRd/auto-lsp.nvim](https://github.com/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/stars/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/last-commit/WieeRd/auto-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/WieeRd/auto-lsp.nvim)
 - [mmohaveri/EZ-LSP.nvim](https://github.com/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/stars/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/last-commit/mmohaveri/EZ-LSP.nvim) ![](https://img.shields.io/github/commit-activity/y/mmohaveri/EZ-LSP.nvim)
 - [pojokcodeid/auto-lsp.nvim](https://github.com/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-lsp.nvim)
+- [Massolari/lsp-auto-setup.nvim](https://github.com/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/stars/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/last-commit/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/lsp-auto-setup.nvim)
 
 ## Backwards Compatibility
 

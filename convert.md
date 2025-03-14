@@ -68,6 +68,7 @@
 - [polirritmico/simple-boolean-toggle.nvim](https://github.com/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/stars/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/last-commit/polirritmico/simple-boolean-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/polirritmico/simple-boolean-toggle.nvim)
 - [hugo-berendi/srr.nvim](https://github.com/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/stars/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/last-commit/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/commit-activity/y/hugo-berendi/srr.nvim)
 - [evertonse/cycler.nvim](https://github.com/evertonse/cycler.nvim) ![](https://img.shields.io/github/stars/evertonse/cycler.nvim) ![](https://img.shields.io/github/last-commit/evertonse/cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/evertonse/cycler.nvim)
+  - [tfpickard/illogical.nvim](https://github.com/tfpickard/illogical.nvim) ![](https://img.shields.io/github/stars/tfpickard/illogical.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/illogical.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/illogical.nvim)
 
 ### Base64
 

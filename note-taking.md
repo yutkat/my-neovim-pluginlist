@@ -75,6 +75,7 @@
 - [jcdampil23/note_navigation.nvim](https://github.com/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/stars/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/last-commit/jcdampil23/note_navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/jcdampil23/note_navigation.nvim)
 - [OmegaLambda1998/KMdS.nvim](https://github.com/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/stars/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/last-commit/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/commit-activity/y/OmegaLambda1998/KMdS.nvim)
 - [cynumini/notes.nvim](https://github.com/cynumini/notes.nvim) ![](https://img.shields.io/github/stars/cynumini/notes.nvim) ![](https://img.shields.io/github/last-commit/cynumini/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/cynumini/notes.nvim)
+- [msyke/stashdown.nvim](https://github.com/msyke/stashdown.nvim) ![](https://img.shields.io/github/stars/msyke/stashdown.nvim) ![](https://img.shields.io/github/last-commit/msyke/stashdown.nvim) ![](https://img.shields.io/github/commit-activity/y/msyke/stashdown.nvim)
 
 ## ToDo
 
