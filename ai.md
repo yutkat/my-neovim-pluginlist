@@ -382,6 +382,7 @@
 - [z0rzi/ai-chat.nvim](https://github.com/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/stars/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/ai-chat.nvim)
 - [DanielKlossek/github-chatpilot.nvim](https://github.com/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/stars/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/last-commit/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielKlossek/github-chatpilot.nvim)
 - [bytesoverflow/smartcat.nvim](https://github.com/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/stars/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/last-commit/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/commit-activity/y/bytesoverflow/smartcat.nvim)
+- [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 
 ## Cursor
 

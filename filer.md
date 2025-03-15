@@ -140,6 +140,7 @@
 
 - [mikavilpas/yazi.nvim](https://github.com/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/stars/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/yazi.nvim)
 - [Kicamon/yazi.nvim](https://github.com/Kicamon/yazi.nvim) ![](https://img.shields.io/github/stars/Kicamon/yazi.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/yazi.nvim)
+- [MaJinjie/yazi-meta.nvim](https://github.com/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/stars/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/last-commit/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/MaJinjie/yazi-meta.nvim)
 
 ## Network File Manager
 

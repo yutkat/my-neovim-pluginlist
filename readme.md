@@ -168,6 +168,8 @@
 
 ## View
 
+- [OXY2DEV/bars.nvim](https://github.com/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/bars.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/bars.nvim)
+
 ### [Syntax / Highlight](./syntax_highlight.md)
 
 ### [Statusline](./statusline.md)
@@ -573,6 +575,7 @@
 ### TTS (text-to-speech)
 
 - [johannww/tts.nvim](https://github.com/johannww/tts.nvim) ![](https://img.shields.io/github/stars/johannww/tts.nvim) ![](https://img.shields.io/github/last-commit/johannww/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/tts.nvim)
+- [cskeeters/kokoro.nvim](https://github.com/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/stars/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/kokoro.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/kokoro.nvim)
 
 ## [Util pack](./util-pack.md)
 
