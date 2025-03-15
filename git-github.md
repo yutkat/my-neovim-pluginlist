@@ -407,6 +407,7 @@
 - [tkuramot/go-to-pr.nvim](https://github.com/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/stars/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/last-commit/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/tkuramot/go-to-pr.nvim)
 - [mjveilleux/pr-description.nvim](https://github.com/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/stars/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/last-commit/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/commit-activity/y/mjveilleux/pr-description.nvim)
 - [gitusp/pbrowse.nvim](https://github.com/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/stars/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pbrowse.nvim)
+- [gitusp/pr-review.nvim](https://github.com/gitusp/pr-review.nvim) ![](https://img.shields.io/github/stars/gitusp/pr-review.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pr-review.nvim)
 
 ### Pull Request Comment
 

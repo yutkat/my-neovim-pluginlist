@@ -31,6 +31,7 @@
 - [periaate/garage.nvim](https://github.com/periaate/garage.nvim) ![](https://img.shields.io/github/stars/periaate/garage.nvim) ![](https://img.shields.io/github/last-commit/periaate/garage.nvim) ![](https://img.shields.io/github/commit-activity/y/periaate/garage.nvim)
 - [nvimdev/FPKit.nvim](https://github.com/nvimdev/FPKit.nvim) ![](https://img.shields.io/github/stars/nvimdev/FPKit.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/FPKit.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/FPKit.nvim)
 - [deathbeam/myplugins.nvim](https://github.com/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/stars/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/myplugins.nvim)
+- [nxmxsxs/desserts.nvim](https://github.com/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/stars/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/last-commit/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/commit-activity/y/nxmxsxs/desserts.nvim)
 
 ## UI
 

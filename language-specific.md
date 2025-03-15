@@ -332,6 +332,7 @@
 ### fortran
 
 - [gustav-jansen/nvim-fortran-snippets](https://github.com/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/stars/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/last-commit/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/commit-activity/y/gustav-jansen/nvim-fortran-snippets)
+- [wassup05/fortran.nvim](https://github.com/wassup05/fortran.nvim) ![](https://img.shields.io/github/stars/wassup05/fortran.nvim) ![](https://img.shields.io/github/last-commit/wassup05/fortran.nvim) ![](https://img.shields.io/github/commit-activity/y/wassup05/fortran.nvim)
 
 ### DSL
 
