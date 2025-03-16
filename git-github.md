@@ -14,6 +14,7 @@
     + [Auto commit](#auto-commit)
     + [pre-commit](#pre-commit)
     + [commit reminder](#commit-reminder)
+    + [AI commit](#ai-commit)
   * [git fetch](#git-fetch)
   * [git push](#git-push)
   * [git checkout](#git-checkout)
@@ -175,6 +176,10 @@
 ### commit reminder
 
 - [nick-skriabin/commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/commitment.nvim)
+
+### AI commit
+
+- [vernette/ai-commit.nvim](https://github.com/vernette/ai-commit.nvim) ![](https://img.shields.io/github/stars/vernette/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/vernette/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/vernette/ai-commit.nvim)
 
 ## git fetch
 
@@ -417,6 +422,7 @@
 
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) ![](https://img.shields.io/github/stars/topaxi/pipeline.nvim) ![](https://img.shields.io/github/last-commit/topaxi/pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/pipeline.nvim)
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
+- [gitusp/gh-run-status.nvim](https://github.com/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-run-status.nvim)
 
 ## Link
 

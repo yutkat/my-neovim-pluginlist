@@ -21,6 +21,7 @@
   * [CTest](#ctest)
   * [Debug](#debug)
   * [LLDB](#lldb)
+  * [LLM](#llm)
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
   * [Doxygen](#doxygen)
@@ -143,6 +144,10 @@
 ### LLDB
 
 - [julianolf/nvim-dap-lldb](https://github.com/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/stars/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/last-commit/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/commit-activity/y/julianolf/nvim-dap-lldb)
+
+### LLM
+
+- [MHD-GDev/LlamaGen.nvim](https://github.com/MHD-GDev/LlamaGen.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/LlamaGen.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/LlamaGen.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/LlamaGen.nvim)
 
 ### Disassemble
 
