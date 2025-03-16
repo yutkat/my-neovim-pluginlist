@@ -74,6 +74,9 @@
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
   * [Core dump](#core-dump)
+- [Proprietary Software](#proprietary-software)
+  * [NVIDIA](#nvidia)
+    + [CUDA](#cuda)
 
 <!-- tocstop -->
 
@@ -107,6 +110,7 @@
 - [HueGreywell/beam.nvim](https://github.com/HueGreywell/beam.nvim) ![](https://img.shields.io/github/stars/HueGreywell/beam.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/beam.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/beam.nvim)
 - [brunocroh/open-link.nvim](https://github.com/brunocroh/open-link.nvim) ![](https://img.shields.io/github/stars/brunocroh/open-link.nvim) ![](https://img.shields.io/github/last-commit/brunocroh/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/brunocroh/open-link.nvim)
 - [b0lle/open-url-by-regex.nvim](https://github.com/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/stars/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/last-commit/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/commit-activity/y/b0lle/open-url-by-regex.nvim)
+- [jayzone91/links.nvim](https://github.com/jayzone91/links.nvim) ![](https://img.shields.io/github/stars/jayzone91/links.nvim) ![](https://img.shields.io/github/last-commit/jayzone91/links.nvim) ![](https://img.shields.io/github/commit-activity/y/jayzone91/links.nvim)
 
 #### DevTools
 
@@ -463,3 +467,12 @@
 ### Core dump
 
 - [pathmann/stackwalk.nvim](https://github.com/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/stars/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/last-commit/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/pathmann/stackwalk.nvim)
+
+## Proprietary Software
+
+### NVIDIA
+
+#### CUDA
+
+- [Jorgedavyd/cuda-prof.nvim](https://github.com/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/stars/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/last-commit/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/commit-activity/y/Jorgedavyd/cuda-prof.nvim)
+
