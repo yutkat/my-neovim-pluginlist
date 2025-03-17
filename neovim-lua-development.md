@@ -99,7 +99,6 @@
 
 ## Print
 
-- [dokwork/lua-schema.nvim](https://github.com/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/stars/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/last-commit/dokwork/lua-schema.nvim) ![](https://img.shields.io/github/commit-activity/y/dokwork/lua-schema.nvim)
 
 ## Debug
 
