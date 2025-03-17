@@ -121,6 +121,7 @@
   * [TTS (text-to-speech)](#tts-text-to-speech)
 - [Util pack](#util-pack)
 - [Integration with other apps](#integration-with-other-apps)
+  * [Web Browser](#web-browser)
   * [Web Service](#web-service)
   * [CLI](#cli)
   * [AI](#ai)
@@ -151,6 +152,7 @@
 - [Music](#music)
 - [Animation](#animation)
 - [Toy](#toy)
+  * [Game](#game)
 
 <!-- tocstop -->
 
@@ -581,6 +583,8 @@
 
 ## [Integration with other apps](./integration-apps.md)
 
+### [Web Browser](./web-browser.md)
+
 ### [Web Service](./web-service.md)
 
 ### [CLI](./cli.md)
@@ -640,3 +644,5 @@
 ## [Animation](./animation.md)
 
 ## [Toy](./toy.md)
+
+### [Game](./game.md)
