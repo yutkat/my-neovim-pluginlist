@@ -73,6 +73,8 @@
 - [majamin/buffy.nvim](https://github.com/majamin/buffy.nvim) ![](https://img.shields.io/github/stars/majamin/buffy.nvim) ![](https://img.shields.io/github/last-commit/majamin/buffy.nvim) ![](https://img.shields.io/github/commit-activity/y/majamin/buffy.nvim)
 - [benzhou1/buf_switcher.nvim](https://github.com/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/stars/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/last-commit/benzhou1/buf_switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/benzhou1/buf_switcher.nvim)
 - [ashurbekovz/buffer-conflict.nvim](https://github.com/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/stars/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/last-commit/ashurbekovz/buffer-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/ashurbekovz/buffer-conflict.nvim)
+- [paetinspier/buffer-nav.nvim](https://github.com/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/stars/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/last-commit/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/paetinspier/buffer-nav.nvim)
+- [bloznelis/buftrack.nvim](https://github.com/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/stars/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/last-commit/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/commit-activity/y/bloznelis/buftrack.nvim)
 
 ### Other Buffer Switcher
 

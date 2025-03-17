@@ -483,6 +483,8 @@
 ### Lean
 
 - [will-lynas/lean-snippets.nvim](https://github.com/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/stars/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/last-commit/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/will-lynas/lean-snippets.nvim)
+- [Julian/lean.nvim](https://github.com/Julian/lean.nvim) ![](https://img.shields.io/github/stars/Julian/lean.nvim) ![](https://img.shields.io/github/last-commit/Julian/lean.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/lean.nvim)
+- [PatrickMassot/lean-lsp-experiments.nvim](https://github.com/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/stars/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/last-commit/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickMassot/lean-lsp-experiments.nvim)
 
 ### sylt
 

@@ -9,6 +9,7 @@
     + [Firefox](#firefox)
     + [DuckDuckGo](#duckduckgo)
     + [live preview](#live-preview)
+    + [view content](#view-content)
     + [search](#search)
       - [Search without browser](#search-without-browser)
     + [Bookmarks](#bookmarks)
@@ -74,6 +75,7 @@
     + [SuperCollider](#supercollider)
     + [LilyPond](#lilypond)
   * [Core dump](#core-dump)
+  * [dump file](#dump-file)
 - [Proprietary Software](#proprietary-software)
   * [NVIDIA](#nvidia)
     + [CUDA](#cuda)
@@ -130,6 +132,10 @@
 #### live preview
 
 - [dimchee/prochrome.nvim](https://github.com/dimchee/prochrome.nvim) ![](https://img.shields.io/github/stars/dimchee/prochrome.nvim) ![](https://img.shields.io/github/last-commit/dimchee/prochrome.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/prochrome.nvim)
+
+#### view content
+
+- [Leonardo-Luz/read.nvim](https://github.com/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/read.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/read.nvim)
 
 #### search
 
@@ -434,6 +440,7 @@
 - [OliverChao/autoime.nvim](https://github.com/OliverChao/autoime.nvim) ![](https://img.shields.io/github/stars/OliverChao/autoime.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/autoime.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/autoime.nvim)
 - [SR-MyStar/fcitx5-switch.nvim](https://github.com/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/fcitx5-switch.nvim)
 - [JefferyBoy/fcitx.nvim](https://github.com/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/fcitx.nvim)
+- [blurgyy/fcitx5-ui-rs.nvim](https://github.com/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/stars/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/last-commit/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/blurgyy/fcitx5-ui-rs.nvim)
 
 #### ibus
 
@@ -467,6 +474,10 @@
 ### Core dump
 
 - [pathmann/stackwalk.nvim](https://github.com/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/stars/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/last-commit/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/pathmann/stackwalk.nvim)
+
+### dump file
+
+- [nprimo/dump.nvim](https://github.com/nprimo/dump.nvim) ![](https://img.shields.io/github/stars/nprimo/dump.nvim) ![](https://img.shields.io/github/last-commit/nprimo/dump.nvim) ![](https://img.shields.io/github/commit-activity/y/nprimo/dump.nvim)
 
 ## Proprietary Software
 
