@@ -19,6 +19,7 @@
   * [Rename](#rename)
 - [Grep](#grep)
   * [AST (Semantic search)](#ast-semantic-search)
+  * [Zoket(google)](#zoketgoogle)
 - [Select](#select)
   * [Bracket and quote](#bracket-and-quote)
   * [Region info](#region-info)
@@ -178,6 +179,10 @@
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/stars/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/last-commit/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/telescope-ast-grep.nvim)
 - [pratikneupane/nSearch.nvim](https://github.com/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/stars/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/last-commit/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/commit-activity/y/pratikneupane/nSearch.nvim)
 - [newtoallofthis123/goated.nvim](https://github.com/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/stars/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/last-commit/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/commit-activity/y/newtoallofthis123/goated.nvim)
+
+## Zoket(google)
+
+- [kentzhang-geek/zoekt.nvim](https://github.com/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/stars/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/last-commit/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/commit-activity/y/kentzhang-geek/zoekt.nvim)
 
 # Select
 

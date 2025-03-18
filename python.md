@@ -93,6 +93,7 @@
 
 - [mfussenegger/nvim-dap-python](https://github.com/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/stars/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-dap-python) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-dap-python)
 - [camilotorresf/icecream.nvim](https://github.com/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/stars/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/last-commit/camilotorresf/icecream.nvim) ![](https://img.shields.io/github/commit-activity/y/camilotorresf/icecream.nvim)
+- [Davidyz/coredumpy.nvim](https://github.com/Davidyz/coredumpy.nvim) ![](https://img.shields.io/github/stars/Davidyz/coredumpy.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/coredumpy.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/coredumpy.nvim)
 
 ### Profiler
 

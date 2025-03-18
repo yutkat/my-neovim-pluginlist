@@ -4,7 +4,6 @@
 
 - [AI Coding](#ai-coding)
   * [OpenAI(ChatGPT)](#openaichatgpt)
-    + [log](#log)
   * [Gemini](#gemini)
   * [Multi LLM](#multi-llm)
     + [mods](#mods)
@@ -48,6 +47,7 @@
 - [Error Fix Support](#error-fix-support)
 - [OpenAI Review](#openai-review)
 - [Documentation](#documentation)
+- [log](#log)
 - [REPL](#repl)
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
@@ -117,10 +117,6 @@
 - [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
 - [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
 
-#### log
-
-- [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
-
 ### Gemini
 
 - [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) ![](https://img.shields.io/github/stars/gera2ld/ai.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/ai.nvim)
@@ -169,6 +165,7 @@
 - [junaydb/dingllm.nvim](https://github.com/junaydb/dingllm.nvim) ![](https://img.shields.io/github/stars/junaydb/dingllm.nvim) ![](https://img.shields.io/github/last-commit/junaydb/dingllm.nvim) ![](https://img.shields.io/github/commit-activity/y/junaydb/dingllm.nvim)
 - [oleksiiluchnikov/telescope-prompts.nvim](https://github.com/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-prompts.nvim)
 - [brewinski/avante-cody.nvim](https://github.com/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/stars/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/last-commit/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/commit-activity/y/brewinski/avante-cody.nvim)
+- [0xrusowsky/nvim-ctx-ingest](https://github.com/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/stars/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/last-commit/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/commit-activity/y/0xrusowsky/nvim-ctx-ingest)
 
 #### mods
 
@@ -409,6 +406,11 @@
 
 - [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
 - [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
+
+## log
+
+- [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
+- [suverino/llmlog.nvim](https://github.com/suverino/llmlog.nvim) ![](https://img.shields.io/github/stars/suverino/llmlog.nvim) ![](https://img.shields.io/github/last-commit/suverino/llmlog.nvim) ![](https://img.shields.io/github/commit-activity/y/suverino/llmlog.nvim)
 
 ## REPL
 

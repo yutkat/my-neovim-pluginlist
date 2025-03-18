@@ -20,6 +20,7 @@
   * [Colorscheme transparent](#colorscheme-transparent)
   * [Colorscheme session](#colorscheme-session)
   * [Colorscheme file](#colorscheme-file)
+  * [filetype colorscheme](#filetype-colorscheme)
   * [Auto generate colorscheme](#auto-generate-colorscheme)
   * [Colorsheme Compiler](#colorsheme-compiler)
   * [Color name](#color-name)
@@ -166,6 +167,10 @@
 ### Colorscheme file
 
 - [mr55p-dev/color-control.nvim](https://github.com/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/color-control.nvim)
+
+### filetype colorscheme
+
+- [KeiAzDev/framework-highlighter.nvim](https://github.com/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/stars/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/last-commit/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/KeiAzDev/framework-highlighter.nvim)
 
 ### Auto generate colorscheme
 
