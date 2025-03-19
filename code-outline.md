@@ -7,6 +7,7 @@
 - [Call Hierarchy](#call-hierarchy)
 - [Type Hierarchy](#type-hierarchy)
 - [Breadcrumbs](#breadcrumbs)
+- [Function](#function)
 - [Code Block Separater](#code-block-separater)
 
 <!-- tocstop -->
@@ -57,6 +58,10 @@
   - [vifrik/telescope-navic.nvim](https://github.com/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/stars/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/last-commit/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/commit-activity/y/vifrik/telescope-navic.nvim)
 - [nvimdev/lspsaga.nvim(symbols)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/dropbar.nvim)
+
+### Function
+
+- [Beargruug/blink.nvim](https://github.com/Beargruug/blink.nvim) ![](https://img.shields.io/github/stars/Beargruug/blink.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/blink.nvim)
 
 ### Code Block Separater
 
