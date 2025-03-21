@@ -61,6 +61,7 @@
 - [I0I-I0I/sessions.nvim](https://github.com/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/stars/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/last-commit/I0I-I0I/sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/I0I-I0I/sessions.nvim)
 - [erslee/session-manager.nvim](https://github.com/erslee/session-manager.nvim) ![](https://img.shields.io/github/stars/erslee/session-manager.nvim) ![](https://img.shields.io/github/last-commit/erslee/session-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/erslee/session-manager.nvim)
 - [zchown/Continuity.nvim](https://github.com/zchown/Continuity.nvim) ![](https://img.shields.io/github/stars/zchown/Continuity.nvim) ![](https://img.shields.io/github/last-commit/zchown/Continuity.nvim) ![](https://img.shields.io/github/commit-activity/y/zchown/Continuity.nvim)
+- [Noino/sessioneer.nvim](https://github.com/Noino/sessioneer.nvim) ![](https://img.shields.io/github/stars/Noino/sessioneer.nvim) ![](https://img.shields.io/github/last-commit/Noino/sessioneer.nvim) ![](https://img.shields.io/github/commit-activity/y/Noino/sessioneer.nvim)
 
 ## Session Selector
 

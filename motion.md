@@ -74,6 +74,7 @@
 - [Ausgefuchster/quickselect.nvim](https://github.com/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/stars/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/last-commit/Ausgefuchster/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausgefuchster/quickselect.nvim)
 - [slezica/blip.nvim](https://github.com/slezica/blip.nvim) ![](https://img.shields.io/github/stars/slezica/blip.nvim) ![](https://img.shields.io/github/last-commit/slezica/blip.nvim) ![](https://img.shields.io/github/commit-activity/y/slezica/blip.nvim)
 - [FluxxField/smart-motion.nvim](https://github.com/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/stars/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/last-commit/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/FluxxField/smart-motion.nvim)
+- [HawkinsT/pathfinder.nvim](https://github.com/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/stars/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/last-commit/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/HawkinsT/pathfinder.nvim)
 
 ### Horizontal Move
 

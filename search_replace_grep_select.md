@@ -172,6 +172,7 @@
 - [BrunoCiccarino/lazygrep.nvim](https://github.com/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/stars/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/last-commit/BrunoCiccarino/lazygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/BrunoCiccarino/lazygrep.nvim)
 - [wsdjeg/flygrep.nvim](https://github.com/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/stars/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/flygrep.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/flygrep.nvim)
 - [hsk-kr/licovim.nvim](https://github.com/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/stars/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/last-commit/hsk-kr/licovim.nvim) ![](https://img.shields.io/github/commit-activity/y/hsk-kr/licovim.nvim)
+- [happy663/telescope-livegrep-history.nvim](https://github.com/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/stars/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/last-commit/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/commit-activity/y/happy663/telescope-livegrep-history.nvim)
 
 ## AST (Semantic search)
 

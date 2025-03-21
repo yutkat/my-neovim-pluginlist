@@ -42,6 +42,7 @@
   * [git ls-files](#git-ls-files)
   * [Change](#change)
   * [flow](#flow)
+  * [Wrapper](#wrapper)
 - [Jujutsu(jj)](#jujutsujj)
   * [diff](#diff)
 - [GitHub](#github)
@@ -349,6 +350,10 @@
 
 - [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
 
+## Wrapper
+
+- [skeletony007/git-help.nvim](https://github.com/skeletony007/git-help.nvim) ![](https://img.shields.io/github/stars/skeletony007/git-help.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/git-help.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/git-help.nvim)
+
 # Jujutsu(jj)
 
 - [zschreur/telescope-jj.nvim](https://github.com/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/stars/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/last-commit/zschreur/telescope-jj.nvim) ![](https://img.shields.io/github/commit-activity/y/zschreur/telescope-jj.nvim)
@@ -472,6 +477,7 @@
 - [elliotxx/copypath.nvim](https://github.com/elliotxx/copypath.nvim) ![](https://img.shields.io/github/stars/elliotxx/copypath.nvim) ![](https://img.shields.io/github/last-commit/elliotxx/copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotxx/copypath.nvim)
 - [johnsaigle/github-permalink.nvim](https://github.com/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/stars/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/github-permalink.nvim)
 - [k2589/getgithublink.nvim](https://github.com/k2589/getgithublink.nvim) ![](https://img.shields.io/github/stars/k2589/getgithublink.nvim) ![](https://img.shields.io/github/last-commit/k2589/getgithublink.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/getgithublink.nvim)
+- [cfal/github-line.nvim](https://github.com/cfal/github-line.nvim) ![](https://img.shields.io/github/stars/cfal/github-line.nvim) ![](https://img.shields.io/github/last-commit/cfal/github-line.nvim) ![](https://img.shields.io/github/commit-activity/y/cfal/github-line.nvim)
 
 ## Image
 

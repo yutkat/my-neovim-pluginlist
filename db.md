@@ -41,6 +41,7 @@
 - [OleJoik/squeel.nvim](https://github.com/OleJoik/squeel.nvim) ![](https://img.shields.io/github/stars/OleJoik/squeel.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/squeel.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/squeel.nvim)
 - [sergei-durkin/sql-formatter.nvim](https://github.com/sergei-durkin/sql-formatter.nvim) ![](https://img.shields.io/github/stars/sergei-durkin/sql-formatter.nvim) ![](https://img.shields.io/github/last-commit/sergei-durkin/sql-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/sergei-durkin/sql-formatter.nvim)
 - [mportdata/squealer.nvim](https://github.com/mportdata/squealer.nvim) ![](https://img.shields.io/github/stars/mportdata/squealer.nvim) ![](https://img.shields.io/github/last-commit/mportdata/squealer.nvim) ![](https://img.shields.io/github/commit-activity/y/mportdata/squealer.nvim)
+- [edlandm/sqlr.nvim](https://github.com/edlandm/sqlr.nvim) ![](https://img.shields.io/github/stars/edlandm/sqlr.nvim) ![](https://img.shields.io/github/last-commit/edlandm/sqlr.nvim) ![](https://img.shields.io/github/commit-activity/y/edlandm/sqlr.nvim)
 
 ### PostgreSQL
 
