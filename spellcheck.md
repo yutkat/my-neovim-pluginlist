@@ -30,6 +30,7 @@
 - [okaydouglas/spelling.nvim](https://github.com/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/stars/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/last-commit/okaydouglas/spelling.nvim) ![](https://img.shields.io/github/commit-activity/y/okaydouglas/spelling.nvim)
 - [mimikun/cspell-lsp.nvim](https://github.com/mimikun/cspell-lsp.nvim) ![](https://img.shields.io/github/stars/mimikun/cspell-lsp.nvim) ![](https://img.shields.io/github/last-commit/mimikun/cspell-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/cspell-lsp.nvim)
 - [richardhapb/neospeller.nvim](https://github.com/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/stars/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/last-commit/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhapb/neospeller.nvim)
+- [LucaSartore/fastspell.nvim](https://github.com/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/stars/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/last-commit/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/commit-activity/y/LucaSartore/fastspell.nvim)
 
 #### Vale
 

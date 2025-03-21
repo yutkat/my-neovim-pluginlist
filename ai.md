@@ -14,6 +14,7 @@
   * [Claude](#claude)
   * [Claude Code](#claude-code)
   * [DeepSeek](#deepseek)
+  * [Devin](#devin)
   * [OpenRouter](#openrouter)
   * [Supermaven](#supermaven)
   * [greptile](#greptile)
@@ -218,6 +219,7 @@
 - [TangerineGlacier/nvim-tangerine](https://github.com/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/stars/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/last-commit/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/commit-activity/y/TangerineGlacier/nvim-tangerine)
 - [CaKellum/ollama_question.nvim](https://github.com/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/stars/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/last-commit/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/commit-activity/y/CaKellum/ollama_question.nvim)
 - [haydenzeller/nvim-wingman](https://github.com/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/stars/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/last-commit/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/commit-activity/y/haydenzeller/nvim-wingman)
+- [VyacheslavVanin/llm-requester.nvim](https://github.com/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/llm-requester.nvim)
 
 ### Claude
 
@@ -243,6 +245,10 @@
 ### DeepSeek
 
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
+
+### Devin
+
+- [wstewarttennes/nvim-devin](https://github.com/wstewarttennes/nvim-devin) ![](https://img.shields.io/github/stars/wstewarttennes/nvim-devin) ![](https://img.shields.io/github/last-commit/wstewarttennes/nvim-devin) ![](https://img.shields.io/github/commit-activity/y/wstewarttennes/nvim-devin)
 
 ### OpenRouter
 

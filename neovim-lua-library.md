@@ -175,6 +175,7 @@
 - [dssste/stack-box.nvim](https://github.com/dssste/stack-box.nvim) ![](https://img.shields.io/github/stars/dssste/stack-box.nvim) ![](https://img.shields.io/github/last-commit/dssste/stack-box.nvim) ![](https://img.shields.io/github/commit-activity/y/dssste/stack-box.nvim)
 - [samsze0/notifier.nvim](https://github.com/samsze0/notifier.nvim) ![](https://img.shields.io/github/stars/samsze0/notifier.nvim) ![](https://img.shields.io/github/last-commit/samsze0/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/notifier.nvim)
 - [d1agnoze/noti.nvim](https://github.com/d1agnoze/noti.nvim) ![](https://img.shields.io/github/stars/d1agnoze/noti.nvim) ![](https://img.shields.io/github/last-commit/d1agnoze/noti.nvim) ![](https://img.shields.io/github/commit-activity/y/d1agnoze/noti.nvim)
+- [wsdjeg/notify.nvim](https://github.com/wsdjeg/notify.nvim) ![](https://img.shields.io/github/stars/wsdjeg/notify.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/notify.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/notify.nvim)
 
 ### vim.ui.select/vim.ui.input
 

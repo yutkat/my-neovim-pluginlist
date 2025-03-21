@@ -88,6 +88,7 @@
 - [brianhuster/snipexec.nvim](https://github.com/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/stars/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/snipexec.nvim)
 - [yimuchen/tmux-repl.nvim](https://github.com/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/stars/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/last-commit/yimuchen/tmux-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/yimuchen/tmux-repl.nvim)
 - [wsdjeg/repl.nvim](https://github.com/wsdjeg/repl.nvim) ![](https://img.shields.io/github/stars/wsdjeg/repl.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/repl.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/repl.nvim)
+- [Futarimiti/ferrum.nvim](https://github.com/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/stars/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/last-commit/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/commit-activity/y/Futarimiti/ferrum.nvim)
 
 ### Refactoring,Debugging
 

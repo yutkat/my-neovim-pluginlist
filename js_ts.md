@@ -23,6 +23,7 @@
   * [Typst preview](#typst-preview)
   * [JSON](#json)
   * [Test](#test)
+    + [Jasmine](#jasmine)
   * [Debug](#debug)
   * [jsdoc](#jsdoc)
   * [Task Runner](#task-runner)
@@ -176,6 +177,10 @@
 - [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
 - [sashankr98/nvim-jester](https://github.com/sashankr98/nvim-jester) ![](https://img.shields.io/github/stars/sashankr98/nvim-jester) ![](https://img.shields.io/github/last-commit/sashankr98/nvim-jester) ![](https://img.shields.io/github/commit-activity/y/sashankr98/nvim-jester)
 - [nicolasgandrade/jest-runner.nvim](https://github.com/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/stars/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/last-commit/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasgandrade/jest-runner.nvim)
+
+#### Jasmine
+
+- [greggannicott/jasmine-toggle.nvim](https://github.com/greggannicott/jasmine-toggle.nvim) ![](https://img.shields.io/github/stars/greggannicott/jasmine-toggle.nvim) ![](https://img.shields.io/github/last-commit/greggannicott/jasmine-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/greggannicott/jasmine-toggle.nvim)
 
 ### Debug
 

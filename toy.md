@@ -55,6 +55,7 @@
 - [giusgad/pets.nvim](https://github.com/giusgad/pets.nvim) ![](https://img.shields.io/github/stars/giusgad/pets.nvim) ![](https://img.shields.io/github/last-commit/giusgad/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/giusgad/pets.nvim)
 - [The-Silent-One/goose.nvim](https://github.com/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/goose.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/goose.nvim)
 - [bkp5190/rduck.nvim](https://github.com/bkp5190/rduck.nvim) ![](https://img.shields.io/github/stars/bkp5190/rduck.nvim) ![](https://img.shields.io/github/last-commit/bkp5190/rduck.nvim) ![](https://img.shields.io/github/commit-activity/y/bkp5190/rduck.nvim)
+- [kiddos/pawtocomplete.nvim](https://github.com/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/stars/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/last-commit/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/pawtocomplete.nvim)
 
 ## Image
 
