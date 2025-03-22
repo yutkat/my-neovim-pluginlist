@@ -76,6 +76,7 @@
 - [vunhatchuong/fzf-lua-jumplist.nvim](https://github.com/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/fzf-lua-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/fzf-lua-jumplist.nvim)
 - [vunhatchuong/snacks-jumplist.nvim](https://github.com/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/snacks-jumplist.nvim)
 - [vunhatchuong/buffer-jumplist.nvim](https://github.com/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/buffer-jumplist.nvim)
+- [ValenteMesmo/linear-jumps.nvim](https://github.com/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/stars/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/last-commit/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/ValenteMesmo/linear-jumps.nvim)
 
 ### Edit History
 

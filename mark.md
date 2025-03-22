@@ -102,6 +102,7 @@
 - [zongben/navimark.nvim](https://github.com/zongben/navimark.nvim) ![](https://img.shields.io/github/stars/zongben/navimark.nvim) ![](https://img.shields.io/github/last-commit/zongben/navimark.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/navimark.nvim)
 - [heilgar/bookmarks.nvim](https://github.com/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/stars/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/bookmarks.nvim)
 - [ralphmodales/highlight.nvim](https://github.com/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/stars/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/last-commit/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ralphmodales/highlight.nvim)
+- [ojroques/nvim-bookmarks](https://github.com/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/stars/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/last-commit/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-bookmarks)
 
 ### etc
 

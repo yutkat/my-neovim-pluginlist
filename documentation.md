@@ -82,6 +82,7 @@
 - [batmikun/mactions.nvim](https://github.com/batmikun/mactions.nvim) ![](https://img.shields.io/github/stars/batmikun/mactions.nvim) ![](https://img.shields.io/github/last-commit/batmikun/mactions.nvim) ![](https://img.shields.io/github/commit-activity/y/batmikun/mactions.nvim)
 - [yuukibarns/markdown.nvim](https://github.com/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/stars/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/markdown.nvim)
 - [roodolv/markdown-toggle.nvim](https://github.com/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/stars/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/last-commit/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roodolv/markdown-toggle.nvim)
+- [BowTiedItaliano/markdown-essentials.nvim](https://github.com/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/stars/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/last-commit/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/BowTiedItaliano/markdown-essentials.nvim)
 
 #### Markdown link
 
@@ -227,6 +228,7 @@
 - [qaptoR-nvim/fantableous.nvim](https://github.com/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/stars/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/last-commit/qaptoR-nvim/fantableous.nvim) ![](https://img.shields.io/github/commit-activity/y/qaptoR-nvim/fantableous.nvim)
 - [SCJangra/table-nvim](https://github.com/SCJangra/table-nvim) ![](https://img.shields.io/github/stars/SCJangra/table-nvim) ![](https://img.shields.io/github/last-commit/SCJangra/table-nvim) ![](https://img.shields.io/github/commit-activity/y/SCJangra/table-nvim)
 - [nuhakala/nvim-simple-tables](https://github.com/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/stars/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/last-commit/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/commit-activity/y/nuhakala/nvim-simple-tables)
+- [bosha/md-table-navigation.nvim](https://github.com/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/stars/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/last-commit/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/bosha/md-table-navigation.nvim)
 
 #### footnote
 
