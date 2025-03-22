@@ -7,6 +7,7 @@
   * [Encrypt](#encrypt)
 - [Privacy](#privacy)
 - [GPG](#gpg)
+  * [Keychain](#keychain)
 - [Sigma rule](#sigma-rule)
 - [Vulnerability test](#vulnerability-test)
 - [Solana](#solana)
@@ -49,6 +50,10 @@
 ### GPG
 
 - [defyus/doxly.nvim](https://github.com/defyus/doxly.nvim) ![](https://img.shields.io/github/stars/defyus/doxly.nvim) ![](https://img.shields.io/github/last-commit/defyus/doxly.nvim) ![](https://img.shields.io/github/commit-activity/y/defyus/doxly.nvim)
+
+#### Keychain
+
+- [actionshrimp/keychain-environment.nvim](https://github.com/actionshrimp/keychain-environment.nvim) ![](https://img.shields.io/github/stars/actionshrimp/keychain-environment.nvim) ![](https://img.shields.io/github/last-commit/actionshrimp/keychain-environment.nvim) ![](https://img.shields.io/github/commit-activity/y/actionshrimp/keychain-environment.nvim)
 
 ### Sigma rule
 

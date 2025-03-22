@@ -76,6 +76,7 @@
 - [OmegaLambda1998/KMdS.nvim](https://github.com/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/stars/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/last-commit/OmegaLambda1998/KMdS.nvim) ![](https://img.shields.io/github/commit-activity/y/OmegaLambda1998/KMdS.nvim)
 - [cynumini/notes.nvim](https://github.com/cynumini/notes.nvim) ![](https://img.shields.io/github/stars/cynumini/notes.nvim) ![](https://img.shields.io/github/last-commit/cynumini/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/cynumini/notes.nvim)
 - [msyke/stashdown.nvim](https://github.com/msyke/stashdown.nvim) ![](https://img.shields.io/github/stars/msyke/stashdown.nvim) ![](https://img.shields.io/github/last-commit/msyke/stashdown.nvim) ![](https://img.shields.io/github/commit-activity/y/msyke/stashdown.nvim)
+- [hsteinshiromoto/markdown_mover.nvim](https://github.com/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_mover.nvim)
 
 ## ToDo
 

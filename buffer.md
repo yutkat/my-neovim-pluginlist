@@ -161,6 +161,7 @@
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ![](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/mru.nvim)
 - [rclawlor/wwi.nvim](https://github.com/rclawlor/wwi.nvim) ![](https://img.shields.io/github/stars/rclawlor/wwi.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/wwi.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/wwi.nvim)
 - [naranyala/buffcounts.nvim](https://github.com/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/stars/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/last-commit/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/buffcounts.nvim)
+- [BibekBhusal0/bufstack.nvim](https://github.com/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/stars/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/last-commit/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/bufstack.nvim)
 
 ##### remote open
 
@@ -209,6 +210,7 @@
 - [ohakutsu/socks-copypath.nvim](https://github.com/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/stars/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/last-commit/ohakutsu/socks-copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/ohakutsu/socks-copypath.nvim)
 - [vincent178/copy.nvim](https://github.com/vincent178/copy.nvim) ![](https://img.shields.io/github/stars/vincent178/copy.nvim) ![](https://img.shields.io/github/last-commit/vincent178/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/vincent178/copy.nvim)
 - [mogulla3/copy-file-path.nvim](https://github.com/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/stars/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/copy-file-path.nvim)
+- [mikinovation/pathtool.nvim](https://github.com/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/stars/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/last-commit/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/commit-activity/y/mikinovation/pathtool.nvim)
 
 #### status
 

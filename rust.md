@@ -11,6 +11,7 @@
   * [Completion](#completion)
   * [Template](#template)
     + [Askama](#askama)
+    + [Maud](#maud)
   * [Crate](#crate)
   * [lifetime](#lifetime)
 
@@ -60,6 +61,10 @@
 ### Template
 
 #### Askama
+
+#### Maud
+
+- [eboody/maud-fmt.nvim](https://github.com/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/stars/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/last-commit/eboody/maud-fmt.nvim) ![](https://img.shields.io/github/commit-activity/y/eboody/maud-fmt.nvim)
 
 ### Crate
 

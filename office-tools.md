@@ -16,6 +16,7 @@
 - [AlejandroSuero/pop.nvim](https://github.com/AlejandroSuero/pop.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/pop.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/pop.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/pop.nvim)
 - [holmanb/telescope-notmuch.nvim](https://github.com/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/stars/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/last-commit/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/commit-activity/y/holmanb/telescope-notmuch.nvim)
 - [mraspaud/kbmail.nvim](https://github.com/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/stars/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/last-commit/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/commit-activity/y/mraspaud/kbmail.nvim)
+- [BasileBux/mail.nvim](https://github.com/BasileBux/mail.nvim) ![](https://img.shields.io/github/stars/BasileBux/mail.nvim) ![](https://img.shields.io/github/last-commit/BasileBux/mail.nvim) ![](https://img.shields.io/github/commit-activity/y/BasileBux/mail.nvim)
 
 ## Contacts
 
