@@ -55,6 +55,7 @@
 - [Copy File Context](#copy-file-context)
 - [RAG](#rag)
 - [Model Context Protocol](#model-context-protocol)
+- [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
   * [Linkup](#linkup)
   * [Gennie CLI](#gennie-cli)
@@ -442,6 +443,10 @@
 ## Model Context Protocol
 
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
+
+## Configuration File (.cursor)
+
+- [banjo/contextfiles.nvim](https://github.com/banjo/contextfiles.nvim) ![](https://img.shields.io/github/stars/banjo/contextfiles.nvim) ![](https://img.shields.io/github/last-commit/banjo/contextfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/banjo/contextfiles.nvim)
 
 ## Integration
 

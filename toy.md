@@ -104,6 +104,7 @@
 - [lazymaniac/wttr.nvim](https://github.com/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/stars/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/last-commit/lazymaniac/wttr.nvim) ![](https://img.shields.io/github/commit-activity/y/lazymaniac/wttr.nvim)
 - [zachbuchli/weather.nvim](https://github.com/zachbuchli/weather.nvim) ![](https://img.shields.io/github/stars/zachbuchli/weather.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/weather.nvim)
 - [macro21KGB/simple-weather.nvim](https://github.com/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/stars/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/last-commit/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/commit-activity/y/macro21KGB/simple-weather.nvim)
+- [frenchef156/weather.nvim](https://github.com/frenchef156/weather.nvim) ![](https://img.shields.io/github/stars/frenchef156/weather.nvim) ![](https://img.shields.io/github/last-commit/frenchef156/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/frenchef156/weather.nvim)
 
 ## Clock
 

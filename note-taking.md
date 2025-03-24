@@ -152,6 +152,8 @@
 - [hschne/todox.nvim](https://github.com/hschne/todox.nvim) ![](https://img.shields.io/github/stars/hschne/todox.nvim) ![](https://img.shields.io/github/last-commit/hschne/todox.nvim) ![](https://img.shields.io/github/commit-activity/y/hschne/todox.nvim)
 - [hamidzr/task-manager.nvim](https://github.com/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/stars/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/last-commit/hamidzr/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidzr/task-manager.nvim)
 - [h4rdc0m/todo-scanner.nvim](https://github.com/h4rdc0m/todo-scanner.nvim) ![](https://img.shields.io/github/stars/h4rdc0m/todo-scanner.nvim) ![](https://img.shields.io/github/last-commit/h4rdc0m/todo-scanner.nvim) ![](https://img.shields.io/github/commit-activity/y/h4rdc0m/todo-scanner.nvim)
+- [Rocco-Gossmann/nvim-tasklist](https://github.com/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/stars/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/last-commit/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/commit-activity/y/Rocco-Gossmann/nvim-tasklist)
+- [bearded-giant/Do-It.nvim](https://github.com/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/stars/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/Do-It.nvim)
 
 ### Taskwarrior
 
@@ -369,3 +371,5 @@
 - [Hernan-Ibarra/brain.nvim](https://github.com/Hernan-Ibarra/brain.nvim) ![](https://img.shields.io/github/stars/Hernan-Ibarra/brain.nvim) ![](https://img.shields.io/github/last-commit/Hernan-Ibarra/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/Hernan-Ibarra/brain.nvim)
 - [cristianmoroaica/mimirs_notes.nvim](https://github.com/cristianmoroaica/mimirs_notes.nvim) ![](https://img.shields.io/github/stars/cristianmoroaica/mimirs_notes.nvim) ![](https://img.shields.io/github/last-commit/cristianmoroaica/mimirs_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianmoroaica/mimirs_notes.nvim)
 - [gen4438/memo.nvim](https://github.com/gen4438/memo.nvim) ![](https://img.shields.io/github/stars/gen4438/memo.nvim) ![](https://img.shields.io/github/last-commit/gen4438/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/gen4438/memo.nvim)
+- [matteotagliatti/notes.nvim](https://github.com/matteotagliatti/notes.nvim) ![](https://img.shields.io/github/stars/matteotagliatti/notes.nvim) ![](https://img.shields.io/github/last-commit/matteotagliatti/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/matteotagliatti/notes.nvim)
+- [rober-m/audit.nvim](https://github.com/rober-m/audit.nvim) ![](https://img.shields.io/github/stars/rober-m/audit.nvim) ![](https://img.shields.io/github/last-commit/rober-m/audit.nvim) ![](https://img.shields.io/github/commit-activity/y/rober-m/audit.nvim)

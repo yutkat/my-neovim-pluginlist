@@ -42,6 +42,7 @@
 - [Seba244c/run.nvim](https://github.com/Seba244c/run.nvim) ![](https://img.shields.io/github/stars/Seba244c/run.nvim) ![](https://img.shields.io/github/last-commit/Seba244c/run.nvim) ![](https://img.shields.io/github/commit-activity/y/Seba244c/run.nvim)
 - [Beloin/Launch.nvim](https://github.com/Beloin/Launch.nvim) ![](https://img.shields.io/github/stars/Beloin/Launch.nvim) ![](https://img.shields.io/github/last-commit/Beloin/Launch.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/Launch.nvim)
 - [H4-MM-3R/recon.nvim](https://github.com/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/stars/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/last-commit/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/commit-activity/y/H4-MM-3R/recon.nvim)
+- [epoll31/script_runner.nvim](https://github.com/epoll31/script_runner.nvim) ![](https://img.shields.io/github/stars/epoll31/script_runner.nvim) ![](https://img.shields.io/github/last-commit/epoll31/script_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/epoll31/script_runner.nvim)
 
 ### YAML
 

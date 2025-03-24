@@ -49,6 +49,7 @@
 - [ingenarel/nvim-pairMan](https://github.com/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/stars/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/last-commit/ingenarel/nvim-pairMan) ![](https://img.shields.io/github/commit-activity/y/ingenarel/nvim-pairMan)
 - [MrNerzan/enclose.nvim](https://github.com/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/stars/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/last-commit/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/commit-activity/y/MrNerzan/enclose.nvim)
 - [nvimdev/fnpairs.nvim](https://github.com/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/stars/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/fnpairs.nvim)
+- [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) ![](https://img.shields.io/github/stars/Saghen/blink.pairs) ![](https://img.shields.io/github/last-commit/Saghen/blink.pairs) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.pairs)
 
 ### escape pairs
 

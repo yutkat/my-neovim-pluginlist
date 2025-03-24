@@ -275,6 +275,7 @@
 #### Markdown image
 
 - [breiting/idado.nvim](https://github.com/breiting/idado.nvim) ![](https://img.shields.io/github/stars/breiting/idado.nvim) ![](https://img.shields.io/github/last-commit/breiting/idado.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/idado.nvim)
+- [HakonHarnes/img-clip-2.nvim](https://github.com/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/stars/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/last-commit/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/commit-activity/y/HakonHarnes/img-clip-2.nvim)
 
 #### Markdown concealer
 
