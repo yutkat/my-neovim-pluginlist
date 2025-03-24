@@ -88,6 +88,7 @@
 - [enrodpre/logging.nvim](https://github.com/enrodpre/logging.nvim) ![](https://img.shields.io/github/stars/enrodpre/logging.nvim) ![](https://img.shields.io/github/last-commit/enrodpre/logging.nvim) ![](https://img.shields.io/github/commit-activity/y/enrodpre/logging.nvim)
 - [kirill-d-lappo/nvim-clerk](https://github.com/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-clerk)
 - [vijaysenapathi/nvim-debug-tools](https://github.com/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/stars/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/last-commit/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/commit-activity/y/vijaysenapathi/nvim-debug-tools)
+- [wsdjeg/logger.nvim](https://github.com/wsdjeg/logger.nvim) ![](https://img.shields.io/github/stars/wsdjeg/logger.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/logger.nvim)
 
 ## async
 

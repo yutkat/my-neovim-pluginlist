@@ -11,9 +11,12 @@
   * [index.js](#indexjs)
   * [Package](#package)
     + [i18next](#i18next)
+    + [UI](#ui)
+      - [shadcn](#shadcn)
   * [Jsx](#jsx)
 - [Toolchain](#toolchain)
   * [tsc(TypeScript compiler)](#tsctypescript-compiler)
+  * [typescript-go](#typescript-go)
   * [Type check](#type-check)
   * [Formatter](#formatter)
   * [Lint](#lint)
@@ -110,6 +113,12 @@
 
 - [nabekou29/js-i18n.nvim](https://github.com/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/stars/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/js-i18n.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/js-i18n.nvim)
 
+#### UI
+
+##### shadcn
+
+- [BibekBhusal0/nvim-shadcn](https://github.com/BibekBhusal0/nvim-shadcn) ![](https://img.shields.io/github/stars/BibekBhusal0/nvim-shadcn) ![](https://img.shields.io/github/last-commit/BibekBhusal0/nvim-shadcn) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/nvim-shadcn)
+
 ### Jsx
 
 - [Apfelfrosch/jsxcomments.nvim](https://github.com/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/stars/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/last-commit/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/commit-activity/y/Apfelfrosch/jsxcomments.nvim)
@@ -126,6 +135,11 @@
 - [jpwallace22/typelens.nvim](https://github.com/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/stars/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/last-commit/jpwallace22/typelens.nvim) ![](https://img.shields.io/github/commit-activity/y/jpwallace22/typelens.nvim)
 - [jacksonmelcher/pretty-ts-errors.nvim](https://github.com/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/jacksonmelcher/pretty-ts-errors.nvim)
 - [rafaelmian1/tsc-errors.nvim](https://github.com/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/stars/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/last-commit/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelmian1/tsc-errors.nvim)
+- [youyoumu/pretty-ts-errors.nvim](https://github.com/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/youyoumu/pretty-ts-errors.nvim)
+
+### typescript-go
+
+- [josa42/nvim-tsgo](https://github.com/josa42/nvim-tsgo) ![](https://img.shields.io/github/stars/josa42/nvim-tsgo) ![](https://img.shields.io/github/last-commit/josa42/nvim-tsgo) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-tsgo)
 
 ### Type check
 
@@ -214,6 +228,7 @@
 - [antonk52/npm_scripts.nvim](https://github.com/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/stars/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/last-commit/antonk52/npm_scripts.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/npm_scripts.nvim)
 - [danitrap/version-lens.nvim](https://github.com/danitrap/version-lens.nvim) ![](https://img.shields.io/github/stars/danitrap/version-lens.nvim) ![](https://img.shields.io/github/last-commit/danitrap/version-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/danitrap/version-lens.nvim)
 - [MerryChaos/package-versions.nvim](https://github.com/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/stars/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/last-commit/MerryChaos/package-versions.nvim) ![](https://img.shields.io/github/commit-activity/y/MerryChaos/package-versions.nvim)
+- [wukuohao2003/telescope-node-packages.nvim](https://github.com/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/stars/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/last-commit/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/commit-activity/y/wukuohao2003/telescope-node-packages.nvim)
 
 #### pnpm
 

@@ -326,6 +326,7 @@
 #### htop
 
 - [idossha/htop.nvim](https://github.com/idossha/htop.nvim) ![](https://img.shields.io/github/stars/idossha/htop.nvim) ![](https://img.shields.io/github/last-commit/idossha/htop.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/htop.nvim)
+- [yehuohan/hop.nvim](https://github.com/yehuohan/hop.nvim) ![](https://img.shields.io/github/stars/yehuohan/hop.nvim) ![](https://img.shields.io/github/last-commit/yehuohan/hop.nvim) ![](https://img.shields.io/github/commit-activity/y/yehuohan/hop.nvim)
 
 #### dotfiles
 

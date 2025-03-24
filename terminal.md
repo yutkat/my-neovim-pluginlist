@@ -77,6 +77,7 @@
 - [J-Me-2307/terminalis.nvim](https://github.com/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/stars/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/last-commit/J-Me-2307/terminalis.nvim) ![](https://img.shields.io/github/commit-activity/y/J-Me-2307/terminalis.nvim)
 - [kennytheeggman/embterm.nvim](https://github.com/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/stars/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/last-commit/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/commit-activity/y/kennytheeggman/embterm.nvim)
 - [thefux/tui-terminal.nvim](https://github.com/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/stars/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/last-commit/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/thefux/tui-terminal.nvim)
+- [dpi0/fim.nvim](https://github.com/dpi0/fim.nvim) ![](https://img.shields.io/github/stars/dpi0/fim.nvim) ![](https://img.shields.io/github/last-commit/dpi0/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/fim.nvim)
 
 ### Open
 
