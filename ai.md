@@ -1,4 +1,4 @@
-# Tabl]letieu/graphql.nvim of Contents
+# Table of Contents
 
 <!-- toc -->
 
