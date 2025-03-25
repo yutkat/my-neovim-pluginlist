@@ -133,6 +133,7 @@
 - [diaakasem/nvim-git-modified](https://github.com/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/stars/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/last-commit/diaakasem/nvim-git-modified) ![](https://img.shields.io/github/commit-activity/y/diaakasem/nvim-git-modified)
 - [abccsss/nvim-gitstatus](https://github.com/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/stars/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/last-commit/abccsss/nvim-gitstatus) ![](https://img.shields.io/github/commit-activity/y/abccsss/nvim-gitstatus)
 - [you-fail-me/git-drift.nvim](https://github.com/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/stars/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/last-commit/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/commit-activity/y/you-fail-me/git-drift.nvim)
+- [victorvf/simple-git-status.nvim](https://github.com/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/stars/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/last-commit/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/victorvf/simple-git-status.nvim)
 
 ## git add
 

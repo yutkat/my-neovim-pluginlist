@@ -308,6 +308,7 @@
 - [JMarkin/gentags.lua](https://github.com/JMarkin/gentags.lua) ![](https://img.shields.io/github/stars/JMarkin/gentags.lua) ![](https://img.shields.io/github/last-commit/JMarkin/gentags.lua) ![](https://img.shields.io/github/commit-activity/y/JMarkin/gentags.lua)
 - [epheien/outline-ctags-provider.nvim](https://github.com/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-ctags-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-ctags-provider.nvim)
 - [francescoApophis/my_ctags.nvim](https://github.com/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/stars/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/my_ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/my_ctags.nvim)
+- [wsdjeg/ctags.nvim](https://github.com/wsdjeg/ctags.nvim) ![](https://img.shields.io/github/stars/wsdjeg/ctags.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/ctags.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/ctags.nvim)
 
 #### global
 
