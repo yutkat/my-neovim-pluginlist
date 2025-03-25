@@ -103,6 +103,7 @@
 - [heilgar/bookmarks.nvim](https://github.com/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/stars/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/heilgar/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/bookmarks.nvim)
 - [ralphmodales/highlight.nvim](https://github.com/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/stars/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/last-commit/ralphmodales/highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ralphmodales/highlight.nvim)
 - [ojroques/nvim-bookmarks](https://github.com/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/stars/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/last-commit/ojroques/nvim-bookmarks) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-bookmarks)
+- [gustavofsantos/bookmark-tool.nvim](https://github.com/gustavofsantos/bookmark-tool.nvim) ![](https://img.shields.io/github/stars/gustavofsantos/bookmark-tool.nvim) ![](https://img.shields.io/github/last-commit/gustavofsantos/bookmark-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavofsantos/bookmark-tool.nvim)
 
 ### etc
 

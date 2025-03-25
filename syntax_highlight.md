@@ -150,6 +150,7 @@
 - [joaoinez/caipirinha.nvim](https://github.com/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/stars/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/last-commit/joaoinez/caipirinha.nvim) ![](https://img.shields.io/github/commit-activity/y/joaoinez/caipirinha.nvim)
 - [Sulring/suthema.nvim](https://github.com/Sulring/suthema.nvim) ![](https://img.shields.io/github/stars/Sulring/suthema.nvim) ![](https://img.shields.io/github/last-commit/Sulring/suthema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sulring/suthema.nvim)
 - [yashodhanketkar/themeui.nvim](https://github.com/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/stars/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/last-commit/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yashodhanketkar/themeui.nvim)
+- [Rimkomatic/switchscheme.nvim](https://github.com/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/switchscheme.nvim)
 
 ### Colorscheme overwrite
 

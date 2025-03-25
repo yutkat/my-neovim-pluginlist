@@ -25,6 +25,7 @@
   * [gomodifytags](#gomodifytags)
 - [Framework](#framework)
   * [Gin](#gin)
+  * [Textwire](#textwire)
 
 <!-- tocstop -->
 
@@ -162,3 +163,7 @@
 ### Gin
 
 - [ogaken-1/nvim-gin-preview](https://github.com/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/stars/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-gin-preview) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-gin-preview)
+
+### Textwire
+
+- [textwire/textwire.nvim](https://github.com/textwire/textwire.nvim) ![](https://img.shields.io/github/stars/textwire/textwire.nvim) ![](https://img.shields.io/github/last-commit/textwire/textwire.nvim) ![](https://img.shields.io/github/commit-activity/y/textwire/textwire.nvim)

@@ -49,6 +49,7 @@
 - [Ask-786/json-to-ts.nvim](https://github.com/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/stars/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/json-to-ts.nvim)
 - [FastTrackAudio/nvim-scaffolder](https://github.com/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/stars/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/last-commit/FastTrackAudio/nvim-scaffolder) ![](https://img.shields.io/github/commit-activity/y/FastTrackAudio/nvim-scaffolder)
 - [richardmarbach/json-embed.nvim](https://github.com/richardmarbach/json-embed.nvim) ![](https://img.shields.io/github/stars/richardmarbach/json-embed.nvim) ![](https://img.shields.io/github/last-commit/richardmarbach/json-embed.nvim) ![](https://img.shields.io/github/commit-activity/y/richardmarbach/json-embed.nvim)
+- [nmiguel/jqscratch.nvim](https://github.com/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/stars/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/last-commit/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/commit-activity/y/nmiguel/jqscratch.nvim)
 
 #### fx
 

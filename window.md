@@ -19,6 +19,7 @@
     + [Window Number](#window-number)
     + [redraw](#redraw)
   * [animation](#animation)
+  * [Zoom](#zoom)
 
 <!-- tocstop -->
 
@@ -151,3 +152,6 @@
 
 - [tamton-aquib/flirt.nvim](https://github.com/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/flirt.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/flirt.nvim)
 
+### Zoom
+
+- [krmmzs/window-zoom.nvim](https://github.com/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/stars/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/window-zoom.nvim)
