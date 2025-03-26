@@ -237,6 +237,7 @@
 - [MikeWelsh801/scratch.nvim](https://github.com/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/stars/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/last-commit/MikeWelsh801/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/MikeWelsh801/scratch.nvim)
 - [skeletony007/scratchman.nvim](https://github.com/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/stars/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/scratchman.nvim)
 - [reybits/scratch.nvim](https://github.com/reybits/scratch.nvim) ![](https://img.shields.io/github/stars/reybits/scratch.nvim) ![](https://img.shields.io/github/last-commit/reybits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/scratch.nvim)
+- [eth-p/nvim-clone-buffer](https://github.com/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/stars/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/last-commit/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/commit-activity/y/eth-p/nvim-clone-buffer)
 
 ### Scratchpad
 

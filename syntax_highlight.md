@@ -17,6 +17,7 @@
   * [ANSI Colorize](#ansi-colorize)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
+  * [Colorscheme export](#colorscheme-export)
   * [Colorscheme transparent](#colorscheme-transparent)
   * [Colorscheme session](#colorscheme-session)
   * [Colorscheme file](#colorscheme-file)
@@ -156,6 +157,10 @@
 
 - [mvllow/naif.nvim](https://github.com/mvllow/naif.nvim) ![](https://img.shields.io/github/stars/mvllow/naif.nvim) ![](https://img.shields.io/github/last-commit/mvllow/naif.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/naif.nvim)
 - [JasonBoyett/Goethe.nvim](https://github.com/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/stars/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/last-commit/JasonBoyett/Goethe.nvim) ![](https://img.shields.io/github/commit-activity/y/JasonBoyett/Goethe.nvim)
+
+### Colorscheme export
+
+- [bhugoVilela/palette.nvim](https://github.com/bhugoVilela/palette.nvim) ![](https://img.shields.io/github/stars/bhugoVilela/palette.nvim) ![](https://img.shields.io/github/last-commit/bhugoVilela/palette.nvim) ![](https://img.shields.io/github/commit-activity/y/bhugoVilela/palette.nvim)
 
 ### Colorscheme transparent
 

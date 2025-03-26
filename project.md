@@ -94,6 +94,7 @@
 - [szulf/projectManager.nvim](https://github.com/szulf/projectManager.nvim) ![](https://img.shields.io/github/stars/szulf/projectManager.nvim) ![](https://img.shields.io/github/last-commit/szulf/projectManager.nvim) ![](https://img.shields.io/github/commit-activity/y/szulf/projectManager.nvim)
 - [brymer-meneses/project-config.nvim](https://github.com/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/stars/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/last-commit/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/commit-activity/y/brymer-meneses/project-config.nvim)
 - [yebt/file-resolver.nvim](https://github.com/yebt/file-resolver.nvim) ![](https://img.shields.io/github/stars/yebt/file-resolver.nvim) ![](https://img.shields.io/github/last-commit/yebt/file-resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/file-resolver.nvim)
+- [Dzejkop/konfig.nvim](https://github.com/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/stars/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/konfig.nvim)
 
 #### Config switcher
 
