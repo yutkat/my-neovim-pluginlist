@@ -291,6 +291,7 @@
 - [wintermute-cell/gitignore.nvim](https://github.com/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/stars/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/last-commit/wintermute-cell/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/wintermute-cell/gitignore.nvim)
 - [dylf/gitignore.nvim](https://github.com/dylf/gitignore.nvim) ![](https://img.shields.io/github/stars/dylf/gitignore.nvim) ![](https://img.shields.io/github/last-commit/dylf/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/dylf/gitignore.nvim)
 - [kilavila/nvim-gitignore](https://github.com/kilavila/nvim-gitignore) ![](https://img.shields.io/github/stars/kilavila/nvim-gitignore) ![](https://img.shields.io/github/last-commit/kilavila/nvim-gitignore) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-gitignore)
+- [mplieske/gitignore.nvim](https://github.com/mplieske/gitignore.nvim) ![](https://img.shields.io/github/stars/mplieske/gitignore.nvim) ![](https://img.shields.io/github/last-commit/mplieske/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/mplieske/gitignore.nvim)
 
 ## git hook
 
@@ -403,6 +404,7 @@
 ## Issue
 
 - [MovieMaker93/telescope-ghissue.nvim](https://github.com/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/stars/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/last-commit/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/commit-activity/y/MovieMaker93/telescope-ghissue.nvim)
+- [OwlfaceGames/issue-from-comment.nvim](https://github.com/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/stars/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/last-commit/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/OwlfaceGames/issue-from-comment.nvim)
 
 ## Pull Request
 
@@ -508,6 +510,7 @@
 - [harrisoncramer/gitlab.nvim](https://github.com/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/stars/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/last-commit/harrisoncramer/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/harrisoncramer/gitlab.nvim)
 - [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
 - [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
+- [Speiser/gitlab-url.nvim](https://github.com/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/stars/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/gitlab-url.nvim)
 
 ## GitLab CI
 
