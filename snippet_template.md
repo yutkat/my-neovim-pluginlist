@@ -91,6 +91,7 @@
 - [yamazhen/autotemplate.nvim](https://github.com/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/stars/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/autotemplate.nvim)
 - [arkochan/boil.nvim](https://github.com/arkochan/boil.nvim) ![](https://img.shields.io/github/stars/arkochan/boil.nvim) ![](https://img.shields.io/github/last-commit/arkochan/boil.nvim) ![](https://img.shields.io/github/commit-activity/y/arkochan/boil.nvim)
 - [yebt/stencil.nvim](https://github.com/yebt/stencil.nvim) ![](https://img.shields.io/github/stars/yebt/stencil.nvim) ![](https://img.shields.io/github/last-commit/yebt/stencil.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/stencil.nvim)
+- [allesis/foundations.nvim](https://github.com/allesis/foundations.nvim) ![](https://img.shields.io/github/stars/allesis/foundations.nvim) ![](https://img.shields.io/github/last-commit/allesis/foundations.nvim) ![](https://img.shields.io/github/commit-activity/y/allesis/foundations.nvim)
 
 #### README
 

@@ -66,6 +66,7 @@
 - [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
 - [DzedCPT/nvim-rooter](https://github.com/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/stars/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/last-commit/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/DzedCPT/nvim-rooter)
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/rooter.nvim)
+- [paperhero-repo/find-project-root.nvim](https://github.com/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/stars/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/last-commit/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/commit-activity/y/paperhero-repo/find-project-root.nvim)
 
 ### Project Template
 

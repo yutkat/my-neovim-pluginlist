@@ -182,6 +182,7 @@
 ### AI commit
 
 - [vernette/ai-commit.nvim](https://github.com/vernette/ai-commit.nvim) ![](https://img.shields.io/github/stars/vernette/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/vernette/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/vernette/ai-commit.nvim)
+- [Abizrh/commit-ai.nvim](https://github.com/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/stars/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/commit-ai.nvim)
 
 ## git fetch
 
@@ -482,6 +483,7 @@
 - [johnsaigle/github-permalink.nvim](https://github.com/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/stars/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/github-permalink.nvim)
 - [k2589/getgithublink.nvim](https://github.com/k2589/getgithublink.nvim) ![](https://img.shields.io/github/stars/k2589/getgithublink.nvim) ![](https://img.shields.io/github/last-commit/k2589/getgithublink.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/getgithublink.nvim)
 - [cfal/github-line.nvim](https://github.com/cfal/github-line.nvim) ![](https://img.shields.io/github/stars/cfal/github-line.nvim) ![](https://img.shields.io/github/last-commit/cfal/github-line.nvim) ![](https://img.shields.io/github/commit-activity/y/cfal/github-line.nvim)
+- [jangraefen/nvim-repo-open](https://github.com/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/stars/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/last-commit/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/commit-activity/y/jangraefen/nvim-repo-open)
 
 ## Image
 
