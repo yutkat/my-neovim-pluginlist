@@ -153,6 +153,7 @@
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
 - [davidgranstrom/oblique-strategies.nvim](https://github.com/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/stars/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/last-commit/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/oblique-strategies.nvim)
+- [Walenski/cloze.nvim](https://github.com/Walenski/cloze.nvim) ![](https://img.shields.io/github/stars/Walenski/cloze.nvim) ![](https://img.shields.io/github/last-commit/Walenski/cloze.nvim) ![](https://img.shields.io/github/commit-activity/y/Walenski/cloze.nvim)
 
 ### French
 

@@ -78,6 +78,7 @@
 - [kennytheeggman/embterm.nvim](https://github.com/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/stars/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/last-commit/kennytheeggman/embterm.nvim) ![](https://img.shields.io/github/commit-activity/y/kennytheeggman/embterm.nvim)
 - [thefux/tui-terminal.nvim](https://github.com/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/stars/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/last-commit/thefux/tui-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/thefux/tui-terminal.nvim)
 - [dpi0/fim.nvim](https://github.com/dpi0/fim.nvim) ![](https://img.shields.io/github/stars/dpi0/fim.nvim) ![](https://img.shields.io/github/last-commit/dpi0/fim.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/fim.nvim)
+- [rargo/tomatoterm.nvim](https://github.com/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/stars/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/last-commit/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/rargo/tomatoterm.nvim)
 
 ### Open
 
