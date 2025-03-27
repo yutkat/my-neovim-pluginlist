@@ -170,7 +170,6 @@
 
 ##### Glow
 
-- [ellisonleao/glow.nvim](https://github.com/ellisonleao/glow.nvim) ![](https://img.shields.io/github/stars/ellisonleao/glow.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/glow.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/glow.nvim)
 - [0x00-ketsu/markdown-preview.nvim](https://github.com/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/markdown-preview.nvim)
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 
