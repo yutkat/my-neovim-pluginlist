@@ -322,6 +322,7 @@
 - [davvid/telescope-git-selector.nvim](https://github.com/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/stars/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/last-commit/davvid/telescope-git-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/davvid/telescope-git-selector.nvim)
 - [xopo/worktree.nvim](https://github.com/xopo/worktree.nvim) ![](https://img.shields.io/github/stars/xopo/worktree.nvim) ![](https://img.shields.io/github/last-commit/xopo/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/xopo/worktree.nvim)
 - [afonsofrancof/worktrees.nvim](https://github.com/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/stars/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/last-commit/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/afonsofrancof/worktrees.nvim)
+- [katkodeorg/telescope_worktree.nvim](https://github.com/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/stars/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/last-commit/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/katkodeorg/telescope_worktree.nvim)
 
 ## submodule
 

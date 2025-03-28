@@ -25,6 +25,7 @@
   * [Region info](#region-info)
   * [expand region](#expand-region)
   * [narrowing](#narrowing)
+  * [Select Number](#select-number)
   * [Multi Cursor](#multi-cursor)
   * [Incremental selection](#incremental-selection)
   * [Around select](#around-select)
@@ -209,6 +210,10 @@
 ## narrowing
 
 - [bagohart/minimal-narrow-region.nvim](https://github.com/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/stars/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/last-commit/bagohart/minimal-narrow-region.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/minimal-narrow-region.nvim)
+
+## Select Number
+
+- [joncrangle/visual-lines.nvim](https://github.com/joncrangle/visual-lines.nvim) ![](https://img.shields.io/github/stars/joncrangle/visual-lines.nvim) ![](https://img.shields.io/github/last-commit/joncrangle/visual-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/joncrangle/visual-lines.nvim)
 
 ## Multi Cursor
 

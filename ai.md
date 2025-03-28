@@ -191,6 +191,7 @@
 - [domgdsman/llmcopilot.nvim](https://github.com/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/stars/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/last-commit/domgdsman/llmcopilot.nvim) ![](https://img.shields.io/github/commit-activity/y/domgdsman/llmcopilot.nvim)
 - [justinhj/chatty-ai.nvim](https://github.com/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai.nvim)
   - [justinhj/chatty-ai-service-xai.nvim](https://github.com/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-xai.nvim)
+- [georg3tom/llama.nvim](https://github.com/georg3tom/llama.nvim) ![](https://img.shields.io/github/stars/georg3tom/llama.nvim) ![](https://img.shields.io/github/last-commit/georg3tom/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/georg3tom/llama.nvim)
 
 ### Ollama
 

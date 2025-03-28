@@ -21,6 +21,7 @@
 - [alix2013/nvim-translator](https://github.com/alix2013/nvim-translator) ![](https://img.shields.io/github/stars/alix2013/nvim-translator) ![](https://img.shields.io/github/last-commit/alix2013/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/alix2013/nvim-translator)
 - [coffebar/crowtranslate.nvim](https://github.com/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/stars/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/last-commit/coffebar/crowtranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/coffebar/crowtranslate.nvim)
 - [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
+- [doodleEsc/translator.nvim](https://github.com/doodleEsc/translator.nvim) ![](https://img.shields.io/github/stars/doodleEsc/translator.nvim) ![](https://img.shields.io/github/last-commit/doodleEsc/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/doodleEsc/translator.nvim)
 
 ## i18n
 

@@ -50,6 +50,7 @@
 - [Dr-42/project-manager.nvim](https://github.com/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/stars/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/project-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/project-manager.nvim)
 - [jarrodb/projectile.nvim](https://github.com/jarrodb/projectile.nvim) ![](https://img.shields.io/github/stars/jarrodb/projectile.nvim) ![](https://img.shields.io/github/last-commit/jarrodb/projectile.nvim) ![](https://img.shields.io/github/commit-activity/y/jarrodb/projectile.nvim)
 - [sapnvim/sapnvim_project.nvim](https://github.com/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/stars/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/last-commit/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/commit-activity/y/sapnvim/sapnvim_project.nvim)
+- [mtfrsantos/nvim-workspaces](https://github.com/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/stars/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/last-commit/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/commit-activity/y/mtfrsantos/nvim-workspaces)
 
 #### Project Root Detector
 

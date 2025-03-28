@@ -34,6 +34,7 @@
 ### GUID
 
 - [ds1sqe/guid.nvim](https://github.com/ds1sqe/guid.nvim) ![](https://img.shields.io/github/stars/ds1sqe/guid.nvim) ![](https://img.shields.io/github/last-commit/ds1sqe/guid.nvim) ![](https://img.shields.io/github/commit-activity/y/ds1sqe/guid.nvim)
+- [jinwood/nvim-guid](https://github.com/jinwood/nvim-guid) ![](https://img.shields.io/github/stars/jinwood/nvim-guid) ![](https://img.shields.io/github/last-commit/jinwood/nvim-guid) ![](https://img.shields.io/github/commit-activity/y/jinwood/nvim-guid)
 
 ## Command Line UI
 
