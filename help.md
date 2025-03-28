@@ -9,6 +9,7 @@
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
 - [RFC](#rfc)
+- [Reference](#reference)
 - [DevDocs](#devdocs)
 
 <!-- tocstop -->
@@ -73,6 +74,10 @@
 ## RFC
 
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) ![](https://img.shields.io/github/stars/moniquelive/rfc.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/rfc.nvim)
+
+## Reference
+
+- [johannww/scopus-bib-references.nvim](https://github.com/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/stars/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/last-commit/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/scopus-bib-references.nvim)
 
 ## DevDocs
 
