@@ -485,6 +485,7 @@
 - [k2589/getgithublink.nvim](https://github.com/k2589/getgithublink.nvim) ![](https://img.shields.io/github/stars/k2589/getgithublink.nvim) ![](https://img.shields.io/github/last-commit/k2589/getgithublink.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/getgithublink.nvim)
 - [cfal/github-line.nvim](https://github.com/cfal/github-line.nvim) ![](https://img.shields.io/github/stars/cfal/github-line.nvim) ![](https://img.shields.io/github/last-commit/cfal/github-line.nvim) ![](https://img.shields.io/github/commit-activity/y/cfal/github-line.nvim)
 - [jangraefen/nvim-repo-open](https://github.com/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/stars/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/last-commit/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/commit-activity/y/jangraefen/nvim-repo-open)
+- [jangraefen/open-repo.nvim](https://github.com/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/stars/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/last-commit/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/jangraefen/open-repo.nvim)
 
 ## Image
 

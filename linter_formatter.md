@@ -84,6 +84,7 @@
 - [Piotr1215/toggler.nvim](https://github.com/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/stars/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/toggler.nvim)
 - [pojokcodeid/auto-lint.nvim](https://github.com/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-lint.nvim)
 - [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) ![](https://img.shields.io/github/stars/comfysage/mossy.nvim) ![](https://img.shields.io/github/last-commit/comfysage/mossy.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/mossy.nvim)
+- [gisikw/vitals.nvim](https://github.com/gisikw/vitals.nvim) ![](https://img.shields.io/github/stars/gisikw/vitals.nvim) ![](https://img.shields.io/github/last-commit/gisikw/vitals.nvim) ![](https://img.shields.io/github/commit-activity/y/gisikw/vitals.nvim)
 
 ### Grammar
 
