@@ -14,6 +14,8 @@
     + [Maud](#maud)
   * [Crate](#crate)
   * [lifetime](#lifetime)
+  * [Framework](#framework)
+    + [Dioxus](#dioxus)
 
 <!-- tocstop -->
 
@@ -74,3 +76,9 @@
 
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) ![](https://img.shields.io/github/stars/cordx56/rustowl) ![](https://img.shields.io/github/last-commit/cordx56/rustowl) ![](https://img.shields.io/github/commit-activity/y/cordx56/rustowl)
 
+
+### Framework
+
+#### Dioxus
+
+- [mrxiaozhuox/dioxus.nvim](https://github.com/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/stars/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/last-commit/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/commit-activity/y/mrxiaozhuox/dioxus.nvim)

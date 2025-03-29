@@ -76,6 +76,7 @@
 ##### Search without browser
 
 - [akasataikisiti/info_gatherer.nvim](https://github.com/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/stars/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/last-commit/akasataikisiti/info_gatherer.nvim) ![](https://img.shields.io/github/commit-activity/y/akasataikisiti/info_gatherer.nvim)
+- [Magic-JD/is-fast.nvim](https://github.com/Magic-JD/is-fast.nvim) ![](https://img.shields.io/github/stars/Magic-JD/is-fast.nvim) ![](https://img.shields.io/github/last-commit/Magic-JD/is-fast.nvim) ![](https://img.shields.io/github/commit-activity/y/Magic-JD/is-fast.nvim)
 
 #### Bookmarks
 
