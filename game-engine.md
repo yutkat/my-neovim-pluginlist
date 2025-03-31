@@ -29,6 +29,7 @@
 - [zaucy/uproject.nvim](https://github.com/zaucy/uproject.nvim) ![](https://img.shields.io/github/stars/zaucy/uproject.nvim) ![](https://img.shields.io/github/last-commit/zaucy/uproject.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/uproject.nvim)
 - [sharpoff/unreal_engine.nvim](https://github.com/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/stars/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/last-commit/sharpoff/unreal_engine.nvim) ![](https://img.shields.io/github/commit-activity/y/sharpoff/unreal_engine.nvim)
 - [thomppa030/unreal-tools.nvim](https://github.com/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/stars/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/last-commit/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/thomppa030/unreal-tools.nvim)
+- [PolygonT/ue.nvim](https://github.com/PolygonT/ue.nvim) ![](https://img.shields.io/github/stars/PolygonT/ue.nvim) ![](https://img.shields.io/github/last-commit/PolygonT/ue.nvim) ![](https://img.shields.io/github/commit-activity/y/PolygonT/ue.nvim)
 
 ### Godot
 
@@ -37,6 +38,7 @@
 - [QuickGD/quickgd.nvim](https://github.com/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/stars/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/last-commit/QuickGD/quickgd.nvim) ![](https://img.shields.io/github/commit-activity/y/QuickGD/quickgd.nvim)
 - [Teatek/gdscript-extended-lsp.nvim](https://github.com/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Teatek/gdscript-extended-lsp.nvim)
 - [ShadesAndGrays/Godoterm.nvim](https://github.com/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/stars/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/last-commit/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadesAndGrays/Godoterm.nvim)
+- [jamesonBradfield/gdunit.nvim](https://github.com/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/stars/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/last-commit/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesonBradfield/gdunit.nvim)
 
 ### Roblox studio
 

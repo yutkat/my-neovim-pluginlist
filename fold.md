@@ -29,6 +29,7 @@
 - [EtiamNullam/fold-ribbon.nvim](https://github.com/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/stars/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/last-commit/EtiamNullam/fold-ribbon.nvim) ![](https://img.shields.io/github/commit-activity/y/EtiamNullam/fold-ribbon.nvim)
 - [kevinliao852/nvim-folding](https://github.com/kevinliao852/nvim-folding) ![](https://img.shields.io/github/stars/kevinliao852/nvim-folding) ![](https://img.shields.io/github/last-commit/kevinliao852/nvim-folding) ![](https://img.shields.io/github/commit-activity/y/kevinliao852/nvim-folding)
 - [tombell/pleat.nvim](https://github.com/tombell/pleat.nvim) ![](https://img.shields.io/github/stars/tombell/pleat.nvim) ![](https://img.shields.io/github/last-commit/tombell/pleat.nvim) ![](https://img.shields.io/github/commit-activity/y/tombell/pleat.nvim)
+- [sweetboss12512/fold-textobjects.nvim](https://github.com/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/fold-textobjects.nvim)
 
 ## Conceal
 

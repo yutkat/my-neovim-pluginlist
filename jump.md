@@ -10,6 +10,7 @@
   * [Jump number](#jump-number)
   * [Go to File](#go-to-file)
   * [HML](#hml)
+  * [Bisection](#bisection)
   * [jumplist](#jumplist)
   * [Edit History](#edit-history)
   * [Cursor Position History](#cursor-position-history)
@@ -59,6 +60,10 @@
 
 - [mawkler/hml.nvim](https://github.com/mawkler/hml.nvim) ![](https://img.shields.io/github/stars/mawkler/hml.nvim) ![](https://img.shields.io/github/last-commit/mawkler/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/hml.nvim)
 - [yochem/jumpsigns.nvim](https://github.com/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/stars/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/last-commit/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jumpsigns.nvim)
+
+### Bisection
+
+- [fenja-louwrens/dichotomy.nvim](https://github.com/fenja-louwrens/dichotomy.nvim) ![](https://img.shields.io/github/stars/fenja-louwrens/dichotomy.nvim) ![](https://img.shields.io/github/last-commit/fenja-louwrens/dichotomy.nvim) ![](https://img.shields.io/github/commit-activity/y/fenja-louwrens/dichotomy.nvim)
 
 ### jumplist
 

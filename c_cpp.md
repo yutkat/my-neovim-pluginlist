@@ -10,6 +10,7 @@
   * [Implement](#implement)
     + [Clang](#clang)
     + [GCC](#gcc)
+  * [LSP](#lsp)
   * [Formatter](#formatter)
   * [Linter](#linter)
   * [Comment](#comment)
@@ -88,6 +89,10 @@
 #### GCC
 
 - [eoBattisti/autocrun.nvim](https://github.com/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/stars/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/last-commit/eoBattisti/autocrun.nvim) ![](https://img.shields.io/github/commit-activity/y/eoBattisti/autocrun.nvim)
+
+### LSP
+
+- [jamespeilunli/nvim-flatbuffers](https://github.com/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/stars/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/last-commit/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/commit-activity/y/jamespeilunli/nvim-flatbuffers)
 
 ### Formatter
 
@@ -188,6 +193,7 @@
 
 - [kamoshi/disasm.nvim](https://github.com/kamoshi/disasm.nvim) ![](https://img.shields.io/github/stars/kamoshi/disasm.nvim) ![](https://img.shields.io/github/last-commit/kamoshi/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/kamoshi/disasm.nvim)
 - [ii14/neobolt.nvim](https://github.com/ii14/neobolt.nvim) ![](https://img.shields.io/github/stars/ii14/neobolt.nvim) ![](https://img.shields.io/github/last-commit/ii14/neobolt.nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/neobolt.nvim)
+- [tcvdh/asm-context.nvim](https://github.com/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/stars/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/last-commit/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/commit-activity/y/tcvdh/asm-context.nvim)
 
 ## Linux kernel development
 

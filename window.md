@@ -104,6 +104,7 @@
 
 - [carbon-steel/detour.nvim](https://github.com/carbon-steel/detour.nvim) ![](https://img.shields.io/github/stars/carbon-steel/detour.nvim) ![](https://img.shields.io/github/last-commit/carbon-steel/detour.nvim) ![](https://img.shields.io/github/commit-activity/y/carbon-steel/detour.nvim)
 - [e-mar404/tooltip.nvim](https://github.com/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/stars/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/last-commit/e-mar404/tooltip.nvim) ![](https://img.shields.io/github/commit-activity/y/e-mar404/tooltip.nvim)
+- [morphe157/popviewer.nvim](https://github.com/morphe157/popviewer.nvim) ![](https://img.shields.io/github/stars/morphe157/popviewer.nvim) ![](https://img.shields.io/github/last-commit/morphe157/popviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/morphe157/popviewer.nvim)
 
 #### resize
 

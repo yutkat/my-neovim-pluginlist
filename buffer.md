@@ -162,6 +162,7 @@
 - [rclawlor/wwi.nvim](https://github.com/rclawlor/wwi.nvim) ![](https://img.shields.io/github/stars/rclawlor/wwi.nvim) ![](https://img.shields.io/github/last-commit/rclawlor/wwi.nvim) ![](https://img.shields.io/github/commit-activity/y/rclawlor/wwi.nvim)
 - [naranyala/buffcounts.nvim](https://github.com/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/stars/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/last-commit/naranyala/buffcounts.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/buffcounts.nvim)
 - [BibekBhusal0/bufstack.nvim](https://github.com/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/stars/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/last-commit/BibekBhusal0/bufstack.nvim) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/bufstack.nvim)
+- [unwarlikepoodle/telescope-git-recent.nvim](https://github.com/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/stars/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/last-commit/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/commit-activity/y/unwarlikepoodle/telescope-git-recent.nvim)
 
 ##### remote open
 

@@ -63,6 +63,7 @@
 - [zchown/Continuity.nvim](https://github.com/zchown/Continuity.nvim) ![](https://img.shields.io/github/stars/zchown/Continuity.nvim) ![](https://img.shields.io/github/last-commit/zchown/Continuity.nvim) ![](https://img.shields.io/github/commit-activity/y/zchown/Continuity.nvim)
 - [Noino/sessioneer.nvim](https://github.com/Noino/sessioneer.nvim) ![](https://img.shields.io/github/stars/Noino/sessioneer.nvim) ![](https://img.shields.io/github/last-commit/Noino/sessioneer.nvim) ![](https://img.shields.io/github/commit-activity/y/Noino/sessioneer.nvim)
 - [Jaehaks/last-session.nvim](https://github.com/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/stars/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/last-session.nvim)
+- [cdmill/sesh.nvim](https://github.com/cdmill/sesh.nvim) ![](https://img.shields.io/github/stars/cdmill/sesh.nvim) ![](https://img.shields.io/github/last-commit/cdmill/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/sesh.nvim)
 
 ## Session Selector
 
