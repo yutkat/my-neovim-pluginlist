@@ -18,6 +18,7 @@
   * [httpyac](#httpyac)
   * [HL7](#hl7)
   * [CCSDS](#ccsds)
+  * [localhost](#localhost)
 
 <!-- tocstop -->
 
@@ -43,6 +44,7 @@
 - [NachoNievaG/atac.nvim](https://github.com/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/stars/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/last-commit/NachoNievaG/atac.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoNievaG/atac.nvim)
 - [mistweaverco/kulala.nvim](https://github.com/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/stars/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/kulala.nvim)
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
+- [malev/hola.nvim](https://github.com/malev/hola.nvim) ![](https://img.shields.io/github/stars/malev/hola.nvim) ![](https://img.shields.io/github/last-commit/malev/hola.nvim) ![](https://img.shields.io/github/commit-activity/y/malev/hola.nvim)
 
 #### .http / .rest file
 
@@ -92,3 +94,6 @@
 
 - [shaneyost/ccsds-hdr.nvim](https://github.com/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneyost/ccsds-hdr.nvim)
 
+### localhost
+
+- [azratul/expose-localhost.nvim](https://github.com/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/stars/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/last-commit/azratul/expose-localhost.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/expose-localhost.nvim)

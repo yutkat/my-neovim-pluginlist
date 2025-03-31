@@ -49,6 +49,7 @@
 - [chrishannah/textcase.nvim](https://github.com/chrishannah/textcase.nvim) ![](https://img.shields.io/github/stars/chrishannah/textcase.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/textcase.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/textcase.nvim)
 - [cowboy8625/case-swap.nvim](https://github.com/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/stars/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/last-commit/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/cowboy8625/case-swap.nvim)
 - [StubbornVegeta/style-transfer.nvim](https://github.com/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/stars/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/last-commit/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/StubbornVegeta/style-transfer.nvim)
+- [Ipomoea/increment.nvim](https://github.com/Ipomoea/increment.nvim) ![](https://img.shields.io/github/stars/Ipomoea/increment.nvim) ![](https://img.shields.io/github/last-commit/Ipomoea/increment.nvim) ![](https://img.shields.io/github/commit-activity/y/Ipomoea/increment.nvim)
 
 ### Convert Word
 
@@ -103,6 +104,7 @@
 ### Pixel
 
 - [jsongerber/nvim-px-to-rem](https://github.com/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/jsongerber/nvim-px-to-rem)
+- [lko3001/px2rem.nvim](https://github.com/lko3001/px2rem.nvim) ![](https://img.shields.io/github/stars/lko3001/px2rem.nvim) ![](https://img.shields.io/github/last-commit/lko3001/px2rem.nvim) ![](https://img.shields.io/github/commit-activity/y/lko3001/px2rem.nvim)
 
 ### Dash
 

@@ -190,6 +190,7 @@
 - [chrisgrieser/nvim-lsp-endhints](https://github.com/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/stars/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/last-commit/chrisgrieser/nvim-lsp-endhints) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/nvim-lsp-endhints)
 - [amnn/lsp-echohint.nvim](https://github.com/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/stars/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/last-commit/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/lsp-echohint.nvim)
 - [jfly/lsp-diagnostic-quirks.nvim](https://github.com/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/stars/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/last-commit/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/commit-activity/y/jfly/lsp-diagnostic-quirks.nvim)
+- [saying121/interactive-inlay-hint.nvim](https://github.com/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/stars/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/last-commit/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/saying121/interactive-inlay-hint.nvim)
 
 #### Hover Doc
 

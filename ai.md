@@ -133,6 +133,7 @@
 - [Riley1101/gideon.nvim](https://github.com/Riley1101/gideon.nvim) ![](https://img.shields.io/github/stars/Riley1101/gideon.nvim) ![](https://img.shields.io/github/last-commit/Riley1101/gideon.nvim) ![](https://img.shields.io/github/commit-activity/y/Riley1101/gideon.nvim)
 - [leonardo-luz/ai.nvim](https://github.com/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/ai.nvim)
   - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
+- [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 
 ### Multi LLM
 
@@ -221,6 +222,7 @@
 - [CaKellum/ollama_question.nvim](https://github.com/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/stars/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/last-commit/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/commit-activity/y/CaKellum/ollama_question.nvim)
 - [haydenzeller/nvim-wingman](https://github.com/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/stars/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/last-commit/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/commit-activity/y/haydenzeller/nvim-wingman)
 - [VyacheslavVanin/llm-requester.nvim](https://github.com/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/llm-requester.nvim)
+- [Abyss-c0re/deepshell-nvim](https://github.com/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/stars/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/last-commit/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/commit-activity/y/Abyss-c0re/deepshell-nvim)
 
 ### Claude
 
@@ -237,6 +239,7 @@
 - [jarenm1/nvim-llm](https://github.com/jarenm1/nvim-llm) ![](https://img.shields.io/github/stars/jarenm1/nvim-llm) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-llm)
 - [Antoine-Prieur/nvim-ai-assistant](https://github.com/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/stars/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/Antoine-Prieur/nvim-ai-assistant)
 - [StanAngeloff/claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/commit-activity/y/StanAngeloff/claudius.nvim)
+- [cristianmoroaica/mimir.nvim](https://github.com/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/stars/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/last-commit/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianmoroaica/mimir.nvim)
 
 ### Claude Code
 

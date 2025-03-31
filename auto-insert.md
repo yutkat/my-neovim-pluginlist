@@ -77,6 +77,7 @@
 ## Auto convert
 
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
+- [byfarm/nvim-autoswap](https://github.com/byfarm/nvim-autoswap) ![](https://img.shields.io/github/stars/byfarm/nvim-autoswap) ![](https://img.shields.io/github/last-commit/byfarm/nvim-autoswap) ![](https://img.shields.io/github/commit-activity/y/byfarm/nvim-autoswap)
 
 ## List
 

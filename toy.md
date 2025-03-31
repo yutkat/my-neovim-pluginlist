@@ -105,6 +105,7 @@
 - [zachbuchli/weather.nvim](https://github.com/zachbuchli/weather.nvim) ![](https://img.shields.io/github/stars/zachbuchli/weather.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/weather.nvim)
 - [macro21KGB/simple-weather.nvim](https://github.com/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/stars/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/last-commit/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/commit-activity/y/macro21KGB/simple-weather.nvim)
 - [frenchef156/weather.nvim](https://github.com/frenchef156/weather.nvim) ![](https://img.shields.io/github/stars/frenchef156/weather.nvim) ![](https://img.shields.io/github/last-commit/frenchef156/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/frenchef156/weather.nvim)
+- [rmrf/weather.nvim](https://github.com/rmrf/weather.nvim) ![](https://img.shields.io/github/stars/rmrf/weather.nvim) ![](https://img.shields.io/github/last-commit/rmrf/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/rmrf/weather.nvim)
 
 ## Clock
 
@@ -131,6 +132,7 @@
 - [kirill-d-lappo/nvim-daily-quotes](https://github.com/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-daily-quotes) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-daily-quotes)
 - [jpmcb/rip-and-tear.nvim](https://github.com/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/stars/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/last-commit/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/commit-activity/y/jpmcb/rip-and-tear.nvim)
 - [michaelstrefeler/peptalk.nvim](https://github.com/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/stars/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/last-commit/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelstrefeler/peptalk.nvim)
+- [RileyGabrielson/inspire.nvim](https://github.com/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/stars/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/last-commit/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/commit-activity/y/RileyGabrielson/inspire.nvim)
 
 #### Tips
 

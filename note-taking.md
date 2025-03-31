@@ -190,6 +190,7 @@
 - [micku/telescope-pkm-find-or-create.nvim](https://github.com/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/stars/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/last-commit/micku/telescope-pkm-find-or-create.nvim) ![](https://img.shields.io/github/commit-activity/y/micku/telescope-pkm-find-or-create.nvim)
 - [chrhjoh/obsidian-tools.nvim](https://github.com/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/stars/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/last-commit/chrhjoh/obsidian-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/chrhjoh/obsidian-tools.nvim)
 - [hsteinshiromoto/markdown_transclusion.nvim](https://github.com/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_transclusion.nvim)
+- [gokhangeyik/notesidian.nvim](https://github.com/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/stars/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/last-commit/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/commit-activity/y/gokhangeyik/notesidian.nvim)
 
 ## nb
 
