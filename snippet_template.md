@@ -38,6 +38,7 @@
   - [abeldekat/cmp-mini-snippets](https://github.com/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/stars/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/last-commit/abeldekat/cmp-mini-snippets) ![](https://img.shields.io/github/commit-activity/y/abeldekat/cmp-mini-snippets)
 - [jake-stewart/shnippet.nvim](https://github.com/jake-stewart/shnippet.nvim) ![](https://img.shields.io/github/stars/jake-stewart/shnippet.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/shnippet.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/shnippet.nvim)
 - [antsoh161/dabble.nvim](https://github.com/antsoh161/dabble.nvim) ![](https://img.shields.io/github/stars/antsoh161/dabble.nvim) ![](https://img.shields.io/github/last-commit/antsoh161/dabble.nvim) ![](https://img.shields.io/github/commit-activity/y/antsoh161/dabble.nvim)
+- [GertDhaenens/nvim-lsp-snippets](https://github.com/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/stars/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/last-commit/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/commit-activity/y/GertDhaenens/nvim-lsp-snippets)
 
 #### Snippet definitions
 

@@ -98,6 +98,7 @@
 - [eulegang/testswitch.nvim](https://github.com/eulegang/testswitch.nvim) ![](https://img.shields.io/github/stars/eulegang/testswitch.nvim) ![](https://img.shields.io/github/last-commit/eulegang/testswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/eulegang/testswitch.nvim)
 - [tobyond/turnips.nvim](https://github.com/tobyond/turnips.nvim) ![](https://img.shields.io/github/stars/tobyond/turnips.nvim) ![](https://img.shields.io/github/last-commit/tobyond/turnips.nvim) ![](https://img.shields.io/github/commit-activity/y/tobyond/turnips.nvim)
 - [Dreagen/jump-to-test.nvim](https://github.com/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/stars/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/last-commit/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/commit-activity/y/Dreagen/jump-to-test.nvim)
+- [PsychoLlama/alternaut.nvim](https://github.com/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/stars/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/last-commit/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/commit-activity/y/PsychoLlama/alternaut.nvim)
 
 ### Buffer Management
 

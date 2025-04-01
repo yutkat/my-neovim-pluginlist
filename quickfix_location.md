@@ -30,6 +30,7 @@
 - [wsdjeg/quickfix.nvim](https://github.com/wsdjeg/quickfix.nvim) ![](https://img.shields.io/github/stars/wsdjeg/quickfix.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/quickfix.nvim)
 - [schillermann/nvim-quickfix-expanse](https://github.com/schillermann/nvim-quickfix-expanse) ![](https://img.shields.io/github/stars/schillermann/nvim-quickfix-expanse) ![](https://img.shields.io/github/last-commit/schillermann/nvim-quickfix-expanse) ![](https://img.shields.io/github/commit-activity/y/schillermann/nvim-quickfix-expanse)
 - [brunobmello25/persist-quickfix.nvim](https://github.com/brunobmello25/persist-quickfix.nvim) ![](https://img.shields.io/github/stars/brunobmello25/persist-quickfix.nvim) ![](https://img.shields.io/github/last-commit/brunobmello25/persist-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/brunobmello25/persist-quickfix.nvim)
+- [whisperpine/quickfix-messages.nvim](https://github.com/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/stars/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/last-commit/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/whisperpine/quickfix-messages.nvim)
 
 ### Output the list to another format
 
