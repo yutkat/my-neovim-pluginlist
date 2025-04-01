@@ -52,6 +52,7 @@
 - [walker84837/playtime.nvim](https://github.com/walker84837/playtime.nvim) ![](https://img.shields.io/github/stars/walker84837/playtime.nvim) ![](https://img.shields.io/github/last-commit/walker84837/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/playtime.nvim)
 - [mraspaud/timelog.nvim](https://github.com/mraspaud/timelog.nvim) ![](https://img.shields.io/github/stars/mraspaud/timelog.nvim) ![](https://img.shields.io/github/last-commit/mraspaud/timelog.nvim) ![](https://img.shields.io/github/commit-activity/y/mraspaud/timelog.nvim)
 - [Weyaaron/nvim-project-time-tracking](https://github.com/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/stars/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-project-time-tracking)
+- [Leonardo-Luz/time.nvim](https://github.com/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/time.nvim)
 
 #### Timewarrior
 

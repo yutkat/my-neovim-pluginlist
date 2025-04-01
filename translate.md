@@ -27,3 +27,4 @@
 
 - [FelipeJz/i18n-menu.nvim](https://github.com/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/stars/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/i18n-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/i18n-menu.nvim)
 - [Kyariban/i18n-cmp.nvim](https://github.com/Kyariban/i18n-cmp.nvim) ![](https://img.shields.io/github/stars/Kyariban/i18n-cmp.nvim) ![](https://img.shields.io/github/last-commit/Kyariban/i18n-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyariban/i18n-cmp.nvim)
+- [MagerlinC/i18n.nvim](https://github.com/MagerlinC/i18n.nvim) ![](https://img.shields.io/github/stars/MagerlinC/i18n.nvim) ![](https://img.shields.io/github/last-commit/MagerlinC/i18n.nvim) ![](https://img.shields.io/github/commit-activity/y/MagerlinC/i18n.nvim)

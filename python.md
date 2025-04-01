@@ -15,6 +15,7 @@
   * [inlayhint](#inlayhint)
 - [Docstring](#docstring)
 - [pydoc](#pydoc)
+- [pyenv](#pyenv)
   * [Stacktrace](#stacktrace)
   * [build manager](#build-manager)
   * [pypi](#pypi)
@@ -117,6 +118,10 @@
 
 - [RazorBest/pydoc.nvim](https://github.com/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/stars/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/last-commit/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/RazorBest/pydoc.nvim)
 - [fredrikaverpil/pydoc.nvim](https://github.com/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pydoc.nvim)
+
+## pyenv
+
+- [idossha/nvim-pyenv-manager](https://github.com/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/stars/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/last-commit/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/commit-activity/y/idossha/nvim-pyenv-manager)
 
 ### Stacktrace
 
