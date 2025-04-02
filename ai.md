@@ -223,6 +223,7 @@
 - [haydenzeller/nvim-wingman](https://github.com/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/stars/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/last-commit/haydenzeller/nvim-wingman) ![](https://img.shields.io/github/commit-activity/y/haydenzeller/nvim-wingman)
 - [VyacheslavVanin/llm-requester.nvim](https://github.com/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/llm-requester.nvim)
 - [Abyss-c0re/deepshell-nvim](https://github.com/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/stars/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/last-commit/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/commit-activity/y/Abyss-c0re/deepshell-nvim)
+- [AdamFrenzen/ghostwrite.nvim](https://github.com/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/stars/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/last-commit/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamFrenzen/ghostwrite.nvim)
 
 ### Claude
 
@@ -240,6 +241,7 @@
 - [Antoine-Prieur/nvim-ai-assistant](https://github.com/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/stars/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/last-commit/Antoine-Prieur/nvim-ai-assistant) ![](https://img.shields.io/github/commit-activity/y/Antoine-Prieur/nvim-ai-assistant)
 - [StanAngeloff/claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/commit-activity/y/StanAngeloff/claudius.nvim)
 - [cristianmoroaica/mimir.nvim](https://github.com/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/stars/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/last-commit/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianmoroaica/mimir.nvim)
+- [HoganMcDonald/pointer.nvim](https://github.com/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/stars/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/last-commit/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/HoganMcDonald/pointer.nvim)
 
 ### Claude Code
 
