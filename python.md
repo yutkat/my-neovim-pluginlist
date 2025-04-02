@@ -159,7 +159,6 @@
 ### Mesone
 
 - [marc0x71/mesone.nvim](https://github.com/marc0x71/mesone.nvim) ![](https://img.shields.io/github/stars/marc0x71/mesone.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/mesone.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/mesone.nvim)
-- [NEOLabs-software/telescope-meson.nvim](https://github.com/NEOLabs-software/telescope-meson.nvim) ![](https://img.shields.io/github/stars/NEOLabs-software/telescope-meson.nvim) ![](https://img.shields.io/github/last-commit/NEOLabs-software/telescope-meson.nvim) ![](https://img.shields.io/github/commit-activity/y/NEOLabs-software/telescope-meson.nvim)
 
 ### Jupyter
 

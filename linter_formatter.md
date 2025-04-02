@@ -18,7 +18,6 @@
 
 ## Formatting config
 
-- [gpanders/editorconfig.nvim](https://github.com/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/stars/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/last-commit/gpanders/editorconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/gpanders/editorconfig.nvim)
 - [emileferreira/nvim-strict](https://github.com/emileferreira/nvim-strict) ![](https://img.shields.io/github/stars/emileferreira/nvim-strict) ![](https://img.shields.io/github/last-commit/emileferreira/nvim-strict) ![](https://img.shields.io/github/commit-activity/y/emileferreira/nvim-strict)
 
 ## Formatter

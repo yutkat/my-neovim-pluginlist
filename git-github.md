@@ -327,8 +327,6 @@
 ## submodule
 
 - [agoodshort/telescope-git-submodules.nvim](https://github.com/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/stars/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/last-commit/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/commit-activity/y/agoodshort/telescope-git-submodules.nvim)
-- [tlj/graft-git.nvim](https://github.com/tlj/graft-git.nvim) ![](https://img.shields.io/github/stars/tlj/graft-git.nvim) ![](https://img.shields.io/github/last-commit/tlj/graft-git.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/graft-git.nvim)
-  - [tlj/graft-ui.nvim](https://github.com/tlj/graft-ui.nvim) ![](https://img.shields.io/github/stars/tlj/graft-ui.nvim) ![](https://img.shields.io/github/last-commit/tlj/graft-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/tlj/graft-ui.nvim)
 
 ## git utils
 
@@ -382,7 +380,6 @@
 - [mistweaverco/githubutils.nvim](https://github.com/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/stars/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/githubutils.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/githubutils.nvim)
 - [muryp/muryp-gh.nvim](https://github.com/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/stars/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/last-commit/muryp/muryp-gh.nvim) ![](https://img.shields.io/github/commit-activity/y/muryp/muryp-gh.nvim)
 - [wassimk/gh-navigator.nvim](https://github.com/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/stars/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/last-commit/wassimk/gh-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/gh-navigator.nvim)
-- [crushingCodes/telescope-github.nvim](https://github.com/crushingCodes/telescope-github.nvim) ![](https://img.shields.io/github/stars/crushingCodes/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/crushingCodes/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/crushingCodes/telescope-github.nvim)
 - [amjith/ghopen.nvim](https://github.com/amjith/ghopen.nvim) ![](https://img.shields.io/github/stars/amjith/ghopen.nvim) ![](https://img.shields.io/github/last-commit/amjith/ghopen.nvim) ![](https://img.shields.io/github/commit-activity/y/amjith/ghopen.nvim)
 - [zachbuchli/ghpowertools.nvim](https://github.com/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/stars/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/ghpowertools.nvim)
 - [gitusp/gh-utils.nvim](https://github.com/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-utils.nvim)
@@ -485,7 +482,6 @@
 - [johnsaigle/github-permalink.nvim](https://github.com/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/stars/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/github-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/github-permalink.nvim)
 - [k2589/getgithublink.nvim](https://github.com/k2589/getgithublink.nvim) ![](https://img.shields.io/github/stars/k2589/getgithublink.nvim) ![](https://img.shields.io/github/last-commit/k2589/getgithublink.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/getgithublink.nvim)
 - [cfal/github-line.nvim](https://github.com/cfal/github-line.nvim) ![](https://img.shields.io/github/stars/cfal/github-line.nvim) ![](https://img.shields.io/github/last-commit/cfal/github-line.nvim) ![](https://img.shields.io/github/commit-activity/y/cfal/github-line.nvim)
-- [jangraefen/nvim-repo-open](https://github.com/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/stars/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/last-commit/jangraefen/nvim-repo-open) ![](https://img.shields.io/github/commit-activity/y/jangraefen/nvim-repo-open)
 - [jangraefen/open-repo.nvim](https://github.com/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/stars/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/last-commit/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/jangraefen/open-repo.nvim)
 
 ## Image

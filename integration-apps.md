@@ -228,7 +228,6 @@
 - [dakota-m/terraform.nvim](https://github.com/dakota-m/terraform.nvim) ![](https://img.shields.io/github/stars/dakota-m/terraform.nvim) ![](https://img.shields.io/github/last-commit/dakota-m/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/dakota-m/terraform.nvim)
 - [olidacombe/terrabastard.nvim](https://github.com/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/stars/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/terrabastard.nvim)
 - [dkooll/bouncer.nvim](https://github.com/dkooll/bouncer.nvim) ![](https://img.shields.io/github/stars/dkooll/bouncer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/bouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/bouncer.nvim)
-- [danielyaba/terraform.nvim](https://github.com/danielyaba/terraform.nvim) ![](https://img.shields.io/github/stars/danielyaba/terraform.nvim) ![](https://img.shields.io/github/last-commit/danielyaba/terraform.nvim) ![](https://img.shields.io/github/commit-activity/y/danielyaba/terraform.nvim)
 - [dkooll/diffy.nvim](https://github.com/dkooll/diffy.nvim) ![](https://img.shields.io/github/stars/dkooll/diffy.nvim) ![](https://img.shields.io/github/last-commit/dkooll/diffy.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/diffy.nvim)
 
 ##### atmos
