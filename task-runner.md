@@ -120,6 +120,7 @@
 - [NewDawn0/build.nvim](https://github.com/NewDawn0/build.nvim) ![](https://img.shields.io/github/stars/NewDawn0/build.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/build.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/build.nvim)
 - [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/code-runner.nvim)
 - [DestopLine/scratch-runner.nvim](https://github.com/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/stars/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/scratch-runner.nvim)
+- [NotAShelf/sprint.nvim](https://github.com/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/stars/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/sprint.nvim)
 
 ### Shell
 

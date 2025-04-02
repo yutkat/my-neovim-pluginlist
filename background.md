@@ -26,3 +26,4 @@
 ### Transparency
 
 - [IniyanKanmani/term-transparency.nvim](https://github.com/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/term-transparency.nvim)
+- [hotuansang96/transparent.nvim](https://github.com/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/stars/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/last-commit/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/hotuansang96/transparent.nvim)
