@@ -109,6 +109,7 @@
 - [phamdat8/alpha-art.nvim](https://github.com/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/stars/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/last-commit/phamdat8/alpha-art.nvim) ![](https://img.shields.io/github/commit-activity/y/phamdat8/alpha-art.nvim)
 - [Abizrh/iisca.nvim](https://github.com/Abizrh/iisca.nvim) ![](https://img.shields.io/github/stars/Abizrh/iisca.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/iisca.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/iisca.nvim)
 - [franpfeiffer/workflow.nvim](https://github.com/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/workflow.nvim)
+- [jarenm1/nvim-buddy](https://github.com/jarenm1/nvim-buddy) ![](https://img.shields.io/github/stars/jarenm1/nvim-buddy) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-buddy) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-buddy)
 
 ### Graph
 

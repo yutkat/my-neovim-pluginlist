@@ -16,6 +16,7 @@
   * [Cron](#cron)
   * [Drools Rule Language](#drools-rule-language)
   * [Log](#log)
+  * [Craft](#craft)
 
 <!-- tocstop -->
 
@@ -115,3 +116,6 @@
 - [LukeBaal/lumberjack.nvim](https://github.com/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/stars/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/last-commit/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/commit-activity/y/LukeBaal/lumberjack.nvim)
 - [rinke-livinglogic-nl/relay.nvim](https://github.com/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/stars/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/last-commit/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/rinke-livinglogic-nl/relay.nvim)
 
+### Craft
+
+- [paulomach/craftls.nvim](https://github.com/paulomach/craftls.nvim) ![](https://img.shields.io/github/stars/paulomach/craftls.nvim) ![](https://img.shields.io/github/last-commit/paulomach/craftls.nvim) ![](https://img.shields.io/github/commit-activity/y/paulomach/craftls.nvim)

@@ -52,6 +52,7 @@
 ### mark note
 
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
+- [pxwg/sidenote.nvim](https://github.com/pxwg/sidenote.nvim) ![](https://img.shields.io/github/stars/pxwg/sidenote.nvim) ![](https://img.shields.io/github/last-commit/pxwg/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/sidenote.nvim)
 
 ### hashtag
 
