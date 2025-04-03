@@ -8,6 +8,7 @@
   * [YouTube Music](#youtube-music)
   * [Tidal](#tidal)
     + [MIDI](#midi)
+    + [ABC Notation](#abc-notation)
     + [Morse](#morse)
     + [Guitar](#guitar)
   * [Recording](#recording)
@@ -58,6 +59,10 @@
 #### MIDI
 
 - [niveK77pur/midi-input.nvim](https://github.com/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/stars/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/last-commit/niveK77pur/midi-input.nvim) ![](https://img.shields.io/github/commit-activity/y/niveK77pur/midi-input.nvim)
+
+#### ABC Notation
+
+- [AntoineBalaine/abc-lsp.nvim](https://github.com/AntoineBalaine/abc-lsp.nvim) ![](https://img.shields.io/github/stars/AntoineBalaine/abc-lsp.nvim) ![](https://img.shields.io/github/last-commit/AntoineBalaine/abc-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/AntoineBalaine/abc-lsp.nvim)
 
 #### Morse
 

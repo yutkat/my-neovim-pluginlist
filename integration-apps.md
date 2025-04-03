@@ -47,6 +47,7 @@
     + [Azure](#azure)
     + [Adobe](#adobe)
     + [Salesforce](#salesforce)
+      - [demandware](#demandware)
     + [Odoo](#odoo)
     + [Accounting tool](#accounting-tool)
       - [hledger](#hledger)
@@ -293,6 +294,10 @@
 - [julihermes/sfm-focus.nvim](https://github.com/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/stars/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/last-commit/julihermes/sfm-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/julihermes/sfm-focus.nvim)
 - [xixiaofinland/sf.nvim](https://github.com/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sf.nvim)
 - [clavery/nvim-sfcc](https://github.com/clavery/nvim-sfcc) ![](https://img.shields.io/github/stars/clavery/nvim-sfcc) ![](https://img.shields.io/github/last-commit/clavery/nvim-sfcc) ![](https://img.shields.io/github/commit-activity/y/clavery/nvim-sfcc)
+
+##### demandware
+
+- [3mpee3mpee/nvim_dw_sync](https://github.com/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/stars/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/last-commit/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/commit-activity/y/3mpee3mpee/nvim_dw_sync)
 
 #### Odoo
 
