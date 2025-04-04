@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Command Line](#command-line)
+  * [cmdheight](#cmdheight)
   * [Completion](#completion)
   * [GUID](#guid)
 - [Command Line UI](#command-line-ui)
@@ -26,6 +27,10 @@
 - [otavioschwanck/telescope-cmdline-word.nvim](https://github.com/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/telescope-cmdline-word.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/telescope-cmdline-word.nvim)
 - [gcmt/cmdfix.nvim](https://github.com/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/stars/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/last-commit/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/cmdfix.nvim)
 - [smilhey/ed-cmd.nvim](https://github.com/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/stars/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/last-commit/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/smilhey/ed-cmd.nvim)
+
+### cmdheight
+
+- [jake-stewart/auto-cmdheight.nvim](https://github.com/jake-stewart/auto-cmdheight.nvim) ![](https://img.shields.io/github/stars/jake-stewart/auto-cmdheight.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/auto-cmdheight.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/auto-cmdheight.nvim)
 
 ### Completion
 
