@@ -121,6 +121,8 @@
 - [wsdjeg/code-runner.nvim](https://github.com/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/stars/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/code-runner.nvim)
 - [DestopLine/scratch-runner.nvim](https://github.com/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/stars/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/scratch-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/scratch-runner.nvim)
 - [NotAShelf/sprint.nvim](https://github.com/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/stars/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/sprint.nvim)
+- [wsdjeg/job.nvim](https://github.com/wsdjeg/job.nvim) ![](https://img.shields.io/github/stars/wsdjeg/job.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/job.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/job.nvim)
+- [PatWie/ignition.nvim](https://github.com/PatWie/ignition.nvim) ![](https://img.shields.io/github/stars/PatWie/ignition.nvim) ![](https://img.shields.io/github/last-commit/PatWie/ignition.nvim) ![](https://img.shields.io/github/commit-activity/y/PatWie/ignition.nvim)
 
 ### Shell
 

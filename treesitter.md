@@ -19,6 +19,7 @@
 - [roobert/node-type.nvim](https://github.com/roobert/node-type.nvim) ![](https://img.shields.io/github/stars/roobert/node-type.nvim) ![](https://img.shields.io/github/last-commit/roobert/node-type.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/node-type.nvim)
 - [yioneko/nvim-tsteer](https://github.com/yioneko/nvim-tsteer) ![](https://img.shields.io/github/stars/yioneko/nvim-tsteer) ![](https://img.shields.io/github/last-commit/yioneko/nvim-tsteer) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-tsteer)
 - [baketnk/treeporter.nvim](https://github.com/baketnk/treeporter.nvim) ![](https://img.shields.io/github/stars/baketnk/treeporter.nvim) ![](https://img.shields.io/github/last-commit/baketnk/treeporter.nvim) ![](https://img.shields.io/github/commit-activity/y/baketnk/treeporter.nvim)
+- [krshrimali/nvim-utils](https://github.com/krshrimali/nvim-utils) ![](https://img.shields.io/github/stars/krshrimali/nvim-utils) ![](https://img.shields.io/github/last-commit/krshrimali/nvim-utils) ![](https://img.shields.io/github/commit-activity/y/krshrimali/nvim-utils)
 
 ### Installer
 
