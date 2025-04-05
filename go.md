@@ -106,6 +106,7 @@
 - [sukhjit/go-pkgs-check.nvim](https://github.com/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/stars/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/last-commit/sukhjit/go-pkgs-check.nvim) ![](https://img.shields.io/github/commit-activity/y/sukhjit/go-pkgs-check.nvim)
 - [fredrikaverpil/godoc.nvim](https://github.com/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/godoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/godoc.nvim)
 - [Yu-Leo/cmp-go-pkgs](https://github.com/Yu-Leo/cmp-go-pkgs) ![](https://img.shields.io/github/stars/Yu-Leo/cmp-go-pkgs) ![](https://img.shields.io/github/last-commit/Yu-Leo/cmp-go-pkgs) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/cmp-go-pkgs)
+- [syz51/go-mod.nvim](https://github.com/syz51/go-mod.nvim) ![](https://img.shields.io/github/stars/syz51/go-mod.nvim) ![](https://img.shields.io/github/last-commit/syz51/go-mod.nvim) ![](https://img.shields.io/github/commit-activity/y/syz51/go-mod.nvim)
 
 ### import
 
