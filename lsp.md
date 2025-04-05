@@ -121,6 +121,7 @@
 - [boltlessengineer/sense.nvim](https://github.com/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/sense.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/sense.nvim)
 - [yochem/chime.nvim](https://github.com/yochem/chime.nvim) ![](https://img.shields.io/github/stars/yochem/chime.nvim) ![](https://img.shields.io/github/last-commit/yochem/chime.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/chime.nvim)
 - [Wordluc/in-your-face.nvim](https://github.com/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/stars/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/last-commit/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/commit-activity/y/Wordluc/in-your-face.nvim)
+- [ifneq/hover-diagnostic.nvim](https://github.com/ifneq/hover-diagnostic.nvim) ![](https://img.shields.io/github/stars/ifneq/hover-diagnostic.nvim) ![](https://img.shields.io/github/last-commit/ifneq/hover-diagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/ifneq/hover-diagnostic.nvim)
 
 ##### Diagnostics goto
 

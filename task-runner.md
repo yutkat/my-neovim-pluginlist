@@ -43,6 +43,7 @@
 - [Beloin/Launch.nvim](https://github.com/Beloin/Launch.nvim) ![](https://img.shields.io/github/stars/Beloin/Launch.nvim) ![](https://img.shields.io/github/last-commit/Beloin/Launch.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/Launch.nvim)
 - [H4-MM-3R/recon.nvim](https://github.com/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/stars/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/last-commit/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/commit-activity/y/H4-MM-3R/recon.nvim)
 - [epoll31/script_runner.nvim](https://github.com/epoll31/script_runner.nvim) ![](https://img.shields.io/github/stars/epoll31/script_runner.nvim) ![](https://img.shields.io/github/last-commit/epoll31/script_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/epoll31/script_runner.nvim)
+- [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/pewpewnor/pilot.nvim)
 
 ### YAML
 
@@ -168,6 +169,7 @@
 - [joalon/easyexec.nvim](https://github.com/joalon/easyexec.nvim) ![](https://img.shields.io/github/stars/joalon/easyexec.nvim) ![](https://img.shields.io/github/last-commit/joalon/easyexec.nvim) ![](https://img.shields.io/github/commit-activity/y/joalon/easyexec.nvim)
 - [nexcov/compile-mode.nvim](https://github.com/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/stars/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/nexcov/compile-mode.nvim)
 - [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
+- [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
 
 ## Auto detect style
 

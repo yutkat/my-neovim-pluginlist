@@ -100,6 +100,7 @@
 - [goncaloalves/gitglide.nvim](https://github.com/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/stars/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/last-commit/goncaloalves/gitglide.nvim) ![](https://img.shields.io/github/commit-activity/y/goncaloalves/gitglide.nvim)
 - [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/git2.nvim)
 - [walker84837/fastgit.nvim](https://github.com/walker84837/fastgit.nvim) ![](https://img.shields.io/github/stars/walker84837/fastgit.nvim) ![](https://img.shields.io/github/last-commit/walker84837/fastgit.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/fastgit.nvim)
+- [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) ![](https://img.shields.io/github/stars/wsdjeg/git.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/git.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/git.nvim)
 
 ## gitui
 
