@@ -168,6 +168,7 @@
 - [oleksiiluchnikov/telescope-prompts.nvim](https://github.com/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-prompts.nvim)
 - [brewinski/avante-cody.nvim](https://github.com/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/stars/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/last-commit/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/commit-activity/y/brewinski/avante-cody.nvim)
 - [0xrusowsky/nvim-ctx-ingest](https://github.com/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/stars/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/last-commit/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/commit-activity/y/0xrusowsky/nvim-ctx-ingest)
+- [bajistic/llm.nvim](https://github.com/bajistic/llm.nvim) ![](https://img.shields.io/github/stars/bajistic/llm.nvim) ![](https://img.shields.io/github/last-commit/bajistic/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/bajistic/llm.nvim)
 
 #### mods
 
@@ -277,6 +278,7 @@
 - [shaleix/aider-ui.nvim](https://github.com/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/stars/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/last-commit/shaleix/aider-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/shaleix/aider-ui.nvim)
 - [kentchiu/aider.nvim](https://github.com/kentchiu/aider.nvim) ![](https://img.shields.io/github/stars/kentchiu/aider.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/aider.nvim)
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
+- [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
 
 ### CodeGate
 
@@ -418,6 +420,7 @@
 
 - [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
 - [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
+- [BartSte/nvim-bartste-prompts](https://github.com/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/stars/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/last-commit/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/commit-activity/y/BartSte/nvim-bartste-prompts)
 
 ## log
 

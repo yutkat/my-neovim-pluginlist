@@ -36,6 +36,7 @@
   * [search](#search)
   * [worktree](#worktree)
   * [submodule](#submodule)
+  * [git patch](#git-patch)
   * [git utils](#git-utils)
   * [Contribution](#contribution)
   * [git environment variable](#git-environment-variable)
@@ -328,6 +329,10 @@
 ## submodule
 
 - [agoodshort/telescope-git-submodules.nvim](https://github.com/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/stars/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/last-commit/agoodshort/telescope-git-submodules.nvim) ![](https://img.shields.io/github/commit-activity/y/agoodshort/telescope-git-submodules.nvim)
+
+## git patch
+
+- [nhu/patchr.nvim](https://github.com/nhu/patchr.nvim) ![](https://img.shields.io/github/stars/nhu/patchr.nvim) ![](https://img.shields.io/github/last-commit/nhu/patchr.nvim) ![](https://img.shields.io/github/commit-activity/y/nhu/patchr.nvim)
 
 ## git utils
 

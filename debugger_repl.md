@@ -91,6 +91,7 @@
 - [wsdjeg/repl.nvim](https://github.com/wsdjeg/repl.nvim) ![](https://img.shields.io/github/stars/wsdjeg/repl.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/repl.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/repl.nvim)
 - [Futarimiti/ferrum.nvim](https://github.com/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/stars/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/last-commit/Futarimiti/ferrum.nvim) ![](https://img.shields.io/github/commit-activity/y/Futarimiti/ferrum.nvim)
 - [max607/nvim-terminal-send](https://github.com/max607/nvim-terminal-send) ![](https://img.shields.io/github/stars/max607/nvim-terminal-send) ![](https://img.shields.io/github/last-commit/max607/nvim-terminal-send) ![](https://img.shields.io/github/commit-activity/y/max607/nvim-terminal-send)
+- [Tyrannican/scratchy.nvim](https://github.com/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/stars/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/last-commit/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyrannican/scratchy.nvim)
 
 ### Refactoring,Debugging
 

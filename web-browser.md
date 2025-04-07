@@ -72,6 +72,7 @@
 - [dzfrias/gsearch.nvim](https://github.com/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/stars/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/last-commit/dzfrias/gsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/dzfrias/gsearch.nvim)
 - [gudjonragnar/searcher.nvim](https://github.com/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/stars/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/last-commit/gudjonragnar/searcher.nvim) ![](https://img.shields.io/github/commit-activity/y/gudjonragnar/searcher.nvim)
 - [ulf-westermann/websearch.nvim](https://github.com/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/stars/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/last-commit/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/commit-activity/y/ulf-westermann/websearch.nvim)
+- [jamesukiyo/search-this.nvim](https://github.com/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/stars/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/last-commit/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesukiyo/search-this.nvim)
 
 ##### Search without browser
 
