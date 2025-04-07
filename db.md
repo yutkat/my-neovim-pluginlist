@@ -11,6 +11,7 @@
   * [SurrealDB](#surrealdb)
   * [EdgeDB](#edgedb)
   * [Metabase](#metabase)
+  * [DuckDB](#duckdb)
 
 <!-- tocstop -->
 
@@ -78,3 +79,7 @@
 ### Metabase
 
 - [YGautier/mb-query.nvim](https://github.com/YGautier/mb-query.nvim) ![](https://img.shields.io/github/stars/YGautier/mb-query.nvim) ![](https://img.shields.io/github/last-commit/YGautier/mb-query.nvim) ![](https://img.shields.io/github/commit-activity/y/YGautier/mb-query.nvim)
+
+### DuckDB
+
+- [princejoogie/duckdb.nvim](https://github.com/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/stars/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/duckdb.nvim)

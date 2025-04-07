@@ -121,6 +121,7 @@
 - [tkachenkosi/mbuffers.nvim](https://github.com/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/mbuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/mbuffers.nvim)
 - [francescarpi/buffon.nvim](https://github.com/francescarpi/buffon.nvim) ![](https://img.shields.io/github/stars/francescarpi/buffon.nvim) ![](https://img.shields.io/github/last-commit/francescarpi/buffon.nvim) ![](https://img.shields.io/github/commit-activity/y/francescarpi/buffon.nvim)
 - [niuiic/buffers.nvim](https://github.com/niuiic/buffers.nvim) ![](https://img.shields.io/github/stars/niuiic/buffers.nvim) ![](https://img.shields.io/github/last-commit/niuiic/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/buffers.nvim)
+- [mattcookio/pivot.nvim](https://github.com/mattcookio/pivot.nvim) ![](https://img.shields.io/github/stars/mattcookio/pivot.nvim) ![](https://img.shields.io/github/last-commit/mattcookio/pivot.nvim) ![](https://img.shields.io/github/commit-activity/y/mattcookio/pivot.nvim)
 
 #### create
 

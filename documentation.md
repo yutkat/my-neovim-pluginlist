@@ -61,6 +61,7 @@
   * [typst](#typst)
   * [Textile](#textile)
   * [Jekyll](#jekyll)
+- [Code documentaion](#code-documentaion)
 
 <!-- tocstop -->
 
@@ -463,3 +464,7 @@
 ### Jekyll
 
 - [kanedo/jekyll.nvim](https://github.com/kanedo/jekyll.nvim) ![](https://img.shields.io/github/stars/kanedo/jekyll.nvim) ![](https://img.shields.io/github/last-commit/kanedo/jekyll.nvim) ![](https://img.shields.io/github/commit-activity/y/kanedo/jekyll.nvim)
+
+## Code documentaion
+
+- [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)

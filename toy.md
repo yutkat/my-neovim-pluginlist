@@ -22,6 +22,8 @@
       - [Message](#message)
       - [Edit Info](#edit-info)
       - [Ninjas Facts](#ninjas-facts)
+  * [Movie](#movie)
+    + [YouTube](#youtube)
   * [Study](#study)
     + [French](#french)
   * [Speech](#speech)
@@ -150,12 +152,19 @@
 
 - [notelgnis/fetchfact.nvim](https://github.com/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/stars/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/last-commit/notelgnis/fetchfact.nvim) ![](https://img.shields.io/github/commit-activity/y/notelgnis/fetchfact.nvim)
 
+## Movie
+
+### YouTube
+
+- [lachlanpaulsen1/ytshorts-runner.nvim](https://github.com/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/stars/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/last-commit/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lachlanpaulsen1/ytshorts-runner.nvim)
+
 ## Study
 
 - [alex-laycalvert/flashcards.nvim](https://github.com/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/flashcards.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/flashcards.nvim)
 - [ja-ford/delaytrain.nvim](https://github.com/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/stars/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/last-commit/ja-ford/delaytrain.nvim) ![](https://img.shields.io/github/commit-activity/y/ja-ford/delaytrain.nvim)
 - [davidgranstrom/oblique-strategies.nvim](https://github.com/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/stars/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/last-commit/davidgranstrom/oblique-strategies.nvim) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/oblique-strategies.nvim)
 - [Walenski/cloze.nvim](https://github.com/Walenski/cloze.nvim) ![](https://img.shields.io/github/stars/Walenski/cloze.nvim) ![](https://img.shields.io/github/last-commit/Walenski/cloze.nvim) ![](https://img.shields.io/github/commit-activity/y/Walenski/cloze.nvim)
+- [cjohnson74/Scales.nvim](https://github.com/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/stars/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/last-commit/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/commit-activity/y/cjohnson74/Scales.nvim)
 
 ### French
 
