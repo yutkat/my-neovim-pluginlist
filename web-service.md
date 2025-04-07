@@ -257,7 +257,6 @@
 
 ### HackerNews
 
-- [gnudad/hackernews.nvim](https://github.com/gnudad/hackernews.nvim) ![](https://img.shields.io/github/stars/gnudad/hackernews.nvim) ![](https://img.shields.io/github/last-commit/gnudad/hackernews.nvim) ![](https://img.shields.io/github/commit-activity/y/gnudad/hackernews.nvim)
 
 ### Zotero
 

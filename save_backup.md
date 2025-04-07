@@ -44,4 +44,3 @@
 
 ## Backup
 
-- [dawsers/telescope-file-history.nvim](https://github.com/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/stars/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/last-commit/dawsers/telescope-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/telescope-file-history.nvim)
