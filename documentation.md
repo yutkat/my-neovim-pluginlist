@@ -41,6 +41,7 @@
     + [MDX](#mdx)
     + [Marp](#marp)
   * [PlantUML](#plantuml)
+  * [Mermaid](#mermaid)
   * [Graphviz](#graphviz)
   * [AsciiDoc](#asciidoc)
   * [PDF](#pdf)
@@ -271,6 +272,7 @@
 - [kaymmm/bullets.nvim](https://github.com/kaymmm/bullets.nvim) ![](https://img.shields.io/github/stars/kaymmm/bullets.nvim) ![](https://img.shields.io/github/last-commit/kaymmm/bullets.nvim) ![](https://img.shields.io/github/commit-activity/y/kaymmm/bullets.nvim)
 - [c-dilks/notator.nvim](https://github.com/c-dilks/notator.nvim) ![](https://img.shields.io/github/stars/c-dilks/notator.nvim) ![](https://img.shields.io/github/last-commit/c-dilks/notator.nvim) ![](https://img.shields.io/github/commit-activity/y/c-dilks/notator.nvim)
 - [efirlus/keepin-md.nvim](https://github.com/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/stars/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/last-commit/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/keepin-md.nvim)
+- [oliver-hughes/md-list.nvim](https://github.com/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/stars/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/last-commit/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/commit-activity/y/oliver-hughes/md-list.nvim)
 
 #### Markdown image
 
@@ -326,6 +328,10 @@
 - [Maduki-tech/nvim-plantuml](https://github.com/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/stars/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/last-commit/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/nvim-plantuml)
 - [SebastiaanBooman/botanist.nvim](https://github.com/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/stars/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/last-commit/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/commit-activity/y/SebastiaanBooman/botanist.nvim)
 - [Gabz-Araujo/plantuml.nvim](https://github.com/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/stars/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/last-commit/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/Gabz-Araujo/plantuml.nvim)
+
+### Mermaid
+
+- [snrogers/mermaider.nvim](https://github.com/snrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/snrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/snrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/snrogers/mermaider.nvim)
 
 ### Graphviz
 

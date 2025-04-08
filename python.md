@@ -218,6 +218,7 @@
 ## MicroPython
 
 - [jim-at-jibba/micropython.nvim](https://github.com/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/stars/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/last-commit/jim-at-jibba/micropython.nvim) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/micropython.nvim)
+- [iharkatkavets/micropython.nvim](https://github.com/iharkatkavets/micropython.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/micropython.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/micropython.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/micropython.nvim)
 
 ## Quix
 

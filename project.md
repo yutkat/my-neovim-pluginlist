@@ -97,6 +97,7 @@
 - [brymer-meneses/project-config.nvim](https://github.com/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/stars/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/last-commit/brymer-meneses/project-config.nvim) ![](https://img.shields.io/github/commit-activity/y/brymer-meneses/project-config.nvim)
 - [yebt/file-resolver.nvim](https://github.com/yebt/file-resolver.nvim) ![](https://img.shields.io/github/stars/yebt/file-resolver.nvim) ![](https://img.shields.io/github/last-commit/yebt/file-resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/file-resolver.nvim)
 - [Dzejkop/konfig.nvim](https://github.com/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/stars/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/konfig.nvim)
+- [yamgent/simple-settings.nvim](https://github.com/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/stars/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/last-commit/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/yamgent/simple-settings.nvim)
 
 #### Config switcher
 

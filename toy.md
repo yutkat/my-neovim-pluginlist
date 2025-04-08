@@ -9,6 +9,7 @@
   * [Image](#image)
   * [Book](#book)
   * [Video](#video)
+    + [Screen Recording](#screen-recording)
   * [View](#view)
   * [Gaming](#gaming)
   * [Training](#training)
@@ -75,6 +76,10 @@
 - [nvimdev/3danimation.nvim](https://github.com/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/stars/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/3danimation.nvim)
 - [rawrrawrpurpledinosaur/brainrot.nvim](https://github.com/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/stars/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/last-commit/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/rawrrawrpurpledinosaur/brainrot.nvim)
 - [The-Silent-One/mpv.nvim](https://github.com/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/mpv.nvim)
+
+### Screen Recording
+
+- [wsdjeg/record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-screen.nvim)
 
 ## View
 

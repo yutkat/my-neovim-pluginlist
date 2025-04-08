@@ -97,6 +97,7 @@
 ### Formatter
 
 - [marcosantos98/clang-format.nvim](https://github.com/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/stars/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/last-commit/marcosantos98/clang-format.nvim) ![](https://img.shields.io/github/commit-activity/y/marcosantos98/clang-format.nvim)
+- [segfault-survivor/nvim-cpp-live](https://github.com/segfault-survivor/nvim-cpp-live) ![](https://img.shields.io/github/stars/segfault-survivor/nvim-cpp-live) ![](https://img.shields.io/github/last-commit/segfault-survivor/nvim-cpp-live) ![](https://img.shields.io/github/commit-activity/y/segfault-survivor/nvim-cpp-live)
 
 ### Linter
 
