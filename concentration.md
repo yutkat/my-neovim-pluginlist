@@ -36,6 +36,7 @@
 - [QuentinGruber/pomodoro.nvim](https://github.com/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/stars/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/QuentinGruber/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/QuentinGruber/pomodoro.nvim)
 - [Maduki-tech/PomoTimer.nvim](https://github.com/Maduki-tech/PomoTimer.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/PomoTimer.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/PomoTimer.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/PomoTimer.nvim)
 - [Callumk7/pomodoro.nvim](https://github.com/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/stars/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/Callumk7/pomodoro.nvim)
+- [pedrosanto90/focus.nvim](https://github.com/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/stars/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/last-commit/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/pedrosanto90/focus.nvim)
 
 ## Alarm
 

@@ -7,6 +7,7 @@
     + [Matrix.org](#matrixorg)
     + [Discord](#discord)
     + [Slack](#slack)
+    + [Telegram](#telegram)
     + [IRC](#irc)
     + [iMessage](#imessage)
   * [SNS](#sns)
@@ -91,6 +92,10 @@
 #### Slack
 
 - [alex-laycalvert/slack.nvim](https://github.com/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/slack.nvim)
+
+#### Telegram
+
+- [the-blc/telegram.nvim](https://github.com/the-blc/telegram.nvim) ![](https://img.shields.io/github/stars/the-blc/telegram.nvim) ![](https://img.shields.io/github/last-commit/the-blc/telegram.nvim) ![](https://img.shields.io/github/commit-activity/y/the-blc/telegram.nvim)
 
 #### IRC
 
