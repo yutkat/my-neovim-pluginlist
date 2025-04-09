@@ -1,4 +1,12 @@
-# Neovim Distribution
+# Table of Contents
+
+<!-- toc -->
+
+- [Neovim Distribution](#neovim-distribution)
+
+<!-- tocstop -->
+
+## Neovim Distribution
 
 The list is only selected if it has more than 100 stars and is actively being updated.
 
