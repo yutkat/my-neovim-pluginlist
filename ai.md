@@ -384,6 +384,7 @@
   - [JulienZD/copilot-statusline.nvim](https://github.com/JulienZD/copilot-statusline.nvim) ![](https://img.shields.io/github/stars/JulienZD/copilot-statusline.nvim) ![](https://img.shields.io/github/last-commit/JulienZD/copilot-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienZD/copilot-statusline.nvim)
 - [krshrimali/context-pilot.nvim](https://github.com/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/stars/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/context-pilot.nvim)
 - [SearidangPa/copilot_hop.nvim](https://github.com/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/stars/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/copilot_hop.nvim)
+- [fuegoio/copiloutre.nvim](https://github.com/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/stars/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/last-commit/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/commit-activity/y/fuegoio/copiloutre.nvim)
 
 ## Chat
 
@@ -398,6 +399,7 @@
 ## Cursor
 
 - [circansm/nvim-cursor](https://github.com/circansm/nvim-cursor) ![](https://img.shields.io/github/stars/circansm/nvim-cursor) ![](https://img.shields.io/github/last-commit/circansm/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/circansm/nvim-cursor)
+- [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 
 ## Code generate
 

@@ -40,6 +40,7 @@
 - [antsoh161/dabble.nvim](https://github.com/antsoh161/dabble.nvim) ![](https://img.shields.io/github/stars/antsoh161/dabble.nvim) ![](https://img.shields.io/github/last-commit/antsoh161/dabble.nvim) ![](https://img.shields.io/github/commit-activity/y/antsoh161/dabble.nvim)
 - [GertDhaenens/nvim-lsp-snippets](https://github.com/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/stars/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/last-commit/GertDhaenens/nvim-lsp-snippets) ![](https://img.shields.io/github/commit-activity/y/GertDhaenens/nvim-lsp-snippets)
 - [saccarosium/snipman.nvim](https://github.com/saccarosium/snipman.nvim) ![](https://img.shields.io/github/stars/saccarosium/snipman.nvim) ![](https://img.shields.io/github/last-commit/saccarosium/snipman.nvim) ![](https://img.shields.io/github/commit-activity/y/saccarosium/snipman.nvim)
+- [steschwa/snipman.nvim](https://github.com/steschwa/snipman.nvim) ![](https://img.shields.io/github/stars/steschwa/snipman.nvim) ![](https://img.shields.io/github/last-commit/steschwa/snipman.nvim) ![](https://img.shields.io/github/commit-activity/y/steschwa/snipman.nvim)
 
 #### Snippet definitions
 

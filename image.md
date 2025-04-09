@@ -74,6 +74,7 @@
 - [tigh-latte/showoff.nvim](https://github.com/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/stars/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/last-commit/tigh-latte/showoff.nvim) ![](https://img.shields.io/github/commit-activity/y/tigh-latte/showoff.nvim)
 - [17xande/track.nvim](https://github.com/17xande/track.nvim) ![](https://img.shields.io/github/stars/17xande/track.nvim) ![](https://img.shields.io/github/last-commit/17xande/track.nvim) ![](https://img.shields.io/github/commit-activity/y/17xande/track.nvim)
 - [wsdjeg/record-key.nvim](https://github.com/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-key.nvim)
+- [walkingshamrock/slowreader.nvim](https://github.com/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/slowreader.nvim)
 
 #### Code Image
 

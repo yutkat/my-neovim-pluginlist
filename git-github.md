@@ -370,6 +370,7 @@
 - [swaits/lazyjj.nvim](https://github.com/swaits/lazyjj.nvim) ![](https://img.shields.io/github/stars/swaits/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/swaits/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/lazyjj.nvim)
 - [obayemi/jjsigns.nvim](https://github.com/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/stars/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/obayemi/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/obayemi/jjsigns.nvim)
 - [CharlesTaylor7/majjit.nvim](https://github.com/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/stars/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/last-commit/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesTaylor7/majjit.nvim)
+- [solsystemlabs/jujutsu.nvim](https://github.com/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/stars/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/solsystemlabs/jujutsu.nvim)
 
 ## diff
 
