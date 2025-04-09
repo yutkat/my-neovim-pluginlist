@@ -9,7 +9,7 @@
 
 <!-- tocstop -->
 
-# Statusline
+## Statusline
 
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/stars/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/last-commit/nvim-lualine/lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lualine/lualine.nvim)
   - [Isrothy/lualine-diagnostic-message](https://github.com/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/stars/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/last-commit/Isrothy/lualine-diagnostic-message) ![](https://img.shields.io/github/commit-activity/y/Isrothy/lualine-diagnostic-message)
@@ -68,7 +68,7 @@
 - [drgfunk/streamline.nvim](https://github.com/drgfunk/streamline.nvim) ![](https://img.shields.io/github/stars/drgfunk/streamline.nvim) ![](https://img.shields.io/github/last-commit/drgfunk/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/drgfunk/streamline.nvim)
 - [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statusline.nvim)
 
-### Simple
+#### Simple
 
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) ![](https://img.shields.io/github/stars/beauwilliams/statusline.lua) ![](https://img.shields.io/github/last-commit/beauwilliams/statusline.lua) ![](https://img.shields.io/github/commit-activity/y/beauwilliams/statusline.lua)
 - [doums/ponton.nvim](https://github.com/doums/ponton.nvim) ![](https://img.shields.io/github/stars/doums/ponton.nvim) ![](https://img.shields.io/github/last-commit/doums/ponton.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/ponton.nvim)
@@ -82,11 +82,11 @@
 - [brianaung/yasl.nvim](https://github.com/brianaung/yasl.nvim) ![](https://img.shields.io/github/stars/brianaung/yasl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/yasl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/yasl.nvim)
 - [tkachenkosi/myline.nvim](https://github.com/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/myline.nvim)
 
-### Special Features
+#### Special Features
 
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) ![](https://img.shields.io/github/stars/windwp/windline.nvim) ![](https://img.shields.io/github/last-commit/windwp/windline.nvim) ![](https://img.shields.io/github/commit-activity/y/windwp/windline.nvim)
 
-## Statusline component
+### Statusline component
 
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) ![](https://img.shields.io/github/stars/b0o/incline.nvim) ![](https://img.shields.io/github/last-commit/b0o/incline.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/incline.nvim)
 - [erhickey/diagline-nvim](https://github.com/erhickey/diagline-nvim) ![](https://img.shields.io/github/stars/erhickey/diagline-nvim) ![](https://img.shields.io/github/last-commit/erhickey/diagline-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/diagline-nvim)

@@ -3,17 +3,17 @@
 <!-- toc -->
 
 - [FuzzyFinder](#fuzzyfinder)
-    + [Telescope Extensions](#telescope-extensions)
-      - [Picker](#picker)
-      - [Sorter](#sorter)
-      - [Action](#action)
-      - [Utils](#utils)
-      - [Grep](#grep)
-      - [Integration for another plugin](#integration-for-another-plugin)
+  * [Telescope Extensions](#telescope-extensions)
+    + [Picker](#picker)
+    + [Sorter](#sorter)
+    + [Action](#action)
+    + [Utils](#utils)
+    + [Grep](#grep)
+    + [Integration for another plugin](#integration-for-another-plugin)
 
 <!-- tocstop -->
 
-# FuzzyFinder
+## FuzzyFinder
 
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope.nvim)
   - [josa42/nvim-telescope-minimal-layout](https://github.com/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/stars/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/last-commit/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-telescope-minimal-layout)

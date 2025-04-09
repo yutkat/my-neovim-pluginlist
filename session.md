@@ -7,7 +7,7 @@
 
 <!-- tocstop -->
 
-# Session
+## Session
 
 - [Shatur/neovim-session-manager](https://github.com/Shatur/neovim-session-manager) ![](https://img.shields.io/github/stars/Shatur/neovim-session-manager) ![](https://img.shields.io/github/last-commit/Shatur/neovim-session-manager) ![](https://img.shields.io/github/commit-activity/y/Shatur/neovim-session-manager)
 - [jedrzejboczar/possession.nvim](https://github.com/jedrzejboczar/possession.nvim) ![](https://img.shields.io/github/stars/jedrzejboczar/possession.nvim) ![](https://img.shields.io/github/last-commit/jedrzejboczar/possession.nvim) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/possession.nvim)
@@ -66,7 +66,7 @@
 - [cdmill/sesh.nvim](https://github.com/cdmill/sesh.nvim) ![](https://img.shields.io/github/stars/cdmill/sesh.nvim) ![](https://img.shields.io/github/last-commit/cdmill/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/sesh.nvim)
 - [Akutchi/session.nvim](https://github.com/Akutchi/session.nvim) ![](https://img.shields.io/github/stars/Akutchi/session.nvim) ![](https://img.shields.io/github/last-commit/Akutchi/session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akutchi/session.nvim)
 
-## Session Selector
+### Session Selector
 
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
 - [Sawansunar56/nvim-sessionar](https://github.com/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/stars/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/last-commit/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/commit-activity/y/Sawansunar56/nvim-sessionar)
