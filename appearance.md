@@ -29,6 +29,7 @@
 - [NvChad/menu](https://github.com/NvChad/menu) ![](https://img.shields.io/github/stars/NvChad/menu) ![](https://img.shields.io/github/last-commit/NvChad/menu) ![](https://img.shields.io/github/commit-activity/y/NvChad/menu)
 - [NvChad/volt](https://github.com/NvChad/volt) ![](https://img.shields.io/github/stars/NvChad/volt) ![](https://img.shields.io/github/last-commit/NvChad/volt) ![](https://img.shields.io/github/commit-activity/y/NvChad/volt)
 - [M1nts02/nvim-menu](https://github.com/M1nts02/nvim-menu) ![](https://img.shields.io/github/stars/M1nts02/nvim-menu) ![](https://img.shields.io/github/last-commit/M1nts02/nvim-menu) ![](https://img.shields.io/github/commit-activity/y/M1nts02/nvim-menu)
+- [fdev31/menus.nvim](https://github.com/fdev31/menus.nvim) ![](https://img.shields.io/github/stars/fdev31/menus.nvim) ![](https://img.shields.io/github/last-commit/fdev31/menus.nvim) ![](https://img.shields.io/github/commit-activity/y/fdev31/menus.nvim)
 
 ### Minimap
 

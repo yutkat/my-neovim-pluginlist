@@ -100,6 +100,7 @@
 - [Dreagen/jump-to-test.nvim](https://github.com/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/stars/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/last-commit/Dreagen/jump-to-test.nvim) ![](https://img.shields.io/github/commit-activity/y/Dreagen/jump-to-test.nvim)
 - [PsychoLlama/alternaut.nvim](https://github.com/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/stars/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/last-commit/PsychoLlama/alternaut.nvim) ![](https://img.shields.io/github/commit-activity/y/PsychoLlama/alternaut.nvim)
 - [LasEmil/goto-test.nvim](https://github.com/LasEmil/goto-test.nvim) ![](https://img.shields.io/github/stars/LasEmil/goto-test.nvim) ![](https://img.shields.io/github/last-commit/LasEmil/goto-test.nvim) ![](https://img.shields.io/github/commit-activity/y/LasEmil/goto-test.nvim)
+- [Dkendal/nvim-alternate](https://github.com/Dkendal/nvim-alternate) ![](https://img.shields.io/github/stars/Dkendal/nvim-alternate) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-alternate) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-alternate)
 
 ### Buffer Management
 

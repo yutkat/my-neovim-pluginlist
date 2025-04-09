@@ -193,6 +193,7 @@
 - [hsteinshiromoto/markdown_transclusion.nvim](https://github.com/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_transclusion.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_transclusion.nvim)
 - [gokhangeyik/notesidian.nvim](https://github.com/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/stars/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/last-commit/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/commit-activity/y/gokhangeyik/notesidian.nvim)
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian.nvim)
+- [chkg2a/todo-obsidian.nvim](https://github.com/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/stars/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/last-commit/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/chkg2a/todo-obsidian.nvim)
 
 ## nb
 
