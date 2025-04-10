@@ -39,6 +39,7 @@
 ## for programming languages
 
 - [jdrupal-dev/parcel.nvim](https://github.com/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/parcel.nvim)
+- [tsurumi-yizhou/package.nvim](https://github.com/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/package.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/package.nvim)
 
 ## for CLI
 

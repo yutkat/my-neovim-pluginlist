@@ -80,6 +80,7 @@
 - [rargo/tomatoterm.nvim](https://github.com/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/stars/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/last-commit/rargo/tomatoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/rargo/tomatoterm.nvim)
 - [littlewhi/shit-terminal.nvim](https://github.com/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/stars/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/last-commit/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/littlewhi/shit-terminal.nvim)
 - [Bruno-BRG/terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/stars/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/last-commit/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Bruno-BRG/terminal.nvim)
+- [franpfeiffer/term2.nvim](https://github.com/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/term2.nvim)
 
 ### Open
 

@@ -124,6 +124,7 @@
 - [NotAShelf/sprint.nvim](https://github.com/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/stars/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/sprint.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/sprint.nvim)
 - [wsdjeg/job.nvim](https://github.com/wsdjeg/job.nvim) ![](https://img.shields.io/github/stars/wsdjeg/job.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/job.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/job.nvim)
 - [PatWie/ignition.nvim](https://github.com/PatWie/ignition.nvim) ![](https://img.shields.io/github/stars/PatWie/ignition.nvim) ![](https://img.shields.io/github/last-commit/PatWie/ignition.nvim) ![](https://img.shields.io/github/commit-activity/y/PatWie/ignition.nvim)
+- [tsurumi-yizhou/build.nvim](https://github.com/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/build.nvim)
 
 #### Shell
 

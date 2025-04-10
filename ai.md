@@ -118,6 +118,7 @@
 - [josiahdenton/copilot-chat-context.nvim](https://github.com/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/stars/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/copilot-chat-context.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/copilot-chat-context.nvim)
 - [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
 - [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
+- [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
 
 ### Gemini
 

@@ -286,6 +286,7 @@
 - [Meursau1T/rsync-git.nvim](https://github.com/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/stars/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/last-commit/Meursau1T/rsync-git.nvim) ![](https://img.shields.io/github/commit-activity/y/Meursau1T/rsync-git.nvim)
 - [NikolaiLyssogor/sink.nvim](https://github.com/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/stars/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/last-commit/NikolaiLyssogor/sink.nvim) ![](https://img.shields.io/github/commit-activity/y/NikolaiLyssogor/sink.nvim)
 - [yimuchen/rsync.nvim](https://github.com/yimuchen/rsync.nvim) ![](https://img.shields.io/github/stars/yimuchen/rsync.nvim) ![](https://img.shields.io/github/last-commit/yimuchen/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/yimuchen/rsync.nvim)
+- [mrkatebzadeh/sync.nvim](https://github.com/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/stars/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/last-commit/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/commit-activity/y/mrkatebzadeh/sync.nvim)
 
 #### curl
 

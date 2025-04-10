@@ -56,6 +56,7 @@
 ### MySQL
 
 - [NyeKo-ItL/mysql_query.nvim](https://github.com/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/stars/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/last-commit/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/commit-activity/y/NyeKo-ItL/mysql_query.nvim)
+- [Kurren123/mssql.nvim](https://github.com/Kurren123/mssql.nvim) ![](https://img.shields.io/github/stars/Kurren123/mssql.nvim) ![](https://img.shields.io/github/last-commit/Kurren123/mssql.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurren123/mssql.nvim)
 
 ### SQLite
 
