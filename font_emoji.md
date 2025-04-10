@@ -5,6 +5,7 @@
 - [Font](#font)
   * [Resize](#resize)
 - [Unicode character](#unicode-character)
+- [Greek](#greek)
 - [Icon](#icon)
   * [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -31,6 +32,10 @@
 ## Unicode character
 
 - [Zeta611/tex2uni.nvim](https://github.com/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/stars/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/last-commit/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeta611/tex2uni.nvim)
+
+## Greek
+
+- [utrumsit/betacode-to-unicode](https://github.com/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/stars/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/last-commit/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/commit-activity/y/utrumsit/betacode-to-unicode)
 
 ## Icon
 
