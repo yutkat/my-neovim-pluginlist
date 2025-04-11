@@ -75,6 +75,7 @@
 - [slezica/blip.nvim](https://github.com/slezica/blip.nvim) ![](https://img.shields.io/github/stars/slezica/blip.nvim) ![](https://img.shields.io/github/last-commit/slezica/blip.nvim) ![](https://img.shields.io/github/commit-activity/y/slezica/blip.nvim)
 - [FluxxField/smart-motion.nvim](https://github.com/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/stars/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/last-commit/FluxxField/smart-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/FluxxField/smart-motion.nvim)
 - [HawkinsT/pathfinder.nvim](https://github.com/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/stars/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/last-commit/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/HawkinsT/pathfinder.nvim)
+- [migbyte-0/migmotion.nvim](https://github.com/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/stars/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/last-commit/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/commit-activity/y/migbyte-0/migmotion.nvim)
 
 ### Horizontal Move
 
