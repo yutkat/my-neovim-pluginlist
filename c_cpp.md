@@ -21,6 +21,7 @@
   * [CMake](#cmake)
   * [CTest](#ctest)
   * [Debug](#debug)
+  * [Completion](#completion)
   * [LLDB](#lldb)
   * [LLM](#llm)
   * [Disassemble](#disassemble)
@@ -146,6 +147,10 @@
 ### Debug
 
 - [oyvindaakre/dtools.nvim](https://github.com/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/stars/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/last-commit/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/commit-activity/y/oyvindaakre/dtools.nvim)
+
+### Completion
+
+- [rijuyuezhu/call-matcher-in-C.nvim](https://github.com/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/stars/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/last-commit/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/commit-activity/y/rijuyuezhu/call-matcher-in-C.nvim)
 
 ### LLDB
 

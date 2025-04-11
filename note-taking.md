@@ -77,6 +77,7 @@
 - [cynumini/notes.nvim](https://github.com/cynumini/notes.nvim) ![](https://img.shields.io/github/stars/cynumini/notes.nvim) ![](https://img.shields.io/github/last-commit/cynumini/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/cynumini/notes.nvim)
 - [msyke/stashdown.nvim](https://github.com/msyke/stashdown.nvim) ![](https://img.shields.io/github/stars/msyke/stashdown.nvim) ![](https://img.shields.io/github/last-commit/msyke/stashdown.nvim) ![](https://img.shields.io/github/commit-activity/y/msyke/stashdown.nvim)
 - [hsteinshiromoto/markdown_mover.nvim](https://github.com/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_mover.nvim)
+- [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/dotmd.nvim)
 
 ## ToDo
 
@@ -387,3 +388,4 @@
 - [deveshidwivedi/notefloat.nvim](https://github.com/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/stars/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/last-commit/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/commit-activity/y/deveshidwivedi/notefloat.nvim)
 - [phevospan/nabla.nvim](https://github.com/phevospan/nabla.nvim) ![](https://img.shields.io/github/stars/phevospan/nabla.nvim) ![](https://img.shields.io/github/last-commit/phevospan/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/phevospan/nabla.nvim)
 - [dpi0/doo.nvim](https://github.com/dpi0/doo.nvim) ![](https://img.shields.io/github/stars/dpi0/doo.nvim) ![](https://img.shields.io/github/last-commit/dpi0/doo.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/doo.nvim)
+- [JachymPutta/dailies.nvim](https://github.com/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/stars/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/last-commit/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/commit-activity/y/JachymPutta/dailies.nvim)

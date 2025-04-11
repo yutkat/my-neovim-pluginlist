@@ -32,6 +32,7 @@
     + [NHL](#nhl)
   * [Religion](#religion)
     + [Judaism](#judaism)
+    + [Bible](#bible)
 
 <!-- tocstop -->
 
@@ -193,3 +194,7 @@
 - [ngorden/lectio.nvim](https://github.com/ngorden/lectio.nvim) ![](https://img.shields.io/github/stars/ngorden/lectio.nvim) ![](https://img.shields.io/github/last-commit/ngorden/lectio.nvim) ![](https://img.shields.io/github/commit-activity/y/ngorden/lectio.nvim)
 - [awesomegeek/prayertime.nvim](https://github.com/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/stars/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/last-commit/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/commit-activity/y/awesomegeek/prayertime.nvim)
 - [sammyshear/sefaria.nvim](https://github.com/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/stars/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/last-commit/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/commit-activity/y/sammyshear/sefaria.nvim)
+
+### Bible
+
+- [johnpgr/bible-reader.nvim](https://github.com/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/stars/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/last-commit/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpgr/bible-reader.nvim)
