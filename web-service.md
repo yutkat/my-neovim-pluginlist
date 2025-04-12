@@ -53,6 +53,7 @@
   * [Drupal](#drupal)
   * [Netsuite](#netsuite)
   * [Prefab](#prefab)
+- [Web3](#web3)
 - [CI](#ci)
   * [CircleCI](#circleci)
   * [Nx](#nx)
@@ -300,6 +301,10 @@
 ### Prefab
 
 - [prefab-cloud/prefab.nvim](https://github.com/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/stars/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/last-commit/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/commit-activity/y/prefab-cloud/prefab.nvim)
+
+## Web3
+
+- [teial/nvim-remix](https://github.com/teial/nvim-remix) ![](https://img.shields.io/github/stars/teial/nvim-remix) ![](https://img.shields.io/github/last-commit/teial/nvim-remix) ![](https://img.shields.io/github/commit-activity/y/teial/nvim-remix)
 
 ## CI
 

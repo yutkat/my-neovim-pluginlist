@@ -9,6 +9,7 @@
   * [Roblox studio](#roblox-studio)
   * [Garry's Mod](#garrys-mod)
   * [Bevy](#bevy)
+  * [UEFN Verse](#uefn-verse)
 
 <!-- tocstop -->
 
@@ -53,3 +54,7 @@
 ### Bevy
 
 - [Lommix/bevy_inspector.nvim](https://github.com/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/stars/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/last-commit/Lommix/bevy_inspector.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/bevy_inspector.nvim)
+
+### UEFN Verse
+
+- [PedroSansM/nvim-verse.nvim](https://github.com/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/stars/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/last-commit/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroSansM/nvim-verse.nvim)

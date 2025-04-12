@@ -43,6 +43,7 @@
 - [tj-moody/nucomment.nvim](https://github.com/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/stars/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/last-commit/tj-moody/nucomment.nvim) ![](https://img.shields.io/github/commit-activity/y/tj-moody/nucomment.nvim)
 - [OliverHeffernan/comments.nvim](https://github.com/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/stars/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/last-commit/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverHeffernan/comments.nvim)
 - [Rainfxxk/comment.nvim](https://github.com/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/comment.nvim)
+- [Yellowcrystalz/ez-comment.nvim](https://github.com/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/stars/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/last-commit/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Yellowcrystalz/ez-comment.nvim)
 
 ### CommentString
 

@@ -121,6 +121,7 @@
 - [rushjs1/clock.nvim](https://github.com/rushjs1/clock.nvim) ![](https://img.shields.io/github/stars/rushjs1/clock.nvim) ![](https://img.shields.io/github/last-commit/rushjs1/clock.nvim) ![](https://img.shields.io/github/commit-activity/y/rushjs1/clock.nvim)
 - [Aliqyan-21/timy.nvim](https://github.com/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/timy.nvim)
 - [4DRIAN0RTIZ/binaryclock.nvim](https://github.com/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/binaryclock.nvim)
+- [xTayEx/chronos.nvim](https://github.com/xTayEx/chronos.nvim) ![](https://img.shields.io/github/stars/xTayEx/chronos.nvim) ![](https://img.shields.io/github/last-commit/xTayEx/chronos.nvim) ![](https://img.shields.io/github/commit-activity/y/xTayEx/chronos.nvim)
 
 ## Stock price
 
@@ -198,3 +199,4 @@
 ### Bible
 
 - [johnpgr/bible-reader.nvim](https://github.com/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/stars/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/last-commit/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpgr/bible-reader.nvim)
+- [aidanalr/daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/stars/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/last-commit/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/commit-activity/y/aidanalr/daily-bible.nvim)
