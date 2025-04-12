@@ -296,6 +296,7 @@
 ### Goose
 
 - [thefux/gooseai.nvim](https://github.com/thefux/gooseai.nvim) ![](https://img.shields.io/github/stars/thefux/gooseai.nvim) ![](https://img.shields.io/github/last-commit/thefux/gooseai.nvim) ![](https://img.shields.io/github/commit-activity/y/thefux/gooseai.nvim)
+- [azorng/goose.nvim](https://github.com/azorng/goose.nvim) ![](https://img.shields.io/github/stars/azorng/goose.nvim) ![](https://img.shields.io/github/last-commit/azorng/goose.nvim) ![](https://img.shields.io/github/commit-activity/y/azorng/goose.nvim)
 
 ### Mistral
 
@@ -375,6 +376,7 @@
 - [huggingface/hfcc.nvim](https://github.com/huggingface/hfcc.nvim) ![](https://img.shields.io/github/stars/huggingface/hfcc.nvim) ![](https://img.shields.io/github/last-commit/huggingface/hfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/huggingface/hfcc.nvim)
 - [archibate/genius.nvim](https://github.com/archibate/genius.nvim) ![](https://img.shields.io/github/stars/archibate/genius.nvim) ![](https://img.shields.io/github/last-commit/archibate/genius.nvim) ![](https://img.shields.io/github/commit-activity/y/archibate/genius.nvim)
 - [festeh/llm_flow.nvim](https://github.com/festeh/llm_flow.nvim) ![](https://img.shields.io/github/stars/festeh/llm_flow.nvim) ![](https://img.shields.io/github/last-commit/festeh/llm_flow.nvim) ![](https://img.shields.io/github/commit-activity/y/festeh/llm_flow.nvim)
+- [Czandal/autocomplicate.nvim](https://github.com/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/stars/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/last-commit/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/Czandal/autocomplicate.nvim)
 
 ### Copilot
 

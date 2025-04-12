@@ -105,6 +105,7 @@
 ### Cron
 
 - [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/stars/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/last-commit/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/commit-activity/y/fabridamicelli/cronex.nvim)
+- [FromWau/cronwhisper.nvim](https://github.com/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/stars/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/last-commit/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/FromWau/cronwhisper.nvim)
 
 ### Drools Rule Language
 
