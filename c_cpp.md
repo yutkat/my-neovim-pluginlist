@@ -71,7 +71,6 @@
 
 ### Compile
 
-- [AZarbade/cmc.nvim](https://github.com/AZarbade/cmc.nvim) ![](https://img.shields.io/github/stars/AZarbade/cmc.nvim) ![](https://img.shields.io/github/last-commit/AZarbade/cmc.nvim) ![](https://img.shields.io/github/commit-activity/y/AZarbade/cmc.nvim)
 - [lliuaotian/compile.nvim](https://github.com/lliuaotian/compile.nvim) ![](https://img.shields.io/github/stars/lliuaotian/compile.nvim) ![](https://img.shields.io/github/last-commit/lliuaotian/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/lliuaotian/compile.nvim)
 
 #### insight
@@ -172,7 +171,6 @@
 ### Cscope
 
 - [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
-- [rbmarliere/telescope-cscope.nvim](https://github.com/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/stars/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/telescope-cscope.nvim)
 
 ### Doxygen
 
