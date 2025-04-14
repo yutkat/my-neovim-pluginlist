@@ -54,6 +54,7 @@
 ### Image Uploader
 
 - [askfiy/nvim-picgo](https://github.com/askfiy/nvim-picgo) ![](https://img.shields.io/github/stars/askfiy/nvim-picgo) ![](https://img.shields.io/github/last-commit/askfiy/nvim-picgo) ![](https://img.shields.io/github/commit-activity/y/askfiy/nvim-picgo)
+- [pixb/img-upload.nvim](https://github.com/pixb/img-upload.nvim) ![](https://img.shields.io/github/stars/pixb/img-upload.nvim) ![](https://img.shields.io/github/last-commit/pixb/img-upload.nvim) ![](https://img.shields.io/github/commit-activity/y/pixb/img-upload.nvim)
 
 ### Screenshot
 
@@ -94,6 +95,7 @@
 - [kenielf/silicon.nvim](https://github.com/kenielf/silicon.nvim) ![](https://img.shields.io/github/stars/kenielf/silicon.nvim) ![](https://img.shields.io/github/last-commit/kenielf/silicon.nvim) ![](https://img.shields.io/github/commit-activity/y/kenielf/silicon.nvim)
 - [jkellogg01/freeze.nvim](https://github.com/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/stars/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/last-commit/jkellogg01/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/jkellogg01/freeze.nvim)
 - [4DRIAN0RTIZ/code_printer.nvim](https://github.com/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/code_printer.nvim)
+- [mactep/code_to_image.nvim](https://github.com/mactep/code_to_image.nvim) ![](https://img.shields.io/github/stars/mactep/code_to_image.nvim) ![](https://img.shields.io/github/last-commit/mactep/code_to_image.nvim) ![](https://img.shields.io/github/commit-activity/y/mactep/code_to_image.nvim)
 
 ### SVG
 

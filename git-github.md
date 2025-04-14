@@ -55,6 +55,7 @@
   * [Issue](#issue)
   * [Pull Request](#pull-request)
     + [Pull Request Comment](#pull-request-comment)
+    + [Assign](#assign)
   * [Actions](#actions)
   * [Link](#link)
   * [Image](#image)
@@ -434,6 +435,10 @@
 #### Pull Request Comment
 
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/stars/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/last-commit/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/mcnangus/pr-comments.nvim)
+
+#### Assign
+
+- [cd-4/git-needy.nvim](https://github.com/cd-4/git-needy.nvim) ![](https://img.shields.io/github/stars/cd-4/git-needy.nvim) ![](https://img.shields.io/github/last-commit/cd-4/git-needy.nvim) ![](https://img.shields.io/github/commit-activity/y/cd-4/git-needy.nvim)
 
 ### Actions
 

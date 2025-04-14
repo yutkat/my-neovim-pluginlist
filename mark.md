@@ -34,6 +34,7 @@
 - [benzhou1/codemarks.nvim](https://github.com/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/stars/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/last-commit/benzhou1/codemarks.nvim) ![](https://img.shields.io/github/commit-activity/y/benzhou1/codemarks.nvim)
 - [jake-stewart/vmark.nvim](https://github.com/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/stars/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/vmark.nvim)
 - [suvasanket/buf_mark.nvim](https://github.com/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/stars/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/buf_mark.nvim)
+- [Weyaaron/nvim-treemarks](https://github.com/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/stars/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-treemarks)
 
 ### extmark
 

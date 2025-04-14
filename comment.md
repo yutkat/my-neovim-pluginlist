@@ -16,6 +16,7 @@
   * [Comment highlight](#comment-highlight)
   * [Internal comment](#internal-comment)
   * [Directory comment](#directory-comment)
+  * [Hide comment](#hide-comment)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -115,6 +116,7 @@
 
 - [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
 - [fluxdiv/instacolor.nvim](https://github.com/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/stars/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/instacolor.nvim)
+- [n0llid/comment-color.nvim](https://github.com/n0llid/comment-color.nvim) ![](https://img.shields.io/github/stars/n0llid/comment-color.nvim) ![](https://img.shields.io/github/last-commit/n0llid/comment-color.nvim) ![](https://img.shields.io/github/commit-activity/y/n0llid/comment-color.nvim)
 
 ### Internal comment
 
@@ -125,6 +127,10 @@
 ### Directory comment
 
 - [bxrne/was.nvim](https://github.com/bxrne/was.nvim) ![](https://img.shields.io/github/stars/bxrne/was.nvim) ![](https://img.shields.io/github/last-commit/bxrne/was.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/was.nvim)
+
+### Hide comment
+
+- [soemre/commentless.nvim](https://github.com/soemre/commentless.nvim) ![](https://img.shields.io/github/stars/soemre/commentless.nvim) ![](https://img.shields.io/github/last-commit/soemre/commentless.nvim) ![](https://img.shields.io/github/commit-activity/y/soemre/commentless.nvim)
 
 ## LICENSE
 

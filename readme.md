@@ -273,6 +273,7 @@
 - [Akirisu-kirisu/nvim-insert-mode](https://github.com/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/stars/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/last-commit/Akirisu-kirisu/nvim-insert-mode) ![](https://img.shields.io/github/commit-activity/y/Akirisu-kirisu/nvim-insert-mode)
 - [aidancz/lfsp.nvim](https://github.com/aidancz/lfsp.nvim) ![](https://img.shields.io/github/stars/aidancz/lfsp.nvim) ![](https://img.shields.io/github/last-commit/aidancz/lfsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/lfsp.nvim)
 - [tehdb/nvim-faker](https://github.com/tehdb/nvim-faker) ![](https://img.shields.io/github/stars/tehdb/nvim-faker) ![](https://img.shields.io/github/last-commit/tehdb/nvim-faker) ![](https://img.shields.io/github/commit-activity/y/tehdb/nvim-faker)
+- [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
 
 #### Smart Tab
 
@@ -362,6 +363,7 @@
 - [DarrellBrogdon/trnu.nvim](https://github.com/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/stars/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/last-commit/DarrellBrogdon/trnu.nvim) ![](https://img.shields.io/github/commit-activity/y/DarrellBrogdon/trnu.nvim)
 - [fluxdiv/relative-rainbow.nvim](https://github.com/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/stars/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/relative-rainbow.nvim)
 - [Long104/hidecolumn.nvim](https://github.com/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/stars/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/last-commit/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Long104/hidecolumn.nvim)
+- [walkingshamrock/rnum.nvim](https://github.com/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/rnum.nvim)
 
 ### [Mark](./mark.md)
 

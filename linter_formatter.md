@@ -60,6 +60,7 @@
 - [getty104/air-duster.nvim](https://github.com/getty104/air-duster.nvim) ![](https://img.shields.io/github/stars/getty104/air-duster.nvim) ![](https://img.shields.io/github/last-commit/getty104/air-duster.nvim) ![](https://img.shields.io/github/commit-activity/y/getty104/air-duster.nvim)
 - [joshddunn/nvim-remove-trailing-whitespace](https://github.com/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/stars/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/last-commit/joshddunn/nvim-remove-trailing-whitespace) ![](https://img.shields.io/github/commit-activity/y/joshddunn/nvim-remove-trailing-whitespace)
 - [aanatoly/ws-trim.nvim](https://github.com/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/stars/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/ws-trim.nvim)
+- [littlewhi/shit-whitesapce.nvim](https://github.com/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/stars/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/last-commit/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/commit-activity/y/littlewhi/shit-whitesapce.nvim)
 
 ### Trim EOL
 
