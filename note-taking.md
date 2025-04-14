@@ -156,6 +156,7 @@
 - [Rocco-Gossmann/nvim-tasklist](https://github.com/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/stars/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/last-commit/Rocco-Gossmann/nvim-tasklist) ![](https://img.shields.io/github/commit-activity/y/Rocco-Gossmann/nvim-tasklist)
 - [bearded-giant/Do-It.nvim](https://github.com/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/stars/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/Do-It.nvim)
 - [adam-baker/vimtaskie.nvim](https://github.com/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/stars/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/last-commit/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-baker/vimtaskie.nvim)
+- [heitoranjos15/booky.nvim](https://github.com/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/stars/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/last-commit/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/commit-activity/y/heitoranjos15/booky.nvim)
 
 ### Taskwarrior
 
@@ -389,3 +390,4 @@
 - [phevospan/nabla.nvim](https://github.com/phevospan/nabla.nvim) ![](https://img.shields.io/github/stars/phevospan/nabla.nvim) ![](https://img.shields.io/github/last-commit/phevospan/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/phevospan/nabla.nvim)
 - [dpi0/doo.nvim](https://github.com/dpi0/doo.nvim) ![](https://img.shields.io/github/stars/dpi0/doo.nvim) ![](https://img.shields.io/github/last-commit/dpi0/doo.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/doo.nvim)
 - [JachymPutta/dailies.nvim](https://github.com/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/stars/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/last-commit/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/commit-activity/y/JachymPutta/dailies.nvim)
+- [sunesimonsen/notes.nvim](https://github.com/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/notes.nvim)

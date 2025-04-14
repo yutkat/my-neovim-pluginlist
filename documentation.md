@@ -85,6 +85,7 @@
 - [yuukibarns/markdown.nvim](https://github.com/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/stars/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/markdown.nvim)
 - [roodolv/markdown-toggle.nvim](https://github.com/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/stars/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/last-commit/roodolv/markdown-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/roodolv/markdown-toggle.nvim)
 - [BowTiedItaliano/markdown-essentials.nvim](https://github.com/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/stars/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/last-commit/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/BowTiedItaliano/markdown-essentials.nvim)
+- [mackenziebasaraba/nvim-pencil](https://github.com/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/stars/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/last-commit/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/commit-activity/y/mackenziebasaraba/nvim-pencil)
 
 #### Markdown link
 

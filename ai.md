@@ -42,6 +42,7 @@
 - [AI Completion](#ai-completion)
   * [Copilot](#copilot)
 - [Chat](#chat)
+- [AI Terminal](#ai-terminal)
 - [Cursor](#cursor)
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
@@ -53,6 +54,7 @@
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
 - [Copy File Context](#copy-file-context)
+- [LLM context](#llm-context)
 - [RAG](#rag)
 - [Model Context Protocol](#model-context-protocol)
 - [Configuration File (.cursor)](#configuration-file-cursor)
@@ -399,10 +401,15 @@
 - [bytesoverflow/smartcat.nvim](https://github.com/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/stars/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/last-commit/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/commit-activity/y/bytesoverflow/smartcat.nvim)
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 
+## AI Terminal
+
+- [aweis89/ai-terminals.nvim](https://github.com/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/stars/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/last-commit/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/ai-terminals.nvim)
+
 ## Cursor
 
 - [circansm/nvim-cursor](https://github.com/circansm/nvim-cursor) ![](https://img.shields.io/github/stars/circansm/nvim-cursor) ![](https://img.shields.io/github/last-commit/circansm/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/circansm/nvim-cursor)
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
+- [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/stars/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/last-commit/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/reachingforthejack/cursortab.nvim)
 
 ## Code generate
 
@@ -447,6 +454,10 @@
 ## Copy File Context 
 
 - [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
+
+## LLM context
+
+- [SDGLBL/context-groups.nvim](https://github.com/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/stars/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/context-groups.nvim)
 
 ## RAG
 

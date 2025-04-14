@@ -7,6 +7,7 @@
   * [Devcontainer](#devcontainer)
   * [Collaborative Editing](#collaborative-editing)
   * [IDE feature](#ide-feature)
+- [Bruno](#bruno)
 
 <!-- tocstop -->
 
@@ -40,3 +41,7 @@
 
 - [AbaoFromCUG/intergrater.nvim](https://github.com/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/intergrater.nvim)
 - [AEKjeldal/imposter.nvim](https://github.com/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/stars/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/last-commit/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKjeldal/imposter.nvim)
+
+## Bruno
+
+- [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/bruno.nvim)

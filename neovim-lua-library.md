@@ -39,6 +39,7 @@
   * [REST](#rest)
   * [GRPC](#grpc)
   * [WebSocket](#websocket)
+- [CLI](#cli)
 - [SQLite](#sqlite)
 - [JSON](#json)
 - [Require](#require)
@@ -274,6 +275,10 @@
 - [rohanorton/ws.nvim](https://github.com/rohanorton/ws.nvim) ![](https://img.shields.io/github/stars/rohanorton/ws.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/ws.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/ws.nvim)
 - [iwillreku3206/websocket.nvim](https://github.com/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/stars/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/last-commit/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/commit-activity/y/iwillreku3206/websocket.nvim)
 - [livinglogic-nl/ws.nvim](https://github.com/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/stars/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/last-commit/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/commit-activity/y/livinglogic-nl/ws.nvim)
+
+## CLI
+
+- [dtanphat9388/nvim-columnify](https://github.com/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/stars/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/last-commit/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/commit-activity/y/dtanphat9388/nvim-columnify)
 
 ## SQLite
 

@@ -77,6 +77,7 @@
 - [hek14/layman.nvim](https://github.com/hek14/layman.nvim) ![](https://img.shields.io/github/stars/hek14/layman.nvim) ![](https://img.shields.io/github/last-commit/hek14/layman.nvim) ![](https://img.shields.io/github/commit-activity/y/hek14/layman.nvim)
 - [DrKGD/pragma.nvim](https://github.com/DrKGD/pragma.nvim) ![](https://img.shields.io/github/stars/DrKGD/pragma.nvim) ![](https://img.shields.io/github/last-commit/DrKGD/pragma.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKGD/pragma.nvim)
 - [stevalkr/multiplexer.nvim](https://github.com/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/stars/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/last-commit/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/stevalkr/multiplexer.nvim)
+- [devansh08/remembuf.nvim](https://github.com/devansh08/remembuf.nvim) ![](https://img.shields.io/github/stars/devansh08/remembuf.nvim) ![](https://img.shields.io/github/last-commit/devansh08/remembuf.nvim) ![](https://img.shields.io/github/commit-activity/y/devansh08/remembuf.nvim)
 
 #### close
 
