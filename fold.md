@@ -31,6 +31,7 @@
 - [tombell/pleat.nvim](https://github.com/tombell/pleat.nvim) ![](https://img.shields.io/github/stars/tombell/pleat.nvim) ![](https://img.shields.io/github/last-commit/tombell/pleat.nvim) ![](https://img.shields.io/github/commit-activity/y/tombell/pleat.nvim)
 - [sweetboss12512/fold-textobjects.nvim](https://github.com/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/fold-textobjects.nvim)
 - [roosta/telescope-folds.nvim](https://github.com/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/stars/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/last-commit/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/commit-activity/y/roosta/telescope-folds.nvim)
+- [0xdapper/foundry-trace-fold.nvim](https://github.com/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/stars/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/last-commit/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/0xdapper/foundry-trace-fold.nvim)
 
 ## Conceal
 

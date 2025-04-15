@@ -20,6 +20,7 @@
 - [KaitlynEthylia/TreePin](https://github.com/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/stars/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/TreePin) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/TreePin)
 - [Gelio/nvim-relative-date](https://github.com/Gelio/nvim-relative-date) ![](https://img.shields.io/github/stars/Gelio/nvim-relative-date) ![](https://img.shields.io/github/last-commit/Gelio/nvim-relative-date) ![](https://img.shields.io/github/commit-activity/y/Gelio/nvim-relative-date)
 - [Maldus512/reader.nvim](https://github.com/Maldus512/reader.nvim) ![](https://img.shields.io/github/stars/Maldus512/reader.nvim) ![](https://img.shields.io/github/last-commit/Maldus512/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Maldus512/reader.nvim)
+- [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
 
 #### Current Position Info
 
