@@ -62,6 +62,7 @@
 - [VanyaDNDZ/nvim-dap-bazel-go](https://github.com/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/stars/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/last-commit/VanyaDNDZ/nvim-dap-bazel-go) ![](https://img.shields.io/github/commit-activity/y/VanyaDNDZ/nvim-dap-bazel-go)
 - [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/stars/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/last-commit/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/commit-activity/y/miroshQa/debugmaster.nvim)
 - [MrEhbr/dap-rust.nvim](https://github.com/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/stars/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/last-commit/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/MrEhbr/dap-rust.nvim)
+- [MrEhbr/dap-rust.nvim](https://github.com/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/stars/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/last-commit/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/MrEhbr/dap-rust.nvim)
 
 #### Launch.json
 

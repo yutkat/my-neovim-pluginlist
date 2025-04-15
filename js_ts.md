@@ -231,6 +231,7 @@
 - [wukuohao2003/telescope-node-packages.nvim](https://github.com/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/stars/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/last-commit/wukuohao2003/telescope-node-packages.nvim) ![](https://img.shields.io/github/commit-activity/y/wukuohao2003/telescope-node-packages.nvim)
 - [banjo/package-pilot.nvim](https://github.com/banjo/package-pilot.nvim) ![](https://img.shields.io/github/stars/banjo/package-pilot.nvim) ![](https://img.shields.io/github/last-commit/banjo/package-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/banjo/package-pilot.nvim)
 - [pxnditxyr/npm-info.nvim](https://github.com/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/stars/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/last-commit/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/commit-activity/y/pxnditxyr/npm-info.nvim)
+- [pxnditxyr/npm-info.nvim](https://github.com/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/stars/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/last-commit/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/commit-activity/y/pxnditxyr/npm-info.nvim)
 
 #### pnpm
 

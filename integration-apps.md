@@ -356,6 +356,7 @@
 - [imkerberos/rime.nvim](https://github.com/imkerberos/rime.nvim) ![](https://img.shields.io/github/stars/imkerberos/rime.nvim) ![](https://img.shields.io/github/last-commit/imkerberos/rime.nvim) ![](https://img.shields.io/github/commit-activity/y/imkerberos/rime.nvim)
 - [yehuohan/blink-cmp-im](https://github.com/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/stars/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/blink-cmp-im)
 - [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
+- [Jedpoet/im-switch.nvim](https://github.com/Jedpoet/im-switch.nvim) ![](https://img.shields.io/github/stars/Jedpoet/im-switch.nvim) ![](https://img.shields.io/github/last-commit/Jedpoet/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/Jedpoet/im-switch.nvim)
 
 #### Fcitx
 

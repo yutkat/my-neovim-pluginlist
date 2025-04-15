@@ -364,6 +364,7 @@
 - [fluxdiv/relative-rainbow.nvim](https://github.com/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/stars/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/relative-rainbow.nvim)
 - [Long104/hidecolumn.nvim](https://github.com/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/stars/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/last-commit/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Long104/hidecolumn.nvim)
 - [walkingshamrock/rnum.nvim](https://github.com/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/rnum.nvim)
+- [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
 
 ### [Mark](./mark.md)
 
