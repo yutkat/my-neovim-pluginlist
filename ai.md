@@ -121,6 +121,7 @@
 - [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
 - [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
 - [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
+- [qompassai/blaze.nvim](https://github.com/qompassai/blaze.nvim) ![](https://img.shields.io/github/stars/qompassai/blaze.nvim) ![](https://img.shields.io/github/last-commit/qompassai/blaze.nvim) ![](https://img.shields.io/github/commit-activity/y/qompassai/blaze.nvim)
 
 ### Gemini
 
@@ -409,6 +410,7 @@
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/stars/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/last-commit/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/reachingforthejack/cursortab.nvim)
+- [smmiy/cursortab.nvim](https://github.com/smmiy/cursortab.nvim) ![](https://img.shields.io/github/stars/smmiy/cursortab.nvim) ![](https://img.shields.io/github/last-commit/smmiy/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/smmiy/cursortab.nvim)
 
 ## Code generate
 
