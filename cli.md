@@ -6,8 +6,9 @@
   * [tmux](#tmux)
     + [tmux alternative](#tmux-alternative)
   * [Zellij](#zellij)
-  * [Docker](#docker)
-    + [Docker Compose](#docker-compose)
+  * [Container](#container)
+    + [Docker](#docker)
+      - [Docker Compose](#docker-compose)
   * [Subversion](#subversion)
   * [dotenv](#dotenv)
   * [direnv](#direnv)
@@ -116,7 +117,11 @@
 - [GR3YH4TT3R93/zellij-nav.nvim](https://github.com/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/stars/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/GR3YH4TT3R93/zellij-nav.nvim)
 - [noahbald/nangz.nvim](https://github.com/noahbald/nangz.nvim) ![](https://img.shields.io/github/stars/noahbald/nangz.nvim) ![](https://img.shields.io/github/last-commit/noahbald/nangz.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/nangz.nvim)
 
-#### Docker
+#### Container
+
+- [StefanBartl/nvim-containers](https://github.com/StefanBartl/nvim-containers) ![](https://img.shields.io/github/stars/StefanBartl/nvim-containers) ![](https://img.shields.io/github/last-commit/StefanBartl/nvim-containers) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/nvim-containers)
+
+##### Docker
 
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
@@ -129,7 +134,7 @@
 - [pixlmint/dockrat.nvim](https://github.com/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/stars/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/last-commit/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/commit-activity/y/pixlmint/dockrat.nvim)
 - [squerez/docker.nvim](https://github.com/squerez/docker.nvim) ![](https://img.shields.io/github/stars/squerez/docker.nvim) ![](https://img.shields.io/github/last-commit/squerez/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/squerez/docker.nvim)
 
-##### Docker Compose
+###### Docker Compose
 
 - [pipoprods/docker-compose.nvim](https://github.com/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/stars/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/last-commit/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/commit-activity/y/pipoprods/docker-compose.nvim)
 - [nazo6/docker-compose-info.nvim](https://github.com/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/stars/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/last-commit/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/docker-compose-info.nvim)

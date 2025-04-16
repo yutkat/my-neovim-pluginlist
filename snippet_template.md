@@ -50,6 +50,7 @@
 - [josa42/nvim-snippets](https://github.com/josa42/nvim-snippets) ![](https://img.shields.io/github/stars/josa42/nvim-snippets) ![](https://img.shields.io/github/last-commit/josa42/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-snippets)
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/snips.nvim)
 - [One-In-Dark/luasnippy.nvim](https://github.com/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/stars/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/last-commit/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/commit-activity/y/One-In-Dark/luasnippy.nvim)
+- [WayneYam/note_taking_snippets.nvim](https://github.com/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/stars/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/note_taking_snippets.nvim)
 
 #### Snippet converter
 
@@ -95,6 +96,7 @@
 - [arkochan/boil.nvim](https://github.com/arkochan/boil.nvim) ![](https://img.shields.io/github/stars/arkochan/boil.nvim) ![](https://img.shields.io/github/last-commit/arkochan/boil.nvim) ![](https://img.shields.io/github/commit-activity/y/arkochan/boil.nvim)
 - [yebt/stencil.nvim](https://github.com/yebt/stencil.nvim) ![](https://img.shields.io/github/stars/yebt/stencil.nvim) ![](https://img.shields.io/github/last-commit/yebt/stencil.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/stencil.nvim)
 - [allesis/foundations.nvim](https://github.com/allesis/foundations.nvim) ![](https://img.shields.io/github/stars/allesis/foundations.nvim) ![](https://img.shields.io/github/last-commit/allesis/foundations.nvim) ![](https://img.shields.io/github/commit-activity/y/allesis/foundations.nvim)
+- [WayneYam/cp_template.nvim](https://github.com/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/stars/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/cp_template.nvim)
 
 #### README
 

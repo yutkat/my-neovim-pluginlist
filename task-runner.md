@@ -184,6 +184,7 @@
 - [Aliqyan-21/runTA.nvim](https://github.com/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/runTA.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/runTA.nvim)
 - [pauloburke/tt-coderunner.nvim](https://github.com/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/stars/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/last-commit/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/pauloburke/tt-coderunner.nvim)
 - [tsurumi-yizhou/metabuild.nvim](https://github.com/tsurumi-yizhou/metabuild.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/metabuild.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/metabuild.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/metabuild.nvim)
+- [WayneYam/mrbruh.nvim](https://github.com/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/stars/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/mrbruh.nvim)
 
 ### :make style
 

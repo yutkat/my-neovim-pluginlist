@@ -112,6 +112,7 @@
 ### Edit
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
+- [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/stars/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/last-commit/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/commit-activity/y/xb-bx/editable-term.nvim)
 
 ### Mapping
 

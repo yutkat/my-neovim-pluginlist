@@ -69,6 +69,8 @@
     + [K](#k)
     + [Scheme](#scheme)
     + [Coq](#coq)
+    + [Mojo](#mojo)
+    + [Fram](#fram)
     + [NWScript](#nwscript)
     + [Idris2](#idris2)
     + [MatLab](#matlab)
@@ -447,6 +449,14 @@
 #### Coq
 
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
+
+#### Mojo
+
+- [qompassai/blaze.nvim](https://github.com/qompassai/blaze.nvim) ![](https://img.shields.io/github/stars/qompassai/blaze.nvim) ![](https://img.shields.io/github/last-commit/qompassai/blaze.nvim) ![](https://img.shields.io/github/commit-activity/y/qompassai/blaze.nvim)
+
+#### Fram
+
+- [Brychlikov/fram.nvim](https://github.com/Brychlikov/fram.nvim) ![](https://img.shields.io/github/stars/Brychlikov/fram.nvim) ![](https://img.shields.io/github/last-commit/Brychlikov/fram.nvim) ![](https://img.shields.io/github/commit-activity/y/Brychlikov/fram.nvim)
 
 #### NWScript
 
