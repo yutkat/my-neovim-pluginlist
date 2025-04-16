@@ -195,7 +195,6 @@
 
 ### Kedro
 
-- [galenseilis/nvim-kedro](https://github.com/galenseilis/nvim-kedro) ![](https://img.shields.io/github/stars/galenseilis/nvim-kedro) ![](https://img.shields.io/github/last-commit/galenseilis/nvim-kedro) ![](https://img.shields.io/github/commit-activity/y/galenseilis/nvim-kedro)
 
 ### Anaconda
 
