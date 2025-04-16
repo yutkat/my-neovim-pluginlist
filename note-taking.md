@@ -157,6 +157,7 @@
 - [bearded-giant/Do-It.nvim](https://github.com/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/stars/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/Do-It.nvim)
 - [adam-baker/vimtaskie.nvim](https://github.com/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/stars/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/last-commit/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-baker/vimtaskie.nvim)
 - [heitoranjos15/booky.nvim](https://github.com/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/stars/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/last-commit/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/commit-activity/y/heitoranjos15/booky.nvim)
+- [jbgreenh/jibun.nvim](https://github.com/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/stars/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/last-commit/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/commit-activity/y/jbgreenh/jibun.nvim)
 
 ### Taskwarrior
 

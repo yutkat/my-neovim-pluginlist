@@ -409,6 +409,7 @@
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/stars/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/last-commit/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/reachingforthejack/cursortab.nvim)
+- [smmiy/cursortab.nvim](https://github.com/smmiy/cursortab.nvim) ![](https://img.shields.io/github/stars/smmiy/cursortab.nvim) ![](https://img.shields.io/github/last-commit/smmiy/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/smmiy/cursortab.nvim)
 
 ## Code generate
 

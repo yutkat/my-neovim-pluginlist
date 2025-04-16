@@ -29,6 +29,7 @@
 - [goropikari/local-devcontainer.nvim](https://github.com/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/stars/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/last-commit/goropikari/local-devcontainer.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/local-devcontainer.nvim)
 - [erichlf/devcontainer-cli.nvim](https://github.com/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/stars/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/last-commit/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/erichlf/devcontainer-cli.nvim)
 - [kita99/devcontainers.nvim](https://github.com/kita99/devcontainers.nvim) ![](https://img.shields.io/github/stars/kita99/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/kita99/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/kita99/devcontainers.nvim)
+- [StefanBartl/nvim-containers](https://github.com/StefanBartl/nvim-containers) ![](https://img.shields.io/github/stars/StefanBartl/nvim-containers) ![](https://img.shields.io/github/last-commit/StefanBartl/nvim-containers) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/nvim-containers)
 
 ### Collaborative Editing
 

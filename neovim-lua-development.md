@@ -96,6 +96,7 @@
 ## Log
 
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) ![](https://img.shields.io/github/stars/smartpde/debuglog) ![](https://img.shields.io/github/last-commit/smartpde/debuglog) ![](https://img.shields.io/github/commit-activity/y/smartpde/debuglog)
+- [flanggut/loginspect.nvim](https://github.com/flanggut/loginspect.nvim) ![](https://img.shields.io/github/stars/flanggut/loginspect.nvim) ![](https://img.shields.io/github/last-commit/flanggut/loginspect.nvim) ![](https://img.shields.io/github/commit-activity/y/flanggut/loginspect.nvim)
 
 ## Print
 

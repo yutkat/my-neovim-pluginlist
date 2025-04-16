@@ -328,6 +328,7 @@
 - [mrjones2014/op.nvim](https://github.com/mrjones2014/op.nvim) ![](https://img.shields.io/github/stars/mrjones2014/op.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/op.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/op.nvim)
 - [NeverW8/nvim_pw.nvim](https://github.com/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/stars/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/last-commit/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nvim_pw.nvim)
 - [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
+- [simeonoff/1password.nvim](https://github.com/simeonoff/1password.nvim) ![](https://img.shields.io/github/stars/simeonoff/1password.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/1password.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/1password.nvim)
 
 ### IME
 

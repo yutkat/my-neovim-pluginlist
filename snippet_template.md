@@ -95,6 +95,8 @@
 - [arkochan/boil.nvim](https://github.com/arkochan/boil.nvim) ![](https://img.shields.io/github/stars/arkochan/boil.nvim) ![](https://img.shields.io/github/last-commit/arkochan/boil.nvim) ![](https://img.shields.io/github/commit-activity/y/arkochan/boil.nvim)
 - [yebt/stencil.nvim](https://github.com/yebt/stencil.nvim) ![](https://img.shields.io/github/stars/yebt/stencil.nvim) ![](https://img.shields.io/github/last-commit/yebt/stencil.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/stencil.nvim)
 - [allesis/foundations.nvim](https://github.com/allesis/foundations.nvim) ![](https://img.shields.io/github/stars/allesis/foundations.nvim) ![](https://img.shields.io/github/last-commit/allesis/foundations.nvim) ![](https://img.shields.io/github/commit-activity/y/allesis/foundations.nvim)
+- [WayneYam/cp_template.nvim](https://github.com/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/stars/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/cp_template.nvim)
+- [WayneYam/note_taking_snippets.nvim](https://github.com/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/stars/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/note_taking_snippets.nvim)
 
 #### README
 
