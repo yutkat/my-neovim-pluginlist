@@ -390,6 +390,7 @@
 - [krshrimali/context-pilot.nvim](https://github.com/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/stars/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/context-pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/context-pilot.nvim)
 - [SearidangPa/copilot_hop.nvim](https://github.com/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/stars/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/copilot_hop.nvim)
 - [fuegoio/copiloutre.nvim](https://github.com/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/stars/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/last-commit/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/commit-activity/y/fuegoio/copiloutre.nvim)
+- [Xuyuanp/nes.nvim](https://github.com/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/nes.nvim)
 
 ## Chat
 
