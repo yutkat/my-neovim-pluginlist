@@ -413,6 +413,7 @@
 - [imroc/kubernetes.nvim](https://github.com/imroc/kubernetes.nvim) ![](https://img.shields.io/github/stars/imroc/kubernetes.nvim) ![](https://img.shields.io/github/last-commit/imroc/kubernetes.nvim) ![](https://img.shields.io/github/commit-activity/y/imroc/kubernetes.nvim)
 - [kezhenxu94/kube.nvim](https://github.com/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/kube.nvim)
 - [tinoschroeter/sealed-secrets.nvim](https://github.com/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/stars/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/last-commit/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/tinoschroeter/sealed-secrets.nvim)
+- [tonychg/nvim-k8s-lsp](https://github.com/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/stars/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/last-commit/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/commit-activity/y/tonychg/nvim-k8s-lsp)
 
 #### ntpy
 

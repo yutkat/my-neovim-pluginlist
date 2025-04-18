@@ -93,6 +93,7 @@
 - [nilsojunior/colours.nvim](https://github.com/nilsojunior/colours.nvim) ![](https://img.shields.io/github/stars/nilsojunior/colours.nvim) ![](https://img.shields.io/github/last-commit/nilsojunior/colours.nvim) ![](https://img.shields.io/github/commit-activity/y/nilsojunior/colours.nvim)
 - [UnaTried/colors.nvim](https://github.com/UnaTried/colors.nvim) ![](https://img.shields.io/github/stars/UnaTried/colors.nvim) ![](https://img.shields.io/github/last-commit/UnaTried/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/UnaTried/colors.nvim)
 - [Leonardo-Luz/showcolors.nvim](https://github.com/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/showcolors.nvim)
+- [shushtain/spectrolite.nvim](https://github.com/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/stars/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/last-commit/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/spectrolite.nvim)
 
 ### Color picker
 
