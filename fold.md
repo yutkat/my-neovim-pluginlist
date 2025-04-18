@@ -32,6 +32,7 @@
 - [sweetboss12512/fold-textobjects.nvim](https://github.com/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/fold-textobjects.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/fold-textobjects.nvim)
 - [roosta/telescope-folds.nvim](https://github.com/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/stars/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/last-commit/roosta/telescope-folds.nvim) ![](https://img.shields.io/github/commit-activity/y/roosta/telescope-folds.nvim)
 - [0xdapper/foundry-trace-fold.nvim](https://github.com/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/stars/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/last-commit/0xdapper/foundry-trace-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/0xdapper/foundry-trace-fold.nvim)
+- [walkingshamrock/foldpeek.nvim](https://github.com/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/foldpeek.nvim)
 
 ## Conceal
 

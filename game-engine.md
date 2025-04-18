@@ -40,6 +40,7 @@
 - [Teatek/gdscript-extended-lsp.nvim](https://github.com/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Teatek/gdscript-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Teatek/gdscript-extended-lsp.nvim)
 - [ShadesAndGrays/Godoterm.nvim](https://github.com/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/stars/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/last-commit/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadesAndGrays/Godoterm.nvim)
 - [jamesonBradfield/gdunit.nvim](https://github.com/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/stars/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/last-commit/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesonBradfield/gdunit.nvim)
+- [Cretezy/godot-server.nvim](https://github.com/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/stars/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/last-commit/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Cretezy/godot-server.nvim)
 
 ### Roblox studio
 

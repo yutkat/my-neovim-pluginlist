@@ -47,6 +47,7 @@
 - [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
 - [ivanjermakov/cmdzero.nvim](https://github.com/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/cmdzero.nvim)
 - [aattoa/nvim-cmdfloat](https://github.com/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/stars/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/last-commit/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-cmdfloat)
+- [johanalkstal/floatcmd.nvim](https://github.com/johanalkstal/floatcmd.nvim) ![](https://img.shields.io/github/stars/johanalkstal/floatcmd.nvim) ![](https://img.shields.io/github/last-commit/johanalkstal/floatcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/johanalkstal/floatcmd.nvim)
 
 ### Highlight
 
