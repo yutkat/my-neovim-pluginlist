@@ -70,6 +70,7 @@
 - [maarutan/keycalm.nvim](https://github.com/maarutan/keycalm.nvim) ![](https://img.shields.io/github/stars/maarutan/keycalm.nvim) ![](https://img.shields.io/github/last-commit/maarutan/keycalm.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/keycalm.nvim)
 - [L0m1g/noarrow.nvim](https://github.com/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/stars/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/last-commit/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/commit-activity/y/L0m1g/noarrow.nvim)
 - [Leonardo-Luz/accuracy.nvim](https://github.com/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/accuracy.nvim)
+- [Hashino/tutor.nvim](https://github.com/Hashino/tutor.nvim) ![](https://img.shields.io/github/stars/Hashino/tutor.nvim) ![](https://img.shields.io/github/last-commit/Hashino/tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/tutor.nvim)
 
 ## RFC
 

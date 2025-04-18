@@ -5,6 +5,7 @@
 - [Mail](#mail)
 - [Contacts](#contacts)
 - [Calendar](#calendar)
+- [MS Word](#ms-word)
 - [Presentation](#presentation)
 
 <!-- tocstop -->
@@ -33,6 +34,10 @@
 - [adam-coates/nvim-calendar-add](https://github.com/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/stars/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/last-commit/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/commit-activity/y/adam-coates/nvim-calendar-add)
 - [Coup3z-pixel/calendar.nvim](https://github.com/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/stars/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/last-commit/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/Coup3z-pixel/calendar.nvim)
 - [lfilho/note2cal.nvim](https://github.com/lfilho/note2cal.nvim) ![](https://img.shields.io/github/stars/lfilho/note2cal.nvim) ![](https://img.shields.io/github/last-commit/lfilho/note2cal.nvim) ![](https://img.shields.io/github/commit-activity/y/lfilho/note2cal.nvim)
+
+## MS Word
+
+- [marromlam/nvim-docx](https://github.com/marromlam/nvim-docx) ![](https://img.shields.io/github/stars/marromlam/nvim-docx) ![](https://img.shields.io/github/last-commit/marromlam/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/marromlam/nvim-docx)
 
 ## Presentation
 

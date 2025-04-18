@@ -262,6 +262,7 @@
 ### OpenRouter
 
 - [bresilla/llmchat.nvim](https://github.com/bresilla/llmchat.nvim) ![](https://img.shields.io/github/stars/bresilla/llmchat.nvim) ![](https://img.shields.io/github/last-commit/bresilla/llmchat.nvim) ![](https://img.shields.io/github/commit-activity/y/bresilla/llmchat.nvim)
+- [duboisf/chatter.nvim](https://github.com/duboisf/chatter.nvim) ![](https://img.shields.io/github/stars/duboisf/chatter.nvim) ![](https://img.shields.io/github/last-commit/duboisf/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/chatter.nvim)
 
 ### Supermaven
 

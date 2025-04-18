@@ -6,6 +6,7 @@
   * [Resize](#resize)
 - [Unicode character](#unicode-character)
 - [Greek](#greek)
+- [Savian alphabet](#savian-alphabet)
 - [Icon](#icon)
   * [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -36,6 +37,10 @@
 ## Greek
 
 - [utrumsit/betacode-to-unicode](https://github.com/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/stars/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/last-commit/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/commit-activity/y/utrumsit/betacode-to-unicode)
+
+## Savian alphabet
+
+- [jecxjo/shavian.nvim](https://github.com/jecxjo/shavian.nvim) ![](https://img.shields.io/github/stars/jecxjo/shavian.nvim) ![](https://img.shields.io/github/last-commit/jecxjo/shavian.nvim) ![](https://img.shields.io/github/commit-activity/y/jecxjo/shavian.nvim)
 
 ## Icon
 

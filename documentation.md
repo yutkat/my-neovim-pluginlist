@@ -37,6 +37,7 @@
     + [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
     + [Code to Markdown](#code-to-markdown)
+  * [Fountain](#fountain)
   * [Query](#query)
     + [MDX](#mdx)
     + [Marp](#marp)
@@ -300,6 +301,10 @@
 #### Code to Markdown
 
 - [kunring/copy-as-markdown.nvim](https://github.com/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/stars/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/last-commit/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/kunring/copy-as-markdown.nvim)
+
+### Fountain
+
+- [00msjr/nvim-fountain](https://github.com/00msjr/nvim-fountain) ![](https://img.shields.io/github/stars/00msjr/nvim-fountain) ![](https://img.shields.io/github/last-commit/00msjr/nvim-fountain) ![](https://img.shields.io/github/commit-activity/y/00msjr/nvim-fountain)
 
 ### Query
 

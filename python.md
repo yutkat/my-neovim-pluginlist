@@ -90,6 +90,7 @@
 - [garrettkrohn/pyrun.nvim](https://github.com/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/stars/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/last-commit/garrettkrohn/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/garrettkrohn/pyrun.nvim)
 - [L-P-Lewis/py-snippets.nvim](https://github.com/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/stars/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/last-commit/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/L-P-Lewis/py-snippets.nvim)
 - [swickrotation/nvimpy.nvim](https://github.com/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/stars/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/last-commit/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/commit-activity/y/swickrotation/nvimpy.nvim)
+- [Kabilan108/pyrepl.nvim](https://github.com/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/stars/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/pyrepl.nvim)
 
 ### Debug
 
@@ -105,6 +106,7 @@
 
 - [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) ![](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim) ![](https://img.shields.io/github/commit-activity/y/neolooong/whichpy.nvim)
 - [adamcik/python-lspconfig.nvim](https://github.com/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/stars/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/adamcik/python-lspconfig.nvim)
+- [remcovaes/nvim-python-lsp-imports](https://github.com/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/stars/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/last-commit/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/commit-activity/y/remcovaes/nvim-python-lsp-imports)
 
 ### inlayhint
 

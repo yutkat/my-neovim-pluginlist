@@ -18,6 +18,7 @@
     + [focus](#focus)
     + [Window Number](#window-number)
     + [redraw](#redraw)
+  * [option](#option)
   * [animation](#animation)
   * [Zoom](#zoom)
 
@@ -150,6 +151,10 @@
 #### redraw
 
 - [notomo/redraw-inspect.nvim](https://github.com/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/stars/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/last-commit/notomo/redraw-inspect.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/redraw-inspect.nvim)
+
+### option
+
+- [Wansmer/clonewin.nvim](https://github.com/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/stars/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/clonewin.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/clonewin.nvim)
 
 ### animation
 
