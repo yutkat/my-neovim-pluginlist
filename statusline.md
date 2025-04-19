@@ -66,6 +66,8 @@
 - [josiahdenton/statusbar.nvim](https://github.com/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/stars/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/last-commit/josiahdenton/statusbar.nvim) ![](https://img.shields.io/github/commit-activity/y/josiahdenton/statusbar.nvim)
 - [drgfunk/streamline.nvim](https://github.com/drgfunk/streamline.nvim) ![](https://img.shields.io/github/stars/drgfunk/streamline.nvim) ![](https://img.shields.io/github/last-commit/drgfunk/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/drgfunk/streamline.nvim)
 - [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statusline.nvim)
+- [adriankarlen/stl-util.nvim](https://github.com/adriankarlen/stl-util.nvim) ![](https://img.shields.io/github/stars/adriankarlen/stl-util.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/stl-util.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/stl-util.nvim)
+- [dk949/file_line.nvim](https://github.com/dk949/file_line.nvim) ![](https://img.shields.io/github/stars/dk949/file_line.nvim) ![](https://img.shields.io/github/last-commit/dk949/file_line.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/file_line.nvim)
 
 #### Simple
 

@@ -438,6 +438,7 @@
 #### conceal
 
 - [dirichy/latex_concealer.nvim](https://github.com/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/stars/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/last-commit/dirichy/latex_concealer.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/latex_concealer.nvim)
+- [pxwg/latex-conceal.nvim](https://github.com/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/stars/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/last-commit/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/latex-conceal.nvim)
 
 #### BiBTex
 
