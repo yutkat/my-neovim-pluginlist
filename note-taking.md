@@ -156,6 +156,8 @@
 - [bearded-giant/Do-It.nvim](https://github.com/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/stars/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/Do-It.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/Do-It.nvim)
 - [adam-baker/vimtaskie.nvim](https://github.com/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/stars/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/last-commit/adam-baker/vimtaskie.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-baker/vimtaskie.nvim)
 - [heitoranjos15/booky.nvim](https://github.com/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/stars/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/last-commit/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/commit-activity/y/heitoranjos15/booky.nvim)
+- [idossha/todo.nvim](https://github.com/idossha/todo.nvim) ![](https://img.shields.io/github/stars/idossha/todo.nvim) ![](https://img.shields.io/github/last-commit/idossha/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/todo.nvim)
+- [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ![](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/bngarren/checkmate.nvim)
 
 #### Taskwarrior
 
@@ -391,3 +393,6 @@
 - [sunesimonsen/notes.nvim](https://github.com/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/notes.nvim)
 - [jbgreenh/jibun.nvim](https://github.com/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/stars/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/last-commit/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/commit-activity/y/jbgreenh/jibun.nvim)
 - [cvigilv/denote.nvim](https://github.com/cvigilv/denote.nvim) ![](https://img.shields.io/github/stars/cvigilv/denote.nvim) ![](https://img.shields.io/github/last-commit/cvigilv/denote.nvim) ![](https://img.shields.io/github/commit-activity/y/cvigilv/denote.nvim)
+- [severinpolo/open_notes.nvim](https://github.com/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/stars/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/last-commit/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/severinpolo/open_notes.nvim)
+- [MikeDupree/nvim-tasks](https://github.com/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/stars/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-tasks)
+- [MikeDupree/nvim-notes](https://github.com/MikeDupree/nvim-notes) ![](https://img.shields.io/github/stars/MikeDupree/nvim-notes) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-notes)

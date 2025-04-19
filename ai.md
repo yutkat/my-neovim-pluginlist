@@ -4,6 +4,7 @@
 
 - [AI Coding](#ai-coding)
   * [OpenAI(ChatGPT)](#openaichatgpt)
+    + [Codex](#codex)
   * [Gemini](#gemini)
   * [Multi LLM](#multi-llm)
     + [mods](#mods)
@@ -122,6 +123,10 @@
 - [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
 - [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
 
+#### Codex
+
+- [johnseth97/codex.nvim](https://github.com/johnseth97/codex.nvim) ![](https://img.shields.io/github/stars/johnseth97/codex.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/codex.nvim)
+
 ### Gemini
 
 - [gera2ld/ai.nvim](https://github.com/gera2ld/ai.nvim) ![](https://img.shields.io/github/stars/gera2ld/ai.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/ai.nvim)
@@ -172,6 +177,7 @@
 - [brewinski/avante-cody.nvim](https://github.com/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/stars/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/last-commit/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/commit-activity/y/brewinski/avante-cody.nvim)
 - [0xrusowsky/nvim-ctx-ingest](https://github.com/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/stars/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/last-commit/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/commit-activity/y/0xrusowsky/nvim-ctx-ingest)
 - [bajistic/llm.nvim](https://github.com/bajistic/llm.nvim) ![](https://img.shields.io/github/stars/bajistic/llm.nvim) ![](https://img.shields.io/github/last-commit/bajistic/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/bajistic/llm.nvim)
+- [Speiser/openwebui.nvim](https://github.com/Speiser/openwebui.nvim) ![](https://img.shields.io/github/stars/Speiser/openwebui.nvim) ![](https://img.shields.io/github/last-commit/Speiser/openwebui.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/openwebui.nvim)
 
 #### mods
 
@@ -245,6 +251,7 @@
 - [StanAngeloff/claudius.nvim](https://github.com/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/stars/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/last-commit/StanAngeloff/claudius.nvim) ![](https://img.shields.io/github/commit-activity/y/StanAngeloff/claudius.nvim)
 - [cristianmoroaica/mimir.nvim](https://github.com/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/stars/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/last-commit/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianmoroaica/mimir.nvim)
 - [HoganMcDonald/pointer.nvim](https://github.com/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/stars/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/last-commit/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/HoganMcDonald/pointer.nvim)
+- [mattkubej/claude-fu.nvim](https://github.com/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/stars/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/last-commit/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/commit-activity/y/mattkubej/claude-fu.nvim)
 
 ### Claude Code
 
