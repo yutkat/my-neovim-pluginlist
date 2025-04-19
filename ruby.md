@@ -29,6 +29,7 @@
 - [rufex/araucaria.nvim](https://github.com/rufex/araucaria.nvim) ![](https://img.shields.io/github/stars/rufex/araucaria.nvim) ![](https://img.shields.io/github/last-commit/rufex/araucaria.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/araucaria.nvim)
 - [pippokairos/rspec-runner.nvim](https://github.com/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/stars/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/last-commit/pippokairos/rspec-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pippokairos/rspec-runner.nvim)
 - [apaslak/factory_finder.nvim](https://github.com/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/stars/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/last-commit/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/commit-activity/y/apaslak/factory_finder.nvim)
+- [dickdavis/spec-split.nvim](https://github.com/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/stars/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/last-commit/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/commit-activity/y/dickdavis/spec-split.nvim)
 
 ### LSP
 

@@ -211,6 +211,7 @@
 #### Taskfile
 
 - [ShadowApex/Taskfile.nvim](https://github.com/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/stars/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/last-commit/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadowApex/Taskfile.nvim)
+- [chefe/taskfile.nvim](https://github.com/chefe/taskfile.nvim) ![](https://img.shields.io/github/stars/chefe/taskfile.nvim) ![](https://img.shields.io/github/last-commit/chefe/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/chefe/taskfile.nvim)
 
 ### Specific runner
 

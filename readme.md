@@ -365,6 +365,7 @@
 - [fluxdiv/relative-rainbow.nvim](https://github.com/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/stars/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/relative-rainbow.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/relative-rainbow.nvim)
 - [Long104/hidecolumn.nvim](https://github.com/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/stars/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/last-commit/Long104/hidecolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/Long104/hidecolumn.nvim)
 - [walkingshamrock/rnum.nvim](https://github.com/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/rnum.nvim)
+- [dk949/file_line.nvim](https://github.com/dk949/file_line.nvim) ![](https://img.shields.io/github/stars/dk949/file_line.nvim) ![](https://img.shields.io/github/last-commit/dk949/file_line.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/file_line.nvim)
 
 ### [Mark](./mark.md)
 
