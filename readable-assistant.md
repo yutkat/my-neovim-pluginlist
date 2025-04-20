@@ -26,6 +26,7 @@
 
 - [delphinus/characterize.nvim](https://github.com/delphinus/characterize.nvim) ![](https://img.shields.io/github/stars/delphinus/characterize.nvim) ![](https://img.shields.io/github/last-commit/delphinus/characterize.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/characterize.nvim)
 - [diegoulloao/nvim-file-location](https://github.com/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/stars/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/last-commit/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/commit-activity/y/diegoulloao/nvim-file-location)
+- [ValdezFOmar/info.nvim](https://github.com/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/stars/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/last-commit/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/commit-activity/y/ValdezFOmar/info.nvim)
 
 ### Human-readable
 

@@ -35,6 +35,7 @@
 - [jake-stewart/vmark.nvim](https://github.com/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/stars/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/vmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/vmark.nvim)
 - [suvasanket/buf_mark.nvim](https://github.com/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/stars/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/buf_mark.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/buf_mark.nvim)
 - [Weyaaron/nvim-treemarks](https://github.com/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/stars/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-treemarks) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-treemarks)
+- [bearded-giant/mark9.nvim](https://github.com/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/stars/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/mark9.nvim)
 
 ### extmark
 
