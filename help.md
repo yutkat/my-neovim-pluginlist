@@ -8,6 +8,7 @@
   * [Tips](#tips)
   * [External Manual](#external-manual)
 - [Tutorial](#tutorial)
+- [Gnu Info](#gnu-info)
 - [RFC](#rfc)
 - [Reference](#reference)
 - [DevDocs](#devdocs)
@@ -71,6 +72,10 @@
 - [L0m1g/noarrow.nvim](https://github.com/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/stars/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/last-commit/L0m1g/noarrow.nvim) ![](https://img.shields.io/github/commit-activity/y/L0m1g/noarrow.nvim)
 - [Leonardo-Luz/accuracy.nvim](https://github.com/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/accuracy.nvim)
 - [Hashino/tutor.nvim](https://github.com/Hashino/tutor.nvim) ![](https://img.shields.io/github/stars/Hashino/tutor.nvim) ![](https://img.shields.io/github/last-commit/Hashino/tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/tutor.nvim)
+
+## Gnu Info
+
+- [ValdezFOmar/info.nvim](https://github.com/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/stars/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/last-commit/ValdezFOmar/info.nvim) ![](https://img.shields.io/github/commit-activity/y/ValdezFOmar/info.nvim)
 
 ## RFC
 

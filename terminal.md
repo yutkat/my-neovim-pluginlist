@@ -81,6 +81,7 @@
 - [littlewhi/shit-terminal.nvim](https://github.com/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/stars/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/last-commit/littlewhi/shit-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/littlewhi/shit-terminal.nvim)
 - [Bruno-BRG/terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/stars/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/last-commit/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Bruno-BRG/terminal.nvim)
 - [franpfeiffer/term2.nvim](https://github.com/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/term2.nvim)
+- [dmkraych/Quickterm.nvim](https://github.com/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/stars/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/last-commit/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/dmkraych/Quickterm.nvim)
 
 ### Open
 

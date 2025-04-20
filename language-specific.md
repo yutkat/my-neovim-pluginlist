@@ -659,6 +659,7 @@
 - [cjon256/dsa.nvim](https://github.com/cjon256/dsa.nvim) ![](https://img.shields.io/github/stars/cjon256/dsa.nvim) ![](https://img.shields.io/github/last-commit/cjon256/dsa.nvim) ![](https://img.shields.io/github/commit-activity/y/cjon256/dsa.nvim)
 - [ZicorXXIX/leetcode.nvim](https://github.com/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/stars/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/last-commit/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/ZicorXXIX/leetcode.nvim)
 - [ludbarzs/leetcoder.nvim](https://github.com/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/stars/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/last-commit/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ludbarzs/leetcoder.nvim)
+- [paulburgess1357/nvim-leetcode](https://github.com/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-leetcode)
 
 ### AtCoder
 
