@@ -82,6 +82,7 @@
 - [vunhatchuong/snacks-jumplist.nvim](https://github.com/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/snacks-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/snacks-jumplist.nvim)
 - [vunhatchuong/buffer-jumplist.nvim](https://github.com/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/stars/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/last-commit/vunhatchuong/buffer-jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/vunhatchuong/buffer-jumplist.nvim)
 - [ValenteMesmo/linear-jumps.nvim](https://github.com/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/stars/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/last-commit/ValenteMesmo/linear-jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/ValenteMesmo/linear-jumps.nvim)
+- [TheLazyCat00/racer-nvim](https://github.com/TheLazyCat00/racer-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/racer-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/racer-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/racer-nvim)
 
 ### Edit History
 
