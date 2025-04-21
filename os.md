@@ -47,7 +47,6 @@
 
 #### kernel
 
-- [rbmarliere/get_maintainer.nvim](https://github.com/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/stars/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/get_maintainer.nvim)
 
 #### Window Manager (Desktop Manager)
 
