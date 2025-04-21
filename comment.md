@@ -117,6 +117,7 @@
 - [leon-richardt/comment-highlights.nvim](https://github.com/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/stars/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/last-commit/leon-richardt/comment-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/leon-richardt/comment-highlights.nvim)
 - [fluxdiv/instacolor.nvim](https://github.com/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/stars/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/last-commit/fluxdiv/instacolor.nvim) ![](https://img.shields.io/github/commit-activity/y/fluxdiv/instacolor.nvim)
 - [n0llid/comment-color.nvim](https://github.com/n0llid/comment-color.nvim) ![](https://img.shields.io/github/stars/n0llid/comment-color.nvim) ![](https://img.shields.io/github/last-commit/n0llid/comment-color.nvim) ![](https://img.shields.io/github/commit-activity/y/n0llid/comment-color.nvim)
+- [Ayobami0/cheer.nvim](https://github.com/Ayobami0/cheer.nvim) ![](https://img.shields.io/github/stars/Ayobami0/cheer.nvim) ![](https://img.shields.io/github/last-commit/Ayobami0/cheer.nvim) ![](https://img.shields.io/github/commit-activity/y/Ayobami0/cheer.nvim)
 
 ### Internal comment
 

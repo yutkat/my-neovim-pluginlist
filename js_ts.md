@@ -136,6 +136,7 @@
 - [jacksonmelcher/pretty-ts-errors.nvim](https://github.com/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/jacksonmelcher/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/jacksonmelcher/pretty-ts-errors.nvim)
 - [rafaelmian1/tsc-errors.nvim](https://github.com/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/stars/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/last-commit/rafaelmian1/tsc-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/rafaelmian1/tsc-errors.nvim)
 - [youyoumu/pretty-ts-errors.nvim](https://github.com/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/youyoumu/pretty-ts-errors.nvim)
+- [fulopkovacs/fix-ts-props.nvim](https://github.com/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/fix-ts-props.nvim)
 
 ### typescript-go
 

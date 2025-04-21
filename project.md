@@ -52,6 +52,7 @@
 - [sapnvim/sapnvim_project.nvim](https://github.com/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/stars/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/last-commit/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/commit-activity/y/sapnvim/sapnvim_project.nvim)
 - [mtfrsantos/nvim-workspaces](https://github.com/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/stars/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/last-commit/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/commit-activity/y/mtfrsantos/nvim-workspaces)
 - [ErPollo07/pman.nvim](https://github.com/ErPollo07/pman.nvim) ![](https://img.shields.io/github/stars/ErPollo07/pman.nvim) ![](https://img.shields.io/github/last-commit/ErPollo07/pman.nvim) ![](https://img.shields.io/github/commit-activity/y/ErPollo07/pman.nvim)
+- [LeeLaffan/workspacers.nvim](https://github.com/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/stars/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/last-commit/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/commit-activity/y/LeeLaffan/workspacers.nvim)
 
 #### Project Root Detector
 

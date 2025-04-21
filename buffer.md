@@ -124,6 +124,7 @@
 - [niuiic/buffers.nvim](https://github.com/niuiic/buffers.nvim) ![](https://img.shields.io/github/stars/niuiic/buffers.nvim) ![](https://img.shields.io/github/last-commit/niuiic/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/buffers.nvim)
 - [mattcookio/pivot.nvim](https://github.com/mattcookio/pivot.nvim) ![](https://img.shields.io/github/stars/mattcookio/pivot.nvim) ![](https://img.shields.io/github/last-commit/mattcookio/pivot.nvim) ![](https://img.shields.io/github/commit-activity/y/mattcookio/pivot.nvim)
 - [siquitch/jumpr.nvim](https://github.com/siquitch/jumpr.nvim) ![](https://img.shields.io/github/stars/siquitch/jumpr.nvim) ![](https://img.shields.io/github/last-commit/siquitch/jumpr.nvim) ![](https://img.shields.io/github/commit-activity/y/siquitch/jumpr.nvim)
+- [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
 
 #### create
 
