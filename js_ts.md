@@ -102,6 +102,7 @@
 ### Type
 
 - [marcos-brasil/fix-ts-var-hints.nvim](https://github.com/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/stars/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/last-commit/marcos-brasil/fix-ts-var-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/marcos-brasil/fix-ts-var-hints.nvim)
+- [fulopkovacs/fix-ts-props.nvim](https://github.com/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/fix-ts-props.nvim)
 
 ### index.js
 

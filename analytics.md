@@ -53,6 +53,7 @@
 - [mraspaud/timelog.nvim](https://github.com/mraspaud/timelog.nvim) ![](https://img.shields.io/github/stars/mraspaud/timelog.nvim) ![](https://img.shields.io/github/last-commit/mraspaud/timelog.nvim) ![](https://img.shields.io/github/commit-activity/y/mraspaud/timelog.nvim)
 - [Weyaaron/nvim-project-time-tracking](https://github.com/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/stars/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-project-time-tracking) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-project-time-tracking)
 - [Leonardo-Luz/time.nvim](https://github.com/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/time.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/time.nvim)
+- [frenki123/timepilot.nvim](https://github.com/frenki123/timepilot.nvim) ![](https://img.shields.io/github/stars/frenki123/timepilot.nvim) ![](https://img.shields.io/github/last-commit/frenki123/timepilot.nvim) ![](https://img.shields.io/github/commit-activity/y/frenki123/timepilot.nvim)
 
 #### Timewarrior
 
