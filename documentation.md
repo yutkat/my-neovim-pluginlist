@@ -37,6 +37,7 @@
     + [Markdown converter](#markdown-converter)
       - [TimeStamp](#timestamp)
     + [Code to Markdown](#code-to-markdown)
+    + [AI writter](#ai-writter)
   * [Fountain](#fountain)
   * [Query](#query)
     + [MDX](#mdx)
@@ -301,6 +302,10 @@
 #### Code to Markdown
 
 - [kunring/copy-as-markdown.nvim](https://github.com/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/stars/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/last-commit/kunring/copy-as-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/kunring/copy-as-markdown.nvim)
+
+#### AI writter
+
+- [Cunuduh/naiad.nvim](https://github.com/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/stars/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/last-commit/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/commit-activity/y/Cunuduh/naiad.nvim)
 
 ### Fountain
 

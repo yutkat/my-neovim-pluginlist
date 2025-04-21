@@ -85,3 +85,4 @@
 ### DuckDB
 
 - [princejoogie/duckdb.nvim](https://github.com/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/stars/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/duckdb.nvim)
+- [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) ![](https://img.shields.io/github/stars/wylie102/duckdb.yazi) ![](https://img.shields.io/github/last-commit/wylie102/duckdb.yazi) ![](https://img.shields.io/github/commit-activity/y/wylie102/duckdb.yazi)
