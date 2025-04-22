@@ -172,6 +172,8 @@
 - [nexcov/compile-mode.nvim](https://github.com/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/stars/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/nexcov/compile-mode.nvim)
 - [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
 - [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
+- [rraval/shbuf.nvim](https://github.com/rraval/shbuf.nvim) ![](https://img.shields.io/github/stars/rraval/shbuf.nvim) ![](https://img.shields.io/github/last-commit/rraval/shbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/rraval/shbuf.nvim)
+- [ryanramage/genaiscript-runner.nvim](https://github.com/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/stars/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/last-commit/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanramage/genaiscript-runner.nvim)
 
 ### Auto detect style
 

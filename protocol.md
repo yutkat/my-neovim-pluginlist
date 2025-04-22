@@ -57,6 +57,7 @@
 #### OpenAPI
 
 - [codeasashu/oas.nvim](https://github.com/codeasashu/oas.nvim) ![](https://img.shields.io/github/stars/codeasashu/oas.nvim) ![](https://img.shields.io/github/last-commit/codeasashu/oas.nvim) ![](https://img.shields.io/github/commit-activity/y/codeasashu/oas.nvim)
+- [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
 
 ### Protocol buffer
 

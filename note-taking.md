@@ -158,6 +158,7 @@
 - [heitoranjos15/booky.nvim](https://github.com/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/stars/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/last-commit/heitoranjos15/booky.nvim) ![](https://img.shields.io/github/commit-activity/y/heitoranjos15/booky.nvim)
 - [idossha/todo.nvim](https://github.com/idossha/todo.nvim) ![](https://img.shields.io/github/stars/idossha/todo.nvim) ![](https://img.shields.io/github/last-commit/idossha/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/todo.nvim)
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ![](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/bngarren/checkmate.nvim)
+- [AnthonyAstige/todo.txt.nvim](https://github.com/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/stars/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/last-commit/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/commit-activity/y/AnthonyAstige/todo.txt.nvim)
 
 #### Taskwarrior
 
@@ -395,4 +396,6 @@
 - [cvigilv/denote.nvim](https://github.com/cvigilv/denote.nvim) ![](https://img.shields.io/github/stars/cvigilv/denote.nvim) ![](https://img.shields.io/github/last-commit/cvigilv/denote.nvim) ![](https://img.shields.io/github/commit-activity/y/cvigilv/denote.nvim)
 - [severinpolo/open_notes.nvim](https://github.com/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/stars/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/last-commit/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/severinpolo/open_notes.nvim)
 - [MikeDupree/nvim-tasks](https://github.com/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/stars/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-tasks)
+- [IniyanKanmani/notebook-navigator.nvim](https://github.com/IniyanKanmani/notebook-navigator.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/notebook-navigator.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/notebook-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/notebook-navigator.nvim)
+- [oh-my-bug/quick-notes.nvim](https://github.com/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/stars/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/oh-my-bug/quick-notes.nvim)
 - [MikeDupree/nvim-notes](https://github.com/MikeDupree/nvim-notes) ![](https://img.shields.io/github/stars/MikeDupree/nvim-notes) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-notes)

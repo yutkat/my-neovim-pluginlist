@@ -177,6 +177,7 @@
 - [RitschAlex/jupyter_ascending.nvim](https://github.com/RitschAlex/jupyter_ascending.nvim) ![](https://img.shields.io/github/stars/RitschAlex/jupyter_ascending.nvim) ![](https://img.shields.io/github/last-commit/RitschAlex/jupyter_ascending.nvim) ![](https://img.shields.io/github/commit-activity/y/RitschAlex/jupyter_ascending.nvim)
 - [goerz/jupytext.nvim](https://github.com/goerz/jupytext.nvim) ![](https://img.shields.io/github/stars/goerz/jupytext.nvim) ![](https://img.shields.io/github/last-commit/goerz/jupytext.nvim) ![](https://img.shields.io/github/commit-activity/y/goerz/jupytext.nvim)
 - [idossha/jupyter.nvim](https://github.com/idossha/jupyter.nvim) ![](https://img.shields.io/github/stars/idossha/jupyter.nvim) ![](https://img.shields.io/github/last-commit/idossha/jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/jupyter.nvim)
+- [IniyanKanmani/jupytext.nvim](https://github.com/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/jupytext.nvim)
 
 ### Pandas
 

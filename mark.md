@@ -73,6 +73,7 @@
 - [jmattaa/quickmark.nvim](https://github.com/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/stars/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/quickmark.nvim)
 - [neutrie/pinbuff.nvim](https://github.com/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/stars/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/last-commit/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/commit-activity/y/neutrie/pinbuff.nvim)
 - [GrammAcc/intervention.nvim](https://github.com/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/stars/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/last-commit/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/commit-activity/y/GrammAcc/intervention.nvim)
+- [segoon/goto-arcanum.nvim](https://github.com/segoon/goto-arcanum.nvim) ![](https://img.shields.io/github/stars/segoon/goto-arcanum.nvim) ![](https://img.shields.io/github/last-commit/segoon/goto-arcanum.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/goto-arcanum.nvim)
 
 ### floating marker(easymotion style)
 
