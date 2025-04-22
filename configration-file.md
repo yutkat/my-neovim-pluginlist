@@ -64,6 +64,7 @@
 - [aubinlrx/telescope-yamlnav.nvim](https://github.com/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/stars/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/last-commit/aubinlrx/telescope-yamlnav.nvim) ![](https://img.shields.io/github/commit-activity/y/aubinlrx/telescope-yamlnav.nvim)
 - [slarwise/nvim-but-yaml](https://github.com/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/stars/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/last-commit/slarwise/nvim-but-yaml) ![](https://img.shields.io/github/commit-activity/y/slarwise/nvim-but-yaml)
 - [ray-x/yamlmatter.nvim](https://github.com/ray-x/yamlmatter.nvim) ![](https://img.shields.io/github/stars/ray-x/yamlmatter.nvim) ![](https://img.shields.io/github/last-commit/ray-x/yamlmatter.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/yamlmatter.nvim)
+- [segoon/yaml-navigation.nvim](https://github.com/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/stars/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/last-commit/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yaml-navigation.nvim)
 
 ### TOML
 
