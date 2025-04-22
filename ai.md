@@ -61,6 +61,7 @@
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
   * [Linkup](#linkup)
+  * [LLM CLI](#llm-cli)
   * [Gennie CLI](#gennie-cli)
   * [llmcat](#llmcat)
   * [Whisper Transcribe](#whisper-transcribe)
@@ -122,6 +123,8 @@
 - [FLYDonkey123/deepseek.nvim](https://github.com/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/stars/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/last-commit/FLYDonkey123/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/FLYDonkey123/deepseek.nvim)
 - [ChrisGVE/ai_assistant.nvim](https://github.com/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/ai_assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/ai_assistant.nvim)
 - [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
+- [niklaslorenz/code-assist.nvim](https://github.com/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/stars/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/last-commit/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/niklaslorenz/code-assist.nvim)
+- [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
 
 #### Codex
 
@@ -398,6 +401,7 @@
 - [SearidangPa/copilot_hop.nvim](https://github.com/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/stars/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/copilot_hop.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/copilot_hop.nvim)
 - [fuegoio/copiloutre.nvim](https://github.com/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/stars/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/last-commit/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/commit-activity/y/fuegoio/copiloutre.nvim)
 - [Xuyuanp/nes.nvim](https://github.com/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/nes.nvim)
+- [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/stars/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/last-commit/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/commit-activity/y/copilotlsp-nvim/copilot-lsp)
 
 ## Chat
 
@@ -483,6 +487,10 @@
 ### Linkup
 
 - [cjumel/linkup.nvim](https://github.com/cjumel/linkup.nvim) ![](https://img.shields.io/github/stars/cjumel/linkup.nvim) ![](https://img.shields.io/github/last-commit/cjumel/linkup.nvim) ![](https://img.shields.io/github/commit-activity/y/cjumel/linkup.nvim)
+
+### LLM CLI
+
+- [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) ![](https://img.shields.io/github/stars/julwrites/llm-nvim) ![](https://img.shields.io/github/last-commit/julwrites/llm-nvim) ![](https://img.shields.io/github/commit-activity/y/julwrites/llm-nvim)
 
 ### Gennie CLI
 

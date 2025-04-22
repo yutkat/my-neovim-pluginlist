@@ -97,6 +97,7 @@
     + [Unison](#unison)
     + [LMNtal](#lmntal)
     + [Eno](#eno)
+    + [GenAIScript](#genaiscript)
     + [Jule](#jule)
     + [Gren](#gren)
     + [Solidity](#solidity)
@@ -163,6 +164,7 @@
 ##### .NET
 
 - [adamkali/dotnvim](https://github.com/adamkali/dotnvim) ![](https://img.shields.io/github/stars/adamkali/dotnvim) ![](https://img.shields.io/github/last-commit/adamkali/dotnvim) ![](https://img.shields.io/github/commit-activity/y/adamkali/dotnvim)
+- [jmkelly/dbt.nvim](https://github.com/jmkelly/dbt.nvim) ![](https://img.shields.io/github/stars/jmkelly/dbt.nvim) ![](https://img.shields.io/github/last-commit/jmkelly/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkelly/dbt.nvim)
 
 ##### ASP.NET
 
@@ -562,6 +564,10 @@
 #### Eno
 
 - [fawni/eno.nvim](https://github.com/fawni/eno.nvim) ![](https://img.shields.io/github/stars/fawni/eno.nvim) ![](https://img.shields.io/github/last-commit/fawni/eno.nvim) ![](https://img.shields.io/github/commit-activity/y/fawni/eno.nvim)
+
+#### GenAIScript
+
+- [ryanramage/genaiscript-runner.nvim](https://github.com/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/stars/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/last-commit/ryanramage/genaiscript-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanramage/genaiscript-runner.nvim)
 
 #### Jule
 

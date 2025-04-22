@@ -12,6 +12,7 @@
   * [search](#search)
     + [Search without browser](#search-without-browser)
   * [Bookmarks](#bookmarks)
+  * [Cast](#cast)
 
 <!-- tocstop -->
 
@@ -82,3 +83,7 @@
 #### Bookmarks
 
 - [danarth/telescope-buku.nvim](https://github.com/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-buku.nvim)
+
+#### Cast
+
+- [duskpoet/neocast.nvim](https://github.com/duskpoet/neocast.nvim) ![](https://img.shields.io/github/stars/duskpoet/neocast.nvim) ![](https://img.shields.io/github/last-commit/duskpoet/neocast.nvim) ![](https://img.shields.io/github/commit-activity/y/duskpoet/neocast.nvim)

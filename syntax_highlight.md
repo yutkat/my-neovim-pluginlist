@@ -46,6 +46,7 @@
 - [JosefLitos/reform.nvim](https://github.com/JosefLitos/reform.nvim) ![](https://img.shields.io/github/stars/JosefLitos/reform.nvim) ![](https://img.shields.io/github/last-commit/JosefLitos/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/JosefLitos/reform.nvim)
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
 - [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
+- [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
 
 ### Delimiter
 
