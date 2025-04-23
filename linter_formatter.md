@@ -46,6 +46,7 @@
 - [wsdjeg/format.nvim](https://github.com/wsdjeg/format.nvim) ![](https://img.shields.io/github/stars/wsdjeg/format.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/format.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/format.nvim)
 - [TheLazyCat00/simple-format](https://github.com/TheLazyCat00/simple-format) ![](https://img.shields.io/github/stars/TheLazyCat00/simple-format) ![](https://img.shields.io/github/last-commit/TheLazyCat00/simple-format) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/simple-format)
 - [merimacfairbairn/autoformat.nvim](https://github.com/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/stars/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/last-commit/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/commit-activity/y/merimacfairbairn/autoformat.nvim)
+- [Huzerovo/nvim-union-lsp-formatter](https://github.com/Huzerovo/nvim-union-lsp-formatter) ![](https://img.shields.io/github/stars/Huzerovo/nvim-union-lsp-formatter) ![](https://img.shields.io/github/last-commit/Huzerovo/nvim-union-lsp-formatter) ![](https://img.shields.io/github/commit-activity/y/Huzerovo/nvim-union-lsp-formatter)
 
 ### Trim Whitespace
 

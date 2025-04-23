@@ -159,6 +159,7 @@
 - [idossha/todo.nvim](https://github.com/idossha/todo.nvim) ![](https://img.shields.io/github/stars/idossha/todo.nvim) ![](https://img.shields.io/github/last-commit/idossha/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/todo.nvim)
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ![](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/bngarren/checkmate.nvim)
 - [AnthonyAstige/todo.txt.nvim](https://github.com/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/stars/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/last-commit/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/commit-activity/y/AnthonyAstige/todo.txt.nvim)
+- [LeoKingsCoast/tasks.nvim](https://github.com/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/stars/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/last-commit/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/LeoKingsCoast/tasks.nvim)
 
 #### Taskwarrior
 
@@ -397,4 +398,5 @@
 - [severinpolo/open_notes.nvim](https://github.com/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/stars/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/last-commit/severinpolo/open_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/severinpolo/open_notes.nvim)
 - [MikeDupree/nvim-tasks](https://github.com/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/stars/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-tasks) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-tasks)
 - [MikeDupree/nvim-notes](https://github.com/MikeDupree/nvim-notes) ![](https://img.shields.io/github/stars/MikeDupree/nvim-notes) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-notes)
+- [markjaquith/back-pocket.nvim](https://github.com/markjaquith/back-pocket.nvim) ![](https://img.shields.io/github/stars/markjaquith/back-pocket.nvim) ![](https://img.shields.io/github/last-commit/markjaquith/back-pocket.nvim) ![](https://img.shields.io/github/commit-activity/y/markjaquith/back-pocket.nvim)
 - [oh-my-bug/quick-notes.nvim](https://github.com/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/stars/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/oh-my-bug/quick-notes.nvim)

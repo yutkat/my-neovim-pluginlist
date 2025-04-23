@@ -379,6 +379,7 @@
 - [mvllow/session-undo.nvim](https://github.com/mvllow/session-undo.nvim) ![](https://img.shields.io/github/stars/mvllow/session-undo.nvim) ![](https://img.shields.io/github/last-commit/mvllow/session-undo.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/session-undo.nvim)
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
 - [y3owk1n/time-machine.nvim](https://github.com/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/stars/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/time-machine.nvim)
+- [walkingshamrock/undoplay.nvim](https://github.com/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/undoplay.nvim)
 
 ### [Diff](./diff.md)
 
