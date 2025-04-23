@@ -159,6 +159,7 @@
 - [idossha/todo.nvim](https://github.com/idossha/todo.nvim) ![](https://img.shields.io/github/stars/idossha/todo.nvim) ![](https://img.shields.io/github/last-commit/idossha/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/todo.nvim)
 - [bngarren/checkmate.nvim](https://github.com/bngarren/checkmate.nvim) ![](https://img.shields.io/github/stars/bngarren/checkmate.nvim) ![](https://img.shields.io/github/last-commit/bngarren/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/bngarren/checkmate.nvim)
 - [AnthonyAstige/todo.txt.nvim](https://github.com/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/stars/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/last-commit/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/commit-activity/y/AnthonyAstige/todo.txt.nvim)
+- [LeoKingsCoast/tasks.nvim](https://github.com/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/stars/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/last-commit/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/LeoKingsCoast/tasks.nvim)
 
 #### Taskwarrior
 
