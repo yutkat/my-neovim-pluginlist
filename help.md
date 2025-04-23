@@ -57,6 +57,7 @@
 
 - [rene-hess/tip.nvim](https://github.com/rene-hess/tip.nvim) ![](https://img.shields.io/github/stars/rene-hess/tip.nvim) ![](https://img.shields.io/github/last-commit/rene-hess/tip.nvim) ![](https://img.shields.io/github/commit-activity/y/rene-hess/tip.nvim)
 - [naranyala/easyref.nvim](https://github.com/naranyala/easyref.nvim) ![](https://img.shields.io/github/stars/naranyala/easyref.nvim) ![](https://img.shields.io/github/last-commit/naranyala/easyref.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/easyref.nvim)
+- [walkingshamrock/devquiz.nvim](https://github.com/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/devquiz.nvim)
 
 ### External Manual
 

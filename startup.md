@@ -31,6 +31,8 @@
 - [thomaslin649/fortune.nvim](https://github.com/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/stars/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/last-commit/thomaslin649/fortune.nvim) ![](https://img.shields.io/github/commit-activity/y/thomaslin649/fortune.nvim)
 - [piperinnshall/splash.nvim](https://github.com/piperinnshall/splash.nvim) ![](https://img.shields.io/github/stars/piperinnshall/splash.nvim) ![](https://img.shields.io/github/last-commit/piperinnshall/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/piperinnshall/splash.nvim)
 - [numen-0/beta.nvim](https://github.com/numen-0/beta.nvim) ![](https://img.shields.io/github/stars/numen-0/beta.nvim) ![](https://img.shields.io/github/last-commit/numen-0/beta.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/beta.nvim)
+- [jjhiza/dashy.nvim](https://github.com/jjhiza/dashy.nvim) ![](https://img.shields.io/github/stars/jjhiza/dashy.nvim) ![](https://img.shields.io/github/last-commit/jjhiza/dashy.nvim) ![](https://img.shields.io/github/commit-activity/y/jjhiza/dashy.nvim)
+- [ButterSus/placeholder.nvim](https://github.com/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/stars/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/last-commit/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/commit-activity/y/ButterSus/placeholder.nvim)
 
 ### Boot Arguments
 

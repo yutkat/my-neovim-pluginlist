@@ -46,6 +46,7 @@
   * [Mermaid](#mermaid)
   * [Graphviz](#graphviz)
   * [AsciiDoc](#asciidoc)
+  * [Mindmap](#mindmap)
   * [PDF](#pdf)
   * [EPUB](#epub)
   * [Pandoc](#pandoc)
@@ -221,6 +222,7 @@
 - [hustuhao/markdown-codeblock-format.nvim](https://github.com/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/stars/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/last-commit/hustuhao/markdown-codeblock-format.nvim) ![](https://img.shields.io/github/commit-activity/y/hustuhao/markdown-codeblock-format.nvim)
 - [chutipascal/org_to_md.nvim](https://github.com/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/stars/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/last-commit/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/commit-activity/y/chutipascal/org_to_md.nvim)
 - [lnus/fencey.nvim](https://github.com/lnus/fencey.nvim) ![](https://img.shields.io/github/stars/lnus/fencey.nvim) ![](https://img.shields.io/github/last-commit/lnus/fencey.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/fencey.nvim)
+- [rmunozan/Cosh.nvim](https://github.com/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/stars/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/last-commit/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/commit-activity/y/rmunozan/Cosh.nvim)
 
 #### Markdown table
 
@@ -354,6 +356,10 @@
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/stars/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/last-commit/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-asciidoc-preview)
 - [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 - [cpkio/nvim-treesitter-asciidoc](https://github.com/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/stars/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/last-commit/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-treesitter-asciidoc)
+
+### Mindmap
+
+- [gustadev24/markmap_preview.nvim](https://github.com/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/stars/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/last-commit/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gustadev24/markmap_preview.nvim)
 
 ### PDF
 
