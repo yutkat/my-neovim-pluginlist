@@ -280,6 +280,7 @@
 - [Willem-J-an/adopure.nvim](https://github.com/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/adopure.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/adopure.nvim)
 - [zachbuchli/azcli.nvim](https://github.com/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/stars/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/azcli.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/azcli.nvim)
 - [jawee/azuredo.nvim](https://github.com/jawee/azuredo.nvim) ![](https://img.shields.io/github/stars/jawee/azuredo.nvim) ![](https://img.shields.io/github/last-commit/jawee/azuredo.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/azuredo.nvim)
+- [edwinboon/azure.nvim](https://github.com/edwinboon/azure.nvim) ![](https://img.shields.io/github/stars/edwinboon/azure.nvim) ![](https://img.shields.io/github/last-commit/edwinboon/azure.nvim) ![](https://img.shields.io/github/commit-activity/y/edwinboon/azure.nvim)
 
 #### Adobe
 

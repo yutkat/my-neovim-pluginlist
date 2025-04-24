@@ -17,6 +17,7 @@
   * [Internal comment](#internal-comment)
   * [Directory comment](#directory-comment)
   * [Hide comment](#hide-comment)
+  * [AI comment](#ai-comment)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -132,6 +133,10 @@
 ### Hide comment
 
 - [soemre/commentless.nvim](https://github.com/soemre/commentless.nvim) ![](https://img.shields.io/github/stars/soemre/commentless.nvim) ![](https://img.shields.io/github/last-commit/soemre/commentless.nvim) ![](https://img.shields.io/github/commit-activity/y/soemre/commentless.nvim)
+
+### AI comment
+
+- [AdrianMosnegutu/docscribe.nvim](https://github.com/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/stars/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/last-commit/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianMosnegutu/docscribe.nvim)
 
 ## LICENSE
 
