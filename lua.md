@@ -61,6 +61,7 @@
 ### Docstring
 
 - [WERDXZ/nvim-dox](https://github.com/WERDXZ/nvim-dox) ![](https://img.shields.io/github/stars/WERDXZ/nvim-dox) ![](https://img.shields.io/github/last-commit/WERDXZ/nvim-dox) ![](https://img.shields.io/github/commit-activity/y/WERDXZ/nvim-dox)
+- [AdrianMosnegutu/docscribe.nvim](https://github.com/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/stars/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/last-commit/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianMosnegutu/docscribe.nvim)
 
 ### LuaJava
 
