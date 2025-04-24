@@ -48,6 +48,7 @@
   * [Bulma](#bulma)
 - [Framework](#framework)
   * [React](#react)
+    + [Next.js](#nextjs)
   * [Vue](#vue)
     + [Vleam](#vleam)
     + [Nuxt](#nuxt)
@@ -343,6 +344,10 @@
 - [dromse/radon.nvim](https://github.com/dromse/radon.nvim) ![](https://img.shields.io/github/stars/dromse/radon.nvim) ![](https://img.shields.io/github/last-commit/dromse/radon.nvim) ![](https://img.shields.io/github/commit-activity/y/dromse/radon.nvim)
 - [TiagoMDG/react-comp-gen.nvim](https://github.com/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/stars/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/last-commit/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/TiagoMDG/react-comp-gen.nvim)
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/stars/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/last-commit/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/commit-activity/y/harisb2012/tsnest.nvim)
+
+#### Next.js
+
+- [jacobsonryan/lualine-nextname.nvim](https://github.com/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/stars/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/last-commit/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobsonryan/lualine-nextname.nvim)
 
 ### Vue
 

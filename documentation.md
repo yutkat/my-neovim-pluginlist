@@ -223,6 +223,7 @@
 - [chutipascal/org_to_md.nvim](https://github.com/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/stars/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/last-commit/chutipascal/org_to_md.nvim) ![](https://img.shields.io/github/commit-activity/y/chutipascal/org_to_md.nvim)
 - [lnus/fencey.nvim](https://github.com/lnus/fencey.nvim) ![](https://img.shields.io/github/stars/lnus/fencey.nvim) ![](https://img.shields.io/github/last-commit/lnus/fencey.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/fencey.nvim)
 - [rmunozan/Cosh.nvim](https://github.com/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/stars/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/last-commit/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/commit-activity/y/rmunozan/Cosh.nvim)
+- [md-babel/md-babel.nvim](https://github.com/md-babel/md-babel.nvim) ![](https://img.shields.io/github/stars/md-babel/md-babel.nvim) ![](https://img.shields.io/github/last-commit/md-babel/md-babel.nvim) ![](https://img.shields.io/github/commit-activity/y/md-babel/md-babel.nvim)
 
 #### Markdown table
 
