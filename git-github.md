@@ -405,6 +405,7 @@
 
 - [pwntester/codeql.nvim](https://github.com/pwntester/codeql.nvim) ![](https://img.shields.io/github/stars/pwntester/codeql.nvim) ![](https://img.shields.io/github/last-commit/pwntester/codeql.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/codeql.nvim)
 - [rlch/github-notifications.nvim](https://github.com/rlch/github-notifications.nvim) ![](https://img.shields.io/github/stars/rlch/github-notifications.nvim) ![](https://img.shields.io/github/last-commit/rlch/github-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/github-notifications.nvim)
+- [johnseth97/gh-dash.nvim](https://github.com/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/stars/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/gh-dash.nvim)
 
 ### Notification
 
