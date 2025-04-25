@@ -74,6 +74,7 @@
 - [Leonardo-Luz/accuracy.nvim](https://github.com/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/accuracy.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/accuracy.nvim)
 - [Hashino/tutor.nvim](https://github.com/Hashino/tutor.nvim) ![](https://img.shields.io/github/stars/Hashino/tutor.nvim) ![](https://img.shields.io/github/last-commit/Hashino/tutor.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/tutor.nvim)
 - [timseriakov/spamguard.nvim](https://github.com/timseriakov/spamguard.nvim) ![](https://img.shields.io/github/stars/timseriakov/spamguard.nvim) ![](https://img.shields.io/github/last-commit/timseriakov/spamguard.nvim) ![](https://img.shields.io/github/commit-activity/y/timseriakov/spamguard.nvim)
+- [melkyr/learn-vim](https://github.com/melkyr/learn-vim) ![](https://img.shields.io/github/stars/melkyr/learn-vim) ![](https://img.shields.io/github/last-commit/melkyr/learn-vim) ![](https://img.shields.io/github/commit-activity/y/melkyr/learn-vim)
 
 ## Gnu Info
 
