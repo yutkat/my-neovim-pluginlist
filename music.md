@@ -35,6 +35,7 @@
 - [Matchiye/noisemachine.nvim](https://github.com/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/stars/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/last-commit/Matchiye/noisemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/Matchiye/noisemachine.nvim)
 - [plsdev89/lazympv.nvim](https://github.com/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/stars/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/last-commit/plsdev89/lazympv.nvim) ![](https://img.shields.io/github/commit-activity/y/plsdev89/lazympv.nvim)
 - [APConduct/amp.nvim](https://github.com/APConduct/amp.nvim) ![](https://img.shields.io/github/stars/APConduct/amp.nvim) ![](https://img.shields.io/github/last-commit/APConduct/amp.nvim) ![](https://img.shields.io/github/commit-activity/y/APConduct/amp.nvim)
+- [wsdjeg/music-player.nvim](https://github.com/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/stars/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/music-player.nvim)
 
 ### sapf
 
@@ -75,4 +76,5 @@
 ### Recording
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
+- [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
 - [ronxjansen/voice.nvim](https://github.com/ronxjansen/voice.nvim) ![](https://img.shields.io/github/stars/ronxjansen/voice.nvim) ![](https://img.shields.io/github/last-commit/ronxjansen/voice.nvim) ![](https://img.shields.io/github/commit-activity/y/ronxjansen/voice.nvim)

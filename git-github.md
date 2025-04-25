@@ -397,6 +397,7 @@
 - [amjith/ghopen.nvim](https://github.com/amjith/ghopen.nvim) ![](https://img.shields.io/github/stars/amjith/ghopen.nvim) ![](https://img.shields.io/github/last-commit/amjith/ghopen.nvim) ![](https://img.shields.io/github/commit-activity/y/amjith/ghopen.nvim)
 - [zachbuchli/ghpowertools.nvim](https://github.com/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/stars/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/ghpowertools.nvim)
 - [gitusp/gh-utils.nvim](https://github.com/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-utils.nvim)
+- [johnseth97/gh-dash.nvim](https://github.com/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/stars/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/gh-dash.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/gh-dash.nvim)
 
 #### Notify
 

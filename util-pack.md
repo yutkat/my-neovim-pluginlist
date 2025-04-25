@@ -33,6 +33,7 @@
 - [deathbeam/myplugins.nvim](https://github.com/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/stars/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/myplugins.nvim)
 - [nxmxsxs/desserts.nvim](https://github.com/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/stars/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/last-commit/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/commit-activity/y/nxmxsxs/desserts.nvim)
 - [elentok/stuff.nvim](https://github.com/elentok/stuff.nvim) ![](https://img.shields.io/github/stars/elentok/stuff.nvim) ![](https://img.shields.io/github/last-commit/elentok/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/stuff.nvim)
+- [Grub4K/glib.nvim](https://github.com/Grub4K/glib.nvim) ![](https://img.shields.io/github/stars/Grub4K/glib.nvim) ![](https://img.shields.io/github/last-commit/Grub4K/glib.nvim) ![](https://img.shields.io/github/commit-activity/y/Grub4K/glib.nvim)
 
 ## UI
 

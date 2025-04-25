@@ -150,6 +150,7 @@
 - [musaubrian/pye.nvim](https://github.com/musaubrian/pye.nvim) ![](https://img.shields.io/github/stars/musaubrian/pye.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/pye.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/pye.nvim)
 - [aanatoly/venv.nvim](https://github.com/aanatoly/venv.nvim) ![](https://img.shields.io/github/stars/aanatoly/venv.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/venv.nvim)
 - [milemik/nvim-py-detector](https://github.com/milemik/nvim-py-detector) ![](https://img.shields.io/github/stars/milemik/nvim-py-detector) ![](https://img.shields.io/github/last-commit/milemik/nvim-py-detector) ![](https://img.shields.io/github/commit-activity/y/milemik/nvim-py-detector)
+- [wsacin/nvim-pyenv-loader](https://github.com/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/stars/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/last-commit/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/commit-activity/y/wsacin/nvim-pyenv-loader)
 
 ### Poetry
 
@@ -195,6 +196,7 @@
 ### visidata
 
 - [Willem-J-an/visidata.nvim](https://github.com/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/visidata.nvim)
+- [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
 
 ### Kedro
 
