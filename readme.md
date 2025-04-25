@@ -381,6 +381,7 @@
 - [y3owk1n/undo-glow.nvim](https://github.com/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/stars/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/undo-glow.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/undo-glow.nvim)
 - [y3owk1n/time-machine.nvim](https://github.com/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/stars/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/time-machine.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/time-machine.nvim)
 - [walkingshamrock/undoplay.nvim](https://github.com/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/undoplay.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/undoplay.nvim)
+- [jiaoshijie/undotree](https://github.com/jiaoshijie/undotree) ![](https://img.shields.io/github/stars/jiaoshijie/undotree) ![](https://img.shields.io/github/last-commit/jiaoshijie/undotree) ![](https://img.shields.io/github/commit-activity/y/jiaoshijie/undotree)
 
 ### [Diff](./diff.md)
 
