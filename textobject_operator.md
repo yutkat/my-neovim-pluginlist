@@ -86,6 +86,7 @@
 ### Replace
 
 - [tar80/rereope.nvim](https://github.com/tar80/rereope.nvim) ![](https://img.shields.io/github/stars/tar80/rereope.nvim) ![](https://img.shields.io/github/last-commit/tar80/rereope.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/rereope.nvim)
+- [TheLazyCat00/replace-nvim](https://github.com/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/replace-nvim)
 
 ### s
 

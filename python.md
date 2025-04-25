@@ -124,6 +124,7 @@
 ## pyenv
 
 - [idossha/nvim-pyenv-manager](https://github.com/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/stars/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/last-commit/idossha/nvim-pyenv-manager) ![](https://img.shields.io/github/commit-activity/y/idossha/nvim-pyenv-manager)
+- [wsacin/nvim-pyenv-loader](https://github.com/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/stars/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/last-commit/wsacin/nvim-pyenv-loader) ![](https://img.shields.io/github/commit-activity/y/wsacin/nvim-pyenv-loader)
 
 ### Stacktrace
 
@@ -187,6 +188,7 @@
 ### DataFrame
 
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
+- [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
 
 ### Pytorch
 

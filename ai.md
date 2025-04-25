@@ -5,6 +5,7 @@
 - [AI Coding](#ai-coding)
   * [OpenAI(ChatGPT)](#openaichatgpt)
     + [Codex](#codex)
+    + [Whisper](#whisper)
   * [Gemini](#gemini)
   * [Multi LLM](#multi-llm)
     + [mods](#mods)
@@ -129,6 +130,10 @@
 #### Codex
 
 - [johnseth97/codex.nvim](https://github.com/johnseth97/codex.nvim) ![](https://img.shields.io/github/stars/johnseth97/codex.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/codex.nvim)
+
+#### Whisper
+
+- [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
 
 ### Gemini
 
