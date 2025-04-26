@@ -78,6 +78,7 @@
 - [github-naresh/auto-fold-imports.nvim](https://github.com/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/stars/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/last-commit/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/github-naresh/auto-fold-imports.nvim)
 - [ewal/ember-altrel.nvim](https://github.com/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/stars/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/last-commit/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/commit-activity/y/ewal/ember-altrel.nvim)
 - [roycrippen4/webdev.nvim](https://github.com/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/stars/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/webdev.nvim)
+- [dimpu/import-size.nvim](https://github.com/dimpu/import-size.nvim) ![](https://img.shields.io/github/stars/dimpu/import-size.nvim) ![](https://img.shields.io/github/last-commit/dimpu/import-size.nvim) ![](https://img.shields.io/github/commit-activity/y/dimpu/import-size.nvim)
 
 ### string
 

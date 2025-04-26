@@ -126,6 +126,7 @@
 - [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
 - [niklaslorenz/code-assist.nvim](https://github.com/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/stars/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/last-commit/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/niklaslorenz/code-assist.nvim)
 - [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
+- [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 
 #### Codex
 

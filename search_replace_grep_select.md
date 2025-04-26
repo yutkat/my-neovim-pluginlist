@@ -177,6 +177,7 @@
 - [happy663/telescope-livegrep-history.nvim](https://github.com/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/stars/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/last-commit/happy663/telescope-livegrep-history.nvim) ![](https://img.shields.io/github/commit-activity/y/happy663/telescope-livegrep-history.nvim)
 - [MagerlinC/vsearch.nvim](https://github.com/MagerlinC/vsearch.nvim) ![](https://img.shields.io/github/stars/MagerlinC/vsearch.nvim) ![](https://img.shields.io/github/last-commit/MagerlinC/vsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/MagerlinC/vsearch.nvim)
 - [4thwithme/ss.nvim](https://github.com/4thwithme/ss.nvim) ![](https://img.shields.io/github/stars/4thwithme/ss.nvim) ![](https://img.shields.io/github/last-commit/4thwithme/ss.nvim) ![](https://img.shields.io/github/commit-activity/y/4thwithme/ss.nvim)
+- [Dreagen/search-with-globbing.nvim](https://github.com/Dreagen/search-with-globbing.nvim) ![](https://img.shields.io/github/stars/Dreagen/search-with-globbing.nvim) ![](https://img.shields.io/github/last-commit/Dreagen/search-with-globbing.nvim) ![](https://img.shields.io/github/commit-activity/y/Dreagen/search-with-globbing.nvim)
 
 ### AST (Semantic search)
 
