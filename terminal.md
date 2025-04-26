@@ -108,6 +108,7 @@
 - [cameron-wags/term.nvim](https://github.com/cameron-wags/term.nvim) ![](https://img.shields.io/github/stars/cameron-wags/term.nvim) ![](https://img.shields.io/github/last-commit/cameron-wags/term.nvim) ![](https://img.shields.io/github/commit-activity/y/cameron-wags/term.nvim)
 - [barkinunal/floaterminal.nvim](https://github.com/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/stars/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/barkinunal/floaterminal.nvim)
 - [amirrezaask/nvim-terminal](https://github.com/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/stars/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/last-commit/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/nvim-terminal)
+- [carldaws/surface.nvim](https://github.com/carldaws/surface.nvim) ![](https://img.shields.io/github/stars/carldaws/surface.nvim) ![](https://img.shields.io/github/last-commit/carldaws/surface.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/surface.nvim)
 
 ### Edit
 

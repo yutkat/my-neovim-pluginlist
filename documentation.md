@@ -389,6 +389,7 @@
 - [gabrielfruet/pandocking.nvim](https://github.com/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/stars/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/last-commit/gabrielfruet/pandocking.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielfruet/pandocking.nvim)
 - [calcu1on/ahoy.nvim](https://github.com/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/stars/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/last-commit/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/commit-activity/y/calcu1on/ahoy.nvim)
 - [smtucker/pandoc-this.nvim](https://github.com/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/stars/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/last-commit/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/commit-activity/y/smtucker/pandoc-this.nvim)
+- [pranphy/pamdex.nvim](https://github.com/pranphy/pamdex.nvim) ![](https://img.shields.io/github/stars/pranphy/pamdex.nvim) ![](https://img.shields.io/github/last-commit/pranphy/pamdex.nvim) ![](https://img.shields.io/github/commit-activity/y/pranphy/pamdex.nvim)
 
 ### Vimdoc
 
