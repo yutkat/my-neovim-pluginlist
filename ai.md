@@ -51,6 +51,7 @@
 - [Error Fix Support](#error-fix-support)
 - [OpenAI Review](#openai-review)
 - [Documentation](#documentation)
+- [Pair Programming](#pair-programming)
 - [log](#log)
 - [REPL](#repl)
 - [Writefull](#writefull)
@@ -449,6 +450,10 @@
 - [AdiY00/copy-tree.nvim](https://github.com/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/stars/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/last-commit/AdiY00/copy-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/AdiY00/copy-tree.nvim)
 - [rmerli/doc-gen.nvim](https://github.com/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/stars/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/last-commit/rmerli/doc-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/rmerli/doc-gen.nvim)
 - [BartSte/nvim-bartste-prompts](https://github.com/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/stars/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/last-commit/BartSte/nvim-bartste-prompts) ![](https://img.shields.io/github/commit-activity/y/BartSte/nvim-bartste-prompts)
+
+## Pair Programming
+
+- [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 
 ## log
 

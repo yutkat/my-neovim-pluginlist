@@ -10,6 +10,7 @@
     + [Docker](#docker)
       - [Docker Compose](#docker-compose)
   * [Subversion](#subversion)
+  * [Yandex Arcadia](#yandex-arcadia)
   * [dotenv](#dotenv)
   * [direnv](#direnv)
   * [asdf](#asdf)
@@ -145,6 +146,10 @@
 
 - [HugoBde/subversigns.nvim](https://github.com/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/stars/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/last-commit/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/commit-activity/y/HugoBde/subversigns.nvim)
 
+#### Yandex Arcadia
+
+- [segoon/arc-plug.nvim](https://github.com/segoon/arc-plug.nvim) ![](https://img.shields.io/github/stars/segoon/arc-plug.nvim) ![](https://img.shields.io/github/last-commit/segoon/arc-plug.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/arc-plug.nvim)
+
 #### dotenv
 
 - [ellisonleao/dotenv.nvim](https://github.com/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/stars/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/last-commit/ellisonleao/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/ellisonleao/dotenv.nvim)
@@ -260,6 +265,7 @@
 - [pgdanes/nug.nvim](https://github.com/pgdanes/nug.nvim) ![](https://img.shields.io/github/stars/pgdanes/nug.nvim) ![](https://img.shields.io/github/last-commit/pgdanes/nug.nvim) ![](https://img.shields.io/github/commit-activity/y/pgdanes/nug.nvim)
 - [abdulrahmanDev1/nuget.nvim](https://github.com/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/stars/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/last-commit/abdulrahmanDev1/nuget.nvim) ![](https://img.shields.io/github/commit-activity/y/abdulrahmanDev1/nuget.nvim)
 - [quffe/nvim-nuget](https://github.com/quffe/nvim-nuget) ![](https://img.shields.io/github/stars/quffe/nvim-nuget) ![](https://img.shields.io/github/last-commit/quffe/nvim-nuget) ![](https://img.shields.io/github/commit-activity/y/quffe/nvim-nuget)
+- [MonsieurTib/neonuget](https://github.com/MonsieurTib/neonuget) ![](https://img.shields.io/github/stars/MonsieurTib/neonuget) ![](https://img.shields.io/github/last-commit/MonsieurTib/neonuget) ![](https://img.shields.io/github/commit-activity/y/MonsieurTib/neonuget)
 
 #### ssh
 

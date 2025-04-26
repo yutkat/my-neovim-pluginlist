@@ -90,6 +90,7 @@
 
 - [dorage/ts-manual-import.nvim](https://github.com/dorage/ts-manual-import.nvim) ![](https://img.shields.io/github/stars/dorage/ts-manual-import.nvim) ![](https://img.shields.io/github/last-commit/dorage/ts-manual-import.nvim) ![](https://img.shields.io/github/commit-activity/y/dorage/ts-manual-import.nvim)
 - [mattpatterson94/fzf-lua-import.nvim](https://github.com/mattpatterson94/fzf-lua-import.nvim) ![](https://img.shields.io/github/stars/mattpatterson94/fzf-lua-import.nvim) ![](https://img.shields.io/github/last-commit/mattpatterson94/fzf-lua-import.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpatterson94/fzf-lua-import.nvim)
+- [dimpu/import-size.nvim](https://github.com/dimpu/import-size.nvim) ![](https://img.shields.io/github/stars/dimpu/import-size.nvim) ![](https://img.shields.io/github/last-commit/dimpu/import-size.nvim) ![](https://img.shields.io/github/commit-activity/y/dimpu/import-size.nvim)
 
 ### console.log
 
