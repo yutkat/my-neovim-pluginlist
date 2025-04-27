@@ -106,6 +106,7 @@
 ### Zed
 
 - [kogakure/export-to-zed.nvim](https://github.com/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/stars/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/last-commit/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/commit-activity/y/kogakure/export-to-zed.nvim)
+- [g0t4/zeta.nvim](https://github.com/g0t4/zeta.nvim) ![](https://img.shields.io/github/stars/g0t4/zeta.nvim) ![](https://img.shields.io/github/last-commit/g0t4/zeta.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/zeta.nvim)
 
 ### Desktop Integration
 

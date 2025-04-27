@@ -26,6 +26,7 @@
     + [windbg](#windbg)
     + [WSL](#wsl)
   * [Mac](#mac)
+    + [say](#say)
     + [Window Manager](#window-manager)
     + [iTerm](#iterm)
     + [input source](#input-source)
@@ -137,6 +138,10 @@
 - [chrisgrieser/alfred-neovim-utilities](https://github.com/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/stars/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/last-commit/chrisgrieser/alfred-neovim-utilities) ![](https://img.shields.io/github/commit-activity/y/chrisgrieser/alfred-neovim-utilities)
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
 - [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
+
+#### say
+
+- [runih/say.nvim](https://github.com/runih/say.nvim) ![](https://img.shields.io/github/stars/runih/say.nvim) ![](https://img.shields.io/github/last-commit/runih/say.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/say.nvim)
 
 #### Window Manager
 
