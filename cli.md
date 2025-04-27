@@ -24,6 +24,7 @@
   * [make](#make)
     + [just](#just)
     + [xmake](#xmake)
+    + [meson](#meson)
     + [xc](#xc)
   * [Bazel](#bazel)
   * [ripgrep](#ripgrep)
@@ -219,6 +220,10 @@
 ##### xmake
 
 - [Mythos-404/xmake.nvim](https://github.com/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/stars/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/last-commit/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mythos-404/xmake.nvim)
+
+##### meson
+
+- [SpikedPaladin/meson.nvim](https://github.com/SpikedPaladin/meson.nvim) ![](https://img.shields.io/github/stars/SpikedPaladin/meson.nvim) ![](https://img.shields.io/github/last-commit/SpikedPaladin/meson.nvim) ![](https://img.shields.io/github/commit-activity/y/SpikedPaladin/meson.nvim)
 
 ##### xc
 
