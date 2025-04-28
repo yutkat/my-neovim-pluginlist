@@ -7,6 +7,7 @@
 - [Unicode character](#unicode-character)
 - [Greek](#greek)
 - [Savian alphabet](#savian-alphabet)
+- [Superscript Subscript](#superscript-subscript)
 - [Icon](#icon)
   * [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -41,6 +42,10 @@
 ## Savian alphabet
 
 - [jecxjo/shavian.nvim](https://github.com/jecxjo/shavian.nvim) ![](https://img.shields.io/github/stars/jecxjo/shavian.nvim) ![](https://img.shields.io/github/last-commit/jecxjo/shavian.nvim) ![](https://img.shields.io/github/commit-activity/y/jecxjo/shavian.nvim)
+
+## Superscript Subscript
+
+- [HenrisHub/susu.nvim](https://github.com/HenrisHub/susu.nvim) ![](https://img.shields.io/github/stars/HenrisHub/susu.nvim) ![](https://img.shields.io/github/last-commit/HenrisHub/susu.nvim) ![](https://img.shields.io/github/commit-activity/y/HenrisHub/susu.nvim)
 
 ## Icon
 

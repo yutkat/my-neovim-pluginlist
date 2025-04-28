@@ -137,6 +137,7 @@
 - [ofirgall/open.nvim](https://github.com/ofirgall/open.nvim) ![](https://img.shields.io/github/stars/ofirgall/open.nvim) ![](https://img.shields.io/github/last-commit/ofirgall/open.nvim) ![](https://img.shields.io/github/commit-activity/y/ofirgall/open.nvim)
 - [zakissimo/hook.nvim](https://github.com/zakissimo/hook.nvim) ![](https://img.shields.io/github/stars/zakissimo/hook.nvim) ![](https://img.shields.io/github/last-commit/zakissimo/hook.nvim) ![](https://img.shields.io/github/commit-activity/y/zakissimo/hook.nvim)
 - [lorentzforces/rectify-buffers.nvim](https://github.com/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/stars/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/last-commit/lorentzforces/rectify-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/lorentzforces/rectify-buffers.nvim)
+- [vodchella/hodur.nvim](https://github.com/vodchella/hodur.nvim) ![](https://img.shields.io/github/stars/vodchella/hodur.nvim) ![](https://img.shields.io/github/last-commit/vodchella/hodur.nvim) ![](https://img.shields.io/github/commit-activity/y/vodchella/hodur.nvim)
 
 ##### recent file
 

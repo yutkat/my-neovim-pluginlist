@@ -7,6 +7,7 @@
   * [go list](#go-list)
   * [go run](#go-run)
   * [debug](#debug)
+  * [Completion](#completion)
   * [Test](#test)
     + [Test file](#test-file)
   * [Report](#report)
@@ -67,6 +68,10 @@
 ### debug
 
 - [goropikari/nvim-dap-golang](https://github.com/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-golang)
+
+### Completion
+
+- [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/stars/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/last-commit/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/commit-activity/y/samiulsami/cmp-go-deep)
 
 ### Test
 

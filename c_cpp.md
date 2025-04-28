@@ -60,6 +60,7 @@
 - [rossjaywill/insights.nvim](https://github.com/rossjaywill/insights.nvim) ![](https://img.shields.io/github/stars/rossjaywill/insights.nvim) ![](https://img.shields.io/github/last-commit/rossjaywill/insights.nvim) ![](https://img.shields.io/github/commit-activity/y/rossjaywill/insights.nvim)
 - [Dr-42/builder_cpp.nvim](https://github.com/Dr-42/builder_cpp.nvim) ![](https://img.shields.io/github/stars/Dr-42/builder_cpp.nvim) ![](https://img.shields.io/github/last-commit/Dr-42/builder_cpp.nvim) ![](https://img.shields.io/github/commit-activity/y/Dr-42/builder_cpp.nvim)
 - [skuzniar/nvim-cppgen](https://github.com/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/stars/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/last-commit/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/commit-activity/y/skuzniar/nvim-cppgen)
+- [erikbloodshed/cpp-tools.nvim](https://github.com/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/cpp-tools.nvim)
 
 ### Syntax
 

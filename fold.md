@@ -35,6 +35,7 @@
 - [walkingshamrock/foldpeek.nvim](https://github.com/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/foldpeek.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/foldpeek.nvim)
 - [TheLazyCat00/focus-nvim](https://github.com/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/focus-nvim)
 - [nicolas-martin/region-folding.nvim](https://github.com/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/stars/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/last-commit/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolas-martin/region-folding.nvim)
+- [theseifhassan/smartfolds.nvim](https://github.com/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/stars/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/last-commit/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/commit-activity/y/theseifhassan/smartfolds.nvim)
 
 ## Conceal
 
