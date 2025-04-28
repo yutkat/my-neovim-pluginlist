@@ -43,7 +43,6 @@
 
 ## Command Line UI
 
-- [folke/noice.nvim](https://github.com/folke/noice.nvim) ![](https://img.shields.io/github/stars/folke/noice.nvim) ![](https://img.shields.io/github/last-commit/folke/noice.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/noice.nvim)
 - [CriticalEdge/telescope-commandeer.nvim](https://github.com/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/stars/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/last-commit/CriticalEdge/telescope-commandeer.nvim) ![](https://img.shields.io/github/commit-activity/y/CriticalEdge/telescope-commandeer.nvim)
 - [ivanjermakov/cmdzero.nvim](https://github.com/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/cmdzero.nvim)
 - [aattoa/nvim-cmdfloat](https://github.com/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/stars/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/last-commit/aattoa/nvim-cmdfloat) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-cmdfloat)
