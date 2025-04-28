@@ -41,6 +41,7 @@
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 - [nvimdev/phoenix.nvim](https://github.com/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/stars/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/phoenix.nvim)
 - [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) ![](https://img.shields.io/github/stars/wsdjeg/nvim-completion) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-completion) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-completion)
+- [sweetboss12512/rbx-ui-autocomplete.nvim](https://github.com/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/rbx-ui-autocomplete.nvim)
 
 #### Made in Python
 

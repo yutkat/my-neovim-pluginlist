@@ -109,6 +109,7 @@
 - [ChausseBenjamin/dropship.nvim](https://github.com/ChausseBenjamin/dropship.nvim) ![](https://img.shields.io/github/stars/ChausseBenjamin/dropship.nvim) ![](https://img.shields.io/github/last-commit/ChausseBenjamin/dropship.nvim) ![](https://img.shields.io/github/commit-activity/y/ChausseBenjamin/dropship.nvim)
 - [vE5li/bookmarks.nvim](https://github.com/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/stars/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/bookmarks.nvim)
 - [leosmaia21/navigator.nvim](https://github.com/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/stars/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/navigator.nvim)
+- [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bookmarks.nvim)
 
 ### etc
 

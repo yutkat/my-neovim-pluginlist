@@ -80,6 +80,7 @@
 ### Implement
 
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/simpleCppTreesitterTools.nvim)
+- [erikbloodshed/cpp-tools.nvim](https://github.com/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/cpp-tools.nvim)
 
 #### Clang
 
