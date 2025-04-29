@@ -42,6 +42,7 @@
   * [git environment variable](#git-environment-variable)
   * [git ls-files](#git-ls-files)
   * [git jump](#git-jump)
+  * [git attributes](#git-attributes)
   * [Change](#change)
   * [flow](#flow)
   * [Wrapper](#wrapper)
@@ -356,6 +357,10 @@
 ### git jump
 
 - [ohainle/gitjump.nvim](https://github.com/ohainle/gitjump.nvim) ![](https://img.shields.io/github/stars/ohainle/gitjump.nvim) ![](https://img.shields.io/github/last-commit/ohainle/gitjump.nvim) ![](https://img.shields.io/github/commit-activity/y/ohainle/gitjump.nvim)
+
+### git attributes
+
+- [davidmh/gitattributes.nvim](https://github.com/davidmh/gitattributes.nvim) ![](https://img.shields.io/github/stars/davidmh/gitattributes.nvim) ![](https://img.shields.io/github/last-commit/davidmh/gitattributes.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/gitattributes.nvim)
 
 ### Change
 

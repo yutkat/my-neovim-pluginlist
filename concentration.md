@@ -87,6 +87,7 @@
 - [ryantbrown/mindful.nvim](https://github.com/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/stars/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/last-commit/ryantbrown/mindful.nvim) ![](https://img.shields.io/github/commit-activity/y/ryantbrown/mindful.nvim)
 - [kronning6/fringe-mode.nvim](https://github.com/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/stars/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/last-commit/kronning6/fringe-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kronning6/fringe-mode.nvim)
 - [tvendelin/minimalist.nvim](https://github.com/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/stars/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/last-commit/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/commit-activity/y/tvendelin/minimalist.nvim)
+- [nsantiago2719/zenzen.nvim](https://github.com/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/stars/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/last-commit/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/commit-activity/y/nsantiago2719/zenzen.nvim)
 
 ### Focus Mode
 
