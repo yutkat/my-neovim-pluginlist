@@ -74,6 +74,7 @@
 - [kkkkkhuang/simple-tree.nvim](https://github.com/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/stars/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/last-commit/kkkkkhuang/simple-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/kkkkkhuang/simple-tree.nvim)
 - [JanneSalokoski/olive.nvim](https://github.com/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/stars/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/last-commit/JanneSalokoski/olive.nvim) ![](https://img.shields.io/github/commit-activity/y/JanneSalokoski/olive.nvim)
 - [brianhuster/dir.nvim](https://github.com/brianhuster/dir.nvim) ![](https://img.shields.io/github/stars/brianhuster/dir.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/dir.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/dir.nvim)
+- [saccarosium/explorer.nvim](https://github.com/saccarosium/explorer.nvim) ![](https://img.shields.io/github/stars/saccarosium/explorer.nvim) ![](https://img.shields.io/github/last-commit/saccarosium/explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/saccarosium/explorer.nvim)
 
 ### gx
 

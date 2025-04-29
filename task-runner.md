@@ -172,6 +172,8 @@
 - [nexcov/compile-mode.nvim](https://github.com/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/stars/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/nexcov/compile-mode.nvim)
 - [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
 - [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
+- [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
+- [segoon/compile-commands-yamake.nvim](https://github.com/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/stars/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/last-commit/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/compile-commands-yamake.nvim)
 
 ### Auto detect style
 

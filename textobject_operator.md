@@ -72,6 +72,7 @@
 - [NStefan002/visual-surround.nvim](https://github.com/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/stars/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/visual-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/visual-surround.nvim)
 - [cz875/multichar-surround.nvim](https://github.com/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/stars/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/last-commit/cz875/multichar-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/cz875/multichar-surround.nvim)
 - [ricefordinr/yet-another-surround.nvim](https://github.com/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/stars/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/last-commit/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ricefordinr/yet-another-surround.nvim)
+- [cfung89/embrace.nvim](https://github.com/cfung89/embrace.nvim) ![](https://img.shields.io/github/stars/cfung89/embrace.nvim) ![](https://img.shields.io/github/last-commit/cfung89/embrace.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/embrace.nvim)
 
 ## Operator
 

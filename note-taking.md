@@ -161,6 +161,9 @@
 - [AnthonyAstige/todo.txt.nvim](https://github.com/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/stars/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/last-commit/AnthonyAstige/todo.txt.nvim) ![](https://img.shields.io/github/commit-activity/y/AnthonyAstige/todo.txt.nvim)
 - [LeoKingsCoast/tasks.nvim](https://github.com/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/stars/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/last-commit/LeoKingsCoast/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/LeoKingsCoast/tasks.nvim)
 - [adiprnm/neotodotxt.nvim](https://github.com/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/stars/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/last-commit/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/adiprnm/neotodotxt.nvim)
+- [Facu-Glo/nvim-todo-md](https://github.com/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/stars/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/last-commit/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/commit-activity/y/Facu-Glo/nvim-todo-md)
+- [TiWo2012/floatingTodo.nvim](https://github.com/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/stars/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/last-commit/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/commit-activity/y/TiWo2012/floatingTodo.nvim)
+- [qiekn/todolist.nvim](https://github.com/qiekn/todolist.nvim) ![](https://img.shields.io/github/stars/qiekn/todolist.nvim) ![](https://img.shields.io/github/last-commit/qiekn/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/todolist.nvim)
 
 #### Taskwarrior
 
