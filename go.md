@@ -122,6 +122,7 @@
 - [triarius/json2struct.nvim](https://github.com/triarius/json2struct.nvim) ![](https://img.shields.io/github/stars/triarius/json2struct.nvim) ![](https://img.shields.io/github/last-commit/triarius/json2struct.nvim) ![](https://img.shields.io/github/commit-activity/y/triarius/json2struct.nvim)
 - [devkvlt/go-tags.nvim](https://github.com/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/stars/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/last-commit/devkvlt/go-tags.nvim) ![](https://img.shields.io/github/commit-activity/y/devkvlt/go-tags.nvim)
 - [CaiJinKen/toolkit.nvim](https://github.com/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/stars/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/last-commit/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/CaiJinKen/toolkit.nvim)
+- [uga-rosa/convert_json_to_go_type.nvim](https://github.com/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/stars/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/convert_json_to_go_type.nvim)
 
 ### return
 

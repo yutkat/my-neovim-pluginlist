@@ -54,6 +54,8 @@
 - [ErPollo07/pman.nvim](https://github.com/ErPollo07/pman.nvim) ![](https://img.shields.io/github/stars/ErPollo07/pman.nvim) ![](https://img.shields.io/github/last-commit/ErPollo07/pman.nvim) ![](https://img.shields.io/github/commit-activity/y/ErPollo07/pman.nvim)
 - [LeeLaffan/workspacers.nvim](https://github.com/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/stars/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/last-commit/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/commit-activity/y/LeeLaffan/workspacers.nvim)
 - [jakobwesthoff/project-fzf.nvim](https://github.com/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/project-fzf.nvim)
+- [simonfarkas/tick.nvim](https://github.com/simonfarkas/tick.nvim) ![](https://img.shields.io/github/stars/simonfarkas/tick.nvim) ![](https://img.shields.io/github/last-commit/simonfarkas/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/simonfarkas/tick.nvim)
+- [TiWo2012/floatingTodo.nvim](https://github.com/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/stars/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/last-commit/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/commit-activity/y/TiWo2012/floatingTodo.nvim)
 
 #### Project Root Detector
 

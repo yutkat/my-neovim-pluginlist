@@ -375,6 +375,7 @@
 - [ergoproxy623/nvim-css-angular](https://github.com/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-css-angular) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-css-angular)
 - [konstantindenerz/ng-switch.nvim](https://github.com/konstantindenerz/ng-switch.nvim) ![](https://img.shields.io/github/stars/konstantindenerz/ng-switch.nvim) ![](https://img.shields.io/github/last-commit/konstantindenerz/ng-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/konstantindenerz/ng-switch.nvim)
 - [vijhhh2/angular-switch.nvim](https://github.com/vijhhh2/angular-switch.nvim) ![](https://img.shields.io/github/stars/vijhhh2/angular-switch.nvim) ![](https://img.shields.io/github/last-commit/vijhhh2/angular-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/vijhhh2/angular-switch.nvim)
+- [florianbx/ng-croissant](https://github.com/florianbx/ng-croissant) ![](https://img.shields.io/github/stars/florianbx/ng-croissant) ![](https://img.shields.io/github/last-commit/florianbx/ng-croissant) ![](https://img.shields.io/github/commit-activity/y/florianbx/ng-croissant)
 
 ### Svelte
 
