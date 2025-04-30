@@ -36,6 +36,7 @@
   * [Bedrock](#bedrock)
   * [Blink AI](#blink-ai)
   * [tgpt](#tgpt)
+  * [LiteLLM](#litellm)
   * [lsp-ai](#lsp-ai)
   * [LMStudio](#lmstudio)
   * [Machine Learning](#machine-learning)
@@ -363,6 +364,11 @@
 ### tgpt
 
 - [RayenMnif/tgpt.nvim](https://github.com/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/stars/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/last-commit/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/RayenMnif/tgpt.nvim)
+
+
+### LiteLLM
+
+- [mattjmcnaughton/llm-chat.nvim](https://github.com/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/stars/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/last-commit/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/mattjmcnaughton/llm-chat.nvim)
 
 ### lsp-ai
 

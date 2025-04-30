@@ -191,6 +191,7 @@
 - [vi013t/input.nvim](https://github.com/vi013t/input.nvim) ![](https://img.shields.io/github/stars/vi013t/input.nvim) ![](https://img.shields.io/github/last-commit/vi013t/input.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/input.nvim)
 - [mistweaverco/uzuri.nvim](https://github.com/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/stars/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/uzuri.nvim)
 - [erikbloodshed/floating-input.nvim](https://github.com/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/floating-input.nvim)
+- [nikola-vukicevic/util-input-window.nvim](https://github.com/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/stars/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/last-commit/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/commit-activity/y/nikola-vukicevic/util-input-window.nvim)
 
 ### Popup
 
@@ -393,3 +394,4 @@
 - [Allaman/utils.nvim](https://github.com/Allaman/utils.nvim) ![](https://img.shields.io/github/stars/Allaman/utils.nvim) ![](https://img.shields.io/github/last-commit/Allaman/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/utils.nvim)
 - [snuffish/utils.nvim](https://github.com/snuffish/utils.nvim) ![](https://img.shields.io/github/stars/snuffish/utils.nvim) ![](https://img.shields.io/github/last-commit/snuffish/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/snuffish/utils.nvim)
 - [Grub4K/glib.nvim](https://github.com/Grub4K/glib.nvim) ![](https://img.shields.io/github/stars/Grub4K/glib.nvim) ![](https://img.shields.io/github/last-commit/Grub4K/glib.nvim) ![](https://img.shields.io/github/commit-activity/y/Grub4K/glib.nvim)
+- [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
