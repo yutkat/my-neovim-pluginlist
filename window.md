@@ -41,6 +41,7 @@
 - [goropikari/window-selector.nvim](https://github.com/goropikari/window-selector.nvim) ![](https://img.shields.io/github/stars/goropikari/window-selector.nvim) ![](https://img.shields.io/github/last-commit/goropikari/window-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/window-selector.nvim)
 - [hrsh7th/nvim-swm](https://github.com/hrsh7th/nvim-swm) ![](https://img.shields.io/github/stars/hrsh7th/nvim-swm) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-swm) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-swm)
 - [nicholascross/displace.nvim](https://github.com/nicholascross/displace.nvim) ![](https://img.shields.io/github/stars/nicholascross/displace.nvim) ![](https://img.shields.io/github/last-commit/nicholascross/displace.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholascross/displace.nvim)
+- [emptyengineering/nvim-window-wrapper](https://github.com/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/stars/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/last-commit/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/commit-activity/y/emptyengineering/nvim-window-wrapper)
 
 ### Window Management
 

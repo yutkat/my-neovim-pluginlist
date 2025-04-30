@@ -82,6 +82,9 @@
 - [Bruno-BRG/terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/stars/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/last-commit/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Bruno-BRG/terminal.nvim)
 - [franpfeiffer/term2.nvim](https://github.com/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/term2.nvim)
 - [dmkraych/Quickterm.nvim](https://github.com/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/stars/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/last-commit/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/dmkraych/Quickterm.nvim)
+- [ShiftyGames/shifty-terminals.nvim](https://github.com/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/stars/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/last-commit/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/ShiftyGames/shifty-terminals.nvim)
+- [bassamsdata/neaterminal.nvim](https://github.com/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/stars/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/neaterminal.nvim)
+- [phanen/mterm.nvim](https://github.com/phanen/mterm.nvim) ![](https://img.shields.io/github/stars/phanen/mterm.nvim) ![](https://img.shields.io/github/last-commit/phanen/mterm.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mterm.nvim)
 
 ### Open
 
@@ -126,6 +129,7 @@
 ### Terminal mode
 
 - [JefferyBoy/stay_mode.nvim](https://github.com/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/stay_mode.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/stay_mode.nvim)
+- [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
 
 ### External terminal
 

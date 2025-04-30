@@ -163,6 +163,7 @@
 - [adiprnm/neotodotxt.nvim](https://github.com/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/stars/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/last-commit/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/adiprnm/neotodotxt.nvim)
 - [Facu-Glo/nvim-todo-md](https://github.com/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/stars/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/last-commit/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/commit-activity/y/Facu-Glo/nvim-todo-md)
 - [qiekn/todolist.nvim](https://github.com/qiekn/todolist.nvim) ![](https://img.shields.io/github/stars/qiekn/todolist.nvim) ![](https://img.shields.io/github/last-commit/qiekn/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/todolist.nvim)
+- [cristiandelahooz/todo.nvim](https://github.com/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/stars/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/last-commit/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/cristiandelahooz/todo.nvim)
 
 #### Taskwarrior
 
@@ -402,4 +403,5 @@
 - [MikeDupree/nvim-notes](https://github.com/MikeDupree/nvim-notes) ![](https://img.shields.io/github/stars/MikeDupree/nvim-notes) ![](https://img.shields.io/github/last-commit/MikeDupree/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/MikeDupree/nvim-notes)
 - [oh-my-bug/quick-notes.nvim](https://github.com/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/stars/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/oh-my-bug/quick-notes.nvim)
 - [nrednav/compendium.nvim](https://github.com/nrednav/compendium.nvim) ![](https://img.shields.io/github/stars/nrednav/compendium.nvim) ![](https://img.shields.io/github/last-commit/nrednav/compendium.nvim) ![](https://img.shields.io/github/commit-activity/y/nrednav/compendium.nvim)
+- [dpi0/nee.nvim](https://github.com/dpi0/nee.nvim) ![](https://img.shields.io/github/stars/dpi0/nee.nvim) ![](https://img.shields.io/github/last-commit/dpi0/nee.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/nee.nvim)
 - [Forest-nvim/maple.nvim](https://github.com/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/stars/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/last-commit/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/commit-activity/y/Forest-nvim/maple.nvim)

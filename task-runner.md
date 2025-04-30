@@ -127,6 +127,7 @@
 - [tsurumi-yizhou/build.nvim](https://github.com/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/build.nvim)
 - [vieitesss/command.nvim](https://github.com/vieitesss/command.nvim) ![](https://img.shields.io/github/stars/vieitesss/command.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/command.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/command.nvim)
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
+- [lefinnok/jobcontrol.nvim](https://github.com/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/stars/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/last-commit/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/lefinnok/jobcontrol.nvim)
 
 #### Shell
 

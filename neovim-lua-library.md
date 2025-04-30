@@ -191,6 +191,7 @@
 - [vi013t/input.nvim](https://github.com/vi013t/input.nvim) ![](https://img.shields.io/github/stars/vi013t/input.nvim) ![](https://img.shields.io/github/last-commit/vi013t/input.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/input.nvim)
 - [mistweaverco/uzuri.nvim](https://github.com/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/stars/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/uzuri.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/uzuri.nvim)
 - [erikbloodshed/floating-input.nvim](https://github.com/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/floating-input.nvim)
+- [nikola-vukicevic/util-input-window.nvim](https://github.com/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/stars/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/last-commit/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/commit-activity/y/nikola-vukicevic/util-input-window.nvim)
 
 ### Popup
 
