@@ -163,6 +163,7 @@
 - [adiprnm/neotodotxt.nvim](https://github.com/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/stars/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/last-commit/adiprnm/neotodotxt.nvim) ![](https://img.shields.io/github/commit-activity/y/adiprnm/neotodotxt.nvim)
 - [Facu-Glo/nvim-todo-md](https://github.com/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/stars/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/last-commit/Facu-Glo/nvim-todo-md) ![](https://img.shields.io/github/commit-activity/y/Facu-Glo/nvim-todo-md)
 - [qiekn/todolist.nvim](https://github.com/qiekn/todolist.nvim) ![](https://img.shields.io/github/stars/qiekn/todolist.nvim) ![](https://img.shields.io/github/last-commit/qiekn/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/todolist.nvim)
+- [cristiandelahooz/todo.nvim](https://github.com/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/stars/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/last-commit/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/cristiandelahooz/todo.nvim)
 
 #### Taskwarrior
 

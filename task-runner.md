@@ -51,6 +51,7 @@
 - [jjocram/nvim-run](https://github.com/jjocram/nvim-run) ![](https://img.shields.io/github/stars/jjocram/nvim-run) ![](https://img.shields.io/github/last-commit/jjocram/nvim-run) ![](https://img.shields.io/github/commit-activity/y/jjocram/nvim-run)
 - [moffgato/taskfile.nvim](https://github.com/moffgato/taskfile.nvim) ![](https://img.shields.io/github/stars/moffgato/taskfile.nvim) ![](https://img.shields.io/github/last-commit/moffgato/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/moffgato/taskfile.nvim)
 - [Sergey-Polishchenko/tasker.nvim](https://github.com/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/stars/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/last-commit/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/Sergey-Polishchenko/tasker.nvim)
+- [lefinnok/jobcontrol.nvim](https://github.com/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/stars/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/last-commit/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/lefinnok/jobcontrol.nvim)
 
 #### TOML
 

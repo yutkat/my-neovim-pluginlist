@@ -130,6 +130,7 @@
 
 - [mskelton/local-yokel.nvim](https://github.com/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/stars/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/last-commit/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/local-yokel.nvim)
 - [ZKAW/telescope-create-file.nvim](https://github.com/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/stars/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/last-commit/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/commit-activity/y/ZKAW/telescope-create-file.nvim)
+- [dpi0/nee.nvim](https://github.com/dpi0/nee.nvim) ![](https://img.shields.io/github/stars/dpi0/nee.nvim) ![](https://img.shields.io/github/last-commit/dpi0/nee.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/nee.nvim)
 
 #### open
 
@@ -275,4 +276,5 @@
 
 - [addisonbeck/where-am-i.nvim](https://github.com/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/stars/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/last-commit/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/commit-activity/y/addisonbeck/where-am-i.nvim)
 - [adriankarlen/buffed.nvim](https://github.com/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/stars/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/buffed.nvim)
+- [crixuamg/visual-complexity.nvim](https://github.com/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/stars/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/last-commit/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/commit-activity/y/crixuamg/visual-complexity.nvim)
 

@@ -6,6 +6,7 @@
   * [Terminal Enhancement](#terminal-enhancement)
   * [Open](#open)
   * [Edit](#edit)
+  * [Save](#save)
   * [Mapping](#mapping)
   * [Jump](#jump)
   * [Terminal mode](#terminal-mode)
@@ -82,6 +83,7 @@
 - [Bruno-BRG/terminal.nvim](https://github.com/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/stars/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/last-commit/Bruno-BRG/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/Bruno-BRG/terminal.nvim)
 - [franpfeiffer/term2.nvim](https://github.com/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/term2.nvim)
 - [dmkraych/Quickterm.nvim](https://github.com/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/stars/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/last-commit/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/dmkraych/Quickterm.nvim)
+- [bassamsdata/neaterminal.nvim](https://github.com/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/stars/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/neaterminal.nvim)
 
 ### Open
 
@@ -109,11 +111,16 @@
 - [barkinunal/floaterminal.nvim](https://github.com/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/stars/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/barkinunal/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/barkinunal/floaterminal.nvim)
 - [amirrezaask/nvim-terminal](https://github.com/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/stars/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/last-commit/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/nvim-terminal)
 - [carldaws/surface.nvim](https://github.com/carldaws/surface.nvim) ![](https://img.shields.io/github/stars/carldaws/surface.nvim) ![](https://img.shields.io/github/last-commit/carldaws/surface.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/surface.nvim)
+- [ShiftyGames/shifty-terminals.nvim](https://github.com/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/stars/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/last-commit/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/ShiftyGames/shifty-terminals.nvim)
 
 ### Edit
 
 - [chomosuke/term-edit.nvim](https://github.com/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/stars/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/term-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/term-edit.nvim)
 - [xb-bx/editable-term.nvim](https://github.com/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/stars/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/last-commit/xb-bx/editable-term.nvim) ![](https://img.shields.io/github/commit-activity/y/xb-bx/editable-term.nvim)
+
+### Save
+
+- [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
 
 ### Mapping
 

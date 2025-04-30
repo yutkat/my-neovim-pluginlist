@@ -8,6 +8,7 @@
     + [Nix](#nix)
     + [C#](#c%23)
       - [Compile](#compile)
+      - [disassembler](#disassembler)
       - [.NET](#net)
       - [ASP.NET](#aspnet)
     + [Kotlin](#kotlin)
@@ -160,6 +161,10 @@
 ##### Compile
 
 - [ADIX7/compiler.nvim](https://github.com/ADIX7/compiler.nvim) ![](https://img.shields.io/github/stars/ADIX7/compiler.nvim) ![](https://img.shields.io/github/last-commit/ADIX7/compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/ADIX7/compiler.nvim)
+
+##### disassembler
+
+- [ArnauPrat/nvim-csharp-dasm](https://github.com/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/stars/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/last-commit/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/commit-activity/y/ArnauPrat/nvim-csharp-dasm)
 
 ##### .NET
 

@@ -7,6 +7,7 @@
     + [Markdown link](#markdown-link)
     + [Markdown header](#markdown-header)
       - [Title explorer](#title-explorer)
+      - [Section](#section)
     + [toc](#toc)
     + [split file](#split-file)
     + [Calculation](#calculation)
@@ -120,6 +121,10 @@
 ##### Title explorer
 
 - [zKurisu/markdown-tree.nvim](https://github.com/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/stars/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/markdown-tree.nvim)
+
+##### Section
+
+- [srackham/markdown-blocks.nvim](https://github.com/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/stars/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/last-commit/srackham/markdown-blocks.nvim) ![](https://img.shields.io/github/commit-activity/y/srackham/markdown-blocks.nvim)
 
 #### toc
 
