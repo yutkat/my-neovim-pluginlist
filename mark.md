@@ -49,6 +49,7 @@
 - [CWood-sdf/melon.nvim](https://github.com/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/melon.nvim)
 - [vanaigr/mark-signs.nvim](https://github.com/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/stars/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/mark-signs.nvim)
 - [insanum/mark-signs.nvim](https://github.com/insanum/mark-signs.nvim) ![](https://img.shields.io/github/stars/insanum/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/insanum/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/insanum/mark-signs.nvim)
+- [edte/marks.nvim](https://github.com/edte/marks.nvim) ![](https://img.shields.io/github/stars/edte/marks.nvim) ![](https://img.shields.io/github/last-commit/edte/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/marks.nvim)
 
 ### mark note
 
@@ -110,6 +111,7 @@
 - [vE5li/bookmarks.nvim](https://github.com/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/stars/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/vE5li/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/bookmarks.nvim)
 - [leosmaia21/navigator.nvim](https://github.com/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/stars/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/navigator.nvim)
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bookmarks.nvim)
+- [edte/bookmarks.nvim](https://github.com/edte/bookmarks.nvim) ![](https://img.shields.io/github/stars/edte/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/edte/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/bookmarks.nvim)
 
 ### etc
 

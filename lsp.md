@@ -203,6 +203,7 @@
 - [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/boo.nvim)
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
+- [edte/lsp-hover.nvim](https://github.com/edte/lsp-hover.nvim) ![](https://img.shields.io/github/stars/edte/lsp-hover.nvim) ![](https://img.shields.io/github/last-commit/edte/lsp-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/lsp-hover.nvim)
 
 #### Formatting
 
@@ -232,6 +233,7 @@
 - [phenax/nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/stars/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/last-commit/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/commit-activity/y/phenax/nvim-extra-codelens)
 - [SvSchen/clh.nvim](https://github.com/SvSchen/clh.nvim) ![](https://img.shields.io/github/stars/SvSchen/clh.nvim) ![](https://img.shields.io/github/last-commit/SvSchen/clh.nvim) ![](https://img.shields.io/github/commit-activity/y/SvSchen/clh.nvim)
 - [v1nh1shungry/error-lens.nvim](https://github.com/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/error-lens.nvim)
+- [edte/codelens.nvim](https://github.com/edte/codelens.nvim) ![](https://img.shields.io/github/stars/edte/codelens.nvim) ![](https://img.shields.io/github/last-commit/edte/codelens.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/codelens.nvim)
 
 ##### LinkedEditingRange
 

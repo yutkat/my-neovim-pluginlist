@@ -28,6 +28,7 @@
 - [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) ![](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim) ![](https://img.shields.io/github/commit-activity/y/quolpr/quicktest.nvim)
 - [fcoury/vial.nvim](https://github.com/fcoury/vial.nvim) ![](https://img.shields.io/github/stars/fcoury/vial.nvim) ![](https://img.shields.io/github/last-commit/fcoury/vial.nvim) ![](https://img.shields.io/github/commit-activity/y/fcoury/vial.nvim)
 - [LiXuanqi/testx.nvim](https://github.com/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/testx.nvim)
+- [zkucekovic/tdd.nvim](https://github.com/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/stars/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/last-commit/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/commit-activity/y/zkucekovic/tdd.nvim)
 
 ### Test file
 

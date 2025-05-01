@@ -20,6 +20,7 @@
 <!-- tocstop -->
 
 ## Plugin Manager
+- [chrisakakay/spm.nvim](https://github.com/chrisakakay/spm.nvim) ![](https://img.shields.io/github/stars/chrisakakay/spm.nvim) ![](https://img.shields.io/github/last-commit/chrisakakay/spm.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisakakay/spm.nvim)
 
 ### Add runtime path (vim-plug like)
 
