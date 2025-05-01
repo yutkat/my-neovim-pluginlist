@@ -9,6 +9,7 @@
 - [Breadcrumbs](#breadcrumbs)
 - [Function](#function)
 - [Code Block Separater](#code-block-separater)
+- [Code visualize](#code-visualize)
 
 <!-- tocstop -->
 
@@ -66,3 +67,7 @@
 
 ### Code Block Separater
 
+
+### Code visualize
+
+- [dundalek/bloat.nvim](https://github.com/dundalek/bloat.nvim) ![](https://img.shields.io/github/stars/dundalek/bloat.nvim) ![](https://img.shields.io/github/last-commit/dundalek/bloat.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/bloat.nvim)

@@ -16,6 +16,7 @@
     + [Code action](#code-action)
     + [Hint](#hint)
     + [Hover Doc](#hover-doc)
+      - [Hover info](#hover-info)
     + [Formatting](#formatting)
     + [Symbol](#symbol)
     + [Rename](#rename)
@@ -203,6 +204,11 @@
 - [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/boo.nvim)
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
+
+##### Hover info
+
+- [edte/lsp-hover.nvim](https://github.com/edte/lsp-hover.nvim) ![](https://img.shields.io/github/stars/edte/lsp-hover.nvim) ![](https://img.shields.io/github/last-commit/edte/lsp-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/lsp-hover.nvim)
+- [edte/codelens.nvim](https://github.com/edte/codelens.nvim) ![](https://img.shields.io/github/stars/edte/codelens.nvim) ![](https://img.shields.io/github/last-commit/edte/codelens.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/codelens.nvim)
 
 #### Formatting
 

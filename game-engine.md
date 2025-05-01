@@ -22,6 +22,7 @@
 - [nagaohiroki/unity.nvim](https://github.com/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/stars/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/last-commit/nagaohiroki/unity.nvim) ![](https://img.shields.io/github/commit-activity/y/nagaohiroki/unity.nvim)
 - [Erifirin/unity-dap.nvim](https://github.com/Erifirin/unity-dap.nvim) ![](https://img.shields.io/github/stars/Erifirin/unity-dap.nvim) ![](https://img.shields.io/github/last-commit/Erifirin/unity-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Erifirin/unity-dap.nvim)
 - [apyra/nvim-unity-handle](https://github.com/apyra/nvim-unity-handle) ![](https://img.shields.io/github/stars/apyra/nvim-unity-handle) ![](https://img.shields.io/github/last-commit/apyra/nvim-unity-handle) ![](https://img.shields.io/github/commit-activity/y/apyra/nvim-unity-handle)
+- [mbwilding/UnrealEngine.nvim](https://github.com/mbwilding/UnrealEngine.nvim) ![](https://img.shields.io/github/stars/mbwilding/UnrealEngine.nvim) ![](https://img.shields.io/github/last-commit/mbwilding/UnrealEngine.nvim) ![](https://img.shields.io/github/commit-activity/y/mbwilding/UnrealEngine.nvim)
 
 ### Unreal
 

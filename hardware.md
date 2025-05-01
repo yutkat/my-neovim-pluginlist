@@ -20,6 +20,7 @@
     + [LED](#led)
   * [Embedded Software](#embedded-software)
     + [Arduino](#arduino)
+    + [ESP32](#esp32)
     + [FlipperZero](#flipperzero)
     + [WPILib](#wpilib)
     + [Analyzer4D](#analyzer4d)
@@ -106,6 +107,10 @@
 
 - [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)
 - [ctorney/arduino-tools.nvim](https://github.com/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/stars/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/last-commit/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctorney/arduino-tools.nvim)
+
+#### ESP32
+
+- [Aietes/esp32.nvim](https://github.com/Aietes/esp32.nvim) ![](https://img.shields.io/github/stars/Aietes/esp32.nvim) ![](https://img.shields.io/github/last-commit/Aietes/esp32.nvim) ![](https://img.shields.io/github/commit-activity/y/Aietes/esp32.nvim)
 
 #### FlipperZero
 
