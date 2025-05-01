@@ -192,7 +192,6 @@
 
 ### Judaism
 
-- [sammyshear/drash.nvim](https://github.com/sammyshear/drash.nvim) ![](https://img.shields.io/github/stars/sammyshear/drash.nvim) ![](https://img.shields.io/github/last-commit/sammyshear/drash.nvim) ![](https://img.shields.io/github/commit-activity/y/sammyshear/drash.nvim)
 - [ngorden/lectio.nvim](https://github.com/ngorden/lectio.nvim) ![](https://img.shields.io/github/stars/ngorden/lectio.nvim) ![](https://img.shields.io/github/last-commit/ngorden/lectio.nvim) ![](https://img.shields.io/github/commit-activity/y/ngorden/lectio.nvim)
 - [awesomegeek/prayertime.nvim](https://github.com/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/stars/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/last-commit/awesomegeek/prayertime.nvim) ![](https://img.shields.io/github/commit-activity/y/awesomegeek/prayertime.nvim)
 - [sammyshear/sefaria.nvim](https://github.com/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/stars/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/last-commit/sammyshear/sefaria.nvim) ![](https://img.shields.io/github/commit-activity/y/sammyshear/sefaria.nvim)
