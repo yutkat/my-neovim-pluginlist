@@ -5,6 +5,7 @@
 - [Background](#background)
   * [Switch theme](#switch-theme)
   * [Transparency](#transparency)
+  * [Wallpaper](#wallpaper)
 
 <!-- tocstop -->
 
@@ -27,3 +28,7 @@
 
 - [IniyanKanmani/term-transparency.nvim](https://github.com/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/term-transparency.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/term-transparency.nvim)
 - [hotuansang96/transparent.nvim](https://github.com/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/stars/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/last-commit/hotuansang96/transparent.nvim) ![](https://img.shields.io/github/commit-activity/y/hotuansang96/transparent.nvim)
+
+### Wallpaper
+
+- [Leonardo-Luz/wallpaper.nvim](https://github.com/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/wallpaper.nvim)
