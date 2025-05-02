@@ -364,6 +364,7 @@
 ## Completion
 
 - [hrsh7th/nvim-cmp-kit](https://github.com/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp-kit)
+- [edte/cmp-go-pkgs.nvim](https://github.com/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/stars/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/last-commit/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/cmp-go-pkgs.nvim)
 
 ## Markdown
 

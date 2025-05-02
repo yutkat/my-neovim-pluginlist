@@ -53,6 +53,7 @@
 - [Azpect3120/gomon.nvim](https://github.com/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/stars/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/last-commit/Azpect3120/gomon.nvim) ![](https://img.shields.io/github/commit-activity/y/Azpect3120/gomon.nvim)
 - [jocades/go-tools.nvim](https://github.com/jocades/go-tools.nvim) ![](https://img.shields.io/github/stars/jocades/go-tools.nvim) ![](https://img.shields.io/github/last-commit/jocades/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/jocades/go-tools.nvim)
 - [Axot017/golang-tools.nvim](https://github.com/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/stars/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/last-commit/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/golang-tools.nvim)
+- [edte/more-go.nvim](https://github.com/edte/more-go.nvim) ![](https://img.shields.io/github/stars/edte/more-go.nvim) ![](https://img.shields.io/github/last-commit/edte/more-go.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/more-go.nvim)
 
 ### gofmt
 

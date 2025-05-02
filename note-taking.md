@@ -269,6 +269,7 @@
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
+- [michaelschleiss/scratchpad.nvim](https://github.com/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/stars/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelschleiss/scratchpad.nvim)
 
 ### inline note
 
