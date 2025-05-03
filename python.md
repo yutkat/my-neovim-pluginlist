@@ -189,6 +189,7 @@
 
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
 - [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
+- [JozefRivest/positron-viewer.nvim](https://github.com/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/stars/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/last-commit/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/JozefRivest/positron-viewer.nvim)
 
 ### Pytorch
 
