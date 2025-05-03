@@ -165,6 +165,7 @@
 - [qiekn/todolist.nvim](https://github.com/qiekn/todolist.nvim) ![](https://img.shields.io/github/stars/qiekn/todolist.nvim) ![](https://img.shields.io/github/last-commit/qiekn/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/todolist.nvim)
 - [cristiandelahooz/todo.nvim](https://github.com/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/stars/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/last-commit/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/cristiandelahooz/todo.nvim)
 - [nonelement/floatingtodo.nvim](https://github.com/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/stars/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/nonelement/floatingtodo.nvim)
+- [Flokkq/todo.nvim](https://github.com/Flokkq/todo.nvim) ![](https://img.shields.io/github/stars/Flokkq/todo.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/todo.nvim)
 
 #### Taskwarrior
 

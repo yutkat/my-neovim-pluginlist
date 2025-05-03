@@ -65,6 +65,7 @@
 - [Jaehaks/last-session.nvim](https://github.com/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/stars/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/last-session.nvim)
 - [cdmill/sesh.nvim](https://github.com/cdmill/sesh.nvim) ![](https://img.shields.io/github/stars/cdmill/sesh.nvim) ![](https://img.shields.io/github/last-commit/cdmill/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/sesh.nvim)
 - [Akutchi/session.nvim](https://github.com/Akutchi/session.nvim) ![](https://img.shields.io/github/stars/Akutchi/session.nvim) ![](https://img.shields.io/github/last-commit/Akutchi/session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akutchi/session.nvim)
+- [risav68111/retain.nvim](https://github.com/risav68111/retain.nvim) ![](https://img.shields.io/github/stars/risav68111/retain.nvim) ![](https://img.shields.io/github/last-commit/risav68111/retain.nvim) ![](https://img.shields.io/github/commit-activity/y/risav68111/retain.nvim)
 
 ### Session Selector
 

@@ -113,6 +113,7 @@
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/auto-dark-mode.nvim)
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/stars/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/last-commit/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/notifications.nvim)
+- [cskeeters/libnotify.nvim](https://github.com/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/stars/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/libnotify.nvim)
 
 ### Blockchain
 
