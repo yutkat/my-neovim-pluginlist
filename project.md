@@ -57,6 +57,7 @@
 - [simonfarkas/tick.nvim](https://github.com/simonfarkas/tick.nvim) ![](https://img.shields.io/github/stars/simonfarkas/tick.nvim) ![](https://img.shields.io/github/last-commit/simonfarkas/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/simonfarkas/tick.nvim)
 - [TiWo2012/floatingTodo.nvim](https://github.com/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/stars/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/last-commit/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/commit-activity/y/TiWo2012/floatingTodo.nvim)
 - [chrisakakay/spm.nvim](https://github.com/chrisakakay/spm.nvim) ![](https://img.shields.io/github/stars/chrisakakay/spm.nvim) ![](https://img.shields.io/github/last-commit/chrisakakay/spm.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisakakay/spm.nvim)
+- [aubs-dev/hopper.nvim](https://github.com/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/stars/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/hopper.nvim)
 
 #### Project Root Detector
 

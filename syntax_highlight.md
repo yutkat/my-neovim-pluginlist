@@ -218,6 +218,7 @@
 - [EmilOhlsson/highlighter.nvim](https://github.com/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/stars/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/last-commit/EmilOhlsson/highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/EmilOhlsson/highlighter.nvim)
 - [utubo/hlpairs.nvim](https://github.com/utubo/hlpairs.nvim) ![](https://img.shields.io/github/stars/utubo/hlpairs.nvim) ![](https://img.shields.io/github/last-commit/utubo/hlpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/utubo/hlpairs.nvim)
 - [saliola/accentuate.nvim](https://github.com/saliola/accentuate.nvim) ![](https://img.shields.io/github/stars/saliola/accentuate.nvim) ![](https://img.shields.io/github/last-commit/saliola/accentuate.nvim) ![](https://img.shields.io/github/commit-activity/y/saliola/accentuate.nvim)
+- [hamidi-dev/kaleidosearch.nvim](https://github.com/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/kaleidosearch.nvim)
 
 ### Current block highlight
 

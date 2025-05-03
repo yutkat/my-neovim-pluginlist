@@ -178,6 +178,7 @@
 - [samsze0/notifier.nvim](https://github.com/samsze0/notifier.nvim) ![](https://img.shields.io/github/stars/samsze0/notifier.nvim) ![](https://img.shields.io/github/last-commit/samsze0/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/notifier.nvim)
 - [d1agnoze/noti.nvim](https://github.com/d1agnoze/noti.nvim) ![](https://img.shields.io/github/stars/d1agnoze/noti.nvim) ![](https://img.shields.io/github/last-commit/d1agnoze/noti.nvim) ![](https://img.shields.io/github/commit-activity/y/d1agnoze/noti.nvim)
 - [wsdjeg/notify.nvim](https://github.com/wsdjeg/notify.nvim) ![](https://img.shields.io/github/stars/wsdjeg/notify.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/notify.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/notify.nvim)
+- [cskeeters/libnotify.nvim](https://github.com/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/stars/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/libnotify.nvim)
 
 ### vim.ui.select/vim.ui.input
 
@@ -395,3 +396,4 @@
 - [snuffish/utils.nvim](https://github.com/snuffish/utils.nvim) ![](https://img.shields.io/github/stars/snuffish/utils.nvim) ![](https://img.shields.io/github/last-commit/snuffish/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/snuffish/utils.nvim)
 - [Grub4K/glib.nvim](https://github.com/Grub4K/glib.nvim) ![](https://img.shields.io/github/stars/Grub4K/glib.nvim) ![](https://img.shields.io/github/last-commit/Grub4K/glib.nvim) ![](https://img.shields.io/github/commit-activity/y/Grub4K/glib.nvim)
 - [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
+- [aubs-dev/NLIB.nvim](https://github.com/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/stars/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/NLIB.nvim)
