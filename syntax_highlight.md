@@ -94,6 +94,7 @@
 - [nilsojunior/colours.nvim](https://github.com/nilsojunior/colours.nvim) ![](https://img.shields.io/github/stars/nilsojunior/colours.nvim) ![](https://img.shields.io/github/last-commit/nilsojunior/colours.nvim) ![](https://img.shields.io/github/commit-activity/y/nilsojunior/colours.nvim)
 - [UnaTried/colors.nvim](https://github.com/UnaTried/colors.nvim) ![](https://img.shields.io/github/stars/UnaTried/colors.nvim) ![](https://img.shields.io/github/last-commit/UnaTried/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/UnaTried/colors.nvim)
 - [Leonardo-Luz/showcolors.nvim](https://github.com/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/showcolors.nvim)
+- [Bishop-Fox/colorblocks.nvim](https://github.com/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/stars/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/last-commit/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/commit-activity/y/Bishop-Fox/colorblocks.nvim)
 
 ### Color picker
 
@@ -154,6 +155,7 @@
 - [yashodhanketkar/themeui.nvim](https://github.com/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/stars/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/last-commit/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yashodhanketkar/themeui.nvim)
 - [Rimkomatic/switchscheme.nvim](https://github.com/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/switchscheme.nvim)
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
+- [wateryvinega/darkman.nvim](https://github.com/wateryvinega/darkman.nvim) ![](https://img.shields.io/github/stars/wateryvinega/darkman.nvim) ![](https://img.shields.io/github/last-commit/wateryvinega/darkman.nvim) ![](https://img.shields.io/github/commit-activity/y/wateryvinega/darkman.nvim)
 
 ### Colorscheme overwrite
 

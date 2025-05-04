@@ -36,6 +36,7 @@
 - [tenfyzhong/nvim-F](https://github.com/tenfyzhong/nvim-F) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-F) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-F) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-F)
 - [OXY2DEV/oops.nvim](https://github.com/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/oops.nvim)
 - [alyxshang/shelley.nvim](https://github.com/alyxshang/shelley.nvim) ![](https://img.shields.io/github/stars/alyxshang/shelley.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/shelley.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/shelley.nvim)
+- [cxncxl/nvim-f2](https://github.com/cxncxl/nvim-f2) ![](https://img.shields.io/github/stars/cxncxl/nvim-f2) ![](https://img.shields.io/github/last-commit/cxncxl/nvim-f2) ![](https://img.shields.io/github/commit-activity/y/cxncxl/nvim-f2)
 
 ### Shell command
 

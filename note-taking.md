@@ -166,6 +166,9 @@
 - [cristiandelahooz/todo.nvim](https://github.com/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/stars/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/last-commit/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/cristiandelahooz/todo.nvim)
 - [nonelement/floatingtodo.nvim](https://github.com/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/stars/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/nonelement/floatingtodo.nvim)
 - [Flokkq/todo.nvim](https://github.com/Flokkq/todo.nvim) ![](https://img.shields.io/github/stars/Flokkq/todo.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/todo.nvim)
+- [Matthew-K310/todofloat.nvim](https://github.com/Matthew-K310/todofloat.nvim) ![](https://img.shields.io/github/stars/Matthew-K310/todofloat.nvim) ![](https://img.shields.io/github/last-commit/Matthew-K310/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/Matthew-K310/todofloat.nvim)
+- [Suryansh-Dey/to-future.nvim](https://github.com/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/stars/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/last-commit/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/commit-activity/y/Suryansh-Dey/to-future.nvim)
+- [Tigatok/nvim-todonotes](https://github.com/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/stars/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/last-commit/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/commit-activity/y/Tigatok/nvim-todonotes)
 
 #### Taskwarrior
 
