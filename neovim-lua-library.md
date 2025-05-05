@@ -148,6 +148,7 @@
 - [abcdefg233/hcutil.nvim](https://github.com/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/stars/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/last-commit/abcdefg233/hcutil.nvim) ![](https://img.shields.io/github/commit-activity/y/abcdefg233/hcutil.nvim)
 - [liamrlawrence/cabinet.nvim](https://github.com/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/cabinet.nvim)
 - [SergioRibera/nvim-conf](https://github.com/SergioRibera/nvim-conf) ![](https://img.shields.io/github/stars/SergioRibera/nvim-conf) ![](https://img.shields.io/github/last-commit/SergioRibera/nvim-conf) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/nvim-conf)
+- [spenserblack/dot-nvim.nvim](https://github.com/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/stars/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/last-commit/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserblack/dot-nvim.nvim)
 
 ## Control another neovim 
 

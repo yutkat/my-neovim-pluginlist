@@ -50,4 +50,5 @@
 
 ## Test Coverage
 
+- [PreziosiRaffaele/nvim-apex-coverage](https://github.com/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/stars/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/nvim-apex-coverage)
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) ![](https://img.shields.io/github/stars/andythigpen/nvim-coverage) ![](https://img.shields.io/github/last-commit/andythigpen/nvim-coverage) ![](https://img.shields.io/github/commit-activity/y/andythigpen/nvim-coverage)

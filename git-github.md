@@ -183,6 +183,7 @@
 #### commit reminder
 
 - [nick-skriabin/commitment.nvim](https://github.com/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/commitment.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/commitment.nvim)
+- [coreyb-git/commit-reminder.nvim](https://github.com/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/stars/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/commit-reminder.nvim)
 
 #### AI commit
 

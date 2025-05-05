@@ -391,6 +391,7 @@
 ### Battery
 
 - [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) ![](https://img.shields.io/github/stars/justinhj/battery.nvim) ![](https://img.shields.io/github/last-commit/justinhj/battery.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/battery.nvim)
+- [coreyb-git/upower.nvim](https://github.com/coreyb-git/upower.nvim) ![](https://img.shields.io/github/stars/coreyb-git/upower.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/upower.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/upower.nvim)
 
 ### Audio
 
