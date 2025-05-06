@@ -250,6 +250,7 @@
 - [dneumann42/nvim-wikid](https://github.com/dneumann42/nvim-wikid) ![](https://img.shields.io/github/stars/dneumann42/nvim-wikid) ![](https://img.shields.io/github/last-commit/dneumann42/nvim-wikid) ![](https://img.shields.io/github/commit-activity/y/dneumann42/nvim-wikid)
 - [jmtd/nvim-microwiki](https://github.com/jmtd/nvim-microwiki) ![](https://img.shields.io/github/stars/jmtd/nvim-microwiki) ![](https://img.shields.io/github/last-commit/jmtd/nvim-microwiki) ![](https://img.shields.io/github/commit-activity/y/jmtd/nvim-microwiki)
 - [TyrannosaurusLjx/wiki.nvim](https://github.com/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/stars/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/last-commit/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/TyrannosaurusLjx/wiki.nvim)
+- [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
 
 ### VimWiki
 
@@ -406,4 +407,5 @@
 - [oh-my-bug/quick-notes.nvim](https://github.com/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/stars/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/oh-my-bug/quick-notes.nvim)
 - [nrednav/compendium.nvim](https://github.com/nrednav/compendium.nvim) ![](https://img.shields.io/github/stars/nrednav/compendium.nvim) ![](https://img.shields.io/github/last-commit/nrednav/compendium.nvim) ![](https://img.shields.io/github/commit-activity/y/nrednav/compendium.nvim)
 - [Forest-nvim/maple.nvim](https://github.com/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/stars/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/last-commit/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/commit-activity/y/Forest-nvim/maple.nvim)
+- [kilavila/nvim-notes](https://github.com/kilavila/nvim-notes) ![](https://img.shields.io/github/stars/kilavila/nvim-notes) ![](https://img.shields.io/github/last-commit/kilavila/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-notes)
 - [michaelschleiss/scratchpad.nvim](https://github.com/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/stars/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelschleiss/scratchpad.nvim)

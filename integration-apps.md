@@ -174,6 +174,7 @@
 ##### Image
 
 - [eduardotlc/telescope-du-preview.nvim](https://github.com/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/stars/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/last-commit/eduardotlc/telescope-du-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardotlc/telescope-du-preview.nvim)
+- [Skardyy/mcat.nvim](https://github.com/Skardyy/mcat.nvim) ![](https://img.shields.io/github/stars/Skardyy/mcat.nvim) ![](https://img.shields.io/github/last-commit/Skardyy/mcat.nvim) ![](https://img.shields.io/github/commit-activity/y/Skardyy/mcat.nvim)
 
 #### WezTerm
 
