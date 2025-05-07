@@ -166,6 +166,7 @@
 - [cristiandelahooz/todo.nvim](https://github.com/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/stars/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/last-commit/cristiandelahooz/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/cristiandelahooz/todo.nvim)
 - [nonelement/floatingtodo.nvim](https://github.com/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/stars/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/nonelement/floatingtodo.nvim)
 - [Flokkq/todo.nvim](https://github.com/Flokkq/todo.nvim) ![](https://img.shields.io/github/stars/Flokkq/todo.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/todo.nvim)
+- [rdrachmanto/onpoint.nvim](https://github.com/rdrachmanto/onpoint.nvim) ![](https://img.shields.io/github/stars/rdrachmanto/onpoint.nvim) ![](https://img.shields.io/github/last-commit/rdrachmanto/onpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/rdrachmanto/onpoint.nvim)
 
 #### Taskwarrior
 
@@ -406,4 +407,6 @@
 - [oh-my-bug/quick-notes.nvim](https://github.com/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/stars/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/oh-my-bug/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/oh-my-bug/quick-notes.nvim)
 - [nrednav/compendium.nvim](https://github.com/nrednav/compendium.nvim) ![](https://img.shields.io/github/stars/nrednav/compendium.nvim) ![](https://img.shields.io/github/last-commit/nrednav/compendium.nvim) ![](https://img.shields.io/github/commit-activity/y/nrednav/compendium.nvim)
 - [Forest-nvim/maple.nvim](https://github.com/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/stars/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/last-commit/Forest-nvim/maple.nvim) ![](https://img.shields.io/github/commit-activity/y/Forest-nvim/maple.nvim)
+- [BKoderisch/notes.nvim](https://github.com/BKoderisch/notes.nvim) ![](https://img.shields.io/github/stars/BKoderisch/notes.nvim) ![](https://img.shields.io/github/last-commit/BKoderisch/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/BKoderisch/notes.nvim)
+- [icewind/floatnotes.nvim](https://github.com/icewind/floatnotes.nvim) ![](https://img.shields.io/github/stars/icewind/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/icewind/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/icewind/floatnotes.nvim)
 - [michaelschleiss/scratchpad.nvim](https://github.com/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/stars/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/michaelschleiss/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelschleiss/scratchpad.nvim)

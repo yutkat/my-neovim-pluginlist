@@ -224,6 +224,7 @@
 - [rosswilson2306/blame-jump.nvim](https://github.com/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/stars/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/last-commit/rosswilson2306/blame-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/rosswilson2306/blame-jump.nvim)
 - [steschwa/git-blame.nvim](https://github.com/steschwa/git-blame.nvim) ![](https://img.shields.io/github/stars/steschwa/git-blame.nvim) ![](https://img.shields.io/github/last-commit/steschwa/git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/steschwa/git-blame.nvim)
 - [Yu-Leo/blame-column.nvim](https://github.com/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/stars/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/last-commit/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/blame-column.nvim)
+- [ethanamaher/better-git-blame.nvim](https://github.com/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/stars/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/better-git-blame.nvim)
 
 ### git log
 
