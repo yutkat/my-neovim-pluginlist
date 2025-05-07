@@ -71,7 +71,6 @@
 - [seblj/nvim-lsp-extras](https://github.com/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/stars/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/last-commit/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-lsp-extras)
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/LspUI.nvim)
 - [nvim-jo/lspsystem.nvim](https://github.com/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/stars/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/lspsystem.nvim)
-- [hasansujon786/neo-glance.nvim](https://github.com/hasansujon786/neo-glance.nvim) ![](https://img.shields.io/github/stars/hasansujon786/neo-glance.nvim) ![](https://img.shields.io/github/last-commit/hasansujon786/neo-glance.nvim) ![](https://img.shields.io/github/commit-activity/y/hasansujon786/neo-glance.nvim)
 
 #### Diagnostics
 
