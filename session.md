@@ -65,6 +65,7 @@
 - [Jaehaks/last-session.nvim](https://github.com/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/stars/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/last-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/last-session.nvim)
 - [cdmill/sesh.nvim](https://github.com/cdmill/sesh.nvim) ![](https://img.shields.io/github/stars/cdmill/sesh.nvim) ![](https://img.shields.io/github/last-commit/cdmill/sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/cdmill/sesh.nvim)
 - [Akutchi/session.nvim](https://github.com/Akutchi/session.nvim) ![](https://img.shields.io/github/stars/Akutchi/session.nvim) ![](https://img.shields.io/github/last-commit/Akutchi/session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akutchi/session.nvim)
+- [l4zygreed/memcard.nvim](https://github.com/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/stars/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/memcard.nvim)
 
 ### Session Selector
 

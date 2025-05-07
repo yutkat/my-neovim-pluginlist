@@ -70,6 +70,7 @@
 - [naddeoa/nvim-pytest](https://github.com/naddeoa/nvim-pytest) ![](https://img.shields.io/github/stars/naddeoa/nvim-pytest) ![](https://img.shields.io/github/last-commit/naddeoa/nvim-pytest) ![](https://img.shields.io/github/commit-activity/y/naddeoa/nvim-pytest)
 - [Sombrer0Dev/pytest.nvim](https://github.com/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/stars/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/last-commit/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrer0Dev/pytest.nvim)
 - [jjvanvuren/copybreadcrumbs.nvim](https://github.com/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/copybreadcrumbs.nvim)
+- [jedi-knights/pytest.nvim](https://github.com/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/stars/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/pytest.nvim)
 
 #### jurigged
 

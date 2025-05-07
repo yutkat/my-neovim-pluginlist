@@ -63,6 +63,7 @@
 - [DeciStudios/mapper.nvim](https://github.com/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper.nvim)
   - [DeciStudios/mapper-cheatsheet.nvim](https://github.com/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper-cheatsheet.nvim)
 - [shuber2/oneshotstubs.nvim](https://github.com/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/stars/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/last-commit/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/commit-activity/y/shuber2/oneshotstubs.nvim)
+- [echasnovski/mini.keymap](https://github.com/echasnovski/mini.keymap) ![](https://img.shields.io/github/stars/echasnovski/mini.keymap) ![](https://img.shields.io/github/last-commit/echasnovski/mini.keymap) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.keymap)
 
 ### instant mapping
 
