@@ -36,6 +36,7 @@
 - [raquentin/tamagotchi.nvim](https://github.com/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/stars/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/last-commit/raquentin/tamagotchi.nvim) ![](https://img.shields.io/github/commit-activity/y/raquentin/tamagotchi.nvim)
 - [steveslatky/vimcino](https://github.com/steveslatky/vimcino) ![](https://img.shields.io/github/stars/steveslatky/vimcino) ![](https://img.shields.io/github/last-commit/steveslatky/vimcino) ![](https://img.shields.io/github/commit-activity/y/steveslatky/vimcino)
 - [walkingshamrock/memory-game.nvim](https://github.com/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/memory-game.nvim)
+- [Mateus-Lacerda/snake.nvim](https://github.com/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/stars/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/last-commit/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mateus-Lacerda/snake.nvim)
 
 ### Tetris
 

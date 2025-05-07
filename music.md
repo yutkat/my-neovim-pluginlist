@@ -57,6 +57,7 @@
 - [dtr2300/tidal.nvim](https://github.com/dtr2300/tidal.nvim) ![](https://img.shields.io/github/stars/dtr2300/tidal.nvim) ![](https://img.shields.io/github/last-commit/dtr2300/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/dtr2300/tidal.nvim)
 - [grddavies/tidal.nvim](https://github.com/grddavies/tidal.nvim) ![](https://img.shields.io/github/stars/grddavies/tidal.nvim) ![](https://img.shields.io/github/last-commit/grddavies/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/grddavies/tidal.nvim)
 - [zuloo/cycles.nvim](https://github.com/zuloo/cycles.nvim) ![](https://img.shields.io/github/stars/zuloo/cycles.nvim) ![](https://img.shields.io/github/last-commit/zuloo/cycles.nvim) ![](https://img.shields.io/github/commit-activity/y/zuloo/cycles.nvim)
+- [smokejohn/tidalcycles.nvim](https://github.com/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/stars/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/last-commit/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/commit-activity/y/smokejohn/tidalcycles.nvim)
 
 #### MIDI
 

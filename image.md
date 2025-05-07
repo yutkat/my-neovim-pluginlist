@@ -125,6 +125,7 @@
 ### Sixel
 
 - [kjuq/sixelview.nvim](https://github.com/kjuq/sixelview.nvim) ![](https://img.shields.io/github/stars/kjuq/sixelview.nvim) ![](https://img.shields.io/github/last-commit/kjuq/sixelview.nvim) ![](https://img.shields.io/github/commit-activity/y/kjuq/sixelview.nvim)
+- [Skardyy/mcat.nvim](https://github.com/Skardyy/mcat.nvim) ![](https://img.shields.io/github/stars/Skardyy/mcat.nvim) ![](https://img.shields.io/github/last-commit/Skardyy/mcat.nvim) ![](https://img.shields.io/github/commit-activity/y/Skardyy/mcat.nvim)
 
 ### Illustrate
 

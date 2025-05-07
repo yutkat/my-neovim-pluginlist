@@ -31,6 +31,7 @@
     + [iTerm](#iterm)
     + [input source](#input-source)
     + [Theme](#theme)
+  * [Chromebook](#chromebook)
   * [iOS](#ios)
   * [Android](#android)
     + [adb](#adb)
@@ -158,6 +159,10 @@
 #### Theme
 
 - [twenty9-labs/neotone.nvim](https://github.com/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/stars/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/last-commit/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/commit-activity/y/twenty9-labs/neotone.nvim)
+
+### Chromebook
+
+- [coreyb-git/upower.nvim](https://github.com/coreyb-git/upower.nvim) ![](https://img.shields.io/github/stars/coreyb-git/upower.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/upower.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/upower.nvim)
 
 ### iOS
 
