@@ -355,7 +355,6 @@
 
 ### Bedrock
 
-- [yuchanns/avante_bedrock.nvim](https://github.com/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/stars/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/avante_bedrock.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/avante_bedrock.nvim)
 
 ### Blink AI
 
