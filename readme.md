@@ -428,6 +428,7 @@
 - [shadyalfred/electric-quotes.nvim](https://github.com/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/stars/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/last-commit/shadyalfred/electric-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/shadyalfred/electric-quotes.nvim)
 - [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
 - [Russoul/abbrev-expand.nvim](https://github.com/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/stars/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/last-commit/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/abbrev-expand.nvim)
+- [reyalka/shell-abbr.nvim](https://github.com/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/stars/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/last-commit/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/reyalka/shell-abbr.nvim)
 
 ### [Quickfix / Location](./quickfix_location.md)
 

@@ -155,6 +155,7 @@
 - [numToStr/prettierrc.nvim](https://github.com/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/stars/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/last-commit/numToStr/prettierrc.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/prettierrc.nvim)
 - [AlejandroSuero/pretty-ts-errors.nvim](https://github.com/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/pretty-ts-errors.nvim)
 - [z0rzi/format-ts-errors.nvim](https://github.com/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/format-ts-errors.nvim)
+- [simeonoff/telescope-pretty-pickers.nvim](https://github.com/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/stars/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/telescope-pretty-pickers.nvim)
 
 ### Lint
 
