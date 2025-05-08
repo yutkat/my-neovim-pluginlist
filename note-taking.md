@@ -168,6 +168,7 @@
 - [nonelement/floatingtodo.nvim](https://github.com/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/stars/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/nonelement/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/nonelement/floatingtodo.nvim)
 - [Flokkq/todo.nvim](https://github.com/Flokkq/todo.nvim) ![](https://img.shields.io/github/stars/Flokkq/todo.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/todo.nvim)
 - [Tigatok/nvim-todonotes](https://github.com/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/stars/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/last-commit/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/commit-activity/y/Tigatok/nvim-todonotes)
+- [micahkepe/todo.nvim](https://github.com/micahkepe/todo.nvim) ![](https://img.shields.io/github/stars/micahkepe/todo.nvim) ![](https://img.shields.io/github/last-commit/micahkepe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/micahkepe/todo.nvim)
 
 #### Taskwarrior
 

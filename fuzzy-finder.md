@@ -56,6 +56,7 @@
 - [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
 - [zigius/telescope-links-picker.nvim](https://github.com/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/stars/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/last-commit/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/zigius/telescope-links-picker.nvim)
 - [adia-dev/cpy_buffers.nvim](https://github.com/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/stars/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/cpy_buffers.nvim)
+- [simeonoff/telescope-pretty-pickers.nvim](https://github.com/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/stars/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/telescope-pretty-pickers.nvim)
 
 #### Sorter
 

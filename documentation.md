@@ -160,6 +160,7 @@
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) ![](https://img.shields.io/github/stars/gcmt/glare.nvim) ![](https://img.shields.io/github/last-commit/gcmt/glare.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/glare.nvim)
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
 - [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
+- [Isaac7777-cpu/markdown-preview.nvim](https://github.com/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Isaac7777-cpu/markdown-preview.nvim)
 
 ##### Node
 

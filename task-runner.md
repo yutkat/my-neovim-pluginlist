@@ -127,6 +127,7 @@
 - [tsurumi-yizhou/build.nvim](https://github.com/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/build.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/build.nvim)
 - [vieitesss/command.nvim](https://github.com/vieitesss/command.nvim) ![](https://img.shields.io/github/stars/vieitesss/command.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/command.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/command.nvim)
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
+- [joncrangle/itchy.nvim](https://github.com/joncrangle/itchy.nvim) ![](https://img.shields.io/github/stars/joncrangle/itchy.nvim) ![](https://img.shields.io/github/last-commit/joncrangle/itchy.nvim) ![](https://img.shields.io/github/commit-activity/y/joncrangle/itchy.nvim)
 
 #### Shell
 
@@ -188,6 +189,7 @@
 - [pauloburke/tt-coderunner.nvim](https://github.com/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/stars/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/last-commit/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/pauloburke/tt-coderunner.nvim)
 - [WayneYam/mrbruh.nvim](https://github.com/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/stars/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/mrbruh.nvim)
 - [lizeeeee9527/SampleRunner.nvim](https://github.com/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/stars/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/last-commit/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/lizeeeee9527/SampleRunner.nvim)
+- [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
 
 ### :make style
 

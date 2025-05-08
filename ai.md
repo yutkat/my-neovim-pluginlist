@@ -188,6 +188,7 @@
 - [bajistic/llm.nvim](https://github.com/bajistic/llm.nvim) ![](https://img.shields.io/github/stars/bajistic/llm.nvim) ![](https://img.shields.io/github/last-commit/bajistic/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/bajistic/llm.nvim)
 - [Speiser/openwebui.nvim](https://github.com/Speiser/openwebui.nvim) ![](https://img.shields.io/github/stars/Speiser/openwebui.nvim) ![](https://img.shields.io/github/last-commit/Speiser/openwebui.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/openwebui.nvim)
 - [minollisantiago/lazyllm.nvim](https://github.com/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/stars/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/last-commit/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/commit-activity/y/minollisantiago/lazyllm.nvim)
+- [harshadpagare/codecompanion-history.nvim](https://github.com/harshadpagare/codecompanion-history.nvim) ![](https://img.shields.io/github/stars/harshadpagare/codecompanion-history.nvim) ![](https://img.shields.io/github/last-commit/harshadpagare/codecompanion-history.nvim) ![](https://img.shields.io/github/commit-activity/y/harshadpagare/codecompanion-history.nvim)
 
 #### mods
 
