@@ -143,6 +143,7 @@
 - [jpmcb/rip-and-tear.nvim](https://github.com/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/stars/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/last-commit/jpmcb/rip-and-tear.nvim) ![](https://img.shields.io/github/commit-activity/y/jpmcb/rip-and-tear.nvim)
 - [michaelstrefeler/peptalk.nvim](https://github.com/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/stars/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/last-commit/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelstrefeler/peptalk.nvim)
 - [RileyGabrielson/inspire.nvim](https://github.com/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/stars/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/last-commit/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/commit-activity/y/RileyGabrielson/inspire.nvim)
+- [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/famous-quotes.nvim)
 
 #### Tips
 
