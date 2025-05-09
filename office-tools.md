@@ -34,6 +34,7 @@
 - [adam-coates/nvim-calendar-add](https://github.com/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/stars/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/last-commit/adam-coates/nvim-calendar-add) ![](https://img.shields.io/github/commit-activity/y/adam-coates/nvim-calendar-add)
 - [Coup3z-pixel/calendar.nvim](https://github.com/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/stars/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/last-commit/Coup3z-pixel/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/Coup3z-pixel/calendar.nvim)
 - [lfilho/note2cal.nvim](https://github.com/lfilho/note2cal.nvim) ![](https://img.shields.io/github/stars/lfilho/note2cal.nvim) ![](https://img.shields.io/github/last-commit/lfilho/note2cal.nvim) ![](https://img.shields.io/github/commit-activity/y/lfilho/note2cal.nvim)
+- [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/calendar.nvim)
 
 ## MS Word
 

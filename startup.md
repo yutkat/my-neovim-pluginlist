@@ -33,6 +33,7 @@
 - [numen-0/beta.nvim](https://github.com/numen-0/beta.nvim) ![](https://img.shields.io/github/stars/numen-0/beta.nvim) ![](https://img.shields.io/github/last-commit/numen-0/beta.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/beta.nvim)
 - [jjhiza/dashy.nvim](https://github.com/jjhiza/dashy.nvim) ![](https://img.shields.io/github/stars/jjhiza/dashy.nvim) ![](https://img.shields.io/github/last-commit/jjhiza/dashy.nvim) ![](https://img.shields.io/github/commit-activity/y/jjhiza/dashy.nvim)
 - [ButterSus/placeholder.nvim](https://github.com/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/stars/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/last-commit/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/commit-activity/y/ButterSus/placeholder.nvim)
+- [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/famous-quotes.nvim)
 
 ### Boot Arguments
 

@@ -175,6 +175,7 @@
 - [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
 - [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
 - [antogp24/nvim-compile](https://github.com/antogp24/nvim-compile) ![](https://img.shields.io/github/stars/antogp24/nvim-compile) ![](https://img.shields.io/github/last-commit/antogp24/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/antogp24/nvim-compile)
+- [Soybean44/compilation-mode.nvim](https://github.com/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/stars/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Soybean44/compilation-mode.nvim)
 
 ### Auto detect style
 

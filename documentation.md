@@ -439,6 +439,7 @@
 - [DanielMSussman/motleyLatex.nvim](https://github.com/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/motleyLatex.nvim)
 - [mathjiajia/nvim-latex-conceal](https://github.com/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/stars/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/last-commit/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/commit-activity/y/mathjiajia/nvim-latex-conceal)
 - [pxwg/latex-conceal.nvim](https://github.com/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/stars/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/last-commit/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/latex-conceal.nvim)
+- [DavidTelenko/texel.nvim](https://github.com/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/stars/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/last-commit/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidTelenko/texel.nvim)
 
 #### Preview
 
