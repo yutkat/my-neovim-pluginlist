@@ -44,6 +44,7 @@
 - [mportdata/squealer.nvim](https://github.com/mportdata/squealer.nvim) ![](https://img.shields.io/github/stars/mportdata/squealer.nvim) ![](https://img.shields.io/github/last-commit/mportdata/squealer.nvim) ![](https://img.shields.io/github/commit-activity/y/mportdata/squealer.nvim)
 - [edlandm/sqlr.nvim](https://github.com/edlandm/sqlr.nvim) ![](https://img.shields.io/github/stars/edlandm/sqlr.nvim) ![](https://img.shields.io/github/last-commit/edlandm/sqlr.nvim) ![](https://img.shields.io/github/commit-activity/y/edlandm/sqlr.nvim)
 - [nolleh/sqlsnap.nvim](https://github.com/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/stars/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/last-commit/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/sqlsnap.nvim)
+- [pmouraguedes/sql-ghosty.nvim](https://github.com/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/stars/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/last-commit/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/commit-activity/y/pmouraguedes/sql-ghosty.nvim)
 
 ### PostgreSQL
 
