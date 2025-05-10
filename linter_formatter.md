@@ -46,6 +46,7 @@
 - [wsdjeg/format.nvim](https://github.com/wsdjeg/format.nvim) ![](https://img.shields.io/github/stars/wsdjeg/format.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/format.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/format.nvim)
 - [TheLazyCat00/simple-format](https://github.com/TheLazyCat00/simple-format) ![](https://img.shields.io/github/stars/TheLazyCat00/simple-format) ![](https://img.shields.io/github/last-commit/TheLazyCat00/simple-format) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/simple-format)
 - [merimacfairbairn/autoformat.nvim](https://github.com/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/stars/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/last-commit/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/commit-activity/y/merimacfairbairn/autoformat.nvim)
+- [ozawau/nvim-formatter](https://github.com/ozawau/nvim-formatter) ![](https://img.shields.io/github/stars/ozawau/nvim-formatter) ![](https://img.shields.io/github/last-commit/ozawau/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/ozawau/nvim-formatter)
 
 ### Trim Whitespace
 

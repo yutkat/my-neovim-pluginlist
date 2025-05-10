@@ -91,6 +91,7 @@
 - [BowTiedItaliano/markdown-essentials.nvim](https://github.com/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/stars/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/last-commit/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/BowTiedItaliano/markdown-essentials.nvim)
 - [mackenziebasaraba/nvim-pencil](https://github.com/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/stars/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/last-commit/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/commit-activity/y/mackenziebasaraba/nvim-pencil)
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
+- [HidemaruOwO/mdxsnap.nvim](https://github.com/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/stars/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/last-commit/HidemaruOwO/mdxsnap.nvim) ![](https://img.shields.io/github/commit-activity/y/HidemaruOwO/mdxsnap.nvim)
 
 #### Markdown link
 

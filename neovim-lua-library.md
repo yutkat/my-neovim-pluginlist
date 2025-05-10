@@ -265,6 +265,7 @@
   - [amirali/rest-ui.nvim](https://github.com/amirali/rest-ui.nvim) ![](https://img.shields.io/github/stars/amirali/rest-ui.nvim) ![](https://img.shields.io/github/last-commit/amirali/rest-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/amirali/rest-ui.nvim)
 - [lima1909/resty.nvim](https://github.com/lima1909/resty.nvim) ![](https://img.shields.io/github/stars/lima1909/resty.nvim) ![](https://img.shields.io/github/last-commit/lima1909/resty.nvim) ![](https://img.shields.io/github/commit-activity/y/lima1909/resty.nvim)
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) ![](https://img.shields.io/github/stars/rest-nvim/rest.nvim) ![](https://img.shields.io/github/last-commit/rest-nvim/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/rest-nvim/rest.nvim)
+- [marco-souza/rest.nvim](https://github.com/marco-souza/rest.nvim) ![](https://img.shields.io/github/stars/marco-souza/rest.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/rest.nvim)
 
 ### GRPC
 

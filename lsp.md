@@ -203,6 +203,7 @@
 - [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/boo.nvim)
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
+- [moguls753/i18n-hover.nvim](https://github.com/moguls753/i18n-hover.nvim) ![](https://img.shields.io/github/stars/moguls753/i18n-hover.nvim) ![](https://img.shields.io/github/last-commit/moguls753/i18n-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/moguls753/i18n-hover.nvim)
 
 ##### Hover info
 
