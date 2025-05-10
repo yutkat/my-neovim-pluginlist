@@ -5,6 +5,7 @@
 - [Python](#python)
   * [tweaks](#tweaks)
     + [string](#string)
+    + [json](#json)
   * [test](#test)
     + [jurigged](#jurigged)
   * [import](#import)
@@ -60,6 +61,10 @@
 - [haolian9/fstr.nvim](https://github.com/haolian9/fstr.nvim) ![](https://img.shields.io/github/stars/haolian9/fstr.nvim) ![](https://img.shields.io/github/last-commit/haolian9/fstr.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/fstr.nvim)
 - [stefanlogue/auto-fstring.nvim](https://github.com/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/stars/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/auto-fstring.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/auto-fstring.nvim)
 - [amitkot/printformat.nvim](https://github.com/amitkot/printformat.nvim) ![](https://img.shields.io/github/stars/amitkot/printformat.nvim) ![](https://img.shields.io/github/last-commit/amitkot/printformat.nvim) ![](https://img.shields.io/github/commit-activity/y/amitkot/printformat.nvim)
+
+#### json
+
+- [ozawau/nvim-formatter](https://github.com/ozawau/nvim-formatter) ![](https://img.shields.io/github/stars/ozawau/nvim-formatter) ![](https://img.shields.io/github/last-commit/ozawau/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/ozawau/nvim-formatter)
 
 ### test
 

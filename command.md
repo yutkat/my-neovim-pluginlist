@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Command](#command)
-  * [Shell command](#shell-command)
+  * [Shell](#shell)
     + [execute from buffer](#execute-from-buffer)
   * [HTTP Request](#http-request)
   * [mkdir](#mkdir)
@@ -37,7 +37,7 @@
 - [OXY2DEV/oops.nvim](https://github.com/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/oops.nvim)
 - [alyxshang/shelley.nvim](https://github.com/alyxshang/shelley.nvim) ![](https://img.shields.io/github/stars/alyxshang/shelley.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/shelley.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/shelley.nvim)
 
-### Shell command
+### Shell
 
 - [siadat/shell.nvim](https://github.com/siadat/shell.nvim) ![](https://img.shields.io/github/stars/siadat/shell.nvim) ![](https://img.shields.io/github/last-commit/siadat/shell.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/shell.nvim)
 

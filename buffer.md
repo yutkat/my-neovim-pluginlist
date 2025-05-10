@@ -11,6 +11,7 @@
       - [recent file](#recent-file)
       - [remote open](#remote-open)
     + [delete](#delete)
+    + [restore](#restore)
     + [auto close](#auto-close)
     + [auto reload](#auto-reload)
     + [access control](#access-control)
@@ -201,6 +202,10 @@
 - [caesar003/nvim-closebuffer](https://github.com/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/stars/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/last-commit/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/commit-activity/y/caesar003/nvim-closebuffer)
 - [atomicptr/BufClose.nvim](https://github.com/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/stars/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/BufClose.nvim)
 - [N8WM/buffexit.nvim](https://github.com/N8WM/buffexit.nvim) ![](https://img.shields.io/github/stars/N8WM/buffexit.nvim) ![](https://img.shields.io/github/last-commit/N8WM/buffexit.nvim) ![](https://img.shields.io/github/commit-activity/y/N8WM/buffexit.nvim)
+
+#### restore
+
+- [mattpatterson94/bufferback.nvim](https://github.com/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/stars/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/last-commit/mattpatterson94/bufferback.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpatterson94/bufferback.nvim)
 
 #### auto close
 
