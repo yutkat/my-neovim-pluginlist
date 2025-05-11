@@ -281,6 +281,7 @@
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/smart-tab.nvim)
 - [nvim-jo/smarttab.nvim](https://github.com/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/stars/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/smarttab.nvim)
 - [lsvmello/elastictabstops.nvim](https://github.com/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/stars/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/last-commit/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/commit-activity/y/lsvmello/elastictabstops.nvim)
+- [hisbaan/supertab.nvim](https://github.com/hisbaan/supertab.nvim) ![](https://img.shields.io/github/stars/hisbaan/supertab.nvim) ![](https://img.shields.io/github/last-commit/hisbaan/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/hisbaan/supertab.nvim)
 
 ### [Auto Insert](./auto-insert.md)
 

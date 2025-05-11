@@ -156,6 +156,7 @@
 - [yashodhanketkar/themeui.nvim](https://github.com/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/stars/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/last-commit/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yashodhanketkar/themeui.nvim)
 - [Rimkomatic/switchscheme.nvim](https://github.com/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/switchscheme.nvim)
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
+- [SearidangPa/theme-loader.nvim](https://github.com/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/stars/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/theme-loader.nvim)
 
 ### Colorscheme overwrite
 
