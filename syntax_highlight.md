@@ -156,6 +156,7 @@
 - [yashodhanketkar/themeui.nvim](https://github.com/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/stars/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/last-commit/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yashodhanketkar/themeui.nvim)
 - [Rimkomatic/switchscheme.nvim](https://github.com/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/switchscheme.nvim)
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
+- [fmxsh/color-theme.nvim](https://github.com/fmxsh/color-theme.nvim) ![](https://img.shields.io/github/stars/fmxsh/color-theme.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/color-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/color-theme.nvim)
 
 ### Colorscheme overwrite
 
@@ -221,6 +222,7 @@
 - [utubo/hlpairs.nvim](https://github.com/utubo/hlpairs.nvim) ![](https://img.shields.io/github/stars/utubo/hlpairs.nvim) ![](https://img.shields.io/github/last-commit/utubo/hlpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/utubo/hlpairs.nvim)
 - [saliola/accentuate.nvim](https://github.com/saliola/accentuate.nvim) ![](https://img.shields.io/github/stars/saliola/accentuate.nvim) ![](https://img.shields.io/github/last-commit/saliola/accentuate.nvim) ![](https://img.shields.io/github/commit-activity/y/saliola/accentuate.nvim)
 - [hamidi-dev/kaleidosearch.nvim](https://github.com/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/kaleidosearch.nvim)
+- [fmxsh/f3c-syntax-hl.nvim](https://github.com/fmxsh/f3c-syntax-hl.nvim) ![](https://img.shields.io/github/stars/fmxsh/f3c-syntax-hl.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/f3c-syntax-hl.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/f3c-syntax-hl.nvim)
 
 ### Current block highlight
 

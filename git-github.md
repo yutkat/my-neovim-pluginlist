@@ -105,6 +105,7 @@
 - [Freed-Wu/git2.nvim](https://github.com/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/git2.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/git2.nvim)
 - [walker84837/fastgit.nvim](https://github.com/walker84837/fastgit.nvim) ![](https://img.shields.io/github/stars/walker84837/fastgit.nvim) ![](https://img.shields.io/github/last-commit/walker84837/fastgit.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/fastgit.nvim)
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) ![](https://img.shields.io/github/stars/wsdjeg/git.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/git.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/git.nvim)
+- [fmxsh/gitwatch.nvim](https://github.com/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/stars/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/gitwatch.nvim)
 
 ### gitui
 

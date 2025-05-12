@@ -94,6 +94,7 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ![](https://img.shields.io/github/stars/folke/todo-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/todo-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/todo-comments.nvim)
 - [alexmozaidze/tree-comment.nvim](https://github.com/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/stars/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/last-commit/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/alexmozaidze/tree-comment.nvim)
 - [LazyYuuki/notice_me.nvim](https://github.com/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/stars/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/last-commit/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/commit-activity/y/LazyYuuki/notice_me.nvim)
+- [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
 
 ## Special Comment
 

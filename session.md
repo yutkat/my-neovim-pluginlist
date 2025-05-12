@@ -70,4 +70,5 @@
 ### Session Selector
 
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)
+- [fmxsh/phxm.nvim](https://github.com/fmxsh/phxm.nvim) ![](https://img.shields.io/github/stars/fmxsh/phxm.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/phxm.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/phxm.nvim)
 - [Sawansunar56/nvim-sessionar](https://github.com/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/stars/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/last-commit/Sawansunar56/nvim-sessionar) ![](https://img.shields.io/github/commit-activity/y/Sawansunar56/nvim-sessionar)

@@ -53,6 +53,7 @@
 - [SWiegandt/autoself.nvim](https://github.com/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/stars/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/autoself.nvim)
 - [SWiegandt/python-utils.nvim](https://github.com/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/stars/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/python-utils.nvim)
 - [joshzcold/python.nvim](https://github.com/joshzcold/python.nvim) ![](https://img.shields.io/github/stars/joshzcold/python.nvim) ![](https://img.shields.io/github/last-commit/joshzcold/python.nvim) ![](https://img.shields.io/github/commit-activity/y/joshzcold/python.nvim)
+- [feakuru/mypy.nvim](https://github.com/feakuru/mypy.nvim) ![](https://img.shields.io/github/stars/feakuru/mypy.nvim) ![](https://img.shields.io/github/last-commit/feakuru/mypy.nvim) ![](https://img.shields.io/github/commit-activity/y/feakuru/mypy.nvim)
 
 ### tweaks
 

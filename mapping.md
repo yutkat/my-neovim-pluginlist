@@ -52,6 +52,8 @@
 - [kirill-d-lappo/nvim-keymaps](https://github.com/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-keymaps)
 - [fholmer/no.nvim](https://github.com/fholmer/no.nvim) ![](https://img.shields.io/github/stars/fholmer/no.nvim) ![](https://img.shields.io/github/last-commit/fholmer/no.nvim) ![](https://img.shields.io/github/commit-activity/y/fholmer/no.nvim)
 - [chachacollins/emacs.nvim](https://github.com/chachacollins/emacs.nvim) ![](https://img.shields.io/github/stars/chachacollins/emacs.nvim) ![](https://img.shields.io/github/last-commit/chachacollins/emacs.nvim) ![](https://img.shields.io/github/commit-activity/y/chachacollins/emacs.nvim)
+- [fmxsh/dynkey.nvim](https://github.com/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/stars/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/dynkey.nvim)
+- [fmxsh/keypoint.nvim](https://github.com/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/stars/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/keypoint.nvim)
 
 #### map function utiliy
 

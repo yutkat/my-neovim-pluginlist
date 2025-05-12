@@ -33,6 +33,7 @@
 - [deathbeam/myplugins.nvim](https://github.com/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/stars/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/myplugins.nvim)
 - [nxmxsxs/desserts.nvim](https://github.com/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/stars/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/last-commit/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/commit-activity/y/nxmxsxs/desserts.nvim)
 - [elentok/stuff.nvim](https://github.com/elentok/stuff.nvim) ![](https://img.shields.io/github/stars/elentok/stuff.nvim) ![](https://img.shields.io/github/last-commit/elentok/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/stuff.nvim)
+- [stunwin/lilguys.nvim](https://github.com/stunwin/lilguys.nvim) ![](https://img.shields.io/github/stars/stunwin/lilguys.nvim) ![](https://img.shields.io/github/last-commit/stunwin/lilguys.nvim) ![](https://img.shields.io/github/commit-activity/y/stunwin/lilguys.nvim)
 
 ## UI
 
