@@ -151,6 +151,7 @@
 ### Mac
 
 - [mattdibi/incolla.nvim](https://github.com/mattdibi/incolla.nvim) ![](https://img.shields.io/github/stars/mattdibi/incolla.nvim) ![](https://img.shields.io/github/last-commit/mattdibi/incolla.nvim) ![](https://img.shields.io/github/commit-activity/y/mattdibi/incolla.nvim)
+- [KoolieAid/pastevim.nvim](https://github.com/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/stars/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/pastevim.nvim)
 
 ## Cut
 

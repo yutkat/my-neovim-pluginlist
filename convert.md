@@ -50,6 +50,7 @@
 - [cowboy8625/case-swap.nvim](https://github.com/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/stars/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/last-commit/cowboy8625/case-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/cowboy8625/case-swap.nvim)
 - [StubbornVegeta/style-transfer.nvim](https://github.com/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/stars/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/last-commit/StubbornVegeta/style-transfer.nvim) ![](https://img.shields.io/github/commit-activity/y/StubbornVegeta/style-transfer.nvim)
 - [Ipomoea/increment.nvim](https://github.com/Ipomoea/increment.nvim) ![](https://img.shields.io/github/stars/Ipomoea/increment.nvim) ![](https://img.shields.io/github/last-commit/Ipomoea/increment.nvim) ![](https://img.shields.io/github/commit-activity/y/Ipomoea/increment.nvim)
+- [Joreh-T/caseConverter.nvim](https://github.com/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/stars/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/caseConverter.nvim)
 
 ### Convert Word
 

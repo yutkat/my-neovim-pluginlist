@@ -176,6 +176,7 @@
 - [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
 - [antogp24/nvim-compile](https://github.com/antogp24/nvim-compile) ![](https://img.shields.io/github/stars/antogp24/nvim-compile) ![](https://img.shields.io/github/last-commit/antogp24/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/antogp24/nvim-compile)
 - [Soybean44/compilation-mode.nvim](https://github.com/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/stars/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Soybean44/compilation-mode.nvim)
+- [micgor32/qemu-run.nvim](https://github.com/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/stars/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/last-commit/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/commit-activity/y/micgor32/qemu-run.nvim)
 
 ### Auto detect style
 

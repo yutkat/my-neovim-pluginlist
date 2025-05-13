@@ -138,6 +138,7 @@
 ### Path
 
 - [pysan3/pathlib.nvim](https://github.com/pysan3/pathlib.nvim) ![](https://img.shields.io/github/stars/pysan3/pathlib.nvim) ![](https://img.shields.io/github/last-commit/pysan3/pathlib.nvim) ![](https://img.shields.io/github/commit-activity/y/pysan3/pathlib.nvim)
+- [tfpickard/pathcheck.nvim](https://github.com/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/stars/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/pathcheck.nvim)
 
 ## Exec
 
@@ -159,6 +160,7 @@
   - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/stars/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/last-commit/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/commit-activity/y/grapp-dev/nui-components.nvim)
 - [comfysage/yosu.nvim](https://github.com/comfysage/yosu.nvim) ![](https://img.shields.io/github/stars/comfysage/yosu.nvim) ![](https://img.shields.io/github/last-commit/comfysage/yosu.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/yosu.nvim)
 - [Rizwanelansyah/windui.nvim](https://github.com/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/windui.nvim)
+- [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/nuwa.nvim)
 
 ### Window
 

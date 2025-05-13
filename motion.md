@@ -41,6 +41,7 @@
 - [niuiic/scroll.nvim](https://github.com/niuiic/scroll.nvim) ![](https://img.shields.io/github/stars/niuiic/scroll.nvim) ![](https://img.shields.io/github/last-commit/niuiic/scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/scroll.nvim)
 - [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/stars/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/last-commit/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/commit-activity/y/tonymajestro/smart-scrolloff.nvim)
 - [jackplus-xyz/scroll-it.nvim](https://github.com/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/scroll-it.nvim)
+- [valyntyler/nvim-doomscroll](https://github.com/valyntyler/nvim-doomscroll) ![](https://img.shields.io/github/stars/valyntyler/nvim-doomscroll) ![](https://img.shields.io/github/last-commit/valyntyler/nvim-doomscroll) ![](https://img.shields.io/github/commit-activity/y/valyntyler/nvim-doomscroll)
 
 ### Smooth scroll
 

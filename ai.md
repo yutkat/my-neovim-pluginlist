@@ -402,6 +402,7 @@
 - [festeh/llm_flow.nvim](https://github.com/festeh/llm_flow.nvim) ![](https://img.shields.io/github/stars/festeh/llm_flow.nvim) ![](https://img.shields.io/github/last-commit/festeh/llm_flow.nvim) ![](https://img.shields.io/github/commit-activity/y/festeh/llm_flow.nvim)
 - [Czandal/autocomplicate.nvim](https://github.com/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/stars/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/last-commit/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/Czandal/autocomplicate.nvim)
 - [benpops89/momonga.nvim](https://github.com/benpops89/momonga.nvim) ![](https://img.shields.io/github/stars/benpops89/momonga.nvim) ![](https://img.shields.io/github/last-commit/benpops89/momonga.nvim) ![](https://img.shields.io/github/commit-activity/y/benpops89/momonga.nvim)
+- [Axot017/fateweaver.nvim](https://github.com/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/stars/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/last-commit/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/fateweaver.nvim)
 
 ### Copilot
 
