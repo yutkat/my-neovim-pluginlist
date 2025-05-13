@@ -107,6 +107,7 @@
 
 - [kogakure/export-to-zed.nvim](https://github.com/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/stars/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/last-commit/kogakure/export-to-zed.nvim) ![](https://img.shields.io/github/commit-activity/y/kogakure/export-to-zed.nvim)
 - [g0t4/zeta.nvim](https://github.com/g0t4/zeta.nvim) ![](https://img.shields.io/github/stars/g0t4/zeta.nvim) ![](https://img.shields.io/github/last-commit/g0t4/zeta.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/zeta.nvim)
+- [Axot017/fateweaver.nvim](https://github.com/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/stars/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/last-commit/Axot017/fateweaver.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/fateweaver.nvim)
 
 ### Desktop Integration
 
@@ -360,6 +361,7 @@
 - [imkerberos/rime.nvim](https://github.com/imkerberos/rime.nvim) ![](https://img.shields.io/github/stars/imkerberos/rime.nvim) ![](https://img.shields.io/github/last-commit/imkerberos/rime.nvim) ![](https://img.shields.io/github/commit-activity/y/imkerberos/rime.nvim)
 - [yehuohan/blink-cmp-im](https://github.com/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/stars/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/blink-cmp-im)
 - [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
+- [kanium3/neovide-ime.nvim](https://github.com/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/stars/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/last-commit/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/kanium3/neovide-ime.nvim)
 
 #### Fcitx
 

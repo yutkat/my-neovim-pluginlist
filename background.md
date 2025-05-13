@@ -23,6 +23,7 @@
 ### Switch theme
 
 - [mktip/adaptive-theme.nvim](https://github.com/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/stars/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/last-commit/mktip/adaptive-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/mktip/adaptive-theme.nvim)
+- [SearidangPa/theme-loader.nvim](https://github.com/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/stars/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/last-commit/SearidangPa/theme-loader.nvim) ![](https://img.shields.io/github/commit-activity/y/SearidangPa/theme-loader.nvim)
 
 ### Transparency
 

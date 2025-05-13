@@ -9,6 +9,7 @@
   * [Container](#container)
     + [Docker](#docker)
       - [Docker Compose](#docker-compose)
+  * [qemu](#qemu)
   * [Subversion](#subversion)
   * [Yandex Arcadia](#yandex-arcadia)
   * [dotenv](#dotenv)
@@ -143,6 +144,10 @@
 - [pipoprods/docker-compose.nvim](https://github.com/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/stars/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/last-commit/pipoprods/docker-compose.nvim) ![](https://img.shields.io/github/commit-activity/y/pipoprods/docker-compose.nvim)
 - [nazo6/docker-compose-info.nvim](https://github.com/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/stars/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/last-commit/nazo6/docker-compose-info.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/docker-compose-info.nvim)
 - [adelowo/dockercomposelogs.nvim](https://github.com/adelowo/dockercomposelogs.nvim) ![](https://img.shields.io/github/stars/adelowo/dockercomposelogs.nvim) ![](https://img.shields.io/github/last-commit/adelowo/dockercomposelogs.nvim) ![](https://img.shields.io/github/commit-activity/y/adelowo/dockercomposelogs.nvim)
+
+#### qemu
+
+- [micgor32/qemu-run.nvim](https://github.com/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/stars/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/last-commit/micgor32/qemu-run.nvim) ![](https://img.shields.io/github/commit-activity/y/micgor32/qemu-run.nvim)
 
 #### Subversion
 

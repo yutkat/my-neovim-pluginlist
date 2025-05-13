@@ -138,6 +138,7 @@
 ### Path
 
 - [pysan3/pathlib.nvim](https://github.com/pysan3/pathlib.nvim) ![](https://img.shields.io/github/stars/pysan3/pathlib.nvim) ![](https://img.shields.io/github/last-commit/pysan3/pathlib.nvim) ![](https://img.shields.io/github/commit-activity/y/pysan3/pathlib.nvim)
+- [tfpickard/pathcheck.nvim](https://github.com/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/stars/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/pathcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/pathcheck.nvim)
 
 ## Exec
 

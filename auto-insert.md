@@ -50,6 +50,7 @@
 - [MrNerzan/enclose.nvim](https://github.com/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/stars/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/last-commit/MrNerzan/enclose.nvim) ![](https://img.shields.io/github/commit-activity/y/MrNerzan/enclose.nvim)
 - [nvimdev/fnpairs.nvim](https://github.com/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/stars/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/fnpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/fnpairs.nvim)
 - [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) ![](https://img.shields.io/github/stars/Saghen/blink.pairs) ![](https://img.shields.io/github/last-commit/Saghen/blink.pairs) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.pairs)
+- [Ritzier/nvim-ts-autotag](https://github.com/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/stars/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/last-commit/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/commit-activity/y/Ritzier/nvim-ts-autotag)
 
 ### escape pairs
 

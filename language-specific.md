@@ -103,6 +103,7 @@
     + [Gren](#gren)
     + [Solidity](#solidity)
     + [Bril](#bril)
+    + [Ty](#ty)
     + [D2](#d2)
     + [Fe](#fe)
     + [CoNLL-U](#conll-u)
@@ -589,6 +590,10 @@
 #### Bril
 
 - [ethanuppal/bril.nvim](https://github.com/ethanuppal/bril.nvim) ![](https://img.shields.io/github/stars/ethanuppal/bril.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/bril.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/bril.nvim)
+
+#### Ty
+
+- [aekasitt/tylsp.nvim](https://github.com/aekasitt/tylsp.nvim) ![](https://img.shields.io/github/stars/aekasitt/tylsp.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/tylsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/tylsp.nvim)
 
 #### D2
 

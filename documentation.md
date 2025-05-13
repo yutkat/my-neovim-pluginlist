@@ -67,6 +67,7 @@
   * [Textile](#textile)
   * [Jekyll](#jekyll)
 - [Code documentaion](#code-documentaion)
+- [Dadoot](#dadoot)
 
 <!-- tocstop -->
 
@@ -503,3 +504,7 @@
 ## Code documentaion
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
+
+## Dadoot
+
+- [ZZU1U/dadoot.nvim](https://github.com/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/stars/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/last-commit/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/commit-activity/y/ZZU1U/dadoot.nvim)
