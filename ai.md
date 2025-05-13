@@ -390,7 +390,6 @@
 
 ### khulnasoft
 
-- [khulnasoft/khulnasoft.nvim](https://github.com/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/stars/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/last-commit/khulnasoft/khulnasoft.nvim) ![](https://img.shields.io/github/commit-activity/y/khulnasoft/khulnasoft.nvim)
 
 ## AI Completion
 
