@@ -21,6 +21,7 @@
   * [build manager](#build-manager)
   * [pypi](#pypi)
   * [venv](#venv)
+  * [mypy](#mypy)
   * [Poetry](#poetry)
   * [uv](#uv)
   * [Mesone](#mesone)
@@ -38,6 +39,8 @@
 - [Quix](#quix)
 - [Nuke](#nuke)
 - [Rope](#rope)
+- [Packages](#packages)
+  * [Manim](#manim)
 
 <!-- tocstop -->
 
@@ -158,6 +161,10 @@
 - [aanatoly/venv.nvim](https://github.com/aanatoly/venv.nvim) ![](https://img.shields.io/github/stars/aanatoly/venv.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/venv.nvim)
 - [milemik/nvim-py-detector](https://github.com/milemik/nvim-py-detector) ![](https://img.shields.io/github/stars/milemik/nvim-py-detector) ![](https://img.shields.io/github/last-commit/milemik/nvim-py-detector) ![](https://img.shields.io/github/commit-activity/y/milemik/nvim-py-detector)
 
+### mypy
+
+- [feakuru/mypy.nvim](https://github.com/feakuru/mypy.nvim) ![](https://img.shields.io/github/stars/feakuru/mypy.nvim) ![](https://img.shields.io/github/last-commit/feakuru/mypy.nvim) ![](https://img.shields.io/github/commit-activity/y/feakuru/mypy.nvim)
+
 ### Poetry
 
 - [iomallach/poetry.nvim](https://github.com/iomallach/poetry.nvim) ![](https://img.shields.io/github/stars/iomallach/poetry.nvim) ![](https://img.shields.io/github/last-commit/iomallach/poetry.nvim) ![](https://img.shields.io/github/commit-activity/y/iomallach/poetry.nvim)
@@ -242,3 +249,9 @@
 ## Rope
 
 - [niilohlin/rope.nvim](https://github.com/niilohlin/rope.nvim) ![](https://img.shields.io/github/stars/niilohlin/rope.nvim) ![](https://img.shields.io/github/last-commit/niilohlin/rope.nvim) ![](https://img.shields.io/github/commit-activity/y/niilohlin/rope.nvim)
+
+## Packages
+
+### Manim
+
+- [randomdude16671/manimTools.nvim](https://github.com/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/stars/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/last-commit/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/commit-activity/y/randomdude16671/manimTools.nvim)

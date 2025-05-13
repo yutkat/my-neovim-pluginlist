@@ -31,6 +31,7 @@
   * [Twitch](#twitch)
   * [Spotify](#spotify)
   * [StackOverflow](#stackoverflow)
+  * [pastebin](#pastebin)
   * [Meilisearch](#meilisearch)
   * [Trello](#trello)
   * [WordPress](#wordpress)
@@ -217,6 +218,10 @@
 ### StackOverflow
 
 - [jackMort/so.nvim](https://github.com/jackMort/so.nvim) ![](https://img.shields.io/github/stars/jackMort/so.nvim) ![](https://img.shields.io/github/last-commit/jackMort/so.nvim) ![](https://img.shields.io/github/commit-activity/y/jackMort/so.nvim)
+
+### pastebin
+
+- [KoolieAid/pastevim.nvim](https://github.com/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/stars/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/pastevim.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/pastevim.nvim)
 
 ### Meilisearch
 

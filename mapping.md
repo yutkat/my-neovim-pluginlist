@@ -19,6 +19,7 @@
   * [Key](#key)
     + [Escape](#escape)
     + [CapsLock](#capslock)
+    + [Tab](#tab)
     + [Normal Mode](#normal-mode)
       - [Word Motion](#word-motion)
     + [Insert Mode](#insert-mode)
@@ -64,6 +65,9 @@
   - [DeciStudios/mapper-cheatsheet.nvim](https://github.com/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper-cheatsheet.nvim)
 - [shuber2/oneshotstubs.nvim](https://github.com/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/stars/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/last-commit/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/commit-activity/y/shuber2/oneshotstubs.nvim)
 - [echasnovski/mini.keymap](https://github.com/echasnovski/mini.keymap) ![](https://img.shields.io/github/stars/echasnovski/mini.keymap) ![](https://img.shields.io/github/last-commit/echasnovski/mini.keymap) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.keymap)
+- [fmxsh/keypoint.nvim](https://github.com/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/stars/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/keypoint.nvim)
+- [fmxsh/dynkey.nvim](https://github.com/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/stars/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/dynkey.nvim)
+
 
 ### instant mapping
 
@@ -140,6 +144,10 @@
 
 - [dmtrKovalenko/caps-word.nvim](https://github.com/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/caps-word.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/caps-word.nvim)
 - [zongben/capsoff.nvim](https://github.com/zongben/capsoff.nvim) ![](https://img.shields.io/github/stars/zongben/capsoff.nvim) ![](https://img.shields.io/github/last-commit/zongben/capsoff.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/capsoff.nvim)
+
+#### Tab
+
+- [hisbaan/supertab.nvim](https://github.com/hisbaan/supertab.nvim) ![](https://img.shields.io/github/stars/hisbaan/supertab.nvim) ![](https://img.shields.io/github/last-commit/hisbaan/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/hisbaan/supertab.nvim)
 
 #### Normal Mode
 

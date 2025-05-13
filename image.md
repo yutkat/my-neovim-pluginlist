@@ -77,6 +77,7 @@
 - [17xande/track.nvim](https://github.com/17xande/track.nvim) ![](https://img.shields.io/github/stars/17xande/track.nvim) ![](https://img.shields.io/github/last-commit/17xande/track.nvim) ![](https://img.shields.io/github/commit-activity/y/17xande/track.nvim)
 - [wsdjeg/record-key.nvim](https://github.com/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-key.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-key.nvim)
 - [walkingshamrock/slowreader.nvim](https://github.com/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/slowreader.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/slowreader.nvim)
+- [aekasitt/aegis.nvim](https://github.com/aekasitt/aegis.nvim) ![](https://img.shields.io/github/stars/aekasitt/aegis.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/aegis.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/aegis.nvim)
 
 #### Code Image
 
