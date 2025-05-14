@@ -176,6 +176,7 @@
 - [DaviTostes/sh-runner.nvim](https://github.com/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/stars/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/last-commit/DaviTostes/sh-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviTostes/sh-runner.nvim)
 - [antogp24/nvim-compile](https://github.com/antogp24/nvim-compile) ![](https://img.shields.io/github/stars/antogp24/nvim-compile) ![](https://img.shields.io/github/last-commit/antogp24/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/antogp24/nvim-compile)
 - [Soybean44/compilation-mode.nvim](https://github.com/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/stars/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Soybean44/compilation-mode.nvim)
+- [Paul8800/nvim-term-runner](https://github.com/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/stars/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/last-commit/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/commit-activity/y/Paul8800/nvim-term-runner)
 
 ### Auto detect style
 
@@ -200,6 +201,7 @@
 - [Veirt/trun.nvim](https://github.com/Veirt/trun.nvim) ![](https://img.shields.io/github/stars/Veirt/trun.nvim) ![](https://img.shields.io/github/last-commit/Veirt/trun.nvim) ![](https://img.shields.io/github/commit-activity/y/Veirt/trun.nvim)
 - [landonturner/run-cmd.nvim](https://github.com/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/stars/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/last-commit/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/landonturner/run-cmd.nvim)
 - [bestie/paneity.nvim](https://github.com/bestie/paneity.nvim) ![](https://img.shields.io/github/stars/bestie/paneity.nvim) ![](https://img.shields.io/github/last-commit/bestie/paneity.nvim) ![](https://img.shields.io/github/commit-activity/y/bestie/paneity.nvim)
+- [MyName7om/nvim-tmux-pwd](https://github.com/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/stars/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/last-commit/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/commit-activity/y/MyName7om/nvim-tmux-pwd)
 
 ### Auto Execute
 

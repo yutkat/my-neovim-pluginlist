@@ -112,6 +112,7 @@
 
 - [dhananjaylatkar/docgen.nvim](https://github.com/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/stars/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/last-commit/dhananjaylatkar/docgen.nvim) ![](https://img.shields.io/github/commit-activity/y/dhananjaylatkar/docgen.nvim)
 - [tbsklg/nvim-exec](https://github.com/tbsklg/nvim-exec) ![](https://img.shields.io/github/stars/tbsklg/nvim-exec) ![](https://img.shields.io/github/last-commit/tbsklg/nvim-exec) ![](https://img.shields.io/github/commit-activity/y/tbsklg/nvim-exec)
+- [Bekaboo/gen-vimdoc.nvim](https://github.com/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/stars/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/gen-vimdoc.nvim)
 
 ### Comment highlight
 

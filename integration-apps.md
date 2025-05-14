@@ -205,6 +205,7 @@
 #### SonarLint
 
 - [alnav3/sonarlint.nvim](https://github.com/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/stars/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/last-commit/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/commit-activity/y/alnav3/sonarlint.nvim)
+- [iamkarasik/sonarqube.nvim](https://github.com/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/stars/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/last-commit/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/commit-activity/y/iamkarasik/sonarqube.nvim)
 
 #### Kafka
 
@@ -333,6 +334,7 @@
 - [NeverW8/nvim_pw.nvim](https://github.com/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/stars/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/last-commit/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nvim_pw.nvim)
 - [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
 - [simeonoff/1password.nvim](https://github.com/simeonoff/1password.nvim) ![](https://img.shields.io/github/stars/simeonoff/1password.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/1password.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/1password.nvim)
+- [aashan10/passbolt.nvim](https://github.com/aashan10/passbolt.nvim) ![](https://img.shields.io/github/stars/aashan10/passbolt.nvim) ![](https://img.shields.io/github/last-commit/aashan10/passbolt.nvim) ![](https://img.shields.io/github/commit-activity/y/aashan10/passbolt.nvim)
 
 ### IME
 

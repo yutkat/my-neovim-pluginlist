@@ -52,6 +52,7 @@
 - [CWood-sdf/melon.nvim](https://github.com/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/melon.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/melon.nvim)
 - [vanaigr/mark-signs.nvim](https://github.com/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/stars/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/mark-signs.nvim)
 - [insanum/mark-signs.nvim](https://github.com/insanum/mark-signs.nvim) ![](https://img.shields.io/github/stars/insanum/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/insanum/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/insanum/mark-signs.nvim)
+- [bart-vd/visual-marks.nvim](https://github.com/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/stars/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/last-commit/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/bart-vd/visual-marks.nvim)
 
 ### mark note
 

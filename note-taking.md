@@ -256,6 +256,7 @@
 - [jmtd/nvim-microwiki](https://github.com/jmtd/nvim-microwiki) ![](https://img.shields.io/github/stars/jmtd/nvim-microwiki) ![](https://img.shields.io/github/last-commit/jmtd/nvim-microwiki) ![](https://img.shields.io/github/commit-activity/y/jmtd/nvim-microwiki)
 - [TyrannosaurusLjx/wiki.nvim](https://github.com/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/stars/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/last-commit/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/TyrannosaurusLjx/wiki.nvim)
 - [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
+- [wazziro/wikilink.nvim](https://github.com/wazziro/wikilink.nvim) ![](https://img.shields.io/github/stars/wazziro/wikilink.nvim) ![](https://img.shields.io/github/last-commit/wazziro/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/wazziro/wikilink.nvim)
 
 ### VimWiki
 

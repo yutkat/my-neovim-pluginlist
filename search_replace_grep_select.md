@@ -210,6 +210,7 @@
 ### expand region
 
 - [darrell-pittman/wgc-expand-region.nvim](https://github.com/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-expand-region.nvim)
+- [lth-go/nvim-expand-region](https://github.com/lth-go/nvim-expand-region) ![](https://img.shields.io/github/stars/lth-go/nvim-expand-region) ![](https://img.shields.io/github/last-commit/lth-go/nvim-expand-region) ![](https://img.shields.io/github/commit-activity/y/lth-go/nvim-expand-region)
 
 ### narrowing
 
