@@ -128,6 +128,7 @@
 - [vieitesss/command.nvim](https://github.com/vieitesss/command.nvim) ![](https://img.shields.io/github/stars/vieitesss/command.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/command.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/command.nvim)
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
 - [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
+- [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
 
 #### Shell
 
@@ -190,6 +191,7 @@
 - [pauloburke/tt-coderunner.nvim](https://github.com/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/stars/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/last-commit/pauloburke/tt-coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/pauloburke/tt-coderunner.nvim)
 - [WayneYam/mrbruh.nvim](https://github.com/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/stars/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/mrbruh.nvim)
 - [lizeeeee9527/SampleRunner.nvim](https://github.com/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/stars/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/last-commit/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/lizeeeee9527/SampleRunner.nvim)
+- [Paul8800/nvim-term-runner](https://github.com/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/stars/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/last-commit/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/commit-activity/y/Paul8800/nvim-term-runner)
 
 ### :make style
 

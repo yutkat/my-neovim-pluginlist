@@ -13,6 +13,7 @@
   * [SNS](#sns)
     + [Mastodon](#mastodon)
     + [Nostr](#nostr)
+    + [X (Twitter)](#x-twitter)
   * [Notion](#notion)
   * [esa.io](#esaio)
   * [micro.blog](#microblog)
@@ -116,6 +117,10 @@
 #### Nostr
 
 - [candy12t/nostr.nvim](https://github.com/candy12t/nostr.nvim) ![](https://img.shields.io/github/stars/candy12t/nostr.nvim) ![](https://img.shields.io/github/last-commit/candy12t/nostr.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/nostr.nvim)
+
+#### X (Twitter)
+
+- [RomanVolkov/x_threads.nvim](https://github.com/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/stars/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/last-commit/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanVolkov/x_threads.nvim)
 
 ### Notion
 
@@ -335,6 +340,7 @@
 ### SonarQube
 
 - [carlbeattie2000/nvim-sonar-review](https://github.com/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/stars/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/last-commit/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/commit-activity/y/carlbeattie2000/nvim-sonar-review)
+- [iamkarasik/sonarqube.nvim](https://github.com/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/stars/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/last-commit/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/commit-activity/y/iamkarasik/sonarqube.nvim)
 
 ### GLPI
 

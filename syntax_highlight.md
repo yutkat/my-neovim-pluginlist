@@ -235,6 +235,7 @@
 - [IsaacTay/chromaword.nvim](https://github.com/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/stars/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/last-commit/IsaacTay/chromaword.nvim) ![](https://img.shields.io/github/commit-activity/y/IsaacTay/chromaword.nvim)
 - [dwrdx/mywords.nvim](https://github.com/dwrdx/mywords.nvim) ![](https://img.shields.io/github/stars/dwrdx/mywords.nvim) ![](https://img.shields.io/github/last-commit/dwrdx/mywords.nvim) ![](https://img.shields.io/github/commit-activity/y/dwrdx/mywords.nvim)
 - [AT-AT/hlwords.nvim](https://github.com/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/stars/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/last-commit/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/commit-activity/y/AT-AT/hlwords.nvim)
+- [TheLazyCat00/buffon-colors.nvim](https://github.com/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/buffon-colors.nvim)
 
 ### Cursor Jump highlight
 
