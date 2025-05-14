@@ -405,6 +405,7 @@
 
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/last-commit/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/auto-pandoc.nvim)
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
+- [Bekaboo/gen-vimdoc.nvim](https://github.com/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/stars/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/gen-vimdoc.nvim)
 
 ### Tex
 

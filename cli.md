@@ -108,6 +108,7 @@
 - [kiyoon/tmux-send.nvim](https://github.com/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/stars/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/tmux-send.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/tmux-send.nvim)
 - [foskaos/nvim-tmux-uv](https://github.com/foskaos/nvim-tmux-uv) ![](https://img.shields.io/github/stars/foskaos/nvim-tmux-uv) ![](https://img.shields.io/github/last-commit/foskaos/nvim-tmux-uv) ![](https://img.shields.io/github/commit-activity/y/foskaos/nvim-tmux-uv)
 - [titembaatar/tmux-cwd.nvim](https://github.com/titembaatar/tmux-cwd.nvim) ![](https://img.shields.io/github/stars/titembaatar/tmux-cwd.nvim) ![](https://img.shields.io/github/last-commit/titembaatar/tmux-cwd.nvim) ![](https://img.shields.io/github/commit-activity/y/titembaatar/tmux-cwd.nvim)
+- [MyName7om/nvim-tmux-pwd](https://github.com/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/stars/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/last-commit/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/commit-activity/y/MyName7om/nvim-tmux-pwd)
 
 ##### tmux alternative
 
