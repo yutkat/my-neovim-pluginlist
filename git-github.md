@@ -157,6 +157,7 @@
 - [marzeq/visual-commit.nvim](https://github.com/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/stars/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/last-commit/marzeq/visual-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/marzeq/visual-commit.nvim)
 - [JosephPenaQuino/committer.nvim](https://github.com/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/stars/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/last-commit/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/commit-activity/y/JosephPenaQuino/committer.nvim)
 - [ken11/GitComet.nvim](https://github.com/ken11/GitComet.nvim) ![](https://img.shields.io/github/stars/ken11/GitComet.nvim) ![](https://img.shields.io/github/last-commit/ken11/GitComet.nvim) ![](https://img.shields.io/github/commit-activity/y/ken11/GitComet.nvim)
+- [m4dd0c/CommitGPT.nvim](https://github.com/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/stars/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/last-commit/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/m4dd0c/CommitGPT.nvim)
 
 #### prefix(conventional-commits)
 
@@ -512,6 +513,7 @@
 - [jangraefen/open-repo.nvim](https://github.com/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/stars/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/last-commit/jangraefen/open-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/jangraefen/open-repo.nvim)
 - [dklbreitling/ygr.nvim](https://github.com/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/stars/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/last-commit/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/commit-activity/y/dklbreitling/ygr.nvim)
 - [wsdjeg/gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/stars/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/gitlink.nvim)
+- [delphinus/rtbrowse.nvim](https://github.com/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/stars/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtbrowse.nvim)
 
 ### Image
 
