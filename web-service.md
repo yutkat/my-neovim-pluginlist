@@ -219,6 +219,7 @@
 - [mmuldo/spotify.nvim](https://github.com/mmuldo/spotify.nvim) ![](https://img.shields.io/github/stars/mmuldo/spotify.nvim) ![](https://img.shields.io/github/last-commit/mmuldo/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/mmuldo/spotify.nvim)
 - [jfinnis/spotify-notification.nvim](https://github.com/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/stars/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/last-commit/jfinnis/spotify-notification.nvim) ![](https://img.shields.io/github/commit-activity/y/jfinnis/spotify-notification.nvim)
 - [FocusThen/music-player.nvim](https://github.com/FocusThen/music-player.nvim) ![](https://img.shields.io/github/stars/FocusThen/music-player.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/music-player.nvim)
+- [coreyb-git/spotify-player.nvim](https://github.com/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/stars/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/spotify-player.nvim)
 
 ### StackOverflow
 

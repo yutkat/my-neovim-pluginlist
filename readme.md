@@ -320,6 +320,7 @@
 
 - [julienvincent/nvim-paredit](https://github.com/julienvincent/nvim-paredit) ![](https://img.shields.io/github/stars/julienvincent/nvim-paredit) ![](https://img.shields.io/github/last-commit/julienvincent/nvim-paredit) ![](https://img.shields.io/github/commit-activity/y/julienvincent/nvim-paredit)
   - [dnebauer/dn-markdown.nvim](https://github.com/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-markdown.nvim)
+- [carlinigraphy/structured.nvim](https://github.com/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/structured.nvim)
 
 ### Edit Prediction
 
