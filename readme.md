@@ -532,7 +532,6 @@
 
 ### Uptime
 
-- [XisEnine/nvim-uptime](https://github.com/XisEnine/nvim-uptime) ![](https://img.shields.io/github/stars/XisEnine/nvim-uptime) ![](https://img.shields.io/github/last-commit/XisEnine/nvim-uptime) ![](https://img.shields.io/github/commit-activity/y/XisEnine/nvim-uptime)
 
 ### File Handling
 
