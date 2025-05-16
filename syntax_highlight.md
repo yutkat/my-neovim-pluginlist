@@ -112,6 +112,7 @@
 
 - [NvChad/minty](https://github.com/NvChad/minty) ![](https://img.shields.io/github/stars/NvChad/minty) ![](https://img.shields.io/github/last-commit/NvChad/minty) ![](https://img.shields.io/github/commit-activity/y/NvChad/minty)
 - [shushtain/spectrolite.nvim](https://github.com/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/stars/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/last-commit/shushtain/spectrolite.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/spectrolite.nvim)
+- [barium-bromide/colortils.nvim](https://github.com/barium-bromide/colortils.nvim) ![](https://img.shields.io/github/stars/barium-bromide/colortils.nvim) ![](https://img.shields.io/github/last-commit/barium-bromide/colortils.nvim) ![](https://img.shields.io/github/commit-activity/y/barium-bromide/colortils.nvim)
 
 ### ANSI Colorize
 
