@@ -98,6 +98,7 @@
 - [allesis/foundations.nvim](https://github.com/allesis/foundations.nvim) ![](https://img.shields.io/github/stars/allesis/foundations.nvim) ![](https://img.shields.io/github/last-commit/allesis/foundations.nvim) ![](https://img.shields.io/github/commit-activity/y/allesis/foundations.nvim)
 - [WayneYam/cp_template.nvim](https://github.com/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/stars/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/cp_template.nvim)
 - [Stewie410/boiler.nvim](https://github.com/Stewie410/boiler.nvim) ![](https://img.shields.io/github/stars/Stewie410/boiler.nvim) ![](https://img.shields.io/github/last-commit/Stewie410/boiler.nvim) ![](https://img.shields.io/github/commit-activity/y/Stewie410/boiler.nvim)
+- [viitorags/scaffy.nvim](https://github.com/viitorags/scaffy.nvim) ![](https://img.shields.io/github/stars/viitorags/scaffy.nvim) ![](https://img.shields.io/github/last-commit/viitorags/scaffy.nvim) ![](https://img.shields.io/github/commit-activity/y/viitorags/scaffy.nvim)
 
 #### README
 

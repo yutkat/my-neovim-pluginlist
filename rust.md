@@ -16,6 +16,7 @@
   * [lifetime](#lifetime)
   * [Framework](#framework)
     + [Dioxus](#dioxus)
+    + [tera](#tera)
 
 <!-- tocstop -->
 
@@ -82,3 +83,7 @@
 #### Dioxus
 
 - [mrxiaozhuox/dioxus.nvim](https://github.com/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/stars/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/last-commit/mrxiaozhuox/dioxus.nvim) ![](https://img.shields.io/github/commit-activity/y/mrxiaozhuox/dioxus.nvim)
+
+#### tera
+
+- [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/stars/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/last-commit/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/commit-activity/y/MuntasirSZN/tera-autoextsyn.nvim)
