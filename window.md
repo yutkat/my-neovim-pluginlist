@@ -102,6 +102,7 @@
 - [joaomendoncaa/sane-splits.nvim](https://github.com/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sane-splits.nvim)
 - [CharlesBClarke/fibonacci-splits.nvim](https://github.com/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/stars/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/last-commit/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesBClarke/fibonacci-splits.nvim)
 - [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
+- [Hrumble/smart-splitter.nvim](https://github.com/Hrumble/smart-splitter.nvim) ![](https://img.shields.io/github/stars/Hrumble/smart-splitter.nvim) ![](https://img.shields.io/github/last-commit/Hrumble/smart-splitter.nvim) ![](https://img.shields.io/github/commit-activity/y/Hrumble/smart-splitter.nvim)
 
 #### Popup
 

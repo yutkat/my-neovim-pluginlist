@@ -109,6 +109,7 @@
 - [AlexanderHott/keyquest.nvim](https://github.com/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/stars/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/last-commit/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderHott/keyquest.nvim)
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/stars/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/last-commit/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/meznaric/key-analyzer.nvim)
 - [JulianNymark/telescope_grouped_keymaps.nvim](https://github.com/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/stars/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/last-commit/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianNymark/telescope_grouped_keymaps.nvim)
+- [anuramat/figtree.nvim](https://github.com/anuramat/figtree.nvim) ![](https://img.shields.io/github/stars/anuramat/figtree.nvim) ![](https://img.shields.io/github/last-commit/anuramat/figtree.nvim) ![](https://img.shields.io/github/commit-activity/y/anuramat/figtree.nvim)
 
 ### Prefix Key Binding
 
