@@ -98,6 +98,7 @@
 - [aaronma37/motion-preview.nvim](https://github.com/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/stars/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/last-commit/aaronma37/motion-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronma37/motion-preview.nvim)
 - [ElanMedoff/ft-highlight.nvim](https://github.com/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/ft-highlight.nvim)
 - [Suryansh-Dey/to-future.nvim](https://github.com/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/stars/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/last-commit/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/commit-activity/y/Suryansh-Dey/to-future.nvim)
+- [gustavosbarreto/momentum.nvim](https://github.com/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/stars/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/last-commit/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavosbarreto/momentum.nvim)
 
 #### Show jump word
 

@@ -30,6 +30,7 @@
 - [Magic-JD/NoisyVim.nvim](https://github.com/Magic-JD/NoisyVim.nvim) ![](https://img.shields.io/github/stars/Magic-JD/NoisyVim.nvim) ![](https://img.shields.io/github/last-commit/Magic-JD/NoisyVim.nvim) ![](https://img.shields.io/github/commit-activity/y/Magic-JD/NoisyVim.nvim)
 - [EggbertFluffle/beepboop.nvim](https://github.com/EggbertFluffle/beepboop.nvim) ![](https://img.shields.io/github/stars/EggbertFluffle/beepboop.nvim) ![](https://img.shields.io/github/last-commit/EggbertFluffle/beepboop.nvim) ![](https://img.shields.io/github/commit-activity/y/EggbertFluffle/beepboop.nvim)
 - [jackplus-xyz/player-one.nvim](https://github.com/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/player-one.nvim)
+- [KeithETruesdell/combo-mode.nvim](https://github.com/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/stars/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/last-commit/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/KeithETruesdell/combo-mode.nvim)
 
 ### event sound
 
