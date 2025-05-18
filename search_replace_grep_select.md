@@ -231,6 +231,7 @@
 - [jake-stewart/multicursor.nvim](https://github.com/jake-stewart/multicursor.nvim) ![](https://img.shields.io/github/stars/jake-stewart/multicursor.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/multicursor.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/multicursor.nvim)
 - [xzbdmw/clasp.nvim](https://github.com/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/stars/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/last-commit/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/commit-activity/y/xzbdmw/clasp.nvim)
 - [wsdjeg/iedit.nvim](https://github.com/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/stars/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/iedit.nvim)
+- [zaucy/mcos.nvim](https://github.com/zaucy/mcos.nvim) ![](https://img.shields.io/github/stars/zaucy/mcos.nvim) ![](https://img.shields.io/github/last-commit/zaucy/mcos.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/mcos.nvim)
 
 ### Incremental selection
 

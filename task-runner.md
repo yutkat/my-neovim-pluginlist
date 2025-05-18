@@ -129,6 +129,7 @@
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
 - [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
 - [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
+- [y0ug/ctx.nvim](https://github.com/y0ug/ctx.nvim) ![](https://img.shields.io/github/stars/y0ug/ctx.nvim) ![](https://img.shields.io/github/last-commit/y0ug/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/y0ug/ctx.nvim)
 
 #### Shell
 
