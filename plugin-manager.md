@@ -20,6 +20,7 @@
 <!-- tocstop -->
 
 ## Plugin Manager
+- [0xzhzh/chez.nvim](https://github.com/0xzhzh/chez.nvim) ![](https://img.shields.io/github/stars/0xzhzh/chez.nvim) ![](https://img.shields.io/github/last-commit/0xzhzh/chez.nvim) ![](https://img.shields.io/github/commit-activity/y/0xzhzh/chez.nvim)
 
 ### Add runtime path (vim-plug like)
 

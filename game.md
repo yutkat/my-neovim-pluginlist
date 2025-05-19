@@ -62,6 +62,7 @@
 - [gbelouze/stereotype.nvim](https://github.com/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/stars/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/last-commit/gbelouze/stereotype.nvim) ![](https://img.shields.io/github/commit-activity/y/gbelouze/stereotype.nvim)
 - [gerazov/wpm.nvim](https://github.com/gerazov/wpm.nvim) ![](https://img.shields.io/github/stars/gerazov/wpm.nvim) ![](https://img.shields.io/github/last-commit/gerazov/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/wpm.nvim)
 - [nvzone/typr](https://github.com/nvzone/typr) ![](https://img.shields.io/github/stars/nvzone/typr) ![](https://img.shields.io/github/last-commit/nvzone/typr) ![](https://img.shields.io/github/commit-activity/y/nvzone/typr)
+- [JohnnyJumper/neotypist.nvim](https://github.com/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/stars/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/last-commit/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnnyJumper/neotypist.nvim)
 
 ### FiveM
 

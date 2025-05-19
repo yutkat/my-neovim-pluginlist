@@ -259,6 +259,7 @@
 - [Chen-Yulin/ColorfulDiff.nvim](https://github.com/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/stars/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/last-commit/Chen-Yulin/ColorfulDiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Chen-Yulin/ColorfulDiff.nvim)
 - [jecaro/fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/stars/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/last-commit/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/commit-activity/y/jecaro/fugitive-difftool.nvim)
 - [tronikelis/telescope-git-diff-stat.nvim](https://github.com/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/stars/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/telescope-git-diff-stat.nvim)
+- [yuukibarns/diffwatch.nvim](https://github.com/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/stars/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/diffwatch.nvim)
 
 #### image diff
 
@@ -514,6 +515,7 @@
 - [dklbreitling/ygr.nvim](https://github.com/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/stars/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/last-commit/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/commit-activity/y/dklbreitling/ygr.nvim)
 - [wsdjeg/gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/stars/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/gitlink.nvim)
 - [delphinus/rtbrowse.nvim](https://github.com/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/stars/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtbrowse.nvim)
+- [Le0Michine/nvim-sharegitlink](https://github.com/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/stars/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/last-commit/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/commit-activity/y/Le0Michine/nvim-sharegitlink)
 
 ### Image
 

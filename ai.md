@@ -190,6 +190,7 @@
 - [Speiser/openwebui.nvim](https://github.com/Speiser/openwebui.nvim) ![](https://img.shields.io/github/stars/Speiser/openwebui.nvim) ![](https://img.shields.io/github/last-commit/Speiser/openwebui.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/openwebui.nvim)
 - [minollisantiago/lazyllm.nvim](https://github.com/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/stars/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/last-commit/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/commit-activity/y/minollisantiago/lazyllm.nvim)
 - [DavidTelenko/texel.nvim](https://github.com/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/stars/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/last-commit/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidTelenko/texel.nvim)
+- [ryugenxd/gen.nvim](https://github.com/ryugenxd/gen.nvim) ![](https://img.shields.io/github/stars/ryugenxd/gen.nvim) ![](https://img.shields.io/github/last-commit/ryugenxd/gen.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugenxd/gen.nvim)
 
 #### mods
 

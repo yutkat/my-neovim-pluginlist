@@ -109,6 +109,7 @@
 - [AlexanderHott/keyquest.nvim](https://github.com/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/stars/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/last-commit/AlexanderHott/keyquest.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderHott/keyquest.nvim)
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/stars/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/last-commit/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/meznaric/key-analyzer.nvim)
 - [JulianNymark/telescope_grouped_keymaps.nvim](https://github.com/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/stars/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/last-commit/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianNymark/telescope_grouped_keymaps.nvim)
+- [JFryy/keytrail.nvim](https://github.com/JFryy/keytrail.nvim) ![](https://img.shields.io/github/stars/JFryy/keytrail.nvim) ![](https://img.shields.io/github/last-commit/JFryy/keytrail.nvim) ![](https://img.shields.io/github/commit-activity/y/JFryy/keytrail.nvim)
 
 ### Prefix Key Binding
 
