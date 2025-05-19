@@ -136,6 +136,7 @@
 - [aileot/nvim-laurel](https://github.com/aileot/nvim-laurel) ![](https://img.shields.io/github/stars/aileot/nvim-laurel) ![](https://img.shields.io/github/last-commit/aileot/nvim-laurel) ![](https://img.shields.io/github/commit-activity/y/aileot/nvim-laurel)
 - [Olical/nfnl](https://github.com/Olical/nfnl) ![](https://img.shields.io/github/stars/Olical/nfnl) ![](https://img.shields.io/github/last-commit/Olical/nfnl) ![](https://img.shields.io/github/commit-activity/y/Olical/nfnl)
 - [HiPhish/fennel-repl.nvim](https://github.com/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/stars/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/fennel-repl.nvim)
+- [whazzabii7/lua-fennel-lens.nvim](https://github.com/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/stars/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/last-commit/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/whazzabii7/lua-fennel-lens.nvim)
 
 ## Rust
 

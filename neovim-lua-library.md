@@ -55,6 +55,7 @@
 - [random variable names](#random-variable-names)
 - [Mathematics](#mathematics)
 - [Treesitter](#treesitter)
+- [Neovim Server](#neovim-server)
 - [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
 - [Completion](#completion)
@@ -355,6 +356,10 @@
 
 - [tjdevries/tree-sitter-lua](https://github.com/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/stars/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/last-commit/tjdevries/tree-sitter-lua) ![](https://img.shields.io/github/commit-activity/y/tjdevries/tree-sitter-lua)
 
+## Neovim Server
+
+- [phanen/ui-proxy.nvim](https://github.com/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/stars/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/last-commit/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ui-proxy.nvim)
+
 ## Tokenizer
 
 - [sirasagi62/tinysegmenter.nvim](https://github.com/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/stars/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/last-commit/sirasagi62/tinysegmenter.nvim) ![](https://img.shields.io/github/commit-activity/y/sirasagi62/tinysegmenter.nvim)
@@ -399,3 +404,4 @@
 - [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
 - [aubs-dev/NLIB.nvim](https://github.com/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/stars/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/NLIB.nvim)
 - [navicore/nvim-naviscripts](https://github.com/navicore/nvim-naviscripts) ![](https://img.shields.io/github/stars/navicore/nvim-naviscripts) ![](https://img.shields.io/github/last-commit/navicore/nvim-naviscripts) ![](https://img.shields.io/github/commit-activity/y/navicore/nvim-naviscripts)
+- [wet-sandwich/toolbox.nvim](https://github.com/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/toolbox.nvim)
