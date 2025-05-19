@@ -53,6 +53,7 @@
 - [nmiguel/jqscratch.nvim](https://github.com/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/stars/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/last-commit/nmiguel/jqscratch.nvim) ![](https://img.shields.io/github/commit-activity/y/nmiguel/jqscratch.nvim)
 - [davidmh/json-schema-validator.nvim](https://github.com/davidmh/json-schema-validator.nvim) ![](https://img.shields.io/github/stars/davidmh/json-schema-validator.nvim) ![](https://img.shields.io/github/last-commit/davidmh/json-schema-validator.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/json-schema-validator.nvim)
 - [osullivandonal/json-format.nvim](https://github.com/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/stars/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/last-commit/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/commit-activity/y/osullivandonal/json-format.nvim)
+- [JFryy/keytrail.nvim](https://github.com/JFryy/keytrail.nvim) ![](https://img.shields.io/github/stars/JFryy/keytrail.nvim) ![](https://img.shields.io/github/last-commit/JFryy/keytrail.nvim) ![](https://img.shields.io/github/commit-activity/y/JFryy/keytrail.nvim)
 
 #### fx
 

@@ -77,6 +77,7 @@
 - [XiaoConstantine/mongoose.nvim](https://github.com/XiaoConstantine/mongoose.nvim) ![](https://img.shields.io/github/stars/XiaoConstantine/mongoose.nvim) ![](https://img.shields.io/github/last-commit/XiaoConstantine/mongoose.nvim) ![](https://img.shields.io/github/commit-activity/y/XiaoConstantine/mongoose.nvim)
 - [Hashino/speed.nvim](https://github.com/Hashino/speed.nvim) ![](https://img.shields.io/github/stars/Hashino/speed.nvim) ![](https://img.shields.io/github/last-commit/Hashino/speed.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/speed.nvim)
 - [Hashino/speed.nvim](https://github.com/Hashino/speed.nvim) ![](https://img.shields.io/github/stars/Hashino/speed.nvim) ![](https://img.shields.io/github/last-commit/Hashino/speed.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/speed.nvim)
+- [JohnnyJumper/neotypist.nvim](https://github.com/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/stars/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/last-commit/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnnyJumper/neotypist.nvim)
 
 ### Operation Log
 

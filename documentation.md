@@ -233,6 +233,7 @@
 - [rmunozan/Cosh.nvim](https://github.com/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/stars/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/last-commit/rmunozan/Cosh.nvim) ![](https://img.shields.io/github/commit-activity/y/rmunozan/Cosh.nvim)
 - [md-babel/md-babel.nvim](https://github.com/md-babel/md-babel.nvim) ![](https://img.shields.io/github/stars/md-babel/md-babel.nvim) ![](https://img.shields.io/github/last-commit/md-babel/md-babel.nvim) ![](https://img.shields.io/github/commit-activity/y/md-babel/md-babel.nvim)
 - [raj77in/nvim-fencepolish](https://github.com/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/stars/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/last-commit/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/commit-activity/y/raj77in/nvim-fencepolish)
+- [y0ug/ctx.nvim](https://github.com/y0ug/ctx.nvim) ![](https://img.shields.io/github/stars/y0ug/ctx.nvim) ![](https://img.shields.io/github/last-commit/y0ug/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/y0ug/ctx.nvim)
 
 #### Markdown table
 

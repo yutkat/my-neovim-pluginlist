@@ -514,6 +514,7 @@
 - [dklbreitling/ygr.nvim](https://github.com/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/stars/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/last-commit/dklbreitling/ygr.nvim) ![](https://img.shields.io/github/commit-activity/y/dklbreitling/ygr.nvim)
 - [wsdjeg/gitlink.nvim](https://github.com/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/stars/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/gitlink.nvim)
 - [delphinus/rtbrowse.nvim](https://github.com/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/stars/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/last-commit/delphinus/rtbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/rtbrowse.nvim)
+- [Le0Michine/nvim-sharegitlink](https://github.com/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/stars/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/last-commit/Le0Michine/nvim-sharegitlink) ![](https://img.shields.io/github/commit-activity/y/Le0Michine/nvim-sharegitlink)
 
 ### Image
 

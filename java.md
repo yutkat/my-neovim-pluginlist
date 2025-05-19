@@ -64,6 +64,7 @@
 - [trabeast/thymeleaf-compile.nvim](https://github.com/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/stars/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/last-commit/trabeast/thymeleaf-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/trabeast/thymeleaf-compile.nvim)
 - [jkeresman01/java-maven-test.nvim](https://github.com/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-maven-test.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-maven-test.nvim)
 - [pojokcodeid/auto-java-project.nvim](https://github.com/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-java-project.nvim)
+- [diogof146/java-project-creator.nvim](https://github.com/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/stars/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/last-commit/diogof146/java-project-creator.nvim) ![](https://img.shields.io/github/commit-activity/y/diogof146/java-project-creator.nvim)
 
 ### Gradle
 
@@ -76,6 +77,7 @@
 - [mslauson/spring-boot.nvim](https://github.com/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/stars/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/mslauson/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/mslauson/spring-boot.nvim)
 - [zerochae/telescope-spring.nvim](https://github.com/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/stars/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/last-commit/zerochae/telescope-spring.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/telescope-spring.nvim)
 - [JavaHello/spring-boot.nvim](https://github.com/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/stars/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/JavaHello/spring-boot.nvim)
+- [maidinhhuy/spring-boot.nvim](https://github.com/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/stars/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/maidinhhuy/spring-boot.nvim)
 
 ### JBoss
 

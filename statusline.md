@@ -82,6 +82,7 @@
 - [Ernest1338/eg-statusline.nvim](https://github.com/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/stars/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/last-commit/Ernest1338/eg-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/Ernest1338/eg-statusline.nvim)
 - [brianaung/yasl.nvim](https://github.com/brianaung/yasl.nvim) ![](https://img.shields.io/github/stars/brianaung/yasl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/yasl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/yasl.nvim)
 - [tkachenkosi/myline.nvim](https://github.com/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/myline.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/myline.nvim)
+- [at2er/simple-statusline.nvim](https://github.com/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/stars/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/last-commit/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/at2er/simple-statusline.nvim)
 
 #### Special Features
 
