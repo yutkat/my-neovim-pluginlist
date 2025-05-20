@@ -53,6 +53,7 @@
 - [vanaigr/mark-signs.nvim](https://github.com/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/stars/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/mark-signs.nvim)
 - [insanum/mark-signs.nvim](https://github.com/insanum/mark-signs.nvim) ![](https://img.shields.io/github/stars/insanum/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/insanum/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/insanum/mark-signs.nvim)
 - [bart-vd/visual-marks.nvim](https://github.com/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/stars/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/last-commit/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/bart-vd/visual-marks.nvim)
+- [tgallacher/waypoint.nvim](https://github.com/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/stars/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/last-commit/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/tgallacher/waypoint.nvim)
 
 ### mark note
 

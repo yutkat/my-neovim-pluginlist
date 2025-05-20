@@ -12,6 +12,7 @@
 - [Reactive](#reactive)
 - [String](#string)
 - [List](#list)
+- [Type](#type)
 - [Save lua variable](#save-lua-variable)
 - [File](#file)
   * [Path](#path)
@@ -127,6 +128,10 @@
 ## List
 
 - [al1-ce/jsfunc.nvim](https://github.com/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/stars/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/jsfunc.nvim)
+
+## Type
+
+- [ElanMedoff/schema-validator.nvim](https://github.com/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/schema-validator.nvim)
 
 ## Save lua variable
 

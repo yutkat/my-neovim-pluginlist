@@ -31,6 +31,7 @@
   * [Current block highlight](#current-block-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
   * [Cursor Jump highlight](#cursor-jump-highlight)
+  * [Variable color](#variable-color)
   * [Edit highlight](#edit-highlight)
   * [Error highlight](#error-highlight)
   * [Night Mode](#night-mode)
@@ -244,6 +245,10 @@
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
 - [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) ![](https://img.shields.io/github/stars/mei28/luminate.nvim) ![](https://img.shields.io/github/last-commit/mei28/luminate.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/luminate.nvim)
+
+### Variable color
+
+- [goldos24/rainbow-variables-nvim](https://github.com/goldos24/rainbow-variables-nvim) ![](https://img.shields.io/github/stars/goldos24/rainbow-variables-nvim) ![](https://img.shields.io/github/last-commit/goldos24/rainbow-variables-nvim) ![](https://img.shields.io/github/commit-activity/y/goldos24/rainbow-variables-nvim)
 
 ### Edit highlight
 
