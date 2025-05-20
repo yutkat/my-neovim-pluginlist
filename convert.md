@@ -52,6 +52,7 @@
 - [Ipomoea/increment.nvim](https://github.com/Ipomoea/increment.nvim) ![](https://img.shields.io/github/stars/Ipomoea/increment.nvim) ![](https://img.shields.io/github/last-commit/Ipomoea/increment.nvim) ![](https://img.shields.io/github/commit-activity/y/Ipomoea/increment.nvim)
 - [Joreh-T/caseConverter.nvim](https://github.com/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/stars/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/caseConverter.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/caseConverter.nvim)
 - [Goose97/alternative.nvim](https://github.com/Goose97/alternative.nvim) ![](https://img.shields.io/github/stars/Goose97/alternative.nvim) ![](https://img.shields.io/github/last-commit/Goose97/alternative.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/alternative.nvim)
+- [Paperweightt/transmute.nvim](https://github.com/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/stars/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/transmute.nvim)
 
 ### Convert Word
 

@@ -86,6 +86,7 @@
 ### Lazy load
 
 - [Xarvex/lazy-load.nvim](https://github.com/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/stars/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/last-commit/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/commit-activity/y/Xarvex/lazy-load.nvim)
+- [alfamegaxq/nvim-autoloader](https://github.com/alfamegaxq/nvim-autoloader) ![](https://img.shields.io/github/stars/alfamegaxq/nvim-autoloader) ![](https://img.shields.io/github/last-commit/alfamegaxq/nvim-autoloader) ![](https://img.shields.io/github/commit-activity/y/alfamegaxq/nvim-autoloader)
 
 ### Plugin Config
 
