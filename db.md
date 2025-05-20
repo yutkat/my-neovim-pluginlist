@@ -46,6 +46,7 @@
 - [nolleh/sqlsnap.nvim](https://github.com/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/stars/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/last-commit/nolleh/sqlsnap.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/sqlsnap.nvim)
 - [pmouraguedes/sql-ghosty.nvim](https://github.com/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/stars/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/last-commit/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/commit-activity/y/pmouraguedes/sql-ghosty.nvim)
 - [michhernand/simple-sqlfluff.nvim](https://github.com/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/stars/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/last-commit/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/commit-activity/y/michhernand/simple-sqlfluff.nvim)
+- [adtyap26/sql_docs.nvim](https://github.com/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/stars/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/last-commit/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/commit-activity/y/adtyap26/sql_docs.nvim)
 
 ### PostgreSQL
 

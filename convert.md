@@ -91,6 +91,7 @@
 - [svban/NumbSub.nvim](https://github.com/svban/NumbSub.nvim) ![](https://img.shields.io/github/stars/svban/NumbSub.nvim) ![](https://img.shields.io/github/last-commit/svban/NumbSub.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/NumbSub.nvim)
 - [svban/Numeralize.nvim](https://github.com/svban/Numeralize.nvim) ![](https://img.shields.io/github/stars/svban/Numeralize.nvim) ![](https://img.shields.io/github/last-commit/svban/Numeralize.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/Numeralize.nvim)
 - [mimikun/num-utils.nvim](https://github.com/mimikun/num-utils.nvim) ![](https://img.shields.io/github/stars/mimikun/num-utils.nvim) ![](https://img.shields.io/github/last-commit/mimikun/num-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/num-utils.nvim)
+- [Paperweightt/transmute.nvim](https://github.com/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/stars/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/transmute.nvim)
 
 ### Color
 

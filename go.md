@@ -21,6 +21,7 @@
   * [Template](#template)
   * [Type](#type)
   * [Generator](#generator)
+  * [if err](#if-err)
   * [Hint](#hint)
   * [templ.guide](#templguide)
   * [gomodifytags](#gomodifytags)
@@ -154,6 +155,10 @@
 ### Generator
 
 - [cszczepaniak/go-tools.nvim](https://github.com/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/go-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/go-tools.nvim)
+
+### if err
+
+- [candy12t/goerrfold.nvim](https://github.com/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/stars/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/last-commit/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/goerrfold.nvim)
 
 ### Hint
 
