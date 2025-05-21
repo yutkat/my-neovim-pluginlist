@@ -37,6 +37,7 @@
 - [SylvanFranklin/omni-preview.nvim](https://github.com/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/stars/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/last-commit/SylvanFranklin/omni-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SylvanFranklin/omni-preview.nvim)
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) ![](https://img.shields.io/github/stars/Skardyy/neo-img) ![](https://img.shields.io/github/last-commit/Skardyy/neo-img) ![](https://img.shields.io/github/commit-activity/y/Skardyy/neo-img)
 - [dhanvithnayak/imvue.nvim](https://github.com/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/stars/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/last-commit/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/commit-activity/y/dhanvithnayak/imvue.nvim)
+- [gh-liu/nvim-stevedore](https://github.com/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/stars/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-stevedore)
 
 ### Image Magick
 
