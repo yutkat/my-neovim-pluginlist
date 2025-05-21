@@ -334,6 +334,7 @@
 - [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
 - [simeonoff/1password.nvim](https://github.com/simeonoff/1password.nvim) ![](https://img.shields.io/github/stars/simeonoff/1password.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/1password.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/1password.nvim)
 - [aashan10/passbolt.nvim](https://github.com/aashan10/passbolt.nvim) ![](https://img.shields.io/github/stars/aashan10/passbolt.nvim) ![](https://img.shields.io/github/last-commit/aashan10/passbolt.nvim) ![](https://img.shields.io/github/commit-activity/y/aashan10/passbolt.nvim)
+- [jpalardy/age-secret.nvim](https://github.com/jpalardy/age-secret.nvim) ![](https://img.shields.io/github/stars/jpalardy/age-secret.nvim) ![](https://img.shields.io/github/last-commit/jpalardy/age-secret.nvim) ![](https://img.shields.io/github/commit-activity/y/jpalardy/age-secret.nvim)
 
 ### IME
 

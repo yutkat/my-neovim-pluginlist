@@ -128,6 +128,7 @@
 - [mattcookio/pivot.nvim](https://github.com/mattcookio/pivot.nvim) ![](https://img.shields.io/github/stars/mattcookio/pivot.nvim) ![](https://img.shields.io/github/last-commit/mattcookio/pivot.nvim) ![](https://img.shields.io/github/commit-activity/y/mattcookio/pivot.nvim)
 - [siquitch/jumpr.nvim](https://github.com/siquitch/jumpr.nvim) ![](https://img.shields.io/github/stars/siquitch/jumpr.nvim) ![](https://img.shields.io/github/last-commit/siquitch/jumpr.nvim) ![](https://img.shields.io/github/commit-activity/y/siquitch/jumpr.nvim)
 - [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
+- [zaucy/multibuffer.nvim](https://github.com/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/stars/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/last-commit/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/multibuffer.nvim)
 
 #### create
 
