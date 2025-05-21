@@ -26,6 +26,7 @@
 - [ochi12/neodent.nvim](https://github.com/ochi12/neodent.nvim) ![](https://img.shields.io/github/stars/ochi12/neodent.nvim) ![](https://img.shields.io/github/last-commit/ochi12/neodent.nvim) ![](https://img.shields.io/github/commit-activity/y/ochi12/neodent.nvim)
 - [suwuako/fibonaccindent.nvim](https://github.com/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/stars/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/last-commit/suwuako/fibonaccindent.nvim) ![](https://img.shields.io/github/commit-activity/y/suwuako/fibonaccindent.nvim)
 - [wurli/contextindent.nvim](https://github.com/wurli/contextindent.nvim) ![](https://img.shields.io/github/stars/wurli/contextindent.nvim) ![](https://img.shields.io/github/last-commit/wurli/contextindent.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/contextindent.nvim)
+- [sajibprime3/indent-manager.nvim](https://github.com/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/stars/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/last-commit/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/sajibprime3/indent-manager.nvim)
 
 ### Indent Shift
 

@@ -314,6 +314,7 @@
 ## Buffer
 
 - [matu3ba/libbuf.nvim](https://github.com/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/stars/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/last-commit/matu3ba/libbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/matu3ba/libbuf.nvim)
+- [zaucy/multibuffer.nvim](https://github.com/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/stars/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/last-commit/zaucy/multibuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/multibuffer.nvim)
 
 ## Keymap
 
