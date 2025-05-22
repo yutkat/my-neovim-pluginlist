@@ -33,6 +33,7 @@
 - [whisperpine/quickfix-messages.nvim](https://github.com/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/stars/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/last-commit/whisperpine/quickfix-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/whisperpine/quickfix-messages.nvim)
 - [shmerl/quickfixdel](https://github.com/shmerl/quickfixdel) ![](https://img.shields.io/github/stars/shmerl/quickfixdel) ![](https://img.shields.io/github/last-commit/shmerl/quickfixdel) ![](https://img.shields.io/github/commit-activity/y/shmerl/quickfixdel)
 - [ddickstein/qf-delete.nvim](https://github.com/ddickstein/qf-delete.nvim) ![](https://img.shields.io/github/stars/ddickstein/qf-delete.nvim) ![](https://img.shields.io/github/last-commit/ddickstein/qf-delete.nvim) ![](https://img.shields.io/github/commit-activity/y/ddickstein/qf-delete.nvim)
+- [ElanMedoff/quickfix-preview.nvim](https://github.com/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/quickfix-preview.nvim)
 
 ### Output the list to another format
 

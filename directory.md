@@ -38,6 +38,7 @@
 - [skywind3000/z.lua](https://github.com/skywind3000/z.lua) ![](https://img.shields.io/github/stars/skywind3000/z.lua) ![](https://img.shields.io/github/last-commit/skywind3000/z.lua) ![](https://img.shields.io/github/commit-activity/y/skywind3000/z.lua)
 - [tenfyzhong/z.nvim](https://github.com/tenfyzhong/z.nvim) ![](https://img.shields.io/github/stars/tenfyzhong/z.nvim) ![](https://img.shields.io/github/last-commit/tenfyzhong/z.nvim) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/z.nvim)
 - [PriceHiller/z.nvim](https://github.com/PriceHiller/z.nvim) ![](https://img.shields.io/github/stars/PriceHiller/z.nvim) ![](https://img.shields.io/github/last-commit/PriceHiller/z.nvim) ![](https://img.shields.io/github/commit-activity/y/PriceHiller/z.nvim)
+- [db757/zz.nvim](https://github.com/db757/zz.nvim) ![](https://img.shields.io/github/stars/db757/zz.nvim) ![](https://img.shields.io/github/last-commit/db757/zz.nvim) ![](https://img.shields.io/github/commit-activity/y/db757/zz.nvim)
 
 ### CWD
 
