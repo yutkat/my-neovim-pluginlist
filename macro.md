@@ -24,6 +24,7 @@
 - [maarutan/macro-notify.nvim](https://github.com/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/stars/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/last-commit/maarutan/macro-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/macro-notify.nvim)
 - [z0rzi/do-at-each.nvim](https://github.com/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/stars/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/do-at-each.nvim)
 - [guibes/macro-snippets.nvim](https://github.com/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/stars/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/last-commit/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/guibes/macro-snippets.nvim)
+- [SensorEvolve/macrovault.nvim](https://github.com/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/stars/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/last-commit/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/commit-activity/y/SensorEvolve/macrovault.nvim)
 
 ### Automatic macro
 
