@@ -216,6 +216,7 @@
 - [Zeioth/makeit.nvim](https://github.com/Zeioth/makeit.nvim) ![](https://img.shields.io/github/stars/Zeioth/makeit.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/makeit.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/makeit.nvim)
 - [burgr033/mf-runner.nvim](https://github.com/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/stars/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/last-commit/burgr033/mf-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/burgr033/mf-runner.nvim)
 - [l3k4n/justmake.nvim](https://github.com/l3k4n/justmake.nvim) ![](https://img.shields.io/github/stars/l3k4n/justmake.nvim) ![](https://img.shields.io/github/last-commit/l3k4n/justmake.nvim) ![](https://img.shields.io/github/commit-activity/y/l3k4n/justmake.nvim)
+- [cacarico/make.nvim](https://github.com/cacarico/make.nvim) ![](https://img.shields.io/github/stars/cacarico/make.nvim) ![](https://img.shields.io/github/last-commit/cacarico/make.nvim) ![](https://img.shields.io/github/commit-activity/y/cacarico/make.nvim)
 
 ##### just
 

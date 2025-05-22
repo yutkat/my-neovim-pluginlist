@@ -92,6 +92,7 @@
 #### center
 
 - [alteredoxide/centerterm.nvim](https://github.com/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/stars/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/last-commit/alteredoxide/centerterm.nvim) ![](https://img.shields.io/github/commit-activity/y/alteredoxide/centerterm.nvim)
+- [db757/zz.nvim](https://github.com/db757/zz.nvim) ![](https://img.shields.io/github/stars/db757/zz.nvim) ![](https://img.shields.io/github/last-commit/db757/zz.nvim) ![](https://img.shields.io/github/commit-activity/y/db757/zz.nvim)
 
 #### split
 

@@ -14,6 +14,7 @@
     + [Kotlin](#kotlin)
       - [detekt](#detekt)
     + [Swift](#swift)
+      - [SwiftLint](#swiftlint)
     + [Scala](#scala)
       - [ZIO](#zio)
     + [Dart, Flutter](#dart-flutter)
@@ -47,12 +48,13 @@
     + [Wasm](#wasm)
     + [WebC](#webc)
     + [Cairo](#cairo)
+    + [Processing](#processing)
     + [Spade](#spade)
     + [Radiant](#radiant)
     + [BAML](#baml)
     + [Racket](#racket)
       - [Test](#test)
-    + [Processing](#processing)
+    + [Processing](#processing-1)
     + [Promela](#promela)
     + [Move](#move)
     + [MQL](#mql)
@@ -192,6 +194,10 @@
 - [m-housh/swift.nvim](https://github.com/m-housh/swift.nvim) ![](https://img.shields.io/github/stars/m-housh/swift.nvim) ![](https://img.shields.io/github/last-commit/m-housh/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/m-housh/swift.nvim)
 - [ha100/thor.nvim](https://github.com/ha100/thor.nvim) ![](https://img.shields.io/github/stars/ha100/thor.nvim) ![](https://img.shields.io/github/last-commit/ha100/thor.nvim) ![](https://img.shields.io/github/commit-activity/y/ha100/thor.nvim)
 - [tornikegomareli/swiftbuild.nvim](https://github.com/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/stars/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/last-commit/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/tornikegomareli/swiftbuild.nvim)
+
+##### SwiftLint
+
+- [Vespen/swiftlint.nvim](https://github.com/Vespen/swiftlint.nvim) ![](https://img.shields.io/github/stars/Vespen/swiftlint.nvim) ![](https://img.shields.io/github/last-commit/Vespen/swiftlint.nvim) ![](https://img.shields.io/github/commit-activity/y/Vespen/swiftlint.nvim)
 
 #### Scala
 
@@ -367,6 +373,10 @@
 #### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+#### Processing
+
+- [ovalnine/processing.nvim](https://github.com/ovalnine/processing.nvim) ![](https://img.shields.io/github/stars/ovalnine/processing.nvim) ![](https://img.shields.io/github/last-commit/ovalnine/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/ovalnine/processing.nvim)
 
 #### Spade
 

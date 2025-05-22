@@ -128,6 +128,7 @@
 - [nathanbraun/nvim-ai](https://github.com/nathanbraun/nvim-ai) ![](https://img.shields.io/github/stars/nathanbraun/nvim-ai) ![](https://img.shields.io/github/last-commit/nathanbraun/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/nathanbraun/nvim-ai)
 - [niklaslorenz/code-assist.nvim](https://github.com/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/stars/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/last-commit/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/niklaslorenz/code-assist.nvim)
 - [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
+- [coffeemakingtoaster/nvim-llm](https://github.com/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/stars/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/last-commit/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/coffeemakingtoaster/nvim-llm)
 
 #### Codex
 
@@ -190,6 +191,7 @@
 - [Speiser/openwebui.nvim](https://github.com/Speiser/openwebui.nvim) ![](https://img.shields.io/github/stars/Speiser/openwebui.nvim) ![](https://img.shields.io/github/last-commit/Speiser/openwebui.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/openwebui.nvim)
 - [minollisantiago/lazyllm.nvim](https://github.com/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/stars/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/last-commit/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/commit-activity/y/minollisantiago/lazyllm.nvim)
 - [DavidTelenko/texel.nvim](https://github.com/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/stars/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/last-commit/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidTelenko/texel.nvim)
+- [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) ![](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim) ![](https://img.shields.io/github/commit-activity/y/mozanunal/sllm.nvim)
 
 #### mods
 
