@@ -68,6 +68,7 @@
 - [drgfunk/streamline.nvim](https://github.com/drgfunk/streamline.nvim) ![](https://img.shields.io/github/stars/drgfunk/streamline.nvim) ![](https://img.shields.io/github/last-commit/drgfunk/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/drgfunk/streamline.nvim)
 - [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statusline.nvim)
 - [Huggepugge1/monocle.nvim](https://github.com/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/stars/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/last-commit/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/commit-activity/y/Huggepugge1/monocle.nvim)
+- [kristoferssolo/lualine-harpoon.nvim](https://github.com/kristoferssolo/lualine-harpoon.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/lualine-harpoon.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/lualine-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/lualine-harpoon.nvim)
 
 #### Simple
 

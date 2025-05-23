@@ -158,6 +158,7 @@
 - [JosephPenaQuino/committer.nvim](https://github.com/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/stars/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/last-commit/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/commit-activity/y/JosephPenaQuino/committer.nvim)
 - [ken11/GitComet.nvim](https://github.com/ken11/GitComet.nvim) ![](https://img.shields.io/github/stars/ken11/GitComet.nvim) ![](https://img.shields.io/github/last-commit/ken11/GitComet.nvim) ![](https://img.shields.io/github/commit-activity/y/ken11/GitComet.nvim)
 - [m4dd0c/CommitGPT.nvim](https://github.com/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/stars/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/last-commit/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/m4dd0c/CommitGPT.nvim)
+- [metalelf0/git-utils.nvim](https://github.com/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/stars/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/git-utils.nvim)
 
 #### prefix(conventional-commits)
 

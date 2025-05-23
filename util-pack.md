@@ -33,6 +33,7 @@
 - [deathbeam/myplugins.nvim](https://github.com/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/stars/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/myplugins.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/myplugins.nvim)
 - [nxmxsxs/desserts.nvim](https://github.com/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/stars/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/last-commit/nxmxsxs/desserts.nvim) ![](https://img.shields.io/github/commit-activity/y/nxmxsxs/desserts.nvim)
 - [elentok/stuff.nvim](https://github.com/elentok/stuff.nvim) ![](https://img.shields.io/github/stars/elentok/stuff.nvim) ![](https://img.shields.io/github/last-commit/elentok/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/stuff.nvim)
+- [Mrthnx/amazon-q.nvim](https://github.com/Mrthnx/amazon-q.nvim) ![](https://img.shields.io/github/stars/Mrthnx/amazon-q.nvim) ![](https://img.shields.io/github/last-commit/Mrthnx/amazon-q.nvim) ![](https://img.shields.io/github/commit-activity/y/Mrthnx/amazon-q.nvim)
 
 ## UI
 

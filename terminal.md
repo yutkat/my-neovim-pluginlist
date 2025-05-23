@@ -147,6 +147,7 @@
 
 - [FredeEB/alias.nvim](https://github.com/FredeEB/alias.nvim) ![](https://img.shields.io/github/stars/FredeEB/alias.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/alias.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/alias.nvim)
 - [ilan-schemoul/nvim-simple-send-to-term](https://github.com/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-simple-send-to-term)
+- [evanbattaglia/sendtoterm.nvim](https://github.com/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/stars/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/last-commit/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/evanbattaglia/sendtoterm.nvim)
 
 ### Neovim in Neovim
 

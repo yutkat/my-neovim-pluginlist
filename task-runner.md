@@ -129,6 +129,7 @@
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
 - [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
 - [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
+- [pradeepa-s/cbuild.nvim](https://github.com/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/stars/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/last-commit/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/pradeepa-s/cbuild.nvim)
 
 #### Shell
 

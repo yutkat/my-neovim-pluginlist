@@ -672,6 +672,7 @@
 - [XXiaoA/cp.nvim](https://github.com/XXiaoA/cp.nvim) ![](https://img.shields.io/github/stars/XXiaoA/cp.nvim) ![](https://img.shields.io/github/last-commit/XXiaoA/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/XXiaoA/cp.nvim)
 - [DedsecKnight/dactl.nvim](https://github.com/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/stars/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/last-commit/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/commit-activity/y/DedsecKnight/dactl.nvim)
 - [Z-xus/dsa_io.nvim](https://github.com/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/stars/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/last-commit/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/commit-activity/y/Z-xus/dsa_io.nvim)
+- [paulrounak/cfhelper.nvim](https://github.com/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/stars/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/last-commit/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/commit-activity/y/paulrounak/cfhelper.nvim)
 
 ### Codeforces
 

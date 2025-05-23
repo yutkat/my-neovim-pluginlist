@@ -192,6 +192,7 @@
 - [minollisantiago/lazyllm.nvim](https://github.com/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/stars/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/last-commit/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/commit-activity/y/minollisantiago/lazyllm.nvim)
 - [DavidTelenko/texel.nvim](https://github.com/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/stars/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/last-commit/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidTelenko/texel.nvim)
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) ![](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim) ![](https://img.shields.io/github/commit-activity/y/mozanunal/sllm.nvim)
+- [ram-rt/openvimai.nvim](https://github.com/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/stars/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/last-commit/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/commit-activity/y/ram-rt/openvimai.nvim)
 
 #### mods
 

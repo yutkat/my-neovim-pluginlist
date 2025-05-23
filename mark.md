@@ -116,6 +116,7 @@
 - [leosmaia21/navigator.nvim](https://github.com/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/stars/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/navigator.nvim)
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bookmarks.nvim)
 - [edte/bookmarks.nvim](https://github.com/edte/bookmarks.nvim) ![](https://img.shields.io/github/stars/edte/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/edte/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/bookmarks.nvim)
+- [markgandolfo/dartboard.nvim](https://github.com/markgandolfo/dartboard.nvim) ![](https://img.shields.io/github/stars/markgandolfo/dartboard.nvim) ![](https://img.shields.io/github/last-commit/markgandolfo/dartboard.nvim) ![](https://img.shields.io/github/commit-activity/y/markgandolfo/dartboard.nvim)
 
 ### etc
 

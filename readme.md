@@ -415,6 +415,7 @@
 - [archie-judd/telescope-words.nvim](https://github.com/archie-judd/telescope-words.nvim) ![](https://img.shields.io/github/stars/archie-judd/telescope-words.nvim) ![](https://img.shields.io/github/last-commit/archie-judd/telescope-words.nvim) ![](https://img.shields.io/github/commit-activity/y/archie-judd/telescope-words.nvim)
 - [ficcdaf/academic.nvim](https://github.com/ficcdaf/academic.nvim) ![](https://img.shields.io/github/stars/ficcdaf/academic.nvim) ![](https://img.shields.io/github/last-commit/ficcdaf/academic.nvim) ![](https://img.shields.io/github/commit-activity/y/ficcdaf/academic.nvim)
 - [okaydouglas/popup-dictionary.nvim](https://github.com/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/stars/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/last-commit/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/okaydouglas/popup-dictionary.nvim)
+- [Clover83/definer.nvim](https://github.com/Clover83/definer.nvim) ![](https://img.shields.io/github/stars/Clover83/definer.nvim) ![](https://img.shields.io/github/last-commit/Clover83/definer.nvim) ![](https://img.shields.io/github/commit-activity/y/Clover83/definer.nvim)
 
 ### digraph
 
