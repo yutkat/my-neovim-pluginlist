@@ -126,6 +126,7 @@
 - [Technical interviews](#technical-interviews)
   * [LeetCode](#leetcode)
   * [AtCoder](#atcoder)
+  * [Codeforces](#codeforces-1)
   * [exercism](#exercism)
   * [Advent of code](#advent-of-code)
 - [Configuration](#configuration)
@@ -695,6 +696,10 @@
 ### AtCoder
 
 - [goropikari/online-judge.nvim](https://github.com/goropikari/online-judge.nvim) ![](https://img.shields.io/github/stars/goropikari/online-judge.nvim) ![](https://img.shields.io/github/last-commit/goropikari/online-judge.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/online-judge.nvim)
+
+### Codeforces
+
+- [paulrounak/cfhelper.nvim](https://github.com/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/stars/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/last-commit/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/commit-activity/y/paulrounak/cfhelper.nvim)
 
 ### exercism
 

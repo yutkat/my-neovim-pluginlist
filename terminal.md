@@ -7,6 +7,7 @@
   * [Open](#open)
   * [Edit](#edit)
   * [Save](#save)
+  * [Send](#send)
   * [Mapping](#mapping)
   * [Jump](#jump)
   * [Terminal mode](#terminal-mode)
@@ -122,6 +123,10 @@
 ### Save
 
 - [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
+
+### Send
+
+- [evanbattaglia/sendtoterm.nvim](https://github.com/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/stars/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/last-commit/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/evanbattaglia/sendtoterm.nvim)
 
 ### Mapping
 

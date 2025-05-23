@@ -25,6 +25,7 @@
   * [make](#make)
     + [just](#just)
     + [xmake](#xmake)
+    + [cbuild](#cbuild)
     + [meson](#meson)
     + [xc](#xc)
   * [Bazel](#bazel)
@@ -228,6 +229,10 @@
 ##### xmake
 
 - [Mythos-404/xmake.nvim](https://github.com/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/stars/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/last-commit/Mythos-404/xmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mythos-404/xmake.nvim)
+
+##### cbuild
+
+- [pradeepa-s/cbuild.nvim](https://github.com/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/stars/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/last-commit/pradeepa-s/cbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/pradeepa-s/cbuild.nvim)
 
 ##### meson
 

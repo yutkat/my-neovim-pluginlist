@@ -129,6 +129,7 @@
 - [niklaslorenz/code-assist.nvim](https://github.com/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/stars/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/last-commit/niklaslorenz/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/niklaslorenz/code-assist.nvim)
 - [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
 - [coffeemakingtoaster/nvim-llm](https://github.com/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/stars/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/last-commit/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/coffeemakingtoaster/nvim-llm)
+- [ram-rt/openvimai.nvim](https://github.com/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/stars/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/last-commit/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/commit-activity/y/ram-rt/openvimai.nvim)
 
 #### Codex
 

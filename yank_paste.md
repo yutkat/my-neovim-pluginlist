@@ -120,6 +120,7 @@
 ### System Clipboard
 
 - [haphamdev/copier.nvim](https://github.com/haphamdev/copier.nvim) ![](https://img.shields.io/github/stars/haphamdev/copier.nvim) ![](https://img.shields.io/github/last-commit/haphamdev/copier.nvim) ![](https://img.shields.io/github/commit-activity/y/haphamdev/copier.nvim)
+- [beeender/richclip.nvim](https://github.com/beeender/richclip.nvim) ![](https://img.shields.io/github/stars/beeender/richclip.nvim) ![](https://img.shields.io/github/last-commit/beeender/richclip.nvim) ![](https://img.shields.io/github/commit-activity/y/beeender/richclip.nvim)
 
 #### WSL clipboard
 
