@@ -16,6 +16,7 @@
 - [tar80/staba.nvim](https://github.com/tar80/staba.nvim) ![](https://img.shields.io/github/stars/tar80/staba.nvim) ![](https://img.shields.io/github/last-commit/tar80/staba.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/staba.nvim)
 - [AlqattanDev/resistance-visuals.nvim](https://github.com/AlqattanDev/resistance-visuals.nvim) ![](https://img.shields.io/github/stars/AlqattanDev/resistance-visuals.nvim) ![](https://img.shields.io/github/last-commit/AlqattanDev/resistance-visuals.nvim) ![](https://img.shields.io/github/commit-activity/y/AlqattanDev/resistance-visuals.nvim)
 - [buvis/padcosta.nvim](https://github.com/buvis/padcosta.nvim) ![](https://img.shields.io/github/stars/buvis/padcosta.nvim) ![](https://img.shields.io/github/last-commit/buvis/padcosta.nvim) ![](https://img.shields.io/github/commit-activity/y/buvis/padcosta.nvim)
+- [yuri-rage/nvim-ragequit-colors](https://github.com/yuri-rage/nvim-ragequit-colors) ![](https://img.shields.io/github/stars/yuri-rage/nvim-ragequit-colors) ![](https://img.shields.io/github/last-commit/yuri-rage/nvim-ragequit-colors) ![](https://img.shields.io/github/commit-activity/y/yuri-rage/nvim-ragequit-colors)
 
 ### Sidebar
 

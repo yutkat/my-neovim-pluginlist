@@ -367,6 +367,7 @@
 - [walkingshamrock/rnum.nvim](https://github.com/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/rnum.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/rnum.nvim)
 - [dk949/file_line.nvim](https://github.com/dk949/file_line.nvim) ![](https://img.shields.io/github/stars/dk949/file_line.nvim) ![](https://img.shields.io/github/last-commit/dk949/file_line.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/file_line.nvim)
 - [shrynx/line-numbers.nvim](https://github.com/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/stars/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/last-commit/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/shrynx/line-numbers.nvim)
+- [teial/relvirt.nvim](https://github.com/teial/relvirt.nvim) ![](https://img.shields.io/github/stars/teial/relvirt.nvim) ![](https://img.shields.io/github/last-commit/teial/relvirt.nvim) ![](https://img.shields.io/github/commit-activity/y/teial/relvirt.nvim)
 
 ### [Mark](./mark.md)
 
