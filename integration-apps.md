@@ -376,6 +376,7 @@
 - [SR-MyStar/fcitx5-switch.nvim](https://github.com/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/fcitx5-switch.nvim)
 - [JefferyBoy/fcitx.nvim](https://github.com/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/fcitx.nvim)
 - [blurgyy/fcitx5-ui-rs.nvim](https://github.com/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/stars/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/last-commit/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/blurgyy/fcitx5-ui-rs.nvim)
+- [liiker/fcitx5-auto-switch.nvim](https://github.com/liiker/fcitx5-auto-switch.nvim) ![](https://img.shields.io/github/stars/liiker/fcitx5-auto-switch.nvim) ![](https://img.shields.io/github/last-commit/liiker/fcitx5-auto-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/liiker/fcitx5-auto-switch.nvim)
 
 #### ibus
 

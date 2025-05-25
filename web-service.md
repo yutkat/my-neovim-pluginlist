@@ -304,6 +304,7 @@
 ### Dagster
 
 - [cmpadden/dagster.nvim](https://github.com/cmpadden/dagster.nvim) ![](https://img.shields.io/github/stars/cmpadden/dagster.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/dagster.nvim)
+- [matthias-Q/dagster.nvim](https://github.com/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/stars/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/last-commit/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/matthias-Q/dagster.nvim)
 
 ### Drupal
 

@@ -50,6 +50,7 @@
 - [swaits/universal-clipboard.nvim](https://github.com/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/stars/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/last-commit/swaits/universal-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/universal-clipboard.nvim)
 - [YounesElhjouji/nvim-copy](https://github.com/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/stars/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/last-commit/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/commit-activity/y/YounesElhjouji/nvim-copy)
 - [AndreiNekrasOn/pinned.nvim](https://github.com/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/stars/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/last-commit/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreiNekrasOn/pinned.nvim)
+- [marcoSven/blink-yanky.nvim](https://github.com/marcoSven/blink-yanky.nvim) ![](https://img.shields.io/github/stars/marcoSven/blink-yanky.nvim) ![](https://img.shields.io/github/last-commit/marcoSven/blink-yanky.nvim) ![](https://img.shields.io/github/commit-activity/y/marcoSven/blink-yanky.nvim)
 
 ### yank highlight
 
