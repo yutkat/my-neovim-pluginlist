@@ -53,6 +53,7 @@
       - [hledger](#hledger)
     + [dbt](#dbt)
     + [sdfcli](#sdfcli)
+    + [dagster](#dagster)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
   * [Password Manager](#password-manager)
@@ -321,6 +322,10 @@
 - [3fonov/dbt-nvim](https://github.com/3fonov/dbt-nvim) ![](https://img.shields.io/github/stars/3fonov/dbt-nvim) ![](https://img.shields.io/github/last-commit/3fonov/dbt-nvim) ![](https://img.shields.io/github/commit-activity/y/3fonov/dbt-nvim)
 
 #### sdfcli
+
+#### dagster
+
+- [matthias-Q/dagster.nvim](https://github.com/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/stars/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/last-commit/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/matthias-Q/dagster.nvim)
 
 ### Ethereum
 

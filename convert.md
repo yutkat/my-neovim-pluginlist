@@ -8,6 +8,7 @@
   * [Convert Word](#convert-word)
   * [Quote](#quote)
   * [Boolean](#boolean)
+  * [Shell command](#shell-command)
   * [Base64](#base64)
   * [Number](#number)
   * [Color](#color)
@@ -72,6 +73,11 @@
 - [hugo-berendi/srr.nvim](https://github.com/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/stars/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/last-commit/hugo-berendi/srr.nvim) ![](https://img.shields.io/github/commit-activity/y/hugo-berendi/srr.nvim)
 - [evertonse/cycler.nvim](https://github.com/evertonse/cycler.nvim) ![](https://img.shields.io/github/stars/evertonse/cycler.nvim) ![](https://img.shields.io/github/last-commit/evertonse/cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/evertonse/cycler.nvim)
   - [tfpickard/illogical.nvim](https://github.com/tfpickard/illogical.nvim) ![](https://img.shields.io/github/stars/tfpickard/illogical.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/illogical.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/illogical.nvim)
+- [Geertsky/smart-toggle.nvim](https://github.com/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/stars/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/smart-toggle.nvim)
+
+### Shell command
+
+- [kareltucek/nvim-inplace-preview](https://github.com/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/stars/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/last-commit/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/commit-activity/y/kareltucek/nvim-inplace-preview)
 
 ### Base64
 

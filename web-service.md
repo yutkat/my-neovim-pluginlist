@@ -52,6 +52,7 @@
   * [paste.rs](#pasters)
   * [Cloudinary](#cloudinary)
   * [Dagster](#dagster)
+  * [Databox](#databox)
   * [Drupal](#drupal)
   * [Netsuite](#netsuite)
   * [Prefab](#prefab)
@@ -304,6 +305,10 @@
 ### Dagster
 
 - [cmpadden/dagster.nvim](https://github.com/cmpadden/dagster.nvim) ![](https://img.shields.io/github/stars/cmpadden/dagster.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/dagster.nvim)
+
+### Databox
+
+- [chrisgve/databox.nvim](https://github.com/chrisgve/databox.nvim) ![](https://img.shields.io/github/stars/chrisgve/databox.nvim) ![](https://img.shields.io/github/last-commit/chrisgve/databox.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgve/databox.nvim)
 
 ### Drupal
 

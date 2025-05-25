@@ -11,6 +11,7 @@
 - [Function](#function)
 - [Code Block Separater](#code-block-separater)
 - [Code visualize](#code-visualize)
+- [CCN](#ccn)
 
 <!-- tocstop -->
 
@@ -77,3 +78,7 @@
 ### Code visualize
 
 - [dundalek/bloat.nvim](https://github.com/dundalek/bloat.nvim) ![](https://img.shields.io/github/stars/dundalek/bloat.nvim) ![](https://img.shields.io/github/last-commit/dundalek/bloat.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/bloat.nvim)
+
+### CCN
+
+- [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
