@@ -545,6 +545,7 @@
 - [tachyons/gitlab.nvim](https://github.com/tachyons/gitlab.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab.nvim)
 - [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
 - [Speiser/gitlab-url.nvim](https://github.com/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/stars/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/gitlab-url.nvim)
+- [themuuln/the-glab.nvim](https://github.com/themuuln/the-glab.nvim) ![](https://img.shields.io/github/stars/themuuln/the-glab.nvim) ![](https://img.shields.io/github/last-commit/themuuln/the-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/themuuln/the-glab.nvim)
 
 ### GitLab CI
 

@@ -44,6 +44,7 @@
 - [H4-MM-3R/recon.nvim](https://github.com/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/stars/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/last-commit/H4-MM-3R/recon.nvim) ![](https://img.shields.io/github/commit-activity/y/H4-MM-3R/recon.nvim)
 - [epoll31/script_runner.nvim](https://github.com/epoll31/script_runner.nvim) ![](https://img.shields.io/github/stars/epoll31/script_runner.nvim) ![](https://img.shields.io/github/last-commit/epoll31/script_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/epoll31/script_runner.nvim)
 - [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/pewpewnor/pilot.nvim)
+- [micaiah-effiong/task.nvim](https://github.com/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/stars/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/last-commit/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/commit-activity/y/micaiah-effiong/task.nvim)
 
 #### YAML
 
@@ -220,6 +221,7 @@
 - [ShadowApex/Taskfile.nvim](https://github.com/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/stars/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/last-commit/ShadowApex/Taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadowApex/Taskfile.nvim)
 - [chefe/taskfile.nvim](https://github.com/chefe/taskfile.nvim) ![](https://img.shields.io/github/stars/chefe/taskfile.nvim) ![](https://img.shields.io/github/last-commit/chefe/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/chefe/taskfile.nvim)
 - [dasvh/taskfile.nvim](https://github.com/dasvh/taskfile.nvim) ![](https://img.shields.io/github/stars/dasvh/taskfile.nvim) ![](https://img.shields.io/github/last-commit/dasvh/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/dasvh/taskfile.nvim)
+- [jedi-knights/go-task.nvim](https://github.com/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/stars/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/go-task.nvim)
 
 ### Specific runner
 
