@@ -30,6 +30,7 @@
 - [gsuuon/tshjkl.nvim](https://github.com/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/stars/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/last-commit/gsuuon/tshjkl.nvim) ![](https://img.shields.io/github/commit-activity/y/gsuuon/tshjkl.nvim)
 - [Rentib/cliff.nvim](https://github.com/Rentib/cliff.nvim) ![](https://img.shields.io/github/stars/Rentib/cliff.nvim) ![](https://img.shields.io/github/last-commit/Rentib/cliff.nvim) ![](https://img.shields.io/github/commit-activity/y/Rentib/cliff.nvim)
 - [fenja-louwrens/event-horizon.nvim](https://github.com/fenja-louwrens/event-horizon.nvim) ![](https://img.shields.io/github/stars/fenja-louwrens/event-horizon.nvim) ![](https://img.shields.io/github/last-commit/fenja-louwrens/event-horizon.nvim) ![](https://img.shields.io/github/commit-activity/y/fenja-louwrens/event-horizon.nvim)
+- [Sixeight/edgemotion.nvim](https://github.com/Sixeight/edgemotion.nvim) ![](https://img.shields.io/github/stars/Sixeight/edgemotion.nvim) ![](https://img.shields.io/github/last-commit/Sixeight/edgemotion.nvim) ![](https://img.shields.io/github/commit-activity/y/Sixeight/edgemotion.nvim)
 
 #### Scrolling
 
