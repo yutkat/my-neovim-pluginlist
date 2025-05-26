@@ -70,6 +70,7 @@
 - [willem66745/notitiebak.nvim](https://github.com/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/stars/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/last-commit/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/commit-activity/y/willem66745/notitiebak.nvim)
 - [DhaiShah25/zettle.nvim](https://github.com/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/stars/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/last-commit/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/commit-activity/y/DhaiShah25/zettle.nvim)
 - [teesh3rt/zeekay.nvim](https://github.com/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/stars/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/last-commit/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/commit-activity/y/teesh3rt/zeekay.nvim)
+- [djmbritt/vimki.nvim](https://github.com/djmbritt/vimki.nvim) ![](https://img.shields.io/github/stars/djmbritt/vimki.nvim) ![](https://img.shields.io/github/last-commit/djmbritt/vimki.nvim) ![](https://img.shields.io/github/commit-activity/y/djmbritt/vimki.nvim)
 
 ### Markdown
 
@@ -422,4 +423,5 @@
 - [AlqattanDev/resistance-taskmanager.nvim](https://github.com/AlqattanDev/resistance-taskmanager.nvim) ![](https://img.shields.io/github/stars/AlqattanDev/resistance-taskmanager.nvim) ![](https://img.shields.io/github/last-commit/AlqattanDev/resistance-taskmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/AlqattanDev/resistance-taskmanager.nvim)
 - [breiting/nvim-writer.nvim](https://github.com/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-writer.nvim)
 - [0xrinful/vnotes.nvim](https://github.com/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/stars/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/last-commit/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xrinful/vnotes.nvim)
+- [fmxsh/nntmwrite.nvim](https://github.com/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/stars/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/nntmwrite.nvim)
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
