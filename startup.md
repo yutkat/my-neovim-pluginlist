@@ -33,6 +33,7 @@
 - [jjhiza/dashy.nvim](https://github.com/jjhiza/dashy.nvim) ![](https://img.shields.io/github/stars/jjhiza/dashy.nvim) ![](https://img.shields.io/github/last-commit/jjhiza/dashy.nvim) ![](https://img.shields.io/github/commit-activity/y/jjhiza/dashy.nvim)
 - [ButterSus/placeholder.nvim](https://github.com/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/stars/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/last-commit/ButterSus/placeholder.nvim) ![](https://img.shields.io/github/commit-activity/y/ButterSus/placeholder.nvim)
 - [anuramat/figtree.nvim](https://github.com/anuramat/figtree.nvim) ![](https://img.shields.io/github/stars/anuramat/figtree.nvim) ![](https://img.shields.io/github/last-commit/anuramat/figtree.nvim) ![](https://img.shields.io/github/commit-activity/y/anuramat/figtree.nvim)
+- [FerdiMeijer/splash.nvim](https://github.com/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/stars/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/last-commit/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/FerdiMeijer/splash.nvim)
 
 ### Boot Arguments
 

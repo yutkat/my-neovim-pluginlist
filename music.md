@@ -37,6 +37,7 @@
 - [APConduct/amp.nvim](https://github.com/APConduct/amp.nvim) ![](https://img.shields.io/github/stars/APConduct/amp.nvim) ![](https://img.shields.io/github/last-commit/APConduct/amp.nvim) ![](https://img.shields.io/github/commit-activity/y/APConduct/amp.nvim)
 - [wsdjeg/music-player.nvim](https://github.com/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/stars/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/music-player.nvim)
 - [liraymond04/ass-mpv.nvim](https://github.com/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/stars/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/last-commit/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/liraymond04/ass-mpv.nvim)
+- [neo451/musicfox.nvim](https://github.com/neo451/musicfox.nvim) ![](https://img.shields.io/github/stars/neo451/musicfox.nvim) ![](https://img.shields.io/github/last-commit/neo451/musicfox.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/musicfox.nvim)
 
 ### sapf
 

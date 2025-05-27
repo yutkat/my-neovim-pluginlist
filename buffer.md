@@ -177,6 +177,7 @@
 - [unwarlikepoodle/telescope-git-recent.nvim](https://github.com/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/stars/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/last-commit/unwarlikepoodle/telescope-git-recent.nvim) ![](https://img.shields.io/github/commit-activity/y/unwarlikepoodle/telescope-git-recent.nvim)
 - [lucattelli/pinner.nvim](https://github.com/lucattelli/pinner.nvim) ![](https://img.shields.io/github/stars/lucattelli/pinner.nvim) ![](https://img.shields.io/github/last-commit/lucattelli/pinner.nvim) ![](https://img.shields.io/github/commit-activity/y/lucattelli/pinner.nvim)
 - [yamazhen/oyen.nvim](https://github.com/yamazhen/oyen.nvim) ![](https://img.shields.io/github/stars/yamazhen/oyen.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/oyen.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/oyen.nvim)
+- [Yinameah/nvim-gvhist](https://github.com/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/stars/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/last-commit/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/commit-activity/y/Yinameah/nvim-gvhist)
 
 ##### remote open
 

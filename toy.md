@@ -61,6 +61,7 @@
 - [bkp5190/rduck.nvim](https://github.com/bkp5190/rduck.nvim) ![](https://img.shields.io/github/stars/bkp5190/rduck.nvim) ![](https://img.shields.io/github/last-commit/bkp5190/rduck.nvim) ![](https://img.shields.io/github/commit-activity/y/bkp5190/rduck.nvim)
 - [kiddos/pawtocomplete.nvim](https://github.com/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/stars/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/last-commit/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/pawtocomplete.nvim)
 - [braden-godley/evil-larry.nvim](https://github.com/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/stars/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/last-commit/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/commit-activity/y/braden-godley/evil-larry.nvim)
+- [zehua0417/pets.nvim](https://github.com/zehua0417/pets.nvim) ![](https://img.shields.io/github/stars/zehua0417/pets.nvim) ![](https://img.shields.io/github/last-commit/zehua0417/pets.nvim) ![](https://img.shields.io/github/commit-activity/y/zehua0417/pets.nvim)
 
 ## Image
 
