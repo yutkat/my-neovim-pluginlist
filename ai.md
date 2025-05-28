@@ -60,7 +60,7 @@
 - [Copy File Context](#copy-file-context)
 - [LLM context](#llm-context)
 - [RAG](#rag)
-- [Model Context Protocol](#model-context-protocol)
+- [Model Context Protocol(MCP)](#model-context-protocolmcp)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
   * [Linkup](#linkup)
@@ -495,9 +495,10 @@
 
 - [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
 
-## Model Context Protocol
+## Model Context Protocol(MCP)
 
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
+- [brianhuster/nvim-mcp-server](https://github.com/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/stars/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/last-commit/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/commit-activity/y/brianhuster/nvim-mcp-server)
 
 ## Configuration File (.cursor)
 

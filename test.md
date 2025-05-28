@@ -51,3 +51,4 @@
 ## Test Coverage
 
 - [andythigpen/nvim-coverage](https://github.com/andythigpen/nvim-coverage) ![](https://img.shields.io/github/stars/andythigpen/nvim-coverage) ![](https://img.shields.io/github/last-commit/andythigpen/nvim-coverage) ![](https://img.shields.io/github/commit-activity/y/andythigpen/nvim-coverage)
+- [devzambra/coverage.nvim](https://github.com/devzambra/coverage.nvim) ![](https://img.shields.io/github/stars/devzambra/coverage.nvim) ![](https://img.shields.io/github/last-commit/devzambra/coverage.nvim) ![](https://img.shields.io/github/commit-activity/y/devzambra/coverage.nvim)

@@ -430,6 +430,7 @@
 
 - [MovieMaker93/telescope-ghissue.nvim](https://github.com/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/stars/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/last-commit/MovieMaker93/telescope-ghissue.nvim) ![](https://img.shields.io/github/commit-activity/y/MovieMaker93/telescope-ghissue.nvim)
 - [OwlfaceGames/issue-from-comment.nvim](https://github.com/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/stars/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/last-commit/OwlfaceGames/issue-from-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/OwlfaceGames/issue-from-comment.nvim)
+- [MarvinHauke/tickets.nvim](https://github.com/MarvinHauke/tickets.nvim) ![](https://img.shields.io/github/stars/MarvinHauke/tickets.nvim) ![](https://img.shields.io/github/last-commit/MarvinHauke/tickets.nvim) ![](https://img.shields.io/github/commit-activity/y/MarvinHauke/tickets.nvim)
 
 ### Pull Request
 
