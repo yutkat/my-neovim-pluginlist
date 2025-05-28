@@ -498,6 +498,7 @@
 ## Model Context Protocol
 
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
+- [brianhuster/nvim-mcp-server](https://github.com/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/stars/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/last-commit/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/commit-activity/y/brianhuster/nvim-mcp-server)
 
 ## Configuration File (.cursor)
 
