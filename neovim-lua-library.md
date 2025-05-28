@@ -40,6 +40,7 @@
   * [REST](#rest)
   * [GRPC](#grpc)
   * [WebSocket](#websocket)
+- [Unix domain socket](#unix-domain-socket)
 - [CLI](#cli)
 - [SQLite](#sqlite)
 - [JSON](#json)
@@ -285,6 +286,10 @@
 - [iwillreku3206/websocket.nvim](https://github.com/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/stars/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/last-commit/iwillreku3206/websocket.nvim) ![](https://img.shields.io/github/commit-activity/y/iwillreku3206/websocket.nvim)
 - [livinglogic-nl/ws.nvim](https://github.com/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/stars/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/last-commit/livinglogic-nl/ws.nvim) ![](https://img.shields.io/github/commit-activity/y/livinglogic-nl/ws.nvim)
 
+## Unix domain socket
+
+- [fmxsh/nntmwrite.nvim](https://github.com/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/stars/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/nntmwrite.nvim)
+
 ## CLI
 
 - [dtanphat9388/nvim-columnify](https://github.com/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/stars/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/last-commit/dtanphat9388/nvim-columnify) ![](https://img.shields.io/github/commit-activity/y/dtanphat9388/nvim-columnify)
@@ -411,3 +416,4 @@
 - [aubs-dev/NLIB.nvim](https://github.com/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/stars/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/NLIB.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/NLIB.nvim)
 - [navicore/nvim-naviscripts](https://github.com/navicore/nvim-naviscripts) ![](https://img.shields.io/github/stars/navicore/nvim-naviscripts) ![](https://img.shields.io/github/last-commit/navicore/nvim-naviscripts) ![](https://img.shields.io/github/commit-activity/y/navicore/nvim-naviscripts)
 - [wet-sandwich/toolbox.nvim](https://github.com/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/toolbox.nvim)
+- [DhirajBhakta/depcopy.nvim](https://github.com/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/stars/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/last-commit/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/DhirajBhakta/depcopy.nvim)

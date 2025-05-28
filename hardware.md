@@ -91,6 +91,7 @@
 - [MahdiGMK/keymap-switch.nvim](https://github.com/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/stars/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/last-commit/MahdiGMK/keymap-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/MahdiGMK/keymap-switch.nvim)
 - [MatanyaP/keyboard-guard.nvim](https://github.com/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/stars/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/last-commit/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/MatanyaP/keyboard-guard.nvim)
 - [AtomThum/layoutswitch.nvim](https://github.com/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/stars/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/last-commit/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/AtomThum/layoutswitch.nvim)
+- [coreyb-git/keyboardlayout.nvim](https://github.com/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/stars/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/keyboardlayout.nvim)
 
 #### Virtual Keyboard
 

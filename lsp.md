@@ -122,6 +122,7 @@
 - [yochem/chime.nvim](https://github.com/yochem/chime.nvim) ![](https://img.shields.io/github/stars/yochem/chime.nvim) ![](https://img.shields.io/github/last-commit/yochem/chime.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/chime.nvim)
 - [Wordluc/in-your-face.nvim](https://github.com/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/stars/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/last-commit/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/commit-activity/y/Wordluc/in-your-face.nvim)
 - [BadgerBloke/diagnostic-float.nvim](https://github.com/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/stars/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/last-commit/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/commit-activity/y/BadgerBloke/diagnostic-float.nvim)
+- [Quaestiox/diag-cmd.nvim](https://github.com/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/stars/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/last-commit/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Quaestiox/diag-cmd.nvim)
 
 ##### Diagnostics goto
 

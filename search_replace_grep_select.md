@@ -199,6 +199,7 @@
 - [brlywk/section.nvim](https://github.com/brlywk/section.nvim) ![](https://img.shields.io/github/stars/brlywk/section.nvim) ![](https://img.shields.io/github/last-commit/brlywk/section.nvim) ![](https://img.shields.io/github/commit-activity/y/brlywk/section.nvim)
 - [vanaigr/motion.nvim](https://github.com/vanaigr/motion.nvim) ![](https://img.shields.io/github/stars/vanaigr/motion.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/motion.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/motion.nvim)
 - [Goose97/rearrange.nvim](https://github.com/Goose97/rearrange.nvim) ![](https://img.shields.io/github/stars/Goose97/rearrange.nvim) ![](https://img.shields.io/github/last-commit/Goose97/rearrange.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/rearrange.nvim)
+- [Yinameah/nvim-gvhist](https://github.com/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/stars/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/last-commit/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/commit-activity/y/Yinameah/nvim-gvhist)
 
 ### Bracket and quote
 

@@ -210,6 +210,7 @@
 - [gokhangeyik/notesidian.nvim](https://github.com/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/stars/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/last-commit/gokhangeyik/notesidian.nvim) ![](https://img.shields.io/github/commit-activity/y/gokhangeyik/notesidian.nvim)
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian.nvim)
 - [chkg2a/todo-obsidian.nvim](https://github.com/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/stars/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/last-commit/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/chkg2a/todo-obsidian.nvim)
+- [wilsonangara/obsidian-navigator.nvim](https://github.com/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/stars/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/last-commit/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wilsonangara/obsidian-navigator.nvim)
 
 ### nb
 
@@ -262,6 +263,7 @@
 
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
 - [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/stars/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/last-commit/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/serenevoid/kiwi.nvim)
+- [djmbritt/vimki.nvim](https://github.com/djmbritt/vimki.nvim) ![](https://img.shields.io/github/stars/djmbritt/vimki.nvim) ![](https://img.shields.io/github/last-commit/djmbritt/vimki.nvim) ![](https://img.shields.io/github/commit-activity/y/djmbritt/vimki.nvim)
 
 ### Scratch Buffer
 
@@ -423,3 +425,4 @@
 - [breiting/nvim-writer.nvim](https://github.com/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-writer.nvim)
 - [0xrinful/vnotes.nvim](https://github.com/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/stars/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/last-commit/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xrinful/vnotes.nvim)
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
+- [ysmb-wtsg/gtd.nvim](https://github.com/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/gtd.nvim)

@@ -57,6 +57,7 @@
   * [Node.js](#nodejs)
   * [Deno](#deno)
   * [Bun](#bun)
+  * [NestJS](#nestjs)
   * [Bootstrap](#bootstrap)
   * [mjml](#mjml)
   * [Hygen](#hygen)
@@ -400,6 +401,10 @@
 
 ### Bun
 
+
+### NestJS
+
+- [nandoolle/nest-repl.nvim](https://github.com/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/stars/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/nest-repl.nvim)
 
 ### Bootstrap
 

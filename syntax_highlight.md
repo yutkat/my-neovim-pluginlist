@@ -223,6 +223,7 @@
 - [utubo/hlpairs.nvim](https://github.com/utubo/hlpairs.nvim) ![](https://img.shields.io/github/stars/utubo/hlpairs.nvim) ![](https://img.shields.io/github/last-commit/utubo/hlpairs.nvim) ![](https://img.shields.io/github/commit-activity/y/utubo/hlpairs.nvim)
 - [saliola/accentuate.nvim](https://github.com/saliola/accentuate.nvim) ![](https://img.shields.io/github/stars/saliola/accentuate.nvim) ![](https://img.shields.io/github/last-commit/saliola/accentuate.nvim) ![](https://img.shields.io/github/commit-activity/y/saliola/accentuate.nvim)
 - [hamidi-dev/kaleidosearch.nvim](https://github.com/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/kaleidosearch.nvim)
+- [g0t4/illuminate.nvim](https://github.com/g0t4/illuminate.nvim) ![](https://img.shields.io/github/stars/g0t4/illuminate.nvim) ![](https://img.shields.io/github/last-commit/g0t4/illuminate.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/illuminate.nvim)
 
 ### Current block highlight
 
@@ -238,6 +239,7 @@
 - [dwrdx/mywords.nvim](https://github.com/dwrdx/mywords.nvim) ![](https://img.shields.io/github/stars/dwrdx/mywords.nvim) ![](https://img.shields.io/github/last-commit/dwrdx/mywords.nvim) ![](https://img.shields.io/github/commit-activity/y/dwrdx/mywords.nvim)
 - [AT-AT/hlwords.nvim](https://github.com/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/stars/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/last-commit/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/commit-activity/y/AT-AT/hlwords.nvim)
 - [TheLazyCat00/buffon-colors.nvim](https://github.com/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/buffon-colors.nvim)
+- [shazow/paint.nvim](https://github.com/shazow/paint.nvim) ![](https://img.shields.io/github/stars/shazow/paint.nvim) ![](https://img.shields.io/github/last-commit/shazow/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/shazow/paint.nvim)
 
 ### Cursor Jump highlight
 

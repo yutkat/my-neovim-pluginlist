@@ -71,3 +71,4 @@
 ### SARIF
 
 - [nifey/sarif.nvim](https://github.com/nifey/sarif.nvim) ![](https://img.shields.io/github/stars/nifey/sarif.nvim) ![](https://img.shields.io/github/last-commit/nifey/sarif.nvim) ![](https://img.shields.io/github/commit-activity/y/nifey/sarif.nvim)
+- [fguisso/sfer.nvim](https://github.com/fguisso/sfer.nvim) ![](https://img.shields.io/github/stars/fguisso/sfer.nvim) ![](https://img.shields.io/github/last-commit/fguisso/sfer.nvim) ![](https://img.shields.io/github/commit-activity/y/fguisso/sfer.nvim)

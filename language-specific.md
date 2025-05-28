@@ -132,6 +132,7 @@
 - [Configuration](#configuration)
   * [School](#school)
   * [42](#42)
+  * [Epitech](#epitech)
 
 <!-- tocstop -->
 
@@ -722,4 +723,8 @@
 - [tigran-sargsyan-w/nvim-42-format](https://github.com/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/nvim-42-format) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/nvim-42-format)
 - [tigran-sargsyan-w/42-header.nvim](https://github.com/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/stars/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/last-commit/tigran-sargsyan-w/42-header.nvim) ![](https://img.shields.io/github/commit-activity/y/tigran-sargsyan-w/42-header.nvim)
 - [hardyrafael17/norminette42.nvim](https://github.com/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/stars/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/last-commit/hardyrafael17/norminette42.nvim) ![](https://img.shields.io/github/commit-activity/y/hardyrafael17/norminette42.nvim)
+
+### Epitech
+
+- [YetAnotherMechanicusEnjoyer/epitechlsp.nvim](https://github.com/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/stars/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/last-commit/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/YetAnotherMechanicusEnjoyer/epitechlsp.nvim)
 
