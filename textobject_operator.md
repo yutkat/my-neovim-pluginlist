@@ -49,6 +49,7 @@
 - [xlboy/swap-ternary.nvim](https://github.com/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/stars/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/last-commit/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/swap-ternary.nvim)
 - [haolian9/textswap.nvim](https://github.com/haolian9/textswap.nvim) ![](https://img.shields.io/github/stars/haolian9/textswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/textswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/textswap.nvim)
 - [phanen/text-swap.nvim](https://github.com/phanen/text-swap.nvim) ![](https://img.shields.io/github/stars/phanen/text-swap.nvim) ![](https://img.shields.io/github/last-commit/phanen/text-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/text-swap.nvim)
+- [trippwill/swapdiff.nvim](https://github.com/trippwill/swapdiff.nvim) ![](https://img.shields.io/github/stars/trippwill/swapdiff.nvim) ![](https://img.shields.io/github/last-commit/trippwill/swapdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/swapdiff.nvim)
 
 ### Duplicate
 

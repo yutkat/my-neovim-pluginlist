@@ -322,6 +322,7 @@
 - [mcvnh/tailwindcss-prefix.nvim](https://github.com/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/stars/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/last-commit/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/mcvnh/tailwindcss-prefix.nvim)
 - [y3owk1n/tailwind-autosort.nvim](https://github.com/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/stars/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/tailwind-autosort.nvim)
 - [tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim) ![](https://img.shields.io/github/stars/tjdevries/failwind.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/failwind.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/failwind.nvim)
+- [gwydion67/headwind.nvim](https://github.com/gwydion67/headwind.nvim) ![](https://img.shields.io/github/stars/gwydion67/headwind.nvim) ![](https://img.shields.io/github/last-commit/gwydion67/headwind.nvim) ![](https://img.shields.io/github/commit-activity/y/gwydion67/headwind.nvim)
 
 ### SCSS
 

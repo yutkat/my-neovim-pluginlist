@@ -80,6 +80,7 @@
 ### Path
 
 - [tolluset/yankpath.nvim](https://github.com/tolluset/yankpath.nvim) ![](https://img.shields.io/github/stars/tolluset/yankpath.nvim) ![](https://img.shields.io/github/last-commit/tolluset/yankpath.nvim) ![](https://img.shields.io/github/commit-activity/y/tolluset/yankpath.nvim)
+- [art-vasilyev/yapath.nvim](https://github.com/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/stars/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/last-commit/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/commit-activity/y/art-vasilyev/yapath.nvim)
 
 ### Register Selector
 
