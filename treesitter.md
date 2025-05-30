@@ -22,6 +22,7 @@
 - [krshrimali/nvim-utils](https://github.com/krshrimali/nvim-utils) ![](https://img.shields.io/github/stars/krshrimali/nvim-utils) ![](https://img.shields.io/github/last-commit/krshrimali/nvim-utils) ![](https://img.shields.io/github/commit-activity/y/krshrimali/nvim-utils)
 - [monaqa/nvim-treesitter-clipping](https://github.com/monaqa/nvim-treesitter-clipping) ![](https://img.shields.io/github/stars/monaqa/nvim-treesitter-clipping) ![](https://img.shields.io/github/last-commit/monaqa/nvim-treesitter-clipping) ![](https://img.shields.io/github/commit-activity/y/monaqa/nvim-treesitter-clipping)
 - [lewis6991/tsffi.nvim](https://github.com/lewis6991/tsffi.nvim) ![](https://img.shields.io/github/stars/lewis6991/tsffi.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/tsffi.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/tsffi.nvim)
+- [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/treesitter-modules.nvim)
 
 ### Installer
 

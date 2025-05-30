@@ -448,6 +448,7 @@
 - [mjveilleux/pr-description.nvim](https://github.com/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/stars/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/last-commit/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/commit-activity/y/mjveilleux/pr-description.nvim)
 - [gitusp/pbrowse.nvim](https://github.com/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/stars/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pbrowse.nvim)
 - [gitusp/pr-review.nvim](https://github.com/gitusp/pr-review.nvim) ![](https://img.shields.io/github/stars/gitusp/pr-review.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pr-review.nvim)
+- [lseppala/praise.nvim](https://github.com/lseppala/praise.nvim) ![](https://img.shields.io/github/stars/lseppala/praise.nvim) ![](https://img.shields.io/github/last-commit/lseppala/praise.nvim) ![](https://img.shields.io/github/commit-activity/y/lseppala/praise.nvim)
 
 #### Pull Request Comment
 

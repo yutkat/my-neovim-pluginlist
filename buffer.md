@@ -24,6 +24,7 @@
   * [Move history](#move-history)
   * [refresh](#refresh)
   * [Buffer info](#buffer-info)
+  * [Buffer Option](#buffer-option)
 
 <!-- tocstop -->
 
@@ -287,3 +288,6 @@
 - [adriankarlen/buffed.nvim](https://github.com/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/stars/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/buffed.nvim)
 - [crixuamg/visual-complexity.nvim](https://github.com/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/stars/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/last-commit/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/commit-activity/y/crixuamg/visual-complexity.nvim)
 
+### Buffer Option
+
+- [HCHogan/sleuth.nvim](https://github.com/HCHogan/sleuth.nvim) ![](https://img.shields.io/github/stars/HCHogan/sleuth.nvim) ![](https://img.shields.io/github/last-commit/HCHogan/sleuth.nvim) ![](https://img.shields.io/github/commit-activity/y/HCHogan/sleuth.nvim)

@@ -23,6 +23,7 @@
 - [LeafChage/deepl.nvim](https://github.com/LeafChage/deepl.nvim) ![](https://img.shields.io/github/stars/LeafChage/deepl.nvim) ![](https://img.shields.io/github/last-commit/LeafChage/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/LeafChage/deepl.nvim)
 - [doodleEsc/translator.nvim](https://github.com/doodleEsc/translator.nvim) ![](https://img.shields.io/github/stars/doodleEsc/translator.nvim) ![](https://img.shields.io/github/last-commit/doodleEsc/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/doodleEsc/translator.nvim)
 - [askfiy/smart-translate.nvim](https://github.com/askfiy/smart-translate.nvim) ![](https://img.shields.io/github/stars/askfiy/smart-translate.nvim) ![](https://img.shields.io/github/last-commit/askfiy/smart-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/askfiy/smart-translate.nvim)
+- [devinmiller/translate.nvim](https://github.com/devinmiller/translate.nvim) ![](https://img.shields.io/github/stars/devinmiller/translate.nvim) ![](https://img.shields.io/github/last-commit/devinmiller/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/devinmiller/translate.nvim)
 
 ## i18n
 
