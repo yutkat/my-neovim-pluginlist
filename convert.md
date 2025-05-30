@@ -59,6 +59,7 @@
 - [SR-MyStar/antonym.nvim](https://github.com/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/antonym.nvim)
 - [gczcn/antonym.nvim](https://github.com/gczcn/antonym.nvim) ![](https://img.shields.io/github/stars/gczcn/antonym.nvim) ![](https://img.shields.io/github/last-commit/gczcn/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/gczcn/antonym.nvim)
 - [tigion/nvim-opposites](https://github.com/tigion/nvim-opposites) ![](https://img.shields.io/github/stars/tigion/nvim-opposites) ![](https://img.shields.io/github/last-commit/tigion/nvim-opposites) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-opposites)
+- [MartinCornelius/reword.nvim](https://github.com/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/reword.nvim)
 
 ### Quote
 
@@ -74,6 +75,7 @@
 - [evertonse/cycler.nvim](https://github.com/evertonse/cycler.nvim) ![](https://img.shields.io/github/stars/evertonse/cycler.nvim) ![](https://img.shields.io/github/last-commit/evertonse/cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/evertonse/cycler.nvim)
   - [tfpickard/illogical.nvim](https://github.com/tfpickard/illogical.nvim) ![](https://img.shields.io/github/stars/tfpickard/illogical.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/illogical.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/illogical.nvim)
 - [Geertsky/smart-toggle.nvim](https://github.com/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/stars/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/smart-toggle.nvim)
+- [zacharyFerretti/nvim-invert](https://github.com/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-invert)
 
 ### Shell command
 
