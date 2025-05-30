@@ -158,7 +158,6 @@
 
 ### Completion
 
-- [rijuyuezhu/call-matcher-in-C.nvim](https://github.com/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/stars/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/last-commit/rijuyuezhu/call-matcher-in-C.nvim) ![](https://img.shields.io/github/commit-activity/y/rijuyuezhu/call-matcher-in-C.nvim)
 
 ### LLDB
 
