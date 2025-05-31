@@ -75,6 +75,7 @@
 ### Compile
 
 - [lliuaotian/compile.nvim](https://github.com/lliuaotian/compile.nvim) ![](https://img.shields.io/github/stars/lliuaotian/compile.nvim) ![](https://img.shields.io/github/last-commit/lliuaotian/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/lliuaotian/compile.nvim)
+- [voldemort401/cmpile.nvim](https://github.com/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/stars/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/last-commit/voldemort401/cmpile.nvim) ![](https://img.shields.io/github/commit-activity/y/voldemort401/cmpile.nvim)
 
 #### insight
 

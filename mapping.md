@@ -27,6 +27,7 @@
       - [Home key](#home-key)
     + [Command mode](#command-mode)
     + [Cyrillic](#cyrillic)
+    + [Numpad](#numpad)
 
 <!-- tocstop -->
 
@@ -177,3 +178,7 @@
 
 - [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
 - [eojysele/cyrillic-keymaps.nvim](https://github.com/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/stars/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/last-commit/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/eojysele/cyrillic-keymaps.nvim)
+
+#### Numpad
+
+- [coreyb-git/numpad.nvim](https://github.com/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/stars/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/numpad.nvim)
