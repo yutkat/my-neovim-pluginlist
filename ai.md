@@ -266,6 +266,7 @@
 - [cristianmoroaica/mimir.nvim](https://github.com/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/stars/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/last-commit/cristianmoroaica/mimir.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianmoroaica/mimir.nvim)
 - [HoganMcDonald/pointer.nvim](https://github.com/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/stars/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/last-commit/HoganMcDonald/pointer.nvim) ![](https://img.shields.io/github/commit-activity/y/HoganMcDonald/pointer.nvim)
 - [mattkubej/claude-fu.nvim](https://github.com/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/stars/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/last-commit/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/commit-activity/y/mattkubej/claude-fu.nvim)
+- [simiancreative/hum.nvim](https://github.com/simiancreative/hum.nvim) ![](https://img.shields.io/github/stars/simiancreative/hum.nvim) ![](https://img.shields.io/github/last-commit/simiancreative/hum.nvim) ![](https://img.shields.io/github/commit-activity/y/simiancreative/hum.nvim)
 
 ### Claude Code
 

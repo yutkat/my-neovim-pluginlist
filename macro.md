@@ -25,6 +25,7 @@
 - [z0rzi/do-at-each.nvim](https://github.com/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/stars/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/do-at-each.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/do-at-each.nvim)
 - [guibes/macro-snippets.nvim](https://github.com/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/stars/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/last-commit/guibes/macro-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/guibes/macro-snippets.nvim)
 - [SensorEvolve/macrovault.nvim](https://github.com/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/stars/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/last-commit/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/commit-activity/y/SensorEvolve/macrovault.nvim)
+- [NinjacksonXV/domain.nvim](https://github.com/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/stars/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/last-commit/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/commit-activity/y/NinjacksonXV/domain.nvim)
 
 ### Automatic macro
 

@@ -149,6 +149,7 @@
 - [aattoa/nvim-everysig](https://github.com/aattoa/nvim-everysig) ![](https://img.shields.io/github/stars/aattoa/nvim-everysig) ![](https://img.shields.io/github/last-commit/aattoa/nvim-everysig) ![](https://img.shields.io/github/commit-activity/y/aattoa/nvim-everysig)
 - [Dan7h3x/signup.nvim](https://github.com/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/signup.nvim)
 - [comfysage/quill.nvim](https://github.com/comfysage/quill.nvim) ![](https://img.shields.io/github/stars/comfysage/quill.nvim) ![](https://img.shields.io/github/last-commit/comfysage/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/quill.nvim)
+- [hrsh7th/nvim-xi](https://github.com/hrsh7th/nvim-xi) ![](https://img.shields.io/github/stars/hrsh7th/nvim-xi) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-xi) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-xi)
 
 #### Definition, Reference
 
