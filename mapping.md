@@ -140,6 +140,7 @@
 #### Escape
 
 - [TheBlob42/houdini.nvim](https://github.com/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/stars/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/houdini.nvim)
+- [coreyb-git/numpad.nvim](https://github.com/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/stars/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/numpad.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/numpad.nvim)
 
 #### CapsLock
 
