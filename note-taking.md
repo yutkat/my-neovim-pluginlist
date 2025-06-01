@@ -172,6 +172,7 @@
 - [Tigatok/nvim-todonotes](https://github.com/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/stars/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/last-commit/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/commit-activity/y/Tigatok/nvim-todonotes)
 - [micahkepe/todo.nvim](https://github.com/micahkepe/todo.nvim) ![](https://img.shields.io/github/stars/micahkepe/todo.nvim) ![](https://img.shields.io/github/last-commit/micahkepe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/micahkepe/todo.nvim)
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
+- [lukevanlukevan/frankly.nvim](https://github.com/lukevanlukevan/frankly.nvim) ![](https://img.shields.io/github/stars/lukevanlukevan/frankly.nvim) ![](https://img.shields.io/github/last-commit/lukevanlukevan/frankly.nvim) ![](https://img.shields.io/github/commit-activity/y/lukevanlukevan/frankly.nvim)
 
 #### Taskwarrior
 

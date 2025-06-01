@@ -123,6 +123,7 @@
 - [Wordluc/in-your-face.nvim](https://github.com/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/stars/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/last-commit/Wordluc/in-your-face.nvim) ![](https://img.shields.io/github/commit-activity/y/Wordluc/in-your-face.nvim)
 - [BadgerBloke/diagnostic-float.nvim](https://github.com/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/stars/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/last-commit/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/commit-activity/y/BadgerBloke/diagnostic-float.nvim)
 - [Quaestiox/diag-cmd.nvim](https://github.com/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/stars/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/last-commit/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Quaestiox/diag-cmd.nvim)
+- [iammmiru/diagnostic-jumper.nvim](https://github.com/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/stars/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/diagnostic-jumper.nvim)
 
 ##### Diagnostics goto
 
