@@ -69,6 +69,7 @@
 - [wsdjeg/statusline.nvim](https://github.com/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statusline.nvim)
 - [Huggepugge1/monocle.nvim](https://github.com/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/stars/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/last-commit/Huggepugge1/monocle.nvim) ![](https://img.shields.io/github/commit-activity/y/Huggepugge1/monocle.nvim)
 - [yebt/fastline.nvim](https://github.com/yebt/fastline.nvim) ![](https://img.shields.io/github/stars/yebt/fastline.nvim) ![](https://img.shields.io/github/last-commit/yebt/fastline.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/fastline.nvim)
+- [sadiksaifi/line.nvim](https://github.com/sadiksaifi/line.nvim) ![](https://img.shields.io/github/stars/sadiksaifi/line.nvim) ![](https://img.shields.io/github/last-commit/sadiksaifi/line.nvim) ![](https://img.shields.io/github/commit-activity/y/sadiksaifi/line.nvim)
 
 #### Simple
 

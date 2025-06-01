@@ -32,6 +32,7 @@
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
 - [YarikYar/posting.nvim](https://github.com/YarikYar/posting.nvim) ![](https://img.shields.io/github/stars/YarikYar/posting.nvim) ![](https://img.shields.io/github/last-commit/YarikYar/posting.nvim) ![](https://img.shields.io/github/commit-activity/y/YarikYar/posting.nvim)
 - [Leonardo-Luz/http.nvim](https://github.com/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/http.nvim)
+- [yonchando/http.nvim](https://github.com/yonchando/http.nvim) ![](https://img.shields.io/github/stars/yonchando/http.nvim) ![](https://img.shields.io/github/last-commit/yonchando/http.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/http.nvim)
 
 #### Status
 

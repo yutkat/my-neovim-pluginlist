@@ -140,6 +140,7 @@
 - [WardenDigital/echolocator.nvim](https://github.com/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/stars/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/last-commit/WardenDigital/echolocator.nvim) ![](https://img.shields.io/github/commit-activity/y/WardenDigital/echolocator.nvim)
 - [pixlmint/dockrat.nvim](https://github.com/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/stars/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/last-commit/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/commit-activity/y/pixlmint/dockrat.nvim)
 - [squerez/docker.nvim](https://github.com/squerez/docker.nvim) ![](https://img.shields.io/github/stars/squerez/docker.nvim) ![](https://img.shields.io/github/last-commit/squerez/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/squerez/docker.nvim)
+- [msmith-codes/docker_telescope.nvim](https://github.com/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/stars/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/docker_telescope.nvim)
 
 ###### Docker Compose
 
