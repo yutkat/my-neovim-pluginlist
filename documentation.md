@@ -345,6 +345,7 @@
 - [mpas/marp-nvim](https://github.com/mpas/marp-nvim) ![](https://img.shields.io/github/stars/mpas/marp-nvim) ![](https://img.shields.io/github/last-commit/mpas/marp-nvim) ![](https://img.shields.io/github/commit-activity/y/mpas/marp-nvim)
 - [thmshmm/marp-preview.nvim](https://github.com/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/stars/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/last-commit/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/thmshmm/marp-preview.nvim)
 - [mingxue619/mx-mp.nvim](https://github.com/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/stars/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/last-commit/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/commit-activity/y/mingxue619/mx-mp.nvim)
+- [nwiizo/marp.nvim](https://github.com/nwiizo/marp.nvim) ![](https://img.shields.io/github/stars/nwiizo/marp.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/marp.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/marp.nvim)
 
 ### PlantUML
 

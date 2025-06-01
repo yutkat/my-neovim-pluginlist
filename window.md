@@ -52,6 +52,7 @@
 - [hesiod-au/fastkeywins.nvim](https://github.com/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/stars/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/fastkeywins.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/fastkeywins.nvim)
 - [willothy/glass.nvim](https://github.com/willothy/glass.nvim) ![](https://img.shields.io/github/stars/willothy/glass.nvim) ![](https://img.shields.io/github/last-commit/willothy/glass.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/glass.nvim)
 - [volskaya/windovigation.nvim](https://github.com/volskaya/windovigation.nvim) ![](https://img.shields.io/github/stars/volskaya/windovigation.nvim) ![](https://img.shields.io/github/last-commit/volskaya/windovigation.nvim) ![](https://img.shields.io/github/commit-activity/y/volskaya/windovigation.nvim)
+- [mkajsjo/windowcolumns.nvim](https://github.com/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/stars/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/last-commit/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/commit-activity/y/mkajsjo/windowcolumns.nvim)
 
 #### move
 
