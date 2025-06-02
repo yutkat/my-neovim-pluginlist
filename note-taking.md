@@ -225,6 +225,7 @@
 #### Hugo
 
 - [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
+- [onlyati/hugo.nvim](https://github.com/onlyati/hugo.nvim) ![](https://img.shields.io/github/stars/onlyati/hugo.nvim) ![](https://img.shields.io/github/last-commit/onlyati/hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/hugo.nvim)
 
 ### Google Keep
 
@@ -426,3 +427,4 @@
 - [0xrinful/vnotes.nvim](https://github.com/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/stars/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/last-commit/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xrinful/vnotes.nvim)
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
 - [ysmb-wtsg/gtd.nvim](https://github.com/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/gtd.nvim)
+- [burnskp/notes.nvim](https://github.com/burnskp/notes.nvim) ![](https://img.shields.io/github/stars/burnskp/notes.nvim) ![](https://img.shields.io/github/last-commit/burnskp/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/burnskp/notes.nvim)

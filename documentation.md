@@ -360,6 +360,7 @@
 - [Maduki-tech/nvim-plantuml](https://github.com/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/stars/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/last-commit/Maduki-tech/nvim-plantuml) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/nvim-plantuml)
 - [SebastiaanBooman/botanist.nvim](https://github.com/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/stars/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/last-commit/SebastiaanBooman/botanist.nvim) ![](https://img.shields.io/github/commit-activity/y/SebastiaanBooman/botanist.nvim)
 - [Gabz-Araujo/plantuml.nvim](https://github.com/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/stars/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/last-commit/Gabz-Araujo/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/Gabz-Araujo/plantuml.nvim)
+- [tobias-edwards/plantuml-preview.nvim](https://github.com/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-edwards/plantuml-preview.nvim)
 
 ### Mermaid
 

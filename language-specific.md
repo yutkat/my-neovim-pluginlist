@@ -9,6 +9,7 @@
     + [C#](#c%23)
       - [Compile](#compile)
       - [disassembler](#disassembler)
+      - [inspect](#inspect)
       - [.NET](#net)
       - [ASP.NET](#aspnet)
     + [Kotlin](#kotlin)
@@ -171,6 +172,10 @@
 ##### disassembler
 
 - [ArnauPrat/nvim-csharp-dasm](https://github.com/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/stars/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/last-commit/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/commit-activity/y/ArnauPrat/nvim-csharp-dasm)
+
+##### inspect
+
+- [pakhv/jb-inspect.nvim](https://github.com/pakhv/jb-inspect.nvim) ![](https://img.shields.io/github/stars/pakhv/jb-inspect.nvim) ![](https://img.shields.io/github/last-commit/pakhv/jb-inspect.nvim) ![](https://img.shields.io/github/commit-activity/y/pakhv/jb-inspect.nvim)
 
 ##### .NET
 

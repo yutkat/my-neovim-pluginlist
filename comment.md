@@ -18,6 +18,7 @@
   * [Directory comment](#directory-comment)
   * [Hide comment](#hide-comment)
   * [AI comment](#ai-comment)
+  * [remove comment](#remove-comment)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -138,6 +139,10 @@
 ### AI comment
 
 - [AdrianMosnegutu/docscribe.nvim](https://github.com/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/stars/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/last-commit/AdrianMosnegutu/docscribe.nvim) ![](https://img.shields.io/github/commit-activity/y/AdrianMosnegutu/docscribe.nvim)
+
+### remove comment
+
+- [KashifKhn/nvim-remove-comments](https://github.com/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/stars/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/last-commit/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/nvim-remove-comments)
 
 ## LICENSE
 
