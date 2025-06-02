@@ -172,6 +172,7 @@
 - [Tigatok/nvim-todonotes](https://github.com/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/stars/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/last-commit/Tigatok/nvim-todonotes) ![](https://img.shields.io/github/commit-activity/y/Tigatok/nvim-todonotes)
 - [micahkepe/todo.nvim](https://github.com/micahkepe/todo.nvim) ![](https://img.shields.io/github/stars/micahkepe/todo.nvim) ![](https://img.shields.io/github/last-commit/micahkepe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/micahkepe/todo.nvim)
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
+- [thatguyinabeanie/todo-mcp.nvim](https://github.com/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/stars/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/last-commit/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/thatguyinabeanie/todo-mcp.nvim)
 
 #### Taskwarrior
 
@@ -425,4 +426,5 @@
 - [breiting/nvim-writer.nvim](https://github.com/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-writer.nvim)
 - [0xrinful/vnotes.nvim](https://github.com/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/stars/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/last-commit/0xrinful/vnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xrinful/vnotes.nvim)
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
+- [burnskp/notes.nvim](https://github.com/burnskp/notes.nvim) ![](https://img.shields.io/github/stars/burnskp/notes.nvim) ![](https://img.shields.io/github/last-commit/burnskp/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/burnskp/notes.nvim)
 - [ysmb-wtsg/gtd.nvim](https://github.com/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/stars/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/last-commit/ysmb-wtsg/gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/ysmb-wtsg/gtd.nvim)

@@ -130,6 +130,7 @@
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
 - [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
 - [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
+- [calebfroese/ampcode-cli.nvim](https://github.com/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/stars/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/last-commit/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/calebfroese/ampcode-cli.nvim)
 
 #### Shell
 

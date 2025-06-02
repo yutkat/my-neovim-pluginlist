@@ -154,6 +154,7 @@
   - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
 - [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
+- [KoolieAid/neovibe.nvim](https://github.com/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/stars/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/neovibe.nvim)
 
 ### Multi LLM
 
