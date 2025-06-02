@@ -192,6 +192,7 @@
 - [minollisantiago/lazyllm.nvim](https://github.com/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/stars/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/last-commit/minollisantiago/lazyllm.nvim) ![](https://img.shields.io/github/commit-activity/y/minollisantiago/lazyllm.nvim)
 - [DavidTelenko/texel.nvim](https://github.com/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/stars/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/last-commit/DavidTelenko/texel.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidTelenko/texel.nvim)
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) ![](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim) ![](https://img.shields.io/github/commit-activity/y/mozanunal/sllm.nvim)
+- [KoolieAid/neovibe.nvim](https://github.com/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/stars/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/neovibe.nvim)
 
 #### mods
 
@@ -500,6 +501,7 @@
 
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
 - [brianhuster/nvim-mcp-server](https://github.com/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/stars/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/last-commit/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/commit-activity/y/brianhuster/nvim-mcp-server)
+- [thatguyinabeanie/todo-mcp.nvim](https://github.com/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/stars/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/last-commit/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/thatguyinabeanie/todo-mcp.nvim)
 
 ## Configuration File (.cursor)
 

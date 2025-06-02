@@ -124,6 +124,7 @@
 - [BadgerBloke/diagnostic-float.nvim](https://github.com/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/stars/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/last-commit/BadgerBloke/diagnostic-float.nvim) ![](https://img.shields.io/github/commit-activity/y/BadgerBloke/diagnostic-float.nvim)
 - [Quaestiox/diag-cmd.nvim](https://github.com/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/stars/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/last-commit/Quaestiox/diag-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/Quaestiox/diag-cmd.nvim)
 - [iammmiru/diagnostic-jumper.nvim](https://github.com/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/stars/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/diagnostic-jumper.nvim)
+- [mbienkowsk/hush.nvim](https://github.com/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/stars/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/last-commit/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/commit-activity/y/mbienkowsk/hush.nvim)
 
 ##### Diagnostics goto
 
