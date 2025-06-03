@@ -191,6 +191,7 @@
 - [vernette/ai-commit.nvim](https://github.com/vernette/ai-commit.nvim) ![](https://img.shields.io/github/stars/vernette/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/vernette/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/vernette/ai-commit.nvim)
 - [Abizrh/commit-ai.nvim](https://github.com/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/stars/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/commit-ai.nvim)
 - [lululau/neogit-ai-commit.nvim](https://github.com/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-ai-commit.nvim)
+- [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/codecompanion-gitcommit.nvim)
 
 ### git fetch
 
@@ -314,6 +315,7 @@
 
 - [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/git-link.nvim)
 - [fmxsh/gitwatch.nvim](https://github.com/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/stars/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/gitwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/gitwatch.nvim)
+- [mtkld/gitwatch.nvim](https://github.com/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/stars/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/last-commit/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/gitwatch.nvim)
 
 ### git grep
 

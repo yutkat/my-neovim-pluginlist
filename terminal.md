@@ -87,6 +87,7 @@
 - [bassamsdata/neaterminal.nvim](https://github.com/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/stars/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/neaterminal.nvim)
 - [fmxsh/permtermbuf.nvim](https://github.com/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/stars/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/permtermbuf.nvim)
 - [fmxsh/ctxterm.nvim](https://github.com/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/stars/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/ctxterm.nvim)
+- [mtkld/permtermbuf.nvim](https://github.com/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/stars/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/last-commit/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/permtermbuf.nvim)
 
 ### Open
 
