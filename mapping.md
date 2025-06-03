@@ -66,8 +66,8 @@
   - [DeciStudios/mapper-cheatsheet.nvim](https://github.com/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/stars/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/DeciStudios/mapper-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/DeciStudios/mapper-cheatsheet.nvim)
 - [shuber2/oneshotstubs.nvim](https://github.com/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/stars/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/last-commit/shuber2/oneshotstubs.nvim) ![](https://img.shields.io/github/commit-activity/y/shuber2/oneshotstubs.nvim)
 - [echasnovski/mini.keymap](https://github.com/echasnovski/mini.keymap) ![](https://img.shields.io/github/stars/echasnovski/mini.keymap) ![](https://img.shields.io/github/last-commit/echasnovski/mini.keymap) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.keymap)
-- [fmxsh/keypoint.nvim](https://github.com/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/stars/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/keypoint.nvim)
-- [fmxsh/dynkey.nvim](https://github.com/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/stars/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/dynkey.nvim)
+- [mtkld/keypoint.nvim](https://github.com/mtkld/keypoint.nvim) ![](https://img.shields.io/github/stars/mtkld/keypoint.nvim) ![](https://img.shields.io/github/last-commit/mtkld/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/keypoint.nvim)
+- [mtkld/dynkey.nvim](https://github.com/mtkld/dynkey.nvim) ![](https://img.shields.io/github/stars/mtkld/dynkey.nvim) ![](https://img.shields.io/github/last-commit/mtkld/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/dynkey.nvim)
 
 
 ### instant mapping

@@ -70,7 +70,7 @@
 ### Function
 
 - [Beargruug/blink.nvim](https://github.com/Beargruug/blink.nvim) ![](https://img.shields.io/github/stars/Beargruug/blink.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/blink.nvim)
-- [fmxsh/funview.nvim](https://github.com/fmxsh/funview.nvim) ![](https://img.shields.io/github/stars/fmxsh/funview.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/funview.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/funview.nvim)
+- [mtkld/funview.nvim](https://github.com/mtkld/funview.nvim) ![](https://img.shields.io/github/stars/mtkld/funview.nvim) ![](https://img.shields.io/github/last-commit/mtkld/funview.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/funview.nvim)
 
 ### Code Block Separater
 

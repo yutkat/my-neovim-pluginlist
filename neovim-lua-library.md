@@ -288,7 +288,7 @@
 
 ## Unix domain socket
 
-- [fmxsh/nntmwrite.nvim](https://github.com/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/stars/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/nntmwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/nntmwrite.nvim)
+- [mtkld/nntmwrite.nvim](https://github.com/mtkld/nntmwrite.nvim) ![](https://img.shields.io/github/stars/mtkld/nntmwrite.nvim) ![](https://img.shields.io/github/last-commit/mtkld/nntmwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/nntmwrite.nvim)
 
 ## CLI
 
