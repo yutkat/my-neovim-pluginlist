@@ -136,8 +136,8 @@
 - [adigitoleo/overview.nvim](https://github.com/adigitoleo/overview.nvim) ![](https://img.shields.io/github/stars/adigitoleo/overview.nvim) ![](https://img.shields.io/github/last-commit/adigitoleo/overview.nvim) ![](https://img.shields.io/github/commit-activity/y/adigitoleo/overview.nvim)
 - [ChuufMaster/markdown-toc](https://github.com/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/stars/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/last-commit/ChuufMaster/markdown-toc) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/markdown-toc)
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
-- [fmxsh/mdtoc.nvim](https://github.com/fmxsh/mdtoc.nvim) ![](https://img.shields.io/github/stars/fmxsh/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/mdtoc.nvim)
-  - [fmxsh/fixedspace.nvim](https://github.com/fmxsh/fixedspace.nvim) ![](https://img.shields.io/github/stars/fmxsh/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/fixedspace.nvim)
+- [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
+  - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
 
 #### split file
 

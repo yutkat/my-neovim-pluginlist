@@ -58,7 +58,7 @@
 - [TiWo2012/floatingTodo.nvim](https://github.com/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/stars/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/last-commit/TiWo2012/floatingTodo.nvim) ![](https://img.shields.io/github/commit-activity/y/TiWo2012/floatingTodo.nvim)
 - [chrisakakay/spm.nvim](https://github.com/chrisakakay/spm.nvim) ![](https://img.shields.io/github/stars/chrisakakay/spm.nvim) ![](https://img.shields.io/github/last-commit/chrisakakay/spm.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisakakay/spm.nvim)
 - [aubs-dev/hopper.nvim](https://github.com/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/stars/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/hopper.nvim)
-- [fmxsh/phxm.nvim](https://github.com/fmxsh/phxm.nvim) ![](https://img.shields.io/github/stars/fmxsh/phxm.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/phxm.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/phxm.nvim)
+- [mtkld/phxm.nvim](https://github.com/mtkld/phxm.nvim) ![](https://img.shields.io/github/stars/mtkld/phxm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/phxm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/phxm.nvim)
 - [Zbolt50/projection.nvim](https://github.com/Zbolt50/projection.nvim) ![](https://img.shields.io/github/stars/Zbolt50/projection.nvim) ![](https://img.shields.io/github/last-commit/Zbolt50/projection.nvim) ![](https://img.shields.io/github/commit-activity/y/Zbolt50/projection.nvim)
 
 #### Project Root Detector

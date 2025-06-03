@@ -85,8 +85,8 @@
 - [franpfeiffer/term2.nvim](https://github.com/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/term2.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/term2.nvim)
 - [dmkraych/Quickterm.nvim](https://github.com/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/stars/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/last-commit/dmkraych/Quickterm.nvim) ![](https://img.shields.io/github/commit-activity/y/dmkraych/Quickterm.nvim)
 - [bassamsdata/neaterminal.nvim](https://github.com/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/stars/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/neaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/neaterminal.nvim)
-- [fmxsh/permtermbuf.nvim](https://github.com/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/stars/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/permtermbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/permtermbuf.nvim)
-- [fmxsh/ctxterm.nvim](https://github.com/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/stars/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/fmxsh/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/fmxsh/ctxterm.nvim)
+- [mtkld/permtermbuf.nvim](https://github.com/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/stars/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/last-commit/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/permtermbuf.nvim)
+- [mtkld/ctxterm.nvim](https://github.com/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/stars/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/ctxterm.nvim)
 
 ### Open
 
