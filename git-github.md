@@ -159,6 +159,7 @@
 - [JosephPenaQuino/committer.nvim](https://github.com/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/stars/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/last-commit/JosephPenaQuino/committer.nvim) ![](https://img.shields.io/github/commit-activity/y/JosephPenaQuino/committer.nvim)
 - [ken11/GitComet.nvim](https://github.com/ken11/GitComet.nvim) ![](https://img.shields.io/github/stars/ken11/GitComet.nvim) ![](https://img.shields.io/github/last-commit/ken11/GitComet.nvim) ![](https://img.shields.io/github/commit-activity/y/ken11/GitComet.nvim)
 - [m4dd0c/CommitGPT.nvim](https://github.com/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/stars/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/last-commit/m4dd0c/CommitGPT.nvim) ![](https://img.shields.io/github/commit-activity/y/m4dd0c/CommitGPT.nvim)
+- [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/codecompanion-gitcommit.nvim)
 
 #### prefix(conventional-commits)
 

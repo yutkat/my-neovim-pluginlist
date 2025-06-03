@@ -28,6 +28,7 @@
 - [v-l-a-d-i-m-i-r/nvim-components](https://github.com/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/stars/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/last-commit/v-l-a-d-i-m-i-r/nvim-components) ![](https://img.shields.io/github/commit-activity/y/v-l-a-d-i-m-i-r/nvim-components)
 - [ingenarel/metapack.nvim](https://github.com/ingenarel/metapack.nvim) ![](https://img.shields.io/github/stars/ingenarel/metapack.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/metapack.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/metapack.nvim)
 - [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/nuwa.nvim)
+- [bhargavms/mogra-toolchain.nvim](https://github.com/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/stars/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/last-commit/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/bhargavms/mogra-toolchain.nvim)
 
 #### formatter
 

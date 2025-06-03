@@ -59,6 +59,7 @@
   * [ledger](#ledger)
   * [diagon](#diagon)
   * [k8s (Kubernetes)](#k8s-kubernetes)
+    + [ArgoCD](#argocd)
   * [ntpy](#ntpy)
 
 <!-- tocstop -->
@@ -141,6 +142,7 @@
 - [pixlmint/dockrat.nvim](https://github.com/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/stars/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/last-commit/pixlmint/dockrat.nvim) ![](https://img.shields.io/github/commit-activity/y/pixlmint/dockrat.nvim)
 - [squerez/docker.nvim](https://github.com/squerez/docker.nvim) ![](https://img.shields.io/github/stars/squerez/docker.nvim) ![](https://img.shields.io/github/last-commit/squerez/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/squerez/docker.nvim)
 - [msmith-codes/docker_telescope.nvim](https://github.com/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/stars/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/docker_telescope.nvim)
+- [zigotica/telescope-docker-commands.nvim](https://github.com/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/stars/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/last-commit/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/zigotica/telescope-docker-commands.nvim)
 
 ###### Docker Compose
 
@@ -386,6 +388,7 @@
 ##### yadm
 
 - [rj1/yadm.nvim](https://github.com/rj1/yadm.nvim) ![](https://img.shields.io/github/stars/rj1/yadm.nvim) ![](https://img.shields.io/github/last-commit/rj1/yadm.nvim) ![](https://img.shields.io/github/commit-activity/y/rj1/yadm.nvim)
+- [Kohei-Wada/yadm-git.nvim](https://github.com/Kohei-Wada/yadm-git.nvim) ![](https://img.shields.io/github/stars/Kohei-Wada/yadm-git.nvim) ![](https://img.shields.io/github/last-commit/Kohei-Wada/yadm-git.nvim) ![](https://img.shields.io/github/commit-activity/y/Kohei-Wada/yadm-git.nvim)
 
 #### age
 
@@ -442,6 +445,10 @@
 - [kezhenxu94/kube.nvim](https://github.com/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/stars/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/last-commit/kezhenxu94/kube.nvim) ![](https://img.shields.io/github/commit-activity/y/kezhenxu94/kube.nvim)
 - [tinoschroeter/sealed-secrets.nvim](https://github.com/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/stars/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/last-commit/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/tinoschroeter/sealed-secrets.nvim)
 - [tonychg/nvim-k8s-lsp](https://github.com/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/stars/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/last-commit/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/commit-activity/y/tonychg/nvim-k8s-lsp)
+
+##### ArgoCD
+
+- [lucaguindani/nvim-argocd](https://github.com/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/stars/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/last-commit/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/commit-activity/y/lucaguindani/nvim-argocd)
 
 #### ntpy
 

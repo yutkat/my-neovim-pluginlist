@@ -479,6 +479,7 @@
 - [oncomouse/nvim-ref](https://github.com/oncomouse/nvim-ref) ![](https://img.shields.io/github/stars/oncomouse/nvim-ref) ![](https://img.shields.io/github/last-commit/oncomouse/nvim-ref) ![](https://img.shields.io/github/commit-activity/y/oncomouse/nvim-ref)
 - [liamvdvyver/cmp-bibtex](https://github.com/liamvdvyver/cmp-bibtex) ![](https://img.shields.io/github/stars/liamvdvyver/cmp-bibtex) ![](https://img.shields.io/github/last-commit/liamvdvyver/cmp-bibtex) ![](https://img.shields.io/github/commit-activity/y/liamvdvyver/cmp-bibtex)
 - [chenlijun99/biblioteca.nvim](https://github.com/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/stars/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/last-commit/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/commit-activity/y/chenlijun99/biblioteca.nvim)
+- [Aidavdw/bibcite.nvim](https://github.com/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/stars/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/last-commit/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/commit-activity/y/Aidavdw/bibcite.nvim)
 
 #### Speech
 
