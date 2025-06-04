@@ -93,6 +93,7 @@
 - [BowTiedItaliano/markdown-essentials.nvim](https://github.com/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/stars/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/last-commit/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/BowTiedItaliano/markdown-essentials.nvim)
 - [mackenziebasaraba/nvim-pencil](https://github.com/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/stars/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/last-commit/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/commit-activity/y/mackenziebasaraba/nvim-pencil)
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
+- [zacharyFerretti/nvim-md](https://github.com/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-md)
 
 #### Markdown link
 

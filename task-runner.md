@@ -130,6 +130,7 @@
 - [nNeD5/compile.nvim](https://github.com/nNeD5/compile.nvim) ![](https://img.shields.io/github/stars/nNeD5/compile.nvim) ![](https://img.shields.io/github/last-commit/nNeD5/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/nNeD5/compile.nvim)
 - [Sinedka/trunner.nvim](https://github.com/Sinedka/trunner.nvim) ![](https://img.shields.io/github/stars/Sinedka/trunner.nvim) ![](https://img.shields.io/github/last-commit/Sinedka/trunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Sinedka/trunner.nvim)
 - [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
+- [Lairizzle/jrun.nvim](https://github.com/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/jrun.nvim)
 
 #### Shell
 

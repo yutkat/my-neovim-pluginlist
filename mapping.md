@@ -54,6 +54,7 @@
 - [kirill-d-lappo/nvim-keymaps](https://github.com/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-keymaps) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-keymaps)
 - [fholmer/no.nvim](https://github.com/fholmer/no.nvim) ![](https://img.shields.io/github/stars/fholmer/no.nvim) ![](https://img.shields.io/github/last-commit/fholmer/no.nvim) ![](https://img.shields.io/github/commit-activity/y/fholmer/no.nvim)
 - [chachacollins/emacs.nvim](https://github.com/chachacollins/emacs.nvim) ![](https://img.shields.io/github/stars/chachacollins/emacs.nvim) ![](https://img.shields.io/github/last-commit/chachacollins/emacs.nvim) ![](https://img.shields.io/github/commit-activity/y/chachacollins/emacs.nvim)
+- [huncholane/syncmap.nvim](https://github.com/huncholane/syncmap.nvim) ![](https://img.shields.io/github/stars/huncholane/syncmap.nvim) ![](https://img.shields.io/github/last-commit/huncholane/syncmap.nvim) ![](https://img.shields.io/github/commit-activity/y/huncholane/syncmap.nvim)
 
 #### map function utiliy
 

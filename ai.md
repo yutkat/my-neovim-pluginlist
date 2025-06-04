@@ -273,6 +273,7 @@
 
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) ![](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![](https://img.shields.io/github/last-commit/greggh/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/claude-code.nvim)
 - [rsmdt/claude-code.nvim](https://github.com/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/stars/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/last-commit/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmdt/claude-code.nvim)
+- [kakapo1933/kaipo-claude-code.nvim](https://github.com/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/stars/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/last-commit/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/kakapo1933/kaipo-claude-code.nvim)
 
 ### DeepSeek
 
@@ -430,6 +431,7 @@
 - [DanielKlossek/github-chatpilot.nvim](https://github.com/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/stars/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/last-commit/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielKlossek/github-chatpilot.nvim)
 - [bytesoverflow/smartcat.nvim](https://github.com/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/stars/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/last-commit/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/commit-activity/y/bytesoverflow/smartcat.nvim)
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
+- [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) ![](https://img.shields.io/github/stars/chatvim/chatvim.nvim) ![](https://img.shields.io/github/last-commit/chatvim/chatvim.nvim) ![](https://img.shields.io/github/commit-activity/y/chatvim/chatvim.nvim)
 
 ## AI Terminal
 
