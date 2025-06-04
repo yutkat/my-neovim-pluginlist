@@ -78,6 +78,7 @@
 - [paetinspier/buffer-nav.nvim](https://github.com/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/stars/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/last-commit/paetinspier/buffer-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/paetinspier/buffer-nav.nvim)
 - [bloznelis/buftrack.nvim](https://github.com/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/stars/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/last-commit/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/commit-activity/y/bloznelis/buftrack.nvim)
 - [Aletheios42/buffer-manager.nvim](https://github.com/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Aletheios42/buffer-manager.nvim)
+- [VenkatRaman3103/fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/stars/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/last-commit/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/VenkatRaman3103/fleet.nvim)
 
 ### Other Buffer Switcher
 
