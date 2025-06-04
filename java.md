@@ -9,6 +9,7 @@
   * [Debugger](#debugger)
     + [Stacktrace](#stacktrace)
   * [Test](#test)
+  * [Compile](#compile)
   * [Maven](#maven)
   * [Gradle](#gradle)
   * [Spring Boot](#spring-boot)
@@ -57,6 +58,10 @@
 ### Test
 
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
+
+### Compile
+
+- [Lairizzle/jrun.nvim](https://github.com/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/jrun.nvim)
 
 ### Maven
 

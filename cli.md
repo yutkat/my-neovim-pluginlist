@@ -124,6 +124,7 @@
 - [hiasr/vim-zellij-navigator.nvim](https://github.com/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/stars/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/last-commit/hiasr/vim-zellij-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/hiasr/vim-zellij-navigator.nvim)
 - [GR3YH4TT3R93/zellij-nav.nvim](https://github.com/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/stars/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/GR3YH4TT3R93/zellij-nav.nvim)
 - [noahbald/nangz.nvim](https://github.com/noahbald/nangz.nvim) ![](https://img.shields.io/github/stars/noahbald/nangz.nvim) ![](https://img.shields.io/github/last-commit/noahbald/nangz.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/nangz.nvim)
+- [dev-vinicius-andrade/zellij-nav.nvim](https://github.com/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/zellij-nav.nvim)
 
 #### Container
 
@@ -322,6 +323,7 @@
 - [yimuchen/rsync.nvim](https://github.com/yimuchen/rsync.nvim) ![](https://img.shields.io/github/stars/yimuchen/rsync.nvim) ![](https://img.shields.io/github/last-commit/yimuchen/rsync.nvim) ![](https://img.shields.io/github/commit-activity/y/yimuchen/rsync.nvim)
 - [mrkatebzadeh/sync.nvim](https://github.com/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/stars/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/last-commit/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/commit-activity/y/mrkatebzadeh/sync.nvim)
 - [nahso/rsync-build.nvim](https://github.com/nahso/rsync-build.nvim) ![](https://img.shields.io/github/stars/nahso/rsync-build.nvim) ![](https://img.shields.io/github/last-commit/nahso/rsync-build.nvim) ![](https://img.shields.io/github/commit-activity/y/nahso/rsync-build.nvim)
+- [huncholane/syncmap.nvim](https://github.com/huncholane/syncmap.nvim) ![](https://img.shields.io/github/stars/huncholane/syncmap.nvim) ![](https://img.shields.io/github/last-commit/huncholane/syncmap.nvim) ![](https://img.shields.io/github/commit-activity/y/huncholane/syncmap.nvim)
 
 #### curl
 

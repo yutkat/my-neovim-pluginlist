@@ -295,6 +295,7 @@
 #### Style
 
 - [MistbornOne/md-format.nvim](https://github.com/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/stars/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/md-format.nvim)
+- [zacharyFerretti/nvim-md](https://github.com/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-md) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-md)
 
 #### Markdown image
 
