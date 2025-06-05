@@ -41,6 +41,7 @@
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 - [nvimdev/phoenix.nvim](https://github.com/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/stars/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/phoenix.nvim)
 - [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) ![](https://img.shields.io/github/stars/wsdjeg/nvim-completion) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-completion) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-completion)
+- [Hisham-Mohammd/nvim-ix](https://github.com/Hisham-Mohammd/nvim-ix) ![](https://img.shields.io/github/stars/Hisham-Mohammd/nvim-ix) ![](https://img.shields.io/github/last-commit/Hisham-Mohammd/nvim-ix) ![](https://img.shields.io/github/commit-activity/y/Hisham-Mohammd/nvim-ix)
 
 #### Made in Python
 

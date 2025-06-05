@@ -53,6 +53,7 @@
 ### YouTube Music
 
 - [hainakus/yt-dlp.nvim](https://github.com/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/stars/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/last-commit/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/commit-activity/y/hainakus/yt-dlp.nvim)
+- [benomahony/youtube.nvim](https://github.com/benomahony/youtube.nvim) ![](https://img.shields.io/github/stars/benomahony/youtube.nvim) ![](https://img.shields.io/github/last-commit/benomahony/youtube.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/youtube.nvim)
 
 ### Tidal
 

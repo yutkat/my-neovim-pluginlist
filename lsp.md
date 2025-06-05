@@ -272,6 +272,7 @@
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) ![](https://img.shields.io/github/stars/davidosomething/everandever.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/everandever.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/everandever.nvim)
 - [mortymacs/lsp-meta.nvim](https://github.com/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/stars/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/last-commit/mortymacs/lsp-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/mortymacs/lsp-meta.nvim)
 - [thomas-maurice/lspnotify.nvim](https://github.com/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/stars/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/last-commit/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-maurice/lspnotify.nvim)
+- [drehren/fltprogr.nvim](https://github.com/drehren/fltprogr.nvim) ![](https://img.shields.io/github/stars/drehren/fltprogr.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltprogr.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltprogr.nvim)
 
 ### Get LSP Client
 
