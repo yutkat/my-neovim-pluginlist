@@ -79,6 +79,7 @@
 - [bloznelis/buftrack.nvim](https://github.com/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/stars/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/last-commit/bloznelis/buftrack.nvim) ![](https://img.shields.io/github/commit-activity/y/bloznelis/buftrack.nvim)
 - [Aletheios42/buffer-manager.nvim](https://github.com/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Aletheios42/buffer-manager.nvim)
 - [VenkatRaman3103/fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/stars/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/last-commit/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/VenkatRaman3103/fleet.nvim)
+- [Kaikacy/buffers.nvim](https://github.com/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/stars/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/last-commit/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaikacy/buffers.nvim)
 
 ### Other Buffer Switcher
 

@@ -61,6 +61,7 @@
 - [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
 - [Completion](#completion)
+- [Progress bar](#progress-bar)
 - [Markdown](#markdown)
 - [Language](#language)
   * [Japanese](#japanese)
@@ -382,6 +383,10 @@
 ## Completion
 
 - [hrsh7th/nvim-cmp-kit](https://github.com/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp-kit) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp-kit)
+
+## Progress bar
+
+- [drehren/fltprogr.nvim](https://github.com/drehren/fltprogr.nvim) ![](https://img.shields.io/github/stars/drehren/fltprogr.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltprogr.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltprogr.nvim)
 
 ## Markdown
 
