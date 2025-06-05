@@ -368,6 +368,7 @@
 - [dk949/file_line.nvim](https://github.com/dk949/file_line.nvim) ![](https://img.shields.io/github/stars/dk949/file_line.nvim) ![](https://img.shields.io/github/last-commit/dk949/file_line.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/file_line.nvim)
 - [shrynx/line-numbers.nvim](https://github.com/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/stars/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/last-commit/shrynx/line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/shrynx/line-numbers.nvim)
 - [teial/relvirt.nvim](https://github.com/teial/relvirt.nvim) ![](https://img.shields.io/github/stars/teial/relvirt.nvim) ![](https://img.shields.io/github/last-commit/teial/relvirt.nvim) ![](https://img.shields.io/github/commit-activity/y/teial/relvirt.nvim)
+- [am2b/smartnumber.nvim](https://github.com/am2b/smartnumber.nvim) ![](https://img.shields.io/github/stars/am2b/smartnumber.nvim) ![](https://img.shields.io/github/last-commit/am2b/smartnumber.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/smartnumber.nvim)
 
 ### [Mark](./mark.md)
 

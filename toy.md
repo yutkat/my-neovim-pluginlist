@@ -166,6 +166,7 @@
 ### YouTube
 
 - [lachlanpaulsen1/ytshorts-runner.nvim](https://github.com/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/stars/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/last-commit/lachlanpaulsen1/ytshorts-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lachlanpaulsen1/ytshorts-runner.nvim)
+- [benomahony/youtube.nvim](https://github.com/benomahony/youtube.nvim) ![](https://img.shields.io/github/stars/benomahony/youtube.nvim) ![](https://img.shields.io/github/last-commit/benomahony/youtube.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/youtube.nvim)
 
 ## Study
 
