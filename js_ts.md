@@ -247,6 +247,8 @@
 
 #### Biome
 
+- [aabraham-proxmox/biome.nvim](https://github.com/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/stars/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/last-commit/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/commit-activity/y/aabraham-proxmox/biome.nvim)
+
 #### Vite
 
 - [bassamsdata/vite.nvim](https://github.com/bassamsdata/vite.nvim) ![](https://img.shields.io/github/stars/bassamsdata/vite.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/vite.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/vite.nvim)
