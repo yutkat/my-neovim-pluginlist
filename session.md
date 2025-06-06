@@ -67,6 +67,7 @@
 - [Akutchi/session.nvim](https://github.com/Akutchi/session.nvim) ![](https://img.shields.io/github/stars/Akutchi/session.nvim) ![](https://img.shields.io/github/last-commit/Akutchi/session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akutchi/session.nvim)
 - [l4zygreed/memcard.nvim](https://github.com/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/stars/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/memcard.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/memcard.nvim)
 - [am2b/keep.nvim](https://github.com/am2b/keep.nvim) ![](https://img.shields.io/github/stars/am2b/keep.nvim) ![](https://img.shields.io/github/last-commit/am2b/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/keep.nvim)
+- [niba/continue.nvim](https://github.com/niba/continue.nvim) ![](https://img.shields.io/github/stars/niba/continue.nvim) ![](https://img.shields.io/github/last-commit/niba/continue.nvim) ![](https://img.shields.io/github/commit-activity/y/niba/continue.nvim)
 
 ### Session Selector
 

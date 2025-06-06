@@ -211,6 +211,7 @@
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian.nvim)
 - [chkg2a/todo-obsidian.nvim](https://github.com/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/stars/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/last-commit/chkg2a/todo-obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/chkg2a/todo-obsidian.nvim)
 - [wilsonangara/obsidian-navigator.nvim](https://github.com/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/stars/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/last-commit/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wilsonangara/obsidian-navigator.nvim)
+- [csooriyakumaran/obsidian-utils.nvim](https://github.com/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/stars/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/last-commit/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/csooriyakumaran/obsidian-utils.nvim)
 
 ### nb
 

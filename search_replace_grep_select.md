@@ -107,6 +107,7 @@
 - [nvimdev/hlsearch.nvim](https://github.com/nvimdev/hlsearch.nvim) ![](https://img.shields.io/github/stars/nvimdev/hlsearch.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/hlsearch.nvim)
 - [asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/stars/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/last-commit/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/asiryk/auto-hlsearch.nvim)
 - [sahlte/timed-highlight.nvim](https://github.com/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/stars/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/last-commit/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/sahlte/timed-highlight.nvim)
+- [am2b/stardust.nvim](https://github.com/am2b/stardust.nvim) ![](https://img.shields.io/github/stars/am2b/stardust.nvim) ![](https://img.shields.io/github/last-commit/am2b/stardust.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/stardust.nvim)
 
 ### Visual search
 

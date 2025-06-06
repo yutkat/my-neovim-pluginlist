@@ -60,6 +60,7 @@
 - [aubs-dev/hopper.nvim](https://github.com/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/stars/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/last-commit/aubs-dev/hopper.nvim) ![](https://img.shields.io/github/commit-activity/y/aubs-dev/hopper.nvim)
 - [mtkld/phxm.nvim](https://github.com/mtkld/phxm.nvim) ![](https://img.shields.io/github/stars/mtkld/phxm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/phxm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/phxm.nvim)
 - [Zbolt50/projection.nvim](https://github.com/Zbolt50/projection.nvim) ![](https://img.shields.io/github/stars/Zbolt50/projection.nvim) ![](https://img.shields.io/github/last-commit/Zbolt50/projection.nvim) ![](https://img.shields.io/github/commit-activity/y/Zbolt50/projection.nvim)
+- [arne-vl/project-picker.nvim](https://github.com/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/stars/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/project-picker.nvim)
 
 #### Project Root Detector
 

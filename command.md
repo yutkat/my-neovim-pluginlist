@@ -17,6 +17,7 @@
     + [detach](#detach)
   * [Random value](#random-value)
 - [Multiple Command](#multiple-command)
+- [toggle](#toggle)
 - [Command Palette](#command-palette)
 
 <!-- tocstop -->
@@ -110,6 +111,10 @@
 ## Multiple Command
 
 - [zKurisu/multi-do.nvim](https://github.com/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/stars/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/multi-do.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/multi-do.nvim)
+
+## toggle
+
+- [markgandolfo/lightswitch.nvim](https://github.com/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/markgandolfo/lightswitch.nvim)
 
 ## Command Palette
 
