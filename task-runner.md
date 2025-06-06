@@ -194,6 +194,7 @@
 - [WayneYam/mrbruh.nvim](https://github.com/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/stars/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/mrbruh.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/mrbruh.nvim)
 - [lizeeeee9527/SampleRunner.nvim](https://github.com/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/stars/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/last-commit/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/lizeeeee9527/SampleRunner.nvim)
 - [Paul8800/nvim-term-runner](https://github.com/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/stars/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/last-commit/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/commit-activity/y/Paul8800/nvim-term-runner)
+- [68mschmitt/project_runner.nvim](https://github.com/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/stars/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/project_runner.nvim)
 
 ### :make style
 

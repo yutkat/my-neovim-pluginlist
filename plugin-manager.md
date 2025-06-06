@@ -89,6 +89,7 @@
 ### Lazy load
 
 - [Xarvex/lazy-load.nvim](https://github.com/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/stars/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/last-commit/Xarvex/lazy-load.nvim) ![](https://img.shields.io/github/commit-activity/y/Xarvex/lazy-load.nvim)
+- [doodleEsc/LazyTrigger.nvim](https://github.com/doodleEsc/LazyTrigger.nvim) ![](https://img.shields.io/github/stars/doodleEsc/LazyTrigger.nvim) ![](https://img.shields.io/github/last-commit/doodleEsc/LazyTrigger.nvim) ![](https://img.shields.io/github/commit-activity/y/doodleEsc/LazyTrigger.nvim)
 
 ### Plugin Config
 
