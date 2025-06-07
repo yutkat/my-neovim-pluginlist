@@ -23,6 +23,7 @@
 - [adelarsq/snake_cursor.nvim](https://github.com/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/stars/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/snake_cursor.nvim)
 - [rlychrisg/cursorshine.nvim](https://github.com/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/stars/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/cursorshine.nvim)
 - [kosior3kt/mode-colors.nvim](https://github.com/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/stars/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/last-commit/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/kosior3kt/mode-colors.nvim)
+- [samr/fileblink.nvim](https://github.com/samr/fileblink.nvim) ![](https://img.shields.io/github/stars/samr/fileblink.nvim) ![](https://img.shields.io/github/last-commit/samr/fileblink.nvim) ![](https://img.shields.io/github/commit-activity/y/samr/fileblink.nvim)
 
 ### Cursor position
 

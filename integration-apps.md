@@ -368,6 +368,7 @@
 - [yehuohan/blink-cmp-im](https://github.com/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/stars/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/blink-cmp-im)
 - [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
 - [kanium3/neovide-ime.nvim](https://github.com/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/stars/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/last-commit/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/kanium3/neovide-ime.nvim)
+- [396458015/imeflow.nvim](https://github.com/396458015/imeflow.nvim) ![](https://img.shields.io/github/stars/396458015/imeflow.nvim) ![](https://img.shields.io/github/last-commit/396458015/imeflow.nvim) ![](https://img.shields.io/github/commit-activity/y/396458015/imeflow.nvim)
 
 #### Fcitx
 

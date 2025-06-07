@@ -209,6 +209,7 @@
 - [LukasPietzschmann/boo.nvim](https://github.com/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/stars/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/last-commit/LukasPietzschmann/boo.nvim) ![](https://img.shields.io/github/commit-activity/y/LukasPietzschmann/boo.nvim)
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
+- [star-lance/nvim-hoverfloat](https://github.com/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/stars/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/last-commit/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/commit-activity/y/star-lance/nvim-hoverfloat)
 
 ##### Hover info
 
@@ -333,6 +334,7 @@
 - [pojokcodeid/auto-lsp.nvim](https://github.com/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-lsp.nvim)
 - [Massolari/lsp-auto-setup.nvim](https://github.com/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/stars/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/last-commit/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/lsp-auto-setup.nvim)
 - [patrickswijgman/lsp-extra.nvim](https://github.com/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/lsp-extra.nvim)
+- [owallb/mason-auto-install.nvim](https://github.com/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/stars/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/last-commit/owallb/mason-auto-install.nvim) ![](https://img.shields.io/github/commit-activity/y/owallb/mason-auto-install.nvim)
 
 ## Backwards Compatibility
 
