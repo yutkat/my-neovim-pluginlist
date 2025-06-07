@@ -33,6 +33,7 @@
   * [Gen42 AI](#gen42-ai)
   * [FastGPT Kagi](#fastgpt-kagi)
   * [Codegeex](#codegeex)
+  * [forkyou](#forkyou)
   * [Bedrock](#bedrock)
   * [Blink AI](#blink-ai)
   * [tgpt](#tgpt)
@@ -360,6 +361,10 @@
 ### Codegeex
 
 - [sunn4room/nvim-cmp-codegeex](https://github.com/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/stars/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/last-commit/sunn4room/nvim-cmp-codegeex) ![](https://img.shields.io/github/commit-activity/y/sunn4room/nvim-cmp-codegeex)
+
+### forkyou
+
+- [forkyoudev/forkyou.nvim](https://github.com/forkyoudev/forkyou.nvim) ![](https://img.shields.io/github/stars/forkyoudev/forkyou.nvim) ![](https://img.shields.io/github/last-commit/forkyoudev/forkyou.nvim) ![](https://img.shields.io/github/commit-activity/y/forkyoudev/forkyou.nvim)
 
 ### Bedrock
 

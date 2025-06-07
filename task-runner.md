@@ -180,6 +180,7 @@
 - [antogp24/nvim-compile](https://github.com/antogp24/nvim-compile) ![](https://img.shields.io/github/stars/antogp24/nvim-compile) ![](https://img.shields.io/github/last-commit/antogp24/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/antogp24/nvim-compile)
 - [Soybean44/compilation-mode.nvim](https://github.com/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/stars/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/Soybean44/compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Soybean44/compilation-mode.nvim)
 - [calebfroese/ampcode-cli.nvim](https://github.com/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/stars/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/last-commit/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/calebfroese/ampcode-cli.nvim)
+- [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 
 ### Auto detect style
 

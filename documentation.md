@@ -93,6 +93,7 @@
 - [BowTiedItaliano/markdown-essentials.nvim](https://github.com/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/stars/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/last-commit/BowTiedItaliano/markdown-essentials.nvim) ![](https://img.shields.io/github/commit-activity/y/BowTiedItaliano/markdown-essentials.nvim)
 - [mackenziebasaraba/nvim-pencil](https://github.com/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/stars/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/last-commit/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/commit-activity/y/mackenziebasaraba/nvim-pencil)
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
+- [RyanGreenup/markdown_editor.nvim](https://github.com/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/markdown_editor.nvim)
 
 #### Markdown link
 
@@ -390,6 +391,7 @@
 - [basola21/PDFview](https://github.com/basola21/PDFview) ![](https://img.shields.io/github/stars/basola21/PDFview) ![](https://img.shields.io/github/last-commit/basola21/PDFview) ![](https://img.shields.io/github/commit-activity/y/basola21/PDFview)
 - [HubertusWeber/PaperPlane.nvim](https://github.com/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/stars/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/last-commit/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertusWeber/PaperPlane.nvim)
 - [johnmatter/teddy.nvim](https://github.com/johnmatter/teddy.nvim) ![](https://img.shields.io/github/stars/johnmatter/teddy.nvim) ![](https://img.shields.io/github/last-commit/johnmatter/teddy.nvim) ![](https://img.shields.io/github/commit-activity/y/johnmatter/teddy.nvim)
+- [franco-ruggeri/pdf-preview.nvim](https://github.com/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/pdf-preview.nvim)
 
 ### EPUB
 
