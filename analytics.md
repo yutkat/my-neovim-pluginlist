@@ -97,5 +97,4 @@
 
 - [mgerb/metrics.nvim](https://github.com/mgerb/metrics.nvim) ![](https://img.shields.io/github/stars/mgerb/metrics.nvim) ![](https://img.shields.io/github/last-commit/mgerb/metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/mgerb/metrics.nvim)
 - [wookayin/nvim-profiler](https://github.com/wookayin/nvim-profiler) ![](https://img.shields.io/github/stars/wookayin/nvim-profiler) ![](https://img.shields.io/github/last-commit/wookayin/nvim-profiler) ![](https://img.shields.io/github/commit-activity/y/wookayin/nvim-profiler)
-- [letieu/key-report.nvim](https://github.com/letieu/key-report.nvim) ![](https://img.shields.io/github/stars/letieu/key-report.nvim) ![](https://img.shields.io/github/last-commit/letieu/key-report.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/key-report.nvim)
 - [stevearc/benchmark.nvim](https://github.com/stevearc/benchmark.nvim) ![](https://img.shields.io/github/stars/stevearc/benchmark.nvim) ![](https://img.shields.io/github/last-commit/stevearc/benchmark.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/benchmark.nvim)
