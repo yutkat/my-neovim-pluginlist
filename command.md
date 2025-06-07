@@ -91,7 +91,6 @@
 - [Grafcube/suedit.nvim](https://github.com/Grafcube/suedit.nvim) ![](https://img.shields.io/github/stars/Grafcube/suedit.nvim) ![](https://img.shields.io/github/last-commit/Grafcube/suedit.nvim) ![](https://img.shields.io/github/commit-activity/y/Grafcube/suedit.nvim)
 - [HE7086/sudoedit.nvim](https://github.com/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/stars/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/last-commit/HE7086/sudoedit.nvim) ![](https://img.shields.io/github/commit-activity/y/HE7086/sudoedit.nvim)
 - [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/stars/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/last-commit/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/commit-activity/y/denialofsandwich/sudo.nvim)
-- [masajinobe-ef/suda.nvim](https://github.com/masajinobe-ef/suda.nvim) ![](https://img.shields.io/github/stars/masajinobe-ef/suda.nvim) ![](https://img.shields.io/github/last-commit/masajinobe-ef/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/masajinobe-ef/suda.nvim)
 
 #### quit
 
