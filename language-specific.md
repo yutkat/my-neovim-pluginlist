@@ -191,6 +191,7 @@
 - [Mgenuit/nvim-dap-kotlin](https://github.com/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/stars/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/last-commit/Mgenuit/nvim-dap-kotlin) ![](https://img.shields.io/github/commit-activity/y/Mgenuit/nvim-dap-kotlin)
 - [franckrasolo/luasnip4k.nvim](https://github.com/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/stars/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/last-commit/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/commit-activity/y/franckrasolo/luasnip4k.nvim)
 - [y9san9/kotlin-toolchain.nvim](https://github.com/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/stars/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/last-commit/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/y9san9/kotlin-toolchain.nvim)
+- [AlexandrosAlexiou/kotlin.nvim](https://github.com/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/stars/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/last-commit/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexandrosAlexiou/kotlin.nvim)
 
 ##### detekt
 
