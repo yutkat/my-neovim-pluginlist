@@ -47,6 +47,7 @@
 - [pmouraguedes/sql-ghosty.nvim](https://github.com/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/stars/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/last-commit/pmouraguedes/sql-ghosty.nvim) ![](https://img.shields.io/github/commit-activity/y/pmouraguedes/sql-ghosty.nvim)
 - [michhernand/simple-sqlfluff.nvim](https://github.com/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/stars/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/last-commit/michhernand/simple-sqlfluff.nvim) ![](https://img.shields.io/github/commit-activity/y/michhernand/simple-sqlfluff.nvim)
 - [adtyap26/sql_docs.nvim](https://github.com/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/stars/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/last-commit/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/commit-activity/y/adtyap26/sql_docs.nvim)
+- [andevgo/nvim-sqlformat](https://github.com/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/stars/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/last-commit/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/commit-activity/y/andevgo/nvim-sqlformat)
 
 ### PostgreSQL
 

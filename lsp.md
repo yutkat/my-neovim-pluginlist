@@ -210,6 +210,7 @@
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
 - [star-lance/nvim-hoverfloat](https://github.com/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/stars/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/last-commit/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/commit-activity/y/star-lance/nvim-hoverfloat)
+- [sj2tpgk/nvim-eldoc](https://github.com/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/stars/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/last-commit/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/commit-activity/y/sj2tpgk/nvim-eldoc)
 
 ##### Hover info
 
