@@ -9,6 +9,7 @@
       - [Title explorer](#title-explorer)
       - [Section](#section)
     + [toc](#toc)
+    + [highlight](#highlight)
     + [split file](#split-file)
     + [Calculation](#calculation)
     + [Markdown preview](#markdown-preview)
@@ -139,6 +140,10 @@
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
 - [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
+
+#### highlight
+
+- [jbuck95/md-highlight.nvim](https://github.com/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/stars/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/md-highlight.nvim)
 
 #### split file
 
