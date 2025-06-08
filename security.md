@@ -2,16 +2,17 @@
 
 <!-- toc -->
 
-- [Security](#security)
-  * [Secrets](#secrets)
-  * [Encrypt](#encrypt)
-- [Privacy](#privacy)
-- [GPG](#gpg)
-  * [Keychain](#keychain)
-- [Sigma rule](#sigma-rule)
-- [Vulnerability test](#vulnerability-test)
-- [Solana](#solana)
-- [SARIF](#sarif)
+  * [Security](#security)
+    + [Secrets](#secrets)
+    + [Encrypt](#encrypt)
+  * [Privacy](#privacy)
+  * [GPG](#gpg)
+    + [Keychain](#keychain)
+  * [Sigma rule](#sigma-rule)
+  * [Vulnerability test](#vulnerability-test)
+  * [Solana](#solana)
+  * [SARIF](#sarif)
+- [docket](#docket)
 
 <!-- tocstop -->
 
@@ -73,3 +74,7 @@
 
 - [nifey/sarif.nvim](https://github.com/nifey/sarif.nvim) ![](https://img.shields.io/github/stars/nifey/sarif.nvim) ![](https://img.shields.io/github/last-commit/nifey/sarif.nvim) ![](https://img.shields.io/github/commit-activity/y/nifey/sarif.nvim)
 - [fguisso/sfer.nvim](https://github.com/fguisso/sfer.nvim) ![](https://img.shields.io/github/stars/fguisso/sfer.nvim) ![](https://img.shields.io/github/last-commit/fguisso/sfer.nvim) ![](https://img.shields.io/github/commit-activity/y/fguisso/sfer.nvim)
+
+## docket
+
+- [DrewDalmedo/docket.nvim](https://github.com/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/docket.nvim)

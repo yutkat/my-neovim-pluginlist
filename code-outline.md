@@ -12,6 +12,7 @@
 - [Code Block Separater](#code-block-separater)
 - [Code visualize](#code-visualize)
 - [CCN](#ccn)
+- [eldoc](#eldoc)
 
 <!-- tocstop -->
 
@@ -82,3 +83,7 @@
 ### CCN
 
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
+
+### eldoc
+
+- [sj2tpgk/nvim-eldoc](https://github.com/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/stars/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/last-commit/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/commit-activity/y/sj2tpgk/nvim-eldoc)
