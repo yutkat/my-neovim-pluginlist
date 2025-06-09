@@ -132,6 +132,7 @@
 - [mattcookio/pivot.nvim](https://github.com/mattcookio/pivot.nvim) ![](https://img.shields.io/github/stars/mattcookio/pivot.nvim) ![](https://img.shields.io/github/last-commit/mattcookio/pivot.nvim) ![](https://img.shields.io/github/commit-activity/y/mattcookio/pivot.nvim)
 - [siquitch/jumpr.nvim](https://github.com/siquitch/jumpr.nvim) ![](https://img.shields.io/github/stars/siquitch/jumpr.nvim) ![](https://img.shields.io/github/last-commit/siquitch/jumpr.nvim) ![](https://img.shields.io/github/commit-activity/y/siquitch/jumpr.nvim)
 - [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
+- [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
 
 #### create
 
