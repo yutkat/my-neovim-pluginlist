@@ -47,6 +47,7 @@
     + [Marp](#marp)
   * [PlantUML](#plantuml)
   * [Mermaid](#mermaid)
+  * [pikchr](#pikchr)
   * [Graphviz](#graphviz)
   * [AsciiDoc](#asciidoc)
   * [Mindmap](#mindmap)
@@ -95,6 +96,7 @@
 - [mackenziebasaraba/nvim-pencil](https://github.com/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/stars/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/last-commit/mackenziebasaraba/nvim-pencil) ![](https://img.shields.io/github/commit-activity/y/mackenziebasaraba/nvim-pencil)
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
 - [RyanGreenup/markdown_editor.nvim](https://github.com/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/markdown_editor.nvim)
+- [sergiza/mdutils.nvim](https://github.com/sergiza/mdutils.nvim) ![](https://img.shields.io/github/stars/sergiza/mdutils.nvim) ![](https://img.shields.io/github/last-commit/sergiza/mdutils.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiza/mdutils.nvim)
 
 #### Markdown link
 
@@ -241,6 +243,7 @@
 - [md-babel/md-babel.nvim](https://github.com/md-babel/md-babel.nvim) ![](https://img.shields.io/github/stars/md-babel/md-babel.nvim) ![](https://img.shields.io/github/last-commit/md-babel/md-babel.nvim) ![](https://img.shields.io/github/commit-activity/y/md-babel/md-babel.nvim)
 - [raj77in/nvim-fencepolish](https://github.com/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/stars/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/last-commit/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/commit-activity/y/raj77in/nvim-fencepolish)
 - [y0ug/ctx.nvim](https://github.com/y0ug/ctx.nvim) ![](https://img.shields.io/github/stars/y0ug/ctx.nvim) ![](https://img.shields.io/github/last-commit/y0ug/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/y0ug/ctx.nvim)
+- [Zonric/codecopy.nvim](https://github.com/Zonric/codecopy.nvim) ![](https://img.shields.io/github/stars/Zonric/codecopy.nvim) ![](https://img.shields.io/github/last-commit/Zonric/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zonric/codecopy.nvim)
 
 #### Markdown table
 
@@ -373,6 +376,10 @@
 
 - [snrogers/mermaider.nvim](https://github.com/snrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/snrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/snrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/snrogers/mermaider.nvim)
 
+### pikchr
+
+- [Cih2001/pikchr.nvim](https://github.com/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/stars/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/pikchr.nvim)
+
 ### Graphviz
 
 - [izocha/graphviz.nvim](https://github.com/izocha/graphviz.nvim) ![](https://img.shields.io/github/stars/izocha/graphviz.nvim) ![](https://img.shields.io/github/last-commit/izocha/graphviz.nvim) ![](https://img.shields.io/github/commit-activity/y/izocha/graphviz.nvim)
@@ -492,6 +499,7 @@
 #### Speech
 
 - [wazizian/voicetex.nvim](https://github.com/wazizian/voicetex.nvim) ![](https://img.shields.io/github/stars/wazizian/voicetex.nvim) ![](https://img.shields.io/github/last-commit/wazizian/voicetex.nvim) ![](https://img.shields.io/github/commit-activity/y/wazizian/voicetex.nvim)
+- [68mschmitt/loquax.nvim](https://github.com/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/stars/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/loquax.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/loquax.nvim)
 
 ### Copyright
 

@@ -29,6 +29,7 @@
   * [Long line highlight](#long-line-highlight)
   * [Current word highlight](#current-word-highlight)
   * [Current block highlight](#current-block-highlight)
+  * [block highlight](#block-highlight)
   * [Multiple word highlight](#multiple-word-highlight)
   * [Cursor Jump highlight](#cursor-jump-highlight)
   * [Variable color](#variable-color)
@@ -228,6 +229,10 @@
 ### Current block highlight
 
 - [ArijanJ/sexp-highlight.nvim](https://github.com/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/stars/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/last-commit/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ArijanJ/sexp-highlight.nvim)
+
+### block highlight
+
+- [nabekou29/pair-lens.nvim](https://github.com/nabekou29/pair-lens.nvim) ![](https://img.shields.io/github/stars/nabekou29/pair-lens.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/pair-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/pair-lens.nvim)
 
 ### Multiple word highlight
 

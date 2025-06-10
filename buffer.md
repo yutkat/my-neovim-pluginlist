@@ -132,6 +132,7 @@
 - [mattcookio/pivot.nvim](https://github.com/mattcookio/pivot.nvim) ![](https://img.shields.io/github/stars/mattcookio/pivot.nvim) ![](https://img.shields.io/github/last-commit/mattcookio/pivot.nvim) ![](https://img.shields.io/github/commit-activity/y/mattcookio/pivot.nvim)
 - [siquitch/jumpr.nvim](https://github.com/siquitch/jumpr.nvim) ![](https://img.shields.io/github/stars/siquitch/jumpr.nvim) ![](https://img.shields.io/github/last-commit/siquitch/jumpr.nvim) ![](https://img.shields.io/github/commit-activity/y/siquitch/jumpr.nvim)
 - [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
+- [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
 
 #### create
 
@@ -263,6 +264,7 @@
 - [skeletony007/scratchman.nvim](https://github.com/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/stars/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/scratchman.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/scratchman.nvim)
 - [reybits/scratch.nvim](https://github.com/reybits/scratch.nvim) ![](https://img.shields.io/github/stars/reybits/scratch.nvim) ![](https://img.shields.io/github/last-commit/reybits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/scratch.nvim)
 - [eth-p/nvim-clone-buffer](https://github.com/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/stars/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/last-commit/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/commit-activity/y/eth-p/nvim-clone-buffer)
+- [MartinCornelius/tempbuf.nvim](https://github.com/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/tempbuf.nvim)
 
 ### Scratchpad
 

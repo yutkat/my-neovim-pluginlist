@@ -17,6 +17,7 @@
 - [bassamsdata/llmdiff.nvim](https://github.com/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/stars/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/llmdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/llmdiff.nvim)
 - [nitsanavni/approvals.nvim](https://github.com/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/stars/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/last-commit/nitsanavni/approvals.nvim) ![](https://img.shields.io/github/commit-activity/y/nitsanavni/approvals.nvim)
 - [yuukibarns/diffwatch.nvim](https://github.com/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/stars/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/diffwatch.nvim)
+- [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) ![](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/unified.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/unified.nvim)
 
 ### Diff Register
 
