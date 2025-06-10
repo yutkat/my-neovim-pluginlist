@@ -74,6 +74,7 @@
 ### Dim
 
 - [ck-zhang/obfuscate.nvim](https://github.com/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/stars/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/obfuscate.nvim)
+- [ChrisO345/shroud.nvim](https://github.com/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/stars/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/shroud.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/shroud.nvim)
 
 ## Syntax
 

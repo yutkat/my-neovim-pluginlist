@@ -275,6 +275,7 @@
 - [aidancz/lfsp.nvim](https://github.com/aidancz/lfsp.nvim) ![](https://img.shields.io/github/stars/aidancz/lfsp.nvim) ![](https://img.shields.io/github/last-commit/aidancz/lfsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/lfsp.nvim)
 - [tehdb/nvim-faker](https://github.com/tehdb/nvim-faker) ![](https://img.shields.io/github/stars/tehdb/nvim-faker) ![](https://img.shields.io/github/last-commit/tehdb/nvim-faker) ![](https://img.shields.io/github/commit-activity/y/tehdb/nvim-faker)
 - [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
+- [shborg-lua/nvim-rhymes](https://github.com/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/stars/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/last-commit/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/commit-activity/y/shborg-lua/nvim-rhymes)
 
 #### Smart Tab
 
@@ -522,6 +523,7 @@
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 - [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
+- [Cih2001/pikchr.nvim](https://github.com/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/stars/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/last-commit/Cih2001/pikchr.nvim) ![](https://img.shields.io/github/commit-activity/y/Cih2001/pikchr.nvim)
 
 ### [Translate](./translate.md)
 
