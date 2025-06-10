@@ -299,6 +299,7 @@
 - [epheien/conn-manager.nvim](https://github.com/epheien/conn-manager.nvim) ![](https://img.shields.io/github/stars/epheien/conn-manager.nvim) ![](https://img.shields.io/github/last-commit/epheien/conn-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/conn-manager.nvim)
 - [UpHillSolutions-roberth/nvim-ssh](https://github.com/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/stars/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/last-commit/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/commit-activity/y/UpHillSolutions-roberth/nvim-ssh)
 - [kumarvivek1752/remote-ssh.nvim](https://github.com/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/stars/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/kumarvivek1752/remote-ssh.nvim)
+- [tfpickard/sshiv.nvim](https://github.com/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/stars/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/sshiv.nvim)
 
 #### ftp
 

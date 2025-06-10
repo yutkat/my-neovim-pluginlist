@@ -195,6 +195,7 @@
 - [mozanunal/sllm.nvim](https://github.com/mozanunal/sllm.nvim) ![](https://img.shields.io/github/stars/mozanunal/sllm.nvim) ![](https://img.shields.io/github/last-commit/mozanunal/sllm.nvim) ![](https://img.shields.io/github/commit-activity/y/mozanunal/sllm.nvim)
 - [KoolieAid/neovibe.nvim](https://github.com/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/stars/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/neovibe.nvim)
 - [kylesnowschwartz/prompt-tower.nvim](https://github.com/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/prompt-tower.nvim)
+- [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 
 #### mods
 
@@ -276,6 +277,7 @@
 - [greggh/claude-code.nvim](https://github.com/greggh/claude-code.nvim) ![](https://img.shields.io/github/stars/greggh/claude-code.nvim) ![](https://img.shields.io/github/last-commit/greggh/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/claude-code.nvim)
 - [rsmdt/claude-code.nvim](https://github.com/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/stars/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/last-commit/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmdt/claude-code.nvim)
 - [kakapo1933/kaipo-claude-code.nvim](https://github.com/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/stars/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/last-commit/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/kakapo1933/kaipo-claude-code.nvim)
+- [pvnick/nvim-claude-code](https://github.com/pvnick/nvim-claude-code) ![](https://img.shields.io/github/stars/pvnick/nvim-claude-code) ![](https://img.shields.io/github/last-commit/pvnick/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/pvnick/nvim-claude-code)
 
 ### DeepSeek
 

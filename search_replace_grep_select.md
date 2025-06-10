@@ -214,6 +214,7 @@
 ### expand region
 
 - [darrell-pittman/wgc-expand-region.nvim](https://github.com/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/stars/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/last-commit/darrell-pittman/wgc-expand-region.nvim) ![](https://img.shields.io/github/commit-activity/y/darrell-pittman/wgc-expand-region.nvim)
+- [daliusd/incr.nvim](https://github.com/daliusd/incr.nvim) ![](https://img.shields.io/github/stars/daliusd/incr.nvim) ![](https://img.shields.io/github/last-commit/daliusd/incr.nvim) ![](https://img.shields.io/github/commit-activity/y/daliusd/incr.nvim)
 
 ### narrowing
 
