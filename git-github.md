@@ -283,6 +283,7 @@
 - [isaksamsten/conflicting.nvim](https://github.com/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/stars/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/last-commit/isaksamsten/conflicting.nvim) ![](https://img.shields.io/github/commit-activity/y/isaksamsten/conflicting.nvim)
 - [frannoriega/gitsolve.nvim](https://github.com/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/stars/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/last-commit/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/commit-activity/y/frannoriega/gitsolve.nvim)
 - [TungstnBallon/conflict.nvim](https://github.com/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/conflict.nvim)
+- [algmyr/vcmarkers.nvim](https://github.com/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/stars/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/last-commit/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/algmyr/vcmarkers.nvim)
 
 ### git pull
 

@@ -80,6 +80,7 @@
 - [Aletheios42/buffer-manager.nvim](https://github.com/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/stars/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/Aletheios42/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Aletheios42/buffer-manager.nvim)
 - [VenkatRaman3103/fleet.nvim](https://github.com/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/stars/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/last-commit/VenkatRaman3103/fleet.nvim) ![](https://img.shields.io/github/commit-activity/y/VenkatRaman3103/fleet.nvim)
 - [Kaikacy/buffers.nvim](https://github.com/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/stars/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/last-commit/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaikacy/buffers.nvim)
+- [NeverW8/nbuf](https://github.com/NeverW8/nbuf) ![](https://img.shields.io/github/stars/NeverW8/nbuf) ![](https://img.shields.io/github/last-commit/NeverW8/nbuf) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nbuf)
 
 ### Other Buffer Switcher
 
