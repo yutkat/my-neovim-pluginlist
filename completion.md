@@ -22,7 +22,6 @@
 #### Made in Lua
 
 - [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/stars/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-cmp) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-cmp)
-  - [iguanacucumber/magazine.nvim](https://github.com/iguanacucumber/magazine.nvim) ![](https://img.shields.io/github/stars/iguanacucumber/magazine.nvim) ![](https://img.shields.io/github/last-commit/iguanacucumber/magazine.nvim) ![](https://img.shields.io/github/commit-activity/y/iguanacucumber/magazine.nvim)
 - [Furkanzmc/sekme.nvim](https://github.com/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/sekme.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/sekme.nvim)
 - [echasnovski/mini.completion](https://github.com/echasnovski/mini.completion) ![](https://img.shields.io/github/stars/echasnovski/mini.completion) ![](https://img.shields.io/github/last-commit/echasnovski/mini.completion) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.completion)
 - [thatnerdjosh/nvim-ketho-wow](https://github.com/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/stars/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/last-commit/thatnerdjosh/nvim-ketho-wow) ![](https://img.shields.io/github/commit-activity/y/thatnerdjosh/nvim-ketho-wow)

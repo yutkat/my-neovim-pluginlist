@@ -144,7 +144,6 @@
 - [squerez/docker.nvim](https://github.com/squerez/docker.nvim) ![](https://img.shields.io/github/stars/squerez/docker.nvim) ![](https://img.shields.io/github/last-commit/squerez/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/squerez/docker.nvim)
 - [msmith-codes/docker_telescope.nvim](https://github.com/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/stars/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/last-commit/msmith-codes/docker_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/msmith-codes/docker_telescope.nvim)
 - [zigotica/telescope-docker-commands.nvim](https://github.com/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/stars/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/last-commit/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/zigotica/telescope-docker-commands.nvim)
-- [Nominuz/telescope-docker-commands.nvim](https://github.com/Nominuz/telescope-docker-commands.nvim) ![](https://img.shields.io/github/stars/Nominuz/telescope-docker-commands.nvim) ![](https://img.shields.io/github/last-commit/Nominuz/telescope-docker-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/Nominuz/telescope-docker-commands.nvim)
 
 ###### Docker Compose
 
