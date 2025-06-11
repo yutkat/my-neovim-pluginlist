@@ -196,6 +196,8 @@
 - [KoolieAid/neovibe.nvim](https://github.com/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/stars/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/last-commit/KoolieAid/neovibe.nvim) ![](https://img.shields.io/github/commit-activity/y/KoolieAid/neovibe.nvim)
 - [kylesnowschwartz/prompt-tower.nvim](https://github.com/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/prompt-tower.nvim)
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
+- [DominikOcsofszki/local_llm_tools.nvim](https://github.com/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/local_llm_tools.nvim)
+- [bearded-giant/giant-ai.nvim](https://github.com/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/stars/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/giant-ai.nvim)
 
 #### mods
 
@@ -221,6 +223,7 @@
 - [justinhj/chatty-ai.nvim](https://github.com/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai.nvim)
   - [justinhj/chatty-ai-service-xai.nvim](https://github.com/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-xai.nvim)
 - [georg3tom/llama.nvim](https://github.com/georg3tom/llama.nvim) ![](https://img.shields.io/github/stars/georg3tom/llama.nvim) ![](https://img.shields.io/github/last-commit/georg3tom/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/georg3tom/llama.nvim)
+- [cajone/cc_ollama.nvim](https://github.com/cajone/cc_ollama.nvim) ![](https://img.shields.io/github/stars/cajone/cc_ollama.nvim) ![](https://img.shields.io/github/last-commit/cajone/cc_ollama.nvim) ![](https://img.shields.io/github/commit-activity/y/cajone/cc_ollama.nvim)
 
 ### Ollama
 
@@ -311,6 +314,7 @@
 - [kentchiu/aider.nvim](https://github.com/kentchiu/aider.nvim) ![](https://img.shields.io/github/stars/kentchiu/aider.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/aider.nvim)
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
 - [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
+- [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
 
 ### CodeGate
 

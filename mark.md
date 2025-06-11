@@ -38,6 +38,7 @@
 - [edte/marks.nvim](https://github.com/edte/marks.nvim) ![](https://img.shields.io/github/stars/edte/marks.nvim) ![](https://img.shields.io/github/last-commit/edte/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/marks.nvim)
 - [agrevster/marker.nvim](https://github.com/agrevster/marker.nvim) ![](https://img.shields.io/github/stars/agrevster/marker.nvim) ![](https://img.shields.io/github/last-commit/agrevster/marker.nvim) ![](https://img.shields.io/github/commit-activity/y/agrevster/marker.nvim)
 - [mtkld/bubblecol.nvim](https://github.com/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/stars/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/last-commit/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/bubblecol.nvim)
+- [algmyr/vcmarkers.nvim](https://github.com/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/stars/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/last-commit/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/algmyr/vcmarkers.nvim)
 
 ### extmark
 
