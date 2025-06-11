@@ -6,6 +6,7 @@
   * [Coding time](#coding-time)
     + [Timewarrior](#timewarrior)
     + [ActivityWatch](#activitywatch)
+  * [Wakatime](#wakatime)
   * [Mapping stat](#mapping-stat)
   * [Typing speed](#typing-speed)
   * [Operation Log](#operation-log)
@@ -63,6 +64,10 @@
 #### ActivityWatch
 
 - [lowitea/aw-watcher.nvim](https://github.com/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/stars/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/last-commit/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lowitea/aw-watcher.nvim)
+
+### Wakatime
+
+- [fiqryq/wakastat.nvim](https://github.com/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/stars/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/last-commit/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/commit-activity/y/fiqryq/wakastat.nvim)
 
 ### Mapping stat
 

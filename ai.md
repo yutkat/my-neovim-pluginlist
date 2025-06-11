@@ -42,6 +42,7 @@
   * [LMStudio](#lmstudio)
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
+  * [Giant AI](#giant-ai)
   * [khulnasoft](#khulnasoft)
 - [AI Completion](#ai-completion)
   * [Copilot](#copilot)
@@ -252,6 +253,7 @@
 - [VyacheslavVanin/llm-requester.nvim](https://github.com/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/llm-requester.nvim)
 - [Abyss-c0re/deepshell-nvim](https://github.com/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/stars/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/last-commit/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/commit-activity/y/Abyss-c0re/deepshell-nvim)
 - [AdamFrenzen/ghostwrite.nvim](https://github.com/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/stars/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/last-commit/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamFrenzen/ghostwrite.nvim)
+- [DominikOcsofszki/local_llm_tools.nvim](https://github.com/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/local_llm_tools.nvim)
 
 ### Claude
 
@@ -311,6 +313,7 @@
 - [kentchiu/aider.nvim](https://github.com/kentchiu/aider.nvim) ![](https://img.shields.io/github/stars/kentchiu/aider.nvim) ![](https://img.shields.io/github/last-commit/kentchiu/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/kentchiu/aider.nvim)
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
 - [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
+- [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
 
 ### CodeGate
 
@@ -401,6 +404,10 @@
 ### Fitten Code
 
 - [luozhiya/fittencode.nvim](https://github.com/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/stars/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/last-commit/luozhiya/fittencode.nvim) ![](https://img.shields.io/github/commit-activity/y/luozhiya/fittencode.nvim)
+
+### Giant AI
+
+- [bearded-giant/giant-ai.nvim](https://github.com/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/stars/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/giant-ai.nvim)
 
 ### khulnasoft
 

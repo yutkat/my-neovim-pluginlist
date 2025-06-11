@@ -38,6 +38,7 @@
 - [Skardyy/neo-img](https://github.com/Skardyy/neo-img) ![](https://img.shields.io/github/stars/Skardyy/neo-img) ![](https://img.shields.io/github/last-commit/Skardyy/neo-img) ![](https://img.shields.io/github/commit-activity/y/Skardyy/neo-img)
 - [dhanvithnayak/imvue.nvim](https://github.com/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/stars/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/last-commit/dhanvithnayak/imvue.nvim) ![](https://img.shields.io/github/commit-activity/y/dhanvithnayak/imvue.nvim)
 - [gh-liu/nvim-stevedore](https://github.com/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/stars/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-stevedore)
+- [vito-c/nvim-icat](https://github.com/vito-c/nvim-icat) ![](https://img.shields.io/github/stars/vito-c/nvim-icat) ![](https://img.shields.io/github/last-commit/vito-c/nvim-icat) ![](https://img.shields.io/github/commit-activity/y/vito-c/nvim-icat)
 
 ### Image Magick
 
