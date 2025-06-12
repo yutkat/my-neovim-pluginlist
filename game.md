@@ -5,6 +5,7 @@
 - [Game](#game)
   * [Tetris](#tetris)
   * [Mine Sweeper](#mine-sweeper)
+  * [DOOM](#doom)
   * [Sudoku](#sudoku)
   * [Typing](#typing)
   * [FiveM](#fivem)
@@ -48,6 +49,10 @@
 ### Mine Sweeper
 
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
+
+### DOOM
+
+- [seandewar/actually-doom.nvim](https://github.com/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/stars/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/last-commit/seandewar/actually-doom.nvim) ![](https://img.shields.io/github/commit-activity/y/seandewar/actually-doom.nvim)
 
 ### Sudoku
 
