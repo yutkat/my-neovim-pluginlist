@@ -34,6 +34,7 @@
 ## Unicode character
 
 - [Zeta611/tex2uni.nvim](https://github.com/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/stars/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/last-commit/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeta611/tex2uni.nvim)
+- [atomashevic/unicode-math.nvim](https://github.com/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/stars/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/last-commit/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/commit-activity/y/atomashevic/unicode-math.nvim)
 
 ## Greek
 

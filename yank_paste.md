@@ -122,6 +122,7 @@
 
 - [haphamdev/copier.nvim](https://github.com/haphamdev/copier.nvim) ![](https://img.shields.io/github/stars/haphamdev/copier.nvim) ![](https://img.shields.io/github/last-commit/haphamdev/copier.nvim) ![](https://img.shields.io/github/commit-activity/y/haphamdev/copier.nvim)
 - [beeender/richclip.nvim](https://github.com/beeender/richclip.nvim) ![](https://img.shields.io/github/stars/beeender/richclip.nvim) ![](https://img.shields.io/github/last-commit/beeender/richclip.nvim) ![](https://img.shields.io/github/commit-activity/y/beeender/richclip.nvim)
+- [herisetiawan00/eskopi.nvim](https://github.com/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/eskopi.nvim)
 
 #### WSL clipboard
 
