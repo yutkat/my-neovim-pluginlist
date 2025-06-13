@@ -71,6 +71,7 @@
 - [yebt/fastline.nvim](https://github.com/yebt/fastline.nvim) ![](https://img.shields.io/github/stars/yebt/fastline.nvim) ![](https://img.shields.io/github/last-commit/yebt/fastline.nvim) ![](https://img.shields.io/github/commit-activity/y/yebt/fastline.nvim)
 - [sadiksaifi/line.nvim](https://github.com/sadiksaifi/line.nvim) ![](https://img.shields.io/github/stars/sadiksaifi/line.nvim) ![](https://img.shields.io/github/last-commit/sadiksaifi/line.nvim) ![](https://img.shields.io/github/commit-activity/y/sadiksaifi/line.nvim)
 - [tigh-latte/coke.nvim](https://github.com/tigh-latte/coke.nvim) ![](https://img.shields.io/github/stars/tigh-latte/coke.nvim) ![](https://img.shields.io/github/last-commit/tigh-latte/coke.nvim) ![](https://img.shields.io/github/commit-activity/y/tigh-latte/coke.nvim)
+- [aaronshahriari/express_line.nvim](https://github.com/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/express_line.nvim)
 
 #### Simple
 
