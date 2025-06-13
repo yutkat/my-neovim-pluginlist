@@ -132,6 +132,7 @@
 - [segoon/openapi-chooser.nvim](https://github.com/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/stars/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/last-commit/segoon/openapi-chooser.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/openapi-chooser.nvim)
 - [coffeemakingtoaster/nvim-llm](https://github.com/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/stars/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/last-commit/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/coffeemakingtoaster/nvim-llm)
 - [ram-rt/openvimai.nvim](https://github.com/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/stars/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/last-commit/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/commit-activity/y/ram-rt/openvimai.nvim)
+- [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 
 #### Codex
 
@@ -505,6 +506,7 @@
 ## Copy File Context 
 
 - [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
+- [androidStern/context-graph.nvim](https://github.com/androidStern/context-graph.nvim) ![](https://img.shields.io/github/stars/androidStern/context-graph.nvim) ![](https://img.shields.io/github/last-commit/androidStern/context-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/androidStern/context-graph.nvim)
 
 ## LLM context
 
