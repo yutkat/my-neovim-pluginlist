@@ -33,6 +33,7 @@
 - [richardhapb/neospeller.nvim](https://github.com/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/stars/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/last-commit/richardhapb/neospeller.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhapb/neospeller.nvim)
 - [LucaSartore/fastspell.nvim](https://github.com/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/stars/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/last-commit/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/commit-activity/y/LucaSartore/fastspell.nvim)
 - [ljsalvatierra/squire.nvim](https://github.com/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/stars/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/last-commit/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsalvatierra/squire.nvim)
+- [damiensawyer/sb.nvim](https://github.com/damiensawyer/sb.nvim) ![](https://img.shields.io/github/stars/damiensawyer/sb.nvim) ![](https://img.shields.io/github/last-commit/damiensawyer/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/damiensawyer/sb.nvim)
 
 #### Vale
 

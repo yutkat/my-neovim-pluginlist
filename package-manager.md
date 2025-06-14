@@ -30,6 +30,7 @@
 - [ingenarel/metapack.nvim](https://github.com/ingenarel/metapack.nvim) ![](https://img.shields.io/github/stars/ingenarel/metapack.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/metapack.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/metapack.nvim)
 - [alyxshang/nuwa.nvim](https://github.com/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/stars/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/last-commit/alyxshang/nuwa.nvim) ![](https://img.shields.io/github/commit-activity/y/alyxshang/nuwa.nvim)
 - [bhargavms/mogra-toolchain.nvim](https://github.com/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/stars/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/last-commit/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/bhargavms/mogra-toolchain.nvim)
+- [MonsieurTib/package-ui.nvim](https://github.com/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/stars/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/last-commit/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/MonsieurTib/package-ui.nvim)
 
 #### formatter
 

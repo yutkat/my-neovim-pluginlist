@@ -10,6 +10,7 @@
 - [File Header](#file-header)
 - [Todo Comment](#todo-comment)
 - [Todo Comment Highlight](#todo-comment-highlight)
+- [Doxygen](#doxygen)
 - [Special Comment](#special-comment)
   * [Annotation](#annotation)
   * [function comment](#function-comment)
@@ -96,6 +97,10 @@
 - [folke/todo-comments.nvim](https://github.com/folke/todo-comments.nvim) ![](https://img.shields.io/github/stars/folke/todo-comments.nvim) ![](https://img.shields.io/github/last-commit/folke/todo-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/todo-comments.nvim)
 - [alexmozaidze/tree-comment.nvim](https://github.com/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/stars/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/last-commit/alexmozaidze/tree-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/alexmozaidze/tree-comment.nvim)
 - [LazyYuuki/notice_me.nvim](https://github.com/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/stars/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/last-commit/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/commit-activity/y/LazyYuuki/notice_me.nvim)
+
+## Doxygen
+
+- [Blackcyan30/nvim-doccomment-tags](https://github.com/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/stars/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/last-commit/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/commit-activity/y/Blackcyan30/nvim-doccomment-tags)
 
 ## Special Comment
 
