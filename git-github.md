@@ -143,6 +143,7 @@
 - [you-fail-me/git-drift.nvim](https://github.com/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/stars/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/last-commit/you-fail-me/git-drift.nvim) ![](https://img.shields.io/github/commit-activity/y/you-fail-me/git-drift.nvim)
 - [victorvf/simple-git-status.nvim](https://github.com/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/stars/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/last-commit/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/victorvf/simple-git-status.nvim)
 - [Justin8303/nvim-tree-gitsigns](https://github.com/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/stars/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/last-commit/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/commit-activity/y/Justin8303/nvim-tree-gitsigns)
+- [Mauritz8/gitstatus.nvim](https://github.com/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/stars/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/last-commit/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/Mauritz8/gitstatus.nvim)
 
 ### git add
 
