@@ -48,6 +48,7 @@
   * [Wrapper](#wrapper)
 - [Jujutsu(jj)](#jujutsujj)
   * [diff](#diff)
+- [Sage](#sage)
 - [GitHub](#github)
   * [Features like gh](#features-like-gh)
     + [Notify](#notify)
@@ -59,6 +60,7 @@
     + [Pull Request Comment](#pull-request-comment)
     + [Assign](#assign)
   * [Actions](#actions)
+  * [Project](#project)
   * [Link](#link)
   * [Image](#image)
   * [Star](#star)
@@ -397,6 +399,10 @@
 
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
 
+## Sage
+
+- [sage-scm/sage.nvim](https://github.com/sage-scm/sage.nvim) ![](https://img.shields.io/github/stars/sage-scm/sage.nvim) ![](https://img.shields.io/github/last-commit/sage-scm/sage.nvim) ![](https://img.shields.io/github/commit-activity/y/sage-scm/sage.nvim)
+
 ## GitHub
 
 - [2kabhishek/octohub.nvim](https://github.com/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/stars/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/octohub.nvim)
@@ -468,6 +474,10 @@
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) ![](https://img.shields.io/github/stars/topaxi/pipeline.nvim) ![](https://img.shields.io/github/last-commit/topaxi/pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/pipeline.nvim)
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
 - [gitusp/gh-run-status.nvim](https://github.com/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-run-status.nvim)
+
+### Project
+
+- [Lucas-Henry/github-projects.nvim](https://github.com/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/stars/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/last-commit/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lucas-Henry/github-projects.nvim)
 
 ### Link
 

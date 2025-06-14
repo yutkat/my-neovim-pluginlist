@@ -19,7 +19,8 @@
 ### Code outline
 
 - [nvimdev/lspsaga.nvim(outline)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
-- [hedyhli/symbols-outline.nvim](https://github.com/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/stars/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/symbols-outline.nvim)
+- [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) ![](https://img.shields.io/github/stars/hedyhli/outline.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/outline.nvim)
+  - [bngarren/outline-test-blocks-provider.nvim](https://github.com/bngarren/outline-test-blocks-provider.nvim) ![](https://img.shields.io/github/stars/bngarren/outline-test-blocks-provider.nvim) ![](https://img.shields.io/github/last-commit/bngarren/outline-test-blocks-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/bngarren/outline-test-blocks-provider.nvim)
 - [stevearc/aerial.nvim](https://github.com/stevearc/aerial.nvim) ![](https://img.shields.io/github/stars/stevearc/aerial.nvim) ![](https://img.shields.io/github/last-commit/stevearc/aerial.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/aerial.nvim)
 - [ElPiloto/sidekick.nvim](https://github.com/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/stars/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/sidekick.nvim)
 - [sencer/outline.nvim](https://github.com/sencer/outline.nvim) ![](https://img.shields.io/github/stars/sencer/outline.nvim) ![](https://img.shields.io/github/last-commit/sencer/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/outline.nvim)
@@ -51,6 +52,7 @@
 - [jmacadie/telescope-hierarchy.nvim](https://github.com/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/stars/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/jmacadie/telescope-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/jmacadie/telescope-hierarchy.nvim)
 - [ravenxrz/call-graph.nvim](https://github.com/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/stars/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/call-graph.nvim)
 - [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/stars/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/lafarr/hierarchy.nvim)
+- [barreiroleo/callgraph.nvim](https://github.com/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/stars/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/callgraph.nvim)
 
 ### Type Hierarchy
 

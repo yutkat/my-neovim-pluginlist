@@ -6,6 +6,7 @@
   * [Switch theme](#switch-theme)
   * [Transparency](#transparency)
   * [Wallpaper](#wallpaper)
+  * [OSC11](#osc11)
 
 <!-- tocstop -->
 
@@ -35,3 +36,7 @@
 ### Wallpaper
 
 - [Leonardo-Luz/wallpaper.nvim](https://github.com/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/wallpaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/wallpaper.nvim)
+
+### OSC11
+
+- [afonsofrancof/OSC11.nvim](https://github.com/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/stars/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/last-commit/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/commit-activity/y/afonsofrancof/OSC11.nvim)
