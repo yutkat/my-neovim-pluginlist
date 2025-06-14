@@ -325,7 +325,6 @@
 
 ## Web3
 
-- [teial/nvim-remix](https://github.com/teial/nvim-remix) ![](https://img.shields.io/github/stars/teial/nvim-remix) ![](https://img.shields.io/github/last-commit/teial/nvim-remix) ![](https://img.shields.io/github/commit-activity/y/teial/nvim-remix)
 
 ## CI
 
