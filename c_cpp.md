@@ -179,6 +179,7 @@
 ### Doxygen
 
 - [jla2000/lazydocs.nvim](https://github.com/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/stars/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/jla2000/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/jla2000/lazydocs.nvim)
+- [Blackcyan30/nvim-doccomment-tags](https://github.com/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/stars/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/last-commit/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/commit-activity/y/Blackcyan30/nvim-doccomment-tags)
 
 ### Valgrind
 
