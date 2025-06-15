@@ -446,6 +446,7 @@
 - [yohendry/envs.nvim](https://github.com/yohendry/envs.nvim) ![](https://img.shields.io/github/stars/yohendry/envs.nvim) ![](https://img.shields.io/github/last-commit/yohendry/envs.nvim) ![](https://img.shields.io/github/commit-activity/y/yohendry/envs.nvim)
 - [Alexandersfg4/environment.nvim](https://github.com/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/stars/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/environment.nvim)
 - [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
+- [rhettjay/jsonifyEnv.nvim](https://github.com/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/stars/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/last-commit/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/commit-activity/y/rhettjay/jsonifyEnv.nvim)
 
 ### Errorformat
 
@@ -546,6 +547,7 @@
 - [mskelton/live-reload.nvim](https://github.com/mskelton/live-reload.nvim) ![](https://img.shields.io/github/stars/mskelton/live-reload.nvim) ![](https://img.shields.io/github/last-commit/mskelton/live-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/live-reload.nvim)
 - [Little-Captain/reloader.nvim](https://github.com/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/stars/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/last-commit/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/Little-Captain/reloader.nvim)
 - [Zeioth/hot-reload.nvim](https://github.com/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/stars/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/hot-reload.nvim)
+- [diogo464/hotreload.nvim](https://github.com/diogo464/hotreload.nvim) ![](https://img.shields.io/github/stars/diogo464/hotreload.nvim) ![](https://img.shields.io/github/last-commit/diogo464/hotreload.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/hotreload.nvim)
 
 ### [Package Manager](./package-manager.md)
 

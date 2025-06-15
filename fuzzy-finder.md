@@ -76,6 +76,7 @@
 - [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 - [xq-meng/neopop.nvim](https://github.com/xq-meng/neopop.nvim) ![](https://img.shields.io/github/stars/xq-meng/neopop.nvim) ![](https://img.shields.io/github/last-commit/xq-meng/neopop.nvim) ![](https://img.shields.io/github/commit-activity/y/xq-meng/neopop.nvim)
 - [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
+- [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
 
 #### Grep
 
