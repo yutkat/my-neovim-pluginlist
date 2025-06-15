@@ -51,7 +51,6 @@
 - [jarrodb/projectile.nvim](https://github.com/jarrodb/projectile.nvim) ![](https://img.shields.io/github/stars/jarrodb/projectile.nvim) ![](https://img.shields.io/github/last-commit/jarrodb/projectile.nvim) ![](https://img.shields.io/github/commit-activity/y/jarrodb/projectile.nvim)
 - [sapnvim/sapnvim_project.nvim](https://github.com/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/stars/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/last-commit/sapnvim/sapnvim_project.nvim) ![](https://img.shields.io/github/commit-activity/y/sapnvim/sapnvim_project.nvim)
 - [mtfrsantos/nvim-workspaces](https://github.com/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/stars/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/last-commit/mtfrsantos/nvim-workspaces) ![](https://img.shields.io/github/commit-activity/y/mtfrsantos/nvim-workspaces)
-- [ErPollo07/pman.nvim](https://github.com/ErPollo07/pman.nvim) ![](https://img.shields.io/github/stars/ErPollo07/pman.nvim) ![](https://img.shields.io/github/last-commit/ErPollo07/pman.nvim) ![](https://img.shields.io/github/commit-activity/y/ErPollo07/pman.nvim)
 - [LeeLaffan/workspacers.nvim](https://github.com/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/stars/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/last-commit/LeeLaffan/workspacers.nvim) ![](https://img.shields.io/github/commit-activity/y/LeeLaffan/workspacers.nvim)
 - [jakobwesthoff/project-fzf.nvim](https://github.com/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/project-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/project-fzf.nvim)
 - [simonfarkas/tick.nvim](https://github.com/simonfarkas/tick.nvim) ![](https://img.shields.io/github/stars/simonfarkas/tick.nvim) ![](https://img.shields.io/github/last-commit/simonfarkas/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/simonfarkas/tick.nvim)
@@ -77,12 +76,10 @@
 - [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
 - [DzedCPT/nvim-rooter](https://github.com/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/stars/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/last-commit/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/DzedCPT/nvim-rooter)
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/rooter.nvim)
-- [paperhero-repo/find-project-root.nvim](https://github.com/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/stars/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/last-commit/paperhero-repo/find-project-root.nvim) ![](https://img.shields.io/github/commit-activity/y/paperhero-repo/find-project-root.nvim)
 
 ### Project Template
 
 - [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
-- [4rtemis-4rrow/Scaffold.nvim](https://github.com/4rtemis-4rrow/Scaffold.nvim) ![](https://img.shields.io/github/stars/4rtemis-4rrow/Scaffold.nvim) ![](https://img.shields.io/github/last-commit/4rtemis-4rrow/Scaffold.nvim) ![](https://img.shields.io/github/commit-activity/y/4rtemis-4rrow/Scaffold.nvim)
 
 ##### Monorepo
 

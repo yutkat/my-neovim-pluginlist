@@ -36,7 +36,6 @@
 - [pkage/coauthor.nvim](https://github.com/pkage/coauthor.nvim) ![](https://img.shields.io/github/stars/pkage/coauthor.nvim) ![](https://img.shields.io/github/last-commit/pkage/coauthor.nvim) ![](https://img.shields.io/github/commit-activity/y/pkage/coauthor.nvim)
 - [skeletony007/pair.nvim](https://github.com/skeletony007/pair.nvim) ![](https://img.shields.io/github/stars/skeletony007/pair.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/pair.nvim)
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) ![](https://img.shields.io/github/stars/azratul/live-share.nvim) ![](https://img.shields.io/github/last-commit/azratul/live-share.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/live-share.nvim)
-- [DaviMarques24/teams.nvim](https://github.com/DaviMarques24/teams.nvim) ![](https://img.shields.io/github/stars/DaviMarques24/teams.nvim) ![](https://img.shields.io/github/last-commit/DaviMarques24/teams.nvim) ![](https://img.shields.io/github/commit-activity/y/DaviMarques24/teams.nvim)
 
 ### IDE feature
 
