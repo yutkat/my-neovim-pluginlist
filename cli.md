@@ -282,6 +282,7 @@
 - [jonatanP1993/dotnet_user_secrets.nvim](https://github.com/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/stars/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/last-commit/jonatanP1993/dotnet_user_secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/jonatanP1993/dotnet_user_secrets.nvim)
 - [cantti/fzf-dotnet.nvim](https://github.com/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/stars/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/last-commit/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/fzf-dotnet.nvim)
 - [jacob7395/dotnet-trouble.nvim](https://github.com/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/stars/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/last-commit/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/commit-activity/y/jacob7395/dotnet-trouble.nvim)
+- [anachary/dotnet-core.nvim](https://github.com/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/stars/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/last-commit/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/commit-activity/y/anachary/dotnet-core.nvim)
 
 ##### Nuget
 
@@ -414,6 +415,7 @@
 #### Croc
 
 - [heaveless/croc.nvim](https://github.com/heaveless/croc.nvim) ![](https://img.shields.io/github/stars/heaveless/croc.nvim) ![](https://img.shields.io/github/last-commit/heaveless/croc.nvim) ![](https://img.shields.io/github/commit-activity/y/heaveless/croc.nvim)
+- [Frayzen/croc-byte.nvim](https://github.com/Frayzen/croc-byte.nvim) ![](https://img.shields.io/github/stars/Frayzen/croc-byte.nvim) ![](https://img.shields.io/github/last-commit/Frayzen/croc-byte.nvim) ![](https://img.shields.io/github/commit-activity/y/Frayzen/croc-byte.nvim)
 
 #### sc-im
 
