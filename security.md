@@ -101,4 +101,3 @@
 
 ## docket
 
-- [DrewDalmedo/docket.nvim](https://github.com/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/docket.nvim)
