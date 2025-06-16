@@ -52,6 +52,7 @@
 - [johnsaigle/cargo-expand.nvim](https://github.com/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/stars/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/cargo-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/cargo-expand.nvim)
 - [nwiizo/nvim-cargo-add](https://github.com/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/stars/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/last-commit/nwiizo/nvim-cargo-add) ![](https://img.shields.io/github/commit-activity/y/nwiizo/nvim-cargo-add)
 - [nwiizo/cargo.nvim](https://github.com/nwiizo/cargo.nvim) ![](https://img.shields.io/github/stars/nwiizo/cargo.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/cargo.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/cargo.nvim)
+- [OleStrohm/cargo_test.nvim](https://github.com/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/stars/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/last-commit/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/commit-activity/y/OleStrohm/cargo_test.nvim)
 
 ### Clippy
 
