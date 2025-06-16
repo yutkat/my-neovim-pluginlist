@@ -79,6 +79,7 @@
 - [redxtech/nix-reaver.nvim](https://github.com/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/stars/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/last-commit/redxtech/nix-reaver.nvim) ![](https://img.shields.io/github/commit-activity/y/redxtech/nix-reaver.nvim)
 - [pete3n/nix-prefetch.nvim](https://github.com/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/stars/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/last-commit/pete3n/nix-prefetch.nvim) ![](https://img.shields.io/github/commit-activity/y/pete3n/nix-prefetch.nvim)
 - [wizardlink/nix-store.nvim](https://github.com/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/stars/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/last-commit/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/commit-activity/y/wizardlink/nix-store.nvim)
+- [brandishcode/nixessity.nvim](https://github.com/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/stars/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/nixessity.nvim)
 
 #### drun
 
