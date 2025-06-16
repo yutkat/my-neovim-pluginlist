@@ -274,6 +274,7 @@
 - [aidancz/lfsp.nvim](https://github.com/aidancz/lfsp.nvim) ![](https://img.shields.io/github/stars/aidancz/lfsp.nvim) ![](https://img.shields.io/github/last-commit/aidancz/lfsp.nvim) ![](https://img.shields.io/github/commit-activity/y/aidancz/lfsp.nvim)
 - [tehdb/nvim-faker](https://github.com/tehdb/nvim-faker) ![](https://img.shields.io/github/stars/tehdb/nvim-faker) ![](https://img.shields.io/github/last-commit/tehdb/nvim-faker) ![](https://img.shields.io/github/commit-activity/y/tehdb/nvim-faker)
 - [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
+- [cwmaguire/datebox.nvim](https://github.com/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/stars/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/last-commit/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/commit-activity/y/cwmaguire/datebox.nvim)
 
 #### Smart Tab
 

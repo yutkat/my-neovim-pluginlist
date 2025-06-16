@@ -55,6 +55,7 @@
 - [SWiegandt/autoself.nvim](https://github.com/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/stars/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/autoself.nvim)
 - [SWiegandt/python-utils.nvim](https://github.com/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/stars/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/python-utils.nvim)
 - [joshzcold/python.nvim](https://github.com/joshzcold/python.nvim) ![](https://img.shields.io/github/stars/joshzcold/python.nvim) ![](https://img.shields.io/github/last-commit/joshzcold/python.nvim) ![](https://img.shields.io/github/commit-activity/y/joshzcold/python.nvim)
+- [rorik302/python-projects.nvim](https://github.com/rorik302/python-projects.nvim) ![](https://img.shields.io/github/stars/rorik302/python-projects.nvim) ![](https://img.shields.io/github/last-commit/rorik302/python-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/rorik302/python-projects.nvim)
 
 ### tweaks
 

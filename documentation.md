@@ -171,6 +171,7 @@
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
 - [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
 - [codemonkey76/md-live-preview.nvim](https://github.com/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/stars/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/last-commit/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/codemonkey76/md-live-preview.nvim)
+- [popplestones/md-live-preview.nvim](https://github.com/popplestones/md-live-preview.nvim) ![](https://img.shields.io/github/stars/popplestones/md-live-preview.nvim) ![](https://img.shields.io/github/last-commit/popplestones/md-live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/popplestones/md-live-preview.nvim)
 
 ##### Node
 

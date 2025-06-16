@@ -37,6 +37,7 @@
 
 - [pgherveou/rust-quick-tests.nvim](https://github.com/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/stars/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/last-commit/pgherveou/rust-quick-tests.nvim) ![](https://img.shields.io/github/commit-activity/y/pgherveou/rust-quick-tests.nvim)
 - [codersauce/runst.nvim](https://github.com/codersauce/runst.nvim) ![](https://img.shields.io/github/stars/codersauce/runst.nvim) ![](https://img.shields.io/github/last-commit/codersauce/runst.nvim) ![](https://img.shields.io/github/commit-activity/y/codersauce/runst.nvim)
+- [OleStrohm/cargo_test.nvim](https://github.com/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/stars/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/last-commit/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/commit-activity/y/OleStrohm/cargo_test.nvim)
 
 #### Coverage
 
