@@ -71,6 +71,7 @@
 ### Macro
 
 - [sciccolella/cmacro.nvim](https://github.com/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/stars/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/last-commit/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/sciccolella/cmacro.nvim)
+- [aelobdog/macan.nvim](https://github.com/aelobdog/macan.nvim) ![](https://img.shields.io/github/stars/aelobdog/macan.nvim) ![](https://img.shields.io/github/last-commit/aelobdog/macan.nvim) ![](https://img.shields.io/github/commit-activity/y/aelobdog/macan.nvim)
 
 ### Compile
 

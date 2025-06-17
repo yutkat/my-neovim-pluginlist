@@ -133,6 +133,7 @@
 - [coffeemakingtoaster/nvim-llm](https://github.com/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/stars/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/last-commit/coffeemakingtoaster/nvim-llm) ![](https://img.shields.io/github/commit-activity/y/coffeemakingtoaster/nvim-llm)
 - [ram-rt/openvimai.nvim](https://github.com/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/stars/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/last-commit/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/commit-activity/y/ram-rt/openvimai.nvim)
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
+- [brandencall/aia.nvim](https://github.com/brandencall/aia.nvim) ![](https://img.shields.io/github/stars/brandencall/aia.nvim) ![](https://img.shields.io/github/last-commit/brandencall/aia.nvim) ![](https://img.shields.io/github/commit-activity/y/brandencall/aia.nvim)
 
 #### Codex
 

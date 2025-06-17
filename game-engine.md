@@ -60,4 +60,5 @@
 
 ### UEFN Verse
 
+- [Unoqwy/verse.nvim](https://github.com/Unoqwy/verse.nvim) ![](https://img.shields.io/github/stars/Unoqwy/verse.nvim) ![](https://img.shields.io/github/last-commit/Unoqwy/verse.nvim) ![](https://img.shields.io/github/commit-activity/y/Unoqwy/verse.nvim)
 - [PedroSansM/nvim-verse.nvim](https://github.com/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/stars/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/last-commit/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroSansM/nvim-verse.nvim)

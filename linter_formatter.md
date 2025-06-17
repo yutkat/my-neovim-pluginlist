@@ -113,6 +113,7 @@
   - [gwinn/none-ls-jsonlint.nvim](https://github.com/gwinn/none-ls-jsonlint.nvim) ![](https://img.shields.io/github/stars/gwinn/none-ls-jsonlint.nvim) ![](https://img.shields.io/github/last-commit/gwinn/none-ls-jsonlint.nvim) ![](https://img.shields.io/github/commit-activity/y/gwinn/none-ls-jsonlint.nvim)
 - [neovim-stuff/null-ls.nvim](https://github.com/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/stars/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/last-commit/neovim-stuff/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-stuff/null-ls.nvim)
 - [edanisko/null-ls.nvim](https://github.com/edanisko/null-ls.nvim) ![](https://img.shields.io/github/stars/edanisko/null-ls.nvim) ![](https://img.shields.io/github/last-commit/edanisko/null-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/edanisko/null-ls.nvim)
+- [zhaozg/none-ls-extend.nvim](https://github.com/zhaozg/none-ls-extend.nvim) ![](https://img.shields.io/github/stars/zhaozg/none-ls-extend.nvim) ![](https://img.shields.io/github/last-commit/zhaozg/none-ls-extend.nvim) ![](https://img.shields.io/github/commit-activity/y/zhaozg/none-ls-extend.nvim)
 
 ### Global variables
 

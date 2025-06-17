@@ -166,6 +166,7 @@
 ### if err
 
 - [candy12t/goerrfold.nvim](https://github.com/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/stars/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/last-commit/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/goerrfold.nvim)
+- [Bparsons0904/phantom-err.nvim](https://github.com/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/phantom-err.nvim)
 
 ### Hint
 
