@@ -27,6 +27,7 @@
       - [Misc](#misc)
     + [Markdown code block](#markdown-code-block)
     + [Markdown table](#markdown-table)
+    + [Frontmatter](#frontmatter)
     + [footnote](#footnote)
     + [ID](#id)
     + [Markdown evaluate code](#markdown-evaluate-code)
@@ -258,6 +259,10 @@
 - [nuhakala/nvim-simple-tables](https://github.com/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/stars/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/last-commit/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/commit-activity/y/nuhakala/nvim-simple-tables)
 - [bosha/md-table-navigation.nvim](https://github.com/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/stars/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/last-commit/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/bosha/md-table-navigation.nvim)
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/timantipov/md-table-tidy.nvim)
+
+#### Frontmatter
+
+- [tkancf/telescope-markdown-frontmatter.nvim](https://github.com/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/stars/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/last-commit/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/commit-activity/y/tkancf/telescope-markdown-frontmatter.nvim)
 
 #### footnote
 

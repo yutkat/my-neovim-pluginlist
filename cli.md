@@ -284,6 +284,7 @@
 - [cantti/fzf-dotnet.nvim](https://github.com/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/stars/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/last-commit/cantti/fzf-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/fzf-dotnet.nvim)
 - [jacob7395/dotnet-trouble.nvim](https://github.com/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/stars/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/last-commit/jacob7395/dotnet-trouble.nvim) ![](https://img.shields.io/github/commit-activity/y/jacob7395/dotnet-trouble.nvim)
 - [anachary/dotnet-core.nvim](https://github.com/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/stars/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/last-commit/anachary/dotnet-core.nvim) ![](https://img.shields.io/github/commit-activity/y/anachary/dotnet-core.nvim)
+- [anachary/dotnet-plugin.nvim](https://github.com/anachary/dotnet-plugin.nvim) ![](https://img.shields.io/github/stars/anachary/dotnet-plugin.nvim) ![](https://img.shields.io/github/last-commit/anachary/dotnet-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/anachary/dotnet-plugin.nvim)
 
 ##### Nuget
 

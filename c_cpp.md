@@ -24,6 +24,7 @@
   * [Debug](#debug)
   * [Completion](#completion)
   * [LLDB](#lldb)
+  * [LLVM](#llvm)
   * [LLM](#llm)
   * [Disassemble](#disassemble)
   * [Cscope](#cscope)
@@ -163,6 +164,10 @@
 ### LLDB
 
 - [julianolf/nvim-dap-lldb](https://github.com/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/stars/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/last-commit/julianolf/nvim-dap-lldb) ![](https://img.shields.io/github/commit-activity/y/julianolf/nvim-dap-lldb)
+
+### LLVM
+
+- [aelobdog/macan.nvim](https://github.com/aelobdog/macan.nvim) ![](https://img.shields.io/github/stars/aelobdog/macan.nvim) ![](https://img.shields.io/github/last-commit/aelobdog/macan.nvim) ![](https://img.shields.io/github/commit-activity/y/aelobdog/macan.nvim)
 
 ### LLM
 
