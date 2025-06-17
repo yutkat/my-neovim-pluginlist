@@ -99,6 +99,7 @@
     + [Moonbit](#moonbit)
     + [MCNP](#mcnp)
     + [Clingo](#clingo)
+    + [Verse](#verse)
     + [OZ](#oz)
     + [Unison](#unison)
     + [LMNtal](#lmntal)
@@ -583,6 +584,10 @@
 #### Clingo
 
 - [rkaminsk/clingo-syntax.nvim](https://github.com/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/stars/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/last-commit/rkaminsk/clingo-syntax.nvim) ![](https://img.shields.io/github/commit-activity/y/rkaminsk/clingo-syntax.nvim)
+
+#### Verse
+
+- [Unoqwy/verse.nvim](https://github.com/Unoqwy/verse.nvim) ![](https://img.shields.io/github/stars/Unoqwy/verse.nvim) ![](https://img.shields.io/github/last-commit/Unoqwy/verse.nvim) ![](https://img.shields.io/github/commit-activity/y/Unoqwy/verse.nvim)
 
 #### OZ
 
