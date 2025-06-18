@@ -141,6 +141,7 @@
 - [vi013t/dragonfly.nvim](https://github.com/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/stars/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/last-commit/vi013t/dragonfly.nvim) ![](https://img.shields.io/github/commit-activity/y/vi013t/dragonfly.nvim)
 - [Chamal1120/easyedit.nvim](https://github.com/Chamal1120/easyedit.nvim) ![](https://img.shields.io/github/stars/Chamal1120/easyedit.nvim) ![](https://img.shields.io/github/last-commit/Chamal1120/easyedit.nvim) ![](https://img.shields.io/github/commit-activity/y/Chamal1120/easyedit.nvim)
 - [Airbag65/slurp.nvim](https://github.com/Airbag65/slurp.nvim) ![](https://img.shields.io/github/stars/Airbag65/slurp.nvim) ![](https://img.shields.io/github/last-commit/Airbag65/slurp.nvim) ![](https://img.shields.io/github/commit-activity/y/Airbag65/slurp.nvim)
+- [mahyarmirrashed/search-and-replace.nvim](https://github.com/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/search-and-replace.nvim)
 
 ### Rename
 

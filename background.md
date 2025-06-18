@@ -39,4 +39,5 @@
 
 ### OSC11
 
+- [blueuld1/OSC11.nvim](https://github.com/blueuld1/OSC11.nvim) ![](https://img.shields.io/github/stars/blueuld1/OSC11.nvim) ![](https://img.shields.io/github/last-commit/blueuld1/OSC11.nvim) ![](https://img.shields.io/github/commit-activity/y/blueuld1/OSC11.nvim)
 - [afonsofrancof/OSC11.nvim](https://github.com/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/stars/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/last-commit/afonsofrancof/OSC11.nvim) ![](https://img.shields.io/github/commit-activity/y/afonsofrancof/OSC11.nvim)
