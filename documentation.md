@@ -146,7 +146,6 @@
 
 #### highlight
 
-- [jbuck95/md-highlight.nvim](https://github.com/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/stars/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/md-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/md-highlight.nvim)
 
 #### split file
 
@@ -171,7 +170,6 @@
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) ![](https://img.shields.io/github/stars/gcmt/glare.nvim) ![](https://img.shields.io/github/last-commit/gcmt/glare.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/glare.nvim)
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
 - [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
-- [codemonkey76/md-live-preview.nvim](https://github.com/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/stars/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/last-commit/codemonkey76/md-live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/codemonkey76/md-live-preview.nvim)
 
 ##### Node
 
