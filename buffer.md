@@ -135,6 +135,7 @@
 - [siquitch/jumpr.nvim](https://github.com/siquitch/jumpr.nvim) ![](https://img.shields.io/github/stars/siquitch/jumpr.nvim) ![](https://img.shields.io/github/last-commit/siquitch/jumpr.nvim) ![](https://img.shields.io/github/commit-activity/y/siquitch/jumpr.nvim)
 - [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
 - [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
+- [stuckinsnow/luabuff.nvim](https://github.com/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/luabuff.nvim)
 
 #### create
 
@@ -223,6 +224,7 @@
 - [AckslD/bufmax.nvim](https://github.com/AckslD/bufmax.nvim) ![](https://img.shields.io/github/stars/AckslD/bufmax.nvim) ![](https://img.shields.io/github/last-commit/AckslD/bufmax.nvim) ![](https://img.shields.io/github/commit-activity/y/AckslD/bufmax.nvim)
 - [pierregoutheraud/buffers-auto-close.nvim](https://github.com/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/stars/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/last-commit/pierregoutheraud/buffers-auto-close.nvim) ![](https://img.shields.io/github/commit-activity/y/pierregoutheraud/buffers-auto-close.nvim)
 - [ChuufMaster/buffer-vacuum](https://github.com/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/stars/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/last-commit/ChuufMaster/buffer-vacuum) ![](https://img.shields.io/github/commit-activity/y/ChuufMaster/buffer-vacuum)
+- [iAverages/auto-buffer-close.nvim](https://github.com/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/stars/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/last-commit/iAverages/auto-buffer-close.nvim) ![](https://img.shields.io/github/commit-activity/y/iAverages/auto-buffer-close.nvim)
 
 #### auto reload
 
