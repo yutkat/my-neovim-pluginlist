@@ -7,6 +7,7 @@
   * [Apple music](#apple-music)
   * [YouTube Music](#youtube-music)
   * [Tidal](#tidal)
+  * [Strudel](#strudel)
     + [MIDI](#midi)
     + [ABC Notation](#abc-notation)
     + [Morse](#morse)
@@ -60,6 +61,10 @@
 - [grddavies/tidal.nvim](https://github.com/grddavies/tidal.nvim) ![](https://img.shields.io/github/stars/grddavies/tidal.nvim) ![](https://img.shields.io/github/last-commit/grddavies/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/grddavies/tidal.nvim)
 - [zuloo/cycles.nvim](https://github.com/zuloo/cycles.nvim) ![](https://img.shields.io/github/stars/zuloo/cycles.nvim) ![](https://img.shields.io/github/last-commit/zuloo/cycles.nvim) ![](https://img.shields.io/github/commit-activity/y/zuloo/cycles.nvim)
 - [smokejohn/tidalcycles.nvim](https://github.com/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/stars/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/last-commit/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/commit-activity/y/smokejohn/tidalcycles.nvim)
+
+### Strudel
+
+- [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) ![](https://img.shields.io/github/stars/gruvw/strudel.nvim) ![](https://img.shields.io/github/last-commit/gruvw/strudel.nvim) ![](https://img.shields.io/github/commit-activity/y/gruvw/strudel.nvim)
 
 #### MIDI
 

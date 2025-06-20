@@ -324,6 +324,7 @@
 
 - [cfmeyers/dbt.nvim](https://github.com/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/stars/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/last-commit/cfmeyers/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/cfmeyers/dbt.nvim)
 - [3fonov/dbt-nvim](https://github.com/3fonov/dbt-nvim) ![](https://img.shields.io/github/stars/3fonov/dbt-nvim) ![](https://img.shields.io/github/last-commit/3fonov/dbt-nvim) ![](https://img.shields.io/github/commit-activity/y/3fonov/dbt-nvim)
+- [hariprasadr1hp/dbt.nvim](https://github.com/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/stars/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/last-commit/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/hariprasadr1hp/dbt.nvim)
 
 #### sdfcli
 

@@ -241,6 +241,7 @@
 #### textDocument
 
 - [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/lsp-extras.nvim)
+- [RhydianJenkins/nvim-highlight](https://github.com/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/stars/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/last-commit/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/commit-activity/y/RhydianJenkins/nvim-highlight)
 
 ##### CodeLens
 
