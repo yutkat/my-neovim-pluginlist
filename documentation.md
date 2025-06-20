@@ -296,6 +296,7 @@
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
 - [NeoManslayer/powerlevel.nvim](https://github.com/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/stars/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/last-commit/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoManslayer/powerlevel.nvim)
+- [anvnh/toggle-checkbox.nvim](https://github.com/anvnh/toggle-checkbox.nvim) ![](https://img.shields.io/github/stars/anvnh/toggle-checkbox.nvim) ![](https://img.shields.io/github/last-commit/anvnh/toggle-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/anvnh/toggle-checkbox.nvim)
 
 #### Markdown list
 

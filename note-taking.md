@@ -173,6 +173,7 @@
 - [micahkepe/todo.nvim](https://github.com/micahkepe/todo.nvim) ![](https://img.shields.io/github/stars/micahkepe/todo.nvim) ![](https://img.shields.io/github/last-commit/micahkepe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/micahkepe/todo.nvim)
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
 - [zaffron/todo-md.nvim](https://github.com/zaffron/todo-md.nvim) ![](https://img.shields.io/github/stars/zaffron/todo-md.nvim) ![](https://img.shields.io/github/last-commit/zaffron/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/zaffron/todo-md.nvim)
+- [anvnh/todo-float.nvim](https://github.com/anvnh/todo-float.nvim) ![](https://img.shields.io/github/stars/anvnh/todo-float.nvim) ![](https://img.shields.io/github/last-commit/anvnh/todo-float.nvim) ![](https://img.shields.io/github/commit-activity/y/anvnh/todo-float.nvim)
 
 #### Taskwarrior
 
@@ -214,6 +215,7 @@
 - [wilsonangara/obsidian-navigator.nvim](https://github.com/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/stars/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/last-commit/wilsonangara/obsidian-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/wilsonangara/obsidian-navigator.nvim)
 - [csooriyakumaran/obsidian-utils.nvim](https://github.com/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/stars/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/last-commit/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/csooriyakumaran/obsidian-utils.nvim)
 - [0xBEEB/charcoal-notes.nvim](https://github.com/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/stars/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/last-commit/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xBEEB/charcoal-notes.nvim)
+- [maxardito/obtero.nvim](https://github.com/maxardito/obtero.nvim) ![](https://img.shields.io/github/stars/maxardito/obtero.nvim) ![](https://img.shields.io/github/last-commit/maxardito/obtero.nvim) ![](https://img.shields.io/github/commit-activity/y/maxardito/obtero.nvim)
 
 ### nb
 

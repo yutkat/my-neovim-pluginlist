@@ -281,6 +281,7 @@
 - [boltlessengineer/smart-tab.nvim](https://github.com/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/stars/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/last-commit/boltlessengineer/smart-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/boltlessengineer/smart-tab.nvim)
 - [nvim-jo/smarttab.nvim](https://github.com/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/stars/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/smarttab.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/smarttab.nvim)
 - [lsvmello/elastictabstops.nvim](https://github.com/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/stars/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/last-commit/lsvmello/elastictabstops.nvim) ![](https://img.shields.io/github/commit-activity/y/lsvmello/elastictabstops.nvim)
+- [liamvdvyver/smarten.nvim](https://github.com/liamvdvyver/smarten.nvim) ![](https://img.shields.io/github/stars/liamvdvyver/smarten.nvim) ![](https://img.shields.io/github/last-commit/liamvdvyver/smarten.nvim) ![](https://img.shields.io/github/commit-activity/y/liamvdvyver/smarten.nvim)
 
 ### [Auto Insert](./auto-insert.md)
 
@@ -432,6 +433,7 @@
 - [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
 - [Russoul/abbrev-expand.nvim](https://github.com/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/stars/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/last-commit/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/abbrev-expand.nvim)
 - [reyalka/shell-abbr.nvim](https://github.com/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/stars/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/last-commit/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/reyalka/shell-abbr.nvim)
+- [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 
 ### [Quickfix / Location](./quickfix_location.md)
 

@@ -225,6 +225,7 @@
 - [saliola/accentuate.nvim](https://github.com/saliola/accentuate.nvim) ![](https://img.shields.io/github/stars/saliola/accentuate.nvim) ![](https://img.shields.io/github/last-commit/saliola/accentuate.nvim) ![](https://img.shields.io/github/commit-activity/y/saliola/accentuate.nvim)
 - [hamidi-dev/kaleidosearch.nvim](https://github.com/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/kaleidosearch.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/kaleidosearch.nvim)
 - [g0t4/illuminate.nvim](https://github.com/g0t4/illuminate.nvim) ![](https://img.shields.io/github/stars/g0t4/illuminate.nvim) ![](https://img.shields.io/github/last-commit/g0t4/illuminate.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/illuminate.nvim)
+- [RhydianJenkins/nvim-highlight](https://github.com/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/stars/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/last-commit/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/commit-activity/y/RhydianJenkins/nvim-highlight)
 
 ### Current block highlight
 
