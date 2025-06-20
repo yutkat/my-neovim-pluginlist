@@ -213,6 +213,7 @@
 ### Animation
 
 - [anuvyklack/animation.nvim](https://github.com/anuvyklack/animation.nvim) ![](https://img.shields.io/github/stars/anuvyklack/animation.nvim) ![](https://img.shields.io/github/last-commit/anuvyklack/animation.nvim) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/animation.nvim)
+- [drehren/fltanim.nvim](https://github.com/drehren/fltanim.nvim) ![](https://img.shields.io/github/stars/drehren/fltanim.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltanim.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltanim.nvim)
 
 ### FuzzyFinder
 
