@@ -5,6 +5,7 @@
 - [Spell](#spell)
   * [Spellcheck](#spellcheck)
   * [Vale](#vale)
+- [Pronunce](#pronunce)
 
 <!-- tocstop -->
 
@@ -34,6 +35,7 @@
 - [LucaSartore/fastspell.nvim](https://github.com/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/stars/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/last-commit/LucaSartore/fastspell.nvim) ![](https://img.shields.io/github/commit-activity/y/LucaSartore/fastspell.nvim)
 - [ljsalvatierra/squire.nvim](https://github.com/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/stars/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/last-commit/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsalvatierra/squire.nvim)
 - [damiensawyer/sb.nvim](https://github.com/damiensawyer/sb.nvim) ![](https://img.shields.io/github/stars/damiensawyer/sb.nvim) ![](https://img.shields.io/github/last-commit/damiensawyer/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/damiensawyer/sb.nvim)
+- [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 
 #### Vale
 

@@ -282,6 +282,7 @@
 - [rsmdt/claude-code.nvim](https://github.com/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/stars/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/last-commit/rsmdt/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmdt/claude-code.nvim)
 - [kakapo1933/kaipo-claude-code.nvim](https://github.com/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/stars/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/last-commit/kakapo1933/kaipo-claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/kakapo1933/kaipo-claude-code.nvim)
 - [pvnick/nvim-claude-code](https://github.com/pvnick/nvim-claude-code) ![](https://img.shields.io/github/stars/pvnick/nvim-claude-code) ![](https://img.shields.io/github/last-commit/pvnick/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/pvnick/nvim-claude-code)
+- [ishiooon/ccmanager.nvim](https://github.com/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/stars/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/ccmanager.nvim)
 
 ### DeepSeek
 

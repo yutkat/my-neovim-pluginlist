@@ -144,6 +144,7 @@
 - [yohi/install-pip-package.nvim](https://github.com/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/stars/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/last-commit/yohi/install-pip-package.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/install-pip-package.nvim)
 - [jpfender/pipenv.nvim](https://github.com/jpfender/pipenv.nvim) ![](https://img.shields.io/github/stars/jpfender/pipenv.nvim) ![](https://img.shields.io/github/last-commit/jpfender/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/jpfender/pipenv.nvim)
 - [tobiaaa/py-runner.nvim](https://github.com/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/stars/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/last-commit/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaaa/py-runner.nvim)
+- [Lairizzle/pyrun.nvim](https://github.com/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/pyrun.nvim)
 
 ### pypi
 

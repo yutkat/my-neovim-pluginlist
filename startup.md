@@ -5,6 +5,7 @@
 - [Startup screen (DashBoard)](#startup-screen-dashboard)
   * [Boot Arguments](#boot-arguments)
   * [Logo](#logo)
+- [Startup Command](#startup-command)
 
 <!-- tocstop -->
 
@@ -48,3 +49,7 @@
 - [squarejellyfish/banner.nvim](https://github.com/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/stars/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/last-commit/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/commit-activity/y/squarejellyfish/banner.nvim)
 - [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) ![](https://img.shields.io/github/stars/Kurama622/profile.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/profile.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/profile.nvim)
 - [afkale/homepage.nvim](https://github.com/afkale/homepage.nvim) ![](https://img.shields.io/github/stars/afkale/homepage.nvim) ![](https://img.shields.io/github/last-commit/afkale/homepage.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/homepage.nvim)
+
+## Startup Command
+
+- [iruzo/signal.nvim](https://github.com/iruzo/signal.nvim) ![](https://img.shields.io/github/stars/iruzo/signal.nvim) ![](https://img.shields.io/github/last-commit/iruzo/signal.nvim) ![](https://img.shields.io/github/commit-activity/y/iruzo/signal.nvim)
