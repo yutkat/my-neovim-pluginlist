@@ -204,3 +204,8 @@
 
 - [johnpgr/bible-reader.nvim](https://github.com/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/stars/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/last-commit/johnpgr/bible-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpgr/bible-reader.nvim)
 - [aidanalr/daily-bible.nvim](https://github.com/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/stars/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/last-commit/aidanalr/daily-bible.nvim) ![](https://img.shields.io/github/commit-activity/y/aidanalr/daily-bible.nvim)
+
+### Muslim
+
+- [hakimajaman/nvim-muslim-prayer](https://github.com/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/stars/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/last-commit/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/commit-activity/y/hakimajaman/nvim-muslim-prayer)
+
