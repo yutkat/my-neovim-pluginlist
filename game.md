@@ -40,6 +40,7 @@
 - [Mateus-Lacerda/snake.nvim](https://github.com/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/stars/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/last-commit/Mateus-Lacerda/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/Mateus-Lacerda/snake.nvim)
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
 - [kashsuks/snake.nvim](https://github.com/kashsuks/snake.nvim) ![](https://img.shields.io/github/stars/kashsuks/snake.nvim) ![](https://img.shields.io/github/last-commit/kashsuks/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/kashsuks/snake.nvim)
+- [someguy0555/snake.nvim](https://github.com/someguy0555/snake.nvim) ![](https://img.shields.io/github/stars/someguy0555/snake.nvim) ![](https://img.shields.io/github/last-commit/someguy0555/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/someguy0555/snake.nvim)
 
 ### Tetris
 
