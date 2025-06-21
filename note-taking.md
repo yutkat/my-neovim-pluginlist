@@ -173,6 +173,8 @@
 - [micahkepe/todo.nvim](https://github.com/micahkepe/todo.nvim) ![](https://img.shields.io/github/stars/micahkepe/todo.nvim) ![](https://img.shields.io/github/last-commit/micahkepe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/micahkepe/todo.nvim)
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
 - [zaffron/todo-md.nvim](https://github.com/zaffron/todo-md.nvim) ![](https://img.shields.io/github/stars/zaffron/todo-md.nvim) ![](https://img.shields.io/github/last-commit/zaffron/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/zaffron/todo-md.nvim)
+- [FrancoAseglio/todo-sidebar.nvim](https://github.com/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/stars/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/last-commit/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancoAseglio/todo-sidebar.nvim)
+- [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
 
 #### Taskwarrior
 
@@ -435,4 +437,5 @@
 - [yuucu/minimemo.nvim](https://github.com/yuucu/minimemo.nvim) ![](https://img.shields.io/github/stars/yuucu/minimemo.nvim) ![](https://img.shields.io/github/last-commit/yuucu/minimemo.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/minimemo.nvim)
 - [opsaaaaa/newlog.nvim](https://github.com/opsaaaaa/newlog.nvim) ![](https://img.shields.io/github/stars/opsaaaaa/newlog.nvim) ![](https://img.shields.io/github/last-commit/opsaaaaa/newlog.nvim) ![](https://img.shields.io/github/commit-activity/y/opsaaaaa/newlog.nvim)
 - [adibhanna/nvim-notes](https://github.com/adibhanna/nvim-notes) ![](https://img.shields.io/github/stars/adibhanna/nvim-notes) ![](https://img.shields.io/github/last-commit/adibhanna/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/adibhanna/nvim-notes)
+- [carloscalla/notepad.nvim](https://github.com/carloscalla/notepad.nvim) ![](https://img.shields.io/github/stars/carloscalla/notepad.nvim) ![](https://img.shields.io/github/last-commit/carloscalla/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/carloscalla/notepad.nvim)
 - [CarGDev/ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/stars/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/ideadrop.nvim)

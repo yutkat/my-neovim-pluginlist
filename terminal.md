@@ -88,6 +88,7 @@
 - [mtkld/permtermbuf.nvim](https://github.com/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/stars/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/last-commit/mtkld/permtermbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/permtermbuf.nvim)
 - [mtkld/ctxterm.nvim](https://github.com/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/stars/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/ctxterm.nvim)
 - [runicodec/glacier.nvim](https://github.com/runicodec/glacier.nvim) ![](https://img.shields.io/github/stars/runicodec/glacier.nvim) ![](https://img.shields.io/github/last-commit/runicodec/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/runicodec/glacier.nvim)
+- [naughie/termplexer.nvim](https://github.com/naughie/termplexer.nvim) ![](https://img.shields.io/github/stars/naughie/termplexer.nvim) ![](https://img.shields.io/github/last-commit/naughie/termplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/termplexer.nvim)
 
 ### Open
 
