@@ -182,6 +182,7 @@
 - [4thwithme/ss.nvim](https://github.com/4thwithme/ss.nvim) ![](https://img.shields.io/github/stars/4thwithme/ss.nvim) ![](https://img.shields.io/github/last-commit/4thwithme/ss.nvim) ![](https://img.shields.io/github/commit-activity/y/4thwithme/ss.nvim)
 - [jborkowski/telescope-inflect.nvim](https://github.com/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/stars/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/last-commit/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/commit-activity/y/jborkowski/telescope-inflect.nvim)
 - [ElanMedoff/rg-glob-builder.nvim](https://github.com/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/rg-glob-builder.nvim)
+- [stuckinsnow/rg-lua.nvim](https://github.com/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/rg-lua.nvim)
 
 ### AST (Semantic search)
 
@@ -189,6 +190,7 @@
 - [ray-x/telescope-ast-grep.nvim](https://github.com/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/stars/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/last-commit/ray-x/telescope-ast-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/telescope-ast-grep.nvim)
 - [pratikneupane/nSearch.nvim](https://github.com/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/stars/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/last-commit/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/commit-activity/y/pratikneupane/nSearch.nvim)
 - [newtoallofthis123/goated.nvim](https://github.com/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/stars/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/last-commit/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/commit-activity/y/newtoallofthis123/goated.nvim)
+- [aekasitt/oxeye.nvim](https://github.com/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/stars/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/oxeye.nvim)
 
 ### Zoket(google)
 
