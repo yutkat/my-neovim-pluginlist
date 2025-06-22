@@ -37,6 +37,7 @@
 - [pkage/coauthor.nvim](https://github.com/pkage/coauthor.nvim) ![](https://img.shields.io/github/stars/pkage/coauthor.nvim) ![](https://img.shields.io/github/last-commit/pkage/coauthor.nvim) ![](https://img.shields.io/github/commit-activity/y/pkage/coauthor.nvim)
 - [skeletony007/pair.nvim](https://github.com/skeletony007/pair.nvim) ![](https://img.shields.io/github/stars/skeletony007/pair.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/pair.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/pair.nvim)
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) ![](https://img.shields.io/github/stars/azratul/live-share.nvim) ![](https://img.shields.io/github/last-commit/azratul/live-share.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/live-share.nvim)
+- [EmreDay1/collab.nvim](https://github.com/EmreDay1/collab.nvim) ![](https://img.shields.io/github/stars/EmreDay1/collab.nvim) ![](https://img.shields.io/github/last-commit/EmreDay1/collab.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreDay1/collab.nvim)
 
 ### IDE feature
 

@@ -74,6 +74,7 @@
 - [rareitems/put_at_end.nvim](https://github.com/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/stars/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/last-commit/rareitems/put_at_end.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/put_at_end.nvim)
 - [Jumas-Cola/cosco.nvim](https://github.com/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/stars/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/last-commit/Jumas-Cola/cosco.nvim) ![](https://img.shields.io/github/commit-activity/y/Jumas-Cola/cosco.nvim)
 - [saifulapm/commasemi.nvim](https://github.com/saifulapm/commasemi.nvim) ![](https://img.shields.io/github/stars/saifulapm/commasemi.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/commasemi.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/commasemi.nvim)
+- [JamieByers/semicolonify.nvim](https://github.com/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/stars/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/last-commit/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieByers/semicolonify.nvim)
 
 ## Auto convert
 
