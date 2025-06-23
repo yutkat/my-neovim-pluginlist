@@ -100,7 +100,6 @@
 - [sshelll/telescope-gott.nvim](https://github.com/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/stars/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/last-commit/sshelll/telescope-gott.nvim) ![](https://img.shields.io/github/commit-activity/y/sshelll/telescope-gott.nvim)
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) ![](https://img.shields.io/github/stars/vcraescu/gotest.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/gotest.nvim)
 - [vladevelops/gtestler.nvim](https://github.com/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/stars/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/last-commit/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/commit-activity/y/vladevelops/gtestler.nvim)
-- [devoc09/go-test.nvim](https://github.com/devoc09/go-test.nvim) ![](https://img.shields.io/github/stars/devoc09/go-test.nvim) ![](https://img.shields.io/github/last-commit/devoc09/go-test.nvim) ![](https://img.shields.io/github/commit-activity/y/devoc09/go-test.nvim)
 - [stroiman/gotest.nvim](https://github.com/stroiman/gotest.nvim) ![](https://img.shields.io/github/stars/stroiman/gotest.nvim) ![](https://img.shields.io/github/last-commit/stroiman/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/stroiman/gotest.nvim)
 
 #### Test file
@@ -165,7 +164,6 @@
 
 ### if err
 
-- [candy12t/goerrfold.nvim](https://github.com/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/stars/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/last-commit/candy12t/goerrfold.nvim) ![](https://img.shields.io/github/commit-activity/y/candy12t/goerrfold.nvim)
 - [Bparsons0904/phantom-err.nvim](https://github.com/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/phantom-err.nvim)
 
 ### Hint
