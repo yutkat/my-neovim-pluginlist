@@ -17,6 +17,7 @@
   * [Framework](#framework)
     + [Dioxus](#dioxus)
     + [tera](#tera)
+    + [tauri](#tauri)
 
 <!-- tocstop -->
 
@@ -88,3 +89,7 @@
 #### tera
 
 - [MuntasirSZN/tera-autoextsyn.nvim](https://github.com/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/stars/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/last-commit/MuntasirSZN/tera-autoextsyn.nvim) ![](https://img.shields.io/github/commit-activity/y/MuntasirSZN/tera-autoextsyn.nvim)
+
+#### tauri
+
+- [Braniacsl/tauri-runner.nvim](https://github.com/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/stars/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/last-commit/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Braniacsl/tauri-runner.nvim)
