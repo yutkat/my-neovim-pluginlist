@@ -20,6 +20,7 @@
 - [22ispencer/calc.nvim](https://github.com/22ispencer/calc.nvim) ![](https://img.shields.io/github/stars/22ispencer/calc.nvim) ![](https://img.shields.io/github/last-commit/22ispencer/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/22ispencer/calc.nvim)
 - [josephburgess/nvumi](https://github.com/josephburgess/nvumi) ![](https://img.shields.io/github/stars/josephburgess/nvumi) ![](https://img.shields.io/github/last-commit/josephburgess/nvumi) ![](https://img.shields.io/github/commit-activity/y/josephburgess/nvumi)
 - [aehabdelouadoud/nvim-calc](https://github.com/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/stars/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/last-commit/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/commit-activity/y/aehabdelouadoud/nvim-calc)
+- [Flokkq/calc.nvim](https://github.com/Flokkq/calc.nvim) ![](https://img.shields.io/github/stars/Flokkq/calc.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/calc.nvim)
 
 ### Time
 

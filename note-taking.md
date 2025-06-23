@@ -174,6 +174,7 @@
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
 - [zaffron/todo-md.nvim](https://github.com/zaffron/todo-md.nvim) ![](https://img.shields.io/github/stars/zaffron/todo-md.nvim) ![](https://img.shields.io/github/last-commit/zaffron/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/zaffron/todo-md.nvim)
 - [FrancoAseglio/todo-sidebar.nvim](https://github.com/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/stars/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/last-commit/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancoAseglio/todo-sidebar.nvim)
+- [baltavay/quests.nvim](https://github.com/baltavay/quests.nvim) ![](https://img.shields.io/github/stars/baltavay/quests.nvim) ![](https://img.shields.io/github/last-commit/baltavay/quests.nvim) ![](https://img.shields.io/github/commit-activity/y/baltavay/quests.nvim)
 
 #### Taskwarrior
 

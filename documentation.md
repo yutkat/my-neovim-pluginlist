@@ -398,6 +398,7 @@
 ### Mindmap
 
 - [gustadev24/markmap_preview.nvim](https://github.com/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/stars/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/last-commit/gustadev24/markmap_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gustadev24/markmap_preview.nvim)
+- [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 
 ### PDF
 

@@ -50,6 +50,7 @@
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
 - [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
 - [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
+- [LucasGualtieri/visual-highlight.nvim](https://github.com/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/stars/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/last-commit/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasGualtieri/visual-highlight.nvim)
 
 ### Delimiter
 
@@ -159,6 +160,7 @@
 - [yashodhanketkar/themeui.nvim](https://github.com/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/stars/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/last-commit/yashodhanketkar/themeui.nvim) ![](https://img.shields.io/github/commit-activity/y/yashodhanketkar/themeui.nvim)
 - [Rimkomatic/switchscheme.nvim](https://github.com/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/stars/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/last-commit/Rimkomatic/switchscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/Rimkomatic/switchscheme.nvim)
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
+- [statiolake/colorset.nvim](https://github.com/statiolake/colorset.nvim) ![](https://img.shields.io/github/stars/statiolake/colorset.nvim) ![](https://img.shields.io/github/last-commit/statiolake/colorset.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/colorset.nvim)
 
 ### Colorscheme overwrite
 

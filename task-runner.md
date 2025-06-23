@@ -133,6 +133,7 @@
 - [cparaiso/centest.nvim](https://github.com/cparaiso/centest.nvim) ![](https://img.shields.io/github/stars/cparaiso/centest.nvim) ![](https://img.shields.io/github/last-commit/cparaiso/centest.nvim) ![](https://img.shields.io/github/commit-activity/y/cparaiso/centest.nvim)
 - [68mschmitt/project_runner.nvim](https://github.com/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/stars/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/project_runner.nvim)
 - [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
+- [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
 
 #### Shell
 
@@ -184,6 +185,7 @@
 - [calebfroese/ampcode-cli.nvim](https://github.com/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/stars/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/last-commit/calebfroese/ampcode-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/calebfroese/ampcode-cli.nvim)
 - [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 - [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
+- [Braniacsl/tauri-runner.nvim](https://github.com/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/stars/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/last-commit/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Braniacsl/tauri-runner.nvim)
 
 ### Auto detect style
 
