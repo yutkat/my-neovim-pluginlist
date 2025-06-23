@@ -174,6 +174,7 @@
 - [ethanamaher/todo-telescope.nvim](https://github.com/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/stars/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/todo-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/todo-telescope.nvim)
 - [zaffron/todo-md.nvim](https://github.com/zaffron/todo-md.nvim) ![](https://img.shields.io/github/stars/zaffron/todo-md.nvim) ![](https://img.shields.io/github/last-commit/zaffron/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/zaffron/todo-md.nvim)
 - [FrancoAseglio/todo-sidebar.nvim](https://github.com/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/stars/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/last-commit/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancoAseglio/todo-sidebar.nvim)
+- [baltavay/quests.nvim](https://github.com/baltavay/quests.nvim) ![](https://img.shields.io/github/stars/baltavay/quests.nvim) ![](https://img.shields.io/github/last-commit/baltavay/quests.nvim) ![](https://img.shields.io/github/commit-activity/y/baltavay/quests.nvim)
 
 #### Taskwarrior
 
@@ -216,6 +217,7 @@
 - [csooriyakumaran/obsidian-utils.nvim](https://github.com/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/stars/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/last-commit/csooriyakumaran/obsidian-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/csooriyakumaran/obsidian-utils.nvim)
 - [0xBEEB/charcoal-notes.nvim](https://github.com/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/stars/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/last-commit/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xBEEB/charcoal-notes.nvim)
 - [maxardito/obtero.nvim](https://github.com/maxardito/obtero.nvim) ![](https://img.shields.io/github/stars/maxardito/obtero.nvim) ![](https://img.shields.io/github/last-commit/maxardito/obtero.nvim) ![](https://img.shields.io/github/commit-activity/y/maxardito/obtero.nvim)
+- [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 
 ### nb
 
