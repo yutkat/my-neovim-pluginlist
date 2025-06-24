@@ -43,6 +43,7 @@
   * [Machine Learning](#machine-learning)
   * [Fitten Code](#fitten-code)
   * [Giant AI](#giant-ai)
+  * [OpenCode](#opencode)
   * [khulnasoft](#khulnasoft)
 - [AI Completion](#ai-completion)
   * [Copilot](#copilot)
@@ -413,6 +414,10 @@
 ### Giant AI
 
 - [bearded-giant/giant-ai.nvim](https://github.com/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/stars/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/giant-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/giant-ai.nvim)
+
+### OpenCode
+
+- [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
 
 ### khulnasoft
 

@@ -14,6 +14,7 @@
     + [yazi](#yazi)
   * [Network File Manager](#network-file-manager)
   * [Open directory](#open-directory)
+  * [Find specific file](#find-specific-file)
   * [Filer switcher](#filer-switcher)
   * [broot](#broot)
   * [Create directory](#create-directory)
@@ -78,6 +79,7 @@
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/fyler.nvim)
 - [typegaro/treedivers.nvim](https://github.com/typegaro/treedivers.nvim) ![](https://img.shields.io/github/stars/typegaro/treedivers.nvim) ![](https://img.shields.io/github/last-commit/typegaro/treedivers.nvim) ![](https://img.shields.io/github/commit-activity/y/typegaro/treedivers.nvim)
 - [g0at1/pypath.nvim](https://github.com/g0at1/pypath.nvim) ![](https://img.shields.io/github/stars/g0at1/pypath.nvim) ![](https://img.shields.io/github/last-commit/g0at1/pypath.nvim) ![](https://img.shields.io/github/commit-activity/y/g0at1/pypath.nvim)
+- [nathanberry97/dumbtree.nvim](https://github.com/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtree.nvim)
 
 ### gx
 
@@ -159,6 +161,10 @@
 - [fbuchlak/telescope-directory.nvim](https://github.com/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/stars/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/last-commit/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/telescope-directory.nvim)
 - [albenisolmos/telescope-oil.nvim](https://github.com/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/stars/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/telescope-oil.nvim)
 - [synic/telescope-dirpicker.nvim](https://github.com/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/stars/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/last-commit/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/telescope-dirpicker.nvim)
+
+### Find specific file
+
+- [aloussase/telescope-find-exe.nvim](https://github.com/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/stars/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/last-commit/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/telescope-find-exe.nvim)
 
 ### Filer switcher
 
