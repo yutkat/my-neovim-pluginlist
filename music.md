@@ -39,6 +39,7 @@
 - [wsdjeg/music-player.nvim](https://github.com/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/stars/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/music-player.nvim)
 - [liraymond04/ass-mpv.nvim](https://github.com/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/stars/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/last-commit/liraymond04/ass-mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/liraymond04/ass-mpv.nvim)
 - [neo451/musicfox.nvim](https://github.com/neo451/musicfox.nvim) ![](https://img.shields.io/github/stars/neo451/musicfox.nvim) ![](https://img.shields.io/github/last-commit/neo451/musicfox.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/musicfox.nvim)
+- [felixlazy/mpv.nvim](https://github.com/felixlazy/mpv.nvim) ![](https://img.shields.io/github/stars/felixlazy/mpv.nvim) ![](https://img.shields.io/github/last-commit/felixlazy/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/felixlazy/mpv.nvim)
 
 ### sapf
 

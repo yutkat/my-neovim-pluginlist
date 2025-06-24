@@ -39,6 +39,7 @@
 - [Quix](#quix)
 - [Nuke](#nuke)
 - [Rope](#rope)
+- [Jinja](#jinja)
 - [Packages](#packages)
   * [Manim](#manim)
 
@@ -78,6 +79,7 @@
 - [Sombrer0Dev/pytest.nvim](https://github.com/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/stars/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/last-commit/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrer0Dev/pytest.nvim)
 - [jjvanvuren/copybreadcrumbs.nvim](https://github.com/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/copybreadcrumbs.nvim)
 - [jedi-knights/pytest.nvim](https://github.com/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/stars/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/pytest.nvim)
+- [13janderson/runner.nvim](https://github.com/13janderson/runner.nvim) ![](https://img.shields.io/github/stars/13janderson/runner.nvim) ![](https://img.shields.io/github/last-commit/13janderson/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/runner.nvim)
 
 #### jurigged
 
@@ -173,6 +175,7 @@
 ### uv
 
 - [benomahony/uv.nvim](https://github.com/benomahony/uv.nvim) ![](https://img.shields.io/github/stars/benomahony/uv.nvim) ![](https://img.shields.io/github/last-commit/benomahony/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/uv.nvim)
+- [Marco-Christiani/uv-venv.nvim](https://github.com/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/stars/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/last-commit/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/commit-activity/y/Marco-Christiani/uv-venv.nvim)
 
 ### Mesone
 
@@ -250,6 +253,10 @@
 ## Rope
 
 - [niilohlin/rope.nvim](https://github.com/niilohlin/rope.nvim) ![](https://img.shields.io/github/stars/niilohlin/rope.nvim) ![](https://img.shields.io/github/last-commit/niilohlin/rope.nvim) ![](https://img.shields.io/github/commit-activity/y/niilohlin/rope.nvim)
+
+## Jinja
+
+- [cathaysia/nvim-jinja](https://github.com/cathaysia/nvim-jinja) ![](https://img.shields.io/github/stars/cathaysia/nvim-jinja) ![](https://img.shields.io/github/last-commit/cathaysia/nvim-jinja) ![](https://img.shields.io/github/commit-activity/y/cathaysia/nvim-jinja)
 
 ## Packages
 

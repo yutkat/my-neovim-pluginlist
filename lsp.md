@@ -126,6 +126,7 @@
 - [iammmiru/diagnostic-jumper.nvim](https://github.com/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/stars/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/diagnostic-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/diagnostic-jumper.nvim)
 - [mbienkowsk/hush.nvim](https://github.com/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/stars/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/last-commit/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/commit-activity/y/mbienkowsk/hush.nvim)
 - [sriram-rao/silencio.nvim](https://github.com/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/stars/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/last-commit/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-rao/silencio.nvim)
+- [manual-eel/virtline-toggle.nvim](https://github.com/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/stars/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/last-commit/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/manual-eel/virtline-toggle.nvim)
 
 ##### Diagnostics goto
 
