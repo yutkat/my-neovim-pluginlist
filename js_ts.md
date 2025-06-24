@@ -236,6 +236,7 @@
 - [pxnditxyr/npm-info.nvim](https://github.com/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/stars/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/last-commit/pxnditxyr/npm-info.nvim) ![](https://img.shields.io/github/commit-activity/y/pxnditxyr/npm-info.nvim)
 - [alexandre-abrioux/blink-cmp-npm.nvim](https://github.com/alexandre-abrioux/blink-cmp-npm.nvim) ![](https://img.shields.io/github/stars/alexandre-abrioux/blink-cmp-npm.nvim) ![](https://img.shields.io/github/last-commit/alexandre-abrioux/blink-cmp-npm.nvim) ![](https://img.shields.io/github/commit-activity/y/alexandre-abrioux/blink-cmp-npm.nvim)
 - [angelinuxx/npm-lens.nvim](https://github.com/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/stars/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/last-commit/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/angelinuxx/npm-lens.nvim)
+- [pojokcodeid/npm-runner.nvim](https://github.com/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/npm-runner.nvim)
 
 #### pnpm
 
@@ -419,4 +420,5 @@
 ### Jinja
 
 - [you-n-g/jinja-engine.nvim](https://github.com/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/stars/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/last-commit/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/commit-activity/y/you-n-g/jinja-engine.nvim)
+- [cathaysia/nvim-jinja](https://github.com/cathaysia/nvim-jinja) ![](https://img.shields.io/github/stars/cathaysia/nvim-jinja) ![](https://img.shields.io/github/last-commit/cathaysia/nvim-jinja) ![](https://img.shields.io/github/commit-activity/y/cathaysia/nvim-jinja)
 

@@ -161,6 +161,7 @@
 - [aanatoly/venv.nvim](https://github.com/aanatoly/venv.nvim) ![](https://img.shields.io/github/stars/aanatoly/venv.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/venv.nvim)
 - [milemik/nvim-py-detector](https://github.com/milemik/nvim-py-detector) ![](https://img.shields.io/github/stars/milemik/nvim-py-detector) ![](https://img.shields.io/github/last-commit/milemik/nvim-py-detector) ![](https://img.shields.io/github/commit-activity/y/milemik/nvim-py-detector)
 - [tnfru/nvim-venv-detector](https://github.com/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/stars/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/last-commit/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/commit-activity/y/tnfru/nvim-venv-detector)
+- [Marco-Christiani/uv-venv.nvim](https://github.com/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/stars/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/last-commit/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/commit-activity/y/Marco-Christiani/uv-venv.nvim)
 
 ### mypy
 

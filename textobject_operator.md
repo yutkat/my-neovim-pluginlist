@@ -73,6 +73,7 @@
 - [ricefordinr/yet-another-surround.nvim](https://github.com/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/stars/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/last-commit/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ricefordinr/yet-another-surround.nvim)
 - [cfung89/embrace.nvim](https://github.com/cfung89/embrace.nvim) ![](https://img.shields.io/github/stars/cfung89/embrace.nvim) ![](https://img.shields.io/github/last-commit/cfung89/embrace.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/embrace.nvim)
 - [carlinigraphy/structured.nvim](https://github.com/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/structured.nvim)
+- [gregorias/nvim-surround-neo](https://github.com/gregorias/nvim-surround-neo) ![](https://img.shields.io/github/stars/gregorias/nvim-surround-neo) ![](https://img.shields.io/github/last-commit/gregorias/nvim-surround-neo) ![](https://img.shields.io/github/commit-activity/y/gregorias/nvim-surround-neo)
 
 ## Operator
 

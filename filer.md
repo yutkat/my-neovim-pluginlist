@@ -78,6 +78,7 @@
 - [A7Lavinraj/fyler.nvim](https://github.com/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/stars/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/last-commit/A7Lavinraj/fyler.nvim) ![](https://img.shields.io/github/commit-activity/y/A7Lavinraj/fyler.nvim)
 - [typegaro/treedivers.nvim](https://github.com/typegaro/treedivers.nvim) ![](https://img.shields.io/github/stars/typegaro/treedivers.nvim) ![](https://img.shields.io/github/last-commit/typegaro/treedivers.nvim) ![](https://img.shields.io/github/commit-activity/y/typegaro/treedivers.nvim)
 - [g0at1/pypath.nvim](https://github.com/g0at1/pypath.nvim) ![](https://img.shields.io/github/stars/g0at1/pypath.nvim) ![](https://img.shields.io/github/last-commit/g0at1/pypath.nvim) ![](https://img.shields.io/github/commit-activity/y/g0at1/pypath.nvim)
+- [nathanberry97/dumbtree.nvim](https://github.com/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtree.nvim)
 
 ### gx
 

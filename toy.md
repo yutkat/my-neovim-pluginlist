@@ -79,6 +79,7 @@
 - [nvimdev/3danimation.nvim](https://github.com/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/stars/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/3danimation.nvim)
 - [rawrrawrpurpledinosaur/brainrot.nvim](https://github.com/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/stars/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/last-commit/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/rawrrawrpurpledinosaur/brainrot.nvim)
 - [The-Silent-One/mpv.nvim](https://github.com/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/mpv.nvim)
+- [felixlazy/mpv.nvim](https://github.com/felixlazy/mpv.nvim) ![](https://img.shields.io/github/stars/felixlazy/mpv.nvim) ![](https://img.shields.io/github/last-commit/felixlazy/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/felixlazy/mpv.nvim)
 
 ### Screen Recording
 

@@ -117,6 +117,7 @@
 ### File search
 
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
+- [aloussase/telescope-find-exe.nvim](https://github.com/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/stars/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/last-commit/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/telescope-find-exe.nvim)
 
 ## Replace
 
