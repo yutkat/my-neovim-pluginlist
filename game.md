@@ -41,6 +41,7 @@
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
 - [kashsuks/snake.nvim](https://github.com/kashsuks/snake.nvim) ![](https://img.shields.io/github/stars/kashsuks/snake.nvim) ![](https://img.shields.io/github/last-commit/kashsuks/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/kashsuks/snake.nvim)
 - [someguy0555/snake.nvim](https://github.com/someguy0555/snake.nvim) ![](https://img.shields.io/github/stars/someguy0555/snake.nvim) ![](https://img.shields.io/github/last-commit/someguy0555/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/someguy0555/snake.nvim)
+- [ashish0kumar/snake.nvim](https://github.com/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/stars/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/last-commit/ashish0kumar/snake.nvim) ![](https://img.shields.io/github/commit-activity/y/ashish0kumar/snake.nvim)
 
 ### Tetris
 
