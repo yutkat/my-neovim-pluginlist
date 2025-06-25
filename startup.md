@@ -36,6 +36,7 @@
 - [anuramat/figtree.nvim](https://github.com/anuramat/figtree.nvim) ![](https://img.shields.io/github/stars/anuramat/figtree.nvim) ![](https://img.shields.io/github/last-commit/anuramat/figtree.nvim) ![](https://img.shields.io/github/commit-activity/y/anuramat/figtree.nvim)
 - [FerdiMeijer/splash.nvim](https://github.com/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/stars/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/last-commit/FerdiMeijer/splash.nvim) ![](https://img.shields.io/github/commit-activity/y/FerdiMeijer/splash.nvim)
 - [bobon4uto/swapintro.nvim](https://github.com/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/stars/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/swapintro.nvim)
+- [zaitsev-av/welcome-time.nvim](https://github.com/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/stars/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/last-commit/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/commit-activity/y/zaitsev-av/welcome-time.nvim)
 
 ### Boot Arguments
 

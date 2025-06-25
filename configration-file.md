@@ -55,6 +55,7 @@
 - [osullivandonal/json-format.nvim](https://github.com/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/stars/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/last-commit/osullivandonal/json-format.nvim) ![](https://img.shields.io/github/commit-activity/y/osullivandonal/json-format.nvim)
 - [JFryy/keytrail.nvim](https://github.com/JFryy/keytrail.nvim) ![](https://img.shields.io/github/stars/JFryy/keytrail.nvim) ![](https://img.shields.io/github/last-commit/JFryy/keytrail.nvim) ![](https://img.shields.io/github/commit-activity/y/JFryy/keytrail.nvim)
 - [rhettjay/jsonifyEnv.nvim](https://github.com/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/stars/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/last-commit/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/commit-activity/y/rhettjay/jsonifyEnv.nvim)
+- [estevesnp/jq.nvim](https://github.com/estevesnp/jq.nvim) ![](https://img.shields.io/github/stars/estevesnp/jq.nvim) ![](https://img.shields.io/github/last-commit/estevesnp/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/estevesnp/jq.nvim)
 
 #### fx
 

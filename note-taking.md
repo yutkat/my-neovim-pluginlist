@@ -175,6 +175,7 @@
 - [zaffron/todo-md.nvim](https://github.com/zaffron/todo-md.nvim) ![](https://img.shields.io/github/stars/zaffron/todo-md.nvim) ![](https://img.shields.io/github/last-commit/zaffron/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/zaffron/todo-md.nvim)
 - [FrancoAseglio/todo-sidebar.nvim](https://github.com/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/stars/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/last-commit/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancoAseglio/todo-sidebar.nvim)
 - [baltavay/quests.nvim](https://github.com/baltavay/quests.nvim) ![](https://img.shields.io/github/stars/baltavay/quests.nvim) ![](https://img.shields.io/github/last-commit/baltavay/quests.nvim) ![](https://img.shields.io/github/commit-activity/y/baltavay/quests.nvim)
+- [musayevchamil/nvim-todo](https://github.com/musayevchamil/nvim-todo) ![](https://img.shields.io/github/stars/musayevchamil/nvim-todo) ![](https://img.shields.io/github/last-commit/musayevchamil/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/musayevchamil/nvim-todo)
 
 #### Taskwarrior
 
@@ -443,3 +444,4 @@
 - [CarGDev/ideadrop.nvim](https://github.com/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/stars/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/ideadrop.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/ideadrop.nvim)
 - [carloscalla/notepad.nvim](https://github.com/carloscalla/notepad.nvim) ![](https://img.shields.io/github/stars/carloscalla/notepad.nvim) ![](https://img.shields.io/github/last-commit/carloscalla/notepad.nvim) ![](https://img.shields.io/github/commit-activity/y/carloscalla/notepad.nvim)
 - [kit494way/note.nvim](https://github.com/kit494way/note.nvim) ![](https://img.shields.io/github/stars/kit494way/note.nvim) ![](https://img.shields.io/github/last-commit/kit494way/note.nvim) ![](https://img.shields.io/github/commit-activity/y/kit494way/note.nvim)
+- [lsshawn/neonote.nvim](https://github.com/lsshawn/neonote.nvim) ![](https://img.shields.io/github/stars/lsshawn/neonote.nvim) ![](https://img.shields.io/github/last-commit/lsshawn/neonote.nvim) ![](https://img.shields.io/github/commit-activity/y/lsshawn/neonote.nvim)
