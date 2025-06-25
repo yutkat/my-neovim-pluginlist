@@ -55,6 +55,7 @@
     + [dbt](#dbt)
     + [sdfcli](#sdfcli)
     + [dagster](#dagster)
+    + [DNS](#dns)
   * [Ethereum](#ethereum)
     + [foundry](#foundry)
   * [IME](#ime)
@@ -332,6 +333,10 @@
 
 - [matthias-Q/dagster.nvim](https://github.com/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/stars/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/last-commit/matthias-Q/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/matthias-Q/dagster.nvim)
 
+#### DNS
+
+- [ltfiend/nvim-rndc-zone](https://github.com/ltfiend/nvim-rndc-zone) ![](https://img.shields.io/github/stars/ltfiend/nvim-rndc-zone) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-rndc-zone) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-rndc-zone)
+
 ### Ethereum
 
 #### foundry
@@ -365,6 +370,7 @@
 - [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
 - [kanium3/neovide-ime.nvim](https://github.com/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/stars/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/last-commit/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/kanium3/neovide-ime.nvim)
 - [396458015/imeflow.nvim](https://github.com/396458015/imeflow.nvim) ![](https://img.shields.io/github/stars/396458015/imeflow.nvim) ![](https://img.shields.io/github/last-commit/396458015/imeflow.nvim) ![](https://img.shields.io/github/commit-activity/y/396458015/imeflow.nvim)
+- [guohao117/noime.nvim](https://github.com/guohao117/noime.nvim) ![](https://img.shields.io/github/stars/guohao117/noime.nvim) ![](https://img.shields.io/github/last-commit/guohao117/noime.nvim) ![](https://img.shields.io/github/commit-activity/y/guohao117/noime.nvim)
 
 #### Fcitx
 

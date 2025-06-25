@@ -394,6 +394,7 @@
 - [CharlesTaylor7/majjit.nvim](https://github.com/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/stars/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/last-commit/CharlesTaylor7/majjit.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesTaylor7/majjit.nvim)
 - [solsystemlabs/jujutsu.nvim](https://github.com/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/stars/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/solsystemlabs/jujutsu.nvim)
 - [maladroitthief/jj-minidiff.nvim](https://github.com/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-minidiff.nvim)
+- [maladroitthief/jj-picker.nvim](https://github.com/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-picker.nvim)
 
 ### diff
 
