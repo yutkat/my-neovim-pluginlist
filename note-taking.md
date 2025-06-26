@@ -176,6 +176,7 @@
 - [FrancoAseglio/todo-sidebar.nvim](https://github.com/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/stars/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/last-commit/FrancoAseglio/todo-sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/FrancoAseglio/todo-sidebar.nvim)
 - [baltavay/quests.nvim](https://github.com/baltavay/quests.nvim) ![](https://img.shields.io/github/stars/baltavay/quests.nvim) ![](https://img.shields.io/github/last-commit/baltavay/quests.nvim) ![](https://img.shields.io/github/commit-activity/y/baltavay/quests.nvim)
 - [musayevchamil/nvim-todo](https://github.com/musayevchamil/nvim-todo) ![](https://img.shields.io/github/stars/musayevchamil/nvim-todo) ![](https://img.shields.io/github/last-commit/musayevchamil/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/musayevchamil/nvim-todo)
+- [saljic/workday.nvim](https://github.com/saljic/workday.nvim) ![](https://img.shields.io/github/stars/saljic/workday.nvim) ![](https://img.shields.io/github/last-commit/saljic/workday.nvim) ![](https://img.shields.io/github/commit-activity/y/saljic/workday.nvim)
 
 #### Taskwarrior
 

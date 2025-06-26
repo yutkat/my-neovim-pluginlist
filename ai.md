@@ -287,6 +287,7 @@
 - [pvnick/nvim-claude-code](https://github.com/pvnick/nvim-claude-code) ![](https://img.shields.io/github/stars/pvnick/nvim-claude-code) ![](https://img.shields.io/github/last-commit/pvnick/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/pvnick/nvim-claude-code)
 - [ishiooon/ccmanager.nvim](https://github.com/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/stars/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/ccmanager.nvim)
 - [edo1z/claude-cli.nvim](https://github.com/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/stars/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/claude-cli.nvim)
+- [Namacha411/ccusage.nvim](https://github.com/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/stars/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/last-commit/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/Namacha411/ccusage.nvim)
 
 ### DeepSeek
 
