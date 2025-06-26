@@ -90,6 +90,7 @@
 ## Reference
 
 - [johannww/scopus-bib-references.nvim](https://github.com/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/stars/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/last-commit/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/scopus-bib-references.nvim)
+- [asward/scholar.nvim](https://github.com/asward/scholar.nvim) ![](https://img.shields.io/github/stars/asward/scholar.nvim) ![](https://img.shields.io/github/last-commit/asward/scholar.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/scholar.nvim)
 
 ## DevDocs
 

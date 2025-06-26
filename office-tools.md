@@ -39,6 +39,7 @@
 ## MS Word
 
 - [marromlam/nvim-docx](https://github.com/marromlam/nvim-docx) ![](https://img.shields.io/github/stars/marromlam/nvim-docx) ![](https://img.shields.io/github/last-commit/marromlam/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/marromlam/nvim-docx)
+- [DaanHessen/nvim-docx](https://github.com/DaanHessen/nvim-docx) ![](https://img.shields.io/github/stars/DaanHessen/nvim-docx) ![](https://img.shields.io/github/last-commit/DaanHessen/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/DaanHessen/nvim-docx)
 
 ## Presentation
 

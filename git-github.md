@@ -243,6 +243,7 @@
 - [oflisback/cursor-git-ref-command.nvim](https://github.com/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/stars/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/last-commit/oflisback/cursor-git-ref-command.nvim) ![](https://img.shields.io/github/commit-activity/y/oflisback/cursor-git-ref-command.nvim)
 - [martin-walls/git-graph.nvim](https://github.com/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/stars/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/last-commit/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/martin-walls/git-graph.nvim)
 - [coreyb-git/commit-reminder.nvim](https://github.com/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/stars/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/commit-reminder.nvim)
+- [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
 
 #### preview contents
 
@@ -395,6 +396,7 @@
 - [solsystemlabs/jujutsu.nvim](https://github.com/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/stars/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/solsystemlabs/jujutsu.nvim)
 - [maladroitthief/jj-minidiff.nvim](https://github.com/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-minidiff.nvim)
 - [maladroitthief/jj-picker.nvim](https://github.com/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-picker.nvim)
+- [NicolasGB/jj.nvim](https://github.com/NicolasGB/jj.nvim) ![](https://img.shields.io/github/stars/NicolasGB/jj.nvim) ![](https://img.shields.io/github/last-commit/NicolasGB/jj.nvim) ![](https://img.shields.io/github/commit-activity/y/NicolasGB/jj.nvim)
 
 ### diff
 

@@ -278,6 +278,7 @@
 - [mattkubej/claude-fu.nvim](https://github.com/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/stars/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/last-commit/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/commit-activity/y/mattkubej/claude-fu.nvim)
 - [simiancreative/hum.nvim](https://github.com/simiancreative/hum.nvim) ![](https://img.shields.io/github/stars/simiancreative/hum.nvim) ![](https://img.shields.io/github/last-commit/simiancreative/hum.nvim) ![](https://img.shields.io/github/commit-activity/y/simiancreative/hum.nvim)
 - [wasabeef/yank-for-claude.nvim](https://github.com/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/stars/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/yank-for-claude.nvim)
+- [edo1z/claude-cli.nvim](https://github.com/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/stars/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/claude-cli.nvim)
 
 ### Claude Code
 
