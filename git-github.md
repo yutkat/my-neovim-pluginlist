@@ -144,6 +144,8 @@
 - [victorvf/simple-git-status.nvim](https://github.com/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/stars/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/last-commit/victorvf/simple-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/victorvf/simple-git-status.nvim)
 - [Justin8303/nvim-tree-gitsigns](https://github.com/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/stars/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/last-commit/Justin8303/nvim-tree-gitsigns) ![](https://img.shields.io/github/commit-activity/y/Justin8303/nvim-tree-gitsigns)
 - [Mauritz8/gitstatus.nvim](https://github.com/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/stars/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/last-commit/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/Mauritz8/gitstatus.nvim)
+- [aaaaargZombies/telescope-autolaunch.nvim](https://github.com/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/telescope-autolaunch.nvim)
+- [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
 
 ### git add
 
@@ -395,6 +397,7 @@
 - [solsystemlabs/jujutsu.nvim](https://github.com/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/stars/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/solsystemlabs/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/solsystemlabs/jujutsu.nvim)
 - [maladroitthief/jj-minidiff.nvim](https://github.com/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-minidiff.nvim)
 - [maladroitthief/jj-picker.nvim](https://github.com/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-picker.nvim)
+- [NicolasGB/jj.nvim](https://github.com/NicolasGB/jj.nvim) ![](https://img.shields.io/github/stars/NicolasGB/jj.nvim) ![](https://img.shields.io/github/last-commit/NicolasGB/jj.nvim) ![](https://img.shields.io/github/commit-activity/y/NicolasGB/jj.nvim)
 
 ### diff
 
