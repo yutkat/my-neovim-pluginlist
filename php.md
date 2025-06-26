@@ -6,6 +6,7 @@
   * [test](#test)
   * [Element sort](#element-sort)
   * [Live server](#live-server)
+  * [PHPStan](#phpstan)
   * [Laravel](#laravel)
   * [Slim](#slim)
   * [Symfony](#symfony)
@@ -37,6 +38,10 @@
 ### Live server
 
 - [Diogo-ss/five-server.nvim](https://github.com/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/five-server.nvim)
+
+### PHPStan
+
+- [FanStaF/nvim-phpanalyze](https://github.com/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/stars/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/last-commit/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/commit-activity/y/FanStaF/nvim-phpanalyze)
 
 ### Laravel
 
