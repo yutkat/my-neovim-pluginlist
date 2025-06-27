@@ -97,8 +97,6 @@
 
 ### CCSDS
 
-- [shaneyost/ccsds-hdr.nvim](https://github.com/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/shaneyost/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneyost/ccsds-hdr.nvim)
-- [shaneyost/ccsds-zen.nvim](https://github.com/shaneyost/ccsds-zen.nvim) ![](https://img.shields.io/github/stars/shaneyost/ccsds-zen.nvim) ![](https://img.shields.io/github/last-commit/shaneyost/ccsds-zen.nvim) ![](https://img.shields.io/github/commit-activity/y/shaneyost/ccsds-zen.nvim)
 - [realShaneYost/ccsds-hdr.nvim](https://github.com/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/realShaneYost/ccsds-hdr.nvim)
 
 ### localhost
