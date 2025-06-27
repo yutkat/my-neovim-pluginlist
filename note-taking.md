@@ -220,6 +220,7 @@
 - [0xBEEB/charcoal-notes.nvim](https://github.com/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/stars/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/last-commit/0xBEEB/charcoal-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/0xBEEB/charcoal-notes.nvim)
 - [maxardito/obtero.nvim](https://github.com/maxardito/obtero.nvim) ![](https://img.shields.io/github/stars/maxardito/obtero.nvim) ![](https://img.shields.io/github/last-commit/maxardito/obtero.nvim) ![](https://img.shields.io/github/commit-activity/y/maxardito/obtero.nvim)
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
+- [arakkkkk/obsidian-kanban.nvim](https://github.com/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/obsidian-kanban.nvim)
 
 ### nb
 
@@ -448,3 +449,4 @@
 - [lsshawn/neonote.nvim](https://github.com/lsshawn/neonote.nvim) ![](https://img.shields.io/github/stars/lsshawn/neonote.nvim) ![](https://img.shields.io/github/last-commit/lsshawn/neonote.nvim) ![](https://img.shields.io/github/commit-activity/y/lsshawn/neonote.nvim)
 - [juanibiapina/notes.nvim](https://github.com/juanibiapina/notes.nvim) ![](https://img.shields.io/github/stars/juanibiapina/notes.nvim) ![](https://img.shields.io/github/last-commit/juanibiapina/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/juanibiapina/notes.nvim)
 - [asward/scholar.nvim](https://github.com/asward/scholar.nvim) ![](https://img.shields.io/github/stars/asward/scholar.nvim) ![](https://img.shields.io/github/last-commit/asward/scholar.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/scholar.nvim)
+- [pankajgarkoti/daily-notes.nvim](https://github.com/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/stars/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/pankajgarkoti/daily-notes.nvim)

@@ -53,7 +53,7 @@
 - [Code generate](#code-generate)
   * [Chatblade](#chatblade)
 - [Error Fix Support](#error-fix-support)
-- [OpenAI Review](#openai-review)
+- [Review](#review)
 - [Documentation](#documentation)
 - [Pair Programming](#pair-programming)
 - [log](#log)
@@ -226,6 +226,7 @@
 - [justinhj/chatty-ai.nvim](https://github.com/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai.nvim)
   - [justinhj/chatty-ai-service-xai.nvim](https://github.com/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-xai.nvim)
 - [georg3tom/llama.nvim](https://github.com/georg3tom/llama.nvim) ![](https://img.shields.io/github/stars/georg3tom/llama.nvim) ![](https://img.shields.io/github/last-commit/georg3tom/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/georg3tom/llama.nvim)
+- [heliumsneakers/apollo.nvim](https://github.com/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/apollo.nvim)
 
 ### Ollama
 
@@ -435,6 +436,7 @@
 - [festeh/llm_flow.nvim](https://github.com/festeh/llm_flow.nvim) ![](https://img.shields.io/github/stars/festeh/llm_flow.nvim) ![](https://img.shields.io/github/last-commit/festeh/llm_flow.nvim) ![](https://img.shields.io/github/commit-activity/y/festeh/llm_flow.nvim)
 - [Czandal/autocomplicate.nvim](https://github.com/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/stars/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/last-commit/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/Czandal/autocomplicate.nvim)
 - [benpops89/momonga.nvim](https://github.com/benpops89/momonga.nvim) ![](https://img.shields.io/github/stars/benpops89/momonga.nvim) ![](https://img.shields.io/github/last-commit/benpops89/momonga.nvim) ![](https://img.shields.io/github/commit-activity/y/benpops89/momonga.nvim)
+- [TravisLinkey/nvim-tag-suggestions](https://github.com/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/stars/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/last-commit/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/nvim-tag-suggestions)
 
 ### Copilot
 
@@ -482,9 +484,10 @@
 
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
 
-## OpenAI Review
+## Review
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
+- [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 
 ## Documentation
 

@@ -136,6 +136,7 @@
 - [xsoder/buffer-manager.nvim](https://github.com/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/stars/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/last-commit/xsoder/buffer-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/xsoder/buffer-manager.nvim)
 - [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
 - [stuckinsnow/luabuff.nvim](https://github.com/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/luabuff.nvim)
+- [OleJoik/icebar.nvim](https://github.com/OleJoik/icebar.nvim) ![](https://img.shields.io/github/stars/OleJoik/icebar.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/icebar.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/icebar.nvim)
 
 #### create
 

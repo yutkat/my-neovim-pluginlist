@@ -345,6 +345,7 @@
 #### bruno
 
 - [romek-codes/bruno.nvim](https://github.com/romek-codes/bruno.nvim) ![](https://img.shields.io/github/stars/romek-codes/bruno.nvim) ![](https://img.shields.io/github/last-commit/romek-codes/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/romek-codes/bruno.nvim)
+- [Wotee/bruh.nvim](https://github.com/Wotee/bruh.nvim) ![](https://img.shields.io/github/stars/Wotee/bruh.nvim) ![](https://img.shields.io/github/last-commit/Wotee/bruh.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/bruh.nvim)
 
 #### ctags
 
