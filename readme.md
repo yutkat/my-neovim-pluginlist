@@ -418,6 +418,7 @@
 - [ficcdaf/academic.nvim](https://github.com/ficcdaf/academic.nvim) ![](https://img.shields.io/github/stars/ficcdaf/academic.nvim) ![](https://img.shields.io/github/last-commit/ficcdaf/academic.nvim) ![](https://img.shields.io/github/commit-activity/y/ficcdaf/academic.nvim)
 - [okaydouglas/popup-dictionary.nvim](https://github.com/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/stars/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/last-commit/okaydouglas/popup-dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/okaydouglas/popup-dictionary.nvim)
 - [MartinCornelius/reword.nvim](https://github.com/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/reword.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/reword.nvim)
+- [chrscchrn/dictionary.nvim](https://github.com/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/stars/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/last-commit/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/chrscchrn/dictionary.nvim)
 
 ### digraph
 
