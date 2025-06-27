@@ -271,6 +271,7 @@
 - [reybits/scratch.nvim](https://github.com/reybits/scratch.nvim) ![](https://img.shields.io/github/stars/reybits/scratch.nvim) ![](https://img.shields.io/github/last-commit/reybits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/scratch.nvim)
 - [eth-p/nvim-clone-buffer](https://github.com/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/stars/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/last-commit/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/commit-activity/y/eth-p/nvim-clone-buffer)
 - [MartinCornelius/tempbuf.nvim](https://github.com/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/tempbuf.nvim)
+- [Wotee/bruh.nvim](https://github.com/Wotee/bruh.nvim) ![](https://img.shields.io/github/stars/Wotee/bruh.nvim) ![](https://img.shields.io/github/last-commit/Wotee/bruh.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/bruh.nvim)
 
 ### Scratchpad
 

@@ -412,6 +412,7 @@
 ### EPUB
 
 - [CrystalDime/epub.nvim](https://github.com/CrystalDime/epub.nvim) ![](https://img.shields.io/github/stars/CrystalDime/epub.nvim) ![](https://img.shields.io/github/last-commit/CrystalDime/epub.nvim) ![](https://img.shields.io/github/commit-activity/y/CrystalDime/epub.nvim)
+- [UoooBarry/novel-reader.nvim](https://github.com/UoooBarry/novel-reader.nvim) ![](https://img.shields.io/github/stars/UoooBarry/novel-reader.nvim) ![](https://img.shields.io/github/last-commit/UoooBarry/novel-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/UoooBarry/novel-reader.nvim)
 
 ### Pandoc
 
