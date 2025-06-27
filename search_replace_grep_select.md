@@ -183,6 +183,7 @@
 - [jborkowski/telescope-inflect.nvim](https://github.com/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/stars/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/last-commit/jborkowski/telescope-inflect.nvim) ![](https://img.shields.io/github/commit-activity/y/jborkowski/telescope-inflect.nvim)
 - [ElanMedoff/rg-glob-builder.nvim](https://github.com/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/rg-glob-builder.nvim)
 - [stuckinsnow/rg-lua.nvim](https://github.com/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/rg-lua.nvim)
+- [mtkld/rxgrep.nvim](https://github.com/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/stars/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/last-commit/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/rxgrep.nvim)
 
 ### AST (Semantic search)
 

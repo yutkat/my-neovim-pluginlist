@@ -163,6 +163,7 @@
 - [aanatoly/venv.nvim](https://github.com/aanatoly/venv.nvim) ![](https://img.shields.io/github/stars/aanatoly/venv.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/venv.nvim)
 - [milemik/nvim-py-detector](https://github.com/milemik/nvim-py-detector) ![](https://img.shields.io/github/stars/milemik/nvim-py-detector) ![](https://img.shields.io/github/last-commit/milemik/nvim-py-detector) ![](https://img.shields.io/github/commit-activity/y/milemik/nvim-py-detector)
 - [tnfru/nvim-venv-detector](https://github.com/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/stars/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/last-commit/tnfru/nvim-venv-detector) ![](https://img.shields.io/github/commit-activity/y/tnfru/nvim-venv-detector)
+- [ishay320/venv.nvim](https://github.com/ishay320/venv.nvim) ![](https://img.shields.io/github/stars/ishay320/venv.nvim) ![](https://img.shields.io/github/last-commit/ishay320/venv.nvim) ![](https://img.shields.io/github/commit-activity/y/ishay320/venv.nvim)
 
 ### mypy
 

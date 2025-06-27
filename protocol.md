@@ -34,6 +34,7 @@
 - [Leonardo-Luz/http.nvim](https://github.com/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/http.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/http.nvim)
 - [yonchando/http.nvim](https://github.com/yonchando/http.nvim) ![](https://img.shields.io/github/stars/yonchando/http.nvim) ![](https://img.shields.io/github/last-commit/yonchando/http.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/http.nvim)
 - [nilszeilon/post.nvim](https://github.com/nilszeilon/post.nvim) ![](https://img.shields.io/github/stars/nilszeilon/post.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/post.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/post.nvim)
+- [ecthiender/daak.nvim](https://github.com/ecthiender/daak.nvim) ![](https://img.shields.io/github/stars/ecthiender/daak.nvim) ![](https://img.shields.io/github/last-commit/ecthiender/daak.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthiender/daak.nvim)
 
 #### Status
 

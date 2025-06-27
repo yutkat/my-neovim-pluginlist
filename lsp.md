@@ -297,6 +297,7 @@
 #### LSP Info
 
 - [urizennnn/rescue-lsp.nvim](https://github.com/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/stars/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/last-commit/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/urizennnn/rescue-lsp.nvim)
+- [nvimdev/visualizer.nvim](https://github.com/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/stars/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/visualizer.nvim)
 
 ### Local LSP Config
 
