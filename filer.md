@@ -4,6 +4,7 @@
 
 - [Filer](#filer)
   * [gx](#gx)
+  * [netrw](#netrw)
   * [Simple](#simple)
   * [Floating Style](#floating-style)
   * [FuzzyFinder Style](#fuzzyfinder-style)
@@ -51,7 +52,6 @@
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) ![](https://img.shields.io/github/stars/tamago324/lir.nvim) ![](https://img.shields.io/github/last-commit/tamago324/lir.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/lir.nvim)
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) ![](https://img.shields.io/github/stars/Xuyuanp/yanil) ![](https://img.shields.io/github/last-commit/Xuyuanp/yanil) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/yanil)
 - [TheBlob42/drex.nvim](https://github.com/TheBlob42/drex.nvim) ![](https://img.shields.io/github/stars/TheBlob42/drex.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/drex.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/drex.nvim)
-- [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
 - [lambda-larry/vim-vinegar.nvim](https://github.com/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/stars/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/last-commit/lambda-larry/vim-vinegar.nvim) ![](https://img.shields.io/github/commit-activity/y/lambda-larry/vim-vinegar.nvim)
 - [dinhhuy258/sfm.nvim](https://github.com/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm.nvim)
   - [dinhhuy258/sfm-filter.nvim](https://github.com/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/stars/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/last-commit/dinhhuy258/sfm-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/dinhhuy258/sfm-filter.nvim)
@@ -66,7 +66,6 @@
 - [simonmclean/triptych.nvim](https://github.com/simonmclean/triptych.nvim) ![](https://img.shields.io/github/stars/simonmclean/triptych.nvim) ![](https://img.shields.io/github/last-commit/simonmclean/triptych.nvim) ![](https://img.shields.io/github/commit-activity/y/simonmclean/triptych.nvim)
 - [Rolv-Apneseth/tfm.nvim](https://github.com/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/stars/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/last-commit/Rolv-Apneseth/tfm.nvim) ![](https://img.shields.io/github/commit-activity/y/Rolv-Apneseth/tfm.nvim)
 - [wllfaria/grove.nvim](https://github.com/wllfaria/grove.nvim) ![](https://img.shields.io/github/stars/wllfaria/grove.nvim) ![](https://img.shields.io/github/last-commit/wllfaria/grove.nvim) ![](https://img.shields.io/github/commit-activity/y/wllfaria/grove.nvim)
-- [cvknage/netrw-tree.nvim](https://github.com/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/stars/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/last-commit/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/cvknage/netrw-tree.nvim)
 - [behzade/lf.nvim](https://github.com/behzade/lf.nvim) ![](https://img.shields.io/github/stars/behzade/lf.nvim) ![](https://img.shields.io/github/last-commit/behzade/lf.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/lf.nvim)
 - [sys9kdr/dsfe.nvim](https://github.com/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/stars/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/last-commit/sys9kdr/dsfe.nvim) ![](https://img.shields.io/github/commit-activity/y/sys9kdr/dsfe.nvim)
 - [Tronikelis/xylene.nvim](https://github.com/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/stars/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/last-commit/Tronikelis/xylene.nvim) ![](https://img.shields.io/github/commit-activity/y/Tronikelis/xylene.nvim)
@@ -80,7 +79,6 @@
 - [typegaro/treedivers.nvim](https://github.com/typegaro/treedivers.nvim) ![](https://img.shields.io/github/stars/typegaro/treedivers.nvim) ![](https://img.shields.io/github/last-commit/typegaro/treedivers.nvim) ![](https://img.shields.io/github/commit-activity/y/typegaro/treedivers.nvim)
 - [g0at1/pypath.nvim](https://github.com/g0at1/pypath.nvim) ![](https://img.shields.io/github/stars/g0at1/pypath.nvim) ![](https://img.shields.io/github/last-commit/g0at1/pypath.nvim) ![](https://img.shields.io/github/commit-activity/y/g0at1/pypath.nvim)
 - [nathanberry97/dumbtree.nvim](https://github.com/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/stars/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/last-commit/nathanberry97/dumbtree.nvim) ![](https://img.shields.io/github/commit-activity/y/nathanberry97/dumbtree.nvim)
-- [idr4n/netrw-preview.nvim](https://github.com/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/stars/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/last-commit/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/idr4n/netrw-preview.nvim)
 
 ### gx
 
@@ -90,6 +88,12 @@
 - [mrjones2014/lua-gf.nvim](https://github.com/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/stars/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/lua-gf.nvim)
 - [TobinPalmer/BetterGx.nvim](https://github.com/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/BetterGx.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/BetterGx.nvim)
 - [xuanan92/gx.nvim](https://github.com/xuanan92/gx.nvim) ![](https://img.shields.io/github/stars/xuanan92/gx.nvim) ![](https://img.shields.io/github/last-commit/xuanan92/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/xuanan92/gx.nvim)
+
+### netrw
+
+- [prichrd/netrw.nvim](https://github.com/prichrd/netrw.nvim) ![](https://img.shields.io/github/stars/prichrd/netrw.nvim) ![](https://img.shields.io/github/last-commit/prichrd/netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/netrw.nvim)
+- [cvknage/netrw-tree.nvim](https://github.com/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/stars/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/last-commit/cvknage/netrw-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/cvknage/netrw-tree.nvim)
+- [idr4n/netrw-preview.nvim](https://github.com/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/stars/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/last-commit/idr4n/netrw-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/idr4n/netrw-preview.nvim)
 
 ### Simple
 
