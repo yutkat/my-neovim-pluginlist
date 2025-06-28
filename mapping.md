@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Keymap](#keymap)
-    + [map function utiliy](#map-function-utiliy)
+  * [map function utiliy](#map-function-utiliy)
   * [instant mapping](#instant-mapping)
   * [callback](#callback)
   * [Bracket](#bracket)
@@ -55,8 +55,9 @@
 - [fholmer/no.nvim](https://github.com/fholmer/no.nvim) ![](https://img.shields.io/github/stars/fholmer/no.nvim) ![](https://img.shields.io/github/last-commit/fholmer/no.nvim) ![](https://img.shields.io/github/commit-activity/y/fholmer/no.nvim)
 - [chachacollins/emacs.nvim](https://github.com/chachacollins/emacs.nvim) ![](https://img.shields.io/github/stars/chachacollins/emacs.nvim) ![](https://img.shields.io/github/last-commit/chachacollins/emacs.nvim) ![](https://img.shields.io/github/commit-activity/y/chachacollins/emacs.nvim)
 - [colomb8/rambo.nvim](https://github.com/colomb8/rambo.nvim) ![](https://img.shields.io/github/stars/colomb8/rambo.nvim) ![](https://img.shields.io/github/last-commit/colomb8/rambo.nvim) ![](https://img.shields.io/github/commit-activity/y/colomb8/rambo.nvim)
+- [codebam/easymode.nvim](https://github.com/codebam/easymode.nvim) ![](https://img.shields.io/github/stars/codebam/easymode.nvim) ![](https://img.shields.io/github/last-commit/codebam/easymode.nvim) ![](https://img.shields.io/github/commit-activity/y/codebam/easymode.nvim)
 
-#### map function utiliy
+### map function utiliy
 
 - [LionC/nest.nvim](https://github.com/LionC/nest.nvim) ![](https://img.shields.io/github/stars/LionC/nest.nvim) ![](https://img.shields.io/github/last-commit/LionC/nest.nvim) ![](https://img.shields.io/github/commit-activity/y/LionC/nest.nvim)
 - [Iron-E/nvim-cartographer](https://github.com/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/stars/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/last-commit/Iron-E/nvim-cartographer) ![](https://img.shields.io/github/commit-activity/y/Iron-E/nvim-cartographer)
@@ -69,7 +70,6 @@
 - [echasnovski/mini.keymap](https://github.com/echasnovski/mini.keymap) ![](https://img.shields.io/github/stars/echasnovski/mini.keymap) ![](https://img.shields.io/github/last-commit/echasnovski/mini.keymap) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.keymap)
 - [mtkld/keypoint.nvim](https://github.com/mtkld/keypoint.nvim) ![](https://img.shields.io/github/stars/mtkld/keypoint.nvim) ![](https://img.shields.io/github/last-commit/mtkld/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/keypoint.nvim)
 - [mtkld/dynkey.nvim](https://github.com/mtkld/dynkey.nvim) ![](https://img.shields.io/github/stars/mtkld/dynkey.nvim) ![](https://img.shields.io/github/last-commit/mtkld/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/dynkey.nvim)
-
 
 ### instant mapping
 
@@ -142,6 +142,7 @@
 #### Escape
 
 - [TheBlob42/houdini.nvim](https://github.com/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/stars/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/houdini.nvim)
+- [fuyu510/escape.nvim](https://github.com/fuyu510/escape.nvim) ![](https://img.shields.io/github/stars/fuyu510/escape.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/escape.nvim)
 
 #### CapsLock
 

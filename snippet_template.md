@@ -100,6 +100,7 @@
 - [WayneYam/cp_template.nvim](https://github.com/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/stars/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/cp_template.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/cp_template.nvim)
 - [Stewie410/boiler.nvim](https://github.com/Stewie410/boiler.nvim) ![](https://img.shields.io/github/stars/Stewie410/boiler.nvim) ![](https://img.shields.io/github/last-commit/Stewie410/boiler.nvim) ![](https://img.shields.io/github/commit-activity/y/Stewie410/boiler.nvim)
 - [viitorags/scaffy.nvim](https://github.com/viitorags/scaffy.nvim) ![](https://img.shields.io/github/stars/viitorags/scaffy.nvim) ![](https://img.shields.io/github/last-commit/viitorags/scaffy.nvim) ![](https://img.shields.io/github/commit-activity/y/viitorags/scaffy.nvim)
+- [adibhanna/nvim-newfile.nvim](https://github.com/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/nvim-newfile.nvim)
 
 #### README
 

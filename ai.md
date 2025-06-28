@@ -289,6 +289,9 @@
 - [ishiooon/ccmanager.nvim](https://github.com/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/stars/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/ccmanager.nvim)
 - [edo1z/claude-cli.nvim](https://github.com/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/stars/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/claude-cli.nvim)
 - [Namacha411/ccusage.nvim](https://github.com/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/stars/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/last-commit/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/Namacha411/ccusage.nvim)
+- [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ![](https://img.shields.io/github/stars/coder/claudecode.nvim) ![](https://img.shields.io/github/last-commit/coder/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/coder/claudecode.nvim)
+  - [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
+- [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 
 ### DeepSeek
 
@@ -353,7 +356,7 @@
 
 - [StubbornVegeta/llm.nvim](https://github.com/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/stars/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/last-commit/StubbornVegeta/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/StubbornVegeta/llm.nvim)
 
-### Codeium 
+### Codeium
 
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
@@ -383,7 +386,6 @@
 
 ### Bedrock
 
-
 ### Blink AI
 
 - [wispl/blink-ars.nvim](https://github.com/wispl/blink-ars.nvim) ![](https://img.shields.io/github/stars/wispl/blink-ars.nvim) ![](https://img.shields.io/github/last-commit/wispl/blink-ars.nvim) ![](https://img.shields.io/github/commit-activity/y/wispl/blink-ars.nvim)
@@ -391,7 +393,6 @@
 ### tgpt
 
 - [RayenMnif/tgpt.nvim](https://github.com/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/stars/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/last-commit/RayenMnif/tgpt.nvim) ![](https://img.shields.io/github/commit-activity/y/RayenMnif/tgpt.nvim)
-
 
 ### LiteLLM
 
@@ -423,7 +424,6 @@
 - [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
 
 ### khulnasoft
-
 
 ## AI Completion
 
@@ -488,6 +488,7 @@
 
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
+- [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)
 
 ## Documentation
 
@@ -517,7 +518,7 @@
 
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
 
-## Copy File Context 
+## Copy File Context
 
 - [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
 - [androidStern/context-graph.nvim](https://github.com/androidStern/context-graph.nvim) ![](https://img.shields.io/github/stars/androidStern/context-graph.nvim) ![](https://img.shields.io/github/last-commit/androidStern/context-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/androidStern/context-graph.nvim)
