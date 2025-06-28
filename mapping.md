@@ -128,6 +128,7 @@
 
 - [paulfrische/mode.nvim](https://github.com/paulfrische/mode.nvim) ![](https://img.shields.io/github/stars/paulfrische/mode.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mode.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mode.nvim)
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
+- [codebam/easymode.nvim](https://github.com/codebam/easymode.nvim) ![](https://img.shields.io/github/stars/codebam/easymode.nvim) ![](https://img.shields.io/github/last-commit/codebam/easymode.nvim) ![](https://img.shields.io/github/commit-activity/y/codebam/easymode.nvim)
 
 ### Improve Mappings
 

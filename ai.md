@@ -279,6 +279,7 @@
 - [mattkubej/claude-fu.nvim](https://github.com/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/stars/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/last-commit/mattkubej/claude-fu.nvim) ![](https://img.shields.io/github/commit-activity/y/mattkubej/claude-fu.nvim)
 - [simiancreative/hum.nvim](https://github.com/simiancreative/hum.nvim) ![](https://img.shields.io/github/stars/simiancreative/hum.nvim) ![](https://img.shields.io/github/last-commit/simiancreative/hum.nvim) ![](https://img.shields.io/github/commit-activity/y/simiancreative/hum.nvim)
 - [wasabeef/yank-for-claude.nvim](https://github.com/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/stars/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/yank-for-claude.nvim)
+- [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
 
 ### Claude Code
 
@@ -289,6 +290,7 @@
 - [ishiooon/ccmanager.nvim](https://github.com/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/stars/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/ccmanager.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/ccmanager.nvim)
 - [edo1z/claude-cli.nvim](https://github.com/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/stars/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/edo1z/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/claude-cli.nvim)
 - [Namacha411/ccusage.nvim](https://github.com/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/stars/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/last-commit/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/Namacha411/ccusage.nvim)
+- [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 
 ### DeepSeek
 
