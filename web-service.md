@@ -123,12 +123,14 @@
 #### X (Twitter)
 
 - [RomanVolkov/x_threads.nvim](https://github.com/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/stars/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/last-commit/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanVolkov/x_threads.nvim)
+- [dyl10s/tweet.nvim](https://github.com/dyl10s/tweet.nvim) ![](https://img.shields.io/github/stars/dyl10s/tweet.nvim) ![](https://img.shields.io/github/last-commit/dyl10s/tweet.nvim) ![](https://img.shields.io/github/commit-activity/y/dyl10s/tweet.nvim)
 
 ### Notion
 
 - [chrsm/impulse.nvim](https://github.com/chrsm/impulse.nvim) ![](https://img.shields.io/github/stars/chrsm/impulse.nvim) ![](https://img.shields.io/github/last-commit/chrsm/impulse.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsm/impulse.nvim)
 - [Al0den/notion.nvim](https://github.com/Al0den/notion.nvim) ![](https://img.shields.io/github/stars/Al0den/notion.nvim) ![](https://img.shields.io/github/last-commit/Al0den/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/Al0den/notion.nvim)
 - [NoUseFreak/notion.nvim](https://github.com/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/stars/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/last-commit/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/NoUseFreak/notion.nvim)
+- [ALT-F4-LLC/notion.nvim](https://github.com/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/stars/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/last-commit/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/ALT-F4-LLC/notion.nvim)
 
 ### esa.io
 

@@ -122,6 +122,7 @@
 - [zachbuchli/lazygit.nvim](https://github.com/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/stars/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/lazygit.nvim)
 - [thelastpsion/lazygit-confirm.nvim](https://github.com/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/stars/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/last-commit/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/commit-activity/y/thelastpsion/lazygit-confirm.nvim)
 - [joshua1nine/lg.nvim](https://github.com/joshua1nine/lg.nvim) ![](https://img.shields.io/github/stars/joshua1nine/lg.nvim) ![](https://img.shields.io/github/last-commit/joshua1nine/lg.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua1nine/lg.nvim)
+- [liYony/nvim-gitrepo.nvim](https://github.com/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/stars/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/last-commit/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/commit-activity/y/liYony/nvim-gitrepo.nvim)
 
 ### git clone
 

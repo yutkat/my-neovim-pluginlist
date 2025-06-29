@@ -4,6 +4,7 @@
 
 - [Browser Integration](#browser-integration)
   * [url open](#url-open)
+    + [url preview](#url-preview)
   * [DevTools](#devtools)
   * [Firefox](#firefox)
   * [DuckDuckGo](#duckduckgo)
@@ -42,6 +43,10 @@
 - [brunocroh/open-link.nvim](https://github.com/brunocroh/open-link.nvim) ![](https://img.shields.io/github/stars/brunocroh/open-link.nvim) ![](https://img.shields.io/github/last-commit/brunocroh/open-link.nvim) ![](https://img.shields.io/github/commit-activity/y/brunocroh/open-link.nvim)
 - [b0lle/open-url-by-regex.nvim](https://github.com/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/stars/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/last-commit/b0lle/open-url-by-regex.nvim) ![](https://img.shields.io/github/commit-activity/y/b0lle/open-url-by-regex.nvim)
 - [jayzone91/links.nvim](https://github.com/jayzone91/links.nvim) ![](https://img.shields.io/github/stars/jayzone91/links.nvim) ![](https://img.shields.io/github/last-commit/jayzone91/links.nvim) ![](https://img.shields.io/github/commit-activity/y/jayzone91/links.nvim)
+
+##### url preview
+
+- [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) ![](https://img.shields.io/github/stars/wurli/urlpreview.nvim) ![](https://img.shields.io/github/last-commit/wurli/urlpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/urlpreview.nvim)
 
 #### DevTools
 
