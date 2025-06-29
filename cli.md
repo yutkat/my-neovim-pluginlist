@@ -60,6 +60,7 @@
   * [diagon](#diagon)
   * [k8s (Kubernetes)](#k8s-kubernetes)
     + [ArgoCD](#argocd)
+  * [Nomad](#nomad)
   * [ntpy](#ntpy)
 
 <!-- tocstop -->
@@ -303,6 +304,7 @@
 - [UpHillSolutions-roberth/nvim-ssh](https://github.com/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/stars/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/last-commit/UpHillSolutions-roberth/nvim-ssh) ![](https://img.shields.io/github/commit-activity/y/UpHillSolutions-roberth/nvim-ssh)
 - [kumarvivek1752/remote-ssh.nvim](https://github.com/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/stars/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/kumarvivek1752/remote-ssh.nvim)
 - [tfpickard/sshiv.nvim](https://github.com/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/stars/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/sshiv.nvim)
+- [G00380316/ssh-launcher.nvim](https://github.com/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/stars/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/last-commit/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/G00380316/ssh-launcher.nvim)
 
 #### ftp
 
@@ -459,6 +461,10 @@
 ##### ArgoCD
 
 - [lucaguindani/nvim-argocd](https://github.com/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/stars/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/last-commit/lucaguindani/nvim-argocd) ![](https://img.shields.io/github/commit-activity/y/lucaguindani/nvim-argocd)
+
+#### Nomad
+
+- [lukaszmoskwa/nomad.nvim](https://github.com/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/stars/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/last-commit/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaszmoskwa/nomad.nvim)
 
 #### ntpy
 

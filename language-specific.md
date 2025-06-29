@@ -118,6 +118,8 @@
     + [Beancount](#beancount)
     + [incc](#incc)
     + [Slang](#slang)
+    + [Aptos Move](#aptos-move)
+    + [Flix](#flix)
     + [CHIP-8](#chip-8)
     + [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     + [E2](#e2)
@@ -658,6 +660,14 @@
 #### Slang
 
 - [sgaulter/slang-server.nvim](https://github.com/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/stars/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/last-commit/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/commit-activity/y/sgaulter/slang-server.nvim)
+
+#### Aptos Move
+
+- [gregnazario/nvim-aptos](https://github.com/gregnazario/nvim-aptos) ![](https://img.shields.io/github/stars/gregnazario/nvim-aptos) ![](https://img.shields.io/github/last-commit/gregnazario/nvim-aptos) ![](https://img.shields.io/github/commit-activity/y/gregnazario/nvim-aptos)
+
+#### Flix
+
+- [CadeMichael/flix.nvim](https://github.com/CadeMichael/flix.nvim) ![](https://img.shields.io/github/stars/CadeMichael/flix.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/flix.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/flix.nvim)
 
 #### CHIP-8
 

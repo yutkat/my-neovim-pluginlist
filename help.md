@@ -52,6 +52,7 @@
 - [kilavila/cheat-sh.nvim](https://github.com/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/stars/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/last-commit/kilavila/cheat-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/kilavila/cheat-sh.nvim)
 - [danitrap/cheatsh.nvim](https://github.com/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/stars/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/last-commit/danitrap/cheatsh.nvim) ![](https://img.shields.io/github/commit-activity/y/danitrap/cheatsh.nvim)
 - [hschne/cheato.nvim](https://github.com/hschne/cheato.nvim) ![](https://img.shields.io/github/stars/hschne/cheato.nvim) ![](https://img.shields.io/github/last-commit/hschne/cheato.nvim) ![](https://img.shields.io/github/commit-activity/y/hschne/cheato.nvim)
+- [cosmicbuffalo/cheatsheet_generator.nvim](https://github.com/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/cheatsheet_generator.nvim)
 
 ### Tips
 

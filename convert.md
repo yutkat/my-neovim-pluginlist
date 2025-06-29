@@ -74,6 +74,7 @@
 - [evertonse/cycler.nvim](https://github.com/evertonse/cycler.nvim) ![](https://img.shields.io/github/stars/evertonse/cycler.nvim) ![](https://img.shields.io/github/last-commit/evertonse/cycler.nvim) ![](https://img.shields.io/github/commit-activity/y/evertonse/cycler.nvim)
   - [tfpickard/illogical.nvim](https://github.com/tfpickard/illogical.nvim) ![](https://img.shields.io/github/stars/tfpickard/illogical.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/illogical.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/illogical.nvim)
 - [Geertsky/smart-toggle.nvim](https://github.com/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/stars/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/smart-toggle.nvim)
+- [jkaraskiewicz/toggle.nvim](https://github.com/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/toggle.nvim)
 
 ### Shell command
 

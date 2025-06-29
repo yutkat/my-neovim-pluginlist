@@ -465,6 +465,7 @@
 ### Mouse
 
 - [notomo/gesture.nvim](https://github.com/notomo/gesture.nvim) ![](https://img.shields.io/github/stars/notomo/gesture.nvim) ![](https://img.shields.io/github/last-commit/notomo/gesture.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/gesture.nvim)
+- [ryardley/mouser.nvim](https://github.com/ryardley/mouser.nvim) ![](https://img.shields.io/github/stars/ryardley/mouser.nvim) ![](https://img.shields.io/github/last-commit/ryardley/mouser.nvim) ![](https://img.shields.io/github/commit-activity/y/ryardley/mouser.nvim)
 
 ## Coding
 
