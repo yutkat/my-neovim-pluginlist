@@ -201,6 +201,7 @@
 - [kylesnowschwartz/prompt-tower.nvim](https://github.com/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/prompt-tower.nvim)
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
+- [estevaofon/ailite.nvim](https://github.com/estevaofon/ailite.nvim) ![](https://img.shields.io/github/stars/estevaofon/ailite.nvim) ![](https://img.shields.io/github/last-commit/estevaofon/ailite.nvim) ![](https://img.shields.io/github/commit-activity/y/estevaofon/ailite.nvim)
 
 #### mods
 
@@ -259,6 +260,7 @@
 - [Abyss-c0re/deepshell-nvim](https://github.com/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/stars/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/last-commit/Abyss-c0re/deepshell-nvim) ![](https://img.shields.io/github/commit-activity/y/Abyss-c0re/deepshell-nvim)
 - [AdamFrenzen/ghostwrite.nvim](https://github.com/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/stars/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/last-commit/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamFrenzen/ghostwrite.nvim)
 - [DominikOcsofszki/local_llm_tools.nvim](https://github.com/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/local_llm_tools.nvim)
+- [Dheeraj-Murthy/Ollama_chat.nvim](https://github.com/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/stars/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/last-commit/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheeraj-Murthy/Ollama_chat.nvim)
 
 ### Claude
 
@@ -292,6 +294,7 @@
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ![](https://img.shields.io/github/stars/coder/claudecode.nvim) ![](https://img.shields.io/github/last-commit/coder/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/coder/claudecode.nvim)
   - [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
+- [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
 
 ### DeepSeek
 

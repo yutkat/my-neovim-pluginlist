@@ -30,6 +30,7 @@
 - [ingenarel/metapack.nvim](https://github.com/ingenarel/metapack.nvim) ![](https://img.shields.io/github/stars/ingenarel/metapack.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/metapack.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/metapack.nvim)
 - [bhargavms/mogra-toolchain.nvim](https://github.com/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/stars/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/last-commit/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/bhargavms/mogra-toolchain.nvim)
 - [MonsieurTib/package-ui.nvim](https://github.com/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/stars/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/last-commit/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/MonsieurTib/package-ui.nvim)
+- [jla2000/nvim-bundle](https://github.com/jla2000/nvim-bundle) ![](https://img.shields.io/github/stars/jla2000/nvim-bundle) ![](https://img.shields.io/github/last-commit/jla2000/nvim-bundle) ![](https://img.shields.io/github/commit-activity/y/jla2000/nvim-bundle)
 
 #### formatter
 

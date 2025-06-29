@@ -134,6 +134,8 @@
 - [68mschmitt/project_runner.nvim](https://github.com/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/stars/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/project_runner.nvim)
 - [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
 - [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
+- [G00380316/ssh-launcher.nvim](https://github.com/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/stars/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/last-commit/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/G00380316/ssh-launcher.nvim)
+- [lukaszmoskwa/nomad.nvim](https://github.com/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/stars/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/last-commit/lukaszmoskwa/nomad.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaszmoskwa/nomad.nvim)
 
 #### Shell
 

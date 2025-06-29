@@ -33,6 +33,7 @@
 - [tyamaz/kokokoko.nvim](https://github.com/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko.nvim)
 - [tyamaz/kokokoko2d.nvim](https://github.com/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko2d.nvim)
 - [oaSakamoto/CenterStage.nvim](https://github.com/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/stars/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/last-commit/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/commit-activity/y/oaSakamoto/CenterStage.nvim)
+- [ryardley/mouser.nvim](https://github.com/ryardley/mouser.nvim) ![](https://img.shields.io/github/stars/ryardley/mouser.nvim) ![](https://img.shields.io/github/last-commit/ryardley/mouser.nvim) ![](https://img.shields.io/github/commit-activity/y/ryardley/mouser.nvim)
 
 ### Hold
 

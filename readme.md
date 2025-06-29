@@ -251,6 +251,7 @@
 - [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) ![](https://img.shields.io/github/stars/gregorias/toggle.nvim) ![](https://img.shields.io/github/last-commit/gregorias/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/toggle.nvim)
 - [Kibadda/starter.nvim](https://github.com/Kibadda/starter.nvim) ![](https://img.shields.io/github/stars/Kibadda/starter.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/starter.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/starter.nvim)
 - [walkingshamrock/optiongroup.nvim](https://github.com/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/optiongroup.nvim)
+- [jkaraskiewicz/toggle.nvim](https://github.com/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/toggle.nvim)
 
 ## Editing support
 
