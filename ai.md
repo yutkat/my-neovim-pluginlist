@@ -7,6 +7,7 @@
     + [Codex](#codex)
     + [Whisper](#whisper)
   * [Gemini](#gemini)
+    + [Gemini CLI](#gemini-cli)
   * [Multi LLM](#multi-llm)
     + [mods](#mods)
     + [Generate Doc](#generate-doc)
@@ -159,6 +160,10 @@
   - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
 - [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
+
+#### Gemini CLI
+
+- [ivanlee1999/gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/stars/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanlee1999/gemini-cli.nvim)
 
 ### Multi LLM
 

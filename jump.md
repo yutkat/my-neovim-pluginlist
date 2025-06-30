@@ -93,5 +93,6 @@
 - [bloznelis/before.nvim](https://github.com/bloznelis/before.nvim) ![](https://img.shields.io/github/stars/bloznelis/before.nvim) ![](https://img.shields.io/github/last-commit/bloznelis/before.nvim) ![](https://img.shields.io/github/commit-activity/y/bloznelis/before.nvim)
 - [srcrip/mre.nvim](https://github.com/srcrip/mre.nvim) ![](https://img.shields.io/github/stars/srcrip/mre.nvim) ![](https://img.shields.io/github/last-commit/srcrip/mre.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/mre.nvim)
 - [dawsers/file-history.nvim](https://github.com/dawsers/file-history.nvim) ![](https://img.shields.io/github/stars/dawsers/file-history.nvim) ![](https://img.shields.io/github/last-commit/dawsers/file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/file-history.nvim)
+- [nxhung2304/lastplace.nvim](https://github.com/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/stars/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/lastplace.nvim)
 
 ### Cursor Position History

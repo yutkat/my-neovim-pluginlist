@@ -64,6 +64,7 @@
 - [MrMichou/nvim-hiera.nvim](https://github.com/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/stars/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/last-commit/MrMichou/nvim-hiera.nvim) ![](https://img.shields.io/github/commit-activity/y/MrMichou/nvim-hiera.nvim)
 - [abhi-xyz/just.nvim](https://github.com/abhi-xyz/just.nvim) ![](https://img.shields.io/github/stars/abhi-xyz/just.nvim) ![](https://img.shields.io/github/last-commit/abhi-xyz/just.nvim) ![](https://img.shields.io/github/commit-activity/y/abhi-xyz/just.nvim)
 - [artstisen/marbles.nvim](https://github.com/artstisen/marbles.nvim) ![](https://img.shields.io/github/stars/artstisen/marbles.nvim) ![](https://img.shields.io/github/last-commit/artstisen/marbles.nvim) ![](https://img.shields.io/github/commit-activity/y/artstisen/marbles.nvim)
+- [iharkatkavets/fcrypt.nvim](https://github.com/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/fcrypt.nvim)
 
 ## Privacy
 
