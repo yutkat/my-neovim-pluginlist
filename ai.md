@@ -476,7 +476,6 @@
 ## Cursor
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
-- [reachingforthejack/cursortab.nvim](https://github.com/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/stars/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/last-commit/reachingforthejack/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/reachingforthejack/cursortab.nvim)
 
 ## Code generate
 
