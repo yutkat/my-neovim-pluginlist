@@ -134,6 +134,8 @@
 - [68mschmitt/project_runner.nvim](https://github.com/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/stars/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/project_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/project_runner.nvim)
 - [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
 - [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
+- [kkrime/build.nvim](https://github.com/kkrime/build.nvim) ![](https://img.shields.io/github/stars/kkrime/build.nvim) ![](https://img.shields.io/github/last-commit/kkrime/build.nvim) ![](https://img.shields.io/github/commit-activity/y/kkrime/build.nvim)
+- [tuxy-streamer/tasks.nvim](https://github.com/tuxy-streamer/tasks.nvim) ![](https://img.shields.io/github/stars/tuxy-streamer/tasks.nvim) ![](https://img.shields.io/github/last-commit/tuxy-streamer/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tuxy-streamer/tasks.nvim)
 
 #### Shell
 

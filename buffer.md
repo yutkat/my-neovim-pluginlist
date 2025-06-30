@@ -82,6 +82,7 @@
 - [Kaikacy/buffers.nvim](https://github.com/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/stars/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/last-commit/Kaikacy/buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaikacy/buffers.nvim)
 - [NeverW8/nbuf](https://github.com/NeverW8/nbuf) ![](https://img.shields.io/github/stars/NeverW8/nbuf) ![](https://img.shields.io/github/last-commit/NeverW8/nbuf) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nbuf)
 - [enoatu/buffer-scope.nvim](https://github.com/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/stars/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/last-commit/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/commit-activity/y/enoatu/buffer-scope.nvim)
+- [vhsconnect/scope-gutter.nvim](https://github.com/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/stars/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/last-commit/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/vhsconnect/scope-gutter.nvim)
 
 ### Other Buffer Switcher
 
@@ -137,6 +138,7 @@
 - [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
 - [stuckinsnow/luabuff.nvim](https://github.com/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/luabuff.nvim)
 - [OleJoik/icebar.nvim](https://github.com/OleJoik/icebar.nvim) ![](https://img.shields.io/github/stars/OleJoik/icebar.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/icebar.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/icebar.nvim)
+- [WitHol/pitchfork.nvim](https://github.com/WitHol/pitchfork.nvim) ![](https://img.shields.io/github/stars/WitHol/pitchfork.nvim) ![](https://img.shields.io/github/last-commit/WitHol/pitchfork.nvim) ![](https://img.shields.io/github/commit-activity/y/WitHol/pitchfork.nvim)
 
 #### create
 

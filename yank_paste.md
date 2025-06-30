@@ -98,6 +98,7 @@
 - [viljarh/yanklist.nvim](https://github.com/viljarh/yanklist.nvim) ![](https://img.shields.io/github/stars/viljarh/yanklist.nvim) ![](https://img.shields.io/github/last-commit/viljarh/yanklist.nvim) ![](https://img.shields.io/github/commit-activity/y/viljarh/yanklist.nvim)
 - [perfectyang/view-register.nvim](https://github.com/perfectyang/view-register.nvim) ![](https://img.shields.io/github/stars/perfectyang/view-register.nvim) ![](https://img.shields.io/github/last-commit/perfectyang/view-register.nvim) ![](https://img.shields.io/github/commit-activity/y/perfectyang/view-register.nvim)
 - [mathiasuk/telescope-registers.nvim](https://github.com/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/stars/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/last-commit/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/commit-activity/y/mathiasuk/telescope-registers.nvim)
+- [yuki-yano/haritsuke.nvim](https://github.com/yuki-yano/haritsuke.nvim) ![](https://img.shields.io/github/stars/yuki-yano/haritsuke.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/haritsuke.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/haritsuke.nvim)
 
 ### Edit Register
 

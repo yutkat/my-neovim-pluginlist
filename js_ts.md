@@ -248,6 +248,7 @@
 #### Biome
 
 - [aabraham-proxmox/biome.nvim](https://github.com/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/stars/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/last-commit/aabraham-proxmox/biome.nvim) ![](https://img.shields.io/github/commit-activity/y/aabraham-proxmox/biome.nvim)
+- [AlexBeauchemin/biome-lint.nvim](https://github.com/AlexBeauchemin/biome-lint.nvim) ![](https://img.shields.io/github/stars/AlexBeauchemin/biome-lint.nvim) ![](https://img.shields.io/github/last-commit/AlexBeauchemin/biome-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBeauchemin/biome-lint.nvim)
 
 #### Vite
 
@@ -263,6 +264,7 @@
   
 - [ianjkaplan/shrub.nvim](https://github.com/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/shrub.nvim)
 - [ArielBenichou/grosse-patate.nvim](https://github.com/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/stars/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/last-commit/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/commit-activity/y/ArielBenichou/grosse-patate.nvim)
+- [TheApeMachine/caramba.nvim](https://github.com/TheApeMachine/caramba.nvim) ![](https://img.shields.io/github/stars/TheApeMachine/caramba.nvim) ![](https://img.shields.io/github/last-commit/TheApeMachine/caramba.nvim) ![](https://img.shields.io/github/commit-activity/y/TheApeMachine/caramba.nvim)
 
 ## HTML
 

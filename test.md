@@ -47,6 +47,7 @@
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) ![](https://img.shields.io/github/stars/nvim-neotest/neotest-python) ![](https://img.shields.io/github/last-commit/nvim-neotest/neotest-python) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/neotest-python)
 - [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest) ![](https://img.shields.io/github/stars/marilari88/neotest-vitest) ![](https://img.shields.io/github/last-commit/marilari88/neotest-vitest) ![](https://img.shields.io/github/commit-activity/y/marilari88/neotest-vitest)
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
+- [TimCreasman/neo-tree-tests-source.nvim](https://github.com/TimCreasman/neo-tree-tests-source.nvim) ![](https://img.shields.io/github/stars/TimCreasman/neo-tree-tests-source.nvim) ![](https://img.shields.io/github/last-commit/TimCreasman/neo-tree-tests-source.nvim) ![](https://img.shields.io/github/commit-activity/y/TimCreasman/neo-tree-tests-source.nvim)
 
 ## Test Coverage
 

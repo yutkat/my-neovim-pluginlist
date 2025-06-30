@@ -257,6 +257,7 @@
 - [nuhakala/nvim-simple-tables](https://github.com/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/stars/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/last-commit/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/commit-activity/y/nuhakala/nvim-simple-tables)
 - [bosha/md-table-navigation.nvim](https://github.com/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/stars/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/last-commit/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/bosha/md-table-navigation.nvim)
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/timantipov/md-table-tidy.nvim)
+- [tadashi-aikawa/table-format.nvim](https://github.com/tadashi-aikawa/table-format.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/table-format.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/table-format.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/table-format.nvim)
 
 #### Frontmatter
 
