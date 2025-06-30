@@ -206,6 +206,7 @@
 ### git push
 
 - [Amzd/dontforgit.nvim](https://github.com/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/stars/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/last-commit/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/commit-activity/y/Amzd/dontforgit.nvim)
+- [shahjalal-labs/git-smart-push.nvim](https://github.com/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/stars/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/last-commit/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/commit-activity/y/shahjalal-labs/git-smart-push.nvim)
 
 ### git checkout
 
@@ -367,7 +368,6 @@
 
 ### git ls-files
 
-
 ### git jump
 
 - [ohainle/gitjump.nvim](https://github.com/ohainle/gitjump.nvim) ![](https://img.shields.io/github/stars/ohainle/gitjump.nvim) ![](https://img.shields.io/github/last-commit/ohainle/gitjump.nvim) ![](https://img.shields.io/github/commit-activity/y/ohainle/gitjump.nvim)
@@ -399,6 +399,7 @@
 - [maladroitthief/jj-minidiff.nvim](https://github.com/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-minidiff.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-minidiff.nvim)
 - [maladroitthief/jj-picker.nvim](https://github.com/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-picker.nvim)
 - [NicolasGB/jj.nvim](https://github.com/NicolasGB/jj.nvim) ![](https://img.shields.io/github/stars/NicolasGB/jj.nvim) ![](https://img.shields.io/github/last-commit/NicolasGB/jj.nvim) ![](https://img.shields.io/github/commit-activity/y/NicolasGB/jj.nvim)
+- [ReKylee/jjui.nvim](https://github.com/ReKylee/jjui.nvim) ![](https://img.shields.io/github/stars/ReKylee/jjui.nvim) ![](https://img.shields.io/github/last-commit/ReKylee/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/ReKylee/jjui.nvim)
 
 ### diff
 

@@ -16,7 +16,7 @@
 
 <!-- tocstop -->
 
-### Code outline
+## Code outline
 
 - [nvimdev/lspsaga.nvim(outline)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
 - [hedyhli/outline.nvim](https://github.com/hedyhli/outline.nvim) ![](https://img.shields.io/github/stars/hedyhli/outline.nvim) ![](https://img.shields.io/github/last-commit/hedyhli/outline.nvim) ![](https://img.shields.io/github/commit-activity/y/hedyhli/outline.nvim)
@@ -38,12 +38,12 @@
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
 - [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
 
-### Definition
+## Definition
 
 - [FelipeJz/code-peek.nvim](https://github.com/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/stars/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/last-commit/FelipeJz/code-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/FelipeJz/code-peek.nvim)
 - [byzf/hoversplit.nvim](https://github.com/byzf/hoversplit.nvim) ![](https://img.shields.io/github/stars/byzf/hoversplit.nvim) ![](https://img.shields.io/github/last-commit/byzf/hoversplit.nvim) ![](https://img.shields.io/github/commit-activity/y/byzf/hoversplit.nvim)
 
-### Call Hierarchy
+## Call Hierarchy
 
 - [ldelossa/litee-calltree.nvim](https://github.com/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee-calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee-calltree.nvim)
 - [prasy-loyola/call-tree.nvim](https://github.com/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/stars/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/last-commit/prasy-loyola/call-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/prasy-loyola/call-tree.nvim)
@@ -53,12 +53,13 @@
 - [ravenxrz/call-graph.nvim](https://github.com/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/stars/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/last-commit/ravenxrz/call-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/ravenxrz/call-graph.nvim)
 - [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/stars/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/lafarr/hierarchy.nvim)
 - [barreiroleo/callgraph.nvim](https://github.com/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/stars/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/callgraph.nvim)
+- [Sboutabaa/call_mapper.nvim](https://github.com/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/stars/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/last-commit/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Sboutabaa/call_mapper.nvim)
 
-### Type Hierarchy
+## Type Hierarchy
 
 - [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/stars/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Slyces/hierarchy.nvim)
 
-### Breadcrumbs
+## Breadcrumbs
 
 - [SmiteshP/nvim-navic](https://github.com/SmiteshP/nvim-navic) ![](https://img.shields.io/github/stars/SmiteshP/nvim-navic) ![](https://img.shields.io/github/last-commit/SmiteshP/nvim-navic) ![](https://img.shields.io/github/commit-activity/y/SmiteshP/nvim-navic)
   - [vifrik/telescope-navic.nvim](https://github.com/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/stars/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/last-commit/vifrik/telescope-navic.nvim) ![](https://img.shields.io/github/commit-activity/y/vifrik/telescope-navic.nvim)
@@ -66,26 +67,25 @@
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/dropbar.nvim)
 - [nikola-vukicevic/breadcrumbs.nvim](https://github.com/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/stars/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/nikola-vukicevic/breadcrumbs.nvim)
 
-### Variable
+## Variable
 
 - [Clover83/definer.nvim](https://github.com/Clover83/definer.nvim) ![](https://img.shields.io/github/stars/Clover83/definer.nvim) ![](https://img.shields.io/github/last-commit/Clover83/definer.nvim) ![](https://img.shields.io/github/commit-activity/y/Clover83/definer.nvim)
 
-### Function
+## Function
 
 - [Beargruug/blink.nvim](https://github.com/Beargruug/blink.nvim) ![](https://img.shields.io/github/stars/Beargruug/blink.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/blink.nvim)
 - [mtkld/funview.nvim](https://github.com/mtkld/funview.nvim) ![](https://img.shields.io/github/stars/mtkld/funview.nvim) ![](https://img.shields.io/github/last-commit/mtkld/funview.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/funview.nvim)
 
-### Code Block Separater
+## Code Block Separater
 
-
-### Code visualize
+## Code visualize
 
 - [dundalek/bloat.nvim](https://github.com/dundalek/bloat.nvim) ![](https://img.shields.io/github/stars/dundalek/bloat.nvim) ![](https://img.shields.io/github/last-commit/dundalek/bloat.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/bloat.nvim)
 
-### CCN
+## CCN
 
 - [Cerceis/mark-memo.nvim](https://github.com/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/stars/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/last-commit/Cerceis/mark-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cerceis/mark-memo.nvim)
 
-### eldoc
+## eldoc
 
 - [sj2tpgk/nvim-eldoc](https://github.com/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/stars/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/last-commit/sj2tpgk/nvim-eldoc) ![](https://img.shields.io/github/commit-activity/y/sj2tpgk/nvim-eldoc)

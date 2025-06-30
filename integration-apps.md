@@ -38,6 +38,7 @@
   * [Cloud](#cloud)
     + [Terraform](#terraform)
       - [atmos](#atmos)
+    + [StackGen](#stackgen)
     + [Ansible](#ansible)
     + [Kustomize](#kustomize)
     + [AWS](#aws)
@@ -240,11 +241,16 @@
 
 - [RoseSecurity/atmos.nvim](https://github.com/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/stars/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/last-commit/RoseSecurity/atmos.nvim) ![](https://img.shields.io/github/commit-activity/y/RoseSecurity/atmos.nvim)
 
+#### StackGen
+
+- [stackgenhq/stackgen.nvim](https://github.com/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/stars/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/last-commit/stackgenhq/stackgen.nvim) ![](https://img.shields.io/github/commit-activity/y/stackgenhq/stackgen.nvim)
+
 #### Ansible
 
 - [mfussenegger/nvim-ansible](https://github.com/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/stars/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-ansible) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-ansible)
 - [HiPhish/ansible-doc.nvim](https://github.com/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/stars/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/ansible-doc.nvim)
 - [apayu/nvim-ansible-vault](https://github.com/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/stars/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/apayu/nvim-ansible-vault)
+- [Geertsky/ansible-doc.nvim](https://github.com/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/stars/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/ansible-doc.nvim)
 
 #### Kustomize
 
