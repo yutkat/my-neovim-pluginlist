@@ -6,6 +6,7 @@
   * [Project Switcher](#project-switcher)
   * [Project Root Detector](#project-root-detector)
 - [Project Template](#project-template)
+- [Project syntax](#project-syntax)
     + [Monorepo](#monorepo)
   * [Project Local Config](#project-local-config)
   * [Config switcher](#config-switcher)
@@ -80,6 +81,10 @@
 ### Project Template
 
 - [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
+
+### Project syntax
+
+- [HampusHauffman/peacock.nvim](https://github.com/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/peacock.nvim)
 
 ##### Monorepo
 
