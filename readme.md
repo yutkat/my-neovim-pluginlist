@@ -214,6 +214,7 @@
 ### modeline
 
 - [RoBaertschi/modeline2.nvim](https://github.com/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/stars/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/last-commit/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/commit-activity/y/RoBaertschi/modeline2.nvim)
+- [CheesyChocolate/modeline.nvim](https://github.com/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/stars/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/last-commit/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/commit-activity/y/CheesyChocolate/modeline.nvim)
 
 ### [Mode](./mode.md)
 

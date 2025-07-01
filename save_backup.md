@@ -29,6 +29,7 @@
 - [Enigama/miss.nvim](https://github.com/Enigama/miss.nvim) ![](https://img.shields.io/github/stars/Enigama/miss.nvim) ![](https://img.shields.io/github/last-commit/Enigama/miss.nvim) ![](https://img.shields.io/github/commit-activity/y/Enigama/miss.nvim)
 - [prashanthbabu07/auto-save.nvim](https://github.com/prashanthbabu07/auto-save.nvim) ![](https://img.shields.io/github/stars/prashanthbabu07/auto-save.nvim) ![](https://img.shields.io/github/last-commit/prashanthbabu07/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/prashanthbabu07/auto-save.nvim)
 - [syui/airsave.nvim](https://github.com/syui/airsave.nvim) ![](https://img.shields.io/github/stars/syui/airsave.nvim) ![](https://img.shields.io/github/last-commit/syui/airsave.nvim) ![](https://img.shields.io/github/commit-activity/y/syui/airsave.nvim)
+- [nxhung2304/auto-save.nvim](https://github.com/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/stars/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/auto-save.nvim)
 
 ### Edit history
 

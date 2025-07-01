@@ -176,6 +176,7 @@
 - [musayevchamil/nvim-todo](https://github.com/musayevchamil/nvim-todo) ![](https://img.shields.io/github/stars/musayevchamil/nvim-todo) ![](https://img.shields.io/github/last-commit/musayevchamil/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/musayevchamil/nvim-todo)
 - [saljic/workday.nvim](https://github.com/saljic/workday.nvim) ![](https://img.shields.io/github/stars/saljic/workday.nvim) ![](https://img.shields.io/github/last-commit/saljic/workday.nvim) ![](https://img.shields.io/github/commit-activity/y/saljic/workday.nvim)
 - [hasansujon786/super-kanban.nvim](https://github.com/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/stars/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/last-commit/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/hasansujon786/super-kanban.nvim)
+- [debsishu/floatodo.nvim](https://github.com/debsishu/floatodo.nvim) ![](https://img.shields.io/github/stars/debsishu/floatodo.nvim) ![](https://img.shields.io/github/last-commit/debsishu/floatodo.nvim) ![](https://img.shields.io/github/commit-activity/y/debsishu/floatodo.nvim)
 
 #### Taskwarrior
 
@@ -446,4 +447,6 @@
 - [juanibiapina/notes.nvim](https://github.com/juanibiapina/notes.nvim) ![](https://img.shields.io/github/stars/juanibiapina/notes.nvim) ![](https://img.shields.io/github/last-commit/juanibiapina/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/juanibiapina/notes.nvim)
 - [asward/scholar.nvim](https://github.com/asward/scholar.nvim) ![](https://img.shields.io/github/stars/asward/scholar.nvim) ![](https://img.shields.io/github/last-commit/asward/scholar.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/scholar.nvim)
 - [pankajgarkoti/daily-notes.nvim](https://github.com/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/stars/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/last-commit/pankajgarkoti/daily-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/pankajgarkoti/daily-notes.nvim)
+- [SilverofLight/MpvNote.nvim](https://github.com/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/stars/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/last-commit/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/commit-activity/y/SilverofLight/MpvNote.nvim)
+- [b-r-a-n/notes.nvim](https://github.com/b-r-a-n/notes.nvim) ![](https://img.shields.io/github/stars/b-r-a-n/notes.nvim) ![](https://img.shields.io/github/last-commit/b-r-a-n/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/b-r-a-n/notes.nvim)
 - [timhugh/bujo.nvim](https://github.com/timhugh/bujo.nvim) ![](https://img.shields.io/github/stars/timhugh/bujo.nvim) ![](https://img.shields.io/github/last-commit/timhugh/bujo.nvim) ![](https://img.shields.io/github/commit-activity/y/timhugh/bujo.nvim)
