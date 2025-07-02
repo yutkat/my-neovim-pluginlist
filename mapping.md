@@ -70,6 +70,7 @@
 - [echasnovski/mini.keymap](https://github.com/echasnovski/mini.keymap) ![](https://img.shields.io/github/stars/echasnovski/mini.keymap) ![](https://img.shields.io/github/last-commit/echasnovski/mini.keymap) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.keymap)
 - [mtkld/keypoint.nvim](https://github.com/mtkld/keypoint.nvim) ![](https://img.shields.io/github/stars/mtkld/keypoint.nvim) ![](https://img.shields.io/github/last-commit/mtkld/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/keypoint.nvim)
 - [mtkld/dynkey.nvim](https://github.com/mtkld/dynkey.nvim) ![](https://img.shields.io/github/stars/mtkld/dynkey.nvim) ![](https://img.shields.io/github/last-commit/mtkld/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/dynkey.nvim)
+- [va9iff/lil](https://github.com/va9iff/lil) ![](https://img.shields.io/github/stars/va9iff/lil) ![](https://img.shields.io/github/last-commit/va9iff/lil) ![](https://img.shields.io/github/commit-activity/y/va9iff/lil)
 
 ### instant mapping
 

@@ -350,6 +350,7 @@
 
 - [carlbeattie2000/nvim-sonar-review](https://github.com/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/stars/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/last-commit/carlbeattie2000/nvim-sonar-review) ![](https://img.shields.io/github/commit-activity/y/carlbeattie2000/nvim-sonar-review)
 - [iamkarasik/sonarqube.nvim](https://github.com/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/stars/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/last-commit/iamkarasik/sonarqube.nvim) ![](https://img.shields.io/github/commit-activity/y/iamkarasik/sonarqube.nvim)
+- [sjgjones/nvim-sonar](https://github.com/sjgjones/nvim-sonar) ![](https://img.shields.io/github/stars/sjgjones/nvim-sonar) ![](https://img.shields.io/github/last-commit/sjgjones/nvim-sonar) ![](https://img.shields.io/github/commit-activity/y/sjgjones/nvim-sonar)
 
 ### GLPI
 

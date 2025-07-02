@@ -164,6 +164,7 @@
 #### Gemini CLI
 
 - [ivanlee1999/gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/stars/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanlee1999/gemini-cli.nvim)
+- [marcinjahn/gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/stars/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/marcinjahn/gemini-cli.nvim)
 
 ### Multi LLM
 
@@ -496,6 +497,7 @@
 - [james1236/backseat.nvim](https://github.com/james1236/backseat.nvim) ![](https://img.shields.io/github/stars/james1236/backseat.nvim) ![](https://img.shields.io/github/last-commit/james1236/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/james1236/backseat.nvim)
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 - [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)
+- [choplin/code-review.nvim](https://github.com/choplin/code-review.nvim) ![](https://img.shields.io/github/stars/choplin/code-review.nvim) ![](https://img.shields.io/github/last-commit/choplin/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/choplin/code-review.nvim)
 
 ## Documentation
 
