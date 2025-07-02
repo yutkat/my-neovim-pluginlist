@@ -51,6 +51,7 @@
 - [YounesElhjouji/nvim-copy](https://github.com/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/stars/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/last-commit/YounesElhjouji/nvim-copy) ![](https://img.shields.io/github/commit-activity/y/YounesElhjouji/nvim-copy)
 - [AndreiNekrasOn/pinned.nvim](https://github.com/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/stars/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/last-commit/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreiNekrasOn/pinned.nvim)
 - [herisetiawan00/eskopi.nvim](https://github.com/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/eskopi.nvim)
+- [BorissovAnton/copy-all-buffers.nvim](https://github.com/BorissovAnton/copy-all-buffers.nvim) ![](https://img.shields.io/github/stars/BorissovAnton/copy-all-buffers.nvim) ![](https://img.shields.io/github/last-commit/BorissovAnton/copy-all-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/BorissovAnton/copy-all-buffers.nvim)
 
 ### yank highlight
 

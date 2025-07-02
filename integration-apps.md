@@ -208,6 +208,7 @@
 #### SonarLint
 
 - [alnav3/sonarlint.nvim](https://github.com/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/stars/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/last-commit/alnav3/sonarlint.nvim) ![](https://img.shields.io/github/commit-activity/y/alnav3/sonarlint.nvim)
+- [sjgjones/nvim-sonar](https://github.com/sjgjones/nvim-sonar) ![](https://img.shields.io/github/stars/sjgjones/nvim-sonar) ![](https://img.shields.io/github/last-commit/sjgjones/nvim-sonar) ![](https://img.shields.io/github/commit-activity/y/sjgjones/nvim-sonar)
 
 #### Kafka
 
