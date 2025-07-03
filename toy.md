@@ -33,6 +33,7 @@
   * [Religion](#religion)
     + [Judaism](#judaism)
     + [Bible](#bible)
+    + [Muslim](#muslim)
 
 <!-- tocstop -->
 
@@ -146,6 +147,7 @@
 - [michaelstrefeler/peptalk.nvim](https://github.com/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/stars/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/last-commit/michaelstrefeler/peptalk.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelstrefeler/peptalk.nvim)
 - [RileyGabrielson/inspire.nvim](https://github.com/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/stars/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/last-commit/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/commit-activity/y/RileyGabrielson/inspire.nvim)
 - [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/famous-quotes.nvim)
+- [ingenarel/randomtips-nvim](https://github.com/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/stars/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/last-commit/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/randomtips-nvim)
 
 #### Tips
 

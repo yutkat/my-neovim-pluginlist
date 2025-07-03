@@ -116,6 +116,7 @@
 - [amirrezaask/nvim-terminal](https://github.com/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/stars/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/last-commit/amirrezaask/nvim-terminal) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/nvim-terminal)
 - [carldaws/surface.nvim](https://github.com/carldaws/surface.nvim) ![](https://img.shields.io/github/stars/carldaws/surface.nvim) ![](https://img.shields.io/github/last-commit/carldaws/surface.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/surface.nvim)
 - [ShiftyGames/shifty-terminals.nvim](https://github.com/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/stars/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/last-commit/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/ShiftyGames/shifty-terminals.nvim)
+- [ingenarel/smart-term.nvim](https://github.com/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/stars/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/smart-term.nvim)
 
 ### Edit
 

@@ -72,6 +72,7 @@
   * [Jekyll](#jekyll)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
+- [Johnny Decimal](#johnny-decimal)
 
 <!-- tocstop -->
 
@@ -542,3 +543,7 @@
 ## Dadoot
 
 - [ZZU1U/dadoot.nvim](https://github.com/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/stars/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/last-commit/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/commit-activity/y/ZZU1U/dadoot.nvim)
+
+## Johnny Decimal
+
+- [mahyarmirrashed/jdd.nvim](https://github.com/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/jdd.nvim)

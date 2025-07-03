@@ -111,6 +111,8 @@
     + [Bril](#bril)
     + [Ty](#ty)
     + [D2](#d2)
+    + [Polarity](#polarity)
+    + [HolyC](#holyc)
     + [Fe](#fe)
     + [CoNLL-U](#conll-u)
     + [Koan](#koan)
@@ -242,6 +244,7 @@
 - [Uniyo-Ltd/nvim-flutter-tdd](https://github.com/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/stars/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/last-commit/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/commit-activity/y/Uniyo-Ltd/nvim-flutter-tdd)
 - [rithikjain/flutter-freezed.nvim](https://github.com/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/stars/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/last-commit/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/commit-activity/y/rithikjain/flutter-freezed.nvim)
 - [wasabeef/melos.nvim](https://github.com/wasabeef/melos.nvim) ![](https://img.shields.io/github/stars/wasabeef/melos.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/melos.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/melos.nvim)
+- [urazmaxambetovserik/flutter-hot.nvim](https://github.com/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/stars/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/last-commit/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/commit-activity/y/urazmaxambetovserik/flutter-hot.nvim)
 
 #### Clojure
 
@@ -632,6 +635,14 @@
 #### D2
 
 - [linw1995/nvim-treesitter-d2](https://github.com/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/stars/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/last-commit/linw1995/nvim-treesitter-d2) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-treesitter-d2)
+
+#### Polarity
+
+- [rabuu/polarity.nvim](https://github.com/rabuu/polarity.nvim) ![](https://img.shields.io/github/stars/rabuu/polarity.nvim) ![](https://img.shields.io/github/last-commit/rabuu/polarity.nvim) ![](https://img.shields.io/github/commit-activity/y/rabuu/polarity.nvim)
+
+#### HolyC
+
+- [adevdoingdevthings/holyc-formatter.nvim](https://github.com/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/stars/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/last-commit/adevdoingdevthings/holyc-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/adevdoingdevthings/holyc-formatter.nvim)
 
 #### Fe
 
