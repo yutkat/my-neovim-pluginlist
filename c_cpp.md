@@ -211,6 +211,7 @@
 
 - [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/stars/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/last-commit/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/commit-activity/y/anurag3301/nvim-platformio.lua)
 - [beckboan/platformio.nvim](https://github.com/beckboan/platformio.nvim) ![](https://img.shields.io/github/stars/beckboan/platformio.nvim) ![](https://img.shields.io/github/last-commit/beckboan/platformio.nvim) ![](https://img.shields.io/github/commit-activity/y/beckboan/platformio.nvim)
+- [sbatin/platformio.nvim](https://github.com/sbatin/platformio.nvim) ![](https://img.shields.io/github/stars/sbatin/platformio.nvim) ![](https://img.shields.io/github/last-commit/sbatin/platformio.nvim) ![](https://img.shields.io/github/commit-activity/y/sbatin/platformio.nvim)
 
 ## ASM
 
