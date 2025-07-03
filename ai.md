@@ -207,6 +207,8 @@
 - [kylesnowschwartz/prompt-tower.nvim](https://github.com/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/prompt-tower.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/prompt-tower.nvim)
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
+- [Evilbunz-sol/ai-coding-assistant.nvim](https://github.com/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/stars/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/last-commit/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/Evilbunz-sol/ai-coding-assistant.nvim)
+- [suverino/seallm.nvim](https://github.com/suverino/seallm.nvim) ![](https://img.shields.io/github/stars/suverino/seallm.nvim) ![](https://img.shields.io/github/last-commit/suverino/seallm.nvim) ![](https://img.shields.io/github/commit-activity/y/suverino/seallm.nvim)
 
 #### mods
 
@@ -301,6 +303,7 @@
   - [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
+- [sivchari/claude-code.nvim](https://github.com/sivchari/claude-code.nvim) ![](https://img.shields.io/github/stars/sivchari/claude-code.nvim) ![](https://img.shields.io/github/last-commit/sivchari/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/sivchari/claude-code.nvim)
 
 ### DeepSeek
 

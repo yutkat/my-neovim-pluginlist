@@ -549,6 +549,7 @@
 - [mskelton/live-reload.nvim](https://github.com/mskelton/live-reload.nvim) ![](https://img.shields.io/github/stars/mskelton/live-reload.nvim) ![](https://img.shields.io/github/last-commit/mskelton/live-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/live-reload.nvim)
 - [Little-Captain/reloader.nvim](https://github.com/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/stars/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/last-commit/Little-Captain/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/Little-Captain/reloader.nvim)
 - [Zeioth/hot-reload.nvim](https://github.com/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/stars/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/hot-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/hot-reload.nvim)
+- [urazmaxambetovserik/flutter-hot.nvim](https://github.com/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/stars/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/last-commit/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/commit-activity/y/urazmaxambetovserik/flutter-hot.nvim)
 
 ### [Package Manager](./package-manager.md)
 
