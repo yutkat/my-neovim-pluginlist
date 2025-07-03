@@ -293,7 +293,6 @@
 
 ### refresh
 
-- [jkallio/auto-refresh-messages.nvim](https://github.com/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/stars/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/last-commit/jkallio/auto-refresh-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/jkallio/auto-refresh-messages.nvim)
 
 ### Buffer info
 

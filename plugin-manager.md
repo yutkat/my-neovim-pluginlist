@@ -64,7 +64,6 @@
 - [neo451/lit.nvim](https://github.com/neo451/lit.nvim) ![](https://img.shields.io/github/stars/neo451/lit.nvim) ![](https://img.shields.io/github/last-commit/neo451/lit.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/lit.nvim)
 - [NewDawn0/loader.nvim](https://github.com/NewDawn0/loader.nvim) ![](https://img.shields.io/github/stars/NewDawn0/loader.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/loader.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/loader.nvim)
 - [TheBlob42/alpacka.nvim](https://github.com/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/stars/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/alpacka.nvim)
-- [MihneaTs1/plg.nvim](https://github.com/MihneaTs1/plg.nvim) ![](https://img.shields.io/github/stars/MihneaTs1/plg.nvim) ![](https://img.shields.io/github/last-commit/MihneaTs1/plg.nvim) ![](https://img.shields.io/github/commit-activity/y/MihneaTs1/plg.nvim)
 
 ### Update checker
 

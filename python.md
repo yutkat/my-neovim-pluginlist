@@ -75,7 +75,6 @@
 - [mohammad5305/pytest.nvim](https://github.com/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/stars/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/last-commit/mohammad5305/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammad5305/pytest.nvim)
 - [manyids2/pyhelp.nvim](https://github.com/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/stars/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/last-commit/manyids2/pyhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/manyids2/pyhelp.nvim)
 - [jeff-dh/tshunkyPy.nvim](https://github.com/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/stars/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/last-commit/jeff-dh/tshunkyPy.nvim) ![](https://img.shields.io/github/commit-activity/y/jeff-dh/tshunkyPy.nvim)
-- [naddeoa/nvim-pytest](https://github.com/naddeoa/nvim-pytest) ![](https://img.shields.io/github/stars/naddeoa/nvim-pytest) ![](https://img.shields.io/github/last-commit/naddeoa/nvim-pytest) ![](https://img.shields.io/github/commit-activity/y/naddeoa/nvim-pytest)
 - [Sombrer0Dev/pytest.nvim](https://github.com/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/stars/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/last-commit/Sombrer0Dev/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrer0Dev/pytest.nvim)
 - [jjvanvuren/copybreadcrumbs.nvim](https://github.com/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/copybreadcrumbs.nvim)
 - [jedi-knights/pytest.nvim](https://github.com/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/stars/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/pytest.nvim)
@@ -207,7 +206,6 @@
 
 - [hongzio/visidf.nvim](https://github.com/hongzio/visidf.nvim) ![](https://img.shields.io/github/stars/hongzio/visidf.nvim) ![](https://img.shields.io/github/last-commit/hongzio/visidf.nvim) ![](https://img.shields.io/github/commit-activity/y/hongzio/visidf.nvim)
 - [nelnn/visidataframe.nvim](https://github.com/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/stars/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/last-commit/nelnn/visidataframe.nvim) ![](https://img.shields.io/github/commit-activity/y/nelnn/visidataframe.nvim)
-- [JozefRivest/positron-viewer.nvim](https://github.com/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/stars/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/last-commit/JozefRivest/positron-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/JozefRivest/positron-viewer.nvim)
 
 ### Pytorch
 
