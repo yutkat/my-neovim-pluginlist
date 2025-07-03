@@ -435,7 +435,6 @@
 
 #### Gno
 
-- [x1unix/gno.nvim](https://github.com/x1unix/gno.nvim) ![](https://img.shields.io/github/stars/x1unix/gno.nvim) ![](https://img.shields.io/github/last-commit/x1unix/gno.nvim) ![](https://img.shields.io/github/commit-activity/y/x1unix/gno.nvim)
 
 #### Agda
 
