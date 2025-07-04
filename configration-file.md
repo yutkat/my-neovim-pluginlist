@@ -56,6 +56,7 @@
 - [JFryy/keytrail.nvim](https://github.com/JFryy/keytrail.nvim) ![](https://img.shields.io/github/stars/JFryy/keytrail.nvim) ![](https://img.shields.io/github/last-commit/JFryy/keytrail.nvim) ![](https://img.shields.io/github/commit-activity/y/JFryy/keytrail.nvim)
 - [rhettjay/jsonifyEnv.nvim](https://github.com/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/stars/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/last-commit/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/commit-activity/y/rhettjay/jsonifyEnv.nvim)
 - [estevesnp/jq.nvim](https://github.com/estevesnp/jq.nvim) ![](https://img.shields.io/github/stars/estevesnp/jq.nvim) ![](https://img.shields.io/github/last-commit/estevesnp/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/estevesnp/jq.nvim)
+- [lobaton-nvim/nvim-jwt-ui](https://github.com/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/stars/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/last-commit/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/commit-activity/y/lobaton-nvim/nvim-jwt-ui)
 
 #### fx
 

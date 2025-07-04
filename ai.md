@@ -165,6 +165,7 @@
 
 - [ivanlee1999/gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/stars/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanlee1999/gemini-cli.nvim)
 - [marcinjahn/gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/stars/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/marcinjahn/gemini-cli.nvim)
+- [jonroosevelt/gemini.nvim](https://github.com/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/stars/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/last-commit/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/jonroosevelt/gemini.nvim)
 
 ### Multi LLM
 
@@ -234,6 +235,7 @@
   - [justinhj/chatty-ai-service-xai.nvim](https://github.com/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/stars/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/last-commit/justinhj/chatty-ai-service-xai.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/chatty-ai-service-xai.nvim)
 - [georg3tom/llama.nvim](https://github.com/georg3tom/llama.nvim) ![](https://img.shields.io/github/stars/georg3tom/llama.nvim) ![](https://img.shields.io/github/last-commit/georg3tom/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/georg3tom/llama.nvim)
 - [heliumsneakers/apollo.nvim](https://github.com/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/apollo.nvim)
+- [m1sh4k/http-llm-client.nvim](https://github.com/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/stars/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/last-commit/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/commit-activity/y/m1sh4k/http-llm-client.nvim)
 
 ### Ollama
 
@@ -303,6 +305,7 @@
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
 - [sivchari/claude-code.nvim](https://github.com/sivchari/claude-code.nvim) ![](https://img.shields.io/github/stars/sivchari/claude-code.nvim) ![](https://img.shields.io/github/last-commit/sivchari/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/sivchari/claude-code.nvim)
+- [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/stars/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/last-commit/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-rodrigo/claude-code.nvim)
 
 ### DeepSeek
 
