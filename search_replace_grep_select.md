@@ -17,6 +17,7 @@
   * [File search](#file-search)
 - [Replace](#replace)
   * [Rename](#rename)
+  * [Replace character](#replace-character)
 - [Grep](#grep)
   * [AST (Semantic search)](#ast-semantic-search)
   * [Zoket(google)](#zoketgoogle)
@@ -149,6 +150,10 @@
 - [seasonalmatcha/symbol-renamer.nvim](https://github.com/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/stars/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/last-commit/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/seasonalmatcha/symbol-renamer.nvim)
 - [mei28/instant-rename.nvim](https://github.com/mei28/instant-rename.nvim) ![](https://img.shields.io/github/stars/mei28/instant-rename.nvim) ![](https://img.shields.io/github/last-commit/mei28/instant-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/instant-rename.nvim)
 
+### Replace character
+
+- [gi8lino/cleantext.nvim](https://github.com/gi8lino/cleantext.nvim) ![](https://img.shields.io/github/stars/gi8lino/cleantext.nvim) ![](https://img.shields.io/github/last-commit/gi8lino/cleantext.nvim) ![](https://img.shields.io/github/commit-activity/y/gi8lino/cleantext.nvim)
+
 ## Grep
 
 - [axieax/urlview.nvim](https://github.com/axieax/urlview.nvim) ![](https://img.shields.io/github/stars/axieax/urlview.nvim) ![](https://img.shields.io/github/last-commit/axieax/urlview.nvim) ![](https://img.shields.io/github/commit-activity/y/axieax/urlview.nvim)
@@ -184,6 +189,7 @@
 - [ElanMedoff/rg-glob-builder.nvim](https://github.com/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/rg-glob-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/rg-glob-builder.nvim)
 - [stuckinsnow/rg-lua.nvim](https://github.com/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/rg-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/rg-lua.nvim)
 - [mtkld/rxgrep.nvim](https://github.com/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/stars/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/last-commit/mtkld/rxgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/rxgrep.nvim)
+- [Saverio976/telescope-cross-live-grep.nvim](https://github.com/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/stars/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/telescope-cross-live-grep.nvim)
 
 ### AST (Semantic search)
 

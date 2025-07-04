@@ -114,6 +114,7 @@
 - [alexhokl/nvim-md-open-link](https://github.com/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-open-link) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-open-link)
 - [samerickson/markdown-title-fetch.nvim](https://github.com/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/stars/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/last-commit/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/samerickson/markdown-title-fetch.nvim)
 - [Praczet/markdown-links.nvim](https://github.com/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/stars/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/markdown-links.nvim)
+- [nounder/markdown-snip.nvim](https://github.com/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/stars/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/last-commit/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/markdown-snip.nvim)
 
 #### Markdown header
 
@@ -126,6 +127,7 @@
 - [hyogoa2c/mdheadnums.nvim](https://github.com/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/stars/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/last-commit/hyogoa2c/mdheadnums.nvim) ![](https://img.shields.io/github/commit-activity/y/hyogoa2c/mdheadnums.nvim)
 - [nick-skriabin/timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/timeline.nvim)
 - [Fireond/number-markdown.nvim](https://github.com/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/stars/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/last-commit/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/Fireond/number-markdown.nvim)
+- [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
 
 ##### Title explorer
 
