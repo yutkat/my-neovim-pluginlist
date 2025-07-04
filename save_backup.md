@@ -41,6 +41,7 @@
 - [Enrique-ZA/nvim-hooklinesinker](https://github.com/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/stars/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/last-commit/Enrique-ZA/nvim-hooklinesinker) ![](https://img.shields.io/github/commit-activity/y/Enrique-ZA/nvim-hooklinesinker)
 - [Myzel394/telescope-last-positions.nvim](https://github.com/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/stars/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/telescope-last-positions.nvim)
 - [akmassey/preserve.nvim](https://github.com/akmassey/preserve.nvim) ![](https://img.shields.io/github/stars/akmassey/preserve.nvim) ![](https://img.shields.io/github/last-commit/akmassey/preserve.nvim) ![](https://img.shields.io/github/commit-activity/y/akmassey/preserve.nvim)
+- [Abhayb12/lastplace.nvim](https://github.com/Abhayb12/lastplace.nvim) ![](https://img.shields.io/github/stars/Abhayb12/lastplace.nvim) ![](https://img.shields.io/github/last-commit/Abhayb12/lastplace.nvim) ![](https://img.shields.io/github/commit-activity/y/Abhayb12/lastplace.nvim)
 
 ### Create directory
 

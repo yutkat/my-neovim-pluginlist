@@ -280,6 +280,7 @@
 #### Styling
 
 - [antonk52/markdowny.nvim](https://github.com/antonk52/markdowny.nvim) ![](https://img.shields.io/github/stars/antonk52/markdowny.nvim) ![](https://img.shields.io/github/last-commit/antonk52/markdowny.nvim) ![](https://img.shields.io/github/commit-activity/y/antonk52/markdowny.nvim)
+- [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
 
 #### Markdown checkbox
 

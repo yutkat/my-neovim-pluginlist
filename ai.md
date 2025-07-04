@@ -208,6 +208,7 @@
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
 - [Evilbunz-sol/ai-coding-assistant.nvim](https://github.com/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/stars/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/last-commit/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/Evilbunz-sol/ai-coding-assistant.nvim)
+- [m1sh4k/http-llm-client.nvim](https://github.com/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/stars/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/last-commit/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/commit-activity/y/m1sh4k/http-llm-client.nvim)
 
 #### mods
 
@@ -303,6 +304,7 @@
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
 - [sivchari/claude-code.nvim](https://github.com/sivchari/claude-code.nvim) ![](https://img.shields.io/github/stars/sivchari/claude-code.nvim) ![](https://img.shields.io/github/last-commit/sivchari/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/sivchari/claude-code.nvim)
+- [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/stars/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/last-commit/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-rodrigo/claude-code.nvim)
 
 ### DeepSeek
 
