@@ -292,6 +292,7 @@
 - [senchpimy/liverserver.nvim](https://github.com/senchpimy/liverserver.nvim) ![](https://img.shields.io/github/stars/senchpimy/liverserver.nvim) ![](https://img.shields.io/github/last-commit/senchpimy/liverserver.nvim) ![](https://img.shields.io/github/commit-activity/y/senchpimy/liverserver.nvim)
 - [IllicitFrog/html-preview.nvim](https://github.com/IllicitFrog/html-preview.nvim) ![](https://img.shields.io/github/stars/IllicitFrog/html-preview.nvim) ![](https://img.shields.io/github/last-commit/IllicitFrog/html-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/IllicitFrog/html-preview.nvim)
 - [Ferchupessoadev/live-server.nvim](https://github.com/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/stars/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/last-commit/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Ferchupessoadev/live-server.nvim)
+- [edo1z/dev-server.nvim](https://github.com/edo1z/dev-server.nvim) ![](https://img.shields.io/github/stars/edo1z/dev-server.nvim) ![](https://img.shields.io/github/last-commit/edo1z/dev-server.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/dev-server.nvim)
 
 ### Static site
 
