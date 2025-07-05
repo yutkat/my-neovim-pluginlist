@@ -311,6 +311,7 @@
 
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
+- [Anderssi/assist.nvim](https://github.com/Anderssi/assist.nvim) ![](https://img.shields.io/github/stars/Anderssi/assist.nvim) ![](https://img.shields.io/github/last-commit/Anderssi/assist.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderssi/assist.nvim)
 
 ### Devin
 
@@ -340,6 +341,7 @@
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
 - [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
 - [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
+- [hungyiloo/nvaider.nvim](https://github.com/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/stars/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/last-commit/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/commit-activity/y/hungyiloo/nvaider.nvim)
 
 ### CodeGate
 
