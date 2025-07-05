@@ -136,6 +136,7 @@
 - [ram-rt/openvimai.nvim](https://github.com/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/stars/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/last-commit/ram-rt/openvimai.nvim) ![](https://img.shields.io/github/commit-activity/y/ram-rt/openvimai.nvim)
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
+- [Anderssi/assist.nvim](https://github.com/Anderssi/assist.nvim) ![](https://img.shields.io/github/stars/Anderssi/assist.nvim) ![](https://img.shields.io/github/last-commit/Anderssi/assist.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderssi/assist.nvim)
 
 #### Codex
 
@@ -340,6 +341,7 @@
 - [ezechukwu69/aidrun.nvim](https://github.com/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/aidrun.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/aidrun.nvim)
 - [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
 - [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
+- [hungyiloo/nvaider.nvim](https://github.com/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/stars/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/last-commit/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/commit-activity/y/hungyiloo/nvaider.nvim)
 
 ### CodeGate
 
@@ -503,6 +505,7 @@
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 - [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)
 - [choplin/code-review.nvim](https://github.com/choplin/code-review.nvim) ![](https://img.shields.io/github/stars/choplin/code-review.nvim) ![](https://img.shields.io/github/last-commit/choplin/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/choplin/code-review.nvim)
+- [KEY60228/reviewthem.nvim](https://github.com/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/stars/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/last-commit/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/commit-activity/y/KEY60228/reviewthem.nvim)
 
 ## Documentation
 

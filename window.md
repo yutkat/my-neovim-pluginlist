@@ -67,6 +67,7 @@
 - [haolian9/winswap.nvim](https://github.com/haolian9/winswap.nvim) ![](https://img.shields.io/github/stars/haolian9/winswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winswap.nvim)
 - [kuzb/winmng.nvim](https://github.com/kuzb/winmng.nvim) ![](https://img.shields.io/github/stars/kuzb/winmng.nvim) ![](https://img.shields.io/github/last-commit/kuzb/winmng.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/winmng.nvim)
 - [erreina/swap-buffers.nvim](https://github.com/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/stars/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/last-commit/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/erreina/swap-buffers.nvim)
+- [SpaceShaman/window-shuffler.nvim](https://github.com/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/stars/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/last-commit/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/commit-activity/y/SpaceShaman/window-shuffler.nvim)
 
 #### layout
 
