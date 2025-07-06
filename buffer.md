@@ -190,6 +190,7 @@
 - [lucattelli/pinner.nvim](https://github.com/lucattelli/pinner.nvim) ![](https://img.shields.io/github/stars/lucattelli/pinner.nvim) ![](https://img.shields.io/github/last-commit/lucattelli/pinner.nvim) ![](https://img.shields.io/github/commit-activity/y/lucattelli/pinner.nvim)
 - [yamazhen/oyen.nvim](https://github.com/yamazhen/oyen.nvim) ![](https://img.shields.io/github/stars/yamazhen/oyen.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/oyen.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/oyen.nvim)
 - [vikfroberg/fzf-mru.nvim](https://github.com/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/stars/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/last-commit/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/commit-activity/y/vikfroberg/fzf-mru.nvim)
+- [otavioschwanck/fzf-lua-enchanted-files](https://github.com/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-enchanted-files)
 
 ##### remote open
 

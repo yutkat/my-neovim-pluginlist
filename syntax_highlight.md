@@ -15,6 +15,7 @@
   * [Color picker](#color-picker)
   * [Color Creator](#color-creator)
   * [ANSI Colorize](#ansi-colorize)
+    + [ANSI Converter](#ansi-converter)
   * [Colorscheme switcher](#colorscheme-switcher)
   * [Colorscheme overwrite](#colorscheme-overwrite)
   * [Colorscheme export](#colorscheme-export)
@@ -121,6 +122,10 @@
 - [m00qek/baleia.nvim](https://github.com/m00qek/baleia.nvim) ![](https://img.shields.io/github/stars/m00qek/baleia.nvim) ![](https://img.shields.io/github/last-commit/m00qek/baleia.nvim) ![](https://img.shields.io/github/commit-activity/y/m00qek/baleia.nvim)
 - [haolian9/ansiesc.nvim](https://github.com/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/stars/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ansiesc.nvim)
 - [freddyJarva/hipe.nvim](https://github.com/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/stars/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/last-commit/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/commit-activity/y/freddyJarva/hipe.nvim)
+
+#### ANSI Converter
+
+- [jannis-baum/highlight2ansi.nvim](https://github.com/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/stars/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/last-commit/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/commit-activity/y/jannis-baum/highlight2ansi.nvim)
 
 ### Colorscheme switcher
 

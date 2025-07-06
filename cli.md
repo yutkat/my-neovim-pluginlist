@@ -11,6 +11,7 @@
       - [Docker Compose](#docker-compose)
   * [qemu](#qemu)
   * [Subversion](#subversion)
+  * [Rewind](#rewind)
   * [Yandex Arcadia](#yandex-arcadia)
   * [dotenv](#dotenv)
   * [direnv](#direnv)
@@ -113,6 +114,7 @@
 - [MyName7om/nvim-tmux-pwd](https://github.com/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/stars/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/last-commit/MyName7om/nvim-tmux-pwd) ![](https://img.shields.io/github/commit-activity/y/MyName7om/nvim-tmux-pwd)
 - [kkanden/tmux-sessionizer.nvim](https://github.com/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/stars/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/kkanden/tmux-sessionizer.nvim)
 - [yuki-yano/smart-tmux-nav.nvim](https://github.com/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-tmux-nav.nvim)
+- [chiendo97/tmux-buffer-picker.nvim](https://github.com/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/stars/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/tmux-buffer-picker.nvim)
 
 ##### tmux alternative
 
@@ -161,6 +163,10 @@
 #### Subversion
 
 - [HugoBde/subversigns.nvim](https://github.com/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/stars/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/last-commit/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/commit-activity/y/HugoBde/subversigns.nvim)
+
+#### Rewind
+
+- [davenicholson-xyz/rewind.nvim](https://github.com/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/stars/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/last-commit/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/commit-activity/y/davenicholson-xyz/rewind.nvim)
 
 #### Yandex Arcadia
 

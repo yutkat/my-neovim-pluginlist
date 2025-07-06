@@ -37,6 +37,7 @@
 - [steveslatky/vimcino](https://github.com/steveslatky/vimcino) ![](https://img.shields.io/github/stars/steveslatky/vimcino) ![](https://img.shields.io/github/last-commit/steveslatky/vimcino) ![](https://img.shields.io/github/commit-activity/y/steveslatky/vimcino)
 - [walkingshamrock/memory-game.nvim](https://github.com/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/memory-game.nvim)
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
+- [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
 
 ### Snake
 

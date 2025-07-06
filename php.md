@@ -26,6 +26,7 @@
 - [RicardoRamirezR/php-use-sort.nvim](https://github.com/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/stars/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/last-commit/RicardoRamirezR/php-use-sort.nvim) ![](https://img.shields.io/github/commit-activity/y/RicardoRamirezR/php-use-sort.nvim)
 - [praem90/neotest-docker-phpunit.nvim](https://github.com/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/stars/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/last-commit/praem90/neotest-docker-phpunit.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/neotest-docker-phpunit.nvim)
 - [RVxLab/php-composer.nvim](https://github.com/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/stars/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/last-commit/RVxLab/php-composer.nvim) ![](https://img.shields.io/github/commit-activity/y/RVxLab/php-composer.nvim)
+- [adibhanna/phprefactoring.nvim](https://github.com/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/stars/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/phprefactoring.nvim)
 
 ### test
 

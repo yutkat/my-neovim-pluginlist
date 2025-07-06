@@ -78,6 +78,7 @@
     + [Mojo](#mojo)
     + [Fram](#fram)
     + [NWScript](#nwscript)
+    + [Janet](#janet)
     + [Idris2](#idris2)
     + [MatLab](#matlab)
     + [Cell](#cell)
@@ -154,6 +155,7 @@
 - [speed2exe/zig-comp-diag.nvim](https://github.com/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/stars/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/last-commit/speed2exe/zig-comp-diag.nvim) ![](https://img.shields.io/github/commit-activity/y/speed2exe/zig-comp-diag.nvim)
 - [Libsod/zig-tools.nvim](https://github.com/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/stars/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Libsod/zig-tools.nvim)
 - [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/stars/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/last-commit/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/zig-lamp)
+- [benomahony/ziglings.nvim](https://github.com/benomahony/ziglings.nvim) ![](https://img.shields.io/github/stars/benomahony/ziglings.nvim) ![](https://img.shields.io/github/last-commit/benomahony/ziglings.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/ziglings.nvim)
 
 #### Nix
 
@@ -161,6 +163,7 @@
 - [figsoda/nix-develop.nvim](https://github.com/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/stars/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/last-commit/figsoda/nix-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/figsoda/nix-develop.nvim)
 - [willruggiano/nix-flake-prefetch.nvim](https://github.com/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/stars/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/last-commit/willruggiano/nix-flake-prefetch.nvim) ![](https://img.shields.io/github/commit-activity/y/willruggiano/nix-flake-prefetch.nvim)
 - [reo101/nix-update.nvim](https://github.com/reo101/nix-update.nvim) ![](https://img.shields.io/github/stars/reo101/nix-update.nvim) ![](https://img.shields.io/github/last-commit/reo101/nix-update.nvim) ![](https://img.shields.io/github/commit-activity/y/reo101/nix-update.nvim)
+- [withoutboat/nvim-flake](https://github.com/withoutboat/nvim-flake) ![](https://img.shields.io/github/stars/withoutboat/nvim-flake) ![](https://img.shields.io/github/last-commit/withoutboat/nvim-flake) ![](https://img.shields.io/github/commit-activity/y/withoutboat/nvim-flake)
 
 #### C#
 
@@ -501,6 +504,10 @@
 #### NWScript
 
 - [StefanoND/nwscript-ee-lsp.nvim](https://github.com/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/stars/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/last-commit/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanoND/nwscript-ee-lsp.nvim)
+
+#### Janet
+
+- [alexalemi/judge.nvim](https://github.com/alexalemi/judge.nvim) ![](https://img.shields.io/github/stars/alexalemi/judge.nvim) ![](https://img.shields.io/github/last-commit/alexalemi/judge.nvim) ![](https://img.shields.io/github/commit-activity/y/alexalemi/judge.nvim)
 
 #### Idris2
 
