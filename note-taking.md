@@ -176,6 +176,7 @@
 - [musayevchamil/nvim-todo](https://github.com/musayevchamil/nvim-todo) ![](https://img.shields.io/github/stars/musayevchamil/nvim-todo) ![](https://img.shields.io/github/last-commit/musayevchamil/nvim-todo) ![](https://img.shields.io/github/commit-activity/y/musayevchamil/nvim-todo)
 - [saljic/workday.nvim](https://github.com/saljic/workday.nvim) ![](https://img.shields.io/github/stars/saljic/workday.nvim) ![](https://img.shields.io/github/last-commit/saljic/workday.nvim) ![](https://img.shields.io/github/commit-activity/y/saljic/workday.nvim)
 - [hasansujon786/super-kanban.nvim](https://github.com/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/stars/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/last-commit/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/hasansujon786/super-kanban.nvim)
+- [thjbdvlt/todo.nvim](https://github.com/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/todo.nvim)
 
 #### Taskwarrior
 

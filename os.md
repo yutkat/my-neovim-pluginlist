@@ -50,7 +50,6 @@
 
 #### kernel
 
-
 #### Window Manager (Desktop Manager)
 
 - [amedoeyes/nvim-winnav](https://github.com/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/stars/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/last-commit/amedoeyes/nvim-winnav) ![](https://img.shields.io/github/commit-activity/y/amedoeyes/nvim-winnav)
