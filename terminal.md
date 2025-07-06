@@ -163,4 +163,5 @@
 
 ### ansi escape sequence
 
+- [jannis-baum/highlight2ansi.nvim](https://github.com/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/stars/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/last-commit/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/commit-activity/y/jannis-baum/highlight2ansi.nvim)
 - [samsze0/terminal-filetype.nvim](https://github.com/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/stars/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/last-commit/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/terminal-filetype.nvim)

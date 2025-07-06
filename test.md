@@ -29,6 +29,7 @@
 - [quolpr/quicktest.nvim](https://github.com/quolpr/quicktest.nvim) ![](https://img.shields.io/github/stars/quolpr/quicktest.nvim) ![](https://img.shields.io/github/last-commit/quolpr/quicktest.nvim) ![](https://img.shields.io/github/commit-activity/y/quolpr/quicktest.nvim)
 - [fcoury/vial.nvim](https://github.com/fcoury/vial.nvim) ![](https://img.shields.io/github/stars/fcoury/vial.nvim) ![](https://img.shields.io/github/last-commit/fcoury/vial.nvim) ![](https://img.shields.io/github/commit-activity/y/fcoury/vial.nvim)
 - [LiXuanqi/testx.nvim](https://github.com/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/testx.nvim)
+- [alexalemi/judge.nvim](https://github.com/alexalemi/judge.nvim) ![](https://img.shields.io/github/stars/alexalemi/judge.nvim) ![](https://img.shields.io/github/last-commit/alexalemi/judge.nvim) ![](https://img.shields.io/github/commit-activity/y/alexalemi/judge.nvim)
 
 ### Test file
 

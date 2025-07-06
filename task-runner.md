@@ -201,6 +201,7 @@
 - [lizeeeee9527/SampleRunner.nvim](https://github.com/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/stars/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/last-commit/lizeeeee9527/SampleRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/lizeeeee9527/SampleRunner.nvim)
 - [Paul8800/nvim-term-runner](https://github.com/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/stars/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/last-commit/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/commit-activity/y/Paul8800/nvim-term-runner)
 - [rltyty/runit.nvim](https://github.com/rltyty/runit.nvim) ![](https://img.shields.io/github/stars/rltyty/runit.nvim) ![](https://img.shields.io/github/last-commit/rltyty/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/rltyty/runit.nvim)
+- [mikromel/rf-runner.nvim](https://github.com/mikromel/rf-runner.nvim) ![](https://img.shields.io/github/stars/mikromel/rf-runner.nvim) ![](https://img.shields.io/github/last-commit/mikromel/rf-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mikromel/rf-runner.nvim)
 
 ### :make style
 

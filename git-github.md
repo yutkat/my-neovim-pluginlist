@@ -147,6 +147,7 @@
 - [Mauritz8/gitstatus.nvim](https://github.com/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/stars/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/last-commit/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/Mauritz8/gitstatus.nvim)
 - [aaaaargZombies/telescope-autolaunch.nvim](https://github.com/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/telescope-autolaunch.nvim)
 - [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
+- [KashifBilal007/oil-git.nvim](https://github.com/KashifBilal007/oil-git.nvim) ![](https://img.shields.io/github/stars/KashifBilal007/oil-git.nvim) ![](https://img.shields.io/github/last-commit/KashifBilal007/oil-git.nvim) ![](https://img.shields.io/github/commit-activity/y/KashifBilal007/oil-git.nvim)
 
 ### git add
 

@@ -81,6 +81,7 @@
 - [gerazov/wpm.nvim](https://github.com/gerazov/wpm.nvim) ![](https://img.shields.io/github/stars/gerazov/wpm.nvim) ![](https://img.shields.io/github/last-commit/gerazov/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/gerazov/wpm.nvim)
 - [nvzone/typr](https://github.com/nvzone/typr) ![](https://img.shields.io/github/stars/nvzone/typr) ![](https://img.shields.io/github/last-commit/nvzone/typr) ![](https://img.shields.io/github/commit-activity/y/nvzone/typr)
 - [Jozefhdez/touchtype.nvim](https://github.com/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/stars/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/last-commit/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/commit-activity/y/Jozefhdez/touchtype.nvim)
+- [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
 
 ### FiveM
 

@@ -306,6 +306,7 @@
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
 - [sivchari/claude-code.nvim](https://github.com/sivchari/claude-code.nvim) ![](https://img.shields.io/github/stars/sivchari/claude-code.nvim) ![](https://img.shields.io/github/last-commit/sivchari/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/sivchari/claude-code.nvim)
 - [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/stars/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/last-commit/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-rodrigo/claude-code.nvim)
+- [jeremiahsmithdev/claude-cli.nvim](https://github.com/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/stars/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/claude-cli.nvim)
 
 ### DeepSeek
 
