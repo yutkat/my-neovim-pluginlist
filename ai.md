@@ -166,6 +166,7 @@
 - [ivanlee1999/gemini-cli.nvim](https://github.com/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/stars/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/ivanlee1999/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanlee1999/gemini-cli.nvim)
 - [marcinjahn/gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/stars/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/marcinjahn/gemini-cli.nvim)
 - [jonroosevelt/gemini.nvim](https://github.com/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/stars/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/last-commit/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/jonroosevelt/gemini.nvim)
+- [abdullahchand/gemini-nvim](https://github.com/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/stars/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/last-commit/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/abdullahchand/gemini-nvim)
 
 ### Multi LLM
 
@@ -490,6 +491,7 @@
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/commit-activity/y/olimorris/codecompanion.nvim)
   - [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/stars/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/codecompanion-history.nvim)
+  - [Davidyz/codecompanion-dap.nvim](https://github.com/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/stars/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/codecompanion-dap.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
 
 ### Chatblade
