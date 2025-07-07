@@ -37,6 +37,7 @@
 ### package import
 
 - [Tacsiazuma/easyjava.nvim](https://github.com/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/stars/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/last-commit/Tacsiazuma/easyjava.nvim) ![](https://img.shields.io/github/commit-activity/y/Tacsiazuma/easyjava.nvim)
+- [g0ne150/java-deps.nvim](https://github.com/g0ne150/java-deps.nvim) ![](https://img.shields.io/github/stars/g0ne150/java-deps.nvim) ![](https://img.shields.io/github/last-commit/g0ne150/java-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/g0ne150/java-deps.nvim)
 
 ### rename
 

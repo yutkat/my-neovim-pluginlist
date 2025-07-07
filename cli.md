@@ -465,6 +465,7 @@
 - [tinoschroeter/sealed-secrets.nvim](https://github.com/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/stars/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/last-commit/tinoschroeter/sealed-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/tinoschroeter/sealed-secrets.nvim)
 - [tonychg/nvim-k8s-lsp](https://github.com/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/stars/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/last-commit/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/commit-activity/y/tonychg/nvim-k8s-lsp)
 - [kritag/k8s-yaml-schemas.nvim](https://github.com/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/stars/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/last-commit/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/commit-activity/y/kritag/k8s-yaml-schemas.nvim)
+- [manzanit0/k8s-whisper.nvim](https://github.com/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/stars/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/last-commit/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/manzanit0/k8s-whisper.nvim)
 
 ##### ArgoCD
 
