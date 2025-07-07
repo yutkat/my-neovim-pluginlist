@@ -3,24 +3,24 @@
 <!-- toc -->
 
 - [Filer](#filer)
-  * [gx](#gx)
-  * [netrw](#netrw)
-  * [Simple](#simple)
-  * [Floating Style](#floating-style)
-  * [FuzzyFinder Style](#fuzzyfinder-style)
-  * [Emacs style](#emacs-style)
-  * [nnn wrapper](#nnn-wrapper)
-  * [ranger](#ranger)
-    + [Joshuto](#joshuto)
-    + [yazi](#yazi)
-  * [Network File Manager](#network-file-manager)
-  * [Open directory](#open-directory)
-  * [Find specific file](#find-specific-file)
-  * [Filer switcher](#filer-switcher)
-  * [broot](#broot)
-  * [Create directory](#create-directory)
-  * [Tree View](#tree-view)
-  * [File rename](#file-rename)
+  - [gx](#gx)
+  - [netrw](#netrw)
+  - [Simple](#simple)
+  - [Floating Style](#floating-style)
+  - [FuzzyFinder Style](#fuzzyfinder-style)
+  - [Emacs style](#emacs-style)
+  - [nnn wrapper](#nnn-wrapper)
+  - [ranger](#ranger)
+    - [Joshuto](#joshuto)
+    - [yazi](#yazi)
+  - [Network File Manager](#network-file-manager)
+  - [Open directory](#open-directory)
+  - [Find specific file](#find-specific-file)
+  - [Filer switcher](#filer-switcher)
+  - [broot](#broot)
+  - [Create directory](#create-directory)
+  - [Tree View](#tree-view)
+  - [File rename](#file-rename)
 
 <!-- tocstop -->
 
@@ -169,6 +169,7 @@
 - [fbuchlak/telescope-directory.nvim](https://github.com/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/stars/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/last-commit/fbuchlak/telescope-directory.nvim) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/telescope-directory.nvim)
 - [albenisolmos/telescope-oil.nvim](https://github.com/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/stars/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/telescope-oil.nvim)
 - [synic/telescope-dirpicker.nvim](https://github.com/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/stars/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/last-commit/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/telescope-dirpicker.nvim)
+- [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
 
 ### Find specific file
 
