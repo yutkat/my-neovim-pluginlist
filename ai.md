@@ -580,6 +580,7 @@
 ### Whisper Transcribe
 
 - [RussianStar/nwhisper.nvim](https://github.com/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/stars/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/last-commit/RussianStar/nwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/RussianStar/nwhisper.nvim)
+- [manzanit0/k8s-whisper.nvim](https://github.com/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/stars/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/last-commit/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/manzanit0/k8s-whisper.nvim)
 
 ### SeaGOAT
 

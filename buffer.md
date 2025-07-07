@@ -246,6 +246,7 @@
 - [vincent178/copy.nvim](https://github.com/vincent178/copy.nvim) ![](https://img.shields.io/github/stars/vincent178/copy.nvim) ![](https://img.shields.io/github/last-commit/vincent178/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/vincent178/copy.nvim)
 - [mogulla3/copy-file-path.nvim](https://github.com/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/stars/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/copy-file-path.nvim)
 - [mikinovation/pathtool.nvim](https://github.com/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/stars/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/last-commit/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/commit-activity/y/mikinovation/pathtool.nvim)
+- [tapihdev/cfp.nvim](https://github.com/tapihdev/cfp.nvim) ![](https://img.shields.io/github/stars/tapihdev/cfp.nvim) ![](https://img.shields.io/github/last-commit/tapihdev/cfp.nvim) ![](https://img.shields.io/github/commit-activity/y/tapihdev/cfp.nvim)
 
 #### status
 
@@ -274,6 +275,7 @@
 - [reybits/scratch.nvim](https://github.com/reybits/scratch.nvim) ![](https://img.shields.io/github/stars/reybits/scratch.nvim) ![](https://img.shields.io/github/last-commit/reybits/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/scratch.nvim)
 - [eth-p/nvim-clone-buffer](https://github.com/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/stars/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/last-commit/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/commit-activity/y/eth-p/nvim-clone-buffer)
 - [MartinCornelius/tempbuf.nvim](https://github.com/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/tempbuf.nvim)
+- [0x15BA88FF/tnew.nvim](https://github.com/0x15BA88FF/tnew.nvim) ![](https://img.shields.io/github/stars/0x15BA88FF/tnew.nvim) ![](https://img.shields.io/github/last-commit/0x15BA88FF/tnew.nvim) ![](https://img.shields.io/github/commit-activity/y/0x15BA88FF/tnew.nvim)
 
 ### Scratchpad
 
