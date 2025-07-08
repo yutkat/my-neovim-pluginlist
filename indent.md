@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Indent](#indent)
-  * [Indent Size](#indent-size)
-  * [Indent Shift](#indent-shift)
-  * [indentkeys](#indentkeys)
-  * [Indent Guide](#indent-guide)
+  - [Indent Size](#indent-size)
+  - [Indent Shift](#indent-shift)
+  - [indentkeys](#indentkeys)
+  - [Indent Guide](#indent-guide)
 
 <!-- tocstop -->
 

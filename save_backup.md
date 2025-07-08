@@ -3,9 +3,9 @@
 <!-- toc -->
 
 - [Save](#save)
-  * [Edit history](#edit-history)
-  * [Cursor Position](#cursor-position)
-  * [Create directory](#create-directory)
+  - [Edit history](#edit-history)
+  - [Cursor Position](#cursor-position)
+  - [Create directory](#create-directory)
 - [Backup](#backup)
 - [Swapfile](#swapfile)
 

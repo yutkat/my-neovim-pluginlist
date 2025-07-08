@@ -3,9 +3,9 @@
 <!-- toc -->
 
 - [Appearance](#appearance)
-  * [Sidebar](#sidebar)
-  * [Menu](#menu)
-  * [Minimap](#minimap)
+  - [Sidebar](#sidebar)
+  - [Menu](#menu)
+  - [Minimap](#minimap)
 
 <!-- tocstop -->
 

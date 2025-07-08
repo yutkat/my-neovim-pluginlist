@@ -4,9 +4,9 @@
 
 - [Auto insert](#auto-insert)
 - [insert pairs](#insert-pairs)
-  * [escape pairs](#escape-pairs)
-  * [endwise](#endwise)
-  * [Tag](#tag)
+  - [escape pairs](#escape-pairs)
+  - [endwise](#endwise)
+  - [Tag](#tag)
 - [Auto insert semicolon](#auto-insert-semicolon)
 - [Auto convert](#auto-convert)
 - [List](#list)
@@ -95,4 +95,3 @@
 - [elvxk/mylorem.nvim](https://github.com/elvxk/mylorem.nvim) ![](https://img.shields.io/github/stars/elvxk/mylorem.nvim) ![](https://img.shields.io/github/last-commit/elvxk/mylorem.nvim) ![](https://img.shields.io/github/commit-activity/y/elvxk/mylorem.nvim)
 - [maarutan/lorem.nvim](https://github.com/maarutan/lorem.nvim) ![](https://img.shields.io/github/stars/maarutan/lorem.nvim) ![](https://img.shields.io/github/last-commit/maarutan/lorem.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/lorem.nvim)
 - [dnnr1/lorem-ipsum.nvim](https://github.com/dnnr1/lorem-ipsum.nvim) ![](https://img.shields.io/github/stars/dnnr1/lorem-ipsum.nvim) ![](https://img.shields.io/github/last-commit/dnnr1/lorem-ipsum.nvim) ![](https://img.shields.io/github/commit-activity/y/dnnr1/lorem-ipsum.nvim)
-

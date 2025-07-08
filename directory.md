@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Directory](#directory)
-  * [cd(change directory)](#cdchange-directory)
-  * [zoxide](#zoxide)
-  * [z](#z)
-  * [CWD](#cwd)
+  - [cd(change directory)](#cdchange-directory)
+  - [zoxide](#zoxide)
+  - [z](#z)
+  - [CWD](#cwd)
 
 <!-- tocstop -->
 

@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Help](#help)
-  * [Neovim doc](#neovim-doc)
-  * [CheatSheet](#cheatsheet)
-  * [Tips](#tips)
-  * [External Manual](#external-manual)
+  - [Neovim doc](#neovim-doc)
+  - [CheatSheet](#cheatsheet)
+  - [Tips](#tips)
+  - [External Manual](#external-manual)
 - [Tutorial](#tutorial)
 - [Gnu Info](#gnu-info)
 - [RFC](#rfc)

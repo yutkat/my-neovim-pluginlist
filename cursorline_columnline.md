@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Cursorline](#cursorline)
-  * [tweak](#tweak)
+  - [tweak](#tweak)
 - [Columnline](#columnline)
-  * [limit column](#limit-column)
-  * [EOL](#eol)
+  - [limit column](#limit-column)
+  - [EOL](#eol)
 
 <!-- tocstop -->
 

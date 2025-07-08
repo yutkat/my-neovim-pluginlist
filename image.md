@@ -3,19 +3,19 @@
 <!-- toc -->
 
 - [Image](#image)
-  * [Image Viewer](#image-viewer)
-  * [Image Magick](#image-magick)
-  * [Image Paste](#image-paste)
-  * [Image Uploader](#image-uploader)
-  * [Screenshot](#screenshot)
-  * [Screen Key (Show Typing key)](#screen-key-show-typing-key)
-    + [Code Image](#code-image)
-  * [SVG](#svg)
-  * [Ascii](#ascii)
-  * [Graph](#graph)
-    + [graphedit](#graphedit)
-  * [Sixel](#sixel)
-  * [Illustrate](#illustrate)
+  - [Image Viewer](#image-viewer)
+  - [Image Magick](#image-magick)
+  - [Image Paste](#image-paste)
+  - [Image Uploader](#image-uploader)
+  - [Screenshot](#screenshot)
+  - [Screen Key (Show Typing key)](#screen-key-show-typing-key)
+    - [Code Image](#code-image)
+  - [SVG](#svg)
+  - [Ascii](#ascii)
+  - [Graph](#graph)
+    - [graphedit](#graphedit)
+  - [Sixel](#sixel)
+  - [Illustrate](#illustrate)
 
 <!-- tocstop -->
 

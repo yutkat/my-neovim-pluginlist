@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Background](#background)
-  * [Switch theme](#switch-theme)
-  * [Transparency](#transparency)
-  * [Wallpaper](#wallpaper)
-  * [OSC11](#osc11)
+  - [Switch theme](#switch-theme)
+  - [Transparency](#transparency)
+  - [Wallpaper](#wallpaper)
+  - [OSC11](#osc11)
 
 <!-- tocstop -->
 

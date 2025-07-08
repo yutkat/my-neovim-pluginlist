@@ -436,4 +436,3 @@
 #### CUDA
 
 - [Jorgedavyd/cuda-prof.nvim](https://github.com/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/stars/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/last-commit/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/commit-activity/y/Jorgedavyd/cuda-prof.nvim)
-

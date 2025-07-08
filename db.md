@@ -3,16 +3,16 @@
 <!-- toc -->
 
 - [Database](#database)
-  * [SQL](#sql)
-  * [PostgreSQL](#postgresql)
-  * [MySQL](#mysql)
-  * [SQLite](#sqlite)
-  * [MongoDB](#mongodb)
-  * [SurrealDB](#surrealdb)
-  * [EdgeDB](#edgedb)
-  * [Metabase](#metabase)
-  * [DuckDB](#duckdb)
-  * [Prisma](#prisma)
+  - [SQL](#sql)
+  - [PostgreSQL](#postgresql)
+  - [MySQL](#mysql)
+  - [SQLite](#sqlite)
+  - [MongoDB](#mongodb)
+  - [SurrealDB](#surrealdb)
+  - [EdgeDB](#edgedb)
+  - [Metabase](#metabase)
+  - [DuckDB](#duckdb)
+  - [Prisma](#prisma)
 
 <!-- tocstop -->
 

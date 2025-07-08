@@ -3,11 +3,11 @@
 <!-- toc -->
 
 - [Mode](#mode)
-  * [Mode Viewer](#mode-viewer)
-  * [Visual](#visual)
-  * [Submode](#submode)
-  * [Parinfer](#parinfer)
-  * [Helix selection mode](#helix-selection-mode)
+  - [Mode Viewer](#mode-viewer)
+  - [Visual](#visual)
+  - [Submode](#submode)
+  - [Parinfer](#parinfer)
+  - [Helix selection mode](#helix-selection-mode)
 
 <!-- tocstop -->
 

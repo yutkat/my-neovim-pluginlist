@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Tab](#tab)
-  * [select](#select)
+  - [select](#select)
 
 <!-- tocstop -->
 

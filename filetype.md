@@ -5,7 +5,7 @@
 - [ftdetect(Filetype detector)](#ftdetectfiletype-detector)
 - [ftplugin](#ftplugin)
 - [filetype](#filetype)
-  * [filetype colorscheme](#filetype-colorscheme)
+  - [filetype colorscheme](#filetype-colorscheme)
 - [Encoding](#encoding)
 - [file attributes](#file-attributes)
 

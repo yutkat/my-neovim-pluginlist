@@ -3,8 +3,8 @@
 <!-- toc -->
 
 - [Test](#test)
-  * [Test file](#test-file)
-  * [Neotest adapter](#neotest-adapter)
+  - [Test file](#test-file)
+  - [Neotest adapter](#neotest-adapter)
 - [Test Coverage](#test-coverage)
 
 <!-- tocstop -->

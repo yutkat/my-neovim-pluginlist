@@ -3,17 +3,17 @@
 <!-- toc -->
 
 - [Jump](#jump)
-  * [Error](#error)
-  * [Brackets](#brackets)
-  * [Treesitter Node](#treesitter-node)
-    + [File tracking](#file-tracking)
-  * [Jump number](#jump-number)
-  * [Go to File](#go-to-file)
-  * [HML](#hml)
-  * [Bisection](#bisection)
-  * [jumplist](#jumplist)
-  * [Edit History](#edit-history)
-  * [Cursor Position History](#cursor-position-history)
+  - [Error](#error)
+  - [Brackets](#brackets)
+  - [Treesitter Node](#treesitter-node)
+    - [File tracking](#file-tracking)
+  - [Jump number](#jump-number)
+  - [Go to File](#go-to-file)
+  - [HML](#hml)
+  - [Bisection](#bisection)
+  - [jumplist](#jumplist)
+  - [Edit History](#edit-history)
+  - [Cursor Position History](#cursor-position-history)
 
 <!-- tocstop -->
 

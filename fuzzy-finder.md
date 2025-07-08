@@ -3,13 +3,13 @@
 <!-- toc -->
 
 - [FuzzyFinder](#fuzzyfinder)
-  * [Telescope Extensions](#telescope-extensions)
-    + [Picker](#picker)
-    + [Sorter](#sorter)
-    + [Action](#action)
-    + [Utils](#utils)
-    + [Grep](#grep)
-    + [Integration for another plugin](#integration-for-another-plugin)
+  - [Telescope Extensions](#telescope-extensions)
+    - [Picker](#picker)
+    - [Sorter](#sorter)
+    - [Action](#action)
+    - [Utils](#utils)
+    - [Grep](#grep)
+    - [Integration for another plugin](#integration-for-another-plugin)
 
 <!-- tocstop -->
 

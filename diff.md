@@ -3,8 +3,8 @@
 <!-- toc -->
 
 - [Diff](#diff)
-  * [Diff Register](#diff-register)
-  * [Match](#match)
+  - [Diff Register](#diff-register)
+  - [Match](#match)
 
 <!-- tocstop -->
 

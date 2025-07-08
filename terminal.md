@@ -3,19 +3,19 @@
 <!-- toc -->
 
 - [Terminal](#terminal)
-  * [Terminal Enhancement](#terminal-enhancement)
-  * [Open](#open)
-  * [Edit](#edit)
-  * [Save](#save)
-  * [Send](#send)
-  * [Mapping](#mapping)
-  * [Jump](#jump)
-  * [Terminal mode](#terminal-mode)
-  * [External terminal](#external-terminal)
-  * [Terminal Selector](#terminal-selector)
-  * [Command](#command)
-  * [Neovim in Neovim](#neovim-in-neovim)
-  * [ansi escape sequence](#ansi-escape-sequence)
+  - [Terminal Enhancement](#terminal-enhancement)
+  - [Open](#open)
+  - [Edit](#edit)
+  - [Save](#save)
+  - [Send](#send)
+  - [Mapping](#mapping)
+  - [Jump](#jump)
+  - [Terminal mode](#terminal-mode)
+  - [External terminal](#external-terminal)
+  - [Terminal Selector](#terminal-selector)
+  - [Command](#command)
+  - [Neovim in Neovim](#neovim-in-neovim)
+  - [ansi escape sequence](#ansi-escape-sequence)
 
 <!-- tocstop -->
 

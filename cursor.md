@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Cursor](#cursor)
-  * [Cursor Style](#cursor-style)
-  * [Cursor position](#cursor-position)
-  * [Hold](#hold)
-  * [Animation](#animation)
+  - [Cursor Style](#cursor-style)
+  - [Cursor position](#cursor-position)
+  - [Hold](#hold)
+  - [Animation](#animation)
 
 <!-- tocstop -->
 

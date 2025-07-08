@@ -4,15 +4,15 @@
 
 - [Formatting config](#formatting-config)
 - [Formatter](#formatter)
-  * [Trim Whitespace](#trim-whitespace)
-  * [Trim EOL](#trim-eol)
-  * [Formatter switcher](#formatter-switcher)
-  * [textwidth](#textwidth)
+  - [Trim Whitespace](#trim-whitespace)
+  - [Trim EOL](#trim-eol)
+  - [Formatter switcher](#formatter-switcher)
+  - [textwidth](#textwidth)
 - [Lint](#lint)
-  * [Grammar](#grammar)
-  * [Ignore](#ignore)
+  - [Grammar](#grammar)
+  - [Ignore](#ignore)
 - [null-ls fork](#null-ls-fork)
-  * [Global variables](#global-variables)
+  - [Global variables](#global-variables)
 
 <!-- tocstop -->
 
