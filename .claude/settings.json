@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Write(*.md)",
+      "Edit(*)"
+    ],
+    "deny": []
+  }
+}
