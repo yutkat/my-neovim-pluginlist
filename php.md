@@ -3,15 +3,15 @@
 <!-- toc -->
 
 - [PHP](#php)
-  * [test](#test)
-  * [Element sort](#element-sort)
-  * [Live server](#live-server)
-  * [PHPStan](#phpstan)
-  * [Laravel](#laravel)
-  * [Slim](#slim)
-  * [Symfony](#symfony)
-    + [drupal](#drupal)
-  * [phpcs](#phpcs)
+  - [test](#test)
+  - [Element sort](#element-sort)
+  - [Live server](#live-server)
+  - [PHPStan](#phpstan)
+  - [Laravel](#laravel)
+  - [Slim](#slim)
+  - [Symfony](#symfony)
+    - [drupal](#drupal)
+  - [phpcs](#phpcs)
 
 <!-- tocstop -->
 

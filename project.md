@@ -3,19 +3,19 @@
 <!-- toc -->
 
 - [Project](#project)
-  * [Project Switcher](#project-switcher)
-  * [Project Root Detector](#project-root-detector)
-- [Project Template](#project-template)
-- [Project syntax](#project-syntax)
-    + [Monorepo](#monorepo)
-  * [Project Local Config](#project-local-config)
-  * [Config switcher](#config-switcher)
+  - [Project Switcher](#project-switcher)
+  - [Project Root Detector](#project-root-detector)
+  - [Project Template](#project-template)
+  - [Project syntax](#project-syntax)
+    - [Monorepo](#monorepo)
+  - [Project Local Config](#project-local-config)
+  - [Config switcher](#config-switcher)
 
 <!-- tocstop -->
 
-### Project
+## Project
 
-#### Project Switcher
+### Project Switcher
 
 - [ahmedkhalf/project.nvim](https://github.com/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/stars/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/last-commit/ahmedkhalf/project.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmedkhalf/project.nvim)
 - [cljoly/telescope-repo.nvim](https://cj.rs/telescope-repo-nvim/) ![](https://img.shields.io/github/stars/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/last-commit/cljoly/telescope-repo.nvim) ![](https://img.shields.io/github/commit-activity/y/cljoly/telescope-repo.nvim)
@@ -62,7 +62,7 @@
 - [Zbolt50/projection.nvim](https://github.com/Zbolt50/projection.nvim) ![](https://img.shields.io/github/stars/Zbolt50/projection.nvim) ![](https://img.shields.io/github/last-commit/Zbolt50/projection.nvim) ![](https://img.shields.io/github/commit-activity/y/Zbolt50/projection.nvim)
 - [arne-vl/project-picker.nvim](https://github.com/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/stars/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/project-picker.nvim)
 
-#### Project Root Detector
+### Project Root Detector
 
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) ![](https://img.shields.io/github/stars/shaeinst/penvim) ![](https://img.shields.io/github/last-commit/shaeinst/penvim) ![](https://img.shields.io/github/commit-activity/y/shaeinst/penvim)
 - [kyoh86/climbdir.nvim](https://github.com/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/stars/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/climbdir.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/climbdir.nvim)
@@ -86,12 +86,12 @@
 
 - [HampusHauffman/peacock.nvim](https://github.com/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/stars/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/last-commit/HampusHauffman/peacock.nvim) ![](https://img.shields.io/github/commit-activity/y/HampusHauffman/peacock.nvim)
 
-##### Monorepo
+#### Monorepo
 
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)
 - [sajjathossain/nvim-monorepos](https://github.com/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/stars/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-monorepos)
 
-#### Project Local Config
+### Project Local Config
 
 - [klen/nvim-config-local](https://github.com/klen/nvim-config-local) ![](https://img.shields.io/github/stars/klen/nvim-config-local) ![](https://img.shields.io/github/last-commit/klen/nvim-config-local) ![](https://img.shields.io/github/commit-activity/y/klen/nvim-config-local)
 - [windwp/nvim-projectconfig](https://github.com/windwp/nvim-projectconfig) ![](https://img.shields.io/github/stars/windwp/nvim-projectconfig) ![](https://img.shields.io/github/last-commit/windwp/nvim-projectconfig) ![](https://img.shields.io/github/commit-activity/y/windwp/nvim-projectconfig)
@@ -113,7 +113,7 @@
 - [yamgent/simple-settings.nvim](https://github.com/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/stars/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/last-commit/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/yamgent/simple-settings.nvim)
 - [spenserblack/dot-nvim.nvim](https://github.com/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/stars/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/last-commit/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserblack/dot-nvim.nvim)
 
-#### Config switcher
+### Config switcher
 
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
 - [smolovk/projector.nvim](https://github.com/smolovk/projector.nvim) ![](https://img.shields.io/github/stars/smolovk/projector.nvim) ![](https://img.shields.io/github/last-commit/smolovk/projector.nvim) ![](https://img.shields.io/github/commit-activity/y/smolovk/projector.nvim)

@@ -3,37 +3,37 @@
 <!-- toc -->
 
 - [Toy](#toy)
-  * [Joke](#joke)
-    + [Hacker typer](#hacker-typer)
-  * [Pet](#pet)
-  * [Image](#image)
-  * [Book](#book)
-  * [Video](#video)
-    + [Screen Recording](#screen-recording)
-  * [View](#view)
-  * [Gaming](#gaming)
-  * [Training](#training)
-  * [Turing path](#turing-path)
-  * [Gesture](#gesture)
-  * [Weather](#weather)
-  * [Clock](#clock)
-  * [Stock price](#stock-price)
-  * [Cowsay](#cowsay)
-    + [Tips](#tips)
-    + [Message](#message)
-    + [Edit Info](#edit-info)
-    + [Ninjas Facts](#ninjas-facts)
-  * [Movie](#movie)
-    + [YouTube](#youtube)
-  * [Study](#study)
-    + [French](#french)
-  * [Speech](#speech)
-  * [Sports](#sports)
-    + [NHL](#nhl)
-  * [Religion](#religion)
-    + [Judaism](#judaism)
-    + [Bible](#bible)
-    + [Muslim](#muslim)
+  - [Joke](#joke)
+    - [Hacker typer](#hacker-typer)
+  - [Pet](#pet)
+  - [Image](#image)
+  - [Book](#book)
+  - [Video](#video)
+    - [Screen Recording](#screen-recording)
+  - [View](#view)
+  - [Gaming](#gaming)
+  - [Training](#training)
+  - [Turing path](#turing-path)
+  - [Gesture](#gesture)
+  - [Weather](#weather)
+  - [Clock](#clock)
+  - [Stock price](#stock-price)
+  - [Cowsay](#cowsay)
+    - [Tips](#tips)
+    - [Message](#message)
+    - [Edit Info](#edit-info)
+    - [Ninjas Facts](#ninjas-facts)
+  - [Movie](#movie)
+    - [YouTube](#youtube)
+  - [Study](#study)
+    - [French](#french)
+  - [Speech](#speech)
+  - [Sports](#sports)
+    - [NHL](#nhl)
+  - [Religion](#religion)
+    - [Judaism](#judaism)
+    - [Bible](#bible)
+    - [Muslim](#muslim)
 
 <!-- tocstop -->
 
@@ -157,6 +157,7 @@
 #### Message
 
 - [r-cha/encourage.nvim](https://github.com/r-cha/encourage.nvim) ![](https://img.shields.io/github/stars/r-cha/encourage.nvim) ![](https://img.shields.io/github/last-commit/r-cha/encourage.nvim) ![](https://img.shields.io/github/commit-activity/y/r-cha/encourage.nvim)
+- [Doehnert/nvim-inspiration](https://github.com/Doehnert/nvim-inspiration) ![](https://img.shields.io/github/stars/Doehnert/nvim-inspiration) ![](https://img.shields.io/github/last-commit/Doehnert/nvim-inspiration) ![](https://img.shields.io/github/commit-activity/y/Doehnert/nvim-inspiration)
 
 #### Edit Info
 
@@ -211,4 +212,3 @@
 #### Muslim
 
 - [hakimajaman/nvim-muslim-prayer](https://github.com/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/stars/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/last-commit/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/commit-activity/y/hakimajaman/nvim-muslim-prayer)
-

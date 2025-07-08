@@ -3,9 +3,9 @@
 <!-- toc -->
 
 - [Animation](#animation)
-  * [Snow effect](#snow-effect)
-  * [Type sound](#type-sound)
-  * [event sound](#event-sound)
+  - [Snow effect](#snow-effect)
+  - [Type sound](#type-sound)
+  - [event sound](#event-sound)
 - [Screen server](#screen-server)
 
 <!-- tocstop -->

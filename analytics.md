@@ -3,15 +3,15 @@
 <!-- toc -->
 
 - [Neovim Usage Analytics](#neovim-usage-analytics)
-  * [Coding time](#coding-time)
-    + [Timewarrior](#timewarrior)
-    + [ActivityWatch](#activitywatch)
-  * [Wakatime](#wakatime)
-  * [Mapping stat](#mapping-stat)
-  * [Typing speed](#typing-speed)
-  * [Operation Log](#operation-log)
-  * [Clockify](#clockify)
-  * [Performance Test](#performance-test)
+  - [Coding time](#coding-time)
+    - [Timewarrior](#timewarrior)
+    - [ActivityWatch](#activitywatch)
+  - [Wakatime](#wakatime)
+  - [Mapping stat](#mapping-stat)
+  - [Typing speed](#typing-speed)
+  - [Operation Log](#operation-log)
+  - [Clockify](#clockify)
+  - [Performance Test](#performance-test)
 - [Neovim Profiler](#neovim-profiler)
 
 <!-- tocstop -->
