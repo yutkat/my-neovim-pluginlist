@@ -223,6 +223,7 @@
 ### Spinner
 
 - [javio7/nvim-spinetta](https://github.com/javio7/nvim-spinetta) ![](https://img.shields.io/github/stars/javio7/nvim-spinetta) ![](https://img.shields.io/github/last-commit/javio7/nvim-spinetta) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-spinetta)
+- [franco-ruggeri/codecompanion-spinner.nvim](https://github.com/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-spinner.nvim)
 
 ## Error handling
 

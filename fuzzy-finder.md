@@ -48,6 +48,7 @@
 - [hrsh7th/nvim-deck](https://github.com/hrsh7th/nvim-deck) ![](https://img.shields.io/github/stars/hrsh7th/nvim-deck) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-deck) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-deck)
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) ![](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/namu.nvim)
 - [2KAbhishek/pickme.nvim](https://github.com/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/pickme.nvim)
+- [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
 
 ### Telescope Extensions
 

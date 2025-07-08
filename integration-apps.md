@@ -251,6 +251,7 @@
 - [HiPhish/ansible-doc.nvim](https://github.com/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/stars/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/ansible-doc.nvim)
 - [apayu/nvim-ansible-vault](https://github.com/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/stars/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/apayu/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/apayu/nvim-ansible-vault)
 - [Geertsky/ansible-doc.nvim](https://github.com/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/stars/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/ansible-doc.nvim)
+- [avesst/ansible-doc.nvim](https://github.com/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/stars/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/avesst/ansible-doc.nvim)
 
 #### Kustomize
 
