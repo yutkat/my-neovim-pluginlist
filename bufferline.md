@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Bufferline](#bufferline)
-  * [Vertical](#vertical)
+  - [Vertical](#vertical)
 
 <!-- tocstop -->
 

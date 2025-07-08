@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Macro](#macro)
-  * [Automatic macro](#automatic-macro)
+  - [Automatic macro](#automatic-macro)
 
 <!-- tocstop -->
 

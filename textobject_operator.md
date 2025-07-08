@@ -3,15 +3,15 @@
 <!-- toc -->
 
 - [Textobject](#textobject)
-  * [Unit](#unit)
-  * [indent](#indent)
-  * [Swap](#swap)
-  * [Duplicate](#duplicate)
-  * [Move](#move)
-  * [Surround](#surround)
+  - [Unit](#unit)
+  - [indent](#indent)
+  - [Swap](#swap)
+  - [Duplicate](#duplicate)
+  - [Move](#move)
+  - [Surround](#surround)
 - [Operator](#operator)
-  * [Replace](#replace)
-  * [s](#s)
+  - [Replace](#replace)
+  - [s](#s)
 
 <!-- tocstop -->
 

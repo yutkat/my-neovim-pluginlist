@@ -3,8 +3,8 @@
 <!-- toc -->
 
 - [Spell](#spell)
-  * [Spellcheck](#spellcheck)
-  * [Vale](#vale)
+  - [Spellcheck](#spellcheck)
+  - [Vale](#vale)
 - [Pronunce](#pronunce)
 
 <!-- tocstop -->

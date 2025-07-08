@@ -3,18 +3,18 @@
 <!-- toc -->
 
 - [GUI](#gui)
-  * [Typescript](#typescript)
-  * [Rust](#rust)
-  * [Go](#go)
-  * [C++](#c)
-  * [QML](#qml)
-  * [Clojure](#clojure)
-  * [F](#f)
-  * [Lua](#lua)
-  * [MacOS](#macos)
-  * [VS Code](#vs-code)
+  - [Typescript](#typescript)
+  - [Rust](#rust)
+  - [Go](#go)
+  - [C++](#c)
+  - [QML](#qml)
+  - [Clojure](#clojure)
+  - [F](#f)
+  - [Lua](#lua)
+  - [MacOS](#macos)
+  - [VS Code](#vs-code)
 - [GUI library](#gui-library)
-  * [Font size](#font-size)
+  - [Font size](#font-size)
 
 <!-- tocstop -->
 

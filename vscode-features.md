@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [VS Code features](#vs-code-features)
-  * [Remote Development](#remote-development)
-  * [Devcontainer](#devcontainer)
-  * [Collaborative Editing](#collaborative-editing)
-  * [IDE feature](#ide-feature)
+  - [Remote Development](#remote-development)
+  - [Devcontainer](#devcontainer)
+  - [Collaborative Editing](#collaborative-editing)
+  - [IDE feature](#ide-feature)
 - [Bruno](#bruno)
 
 <!-- tocstop -->

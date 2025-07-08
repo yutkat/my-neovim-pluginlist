@@ -3,16 +3,16 @@
 <!-- toc -->
 
 - [Music](#music)
-  * [sapf](#sapf)
-  * [Apple music](#apple-music)
-  * [YouTube Music](#youtube-music)
-  * [Tidal](#tidal)
-  * [Strudel](#strudel)
-    + [MIDI](#midi)
-    + [ABC Notation](#abc-notation)
-    + [Morse](#morse)
-    + [Guitar](#guitar)
-  * [Recording](#recording)
+  - [sapf](#sapf)
+  - [Apple music](#apple-music)
+  - [YouTube Music](#youtube-music)
+  - [Tidal](#tidal)
+  - [Strudel](#strudel)
+    - [MIDI](#midi)
+    - [ABC Notation](#abc-notation)
+    - [Morse](#morse)
+    - [Guitar](#guitar)
+  - [Recording](#recording)
 
 <!-- tocstop -->
 

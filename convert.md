@@ -3,18 +3,18 @@
 <!-- toc -->
 
 - [Convert](#convert)
-  * [Adding and subtracting](#adding-and-subtracting)
-  * [Convert Case](#convert-case)
-  * [Convert Word](#convert-word)
-  * [Quote](#quote)
-  * [Boolean](#boolean)
-  * [Shell command](#shell-command)
-  * [Base64](#base64)
-  * [Number](#number)
-  * [Color](#color)
-  * [Date](#date)
-  * [Pixel](#pixel)
-  * [Dash](#dash)
+  - [Adding and subtracting](#adding-and-subtracting)
+  - [Convert Case](#convert-case)
+  - [Convert Word](#convert-word)
+  - [Quote](#quote)
+  - [Boolean](#boolean)
+  - [Shell command](#shell-command)
+  - [Base64](#base64)
+  - [Number](#number)
+  - [Color](#color)
+  - [Date](#date)
+  - [Pixel](#pixel)
+  - [Dash](#dash)
 
 <!-- tocstop -->
 
@@ -119,4 +119,3 @@
 
 - [mvllow/supplement.nvim](https://github.com/mvllow/supplement.nvim) ![](https://img.shields.io/github/stars/mvllow/supplement.nvim) ![](https://img.shields.io/github/last-commit/mvllow/supplement.nvim) ![](https://img.shields.io/github/commit-activity/y/mvllow/supplement.nvim)
 - [stunwin/lilguys.nvim](https://github.com/stunwin/lilguys.nvim) ![](https://img.shields.io/github/stars/stunwin/lilguys.nvim) ![](https://img.shields.io/github/last-commit/stunwin/lilguys.nvim) ![](https://img.shields.io/github/commit-activity/y/stunwin/lilguys.nvim)
-

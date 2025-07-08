@@ -3,14 +3,14 @@
 <!-- toc -->
 
 - [Command Line](#command-line)
-  * [Normal mode command line](#normal-mode-command-line)
-  * [cmdheight](#cmdheight)
-  * [Completion](#completion)
-  * [GUID](#guid)
+  - [Normal mode command line](#normal-mode-command-line)
+  - [cmdheight](#cmdheight)
+  - [Completion](#completion)
+  - [GUID](#guid)
 - [Command Line UI](#command-line-ui)
-  * [Highlight](#highlight)
-  * [command line completion](#command-line-completion)
-  * [History](#history)
+  - [Highlight](#highlight)
+  - [command line completion](#command-line-completion)
+  - [History](#history)
 
 <!-- tocstop -->
 

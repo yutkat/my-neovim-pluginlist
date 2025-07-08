@@ -3,10 +3,10 @@
 <!-- toc -->
 
 - [Readable Assistant](#readable-assistant)
-  * [Reading assistant feature](#reading-assistant-feature)
-    + [Current Position Info](#current-position-info)
-  * [Human-readable](#human-readable)
-    + [bionic reading](#bionic-reading)
+  - [Reading assistant feature](#reading-assistant-feature)
+    - [Current Position Info](#current-position-info)
+  - [Human-readable](#human-readable)
+    - [bionic reading](#bionic-reading)
 
 <!-- tocstop -->
 

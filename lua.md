@@ -3,16 +3,16 @@
 <!-- toc -->
 
 - [Lua](#lua)
-  * [LSP](#lsp)
-  * [Treesitter](#treesitter)
-  * [Test](#test)
-  * [REPL](#repl)
-  * [Stylua](#stylua)
-  * [LuaFormatter](#luaformatter)
-  * [Rocks](#rocks)
-  * [Live Server](#live-server)
-  * [Docstring](#docstring)
-  * [LuaJava](#luajava)
+  - [LSP](#lsp)
+  - [Treesitter](#treesitter)
+  - [Test](#test)
+  - [REPL](#repl)
+  - [Stylua](#stylua)
+  - [LuaFormatter](#luaformatter)
+  - [Rocks](#rocks)
+  - [Live Server](#live-server)
+  - [Docstring](#docstring)
+  - [LuaJava](#luajava)
 - [Luau](#luau)
 
 <!-- tocstop -->

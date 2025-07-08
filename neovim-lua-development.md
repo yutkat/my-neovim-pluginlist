@@ -3,12 +3,12 @@
 <!-- toc -->
 
 - [Lua Development](#lua-development)
-  * [Plugin Template](#plugin-template)
-  * [LSP](#lsp)
-  * [Lint](#lint)
-  * [Formatter](#formatter)
-  * [LuaRocks](#luarocks)
-  * [GitHub Actions](#github-actions)
+  - [Plugin Template](#plugin-template)
+  - [LSP](#lsp)
+  - [Lint](#lint)
+  - [Formatter](#formatter)
+  - [LuaRocks](#luarocks)
+  - [GitHub Actions](#github-actions)
 - [Neovim Lua Development](#neovim-lua-development)
 - [Neovim Lua REPL](#neovim-lua-repl)
 - [Development Tools](#development-tools)
@@ -27,10 +27,10 @@
 - [Color Export](#color-export)
 - [Profiler](#profiler)
 - [CI](#ci)
-  * [Template](#template)
-  * [Actions](#actions)
+  - [Template](#template)
+  - [Actions](#actions)
 - [Docs](#docs)
-  * [Best Practices](#best-practices)
+  - [Best Practices](#best-practices)
 
 <!-- tocstop -->
 

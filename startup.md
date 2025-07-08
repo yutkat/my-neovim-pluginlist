@@ -3,8 +3,8 @@
 <!-- toc -->
 
 - [Startup screen (DashBoard)](#startup-screen-dashboard)
-  * [Boot Arguments](#boot-arguments)
-  * [Logo](#logo)
+  - [Boot Arguments](#boot-arguments)
+  - [Logo](#logo)
 - [Startup Command](#startup-command)
 
 <!-- tocstop -->

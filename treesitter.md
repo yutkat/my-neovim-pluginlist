@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Treesitter](#treesitter)
-  * [Installer](#installer)
+  - [Installer](#installer)
 - [Code Action](#code-action)
 - [Info](#info)
 

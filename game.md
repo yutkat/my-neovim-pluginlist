@@ -3,15 +3,15 @@
 <!-- toc -->
 
 - [Game](#game)
-  * [Snake](#snake)
-  * [Tetris](#tetris)
-  * [Mine Sweeper](#mine-sweeper)
-  * [DOOM](#doom)
-  * [Sudoku](#sudoku)
-  * [Wordy](#wordy)
-  * [Typing](#typing)
-  * [FiveM](#fivem)
-  * [World of Warcraft](#world-of-warcraft)
+  - [Snake](#snake)
+  - [Tetris](#tetris)
+  - [Mine Sweeper](#mine-sweeper)
+  - [DOOM](#doom)
+  - [Sudoku](#sudoku)
+  - [Wordy](#wordy)
+  - [Typing](#typing)
+  - [FiveM](#fivem)
+  - [World of Warcraft](#world-of-warcraft)
 
 <!-- tocstop -->
 

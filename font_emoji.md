@@ -3,15 +3,15 @@
 <!-- toc -->
 
 - [Font](#font)
-  * [Resize](#resize)
+  - [Resize](#resize)
 - [Unicode character](#unicode-character)
 - [Greek](#greek)
 - [Savian alphabet](#savian-alphabet)
 - [Superscript Subscript](#superscript-subscript)
 - [Icon](#icon)
-  * [Devicon color](#devicon-color)
+  - [Devicon color](#devicon-color)
 - [Emoji](#emoji)
-  * [Emoji FuzzyFinder](#emoji-fuzzyfinder)
+  - [Emoji FuzzyFinder](#emoji-fuzzyfinder)
 
 <!-- tocstop -->
 

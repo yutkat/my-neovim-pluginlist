@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Hex](#hex)
-  * [Hex Editor](#hex-editor)
+  - [Hex Editor](#hex-editor)
 
 <!-- tocstop -->
 

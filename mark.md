@@ -3,16 +3,16 @@
 <!-- toc -->
 
 - [Mark](#mark)
-  * [extmark](#extmark)
-  * [sign](#sign)
-  * [mark note](#mark-note)
-  * [hashtag](#hashtag)
-    + [git sign](#git-sign)
-  * [Auto Mark](#auto-mark)
-  * [Jump](#jump)
-  * [floating marker(easymotion style)](#floating-markereasymotion-style)
-  * [bookmark](#bookmark)
-  * [etc](#etc)
+  - [extmark](#extmark)
+  - [sign](#sign)
+  - [mark note](#mark-note)
+  - [hashtag](#hashtag)
+    - [git sign](#git-sign)
+  - [Auto Mark](#auto-mark)
+  - [Jump](#jump)
+  - [floating marker(easymotion style)](#floating-markereasymotion-style)
+  - [bookmark](#bookmark)
+  - [etc](#etc)
 
 <!-- tocstop -->
 

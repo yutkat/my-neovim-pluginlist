@@ -3,13 +3,13 @@
 <!-- toc -->
 
 - [Ruby](#ruby)
-  * [Test](#test)
-  * [LSP](#lsp)
-  * [Debug](#debug)
-  * [reference](#reference)
-  * [Gem](#gem)
-  * [Rails](#rails)
-  * [Redis](#redis)
+  - [Test](#test)
+  - [LSP](#lsp)
+  - [Debug](#debug)
+  - [reference](#reference)
+  - [Gem](#gem)
+  - [Rails](#rails)
+  - [Redis](#redis)
 
 <!-- tocstop -->
 

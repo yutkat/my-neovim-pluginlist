@@ -3,17 +3,17 @@
 <!-- toc -->
 
 - [Browser Integration](#browser-integration)
-  * [url open](#url-open)
-    + [url preview](#url-preview)
-  * [DevTools](#devtools)
-  * [Firefox](#firefox)
-  * [DuckDuckGo](#duckduckgo)
-  * [live preview](#live-preview)
-  * [view content](#view-content)
-  * [search](#search)
-    + [Search without browser](#search-without-browser)
-  * [Bookmarks](#bookmarks)
-  * [Cast](#cast)
+  - [url open](#url-open)
+    - [url preview](#url-preview)
+  - [DevTools](#devtools)
+  - [Firefox](#firefox)
+  - [DuckDuckGo](#duckduckgo)
+  - [live preview](#live-preview)
+  - [view content](#view-content)
+  - [search](#search)
+    - [Search without browser](#search-without-browser)
+  - [Bookmarks](#bookmarks)
+  - [Cast](#cast)
 
 <!-- tocstop -->
 

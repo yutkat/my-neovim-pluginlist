@@ -3,13 +3,13 @@
 <!-- toc -->
 
 - [Game Engine](#game-engine)
-  * [Unity](#unity)
-  * [Unreal](#unreal)
-  * [Godot](#godot)
-  * [Roblox studio](#roblox-studio)
-  * [Garry's Mod](#garrys-mod)
-  * [Bevy](#bevy)
-  * [UEFN Verse](#uefn-verse)
+  - [Unity](#unity)
+  - [Unreal](#unreal)
+  - [Godot](#godot)
+  - [Roblox studio](#roblox-studio)
+  - [Garry's Mod](#garrys-mod)
+  - [Bevy](#bevy)
+  - [UEFN Verse](#uefn-verse)
 
 <!-- tocstop -->
 

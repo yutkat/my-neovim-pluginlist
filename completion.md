@@ -3,14 +3,14 @@
 <!-- toc -->
 
 - [Auto Completion](#auto-completion)
-  * [Auto Completion Plugin](#auto-completion-plugin)
-    + [Made in Lua](#made-in-lua)
-    + [Made in Python](#made-in-python)
-    + [Made in Rust](#made-in-rust)
-  * [nvim-cmp extension](#nvim-cmp-extension)
-    + [nvim-cmp sources](#nvim-cmp-sources)
-    + [nvim-cmp comparator](#nvim-cmp-comparator)
-  * [Auto Completion support](#auto-completion-support)
+  - [Auto Completion Plugin](#auto-completion-plugin)
+    - [Made in Lua](#made-in-lua)
+    - [Made in Python](#made-in-python)
+    - [Made in Rust](#made-in-rust)
+  - [nvim-cmp extension](#nvim-cmp-extension)
+    - [nvim-cmp sources](#nvim-cmp-sources)
+    - [nvim-cmp comparator](#nvim-cmp-comparator)
+  - [Auto Completion support](#auto-completion-support)
 - [Standard Completion](#standard-completion)
 
 <!-- tocstop -->

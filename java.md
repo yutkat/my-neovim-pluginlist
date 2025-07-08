@@ -3,18 +3,18 @@
 <!-- toc -->
 
 - [Java](#java)
-  * [package import](#package-import)
-  * [rename](#rename)
-  * [method](#method)
-  * [Debugger](#debugger)
-    + [Stacktrace](#stacktrace)
-  * [Test](#test)
-  * [Compile](#compile)
-  * [Maven](#maven)
-  * [Gradle](#gradle)
-  * [Spring Boot](#spring-boot)
-  * [JBoss](#jboss)
-  * [Tomcat](#tomcat)
+  - [package import](#package-import)
+  - [rename](#rename)
+  - [method](#method)
+  - [Debugger](#debugger)
+    - [Stacktrace](#stacktrace)
+  - [Test](#test)
+  - [Compile](#compile)
+  - [Maven](#maven)
+  - [Gradle](#gradle)
+  - [Spring Boot](#spring-boot)
+  - [JBoss](#jboss)
+  - [Tomcat](#tomcat)
 
 <!-- tocstop -->
 

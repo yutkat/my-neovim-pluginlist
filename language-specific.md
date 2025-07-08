@@ -206,7 +206,6 @@
 
 #### Groovy
 
-
 ##### detekt
 
 - [nielsdekker/detekt.nvim](https://github.com/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/stars/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/last-commit/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/commit-activity/y/nielsdekker/detekt.nvim)
@@ -439,7 +438,6 @@
 - [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
 
 #### Gno
-
 
 #### Agda
 
@@ -776,4 +774,3 @@
 ### Epitech
 
 - [YetAnotherMechanicusEnjoyer/epitechlsp.nvim](https://github.com/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/stars/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/last-commit/YetAnotherMechanicusEnjoyer/epitechlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/YetAnotherMechanicusEnjoyer/epitechlsp.nvim)
-

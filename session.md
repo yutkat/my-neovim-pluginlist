@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Session](#session)
-  * [Session Selector](#session-selector)
+  - [Session Selector](#session-selector)
 
 <!-- tocstop -->
 

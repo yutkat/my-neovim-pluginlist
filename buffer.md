@@ -3,28 +3,28 @@
 <!-- toc -->
 
 - [Buffer](#buffer)
-  * [Buffer Selector](#buffer-selector)
-  * [Other Buffer Switcher](#other-buffer-switcher)
-  * [Buffer Management](#buffer-management)
-    + [create](#create)
-    + [open](#open)
+  - [Buffer Selector](#buffer-selector)
+  - [Other Buffer Switcher](#other-buffer-switcher)
+  - [Buffer Management](#buffer-management)
+    - [create](#create)
+    - [open](#open)
       - [recent file](#recent-file)
       - [remote open](#remote-open)
-    + [delete](#delete)
-    + [restore](#restore)
-    + [auto close](#auto-close)
-    + [auto reload](#auto-reload)
-    + [access control](#access-control)
-    + [path](#path)
-    + [status](#status)
-    + [oldfiles](#oldfiles)
-  * [Scratch Buffer](#scratch-buffer)
-  * [Scratchpad](#scratchpad)
-  * [buffer Sharing](#buffer-sharing)
-  * [Move history](#move-history)
-  * [refresh](#refresh)
-  * [Buffer info](#buffer-info)
-  * [Buffer Option](#buffer-option)
+    - [delete](#delete)
+    - [restore](#restore)
+    - [auto close](#auto-close)
+    - [auto reload](#auto-reload)
+    - [access control](#access-control)
+    - [path](#path)
+    - [status](#status)
+    - [oldfiles](#oldfiles)
+  - [Scratch Buffer](#scratch-buffer)
+  - [Scratchpad](#scratchpad)
+  - [buffer Sharing](#buffer-sharing)
+  - [Move history](#move-history)
+  - [refresh](#refresh)
+  - [Buffer info](#buffer-info)
+  - [Buffer Option](#buffer-option)
 
 <!-- tocstop -->
 
@@ -294,7 +294,6 @@
 - [FaisonZ/bring-a-map.nvim](https://github.com/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/stars/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/last-commit/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/commit-activity/y/FaisonZ/bring-a-map.nvim)
 
 ### refresh
-
 
 ### Buffer info
 

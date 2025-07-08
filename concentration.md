@@ -7,7 +7,7 @@
 - [Timer](#timer)
 - [Do Not Disturb](#do-not-disturb)
 - [Zen Mode](#zen-mode)
-  * [Focus Mode](#focus-mode)
+  - [Focus Mode](#focus-mode)
 - [Random Selection](#random-selection)
 
 <!-- tocstop -->

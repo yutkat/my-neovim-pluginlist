@@ -3,7 +3,7 @@
 <!-- toc -->
 
 - [Calculation](#calculation)
-  * [Time](#time)
+  - [Time](#time)
 
 <!-- tocstop -->
 
@@ -25,4 +25,3 @@
 ### Time
 
 - [Ask-786/time-calculator.nvim](https://github.com/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/stars/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/time-calculator.nvim)
-

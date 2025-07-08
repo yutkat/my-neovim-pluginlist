@@ -3,9 +3,9 @@
 <!-- toc -->
 
 - [Package Manager](#package-manager)
-  * [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
-    + [formatter](#formatter)
-  * [Luarock](#luarock)
+  - [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
+    - [formatter](#formatter)
+  - [Luarock](#luarock)
 - [for programming languages](#for-programming-languages)
 - [for CLI](#for-cli)
 - [for Rust](#for-rust)

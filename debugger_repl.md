@@ -3,13 +3,13 @@
 <!-- toc -->
 
 - [Debug](#debug)
-  * [Debugger](#debugger)
-    + [nvim-dap extension](#nvim-dap-extension)
-    + [Launch.json](#launchjson)
-  * [REPL](#repl)
-  * [Refactoring,Debugging](#refactoringdebugging)
-    + [print debug](#print-debug)
-    + [stack trace analyze](#stack-trace-analyze)
+  - [Debugger](#debugger)
+    - [nvim-dap extension](#nvim-dap-extension)
+    - [Launch.json](#launchjson)
+  - [REPL](#repl)
+  - [Refactoring,Debugging](#refactoringdebugging)
+    - [print debug](#print-debug)
+    - [stack trace analyze](#stack-trace-analyze)
 
 <!-- tocstop -->
 
