@@ -16,6 +16,7 @@
   - [Ollama](#ollama)
   - [Claude](#claude)
   - [Claude Code](#claude-code)
+  - [Amazon Q](#amazon-q)
   - [DeepSeek](#deepseek)
   - [Devin](#devin)
   - [OpenRouter](#openrouter)
@@ -310,6 +311,10 @@
 - [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/stars/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/last-commit/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-rodrigo/claude-code.nvim)
 - [jeremiahsmithdev/claude-cli.nvim](https://github.com/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/stars/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/claude-cli.nvim)
 
+### Amazon Q
+
+- [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
+
 ### DeepSeek
 
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
@@ -494,6 +499,7 @@
   - [ravitemer/codecompanion-history.nvim](https://github.com/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/stars/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/codecompanion-history.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/codecompanion-history.nvim)
   - [Davidyz/codecompanion-dap.nvim](https://github.com/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/stars/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/codecompanion-dap.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
+- [franco-ruggeri/codecompanion-spinner.nvim](https://github.com/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-spinner.nvim)
 
 ### Chatblade
 

@@ -3,30 +3,30 @@
 <!-- toc -->
 
 - [Note Taking](#note-taking)
-  * [Org mode](#org-mode)
-  * [Zettelkasten](#zettelkasten)
-  * [Markdown](#markdown)
-  * [ToDo](#todo)
-    + [Taskwarrior](#taskwarrior)
-  * [Obsidian](#obsidian)
-  * [nb](#nb)
-  * [Zeppelin](#zeppelin)
-  * [Blog](#blog)
-    + [Hugo](#hugo)
-  * [Google Keep](#google-keep)
-  * [Typst](#typst)
-  * [Dendron](#dendron)
-  * [Linear.app](#linearapp)
-  * [Omnivore](#omnivore)
-  * [BibleGateway](#biblegateway)
-  * [Zotero](#zotero)
-  * [Wiki](#wiki)
-  * [VimWiki](#vimwiki)
-  * [Scratch Buffer](#scratch-buffer)
-  * [inline note](#inline-note)
-  * [Anki](#anki)
-  * [Clickup](#clickup)
-  * [etc](#etc)
+  - [Org mode](#org-mode)
+  - [Zettelkasten](#zettelkasten)
+  - [Markdown](#markdown)
+  - [ToDo](#todo)
+    - [Taskwarrior](#taskwarrior)
+  - [Obsidian](#obsidian)
+  - [nb](#nb)
+  - [Zeppelin](#zeppelin)
+  - [Blog](#blog)
+    - [Hugo](#hugo)
+  - [Google Keep](#google-keep)
+  - [Typst](#typst)
+  - [Dendron](#dendron)
+  - [Linear.app](#linearapp)
+  - [Omnivore](#omnivore)
+  - [BibleGateway](#biblegateway)
+  - [Zotero](#zotero)
+  - [Wiki](#wiki)
+  - [VimWiki](#vimwiki)
+  - [Scratch Buffer](#scratch-buffer)
+  - [inline note](#inline-note)
+  - [Anki](#anki)
+  - [Clickup](#clickup)
+  - [etc](#etc)
 
 <!-- tocstop -->
 
@@ -177,6 +177,7 @@
 - [saljic/workday.nvim](https://github.com/saljic/workday.nvim) ![](https://img.shields.io/github/stars/saljic/workday.nvim) ![](https://img.shields.io/github/last-commit/saljic/workday.nvim) ![](https://img.shields.io/github/commit-activity/y/saljic/workday.nvim)
 - [hasansujon786/super-kanban.nvim](https://github.com/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/stars/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/last-commit/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/hasansujon786/super-kanban.nvim)
 - [thjbdvlt/todo.nvim](https://github.com/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/todo.nvim)
+- [gendonholaholo/todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/stars/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/last-commit/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/gendonholaholo/todo-lens.nvim)
 
 #### Taskwarrior
 
@@ -219,6 +220,7 @@
 - [maxardito/obtero.nvim](https://github.com/maxardito/obtero.nvim) ![](https://img.shields.io/github/stars/maxardito/obtero.nvim) ![](https://img.shields.io/github/last-commit/maxardito/obtero.nvim) ![](https://img.shields.io/github/commit-activity/y/maxardito/obtero.nvim)
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [arakkkkk/obsidian-kanban.nvim](https://github.com/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/obsidian-kanban.nvim)
+- [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
 
 ### nb
 
@@ -242,7 +244,6 @@
 - [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
 
 ### Dendron
-
 
 ### Linear.app
 

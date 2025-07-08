@@ -3,13 +3,13 @@
 <!-- toc -->
 
 - [Snippet](#snippet)
-  * [Snippet definitions](#snippet-definitions)
-  * [Snippet converter](#snippet-converter)
-  * [Snippet view](#snippet-view)
-  * [Snippet highlight](#snippet-highlight)
+  - [Snippet definitions](#snippet-definitions)
+  - [Snippet converter](#snippet-converter)
+  - [Snippet view](#snippet-view)
+  - [Snippet highlight](#snippet-highlight)
 - [Emmet](#emmet)
 - [Template](#template)
-  * [README](#readme)
+  - [README](#readme)
 - [Shebang](#shebang)
 
 <!-- tocstop -->
@@ -102,6 +102,7 @@
 - [viitorags/scaffy.nvim](https://github.com/viitorags/scaffy.nvim) ![](https://img.shields.io/github/stars/viitorags/scaffy.nvim) ![](https://img.shields.io/github/last-commit/viitorags/scaffy.nvim) ![](https://img.shields.io/github/commit-activity/y/viitorags/scaffy.nvim)
 - [adibhanna/nvim-newfile.nvim](https://github.com/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/nvim-newfile.nvim)
 - [ehgebu/nvim-newfile.nvim](https://github.com/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/stars/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/last-commit/ehgebu/nvim-newfile.nvim) ![](https://img.shields.io/github/commit-activity/y/ehgebu/nvim-newfile.nvim)
+- [Rational-Idiot/template.nvim](https://github.com/Rational-Idiot/template.nvim) ![](https://img.shields.io/github/stars/Rational-Idiot/template.nvim) ![](https://img.shields.io/github/last-commit/Rational-Idiot/template.nvim) ![](https://img.shields.io/github/commit-activity/y/Rational-Idiot/template.nvim)
 
 #### README
 
