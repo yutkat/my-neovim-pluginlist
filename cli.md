@@ -162,7 +162,6 @@
 
 #### Subversion
 
-- [HugoBde/subversigns.nvim](https://github.com/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/stars/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/last-commit/HugoBde/subversigns.nvim) ![](https://img.shields.io/github/commit-activity/y/HugoBde/subversigns.nvim)
 
 #### Rewind
 
