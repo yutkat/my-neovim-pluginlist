@@ -56,6 +56,7 @@
 - [SWiegandt/autoself.nvim](https://github.com/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/stars/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/autoself.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/autoself.nvim)
 - [SWiegandt/python-utils.nvim](https://github.com/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/stars/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/last-commit/SWiegandt/python-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/SWiegandt/python-utils.nvim)
 - [joshzcold/python.nvim](https://github.com/joshzcold/python.nvim) ![](https://img.shields.io/github/stars/joshzcold/python.nvim) ![](https://img.shields.io/github/last-commit/joshzcold/python.nvim) ![](https://img.shields.io/github/commit-activity/y/joshzcold/python.nvim)
+- [mjbn/FoxDot.nvim](https://github.com/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/stars/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/last-commit/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/commit-activity/y/mjbn/FoxDot.nvim)
 
 ### tweaks
 
@@ -218,7 +219,6 @@
 - [Willem-J-an/visidata.nvim](https://github.com/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/stars/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/last-commit/Willem-J-an/visidata.nvim) ![](https://img.shields.io/github/commit-activity/y/Willem-J-an/visidata.nvim)
 
 ### Kedro
-
 
 ### Anaconda
 
