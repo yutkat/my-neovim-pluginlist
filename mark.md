@@ -115,6 +115,7 @@
 - [leosmaia21/navigator.nvim](https://github.com/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/stars/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/last-commit/leosmaia21/navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/leosmaia21/navigator.nvim)
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bookmarks.nvim)
 - [edte/bookmarks.nvim](https://github.com/edte/bookmarks.nvim) ![](https://img.shields.io/github/stars/edte/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/edte/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/bookmarks.nvim)
+- [Ninjagor/trident.nvim](https://github.com/Ninjagor/trident.nvim) ![](https://img.shields.io/github/stars/Ninjagor/trident.nvim) ![](https://img.shields.io/github/last-commit/Ninjagor/trident.nvim) ![](https://img.shields.io/github/commit-activity/y/Ninjagor/trident.nvim)
 
 ### etc
 

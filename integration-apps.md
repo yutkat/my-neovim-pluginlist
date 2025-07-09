@@ -402,6 +402,7 @@
 - [delphinus/skkeleton_indicator.nvim](https://github.com/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/stars/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/last-commit/delphinus/skkeleton_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/skkeleton_indicator.nvim)
 - [uga-rosa/cmp-skkeleton](https://github.com/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/stars/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/last-commit/uga-rosa/cmp-skkeleton) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/cmp-skkeleton)
 - [yuys13/skk-develop.nvim](https://github.com/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/stars/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/last-commit/yuys13/skk-develop.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/skk-develop.nvim)
+- [noanoano/skk.nvim](https://github.com/noanoano/skk.nvim) ![](https://img.shields.io/github/stars/noanoano/skk.nvim) ![](https://img.shields.io/github/last-commit/noanoano/skk.nvim) ![](https://img.shields.io/github/commit-activity/y/noanoano/skk.nvim)
 
 #### migemo
 

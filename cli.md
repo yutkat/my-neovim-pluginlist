@@ -115,6 +115,7 @@
 - [kkanden/tmux-sessionizer.nvim](https://github.com/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/stars/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/last-commit/kkanden/tmux-sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/kkanden/tmux-sessionizer.nvim)
 - [yuki-yano/smart-tmux-nav.nvim](https://github.com/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-tmux-nav.nvim)
 - [chiendo97/tmux-buffer-picker.nvim](https://github.com/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/stars/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/tmux-buffer-picker.nvim)
+- [RaphaeleL/hartoon.nvim](https://github.com/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/stars/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/last-commit/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/commit-activity/y/RaphaeleL/hartoon.nvim)
 
 ##### tmux alternative
 
