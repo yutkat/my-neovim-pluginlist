@@ -178,6 +178,7 @@
 - [hasansujon786/super-kanban.nvim](https://github.com/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/stars/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/last-commit/hasansujon786/super-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/hasansujon786/super-kanban.nvim)
 - [thjbdvlt/todo.nvim](https://github.com/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/todo.nvim)
 - [gendonholaholo/todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/stars/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/last-commit/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/gendonholaholo/todo-lens.nvim)
+- [clockworkpc/nvim-taskscanner](https://github.com/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/stars/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/last-commit/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/commit-activity/y/clockworkpc/nvim-taskscanner)
 
 #### Taskwarrior
 

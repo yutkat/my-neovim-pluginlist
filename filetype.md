@@ -34,6 +34,7 @@
 
 - [sjjwantfish/encodings.nvim](https://github.com/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/stars/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/last-commit/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/commit-activity/y/sjjwantfish/encodings.nvim)
 - [pguimier/ToggleEncode.nvim](https://github.com/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/stars/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/last-commit/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/commit-activity/y/pguimier/ToggleEncode.nvim)
+- [Shuheng-Zhang/file-encode-selector.nvim](https://github.com/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/file-encode-selector.nvim)
 
 ## file attributes
 

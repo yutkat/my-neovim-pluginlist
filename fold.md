@@ -36,6 +36,7 @@
 - [TheLazyCat00/focus-nvim](https://github.com/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/focus-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/focus-nvim)
 - [nicolas-martin/region-folding.nvim](https://github.com/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/stars/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/last-commit/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolas-martin/region-folding.nvim)
 - [theseifhassan/smartfolds.nvim](https://github.com/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/stars/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/last-commit/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/commit-activity/y/theseifhassan/smartfolds.nvim)
+- [schilkp/collapse_paragraphs.nvim](https://github.com/schilkp/collapse_paragraphs.nvim) ![](https://img.shields.io/github/stars/schilkp/collapse_paragraphs.nvim) ![](https://img.shields.io/github/last-commit/schilkp/collapse_paragraphs.nvim) ![](https://img.shields.io/github/commit-activity/y/schilkp/collapse_paragraphs.nvim)
 
 ## Conceal
 
