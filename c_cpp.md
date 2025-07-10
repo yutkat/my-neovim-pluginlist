@@ -5,6 +5,7 @@
 - [C/C++](#cc)
   - [Syntax](#syntax)
   - [Macro](#macro)
+  - [function](#function)
   - [Compile](#compile)
     - [insight](#insight)
     - [elf](#elf)
@@ -73,6 +74,10 @@
 ### Macro
 
 - [sciccolella/cmacro.nvim](https://github.com/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/stars/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/last-commit/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/sciccolella/cmacro.nvim)
+
+### function
+
+- [willtrojniak/flipp.nvim](https://github.com/willtrojniak/flipp.nvim) ![](https://img.shields.io/github/stars/willtrojniak/flipp.nvim) ![](https://img.shields.io/github/last-commit/willtrojniak/flipp.nvim) ![](https://img.shields.io/github/commit-activity/y/willtrojniak/flipp.nvim)
 
 ### Compile
 
