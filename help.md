@@ -60,6 +60,7 @@
 - [naranyala/easyref.nvim](https://github.com/naranyala/easyref.nvim) ![](https://img.shields.io/github/stars/naranyala/easyref.nvim) ![](https://img.shields.io/github/last-commit/naranyala/easyref.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/easyref.nvim)
 - [walkingshamrock/devquiz.nvim](https://github.com/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/devquiz.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/devquiz.nvim)
 - [cksidharthan/mentor.nvim](https://github.com/cksidharthan/mentor.nvim) ![](https://img.shields.io/github/stars/cksidharthan/mentor.nvim) ![](https://img.shields.io/github/last-commit/cksidharthan/mentor.nvim) ![](https://img.shields.io/github/commit-activity/y/cksidharthan/mentor.nvim)
+- [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/stars/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/last-commit/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/commit-activity/y/shahshlok/vim-coach.nvim)
 
 ### External Manual
 

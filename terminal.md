@@ -89,6 +89,7 @@
 - [mtkld/ctxterm.nvim](https://github.com/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/stars/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/ctxterm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/ctxterm.nvim)
 - [runicodec/glacier.nvim](https://github.com/runicodec/glacier.nvim) ![](https://img.shields.io/github/stars/runicodec/glacier.nvim) ![](https://img.shields.io/github/last-commit/runicodec/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/runicodec/glacier.nvim)
 - [naughie/termplexer.nvim](https://github.com/naughie/termplexer.nvim) ![](https://img.shields.io/github/stars/naughie/termplexer.nvim) ![](https://img.shields.io/github/last-commit/naughie/termplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/termplexer.nvim)
+- [jfgordon2/vsterm.nvim](https://github.com/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/stars/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/vsterm.nvim)
 
 ### Open
 
