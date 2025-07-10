@@ -212,6 +212,7 @@
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
 - [Evilbunz-sol/ai-coding-assistant.nvim](https://github.com/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/stars/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/last-commit/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/Evilbunz-sol/ai-coding-assistant.nvim)
+- [CharaD7/nvim-jetbrainsai-proxy](https://github.com/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/stars/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/last-commit/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/commit-activity/y/CharaD7/nvim-jetbrainsai-proxy)
 
 #### mods
 
@@ -322,6 +323,7 @@
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [Anderssi/assist.nvim](https://github.com/Anderssi/assist.nvim) ![](https://img.shields.io/github/stars/Anderssi/assist.nvim) ![](https://img.shields.io/github/last-commit/Anderssi/assist.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderssi/assist.nvim)
+- [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 
 ### Devin
 
