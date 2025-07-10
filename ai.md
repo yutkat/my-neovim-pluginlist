@@ -17,6 +17,7 @@
   - [Claude](#claude)
   - [Claude Code](#claude-code)
   - [Amazon Q](#amazon-q)
+  - [JetBrains AI](#jetbrains-ai)
   - [DeepSeek](#deepseek)
   - [Devin](#devin)
   - [OpenRouter](#openrouter)
@@ -312,16 +313,22 @@
 - [carlos-rodrigo/claude-code.nvim](https://github.com/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/stars/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/last-commit/carlos-rodrigo/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-rodrigo/claude-code.nvim)
 - [jeremiahsmithdev/claude-cli.nvim](https://github.com/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/stars/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/claude-cli.nvim)
 - [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/stars/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/last-commit/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/samir-roy/code-bridge.nvim)
+- [toshiemon18/cc.nvim](https://github.com/toshiemon18/cc.nvim) ![](https://img.shields.io/github/stars/toshiemon18/cc.nvim) ![](https://img.shields.io/github/last-commit/toshiemon18/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/toshiemon18/cc.nvim)
 
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
+
+### JetBrains AI
+
+- [CharaD7/nvim-jetbrainsai-proxy](https://github.com/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/stars/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/last-commit/CharaD7/nvim-jetbrainsai-proxy) ![](https://img.shields.io/github/commit-activity/y/CharaD7/nvim-jetbrainsai-proxy)
 
 ### DeepSeek
 
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [Anderssi/assist.nvim](https://github.com/Anderssi/assist.nvim) ![](https://img.shields.io/github/stars/Anderssi/assist.nvim) ![](https://img.shields.io/github/last-commit/Anderssi/assist.nvim) ![](https://img.shields.io/github/commit-activity/y/Anderssi/assist.nvim)
+- [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 
 ### Devin
 
