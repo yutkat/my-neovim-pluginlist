@@ -308,7 +308,6 @@
 - [ergoproxy623/nvim-html-css](https://github.com/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/stars/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/last-commit/ergoproxy623/nvim-html-css) ![](https://img.shields.io/github/commit-activity/y/ergoproxy623/nvim-html-css)
 - [aciiip/nvim-c-css](https://github.com/aciiip/nvim-c-css) ![](https://img.shields.io/github/stars/aciiip/nvim-c-css) ![](https://img.shields.io/github/last-commit/aciiip/nvim-c-css) ![](https://img.shields.io/github/commit-activity/y/aciiip/nvim-c-css)
 - [levinspiekermann/nvim-px-to-vmin](https://github.com/levinspiekermann/nvim-px-to-vmin) ![](https://img.shields.io/github/stars/levinspiekermann/nvim-px-to-vmin) ![](https://img.shields.io/github/last-commit/levinspiekermann/nvim-px-to-vmin) ![](https://img.shields.io/github/commit-activity/y/levinspiekermann/nvim-px-to-vmin)
-- [steschwa/css-tools.nvim](https://github.com/steschwa/css-tools.nvim) ![](https://img.shields.io/github/stars/steschwa/css-tools.nvim) ![](https://img.shields.io/github/last-commit/steschwa/css-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/steschwa/css-tools.nvim)
 
 ### tailwind
 
