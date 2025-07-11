@@ -71,6 +71,7 @@
 - [olrtg/nvim-emmet](https://github.com/olrtg/nvim-emmet) ![](https://img.shields.io/github/stars/olrtg/nvim-emmet) ![](https://img.shields.io/github/last-commit/olrtg/nvim-emmet) ![](https://img.shields.io/github/commit-activity/y/olrtg/nvim-emmet)
 - [dorage/tree-emmet.nvim](https://github.com/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/stars/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/last-commit/dorage/tree-emmet.nvim) ![](https://img.shields.io/github/commit-activity/y/dorage/tree-emmet.nvim)
 - [LelouchFR/snipml.nvim](https://github.com/LelouchFR/snipml.nvim) ![](https://img.shields.io/github/stars/LelouchFR/snipml.nvim) ![](https://img.shields.io/github/last-commit/LelouchFR/snipml.nvim) ![](https://img.shields.io/github/commit-activity/y/LelouchFR/snipml.nvim)
+- [Matt-Boeren/nvimEmmet.nvim](https://github.com/Matt-Boeren/nvimEmmet.nvim) ![](https://img.shields.io/github/stars/Matt-Boeren/nvimEmmet.nvim) ![](https://img.shields.io/github/last-commit/Matt-Boeren/nvimEmmet.nvim) ![](https://img.shields.io/github/commit-activity/y/Matt-Boeren/nvimEmmet.nvim)
 
 ### Template
 
@@ -111,4 +112,3 @@
 ### Shebang
 
 - [LunarLambda/shebang.nvim](https://github.com/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/stars/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/last-commit/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/shebang.nvim)
-
