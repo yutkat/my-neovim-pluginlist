@@ -38,6 +38,7 @@
 - [Callumk7/pomodoro.nvim](https://github.com/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/stars/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/Callumk7/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/Callumk7/pomodoro.nvim)
 - [pedrosanto90/focus.nvim](https://github.com/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/stars/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/last-commit/pedrosanto90/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/pedrosanto90/focus.nvim)
 - [sauloperez/tomata.nvim](https://github.com/sauloperez/tomata.nvim) ![](https://img.shields.io/github/stars/sauloperez/tomata.nvim) ![](https://img.shields.io/github/last-commit/sauloperez/tomata.nvim) ![](https://img.shields.io/github/commit-activity/y/sauloperez/tomata.nvim)
+- [4DRIAN0RTIZ/pomo.nvim](https://github.com/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/pomo.nvim)
 
 ## Alarm
 
