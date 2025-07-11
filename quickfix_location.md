@@ -36,6 +36,7 @@
 - [ElanMedoff/quickfix-preview.nvim](https://github.com/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/quickfix-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/quickfix-preview.nvim)
 - [sd274/quickRight.nvim](https://github.com/sd274/quickRight.nvim) ![](https://img.shields.io/github/stars/sd274/quickRight.nvim) ![](https://img.shields.io/github/last-commit/sd274/quickRight.nvim) ![](https://img.shields.io/github/commit-activity/y/sd274/quickRight.nvim)
 - [r0nsha/qfpreview.nvim](https://github.com/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/stars/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/qfpreview.nvim)
+- [brianhuster/qfpeek.nvim](https://github.com/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/stars/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/qfpeek.nvim)
 
 ### Output the list to another format
 

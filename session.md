@@ -68,6 +68,7 @@
 - [am2b/keep.nvim](https://github.com/am2b/keep.nvim) ![](https://img.shields.io/github/stars/am2b/keep.nvim) ![](https://img.shields.io/github/last-commit/am2b/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/keep.nvim)
 - [niba/continue.nvim](https://github.com/niba/continue.nvim) ![](https://img.shields.io/github/stars/niba/continue.nvim) ![](https://img.shields.io/github/last-commit/niba/continue.nvim) ![](https://img.shields.io/github/commit-activity/y/niba/continue.nvim)
 - [xorangekiller/session-select.nvim](https://github.com/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/stars/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/last-commit/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/commit-activity/y/xorangekiller/session-select.nvim)
+- [paradoxical-dev/multi-session.nvim](https://github.com/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/multi-session.nvim)
 
 ### Session Selector
 
