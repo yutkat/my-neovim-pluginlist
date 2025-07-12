@@ -139,6 +139,7 @@
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
+- [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 
 #### Codex
 
@@ -163,6 +164,7 @@
   - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
 - [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
+- [ozars/aiignore.nvim](https://github.com/ozars/aiignore.nvim) ![](https://img.shields.io/github/stars/ozars/aiignore.nvim) ![](https://img.shields.io/github/last-commit/ozars/aiignore.nvim) ![](https://img.shields.io/github/commit-activity/y/ozars/aiignore.nvim)
 
 #### Gemini CLI
 

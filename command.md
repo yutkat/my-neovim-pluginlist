@@ -36,6 +36,7 @@
 - [mr55p-dev/jobber.nvim](https://github.com/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/jobber.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/jobber.nvim)
 - [tenfyzhong/nvim-F](https://github.com/tenfyzhong/nvim-F) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-F) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-F) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-F)
 - [OXY2DEV/oops.nvim](https://github.com/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/oops.nvim)
+- [WhoIsSethDaniel/lsp-cd.nvim](https://github.com/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lsp-cd.nvim)
 
 ### Shell
 
