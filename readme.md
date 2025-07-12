@@ -393,6 +393,7 @@
 - [weilbith/nvim-floating-tag-preview](https://github.com/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/stars/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/last-commit/weilbith/nvim-floating-tag-preview) ![](https://img.shields.io/github/commit-activity/y/weilbith/nvim-floating-tag-preview)
 - [quangnguyen30192/cmp-nvim-tags](https://github.com/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/stars/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/last-commit/quangnguyen30192/cmp-nvim-tags) ![](https://img.shields.io/github/commit-activity/y/quangnguyen30192/cmp-nvim-tags)
 - [linrongbin16/gentags.nvim](https://github.com/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gentags.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gentags.nvim)
+- [francescoApophis/tags.nvim](https://github.com/francescoApophis/tags.nvim) ![](https://img.shields.io/github/stars/francescoApophis/tags.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/tags.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/tags.nvim)
 
 ### [Fold / Conceal](./fold.md)
 
@@ -537,7 +538,6 @@
 - [Fildo7525/pretty_hover](https://github.com/Fildo7525/pretty_hover) ![](https://img.shields.io/github/stars/Fildo7525/pretty_hover) ![](https://img.shields.io/github/last-commit/Fildo7525/pretty_hover) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/pretty_hover)
 
 ### Uptime
-
 
 ### File Handling
 

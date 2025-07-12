@@ -67,6 +67,7 @@
 - [LLM context](#llm-context)
 - [RAG](#rag)
 - [Model Context Protocol(MCP)](#model-context-protocolmcp)
+- [ignore](#ignore)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
   - [Linkup](#linkup)
@@ -213,6 +214,7 @@
 - [sbwildflowers/nvim-prompt](https://github.com/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/stars/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/last-commit/sbwildflowers/nvim-prompt) ![](https://img.shields.io/github/commit-activity/y/sbwildflowers/nvim-prompt)
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
 - [Evilbunz-sol/ai-coding-assistant.nvim](https://github.com/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/stars/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/last-commit/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/Evilbunz-sol/ai-coding-assistant.nvim)
+- [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 
 #### mods
 
@@ -572,6 +574,10 @@
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
 - [brianhuster/nvim-mcp-server](https://github.com/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/stars/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/last-commit/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/commit-activity/y/brianhuster/nvim-mcp-server)
 - [thatguyinabeanie/todo-mcp.nvim](https://github.com/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/stars/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/last-commit/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/thatguyinabeanie/todo-mcp.nvim)
+
+## ignore
+
+- [ozars/aiignore.nvim](https://github.com/ozars/aiignore.nvim) ![](https://img.shields.io/github/stars/ozars/aiignore.nvim) ![](https://img.shields.io/github/last-commit/ozars/aiignore.nvim) ![](https://img.shields.io/github/commit-activity/y/ozars/aiignore.nvim)
 
 ## Configuration File (.cursor)
 

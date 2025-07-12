@@ -109,7 +109,6 @@
 
 #### iMessage
 
-
 ### SNS
 
 #### Mastodon
@@ -209,6 +208,7 @@
 - [willothy/twitch.nvim](https://github.com/willothy/twitch.nvim) ![](https://img.shields.io/github/stars/willothy/twitch.nvim) ![](https://img.shields.io/github/last-commit/willothy/twitch.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/twitch.nvim)
 - [inferst/nvim-chaos](https://github.com/inferst/nvim-chaos) ![](https://img.shields.io/github/stars/inferst/nvim-chaos) ![](https://img.shields.io/github/last-commit/inferst/nvim-chaos) ![](https://img.shields.io/github/commit-activity/y/inferst/nvim-chaos)
 - [ShimmyTheDev/nvim-twitchchat](https://github.com/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/stars/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/last-commit/ShimmyTheDev/nvim-twitchchat) ![](https://img.shields.io/github/commit-activity/y/ShimmyTheDev/nvim-twitchchat)
+- [dmmulroy/twitch-chat.nvim](https://github.com/dmmulroy/twitch-chat.nvim) ![](https://img.shields.io/github/stars/dmmulroy/twitch-chat.nvim) ![](https://img.shields.io/github/last-commit/dmmulroy/twitch-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/dmmulroy/twitch-chat.nvim)
 
 ### Spotify
 
@@ -280,7 +280,6 @@
 
 ### HackerNews
 
-
 ### Zotero
 
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
@@ -326,7 +325,6 @@
 - [prefab-cloud/prefab.nvim](https://github.com/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/stars/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/last-commit/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/commit-activity/y/prefab-cloud/prefab.nvim)
 
 ## Web3
-
 
 ## CI
 

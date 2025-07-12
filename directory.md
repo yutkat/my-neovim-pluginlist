@@ -25,6 +25,7 @@
 - [j--c/cwd.nvim](https://github.com/j--c/cwd.nvim) ![](https://img.shields.io/github/stars/j--c/cwd.nvim) ![](https://img.shields.io/github/last-commit/j--c/cwd.nvim) ![](https://img.shields.io/github/commit-activity/y/j--c/cwd.nvim)
 - [gw31415/root.nvim](https://github.com/gw31415/root.nvim) ![](https://img.shields.io/github/stars/gw31415/root.nvim) ![](https://img.shields.io/github/last-commit/gw31415/root.nvim) ![](https://img.shields.io/github/commit-activity/y/gw31415/root.nvim)
 - [shaobosong/chdir.nvim](https://github.com/shaobosong/chdir.nvim) ![](https://img.shields.io/github/stars/shaobosong/chdir.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/chdir.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/chdir.nvim)
+- [WhoIsSethDaniel/lsp-cd.nvim](https://github.com/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lsp-cd.nvim)
 
 ### zoxide
 
