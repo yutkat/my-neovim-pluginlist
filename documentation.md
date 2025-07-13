@@ -267,6 +267,7 @@
 #### footnote
 
 - [chenxin-yan/footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/footnote.nvim)
+- [watttttttttttttttttt/footnotes-preview.nvim](https://github.com/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/stars/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/last-commit/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/watttttttttttttttttt/footnotes-preview.nvim)
 
 #### ID
 

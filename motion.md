@@ -102,6 +102,7 @@
 - [ElanMedoff/ft-highlight.nvim](https://github.com/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/ft-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/ft-highlight.nvim)
 - [Suryansh-Dey/to-future.nvim](https://github.com/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/stars/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/last-commit/Suryansh-Dey/to-future.nvim) ![](https://img.shields.io/github/commit-activity/y/Suryansh-Dey/to-future.nvim)
 - [gustavosbarreto/momentum.nvim](https://github.com/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/stars/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/last-commit/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavosbarreto/momentum.nvim)
+- [samiulsami/fFtT-highlights.nvim](https://github.com/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/stars/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/fFtT-highlights.nvim)
 
 #### Show jump word
 

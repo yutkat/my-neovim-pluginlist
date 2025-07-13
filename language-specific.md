@@ -122,6 +122,7 @@
     - [Beancount](#beancount)
     - [incc](#incc)
     - [Slang](#slang)
+    - [NASM](#nasm)
     - [Aptos Move](#aptos-move)
     - [Flix](#flix)
     - [CHIP-8](#chip-8)
@@ -681,6 +682,10 @@
 #### Slang
 
 - [sgaulter/slang-server.nvim](https://github.com/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/stars/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/last-commit/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/commit-activity/y/sgaulter/slang-server.nvim)
+
+#### NASM
+
+- [Who5673/who5673-nasm](https://github.com/Who5673/who5673-nasm) ![](https://img.shields.io/github/stars/Who5673/who5673-nasm) ![](https://img.shields.io/github/last-commit/Who5673/who5673-nasm) ![](https://img.shields.io/github/commit-activity/y/Who5673/who5673-nasm)
 
 #### Aptos Move
 

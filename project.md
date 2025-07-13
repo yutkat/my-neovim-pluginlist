@@ -112,6 +112,7 @@
 - [Dzejkop/konfig.nvim](https://github.com/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/stars/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/konfig.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/konfig.nvim)
 - [yamgent/simple-settings.nvim](https://github.com/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/stars/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/last-commit/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/yamgent/simple-settings.nvim)
 - [spenserblack/dot-nvim.nvim](https://github.com/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/stars/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/last-commit/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserblack/dot-nvim.nvim)
+- [matiascaniete/local.nvim](https://github.com/matiascaniete/local.nvim) ![](https://img.shields.io/github/stars/matiascaniete/local.nvim) ![](https://img.shields.io/github/last-commit/matiascaniete/local.nvim) ![](https://img.shields.io/github/commit-activity/y/matiascaniete/local.nvim)
 
 ### Config switcher
 

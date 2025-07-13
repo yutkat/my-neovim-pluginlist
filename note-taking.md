@@ -51,6 +51,7 @@
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-roam.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-roam.nvim)
 - [0xzhzh/fzf-org.nvim](https://github.com/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/stars/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/last-commit/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/commit-activity/y/0xzhzh/fzf-org.nvim)
 - [zenarvus/md-agenda.nvim](https://github.com/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/stars/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/last-commit/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/zenarvus/md-agenda.nvim)
+- [hamidi-dev/org-telescope.nvim](https://github.com/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-telescope.nvim)
 
 ### Zettelkasten
 
@@ -302,6 +303,7 @@
 
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
 - [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
+- [Zhuxy/ankitui.nvim](https://github.com/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/stars/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/ankitui.nvim)
 
 ### Clickup
 

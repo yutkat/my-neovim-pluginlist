@@ -298,6 +298,7 @@
 
 - [Jarvismkennedy/git-auto-sync.nvim](https://github.com/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/stars/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/last-commit/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/Jarvismkennedy/git-auto-sync.nvim)
 - [rgibbons-dev/gitsync.nvim](https://github.com/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/stars/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/last-commit/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/commit-activity/y/rgibbons-dev/gitsync.nvim)
+- [luispflamminger/git-sync.nvim](https://github.com/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/stars/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/last-commit/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/luispflamminger/git-sync.nvim)
 
 ### git open
 
@@ -429,7 +430,6 @@
 - [gitusp/gh-utils.nvim](https://github.com/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-utils.nvim)
 
 #### Notify
-
 
 ### GitHub tweaks
 
