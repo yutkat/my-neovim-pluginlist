@@ -96,6 +96,7 @@
 - [Tyrannican/scratchy.nvim](https://github.com/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/stars/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/last-commit/Tyrannican/scratchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyrannican/scratchy.nvim)
 - [walkingshamrock/runpad.nvim](https://github.com/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/runpad.nvim)
 - [fasterius/slime-peek.nvim](https://github.com/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/stars/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/last-commit/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/slime-peek.nvim)
+- [gaiwan-dev/nvim-repl](https://github.com/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/stars/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/last-commit/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/commit-activity/y/gaiwan-dev/nvim-repl)
 
 ### Refactoring,Debugging
 

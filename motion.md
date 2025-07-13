@@ -107,6 +107,7 @@
 
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/stars/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/last-commit/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/commit-activity/y/jinh0/eyeliner.nvim)
 - [dmxk062/nvim-blinkenfind](https://github.com/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/stars/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/last-commit/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/commit-activity/y/dmxk062/nvim-blinkenfind)
+- [samiulsami/fFtT-highlights.nvim](https://github.com/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/stars/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/fFtT-highlights.nvim)
 
 ### Motion Label
 

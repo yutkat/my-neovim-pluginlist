@@ -267,6 +267,7 @@
 #### footnote
 
 - [chenxin-yan/footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/footnote.nvim)
+- [watttttttttttttttttt/footnotes-preview.nvim](https://github.com/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/stars/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/last-commit/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/watttttttttttttttttt/footnotes-preview.nvim)
 
 #### ID
 
@@ -475,6 +476,7 @@
 - [pxwg/latex-conceal.nvim](https://github.com/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/stars/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/last-commit/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/latex-conceal.nvim)
 - [atomashevic/unicode-math.nvim](https://github.com/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/stars/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/last-commit/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/commit-activity/y/atomashevic/unicode-math.nvim)
 - [tim-pearson/latex-eval.nvim](https://github.com/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/stars/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/last-commit/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/commit-activity/y/tim-pearson/latex-eval.nvim)
+- [chemio9/luasnip-latex-snippets.nvim](https://github.com/chemio9/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/stars/chemio9/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/last-commit/chemio9/luasnip-latex-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/chemio9/luasnip-latex-snippets.nvim)
 
 #### Preview
 
