@@ -171,6 +171,8 @@
 - [marcinjahn/gemini-cli.nvim](https://github.com/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/stars/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/marcinjahn/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/marcinjahn/gemini-cli.nvim)
 - [jonroosevelt/gemini.nvim](https://github.com/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/stars/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/last-commit/jonroosevelt/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/jonroosevelt/gemini.nvim)
 - [abdullahchand/gemini-nvim](https://github.com/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/stars/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/last-commit/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/abdullahchand/gemini-nvim)
+- [nsalerni/gemi.nvim](https://github.com/nsalerni/gemi.nvim) ![](https://img.shields.io/github/stars/nsalerni/gemi.nvim) ![](https://img.shields.io/github/last-commit/nsalerni/gemi.nvim) ![](https://img.shields.io/github/commit-activity/y/nsalerni/gemi.nvim)
+- [JunYang-tes/gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/JunYang-tes/gemini-nvim)
 
 ### Multi LLM
 

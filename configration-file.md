@@ -57,6 +57,7 @@
 - [rhettjay/jsonifyEnv.nvim](https://github.com/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/stars/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/last-commit/rhettjay/jsonifyEnv.nvim) ![](https://img.shields.io/github/commit-activity/y/rhettjay/jsonifyEnv.nvim)
 - [estevesnp/jq.nvim](https://github.com/estevesnp/jq.nvim) ![](https://img.shields.io/github/stars/estevesnp/jq.nvim) ![](https://img.shields.io/github/last-commit/estevesnp/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/estevesnp/jq.nvim)
 - [lobaton-nvim/nvim-jwt-ui](https://github.com/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/stars/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/last-commit/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/commit-activity/y/lobaton-nvim/nvim-jwt-ui)
+- [Owen-Dechow/nvim_json_graph_view](https://github.com/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/stars/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/last-commit/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/commit-activity/y/Owen-Dechow/nvim_json_graph_view)
 
 #### fx
 

@@ -276,6 +276,7 @@
 - [tehdb/nvim-faker](https://github.com/tehdb/nvim-faker) ![](https://img.shields.io/github/stars/tehdb/nvim-faker) ![](https://img.shields.io/github/last-commit/tehdb/nvim-faker) ![](https://img.shields.io/github/commit-activity/y/tehdb/nvim-faker)
 - [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
 - [cwmaguire/datebox.nvim](https://github.com/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/stars/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/last-commit/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/commit-activity/y/cwmaguire/datebox.nvim)
+- [sontungexpt/bim.nvim](https://github.com/sontungexpt/bim.nvim) ![](https://img.shields.io/github/stars/sontungexpt/bim.nvim) ![](https://img.shields.io/github/last-commit/sontungexpt/bim.nvim) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/bim.nvim)
 
 #### Smart Tab
 
