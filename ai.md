@@ -8,6 +8,7 @@
     - [Whisper](#whisper)
   - [Gemini](#gemini)
     - [Gemini CLI](#gemini-cli)
+  - [Grok](#grok)
   - [Multi LLM](#multi-llm)
     - [mods](#mods)
     - [Generate Doc](#generate-doc)
@@ -173,6 +174,10 @@
 - [abdullahchand/gemini-nvim](https://github.com/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/stars/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/last-commit/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/abdullahchand/gemini-nvim)
 - [nsalerni/gemi.nvim](https://github.com/nsalerni/gemi.nvim) ![](https://img.shields.io/github/stars/nsalerni/gemi.nvim) ![](https://img.shields.io/github/last-commit/nsalerni/gemi.nvim) ![](https://img.shields.io/github/commit-activity/y/nsalerni/gemi.nvim)
 - [JunYang-tes/gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/JunYang-tes/gemini-nvim)
+
+### Grok
+
+- [9MaxR9/grok.nvim](https://github.com/9MaxR9/grok.nvim) ![](https://img.shields.io/github/stars/9MaxR9/grok.nvim) ![](https://img.shields.io/github/last-commit/9MaxR9/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/9MaxR9/grok.nvim)
 
 ### Multi LLM
 

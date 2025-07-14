@@ -6,17 +6,18 @@
   - [Spellcheck](#spellcheck)
   - [Vale](#vale)
 - [Pronunce](#pronunce)
+- [Thesaurus](#thesaurus)
 
 <!-- tocstop -->
 
-### Spell
+## Spell
 
 - [RKBethke/spellsync.nvim](https://github.com/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/stars/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/spellsync.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/spellsync.nvim)
 - [cuducos/spellfile.nvim](https://github.com/cuducos/spellfile.nvim) ![](https://img.shields.io/github/stars/cuducos/spellfile.nvim) ![](https://img.shields.io/github/last-commit/cuducos/spellfile.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/spellfile.nvim)
 - [rubiin/vimwordlist.nvim](https://github.com/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/stars/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/last-commit/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/vimwordlist.nvim)
 - [rubiin/vimwordlist.nvim](https://github.com/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/stars/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/last-commit/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/vimwordlist.nvim)
 
-#### Spellcheck
+### Spellcheck
 
 - [dvdsk/prosesitter.nvim](https://github.com/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/stars/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/last-commit/dvdsk/prosesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/dvdsk/prosesitter.nvim)
 - [poljar/typos.nvim](https://github.com/poljar/typos.nvim) ![](https://img.shields.io/github/stars/poljar/typos.nvim) ![](https://img.shields.io/github/last-commit/poljar/typos.nvim) ![](https://img.shields.io/github/commit-activity/y/poljar/typos.nvim)
@@ -37,10 +38,14 @@
 - [damiensawyer/sb.nvim](https://github.com/damiensawyer/sb.nvim) ![](https://img.shields.io/github/stars/damiensawyer/sb.nvim) ![](https://img.shields.io/github/last-commit/damiensawyer/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/damiensawyer/sb.nvim)
 - [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 
-#### Vale
+### Vale
 
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
 
-### Pronunce
+## Pronunce
 
 - [mec-nyan/nvim-words](https://github.com/mec-nyan/nvim-words) ![](https://img.shields.io/github/stars/mec-nyan/nvim-words) ![](https://img.shields.io/github/last-commit/mec-nyan/nvim-words) ![](https://img.shields.io/github/commit-activity/y/mec-nyan/nvim-words)
+
+## Thesaurus
+
+- [hertogp/syns.nvim](https://github.com/hertogp/syns.nvim) ![](https://img.shields.io/github/stars/hertogp/syns.nvim) ![](https://img.shields.io/github/last-commit/hertogp/syns.nvim) ![](https://img.shields.io/github/commit-activity/y/hertogp/syns.nvim)
