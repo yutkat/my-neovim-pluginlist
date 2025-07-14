@@ -99,6 +99,7 @@
 - [perfectyang/view-register.nvim](https://github.com/perfectyang/view-register.nvim) ![](https://img.shields.io/github/stars/perfectyang/view-register.nvim) ![](https://img.shields.io/github/last-commit/perfectyang/view-register.nvim) ![](https://img.shields.io/github/commit-activity/y/perfectyang/view-register.nvim)
 - [mathiasuk/telescope-registers.nvim](https://github.com/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/stars/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/last-commit/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/commit-activity/y/mathiasuk/telescope-registers.nvim)
 - [shizukani-cp/reglist.nvim](https://github.com/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/reglist.nvim)
+- [hamzahshahbazkhan/floatingClipboard.nvim](https://github.com/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/stars/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/last-commit/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hamzahshahbazkhan/floatingClipboard.nvim)
 
 ### Edit Register
 

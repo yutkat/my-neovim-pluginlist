@@ -58,6 +58,7 @@
 - [estevesnp/jq.nvim](https://github.com/estevesnp/jq.nvim) ![](https://img.shields.io/github/stars/estevesnp/jq.nvim) ![](https://img.shields.io/github/last-commit/estevesnp/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/estevesnp/jq.nvim)
 - [lobaton-nvim/nvim-jwt-ui](https://github.com/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/stars/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/last-commit/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/commit-activity/y/lobaton-nvim/nvim-jwt-ui)
 - [Owen-Dechow/nvim_json_graph_view](https://github.com/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/stars/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/last-commit/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/commit-activity/y/Owen-Dechow/nvim_json_graph_view)
+- [SunnyTamang/jsonvalid8.nvim](https://github.com/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/jsonvalid8.nvim)
 
 #### fx
 

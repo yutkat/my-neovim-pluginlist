@@ -210,6 +210,7 @@
 
 - [pogyomo/cppguard.nvim](https://github.com/pogyomo/cppguard.nvim) ![](https://img.shields.io/github/stars/pogyomo/cppguard.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/cppguard.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/cppguard.nvim)
 - [kesor/clangd-unfurl.nvim](https://github.com/kesor/clangd-unfurl.nvim) ![](https://img.shields.io/github/stars/kesor/clangd-unfurl.nvim) ![](https://img.shields.io/github/last-commit/kesor/clangd-unfurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kesor/clangd-unfurl.nvim)
+- [d-manuel/includeguards.nvim](https://github.com/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/stars/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/last-commit/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/commit-activity/y/d-manuel/includeguards.nvim)
 
 ## PlatformIO
 
