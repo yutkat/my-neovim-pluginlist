@@ -191,6 +191,7 @@
 - [vikfroberg/fzf-mru.nvim](https://github.com/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/stars/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/last-commit/vikfroberg/fzf-mru.nvim) ![](https://img.shields.io/github/commit-activity/y/vikfroberg/fzf-mru.nvim)
 - [otavioschwanck/fzf-lua-enchanted-files](https://github.com/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-enchanted-files) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-enchanted-files)
 - [virakkhun/tracklog.nvim](https://github.com/virakkhun/tracklog.nvim) ![](https://img.shields.io/github/stars/virakkhun/tracklog.nvim) ![](https://img.shields.io/github/last-commit/virakkhun/tracklog.nvim) ![](https://img.shields.io/github/commit-activity/y/virakkhun/tracklog.nvim)
+- [elanmed/fzf-lua-frecency.nvim](https://github.com/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/stars/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/last-commit/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/fzf-lua-frecency.nvim)
 
 ##### remote open
 

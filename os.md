@@ -144,6 +144,7 @@
 #### say
 
 - [runih/say.nvim](https://github.com/runih/say.nvim) ![](https://img.shields.io/github/stars/runih/say.nvim) ![](https://img.shields.io/github/last-commit/runih/say.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/say.nvim)
+- [jonahbenedicto/say.nvim](https://github.com/jonahbenedicto/say.nvim) ![](https://img.shields.io/github/stars/jonahbenedicto/say.nvim) ![](https://img.shields.io/github/last-commit/jonahbenedicto/say.nvim) ![](https://img.shields.io/github/commit-activity/y/jonahbenedicto/say.nvim)
 
 #### Window Manager
 
@@ -179,4 +180,3 @@
 #### adb
 
 - [JefferyBoy/adb_dumpsys.nvim](https://github.com/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/adb_dumpsys.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/adb_dumpsys.nvim)
-

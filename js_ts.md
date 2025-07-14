@@ -61,6 +61,7 @@
   - [Bootstrap](#bootstrap)
   - [mjml](#mjml)
   - [Hygen](#hygen)
+  - [Ember](#ember)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
 
@@ -415,6 +416,10 @@
 ### Hygen
 
 - [Hdoc1509/hygen.nvim](https://github.com/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/hygen.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/hygen.nvim)
+
+### Ember
+
+- [justmejulian/ember.nvim](https://github.com/justmejulian/ember.nvim) ![](https://img.shields.io/github/stars/justmejulian/ember.nvim) ![](https://img.shields.io/github/last-commit/justmejulian/ember.nvim) ![](https://img.shields.io/github/commit-activity/y/justmejulian/ember.nvim)
 
 ## Template Engine
 

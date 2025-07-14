@@ -158,7 +158,7 @@
 - [liamrlawrence/cabinet.nvim](https://github.com/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/cabinet.nvim)
 - [SergioRibera/nvim-conf](https://github.com/SergioRibera/nvim-conf) ![](https://img.shields.io/github/stars/SergioRibera/nvim-conf) ![](https://img.shields.io/github/last-commit/SergioRibera/nvim-conf) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/nvim-conf)
 
-## Control another neovim 
+## Control another neovim
 
 - [HiPhish/yo-dawg.nvim](https://github.com/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/stars/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/yo-dawg.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/yo-dawg.nvim)
 
@@ -203,6 +203,7 @@
 - [erikbloodshed/floating-input.nvim](https://github.com/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/floating-input.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/floating-input.nvim)
 - [nikola-vukicevic/util-input-window.nvim](https://github.com/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/stars/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/last-commit/nikola-vukicevic/util-input-window.nvim) ![](https://img.shields.io/github/commit-activity/y/nikola-vukicevic/util-input-window.nvim)
 - [r0nsha/multinput.nvim](https://github.com/r0nsha/multinput.nvim) ![](https://img.shields.io/github/stars/r0nsha/multinput.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/multinput.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/multinput.nvim)
+- [cpea2506/input.nvim](https://github.com/cpea2506/input.nvim) ![](https://img.shields.io/github/stars/cpea2506/input.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/input.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/input.nvim)
 
 ### Popup
 
@@ -273,7 +274,7 @@
 
 ### REST
 
-  - [amirali/rest-ui.nvim](https://github.com/amirali/rest-ui.nvim) ![](https://img.shields.io/github/stars/amirali/rest-ui.nvim) ![](https://img.shields.io/github/last-commit/amirali/rest-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/amirali/rest-ui.nvim)
+- [amirali/rest-ui.nvim](https://github.com/amirali/rest-ui.nvim) ![](https://img.shields.io/github/stars/amirali/rest-ui.nvim) ![](https://img.shields.io/github/last-commit/amirali/rest-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/amirali/rest-ui.nvim)
 - [lima1909/resty.nvim](https://github.com/lima1909/resty.nvim) ![](https://img.shields.io/github/stars/lima1909/resty.nvim) ![](https://img.shields.io/github/last-commit/lima1909/resty.nvim) ![](https://img.shields.io/github/commit-activity/y/lima1909/resty.nvim)
 - [rest-nvim/rest.nvim](https://github.com/rest-nvim/rest.nvim) ![](https://img.shields.io/github/stars/rest-nvim/rest.nvim) ![](https://img.shields.io/github/last-commit/rest-nvim/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/rest-nvim/rest.nvim)
 
