@@ -5,6 +5,7 @@
 - [Game](#game)
   - [Snake](#snake)
   - [Tetris](#tetris)
+  - [Chess](#chess)
   - [Mine Sweeper](#mine-sweeper)
   - [DOOM](#doom)
   - [Sudoku](#sudoku)
@@ -54,6 +55,10 @@
 - [jayanthd04/asctris.nvim](https://github.com/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/stars/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/last-commit/jayanthd04/asctris.nvim) ![](https://img.shields.io/github/commit-activity/y/jayanthd04/asctris.nvim)
 - [Leonardo-Luz/tetris.nvim](https://github.com/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/tetris.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/tetris.nvim)
 - [Klynger/tetris.nvim](https://github.com/Klynger/tetris.nvim) ![](https://img.shields.io/github/stars/Klynger/tetris.nvim) ![](https://img.shields.io/github/last-commit/Klynger/tetris.nvim) ![](https://img.shields.io/github/commit-activity/y/Klynger/tetris.nvim)
+
+### Chess
+
+- [jonahbenedicto/chess.nvim](https://github.com/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/stars/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/last-commit/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/commit-activity/y/jonahbenedicto/chess.nvim)
 
 ### Mine Sweeper
 

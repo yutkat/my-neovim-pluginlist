@@ -18,6 +18,7 @@
     - [Dioxus](#dioxus)
     - [tera](#tera)
     - [tauri](#tauri)
+    - [Zola](#zola)
 
 <!-- tocstop -->
 
@@ -44,7 +45,6 @@
 - [ChosunOne/tarp.nvim](https://github.com/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/stars/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/last-commit/ChosunOne/tarp.nvim) ![](https://img.shields.io/github/commit-activity/y/ChosunOne/tarp.nvim)
 
 ### Debug
-
 
 ### Cargo
 
@@ -80,7 +80,6 @@
 
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) ![](https://img.shields.io/github/stars/cordx56/rustowl) ![](https://img.shields.io/github/last-commit/cordx56/rustowl) ![](https://img.shields.io/github/commit-activity/y/cordx56/rustowl)
 
-
 ### Framework
 
 #### Dioxus
@@ -94,3 +93,7 @@
 #### tauri
 
 - [Braniacsl/tauri-runner.nvim](https://github.com/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/stars/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/last-commit/Braniacsl/tauri-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Braniacsl/tauri-runner.nvim)
+
+#### Zola
+
+- [savente93/zola.nvim](https://github.com/savente93/zola.nvim) ![](https://img.shields.io/github/stars/savente93/zola.nvim) ![](https://img.shields.io/github/last-commit/savente93/zola.nvim) ![](https://img.shields.io/github/commit-activity/y/savente93/zola.nvim)

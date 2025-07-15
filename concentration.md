@@ -67,6 +67,7 @@
 - [tkruer/timer.nvim](https://github.com/tkruer/timer.nvim) ![](https://img.shields.io/github/stars/tkruer/timer.nvim) ![](https://img.shields.io/github/last-commit/tkruer/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/tkruer/timer.nvim)
 - [benjaminpeeters/nvim-focus](https://github.com/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/stars/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/last-commit/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/commit-activity/y/benjaminpeeters/nvim-focus)
 - [DannDot/nvim-timetracker](https://github.com/DannDot/nvim-timetracker) ![](https://img.shields.io/github/stars/DannDot/nvim-timetracker) ![](https://img.shields.io/github/last-commit/DannDot/nvim-timetracker) ![](https://img.shields.io/github/commit-activity/y/DannDot/nvim-timetracker)
+- [demonsjostle/timer.nvim](https://github.com/demonsjostle/timer.nvim) ![](https://img.shields.io/github/stars/demonsjostle/timer.nvim) ![](https://img.shields.io/github/last-commit/demonsjostle/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/demonsjostle/timer.nvim)
 
 ## Do Not Disturb
 
