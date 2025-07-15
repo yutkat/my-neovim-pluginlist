@@ -47,6 +47,7 @@
 - [TheLazyCat00/simple-format](https://github.com/TheLazyCat00/simple-format) ![](https://img.shields.io/github/stars/TheLazyCat00/simple-format) ![](https://img.shields.io/github/last-commit/TheLazyCat00/simple-format) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/simple-format)
 - [merimacfairbairn/autoformat.nvim](https://github.com/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/stars/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/last-commit/merimacfairbairn/autoformat.nvim) ![](https://img.shields.io/github/commit-activity/y/merimacfairbairn/autoformat.nvim)
 - [Flone-dnb/shader-formatter.nvim](https://github.com/Flone-dnb/shader-formatter.nvim) ![](https://img.shields.io/github/stars/Flone-dnb/shader-formatter.nvim) ![](https://img.shields.io/github/last-commit/Flone-dnb/shader-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/Flone-dnb/shader-formatter.nvim)
+- [GowayLee/reform.nvim](https://github.com/GowayLee/reform.nvim) ![](https://img.shields.io/github/stars/GowayLee/reform.nvim) ![](https://img.shields.io/github/last-commit/GowayLee/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/GowayLee/reform.nvim)
 
 ### Trim Whitespace
 

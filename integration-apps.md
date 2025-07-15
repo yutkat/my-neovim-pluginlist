@@ -147,6 +147,7 @@
 #### Blender
 
 - [b0o/blender.nvim](https://github.com/b0o/blender.nvim) ![](https://img.shields.io/github/stars/b0o/blender.nvim) ![](https://img.shields.io/github/last-commit/b0o/blender.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/blender.nvim)
+- [Fxnarji/blender-tools.nvim](https://github.com/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/stars/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/last-commit/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Fxnarji/blender-tools.nvim)
 
 #### Avalonia
 

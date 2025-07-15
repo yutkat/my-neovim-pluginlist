@@ -40,4 +40,5 @@
 
 ### Animation
 
+- [ksmai/power-mode.nvim](https://github.com/ksmai/power-mode.nvim) ![](https://img.shields.io/github/stars/ksmai/power-mode.nvim) ![](https://img.shields.io/github/last-commit/ksmai/power-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ksmai/power-mode.nvim)
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sphamba/smear-cursor.nvim)

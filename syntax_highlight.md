@@ -261,6 +261,7 @@
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
 - [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) ![](https://img.shields.io/github/stars/mei28/luminate.nvim) ![](https://img.shields.io/github/last-commit/mei28/luminate.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/luminate.nvim)
+- [krmmzs/jump-beacon.nvim](https://github.com/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/stars/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/jump-beacon.nvim)
 
 ### Variable color
 

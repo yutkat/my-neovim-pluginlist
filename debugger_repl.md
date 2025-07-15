@@ -63,6 +63,7 @@
 - [miroshQa/debugmaster.nvim](https://github.com/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/stars/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/last-commit/miroshQa/debugmaster.nvim) ![](https://img.shields.io/github/commit-activity/y/miroshQa/debugmaster.nvim)
 - [MrEhbr/dap-rust.nvim](https://github.com/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/stars/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/last-commit/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/MrEhbr/dap-rust.nvim)
 - [docker/nvim-dap-docker](https://github.com/docker/nvim-dap-docker) ![](https://img.shields.io/github/stars/docker/nvim-dap-docker) ![](https://img.shields.io/github/last-commit/docker/nvim-dap-docker) ![](https://img.shields.io/github/commit-activity/y/docker/nvim-dap-docker)
+- [guill/mcpdap.nvim](https://github.com/guill/mcpdap.nvim) ![](https://img.shields.io/github/stars/guill/mcpdap.nvim) ![](https://img.shields.io/github/last-commit/guill/mcpdap.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcpdap.nvim)
 
 #### Launch.json
 

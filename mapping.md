@@ -102,6 +102,7 @@
 - [tris203/hawtkeys.nvim](https://github.com/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/stars/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/last-commit/tris203/hawtkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/hawtkeys.nvim)
 - [wd40bug/Hints.nvim](https://github.com/wd40bug/Hints.nvim) ![](https://img.shields.io/github/stars/wd40bug/Hints.nvim) ![](https://img.shields.io/github/last-commit/wd40bug/Hints.nvim) ![](https://img.shields.io/github/commit-activity/y/wd40bug/Hints.nvim)
 - [dirichy/mapper.nvim](https://github.com/dirichy/mapper.nvim) ![](https://img.shields.io/github/stars/dirichy/mapper.nvim) ![](https://img.shields.io/github/last-commit/dirichy/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/mapper.nvim)
+- [hamadash/operator-hint.nvim](https://github.com/hamadash/operator-hint.nvim) ![](https://img.shields.io/github/stars/hamadash/operator-hint.nvim) ![](https://img.shields.io/github/last-commit/hamadash/operator-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/operator-hint.nvim)
 
 ### Show assigned
 

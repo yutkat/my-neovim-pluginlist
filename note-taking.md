@@ -70,6 +70,7 @@
 - [willem66745/notitiebak.nvim](https://github.com/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/stars/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/last-commit/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/commit-activity/y/willem66745/notitiebak.nvim)
 - [DhaiShah25/zettle.nvim](https://github.com/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/stars/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/last-commit/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/commit-activity/y/DhaiShah25/zettle.nvim)
 - [teesh3rt/zeekay.nvim](https://github.com/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/stars/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/last-commit/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/commit-activity/y/teesh3rt/zeekay.nvim)
+- [savente93/zola.nvim](https://github.com/savente93/zola.nvim) ![](https://img.shields.io/github/stars/savente93/zola.nvim) ![](https://img.shields.io/github/last-commit/savente93/zola.nvim) ![](https://img.shields.io/github/commit-activity/y/savente93/zola.nvim)
 
 ### Markdown
 
@@ -180,6 +181,7 @@
 - [thjbdvlt/todo.nvim](https://github.com/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/todo.nvim)
 - [gendonholaholo/todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/stars/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/last-commit/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/gendonholaholo/todo-lens.nvim)
 - [MorkovnySok/todo.nvim](https://github.com/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/stars/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/last-commit/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MorkovnySok/todo.nvim)
+- [r0nsha/tasklists.nvim](https://github.com/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/stars/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/tasklists.nvim)
 
 #### Taskwarrior
 
@@ -223,6 +225,7 @@
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [arakkkkk/obsidian-kanban.nvim](https://github.com/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/obsidian-kanban.nvim)
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
+- [obsidian-nvim/templater.nvim](https://github.com/obsidian-nvim/templater.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/templater.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/templater.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/templater.nvim)
 
 ### nb
 

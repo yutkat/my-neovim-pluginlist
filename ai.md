@@ -304,6 +304,7 @@
 - [simiancreative/hum.nvim](https://github.com/simiancreative/hum.nvim) ![](https://img.shields.io/github/stars/simiancreative/hum.nvim) ![](https://img.shields.io/github/last-commit/simiancreative/hum.nvim) ![](https://img.shields.io/github/commit-activity/y/simiancreative/hum.nvim)
 - [wasabeef/yank-for-claude.nvim](https://github.com/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/stars/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/yank-for-claude.nvim)
 - [estevaofon/ailite.nvim](https://github.com/estevaofon/ailite.nvim) ![](https://img.shields.io/github/stars/estevaofon/ailite.nvim) ![](https://img.shields.io/github/last-commit/estevaofon/ailite.nvim) ![](https://img.shields.io/github/commit-activity/y/estevaofon/ailite.nvim)
+- [pittcat/claude-fzf-history.nvim](https://github.com/pittcat/claude-fzf-history.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf-history.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf-history.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf-history.nvim)
 
 ### Claude Code
 
@@ -464,6 +465,7 @@
 ### OpenCode
 
 - [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/stars/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/last-commit/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/NickvanDyke/opencode.nvim)
 
 ### khulnasoft
 

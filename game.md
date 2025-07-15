@@ -38,6 +38,7 @@
 - [walkingshamrock/memory-game.nvim](https://github.com/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/memory-game.nvim)
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
 - [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
+- [jonahbenedicto/chess.nvim](https://github.com/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/stars/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/last-commit/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/commit-activity/y/jonahbenedicto/chess.nvim)
 
 ### Snake
 
