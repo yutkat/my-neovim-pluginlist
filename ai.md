@@ -464,6 +464,7 @@
 ### OpenCode
 
 - [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
+- [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/stars/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/last-commit/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/NickvanDyke/opencode.nvim)
 
 ### khulnasoft
 
@@ -581,6 +582,7 @@
 - [ravitemer/mcphub.nvim](https://github.com/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/stars/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/last-commit/ravitemer/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/ravitemer/mcphub.nvim)
 - [brianhuster/nvim-mcp-server](https://github.com/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/stars/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/last-commit/brianhuster/nvim-mcp-server) ![](https://img.shields.io/github/commit-activity/y/brianhuster/nvim-mcp-server)
 - [thatguyinabeanie/todo-mcp.nvim](https://github.com/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/stars/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/last-commit/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/thatguyinabeanie/todo-mcp.nvim)
+- [guill/mcpdap.nvim](https://github.com/guill/mcpdap.nvim) ![](https://img.shields.io/github/stars/guill/mcpdap.nvim) ![](https://img.shields.io/github/last-commit/guill/mcpdap.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcpdap.nvim)
 
 ## ignore
 

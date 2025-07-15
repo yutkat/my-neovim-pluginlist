@@ -26,6 +26,7 @@
   - [inline note](#inline-note)
   - [Anki](#anki)
   - [Clickup](#clickup)
+  - [TIL(Today I Learned)](#tiltoday-i-learned)
   - [etc](#etc)
 
 <!-- tocstop -->
@@ -309,6 +310,10 @@
 
 - [mbe-setpoint/clickup.nvim](https://github.com/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/stars/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/last-commit/mbe-setpoint/clickup.nvim) ![](https://img.shields.io/github/commit-activity/y/mbe-setpoint/clickup.nvim)
 
+### TIL(Today I Learned)
+
+- [0M1J/til-rewriter.nvim](https://github.com/0M1J/til-rewriter.nvim) ![](https://img.shields.io/github/stars/0M1J/til-rewriter.nvim) ![](https://img.shields.io/github/last-commit/0M1J/til-rewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/0M1J/til-rewriter.nvim)
+
 ### etc
 
 - [jbyuki/nabla.nvim](https://github.com/jbyuki/nabla.nvim) ![](https://img.shields.io/github/stars/jbyuki/nabla.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/nabla.nvim)
@@ -461,3 +466,4 @@
 - [clockworkpc/nvim-taskscanner](https://github.com/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/stars/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/last-commit/clockworkpc/nvim-taskscanner) ![](https://img.shields.io/github/commit-activity/y/clockworkpc/nvim-taskscanner)
 - [andev0x/capytrace.nvim](https://github.com/andev0x/capytrace.nvim) ![](https://img.shields.io/github/stars/andev0x/capytrace.nvim) ![](https://img.shields.io/github/last-commit/andev0x/capytrace.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/capytrace.nvim)
 - [d-manuel/memos.nvim](https://github.com/d-manuel/memos.nvim) ![](https://img.shields.io/github/stars/d-manuel/memos.nvim) ![](https://img.shields.io/github/last-commit/d-manuel/memos.nvim) ![](https://img.shields.io/github/commit-activity/y/d-manuel/memos.nvim)
+- [r0nsha/tasklists.nvim](https://github.com/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/stars/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/tasklists.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/tasklists.nvim)

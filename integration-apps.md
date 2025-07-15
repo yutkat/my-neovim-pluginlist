@@ -147,6 +147,7 @@
 #### Blender
 
 - [b0o/blender.nvim](https://github.com/b0o/blender.nvim) ![](https://img.shields.io/github/stars/b0o/blender.nvim) ![](https://img.shields.io/github/last-commit/b0o/blender.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/blender.nvim)
+- [Fxnarji/blender-tools.nvim](https://github.com/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/stars/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/last-commit/Fxnarji/blender-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Fxnarji/blender-tools.nvim)
 
 #### Avalonia
 
@@ -174,6 +175,7 @@
 - [RAprogramm/nekifoch](https://github.com/RAprogramm/nekifoch) ![](https://img.shields.io/github/stars/RAprogramm/nekifoch) ![](https://img.shields.io/github/last-commit/RAprogramm/nekifoch) ![](https://img.shields.io/github/commit-activity/y/RAprogramm/nekifoch)
 - [NeViRAIDE/nekifoch.nvim](https://github.com/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/nekifoch.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/nekifoch.nvim)
 - [Toprun123/PicVim](https://github.com/Toprun123/PicVim) ![](https://img.shields.io/github/stars/Toprun123/PicVim) ![](https://img.shields.io/github/last-commit/Toprun123/PicVim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/PicVim)
+- [ksmai/power-mode.nvim](https://github.com/ksmai/power-mode.nvim) ![](https://img.shields.io/github/stars/ksmai/power-mode.nvim) ![](https://img.shields.io/github/last-commit/ksmai/power-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ksmai/power-mode.nvim)
 
 ##### Image
 
