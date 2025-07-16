@@ -163,7 +163,6 @@
 
 #### Subversion
 
-
 #### Rewind
 
 - [davenicholson-xyz/rewind.nvim](https://github.com/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/stars/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/last-commit/davenicholson-xyz/rewind.nvim) ![](https://img.shields.io/github/commit-activity/y/davenicholson-xyz/rewind.nvim)
@@ -319,6 +318,7 @@
 - [DevDec/transmit.nvim](https://github.com/DevDec/transmit.nvim) ![](https://img.shields.io/github/stars/DevDec/transmit.nvim) ![](https://img.shields.io/github/last-commit/DevDec/transmit.nvim) ![](https://img.shields.io/github/commit-activity/y/DevDec/transmit.nvim)
 - [ForsakenNGS/netdeploy.nvim](https://github.com/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/stars/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/last-commit/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/commit-activity/y/ForsakenNGS/netdeploy.nvim)
 - [LucasMiguel/nvim-sync-ftp](https://github.com/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/stars/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/last-commit/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/commit-activity/y/LucasMiguel/nvim-sync-ftp)
+- [pl0xi/sftp.nvim](https://github.com/pl0xi/sftp.nvim) ![](https://img.shields.io/github/stars/pl0xi/sftp.nvim) ![](https://img.shields.io/github/last-commit/pl0xi/sftp.nvim) ![](https://img.shields.io/github/commit-activity/y/pl0xi/sftp.nvim)
 
 #### rsync
 

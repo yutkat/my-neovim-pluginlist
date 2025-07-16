@@ -8,6 +8,7 @@
   - [method](#method)
   - [Debugger](#debugger)
     - [Stacktrace](#stacktrace)
+  - [Serial Version](#serial-version)
   - [Test](#test)
   - [Compile](#compile)
   - [Maven](#maven)
@@ -55,6 +56,10 @@
 
 - [dorin-suletea/nvim-stacktrace](https://github.com/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/stars/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/last-commit/dorin-suletea/nvim-stacktrace) ![](https://img.shields.io/github/commit-activity/y/dorin-suletea/nvim-stacktrace)
 - [noion/jstacktrace.nvim](https://github.com/noion/jstacktrace.nvim) ![](https://img.shields.io/github/stars/noion/jstacktrace.nvim) ![](https://img.shields.io/github/last-commit/noion/jstacktrace.nvim) ![](https://img.shields.io/github/commit-activity/y/noion/jstacktrace.nvim)
+
+### Serial Version
+
+- [aleksihussa/serialuid.nvim](https://github.com/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/stars/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/last-commit/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/commit-activity/y/aleksihussa/serialuid.nvim)
 
 ### Test
 

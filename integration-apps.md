@@ -311,6 +311,7 @@
 - [xixiaofinland/sf.nvim](https://github.com/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/stars/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/last-commit/xixiaofinland/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/xixiaofinland/sf.nvim)
 - [clavery/nvim-sfcc](https://github.com/clavery/nvim-sfcc) ![](https://img.shields.io/github/stars/clavery/nvim-sfcc) ![](https://img.shields.io/github/last-commit/clavery/nvim-sfcc) ![](https://img.shields.io/github/commit-activity/y/clavery/nvim-sfcc)
 - [PreziosiRaffaele/nvim-apex-coverage](https://github.com/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/stars/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/nvim-apex-coverage)
+- [PreziosiRaffaele/apex-log-analyzer.nvim](https://github.com/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/apex-log-analyzer.nvim)
 
 ##### Microsoft Dynamics 365 Business Central
 

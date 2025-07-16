@@ -45,6 +45,7 @@
 - [epoll31/script_runner.nvim](https://github.com/epoll31/script_runner.nvim) ![](https://img.shields.io/github/stars/epoll31/script_runner.nvim) ![](https://img.shields.io/github/last-commit/epoll31/script_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/epoll31/script_runner.nvim)
 - [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/pewpewnor/pilot.nvim)
 - [micaiah-effiong/task.nvim](https://github.com/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/stars/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/last-commit/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/commit-activity/y/micaiah-effiong/task.nvim)
+- [LeGarbage/taskless.nvim](https://github.com/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/stars/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/last-commit/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/commit-activity/y/LeGarbage/taskless.nvim)
 
 #### YAML
 

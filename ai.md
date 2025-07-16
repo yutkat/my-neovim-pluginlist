@@ -222,6 +222,8 @@
 - [blob42/codegpt-ng.nvim](https://github.com/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/stars/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/last-commit/blob42/codegpt-ng.nvim) ![](https://img.shields.io/github/commit-activity/y/blob42/codegpt-ng.nvim)
 - [Evilbunz-sol/ai-coding-assistant.nvim](https://github.com/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/stars/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/last-commit/Evilbunz-sol/ai-coding-assistant.nvim) ![](https://img.shields.io/github/commit-activity/y/Evilbunz-sol/ai-coding-assistant.nvim)
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
+- [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
+- [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
 
 #### mods
 
