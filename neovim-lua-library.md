@@ -251,6 +251,7 @@
 - [danporterhonor/uuid-hex.nvim](https://github.com/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/stars/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/last-commit/danporterhonor/uuid-hex.nvim) ![](https://img.shields.io/github/commit-activity/y/danporterhonor/uuid-hex.nvim)
 - [chrsolr/quicky-uuid.nvim](https://github.com/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/stars/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/last-commit/chrsolr/quicky-uuid.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsolr/quicky-uuid.nvim)
 - [mubisco/idx.nvim](https://github.com/mubisco/idx.nvim) ![](https://img.shields.io/github/stars/mubisco/idx.nvim) ![](https://img.shields.io/github/last-commit/mubisco/idx.nvim) ![](https://img.shields.io/github/commit-activity/y/mubisco/idx.nvim)
+- [aleksihussa/serialuid.nvim](https://github.com/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/stars/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/last-commit/aleksihussa/serialuid.nvim) ![](https://img.shields.io/github/commit-activity/y/aleksihussa/serialuid.nvim)
 
 ## Net
 

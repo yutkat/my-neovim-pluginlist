@@ -224,6 +224,7 @@
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
+- [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 
 #### mods
 
