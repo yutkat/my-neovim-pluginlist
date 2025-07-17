@@ -99,6 +99,7 @@
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
 - [RyanGreenup/markdown_editor.nvim](https://github.com/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/markdown_editor.nvim)
 - [sergiza/mdutils.nvim](https://github.com/sergiza/mdutils.nvim) ![](https://img.shields.io/github/stars/sergiza/mdutils.nvim) ![](https://img.shields.io/github/last-commit/sergiza/mdutils.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiza/mdutils.nvim)
+- [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/stars/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/simplemarkdown.nvim)
 
 #### Markdown link
 

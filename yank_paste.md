@@ -67,6 +67,10 @@
 - [zhisme/copy_with_context.nvim](https://github.com/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/stars/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/last-commit/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/commit-activity/y/zhisme/copy_with_context.nvim)
 - [mikailbayram/buffer-batch.nvim](https://github.com/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/stars/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/last-commit/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/commit-activity/y/mikailbayram/buffer-batch.nvim)
 
+### yank node
+
+- [nounder/tree-copy.nvim](https://github.com/nounder/tree-copy.nvim) ![](https://img.shields.io/github/stars/nounder/tree-copy.nvim) ![](https://img.shields.io/github/last-commit/nounder/tree-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/tree-copy.nvim)
+
 ### remove indent
 
 - [k2589/LLuMinate.nvim](https://github.com/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/stars/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/last-commit/k2589/LLuMinate.nvim) ![](https://img.shields.io/github/commit-activity/y/k2589/LLuMinate.nvim)

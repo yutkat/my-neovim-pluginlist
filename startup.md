@@ -51,6 +51,7 @@
 - [squarejellyfish/banner.nvim](https://github.com/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/stars/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/last-commit/squarejellyfish/banner.nvim) ![](https://img.shields.io/github/commit-activity/y/squarejellyfish/banner.nvim)
 - [Kurama622/profile.nvim](https://github.com/Kurama622/profile.nvim) ![](https://img.shields.io/github/stars/Kurama622/profile.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/profile.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/profile.nvim)
 - [afkale/homepage.nvim](https://github.com/afkale/homepage.nvim) ![](https://img.shields.io/github/stars/afkale/homepage.nvim) ![](https://img.shields.io/github/last-commit/afkale/homepage.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/homepage.nvim)
+- [jesseleite/nvim-startled](https://github.com/jesseleite/nvim-startled) ![](https://img.shields.io/github/stars/jesseleite/nvim-startled) ![](https://img.shields.io/github/last-commit/jesseleite/nvim-startled) ![](https://img.shields.io/github/commit-activity/y/jesseleite/nvim-startled)
 
 ## Startup Command
 

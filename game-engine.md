@@ -61,3 +61,7 @@
 ### UEFN Verse
 
 - [PedroSansM/nvim-verse.nvim](https://github.com/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/stars/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/last-commit/PedroSansM/nvim-verse.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroSansM/nvim-verse.nvim)
+
+### Defold
+
+- [atomicptr/defold.nvim](https://github.com/atomicptr/defold.nvim) ![](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/defold.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/defold.nvim)

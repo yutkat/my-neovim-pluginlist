@@ -272,6 +272,7 @@
 - [TyrannosaurusLjx/wiki.nvim](https://github.com/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/stars/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/last-commit/TyrannosaurusLjx/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/TyrannosaurusLjx/wiki.nvim)
 - [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
 - [yeasin50/wikilink.nvim](https://github.com/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/stars/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/wikilink.nvim)
+- [thjbdvlt/sentiers.nvim](https://github.com/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/sentiers.nvim)
 
 ### VimWiki
 
