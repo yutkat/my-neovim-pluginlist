@@ -123,6 +123,7 @@
 - [thelastpsion/lazygit-confirm.nvim](https://github.com/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/stars/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/last-commit/thelastpsion/lazygit-confirm.nvim) ![](https://img.shields.io/github/commit-activity/y/thelastpsion/lazygit-confirm.nvim)
 - [joshua1nine/lg.nvim](https://github.com/joshua1nine/lg.nvim) ![](https://img.shields.io/github/stars/joshua1nine/lg.nvim) ![](https://img.shields.io/github/last-commit/joshua1nine/lg.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua1nine/lg.nvim)
 - [liYony/nvim-gitrepo.nvim](https://github.com/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/stars/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/last-commit/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/commit-activity/y/liYony/nvim-gitrepo.nvim)
+- [Benjman/lvdflg.nvim](https://github.com/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/stars/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/last-commit/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/commit-activity/y/Benjman/lvdflg.nvim)
 
 ### git clone
 
@@ -404,6 +405,7 @@
 - [maladroitthief/jj-picker.nvim](https://github.com/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/stars/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/last-commit/maladroitthief/jj-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/maladroitthief/jj-picker.nvim)
 - [NicolasGB/jj.nvim](https://github.com/NicolasGB/jj.nvim) ![](https://img.shields.io/github/stars/NicolasGB/jj.nvim) ![](https://img.shields.io/github/last-commit/NicolasGB/jj.nvim) ![](https://img.shields.io/github/commit-activity/y/NicolasGB/jj.nvim)
 - [ReKylee/jjui.nvim](https://github.com/ReKylee/jjui.nvim) ![](https://img.shields.io/github/stars/ReKylee/jjui.nvim) ![](https://img.shields.io/github/last-commit/ReKylee/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/ReKylee/jjui.nvim)
+- [l3d00m/jj-signs.nvim](https://github.com/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/stars/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/l3d00m/jj-signs.nvim)
 
 ### diff
 

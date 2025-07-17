@@ -103,6 +103,10 @@
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) ![](https://img.shields.io/github/stars/neuromaancer/readup.nvim) ![](https://img.shields.io/github/last-commit/neuromaancer/readup.nvim) ![](https://img.shields.io/github/commit-activity/y/neuromaancer/readup.nvim)
 - [selectnull/plugin-readme.nvim](https://github.com/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/stars/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/last-commit/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/selectnull/plugin-readme.nvim)
 
+### local plugin
+
+- [HueGreywell/fastbuild.nvim](https://github.com/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/stars/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/fastbuild.nvim)
+
 ## Market place
 
 - [tamton-aquib/nvim-market](https://github.com/tamton-aquib/nvim-market) ![](https://img.shields.io/github/stars/tamton-aquib/nvim-market) ![](https://img.shields.io/github/last-commit/tamton-aquib/nvim-market) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/nvim-market)

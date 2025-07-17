@@ -196,3 +196,4 @@
 ### File rename
 
 - [JulienZD/file-case-gen.nvim](https://github.com/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/stars/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/last-commit/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienZD/file-case-gen.nvim)
+- [cushydigit/nvim-rename-plugin](https://github.com/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/stars/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/last-commit/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/commit-activity/y/cushydigit/nvim-rename-plugin)
