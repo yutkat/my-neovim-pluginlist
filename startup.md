@@ -38,6 +38,7 @@
 - [bobon4uto/swapintro.nvim](https://github.com/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/stars/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/last-commit/bobon4uto/swapintro.nvim) ![](https://img.shields.io/github/commit-activity/y/bobon4uto/swapintro.nvim)
 - [zaitsev-av/welcome-time.nvim](https://github.com/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/stars/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/last-commit/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/commit-activity/y/zaitsev-av/welcome-time.nvim)
 - [aelisonCode/header.nvim](https://github.com/aelisonCode/header.nvim) ![](https://img.shields.io/github/stars/aelisonCode/header.nvim) ![](https://img.shields.io/github/last-commit/aelisonCode/header.nvim) ![](https://img.shields.io/github/commit-activity/y/aelisonCode/header.nvim)
+- [jesseleite/nvim-startled](https://github.com/jesseleite/nvim-startled) ![](https://img.shields.io/github/stars/jesseleite/nvim-startled) ![](https://img.shields.io/github/last-commit/jesseleite/nvim-startled) ![](https://img.shields.io/github/commit-activity/y/jesseleite/nvim-startled)
 
 ### Boot Arguments
 

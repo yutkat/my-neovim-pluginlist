@@ -52,6 +52,8 @@
 - [AndreiNekrasOn/pinned.nvim](https://github.com/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/stars/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/last-commit/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreiNekrasOn/pinned.nvim)
 - [herisetiawan00/eskopi.nvim](https://github.com/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/eskopi.nvim)
 - [hamzahshahbazkhan/floatingClipboard.nvim](https://github.com/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/stars/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/last-commit/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hamzahshahbazkhan/floatingClipboard.nvim)
+- [nounder/tree-copy.nvim](https://github.com/nounder/tree-copy.nvim) ![](https://img.shields.io/github/stars/nounder/tree-copy.nvim) ![](https://img.shields.io/github/last-commit/nounder/tree-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/tree-copy.nvim)
+- [phanen/yr.nvim](https://github.com/phanen/yr.nvim) ![](https://img.shields.io/github/stars/phanen/yr.nvim) ![](https://img.shields.io/github/last-commit/phanen/yr.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/yr.nvim)
 
 ### yank highlight
 

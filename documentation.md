@@ -99,6 +99,7 @@
 - [magnusriga/markdown-tools.nvim](https://github.com/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/stars/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/last-commit/magnusriga/markdown-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/magnusriga/markdown-tools.nvim)
 - [RyanGreenup/markdown_editor.nvim](https://github.com/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/stars/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/last-commit/RyanGreenup/markdown_editor.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanGreenup/markdown_editor.nvim)
 - [sergiza/mdutils.nvim](https://github.com/sergiza/mdutils.nvim) ![](https://img.shields.io/github/stars/sergiza/mdutils.nvim) ![](https://img.shields.io/github/last-commit/sergiza/mdutils.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiza/mdutils.nvim)
+- [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/stars/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/simplemarkdown.nvim)
 
 #### Markdown link
 
@@ -115,6 +116,7 @@
 - [samerickson/markdown-title-fetch.nvim](https://github.com/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/stars/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/last-commit/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/samerickson/markdown-title-fetch.nvim)
 - [Praczet/markdown-links.nvim](https://github.com/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/stars/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/markdown-links.nvim)
 - [nounder/markdown-snip.nvim](https://github.com/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/stars/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/last-commit/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/markdown-snip.nvim)
+- [thjbdvlt/sentiers.nvim](https://github.com/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/sentiers.nvim)
 
 #### Markdown header
 

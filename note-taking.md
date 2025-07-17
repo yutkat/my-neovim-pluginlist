@@ -224,6 +224,7 @@
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [arakkkkk/obsidian-kanban.nvim](https://github.com/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/obsidian-kanban.nvim)
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
+- [iTomKo/obsidian-canvas.nvim](https://github.com/iTomKo/obsidian-canvas.nvim) ![](https://img.shields.io/github/stars/iTomKo/obsidian-canvas.nvim) ![](https://img.shields.io/github/last-commit/iTomKo/obsidian-canvas.nvim) ![](https://img.shields.io/github/commit-activity/y/iTomKo/obsidian-canvas.nvim)
 
 ### nb
 
