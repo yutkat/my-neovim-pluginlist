@@ -64,6 +64,7 @@
 - [zuloo/cycles.nvim](https://github.com/zuloo/cycles.nvim) ![](https://img.shields.io/github/stars/zuloo/cycles.nvim) ![](https://img.shields.io/github/last-commit/zuloo/cycles.nvim) ![](https://img.shields.io/github/commit-activity/y/zuloo/cycles.nvim)
 - [smokejohn/tidalcycles.nvim](https://github.com/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/stars/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/last-commit/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/commit-activity/y/smokejohn/tidalcycles.nvim)
 - [JamieBeverley/nvim-tidal](https://github.com/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/stars/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/last-commit/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/commit-activity/y/JamieBeverley/nvim-tidal)
+- [bsssssss/telescope-dirt-samples.nvim](https://github.com/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/stars/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/telescope-dirt-samples.nvim)
 
 ### Strudel
 
