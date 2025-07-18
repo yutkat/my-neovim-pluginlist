@@ -91,6 +91,7 @@
 ## Todo Comment
 
 - [masamerc/procrastinate.nvim](https://github.com/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/stars/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/last-commit/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/commit-activity/y/masamerc/procrastinate.nvim)
+- [inskribe/todo.nvim](https://github.com/inskribe/todo.nvim) ![](https://img.shields.io/github/stars/inskribe/todo.nvim) ![](https://img.shields.io/github/last-commit/inskribe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/inskribe/todo.nvim)
 
 ## Todo Comment Highlight
 
