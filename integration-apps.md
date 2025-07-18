@@ -394,6 +394,7 @@
 - [SR-MyStar/fcitx5-switch.nvim](https://github.com/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/fcitx5-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/fcitx5-switch.nvim)
 - [JefferyBoy/fcitx.nvim](https://github.com/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/fcitx.nvim)
 - [blurgyy/fcitx5-ui-rs.nvim](https://github.com/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/stars/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/last-commit/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/blurgyy/fcitx5-ui-rs.nvim)
+- [yilong877/fcitx5-im-toggle.nvim](https://github.com/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/stars/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/last-commit/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/yilong877/fcitx5-im-toggle.nvim)
 
 #### ibus
 
@@ -420,6 +421,7 @@
 #### SuperCollider
 
 - [madskjeldgaard/telescope-supercollider.nvim](https://github.com/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/telescope-supercollider.nvim)
+- [bsssssss/telescope-dirt-samples.nvim](https://github.com/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/stars/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/telescope-dirt-samples.nvim)
 
 #### LilyPond
 

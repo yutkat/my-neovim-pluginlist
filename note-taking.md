@@ -181,6 +181,7 @@
 - [thjbdvlt/todo.nvim](https://github.com/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/todo.nvim)
 - [gendonholaholo/todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/stars/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/last-commit/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/gendonholaholo/todo-lens.nvim)
 - [MorkovnySok/todo.nvim](https://github.com/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/stars/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/last-commit/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MorkovnySok/todo.nvim)
+- [inskribe/todo.nvim](https://github.com/inskribe/todo.nvim) ![](https://img.shields.io/github/stars/inskribe/todo.nvim) ![](https://img.shields.io/github/last-commit/inskribe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/inskribe/todo.nvim)
 
 #### Taskwarrior
 
