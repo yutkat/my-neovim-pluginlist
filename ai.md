@@ -467,6 +467,7 @@
 
 - [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/stars/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/last-commit/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/NickvanDyke/opencode.nvim)
+- [cousine/opencode-context.nvim](https://github.com/cousine/opencode-context.nvim) ![](https://img.shields.io/github/stars/cousine/opencode-context.nvim) ![](https://img.shields.io/github/last-commit/cousine/opencode-context.nvim) ![](https://img.shields.io/github/commit-activity/y/cousine/opencode-context.nvim)
 
 ### khulnasoft
 
