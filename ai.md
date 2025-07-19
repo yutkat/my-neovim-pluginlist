@@ -224,6 +224,7 @@
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
+- [GhostKellz/zeke.nvim](https://github.com/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/stars/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/zeke.nvim)
 
 #### mods
 
@@ -529,6 +530,7 @@
 ## Error Fix Support
 
 - [napisani/context-nvim](https://github.com/napisani/context-nvim) ![](https://img.shields.io/github/stars/napisani/context-nvim) ![](https://img.shields.io/github/last-commit/napisani/context-nvim) ![](https://img.shields.io/github/commit-activity/y/napisani/context-nvim)
+- [edshamis/context.nvim](https://github.com/edshamis/context.nvim) ![](https://img.shields.io/github/stars/edshamis/context.nvim) ![](https://img.shields.io/github/last-commit/edshamis/context.nvim) ![](https://img.shields.io/github/commit-activity/y/edshamis/context.nvim)
 
 ## Review
 
