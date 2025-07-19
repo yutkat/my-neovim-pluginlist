@@ -119,6 +119,7 @@
 - [franpfeiffer/workflow.nvim](https://github.com/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/workflow.nvim)
 - [jarenm1/nvim-buddy](https://github.com/jarenm1/nvim-buddy) ![](https://img.shields.io/github/stars/jarenm1/nvim-buddy) ![](https://img.shields.io/github/last-commit/jarenm1/nvim-buddy) ![](https://img.shields.io/github/commit-activity/y/jarenm1/nvim-buddy)
 - [Akutchi/imagepreview.nvim](https://github.com/Akutchi/imagepreview.nvim) ![](https://img.shields.io/github/stars/Akutchi/imagepreview.nvim) ![](https://img.shields.io/github/last-commit/Akutchi/imagepreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Akutchi/imagepreview.nvim)
+- [nhattVim/alpha-ascii.nvim](https://github.com/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/stars/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/alpha-ascii.nvim)
 
 ### Graph
 

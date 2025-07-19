@@ -37,6 +37,10 @@
 - [nicolas-martin/region-folding.nvim](https://github.com/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/stars/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/last-commit/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolas-martin/region-folding.nvim)
 - [theseifhassan/smartfolds.nvim](https://github.com/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/stars/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/last-commit/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/commit-activity/y/theseifhassan/smartfolds.nvim)
 
+### Auto fold
+
+- [dmtrKovalenko/fold-imports.nvim](https://github.com/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fold-imports.nvim)
+
 ## Conceal
 
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/conceal.nvim)
