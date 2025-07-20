@@ -224,6 +224,7 @@
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [arakkkkk/obsidian-kanban.nvim](https://github.com/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/obsidian-kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/obsidian-kanban.nvim)
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
+- [obsidian-nvim/cosma.nvim](https://github.com/obsidian-nvim/cosma.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/cosma.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/cosma.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/cosma.nvim)
 
 ### nb
 

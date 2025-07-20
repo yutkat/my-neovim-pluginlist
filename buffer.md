@@ -138,6 +138,7 @@
 - [wasabeef/bufferin.nvim](https://github.com/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/stars/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/bufferin.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/bufferin.nvim)
 - [stuckinsnow/luabuff.nvim](https://github.com/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/stars/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/last-commit/stuckinsnow/luabuff.nvim) ![](https://img.shields.io/github/commit-activity/y/stuckinsnow/luabuff.nvim)
 - [OleJoik/icebar.nvim](https://github.com/OleJoik/icebar.nvim) ![](https://img.shields.io/github/stars/OleJoik/icebar.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/icebar.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/icebar.nvim)
+- [Coding4Glory/tiny-windows.nvim](https://github.com/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-windows.nvim)
 
 #### create
 

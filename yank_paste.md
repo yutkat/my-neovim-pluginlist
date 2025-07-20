@@ -52,6 +52,7 @@
 - [AndreiNekrasOn/pinned.nvim](https://github.com/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/stars/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/last-commit/AndreiNekrasOn/pinned.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreiNekrasOn/pinned.nvim)
 - [herisetiawan00/eskopi.nvim](https://github.com/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/eskopi.nvim)
 - [hamzahshahbazkhan/floatingClipboard.nvim](https://github.com/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/stars/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/last-commit/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hamzahshahbazkhan/floatingClipboard.nvim)
+- [AaronLasseigne/yank-code.nvim](https://github.com/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/stars/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/last-commit/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AaronLasseigne/yank-code.nvim)
 
 ### yank highlight
 
