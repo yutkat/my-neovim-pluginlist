@@ -201,6 +201,7 @@
 - [pseudoacacial/turbo.nvim](https://github.com/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/stars/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/last-commit/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/commit-activity/y/pseudoacacial/turbo.nvim)
 - [niuiic/remote.nvim](https://github.com/niuiic/remote.nvim) ![](https://img.shields.io/github/stars/niuiic/remote.nvim) ![](https://img.shields.io/github/last-commit/niuiic/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/remote.nvim)
 - [GeordyJ/tmp-edit.nvim](https://github.com/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/stars/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/last-commit/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/GeordyJ/tmp-edit.nvim)
+- [Jofr3/sftp.nvim](https://github.com/Jofr3/sftp.nvim) ![](https://img.shields.io/github/stars/Jofr3/sftp.nvim) ![](https://img.shields.io/github/last-commit/Jofr3/sftp.nvim) ![](https://img.shields.io/github/commit-activity/y/Jofr3/sftp.nvim)
 
 #### delete
 

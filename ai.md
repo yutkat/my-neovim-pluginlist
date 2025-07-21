@@ -149,6 +149,7 @@
 #### Whisper
 
 - [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
+- [AndrewMead10/asr.nvim](https://github.com/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/asr.nvim)
 
 ### Gemini
 
@@ -325,6 +326,7 @@
 - [jeremiahsmithdev/claude-cli.nvim](https://github.com/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/stars/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/claude-cli.nvim)
 - [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/stars/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/last-commit/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/samir-roy/code-bridge.nvim)
 - [toshiemon18/cc.nvim](https://github.com/toshiemon18/cc.nvim) ![](https://img.shields.io/github/stars/toshiemon18/cc.nvim) ![](https://img.shields.io/github/last-commit/toshiemon18/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/toshiemon18/cc.nvim)
+- [nandoolle/claude-code.nvim](https://github.com/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/stars/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/claude-code.nvim)
 
 ### Amazon Q
 

@@ -166,6 +166,7 @@
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
 - [statiolake/colorset.nvim](https://github.com/statiolake/colorset.nvim) ![](https://img.shields.io/github/stars/statiolake/colorset.nvim) ![](https://img.shields.io/github/last-commit/statiolake/colorset.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/colorset.nvim)
 - [nishu-murmu/ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/stars/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/last-commit/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/ThemeSwitch.nvim)
+- [nexo-tech/themekit.nvim](https://github.com/nexo-tech/themekit.nvim) ![](https://img.shields.io/github/stars/nexo-tech/themekit.nvim) ![](https://img.shields.io/github/last-commit/nexo-tech/themekit.nvim) ![](https://img.shields.io/github/commit-activity/y/nexo-tech/themekit.nvim)
 
 ### Colorscheme overwrite
 
