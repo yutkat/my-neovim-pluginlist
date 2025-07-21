@@ -165,6 +165,7 @@
   - [Leonardo-Luz/aichat.nvim](https://github.com/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/aichat.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/aichat.nvim)
 - [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
+- [edshamis/context.nvim](https://github.com/edshamis/context.nvim) ![](https://img.shields.io/github/stars/edshamis/context.nvim) ![](https://img.shields.io/github/last-commit/edshamis/context.nvim) ![](https://img.shields.io/github/commit-activity/y/edshamis/context.nvim)
 
 #### Gemini CLI
 
@@ -325,6 +326,7 @@
 - [jeremiahsmithdev/claude-cli.nvim](https://github.com/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/stars/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/claude-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/claude-cli.nvim)
 - [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/stars/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/last-commit/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/samir-roy/code-bridge.nvim)
 - [toshiemon18/cc.nvim](https://github.com/toshiemon18/cc.nvim) ![](https://img.shields.io/github/stars/toshiemon18/cc.nvim) ![](https://img.shields.io/github/last-commit/toshiemon18/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/toshiemon18/cc.nvim)
+- [ianks/claude-code-ide.nvim](https://github.com/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/stars/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/last-commit/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ianks/claude-code-ide.nvim)
 
 ### Amazon Q
 
@@ -405,6 +407,10 @@
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
+
+### Zeke
+
+- [GhostKellz/zeke.nvim](https://github.com/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/stars/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/zeke.nvim)
 
 ### Groq
 

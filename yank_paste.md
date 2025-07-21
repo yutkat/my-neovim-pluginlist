@@ -66,6 +66,7 @@
 - [Andrew-Pynch/nvim-ctx-dump](https://github.com/Andrew-Pynch/nvim-ctx-dump) ![](https://img.shields.io/github/stars/Andrew-Pynch/nvim-ctx-dump) ![](https://img.shields.io/github/last-commit/Andrew-Pynch/nvim-ctx-dump) ![](https://img.shields.io/github/commit-activity/y/Andrew-Pynch/nvim-ctx-dump)
 - [zhisme/copy_with_context.nvim](https://github.com/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/stars/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/last-commit/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/commit-activity/y/zhisme/copy_with_context.nvim)
 - [mikailbayram/buffer-batch.nvim](https://github.com/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/stars/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/last-commit/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/commit-activity/y/mikailbayram/buffer-batch.nvim)
+- [AaronLasseigne/yank-code.nvim](https://github.com/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/stars/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/last-commit/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AaronLasseigne/yank-code.nvim)
 
 ### yank node
 
