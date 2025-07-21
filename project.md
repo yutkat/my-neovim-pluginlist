@@ -114,6 +114,7 @@
 - [yamgent/simple-settings.nvim](https://github.com/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/stars/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/last-commit/yamgent/simple-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/yamgent/simple-settings.nvim)
 - [spenserblack/dot-nvim.nvim](https://github.com/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/stars/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/last-commit/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserblack/dot-nvim.nvim)
 - [matiascaniete/local.nvim](https://github.com/matiascaniete/local.nvim) ![](https://img.shields.io/github/stars/matiascaniete/local.nvim) ![](https://img.shields.io/github/last-commit/matiascaniete/local.nvim) ![](https://img.shields.io/github/commit-activity/y/matiascaniete/local.nvim)
+- [Coding4Glory/tiny-pjs.nvim](https://github.com/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-pjs.nvim)
 
 ### Config switcher
 

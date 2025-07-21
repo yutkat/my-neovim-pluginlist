@@ -87,6 +87,7 @@
 #### close
 
 - [tomxkay/pane-surgeon.nvim](https://github.com/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/stars/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/last-commit/tomxkay/pane-surgeon.nvim) ![](https://img.shields.io/github/commit-activity/y/tomxkay/pane-surgeon.nvim)
+- [Coding4Glory/tiny-windows.nvim](https://github.com/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-windows.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-windows.nvim)
 
 #### keep window
 
