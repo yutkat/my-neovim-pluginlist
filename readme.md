@@ -215,6 +215,7 @@
 
 - [RoBaertschi/modeline2.nvim](https://github.com/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/stars/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/last-commit/RoBaertschi/modeline2.nvim) ![](https://img.shields.io/github/commit-activity/y/RoBaertschi/modeline2.nvim)
 - [CheesyChocolate/modeline.nvim](https://github.com/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/stars/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/last-commit/CheesyChocolate/modeline.nvim) ![](https://img.shields.io/github/commit-activity/y/CheesyChocolate/modeline.nvim)
+- [Coding4Glory/tiny-modeline.nvim](https://github.com/Coding4Glory/tiny-modeline.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-modeline.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-modeline.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-modeline.nvim)
 
 ### [Mode](./mode.md)
 
@@ -528,6 +529,7 @@
 - [jbyuki/venn.nvim](https://github.com/jbyuki/venn.nvim) ![](https://img.shields.io/github/stars/jbyuki/venn.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/venn.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/venn.nvim)
 - [McKean/diagon.nvim](https://github.com/McKean/diagon.nvim) ![](https://img.shields.io/github/stars/McKean/diagon.nvim) ![](https://img.shields.io/github/last-commit/McKean/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/McKean/diagon.nvim)
 - [3rd/diagram.nvim](https://github.com/3rd/diagram.nvim) ![](https://img.shields.io/github/stars/3rd/diagram.nvim) ![](https://img.shields.io/github/last-commit/3rd/diagram.nvim) ![](https://img.shields.io/github/commit-activity/y/3rd/diagram.nvim)
+- [louis-dj/doodle.nvim](https://github.com/louis-dj/doodle.nvim) ![](https://img.shields.io/github/stars/louis-dj/doodle.nvim) ![](https://img.shields.io/github/last-commit/louis-dj/doodle.nvim) ![](https://img.shields.io/github/commit-activity/y/louis-dj/doodle.nvim)
 
 ### [Translate](./translate.md)
 

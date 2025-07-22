@@ -273,6 +273,7 @@
 - [jecaro/fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/stars/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/last-commit/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/commit-activity/y/jecaro/fugitive-difftool.nvim)
 - [tronikelis/telescope-git-diff-stat.nvim](https://github.com/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/stars/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/telescope-git-diff-stat.nvim)
 - [prostakm/git-diff-review.nvim](https://github.com/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/stars/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/last-commit/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/commit-activity/y/prostakm/git-diff-review.nvim)
+- [barreiroleo/diff-tools.nvim](https://github.com/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/stars/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/diff-tools.nvim)
 
 #### image diff
 

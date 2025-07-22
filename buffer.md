@@ -83,6 +83,7 @@
 - [NeverW8/nbuf](https://github.com/NeverW8/nbuf) ![](https://img.shields.io/github/stars/NeverW8/nbuf) ![](https://img.shields.io/github/last-commit/NeverW8/nbuf) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nbuf)
 - [enoatu/buffer-scope.nvim](https://github.com/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/stars/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/last-commit/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/commit-activity/y/enoatu/buffer-scope.nvim)
 - [emcassi/streamline.nvim](https://github.com/emcassi/streamline.nvim) ![](https://img.shields.io/github/stars/emcassi/streamline.nvim) ![](https://img.shields.io/github/last-commit/emcassi/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/emcassi/streamline.nvim)
+- [lineick/haken.nvim](https://github.com/lineick/haken.nvim) ![](https://img.shields.io/github/stars/lineick/haken.nvim) ![](https://img.shields.io/github/last-commit/lineick/haken.nvim) ![](https://img.shields.io/github/commit-activity/y/lineick/haken.nvim)
 
 ### Other Buffer Switcher
 

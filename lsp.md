@@ -317,6 +317,7 @@
 ### Handler
 
 - [IrisRainbow7/telescope-lsp-server-capabilities.nvim](https://github.com/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/stars/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/last-commit/IrisRainbow7/telescope-lsp-server-capabilities.nvim) ![](https://img.shields.io/github/commit-activity/y/IrisRainbow7/telescope-lsp-server-capabilities.nvim)
+- [alex-laycalvert/telescope-restartlsp.nvim](https://github.com/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/telescope-restartlsp.nvim)
 
 ### lsptrace
 

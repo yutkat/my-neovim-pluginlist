@@ -117,6 +117,7 @@
 - [wsdjeg/bookmarks.nvim](https://github.com/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bookmarks.nvim)
 - [edte/bookmarks.nvim](https://github.com/edte/bookmarks.nvim) ![](https://img.shields.io/github/stars/edte/bookmarks.nvim) ![](https://img.shields.io/github/last-commit/edte/bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/bookmarks.nvim)
 - [Ninjagor/trident.nvim](https://github.com/Ninjagor/trident.nvim) ![](https://img.shields.io/github/stars/Ninjagor/trident.nvim) ![](https://img.shields.io/github/last-commit/Ninjagor/trident.nvim) ![](https://img.shields.io/github/commit-activity/y/Ninjagor/trident.nvim)
+- [diego-velez/spear.nvim](https://github.com/diego-velez/spear.nvim) ![](https://img.shields.io/github/stars/diego-velez/spear.nvim) ![](https://img.shields.io/github/last-commit/diego-velez/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/diego-velez/spear.nvim)
 
 ### etc
 
@@ -146,4 +147,5 @@
 - [NotAShelf/syntax-gaslighting.nvim](https://github.com/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/stars/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/syntax-gaslighting.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/syntax-gaslighting.nvim)
 - [sijirama/syntax-gaslighting.nvim](https://github.com/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/stars/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/last-commit/sijirama/syntax-gaslighting.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/syntax-gaslighting.nvim)
 - [bearded-giant/mark9.nvim](https://github.com/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/stars/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/mark9.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/mark9.nvim)
+- [13janderson/harpoon-float.nvim](https://github.com/13janderson/harpoon-float.nvim) ![](https://img.shields.io/github/stars/13janderson/harpoon-float.nvim) ![](https://img.shields.io/github/last-commit/13janderson/harpoon-float.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/harpoon-float.nvim)
 - [joaomendoncaa/led.nvim](https://github.com/joaomendoncaa/led.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/led.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/led.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/led.nvim)

@@ -40,6 +40,7 @@
 ### Auto fold
 
 - [dmtrKovalenko/fold-imports.nvim](https://github.com/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fold-imports.nvim)
+- [make-017/fold-imports.nvim](https://github.com/make-017/fold-imports.nvim) ![](https://img.shields.io/github/stars/make-017/fold-imports.nvim) ![](https://img.shields.io/github/last-commit/make-017/fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/make-017/fold-imports.nvim)
 
 ## Conceal
 

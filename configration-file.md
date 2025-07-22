@@ -59,6 +59,7 @@
 - [lobaton-nvim/nvim-jwt-ui](https://github.com/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/stars/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/last-commit/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/commit-activity/y/lobaton-nvim/nvim-jwt-ui)
 - [Owen-Dechow/nvim_json_graph_view](https://github.com/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/stars/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/last-commit/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/commit-activity/y/Owen-Dechow/nvim_json_graph_view)
 - [SunnyTamang/jsonvalid8.nvim](https://github.com/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/jsonvalid8.nvim)
+- [koskev/jsonnet-tools.nvim](https://github.com/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/stars/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/last-commit/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/koskev/jsonnet-tools.nvim)
 
 #### fx
 
