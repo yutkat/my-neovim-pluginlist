@@ -68,6 +68,7 @@
 - [haolian9/winswap.nvim](https://github.com/haolian9/winswap.nvim) ![](https://img.shields.io/github/stars/haolian9/winswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winswap.nvim)
 - [kuzb/winmng.nvim](https://github.com/kuzb/winmng.nvim) ![](https://img.shields.io/github/stars/kuzb/winmng.nvim) ![](https://img.shields.io/github/last-commit/kuzb/winmng.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/winmng.nvim)
 - [erreina/swap-buffers.nvim](https://github.com/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/stars/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/last-commit/erreina/swap-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/erreina/swap-buffers.nvim)
+- [k-ohnuma/window-swap.nvim](https://github.com/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/stars/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/last-commit/k-ohnuma/window-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/k-ohnuma/window-swap.nvim)
 
 #### layout
 
@@ -83,6 +84,7 @@
 - [stevalkr/multiplexer.nvim](https://github.com/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/stars/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/last-commit/stevalkr/multiplexer.nvim) ![](https://img.shields.io/github/commit-activity/y/stevalkr/multiplexer.nvim)
 - [devansh08/remembuf.nvim](https://github.com/devansh08/remembuf.nvim) ![](https://img.shields.io/github/stars/devansh08/remembuf.nvim) ![](https://img.shields.io/github/last-commit/devansh08/remembuf.nvim) ![](https://img.shields.io/github/commit-activity/y/devansh08/remembuf.nvim)
 - [caioariede/nvim-persist-window](https://github.com/caioariede/nvim-persist-window) ![](https://img.shields.io/github/stars/caioariede/nvim-persist-window) ![](https://img.shields.io/github/last-commit/caioariede/nvim-persist-window) ![](https://img.shields.io/github/commit-activity/y/caioariede/nvim-persist-window)
+- [ssgabrieldev/grid.nvim](https://github.com/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/stars/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/last-commit/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/commit-activity/y/ssgabrieldev/grid.nvim)
 
 #### close
 

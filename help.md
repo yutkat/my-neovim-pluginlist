@@ -54,6 +54,7 @@
 - [hschne/cheato.nvim](https://github.com/hschne/cheato.nvim) ![](https://img.shields.io/github/stars/hschne/cheato.nvim) ![](https://img.shields.io/github/last-commit/hschne/cheato.nvim) ![](https://img.shields.io/github/commit-activity/y/hschne/cheato.nvim)
 - [cosmicbuffalo/cheatsheet_generator.nvim](https://github.com/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/cheatsheet_generator.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/cheatsheet_generator.nvim)
 - [hamadash/keymemo.nvim](https://github.com/hamadash/keymemo.nvim) ![](https://img.shields.io/github/stars/hamadash/keymemo.nvim) ![](https://img.shields.io/github/last-commit/hamadash/keymemo.nvim) ![](https://img.shields.io/github/commit-activity/y/hamadash/keymemo.nvim)
+- [quiet-ghost/cht-sh.nvim](https://github.com/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/cht-sh.nvim)
 
 ### Tips
 

@@ -412,6 +412,7 @@
 - [HubertusWeber/PaperPlane.nvim](https://github.com/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/stars/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/last-commit/HubertusWeber/PaperPlane.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertusWeber/PaperPlane.nvim)
 - [johnmatter/teddy.nvim](https://github.com/johnmatter/teddy.nvim) ![](https://img.shields.io/github/stars/johnmatter/teddy.nvim) ![](https://img.shields.io/github/last-commit/johnmatter/teddy.nvim) ![](https://img.shields.io/github/commit-activity/y/johnmatter/teddy.nvim)
 - [franco-ruggeri/pdf-preview.nvim](https://github.com/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/pdf-preview.nvim)
+- [r-pletnev/pdfreader.nvim](https://github.com/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/stars/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/last-commit/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/commit-activity/y/r-pletnev/pdfreader.nvim)
 
 ### EPUB
 

@@ -19,6 +19,7 @@
 - [yuukibarns/diffwatch.nvim](https://github.com/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/stars/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/diffwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/diffwatch.nvim)
 - [axkirillov/unified.nvim](https://github.com/axkirillov/unified.nvim) ![](https://img.shields.io/github/stars/axkirillov/unified.nvim) ![](https://img.shields.io/github/last-commit/axkirillov/unified.nvim) ![](https://img.shields.io/github/commit-activity/y/axkirillov/unified.nvim)
 - [KEY60228/reviewthem.nvim](https://github.com/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/stars/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/last-commit/KEY60228/reviewthem.nvim) ![](https://img.shields.io/github/commit-activity/y/KEY60228/reviewthem.nvim)
+- [barreiroleo/diff-tools.nvim](https://github.com/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/stars/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/diff-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/diff-tools.nvim)
 
 ### Diff Register
 

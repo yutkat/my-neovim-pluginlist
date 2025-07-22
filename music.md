@@ -65,6 +65,7 @@
 - [smokejohn/tidalcycles.nvim](https://github.com/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/stars/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/last-commit/smokejohn/tidalcycles.nvim) ![](https://img.shields.io/github/commit-activity/y/smokejohn/tidalcycles.nvim)
 - [JamieBeverley/nvim-tidal](https://github.com/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/stars/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/last-commit/JamieBeverley/nvim-tidal) ![](https://img.shields.io/github/commit-activity/y/JamieBeverley/nvim-tidal)
 - [bsssssss/telescope-dirt-samples.nvim](https://github.com/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/stars/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/telescope-dirt-samples.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/telescope-dirt-samples.nvim)
+- [TrsNium/resonance.nvim](https://github.com/TrsNium/resonance.nvim) ![](https://img.shields.io/github/stars/TrsNium/resonance.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/resonance.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/resonance.nvim)
 
 ### Strudel
 
@@ -90,3 +91,4 @@
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
 - [ronxjansen/voice.nvim](https://github.com/ronxjansen/voice.nvim) ![](https://img.shields.io/github/stars/ronxjansen/voice.nvim) ![](https://img.shields.io/github/last-commit/ronxjansen/voice.nvim) ![](https://img.shields.io/github/commit-activity/y/ronxjansen/voice.nvim)
+- [AndrewMead10/asr.nvim](https://github.com/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/asr.nvim)

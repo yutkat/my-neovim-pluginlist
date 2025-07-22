@@ -59,6 +59,7 @@
 - [lobaton-nvim/nvim-jwt-ui](https://github.com/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/stars/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/last-commit/lobaton-nvim/nvim-jwt-ui) ![](https://img.shields.io/github/commit-activity/y/lobaton-nvim/nvim-jwt-ui)
 - [Owen-Dechow/nvim_json_graph_view](https://github.com/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/stars/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/last-commit/Owen-Dechow/nvim_json_graph_view) ![](https://img.shields.io/github/commit-activity/y/Owen-Dechow/nvim_json_graph_view)
 - [SunnyTamang/jsonvalid8.nvim](https://github.com/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/jsonvalid8.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/jsonvalid8.nvim)
+- [koskev/jsonnet-tools.nvim](https://github.com/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/stars/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/last-commit/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/koskev/jsonnet-tools.nvim)
 
 #### fx
 
@@ -129,6 +130,10 @@
 - [LukeBaal/lumberjack.nvim](https://github.com/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/stars/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/last-commit/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/commit-activity/y/LukeBaal/lumberjack.nvim)
 - [rinke-livinglogic-nl/relay.nvim](https://github.com/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/stars/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/last-commit/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/rinke-livinglogic-nl/relay.nvim)
 - [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) ![](https://img.shields.io/github/stars/KieranCanter/candela.nvim) ![](https://img.shields.io/github/last-commit/KieranCanter/candela.nvim) ![](https://img.shields.io/github/commit-activity/y/KieranCanter/candela.nvim)
+
+#### CLIPS(C Language Integrated Production System)
+
+- [techtasie/clips-analyzer.nvim](https://github.com/techtasie/clips-analyzer.nvim) ![](https://img.shields.io/github/stars/techtasie/clips-analyzer.nvim) ![](https://img.shields.io/github/last-commit/techtasie/clips-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/techtasie/clips-analyzer.nvim)
 
 ### Craft
 

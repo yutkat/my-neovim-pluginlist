@@ -53,6 +53,7 @@
 - [0xzhzh/fzf-org.nvim](https://github.com/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/stars/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/last-commit/0xzhzh/fzf-org.nvim) ![](https://img.shields.io/github/commit-activity/y/0xzhzh/fzf-org.nvim)
 - [zenarvus/md-agenda.nvim](https://github.com/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/stars/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/last-commit/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/zenarvus/md-agenda.nvim)
 - [hamidi-dev/org-telescope.nvim](https://github.com/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-telescope.nvim)
+- [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-super-agenda.nvim)
 
 ### Zettelkasten
 
@@ -275,6 +276,7 @@
 - [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
 - [yeasin50/wikilink.nvim](https://github.com/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/stars/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/wikilink.nvim)
 - [thjbdvlt/sentiers.nvim](https://github.com/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/sentiers.nvim)
+- [HanteyMN/sentiers.nvim](https://github.com/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/stars/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/last-commit/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/HanteyMN/sentiers.nvim)
 
 ### VimWiki
 
