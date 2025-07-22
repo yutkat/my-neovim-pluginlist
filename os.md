@@ -153,6 +153,7 @@
 #### iTerm
 
 - [izeau/iterm.nvim](https://github.com/izeau/iterm.nvim) ![](https://img.shields.io/github/stars/izeau/iterm.nvim) ![](https://img.shields.io/github/last-commit/izeau/iterm.nvim) ![](https://img.shields.io/github/commit-activity/y/izeau/iterm.nvim)
+- [sharpchen/new-item.nvim](https://github.com/sharpchen/new-item.nvim) ![](https://img.shields.io/github/stars/sharpchen/new-item.nvim) ![](https://img.shields.io/github/last-commit/sharpchen/new-item.nvim) ![](https://img.shields.io/github/commit-activity/y/sharpchen/new-item.nvim)
 
 #### input source
 

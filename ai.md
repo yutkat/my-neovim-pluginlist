@@ -327,6 +327,8 @@
 - [samir-roy/code-bridge.nvim](https://github.com/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/stars/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/last-commit/samir-roy/code-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/samir-roy/code-bridge.nvim)
 - [toshiemon18/cc.nvim](https://github.com/toshiemon18/cc.nvim) ![](https://img.shields.io/github/stars/toshiemon18/cc.nvim) ![](https://img.shields.io/github/last-commit/toshiemon18/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/toshiemon18/cc.nvim)
 - [ianks/claude-code-ide.nvim](https://github.com/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/stars/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/last-commit/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ianks/claude-code-ide.nvim)
+- [nandoolle/claude-code.nvim](https://github.com/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/stars/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/claude-code.nvim)
+- [qtnx/multiclaudecode.nvim](https://github.com/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/stars/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/last-commit/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/qtnx/multiclaudecode.nvim)
 
 ### Amazon Q
 
@@ -502,6 +504,10 @@
 - [fuegoio/copiloutre.nvim](https://github.com/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/stars/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/last-commit/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/commit-activity/y/fuegoio/copiloutre.nvim)
 - [Xuyuanp/nes.nvim](https://github.com/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/nes.nvim)
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/stars/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/last-commit/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/commit-activity/y/copilotlsp-nvim/copilot-lsp)
+
+### Genie CLI
+
+- [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
 
 ## Chat
 

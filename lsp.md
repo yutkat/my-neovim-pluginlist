@@ -305,6 +305,10 @@
 - [mrfolksy/nvim-json-conf](https://github.com/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/stars/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/last-commit/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/commit-activity/y/mrfolksy/nvim-json-conf)
 - [amv-dev/nvim-lspsettings](https://github.com/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/stars/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/last-commit/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/commit-activity/y/amv-dev/nvim-lspsettings)
 
+### restart
+
+- [alex-laycalvert/telescope-restartlsp.nvim](https://github.com/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/telescope-restartlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/telescope-restartlsp.nvim)
+
 ## Command
 
 - [ii14/lsp-command](https://github.com/ii14/lsp-command) ![](https://img.shields.io/github/stars/ii14/lsp-command) ![](https://img.shields.io/github/last-commit/ii14/lsp-command) ![](https://img.shields.io/github/commit-activity/y/ii14/lsp-command)
