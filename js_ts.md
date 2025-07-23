@@ -80,6 +80,7 @@
 - [github-naresh/auto-fold-imports.nvim](https://github.com/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/stars/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/last-commit/github-naresh/auto-fold-imports.nvim) ![](https://img.shields.io/github/commit-activity/y/github-naresh/auto-fold-imports.nvim)
 - [ewal/ember-altrel.nvim](https://github.com/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/stars/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/last-commit/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/commit-activity/y/ewal/ember-altrel.nvim)
 - [roycrippen4/webdev.nvim](https://github.com/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/stars/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/webdev.nvim)
+- [H0ax0/import-cost.nvim](https://github.com/H0ax0/import-cost.nvim) ![](https://img.shields.io/github/stars/H0ax0/import-cost.nvim) ![](https://img.shields.io/github/last-commit/H0ax0/import-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/H0ax0/import-cost.nvim)
 
 ### string
 

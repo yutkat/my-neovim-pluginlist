@@ -351,6 +351,7 @@
 - [afonsofrancof/worktrees.nvim](https://github.com/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/stars/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/last-commit/afonsofrancof/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/afonsofrancof/worktrees.nvim)
 - [katkodeorg/telescope_worktree.nvim](https://github.com/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/stars/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/last-commit/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/katkodeorg/telescope_worktree.nvim)
 - [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
+- [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
 
 ### submodule
 
