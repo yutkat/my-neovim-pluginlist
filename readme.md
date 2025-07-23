@@ -342,6 +342,7 @@
 - [Allendang/nvim-expand-expr](https://github.com/AllenDang/nvim-expand-expr) ![](https://img.shields.io/github/stars/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/last-commit/Allendang/nvim-expand-expr) ![](https://img.shields.io/github/commit-activity/y/Allendang/nvim-expand-expr)
 - [saifulapm/chartoggle.nvim](https://github.com/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/stars/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/last-commit/saifulapm/chartoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/saifulapm/chartoggle.nvim)
 - [svban/Reverse.nvim](https://github.com/svban/Reverse.nvim) ![](https://img.shields.io/github/stars/svban/Reverse.nvim) ![](https://img.shields.io/github/last-commit/svban/Reverse.nvim) ![](https://img.shields.io/github/commit-activity/y/svban/Reverse.nvim)
+- [Parsifa1/smartab.nvim](https://github.com/Parsifa1/smartab.nvim) ![](https://img.shields.io/github/stars/Parsifa1/smartab.nvim) ![](https://img.shields.io/github/last-commit/Parsifa1/smartab.nvim) ![](https://img.shields.io/github/commit-activity/y/Parsifa1/smartab.nvim)
 
 ## Other Standard Feature Enhancement
 

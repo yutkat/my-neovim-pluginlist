@@ -153,6 +153,10 @@
 
 - [KashifKhn/nvim-remove-comments](https://github.com/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/stars/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/last-commit/KashifKhn/nvim-remove-comments) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/nvim-remove-comments)
 
+### Comment writing mode
+
+- [kazumichiINOUE/literate_mode.nvim](https://github.com/kazumichiINOUE/literate_mode.nvim) ![](https://img.shields.io/github/stars/kazumichiINOUE/literate_mode.nvim) ![](https://img.shields.io/github/last-commit/kazumichiINOUE/literate_mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kazumichiINOUE/literate_mode.nvim)
+
 ## LICENSE
 
 - [KronsyC/nvim-license](https://github.com/KronsyC/nvim-license) ![](https://img.shields.io/github/stars/KronsyC/nvim-license) ![](https://img.shields.io/github/last-commit/KronsyC/nvim-license) ![](https://img.shields.io/github/commit-activity/y/KronsyC/nvim-license)
