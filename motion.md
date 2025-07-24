@@ -79,6 +79,7 @@
 - [HawkinsT/pathfinder.nvim](https://github.com/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/stars/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/last-commit/HawkinsT/pathfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/HawkinsT/pathfinder.nvim)
 - [migbyte-0/migmotion.nvim](https://github.com/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/stars/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/last-commit/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/commit-activity/y/migbyte-0/migmotion.nvim)
 - [R1PeR/bounce.nvim](https://github.com/R1PeR/bounce.nvim) ![](https://img.shields.io/github/stars/R1PeR/bounce.nvim) ![](https://img.shields.io/github/last-commit/R1PeR/bounce.nvim) ![](https://img.shields.io/github/commit-activity/y/R1PeR/bounce.nvim)
+- [LuxVim/nvim-luxmotion](https://github.com/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxmotion)
 
 ### Horizontal Move
 
