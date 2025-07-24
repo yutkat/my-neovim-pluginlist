@@ -46,6 +46,8 @@
 
 ### Debug
 
+- [mwcz/rust-termdebug.nvim](https://github.com/mwcz/rust-termdebug.nvim) ![](https://img.shields.io/github/stars/mwcz/rust-termdebug.nvim) ![](https://img.shields.io/github/last-commit/mwcz/rust-termdebug.nvim) ![](https://img.shields.io/github/commit-activity/y/mwcz/rust-termdebug.nvim)
+
 ### Cargo
 
 - [paulusminus/cargo.nvim](https://github.com/paulusminus/cargo.nvim) ![](https://img.shields.io/github/stars/paulusminus/cargo.nvim) ![](https://img.shields.io/github/last-commit/paulusminus/cargo.nvim) ![](https://img.shields.io/github/commit-activity/y/paulusminus/cargo.nvim)
