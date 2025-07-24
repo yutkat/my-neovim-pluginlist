@@ -35,6 +35,7 @@
 - [yonchando/http.nvim](https://github.com/yonchando/http.nvim) ![](https://img.shields.io/github/stars/yonchando/http.nvim) ![](https://img.shields.io/github/last-commit/yonchando/http.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/http.nvim)
 - [nilszeilon/post.nvim](https://github.com/nilszeilon/post.nvim) ![](https://img.shields.io/github/stars/nilszeilon/post.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/post.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/post.nvim)
 - [ecthiender/daak.nvim](https://github.com/ecthiender/daak.nvim) ![](https://img.shields.io/github/stars/ecthiender/daak.nvim) ![](https://img.shields.io/github/last-commit/ecthiender/daak.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthiender/daak.nvim)
+- [Cybernetics354/mayohttp.nvim](https://github.com/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/stars/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/last-commit/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/commit-activity/y/Cybernetics354/mayohttp.nvim)
 
 #### Status
 

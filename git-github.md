@@ -239,6 +239,7 @@
 - [Yu-Leo/blame-column.nvim](https://github.com/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/stars/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/last-commit/Yu-Leo/blame-column.nvim) ![](https://img.shields.io/github/commit-activity/y/Yu-Leo/blame-column.nvim)
 - [ethanamaher/better-git-blame.nvim](https://github.com/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/stars/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/better-git-blame.nvim)
 - [art-vasilyev/gerrit-blame.nvim](https://github.com/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/stars/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/last-commit/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/art-vasilyev/gerrit-blame.nvim)
+- [yt20chill/inline_git_blame.nvim](https://github.com/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/stars/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/last-commit/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/commit-activity/y/yt20chill/inline_git_blame.nvim)
 
 ### git log
 
@@ -547,6 +548,7 @@
 - [art-vasilyev/yapath.nvim](https://github.com/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/stars/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/last-commit/art-vasilyev/yapath.nvim) ![](https://img.shields.io/github/commit-activity/y/art-vasilyev/yapath.nvim)
 - [ChromaMaster/gitpermalink.nvim](https://github.com/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/stars/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/last-commit/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/commit-activity/y/ChromaMaster/gitpermalink.nvim)
 - [tapihdev/cfp.nvim](https://github.com/tapihdev/cfp.nvim) ![](https://img.shields.io/github/stars/tapihdev/cfp.nvim) ![](https://img.shields.io/github/last-commit/tapihdev/cfp.nvim) ![](https://img.shields.io/github/commit-activity/y/tapihdev/cfp.nvim)
+- [ipetrovbg/nvim-gh-browse](https://github.com/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/stars/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/last-commit/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/commit-activity/y/ipetrovbg/nvim-gh-browse)
 
 ### Image
 

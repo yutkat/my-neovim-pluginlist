@@ -80,6 +80,7 @@
 
 - [Massolari/forem.nvim](https://github.com/Massolari/forem.nvim) ![](https://img.shields.io/github/stars/Massolari/forem.nvim) ![](https://img.shields.io/github/last-commit/Massolari/forem.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/forem.nvim)
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) ![](https://img.shields.io/github/stars/gwatcha/reaper-keys) ![](https://img.shields.io/github/last-commit/gwatcha/reaper-keys) ![](https://img.shields.io/github/commit-activity/y/gwatcha/reaper-keys)
+- [Piotr1215/docusaurus.nvim](https://github.com/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/stars/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/docusaurus.nvim)
 
 ### Other Editor
 
