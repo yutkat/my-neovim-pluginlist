@@ -81,6 +81,7 @@
 - [jjvanvuren/copybreadcrumbs.nvim](https://github.com/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/copybreadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/copybreadcrumbs.nvim)
 - [jedi-knights/pytest.nvim](https://github.com/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/stars/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/pytest.nvim)
 - [13janderson/runner.nvim](https://github.com/13janderson/runner.nvim) ![](https://img.shields.io/github/stars/13janderson/runner.nvim) ![](https://img.shields.io/github/last-commit/13janderson/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/runner.nvim)
+- [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) ![](https://img.shields.io/github/stars/richardhapb/pytest.nvim) ![](https://img.shields.io/github/last-commit/richardhapb/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhapb/pytest.nvim)
 
 #### jurigged
 
