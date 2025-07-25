@@ -307,6 +307,7 @@
 - [senkentarou/goacf.nvim](https://github.com/senkentarou/goacf.nvim) ![](https://img.shields.io/github/stars/senkentarou/goacf.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/goacf.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/goacf.nvim)
 - [mrexox/github-open.nvim](https://github.com/mrexox/github-open.nvim) ![](https://img.shields.io/github/stars/mrexox/github-open.nvim) ![](https://img.shields.io/github/last-commit/mrexox/github-open.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/github-open.nvim)
 - [ipetrovbg/nvim-gh-browse](https://github.com/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/stars/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/last-commit/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/commit-activity/y/ipetrovbg/nvim-gh-browse)
+- [jcger/git-open.nvim](https://github.com/jcger/git-open.nvim) ![](https://img.shields.io/github/stars/jcger/git-open.nvim) ![](https://img.shields.io/github/last-commit/jcger/git-open.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/git-open.nvim)
 
 ### git switch
 

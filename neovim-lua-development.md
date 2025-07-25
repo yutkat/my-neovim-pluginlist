@@ -95,6 +95,7 @@
 ## Log
 
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) ![](https://img.shields.io/github/stars/smartpde/debuglog) ![](https://img.shields.io/github/last-commit/smartpde/debuglog) ![](https://img.shields.io/github/commit-activity/y/smartpde/debuglog)
+- [BSeblu/notify-log.nvim](https://github.com/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/stars/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/last-commit/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/commit-activity/y/BSeblu/notify-log.nvim)
 
 ## Print
 

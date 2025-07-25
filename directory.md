@@ -33,6 +33,7 @@
 - [lexay/telescope-zoxide.nvim](https://github.com/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-zoxide.nvim)
 - [alfaix/nvim-zoxide](https://github.com/alfaix/nvim-zoxide) ![](https://img.shields.io/github/stars/alfaix/nvim-zoxide) ![](https://img.shields.io/github/last-commit/alfaix/nvim-zoxide) ![](https://img.shields.io/github/commit-activity/y/alfaix/nvim-zoxide)
 - [dpi0/zox.nvim](https://github.com/dpi0/zox.nvim) ![](https://img.shields.io/github/stars/dpi0/zox.nvim) ![](https://img.shields.io/github/last-commit/dpi0/zox.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/zox.nvim)
+- [lexay/telescope-buffers-zoxide.nvim](https://github.com/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-buffers-zoxide.nvim)
 
 ### z
 
