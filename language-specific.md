@@ -176,6 +176,7 @@
 - [DestopLine/boilersharp.nvim](https://github.com/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/stars/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/last-commit/DestopLine/boilersharp.nvim) ![](https://img.shields.io/github/commit-activity/y/DestopLine/boilersharp.nvim)
 - [seblj/roslyn.nvim](https://github.com/seblj/roslyn.nvim) ![](https://img.shields.io/github/stars/seblj/roslyn.nvim) ![](https://img.shields.io/github/last-commit/seblj/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/seblj/roslyn.nvim)
 - [bosvik/roslyn-diagnostics.nvim](https://github.com/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/stars/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/roslyn-diagnostics.nvim)
+- [leblocks/hopcsharp.nvim](https://github.com/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/commit-activity/y/leblocks/hopcsharp.nvim)
 
 ##### Compile
 

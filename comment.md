@@ -48,6 +48,7 @@
 - [OliverHeffernan/comments.nvim](https://github.com/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/stars/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/last-commit/OliverHeffernan/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverHeffernan/comments.nvim)
 - [Rainfxxk/comment.nvim](https://github.com/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/comment.nvim)
 - [Yellowcrystalz/ez-comment.nvim](https://github.com/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/stars/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/last-commit/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Yellowcrystalz/ez-comment.nvim)
+- [L3MON4D3/nvim-togglecomment](https://github.com/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/stars/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/last-commit/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/commit-activity/y/L3MON4D3/nvim-togglecomment)
 
 ### CommentString
 

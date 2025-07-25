@@ -37,6 +37,7 @@
 - [ljsalvatierra/squire.nvim](https://github.com/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/stars/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/last-commit/ljsalvatierra/squire.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsalvatierra/squire.nvim)
 - [damiensawyer/sb.nvim](https://github.com/damiensawyer/sb.nvim) ![](https://img.shields.io/github/stars/damiensawyer/sb.nvim) ![](https://img.shields.io/github/last-commit/damiensawyer/sb.nvim) ![](https://img.shields.io/github/commit-activity/y/damiensawyer/sb.nvim)
 - [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
+- [unrealapex/prose.nvim](https://github.com/unrealapex/prose.nvim) ![](https://img.shields.io/github/stars/unrealapex/prose.nvim) ![](https://img.shields.io/github/last-commit/unrealapex/prose.nvim) ![](https://img.shields.io/github/commit-activity/y/unrealapex/prose.nvim)
 
 ### Vale
 

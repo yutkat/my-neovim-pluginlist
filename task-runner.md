@@ -55,6 +55,7 @@
 - [Sergey-Polishchenko/tasker.nvim](https://github.com/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/stars/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/last-commit/Sergey-Polishchenko/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/Sergey-Polishchenko/tasker.nvim)
 - [lefinnok/jobcontrol.nvim](https://github.com/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/stars/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/last-commit/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/lefinnok/jobcontrol.nvim)
 - [davidKristiansen/macpyver.nvim](https://github.com/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/stars/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/last-commit/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/commit-activity/y/davidKristiansen/macpyver.nvim)
+- [RazgrizHsu/exer.nvim](https://github.com/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/stars/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/last-commit/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/commit-activity/y/RazgrizHsu/exer.nvim)
 
 #### TOML
 
