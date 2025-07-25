@@ -238,6 +238,7 @@
 - [saecki/live-rename.nvim](https://github.com/saecki/live-rename.nvim) ![](https://img.shields.io/github/stars/saecki/live-rename.nvim) ![](https://img.shields.io/github/last-commit/saecki/live-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/saecki/live-rename.nvim)
 - [JefferyBoy/renamer.nvim](https://github.com/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/renamer.nvim)
 - [cxncxl/nvim-f2](https://github.com/cxncxl/nvim-f2) ![](https://img.shields.io/github/stars/cxncxl/nvim-f2) ![](https://img.shields.io/github/last-commit/cxncxl/nvim-f2) ![](https://img.shields.io/github/commit-activity/y/cxncxl/nvim-f2)
+- [ShifatHasanGNS/refactor.nvim](https://github.com/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/stars/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/last-commit/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/ShifatHasanGNS/refactor.nvim)
 
 #### textDocument
 
