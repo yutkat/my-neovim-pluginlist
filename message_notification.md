@@ -17,6 +17,7 @@
 - [przepompownia/msg-show.nvim](https://github.com/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/stars/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/last-commit/przepompownia/msg-show.nvim) ![](https://img.shields.io/github/commit-activity/y/przepompownia/msg-show.nvim)
 - [d4wns-l1ght/telescope-messages.nvim](https://github.com/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/stars/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/last-commit/d4wns-l1ght/telescope-messages.nvim) ![](https://img.shields.io/github/commit-activity/y/d4wns-l1ght/telescope-messages.nvim)
 - [iammmiru/msg-buff.nvim](https://github.com/iammmiru/msg-buff.nvim) ![](https://img.shields.io/github/stars/iammmiru/msg-buff.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/msg-buff.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/msg-buff.nvim)
+- [BSeblu/notify-log.nvim](https://github.com/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/stars/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/last-commit/BSeblu/notify-log.nvim) ![](https://img.shields.io/github/commit-activity/y/BSeblu/notify-log.nvim)
 
 ## Notification
 
