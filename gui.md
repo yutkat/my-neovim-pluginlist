@@ -40,6 +40,7 @@
 - [RMichelsen/Nvy](https://github.com/RMichelsen/Nvy) ![](https://img.shields.io/github/stars/RMichelsen/Nvy) ![](https://img.shields.io/github/last-commit/RMichelsen/Nvy) ![](https://img.shields.io/github/commit-activity/y/RMichelsen/Nvy)
 - [rohit-px2/nvui](https://github.com/rohit-px2/nvui) ![](https://img.shields.io/github/stars/rohit-px2/nvui) ![](https://img.shields.io/github/last-commit/rohit-px2/nvui) ![](https://img.shields.io/github/commit-activity/y/rohit-px2/nvui)
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) ![](https://img.shields.io/github/stars/equalsraf/neovim-qt) ![](https://img.shields.io/github/last-commit/equalsraf/neovim-qt) ![](https://img.shields.io/github/commit-activity/y/equalsraf/neovim-qt)
+- [2774326573/nvim-qt-dev](https://github.com/2774326573/nvim-qt-dev) ![](https://img.shields.io/github/stars/2774326573/nvim-qt-dev) ![](https://img.shields.io/github/last-commit/2774326573/nvim-qt-dev) ![](https://img.shields.io/github/commit-activity/y/2774326573/nvim-qt-dev)
 
 ### QML
 
