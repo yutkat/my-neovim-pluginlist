@@ -119,6 +119,7 @@
 - [macro21KGB/simple-weather.nvim](https://github.com/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/stars/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/last-commit/macro21KGB/simple-weather.nvim) ![](https://img.shields.io/github/commit-activity/y/macro21KGB/simple-weather.nvim)
 - [frenchef156/weather.nvim](https://github.com/frenchef156/weather.nvim) ![](https://img.shields.io/github/stars/frenchef156/weather.nvim) ![](https://img.shields.io/github/last-commit/frenchef156/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/frenchef156/weather.nvim)
 - [rmrf/weather.nvim](https://github.com/rmrf/weather.nvim) ![](https://img.shields.io/github/stars/rmrf/weather.nvim) ![](https://img.shields.io/github/last-commit/rmrf/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/rmrf/weather.nvim)
+- [athar-qadri/weather.nvim](https://github.com/athar-qadri/weather.nvim) ![](https://img.shields.io/github/stars/athar-qadri/weather.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/weather.nvim)
 
 ### Clock
 
