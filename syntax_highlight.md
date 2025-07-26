@@ -126,6 +126,7 @@
 #### ANSI Converter
 
 - [jannis-baum/highlight2ansi.nvim](https://github.com/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/stars/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/last-commit/jannis-baum/highlight2ansi.nvim) ![](https://img.shields.io/github/commit-activity/y/jannis-baum/highlight2ansi.nvim)
+- [0xferrous/ansi.nvim](https://github.com/0xferrous/ansi.nvim) ![](https://img.shields.io/github/stars/0xferrous/ansi.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/ansi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/ansi.nvim)
 
 ### Colorscheme switcher
 

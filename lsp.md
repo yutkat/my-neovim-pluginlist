@@ -169,6 +169,7 @@
 - [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/stars/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/symbol-usage.nvim)
 - [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) ![](https://img.shields.io/github/stars/mawkler/refjump.nvim) ![](https://img.shields.io/github/last-commit/mawkler/refjump.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/refjump.nvim)
 - [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) ![](https://img.shields.io/github/stars/romus204/referencer.nvim) ![](https://img.shields.io/github/last-commit/romus204/referencer.nvim) ![](https://img.shields.io/github/commit-activity/y/romus204/referencer.nvim)
+- [trkl-dev/references.nvim](https://github.com/trkl-dev/references.nvim) ![](https://img.shields.io/github/stars/trkl-dev/references.nvim) ![](https://img.shields.io/github/last-commit/trkl-dev/references.nvim) ![](https://img.shields.io/github/commit-activity/y/trkl-dev/references.nvim)
 
 #### Code action
 
@@ -200,6 +201,7 @@
 - [amnn/lsp-echohint.nvim](https://github.com/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/stars/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/last-commit/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/lsp-echohint.nvim)
 - [jfly/lsp-diagnostic-quirks.nvim](https://github.com/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/stars/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/last-commit/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/commit-activity/y/jfly/lsp-diagnostic-quirks.nvim)
 - [saying121/interactive-inlay-hint.nvim](https://github.com/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/stars/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/last-commit/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/saying121/interactive-inlay-hint.nvim)
+- [rogue-87/inlyne.nvim](https://github.com/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/commit-activity/y/rogue-87/inlyne.nvim)
 
 #### Hover Doc
 
@@ -249,6 +251,7 @@
 - [phenax/nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/stars/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/last-commit/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/commit-activity/y/phenax/nvim-extra-codelens)
 - [SvSchen/clh.nvim](https://github.com/SvSchen/clh.nvim) ![](https://img.shields.io/github/stars/SvSchen/clh.nvim) ![](https://img.shields.io/github/last-commit/SvSchen/clh.nvim) ![](https://img.shields.io/github/commit-activity/y/SvSchen/clh.nvim)
 - [v1nh1shungry/error-lens.nvim](https://github.com/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/error-lens.nvim)
+- [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) ![](https://img.shields.io/github/stars/oribarilan/lensline.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/lensline.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/lensline.nvim)
 
 ##### LinkedEditingRange
 

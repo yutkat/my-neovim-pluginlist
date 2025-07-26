@@ -177,6 +177,7 @@
 - [DukicDev/telescope-jsw.nvim](https://github.com/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/stars/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/last-commit/DukicDev/telescope-jsw.nvim) ![](https://img.shields.io/github/commit-activity/y/DukicDev/telescope-jsw.nvim)
 - [janBorowy/jirac.nvim](https://github.com/janBorowy/jirac.nvim) ![](https://img.shields.io/github/stars/janBorowy/jirac.nvim) ![](https://img.shields.io/github/last-commit/janBorowy/jirac.nvim) ![](https://img.shields.io/github/commit-activity/y/janBorowy/jirac.nvim)
 - [WillianPaiva/jira-nvim](https://github.com/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/stars/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/last-commit/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/commit-activity/y/WillianPaiva/jira-nvim)
+- [JamiroFerrara/neojira.nvim](https://github.com/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neojira.nvim)
 
 ### Confluence
 
