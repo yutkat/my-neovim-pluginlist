@@ -349,6 +349,10 @@
 
 - [pablos123/shellcheck.nvim](https://github.com/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/stars/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/last-commit/pablos123/shellcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/pablos123/shellcheck.nvim)
 
+##### format
+
+- [cenkalti/format-command-line.nvim](https://github.com/cenkalti/format-command-line.nvim) ![](https://img.shields.io/github/stars/cenkalti/format-command-line.nvim) ![](https://img.shields.io/github/last-commit/cenkalti/format-command-line.nvim) ![](https://img.shields.io/github/commit-activity/y/cenkalti/format-command-line.nvim)
+
 ##### REPL
 
 - [Lingnik/shrepl.nvim](https://github.com/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/stars/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/last-commit/Lingnik/shrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingnik/shrepl.nvim)

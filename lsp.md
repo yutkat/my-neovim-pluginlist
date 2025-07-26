@@ -127,6 +127,7 @@
 - [mbienkowsk/hush.nvim](https://github.com/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/stars/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/last-commit/mbienkowsk/hush.nvim) ![](https://img.shields.io/github/commit-activity/y/mbienkowsk/hush.nvim)
 - [sriram-rao/silencio.nvim](https://github.com/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/stars/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/last-commit/sriram-rao/silencio.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-rao/silencio.nvim)
 - [manual-eel/virtline-toggle.nvim](https://github.com/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/stars/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/last-commit/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/manual-eel/virtline-toggle.nvim)
+- [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) ![](https://img.shields.io/github/stars/oribarilan/lensline.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/lensline.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/lensline.nvim)
 
 ##### Diagnostics goto
 
@@ -243,6 +244,7 @@
 
 - [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/lsp-extras.nvim)
 - [RhydianJenkins/nvim-highlight](https://github.com/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/stars/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/last-commit/RhydianJenkins/nvim-highlight) ![](https://img.shields.io/github/commit-activity/y/RhydianJenkins/nvim-highlight)
+- [trkl-dev/references.nvim](https://github.com/trkl-dev/references.nvim) ![](https://img.shields.io/github/stars/trkl-dev/references.nvim) ![](https://img.shields.io/github/last-commit/trkl-dev/references.nvim) ![](https://img.shields.io/github/commit-activity/y/trkl-dev/references.nvim)
 
 ##### CodeLens
 
