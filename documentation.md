@@ -224,6 +224,7 @@
 ##### Misc
 
 - [ttw1018/markdown-preview.nvim](https://github.com/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/stars/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/ttw1018/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ttw1018/markdown-preview.nvim)
+- [rogue-87/inlyne.nvim](https://github.com/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/stars/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/last-commit/rogue-87/inlyne.nvim) ![](https://img.shields.io/github/commit-activity/y/rogue-87/inlyne.nvim)
 
 #### Markdown code block
 
@@ -383,6 +384,7 @@
 ### Mermaid
 
 - [snrogers/mermaider.nvim](https://github.com/snrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/snrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/snrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/snrogers/mermaider.nvim)
+- [lancekrogers/mermaider.nvim](https://github.com/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/mermaider.nvim)
 
 ### pikchr
 
