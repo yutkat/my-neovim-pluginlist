@@ -72,6 +72,7 @@
 - [willem66745/notitiebak.nvim](https://github.com/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/stars/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/last-commit/willem66745/notitiebak.nvim) ![](https://img.shields.io/github/commit-activity/y/willem66745/notitiebak.nvim)
 - [DhaiShah25/zettle.nvim](https://github.com/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/stars/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/last-commit/DhaiShah25/zettle.nvim) ![](https://img.shields.io/github/commit-activity/y/DhaiShah25/zettle.nvim)
 - [teesh3rt/zeekay.nvim](https://github.com/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/stars/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/last-commit/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/commit-activity/y/teesh3rt/zeekay.nvim)
+- [breiting/nvim-zettel.nvim](https://github.com/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-zettel.nvim)
 
 ### Markdown
 
@@ -295,6 +296,7 @@
 - [OliverChao/templates.nvim](https://github.com/OliverChao/templates.nvim) ![](https://img.shields.io/github/stars/OliverChao/templates.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/templates.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/templates.nvim)
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
+- [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 
 ### inline note
 
