@@ -5,6 +5,7 @@
 #### Whisper
 ### Gemini
 #### Gemini CLI
+### Grok
 ### Multi LLM
 #### mods
 #### Generate Doc
@@ -13,6 +14,8 @@
 ### Ollama
 ### Claude
 ### Claude Code
+### Amazon Q
+### JetBrains AI
 ### DeepSeek
 ### Devin
 ### OpenRouter
@@ -27,6 +30,7 @@
 ### Mentat
 ### Worker AI
 ### Codeium
+### Zeke
 ### Groq
 ### Gen42 AI
 ### FastGPT Kagi
@@ -45,10 +49,11 @@
 ### khulnasoft
 ## AI Completion
 ### Copilot
+### Genie CLI
 ## Chat
 ## AI Terminal
 ## Cursor
-## Code generate
+## CodeCompanion
 ### Chatblade
 ## Error Fix Support
 ## Review
@@ -62,6 +67,7 @@
 ## LLM context
 ## RAG
 ## Model Context Protocol(MCP)
+## ignore
 ## Configuration File (.cursor)
 ## Integration
 ### Linkup
@@ -149,6 +155,7 @@
 ## C/C++
 ### Syntax
 ### Macro
+### function
 ### Compile
 #### insight
 #### elf
@@ -278,6 +285,7 @@
 ### Hide comment
 ### AI comment
 ### remove comment
+### Comment writing mode
 ## LICENSE
 
 # completion.md
@@ -316,6 +324,7 @@
 ### Cron
 ### Drools Rule Language
 ### Log
+#### CLIPS(C Language Integrated Production System)
 ### Craft
 
 # convert.md
@@ -451,6 +460,7 @@
 ### typst
 ### Textile
 ### Jekyll
+### docusaurus
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
@@ -490,6 +500,7 @@
 
 # fold.md
 ## Fold
+### Auto fold
 ## Conceal
 
 # font_emoji.md
@@ -503,6 +514,7 @@
 ### Devicon color
 ## Emoji
 ### Emoji FuzzyFinder
+### Kaomoji
 
 # fuzzy-finder.md
 ## FuzzyFinder
@@ -523,11 +535,13 @@
 ### Garry's Mod
 ### Bevy
 ### UEFN Verse
+### Defold
 
 # game.md
 ## Game
 ### Snake
 ### Tetris
+### Chess
 ### Mine Sweeper
 ### DOOM
 ### Sudoku
@@ -801,6 +815,7 @@
 ### method
 ### Debugger
 #### Stacktrace
+### Serial Version
 ### Test
 ### Compile
 ### Maven
@@ -869,6 +884,7 @@
 ### Bootstrap
 ### mjml
 ### Hygen
+### Ember
 ## Template Engine
 ### Jinja
 
@@ -923,6 +939,7 @@
 #### R
 #### Shellscript(bash)
 ##### ShellCheck
+##### format
 ##### REPL
 #### fish
 #### Nushell
@@ -966,6 +983,7 @@
 #### Janet
 #### Idris2
 #### MatLab
+#### Dice
 #### Cell
 #### Orca
 #### Boxlang
@@ -1006,6 +1024,7 @@
 #### Beancount
 #### incc
 #### Slang
+#### NASM
 #### Aptos Move
 #### Flix
 #### CHIP-8
@@ -1073,6 +1092,7 @@
 #### Debug
 #### LSP Info
 ### Local LSP Config
+### restart
 ## Command
 ### Disable/Enable
 ### Handler
@@ -1233,7 +1253,7 @@
 ### Path
 ## Exec
 ## Config
-## Control another neovim 
+## Control another neovim
 ## UI
 ### Window
 ### HTML
@@ -1307,6 +1327,7 @@
 ### inline note
 ### Anki
 ### Clickup
+### TIL(Today I Learned)
 ### etc
 
 # office-tools.md
@@ -1359,6 +1380,7 @@
 ## for programming languages
 ## for CLI
 ## for Rust
+### NPM
 
 # php.md
 ## PHP
@@ -1385,10 +1407,19 @@
 ### Plugin Config
 ### Switch
 ### Open README
+### local plugin
 ## Market place
 ## Usage Report
 
 # project.md
+## Project
+### Project Switcher
+### Project Root Detector
+### Project Template
+### Project syntax
+#### Monorepo
+### Project Local Config
+### Config switcher
 
 # protocol.md
 ## Protocol
@@ -1646,6 +1677,7 @@
 #### Dioxus
 #### tera
 #### tauri
+#### Zola
 
 # save_backup.md
 ## Save
@@ -1717,6 +1749,11 @@
 # snippet_template.md
 
 # spellcheck.md
+## Spell
+### Spellcheck
+### Vale
+## Pronunce
+## Thesaurus
 
 # split_join.md
 ## [Split / Join](./split_join.md)
@@ -1729,8 +1766,8 @@
 
 # statusline.md
 ## Statusline
-#### Simple
-#### Special Features
+### Simple
+### Special Features
 ### Statusline component
 
 # syntax_highlight.md
@@ -1983,6 +2020,7 @@
 ## Yank
 ### yank highlight
 ### Copy with line info
+### yank node
 ### remove indent
 ### URL
 ### Buffer
