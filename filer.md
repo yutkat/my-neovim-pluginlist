@@ -129,6 +129,7 @@
 - [night0721/ccc.nvim](https://github.com/night0721/ccc.nvim) ![](https://img.shields.io/github/stars/night0721/ccc.nvim) ![](https://img.shields.io/github/last-commit/night0721/ccc.nvim) ![](https://img.shields.io/github/commit-activity/y/night0721/ccc.nvim)
 - [youguanxinqing/find-file.nvim](https://github.com/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/find-file.nvim)
 - [grecodavide/file_browser.nvim](https://github.com/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/stars/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/last-commit/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/commit-activity/y/grecodavide/file_browser.nvim)
+- [JonLD/snacks-file-browser.nvim](https://github.com/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/stars/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/last-commit/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/snacks-file-browser.nvim)
 
 ### Emacs style
 

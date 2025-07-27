@@ -141,6 +141,7 @@
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
+- [herschel21/nvim-chat](https://github.com/herschel21/nvim-chat) ![](https://img.shields.io/github/stars/herschel21/nvim-chat) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat)
 
 #### Codex
 
@@ -175,6 +176,7 @@
 - [abdullahchand/gemini-nvim](https://github.com/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/stars/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/last-commit/abdullahchand/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/abdullahchand/gemini-nvim)
 - [nsalerni/gemi.nvim](https://github.com/nsalerni/gemi.nvim) ![](https://img.shields.io/github/stars/nsalerni/gemi.nvim) ![](https://img.shields.io/github/last-commit/nsalerni/gemi.nvim) ![](https://img.shields.io/github/commit-activity/y/nsalerni/gemi.nvim)
 - [JunYang-tes/gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/JunYang-tes/gemini-nvim)
+- [prime-run/gemini.nvim](https://github.com/prime-run/gemini.nvim) ![](https://img.shields.io/github/stars/prime-run/gemini.nvim) ![](https://img.shields.io/github/last-commit/prime-run/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/prime-run/gemini.nvim)
 
 ### Grok
 
