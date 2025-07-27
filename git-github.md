@@ -410,6 +410,7 @@
 - [NicolasGB/jj.nvim](https://github.com/NicolasGB/jj.nvim) ![](https://img.shields.io/github/stars/NicolasGB/jj.nvim) ![](https://img.shields.io/github/last-commit/NicolasGB/jj.nvim) ![](https://img.shields.io/github/commit-activity/y/NicolasGB/jj.nvim)
 - [ReKylee/jjui.nvim](https://github.com/ReKylee/jjui.nvim) ![](https://img.shields.io/github/stars/ReKylee/jjui.nvim) ![](https://img.shields.io/github/last-commit/ReKylee/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/ReKylee/jjui.nvim)
 - [l3d00m/jj-signs.nvim](https://github.com/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/stars/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/l3d00m/jj-signs.nvim)
+- [tilupe/submission.nvim](https://github.com/tilupe/submission.nvim) ![](https://img.shields.io/github/stars/tilupe/submission.nvim) ![](https://img.shields.io/github/last-commit/tilupe/submission.nvim) ![](https://img.shields.io/github/commit-activity/y/tilupe/submission.nvim)
 
 ### diff
 

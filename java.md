@@ -91,6 +91,7 @@
 - [JavaHello/spring-boot.nvim](https://github.com/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/stars/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/JavaHello/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/JavaHello/spring-boot.nvim)
 - [maidinhhuy/spring-boot.nvim](https://github.com/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/stars/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/maidinhhuy/spring-boot.nvim)
 - [brandishcode/springboot-cli.nvim](https://github.com/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/stars/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/springboot-cli.nvim)
+- [jkeresman01/spring-initializr.nvim](https://github.com/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/stars/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/spring-initializr.nvim)
 
 ### JBoss
 
