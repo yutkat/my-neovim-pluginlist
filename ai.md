@@ -330,6 +330,7 @@
 - [ianks/claude-code-ide.nvim](https://github.com/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/stars/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/last-commit/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ianks/claude-code-ide.nvim)
 - [nandoolle/claude-code.nvim](https://github.com/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/stars/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/claude-code.nvim)
 - [qtnx/multiclaudecode.nvim](https://github.com/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/stars/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/last-commit/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/qtnx/multiclaudecode.nvim)
+- [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
 
 ### Amazon Q
 

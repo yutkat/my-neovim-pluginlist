@@ -159,6 +159,7 @@
 - [gbprod/yanky.nvim](https://github.com/gbprod/yanky.nvim) ![](https://img.shields.io/github/stars/gbprod/yanky.nvim) ![](https://img.shields.io/github/last-commit/gbprod/yanky.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/yanky.nvim)
 - [bfredl/nvim-miniyank](https://github.com/bfredl/nvim-miniyank) ![](https://img.shields.io/github/stars/bfredl/nvim-miniyank) ![](https://img.shields.io/github/last-commit/bfredl/nvim-miniyank) ![](https://img.shields.io/github/commit-activity/y/bfredl/nvim-miniyank)
 - [hrsh7th/nvim-pasta](https://github.com/hrsh7th/nvim-pasta) ![](https://img.shields.io/github/stars/hrsh7th/nvim-pasta) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-pasta) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-pasta)
+- [sunesimonsen/killring.nvim](https://github.com/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/killring.nvim)
 
 ### Mac
 

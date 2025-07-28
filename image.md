@@ -68,6 +68,7 @@
 - [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
 - [TymekDev/freeze.nvim](https://github.com/TymekDev/freeze.nvim) ![](https://img.shields.io/github/stars/TymekDev/freeze.nvim) ![](https://img.shields.io/github/last-commit/TymekDev/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/TymekDev/freeze.nvim)
 - [watzon/goshot.nvim](https://github.com/watzon/goshot.nvim) ![](https://img.shields.io/github/stars/watzon/goshot.nvim) ![](https://img.shields.io/github/last-commit/watzon/goshot.nvim) ![](https://img.shields.io/github/commit-activity/y/watzon/goshot.nvim)
+- [pittcat/macos-screenshot.nvim](https://github.com/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/stars/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/last-commit/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/macos-screenshot.nvim)
 
 ### Screen Key (Show Typing key)
 

@@ -49,6 +49,7 @@
 - [xlboy/swap-ternary.nvim](https://github.com/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/stars/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/last-commit/xlboy/swap-ternary.nvim) ![](https://img.shields.io/github/commit-activity/y/xlboy/swap-ternary.nvim)
 - [haolian9/textswap.nvim](https://github.com/haolian9/textswap.nvim) ![](https://img.shields.io/github/stars/haolian9/textswap.nvim) ![](https://img.shields.io/github/last-commit/haolian9/textswap.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/textswap.nvim)
 - [phanen/text-swap.nvim](https://github.com/phanen/text-swap.nvim) ![](https://img.shields.io/github/stars/phanen/text-swap.nvim) ![](https://img.shields.io/github/last-commit/phanen/text-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/text-swap.nvim)
+- [Ricie23/dyslexic-swap.nvim](https://github.com/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/stars/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/last-commit/Ricie23/dyslexic-swap.nvim) ![](https://img.shields.io/github/commit-activity/y/Ricie23/dyslexic-swap.nvim)
 
 ### Duplicate
 
