@@ -330,6 +330,7 @@
 - [ianks/claude-code-ide.nvim](https://github.com/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/stars/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/last-commit/ianks/claude-code-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ianks/claude-code-ide.nvim)
 - [nandoolle/claude-code.nvim](https://github.com/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/stars/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/claude-code.nvim)
 - [qtnx/multiclaudecode.nvim](https://github.com/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/stars/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/last-commit/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/qtnx/multiclaudecode.nvim)
+- [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
 
 ### Amazon Q
 
@@ -394,7 +395,6 @@
 - [azorng/goose.nvim](https://github.com/azorng/goose.nvim) ![](https://img.shields.io/github/stars/azorng/goose.nvim) ![](https://img.shields.io/github/last-commit/azorng/goose.nvim) ![](https://img.shields.io/github/commit-activity/y/azorng/goose.nvim)
 
 ### Mistral
-
 
 ### Mentat
 
@@ -491,6 +491,7 @@
 - [Czandal/autocomplicate.nvim](https://github.com/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/stars/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/last-commit/Czandal/autocomplicate.nvim) ![](https://img.shields.io/github/commit-activity/y/Czandal/autocomplicate.nvim)
 - [benpops89/momonga.nvim](https://github.com/benpops89/momonga.nvim) ![](https://img.shields.io/github/stars/benpops89/momonga.nvim) ![](https://img.shields.io/github/last-commit/benpops89/momonga.nvim) ![](https://img.shields.io/github/commit-activity/y/benpops89/momonga.nvim)
 - [TravisLinkey/nvim-tag-suggestions](https://github.com/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/stars/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/last-commit/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/nvim-tag-suggestions)
+- [9f2c/nvim-stream-completion](https://github.com/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/stars/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/last-commit/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/commit-activity/y/9f2c/nvim-stream-completion)
 
 ### Copilot
 

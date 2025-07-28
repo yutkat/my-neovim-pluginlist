@@ -90,6 +90,8 @@
 
 - [moniquelive/rfc.nvim](https://github.com/moniquelive/rfc.nvim) ![](https://img.shields.io/github/stars/moniquelive/rfc.nvim) ![](https://img.shields.io/github/last-commit/moniquelive/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/moniquelive/rfc.nvim)
 - [skykosiner/rfc.nvim](https://github.com/skykosiner/rfc.nvim) ![](https://img.shields.io/github/stars/skykosiner/rfc.nvim) ![](https://img.shields.io/github/last-commit/skykosiner/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/skykosiner/rfc.nvim)
+- [ltfiend/nvim-rfc-editor](https://github.com/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/stars/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-rfc-editor) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-rfc-editor)
+- [neet-007/rfc-view.nvim](https://github.com/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/stars/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/last-commit/neet-007/rfc-view.nvim) ![](https://img.shields.io/github/commit-activity/y/neet-007/rfc-view.nvim)
 
 ## Reference
 

@@ -112,6 +112,7 @@
 - [simondwall/edit_register.nvim](https://github.com/simondwall/edit_register.nvim) ![](https://img.shields.io/github/stars/simondwall/edit_register.nvim) ![](https://img.shields.io/github/last-commit/simondwall/edit_register.nvim) ![](https://img.shields.io/github/commit-activity/y/simondwall/edit_register.nvim)
 - [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
 - [ravibrock/regisfilter.nvim](https://github.com/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/stars/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/regisfilter.nvim)
+- [sunesimonsen/killring.nvim](https://github.com/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/killring.nvim)
 
 ### Lock Register
 

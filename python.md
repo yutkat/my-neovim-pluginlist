@@ -25,7 +25,7 @@
   - [Poetry](#poetry)
   - [uv](#uv)
   - [Mesone](#mesone)
-  - [Jupyter](#jupyter)
+- [Jupyter](#jupyter)
   - [Pandas](#pandas)
   - [DataFrame](#dataframe)
   - [Pytorch](#pytorch)
@@ -82,6 +82,7 @@
 - [jedi-knights/pytest.nvim](https://github.com/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/stars/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/pytest.nvim)
 - [13janderson/runner.nvim](https://github.com/13janderson/runner.nvim) ![](https://img.shields.io/github/stars/13janderson/runner.nvim) ![](https://img.shields.io/github/last-commit/13janderson/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/runner.nvim)
 - [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) ![](https://img.shields.io/github/stars/richardhapb/pytest.nvim) ![](https://img.shields.io/github/last-commit/richardhapb/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhapb/pytest.nvim)
+- [CaetanoGenete/python-tools.nvim](https://github.com/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/stars/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/last-commit/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/CaetanoGenete/python-tools.nvim)
 
 #### jurigged
 
@@ -186,7 +187,7 @@
 
 - [marc0x71/mesone.nvim](https://github.com/marc0x71/mesone.nvim) ![](https://img.shields.io/github/stars/marc0x71/mesone.nvim) ![](https://img.shields.io/github/last-commit/marc0x71/mesone.nvim) ![](https://img.shields.io/github/commit-activity/y/marc0x71/mesone.nvim)
 
-### Jupyter
+## Jupyter
 
 - [kiyoon/jupynium.nvim](https://github.com/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/stars/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/jupynium.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/jupynium.nvim)
 - [lkhphuc/jupyter-kernel.nvim](https://github.com/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/stars/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/last-commit/lkhphuc/jupyter-kernel.nvim) ![](https://img.shields.io/github/commit-activity/y/lkhphuc/jupyter-kernel.nvim)

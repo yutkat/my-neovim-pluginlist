@@ -350,6 +350,8 @@
 
 ### Ethereum
 
+- [0xferrous/eth.nvim](https://github.com/0xferrous/eth.nvim) ![](https://img.shields.io/github/stars/0xferrous/eth.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/eth.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/eth.nvim)
+
 #### foundry
 
 ### IME
