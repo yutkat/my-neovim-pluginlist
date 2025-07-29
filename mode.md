@@ -34,6 +34,7 @@
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/stars/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/match-visual.nvim)
 - [astaos/nvim-ultivisual](https://github.com/astaos/nvim-ultivisual) ![](https://img.shields.io/github/stars/astaos/nvim-ultivisual) ![](https://img.shields.io/github/last-commit/astaos/nvim-ultivisual) ![](https://img.shields.io/github/commit-activity/y/astaos/nvim-ultivisual)
 - [phanen/vbi.nvim](https://github.com/phanen/vbi.nvim) ![](https://img.shields.io/github/stars/phanen/vbi.nvim) ![](https://img.shields.io/github/last-commit/phanen/vbi.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/vbi.nvim)
+- [lost22git/highlight-visual.nvim](https://github.com/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/stars/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/last-commit/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/highlight-visual.nvim)
 
 ### Submode
 

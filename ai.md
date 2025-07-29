@@ -226,6 +226,8 @@
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
+- [josh-le/openrouter.nvim](https://github.com/josh-le/openrouter.nvim) ![](https://img.shields.io/github/stars/josh-le/openrouter.nvim) ![](https://img.shields.io/github/last-commit/josh-le/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-le/openrouter.nvim)
+- [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 
 #### mods
 
