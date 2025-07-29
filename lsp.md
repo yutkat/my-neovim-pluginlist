@@ -34,6 +34,7 @@
     - [Debug](#debug)
     - [LSP Info](#lsp-info)
   - [Local LSP Config](#local-lsp-config)
+  - [restart](#restart)
 - [Command](#command)
   - [Disable/Enable](#disableenable)
   - [Handler](#handler)
@@ -292,6 +293,7 @@
 
 - [mhanberg/output-panel.nvim](https://github.com/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/stars/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/last-commit/mhanberg/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/mhanberg/output-panel.nvim)
 - [WillLillis/lsploghover.nvim](https://github.com/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/stars/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/last-commit/WillLillis/lsploghover.nvim) ![](https://img.shields.io/github/commit-activity/y/WillLillis/lsploghover.nvim)
+- [kuuote/lsp_log_viewer.nvim](https://github.com/kuuote/lsp_log_viewer.nvim) ![](https://img.shields.io/github/stars/kuuote/lsp_log_viewer.nvim) ![](https://img.shields.io/github/last-commit/kuuote/lsp_log_viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/kuuote/lsp_log_viewer.nvim)
 
 #### Debug
 

@@ -252,6 +252,7 @@
 ### Incremental selection
 
 - [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
+- [shushtain/nvim-treesitter-incremental-selection](https://github.com/shushtain/nvim-treesitter-incremental-selection) ![](https://img.shields.io/github/stars/shushtain/nvim-treesitter-incremental-selection) ![](https://img.shields.io/github/last-commit/shushtain/nvim-treesitter-incremental-selection) ![](https://img.shields.io/github/commit-activity/y/shushtain/nvim-treesitter-incremental-selection)
 
 ### Around select
 

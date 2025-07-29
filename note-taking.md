@@ -84,6 +84,7 @@
 - [hsteinshiromoto/markdown_mover.nvim](https://github.com/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_mover.nvim)
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/dotmd.nvim)
 - [MistbornOne/better-tasks.nvim](https://github.com/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/stars/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/better-tasks.nvim)
+- [sat0b/markdown-note.nvim](https://github.com/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/stars/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/last-commit/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/commit-activity/y/sat0b/markdown-note.nvim)
 
 ### ToDo
 

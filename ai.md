@@ -33,6 +33,7 @@
   - [Mentat](#mentat)
   - [Worker AI](#worker-ai)
   - [Codeium](#codeium)
+  - [Zeke](#zeke)
   - [Groq](#groq)
   - [Gen42 AI](#gen42-ai)
   - [FastGPT Kagi](#fastgpt-kagi)
@@ -51,6 +52,7 @@
   - [khulnasoft](#khulnasoft)
 - [AI Completion](#ai-completion)
   - [Copilot](#copilot)
+  - [Genie CLI](#genie-cli)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
 - [Cursor](#cursor)
@@ -226,6 +228,7 @@
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
+- [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 
 #### mods
 
@@ -355,6 +358,7 @@
 
 - [bresilla/llmchat.nvim](https://github.com/bresilla/llmchat.nvim) ![](https://img.shields.io/github/stars/bresilla/llmchat.nvim) ![](https://img.shields.io/github/last-commit/bresilla/llmchat.nvim) ![](https://img.shields.io/github/commit-activity/y/bresilla/llmchat.nvim)
 - [duboisf/chatter.nvim](https://github.com/duboisf/chatter.nvim) ![](https://img.shields.io/github/stars/duboisf/chatter.nvim) ![](https://img.shields.io/github/last-commit/duboisf/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/chatter.nvim)
+- [josh-le/openrouter.nvim](https://github.com/josh-le/openrouter.nvim) ![](https://img.shields.io/github/stars/josh-le/openrouter.nvim) ![](https://img.shields.io/github/last-commit/josh-le/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-le/openrouter.nvim)
 
 ### Supermaven
 
