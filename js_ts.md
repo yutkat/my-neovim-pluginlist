@@ -99,6 +99,7 @@
 
 - [bad4iz/console.log.nvim](https://github.com/bad4iz/console.log.nvim) ![](https://img.shields.io/github/stars/bad4iz/console.log.nvim) ![](https://img.shields.io/github/last-commit/bad4iz/console.log.nvim) ![](https://img.shields.io/github/commit-activity/y/bad4iz/console.log.nvim)
 - [sabinsthnp/nvim-log-insert](https://github.com/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/stars/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/last-commit/sabinsthnp/nvim-log-insert) ![](https://img.shields.io/github/commit-activity/y/sabinsthnp/nvim-log-insert)
+- [Bitlatte/log.nvim](https://github.com/Bitlatte/log.nvim) ![](https://img.shields.io/github/stars/Bitlatte/log.nvim) ![](https://img.shields.io/github/last-commit/Bitlatte/log.nvim) ![](https://img.shields.io/github/commit-activity/y/Bitlatte/log.nvim)
 
 ### export
 

@@ -97,6 +97,7 @@
 - [MatanyaP/keyboard-guard.nvim](https://github.com/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/stars/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/last-commit/MatanyaP/keyboard-guard.nvim) ![](https://img.shields.io/github/commit-activity/y/MatanyaP/keyboard-guard.nvim)
 - [AtomThum/layoutswitch.nvim](https://github.com/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/stars/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/last-commit/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/AtomThum/layoutswitch.nvim)
 - [coreyb-git/keyboardlayout.nvim](https://github.com/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/stars/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/keyboardlayout.nvim)
+- [AleYepes/colemak-hd.nvim](https://github.com/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/stars/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/last-commit/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/commit-activity/y/AleYepes/colemak-hd.nvim)
 
 #### Virtual Keyboard
 

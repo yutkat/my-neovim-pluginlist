@@ -85,6 +85,7 @@
 - [echasnovski/mini.operators](https://github.com/echasnovski/mini.operators) ![](https://img.shields.io/github/stars/echasnovski/mini.operators) ![](https://img.shields.io/github/last-commit/echasnovski/mini.operators) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.operators)
 - [cat-phish/smooth-operator.nvim](https://github.com/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/stars/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/smooth-operator.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/smooth-operator.nvim)
 - [monaqa/general-converter.nvim](https://github.com/monaqa/general-converter.nvim) ![](https://img.shields.io/github/stars/monaqa/general-converter.nvim) ![](https://img.shields.io/github/last-commit/monaqa/general-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/general-converter.nvim)
+- [ClarityWay/operator.nvim](https://github.com/ClarityWay/operator.nvim) ![](https://img.shields.io/github/stars/ClarityWay/operator.nvim) ![](https://img.shields.io/github/last-commit/ClarityWay/operator.nvim) ![](https://img.shields.io/github/commit-activity/y/ClarityWay/operator.nvim)
 
 ### Replace
 
