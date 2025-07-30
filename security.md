@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Security](#security)
+  - [Scan](#scan)
   - [Secrets](#secrets)
   - [Password Manager](#password-manager)
     - [KeePassXC](#keepassxc)
@@ -33,6 +34,10 @@
 - [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/DevSecInspect.nvim)
 - [michaelPotter/secure-settings.nvim](https://github.com/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/stars/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/secure-settings.nvim)
 - [fouladi/ccrypt-wrapper.nvim](https://github.com/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/stars/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/last-commit/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/ccrypt-wrapper.nvim)
+
+### Scan
+
+- [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
 
 ### Secrets
 
@@ -101,4 +106,3 @@
 - [fguisso/sfer.nvim](https://github.com/fguisso/sfer.nvim) ![](https://img.shields.io/github/stars/fguisso/sfer.nvim) ![](https://img.shields.io/github/last-commit/fguisso/sfer.nvim) ![](https://img.shields.io/github/commit-activity/y/fguisso/sfer.nvim)
 
 ## docket
-

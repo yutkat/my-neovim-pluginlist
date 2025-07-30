@@ -301,6 +301,7 @@
 ### Eval
 
 - [fvictorio/eval-replace.nvim](https://github.com/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/stars/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/last-commit/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/fvictorio/eval-replace.nvim)
+- [lost22git/run-visual.nvim](https://github.com/lost22git/run-visual.nvim) ![](https://img.shields.io/github/stars/lost22git/run-visual.nvim) ![](https://img.shields.io/github/last-commit/lost22git/run-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/run-visual.nvim)
 
 ### [Convert](./convert.md)
 

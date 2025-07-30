@@ -16,8 +16,10 @@
     - [X (Twitter)](#x-twitter)
   - [Notion](#notion)
   - [esa.io](#esaio)
+  - [Dev](#dev)
   - [micro.blog](#microblog)
   - [Gmail](#gmail)
+  - [Zoom](#zoom)
   - [ntfy](#ntfy)
   - [WhatsApp](#whatsapp)
   - [Redmine](#redmine)
@@ -135,6 +137,10 @@
 
 - [hirokiyoshino/esabird.nvim](https://github.com/hirokiyoshino/esabird.nvim) ![](https://img.shields.io/github/stars/hirokiyoshino/esabird.nvim) ![](https://img.shields.io/github/last-commit/hirokiyoshino/esabird.nvim) ![](https://img.shields.io/github/commit-activity/y/hirokiyoshino/esabird.nvim)
 
+### Dev
+
+- [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
+
 ### micro.blog
 
 - [s-cassidy/microblog.nvim](https://github.com/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/stars/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/last-commit/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/commit-activity/y/s-cassidy/microblog.nvim)
@@ -142,6 +148,10 @@
 ### Gmail
 
 - [ogomezba/nvim-gmail](https://github.com/ogomezba/nvim-gmail) ![](https://img.shields.io/github/stars/ogomezba/nvim-gmail) ![](https://img.shields.io/github/last-commit/ogomezba/nvim-gmail) ![](https://img.shields.io/github/commit-activity/y/ogomezba/nvim-gmail)
+
+### Zoom
+
+- [maxmaxou2/zoom-sync.nvim](https://github.com/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/stars/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/last-commit/maxmaxou2/zoom-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/maxmaxou2/zoom-sync.nvim)
 
 ### ntfy
 

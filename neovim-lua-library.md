@@ -13,6 +13,7 @@
 - [String](#string)
 - [List](#list)
 - [Type](#type)
+- [global](#global)
 - [Save lua variable](#save-lua-variable)
 - [File](#file)
   - [Path](#path)
@@ -134,6 +135,10 @@
 ## Type
 
 - [ElanMedoff/schema-validator.nvim](https://github.com/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/schema-validator.nvim)
+
+## global
+
+- [naughie/glocal-states.nvim](https://github.com/naughie/glocal-states.nvim) ![](https://img.shields.io/github/stars/naughie/glocal-states.nvim) ![](https://img.shields.io/github/last-commit/naughie/glocal-states.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/glocal-states.nvim)
 
 ## Save lua variable
 

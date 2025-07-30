@@ -45,6 +45,7 @@
   - [global](#global)
   - [tldr](#tldr)
   - [cheat.sh](#cheatsh)
+  - [b4](#b4)
   - [htop](#htop)
   - [dotfiles](#dotfiles)
     - [chezmoi](#chezmoi)
@@ -377,6 +378,10 @@
 - [Partysun/cheat.nvim](https://github.com/Partysun/cheat.nvim) ![](https://img.shields.io/github/stars/Partysun/cheat.nvim) ![](https://img.shields.io/github/last-commit/Partysun/cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/Partysun/cheat.nvim)
 - [sanathks/cht.nvim](https://github.com/sanathks/cht.nvim) ![](https://img.shields.io/github/stars/sanathks/cht.nvim) ![](https://img.shields.io/github/last-commit/sanathks/cht.nvim) ![](https://img.shields.io/github/commit-activity/y/sanathks/cht.nvim)
 - [nedelcu-ioan/ned-chtsh.nvim](https://github.com/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/stars/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/last-commit/nedelcu-ioan/ned-chtsh.nvim) ![](https://img.shields.io/github/commit-activity/y/nedelcu-ioan/ned-chtsh.nvim)
+
+#### b4
+
+- [rbmarliere/b4.nvim](https://github.com/rbmarliere/b4.nvim) ![](https://img.shields.io/github/stars/rbmarliere/b4.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/b4.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/b4.nvim)
 
 #### htop
 

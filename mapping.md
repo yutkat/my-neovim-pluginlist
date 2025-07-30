@@ -13,6 +13,7 @@
   - [Show assigned](#show-assigned)
   - [Prefix Key Binding](#prefix-key-binding)
   - [Layout Switch](#layout-switch)
+    - [Colemak-HD](#colemak-hd)
   - [Mapping toggle](#mapping-toggle)
   - [Improve Mappings](#improve-mappings)
     - [Repeatable](#repeatable)
@@ -124,6 +125,10 @@
 - [debugloop/layers.nvim](https://github.com/debugloop/layers.nvim) ![](https://img.shields.io/github/stars/debugloop/layers.nvim) ![](https://img.shields.io/github/last-commit/debugloop/layers.nvim) ![](https://img.shields.io/github/commit-activity/y/debugloop/layers.nvim)
 
 ### Layout Switch
+
+#### Colemak-HD
+
+- [AleYepes/colemak-hd.nvim](https://github.com/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/stars/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/last-commit/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/commit-activity/y/AleYepes/colemak-hd.nvim)
 
 ### Mapping toggle
 
