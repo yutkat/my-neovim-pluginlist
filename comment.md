@@ -20,6 +20,7 @@
   - [Hide comment](#hide-comment)
   - [AI comment](#ai-comment)
   - [remove comment](#remove-comment)
+  - [Comment writing mode](#comment-writing-mode)
 - [LICENSE](#license)
 
 <!-- tocstop -->
@@ -92,6 +93,7 @@
 
 - [masamerc/procrastinate.nvim](https://github.com/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/stars/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/last-commit/masamerc/procrastinate.nvim) ![](https://img.shields.io/github/commit-activity/y/masamerc/procrastinate.nvim)
 - [inskribe/todo.nvim](https://github.com/inskribe/todo.nvim) ![](https://img.shields.io/github/stars/inskribe/todo.nvim) ![](https://img.shields.io/github/last-commit/inskribe/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/inskribe/todo.nvim)
+- [Bitlatte/log.nvim](https://github.com/Bitlatte/log.nvim) ![](https://img.shields.io/github/stars/Bitlatte/log.nvim) ![](https://img.shields.io/github/last-commit/Bitlatte/log.nvim) ![](https://img.shields.io/github/commit-activity/y/Bitlatte/log.nvim)
 
 ## Todo Comment Highlight
 

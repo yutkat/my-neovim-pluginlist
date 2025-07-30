@@ -8,6 +8,7 @@
   - [YouTube Music](#youtube-music)
   - [Tidal](#tidal)
   - [Strudel](#strudel)
+  - [Reaper](#reaper)
     - [MIDI](#midi)
     - [ABC Notation](#abc-notation)
     - [Morse](#morse)
@@ -70,6 +71,10 @@
 ### Strudel
 
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) ![](https://img.shields.io/github/stars/gruvw/strudel.nvim) ![](https://img.shields.io/github/last-commit/gruvw/strudel.nvim) ![](https://img.shields.io/github/commit-activity/y/gruvw/strudel.nvim)
+
+### Reaper
+
+- [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) ![](https://img.shields.io/github/stars/gwatcha/reaper-keys) ![](https://img.shields.io/github/last-commit/gwatcha/reaper-keys) ![](https://img.shields.io/github/commit-activity/y/gwatcha/reaper-keys)
 
 #### MIDI
 

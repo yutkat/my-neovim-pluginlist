@@ -150,6 +150,7 @@
 - [RileyGabrielson/inspire.nvim](https://github.com/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/stars/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/last-commit/RileyGabrielson/inspire.nvim) ![](https://img.shields.io/github/commit-activity/y/RileyGabrielson/inspire.nvim)
 - [mahyarmirrashed/famous-quotes.nvim](https://github.com/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/famous-quotes.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/famous-quotes.nvim)
 - [ingenarel/randomtips-nvim](https://github.com/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/stars/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/last-commit/ingenarel/randomtips-nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/randomtips-nvim)
+- [AlexRainHao/cowsay-fortune.nvim](https://github.com/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/stars/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/last-commit/AlexRainHao/cowsay-fortune.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexRainHao/cowsay-fortune.nvim)
 
 #### Tips
 

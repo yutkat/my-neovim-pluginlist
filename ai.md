@@ -334,6 +334,7 @@
 - [nandoolle/claude-code.nvim](https://github.com/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/stars/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/claude-code.nvim)
 - [qtnx/multiclaudecode.nvim](https://github.com/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/stars/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/last-commit/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/qtnx/multiclaudecode.nvim)
 - [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
+- [SouhailBlmn/claude-code.nvim](https://github.com/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/stars/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/last-commit/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/SouhailBlmn/claude-code.nvim)
 
 ### Amazon Q
 
@@ -480,6 +481,7 @@
 - [loukotal/neopencode.nvim](https://github.com/loukotal/neopencode.nvim) ![](https://img.shields.io/github/stars/loukotal/neopencode.nvim) ![](https://img.shields.io/github/last-commit/loukotal/neopencode.nvim) ![](https://img.shields.io/github/commit-activity/y/loukotal/neopencode.nvim)
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/stars/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/last-commit/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/NickvanDyke/opencode.nvim)
 - [cousine/opencode-context.nvim](https://github.com/cousine/opencode-context.nvim) ![](https://img.shields.io/github/stars/cousine/opencode-context.nvim) ![](https://img.shields.io/github/last-commit/cousine/opencode-context.nvim) ![](https://img.shields.io/github/commit-activity/y/cousine/opencode-context.nvim)
+- [kksimons/nvim-opencode](https://github.com/kksimons/nvim-opencode) ![](https://img.shields.io/github/stars/kksimons/nvim-opencode) ![](https://img.shields.io/github/last-commit/kksimons/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/kksimons/nvim-opencode)
 
 ### khulnasoft
 
@@ -523,6 +525,7 @@
 - [DanielKlossek/github-chatpilot.nvim](https://github.com/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/stars/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/last-commit/DanielKlossek/github-chatpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielKlossek/github-chatpilot.nvim)
 - [bytesoverflow/smartcat.nvim](https://github.com/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/stars/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/last-commit/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/commit-activity/y/bytesoverflow/smartcat.nvim)
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
+- [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 
 ## AI Terminal
 
