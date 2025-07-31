@@ -299,12 +299,14 @@
 - [R1chardHao/scratch.nvim](https://github.com/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/stars/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/last-commit/R1chardHao/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/R1chardHao/scratch.nvim)
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
+- [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
 
 ### inline note
 
 - [kristijanhusak/line-notes.nvim](https://github.com/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/line-notes.nvim)
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/virt-notes.nvim)
 - [asmorris/line_notes.nvim](https://github.com/asmorris/line_notes.nvim) ![](https://img.shields.io/github/stars/asmorris/line_notes.nvim) ![](https://img.shields.io/github/last-commit/asmorris/line_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/asmorris/line_notes.nvim)
+- [vvilhelmsen/ghostnotes.nvim](https://github.com/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/ghostnotes.nvim)
 
 ### Anki
 

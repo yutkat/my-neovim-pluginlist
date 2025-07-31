@@ -311,6 +311,7 @@
 - [simiancreative/hum.nvim](https://github.com/simiancreative/hum.nvim) ![](https://img.shields.io/github/stars/simiancreative/hum.nvim) ![](https://img.shields.io/github/last-commit/simiancreative/hum.nvim) ![](https://img.shields.io/github/commit-activity/y/simiancreative/hum.nvim)
 - [wasabeef/yank-for-claude.nvim](https://github.com/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/stars/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/yank-for-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/yank-for-claude.nvim)
 - [estevaofon/ailite.nvim](https://github.com/estevaofon/ailite.nvim) ![](https://img.shields.io/github/stars/estevaofon/ailite.nvim) ![](https://img.shields.io/github/last-commit/estevaofon/ailite.nvim) ![](https://img.shields.io/github/commit-activity/y/estevaofon/ailite.nvim)
+- [S1M0N38/ccusage.nvim](https://github.com/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ccusage.nvim)
 
 ### Claude Code
 
