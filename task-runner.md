@@ -138,6 +138,7 @@
 - [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
 - [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
 - [MikaelGois/smart-runner.nvim](https://github.com/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/stars/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/last-commit/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikaelGois/smart-runner.nvim)
+- [gregornickel/nvim-deployment](https://github.com/gregornickel/nvim-deployment) ![](https://img.shields.io/github/stars/gregornickel/nvim-deployment) ![](https://img.shields.io/github/last-commit/gregornickel/nvim-deployment) ![](https://img.shields.io/github/commit-activity/y/gregornickel/nvim-deployment)
 
 #### Shell
 
@@ -190,6 +191,7 @@
 - [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 - [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
+- [viligante8/script-runner.nvim](https://github.com/viligante8/script-runner.nvim) ![](https://img.shields.io/github/stars/viligante8/script-runner.nvim) ![](https://img.shields.io/github/last-commit/viligante8/script-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/viligante8/script-runner.nvim)
 
 ### Auto detect style
 

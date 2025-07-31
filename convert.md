@@ -76,6 +76,7 @@
 - [Geertsky/smart-toggle.nvim](https://github.com/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/stars/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/smart-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/smart-toggle.nvim)
 - [jkaraskiewicz/toggle.nvim](https://github.com/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/toggle.nvim)
 - [iquzart/toggleword.nvim](https://github.com/iquzart/toggleword.nvim) ![](https://img.shields.io/github/stars/iquzart/toggleword.nvim) ![](https://img.shields.io/github/last-commit/iquzart/toggleword.nvim) ![](https://img.shields.io/github/commit-activity/y/iquzart/toggleword.nvim)
+- [justamanpop/nvim-strike-through](https://github.com/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/stars/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/last-commit/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/commit-activity/y/justamanpop/nvim-strike-through)
 
 ### Shell command
 

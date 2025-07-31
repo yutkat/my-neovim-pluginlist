@@ -305,6 +305,7 @@
 - [kristijanhusak/line-notes.nvim](https://github.com/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/line-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/line-notes.nvim)
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/virt-notes.nvim)
 - [asmorris/line_notes.nvim](https://github.com/asmorris/line_notes.nvim) ![](https://img.shields.io/github/stars/asmorris/line_notes.nvim) ![](https://img.shields.io/github/last-commit/asmorris/line_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/asmorris/line_notes.nvim)
+- [vvilhelmsen/ghostnotes.nvim](https://github.com/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/ghostnotes.nvim)
 
 ### Anki
 

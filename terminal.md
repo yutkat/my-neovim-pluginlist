@@ -138,6 +138,7 @@
 ### Mapping
 
 - [Axot017/multiterm.nvim](https://github.com/Axot017/multiterm.nvim) ![](https://img.shields.io/github/stars/Axot017/multiterm.nvim) ![](https://img.shields.io/github/last-commit/Axot017/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/multiterm.nvim)
+- [rivsidn/keymap-terminal.nvim](https://github.com/rivsidn/keymap-terminal.nvim) ![](https://img.shields.io/github/stars/rivsidn/keymap-terminal.nvim) ![](https://img.shields.io/github/last-commit/rivsidn/keymap-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rivsidn/keymap-terminal.nvim)
 
 ### Jump
 

@@ -85,6 +85,7 @@
 - [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
 - [alucherdi/hand-of-god](https://github.com/alucherdi/hand-of-god) ![](https://img.shields.io/github/stars/alucherdi/hand-of-god) ![](https://img.shields.io/github/last-commit/alucherdi/hand-of-god) ![](https://img.shields.io/github/commit-activity/y/alucherdi/hand-of-god)
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
+- [coldpatch/lf-simple.nvim](https://github.com/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/stars/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/lf-simple.nvim)
 
 ### gx
 
