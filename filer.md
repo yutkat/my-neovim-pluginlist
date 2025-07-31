@@ -162,6 +162,10 @@
 - [MaJinjie/yazi-meta.nvim](https://github.com/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/stars/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/last-commit/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/MaJinjie/yazi-meta.nvim)
 - [KamiSenpai64/nvim-yazi](https://github.com/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/stars/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/last-commit/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/commit-activity/y/KamiSenpai64/nvim-yazi)
 
+### lf wrapper
+
+- [coldpatch/lf-simple.nvim](https://github.com/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/stars/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/lf-simple.nvim)
+
 ### Network File Manager
 
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)

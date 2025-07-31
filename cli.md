@@ -340,6 +340,7 @@
 - [mrkatebzadeh/sync.nvim](https://github.com/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/stars/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/last-commit/mrkatebzadeh/sync.nvim) ![](https://img.shields.io/github/commit-activity/y/mrkatebzadeh/sync.nvim)
 - [nahso/rsync-build.nvim](https://github.com/nahso/rsync-build.nvim) ![](https://img.shields.io/github/stars/nahso/rsync-build.nvim) ![](https://img.shields.io/github/last-commit/nahso/rsync-build.nvim) ![](https://img.shields.io/github/commit-activity/y/nahso/rsync-build.nvim)
 - [huncholane/syncmap.nvim](https://github.com/huncholane/syncmap.nvim) ![](https://img.shields.io/github/stars/huncholane/syncmap.nvim) ![](https://img.shields.io/github/last-commit/huncholane/syncmap.nvim) ![](https://img.shields.io/github/commit-activity/y/huncholane/syncmap.nvim)
+- [gregornickel/nvim-deployment](https://github.com/gregornickel/nvim-deployment) ![](https://img.shields.io/github/stars/gregornickel/nvim-deployment) ![](https://img.shields.io/github/last-commit/gregornickel/nvim-deployment) ![](https://img.shields.io/github/commit-activity/y/gregornickel/nvim-deployment)
 
 #### curl
 
