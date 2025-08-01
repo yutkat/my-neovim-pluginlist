@@ -45,6 +45,7 @@
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/stars/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/last-commit/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nvim-plugin-template)
 - [S1M0N38/my-awesome-plugin.nvim](https://github.com/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/stars/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/my-awesome-plugin.nvim)
 - [2kabhishek/template.nvim](https://github.com/2kabhishek/template.nvim) ![](https://img.shields.io/github/stars/2kabhishek/template.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/template.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/template.nvim)
+- [realShaneYost/nvim-skel.nvim](https://github.com/realShaneYost/nvim-skel.nvim) ![](https://img.shields.io/github/stars/realShaneYost/nvim-skel.nvim) ![](https://img.shields.io/github/last-commit/realShaneYost/nvim-skel.nvim) ![](https://img.shields.io/github/commit-activity/y/realShaneYost/nvim-skel.nvim)
 
 ### LSP
 

@@ -96,4 +96,5 @@
 
 - [andry-dev/kyouko.nvim](https://github.com/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/stars/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/last-commit/andry-dev/kyouko.nvim) ![](https://img.shields.io/github/commit-activity/y/andry-dev/kyouko.nvim)
 - [ronxjansen/voice.nvim](https://github.com/ronxjansen/voice.nvim) ![](https://img.shields.io/github/stars/ronxjansen/voice.nvim) ![](https://img.shields.io/github/last-commit/ronxjansen/voice.nvim) ![](https://img.shields.io/github/commit-activity/y/ronxjansen/voice.nvim)
+- [I2olanD/vox.nvim](https://github.com/I2olanD/vox.nvim) ![](https://img.shields.io/github/stars/I2olanD/vox.nvim) ![](https://img.shields.io/github/last-commit/I2olanD/vox.nvim) ![](https://img.shields.io/github/commit-activity/y/I2olanD/vox.nvim)
 - [AndrewMead10/asr.nvim](https://github.com/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/asr.nvim)
