@@ -79,6 +79,7 @@
   - [Save&Backup](#savebackup)
   - [Startup](#startup)
   - [Session](#session)
+  - [Shada](#shada)
   - [Mouse](#mouse)
 - [Coding](#coding)
   - [Readable Assistant](#readable-assistant)
@@ -469,6 +470,10 @@
 ### [Startup](./startup.md)
 
 ### [Session](./session.md)
+
+### Shada
+
+- [mart-mihkel/pshada.nvim](https://github.com/mart-mihkel/pshada.nvim) ![](https://img.shields.io/github/stars/mart-mihkel/pshada.nvim) ![](https://img.shields.io/github/last-commit/mart-mihkel/pshada.nvim) ![](https://img.shields.io/github/commit-activity/y/mart-mihkel/pshada.nvim)
 
 ### Mouse
 
