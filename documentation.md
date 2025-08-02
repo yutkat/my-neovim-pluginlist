@@ -70,6 +70,7 @@
   - [typst](#typst)
   - [Textile](#textile)
   - [Jekyll](#jekyll)
+  - [docusaurus](#docusaurus)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -129,6 +130,7 @@
 - [nick-skriabin/timeline.nvim](https://github.com/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/stars/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/last-commit/nick-skriabin/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-skriabin/timeline.nvim)
 - [Fireond/number-markdown.nvim](https://github.com/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/stars/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/last-commit/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/Fireond/number-markdown.nvim)
 - [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
+- [logno-dev/header-level.nvim](https://github.com/logno-dev/header-level.nvim) ![](https://img.shields.io/github/stars/logno-dev/header-level.nvim) ![](https://img.shields.io/github/last-commit/logno-dev/header-level.nvim) ![](https://img.shields.io/github/commit-activity/y/logno-dev/header-level.nvim)
 
 ##### Title explorer
 

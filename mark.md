@@ -38,6 +38,7 @@
 - [agrevster/marker.nvim](https://github.com/agrevster/marker.nvim) ![](https://img.shields.io/github/stars/agrevster/marker.nvim) ![](https://img.shields.io/github/last-commit/agrevster/marker.nvim) ![](https://img.shields.io/github/commit-activity/y/agrevster/marker.nvim)
 - [mtkld/bubblecol.nvim](https://github.com/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/stars/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/last-commit/mtkld/bubblecol.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/bubblecol.nvim)
 - [developedbyed/marko.nvim](https://github.com/developedbyed/marko.nvim) ![](https://img.shields.io/github/stars/developedbyed/marko.nvim) ![](https://img.shields.io/github/last-commit/developedbyed/marko.nvim) ![](https://img.shields.io/github/commit-activity/y/developedbyed/marko.nvim)
+- [swit33/cycle_trail.nvim](https://github.com/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/stars/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/last-commit/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/cycle_trail.nvim)
 
 ### extmark
 
