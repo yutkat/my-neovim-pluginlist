@@ -188,6 +188,7 @@
 - [janBorowy/jirac.nvim](https://github.com/janBorowy/jirac.nvim) ![](https://img.shields.io/github/stars/janBorowy/jirac.nvim) ![](https://img.shields.io/github/last-commit/janBorowy/jirac.nvim) ![](https://img.shields.io/github/commit-activity/y/janBorowy/jirac.nvim)
 - [WillianPaiva/jira-nvim](https://github.com/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/stars/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/last-commit/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/commit-activity/y/WillianPaiva/jira-nvim)
 - [JamiroFerrara/neojira.nvim](https://github.com/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neojira.nvim)
+- [KlitnyjS/nvim-jira-branch](https://github.com/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/stars/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/last-commit/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/commit-activity/y/KlitnyjS/nvim-jira-branch)
 
 ### Confluence
 

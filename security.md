@@ -53,6 +53,7 @@
 - [NeverW8/nvim_pw.nvim](https://github.com/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/stars/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/last-commit/NeverW8/nvim_pw.nvim) ![](https://img.shields.io/github/commit-activity/y/NeverW8/nvim_pw.nvim)
 - [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
 - [aashan10/passbolt.nvim](https://github.com/aashan10/passbolt.nvim) ![](https://img.shields.io/github/stars/aashan10/passbolt.nvim) ![](https://img.shields.io/github/last-commit/aashan10/passbolt.nvim) ![](https://img.shields.io/github/commit-activity/y/aashan10/passbolt.nvim)
+- [fionn/nvim-redact-pass](https://github.com/fionn/nvim-redact-pass) ![](https://img.shields.io/github/stars/fionn/nvim-redact-pass) ![](https://img.shields.io/github/last-commit/fionn/nvim-redact-pass) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-redact-pass)
 
 #### KeePassXC
 

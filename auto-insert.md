@@ -52,6 +52,7 @@
 - [Saghen/blink.pairs](https://github.com/Saghen/blink.pairs) ![](https://img.shields.io/github/stars/Saghen/blink.pairs) ![](https://img.shields.io/github/last-commit/Saghen/blink.pairs) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.pairs)
 - [Ritzier/nvim-ts-autotag](https://github.com/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/stars/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/last-commit/Ritzier/nvim-ts-autotag) ![](https://img.shields.io/github/commit-activity/y/Ritzier/nvim-ts-autotag)
 - [AndresYague/move-enclosing.nvim](https://github.com/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/stars/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/move-enclosing.nvim)
+- [Alexerby/close.nvim](https://github.com/Alexerby/close.nvim) ![](https://img.shields.io/github/stars/Alexerby/close.nvim) ![](https://img.shields.io/github/last-commit/Alexerby/close.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexerby/close.nvim)
 
 ### escape pairs
 
