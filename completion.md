@@ -85,6 +85,7 @@
 - Other letters
   - [max397574/cmp-greek](https://github.com/max397574/cmp-greek) ![](https://img.shields.io/github/stars/max397574/cmp-greek) ![](https://img.shields.io/github/last-commit/max397574/cmp-greek) ![](https://img.shields.io/github/commit-activity/y/max397574/cmp-greek)
   - [itshare4u/WritingTools.nvim](https://github.com/itshare4u/WritingTools.nvim) ![](https://img.shields.io/github/stars/itshare4u/WritingTools.nvim) ![](https://img.shields.io/github/last-commit/itshare4u/WritingTools.nvim) ![](https://img.shields.io/github/commit-activity/y/itshare4u/WritingTools.nvim)
+  - [fionn/cmp-unitex](https://github.com/fionn/cmp-unitex) ![](https://img.shields.io/github/stars/fionn/cmp-unitex) ![](https://img.shields.io/github/last-commit/fionn/cmp-unitex) ![](https://img.shields.io/github/commit-activity/y/fionn/cmp-unitex)
 - External program source
   - [petertriho/cmp-git](https://github.com/petertriho/cmp-git) ![](https://img.shields.io/github/stars/petertriho/cmp-git) ![](https://img.shields.io/github/last-commit/petertriho/cmp-git) ![](https://img.shields.io/github/commit-activity/y/petertriho/cmp-git)
   - [lukas-reineke/cmp-rg](https://github.com/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/stars/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/last-commit/lukas-reineke/cmp-rg) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/cmp-rg)

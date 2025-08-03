@@ -92,6 +92,7 @@
 - [jfgordon2/vsterm.nvim](https://github.com/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/stars/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/vsterm.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/vsterm.nvim)
 - [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/stars/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/last-commit/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/waiting-for-dev/ergoterm.nvim)
 - [imranzero/multiterm.nvim](https://github.com/imranzero/multiterm.nvim) ![](https://img.shields.io/github/stars/imranzero/multiterm.nvim) ![](https://img.shields.io/github/last-commit/imranzero/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/imranzero/multiterm.nvim)
+- [goropikari/termlist.nvim](https://github.com/goropikari/termlist.nvim) ![](https://img.shields.io/github/stars/goropikari/termlist.nvim) ![](https://img.shields.io/github/last-commit/goropikari/termlist.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/termlist.nvim)
 
 ### Open
 
