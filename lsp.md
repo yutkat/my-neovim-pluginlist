@@ -57,6 +57,7 @@
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/stars/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/last-commit/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/lazy-lsp.nvim)
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) ![](https://img.shields.io/github/stars/anott03/nvim-lspinstall) ![](https://img.shields.io/github/last-commit/anott03/nvim-lspinstall) ![](https://img.shields.io/github/commit-activity/y/anott03/nvim-lspinstall)
 - [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/stars/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/last-commit/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/commit-activity/y/alexaandru/nvim-lspupdate)
+- [onlyati/quadlet-lsp.nvim](https://github.com/onlyati/quadlet-lsp.nvim) ![](https://img.shields.io/github/stars/onlyati/quadlet-lsp.nvim) ![](https://img.shields.io/github/last-commit/onlyati/quadlet-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/quadlet-lsp.nvim)
 
 ### LSP Feature Extension UI
 

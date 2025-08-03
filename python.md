@@ -58,6 +58,7 @@
 - [joshzcold/python.nvim](https://github.com/joshzcold/python.nvim) ![](https://img.shields.io/github/stars/joshzcold/python.nvim) ![](https://img.shields.io/github/last-commit/joshzcold/python.nvim) ![](https://img.shields.io/github/commit-activity/y/joshzcold/python.nvim)
 - [mjbn/FoxDot.nvim](https://github.com/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/stars/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/last-commit/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/commit-activity/y/mjbn/FoxDot.nvim)
 - [jeryldev/pyworks.nvim](https://github.com/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/stars/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/last-commit/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/commit-activity/y/jeryldev/pyworks.nvim)
+- [gbakes/nvim-python-inspector](https://github.com/gbakes/nvim-python-inspector) ![](https://img.shields.io/github/stars/gbakes/nvim-python-inspector) ![](https://img.shields.io/github/last-commit/gbakes/nvim-python-inspector) ![](https://img.shields.io/github/commit-activity/y/gbakes/nvim-python-inspector)
 
 ### tweaks
 

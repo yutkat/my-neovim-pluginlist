@@ -97,6 +97,7 @@
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) ![](https://img.shields.io/github/stars/mickael-menu/ShadowVim) ![](https://img.shields.io/github/last-commit/mickael-menu/ShadowVim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/ShadowVim)
 - [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/xcodebuild.nvim)
+- [okwasniewski/xcode-build-server.nvim](https://github.com/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/stars/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/last-commit/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/commit-activity/y/okwasniewski/xcode-build-server.nvim)
 
 ### JetBrains
 
