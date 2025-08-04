@@ -80,6 +80,7 @@
 
 - [defyus/doxly.nvim](https://github.com/defyus/doxly.nvim) ![](https://img.shields.io/github/stars/defyus/doxly.nvim) ![](https://img.shields.io/github/last-commit/defyus/doxly.nvim) ![](https://img.shields.io/github/commit-activity/y/defyus/doxly.nvim)
 - [benoror/gpg.nvim](https://github.com/benoror/gpg.nvim) ![](https://img.shields.io/github/stars/benoror/gpg.nvim) ![](https://img.shields.io/github/last-commit/benoror/gpg.nvim) ![](https://img.shields.io/github/commit-activity/y/benoror/gpg.nvim)
+- [markbragin/pivo.nvim](https://github.com/markbragin/pivo.nvim) ![](https://img.shields.io/github/stars/markbragin/pivo.nvim) ![](https://img.shields.io/github/last-commit/markbragin/pivo.nvim) ![](https://img.shields.io/github/commit-activity/y/markbragin/pivo.nvim)
 
 ### Keychain
 

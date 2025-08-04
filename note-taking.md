@@ -184,6 +184,8 @@
 - [gendonholaholo/todo-lens.nvim](https://github.com/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/stars/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/last-commit/gendonholaholo/todo-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/gendonholaholo/todo-lens.nvim)
 - [MorkovnySok/todo.nvim](https://github.com/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/stars/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/last-commit/MorkovnySok/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/MorkovnySok/todo.nvim)
 - [thjbdvlt/tilia.nvim](https://github.com/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/tilia.nvim)
+- [vimichael/floatingtodo.nvim](https://github.com/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/stars/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/vimichael/floatingtodo.nvim)
+- [beetlejuice16/floatodo.nvim](https://github.com/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/floatodo.nvim)
 
 #### Taskwarrior
 

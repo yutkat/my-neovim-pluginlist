@@ -13,6 +13,8 @@
   - [ranger](#ranger)
     - [Joshuto](#joshuto)
     - [yazi](#yazi)
+  - [fm](#fm)
+  - [lf wrapper](#lf-wrapper)
   - [Network File Manager](#network-file-manager)
   - [Open directory](#open-directory)
   - [Find specific file](#find-specific-file)
@@ -161,6 +163,10 @@
 - [Kicamon/yazi.nvim](https://github.com/Kicamon/yazi.nvim) ![](https://img.shields.io/github/stars/Kicamon/yazi.nvim) ![](https://img.shields.io/github/last-commit/Kicamon/yazi.nvim) ![](https://img.shields.io/github/commit-activity/y/Kicamon/yazi.nvim)
 - [MaJinjie/yazi-meta.nvim](https://github.com/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/stars/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/last-commit/MaJinjie/yazi-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/MaJinjie/yazi-meta.nvim)
 - [KamiSenpai64/nvim-yazi](https://github.com/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/stars/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/last-commit/KamiSenpai64/nvim-yazi) ![](https://img.shields.io/github/commit-activity/y/KamiSenpai64/nvim-yazi)
+
+### fm
+
+- [qkzk/fm-picker.nvim](https://github.com/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/stars/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/last-commit/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/qkzk/fm-picker.nvim)
 
 ### lf wrapper
 

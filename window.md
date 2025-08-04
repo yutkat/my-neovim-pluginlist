@@ -118,6 +118,7 @@
 - [morphe157/popviewer.nvim](https://github.com/morphe157/popviewer.nvim) ![](https://img.shields.io/github/stars/morphe157/popviewer.nvim) ![](https://img.shields.io/github/last-commit/morphe157/popviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/morphe157/popviewer.nvim)
 - [zimeg/newsflash.nvim](https://github.com/zimeg/newsflash.nvim) ![](https://img.shields.io/github/stars/zimeg/newsflash.nvim) ![](https://img.shields.io/github/last-commit/zimeg/newsflash.nvim) ![](https://img.shields.io/github/commit-activity/y/zimeg/newsflash.nvim)
 - [phanen/mterm.nvim](https://github.com/phanen/mterm.nvim) ![](https://img.shields.io/github/stars/phanen/mterm.nvim) ![](https://img.shields.io/github/last-commit/phanen/mterm.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mterm.nvim)
+- [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/stars/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/last-commit/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/commit-activity/y/WilliamHsieh/overlook.nvim)
 
 #### resize
 

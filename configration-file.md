@@ -16,6 +16,7 @@
   - [Cron](#cron)
   - [Drools Rule Language](#drools-rule-language)
   - [Log](#log)
+    - [CLIPS(C Language Integrated Production System)](#clipsc-language-integrated-production-system)
   - [Craft](#craft)
 
 <!-- tocstop -->
@@ -131,6 +132,7 @@
 - [LukeBaal/lumberjack.nvim](https://github.com/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/stars/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/last-commit/LukeBaal/lumberjack.nvim) ![](https://img.shields.io/github/commit-activity/y/LukeBaal/lumberjack.nvim)
 - [rinke-livinglogic-nl/relay.nvim](https://github.com/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/stars/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/last-commit/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/rinke-livinglogic-nl/relay.nvim)
 - [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) ![](https://img.shields.io/github/stars/KieranCanter/candela.nvim) ![](https://img.shields.io/github/last-commit/KieranCanter/candela.nvim) ![](https://img.shields.io/github/commit-activity/y/KieranCanter/candela.nvim)
+- [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/stars/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/last-commit/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fei6409/log-highlight.nvim)
 
 #### CLIPS(C Language Integrated Production System)
 
