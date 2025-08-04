@@ -108,6 +108,7 @@
 - [walker84837/fastgit.nvim](https://github.com/walker84837/fastgit.nvim) ![](https://img.shields.io/github/stars/walker84837/fastgit.nvim) ![](https://img.shields.io/github/last-commit/walker84837/fastgit.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/fastgit.nvim)
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) ![](https://img.shields.io/github/stars/wsdjeg/git.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/git.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/git.nvim)
 - [metalelf0/git-utils.nvim](https://github.com/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/stars/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/git-utils.nvim)
+- [GlennMm/auto-git-add.nvim](https://github.com/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/stars/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/auto-git-add.nvim)
 
 ### gitui
 
@@ -295,6 +296,7 @@
 - [frannoriega/gitsolve.nvim](https://github.com/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/stars/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/last-commit/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/commit-activity/y/frannoriega/gitsolve.nvim)
 - [TungstnBallon/conflict.nvim](https://github.com/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/conflict.nvim)
 - [algmyr/vcmarkers.nvim](https://github.com/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/stars/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/last-commit/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/algmyr/vcmarkers.nvim)
+- [3dyuval/git-resolve-conflict.nvim](https://github.com/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/stars/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/git-resolve-conflict.nvim)
 
 ### git pull
 

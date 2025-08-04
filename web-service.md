@@ -238,6 +238,7 @@
 - [FocusThen/music-player.nvim](https://github.com/FocusThen/music-player.nvim) ![](https://img.shields.io/github/stars/FocusThen/music-player.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/music-player.nvim)
 - [coreyb-git/spotify-player.nvim](https://github.com/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/stars/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/spotify-player.nvim)
 - [ianklapouch/spotify.nvim](https://github.com/ianklapouch/spotify.nvim) ![](https://img.shields.io/github/stars/ianklapouch/spotify.nvim) ![](https://img.shields.io/github/last-commit/ianklapouch/spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/ianklapouch/spotify.nvim)
+- [RazoBeckett/spoclient.nvim](https://github.com/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/stars/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/last-commit/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/commit-activity/y/RazoBeckett/spoclient.nvim)
 
 ### StackOverflow
 

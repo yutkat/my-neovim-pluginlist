@@ -229,6 +229,7 @@
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
+- [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
 
 #### mods
 
@@ -290,6 +291,7 @@
 - [AdamFrenzen/ghostwrite.nvim](https://github.com/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/stars/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/last-commit/AdamFrenzen/ghostwrite.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamFrenzen/ghostwrite.nvim)
 - [DominikOcsofszki/local_llm_tools.nvim](https://github.com/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/stars/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/last-commit/DominikOcsofszki/local_llm_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/DominikOcsofszki/local_llm_tools.nvim)
 - [Dheeraj-Murthy/Ollama_chat.nvim](https://github.com/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/stars/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/last-commit/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheeraj-Murthy/Ollama_chat.nvim)
+- [sha0coder/nvim-ollama](https://github.com/sha0coder/nvim-ollama) ![](https://img.shields.io/github/stars/sha0coder/nvim-ollama) ![](https://img.shields.io/github/last-commit/sha0coder/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/sha0coder/nvim-ollama)
 
 ### Claude
 

@@ -130,6 +130,7 @@
 - [youguanxinqing/find-file.nvim](https://github.com/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/find-file.nvim)
 - [grecodavide/file_browser.nvim](https://github.com/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/stars/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/last-commit/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/commit-activity/y/grecodavide/file_browser.nvim)
 - [JonLD/snacks-file-browser.nvim](https://github.com/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/stars/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/last-commit/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/snacks-file-browser.nvim)
+- [qkzk/fm-picker.nvim](https://github.com/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/stars/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/last-commit/qkzk/fm-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/qkzk/fm-picker.nvim)
 
 ### Emacs style
 
