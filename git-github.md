@@ -152,6 +152,7 @@
 ### git add
 
 - [bagohart/diff-mappings.nvim](https://github.com/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/diff-mappings.nvim)
+- [GlennMm/auto-git-add.nvim](https://github.com/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/stars/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/auto-git-add.nvim)
 
 ### git commit
 
@@ -295,6 +296,7 @@
 - [frannoriega/gitsolve.nvim](https://github.com/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/stars/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/last-commit/frannoriega/gitsolve.nvim) ![](https://img.shields.io/github/commit-activity/y/frannoriega/gitsolve.nvim)
 - [TungstnBallon/conflict.nvim](https://github.com/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/conflict.nvim)
 - [algmyr/vcmarkers.nvim](https://github.com/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/stars/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/last-commit/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/algmyr/vcmarkers.nvim)
+- [3dyuval/git-resolve-conflict.nvim](https://github.com/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/stars/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/git-resolve-conflict.nvim)
 
 ### git pull
 
