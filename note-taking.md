@@ -85,6 +85,7 @@
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/dotmd.nvim)
 - [MistbornOne/better-tasks.nvim](https://github.com/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/stars/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/better-tasks.nvim)
 - [sat0b/markdown-note.nvim](https://github.com/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/stars/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/last-commit/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/commit-activity/y/sat0b/markdown-note.nvim)
+- [xpcoffee/nvim-markdown-notes](https://github.com/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-notes)
 
 ### ToDo
 
@@ -483,3 +484,4 @@
 - [NesterovYehor/sticky_pad.nvim](https://github.com/NesterovYehor/sticky_pad.nvim) ![](https://img.shields.io/github/stars/NesterovYehor/sticky_pad.nvim) ![](https://img.shields.io/github/last-commit/NesterovYehor/sticky_pad.nvim) ![](https://img.shields.io/github/commit-activity/y/NesterovYehor/sticky_pad.nvim)
 - [TheLastCD/simple-note.nvim](https://github.com/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/stars/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/last-commit/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLastCD/simple-note.nvim)
 - [kubemancer/quick-notes.nvim](https://github.com/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/stars/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kubemancer/quick-notes.nvim)
+- [orose/journal.nvim](https://github.com/orose/journal.nvim) ![](https://img.shields.io/github/stars/orose/journal.nvim) ![](https://img.shields.io/github/last-commit/orose/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/orose/journal.nvim)

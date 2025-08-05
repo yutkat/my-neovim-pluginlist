@@ -58,6 +58,7 @@
   - [Deno](#deno)
   - [Bun](#bun)
   - [NestJS](#nestjs)
+  - [Electron](#electron)
   - [Bootstrap](#bootstrap)
   - [mjml](#mjml)
   - [Hygen](#hygen)
@@ -411,6 +412,10 @@
 ### NestJS
 
 - [nandoolle/nest-repl.nvim](https://github.com/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/stars/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/last-commit/nandoolle/nest-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/nandoolle/nest-repl.nvim)
+
+### Electron
+
+- [ChaldLive/electron-launch.nvim](https://github.com/ChaldLive/electron-launch.nvim) ![](https://img.shields.io/github/stars/ChaldLive/electron-launch.nvim) ![](https://img.shields.io/github/last-commit/ChaldLive/electron-launch.nvim) ![](https://img.shields.io/github/commit-activity/y/ChaldLive/electron-launch.nvim)
 
 ### Bootstrap
 
