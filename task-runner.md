@@ -138,6 +138,7 @@
 - [eumis/tasks.nvim](https://github.com/eumis/tasks.nvim) ![](https://img.shields.io/github/stars/eumis/tasks.nvim) ![](https://img.shields.io/github/last-commit/eumis/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/tasks.nvim)
 - [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
 - [MikaelGois/smart-runner.nvim](https://github.com/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/stars/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/last-commit/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikaelGois/smart-runner.nvim)
+- [slocook/buildit.nvim](https://github.com/slocook/buildit.nvim) ![](https://img.shields.io/github/stars/slocook/buildit.nvim) ![](https://img.shields.io/github/last-commit/slocook/buildit.nvim) ![](https://img.shields.io/github/commit-activity/y/slocook/buildit.nvim)
 
 #### Shell
 

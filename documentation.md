@@ -131,6 +131,7 @@
 - [Fireond/number-markdown.nvim](https://github.com/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/stars/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/last-commit/Fireond/number-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/Fireond/number-markdown.nvim)
 - [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
 - [logno-dev/header-level.nvim](https://github.com/logno-dev/header-level.nvim) ![](https://img.shields.io/github/stars/logno-dev/header-level.nvim) ![](https://img.shields.io/github/last-commit/logno-dev/header-level.nvim) ![](https://img.shields.io/github/commit-activity/y/logno-dev/header-level.nvim)
+- [alexhokl/nvim-md-header-telescope-picker](https://github.com/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-telescope-picker)
 
 ##### Title explorer
 
@@ -250,6 +251,7 @@
 - [raj77in/nvim-fencepolish](https://github.com/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/stars/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/last-commit/raj77in/nvim-fencepolish) ![](https://img.shields.io/github/commit-activity/y/raj77in/nvim-fencepolish)
 - [y0ug/ctx.nvim](https://github.com/y0ug/ctx.nvim) ![](https://img.shields.io/github/stars/y0ug/ctx.nvim) ![](https://img.shields.io/github/last-commit/y0ug/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/y0ug/ctx.nvim)
 - [Zonric/codecopy.nvim](https://github.com/Zonric/codecopy.nvim) ![](https://img.shields.io/github/stars/Zonric/codecopy.nvim) ![](https://img.shields.io/github/last-commit/Zonric/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zonric/codecopy.nvim)
+- [xpcoffee/nvim-markdown-codeblocks](https://github.com/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-codeblocks)
 
 #### Markdown table
 
@@ -422,6 +424,7 @@
 
 - [CrystalDime/epub.nvim](https://github.com/CrystalDime/epub.nvim) ![](https://img.shields.io/github/stars/CrystalDime/epub.nvim) ![](https://img.shields.io/github/last-commit/CrystalDime/epub.nvim) ![](https://img.shields.io/github/commit-activity/y/CrystalDime/epub.nvim)
 - [Shuheng-Zhang/bk.nvim](https://github.com/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/bk.nvim)
+- [Shuheng-Zhang/ebr.nvim](https://github.com/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/ebr.nvim)
 
 ### Pandoc
 
