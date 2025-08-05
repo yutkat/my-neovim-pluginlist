@@ -84,7 +84,6 @@
 - [hsteinshiromoto/markdown_mover.nvim](https://github.com/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/markdown_mover.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/markdown_mover.nvim)
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/dotmd.nvim)
 - [MistbornOne/better-tasks.nvim](https://github.com/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/stars/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/better-tasks.nvim)
-- [sat0b/markdown-note.nvim](https://github.com/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/stars/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/last-commit/sat0b/markdown-note.nvim) ![](https://img.shields.io/github/commit-activity/y/sat0b/markdown-note.nvim)
 - [xpcoffee/nvim-markdown-notes](https://github.com/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-notes)
 
 ### ToDo
@@ -279,7 +278,6 @@
 - [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
 - [yeasin50/wikilink.nvim](https://github.com/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/stars/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/wikilink.nvim)
 - [thjbdvlt/sentiers.nvim](https://github.com/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/sentiers.nvim)
-- [HanteyMN/sentiers.nvim](https://github.com/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/stars/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/last-commit/HanteyMN/sentiers.nvim) ![](https://img.shields.io/github/commit-activity/y/HanteyMN/sentiers.nvim)
 
 ### VimWiki
 

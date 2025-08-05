@@ -58,7 +58,6 @@
 
 ### Chess
 
-- [jonahbenedicto/chess.nvim](https://github.com/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/stars/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/last-commit/jonahbenedicto/chess.nvim) ![](https://img.shields.io/github/commit-activity/y/jonahbenedicto/chess.nvim)
 
 ### Mine Sweeper
 
