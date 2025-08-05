@@ -44,7 +44,6 @@
 
 ## Savian alphabet
 
-- [jecxjo/shavian.nvim](https://github.com/jecxjo/shavian.nvim) ![](https://img.shields.io/github/stars/jecxjo/shavian.nvim) ![](https://img.shields.io/github/last-commit/jecxjo/shavian.nvim) ![](https://img.shields.io/github/commit-activity/y/jecxjo/shavian.nvim)
 
 ## Superscript Subscript
 

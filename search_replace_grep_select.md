@@ -55,7 +55,7 @@
 - [m6vrm/svart.nvim](https://github.com/m6vrm/svart.nvim) ![](https://img.shields.io/github/stars/m6vrm/svart.nvim) ![](https://img.shields.io/github/last-commit/m6vrm/svart.nvim) ![](https://img.shields.io/github/commit-activity/y/m6vrm/svart.nvim)
 - [zaucy/nos.nvim](https://github.com/zaucy/nos.nvim) ![](https://img.shields.io/github/stars/zaucy/nos.nvim) ![](https://img.shields.io/github/last-commit/zaucy/nos.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/nos.nvim)
 - [ollbx/match-list.nvim](https://github.com/ollbx/match-list.nvim) ![](https://img.shields.io/github/stars/ollbx/match-list.nvim) ![](https://img.shields.io/github/last-commit/ollbx/match-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/match-list.nvim)
-- [Natestah/blitzsearch.nvim/](https://github.com/Natestah/blitzsearch.nvim/) ![](https://img.shields.io/github/stars/Natestah/blitzsearch.nvim/) ![](https://img.shields.io/github/last-commit/Natestah/blitzsearch.nvim/) ![](https://img.shields.io/github/commit-activity/y/Natestah/blitzsearch.nvim/)
+- [Natestah/blitzsearch.nvim](https://github.com/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/stars/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/last-commit/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Natestah/blitzsearch.nvim)
 
 ### Window local search
 

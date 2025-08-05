@@ -107,7 +107,6 @@
 
 ### local plugin
 
-- [HueGreywell/fastbuild.nvim](https://github.com/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/stars/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/fastbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/fastbuild.nvim)
 
 ## Market place
 

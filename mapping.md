@@ -129,7 +129,6 @@
 
 #### Colemak-HD
 
-- [AleYepes/colemak-hd.nvim](https://github.com/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/stars/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/last-commit/AleYepes/colemak-hd.nvim) ![](https://img.shields.io/github/commit-activity/y/AleYepes/colemak-hd.nvim)
 
 ### Mapping toggle
 
