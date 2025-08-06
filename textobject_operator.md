@@ -30,6 +30,8 @@
 - [ggandor/spooky.nvim](https://github.com/ggandor/spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/spooky.nvim)
 - [ColinKennedy/cursor-text-objects.nvim](https://github.com/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/stars/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/last-commit/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinKennedy/cursor-text-objects.nvim)
 - [mawkler/jsx-element.nvim](https://github.com/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/stars/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/last-commit/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/jsx-element.nvim)
+- [ColinKennedy/test-cursor-text-objects.nvim](https://github.com/ColinKennedy/test-cursor-text-objects.nvim) ![](https://img.shields.io/github/stars/ColinKennedy/test-cursor-text-objects.nvim) ![](https://img.shields.io/github/last-commit/ColinKennedy/test-cursor-text-objects.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinKennedy/test-cursor-text-objects.nvim)
+- [srghma-backup/nvim-various-textobjs-movements](https://github.com/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma-backup/nvim-various-textobjs-movements)
 
 ### Unit
 

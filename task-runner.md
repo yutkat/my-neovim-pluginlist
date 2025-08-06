@@ -139,6 +139,7 @@
 - [07CalC/cook.nvim](https://github.com/07CalC/cook.nvim) ![](https://img.shields.io/github/stars/07CalC/cook.nvim) ![](https://img.shields.io/github/last-commit/07CalC/cook.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/cook.nvim)
 - [MikaelGois/smart-runner.nvim](https://github.com/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/stars/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/last-commit/MikaelGois/smart-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikaelGois/smart-runner.nvim)
 - [slocook/buildit.nvim](https://github.com/slocook/buildit.nvim) ![](https://img.shields.io/github/stars/slocook/buildit.nvim) ![](https://img.shields.io/github/last-commit/slocook/buildit.nvim) ![](https://img.shields.io/github/commit-activity/y/slocook/buildit.nvim)
+- [devEducaua/crun.nvim](https://github.com/devEducaua/crun.nvim) ![](https://img.shields.io/github/stars/devEducaua/crun.nvim) ![](https://img.shields.io/github/last-commit/devEducaua/crun.nvim) ![](https://img.shields.io/github/commit-activity/y/devEducaua/crun.nvim)
 
 #### Shell
 
@@ -191,6 +192,7 @@
 - [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 - [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
+- [ragaoua/eco.nvim](https://github.com/ragaoua/eco.nvim) ![](https://img.shields.io/github/stars/ragaoua/eco.nvim) ![](https://img.shields.io/github/last-commit/ragaoua/eco.nvim) ![](https://img.shields.io/github/commit-activity/y/ragaoua/eco.nvim)
 
 ### Auto detect style
 

@@ -734,6 +734,7 @@
 - [DedsecKnight/dactl.nvim](https://github.com/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/stars/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/last-commit/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/commit-activity/y/DedsecKnight/dactl.nvim)
 - [Z-xus/dsa_io.nvim](https://github.com/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/stars/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/last-commit/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/commit-activity/y/Z-xus/dsa_io.nvim)
 - [regarager/cheesepizza.nvim](https://github.com/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/stars/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/last-commit/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/commit-activity/y/regarager/cheesepizza.nvim)
+- [mt-shihab26/competitive-companion.nvim](https://github.com/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/stars/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/last-commit/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/mt-shihab26/competitive-companion.nvim)
 
 ### Codeforces
 
