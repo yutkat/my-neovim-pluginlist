@@ -30,6 +30,7 @@
 - [ggandor/spooky.nvim](https://github.com/ggandor/spooky.nvim) ![](https://img.shields.io/github/stars/ggandor/spooky.nvim) ![](https://img.shields.io/github/last-commit/ggandor/spooky.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/spooky.nvim)
 - [ColinKennedy/cursor-text-objects.nvim](https://github.com/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/stars/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/last-commit/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinKennedy/cursor-text-objects.nvim)
 - [mawkler/jsx-element.nvim](https://github.com/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/stars/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/last-commit/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/jsx-element.nvim)
+- [srghma-backup/nvim-various-textobjs-movements](https://github.com/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma-backup/nvim-various-textobjs-movements)
 
 ### Unit
 
@@ -75,6 +76,7 @@
 - [ricefordinr/yet-another-surround.nvim](https://github.com/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/stars/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/last-commit/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ricefordinr/yet-another-surround.nvim)
 - [cfung89/embrace.nvim](https://github.com/cfung89/embrace.nvim) ![](https://img.shields.io/github/stars/cfung89/embrace.nvim) ![](https://img.shields.io/github/last-commit/cfung89/embrace.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/embrace.nvim)
 - [carlinigraphy/structured.nvim](https://github.com/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/structured.nvim)
+- [kimpure/warp.nvim](https://github.com/kimpure/warp.nvim) ![](https://img.shields.io/github/stars/kimpure/warp.nvim) ![](https://img.shields.io/github/last-commit/kimpure/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/warp.nvim)
 
 ## Operator
 

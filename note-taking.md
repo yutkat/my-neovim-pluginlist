@@ -186,6 +186,8 @@
 - [thjbdvlt/tilia.nvim](https://github.com/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/tilia.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/tilia.nvim)
 - [vimichael/floatingtodo.nvim](https://github.com/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/stars/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/last-commit/vimichael/floatingtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/vimichael/floatingtodo.nvim)
 - [beetlejuice16/floatodo.nvim](https://github.com/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/floatodo.nvim)
+- [antoniofontaneti/todo.nvim](https://github.com/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/stars/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/last-commit/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniofontaneti/todo.nvim)
+- [M0rtamor/todo.nvim](https://github.com/M0rtamor/todo.nvim) ![](https://img.shields.io/github/stars/M0rtamor/todo.nvim) ![](https://img.shields.io/github/last-commit/M0rtamor/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/M0rtamor/todo.nvim)
 
 #### Taskwarrior
 
@@ -229,6 +231,7 @@
 - [maxardito/obtero.nvim](https://github.com/maxardito/obtero.nvim) ![](https://img.shields.io/github/stars/maxardito/obtero.nvim) ![](https://img.shields.io/github/last-commit/maxardito/obtero.nvim) ![](https://img.shields.io/github/commit-activity/y/maxardito/obtero.nvim)
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
+- [saravenpi/pebble.nvim](https://github.com/saravenpi/pebble.nvim) ![](https://img.shields.io/github/stars/saravenpi/pebble.nvim) ![](https://img.shields.io/github/last-commit/saravenpi/pebble.nvim) ![](https://img.shields.io/github/commit-activity/y/saravenpi/pebble.nvim)
 
 ### nb
 
@@ -483,3 +486,4 @@
 - [TheLastCD/simple-note.nvim](https://github.com/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/stars/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/last-commit/TheLastCD/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLastCD/simple-note.nvim)
 - [kubemancer/quick-notes.nvim](https://github.com/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/stars/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/kubemancer/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/kubemancer/quick-notes.nvim)
 - [orose/journal.nvim](https://github.com/orose/journal.nvim) ![](https://img.shields.io/github/stars/orose/journal.nvim) ![](https://img.shields.io/github/last-commit/orose/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/orose/journal.nvim)
+- [JonLD/jot.nvim](https://github.com/JonLD/jot.nvim) ![](https://img.shields.io/github/stars/JonLD/jot.nvim) ![](https://img.shields.io/github/last-commit/JonLD/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/jot.nvim)

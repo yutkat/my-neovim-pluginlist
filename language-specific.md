@@ -126,6 +126,8 @@
     - [NASM](#nasm)
     - [Aptos Move](#aptos-move)
     - [Flix](#flix)
+    - [WebIDL](#webidl)
+    - [IPDL](#ipdl)
     - [CHIP-8](#chip-8)
     - [Enclave Definition Language (EDL)](#enclave-definition-language-edl)
     - [E2](#e2)
@@ -703,6 +705,14 @@
 
 - [CadeMichael/flix.nvim](https://github.com/CadeMichael/flix.nvim) ![](https://img.shields.io/github/stars/CadeMichael/flix.nvim) ![](https://img.shields.io/github/last-commit/CadeMichael/flix.nvim) ![](https://img.shields.io/github/commit-activity/y/CadeMichael/flix.nvim)
 
+#### WebIDL
+
+- [padenot/webidl.nvim](https://github.com/padenot/webidl.nvim) ![](https://img.shields.io/github/stars/padenot/webidl.nvim) ![](https://img.shields.io/github/last-commit/padenot/webidl.nvim) ![](https://img.shields.io/github/commit-activity/y/padenot/webidl.nvim)
+
+#### IPDL
+
+- [padenot/ipdl.nvim](https://github.com/padenot/ipdl.nvim) ![](https://img.shields.io/github/stars/padenot/ipdl.nvim) ![](https://img.shields.io/github/last-commit/padenot/ipdl.nvim) ![](https://img.shields.io/github/commit-activity/y/padenot/ipdl.nvim)
+
 #### CHIP-8
 
 - [rktjmp/chip-8.nvim](https://github.com/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/stars/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/last-commit/rktjmp/chip-8.nvim) ![](https://img.shields.io/github/commit-activity/y/rktjmp/chip-8.nvim)
@@ -734,6 +744,7 @@
 - [DedsecKnight/dactl.nvim](https://github.com/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/stars/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/last-commit/DedsecKnight/dactl.nvim) ![](https://img.shields.io/github/commit-activity/y/DedsecKnight/dactl.nvim)
 - [Z-xus/dsa_io.nvim](https://github.com/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/stars/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/last-commit/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/commit-activity/y/Z-xus/dsa_io.nvim)
 - [regarager/cheesepizza.nvim](https://github.com/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/stars/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/last-commit/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/commit-activity/y/regarager/cheesepizza.nvim)
+- [mt-shihab26/competitive-companion.nvim](https://github.com/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/stars/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/last-commit/mt-shihab26/competitive-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/mt-shihab26/competitive-companion.nvim)
 
 ### Codeforces
 
@@ -753,6 +764,7 @@
 - [ZicorXXIX/leetcode.nvim](https://github.com/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/stars/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/last-commit/ZicorXXIX/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/ZicorXXIX/leetcode.nvim)
 - [ludbarzs/leetcoder.nvim](https://github.com/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/stars/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/last-commit/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ludbarzs/leetcoder.nvim)
 - [paulburgess1357/nvim-leetcode](https://github.com/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-leetcode) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-leetcode)
+- [MuazTPM-YT/leetvim.nvim](https://github.com/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/stars/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/last-commit/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/commit-activity/y/MuazTPM-YT/leetvim.nvim)
 
 ### AtCoder
 

@@ -55,11 +55,13 @@
 - [insanum/mark-signs.nvim](https://github.com/insanum/mark-signs.nvim) ![](https://img.shields.io/github/stars/insanum/mark-signs.nvim) ![](https://img.shields.io/github/last-commit/insanum/mark-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/insanum/mark-signs.nvim)
 - [bart-vd/visual-marks.nvim](https://github.com/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/stars/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/last-commit/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/bart-vd/visual-marks.nvim)
 - [tgallacher/waypoint.nvim](https://github.com/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/stars/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/last-commit/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/tgallacher/waypoint.nvim)
+- [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/stars/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/last-commit/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dimtion/guttermarks.nvim)
 
 ### mark note
 
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
 - [pxwg/sidenote.nvim](https://github.com/pxwg/sidenote.nvim) ![](https://img.shields.io/github/stars/pxwg/sidenote.nvim) ![](https://img.shields.io/github/last-commit/pxwg/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/sidenote.nvim)
+- [jameswolensky/marker-groups-dev.nvim](https://github.com/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/stars/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/last-commit/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/jameswolensky/marker-groups-dev.nvim)
 
 ### hashtag
 

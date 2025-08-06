@@ -92,6 +92,7 @@
 - [maidinhhuy/spring-boot.nvim](https://github.com/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/stars/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/last-commit/maidinhhuy/spring-boot.nvim) ![](https://img.shields.io/github/commit-activity/y/maidinhhuy/spring-boot.nvim)
 - [brandishcode/springboot-cli.nvim](https://github.com/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/stars/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/springboot-cli.nvim)
 - [jkeresman01/spring-initializr.nvim](https://github.com/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/stars/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/spring-initializr.nvim)
+- [Hancho7/spring-properties-lsp.nvim](https://github.com/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/stars/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hancho7/spring-properties-lsp.nvim)
 
 ### JBoss
 

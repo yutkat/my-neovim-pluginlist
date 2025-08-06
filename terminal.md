@@ -93,6 +93,7 @@
 - [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/stars/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/last-commit/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/waiting-for-dev/ergoterm.nvim)
 - [imranzero/multiterm.nvim](https://github.com/imranzero/multiterm.nvim) ![](https://img.shields.io/github/stars/imranzero/multiterm.nvim) ![](https://img.shields.io/github/last-commit/imranzero/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/imranzero/multiterm.nvim)
 - [goropikari/termlist.nvim](https://github.com/goropikari/termlist.nvim) ![](https://img.shields.io/github/stars/goropikari/termlist.nvim) ![](https://img.shields.io/github/last-commit/goropikari/termlist.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/termlist.nvim)
+- [goropikari/tabterm.nvim](https://github.com/goropikari/tabterm.nvim) ![](https://img.shields.io/github/stars/goropikari/tabterm.nvim) ![](https://img.shields.io/github/last-commit/goropikari/tabterm.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/tabterm.nvim)
 
 ### Open
 
@@ -122,6 +123,7 @@
 - [ShiftyGames/shifty-terminals.nvim](https://github.com/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/stars/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/last-commit/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/ShiftyGames/shifty-terminals.nvim)
 - [ingenarel/smart-term.nvim](https://github.com/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/stars/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/smart-term.nvim)
 - [dotpluto/better-terminal.nvim](https://github.com/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/stars/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/last-commit/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/dotpluto/better-terminal.nvim)
+- [4strodev/termtracker.nvim](https://github.com/4strodev/termtracker.nvim) ![](https://img.shields.io/github/stars/4strodev/termtracker.nvim) ![](https://img.shields.io/github/last-commit/4strodev/termtracker.nvim) ![](https://img.shields.io/github/commit-activity/y/4strodev/termtracker.nvim)
 
 ### Edit
 

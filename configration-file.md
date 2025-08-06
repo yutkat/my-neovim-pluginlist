@@ -111,6 +111,7 @@
 - [u6xk3/csv-analyser.nvim](https://github.com/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/stars/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/last-commit/u6xk3/csv-analyser.nvim) ![](https://img.shields.io/github/commit-activity/y/u6xk3/csv-analyser.nvim)
 - [dave-kennedy/casava.nvim](https://github.com/dave-kennedy/casava.nvim) ![](https://img.shields.io/github/stars/dave-kennedy/casava.nvim) ![](https://img.shields.io/github/last-commit/dave-kennedy/casava.nvim) ![](https://img.shields.io/github/commit-activity/y/dave-kennedy/casava.nvim)
 - [nvimts/csvutil.nvim](https://github.com/nvimts/csvutil.nvim) ![](https://img.shields.io/github/stars/nvimts/csvutil.nvim) ![](https://img.shields.io/github/last-commit/nvimts/csvutil.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/csvutil.nvim)
+- [iammmiru/csv-utils.nvim](https://github.com/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/stars/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/csv-utils.nvim)
 
 ### Jenkins
 

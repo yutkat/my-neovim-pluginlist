@@ -31,6 +31,7 @@
 - [ingenarel/metapack.nvim](https://github.com/ingenarel/metapack.nvim) ![](https://img.shields.io/github/stars/ingenarel/metapack.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/metapack.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/metapack.nvim)
 - [bhargavms/mogra-toolchain.nvim](https://github.com/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/stars/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/last-commit/bhargavms/mogra-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/bhargavms/mogra-toolchain.nvim)
 - [MonsieurTib/package-ui.nvim](https://github.com/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/stars/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/last-commit/MonsieurTib/package-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/MonsieurTib/package-ui.nvim)
+- [CaueAnjos/presbyterian.nvim](https://github.com/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/stars/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/last-commit/CaueAnjos/presbyterian.nvim) ![](https://img.shields.io/github/commit-activity/y/CaueAnjos/presbyterian.nvim)
 
 #### formatter
 
