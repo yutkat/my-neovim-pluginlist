@@ -195,6 +195,7 @@
 - [elanmed/fzf-lua-frecency.nvim](https://github.com/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/stars/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/last-commit/elanmed/fzf-lua-frecency.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/fzf-lua-frecency.nvim)
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ![](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/mru.nvim)
 - [54322/mru.nvim](https://github.com/54322/mru.nvim) ![](https://img.shields.io/github/stars/54322/mru.nvim) ![](https://img.shields.io/github/last-commit/54322/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/54322/mru.nvim)
+- [kj-1809/previous-buffer.nvim](https://github.com/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/stars/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/last-commit/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-1809/previous-buffer.nvim)
 
 ##### remote open
 

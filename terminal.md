@@ -93,6 +93,7 @@
 - [waiting-for-dev/ergoterm.nvim](https://github.com/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/stars/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/last-commit/waiting-for-dev/ergoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/waiting-for-dev/ergoterm.nvim)
 - [imranzero/multiterm.nvim](https://github.com/imranzero/multiterm.nvim) ![](https://img.shields.io/github/stars/imranzero/multiterm.nvim) ![](https://img.shields.io/github/last-commit/imranzero/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/imranzero/multiterm.nvim)
 - [goropikari/termlist.nvim](https://github.com/goropikari/termlist.nvim) ![](https://img.shields.io/github/stars/goropikari/termlist.nvim) ![](https://img.shields.io/github/last-commit/goropikari/termlist.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/termlist.nvim)
+- [goropikari/tabterm.nvim](https://github.com/goropikari/tabterm.nvim) ![](https://img.shields.io/github/stars/goropikari/tabterm.nvim) ![](https://img.shields.io/github/last-commit/goropikari/tabterm.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/tabterm.nvim)
 
 ### Open
 

@@ -86,6 +86,7 @@
 - [Axlefublr/wife.nvim](https://github.com/Axlefublr/wife.nvim) ![](https://img.shields.io/github/stars/Axlefublr/wife.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/wife.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/wife.nvim)
 - [rraval/shbuf.nvim](https://github.com/rraval/shbuf.nvim) ![](https://img.shields.io/github/stars/rraval/shbuf.nvim) ![](https://img.shields.io/github/last-commit/rraval/shbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/rraval/shbuf.nvim)
 - [Path-17/layup.nvim](https://github.com/Path-17/layup.nvim) ![](https://img.shields.io/github/stars/Path-17/layup.nvim) ![](https://img.shields.io/github/last-commit/Path-17/layup.nvim) ![](https://img.shields.io/github/commit-activity/y/Path-17/layup.nvim)
+- [ragaoua/eco.nvim](https://github.com/ragaoua/eco.nvim) ![](https://img.shields.io/github/stars/ragaoua/eco.nvim) ![](https://img.shields.io/github/last-commit/ragaoua/eco.nvim) ![](https://img.shields.io/github/commit-activity/y/ragaoua/eco.nvim)
 
 #### sudo
 
