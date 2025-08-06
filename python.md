@@ -58,6 +58,7 @@
 - [joshzcold/python.nvim](https://github.com/joshzcold/python.nvim) ![](https://img.shields.io/github/stars/joshzcold/python.nvim) ![](https://img.shields.io/github/last-commit/joshzcold/python.nvim) ![](https://img.shields.io/github/commit-activity/y/joshzcold/python.nvim)
 - [mjbn/FoxDot.nvim](https://github.com/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/stars/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/last-commit/mjbn/FoxDot.nvim) ![](https://img.shields.io/github/commit-activity/y/mjbn/FoxDot.nvim)
 - [jeryldev/pyworks.nvim](https://github.com/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/stars/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/last-commit/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/commit-activity/y/jeryldev/pyworks.nvim)
+- [jedi-knights/python.nvim](https://github.com/jedi-knights/python.nvim) ![](https://img.shields.io/github/stars/jedi-knights/python.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/python.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/python.nvim)
 
 ### tweaks
 
