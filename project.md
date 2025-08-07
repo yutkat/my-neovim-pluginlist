@@ -61,6 +61,7 @@
 - [mtkld/phxm.nvim](https://github.com/mtkld/phxm.nvim) ![](https://img.shields.io/github/stars/mtkld/phxm.nvim) ![](https://img.shields.io/github/last-commit/mtkld/phxm.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/phxm.nvim)
 - [Zbolt50/projection.nvim](https://github.com/Zbolt50/projection.nvim) ![](https://img.shields.io/github/stars/Zbolt50/projection.nvim) ![](https://img.shields.io/github/last-commit/Zbolt50/projection.nvim) ![](https://img.shields.io/github/commit-activity/y/Zbolt50/projection.nvim)
 - [arne-vl/project-picker.nvim](https://github.com/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/stars/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/project-picker.nvim)
+- [ebaldebo/project-finder.nvim](https://github.com/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/stars/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/last-commit/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/ebaldebo/project-finder.nvim)
 
 ### Project Root Detector
 
@@ -77,6 +78,7 @@
 - [IsWladi/Gittory](https://github.com/IsWladi/Gittory) ![](https://img.shields.io/github/stars/IsWladi/Gittory) ![](https://img.shields.io/github/last-commit/IsWladi/Gittory) ![](https://img.shields.io/github/commit-activity/y/IsWladi/Gittory)
 - [DzedCPT/nvim-rooter](https://github.com/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/stars/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/last-commit/DzedCPT/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/DzedCPT/nvim-rooter)
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/rooter.nvim)
+- [hugoh/nvim-rooter](https://github.com/hugoh/nvim-rooter) ![](https://img.shields.io/github/stars/hugoh/nvim-rooter) ![](https://img.shields.io/github/last-commit/hugoh/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-rooter)
 
 ### Project Template
 

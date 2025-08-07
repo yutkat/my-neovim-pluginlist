@@ -76,6 +76,7 @@
 - [ricefordinr/yet-another-surround.nvim](https://github.com/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/stars/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/last-commit/ricefordinr/yet-another-surround.nvim) ![](https://img.shields.io/github/commit-activity/y/ricefordinr/yet-another-surround.nvim)
 - [cfung89/embrace.nvim](https://github.com/cfung89/embrace.nvim) ![](https://img.shields.io/github/stars/cfung89/embrace.nvim) ![](https://img.shields.io/github/last-commit/cfung89/embrace.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/embrace.nvim)
 - [carlinigraphy/structured.nvim](https://github.com/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/structured.nvim)
+- [kimpure/warp.nvim](https://github.com/kimpure/warp.nvim) ![](https://img.shields.io/github/stars/kimpure/warp.nvim) ![](https://img.shields.io/github/last-commit/kimpure/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/warp.nvim)
 
 ## Operator
 

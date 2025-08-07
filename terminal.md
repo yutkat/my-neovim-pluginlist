@@ -123,6 +123,7 @@
 - [ShiftyGames/shifty-terminals.nvim](https://github.com/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/stars/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/last-commit/ShiftyGames/shifty-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/ShiftyGames/shifty-terminals.nvim)
 - [ingenarel/smart-term.nvim](https://github.com/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/stars/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/smart-term.nvim)
 - [dotpluto/better-terminal.nvim](https://github.com/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/stars/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/last-commit/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/dotpluto/better-terminal.nvim)
+- [4strodev/termtracker.nvim](https://github.com/4strodev/termtracker.nvim) ![](https://img.shields.io/github/stars/4strodev/termtracker.nvim) ![](https://img.shields.io/github/last-commit/4strodev/termtracker.nvim) ![](https://img.shields.io/github/commit-activity/y/4strodev/termtracker.nvim)
 
 ### Edit
 
