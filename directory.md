@@ -27,6 +27,7 @@
 - [shaobosong/chdir.nvim](https://github.com/shaobosong/chdir.nvim) ![](https://img.shields.io/github/stars/shaobosong/chdir.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/chdir.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/chdir.nvim)
 - [WhoIsSethDaniel/lsp-cd.nvim](https://github.com/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lsp-cd.nvim)
 - [jessekelighine/up.nvim](https://github.com/jessekelighine/up.nvim) ![](https://img.shields.io/github/stars/jessekelighine/up.nvim) ![](https://img.shields.io/github/last-commit/jessekelighine/up.nvim) ![](https://img.shields.io/github/commit-activity/y/jessekelighine/up.nvim)
+- [hugoh/nvim-rooter](https://github.com/hugoh/nvim-rooter) ![](https://img.shields.io/github/stars/hugoh/nvim-rooter) ![](https://img.shields.io/github/last-commit/hugoh/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-rooter)
 
 ### zoxide
 

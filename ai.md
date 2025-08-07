@@ -168,6 +168,7 @@
 - [rhmoller/mogwai.nvim](https://github.com/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/stars/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/last-commit/rhmoller/mogwai.nvim) ![](https://img.shields.io/github/commit-activity/y/rhmoller/mogwai.nvim)
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
 - [edshamis/context.nvim](https://github.com/edshamis/context.nvim) ![](https://img.shields.io/github/stars/edshamis/context.nvim) ![](https://img.shields.io/github/last-commit/edshamis/context.nvim) ![](https://img.shields.io/github/commit-activity/y/edshamis/context.nvim)
+- [Clearzero22/gemini-talk.nvim](https://github.com/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/stars/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/last-commit/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/commit-activity/y/Clearzero22/gemini-talk.nvim)
 
 #### Gemini CLI
 
