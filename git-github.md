@@ -575,6 +575,7 @@
 - [SebastienLeonce/nvim-codeowners](https://github.com/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/stars/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/last-commit/SebastienLeonce/nvim-codeowners) ![](https://img.shields.io/github/commit-activity/y/SebastienLeonce/nvim-codeowners)
 - [rsreimer/codeowners.nvim](https://github.com/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/stars/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/codeowners.nvim)
 - [JonasGavenavicius/codeowners.nvim](https://github.com/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/stars/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/last-commit/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/JonasGavenavicius/codeowners.nvim)
+- [comatory/gh-co.nvim](https://github.com/comatory/gh-co.nvim) ![](https://img.shields.io/github/stars/comatory/gh-co.nvim) ![](https://img.shields.io/github/last-commit/comatory/gh-co.nvim) ![](https://img.shields.io/github/commit-activity/y/comatory/gh-co.nvim)
 
 ## GitLab
 

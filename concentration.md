@@ -94,6 +94,7 @@
 - [tvendelin/minimalist.nvim](https://github.com/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/stars/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/last-commit/tvendelin/minimalist.nvim) ![](https://img.shields.io/github/commit-activity/y/tvendelin/minimalist.nvim)
 - [nsantiago2719/zenzen.nvim](https://github.com/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/stars/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/last-commit/nsantiago2719/zenzen.nvim) ![](https://img.shields.io/github/commit-activity/y/nsantiago2719/zenzen.nvim)
 - [I0I-I0I/zenmode.nvim](https://github.com/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/stars/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/last-commit/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/commit-activity/y/I0I-I0I/zenmode.nvim)
+- [paulodiovani/darkroom.nvim](https://github.com/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/stars/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/last-commit/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/commit-activity/y/paulodiovani/darkroom.nvim)
 
 ### Focus Mode
 

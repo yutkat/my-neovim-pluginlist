@@ -49,6 +49,7 @@
 ### HTTP Request
 
 - [wet-sandwich/hyper.nvim](https://github.com/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/hyper.nvim)
+- [JamiroFerrara/neopostman.nvim](https://github.com/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neopostman.nvim)
 
 ### mkdir
 
