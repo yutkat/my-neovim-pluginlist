@@ -28,6 +28,7 @@
 - [wurli/contextindent.nvim](https://github.com/wurli/contextindent.nvim) ![](https://img.shields.io/github/stars/wurli/contextindent.nvim) ![](https://img.shields.io/github/last-commit/wurli/contextindent.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/contextindent.nvim)
 - [sajibprime3/indent-manager.nvim](https://github.com/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/stars/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/last-commit/sajibprime3/indent-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/sajibprime3/indent-manager.nvim)
 - [mammothb/smart-indent.nvim](https://github.com/mammothb/smart-indent.nvim) ![](https://img.shields.io/github/stars/mammothb/smart-indent.nvim) ![](https://img.shields.io/github/last-commit/mammothb/smart-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/mammothb/smart-indent.nvim)
+- [Ronxvier/dent.nvim](https://github.com/Ronxvier/dent.nvim) ![](https://img.shields.io/github/stars/Ronxvier/dent.nvim) ![](https://img.shields.io/github/last-commit/Ronxvier/dent.nvim) ![](https://img.shields.io/github/commit-activity/y/Ronxvier/dent.nvim)
 
 ### Indent Shift
 

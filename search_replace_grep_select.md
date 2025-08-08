@@ -214,6 +214,7 @@
 - [vanaigr/motion.nvim](https://github.com/vanaigr/motion.nvim) ![](https://img.shields.io/github/stars/vanaigr/motion.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/motion.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/motion.nvim)
 - [Goose97/rearrange.nvim](https://github.com/Goose97/rearrange.nvim) ![](https://img.shields.io/github/stars/Goose97/rearrange.nvim) ![](https://img.shields.io/github/last-commit/Goose97/rearrange.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/rearrange.nvim)
 - [Yinameah/nvim-gvhist](https://github.com/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/stars/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/last-commit/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/commit-activity/y/Yinameah/nvim-gvhist)
+- [ivomac/toothpick.nvim](https://github.com/ivomac/toothpick.nvim) ![](https://img.shields.io/github/stars/ivomac/toothpick.nvim) ![](https://img.shields.io/github/last-commit/ivomac/toothpick.nvim) ![](https://img.shields.io/github/commit-activity/y/ivomac/toothpick.nvim)
 
 ### Bracket and quote
 

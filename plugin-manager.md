@@ -67,6 +67,7 @@
 - [NewDawn0/loader.nvim](https://github.com/NewDawn0/loader.nvim) ![](https://img.shields.io/github/stars/NewDawn0/loader.nvim) ![](https://img.shields.io/github/last-commit/NewDawn0/loader.nvim) ![](https://img.shields.io/github/commit-activity/y/NewDawn0/loader.nvim)
 - [TheBlob42/alpacka.nvim](https://github.com/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/stars/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/alpacka.nvim)
 - [comfysage/lynn.nvim](https://github.com/comfysage/lynn.nvim) ![](https://img.shields.io/github/stars/comfysage/lynn.nvim) ![](https://img.shields.io/github/last-commit/comfysage/lynn.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/lynn.nvim)
+- [GlennMm/pack-manager.nvim](https://github.com/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/stars/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/pack-manager.nvim)
 
 ### Update checker
 

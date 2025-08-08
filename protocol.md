@@ -36,6 +36,7 @@
 - [nilszeilon/post.nvim](https://github.com/nilszeilon/post.nvim) ![](https://img.shields.io/github/stars/nilszeilon/post.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/post.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/post.nvim)
 - [ecthiender/daak.nvim](https://github.com/ecthiender/daak.nvim) ![](https://img.shields.io/github/stars/ecthiender/daak.nvim) ![](https://img.shields.io/github/last-commit/ecthiender/daak.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthiender/daak.nvim)
 - [Cybernetics354/mayohttp.nvim](https://github.com/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/stars/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/last-commit/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/commit-activity/y/Cybernetics354/mayohttp.nvim)
+- [JamiroFerrara/neopostman.nvim](https://github.com/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neopostman.nvim)
 
 #### Status
 
