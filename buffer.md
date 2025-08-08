@@ -240,6 +240,7 @@
 
 - [manuuurino/autoread.nvim](https://github.com/manuuurino/autoread.nvim) ![](https://img.shields.io/github/stars/manuuurino/autoread.nvim) ![](https://img.shields.io/github/last-commit/manuuurino/autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/manuuurino/autoread.nvim)
 - [diogo464/hotreload.nvim](https://github.com/diogo464/hotreload.nvim) ![](https://img.shields.io/github/stars/diogo464/hotreload.nvim) ![](https://img.shields.io/github/last-commit/diogo464/hotreload.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/hotreload.nvim)
+- [bmon/nvim-background-autoread](https://github.com/bmon/nvim-background-autoread) ![](https://img.shields.io/github/stars/bmon/nvim-background-autoread) ![](https://img.shields.io/github/last-commit/bmon/nvim-background-autoread) ![](https://img.shields.io/github/commit-activity/y/bmon/nvim-background-autoread)
 
 #### access control
 
