@@ -75,6 +75,7 @@
 ### Reaper
 
 - [gwatcha/reaper-keys](https://github.com/gwatcha/reaper-keys) ![](https://img.shields.io/github/stars/gwatcha/reaper-keys) ![](https://img.shields.io/github/last-commit/gwatcha/reaper-keys) ![](https://img.shields.io/github/commit-activity/y/gwatcha/reaper-keys)
+- [2TheGalaxy/reascript-lua-ls.nvim](https://github.com/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/stars/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/last-commit/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/2TheGalaxy/reascript-lua-ls.nvim)
 
 #### MIDI
 

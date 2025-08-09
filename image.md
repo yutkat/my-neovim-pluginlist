@@ -13,6 +13,7 @@
   - [SVG](#svg)
   - [Ascii](#ascii)
   - [Graph](#graph)
+    - [Box drawing](#box-drawing)
     - [graphedit](#graphedit)
   - [Sixel](#sixel)
   - [Illustrate](#illustrate)
@@ -123,6 +124,10 @@
 - [nhattVim/alpha-ascii.nvim](https://github.com/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/stars/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/alpha-ascii.nvim)
 
 ### Graph
+
+#### Box drawing
+
+- [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
 
 #### graphedit
 

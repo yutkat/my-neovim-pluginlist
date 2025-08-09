@@ -60,6 +60,8 @@
 - [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
 - [zigius/telescope-links-picker.nvim](https://github.com/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/stars/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/last-commit/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/zigius/telescope-links-picker.nvim)
 - [adia-dev/cpy_buffers.nvim](https://github.com/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/stars/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/cpy_buffers.nvim)
+- [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
+- [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
 
 #### Sorter
 
