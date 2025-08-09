@@ -275,6 +275,7 @@
 - [jecaro/fugitive-difftool.nvim](https://github.com/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/stars/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/last-commit/jecaro/fugitive-difftool.nvim) ![](https://img.shields.io/github/commit-activity/y/jecaro/fugitive-difftool.nvim)
 - [tronikelis/telescope-git-diff-stat.nvim](https://github.com/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/stars/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/telescope-git-diff-stat.nvim)
 - [prostakm/git-diff-review.nvim](https://github.com/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/stars/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/last-commit/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/commit-activity/y/prostakm/git-diff-review.nvim)
+- [hushiooo/pareil.nvim](https://github.com/hushiooo/pareil.nvim) ![](https://img.shields.io/github/stars/hushiooo/pareil.nvim) ![](https://img.shields.io/github/last-commit/hushiooo/pareil.nvim) ![](https://img.shields.io/github/commit-activity/y/hushiooo/pareil.nvim)
 
 #### image diff
 
@@ -303,6 +304,7 @@
 - [Jarvismkennedy/git-auto-sync.nvim](https://github.com/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/stars/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/last-commit/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/Jarvismkennedy/git-auto-sync.nvim)
 - [rgibbons-dev/gitsync.nvim](https://github.com/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/stars/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/last-commit/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/commit-activity/y/rgibbons-dev/gitsync.nvim)
 - [luispflamminger/git-sync.nvim](https://github.com/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/stars/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/last-commit/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/luispflamminger/git-sync.nvim)
+- [hugoh/nvim-async-git](https://github.com/hugoh/nvim-async-git) ![](https://img.shields.io/github/stars/hugoh/nvim-async-git) ![](https://img.shields.io/github/last-commit/hugoh/nvim-async-git) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-async-git)
 
 ### git open
 
@@ -357,6 +359,7 @@
 - [katkodeorg/telescope_worktree.nvim](https://github.com/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/stars/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/last-commit/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/katkodeorg/telescope_worktree.nvim)
 - [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
 - [rbmarliere/gitree.nvim](https://github.com/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/stars/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/gitree.nvim)
+- [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
 
 ### submodule
 
