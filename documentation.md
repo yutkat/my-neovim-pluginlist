@@ -485,6 +485,7 @@
 - [pxwg/latex-conceal.nvim](https://github.com/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/stars/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/last-commit/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/latex-conceal.nvim)
 - [atomashevic/unicode-math.nvim](https://github.com/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/stars/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/last-commit/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/commit-activity/y/atomashevic/unicode-math.nvim)
 - [tim-pearson/latex-eval.nvim](https://github.com/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/stars/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/last-commit/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/commit-activity/y/tim-pearson/latex-eval.nvim)
+- [Jaehaks/texflow.nvim](https://github.com/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/stars/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/texflow.nvim)
 
 #### Preview
 

@@ -108,6 +108,7 @@
 - [walker84837/fastgit.nvim](https://github.com/walker84837/fastgit.nvim) ![](https://img.shields.io/github/stars/walker84837/fastgit.nvim) ![](https://img.shields.io/github/last-commit/walker84837/fastgit.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/fastgit.nvim)
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) ![](https://img.shields.io/github/stars/wsdjeg/git.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/git.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/git.nvim)
 - [metalelf0/git-utils.nvim](https://github.com/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/stars/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/git-utils.nvim)
+- [hugoh/nvim-async-git](https://github.com/hugoh/nvim-async-git) ![](https://img.shields.io/github/stars/hugoh/nvim-async-git) ![](https://img.shields.io/github/last-commit/hugoh/nvim-async-git) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-async-git)
 
 ### gitui
 
@@ -357,6 +358,7 @@
 - [katkodeorg/telescope_worktree.nvim](https://github.com/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/stars/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/last-commit/katkodeorg/telescope_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/katkodeorg/telescope_worktree.nvim)
 - [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
 - [rbmarliere/gitree.nvim](https://github.com/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/stars/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/gitree.nvim)
+- [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
 
 ### submodule
 

@@ -27,6 +27,7 @@
 ### LSP
 
 - [AbaoFromCUG/luals.nvim](https://github.com/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/luals.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/luals.nvim)
+- [2TheGalaxy/reascript-lua-ls.nvim](https://github.com/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/stars/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/last-commit/2TheGalaxy/reascript-lua-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/2TheGalaxy/reascript-lua-ls.nvim)
 
 ### Treesitter
 

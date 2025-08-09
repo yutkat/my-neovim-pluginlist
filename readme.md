@@ -254,6 +254,7 @@
 - [gregorias/toggle.nvim](https://github.com/gregorias/toggle.nvim) ![](https://img.shields.io/github/stars/gregorias/toggle.nvim) ![](https://img.shields.io/github/last-commit/gregorias/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/gregorias/toggle.nvim)
 - [Kibadda/starter.nvim](https://github.com/Kibadda/starter.nvim) ![](https://img.shields.io/github/stars/Kibadda/starter.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/starter.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/starter.nvim)
 - [walkingshamrock/optiongroup.nvim](https://github.com/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/optiongroup.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/optiongroup.nvim)
+- [totochi-2022/toggle-manager.nvim](https://github.com/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/stars/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/toggle-manager.nvim)
 
 ## Editing support
 
