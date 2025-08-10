@@ -33,6 +33,7 @@
 - [thomppa030/unreal-tools.nvim](https://github.com/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/stars/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/last-commit/thomppa030/unreal-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/thomppa030/unreal-tools.nvim)
 - [PolygonT/ue.nvim](https://github.com/PolygonT/ue.nvim) ![](https://img.shields.io/github/stars/PolygonT/ue.nvim) ![](https://img.shields.io/github/last-commit/PolygonT/ue.nvim) ![](https://img.shields.io/github/commit-activity/y/PolygonT/ue.nvim)
 - [jacksonhvisuals/unrealium.nvim](https://github.com/jacksonhvisuals/unrealium.nvim) ![](https://img.shields.io/github/stars/jacksonhvisuals/unrealium.nvim) ![](https://img.shields.io/github/last-commit/jacksonhvisuals/unrealium.nvim) ![](https://img.shields.io/github/commit-activity/y/jacksonhvisuals/unrealium.nvim)
+- [taku25/UBT.nvim](https://github.com/taku25/UBT.nvim) ![](https://img.shields.io/github/stars/taku25/UBT.nvim) ![](https://img.shields.io/github/last-commit/taku25/UBT.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UBT.nvim)
 
 ### Godot
 

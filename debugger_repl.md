@@ -97,6 +97,7 @@
 - [walkingshamrock/runpad.nvim](https://github.com/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/runpad.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/runpad.nvim)
 - [fasterius/slime-peek.nvim](https://github.com/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/stars/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/last-commit/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/slime-peek.nvim)
 - [gaiwan-dev/nvim-repl](https://github.com/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/stars/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/last-commit/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/commit-activity/y/gaiwan-dev/nvim-repl)
+- [Nkr1shna/truffle.nvim](https://github.com/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/truffle.nvim)
 
 ### Refactoring,Debugging
 
