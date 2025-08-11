@@ -27,6 +27,7 @@
 - [SensorEvolve/macrovault.nvim](https://github.com/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/stars/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/last-commit/SensorEvolve/macrovault.nvim) ![](https://img.shields.io/github/commit-activity/y/SensorEvolve/macrovault.nvim)
 - [NinjacksonXV/domain.nvim](https://github.com/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/stars/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/last-commit/NinjacksonXV/domain.nvim) ![](https://img.shields.io/github/commit-activity/y/NinjacksonXV/domain.nvim)
 - [wbelser/schmacros.nvim](https://github.com/wbelser/schmacros.nvim) ![](https://img.shields.io/github/stars/wbelser/schmacros.nvim) ![](https://img.shields.io/github/last-commit/wbelser/schmacros.nvim) ![](https://img.shields.io/github/commit-activity/y/wbelser/schmacros.nvim)
+- [sahilsehwag/macrobank.nvim](https://github.com/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/stars/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/last-commit/sahilsehwag/macrobank.nvim) ![](https://img.shields.io/github/commit-activity/y/sahilsehwag/macrobank.nvim)
 
 ### Automatic macro
 
