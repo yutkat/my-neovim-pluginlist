@@ -49,6 +49,7 @@
 ## for CLI
 
 - [onexbash/prereq.nvim](https://github.com/onexbash/prereq.nvim) ![](https://img.shields.io/github/stars/onexbash/prereq.nvim) ![](https://img.shields.io/github/last-commit/onexbash/prereq.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/prereq.nvim)
+- [piersolenski/brewfile.nvim](https://github.com/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/stars/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/brewfile.nvim)
 
 ## for Rust
 

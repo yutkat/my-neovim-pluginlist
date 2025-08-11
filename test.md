@@ -48,6 +48,7 @@
 - [nvim-neotest/neotest-python](https://github.com/nvim-neotest/neotest-python) ![](https://img.shields.io/github/stars/nvim-neotest/neotest-python) ![](https://img.shields.io/github/last-commit/nvim-neotest/neotest-python) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/neotest-python)
 - [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest) ![](https://img.shields.io/github/stars/marilari88/neotest-vitest) ![](https://img.shields.io/github/last-commit/marilari88/neotest-vitest) ![](https://img.shields.io/github/commit-activity/y/marilari88/neotest-vitest)
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
+- [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/stars/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/last-commit/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/neotest-busted)
 
 ## Test Coverage
 

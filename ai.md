@@ -503,6 +503,7 @@
 - [benpops89/momonga.nvim](https://github.com/benpops89/momonga.nvim) ![](https://img.shields.io/github/stars/benpops89/momonga.nvim) ![](https://img.shields.io/github/last-commit/benpops89/momonga.nvim) ![](https://img.shields.io/github/commit-activity/y/benpops89/momonga.nvim)
 - [TravisLinkey/nvim-tag-suggestions](https://github.com/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/stars/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/last-commit/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/nvim-tag-suggestions)
 - [9f2c/nvim-stream-completion](https://github.com/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/stars/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/last-commit/9f2c/nvim-stream-completion) ![](https://img.shields.io/github/commit-activity/y/9f2c/nvim-stream-completion)
+- [westbrookdaniel/danai.nvim](https://github.com/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/stars/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/last-commit/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/commit-activity/y/westbrookdaniel/danai.nvim)
 
 ### Copilot
 

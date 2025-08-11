@@ -50,6 +50,10 @@
 - [sindrets/view-tween.nvim](https://github.com/sindrets/view-tween.nvim) ![](https://img.shields.io/github/stars/sindrets/view-tween.nvim) ![](https://img.shields.io/github/last-commit/sindrets/view-tween.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/view-tween.nvim)
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) ![](https://img.shields.io/github/stars/echasnovski/mini.animate) ![](https://img.shields.io/github/last-commit/echasnovski/mini.animate) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.animate)
 
+### Word Motion
+
+- [sevaaaDev/easy-vsel.nvim](https://github.com/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/stars/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/last-commit/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/commit-activity/y/sevaaaDev/easy-vsel.nvim)
+
 ### Label Jump (Easymotion style)
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) ![](https://img.shields.io/github/stars/ggandor/leap.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap.nvim)
