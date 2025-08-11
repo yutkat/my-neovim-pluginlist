@@ -94,6 +94,7 @@
 - [imranzero/multiterm.nvim](https://github.com/imranzero/multiterm.nvim) ![](https://img.shields.io/github/stars/imranzero/multiterm.nvim) ![](https://img.shields.io/github/last-commit/imranzero/multiterm.nvim) ![](https://img.shields.io/github/commit-activity/y/imranzero/multiterm.nvim)
 - [goropikari/termlist.nvim](https://github.com/goropikari/termlist.nvim) ![](https://img.shields.io/github/stars/goropikari/termlist.nvim) ![](https://img.shields.io/github/last-commit/goropikari/termlist.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/termlist.nvim)
 - [goropikari/tabterm.nvim](https://github.com/goropikari/tabterm.nvim) ![](https://img.shields.io/github/stars/goropikari/tabterm.nvim) ![](https://img.shields.io/github/last-commit/goropikari/tabterm.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/tabterm.nvim)
+- [CoolCoderSuper/terminal.nvim](https://github.com/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/terminal.nvim)
 
 ### Open
 

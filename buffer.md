@@ -196,6 +196,7 @@
 - [wsdjeg/mru.nvim](https://github.com/wsdjeg/mru.nvim) ![](https://img.shields.io/github/stars/wsdjeg/mru.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/mru.nvim)
 - [54322/mru.nvim](https://github.com/54322/mru.nvim) ![](https://img.shields.io/github/stars/54322/mru.nvim) ![](https://img.shields.io/github/last-commit/54322/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/54322/mru.nvim)
 - [kj-1809/previous-buffer.nvim](https://github.com/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/stars/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/last-commit/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-1809/previous-buffer.nvim)
+- [TorrezMN/nvim_recent_file_picker.nvim](https://github.com/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/stars/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/last-commit/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/TorrezMN/nvim_recent_file_picker.nvim)
 
 ##### remote open
 

@@ -50,6 +50,7 @@
 - [h-tiwari-kusho/api-test-generator](https://github.com/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/stars/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/last-commit/h-tiwari-kusho/api-test-generator) ![](https://img.shields.io/github/commit-activity/y/h-tiwari-kusho/api-test-generator)
 - [malev/hola.nvim](https://github.com/malev/hola.nvim) ![](https://img.shields.io/github/stars/malev/hola.nvim) ![](https://img.shields.io/github/last-commit/malev/hola.nvim) ![](https://img.shields.io/github/commit-activity/y/malev/hola.nvim)
 - [marco-souza/rest.nvim](https://github.com/marco-souza/rest.nvim) ![](https://img.shields.io/github/stars/marco-souza/rest.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/rest.nvim)
+- [grqphical/rest.nvim](https://github.com/grqphical/rest.nvim) ![](https://img.shields.io/github/stars/grqphical/rest.nvim) ![](https://img.shields.io/github/last-commit/grqphical/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/grqphical/rest.nvim)
 
 #### .http / .rest file
 
