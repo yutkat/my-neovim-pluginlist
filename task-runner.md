@@ -215,6 +215,7 @@
 
 - [msaher/makegrep-job.nvim](https://github.com/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/stars/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/last-commit/msaher/makegrep-job.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/makegrep-job.nvim)
 - [Mewsen/compile.nvim](https://github.com/Mewsen/compile.nvim) ![](https://img.shields.io/github/stars/Mewsen/compile.nvim) ![](https://img.shields.io/github/last-commit/Mewsen/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Mewsen/compile.nvim)
+- [CoolCoderSuper/make-runner.nvim](https://github.com/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/make-runner.nvim)
 
 ### use tmux
 
