@@ -188,6 +188,7 @@
 - [jordangarcia/ts-actions.nvim](https://github.com/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/stars/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/last-commit/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/jordangarcia/ts-actions.nvim)
 - [takagiy/lsp-actiononsave.nvim](https://github.com/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/stars/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/last-commit/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/commit-activity/y/takagiy/lsp-actiononsave.nvim)
 - [yarospace/dev-tools.nvim](https://github.com/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/stars/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/last-commit/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/yarospace/dev-tools.nvim)
+- [bernatGene/sherlock.nvim](https://github.com/bernatGene/sherlock.nvim) ![](https://img.shields.io/github/stars/bernatGene/sherlock.nvim) ![](https://img.shields.io/github/last-commit/bernatGene/sherlock.nvim) ![](https://img.shields.io/github/commit-activity/y/bernatGene/sherlock.nvim)
 
 #### Hint
 

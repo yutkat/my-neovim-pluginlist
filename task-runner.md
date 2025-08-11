@@ -193,6 +193,7 @@
 - [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 - [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
+- [CoolCoderSuper/make-runner.nvim](https://github.com/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/make-runner.nvim)
 
 ### Auto detect style
 

@@ -193,6 +193,7 @@
 - [d1agnoze/noti.nvim](https://github.com/d1agnoze/noti.nvim) ![](https://img.shields.io/github/stars/d1agnoze/noti.nvim) ![](https://img.shields.io/github/last-commit/d1agnoze/noti.nvim) ![](https://img.shields.io/github/commit-activity/y/d1agnoze/noti.nvim)
 - [wsdjeg/notify.nvim](https://github.com/wsdjeg/notify.nvim) ![](https://img.shields.io/github/stars/wsdjeg/notify.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/notify.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/notify.nvim)
 - [cskeeters/libnotify.nvim](https://github.com/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/stars/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/libnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/libnotify.nvim)
+- [y3owk1n/notifier.nvim](https://github.com/y3owk1n/notifier.nvim) ![](https://img.shields.io/github/stars/y3owk1n/notifier.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/notifier.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/notifier.nvim)
 
 ### vim.ui.select/vim.ui.input
 

@@ -418,6 +418,7 @@
 - [l3d00m/jj-signs.nvim](https://github.com/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/stars/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/l3d00m/jj-signs.nvim)
 - [tilupe/submission.nvim](https://github.com/tilupe/submission.nvim) ![](https://img.shields.io/github/stars/tilupe/submission.nvim) ![](https://img.shields.io/github/last-commit/tilupe/submission.nvim) ![](https://img.shields.io/github/commit-activity/y/tilupe/submission.nvim)
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
+- [acarapetis/nvim-treesitter-jjconfig](https://github.com/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/stars/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/last-commit/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/commit-activity/y/acarapetis/nvim-treesitter-jjconfig)
 
 ### diff
 
@@ -590,6 +591,7 @@
 - [lrfurtado/telescope-gitlab.nvim](https://github.com/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/stars/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/last-commit/lrfurtado/telescope-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/lrfurtado/telescope-gitlab.nvim)
 - [Speiser/gitlab-url.nvim](https://github.com/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/stars/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/gitlab-url.nvim)
 - [themuuln/the-glab.nvim](https://github.com/themuuln/the-glab.nvim) ![](https://img.shields.io/github/stars/themuuln/the-glab.nvim) ![](https://img.shields.io/github/last-commit/themuuln/the-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/themuuln/the-glab.nvim)
+- [Kraust/codecompanion-gitlab.nvim](https://github.com/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/stars/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/last-commit/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/Kraust/codecompanion-gitlab.nvim)
 
 ### GitLab CI
 
