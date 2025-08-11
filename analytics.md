@@ -85,6 +85,7 @@
 - [Hashino/speed.nvim](https://github.com/Hashino/speed.nvim) ![](https://img.shields.io/github/stars/Hashino/speed.nvim) ![](https://img.shields.io/github/last-commit/Hashino/speed.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/speed.nvim)
 - [JohnnyJumper/neotypist.nvim](https://github.com/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/stars/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/last-commit/JohnnyJumper/neotypist.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnnyJumper/neotypist.nvim)
 - [leonardcser/wpm-tracker.nvim](https://github.com/leonardcser/wpm-tracker.nvim) ![](https://img.shields.io/github/stars/leonardcser/wpm-tracker.nvim) ![](https://img.shields.io/github/last-commit/leonardcser/wpm-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardcser/wpm-tracker.nvim)
+- [DuckDood/wpm.nvim](https://github.com/DuckDood/wpm.nvim) ![](https://img.shields.io/github/stars/DuckDood/wpm.nvim) ![](https://img.shields.io/github/last-commit/DuckDood/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckDood/wpm.nvim)
 
 ### Operation Log
 

@@ -41,6 +41,7 @@
 
 - [siadat/shell.nvim](https://github.com/siadat/shell.nvim) ![](https://img.shields.io/github/stars/siadat/shell.nvim) ![](https://img.shields.io/github/last-commit/siadat/shell.nvim) ![](https://img.shields.io/github/commit-activity/y/siadat/shell.nvim)
 - [uff20xd/postcmd.nvim](https://github.com/uff20xd/postcmd.nvim) ![](https://img.shields.io/github/stars/uff20xd/postcmd.nvim) ![](https://img.shields.io/github/last-commit/uff20xd/postcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/uff20xd/postcmd.nvim)
+- [y3owk1n/cmd.nvim](https://github.com/y3owk1n/cmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/cmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/cmd.nvim)
 
 #### execute from buffer
 

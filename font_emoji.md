@@ -8,6 +8,7 @@
 - [Greek](#greek)
 - [Savian alphabet](#savian-alphabet)
 - [Superscript Subscript](#superscript-subscript)
+- [Style](#style)
 - [Icon](#icon)
   - [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -44,10 +45,13 @@
 
 ## Savian alphabet
 
-
 ## Superscript Subscript
 
 - [HenrisHub/susu.nvim](https://github.com/HenrisHub/susu.nvim) ![](https://img.shields.io/github/stars/HenrisHub/susu.nvim) ![](https://img.shields.io/github/last-commit/HenrisHub/susu.nvim) ![](https://img.shields.io/github/commit-activity/y/HenrisHub/susu.nvim)
+
+## Style
+
+- [CodesWithRobi/stylize.nvim](https://github.com/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/stylize.nvim)
 
 ## Icon
 

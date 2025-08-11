@@ -50,10 +50,6 @@
 - [sindrets/view-tween.nvim](https://github.com/sindrets/view-tween.nvim) ![](https://img.shields.io/github/stars/sindrets/view-tween.nvim) ![](https://img.shields.io/github/last-commit/sindrets/view-tween.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/view-tween.nvim)
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) ![](https://img.shields.io/github/stars/echasnovski/mini.animate) ![](https://img.shields.io/github/last-commit/echasnovski/mini.animate) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.animate)
 
-### Word Motion
-
-- [sevaaaDev/easy-vsel.nvim](https://github.com/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/stars/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/last-commit/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/commit-activity/y/sevaaaDev/easy-vsel.nvim)
-
 ### Label Jump (Easymotion style)
 
 - [ggandor/leap.nvim](https://github.com/ggandor/leap.nvim) ![](https://img.shields.io/github/stars/ggandor/leap.nvim) ![](https://img.shields.io/github/last-commit/ggandor/leap.nvim) ![](https://img.shields.io/github/commit-activity/y/ggandor/leap.nvim)
@@ -109,6 +105,7 @@
 - [gustavosbarreto/momentum.nvim](https://github.com/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/stars/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/last-commit/gustavosbarreto/momentum.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavosbarreto/momentum.nvim)
 - [samiulsami/fFtT-highlights.nvim](https://github.com/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/stars/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/fFtT-highlights.nvim)
 - [s-show/ft-mapper.nvim](https://github.com/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/stars/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/last-commit/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/s-show/ft-mapper.nvim)
+- [totochi-2022/clever-f.nvim](https://github.com/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/stars/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/clever-f.nvim)
 
 #### Show jump word
 
@@ -137,6 +134,7 @@
 - [Craftidore/camelCaseMotion.nvim](https://github.com/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/stars/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/last-commit/Craftidore/camelCaseMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/Craftidore/camelCaseMotion.nvim)
 - [backdround/neowords.nvim](https://github.com/backdround/neowords.nvim) ![](https://img.shields.io/github/stars/backdround/neowords.nvim) ![](https://img.shields.io/github/last-commit/backdround/neowords.nvim) ![](https://img.shields.io/github/commit-activity/y/backdround/neowords.nvim)
 - [nvimdev/cwordmini.nvim](https://github.com/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/stars/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/cwordmini.nvim)
+- [sevaaaDev/easy-vsel.nvim](https://github.com/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/stars/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/last-commit/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/commit-activity/y/sevaaaDev/easy-vsel.nvim)
 
 ### Line Move
 

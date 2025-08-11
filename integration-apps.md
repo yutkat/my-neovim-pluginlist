@@ -413,6 +413,7 @@
 #### migemo
 
 - [sei40kr/migemo-search.nvim](https://github.com/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/stars/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/migemo-search.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/migemo-search.nvim)
+- [totochi-2022/incsearch-migemo.nvim](https://github.com/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/stars/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/incsearch-migemo.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/incsearch-migemo.nvim)
 
 ### Battery
 

@@ -96,6 +96,7 @@
 ### Plugin Config
 
 - [marco-souza/ncm.nvim](https://github.com/marco-souza/ncm.nvim) ![](https://img.shields.io/github/stars/marco-souza/ncm.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/ncm.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/ncm.nvim)
+- [david/setup.nvim](https://github.com/david/setup.nvim) ![](https://img.shields.io/github/stars/david/setup.nvim) ![](https://img.shields.io/github/last-commit/david/setup.nvim) ![](https://img.shields.io/github/commit-activity/y/david/setup.nvim)
 
 ### Switch
 
