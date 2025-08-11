@@ -4,6 +4,7 @@
 
 - [PHP](#php)
   - [test](#test)
+  - [REPL](#repl)
   - [Element sort](#element-sort)
   - [Live server](#live-server)
   - [PHPStan](#phpstan)
@@ -31,6 +32,10 @@
 ### test
 
 - [zkucekovic/tdd.nvim](https://github.com/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/stars/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/last-commit/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/commit-activity/y/zkucekovic/tdd.nvim)
+
+### REPL
+
+- [tylerdak/php-tinker.nvim](https://github.com/tylerdak/php-tinker.nvim) ![](https://img.shields.io/github/stars/tylerdak/php-tinker.nvim) ![](https://img.shields.io/github/last-commit/tylerdak/php-tinker.nvim) ![](https://img.shields.io/github/commit-activity/y/tylerdak/php-tinker.nvim)
 
 ### Element sort
 
