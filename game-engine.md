@@ -43,6 +43,7 @@
 - [ShadesAndGrays/Godoterm.nvim](https://github.com/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/stars/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/last-commit/ShadesAndGrays/Godoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/ShadesAndGrays/Godoterm.nvim)
 - [jamesonBradfield/gdunit.nvim](https://github.com/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/stars/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/last-commit/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesonBradfield/gdunit.nvim)
 - [Cretezy/godot-server.nvim](https://github.com/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/stars/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/last-commit/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Cretezy/godot-server.nvim)
+- [Mathijs-Bakker/godot-lsp.nvim](https://github.com/Mathijs-Bakker/godot-lsp.nvim) ![](https://img.shields.io/github/stars/Mathijs-Bakker/godot-lsp.nvim) ![](https://img.shields.io/github/last-commit/Mathijs-Bakker/godot-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathijs-Bakker/godot-lsp.nvim)
 
 ### Roblox studio
 

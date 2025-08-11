@@ -39,6 +39,7 @@
 - [walkingshamrock/memory-game.nvim](https://github.com/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/stars/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/last-commit/walkingshamrock/memory-game.nvim) ![](https://img.shields.io/github/commit-activity/y/walkingshamrock/memory-game.nvim)
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
 - [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
+- [StealthSoldierM/conways-gol.nvim](https://github.com/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/stars/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/last-commit/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/commit-activity/y/StealthSoldierM/conways-gol.nvim)
 
 ### Snake
 

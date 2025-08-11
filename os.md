@@ -145,6 +145,7 @@
 #### say
 
 - [runih/say.nvim](https://github.com/runih/say.nvim) ![](https://img.shields.io/github/stars/runih/say.nvim) ![](https://img.shields.io/github/last-commit/runih/say.nvim) ![](https://img.shields.io/github/commit-activity/y/runih/say.nvim)
+- [NicholasMata/sayit.nvim](https://github.com/NicholasMata/sayit.nvim) ![](https://img.shields.io/github/stars/NicholasMata/sayit.nvim) ![](https://img.shields.io/github/last-commit/NicholasMata/sayit.nvim) ![](https://img.shields.io/github/commit-activity/y/NicholasMata/sayit.nvim)
 
 #### Window Manager
 
