@@ -84,6 +84,7 @@
 - [enoatu/buffer-scope.nvim](https://github.com/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/stars/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/last-commit/enoatu/buffer-scope.nvim) ![](https://img.shields.io/github/commit-activity/y/enoatu/buffer-scope.nvim)
 - [emcassi/streamline.nvim](https://github.com/emcassi/streamline.nvim) ![](https://img.shields.io/github/stars/emcassi/streamline.nvim) ![](https://img.shields.io/github/last-commit/emcassi/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/emcassi/streamline.nvim)
 - [Old-Farmer/preview-buffer.nvim](https://github.com/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/stars/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/last-commit/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/Old-Farmer/preview-buffer.nvim)
+- [leath-dub/bufs.nvim](https://github.com/leath-dub/bufs.nvim) ![](https://img.shields.io/github/stars/leath-dub/bufs.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/bufs.nvim)
 
 ### Other Buffer Switcher
 
@@ -223,6 +224,7 @@
 - [caesar003/nvim-closebuffer](https://github.com/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/stars/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/last-commit/caesar003/nvim-closebuffer) ![](https://img.shields.io/github/commit-activity/y/caesar003/nvim-closebuffer)
 - [atomicptr/BufClose.nvim](https://github.com/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/stars/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/BufClose.nvim)
 - [N8WM/buffexit.nvim](https://github.com/N8WM/buffexit.nvim) ![](https://img.shields.io/github/stars/N8WM/buffexit.nvim) ![](https://img.shields.io/github/last-commit/N8WM/buffexit.nvim) ![](https://img.shields.io/github/commit-activity/y/N8WM/buffexit.nvim)
+- [l4zygreed/prune.nvim](https://github.com/l4zygreed/prune.nvim) ![](https://img.shields.io/github/stars/l4zygreed/prune.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/prune.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/prune.nvim)
 
 #### restore
 
@@ -291,6 +293,7 @@
 - [musaubrian/scratch.nvim](https://github.com/musaubrian/scratch.nvim) ![](https://img.shields.io/github/stars/musaubrian/scratch.nvim) ![](https://img.shields.io/github/last-commit/musaubrian/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/musaubrian/scratch.nvim)
 - [slugbyte/whip.nvim](https://github.com/slugbyte/whip.nvim) ![](https://img.shields.io/github/stars/slugbyte/whip.nvim) ![](https://img.shields.io/github/last-commit/slugbyte/whip.nvim) ![](https://img.shields.io/github/commit-activity/y/slugbyte/whip.nvim)
 - [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/scratchpad.nvim)
+- [alexkotusenko/looseleaf.nvim](https://github.com/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/stars/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/last-commit/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/alexkotusenko/looseleaf.nvim)
 
 ### buffer Sharing
 

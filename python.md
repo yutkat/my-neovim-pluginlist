@@ -122,6 +122,7 @@
 - [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) ![](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim) ![](https://img.shields.io/github/commit-activity/y/neolooong/whichpy.nvim)
 - [adamcik/python-lspconfig.nvim](https://github.com/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/stars/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/adamcik/python-lspconfig.nvim)
 - [remcovaes/nvim-python-lsp-imports](https://github.com/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/stars/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/last-commit/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/commit-activity/y/remcovaes/nvim-python-lsp-imports)
+- [joCaldwell/neovim-docker-python-interpreter.nvim](https://github.com/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/stars/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/last-commit/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/commit-activity/y/joCaldwell/neovim-docker-python-interpreter.nvim)
 
 ### inlayhint
 
