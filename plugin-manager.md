@@ -68,6 +68,7 @@
 - [TheBlob42/alpacka.nvim](https://github.com/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/stars/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/alpacka.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/alpacka.nvim)
 - [comfysage/lynn.nvim](https://github.com/comfysage/lynn.nvim) ![](https://img.shields.io/github/stars/comfysage/lynn.nvim) ![](https://img.shields.io/github/last-commit/comfysage/lynn.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/lynn.nvim)
 - [GlennMm/pack-manager.nvim](https://github.com/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/stars/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/pack-manager.nvim)
+- [fmpisantos/pack.nvim](https://github.com/fmpisantos/pack.nvim) ![](https://img.shields.io/github/stars/fmpisantos/pack.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/pack.nvim)
 
 ### Update checker
 
