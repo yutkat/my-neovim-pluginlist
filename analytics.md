@@ -41,6 +41,7 @@
 - [lnus/stalker.nvim](https://github.com/lnus/stalker.nvim) ![](https://img.shields.io/github/stars/lnus/stalker.nvim) ![](https://img.shields.io/github/last-commit/lnus/stalker.nvim) ![](https://img.shields.io/github/commit-activity/y/lnus/stalker.nvim)
 - [mr-voluntas/nvim-trackage](https://github.com/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/stars/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/last-commit/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/commit-activity/y/mr-voluntas/nvim-trackage)
 - [jmwinn21/habit-tracker.nvim](https://github.com/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/stars/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/last-commit/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/jmwinn21/habit-tracker.nvim)
+- [luisfer-cli/autotrack.nvim](https://github.com/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/stars/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/last-commit/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/commit-activity/y/luisfer-cli/autotrack.nvim)
 
 ### Coding time
 

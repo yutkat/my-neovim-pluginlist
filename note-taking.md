@@ -188,6 +188,7 @@
 - [beetlejuice16/floatodo.nvim](https://github.com/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/floatodo.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/floatodo.nvim)
 - [antoniofontaneti/todo.nvim](https://github.com/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/stars/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/last-commit/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniofontaneti/todo.nvim)
 - [M0rtamor/todo.nvim](https://github.com/M0rtamor/todo.nvim) ![](https://img.shields.io/github/stars/M0rtamor/todo.nvim) ![](https://img.shields.io/github/last-commit/M0rtamor/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/M0rtamor/todo.nvim)
+- [TimothyGCY/todo.nvim](https://github.com/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/stars/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/last-commit/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TimothyGCY/todo.nvim)
 
 #### Taskwarrior
 
@@ -304,6 +305,7 @@
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
+- [alexkotusenko/looseleaf.nvim](https://github.com/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/stars/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/last-commit/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/alexkotusenko/looseleaf.nvim)
 
 ### inline note
 

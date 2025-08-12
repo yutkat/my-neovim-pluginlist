@@ -26,6 +26,7 @@
 - [devinmiller/translate.nvim](https://github.com/devinmiller/translate.nvim) ![](https://img.shields.io/github/stars/devinmiller/translate.nvim) ![](https://img.shields.io/github/last-commit/devinmiller/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/devinmiller/translate.nvim)
 - [ask-786/translate.nvim](https://github.com/ask-786/translate.nvim) ![](https://img.shields.io/github/stars/ask-786/translate.nvim) ![](https://img.shields.io/github/last-commit/ask-786/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/translate.nvim)
 - [ubuygold/nvim-translator](https://github.com/ubuygold/nvim-translator) ![](https://img.shields.io/github/stars/ubuygold/nvim-translator) ![](https://img.shields.io/github/last-commit/ubuygold/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/ubuygold/nvim-translator)
+- [Lingshinx/trans-hover.nvim](https://github.com/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/stars/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/last-commit/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingshinx/trans-hover.nvim)
 
 ## i18n
 

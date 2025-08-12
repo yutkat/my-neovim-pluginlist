@@ -233,6 +233,7 @@
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 - [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
+- [cyphersnake/llm-legion.nvim](https://github.com/cyphersnake/llm-legion.nvim) ![](https://img.shields.io/github/stars/cyphersnake/llm-legion.nvim) ![](https://img.shields.io/github/last-commit/cyphersnake/llm-legion.nvim) ![](https://img.shields.io/github/commit-activity/y/cyphersnake/llm-legion.nvim)
 
 #### mods
 
