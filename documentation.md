@@ -183,6 +183,7 @@
 - [gualcasas/markdown-preview.nvim](https://github.com/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/stars/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/gualcasas/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/gualcasas/markdown-preview.nvim)
 - [asana17/prev-mark.nvim](https://github.com/asana17/prev-mark.nvim) ![](https://img.shields.io/github/stars/asana17/prev-mark.nvim) ![](https://img.shields.io/github/last-commit/asana17/prev-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/asana17/prev-mark.nvim)
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/stars/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/live-preview.nvim)
+- [andev0x/mdview.nvim](https://github.com/andev0x/mdview.nvim) ![](https://img.shields.io/github/stars/andev0x/mdview.nvim) ![](https://img.shields.io/github/last-commit/andev0x/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/mdview.nvim)
 
 ##### Deno
 
