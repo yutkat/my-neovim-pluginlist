@@ -67,6 +67,7 @@
 - [zhisme/copy_with_context.nvim](https://github.com/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/stars/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/last-commit/zhisme/copy_with_context.nvim) ![](https://img.shields.io/github/commit-activity/y/zhisme/copy_with_context.nvim)
 - [mikailbayram/buffer-batch.nvim](https://github.com/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/stars/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/last-commit/mikailbayram/buffer-batch.nvim) ![](https://img.shields.io/github/commit-activity/y/mikailbayram/buffer-batch.nvim)
 - [AaronLasseigne/yank-code.nvim](https://github.com/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/stars/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/last-commit/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AaronLasseigne/yank-code.nvim)
+- [cajames/copy-reference.nvim](https://github.com/cajames/copy-reference.nvim) ![](https://img.shields.io/github/stars/cajames/copy-reference.nvim) ![](https://img.shields.io/github/last-commit/cajames/copy-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/cajames/copy-reference.nvim)
 
 ### yank node
 

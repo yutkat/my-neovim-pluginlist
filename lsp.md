@@ -188,6 +188,7 @@
 - [jordangarcia/ts-actions.nvim](https://github.com/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/stars/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/last-commit/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/jordangarcia/ts-actions.nvim)
 - [takagiy/lsp-actiononsave.nvim](https://github.com/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/stars/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/last-commit/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/commit-activity/y/takagiy/lsp-actiononsave.nvim)
 - [yarospace/dev-tools.nvim](https://github.com/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/stars/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/last-commit/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/yarospace/dev-tools.nvim)
+- [e2r2fx/codecompanion-fast-apply.nvim](https://github.com/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/stars/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/codecompanion-fast-apply.nvim)
 
 #### Hint
 
