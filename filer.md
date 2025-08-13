@@ -187,7 +187,6 @@
 
 ### Find specific file
 
-- [aloussase/telescope-find-exe.nvim](https://github.com/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/stars/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/last-commit/aloussase/telescope-find-exe.nvim) ![](https://img.shields.io/github/commit-activity/y/aloussase/telescope-find-exe.nvim)
 
 ### Filer switcher
 

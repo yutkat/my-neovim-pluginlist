@@ -561,7 +561,6 @@
 
 ## Dadoot
 
-- [ZZU1U/dadoot.nvim](https://github.com/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/stars/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/last-commit/ZZU1U/dadoot.nvim) ![](https://img.shields.io/github/commit-activity/y/ZZU1U/dadoot.nvim)
 
 ## Johnny Decimal
 
