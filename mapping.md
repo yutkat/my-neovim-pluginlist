@@ -186,7 +186,6 @@
 #### Cyrillic
 
 - [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
-- [eojysele/cyrillic-keymaps.nvim](https://github.com/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/stars/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/last-commit/eojysele/cyrillic-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/eojysele/cyrillic-keymaps.nvim)
 
 #### Numpad
 
