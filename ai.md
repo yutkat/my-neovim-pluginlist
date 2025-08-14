@@ -235,6 +235,7 @@
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 - [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
+- [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
 
 #### mods
 
@@ -546,6 +547,7 @@
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [xTacobaco/cursor-agent.nvim](https://github.com/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/stars/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/xTacobaco/cursor-agent.nvim)
+- [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 - [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 
 ## CodeCompanion

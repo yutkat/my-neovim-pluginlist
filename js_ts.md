@@ -389,6 +389,7 @@
 - [florianbx/ng-croissant](https://github.com/florianbx/ng-croissant) ![](https://img.shields.io/github/stars/florianbx/ng-croissant) ![](https://img.shields.io/github/last-commit/florianbx/ng-croissant) ![](https://img.shields.io/github/commit-activity/y/florianbx/ng-croissant)
 - [asmolenic/angular-switcher.nvim](https://github.com/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/stars/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/last-commit/asmolenic/angular-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/asmolenic/angular-switcher.nvim)
 - [harlamenko/ng-generate.nvim](https://github.com/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/stars/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/last-commit/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/commit-activity/y/harlamenko/ng-generate.nvim)
+- [harlamenko/ng-generate.nvim](https://github.com/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/stars/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/last-commit/harlamenko/ng-generate.nvim) ![](https://img.shields.io/github/commit-activity/y/harlamenko/ng-generate.nvim)
 
 ### Svelte
 

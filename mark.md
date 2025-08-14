@@ -40,6 +40,7 @@
 - [developedbyed/marko.nvim](https://github.com/developedbyed/marko.nvim) ![](https://img.shields.io/github/stars/developedbyed/marko.nvim) ![](https://img.shields.io/github/last-commit/developedbyed/marko.nvim) ![](https://img.shields.io/github/commit-activity/y/developedbyed/marko.nvim)
 - [swit33/cycle_trail.nvim](https://github.com/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/stars/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/last-commit/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/cycle_trail.nvim)
 - [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
+- [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
 
 ### extmark
 
