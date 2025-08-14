@@ -535,6 +535,7 @@
 - [bytesoverflow/smartcat.nvim](https://github.com/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/stars/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/last-commit/bytesoverflow/smartcat.nvim) ![](https://img.shields.io/github/commit-activity/y/bytesoverflow/smartcat.nvim)
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
+- [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
 
 ## AI Terminal
 
@@ -545,6 +546,7 @@
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [xTacobaco/cursor-agent.nvim](https://github.com/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/stars/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/xTacobaco/cursor-agent.nvim)
+- [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 
 ## CodeCompanion
 
