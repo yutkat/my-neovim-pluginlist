@@ -58,6 +58,7 @@
   - [Drupal](#drupal)
   - [Netsuite](#netsuite)
   - [Prefab](#prefab)
+  - [racc.lol](#racclol)
 - [Web3](#web3)
 - [CI](#ci)
   - [CircleCI](#circleci)
@@ -337,6 +338,10 @@
 ### Prefab
 
 - [prefab-cloud/prefab.nvim](https://github.com/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/stars/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/last-commit/prefab-cloud/prefab.nvim) ![](https://img.shields.io/github/commit-activity/y/prefab-cloud/prefab.nvim)
+
+### racc.lol
+
+- [keircn/racc.nvim](https://github.com/keircn/racc.nvim) ![](https://img.shields.io/github/stars/keircn/racc.nvim) ![](https://img.shields.io/github/last-commit/keircn/racc.nvim) ![](https://img.shields.io/github/commit-activity/y/keircn/racc.nvim)
 
 ## Web3
 

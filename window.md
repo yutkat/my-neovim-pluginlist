@@ -110,6 +110,7 @@
 - [joaomendoncaa/sane-splits.nvim](https://github.com/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sane-splits.nvim)
 - [CharlesBClarke/fibonacci-splits.nvim](https://github.com/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/stars/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/last-commit/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesBClarke/fibonacci-splits.nvim)
 - [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
+- [hiattp/splitwise.nvim](https://github.com/hiattp/splitwise.nvim) ![](https://img.shields.io/github/stars/hiattp/splitwise.nvim) ![](https://img.shields.io/github/last-commit/hiattp/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/hiattp/splitwise.nvim)
 
 #### Popup
 
