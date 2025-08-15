@@ -82,6 +82,7 @@
 - [sledigabel/gradle.nvim](https://github.com/sledigabel/gradle.nvim) ![](https://img.shields.io/github/stars/sledigabel/gradle.nvim) ![](https://img.shields.io/github/last-commit/sledigabel/gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/sledigabel/gradle.nvim)
 - [iomallach/telescope-gradle.nvim](https://github.com/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/stars/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/last-commit/iomallach/telescope-gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/iomallach/telescope-gradle.nvim)
 - [Justin8303/nvim-gradle-tasks](https://github.com/Justin8303/nvim-gradle-tasks) ![](https://img.shields.io/github/stars/Justin8303/nvim-gradle-tasks) ![](https://img.shields.io/github/last-commit/Justin8303/nvim-gradle-tasks) ![](https://img.shields.io/github/commit-activity/y/Justin8303/nvim-gradle-tasks)
+- [pandalec/gradle.nvim](https://github.com/pandalec/gradle.nvim) ![](https://img.shields.io/github/stars/pandalec/gradle.nvim) ![](https://img.shields.io/github/last-commit/pandalec/gradle.nvim) ![](https://img.shields.io/github/commit-activity/y/pandalec/gradle.nvim)
 
 ### Spring Boot
 

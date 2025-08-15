@@ -225,6 +225,7 @@
 - [atomicptr/BufClose.nvim](https://github.com/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/stars/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/BufClose.nvim)
 - [N8WM/buffexit.nvim](https://github.com/N8WM/buffexit.nvim) ![](https://img.shields.io/github/stars/N8WM/buffexit.nvim) ![](https://img.shields.io/github/last-commit/N8WM/buffexit.nvim) ![](https://img.shields.io/github/commit-activity/y/N8WM/buffexit.nvim)
 - [l4zygreed/prune.nvim](https://github.com/l4zygreed/prune.nvim) ![](https://img.shields.io/github/stars/l4zygreed/prune.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/prune.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/prune.nvim)
+- [n3tw0rth/scrub.nvim](https://github.com/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/stars/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/last-commit/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/commit-activity/y/n3tw0rth/scrub.nvim)
 
 #### restore
 
