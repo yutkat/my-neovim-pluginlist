@@ -206,6 +206,7 @@
 - [idossha/jupyter.nvim](https://github.com/idossha/jupyter.nvim) ![](https://img.shields.io/github/stars/idossha/jupyter.nvim) ![](https://img.shields.io/github/last-commit/idossha/jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/jupyter.nvim)
 - [IniyanKanmani/jupytext.nvim](https://github.com/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/stars/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/last-commit/IniyanKanmani/jupytext.nvim) ![](https://img.shields.io/github/commit-activity/y/IniyanKanmani/jupytext.nvim)
 - [ryan-ressmeyer/quench.nvim](https://github.com/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/stars/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/last-commit/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/commit-activity/y/ryan-ressmeyer/quench.nvim)
+- [PeterJohannsenCMT/nvim-jupyter](https://github.com/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/stars/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/last-commit/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/commit-activity/y/PeterJohannsenCMT/nvim-jupyter)
 
 ### Pandas
 

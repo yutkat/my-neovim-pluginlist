@@ -257,6 +257,7 @@
 #### Kustomize
 
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) ![](https://img.shields.io/github/stars/Allaman/kustomize.nvim) ![](https://img.shields.io/github/last-commit/Allaman/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/kustomize.nvim)
+- [vgromanov/fluxcd.nvim](https://github.com/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/stars/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/last-commit/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/commit-activity/y/vgromanov/fluxcd.nvim)
 
 #### AWS
 

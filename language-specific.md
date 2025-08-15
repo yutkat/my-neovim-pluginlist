@@ -47,6 +47,7 @@
     - [D](#d)
     - [fortran](#fortran)
     - [DSL](#dsl)
+    - [DLiteScript](#dlitescript)
     - [Juice](#juice)
     - [Wasm](#wasm)
     - [WebC](#webc)
@@ -390,6 +391,10 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+#### DLiteScript
+
+- [Dobefu/nvim-dlitescript](https://github.com/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/stars/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/last-commit/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/commit-activity/y/Dobefu/nvim-dlitescript)
+
 #### Juice
 
 - [juicelang/juice.nvim](https://github.com/juicelang/juice.nvim) ![](https://img.shields.io/github/stars/juicelang/juice.nvim) ![](https://img.shields.io/github/last-commit/juicelang/juice.nvim) ![](https://img.shields.io/github/commit-activity/y/juicelang/juice.nvim)
@@ -531,7 +536,6 @@
 - [YetAnotherMechanicusEnjoyer/dice-lsp.nvim](https://github.com/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/stars/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/last-commit/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/YetAnotherMechanicusEnjoyer/dice-lsp.nvim)
 
 #### Cell
-
 
 #### Orca
 
