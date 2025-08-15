@@ -113,6 +113,7 @@
 - [Dkendal/nvim-alternate](https://github.com/Dkendal/nvim-alternate) ![](https://img.shields.io/github/stars/Dkendal/nvim-alternate) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-alternate) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-alternate)
 - [herisetiawan00/jtt.nvim](https://github.com/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/jtt.nvim)
 - [samr/fileflip.nvim](https://github.com/samr/fileflip.nvim) ![](https://img.shields.io/github/stars/samr/fileflip.nvim) ![](https://img.shields.io/github/last-commit/samr/fileflip.nvim) ![](https://img.shields.io/github/commit-activity/y/samr/fileflip.nvim)
+- [I2olanD/jtt.nvim](https://github.com/I2olanD/jtt.nvim) ![](https://img.shields.io/github/stars/I2olanD/jtt.nvim) ![](https://img.shields.io/github/last-commit/I2olanD/jtt.nvim) ![](https://img.shields.io/github/commit-activity/y/I2olanD/jtt.nvim)
 
 ### Buffer Management
 
@@ -225,6 +226,7 @@
 - [atomicptr/BufClose.nvim](https://github.com/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/stars/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/BufClose.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/BufClose.nvim)
 - [N8WM/buffexit.nvim](https://github.com/N8WM/buffexit.nvim) ![](https://img.shields.io/github/stars/N8WM/buffexit.nvim) ![](https://img.shields.io/github/last-commit/N8WM/buffexit.nvim) ![](https://img.shields.io/github/commit-activity/y/N8WM/buffexit.nvim)
 - [l4zygreed/prune.nvim](https://github.com/l4zygreed/prune.nvim) ![](https://img.shields.io/github/stars/l4zygreed/prune.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/prune.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/prune.nvim)
+- [n3tw0rth/scrub.nvim](https://github.com/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/stars/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/last-commit/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/commit-activity/y/n3tw0rth/scrub.nvim)
 
 #### restore
 

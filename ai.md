@@ -235,6 +235,7 @@
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 - [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
+- [SimonLarsena/codecompanion.nvim](https://github.com/SimonLarsena/codecompanion.nvim) ![](https://img.shields.io/github/stars/SimonLarsena/codecompanion.nvim) ![](https://img.shields.io/github/last-commit/SimonLarsena/codecompanion.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonLarsena/codecompanion.nvim)
 
 #### mods
 

@@ -35,6 +35,10 @@
 - [elentok/stuff.nvim](https://github.com/elentok/stuff.nvim) ![](https://img.shields.io/github/stars/elentok/stuff.nvim) ![](https://img.shields.io/github/last-commit/elentok/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/stuff.nvim)
 - [g0t4/devtools.nvim](https://github.com/g0t4/devtools.nvim) ![](https://img.shields.io/github/stars/g0t4/devtools.nvim) ![](https://img.shields.io/github/last-commit/g0t4/devtools.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/devtools.nvim)
 - [modulomedito/rookie_toys.nvim](https://github.com/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_toys.nvim)
+- [JingweiLiuis/snacks.nvim](https://github.com/JingweiLiuis/snacks.nvim) ![](https://img.shields.io/github/stars/JingweiLiuis/snacks.nvim) ![](https://img.shields.io/github/last-commit/JingweiLiuis/snacks.nvim) ![](https://img.shields.io/github/commit-activity/y/JingweiLiuis/snacks.nvim)
+- [Neurarian/snacks-luasnip.nvim](https://github.com/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/stars/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/last-commit/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/Neurarian/snacks-luasnip.nvim)
+- [ShuamChaudhary/snacks.nvim](https://github.com/ShuamChaudhary/snacks.nvim) ![](https://img.shields.io/github/stars/ShuamChaudhary/snacks.nvim) ![](https://img.shields.io/github/last-commit/ShuamChaudhary/snacks.nvim) ![](https://img.shields.io/github/commit-activity/y/ShuamChaudhary/snacks.nvim)
+- [songdachaowang/snacks.nvim](https://github.com/songdachaowang/snacks.nvim) ![](https://img.shields.io/github/stars/songdachaowang/snacks.nvim) ![](https://img.shields.io/github/last-commit/songdachaowang/snacks.nvim) ![](https://img.shields.io/github/commit-activity/y/songdachaowang/snacks.nvim)
 
 ## UI
 
