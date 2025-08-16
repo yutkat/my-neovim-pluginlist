@@ -37,6 +37,7 @@
 - [nicolas-martin/region-folding.nvim](https://github.com/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/stars/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/last-commit/nicolas-martin/region-folding.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolas-martin/region-folding.nvim)
 - [theseifhassan/smartfolds.nvim](https://github.com/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/stars/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/last-commit/theseifhassan/smartfolds.nvim) ![](https://img.shields.io/github/commit-activity/y/theseifhassan/smartfolds.nvim)
 - [Mitch1000/markfoldable.nvim](https://github.com/Mitch1000/markfoldable.nvim) ![](https://img.shields.io/github/stars/Mitch1000/markfoldable.nvim) ![](https://img.shields.io/github/last-commit/Mitch1000/markfoldable.nvim) ![](https://img.shields.io/github/commit-activity/y/Mitch1000/markfoldable.nvim)
+- [AymericHenouille/origami.nvim](https://github.com/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/stars/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/last-commit/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/commit-activity/y/AymericHenouille/origami.nvim)
 
 ### Auto fold
 

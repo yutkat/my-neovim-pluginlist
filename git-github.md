@@ -426,6 +426,7 @@
 ## Sage
 
 - [sage-scm/sage.nvim](https://github.com/sage-scm/sage.nvim) ![](https://img.shields.io/github/stars/sage-scm/sage.nvim) ![](https://img.shields.io/github/last-commit/sage-scm/sage.nvim) ![](https://img.shields.io/github/commit-activity/y/sage-scm/sage.nvim)
+- [RaneMstSage/sage-vcs.nvim](https://github.com/RaneMstSage/sage-vcs.nvim) ![](https://img.shields.io/github/stars/RaneMstSage/sage-vcs.nvim) ![](https://img.shields.io/github/last-commit/RaneMstSage/sage-vcs.nvim) ![](https://img.shields.io/github/commit-activity/y/RaneMstSage/sage-vcs.nvim)
 
 ## GitHub
 

@@ -141,6 +141,7 @@
 - [slocook/buildit.nvim](https://github.com/slocook/buildit.nvim) ![](https://img.shields.io/github/stars/slocook/buildit.nvim) ![](https://img.shields.io/github/last-commit/slocook/buildit.nvim) ![](https://img.shields.io/github/commit-activity/y/slocook/buildit.nvim)
 - [devEducaua/crun.nvim](https://github.com/devEducaua/crun.nvim) ![](https://img.shields.io/github/stars/devEducaua/crun.nvim) ![](https://img.shields.io/github/last-commit/devEducaua/crun.nvim) ![](https://img.shields.io/github/commit-activity/y/devEducaua/crun.nvim)
 - [jmattaa/fire.nvim](https://github.com/jmattaa/fire.nvim) ![](https://img.shields.io/github/stars/jmattaa/fire.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/fire.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/fire.nvim)
+- [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
 
 #### Shell
 
