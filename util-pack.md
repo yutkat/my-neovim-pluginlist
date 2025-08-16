@@ -35,6 +35,7 @@
 - [elentok/stuff.nvim](https://github.com/elentok/stuff.nvim) ![](https://img.shields.io/github/stars/elentok/stuff.nvim) ![](https://img.shields.io/github/last-commit/elentok/stuff.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/stuff.nvim)
 - [g0t4/devtools.nvim](https://github.com/g0t4/devtools.nvim) ![](https://img.shields.io/github/stars/g0t4/devtools.nvim) ![](https://img.shields.io/github/last-commit/g0t4/devtools.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/devtools.nvim)
 - [modulomedito/rookie_toys.nvim](https://github.com/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_toys.nvim)
+- [AralRocais/snacks.nvim](https://github.com/AralRocais/snacks.nvim) ![](https://img.shields.io/github/stars/AralRocais/snacks.nvim) ![](https://img.shields.io/github/last-commit/AralRocais/snacks.nvim) ![](https://img.shields.io/github/commit-activity/y/AralRocais/snacks.nvim)
 
 ## UI
 

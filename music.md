@@ -42,6 +42,7 @@
 - [neo451/musicfox.nvim](https://github.com/neo451/musicfox.nvim) ![](https://img.shields.io/github/stars/neo451/musicfox.nvim) ![](https://img.shields.io/github/last-commit/neo451/musicfox.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/musicfox.nvim)
 - [felixlazy/mpv.nvim](https://github.com/felixlazy/mpv.nvim) ![](https://img.shields.io/github/stars/felixlazy/mpv.nvim) ![](https://img.shields.io/github/last-commit/felixlazy/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/felixlazy/mpv.nvim)
 - [SilverofLight/MpvNote.nvim](https://github.com/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/stars/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/last-commit/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/commit-activity/y/SilverofLight/MpvNote.nvim)
+- [km0e/music.nvim](https://github.com/km0e/music.nvim) ![](https://img.shields.io/github/stars/km0e/music.nvim) ![](https://img.shields.io/github/last-commit/km0e/music.nvim) ![](https://img.shields.io/github/commit-activity/y/km0e/music.nvim)
 
 ### sapf
 

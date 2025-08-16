@@ -66,6 +66,7 @@
 - [greggh/laravel-helper.nvim](https://github.com/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/stars/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/last-commit/greggh/laravel-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/greggh/laravel-helper.nvim)
 - [marioagr/docs-for-laravel.nvim](https://github.com/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/stars/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/last-commit/marioagr/docs-for-laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/marioagr/docs-for-laravel.nvim)
 - [adibhanna/laravel.nvim](https://github.com/adibhanna/laravel.nvim) ![](https://img.shields.io/github/stars/adibhanna/laravel.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/laravel.nvim)
+- [roshanlimbu/laravel.nvim](https://github.com/roshanlimbu/laravel.nvim) ![](https://img.shields.io/github/stars/roshanlimbu/laravel.nvim) ![](https://img.shields.io/github/last-commit/roshanlimbu/laravel.nvim) ![](https://img.shields.io/github/commit-activity/y/roshanlimbu/laravel.nvim)
 
 ### Slim
 
