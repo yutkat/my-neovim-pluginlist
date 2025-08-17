@@ -536,6 +536,7 @@
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
+- [mikey-arch/askcat.nvim](https://github.com/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/stars/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/last-commit/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/commit-activity/y/mikey-arch/askcat.nvim)
 
 ## AI Terminal
 

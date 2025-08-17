@@ -241,6 +241,8 @@
 - [ethanamaher/better-git-blame.nvim](https://github.com/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/stars/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/last-commit/ethanamaher/better-git-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanamaher/better-git-blame.nvim)
 - [art-vasilyev/gerrit-blame.nvim](https://github.com/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/stars/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/last-commit/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/art-vasilyev/gerrit-blame.nvim)
 - [yt20chill/inline_git_blame.nvim](https://github.com/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/stars/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/last-commit/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/commit-activity/y/yt20chill/inline_git_blame.nvim)
+- [tmybsv/blame.nvim](https://github.com/tmybsv/blame.nvim) ![](https://img.shields.io/github/stars/tmybsv/blame.nvim) ![](https://img.shields.io/github/last-commit/tmybsv/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/tmybsv/blame.nvim)
+- [va-ji/git_snoop.nvim](https://github.com/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/stars/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/last-commit/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/commit-activity/y/va-ji/git_snoop.nvim)
 
 ### git log
 

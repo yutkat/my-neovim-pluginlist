@@ -113,6 +113,7 @@
 - [Dkendal/nvim-alternate](https://github.com/Dkendal/nvim-alternate) ![](https://img.shields.io/github/stars/Dkendal/nvim-alternate) ![](https://img.shields.io/github/last-commit/Dkendal/nvim-alternate) ![](https://img.shields.io/github/commit-activity/y/Dkendal/nvim-alternate)
 - [herisetiawan00/jtt.nvim](https://github.com/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/jtt.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/jtt.nvim)
 - [samr/fileflip.nvim](https://github.com/samr/fileflip.nvim) ![](https://img.shields.io/github/stars/samr/fileflip.nvim) ![](https://img.shields.io/github/last-commit/samr/fileflip.nvim) ![](https://img.shields.io/github/commit-activity/y/samr/fileflip.nvim)
+- [devansh08/alt-tab.nvim](https://github.com/devansh08/alt-tab.nvim) ![](https://img.shields.io/github/stars/devansh08/alt-tab.nvim) ![](https://img.shields.io/github/last-commit/devansh08/alt-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/devansh08/alt-tab.nvim)
 
 ### Buffer Management
 
@@ -198,6 +199,7 @@
 - [54322/mru.nvim](https://github.com/54322/mru.nvim) ![](https://img.shields.io/github/stars/54322/mru.nvim) ![](https://img.shields.io/github/last-commit/54322/mru.nvim) ![](https://img.shields.io/github/commit-activity/y/54322/mru.nvim)
 - [kj-1809/previous-buffer.nvim](https://github.com/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/stars/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/last-commit/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-1809/previous-buffer.nvim)
 - [TorrezMN/nvim_recent_file_picker.nvim](https://github.com/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/stars/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/last-commit/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/TorrezMN/nvim_recent_file_picker.nvim)
+- [pe1te3son/prev-buffer.nvim](https://github.com/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/stars/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/last-commit/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/pe1te3son/prev-buffer.nvim)
 
 ##### remote open
 

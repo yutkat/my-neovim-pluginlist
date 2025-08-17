@@ -26,6 +26,7 @@
 - [lululau/telescope-autojump.nvim](https://github.com/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/stars/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/last-commit/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/telescope-autojump.nvim)
 - [pinbraerts/swipe.nvim](https://github.com/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/stars/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/last-commit/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pinbraerts/swipe.nvim)
 - [krmmzs/jump-beacon.nvim](https://github.com/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/stars/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/jump-beacon.nvim)
+- [tiwari-krishna/nvHopper.nvim](https://github.com/tiwari-krishna/nvHopper.nvim) ![](https://img.shields.io/github/stars/tiwari-krishna/nvHopper.nvim) ![](https://img.shields.io/github/last-commit/tiwari-krishna/nvHopper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiwari-krishna/nvHopper.nvim)
 
 ### Error
 

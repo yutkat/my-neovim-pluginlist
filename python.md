@@ -116,6 +116,7 @@
 ### Profiler
 
 - [Matze-isses/py-profiler.nvim](https://github.com/Matze-isses/py-profiler.nvim) ![](https://img.shields.io/github/stars/Matze-isses/py-profiler.nvim) ![](https://img.shields.io/github/last-commit/Matze-isses/py-profiler.nvim) ![](https://img.shields.io/github/commit-activity/y/Matze-isses/py-profiler.nvim)
+- [cyprienhm/python-profiler.nvim](https://github.com/cyprienhm/python-profiler.nvim) ![](https://img.shields.io/github/stars/cyprienhm/python-profiler.nvim) ![](https://img.shields.io/github/last-commit/cyprienhm/python-profiler.nvim) ![](https://img.shields.io/github/commit-activity/y/cyprienhm/python-profiler.nvim)
 
 ## LSP
 

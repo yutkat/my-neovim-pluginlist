@@ -46,6 +46,7 @@
 - [MisanthropicBit/parcel.nvim](https://github.com/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/parcel.nvim)
 - [lulkien/packoff.nvim](https://github.com/lulkien/packoff.nvim) ![](https://img.shields.io/github/stars/lulkien/packoff.nvim) ![](https://img.shields.io/github/last-commit/lulkien/packoff.nvim) ![](https://img.shields.io/github/commit-activity/y/lulkien/packoff.nvim)
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
+- [piersolenski/plugin-addict.nvim](https://github.com/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/plugin-addict.nvim)
 
 ### Use builtin package feature
 
