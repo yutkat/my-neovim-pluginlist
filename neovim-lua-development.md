@@ -98,7 +98,6 @@
 
 ## Print
 
-
 ## Debug
 
 - [woosaaahh/debugwin.nvim](https://github.com/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/stars/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/debugwin.nvim)

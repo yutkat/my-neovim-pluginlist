@@ -189,6 +189,7 @@
 - [antoniofontaneti/todo.nvim](https://github.com/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/stars/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/last-commit/antoniofontaneti/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniofontaneti/todo.nvim)
 - [M0rtamor/todo.nvim](https://github.com/M0rtamor/todo.nvim) ![](https://img.shields.io/github/stars/M0rtamor/todo.nvim) ![](https://img.shields.io/github/last-commit/M0rtamor/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/M0rtamor/todo.nvim)
 - [TimothyGCY/todo.nvim](https://github.com/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/stars/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/last-commit/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TimothyGCY/todo.nvim)
+- [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
 
 #### Taskwarrior
 

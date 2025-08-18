@@ -29,6 +29,8 @@
 - [Dotrar/neovim-arithmagic](https://github.com/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/stars/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/last-commit/Dotrar/neovim-arithmagic) ![](https://img.shields.io/github/commit-activity/y/Dotrar/neovim-arithmagic)
 - [frenzox/nvim-uconv](https://github.com/frenzox/nvim-uconv) ![](https://img.shields.io/github/stars/frenzox/nvim-uconv) ![](https://img.shields.io/github/last-commit/frenzox/nvim-uconv) ![](https://img.shields.io/github/commit-activity/y/frenzox/nvim-uconv)
 - [RutaTang/compter.nvim](https://github.com/RutaTang/compter.nvim) ![](https://img.shields.io/github/stars/RutaTang/compter.nvim) ![](https://img.shields.io/github/last-commit/RutaTang/compter.nvim) ![](https://img.shields.io/github/commit-activity/y/RutaTang/compter.nvim)
+- [niels4/number-scrubber.nvim](https://github.com/niels4/number-scrubber.nvim) ![](https://img.shields.io/github/stars/niels4/number-scrubber.nvim) ![](https://img.shields.io/github/last-commit/niels4/number-scrubber.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/number-scrubber.nvim)
+  - [niels4/websocket-text-relay.nvim](https://github.com/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/stars/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/last-commit/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/websocket-text-relay.nvim)
 
 ### Convert Case
 

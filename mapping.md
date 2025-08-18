@@ -72,6 +72,7 @@
 - [mtkld/keypoint.nvim](https://github.com/mtkld/keypoint.nvim) ![](https://img.shields.io/github/stars/mtkld/keypoint.nvim) ![](https://img.shields.io/github/last-commit/mtkld/keypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/keypoint.nvim)
 - [mtkld/dynkey.nvim](https://github.com/mtkld/dynkey.nvim) ![](https://img.shields.io/github/stars/mtkld/dynkey.nvim) ![](https://img.shields.io/github/last-commit/mtkld/dynkey.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/dynkey.nvim)
 - [va9iff/lil](https://github.com/va9iff/lil) ![](https://img.shields.io/github/stars/va9iff/lil) ![](https://img.shields.io/github/last-commit/va9iff/lil) ![](https://img.shields.io/github/commit-activity/y/va9iff/lil)
+- [piersolenski/plugin-addict.nvim](https://github.com/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/plugin-addict.nvim)
 
 ### instant mapping
 
@@ -128,7 +129,6 @@
 ### Layout Switch
 
 #### Colemak-HD
-
 
 ### Mapping toggle
 

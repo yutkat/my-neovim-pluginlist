@@ -562,7 +562,6 @@
 
 ## Dadoot
 
-
 ## Johnny Decimal
 
 - [mahyarmirrashed/jdd.nvim](https://github.com/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/jdd.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/jdd.nvim)
