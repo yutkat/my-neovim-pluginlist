@@ -62,6 +62,7 @@
 - [SR-MyStar/antonym.nvim](https://github.com/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/stars/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/last-commit/SR-MyStar/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/SR-MyStar/antonym.nvim)
 - [gczcn/antonym.nvim](https://github.com/gczcn/antonym.nvim) ![](https://img.shields.io/github/stars/gczcn/antonym.nvim) ![](https://img.shields.io/github/last-commit/gczcn/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/gczcn/antonym.nvim)
 - [tigion/swap.nvim](https://github.com/tigion/swap.nvim) ![](https://img.shields.io/github/stars/tigion/swap.nvim) ![](https://img.shields.io/github/last-commit/tigion/swap.nvim) ![](https://img.shields.io/github/commit-activity/y/tigion/swap.nvim)
+- [lucas-garcia-rubio/switcher.nvim](https://github.com/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/stars/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/last-commit/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lucas-garcia-rubio/switcher.nvim)
 
 ### Quote
 
