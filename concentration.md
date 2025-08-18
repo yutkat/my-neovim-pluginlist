@@ -70,6 +70,7 @@
 - [benjaminpeeters/nvim-focus](https://github.com/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/stars/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/last-commit/benjaminpeeters/nvim-focus) ![](https://img.shields.io/github/commit-activity/y/benjaminpeeters/nvim-focus)
 - [DannDot/nvim-timetracker](https://github.com/DannDot/nvim-timetracker) ![](https://img.shields.io/github/stars/DannDot/nvim-timetracker) ![](https://img.shields.io/github/last-commit/DannDot/nvim-timetracker) ![](https://img.shields.io/github/commit-activity/y/DannDot/nvim-timetracker)
 - [demonsjostle/timer.nvim](https://github.com/demonsjostle/timer.nvim) ![](https://img.shields.io/github/stars/demonsjostle/timer.nvim) ![](https://img.shields.io/github/last-commit/demonsjostle/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/demonsjostle/timer.nvim)
+- [sdavisde/nvim-task-timer](https://github.com/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/stars/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/last-commit/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/commit-activity/y/sdavisde/nvim-task-timer)
 
 ## Do Not Disturb
 
