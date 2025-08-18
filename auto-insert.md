@@ -54,6 +54,7 @@
 - [AndresYague/move-enclosing.nvim](https://github.com/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/stars/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/move-enclosing.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/move-enclosing.nvim)
 - [Alexerby/close.nvim](https://github.com/Alexerby/close.nvim) ![](https://img.shields.io/github/stars/Alexerby/close.nvim) ![](https://img.shields.io/github/last-commit/Alexerby/close.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexerby/close.nvim)
 - [umutondersu/smart-newline.nvim](https://github.com/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/stars/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/last-commit/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/commit-activity/y/umutondersu/smart-newline.nvim)
+- [nvim4hours/pairs.nvim](https://github.com/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/stars/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/last-commit/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim4hours/pairs.nvim)
 
 ### escape pairs
 

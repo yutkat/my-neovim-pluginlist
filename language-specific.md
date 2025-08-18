@@ -84,6 +84,7 @@
     - [Idris2](#idris2)
     - [MatLab](#matlab)
     - [Dice](#dice)
+    - [Nox](#nox)
     - [Cell](#cell)
     - [Orca](#orca)
     - [Boxlang](#boxlang)
@@ -534,6 +535,10 @@
 #### Dice
 
 - [YetAnotherMechanicusEnjoyer/dice-lsp.nvim](https://github.com/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/stars/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/last-commit/YetAnotherMechanicusEnjoyer/dice-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/YetAnotherMechanicusEnjoyer/dice-lsp.nvim)
+
+#### Nox
+
+- [estevaofon/nox.nvim](https://github.com/estevaofon/nox.nvim) ![](https://img.shields.io/github/stars/estevaofon/nox.nvim) ![](https://img.shields.io/github/last-commit/estevaofon/nox.nvim) ![](https://img.shields.io/github/commit-activity/y/estevaofon/nox.nvim)
 
 #### Cell
 
