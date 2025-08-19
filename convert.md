@@ -58,6 +58,7 @@
 - [Goose97/alternative.nvim](https://github.com/Goose97/alternative.nvim) ![](https://img.shields.io/github/stars/Goose97/alternative.nvim) ![](https://img.shields.io/github/last-commit/Goose97/alternative.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/alternative.nvim)
 - [justamanpop/nvim-strike-through](https://github.com/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/stars/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/last-commit/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/commit-activity/y/justamanpop/nvim-strike-through)
 - [tronikelis/caser.nvim](https://github.com/tronikelis/caser.nvim) ![](https://img.shields.io/github/stars/tronikelis/caser.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/caser.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/caser.nvim)
+- [madmaxieee/camelsnek.nvim](https://github.com/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/stars/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/camelsnek.nvim)
 
 ### Convert Word
 

@@ -203,6 +203,7 @@
 ### Zoket(google)
 
 - [kentzhang-geek/zoekt.nvim](https://github.com/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/stars/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/last-commit/kentzhang-geek/zoekt.nvim) ![](https://img.shields.io/github/commit-activity/y/kentzhang-geek/zoekt.nvim)
+- [jupblb/zoekt.nvim](https://github.com/jupblb/zoekt.nvim) ![](https://img.shields.io/github/stars/jupblb/zoekt.nvim) ![](https://img.shields.io/github/last-commit/jupblb/zoekt.nvim) ![](https://img.shields.io/github/commit-activity/y/jupblb/zoekt.nvim)
 
 ## Select
 
