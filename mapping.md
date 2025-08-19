@@ -21,6 +21,7 @@
     - [Escape](#escape)
     - [CapsLock](#capslock)
     - [Tab](#tab)
+    - [Backspace](#backspace)
     - [Normal Mode](#normal-mode)
       - [Word Motion](#word-motion)
     - [Insert Mode](#insert-mode)
@@ -160,6 +161,10 @@
 #### Tab
 
 - [hisbaan/supertab.nvim](https://github.com/hisbaan/supertab.nvim) ![](https://img.shields.io/github/stars/hisbaan/supertab.nvim) ![](https://img.shields.io/github/last-commit/hisbaan/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/hisbaan/supertab.nvim)
+
+#### Backspace
+
+- [qwavies/smart-backspace.nvim](https://github.com/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/stars/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/last-commit/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/commit-activity/y/qwavies/smart-backspace.nvim)
 
 #### Normal Mode
 
