@@ -142,6 +142,7 @@
 - [devEducaua/crun.nvim](https://github.com/devEducaua/crun.nvim) ![](https://img.shields.io/github/stars/devEducaua/crun.nvim) ![](https://img.shields.io/github/last-commit/devEducaua/crun.nvim) ![](https://img.shields.io/github/commit-activity/y/devEducaua/crun.nvim)
 - [jmattaa/fire.nvim](https://github.com/jmattaa/fire.nvim) ![](https://img.shields.io/github/stars/jmattaa/fire.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/fire.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/fire.nvim)
 - [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
+- [nvim4hours/run.nvim](https://github.com/nvim4hours/run.nvim) ![](https://img.shields.io/github/stars/nvim4hours/run.nvim) ![](https://img.shields.io/github/last-commit/nvim4hours/run.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim4hours/run.nvim)
 
 #### Shell
 
@@ -194,6 +195,7 @@
 - [evictedcucumber/easycmd.nvim](https://github.com/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/stars/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/last-commit/evictedcucumber/easycmd.nvim) ![](https://img.shields.io/github/commit-activity/y/evictedcucumber/easycmd.nvim)
 - [AvoidMe/nvim-telescope-background](https://github.com/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/stars/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/last-commit/AvoidMe/nvim-telescope-background) ![](https://img.shields.io/github/commit-activity/y/AvoidMe/nvim-telescope-background)
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
+- [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 
 ### Auto detect style
 
