@@ -279,6 +279,7 @@
 - [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
 - [cwmaguire/datebox.nvim](https://github.com/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/stars/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/last-commit/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/commit-activity/y/cwmaguire/datebox.nvim)
 - [sontungexpt/bim.nvim](https://github.com/sontungexpt/bim.nvim) ![](https://img.shields.io/github/stars/sontungexpt/bim.nvim) ![](https://img.shields.io/github/last-commit/sontungexpt/bim.nvim) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/bim.nvim)
+- [qwavies/smart-backspace.nvim](https://github.com/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/stars/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/last-commit/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/commit-activity/y/qwavies/smart-backspace.nvim)
 
 #### Smart Tab
 
