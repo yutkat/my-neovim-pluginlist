@@ -19,7 +19,6 @@
 
 ### Sidebar
 
-- [GustavoKatel/sidebar.nvim](https://github.com/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/stars/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/last-commit/GustavoKatel/sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/GustavoKatel/sidebar.nvim)
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee.nvim)
 - [arakkkkk/switchpanel.nvim](https://github.com/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/stars/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/switchpanel.nvim)
 
