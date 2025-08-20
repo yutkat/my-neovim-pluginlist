@@ -362,6 +362,7 @@
 ### Jenkins
 
 - [cvanhoosear/jenkins-linter.nvim](https://github.com/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/stars/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/last-commit/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/cvanhoosear/jenkins-linter.nvim)
+- [Funkmyster/jenkins.nvim](https://github.com/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/stars/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/last-commit/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/Funkmyster/jenkins.nvim)
 
 ### SonarQube
 
