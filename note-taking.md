@@ -190,6 +190,7 @@
 - [M0rtamor/todo.nvim](https://github.com/M0rtamor/todo.nvim) ![](https://img.shields.io/github/stars/M0rtamor/todo.nvim) ![](https://img.shields.io/github/last-commit/M0rtamor/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/M0rtamor/todo.nvim)
 - [TimothyGCY/todo.nvim](https://github.com/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/stars/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/last-commit/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TimothyGCY/todo.nvim)
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
+- [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
 
 #### Google Task
 
@@ -495,3 +496,4 @@
 - [JonLD/jot.nvim](https://github.com/JonLD/jot.nvim) ![](https://img.shields.io/github/stars/JonLD/jot.nvim) ![](https://img.shields.io/github/last-commit/JonLD/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/jot.nvim)
 - [Samar-exe/nvim-notes](https://github.com/Samar-exe/nvim-notes) ![](https://img.shields.io/github/stars/Samar-exe/nvim-notes) ![](https://img.shields.io/github/last-commit/Samar-exe/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Samar-exe/nvim-notes)
 - [HubertHo/memo.nvim](https://github.com/HubertHo/memo.nvim) ![](https://img.shields.io/github/stars/HubertHo/memo.nvim) ![](https://img.shields.io/github/last-commit/HubertHo/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertHo/memo.nvim)
+- [0pama/tasky.nvim](https://github.com/0pama/tasky.nvim) ![](https://img.shields.io/github/stars/0pama/tasky.nvim) ![](https://img.shields.io/github/last-commit/0pama/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/0pama/tasky.nvim)
