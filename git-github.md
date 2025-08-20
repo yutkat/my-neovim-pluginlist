@@ -254,6 +254,7 @@
 - [martin-walls/git-graph.nvim](https://github.com/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/stars/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/last-commit/martin-walls/git-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/martin-walls/git-graph.nvim)
 - [coreyb-git/commit-reminder.nvim](https://github.com/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/stars/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/commit-reminder.nvim)
 - [va-ji/git_snoop.nvim](https://github.com/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/stars/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/last-commit/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/commit-activity/y/va-ji/git_snoop.nvim)
+- [JoshuaDueck/git-heatmap.nvim](https://github.com/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/git-heatmap.nvim)
 
 #### preview contents
 

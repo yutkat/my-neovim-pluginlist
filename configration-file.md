@@ -116,6 +116,7 @@
 
 - [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
 - [ckipp01/nvim-jenkinsfile-linter](https://github.com/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/stars/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/last-commit/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/commit-activity/y/ckipp01/nvim-jenkinsfile-linter)
+- [Funkmyster/jenkins.nvim](https://github.com/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/stars/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/last-commit/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/Funkmyster/jenkins.nvim)
 
 ### Cron
 
@@ -133,6 +134,7 @@
 - [rinke-livinglogic-nl/relay.nvim](https://github.com/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/stars/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/last-commit/rinke-livinglogic-nl/relay.nvim) ![](https://img.shields.io/github/commit-activity/y/rinke-livinglogic-nl/relay.nvim)
 - [KieranCanter/candela.nvim](https://github.com/KieranCanter/candela.nvim) ![](https://img.shields.io/github/stars/KieranCanter/candela.nvim) ![](https://img.shields.io/github/last-commit/KieranCanter/candela.nvim) ![](https://img.shields.io/github/commit-activity/y/KieranCanter/candela.nvim)
 - [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/stars/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/last-commit/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fei6409/log-highlight.nvim)
+- [dmitrii-cernev/logjump.nvim](https://github.com/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/stars/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/last-commit/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/commit-activity/y/dmitrii-cernev/logjump.nvim)
 
 #### CLIPS(C Language Integrated Production System)
 

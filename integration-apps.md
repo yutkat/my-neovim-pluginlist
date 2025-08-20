@@ -253,6 +253,7 @@
 - [avesst/ansible-doc.nvim](https://github.com/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/stars/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/last-commit/avesst/ansible-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/avesst/ansible-doc.nvim)
 - [MasterOfTheJuice/ansible.nvim](https://github.com/MasterOfTheJuice/ansible.nvim) ![](https://img.shields.io/github/stars/MasterOfTheJuice/ansible.nvim) ![](https://img.shields.io/github/last-commit/MasterOfTheJuice/ansible.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterOfTheJuice/ansible.nvim)
 - [19bischof/nvim-ansible-vault](https://github.com/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/stars/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/19bischof/nvim-ansible-vault)
+- [Geertsky/ansible-role-picker.nvim](https://github.com/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/stars/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/ansible-role-picker.nvim)
 
 #### Kustomize
 
