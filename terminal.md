@@ -127,6 +127,8 @@
 - [ingenarel/smart-term.nvim](https://github.com/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/stars/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/smart-term.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/smart-term.nvim)
 - [dotpluto/better-terminal.nvim](https://github.com/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/stars/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/last-commit/dotpluto/better-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/dotpluto/better-terminal.nvim)
 - [4strodev/termtracker.nvim](https://github.com/4strodev/termtracker.nvim) ![](https://img.shields.io/github/stars/4strodev/termtracker.nvim) ![](https://img.shields.io/github/last-commit/4strodev/termtracker.nvim) ![](https://img.shields.io/github/commit-activity/y/4strodev/termtracker.nvim)
+- [rohsins/nvim-floterm](https://github.com/rohsins/nvim-floterm) ![](https://img.shields.io/github/stars/rohsins/nvim-floterm) ![](https://img.shields.io/github/last-commit/rohsins/nvim-floterm) ![](https://img.shields.io/github/commit-activity/y/rohsins/nvim-floterm)
+- [rkb121541/floaterminal.nvim](https://github.com/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/stars/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rkb121541/floaterminal.nvim)
 
 ### Edit
 

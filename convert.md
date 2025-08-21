@@ -66,6 +66,7 @@
 - [gczcn/antonym.nvim](https://github.com/gczcn/antonym.nvim) ![](https://img.shields.io/github/stars/gczcn/antonym.nvim) ![](https://img.shields.io/github/last-commit/gczcn/antonym.nvim) ![](https://img.shields.io/github/commit-activity/y/gczcn/antonym.nvim)
 - [tigion/swap.nvim](https://github.com/tigion/swap.nvim) ![](https://img.shields.io/github/stars/tigion/swap.nvim) ![](https://img.shields.io/github/last-commit/tigion/swap.nvim) ![](https://img.shields.io/github/commit-activity/y/tigion/swap.nvim)
 - [lucas-garcia-rubio/switcher.nvim](https://github.com/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/stars/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/last-commit/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lucas-garcia-rubio/switcher.nvim)
+- [afkale/wswitcher.nvim](https://github.com/afkale/wswitcher.nvim) ![](https://img.shields.io/github/stars/afkale/wswitcher.nvim) ![](https://img.shields.io/github/last-commit/afkale/wswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/wswitcher.nvim)
 
 ### Quote
 

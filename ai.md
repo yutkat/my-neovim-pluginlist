@@ -263,6 +263,7 @@
 - [georg3tom/llama.nvim](https://github.com/georg3tom/llama.nvim) ![](https://img.shields.io/github/stars/georg3tom/llama.nvim) ![](https://img.shields.io/github/last-commit/georg3tom/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/georg3tom/llama.nvim)
 - [heliumsneakers/apollo.nvim](https://github.com/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/apollo.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/apollo.nvim)
 - [m1sh4k/http-llm-client.nvim](https://github.com/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/stars/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/last-commit/m1sh4k/http-llm-client.nvim) ![](https://img.shields.io/github/commit-activity/y/m1sh4k/http-llm-client.nvim)
+- [phush0/llama.nvim](https://github.com/phush0/llama.nvim) ![](https://img.shields.io/github/stars/phush0/llama.nvim) ![](https://img.shields.io/github/last-commit/phush0/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/phush0/llama.nvim)
 
 ### Ollama
 
@@ -559,6 +560,7 @@
 - [franco-ruggeri/codecompanion-spinner.nvim](https://github.com/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-spinner.nvim)
 - [franco-ruggeri/codecompanion-lualine.nvim](https://github.com/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-lualine.nvim)
 - [e2r2fx/codecompanion-fast-apply.nvim](https://github.com/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/stars/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/codecompanion-fast-apply.nvim)
+- [theStrangeAdventurer/ai_memory.nvim](https://github.com/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/stars/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/last-commit/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/commit-activity/y/theStrangeAdventurer/ai_memory.nvim)
 
 ### GitLab Guo
 
