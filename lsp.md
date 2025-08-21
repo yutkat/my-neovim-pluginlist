@@ -131,6 +131,7 @@
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) ![](https://img.shields.io/github/stars/oribarilan/lensline.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/lensline.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/lensline.nvim)
 - [coreyb-git/virtlines-delay.nvim](https://github.com/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/stars/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/virtlines-delay.nvim)
 
+
 ##### Diagnostics goto
 
 - [mizlan/delimited.nvim](https://github.com/mizlan/delimited.nvim) ![](https://img.shields.io/github/stars/mizlan/delimited.nvim) ![](https://img.shields.io/github/last-commit/mizlan/delimited.nvim) ![](https://img.shields.io/github/commit-activity/y/mizlan/delimited.nvim)

@@ -98,6 +98,7 @@
 ### Statusline component
 
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) ![](https://img.shields.io/github/stars/b0o/incline.nvim) ![](https://img.shields.io/github/last-commit/b0o/incline.nvim) ![](https://img.shields.io/github/commit-activity/y/b0o/incline.nvim)
+- [julien-me/milestone.nvim](https://github.com/julien-me/milestone.nvim) ![](https://img.shields.io/github/stars/julien-me/milestone.nvim) ![](https://img.shields.io/github/last-commit/julien-me/milestone.nvim) ![](https://img.shields.io/github/commit-activity/y/julien-me/milestone.nvim)
 - [erhickey/diagline-nvim](https://github.com/erhickey/diagline-nvim) ![](https://img.shields.io/github/stars/erhickey/diagline-nvim) ![](https://img.shields.io/github/last-commit/erhickey/diagline-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/diagline-nvim)
 - [oncomouse/czs.nvim](https://github.com/oncomouse/czs.nvim) ![](https://img.shields.io/github/stars/oncomouse/czs.nvim) ![](https://img.shields.io/github/last-commit/oncomouse/czs.nvim) ![](https://img.shields.io/github/commit-activity/y/oncomouse/czs.nvim)
 - [roobert/statusline-action-hints.nvim](https://github.com/roobert/statusline-action-hints.nvim) ![](https://img.shields.io/github/stars/roobert/statusline-action-hints.nvim) ![](https://img.shields.io/github/last-commit/roobert/statusline-action-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/roobert/statusline-action-hints.nvim)

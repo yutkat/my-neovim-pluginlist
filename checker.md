@@ -23,3 +23,4 @@
 ## checkhealth
 
 - [Davidyz/executable-checker.nvim](https://github.com/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/stars/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/executable-checker.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/executable-checker.nvim)
+- [Luiz-Filipe26/health-check-filter.nvim](https://github.com/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/stars/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/last-commit/Luiz-Filipe26/health-check-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/Luiz-Filipe26/health-check-filter.nvim)
