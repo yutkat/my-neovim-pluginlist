@@ -17,6 +17,7 @@
   - [OSC52](#osc52)
   - [System Clipboard](#system-clipboard)
     - [WSL clipboard](#wsl-clipboard)
+    - [Maccy](#maccy)
     - [Clipper](#clipper)
   - [Save](#save)
 - [Paste](#paste)
@@ -140,6 +141,10 @@
 #### WSL clipboard
 
 - [kenis1108/wslcwin.nvim](https://github.com/kenis1108/wslcwin.nvim) ![](https://img.shields.io/github/stars/kenis1108/wslcwin.nvim) ![](https://img.shields.io/github/last-commit/kenis1108/wslcwin.nvim) ![](https://img.shields.io/github/commit-activity/y/kenis1108/wslcwin.nvim)
+
+#### Maccy
+
+- [viligante8/maccy.nvim](https://github.com/viligante8/maccy.nvim) ![](https://img.shields.io/github/stars/viligante8/maccy.nvim) ![](https://img.shields.io/github/last-commit/viligante8/maccy.nvim) ![](https://img.shields.io/github/commit-activity/y/viligante8/maccy.nvim)
 
 #### Clipper
 

@@ -15,6 +15,7 @@
     - [auto close](#auto-close)
     - [auto reload](#auto-reload)
     - [access control](#access-control)
+    - [sort](#sort)
     - [path](#path)
     - [status](#status)
     - [oldfiles](#oldfiles)
@@ -252,6 +253,10 @@
 
 - [augustocdias/gatekeeper.nvim](https://github.com/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/stars/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/last-commit/augustocdias/gatekeeper.nvim) ![](https://img.shields.io/github/commit-activity/y/augustocdias/gatekeeper.nvim)
 - [sQVe/bufignore.nvim](https://github.com/sQVe/bufignore.nvim) ![](https://img.shields.io/github/stars/sQVe/bufignore.nvim) ![](https://img.shields.io/github/last-commit/sQVe/bufignore.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/bufignore.nvim)
+
+#### sort
+
+- [cosmas375/nvim-buffer-sorter](https://github.com/cosmas375/nvim-buffer-sorter) ![](https://img.shields.io/github/stars/cosmas375/nvim-buffer-sorter) ![](https://img.shields.io/github/last-commit/cosmas375/nvim-buffer-sorter) ![](https://img.shields.io/github/commit-activity/y/cosmas375/nvim-buffer-sorter)
 
 #### path
 

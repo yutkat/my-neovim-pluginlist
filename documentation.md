@@ -42,6 +42,7 @@
       - [TimeStamp](#timestamp)
     - [Code to Markdown](#code-to-markdown)
     - [AI writter](#ai-writter)
+    - [MyST](#myst)
   - [Fountain](#fountain)
   - [Query](#query)
     - [MDX](#mdx)
@@ -349,6 +350,10 @@
 
 - [Cunuduh/naiad.nvim](https://github.com/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/stars/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/last-commit/Cunuduh/naiad.nvim) ![](https://img.shields.io/github/commit-activity/y/Cunuduh/naiad.nvim)
 
+#### MyST
+
+- [QuantEcon/myst-markdown-tree-sitter.nvim](https://github.com/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/stars/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/last-commit/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/commit-activity/y/QuantEcon/myst-markdown-tree-sitter.nvim)
+
 ### Fountain
 
 - [00msjr/nvim-fountain](https://github.com/00msjr/nvim-fountain) ![](https://img.shields.io/github/stars/00msjr/nvim-fountain) ![](https://img.shields.io/github/last-commit/00msjr/nvim-fountain) ![](https://img.shields.io/github/commit-activity/y/00msjr/nvim-fountain)
@@ -541,6 +546,7 @@
 - [marnym/typst-watch.nvim](https://github.com/marnym/typst-watch.nvim) ![](https://img.shields.io/github/stars/marnym/typst-watch.nvim) ![](https://img.shields.io/github/last-commit/marnym/typst-watch.nvim) ![](https://img.shields.io/github/commit-activity/y/marnym/typst-watch.nvim)
 - [kpindur/typst-preview.nvim](https://github.com/kpindur/typst-preview.nvim) ![](https://img.shields.io/github/stars/kpindur/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/kpindur/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/kpindur/typst-preview.nvim)
 - [gl1tchc0d3r/typstwriter.nvim](https://github.com/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/stars/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/last-commit/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/gl1tchc0d3r/typstwriter.nvim)
+- [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/stars/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/al-kot/typst-preview.nvim)
 
 ### Textile
 
