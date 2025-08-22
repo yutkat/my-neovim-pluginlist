@@ -614,6 +614,7 @@
 - [nvimts/frontier.nvim](https://github.com/nvimts/frontier.nvim) ![](https://img.shields.io/github/stars/nvimts/frontier.nvim) ![](https://img.shields.io/github/last-commit/nvimts/frontier.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimts/frontier.nvim)
 - [androidStern/context-graph.nvim](https://github.com/androidStern/context-graph.nvim) ![](https://img.shields.io/github/stars/androidStern/context-graph.nvim) ![](https://img.shields.io/github/last-commit/androidStern/context-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/androidStern/context-graph.nvim)
 - [z0rzi/compose-ai-message.nvim](https://github.com/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/stars/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/compose-ai-message.nvim)
+- [HueGreywell/context-gen.nvim](https://github.com/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/stars/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/context-gen.nvim)
 
 ## LLM context
 

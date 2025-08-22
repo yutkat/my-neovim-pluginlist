@@ -327,6 +327,7 @@
 - [ForsakenNGS/netdeploy.nvim](https://github.com/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/stars/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/last-commit/ForsakenNGS/netdeploy.nvim) ![](https://img.shields.io/github/commit-activity/y/ForsakenNGS/netdeploy.nvim)
 - [LucasMiguel/nvim-sync-ftp](https://github.com/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/stars/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/last-commit/LucasMiguel/nvim-sync-ftp) ![](https://img.shields.io/github/commit-activity/y/LucasMiguel/nvim-sync-ftp)
 - [pl0xi/sftp.nvim](https://github.com/pl0xi/sftp.nvim) ![](https://img.shields.io/github/stars/pl0xi/sftp.nvim) ![](https://img.shields.io/github/last-commit/pl0xi/sftp.nvim) ![](https://img.shields.io/github/commit-activity/y/pl0xi/sftp.nvim)
+- [blowhunter/astra.nvim](https://github.com/blowhunter/astra.nvim) ![](https://img.shields.io/github/stars/blowhunter/astra.nvim) ![](https://img.shields.io/github/last-commit/blowhunter/astra.nvim) ![](https://img.shields.io/github/commit-activity/y/blowhunter/astra.nvim)
 
 #### rsync
 
