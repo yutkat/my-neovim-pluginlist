@@ -66,6 +66,7 @@
 - [erikbloodshed/cpp-tools.nvim](https://github.com/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/stars/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/erikbloodshed/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/erikbloodshed/cpp-tools.nvim)
 - [ankit02327/nvim-cpp-setup](https://github.com/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/stars/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/last-commit/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/commit-activity/y/ankit02327/nvim-cpp-setup)
 - [prerit714/suno.nvim](https://github.com/prerit714/suno.nvim) ![](https://img.shields.io/github/stars/prerit714/suno.nvim) ![](https://img.shields.io/github/last-commit/prerit714/suno.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/suno.nvim)
+- [mcc0001/fast-cppman.nvim](https://github.com/mcc0001/fast-cppman.nvim) ![](https://img.shields.io/github/stars/mcc0001/fast-cppman.nvim) ![](https://img.shields.io/github/last-commit/mcc0001/fast-cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/mcc0001/fast-cppman.nvim)
 
 ### Syntax
 

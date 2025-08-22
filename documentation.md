@@ -548,6 +548,7 @@
 - [gl1tchc0d3r/typstwriter.nvim](https://github.com/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/stars/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/last-commit/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/gl1tchc0d3r/typstwriter.nvim)
 - [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/stars/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/al-kot/typst-preview.nvim)
 - [J0schu/typstwatch.nvim](https://github.com/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/stars/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/last-commit/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/J0schu/typstwatch.nvim)
+- [J0schu/typstwatch.nvim](https://github.com/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/stars/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/last-commit/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/J0schu/typstwatch.nvim)
 
 ### Textile
 
