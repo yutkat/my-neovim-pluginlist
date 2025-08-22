@@ -236,7 +236,6 @@
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 - [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
 - [heyitscarl-dev/ferret.nvim](https://github.com/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/stars/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/last-commit/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/commit-activity/y/heyitscarl-dev/ferret.nvim)
-- [HueGreywell/context-gen.nvim](https://github.com/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/stars/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/context-gen.nvim)
 
 #### mods
 
