@@ -99,6 +99,7 @@
 - [UnaTried/colors.nvim](https://github.com/UnaTried/colors.nvim) ![](https://img.shields.io/github/stars/UnaTried/colors.nvim) ![](https://img.shields.io/github/last-commit/UnaTried/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/UnaTried/colors.nvim)
 - [Leonardo-Luz/showcolors.nvim](https://github.com/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/showcolors.nvim)
 - [Bishop-Fox/colorblocks.nvim](https://github.com/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/stars/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/last-commit/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/commit-activity/y/Bishop-Fox/colorblocks.nvim)
+- [ImmanuelHaffner/pigmentor.nvim](https://github.com/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/pigmentor.nvim)
 
 ### Color picker
 
