@@ -14,6 +14,7 @@
   - [Zeppelin](#zeppelin)
   - [Blog](#blog)
     - [Hugo](#hugo)
+    - [GitHub Pages](#github-pages)
   - [Google Keep](#google-keep)
   - [Typst](#typst)
   - [Dendron](#dendron)
@@ -255,6 +256,10 @@
 - [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
 - [onlyati/hugo.nvim](https://github.com/onlyati/hugo.nvim) ![](https://img.shields.io/github/stars/onlyati/hugo.nvim) ![](https://img.shields.io/github/last-commit/onlyati/hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/hugo.nvim)
 
+#### GitHub Pages
+
+- [nilszeilon/blog.nvim](https://github.com/nilszeilon/blog.nvim) ![](https://img.shields.io/github/stars/nilszeilon/blog.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/blog.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/blog.nvim)
+
 ### Google Keep
 
 ### Typst
@@ -358,7 +363,6 @@
 - [natefduncan/notes.nvim](https://github.com/natefduncan/notes.nvim) ![](https://img.shields.io/github/stars/natefduncan/notes.nvim) ![](https://img.shields.io/github/last-commit/natefduncan/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/natefduncan/notes.nvim)
 - [chrishannah/blogutils.nvim](https://github.com/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/stars/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/blogutils.nvim)
 - [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim) ![](https://img.shields.io/github/stars/genzyy/weaver.nvim) ![](https://img.shields.io/github/last-commit/genzyy/weaver.nvim) ![](https://img.shields.io/github/commit-activity/y/genzyy/weaver.nvim)
-- [mvargasmoran/collector.nvim](https://github.com/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/stars/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/last-commit/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/commit-activity/y/mvargasmoran/collector.nvim)
 - [sQVe/notebox.nvim](https://github.com/sQVe/notebox.nvim) ![](https://img.shields.io/github/stars/sQVe/notebox.nvim) ![](https://img.shields.io/github/last-commit/sQVe/notebox.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/notebox.nvim)
 - [EnzoJ0se/quick-notes.nvim](https://github.com/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/stars/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/EnzoJ0se/quick-notes.nvim)
 - [rguruprakash/simple-note.nvim](https://github.com/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/stars/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/last-commit/rguruprakash/simple-note.nvim) ![](https://img.shields.io/github/commit-activity/y/rguruprakash/simple-note.nvim)
@@ -497,5 +501,4 @@
 - [JonLD/jot.nvim](https://github.com/JonLD/jot.nvim) ![](https://img.shields.io/github/stars/JonLD/jot.nvim) ![](https://img.shields.io/github/last-commit/JonLD/jot.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/jot.nvim)
 - [Samar-exe/nvim-notes](https://github.com/Samar-exe/nvim-notes) ![](https://img.shields.io/github/stars/Samar-exe/nvim-notes) ![](https://img.shields.io/github/last-commit/Samar-exe/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Samar-exe/nvim-notes)
 - [HubertHo/memo.nvim](https://github.com/HubertHo/memo.nvim) ![](https://img.shields.io/github/stars/HubertHo/memo.nvim) ![](https://img.shields.io/github/last-commit/HubertHo/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertHo/memo.nvim)
-- [nilszeilon/blog.nvim](https://github.com/nilszeilon/blog.nvim) ![](https://img.shields.io/github/stars/nilszeilon/blog.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/blog.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/blog.nvim)
 - [0pama/tasky.nvim](https://github.com/0pama/tasky.nvim) ![](https://img.shields.io/github/stars/0pama/tasky.nvim) ![](https://img.shields.io/github/last-commit/0pama/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/0pama/tasky.nvim)

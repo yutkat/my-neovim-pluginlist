@@ -34,6 +34,7 @@
     - [Debug](#debug)
     - [LSP Info](#lsp-info)
   - [Local LSP Config](#local-lsp-config)
+  - [Remote LSP](#remote-lsp)
   - [restart](#restart)
 - [Command](#command)
   - [Disable/Enable](#disableenable)
@@ -309,7 +310,6 @@
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
 - [mrfolksy/nvim-json-conf](https://github.com/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/stars/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/last-commit/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/commit-activity/y/mrfolksy/nvim-json-conf)
 - [amv-dev/nvim-lspsettings](https://github.com/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/stars/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/last-commit/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/commit-activity/y/amv-dev/nvim-lspsettings)
-- [segoon/yamake-python-lspconfig.nvim](https://github.com/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/stars/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yamake-python-lspconfig.nvim)
 
 ### Remote LSP
 

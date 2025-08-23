@@ -125,6 +125,7 @@
 - [adamcik/python-lspconfig.nvim](https://github.com/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/stars/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/adamcik/python-lspconfig.nvim)
 - [remcovaes/nvim-python-lsp-imports](https://github.com/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/stars/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/last-commit/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/commit-activity/y/remcovaes/nvim-python-lsp-imports)
 - [joCaldwell/neovim-docker-python-interpreter.nvim](https://github.com/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/stars/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/last-commit/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/commit-activity/y/joCaldwell/neovim-docker-python-interpreter.nvim)
+- [segoon/yamake-python-lspconfig.nvim](https://github.com/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/stars/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yamake-python-lspconfig.nvim)
 
 ### inlayhint
 

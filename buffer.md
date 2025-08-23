@@ -87,6 +87,7 @@
 - [emcassi/streamline.nvim](https://github.com/emcassi/streamline.nvim) ![](https://img.shields.io/github/stars/emcassi/streamline.nvim) ![](https://img.shields.io/github/last-commit/emcassi/streamline.nvim) ![](https://img.shields.io/github/commit-activity/y/emcassi/streamline.nvim)
 - [Old-Farmer/preview-buffer.nvim](https://github.com/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/stars/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/last-commit/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/Old-Farmer/preview-buffer.nvim)
 - [leath-dub/bufs.nvim](https://github.com/leath-dub/bufs.nvim) ![](https://img.shields.io/github/stars/leath-dub/bufs.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/bufs.nvim)
+- [smellydelli/prowl.nvim](https://github.com/smellydelli/prowl.nvim) ![](https://img.shields.io/github/stars/smellydelli/prowl.nvim) ![](https://img.shields.io/github/last-commit/smellydelli/prowl.nvim) ![](https://img.shields.io/github/commit-activity/y/smellydelli/prowl.nvim)
 
 ### Other Buffer Switcher
 
