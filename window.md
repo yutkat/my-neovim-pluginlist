@@ -111,6 +111,7 @@
 - [CharlesBClarke/fibonacci-splits.nvim](https://github.com/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/stars/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/last-commit/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesBClarke/fibonacci-splits.nvim)
 - [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
 - [hiattp/splitwise.nvim](https://github.com/hiattp/splitwise.nvim) ![](https://img.shields.io/github/stars/hiattp/splitwise.nvim) ![](https://img.shields.io/github/last-commit/hiattp/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/hiattp/splitwise.nvim)
+- [sanko00098797/splitwise.nvim](https://github.com/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/stars/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/last-commit/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/sanko00098797/splitwise.nvim)
 
 #### Popup
 
@@ -135,6 +136,7 @@
 - [maarutan/splitResizer.nvim](https://github.com/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/stars/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/last-commit/maarutan/splitResizer.nvim) ![](https://img.shields.io/github/commit-activity/y/maarutan/splitResizer.nvim)
 - [Kaiser-Yang/win-resizer.nvim](https://github.com/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/win-resizer.nvim)
 - [ian-howell/ripple.nvim](https://github.com/ian-howell/ripple.nvim) ![](https://img.shields.io/github/stars/ian-howell/ripple.nvim) ![](https://img.shields.io/github/last-commit/ian-howell/ripple.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-howell/ripple.nvim)
+- [drop-stones/smart-splits-wsl2.nvim](https://github.com/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/stars/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/smart-splits-wsl2.nvim)
 
 #### maximize
 

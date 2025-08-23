@@ -27,6 +27,7 @@
 - [lululau/telescope-autojump.nvim](https://github.com/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/stars/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/last-commit/lululau/telescope-autojump.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/telescope-autojump.nvim)
 - [pinbraerts/swipe.nvim](https://github.com/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/stars/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/last-commit/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pinbraerts/swipe.nvim)
 - [krmmzs/jump-beacon.nvim](https://github.com/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/stars/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/jump-beacon.nvim)
+- [smellydelli/prowl.nvim](https://github.com/smellydelli/prowl.nvim) ![](https://img.shields.io/github/stars/smellydelli/prowl.nvim) ![](https://img.shields.io/github/last-commit/smellydelli/prowl.nvim) ![](https://img.shields.io/github/commit-activity/y/smellydelli/prowl.nvim)
 
 ### Error
 
@@ -101,5 +102,6 @@
 - [srcrip/mre.nvim](https://github.com/srcrip/mre.nvim) ![](https://img.shields.io/github/stars/srcrip/mre.nvim) ![](https://img.shields.io/github/last-commit/srcrip/mre.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/mre.nvim)
 - [dawsers/file-history.nvim](https://github.com/dawsers/file-history.nvim) ![](https://img.shields.io/github/stars/dawsers/file-history.nvim) ![](https://img.shields.io/github/last-commit/dawsers/file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/file-history.nvim)
 - [nxhung2304/lastplace.nvim](https://github.com/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/stars/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/lastplace.nvim)
+- [glacials/last-look.nvim](https://github.com/glacials/last-look.nvim) ![](https://img.shields.io/github/stars/glacials/last-look.nvim) ![](https://img.shields.io/github/last-commit/glacials/last-look.nvim) ![](https://img.shields.io/github/commit-activity/y/glacials/last-look.nvim)
 
 ### Cursor Position History

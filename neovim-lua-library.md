@@ -110,6 +110,7 @@
 - [nvim-neotest/nvim-nio](https://github.com/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/stars/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/last-commit/nvim-neotest/nvim-nio) ![](https://img.shields.io/github/commit-activity/y/nvim-neotest/nvim-nio)
 - [izelnakri/callback.nvim](https://github.com/izelnakri/callback.nvim) ![](https://img.shields.io/github/stars/izelnakri/callback.nvim) ![](https://img.shields.io/github/last-commit/izelnakri/callback.nvim) ![](https://img.shields.io/github/commit-activity/y/izelnakri/callback.nvim)
 - [MisanthropicBit/task.nvim](https://github.com/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/task.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/task.nvim)
+- [MiguelR90/uv.nvim](https://github.com/MiguelR90/uv.nvim) ![](https://img.shields.io/github/stars/MiguelR90/uv.nvim) ![](https://img.shields.io/github/last-commit/MiguelR90/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/MiguelR90/uv.nvim)
 
 ## Thread
 
