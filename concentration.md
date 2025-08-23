@@ -71,6 +71,7 @@
 - [DannDot/nvim-timetracker](https://github.com/DannDot/nvim-timetracker) ![](https://img.shields.io/github/stars/DannDot/nvim-timetracker) ![](https://img.shields.io/github/last-commit/DannDot/nvim-timetracker) ![](https://img.shields.io/github/commit-activity/y/DannDot/nvim-timetracker)
 - [demonsjostle/timer.nvim](https://github.com/demonsjostle/timer.nvim) ![](https://img.shields.io/github/stars/demonsjostle/timer.nvim) ![](https://img.shields.io/github/last-commit/demonsjostle/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/demonsjostle/timer.nvim)
 - [sdavisde/nvim-task-timer](https://github.com/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/stars/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/last-commit/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/commit-activity/y/sdavisde/nvim-task-timer)
+- [lax-ram-swe/nvim-line-timer](https://github.com/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/stars/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/last-commit/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/commit-activity/y/lax-ram-swe/nvim-line-timer)
 
 ## Do Not Disturb
 

@@ -13,6 +13,7 @@
   - [Typing](#typing)
   - [FiveM](#fivem)
   - [World of Warcraft](#world-of-warcraft)
+  - [MTG](#mtg)
 
 <!-- tocstop -->
 
@@ -59,7 +60,6 @@
 
 ### Chess
 
-
 ### Mine Sweeper
 
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
@@ -95,3 +95,7 @@
 ### World of Warcraft
 
 - [Tyrannican/warcraft-api.nvim](https://github.com/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/stars/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/last-commit/Tyrannican/warcraft-api.nvim) ![](https://img.shields.io/github/commit-activity/y/Tyrannican/warcraft-api.nvim)
+
+### MTG
+
+- [mvargasmoran/collector.nvim](https://github.com/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/stars/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/last-commit/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/commit-activity/y/mvargasmoran/collector.nvim)

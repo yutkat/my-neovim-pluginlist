@@ -14,6 +14,7 @@
   - [Zeppelin](#zeppelin)
   - [Blog](#blog)
     - [Hugo](#hugo)
+    - [GitHub Pages](#github-pages)
   - [Google Keep](#google-keep)
   - [Typst](#typst)
   - [Dendron](#dendron)
@@ -254,6 +255,10 @@
 
 - [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
 - [onlyati/hugo.nvim](https://github.com/onlyati/hugo.nvim) ![](https://img.shields.io/github/stars/onlyati/hugo.nvim) ![](https://img.shields.io/github/last-commit/onlyati/hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/hugo.nvim)
+
+#### GitHub Pages
+
+- [nilszeilon/blog.nvim](https://github.com/nilszeilon/blog.nvim) ![](https://img.shields.io/github/stars/nilszeilon/blog.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/blog.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/blog.nvim)
 
 ### Google Keep
 

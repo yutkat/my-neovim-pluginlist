@@ -34,6 +34,7 @@
     - [Debug](#debug)
     - [LSP Info](#lsp-info)
   - [Local LSP Config](#local-lsp-config)
+  - [Remote LSP](#remote-lsp)
   - [restart](#restart)
 - [Command](#command)
   - [Disable/Enable](#disableenable)

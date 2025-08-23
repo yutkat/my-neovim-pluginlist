@@ -279,6 +279,7 @@
 - [tronikelis/telescope-git-diff-stat.nvim](https://github.com/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/stars/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/telescope-git-diff-stat.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/telescope-git-diff-stat.nvim)
 - [prostakm/git-diff-review.nvim](https://github.com/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/stars/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/last-commit/prostakm/git-diff-review.nvim) ![](https://img.shields.io/github/commit-activity/y/prostakm/git-diff-review.nvim)
 - [hushiooo/pareil.nvim](https://github.com/hushiooo/pareil.nvim) ![](https://img.shields.io/github/stars/hushiooo/pareil.nvim) ![](https://img.shields.io/github/last-commit/hushiooo/pareil.nvim) ![](https://img.shields.io/github/commit-activity/y/hushiooo/pareil.nvim)
+- [claby2/codeview.nvim](https://github.com/claby2/codeview.nvim) ![](https://img.shields.io/github/stars/claby2/codeview.nvim) ![](https://img.shields.io/github/last-commit/claby2/codeview.nvim) ![](https://img.shields.io/github/commit-activity/y/claby2/codeview.nvim)
 
 #### image diff
 

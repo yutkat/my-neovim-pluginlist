@@ -125,6 +125,7 @@
 - [adamcik/python-lspconfig.nvim](https://github.com/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/stars/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/adamcik/python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/adamcik/python-lspconfig.nvim)
 - [remcovaes/nvim-python-lsp-imports](https://github.com/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/stars/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/last-commit/remcovaes/nvim-python-lsp-imports) ![](https://img.shields.io/github/commit-activity/y/remcovaes/nvim-python-lsp-imports)
 - [joCaldwell/neovim-docker-python-interpreter.nvim](https://github.com/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/stars/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/last-commit/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/commit-activity/y/joCaldwell/neovim-docker-python-interpreter.nvim)
+- [segoon/yamake-python-lspconfig.nvim](https://github.com/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/stars/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yamake-python-lspconfig.nvim)
 
 ### inlayhint
 
@@ -187,6 +188,7 @@
 
 - [benomahony/uv.nvim](https://github.com/benomahony/uv.nvim) ![](https://img.shields.io/github/stars/benomahony/uv.nvim) ![](https://img.shields.io/github/last-commit/benomahony/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/uv.nvim)
 - [Marco-Christiani/uv-venv.nvim](https://github.com/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/stars/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/last-commit/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/commit-activity/y/Marco-Christiani/uv-venv.nvim)
+- [MiguelR90/uv.nvim](https://github.com/MiguelR90/uv.nvim) ![](https://img.shields.io/github/stars/MiguelR90/uv.nvim) ![](https://img.shields.io/github/last-commit/MiguelR90/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/MiguelR90/uv.nvim)
 
 ### Profiler
 
