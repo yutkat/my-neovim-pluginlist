@@ -86,6 +86,7 @@
 - [y3owk1n/dotmd.nvim](https://github.com/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/stars/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/dotmd.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/dotmd.nvim)
 - [MistbornOne/better-tasks.nvim](https://github.com/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/stars/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/better-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/better-tasks.nvim)
 - [xpcoffee/nvim-markdown-notes](https://github.com/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-notes)
+- [notedownorg/notedown.nvim](https://github.com/notedownorg/notedown.nvim) ![](https://img.shields.io/github/stars/notedownorg/notedown.nvim) ![](https://img.shields.io/github/last-commit/notedownorg/notedown.nvim) ![](https://img.shields.io/github/commit-activity/y/notedownorg/notedown.nvim)
 
 ### ToDo
 
