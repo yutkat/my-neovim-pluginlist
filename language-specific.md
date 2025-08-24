@@ -693,6 +693,7 @@
 #### Beancount
 
 - [crispgm/cmp-beancount](https://github.com/crispgm/cmp-beancount) ![](https://img.shields.io/github/stars/crispgm/cmp-beancount) ![](https://img.shields.io/github/last-commit/crispgm/cmp-beancount) ![](https://img.shields.io/github/commit-activity/y/crispgm/cmp-beancount)
+- [hxueh/beancount.nvim](https://github.com/hxueh/beancount.nvim) ![](https://img.shields.io/github/stars/hxueh/beancount.nvim) ![](https://img.shields.io/github/last-commit/hxueh/beancount.nvim) ![](https://img.shields.io/github/commit-activity/y/hxueh/beancount.nvim)
 
 #### incc
 

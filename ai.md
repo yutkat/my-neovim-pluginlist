@@ -347,7 +347,7 @@
 - [qtnx/multiclaudecode.nvim](https://github.com/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/stars/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/last-commit/qtnx/multiclaudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/qtnx/multiclaudecode.nvim)
 - [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
 - [SouhailBlmn/claude-code.nvim](https://github.com/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/stars/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/last-commit/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/SouhailBlmn/claude-code.nvim)
-- [kylesnowschwartz/claude-code-tui.nvim](https://github.com/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/claude-code-tui.nvim)
+ - [kylesnowschwartz/claude-code-tui.nvim](https://github.com/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/claude-code-tui.nvim)
 
 ### Amazon Q
 
@@ -631,6 +631,7 @@
 - [thatguyinabeanie/todo-mcp.nvim](https://github.com/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/stars/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/last-commit/thatguyinabeanie/todo-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/thatguyinabeanie/todo-mcp.nvim)
 - [guill/mcpdap.nvim](https://github.com/guill/mcpdap.nvim) ![](https://img.shields.io/github/stars/guill/mcpdap.nvim) ![](https://img.shields.io/github/last-commit/guill/mcpdap.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcpdap.nvim)
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) ![](https://img.shields.io/github/stars/linw1995/nvim-mcp) ![](https://img.shields.io/github/last-commit/linw1995/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-mcp)
+ - [rhnvrm/nvim-claudecode-mcp](https://github.com/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/stars/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/last-commit/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/commit-activity/y/rhnvrm/nvim-claudecode-mcp)
 
 ## ignore
 

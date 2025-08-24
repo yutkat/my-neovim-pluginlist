@@ -28,6 +28,7 @@
 - [ubuygold/nvim-translator](https://github.com/ubuygold/nvim-translator) ![](https://img.shields.io/github/stars/ubuygold/nvim-translator) ![](https://img.shields.io/github/last-commit/ubuygold/nvim-translator) ![](https://img.shields.io/github/commit-activity/y/ubuygold/nvim-translator)
 - [Lingshinx/trans-hover.nvim](https://github.com/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/stars/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/last-commit/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingshinx/trans-hover.nvim)
 - [RunnyC/translator.nvim](https://github.com/RunnyC/translator.nvim) ![](https://img.shields.io/github/stars/RunnyC/translator.nvim) ![](https://img.shields.io/github/last-commit/RunnyC/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/RunnyC/translator.nvim)
+- [cxwx/argosTrans.nvim](https://github.com/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/stars/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/last-commit/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/argosTrans.nvim)
 
 ## i18n
 
