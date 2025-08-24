@@ -64,6 +64,7 @@
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
 - [pxwg/sidenote.nvim](https://github.com/pxwg/sidenote.nvim) ![](https://img.shields.io/github/stars/pxwg/sidenote.nvim) ![](https://img.shields.io/github/last-commit/pxwg/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/sidenote.nvim)
 - [jameswolensky/marker-groups-dev.nvim](https://github.com/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/stars/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/last-commit/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/jameswolensky/marker-groups-dev.nvim)
+- [IstiCusi/docpair.nvim](https://github.com/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/stars/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/last-commit/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/commit-activity/y/IstiCusi/docpair.nvim)
 
 ### hashtag
 
