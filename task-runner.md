@@ -142,7 +142,6 @@
 - [devEducaua/crun.nvim](https://github.com/devEducaua/crun.nvim) ![](https://img.shields.io/github/stars/devEducaua/crun.nvim) ![](https://img.shields.io/github/last-commit/devEducaua/crun.nvim) ![](https://img.shields.io/github/commit-activity/y/devEducaua/crun.nvim)
 - [jmattaa/fire.nvim](https://github.com/jmattaa/fire.nvim) ![](https://img.shields.io/github/stars/jmattaa/fire.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/fire.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/fire.nvim)
 - [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
-- [eumis/runb.nvim](https://github.com/eumis/runb.nvim) ![](https://img.shields.io/github/stars/eumis/runb.nvim) ![](https://img.shields.io/github/last-commit/eumis/runb.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/runb.nvim)
 
 #### Shell
 

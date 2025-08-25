@@ -51,6 +51,7 @@
 - [malev/hola.nvim](https://github.com/malev/hola.nvim) ![](https://img.shields.io/github/stars/malev/hola.nvim) ![](https://img.shields.io/github/last-commit/malev/hola.nvim) ![](https://img.shields.io/github/commit-activity/y/malev/hola.nvim)
 - [marco-souza/rest.nvim](https://github.com/marco-souza/rest.nvim) ![](https://img.shields.io/github/stars/marco-souza/rest.nvim) ![](https://img.shields.io/github/last-commit/marco-souza/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/marco-souza/rest.nvim)
 - [grqphical/rest.nvim](https://github.com/grqphical/rest.nvim) ![](https://img.shields.io/github/stars/grqphical/rest.nvim) ![](https://img.shields.io/github/last-commit/grqphical/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/grqphical/rest.nvim)
+- [eumis/runb.nvim](https://github.com/eumis/runb.nvim) ![](https://img.shields.io/github/stars/eumis/runb.nvim) ![](https://img.shields.io/github/last-commit/eumis/runb.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/runb.nvim)
 
 #### .http / .rest file
 

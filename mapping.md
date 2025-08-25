@@ -151,7 +151,6 @@
 
 - [TheBlob42/houdini.nvim](https://github.com/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/stars/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/last-commit/TheBlob42/houdini.nvim) ![](https://img.shields.io/github/commit-activity/y/TheBlob42/houdini.nvim)
 - [fuyu510/escape.nvim](https://github.com/fuyu510/escape.nvim) ![](https://img.shields.io/github/stars/fuyu510/escape.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/escape.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/escape.nvim)
-- [sonictim/escape-hatch.nvim](https://github.com/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/stars/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/last-commit/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/escape-hatch.nvim)
 
 #### CapsLock
 
