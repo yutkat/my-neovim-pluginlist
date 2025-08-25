@@ -75,6 +75,7 @@
 - [tigh-latte/coke.nvim](https://github.com/tigh-latte/coke.nvim) ![](https://img.shields.io/github/stars/tigh-latte/coke.nvim) ![](https://img.shields.io/github/last-commit/tigh-latte/coke.nvim) ![](https://img.shields.io/github/commit-activity/y/tigh-latte/coke.nvim)
 - [aaronshahriari/express_line.nvim](https://github.com/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/express_line.nvim)
 - [LuxVim/nvim-luxline](https://github.com/LuxVim/nvim-luxline) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxline) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxline) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxline)
+- [cpplain/flexoki-lualine.nvim](https://github.com/cpplain/flexoki-lualine.nvim) ![](https://img.shields.io/github/stars/cpplain/flexoki-lualine.nvim) ![](https://img.shields.io/github/last-commit/cpplain/flexoki-lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/cpplain/flexoki-lualine.nvim)
 
 ### Simple
 

@@ -148,6 +148,7 @@
 - [Mauritz8/gitstatus.nvim](https://github.com/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/stars/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/last-commit/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/Mauritz8/gitstatus.nvim)
 - [aaaaargZombies/telescope-autolaunch.nvim](https://github.com/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/telescope-autolaunch.nvim)
 - [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
+- [cpplain/flexoki-gitsigns.nvim](https://github.com/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/stars/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/last-commit/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/cpplain/flexoki-gitsigns.nvim)
 
 ### git add
 

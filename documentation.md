@@ -101,6 +101,7 @@
 - [sergiza/mdutils.nvim](https://github.com/sergiza/mdutils.nvim) ![](https://img.shields.io/github/stars/sergiza/mdutils.nvim) ![](https://img.shields.io/github/last-commit/sergiza/mdutils.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiza/mdutils.nvim)
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/stars/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/simplemarkdown.nvim)
 - [jeangiraldoo/markup.nvim](https://github.com/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/markup.nvim)
+- [erel213/markdown-writer.nvim](https://github.com/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/stars/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/last-commit/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/erel213/markdown-writer.nvim)
 
 #### Markdown link
 
