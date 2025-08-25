@@ -133,6 +133,7 @@
 ### git status
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/stars/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/gitsigns.nvim)
+  - [cpplain/flexoki-gitsigns.nvim](https://github.com/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/stars/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/last-commit/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/cpplain/flexoki-gitsigns.nvim)
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/stars/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/last-commit/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/commit-activity/y/tanvirtin/vgit.nvim)
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) ![](https://img.shields.io/github/stars/rmagatti/igs.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/igs.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/igs.nvim)
 - [dsummersl/nvim-sluice](https://github.com/dsummersl/nvim-sluice) ![](https://img.shields.io/github/stars/dsummersl/nvim-sluice) ![](https://img.shields.io/github/last-commit/dsummersl/nvim-sluice) ![](https://img.shields.io/github/commit-activity/y/dsummersl/nvim-sluice)

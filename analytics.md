@@ -92,6 +92,7 @@
 
 - [icholy/keylog.nvim](https://github.com/icholy/keylog.nvim) ![](https://img.shields.io/github/stars/icholy/keylog.nvim) ![](https://img.shields.io/github/last-commit/icholy/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/icholy/keylog.nvim)
 - [glottologist/keylog.nvim](https://github.com/glottologist/keylog.nvim) ![](https://img.shields.io/github/stars/glottologist/keylog.nvim) ![](https://img.shields.io/github/last-commit/glottologist/keylog.nvim) ![](https://img.shields.io/github/commit-activity/y/glottologist/keylog.nvim)
+- [jeremytregunna/contextdb.nvim](https://github.com/jeremytregunna/contextdb.nvim) ![](https://img.shields.io/github/stars/jeremytregunna/contextdb.nvim) ![](https://img.shields.io/github/last-commit/jeremytregunna/contextdb.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremytregunna/contextdb.nvim)
 
 ### Clockify
 
