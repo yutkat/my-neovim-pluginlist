@@ -103,6 +103,7 @@
     - [Tcl/Tk](#tcltk)
     - [Moonbit](#moonbit)
     - [MCNP](#mcnp)
+    - [LAMMPS](#lammps)
     - [Clingo](#clingo)
     - [Verse](#verse)
     - [OZ](#oz)
@@ -612,6 +613,10 @@
 #### MCNP
 
 - [sodium-hydroxide/nvim-mcnp](https://github.com/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/stars/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/last-commit/sodium-hydroxide/nvim-mcnp) ![](https://img.shields.io/github/commit-activity/y/sodium-hydroxide/nvim-mcnp)
+
+#### LAMMPS
+
+- [c7im/nvim-lammps-syntax](https://github.com/c7im/nvim-lammps-syntax) ![](https://img.shields.io/github/stars/c7im/nvim-lammps-syntax) ![](https://img.shields.io/github/last-commit/c7im/nvim-lammps-syntax) ![](https://img.shields.io/github/commit-activity/y/c7im/nvim-lammps-syntax)
 
 #### Clingo
 

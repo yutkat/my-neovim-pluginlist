@@ -49,6 +49,7 @@
 - [bassamsdata/namu.nvim](https://github.com/bassamsdata/namu.nvim) ![](https://img.shields.io/github/stars/bassamsdata/namu.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/namu.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/namu.nvim)
 - [2KAbhishek/pickme.nvim](https://github.com/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/pickme.nvim)
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fff.nvim)
+- [elanmed/ff.nvim](https://github.com/elanmed/ff.nvim) ![](https://img.shields.io/github/stars/elanmed/ff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/ff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/ff.nvim)
 
 ### Telescope Extensions
 

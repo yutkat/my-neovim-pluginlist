@@ -324,6 +324,7 @@
 - [aaron-p1/virt-notes.nvim](https://github.com/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/stars/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/virt-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/virt-notes.nvim)
 - [asmorris/line_notes.nvim](https://github.com/asmorris/line_notes.nvim) ![](https://img.shields.io/github/stars/asmorris/line_notes.nvim) ![](https://img.shields.io/github/last-commit/asmorris/line_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/asmorris/line_notes.nvim)
 - [vvilhelmsen/ghostnotes.nvim](https://github.com/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/ghostnotes.nvim)
+- [daniprol/sidenote.nvim](https://github.com/daniprol/sidenote.nvim) ![](https://img.shields.io/github/stars/daniprol/sidenote.nvim) ![](https://img.shields.io/github/last-commit/daniprol/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/daniprol/sidenote.nvim)
 
 ### Anki
 
