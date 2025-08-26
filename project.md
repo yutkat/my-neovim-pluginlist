@@ -61,6 +61,7 @@
 - [Zbolt50/projection.nvim](https://github.com/Zbolt50/projection.nvim) ![](https://img.shields.io/github/stars/Zbolt50/projection.nvim) ![](https://img.shields.io/github/last-commit/Zbolt50/projection.nvim) ![](https://img.shields.io/github/commit-activity/y/Zbolt50/projection.nvim)
 - [arne-vl/project-picker.nvim](https://github.com/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/stars/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/project-picker.nvim)
 - [ebaldebo/project-finder.nvim](https://github.com/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/stars/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/last-commit/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/ebaldebo/project-finder.nvim)
+- [lopesivan/telescope-project.nvim](https://github.com/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/stars/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/lopesivan/telescope-project.nvim)
 
 ### Project Root Detector
 
