@@ -7,6 +7,7 @@
   - [Cursor Position](#cursor-position)
   - [Create directory](#create-directory)
 - [Backup](#backup)
+  - [Snapshot](#snapshot)
 - [Swapfile](#swapfile)
 
 <!-- tocstop -->
@@ -47,6 +48,10 @@
 - [Notaduck/auto-create-dirs.nvim](https://github.com/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/stars/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/last-commit/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/commit-activity/y/Notaduck/auto-create-dirs.nvim)
 
 ## Backup
+
+### Snapshot
+
+- [theawakener0/TraceBack](https://github.com/theawakener0/TraceBack) ![](https://img.shields.io/github/stars/theawakener0/TraceBack) ![](https://img.shields.io/github/last-commit/theawakener0/TraceBack) ![](https://img.shields.io/github/commit-activity/y/theawakener0/TraceBack)
 
 ## Swapfile
 

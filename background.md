@@ -21,6 +21,7 @@
 - [amlanjlahkar/cthru.nvim](https://github.com/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/cthru.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/cthru.nvim)
 - [mattrussell36/os-theme-detection.nvim](https://github.com/mattrussell36/os-theme-detection.nvim) ![](https://img.shields.io/github/stars/mattrussell36/os-theme-detection.nvim) ![](https://img.shields.io/github/last-commit/mattrussell36/os-theme-detection.nvim) ![](https://img.shields.io/github/commit-activity/y/mattrussell36/os-theme-detection.nvim)
 - [zacharyFerretti/nvim-invert](https://github.com/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/stars/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/last-commit/zacharyFerretti/nvim-invert) ![](https://img.shields.io/github/commit-activity/y/zacharyFerretti/nvim-invert)
+- [Klsci/glass.nvim](https://github.com/Klsci/glass.nvim) ![](https://img.shields.io/github/stars/Klsci/glass.nvim) ![](https://img.shields.io/github/last-commit/Klsci/glass.nvim) ![](https://img.shields.io/github/commit-activity/y/Klsci/glass.nvim)
 
 ### Switch theme
 
