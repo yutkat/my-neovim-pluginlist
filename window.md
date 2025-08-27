@@ -55,6 +55,7 @@
 - [mkajsjo/windowcolumns.nvim](https://github.com/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/stars/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/last-commit/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/commit-activity/y/mkajsjo/windowcolumns.nvim)
 - [SpaceShaman/window-shuffler.nvim](https://github.com/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/stars/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/last-commit/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/commit-activity/y/SpaceShaman/window-shuffler.nvim)
 - [fabiomcosta/sanfona.nvim](https://github.com/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/stars/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/last-commit/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/commit-activity/y/fabiomcosta/sanfona.nvim)
+- [veigaribo/winhist.nvim](https://github.com/veigaribo/winhist.nvim) ![](https://img.shields.io/github/stars/veigaribo/winhist.nvim) ![](https://img.shields.io/github/last-commit/veigaribo/winhist.nvim) ![](https://img.shields.io/github/commit-activity/y/veigaribo/winhist.nvim)
 
 #### move
 
@@ -121,6 +122,7 @@
 - [zimeg/newsflash.nvim](https://github.com/zimeg/newsflash.nvim) ![](https://img.shields.io/github/stars/zimeg/newsflash.nvim) ![](https://img.shields.io/github/last-commit/zimeg/newsflash.nvim) ![](https://img.shields.io/github/commit-activity/y/zimeg/newsflash.nvim)
 - [phanen/mterm.nvim](https://github.com/phanen/mterm.nvim) ![](https://img.shields.io/github/stars/phanen/mterm.nvim) ![](https://img.shields.io/github/last-commit/phanen/mterm.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mterm.nvim)
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/stars/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/last-commit/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/commit-activity/y/WilliamHsieh/overlook.nvim)
+- [mathematicalninja/floating.nvim](https://github.com/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/stars/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/last-commit/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/commit-activity/y/mathematicalninja/floating.nvim)
 
 #### resize
 

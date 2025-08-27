@@ -66,6 +66,7 @@
 - [nvimdev/lspsaga.nvim(symbols)](https://github.com/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/stars/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/lspsaga.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/lspsaga.nvim)
 - [Bekaboo/dropbar.nvim](https://github.com/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/stars/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/dropbar.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/dropbar.nvim)
 - [nikola-vukicevic/breadcrumbs.nvim](https://github.com/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/stars/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/last-commit/nikola-vukicevic/breadcrumbs.nvim) ![](https://img.shields.io/github/commit-activity/y/nikola-vukicevic/breadcrumbs.nvim)
+- [JavierParra/nvim-breadcrumbs](https://github.com/JavierParra/nvim-breadcrumbs) ![](https://img.shields.io/github/stars/JavierParra/nvim-breadcrumbs) ![](https://img.shields.io/github/last-commit/JavierParra/nvim-breadcrumbs) ![](https://img.shields.io/github/commit-activity/y/JavierParra/nvim-breadcrumbs)
 
 ## Variable
 
