@@ -55,6 +55,7 @@
 - [mkajsjo/windowcolumns.nvim](https://github.com/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/stars/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/last-commit/mkajsjo/windowcolumns.nvim) ![](https://img.shields.io/github/commit-activity/y/mkajsjo/windowcolumns.nvim)
 - [SpaceShaman/window-shuffler.nvim](https://github.com/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/stars/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/last-commit/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/commit-activity/y/SpaceShaman/window-shuffler.nvim)
 - [fabiomcosta/sanfona.nvim](https://github.com/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/stars/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/last-commit/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/commit-activity/y/fabiomcosta/sanfona.nvim)
+- [veigaribo/winhist.nvim](https://github.com/veigaribo/winhist.nvim) ![](https://img.shields.io/github/stars/veigaribo/winhist.nvim) ![](https://img.shields.io/github/last-commit/veigaribo/winhist.nvim) ![](https://img.shields.io/github/commit-activity/y/veigaribo/winhist.nvim)
 
 #### move
 
@@ -158,6 +159,7 @@
 - [jceb/blinds.nvim](https://github.com/jceb/blinds.nvim) ![](https://img.shields.io/github/stars/jceb/blinds.nvim) ![](https://img.shields.io/github/last-commit/jceb/blinds.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/blinds.nvim)
 - [OfferLifted/inactive-dimmer.nvim](https://github.com/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/stars/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/inactive-dimmer.nvim)
 - [shaobosong/maskwin.nvim](https://github.com/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/stars/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/maskwin.nvim)
+- [Klsci/glass.nvim](https://github.com/Klsci/glass.nvim) ![](https://img.shields.io/github/stars/Klsci/glass.nvim) ![](https://img.shields.io/github/last-commit/Klsci/glass.nvim) ![](https://img.shields.io/github/commit-activity/y/Klsci/glass.nvim)
 
 #### Window Number
 

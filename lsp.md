@@ -352,6 +352,7 @@
 - [pojokcodeid/auto-lsp.nvim](https://github.com/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-lsp.nvim)
 - [Massolari/lsp-auto-setup.nvim](https://github.com/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/stars/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/last-commit/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/lsp-auto-setup.nvim)
 - [patrickswijgman/lsp-extra.nvim](https://github.com/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/lsp-extra.nvim)
+- [Myzel394/config-lsp.nvim](https://github.com/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/stars/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/config-lsp.nvim)
 
 ## Backwards Compatibility
 
