@@ -41,6 +41,7 @@
 - [swit33/cycle_trail.nvim](https://github.com/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/stars/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/last-commit/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/cycle_trail.nvim)
 - [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
 - [thesimonho/frecentmarks.nvim](https://github.com/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/stars/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/last-commit/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/thesimonho/frecentmarks.nvim)
+- [yangxingwu/nvim-mark.lua](https://github.com/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/stars/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/last-commit/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/commit-activity/y/yangxingwu/nvim-mark.lua)
 
 ### extmark
 
@@ -65,6 +66,7 @@
 - [pxwg/sidenote.nvim](https://github.com/pxwg/sidenote.nvim) ![](https://img.shields.io/github/stars/pxwg/sidenote.nvim) ![](https://img.shields.io/github/last-commit/pxwg/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/sidenote.nvim)
 - [jameswolensky/marker-groups-dev.nvim](https://github.com/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/stars/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/last-commit/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/jameswolensky/marker-groups-dev.nvim)
 - [IstiCusi/docpair.nvim](https://github.com/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/stars/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/last-commit/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/commit-activity/y/IstiCusi/docpair.nvim)
+- [fiki-fahrezi/docpair.nvim](https://github.com/fiki-fahrezi/docpair.nvim) ![](https://img.shields.io/github/stars/fiki-fahrezi/docpair.nvim) ![](https://img.shields.io/github/last-commit/fiki-fahrezi/docpair.nvim) ![](https://img.shields.io/github/commit-activity/y/fiki-fahrezi/docpair.nvim)
 
 ### hashtag
 

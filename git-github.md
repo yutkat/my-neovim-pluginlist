@@ -108,6 +108,7 @@
 - [walker84837/fastgit.nvim](https://github.com/walker84837/fastgit.nvim) ![](https://img.shields.io/github/stars/walker84837/fastgit.nvim) ![](https://img.shields.io/github/last-commit/walker84837/fastgit.nvim) ![](https://img.shields.io/github/commit-activity/y/walker84837/fastgit.nvim)
 - [wsdjeg/git.nvim](https://github.com/wsdjeg/git.nvim) ![](https://img.shields.io/github/stars/wsdjeg/git.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/git.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/git.nvim)
 - [metalelf0/git-utils.nvim](https://github.com/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/stars/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/git-utils.nvim)
+- [sakhnik/nvim-fossil](https://github.com/sakhnik/nvim-fossil) ![](https://img.shields.io/github/stars/sakhnik/nvim-fossil) ![](https://img.shields.io/github/last-commit/sakhnik/nvim-fossil) ![](https://img.shields.io/github/commit-activity/y/sakhnik/nvim-fossil)
 
 ### gitui
 

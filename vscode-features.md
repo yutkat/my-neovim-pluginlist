@@ -30,6 +30,7 @@
 - [erichlf/devcontainer-cli.nvim](https://github.com/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/stars/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/last-commit/erichlf/devcontainer-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/erichlf/devcontainer-cli.nvim)
 - [kita99/devcontainers.nvim](https://github.com/kita99/devcontainers.nvim) ![](https://img.shields.io/github/stars/kita99/devcontainers.nvim) ![](https://img.shields.io/github/last-commit/kita99/devcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/kita99/devcontainers.nvim)
 - [ksoichiro/container.nvim](https://github.com/ksoichiro/container.nvim) ![](https://img.shields.io/github/stars/ksoichiro/container.nvim) ![](https://img.shields.io/github/last-commit/ksoichiro/container.nvim) ![](https://img.shields.io/github/commit-activity/y/ksoichiro/container.nvim)
+- [zerochae/devcon.nvim](https://github.com/zerochae/devcon.nvim) ![](https://img.shields.io/github/stars/zerochae/devcon.nvim) ![](https://img.shields.io/github/last-commit/zerochae/devcon.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/devcon.nvim)
 
 ### Collaborative Editing
 
