@@ -189,6 +189,7 @@
 
 - [hfn92/disassembly.nvim](https://github.com/hfn92/disassembly.nvim) ![](https://img.shields.io/github/stars/hfn92/disassembly.nvim) ![](https://img.shields.io/github/last-commit/hfn92/disassembly.nvim) ![](https://img.shields.io/github/commit-activity/y/hfn92/disassembly.nvim)
 - [IIIBreakeRIII/ReCursion.nvim](https://github.com/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/stars/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/last-commit/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/commit-activity/y/IIIBreakeRIII/ReCursion.nvim)
+- [liamvdvyver/disasm.nvim](https://github.com/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/stars/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/last-commit/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/liamvdvyver/disasm.nvim)
 
 ### Cscope
 

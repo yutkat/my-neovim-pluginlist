@@ -131,6 +131,7 @@
 - [manual-eel/virtline-toggle.nvim](https://github.com/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/stars/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/last-commit/manual-eel/virtline-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/manual-eel/virtline-toggle.nvim)
 - [oribarilan/lensline.nvim](https://github.com/oribarilan/lensline.nvim) ![](https://img.shields.io/github/stars/oribarilan/lensline.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/lensline.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/lensline.nvim)
 - [coreyb-git/virtlines-delay.nvim](https://github.com/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/stars/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/virtlines-delay.nvim)
+- [tiwari-krishna/peekErr.nvim](https://github.com/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/stars/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/last-commit/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/commit-activity/y/tiwari-krishna/peekErr.nvim)
 
 ##### Diagnostics goto
 

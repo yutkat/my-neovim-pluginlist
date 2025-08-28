@@ -168,6 +168,7 @@
 - [lokop5116/ThemeControl.nvim](https://github.com/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/stars/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/last-commit/lokop5116/ThemeControl.nvim) ![](https://img.shields.io/github/commit-activity/y/lokop5116/ThemeControl.nvim)
 - [statiolake/colorset.nvim](https://github.com/statiolake/colorset.nvim) ![](https://img.shields.io/github/stars/statiolake/colorset.nvim) ![](https://img.shields.io/github/last-commit/statiolake/colorset.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/colorset.nvim)
 - [nishu-murmu/ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/stars/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/last-commit/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/ThemeSwitch.nvim)
+- [mdonaka/color-manager.nvim](https://github.com/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/stars/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/last-commit/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mdonaka/color-manager.nvim)
 
 ### Colorscheme overwrite
 
