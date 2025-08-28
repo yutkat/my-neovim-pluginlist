@@ -54,6 +54,7 @@
 - [carlosrocha/chrome-remote.nvim](https://github.com/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/stars/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/last-commit/carlosrocha/chrome-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosrocha/chrome-remote.nvim)
 - [livinglogic-nl/cdp.nvim](https://github.com/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/stars/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/last-commit/livinglogic-nl/cdp.nvim) ![](https://img.shields.io/github/commit-activity/y/livinglogic-nl/cdp.nvim)
 - [lucamot/chrome-dev-console.nvim](https://github.com/lucamot/chrome-dev-console.nvim) ![](https://img.shields.io/github/stars/lucamot/chrome-dev-console.nvim) ![](https://img.shields.io/github/last-commit/lucamot/chrome-dev-console.nvim) ![](https://img.shields.io/github/commit-activity/y/lucamot/chrome-dev-console.nvim)
+- [zerochae/devcon.nvim](https://github.com/zerochae/devcon.nvim) ![](https://img.shields.io/github/stars/zerochae/devcon.nvim) ![](https://img.shields.io/github/last-commit/zerochae/devcon.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/devcon.nvim)
 
 #### Firefox
 
