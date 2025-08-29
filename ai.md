@@ -185,6 +185,7 @@
 ### Grok
 
 - [9MaxR9/grok.nvim](https://github.com/9MaxR9/grok.nvim) ![](https://img.shields.io/github/stars/9MaxR9/grok.nvim) ![](https://img.shields.io/github/last-commit/9MaxR9/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/9MaxR9/grok.nvim)
+- [namnd/xai.nvim](https://github.com/namnd/xai.nvim) ![](https://img.shields.io/github/stars/namnd/xai.nvim) ![](https://img.shields.io/github/last-commit/namnd/xai.nvim) ![](https://img.shields.io/github/commit-activity/y/namnd/xai.nvim)
 
 ### Multi LLM
 
@@ -348,7 +349,6 @@
 - [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
 - [SouhailBlmn/claude-code.nvim](https://github.com/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/stars/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/last-commit/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/SouhailBlmn/claude-code.nvim)
 - [kylesnowschwartz/claude-code-tui.nvim](https://github.com/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/claude-code-tui.nvim)
-- [ishiooon/claudecode-lualine.nvim](https://github.com/ishiooon/claudecode-lualine.nvim) ![](https://img.shields.io/github/stars/ishiooon/claudecode-lualine.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/claudecode-lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/claudecode-lualine.nvim)
 
 ### Amazon Q
 
@@ -542,7 +542,6 @@
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
-- [namnd/xai.nvim](https://github.com/namnd/xai.nvim) ![](https://img.shields.io/github/stars/namnd/xai.nvim) ![](https://img.shields.io/github/last-commit/namnd/xai.nvim) ![](https://img.shields.io/github/commit-activity/y/namnd/xai.nvim)
 
 ## AI Terminal
 
