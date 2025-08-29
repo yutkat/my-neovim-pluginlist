@@ -185,6 +185,7 @@
 ### Grok
 
 - [9MaxR9/grok.nvim](https://github.com/9MaxR9/grok.nvim) ![](https://img.shields.io/github/stars/9MaxR9/grok.nvim) ![](https://img.shields.io/github/last-commit/9MaxR9/grok.nvim) ![](https://img.shields.io/github/commit-activity/y/9MaxR9/grok.nvim)
+- [namnd/xai.nvim](https://github.com/namnd/xai.nvim) ![](https://img.shields.io/github/stars/namnd/xai.nvim) ![](https://img.shields.io/github/last-commit/namnd/xai.nvim) ![](https://img.shields.io/github/commit-activity/y/namnd/xai.nvim)
 
 ### Multi LLM
 
@@ -524,6 +525,7 @@
 - [Xuyuanp/nes.nvim](https://github.com/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/nes.nvim)
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/stars/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/last-commit/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/commit-activity/y/copilotlsp-nvim/copilot-lsp)
 - [goropikari/telescope-copilotchat-history.nvim](https://github.com/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-copilotchat-history.nvim)
+- [dyamon/codecompanion-copilot-enterprise.nvim](https://github.com/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-copilot-enterprise.nvim)
 
 ### Genie CLI
 

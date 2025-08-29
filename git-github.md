@@ -425,6 +425,7 @@
 - [tilupe/submission.nvim](https://github.com/tilupe/submission.nvim) ![](https://img.shields.io/github/stars/tilupe/submission.nvim) ![](https://img.shields.io/github/last-commit/tilupe/submission.nvim) ![](https://img.shields.io/github/commit-activity/y/tilupe/submission.nvim)
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
 - [Glhou/lazyjj.nvim](https://github.com/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/stars/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/Glhou/lazyjj.nvim)
+- [evanphx/jjsigns.nvim](https://github.com/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/stars/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/evanphx/jjsigns.nvim)
 
 ### diff
 

@@ -193,6 +193,7 @@
 - [TimothyGCY/todo.nvim](https://github.com/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/stars/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/last-commit/TimothyGCY/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TimothyGCY/todo.nvim)
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
 - [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
+- [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
 
 #### Google Task
 
@@ -504,3 +505,4 @@
 - [Samar-exe/nvim-notes](https://github.com/Samar-exe/nvim-notes) ![](https://img.shields.io/github/stars/Samar-exe/nvim-notes) ![](https://img.shields.io/github/last-commit/Samar-exe/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Samar-exe/nvim-notes)
 - [HubertHo/memo.nvim](https://github.com/HubertHo/memo.nvim) ![](https://img.shields.io/github/stars/HubertHo/memo.nvim) ![](https://img.shields.io/github/last-commit/HubertHo/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertHo/memo.nvim)
 - [0pama/tasky.nvim](https://github.com/0pama/tasky.nvim) ![](https://img.shields.io/github/stars/0pama/tasky.nvim) ![](https://img.shields.io/github/last-commit/0pama/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/0pama/tasky.nvim)
+- [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)

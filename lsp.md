@@ -159,6 +159,7 @@
 - [Dan7h3x/signup.nvim](https://github.com/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/stars/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/last-commit/Dan7h3x/signup.nvim) ![](https://img.shields.io/github/commit-activity/y/Dan7h3x/signup.nvim)
 - [comfysage/quill.nvim](https://github.com/comfysage/quill.nvim) ![](https://img.shields.io/github/stars/comfysage/quill.nvim) ![](https://img.shields.io/github/last-commit/comfysage/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/quill.nvim)
 - [hrsh7th/nvim-xi](https://github.com/hrsh7th/nvim-xi) ![](https://img.shields.io/github/stars/hrsh7th/nvim-xi) ![](https://img.shields.io/github/last-commit/hrsh7th/nvim-xi) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/nvim-xi)
+- [vorhey/sigbuddy.nvim](https://github.com/vorhey/sigbuddy.nvim) ![](https://img.shields.io/github/stars/vorhey/sigbuddy.nvim) ![](https://img.shields.io/github/last-commit/vorhey/sigbuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/vorhey/sigbuddy.nvim)
 
 #### Definition, Reference
 

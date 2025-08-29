@@ -132,6 +132,7 @@
 - [youguanxinqing/find-file.nvim](https://github.com/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/stars/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/last-commit/youguanxinqing/find-file.nvim) ![](https://img.shields.io/github/commit-activity/y/youguanxinqing/find-file.nvim)
 - [grecodavide/file_browser.nvim](https://github.com/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/stars/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/last-commit/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/commit-activity/y/grecodavide/file_browser.nvim)
 - [JonLD/snacks-file-browser.nvim](https://github.com/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/stars/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/last-commit/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/snacks-file-browser.nvim)
+- [alexmccray23/filebrowser-picker.nvim](https://github.com/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/stars/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/last-commit/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/alexmccray23/filebrowser-picker.nvim)
 
 ### Emacs style
 

@@ -387,6 +387,8 @@
 - [396458015/imeflow.nvim](https://github.com/396458015/imeflow.nvim) ![](https://img.shields.io/github/stars/396458015/imeflow.nvim) ![](https://img.shields.io/github/last-commit/396458015/imeflow.nvim) ![](https://img.shields.io/github/commit-activity/y/396458015/imeflow.nvim)
 - [guohao117/noime.nvim](https://github.com/guohao117/noime.nvim) ![](https://img.shields.io/github/stars/guohao117/noime.nvim) ![](https://img.shields.io/github/last-commit/guohao117/noime.nvim) ![](https://img.shields.io/github/commit-activity/y/guohao117/noime.nvim)
 - [chojs23/im-switch.nvim](https://github.com/chojs23/im-switch.nvim) ![](https://img.shields.io/github/stars/chojs23/im-switch.nvim) ![](https://img.shields.io/github/last-commit/chojs23/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/chojs23/im-switch.nvim)
+- [sing-kuro/auto-ime.nvim](https://github.com/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/auto-ime.nvim)
+- [sing-kuro/ime.nvim](https://github.com/sing-kuro/ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/ime.nvim)
 
 #### Fcitx
 
