@@ -132,7 +132,6 @@
 - [GR3YH4TT3R93/zellij-nav.nvim](https://github.com/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/stars/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/GR3YH4TT3R93/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/GR3YH4TT3R93/zellij-nav.nvim)
 - [noahbald/nangz.nvim](https://github.com/noahbald/nangz.nvim) ![](https://img.shields.io/github/stars/noahbald/nangz.nvim) ![](https://img.shields.io/github/last-commit/noahbald/nangz.nvim) ![](https://img.shields.io/github/commit-activity/y/noahbald/nangz.nvim)
 - [dev-vinicius-andrade/zellij-nav.nvim](https://github.com/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/zellij-nav.nvim)
-- [drop-stones/zellij-bridge.nvim](https://github.com/drop-stones/zellij-bridge.nvim) ![](https://img.shields.io/github/stars/drop-stones/zellij-bridge.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/zellij-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/zellij-bridge.nvim)
 
 #### Container
 

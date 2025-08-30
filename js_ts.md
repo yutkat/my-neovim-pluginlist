@@ -267,7 +267,6 @@
 ### refactor
 
 - [ianjkaplan/shrub.nvim](https://github.com/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/shrub.nvim)
-- [ArielBenichou/grosse-patate.nvim](https://github.com/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/stars/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/last-commit/ArielBenichou/grosse-patate.nvim) ![](https://img.shields.io/github/commit-activity/y/ArielBenichou/grosse-patate.nvim)
 
 ## HTML
 
@@ -326,7 +325,6 @@
 - [MaximilianLloyd/tw-values.nvim](https://github.com/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/stars/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/last-commit/MaximilianLloyd/tw-values.nvim) ![](https://img.shields.io/github/commit-activity/y/MaximilianLloyd/tw-values.nvim)
 - [nazo6/telescope-tailwind.nvim](https://github.com/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/stars/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/last-commit/nazo6/telescope-tailwind.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/telescope-tailwind.nvim)
 - [SushyDev/tailwind-linter.nvim](https://github.com/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/stars/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/last-commit/SushyDev/tailwind-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/SushyDev/tailwind-linter.nvim)
-- [luckasRanarison/tailwind-tools.nvim](https://github.com/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/tailwind-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/tailwind-tools.nvim)
 - [mcvnh/tailwindcss-prefix.nvim](https://github.com/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/stars/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/last-commit/mcvnh/tailwindcss-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/mcvnh/tailwindcss-prefix.nvim)
 - [y3owk1n/tailwind-autosort.nvim](https://github.com/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/stars/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/tailwind-autosort.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/tailwind-autosort.nvim)
 - [tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim) ![](https://img.shields.io/github/stars/tjdevries/failwind.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/failwind.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/failwind.nvim)
