@@ -94,6 +94,7 @@
 ### Remove default
 
 - [ryoppippi/nvim-reset](https://github.com/ryoppippi/nvim-reset) ![](https://img.shields.io/github/stars/ryoppippi/nvim-reset) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-reset) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-reset)
+- [kaievns/nuclear-option.nvim](https://github.com/kaievns/nuclear-option.nvim) ![](https://img.shields.io/github/stars/kaievns/nuclear-option.nvim) ![](https://img.shields.io/github/last-commit/kaievns/nuclear-option.nvim) ![](https://img.shields.io/github/commit-activity/y/kaievns/nuclear-option.nvim)
 
 ### Mapping search
 
