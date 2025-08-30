@@ -87,6 +87,7 @@
 - [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
 - [alucherdi/hand-of-god](https://github.com/alucherdi/hand-of-god) ![](https://img.shields.io/github/stars/alucherdi/hand-of-god) ![](https://img.shields.io/github/last-commit/alucherdi/hand-of-god) ![](https://img.shields.io/github/commit-activity/y/alucherdi/hand-of-god)
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
+- [taku25/neo-tree-unl.nvim](https://github.com/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/stars/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/last-commit/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/neo-tree-unl.nvim)
 
 ### gx
 
