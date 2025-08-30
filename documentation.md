@@ -375,6 +375,7 @@
 - [thmshmm/marp-preview.nvim](https://github.com/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/stars/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/last-commit/thmshmm/marp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/thmshmm/marp-preview.nvim)
 - [mingxue619/mx-mp.nvim](https://github.com/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/stars/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/last-commit/mingxue619/mx-mp.nvim) ![](https://img.shields.io/github/commit-activity/y/mingxue619/mx-mp.nvim)
 - [nwiizo/marp.nvim](https://github.com/nwiizo/marp.nvim) ![](https://img.shields.io/github/stars/nwiizo/marp.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/marp.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/marp.nvim)
+- [boborbt/marp-dev-preview.nvim](https://github.com/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/stars/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/last-commit/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/boborbt/marp-dev-preview.nvim)
 
 ### PlantUML
 

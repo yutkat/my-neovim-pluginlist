@@ -172,6 +172,7 @@
 - [jinzhongjia/codecompanion-gitcommit.nvim](https://github.com/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/codecompanion-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/codecompanion-gitcommit.nvim)
 - [kboshold/smart-commit.nvim](https://github.com/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/stars/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kboshold/smart-commit.nvim)
 - [elliotekj/claude-commit.nvim](https://github.com/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/stars/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/last-commit/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotekj/claude-commit.nvim)
+- [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
 
 #### prefix(conventional-commits)
 
