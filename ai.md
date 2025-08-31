@@ -494,6 +494,7 @@
 - [NickvanDyke/opencode.nvim](https://github.com/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/stars/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/last-commit/NickvanDyke/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/NickvanDyke/opencode.nvim)
 - [cousine/opencode-context.nvim](https://github.com/cousine/opencode-context.nvim) ![](https://img.shields.io/github/stars/cousine/opencode-context.nvim) ![](https://img.shields.io/github/last-commit/cousine/opencode-context.nvim) ![](https://img.shields.io/github/commit-activity/y/cousine/opencode-context.nvim)
 - [kksimons/nvim-opencode](https://github.com/kksimons/nvim-opencode) ![](https://img.shields.io/github/stars/kksimons/nvim-opencode) ![](https://img.shields.io/github/last-commit/kksimons/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/kksimons/nvim-opencode)
+- [ChiakiUehira/codex.nvim](https://github.com/ChiakiUehira/codex.nvim) ![](https://img.shields.io/github/stars/ChiakiUehira/codex.nvim) ![](https://img.shields.io/github/last-commit/ChiakiUehira/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/ChiakiUehira/codex.nvim)
 
 ### khulnasoft
 

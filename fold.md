@@ -46,4 +46,5 @@
 ## Conceal
 
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/conceal.nvim)
+- [kungfusheep/greyout.nvim](https://github.com/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/stars/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/greyout.nvim)
 - [nvim-jo/conceal.nvim](https://github.com/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/stars/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/conceal.nvim)

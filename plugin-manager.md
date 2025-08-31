@@ -90,6 +90,7 @@
 
 - [naranyala/pluginsize.nvim](https://github.com/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/stars/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/last-commit/naranyala/pluginsize.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/pluginsize.nvim)
 - [Eddysunday012/plugin_list.nvim](https://github.com/Eddysunday012/plugin_list.nvim) ![](https://img.shields.io/github/stars/Eddysunday012/plugin_list.nvim) ![](https://img.shields.io/github/last-commit/Eddysunday012/plugin_list.nvim) ![](https://img.shields.io/github/commit-activity/y/Eddysunday012/plugin_list.nvim)
+- [adriankarlen/plugin-view.nvim](https://github.com/adriankarlen/plugin-view.nvim) ![](https://img.shields.io/github/stars/adriankarlen/plugin-view.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/plugin-view.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/plugin-view.nvim)
 
 ### Lazy load
 

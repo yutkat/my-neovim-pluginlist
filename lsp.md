@@ -355,6 +355,7 @@
 - [Massolari/lsp-auto-setup.nvim](https://github.com/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/stars/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/last-commit/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/lsp-auto-setup.nvim)
 - [patrickswijgman/lsp-extra.nvim](https://github.com/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/lsp-extra.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/lsp-extra.nvim)
 - [Myzel394/config-lsp.nvim](https://github.com/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/stars/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/config-lsp.nvim)
+- [asward/workspace-config.nvim](https://github.com/asward/workspace-config.nvim) ![](https://img.shields.io/github/stars/asward/workspace-config.nvim) ![](https://img.shields.io/github/last-commit/asward/workspace-config.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/workspace-config.nvim)
 
 ## Backwards Compatibility
 

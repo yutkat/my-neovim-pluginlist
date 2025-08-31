@@ -62,6 +62,7 @@
 - [arne-vl/project-picker.nvim](https://github.com/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/stars/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/project-picker.nvim)
 - [ebaldebo/project-finder.nvim](https://github.com/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/stars/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/last-commit/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/ebaldebo/project-finder.nvim)
 - [lopesivan/telescope-project.nvim](https://github.com/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/stars/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/lopesivan/telescope-project.nvim)
+- [CaptShanks/project-switcher.nvim](https://github.com/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/stars/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/last-commit/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/CaptShanks/project-switcher.nvim)
 
 ### Project Root Detector
 
