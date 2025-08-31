@@ -51,6 +51,7 @@
 - [JoseConseco/hl_manager.nvim](https://github.com/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/stars/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/last-commit/JoseConseco/hl_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/JoseConseco/hl_manager.nvim)
 - [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
 - [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
+- [Joreh-T/placeholderHighlighter.nvim](https://github.com/Joreh-T/placeholderHighlighter.nvim) ![](https://img.shields.io/github/stars/Joreh-T/placeholderHighlighter.nvim) ![](https://img.shields.io/github/last-commit/Joreh-T/placeholderHighlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/Joreh-T/placeholderHighlighter.nvim)
 
 ### Delimiter
 
@@ -76,6 +77,7 @@
 ### Dim
 
 - [ck-zhang/obfuscate.nvim](https://github.com/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/stars/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/obfuscate.nvim)
+- [nvim-jo/conceal.nvim](https://github.com/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/stars/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/conceal.nvim)
 
 ## Syntax
 
@@ -100,6 +102,7 @@
 - [Leonardo-Luz/showcolors.nvim](https://github.com/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/showcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/showcolors.nvim)
 - [Bishop-Fox/colorblocks.nvim](https://github.com/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/stars/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/last-commit/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/commit-activity/y/Bishop-Fox/colorblocks.nvim)
 - [ImmanuelHaffner/pigmentor.nvim](https://github.com/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/pigmentor.nvim)
+- [0xJWLabs/highlight-colors.nvim](https://github.com/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/stars/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/last-commit/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJWLabs/highlight-colors.nvim)
 
 ### Color picker
 
@@ -169,6 +172,7 @@
 - [statiolake/colorset.nvim](https://github.com/statiolake/colorset.nvim) ![](https://img.shields.io/github/stars/statiolake/colorset.nvim) ![](https://img.shields.io/github/last-commit/statiolake/colorset.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/colorset.nvim)
 - [nishu-murmu/ThemeSwitch.nvim](https://github.com/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/stars/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/last-commit/nishu-murmu/ThemeSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/ThemeSwitch.nvim)
 - [mdonaka/color-manager.nvim](https://github.com/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/stars/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/last-commit/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mdonaka/color-manager.nvim)
+- [CongLuanTran/hyde-theme.nvim](https://github.com/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/stars/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/last-commit/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/CongLuanTran/hyde-theme.nvim)
 
 ### Colorscheme overwrite
 
