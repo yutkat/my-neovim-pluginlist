@@ -88,6 +88,7 @@
 - [Old-Farmer/preview-buffer.nvim](https://github.com/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/stars/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/last-commit/Old-Farmer/preview-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/Old-Farmer/preview-buffer.nvim)
 - [leath-dub/bufs.nvim](https://github.com/leath-dub/bufs.nvim) ![](https://img.shields.io/github/stars/leath-dub/bufs.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/bufs.nvim)
 - [smellydelli/prowl.nvim](https://github.com/smellydelli/prowl.nvim) ![](https://img.shields.io/github/stars/smellydelli/prowl.nvim) ![](https://img.shields.io/github/last-commit/smellydelli/prowl.nvim) ![](https://img.shields.io/github/commit-activity/y/smellydelli/prowl.nvim)
+- [DDaanieloliv/Pickup-buffer.nvim](https://github.com/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/stars/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/last-commit/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/DDaanieloliv/Pickup-buffer.nvim)
 
 ### Other Buffer Switcher
 
@@ -251,6 +252,7 @@
 - [manuuurino/autoread.nvim](https://github.com/manuuurino/autoread.nvim) ![](https://img.shields.io/github/stars/manuuurino/autoread.nvim) ![](https://img.shields.io/github/last-commit/manuuurino/autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/manuuurino/autoread.nvim)
 - [diogo464/hotreload.nvim](https://github.com/diogo464/hotreload.nvim) ![](https://img.shields.io/github/stars/diogo464/hotreload.nvim) ![](https://img.shields.io/github/last-commit/diogo464/hotreload.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/hotreload.nvim)
 - [bmon/nvim-background-autoread](https://github.com/bmon/nvim-background-autoread) ![](https://img.shields.io/github/stars/bmon/nvim-background-autoread) ![](https://img.shields.io/github/last-commit/bmon/nvim-background-autoread) ![](https://img.shields.io/github/commit-activity/y/bmon/nvim-background-autoread)
+- [ycdzj/auto-reload.nvim](https://github.com/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/stars/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/last-commit/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/ycdzj/auto-reload.nvim)
 
 #### access control
 
