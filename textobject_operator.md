@@ -89,6 +89,7 @@
 - [monaqa/general-converter.nvim](https://github.com/monaqa/general-converter.nvim) ![](https://img.shields.io/github/stars/monaqa/general-converter.nvim) ![](https://img.shields.io/github/last-commit/monaqa/general-converter.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/general-converter.nvim)
 - [ClarityWay/operator.nvim](https://github.com/ClarityWay/operator.nvim) ![](https://img.shields.io/github/stars/ClarityWay/operator.nvim) ![](https://img.shields.io/github/last-commit/ClarityWay/operator.nvim) ![](https://img.shields.io/github/commit-activity/y/ClarityWay/operator.nvim)
 - [yumafuu/oat.nvim](https://github.com/yumafuu/oat.nvim) ![](https://img.shields.io/github/stars/yumafuu/oat.nvim) ![](https://img.shields.io/github/last-commit/yumafuu/oat.nvim) ![](https://img.shields.io/github/commit-activity/y/yumafuu/oat.nvim)
+- [Piotr1215/beam.nvim](https://github.com/Piotr1215/beam.nvim) ![](https://img.shields.io/github/stars/Piotr1215/beam.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/beam.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/beam.nvim)
 
 ### Replace
 
