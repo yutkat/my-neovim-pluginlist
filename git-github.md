@@ -205,6 +205,7 @@
 - [vernette/ai-commit.nvim](https://github.com/vernette/ai-commit.nvim) ![](https://img.shields.io/github/stars/vernette/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/vernette/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/vernette/ai-commit.nvim)
 - [Abizrh/commit-ai.nvim](https://github.com/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/stars/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/commit-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/commit-ai.nvim)
 - [lululau/neogit-ai-commit.nvim](https://github.com/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-ai-commit.nvim)
+- [aweis89/ai-commit-msg.nvim](https://github.com/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/stars/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/last-commit/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/ai-commit-msg.nvim)
 
 ### git fetch
 

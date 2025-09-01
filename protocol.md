@@ -60,6 +60,7 @@
 #### HTTP server
 
 - [taybart/serve.nvim](https://github.com/taybart/serve.nvim) ![](https://img.shields.io/github/stars/taybart/serve.nvim) ![](https://img.shields.io/github/last-commit/taybart/serve.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/serve.nvim)
+- [jbyuki/servethis.nvim](https://github.com/jbyuki/servethis.nvim) ![](https://img.shields.io/github/stars/jbyuki/servethis.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/servethis.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/servethis.nvim)
 
 #### OpenAPI
 
