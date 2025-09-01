@@ -262,6 +262,7 @@
 - [AT-AT/hlwords.nvim](https://github.com/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/stars/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/last-commit/AT-AT/hlwords.nvim) ![](https://img.shields.io/github/commit-activity/y/AT-AT/hlwords.nvim)
 - [TheLazyCat00/buffon-colors.nvim](https://github.com/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/buffon-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/buffon-colors.nvim)
 - [shazow/paint.nvim](https://github.com/shazow/paint.nvim) ![](https://img.shields.io/github/stars/shazow/paint.nvim) ![](https://img.shields.io/github/last-commit/shazow/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/shazow/paint.nvim)
+- [b0id/HighTideLight.nvim](https://github.com/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/stars/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/last-commit/b0id/HighTideLight.nvim) ![](https://img.shields.io/github/commit-activity/y/b0id/HighTideLight.nvim)
 
 ### Cursor Jump highlight
 
@@ -269,6 +270,7 @@
 - [stonelasley/flare.nvim](https://github.com/stonelasley/flare.nvim) ![](https://img.shields.io/github/stars/stonelasley/flare.nvim) ![](https://img.shields.io/github/last-commit/stonelasley/flare.nvim) ![](https://img.shields.io/github/commit-activity/y/stonelasley/flare.nvim)
 - [rainbowhxch/beacon.nvim](https://github.com/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/stars/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/last-commit/rainbowhxch/beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/rainbowhxch/beacon.nvim)
 - [mei28/luminate.nvim](https://github.com/mei28/luminate.nvim) ![](https://img.shields.io/github/stars/mei28/luminate.nvim) ![](https://img.shields.io/github/last-commit/mei28/luminate.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/luminate.nvim)
+- [Piotr1215/beam.nvim](https://github.com/Piotr1215/beam.nvim) ![](https://img.shields.io/github/stars/Piotr1215/beam.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/beam.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/beam.nvim)
 
 ### Variable color
 

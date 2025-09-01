@@ -61,6 +61,7 @@
 - [jeryldev/pyworks.nvim](https://github.com/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/stars/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/last-commit/jeryldev/pyworks.nvim) ![](https://img.shields.io/github/commit-activity/y/jeryldev/pyworks.nvim)
 - [jedi-knights/python.nvim](https://github.com/jedi-knights/python.nvim) ![](https://img.shields.io/github/stars/jedi-knights/python.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/python.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/python.nvim)
 - [cetanu/python-env.nvim](https://github.com/cetanu/python-env.nvim) ![](https://img.shields.io/github/stars/cetanu/python-env.nvim) ![](https://img.shields.io/github/last-commit/cetanu/python-env.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/python-env.nvim)
+- [dumidusw/python-type-hints.nvim](https://github.com/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/stars/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/last-commit/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/dumidusw/python-type-hints.nvim)
 
 ### tweaks
 
