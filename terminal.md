@@ -129,6 +129,7 @@
 - [4strodev/termtracker.nvim](https://github.com/4strodev/termtracker.nvim) ![](https://img.shields.io/github/stars/4strodev/termtracker.nvim) ![](https://img.shields.io/github/last-commit/4strodev/termtracker.nvim) ![](https://img.shields.io/github/commit-activity/y/4strodev/termtracker.nvim)
 - [rohsins/nvim-floterm](https://github.com/rohsins/nvim-floterm) ![](https://img.shields.io/github/stars/rohsins/nvim-floterm) ![](https://img.shields.io/github/last-commit/rohsins/nvim-floterm) ![](https://img.shields.io/github/commit-activity/y/rohsins/nvim-floterm)
 - [rkb121541/floaterminal.nvim](https://github.com/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/stars/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rkb121541/floaterminal.nvim)
+- [TungstnBallon/split-term.nvim](https://github.com/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/split-term.nvim)
 
 ### Edit
 

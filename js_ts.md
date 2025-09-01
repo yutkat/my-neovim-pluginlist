@@ -297,6 +297,7 @@
 - [Ferchupessoadev/live-server.nvim](https://github.com/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/stars/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/last-commit/Ferchupessoadev/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Ferchupessoadev/live-server.nvim)
 - [G00380316/live-server.nvim](https://github.com/G00380316/live-server.nvim) ![](https://img.shields.io/github/stars/G00380316/live-server.nvim) ![](https://img.shields.io/github/last-commit/G00380316/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/G00380316/live-server.nvim)
 - [gn0/nvim-web-server](https://github.com/gn0/nvim-web-server) ![](https://img.shields.io/github/stars/gn0/nvim-web-server) ![](https://img.shields.io/github/last-commit/gn0/nvim-web-server) ![](https://img.shields.io/github/commit-activity/y/gn0/nvim-web-server)
+- [jbyuki/servethis.nvim](https://github.com/jbyuki/servethis.nvim) ![](https://img.shields.io/github/stars/jbyuki/servethis.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/servethis.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/servethis.nvim)
 
 ### Static site
 

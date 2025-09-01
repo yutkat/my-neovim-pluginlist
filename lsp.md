@@ -229,6 +229,7 @@
 
 - [yioneko/nvim-type-fmt](https://github.com/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/stars/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/last-commit/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-type-fmt)
 - [aznhe21/lsp-query-format.nvim](https://github.com/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/stars/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/last-commit/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/commit-activity/y/aznhe21/lsp-query-format.nvim)
+- [TungstnBallon/formatlsp.nvim](https://github.com/TungstnBallon/formatlsp.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/formatlsp.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/formatlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/formatlsp.nvim)
 
 #### Symbol
 

@@ -69,6 +69,10 @@
 
 - [Lairizzle/jrun.nvim](https://github.com/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/jrun.nvim)
 
+### Refactor / Builder
+
+- [HSMF/java-builder.nvim](https://github.com/HSMF/java-builder.nvim) ![](https://img.shields.io/github/stars/HSMF/java-builder.nvim) ![](https://img.shields.io/github/last-commit/HSMF/java-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/java-builder.nvim)
+
 ### Maven
 
 - [eatgrass/maven.nvim](https://github.com/eatgrass/maven.nvim) ![](https://img.shields.io/github/stars/eatgrass/maven.nvim) ![](https://img.shields.io/github/last-commit/eatgrass/maven.nvim) ![](https://img.shields.io/github/commit-activity/y/eatgrass/maven.nvim)

@@ -51,6 +51,7 @@
 - [adtyap26/sql_docs.nvim](https://github.com/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/stars/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/last-commit/adtyap26/sql_docs.nvim) ![](https://img.shields.io/github/commit-activity/y/adtyap26/sql_docs.nvim)
 - [andevgo/nvim-sqlformat](https://github.com/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/stars/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/last-commit/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/commit-activity/y/andevgo/nvim-sqlformat)
 - [Toprun123/sequin.nvim](https://github.com/Toprun123/sequin.nvim) ![](https://img.shields.io/github/stars/Toprun123/sequin.nvim) ![](https://img.shields.io/github/last-commit/Toprun123/sequin.nvim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/sequin.nvim)
+- [Sethrollinsbah/sqlnik.nvim](https://github.com/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlnik.nvim)
 
 ### PostgreSQL
 
