@@ -658,6 +658,10 @@
 
 - [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
 
+#### Huff
+
+- [mmsaki/huff.nvim](https://github.com/mmsaki/huff.nvim) ![](https://img.shields.io/github/stars/mmsaki/huff.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/huff.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/huff.nvim)
+
 #### Bril
 
 - [ethanuppal/bril.nvim](https://github.com/ethanuppal/bril.nvim) ![](https://img.shields.io/github/stars/ethanuppal/bril.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/bril.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/bril.nvim)
