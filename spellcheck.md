@@ -16,6 +16,7 @@
 - [cuducos/spellfile.nvim](https://github.com/cuducos/spellfile.nvim) ![](https://img.shields.io/github/stars/cuducos/spellfile.nvim) ![](https://img.shields.io/github/last-commit/cuducos/spellfile.nvim) ![](https://img.shields.io/github/commit-activity/y/cuducos/spellfile.nvim)
 - [rubiin/vimwordlist.nvim](https://github.com/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/stars/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/last-commit/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/vimwordlist.nvim)
 - [rubiin/vimwordlist.nvim](https://github.com/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/stars/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/last-commit/rubiin/vimwordlist.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/vimwordlist.nvim)
+- [c7im/nvim-spell-manager](https://github.com/c7im/nvim-spell-manager) ![](https://img.shields.io/github/stars/c7im/nvim-spell-manager) ![](https://img.shields.io/github/last-commit/c7im/nvim-spell-manager) ![](https://img.shields.io/github/commit-activity/y/c7im/nvim-spell-manager)
 
 ### Spellcheck
 
