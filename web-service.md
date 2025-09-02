@@ -126,6 +126,7 @@
 
 - [RomanVolkov/x_threads.nvim](https://github.com/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/stars/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/last-commit/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanVolkov/x_threads.nvim)
 - [dyl10s/tweet.nvim](https://github.com/dyl10s/tweet.nvim) ![](https://img.shields.io/github/stars/dyl10s/tweet.nvim) ![](https://img.shields.io/github/last-commit/dyl10s/tweet.nvim) ![](https://img.shields.io/github/commit-activity/y/dyl10s/tweet.nvim)
+- [carldaws/yap.nvim](https://github.com/carldaws/yap.nvim) ![](https://img.shields.io/github/stars/carldaws/yap.nvim) ![](https://img.shields.io/github/last-commit/carldaws/yap.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/yap.nvim)
 
 ### Notion
 
