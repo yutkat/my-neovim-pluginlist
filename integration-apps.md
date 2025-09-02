@@ -270,6 +270,7 @@
 - [rahulmlokurte/awsecret.nvim](https://github.com/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/stars/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/last-commit/rahulmlokurte/awsecret.nvim) ![](https://img.shields.io/github/commit-activity/y/rahulmlokurte/awsecret.nvim)
 - [Aljendro/nvim-aws](https://github.com/Aljendro/nvim-aws) ![](https://img.shields.io/github/stars/Aljendro/nvim-aws) ![](https://img.shields.io/github/last-commit/Aljendro/nvim-aws) ![](https://img.shields.io/github/commit-activity/y/Aljendro/nvim-aws)
 - [thevinchi/aws.nvim](https://github.com/thevinchi/aws.nvim) ![](https://img.shields.io/github/stars/thevinchi/aws.nvim) ![](https://img.shields.io/github/last-commit/thevinchi/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/thevinchi/aws.nvim)
+- [fbreckle/telescope-aws-accounts.nvim](https://github.com/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/stars/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/last-commit/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/commit-activity/y/fbreckle/telescope-aws-accounts.nvim)
 
 ##### S3
 

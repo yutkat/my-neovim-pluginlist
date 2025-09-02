@@ -25,6 +25,7 @@
 - [austin5627/acr.nvim](https://github.com/austin5627/acr.nvim) ![](https://img.shields.io/github/stars/austin5627/acr.nvim) ![](https://img.shields.io/github/last-commit/austin5627/acr.nvim) ![](https://img.shields.io/github/commit-activity/y/austin5627/acr.nvim)
 - [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/stars/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/last-commit/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/commit-activity/y/AlphabetsAlphabets/gdb.nvim)
 - [brevin33/raddebugger.nvim](https://github.com/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/stars/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/last-commit/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/commit-activity/y/brevin33/raddebugger.nvim)
+- [Okerew/od.nvim](https://github.com/Okerew/od.nvim) ![](https://img.shields.io/github/stars/Okerew/od.nvim) ![](https://img.shields.io/github/last-commit/Okerew/od.nvim) ![](https://img.shields.io/github/commit-activity/y/Okerew/od.nvim)
 
 #### nvim-dap extension
 

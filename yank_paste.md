@@ -71,6 +71,7 @@
 - [swit33/context-yank.nvim](https://github.com/swit33/context-yank.nvim) ![](https://img.shields.io/github/stars/swit33/context-yank.nvim) ![](https://img.shields.io/github/last-commit/swit33/context-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/context-yank.nvim)
 - [AaronLasseigne/yank-code.nvim](https://github.com/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/stars/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/last-commit/AaronLasseigne/yank-code.nvim) ![](https://img.shields.io/github/commit-activity/y/AaronLasseigne/yank-code.nvim)
 - [cajames/copy-reference.nvim](https://github.com/cajames/copy-reference.nvim) ![](https://img.shields.io/github/stars/cajames/copy-reference.nvim) ![](https://img.shields.io/github/last-commit/cajames/copy-reference.nvim) ![](https://img.shields.io/github/commit-activity/y/cajames/copy-reference.nvim)
+- [Zlatej/copy.nvim](https://github.com/Zlatej/copy.nvim) ![](https://img.shields.io/github/stars/Zlatej/copy.nvim) ![](https://img.shields.io/github/last-commit/Zlatej/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zlatej/copy.nvim)
 
 ### yank node
 
