@@ -90,6 +90,7 @@
 ### floating marker(easymotion style)
 
 - [winston0410/mark-radar.nvim](https://github.com/winston0410/mark-radar.nvim) ![](https://img.shields.io/github/stars/winston0410/mark-radar.nvim) ![](https://img.shields.io/github/last-commit/winston0410/mark-radar.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/mark-radar.nvim)
+- [black-atom-industries/radar.nvim](https://github.com/black-atom-industries/radar.nvim) ![](https://img.shields.io/github/stars/black-atom-industries/radar.nvim) ![](https://img.shields.io/github/last-commit/black-atom-industries/radar.nvim) ![](https://img.shields.io/github/commit-activity/y/black-atom-industries/radar.nvim)
 
 ### bookmark
 

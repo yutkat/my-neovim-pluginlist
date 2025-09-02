@@ -66,6 +66,7 @@
 - [RRethy/nvim-treesitter-endwise](https://github.com/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/stars/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/last-commit/RRethy/nvim-treesitter-endwise) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-treesitter-endwise)
 - [Sam-programs/expand.nvim](https://github.com/Sam-programs/expand.nvim) ![](https://img.shields.io/github/stars/Sam-programs/expand.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/expand.nvim)
 - [pvfm/ruby_auto_end.nvim](https://github.com/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/stars/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/last-commit/pvfm/ruby_auto_end.nvim) ![](https://img.shields.io/github/commit-activity/y/pvfm/ruby_auto_end.nvim)
+- [Jaehaks/endwise.nvim](https://github.com/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/stars/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/endwise.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/endwise.nvim)
 
 ### Tag
 

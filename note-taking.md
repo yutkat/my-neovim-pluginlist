@@ -56,6 +56,7 @@
 - [zenarvus/md-agenda.nvim](https://github.com/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/stars/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/last-commit/zenarvus/md-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/zenarvus/md-agenda.nvim)
 - [hamidi-dev/org-telescope.nvim](https://github.com/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-telescope.nvim)
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-super-agenda.nvim)
+- [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/org-social.nvim)
 
 ### Zettelkasten
 
@@ -194,6 +195,7 @@
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
 - [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
 - [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
+- [Ponita48/joni.nvim](https://github.com/Ponita48/joni.nvim) ![](https://img.shields.io/github/stars/Ponita48/joni.nvim) ![](https://img.shields.io/github/last-commit/Ponita48/joni.nvim) ![](https://img.shields.io/github/commit-activity/y/Ponita48/joni.nvim)
 
 #### Google Task
 
