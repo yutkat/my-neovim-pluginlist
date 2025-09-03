@@ -52,6 +52,7 @@
 - [andevgo/nvim-sqlformat](https://github.com/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/stars/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/last-commit/andevgo/nvim-sqlformat) ![](https://img.shields.io/github/commit-activity/y/andevgo/nvim-sqlformat)
 - [Toprun123/sequin.nvim](https://github.com/Toprun123/sequin.nvim) ![](https://img.shields.io/github/stars/Toprun123/sequin.nvim) ![](https://img.shields.io/github/last-commit/Toprun123/sequin.nvim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/sequin.nvim)
 - [Sethrollinsbah/sqlnik.nvim](https://github.com/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlnik.nvim)
+- [Sethrollinsbah/sqlk.nvim](https://github.com/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlk.nvim)
 
 ### PostgreSQL
 
