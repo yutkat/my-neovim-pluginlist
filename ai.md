@@ -351,6 +351,7 @@
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
+- [awslabs/amazonq.nvim](https://github.com/awslabs/amazonq.nvim) ![](https://img.shields.io/github/stars/awslabs/amazonq.nvim) ![](https://img.shields.io/github/last-commit/awslabs/amazonq.nvim) ![](https://img.shields.io/github/commit-activity/y/awslabs/amazonq.nvim)
 
 ### JetBrains AI
 
