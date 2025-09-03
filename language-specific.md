@@ -8,6 +8,7 @@
     - [Nix](#nix)
     - [C#](#c%23)
       - [Compile](#compile)
+        - [Roslyn](#roslyn)
       - [disassembler](#disassembler)
       - [inspect](#inspect)
       - [.NET](#net)
@@ -188,6 +189,10 @@
 ##### Compile
 
 - [ADIX7/compiler.nvim](https://github.com/ADIX7/compiler.nvim) ![](https://img.shields.io/github/stars/ADIX7/compiler.nvim) ![](https://img.shields.io/github/last-commit/ADIX7/compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/ADIX7/compiler.nvim)
+
+###### Roslyn
+
+- [khoido2003/roslyn-filewatch.nvim](https://github.com/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/stars/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/roslyn-filewatch.nvim)
 
 ##### disassembler
 

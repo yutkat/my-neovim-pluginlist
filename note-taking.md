@@ -195,7 +195,6 @@
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
 - [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
 - [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
-- [IKarasev/obsidian-tasks.nvim](https://github.com/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/obsidian-tasks.nvim)
 
 #### Google Task
 
@@ -244,6 +243,7 @@
 - [obsidian-nvim/obsidian-markmap.nvim](https://github.com/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-markmap.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-markmap.nvim)
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
 - [saravenpi/pebble.nvim](https://github.com/saravenpi/pebble.nvim) ![](https://img.shields.io/github/stars/saravenpi/pebble.nvim) ![](https://img.shields.io/github/last-commit/saravenpi/pebble.nvim) ![](https://img.shields.io/github/commit-activity/y/saravenpi/pebble.nvim)
+- [IKarasev/obsidian-tasks.nvim](https://github.com/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/obsidian-tasks.nvim)
 
 ### nb
 
