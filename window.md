@@ -123,6 +123,7 @@
 - [phanen/mterm.nvim](https://github.com/phanen/mterm.nvim) ![](https://img.shields.io/github/stars/phanen/mterm.nvim) ![](https://img.shields.io/github/last-commit/phanen/mterm.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/mterm.nvim)
 - [WilliamHsieh/overlook.nvim](https://github.com/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/stars/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/last-commit/WilliamHsieh/overlook.nvim) ![](https://img.shields.io/github/commit-activity/y/WilliamHsieh/overlook.nvim)
 - [mathematicalninja/floating.nvim](https://github.com/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/stars/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/last-commit/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/commit-activity/y/mathematicalninja/floating.nvim)
+- [Zynith0/floater.nvim](https://github.com/Zynith0/floater.nvim) ![](https://img.shields.io/github/stars/Zynith0/floater.nvim) ![](https://img.shields.io/github/last-commit/Zynith0/floater.nvim) ![](https://img.shields.io/github/commit-activity/y/Zynith0/floater.nvim)
 
 #### resize
 
