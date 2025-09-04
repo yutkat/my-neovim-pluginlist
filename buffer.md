@@ -253,6 +253,7 @@
 - [diogo464/hotreload.nvim](https://github.com/diogo464/hotreload.nvim) ![](https://img.shields.io/github/stars/diogo464/hotreload.nvim) ![](https://img.shields.io/github/last-commit/diogo464/hotreload.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/hotreload.nvim)
 - [bmon/nvim-background-autoread](https://github.com/bmon/nvim-background-autoread) ![](https://img.shields.io/github/stars/bmon/nvim-background-autoread) ![](https://img.shields.io/github/last-commit/bmon/nvim-background-autoread) ![](https://img.shields.io/github/commit-activity/y/bmon/nvim-background-autoread)
 - [ycdzj/auto-reload.nvim](https://github.com/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/stars/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/last-commit/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/ycdzj/auto-reload.nvim)
+- [rdgd/file-reloader.nvim](https://github.com/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/stars/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/last-commit/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/file-reloader.nvim)
 
 #### access control
 

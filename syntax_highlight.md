@@ -174,6 +174,7 @@
 - [mdonaka/color-manager.nvim](https://github.com/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/stars/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/last-commit/mdonaka/color-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/mdonaka/color-manager.nvim)
 - [CongLuanTran/hyde-theme.nvim](https://github.com/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/stars/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/last-commit/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/CongLuanTran/hyde-theme.nvim)
 - [BillieLurk/autoScheme.nvim](https://github.com/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/stars/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/last-commit/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/commit-activity/y/BillieLurk/autoScheme.nvim)
+- [rgarofano/omarchy-theme.nvim](https://github.com/rgarofano/omarchy-theme.nvim) ![](https://img.shields.io/github/stars/rgarofano/omarchy-theme.nvim) ![](https://img.shields.io/github/last-commit/rgarofano/omarchy-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarofano/omarchy-theme.nvim)
 
 ### Colorscheme overwrite
 
