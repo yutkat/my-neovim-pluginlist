@@ -102,7 +102,6 @@
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/stars/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/simplemarkdown.nvim)
 - [jeangiraldoo/markup.nvim](https://github.com/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/markup.nvim)
 - [erel213/markdown-writer.nvim](https://github.com/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/stars/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/last-commit/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/erel213/markdown-writer.nvim)
-- [chirag-juneja/markdown.nvim](https://github.com/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/markdown.nvim)
 
 #### Markdown link
 
@@ -178,6 +177,7 @@
 - [gcmt/glare.nvim](https://github.com/gcmt/glare.nvim) ![](https://img.shields.io/github/stars/gcmt/glare.nvim) ![](https://img.shields.io/github/last-commit/gcmt/glare.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/glare.nvim)
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
 - [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
+- [chirag-juneja/markdown.nvim](https://github.com/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/markdown.nvim)
 
 ##### Node
 

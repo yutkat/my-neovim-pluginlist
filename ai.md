@@ -71,6 +71,8 @@
 - [LLM context](#llm-context)
 - [RAG](#rag)
 - [Model Context Protocol(MCP)](#model-context-protocolmcp)
+  - [MCP SDK](#mcp-sdk)
+    - [Stainless](#stainless)
 - [ignore](#ignore)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
@@ -634,6 +636,12 @@
 - [guill/mcpdap.nvim](https://github.com/guill/mcpdap.nvim) ![](https://img.shields.io/github/stars/guill/mcpdap.nvim) ![](https://img.shields.io/github/last-commit/guill/mcpdap.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcpdap.nvim)
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) ![](https://img.shields.io/github/stars/linw1995/nvim-mcp) ![](https://img.shields.io/github/last-commit/linw1995/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-mcp)
 - [rhnvrm/nvim-claudecode-mcp](https://github.com/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/stars/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/last-commit/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/commit-activity/y/rhnvrm/nvim-claudecode-mcp)
+
+### MCP SDK
+
+#### Stainless
+
+- [stainless-api/stainless.nvim](https://github.com/stainless-api/stainless.nvim) ![](https://img.shields.io/github/stars/stainless-api/stainless.nvim) ![](https://img.shields.io/github/last-commit/stainless-api/stainless.nvim) ![](https://img.shields.io/github/commit-activity/y/stainless-api/stainless.nvim)
 
 ## ignore
 
