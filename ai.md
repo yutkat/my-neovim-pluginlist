@@ -608,6 +608,7 @@
 ## Writefull
 
 - [arunoruto/writefull.nvim](https://github.com/arunoruto/writefull.nvim) ![](https://img.shields.io/github/stars/arunoruto/writefull.nvim) ![](https://img.shields.io/github/last-commit/arunoruto/writefull.nvim) ![](https://img.shields.io/github/commit-activity/y/arunoruto/writefull.nvim)
+- [CaddyGlow/correctme.nvim](https://github.com/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/stars/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/last-commit/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/commit-activity/y/CaddyGlow/correctme.nvim)
 
 ## Neovim Command
 
