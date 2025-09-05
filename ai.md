@@ -512,6 +512,7 @@
 - [benpops89/momonga.nvim](https://github.com/benpops89/momonga.nvim) ![](https://img.shields.io/github/stars/benpops89/momonga.nvim) ![](https://img.shields.io/github/last-commit/benpops89/momonga.nvim) ![](https://img.shields.io/github/commit-activity/y/benpops89/momonga.nvim)
 - [TravisLinkey/nvim-tag-suggestions](https://github.com/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/stars/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/last-commit/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/nvim-tag-suggestions)
 - [westbrookdaniel/danai.nvim](https://github.com/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/stars/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/last-commit/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/commit-activity/y/westbrookdaniel/danai.nvim)
+- [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/stars/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/last-commit/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/commit-activity/y/ninetyfive-gg/ninetyfive.nvim)
 
 ### Copilot
 
@@ -608,7 +609,6 @@
 ## Writefull
 
 - [arunoruto/writefull.nvim](https://github.com/arunoruto/writefull.nvim) ![](https://img.shields.io/github/stars/arunoruto/writefull.nvim) ![](https://img.shields.io/github/last-commit/arunoruto/writefull.nvim) ![](https://img.shields.io/github/commit-activity/y/arunoruto/writefull.nvim)
-- [CaddyGlow/correctme.nvim](https://github.com/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/stars/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/last-commit/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/commit-activity/y/CaddyGlow/correctme.nvim)
 
 ## Neovim Command
 
