@@ -26,6 +26,7 @@
 - [AlphabetsAlphabets/gdb.nvim](https://github.com/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/stars/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/last-commit/AlphabetsAlphabets/gdb.nvim) ![](https://img.shields.io/github/commit-activity/y/AlphabetsAlphabets/gdb.nvim)
 - [brevin33/raddebugger.nvim](https://github.com/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/stars/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/last-commit/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/commit-activity/y/brevin33/raddebugger.nvim)
 - [Okerew/od.nvim](https://github.com/Okerew/od.nvim) ![](https://img.shields.io/github/stars/Okerew/od.nvim) ![](https://img.shields.io/github/last-commit/Okerew/od.nvim) ![](https://img.shields.io/github/commit-activity/y/Okerew/od.nvim)
+- [DudeWhat12134/od.nvim](https://github.com/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/stars/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/last-commit/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/commit-activity/y/DudeWhat12134/od.nvim)
 
 #### nvim-dap extension
 

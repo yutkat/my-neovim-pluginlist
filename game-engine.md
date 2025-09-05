@@ -37,6 +37,7 @@
 - [taku25/UBT.nvim](https://github.com/taku25/UBT.nvim) ![](https://img.shields.io/github/stars/taku25/UBT.nvim) ![](https://img.shields.io/github/last-commit/taku25/UBT.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UBT.nvim)
 - [taku25/UCM.nvim](https://github.com/taku25/UCM.nvim) ![](https://img.shields.io/github/stars/taku25/UCM.nvim) ![](https://img.shields.io/github/last-commit/taku25/UCM.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UCM.nvim)
 - [taku25/UNL.nvim](https://github.com/taku25/UNL.nvim) ![](https://img.shields.io/github/stars/taku25/UNL.nvim) ![](https://img.shields.io/github/last-commit/taku25/UNL.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UNL.nvim)
+- [taku25/ULG.nvim](https://github.com/taku25/ULG.nvim) ![](https://img.shields.io/github/stars/taku25/ULG.nvim) ![](https://img.shields.io/github/last-commit/taku25/ULG.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/ULG.nvim)
 
 ### Godot
 

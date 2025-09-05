@@ -104,6 +104,7 @@
 - [Dillonb/betterquit.nvim](https://github.com/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/stars/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/last-commit/Dillonb/betterquit.nvim) ![](https://img.shields.io/github/commit-activity/y/Dillonb/betterquit.nvim)
 - [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
 - [sonictim/escape-hatch.nvim](https://github.com/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/stars/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/last-commit/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/escape-hatch.nvim)
+- [brandonmakai/safequit.nvim](https://github.com/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/stars/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/last-commit/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/commit-activity/y/brandonmakai/safequit.nvim)
 
 #### detach
 

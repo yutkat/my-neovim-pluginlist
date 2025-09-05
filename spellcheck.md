@@ -7,6 +7,7 @@
   - [Vale](#vale)
 - [Pronunce](#pronunce)
 - [Thesaurus](#thesaurus)
+- [Grammar check](#grammar-check)
 
 <!-- tocstop -->
 
@@ -50,3 +51,7 @@
 ## Thesaurus
 
 - [hertogp/syns.nvim](https://github.com/hertogp/syns.nvim) ![](https://img.shields.io/github/stars/hertogp/syns.nvim) ![](https://img.shields.io/github/last-commit/hertogp/syns.nvim) ![](https://img.shields.io/github/commit-activity/y/hertogp/syns.nvim)
+
+## Grammar check
+
+- [CaddyGlow/correctme.nvim](https://github.com/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/stars/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/last-commit/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/commit-activity/y/CaddyGlow/correctme.nvim)

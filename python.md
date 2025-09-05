@@ -281,4 +281,5 @@
 ### Manim
 
 - [randomdude16671/manimTools.nvim](https://github.com/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/stars/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/last-commit/randomdude16671/manimTools.nvim) ![](https://img.shields.io/github/commit-activity/y/randomdude16671/manimTools.nvim)
+- [yeasin50/manim.nvim](https://github.com/yeasin50/manim.nvim) ![](https://img.shields.io/github/stars/yeasin50/manim.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/manim.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/manim.nvim)
 - [Baelyk/manim.nvim](https://github.com/Baelyk/manim.nvim) ![](https://img.shields.io/github/stars/Baelyk/manim.nvim) ![](https://img.shields.io/github/last-commit/Baelyk/manim.nvim) ![](https://img.shields.io/github/commit-activity/y/Baelyk/manim.nvim)
