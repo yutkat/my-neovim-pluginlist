@@ -25,6 +25,7 @@
 ## Protocol
 
 ### HTTP
+- [icarios-dev/hapi.nvim](https://github.com/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/stars/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/last-commit/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/commit-activity/y/icarios-dev/hapi.nvim)
 
 #### Request
 
