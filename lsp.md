@@ -246,7 +246,6 @@
 - [JefferyBoy/renamer.nvim](https://github.com/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/renamer.nvim)
 - [cxncxl/nvim-f2](https://github.com/cxncxl/nvim-f2) ![](https://img.shields.io/github/stars/cxncxl/nvim-f2) ![](https://img.shields.io/github/last-commit/cxncxl/nvim-f2) ![](https://img.shields.io/github/commit-activity/y/cxncxl/nvim-f2)
 
-
 #### textDocument
 
 - [luckasRanarison/lsp-extras.nvim](https://github.com/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/stars/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/last-commit/luckasRanarison/lsp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/luckasRanarison/lsp-extras.nvim)
@@ -331,6 +330,7 @@
 
 - [adoyle-h/lsp-toggle.nvim](https://github.com/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/adoyle-h/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/adoyle-h/lsp-toggle.nvim)
 - [tronikelis/lsp-gc.nvim](https://github.com/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/stars/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/lsp-gc.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/lsp-gc.nvim)
+- [NeoSahadeo/lsp-toggle.nvim](https://github.com/NeoSahadeo/lsp-toggle.nvim) ![](https://img.shields.io/github/stars/NeoSahadeo/lsp-toggle.nvim) ![](https://img.shields.io/github/last-commit/NeoSahadeo/lsp-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoSahadeo/lsp-toggle.nvim)
 
 ### Handler
 

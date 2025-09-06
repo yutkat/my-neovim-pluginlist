@@ -69,6 +69,7 @@
 - [comfysage/lynn.nvim](https://github.com/comfysage/lynn.nvim) ![](https://img.shields.io/github/stars/comfysage/lynn.nvim) ![](https://img.shields.io/github/last-commit/comfysage/lynn.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/lynn.nvim)
 - [GlennMm/pack-manager.nvim](https://github.com/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/stars/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/pack-manager.nvim)
 - [fmpisantos/pack.nvim](https://github.com/fmpisantos/pack.nvim) ![](https://img.shields.io/github/stars/fmpisantos/pack.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/pack.nvim)
+- [mezdelex/unpack](https://github.com/mezdelex/unpack) ![](https://img.shields.io/github/stars/mezdelex/unpack) ![](https://img.shields.io/github/last-commit/mezdelex/unpack) ![](https://img.shields.io/github/commit-activity/y/mezdelex/unpack)
 
 ### Update checker
 
