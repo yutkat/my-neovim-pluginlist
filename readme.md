@@ -436,6 +436,7 @@
 - [adorostkar/NGG.nvim](https://github.com/adorostkar/NGG.nvim) ![](https://img.shields.io/github/stars/adorostkar/NGG.nvim) ![](https://img.shields.io/github/last-commit/adorostkar/NGG.nvim) ![](https://img.shields.io/github/commit-activity/y/adorostkar/NGG.nvim)
 - [srackham/digraph-picker.nvim](https://github.com/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/stars/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/last-commit/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/srackham/digraph-picker.nvim)
 
+
 ### Abbreviation
 
 - [0styx0/abbreinder.nvim](https://github.com/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/stars/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/last-commit/0styx0/abbreinder.nvim) ![](https://img.shields.io/github/commit-activity/y/0styx0/abbreinder.nvim)

@@ -57,6 +57,7 @@
 - [rohanorton/lua-gf.nvim](https://github.com/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/stars/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/last-commit/rohanorton/lua-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/rohanorton/lua-gf.nvim)
 - [vE5li/better-goto-file.nvim](https://github.com/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/stars/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/last-commit/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/better-goto-file.nvim)
 - [gs-deliverists-io/gf-override.nvim](https://github.com/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/gf-override.nvim)
+- [vE5li/better-goto-file.nvim](https://github.com/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/stars/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/last-commit/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/better-goto-file.nvim)
 
 ### Definition
 
@@ -101,5 +102,6 @@
 - [srcrip/mre.nvim](https://github.com/srcrip/mre.nvim) ![](https://img.shields.io/github/stars/srcrip/mre.nvim) ![](https://img.shields.io/github/last-commit/srcrip/mre.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/mre.nvim)
 - [dawsers/file-history.nvim](https://github.com/dawsers/file-history.nvim) ![](https://img.shields.io/github/stars/dawsers/file-history.nvim) ![](https://img.shields.io/github/last-commit/dawsers/file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/dawsers/file-history.nvim)
 - [nxhung2304/lastplace.nvim](https://github.com/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/stars/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/lastplace.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/lastplace.nvim)
+- [rdgd/timeline.nvim](https://github.com/rdgd/timeline.nvim) ![](https://img.shields.io/github/stars/rdgd/timeline.nvim) ![](https://img.shields.io/github/last-commit/rdgd/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/timeline.nvim)
 
 ### Cursor Position History

@@ -267,6 +267,7 @@
 ### refactor
 
 - [ianjkaplan/shrub.nvim](https://github.com/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/shrub.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/shrub.nvim)
+- [kranners/ts-refactor.nvim](https://github.com/kranners/ts-refactor.nvim) ![](https://img.shields.io/github/stars/kranners/ts-refactor.nvim) ![](https://img.shields.io/github/last-commit/kranners/ts-refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/kranners/ts-refactor.nvim)
 
 ## HTML
 

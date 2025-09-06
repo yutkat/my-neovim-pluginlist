@@ -118,6 +118,7 @@
 - [meznaric/key-analyzer.nvim](https://github.com/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/stars/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/last-commit/meznaric/key-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/meznaric/key-analyzer.nvim)
 - [JulianNymark/telescope_grouped_keymaps.nvim](https://github.com/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/stars/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/last-commit/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianNymark/telescope_grouped_keymaps.nvim)
 - [yuri-rage/nvim-keybind-tracker](https://github.com/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/stars/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/last-commit/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/commit-activity/y/yuri-rage/nvim-keybind-tracker)
+- [HunterretnuH/map-tree.nvim](https://github.com/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map-tree.nvim)
 
 ### Prefix Key Binding
 

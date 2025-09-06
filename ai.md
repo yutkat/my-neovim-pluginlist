@@ -150,6 +150,7 @@
 #### Codex
 
 - [johnseth97/codex.nvim](https://github.com/johnseth97/codex.nvim) ![](https://img.shields.io/github/stars/johnseth97/codex.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/codex.nvim)
+- [lesliesrussell/codex.nvim](https://github.com/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/stars/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/last-commit/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/lesliesrussell/codex.nvim)
 
 #### Whisper
 

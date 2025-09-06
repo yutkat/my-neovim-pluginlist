@@ -53,6 +53,7 @@
 - [Toprun123/sequin.nvim](https://github.com/Toprun123/sequin.nvim) ![](https://img.shields.io/github/stars/Toprun123/sequin.nvim) ![](https://img.shields.io/github/last-commit/Toprun123/sequin.nvim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/sequin.nvim)
 - [Sethrollinsbah/sqlnik.nvim](https://github.com/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlnik.nvim)
 - [Sethrollinsbah/sqlk.nvim](https://github.com/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlk.nvim)
+- [diegoortizmatajira/db-cli-adapter.nvim](https://github.com/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/db-cli-adapter.nvim)
 
 ### PostgreSQL
 

@@ -128,6 +128,7 @@
 - [Aliqyan-21/timy.nvim](https://github.com/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/stars/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/last-commit/Aliqyan-21/timy.nvim) ![](https://img.shields.io/github/commit-activity/y/Aliqyan-21/timy.nvim)
 - [4DRIAN0RTIZ/binaryclock.nvim](https://github.com/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/binaryclock.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/binaryclock.nvim)
 - [xTayEx/chronos.nvim](https://github.com/xTayEx/chronos.nvim) ![](https://img.shields.io/github/stars/xTayEx/chronos.nvim) ![](https://img.shields.io/github/last-commit/xTayEx/chronos.nvim) ![](https://img.shields.io/github/commit-activity/y/xTayEx/chronos.nvim)
+- [debasish-raychawdhuri/nvim-clock](https://github.com/debasish-raychawdhuri/nvim-clock) ![](https://img.shields.io/github/stars/debasish-raychawdhuri/nvim-clock) ![](https://img.shields.io/github/last-commit/debasish-raychawdhuri/nvim-clock) ![](https://img.shields.io/github/commit-activity/y/debasish-raychawdhuri/nvim-clock)
 
 ### Stock price
 
