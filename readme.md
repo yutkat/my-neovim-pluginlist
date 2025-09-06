@@ -435,6 +435,7 @@
 - [jonathanforhan/nvim-glyph](https://github.com/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/stars/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/last-commit/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/commit-activity/y/jonathanforhan/nvim-glyph)
 - [adorostkar/NGG.nvim](https://github.com/adorostkar/NGG.nvim) ![](https://img.shields.io/github/stars/adorostkar/NGG.nvim) ![](https://img.shields.io/github/last-commit/adorostkar/NGG.nvim) ![](https://img.shields.io/github/commit-activity/y/adorostkar/NGG.nvim)
 - [srackham/digraph-picker.nvim](https://github.com/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/stars/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/last-commit/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/srackham/digraph-picker.nvim)
+- [Jacob-Vanthof/digi.nvim](https://github.com/Jacob-Vanthof/digi.nvim) ![](https://img.shields.io/github/stars/Jacob-Vanthof/digi.nvim) ![](https://img.shields.io/github/last-commit/Jacob-Vanthof/digi.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacob-Vanthof/digi.nvim)
 
 ### Abbreviation
 

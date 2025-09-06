@@ -196,6 +196,8 @@
 - [maheshbansod/todo-marker.nvim](https://github.com/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/stars/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/last-commit/maheshbansod/todo-marker.nvim) ![](https://img.shields.io/github/commit-activity/y/maheshbansod/todo-marker.nvim)
 - [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
 - [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
+- [arch563/reminders.nvim](https://github.com/arch563/reminders.nvim) ![](https://img.shields.io/github/stars/arch563/reminders.nvim) ![](https://img.shields.io/github/last-commit/arch563/reminders.nvim) ![](https://img.shields.io/github/commit-activity/y/arch563/reminders.nvim)
+- [neov5/tasktree.nvim](https://github.com/neov5/tasktree.nvim) ![](https://img.shields.io/github/stars/neov5/tasktree.nvim) ![](https://img.shields.io/github/last-commit/neov5/tasktree.nvim) ![](https://img.shields.io/github/commit-activity/y/neov5/tasktree.nvim)
 
 #### Google Task
 
@@ -245,6 +247,7 @@
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
 - [saravenpi/pebble.nvim](https://github.com/saravenpi/pebble.nvim) ![](https://img.shields.io/github/stars/saravenpi/pebble.nvim) ![](https://img.shields.io/github/last-commit/saravenpi/pebble.nvim) ![](https://img.shields.io/github/commit-activity/y/saravenpi/pebble.nvim)
 - [IKarasev/obsidian-tasks.nvim](https://github.com/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/obsidian-tasks.nvim)
+- [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 
 ### nb
 
@@ -510,4 +513,5 @@
 - [0pama/tasky.nvim](https://github.com/0pama/tasky.nvim) ![](https://img.shields.io/github/stars/0pama/tasky.nvim) ![](https://img.shields.io/github/last-commit/0pama/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/0pama/tasky.nvim)
 - [kyunuya/qnote.nvim](https://github.com/kyunuya/qnote.nvim) ![](https://img.shields.io/github/stars/kyunuya/qnote.nvim) ![](https://img.shields.io/github/last-commit/kyunuya/qnote.nvim) ![](https://img.shields.io/github/commit-activity/y/kyunuya/qnote.nvim)
 - [sheepy9/jotnotes.nvim](https://github.com/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/stars/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/last-commit/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/sheepy9/jotnotes.nvim)
+- [etiennecollin/notes.nvim](https://github.com/etiennecollin/notes.nvim) ![](https://img.shields.io/github/stars/etiennecollin/notes.nvim) ![](https://img.shields.io/github/last-commit/etiennecollin/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/etiennecollin/notes.nvim)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
