@@ -43,6 +43,7 @@
 
 - [fouladi/toggle-overlength.nvim](https://github.com/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/stars/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/last-commit/fouladi/toggle-overlength.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/toggle-overlength.nvim)
 - [lenwood081/character_number_indicator.nvim](https://github.com/lenwood081/character_number_indicator.nvim) ![](https://img.shields.io/github/stars/lenwood081/character_number_indicator.nvim) ![](https://img.shields.io/github/last-commit/lenwood081/character_number_indicator.nvim) ![](https://img.shields.io/github/commit-activity/y/lenwood081/character_number_indicator.nvim)
+- [hugoh/nvim-toowide](https://github.com/hugoh/nvim-toowide) ![](https://img.shields.io/github/stars/hugoh/nvim-toowide) ![](https://img.shields.io/github/last-commit/hugoh/nvim-toowide) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-toowide)
 
 ### EOL
 

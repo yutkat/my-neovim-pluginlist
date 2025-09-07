@@ -428,6 +428,7 @@
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
 - [Glhou/lazyjj.nvim](https://github.com/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/stars/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/Glhou/lazyjj.nvim)
 - [evanphx/jjsigns.nvim](https://github.com/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/stars/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/evanphx/jjsigns.nvim)
+- [benjaminjellis/jjinfo.nvim](https://github.com/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/stars/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/last-commit/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminjellis/jjinfo.nvim)
 
 ### diff
 
