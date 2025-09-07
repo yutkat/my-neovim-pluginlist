@@ -557,7 +557,6 @@
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [xTacobaco/cursor-agent.nvim](https://github.com/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/stars/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/xTacobaco/cursor-agent.nvim)
 - [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
-- [6clc/nvim-cursor-agent](https://github.com/6clc/nvim-cursor-agent) ![](https://img.shields.io/github/stars/6clc/nvim-cursor-agent) ![](https://img.shields.io/github/last-commit/6clc/nvim-cursor-agent) ![](https://img.shields.io/github/commit-activity/y/6clc/nvim-cursor-agent)
 
 ## CodeCompanion
 

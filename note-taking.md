@@ -322,7 +322,6 @@
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
-- [R-Camacho/sandbox.nvim](https://github.com/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/stars/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/last-commit/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/commit-activity/y/R-Camacho/sandbox.nvim)
 
 ### inline note
 

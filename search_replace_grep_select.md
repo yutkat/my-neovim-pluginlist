@@ -201,7 +201,6 @@
 - [newtoallofthis123/goated.nvim](https://github.com/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/stars/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/last-commit/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/commit-activity/y/newtoallofthis123/goated.nvim)
 - [aekasitt/oxeye.nvim](https://github.com/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/stars/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/oxeye.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/oxeye.nvim)
 - [dk949/ast-search.nvim](https://github.com/dk949/ast-search.nvim) ![](https://img.shields.io/github/stars/dk949/ast-search.nvim) ![](https://img.shields.io/github/last-commit/dk949/ast-search.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/ast-search.nvim)
-- [krutt/oxeye.nvim](https://github.com/krutt/oxeye.nvim) ![](https://img.shields.io/github/stars/krutt/oxeye.nvim) ![](https://img.shields.io/github/last-commit/krutt/oxeye.nvim) ![](https://img.shields.io/github/commit-activity/y/krutt/oxeye.nvim)
 
 ### Zoket(google)
 

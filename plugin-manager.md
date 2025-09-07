@@ -111,6 +111,10 @@
 - [neuromaancer/readup.nvim](https://github.com/neuromaancer/readup.nvim) ![](https://img.shields.io/github/stars/neuromaancer/readup.nvim) ![](https://img.shields.io/github/last-commit/neuromaancer/readup.nvim) ![](https://img.shields.io/github/commit-activity/y/neuromaancer/readup.nvim)
 - [selectnull/plugin-readme.nvim](https://github.com/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/stars/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/last-commit/selectnull/plugin-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/selectnull/plugin-readme.nvim)
 
+### Sandbox
+
+- [R-Camacho/sandbox.nvim](https://github.com/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/stars/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/last-commit/R-Camacho/sandbox.nvim) ![](https://img.shields.io/github/commit-activity/y/R-Camacho/sandbox.nvim)
+
 ### local plugin
 
 ## Market place
