@@ -12,6 +12,7 @@
   - [Obsidian](#obsidian)
   - [nb](#nb)
   - [Zeppelin](#zeppelin)
+  - [Joplin](#joplin)
   - [Blog](#blog)
     - [Hugo](#hugo)
     - [GitHub Pages](#github-pages)
@@ -254,6 +255,10 @@
 ### Zeppelin
 
 - [mihneamanolache/zeppelin.nvim](https://github.com/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/stars/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/last-commit/mihneamanolache/zeppelin.nvim) ![](https://img.shields.io/github/commit-activity/y/mihneamanolache/zeppelin.nvim)
+
+### Joplin
+
+- [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) ![](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/happyeric77/joplin.nvim)
 
 ### Blog
 
