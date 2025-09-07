@@ -668,6 +668,10 @@
 
 - [mmsaki/huff.nvim](https://github.com/mmsaki/huff.nvim) ![](https://img.shields.io/github/stars/mmsaki/huff.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/huff.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/huff.nvim)
 
+#### Simplicity
+
+- [krutt/oxeye.nvim](https://github.com/krutt/oxeye.nvim) ![](https://img.shields.io/github/stars/krutt/oxeye.nvim) ![](https://img.shields.io/github/last-commit/krutt/oxeye.nvim) ![](https://img.shields.io/github/commit-activity/y/krutt/oxeye.nvim)
+
 #### Bril
 
 - [ethanuppal/bril.nvim](https://github.com/ethanuppal/bril.nvim) ![](https://img.shields.io/github/stars/ethanuppal/bril.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/bril.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/bril.nvim)

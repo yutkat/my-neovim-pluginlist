@@ -113,6 +113,7 @@
 - [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
 - [hiattp/splitwise.nvim](https://github.com/hiattp/splitwise.nvim) ![](https://img.shields.io/github/stars/hiattp/splitwise.nvim) ![](https://img.shields.io/github/last-commit/hiattp/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/hiattp/splitwise.nvim)
 - [sanko00098797/splitwise.nvim](https://github.com/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/stars/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/last-commit/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/sanko00098797/splitwise.nvim)
+- [0xKahi/lazy-splits.nvim](https://github.com/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/stars/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/last-commit/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKahi/lazy-splits.nvim)
 
 #### Popup
 
