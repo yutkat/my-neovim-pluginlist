@@ -72,6 +72,7 @@
 - [paradoxical-dev/multi-session.nvim](https://github.com/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/multi-session.nvim)
 - [comfysage/nivvie.nvim](https://github.com/comfysage/nivvie.nvim) ![](https://img.shields.io/github/stars/comfysage/nivvie.nvim) ![](https://img.shields.io/github/last-commit/comfysage/nivvie.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/nivvie.nvim)
 
+
 ### Session Selector
 
 - [HUAHUAI23/telescope-session.nvim](https://github.com/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/stars/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/last-commit/HUAHUAI23/telescope-session.nvim) ![](https://img.shields.io/github/commit-activity/y/HUAHUAI23/telescope-session.nvim)

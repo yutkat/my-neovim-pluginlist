@@ -572,6 +572,7 @@
 ### GitLab Guo
 
 - [Kraust/codecompanion-gitlab.nvim](https://github.com/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/stars/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/last-commit/Kraust/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/Kraust/codecompanion-gitlab.nvim)
+- [dgptamayo/codecompanion-gitlab.nvim](https://github.com/dgptamayo/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/stars/dgptamayo/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/last-commit/dgptamayo/codecompanion-gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/dgptamayo/codecompanion-gitlab.nvim)
 
 ### Chatblade
 
@@ -598,6 +599,7 @@
 ## Pair Programming
 
 - [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
+- [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
 
 ## log
 
