@@ -270,6 +270,7 @@
 - [vincent178/copy.nvim](https://github.com/vincent178/copy.nvim) ![](https://img.shields.io/github/stars/vincent178/copy.nvim) ![](https://img.shields.io/github/last-commit/vincent178/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/vincent178/copy.nvim)
 - [mogulla3/copy-file-path.nvim](https://github.com/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/stars/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/last-commit/mogulla3/copy-file-path.nvim) ![](https://img.shields.io/github/commit-activity/y/mogulla3/copy-file-path.nvim)
 - [mikinovation/pathtool.nvim](https://github.com/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/stars/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/last-commit/mikinovation/pathtool.nvim) ![](https://img.shields.io/github/commit-activity/y/mikinovation/pathtool.nvim)
+- [jmadotgg/vimlink.nvim](https://github.com/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/stars/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/last-commit/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/commit-activity/y/jmadotgg/vimlink.nvim)
 
 #### status
 

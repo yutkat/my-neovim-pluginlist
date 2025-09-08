@@ -178,7 +178,6 @@
 
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) ![](https://img.shields.io/github/stars/mikew/nvim-drawer) ![](https://img.shields.io/github/last-commit/mikew/nvim-drawer) ![](https://img.shields.io/github/commit-activity/y/mikew/nvim-drawer)
 - [leonardo-luz/floatwindow.nvim](https://github.com/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/floatwindow.nvim)
-- [Jlchong3/drawer.nvim](https://github.com/Jlchong3/drawer.nvim) ![](https://img.shields.io/github/stars/Jlchong3/drawer.nvim) ![](https://img.shields.io/github/last-commit/Jlchong3/drawer.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlchong3/drawer.nvim)
 
 ### HTML
 
