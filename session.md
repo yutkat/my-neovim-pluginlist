@@ -71,6 +71,7 @@
 - [xorangekiller/session-select.nvim](https://github.com/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/stars/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/last-commit/xorangekiller/session-select.nvim) ![](https://img.shields.io/github/commit-activity/y/xorangekiller/session-select.nvim)
 - [paradoxical-dev/multi-session.nvim](https://github.com/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/multi-session.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/multi-session.nvim)
 - [comfysage/nivvie.nvim](https://github.com/comfysage/nivvie.nvim) ![](https://img.shields.io/github/stars/comfysage/nivvie.nvim) ![](https://img.shields.io/github/last-commit/comfysage/nivvie.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/nivvie.nvim)
+- [6clc/nvim-custom-workspace](https://github.com/6clc/nvim-custom-workspace) ![](https://img.shields.io/github/stars/6clc/nvim-custom-workspace) ![](https://img.shields.io/github/last-commit/6clc/nvim-custom-workspace) ![](https://img.shields.io/github/commit-activity/y/6clc/nvim-custom-workspace)
 
 ### Session Selector
 

@@ -145,6 +145,7 @@
 - [Airbag65/slurp.nvim](https://github.com/Airbag65/slurp.nvim) ![](https://img.shields.io/github/stars/Airbag65/slurp.nvim) ![](https://img.shields.io/github/last-commit/Airbag65/slurp.nvim) ![](https://img.shields.io/github/commit-activity/y/Airbag65/slurp.nvim)
 - [mahyarmirrashed/search-and-replace.nvim](https://github.com/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/search-and-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/search-and-replace.nvim)
 - [shortcuts/search-and-replace.nvim](https://github.com/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/stars/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/last-commit/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/shortcuts/search-and-replace.nvim)
+- [vigneshbalan-mvgs/nvim-ripreplace](https://github.com/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/stars/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/last-commit/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/commit-activity/y/vigneshbalan-mvgs/nvim-ripreplace)
 
 ### Rename
 
