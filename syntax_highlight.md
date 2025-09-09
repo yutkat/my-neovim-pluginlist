@@ -83,6 +83,7 @@
 ## Syntax
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
+- [notxkcd/nvim-jasmin](https://github.com/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/stars/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/last-commit/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/commit-activity/y/notxkcd/nvim-jasmin)
 
 ### Semantic highlight
 

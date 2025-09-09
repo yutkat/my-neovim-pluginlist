@@ -74,6 +74,7 @@
 - [sdavisde/nvim-task-timer](https://github.com/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/stars/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/last-commit/sdavisde/nvim-task-timer) ![](https://img.shields.io/github/commit-activity/y/sdavisde/nvim-task-timer)
 - [lax-ram-swe/nvim-line-timer](https://github.com/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/stars/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/last-commit/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/commit-activity/y/lax-ram-swe/nvim-line-timer)
 - [ravsii/timer.nvim](https://github.com/ravsii/timer.nvim) ![](https://img.shields.io/github/stars/ravsii/timer.nvim) ![](https://img.shields.io/github/last-commit/ravsii/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/ravsii/timer.nvim)
+- [Tin-Mijatovic/fit.nvim](https://github.com/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/stars/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/last-commit/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/commit-activity/y/Tin-Mijatovic/fit.nvim)
 
 ## Do Not Disturb
 

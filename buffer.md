@@ -317,6 +317,7 @@
 ### Move history
 
 - [FaisonZ/bring-a-map.nvim](https://github.com/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/stars/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/last-commit/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/commit-activity/y/FaisonZ/bring-a-map.nvim)
+- [shorya-1012/buffer_walker.nvim](https://github.com/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/stars/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/last-commit/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/commit-activity/y/shorya-1012/buffer_walker.nvim)
 
 ### refresh
 
