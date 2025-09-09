@@ -437,7 +437,6 @@
 
 - [CrystalDime/epub.nvim](https://github.com/CrystalDime/epub.nvim) ![](https://img.shields.io/github/stars/CrystalDime/epub.nvim) ![](https://img.shields.io/github/last-commit/CrystalDime/epub.nvim) ![](https://img.shields.io/github/commit-activity/y/CrystalDime/epub.nvim)
 - [Shuheng-Zhang/bk.nvim](https://github.com/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/bk.nvim)
-- [Shuheng-Zhang/ebr.nvim](https://github.com/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/ebr.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/ebr.nvim)
 
 ### Pandoc
 
