@@ -50,7 +50,6 @@
 - [GowayLee/reform.nvim](https://github.com/GowayLee/reform.nvim) ![](https://img.shields.io/github/stars/GowayLee/reform.nvim) ![](https://img.shields.io/github/last-commit/GowayLee/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/GowayLee/reform.nvim)
 - [csmhowitzer/format-width.nvim](https://github.com/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/format-width.nvim)
 - [mmsaki/forgefmt.nvim](https://github.com/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/stars/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/forgefmt.nvim)
-- [duv16/yapf-format.nvim](https://github.com/duv16/yapf-format.nvim) ![](https://img.shields.io/github/stars/duv16/yapf-format.nvim) ![](https://img.shields.io/github/last-commit/duv16/yapf-format.nvim) ![](https://img.shields.io/github/commit-activity/y/duv16/yapf-format.nvim)
 
 ### Trim Whitespace
 

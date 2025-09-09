@@ -74,7 +74,6 @@
 - [LetsRipp/nvim-header](https://github.com/LetsRipp/nvim-header) ![](https://img.shields.io/github/stars/LetsRipp/nvim-header) ![](https://img.shields.io/github/last-commit/LetsRipp/nvim-header) ![](https://img.shields.io/github/commit-activity/y/LetsRipp/nvim-header)
 - [quintin-lee/header.nvim](https://github.com/quintin-lee/header.nvim) ![](https://img.shields.io/github/stars/quintin-lee/header.nvim) ![](https://img.shields.io/github/last-commit/quintin-lee/header.nvim) ![](https://img.shields.io/github/commit-activity/y/quintin-lee/header.nvim)
 - [sunwukonga/heading.nvim](https://github.com/sunwukonga/heading.nvim) ![](https://img.shields.io/github/stars/sunwukonga/heading.nvim) ![](https://img.shields.io/github/last-commit/sunwukonga/heading.nvim) ![](https://img.shields.io/github/commit-activity/y/sunwukonga/heading.nvim)
- - [sigmacodeslol/mkcmt.nvim](https://github.com/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/stars/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/last-commit/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/commit-activity/y/sigmacodeslol/mkcmt.nvim)
 
 ### Voice comment
 
