@@ -38,6 +38,7 @@
 - [r0nsha/qfpreview.nvim](https://github.com/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/stars/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/qfpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/qfpreview.nvim)
 - [brianhuster/qfpeek.nvim](https://github.com/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/stars/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/qfpeek.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/qfpeek.nvim)
 - [satler-git/qfsync.nvim](https://github.com/satler-git/qfsync.nvim) ![](https://img.shields.io/github/stars/satler-git/qfsync.nvim) ![](https://img.shields.io/github/last-commit/satler-git/qfsync.nvim) ![](https://img.shields.io/github/commit-activity/y/satler-git/qfsync.nvim)
+- [QuiiBz/pretty-quickfix.nvim](https://github.com/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/stars/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/last-commit/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/QuiiBz/pretty-quickfix.nvim)
 
 ### Output the list to another format
 

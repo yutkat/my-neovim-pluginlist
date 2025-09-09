@@ -42,6 +42,7 @@
 - [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
 - [thesimonho/frecentmarks.nvim](https://github.com/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/stars/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/last-commit/thesimonho/frecentmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/thesimonho/frecentmarks.nvim)
 - [yangxingwu/nvim-mark.lua](https://github.com/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/stars/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/last-commit/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/commit-activity/y/yangxingwu/nvim-mark.lua)
+- [sigmacodeslol/mkcmt.nvim](https://github.com/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/stars/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/last-commit/sigmacodeslol/mkcmt.nvim) ![](https://img.shields.io/github/commit-activity/y/sigmacodeslol/mkcmt.nvim)
 
 ### extmark
 
