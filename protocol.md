@@ -55,7 +55,6 @@
 - [grqphical/rest.nvim](https://github.com/grqphical/rest.nvim) ![](https://img.shields.io/github/stars/grqphical/rest.nvim) ![](https://img.shields.io/github/last-commit/grqphical/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/grqphical/rest.nvim)
 - [eumis/runb.nvim](https://github.com/eumis/runb.nvim) ![](https://img.shields.io/github/stars/eumis/runb.nvim) ![](https://img.shields.io/github/last-commit/eumis/runb.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/runb.nvim)
 - [zerochae/endpoint.nvim](https://github.com/zerochae/endpoint.nvim) ![](https://img.shields.io/github/stars/zerochae/endpoint.nvim) ![](https://img.shields.io/github/last-commit/zerochae/endpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/endpoint.nvim)
-- [Oddly/elasticsearch-run.nvim](https://github.com/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/stars/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/last-commit/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/Oddly/elasticsearch-run.nvim)
 
 #### .http / .rest file
 

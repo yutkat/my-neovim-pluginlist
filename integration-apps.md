@@ -35,6 +35,7 @@
     - [Dataform](#dataform)
     - [Nginx](#nginx)
     - [OpenFGA](#openfga)
+    - [ElasticSearch](#elasticsearch)
   - [Cloud](#cloud)
     - [Terraform](#terraform)
       - [atmos](#atmos)
@@ -223,6 +224,10 @@
 #### OpenFGA
 
 - [hedengran/fga.nvim](https://github.com/hedengran/fga.nvim) ![](https://img.shields.io/github/stars/hedengran/fga.nvim) ![](https://img.shields.io/github/last-commit/hedengran/fga.nvim) ![](https://img.shields.io/github/commit-activity/y/hedengran/fga.nvim)
+
+#### ElasticSearch
+
+- [Oddly/elasticsearch-run.nvim](https://github.com/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/stars/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/last-commit/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/Oddly/elasticsearch-run.nvim)
 
 ### Cloud
 

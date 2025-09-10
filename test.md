@@ -30,7 +30,6 @@
 - [fcoury/vial.nvim](https://github.com/fcoury/vial.nvim) ![](https://img.shields.io/github/stars/fcoury/vial.nvim) ![](https://img.shields.io/github/last-commit/fcoury/vial.nvim) ![](https://img.shields.io/github/commit-activity/y/fcoury/vial.nvim)
 - [LiXuanqi/testx.nvim](https://github.com/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/testx.nvim)
 - [choneface/test-runner.nvim](https://github.com/choneface/test-runner.nvim) ![](https://img.shields.io/github/stars/choneface/test-runner.nvim) ![](https://img.shields.io/github/last-commit/choneface/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/choneface/test-runner.nvim)
-- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/stars/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/last-commit/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/commit-activity/y/ivuorinen/nvim-shellspec)
 
 ### Test file
 
