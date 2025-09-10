@@ -67,6 +67,7 @@
 - [iamvladw/material-icons.nvim](https://github.com/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/stars/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/last-commit/iamvladw/material-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/iamvladw/material-icons.nvim)
 - [knaveightt/wims.nvim](https://github.com/knaveightt/wims.nvim) ![](https://img.shields.io/github/stars/knaveightt/wims.nvim) ![](https://img.shields.io/github/last-commit/knaveightt/wims.nvim) ![](https://img.shields.io/github/commit-activity/y/knaveightt/wims.nvim)
 - [HunterretnuH/universal-icons.nvim](https://github.com/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/universal-icons.nvim)
+- [HunterretnuH/universal-icons.nvim](https://github.com/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/universal-icons.nvim)
 
 ### Devicon color
 
