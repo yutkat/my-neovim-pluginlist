@@ -4,6 +4,7 @@
 
 - [Spell](#spell)
   - [Spellcheck](#spellcheck)
+  - [ShellSpec](#shellspec)
   - [Vale](#vale)
 - [Pronunce](#pronunce)
 - [Thesaurus](#thesaurus)
@@ -41,6 +42,10 @@
 - [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 - [unrealapex/prose.nvim](https://github.com/unrealapex/prose.nvim) ![](https://img.shields.io/github/stars/unrealapex/prose.nvim) ![](https://img.shields.io/github/last-commit/unrealapex/prose.nvim) ![](https://img.shields.io/github/commit-activity/y/unrealapex/prose.nvim)
 - [kungfusaini/spellcheck-mode.nvim](https://github.com/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/stars/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/last-commit/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusaini/spellcheck-mode.nvim)
+
+### ShellSpec
+
+- [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/stars/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/last-commit/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/commit-activity/y/ivuorinen/nvim-shellspec)
 
 ### Vale
 

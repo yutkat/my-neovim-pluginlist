@@ -29,6 +29,7 @@
 - [tkopets/dadbod-explorer.nvim](https://github.com/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/stars/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/last-commit/tkopets/dadbod-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/tkopets/dadbod-explorer.nvim)
 - [Spelis/nvim-dbview](https://github.com/Spelis/nvim-dbview) ![](https://img.shields.io/github/stars/Spelis/nvim-dbview) ![](https://img.shields.io/github/last-commit/Spelis/nvim-dbview) ![](https://img.shields.io/github/commit-activity/y/Spelis/nvim-dbview)
 - [Ramilito/nvim-dadbod](https://github.com/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/stars/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/last-commit/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/commit-activity/y/Ramilito/nvim-dadbod)
+- [praem90/db.nvim](https://github.com/praem90/db.nvim) ![](https://img.shields.io/github/stars/praem90/db.nvim) ![](https://img.shields.io/github/last-commit/praem90/db.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/db.nvim)
 
 ### SQL
 
