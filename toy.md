@@ -85,7 +85,6 @@
 #### Screen Recording
 
 - [wsdjeg/record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-screen.nvim)
-- [ChrisO345/schnapper.nvim](https://github.com/ChrisO345/schnapper.nvim) ![](https://img.shields.io/github/stars/ChrisO345/schnapper.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/schnapper.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/schnapper.nvim)
 
 ### View
 
@@ -102,7 +101,6 @@
 
 ### Turing path
 
-- [1NickPappas/turing_path.nvim](https://github.com/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/stars/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/last-commit/1NickPappas/turing_path.nvim) ![](https://img.shields.io/github/commit-activity/y/1NickPappas/turing_path.nvim)
 
 ### Gesture
 
