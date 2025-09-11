@@ -79,7 +79,6 @@
 
 #### drupal
 
-- [jdrupal-dev/drupal.nvim](https://github.com/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/stars/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/last-commit/jdrupal-dev/drupal.nvim) ![](https://img.shields.io/github/commit-activity/y/jdrupal-dev/drupal.nvim)
 
 ### phpcs
 

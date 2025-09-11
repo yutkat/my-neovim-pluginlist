@@ -142,7 +142,6 @@
 - [fedepujol/move.nvim](https://github.com/fedepujol/move.nvim) ![](https://img.shields.io/github/stars/fedepujol/move.nvim) ![](https://img.shields.io/github/last-commit/fedepujol/move.nvim) ![](https://img.shields.io/github/commit-activity/y/fedepujol/move.nvim)
 - [0x00-ketsu/pull-line.nvim](https://github.com/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/pull-line.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/pull-line.nvim)
 - [EbadiDev/nvim-move-mode](https://github.com/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/stars/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/last-commit/EbadiDev/nvim-move-mode) ![](https://img.shields.io/github/commit-activity/y/EbadiDev/nvim-move-mode)
-- [DarthMooMancer/Neotweaks](https://github.com/DarthMooMancer/Neotweaks) ![](https://img.shields.io/github/stars/DarthMooMancer/Neotweaks) ![](https://img.shields.io/github/last-commit/DarthMooMancer/Neotweaks) ![](https://img.shields.io/github/commit-activity/y/DarthMooMancer/Neotweaks)
 - [kobbikobb/move-lines.nvim](https://github.com/kobbikobb/move-lines.nvim) ![](https://img.shields.io/github/stars/kobbikobb/move-lines.nvim) ![](https://img.shields.io/github/last-commit/kobbikobb/move-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/kobbikobb/move-lines.nvim)
 
 ### Paragraph Motion
