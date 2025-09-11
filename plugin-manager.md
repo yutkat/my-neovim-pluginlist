@@ -14,6 +14,7 @@
   - [Plugin Config](#plugin-config)
   - [Switch](#switch)
   - [Open README](#open-readme)
+  - [Sandbox](#sandbox)
   - [local plugin](#local-plugin)
 - [Market place](#market-place)
 - [Usage Report](#usage-report)
@@ -46,7 +47,6 @@
 - [MisanthropicBit/parcel.nvim](https://github.com/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/parcel.nvim)
 - [lulkien/packoff.nvim](https://github.com/lulkien/packoff.nvim) ![](https://img.shields.io/github/stars/lulkien/packoff.nvim) ![](https://img.shields.io/github/last-commit/lulkien/packoff.nvim) ![](https://img.shields.io/github/commit-activity/y/lulkien/packoff.nvim)
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
-- [Lumetas/lnpm.nvim](https://github.com/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/stars/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lnpm.nvim)
 
 ### Use builtin package feature
 
@@ -71,6 +71,7 @@
 - [GlennMm/pack-manager.nvim](https://github.com/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/stars/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/pack-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/pack-manager.nvim)
 - [fmpisantos/pack.nvim](https://github.com/fmpisantos/pack.nvim) ![](https://img.shields.io/github/stars/fmpisantos/pack.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/pack.nvim)
 - [mezdelex/unpack](https://github.com/mezdelex/unpack) ![](https://img.shields.io/github/stars/mezdelex/unpack) ![](https://img.shields.io/github/last-commit/mezdelex/unpack) ![](https://img.shields.io/github/commit-activity/y/mezdelex/unpack)
+- [Lumetas/lnpm.nvim](https://github.com/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/stars/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lnpm.nvim)
 
 ### Update checker
 
