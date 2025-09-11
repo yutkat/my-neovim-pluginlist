@@ -45,7 +45,6 @@
 ### Parinfer
 
 - [gpanders/nvim-parinfer](https://github.com/gpanders/nvim-parinfer) ![](https://img.shields.io/github/stars/gpanders/nvim-parinfer) ![](https://img.shields.io/github/last-commit/gpanders/nvim-parinfer) ![](https://img.shields.io/github/commit-activity/y/gpanders/nvim-parinfer)
-- [kaiuri/parinfer.nvim](https://github.com/kaiuri/parinfer.nvim) ![](https://img.shields.io/github/stars/kaiuri/parinfer.nvim) ![](https://img.shields.io/github/last-commit/kaiuri/parinfer.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiuri/parinfer.nvim)
 
 ### Helix selection mode
 

@@ -136,7 +136,6 @@
 
 ### Mapping toggle
 
-- [paulfrische/mode.nvim](https://github.com/paulfrische/mode.nvim) ![](https://img.shields.io/github/stars/paulfrische/mode.nvim) ![](https://img.shields.io/github/last-commit/paulfrische/mode.nvim) ![](https://img.shields.io/github/commit-activity/y/paulfrische/mode.nvim)
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
 
 ### Improve Mappings

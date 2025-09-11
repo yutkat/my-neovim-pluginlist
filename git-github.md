@@ -134,7 +134,6 @@
 ### git status
 
 - [lewis6991/gitsigns.nvim](https://github.com/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/stars/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/gitsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/gitsigns.nvim)
-  - [cpplain/flexoki-gitsigns.nvim](https://github.com/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/stars/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/last-commit/cpplain/flexoki-gitsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/cpplain/flexoki-gitsigns.nvim)
   - [fuyu510/gitsigns-svncommand.nvim](https://github.com/fuyu510/gitsigns-svncommand.nvim) ![](https://img.shields.io/github/stars/fuyu510/gitsigns-svncommand.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/gitsigns-svncommand.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/gitsigns-svncommand.nvim)
 - [tanvirtin/vgit.nvim](https://github.com/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/stars/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/last-commit/tanvirtin/vgit.nvim) ![](https://img.shields.io/github/commit-activity/y/tanvirtin/vgit.nvim)
 - [rmagatti/igs.nvim](https://github.com/rmagatti/igs.nvim) ![](https://img.shields.io/github/stars/rmagatti/igs.nvim) ![](https://img.shields.io/github/last-commit/rmagatti/igs.nvim) ![](https://img.shields.io/github/commit-activity/y/rmagatti/igs.nvim)
