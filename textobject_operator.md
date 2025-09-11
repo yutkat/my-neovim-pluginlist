@@ -31,7 +31,6 @@
 - [ColinKennedy/cursor-text-objects.nvim](https://github.com/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/stars/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/last-commit/ColinKennedy/cursor-text-objects.nvim) ![](https://img.shields.io/github/commit-activity/y/ColinKennedy/cursor-text-objects.nvim)
 - [mawkler/jsx-element.nvim](https://github.com/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/stars/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/last-commit/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/jsx-element.nvim)
 - [srghma-backup/nvim-various-textobjs-movements](https://github.com/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma-backup/nvim-various-textobjs-movements)
-- [mikejmcguirk/arboreal.nvim](https://github.com/mikejmcguirk/arboreal.nvim) ![](https://img.shields.io/github/stars/mikejmcguirk/arboreal.nvim) ![](https://img.shields.io/github/last-commit/mikejmcguirk/arboreal.nvim) ![](https://img.shields.io/github/commit-activity/y/mikejmcguirk/arboreal.nvim)
 
 ### Unit
 
