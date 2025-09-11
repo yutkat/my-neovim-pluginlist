@@ -154,6 +154,7 @@
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
 - [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
+ - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 
 #### highlight
 

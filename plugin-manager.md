@@ -46,6 +46,7 @@
 - [MisanthropicBit/parcel.nvim](https://github.com/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/stars/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/last-commit/MisanthropicBit/parcel.nvim) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/parcel.nvim)
 - [lulkien/packoff.nvim](https://github.com/lulkien/packoff.nvim) ![](https://img.shields.io/github/stars/lulkien/packoff.nvim) ![](https://img.shields.io/github/last-commit/lulkien/packoff.nvim) ![](https://img.shields.io/github/commit-activity/y/lulkien/packoff.nvim)
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
+- [Lumetas/lnpm.nvim](https://github.com/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/stars/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lnpm.nvim)
 
 ### Use builtin package feature
 
