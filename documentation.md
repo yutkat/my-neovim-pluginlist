@@ -102,6 +102,7 @@
 - [adibhanna/simplemarkdown.nvim](https://github.com/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/stars/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/simplemarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/simplemarkdown.nvim)
 - [jeangiraldoo/markup.nvim](https://github.com/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/markup.nvim)
 - [erel213/markdown-writer.nvim](https://github.com/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/stars/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/last-commit/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/erel213/markdown-writer.nvim)
+- [Jaehaks/md-utility.nvim](https://github.com/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/stars/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/md-utility.nvim)
 
 #### Markdown link
 
@@ -153,6 +154,7 @@
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
 - [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
+ - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 
 #### highlight
 

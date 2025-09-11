@@ -63,6 +63,7 @@
 - [ebaldebo/project-finder.nvim](https://github.com/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/stars/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/last-commit/ebaldebo/project-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/ebaldebo/project-finder.nvim)
 - [lopesivan/telescope-project.nvim](https://github.com/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/stars/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/lopesivan/telescope-project.nvim)
 - [CaptShanks/project-switcher.nvim](https://github.com/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/stars/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/last-commit/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/CaptShanks/project-switcher.nvim)
+- [Lumetas/lum-projects.nvim](https://github.com/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/stars/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lum-projects.nvim)
 
 ### Project Root Detector
 
@@ -85,6 +86,7 @@
 ### Project Template
 
 - [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
+- [tenmo2003/scaffold.nvim](https://github.com/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/stars/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/last-commit/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/commit-activity/y/tenmo2003/scaffold.nvim)
 
 ### Project syntax
 

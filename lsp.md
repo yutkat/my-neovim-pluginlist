@@ -206,6 +206,7 @@
 - [amnn/lsp-echohint.nvim](https://github.com/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/stars/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/last-commit/amnn/lsp-echohint.nvim) ![](https://img.shields.io/github/commit-activity/y/amnn/lsp-echohint.nvim)
 - [jfly/lsp-diagnostic-quirks.nvim](https://github.com/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/stars/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/last-commit/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/commit-activity/y/jfly/lsp-diagnostic-quirks.nvim)
 - [saying121/interactive-inlay-hint.nvim](https://github.com/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/stars/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/last-commit/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/saying121/interactive-inlay-hint.nvim)
+- [sim-maz/show-type.nvim](https://github.com/sim-maz/show-type.nvim) ![](https://img.shields.io/github/stars/sim-maz/show-type.nvim) ![](https://img.shields.io/github/last-commit/sim-maz/show-type.nvim) ![](https://img.shields.io/github/commit-activity/y/sim-maz/show-type.nvim)
 
 #### Hover Doc
 
@@ -219,6 +220,7 @@
 - [hesom/multihover.nvim](https://github.com/hesom/multihover.nvim) ![](https://img.shields.io/github/stars/hesom/multihover.nvim) ![](https://img.shields.io/github/last-commit/hesom/multihover.nvim) ![](https://img.shields.io/github/commit-activity/y/hesom/multihover.nvim)
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
 - [star-lance/nvim-hoverfloat](https://github.com/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/stars/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/last-commit/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/commit-activity/y/star-lance/nvim-hoverfloat)
+- [hadikhamoud/hover-rtl.nvim](https://github.com/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/stars/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/last-commit/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/commit-activity/y/hadikhamoud/hover-rtl.nvim)
 
 ##### Hover info
 

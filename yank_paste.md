@@ -111,6 +111,7 @@
 - [perfectyang/view-register.nvim](https://github.com/perfectyang/view-register.nvim) ![](https://img.shields.io/github/stars/perfectyang/view-register.nvim) ![](https://img.shields.io/github/last-commit/perfectyang/view-register.nvim) ![](https://img.shields.io/github/commit-activity/y/perfectyang/view-register.nvim)
 - [mathiasuk/telescope-registers.nvim](https://github.com/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/stars/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/last-commit/mathiasuk/telescope-registers.nvim) ![](https://img.shields.io/github/commit-activity/y/mathiasuk/telescope-registers.nvim)
 - [shizukani-cp/reglist.nvim](https://github.com/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/reglist.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/reglist.nvim)
+- [DoussangSebastien/clipThat.nvim](https://github.com/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/stars/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/last-commit/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/commit-activity/y/DoussangSebastien/clipThat.nvim)
 
 ### Edit Register
 
