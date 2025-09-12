@@ -64,6 +64,7 @@
 - [lopesivan/telescope-project.nvim](https://github.com/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/stars/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/last-commit/lopesivan/telescope-project.nvim) ![](https://img.shields.io/github/commit-activity/y/lopesivan/telescope-project.nvim)
 - [CaptShanks/project-switcher.nvim](https://github.com/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/stars/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/last-commit/CaptShanks/project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/CaptShanks/project-switcher.nvim)
 - [Lumetas/lum-projects.nvim](https://github.com/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/stars/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lum-projects.nvim)
+- [ggyorfi/easy-projects.nvim](https://github.com/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/stars/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/last-commit/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/ggyorfi/easy-projects.nvim)
 
 ### Project Root Detector
 

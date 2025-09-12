@@ -88,6 +88,7 @@
 - [leath-dub/bufs.nvim](https://github.com/leath-dub/bufs.nvim) ![](https://img.shields.io/github/stars/leath-dub/bufs.nvim) ![](https://img.shields.io/github/last-commit/leath-dub/bufs.nvim) ![](https://img.shields.io/github/commit-activity/y/leath-dub/bufs.nvim)
 - [smellydelli/prowl.nvim](https://github.com/smellydelli/prowl.nvim) ![](https://img.shields.io/github/stars/smellydelli/prowl.nvim) ![](https://img.shields.io/github/last-commit/smellydelli/prowl.nvim) ![](https://img.shields.io/github/commit-activity/y/smellydelli/prowl.nvim)
 - [DDaanieloliv/Pickup-buffer.nvim](https://github.com/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/stars/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/last-commit/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/DDaanieloliv/Pickup-buffer.nvim)
+- [naughie/buffer-switcher.nvim](https://github.com/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/stars/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/last-commit/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/buffer-switcher.nvim)
 
 ### Other Buffer Switcher
 
