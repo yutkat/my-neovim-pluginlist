@@ -50,7 +50,6 @@
 ### nvim-cmp extension
 
 - [gitaarik/nvim-cmp-toggle](https://github.com/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/stars/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/last-commit/gitaarik/nvim-cmp-toggle) ![](https://img.shields.io/github/commit-activity/y/gitaarik/nvim-cmp-toggle)
-- [teodord25/scope-cmp.nvim](https://github.com/teodord25/scope-cmp.nvim) ![](https://img.shields.io/github/stars/teodord25/scope-cmp.nvim) ![](https://img.shields.io/github/last-commit/teodord25/scope-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/teodord25/scope-cmp.nvim)
 
 #### nvim-cmp sources
 

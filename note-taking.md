@@ -295,6 +295,8 @@
 ### Zotero
 
 - [beetlejuice16/zotero-telescope.nvim](https://github.com/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/zotero-telescope.nvim)
+- [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
+- [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
 
 ### Wiki
 

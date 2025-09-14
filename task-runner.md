@@ -46,6 +46,7 @@
 - [pewpewnor/pilot.nvim](https://github.com/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/stars/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/last-commit/pewpewnor/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/pewpewnor/pilot.nvim)
 - [micaiah-effiong/task.nvim](https://github.com/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/stars/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/last-commit/micaiah-effiong/task.nvim) ![](https://img.shields.io/github/commit-activity/y/micaiah-effiong/task.nvim)
 - [LeGarbage/taskless.nvim](https://github.com/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/stars/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/last-commit/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/commit-activity/y/LeGarbage/taskless.nvim)
+- [stephansama/fzf-tmux-runner.nvim](https://github.com/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-tmux-runner.nvim)
 
 #### YAML
 
@@ -169,7 +170,7 @@
 - [commrade-goad/nvim-cc-module](https://github.com/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/stars/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/last-commit/commrade-goad/nvim-cc-module) ![](https://img.shields.io/github/commit-activity/y/commrade-goad/nvim-cc-module)
 - [lolpie244/simple-kitty-runner.nvim](https://github.com/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/stars/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/lolpie244/simple-kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/lolpie244/simple-kitty-runner.nvim)
 - [Hubro/nvim-splitrun](https://github.com/Hubro/nvim-splitrun) ![](https://img.shields.io/github/stars/Hubro/nvim-splitrun) ![](https://img.shields.io/github/last-commit/Hubro/nvim-splitrun) ![](https://img.shields.io/github/commit-activity/y/Hubro/nvim-splitrun)
- - [Jensert/nobs.nvim](https://github.com/Jensert/nobs.nvim) ![](https://img.shields.io/github/stars/Jensert/nobs.nvim) ![](https://img.shields.io/github/last-commit/Jensert/nobs.nvim) ![](https://img.shields.io/github/commit-activity/y/Jensert/nobs.nvim)
+- [Jensert/nobs.nvim](https://github.com/Jensert/nobs.nvim) ![](https://img.shields.io/github/stars/Jensert/nobs.nvim) ![](https://img.shields.io/github/last-commit/Jensert/nobs.nvim) ![](https://img.shields.io/github/commit-activity/y/Jensert/nobs.nvim)
 - [isaac238/terminal_run.nvim](https://github.com/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/stars/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/last-commit/isaac238/terminal_run.nvim) ![](https://img.shields.io/github/commit-activity/y/isaac238/terminal_run.nvim)
 - [nvimdev/rapid.nvim](https://github.com/nvimdev/rapid.nvim) ![](https://img.shields.io/github/stars/nvimdev/rapid.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/rapid.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/rapid.nvim)
 - [fishioon/term.nvim](https://github.com/fishioon/term.nvim) ![](https://img.shields.io/github/stars/fishioon/term.nvim) ![](https://img.shields.io/github/last-commit/fishioon/term.nvim) ![](https://img.shields.io/github/commit-activity/y/fishioon/term.nvim)
@@ -197,7 +198,6 @@
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
 - [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 - [reybits/anvil.nvim](https://github.com/reybits/anvil.nvim) ![](https://img.shields.io/github/stars/reybits/anvil.nvim) ![](https://img.shields.io/github/last-commit/reybits/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/anvil.nvim)
-- [stephansama/fzf-tmux-runner.nvim](https://github.com/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-tmux-runner.nvim)
 
 ### Auto detect style
 
