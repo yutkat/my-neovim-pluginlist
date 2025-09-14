@@ -100,6 +100,7 @@
 - [kiyoon/python-import.nvim](https://github.com/kiyoon/python-import.nvim) ![](https://img.shields.io/github/stars/kiyoon/python-import.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/python-import.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/python-import.nvim)
 - [alexpasmantier/pymple.nvim](https://github.com/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/pymple.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/pymple.nvim)
 - [jjvanvuren/isort.nvim](https://github.com/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/stars/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/last-commit/jjvanvuren/isort.nvim) ![](https://img.shields.io/github/commit-activity/y/jjvanvuren/isort.nvim)
+- [ok97465/py-autoimport.nvim](https://github.com/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/stars/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/last-commit/ok97465/py-autoimport.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/py-autoimport.nvim)
 
 ### REPL
 
@@ -262,6 +263,7 @@
 - [shtayeb/nvim-django-shell](https://github.com/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/stars/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/last-commit/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/commit-activity/y/shtayeb/nvim-django-shell)
 - [Jamsjz/django.nvim](https://github.com/Jamsjz/django.nvim) ![](https://img.shields.io/github/stars/Jamsjz/django.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/django.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/django.nvim)
 - [Jamsjz/djlist.nvim](https://github.com/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/stars/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/djlist.nvim)
+- [franmacke/djortcuts.nvim](https://github.com/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/stars/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/last-commit/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/commit-activity/y/franmacke/djortcuts.nvim)
 
 ## MicroPython
 

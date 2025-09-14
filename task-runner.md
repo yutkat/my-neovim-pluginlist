@@ -197,6 +197,7 @@
 - [yuki9k/bang.nvim](https://github.com/yuki9k/bang.nvim) ![](https://img.shields.io/github/stars/yuki9k/bang.nvim) ![](https://img.shields.io/github/last-commit/yuki9k/bang.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki9k/bang.nvim)
 - [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 - [reybits/anvil.nvim](https://github.com/reybits/anvil.nvim) ![](https://img.shields.io/github/stars/reybits/anvil.nvim) ![](https://img.shields.io/github/last-commit/reybits/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/anvil.nvim)
+- [stephansama/fzf-tmux-runner.nvim](https://github.com/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-tmux-runner.nvim)
 
 ### Auto detect style
 

@@ -300,6 +300,7 @@
 ### Zotero
 
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
+- [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
 
 ### DevDocs
 

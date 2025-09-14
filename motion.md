@@ -43,6 +43,7 @@
 - [tonymajestro/smart-scrolloff.nvim](https://github.com/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/stars/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/last-commit/tonymajestro/smart-scrolloff.nvim) ![](https://img.shields.io/github/commit-activity/y/tonymajestro/smart-scrolloff.nvim)
 - [jackplus-xyz/scroll-it.nvim](https://github.com/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/scroll-it.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/scroll-it.nvim)
 - [highwoodfield/super-scrolloff.nvim](https://github.com/highwoodfield/super-scrolloff.nvim) ![](https://img.shields.io/github/stars/highwoodfield/super-scrolloff.nvim) ![](https://img.shields.io/github/last-commit/highwoodfield/super-scrolloff.nvim) ![](https://img.shields.io/github/commit-activity/y/highwoodfield/super-scrolloff.nvim)
+- [Saghen/neverflow.nvim](https://github.com/Saghen/neverflow.nvim) ![](https://img.shields.io/github/stars/Saghen/neverflow.nvim) ![](https://img.shields.io/github/last-commit/Saghen/neverflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Saghen/neverflow.nvim)
 
 ### Smooth scroll
 

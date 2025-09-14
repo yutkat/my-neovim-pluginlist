@@ -159,6 +159,7 @@
 - [gabrielkryss/klocwork.nvim](https://github.com/gabrielkryss/klocwork.nvim) ![](https://img.shields.io/github/stars/gabrielkryss/klocwork.nvim) ![](https://img.shields.io/github/last-commit/gabrielkryss/klocwork.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielkryss/klocwork.nvim)
 - [aburak621/cmake-tools.nvim](https://github.com/aburak621/cmake-tools.nvim) ![](https://img.shields.io/github/stars/aburak621/cmake-tools.nvim) ![](https://img.shields.io/github/last-commit/aburak621/cmake-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/aburak621/cmake-tools.nvim)
 - [DivAgarwal1/easy-cmake.nvim](https://github.com/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/stars/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/last-commit/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/DivAgarwal1/easy-cmake.nvim)
+- [thefoxery/cmake.nvim](https://github.com/thefoxery/cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/cmake.nvim)
 
 ### Library Manager
 
