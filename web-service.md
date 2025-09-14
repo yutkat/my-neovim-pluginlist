@@ -47,7 +47,6 @@
   - [haste](#haste)
   - [TabNews](#tabnews)
   - [HackerNews](#hackernews)
-  - [Zotero](#zotero)
   - [DevDocs](#devdocs)
   - [gerrit API](#gerrit-api)
   - [Runme](#runme)
@@ -296,10 +295,6 @@
 ### TabNews
 
 ### HackerNews
-
-### Zotero
-
-- [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 
 ### DevDocs
 

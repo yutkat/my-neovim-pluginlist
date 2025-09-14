@@ -429,6 +429,7 @@
 - [chrscchrn/dictionary.nvim](https://github.com/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/stars/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/last-commit/chrscchrn/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/chrscchrn/dictionary.nvim)
 - [desonglll/nvim-dictionary](https://github.com/desonglll/nvim-dictionary) ![](https://img.shields.io/github/stars/desonglll/nvim-dictionary) ![](https://img.shields.io/github/last-commit/desonglll/nvim-dictionary) ![](https://img.shields.io/github/commit-activity/y/desonglll/nvim-dictionary)
 - [c7im/nvim-spell-manager](https://github.com/c7im/nvim-spell-manager) ![](https://img.shields.io/github/stars/c7im/nvim-spell-manager) ![](https://img.shields.io/github/last-commit/c7im/nvim-spell-manager) ![](https://img.shields.io/github/commit-activity/y/c7im/nvim-spell-manager)
+- [thesignumt/def.nvim](https://github.com/thesignumt/def.nvim) ![](https://img.shields.io/github/stars/thesignumt/def.nvim) ![](https://img.shields.io/github/last-commit/thesignumt/def.nvim) ![](https://img.shields.io/github/commit-activity/y/thesignumt/def.nvim)
 
 ### digraph
 

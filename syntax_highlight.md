@@ -127,6 +127,7 @@
 - [haolian9/ansiesc.nvim](https://github.com/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/stars/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/last-commit/haolian9/ansiesc.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/ansiesc.nvim)
 - [freddyJarva/hipe.nvim](https://github.com/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/stars/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/last-commit/freddyJarva/hipe.nvim) ![](https://img.shields.io/github/commit-activity/y/freddyJarva/hipe.nvim)
 - [0xferrous/ansi.nvim](https://github.com/0xferrous/ansi.nvim) ![](https://img.shields.io/github/stars/0xferrous/ansi.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/ansi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/ansi.nvim)
+- [cohml/ansillary.nvim](https://github.com/cohml/ansillary.nvim) ![](https://img.shields.io/github/stars/cohml/ansillary.nvim) ![](https://img.shields.io/github/last-commit/cohml/ansillary.nvim) ![](https://img.shields.io/github/commit-activity/y/cohml/ansillary.nvim)
 
 #### ANSI Converter
 
