@@ -434,6 +434,7 @@
 - [franco-ruggeri/pdf-preview.nvim](https://github.com/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/pdf-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/pdf-preview.nvim)
 - [r-pletnev/pdfreader.nvim](https://github.com/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/stars/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/last-commit/r-pletnev/pdfreader.nvim) ![](https://img.shields.io/github/commit-activity/y/r-pletnev/pdfreader.nvim)
 - [jbuck95/nvim-sioyek-highlights](https://github.com/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/stars/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/last-commit/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/commit-activity/y/jbuck95/nvim-sioyek-highlights)
+- [xunoaib/pdf-snippet.nvim](https://github.com/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/stars/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/pdf-snippet.nvim)
 
 ### EPUB
 
