@@ -448,6 +448,7 @@
 ### dump file
 
 - [nprimo/dump.nvim](https://github.com/nprimo/dump.nvim) ![](https://img.shields.io/github/stars/nprimo/dump.nvim) ![](https://img.shields.io/github/last-commit/nprimo/dump.nvim) ![](https://img.shields.io/github/commit-activity/y/nprimo/dump.nvim)
+- [takeshiD/undump.nvim](https://github.com/takeshiD/undump.nvim) ![](https://img.shields.io/github/stars/takeshiD/undump.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/undump.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/undump.nvim)
 
 ## Proprietary Software
 
