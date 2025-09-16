@@ -303,7 +303,6 @@
 
 - [fvictorio/eval-replace.nvim](https://github.com/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/stars/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/last-commit/fvictorio/eval-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/fvictorio/eval-replace.nvim)
 - [lost22git/run-visual.nvim](https://github.com/lost22git/run-visual.nvim) ![](https://img.shields.io/github/stars/lost22git/run-visual.nvim) ![](https://img.shields.io/github/last-commit/lost22git/run-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/run-visual.nvim)
-- [anosatsuk124/visual-run.nvim](https://github.com/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/stars/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/last-commit/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/commit-activity/y/anosatsuk124/visual-run.nvim)
 
 ### [Convert](./convert.md)
 
@@ -437,7 +436,6 @@
 - [jonathanforhan/nvim-glyph](https://github.com/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/stars/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/last-commit/jonathanforhan/nvim-glyph) ![](https://img.shields.io/github/commit-activity/y/jonathanforhan/nvim-glyph)
 - [adorostkar/NGG.nvim](https://github.com/adorostkar/NGG.nvim) ![](https://img.shields.io/github/stars/adorostkar/NGG.nvim) ![](https://img.shields.io/github/last-commit/adorostkar/NGG.nvim) ![](https://img.shields.io/github/commit-activity/y/adorostkar/NGG.nvim)
 - [srackham/digraph-picker.nvim](https://github.com/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/stars/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/last-commit/srackham/digraph-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/srackham/digraph-picker.nvim)
-
 
 ### Abbreviation
 
