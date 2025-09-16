@@ -198,6 +198,7 @@
 - [hsteinshiromoto/todo.nvim](https://github.com/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/stars/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/last-commit/hsteinshiromoto/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/hsteinshiromoto/todo.nvim)
 - [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
 - [neov5/tasktree.nvim](https://github.com/neov5/tasktree.nvim) ![](https://img.shields.io/github/stars/neov5/tasktree.nvim) ![](https://img.shields.io/github/last-commit/neov5/tasktree.nvim) ![](https://img.shields.io/github/commit-activity/y/neov5/tasktree.nvim)
+- [Hemanthhari2000/todoforge.nvim](https://github.com/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/stars/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/last-commit/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/commit-activity/y/Hemanthhari2000/todoforge.nvim)
 
 #### Google Task
 
@@ -518,4 +519,6 @@
 - [kyunuya/qnote.nvim](https://github.com/kyunuya/qnote.nvim) ![](https://img.shields.io/github/stars/kyunuya/qnote.nvim) ![](https://img.shields.io/github/last-commit/kyunuya/qnote.nvim) ![](https://img.shields.io/github/commit-activity/y/kyunuya/qnote.nvim)
 - [sheepy9/jotnotes.nvim](https://github.com/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/stars/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/last-commit/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/sheepy9/jotnotes.nvim)
 - [etiennecollin/notes.nvim](https://github.com/etiennecollin/notes.nvim) ![](https://img.shields.io/github/stars/etiennecollin/notes.nvim) ![](https://img.shields.io/github/last-commit/etiennecollin/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/etiennecollin/notes.nvim)
+- [caverav/retrieves.nvim](https://github.com/caverav/retrieves.nvim) ![](https://img.shields.io/github/stars/caverav/retrieves.nvim) ![](https://img.shields.io/github/last-commit/caverav/retrieves.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/retrieves.nvim)
+- [saltchicken/keep.nvim](https://github.com/saltchicken/keep.nvim) ![](https://img.shields.io/github/stars/saltchicken/keep.nvim) ![](https://img.shields.io/github/last-commit/saltchicken/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/saltchicken/keep.nvim)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
