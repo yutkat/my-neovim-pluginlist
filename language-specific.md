@@ -100,6 +100,7 @@
     - [Storm](#storm)
     - [Genero](#genero)
     - [rested](#rested)
+    - [Ripple](#ripple)
     - [ABC](#abc)
     - [Tcl/Tk](#tcltk)
     - [Moonbit](#moonbit)
@@ -604,6 +605,10 @@
 #### rested
 
 - [Gnarus-G/restedlang.nvim](https://github.com/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/stars/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/last-commit/Gnarus-G/restedlang.nvim) ![](https://img.shields.io/github/commit-activity/y/Gnarus-G/restedlang.nvim)
+
+#### Ripple
+
+- [Cliffback/ripple-vscode-plugin.nvim](https://github.com/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/stars/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/ripple-vscode-plugin.nvim)
 
 #### ABC
 

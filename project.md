@@ -84,6 +84,7 @@
 - [wsdjeg/rooter.nvim](https://github.com/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/rooter.nvim)
 - [hugoh/nvim-rooter](https://github.com/hugoh/nvim-rooter) ![](https://img.shields.io/github/stars/hugoh/nvim-rooter) ![](https://img.shields.io/github/last-commit/hugoh/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-rooter)
 - [cosmicbuffalo/root_swapper.nvim](https://github.com/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/root_swapper.nvim)
+- [sonictim/roto-rooter.nvim](https://github.com/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/stars/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/last-commit/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/roto-rooter.nvim)
 
 ### Project Template
 
