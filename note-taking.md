@@ -329,6 +329,7 @@
 - [tr1ptychs/scrap.nvim](https://github.com/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/stars/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/last-commit/tr1ptychs/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/tr1ptychs/scrap.nvim)
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
+- [aiya000/nvim-mado-scratch-buffer](https://github.com/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch-buffer)
 
 ### inline note
 
@@ -518,4 +519,6 @@
 - [kyunuya/qnote.nvim](https://github.com/kyunuya/qnote.nvim) ![](https://img.shields.io/github/stars/kyunuya/qnote.nvim) ![](https://img.shields.io/github/last-commit/kyunuya/qnote.nvim) ![](https://img.shields.io/github/commit-activity/y/kyunuya/qnote.nvim)
 - [sheepy9/jotnotes.nvim](https://github.com/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/stars/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/last-commit/sheepy9/jotnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/sheepy9/jotnotes.nvim)
 - [etiennecollin/notes.nvim](https://github.com/etiennecollin/notes.nvim) ![](https://img.shields.io/github/stars/etiennecollin/notes.nvim) ![](https://img.shields.io/github/last-commit/etiennecollin/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/etiennecollin/notes.nvim)
+- [Faria22/ftmemo.nvim](https://github.com/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/stars/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/last-commit/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/commit-activity/y/Faria22/ftmemo.nvim)
+- [dasdachs/nvim-mnemosyne](https://github.com/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/stars/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/last-commit/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/commit-activity/y/dasdachs/nvim-mnemosyne)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)

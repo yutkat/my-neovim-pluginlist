@@ -335,6 +335,7 @@
 - [dylf/gitignore.nvim](https://github.com/dylf/gitignore.nvim) ![](https://img.shields.io/github/stars/dylf/gitignore.nvim) ![](https://img.shields.io/github/last-commit/dylf/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/dylf/gitignore.nvim)
 - [kilavila/nvim-gitignore](https://github.com/kilavila/nvim-gitignore) ![](https://img.shields.io/github/stars/kilavila/nvim-gitignore) ![](https://img.shields.io/github/last-commit/kilavila/nvim-gitignore) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-gitignore)
 - [mplieske/gitignore.nvim](https://github.com/mplieske/gitignore.nvim) ![](https://img.shields.io/github/stars/mplieske/gitignore.nvim) ![](https://img.shields.io/github/last-commit/mplieske/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/mplieske/gitignore.nvim)
+- [bwpge/gitignore.nvim](https://github.com/bwpge/gitignore.nvim) ![](https://img.shields.io/github/stars/bwpge/gitignore.nvim) ![](https://img.shields.io/github/last-commit/bwpge/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/gitignore.nvim)
 
 ### git hook
 

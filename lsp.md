@@ -73,6 +73,7 @@
 - [seblj/nvim-lsp-extras](https://github.com/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/stars/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/last-commit/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-lsp-extras)
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/LspUI.nvim)
 - [nvim-jo/lspsystem.nvim](https://github.com/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/stars/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/lspsystem.nvim)
+- [Cliffback/ripple-vscode-plugin.nvim](https://github.com/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/stars/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/ripple-vscode-plugin.nvim)
 
 #### Diagnostics
 
@@ -314,6 +315,7 @@
 - [tamago324/nlsp-settings.nvim](https://github.com/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/stars/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/last-commit/tamago324/nlsp-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/nlsp-settings.nvim)
 - [mrfolksy/nvim-json-conf](https://github.com/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/stars/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/last-commit/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/commit-activity/y/mrfolksy/nvim-json-conf)
 - [amv-dev/nvim-lspsettings](https://github.com/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/stars/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/last-commit/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/commit-activity/y/amv-dev/nvim-lspsettings)
+- [thejezzi/lsplocal.nvim](https://github.com/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/stars/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/lsplocal.nvim)
 
 ### Remote LSP
 
