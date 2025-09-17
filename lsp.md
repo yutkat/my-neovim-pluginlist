@@ -73,7 +73,6 @@
 - [seblj/nvim-lsp-extras](https://github.com/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/stars/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/last-commit/seblj/nvim-lsp-extras) ![](https://img.shields.io/github/commit-activity/y/seblj/nvim-lsp-extras)
 - [jinzhongjia/LspUI.nvim](https://github.com/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/LspUI.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/LspUI.nvim)
 - [nvim-jo/lspsystem.nvim](https://github.com/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/stars/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/lspsystem.nvim)
-- [Cliffback/ripple-vscode-plugin.nvim](https://github.com/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/stars/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/ripple-vscode-plugin.nvim)
 
 #### Diagnostics
 
@@ -347,6 +346,7 @@
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
+- [Cliffback/ripple-vscode-plugin.nvim](https://github.com/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/stars/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/ripple-vscode-plugin.nvim)
 
 ## Pre-configuration
 
