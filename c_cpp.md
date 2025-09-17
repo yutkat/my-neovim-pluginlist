@@ -161,6 +161,7 @@
 - [DivAgarwal1/easy-cmake.nvim](https://github.com/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/stars/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/last-commit/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/DivAgarwal1/easy-cmake.nvim)
 - [thefoxery/cmake.nvim](https://github.com/thefoxery/cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/cmake.nvim)
 - [thefoxery/telescope-cmake.nvim](https://github.com/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/telescope-cmake.nvim)
+- [thefoxery/lualine-cmake.nvim](https://github.com/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/lualine-cmake.nvim)
 
 ### Library Manager
 

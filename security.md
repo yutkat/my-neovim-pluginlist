@@ -4,6 +4,7 @@
 
 - [Security](#security)
   - [Scan](#scan)
+  - [Fluid Attacks](#fluid-attacks)
   - [Secrets](#secrets)
   - [Password Manager](#password-manager)
     - [KeePassXC](#keepassxc)
@@ -38,6 +39,10 @@
 ### Scan
 
 - [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
+
+### Fluid Attacks
+
+- [caverav/retrieves.nvim](https://github.com/caverav/retrieves.nvim) ![](https://img.shields.io/github/stars/caverav/retrieves.nvim) ![](https://img.shields.io/github/last-commit/caverav/retrieves.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/retrieves.nvim)
 
 ### Secrets
 
