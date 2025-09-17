@@ -346,7 +346,6 @@
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
-- [Cliffback/ripple-vscode-plugin.nvim](https://github.com/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/stars/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/last-commit/Cliffback/ripple-vscode-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/Cliffback/ripple-vscode-plugin.nvim)
 
 ## Pre-configuration
 
