@@ -307,7 +307,6 @@
 - [urizennnn/rescue-lsp.nvim](https://github.com/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/stars/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/last-commit/urizennnn/rescue-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/urizennnn/rescue-lsp.nvim)
 - [nvimdev/visualizer.nvim](https://github.com/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/stars/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/visualizer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/visualizer.nvim)
 - [msc5/lspinfo.nvim](https://github.com/msc5/lspinfo.nvim) ![](https://img.shields.io/github/stars/msc5/lspinfo.nvim) ![](https://img.shields.io/github/last-commit/msc5/lspinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/msc5/lspinfo.nvim)
-- [calltrace/traverse-lsp.nvim](https://github.com/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/stars/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/last-commit/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/calltrace/traverse-lsp.nvim)
 
 ### Local LSP Config
 

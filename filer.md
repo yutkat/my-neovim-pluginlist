@@ -88,7 +88,6 @@
 - [alucherdi/hand-of-god](https://github.com/alucherdi/hand-of-god) ![](https://img.shields.io/github/stars/alucherdi/hand-of-god) ![](https://img.shields.io/github/last-commit/alucherdi/hand-of-god) ![](https://img.shields.io/github/commit-activity/y/alucherdi/hand-of-god)
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
 - [taku25/neo-tree-unl.nvim](https://github.com/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/stars/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/last-commit/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/neo-tree-unl.nvim)
-- [KyleKing/spaghetti-comb.nvim](https://github.com/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/stars/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/spaghetti-comb.nvim)
 
 ### gx
 
