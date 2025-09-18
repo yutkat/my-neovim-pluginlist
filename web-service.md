@@ -100,6 +100,7 @@
 
 - [alex-laycalvert/slack.nvim](https://github.com/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/slack.nvim)
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) ![](https://img.shields.io/github/stars/ntk148v/slack.nvim) ![](https://img.shields.io/github/last-commit/ntk148v/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/ntk148v/slack.nvim)
+- [albertofp/nvim-slack](https://github.com/albertofp/nvim-slack) ![](https://img.shields.io/github/stars/albertofp/nvim-slack) ![](https://img.shields.io/github/last-commit/albertofp/nvim-slack) ![](https://img.shields.io/github/commit-activity/y/albertofp/nvim-slack)
 
 #### Telegram
 
@@ -190,6 +191,7 @@
 - [WillianPaiva/jira-nvim](https://github.com/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/stars/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/last-commit/WillianPaiva/jira-nvim) ![](https://img.shields.io/github/commit-activity/y/WillianPaiva/jira-nvim)
 - [JamiroFerrara/neojira.nvim](https://github.com/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neojira.nvim)
 - [KlitnyjS/nvim-jira-branch](https://github.com/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/stars/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/last-commit/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/commit-activity/y/KlitnyjS/nvim-jira-branch)
+- [amorenoz/jiracli.nvim](https://github.com/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/stars/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/last-commit/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/amorenoz/jiracli.nvim)
 
 ### Confluence
 

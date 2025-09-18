@@ -246,6 +246,7 @@
 - [art-vasilyev/gerrit-blame.nvim](https://github.com/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/stars/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/last-commit/art-vasilyev/gerrit-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/art-vasilyev/gerrit-blame.nvim)
 - [yt20chill/inline_git_blame.nvim](https://github.com/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/stars/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/last-commit/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/commit-activity/y/yt20chill/inline_git_blame.nvim)
 - [tmybsv/blame.nvim](https://github.com/tmybsv/blame.nvim) ![](https://img.shields.io/github/stars/tmybsv/blame.nvim) ![](https://img.shields.io/github/last-commit/tmybsv/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/tmybsv/blame.nvim)
+- [pedroren-001/blame.nvim](https://github.com/pedroren-001/blame.nvim) ![](https://img.shields.io/github/stars/pedroren-001/blame.nvim) ![](https://img.shields.io/github/last-commit/pedroren-001/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroren-001/blame.nvim)
 
 ### git log
 

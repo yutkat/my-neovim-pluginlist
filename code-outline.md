@@ -54,6 +54,8 @@
 - [lafarr/hierarchy.nvim](https://github.com/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/stars/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/lafarr/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/lafarr/hierarchy.nvim)
 - [barreiroleo/callgraph.nvim](https://github.com/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/stars/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/last-commit/barreiroleo/callgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/barreiroleo/callgraph.nvim)
 - [Sboutabaa/call_mapper.nvim](https://github.com/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/stars/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/last-commit/Sboutabaa/call_mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Sboutabaa/call_mapper.nvim)
+- [KyleKing/spaghetti-comb.nvim](https://github.com/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/stars/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/spaghetti-comb.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/spaghetti-comb.nvim)
+- [retran/meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) ![](https://img.shields.io/github/stars/retran/meow.yarn.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.yarn.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.yarn.nvim)
 
 ## Type Hierarchy
 
