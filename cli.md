@@ -177,6 +177,7 @@
 #### Yandex Arcadia
 
 - [segoon/arc-plug.nvim](https://github.com/segoon/arc-plug.nvim) ![](https://img.shields.io/github/stars/segoon/arc-plug.nvim) ![](https://img.shields.io/github/last-commit/segoon/arc-plug.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/arc-plug.nvim)
+- [segoon/telescope-arcadia-codesearch.nvim](https://github.com/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-arcadia-codesearch.nvim)
 
 #### dotenv
 

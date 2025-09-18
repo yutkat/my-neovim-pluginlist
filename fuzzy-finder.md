@@ -85,7 +85,6 @@
 - [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 - [xq-meng/neopop.nvim](https://github.com/xq-meng/neopop.nvim) ![](https://img.shields.io/github/stars/xq-meng/neopop.nvim) ![](https://img.shields.io/github/last-commit/xq-meng/neopop.nvim) ![](https://img.shields.io/github/commit-activity/y/xq-meng/neopop.nvim)
 - [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
-- [segoon/telescope-arcadia-codesearch.nvim](https://github.com/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/stars/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/last-commit/segoon/telescope-arcadia-codesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/telescope-arcadia-codesearch.nvim)
 
 #### Grep
 
