@@ -243,6 +243,7 @@
 - [angelinuxx/npm-lens.nvim](https://github.com/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/stars/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/last-commit/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/angelinuxx/npm-lens.nvim)
 - [pojokcodeid/npm-runner.nvim](https://github.com/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/npm-runner.nvim)
 - [anisthdev/npm-runner.nvim](https://github.com/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/stars/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/anisthdev/npm-runner.nvim)
+- [retran/meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) ![](https://img.shields.io/github/stars/retran/meow.yarn.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.yarn.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.yarn.nvim)
 
 #### pnpm
 

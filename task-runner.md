@@ -223,6 +223,7 @@
 - [Mewsen/compile.nvim](https://github.com/Mewsen/compile.nvim) ![](https://img.shields.io/github/stars/Mewsen/compile.nvim) ![](https://img.shields.io/github/last-commit/Mewsen/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Mewsen/compile.nvim)
 - [CoolCoderSuper/make-runner.nvim](https://github.com/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/make-runner.nvim)
 - [SteveRohrlack/make.nvim](https://github.com/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/stars/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/last-commit/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/commit-activity/y/SteveRohrlack/make.nvim)
+- [thefoxery/make.nvim](https://github.com/thefoxery/make.nvim) ![](https://img.shields.io/github/stars/thefoxery/make.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/make.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/make.nvim)
 
 ### use tmux
 
