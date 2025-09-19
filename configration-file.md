@@ -77,6 +77,7 @@
 - [segoon/yaml-navigation.nvim](https://github.com/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/stars/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/last-commit/segoon/yaml-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yaml-navigation.nvim)
 - [DmarshalTU/yaml-jumper](https://github.com/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/stars/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/last-commit/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/commit-activity/y/DmarshalTU/yaml-jumper)
 - [vasuadari/yaml-breadcrumb.nvim](https://github.com/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/stars/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/vasuadari/yaml-breadcrumb.nvim)
+- [Filip7/k8s-yaml.nvim](https://github.com/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/stars/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/last-commit/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/Filip7/k8s-yaml.nvim)
 
 ### TOML
 

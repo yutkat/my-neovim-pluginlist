@@ -248,6 +248,7 @@
 
 - [bartek/epochconverter.nvim](https://github.com/bartek/epochconverter.nvim) ![](https://img.shields.io/github/stars/bartek/epochconverter.nvim) ![](https://img.shields.io/github/last-commit/bartek/epochconverter.nvim) ![](https://img.shields.io/github/commit-activity/y/bartek/epochconverter.nvim)
 - [cowboy8625/epoc.nvim](https://github.com/cowboy8625/epoc.nvim) ![](https://img.shields.io/github/stars/cowboy8625/epoc.nvim) ![](https://img.shields.io/github/last-commit/cowboy8625/epoc.nvim) ![](https://img.shields.io/github/commit-activity/y/cowboy8625/epoc.nvim)
+- [corsantic/chrono.nvim](https://github.com/corsantic/chrono.nvim) ![](https://img.shields.io/github/stars/corsantic/chrono.nvim) ![](https://img.shields.io/github/last-commit/corsantic/chrono.nvim) ![](https://img.shields.io/github/commit-activity/y/corsantic/chrono.nvim)
 
 ## UUID
 

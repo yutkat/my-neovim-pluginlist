@@ -241,6 +241,7 @@
 - [heyitscarl-dev/ferret.nvim](https://github.com/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/stars/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/last-commit/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/commit-activity/y/heyitscarl-dev/ferret.nvim)
 - [Bepitic/agent-finder.nvim](https://github.com/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/stars/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/last-commit/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Bepitic/agent-finder.nvim)
 - [0xdilo/lmeow.nvim](https://github.com/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/stars/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/last-commit/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/commit-activity/y/0xdilo/lmeow.nvim)
+- [dyamon/codecompanion-filewise.nvim](https://github.com/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-filewise.nvim)
 
 #### mods
 

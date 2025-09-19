@@ -21,6 +21,7 @@
 
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee.nvim)
 - [arakkkkk/switchpanel.nvim](https://github.com/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/stars/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/switchpanel.nvim)
+- [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
 
 ### Menu
 
