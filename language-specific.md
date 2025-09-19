@@ -301,6 +301,7 @@
 - [smpallen99/elixir-projectionist.nvim](https://github.com/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/stars/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/last-commit/smpallen99/elixir-projectionist.nvim) ![](https://img.shields.io/github/commit-activity/y/smpallen99/elixir-projectionist.nvim)
 - [apayu/nvim-elixir-inspect](https://github.com/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/stars/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/last-commit/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/commit-activity/y/apayu/nvim-elixir-inspect)
 - [synic/refactorex.nvim](https://github.com/synic/refactorex.nvim) ![](https://img.shields.io/github/stars/synic/refactorex.nvim) ![](https://img.shields.io/github/last-commit/synic/refactorex.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/refactorex.nvim)
+- [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
 
 ##### REPL
 
