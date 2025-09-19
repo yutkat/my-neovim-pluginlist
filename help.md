@@ -69,6 +69,7 @@
 ### External Manual
 
 - [loganswartz/updoc.nvim](https://github.com/loganswartz/updoc.nvim) ![](https://img.shields.io/github/stars/loganswartz/updoc.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/updoc.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/updoc.nvim)
+- [quiet-ghost/man-pages.nvim](https://github.com/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/man-pages.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/man-pages.nvim)
 
 ## Tutorial
 

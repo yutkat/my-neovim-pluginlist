@@ -481,6 +481,7 @@
 - [tonychg/nvim-k8s-lsp](https://github.com/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/stars/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/last-commit/tonychg/nvim-k8s-lsp) ![](https://img.shields.io/github/commit-activity/y/tonychg/nvim-k8s-lsp)
 - [kritag/k8s-yaml-schemas.nvim](https://github.com/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/stars/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/last-commit/kritag/k8s-yaml-schemas.nvim) ![](https://img.shields.io/github/commit-activity/y/kritag/k8s-yaml-schemas.nvim)
 - [manzanit0/k8s-whisper.nvim](https://github.com/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/stars/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/last-commit/manzanit0/k8s-whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/manzanit0/k8s-whisper.nvim)
+- [Filip7/k8s-yaml.nvim](https://github.com/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/stars/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/last-commit/Filip7/k8s-yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/Filip7/k8s-yaml.nvim)
 
 ##### ArgoCD
 
