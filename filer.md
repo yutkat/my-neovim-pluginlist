@@ -88,7 +88,6 @@
 - [alucherdi/hand-of-god](https://github.com/alucherdi/hand-of-god) ![](https://img.shields.io/github/stars/alucherdi/hand-of-god) ![](https://img.shields.io/github/last-commit/alucherdi/hand-of-god) ![](https://img.shields.io/github/commit-activity/y/alucherdi/hand-of-god)
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
 - [taku25/neo-tree-unl.nvim](https://github.com/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/stars/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/last-commit/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/neo-tree-unl.nvim)
-- [elanmed/tree.nvim](https://github.com/elanmed/tree.nvim) ![](https://img.shields.io/github/stars/elanmed/tree.nvim) ![](https://img.shields.io/github/last-commit/elanmed/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/tree.nvim)
 
 ### gx
 
@@ -206,6 +205,7 @@
 ### Tree View
 
 - [amlanjlahkar/splitree.nvim](https://github.com/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/splitree.nvim)
+- [elanmed/tree.nvim](https://github.com/elanmed/tree.nvim) ![](https://img.shields.io/github/stars/elanmed/tree.nvim) ![](https://img.shields.io/github/last-commit/elanmed/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/tree.nvim)
 
 ### File rename
 

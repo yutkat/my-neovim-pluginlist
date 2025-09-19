@@ -24,3 +24,4 @@
 ### Time
 
 - [Ask-786/time-calculator.nvim](https://github.com/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/stars/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/last-commit/Ask-786/time-calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/Ask-786/time-calculator.nvim)
+- [corsantic/chrono.nvim](https://github.com/corsantic/chrono.nvim) ![](https://img.shields.io/github/stars/corsantic/chrono.nvim) ![](https://img.shields.io/github/last-commit/corsantic/chrono.nvim) ![](https://img.shields.io/github/commit-activity/y/corsantic/chrono.nvim)
