@@ -38,7 +38,6 @@
 - [zaitsev-av/welcome-time.nvim](https://github.com/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/stars/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/last-commit/zaitsev-av/welcome-time.nvim) ![](https://img.shields.io/github/commit-activity/y/zaitsev-av/welcome-time.nvim)
 - [aelisonCode/header.nvim](https://github.com/aelisonCode/header.nvim) ![](https://img.shields.io/github/stars/aelisonCode/header.nvim) ![](https://img.shields.io/github/last-commit/aelisonCode/header.nvim) ![](https://img.shields.io/github/commit-activity/y/aelisonCode/header.nvim)
 - [jeremiahsmithdev/nvim-dashboard](https://github.com/jeremiahsmithdev/nvim-dashboard) ![](https://img.shields.io/github/stars/jeremiahsmithdev/nvim-dashboard) ![](https://img.shields.io/github/last-commit/jeremiahsmithdev/nvim-dashboard) ![](https://img.shields.io/github/commit-activity/y/jeremiahsmithdev/nvim-dashboard)
-- [luckyPtr/dashboard-pokemon.nvim](https://github.com/luckyPtr/dashboard-pokemon.nvim) ![](https://img.shields.io/github/stars/luckyPtr/dashboard-pokemon.nvim) ![](https://img.shields.io/github/last-commit/luckyPtr/dashboard-pokemon.nvim) ![](https://img.shields.io/github/commit-activity/y/luckyPtr/dashboard-pokemon.nvim)
 
 ### Boot Arguments
 
