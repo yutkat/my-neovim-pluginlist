@@ -199,6 +199,7 @@
 - [maya-doshi/junkyard.nvim](https://github.com/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/stars/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/last-commit/maya-doshi/junkyard.nvim) ![](https://img.shields.io/github/commit-activity/y/maya-doshi/junkyard.nvim)
 - [neov5/tasktree.nvim](https://github.com/neov5/tasktree.nvim) ![](https://img.shields.io/github/stars/neov5/tasktree.nvim) ![](https://img.shields.io/github/last-commit/neov5/tasktree.nvim) ![](https://img.shields.io/github/commit-activity/y/neov5/tasktree.nvim)
 - [Hemanthhari2000/todoforge.nvim](https://github.com/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/stars/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/last-commit/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/commit-activity/y/Hemanthhari2000/todoforge.nvim)
+- [Morass/simple-todo.nvim](https://github.com/Morass/simple-todo.nvim) ![](https://img.shields.io/github/stars/Morass/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/Morass/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/simple-todo.nvim)
 
 #### Google Task
 
