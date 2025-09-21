@@ -102,6 +102,7 @@
 - [4DRIAN0RTIZ/code_printer.nvim](https://github.com/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/code_printer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/code_printer.nvim)
 - [mactep/code_to_image.nvim](https://github.com/mactep/code_to_image.nvim) ![](https://img.shields.io/github/stars/mactep/code_to_image.nvim) ![](https://img.shields.io/github/last-commit/mactep/code_to_image.nvim) ![](https://img.shields.io/github/commit-activity/y/mactep/code_to_image.nvim)
 - [flothjl/codeshot.nvim](https://github.com/flothjl/codeshot.nvim) ![](https://img.shields.io/github/stars/flothjl/codeshot.nvim) ![](https://img.shields.io/github/last-commit/flothjl/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/flothjl/codeshot.nvim)
+- [aekasitt/shoyu.nvim](https://github.com/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/stars/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/shoyu.nvim)
 
 ### SVG
 

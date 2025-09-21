@@ -53,6 +53,7 @@
     - [Wasm](#wasm)
     - [WebC](#webc)
     - [Cairo](#cairo)
+    - [Cedar](#cedar)
     - [Processing](#processing)
     - [Spade](#spade)
     - [Radiant](#radiant)
@@ -422,6 +423,10 @@
 #### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+
+#### Cedar
+
+- [edmondop/cedar.nvim](https://github.com/edmondop/cedar.nvim) ![](https://img.shields.io/github/stars/edmondop/cedar.nvim) ![](https://img.shields.io/github/last-commit/edmondop/cedar.nvim) ![](https://img.shields.io/github/commit-activity/y/edmondop/cedar.nvim)
 
 #### Processing
 
