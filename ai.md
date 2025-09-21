@@ -350,6 +350,7 @@
 - [avifenesh/claucode.nvim](https://github.com/avifenesh/claucode.nvim) ![](https://img.shields.io/github/stars/avifenesh/claucode.nvim) ![](https://img.shields.io/github/last-commit/avifenesh/claucode.nvim) ![](https://img.shields.io/github/commit-activity/y/avifenesh/claucode.nvim)
 - [SouhailBlmn/claude-code.nvim](https://github.com/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/stars/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/last-commit/SouhailBlmn/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/SouhailBlmn/claude-code.nvim)
 - [kylesnowschwartz/claude-code-tui.nvim](https://github.com/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/stars/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/last-commit/kylesnowschwartz/claude-code-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/kylesnowschwartz/claude-code-tui.nvim)
+- [wtfox/claude-chat.nvim](https://github.com/wtfox/claude-chat.nvim) ![](https://img.shields.io/github/stars/wtfox/claude-chat.nvim) ![](https://img.shields.io/github/last-commit/wtfox/claude-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wtfox/claude-chat.nvim)
 
 ### Amazon Q
 
