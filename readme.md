@@ -462,7 +462,6 @@
 
 ### Errorformat
 
-- [faergeek/neomakery.nvim](https://github.com/faergeek/neomakery.nvim) ![](https://img.shields.io/github/stars/faergeek/neomakery.nvim) ![](https://img.shields.io/github/last-commit/faergeek/neomakery.nvim) ![](https://img.shields.io/github/commit-activity/y/faergeek/neomakery.nvim)
 
 ### [Message / Notification](./message_notification.md)
 
