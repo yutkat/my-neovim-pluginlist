@@ -51,6 +51,7 @@
 
 - [onexbash/prereq.nvim](https://github.com/onexbash/prereq.nvim) ![](https://img.shields.io/github/stars/onexbash/prereq.nvim) ![](https://img.shields.io/github/last-commit/onexbash/prereq.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/prereq.nvim)
 - [piersolenski/brewfile.nvim](https://github.com/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/stars/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/brewfile.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/brewfile.nvim)
+- [agokule/check-deps.nvim](https://github.com/agokule/check-deps.nvim) ![](https://img.shields.io/github/stars/agokule/check-deps.nvim) ![](https://img.shields.io/github/last-commit/agokule/check-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/check-deps.nvim)
 
 ## for Rust
 
