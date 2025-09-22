@@ -279,6 +279,7 @@
 - [yuki-yano/smart-i.nvim](https://github.com/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-i.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-i.nvim)
 - [cwmaguire/datebox.nvim](https://github.com/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/stars/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/last-commit/cwmaguire/datebox.nvim) ![](https://img.shields.io/github/commit-activity/y/cwmaguire/datebox.nvim)
 - [sontungexpt/bim.nvim](https://github.com/sontungexpt/bim.nvim) ![](https://img.shields.io/github/stars/sontungexpt/bim.nvim) ![](https://img.shields.io/github/last-commit/sontungexpt/bim.nvim) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/bim.nvim)
+- [duqcyxwd/stringbreaker.nvim](https://github.com/duqcyxwd/stringbreaker.nvim) ![](https://img.shields.io/github/stars/duqcyxwd/stringbreaker.nvim) ![](https://img.shields.io/github/last-commit/duqcyxwd/stringbreaker.nvim) ![](https://img.shields.io/github/commit-activity/y/duqcyxwd/stringbreaker.nvim)
 
 #### Smart Tab
 
@@ -461,7 +462,6 @@
 - [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
 
 ### Errorformat
-
 
 ### [Message / Notification](./message_notification.md)
 
