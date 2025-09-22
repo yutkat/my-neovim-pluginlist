@@ -34,6 +34,7 @@
 ### Test file
 
 - [freddyJarva/testfile.nvim](https://github.com/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/stars/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/last-commit/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/commit-activity/y/freddyJarva/testfile.nvim)
+- [mangin/test-flea.nvim](https://github.com/mangin/test-flea.nvim) ![](https://img.shields.io/github/stars/mangin/test-flea.nvim) ![](https://img.shields.io/github/last-commit/mangin/test-flea.nvim) ![](https://img.shields.io/github/commit-activity/y/mangin/test-flea.nvim)
 
 ### Neotest adapter
 

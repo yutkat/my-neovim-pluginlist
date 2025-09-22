@@ -497,6 +497,7 @@
 - [gitusp/pbrowse.nvim](https://github.com/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/stars/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pbrowse.nvim)
 - [gitusp/pr-review.nvim](https://github.com/gitusp/pr-review.nvim) ![](https://img.shields.io/github/stars/gitusp/pr-review.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pr-review.nvim)
 - [lseppala/praise.nvim](https://github.com/lseppala/praise.nvim) ![](https://img.shields.io/github/stars/lseppala/praise.nvim) ![](https://img.shields.io/github/last-commit/lseppala/praise.nvim) ![](https://img.shields.io/github/commit-activity/y/lseppala/praise.nvim)
+- [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) ![](https://img.shields.io/github/stars/justinmk/guh.nvim) ![](https://img.shields.io/github/last-commit/justinmk/guh.nvim) ![](https://img.shields.io/github/commit-activity/y/justinmk/guh.nvim)
 
 #### Pull Request Comment
 
