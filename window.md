@@ -109,11 +109,9 @@
 - [yuma140902/auto-split-direction.nvim](https://github.com/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/stars/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/last-commit/yuma140902/auto-split-direction.nvim) ![](https://img.shields.io/github/commit-activity/y/yuma140902/auto-split-direction.nvim)
 - [michaelPotter/accordian.nvim](https://github.com/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/stars/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/accordian.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/accordian.nvim)
 - [lbennett-stacki/here.nvim](https://github.com/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/stars/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/last-commit/lbennett-stacki/here.nvim) ![](https://img.shields.io/github/commit-activity/y/lbennett-stacki/here.nvim)
-- [joaomendoncaa/sane-splits.nvim](https://github.com/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/stars/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/last-commit/joaomendoncaa/sane-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomendoncaa/sane-splits.nvim)
 - [CharlesBClarke/fibonacci-splits.nvim](https://github.com/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/stars/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/last-commit/CharlesBClarke/fibonacci-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/CharlesBClarke/fibonacci-splits.nvim)
 - [xiaket/w.nvim](https://github.com/xiaket/w.nvim) ![](https://img.shields.io/github/stars/xiaket/w.nvim) ![](https://img.shields.io/github/last-commit/xiaket/w.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/w.nvim)
 - [hiattp/splitwise.nvim](https://github.com/hiattp/splitwise.nvim) ![](https://img.shields.io/github/stars/hiattp/splitwise.nvim) ![](https://img.shields.io/github/last-commit/hiattp/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/hiattp/splitwise.nvim)
-- [sanko00098797/splitwise.nvim](https://github.com/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/stars/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/last-commit/sanko00098797/splitwise.nvim) ![](https://img.shields.io/github/commit-activity/y/sanko00098797/splitwise.nvim)
 - [0xKahi/lazy-splits.nvim](https://github.com/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/stars/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/last-commit/0xKahi/lazy-splits.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKahi/lazy-splits.nvim)
 
 #### Popup
@@ -148,7 +146,6 @@
 - [0x00-ketsu/maximizer.nvim](https://github.com/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/stars/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/last-commit/0x00-ketsu/maximizer.nvim) ![](https://img.shields.io/github/commit-activity/y/0x00-ketsu/maximizer.nvim)
 - [niuiic/window.nvim](https://github.com/niuiic/window.nvim) ![](https://img.shields.io/github/stars/niuiic/window.nvim) ![](https://img.shields.io/github/last-commit/niuiic/window.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/window.nvim)
 - [coolcat702/nvim-maximize](https://github.com/coolcat702/nvim-maximize) ![](https://img.shields.io/github/stars/coolcat702/nvim-maximize) ![](https://img.shields.io/github/last-commit/coolcat702/nvim-maximize) ![](https://img.shields.io/github/commit-activity/y/coolcat702/nvim-maximize)
-- [Abstract-IDE/abstract-window.nvim](https://github.com/Abstract-IDE/abstract-window.nvim) ![](https://img.shields.io/github/stars/Abstract-IDE/abstract-window.nvim) ![](https://img.shields.io/github/last-commit/Abstract-IDE/abstract-window.nvim) ![](https://img.shields.io/github/commit-activity/y/Abstract-IDE/abstract-window.nvim)
 
 #### focus
 
