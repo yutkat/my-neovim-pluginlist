@@ -56,6 +56,7 @@
 - [SpaceShaman/window-shuffler.nvim](https://github.com/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/stars/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/last-commit/SpaceShaman/window-shuffler.nvim) ![](https://img.shields.io/github/commit-activity/y/SpaceShaman/window-shuffler.nvim)
 - [fabiomcosta/sanfona.nvim](https://github.com/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/stars/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/last-commit/fabiomcosta/sanfona.nvim) ![](https://img.shields.io/github/commit-activity/y/fabiomcosta/sanfona.nvim)
 - [veigaribo/winhist.nvim](https://github.com/veigaribo/winhist.nvim) ![](https://img.shields.io/github/stars/veigaribo/winhist.nvim) ![](https://img.shields.io/github/last-commit/veigaribo/winhist.nvim) ![](https://img.shields.io/github/commit-activity/y/veigaribo/winhist.nvim)
+- [rvaccone/wind.nvim](https://github.com/rvaccone/wind.nvim) ![](https://img.shields.io/github/stars/rvaccone/wind.nvim) ![](https://img.shields.io/github/last-commit/rvaccone/wind.nvim) ![](https://img.shields.io/github/commit-activity/y/rvaccone/wind.nvim)
 
 #### move
 
@@ -181,4 +182,5 @@
 
 ### Zoom
 
+- [lrappenhoener/zoom.nvim](https://github.com/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/stars/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/last-commit/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/lrappenhoener/zoom.nvim)
 - [krmmzs/window-zoom.nvim](https://github.com/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/stars/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/window-zoom.nvim)

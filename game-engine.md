@@ -49,6 +49,7 @@
 - [jamesonBradfield/gdunit.nvim](https://github.com/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/stars/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/last-commit/jamesonBradfield/gdunit.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesonBradfield/gdunit.nvim)
 - [Cretezy/godot-server.nvim](https://github.com/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/stars/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/last-commit/Cretezy/godot-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Cretezy/godot-server.nvim)
 - [RanMd/godot-mono.nvim](https://github.com/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/stars/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/last-commit/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/RanMd/godot-mono.nvim)
+- [dpowling/godot-lsp.nvim](https://github.com/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/stars/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/last-commit/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/dpowling/godot-lsp.nvim)
 
 ### Roblox studio
 
