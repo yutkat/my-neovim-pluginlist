@@ -175,6 +175,7 @@
 - [CongLuanTran/hyde-theme.nvim](https://github.com/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/stars/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/last-commit/CongLuanTran/hyde-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/CongLuanTran/hyde-theme.nvim)
 - [BillieLurk/autoScheme.nvim](https://github.com/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/stars/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/last-commit/BillieLurk/autoScheme.nvim) ![](https://img.shields.io/github/commit-activity/y/BillieLurk/autoScheme.nvim)
 - [tahayvr/chameleon.nvim](https://github.com/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/stars/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/last-commit/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/commit-activity/y/tahayvr/chameleon.nvim)
+- [Erl-koenig/theme-hub.nvim](https://github.com/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/stars/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/last-commit/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/Erl-koenig/theme-hub.nvim)
 
 ### Colorscheme overwrite
 
