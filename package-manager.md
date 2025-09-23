@@ -59,4 +59,3 @@
 
 ### NPM
 
-- [y3owk1n/tool-resolver.nvim](https://github.com/y3owk1n/tool-resolver.nvim) ![](https://img.shields.io/github/stars/y3owk1n/tool-resolver.nvim) ![](https://img.shields.io/github/last-commit/y3owk1n/tool-resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/y3owk1n/tool-resolver.nvim)
