@@ -29,6 +29,7 @@
 
 - [nazo6/ts-query-installer.nvim](https://github.com/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/stars/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/last-commit/nazo6/ts-query-installer.nvim) ![](https://img.shields.io/github/commit-activity/y/nazo6/ts-query-installer.nvim)
 - [lewis6991/ts-install.nvim](https://github.com/lewis6991/ts-install.nvim) ![](https://img.shields.io/github/stars/lewis6991/ts-install.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/ts-install.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/ts-install.nvim)
+- [mks-h/treesitter-autoinstall.nvim](https://github.com/mks-h/treesitter-autoinstall.nvim) ![](https://img.shields.io/github/stars/mks-h/treesitter-autoinstall.nvim) ![](https://img.shields.io/github/last-commit/mks-h/treesitter-autoinstall.nvim) ![](https://img.shields.io/github/commit-activity/y/mks-h/treesitter-autoinstall.nvim)
 
 ## Code Action
 

@@ -191,6 +191,7 @@
 - [JamiroFerrara/neojira.nvim](https://github.com/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neojira.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neojira.nvim)
 - [KlitnyjS/nvim-jira-branch](https://github.com/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/stars/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/last-commit/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/commit-activity/y/KlitnyjS/nvim-jira-branch)
 - [amorenoz/jiracli.nvim](https://github.com/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/stars/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/last-commit/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/amorenoz/jiracli.nvim)
+- [pandalec/jiratui.nvim](https://github.com/pandalec/jiratui.nvim) ![](https://img.shields.io/github/stars/pandalec/jiratui.nvim) ![](https://img.shields.io/github/last-commit/pandalec/jiratui.nvim) ![](https://img.shields.io/github/commit-activity/y/pandalec/jiratui.nvim)
 
 ### Confluence
 

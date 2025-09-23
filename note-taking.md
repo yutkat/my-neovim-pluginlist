@@ -332,6 +332,7 @@
 - [csmhowitzer/scratch-manager.nvim](https://github.com/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/scratch-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/scratch-manager.nvim)
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
 - [aiya000/nvim-mado-scratch-buffer](https://github.com/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch-buffer)
+- [diegoortizmatajira/workspace-scratch-files.nvim](https://github.com/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/workspace-scratch-files.nvim)
 
 ### inline note
 

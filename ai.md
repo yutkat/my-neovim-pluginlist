@@ -240,6 +240,7 @@
 - [heyitscarl-dev/ferret.nvim](https://github.com/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/stars/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/last-commit/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/commit-activity/y/heyitscarl-dev/ferret.nvim)
 - [Bepitic/agent-finder.nvim](https://github.com/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/stars/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/last-commit/Bepitic/agent-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Bepitic/agent-finder.nvim)
 - [0xdilo/lmeow.nvim](https://github.com/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/stars/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/last-commit/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/commit-activity/y/0xdilo/lmeow.nvim)
+- [lambdalisue/nvim-aibo](https://github.com/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/stars/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/last-commit/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/commit-activity/y/lambdalisue/nvim-aibo)
 
 #### mods
 
