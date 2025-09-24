@@ -423,6 +423,7 @@
 #### Cairo
 
 - [racso2609/cairo-support-nvim](https://github.com/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/stars/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/last-commit/racso2609/cairo-support-nvim) ![](https://img.shields.io/github/commit-activity/y/racso2609/cairo-support-nvim)
+- [Abstrucked/cairo.nvim](https://github.com/Abstrucked/cairo.nvim) ![](https://img.shields.io/github/stars/Abstrucked/cairo.nvim) ![](https://img.shields.io/github/last-commit/Abstrucked/cairo.nvim) ![](https://img.shields.io/github/commit-activity/y/Abstrucked/cairo.nvim)
 
 #### Cedar
 
