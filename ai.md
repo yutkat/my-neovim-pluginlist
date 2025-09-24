@@ -602,7 +602,6 @@
 
 - [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
-- [vvilhelmsen/partner.nvim](https://github.com/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/partner.nvim)
 
 ## log
 

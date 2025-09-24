@@ -119,6 +119,7 @@
 - [samr/fileflip.nvim](https://github.com/samr/fileflip.nvim) ![](https://img.shields.io/github/stars/samr/fileflip.nvim) ![](https://img.shields.io/github/last-commit/samr/fileflip.nvim) ![](https://img.shields.io/github/commit-activity/y/samr/fileflip.nvim)
 - [pe1te3son/prev-buffer.nvim](https://github.com/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/stars/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/last-commit/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/pe1te3son/prev-buffer.nvim)
 - [mangin/test-flea.nvim](https://github.com/mangin/test-flea.nvim) ![](https://img.shields.io/github/stars/mangin/test-flea.nvim) ![](https://img.shields.io/github/last-commit/mangin/test-flea.nvim) ![](https://img.shields.io/github/commit-activity/y/mangin/test-flea.nvim)
+- [vvilhelmsen/partner.nvim](https://github.com/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/partner.nvim)
 
 ### Buffer Management
 
