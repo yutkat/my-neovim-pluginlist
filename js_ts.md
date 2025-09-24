@@ -161,6 +161,7 @@
 - [AlejandroSuero/pretty-ts-errors.nvim](https://github.com/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/AlejandroSuero/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/AlejandroSuero/pretty-ts-errors.nvim)
 - [z0rzi/format-ts-errors.nvim](https://github.com/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/format-ts-errors.nvim)
 - [simeonoff/telescope-pretty-pickers.nvim](https://github.com/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/stars/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/telescope-pretty-pickers.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/telescope-pretty-pickers.nvim)
+- [nckedev/rs-macro-fmt.nvim](https://github.com/nckedev/rs-macro-fmt.nvim) ![](https://img.shields.io/github/stars/nckedev/rs-macro-fmt.nvim) ![](https://img.shields.io/github/last-commit/nckedev/rs-macro-fmt.nvim) ![](https://img.shields.io/github/commit-activity/y/nckedev/rs-macro-fmt.nvim)
 
 ### Lint
 
