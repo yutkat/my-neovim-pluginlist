@@ -44,6 +44,7 @@
 - [SilverofLight/MpvNote.nvim](https://github.com/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/stars/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/last-commit/SilverofLight/MpvNote.nvim) ![](https://img.shields.io/github/commit-activity/y/SilverofLight/MpvNote.nvim)
 - [km0e/music.nvim](https://github.com/km0e/music.nvim) ![](https://img.shields.io/github/stars/km0e/music.nvim) ![](https://img.shields.io/github/last-commit/km0e/music.nvim) ![](https://img.shields.io/github/commit-activity/y/km0e/music.nvim)
 - [TakeMichiks/Telescope-Mpv.nvim](https://github.com/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/stars/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/last-commit/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/TakeMichiks/Telescope-Mpv.nvim)
+- [TakeMichiks/Telescope-Mpv2.nvim](https://github.com/TakeMichiks/Telescope-Mpv2.nvim) ![](https://img.shields.io/github/stars/TakeMichiks/Telescope-Mpv2.nvim) ![](https://img.shields.io/github/last-commit/TakeMichiks/Telescope-Mpv2.nvim) ![](https://img.shields.io/github/commit-activity/y/TakeMichiks/Telescope-Mpv2.nvim)
 
 ### sapf
 
