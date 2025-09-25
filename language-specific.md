@@ -544,6 +544,8 @@
 
 #### Idris2
 
+- [crumbtoo/idris2-snippets.nvim](https://github.com/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/stars/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/last-commit/crumbtoo/idris2-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/crumbtoo/idris2-snippets.nvim)
+
 #### MatLab
 
 - [BalderHolst/matlab.nvim](https://github.com/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/stars/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/last-commit/BalderHolst/matlab.nvim) ![](https://img.shields.io/github/commit-activity/y/BalderHolst/matlab.nvim)
