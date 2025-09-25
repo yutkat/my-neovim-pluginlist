@@ -197,6 +197,7 @@
 ### Cscope
 
 - [daishengdong/calltree.nvim](https://github.com/daishengdong/calltree.nvim) ![](https://img.shields.io/github/stars/daishengdong/calltree.nvim) ![](https://img.shields.io/github/last-commit/daishengdong/calltree.nvim) ![](https://img.shields.io/github/commit-activity/y/daishengdong/calltree.nvim)
+- [rbmarliere/telescope-cscope.nvim](https://github.com/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/stars/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/telescope-cscope.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/telescope-cscope.nvim)
 
 ### Doxygen
 

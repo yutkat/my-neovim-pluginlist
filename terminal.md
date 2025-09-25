@@ -129,6 +129,7 @@
 - [rohsins/nvim-floterm](https://github.com/rohsins/nvim-floterm) ![](https://img.shields.io/github/stars/rohsins/nvim-floterm) ![](https://img.shields.io/github/last-commit/rohsins/nvim-floterm) ![](https://img.shields.io/github/commit-activity/y/rohsins/nvim-floterm)
 - [rkb121541/floaterminal.nvim](https://github.com/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/stars/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rkb121541/floaterminal.nvim)
 - [TungstnBallon/split-term.nvim](https://github.com/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/split-term.nvim)
+- [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
 
 ### Edit
 
