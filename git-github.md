@@ -386,6 +386,7 @@
 ### Contribution
 
 - [ronylee11/gitcontrib.nvim](https://github.com/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/stars/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/last-commit/ronylee11/gitcontrib.nvim) ![](https://img.shields.io/github/commit-activity/y/ronylee11/gitcontrib.nvim)
+- [rbmarliere/get_maintainer.nvim](https://github.com/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/stars/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/get_maintainer.nvim)
 
 ### git environment variable
 

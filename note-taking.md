@@ -201,6 +201,7 @@
 - [neov5/tasktree.nvim](https://github.com/neov5/tasktree.nvim) ![](https://img.shields.io/github/stars/neov5/tasktree.nvim) ![](https://img.shields.io/github/last-commit/neov5/tasktree.nvim) ![](https://img.shields.io/github/commit-activity/y/neov5/tasktree.nvim)
 - [Hemanthhari2000/todoforge.nvim](https://github.com/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/stars/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/last-commit/Hemanthhari2000/todoforge.nvim) ![](https://img.shields.io/github/commit-activity/y/Hemanthhari2000/todoforge.nvim)
 - [Morass/simple-todo.nvim](https://github.com/Morass/simple-todo.nvim) ![](https://img.shields.io/github/stars/Morass/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/Morass/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/simple-todo.nvim)
+- [DrewDalmedo/docket.nvim](https://github.com/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/docket.nvim)
 
 #### Google Task
 
