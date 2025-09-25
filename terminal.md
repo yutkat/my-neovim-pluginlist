@@ -95,6 +95,7 @@
 - [goropikari/tabterm.nvim](https://github.com/goropikari/tabterm.nvim) ![](https://img.shields.io/github/stars/goropikari/tabterm.nvim) ![](https://img.shields.io/github/last-commit/goropikari/tabterm.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/tabterm.nvim)
 - [CoolCoderSuper/terminal.nvim](https://github.com/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/terminal.nvim)
 - [LuxVim/nvim-luxterm](https://github.com/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxterm)
+- [hsanson/tmux-terminal.nvim](https://github.com/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/stars/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/last-commit/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/hsanson/tmux-terminal.nvim)
 
 ### Open
 

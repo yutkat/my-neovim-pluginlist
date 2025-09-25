@@ -264,6 +264,7 @@
 ### WordPress
 
 - [ahollister/wp-utils.nvim](https://github.com/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/stars/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/last-commit/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/wp-utils.nvim)
+- [chrisbellboy/wp-vars.nvim](https://github.com/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/stars/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/last-commit/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisbellboy/wp-vars.nvim)
 
 ### Shopify
 

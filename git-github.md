@@ -499,6 +499,7 @@
 - [lseppala/praise.nvim](https://github.com/lseppala/praise.nvim) ![](https://img.shields.io/github/stars/lseppala/praise.nvim) ![](https://img.shields.io/github/last-commit/lseppala/praise.nvim) ![](https://img.shields.io/github/commit-activity/y/lseppala/praise.nvim)
 - [justinmk/guh.nvim](https://github.com/justinmk/guh.nvim) ![](https://img.shields.io/github/stars/justinmk/guh.nvim) ![](https://img.shields.io/github/last-commit/justinmk/guh.nvim) ![](https://img.shields.io/github/commit-activity/y/justinmk/guh.nvim)
 - [AranBorkum/pr-tools.nvim](https://github.com/AranBorkum/pr-tools.nvim) ![](https://img.shields.io/github/stars/AranBorkum/pr-tools.nvim) ![](https://img.shields.io/github/last-commit/AranBorkum/pr-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/AranBorkum/pr-tools.nvim)
+- [RyanSaxe/code-review.nvim](https://github.com/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/stars/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/last-commit/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanSaxe/code-review.nvim)
 
 #### Pull Request Comment
 
