@@ -78,6 +78,7 @@
 - [teesh3rt/zeekay.nvim](https://github.com/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/stars/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/last-commit/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/commit-activity/y/teesh3rt/zeekay.nvim)
 - [breiting/nvim-zettel.nvim](https://github.com/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-zettel.nvim)
 - [Paperweightt/tome.nvim](https://github.com/Paperweightt/tome.nvim) ![](https://img.shields.io/github/stars/Paperweightt/tome.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/tome.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/tome.nvim)
+- [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
 
 ### Markdown
 
@@ -522,5 +523,4 @@
 - [etiennecollin/notes.nvim](https://github.com/etiennecollin/notes.nvim) ![](https://img.shields.io/github/stars/etiennecollin/notes.nvim) ![](https://img.shields.io/github/last-commit/etiennecollin/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/etiennecollin/notes.nvim)
 - [dasdachs/nvim-mnemosyne](https://github.com/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/stars/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/last-commit/dasdachs/nvim-mnemosyne) ![](https://img.shields.io/github/commit-activity/y/dasdachs/nvim-mnemosyne)
 - [saltchicken/keep.nvim](https://github.com/saltchicken/keep.nvim) ![](https://img.shields.io/github/stars/saltchicken/keep.nvim) ![](https://img.shields.io/github/last-commit/saltchicken/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/saltchicken/keep.nvim)
-- [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
