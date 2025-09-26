@@ -65,6 +65,7 @@
   - [Ember](#ember)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
+  - [Edge.js](#edgejs)
 
 <!-- tocstop -->
 
@@ -437,3 +438,7 @@
 ### Jinja
 
 - [you-n-g/jinja-engine.nvim](https://github.com/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/stars/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/last-commit/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/commit-activity/y/you-n-g/jinja-engine.nvim)
+
+### Edge.js
+
+- [markgarrigan/edge.nvim](https://github.com/markgarrigan/edge.nvim) ![](https://img.shields.io/github/stars/markgarrigan/edge.nvim) ![](https://img.shields.io/github/last-commit/markgarrigan/edge.nvim) ![](https://img.shields.io/github/commit-activity/y/markgarrigan/edge.nvim)
