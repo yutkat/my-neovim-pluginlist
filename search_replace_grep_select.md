@@ -118,6 +118,7 @@
 
 ### File search
 
+- [aiya000/nvim-just-stay-search](https://github.com/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/stars/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/last-commit/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-just-stay-search)
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
 
 ## Replace

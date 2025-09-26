@@ -140,6 +140,7 @@
 - [Kaiser-Yang/win-resizer.nvim](https://github.com/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/win-resizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/win-resizer.nvim)
 - [ian-howell/ripple.nvim](https://github.com/ian-howell/ripple.nvim) ![](https://img.shields.io/github/stars/ian-howell/ripple.nvim) ![](https://img.shields.io/github/last-commit/ian-howell/ripple.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-howell/ripple.nvim)
 - [drop-stones/smart-splits-wsl2.nvim](https://github.com/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/stars/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/smart-splits-wsl2.nvim)
+- [justincampbell/eighties.nvim](https://github.com/justincampbell/eighties.nvim) ![](https://img.shields.io/github/stars/justincampbell/eighties.nvim) ![](https://img.shields.io/github/last-commit/justincampbell/eighties.nvim) ![](https://img.shields.io/github/commit-activity/y/justincampbell/eighties.nvim)
 
 #### maximize
 

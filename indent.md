@@ -6,6 +6,7 @@
   - [Indent Size](#indent-size)
   - [Indent Shift](#indent-shift)
   - [indentkeys](#indentkeys)
+  - [HTML indent](#html-indent)
   - [Indent Guide](#indent-guide)
 
 <!-- tocstop -->
@@ -38,6 +39,10 @@
 ### indentkeys
 
 - [yioneko/nvim-dinkeys](https://github.com/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/stars/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/last-commit/yioneko/nvim-dinkeys) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-dinkeys)
+
+### HTML indent
+
+- [markgarrigan/edge.nvim](https://github.com/markgarrigan/edge.nvim) ![](https://img.shields.io/github/stars/markgarrigan/edge.nvim) ![](https://img.shields.io/github/last-commit/markgarrigan/edge.nvim) ![](https://img.shields.io/github/commit-activity/y/markgarrigan/edge.nvim)
 
 ### Indent Guide
 

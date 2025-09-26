@@ -129,6 +129,7 @@
 - [Jxstxs/keystack.nvim](https://github.com/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/stars/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/keystack.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/keystack.nvim)
 - [N4nid/easynums.nvim](https://github.com/N4nid/easynums.nvim) ![](https://img.shields.io/github/stars/N4nid/easynums.nvim) ![](https://img.shields.io/github/last-commit/N4nid/easynums.nvim) ![](https://img.shields.io/github/commit-activity/y/N4nid/easynums.nvim)
 - [debugloop/layers.nvim](https://github.com/debugloop/layers.nvim) ![](https://img.shields.io/github/stars/debugloop/layers.nvim) ![](https://img.shields.io/github/last-commit/debugloop/layers.nvim) ![](https://img.shields.io/github/commit-activity/y/debugloop/layers.nvim)
+- [StackInTheWild/elevator.nvim](https://github.com/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/elevator.nvim)
 
 ### Layout Switch
 

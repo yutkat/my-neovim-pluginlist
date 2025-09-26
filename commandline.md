@@ -29,6 +29,7 @@
 - [gcmt/cmdfix.nvim](https://github.com/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/stars/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/last-commit/gcmt/cmdfix.nvim) ![](https://img.shields.io/github/commit-activity/y/gcmt/cmdfix.nvim)
 - [smilhey/ed-cmd.nvim](https://github.com/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/stars/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/last-commit/smilhey/ed-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/smilhey/ed-cmd.nvim)
 - [airRnot1106/edit-command-line.nvim](https://github.com/airRnot1106/edit-command-line.nvim) ![](https://img.shields.io/github/stars/airRnot1106/edit-command-line.nvim) ![](https://img.shields.io/github/last-commit/airRnot1106/edit-command-line.nvim) ![](https://img.shields.io/github/commit-activity/y/airRnot1106/edit-command-line.nvim)
+- [ibrahim317/skybison.nvim](https://github.com/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/stars/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/last-commit/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/commit-activity/y/ibrahim317/skybison.nvim)
 
 ### Normal mode command line
 
