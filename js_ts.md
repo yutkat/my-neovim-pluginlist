@@ -65,6 +65,7 @@
   - [Ember](#ember)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
+  - [Edge.js](#edgejs)
 
 <!-- tocstop -->
 
@@ -358,6 +359,7 @@
 - [dromse/radon.nvim](https://github.com/dromse/radon.nvim) ![](https://img.shields.io/github/stars/dromse/radon.nvim) ![](https://img.shields.io/github/last-commit/dromse/radon.nvim) ![](https://img.shields.io/github/commit-activity/y/dromse/radon.nvim)
 - [TiagoMDG/react-comp-gen.nvim](https://github.com/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/stars/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/last-commit/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/TiagoMDG/react-comp-gen.nvim)
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/stars/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/last-commit/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/commit-activity/y/harisb2012/tsnest.nvim)
+- [Matt-Boeren/reactToolkit.nvim](https://github.com/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/stars/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/last-commit/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Matt-Boeren/reactToolkit.nvim)
 
 #### Next.js
 
@@ -436,3 +438,7 @@
 ### Jinja
 
 - [you-n-g/jinja-engine.nvim](https://github.com/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/stars/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/last-commit/you-n-g/jinja-engine.nvim) ![](https://img.shields.io/github/commit-activity/y/you-n-g/jinja-engine.nvim)
+
+### Edge.js
+
+- [markgarrigan/edge.nvim](https://github.com/markgarrigan/edge.nvim) ![](https://img.shields.io/github/stars/markgarrigan/edge.nvim) ![](https://img.shields.io/github/last-commit/markgarrigan/edge.nvim) ![](https://img.shields.io/github/commit-activity/y/markgarrigan/edge.nvim)

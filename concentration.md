@@ -56,6 +56,7 @@
 - [hellgrenj/popclock.nvim](https://github.com/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/stars/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/last-commit/hellgrenj/popclock.nvim) ![](https://img.shields.io/github/commit-activity/y/hellgrenj/popclock.nvim)
 - [CoderParth/remind.nvim](https://github.com/CoderParth/remind.nvim) ![](https://img.shields.io/github/stars/CoderParth/remind.nvim) ![](https://img.shields.io/github/last-commit/CoderParth/remind.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderParth/remind.nvim)
 - [arch563/reminders.nvim](https://github.com/arch563/reminders.nvim) ![](https://img.shields.io/github/stars/arch563/reminders.nvim) ![](https://img.shields.io/github/last-commit/arch563/reminders.nvim) ![](https://img.shields.io/github/commit-activity/y/arch563/reminders.nvim)
+- [CodeGeek04/wellness-break.nvim](https://github.com/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/stars/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/last-commit/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/commit-activity/y/CodeGeek04/wellness-break.nvim)
 
 ## Timer
 
