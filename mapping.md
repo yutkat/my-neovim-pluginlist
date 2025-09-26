@@ -137,6 +137,7 @@
 ### Mapping toggle
 
 - [tjdevries/stackmap.nvim](https://github.com/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/stars/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/stackmap.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/stackmap.nvim)
+- [StackInTheWild/elevator.nvim](https://github.com/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/elevator.nvim)
 
 ### Improve Mappings
 
