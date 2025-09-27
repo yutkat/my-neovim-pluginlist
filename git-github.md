@@ -515,6 +515,7 @@
 - [topaxi/pipeline.nvim](https://github.com/topaxi/pipeline.nvim) ![](https://img.shields.io/github/stars/topaxi/pipeline.nvim) ![](https://img.shields.io/github/last-commit/topaxi/pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/topaxi/pipeline.nvim)
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
 - [gitusp/gh-run-status.nvim](https://github.com/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-run-status.nvim)
+- [mujx/nvim-actions-sha](https://github.com/mujx/nvim-actions-sha) ![](https://img.shields.io/github/stars/mujx/nvim-actions-sha) ![](https://img.shields.io/github/last-commit/mujx/nvim-actions-sha) ![](https://img.shields.io/github/commit-activity/y/mujx/nvim-actions-sha)
 
 ### Project
 
