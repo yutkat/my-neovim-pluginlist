@@ -49,6 +49,7 @@
 - [GitMarkedDan/you-are-an-idiot.nvim](https://github.com/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/you-are-an-idiot.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/you-are-an-idiot.nvim)
 - [tihawk/mdwa.nvim](https://github.com/tihawk/mdwa.nvim) ![](https://img.shields.io/github/stars/tihawk/mdwa.nvim) ![](https://img.shields.io/github/last-commit/tihawk/mdwa.nvim) ![](https://img.shields.io/github/commit-activity/y/tihawk/mdwa.nvim)
 - [shborg-lua/nvim-rhymes](https://github.com/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/stars/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/last-commit/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/commit-activity/y/shborg-lua/nvim-rhymes)
+- [DuckyShine004/duck-type.nvim](https://github.com/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/stars/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/last-commit/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckyShine004/duck-type.nvim)
 
 #### Hacker typer
 

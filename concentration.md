@@ -76,6 +76,7 @@
 - [lax-ram-swe/nvim-line-timer](https://github.com/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/stars/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/last-commit/lax-ram-swe/nvim-line-timer) ![](https://img.shields.io/github/commit-activity/y/lax-ram-swe/nvim-line-timer)
 - [ravsii/timer.nvim](https://github.com/ravsii/timer.nvim) ![](https://img.shields.io/github/stars/ravsii/timer.nvim) ![](https://img.shields.io/github/last-commit/ravsii/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/ravsii/timer.nvim)
 - [Tin-Mijatovic/fit.nvim](https://github.com/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/stars/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/last-commit/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/commit-activity/y/Tin-Mijatovic/fit.nvim)
+- [praveenscript/idleClock.nvim](https://github.com/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/stars/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/last-commit/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/commit-activity/y/praveenscript/idleClock.nvim)
 
 ## Do Not Disturb
 

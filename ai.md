@@ -185,6 +185,7 @@
 - [JunYang-tes/gemini-nvim](https://github.com/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/stars/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/last-commit/JunYang-tes/gemini-nvim) ![](https://img.shields.io/github/commit-activity/y/JunYang-tes/gemini-nvim)
 - [prime-run/gemini.nvim](https://github.com/prime-run/gemini.nvim) ![](https://img.shields.io/github/stars/prime-run/gemini.nvim) ![](https://img.shields.io/github/last-commit/prime-run/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/prime-run/gemini.nvim)
 - [Hzzy2O/geminicli.nvim](https://github.com/Hzzy2O/geminicli.nvim) ![](https://img.shields.io/github/stars/Hzzy2O/geminicli.nvim) ![](https://img.shields.io/github/last-commit/Hzzy2O/geminicli.nvim) ![](https://img.shields.io/github/commit-activity/y/Hzzy2O/geminicli.nvim)
+- [gutsavgupta/nvim-gemini-companion](https://github.com/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/stars/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/last-commit/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/commit-activity/y/gutsavgupta/nvim-gemini-companion)
 
 ### Grok
 
