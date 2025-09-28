@@ -240,6 +240,7 @@
 - [olidacombe/terrabastard.nvim](https://github.com/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/stars/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/last-commit/olidacombe/terrabastard.nvim) ![](https://img.shields.io/github/commit-activity/y/olidacombe/terrabastard.nvim)
 - [dkooll/bouncer.nvim](https://github.com/dkooll/bouncer.nvim) ![](https://img.shields.io/github/stars/dkooll/bouncer.nvim) ![](https://img.shields.io/github/last-commit/dkooll/bouncer.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/bouncer.nvim)
 - [dkooll/diffy.nvim](https://github.com/dkooll/diffy.nvim) ![](https://img.shields.io/github/stars/dkooll/diffy.nvim) ![](https://img.shields.io/github/last-commit/dkooll/diffy.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/diffy.nvim)
+- [timonviola/terraform-doc-browser.nvim](https://github.com/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/stars/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/last-commit/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/timonviola/terraform-doc-browser.nvim)
 
 ##### atmos
 

@@ -181,6 +181,7 @@
 - [ViiEx/gcmh.nvim](https://github.com/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/stars/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/last-commit/ViiEx/gcmh.nvim) ![](https://img.shields.io/github/commit-activity/y/ViiEx/gcmh.nvim)
 - [stefanlogue/meteor.nvim](https://github.com/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/stars/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/last-commit/stefanlogue/meteor.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanlogue/meteor.nvim)
 - [LuisanaMTDev/conventionalgc.nvim](https://github.com/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/stars/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/last-commit/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/commit-activity/y/LuisanaMTDev/conventionalgc.nvim)
+- [Morass/conventional-push.nvim](https://github.com/Morass/conventional-push.nvim) ![](https://img.shields.io/github/stars/Morass/conventional-push.nvim) ![](https://img.shields.io/github/last-commit/Morass/conventional-push.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/conventional-push.nvim)
 - [andostronaut/cocli.nvim](https://github.com/andostronaut/cocli.nvim) ![](https://img.shields.io/github/stars/andostronaut/cocli.nvim) ![](https://img.shields.io/github/last-commit/andostronaut/cocli.nvim) ![](https://img.shields.io/github/commit-activity/y/andostronaut/cocli.nvim)
 
 #### co authored
@@ -432,6 +433,7 @@
 - [Glhou/lazyjj.nvim](https://github.com/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/stars/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/last-commit/Glhou/lazyjj.nvim) ![](https://img.shields.io/github/commit-activity/y/Glhou/lazyjj.nvim)
 - [evanphx/jjsigns.nvim](https://github.com/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/stars/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/evanphx/jjsigns.nvim)
 - [benjaminjellis/jjinfo.nvim](https://github.com/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/stars/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/last-commit/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminjellis/jjinfo.nvim)
+- [trosh/Jdiffsplit.nvim](https://github.com/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/stars/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/last-commit/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/trosh/Jdiffsplit.nvim)
 
 ### diff
 
@@ -516,6 +518,7 @@
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
 - [gitusp/gh-run-status.nvim](https://github.com/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-run-status.nvim)
 - [mujx/nvim-actions-sha](https://github.com/mujx/nvim-actions-sha) ![](https://img.shields.io/github/stars/mujx/nvim-actions-sha) ![](https://img.shields.io/github/last-commit/mujx/nvim-actions-sha) ![](https://img.shields.io/github/commit-activity/y/mujx/nvim-actions-sha)
+- [Hdoc1509/gh-actions.nvim](https://github.com/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/gh-actions.nvim)
 
 ### Project
 

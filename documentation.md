@@ -103,6 +103,7 @@
 - [jeangiraldoo/markup.nvim](https://github.com/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/markup.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/markup.nvim)
 - [erel213/markdown-writer.nvim](https://github.com/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/stars/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/last-commit/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/erel213/markdown-writer.nvim)
 - [Jaehaks/md-utility.nvim](https://github.com/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/stars/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/md-utility.nvim)
+- [OscarHUDalby/nvim-simd](https://github.com/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/stars/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/last-commit/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/commit-activity/y/OscarHUDalby/nvim-simd)
 
 #### Markdown link
 

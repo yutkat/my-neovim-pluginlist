@@ -536,6 +536,7 @@
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/stars/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/last-commit/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/commit-activity/y/copilotlsp-nvim/copilot-lsp)
 - [goropikari/telescope-copilotchat-history.nvim](https://github.com/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-copilotchat-history.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-copilotchat-history.nvim)
 - [dyamon/codecompanion-copilot-enterprise.nvim](https://github.com/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-copilot-enterprise.nvim)
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ![](https://img.shields.io/github/stars/folke/sidekick.nvim) ![](https://img.shields.io/github/last-commit/folke/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/sidekick.nvim)
 
 ### Genie CLI
 
@@ -649,6 +650,7 @@
 - [guill/mcpdap.nvim](https://github.com/guill/mcpdap.nvim) ![](https://img.shields.io/github/stars/guill/mcpdap.nvim) ![](https://img.shields.io/github/last-commit/guill/mcpdap.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcpdap.nvim)
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) ![](https://img.shields.io/github/stars/linw1995/nvim-mcp) ![](https://img.shields.io/github/last-commit/linw1995/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-mcp)
 - [rhnvrm/nvim-claudecode-mcp](https://github.com/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/stars/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/last-commit/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/commit-activity/y/rhnvrm/nvim-claudecode-mcp)
+- [georgeharker/mcp-diagnostics.nvim](https://github.com/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/stars/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/georgeharker/mcp-diagnostics.nvim)
 
 ### MCP SDK
 
