@@ -28,6 +28,7 @@
 - [WhoIsSethDaniel/lsp-cd.nvim](https://github.com/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/stars/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/last-commit/WhoIsSethDaniel/lsp-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/WhoIsSethDaniel/lsp-cd.nvim)
 - [jessekelighine/up.nvim](https://github.com/jessekelighine/up.nvim) ![](https://img.shields.io/github/stars/jessekelighine/up.nvim) ![](https://img.shields.io/github/last-commit/jessekelighine/up.nvim) ![](https://img.shields.io/github/commit-activity/y/jessekelighine/up.nvim)
 - [zachwi/motorbike](https://github.com/zachwi/motorbike) ![](https://img.shields.io/github/stars/zachwi/motorbike) ![](https://img.shields.io/github/last-commit/zachwi/motorbike) ![](https://img.shields.io/github/commit-activity/y/zachwi/motorbike)
+- [Sparkylc2/quick-cd.nvim](https://github.com/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/quick-cd.nvim)
 
 ### zoxide
 
