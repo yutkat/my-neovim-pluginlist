@@ -518,6 +518,7 @@
 - [amirkarimi/open-github-action.nvim](https://github.com/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/stars/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/last-commit/amirkarimi/open-github-action.nvim) ![](https://img.shields.io/github/commit-activity/y/amirkarimi/open-github-action.nvim)
 - [gitusp/gh-run-status.nvim](https://github.com/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-run-status.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-run-status.nvim)
 - [mujx/nvim-actions-sha](https://github.com/mujx/nvim-actions-sha) ![](https://img.shields.io/github/stars/mujx/nvim-actions-sha) ![](https://img.shields.io/github/last-commit/mujx/nvim-actions-sha) ![](https://img.shields.io/github/commit-activity/y/mujx/nvim-actions-sha)
+- [Hdoc1509/gh-actions.nvim](https://github.com/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/gh-actions.nvim)
 
 ### Project
 
