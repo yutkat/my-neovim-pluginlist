@@ -282,6 +282,7 @@
 
 - [chenxin-yan/footnote.nvim](https://github.com/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/stars/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/last-commit/chenxin-yan/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/chenxin-yan/footnote.nvim)
 - [watttttttttttttttttt/footnotes-preview.nvim](https://github.com/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/stars/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/last-commit/watttttttttttttttttt/footnotes-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/watttttttttttttttttt/footnotes-preview.nvim)
+- [navicore/footnote.nvim](https://github.com/navicore/footnote.nvim) ![](https://img.shields.io/github/stars/navicore/footnote.nvim) ![](https://img.shields.io/github/last-commit/navicore/footnote.nvim) ![](https://img.shields.io/github/commit-activity/y/navicore/footnote.nvim)
 
 #### ID
 

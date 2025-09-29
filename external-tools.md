@@ -4,6 +4,7 @@
 
 - [Color](#color)
 - [Luarock](#luarock)
+- [Mutagen](#mutagen)
 
 <!-- tocstop -->
 
@@ -14,3 +15,7 @@
 ## Luarock
 
 - [teto/vim2rockspec](https://github.com/teto/vim2rockspec) ![](https://img.shields.io/github/stars/teto/vim2rockspec) ![](https://img.shields.io/github/last-commit/teto/vim2rockspec) ![](https://img.shields.io/github/commit-activity/y/teto/vim2rockspec)
+
+## Mutagen
+
+- [lothran/mutagen.nvim](https://github.com/lothran/mutagen.nvim) ![](https://img.shields.io/github/stars/lothran/mutagen.nvim) ![](https://img.shields.io/github/last-commit/lothran/mutagen.nvim) ![](https://img.shields.io/github/commit-activity/y/lothran/mutagen.nvim)

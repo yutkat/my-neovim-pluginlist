@@ -21,6 +21,7 @@
 - [aehabdelouadoud/nvim-calc](https://github.com/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/stars/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/last-commit/aehabdelouadoud/nvim-calc) ![](https://img.shields.io/github/commit-activity/y/aehabdelouadoud/nvim-calc)
 - [Flokkq/calc.nvim](https://github.com/Flokkq/calc.nvim) ![](https://img.shields.io/github/stars/Flokkq/calc.nvim) ![](https://img.shields.io/github/last-commit/Flokkq/calc.nvim) ![](https://img.shields.io/github/commit-activity/y/Flokkq/calc.nvim)
 - [rafacvs/vimath.nvim](https://github.com/rafacvs/vimath.nvim) ![](https://img.shields.io/github/stars/rafacvs/vimath.nvim) ![](https://img.shields.io/github/last-commit/rafacvs/vimath.nvim) ![](https://img.shields.io/github/commit-activity/y/rafacvs/vimath.nvim)
+- [simta1/cptools.nvim](https://github.com/simta1/cptools.nvim) ![](https://img.shields.io/github/stars/simta1/cptools.nvim) ![](https://img.shields.io/github/last-commit/simta1/cptools.nvim) ![](https://img.shields.io/github/commit-activity/y/simta1/cptools.nvim)
 
 ### Time
 

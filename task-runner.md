@@ -217,6 +217,7 @@
 - [Paul8800/nvim-term-runner](https://github.com/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/stars/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/last-commit/Paul8800/nvim-term-runner) ![](https://img.shields.io/github/commit-activity/y/Paul8800/nvim-term-runner)
 - [rltyty/runit.nvim](https://github.com/rltyty/runit.nvim) ![](https://img.shields.io/github/stars/rltyty/runit.nvim) ![](https://img.shields.io/github/last-commit/rltyty/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/rltyty/runit.nvim)
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
+- [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
 
 ### :make style
 

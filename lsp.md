@@ -174,6 +174,7 @@
 - [Wansmer/symbol-usage.nvim](https://github.com/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/stars/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/last-commit/Wansmer/symbol-usage.nvim) ![](https://img.shields.io/github/commit-activity/y/Wansmer/symbol-usage.nvim)
 - [mawkler/refjump.nvim](https://github.com/mawkler/refjump.nvim) ![](https://img.shields.io/github/stars/mawkler/refjump.nvim) ![](https://img.shields.io/github/last-commit/mawkler/refjump.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/refjump.nvim)
 - [romus204/referencer.nvim](https://github.com/romus204/referencer.nvim) ![](https://img.shields.io/github/stars/romus204/referencer.nvim) ![](https://img.shields.io/github/last-commit/romus204/referencer.nvim) ![](https://img.shields.io/github/commit-activity/y/romus204/referencer.nvim)
+- [YuCao16/LspFinder.nvim](https://github.com/YuCao16/LspFinder.nvim) ![](https://img.shields.io/github/stars/YuCao16/LspFinder.nvim) ![](https://img.shields.io/github/last-commit/YuCao16/LspFinder.nvim) ![](https://img.shields.io/github/commit-activity/y/YuCao16/LspFinder.nvim)
 
 #### Code action
 

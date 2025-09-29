@@ -75,6 +75,7 @@
 
 - [omaraboumrad/telescope-extra-actions.nvim](https://github.com/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/stars/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/last-commit/omaraboumrad/telescope-extra-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/omaraboumrad/telescope-extra-actions.nvim)
 - [atusy/qfscope.nvim](https://github.com/atusy/qfscope.nvim) ![](https://img.shields.io/github/stars/atusy/qfscope.nvim) ![](https://img.shields.io/github/last-commit/atusy/qfscope.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/qfscope.nvim)
+- [senkentarou/telescope-copy-path.nvim](https://github.com/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-copy-path.nvim)
 
 #### Utils
 
