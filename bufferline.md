@@ -34,3 +34,4 @@
 ### Vertical
 
 - [shabaraba/pile.nvim](https://github.com/shabaraba/pile.nvim) ![](https://img.shields.io/github/stars/shabaraba/pile.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/pile.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/pile.nvim)
+- [ahkohd/buffer-sticks.nvim](https://github.com/ahkohd/buffer-sticks.nvim) ![](https://img.shields.io/github/stars/ahkohd/buffer-sticks.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/buffer-sticks.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/buffer-sticks.nvim)

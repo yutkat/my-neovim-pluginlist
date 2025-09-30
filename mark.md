@@ -65,6 +65,7 @@
 - [pxwg/sidenote.nvim](https://github.com/pxwg/sidenote.nvim) ![](https://img.shields.io/github/stars/pxwg/sidenote.nvim) ![](https://img.shields.io/github/last-commit/pxwg/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/sidenote.nvim)
 - [jameswolensky/marker-groups-dev.nvim](https://github.com/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/stars/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/last-commit/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/jameswolensky/marker-groups-dev.nvim)
 - [IstiCusi/docpair.nvim](https://github.com/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/stars/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/last-commit/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/commit-activity/y/IstiCusi/docpair.nvim)
+- [nisidabay/code-notes.nvim](https://github.com/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/stars/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/code-notes.nvim)
 
 ### hashtag
 

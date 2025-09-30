@@ -94,6 +94,7 @@
 - [sweetbbak/teleport.nvim](https://github.com/sweetbbak/teleport.nvim) ![](https://img.shields.io/github/stars/sweetbbak/teleport.nvim) ![](https://img.shields.io/github/last-commit/sweetbbak/teleport.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetbbak/teleport.nvim)
 - [howardng97/goback.nvim](https://github.com/howardng97/goback.nvim) ![](https://img.shields.io/github/stars/howardng97/goback.nvim) ![](https://img.shields.io/github/last-commit/howardng97/goback.nvim) ![](https://img.shields.io/github/commit-activity/y/howardng97/goback.nvim)
 - [lineick/haken.nvim](https://github.com/lineick/haken.nvim) ![](https://img.shields.io/github/stars/lineick/haken.nvim) ![](https://img.shields.io/github/last-commit/lineick/haken.nvim) ![](https://img.shields.io/github/commit-activity/y/lineick/haken.nvim)
+- [z0rzi/pos-stack.nvim](https://github.com/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/stars/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/pos-stack.nvim)
 
 ### Edit History
 
