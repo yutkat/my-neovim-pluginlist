@@ -65,7 +65,7 @@
 - [kiddos/pawtocomplete.nvim](https://github.com/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/stars/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/last-commit/kiddos/pawtocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/kiddos/pawtocomplete.nvim)
 - [braden-godley/evil-larry.nvim](https://github.com/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/stars/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/last-commit/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/commit-activity/y/braden-godley/evil-larry.nvim)
 - [opqrstuvcut/catwalk.nvim](https://github.com/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/stars/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/last-commit/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/opqrstuvcut/catwalk.nvim)
-- [Panda-d3v/nvim-cute-cat](https://github.com/Panda-d3v/nvim-cute-cat) ![](https://img.shields.io/github/stars/Panda-d3v/nvim-cute-cat) ![](https://img.shields.io/github/last-commit/Panda-d3v/nvim-cute-cat) ![](https://img.shields.io/github/commit-activity/y/Panda-d3v/nvim-cute-cat)
+- [Panda-d3v/cute-cat.nvim](https://github.com/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/stars/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/last-commit/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/Panda-d3v/cute-cat.nvim)
 
 ### Image
 
@@ -102,7 +102,6 @@
 - [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) ![](https://img.shields.io/github/stars/Weyaaron/nvim-training) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-training) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-training)
 
 ### Turing path
-
 
 ### Gesture
 
