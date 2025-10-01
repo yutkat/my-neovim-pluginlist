@@ -42,7 +42,6 @@
 - [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 - [unrealapex/prose.nvim](https://github.com/unrealapex/prose.nvim) ![](https://img.shields.io/github/stars/unrealapex/prose.nvim) ![](https://img.shields.io/github/last-commit/unrealapex/prose.nvim) ![](https://img.shields.io/github/commit-activity/y/unrealapex/prose.nvim)
 - [kungfusaini/spellcheck-mode.nvim](https://github.com/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/stars/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/last-commit/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusaini/spellcheck-mode.nvim)
-- [Sparkylc2/vimtex-spell-diagnostics.nvim](https://github.com/Sparkylc2/vimtex-spell-diagnostics.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/vimtex-spell-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/vimtex-spell-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/vimtex-spell-diagnostics.nvim)
 
 ### ShellSpec
 
