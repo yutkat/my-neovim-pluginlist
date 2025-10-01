@@ -95,6 +95,7 @@
 - [tolluset/yankpath.nvim](https://github.com/tolluset/yankpath.nvim) ![](https://img.shields.io/github/stars/tolluset/yankpath.nvim) ![](https://img.shields.io/github/last-commit/tolluset/yankpath.nvim) ![](https://img.shields.io/github/commit-activity/y/tolluset/yankpath.nvim)
 - [neumachen/yank-file-path.nvim](https://github.com/neumachen/yank-file-path.nvim) ![](https://img.shields.io/github/stars/neumachen/yank-file-path.nvim) ![](https://img.shields.io/github/last-commit/neumachen/yank-file-path.nvim) ![](https://img.shields.io/github/commit-activity/y/neumachen/yank-file-path.nvim)
 - [57656E6474/snatch.nvim](https://github.com/57656E6474/snatch.nvim) ![](https://img.shields.io/github/stars/57656E6474/snatch.nvim) ![](https://img.shields.io/github/last-commit/57656E6474/snatch.nvim) ![](https://img.shields.io/github/commit-activity/y/57656E6474/snatch.nvim)
+- [senkentarou/telescope-copy-path.nvim](https://github.com/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-copy-path.nvim)
 
 ### Register Selector
 

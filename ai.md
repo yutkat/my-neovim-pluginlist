@@ -73,6 +73,7 @@
 - [Model Context Protocol(MCP)](#model-context-protocolmcp)
   - [MCP SDK](#mcp-sdk)
     - [Stainless](#stainless)
+- [ACP](#acp)
 - [ignore](#ignore)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
@@ -152,6 +153,7 @@
 - [johnseth97/codex.nvim](https://github.com/johnseth97/codex.nvim) ![](https://img.shields.io/github/stars/johnseth97/codex.nvim) ![](https://img.shields.io/github/last-commit/johnseth97/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/johnseth97/codex.nvim)
 - [lesliesrussell/codex.nvim](https://github.com/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/stars/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/last-commit/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/lesliesrussell/codex.nvim)
 - [pittcat/codex.nvim](https://github.com/pittcat/codex.nvim) ![](https://img.shields.io/github/stars/pittcat/codex.nvim) ![](https://img.shields.io/github/last-commit/pittcat/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/codex.nvim)
+- [rhart92/codex.nvim](https://github.com/rhart92/codex.nvim) ![](https://img.shields.io/github/stars/rhart92/codex.nvim) ![](https://img.shields.io/github/last-commit/rhart92/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rhart92/codex.nvim)
 
 #### Whisper
 
@@ -657,6 +659,10 @@
 #### Stainless
 
 - [stainless-api/stainless.nvim](https://github.com/stainless-api/stainless.nvim) ![](https://img.shields.io/github/stars/stainless-api/stainless.nvim) ![](https://img.shields.io/github/last-commit/stainless-api/stainless.nvim) ![](https://img.shields.io/github/commit-activity/y/stainless-api/stainless.nvim)
+
+## ACP
+
+- [manno23/nvim-acp](https://github.com/manno23/nvim-acp) ![](https://img.shields.io/github/stars/manno23/nvim-acp) ![](https://img.shields.io/github/last-commit/manno23/nvim-acp) ![](https://img.shields.io/github/commit-activity/y/manno23/nvim-acp)
 
 ## ignore
 

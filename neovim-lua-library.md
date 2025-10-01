@@ -45,6 +45,7 @@
 - [CLI](#cli)
 - [SQLite](#sqlite)
 - [JSON](#json)
+- [YAML](#yaml)
 - [Require](#require)
 - [Hook](#hook)
 - [Mode](#mode)
@@ -311,6 +312,10 @@
 
 - [rxi/json.lua](https://github.com/rxi/json.lua) ![](https://img.shields.io/github/stars/rxi/json.lua) ![](https://img.shields.io/github/last-commit/rxi/json.lua) ![](https://img.shields.io/github/commit-activity/y/rxi/json.lua)
 - [Sup3Legacy/json.nvim](https://github.com/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/stars/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/last-commit/Sup3Legacy/json.nvim) ![](https://img.shields.io/github/commit-activity/y/Sup3Legacy/json.nvim)
+
+## YAML
+
+- [jeremy-p-mann/lyaml.nvim](https://github.com/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/stars/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/last-commit/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremy-p-mann/lyaml.nvim)
 
 ## Require
 
