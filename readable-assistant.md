@@ -21,6 +21,7 @@
 - [Gelio/nvim-relative-date](https://github.com/Gelio/nvim-relative-date) ![](https://img.shields.io/github/stars/Gelio/nvim-relative-date) ![](https://img.shields.io/github/last-commit/Gelio/nvim-relative-date) ![](https://img.shields.io/github/commit-activity/y/Gelio/nvim-relative-date)
 - [Maldus512/reader.nvim](https://github.com/Maldus512/reader.nvim) ![](https://img.shields.io/github/stars/Maldus512/reader.nvim) ![](https://img.shields.io/github/last-commit/Maldus512/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Maldus512/reader.nvim)
 - [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
+- [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/pacer.nvim)
 
 #### Current Position Info
 
