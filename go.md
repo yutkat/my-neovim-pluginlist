@@ -164,6 +164,7 @@
 ### if err
 
 - [Bparsons0904/phantom-err.nvim](https://github.com/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/phantom-err.nvim)
+- [alirostami1/iferr.nvim](https://github.com/alirostami1/iferr.nvim) ![](https://img.shields.io/github/stars/alirostami1/iferr.nvim) ![](https://img.shields.io/github/last-commit/alirostami1/iferr.nvim) ![](https://img.shields.io/github/commit-activity/y/alirostami1/iferr.nvim)
 
 ### Hint
 

@@ -42,6 +42,7 @@
 - [mr-voluntas/nvim-trackage](https://github.com/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/stars/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/last-commit/mr-voluntas/nvim-trackage) ![](https://img.shields.io/github/commit-activity/y/mr-voluntas/nvim-trackage)
 - [jmwinn21/habit-tracker.nvim](https://github.com/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/stars/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/last-commit/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/jmwinn21/habit-tracker.nvim)
 - [Shingi-Michael/StreakTracker.nvim](https://github.com/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/stars/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/last-commit/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/commit-activity/y/Shingi-Michael/StreakTracker.nvim)
+- [jmkel/quantity.nvim](https://github.com/jmkel/quantity.nvim) ![](https://img.shields.io/github/stars/jmkel/quantity.nvim) ![](https://img.shields.io/github/last-commit/jmkel/quantity.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkel/quantity.nvim)
 
 ### Coding time
 
