@@ -73,6 +73,7 @@
 - [Model Context Protocol(MCP)](#model-context-protocolmcp)
   - [MCP SDK](#mcp-sdk)
     - [Stainless](#stainless)
+- [ACP](#acp)
 - [ignore](#ignore)
 - [Configuration File (.cursor)](#configuration-file-cursor)
 - [Integration](#integration)
@@ -658,6 +659,10 @@
 #### Stainless
 
 - [stainless-api/stainless.nvim](https://github.com/stainless-api/stainless.nvim) ![](https://img.shields.io/github/stars/stainless-api/stainless.nvim) ![](https://img.shields.io/github/last-commit/stainless-api/stainless.nvim) ![](https://img.shields.io/github/commit-activity/y/stainless-api/stainless.nvim)
+
+## ACP
+
+- [manno23/nvim-acp](https://github.com/manno23/nvim-acp) ![](https://img.shields.io/github/stars/manno23/nvim-acp) ![](https://img.shields.io/github/last-commit/manno23/nvim-acp) ![](https://img.shields.io/github/commit-activity/y/manno23/nvim-acp)
 
 ## ignore
 

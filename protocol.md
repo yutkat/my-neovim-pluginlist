@@ -89,7 +89,6 @@
 
 - [niels4/websocket-text-relay.nvim](https://github.com/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/stars/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/last-commit/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/websocket-text-relay.nvim)
 - [mtkld/wswrite.nvim](https://github.com/mtkld/wswrite.nvim) ![](https://img.shields.io/github/stars/mtkld/wswrite.nvim) ![](https://img.shields.io/github/last-commit/mtkld/wswrite.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/wswrite.nvim)
-- [manno23/nvim-acp](https://github.com/manno23/nvim-acp) ![](https://img.shields.io/github/stars/manno23/nvim-acp) ![](https://img.shields.io/github/last-commit/manno23/nvim-acp) ![](https://img.shields.io/github/commit-activity/y/manno23/nvim-acp)
 
 ### webrcp
 

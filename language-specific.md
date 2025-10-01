@@ -797,6 +797,7 @@
 - [Z-xus/dsa_io.nvim](https://github.com/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/stars/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/last-commit/Z-xus/dsa_io.nvim) ![](https://img.shields.io/github/commit-activity/y/Z-xus/dsa_io.nvim)
 - [regarager/cheesepizza.nvim](https://github.com/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/stars/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/last-commit/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/commit-activity/y/regarager/cheesepizza.nvim)
 - [barrett-ruth/cp.nvim](https://github.com/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/cp.nvim)
+- [simta1/cptools.nvim](https://github.com/simta1/cptools.nvim) ![](https://img.shields.io/github/stars/simta1/cptools.nvim) ![](https://img.shields.io/github/last-commit/simta1/cptools.nvim) ![](https://img.shields.io/github/commit-activity/y/simta1/cptools.nvim)
 
 ### Codeforces
 
