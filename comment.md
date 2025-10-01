@@ -108,6 +108,7 @@
 ## Doxygen
 
 - [Blackcyan30/nvim-doccomment-tags](https://github.com/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/stars/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/last-commit/Blackcyan30/nvim-doccomment-tags) ![](https://img.shields.io/github/commit-activity/y/Blackcyan30/nvim-doccomment-tags)
+- [hat0uma/doxygen-previewer.nvim](https://github.com/hat0uma/doxygen-previewer.nvim) ![](https://img.shields.io/github/stars/hat0uma/doxygen-previewer.nvim) ![](https://img.shields.io/github/last-commit/hat0uma/doxygen-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/hat0uma/doxygen-previewer.nvim)
 
 ## Special Comment
 

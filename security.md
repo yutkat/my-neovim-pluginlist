@@ -4,6 +4,7 @@
 
 - [Security](#security)
   - [Scan](#scan)
+  - [Security Code Review](#security-code-review)
   - [Fluid Attacks](#fluid-attacks)
   - [Secrets](#secrets)
   - [Password Manager](#password-manager)
@@ -39,6 +40,10 @@
 ### Scan
 
 - [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
+
+### Security Code Review
+
+- [h0pes/screw.nvim](https://github.com/h0pes/screw.nvim) ![](https://img.shields.io/github/stars/h0pes/screw.nvim) ![](https://img.shields.io/github/last-commit/h0pes/screw.nvim) ![](https://img.shields.io/github/commit-activity/y/h0pes/screw.nvim)
 
 ### Fluid Attacks
 
