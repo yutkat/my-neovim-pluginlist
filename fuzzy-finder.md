@@ -51,6 +51,7 @@
 - [2KAbhishek/pickme.nvim](https://github.com/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/pickme.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/pickme.nvim)
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fff.nvim)
 - [elanmed/ff.nvim](https://github.com/elanmed/ff.nvim) ![](https://img.shields.io/github/stars/elanmed/ff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/ff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/ff.nvim)
+- [santhosh-tekuri/picker.nvim](https://github.com/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/picker.nvim)
 
 ### Telescope Extensions
 
@@ -85,7 +86,6 @@
 - [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 - [xq-meng/neopop.nvim](https://github.com/xq-meng/neopop.nvim) ![](https://img.shields.io/github/stars/xq-meng/neopop.nvim) ![](https://img.shields.io/github/last-commit/xq-meng/neopop.nvim) ![](https://img.shields.io/github/commit-activity/y/xq-meng/neopop.nvim)
 - [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
-- [santhosh-tekuri/picker.nvim](https://github.com/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/picker.nvim)
 
 #### Grep
 
@@ -102,4 +102,3 @@
 - [delphinus/telescope-memo.nvim](https://github.com/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/stars/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/last-commit/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/telescope-memo.nvim)
 - [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/stars/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvmanila/telescope-bookmarks.nvim)
 - [lexay/telescope-buffers-zoxide.nvim](https://github.com/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-buffers-zoxide.nvim)
-- [mikelue/telescope-kulala.nvim](https://github.com/mikelue/telescope-kulala.nvim) ![](https://img.shields.io/github/stars/mikelue/telescope-kulala.nvim) ![](https://img.shields.io/github/last-commit/mikelue/telescope-kulala.nvim) ![](https://img.shields.io/github/commit-activity/y/mikelue/telescope-kulala.nvim)
