@@ -570,6 +570,7 @@
 - [xTacobaco/cursor-agent.nvim](https://github.com/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/stars/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/xTacobaco/cursor-agent.nvim)
 - [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 - [Loki-Astari/cursor](https://github.com/Loki-Astari/cursor) ![](https://img.shields.io/github/stars/Loki-Astari/cursor) ![](https://img.shields.io/github/last-commit/Loki-Astari/cursor) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/cursor)
+- [keller00/cursor-agent.nvim](https://github.com/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/stars/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/keller00/cursor-agent.nvim)
 
 ## CodeCompanion
 
@@ -614,6 +615,7 @@
 
 - [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
+- [jingkaihe/kodelet.nvim](https://github.com/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/stars/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/last-commit/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/commit-activity/y/jingkaihe/kodelet.nvim)
 
 ## log
 
@@ -638,6 +640,7 @@
 - [androidStern/context-graph.nvim](https://github.com/androidStern/context-graph.nvim) ![](https://img.shields.io/github/stars/androidStern/context-graph.nvim) ![](https://img.shields.io/github/last-commit/androidStern/context-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/androidStern/context-graph.nvim)
 - [z0rzi/compose-ai-message.nvim](https://github.com/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/stars/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/compose-ai-message.nvim)
 - [HueGreywell/context-gen.nvim](https://github.com/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/stars/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/context-gen.nvim)
+- [Dzejkop/context-maestro.nvim](https://github.com/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/stars/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/context-maestro.nvim)
 
 ## LLM context
 

@@ -56,6 +56,7 @@
 - [Sethrollinsbah/sqlnik.nvim](https://github.com/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlnik.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlnik.nvim)
 - [Sethrollinsbah/sqlk.nvim](https://github.com/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/stars/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/last-commit/Sethrollinsbah/sqlk.nvim) ![](https://img.shields.io/github/commit-activity/y/Sethrollinsbah/sqlk.nvim)
 - [diegoortizmatajira/db-cli-adapter.nvim](https://github.com/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/db-cli-adapter.nvim)
+- [zongben/dbout.nvim](https://github.com/zongben/dbout.nvim) ![](https://img.shields.io/github/stars/zongben/dbout.nvim) ![](https://img.shields.io/github/last-commit/zongben/dbout.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/dbout.nvim)
 
 ### PostgreSQL
 
