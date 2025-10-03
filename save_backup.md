@@ -43,6 +43,7 @@
 - [Myzel394/telescope-last-positions.nvim](https://github.com/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/stars/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/telescope-last-positions.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/telescope-last-positions.nvim)
 - [akmassey/preserve.nvim](https://github.com/akmassey/preserve.nvim) ![](https://img.shields.io/github/stars/akmassey/preserve.nvim) ![](https://img.shields.io/github/last-commit/akmassey/preserve.nvim) ![](https://img.shields.io/github/commit-activity/y/akmassey/preserve.nvim)
 - [purarue/auto-mkview.nvim](https://github.com/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/stars/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/last-commit/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/commit-activity/y/purarue/auto-mkview.nvim)
+- [Faria22/nvim-stay.lua](https://github.com/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/stars/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/last-commit/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/commit-activity/y/Faria22/nvim-stay.lua)
 
 ### Create directory
 
