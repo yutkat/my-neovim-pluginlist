@@ -141,6 +141,7 @@
 
 - [haphamdev/copier.nvim](https://github.com/haphamdev/copier.nvim) ![](https://img.shields.io/github/stars/haphamdev/copier.nvim) ![](https://img.shields.io/github/last-commit/haphamdev/copier.nvim) ![](https://img.shields.io/github/commit-activity/y/haphamdev/copier.nvim)
 - [beeender/richclip.nvim](https://github.com/beeender/richclip.nvim) ![](https://img.shields.io/github/stars/beeender/richclip.nvim) ![](https://img.shields.io/github/last-commit/beeender/richclip.nvim) ![](https://img.shields.io/github/commit-activity/y/beeender/richclip.nvim)
+- [Frosthaven/yank-system-ops.nvim](https://github.com/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/stars/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/last-commit/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/commit-activity/y/Frosthaven/yank-system-ops.nvim)
 
 #### WSL clipboard
 

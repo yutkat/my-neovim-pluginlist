@@ -316,6 +316,7 @@
 - [mrfolksy/nvim-json-conf](https://github.com/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/stars/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/last-commit/mrfolksy/nvim-json-conf) ![](https://img.shields.io/github/commit-activity/y/mrfolksy/nvim-json-conf)
 - [amv-dev/nvim-lspsettings](https://github.com/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/stars/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/last-commit/amv-dev/nvim-lspsettings) ![](https://img.shields.io/github/commit-activity/y/amv-dev/nvim-lspsettings)
 - [thejezzi/lsplocal.nvim](https://github.com/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/stars/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/last-commit/thejezzi/lsplocal.nvim) ![](https://img.shields.io/github/commit-activity/y/thejezzi/lsplocal.nvim)
+- [mrjones2014/codesettings.nvim](https://github.com/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/stars/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/codesettings.nvim)
 
 ### Remote LSP
 

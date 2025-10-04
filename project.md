@@ -124,6 +124,7 @@
 - [spenserblack/dot-nvim.nvim](https://github.com/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/stars/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/last-commit/spenserblack/dot-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/spenserblack/dot-nvim.nvim)
 - [matiascaniete/local.nvim](https://github.com/matiascaniete/local.nvim) ![](https://img.shields.io/github/stars/matiascaniete/local.nvim) ![](https://img.shields.io/github/last-commit/matiascaniete/local.nvim) ![](https://img.shields.io/github/commit-activity/y/matiascaniete/local.nvim)
 - [Coding4Glory/tiny-pjs.nvim](https://github.com/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-pjs.nvim)
+- [E-Mud/ptplugin.nvim](https://github.com/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/stars/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/last-commit/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/commit-activity/y/E-Mud/ptplugin.nvim)
 
 ### Config switcher
 

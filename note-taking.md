@@ -79,6 +79,7 @@
 - [breiting/nvim-zettel.nvim](https://github.com/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-zettel.nvim)
 - [Paperweightt/tome.nvim](https://github.com/Paperweightt/tome.nvim) ![](https://img.shields.io/github/stars/Paperweightt/tome.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/tome.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/tome.nvim)
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
+- [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)
 
 ### Markdown
 
@@ -350,6 +351,7 @@
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
 - [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
 - [Zhuxy/ankitui.nvim](https://github.com/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/stars/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/ankitui.nvim)
+- [0fflineuser/anki.nvim](https://github.com/0fflineuser/anki.nvim) ![](https://img.shields.io/github/stars/0fflineuser/anki.nvim) ![](https://img.shields.io/github/last-commit/0fflineuser/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/0fflineuser/anki.nvim)
 
 ### Clickup
 

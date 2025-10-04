@@ -405,6 +405,7 @@
 - [snrogers/mermaider.nvim](https://github.com/snrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/snrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/snrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/snrogers/mermaider.nvim)
 - [lancekrogers/mermaider.nvim](https://github.com/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/mermaider.nvim)
 - [zacharyeller13/mermaid-preview.nvim](https://github.com/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/stars/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/last-commit/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyeller13/mermaid-preview.nvim)
+- [selimacerbas/mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/stars/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/mermaid-playground.nvim)
 
 ### pikchr
 

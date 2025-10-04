@@ -51,6 +51,7 @@
 ## Style
 
 - [CodesWithRobi/stylize.nvim](https://github.com/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/stylize.nvim)
+- [TomDeneire/nerdify.nvim](https://github.com/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/stars/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/last-commit/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/commit-activity/y/TomDeneire/nerdify.nvim)
 
 ## Icon
 
