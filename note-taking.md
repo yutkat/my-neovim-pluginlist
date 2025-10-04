@@ -350,6 +350,7 @@
 - [rareitems/anki.nvim](https://github.com/rareitems/anki.nvim) ![](https://img.shields.io/github/stars/rareitems/anki.nvim) ![](https://img.shields.io/github/last-commit/rareitems/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/anki.nvim)
 - [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
 - [Zhuxy/ankitui.nvim](https://github.com/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/stars/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/ankitui.nvim)
+- [0fflineuser/anki.nvim](https://github.com/0fflineuser/anki.nvim) ![](https://img.shields.io/github/stars/0fflineuser/anki.nvim) ![](https://img.shields.io/github/last-commit/0fflineuser/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/0fflineuser/anki.nvim)
 
 ### Clickup
 
@@ -528,3 +529,4 @@
 - [saltchicken/keep.nvim](https://github.com/saltchicken/keep.nvim) ![](https://img.shields.io/github/stars/saltchicken/keep.nvim) ![](https://img.shields.io/github/last-commit/saltchicken/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/saltchicken/keep.nvim)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
 - [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/Fknotes.nvim)
+- [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)

@@ -154,6 +154,7 @@
 - [lesliesrussell/codex.nvim](https://github.com/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/stars/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/last-commit/lesliesrussell/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/lesliesrussell/codex.nvim)
 - [pittcat/codex.nvim](https://github.com/pittcat/codex.nvim) ![](https://img.shields.io/github/stars/pittcat/codex.nvim) ![](https://img.shields.io/github/last-commit/pittcat/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/codex.nvim)
 - [rhart92/codex.nvim](https://github.com/rhart92/codex.nvim) ![](https://img.shields.io/github/stars/rhart92/codex.nvim) ![](https://img.shields.io/github/last-commit/rhart92/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rhart92/codex.nvim)
+- [morre95/codex-resume.nvim](https://github.com/morre95/codex-resume.nvim) ![](https://img.shields.io/github/stars/morre95/codex-resume.nvim) ![](https://img.shields.io/github/last-commit/morre95/codex-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/codex-resume.nvim)
 
 #### Whisper
 
@@ -659,6 +660,7 @@
 - [linw1995/nvim-mcp](https://github.com/linw1995/nvim-mcp) ![](https://img.shields.io/github/stars/linw1995/nvim-mcp) ![](https://img.shields.io/github/last-commit/linw1995/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/linw1995/nvim-mcp)
 - [rhnvrm/nvim-claudecode-mcp](https://github.com/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/stars/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/last-commit/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/commit-activity/y/rhnvrm/nvim-claudecode-mcp)
 - [georgeharker/mcp-diagnostics.nvim](https://github.com/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/stars/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/georgeharker/mcp-diagnostics.nvim)
+- [jkeresman01/synaps.nvim](https://github.com/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/stars/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/synaps.nvim)
 
 ### MCP SDK
 

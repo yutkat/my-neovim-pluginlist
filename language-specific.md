@@ -25,6 +25,7 @@
     - [Clojure](#clojure)
       - [test](#test)
       - [format](#format)
+    - [Crystal](#crystal)
     - [Erlang](#erlang)
       - [hex](#hex)
     - [Elixir](#elixir)
@@ -290,6 +291,10 @@
 ##### format
 
 - [raystubbs/nvim-cljfmt-indents](https://github.com/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/stars/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/last-commit/raystubbs/nvim-cljfmt-indents) ![](https://img.shields.io/github/commit-activity/y/raystubbs/nvim-cljfmt-indents)
+
+#### Crystal
+
+- [lost22git/crystal.nvim](https://github.com/lost22git/crystal.nvim) ![](https://img.shields.io/github/stars/lost22git/crystal.nvim) ![](https://img.shields.io/github/last-commit/lost22git/crystal.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/crystal.nvim)
 
 #### Erlang
 
