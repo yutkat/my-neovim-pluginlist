@@ -79,7 +79,6 @@
 - [breiting/nvim-zettel.nvim](https://github.com/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-zettel.nvim)
 - [Paperweightt/tome.nvim](https://github.com/Paperweightt/tome.nvim) ![](https://img.shields.io/github/stars/Paperweightt/tome.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/tome.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/tome.nvim)
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
-- [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)
 
 ### Markdown
 
@@ -530,3 +529,4 @@
 - [saltchicken/keep.nvim](https://github.com/saltchicken/keep.nvim) ![](https://img.shields.io/github/stars/saltchicken/keep.nvim) ![](https://img.shields.io/github/last-commit/saltchicken/keep.nvim) ![](https://img.shields.io/github/commit-activity/y/saltchicken/keep.nvim)
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
 - [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/Fknotes.nvim)
+- [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)
