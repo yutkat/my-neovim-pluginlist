@@ -259,6 +259,7 @@
 - [phenax/nvim-extra-codelens](https://github.com/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/stars/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/last-commit/phenax/nvim-extra-codelens) ![](https://img.shields.io/github/commit-activity/y/phenax/nvim-extra-codelens)
 - [SvSchen/clh.nvim](https://github.com/SvSchen/clh.nvim) ![](https://img.shields.io/github/stars/SvSchen/clh.nvim) ![](https://img.shields.io/github/last-commit/SvSchen/clh.nvim) ![](https://img.shields.io/github/commit-activity/y/SvSchen/clh.nvim)
 - [v1nh1shungry/error-lens.nvim](https://github.com/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/error-lens.nvim)
+- [lost22git/hover.nvim](https://github.com/lost22git/hover.nvim) ![](https://img.shields.io/github/stars/lost22git/hover.nvim) ![](https://img.shields.io/github/last-commit/lost22git/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/hover.nvim)
 
 ##### LinkedEditingRange
 

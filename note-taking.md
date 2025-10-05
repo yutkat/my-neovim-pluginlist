@@ -204,6 +204,8 @@
 - [DrewDalmedo/docket.nvim](https://github.com/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/docket.nvim)
 - [RuslanGagushin/nvim-tasks.md](https://github.com/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/stars/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/last-commit/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/commit-activity/y/RuslanGagushin/nvim-tasks.md)
 
+- [ZachYarbrough/todo-list.nvim](https://github.com/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/stars/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/last-commit/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachYarbrough/todo-list.nvim)
+
 #### Google Task
 
 - [p-tupe/gtask.nvim](https://github.com/p-tupe/gtask.nvim) ![](https://img.shields.io/github/stars/p-tupe/gtask.nvim) ![](https://img.shields.io/github/last-commit/p-tupe/gtask.nvim) ![](https://img.shields.io/github/commit-activity/y/p-tupe/gtask.nvim)
