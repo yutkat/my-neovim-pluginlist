@@ -100,6 +100,7 @@
     - [Aeria](#aeria)
     - [Apple II](#apple-ii)
     - [Templaty](#templaty)
+    - [Timur](#timur)
     - [Storm](#storm)
     - [Genero](#genero)
     - [rested](#rested)
@@ -613,6 +614,10 @@
 #### Templaty
 
 - [samvv/templaty.nvim](https://github.com/samvv/templaty.nvim) ![](https://img.shields.io/github/stars/samvv/templaty.nvim) ![](https://img.shields.io/github/last-commit/samvv/templaty.nvim) ![](https://img.shields.io/github/commit-activity/y/samvv/templaty.nvim)
+
+#### Timur
+
+- [kibertod/nvim-treesitter-timur](https://github.com/kibertod/nvim-treesitter-timur) ![](https://img.shields.io/github/stars/kibertod/nvim-treesitter-timur) ![](https://img.shields.io/github/last-commit/kibertod/nvim-treesitter-timur) ![](https://img.shields.io/github/commit-activity/y/kibertod/nvim-treesitter-timur)
 
 #### Storm
 

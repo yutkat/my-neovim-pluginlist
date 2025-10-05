@@ -73,6 +73,7 @@
 - [aaronshahriari/express_line.nvim](https://github.com/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/express_line.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/express_line.nvim)
 - [LuxVim/nvim-luxline](https://github.com/LuxVim/nvim-luxline) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxline) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxline) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxline)
 - [vivek-x-jha/nvim-statusline](https://github.com/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/stars/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/last-commit/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/commit-activity/y/vivek-x-jha/nvim-statusline)
+- [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) ![](https://img.shields.io/github/stars/sontungexpt/witch-line) ![](https://img.shields.io/github/last-commit/sontungexpt/witch-line) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/witch-line)
 
 ### Simple
 
