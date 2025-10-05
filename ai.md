@@ -256,6 +256,7 @@
 ##### Mintlify Writer
 
 - [moozd/aidoc.nvim](https://github.com/moozd/aidoc.nvim) ![](https://img.shields.io/github/stars/moozd/aidoc.nvim) ![](https://img.shields.io/github/last-commit/moozd/aidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/moozd/aidoc.nvim)
+- [BasileBux/drunk-driver.nvim](https://github.com/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/stars/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/last-commit/BasileBux/drunk-driver.nvim) ![](https://img.shields.io/github/commit-activity/y/BasileBux/drunk-driver.nvim)
 
 ### Llama
 
@@ -583,6 +584,7 @@
 - [franco-ruggeri/codecompanion-lualine.nvim](https://github.com/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-lualine.nvim)
 - [e2r2fx/codecompanion-fast-apply.nvim](https://github.com/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/stars/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/codecompanion-fast-apply.nvim)
 - [theStrangeAdventurer/ai_memory.nvim](https://github.com/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/stars/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/last-commit/theStrangeAdventurer/ai_memory.nvim) ![](https://img.shields.io/github/commit-activity/y/theStrangeAdventurer/ai_memory.nvim)
+- [aescerr/codecompanion-spinners.nvim](https://github.com/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/stars/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/last-commit/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/commit-activity/y/aescerr/codecompanion-spinners.nvim)
 
 ### GitLab Guo
 

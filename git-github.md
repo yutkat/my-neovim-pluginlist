@@ -130,6 +130,7 @@
 
 - [Danielhp95/tmpclone-nvim](https://github.com/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/stars/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/last-commit/Danielhp95/tmpclone-nvim) ![](https://img.shields.io/github/commit-activity/y/Danielhp95/tmpclone-nvim)
 - [onexbash/origin.nvim](https://github.com/onexbash/origin.nvim) ![](https://img.shields.io/github/stars/onexbash/origin.nvim) ![](https://img.shields.io/github/last-commit/onexbash/origin.nvim) ![](https://img.shields.io/github/commit-activity/y/onexbash/origin.nvim)
+- [cognominal/git-download-browse.nvim](https://github.com/cognominal/git-download-browse.nvim) ![](https://img.shields.io/github/stars/cognominal/git-download-browse.nvim) ![](https://img.shields.io/github/last-commit/cognominal/git-download-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/cognominal/git-download-browse.nvim)
 
 ### git status
 
@@ -261,6 +262,7 @@
 - [coreyb-git/commit-reminder.nvim](https://github.com/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/stars/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/commit-reminder.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/commit-reminder.nvim)
 - [va-ji/git_snoop.nvim](https://github.com/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/stars/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/last-commit/va-ji/git_snoop.nvim) ![](https://img.shields.io/github/commit-activity/y/va-ji/git_snoop.nvim)
 - [JoshuaDueck/git-heatmap.nvim](https://github.com/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/git-heatmap.nvim)
+- [cetanu/recent-work.nvim](https://github.com/cetanu/recent-work.nvim) ![](https://img.shields.io/github/stars/cetanu/recent-work.nvim) ![](https://img.shields.io/github/last-commit/cetanu/recent-work.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/recent-work.nvim)
 
 #### preview contents
 
