@@ -52,6 +52,7 @@
 - [dmtrKovalenko/fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/stars/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/last-commit/dmtrKovalenko/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/dmtrKovalenko/fff.nvim)
 - [elanmed/ff.nvim](https://github.com/elanmed/ff.nvim) ![](https://img.shields.io/github/stars/elanmed/ff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/ff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/ff.nvim)
 - [santhosh-tekuri/picker.nvim](https://github.com/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/picker.nvim)
+- [Adarsh-Roy/gthr.nvim](https://github.com/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/stars/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/last-commit/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/commit-activity/y/Adarsh-Roy/gthr.nvim)
 
 ### Telescope Extensions
 
