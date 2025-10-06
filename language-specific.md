@@ -51,6 +51,7 @@
     - [fortran](#fortran)
     - [DSL](#dsl)
     - [DLiteScript](#dlitescript)
+    - [Essence](#essence)
     - [Juice](#juice)
     - [Wasm](#wasm)
     - [WebC](#webc)
@@ -419,6 +420,10 @@
 #### DLiteScript
 
 - [Dobefu/nvim-dlitescript](https://github.com/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/stars/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/last-commit/Dobefu/nvim-dlitescript) ![](https://img.shields.io/github/commit-activity/y/Dobefu/nvim-dlitescript)
+
+#### Essence
+
+- [jswent/essence.nvim](https://github.com/jswent/essence.nvim) ![](https://img.shields.io/github/stars/jswent/essence.nvim) ![](https://img.shields.io/github/last-commit/jswent/essence.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/essence.nvim)
 
 #### Juice
 

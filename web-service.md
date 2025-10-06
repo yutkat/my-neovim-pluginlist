@@ -17,6 +17,7 @@
   - [Notion](#notion)
   - [esa.io](#esaio)
   - [Dev](#dev)
+  - [Fatebook](#fatebook)
   - [micro.blog](#microblog)
   - [Gmail](#gmail)
   - [Zoom](#zoom)
@@ -140,6 +141,10 @@
 ### Dev
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
+
+### Fatebook
+
+- [f0ldspace/fatebook.nvim](https://github.com/f0ldspace/fatebook.nvim) ![](https://img.shields.io/github/stars/f0ldspace/fatebook.nvim) ![](https://img.shields.io/github/last-commit/f0ldspace/fatebook.nvim) ![](https://img.shields.io/github/commit-activity/y/f0ldspace/fatebook.nvim)
 
 ### micro.blog
 

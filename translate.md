@@ -29,6 +29,7 @@
 - [Lingshinx/trans-hover.nvim](https://github.com/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/stars/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/last-commit/Lingshinx/trans-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Lingshinx/trans-hover.nvim)
 - [RunnyC/translator.nvim](https://github.com/RunnyC/translator.nvim) ![](https://img.shields.io/github/stars/RunnyC/translator.nvim) ![](https://img.shields.io/github/last-commit/RunnyC/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/RunnyC/translator.nvim)
 - [cxwx/argosTrans.nvim](https://github.com/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/stars/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/last-commit/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/argosTrans.nvim)
+- [mozumasu/plamo-translate.nvim](https://github.com/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/stars/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/plamo-translate.nvim)
 
 ## i18n
 

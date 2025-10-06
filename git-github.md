@@ -583,6 +583,7 @@
 - [ChromaMaster/gitpermalink.nvim](https://github.com/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/stars/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/last-commit/ChromaMaster/gitpermalink.nvim) ![](https://img.shields.io/github/commit-activity/y/ChromaMaster/gitpermalink.nvim)
 - [tapihdev/cfp.nvim](https://github.com/tapihdev/cfp.nvim) ![](https://img.shields.io/github/stars/tapihdev/cfp.nvim) ![](https://img.shields.io/github/last-commit/tapihdev/cfp.nvim) ![](https://img.shields.io/github/commit-activity/y/tapihdev/cfp.nvim)
 - [vieitesss/gh-permalink.nvim](https://github.com/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/stars/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/gh-permalink.nvim)
+- [amaanq/gitlink.nvim](https://github.com/amaanq/gitlink.nvim) ![](https://img.shields.io/github/stars/amaanq/gitlink.nvim) ![](https://img.shields.io/github/last-commit/amaanq/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/amaanq/gitlink.nvim)
 
 ### Image
 

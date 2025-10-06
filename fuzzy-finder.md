@@ -53,6 +53,7 @@
 - [elanmed/ff.nvim](https://github.com/elanmed/ff.nvim) ![](https://img.shields.io/github/stars/elanmed/ff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/ff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/ff.nvim)
 - [santhosh-tekuri/picker.nvim](https://github.com/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/picker.nvim)
 - [Adarsh-Roy/gthr.nvim](https://github.com/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/stars/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/last-commit/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/commit-activity/y/Adarsh-Roy/gthr.nvim)
+- [spiperac/spire.nvim](https://github.com/spiperac/spire.nvim) ![](https://img.shields.io/github/stars/spiperac/spire.nvim) ![](https://img.shields.io/github/last-commit/spiperac/spire.nvim) ![](https://img.shields.io/github/commit-activity/y/spiperac/spire.nvim)
 
 ### Telescope Extensions
 

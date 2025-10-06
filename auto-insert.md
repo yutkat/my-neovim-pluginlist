@@ -18,6 +18,7 @@
 ## Auto insert
 
 - [nvimdev/dyninput.nvim](https://github.com/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/stars/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dyninput.nvim)
+- [Kannazuki-jp/autopath.nvim](https://github.com/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/autopath.nvim)
 
 ## insert pairs
 
