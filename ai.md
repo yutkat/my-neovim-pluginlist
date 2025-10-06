@@ -643,6 +643,7 @@
 - [z0rzi/compose-ai-message.nvim](https://github.com/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/stars/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/compose-ai-message.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/compose-ai-message.nvim)
 - [HueGreywell/context-gen.nvim](https://github.com/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/stars/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/context-gen.nvim)
 - [Dzejkop/context-maestro.nvim](https://github.com/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/stars/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/context-maestro.nvim)
+- [rdainton/share-context.nvim](https://github.com/rdainton/share-context.nvim) ![](https://img.shields.io/github/stars/rdainton/share-context.nvim) ![](https://img.shields.io/github/last-commit/rdainton/share-context.nvim) ![](https://img.shields.io/github/commit-activity/y/rdainton/share-context.nvim)
 
 ## LLM context
 

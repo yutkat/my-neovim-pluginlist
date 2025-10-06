@@ -205,6 +205,7 @@
 - [RuslanGagushin/nvim-tasks.md](https://github.com/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/stars/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/last-commit/RuslanGagushin/nvim-tasks.md) ![](https://img.shields.io/github/commit-activity/y/RuslanGagushin/nvim-tasks.md)
 
 - [ZachYarbrough/todo-list.nvim](https://github.com/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/stars/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/last-commit/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachYarbrough/todo-list.nvim)
+- [Maduki-tech/mdtodo.nvim](https://github.com/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/mdtodo.nvim)
 
 #### Google Task
 
@@ -532,3 +533,4 @@
 - [AnkushRoy-code/scribble.nvim](https://github.com/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/stars/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/last-commit/AnkushRoy-code/scribble.nvim) ![](https://img.shields.io/github/commit-activity/y/AnkushRoy-code/scribble.nvim)
 - [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/Fknotes.nvim)
 - [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)
+- [nilszeilon/gitnotes.nvim](https://github.com/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/stars/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/gitnotes.nvim)

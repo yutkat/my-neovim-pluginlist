@@ -68,6 +68,7 @@
 - [bpanahij/postgresql.nvim](https://github.com/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/stars/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/last-commit/bpanahij/postgresql.nvim) ![](https://img.shields.io/github/commit-activity/y/bpanahij/postgresql.nvim)
 - [jesses-code-adventures/pg_query.nvim](https://github.com/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/pg_query.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/pg_query.nvim)
 - [AlexisPerdomoD/psql_runner.nvim](https://github.com/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/stars/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/last-commit/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexisPerdomoD/psql_runner.nvim)
+- [senkentarou/telescope-psql-viewer.nvim](https://github.com/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-psql-viewer.nvim)
 
 ### MySQL
 
