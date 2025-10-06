@@ -228,7 +228,6 @@
 - [franckrasolo/luasnip4k.nvim](https://github.com/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/stars/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/last-commit/franckrasolo/luasnip4k.nvim) ![](https://img.shields.io/github/commit-activity/y/franckrasolo/luasnip4k.nvim)
 - [y9san9/kotlin-toolchain.nvim](https://github.com/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/stars/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/last-commit/y9san9/kotlin-toolchain.nvim) ![](https://img.shields.io/github/commit-activity/y/y9san9/kotlin-toolchain.nvim)
 - [AlexandrosAlexiou/kotlin.nvim](https://github.com/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/stars/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/last-commit/AlexandrosAlexiou/kotlin.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexandrosAlexiou/kotlin.nvim)
-- [ttak0422/nvim-kotlin-lsp](https://github.com/ttak0422/nvim-kotlin-lsp) ![](https://img.shields.io/github/stars/ttak0422/nvim-kotlin-lsp) ![](https://img.shields.io/github/last-commit/ttak0422/nvim-kotlin-lsp) ![](https://img.shields.io/github/commit-activity/y/ttak0422/nvim-kotlin-lsp)
 
 #### Groovy
 
