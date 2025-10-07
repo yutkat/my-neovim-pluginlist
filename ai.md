@@ -63,6 +63,7 @@
 - [Review](#review)
 - [Documentation](#documentation)
 - [Pair Programming](#pair-programming)
+- [Token Count](#token-count)
 - [log](#log)
 - [REPL](#repl)
 - [Writefull](#writefull)
@@ -585,6 +586,8 @@
 - [franco-ruggeri/codecompanion-lualine.nvim](https://github.com/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/stars/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/last-commit/franco-ruggeri/codecompanion-lualine.nvim) ![](https://img.shields.io/github/commit-activity/y/franco-ruggeri/codecompanion-lualine.nvim)
 - [e2r2fx/codecompanion-fast-apply.nvim](https://github.com/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/stars/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/codecompanion-fast-apply.nvim)
 - [aescerr/codecompanion-spinners.nvim](https://github.com/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/stars/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/last-commit/aescerr/codecompanion-spinners.nvim) ![](https://img.shields.io/github/commit-activity/y/aescerr/codecompanion-spinners.nvim)
+- [3ZsForInsomnia/vs-code-companion](https://github.com/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/stars/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/vs-code-companion)
+- [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/stars/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/code-companion-picker)
 
 ### GitLab Guo
 
@@ -618,6 +621,10 @@
 - [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
 - [jingkaihe/kodelet.nvim](https://github.com/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/stars/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/last-commit/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/commit-activity/y/jingkaihe/kodelet.nvim)
+
+## Token Count
+
+- [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/token-count.nvim)
 
 ## log
 
