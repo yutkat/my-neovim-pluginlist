@@ -54,6 +54,7 @@
 - [santhosh-tekuri/picker.nvim](https://github.com/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/picker.nvim)
 - [Adarsh-Roy/gthr.nvim](https://github.com/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/stars/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/last-commit/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/commit-activity/y/Adarsh-Roy/gthr.nvim)
 - [spiperac/spire.nvim](https://github.com/spiperac/spire.nvim) ![](https://img.shields.io/github/stars/spiperac/spire.nvim) ![](https://img.shields.io/github/last-commit/spiperac/spire.nvim) ![](https://img.shields.io/github/commit-activity/y/spiperac/spire.nvim)
+- [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) ![](https://img.shields.io/github/stars/wsdjeg/picker.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/picker.nvim)
 
 ### Telescope Extensions
 

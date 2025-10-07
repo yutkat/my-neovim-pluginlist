@@ -130,6 +130,10 @@
 
 - [duv16/yapf-format.nvim](https://github.com/duv16/yapf-format.nvim) ![](https://img.shields.io/github/stars/duv16/yapf-format.nvim) ![](https://img.shields.io/github/last-commit/duv16/yapf-format.nvim) ![](https://img.shields.io/github/commit-activity/y/duv16/yapf-format.nvim)
 
+#### Ruff
+
+- [williambdean/ruff-rules.nvim](https://github.com/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/stars/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/last-commit/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/commit-activity/y/williambdean/ruff-rules.nvim)
+
 ### LSP
 
 - [neolooong/whichpy.nvim](https://github.com/neolooong/whichpy.nvim) ![](https://img.shields.io/github/stars/neolooong/whichpy.nvim) ![](https://img.shields.io/github/last-commit/neolooong/whichpy.nvim) ![](https://img.shields.io/github/commit-activity/y/neolooong/whichpy.nvim)

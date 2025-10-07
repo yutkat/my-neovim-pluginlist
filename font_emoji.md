@@ -37,6 +37,7 @@
 
 - [Zeta611/tex2uni.nvim](https://github.com/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/stars/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/last-commit/Zeta611/tex2uni.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeta611/tex2uni.nvim)
 - [littleBonsai/text2unicode.nvim](https://github.com/littleBonsai/text2unicode.nvim) ![](https://img.shields.io/github/stars/littleBonsai/text2unicode.nvim) ![](https://img.shields.io/github/last-commit/littleBonsai/text2unicode.nvim) ![](https://img.shields.io/github/commit-activity/y/littleBonsai/text2unicode.nvim)
+- [Icni/ipa.nvim](https://github.com/Icni/ipa.nvim) ![](https://img.shields.io/github/stars/Icni/ipa.nvim) ![](https://img.shields.io/github/last-commit/Icni/ipa.nvim) ![](https://img.shields.io/github/commit-activity/y/Icni/ipa.nvim)
 
 ## Greek
 
