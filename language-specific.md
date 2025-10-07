@@ -50,6 +50,7 @@
     - [D](#d)
     - [fortran](#fortran)
     - [DSL](#dsl)
+      - [DAML](#daml)
     - [DLiteScript](#dlitescript)
     - [Essence](#essence)
     - [Juice](#juice)
@@ -415,6 +416,9 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+
+##### DAML
+
 - [Sengoku11/daml.nvim](https://github.com/Sengoku11/daml.nvim) ![](https://img.shields.io/github/stars/Sengoku11/daml.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/daml.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/daml.nvim)
 
 #### DLiteScript

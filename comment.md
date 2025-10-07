@@ -50,7 +50,6 @@
 - [Yellowcrystalz/ez-comment.nvim](https://github.com/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/stars/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/last-commit/Yellowcrystalz/ez-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/Yellowcrystalz/ez-comment.nvim)
 - [L3MON4D3/nvim-togglecomment](https://github.com/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/stars/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/last-commit/L3MON4D3/nvim-togglecomment) ![](https://img.shields.io/github/commit-activity/y/L3MON4D3/nvim-togglecomment)
 - [lsmoura/nvim-comment](https://github.com/lsmoura/nvim-comment) ![](https://img.shields.io/github/stars/lsmoura/nvim-comment) ![](https://img.shields.io/github/last-commit/lsmoura/nvim-comment) ![](https://img.shields.io/github/commit-activity/y/lsmoura/nvim-comment)
-- [AlexFW16/compac.nvim](https://github.com/AlexFW16/compac.nvim) ![](https://img.shields.io/github/stars/AlexFW16/compac.nvim) ![](https://img.shields.io/github/last-commit/AlexFW16/compac.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexFW16/compac.nvim)
 
 ### CommentString
 
