@@ -18,6 +18,7 @@
   - [Keyboard](#keyboard)
     - [Keyboard Layout](#keyboard-layout)
     - [Virtual Keyboard](#virtual-keyboard)
+    - [IPA Keyboard](#ipa-keyboard)
     - [LED](#led)
   - [Embedded Software](#embedded-software)
     - [Arduino](#arduino)
@@ -35,7 +36,6 @@
 - [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
 
 ### CAD
-
 
 ### VHDL
 
@@ -74,7 +74,6 @@
 
 ### Microcomputer
 
-
 #### LEGO
 
 - [KWSmit/nvim-ev3.nvim](https://github.com/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/stars/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/last-commit/KWSmit/nvim-ev3.nvim) ![](https://img.shields.io/github/commit-activity/y/KWSmit/nvim-ev3.nvim)
@@ -102,6 +101,10 @@
 #### Virtual Keyboard
 
 - [mk0v3l/visualkeyboard.nvim](https://github.com/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/stars/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/last-commit/mk0v3l/visualkeyboard.nvim) ![](https://img.shields.io/github/commit-activity/y/mk0v3l/visualkeyboard.nvim)
+
+#### IPA Keyboard
+
+- [Icni/ipa.nvim](https://github.com/Icni/ipa.nvim) ![](https://img.shields.io/github/stars/Icni/ipa.nvim) ![](https://img.shields.io/github/last-commit/Icni/ipa.nvim) ![](https://img.shields.io/github/commit-activity/y/Icni/ipa.nvim)
 
 #### LED
 

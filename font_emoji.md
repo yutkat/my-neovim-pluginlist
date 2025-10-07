@@ -28,7 +28,7 @@
 - [dullmode/bye-nerdfont.nvim](https://github.com/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/stars/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/dullmode/bye-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/dullmode/bye-nerdfont.nvim)
 - [jackplus-xyz/monaspace.nvim](https://github.com/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/monaspace.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/monaspace.nvim)
 - [hydepwns/mona.nvim](https://github.com/hydepwns/mona.nvim) ![](https://img.shields.io/github/stars/hydepwns/mona.nvim) ![](https://img.shields.io/github/last-commit/hydepwns/mona.nvim) ![](https://img.shields.io/github/commit-activity/y/hydepwns/mona.nvim)
- 
+
 ### Resize
 
 - [fambalaya/resize-font.nvim](https://github.com/fambalaya/resize-font.nvim) ![](https://img.shields.io/github/stars/fambalaya/resize-font.nvim) ![](https://img.shields.io/github/last-commit/fambalaya/resize-font.nvim) ![](https://img.shields.io/github/commit-activity/y/fambalaya/resize-font.nvim)

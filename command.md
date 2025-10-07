@@ -14,6 +14,7 @@
   - [Shell Command](#shell-command)
     - [sudo](#sudo)
     - [quit](#quit)
+    - [checkpath](#checkpath)
     - [detach](#detach)
   - [Random value](#random-value)
 - [Multiple Command](#multiple-command)
@@ -105,6 +106,10 @@
 - [psjay/buffer-closer.nvim](https://github.com/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/stars/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/last-commit/psjay/buffer-closer.nvim) ![](https://img.shields.io/github/commit-activity/y/psjay/buffer-closer.nvim)
 - [sonictim/escape-hatch.nvim](https://github.com/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/stars/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/last-commit/sonictim/escape-hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/escape-hatch.nvim)
 - [brandonmakai/safequit.nvim](https://github.com/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/stars/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/last-commit/brandonmakai/safequit.nvim) ![](https://img.shields.io/github/commit-activity/y/brandonmakai/safequit.nvim)
+
+#### checkpath
+
+- [qrutyy/checkpatch.nvim](https://github.com/qrutyy/checkpatch.nvim) ![](https://img.shields.io/github/stars/qrutyy/checkpatch.nvim) ![](https://img.shields.io/github/last-commit/qrutyy/checkpatch.nvim) ![](https://img.shields.io/github/commit-activity/y/qrutyy/checkpatch.nvim)
 
 #### detach
 
