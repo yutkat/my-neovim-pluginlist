@@ -231,6 +231,7 @@
 - [ryan-ressmeyer/quench.nvim](https://github.com/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/stars/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/last-commit/ryan-ressmeyer/quench.nvim) ![](https://img.shields.io/github/commit-activity/y/ryan-ressmeyer/quench.nvim)
 - [PeterJohannsenCMT/nvim-jupyter](https://github.com/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/stars/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/last-commit/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/commit-activity/y/PeterJohannsenCMT/nvim-jupyter)
 - [uranus-nvim/uranus-core.nvim](https://github.com/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/stars/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/last-commit/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/commit-activity/y/uranus-nvim/uranus-core.nvim)
+- [bxrne/euporie.nvim](https://github.com/bxrne/euporie.nvim) ![](https://img.shields.io/github/stars/bxrne/euporie.nvim) ![](https://img.shields.io/github/last-commit/bxrne/euporie.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/euporie.nvim)
 
 ### Pandas
 

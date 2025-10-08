@@ -416,6 +416,7 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+- [taskrfile/taskrfile.nvim](https://github.com/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/stars/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/last-commit/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/commit-activity/y/taskrfile/taskrfile.nvim)
 
 ##### DAML
 

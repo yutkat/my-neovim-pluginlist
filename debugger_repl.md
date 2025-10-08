@@ -67,6 +67,7 @@
 - [MrEhbr/dap-rust.nvim](https://github.com/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/stars/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/last-commit/MrEhbr/dap-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/MrEhbr/dap-rust.nvim)
 - [docker/nvim-dap-docker](https://github.com/docker/nvim-dap-docker) ![](https://img.shields.io/github/stars/docker/nvim-dap-docker) ![](https://img.shields.io/github/last-commit/docker/nvim-dap-docker) ![](https://img.shields.io/github/commit-activity/y/docker/nvim-dap-docker)
 - [deahtstroke/dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/stars/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/last-commit/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/commit-activity/y/deahtstroke/dap-profiler.nvim)
+- [tong/nvim-dap-haxe](https://github.com/tong/nvim-dap-haxe) ![](https://img.shields.io/github/stars/tong/nvim-dap-haxe) ![](https://img.shields.io/github/last-commit/tong/nvim-dap-haxe) ![](https://img.shields.io/github/commit-activity/y/tong/nvim-dap-haxe)
 
 #### Launch.json
 
