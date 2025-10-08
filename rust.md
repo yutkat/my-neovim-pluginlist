@@ -57,6 +57,7 @@
 - [nwiizo/cargo.nvim](https://github.com/nwiizo/cargo.nvim) ![](https://img.shields.io/github/stars/nwiizo/cargo.nvim) ![](https://img.shields.io/github/last-commit/nwiizo/cargo.nvim) ![](https://img.shields.io/github/commit-activity/y/nwiizo/cargo.nvim)
 - [OleStrohm/cargo_test.nvim](https://github.com/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/stars/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/last-commit/OleStrohm/cargo_test.nvim) ![](https://img.shields.io/github/commit-activity/y/OleStrohm/cargo_test.nvim)
 - [david-rusnak/dependacheck.nvim](https://github.com/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/stars/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/last-commit/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/commit-activity/y/david-rusnak/dependacheck.nvim)
+- [frofor/cargo-ghost](https://github.com/frofor/cargo-ghost) ![](https://img.shields.io/github/stars/frofor/cargo-ghost) ![](https://img.shields.io/github/last-commit/frofor/cargo-ghost) ![](https://img.shields.io/github/commit-activity/y/frofor/cargo-ghost)
 
 ### Clippy
 

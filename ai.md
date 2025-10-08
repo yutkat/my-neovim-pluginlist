@@ -178,6 +178,7 @@
 - [ujsquared/anti-vibecoder.nvim](https://github.com/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/stars/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/last-commit/ujsquared/anti-vibecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ujsquared/anti-vibecoder.nvim)
 - [edshamis/context.nvim](https://github.com/edshamis/context.nvim) ![](https://img.shields.io/github/stars/edshamis/context.nvim) ![](https://img.shields.io/github/last-commit/edshamis/context.nvim) ![](https://img.shields.io/github/commit-activity/y/edshamis/context.nvim)
 - [Clearzero22/gemini-talk.nvim](https://github.com/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/stars/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/last-commit/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/commit-activity/y/Clearzero22/gemini-talk.nvim)
+- [flyingshutter/gemini-autocomplete.nvim](https://github.com/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/stars/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/flyingshutter/gemini-autocomplete.nvim)
 
 #### Gemini CLI
 
