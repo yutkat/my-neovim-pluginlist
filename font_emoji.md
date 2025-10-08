@@ -92,6 +92,7 @@
 - [2KAbhishek/nerdy.nvim](https://github.com/2KAbhishek/nerdy.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/nerdy.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/nerdy.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/nerdy.nvim)
 - [Allaman/emoji.nvim](https://github.com/Allaman/emoji.nvim) ![](https://img.shields.io/github/stars/Allaman/emoji.nvim) ![](https://img.shields.io/github/last-commit/Allaman/emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/emoji.nvim)
 - [ask-786/emojis.nvim](https://github.com/ask-786/emojis.nvim) ![](https://img.shields.io/github/stars/ask-786/emojis.nvim) ![](https://img.shields.io/github/last-commit/ask-786/emojis.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/emojis.nvim)
+- [stephansama/fzf-nerdfont.nvim](https://github.com/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-nerdfont.nvim)
 
 ### Kaomoji
 

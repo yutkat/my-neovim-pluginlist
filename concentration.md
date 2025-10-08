@@ -103,6 +103,7 @@
 - [I0I-I0I/zenmode.nvim](https://github.com/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/stars/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/last-commit/I0I-I0I/zenmode.nvim) ![](https://img.shields.io/github/commit-activity/y/I0I-I0I/zenmode.nvim)
 - [paulodiovani/darkroom.nvim](https://github.com/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/stars/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/last-commit/paulodiovani/darkroom.nvim) ![](https://img.shields.io/github/commit-activity/y/paulodiovani/darkroom.nvim)
 - [Raist90/zen.nvim](https://github.com/Raist90/zen.nvim) ![](https://img.shields.io/github/stars/Raist90/zen.nvim) ![](https://img.shields.io/github/last-commit/Raist90/zen.nvim) ![](https://img.shields.io/github/commit-activity/y/Raist90/zen.nvim)
+- [Django0033/writer-mode.nvim](https://github.com/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/stars/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/last-commit/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/writer-mode.nvim)
 
 ### Focus Mode
 
