@@ -41,6 +41,7 @@
 - [steschwa/snipman.nvim](https://github.com/steschwa/snipman.nvim) ![](https://img.shields.io/github/stars/steschwa/snipman.nvim) ![](https://img.shields.io/github/last-commit/steschwa/snipman.nvim) ![](https://img.shields.io/github/commit-activity/y/steschwa/snipman.nvim)
 - [Tanzkalmar35/nv-snippets.nvim](https://github.com/Tanzkalmar35/nv-snippets.nvim) ![](https://img.shields.io/github/stars/Tanzkalmar35/nv-snippets.nvim) ![](https://img.shields.io/github/last-commit/Tanzkalmar35/nv-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Tanzkalmar35/nv-snippets.nvim)
 - [Zlatovlaska11/zsnip](https://github.com/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/stars/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/last-commit/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/commit-activity/y/Zlatovlaska11/zsnip)
+- [akfiveseven/snippet-stash.nvim](https://github.com/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/stars/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/last-commit/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/commit-activity/y/akfiveseven/snippet-stash.nvim)
 
 #### Snippet definitions
 

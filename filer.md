@@ -156,6 +156,7 @@
 - [LunarLambda/nvim-vranger](https://github.com/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/stars/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/last-commit/LunarLambda/nvim-vranger) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/nvim-vranger)
 - [devallabharath/explorer.nvim](https://github.com/devallabharath/explorer.nvim) ![](https://img.shields.io/github/stars/devallabharath/explorer.nvim) ![](https://img.shields.io/github/last-commit/devallabharath/explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/devallabharath/explorer.nvim)
 - [thilobro/gofileyourself.nvim](https://github.com/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/stars/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/last-commit/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/commit-activity/y/thilobro/gofileyourself.nvim)
+- [sontixyou/ranger.nvim](https://github.com/sontixyou/ranger.nvim) ![](https://img.shields.io/github/stars/sontixyou/ranger.nvim) ![](https://img.shields.io/github/last-commit/sontixyou/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/sontixyou/ranger.nvim)
 
 #### Joshuto
 
@@ -188,7 +189,6 @@
 - [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
 
 ### Find specific file
-
 
 ### Filer switcher
 

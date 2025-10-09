@@ -574,6 +574,10 @@
 
 - [Piotr1215/docusaurus.nvim](https://github.com/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/stars/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/docusaurus.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/docusaurus.nvim)
 
+### smoothsafe
+
+- [smoothsafe/smoothsafe.nvim](https://github.com/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/stars/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/last-commit/smoothsafe/smoothsafe.nvim) ![](https://img.shields.io/github/commit-activity/y/smoothsafe/smoothsafe.nvim)
+
 ## Code documentaion
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
