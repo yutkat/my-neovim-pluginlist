@@ -82,6 +82,7 @@
 - [HenriqueArtur/neo-gitmoji.nvim](https://github.com/HenriqueArtur/neo-gitmoji.nvim) ![](https://img.shields.io/github/stars/HenriqueArtur/neo-gitmoji.nvim) ![](https://img.shields.io/github/last-commit/HenriqueArtur/neo-gitmoji.nvim) ![](https://img.shields.io/github/commit-activity/y/HenriqueArtur/neo-gitmoji.nvim)
 - [Abizrh/beastie.nvim](https://github.com/Abizrh/beastie.nvim) ![](https://img.shields.io/github/stars/Abizrh/beastie.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/beastie.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/beastie.nvim)
 - [mageOfstructs/custom-emojis.nvim](https://github.com/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/stars/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/last-commit/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/commit-activity/y/mageOfstructs/custom-emojis.nvim)
+- [aiya000/nvim-luasnip-emoji](https://github.com/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/stars/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/last-commit/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-luasnip-emoji)
 
 ### Emoji FuzzyFinder
 

@@ -279,6 +279,7 @@
 #### Jupyter style
 
 - [GCBallesteros/NotebookNavigator.nvim](https://github.com/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/stars/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/last-commit/GCBallesteros/NotebookNavigator.nvim) ![](https://img.shields.io/github/commit-activity/y/GCBallesteros/NotebookNavigator.nvim)
+- [mwoitek/code-cells.nvim](https://github.com/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/stars/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/last-commit/mwoitek/code-cells.nvim) ![](https://img.shields.io/github/commit-activity/y/mwoitek/code-cells.nvim)
 
 ### Monitor
 

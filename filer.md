@@ -206,6 +206,7 @@
 
 - [amlanjlahkar/splitree.nvim](https://github.com/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/splitree.nvim)
 - [elanmed/tree.nvim](https://github.com/elanmed/tree.nvim) ![](https://img.shields.io/github/stars/elanmed/tree.nvim) ![](https://img.shields.io/github/last-commit/elanmed/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/tree.nvim)
+- [sontixyou/ranger.nvim](https://github.com/sontixyou/ranger.nvim) ![](https://img.shields.io/github/stars/sontixyou/ranger.nvim) ![](https://img.shields.io/github/last-commit/sontixyou/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/sontixyou/ranger.nvim)
 
 ### File rename
 

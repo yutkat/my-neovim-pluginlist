@@ -218,6 +218,7 @@
 
 - [adamkali/dotnvim](https://github.com/adamkali/dotnvim) ![](https://img.shields.io/github/stars/adamkali/dotnvim) ![](https://img.shields.io/github/last-commit/adamkali/dotnvim) ![](https://img.shields.io/github/commit-activity/y/adamkali/dotnvim)
 - [jmkelly/dbt.nvim](https://github.com/jmkelly/dbt.nvim) ![](https://img.shields.io/github/stars/jmkelly/dbt.nvim) ![](https://img.shields.io/github/last-commit/jmkelly/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkelly/dbt.nvim)
+- [cantti/dotnet-helper.nvim](https://github.com/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/stars/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/last-commit/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/dotnet-helper.nvim)
 
 ##### ASP.NET
 

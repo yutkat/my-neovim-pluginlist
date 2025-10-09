@@ -535,3 +535,5 @@
 - [flashcodes-themayankjha/Fknotes.nvim](https://github.com/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/Fknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/Fknotes.nvim)
 - [smchunn/snot.nvim](https://github.com/smchunn/snot.nvim) ![](https://img.shields.io/github/stars/smchunn/snot.nvim) ![](https://img.shields.io/github/last-commit/smchunn/snot.nvim) ![](https://img.shields.io/github/commit-activity/y/smchunn/snot.nvim)
 - [nilszeilon/gitnotes.nvim](https://github.com/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/stars/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/gitnotes.nvim)
+
+- [kimusan/notr.nvim](https://github.com/kimusan/notr.nvim) ![](https://img.shields.io/github/stars/kimusan/notr.nvim) ![](https://img.shields.io/github/last-commit/kimusan/notr.nvim) ![](https://img.shields.io/github/commit-activity/y/kimusan/notr.nvim)
