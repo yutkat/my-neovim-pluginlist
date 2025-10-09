@@ -54,11 +54,13 @@
 ## AI Terminal
 ## Cursor
 ## CodeCompanion
+### GitLab Guo
 ### Chatblade
 ## Error Fix Support
 ## Review
 ## Documentation
 ## Pair Programming
+## Token Count
 ## log
 ## REPL
 ## Writefull
@@ -67,6 +69,9 @@
 ## LLM context
 ## RAG
 ## Model Context Protocol(MCP)
+### MCP SDK
+#### Stainless
+## ACP
 ## ignore
 ## Configuration File (.cursor)
 ## Integration
@@ -111,6 +116,7 @@
 ### Tag
 ## Auto insert semicolon
 ## Auto convert
+## Path
 ## List
 ## random string
 ## Lorem Ipsum
@@ -136,6 +142,7 @@
 #### auto close
 #### auto reload
 #### access control
+#### sort
 #### path
 #### status
 #### oldfiles
@@ -167,7 +174,8 @@
 ### Linter
 ### Comment
 ### Makefile
-### GoogleTest
+### Test
+#### GoogleTest
 ### Stress test
 ### Line count
 ### CMake
@@ -249,6 +257,7 @@
 ### Shell Command
 #### sudo
 #### quit
+#### checkpath
 #### detach
 ### Random value
 ## Multiple Command
@@ -340,6 +349,8 @@
 ### Color
 ### Date
 ### Pixel
+### JSON -> TypeScript
+### JSON -> Code
 ### Dash
 
 # cursor.md
@@ -432,6 +443,7 @@
 ##### TimeStamp
 #### Code to Markdown
 #### AI writter
+#### MyST
 ### Fountain
 ### Query
 #### MDX
@@ -461,6 +473,7 @@
 ### Textile
 ### Jekyll
 ### docusaurus
+### smoothsafe
 ## Code documentaion
 ## Dadoot
 ## Johnny Decimal
@@ -468,6 +481,7 @@
 # external-tools.md
 ## Color
 ## Luarock
+## Mutagen
 
 # filer.md
 ## Filer
@@ -481,6 +495,8 @@
 ### ranger
 #### Joshuto
 #### yazi
+### fm
+### lf wrapper
 ### Network File Manager
 ### Open directory
 ### Find specific file
@@ -510,6 +526,7 @@
 ## Greek
 ## Savian alphabet
 ## Superscript Subscript
+## Style
 ## Icon
 ### Devicon color
 ## Emoji
@@ -549,6 +566,7 @@
 ### Typing
 ### FiveM
 ### World of Warcraft
+### MTG
 
 # git-github.md
 ## Git
@@ -688,6 +706,7 @@
 ### Keyboard
 #### Keyboard Layout
 #### Virtual Keyboard
+#### IPA Keyboard
 #### LED
 ### Embedded Software
 #### Arduino
@@ -724,6 +743,7 @@
 ### SVG
 ### Ascii
 ### Graph
+#### Box drawing
 #### graphedit
 ### Sixel
 ### Illustrate
@@ -769,6 +789,7 @@
 #### Dataform
 #### Nginx
 #### OpenFGA
+#### ElasticSearch
 ### Cloud
 #### Terraform
 ##### atmos
@@ -818,6 +839,7 @@
 ### Serial Version
 ### Test
 ### Compile
+### Refactor / Builder
 ### Maven
 ### Gradle
 ### Spring Boot
@@ -881,12 +903,14 @@
 ### Deno
 ### Bun
 ### NestJS
+### Electron
 ### Bootstrap
 ### mjml
 ### Hygen
 ### Ember
 ## Template Engine
 ### Jinja
+### Edge.js
 
 # jump.md
 ## Jump
@@ -896,6 +920,7 @@
 #### File tracking
 ### Jump number
 ### Go to File
+### Definition
 ### HML
 ### Bisection
 ### jumplist
@@ -907,8 +932,10 @@
 ### Programing Language / Framework
 #### Zig
 #### Nix
+#### Noir
 #### C#
 ##### Compile
+###### Roslyn
 ##### disassembler
 ##### inspect
 ##### .NET
@@ -924,6 +951,7 @@
 #### Clojure
 ##### test
 ##### format
+#### Crystal
 #### Erlang
 ##### hex
 #### Elixir
@@ -948,10 +976,14 @@
 #### D
 #### fortran
 #### DSL
+##### DAML
+#### DLiteScript
+#### Essence
 #### Juice
 #### Wasm
 #### WebC
 #### Cairo
+#### Cedar
 #### Processing
 #### Spade
 #### Radiant
@@ -984,6 +1016,7 @@
 #### Idris2
 #### MatLab
 #### Dice
+#### Nox
 #### Cell
 #### Orca
 #### Boxlang
@@ -995,13 +1028,16 @@
 #### Aeria
 #### Apple II
 #### Templaty
+#### Timur
 #### Storm
 #### Genero
 #### rested
+#### Ripple
 #### ABC
 #### Tcl/Tk
 #### Moonbit
 #### MCNP
+#### LAMMPS
 #### Clingo
 #### Verse
 #### OZ
@@ -1012,6 +1048,8 @@
 #### Jule
 #### Gren
 #### Solidity
+#### Huff
+#### Simplicity
 #### Bril
 #### Ty
 #### D2
@@ -1027,6 +1065,8 @@
 #### NASM
 #### Aptos Move
 #### Flix
+#### WebIDL
+#### IPDL
 #### CHIP-8
 #### Enclave Definition Language (EDL)
 #### E2
@@ -1092,6 +1132,7 @@
 #### Debug
 #### LSP Info
 ### Local LSP Config
+### Remote LSP
 ### restart
 ## Command
 ### Disable/Enable
@@ -1131,6 +1172,7 @@
 ### Show assigned
 ### Prefix Key Binding
 ### Layout Switch
+#### Colemak-HD
 ### Mapping toggle
 ### Improve Mappings
 #### Repeatable
@@ -1138,6 +1180,7 @@
 #### Escape
 #### CapsLock
 #### Tab
+#### Backspace
 #### Normal Mode
 ##### Word Motion
 #### Insert Mode
@@ -1196,6 +1239,7 @@
 ### YouTube Music
 ### Tidal
 ### Strudel
+### Reaper
 #### MIDI
 #### ABC Notation
 #### Morse
@@ -1204,6 +1248,7 @@
 
 # neovim-distribution.md
 ## Neovim Distribution
+## Wrapper
 
 # neovim-lua-development.md
 ## Lua Development
@@ -1248,6 +1293,7 @@
 ## String
 ## List
 ## Type
+## global
 ## Save lua variable
 ## File
 ### Path
@@ -1279,6 +1325,7 @@
 ## CLI
 ## SQLite
 ## JSON
+## YAML
 ## Require
 ## Hook
 ## Mode
@@ -1308,12 +1355,15 @@
 ### Zettelkasten
 ### Markdown
 ### ToDo
+#### Google Task
 #### Taskwarrior
 ### Obsidian
 ### nb
 ### Zeppelin
+### Joplin
 ### Blog
 #### Hugo
+#### GitHub Pages
 ### Google Keep
 ### Typst
 ### Dendron
@@ -1385,6 +1435,7 @@
 # php.md
 ## PHP
 ### test
+### REPL
 ### Element sort
 ### Live server
 ### PHPStan
@@ -1407,6 +1458,7 @@
 ### Plugin Config
 ### Switch
 ### Open README
+### Sandbox
 ### local plugin
 ## Market place
 ## Usage Report
@@ -1451,20 +1503,24 @@
 ### REPL
 ### Debug
 ### Profiler
-## LSP
-### inlayhint
-## Docstring
-## pydoc
-## pyenv
-### Stacktrace
-### build manager
-### pypi
-### venv
-### mypy
-### Poetry
-### uv
-### Mesone
-### Jupyter
+### Formatter
+#### yapf
+#### Ruff
+### LSP
+#### inlayhint
+### Docstring
+### pydoc
+### pyenv
+#### Stacktrace
+#### build manager
+#### pypi
+#### venv
+#### mypy
+#### Poetry
+#### uv
+#### Profiler
+#### Mesone
+## Jupyter
 ### Pandas
 ### DataFrame
 ### Pytorch
@@ -1574,6 +1630,7 @@
 ### [Save&Backup](./save_backup.md)
 ### [Startup](./startup.md)
 ### [Session](./session.md)
+### Shada
 ### Mouse
 ## Coding
 ### [Readable Assistant](./readable-assistant.md)
@@ -1685,6 +1742,7 @@
 ### Cursor Position
 ### Create directory
 ## Backup
+### Snapshot
 ## Swapfile
 
 # scrollbar.md
@@ -1722,6 +1780,9 @@
 
 # security.md
 ## Security
+### Scan
+### Security Code Review
+### Fluid Attacks
 ### Secrets
 ### Password Manager
 #### KeePassXC
@@ -1751,9 +1812,11 @@
 # spellcheck.md
 ## Spell
 ### Spellcheck
+### ShellSpec
 ### Vale
 ## Pronunce
 ## Thesaurus
+## Grammar check
 
 # split_join.md
 ## [Split / Join](./split_join.md)
@@ -1829,6 +1892,7 @@
 ### Auto Execute
 ### CLI
 #### Taskfile
+#### taskr
 ### Specific runner
 ### Partial execution
 #### Jupyter style
@@ -1944,8 +2008,11 @@
 #### X (Twitter)
 ### Notion
 ### esa.io
+### Dev
+### Fatebook
 ### micro.blog
 ### Gmail
+### Zoom
 ### ntfy
 ### WhatsApp
 ### Redmine
@@ -1973,7 +2040,6 @@
 ### haste
 ### TabNews
 ### HackerNews
-### Zotero
 ### DevDocs
 ### gerrit API
 ### Runme
@@ -1984,6 +2050,7 @@
 ### Drupal
 ### Netsuite
 ### Prefab
+### racc.lol
 ## Web3
 ## CI
 ### CircleCI
@@ -2032,6 +2099,7 @@
 ### OSC52
 ### System Clipboard
 #### WSL clipboard
+#### Maccy
 #### Clipper
 ### Save
 ## Paste
