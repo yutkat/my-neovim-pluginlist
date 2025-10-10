@@ -136,6 +136,7 @@
 - [ojroques/nvim-oscyank](https://github.com/ojroques/nvim-oscyank) ![](https://img.shields.io/github/stars/ojroques/nvim-oscyank) ![](https://img.shields.io/github/last-commit/ojroques/nvim-oscyank) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-oscyank)
 - [ibhagwan/smartyank.nvim](https://github.com/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/stars/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/last-commit/ibhagwan/smartyank.nvim) ![](https://img.shields.io/github/commit-activity/y/ibhagwan/smartyank.nvim)
 - [yutkat/osc52.nvim](https://github.com/yutkat/osc52.nvim) ![](https://img.shields.io/github/stars/yutkat/osc52.nvim) ![](https://img.shields.io/github/last-commit/yutkat/osc52.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/osc52.nvim)
+- [bobrippling/nvim-osc52-tmux](https://github.com/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/stars/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/last-commit/bobrippling/nvim-osc52-tmux) ![](https://img.shields.io/github/commit-activity/y/bobrippling/nvim-osc52-tmux)
 
 ### System Clipboard
 

@@ -537,3 +537,4 @@
 - [nilszeilon/gitnotes.nvim](https://github.com/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/stars/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/last-commit/nilszeilon/gitnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/nilszeilon/gitnotes.nvim)
 
 - [kimusan/notr.nvim](https://github.com/kimusan/notr.nvim) ![](https://img.shields.io/github/stars/kimusan/notr.nvim) ![](https://img.shields.io/github/last-commit/kimusan/notr.nvim) ![](https://img.shields.io/github/commit-activity/y/kimusan/notr.nvim)
+- [68mschmitt/memory-palace.nvim](https://github.com/68mschmitt/memory-palace.nvim) ![](https://img.shields.io/github/stars/68mschmitt/memory-palace.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/memory-palace.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/memory-palace.nvim)
