@@ -21,6 +21,7 @@ The list is only selected if it has more than 100 stars and is actively being up
 - [ldelossa/nvim-ide](https://github.com/ldelossa/nvim-ide) ![](https://img.shields.io/github/stars/ldelossa/nvim-ide) ![](https://img.shields.io/github/last-commit/ldelossa/nvim-ide) ![](https://img.shields.io/github/commit-activity/y/ldelossa/nvim-ide)
 - [nyoom-engineering/nyoom.nvim](https://github.com/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/stars/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/last-commit/nyoom-engineering/nyoom.nvim) ![](https://img.shields.io/github/commit-activity/y/nyoom-engineering/nyoom.nvim)
 - [apyra/nvim-unity](https://github.com/apyra/nvim-unity) ![](https://img.shields.io/github/stars/apyra/nvim-unity) ![](https://img.shields.io/github/last-commit/apyra/nvim-unity) ![](https://img.shields.io/github/commit-activity/y/apyra/nvim-unity)
+- [abdellatif-temsamani/adev.nvim](https://github.com/abdellatif-temsamani/adev.nvim) ![](https://img.shields.io/github/stars/abdellatif-temsamani/adev.nvim) ![](https://img.shields.io/github/last-commit/abdellatif-temsamani/adev.nvim) ![](https://img.shields.io/github/commit-activity/y/abdellatif-temsamani/adev.nvim)
 
 ## Wrapper
 
