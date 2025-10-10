@@ -244,6 +244,7 @@
 
 - [BeatScherrer/just.nvim](https://github.com/BeatScherrer/just.nvim) ![](https://img.shields.io/github/stars/BeatScherrer/just.nvim) ![](https://img.shields.io/github/last-commit/BeatScherrer/just.nvim) ![](https://img.shields.io/github/commit-activity/y/BeatScherrer/just.nvim)
 - [al1-ce/just.nvim](https://github.com/al1-ce/just.nvim) ![](https://img.shields.io/github/stars/al1-ce/just.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/just.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/just.nvim)
+- [adriangitvitz/pm.nvim](https://github.com/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/stars/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/last-commit/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/adriangitvitz/pm.nvim)
 
 #### Taskfile
 

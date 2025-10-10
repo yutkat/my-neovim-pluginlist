@@ -60,6 +60,8 @@
 
 ### Chess
 
+- [linuxswords/nvim-chess](https://github.com/linuxswords/nvim-chess) ![](https://img.shields.io/github/stars/linuxswords/nvim-chess) ![](https://img.shields.io/github/last-commit/linuxswords/nvim-chess) ![](https://img.shields.io/github/commit-activity/y/linuxswords/nvim-chess)
+
 ### Mine Sweeper
 
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)

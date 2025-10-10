@@ -43,6 +43,7 @@
 - [jmwinn21/habit-tracker.nvim](https://github.com/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/stars/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/last-commit/jmwinn21/habit-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/jmwinn21/habit-tracker.nvim)
 - [Shingi-Michael/StreakTracker.nvim](https://github.com/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/stars/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/last-commit/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/commit-activity/y/Shingi-Michael/StreakTracker.nvim)
 - [jmkel/quantity.nvim](https://github.com/jmkel/quantity.nvim) ![](https://img.shields.io/github/stars/jmkel/quantity.nvim) ![](https://img.shields.io/github/last-commit/jmkel/quantity.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkel/quantity.nvim)
+- [TomJo2000/clocwork.nvim](https://github.com/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/stars/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/last-commit/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/commit-activity/y/TomJo2000/clocwork.nvim)
 
 ### Coding time
 

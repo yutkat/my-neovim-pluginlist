@@ -157,6 +157,7 @@
 - [devallabharath/explorer.nvim](https://github.com/devallabharath/explorer.nvim) ![](https://img.shields.io/github/stars/devallabharath/explorer.nvim) ![](https://img.shields.io/github/last-commit/devallabharath/explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/devallabharath/explorer.nvim)
 - [thilobro/gofileyourself.nvim](https://github.com/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/stars/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/last-commit/thilobro/gofileyourself.nvim) ![](https://img.shields.io/github/commit-activity/y/thilobro/gofileyourself.nvim)
 - [sontixyou/ranger.nvim](https://github.com/sontixyou/ranger.nvim) ![](https://img.shields.io/github/stars/sontixyou/ranger.nvim) ![](https://img.shields.io/github/last-commit/sontixyou/ranger.nvim) ![](https://img.shields.io/github/commit-activity/y/sontixyou/ranger.nvim)
+- [Stianlyng/neoranger.nvim](https://github.com/Stianlyng/neoranger.nvim) ![](https://img.shields.io/github/stars/Stianlyng/neoranger.nvim) ![](https://img.shields.io/github/last-commit/Stianlyng/neoranger.nvim) ![](https://img.shields.io/github/commit-activity/y/Stianlyng/neoranger.nvim)
 
 #### Joshuto
 
