@@ -125,6 +125,7 @@
 - [joshua1nine/lg.nvim](https://github.com/joshua1nine/lg.nvim) ![](https://img.shields.io/github/stars/joshua1nine/lg.nvim) ![](https://img.shields.io/github/last-commit/joshua1nine/lg.nvim) ![](https://img.shields.io/github/commit-activity/y/joshua1nine/lg.nvim)
 - [liYony/nvim-gitrepo.nvim](https://github.com/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/stars/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/last-commit/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/commit-activity/y/liYony/nvim-gitrepo.nvim)
 - [Benjman/lvdflg.nvim](https://github.com/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/stars/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/last-commit/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/commit-activity/y/Benjman/lvdflg.nvim)
+- [ardaanyazli/lg-float.nvim](https://github.com/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/stars/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/last-commit/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/commit-activity/y/ardaanyazli/lg-float.nvim)
 
 ### git clone
 
