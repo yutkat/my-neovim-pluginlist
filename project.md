@@ -86,6 +86,7 @@
 - [cosmicbuffalo/root_swapper.nvim](https://github.com/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/root_swapper.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/root_swapper.nvim)
 - [sonictim/roto-rooter.nvim](https://github.com/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/stars/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/last-commit/sonictim/roto-rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/sonictim/roto-rooter.nvim)
 - [Ja-sonYun/nvim-rooter](https://github.com/Ja-sonYun/nvim-rooter) ![](https://img.shields.io/github/stars/Ja-sonYun/nvim-rooter) ![](https://img.shields.io/github/last-commit/Ja-sonYun/nvim-rooter) ![](https://img.shields.io/github/commit-activity/y/Ja-sonYun/nvim-rooter)
+- [jakobwesthoff/taproot.nvim](https://github.com/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/taproot.nvim)
 
 ### Project Template
 

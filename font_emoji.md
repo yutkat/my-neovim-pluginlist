@@ -72,6 +72,7 @@
 
 - [rachartier/tiny-devicons-auto-colors.nvim](https://github.com/rachartier/tiny-devicons-auto-colors.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-devicons-auto-colors.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-devicons-auto-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-devicons-auto-colors.nvim)
 - [dgox16/devicon-colorscheme.nvim](https://github.com/dgox16/devicon-colorscheme.nvim) ![](https://img.shields.io/github/stars/dgox16/devicon-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/dgox16/devicon-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/dgox16/devicon-colorscheme.nvim)
+- [lpnh/cafetiere.nvim](https://github.com/lpnh/cafetiere.nvim) ![](https://img.shields.io/github/stars/lpnh/cafetiere.nvim) ![](https://img.shields.io/github/last-commit/lpnh/cafetiere.nvim) ![](https://img.shields.io/github/commit-activity/y/lpnh/cafetiere.nvim)
 
 ## Emoji
 

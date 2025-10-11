@@ -219,6 +219,7 @@
 - [vanaigr/motion.nvim](https://github.com/vanaigr/motion.nvim) ![](https://img.shields.io/github/stars/vanaigr/motion.nvim) ![](https://img.shields.io/github/last-commit/vanaigr/motion.nvim) ![](https://img.shields.io/github/commit-activity/y/vanaigr/motion.nvim)
 - [Goose97/rearrange.nvim](https://github.com/Goose97/rearrange.nvim) ![](https://img.shields.io/github/stars/Goose97/rearrange.nvim) ![](https://img.shields.io/github/last-commit/Goose97/rearrange.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/rearrange.nvim)
 - [Yinameah/nvim-gvhist](https://github.com/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/stars/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/last-commit/Yinameah/nvim-gvhist) ![](https://img.shields.io/github/commit-activity/y/Yinameah/nvim-gvhist)
+- [Morass/repo-grepo.nvim](https://github.com/Morass/repo-grepo.nvim) ![](https://img.shields.io/github/stars/Morass/repo-grepo.nvim) ![](https://img.shields.io/github/last-commit/Morass/repo-grepo.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/repo-grepo.nvim)
 
 ### Bracket and quote
 

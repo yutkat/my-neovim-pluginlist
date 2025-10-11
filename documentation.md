@@ -191,6 +191,7 @@
 - [asana17/prev-mark.nvim](https://github.com/asana17/prev-mark.nvim) ![](https://img.shields.io/github/stars/asana17/prev-mark.nvim) ![](https://img.shields.io/github/last-commit/asana17/prev-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/asana17/prev-mark.nvim)
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/stars/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/live-preview.nvim)
 - [andev0x/mdview.nvim](https://github.com/andev0x/mdview.nvim) ![](https://img.shields.io/github/stars/andev0x/mdview.nvim) ![](https://img.shields.io/github/last-commit/andev0x/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/mdview.nvim)
+- [hostmyapps-git/live-preview.nvim](https://github.com/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/stars/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/last-commit/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/hostmyapps-git/live-preview.nvim)
 
 ##### Deno
 
@@ -273,6 +274,7 @@
 - [nuhakala/nvim-simple-tables](https://github.com/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/stars/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/last-commit/nuhakala/nvim-simple-tables) ![](https://img.shields.io/github/commit-activity/y/nuhakala/nvim-simple-tables)
 - [bosha/md-table-navigation.nvim](https://github.com/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/stars/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/last-commit/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/bosha/md-table-navigation.nvim)
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/timantipov/md-table-tidy.nvim)
+- [paulsonkoly/adjust-table.nvim](https://github.com/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/stars/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/last-commit/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsonkoly/adjust-table.nvim)
 
 #### Frontmatter
 
