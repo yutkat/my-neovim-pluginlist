@@ -120,6 +120,7 @@
 - [pe1te3son/prev-buffer.nvim](https://github.com/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/stars/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/last-commit/pe1te3son/prev-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/pe1te3son/prev-buffer.nvim)
 - [mangin/test-flea.nvim](https://github.com/mangin/test-flea.nvim) ![](https://img.shields.io/github/stars/mangin/test-flea.nvim) ![](https://img.shields.io/github/last-commit/mangin/test-flea.nvim) ![](https://img.shields.io/github/commit-activity/y/mangin/test-flea.nvim)
 - [vvilhelmsen/partner.nvim](https://github.com/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/partner.nvim)
+- [Ross74U/hotbuffers.nvim](https://github.com/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/stars/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/last-commit/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Ross74U/hotbuffers.nvim)
 
 ### Buffer Management
 

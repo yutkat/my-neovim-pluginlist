@@ -248,6 +248,8 @@
 - [0xdilo/lmeow.nvim](https://github.com/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/stars/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/last-commit/0xdilo/lmeow.nvim) ![](https://img.shields.io/github/commit-activity/y/0xdilo/lmeow.nvim)
 - [lambdalisue/nvim-aibo](https://github.com/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/stars/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/last-commit/lambdalisue/nvim-aibo) ![](https://img.shields.io/github/commit-activity/y/lambdalisue/nvim-aibo)
 - [kitallen23/conduit.nvim](https://github.com/kitallen23/conduit.nvim) ![](https://img.shields.io/github/stars/kitallen23/conduit.nvim) ![](https://img.shields.io/github/last-commit/kitallen23/conduit.nvim) ![](https://img.shields.io/github/commit-activity/y/kitallen23/conduit.nvim)
+- [inobit/llm.nvim](https://github.com/inobit/llm.nvim) ![](https://img.shields.io/github/stars/inobit/llm.nvim) ![](https://img.shields.io/github/last-commit/inobit/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/inobit/llm.nvim)
+- [jim-at-jibba/nvim-redraft](https://github.com/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/stars/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/last-commit/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/nvim-redraft)
 
 #### mods
 
