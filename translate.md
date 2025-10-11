@@ -30,7 +30,6 @@
 - [RunnyC/translator.nvim](https://github.com/RunnyC/translator.nvim) ![](https://img.shields.io/github/stars/RunnyC/translator.nvim) ![](https://img.shields.io/github/last-commit/RunnyC/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/RunnyC/translator.nvim)
 - [cxwx/argosTrans.nvim](https://github.com/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/stars/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/last-commit/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/argosTrans.nvim)
 - [mozumasu/plamo-translate.nvim](https://github.com/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/stars/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/plamo-translate.nvim)
-- [wbelser/synonymous.nvim](https://github.com/wbelser/synonymous.nvim) ![](https://img.shields.io/github/stars/wbelser/synonymous.nvim) ![](https://img.shields.io/github/last-commit/wbelser/synonymous.nvim) ![](https://img.shields.io/github/commit-activity/y/wbelser/synonymous.nvim)
 
 ## i18n
 
