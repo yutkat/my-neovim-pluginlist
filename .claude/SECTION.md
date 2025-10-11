@@ -390,6 +390,11 @@
 #### print debug
 #### stack trace analyze
 
+# dictionary.md
+## Dictionary
+## Pronunce
+## Thesaurus
+
 # diff.md
 ## Diff
 ### Diff Register
@@ -1616,7 +1621,7 @@
 ### [Command](./command.md)
 ### [Command Line](./commandline.md)
 ### [Spell check](./spellcheck.md)
-### Dictionary
+### [Dictionary](./dictionary.md)
 ### digraph
 ### Abbreviation
 ### [Quickfix / Location](./quickfix_location.md)
@@ -1814,8 +1819,6 @@
 ### Spellcheck
 ### ShellSpec
 ### Vale
-## Pronunce
-## Thesaurus
 ## Grammar check
 
 # split_join.md

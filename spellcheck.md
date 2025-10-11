@@ -6,8 +6,6 @@
   - [Spellcheck](#spellcheck)
   - [ShellSpec](#shellspec)
   - [Vale](#vale)
-- [Pronunce](#pronunce)
-- [Thesaurus](#thesaurus)
 - [Grammar check](#grammar-check)
 
 <!-- tocstop -->
@@ -50,14 +48,6 @@
 ### Vale
 
 - [marcelofern/vale.nvim](https://github.com/marcelofern/vale.nvim) ![](https://img.shields.io/github/stars/marcelofern/vale.nvim) ![](https://img.shields.io/github/last-commit/marcelofern/vale.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelofern/vale.nvim)
-
-## Pronunce
-
-- [mec-nyan/nvim-words](https://github.com/mec-nyan/nvim-words) ![](https://img.shields.io/github/stars/mec-nyan/nvim-words) ![](https://img.shields.io/github/last-commit/mec-nyan/nvim-words) ![](https://img.shields.io/github/commit-activity/y/mec-nyan/nvim-words)
-
-## Thesaurus
-
-- [hertogp/syns.nvim](https://github.com/hertogp/syns.nvim) ![](https://img.shields.io/github/stars/hertogp/syns.nvim) ![](https://img.shields.io/github/last-commit/hertogp/syns.nvim) ![](https://img.shields.io/github/commit-activity/y/hertogp/syns.nvim)
 
 ## Grammar check
 
