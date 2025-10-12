@@ -107,6 +107,7 @@
 - [samiulsami/fFtT-highlights.nvim](https://github.com/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/stars/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/fFtT-highlights.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/fFtT-highlights.nvim)
 - [s-show/ft-mapper.nvim](https://github.com/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/stars/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/last-commit/s-show/ft-mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/s-show/ft-mapper.nvim)
 - [totochi-2022/clever-f.nvim](https://github.com/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/stars/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/clever-f.nvim)
+- [trevorkavanaugh/move.nvim](https://github.com/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/stars/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/last-commit/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorkavanaugh/move.nvim)
 
 #### Show jump word
 

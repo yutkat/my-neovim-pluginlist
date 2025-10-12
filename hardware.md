@@ -9,6 +9,7 @@
   - [Verilog](#verilog)
   - [Grooper](#grooper)
   - [SketchUp](#sketchup)
+  - [Raspberry PI](#raspberry-pi)
   - [Robot](#robot)
     - [ROS](#ros)
     - [FRC(First robotics competition)](#frcfirst-robotics-competition)
@@ -52,6 +53,10 @@
 ### SketchUp
 
 - [yorik1984/sketchup.nvim](https://github.com/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/stars/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/sketchup.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/sketchup.nvim)
+
+### Raspberry PI
+
+- [siriknikita/raspberry-pi-pico.nvim](https://github.com/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/stars/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/last-commit/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/commit-activity/y/siriknikita/raspberry-pi-pico.nvim)
 
 ### Robot
 

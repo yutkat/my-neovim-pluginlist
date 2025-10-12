@@ -290,6 +290,7 @@
 ##### test
 
 - [julienvincent/clojure-test.nvim](https://github.com/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/stars/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/clojure-test.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/clojure-test.nvim)
+- [jozura/clojure-test-tree.nvim](https://github.com/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/stars/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/last-commit/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/jozura/clojure-test-tree.nvim)
 
 ##### format
 

@@ -232,6 +232,7 @@
 - [PeterJohannsenCMT/nvim-jupyter](https://github.com/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/stars/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/last-commit/PeterJohannsenCMT/nvim-jupyter) ![](https://img.shields.io/github/commit-activity/y/PeterJohannsenCMT/nvim-jupyter)
 - [uranus-nvim/uranus-core.nvim](https://github.com/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/stars/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/last-commit/uranus-nvim/uranus-core.nvim) ![](https://img.shields.io/github/commit-activity/y/uranus-nvim/uranus-core.nvim)
 - [bxrne/euporie.nvim](https://github.com/bxrne/euporie.nvim) ![](https://img.shields.io/github/stars/bxrne/euporie.nvim) ![](https://img.shields.io/github/last-commit/bxrne/euporie.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/euporie.nvim)
+- [zchown/nvim-ipynb](https://github.com/zchown/nvim-ipynb) ![](https://img.shields.io/github/stars/zchown/nvim-ipynb) ![](https://img.shields.io/github/last-commit/zchown/nvim-ipynb) ![](https://img.shields.io/github/commit-activity/y/zchown/nvim-ipynb)
 
 ### Pandas
 
