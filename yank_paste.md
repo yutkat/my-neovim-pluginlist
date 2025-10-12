@@ -121,7 +121,6 @@
 - [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
 - [ravibrock/regisfilter.nvim](https://github.com/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/stars/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/regisfilter.nvim)
 - [sunesimonsen/killring.nvim](https://github.com/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/killring.nvim)
-- [Ja-sonYun/nvim-macroedit](https://github.com/Ja-sonYun/nvim-macroedit) ![](https://img.shields.io/github/stars/Ja-sonYun/nvim-macroedit) ![](https://img.shields.io/github/last-commit/Ja-sonYun/nvim-macroedit) ![](https://img.shields.io/github/commit-activity/y/Ja-sonYun/nvim-macroedit)
 
 ### Lock Register
 
@@ -170,7 +169,6 @@
 - [minamorl/nvim-clean-paste](https://github.com/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/stars/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/last-commit/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/commit-activity/y/minamorl/nvim-clean-paste)
 - [arakkkkk/smart-paste.nvim](https://github.com/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/stars/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/smart-paste.nvim)
 - [whoop-t/dupe.nvim](https://github.com/whoop-t/dupe.nvim) ![](https://img.shields.io/github/stars/whoop-t/dupe.nvim) ![](https://img.shields.io/github/last-commit/whoop-t/dupe.nvim) ![](https://img.shields.io/github/commit-activity/y/whoop-t/dupe.nvim)
-- [salcode/paste-characterwise.nvim](https://github.com/salcode/paste-characterwise.nvim) ![](https://img.shields.io/github/stars/salcode/paste-characterwise.nvim) ![](https://img.shields.io/github/last-commit/salcode/paste-characterwise.nvim) ![](https://img.shields.io/github/commit-activity/y/salcode/paste-characterwise.nvim)
 
 ### Cyclic paste
 

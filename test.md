@@ -31,7 +31,6 @@
 - [LiXuanqi/testx.nvim](https://github.com/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/stars/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/last-commit/LiXuanqi/testx.nvim) ![](https://img.shields.io/github/commit-activity/y/LiXuanqi/testx.nvim)
 - [goropikari/pict.nvim](https://github.com/goropikari/pict.nvim) ![](https://img.shields.io/github/stars/goropikari/pict.nvim) ![](https://img.shields.io/github/last-commit/goropikari/pict.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/pict.nvim)
 - [choneface/test-runner.nvim](https://github.com/choneface/test-runner.nvim) ![](https://img.shields.io/github/stars/choneface/test-runner.nvim) ![](https://img.shields.io/github/last-commit/choneface/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/choneface/test-runner.nvim)
-- [jozura/clojure-test-tree.nvim](https://github.com/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/stars/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/last-commit/jozura/clojure-test-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/jozura/clojure-test-tree.nvim)
 
 ### Test file
 
