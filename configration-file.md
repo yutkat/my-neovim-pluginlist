@@ -81,6 +81,7 @@
 ### TOML
 
 - [dharmx/toml.nvim](https://github.com/dharmx/toml.nvim) ![](https://img.shields.io/github/stars/dharmx/toml.nvim) ![](https://img.shields.io/github/last-commit/dharmx/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/toml.nvim)
+- [DanWlker/keysmith.nvim](https://github.com/DanWlker/keysmith.nvim) ![](https://img.shields.io/github/stars/DanWlker/keysmith.nvim) ![](https://img.shields.io/github/last-commit/DanWlker/keysmith.nvim) ![](https://img.shields.io/github/commit-activity/y/DanWlker/keysmith.nvim)
 
 ### Pkl
 
