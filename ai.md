@@ -578,6 +578,7 @@
 - [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 - [Loki-Astari/cursor](https://github.com/Loki-Astari/cursor) ![](https://img.shields.io/github/stars/Loki-Astari/cursor) ![](https://img.shields.io/github/last-commit/Loki-Astari/cursor) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/cursor)
 - [keller00/cursor-agent.nvim](https://github.com/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/stars/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/keller00/cursor-agent.nvim)
+- [gosvig123/nvim-cursor](https://github.com/gosvig123/nvim-cursor) ![](https://img.shields.io/github/stars/gosvig123/nvim-cursor) ![](https://img.shields.io/github/last-commit/gosvig123/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/gosvig123/nvim-cursor)
 
 ## CodeCompanion
 
