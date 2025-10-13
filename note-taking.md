@@ -255,6 +255,7 @@
 - [obsidian-nvim/obsidian-mcp.nvim](https://github.com/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/obsidian-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/obsidian-mcp.nvim)
 - [saravenpi/pebble.nvim](https://github.com/saravenpi/pebble.nvim) ![](https://img.shields.io/github/stars/saravenpi/pebble.nvim) ![](https://img.shields.io/github/last-commit/saravenpi/pebble.nvim) ![](https://img.shields.io/github/commit-activity/y/saravenpi/pebble.nvim)
 - [IKarasev/obsidian-tasks.nvim](https://github.com/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/obsidian-tasks.nvim)
+- [jbuck95/recollect.nvim](https://github.com/jbuck95/recollect.nvim) ![](https://img.shields.io/github/stars/jbuck95/recollect.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/recollect.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/recollect.nvim)
 
 ### nb
 
@@ -284,6 +285,7 @@
 ### Typst
 
 - [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
+- [freref/typst-qol.nvim](https://github.com/freref/typst-qol.nvim) ![](https://img.shields.io/github/stars/freref/typst-qol.nvim) ![](https://img.shields.io/github/last-commit/freref/typst-qol.nvim) ![](https://img.shields.io/github/commit-activity/y/freref/typst-qol.nvim)
 
 ### Dendron
 

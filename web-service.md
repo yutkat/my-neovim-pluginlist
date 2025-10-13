@@ -17,6 +17,7 @@
   - [Notion](#notion)
   - [esa.io](#esaio)
   - [Dev](#dev)
+  - [Local server](#local-server)
   - [Fatebook](#fatebook)
   - [micro.blog](#microblog)
   - [Gmail](#gmail)
@@ -140,6 +141,10 @@
 ### Dev
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
+
+### Local server
+
+- [selimacerbas/live-server.nvim](https://github.com/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/stars/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/live-server.nvim)
 
 ### Fatebook
 

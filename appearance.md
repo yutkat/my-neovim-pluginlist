@@ -34,6 +34,7 @@
 - [fdev31/menus.nvim](https://github.com/fdev31/menus.nvim) ![](https://img.shields.io/github/stars/fdev31/menus.nvim) ![](https://img.shields.io/github/last-commit/fdev31/menus.nvim) ![](https://img.shields.io/github/commit-activity/y/fdev31/menus.nvim)
 - [lecheel/speedial](https://github.com/lecheel/speedial) ![](https://img.shields.io/github/stars/lecheel/speedial) ![](https://img.shields.io/github/last-commit/lecheel/speedial) ![](https://img.shields.io/github/commit-activity/y/lecheel/speedial)
 - [totochi-2022/toggle-manager.nvim](https://github.com/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/stars/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/toggle-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/toggle-manager.nvim)
+- [anthoeknee/context-menu.nvim](https://github.com/anthoeknee/context-menu.nvim) ![](https://img.shields.io/github/stars/anthoeknee/context-menu.nvim) ![](https://img.shields.io/github/last-commit/anthoeknee/context-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/anthoeknee/context-menu.nvim)
 
 ### Minimap
 
