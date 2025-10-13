@@ -185,6 +185,7 @@
 - [LuisanaMTDev/conventionalgc.nvim](https://github.com/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/stars/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/last-commit/LuisanaMTDev/conventionalgc.nvim) ![](https://img.shields.io/github/commit-activity/y/LuisanaMTDev/conventionalgc.nvim)
 - [Morass/conventional-push.nvim](https://github.com/Morass/conventional-push.nvim) ![](https://img.shields.io/github/stars/Morass/conventional-push.nvim) ![](https://img.shields.io/github/last-commit/Morass/conventional-push.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/conventional-push.nvim)
 - [andostronaut/cocli.nvim](https://github.com/andostronaut/cocli.nvim) ![](https://img.shields.io/github/stars/andostronaut/cocli.nvim) ![](https://img.shields.io/github/last-commit/andostronaut/cocli.nvim) ![](https://img.shields.io/github/commit-activity/y/andostronaut/cocli.nvim)
+- [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) ![](https://img.shields.io/github/stars/yus-works/csc.nvim) ![](https://img.shields.io/github/last-commit/yus-works/csc.nvim) ![](https://img.shields.io/github/commit-activity/y/yus-works/csc.nvim)
 
 #### co authored
 
