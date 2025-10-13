@@ -124,6 +124,7 @@
 - [Goose97/timber.nvim](https://github.com/Goose97/timber.nvim) ![](https://img.shields.io/github/stars/Goose97/timber.nvim) ![](https://img.shields.io/github/last-commit/Goose97/timber.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/timber.nvim)
 - [jpwallace22/consolelogger.nvim](https://github.com/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/stars/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/last-commit/jpwallace22/consolelogger.nvim) ![](https://img.shields.io/github/commit-activity/y/jpwallace22/consolelogger.nvim)
 - [Tert0z/nvim-logp](https://github.com/Tert0z/nvim-logp) ![](https://img.shields.io/github/stars/Tert0z/nvim-logp) ![](https://img.shields.io/github/last-commit/Tert0z/nvim-logp) ![](https://img.shields.io/github/commit-activity/y/Tert0z/nvim-logp)
+- [AndresYague/print-debug.nvim](https://github.com/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/stars/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/print-debug.nvim)
 
 #### stack trace analyze
 
