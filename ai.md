@@ -148,6 +148,7 @@
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
+- [luizribeiro/bennet.nvim](https://github.com/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/stars/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/last-commit/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/commit-activity/y/luizribeiro/bennet.nvim)
 
 #### Codex
 
@@ -565,7 +566,6 @@
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
-- [luizribeiro/bennet.nvim](https://github.com/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/stars/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/last-commit/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/commit-activity/y/luizribeiro/bennet.nvim)
 
 ## AI Terminal
 
