@@ -191,6 +191,7 @@
 
 - [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
 - [Penpen7/telescope-co-author.nvim](https://github.com/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/stars/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/last-commit/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/Penpen7/telescope-co-author.nvim)
+- [rcasia/git-mob.nvim](https://github.com/rcasia/git-mob.nvim) ![](https://img.shields.io/github/stars/rcasia/git-mob.nvim) ![](https://img.shields.io/github/last-commit/rcasia/git-mob.nvim) ![](https://img.shields.io/github/commit-activity/y/rcasia/git-mob.nvim)
 
 #### Auto commit
 

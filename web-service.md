@@ -360,6 +360,11 @@
 - [tomoakley/circleci.nvim](https://github.com/tomoakley/circleci.nvim) ![](https://img.shields.io/github/stars/tomoakley/circleci.nvim) ![](https://img.shields.io/github/last-commit/tomoakley/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/tomoakley/circleci.nvim)
 - [ismailshak/circleci.nvim](https://github.com/ismailshak/circleci.nvim) ![](https://img.shields.io/github/stars/ismailshak/circleci.nvim) ![](https://img.shields.io/github/last-commit/ismailshak/circleci.nvim) ![](https://img.shields.io/github/commit-activity/y/ismailshak/circleci.nvim)
 
+### GitHub Actions
+
+- [jaklimoff/github-actions.nvim](https://github.com/jaklimoff/github-actions.nvim) ![](https://img.shields.io/github/stars/jaklimoff/github-actions.nvim) ![](https://img.shields.io/github/last-commit/jaklimoff/github-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/jaklimoff/github-actions.nvim)
+- [skanehira/github-actions.nvim](https://github.com/skanehira/github-actions.nvim) ![](https://img.shields.io/github/stars/skanehira/github-actions.nvim) ![](https://img.shields.io/github/last-commit/skanehira/github-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/github-actions.nvim)
+
 ### Nx
 
 - [andtankian/nxtest.nvim](https://github.com/andtankian/nxtest.nvim) ![](https://img.shields.io/github/stars/andtankian/nxtest.nvim) ![](https://img.shields.io/github/last-commit/andtankian/nxtest.nvim) ![](https://img.shields.io/github/commit-activity/y/andtankian/nxtest.nvim)

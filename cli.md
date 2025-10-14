@@ -353,6 +353,7 @@
 - [huncholane/syncmap.nvim](https://github.com/huncholane/syncmap.nvim) ![](https://img.shields.io/github/stars/huncholane/syncmap.nvim) ![](https://img.shields.io/github/last-commit/huncholane/syncmap.nvim) ![](https://img.shields.io/github/commit-activity/y/huncholane/syncmap.nvim)
 - [gregornickel/nvim-deployment](https://github.com/gregornickel/nvim-deployment) ![](https://img.shields.io/github/stars/gregornickel/nvim-deployment) ![](https://img.shields.io/github/last-commit/gregornickel/nvim-deployment) ![](https://img.shields.io/github/commit-activity/y/gregornickel/nvim-deployment)
 - [rbledsaw3/rsync-netrw.nvim](https://github.com/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/stars/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/last-commit/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/rbledsaw3/rsync-netrw.nvim)
+- [dmbhatti/deployment.nvim](https://github.com/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/stars/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/last-commit/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/commit-activity/y/dmbhatti/deployment.nvim)
 
 #### curl
 

@@ -102,6 +102,7 @@
 - [Bishop-Fox/colorblocks.nvim](https://github.com/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/stars/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/last-commit/Bishop-Fox/colorblocks.nvim) ![](https://img.shields.io/github/commit-activity/y/Bishop-Fox/colorblocks.nvim)
 - [ImmanuelHaffner/pigmentor.nvim](https://github.com/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/pigmentor.nvim)
 - [0xJWLabs/highlight-colors.nvim](https://github.com/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/stars/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/last-commit/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJWLabs/highlight-colors.nvim)
+- [Godswill-255/colorviewer.nvim](https://github.com/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/stars/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/last-commit/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Godswill-255/colorviewer.nvim)
 
 ### Color picker
 
