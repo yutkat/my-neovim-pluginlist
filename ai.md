@@ -148,6 +148,7 @@
 - [psaia/prompt-ai.vim](https://github.com/psaia/prompt-ai.vim) ![](https://img.shields.io/github/stars/psaia/prompt-ai.vim) ![](https://img.shields.io/github/last-commit/psaia/prompt-ai.vim) ![](https://img.shields.io/github/commit-activity/y/psaia/prompt-ai.vim)
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
+- [luizribeiro/bennet.nvim](https://github.com/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/stars/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/last-commit/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/commit-activity/y/luizribeiro/bennet.nvim)
 
 #### Codex
 
