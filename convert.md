@@ -60,6 +60,7 @@
 - [justamanpop/nvim-strike-through](https://github.com/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/stars/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/last-commit/justamanpop/nvim-strike-through) ![](https://img.shields.io/github/commit-activity/y/justamanpop/nvim-strike-through)
 - [tronikelis/caser.nvim](https://github.com/tronikelis/caser.nvim) ![](https://img.shields.io/github/stars/tronikelis/caser.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/caser.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/caser.nvim)
 - [madmaxieee/camelsnek.nvim](https://github.com/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/stars/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/camelsnek.nvim)
+- [amano-takahisa/case-transform.nvim](https://github.com/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/stars/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/last-commit/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/commit-activity/y/amano-takahisa/case-transform.nvim)
 
 ### Convert Word
 
@@ -124,6 +125,7 @@
 
 - [jsongerber/nvim-px-to-rem](https://github.com/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/stars/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/last-commit/jsongerber/nvim-px-to-rem) ![](https://img.shields.io/github/commit-activity/y/jsongerber/nvim-px-to-rem)
 - [lko3001/px2rem.nvim](https://github.com/lko3001/px2rem.nvim) ![](https://img.shields.io/github/stars/lko3001/px2rem.nvim) ![](https://img.shields.io/github/last-commit/lko3001/px2rem.nvim) ![](https://img.shields.io/github/commit-activity/y/lko3001/px2rem.nvim)
+- [DaanHoogendoorn/px-to-rem.nvim](https://github.com/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/stars/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/last-commit/DaanHoogendoorn/px-to-rem.nvim) ![](https://img.shields.io/github/commit-activity/y/DaanHoogendoorn/px-to-rem.nvim)
 
 ### JSON -> TypeScript
 

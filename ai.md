@@ -33,6 +33,7 @@
   - [Mentat](#mentat)
   - [Worker AI](#worker-ai)
   - [Codeium](#codeium)
+  - [Compass](#compass)
   - [Zeke](#zeke)
   - [Groq](#groq)
   - [Gen42 AI](#gen42-ai)
@@ -448,6 +449,10 @@
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
 
+### Compass
+
+- [KohlJary/nvim-compass](https://github.com/KohlJary/nvim-compass) ![](https://img.shields.io/github/stars/KohlJary/nvim-compass) ![](https://img.shields.io/github/last-commit/KohlJary/nvim-compass) ![](https://img.shields.io/github/commit-activity/y/KohlJary/nvim-compass)
+
 ### Zeke
 
 - [GhostKellz/zeke.nvim](https://github.com/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/stars/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/zeke.nvim)
@@ -656,6 +661,7 @@
 - [HueGreywell/context-gen.nvim](https://github.com/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/stars/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/last-commit/HueGreywell/context-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/HueGreywell/context-gen.nvim)
 - [Dzejkop/context-maestro.nvim](https://github.com/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/stars/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/context-maestro.nvim)
 - [rdainton/share-context.nvim](https://github.com/rdainton/share-context.nvim) ![](https://img.shields.io/github/stars/rdainton/share-context.nvim) ![](https://img.shields.io/github/last-commit/rdainton/share-context.nvim) ![](https://img.shields.io/github/commit-activity/y/rdainton/share-context.nvim)
+- [WarrenZhu050413/nvim-get-ref](https://github.com/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-get-ref)
 
 ## LLM context
 
