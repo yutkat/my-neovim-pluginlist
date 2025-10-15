@@ -69,6 +69,7 @@
   - [Audio](#audio)
     - [SuperCollider](#supercollider)
     - [LilyPond](#lilypond)
+    - [Text-to-speech](#text-to-speech)
   - [Core dump](#core-dump)
   - [dump file](#dump-file)
 - [Proprietary Software](#proprietary-software)
@@ -442,6 +443,10 @@
 #### LilyPond
 
 - [martineausimon/nvim-lilypond-suite](https://github.com/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/stars/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/last-commit/martineausimon/nvim-lilypond-suite) ![](https://img.shields.io/github/commit-activity/y/martineausimon/nvim-lilypond-suite)
+
+#### Text-to-speech
+
+- [chriswritescode-dev/tts.nvim](https://github.com/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/tts.nvim)
 
 ### Core dump
 
