@@ -16,6 +16,7 @@
 - [paradoxskin/boringBubble.nvim](https://github.com/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/stars/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/last-commit/paradoxskin/boringBubble.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxskin/boringBubble.nvim)
 - [V-U-Simon/power_emoji.nvim](https://github.com/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/stars/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/last-commit/V-U-Simon/power_emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/V-U-Simon/power_emoji.nvim)
 - [amanbabuhemant/aneo.nvim](https://github.com/amanbabuhemant/aneo.nvim) ![](https://img.shields.io/github/stars/amanbabuhemant/aneo.nvim) ![](https://img.shields.io/github/last-commit/amanbabuhemant/aneo.nvim) ![](https://img.shields.io/github/commit-activity/y/amanbabuhemant/aneo.nvim)
+- [68mschmitt/custom-cellular-automaton.nvim](https://github.com/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/stars/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/custom-cellular-automaton.nvim)
 
 ### Snow effect
 

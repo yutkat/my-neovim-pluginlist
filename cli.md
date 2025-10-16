@@ -118,6 +118,7 @@
 - [yuki-yano/smart-tmux-nav.nvim](https://github.com/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/stars/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/smart-tmux-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/smart-tmux-nav.nvim)
 - [chiendo97/tmux-buffer-picker.nvim](https://github.com/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/stars/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/tmux-buffer-picker.nvim)
 - [RaphaeleL/hartoon.nvim](https://github.com/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/stars/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/last-commit/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/commit-activity/y/RaphaeleL/hartoon.nvim)
+- [lfrati/szent.nvim](https://github.com/lfrati/szent.nvim) ![](https://img.shields.io/github/stars/lfrati/szent.nvim) ![](https://img.shields.io/github/last-commit/lfrati/szent.nvim) ![](https://img.shields.io/github/commit-activity/y/lfrati/szent.nvim)
 
 ##### tmux alternative
 

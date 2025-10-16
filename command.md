@@ -47,6 +47,7 @@
 #### execute from buffer
 
 - [TheK4n/postman.nvim](https://github.com/TheK4n/postman.nvim) ![](https://img.shields.io/github/stars/TheK4n/postman.nvim) ![](https://img.shields.io/github/last-commit/TheK4n/postman.nvim) ![](https://img.shields.io/github/commit-activity/y/TheK4n/postman.nvim)
+- [calebbray/requester.nvim](https://github.com/calebbray/requester.nvim) ![](https://img.shields.io/github/stars/calebbray/requester.nvim) ![](https://img.shields.io/github/last-commit/calebbray/requester.nvim) ![](https://img.shields.io/github/commit-activity/y/calebbray/requester.nvim)
 
 ### HTTP Request
 
