@@ -144,6 +144,7 @@
 ### Send
 
 - [evanbattaglia/sendtoterm.nvim](https://github.com/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/stars/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/last-commit/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/evanbattaglia/sendtoterm.nvim)
+- [lfrati/szent.nvim](https://github.com/lfrati/szent.nvim) ![](https://img.shields.io/github/stars/lfrati/szent.nvim) ![](https://img.shields.io/github/last-commit/lfrati/szent.nvim) ![](https://img.shields.io/github/commit-activity/y/lfrati/szent.nvim)
 
 ### Mapping
 

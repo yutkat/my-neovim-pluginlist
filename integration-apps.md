@@ -324,6 +324,7 @@
 - [clavery/nvim-sfcc](https://github.com/clavery/nvim-sfcc) ![](https://img.shields.io/github/stars/clavery/nvim-sfcc) ![](https://img.shields.io/github/last-commit/clavery/nvim-sfcc) ![](https://img.shields.io/github/commit-activity/y/clavery/nvim-sfcc)
 - [PreziosiRaffaele/nvim-apex-coverage](https://github.com/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/stars/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/nvim-apex-coverage)
 - [PreziosiRaffaele/apex-log-analyzer.nvim](https://github.com/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/apex-log-analyzer.nvim)
+- [palecore/brocade.nvim](https://github.com/palecore/brocade.nvim) ![](https://img.shields.io/github/stars/palecore/brocade.nvim) ![](https://img.shields.io/github/last-commit/palecore/brocade.nvim) ![](https://img.shields.io/github/commit-activity/y/palecore/brocade.nvim)
 
 ##### Microsoft Dynamics 365 Business Central
 

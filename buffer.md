@@ -150,6 +150,7 @@
 - [OleJoik/icebar.nvim](https://github.com/OleJoik/icebar.nvim) ![](https://img.shields.io/github/stars/OleJoik/icebar.nvim) ![](https://img.shields.io/github/last-commit/OleJoik/icebar.nvim) ![](https://img.shields.io/github/commit-activity/y/OleJoik/icebar.nvim)
 - [kampanaut/cavediver](https://github.com/kampanaut/cavediver) ![](https://img.shields.io/github/stars/kampanaut/cavediver) ![](https://img.shields.io/github/last-commit/kampanaut/cavediver) ![](https://img.shields.io/github/commit-activity/y/kampanaut/cavediver)
 - [Jaehaks/bufman.nvim](https://github.com/Jaehaks/bufman.nvim) ![](https://img.shields.io/github/stars/Jaehaks/bufman.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/bufman.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/bufman.nvim)
+- [marwndev/nextfile.nvim](https://github.com/marwndev/nextfile.nvim) ![](https://img.shields.io/github/stars/marwndev/nextfile.nvim) ![](https://img.shields.io/github/last-commit/marwndev/nextfile.nvim) ![](https://img.shields.io/github/commit-activity/y/marwndev/nextfile.nvim)
 
 #### create
 
