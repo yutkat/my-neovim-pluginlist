@@ -75,7 +75,6 @@
 - [fmpisantos/pack.nvim](https://github.com/fmpisantos/pack.nvim) ![](https://img.shields.io/github/stars/fmpisantos/pack.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/pack.nvim)
 - [mezdelex/unpack](https://github.com/mezdelex/unpack) ![](https://img.shields.io/github/stars/mezdelex/unpack) ![](https://img.shields.io/github/last-commit/mezdelex/unpack) ![](https://img.shields.io/github/commit-activity/y/mezdelex/unpack)
 - [Lumetas/lnpm.nvim](https://github.com/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/stars/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lnpm.nvim)
-- [onaforeignshore/plugman.nvim](https://github.com/onaforeignshore/plugman.nvim) ![](https://img.shields.io/github/stars/onaforeignshore/plugman.nvim) ![](https://img.shields.io/github/last-commit/onaforeignshore/plugman.nvim) ![](https://img.shields.io/github/commit-activity/y/onaforeignshore/plugman.nvim)
 
 ### Update checker
 
