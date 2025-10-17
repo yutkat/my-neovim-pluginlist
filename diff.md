@@ -23,6 +23,7 @@
 - [sminrana/nvim-filediff](https://github.com/sminrana/nvim-filediff) ![](https://img.shields.io/github/stars/sminrana/nvim-filediff) ![](https://img.shields.io/github/last-commit/sminrana/nvim-filediff) ![](https://img.shields.io/github/commit-activity/y/sminrana/nvim-filediff)
 - [santhosh-tekuri/wordiff.nvim](https://github.com/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/wordiff.nvim)
 - [mcauley-penney/intraline-diff.nvim](https://github.com/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/intraline-diff.nvim)
+- [ahkohd/difft.nvim](https://github.com/ahkohd/difft.nvim) ![](https://img.shields.io/github/stars/ahkohd/difft.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/difft.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/difft.nvim)
 
 ### Diff Register
 
