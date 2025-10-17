@@ -243,6 +243,7 @@
 - [ha100/thor.nvim](https://github.com/ha100/thor.nvim) ![](https://img.shields.io/github/stars/ha100/thor.nvim) ![](https://img.shields.io/github/last-commit/ha100/thor.nvim) ![](https://img.shields.io/github/commit-activity/y/ha100/thor.nvim)
 - [tornikegomareli/swiftbuild.nvim](https://github.com/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/stars/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/last-commit/tornikegomareli/swiftbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/tornikegomareli/swiftbuild.nvim)
 - [okwasniewski/xcode-build-server.nvim](https://github.com/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/stars/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/last-commit/okwasniewski/xcode-build-server.nvim) ![](https://img.shields.io/github/commit-activity/y/okwasniewski/xcode-build-server.nvim)
+- [devswiftzone/swift.nvim](https://github.com/devswiftzone/swift.nvim) ![](https://img.shields.io/github/stars/devswiftzone/swift.nvim) ![](https://img.shields.io/github/last-commit/devswiftzone/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/devswiftzone/swift.nvim)
 
 ##### SwiftLint
 

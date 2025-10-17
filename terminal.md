@@ -131,6 +131,7 @@
 - [rkb121541/floaterminal.nvim](https://github.com/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/stars/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rkb121541/floaterminal.nvim)
 - [TungstnBallon/split-term.nvim](https://github.com/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/split-term.nvim)
 - [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
+- [saya-ashen/termbuffer.nvim](https://github.com/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/stars/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/termbuffer.nvim)
 
 ### Edit
 
