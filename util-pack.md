@@ -38,6 +38,7 @@
 - [modulomedito/rookie_toys.nvim](https://github.com/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_toys.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_toys.nvim)
 - [7h145/tutils.nvim](https://github.com/7h145/tutils.nvim) ![](https://img.shields.io/github/stars/7h145/tutils.nvim) ![](https://img.shields.io/github/last-commit/7h145/tutils.nvim) ![](https://img.shields.io/github/commit-activity/y/7h145/tutils.nvim)
 - [twhlynch/nvim-plugins](https://github.com/twhlynch/nvim-plugins) ![](https://img.shields.io/github/stars/twhlynch/nvim-plugins) ![](https://img.shields.io/github/last-commit/twhlynch/nvim-plugins) ![](https://img.shields.io/github/commit-activity/y/twhlynch/nvim-plugins)
+- [patrickswijgman/wizard.nvim](https://github.com/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/wizard.nvim)
 
 ## UI
 
