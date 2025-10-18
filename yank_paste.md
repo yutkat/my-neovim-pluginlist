@@ -120,6 +120,7 @@
 - [FireIsGood/nvim-clear-registers](https://github.com/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/stars/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/last-commit/FireIsGood/nvim-clear-registers) ![](https://img.shields.io/github/commit-activity/y/FireIsGood/nvim-clear-registers)
 - [ravibrock/regisfilter.nvim](https://github.com/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/stars/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/regisfilter.nvim)
 - [sunesimonsen/killring.nvim](https://github.com/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/killring.nvim)
+- [Skyppex/punch-card.nvim](https://github.com/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/stars/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/punch-card.nvim)
 
 ### Lock Register
 

@@ -135,6 +135,7 @@
 - [grecodavide/file_browser.nvim](https://github.com/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/stars/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/last-commit/grecodavide/file_browser.nvim) ![](https://img.shields.io/github/commit-activity/y/grecodavide/file_browser.nvim)
 - [JonLD/snacks-file-browser.nvim](https://github.com/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/stars/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/last-commit/JonLD/snacks-file-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/JonLD/snacks-file-browser.nvim)
 - [alexmccray23/filebrowser-picker.nvim](https://github.com/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/stars/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/last-commit/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/alexmccray23/filebrowser-picker.nvim)
+- [68mschmitt/DirQuest.nvim](https://github.com/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/stars/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/DirQuest.nvim)
 
 ### Emacs style
 
