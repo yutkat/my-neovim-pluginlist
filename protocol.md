@@ -14,6 +14,7 @@
   - [Hurl](#hurl)
   - [Graphql](#graphql)
   - [WebSocket](#websocket)
+  - [MQTT](#mqtt)
   - [webrcp](#webrcp)
   - [httpyac](#httpyac)
   - [HL7](#hl7)
@@ -68,6 +69,7 @@
 #### OpenAPI
 
 - [codeasashu/oas.nvim](https://github.com/codeasashu/oas.nvim) ![](https://img.shields.io/github/stars/codeasashu/oas.nvim) ![](https://img.shields.io/github/last-commit/codeasashu/oas.nvim) ![](https://img.shields.io/github/commit-activity/y/codeasashu/oas.nvim)
+- [SanoLitch/rest-gen.nvim](https://github.com/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/stars/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/last-commit/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/SanoLitch/rest-gen.nvim)
 
 ### Protocol buffer
 
@@ -90,6 +92,10 @@
 
 - [niels4/websocket-text-relay.nvim](https://github.com/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/stars/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/last-commit/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/websocket-text-relay.nvim)
 - [mtkld/wswrite.nvim](https://github.com/mtkld/wswrite.nvim) ![](https://img.shields.io/github/stars/mtkld/wswrite.nvim) ![](https://img.shields.io/github/last-commit/mtkld/wswrite.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/wswrite.nvim)
+
+### MQTT
+
+- [thgrass/mqtt.nvim](https://github.com/thgrass/mqtt.nvim) ![](https://img.shields.io/github/stars/thgrass/mqtt.nvim) ![](https://img.shields.io/github/last-commit/thgrass/mqtt.nvim) ![](https://img.shields.io/github/commit-activity/y/thgrass/mqtt.nvim)
 
 ### webrcp
 
