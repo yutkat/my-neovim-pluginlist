@@ -136,6 +136,7 @@
 - [HiPhish/fennel-repl.nvim](https://github.com/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/stars/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/fennel-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/fennel-repl.nvim)
 - [whazzabii7/lua-fennel-lens.nvim](https://github.com/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/stars/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/last-commit/whazzabii7/lua-fennel-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/whazzabii7/lua-fennel-lens.nvim)
 - [curist/fennel-indent.nvim](https://github.com/curist/fennel-indent.nvim) ![](https://img.shields.io/github/stars/curist/fennel-indent.nvim) ![](https://img.shields.io/github/last-commit/curist/fennel-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/curist/fennel-indent.nvim)
+- [aileot/nvim-thyme](https://github.com/aileot/nvim-thyme) ![](https://img.shields.io/github/stars/aileot/nvim-thyme) ![](https://img.shields.io/github/last-commit/aileot/nvim-thyme) ![](https://img.shields.io/github/commit-activity/y/aileot/nvim-thyme)
 
 ## Rust
 
