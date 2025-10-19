@@ -36,6 +36,7 @@
 
 - [franpfeiffer/worklog.nvim](https://github.com/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/stars/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/last-commit/franpfeiffer/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/franpfeiffer/worklog.nvim)
 - [phanen/undotree-plus.nvim](https://github.com/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/stars/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/last-commit/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/undotree-plus.nvim)
+- [sgraves76/nvim-haven](https://github.com/sgraves76/nvim-haven) ![](https://img.shields.io/github/stars/sgraves76/nvim-haven) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-haven) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-haven)
 
 ### Cursor Position
 
