@@ -55,6 +55,7 @@
 - [lemarsu/sops.nvim](https://github.com/lemarsu/sops.nvim) ![](https://img.shields.io/github/stars/lemarsu/sops.nvim) ![](https://img.shields.io/github/last-commit/lemarsu/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/lemarsu/sops.nvim)
 - [diogo464/sops.nvim](https://github.com/diogo464/sops.nvim) ![](https://img.shields.io/github/stars/diogo464/sops.nvim) ![](https://img.shields.io/github/last-commit/diogo464/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/diogo464/sops.nvim)
 - [BB223/redact_pass.nvim](https://github.com/BB223/redact_pass.nvim) ![](https://img.shields.io/github/stars/BB223/redact_pass.nvim) ![](https://img.shields.io/github/last-commit/BB223/redact_pass.nvim) ![](https://img.shields.io/github/commit-activity/y/BB223/redact_pass.nvim)
+- [anokfireball/sops-edit.nvim](https://github.com/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/stars/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/last-commit/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/anokfireball/sops-edit.nvim)
 
 ### Password Manager
 

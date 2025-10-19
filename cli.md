@@ -119,6 +119,7 @@
 - [chiendo97/tmux-buffer-picker.nvim](https://github.com/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/stars/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/tmux-buffer-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/tmux-buffer-picker.nvim)
 - [RaphaeleL/hartoon.nvim](https://github.com/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/stars/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/last-commit/RaphaeleL/hartoon.nvim) ![](https://img.shields.io/github/commit-activity/y/RaphaeleL/hartoon.nvim)
 - [lfrati/szent.nvim](https://github.com/lfrati/szent.nvim) ![](https://img.shields.io/github/stars/lfrati/szent.nvim) ![](https://img.shields.io/github/last-commit/lfrati/szent.nvim) ![](https://img.shields.io/github/commit-activity/y/lfrati/szent.nvim)
+- [jmpTeixeira02/tmux-sesh.nvim](https://github.com/jmpTeixeira02/tmux-sesh.nvim) ![](https://img.shields.io/github/stars/jmpTeixeira02/tmux-sesh.nvim) ![](https://img.shields.io/github/last-commit/jmpTeixeira02/tmux-sesh.nvim) ![](https://img.shields.io/github/commit-activity/y/jmpTeixeira02/tmux-sesh.nvim)
 
 ##### tmux alternative
 
