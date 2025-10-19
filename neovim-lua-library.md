@@ -173,6 +173,7 @@
   - [grapp-dev/nui-components.nvim](https://github.com/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/stars/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/last-commit/grapp-dev/nui-components.nvim) ![](https://img.shields.io/github/commit-activity/y/grapp-dev/nui-components.nvim)
 - [comfysage/yosu.nvim](https://github.com/comfysage/yosu.nvim) ![](https://img.shields.io/github/stars/comfysage/yosu.nvim) ![](https://img.shields.io/github/last-commit/comfysage/yosu.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/yosu.nvim)
 - [Rizwanelansyah/windui.nvim](https://github.com/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/windui.nvim)
+- [jrop/morph.nvim](https://github.com/jrop/morph.nvim) ![](https://img.shields.io/github/stars/jrop/morph.nvim) ![](https://img.shields.io/github/last-commit/jrop/morph.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/morph.nvim)
 
 ### Window
 
