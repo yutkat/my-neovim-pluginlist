@@ -362,6 +362,7 @@
 - [TiagoMDG/react-comp-gen.nvim](https://github.com/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/stars/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/last-commit/TiagoMDG/react-comp-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/TiagoMDG/react-comp-gen.nvim)
 - [harisb2012/tsnest.nvim](https://github.com/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/stars/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/last-commit/harisb2012/tsnest.nvim) ![](https://img.shields.io/github/commit-activity/y/harisb2012/tsnest.nvim)
 - [Matt-Boeren/reactToolkit.nvim](https://github.com/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/stars/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/last-commit/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Matt-Boeren/reactToolkit.nvim)
+- [Kenzo-Wada/boundary.nvim](https://github.com/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/stars/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/last-commit/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/Kenzo-Wada/boundary.nvim)
 
 #### Next.js
 
