@@ -145,6 +145,7 @@
 - [devEducaua/crun.nvim](https://github.com/devEducaua/crun.nvim) ![](https://img.shields.io/github/stars/devEducaua/crun.nvim) ![](https://img.shields.io/github/last-commit/devEducaua/crun.nvim) ![](https://img.shields.io/github/commit-activity/y/devEducaua/crun.nvim)
 - [jmattaa/fire.nvim](https://github.com/jmattaa/fire.nvim) ![](https://img.shields.io/github/stars/jmattaa/fire.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/fire.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/fire.nvim)
 - [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
+- [mr-zorbot/simple-runner.nvim](https://github.com/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/stars/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/last-commit/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-zorbot/simple-runner.nvim)
 
 #### Shell
 
@@ -188,7 +189,6 @@
 - [immanelg/simple-compilation-mode.nvim](https://github.com/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/stars/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/last-commit/immanelg/simple-compilation-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/immanelg/simple-compilation-mode.nvim)
 - [diniamo/run.nvim](https://github.com/diniamo/run.nvim) ![](https://img.shields.io/github/stars/diniamo/run.nvim) ![](https://img.shields.io/github/last-commit/diniamo/run.nvim) ![](https://img.shields.io/github/commit-activity/y/diniamo/run.nvim)
 - [castlele/build.nvim](https://github.com/castlele/build.nvim) ![](https://img.shields.io/github/stars/castlele/build.nvim) ![](https://img.shields.io/github/last-commit/castlele/build.nvim) ![](https://img.shields.io/github/commit-activity/y/castlele/build.nvim)
-- [mr-zorbot/simple-runner.nvim](https://github.com/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/stars/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/last-commit/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-zorbot/simple-runner.nvim)
 - [joalon/easyexec.nvim](https://github.com/joalon/easyexec.nvim) ![](https://img.shields.io/github/stars/joalon/easyexec.nvim) ![](https://img.shields.io/github/last-commit/joalon/easyexec.nvim) ![](https://img.shields.io/github/commit-activity/y/joalon/easyexec.nvim)
 - [nexcov/compile-mode.nvim](https://github.com/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/stars/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/nexcov/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/nexcov/compile-mode.nvim)
 - [suvasanket/oz.nvim](https://github.com/suvasanket/oz.nvim) ![](https://img.shields.io/github/stars/suvasanket/oz.nvim) ![](https://img.shields.io/github/last-commit/suvasanket/oz.nvim) ![](https://img.shields.io/github/commit-activity/y/suvasanket/oz.nvim)
