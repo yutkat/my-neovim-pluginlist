@@ -97,6 +97,7 @@
 
 - [neysanfoo/party.nvim](https://github.com/neysanfoo/party.nvim) ![](https://img.shields.io/github/stars/neysanfoo/party.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/party.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/party.nvim)
 - [Django0033/tangled-worlds.nvim](https://github.com/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/stars/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/last-commit/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/tangled-worlds.nvim)
+- [Django0033/dice-roller.nvim](https://github.com/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/stars/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/last-commit/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/dice-roller.nvim)
 
 ### Training
 

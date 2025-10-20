@@ -76,6 +76,7 @@
 - [mezdelex/unpack](https://github.com/mezdelex/unpack) ![](https://img.shields.io/github/stars/mezdelex/unpack) ![](https://img.shields.io/github/last-commit/mezdelex/unpack) ![](https://img.shields.io/github/commit-activity/y/mezdelex/unpack)
 - [Lumetas/lnpm.nvim](https://github.com/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/stars/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lnpm.nvim)
 - [gopyts/pm.nvim](https://github.com/gopyts/pm.nvim) ![](https://img.shields.io/github/stars/gopyts/pm.nvim) ![](https://img.shields.io/github/last-commit/gopyts/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/gopyts/pm.nvim)
+- [onaforeignshore/packman.nvim](https://github.com/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/stars/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/last-commit/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/onaforeignshore/packman.nvim)
 
 ### Update checker
 

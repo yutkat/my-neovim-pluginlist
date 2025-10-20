@@ -329,6 +329,7 @@
 - [mrexox/github-open.nvim](https://github.com/mrexox/github-open.nvim) ![](https://img.shields.io/github/stars/mrexox/github-open.nvim) ![](https://img.shields.io/github/last-commit/mrexox/github-open.nvim) ![](https://img.shields.io/github/commit-activity/y/mrexox/github-open.nvim)
 - [ipetrovbg/nvim-gh-browse](https://github.com/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/stars/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/last-commit/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/commit-activity/y/ipetrovbg/nvim-gh-browse)
 - [jcger/git-open.nvim](https://github.com/jcger/git-open.nvim) ![](https://img.shields.io/github/stars/jcger/git-open.nvim) ![](https://img.shields.io/github/last-commit/jcger/git-open.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/git-open.nvim)
+- [andi242/gitopen.nvim](https://github.com/andi242/gitopen.nvim) ![](https://img.shields.io/github/stars/andi242/gitopen.nvim) ![](https://img.shields.io/github/last-commit/andi242/gitopen.nvim) ![](https://img.shields.io/github/commit-activity/y/andi242/gitopen.nvim)
 
 ### git switch
 
