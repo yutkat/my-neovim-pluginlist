@@ -71,6 +71,7 @@
 ### debug
 
 - [goropikari/nvim-dap-golang](https://github.com/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/stars/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/last-commit/goropikari/nvim-dap-golang) ![](https://img.shields.io/github/commit-activity/y/goropikari/nvim-dap-golang)
+- [sergei-durkin/gobjdump.nvim](https://github.com/sergei-durkin/gobjdump.nvim) ![](https://img.shields.io/github/stars/sergei-durkin/gobjdump.nvim) ![](https://img.shields.io/github/last-commit/sergei-durkin/gobjdump.nvim) ![](https://img.shields.io/github/commit-activity/y/sergei-durkin/gobjdump.nvim)
 
 ### Completion
 

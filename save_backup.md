@@ -31,6 +31,7 @@
 - [syui/airsave.nvim](https://github.com/syui/airsave.nvim) ![](https://img.shields.io/github/stars/syui/airsave.nvim) ![](https://img.shields.io/github/last-commit/syui/airsave.nvim) ![](https://img.shields.io/github/commit-activity/y/syui/airsave.nvim)
 - [nxhung2304/auto-save.nvim](https://github.com/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/stars/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/auto-save.nvim)
 - [glacials/last-look.nvim](https://github.com/glacials/last-look.nvim) ![](https://img.shields.io/github/stars/glacials/last-look.nvim) ![](https://img.shields.io/github/last-commit/glacials/last-look.nvim) ![](https://img.shields.io/github/commit-activity/y/glacials/last-look.nvim)
+- [jaswdr/nvim-auto-save](https://github.com/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/stars/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/last-commit/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/commit-activity/y/jaswdr/nvim-auto-save)
 
 ### Edit history
 

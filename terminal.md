@@ -97,6 +97,7 @@
 - [LuxVim/nvim-luxterm](https://github.com/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxterm) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxterm)
 - [hsanson/tmux-terminal.nvim](https://github.com/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/stars/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/last-commit/hsanson/tmux-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/hsanson/tmux-terminal.nvim)
 - [vivek-x-jha/nvim-terminal](https://github.com/vivek-x-jha/nvim-terminal) ![](https://img.shields.io/github/stars/vivek-x-jha/nvim-terminal) ![](https://img.shields.io/github/last-commit/vivek-x-jha/nvim-terminal) ![](https://img.shields.io/github/commit-activity/y/vivek-x-jha/nvim-terminal)
+- [ywbrian/nvim-term](https://github.com/ywbrian/nvim-term) ![](https://img.shields.io/github/stars/ywbrian/nvim-term) ![](https://img.shields.io/github/last-commit/ywbrian/nvim-term) ![](https://img.shields.io/github/commit-activity/y/ywbrian/nvim-term)
 
 ### Open
 
