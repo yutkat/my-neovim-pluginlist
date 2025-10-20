@@ -72,6 +72,7 @@
   - [Textile](#textile)
   - [Jekyll](#jekyll)
   - [docusaurus](#docusaurus)
+  - [smoothsafe](#smoothsafe)
 - [Code documentaion](#code-documentaion)
 - [Dadoot](#dadoot)
 - [Johnny Decimal](#johnny-decimal)
@@ -104,6 +105,7 @@
 - [erel213/markdown-writer.nvim](https://github.com/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/stars/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/last-commit/erel213/markdown-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/erel213/markdown-writer.nvim)
 - [Jaehaks/md-utility.nvim](https://github.com/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/stars/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/md-utility.nvim)
 - [OscarHUDalby/nvim-simd](https://github.com/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/stars/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/last-commit/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/commit-activity/y/OscarHUDalby/nvim-simd)
+- [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/stars/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/last-commit/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/YousefHadder/markdown-plus.nvim)
 
 #### Markdown link
 
@@ -120,7 +122,6 @@
 - [samerickson/markdown-title-fetch.nvim](https://github.com/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/stars/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/last-commit/samerickson/markdown-title-fetch.nvim) ![](https://img.shields.io/github/commit-activity/y/samerickson/markdown-title-fetch.nvim)
 - [Praczet/markdown-links.nvim](https://github.com/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/stars/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/Praczet/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/markdown-links.nvim)
 - [nounder/markdown-snip.nvim](https://github.com/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/stars/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/last-commit/nounder/markdown-snip.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/markdown-snip.nvim)
- 
 
 #### Markdown header
 
@@ -135,7 +136,6 @@
 - [samuelstranges/markdown_indent.nvim](https://github.com/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/stars/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/markdown_indent.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/markdown_indent.nvim)
 - [logno-dev/header-level.nvim](https://github.com/logno-dev/header-level.nvim) ![](https://img.shields.io/github/stars/logno-dev/header-level.nvim) ![](https://img.shields.io/github/last-commit/logno-dev/header-level.nvim) ![](https://img.shields.io/github/commit-activity/y/logno-dev/header-level.nvim)
 - [alexhokl/nvim-md-header-telescope-picker](https://github.com/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/stars/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-md-header-telescope-picker) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-md-header-telescope-picker)
-
 
 ##### Title explorer
 
@@ -154,7 +154,7 @@
 - [yousefakbar/toc.nvim](https://github.com/yousefakbar/toc.nvim) ![](https://img.shields.io/github/stars/yousefakbar/toc.nvim) ![](https://img.shields.io/github/last-commit/yousefakbar/toc.nvim) ![](https://img.shields.io/github/commit-activity/y/yousefakbar/toc.nvim)
 - [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
- - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
+- [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 
 #### highlight
 
@@ -465,6 +465,7 @@
 - [jghauser/auto-pandoc.nvim](https://github.com/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/stars/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/last-commit/jghauser/auto-pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/auto-pandoc.nvim)
 - [kdheepak/panvimdoc](https://github.com/kdheepak/panvimdoc) ![](https://img.shields.io/github/stars/kdheepak/panvimdoc) ![](https://img.shields.io/github/last-commit/kdheepak/panvimdoc) ![](https://img.shields.io/github/commit-activity/y/kdheepak/panvimdoc)
 - [Bekaboo/gen-vimdoc.nvim](https://github.com/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/stars/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/last-commit/Bekaboo/gen-vimdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/Bekaboo/gen-vimdoc.nvim)
+- [OXY2DEV/markdoc.nvim](https://github.com/OXY2DEV/markdoc.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/markdoc.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/markdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/markdoc.nvim)
 
 ### Tex
 
