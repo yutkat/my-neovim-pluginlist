@@ -56,7 +56,6 @@
 - [quiet-ghost/cht-sh.nvim](https://github.com/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/cht-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/cht-sh.nvim)
 - [mikelue/telescope-cheat.nvim](https://github.com/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/stars/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/last-commit/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/mikelue/telescope-cheat.nvim)
 - [CleverNamesTaken/pizza_chit.nvim](https://github.com/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/stars/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/last-commit/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/commit-activity/y/CleverNamesTaken/pizza_chit.nvim)
-- [El3ssar/nvcheatsheet.nvim](https://github.com/El3ssar/nvcheatsheet.nvim) ![](https://img.shields.io/github/stars/El3ssar/nvcheatsheet.nvim) ![](https://img.shields.io/github/last-commit/El3ssar/nvcheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/El3ssar/nvcheatsheet.nvim)
 
 ### Tips
 

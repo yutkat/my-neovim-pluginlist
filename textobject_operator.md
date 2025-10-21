@@ -91,6 +91,7 @@
 - [yumafuu/oat.nvim](https://github.com/yumafuu/oat.nvim) ![](https://img.shields.io/github/stars/yumafuu/oat.nvim) ![](https://img.shields.io/github/last-commit/yumafuu/oat.nvim) ![](https://img.shields.io/github/commit-activity/y/yumafuu/oat.nvim)
 - [Piotr1215/beam.nvim](https://github.com/Piotr1215/beam.nvim) ![](https://img.shields.io/github/stars/Piotr1215/beam.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/beam.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/beam.nvim)
 - [thomasgustavo/paste-operator.nvim](https://github.com/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/stars/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/last-commit/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/commit-activity/y/thomasgustavo/paste-operator.nvim)
+- [johk06/nvim-cut-out](https://github.com/johk06/nvim-cut-out) ![](https://img.shields.io/github/stars/johk06/nvim-cut-out) ![](https://img.shields.io/github/last-commit/johk06/nvim-cut-out) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-cut-out)
 
 ### Replace
 

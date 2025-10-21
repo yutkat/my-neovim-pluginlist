@@ -246,6 +246,7 @@
 - [BeatScherrer/just.nvim](https://github.com/BeatScherrer/just.nvim) ![](https://img.shields.io/github/stars/BeatScherrer/just.nvim) ![](https://img.shields.io/github/last-commit/BeatScherrer/just.nvim) ![](https://img.shields.io/github/commit-activity/y/BeatScherrer/just.nvim)
 - [al1-ce/just.nvim](https://github.com/al1-ce/just.nvim) ![](https://img.shields.io/github/stars/al1-ce/just.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/just.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/just.nvim)
 - [adriangitvitz/pm.nvim](https://github.com/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/stars/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/last-commit/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/adriangitvitz/pm.nvim)
+- [fcying/just.nvim](https://github.com/fcying/just.nvim) ![](https://img.shields.io/github/stars/fcying/just.nvim) ![](https://img.shields.io/github/last-commit/fcying/just.nvim) ![](https://img.shields.io/github/commit-activity/y/fcying/just.nvim)
 
 #### Taskfile
 
@@ -262,7 +263,6 @@
 ### Specific runner
 
 - [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/static.nvim)
-- [fcying/just.nvim](https://github.com/fcying/just.nvim) ![](https://img.shields.io/github/stars/fcying/just.nvim) ![](https://img.shields.io/github/last-commit/fcying/just.nvim) ![](https://img.shields.io/github/commit-activity/y/fcying/just.nvim)
 
 ### Partial execution
 
