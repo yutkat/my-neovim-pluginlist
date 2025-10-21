@@ -32,6 +32,7 @@
 - [nxhung2304/auto-save.nvim](https://github.com/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/stars/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/auto-save.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/auto-save.nvim)
 - [glacials/last-look.nvim](https://github.com/glacials/last-look.nvim) ![](https://img.shields.io/github/stars/glacials/last-look.nvim) ![](https://img.shields.io/github/last-commit/glacials/last-look.nvim) ![](https://img.shields.io/github/commit-activity/y/glacials/last-look.nvim)
 - [jaswdr/nvim-auto-save](https://github.com/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/stars/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/last-commit/jaswdr/nvim-auto-save) ![](https://img.shields.io/github/commit-activity/y/jaswdr/nvim-auto-save)
+- [byitkc/autosave.nvim](https://github.com/byitkc/autosave.nvim) ![](https://img.shields.io/github/stars/byitkc/autosave.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autosave.nvim)
 
 ### Edit history
 

@@ -101,6 +101,7 @@
     - [Cyber](#cyber)
     - [Aeria](#aeria)
     - [Apple II](#apple-ii)
+    - [C64](#c64)
     - [Templaty](#templaty)
     - [Timur](#timur)
     - [Storm](#storm)
@@ -623,6 +624,10 @@
 #### Apple II
 
 - [dfgordon/nvim-a2-pack](https://github.com/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/stars/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/last-commit/dfgordon/nvim-a2-pack) ![](https://img.shields.io/github/commit-activity/y/dfgordon/nvim-a2-pack)
+
+#### C64
+
+- [cybersorcerer/c64.nvim](https://github.com/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/stars/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/last-commit/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/commit-activity/y/cybersorcerer/c64.nvim)
 
 #### Templaty
 
