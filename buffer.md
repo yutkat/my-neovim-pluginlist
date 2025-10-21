@@ -210,6 +210,7 @@
 - [kj-1809/previous-buffer.nvim](https://github.com/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/stars/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/last-commit/kj-1809/previous-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-1809/previous-buffer.nvim)
 - [TorrezMN/nvim_recent_file_picker.nvim](https://github.com/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/stars/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/last-commit/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/TorrezMN/nvim_recent_file_picker.nvim)
 - [mclean25/nvim-file-history](https://github.com/mclean25/nvim-file-history) ![](https://img.shields.io/github/stars/mclean25/nvim-file-history) ![](https://img.shields.io/github/last-commit/mclean25/nvim-file-history) ![](https://img.shields.io/github/commit-activity/y/mclean25/nvim-file-history)
+- [yuki-yano/snacks-smart-open.nvim](https://github.com/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-open.nvim)
 
 ##### remote open
 

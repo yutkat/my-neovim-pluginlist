@@ -109,6 +109,7 @@
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/refactoring.nvim)
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-refactor)
 - [ShifatHasanGNS/refactor.nvim](https://github.com/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/stars/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/last-commit/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/ShifatHasanGNS/refactor.nvim)
+- [johk06/nvim-cut-out](https://github.com/johk06/nvim-cut-out) ![](https://img.shields.io/github/stars/johk06/nvim-cut-out) ![](https://img.shields.io/github/last-commit/johk06/nvim-cut-out) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-cut-out)
 
 #### print debug
 

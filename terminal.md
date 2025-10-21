@@ -133,6 +133,7 @@
 - [TungstnBallon/split-term.nvim](https://github.com/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/stars/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/last-commit/TungstnBallon/split-term.nvim) ![](https://img.shields.io/github/commit-activity/y/TungstnBallon/split-term.nvim)
 - [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
 - [saya-ashen/termbuffer.nvim](https://github.com/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/stars/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/termbuffer.nvim)
+- [arne-vl/avl.nvim](https://github.com/arne-vl/avl.nvim) ![](https://img.shields.io/github/stars/arne-vl/avl.nvim) ![](https://img.shields.io/github/last-commit/arne-vl/avl.nvim) ![](https://img.shields.io/github/commit-activity/y/arne-vl/avl.nvim)
 
 ### Edit
 

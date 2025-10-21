@@ -158,6 +158,7 @@
 - [pittcat/codex.nvim](https://github.com/pittcat/codex.nvim) ![](https://img.shields.io/github/stars/pittcat/codex.nvim) ![](https://img.shields.io/github/last-commit/pittcat/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/codex.nvim)
 - [rhart92/codex.nvim](https://github.com/rhart92/codex.nvim) ![](https://img.shields.io/github/stars/rhart92/codex.nvim) ![](https://img.shields.io/github/last-commit/rhart92/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rhart92/codex.nvim)
 - [morre95/codex-resume.nvim](https://github.com/morre95/codex-resume.nvim) ![](https://img.shields.io/github/stars/morre95/codex-resume.nvim) ![](https://img.shields.io/github/last-commit/morre95/codex-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/codex-resume.nvim)
+- [kevinh-e/codex.nvim](https://github.com/kevinh-e/codex.nvim) ![](https://img.shields.io/github/stars/kevinh-e/codex.nvim) ![](https://img.shields.io/github/last-commit/kevinh-e/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinh-e/codex.nvim)
 
 #### Whisper
 
