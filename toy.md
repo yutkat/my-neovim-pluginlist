@@ -74,7 +74,6 @@
 
 ### Book
 
-- [thjbdvlt/retrolire.nvim](https://github.com/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/retrolire.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/retrolire.nvim)
 - [oleksiiluchnikov/eagle.nvim](https://github.com/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/eagle.nvim)
 
 ### Video
