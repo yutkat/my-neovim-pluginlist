@@ -140,7 +140,6 @@
 
 ### Stress test
 
-- [roirepus/nvim-stress-test](https://github.com/roirepus/nvim-stress-test) ![](https://img.shields.io/github/stars/roirepus/nvim-stress-test) ![](https://img.shields.io/github/last-commit/roirepus/nvim-stress-test) ![](https://img.shields.io/github/commit-activity/y/roirepus/nvim-stress-test)
 
 ### Line count
 
