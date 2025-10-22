@@ -52,6 +52,7 @@
 - [bwpge/colorful.nvim](https://github.com/bwpge/colorful.nvim) ![](https://img.shields.io/github/stars/bwpge/colorful.nvim) ![](https://img.shields.io/github/last-commit/bwpge/colorful.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/colorful.nvim)
 - [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
 - [racakenon/vscode-unicode-highlight.nvim](https://github.com/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/stars/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/last-commit/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/racakenon/vscode-unicode-highlight.nvim)
+- [vsuhanov/region-highlight.nvim](https://github.com/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/stars/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/vsuhanov/region-highlight.nvim)
 
 ### Delimiter
 

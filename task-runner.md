@@ -220,6 +220,7 @@
 - [rltyty/runit.nvim](https://github.com/rltyty/runit.nvim) ![](https://img.shields.io/github/stars/rltyty/runit.nvim) ![](https://img.shields.io/github/last-commit/rltyty/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/rltyty/runit.nvim)
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
 - [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
+- [Monster0506/universal_runner.nvim](https://github.com/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/stars/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/last-commit/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Monster0506/universal_runner.nvim)
 
 ### :make style
 
