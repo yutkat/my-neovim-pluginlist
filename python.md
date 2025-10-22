@@ -91,6 +91,7 @@
 - [13janderson/runner.nvim](https://github.com/13janderson/runner.nvim) ![](https://img.shields.io/github/stars/13janderson/runner.nvim) ![](https://img.shields.io/github/last-commit/13janderson/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/runner.nvim)
 - [richardhapb/pytest.nvim](https://github.com/richardhapb/pytest.nvim) ![](https://img.shields.io/github/stars/richardhapb/pytest.nvim) ![](https://img.shields.io/github/last-commit/richardhapb/pytest.nvim) ![](https://img.shields.io/github/commit-activity/y/richardhapb/pytest.nvim)
 - [CaetanoGenete/python-tools.nvim](https://github.com/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/stars/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/last-commit/CaetanoGenete/python-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/CaetanoGenete/python-tools.nvim)
+- [ocrosby/pytest-atlas.nvim](https://github.com/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/stars/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/last-commit/ocrosby/pytest-atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/ocrosby/pytest-atlas.nvim)
 
 #### jurigged
 
