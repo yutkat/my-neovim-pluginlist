@@ -408,6 +408,7 @@
 #### dotfiles
 
 - [ecasselton/polarbare.nvim](https://github.com/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/stars/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/last-commit/ecasselton/polarbare.nvim) ![](https://img.shields.io/github/commit-activity/y/ecasselton/polarbare.nvim)
+- [gassayping/fried-rice.nvim](https://github.com/gassayping/fried-rice.nvim) ![](https://img.shields.io/github/stars/gassayping/fried-rice.nvim) ![](https://img.shields.io/github/last-commit/gassayping/fried-rice.nvim) ![](https://img.shields.io/github/commit-activity/y/gassayping/fried-rice.nvim)
 
 ##### chezmoi
 
