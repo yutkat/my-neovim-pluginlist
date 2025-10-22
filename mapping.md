@@ -76,6 +76,7 @@
 - [va9iff/lil](https://github.com/va9iff/lil) ![](https://img.shields.io/github/stars/va9iff/lil) ![](https://img.shields.io/github/last-commit/va9iff/lil) ![](https://img.shields.io/github/commit-activity/y/va9iff/lil)
 - [piersolenski/plugin-addict.nvim](https://github.com/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/stars/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/plugin-addict.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/plugin-addict.nvim)
 - [HunterretnuH/map.nvim](https://github.com/HunterretnuH/map.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map.nvim)
+- [Hdoc1509/vim-map-side.nvim](https://github.com/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/vim-map-side.nvim)
 
 ### instant mapping
 

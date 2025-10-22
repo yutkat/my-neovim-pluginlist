@@ -42,6 +42,7 @@
 - [QuiiBz/pretty-quickfix.nvim](https://github.com/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/stars/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/last-commit/QuiiBz/pretty-quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/QuiiBz/pretty-quickfix.nvim)
 - [santhosh-tekuri/quickfix.nvim](https://github.com/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/quickfix.nvim)
 - [Ja-sonYun/nvim-bnqf](https://github.com/Ja-sonYun/nvim-bnqf) ![](https://img.shields.io/github/stars/Ja-sonYun/nvim-bnqf) ![](https://img.shields.io/github/last-commit/Ja-sonYun/nvim-bnqf) ![](https://img.shields.io/github/commit-activity/y/Ja-sonYun/nvim-bnqf)
+- [afjoseph/buildlog.nvim](https://github.com/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/stars/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/last-commit/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/commit-activity/y/afjoseph/buildlog.nvim)
 
 ### Output the list to another format
 

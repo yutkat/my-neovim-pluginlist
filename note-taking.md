@@ -94,6 +94,8 @@
 - [xpcoffee/nvim-markdown-notes](https://github.com/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-notes) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-notes)
 - [notedownorg/notedown.nvim](https://github.com/notedownorg/notedown.nvim) ![](https://img.shields.io/github/stars/notedownorg/notedown.nvim) ![](https://img.shields.io/github/last-commit/notedownorg/notedown.nvim) ![](https://img.shields.io/github/commit-activity/y/notedownorg/notedown.nvim)
 - [r7sqtr/Noxen.nvim](https://github.com/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/stars/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/Noxen.nvim)
+- [Sombrechip88244/tempura.nvim](https://github.com/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/stars/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/last-commit/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrechip88244/tempura.nvim)
+- [darwincereska/notes.nvim](https://github.com/darwincereska/notes.nvim) ![](https://img.shields.io/github/stars/darwincereska/notes.nvim) ![](https://img.shields.io/github/last-commit/darwincereska/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/darwincereska/notes.nvim)
 
 ### ToDo
 

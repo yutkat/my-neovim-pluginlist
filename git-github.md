@@ -152,6 +152,8 @@
 - [Mauritz8/gitstatus.nvim](https://github.com/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/stars/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/last-commit/Mauritz8/gitstatus.nvim) ![](https://img.shields.io/github/commit-activity/y/Mauritz8/gitstatus.nvim)
 - [aaaaargZombies/telescope-autolaunch.nvim](https://github.com/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/stars/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/last-commit/aaaaargZombies/telescope-autolaunch.nvim) ![](https://img.shields.io/github/commit-activity/y/aaaaargZombies/telescope-autolaunch.nvim)
 - [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
+- [ctrlShiftBryan/ba-tools.nvim](https://github.com/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/stars/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/last-commit/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctrlShiftBryan/ba-tools.nvim)
+- [n1kben/gitcast.nvim](https://github.com/n1kben/gitcast.nvim) ![](https://img.shields.io/github/stars/n1kben/gitcast.nvim) ![](https://img.shields.io/github/last-commit/n1kben/gitcast.nvim) ![](https://img.shields.io/github/commit-activity/y/n1kben/gitcast.nvim)
 
 ### git add
 
