@@ -350,7 +350,6 @@
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
-- [tachyons/gitlab-lsp.nvim](https://github.com/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab-lsp.nvim)
 
 ## Pre-configuration
 
