@@ -31,6 +31,7 @@
 - [Ramilito/nvim-dadbod](https://github.com/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/stars/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/last-commit/Ramilito/nvim-dadbod) ![](https://img.shields.io/github/commit-activity/y/Ramilito/nvim-dadbod)
 - [praem90/db.nvim](https://github.com/praem90/db.nvim) ![](https://img.shields.io/github/stars/praem90/db.nvim) ![](https://img.shields.io/github/last-commit/praem90/db.nvim) ![](https://img.shields.io/github/commit-activity/y/praem90/db.nvim)
 - [LetsDrinkSomeTea/data.nvim](https://github.com/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/stars/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/last-commit/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/commit-activity/y/LetsDrinkSomeTea/data.nvim)
+- [chiendo97/db-nbook.nvim](https://github.com/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/stars/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/db-nbook.nvim)
 
 ### SQL
 

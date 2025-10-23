@@ -361,6 +361,7 @@
 - [oleksiiluchnikov/gradient.nvim](https://github.com/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/gradient.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/gradient.nvim)
 - [loganswartz/polychrome.nvim](https://github.com/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/stars/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/last-commit/loganswartz/polychrome.nvim) ![](https://img.shields.io/github/commit-activity/y/loganswartz/polychrome.nvim)
 - [OXY2DEV/colors.nvim](https://github.com/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/colors.nvim)
+- [KijitoraFinch/bocchi-the-lch.nvim](https://github.com/KijitoraFinch/bocchi-the-lch.nvim) ![](https://img.shields.io/github/stars/KijitoraFinch/bocchi-the-lch.nvim) ![](https://img.shields.io/github/last-commit/KijitoraFinch/bocchi-the-lch.nvim) ![](https://img.shields.io/github/commit-activity/y/KijitoraFinch/bocchi-the-lch.nvim)
 
 ## Date
 

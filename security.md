@@ -83,6 +83,7 @@
 - [artstisen/marbles.nvim](https://github.com/artstisen/marbles.nvim) ![](https://img.shields.io/github/stars/artstisen/marbles.nvim) ![](https://img.shields.io/github/last-commit/artstisen/marbles.nvim) ![](https://img.shields.io/github/commit-activity/y/artstisen/marbles.nvim)
 - [iharkatkavets/fcrypt.nvim](https://github.com/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/fcrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/fcrypt.nvim)
 - [abaj8494/bytelocker](https://github.com/abaj8494/bytelocker) ![](https://img.shields.io/github/stars/abaj8494/bytelocker) ![](https://img.shields.io/github/last-commit/abaj8494/bytelocker) ![](https://img.shields.io/github/commit-activity/y/abaj8494/bytelocker)
+- [enie123/sops.nvim](https://github.com/enie123/sops.nvim) ![](https://img.shields.io/github/stars/enie123/sops.nvim) ![](https://img.shields.io/github/last-commit/enie123/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/enie123/sops.nvim)
 
 ## Privacy
 
