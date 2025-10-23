@@ -163,6 +163,7 @@
 ### External terminal
 
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
+- [dwainm/tmux-commander.nvim](https://github.com/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/stars/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/last-commit/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/commit-activity/y/dwainm/tmux-commander.nvim)
 
 ### Terminal Selector
 
