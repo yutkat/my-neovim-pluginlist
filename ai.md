@@ -150,6 +150,7 @@
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
 - [luizribeiro/bennet.nvim](https://github.com/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/stars/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/last-commit/luizribeiro/bennet.nvim) ![](https://img.shields.io/github/commit-activity/y/luizribeiro/bennet.nvim)
+- [mecattaf/llm-stream.nvim](https://github.com/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/stars/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/last-commit/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/mecattaf/llm-stream.nvim)
 
 #### Codex
 

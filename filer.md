@@ -177,6 +177,7 @@
 ### lf wrapper
 
 - [coldpatch/lf-simple.nvim](https://github.com/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/stars/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/lf-simple.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/lf-simple.nvim)
+- [jackielii/snacks-lf.nvim](https://github.com/jackielii/snacks-lf.nvim) ![](https://img.shields.io/github/stars/jackielii/snacks-lf.nvim) ![](https://img.shields.io/github/last-commit/jackielii/snacks-lf.nvim) ![](https://img.shields.io/github/commit-activity/y/jackielii/snacks-lf.nvim)
 
 ### Network File Manager
 
