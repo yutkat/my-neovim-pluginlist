@@ -41,6 +41,7 @@
 ## Greek
 
 - [utrumsit/betacode-to-unicode](https://github.com/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/stars/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/last-commit/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/commit-activity/y/utrumsit/betacode-to-unicode)
+- [HadyMash/greekvars.nvim](https://github.com/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/stars/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/last-commit/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/commit-activity/y/HadyMash/greekvars.nvim)
 
 ## Savian alphabet
 
