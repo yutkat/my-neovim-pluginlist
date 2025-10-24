@@ -69,6 +69,7 @@
 - [tigion/swap.nvim](https://github.com/tigion/swap.nvim) ![](https://img.shields.io/github/stars/tigion/swap.nvim) ![](https://img.shields.io/github/last-commit/tigion/swap.nvim) ![](https://img.shields.io/github/commit-activity/y/tigion/swap.nvim)
 - [lucas-garcia-rubio/switcher.nvim](https://github.com/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/stars/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/last-commit/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lucas-garcia-rubio/switcher.nvim)
 - [afkale/wswitcher.nvim](https://github.com/afkale/wswitcher.nvim) ![](https://img.shields.io/github/stars/afkale/wswitcher.nvim) ![](https://img.shields.io/github/last-commit/afkale/wswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/wswitcher.nvim)
+- [MrKyomoto/mini-reverse.nvim](https://github.com/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/stars/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/last-commit/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/commit-activity/y/MrKyomoto/mini-reverse.nvim)
 
 ### Quote
 

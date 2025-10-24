@@ -55,6 +55,7 @@
 - [TobinPalmer/pastify.nvim](https://github.com/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/stars/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/last-commit/TobinPalmer/pastify.nvim) ![](https://img.shields.io/github/commit-activity/y/TobinPalmer/pastify.nvim)
 - [zaiic/pinmd.nvim](https://github.com/zaiic/pinmd.nvim) ![](https://img.shields.io/github/stars/zaiic/pinmd.nvim) ![](https://img.shields.io/github/last-commit/zaiic/pinmd.nvim) ![](https://img.shields.io/github/commit-activity/y/zaiic/pinmd.nvim)
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/stars/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/last-commit/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/HakonHarnes/img-clip.nvim)
+- [yuki-yano/clipboard-image-to-agent.nvim](https://github.com/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/stars/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/clipboard-image-to-agent.nvim)
 
 ### Image Uploader
 

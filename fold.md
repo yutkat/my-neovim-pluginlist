@@ -50,3 +50,4 @@
 
 - [Jxstxs/conceal.nvim](https://github.com/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/stars/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/last-commit/Jxstxs/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/Jxstxs/conceal.nvim)
 - [kungfusheep/greyout.nvim](https://github.com/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/stars/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/greyout.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/greyout.nvim)
+- [HadyMash/greekvars.nvim](https://github.com/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/stars/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/last-commit/HadyMash/greekvars.nvim) ![](https://img.shields.io/github/commit-activity/y/HadyMash/greekvars.nvim)

@@ -75,6 +75,7 @@
 - [nvim-telescope/telescope-fzf-native.nvim](https://github.com/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-native.nvim)
 - [nvim-telescope/telescope-fzy-native.nvim](https://github.com/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzy-native.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzy-native.nvim)
 - [natecraddock/telescope-zf-native.nvim](https://github.com/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/stars/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/last-commit/natecraddock/telescope-zf-native.nvim) ![](https://img.shields.io/github/commit-activity/y/natecraddock/telescope-zf-native.nvim)
+- [kingShazor/telescope-fuzzy-sorter.nvim](https://github.com/kingShazor/telescope-fuzzy-sorter.nvim) ![](https://img.shields.io/github/stars/kingShazor/telescope-fuzzy-sorter.nvim) ![](https://img.shields.io/github/last-commit/kingShazor/telescope-fuzzy-sorter.nvim) ![](https://img.shields.io/github/commit-activity/y/kingShazor/telescope-fuzzy-sorter.nvim)
 
 #### Action
 

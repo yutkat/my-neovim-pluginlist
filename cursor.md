@@ -40,3 +40,4 @@
 ### Animation
 
 - [sphamba/smear-cursor.nvim](https://github.com/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/stars/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/last-commit/sphamba/smear-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/sphamba/smear-cursor.nvim)
+- [ahkohd/where-was-i.nvim](https://github.com/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/stars/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/where-was-i.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/where-was-i.nvim)
