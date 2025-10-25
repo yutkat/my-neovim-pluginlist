@@ -24,6 +24,8 @@
 - [santhosh-tekuri/wordiff.nvim](https://github.com/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/wordiff.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/wordiff.nvim)
 - [mcauley-penney/intraline-diff.nvim](https://github.com/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/intraline-diff.nvim)
 - [ahkohd/difft.nvim](https://github.com/ahkohd/difft.nvim) ![](https://img.shields.io/github/stars/ahkohd/difft.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/difft.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/difft.nvim)
+- [AndrewMead10/git-diff-viewer.nvim](https://github.com/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/git-diff-viewer.nvim)
+- [esmuellert/vscode-diff.nvim](https://github.com/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/stars/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/last-commit/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/esmuellert/vscode-diff.nvim)
 
 ### Diff Register
 

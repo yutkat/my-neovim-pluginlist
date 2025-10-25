@@ -6,6 +6,7 @@
   - [Org mode](#org-mode)
   - [Zettelkasten](#zettelkasten)
   - [Markdown](#markdown)
+  - [Journal](#journal)
   - [ToDo](#todo)
     - [Google Task](#google-task)
     - [Taskwarrior](#taskwarrior)
@@ -96,6 +97,10 @@
 - [r7sqtr/Noxen.nvim](https://github.com/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/stars/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/Noxen.nvim)
 - [Sombrechip88244/tempura.nvim](https://github.com/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/stars/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/last-commit/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrechip88244/tempura.nvim)
 - [darwincereska/notes.nvim](https://github.com/darwincereska/notes.nvim) ![](https://img.shields.io/github/stars/darwincereska/notes.nvim) ![](https://img.shields.io/github/last-commit/darwincereska/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/darwincereska/notes.nvim)
+
+### Journal
+
+- [r35krag0th/yeahnotes.nvim](https://github.com/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/stars/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/last-commit/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/r35krag0th/yeahnotes.nvim)
 
 ### ToDo
 
