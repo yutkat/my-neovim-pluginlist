@@ -201,6 +201,7 @@
 - [KlitnyjS/nvim-jira-branch](https://github.com/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/stars/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/last-commit/KlitnyjS/nvim-jira-branch) ![](https://img.shields.io/github/commit-activity/y/KlitnyjS/nvim-jira-branch)
 - [amorenoz/jiracli.nvim](https://github.com/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/stars/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/last-commit/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/amorenoz/jiracli.nvim)
 - [pandalec/jiratui.nvim](https://github.com/pandalec/jiratui.nvim) ![](https://img.shields.io/github/stars/pandalec/jiratui.nvim) ![](https://img.shields.io/github/last-commit/pandalec/jiratui.nvim) ![](https://img.shields.io/github/commit-activity/y/pandalec/jiratui.nvim)
+- [bartcortooms/task-manager.nvim](https://github.com/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/stars/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/last-commit/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/bartcortooms/task-manager.nvim)
 
 ### Confluence
 
@@ -252,6 +253,7 @@
 - [RazoBeckett/spoclient.nvim](https://github.com/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/stars/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/last-commit/RazoBeckett/spoclient.nvim) ![](https://img.shields.io/github/commit-activity/y/RazoBeckett/spoclient.nvim)
 - [iamt4nk/smm.nvim](https://github.com/iamt4nk/smm.nvim) ![](https://img.shields.io/github/stars/iamt4nk/smm.nvim) ![](https://img.shields.io/github/last-commit/iamt4nk/smm.nvim) ![](https://img.shields.io/github/commit-activity/y/iamt4nk/smm.nvim)
 - [Caronte995/spotify-player.nvim](https://github.com/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/stars/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/Caronte995/spotify-player.nvim)
+- [olinpin/macos-spotify.nvim](https://github.com/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/stars/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/last-commit/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/olinpin/macos-spotify.nvim)
 
 ### StackOverflow
 
