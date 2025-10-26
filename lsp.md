@@ -208,6 +208,7 @@
 - [jfly/lsp-diagnostic-quirks.nvim](https://github.com/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/stars/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/last-commit/jfly/lsp-diagnostic-quirks.nvim) ![](https://img.shields.io/github/commit-activity/y/jfly/lsp-diagnostic-quirks.nvim)
 - [saying121/interactive-inlay-hint.nvim](https://github.com/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/stars/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/last-commit/saying121/interactive-inlay-hint.nvim) ![](https://img.shields.io/github/commit-activity/y/saying121/interactive-inlay-hint.nvim)
 - [sim-maz/show-type.nvim](https://github.com/sim-maz/show-type.nvim) ![](https://img.shields.io/github/stars/sim-maz/show-type.nvim) ![](https://img.shields.io/github/last-commit/sim-maz/show-type.nvim) ![](https://img.shields.io/github/commit-activity/y/sim-maz/show-type.nvim)
+- [AbysmalBiscuit/insert-inlay-hints.nvim](https://github.com/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/stars/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/AbysmalBiscuit/insert-inlay-hints.nvim)
 
 #### Hover Doc
 
