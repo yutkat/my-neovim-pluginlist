@@ -54,6 +54,7 @@
 - [AI Completion](#ai-completion)
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
+- [Agent](#agent)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
 - [Cursor](#cursor)
@@ -563,6 +564,10 @@
 
 - [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
 
+## Agent
+
+- [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
+
 ## Chat
 
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/stars/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/CopilotC-Nvim/CopilotChat.nvim)
@@ -574,7 +579,6 @@
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
-- [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 
 ## AI Terminal
 
