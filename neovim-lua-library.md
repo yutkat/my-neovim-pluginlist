@@ -9,6 +9,7 @@
 - [async](#async)
 - [Thread](#thread)
 - [Coroutine](#coroutine)
+- [lazy-loading](#lazy-loading)
 - [Reactive](#reactive)
 - [String](#string)
 - [List](#list)
@@ -121,6 +122,11 @@
 ## Coroutine
 
 - [idanarye/nvim-channelot](https://github.com/idanarye/nvim-channelot) ![](https://img.shields.io/github/stars/idanarye/nvim-channelot) ![](https://img.shields.io/github/last-commit/idanarye/nvim-channelot) ![](https://img.shields.io/github/commit-activity/y/idanarye/nvim-channelot)
+
+## lazy-loading
+
+- [lumen-oss/lz.n](https://github.com/lumen-oss/lz.n) ![](https://img.shields.io/github/stars/lumen-oss/lz.n) ![](https://img.shields.io/github/last-commit/lumen-oss/lz.n) ![](https://img.shields.io/github/commit-activity/y/lumen-oss/lz.n)
+- [BirdeeHub/lze](https://github.com/BirdeeHub/lze) ![](https://img.shields.io/github/stars/BirdeeHub/lze) ![](https://img.shields.io/github/last-commit/BirdeeHub/lze) ![](https://img.shields.io/github/commit-activity/y/BirdeeHub/lze)
 
 ## Reactive
 
