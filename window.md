@@ -161,6 +161,7 @@
 - [jceb/blinds.nvim](https://github.com/jceb/blinds.nvim) ![](https://img.shields.io/github/stars/jceb/blinds.nvim) ![](https://img.shields.io/github/last-commit/jceb/blinds.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/blinds.nvim)
 - [OfferLifted/inactive-dimmer.nvim](https://github.com/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/stars/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/last-commit/OfferLifted/inactive-dimmer.nvim) ![](https://img.shields.io/github/commit-activity/y/OfferLifted/inactive-dimmer.nvim)
 - [shaobosong/maskwin.nvim](https://github.com/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/stars/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/maskwin.nvim)
+- [pk-hash/winshade.nvim](https://github.com/pk-hash/winshade.nvim) ![](https://img.shields.io/github/stars/pk-hash/winshade.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/winshade.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/winshade.nvim)
 
 #### Window Number
 

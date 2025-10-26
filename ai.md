@@ -54,6 +54,7 @@
 - [AI Completion](#ai-completion)
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
+- [Agent](#agent)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
 - [Cursor](#cursor)
@@ -562,6 +563,10 @@
 ### Genie CLI
 
 - [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
+
+## Agent
+
+- [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 
 ## Chat
 
