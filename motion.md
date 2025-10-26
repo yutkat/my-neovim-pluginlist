@@ -81,7 +81,6 @@
 - [migbyte-0/migmotion.nvim](https://github.com/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/stars/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/last-commit/migbyte-0/migmotion.nvim) ![](https://img.shields.io/github/commit-activity/y/migbyte-0/migmotion.nvim)
 - [R1PeR/bounce.nvim](https://github.com/R1PeR/bounce.nvim) ![](https://img.shields.io/github/stars/R1PeR/bounce.nvim) ![](https://img.shields.io/github/last-commit/R1PeR/bounce.nvim) ![](https://img.shields.io/github/commit-activity/y/R1PeR/bounce.nvim)
 - [LuxVim/nvim-luxmotion](https://github.com/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxmotion)
-- [ef3d0c3e/sniper.nvim](https://github.com/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/stars/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/last-commit/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/sniper.nvim)
 
 ### Horizontal Move
 
@@ -114,6 +113,7 @@
 
 - [jinh0/eyeliner.nvim](https://github.com/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/stars/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/last-commit/jinh0/eyeliner.nvim) ![](https://img.shields.io/github/commit-activity/y/jinh0/eyeliner.nvim)
 - [dmxk062/nvim-blinkenfind](https://github.com/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/stars/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/last-commit/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/commit-activity/y/dmxk062/nvim-blinkenfind)
+- [ef3d0c3e/sniper.nvim](https://github.com/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/stars/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/last-commit/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/sniper.nvim)
 
 ### Motion Label
 

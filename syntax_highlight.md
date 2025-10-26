@@ -254,6 +254,7 @@
 
 - [ArijanJ/sexp-highlight.nvim](https://github.com/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/stars/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/last-commit/ArijanJ/sexp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/ArijanJ/sexp-highlight.nvim)
 - [vhsconnect/scope-gutter.nvim](https://github.com/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/stars/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/last-commit/vhsconnect/scope-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/vhsconnect/scope-gutter.nvim)
+- [qrazil/current-block.nvim](https://github.com/qrazil/current-block.nvim) ![](https://img.shields.io/github/stars/qrazil/current-block.nvim) ![](https://img.shields.io/github/last-commit/qrazil/current-block.nvim) ![](https://img.shields.io/github/commit-activity/y/qrazil/current-block.nvim)
 
 ### block highlight
 

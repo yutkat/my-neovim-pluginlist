@@ -6,7 +6,6 @@
   - [Project Switcher](#project-switcher)
   - [Project Root Detector](#project-root-detector)
   - [Project Template](#project-template)
-  - [Alternate file](#alternate-file)
   - [Project syntax](#project-syntax)
     - [Monorepo](#monorepo)
   - [Project Local Config](#project-local-config)
@@ -91,10 +90,6 @@
 
 - [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
 - [tenmo2003/scaffold.nvim](https://github.com/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/stars/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/last-commit/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/commit-activity/y/tenmo2003/scaffold.nvim)
-
-### Alternate file
-
-- [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) ![](https://img.shields.io/github/stars/wsdjeg/altf.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/altf.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/altf.nvim)
 
 ### Project syntax
 

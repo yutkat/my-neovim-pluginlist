@@ -122,6 +122,7 @@
 - [mangin/test-flea.nvim](https://github.com/mangin/test-flea.nvim) ![](https://img.shields.io/github/stars/mangin/test-flea.nvim) ![](https://img.shields.io/github/last-commit/mangin/test-flea.nvim) ![](https://img.shields.io/github/commit-activity/y/mangin/test-flea.nvim)
 - [vvilhelmsen/partner.nvim](https://github.com/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/partner.nvim)
 - [Ross74U/hotbuffers.nvim](https://github.com/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/stars/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/last-commit/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Ross74U/hotbuffers.nvim)
+- [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) ![](https://img.shields.io/github/stars/wsdjeg/altf.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/altf.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/altf.nvim)
 
 ### Buffer Management
 
