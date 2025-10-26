@@ -51,6 +51,7 @@
 - [tihawk/mdwa.nvim](https://github.com/tihawk/mdwa.nvim) ![](https://img.shields.io/github/stars/tihawk/mdwa.nvim) ![](https://img.shields.io/github/last-commit/tihawk/mdwa.nvim) ![](https://img.shields.io/github/commit-activity/y/tihawk/mdwa.nvim)
 - [shborg-lua/nvim-rhymes](https://github.com/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/stars/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/last-commit/shborg-lua/nvim-rhymes) ![](https://img.shields.io/github/commit-activity/y/shborg-lua/nvim-rhymes)
 - [DuckyShine004/duck-type.nvim](https://github.com/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/stars/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/last-commit/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckyShine004/duck-type.nvim)
+- [sahaj-b/brainrot.nvim](https://github.com/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/stars/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/last-commit/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/sahaj-b/brainrot.nvim)
 
 #### Hacker typer
 

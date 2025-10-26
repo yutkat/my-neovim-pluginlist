@@ -217,6 +217,7 @@
 - [ZachYarbrough/todo-list.nvim](https://github.com/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/stars/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/last-commit/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachYarbrough/todo-list.nvim)
 - [Maduki-tech/mdtodo.nvim](https://github.com/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/mdtodo.nvim)
 - [moreka/simple-todo.nvim](https://github.com/moreka/simple-todo.nvim) ![](https://img.shields.io/github/stars/moreka/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/moreka/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/moreka/simple-todo.nvim)
+- [udayanKashyap/pensieve.nvim](https://github.com/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/stars/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/last-commit/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/commit-activity/y/udayanKashyap/pensieve.nvim)
 
 #### Google Task
 

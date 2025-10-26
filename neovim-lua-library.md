@@ -46,6 +46,7 @@
 - [SQLite](#sqlite)
 - [JSON](#json)
 - [YAML](#yaml)
+- [TOML](#toml)
 - [Require](#require)
 - [Hook](#hook)
 - [Mode](#mode)
@@ -318,6 +319,10 @@
 
 - [jeremy-p-mann/lyaml.nvim](https://github.com/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/stars/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/last-commit/jeremy-p-mann/lyaml.nvim) ![](https://img.shields.io/github/commit-activity/y/jeremy-p-mann/lyaml.nvim)
 - [jedi-knights/yaml.nvim](https://github.com/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yaml.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yaml.nvim)
+
+## TOML
+
+- [wsdjeg/toml.nvim](https://github.com/wsdjeg/toml.nvim) ![](https://img.shields.io/github/stars/wsdjeg/toml.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/toml.nvim)
 
 ## Require
 
