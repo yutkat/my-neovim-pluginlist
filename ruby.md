@@ -22,6 +22,7 @@
 - [npupko/buddy.nvim](https://github.com/npupko/buddy.nvim) ![](https://img.shields.io/github/stars/npupko/buddy.nvim) ![](https://img.shields.io/github/last-commit/npupko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/npupko/buddy.nvim)
 - [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
 - [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
+- [lucianghinda/ruby-smart-copy.nvim](https://github.com/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/stars/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/last-commit/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianghinda/ruby-smart-copy.nvim)
 
 ### Test
 
