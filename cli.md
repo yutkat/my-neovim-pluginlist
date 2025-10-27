@@ -232,7 +232,6 @@
 
 #### make
 
-- [ptethng/telescope-makefile](https://github.com/ptethng/telescope-makefile) ![](https://img.shields.io/github/stars/ptethng/telescope-makefile) ![](https://img.shields.io/github/last-commit/ptethng/telescope-makefile) ![](https://img.shields.io/github/commit-activity/y/ptethng/telescope-makefile)
 - [ChSotiriou/nvim-telemake](https://github.com/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/stars/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/last-commit/ChSotiriou/nvim-telemake) ![](https://img.shields.io/github/commit-activity/y/ChSotiriou/nvim-telemake)
 - [LittleAmara/make.nvim](https://github.com/LittleAmara/make.nvim) ![](https://img.shields.io/github/stars/LittleAmara/make.nvim) ![](https://img.shields.io/github/last-commit/LittleAmara/make.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleAmara/make.nvim)
 - [boredcoder411/make.nvim](https://github.com/boredcoder411/make.nvim) ![](https://img.shields.io/github/stars/boredcoder411/make.nvim) ![](https://img.shields.io/github/last-commit/boredcoder411/make.nvim) ![](https://img.shields.io/github/commit-activity/y/boredcoder411/make.nvim)
