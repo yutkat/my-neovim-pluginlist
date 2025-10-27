@@ -326,6 +326,8 @@
 
 ### refresh
 
+- [thgrass/tail.nvim](https://github.com/thgrass/tail.nvim) ![](https://img.shields.io/github/stars/thgrass/tail.nvim) ![](https://img.shields.io/github/last-commit/thgrass/tail.nvim) ![](https://img.shields.io/github/commit-activity/y/thgrass/tail.nvim)
+
 ### Buffer info
 
 - [addisonbeck/where-am-i.nvim](https://github.com/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/stars/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/last-commit/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/commit-activity/y/addisonbeck/where-am-i.nvim)
