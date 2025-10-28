@@ -33,6 +33,7 @@
   - [Mentat](#mentat)
   - [Worker AI](#worker-ai)
   - [Codeium](#codeium)
+  - [Continue](#continue)
   - [Compass](#compass)
   - [Zeke](#zeke)
   - [Groq](#groq)
@@ -161,6 +162,7 @@
 - [rhart92/codex.nvim](https://github.com/rhart92/codex.nvim) ![](https://img.shields.io/github/stars/rhart92/codex.nvim) ![](https://img.shields.io/github/last-commit/rhart92/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rhart92/codex.nvim)
 - [morre95/codex-resume.nvim](https://github.com/morre95/codex-resume.nvim) ![](https://img.shields.io/github/stars/morre95/codex-resume.nvim) ![](https://img.shields.io/github/last-commit/morre95/codex-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/codex-resume.nvim)
 - [kevinh-e/codex.nvim](https://github.com/kevinh-e/codex.nvim) ![](https://img.shields.io/github/stars/kevinh-e/codex.nvim) ![](https://img.shields.io/github/last-commit/kevinh-e/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinh-e/codex.nvim)
+- [heliumsneakers/archie.nvim](https://github.com/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/archie.nvim)
 
 #### Whisper
 
@@ -452,6 +454,10 @@
 - [Exafunction/codeium.nvim](https://github.com/Exafunction/codeium.nvim) ![](https://img.shields.io/github/stars/Exafunction/codeium.nvim) ![](https://img.shields.io/github/last-commit/Exafunction/codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/Exafunction/codeium.nvim)
 - [BlazeMCworld/open-codeium.nvim](https://github.com/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/stars/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/last-commit/BlazeMCworld/open-codeium.nvim) ![](https://img.shields.io/github/commit-activity/y/BlazeMCworld/open-codeium.nvim)
 - [monkoose/neocodeium](https://github.com/monkoose/neocodeium) ![](https://img.shields.io/github/stars/monkoose/neocodeium) ![](https://img.shields.io/github/last-commit/monkoose/neocodeium) ![](https://img.shields.io/github/commit-activity/y/monkoose/neocodeium)
+
+### Continue
+
+- [Megatherium/continue.nvim](https://github.com/Megatherium/continue.nvim) ![](https://img.shields.io/github/stars/Megatherium/continue.nvim) ![](https://img.shields.io/github/last-commit/Megatherium/continue.nvim) ![](https://img.shields.io/github/commit-activity/y/Megatherium/continue.nvim)
 
 ### Compass
 

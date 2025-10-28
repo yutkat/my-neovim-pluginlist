@@ -75,6 +75,7 @@
 - [waldez/salo-session.nvim](https://github.com/waldez/salo-session.nvim) ![](https://img.shields.io/github/stars/waldez/salo-session.nvim) ![](https://img.shields.io/github/last-commit/waldez/salo-session.nvim) ![](https://img.shields.io/github/commit-activity/y/waldez/salo-session.nvim)
 - [krystofair/rsession.nvim](https://github.com/krystofair/rsession.nvim) ![](https://img.shields.io/github/stars/krystofair/rsession.nvim) ![](https://img.shields.io/github/last-commit/krystofair/rsession.nvim) ![](https://img.shields.io/github/commit-activity/y/krystofair/rsession.nvim)
 - [chocycat/reitti.nvim](https://github.com/chocycat/reitti.nvim) ![](https://img.shields.io/github/stars/chocycat/reitti.nvim) ![](https://img.shields.io/github/last-commit/chocycat/reitti.nvim) ![](https://img.shields.io/github/commit-activity/y/chocycat/reitti.nvim)
+- [comfysage/tether.nvim](https://github.com/comfysage/tether.nvim) ![](https://img.shields.io/github/stars/comfysage/tether.nvim) ![](https://img.shields.io/github/last-commit/comfysage/tether.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/tether.nvim)
 
 ### Session Selector
 

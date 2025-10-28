@@ -94,6 +94,7 @@
 ### FiveM
 
 - [Z3rio/FiveM.nvim](https://github.com/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/stars/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/last-commit/Z3rio/FiveM.nvim) ![](https://img.shields.io/github/commit-activity/y/Z3rio/FiveM.nvim)
+- [assynu/fivem.nvim](https://github.com/assynu/fivem.nvim) ![](https://img.shields.io/github/stars/assynu/fivem.nvim) ![](https://img.shields.io/github/last-commit/assynu/fivem.nvim) ![](https://img.shields.io/github/commit-activity/y/assynu/fivem.nvim)
 
 ### World of Warcraft
 
