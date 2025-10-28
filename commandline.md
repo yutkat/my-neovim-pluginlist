@@ -64,6 +64,7 @@
 
 - [hrsh7th/cmp-cmdline](https://github.com/hrsh7th/cmp-cmdline) ![](https://img.shields.io/github/stars/hrsh7th/cmp-cmdline) ![](https://img.shields.io/github/last-commit/hrsh7th/cmp-cmdline) ![](https://img.shields.io/github/commit-activity/y/hrsh7th/cmp-cmdline)
 - [smolck/command-completion.nvim](https://github.com/smolck/command-completion.nvim) ![](https://img.shields.io/github/stars/smolck/command-completion.nvim) ![](https://img.shields.io/github/last-commit/smolck/command-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/smolck/command-completion.nvim)
+- [dascard/SearchComplete.nvim](https://github.com/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/stars/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/last-commit/dascard/SearchComplete.nvim) ![](https://img.shields.io/github/commit-activity/y/dascard/SearchComplete.nvim)
 
 ### History
 
