@@ -571,6 +571,7 @@
 ### Genie CLI
 
 - [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
+- [e3oroush/askCode](https://github.com/e3oroush/askCode) ![](https://img.shields.io/github/stars/e3oroush/askCode) ![](https://img.shields.io/github/last-commit/e3oroush/askCode) ![](https://img.shields.io/github/commit-activity/y/e3oroush/askCode)
 
 ## Agent
 
