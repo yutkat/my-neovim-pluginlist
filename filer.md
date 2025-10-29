@@ -23,6 +23,7 @@
   - [Create directory](#create-directory)
   - [Tree View](#tree-view)
   - [File rename](#file-rename)
+  - [Trash](#trash)
 
 <!-- tocstop -->
 
@@ -216,3 +217,7 @@
 - [JulienZD/file-case-gen.nvim](https://github.com/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/stars/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/last-commit/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienZD/file-case-gen.nvim)
 - [cushydigit/nvim-rename-plugin](https://github.com/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/stars/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/last-commit/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/commit-activity/y/cushydigit/nvim-rename-plugin)
 - [marcesengel/renamer.nvim](https://github.com/marcesengel/renamer.nvim) ![](https://img.shields.io/github/stars/marcesengel/renamer.nvim) ![](https://img.shields.io/github/last-commit/marcesengel/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/marcesengel/renamer.nvim)
+
+### Trash
+
+- [kimpure/trash.nvim](https://github.com/kimpure/trash.nvim) ![](https://img.shields.io/github/stars/kimpure/trash.nvim) ![](https://img.shields.io/github/last-commit/kimpure/trash.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/trash.nvim)

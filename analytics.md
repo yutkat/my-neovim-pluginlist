@@ -9,6 +9,7 @@
   - [Wakatime](#wakatime)
   - [Mapping stat](#mapping-stat)
   - [Typing speed](#typing-speed)
+  - [Writing metrics](#writing-metrics)
   - [Operation Log](#operation-log)
   - [Clockify](#clockify)
   - [Performance Test](#performance-test)
@@ -92,6 +93,10 @@
 - [DuckDood/wpm.nvim](https://github.com/DuckDood/wpm.nvim) ![](https://img.shields.io/github/stars/DuckDood/wpm.nvim) ![](https://img.shields.io/github/last-commit/DuckDood/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckDood/wpm.nvim)
 - [saltytine/typestats.nvim](https://github.com/saltytine/typestats.nvim) ![](https://img.shields.io/github/stars/saltytine/typestats.nvim) ![](https://img.shields.io/github/last-commit/saltytine/typestats.nvim) ![](https://img.shields.io/github/commit-activity/y/saltytine/typestats.nvim)
 - [slowy07/mywpm.nvim](https://github.com/slowy07/mywpm.nvim) ![](https://img.shields.io/github/stars/slowy07/mywpm.nvim) ![](https://img.shields.io/github/last-commit/slowy07/mywpm.nvim) ![](https://img.shields.io/github/commit-activity/y/slowy07/mywpm.nvim)
+
+### Writing metrics
+
+- [jameskeim/nvim-writing-metrics](https://github.com/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/stars/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/last-commit/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/commit-activity/y/jameskeim/nvim-writing-metrics)
 
 ### Operation Log
 

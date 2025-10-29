@@ -221,6 +221,7 @@
 - [jmkelly/dbt.nvim](https://github.com/jmkelly/dbt.nvim) ![](https://img.shields.io/github/stars/jmkelly/dbt.nvim) ![](https://img.shields.io/github/last-commit/jmkelly/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkelly/dbt.nvim)
 - [cantti/dotnet-helper.nvim](https://github.com/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/stars/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/last-commit/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/dotnet-helper.nvim)
 - [austincrft/dotnet-secrets.nvim](https://github.com/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-secrets.nvim)
+- [austincrft/dotnet-test.nvim](https://github.com/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-test.nvim)
 
 ##### ASP.NET
 
@@ -322,6 +323,7 @@
 - [apayu/nvim-elixir-inspect](https://github.com/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/stars/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/last-commit/apayu/nvim-elixir-inspect) ![](https://img.shields.io/github/commit-activity/y/apayu/nvim-elixir-inspect)
 - [synic/refactorex.nvim](https://github.com/synic/refactorex.nvim) ![](https://img.shields.io/github/stars/synic/refactorex.nvim) ![](https://img.shields.io/github/last-commit/synic/refactorex.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/refactorex.nvim)
 - [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
+- [renews/hexcheck.nvim](https://github.com/renews/hexcheck.nvim) ![](https://img.shields.io/github/stars/renews/hexcheck.nvim) ![](https://img.shields.io/github/last-commit/renews/hexcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/renews/hexcheck.nvim)
 
 ##### REPL
 

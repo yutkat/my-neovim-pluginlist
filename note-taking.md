@@ -218,6 +218,7 @@
 - [Maduki-tech/mdtodo.nvim](https://github.com/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/mdtodo.nvim)
 - [moreka/simple-todo.nvim](https://github.com/moreka/simple-todo.nvim) ![](https://img.shields.io/github/stars/moreka/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/moreka/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/moreka/simple-todo.nvim)
 - [udayanKashyap/pensieve.nvim](https://github.com/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/stars/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/last-commit/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/commit-activity/y/udayanKashyap/pensieve.nvim)
+- [jaswdr/nvim-todos](https://github.com/jaswdr/nvim-todos) ![](https://img.shields.io/github/stars/jaswdr/nvim-todos) ![](https://img.shields.io/github/last-commit/jaswdr/nvim-todos) ![](https://img.shields.io/github/commit-activity/y/jaswdr/nvim-todos)
 
 #### Google Task
 
