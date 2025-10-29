@@ -106,6 +106,10 @@
 - [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-nerdfont.nvim)
 - [MahanRahmati/blink-look.nvim](https://github.com/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-look.nvim)
 - [KevinNitroG/blink-sql.nvim](https://github.com/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/stars/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/last-commit/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/KevinNitroG/blink-sql.nvim)
+- [mgalliou/blink-cmp-tmux](https://github.com/mgalliou/blink-cmp-tmux) ![](https://img.shields.io/github/stars/mgalliou/blink-cmp-tmux) ![](https://img.shields.io/github/last-commit/mgalliou/blink-cmp-tmux) ![](https://img.shields.io/github/commit-activity/y/mgalliou/blink-cmp-tmux)
+- [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/stars/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/blink-cmp-git)
+- [bydlw98/blink-cmp-sshconfig](https://github.com/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-sshconfig)
+- [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-env)
 
 ### Auto Completion support
 

@@ -148,6 +148,7 @@
 - [shortcuts/search-and-replace.nvim](https://github.com/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/stars/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/last-commit/shortcuts/search-and-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/shortcuts/search-and-replace.nvim)
 - [vigneshbalan-mvgs/nvim-ripreplace](https://github.com/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/stars/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/last-commit/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/commit-activity/y/vigneshbalan-mvgs/nvim-ripreplace)
 - [mohammedbilalns/replace.nvim](https://github.com/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/stars/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/last-commit/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammedbilalns/replace.nvim)
+- [KiamMota/rr.nvim](https://github.com/KiamMota/rr.nvim) ![](https://img.shields.io/github/stars/KiamMota/rr.nvim) ![](https://img.shields.io/github/last-commit/KiamMota/rr.nvim) ![](https://img.shields.io/github/commit-activity/y/KiamMota/rr.nvim)
 
 ### Rename
 
