@@ -10,6 +10,7 @@
   - [nvim-cmp extension](#nvim-cmp-extension)
     - [nvim-cmp sources](#nvim-cmp-sources)
     - [nvim-cmp comparator](#nvim-cmp-comparator)
+  - [blink source](#blink-source)
   - [Auto Completion support](#auto-completion-support)
 - [Standard Completion](#standard-completion)
 
@@ -29,15 +30,6 @@
 - [brianaung/autocompl.nvim](https://github.com/brianaung/autocompl.nvim) ![](https://img.shields.io/github/stars/brianaung/autocompl.nvim) ![](https://img.shields.io/github/last-commit/brianaung/autocompl.nvim) ![](https://img.shields.io/github/commit-activity/y/brianaung/autocompl.nvim)
 - [max397574/care.nvim](https://github.com/max397574/care.nvim) ![](https://img.shields.io/github/stars/max397574/care.nvim) ![](https://img.shields.io/github/last-commit/max397574/care.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/care.nvim)
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) ![](https://img.shields.io/github/stars/Saghen/blink.cmp) ![](https://img.shields.io/github/last-commit/Saghen/blink.cmp) ![](https://img.shields.io/github/commit-activity/y/Saghen/blink.cmp)
-  - [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/stars/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/last-commit/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/blink-cmp-rg.nvim)
-  - [Nikutsuki/bcp.nvim](https://github.com/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/stars/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/last-commit/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nikutsuki/bcp.nvim)
-  - [giuxtaposition/blink-cmp-copilot](https://github.com/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/stars/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/last-commit/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/giuxtaposition/blink-cmp-copilot)
-  - [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/stars/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/blink-ripgrep.nvim)
-  - [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/stars/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/last-commit/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/moyiz/blink-emoji.nvim)
-  - [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) ![](https://img.shields.io/github/stars/fang2hou/blink-copilot) ![](https://img.shields.io/github/last-commit/fang2hou/blink-copilot) ![](https://img.shields.io/github/commit-activity/y/fang2hou/blink-copilot)
-  - [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-nerdfont.nvim)
-  - [MahanRahmati/blink-look.nvim](https://github.com/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-look.nvim)
-  - [KevinNitroG/blink-sql.nvim](https://github.com/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/stars/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/last-commit/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/KevinNitroG/blink-sql.nvim)
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 - [nvimdev/phoenix.nvim](https://github.com/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/stars/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/phoenix.nvim)
 - [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) ![](https://img.shields.io/github/stars/wsdjeg/nvim-completion) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-completion) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-completion)
@@ -102,6 +94,18 @@
 #### nvim-cmp comparator
 
 - [lukas-reineke/cmp-under-comparator](https://github.com/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/stars/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/last-commit/lukas-reineke/cmp-under-comparator) ![](https://img.shields.io/github/commit-activity/y/lukas-reineke/cmp-under-comparator)
+
+### blink source
+
+- [niuiic/blink-cmp-rg.nvim](https://github.com/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/stars/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/last-commit/niuiic/blink-cmp-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/blink-cmp-rg.nvim)
+- [Nikutsuki/bcp.nvim](https://github.com/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/stars/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/last-commit/Nikutsuki/bcp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nikutsuki/bcp.nvim)
+- [giuxtaposition/blink-cmp-copilot](https://github.com/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/stars/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/last-commit/giuxtaposition/blink-cmp-copilot) ![](https://img.shields.io/github/commit-activity/y/giuxtaposition/blink-cmp-copilot)
+- [mikavilpas/blink-ripgrep.nvim](https://github.com/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/stars/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/last-commit/mikavilpas/blink-ripgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/mikavilpas/blink-ripgrep.nvim)
+- [moyiz/blink-emoji.nvim](https://github.com/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/stars/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/last-commit/moyiz/blink-emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/moyiz/blink-emoji.nvim)
+- [fang2hou/blink-copilot](https://github.com/fang2hou/blink-copilot) ![](https://img.shields.io/github/stars/fang2hou/blink-copilot) ![](https://img.shields.io/github/last-commit/fang2hou/blink-copilot) ![](https://img.shields.io/github/commit-activity/y/fang2hou/blink-copilot)
+- [MahanRahmati/blink-nerdfont.nvim](https://github.com/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-nerdfont.nvim)
+- [MahanRahmati/blink-look.nvim](https://github.com/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/stars/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/last-commit/MahanRahmati/blink-look.nvim) ![](https://img.shields.io/github/commit-activity/y/MahanRahmati/blink-look.nvim)
+- [KevinNitroG/blink-sql.nvim](https://github.com/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/stars/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/last-commit/KevinNitroG/blink-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/KevinNitroG/blink-sql.nvim)
 
 ### Auto Completion support
 
