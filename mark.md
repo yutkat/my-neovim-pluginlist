@@ -41,6 +41,7 @@
 - [swit33/cycle_trail.nvim](https://github.com/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/stars/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/last-commit/swit33/cycle_trail.nvim) ![](https://img.shields.io/github/commit-activity/y/swit33/cycle_trail.nvim)
 - [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
 - [yangxingwu/nvim-mark.lua](https://github.com/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/stars/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/last-commit/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/commit-activity/y/yangxingwu/nvim-mark.lua)
+- [CMOISDEAD/marks.nvim](https://github.com/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/stars/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/last-commit/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/CMOISDEAD/marks.nvim)
 
 ### extmark
 
