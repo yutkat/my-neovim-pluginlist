@@ -110,6 +110,7 @@
 - [Kaiser-Yang/blink-cmp-git](https://github.com/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/stars/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/blink-cmp-git) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/blink-cmp-git)
 - [bydlw98/blink-cmp-sshconfig](https://github.com/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-sshconfig)
 - [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-env)
+- [disrupted/blink-cmp-conventional-commits](https://github.com/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/stars/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/last-commit/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/commit-activity/y/disrupted/blink-cmp-conventional-commits)
 
 ### Auto Completion support
 
