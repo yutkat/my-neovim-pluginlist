@@ -23,7 +23,6 @@
 ## Formatter
 
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) ![](https://img.shields.io/github/stars/stevearc/conform.nvim) ![](https://img.shields.io/github/last-commit/stevearc/conform.nvim) ![](https://img.shields.io/github/commit-activity/y/stevearc/conform.nvim)
-  - [zapling/mason-conform.nvim](https://github.com/zapling/mason-conform.nvim) ![](https://img.shields.io/github/stars/zapling/mason-conform.nvim) ![](https://img.shields.io/github/last-commit/zapling/mason-conform.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/mason-conform.nvim)
   - [pojokcodeid/auto-conform.nvim](https://github.com/pojokcodeid/auto-conform.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-conform.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-conform.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-conform.nvim)
 - [elentok/format-on-save.nvim](https://github.com/elentok/format-on-save.nvim) ![](https://img.shields.io/github/stars/elentok/format-on-save.nvim) ![](https://img.shields.io/github/last-commit/elentok/format-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/elentok/format-on-save.nvim)
 - [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim) ![](https://img.shields.io/github/stars/mhartington/formatter.nvim) ![](https://img.shields.io/github/last-commit/mhartington/formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/mhartington/formatter.nvim)
