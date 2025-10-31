@@ -30,6 +30,7 @@
 - [adibhanna/phprefactoring.nvim](https://github.com/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/stars/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/last-commit/adibhanna/phprefactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/adibhanna/phprefactoring.nvim)
 - [nik-zsh/enhanced-php-indent.nvim](https://github.com/nik-zsh/enhanced-php-indent.nvim) ![](https://img.shields.io/github/stars/nik-zsh/enhanced-php-indent.nvim) ![](https://img.shields.io/github/last-commit/nik-zsh/enhanced-php-indent.nvim) ![](https://img.shields.io/github/commit-activity/y/nik-zsh/enhanced-php-indent.nvim)
 - [zkucekovic/create-from-ns.nvim](https://github.com/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/stars/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/last-commit/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/commit-activity/y/zkucekovic/create-from-ns.nvim)
+- [nemanjajojic/package-version.nvim](https://github.com/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/stars/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/last-commit/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/commit-activity/y/nemanjajojic/package-version.nvim)
 
 ### test
 

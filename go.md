@@ -179,6 +179,7 @@
 ### gomodifytags
 
 - [zgs225/gomodifytags.nvim](https://github.com/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/stars/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/last-commit/zgs225/gomodifytags.nvim) ![](https://img.shields.io/github/commit-activity/y/zgs225/gomodifytags.nvim)
+- [asirago/blend.nvim](https://github.com/asirago/blend.nvim) ![](https://img.shields.io/github/stars/asirago/blend.nvim) ![](https://img.shields.io/github/last-commit/asirago/blend.nvim) ![](https://img.shields.io/github/commit-activity/y/asirago/blend.nvim)
 
 ## Framework
 
