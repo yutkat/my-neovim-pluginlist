@@ -711,6 +711,7 @@
 ## ACP
 
 - [manno23/nvim-acp](https://github.com/manno23/nvim-acp) ![](https://img.shields.io/github/stars/manno23/nvim-acp) ![](https://img.shields.io/github/last-commit/manno23/nvim-acp) ![](https://img.shields.io/github/commit-activity/y/manno23/nvim-acp)
+- [slimslenderslacks/nvim-cagent](https://github.com/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-cagent)
 
 ## ignore
 

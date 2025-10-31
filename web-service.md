@@ -202,6 +202,7 @@
 - [amorenoz/jiracli.nvim](https://github.com/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/stars/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/last-commit/amorenoz/jiracli.nvim) ![](https://img.shields.io/github/commit-activity/y/amorenoz/jiracli.nvim)
 - [pandalec/jiratui.nvim](https://github.com/pandalec/jiratui.nvim) ![](https://img.shields.io/github/stars/pandalec/jiratui.nvim) ![](https://img.shields.io/github/last-commit/pandalec/jiratui.nvim) ![](https://img.shields.io/github/commit-activity/y/pandalec/jiratui.nvim)
 - [bartcortooms/task-manager.nvim](https://github.com/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/stars/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/last-commit/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/bartcortooms/task-manager.nvim)
+- [ZGltYQ/jira-time.nvim](https://github.com/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/stars/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/last-commit/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/commit-activity/y/ZGltYQ/jira-time.nvim)
 
 ### Confluence
 
