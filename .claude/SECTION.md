@@ -30,6 +30,8 @@
 ### Mentat
 ### Worker AI
 ### Codeium
+### Continue
+### Compass
 ### Zeke
 ### Groq
 ### Gen42 AI
@@ -50,6 +52,7 @@
 ## AI Completion
 ### Copilot
 ### Genie CLI
+## Agent
 ## Chat
 ## AI Terminal
 ## Cursor
@@ -90,6 +93,7 @@
 ### Wakatime
 ### Mapping stat
 ### Typing speed
+### Writing metrics
 ### Operation Log
 ### Clockify
 ### Performance Test
@@ -306,6 +310,7 @@
 ### nvim-cmp extension
 #### nvim-cmp sources
 #### nvim-cmp comparator
+### blink source
 ### Auto Completion support
 ## Standard Completion
 
@@ -510,6 +515,7 @@
 ### Create directory
 ### Tree View
 ### File rename
+### Trash
 
 # filetype.md
 ## ftdetect(Filetype detector)
@@ -702,6 +708,7 @@
 ### Verilog
 ### Grooper
 ### SketchUp
+### Raspberry PI
 ### Robot
 #### ROS
 #### FRC(First robotics competition)
@@ -828,6 +835,7 @@
 ### Audio
 #### SuperCollider
 #### LilyPond
+#### Text-to-speech
 ### Core dump
 ### dump file
 ## Proprietary Software
@@ -1032,6 +1040,7 @@
 #### Cyber
 #### Aeria
 #### Apple II
+#### C64
 #### Templaty
 #### Timur
 #### Storm
@@ -1244,6 +1253,7 @@
 ### YouTube Music
 ### Tidal
 ### Strudel
+### GABC
 ### Reaper
 #### MIDI
 #### ABC Notation
@@ -1294,6 +1304,7 @@
 ## async
 ## Thread
 ## Coroutine
+## lazy-loading
 ## Reactive
 ## String
 ## List
@@ -1331,6 +1342,7 @@
 ## SQLite
 ## JSON
 ## YAML
+## TOML
 ## Require
 ## Hook
 ## Mode
@@ -1359,6 +1371,7 @@
 ### Org mode
 ### Zettelkasten
 ### Markdown
+### Journal
 ### ToDo
 #### Google Task
 #### Taskwarrior
@@ -1491,6 +1504,7 @@
 ### Hurl
 ### Graphql
 ### WebSocket
+### MQTT
 ### webrcp
 ### httpyac
 ### HL7
@@ -1963,6 +1977,7 @@
 #### YouTube
 ### Study
 #### French
+#### Hangul
 ### Speech
 ### Sports
 #### NHL
@@ -2012,6 +2027,7 @@
 ### Notion
 ### esa.io
 ### Dev
+### Local server
 ### Fatebook
 ### micro.blog
 ### Gmail
@@ -2057,6 +2073,7 @@
 ## Web3
 ## CI
 ### CircleCI
+### GitHub Actions
 ### Nx
 ### Jenkins
 ### SonarQube
