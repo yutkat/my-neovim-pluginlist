@@ -53,6 +53,7 @@
 - [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
 - [racakenon/vscode-unicode-highlight.nvim](https://github.com/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/stars/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/last-commit/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/racakenon/vscode-unicode-highlight.nvim)
 - [vsuhanov/region-highlight.nvim](https://github.com/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/stars/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/vsuhanov/region-highlight.nvim)
+- [martinholy/widechar.nvim](https://github.com/martinholy/widechar.nvim) ![](https://img.shields.io/github/stars/martinholy/widechar.nvim) ![](https://img.shields.io/github/last-commit/martinholy/widechar.nvim) ![](https://img.shields.io/github/commit-activity/y/martinholy/widechar.nvim)
 
 ### Delimiter
 
@@ -181,6 +182,7 @@
 - [tahayvr/chameleon.nvim](https://github.com/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/stars/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/last-commit/tahayvr/chameleon.nvim) ![](https://img.shields.io/github/commit-activity/y/tahayvr/chameleon.nvim)
 - [Erl-koenig/theme-hub.nvim](https://github.com/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/stars/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/last-commit/Erl-koenig/theme-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/Erl-koenig/theme-hub.nvim)
 - [flashcodes-themayankjha/fkthemes.nvim](https://github.com/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/fkthemes.nvim)
+- [mavantgarderc/raphael.nvim](https://github.com/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/stars/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/last-commit/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/commit-activity/y/mavantgarderc/raphael.nvim)
 
 ### Colorscheme overwrite
 

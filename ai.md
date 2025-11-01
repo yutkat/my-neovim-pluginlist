@@ -603,6 +603,7 @@
 - [keller00/cursor-agent.nvim](https://github.com/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/stars/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/keller00/cursor-agent.nvim)
 - [gosvig123/nvim-cursor](https://github.com/gosvig123/nvim-cursor) ![](https://img.shields.io/github/stars/gosvig123/nvim-cursor) ![](https://img.shields.io/github/last-commit/gosvig123/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/gosvig123/nvim-cursor)
 - [bleda/cursor.nvim](https://github.com/bleda/cursor.nvim) ![](https://img.shields.io/github/stars/bleda/cursor.nvim) ![](https://img.shields.io/github/last-commit/bleda/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bleda/cursor.nvim)
+- [koikonom/nvim-cursor](https://github.com/koikonom/nvim-cursor) ![](https://img.shields.io/github/stars/koikonom/nvim-cursor) ![](https://img.shields.io/github/last-commit/koikonom/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/koikonom/nvim-cursor)
 
 ## CodeCompanion
 
