@@ -42,6 +42,7 @@
 - [christerk/fumbbl.nvim](https://github.com/christerk/fumbbl.nvim) ![](https://img.shields.io/github/stars/christerk/fumbbl.nvim) ![](https://img.shields.io/github/last-commit/christerk/fumbbl.nvim) ![](https://img.shields.io/github/commit-activity/y/christerk/fumbbl.nvim)
 - [StealthSoldierM/conways-gol.nvim](https://github.com/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/stars/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/last-commit/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/commit-activity/y/StealthSoldierM/conways-gol.nvim)
 - [jthom233/nvim-zelda](https://github.com/jthom233/nvim-zelda) ![](https://img.shields.io/github/stars/jthom233/nvim-zelda) ![](https://img.shields.io/github/last-commit/jthom233/nvim-zelda) ![](https://img.shields.io/github/commit-activity/y/jthom233/nvim-zelda)
+- [GreenStarMatter/nvim-golf](https://github.com/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/stars/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/last-commit/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/commit-activity/y/GreenStarMatter/nvim-golf)
 
 ### Snake
 

@@ -69,6 +69,7 @@
 - [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
 - [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
 - [g0t4/telescope-picker-picker.nvim](https://github.com/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/stars/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/last-commit/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/telescope-picker-picker.nvim)
+- [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
 
 #### Sorter
 

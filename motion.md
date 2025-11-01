@@ -139,6 +139,7 @@
 - [nvimdev/cwordmini.nvim](https://github.com/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/stars/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/cwordmini.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/cwordmini.nvim)
 - [sevaaaDev/easy-vsel.nvim](https://github.com/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/stars/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/last-commit/sevaaaDev/easy-vsel.nvim) ![](https://img.shields.io/github/commit-activity/y/sevaaaDev/easy-vsel.nvim)
 - [vallahor/delite.nvim](https://github.com/vallahor/delite.nvim) ![](https://img.shields.io/github/stars/vallahor/delite.nvim) ![](https://img.shields.io/github/last-commit/vallahor/delite.nvim) ![](https://img.shields.io/github/commit-activity/y/vallahor/delite.nvim)
+- [hashylog/micro-motion.nvim](https://github.com/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/stars/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/last-commit/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/hashylog/micro-motion.nvim)
 
 ### Line Move
 

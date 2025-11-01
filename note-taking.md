@@ -97,6 +97,7 @@
 - [r7sqtr/Noxen.nvim](https://github.com/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/stars/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/Noxen.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/Noxen.nvim)
 - [Sombrechip88244/tempura.nvim](https://github.com/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/stars/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/last-commit/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrechip88244/tempura.nvim)
 - [darwincereska/notes.nvim](https://github.com/darwincereska/notes.nvim) ![](https://img.shields.io/github/stars/darwincereska/notes.nvim) ![](https://img.shields.io/github/last-commit/darwincereska/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/darwincereska/notes.nvim)
+- [68mschmitt/thoughtworks.nvim](https://github.com/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/stars/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/thoughtworks.nvim)
 
 ### Journal
 
