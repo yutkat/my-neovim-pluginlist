@@ -36,7 +36,6 @@
 - [jeroldhu/symbols-outline.nvim](https://github.com/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/stars/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroldhu/symbols-outline.nvim)
 - [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
-- [tttol/md-outline.nvim](https://github.com/tttol/md-outline.nvim) ![](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![](https://img.shields.io/github/last-commit/tttol/md-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/tttol/md-outline.nvim)
 - [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
 
 ## Definition
