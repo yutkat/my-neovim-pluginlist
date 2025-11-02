@@ -43,6 +43,7 @@
 - [StealthSoldierM/conways-gol.nvim](https://github.com/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/stars/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/last-commit/StealthSoldierM/conways-gol.nvim) ![](https://img.shields.io/github/commit-activity/y/StealthSoldierM/conways-gol.nvim)
 - [jthom233/nvim-zelda](https://github.com/jthom233/nvim-zelda) ![](https://img.shields.io/github/stars/jthom233/nvim-zelda) ![](https://img.shields.io/github/last-commit/jthom233/nvim-zelda) ![](https://img.shields.io/github/commit-activity/y/jthom233/nvim-zelda)
 - [GreenStarMatter/nvim-golf](https://github.com/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/stars/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/last-commit/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/commit-activity/y/GreenStarMatter/nvim-golf)
+- [linuxswords/nvim-tsumego](https://github.com/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/stars/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/last-commit/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/commit-activity/y/linuxswords/nvim-tsumego)
 
 ### Snake
 

@@ -140,6 +140,7 @@
 ##### Title explorer
 
 - [zKurisu/markdown-tree.nvim](https://github.com/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/stars/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/markdown-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/markdown-tree.nvim)
+- [tttol/md-outline.nvim](https://github.com/tttol/md-outline.nvim) ![](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![](https://img.shields.io/github/last-commit/tttol/md-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/tttol/md-outline.nvim)
 
 ##### Section
 

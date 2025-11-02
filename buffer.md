@@ -90,6 +90,7 @@
 - [smellydelli/prowl.nvim](https://github.com/smellydelli/prowl.nvim) ![](https://img.shields.io/github/stars/smellydelli/prowl.nvim) ![](https://img.shields.io/github/last-commit/smellydelli/prowl.nvim) ![](https://img.shields.io/github/commit-activity/y/smellydelli/prowl.nvim)
 - [DDaanieloliv/Pickup-buffer.nvim](https://github.com/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/stars/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/last-commit/DDaanieloliv/Pickup-buffer.nvim) ![](https://img.shields.io/github/commit-activity/y/DDaanieloliv/Pickup-buffer.nvim)
 - [naughie/buffer-switcher.nvim](https://github.com/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/stars/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/last-commit/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/buffer-switcher.nvim)
+- [benbpyle/modified-buffers.nvim](https://github.com/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/stars/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/last-commit/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/benbpyle/modified-buffers.nvim)
 
 ### Other Buffer Switcher
 

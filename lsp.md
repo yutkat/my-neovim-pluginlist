@@ -223,6 +223,7 @@
 - [radioactivepb/hoverflex.nvim](https://github.com/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/stars/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/last-commit/radioactivepb/hoverflex.nvim) ![](https://img.shields.io/github/commit-activity/y/radioactivepb/hoverflex.nvim)
 - [star-lance/nvim-hoverfloat](https://github.com/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/stars/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/last-commit/star-lance/nvim-hoverfloat) ![](https://img.shields.io/github/commit-activity/y/star-lance/nvim-hoverfloat)
 - [hadikhamoud/hover-rtl.nvim](https://github.com/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/stars/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/last-commit/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/commit-activity/y/hadikhamoud/hover-rtl.nvim)
+- [RamAvni/expandable-hover.nvim](https://github.com/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/stars/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/last-commit/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/RamAvni/expandable-hover.nvim)
 
 ##### Hover info
 

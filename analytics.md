@@ -80,6 +80,7 @@
 - [gmatheu/keymap-stats.nvim](https://github.com/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/stars/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/last-commit/gmatheu/keymap-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/gmatheu/keymap-stats.nvim)
 - [dougrocha/keytrack.nvim](https://github.com/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/stars/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/last-commit/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/commit-activity/y/dougrocha/keytrack.nvim)
 - [menisadi/keychain.nvim](https://github.com/menisadi/keychain.nvim) ![](https://img.shields.io/github/stars/menisadi/keychain.nvim) ![](https://img.shields.io/github/last-commit/menisadi/keychain.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/keychain.nvim)
+- [ryoppippi/nvim-in-the-loop](https://github.com/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/stars/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-in-the-loop)
 
 ### Typing speed
 
