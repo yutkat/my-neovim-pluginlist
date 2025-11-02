@@ -576,6 +576,7 @@
 ## Agent
 
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
+- [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
 
 ## Chat
 
