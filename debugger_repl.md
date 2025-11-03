@@ -69,6 +69,7 @@
 - [deahtstroke/dap-profiler.nvim](https://github.com/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/stars/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/last-commit/deahtstroke/dap-profiler.nvim) ![](https://img.shields.io/github/commit-activity/y/deahtstroke/dap-profiler.nvim)
 - [tong/nvim-dap-haxe](https://github.com/tong/nvim-dap-haxe) ![](https://img.shields.io/github/stars/tong/nvim-dap-haxe) ![](https://img.shields.io/github/last-commit/tong/nvim-dap-haxe) ![](https://img.shields.io/github/commit-activity/y/tong/nvim-dap-haxe)
 - [ravsii/nvim-dap-envfile](https://github.com/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/last-commit/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/commit-activity/y/ravsii/nvim-dap-envfile)
+- [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-dap.nvim)
 
 #### Launch.json
 

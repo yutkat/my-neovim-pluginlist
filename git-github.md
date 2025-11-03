@@ -384,6 +384,7 @@
 - [rbmarliere/gitree.nvim](https://github.com/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/stars/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/gitree.nvim)
 - [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
 - [ALPHAvibe/telescope-worktree-vibes.nvim](https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-worktree-vibes.nvim)
+- [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
 
 ### submodule
 
@@ -458,6 +459,7 @@
 ## GitHub
 
 - [2kabhishek/octohub.nvim](https://github.com/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/stars/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/octohub.nvim)
+- [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-github.nvim)
 
 ### Features like gh
 
