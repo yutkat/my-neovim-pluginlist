@@ -154,6 +154,7 @@
 - [edo1z/gitview.nvim](https://github.com/edo1z/gitview.nvim) ![](https://img.shields.io/github/stars/edo1z/gitview.nvim) ![](https://img.shields.io/github/last-commit/edo1z/gitview.nvim) ![](https://img.shields.io/github/commit-activity/y/edo1z/gitview.nvim)
 - [ctrlShiftBryan/ba-tools.nvim](https://github.com/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/stars/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/last-commit/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctrlShiftBryan/ba-tools.nvim)
 - [n1kben/gitcast.nvim](https://github.com/n1kben/gitcast.nvim) ![](https://img.shields.io/github/stars/n1kben/gitcast.nvim) ![](https://img.shields.io/github/last-commit/n1kben/gitcast.nvim) ![](https://img.shields.io/github/commit-activity/y/n1kben/gitcast.nvim)
+- [kimpure/gitcolors.nvim](https://github.com/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/stars/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/last-commit/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/gitcolors.nvim)
 
 ### git add
 
@@ -382,6 +383,7 @@
 - [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
 - [rbmarliere/gitree.nvim](https://github.com/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/stars/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/gitree.nvim)
 - [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
+- [ALPHAvibe/telescope-worktree-vibes.nvim](https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-worktree-vibes.nvim)
 
 ### submodule
 

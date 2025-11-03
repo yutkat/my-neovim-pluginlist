@@ -356,6 +356,7 @@
 - [coldpatch/scratch.nvim](https://github.com/coldpatch/scratch.nvim) ![](https://img.shields.io/github/stars/coldpatch/scratch.nvim) ![](https://img.shields.io/github/last-commit/coldpatch/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/coldpatch/scratch.nvim)
 - [aiya000/nvim-mado-scratch-buffer](https://github.com/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch-buffer)
 - [diegoortizmatajira/workspace-scratch-files.nvim](https://github.com/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/workspace-scratch-files.nvim)
+- [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
 
 ### inline note
 

@@ -25,6 +25,7 @@
 - [MeanderingProgrammer/treesitter-modules.nvim](https://github.com/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/stars/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/last-commit/MeanderingProgrammer/treesitter-modules.nvim) ![](https://img.shields.io/github/commit-activity/y/MeanderingProgrammer/treesitter-modules.nvim)
 - [acarapetis/nvim-treesitter-jjconfig](https://github.com/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/stars/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/last-commit/acarapetis/nvim-treesitter-jjconfig) ![](https://img.shields.io/github/commit-activity/y/acarapetis/nvim-treesitter-jjconfig)
 - [TheNoeTrevino/roids.nvim](https://github.com/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/roids.nvim)
+- [a73s/treesitter-diagnostics.nvim](https://github.com/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/stars/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/a73s/treesitter-diagnostics.nvim)
 
 ### Installer
 
