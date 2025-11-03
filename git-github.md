@@ -383,6 +383,7 @@
 - [mitubaEX/git_worktree.nvim](https://github.com/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/stars/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/git_worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/git_worktree.nvim)
 - [rbmarliere/gitree.nvim](https://github.com/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/stars/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/gitree.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/gitree.nvim)
 - [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
+- [ALPHAvibe/telescope-worktree-vibes.nvim](https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-worktree-vibes.nvim)
 
 ### submodule
 
