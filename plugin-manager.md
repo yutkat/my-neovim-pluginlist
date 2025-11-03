@@ -53,6 +53,7 @@
 ### Use builtin package feature
 
 - [lewis6991/pckr.nvim](https://github.com/lewis6991/pckr.nvim) ![](https://img.shields.io/github/stars/lewis6991/pckr.nvim) ![](https://img.shields.io/github/last-commit/lewis6991/pckr.nvim) ![](https://img.shields.io/github/commit-activity/y/lewis6991/pckr.nvim)
+  - [nvim-telescope/telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-packer.nvim)
 - [savq/paq-nvim](https://github.com/savq/paq-nvim) ![](https://img.shields.io/github/stars/savq/paq-nvim) ![](https://img.shields.io/github/last-commit/savq/paq-nvim) ![](https://img.shields.io/github/commit-activity/y/savq/paq-nvim)
   - [saccarosium/pack.nvim](https://github.com/saccarosium/pack.nvim) ![](https://img.shields.io/github/stars/saccarosium/pack.nvim) ![](https://img.shields.io/github/last-commit/saccarosium/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/saccarosium/pack.nvim)
 - [nvim-plugnplay/plugnplay.nvim](https://github.com/nvim-plugnplay/plugnplay.nvim) ![](https://img.shields.io/github/stars/nvim-plugnplay/plugnplay.nvim) ![](https://img.shields.io/github/last-commit/nvim-plugnplay/plugnplay.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-plugnplay/plugnplay.nvim)

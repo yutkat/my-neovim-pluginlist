@@ -55,6 +55,7 @@
 - [herisetiawan00/eskopi.nvim](https://github.com/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/stars/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/last-commit/herisetiawan00/eskopi.nvim) ![](https://img.shields.io/github/commit-activity/y/herisetiawan00/eskopi.nvim)
 - [hamzahshahbazkhan/floatingClipboard.nvim](https://github.com/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/stars/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/last-commit/hamzahshahbazkhan/floatingClipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/hamzahshahbazkhan/floatingClipboard.nvim)
 - [Geertsky/edit_and_yank.nvim](https://github.com/Geertsky/edit_and_yank.nvim) ![](https://img.shields.io/github/stars/Geertsky/edit_and_yank.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/edit_and_yank.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/edit_and_yank.nvim)
+- [adia-dev/cpy_buffers.nvim](https://github.com/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/stars/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/cpy_buffers.nvim)
 
 ### yank highlight
 

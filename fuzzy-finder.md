@@ -4,12 +4,11 @@
 
 - [FuzzyFinder](#fuzzyfinder)
   - [Telescope Extensions](#telescope-extensions)
-    - [Picker](#picker)
+    - [Build-in Picker Extension](#build-in-picker-extension)
     - [Sorter](#sorter)
     - [Action](#action)
     - [Utils](#utils)
     - [Grep](#grep)
-    - [Integration for another plugin](#integration-for-another-plugin)
 
 <!-- tocstop -->
 
@@ -59,17 +58,13 @@
 
 ### Telescope Extensions
 
-#### Picker
+#### Build-in Picker Extension
 
 - [OliverChao/telescope-picker-list.nvim](https://github.com/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/stars/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/telescope-picker-list.nvim)
 - [vhminh/better-telescope-builtins.nvim](https://github.com/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/stars/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/last-commit/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/commit-activity/y/vhminh/better-telescope-builtins.nvim)
 - [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
-- [zigius/telescope-links-picker.nvim](https://github.com/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/stars/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/last-commit/zigius/telescope-links-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/zigius/telescope-links-picker.nvim)
-- [adia-dev/cpy_buffers.nvim](https://github.com/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/stars/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/cpy_buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/cpy_buffers.nvim)
 - [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
-- [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
 - [g0t4/telescope-picker-picker.nvim](https://github.com/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/stars/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/last-commit/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/telescope-picker-picker.nvim)
-- [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
 
 #### Sorter
 
@@ -98,13 +93,3 @@
 - [nvim-telescope/telescope-rg.nvim](https://github.com/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-rg.nvim)
 - [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-writer.nvim)
 - [thenbe/telescope-glob.nvim](https://github.com/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/stars/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/last-commit/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/telescope-glob.nvim)
-
-#### Integration for another plugin
-
-- [nvim-telescope/telescope-packer.nvim](https://github.com/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-packer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-packer.nvim)
-- [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-github.nvim)
-- [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-dap.nvim)
-- [benfowler/telescope-luasnip.nvim](https://github.com/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/stars/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/last-commit/benfowler/telescope-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/benfowler/telescope-luasnip.nvim)
-- [delphinus/telescope-memo.nvim](https://github.com/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/stars/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/last-commit/delphinus/telescope-memo.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/telescope-memo.nvim)
-- [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/stars/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvmanila/telescope-bookmarks.nvim)
-- [lexay/telescope-buffers-zoxide.nvim](https://github.com/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/stars/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/last-commit/lexay/telescope-buffers-zoxide.nvim) ![](https://img.shields.io/github/commit-activity/y/lexay/telescope-buffers-zoxide.nvim)
