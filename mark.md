@@ -42,6 +42,7 @@
 - [ZachVec/neo-tree-mark.nvim](https://github.com/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/stars/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/last-commit/ZachVec/neo-tree-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachVec/neo-tree-mark.nvim)
 - [yangxingwu/nvim-mark.lua](https://github.com/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/stars/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/last-commit/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/commit-activity/y/yangxingwu/nvim-mark.lua)
 - [CMOISDEAD/marks.nvim](https://github.com/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/stars/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/last-commit/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/CMOISDEAD/marks.nvim)
+- [ALPHAvibe/marks-vibes.nvim](https://github.com/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/marks-vibes.nvim)
 
 ### extmark
 
@@ -130,6 +131,7 @@
 - [atiladefreitas/booky.nvim](https://github.com/atiladefreitas/booky.nvim) ![](https://img.shields.io/github/stars/atiladefreitas/booky.nvim) ![](https://img.shields.io/github/last-commit/atiladefreitas/booky.nvim) ![](https://img.shields.io/github/commit-activity/y/atiladefreitas/booky.nvim)
 - [kkanden/minipoon.nvim](https://github.com/kkanden/minipoon.nvim) ![](https://img.shields.io/github/stars/kkanden/minipoon.nvim) ![](https://img.shields.io/github/last-commit/kkanden/minipoon.nvim) ![](https://img.shields.io/github/commit-activity/y/kkanden/minipoon.nvim)
 - [elanmed/marks.nvim](https://github.com/elanmed/marks.nvim) ![](https://img.shields.io/github/stars/elanmed/marks.nvim) ![](https://img.shields.io/github/last-commit/elanmed/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/marks.nvim)
+- [yilisharcs/quarrel.nvim](https://github.com/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/stars/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/quarrel.nvim)
 
 ### etc
 

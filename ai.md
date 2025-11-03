@@ -164,6 +164,7 @@
 - [morre95/codex-resume.nvim](https://github.com/morre95/codex-resume.nvim) ![](https://img.shields.io/github/stars/morre95/codex-resume.nvim) ![](https://img.shields.io/github/last-commit/morre95/codex-resume.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/codex-resume.nvim)
 - [kevinh-e/codex.nvim](https://github.com/kevinh-e/codex.nvim) ![](https://img.shields.io/github/stars/kevinh-e/codex.nvim) ![](https://img.shields.io/github/last-commit/kevinh-e/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinh-e/codex.nvim)
 - [heliumsneakers/archie.nvim](https://github.com/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/archie.nvim)
+- [mickyyy68/codex.nvim](https://github.com/mickyyy68/codex.nvim) ![](https://img.shields.io/github/stars/mickyyy68/codex.nvim) ![](https://img.shields.io/github/last-commit/mickyyy68/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/mickyyy68/codex.nvim)
 
 #### Whisper
 
@@ -577,6 +578,7 @@
 
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 - [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
+- [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
 
 ## Chat
 

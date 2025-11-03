@@ -553,6 +553,7 @@
 #### Coq
 
 - [tomtomjhj/vscoq.nvim](https://github.com/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/stars/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/last-commit/tomtomjhj/vscoq.nvim) ![](https://img.shields.io/github/commit-activity/y/tomtomjhj/vscoq.nvim)
+- [Thaumy/coq-goals.nvim](https://github.com/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/stars/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/last-commit/Thaumy/coq-goals.nvim) ![](https://img.shields.io/github/commit-activity/y/Thaumy/coq-goals.nvim)
 
 #### Mojo
 

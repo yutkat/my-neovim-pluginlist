@@ -585,6 +585,7 @@
 ## Code documentaion
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
+- [YanniPapandreou/livedocs.nvim](https://github.com/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/stars/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/last-commit/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/commit-activity/y/YanniPapandreou/livedocs.nvim)
 
 ## Dadoot
 
