@@ -120,6 +120,7 @@
 - [Euro20179/div.nvim](https://github.com/Euro20179/div.nvim) ![](https://img.shields.io/github/stars/Euro20179/div.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/div.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/div.nvim)
 - [Layxe/comment-divider.nvim](https://github.com/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/stars/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/last-commit/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/commit-activity/y/Layxe/comment-divider.nvim)
 - [SrVariable/gensec.nvim](https://github.com/SrVariable/gensec.nvim) ![](https://img.shields.io/github/stars/SrVariable/gensec.nvim) ![](https://img.shields.io/github/last-commit/SrVariable/gensec.nvim) ![](https://img.shields.io/github/commit-activity/y/SrVariable/gensec.nvim)
+- [marantz-dev/codeSeparator.nvim](https://github.com/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/stars/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/last-commit/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/commit-activity/y/marantz-dev/codeSeparator.nvim)
 
 ### Annotation
 
