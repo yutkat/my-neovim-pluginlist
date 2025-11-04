@@ -57,7 +57,6 @@
 - [lspcontainers/lspcontainers.nvim](https://github.com/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/stars/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/last-commit/lspcontainers/lspcontainers.nvim) ![](https://img.shields.io/github/commit-activity/y/lspcontainers/lspcontainers.nvim)
 - [dundalek/lazy-lsp.nvim](https://github.com/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/stars/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/last-commit/dundalek/lazy-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/lazy-lsp.nvim)
 - [anott03/nvim-lspinstall](https://github.com/anott03/nvim-lspinstall) ![](https://img.shields.io/github/stars/anott03/nvim-lspinstall) ![](https://img.shields.io/github/last-commit/anott03/nvim-lspinstall) ![](https://img.shields.io/github/commit-activity/y/anott03/nvim-lspinstall)
-- [alexaandru/nvim-lspupdate](https://github.com/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/stars/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/last-commit/alexaandru/nvim-lspupdate) ![](https://img.shields.io/github/commit-activity/y/alexaandru/nvim-lspupdate)
 
 ### LSP Feature Extension UI
 
