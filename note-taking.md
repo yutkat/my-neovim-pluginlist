@@ -98,6 +98,7 @@
 - [Sombrechip88244/tempura.nvim](https://github.com/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/stars/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/last-commit/Sombrechip88244/tempura.nvim) ![](https://img.shields.io/github/commit-activity/y/Sombrechip88244/tempura.nvim)
 - [darwincereska/notes.nvim](https://github.com/darwincereska/notes.nvim) ![](https://img.shields.io/github/stars/darwincereska/notes.nvim) ![](https://img.shields.io/github/last-commit/darwincereska/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/darwincereska/notes.nvim)
 - [68mschmitt/thoughtworks.nvim](https://github.com/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/stars/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/thoughtworks.nvim)
+- [randerson911/markdown-backlinks.nvim](https://github.com/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/stars/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/last-commit/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/randerson911/markdown-backlinks.nvim)
 
 ### Journal
 

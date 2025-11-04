@@ -105,6 +105,7 @@
 - [fasterius/slime-peek.nvim](https://github.com/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/stars/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/last-commit/fasterius/slime-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/fasterius/slime-peek.nvim)
 - [gaiwan-dev/nvim-repl](https://github.com/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/stars/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/last-commit/gaiwan-dev/nvim-repl) ![](https://img.shields.io/github/commit-activity/y/gaiwan-dev/nvim-repl)
 - [mghaight/replua.nvim](https://github.com/mghaight/replua.nvim) ![](https://img.shields.io/github/stars/mghaight/replua.nvim) ![](https://img.shields.io/github/last-commit/mghaight/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/mghaight/replua.nvim)
+- [m4r3k1598-lang/replua.nvim](https://github.com/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/stars/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/last-commit/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/m4r3k1598-lang/replua.nvim)
 
 ### Refactoring,Debugging
 

@@ -443,6 +443,7 @@
 - [yohendry/envs.nvim](https://github.com/yohendry/envs.nvim) ![](https://img.shields.io/github/stars/yohendry/envs.nvim) ![](https://img.shields.io/github/last-commit/yohendry/envs.nvim) ![](https://img.shields.io/github/commit-activity/y/yohendry/envs.nvim)
 - [Alexandersfg4/environment.nvim](https://github.com/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/stars/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/environment.nvim)
 - [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
+- [sociale11/envim.nvim](https://github.com/sociale11/envim.nvim) ![](https://img.shields.io/github/stars/sociale11/envim.nvim) ![](https://img.shields.io/github/last-commit/sociale11/envim.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/envim.nvim)
 
 ### Errorformat
 
