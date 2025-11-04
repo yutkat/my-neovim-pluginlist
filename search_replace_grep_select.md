@@ -112,6 +112,7 @@
 - [asiryk/auto-hlsearch.nvim](https://github.com/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/stars/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/last-commit/asiryk/auto-hlsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/asiryk/auto-hlsearch.nvim)
 - [sahlte/timed-highlight.nvim](https://github.com/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/stars/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/last-commit/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/sahlte/timed-highlight.nvim)
 - [am2b/stardust.nvim](https://github.com/am2b/stardust.nvim) ![](https://img.shields.io/github/stars/am2b/stardust.nvim) ![](https://img.shields.io/github/last-commit/am2b/stardust.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/stardust.nvim)
+- [Euro20179/find-highlight.nvim](https://github.com/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/stars/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/find-highlight.nvim)
 
 ### Visual search
 
@@ -149,6 +150,7 @@
 - [vigneshbalan-mvgs/nvim-ripreplace](https://github.com/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/stars/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/last-commit/vigneshbalan-mvgs/nvim-ripreplace) ![](https://img.shields.io/github/commit-activity/y/vigneshbalan-mvgs/nvim-ripreplace)
 - [mohammedbilalns/replace.nvim](https://github.com/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/stars/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/last-commit/mohammedbilalns/replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammedbilalns/replace.nvim)
 - [KiamMota/rr.nvim](https://github.com/KiamMota/rr.nvim) ![](https://img.shields.io/github/stars/KiamMota/rr.nvim) ![](https://img.shields.io/github/last-commit/KiamMota/rr.nvim) ![](https://img.shields.io/github/commit-activity/y/KiamMota/rr.nvim)
+- [utkayd/wherewolf.nvim](https://github.com/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/stars/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/last-commit/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/commit-activity/y/utkayd/wherewolf.nvim)
 
 ### Rename
 

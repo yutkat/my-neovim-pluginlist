@@ -418,6 +418,7 @@
 #### ibus
 
 - [lumynou5/ibus-switcher.nvim](https://github.com/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/stars/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/last-commit/lumynou5/ibus-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lumynou5/ibus-switcher.nvim)
+- [onewu867/ime-smart.nvim](https://github.com/onewu867/ime-smart.nvim) ![](https://img.shields.io/github/stars/onewu867/ime-smart.nvim) ![](https://img.shields.io/github/last-commit/onewu867/ime-smart.nvim) ![](https://img.shields.io/github/commit-activity/y/onewu867/ime-smart.nvim)
 
 #### SKK
 
