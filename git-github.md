@@ -446,6 +446,7 @@
 - [evanphx/jjsigns.nvim](https://github.com/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/stars/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/evanphx/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/evanphx/jjsigns.nvim)
 - [benjaminjellis/jjinfo.nvim](https://github.com/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/stars/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/last-commit/benjaminjellis/jjinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminjellis/jjinfo.nvim)
 - [trosh/Jdiffsplit.nvim](https://github.com/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/stars/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/last-commit/trosh/Jdiffsplit.nvim) ![](https://img.shields.io/github/commit-activity/y/trosh/Jdiffsplit.nvim)
+- [MrDwarf7/lazyjui.nvim](https://github.com/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/stars/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/last-commit/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDwarf7/lazyjui.nvim)
 
 ### diff
 
