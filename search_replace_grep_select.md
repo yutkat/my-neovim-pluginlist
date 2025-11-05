@@ -121,6 +121,7 @@
 ### File search
 
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
+- [ALPHAvibe/telescope-find-file-vibes.nvim](https://github.com/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-find-file-vibes.nvim)
 
 ## Replace
 
@@ -200,6 +201,10 @@
 - [Saverio976/telescope-cross-live-grep.nvim](https://github.com/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/stars/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/last-commit/Saverio976/telescope-cross-live-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/Saverio976/telescope-cross-live-grep.nvim)
 - [naughie/rg-fancy.nvim](https://github.com/naughie/rg-fancy.nvim) ![](https://img.shields.io/github/stars/naughie/rg-fancy.nvim) ![](https://img.shields.io/github/last-commit/naughie/rg-fancy.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/rg-fancy.nvim)
 - [aiya000/nvim-just-stay-search](https://github.com/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/stars/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/last-commit/aiya000/nvim-just-stay-search) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-just-stay-search)
+- [nvim-telescope/telescope-rg.nvim](https://github.com/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-rg.nvim)
+- [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-writer.nvim)
+- [thenbe/telescope-glob.nvim](https://github.com/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/stars/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/last-commit/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/telescope-glob.nvim)
+- [ALPHAvibe/telescope-grep-vibes.nvim](https://github.com/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-grep-vibes.nvim)
 
 ### AST (Semantic search)
 

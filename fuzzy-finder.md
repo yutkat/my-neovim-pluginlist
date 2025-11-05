@@ -4,11 +4,10 @@
 
 - [FuzzyFinder](#fuzzyfinder)
   - [Telescope Extensions](#telescope-extensions)
-    - [Build-in Picker Extension](#build-in-picker-extension)
+    - [Customize Build-in Picker](#customize-build-in-picker)
     - [Sorter](#sorter)
     - [Action](#action)
     - [Utils](#utils)
-    - [Grep](#grep)
 
 <!-- tocstop -->
 
@@ -58,15 +57,13 @@
 
 ### Telescope Extensions
 
-#### Build-in Picker Extension
+#### Customize Build-in Picker
 
 - [OliverChao/telescope-picker-list.nvim](https://github.com/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/stars/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/last-commit/OliverChao/telescope-picker-list.nvim) ![](https://img.shields.io/github/commit-activity/y/OliverChao/telescope-picker-list.nvim)
 - [vhminh/better-telescope-builtins.nvim](https://github.com/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/stars/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/last-commit/vhminh/better-telescope-builtins.nvim) ![](https://img.shields.io/github/commit-activity/y/vhminh/better-telescope-builtins.nvim)
 - [Jeansidharta/telescope-misc.nvim](https://github.com/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/stars/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/last-commit/Jeansidharta/telescope-misc.nvim) ![](https://img.shields.io/github/commit-activity/y/Jeansidharta/telescope-misc.nvim)
 - [harryhjsh/autoscope.nvim](https://github.com/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/stars/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/last-commit/harryhjsh/autoscope.nvim) ![](https://img.shields.io/github/commit-activity/y/harryhjsh/autoscope.nvim)
 - [g0t4/telescope-picker-picker.nvim](https://github.com/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/stars/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/last-commit/g0t4/telescope-picker-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/telescope-picker-picker.nvim)
-- [ALPHAvibe/telescope-find-file-vibes.nvim](https://github.com/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-find-file-vibes.nvim)
-- [ALPHAvibe/telescope-recent-files-vibes.nvim](https://github.com/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-recent-files-vibes.nvim)
 
 #### Sorter
 
@@ -89,10 +86,3 @@
 - [GitMarkedDan/telescope-better-keymaps.nvim](https://github.com/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/stars/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/last-commit/GitMarkedDan/telescope-better-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/GitMarkedDan/telescope-better-keymaps.nvim)
 - [xq-meng/neopop.nvim](https://github.com/xq-meng/neopop.nvim) ![](https://img.shields.io/github/stars/xq-meng/neopop.nvim) ![](https://img.shields.io/github/last-commit/xq-meng/neopop.nvim) ![](https://img.shields.io/github/commit-activity/y/xq-meng/neopop.nvim)
 - [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
-
-#### Grep
-
-- [nvim-telescope/telescope-rg.nvim](https://github.com/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-rg.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-rg.nvim)
-- [nvim-telescope/telescope-fzf-writer.nvim](https://github.com/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-fzf-writer.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-fzf-writer.nvim)
-- [thenbe/telescope-glob.nvim](https://github.com/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/stars/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/last-commit/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/telescope-glob.nvim)
-- [ALPHAvibe/telescope-grep-vibes.nvim](https://github.com/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-grep-vibes.nvim)
