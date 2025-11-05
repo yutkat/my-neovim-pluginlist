@@ -111,6 +111,7 @@
 - [bydlw98/blink-cmp-sshconfig](https://github.com/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-sshconfig) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-sshconfig)
 - [bydlw98/blink-cmp-env](https://github.com/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/stars/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/last-commit/bydlw98/blink-cmp-env) ![](https://img.shields.io/github/commit-activity/y/bydlw98/blink-cmp-env)
 - [disrupted/blink-cmp-conventional-commits](https://github.com/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/stars/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/last-commit/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/commit-activity/y/disrupted/blink-cmp-conventional-commits)
+- [erooke/blink-cmp-latex](https://github.com/erooke/blink-cmp-latex) ![](https://img.shields.io/github/stars/erooke/blink-cmp-latex) ![](https://img.shields.io/github/last-commit/erooke/blink-cmp-latex) ![](https://img.shields.io/github/commit-activity/y/erooke/blink-cmp-latex)
 
 ### Auto Completion support
 
