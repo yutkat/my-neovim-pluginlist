@@ -461,6 +461,7 @@
 
 - [2kabhishek/octohub.nvim](https://github.com/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/stars/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/octohub.nvim)
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-github.nvim)
+- [wsdjeg/github.nvim](https://github.com/wsdjeg/github.nvim) ![](https://img.shields.io/github/stars/wsdjeg/github.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/github.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/github.nvim)
 
 ### Features like gh
 

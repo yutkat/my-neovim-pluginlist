@@ -214,6 +214,7 @@
 - [TorrezMN/nvim_recent_file_picker.nvim](https://github.com/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/stars/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/last-commit/TorrezMN/nvim_recent_file_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/TorrezMN/nvim_recent_file_picker.nvim)
 - [mclean25/nvim-file-history](https://github.com/mclean25/nvim-file-history) ![](https://img.shields.io/github/stars/mclean25/nvim-file-history) ![](https://img.shields.io/github/last-commit/mclean25/nvim-file-history) ![](https://img.shields.io/github/commit-activity/y/mclean25/nvim-file-history)
 - [yuki-yano/snacks-smart-open.nvim](https://github.com/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-open.nvim)
+- [ALPHAvibe/telescope-recent-files-vibes.nvim](https://github.com/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-recent-files-vibes.nvim)
 
 ##### remote open
 
