@@ -165,6 +165,7 @@
 - [kevinh-e/codex.nvim](https://github.com/kevinh-e/codex.nvim) ![](https://img.shields.io/github/stars/kevinh-e/codex.nvim) ![](https://img.shields.io/github/last-commit/kevinh-e/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinh-e/codex.nvim)
 - [heliumsneakers/archie.nvim](https://github.com/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/archie.nvim)
 - [mickyyy68/codex.nvim](https://github.com/mickyyy68/codex.nvim) ![](https://img.shields.io/github/stars/mickyyy68/codex.nvim) ![](https://img.shields.io/github/last-commit/mickyyy68/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/mickyyy68/codex.nvim)
+- [JanSmrcka/codex.nvim](https://github.com/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/stars/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/last-commit/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/codex.nvim)
 
 #### Whisper
 

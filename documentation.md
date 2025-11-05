@@ -192,6 +192,7 @@
 - [brianhuster/live-preview.nvim](https://github.com/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/stars/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/live-preview.nvim)
 - [andev0x/mdview.nvim](https://github.com/andev0x/mdview.nvim) ![](https://img.shields.io/github/stars/andev0x/mdview.nvim) ![](https://img.shields.io/github/last-commit/andev0x/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/mdview.nvim)
 - [hostmyapps-git/live-preview.nvim](https://github.com/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/stars/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/last-commit/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/hostmyapps-git/live-preview.nvim)
+- [StefanBartl/mdview.nvim](https://github.com/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/stars/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/mdview.nvim)
 
 ##### Deno
 

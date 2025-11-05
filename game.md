@@ -44,6 +44,7 @@
 - [jthom233/nvim-zelda](https://github.com/jthom233/nvim-zelda) ![](https://img.shields.io/github/stars/jthom233/nvim-zelda) ![](https://img.shields.io/github/last-commit/jthom233/nvim-zelda) ![](https://img.shields.io/github/commit-activity/y/jthom233/nvim-zelda)
 - [GreenStarMatter/nvim-golf](https://github.com/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/stars/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/last-commit/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/commit-activity/y/GreenStarMatter/nvim-golf)
 - [linuxswords/nvim-tsumego](https://github.com/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/stars/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/last-commit/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/commit-activity/y/linuxswords/nvim-tsumego)
+- [olinpin/ultimateTTT.nvim](https://github.com/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/stars/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/last-commit/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/commit-activity/y/olinpin/ultimateTTT.nvim)
 
 ### Snake
 
