@@ -504,7 +504,6 @@
 
 ### LiteLLM
 
-- [mattjmcnaughton/llm-chat.nvim](https://github.com/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/stars/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/last-commit/mattjmcnaughton/llm-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/mattjmcnaughton/llm-chat.nvim)
 
 ### lsp-ai
 
