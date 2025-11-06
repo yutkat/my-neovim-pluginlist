@@ -134,6 +134,7 @@
 - [Al0den/notion.nvim](https://github.com/Al0den/notion.nvim) ![](https://img.shields.io/github/stars/Al0den/notion.nvim) ![](https://img.shields.io/github/last-commit/Al0den/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/Al0den/notion.nvim)
 - [NoUseFreak/notion.nvim](https://github.com/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/stars/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/last-commit/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/NoUseFreak/notion.nvim)
 - [ALT-F4-LLC/notion.nvim](https://github.com/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/stars/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/last-commit/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/ALT-F4-LLC/notion.nvim)
+- [2774326573/notion.nvim](https://github.com/2774326573/notion.nvim) ![](https://img.shields.io/github/stars/2774326573/notion.nvim) ![](https://img.shields.io/github/last-commit/2774326573/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/notion.nvim)
 
 ### esa.io
 

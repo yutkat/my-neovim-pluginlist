@@ -230,6 +230,10 @@
 
 - [Oddly/elasticsearch-run.nvim](https://github.com/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/stars/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/last-commit/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/Oddly/elasticsearch-run.nvim)
 
+#### VPN
+
+- [FocusThen/vpn-script.nvim](https://github.com/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/stars/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/vpn-script.nvim)
+
 ### Cloud
 
 #### Terraform
