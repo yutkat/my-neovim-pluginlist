@@ -25,6 +25,7 @@
 - [mcauley-penney/intraline-diff.nvim](https://github.com/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/stars/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/last-commit/mcauley-penney/intraline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/mcauley-penney/intraline-diff.nvim)
 - [ahkohd/difft.nvim](https://github.com/ahkohd/difft.nvim) ![](https://img.shields.io/github/stars/ahkohd/difft.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/difft.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/difft.nvim)
 - [esmuellert/vscode-diff.nvim](https://github.com/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/stars/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/last-commit/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/esmuellert/vscode-diff.nvim)
+- [elanmed/lcs-diff.nvim](https://github.com/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/lcs-diff.nvim)
 
 ### Diff Register
 

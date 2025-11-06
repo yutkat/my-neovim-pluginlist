@@ -124,6 +124,8 @@
 - [vvilhelmsen/partner.nvim](https://github.com/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/partner.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/partner.nvim)
 - [Ross74U/hotbuffers.nvim](https://github.com/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/stars/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/last-commit/Ross74U/hotbuffers.nvim) ![](https://img.shields.io/github/commit-activity/y/Ross74U/hotbuffers.nvim)
 - [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) ![](https://img.shields.io/github/stars/wsdjeg/altf.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/altf.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/altf.nvim)
+- [iton0/sfs.nvim](https://github.com/iton0/sfs.nvim) ![](https://img.shields.io/github/stars/iton0/sfs.nvim) ![](https://img.shields.io/github/last-commit/iton0/sfs.nvim) ![](https://img.shields.io/github/commit-activity/y/iton0/sfs.nvim)
+- [vdegenne/ez-switch.nvim](https://github.com/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/stars/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/last-commit/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/vdegenne/ez-switch.nvim)
 
 ### Buffer Management
 
