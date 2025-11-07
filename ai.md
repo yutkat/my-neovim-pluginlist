@@ -56,6 +56,7 @@
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
 - [Agent](#agent)
+  - [Amp](#amp)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
 - [Cursor](#cursor)
@@ -505,7 +506,6 @@
 
 ### LiteLLM
 
-
 ### lsp-ai
 
 - [SuperBo/lsp-ai.nvim](https://github.com/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/stars/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/last-commit/SuperBo/lsp-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/SuperBo/lsp-ai.nvim)
@@ -580,6 +580,9 @@
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 - [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
+
+### Amp
+
 - [wrath-codes/amp-extras.nvim](https://github.com/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/stars/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/last-commit/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/wrath-codes/amp-extras.nvim)
 
 ## Chat
