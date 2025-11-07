@@ -260,6 +260,7 @@
 - [kitallen23/conduit.nvim](https://github.com/kitallen23/conduit.nvim) ![](https://img.shields.io/github/stars/kitallen23/conduit.nvim) ![](https://img.shields.io/github/last-commit/kitallen23/conduit.nvim) ![](https://img.shields.io/github/commit-activity/y/kitallen23/conduit.nvim)
 - [inobit/llm.nvim](https://github.com/inobit/llm.nvim) ![](https://img.shields.io/github/stars/inobit/llm.nvim) ![](https://img.shields.io/github/last-commit/inobit/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/inobit/llm.nvim)
 - [jim-at-jibba/nvim-redraft](https://github.com/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/stars/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/last-commit/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/nvim-redraft)
+- [rmuell9/jarvis.nvim](https://github.com/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/stars/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/last-commit/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/rmuell9/jarvis.nvim)
 
 #### mods
 
@@ -579,6 +580,7 @@
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 - [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
+- [wrath-codes/amp-extras.nvim](https://github.com/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/stars/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/last-commit/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/wrath-codes/amp-extras.nvim)
 
 ## Chat
 
@@ -685,6 +687,7 @@
 - [Dzejkop/context-maestro.nvim](https://github.com/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/stars/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/context-maestro.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/context-maestro.nvim)
 - [rdainton/share-context.nvim](https://github.com/rdainton/share-context.nvim) ![](https://img.shields.io/github/stars/rdainton/share-context.nvim) ![](https://img.shields.io/github/last-commit/rdainton/share-context.nvim) ![](https://img.shields.io/github/commit-activity/y/rdainton/share-context.nvim)
 - [WarrenZhu050413/nvim-get-ref](https://github.com/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-get-ref)
+- [simonwinther/dir2text.nvim](https://github.com/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/stars/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/dir2text.nvim)
 
 ## LLM context
 

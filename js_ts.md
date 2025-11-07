@@ -83,6 +83,7 @@
 - [ewal/ember-altrel.nvim](https://github.com/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/stars/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/last-commit/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/commit-activity/y/ewal/ember-altrel.nvim)
 - [roycrippen4/webdev.nvim](https://github.com/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/stars/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/webdev.nvim)
 - [diananem/ascend.nvim](https://github.com/diananem/ascend.nvim) ![](https://img.shields.io/github/stars/diananem/ascend.nvim) ![](https://img.shields.io/github/last-commit/diananem/ascend.nvim) ![](https://img.shields.io/github/commit-activity/y/diananem/ascend.nvim)
+- [crafts69guy/styled-components.nvim](https://github.com/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/stars/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/styled-components.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/styled-components.nvim)
 
 ### string
 

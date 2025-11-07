@@ -264,6 +264,7 @@
 ### Specific runner
 
 - [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/static.nvim)
+- [alirezanobakht13/just-runner.nvim](https://github.com/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/stars/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/last-commit/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/alirezanobakht13/just-runner.nvim)
 
 ### Partial execution
 

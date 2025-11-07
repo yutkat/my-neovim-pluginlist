@@ -54,6 +54,7 @@
 - [racakenon/vscode-unicode-highlight.nvim](https://github.com/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/stars/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/last-commit/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/racakenon/vscode-unicode-highlight.nvim)
 - [vsuhanov/region-highlight.nvim](https://github.com/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/stars/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/vsuhanov/region-highlight.nvim)
 - [martinholy/widechar.nvim](https://github.com/martinholy/widechar.nvim) ![](https://img.shields.io/github/stars/martinholy/widechar.nvim) ![](https://img.shields.io/github/last-commit/martinholy/widechar.nvim) ![](https://img.shields.io/github/commit-activity/y/martinholy/widechar.nvim)
+- [PEMessage/inspector.nvim](https://github.com/PEMessage/inspector.nvim) ![](https://img.shields.io/github/stars/PEMessage/inspector.nvim) ![](https://img.shields.io/github/last-commit/PEMessage/inspector.nvim) ![](https://img.shields.io/github/commit-activity/y/PEMessage/inspector.nvim)
 
 ### Delimiter
 
