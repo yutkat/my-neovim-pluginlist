@@ -110,6 +110,7 @@
 - [wd40bug/Hints.nvim](https://github.com/wd40bug/Hints.nvim) ![](https://img.shields.io/github/stars/wd40bug/Hints.nvim) ![](https://img.shields.io/github/last-commit/wd40bug/Hints.nvim) ![](https://img.shields.io/github/commit-activity/y/wd40bug/Hints.nvim)
 - [dirichy/mapper.nvim](https://github.com/dirichy/mapper.nvim) ![](https://img.shields.io/github/stars/dirichy/mapper.nvim) ![](https://img.shields.io/github/last-commit/dirichy/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/mapper.nvim)
 - [Nkr1shna/nlhelp.nvim](https://github.com/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/nlhelp.nvim)
+- [theinventorylib/inline_hints.nvim](https://github.com/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/stars/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/last-commit/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/commit-activity/y/theinventorylib/inline_hints.nvim)
 
 ### Show assigned
 

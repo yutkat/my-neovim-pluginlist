@@ -104,6 +104,7 @@
 ### Journal
 
 - [r35krag0th/yeahnotes.nvim](https://github.com/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/stars/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/last-commit/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/r35krag0th/yeahnotes.nvim)
+- [manprit-tiwari/quicknotes.nvim](https://github.com/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/stars/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/manprit-tiwari/quicknotes.nvim)
 
 ### ToDo
 

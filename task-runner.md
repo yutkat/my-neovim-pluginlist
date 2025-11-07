@@ -15,6 +15,7 @@
   - [use tmux](#use-tmux)
   - [Auto Execute](#auto-execute)
   - [CLI](#cli)
+    - [just](#just)
     - [Taskfile](#taskfile)
     - [taskr](#taskr)
   - [Specific runner](#specific-runner)
@@ -247,6 +248,10 @@
 - [al1-ce/just.nvim](https://github.com/al1-ce/just.nvim) ![](https://img.shields.io/github/stars/al1-ce/just.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/just.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/just.nvim)
 - [adriangitvitz/pm.nvim](https://github.com/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/stars/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/last-commit/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/adriangitvitz/pm.nvim)
 - [fcying/just.nvim](https://github.com/fcying/just.nvim) ![](https://img.shields.io/github/stars/fcying/just.nvim) ![](https://img.shields.io/github/last-commit/fcying/just.nvim) ![](https://img.shields.io/github/commit-activity/y/fcying/just.nvim)
+
+#### just
+
+- [alirezanobakht13/just-runner.nvim](https://github.com/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/stars/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/last-commit/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/alirezanobakht13/just-runner.nvim)
 
 #### Taskfile
 

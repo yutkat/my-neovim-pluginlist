@@ -218,6 +218,8 @@
 - [yuki-yano/snacks-smart-open.nvim](https://github.com/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-open.nvim)
 - [ALPHAvibe/telescope-recent-files-vibes.nvim](https://github.com/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-recent-files-vibes.nvim)
 
+- [maxzwerin/oldfiles.nvim](https://github.com/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/stars/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxzwerin/oldfiles.nvim)
+
 ##### remote open
 
 - [nat-418/scamp.nvim](https://github.com/nat-418/scamp.nvim) ![](https://img.shields.io/github/stars/nat-418/scamp.nvim) ![](https://img.shields.io/github/last-commit/nat-418/scamp.nvim) ![](https://img.shields.io/github/commit-activity/y/nat-418/scamp.nvim)
