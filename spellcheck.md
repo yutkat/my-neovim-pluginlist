@@ -51,3 +51,4 @@
 ## Grammar check
 
 - [CaddyGlow/correctme.nvim](https://github.com/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/stars/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/last-commit/CaddyGlow/correctme.nvim) ![](https://img.shields.io/github/commit-activity/y/CaddyGlow/correctme.nvim)
+- [thjbdvlt/grammalecte.nvim](https://github.com/thjbdvlt/grammalecte.nvim) ![](https://img.shields.io/github/stars/thjbdvlt/grammalecte.nvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/grammalecte.nvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/grammalecte.nvim)

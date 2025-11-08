@@ -191,6 +191,7 @@
 - [jordangarcia/ts-actions.nvim](https://github.com/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/stars/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/last-commit/jordangarcia/ts-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/jordangarcia/ts-actions.nvim)
 - [takagiy/lsp-actiononsave.nvim](https://github.com/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/stars/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/last-commit/takagiy/lsp-actiononsave.nvim) ![](https://img.shields.io/github/commit-activity/y/takagiy/lsp-actiononsave.nvim)
 - [yarospace/dev-tools.nvim](https://github.com/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/stars/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/last-commit/yarospace/dev-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/yarospace/dev-tools.nvim)
+- [taybart/code-actions.nvim](https://github.com/taybart/code-actions.nvim) ![](https://img.shields.io/github/stars/taybart/code-actions.nvim) ![](https://img.shields.io/github/last-commit/taybart/code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/code-actions.nvim)
 
 #### Hint
 

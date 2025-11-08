@@ -316,6 +316,7 @@
 ### DevDocs
 
 - [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/apidocs.nvim)
+- [2774326573/nvim-devdocs](https://github.com/2774326573/nvim-devdocs) ![](https://img.shields.io/github/stars/2774326573/nvim-devdocs) ![](https://img.shields.io/github/last-commit/2774326573/nvim-devdocs) ![](https://img.shields.io/github/commit-activity/y/2774326573/nvim-devdocs)
 
 ### gerrit API
 
