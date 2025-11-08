@@ -7,6 +7,7 @@
   - [REPL](#repl)
   - [Element sort](#element-sort)
   - [Live server](#live-server)
+  - [LSP](#lsp)
   - [PHPStan](#phpstan)
   - [Laravel](#laravel)
   - [Slim](#slim)
@@ -48,6 +49,10 @@
 
 - [Diogo-ss/five-server.nvim](https://github.com/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/five-server.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/five-server.nvim)
 
+### LSP
+
+- [gbprod/phpactor.nvim](https://github.com/gbprod/phpactor.nvim) ![](https://img.shields.io/github/stars/gbprod/phpactor.nvim) ![](https://img.shields.io/github/last-commit/gbprod/phpactor.nvim) ![](https://img.shields.io/github/commit-activity/y/gbprod/phpactor.nvim)
+
 ### PHPStan
 
 - [FanStaF/nvim-phpanalyze](https://github.com/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/stars/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/last-commit/FanStaF/nvim-phpanalyze) ![](https://img.shields.io/github/commit-activity/y/FanStaF/nvim-phpanalyze)
@@ -80,7 +85,6 @@
 - [thomas-hiron/symfony-goto.nvim](https://github.com/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/stars/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/last-commit/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-hiron/symfony-goto.nvim)
 
 #### drupal
-
 
 ### phpcs
 
