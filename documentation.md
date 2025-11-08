@@ -183,6 +183,7 @@
 - [idossha/LiveMD.nvim](https://github.com/idossha/LiveMD.nvim) ![](https://img.shields.io/github/stars/idossha/LiveMD.nvim) ![](https://img.shields.io/github/last-commit/idossha/LiveMD.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/LiveMD.nvim)
 - [AntennaTower/murk.nvim](https://github.com/AntennaTower/murk.nvim) ![](https://img.shields.io/github/stars/AntennaTower/murk.nvim) ![](https://img.shields.io/github/last-commit/AntennaTower/murk.nvim) ![](https://img.shields.io/github/commit-activity/y/AntennaTower/murk.nvim)
 - [chirag-juneja/markdown.nvim](https://github.com/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/markdown.nvim)
+- [ducks/mdpreview.nvim](https://github.com/ducks/mdpreview.nvim) ![](https://img.shields.io/github/stars/ducks/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/ducks/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/ducks/mdpreview.nvim)
 
 ##### Node
 

@@ -109,6 +109,10 @@
 
 - [felipejoribeiro/clockify.nvim](https://github.com/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/stars/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/last-commit/felipejoribeiro/clockify.nvim) ![](https://img.shields.io/github/commit-activity/y/felipejoribeiro/clockify.nvim)
 
+### Clockwork
+
+- [davec504/clockwork.nvim](https://github.com/davec504/clockwork.nvim) ![](https://img.shields.io/github/stars/davec504/clockwork.nvim) ![](https://img.shields.io/github/last-commit/davec504/clockwork.nvim) ![](https://img.shields.io/github/commit-activity/y/davec504/clockwork.nvim)
+
 ### Performance Test
 
 - [pseudocc/nvim-apm](https://github.com/pseudocc/nvim-apm) ![](https://img.shields.io/github/stars/pseudocc/nvim-apm) ![](https://img.shields.io/github/last-commit/pseudocc/nvim-apm) ![](https://img.shields.io/github/commit-activity/y/pseudocc/nvim-apm)

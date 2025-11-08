@@ -424,6 +424,10 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+##### Confgen
+
+- [LordMZTE/confgen.nvim](https://github.com/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/stars/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/last-commit/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/commit-activity/y/LordMZTE/confgen.nvim)
+
 ##### DAML
 
 - [Sengoku11/daml.nvim](https://github.com/Sengoku11/daml.nvim) ![](https://img.shields.io/github/stars/Sengoku11/daml.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/daml.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/daml.nvim)
