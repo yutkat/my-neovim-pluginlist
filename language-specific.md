@@ -600,11 +600,9 @@
 
 #### Boxlang
 
-- [HannaEckert/boxlsp.nvim](https://github.com/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/stars/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/last-commit/HannaEckert/boxlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HannaEckert/boxlsp.nvim)
 
 #### CFML
 
-- [HannaEckert/cfmlsp.nvim](https://github.com/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/stars/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/last-commit/HannaEckert/cfmlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/HannaEckert/cfmlsp.nvim)
 
 #### Zed
 
