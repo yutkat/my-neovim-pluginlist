@@ -574,7 +574,6 @@
 
 #### NWScript
 
-- [StefanoND/nwscript-ee-lsp.nvim](https://github.com/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/stars/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/last-commit/StefanoND/nwscript-ee-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanoND/nwscript-ee-lsp.nvim)
 
 #### Janet
 
