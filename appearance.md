@@ -16,6 +16,7 @@
 - [tar80/staba.nvim](https://github.com/tar80/staba.nvim) ![](https://img.shields.io/github/stars/tar80/staba.nvim) ![](https://img.shields.io/github/last-commit/tar80/staba.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/staba.nvim)
 - [buvis/padcosta.nvim](https://github.com/buvis/padcosta.nvim) ![](https://img.shields.io/github/stars/buvis/padcosta.nvim) ![](https://img.shields.io/github/last-commit/buvis/padcosta.nvim) ![](https://img.shields.io/github/commit-activity/y/buvis/padcosta.nvim)
 - [m4c4r0n1n/theme-switcher.nvim](https://github.com/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/theme-switcher.nvim)
+- [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) ![](https://img.shields.io/github/stars/gisketch/triforce.nvim) ![](https://img.shields.io/github/last-commit/gisketch/triforce.nvim) ![](https://img.shields.io/github/commit-activity/y/gisketch/triforce.nvim)
 
 ### Sidebar
 
