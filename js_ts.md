@@ -83,6 +83,7 @@
 - [ewal/ember-altrel.nvim](https://github.com/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/stars/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/last-commit/ewal/ember-altrel.nvim) ![](https://img.shields.io/github/commit-activity/y/ewal/ember-altrel.nvim)
 - [roycrippen4/webdev.nvim](https://github.com/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/stars/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/webdev.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/webdev.nvim)
 - [diananem/ascend.nvim](https://github.com/diananem/ascend.nvim) ![](https://img.shields.io/github/stars/diananem/ascend.nvim) ![](https://img.shields.io/github/last-commit/diananem/ascend.nvim) ![](https://img.shields.io/github/commit-activity/y/diananem/ascend.nvim)
+- [RielJ/ts-sql.nvim](https://github.com/RielJ/ts-sql.nvim) ![](https://img.shields.io/github/stars/RielJ/ts-sql.nvim) ![](https://img.shields.io/github/last-commit/RielJ/ts-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/RielJ/ts-sql.nvim)
 
 ### string
 

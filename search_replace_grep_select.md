@@ -206,6 +206,7 @@
 - [thenbe/telescope-glob.nvim](https://github.com/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/stars/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/last-commit/thenbe/telescope-glob.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/telescope-glob.nvim)
 - [ALPHAvibe/telescope-grep-vibes.nvim](https://github.com/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-grep-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-grep-vibes.nvim)
 - [elanmed/rg-far.nvim](https://github.com/elanmed/rg-far.nvim) ![](https://img.shields.io/github/stars/elanmed/rg-far.nvim) ![](https://img.shields.io/github/last-commit/elanmed/rg-far.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/rg-far.nvim)
+- [ashwinp88/egrep.nvim](https://github.com/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/stars/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/last-commit/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/commit-activity/y/ashwinp88/egrep.nvim)
 
 ### AST (Semantic search)
 
