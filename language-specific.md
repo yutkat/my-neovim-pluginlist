@@ -77,6 +77,7 @@
     - [Ada](#ada)
       - [Alire](#alire)
     - [Moonscript](#moonscript)
+    - [mLua](#mlua)
     - [Haxe](#haxe)
     - [Coralogix dataprime](#coralogix-dataprime)
     - [Kind](#kind)
@@ -535,6 +536,10 @@
 #### Moonscript
 
 - [svermeulen/nvim-moonmaker](https://github.com/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/stars/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/last-commit/svermeulen/nvim-moonmaker) ![](https://img.shields.io/github/commit-activity/y/svermeulen/nvim-moonmaker)
+
+#### mLua
+
+- [seokgukim/mlua.nvim](https://github.com/seokgukim/mlua.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua.nvim)
 
 #### Haxe
 

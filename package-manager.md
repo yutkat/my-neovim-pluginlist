@@ -59,3 +59,4 @@
 
 ### NPM
 
+- [valVk/npm-latest.nvim](https://github.com/valVk/npm-latest.nvim) ![](https://img.shields.io/github/stars/valVk/npm-latest.nvim) ![](https://img.shields.io/github/last-commit/valVk/npm-latest.nvim) ![](https://img.shields.io/github/commit-activity/y/valVk/npm-latest.nvim)

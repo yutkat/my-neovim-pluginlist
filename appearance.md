@@ -15,6 +15,7 @@
 - [OXY2DEV/ui.nvim](https://github.com/OXY2DEV/ui.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/ui.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/ui.nvim)
 - [tar80/staba.nvim](https://github.com/tar80/staba.nvim) ![](https://img.shields.io/github/stars/tar80/staba.nvim) ![](https://img.shields.io/github/last-commit/tar80/staba.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/staba.nvim)
 - [buvis/padcosta.nvim](https://github.com/buvis/padcosta.nvim) ![](https://img.shields.io/github/stars/buvis/padcosta.nvim) ![](https://img.shields.io/github/last-commit/buvis/padcosta.nvim) ![](https://img.shields.io/github/commit-activity/y/buvis/padcosta.nvim)
+- [m4c4r0n1n/theme-switcher.nvim](https://github.com/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/theme-switcher.nvim)
 
 ### Sidebar
 
