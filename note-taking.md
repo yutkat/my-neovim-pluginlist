@@ -274,6 +274,7 @@
 - [IKarasev/obsidian-tasks.nvim](https://github.com/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/obsidian-tasks.nvim)
 - [jbuck95/recollect.nvim](https://github.com/jbuck95/recollect.nvim) ![](https://img.shields.io/github/stars/jbuck95/recollect.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/recollect.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/recollect.nvim)
 - [apdot/doodle](https://github.com/apdot/doodle) ![](https://img.shields.io/github/stars/apdot/doodle) ![](https://img.shields.io/github/last-commit/apdot/doodle) ![](https://img.shields.io/github/commit-activity/y/apdot/doodle)
+- [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 
 ### nb
 
