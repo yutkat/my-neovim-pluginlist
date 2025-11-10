@@ -212,6 +212,7 @@
 
 - [amlanjlahkar/splitree.nvim](https://github.com/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/stars/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/last-commit/amlanjlahkar/splitree.nvim) ![](https://img.shields.io/github/commit-activity/y/amlanjlahkar/splitree.nvim)
 - [elanmed/tree.nvim](https://github.com/elanmed/tree.nvim) ![](https://img.shields.io/github/stars/elanmed/tree.nvim) ![](https://img.shields.io/github/last-commit/elanmed/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/tree.nvim)
+- [DanielTellier/multi-tree.nvim](https://github.com/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/stars/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/last-commit/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielTellier/multi-tree.nvim)
 
 ### File rename
 

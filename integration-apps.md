@@ -100,6 +100,10 @@
 - [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/xcodebuild.nvim)
 
+#### Multi IDE
+
+- [uyaaaaaa/launch-ide.nvim](https://github.com/uyaaaaaa/launch-ide.nvim) ![](https://img.shields.io/github/stars/uyaaaaaa/launch-ide.nvim) ![](https://img.shields.io/github/last-commit/uyaaaaaa/launch-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/uyaaaaaa/launch-ide.nvim)
+
 ### JetBrains
 
 - [vianney-g/jetbrains-scopes.nvim](https://github.com/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/stars/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/jetbrains-scopes.nvim)

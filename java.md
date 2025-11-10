@@ -34,6 +34,7 @@
 - [codegik/nvim-unused](https://github.com/codegik/nvim-unused) ![](https://img.shields.io/github/stars/codegik/nvim-unused) ![](https://img.shields.io/github/last-commit/codegik/nvim-unused) ![](https://img.shields.io/github/commit-activity/y/codegik/nvim-unused)
 - [nvim-java/nvim-java](https://github.com/nvim-java/nvim-java) ![](https://img.shields.io/github/stars/nvim-java/nvim-java) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java)
 - [andreluisos/nvim-jpagenie](https://github.com/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/stars/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/last-commit/andreluisos/nvim-jpagenie) ![](https://img.shields.io/github/commit-activity/y/andreluisos/nvim-jpagenie)
+- [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/stars/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/last-commit/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/NickJAllen/java-helpers.nvim)
 
 ### package import
 

@@ -27,6 +27,7 @@
 - [brevin33/raddebugger.nvim](https://github.com/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/stars/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/last-commit/brevin33/raddebugger.nvim) ![](https://img.shields.io/github/commit-activity/y/brevin33/raddebugger.nvim)
 - [Okerew/od.nvim](https://github.com/Okerew/od.nvim) ![](https://img.shields.io/github/stars/Okerew/od.nvim) ![](https://img.shields.io/github/last-commit/Okerew/od.nvim) ![](https://img.shields.io/github/commit-activity/y/Okerew/od.nvim)
 - [DudeWhat12134/od.nvim](https://github.com/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/stars/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/last-commit/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/commit-activity/y/DudeWhat12134/od.nvim)
+- [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) ![](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/fschaal/azfunc.nvim)
 
 #### nvim-dap extension
 
