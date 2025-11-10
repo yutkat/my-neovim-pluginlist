@@ -45,6 +45,7 @@
 - [km0e/music.nvim](https://github.com/km0e/music.nvim) ![](https://img.shields.io/github/stars/km0e/music.nvim) ![](https://img.shields.io/github/last-commit/km0e/music.nvim) ![](https://img.shields.io/github/commit-activity/y/km0e/music.nvim)
 - [TakeMichiks/Telescope-Mpv.nvim](https://github.com/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/stars/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/last-commit/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/TakeMichiks/Telescope-Mpv.nvim)
 - [jmatth11/player.nvim](https://github.com/jmatth11/player.nvim) ![](https://img.shields.io/github/stars/jmatth11/player.nvim) ![](https://img.shields.io/github/last-commit/jmatth11/player.nvim) ![](https://img.shields.io/github/commit-activity/y/jmatth11/player.nvim)
+- [MannuVilasara/snacks-music-player.nvim](https://github.com/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/stars/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/last-commit/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/MannuVilasara/snacks-music-player.nvim)
 
 ### sapf
 
