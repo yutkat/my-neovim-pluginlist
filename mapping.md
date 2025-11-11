@@ -112,6 +112,7 @@
 - [dirichy/mapper.nvim](https://github.com/dirichy/mapper.nvim) ![](https://img.shields.io/github/stars/dirichy/mapper.nvim) ![](https://img.shields.io/github/last-commit/dirichy/mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/mapper.nvim)
 - [Nkr1shna/nlhelp.nvim](https://github.com/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/nlhelp.nvim)
 - [theinventorylib/inline_hints.nvim](https://github.com/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/stars/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/last-commit/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/commit-activity/y/theinventorylib/inline_hints.nvim)
+- [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) ![](https://img.shields.io/github/stars/nvim-mini/mini.clue) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.clue) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.clue)
 
 ### Show assigned
 

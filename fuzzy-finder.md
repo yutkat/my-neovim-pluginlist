@@ -54,6 +54,7 @@
 - [Adarsh-Roy/gthr.nvim](https://github.com/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/stars/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/last-commit/Adarsh-Roy/gthr.nvim) ![](https://img.shields.io/github/commit-activity/y/Adarsh-Roy/gthr.nvim)
 - [spiperac/spire.nvim](https://github.com/spiperac/spire.nvim) ![](https://img.shields.io/github/stars/spiperac/spire.nvim) ![](https://img.shields.io/github/last-commit/spiperac/spire.nvim) ![](https://img.shields.io/github/commit-activity/y/spiperac/spire.nvim)
 - [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) ![](https://img.shields.io/github/stars/wsdjeg/picker.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/picker.nvim)
+- [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/tv.nvim)
 
 ### Telescope Extensions
 
