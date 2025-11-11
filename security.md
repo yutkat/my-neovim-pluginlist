@@ -36,6 +36,7 @@
 - [GeekMasher/DevSecInspect.nvim](https://github.com/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/stars/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/last-commit/GeekMasher/DevSecInspect.nvim) ![](https://img.shields.io/github/commit-activity/y/GeekMasher/DevSecInspect.nvim)
 - [michaelPotter/secure-settings.nvim](https://github.com/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/stars/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/secure-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/secure-settings.nvim)
 - [fouladi/ccrypt-wrapper.nvim](https://github.com/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/stars/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/last-commit/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/ccrypt-wrapper.nvim)
+- [MannuVilasara/env-hide.nvim](https://github.com/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/stars/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/last-commit/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/commit-activity/y/MannuVilasara/env-hide.nvim)
 
 ### Scan
 

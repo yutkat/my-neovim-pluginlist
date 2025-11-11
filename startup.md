@@ -41,6 +41,7 @@
 - [tkachenkosi/malpha.nvim](https://github.com/tkachenkosi/malpha.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/malpha.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/malpha.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/malpha.nvim)
 - [vivek-x-jha/nvim-dashboard](https://github.com/vivek-x-jha/nvim-dashboard) ![](https://img.shields.io/github/stars/vivek-x-jha/nvim-dashboard) ![](https://img.shields.io/github/last-commit/vivek-x-jha/nvim-dashboard) ![](https://img.shields.io/github/commit-activity/y/vivek-x-jha/nvim-dashboard)
 - [abhilash26/namaste.nvim](https://github.com/abhilash26/namaste.nvim) ![](https://img.shields.io/github/stars/abhilash26/namaste.nvim) ![](https://img.shields.io/github/last-commit/abhilash26/namaste.nvim) ![](https://img.shields.io/github/commit-activity/y/abhilash26/namaste.nvim)
+- [johnmathews/project-dashboard.nvim](https://github.com/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/stars/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/last-commit/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/johnmathews/project-dashboard.nvim)
 
 ### Boot Arguments
 
