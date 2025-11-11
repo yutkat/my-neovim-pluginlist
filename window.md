@@ -163,6 +163,7 @@
 - [shaobosong/maskwin.nvim](https://github.com/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/stars/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/maskwin.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/maskwin.nvim)
 - [pk-hash/winshade.nvim](https://github.com/pk-hash/winshade.nvim) ![](https://img.shields.io/github/stars/pk-hash/winshade.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/winshade.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/winshade.nvim)
 - [kaltwelten/tintin.nvim](https://github.com/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/stars/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/last-commit/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/commit-activity/y/kaltwelten/tintin.nvim)
+- [gigacrat/aperture.nvim](https://github.com/gigacrat/aperture.nvim) ![](https://img.shields.io/github/stars/gigacrat/aperture.nvim) ![](https://img.shields.io/github/last-commit/gigacrat/aperture.nvim) ![](https://img.shields.io/github/commit-activity/y/gigacrat/aperture.nvim)
 
 #### Window Number
 

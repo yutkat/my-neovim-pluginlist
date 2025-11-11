@@ -132,6 +132,7 @@
 - [coreyb-git/virtlines-delay.nvim](https://github.com/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/stars/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/virtlines-delay.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/virtlines-delay.nvim)
 - [tiwari-krishna/peekErr.nvim](https://github.com/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/stars/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/last-commit/tiwari-krishna/peekErr.nvim) ![](https://img.shields.io/github/commit-activity/y/tiwari-krishna/peekErr.nvim)
 - [WeiTing1991/diagnostic-hover.nvim](https://github.com/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/stars/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/last-commit/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/WeiTing1991/diagnostic-hover.nvim)
+- [sfn101/xray.nvim](https://github.com/sfn101/xray.nvim) ![](https://img.shields.io/github/stars/sfn101/xray.nvim) ![](https://img.shields.io/github/last-commit/sfn101/xray.nvim) ![](https://img.shields.io/github/commit-activity/y/sfn101/xray.nvim)
 
 ##### Diagnostics goto
 
