@@ -654,6 +654,7 @@
 - [chatvim/chatvim.nvim](https://github.com/chatvim/chatvim.nvim) ![](https://img.shields.io/github/stars/chatvim/chatvim.nvim) ![](https://img.shields.io/github/last-commit/chatvim/chatvim.nvim) ![](https://img.shields.io/github/commit-activity/y/chatvim/chatvim.nvim)
 - [surajssc1232/rover.nvim](https://github.com/surajssc1232/rover.nvim) ![](https://img.shields.io/github/stars/surajssc1232/rover.nvim) ![](https://img.shields.io/github/last-commit/surajssc1232/rover.nvim) ![](https://img.shields.io/github/commit-activity/y/surajssc1232/rover.nvim)
 - [dylowens/llm-docs.nvim](https://github.com/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/stars/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/last-commit/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/dylowens/llm-docs.nvim)
+- [kr4nkenwagen/ai-docstring.nvim](https://github.com/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/stars/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/last-commit/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/commit-activity/y/kr4nkenwagen/ai-docstring.nvim)
 
 ## Pair Programming
 
