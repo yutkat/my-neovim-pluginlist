@@ -230,6 +230,7 @@
 - [CoolCoderSuper/make-runner.nvim](https://github.com/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/stars/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/last-commit/CoolCoderSuper/make-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/CoolCoderSuper/make-runner.nvim)
 - [SteveRohrlack/make.nvim](https://github.com/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/stars/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/last-commit/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/commit-activity/y/SteveRohrlack/make.nvim)
 - [thefoxery/make.nvim](https://github.com/thefoxery/make.nvim) ![](https://img.shields.io/github/stars/thefoxery/make.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/make.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/make.nvim)
+- [yilisharcs/cme.nvim](https://github.com/yilisharcs/cme.nvim) ![](https://img.shields.io/github/stars/yilisharcs/cme.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/cme.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/cme.nvim)
 
 ### use tmux
 

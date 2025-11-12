@@ -53,6 +53,7 @@
       - [DAML](#daml)
     - [DLiteScript](#dlitescript)
     - [Essence](#essence)
+    - [Eta](#eta)
     - [Juice](#juice)
     - [Wasm](#wasm)
     - [WebC](#webc)
@@ -64,6 +65,7 @@
     - [BAML](#baml)
     - [Racket](#racket)
       - [Test](#test)
+    - [Robot Framework](#robot-framework)
     - [Processing](#processing-1)
     - [Promela](#promela)
     - [Move](#move)
@@ -442,6 +444,10 @@
 
 - [jswent/essence.nvim](https://github.com/jswent/essence.nvim) ![](https://img.shields.io/github/stars/jswent/essence.nvim) ![](https://img.shields.io/github/last-commit/jswent/essence.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/essence.nvim)
 
+#### Eta
+
+- [timseriakov/nvim-eta](https://github.com/timseriakov/nvim-eta) ![](https://img.shields.io/github/stars/timseriakov/nvim-eta) ![](https://img.shields.io/github/last-commit/timseriakov/nvim-eta) ![](https://img.shields.io/github/commit-activity/y/timseriakov/nvim-eta)
+
 #### Juice
 
 - [juicelang/juice.nvim](https://github.com/juicelang/juice.nvim) ![](https://img.shields.io/github/stars/juicelang/juice.nvim) ![](https://img.shields.io/github/last-commit/juicelang/juice.nvim) ![](https://img.shields.io/github/commit-activity/y/juicelang/juice.nvim)
@@ -486,6 +492,10 @@
 ##### Test
 
 - [maxandron/neotest-cairo](https://github.com/maxandron/neotest-cairo) ![](https://img.shields.io/github/stars/maxandron/neotest-cairo) ![](https://img.shields.io/github/last-commit/maxandron/neotest-cairo) ![](https://img.shields.io/github/commit-activity/y/maxandron/neotest-cairo)
+
+#### Robot Framework
+
+- [totu/robot-test-index.nvim](https://github.com/totu/robot-test-index.nvim) ![](https://img.shields.io/github/stars/totu/robot-test-index.nvim) ![](https://img.shields.io/github/last-commit/totu/robot-test-index.nvim) ![](https://img.shields.io/github/commit-activity/y/totu/robot-test-index.nvim)
 
 #### Processing
 
