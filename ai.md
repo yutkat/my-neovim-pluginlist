@@ -584,7 +584,6 @@
 
 ### Amp
 
-- [wrath-codes/amp-extras.nvim](https://github.com/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/stars/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/last-commit/wrath-codes/amp-extras.nvim) ![](https://img.shields.io/github/commit-activity/y/wrath-codes/amp-extras.nvim)
 
 ## Chat
 
