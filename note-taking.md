@@ -223,6 +223,7 @@
 - [moreka/simple-todo.nvim](https://github.com/moreka/simple-todo.nvim) ![](https://img.shields.io/github/stars/moreka/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/moreka/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/moreka/simple-todo.nvim)
 - [udayanKashyap/pensieve.nvim](https://github.com/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/stars/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/last-commit/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/commit-activity/y/udayanKashyap/pensieve.nvim)
 - [jaswdr/nvim-todos](https://github.com/jaswdr/nvim-todos) ![](https://img.shields.io/github/stars/jaswdr/nvim-todos) ![](https://img.shields.io/github/last-commit/jaswdr/nvim-todos) ![](https://img.shields.io/github/commit-activity/y/jaswdr/nvim-todos)
+- [alessandro-stella/floating-todo.nvim](https://github.com/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/stars/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/last-commit/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandro-stella/floating-todo.nvim)
 
 #### Google Task
 
@@ -235,6 +236,7 @@
 - [Praczet/little-taskwarrior.nvim](https://github.com/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/stars/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/Praczet/little-taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/little-taskwarrior.nvim)
 - [duckdm/neowarrior.nvim](https://github.com/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/stars/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/last-commit/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/neowarrior.nvim)
 - [ChrisGVE/taskforge.nvim](https://github.com/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/taskforge.nvim)
+- [clobrano/frontline.nvim](https://github.com/clobrano/frontline.nvim) ![](https://img.shields.io/github/stars/clobrano/frontline.nvim) ![](https://img.shields.io/github/last-commit/clobrano/frontline.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/frontline.nvim)
 
 ### Obsidian
 

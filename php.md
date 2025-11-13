@@ -83,6 +83,7 @@
 
 - [fbuchlak/cmp-symfony-router](https://github.com/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/stars/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/last-commit/fbuchlak/cmp-symfony-router) ![](https://img.shields.io/github/commit-activity/y/fbuchlak/cmp-symfony-router)
 - [thomas-hiron/symfony-goto.nvim](https://github.com/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/stars/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/last-commit/thomas-hiron/symfony-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-hiron/symfony-goto.nvim)
+- [Rzwo2/neo-symfony.nvim](https://github.com/Rzwo2/neo-symfony.nvim) ![](https://img.shields.io/github/stars/Rzwo2/neo-symfony.nvim) ![](https://img.shields.io/github/last-commit/Rzwo2/neo-symfony.nvim) ![](https://img.shields.io/github/commit-activity/y/Rzwo2/neo-symfony.nvim)
 
 #### drupal
 

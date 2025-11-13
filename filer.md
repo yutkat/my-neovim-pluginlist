@@ -196,6 +196,8 @@
 
 ### Find specific file
 
+- [afj8z/helpfile.nvim](https://github.com/afj8z/helpfile.nvim) ![](https://img.shields.io/github/stars/afj8z/helpfile.nvim) ![](https://img.shields.io/github/last-commit/afj8z/helpfile.nvim) ![](https://img.shields.io/github/commit-activity/y/afj8z/helpfile.nvim)
+
 ### Filer switcher
 
 - [glmlm/file-association.nvim](https://github.com/glmlm/file-association.nvim) ![](https://img.shields.io/github/stars/glmlm/file-association.nvim) ![](https://img.shields.io/github/last-commit/glmlm/file-association.nvim) ![](https://img.shields.io/github/commit-activity/y/glmlm/file-association.nvim)

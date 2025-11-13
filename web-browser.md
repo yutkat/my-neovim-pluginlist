@@ -91,6 +91,7 @@
 
 - [danarth/telescope-buku.nvim](https://github.com/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/stars/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/last-commit/danarth/telescope-buku.nvim) ![](https://img.shields.io/github/commit-activity/y/danarth/telescope-buku.nvim)
 - [3dyuval/history-api.nvim](https://github.com/3dyuval/history-api.nvim) ![](https://img.shields.io/github/stars/3dyuval/history-api.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/history-api.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/history-api.nvim)
+- [gnosis23/linksaver.nvim](https://github.com/gnosis23/linksaver.nvim) ![](https://img.shields.io/github/stars/gnosis23/linksaver.nvim) ![](https://img.shields.io/github/last-commit/gnosis23/linksaver.nvim) ![](https://img.shields.io/github/commit-activity/y/gnosis23/linksaver.nvim)
 
 #### Cast
 
