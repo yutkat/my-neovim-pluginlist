@@ -251,6 +251,7 @@
 - [lukahartwig/pnpm.nvim](https://github.com/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/stars/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/last-commit/lukahartwig/pnpm.nvim) ![](https://img.shields.io/github/commit-activity/y/lukahartwig/pnpm.nvim)
 - [m-jovan/telescope-pnpm-workspace.nvim](https://github.com/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/stars/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/last-commit/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/m-jovan/telescope-pnpm-workspace.nvim)
 - [ryoppippi/nvim-pnpm-catalog-lens](https://github.com/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/stars/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-pnpm-catalog-lens)
+- [CaseyMichael/telescope-pnpm-monorepo.nvim](https://github.com/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/stars/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/last-commit/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/CaseyMichael/telescope-pnpm-monorepo.nvim)
 
 #### Biome
 
