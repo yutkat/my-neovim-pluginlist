@@ -127,6 +127,7 @@
 - [RomanVolkov/x_threads.nvim](https://github.com/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/stars/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/last-commit/RomanVolkov/x_threads.nvim) ![](https://img.shields.io/github/commit-activity/y/RomanVolkov/x_threads.nvim)
 - [dyl10s/tweet.nvim](https://github.com/dyl10s/tweet.nvim) ![](https://img.shields.io/github/stars/dyl10s/tweet.nvim) ![](https://img.shields.io/github/last-commit/dyl10s/tweet.nvim) ![](https://img.shields.io/github/commit-activity/y/dyl10s/tweet.nvim)
 - [carldaws/yap.nvim](https://github.com/carldaws/yap.nvim) ![](https://img.shields.io/github/stars/carldaws/yap.nvim) ![](https://img.shields.io/github/last-commit/carldaws/yap.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/yap.nvim)
+- [nkxxll/tweet-it.nvim](https://github.com/nkxxll/tweet-it.nvim) ![](https://img.shields.io/github/stars/nkxxll/tweet-it.nvim) ![](https://img.shields.io/github/last-commit/nkxxll/tweet-it.nvim) ![](https://img.shields.io/github/commit-activity/y/nkxxll/tweet-it.nvim)
 
 ### Notion
 
@@ -135,6 +136,10 @@
 - [NoUseFreak/notion.nvim](https://github.com/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/stars/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/last-commit/NoUseFreak/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/NoUseFreak/notion.nvim)
 - [ALT-F4-LLC/notion.nvim](https://github.com/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/stars/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/last-commit/ALT-F4-LLC/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/ALT-F4-LLC/notion.nvim)
 - [2774326573/notion.nvim](https://github.com/2774326573/notion.nvim) ![](https://img.shields.io/github/stars/2774326573/notion.nvim) ![](https://img.shields.io/github/last-commit/2774326573/notion.nvim) ![](https://img.shields.io/github/commit-activity/y/2774326573/notion.nvim)
+
+### Raindrop
+
+- [wellsdurant/raindrop-md.nvim](https://github.com/wellsdurant/raindrop-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/raindrop-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/raindrop-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/raindrop-md.nvim)
 
 ### esa.io
 
@@ -205,6 +210,7 @@
 - [pandalec/jiratui.nvim](https://github.com/pandalec/jiratui.nvim) ![](https://img.shields.io/github/stars/pandalec/jiratui.nvim) ![](https://img.shields.io/github/last-commit/pandalec/jiratui.nvim) ![](https://img.shields.io/github/commit-activity/y/pandalec/jiratui.nvim)
 - [bartcortooms/task-manager.nvim](https://github.com/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/stars/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/last-commit/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/bartcortooms/task-manager.nvim)
 - [ZGltYQ/jira-time.nvim](https://github.com/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/stars/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/last-commit/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/commit-activity/y/ZGltYQ/jira-time.nvim)
+- [l-lin/jira.nvim](https://github.com/l-lin/jira.nvim) ![](https://img.shields.io/github/stars/l-lin/jira.nvim) ![](https://img.shields.io/github/last-commit/l-lin/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/l-lin/jira.nvim)
 
 ### Confluence
 

@@ -106,6 +106,7 @@
 - [Jaehaks/md-utility.nvim](https://github.com/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/stars/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/md-utility.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/md-utility.nvim)
 - [OscarHUDalby/nvim-simd](https://github.com/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/stars/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/last-commit/OscarHUDalby/nvim-simd) ![](https://img.shields.io/github/commit-activity/y/OscarHUDalby/nvim-simd)
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/stars/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/last-commit/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/YousefHadder/markdown-plus.nvim)
+- [mathias-ewald/markdown-toc.nvim](https://github.com/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/stars/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/mathias-ewald/markdown-toc.nvim)
 
 #### Markdown link
 
@@ -513,6 +514,7 @@
 - [tim-pearson/latex-eval.nvim](https://github.com/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/stars/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/last-commit/tim-pearson/latex-eval.nvim) ![](https://img.shields.io/github/commit-activity/y/tim-pearson/latex-eval.nvim)
 - [Jaehaks/texflow.nvim](https://github.com/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/stars/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/texflow.nvim)
 - [mustache-enthusiast/leXtern.nvim](https://github.com/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/stars/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/last-commit/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/commit-activity/y/mustache-enthusiast/leXtern.nvim)
+- [eczovian/tex.nvim](https://github.com/eczovian/tex.nvim) ![](https://img.shields.io/github/stars/eczovian/tex.nvim) ![](https://img.shields.io/github/last-commit/eczovian/tex.nvim) ![](https://img.shields.io/github/commit-activity/y/eczovian/tex.nvim)
 
 #### Preview
 
