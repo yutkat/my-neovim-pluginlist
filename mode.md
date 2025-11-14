@@ -41,6 +41,7 @@
 - [pogyomo/submode.nvim](https://github.com/pogyomo/submode.nvim) ![](https://img.shields.io/github/stars/pogyomo/submode.nvim) ![](https://img.shields.io/github/last-commit/pogyomo/submode.nvim) ![](https://img.shields.io/github/commit-activity/y/pogyomo/submode.nvim)
 - [csd1100/modes.nvim](https://github.com/csd1100/modes.nvim) ![](https://img.shields.io/github/stars/csd1100/modes.nvim) ![](https://img.shields.io/github/last-commit/csd1100/modes.nvim) ![](https://img.shields.io/github/commit-activity/y/csd1100/modes.nvim)
 - [ksk0/nvim-alt-modes](https://github.com/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/stars/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/last-commit/ksk0/nvim-alt-modes) ![](https://img.shields.io/github/commit-activity/y/ksk0/nvim-alt-modes)
+- [sirasagi62/nvim-submode](https://github.com/sirasagi62/nvim-submode) ![](https://img.shields.io/github/stars/sirasagi62/nvim-submode) ![](https://img.shields.io/github/last-commit/sirasagi62/nvim-submode) ![](https://img.shields.io/github/commit-activity/y/sirasagi62/nvim-submode)
 
 ### Parinfer
 
