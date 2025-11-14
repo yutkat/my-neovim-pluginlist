@@ -35,6 +35,7 @@
 ### Test file
 
 - [freddyJarva/testfile.nvim](https://github.com/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/stars/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/last-commit/freddyJarva/testfile.nvim) ![](https://img.shields.io/github/commit-activity/y/freddyJarva/testfile.nvim)
+- [reprehensible/nvim-test-file](https://github.com/reprehensible/nvim-test-file) ![](https://img.shields.io/github/stars/reprehensible/nvim-test-file) ![](https://img.shields.io/github/last-commit/reprehensible/nvim-test-file) ![](https://img.shields.io/github/commit-activity/y/reprehensible/nvim-test-file)
 
 ### Neotest adapter
 
