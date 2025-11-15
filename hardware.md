@@ -56,7 +56,6 @@
 
 ### Raspberry PI
 
-- [siriknikita/raspberry-pi-pico.nvim](https://github.com/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/stars/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/last-commit/siriknikita/raspberry-pi-pico.nvim) ![](https://img.shields.io/github/commit-activity/y/siriknikita/raspberry-pi-pico.nvim)
 
 ### Robot
 
