@@ -156,6 +156,7 @@
 - [ctrlShiftBryan/ba-tools.nvim](https://github.com/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/stars/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/last-commit/ctrlShiftBryan/ba-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctrlShiftBryan/ba-tools.nvim)
 - [n1kben/gitcast.nvim](https://github.com/n1kben/gitcast.nvim) ![](https://img.shields.io/github/stars/n1kben/gitcast.nvim) ![](https://img.shields.io/github/last-commit/n1kben/gitcast.nvim) ![](https://img.shields.io/github/commit-activity/y/n1kben/gitcast.nvim)
 - [kimpure/gitcolors.nvim](https://github.com/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/stars/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/last-commit/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/gitcolors.nvim)
+- [yuki-yano/snacks-smart-git-status.nvim](https://github.com/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-git-status.nvim)
 
 ### git add
 
@@ -257,6 +258,7 @@
 - [yt20chill/inline_git_blame.nvim](https://github.com/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/stars/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/last-commit/yt20chill/inline_git_blame.nvim) ![](https://img.shields.io/github/commit-activity/y/yt20chill/inline_git_blame.nvim)
 - [tmybsv/blame.nvim](https://github.com/tmybsv/blame.nvim) ![](https://img.shields.io/github/stars/tmybsv/blame.nvim) ![](https://img.shields.io/github/last-commit/tmybsv/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/tmybsv/blame.nvim)
 - [pedroren-001/blame.nvim](https://github.com/pedroren-001/blame.nvim) ![](https://img.shields.io/github/stars/pedroren-001/blame.nvim) ![](https://img.shields.io/github/last-commit/pedroren-001/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroren-001/blame.nvim)
+- [Aitai/blamer.nvim](https://github.com/Aitai/blamer.nvim) ![](https://img.shields.io/github/stars/Aitai/blamer.nvim) ![](https://img.shields.io/github/last-commit/Aitai/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/Aitai/blamer.nvim)
 
 ### git log
 
