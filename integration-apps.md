@@ -99,6 +99,7 @@
 - [mickael-menu/ShadowVim](https://github.com/mickael-menu/ShadowVim) ![](https://img.shields.io/github/stars/mickael-menu/ShadowVim) ![](https://img.shields.io/github/last-commit/mickael-menu/ShadowVim) ![](https://img.shields.io/github/commit-activity/y/mickael-menu/ShadowVim)
 - [kkharji/xbase](https://github.com/kkharji/xbase) ![](https://img.shields.io/github/stars/kkharji/xbase) ![](https://img.shields.io/github/last-commit/kkharji/xbase) ![](https://img.shields.io/github/commit-activity/y/kkharji/xbase)
 - [wojciech-kulik/xcodebuild.nvim](https://github.com/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/stars/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/last-commit/wojciech-kulik/xcodebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/wojciech-kulik/xcodebuild.nvim)
+- [tornikegomareli/xcede.nvim](https://github.com/tornikegomareli/xcede.nvim) ![](https://img.shields.io/github/stars/tornikegomareli/xcede.nvim) ![](https://img.shields.io/github/last-commit/tornikegomareli/xcede.nvim) ![](https://img.shields.io/github/commit-activity/y/tornikegomareli/xcede.nvim)
 
 #### Multi IDE
 

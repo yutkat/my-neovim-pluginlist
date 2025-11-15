@@ -18,6 +18,7 @@
 - [m4c4r0n1n/theme-switcher.nvim](https://github.com/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/theme-switcher.nvim)
 - [gisketch/triforce.nvim](https://github.com/gisketch/triforce.nvim) ![](https://img.shields.io/github/stars/gisketch/triforce.nvim) ![](https://img.shields.io/github/last-commit/gisketch/triforce.nvim) ![](https://img.shields.io/github/commit-activity/y/gisketch/triforce.nvim)
 - [sfn101/lutos.nvim](https://github.com/sfn101/lutos.nvim) ![](https://img.shields.io/github/stars/sfn101/lutos.nvim) ![](https://img.shields.io/github/last-commit/sfn101/lutos.nvim) ![](https://img.shields.io/github/commit-activity/y/sfn101/lutos.nvim)
+- [danielcopper/nvim-harmony](https://github.com/danielcopper/nvim-harmony) ![](https://img.shields.io/github/stars/danielcopper/nvim-harmony) ![](https://img.shields.io/github/last-commit/danielcopper/nvim-harmony) ![](https://img.shields.io/github/commit-activity/y/danielcopper/nvim-harmony)
 
 ### Sidebar
 

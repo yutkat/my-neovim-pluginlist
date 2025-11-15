@@ -57,6 +57,7 @@
 - [umutondersu/smart-newline.nvim](https://github.com/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/stars/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/last-commit/umutondersu/smart-newline.nvim) ![](https://img.shields.io/github/commit-activity/y/umutondersu/smart-newline.nvim)
 - [nvim4hours/pairs.nvim](https://github.com/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/stars/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/last-commit/nvim4hours/pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim4hours/pairs.nvim)
 - [tkachenkosi/mautopairs.nvim](https://github.com/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/mautopairs.nvim)
+- [Marfien/simple-pairs.nvim](https://github.com/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/stars/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/last-commit/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Marfien/simple-pairs.nvim)
 
 ### escape pairs
 
