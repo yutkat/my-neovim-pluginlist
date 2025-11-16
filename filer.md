@@ -58,6 +58,7 @@
   - [maraloon/buffoil.nvim](https://github.com/maraloon/buffoil.nvim) ![](https://img.shields.io/github/stars/maraloon/buffoil.nvim) ![](https://img.shields.io/github/last-commit/maraloon/buffoil.nvim) ![](https://img.shields.io/github/commit-activity/y/maraloon/buffoil.nvim)
   - [spacewulf/oil-addon.nvim](https://github.com/spacewulf/oil-addon.nvim) ![](https://img.shields.io/github/stars/spacewulf/oil-addon.nvim) ![](https://img.shields.io/github/last-commit/spacewulf/oil-addon.nvim) ![](https://img.shields.io/github/commit-activity/y/spacewulf/oil-addon.nvim)
   - [Maelwalser/oil-copy.nvim](https://github.com/Maelwalser/oil-copy.nvim) ![](https://img.shields.io/github/stars/Maelwalser/oil-copy.nvim) ![](https://img.shields.io/github/last-commit/Maelwalser/oil-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/Maelwalser/oil-copy.nvim)
+  - [Maelwalser/oil-bar.nvim](https://github.com/Maelwalser/oil-bar.nvim) ![](https://img.shields.io/github/stars/Maelwalser/oil-bar.nvim) ![](https://img.shields.io/github/last-commit/Maelwalser/oil-bar.nvim) ![](https://img.shields.io/github/commit-activity/y/Maelwalser/oil-bar.nvim)
 - [ms-jpq/chadtree](https://github.com/ms-jpq/chadtree) ![](https://img.shields.io/github/stars/ms-jpq/chadtree) ![](https://img.shields.io/github/last-commit/ms-jpq/chadtree) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/chadtree)
 - [tamago324/lir.nvim](https://github.com/tamago324/lir.nvim) ![](https://img.shields.io/github/stars/tamago324/lir.nvim) ![](https://img.shields.io/github/last-commit/tamago324/lir.nvim) ![](https://img.shields.io/github/commit-activity/y/tamago324/lir.nvim)
 - [Xuyuanp/yanil](https://github.com/Xuyuanp/yanil) ![](https://img.shields.io/github/stars/Xuyuanp/yanil) ![](https://img.shields.io/github/last-commit/Xuyuanp/yanil) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/yanil)
@@ -120,6 +121,7 @@
 - [kbario/spear.nvim](https://github.com/kbario/spear.nvim) ![](https://img.shields.io/github/stars/kbario/spear.nvim) ![](https://img.shields.io/github/last-commit/kbario/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/kbario/spear.nvim)
 - [bobrown101/fff.nvim](https://github.com/bobrown101/fff.nvim) ![](https://img.shields.io/github/stars/bobrown101/fff.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/fff.nvim)
 - [Rizwanelansyah/simplyfile.nvim](https://github.com/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/simplyfile.nvim)
+- [nganhkhoa/portal.nvim](https://github.com/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/portal.nvim)
 
 ### Floating Style
 

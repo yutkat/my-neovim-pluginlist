@@ -133,6 +133,7 @@
 - [elanmed/marks.nvim](https://github.com/elanmed/marks.nvim) ![](https://img.shields.io/github/stars/elanmed/marks.nvim) ![](https://img.shields.io/github/last-commit/elanmed/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/marks.nvim)
 - [yilisharcs/quarrel.nvim](https://github.com/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/stars/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/quarrel.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/quarrel.nvim)
 - [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/stars/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvmanila/telescope-bookmarks.nvim)
+- [Sidney-Bernardin/tesser.nvim](https://github.com/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/stars/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/last-commit/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/commit-activity/y/Sidney-Bernardin/tesser.nvim)
 
 ### etc
 

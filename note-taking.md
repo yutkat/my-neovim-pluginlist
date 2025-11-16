@@ -100,6 +100,7 @@
 - [68mschmitt/thoughtworks.nvim](https://github.com/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/stars/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/thoughtworks.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/thoughtworks.nvim)
 - [randerson911/markdown-backlinks.nvim](https://github.com/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/stars/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/last-commit/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/randerson911/markdown-backlinks.nvim)
 - [ymich9963/mdnotes.nvim](https://github.com/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/stars/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/last-commit/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/ymich9963/mdnotes.nvim)
+- [lbartoletti/notes.nvim](https://github.com/lbartoletti/notes.nvim) ![](https://img.shields.io/github/stars/lbartoletti/notes.nvim) ![](https://img.shields.io/github/last-commit/lbartoletti/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lbartoletti/notes.nvim)
 
 ### Journal
 
