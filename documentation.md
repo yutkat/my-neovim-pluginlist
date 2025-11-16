@@ -544,6 +544,7 @@
 - [chenlijun99/biblioteca.nvim](https://github.com/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/stars/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/last-commit/chenlijun99/biblioteca.nvim) ![](https://img.shields.io/github/commit-activity/y/chenlijun99/biblioteca.nvim)
 - [Aidavdw/bibcite.nvim](https://github.com/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/stars/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/last-commit/Aidavdw/bibcite.nvim) ![](https://img.shields.io/github/commit-activity/y/Aidavdw/bibcite.nvim)
 - [inmzhang/citero.nvim](https://github.com/inmzhang/citero.nvim) ![](https://img.shields.io/github/stars/inmzhang/citero.nvim) ![](https://img.shields.io/github/last-commit/inmzhang/citero.nvim) ![](https://img.shields.io/github/commit-activity/y/inmzhang/citero.nvim)
+- [krissen/snacks-bibtex.nvim](https://github.com/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/snacks-bibtex.nvim)
 
 #### Speech
 
