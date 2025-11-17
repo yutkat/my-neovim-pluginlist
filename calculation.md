@@ -23,6 +23,7 @@
 - [rafacvs/vimath.nvim](https://github.com/rafacvs/vimath.nvim) ![](https://img.shields.io/github/stars/rafacvs/vimath.nvim) ![](https://img.shields.io/github/last-commit/rafacvs/vimath.nvim) ![](https://img.shields.io/github/commit-activity/y/rafacvs/vimath.nvim)
 - [FromWau/rink.nvim](https://github.com/FromWau/rink.nvim) ![](https://img.shields.io/github/stars/FromWau/rink.nvim) ![](https://img.shields.io/github/last-commit/FromWau/rink.nvim) ![](https://img.shields.io/github/commit-activity/y/FromWau/rink.nvim)
 - [CMOISDEAD/equal.nvim](https://github.com/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/stars/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/last-commit/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/commit-activity/y/CMOISDEAD/equal.nvim)
+- [navicore/bc.nvim](https://github.com/navicore/bc.nvim) ![](https://img.shields.io/github/stars/navicore/bc.nvim) ![](https://img.shields.io/github/last-commit/navicore/bc.nvim) ![](https://img.shields.io/github/commit-activity/y/navicore/bc.nvim)
 
 ### Time
 

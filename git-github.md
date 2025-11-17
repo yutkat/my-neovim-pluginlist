@@ -421,6 +421,7 @@
 ### Change
 
 - [tomkennedy513/git_changed.nvim](https://github.com/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/stars/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/last-commit/tomkennedy513/git_changed.nvim) ![](https://img.shields.io/github/commit-activity/y/tomkennedy513/git_changed.nvim)
+- [adhamsalama/githeatmap.nvim](https://github.com/adhamsalama/githeatmap.nvim) ![](https://img.shields.io/github/stars/adhamsalama/githeatmap.nvim) ![](https://img.shields.io/github/last-commit/adhamsalama/githeatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/adhamsalama/githeatmap.nvim)
 
 ### flow
 
@@ -479,6 +480,7 @@
 - [zachbuchli/ghpowertools.nvim](https://github.com/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/stars/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/last-commit/zachbuchli/ghpowertools.nvim) ![](https://img.shields.io/github/commit-activity/y/zachbuchli/ghpowertools.nvim)
 - [gitusp/gh-utils.nvim](https://github.com/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-utils.nvim)
 - [georgesnoe/lazygithub.nvim](https://github.com/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazygithub.nvim)
+- [e-roux/gh.nvim](https://github.com/e-roux/gh.nvim) ![](https://img.shields.io/github/stars/e-roux/gh.nvim) ![](https://img.shields.io/github/last-commit/e-roux/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/e-roux/gh.nvim)
 
 #### Notify
 

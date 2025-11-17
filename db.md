@@ -33,6 +33,7 @@
 - [LetsDrinkSomeTea/data.nvim](https://github.com/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/stars/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/last-commit/LetsDrinkSomeTea/data.nvim) ![](https://img.shields.io/github/commit-activity/y/LetsDrinkSomeTea/data.nvim)
 - [chiendo97/db-nbook.nvim](https://github.com/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/stars/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/last-commit/chiendo97/db-nbook.nvim) ![](https://img.shields.io/github/commit-activity/y/chiendo97/db-nbook.nvim)
 - [SaifOmar/quick-db.nvim](https://github.com/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/stars/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/last-commit/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/commit-activity/y/SaifOmar/quick-db.nvim)
+- [vinvolve/data-preview.nvim](https://github.com/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/stars/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/data-preview.nvim)
 
 ### SQL
 
