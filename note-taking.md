@@ -101,6 +101,8 @@
 - [randerson911/markdown-backlinks.nvim](https://github.com/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/stars/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/last-commit/randerson911/markdown-backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/randerson911/markdown-backlinks.nvim)
 - [ymich9963/mdnotes.nvim](https://github.com/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/stars/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/last-commit/ymich9963/mdnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/ymich9963/mdnotes.nvim)
 - [lbartoletti/notes.nvim](https://github.com/lbartoletti/notes.nvim) ![](https://img.shields.io/github/stars/lbartoletti/notes.nvim) ![](https://img.shields.io/github/last-commit/lbartoletti/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lbartoletti/notes.nvim)
+- [mshiltonj/notezwithaz.nvim](https://github.com/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/stars/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/last-commit/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiltonj/notezwithaz.nvim)
+- [ushmz/tabi.nvim](https://github.com/ushmz/tabi.nvim) ![](https://img.shields.io/github/stars/ushmz/tabi.nvim) ![](https://img.shields.io/github/last-commit/ushmz/tabi.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/tabi.nvim)
 
 ### Journal
 
@@ -329,6 +331,7 @@
 - [beetlejuice16/zotero-telescope.nvim](https://github.com/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/stars/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/last-commit/beetlejuice16/zotero-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/beetlejuice16/zotero-telescope.nvim)
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 - [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
+- [wellsdurant/zotero-md.nvim](https://github.com/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/zotero-md.nvim)
 
 ### Wiki
 

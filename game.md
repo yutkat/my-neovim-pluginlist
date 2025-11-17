@@ -45,6 +45,7 @@
 - [GreenStarMatter/nvim-golf](https://github.com/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/stars/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/last-commit/GreenStarMatter/nvim-golf) ![](https://img.shields.io/github/commit-activity/y/GreenStarMatter/nvim-golf)
 - [linuxswords/nvim-tsumego](https://github.com/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/stars/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/last-commit/linuxswords/nvim-tsumego) ![](https://img.shields.io/github/commit-activity/y/linuxswords/nvim-tsumego)
 - [olinpin/ultimateTTT.nvim](https://github.com/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/stars/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/last-commit/olinpin/ultimateTTT.nvim) ![](https://img.shields.io/github/commit-activity/y/olinpin/ultimateTTT.nvim)
+- [morre95/learning_game.nvim](https://github.com/morre95/learning_game.nvim) ![](https://img.shields.io/github/stars/morre95/learning_game.nvim) ![](https://img.shields.io/github/last-commit/morre95/learning_game.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/learning_game.nvim)
 
 ### Snake
 

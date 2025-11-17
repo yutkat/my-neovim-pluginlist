@@ -881,6 +881,7 @@
 ### Advent of code
 
 - [csessh/aoc.nvim](https://github.com/csessh/aoc.nvim) ![](https://img.shields.io/github/stars/csessh/aoc.nvim) ![](https://img.shields.io/github/last-commit/csessh/aoc.nvim) ![](https://img.shields.io/github/commit-activity/y/csessh/aoc.nvim)
+- [migmoog/aoc.nvim](https://github.com/migmoog/aoc.nvim) ![](https://img.shields.io/github/stars/migmoog/aoc.nvim) ![](https://img.shields.io/github/last-commit/migmoog/aoc.nvim) ![](https://img.shields.io/github/commit-activity/y/migmoog/aoc.nvim)
 
 ## Configuration
 
