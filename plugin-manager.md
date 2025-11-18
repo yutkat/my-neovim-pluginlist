@@ -79,6 +79,7 @@
 - [gopyts/pm.nvim](https://github.com/gopyts/pm.nvim) ![](https://img.shields.io/github/stars/gopyts/pm.nvim) ![](https://img.shields.io/github/last-commit/gopyts/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/gopyts/pm.nvim)
 - [onaforeignshore/packman.nvim](https://github.com/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/stars/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/last-commit/onaforeignshore/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/onaforeignshore/packman.nvim)
 - [sincngraeme/simplug.nvim](https://github.com/sincngraeme/simplug.nvim) ![](https://img.shields.io/github/stars/sincngraeme/simplug.nvim) ![](https://img.shields.io/github/last-commit/sincngraeme/simplug.nvim) ![](https://img.shields.io/github/commit-activity/y/sincngraeme/simplug.nvim)
+- [shizukani-cp/manager.nvim](https://github.com/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/manager.nvim)
 
 ### Update checker
 

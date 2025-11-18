@@ -148,6 +148,7 @@
 - [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
 - [mr-zorbot/simple-runner.nvim](https://github.com/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/stars/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/last-commit/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-zorbot/simple-runner.nvim)
 - [Monster0506/universal_runner.nvim](https://github.com/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/stars/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/last-commit/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Monster0506/universal_runner.nvim)
+- [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 
 #### Shell
 
