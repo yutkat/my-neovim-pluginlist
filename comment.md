@@ -130,6 +130,7 @@
 - [nhomble/thought-flow.nvim](https://github.com/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/stars/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/last-commit/nhomble/thought-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/nhomble/thought-flow.nvim)
 - [Sahas-Ananth/code_annotate.nvim](https://github.com/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/stars/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/last-commit/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/Sahas-Ananth/code_annotate.nvim)
 - [WarrenZhu050413/nvim-annotations](https://github.com/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-annotations)
+- [fadli0029/aside.nvim](https://github.com/fadli0029/aside.nvim) ![](https://img.shields.io/github/stars/fadli0029/aside.nvim) ![](https://img.shields.io/github/last-commit/fadli0029/aside.nvim) ![](https://img.shields.io/github/commit-activity/y/fadli0029/aside.nvim)
 
 ### function comment
 

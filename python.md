@@ -66,6 +66,7 @@
 - [cetanu/python-env.nvim](https://github.com/cetanu/python-env.nvim) ![](https://img.shields.io/github/stars/cetanu/python-env.nvim) ![](https://img.shields.io/github/last-commit/cetanu/python-env.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/python-env.nvim)
 - [dumidusw/python-type-hints.nvim](https://github.com/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/stars/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/last-commit/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/dumidusw/python-type-hints.nvim)
 - [Sabir222/bracepy.nvim](https://github.com/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/stars/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/last-commit/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/commit-activity/y/Sabir222/bracepy.nvim)
+- [lukoshkin/pymove.nvim](https://github.com/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/stars/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/last-commit/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/pymove.nvim)
 
 ### tweaks
 

@@ -204,6 +204,7 @@
 - [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 - [reybits/anvil.nvim](https://github.com/reybits/anvil.nvim) ![](https://img.shields.io/github/stars/reybits/anvil.nvim) ![](https://img.shields.io/github/last-commit/reybits/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/anvil.nvim)
 - [mdrosiadis/nvim-compile](https://github.com/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/stars/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/last-commit/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/mdrosiadis/nvim-compile)
+- [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 
 ### Auto detect style
 

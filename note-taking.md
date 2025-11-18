@@ -382,6 +382,7 @@
 - [CamdenClark/neoanki](https://github.com/CamdenClark/neoanki) ![](https://img.shields.io/github/stars/CamdenClark/neoanki) ![](https://img.shields.io/github/last-commit/CamdenClark/neoanki) ![](https://img.shields.io/github/commit-activity/y/CamdenClark/neoanki)
 - [Zhuxy/ankitui.nvim](https://github.com/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/stars/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/ankitui.nvim)
 - [0fflineuser/anki.nvim](https://github.com/0fflineuser/anki.nvim) ![](https://img.shields.io/github/stars/0fflineuser/anki.nvim) ![](https://img.shields.io/github/last-commit/0fflineuser/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/0fflineuser/anki.nvim)
+- [limaon/anki-editor.nvim](https://github.com/limaon/anki-editor.nvim) ![](https://img.shields.io/github/stars/limaon/anki-editor.nvim) ![](https://img.shields.io/github/last-commit/limaon/anki-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/limaon/anki-editor.nvim)
 
 ### Clickup
 

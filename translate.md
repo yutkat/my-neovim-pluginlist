@@ -31,6 +31,7 @@
 - [cxwx/argosTrans.nvim](https://github.com/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/stars/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/last-commit/cxwx/argosTrans.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/argosTrans.nvim)
 - [mozumasu/plamo-translate.nvim](https://github.com/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/stars/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/plamo-translate.nvim)
 - [alassek/deepl.nvim](https://github.com/alassek/deepl.nvim) ![](https://img.shields.io/github/stars/alassek/deepl.nvim) ![](https://img.shields.io/github/last-commit/alassek/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/alassek/deepl.nvim)
+- [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) ![](https://img.shields.io/github/stars/walkersumida/deepl.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/deepl.nvim)
 
 ## i18n
 
