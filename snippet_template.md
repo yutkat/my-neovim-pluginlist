@@ -43,6 +43,7 @@
 - [Zlatovlaska11/zsnip](https://github.com/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/stars/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/last-commit/Zlatovlaska11/zsnip) ![](https://img.shields.io/github/commit-activity/y/Zlatovlaska11/zsnip)
 - [akfiveseven/snippet-stash.nvim](https://github.com/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/stars/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/last-commit/akfiveseven/snippet-stash.nvim) ![](https://img.shields.io/github/commit-activity/y/akfiveseven/snippet-stash.nvim)
 - [avocadoisi/tenkai.nvim](https://github.com/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/stars/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/last-commit/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/commit-activity/y/avocadoisi/tenkai.nvim)
+- [caplod/extract.nvim](https://github.com/caplod/extract.nvim) ![](https://img.shields.io/github/stars/caplod/extract.nvim) ![](https://img.shields.io/github/last-commit/caplod/extract.nvim) ![](https://img.shields.io/github/commit-activity/y/caplod/extract.nvim)
 
 #### Snippet definitions
 
