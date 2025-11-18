@@ -148,6 +148,7 @@
 - [pohlrabi404/compile.nvim](https://github.com/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/stars/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/last-commit/pohlrabi404/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/pohlrabi404/compile.nvim)
 - [mr-zorbot/simple-runner.nvim](https://github.com/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/stars/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/last-commit/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-zorbot/simple-runner.nvim)
 - [Monster0506/universal_runner.nvim](https://github.com/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/stars/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/last-commit/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Monster0506/universal_runner.nvim)
+- [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 
 #### Shell
 
@@ -204,7 +205,6 @@
 - [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 - [reybits/anvil.nvim](https://github.com/reybits/anvil.nvim) ![](https://img.shields.io/github/stars/reybits/anvil.nvim) ![](https://img.shields.io/github/last-commit/reybits/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/anvil.nvim)
 - [mdrosiadis/nvim-compile](https://github.com/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/stars/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/last-commit/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/mdrosiadis/nvim-compile)
-- [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 
 ### Auto detect style
 
