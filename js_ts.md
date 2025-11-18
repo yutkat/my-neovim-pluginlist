@@ -281,7 +281,6 @@
 - [buschco/nvim-cmp-ts-tag-close](https://github.com/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/stars/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/last-commit/buschco/nvim-cmp-ts-tag-close) ![](https://img.shields.io/github/commit-activity/y/buschco/nvim-cmp-ts-tag-close)
 - [pigoz/nvim-ruby-css](https://github.com/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/stars/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/last-commit/pigoz/nvim-ruby-css) ![](https://img.shields.io/github/commit-activity/y/pigoz/nvim-ruby-css)
 - [catgoose/eddie.nvim](https://github.com/catgoose/eddie.nvim) ![](https://img.shields.io/github/stars/catgoose/eddie.nvim) ![](https://img.shields.io/github/last-commit/catgoose/eddie.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/eddie.nvim)js
-- [neo451/treedoc.nvim](https://github.com/neo451/treedoc.nvim) ![](https://img.shields.io/github/stars/neo451/treedoc.nvim) ![](https://img.shields.io/github/last-commit/neo451/treedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/neo451/treedoc.nvim)
 - [double-tilde/treesitter-tag-hop.nvim](https://github.com/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/stars/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/last-commit/double-tilde/treesitter-tag-hop.nvim) ![](https://img.shields.io/github/commit-activity/y/double-tilde/treesitter-tag-hop.nvim)
 
 ### conceal
