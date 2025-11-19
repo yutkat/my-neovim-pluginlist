@@ -57,6 +57,7 @@
 - [veigaribo/winhist.nvim](https://github.com/veigaribo/winhist.nvim) ![](https://img.shields.io/github/stars/veigaribo/winhist.nvim) ![](https://img.shields.io/github/last-commit/veigaribo/winhist.nvim) ![](https://img.shields.io/github/commit-activity/y/veigaribo/winhist.nvim)
 - [rvaccone/wind.nvim](https://github.com/rvaccone/wind.nvim) ![](https://img.shields.io/github/stars/rvaccone/wind.nvim) ![](https://img.shields.io/github/last-commit/rvaccone/wind.nvim) ![](https://img.shields.io/github/commit-activity/y/rvaccone/wind.nvim)
 - [haolian9/winman.nvim](https://github.com/haolian9/winman.nvim) ![](https://img.shields.io/github/stars/haolian9/winman.nvim) ![](https://img.shields.io/github/last-commit/haolian9/winman.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/winman.nvim)
+- [jedi-knights/yoda-window.nvim](https://github.com/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-window.nvim)
 
 #### move
 

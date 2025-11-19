@@ -43,6 +43,7 @@
 - [patrickswijgman/wizard.nvim](https://github.com/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/stars/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/last-commit/patrickswijgman/wizard.nvim) ![](https://img.shields.io/github/commit-activity/y/patrickswijgman/wizard.nvim)
 - [sgraves76/nvim-goodies](https://github.com/sgraves76/nvim-goodies) ![](https://img.shields.io/github/stars/sgraves76/nvim-goodies) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-goodies) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-goodies)
 - [rubiin/goodies.nvim](https://github.com/rubiin/goodies.nvim) ![](https://img.shields.io/github/stars/rubiin/goodies.nvim) ![](https://img.shields.io/github/last-commit/rubiin/goodies.nvim) ![](https://img.shields.io/github/commit-activity/y/rubiin/goodies.nvim)
+- [afj8z/nIm.nvim](https://github.com/afj8z/nIm.nvim) ![](https://img.shields.io/github/stars/afj8z/nIm.nvim) ![](https://img.shields.io/github/last-commit/afj8z/nIm.nvim) ![](https://img.shields.io/github/commit-activity/y/afj8z/nIm.nvim)
 
 ## UI
 

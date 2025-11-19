@@ -81,6 +81,7 @@
 - [teesh3rt/zeekay.nvim](https://github.com/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/stars/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/last-commit/teesh3rt/zeekay.nvim) ![](https://img.shields.io/github/commit-activity/y/teesh3rt/zeekay.nvim)
 - [breiting/nvim-zettel.nvim](https://github.com/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/stars/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/last-commit/breiting/nvim-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/nvim-zettel.nvim)
 - [Paperweightt/tome.nvim](https://github.com/Paperweightt/tome.nvim) ![](https://img.shields.io/github/stars/Paperweightt/tome.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/tome.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/tome.nvim)
+- [alchrdev/astereon.nvim](https://github.com/alchrdev/astereon.nvim) ![](https://img.shields.io/github/stars/alchrdev/astereon.nvim) ![](https://img.shields.io/github/last-commit/alchrdev/astereon.nvim) ![](https://img.shields.io/github/commit-activity/y/alchrdev/astereon.nvim)
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
 
 ### Markdown
@@ -108,6 +109,7 @@
 
 - [r35krag0th/yeahnotes.nvim](https://github.com/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/stars/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/last-commit/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/r35krag0th/yeahnotes.nvim)
 - [manprit-tiwari/quicknotes.nvim](https://github.com/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/stars/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/manprit-tiwari/quicknotes.nvim)
+- [clobrano/zournal.nvim](https://github.com/clobrano/zournal.nvim) ![](https://img.shields.io/github/stars/clobrano/zournal.nvim) ![](https://img.shields.io/github/last-commit/clobrano/zournal.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/zournal.nvim)
 
 ### ToDo
 
@@ -258,6 +260,7 @@
 - [when-harry-met-sally/obsidian-plus.nvim](https://github.com/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/stars/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/last-commit/when-harry-met-sally/obsidian-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/when-harry-met-sally/obsidian-plus.nvim)
 - [w40141/obsidian-daily-tweets.nvim](https://github.com/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/stars/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/last-commit/w40141/obsidian-daily-tweets.nvim) ![](https://img.shields.io/github/commit-activity/y/w40141/obsidian-daily-tweets.nvim)
 - [PeterYurkovich/pyn.nvim](https://github.com/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/stars/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/last-commit/PeterYurkovich/pyn.nvim) ![](https://img.shields.io/github/commit-activity/y/PeterYurkovich/pyn.nvim)
+- [TravisLinkey/obsidian-hover.nvim](https://github.com/TravisLinkey/obsidian-hover.nvim) ![](https://img.shields.io/github/stars/TravisLinkey/obsidian-hover.nvim) ![](https://img.shields.io/github/last-commit/TravisLinkey/obsidian-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/obsidian-hover.nvim)
 - [LilleAila/obsidian-todo.nvim](https://github.com/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/stars/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/last-commit/LilleAila/obsidian-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/LilleAila/obsidian-todo.nvim)
 - [efirlus/quickadd.nvim](https://github.com/efirlus/quickadd.nvim) ![](https://img.shields.io/github/stars/efirlus/quickadd.nvim) ![](https://img.shields.io/github/last-commit/efirlus/quickadd.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/quickadd.nvim)
 - [wtfauonabt/obsidian-tasks.nvim](https://github.com/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/wtfauonabt/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wtfauonabt/obsidian-tasks.nvim)

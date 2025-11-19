@@ -40,6 +40,7 @@
 - [AymericHenouille/origami.nvim](https://github.com/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/stars/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/last-commit/AymericHenouille/origami.nvim) ![](https://img.shields.io/github/commit-activity/y/AymericHenouille/origami.nvim)
 - [vertexE/fold.nvim](https://github.com/vertexE/fold.nvim) ![](https://img.shields.io/github/stars/vertexE/fold.nvim) ![](https://img.shields.io/github/last-commit/vertexE/fold.nvim) ![](https://img.shields.io/github/commit-activity/y/vertexE/fold.nvim)
 - [Faria22/foldsync.nvim](https://github.com/Faria22/foldsync.nvim) ![](https://img.shields.io/github/stars/Faria22/foldsync.nvim) ![](https://img.shields.io/github/last-commit/Faria22/foldsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Faria22/foldsync.nvim)
+- [hanhanW/mlir-fold.nvim](https://github.com/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/stars/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/last-commit/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/hanhanW/mlir-fold.nvim)
 
 ### Auto fold
 
