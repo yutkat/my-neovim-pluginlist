@@ -421,6 +421,7 @@
 ### Graphviz
 
 - [izocha/graphviz.nvim](https://github.com/izocha/graphviz.nvim) ![](https://img.shields.io/github/stars/izocha/graphviz.nvim) ![](https://img.shields.io/github/last-commit/izocha/graphviz.nvim) ![](https://img.shields.io/github/commit-activity/y/izocha/graphviz.nvim)
+- [xuyangy/graphviz-live-preview.nvim](https://github.com/xuyangy/graphviz-live-preview.nvim) ![](https://img.shields.io/github/stars/xuyangy/graphviz-live-preview.nvim) ![](https://img.shields.io/github/last-commit/xuyangy/graphviz-live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/xuyangy/graphviz-live-preview.nvim)
 
 ### AsciiDoc
 

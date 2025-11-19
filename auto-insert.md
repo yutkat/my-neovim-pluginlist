@@ -19,6 +19,7 @@
 ## Auto insert
 
 - [nvimdev/dyninput.nvim](https://github.com/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/stars/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/dyninput.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/dyninput.nvim)
+- [KMalone42/supersubscripts.nvim](https://github.com/KMalone42/supersubscripts.nvim) ![](https://img.shields.io/github/stars/KMalone42/supersubscripts.nvim) ![](https://img.shields.io/github/last-commit/KMalone42/supersubscripts.nvim) ![](https://img.shields.io/github/commit-activity/y/KMalone42/supersubscripts.nvim)
 
 ## insert pairs
 

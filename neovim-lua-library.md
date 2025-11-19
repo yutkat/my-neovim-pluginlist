@@ -98,6 +98,7 @@
 - [kirill-d-lappo/nvim-clerk](https://github.com/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/stars/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/last-commit/kirill-d-lappo/nvim-clerk) ![](https://img.shields.io/github/commit-activity/y/kirill-d-lappo/nvim-clerk)
 - [vijaysenapathi/nvim-debug-tools](https://github.com/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/stars/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/last-commit/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/commit-activity/y/vijaysenapathi/nvim-debug-tools)
 - [wsdjeg/logger.nvim](https://github.com/wsdjeg/logger.nvim) ![](https://img.shields.io/github/stars/wsdjeg/logger.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/logger.nvim)
+- [jedi-knights/yoda-logging.nvim](https://github.com/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-logging.nvim)
 
 ## async
 
@@ -447,3 +448,4 @@
 - [wet-sandwich/toolbox.nvim](https://github.com/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/toolbox.nvim)
 - [DhirajBhakta/depcopy.nvim](https://github.com/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/stars/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/last-commit/DhirajBhakta/depcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/DhirajBhakta/depcopy.nvim)
 - [jkaraskiewicz/utils.nvim](https://github.com/jkaraskiewicz/utils.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/utils.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/utils.nvim)
+- [jedi-knights/yoda-core.nvim](https://github.com/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-core.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-core.nvim)

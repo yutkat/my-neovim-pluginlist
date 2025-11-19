@@ -534,6 +534,7 @@
 - [cousine/opencode-context.nvim](https://github.com/cousine/opencode-context.nvim) ![](https://img.shields.io/github/stars/cousine/opencode-context.nvim) ![](https://img.shields.io/github/last-commit/cousine/opencode-context.nvim) ![](https://img.shields.io/github/commit-activity/y/cousine/opencode-context.nvim)
 - [kksimons/nvim-opencode](https://github.com/kksimons/nvim-opencode) ![](https://img.shields.io/github/stars/kksimons/nvim-opencode) ![](https://img.shields.io/github/last-commit/kksimons/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/kksimons/nvim-opencode)
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/stars/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/last-commit/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-tee/opencode.nvim)
+- [dfmonaco/nvim-opencode](https://github.com/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/stars/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/last-commit/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/dfmonaco/nvim-opencode)
 
 ### khulnasoft
 
@@ -580,6 +581,7 @@
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
 - [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
+- [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-algms/agentic.nvim)
 
 ### Amp
 
