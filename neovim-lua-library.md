@@ -62,6 +62,7 @@
 - [Mathematics](#mathematics)
 - [Treesitter](#treesitter)
 - [Neovim Server](#neovim-server)
+- [Integration with CLI](#integration-with-cli)
 - [Tokenizer](#tokenizer)
 - [Enhanced Standard Features](#enhanced-standard-features)
 - [Completion](#completion)
@@ -399,6 +400,10 @@
 ## Neovim Server
 
 - [phanen/ui-proxy.nvim](https://github.com/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/stars/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/last-commit/phanen/ui-proxy.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ui-proxy.nvim)
+
+## Integration with CLI
+
+- [gfontenot/nvim-external-tui](https://github.com/gfontenot/nvim-external-tui) ![](https://img.shields.io/github/stars/gfontenot/nvim-external-tui) ![](https://img.shields.io/github/last-commit/gfontenot/nvim-external-tui) ![](https://img.shields.io/github/commit-activity/y/gfontenot/nvim-external-tui)
 
 ## Tokenizer
 
