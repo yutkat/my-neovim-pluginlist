@@ -243,6 +243,10 @@
 
 - [nielsdekker/detekt.nvim](https://github.com/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/stars/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/last-commit/nielsdekker/detekt.nvim) ![](https://img.shields.io/github/commit-activity/y/nielsdekker/detekt.nvim)
 
+#### Galaxy
+
+- [withgalaxy/gxc.nvim](https://github.com/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/stars/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/last-commit/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/commit-activity/y/withgalaxy/gxc.nvim)
+
 #### Swift
 
 - [m-housh/swift.nvim](https://github.com/m-housh/swift.nvim) ![](https://img.shields.io/github/stars/m-housh/swift.nvim) ![](https://img.shields.io/github/last-commit/m-housh/swift.nvim) ![](https://img.shields.io/github/commit-activity/y/m-housh/swift.nvim)

@@ -89,6 +89,7 @@
 - [tssujt/openinvscode.nvim](https://github.com/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/stars/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/last-commit/tssujt/openinvscode.nvim) ![](https://img.shields.io/github/commit-activity/y/tssujt/openinvscode.nvim)
 - [mark-ng/Code.nvim](https://github.com/mark-ng/Code.nvim) ![](https://img.shields.io/github/stars/mark-ng/Code.nvim) ![](https://img.shields.io/github/last-commit/mark-ng/Code.nvim) ![](https://img.shields.io/github/commit-activity/y/mark-ng/Code.nvim)
 - [zqqqqz2000/shadow-play.nvim](https://github.com/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/stars/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/last-commit/zqqqqz2000/shadow-play.nvim) ![](https://img.shields.io/github/commit-activity/y/zqqqqz2000/shadow-play.nvim)
+- [Portavion/nvim-vsync](https://github.com/Portavion/nvim-vsync) ![](https://img.shields.io/github/stars/Portavion/nvim-vsync) ![](https://img.shields.io/github/last-commit/Portavion/nvim-vsync) ![](https://img.shields.io/github/commit-activity/y/Portavion/nvim-vsync)
 
 #### Helix
 
