@@ -516,6 +516,7 @@
 - [Jaehaks/texflow.nvim](https://github.com/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/stars/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/last-commit/Jaehaks/texflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/texflow.nvim)
 - [mustache-enthusiast/leXtern.nvim](https://github.com/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/stars/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/last-commit/mustache-enthusiast/leXtern.nvim) ![](https://img.shields.io/github/commit-activity/y/mustache-enthusiast/leXtern.nvim)
 - [eczovian/tex.nvim](https://github.com/eczovian/tex.nvim) ![](https://img.shields.io/github/stars/eczovian/tex.nvim) ![](https://img.shields.io/github/last-commit/eczovian/tex.nvim) ![](https://img.shields.io/github/commit-activity/y/eczovian/tex.nvim)
+- [krissen/output-panel.nvim](https://github.com/krissen/output-panel.nvim) ![](https://img.shields.io/github/stars/krissen/output-panel.nvim) ![](https://img.shields.io/github/last-commit/krissen/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/output-panel.nvim)
 
 #### Preview
 

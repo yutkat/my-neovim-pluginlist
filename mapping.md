@@ -78,6 +78,7 @@
 - [HunterretnuH/map.nvim](https://github.com/HunterretnuH/map.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map.nvim)
 - [Hdoc1509/vim-map-side.nvim](https://github.com/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/vim-map-side.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/vim-map-side.nvim)
 - [jemjam/settable.nvim](https://github.com/jemjam/settable.nvim) ![](https://img.shields.io/github/stars/jemjam/settable.nvim) ![](https://img.shields.io/github/last-commit/jemjam/settable.nvim) ![](https://img.shields.io/github/commit-activity/y/jemjam/settable.nvim)
+- [yuki-yano/fallback-map.nvim](https://github.com/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/stars/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/fallback-map.nvim)
 
 ### instant mapping
 

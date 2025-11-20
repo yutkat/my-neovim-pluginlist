@@ -274,6 +274,10 @@
 
 - [icholy/nvim-lsplinks](https://github.com/icholy/nvim-lsplinks) ![](https://img.shields.io/github/stars/icholy/nvim-lsplinks) ![](https://img.shields.io/github/last-commit/icholy/nvim-lsplinks) ![](https://img.shields.io/github/commit-activity/y/icholy/nvim-lsplinks)
 
+##### selectionRange
+
+- [ptimoney/lsp-selection-range.nvim](https://github.com/ptimoney/lsp-selection-range.nvim) ![](https://img.shields.io/github/stars/ptimoney/lsp-selection-range.nvim) ![](https://img.shields.io/github/last-commit/ptimoney/lsp-selection-range.nvim) ![](https://img.shields.io/github/commit-activity/y/ptimoney/lsp-selection-range.nvim)
+
 #### window
 
 ##### logMessage

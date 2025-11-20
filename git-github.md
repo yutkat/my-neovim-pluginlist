@@ -398,6 +398,7 @@
 ### git utils
 
 - [yutkat/convert-git-url.nvim](https://github.com/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/stars/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/last-commit/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/convert-git-url.nvim)
+- [someshkoli/git-rev.nvim](https://github.com/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/stars/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/last-commit/someshkoli/git-rev.nvim) ![](https://img.shields.io/github/commit-activity/y/someshkoli/git-rev.nvim)
 
 ### Contribution
 
