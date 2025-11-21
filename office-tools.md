@@ -6,6 +6,7 @@
 - [Contacts](#contacts)
 - [Calendar](#calendar)
 - [MS Word](#ms-word)
+- [Excel](#excel)
 - [Presentation](#presentation)
 
 <!-- tocstop -->
@@ -41,6 +42,10 @@
 
 - [marromlam/nvim-docx](https://github.com/marromlam/nvim-docx) ![](https://img.shields.io/github/stars/marromlam/nvim-docx) ![](https://img.shields.io/github/last-commit/marromlam/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/marromlam/nvim-docx)
 - [DaanHessen/nvim-docx](https://github.com/DaanHessen/nvim-docx) ![](https://img.shields.io/github/stars/DaanHessen/nvim-docx) ![](https://img.shields.io/github/last-commit/DaanHessen/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/DaanHessen/nvim-docx)
+
+## Excel
+
+- [Beargruug/xls-viewer.nvim](https://github.com/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/stars/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/xls-viewer.nvim)
 
 ## Presentation
 
