@@ -78,6 +78,7 @@
 - [ravsii/timer.nvim](https://github.com/ravsii/timer.nvim) ![](https://img.shields.io/github/stars/ravsii/timer.nvim) ![](https://img.shields.io/github/last-commit/ravsii/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/ravsii/timer.nvim)
 - [Tin-Mijatovic/fit.nvim](https://github.com/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/stars/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/last-commit/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/commit-activity/y/Tin-Mijatovic/fit.nvim)
 - [praveenscript/idleClock.nvim](https://github.com/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/stars/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/last-commit/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/commit-activity/y/praveenscript/idleClock.nvim)
+- [TemelGunaydin/timer.nvim](https://github.com/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/stars/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/last-commit/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/TemelGunaydin/timer.nvim)
 
 ## Do Not Disturb
 

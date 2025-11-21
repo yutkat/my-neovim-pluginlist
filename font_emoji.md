@@ -102,3 +102,4 @@
 ### Kaomoji
 
 - [periaate/kaomoji.nvim](https://github.com/periaate/kaomoji.nvim) ![](https://img.shields.io/github/stars/periaate/kaomoji.nvim) ![](https://img.shields.io/github/last-commit/periaate/kaomoji.nvim) ![](https://img.shields.io/github/commit-activity/y/periaate/kaomoji.nvim)
+- [numen-0/temoji.nvim](https://github.com/numen-0/temoji.nvim) ![](https://img.shields.io/github/stars/numen-0/temoji.nvim) ![](https://img.shields.io/github/last-commit/numen-0/temoji.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/temoji.nvim)

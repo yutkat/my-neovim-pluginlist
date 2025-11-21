@@ -535,6 +535,7 @@
 - [kksimons/nvim-opencode](https://github.com/kksimons/nvim-opencode) ![](https://img.shields.io/github/stars/kksimons/nvim-opencode) ![](https://img.shields.io/github/last-commit/kksimons/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/kksimons/nvim-opencode)
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/stars/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/last-commit/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-tee/opencode.nvim)
 - [dfmonaco/nvim-opencode](https://github.com/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/stars/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/last-commit/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/dfmonaco/nvim-opencode)
+- [e-cal/opencode.nvim](https://github.com/e-cal/opencode.nvim) ![](https://img.shields.io/github/stars/e-cal/opencode.nvim) ![](https://img.shields.io/github/last-commit/e-cal/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/opencode.nvim)
 
 ### khulnasoft
 
@@ -613,6 +614,7 @@
 - [gosvig123/nvim-cursor](https://github.com/gosvig123/nvim-cursor) ![](https://img.shields.io/github/stars/gosvig123/nvim-cursor) ![](https://img.shields.io/github/last-commit/gosvig123/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/gosvig123/nvim-cursor)
 - [bleda/cursor.nvim](https://github.com/bleda/cursor.nvim) ![](https://img.shields.io/github/stars/bleda/cursor.nvim) ![](https://img.shields.io/github/last-commit/bleda/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bleda/cursor.nvim)
 - [koikonom/nvim-cursor](https://github.com/koikonom/nvim-cursor) ![](https://img.shields.io/github/stars/koikonom/nvim-cursor) ![](https://img.shields.io/github/last-commit/koikonom/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/koikonom/nvim-cursor)
+- [eun2ce/cursoragent.nvim](https://github.com/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/stars/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/last-commit/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/commit-activity/y/eun2ce/cursoragent.nvim)
 
 ## CodeCompanion
 
