@@ -114,6 +114,7 @@
 - [iammmiru/csv-utils.nvim](https://github.com/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/stars/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/csv-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/csv-utils.nvim)
 - [senkentarou/csv-tools.nvim](https://github.com/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/stars/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/csv-tools.nvim)
 - [thgrass/csvcols.nvim](https://github.com/thgrass/csvcols.nvim) ![](https://img.shields.io/github/stars/thgrass/csvcols.nvim) ![](https://img.shields.io/github/last-commit/thgrass/csvcols.nvim) ![](https://img.shields.io/github/commit-activity/y/thgrass/csvcols.nvim)
+- [Kyytox/data-explorer.nvim](https://github.com/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/stars/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/last-commit/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyytox/data-explorer.nvim)
 
 ### Jenkins
 
