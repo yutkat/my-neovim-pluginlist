@@ -19,6 +19,7 @@
 - [jryom/nvim-tabulous](https://github.com/jryom/nvim-tabulous) ![](https://img.shields.io/github/stars/jryom/nvim-tabulous) ![](https://img.shields.io/github/last-commit/jryom/nvim-tabulous) ![](https://img.shields.io/github/commit-activity/y/jryom/nvim-tabulous)
 - [pynappo/tabnames.nvim](https://github.com/pynappo/tabnames.nvim) ![](https://img.shields.io/github/stars/pynappo/tabnames.nvim) ![](https://img.shields.io/github/last-commit/pynappo/tabnames.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/tabnames.nvim)
 - [NeViRAIDE/nevitabs.nvim](https://github.com/NeViRAIDE/nevitabs.nvim) ![](https://img.shields.io/github/stars/NeViRAIDE/nevitabs.nvim) ![](https://img.shields.io/github/last-commit/NeViRAIDE/nevitabs.nvim) ![](https://img.shields.io/github/commit-activity/y/NeViRAIDE/nevitabs.nvim)
+- [lxymahatma/tabscope.nvim](https://github.com/lxymahatma/tabscope.nvim) ![](https://img.shields.io/github/stars/lxymahatma/tabscope.nvim) ![](https://img.shields.io/github/last-commit/lxymahatma/tabscope.nvim) ![](https://img.shields.io/github/commit-activity/y/lxymahatma/tabscope.nvim)
 
 ### select
 

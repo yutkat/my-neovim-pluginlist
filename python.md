@@ -241,6 +241,7 @@
 - [ok97465/ipybridge.nvim](https://github.com/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/stars/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/last-commit/ok97465/ipybridge.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/ipybridge.nvim)
 - [flashcodes-themayankjha/fknb.nvim](https://github.com/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/fknb.nvim)
 - [stellarjmr/notebook_style.nvim](https://github.com/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/stars/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/notebook_style.nvim)
+- [foredu/jupyter-remote.nvim](https://github.com/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/stars/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/last-commit/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/foredu/jupyter-remote.nvim)
 
 ### Pandas
 

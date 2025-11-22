@@ -146,6 +146,7 @@
 - [beeender/richclip.nvim](https://github.com/beeender/richclip.nvim) ![](https://img.shields.io/github/stars/beeender/richclip.nvim) ![](https://img.shields.io/github/last-commit/beeender/richclip.nvim) ![](https://img.shields.io/github/commit-activity/y/beeender/richclip.nvim)
 - [Frosthaven/yank-system-ops.nvim](https://github.com/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/stars/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/last-commit/Frosthaven/yank-system-ops.nvim) ![](https://img.shields.io/github/commit-activity/y/Frosthaven/yank-system-ops.nvim)
 - [Frosthaven/native-clipboard.nvim](https://github.com/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/stars/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/last-commit/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/Frosthaven/native-clipboard.nvim)
+- [adam-szaj/nvim-rclipboard](https://github.com/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/stars/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/last-commit/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/commit-activity/y/adam-szaj/nvim-rclipboard)
 
 #### WSL clipboard
 

@@ -187,6 +187,7 @@
 ### Network File Manager
 
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)
+- [iharkatkavets/remotify.nvim](https://github.com/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/remotify.nvim)
 
 ### Open directory
 
