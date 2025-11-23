@@ -455,6 +455,7 @@
 - [MrDwarf7/lazyjui.nvim](https://github.com/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/stars/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/last-commit/MrDwarf7/lazyjui.nvim) ![](https://img.shields.io/github/commit-activity/y/MrDwarf7/lazyjui.nvim)
 - [HotThoughts/jjui.nvim](https://github.com/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/stars/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/last-commit/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/HotThoughts/jjui.nvim)
 - [Spiegie/jj-conflict-highlight.nvim](https://github.com/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/stars/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/last-commit/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Spiegie/jj-conflict-highlight.nvim)
+- [sivansh11/jj](https://github.com/sivansh11/jj) ![](https://img.shields.io/github/stars/sivansh11/jj) ![](https://img.shields.io/github/last-commit/sivansh11/jj) ![](https://img.shields.io/github/commit-activity/y/sivansh11/jj)
 
 ### diff
 
