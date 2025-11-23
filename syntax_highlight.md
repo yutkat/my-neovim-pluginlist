@@ -254,6 +254,7 @@
 - [g0t4/illuminate.nvim](https://github.com/g0t4/illuminate.nvim) ![](https://img.shields.io/github/stars/g0t4/illuminate.nvim) ![](https://img.shields.io/github/last-commit/g0t4/illuminate.nvim) ![](https://img.shields.io/github/commit-activity/y/g0t4/illuminate.nvim)
 - [LucasGualtieri/visual-highlight.nvim](https://github.com/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/stars/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/last-commit/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasGualtieri/visual-highlight.nvim)
 - [lost22git/highlight-visual.nvim](https://github.com/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/stars/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/last-commit/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/highlight-visual.nvim)
+- [BaoSiZe-bot/symbol-overlay.nvim](https://github.com/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/stars/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/last-commit/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/BaoSiZe-bot/symbol-overlay.nvim)
 
 ### Current block highlight
 

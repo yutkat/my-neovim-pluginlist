@@ -410,6 +410,7 @@
 - [chojs23/im-switch.nvim](https://github.com/chojs23/im-switch.nvim) ![](https://img.shields.io/github/stars/chojs23/im-switch.nvim) ![](https://img.shields.io/github/last-commit/chojs23/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/chojs23/im-switch.nvim)
 - [sing-kuro/auto-ime.nvim](https://github.com/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/auto-ime.nvim)
 - [sing-kuro/ime.nvim](https://github.com/sing-kuro/ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/ime.nvim)
+- [pk-hash/smart-im.nvim](https://github.com/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/stars/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/smart-im.nvim)
 
 #### Fcitx
 

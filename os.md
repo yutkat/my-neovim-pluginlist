@@ -180,6 +180,7 @@
 - [Biplab-Dutta/nvim-android-device](https://github.com/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/stars/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/last-commit/Biplab-Dutta/nvim-android-device) ![](https://img.shields.io/github/commit-activity/y/Biplab-Dutta/nvim-android-device)
 - [aehabdelouadoud/android_tools.nvim](https://github.com/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/stars/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/last-commit/aehabdelouadoud/android_tools.nvim) ![](https://img.shields.io/github/commit-activity/y/aehabdelouadoud/android_tools.nvim)
 - [Marfien/astudio.nvim](https://github.com/Marfien/astudio.nvim) ![](https://img.shields.io/github/stars/Marfien/astudio.nvim) ![](https://img.shields.io/github/last-commit/Marfien/astudio.nvim) ![](https://img.shields.io/github/commit-activity/y/Marfien/astudio.nvim)
+- [Hydra0xetc/Openner.nvim](https://github.com/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/stars/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/last-commit/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/commit-activity/y/Hydra0xetc/Openner.nvim)
 
 #### adb
 

@@ -42,6 +42,7 @@
 - [taku25/UnrealDev.nvim](https://github.com/taku25/UnrealDev.nvim) ![](https://img.shields.io/github/stars/taku25/UnrealDev.nvim) ![](https://img.shields.io/github/last-commit/taku25/UnrealDev.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UnrealDev.nvim)
 - [taku25/USX.nvim](https://github.com/taku25/USX.nvim) ![](https://img.shields.io/github/stars/taku25/USX.nvim) ![](https://img.shields.io/github/last-commit/taku25/USX.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/USX.nvim)
 - [taku25/UEA.nvim](https://github.com/taku25/UEA.nvim) ![](https://img.shields.io/github/stars/taku25/UEA.nvim) ![](https://img.shields.io/github/last-commit/taku25/UEA.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UEA.nvim)
+- [taku25/UNX.nvim](https://github.com/taku25/UNX.nvim) ![](https://img.shields.io/github/stars/taku25/UNX.nvim) ![](https://img.shields.io/github/last-commit/taku25/UNX.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UNX.nvim)
 
 ### Godot
 
