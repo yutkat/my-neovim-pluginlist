@@ -224,6 +224,7 @@
 - [cantti/dotnet-helper.nvim](https://github.com/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/stars/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/last-commit/cantti/dotnet-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/cantti/dotnet-helper.nvim)
 - [austincrft/dotnet-secrets.nvim](https://github.com/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-secrets.nvim)
 - [austincrft/dotnet-test.nvim](https://github.com/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-test.nvim)
+- [tuliopaim/dotnet-tools.nvim](https://github.com/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dotnet-tools.nvim)
 
 ##### ASP.NET
 

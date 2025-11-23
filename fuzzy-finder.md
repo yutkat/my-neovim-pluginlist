@@ -55,6 +55,7 @@
 - [wsdjeg/picker.nvim](https://github.com/wsdjeg/picker.nvim) ![](https://img.shields.io/github/stars/wsdjeg/picker.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/picker.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/picker.nvim)
 - [alexpasmantier/tv.nvim](https://github.com/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/tv.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/tv.nvim)
 - [comfysage/artio.nvim](https://github.com/comfysage/artio.nvim) ![](https://img.shields.io/github/stars/comfysage/artio.nvim) ![](https://img.shields.io/github/last-commit/comfysage/artio.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/artio.nvim)
+- [anoopkcn/fuzzy.nvim](https://github.com/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/stars/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/fuzzy.nvim)
 
 ### Telescope Extensions
 

@@ -34,6 +34,7 @@
     - [Styling](#styling)
     - [Markdown checkbox](#markdown-checkbox)
     - [Markdown list](#markdown-list)
+    - [Markdown details](#markdown-details)
     - [Style](#style)
     - [Markdown image](#markdown-image)
     - [Markdown concealer](#markdown-concealer)
@@ -330,6 +331,10 @@
 - [efirlus/keepin-md.nvim](https://github.com/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/stars/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/last-commit/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/keepin-md.nvim)
 - [oliver-hughes/md-list.nvim](https://github.com/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/stars/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/last-commit/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/commit-activity/y/oliver-hughes/md-list.nvim)
 
+#### Markdown details
+
+- [k-ohnuma/md-accordion.nvim](https://github.com/k-ohnuma/md-accordion.nvim) ![](https://img.shields.io/github/stars/k-ohnuma/md-accordion.nvim) ![](https://img.shields.io/github/last-commit/k-ohnuma/md-accordion.nvim) ![](https://img.shields.io/github/commit-activity/y/k-ohnuma/md-accordion.nvim)
+
 #### Style
 
 - [MistbornOne/md-format.nvim](https://github.com/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/stars/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/last-commit/MistbornOne/md-format.nvim) ![](https://img.shields.io/github/commit-activity/y/MistbornOne/md-format.nvim)
@@ -560,6 +565,7 @@
 ### Quarto
 
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/commit-activity/y/quarto-dev/quarto-nvim)
+- [wellsdurant/quartofy.nvim](https://github.com/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/stars/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/quartofy.nvim)
 
 ### Gist
 

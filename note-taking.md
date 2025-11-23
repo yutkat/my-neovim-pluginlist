@@ -230,6 +230,8 @@
 - [udayanKashyap/pensieve.nvim](https://github.com/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/stars/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/last-commit/udayanKashyap/pensieve.nvim) ![](https://img.shields.io/github/commit-activity/y/udayanKashyap/pensieve.nvim)
 - [jaswdr/nvim-todos](https://github.com/jaswdr/nvim-todos) ![](https://img.shields.io/github/stars/jaswdr/nvim-todos) ![](https://img.shields.io/github/last-commit/jaswdr/nvim-todos) ![](https://img.shields.io/github/commit-activity/y/jaswdr/nvim-todos)
 - [alessandro-stella/floating-todo.nvim](https://github.com/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/stars/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/last-commit/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandro-stella/floating-todo.nvim)
+- [Jonathan-Al-Saadi/taskman.nvim](https://github.com/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/stars/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/last-commit/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/commit-activity/y/Jonathan-Al-Saadi/taskman.nvim)
+- [tehritarun/tasker.nvim](https://github.com/tehritarun/tasker.nvim) ![](https://img.shields.io/github/stars/tehritarun/tasker.nvim) ![](https://img.shields.io/github/last-commit/tehritarun/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/tehritarun/tasker.nvim)
 
 #### Google Task
 
