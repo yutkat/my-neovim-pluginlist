@@ -102,6 +102,7 @@
 - [BlakeASmith/tfling.nvim](https://github.com/BlakeASmith/tfling.nvim) ![](https://img.shields.io/github/stars/BlakeASmith/tfling.nvim) ![](https://img.shields.io/github/last-commit/BlakeASmith/tfling.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeASmith/tfling.nvim)
 - [carldersell/floating-terminal.nvim](https://github.com/carldersell/floating-terminal.nvim) ![](https://img.shields.io/github/stars/carldersell/floating-terminal.nvim) ![](https://img.shields.io/github/last-commit/carldersell/floating-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/carldersell/floating-terminal.nvim)
 - [paullj1/nvim-mux](https://github.com/paullj1/nvim-mux) ![](https://img.shields.io/github/stars/paullj1/nvim-mux) ![](https://img.shields.io/github/last-commit/paullj1/nvim-mux) ![](https://img.shields.io/github/commit-activity/y/paullj1/nvim-mux)
+- [IKarasev/myterm.nvim](https://github.com/IKarasev/myterm.nvim) ![](https://img.shields.io/github/stars/IKarasev/myterm.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/myterm.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/myterm.nvim)
 
 ### Open
 

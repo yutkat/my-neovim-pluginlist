@@ -34,6 +34,7 @@
       - [GHCi](#ghci)
     - [Perl](#perl)
     - [Lisp](#lisp)
+    - [Lingua Franca](#lingua-franca)
     - [OCaml](#ocaml)
       - [LCaml](#lcaml)
     - [Nim](#nim)
@@ -357,6 +358,10 @@
 #### Lisp
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
+
+#### Lingua Franca
+
+- [remifan/lf.nvim](https://github.com/remifan/lf.nvim) ![](https://img.shields.io/github/stars/remifan/lf.nvim) ![](https://img.shields.io/github/last-commit/remifan/lf.nvim) ![](https://img.shields.io/github/commit-activity/y/remifan/lf.nvim)
 
 #### OCaml
 
