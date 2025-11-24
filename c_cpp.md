@@ -25,6 +25,7 @@
   - [Library Manager](#library-manager)
   - [CTest](#ctest)
   - [Debug](#debug)
+  - [REPL](#repl)
   - [Completion](#completion)
   - [LLDB](#lldb)
   - [LLVM](#llvm)
@@ -141,7 +142,6 @@
 
 ### Stress test
 
-
 ### Line count
 
 - [Natox10/ftcountline.nvim](https://github.com/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/stars/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/last-commit/Natox10/ftcountline.nvim) ![](https://img.shields.io/github/commit-activity/y/Natox10/ftcountline.nvim)
@@ -178,6 +178,10 @@
 ### Debug
 
 - [oyvindaakre/dtools.nvim](https://github.com/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/stars/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/last-commit/oyvindaakre/dtools.nvim) ![](https://img.shields.io/github/commit-activity/y/oyvindaakre/dtools.nvim)
+
+### REPL
+
+- [MayaFlux/lila.nvim](https://github.com/MayaFlux/lila.nvim) ![](https://img.shields.io/github/stars/MayaFlux/lila.nvim) ![](https://img.shields.io/github/last-commit/MayaFlux/lila.nvim) ![](https://img.shields.io/github/commit-activity/y/MayaFlux/lila.nvim)
 
 ### Completion
 
