@@ -379,6 +379,7 @@
 - [AdamAugustinsky/opencode-inline.nvim](https://github.com/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/stars/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/last-commit/AdamAugustinsky/opencode-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/AdamAugustinsky/opencode-inline.nvim)
 - [zach-source/claude-follow-hook.nvim](https://github.com/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/stars/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/last-commit/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/zach-source/claude-follow-hook.nvim)
 - [GhostKellz/thanos.nvim](https://github.com/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/stars/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/thanos.nvim)
+- [rpmessner/claude-history.nvim](https://github.com/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/stars/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/last-commit/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/commit-activity/y/rpmessner/claude-history.nvim)
 
 ### Amazon Q
 
