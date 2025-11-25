@@ -154,6 +154,7 @@
 - [Kabilan108/droid.nvim](https://github.com/Kabilan108/droid.nvim) ![](https://img.shields.io/github/stars/Kabilan108/droid.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/droid.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/droid.nvim)
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
 - [mecattaf/llm-stream.nvim](https://github.com/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/stars/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/last-commit/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/mecattaf/llm-stream.nvim)
+- [sergiogallegos/luca.nvim](https://github.com/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/stars/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/last-commit/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiogallegos/luca.nvim)
 
 #### Codex
 

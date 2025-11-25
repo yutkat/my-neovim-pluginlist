@@ -193,6 +193,10 @@
 
 - [0xteddybear/noir.nvim](https://github.com/0xteddybear/noir.nvim) ![](https://img.shields.io/github/stars/0xteddybear/noir.nvim) ![](https://img.shields.io/github/last-commit/0xteddybear/noir.nvim) ![](https://img.shields.io/github/commit-activity/y/0xteddybear/noir.nvim)
 
+#### Lumos
+
+- [getlumos/nvim-lumos](https://github.com/getlumos/nvim-lumos) ![](https://img.shields.io/github/stars/getlumos/nvim-lumos) ![](https://img.shields.io/github/last-commit/getlumos/nvim-lumos) ![](https://img.shields.io/github/commit-activity/y/getlumos/nvim-lumos)
+
 #### C#
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
