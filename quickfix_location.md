@@ -43,6 +43,7 @@
 - [santhosh-tekuri/quickfix.nvim](https://github.com/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/quickfix.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/quickfix.nvim)
 - [afjoseph/buildlog.nvim](https://github.com/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/stars/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/last-commit/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/commit-activity/y/afjoseph/buildlog.nvim)
 - [mikejmcguirk/nvim-qf-rancher](https://github.com/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/stars/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/last-commit/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/commit-activity/y/mikejmcguirk/nvim-qf-rancher)
+- [anoopkcn/csub.nvim](https://github.com/anoopkcn/csub.nvim) ![](https://img.shields.io/github/stars/anoopkcn/csub.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/csub.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/csub.nvim)
 
 ### Output the list to another format
 
