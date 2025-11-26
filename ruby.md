@@ -68,6 +68,7 @@
 - [annakuzmenkodev/rails-i18n.nvim](https://github.com/annakuzmenkodev/rails-i18n.nvim) ![](https://img.shields.io/github/stars/annakuzmenkodev/rails-i18n.nvim) ![](https://img.shields.io/github/last-commit/annakuzmenkodev/rails-i18n.nvim) ![](https://img.shields.io/github/commit-activity/y/annakuzmenkodev/rails-i18n.nvim)
 - [neume/rails-routes.nvim](https://github.com/neume/rails-routes.nvim) ![](https://img.shields.io/github/stars/neume/rails-routes.nvim) ![](https://img.shields.io/github/last-commit/neume/rails-routes.nvim) ![](https://img.shields.io/github/commit-activity/y/neume/rails-routes.nvim)
 - [body-clock/view-component.nvim](https://github.com/body-clock/view-component.nvim) ![](https://img.shields.io/github/stars/body-clock/view-component.nvim) ![](https://img.shields.io/github/last-commit/body-clock/view-component.nvim) ![](https://img.shields.io/github/commit-activity/y/body-clock/view-component.nvim)
+- [nedzib/tenant-feature.nvim](https://github.com/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/stars/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/last-commit/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/commit-activity/y/nedzib/tenant-feature.nvim)
 
 ### Redis
 

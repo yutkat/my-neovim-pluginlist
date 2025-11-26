@@ -63,6 +63,7 @@
 - [tronikelis/caser.nvim](https://github.com/tronikelis/caser.nvim) ![](https://img.shields.io/github/stars/tronikelis/caser.nvim) ![](https://img.shields.io/github/last-commit/tronikelis/caser.nvim) ![](https://img.shields.io/github/commit-activity/y/tronikelis/caser.nvim)
 - [madmaxieee/camelsnek.nvim](https://github.com/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/stars/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/camelsnek.nvim)
 - [amano-takahisa/case-transform.nvim](https://github.com/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/stars/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/last-commit/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/commit-activity/y/amano-takahisa/case-transform.nvim)
+- [h3pei/case-dial.nvim](https://github.com/h3pei/case-dial.nvim) ![](https://img.shields.io/github/stars/h3pei/case-dial.nvim) ![](https://img.shields.io/github/last-commit/h3pei/case-dial.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/case-dial.nvim)
 
 ### Convert Word
 

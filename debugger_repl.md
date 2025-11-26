@@ -72,6 +72,7 @@
 - [tong/nvim-dap-haxe](https://github.com/tong/nvim-dap-haxe) ![](https://img.shields.io/github/stars/tong/nvim-dap-haxe) ![](https://img.shields.io/github/last-commit/tong/nvim-dap-haxe) ![](https://img.shields.io/github/commit-activity/y/tong/nvim-dap-haxe)
 - [ravsii/nvim-dap-envfile](https://github.com/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/stars/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/last-commit/ravsii/nvim-dap-envfile) ![](https://img.shields.io/github/commit-activity/y/ravsii/nvim-dap-envfile)
 - [nvim-telescope/telescope-dap.nvim](https://github.com/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-dap.nvim)
+- [taku25/UDB.nvim](https://github.com/taku25/UDB.nvim) ![](https://img.shields.io/github/stars/taku25/UDB.nvim) ![](https://img.shields.io/github/last-commit/taku25/UDB.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UDB.nvim)
 
 #### Launch.json
 
