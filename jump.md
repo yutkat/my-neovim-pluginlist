@@ -28,6 +28,7 @@
 - [pinbraerts/swipe.nvim](https://github.com/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/stars/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/last-commit/pinbraerts/swipe.nvim) ![](https://img.shields.io/github/commit-activity/y/pinbraerts/swipe.nvim)
 - [krmmzs/jump-beacon.nvim](https://github.com/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/stars/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/jump-beacon.nvim)
 - [Sparkylc2/smart-nav.nvim](https://github.com/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/smart-nav.nvim)
+- [simoesd/floodlight.nvim](https://github.com/simoesd/floodlight.nvim) ![](https://img.shields.io/github/stars/simoesd/floodlight.nvim) ![](https://img.shields.io/github/last-commit/simoesd/floodlight.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/floodlight.nvim)
 
 ### Error
 

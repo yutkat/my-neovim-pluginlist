@@ -92,6 +92,7 @@
 - [tenmo2003/scaffold.nvim](https://github.com/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/stars/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/last-commit/tenmo2003/scaffold.nvim) ![](https://img.shields.io/github/commit-activity/y/tenmo2003/scaffold.nvim)
 - [paradoxical-dev/bootstrap.nvim](https://github.com/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/bootstrap.nvim)
 - [NitroVim/foldergen.nvim](https://github.com/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/stars/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/last-commit/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroVim/foldergen.nvim)
+- [ALLLLLL703/minecraft-dev.nvim](https://github.com/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/minecraft-dev.nvim)
 
 ### Project syntax
 
