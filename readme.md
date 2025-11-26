@@ -295,6 +295,7 @@
 - [rareitems/hl_match_area.nvim](https://github.com/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/stars/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/last-commit/rareitems/hl_match_area.nvim) ![](https://img.shields.io/github/commit-activity/y/rareitems/hl_match_area.nvim)
 - [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
 - [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
+- [haolian9/showmatch.nvim](https://github.com/haolian9/showmatch.nvim) ![](https://img.shields.io/github/stars/haolian9/showmatch.nvim) ![](https://img.shields.io/github/last-commit/haolian9/showmatch.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/showmatch.nvim)
 
 ### matchadd
 
