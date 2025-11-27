@@ -210,6 +210,7 @@
 - [benomahony/uv.nvim](https://github.com/benomahony/uv.nvim) ![](https://img.shields.io/github/stars/benomahony/uv.nvim) ![](https://img.shields.io/github/last-commit/benomahony/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/uv.nvim)
 - [Marco-Christiani/uv-venv.nvim](https://github.com/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/stars/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/last-commit/Marco-Christiani/uv-venv.nvim) ![](https://img.shields.io/github/commit-activity/y/Marco-Christiani/uv-venv.nvim)
 - [MiguelR90/uv.nvim](https://github.com/MiguelR90/uv.nvim) ![](https://img.shields.io/github/stars/MiguelR90/uv.nvim) ![](https://img.shields.io/github/last-commit/MiguelR90/uv.nvim) ![](https://img.shields.io/github/commit-activity/y/MiguelR90/uv.nvim)
+- [Tshimanga/uv-workspace.nvim](https://github.com/Tshimanga/uv-workspace.nvim) ![](https://img.shields.io/github/stars/Tshimanga/uv-workspace.nvim) ![](https://img.shields.io/github/last-commit/Tshimanga/uv-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/Tshimanga/uv-workspace.nvim)
 
 #### Profiler
 
