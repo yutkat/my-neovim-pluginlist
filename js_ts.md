@@ -245,6 +245,8 @@
 - [angelinuxx/npm-lens.nvim](https://github.com/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/stars/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/last-commit/angelinuxx/npm-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/angelinuxx/npm-lens.nvim)
 - [pojokcodeid/npm-runner.nvim](https://github.com/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/npm-runner.nvim)
 - [anisthdev/npm-runner.nvim](https://github.com/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/stars/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/last-commit/anisthdev/npm-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/anisthdev/npm-runner.nvim)
+- [valVk/npm-latest.nvim](https://github.com/valVk/npm-latest.nvim) ![](https://img.shields.io/github/stars/valVk/npm-latest.nvim) ![](https://img.shields.io/github/last-commit/valVk/npm-latest.nvim) ![](https://img.shields.io/github/commit-activity/y/valVk/npm-latest.nvim)
+- [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/catalog-lens.nvim)
 
 #### pnpm
 

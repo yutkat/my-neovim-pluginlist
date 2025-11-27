@@ -9,7 +9,6 @@
 - [for programming languages](#for-programming-languages)
 - [for CLI](#for-cli)
 - [for Rust](#for-rust)
-  - [NPM](#npm)
 
 <!-- tocstop -->
 
@@ -56,8 +55,3 @@
 ## for Rust
 
 - [cortesi/nvirun.nvim](https://github.com/cortesi/nvirun.nvim) ![](https://img.shields.io/github/stars/cortesi/nvirun.nvim) ![](https://img.shields.io/github/last-commit/cortesi/nvirun.nvim) ![](https://img.shields.io/github/commit-activity/y/cortesi/nvirun.nvim)
-
-### NPM
-
-- [valVk/npm-latest.nvim](https://github.com/valVk/npm-latest.nvim) ![](https://img.shields.io/github/stars/valVk/npm-latest.nvim) ![](https://img.shields.io/github/last-commit/valVk/npm-latest.nvim) ![](https://img.shields.io/github/commit-activity/y/valVk/npm-latest.nvim)
-- [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/catalog-lens.nvim)
