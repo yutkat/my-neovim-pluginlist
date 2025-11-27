@@ -8,6 +8,7 @@
 - [MS Word](#ms-word)
 - [Excel](#excel)
 - [Presentation](#presentation)
+  - [Slidev](#slidev)
 
 <!-- tocstop -->
 
@@ -57,3 +58,7 @@
 - [Piotr1215/presenterm.nvim](https://github.com/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/stars/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/presenterm.nvim)
 - [huggo-42/nvim-test](https://github.com/huggo-42/nvim-test) ![](https://img.shields.io/github/stars/huggo-42/nvim-test) ![](https://img.shields.io/github/last-commit/huggo-42/nvim-test) ![](https://img.shields.io/github/commit-activity/y/huggo-42/nvim-test)
 - [ducks/vimdeck.nvim](https://github.com/ducks/vimdeck.nvim) ![](https://img.shields.io/github/stars/ducks/vimdeck.nvim) ![](https://img.shields.io/github/last-commit/ducks/vimdeck.nvim) ![](https://img.shields.io/github/commit-activity/y/ducks/vimdeck.nvim)
+
+### Slidev
+
+- [mei28/slidev.nvim](https://github.com/mei28/slidev.nvim) ![](https://img.shields.io/github/stars/mei28/slidev.nvim) ![](https://img.shields.io/github/last-commit/mei28/slidev.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/slidev.nvim)
