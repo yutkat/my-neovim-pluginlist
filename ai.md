@@ -537,6 +537,7 @@
 - [sudo-tee/opencode.nvim](https://github.com/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/stars/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/last-commit/sudo-tee/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sudo-tee/opencode.nvim)
 - [dfmonaco/nvim-opencode](https://github.com/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/stars/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/last-commit/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/dfmonaco/nvim-opencode)
 - [e-cal/opencode.nvim](https://github.com/e-cal/opencode.nvim) ![](https://img.shields.io/github/stars/e-cal/opencode.nvim) ![](https://img.shields.io/github/last-commit/e-cal/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/opencode.nvim)
+- [silvabyte/opencode.nvim](https://github.com/silvabyte/opencode.nvim) ![](https://img.shields.io/github/stars/silvabyte/opencode.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/opencode.nvim)
 
 ### khulnasoft
 
@@ -649,6 +650,7 @@
 - [joelxr/pitaco.nvim](https://github.com/joelxr/pitaco.nvim) ![](https://img.shields.io/github/stars/joelxr/pitaco.nvim) ![](https://img.shields.io/github/last-commit/joelxr/pitaco.nvim) ![](https://img.shields.io/github/commit-activity/y/joelxr/pitaco.nvim)
 - [Luci-4/ai-review.nvim](https://github.com/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/stars/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/last-commit/Luci-4/ai-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Luci-4/ai-review.nvim)
 - [choplin/code-review.nvim](https://github.com/choplin/code-review.nvim) ![](https://img.shields.io/github/stars/choplin/code-review.nvim) ![](https://img.shields.io/github/last-commit/choplin/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/choplin/code-review.nvim)
+- [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
 
 ## Documentation
 

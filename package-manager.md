@@ -60,3 +60,4 @@
 ### NPM
 
 - [valVk/npm-latest.nvim](https://github.com/valVk/npm-latest.nvim) ![](https://img.shields.io/github/stars/valVk/npm-latest.nvim) ![](https://img.shields.io/github/last-commit/valVk/npm-latest.nvim) ![](https://img.shields.io/github/commit-activity/y/valVk/npm-latest.nvim)
+- [Daydreamer-riri/catalog-lens.nvim](https://github.com/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/catalog-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/catalog-lens.nvim)

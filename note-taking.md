@@ -83,6 +83,7 @@
 - [Paperweightt/tome.nvim](https://github.com/Paperweightt/tome.nvim) ![](https://img.shields.io/github/stars/Paperweightt/tome.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/tome.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/tome.nvim)
 - [alchrdev/astereon.nvim](https://github.com/alchrdev/astereon.nvim) ![](https://img.shields.io/github/stars/alchrdev/astereon.nvim) ![](https://img.shields.io/github/last-commit/alchrdev/astereon.nvim) ![](https://img.shields.io/github/commit-activity/y/alchrdev/astereon.nvim)
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
+- [Youchunmaru/skb.nvim](https://github.com/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/stars/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/last-commit/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/commit-activity/y/Youchunmaru/skb.nvim)
 
 ### Markdown
 
@@ -232,6 +233,7 @@
 - [alessandro-stella/floating-todo.nvim](https://github.com/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/stars/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/last-commit/alessandro-stella/floating-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/alessandro-stella/floating-todo.nvim)
 - [Jonathan-Al-Saadi/taskman.nvim](https://github.com/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/stars/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/last-commit/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/commit-activity/y/Jonathan-Al-Saadi/taskman.nvim)
 - [tehritarun/tasker.nvim](https://github.com/tehritarun/tasker.nvim) ![](https://img.shields.io/github/stars/tehritarun/tasker.nvim) ![](https://img.shields.io/github/last-commit/tehritarun/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/tehritarun/tasker.nvim)
+- [mshiyaf/todoist.nvim](https://github.com/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/stars/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/last-commit/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiyaf/todoist.nvim)
 
 #### Google Task
 
