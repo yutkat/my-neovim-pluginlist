@@ -425,6 +425,7 @@
 - [JefferyBoy/fcitx.nvim](https://github.com/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/fcitx.nvim)
 - [blurgyy/fcitx5-ui-rs.nvim](https://github.com/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/stars/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/last-commit/blurgyy/fcitx5-ui-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/blurgyy/fcitx5-ui-rs.nvim)
 - [yilong877/fcitx5-im-toggle.nvim](https://github.com/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/stars/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/last-commit/yilong877/fcitx5-im-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/yilong877/fcitx5-im-toggle.nvim)
+- [junyixu/fcitx.nvim](https://github.com/junyixu/fcitx.nvim) ![](https://img.shields.io/github/stars/junyixu/fcitx.nvim) ![](https://img.shields.io/github/last-commit/junyixu/fcitx.nvim) ![](https://img.shields.io/github/commit-activity/y/junyixu/fcitx.nvim)
 
 #### ibus
 

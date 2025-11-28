@@ -537,6 +537,7 @@
 - [dfmonaco/nvim-opencode](https://github.com/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/stars/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/last-commit/dfmonaco/nvim-opencode) ![](https://img.shields.io/github/commit-activity/y/dfmonaco/nvim-opencode)
 - [e-cal/opencode.nvim](https://github.com/e-cal/opencode.nvim) ![](https://img.shields.io/github/stars/e-cal/opencode.nvim) ![](https://img.shields.io/github/last-commit/e-cal/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/opencode.nvim)
 - [silvabyte/opencode.nvim](https://github.com/silvabyte/opencode.nvim) ![](https://img.shields.io/github/stars/silvabyte/opencode.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/opencode.nvim)
+- [EmreOzdemiroglu/comment2code.nvim](https://github.com/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/stars/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/last-commit/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreOzdemiroglu/comment2code.nvim)
 
 ### khulnasoft
 
@@ -572,6 +573,7 @@
 - [dyamon/codecompanion-copilot-enterprise.nvim](https://github.com/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-copilot-enterprise.nvim)
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ![](https://img.shields.io/github/stars/folke/sidekick.nvim) ![](https://img.shields.io/github/last-commit/folke/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/sidekick.nvim)
 - [sunnybharne/copilotcli.nvim](https://github.com/sunnybharne/copilotcli.nvim) ![](https://img.shields.io/github/stars/sunnybharne/copilotcli.nvim) ![](https://img.shields.io/github/last-commit/sunnybharne/copilotcli.nvim) ![](https://img.shields.io/github/commit-activity/y/sunnybharne/copilotcli.nvim)
+- [agretta/cccontext.nvim](https://github.com/agretta/cccontext.nvim) ![](https://img.shields.io/github/stars/agretta/cccontext.nvim) ![](https://img.shields.io/github/last-commit/agretta/cccontext.nvim) ![](https://img.shields.io/github/commit-activity/y/agretta/cccontext.nvim)
 
 ### Genie CLI
 

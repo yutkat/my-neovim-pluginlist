@@ -78,6 +78,7 @@
 ### Strudel
 
 - [gruvw/strudel.nvim](https://github.com/gruvw/strudel.nvim) ![](https://img.shields.io/github/stars/gruvw/strudel.nvim) ![](https://img.shields.io/github/last-commit/gruvw/strudel.nvim) ![](https://img.shields.io/github/commit-activity/y/gruvw/strudel.nvim)
+- [bonzonkim/strudel.nvim](https://github.com/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/stars/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/last-commit/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/commit-activity/y/bonzonkim/strudel.nvim)
 
 ### GABC
 
