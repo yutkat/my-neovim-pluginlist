@@ -11,6 +11,7 @@
   - [Bevy](#bevy)
   - [UEFN Verse](#uefn-verse)
   - [Defold](#defold)
+  - [Webots](#webots)
 
 <!-- tocstop -->
 
@@ -78,3 +79,7 @@
 ### Defold
 
 - [atomicptr/defold.nvim](https://github.com/atomicptr/defold.nvim) ![](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/defold.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/defold.nvim)
+
+### Webots
+
+- [skeletony007/webots.nvim](https://github.com/skeletony007/webots.nvim) ![](https://img.shields.io/github/stars/skeletony007/webots.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/webots.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/webots.nvim)

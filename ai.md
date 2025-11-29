@@ -167,6 +167,7 @@
 - [heliumsneakers/archie.nvim](https://github.com/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/stars/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/last-commit/heliumsneakers/archie.nvim) ![](https://img.shields.io/github/commit-activity/y/heliumsneakers/archie.nvim)
 - [mickyyy68/codex.nvim](https://github.com/mickyyy68/codex.nvim) ![](https://img.shields.io/github/stars/mickyyy68/codex.nvim) ![](https://img.shields.io/github/last-commit/mickyyy68/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/mickyyy68/codex.nvim)
 - [JanSmrcka/codex.nvim](https://github.com/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/stars/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/last-commit/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/codex.nvim)
+- [rkmax/codex.nvim](https://github.com/rkmax/codex.nvim) ![](https://img.shields.io/github/stars/rkmax/codex.nvim) ![](https://img.shields.io/github/last-commit/rkmax/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rkmax/codex.nvim)
 
 #### Whisper
 
@@ -556,6 +557,7 @@
 - [TravisLinkey/nvim-tag-suggestions](https://github.com/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/stars/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/last-commit/TravisLinkey/nvim-tag-suggestions) ![](https://img.shields.io/github/commit-activity/y/TravisLinkey/nvim-tag-suggestions)
 - [westbrookdaniel/danai.nvim](https://github.com/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/stars/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/last-commit/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/commit-activity/y/westbrookdaniel/danai.nvim)
 - [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/stars/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/last-commit/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/commit-activity/y/ninetyfive-gg/ninetyfive.nvim)
+- [brendonmlopes/nvim-gopilot](https://github.com/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/stars/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/last-commit/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/commit-activity/y/brendonmlopes/nvim-gopilot)
 
 ### Copilot
 
