@@ -217,6 +217,7 @@
 - [lululau/neogit-ai-commit.nvim](https://github.com/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-ai-commit.nvim)
 - [aweis89/ai-commit-msg.nvim](https://github.com/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/stars/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/last-commit/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/ai-commit-msg.nvim)
 - [404pilo/aicommits.nvim](https://github.com/404pilo/aicommits.nvim) ![](https://img.shields.io/github/stars/404pilo/aicommits.nvim) ![](https://img.shields.io/github/last-commit/404pilo/aicommits.nvim) ![](https://img.shields.io/github/commit-activity/y/404pilo/aicommits.nvim)
+- [kevinliao852/smart-commit.nvim](https://github.com/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/stars/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinliao852/smart-commit.nvim)
 
 ### git fetch
 
@@ -324,6 +325,7 @@
 - [algmyr/vcmarkers.nvim](https://github.com/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/stars/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/last-commit/algmyr/vcmarkers.nvim) ![](https://img.shields.io/github/commit-activity/y/algmyr/vcmarkers.nvim)
 - [3dyuval/git-resolve-conflict.nvim](https://github.com/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/stars/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/git-resolve-conflict.nvim)
 - [StackInTheWild/headhunter.nvim](https://github.com/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/headhunter.nvim)
+- [Yeshwanthyk/resolver.nvim](https://github.com/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/stars/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/last-commit/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeshwanthyk/resolver.nvim)
 
 ### git pull
 

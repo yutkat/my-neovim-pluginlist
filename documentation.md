@@ -109,6 +109,7 @@
 - [YousefHadder/markdown-plus.nvim](https://github.com/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/stars/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/last-commit/YousefHadder/markdown-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/YousefHadder/markdown-plus.nvim)
 - [mathias-ewald/markdown-toc.nvim](https://github.com/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/stars/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/mathias-ewald/markdown-toc.nvim)
 - [sonlam806/sandman.nvim](https://github.com/sonlam806/sandman.nvim) ![](https://img.shields.io/github/stars/sonlam806/sandman.nvim) ![](https://img.shields.io/github/last-commit/sonlam806/sandman.nvim) ![](https://img.shields.io/github/commit-activity/y/sonlam806/sandman.nvim)
+- [MasterTemple/better-callouts.nvim](https://github.com/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/stars/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/better-callouts.nvim)
 
 #### Markdown link
 

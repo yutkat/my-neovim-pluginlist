@@ -45,6 +45,7 @@
 - [Shingi-Michael/StreakTracker.nvim](https://github.com/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/stars/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/last-commit/Shingi-Michael/StreakTracker.nvim) ![](https://img.shields.io/github/commit-activity/y/Shingi-Michael/StreakTracker.nvim)
 - [jmkel/quantity.nvim](https://github.com/jmkel/quantity.nvim) ![](https://img.shields.io/github/stars/jmkel/quantity.nvim) ![](https://img.shields.io/github/last-commit/jmkel/quantity.nvim) ![](https://img.shields.io/github/commit-activity/y/jmkel/quantity.nvim)
 - [TomJo2000/clocwork.nvim](https://github.com/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/stars/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/last-commit/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/commit-activity/y/TomJo2000/clocwork.nvim)
+- [17xande/track-action.nvim](https://github.com/17xande/track-action.nvim) ![](https://img.shields.io/github/stars/17xande/track-action.nvim) ![](https://img.shields.io/github/last-commit/17xande/track-action.nvim) ![](https://img.shields.io/github/commit-activity/y/17xande/track-action.nvim)
 
 ### Coding time
 
