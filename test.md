@@ -51,7 +51,6 @@
 - [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest) ![](https://img.shields.io/github/stars/marilari88/neotest-vitest) ![](https://img.shields.io/github/last-commit/marilari88/neotest-vitest) ![](https://img.shields.io/github/commit-activity/y/marilari88/neotest-vitest)
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
 - [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/stars/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/last-commit/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/neotest-busted)
-- [rlch/neotest-scaf](https://github.com/rlch/neotest-scaf) ![](https://img.shields.io/github/stars/rlch/neotest-scaf) ![](https://img.shields.io/github/last-commit/rlch/neotest-scaf) ![](https://img.shields.io/github/commit-activity/y/rlch/neotest-scaf)
 
 ## Test Coverage
 
