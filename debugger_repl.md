@@ -95,7 +95,6 @@
 - [azr4e1/easyREPL.nvim](https://github.com/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/stars/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/last-commit/azr4e1/easyREPL.nvim) ![](https://img.shields.io/github/commit-activity/y/azr4e1/easyREPL.nvim)
 - [atinylittleshell/comment-repl.nvim](https://github.com/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/stars/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/last-commit/atinylittleshell/comment-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/atinylittleshell/comment-repl.nvim)
 - [spaghettijeff/spank.nvim](https://github.com/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/stars/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/last-commit/spaghettijeff/spank.nvim) ![](https://img.shields.io/github/commit-activity/y/spaghettijeff/spank.nvim)
-- [treybastian/nvim-jack-in](https://github.com/treybastian/nvim-jack-in) ![](https://img.shields.io/github/stars/treybastian/nvim-jack-in) ![](https://img.shields.io/github/last-commit/treybastian/nvim-jack-in) ![](https://img.shields.io/github/commit-activity/y/treybastian/nvim-jack-in)
 - [conig/nvim-slimetree](https://github.com/conig/nvim-slimetree) ![](https://img.shields.io/github/stars/conig/nvim-slimetree) ![](https://img.shields.io/github/last-commit/conig/nvim-slimetree) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-slimetree)
 - [human-d3v/term-repl.nvim](https://github.com/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/stars/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/term-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/term-repl.nvim)
 - [brianhuster/snipexec.nvim](https://github.com/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/stars/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/last-commit/brianhuster/snipexec.nvim) ![](https://img.shields.io/github/commit-activity/y/brianhuster/snipexec.nvim)
@@ -113,7 +112,6 @@
 ### Refactoring,Debugging
 
 - [ThePrimeagen/refactoring.nvim](https://github.com/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/stars/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/last-commit/ThePrimeagen/refactoring.nvim) ![](https://img.shields.io/github/commit-activity/y/ThePrimeagen/refactoring.nvim)
-- [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-refactor) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-refactor)
 - [ShifatHasanGNS/refactor.nvim](https://github.com/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/stars/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/last-commit/ShifatHasanGNS/refactor.nvim) ![](https://img.shields.io/github/commit-activity/y/ShifatHasanGNS/refactor.nvim)
 
 #### print debug
