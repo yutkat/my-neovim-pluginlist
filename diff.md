@@ -26,6 +26,7 @@
 - [esmuellert/vscode-diff.nvim](https://github.com/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/stars/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/last-commit/esmuellert/vscode-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/esmuellert/vscode-diff.nvim)
 - [elanmed/lcs-diff.nvim](https://github.com/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/lcs-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/lcs-diff.nvim)
 - [andrewhwaller/difftastic.nvim](https://github.com/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/stars/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/last-commit/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewhwaller/difftastic.nvim)
+- [jake-stewart/diff.nvim](https://github.com/jake-stewart/diff.nvim) ![](https://img.shields.io/github/stars/jake-stewart/diff.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/diff.nvim)
 
 ### Diff Register
 

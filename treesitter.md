@@ -26,6 +26,7 @@
 - [TheNoeTrevino/roids.nvim](https://github.com/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/roids.nvim)
 - [a73s/treesitter-diagnostics.nvim](https://github.com/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/stars/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/a73s/treesitter-diagnostics.nvim)
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
+- [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
 
 ### Installer
 

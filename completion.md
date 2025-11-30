@@ -113,6 +113,7 @@
 - [disrupted/blink-cmp-conventional-commits](https://github.com/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/stars/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/last-commit/disrupted/blink-cmp-conventional-commits) ![](https://img.shields.io/github/commit-activity/y/disrupted/blink-cmp-conventional-commits)
 - [erooke/blink-cmp-latex](https://github.com/erooke/blink-cmp-latex) ![](https://img.shields.io/github/stars/erooke/blink-cmp-latex) ![](https://img.shields.io/github/last-commit/erooke/blink-cmp-latex) ![](https://img.shields.io/github/commit-activity/y/erooke/blink-cmp-latex)
 - [krissen/blink-cmp-bibtex](https://github.com/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/stars/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/last-commit/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/commit-activity/y/krissen/blink-cmp-bibtex)
+- [yuukibarns/blink-cmp-bm.nvim](https://github.com/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/stars/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/blink-cmp-bm.nvim)
 
 ### Auto Completion support
 
