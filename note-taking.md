@@ -112,6 +112,7 @@
 - [manprit-tiwari/quicknotes.nvim](https://github.com/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/stars/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/manprit-tiwari/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/manprit-tiwari/quicknotes.nvim)
 - [clobrano/zournal.nvim](https://github.com/clobrano/zournal.nvim) ![](https://img.shields.io/github/stars/clobrano/zournal.nvim) ![](https://img.shields.io/github/last-commit/clobrano/zournal.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/zournal.nvim)
 - [tednguyendev/dailynote.nvim](https://github.com/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/stars/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/last-commit/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/commit-activity/y/tednguyendev/dailynote.nvim)
+- [pants721/orca.nvim](https://github.com/pants721/orca.nvim) ![](https://img.shields.io/github/stars/pants721/orca.nvim) ![](https://img.shields.io/github/last-commit/pants721/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/pants721/orca.nvim)
 
 ### ToDo
 

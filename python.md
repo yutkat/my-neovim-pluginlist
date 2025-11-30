@@ -243,6 +243,7 @@
 - [flashcodes-themayankjha/fknb.nvim](https://github.com/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/fknb.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/fknb.nvim)
 - [stellarjmr/notebook_style.nvim](https://github.com/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/stars/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/notebook_style.nvim)
 - [foredu/jupyter-remote.nvim](https://github.com/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/stars/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/last-commit/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/foredu/jupyter-remote.nvim)
+- [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
 
 ### Pandas
 
