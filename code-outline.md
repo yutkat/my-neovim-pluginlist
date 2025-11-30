@@ -9,6 +9,7 @@
 - [Breadcrumbs](#breadcrumbs)
 - [Variable](#variable)
 - [Function](#function)
+- [Context](#context)
 - [Code Block Separater](#code-block-separater)
 - [Code visualize](#code-visualize)
 - [CCN](#ccn)
@@ -81,6 +82,10 @@
 - [Beargruug/blink.nvim](https://github.com/Beargruug/blink.nvim) ![](https://img.shields.io/github/stars/Beargruug/blink.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/blink.nvim)
 - [mtkld/funview.nvim](https://github.com/mtkld/funview.nvim) ![](https://img.shields.io/github/stars/mtkld/funview.nvim) ![](https://img.shields.io/github/last-commit/mtkld/funview.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/funview.nvim)
 - [olafur-palsson/nvim-function-class-motions](https://github.com/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/stars/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/last-commit/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/commit-activity/y/olafur-palsson/nvim-function-class-motions)
+
+## Context
+
+- [ahkohd/context.nvim](https://github.com/ahkohd/context.nvim) ![](https://img.shields.io/github/stars/ahkohd/context.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/context.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/context.nvim)
 
 ## Code Block Separater
 
