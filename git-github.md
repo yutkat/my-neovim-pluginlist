@@ -191,6 +191,7 @@
 - [Morass/conventional-push.nvim](https://github.com/Morass/conventional-push.nvim) ![](https://img.shields.io/github/stars/Morass/conventional-push.nvim) ![](https://img.shields.io/github/last-commit/Morass/conventional-push.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/conventional-push.nvim)
 - [andostronaut/cocli.nvim](https://github.com/andostronaut/cocli.nvim) ![](https://img.shields.io/github/stars/andostronaut/cocli.nvim) ![](https://img.shields.io/github/last-commit/andostronaut/cocli.nvim) ![](https://img.shields.io/github/commit-activity/y/andostronaut/cocli.nvim)
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) ![](https://img.shields.io/github/stars/yus-works/csc.nvim) ![](https://img.shields.io/github/last-commit/yus-works/csc.nvim) ![](https://img.shields.io/github/commit-activity/y/yus-works/csc.nvim)
+- [zerbiniandrea/conventional-commits.nvim](https://github.com/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/stars/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/last-commit/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zerbiniandrea/conventional-commits.nvim)
 
 #### co authored
 
