@@ -406,6 +406,7 @@
 - [bresilla/llmchat.nvim](https://github.com/bresilla/llmchat.nvim) ![](https://img.shields.io/github/stars/bresilla/llmchat.nvim) ![](https://img.shields.io/github/last-commit/bresilla/llmchat.nvim) ![](https://img.shields.io/github/commit-activity/y/bresilla/llmchat.nvim)
 - [duboisf/chatter.nvim](https://github.com/duboisf/chatter.nvim) ![](https://img.shields.io/github/stars/duboisf/chatter.nvim) ![](https://img.shields.io/github/last-commit/duboisf/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/chatter.nvim)
 - [josh-le/openrouter.nvim](https://github.com/josh-le/openrouter.nvim) ![](https://img.shields.io/github/stars/josh-le/openrouter.nvim) ![](https://img.shields.io/github/last-commit/josh-le/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-le/openrouter.nvim)
+- [schlerp/nohands.nvim](https://github.com/schlerp/nohands.nvim) ![](https://img.shields.io/github/stars/schlerp/nohands.nvim) ![](https://img.shields.io/github/last-commit/schlerp/nohands.nvim) ![](https://img.shields.io/github/commit-activity/y/schlerp/nohands.nvim)
 
 ### Supermaven
 
@@ -588,6 +589,7 @@
 - [MartianGreed/autobahn.nvim](https://github.com/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/stars/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/last-commit/MartianGreed/autobahn.nvim) ![](https://img.shields.io/github/commit-activity/y/MartianGreed/autobahn.nvim)
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-algms/agentic.nvim)
+- [swmcc/agentic.nvim](https://github.com/swmcc/agentic.nvim) ![](https://img.shields.io/github/stars/swmcc/agentic.nvim) ![](https://img.shields.io/github/last-commit/swmcc/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/swmcc/agentic.nvim)
 
 ### Amp
 

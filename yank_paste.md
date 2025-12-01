@@ -172,6 +172,7 @@
 - [minamorl/nvim-clean-paste](https://github.com/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/stars/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/last-commit/minamorl/nvim-clean-paste) ![](https://img.shields.io/github/commit-activity/y/minamorl/nvim-clean-paste)
 - [arakkkkk/smart-paste.nvim](https://github.com/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/stars/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/smart-paste.nvim)
 - [whoop-t/dupe.nvim](https://github.com/whoop-t/dupe.nvim) ![](https://img.shields.io/github/stars/whoop-t/dupe.nvim) ![](https://img.shields.io/github/last-commit/whoop-t/dupe.nvim) ![](https://img.shields.io/github/commit-activity/y/whoop-t/dupe.nvim)
+- [carlosgrillet/demo-paste.nvim](https://github.com/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/stars/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/last-commit/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosgrillet/demo-paste.nvim)
 
 ### Cyclic paste
 

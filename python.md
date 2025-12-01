@@ -204,6 +204,7 @@
 #### Poetry
 
 - [iomallach/poetry.nvim](https://github.com/iomallach/poetry.nvim) ![](https://img.shields.io/github/stars/iomallach/poetry.nvim) ![](https://img.shields.io/github/last-commit/iomallach/poetry.nvim) ![](https://img.shields.io/github/commit-activity/y/iomallach/poetry.nvim)
+- [LeandroDeJesus-S/poetry.nvim](https://github.com/LeandroDeJesus-S/poetry.nvim) ![](https://img.shields.io/github/stars/LeandroDeJesus-S/poetry.nvim) ![](https://img.shields.io/github/last-commit/LeandroDeJesus-S/poetry.nvim) ![](https://img.shields.io/github/commit-activity/y/LeandroDeJesus-S/poetry.nvim)
 
 #### uv
 
