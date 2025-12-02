@@ -104,6 +104,7 @@
 - [paullj1/nvim-mux](https://github.com/paullj1/nvim-mux) ![](https://img.shields.io/github/stars/paullj1/nvim-mux) ![](https://img.shields.io/github/last-commit/paullj1/nvim-mux) ![](https://img.shields.io/github/commit-activity/y/paullj1/nvim-mux)
 - [IKarasev/myterm.nvim](https://github.com/IKarasev/myterm.nvim) ![](https://img.shields.io/github/stars/IKarasev/myterm.nvim) ![](https://img.shields.io/github/last-commit/IKarasev/myterm.nvim) ![](https://img.shields.io/github/commit-activity/y/IKarasev/myterm.nvim)
 - [2happy42/floa-term.nvim](https://github.com/2happy42/floa-term.nvim) ![](https://img.shields.io/github/stars/2happy42/floa-term.nvim) ![](https://img.shields.io/github/last-commit/2happy42/floa-term.nvim) ![](https://img.shields.io/github/commit-activity/y/2happy42/floa-term.nvim)
+- [datsfilipe/console.nvim](https://github.com/datsfilipe/console.nvim) ![](https://img.shields.io/github/stars/datsfilipe/console.nvim) ![](https://img.shields.io/github/last-commit/datsfilipe/console.nvim) ![](https://img.shields.io/github/commit-activity/y/datsfilipe/console.nvim)
 
 ### Open
 

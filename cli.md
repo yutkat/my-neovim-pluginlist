@@ -389,6 +389,7 @@
 #### global
 
 - [rargo/nvim-global](https://github.com/rargo/nvim-global) ![](https://img.shields.io/github/stars/rargo/nvim-global) ![](https://img.shields.io/github/last-commit/rargo/nvim-global) ![](https://img.shields.io/github/commit-activity/y/rargo/nvim-global)
+- [wsdjeg/gtags.nvim](https://github.com/wsdjeg/gtags.nvim) ![](https://img.shields.io/github/stars/wsdjeg/gtags.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/gtags.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/gtags.nvim)
 
 #### tldr
 
