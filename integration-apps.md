@@ -36,6 +36,7 @@
     - [Nginx](#nginx)
     - [OpenFGA](#openfga)
     - [ElasticSearch](#elasticsearch)
+    - [Kubernetes](#kubernetes)
   - [Cloud](#cloud)
     - [Terraform](#terraform)
       - [atmos](#atmos)
@@ -235,6 +236,10 @@
 #### ElasticSearch
 
 - [Oddly/elasticsearch-run.nvim](https://github.com/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/stars/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/last-commit/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/Oddly/elasticsearch-run.nvim)
+
+#### Kubernetes
+
+- [georgesnoe/lazykube.nvim](https://github.com/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazykube.nvim)
 
 #### VPN
 
