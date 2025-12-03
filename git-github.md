@@ -377,7 +377,6 @@
 - [aaronhallaert/advanced-git-search.nvim](https://github.com/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/stars/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/last-commit/aaronhallaert/advanced-git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronhallaert/advanced-git-search.nvim)
 - [napisani/nvim-github-codesearch](https://github.com/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/stars/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/last-commit/napisani/nvim-github-codesearch) ![](https://img.shields.io/github/commit-activity/y/napisani/nvim-github-codesearch)
 - [thenbe/csgithub.nvim](https://github.com/thenbe/csgithub.nvim) ![](https://img.shields.io/github/stars/thenbe/csgithub.nvim) ![](https://img.shields.io/github/last-commit/thenbe/csgithub.nvim) ![](https://img.shields.io/github/commit-activity/y/thenbe/csgithub.nvim)
-- [jomavf/cosmoseek.nvim](https://github.com/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/stars/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/last-commit/jomavf/cosmoseek.nvim) ![](https://img.shields.io/github/commit-activity/y/jomavf/cosmoseek.nvim)
 - [keyboard-slayer/git-search.nvim](https://github.com/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/stars/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/last-commit/keyboard-slayer/git-search.nvim) ![](https://img.shields.io/github/commit-activity/y/keyboard-slayer/git-search.nvim)
 
 ### worktree
