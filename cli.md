@@ -124,6 +124,7 @@
 - [SalOrak/libtmux.nvim](https://github.com/SalOrak/libtmux.nvim) ![](https://img.shields.io/github/stars/SalOrak/libtmux.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/libtmux.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/libtmux.nvim)
 - [ryanburda/nvim-tmux-navigator](https://github.com/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/stars/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/last-commit/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/commit-activity/y/ryanburda/nvim-tmux-navigator)
 - [3cnf-f/f_tmux_panetitle.nvim](https://github.com/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/stars/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/f_tmux_panetitle.nvim)
+- [ChrisO345/scout.nvim](https://github.com/ChrisO345/scout.nvim) ![](https://img.shields.io/github/stars/ChrisO345/scout.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/scout.nvim)
 
 ##### tmux alternative
 

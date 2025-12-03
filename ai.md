@@ -609,11 +609,13 @@
 
 - [aweis89/ai-terminals.nvim](https://github.com/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/stars/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/last-commit/aweis89/ai-terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/ai-terminals.nvim)
 - [Nkr1shna/truffle.nvim](https://github.com/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/truffle.nvim)
+- [dansomething/ai-pane.nvim](https://github.com/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/stars/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/last-commit/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/dansomething/ai-pane.nvim)
 
 ## Cursor
 
 - [yuucu/cursor_open.nvim](https://github.com/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/stars/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/last-commit/yuucu/cursor_open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuucu/cursor_open.nvim)
 - [xTacobaco/cursor-agent.nvim](https://github.com/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/stars/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/xTacobaco/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/xTacobaco/cursor-agent.nvim)
+- [nCompass-tech/cursor-review.nvim](https://github.com/nCompass-tech/cursor-review.nvim) ![](https://img.shields.io/github/stars/nCompass-tech/cursor-review.nvim) ![](https://img.shields.io/github/last-commit/nCompass-tech/cursor-review.nvim) ![](https://img.shields.io/github/commit-activity/y/nCompass-tech/cursor-review.nvim)
 - [bka9/cursor.nvim](https://github.com/bka9/cursor.nvim) ![](https://img.shields.io/github/stars/bka9/cursor.nvim) ![](https://img.shields.io/github/last-commit/bka9/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/bka9/cursor.nvim)
 - [Loki-Astari/cursor](https://github.com/Loki-Astari/cursor) ![](https://img.shields.io/github/stars/Loki-Astari/cursor) ![](https://img.shields.io/github/last-commit/Loki-Astari/cursor) ![](https://img.shields.io/github/commit-activity/y/Loki-Astari/cursor)
 - [keller00/cursor-agent.nvim](https://github.com/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/stars/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/keller00/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/keller00/cursor-agent.nvim)

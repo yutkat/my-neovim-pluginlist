@@ -18,6 +18,7 @@
 - [chipsenkbeil/distant.nvim](https://github.com/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/distant.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/distant.nvim)
 - [stefanwatt/remote.nvim](https://github.com/stefanwatt/remote.nvim) ![](https://img.shields.io/github/stars/stefanwatt/remote.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/remote.nvim)
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/stars/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/last-commit/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/amitds1997/remote-nvim.nvim)
+- [advaypakhale/remote.nvim](https://github.com/advaypakhale/remote.nvim) ![](https://img.shields.io/github/stars/advaypakhale/remote.nvim) ![](https://img.shields.io/github/last-commit/advaypakhale/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/advaypakhale/remote.nvim)
 
 ### Devcontainer
 
