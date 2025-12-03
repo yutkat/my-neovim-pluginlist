@@ -535,6 +535,7 @@
 - [RyanSaxe/code-review.nvim](https://github.com/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/stars/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/last-commit/RyanSaxe/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanSaxe/code-review.nvim)
 - [johnnyBira/view_pr.nvim](https://github.com/johnnyBira/view_pr.nvim) ![](https://img.shields.io/github/stars/johnnyBira/view_pr.nvim) ![](https://img.shields.io/github/last-commit/johnnyBira/view_pr.nvim) ![](https://img.shields.io/github/commit-activity/y/johnnyBira/view_pr.nvim)
 - [pravinbashyal/cligh.nvim](https://github.com/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/stars/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/last-commit/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/commit-activity/y/pravinbashyal/cligh.nvim)
+- [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) ![](https://img.shields.io/github/stars/noamsto/resolved.nvim) ![](https://img.shields.io/github/last-commit/noamsto/resolved.nvim) ![](https://img.shields.io/github/commit-activity/y/noamsto/resolved.nvim)
 
 #### Pull Request Comment
 
