@@ -16,6 +16,7 @@
   - [packages](#packages)
   - [import](#import)
   - [struct](#struct)
+  - [memory](#memory)
   - [return](#return)
   - [impl](#impl)
   - [implement](#implement)
@@ -57,6 +58,7 @@
 - [Axot017/golang-tools.nvim](https://github.com/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/stars/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/last-commit/Axot017/golang-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Axot017/golang-tools.nvim)
 - [edte/more-go.nvim](https://github.com/edte/more-go.nvim) ![](https://img.shields.io/github/stars/edte/more-go.nvim) ![](https://img.shields.io/github/last-commit/edte/more-go.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/more-go.nvim)
 - [jedi-knights/go.nvim](https://github.com/jedi-knights/go.nvim) ![](https://img.shields.io/github/stars/jedi-knights/go.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/go.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/go.nvim)
+- [CelikE/nvim-go](https://github.com/CelikE/nvim-go) ![](https://img.shields.io/github/stars/CelikE/nvim-go) ![](https://img.shields.io/github/last-commit/CelikE/nvim-go) ![](https://img.shields.io/github/commit-activity/y/CelikE/nvim-go)
 
 ### gofmt
 
@@ -131,6 +133,10 @@
 - [CaiJinKen/toolkit.nvim](https://github.com/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/stars/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/last-commit/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/CaiJinKen/toolkit.nvim)
 - [uga-rosa/convert_json_to_go_type.nvim](https://github.com/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/stars/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/convert_json_to_go_type.nvim)
 - [romus204/go-tagger.nvim](https://github.com/romus204/go-tagger.nvim) ![](https://img.shields.io/github/stars/romus204/go-tagger.nvim) ![](https://img.shields.io/github/last-commit/romus204/go-tagger.nvim) ![](https://img.shields.io/github/commit-activity/y/romus204/go-tagger.nvim)
+
+### memory
+
+- [Legion-ke/go-memory-visualizer.nvim](https://github.com/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/stars/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/last-commit/Legion-ke/go-memory-visualizer.nvim) ![](https://img.shields.io/github/commit-activity/y/Legion-ke/go-memory-visualizer.nvim)
 
 ### return
 

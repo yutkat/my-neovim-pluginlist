@@ -34,6 +34,7 @@
 - [vxpm/ferris.nvim](https://github.com/vxpm/ferris.nvim) ![](https://img.shields.io/github/stars/vxpm/ferris.nvim) ![](https://img.shields.io/github/last-commit/vxpm/ferris.nvim) ![](https://img.shields.io/github/commit-activity/y/vxpm/ferris.nvim)
 - [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
 - [wuchuheng/auto-fix-rust.nvim](https://github.com/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/stars/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/last-commit/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/wuchuheng/auto-fix-rust.nvim)
+- [alexpasmantier/krust.nvim](https://github.com/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/krust.nvim)
 
 ### Test
 
