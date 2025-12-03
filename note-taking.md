@@ -84,6 +84,7 @@
 - [alchrdev/astereon.nvim](https://github.com/alchrdev/astereon.nvim) ![](https://img.shields.io/github/stars/alchrdev/astereon.nvim) ![](https://img.shields.io/github/last-commit/alchrdev/astereon.nvim) ![](https://img.shields.io/github/commit-activity/y/alchrdev/astereon.nvim)
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
 - [Youchunmaru/skb.nvim](https://github.com/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/stars/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/last-commit/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/commit-activity/y/Youchunmaru/skb.nvim)
+- [wsdjeg/zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/stars/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/zettelkasten.nvim)
 
 ### Markdown
 
