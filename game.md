@@ -96,6 +96,7 @@
 - [nvzone/typr](https://github.com/nvzone/typr) ![](https://img.shields.io/github/stars/nvzone/typr) ![](https://img.shields.io/github/last-commit/nvzone/typr) ![](https://img.shields.io/github/commit-activity/y/nvzone/typr)
 - [Jozefhdez/touchtype.nvim](https://github.com/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/stars/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/last-commit/Jozefhdez/touchtype.nvim) ![](https://img.shields.io/github/commit-activity/y/Jozefhdez/touchtype.nvim)
 - [RyanSaxe/buffergolf.nvim](https://github.com/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/stars/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/last-commit/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanSaxe/buffergolf.nvim)
+- [maelwalser/speed-motion.nvim](https://github.com/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/stars/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/last-commit/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/maelwalser/speed-motion.nvim)
 
 ### FiveM
 
