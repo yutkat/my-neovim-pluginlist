@@ -658,6 +658,7 @@
 - [choplin/code-review.nvim](https://github.com/choplin/code-review.nvim) ![](https://img.shields.io/github/stars/choplin/code-review.nvim) ![](https://img.shields.io/github/last-commit/choplin/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/choplin/code-review.nvim)
 - [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
 - [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
+- [emshan/agent.nvim](https://github.com/emshan/agent.nvim) ![](https://img.shields.io/github/stars/emshan/agent.nvim) ![](https://img.shields.io/github/last-commit/emshan/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/emshan/agent.nvim)
 
 ## Documentation
 
