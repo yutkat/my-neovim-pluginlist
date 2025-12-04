@@ -127,6 +127,7 @@
 - [JulianNymark/telescope_grouped_keymaps.nvim](https://github.com/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/stars/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/last-commit/JulianNymark/telescope_grouped_keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianNymark/telescope_grouped_keymaps.nvim)
 - [yuri-rage/nvim-keybind-tracker](https://github.com/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/stars/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/last-commit/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/commit-activity/y/yuri-rage/nvim-keybind-tracker)
 - [HunterretnuH/map-tree.nvim](https://github.com/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map-tree.nvim)
+- [sk1t0n/vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/stars/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/last-commit/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/sk1t0n/vim-top-keymaps.nvim)
 
 ### Prefix Key Binding
 

@@ -460,6 +460,7 @@
 - [CrystalDime/epub.nvim](https://github.com/CrystalDime/epub.nvim) ![](https://img.shields.io/github/stars/CrystalDime/epub.nvim) ![](https://img.shields.io/github/last-commit/CrystalDime/epub.nvim) ![](https://img.shields.io/github/commit-activity/y/CrystalDime/epub.nvim)
 - [Shuheng-Zhang/bk.nvim](https://github.com/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/bk.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/bk.nvim)
 - [helmecke/epubedit.nvim](https://github.com/helmecke/epubedit.nvim) ![](https://img.shields.io/github/stars/helmecke/epubedit.nvim) ![](https://img.shields.io/github/last-commit/helmecke/epubedit.nvim) ![](https://img.shields.io/github/commit-activity/y/helmecke/epubedit.nvim)
+- [DanielPonte01/ink.nvim](https://github.com/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/stars/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/last-commit/DanielPonte01/ink.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielPonte01/ink.nvim)
 
 ### Pandoc
 
