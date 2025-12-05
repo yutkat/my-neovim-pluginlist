@@ -168,6 +168,7 @@
 - [mickyyy68/codex.nvim](https://github.com/mickyyy68/codex.nvim) ![](https://img.shields.io/github/stars/mickyyy68/codex.nvim) ![](https://img.shields.io/github/last-commit/mickyyy68/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/mickyyy68/codex.nvim)
 - [JanSmrcka/codex.nvim](https://github.com/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/stars/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/last-commit/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/codex.nvim)
 - [rkmax/codex.nvim](https://github.com/rkmax/codex.nvim) ![](https://img.shields.io/github/stars/rkmax/codex.nvim) ![](https://img.shields.io/github/last-commit/rkmax/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rkmax/codex.nvim)
+- [caverav/codex.nvim](https://github.com/caverav/codex.nvim) ![](https://img.shields.io/github/stars/caverav/codex.nvim) ![](https://img.shields.io/github/last-commit/caverav/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/codex.nvim)
 
 #### Whisper
 
@@ -352,6 +353,7 @@
 - [S1M0N38/ccusage.nvim](https://github.com/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ccusage.nvim)
 - [charliesabino/backseat.nvim](https://github.com/charliesabino/backseat.nvim) ![](https://img.shields.io/github/stars/charliesabino/backseat.nvim) ![](https://img.shields.io/github/last-commit/charliesabino/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/charliesabino/backseat.nvim)
 - [wadwax/claude-pane.nvim](https://github.com/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/stars/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/last-commit/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/wadwax/claude-pane.nvim)
+- [thrawny/violet.nvim](https://github.com/thrawny/violet.nvim) ![](https://img.shields.io/github/stars/thrawny/violet.nvim) ![](https://img.shields.io/github/last-commit/thrawny/violet.nvim) ![](https://img.shields.io/github/commit-activity/y/thrawny/violet.nvim)
 
 ### Claude Code
 
@@ -755,6 +757,7 @@
 ### LLM CLI
 
 - [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) ![](https://img.shields.io/github/stars/julwrites/llm-nvim) ![](https://img.shields.io/github/last-commit/julwrites/llm-nvim) ![](https://img.shields.io/github/commit-activity/y/julwrites/llm-nvim)
+- [edward-r/prompty.nvim](https://github.com/edward-r/prompty.nvim) ![](https://img.shields.io/github/stars/edward-r/prompty.nvim) ![](https://img.shields.io/github/last-commit/edward-r/prompty.nvim) ![](https://img.shields.io/github/commit-activity/y/edward-r/prompty.nvim)
 
 ### Gennie CLI
 

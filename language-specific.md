@@ -401,6 +401,7 @@
 - [dreanod/rtests.nvim](https://github.com/dreanod/rtests.nvim) ![](https://img.shields.io/github/stars/dreanod/rtests.nvim) ![](https://img.shields.io/github/last-commit/dreanod/rtests.nvim) ![](https://img.shields.io/github/commit-activity/y/dreanod/rtests.nvim)
 - [conig/nvim-target-target](https://github.com/conig/nvim-target-target) ![](https://img.shields.io/github/stars/conig/nvim-target-target) ![](https://img.shields.io/github/last-commit/conig/nvim-target-target) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-target-target)
 - [wurli/ark.nvim](https://github.com/wurli/ark.nvim) ![](https://img.shields.io/github/stars/wurli/ark.nvim) ![](https://img.shields.io/github/last-commit/wurli/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/ark.nvim)
+- [FernandoFailla/r-background-jobs.nvim](https://github.com/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/stars/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/last-commit/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/FernandoFailla/r-background-jobs.nvim)
 
 #### Shellscript(bash)
 

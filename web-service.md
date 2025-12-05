@@ -109,6 +109,7 @@
 #### IRC
 
 - [boredcoder411/nirc](https://github.com/boredcoder411/nirc) ![](https://img.shields.io/github/stars/boredcoder411/nirc) ![](https://img.shields.io/github/last-commit/boredcoder411/nirc) ![](https://img.shields.io/github/commit-activity/y/boredcoder411/nirc)
+- [Euro20179/irc.nvim](https://github.com/Euro20179/irc.nvim) ![](https://img.shields.io/github/stars/Euro20179/irc.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/irc.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/irc.nvim)
 
 #### iMessage
 
