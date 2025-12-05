@@ -128,6 +128,7 @@
 - [matiascaniete/local.nvim](https://github.com/matiascaniete/local.nvim) ![](https://img.shields.io/github/stars/matiascaniete/local.nvim) ![](https://img.shields.io/github/last-commit/matiascaniete/local.nvim) ![](https://img.shields.io/github/commit-activity/y/matiascaniete/local.nvim)
 - [Coding4Glory/tiny-pjs.nvim](https://github.com/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-pjs.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-pjs.nvim)
 - [E-Mud/ptplugin.nvim](https://github.com/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/stars/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/last-commit/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/commit-activity/y/E-Mud/ptplugin.nvim)
+- [BlankTiger/keeper.nvim](https://github.com/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/stars/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/last-commit/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/commit-activity/y/BlankTiger/keeper.nvim)
 
 ### Config switcher
 

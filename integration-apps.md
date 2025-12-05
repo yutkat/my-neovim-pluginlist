@@ -417,6 +417,7 @@
 - [sing-kuro/auto-ime.nvim](https://github.com/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/auto-ime.nvim)
 - [sing-kuro/ime.nvim](https://github.com/sing-kuro/ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/ime.nvim)
 - [pk-hash/smart-im.nvim](https://github.com/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/stars/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/smart-im.nvim)
+- [seokgukim/vawi.nvim](https://github.com/seokgukim/vawi.nvim) ![](https://img.shields.io/github/stars/seokgukim/vawi.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/vawi.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/vawi.nvim)
 
 #### Fcitx
 
