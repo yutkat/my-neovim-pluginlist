@@ -324,7 +324,6 @@
 - [epilande/checkbox-cycle.nvim](https://github.com/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/stars/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/last-commit/epilande/checkbox-cycle.nvim) ![](https://img.shields.io/github/commit-activity/y/epilande/checkbox-cycle.nvim)
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
-- [NeoManslayer/powerlevel.nvim](https://github.com/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/stars/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/last-commit/NeoManslayer/powerlevel.nvim) ![](https://img.shields.io/github/commit-activity/y/NeoManslayer/powerlevel.nvim)
 - [mmvsk/markdown-checkbox.nvim](https://github.com/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/stars/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/last-commit/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mmvsk/markdown-checkbox.nvim)
 
 #### Markdown list
