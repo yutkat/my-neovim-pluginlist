@@ -233,7 +233,6 @@
 
 ##### ASP.NET
 
-- [tris203/rzls.nvim](https://github.com/tris203/rzls.nvim) ![](https://img.shields.io/github/stars/tris203/rzls.nvim) ![](https://img.shields.io/github/last-commit/tris203/rzls.nvim) ![](https://img.shields.io/github/commit-activity/y/tris203/rzls.nvim)
 
 #### Kotlin
 
