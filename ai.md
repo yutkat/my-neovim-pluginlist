@@ -592,6 +592,7 @@
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-algms/agentic.nvim)
 - [swmcc/agentic.nvim](https://github.com/swmcc/agentic.nvim) ![](https://img.shields.io/github/stars/swmcc/agentic.nvim) ![](https://img.shields.io/github/last-commit/swmcc/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/swmcc/agentic.nvim)
+- [silvabyte/audetic.nvim](https://github.com/silvabyte/audetic.nvim) ![](https://img.shields.io/github/stars/silvabyte/audetic.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/audetic.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/audetic.nvim)
 
 ### Amp
 
