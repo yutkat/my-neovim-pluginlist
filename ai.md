@@ -542,6 +542,7 @@
 - [e-cal/opencode.nvim](https://github.com/e-cal/opencode.nvim) ![](https://img.shields.io/github/stars/e-cal/opencode.nvim) ![](https://img.shields.io/github/last-commit/e-cal/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/opencode.nvim)
 - [silvabyte/opencode.nvim](https://github.com/silvabyte/opencode.nvim) ![](https://img.shields.io/github/stars/silvabyte/opencode.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/opencode.nvim)
 - [EmreOzdemiroglu/comment2code.nvim](https://github.com/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/stars/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/last-commit/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreOzdemiroglu/comment2code.nvim)
+- [silvabyte/audetic.nvim](https://github.com/silvabyte/audetic.nvim) ![](https://img.shields.io/github/stars/silvabyte/audetic.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/audetic.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/audetic.nvim)
 
 ### khulnasoft
 

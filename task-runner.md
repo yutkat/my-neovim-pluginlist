@@ -286,6 +286,7 @@
 - [tiberiuiurco/runny.nvim](https://github.com/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/stars/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/last-commit/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/commit-activity/y/tiberiuiurco/runny.nvim)
 - [devmuu/nvim-run-script](https://github.com/devmuu/nvim-run-script) ![](https://img.shields.io/github/stars/devmuu/nvim-run-script) ![](https://img.shields.io/github/last-commit/devmuu/nvim-run-script) ![](https://img.shields.io/github/commit-activity/y/devmuu/nvim-run-script)
 - [joncrangle/itchy.nvim](https://github.com/joncrangle/itchy.nvim) ![](https://img.shields.io/github/stars/joncrangle/itchy.nvim) ![](https://img.shields.io/github/last-commit/joncrangle/itchy.nvim) ![](https://img.shields.io/github/commit-activity/y/joncrangle/itchy.nvim)
+- [jignesh119/FlashRunner.nvim](https://github.com/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/stars/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/last-commit/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/jignesh119/FlashRunner.nvim)
 
 #### Jupyter style
 

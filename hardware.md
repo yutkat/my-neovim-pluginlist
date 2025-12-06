@@ -45,6 +45,7 @@
 ### Verilog
 
 - [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
+- [Junknown99/nvim-verilog-mode](https://github.com/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/stars/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/last-commit/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/commit-activity/y/Junknown99/nvim-verilog-mode)
 
 ### Grooper
 

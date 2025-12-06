@@ -65,6 +65,7 @@
 - [Lumetas/lum-projects.nvim](https://github.com/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/stars/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/last-commit/Lumetas/lum-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lumetas/lum-projects.nvim)
 - [ggyorfi/easy-projects.nvim](https://github.com/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/stars/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/last-commit/ggyorfi/easy-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/ggyorfi/easy-projects.nvim)
 - [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/project.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/project.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/project.nvim)
+- [jwu/exvim-lite.nvim](https://github.com/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/stars/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/last-commit/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/exvim-lite.nvim)
 
 ### Project Root Detector
 

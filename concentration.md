@@ -41,6 +41,7 @@
 - [4DRIAN0RTIZ/pomo.nvim](https://github.com/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/pomo.nvim)
 - [imwsl/pomodoro.nvim](https://github.com/imwsl/pomodoro.nvim) ![](https://img.shields.io/github/stars/imwsl/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/imwsl/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/imwsl/pomodoro.nvim)
 - [bxrne/pomo.nvim](https://github.com/bxrne/pomo.nvim) ![](https://img.shields.io/github/stars/bxrne/pomo.nvim) ![](https://img.shields.io/github/last-commit/bxrne/pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/pomo.nvim)
+- [hvenables/pomodoro.nvim](https://github.com/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/stars/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/hvenables/pomodoro.nvim)
 
 ## Alarm
 
