@@ -114,6 +114,7 @@
 - [erooke/blink-cmp-latex](https://github.com/erooke/blink-cmp-latex) ![](https://img.shields.io/github/stars/erooke/blink-cmp-latex) ![](https://img.shields.io/github/last-commit/erooke/blink-cmp-latex) ![](https://img.shields.io/github/commit-activity/y/erooke/blink-cmp-latex)
 - [krissen/blink-cmp-bibtex](https://github.com/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/stars/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/last-commit/krissen/blink-cmp-bibtex) ![](https://img.shields.io/github/commit-activity/y/krissen/blink-cmp-bibtex)
 - [yuukibarns/blink-cmp-bm.nvim](https://github.com/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/stars/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/last-commit/yuukibarns/blink-cmp-bm.nvim) ![](https://img.shields.io/github/commit-activity/y/yuukibarns/blink-cmp-bm.nvim)
+- [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/stars/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/blink-cmp-avante)
 
 ### Auto Completion support
 
