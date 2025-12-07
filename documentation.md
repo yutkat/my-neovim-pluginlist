@@ -160,6 +160,7 @@
 - [mtkld/mdtoc.nvim](https://github.com/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/stars/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/last-commit/mtkld/mdtoc.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/mdtoc.nvim)
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
 - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
+- [lum1nar/float-toc.nvim](https://github.com/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/stars/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/float-toc.nvim)
 
 #### highlight
 
@@ -208,6 +209,7 @@
 ##### Rust
 
 - [henriklovhaug/Preview.nvim](https://github.com/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/stars/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/last-commit/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/commit-activity/y/henriklovhaug/Preview.nvim)
+- [vihu/penview.nvim](https://github.com/vihu/penview.nvim) ![](https://img.shields.io/github/stars/vihu/penview.nvim) ![](https://img.shields.io/github/last-commit/vihu/penview.nvim) ![](https://img.shields.io/github/commit-activity/y/vihu/penview.nvim)
 
 ##### Go
 

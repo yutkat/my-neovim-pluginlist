@@ -156,6 +156,7 @@
 - [KiamMota/rr.nvim](https://github.com/KiamMota/rr.nvim) ![](https://img.shields.io/github/stars/KiamMota/rr.nvim) ![](https://img.shields.io/github/last-commit/KiamMota/rr.nvim) ![](https://img.shields.io/github/commit-activity/y/KiamMota/rr.nvim)
 - [utkayd/wherewolf.nvim](https://github.com/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/stars/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/last-commit/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/commit-activity/y/utkayd/wherewolf.nvim)
 - [TobiasLaross/find-replace.nvim](https://github.com/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/stars/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/last-commit/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/TobiasLaross/find-replace.nvim)
+- [Jason-Bai/search-replace.nvim](https://github.com/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/stars/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Jason-Bai/search-replace.nvim)
 
 ### Rename
 

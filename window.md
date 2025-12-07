@@ -189,3 +189,4 @@
 
 - [lrappenhoener/zoom.nvim](https://github.com/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/stars/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/last-commit/lrappenhoener/zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/lrappenhoener/zoom.nvim)
 - [krmmzs/window-zoom.nvim](https://github.com/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/stars/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/window-zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/window-zoom.nvim)
+- [devkcud/zoom.nvim](https://github.com/devkcud/zoom.nvim) ![](https://img.shields.io/github/stars/devkcud/zoom.nvim) ![](https://img.shields.io/github/last-commit/devkcud/zoom.nvim) ![](https://img.shields.io/github/commit-activity/y/devkcud/zoom.nvim)
