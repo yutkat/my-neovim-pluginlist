@@ -286,6 +286,7 @@
 - [bosha/md-table-navigation.nvim](https://github.com/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/stars/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/last-commit/bosha/md-table-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/bosha/md-table-navigation.nvim)
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/timantipov/md-table-tidy.nvim)
 - [paulsonkoly/adjust-table.nvim](https://github.com/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/stars/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/last-commit/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsonkoly/adjust-table.nvim)
+- [sh1Nome/md-table-align.nvim](https://github.com/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/stars/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/md-table-align.nvim)
 
 #### Frontmatter
 

@@ -7,6 +7,7 @@
     - [VS Code](#vs-code)
     - [Helix](#helix)
     - [Xcode](#xcode)
+    - [Multi IDE](#multi-ide)
   - [JetBrains](#jetbrains)
   - [Zed](#zed)
   - [Desktop Integration](#desktop-integration)
@@ -37,6 +38,7 @@
     - [OpenFGA](#openfga)
     - [ElasticSearch](#elasticsearch)
     - [Kubernetes](#kubernetes)
+    - [VPN](#vpn)
   - [Cloud](#cloud)
     - [Terraform](#terraform)
       - [atmos](#atmos)
@@ -469,6 +471,7 @@
 #### Text-to-speech
 
 - [chriswritescode-dev/tts.nvim](https://github.com/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/tts.nvim)
+- [nisidabay/txt2mp3.nvim](https://github.com/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/stars/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/txt2mp3.nvim)
 
 ### Core dump
 

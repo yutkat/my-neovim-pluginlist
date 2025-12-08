@@ -128,6 +128,7 @@
 ## toggle
 
 - [markgandolfo/lightswitch.nvim](https://github.com/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/stars/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/last-commit/markgandolfo/lightswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/markgandolfo/lightswitch.nvim)
+- [cutehax0r/toggler.nvim](https://github.com/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/stars/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/last-commit/cutehax0r/toggler.nvim) ![](https://img.shields.io/github/commit-activity/y/cutehax0r/toggler.nvim)
 
 ## Command Palette
 

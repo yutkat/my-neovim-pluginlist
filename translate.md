@@ -32,6 +32,7 @@
 - [mozumasu/plamo-translate.nvim](https://github.com/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/stars/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/last-commit/mozumasu/plamo-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/mozumasu/plamo-translate.nvim)
 - [alassek/deepl.nvim](https://github.com/alassek/deepl.nvim) ![](https://img.shields.io/github/stars/alassek/deepl.nvim) ![](https://img.shields.io/github/last-commit/alassek/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/alassek/deepl.nvim)
 - [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) ![](https://img.shields.io/github/stars/walkersumida/deepl.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/deepl.nvim)
+- [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) ![](https://img.shields.io/github/stars/acidsugarx/babel.nvim) ![](https://img.shields.io/github/last-commit/acidsugarx/babel.nvim) ![](https://img.shields.io/github/commit-activity/y/acidsugarx/babel.nvim)
 
 ## i18n
 
