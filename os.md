@@ -173,6 +173,7 @@
 
 - [dimaportenko/telescope-simulators.nvim](https://github.com/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/stars/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/last-commit/dimaportenko/telescope-simulators.nvim) ![](https://img.shields.io/github/commit-activity/y/dimaportenko/telescope-simulators.nvim)
 - [terje/simctl.nvim](https://github.com/terje/simctl.nvim) ![](https://img.shields.io/github/stars/terje/simctl.nvim) ![](https://img.shields.io/github/last-commit/terje/simctl.nvim) ![](https://img.shields.io/github/commit-activity/y/terje/simctl.nvim)
+- [itsramiel/sim.nvim](https://github.com/itsramiel/sim.nvim) ![](https://img.shields.io/github/stars/itsramiel/sim.nvim) ![](https://img.shields.io/github/last-commit/itsramiel/sim.nvim) ![](https://img.shields.io/github/commit-activity/y/itsramiel/sim.nvim)
 
 ### Android
 
