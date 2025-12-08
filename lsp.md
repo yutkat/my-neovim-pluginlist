@@ -135,6 +135,7 @@
 - [WeiTing1991/diagnostic-hover.nvim](https://github.com/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/stars/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/last-commit/WeiTing1991/diagnostic-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/WeiTing1991/diagnostic-hover.nvim)
 - [sfn101/xray.nvim](https://github.com/sfn101/xray.nvim) ![](https://img.shields.io/github/stars/sfn101/xray.nvim) ![](https://img.shields.io/github/last-commit/sfn101/xray.nvim) ![](https://img.shields.io/github/commit-activity/y/sfn101/xray.nvim)
 - [Cpoing/microscope.nvim](https://github.com/Cpoing/microscope.nvim) ![](https://img.shields.io/github/stars/Cpoing/microscope.nvim) ![](https://img.shields.io/github/last-commit/Cpoing/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/Cpoing/microscope.nvim)
+- [riodelphino/diagnostic-toggle.nvim](https://github.com/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/stars/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/diagnostic-toggle.nvim)
 
 ##### Diagnostics goto
 

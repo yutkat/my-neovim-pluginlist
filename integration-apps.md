@@ -123,6 +123,7 @@
 - [simrat39/desktop-notify.nvim](https://github.com/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/stars/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/last-commit/simrat39/desktop-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/simrat39/desktop-notify.nvim)
 - [f-person/auto-dark-mode.nvim](https://github.com/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/stars/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/last-commit/f-person/auto-dark-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/f-person/auto-dark-mode.nvim)
 - [ObserverOfTime/notifications.nvim](https://github.com/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/stars/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/last-commit/ObserverOfTime/notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/ObserverOfTime/notifications.nvim)
+- [itsramiel/sim.nvim](https://github.com/itsramiel/sim.nvim) ![](https://img.shields.io/github/stars/itsramiel/sim.nvim) ![](https://img.shields.io/github/last-commit/itsramiel/sim.nvim) ![](https://img.shields.io/github/commit-activity/y/itsramiel/sim.nvim)
 
 ### Blockchain
 
@@ -469,6 +470,7 @@
 #### Text-to-speech
 
 - [chriswritescode-dev/tts.nvim](https://github.com/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/tts.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/tts.nvim)
+- [nisidabay/txt2mp3.nvim](https://github.com/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/stars/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/txt2mp3.nvim)
 
 ### Core dump
 
