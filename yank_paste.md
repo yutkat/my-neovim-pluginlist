@@ -98,6 +98,7 @@
 - [57656E6474/snatch.nvim](https://github.com/57656E6474/snatch.nvim) ![](https://img.shields.io/github/stars/57656E6474/snatch.nvim) ![](https://img.shields.io/github/last-commit/57656E6474/snatch.nvim) ![](https://img.shields.io/github/commit-activity/y/57656E6474/snatch.nvim)
 - [senkentarou/telescope-copy-path.nvim](https://github.com/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-copy-path.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-copy-path.nvim)
 - [mikko-kohtala/copy-filepath.nvim](https://github.com/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/stars/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/last-commit/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/commit-activity/y/mikko-kohtala/copy-filepath.nvim)
+- [ywpkwon/yank-path.nvim](https://github.com/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/stars/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/last-commit/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/commit-activity/y/ywpkwon/yank-path.nvim)
 
 ### Register Selector
 

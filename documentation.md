@@ -328,6 +328,7 @@
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
 - [mmvsk/markdown-checkbox.nvim](https://github.com/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/stars/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/last-commit/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mmvsk/markdown-checkbox.nvim)
+- [bgonzales/markdown-todo.nvim](https://github.com/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/stars/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/bgonzales/markdown-todo.nvim)
 
 #### Markdown list
 

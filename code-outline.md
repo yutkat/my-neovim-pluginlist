@@ -92,6 +92,7 @@
 ## Code visualize
 
 - [dundalek/bloat.nvim](https://github.com/dundalek/bloat.nvim) ![](https://img.shields.io/github/stars/dundalek/bloat.nvim) ![](https://img.shields.io/github/last-commit/dundalek/bloat.nvim) ![](https://img.shields.io/github/commit-activity/y/dundalek/bloat.nvim)
+- [1Kori256/function-grapher.nvim](https://github.com/1Kori256/function-grapher.nvim) ![](https://img.shields.io/github/stars/1Kori256/function-grapher.nvim) ![](https://img.shields.io/github/last-commit/1Kori256/function-grapher.nvim) ![](https://img.shields.io/github/commit-activity/y/1Kori256/function-grapher.nvim)
 
 ## CCN
 
