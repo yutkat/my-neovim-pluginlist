@@ -161,7 +161,6 @@
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
 - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 - [lum1nar/float-toc.nvim](https://github.com/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/stars/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/float-toc.nvim)
-- [ZheCi/toc-manager.nvim](https://github.com/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/stars/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/last-commit/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/ZheCi/toc-manager.nvim)
 
 #### highlight
 
