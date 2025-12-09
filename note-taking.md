@@ -106,6 +106,7 @@
 - [lbartoletti/notes.nvim](https://github.com/lbartoletti/notes.nvim) ![](https://img.shields.io/github/stars/lbartoletti/notes.nvim) ![](https://img.shields.io/github/last-commit/lbartoletti/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/lbartoletti/notes.nvim)
 - [mshiltonj/notezwithaz.nvim](https://github.com/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/stars/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/last-commit/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiltonj/notezwithaz.nvim)
 - [ushmz/tabi.nvim](https://github.com/ushmz/tabi.nvim) ![](https://img.shields.io/github/stars/ushmz/tabi.nvim) ![](https://img.shields.io/github/last-commit/ushmz/tabi.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/tabi.nvim)
+- [morgsmccauley/notes.nvim](https://github.com/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/notes.nvim)
 
 ### Journal
 
@@ -238,6 +239,7 @@
 - [Jonathan-Al-Saadi/taskman.nvim](https://github.com/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/stars/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/last-commit/Jonathan-Al-Saadi/taskman.nvim) ![](https://img.shields.io/github/commit-activity/y/Jonathan-Al-Saadi/taskman.nvim)
 - [tehritarun/tasker.nvim](https://github.com/tehritarun/tasker.nvim) ![](https://img.shields.io/github/stars/tehritarun/tasker.nvim) ![](https://img.shields.io/github/last-commit/tehritarun/tasker.nvim) ![](https://img.shields.io/github/commit-activity/y/tehritarun/tasker.nvim)
 - [mshiyaf/todoist.nvim](https://github.com/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/stars/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/last-commit/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiyaf/todoist.nvim)
+- [randomdude16671/huid.nvim](https://github.com/randomdude16671/huid.nvim) ![](https://img.shields.io/github/stars/randomdude16671/huid.nvim) ![](https://img.shields.io/github/last-commit/randomdude16671/huid.nvim) ![](https://img.shields.io/github/commit-activity/y/randomdude16671/huid.nvim)
 
 #### Google Task
 
@@ -379,6 +381,7 @@
 - [aiya000/nvim-mado-scratch-buffer](https://github.com/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch-buffer)
 - [diegoortizmatajira/workspace-scratch-files.nvim](https://github.com/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/workspace-scratch-files.nvim)
 - [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
+- [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
 
 ### inline note
 

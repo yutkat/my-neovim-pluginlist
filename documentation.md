@@ -161,6 +161,7 @@
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
 - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 - [lum1nar/float-toc.nvim](https://github.com/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/stars/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/float-toc.nvim)
+- [ZheCi/toc-manager.nvim](https://github.com/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/stars/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/last-commit/ZheCi/toc-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/ZheCi/toc-manager.nvim)
 
 #### highlight
 
@@ -328,6 +329,7 @@
 - [duckdm/mdcheck.nvim](https://github.com/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/stars/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/last-commit/duckdm/mdcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/mdcheck.nvim)
 - [TobisMa/checkstyle-integration.nvim](https://github.com/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/stars/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/last-commit/TobisMa/checkstyle-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/TobisMa/checkstyle-integration.nvim)
 - [mmvsk/markdown-checkbox.nvim](https://github.com/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/stars/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/last-commit/mmvsk/markdown-checkbox.nvim) ![](https://img.shields.io/github/commit-activity/y/mmvsk/markdown-checkbox.nvim)
+- [bgonzales/markdown-todo.nvim](https://github.com/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/stars/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/last-commit/bgonzales/markdown-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/bgonzales/markdown-todo.nvim)
 
 #### Markdown list
 
