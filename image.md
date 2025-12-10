@@ -71,6 +71,7 @@
 - [benlubas/image-save.nvim](https://github.com/benlubas/image-save.nvim) ![](https://img.shields.io/github/stars/benlubas/image-save.nvim) ![](https://img.shields.io/github/last-commit/benlubas/image-save.nvim) ![](https://img.shields.io/github/commit-activity/y/benlubas/image-save.nvim)
 - [watzon/goshot.nvim](https://github.com/watzon/goshot.nvim) ![](https://img.shields.io/github/stars/watzon/goshot.nvim) ![](https://img.shields.io/github/last-commit/watzon/goshot.nvim) ![](https://img.shields.io/github/commit-activity/y/watzon/goshot.nvim)
 - [pittcat/macos-screenshot.nvim](https://github.com/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/stars/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/last-commit/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/macos-screenshot.nvim)
+- [mistweaverco/snap.nvim](https://github.com/mistweaverco/snap.nvim) ![](https://img.shields.io/github/stars/mistweaverco/snap.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/snap.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/snap.nvim)
 
 ### Screen Key (Show Typing key)
 
