@@ -59,6 +59,7 @@
 - [Piotr1215/presenterm.nvim](https://github.com/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/stars/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/presenterm.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/presenterm.nvim)
 - [huggo-42/nvim-test](https://github.com/huggo-42/nvim-test) ![](https://img.shields.io/github/stars/huggo-42/nvim-test) ![](https://img.shields.io/github/last-commit/huggo-42/nvim-test) ![](https://img.shields.io/github/commit-activity/y/huggo-42/nvim-test)
 - [ducks/vimdeck.nvim](https://github.com/ducks/vimdeck.nvim) ![](https://img.shields.io/github/stars/ducks/vimdeck.nvim) ![](https://img.shields.io/github/last-commit/ducks/vimdeck.nvim) ![](https://img.shields.io/github/commit-activity/y/ducks/vimdeck.nvim)
+- [kulvirdotgg/ppt.nvim](https://github.com/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/stars/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/last-commit/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/commit-activity/y/kulvirdotgg/ppt.nvim)
 
 ### Slidev
 
