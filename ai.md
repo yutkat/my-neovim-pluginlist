@@ -264,6 +264,7 @@
 - [jim-at-jibba/nvim-redraft](https://github.com/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/stars/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/last-commit/jim-at-jibba/nvim-redraft) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/nvim-redraft)
 - [rmuell9/jarvis.nvim](https://github.com/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/stars/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/last-commit/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/rmuell9/jarvis.nvim)
 - [frodonh/simplellm.nvim](https://github.com/frodonh/simplellm.nvim) ![](https://img.shields.io/github/stars/frodonh/simplellm.nvim) ![](https://img.shields.io/github/last-commit/frodonh/simplellm.nvim) ![](https://img.shields.io/github/commit-activity/y/frodonh/simplellm.nvim)
+- [hansmrtn/clanker.nvim](https://github.com/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/stars/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/clanker.nvim)
 
 #### mods
 
