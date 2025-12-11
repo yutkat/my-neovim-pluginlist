@@ -294,6 +294,7 @@
 - [jbuck95/recollect.nvim](https://github.com/jbuck95/recollect.nvim) ![](https://img.shields.io/github/stars/jbuck95/recollect.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/recollect.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/recollect.nvim)
 - [apdot/doodle](https://github.com/apdot/doodle) ![](https://img.shields.io/github/stars/apdot/doodle) ![](https://img.shields.io/github/last-commit/apdot/doodle) ![](https://img.shields.io/github/commit-activity/y/apdot/doodle)
 - [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
+- [AniP-gt/nvim-obsidian-tasks.nvim](https://github.com/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/AniP-gt/nvim-obsidian-tasks.nvim)
 
 ### nb
 

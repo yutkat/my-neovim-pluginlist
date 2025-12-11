@@ -608,6 +608,7 @@
 - [heilgar/nochat.nvim](https://github.com/heilgar/nochat.nvim) ![](https://img.shields.io/github/stars/heilgar/nochat.nvim) ![](https://img.shields.io/github/last-commit/heilgar/nochat.nvim) ![](https://img.shields.io/github/commit-activity/y/heilgar/nochat.nvim)
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
+- [loom99-public/n00bkeys.nvim](https://github.com/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/stars/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/last-commit/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/loom99-public/n00bkeys.nvim)
 
 ## AI Terminal
 
@@ -731,6 +732,7 @@
 - [rhnvrm/nvim-claudecode-mcp](https://github.com/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/stars/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/last-commit/rhnvrm/nvim-claudecode-mcp) ![](https://img.shields.io/github/commit-activity/y/rhnvrm/nvim-claudecode-mcp)
 - [georgeharker/mcp-diagnostics.nvim](https://github.com/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/stars/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/georgeharker/mcp-diagnostics.nvim)
 - [jkeresman01/synaps.nvim](https://github.com/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/stars/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/synaps.nvim)
+- [DaneliSanche/mcphub.nvim](https://github.com/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/stars/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/last-commit/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/DaneliSanche/mcphub.nvim)
 
 ### MCP SDK
 
