@@ -173,6 +173,7 @@
 
 - [liamrlawrence/cabinet.nvim](https://github.com/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/stars/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/last-commit/liamrlawrence/cabinet.nvim) ![](https://img.shields.io/github/commit-activity/y/liamrlawrence/cabinet.nvim)
 - [SergioRibera/nvim-conf](https://github.com/SergioRibera/nvim-conf) ![](https://img.shields.io/github/stars/SergioRibera/nvim-conf) ![](https://img.shields.io/github/last-commit/SergioRibera/nvim-conf) ![](https://img.shields.io/github/commit-activity/y/SergioRibera/nvim-conf)
+- [brancisco/anvil.nvim](https://github.com/brancisco/anvil.nvim) ![](https://img.shields.io/github/stars/brancisco/anvil.nvim) ![](https://img.shields.io/github/last-commit/brancisco/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/brancisco/anvil.nvim)
 
 ## Control another neovim
 

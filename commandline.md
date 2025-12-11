@@ -60,6 +60,7 @@
 ### Highlight
 
 - [Sam-programs/cmdline-hl.nvim](https://github.com/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/stars/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/last-commit/Sam-programs/cmdline-hl.nvim) ![](https://img.shields.io/github/commit-activity/y/Sam-programs/cmdline-hl.nvim)
+- [phanen/hlv.nvim](https://github.com/phanen/hlv.nvim) ![](https://img.shields.io/github/stars/phanen/hlv.nvim) ![](https://img.shields.io/github/last-commit/phanen/hlv.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/hlv.nvim)
 
 ### command line completion
 
