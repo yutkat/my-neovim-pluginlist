@@ -32,6 +32,7 @@
 - [mawkler/jsx-element.nvim](https://github.com/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/stars/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/last-commit/mawkler/jsx-element.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/jsx-element.nvim)
 - [srghma-backup/nvim-various-textobjs-movements](https://github.com/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma-backup/nvim-various-textobjs-movements)
 - [fuyu28/textobj-entire.nvim](https://github.com/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/stars/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/last-commit/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu28/textobj-entire.nvim)
+- [zmunk/dot-rename.nvim](https://github.com/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/stars/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/last-commit/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/zmunk/dot-rename.nvim)
 
 ### Unit
 
