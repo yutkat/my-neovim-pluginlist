@@ -119,6 +119,7 @@
 - [MarcosTypeAP/color-picker.nvim](https://github.com/MarcosTypeAP/color-picker.nvim) ![](https://img.shields.io/github/stars/MarcosTypeAP/color-picker.nvim) ![](https://img.shields.io/github/last-commit/MarcosTypeAP/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/MarcosTypeAP/color-picker.nvim)
 - [eero-lehtinen/oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/stars/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/last-commit/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/eero-lehtinen/oklch-color-picker.nvim)
 - [ChausseBenjamin/termpicker.nvim](https://github.com/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/stars/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/last-commit/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/ChausseBenjamin/termpicker.nvim)
+- [r7sqtr/spectra.nvim](https://github.com/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/stars/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/spectra.nvim)
 
 ### Color Creator
 

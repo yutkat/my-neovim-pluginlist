@@ -6,6 +6,7 @@
   - [Joke](#joke)
     - [Hacker typer](#hacker-typer)
   - [Pet](#pet)
+  - [Coinflip](#coinflip)
   - [Image](#image)
   - [Book](#book)
   - [Video](#video)
@@ -68,6 +69,10 @@
 - [braden-godley/evil-larry.nvim](https://github.com/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/stars/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/last-commit/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/commit-activity/y/braden-godley/evil-larry.nvim)
 - [opqrstuvcut/catwalk.nvim](https://github.com/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/stars/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/last-commit/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/opqrstuvcut/catwalk.nvim)
 - [Panda-d3v/cute-cat.nvim](https://github.com/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/stars/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/last-commit/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/Panda-d3v/cute-cat.nvim)
+
+### Coinflip
+
+- [StikyPiston/coinflip.nvim](https://github.com/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/stars/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/coinflip.nvim)
 
 ### Image
 
