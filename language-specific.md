@@ -49,6 +49,7 @@
     - [PowerShell](#powershell)
     - [F](#f)
     - [D](#d)
+    - [Dingo](#dingo)
     - [fortran](#fortran)
     - [DSL](#dsl)
       - [DAML](#daml)
@@ -439,6 +440,10 @@
 #### D
 
 - [emcclure/dcompiler.nvim](https://github.com/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/stars/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/last-commit/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/commit-activity/y/emcclure/dcompiler.nvim)
+
+#### Dingo
+
+- [MadAppGang/dingo.nvim](https://github.com/MadAppGang/dingo.nvim) ![](https://img.shields.io/github/stars/MadAppGang/dingo.nvim) ![](https://img.shields.io/github/last-commit/MadAppGang/dingo.nvim) ![](https://img.shields.io/github/commit-activity/y/MadAppGang/dingo.nvim)
 
 #### fortran
 

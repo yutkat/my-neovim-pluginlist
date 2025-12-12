@@ -46,6 +46,8 @@
 - [TakeMichiks/Telescope-Mpv.nvim](https://github.com/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/stars/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/last-commit/TakeMichiks/Telescope-Mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/TakeMichiks/Telescope-Mpv.nvim)
 - [jmatth11/player.nvim](https://github.com/jmatth11/player.nvim) ![](https://img.shields.io/github/stars/jmatth11/player.nvim) ![](https://img.shields.io/github/last-commit/jmatth11/player.nvim) ![](https://img.shields.io/github/commit-activity/y/jmatth11/player.nvim)
 - [MannuVilasara/snacks-music-player.nvim](https://github.com/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/stars/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/last-commit/MannuVilasara/snacks-music-player.nvim) ![](https://img.shields.io/github/commit-activity/y/MannuVilasara/snacks-music-player.nvim)
+- [joelgwebber/vinyl.nvim](https://github.com/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/stars/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/vinyl.nvim)
+- [123Untitled/midx.nvim](https://github.com/123Untitled/midx.nvim) ![](https://img.shields.io/github/stars/123Untitled/midx.nvim) ![](https://img.shields.io/github/last-commit/123Untitled/midx.nvim) ![](https://img.shields.io/github/commit-activity/y/123Untitled/midx.nvim)
 
 ### sapf
 
@@ -63,6 +65,7 @@
 
 - [hainakus/yt-dlp.nvim](https://github.com/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/stars/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/last-commit/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/commit-activity/y/hainakus/yt-dlp.nvim)
 - [Rits1272/riff.nvim](https://github.com/Rits1272/riff.nvim) ![](https://img.shields.io/github/stars/Rits1272/riff.nvim) ![](https://img.shields.io/github/last-commit/Rits1272/riff.nvim) ![](https://img.shields.io/github/commit-activity/y/Rits1272/riff.nvim)
+- [shardulvs/ytmusic.nvim](https://github.com/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/stars/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/shardulvs/ytmusic.nvim)
 
 ### Tidal
 

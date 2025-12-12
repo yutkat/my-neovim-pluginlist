@@ -95,6 +95,7 @@
 ## Log
 
 - [smartpde/debuglog](https://github.com/smartpde/debuglog) ![](https://img.shields.io/github/stars/smartpde/debuglog) ![](https://img.shields.io/github/last-commit/smartpde/debuglog) ![](https://img.shields.io/github/commit-activity/y/smartpde/debuglog)
+- [wsdjeg/logevent.nvim](https://github.com/wsdjeg/logevent.nvim) ![](https://img.shields.io/github/stars/wsdjeg/logevent.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/logevent.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/logevent.nvim)
 
 ## Print
 
