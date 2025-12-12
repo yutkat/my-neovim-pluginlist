@@ -57,6 +57,7 @@
 - [RanMd/godot-mono.nvim](https://github.com/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/stars/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/last-commit/RanMd/godot-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/RanMd/godot-mono.nvim)
 - [dpowling/godot-lsp.nvim](https://github.com/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/stars/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/last-commit/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/dpowling/godot-lsp.nvim)
 - [Schwenckenator/godot-quickstart.nvim](https://github.com/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/stars/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/last-commit/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/commit-activity/y/Schwenckenator/godot-quickstart.nvim)
+- [fm39hz/nvim-dap-godot-mono](https://github.com/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/stars/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/last-commit/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/commit-activity/y/fm39hz/nvim-dap-godot-mono)
 
 ### Roblox studio
 
