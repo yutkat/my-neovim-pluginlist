@@ -43,6 +43,7 @@
 - [yangxingwu/nvim-mark.lua](https://github.com/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/stars/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/last-commit/yangxingwu/nvim-mark.lua) ![](https://img.shields.io/github/commit-activity/y/yangxingwu/nvim-mark.lua)
 - [CMOISDEAD/marks.nvim](https://github.com/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/stars/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/last-commit/CMOISDEAD/marks.nvim) ![](https://img.shields.io/github/commit-activity/y/CMOISDEAD/marks.nvim)
 - [ALPHAvibe/marks-vibes.nvim](https://github.com/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/marks-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/marks-vibes.nvim)
+- [nd70/global_marks.nvim](https://github.com/nd70/global_marks.nvim) ![](https://img.shields.io/github/stars/nd70/global_marks.nvim) ![](https://img.shields.io/github/last-commit/nd70/global_marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/global_marks.nvim)
 
 ### extmark
 

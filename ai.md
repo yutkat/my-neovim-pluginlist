@@ -20,6 +20,7 @@
   - [Amazon Q](#amazon-q)
   - [JetBrains AI](#jetbrains-ai)
   - [DeepSeek](#deepseek)
+  - [Devstral](#devstral)
   - [Devin](#devin)
   - [OpenRouter](#openrouter)
   - [Supermaven](#supermaven)
@@ -384,6 +385,7 @@
 - [zach-source/claude-follow-hook.nvim](https://github.com/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/stars/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/last-commit/zach-source/claude-follow-hook.nvim) ![](https://img.shields.io/github/commit-activity/y/zach-source/claude-follow-hook.nvim)
 - [GhostKellz/thanos.nvim](https://github.com/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/stars/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/thanos.nvim)
 - [rpmessner/claude-history.nvim](https://github.com/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/stars/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/last-commit/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/commit-activity/y/rpmessner/claude-history.nvim)
+- [bnema/claude-summon.nvim](https://github.com/bnema/claude-summon.nvim) ![](https://img.shields.io/github/stars/bnema/claude-summon.nvim) ![](https://img.shields.io/github/last-commit/bnema/claude-summon.nvim) ![](https://img.shields.io/github/commit-activity/y/bnema/claude-summon.nvim)
 
 ### Amazon Q
 
@@ -399,6 +401,10 @@
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
+
+### Devstral
+
+- [khamilowicz/nvim-devstral](https://github.com/khamilowicz/nvim-devstral) ![](https://img.shields.io/github/stars/khamilowicz/nvim-devstral) ![](https://img.shields.io/github/last-commit/khamilowicz/nvim-devstral) ![](https://img.shields.io/github/commit-activity/y/khamilowicz/nvim-devstral)
 
 ### Devin
 
@@ -545,6 +551,7 @@
 - [silvabyte/opencode.nvim](https://github.com/silvabyte/opencode.nvim) ![](https://img.shields.io/github/stars/silvabyte/opencode.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/opencode.nvim)
 - [EmreOzdemiroglu/comment2code.nvim](https://github.com/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/stars/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/last-commit/EmreOzdemiroglu/comment2code.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreOzdemiroglu/comment2code.nvim)
 - [silvabyte/audetic.nvim](https://github.com/silvabyte/audetic.nvim) ![](https://img.shields.io/github/stars/silvabyte/audetic.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/audetic.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/audetic.nvim)
+- [jaswdr/opencode-completion.nvim](https://github.com/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/stars/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/last-commit/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/jaswdr/opencode-completion.nvim)
 
 ### khulnasoft
 

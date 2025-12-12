@@ -225,6 +225,7 @@
 - [Frayzen/cpp-tools.nvim](https://github.com/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/stars/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/last-commit/Frayzen/cpp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Frayzen/cpp-tools.nvim)
 - [spalter/nvim-cpp-header-source-pair](https://github.com/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/stars/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/last-commit/spalter/nvim-cpp-header-source-pair) ![](https://img.shields.io/github/commit-activity/y/spalter/nvim-cpp-header-source-pair)
 - [OikoumE/headtoggle.nvim](https://github.com/OikoumE/headtoggle.nvim) ![](https://img.shields.io/github/stars/OikoumE/headtoggle.nvim) ![](https://img.shields.io/github/last-commit/OikoumE/headtoggle.nvim) ![](https://img.shields.io/github/commit-activity/y/OikoumE/headtoggle.nvim)
+- [Lukas-Fohl/wobble.nvim](https://github.com/Lukas-Fohl/wobble.nvim) ![](https://img.shields.io/github/stars/Lukas-Fohl/wobble.nvim) ![](https://img.shields.io/github/last-commit/Lukas-Fohl/wobble.nvim) ![](https://img.shields.io/github/commit-activity/y/Lukas-Fohl/wobble.nvim)
 
 #### include
 
