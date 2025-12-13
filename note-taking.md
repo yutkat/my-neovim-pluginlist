@@ -107,6 +107,7 @@
 - [mshiltonj/notezwithaz.nvim](https://github.com/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/stars/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/last-commit/mshiltonj/notezwithaz.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiltonj/notezwithaz.nvim)
 - [ushmz/tabi.nvim](https://github.com/ushmz/tabi.nvim) ![](https://img.shields.io/github/stars/ushmz/tabi.nvim) ![](https://img.shields.io/github/last-commit/ushmz/tabi.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/tabi.nvim)
 - [morgsmccauley/notes.nvim](https://github.com/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/notes.nvim)
+- [sigugo/simple-notes.nvim](https://github.com/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/stars/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/last-commit/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sigugo/simple-notes.nvim)
 
 ### Journal
 

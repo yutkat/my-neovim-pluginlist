@@ -246,6 +246,7 @@
 #### VPN
 
 - [FocusThen/vpn-script.nvim](https://github.com/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/stars/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/vpn-script.nvim)
+- [MaxiPutz/nvim-wg-plugin](https://github.com/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/stars/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/last-commit/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/commit-activity/y/MaxiPutz/nvim-wg-plugin)
 
 ### Cloud
 
