@@ -263,6 +263,7 @@
 - [jedi-knights/go-task.nvim](https://github.com/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/stars/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/go-task.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/go-task.nvim)
 - [Naga-ganesh/telescope-taskrunner.nvim](https://github.com/Naga-ganesh/telescope-taskrunner.nvim) ![](https://img.shields.io/github/stars/Naga-ganesh/telescope-taskrunner.nvim) ![](https://img.shields.io/github/last-commit/Naga-ganesh/telescope-taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/Naga-ganesh/telescope-taskrunner.nvim)
 - [cspengl/taskfile.nvim](https://github.com/cspengl/taskfile.nvim) ![](https://img.shields.io/github/stars/cspengl/taskfile.nvim) ![](https://img.shields.io/github/last-commit/cspengl/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/cspengl/taskfile.nvim)
+- [s0cks/taskfile.nvim](https://github.com/s0cks/taskfile.nvim) ![](https://img.shields.io/github/stars/s0cks/taskfile.nvim) ![](https://img.shields.io/github/last-commit/s0cks/taskfile.nvim) ![](https://img.shields.io/github/commit-activity/y/s0cks/taskfile.nvim)
 
 #### taskr
 
