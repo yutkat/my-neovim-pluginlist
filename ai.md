@@ -155,6 +155,8 @@
 - [heyfixit/shrimply-suggest.nvim](https://github.com/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/stars/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/last-commit/heyfixit/shrimply-suggest.nvim) ![](https://img.shields.io/github/commit-activity/y/heyfixit/shrimply-suggest.nvim)
 - [mecattaf/llm-stream.nvim](https://github.com/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/stars/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/last-commit/mecattaf/llm-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/mecattaf/llm-stream.nvim)
 - [sergiogallegos/luca.nvim](https://github.com/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/stars/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/last-commit/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiogallegos/luca.nvim)
+- [TenzinPlatter/nvim-llm-request](https://github.com/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/stars/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/last-commit/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/commit-activity/y/TenzinPlatter/nvim-llm-request)
+- [whleucka/bodybuilder.nvim](https://github.com/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/stars/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/last-commit/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/bodybuilder.nvim)
 
 #### Codex
 
@@ -191,6 +193,7 @@
 - [edshamis/context.nvim](https://github.com/edshamis/context.nvim) ![](https://img.shields.io/github/stars/edshamis/context.nvim) ![](https://img.shields.io/github/last-commit/edshamis/context.nvim) ![](https://img.shields.io/github/commit-activity/y/edshamis/context.nvim)
 - [Clearzero22/gemini-talk.nvim](https://github.com/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/stars/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/last-commit/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/commit-activity/y/Clearzero22/gemini-talk.nvim)
 - [flyingshutter/gemini-autocomplete.nvim](https://github.com/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/stars/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/flyingshutter/gemini-autocomplete.nvim)
+- [takeshy/nvim-gemini-helper](https://github.com/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/stars/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/last-commit/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/commit-activity/y/takeshy/nvim-gemini-helper)
 
 #### Gemini CLI
 

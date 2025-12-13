@@ -67,6 +67,7 @@
 - [DrKJeff16/project.nvim](https://github.com/DrKJeff16/project.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/project.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/project.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/project.nvim)
 - [jwu/exvim-lite.nvim](https://github.com/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/stars/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/last-commit/jwu/exvim-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/exvim-lite.nvim)
 - [Muscaw/hivemux.nvim](https://github.com/Muscaw/hivemux.nvim) ![](https://img.shields.io/github/stars/Muscaw/hivemux.nvim) ![](https://img.shields.io/github/last-commit/Muscaw/hivemux.nvim) ![](https://img.shields.io/github/commit-activity/y/Muscaw/hivemux.nvim)
+- [simonwjackson/project-picker.nvim](https://github.com/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/stars/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/last-commit/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwjackson/project-picker.nvim)
 
 ### Project Root Detector
 

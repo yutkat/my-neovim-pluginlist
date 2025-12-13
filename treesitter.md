@@ -27,6 +27,7 @@
 - [a73s/treesitter-diagnostics.nvim](https://github.com/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/stars/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/a73s/treesitter-diagnostics.nvim)
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
 - [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
+- [Jorenar/nvim-treesitter-diagnostics](https://github.com/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/stars/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/last-commit/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/commit-activity/y/Jorenar/nvim-treesitter-diagnostics)
 
 ### Installer
 
