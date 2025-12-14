@@ -36,4 +36,3 @@
 
 ## Thesaurus
 
-- [hertogp/syns.nvim](https://github.com/hertogp/syns.nvim) ![](https://img.shields.io/github/stars/hertogp/syns.nvim) ![](https://img.shields.io/github/last-commit/hertogp/syns.nvim) ![](https://img.shields.io/github/commit-activity/y/hertogp/syns.nvim)
