@@ -267,7 +267,6 @@
 
 #### taskr
 
-- [taskrfile/taskrfile.nvim](https://github.com/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/stars/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/last-commit/taskrfile/taskrfile.nvim) ![](https://img.shields.io/github/commit-activity/y/taskrfile/taskrfile.nvim)
 
 ### Specific runner
 
