@@ -71,6 +71,7 @@
 - [LuxVim/nvim-luxline](https://github.com/LuxVim/nvim-luxline) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxline) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxline) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxline)
 - [vivek-x-jha/nvim-statusline](https://github.com/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/stars/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/last-commit/vivek-x-jha/nvim-statusline) ![](https://img.shields.io/github/commit-activity/y/vivek-x-jha/nvim-statusline)
 - [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) ![](https://img.shields.io/github/stars/sontungexpt/witch-line) ![](https://img.shields.io/github/last-commit/sontungexpt/witch-line) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/witch-line)
+- [geo-afk/c-statusline.nvim](https://github.com/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/stars/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/last-commit/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/geo-afk/c-statusline.nvim)
 
 ### Simple
 
