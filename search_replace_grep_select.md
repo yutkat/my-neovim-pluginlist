@@ -213,6 +213,7 @@
 - [elanmed/rg-far.nvim](https://github.com/elanmed/rg-far.nvim) ![](https://img.shields.io/github/stars/elanmed/rg-far.nvim) ![](https://img.shields.io/github/last-commit/elanmed/rg-far.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/rg-far.nvim)
 - [ashwinp88/egrep.nvim](https://github.com/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/stars/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/last-commit/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/commit-activity/y/ashwinp88/egrep.nvim)
 - [naranyala/ag_filepicker.nvim](https://github.com/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/stars/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/last-commit/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/ag_filepicker.nvim)
+- [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) ![](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![](https://img.shields.io/github/last-commit/bravoecho/brook.nvim) ![](https://img.shields.io/github/commit-activity/y/bravoecho/brook.nvim)
 
 ### AST (Semantic search)
 
@@ -277,6 +278,7 @@
 ### Incremental selection
 
 - [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
+- [shushtain/incselect.nvim](https://github.com/shushtain/incselect.nvim) ![](https://img.shields.io/github/stars/shushtain/incselect.nvim) ![](https://img.shields.io/github/last-commit/shushtain/incselect.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/incselect.nvim)
 
 ### Around select
 

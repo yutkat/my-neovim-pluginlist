@@ -388,6 +388,7 @@
 - [GhostKellz/thanos.nvim](https://github.com/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/stars/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/thanos.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/thanos.nvim)
 - [rpmessner/claude-history.nvim](https://github.com/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/stars/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/last-commit/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/commit-activity/y/rpmessner/claude-history.nvim)
 - [bnema/claude-summon.nvim](https://github.com/bnema/claude-summon.nvim) ![](https://img.shields.io/github/stars/bnema/claude-summon.nvim) ![](https://img.shields.io/github/last-commit/bnema/claude-summon.nvim) ![](https://img.shields.io/github/commit-activity/y/bnema/claude-summon.nvim)
+- [evilwaveforms/nvim-claudecode-tmux](https://github.com/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/stars/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/last-commit/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/commit-activity/y/evilwaveforms/nvim-claudecode-tmux)
 
 ### Amazon Q
 
