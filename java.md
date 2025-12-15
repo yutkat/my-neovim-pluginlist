@@ -15,6 +15,7 @@
   - [Maven](#maven)
   - [Gradle](#gradle)
   - [Spring Boot](#spring-boot)
+  - [MyBatis](#mybatis)
   - [JBoss](#jboss)
   - [Tomcat](#tomcat)
 
@@ -36,7 +37,6 @@
 - [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/stars/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/last-commit/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/NickJAllen/java-helpers.nvim)
 - [ghaithsassi/nvim-java-cryeator](https://github.com/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/stars/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/last-commit/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/commit-activity/y/ghaithsassi/nvim-java-cryeator)
 - [nhattVim/java-project.nvim](https://github.com/nhattVim/java-project.nvim) ![](https://img.shields.io/github/stars/nhattVim/java-project.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/java-project.nvim)
-- [qumn/mybatis.nvim](https://github.com/qumn/mybatis.nvim) ![](https://img.shields.io/github/stars/qumn/mybatis.nvim) ![](https://img.shields.io/github/last-commit/qumn/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/qumn/mybatis.nvim)
 
 ### package import
 
@@ -100,6 +100,10 @@
 - [brandishcode/springboot-cli.nvim](https://github.com/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/stars/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/springboot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/springboot-cli.nvim)
 - [jkeresman01/spring-initializr.nvim](https://github.com/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/stars/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/spring-initializr.nvim)
 - [Hancho7/spring-properties-lsp.nvim](https://github.com/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/stars/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hancho7/spring-properties-lsp.nvim)
+
+### MyBatis
+
+- [qumn/mybatis.nvim](https://github.com/qumn/mybatis.nvim) ![](https://img.shields.io/github/stars/qumn/mybatis.nvim) ![](https://img.shields.io/github/last-commit/qumn/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/qumn/mybatis.nvim)
 
 ### JBoss
 

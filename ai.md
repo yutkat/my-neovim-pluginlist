@@ -389,6 +389,7 @@
 - [rpmessner/claude-history.nvim](https://github.com/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/stars/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/last-commit/rpmessner/claude-history.nvim) ![](https://img.shields.io/github/commit-activity/y/rpmessner/claude-history.nvim)
 - [bnema/claude-summon.nvim](https://github.com/bnema/claude-summon.nvim) ![](https://img.shields.io/github/stars/bnema/claude-summon.nvim) ![](https://img.shields.io/github/last-commit/bnema/claude-summon.nvim) ![](https://img.shields.io/github/commit-activity/y/bnema/claude-summon.nvim)
 - [evilwaveforms/nvim-claudecode-tmux](https://github.com/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/stars/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/last-commit/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/commit-activity/y/evilwaveforms/nvim-claudecode-tmux)
+- [CaceresCallieri/orchestator.nvim](https://github.com/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/stars/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/last-commit/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/commit-activity/y/CaceresCallieri/orchestator.nvim)
 
 ### Amazon Q
 
@@ -627,7 +628,6 @@
 - [Nkr1shna/truffle.nvim](https://github.com/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/truffle.nvim)
 - [dansomething/ai-pane.nvim](https://github.com/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/stars/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/last-commit/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/dansomething/ai-pane.nvim)
 - [greenarmor/tatacodes.nvim](https://github.com/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/stars/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/last-commit/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/commit-activity/y/greenarmor/tatacodes.nvim)
-- [CaceresCallieri/orchestator.nvim](https://github.com/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/stars/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/last-commit/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/commit-activity/y/CaceresCallieri/orchestator.nvim)
 
 ## Cursor
 
