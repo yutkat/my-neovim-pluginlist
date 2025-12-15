@@ -36,6 +36,7 @@
 - [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/stars/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/last-commit/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/NickJAllen/java-helpers.nvim)
 - [ghaithsassi/nvim-java-cryeator](https://github.com/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/stars/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/last-commit/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/commit-activity/y/ghaithsassi/nvim-java-cryeator)
 - [nhattVim/java-project.nvim](https://github.com/nhattVim/java-project.nvim) ![](https://img.shields.io/github/stars/nhattVim/java-project.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/java-project.nvim)
+- [qumn/mybatis.nvim](https://github.com/qumn/mybatis.nvim) ![](https://img.shields.io/github/stars/qumn/mybatis.nvim) ![](https://img.shields.io/github/last-commit/qumn/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/qumn/mybatis.nvim)
 
 ### package import
 

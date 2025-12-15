@@ -453,6 +453,7 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+- [quadrate-language/quadrate.nvim](https://github.com/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/stars/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/last-commit/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/commit-activity/y/quadrate-language/quadrate.nvim)
 
 ##### Confgen
 
@@ -539,6 +540,7 @@
 
 - [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
 - [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
+- [seokgukim/mlua-debugger.nvim](https://github.com/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua-debugger.nvim)
 
 #### Gno
 
