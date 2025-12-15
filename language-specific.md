@@ -7,6 +7,7 @@
     - [Zig](#zig)
     - [Nix](#nix)
     - [Noir](#noir)
+    - [Lumos](#lumos)
     - [C#](#c%23)
       - [Compile](#compile)
         - [Roslyn](#roslyn)
@@ -17,6 +18,7 @@
     - [Kotlin](#kotlin)
     - [Groovy](#groovy)
       - [detekt](#detekt)
+    - [Galaxy](#galaxy)
     - [Swift](#swift)
       - [SwiftLint](#swiftlint)
     - [Scala](#scala)
@@ -38,6 +40,7 @@
     - [OCaml](#ocaml)
       - [LCaml](#lcaml)
     - [Nim](#nim)
+    - [NetLinx](#netlinx)
     - [Julia](#julia)
     - [R](#r)
     - [Shellscript(bash)](#shellscriptbash)
@@ -52,6 +55,8 @@
     - [Dingo](#dingo)
     - [fortran](#fortran)
     - [DSL](#dsl)
+      - [Quadrate](#quadrate)
+      - [Confgen](#confgen)
       - [DAML](#daml)
     - [DLiteScript](#dlitescript)
     - [Essence](#essence)
@@ -234,7 +239,6 @@
 - [tuliopaim/dotnet-tools.nvim](https://github.com/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dotnet-tools.nvim)
 
 ##### ASP.NET
-
 
 #### Kotlin
 
@@ -454,6 +458,10 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+##### Quadrate
+
+- [quadrate-language/quadrate.nvim](https://github.com/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/stars/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/last-commit/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/commit-activity/y/quadrate-language/quadrate.nvim)
+
 ##### Confgen
 
 - [LordMZTE/confgen.nvim](https://github.com/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/stars/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/last-commit/LordMZTE/confgen.nvim) ![](https://img.shields.io/github/commit-activity/y/LordMZTE/confgen.nvim)
@@ -539,6 +547,7 @@
 
 - [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
 - [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
+- [seokgukim/mlua-debugger.nvim](https://github.com/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua-debugger.nvim)
 
 #### Gno
 
@@ -611,7 +620,6 @@
 
 #### NWScript
 
-
 #### Janet
 
 - [alexalemi/judge.nvim](https://github.com/alexalemi/judge.nvim) ![](https://img.shields.io/github/stars/alexalemi/judge.nvim) ![](https://img.shields.io/github/last-commit/alexalemi/judge.nvim) ![](https://img.shields.io/github/commit-activity/y/alexalemi/judge.nvim)
@@ -641,9 +649,7 @@
 
 #### Boxlang
 
-
 #### CFML
-
 
 #### Zed
 
