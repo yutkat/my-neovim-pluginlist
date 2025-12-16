@@ -116,7 +116,6 @@
 - [L-P-Lewis/py-snippets.nvim](https://github.com/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/stars/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/last-commit/L-P-Lewis/py-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/L-P-Lewis/py-snippets.nvim)
 - [swickrotation/nvimpy.nvim](https://github.com/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/stars/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/last-commit/swickrotation/nvimpy.nvim) ![](https://img.shields.io/github/commit-activity/y/swickrotation/nvimpy.nvim)
 - [Kabilan108/pyrepl.nvim](https://github.com/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/stars/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/last-commit/Kabilan108/pyrepl.nvim) ![](https://img.shields.io/github/commit-activity/y/Kabilan108/pyrepl.nvim)
-- [nd70/axiom.nvim](https://github.com/nd70/axiom.nvim) ![](https://img.shields.io/github/stars/nd70/axiom.nvim) ![](https://img.shields.io/github/last-commit/nd70/axiom.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/axiom.nvim)
 
 ### Debug
 
