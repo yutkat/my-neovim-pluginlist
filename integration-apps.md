@@ -169,6 +169,7 @@
 
 - [samsze0/tui.nvim](https://github.com/samsze0/tui.nvim) ![](https://img.shields.io/github/stars/samsze0/tui.nvim) ![](https://img.shields.io/github/last-commit/samsze0/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/tui.nvim)
 - [ezechukwu69/tui.nvim](https://github.com/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/tui.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/tui.nvim)
+- [MirianElena/nvim-external-tui](https://github.com/MirianElena/nvim-external-tui) ![](https://img.shields.io/github/stars/MirianElena/nvim-external-tui) ![](https://img.shields.io/github/last-commit/MirianElena/nvim-external-tui) ![](https://img.shields.io/github/commit-activity/y/MirianElena/nvim-external-tui)
 
 ### Terminal
 

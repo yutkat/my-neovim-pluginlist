@@ -53,6 +53,7 @@
 - [josa42/nvim-snippets](https://github.com/josa42/nvim-snippets) ![](https://img.shields.io/github/stars/josa42/nvim-snippets) ![](https://img.shields.io/github/last-commit/josa42/nvim-snippets) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-snippets)
 - [Sanix-Darker/snips.nvim](https://github.com/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/stars/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/last-commit/Sanix-Darker/snips.nvim) ![](https://img.shields.io/github/commit-activity/y/Sanix-Darker/snips.nvim)
 - [One-In-Dark/luasnippy.nvim](https://github.com/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/stars/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/last-commit/One-In-Dark/luasnippy.nvim) ![](https://img.shields.io/github/commit-activity/y/One-In-Dark/luasnippy.nvim)
+- [simaxme/java-snippets.nvim](https://github.com/simaxme/java-snippets.nvim) ![](https://img.shields.io/github/stars/simaxme/java-snippets.nvim) ![](https://img.shields.io/github/last-commit/simaxme/java-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/simaxme/java-snippets.nvim)
 - [WayneYam/note_taking_snippets.nvim](https://github.com/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/stars/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/last-commit/WayneYam/note_taking_snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/WayneYam/note_taking_snippets.nvim)
 
 #### Snippet converter

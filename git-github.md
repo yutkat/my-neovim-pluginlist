@@ -180,6 +180,7 @@
 - [kboshold/smart-commit.nvim](https://github.com/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/stars/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kboshold/smart-commit.nvim)
 - [elliotekj/claude-commit.nvim](https://github.com/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/stars/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/last-commit/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotekj/claude-commit.nvim)
 - [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
+- [ryancraigdavis/AutoCommitMessage.nvim](https://github.com/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/stars/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/last-commit/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/commit-activity/y/ryancraigdavis/AutoCommitMessage.nvim)
 
 #### prefix(conventional-commits)
 
@@ -638,6 +639,7 @@
 - [rsreimer/codeowners.nvim](https://github.com/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/stars/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/last-commit/rsreimer/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/rsreimer/codeowners.nvim)
 - [JonasGavenavicius/codeowners.nvim](https://github.com/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/stars/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/last-commit/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/JonasGavenavicius/codeowners.nvim)
 - [comatory/gh-co.nvim](https://github.com/comatory/gh-co.nvim) ![](https://img.shields.io/github/stars/comatory/gh-co.nvim) ![](https://img.shields.io/github/last-commit/comatory/gh-co.nvim) ![](https://img.shields.io/github/commit-activity/y/comatory/gh-co.nvim)
+- [vzsky/gitlab-codeowners.nvim](https://github.com/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/stars/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/last-commit/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/vzsky/gitlab-codeowners.nvim)
 
 ## GitLab
 

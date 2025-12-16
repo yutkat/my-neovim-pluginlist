@@ -342,6 +342,7 @@
 - [synic/refactorex.nvim](https://github.com/synic/refactorex.nvim) ![](https://img.shields.io/github/stars/synic/refactorex.nvim) ![](https://img.shields.io/github/last-commit/synic/refactorex.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/refactorex.nvim)
 - [jowi-dev/nvim-context-panel](https://github.com/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/stars/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/last-commit/jowi-dev/nvim-context-panel) ![](https://img.shields.io/github/commit-activity/y/jowi-dev/nvim-context-panel)
 - [renews/hexcheck.nvim](https://github.com/renews/hexcheck.nvim) ![](https://img.shields.io/github/stars/renews/hexcheck.nvim) ![](https://img.shields.io/github/last-commit/renews/hexcheck.nvim) ![](https://img.shields.io/github/commit-activity/y/renews/hexcheck.nvim)
+- [aerosol/nvim-exunit](https://github.com/aerosol/nvim-exunit) ![](https://img.shields.io/github/stars/aerosol/nvim-exunit) ![](https://img.shields.io/github/last-commit/aerosol/nvim-exunit) ![](https://img.shields.io/github/commit-activity/y/aerosol/nvim-exunit)
 
 ##### REPL
 
