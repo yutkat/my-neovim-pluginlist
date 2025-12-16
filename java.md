@@ -45,7 +45,6 @@
 
 ### rename
 
-- [simaxme/java-rename.nvim](https://github.com/simaxme/java-rename.nvim) ![](https://img.shields.io/github/stars/simaxme/java-rename.nvim) ![](https://img.shields.io/github/last-commit/simaxme/java-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/simaxme/java-rename.nvim)
 
 ### method
 
