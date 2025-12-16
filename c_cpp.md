@@ -166,6 +166,7 @@
 - [thefoxery/cmake.nvim](https://github.com/thefoxery/cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/cmake.nvim)
 - [thefoxery/telescope-cmake.nvim](https://github.com/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/telescope-cmake.nvim)
 - [thefoxery/lualine-cmake.nvim](https://github.com/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/lualine-cmake.nvim)
+- [mbfoss/loop-cmake.nvim](https://github.com/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-cmake.nvim)
 
 ### Library Manager
 

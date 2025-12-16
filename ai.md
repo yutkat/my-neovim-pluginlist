@@ -356,6 +356,7 @@
 - [S1M0N38/ccusage.nvim](https://github.com/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/stars/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/ccusage.nvim)
 - [charliesabino/backseat.nvim](https://github.com/charliesabino/backseat.nvim) ![](https://img.shields.io/github/stars/charliesabino/backseat.nvim) ![](https://img.shields.io/github/last-commit/charliesabino/backseat.nvim) ![](https://img.shields.io/github/commit-activity/y/charliesabino/backseat.nvim)
 - [wadwax/claude-pane.nvim](https://github.com/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/stars/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/last-commit/wadwax/claude-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/wadwax/claude-pane.nvim)
+- [aorwall/claude-commands.nvim](https://github.com/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/stars/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/last-commit/aorwall/claude-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/aorwall/claude-commands.nvim)
 - [thrawny/violet.nvim](https://github.com/thrawny/violet.nvim) ![](https://img.shields.io/github/stars/thrawny/violet.nvim) ![](https://img.shields.io/github/last-commit/thrawny/violet.nvim) ![](https://img.shields.io/github/commit-activity/y/thrawny/violet.nvim)
 
 ### Claude Code
