@@ -180,7 +180,6 @@
 - [kboshold/smart-commit.nvim](https://github.com/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/stars/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kboshold/smart-commit.nvim)
 - [elliotekj/claude-commit.nvim](https://github.com/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/stars/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/last-commit/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotekj/claude-commit.nvim)
 - [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
-- [ryancraigdavis/AutoCommitMessage.nvim](https://github.com/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/stars/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/last-commit/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/commit-activity/y/ryancraigdavis/AutoCommitMessage.nvim)
 
 #### prefix(conventional-commits)
 
@@ -220,6 +219,7 @@
 - [aweis89/ai-commit-msg.nvim](https://github.com/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/stars/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/last-commit/aweis89/ai-commit-msg.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/ai-commit-msg.nvim)
 - [404pilo/aicommits.nvim](https://github.com/404pilo/aicommits.nvim) ![](https://img.shields.io/github/stars/404pilo/aicommits.nvim) ![](https://img.shields.io/github/last-commit/404pilo/aicommits.nvim) ![](https://img.shields.io/github/commit-activity/y/404pilo/aicommits.nvim)
 - [kevinliao852/smart-commit.nvim](https://github.com/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/stars/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinliao852/smart-commit.nvim)
+- [ryancraigdavis/AutoCommitMessage.nvim](https://github.com/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/stars/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/last-commit/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/commit-activity/y/ryancraigdavis/AutoCommitMessage.nvim)
 
 ### git fetch
 
