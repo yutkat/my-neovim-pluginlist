@@ -107,7 +107,6 @@
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)
 - [sajjathossain/nvim-monorepos](https://github.com/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/stars/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-monorepos)
 - [Akshay-Vs/monorepo.nvim](https://github.com/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/stars/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/last-commit/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/Akshay-Vs/monorepo.nvim)
-- [sQVe/monava.nvim](https://github.com/sQVe/monava.nvim) ![](https://img.shields.io/github/stars/sQVe/monava.nvim) ![](https://img.shields.io/github/last-commit/sQVe/monava.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/monava.nvim)
 
 ### Project Local Config
 
@@ -138,4 +137,3 @@
 - [NTBBloodbath/cheovim](https://github.com/NTBBloodbath/cheovim) ![](https://img.shields.io/github/stars/NTBBloodbath/cheovim) ![](https://img.shields.io/github/last-commit/NTBBloodbath/cheovim) ![](https://img.shields.io/github/commit-activity/y/NTBBloodbath/cheovim)
 - [smolovk/projector.nvim](https://github.com/smolovk/projector.nvim) ![](https://img.shields.io/github/stars/smolovk/projector.nvim) ![](https://img.shields.io/github/last-commit/smolovk/projector.nvim) ![](https://img.shields.io/github/commit-activity/y/smolovk/projector.nvim)
 - [saccarosium/projectconf.nvim](https://github.com/saccarosium/projectconf.nvim) ![](https://img.shields.io/github/stars/saccarosium/projectconf.nvim) ![](https://img.shields.io/github/last-commit/saccarosium/projectconf.nvim) ![](https://img.shields.io/github/commit-activity/y/saccarosium/projectconf.nvim)
-- [percy-raskova/project-profiles.nvim](https://github.com/percy-raskova/project-profiles.nvim) ![](https://img.shields.io/github/stars/percy-raskova/project-profiles.nvim) ![](https://img.shields.io/github/last-commit/percy-raskova/project-profiles.nvim) ![](https://img.shields.io/github/commit-activity/y/percy-raskova/project-profiles.nvim)
