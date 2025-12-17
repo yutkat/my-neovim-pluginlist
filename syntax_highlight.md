@@ -106,7 +106,6 @@
 - [ImmanuelHaffner/pigmentor.nvim](https://github.com/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/pigmentor.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/pigmentor.nvim)
 - [0xJWLabs/highlight-colors.nvim](https://github.com/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/stars/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/last-commit/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJWLabs/highlight-colors.nvim)
 - [Godswill-255/colorviewer.nvim](https://github.com/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/stars/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/last-commit/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Godswill-255/colorviewer.nvim)
-- [geo-afk/colorhint.nvim](https://github.com/geo-afk/colorhint.nvim) ![](https://img.shields.io/github/stars/geo-afk/colorhint.nvim) ![](https://img.shields.io/github/last-commit/geo-afk/colorhint.nvim) ![](https://img.shields.io/github/commit-activity/y/geo-afk/colorhint.nvim)
 - [aki-masaki/nvim-virtual-colors](https://github.com/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/stars/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/last-commit/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/commit-activity/y/aki-masaki/nvim-virtual-colors)
 
 ### Color picker
