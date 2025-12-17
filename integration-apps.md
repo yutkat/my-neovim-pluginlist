@@ -29,6 +29,7 @@
     - [WezTerm](#wezterm)
     - [Ghostty](#ghostty)
     - [Windows Terminal](#windows-terminal)
+    - [ZTerm](#zterm)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -209,6 +210,10 @@
 #### Windows Terminal
 
 - [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
+
+#### ZTerm
+
+- [Zacharias-Brohn/zterm-navigator.nvim](https://github.com/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/stars/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/last-commit/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Zacharias-Brohn/zterm-navigator.nvim)
 
 ### Infra
 

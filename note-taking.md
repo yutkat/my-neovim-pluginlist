@@ -29,6 +29,7 @@
   - [Scratch Buffer](#scratch-buffer)
   - [inline note](#inline-note)
   - [Anki](#anki)
+  - [Flashcards](#flashcards)
   - [Clickup](#clickup)
   - [TIL(Today I Learned)](#tiltoday-i-learned)
   - [etc](#etc)
@@ -384,6 +385,7 @@
 - [diegoortizmatajira/workspace-scratch-files.nvim](https://github.com/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/workspace-scratch-files.nvim)
 - [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
 - [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
+- [nack098/nvim-note](https://github.com/nack098/nvim-note) ![](https://img.shields.io/github/stars/nack098/nvim-note) ![](https://img.shields.io/github/last-commit/nack098/nvim-note) ![](https://img.shields.io/github/commit-activity/y/nack098/nvim-note)
 
 ### inline note
 
@@ -400,6 +402,10 @@
 - [Zhuxy/ankitui.nvim](https://github.com/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/stars/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/last-commit/Zhuxy/ankitui.nvim) ![](https://img.shields.io/github/commit-activity/y/Zhuxy/ankitui.nvim)
 - [0fflineuser/anki.nvim](https://github.com/0fflineuser/anki.nvim) ![](https://img.shields.io/github/stars/0fflineuser/anki.nvim) ![](https://img.shields.io/github/last-commit/0fflineuser/anki.nvim) ![](https://img.shields.io/github/commit-activity/y/0fflineuser/anki.nvim)
 - [limaon/anki-editor.nvim](https://github.com/limaon/anki-editor.nvim) ![](https://img.shields.io/github/stars/limaon/anki-editor.nvim) ![](https://img.shields.io/github/last-commit/limaon/anki-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/limaon/anki-editor.nvim)
+
+### Flashcards
+
+- [yo-reign/nvim-flashcards](https://github.com/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/stars/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/last-commit/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/commit-activity/y/yo-reign/nvim-flashcards)
 
 ### Clickup
 

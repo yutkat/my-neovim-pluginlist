@@ -150,6 +150,7 @@
 #### Window Manager
 
 - [brandoncc/window-management.nvim](https://github.com/brandoncc/window-management.nvim) ![](https://img.shields.io/github/stars/brandoncc/window-management.nvim) ![](https://img.shields.io/github/last-commit/brandoncc/window-management.nvim) ![](https://img.shields.io/github/commit-activity/y/brandoncc/window-management.nvim)
+- [coxley/aerospace-focus.nvim](https://github.com/coxley/aerospace-focus.nvim) ![](https://img.shields.io/github/stars/coxley/aerospace-focus.nvim) ![](https://img.shields.io/github/last-commit/coxley/aerospace-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/coxley/aerospace-focus.nvim)
 
 #### iTerm
 
