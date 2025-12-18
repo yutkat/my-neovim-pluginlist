@@ -35,6 +35,7 @@
 - [SaifOmar/quick-db.nvim](https://github.com/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/stars/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/last-commit/SaifOmar/quick-db.nvim) ![](https://img.shields.io/github/commit-activity/y/SaifOmar/quick-db.nvim)
 - [vinvolve/data-preview.nvim](https://github.com/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/stars/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/data-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/data-preview.nvim)
 - [mrqwer/nvim-schema-surfer](https://github.com/mrqwer/nvim-schema-surfer) ![](https://img.shields.io/github/stars/mrqwer/nvim-schema-surfer) ![](https://img.shields.io/github/last-commit/mrqwer/nvim-schema-surfer) ![](https://img.shields.io/github/commit-activity/y/mrqwer/nvim-schema-surfer)
+- [csmhowitzer/enhance.nvim](https://github.com/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/enhance.nvim)
 
 ### SQL
 

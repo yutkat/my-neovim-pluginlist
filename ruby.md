@@ -53,6 +53,7 @@
 ### Gem
 
 - [jeffrydegrande/bundler-info.nvim](https://github.com/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/stars/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/last-commit/jeffrydegrande/bundler-info.nvim) ![](https://img.shields.io/github/commit-activity/y/jeffrydegrande/bundler-info.nvim)
+- [cosmicbuffalo/gem_install.nvim](https://github.com/cosmicbuffalo/gem_install.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/gem_install.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/gem_install.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/gem_install.nvim)
 
 ### Rails
 

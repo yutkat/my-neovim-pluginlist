@@ -127,6 +127,7 @@
 
 - [fabridamicelli/cronex.nvim](https://github.com/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/stars/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/last-commit/fabridamicelli/cronex.nvim) ![](https://img.shields.io/github/commit-activity/y/fabridamicelli/cronex.nvim)
 - [FromWau/cronwhisper.nvim](https://github.com/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/stars/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/last-commit/FromWau/cronwhisper.nvim) ![](https://img.shields.io/github/commit-activity/y/FromWau/cronwhisper.nvim)
+- [CrixuAMG/cron-readable.nvim](https://github.com/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/cron-readable.nvim)
 
 ### Drools Rule Language
 

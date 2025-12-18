@@ -59,6 +59,7 @@
 - [retran/meow.yarn.nvim](https://github.com/retran/meow.yarn.nvim) ![](https://img.shields.io/github/stars/retran/meow.yarn.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.yarn.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.yarn.nvim)
 - [gosvig123/nvim-codebase-mindmap](https://github.com/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/stars/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/last-commit/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/commit-activity/y/gosvig123/nvim-codebase-mindmap)
 - [BerniSc/calltrace.nvim](https://github.com/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/stars/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/calltrace.nvim)
+- [shabaraba/who-called.nvim](https://github.com/shabaraba/who-called.nvim) ![](https://img.shields.io/github/stars/shabaraba/who-called.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/who-called.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/who-called.nvim)
 
 ## Type Hierarchy
 
