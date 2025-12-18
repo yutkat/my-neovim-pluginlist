@@ -305,6 +305,7 @@
 - [AndrewMead10/git-diff-viewer.nvim](https://github.com/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/git-diff-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/git-diff-viewer.nvim)
 - [jssee/chchchanges.nvim](https://github.com/jssee/chchchanges.nvim) ![](https://img.shields.io/github/stars/jssee/chchchanges.nvim) ![](https://img.shields.io/github/last-commit/jssee/chchchanges.nvim) ![](https://img.shields.io/github/commit-activity/y/jssee/chchchanges.nvim)
 - [mb6611/inline-deleted.nvim](https://github.com/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/stars/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/last-commit/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/commit-activity/y/mb6611/inline-deleted.nvim)
+- [Morass/history-git-diff.nvim](https://github.com/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/stars/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/last-commit/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/history-git-diff.nvim)
 
 #### image diff
 

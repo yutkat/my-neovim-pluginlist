@@ -89,6 +89,7 @@
 - [nvimdev/3danimation.nvim](https://github.com/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/stars/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/3danimation.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/3danimation.nvim)
 - [rawrrawrpurpledinosaur/brainrot.nvim](https://github.com/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/stars/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/last-commit/rawrrawrpurpledinosaur/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/rawrrawrpurpledinosaur/brainrot.nvim)
 - [The-Silent-One/mpv.nvim](https://github.com/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/stars/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/last-commit/The-Silent-One/mpv.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Silent-One/mpv.nvim)
+- [tato123/celebrate.nvim](https://github.com/tato123/celebrate.nvim) ![](https://img.shields.io/github/stars/tato123/celebrate.nvim) ![](https://img.shields.io/github/last-commit/tato123/celebrate.nvim) ![](https://img.shields.io/github/commit-activity/y/tato123/celebrate.nvim)
 
 #### Screen Recording
 

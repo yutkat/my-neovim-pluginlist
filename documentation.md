@@ -191,6 +191,7 @@
 - [ducks/mdpreview.nvim](https://github.com/ducks/mdpreview.nvim) ![](https://img.shields.io/github/stars/ducks/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/ducks/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/ducks/mdpreview.nvim)
 - [babarot/markdown-preview.nvim](https://github.com/babarot/markdown-preview.nvim) ![](https://img.shields.io/github/stars/babarot/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/babarot/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/babarot/markdown-preview.nvim)
 - [tkolleh/marked-preview.nvim](https://github.com/tkolleh/marked-preview.nvim) ![](https://img.shields.io/github/stars/tkolleh/marked-preview.nvim) ![](https://img.shields.io/github/last-commit/tkolleh/marked-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/tkolleh/marked-preview.nvim)
+- [dpi0/moo.nvim](https://github.com/dpi0/moo.nvim) ![](https://img.shields.io/github/stars/dpi0/moo.nvim) ![](https://img.shields.io/github/last-commit/dpi0/moo.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/moo.nvim)
 
 ##### Node
 

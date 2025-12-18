@@ -106,6 +106,8 @@
 - [2happy42/floa-term.nvim](https://github.com/2happy42/floa-term.nvim) ![](https://img.shields.io/github/stars/2happy42/floa-term.nvim) ![](https://img.shields.io/github/last-commit/2happy42/floa-term.nvim) ![](https://img.shields.io/github/commit-activity/y/2happy42/floa-term.nvim)
 - [datsfilipe/console.nvim](https://github.com/datsfilipe/console.nvim) ![](https://img.shields.io/github/stars/datsfilipe/console.nvim) ![](https://img.shields.io/github/last-commit/datsfilipe/console.nvim) ![](https://img.shields.io/github/commit-activity/y/datsfilipe/console.nvim)
 - [genzade/ftm.nvim](https://github.com/genzade/ftm.nvim) ![](https://img.shields.io/github/stars/genzade/ftm.nvim) ![](https://img.shields.io/github/last-commit/genzade/ftm.nvim) ![](https://img.shields.io/github/commit-activity/y/genzade/ftm.nvim)
+- [BioStumpf/ToggleTerminal.nvim](https://github.com/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/stars/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/last-commit/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/commit-activity/y/BioStumpf/ToggleTerminal.nvim)
+- [gitsang/trzsz.nvim](https://github.com/gitsang/trzsz.nvim) ![](https://img.shields.io/github/stars/gitsang/trzsz.nvim) ![](https://img.shields.io/github/last-commit/gitsang/trzsz.nvim) ![](https://img.shields.io/github/commit-activity/y/gitsang/trzsz.nvim)
 
 ### Open
 

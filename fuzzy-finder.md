@@ -4,6 +4,7 @@
 
 - [FuzzyFinder](#fuzzyfinder)
   - [Telescope Extensions](#telescope-extensions)
+    - [Picker](#picker)
     - [Customize Build-in Picker](#customize-build-in-picker)
     - [Sorter](#sorter)
     - [Action](#action)
@@ -58,6 +59,10 @@
 - [anoopkcn/fuzzy.nvim](https://github.com/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/stars/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/fuzzy.nvim)
 
 ### Telescope Extensions
+
+#### Picker
+
+- [alps2006/telescope-shell-history.nvim](https://github.com/alps2006/telescope-shell-history.nvim) ![](https://img.shields.io/github/stars/alps2006/telescope-shell-history.nvim) ![](https://img.shields.io/github/last-commit/alps2006/telescope-shell-history.nvim) ![](https://img.shields.io/github/commit-activity/y/alps2006/telescope-shell-history.nvim)
 
 #### Customize Build-in Picker
 
