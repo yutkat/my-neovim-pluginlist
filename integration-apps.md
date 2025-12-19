@@ -331,6 +331,7 @@
 - [jawee/azuredo.nvim](https://github.com/jawee/azuredo.nvim) ![](https://img.shields.io/github/stars/jawee/azuredo.nvim) ![](https://img.shields.io/github/last-commit/jawee/azuredo.nvim) ![](https://img.shields.io/github/commit-activity/y/jawee/azuredo.nvim)
 - [edwinboon/azure.nvim](https://github.com/edwinboon/azure.nvim) ![](https://img.shields.io/github/stars/edwinboon/azure.nvim) ![](https://img.shields.io/github/last-commit/edwinboon/azure.nvim) ![](https://img.shields.io/github/commit-activity/y/edwinboon/azure.nvim)
 - [ChristofferNissen/azure-pipelines.nvim](https://github.com/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/stars/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/last-commit/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristofferNissen/azure-pipelines.nvim)
+- [Wotee/adoboards.nvim](https://github.com/Wotee/adoboards.nvim) ![](https://img.shields.io/github/stars/Wotee/adoboards.nvim) ![](https://img.shields.io/github/last-commit/Wotee/adoboards.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/adoboards.nvim)
 
 #### Adobe
 
@@ -427,6 +428,7 @@
 - [sing-kuro/ime.nvim](https://github.com/sing-kuro/ime.nvim) ![](https://img.shields.io/github/stars/sing-kuro/ime.nvim) ![](https://img.shields.io/github/last-commit/sing-kuro/ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sing-kuro/ime.nvim)
 - [pk-hash/smart-im.nvim](https://github.com/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/stars/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/smart-im.nvim)
 - [seokgukim/vawi.nvim](https://github.com/seokgukim/vawi.nvim) ![](https://img.shields.io/github/stars/seokgukim/vawi.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/vawi.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/vawi.nvim)
+- [wsdjeg/smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/stars/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/smart-ime.nvim)
 
 #### Fcitx
 
