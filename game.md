@@ -48,6 +48,7 @@
 - [morre95/learning_game.nvim](https://github.com/morre95/learning_game.nvim) ![](https://img.shields.io/github/stars/morre95/learning_game.nvim) ![](https://img.shields.io/github/last-commit/morre95/learning_game.nvim) ![](https://img.shields.io/github/commit-activity/y/morre95/learning_game.nvim)
 - [piersolenski/skifree.nvim](https://github.com/piersolenski/skifree.nvim) ![](https://img.shields.io/github/stars/piersolenski/skifree.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/skifree.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/skifree.nvim)
 - [ALLLLLL703/minecraft-dev.nvim](https://github.com/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/minecraft-dev.nvim)
+- [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
 
 ### Snake
 
