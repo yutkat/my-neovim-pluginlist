@@ -254,6 +254,7 @@
 - [m-jovan/telescope-pnpm-workspace.nvim](https://github.com/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/stars/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/last-commit/m-jovan/telescope-pnpm-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/m-jovan/telescope-pnpm-workspace.nvim)
 - [ryoppippi/nvim-pnpm-catalog-lens](https://github.com/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/stars/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-pnpm-catalog-lens) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-pnpm-catalog-lens)
 - [CaseyMichael/telescope-pnpm-monorepo.nvim](https://github.com/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/stars/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/last-commit/CaseyMichael/telescope-pnpm-monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/CaseyMichael/telescope-pnpm-monorepo.nvim)
+- [andromediano/pnpm-catalog-info.nvim](https://github.com/andromediano/pnpm-catalog-info.nvim) ![](https://img.shields.io/github/stars/andromediano/pnpm-catalog-info.nvim) ![](https://img.shields.io/github/last-commit/andromediano/pnpm-catalog-info.nvim) ![](https://img.shields.io/github/commit-activity/y/andromediano/pnpm-catalog-info.nvim)
 
 #### Biome
 

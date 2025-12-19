@@ -41,6 +41,7 @@
 - [gh-liu/nvim-stevedore](https://github.com/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/stars/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-stevedore) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-stevedore)
 - [vito-c/nvim-icat](https://github.com/vito-c/nvim-icat) ![](https://img.shields.io/github/stars/vito-c/nvim-icat) ![](https://img.shields.io/github/last-commit/vito-c/nvim-icat) ![](https://img.shields.io/github/commit-activity/y/vito-c/nvim-icat)
 - [Morass/picture-scatch.nvim](https://github.com/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/stars/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/last-commit/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/picture-scatch.nvim)
+- [hmdfrds/focal.nvim](https://github.com/hmdfrds/focal.nvim) ![](https://img.shields.io/github/stars/hmdfrds/focal.nvim) ![](https://img.shields.io/github/last-commit/hmdfrds/focal.nvim) ![](https://img.shields.io/github/commit-activity/y/hmdfrds/focal.nvim)
 
 ### Image Magick
 

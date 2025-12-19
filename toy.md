@@ -210,6 +210,8 @@
 
 ### Sports
 
+- [StephenCole19/nvim-scoreboard](https://github.com/StephenCole19/nvim-scoreboard) ![](https://img.shields.io/github/stars/StephenCole19/nvim-scoreboard) ![](https://img.shields.io/github/last-commit/StephenCole19/nvim-scoreboard) ![](https://img.shields.io/github/commit-activity/y/StephenCole19/nvim-scoreboard)
+
 #### NHL
 
 - [mgrin212/nhl.nvim](https://github.com/mgrin212/nhl.nvim) ![](https://img.shields.io/github/stars/mgrin212/nhl.nvim) ![](https://img.shields.io/github/last-commit/mgrin212/nhl.nvim) ![](https://img.shields.io/github/commit-activity/y/mgrin212/nhl.nvim)

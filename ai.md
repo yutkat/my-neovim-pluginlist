@@ -608,6 +608,7 @@
 - [mikeoz32/nvim-agent](https://github.com/mikeoz32/nvim-agent) ![](https://img.shields.io/github/stars/mikeoz32/nvim-agent) ![](https://img.shields.io/github/last-commit/mikeoz32/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/mikeoz32/nvim-agent)
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-algms/agentic.nvim)
 - [swmcc/agentic.nvim](https://github.com/swmcc/agentic.nvim) ![](https://img.shields.io/github/stars/swmcc/agentic.nvim) ![](https://img.shields.io/github/last-commit/swmcc/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/swmcc/agentic.nvim)
+- [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) ![](https://img.shields.io/github/stars/shabaraba/vibing.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/vibing.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/vibing.nvim)
 
 ### Amp
 
@@ -731,6 +732,7 @@
 ## LLM context
 
 - [SDGLBL/context-groups.nvim](https://github.com/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/stars/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/context-groups.nvim)
+- [mrilikecoding/clawmarks.nvim](https://github.com/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/stars/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/last-commit/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/mrilikecoding/clawmarks.nvim)
 
 ## RAG
 

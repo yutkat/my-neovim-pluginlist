@@ -133,6 +133,7 @@
 - [CaiJinKen/toolkit.nvim](https://github.com/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/stars/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/last-commit/CaiJinKen/toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/CaiJinKen/toolkit.nvim)
 - [uga-rosa/convert_json_to_go_type.nvim](https://github.com/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/stars/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/last-commit/uga-rosa/convert_json_to_go_type.nvim) ![](https://img.shields.io/github/commit-activity/y/uga-rosa/convert_json_to_go_type.nvim)
 - [romus204/go-tagger.nvim](https://github.com/romus204/go-tagger.nvim) ![](https://img.shields.io/github/stars/romus204/go-tagger.nvim) ![](https://img.shields.io/github/last-commit/romus204/go-tagger.nvim) ![](https://img.shields.io/github/commit-activity/y/romus204/go-tagger.nvim)
+- [gostructs/gostructs.nvim](https://github.com/gostructs/gostructs.nvim) ![](https://img.shields.io/github/stars/gostructs/gostructs.nvim) ![](https://img.shields.io/github/last-commit/gostructs/gostructs.nvim) ![](https://img.shields.io/github/commit-activity/y/gostructs/gostructs.nvim)
 
 ### memory
 
