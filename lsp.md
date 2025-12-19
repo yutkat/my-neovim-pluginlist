@@ -215,6 +215,7 @@
 - [sim-maz/show-type.nvim](https://github.com/sim-maz/show-type.nvim) ![](https://img.shields.io/github/stars/sim-maz/show-type.nvim) ![](https://img.shields.io/github/last-commit/sim-maz/show-type.nvim) ![](https://img.shields.io/github/commit-activity/y/sim-maz/show-type.nvim)
 - [AbysmalBiscuit/insert-inlay-hints.nvim](https://github.com/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/stars/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/AbysmalBiscuit/insert-inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/AbysmalBiscuit/insert-inlay-hints.nvim)
 - [Ray-D-Song/inlay-hint-trim.nvim](https://github.com/Ray-D-Song/inlay-hint-trim.nvim) ![](https://img.shields.io/github/stars/Ray-D-Song/inlay-hint-trim.nvim) ![](https://img.shields.io/github/last-commit/Ray-D-Song/inlay-hint-trim.nvim) ![](https://img.shields.io/github/commit-activity/y/Ray-D-Song/inlay-hint-trim.nvim)
+- [MysticalDevil/inlay-hints.nvim](https://github.com/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/stars/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/last-commit/MysticalDevil/inlay-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/MysticalDevil/inlay-hints.nvim)
 
 #### Hover Doc
 
