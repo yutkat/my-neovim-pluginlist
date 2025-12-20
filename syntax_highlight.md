@@ -188,6 +188,7 @@
 - [flashcodes-themayankjha/fkthemes.nvim](https://github.com/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/stars/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/last-commit/flashcodes-themayankjha/fkthemes.nvim) ![](https://img.shields.io/github/commit-activity/y/flashcodes-themayankjha/fkthemes.nvim)
 - [mavantgarderc/raphael.nvim](https://github.com/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/stars/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/last-commit/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/commit-activity/y/mavantgarderc/raphael.nvim)
 - [jkaraskiewicz/colorscheme-picker.nvim](https://github.com/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/colorscheme-picker.nvim)
+- [danhat1020/colorscheme-picker.nvim](https://github.com/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/danhat1020/colorscheme-picker.nvim)
 
 ### Colorscheme overwrite
 
