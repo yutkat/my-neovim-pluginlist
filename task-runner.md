@@ -150,7 +150,6 @@
 - [mr-zorbot/simple-runner.nvim](https://github.com/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/stars/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/last-commit/mr-zorbot/simple-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-zorbot/simple-runner.nvim)
 - [Monster0506/universal_runner.nvim](https://github.com/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/stars/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/last-commit/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Monster0506/universal_runner.nvim)
 - [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
-- [adamascencio/executor.nvim](https://github.com/adamascencio/executor.nvim) ![](https://img.shields.io/github/stars/adamascencio/executor.nvim) ![](https://img.shields.io/github/last-commit/adamascencio/executor.nvim) ![](https://img.shields.io/github/commit-activity/y/adamascencio/executor.nvim)
 
 #### Shell
 
@@ -269,7 +268,6 @@
 
 #### taskr
 
-
 ### Specific runner
 
 - [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/static.nvim)
@@ -290,6 +288,7 @@
 - [devmuu/nvim-run-script](https://github.com/devmuu/nvim-run-script) ![](https://img.shields.io/github/stars/devmuu/nvim-run-script) ![](https://img.shields.io/github/last-commit/devmuu/nvim-run-script) ![](https://img.shields.io/github/commit-activity/y/devmuu/nvim-run-script)
 - [joncrangle/itchy.nvim](https://github.com/joncrangle/itchy.nvim) ![](https://img.shields.io/github/stars/joncrangle/itchy.nvim) ![](https://img.shields.io/github/last-commit/joncrangle/itchy.nvim) ![](https://img.shields.io/github/commit-activity/y/joncrangle/itchy.nvim)
 - [jignesh119/FlashRunner.nvim](https://github.com/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/stars/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/last-commit/jignesh119/FlashRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/jignesh119/FlashRunner.nvim)
+- [adamascencio/executor.nvim](https://github.com/adamascencio/executor.nvim) ![](https://img.shields.io/github/stars/adamascencio/executor.nvim) ![](https://img.shields.io/github/last-commit/adamascencio/executor.nvim) ![](https://img.shields.io/github/commit-activity/y/adamascencio/executor.nvim)
 
 #### Jupyter style
 
