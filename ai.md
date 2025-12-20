@@ -422,6 +422,7 @@
 - [duboisf/chatter.nvim](https://github.com/duboisf/chatter.nvim) ![](https://img.shields.io/github/stars/duboisf/chatter.nvim) ![](https://img.shields.io/github/last-commit/duboisf/chatter.nvim) ![](https://img.shields.io/github/commit-activity/y/duboisf/chatter.nvim)
 - [josh-le/openrouter.nvim](https://github.com/josh-le/openrouter.nvim) ![](https://img.shields.io/github/stars/josh-le/openrouter.nvim) ![](https://img.shields.io/github/last-commit/josh-le/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-le/openrouter.nvim)
 - [schlerp/nohands.nvim](https://github.com/schlerp/nohands.nvim) ![](https://img.shields.io/github/stars/schlerp/nohands.nvim) ![](https://img.shields.io/github/last-commit/schlerp/nohands.nvim) ![](https://img.shields.io/github/commit-activity/y/schlerp/nohands.nvim)
+- [0xInuarashi/openrouter.nvim](https://github.com/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/stars/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/last-commit/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/0xInuarashi/openrouter.nvim)
 
 ### Supermaven
 
