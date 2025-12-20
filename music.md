@@ -49,6 +49,7 @@
 - [joelgwebber/vinyl.nvim](https://github.com/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/stars/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/vinyl.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/vinyl.nvim)
 - [123Untitled/midx.nvim](https://github.com/123Untitled/midx.nvim) ![](https://img.shields.io/github/stars/123Untitled/midx.nvim) ![](https://img.shields.io/github/last-commit/123Untitled/midx.nvim) ![](https://img.shields.io/github/commit-activity/y/123Untitled/midx.nvim)
 - [Ferouk/nowplaying.nvim](https://github.com/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/stars/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/Ferouk/nowplaying.nvim)
+- [ukeSJTU/coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/stars/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/last-commit/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/commit-activity/y/ukeSJTU/coderadio.nvim)
 
 ### sapf
 

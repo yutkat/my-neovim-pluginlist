@@ -46,6 +46,7 @@
   - [Change](#change)
   - [flow](#flow)
   - [Wrapper](#wrapper)
+- [Darcs](#darcs)
 - [Jujutsu(jj)](#jujutsujj)
   - [diff](#diff)
 - [Sage](#sage)
@@ -306,6 +307,8 @@
 - [jssee/chchchanges.nvim](https://github.com/jssee/chchchanges.nvim) ![](https://img.shields.io/github/stars/jssee/chchchanges.nvim) ![](https://img.shields.io/github/last-commit/jssee/chchchanges.nvim) ![](https://img.shields.io/github/commit-activity/y/jssee/chchchanges.nvim)
 - [mb6611/inline-deleted.nvim](https://github.com/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/stars/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/last-commit/mb6611/inline-deleted.nvim) ![](https://img.shields.io/github/commit-activity/y/mb6611/inline-deleted.nvim)
 - [Morass/history-git-diff.nvim](https://github.com/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/stars/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/last-commit/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/history-git-diff.nvim)
+- [ahmedalhulaibi/dirty-review.nvim](https://github.com/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/stars/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/last-commit/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmedalhulaibi/dirty-review.nvim)
+- [pmelab/review.nvim](https://github.com/pmelab/review.nvim) ![](https://img.shields.io/github/stars/pmelab/review.nvim) ![](https://img.shields.io/github/last-commit/pmelab/review.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/review.nvim)
 
 #### image diff
 
@@ -394,6 +397,7 @@
 - [quiet-ghost/git-worktree.nvim](https://github.com/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/stars/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/quiet-ghost/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/quiet-ghost/git-worktree.nvim)
 - [ALPHAvibe/telescope-worktree-vibes.nvim](https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-worktree-vibes.nvim)
 - [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
+- [mitubaEX/branch-workspace.nvim](https://github.com/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/stars/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/branch-workspace.nvim)
 
 ### submodule
 
@@ -438,6 +442,10 @@
 ### Wrapper
 
 - [skeletony007/git-help.nvim](https://github.com/skeletony007/git-help.nvim) ![](https://img.shields.io/github/stars/skeletony007/git-help.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/git-help.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/git-help.nvim)
+
+## Darcs
+
+- [Eiko-Tokura/darcssigns.nvim](https://github.com/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/stars/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/last-commit/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Eiko-Tokura/darcssigns.nvim)
 
 ## Jujutsu(jj)
 
