@@ -459,6 +459,10 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+#### CQL
+
+- [Akzestia/nvim-cql-v2](https://github.com/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/stars/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/last-commit/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/commit-activity/y/Akzestia/nvim-cql-v2)
+
 ##### Quadrate
 
 - [quadrate-language/quadrate.nvim](https://github.com/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/stars/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/last-commit/quadrate-language/quadrate.nvim) ![](https://img.shields.io/github/commit-activity/y/quadrate-language/quadrate.nvim)

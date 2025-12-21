@@ -95,6 +95,7 @@
 - [DuckDood/wpm.nvim](https://github.com/DuckDood/wpm.nvim) ![](https://img.shields.io/github/stars/DuckDood/wpm.nvim) ![](https://img.shields.io/github/last-commit/DuckDood/wpm.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckDood/wpm.nvim)
 - [saltytine/typestats.nvim](https://github.com/saltytine/typestats.nvim) ![](https://img.shields.io/github/stars/saltytine/typestats.nvim) ![](https://img.shields.io/github/last-commit/saltytine/typestats.nvim) ![](https://img.shields.io/github/commit-activity/y/saltytine/typestats.nvim)
 - [slowy07/mywpm.nvim](https://github.com/slowy07/mywpm.nvim) ![](https://img.shields.io/github/stars/slowy07/mywpm.nvim) ![](https://img.shields.io/github/last-commit/slowy07/mywpm.nvim) ![](https://img.shields.io/github/commit-activity/y/slowy07/mywpm.nvim)
+- [casni14/TypeCheck.nvim](https://github.com/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/stars/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/last-commit/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/casni14/TypeCheck.nvim)
 
 ### Writing metrics
 
