@@ -290,7 +290,6 @@
 
 #### status
 
-- [AxerTheAxe/buffer-store.nvim](https://github.com/AxerTheAxe/buffer-store.nvim) ![](https://img.shields.io/github/stars/AxerTheAxe/buffer-store.nvim) ![](https://img.shields.io/github/last-commit/AxerTheAxe/buffer-store.nvim) ![](https://img.shields.io/github/commit-activity/y/AxerTheAxe/buffer-store.nvim)
 
 #### oldfiles
 
