@@ -60,6 +60,7 @@
   - [Amp](#amp)
 - [Chat](#chat)
 - [AI Terminal](#ai-terminal)
+- [ECA](#eca)
 - [Cursor](#cursor)
 - [CodeCompanion](#codecompanion)
   - [GitLab Guo](#gitlab-guo)
@@ -635,6 +636,10 @@
 - [Nkr1shna/truffle.nvim](https://github.com/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/truffle.nvim)
 - [dansomething/ai-pane.nvim](https://github.com/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/stars/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/last-commit/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/dansomething/ai-pane.nvim)
 - [greenarmor/tatacodes.nvim](https://github.com/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/stars/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/last-commit/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/commit-activity/y/greenarmor/tatacodes.nvim)
+
+## ECA
+
+- [editor-code-assistant/eca-nvim](https://github.com/editor-code-assistant/eca-nvim) ![](https://img.shields.io/github/stars/editor-code-assistant/eca-nvim) ![](https://img.shields.io/github/last-commit/editor-code-assistant/eca-nvim) ![](https://img.shields.io/github/commit-activity/y/editor-code-assistant/eca-nvim)
 
 ## Cursor
 
