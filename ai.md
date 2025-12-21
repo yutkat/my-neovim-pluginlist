@@ -627,6 +627,7 @@
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
 - [loom99-public/n00bkeys.nvim](https://github.com/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/stars/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/last-commit/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/loom99-public/n00bkeys.nvim)
+- [jarvoren/ShutItAndAnswer.nvim](https://github.com/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/stars/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/last-commit/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/commit-activity/y/jarvoren/ShutItAndAnswer.nvim)
 
 ## AI Terminal
 
