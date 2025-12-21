@@ -67,9 +67,14 @@
 
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
 
+### Coverage
+
+- [joke1196/duvet.nvim](https://github.com/joke1196/duvet.nvim) ![](https://img.shields.io/github/stars/joke1196/duvet.nvim) ![](https://img.shields.io/github/last-commit/joke1196/duvet.nvim) ![](https://img.shields.io/github/commit-activity/y/joke1196/duvet.nvim)
+
 ### Compile
 
 - [Lairizzle/jrun.nvim](https://github.com/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/jrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/jrun.nvim)
+- [Ronxvier/mocha.nvim](https://github.com/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/stars/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/last-commit/Ronxvier/mocha.nvim) ![](https://img.shields.io/github/commit-activity/y/Ronxvier/mocha.nvim)
 
 ### Refactor / Builder
 

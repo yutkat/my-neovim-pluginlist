@@ -41,6 +41,7 @@
 ### Scan
 
 - [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
+- [johnsaigle/zizmor.nvim](https://github.com/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/stars/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/zizmor.nvim)
 
 ### Security Code Review
 

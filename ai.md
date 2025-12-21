@@ -195,6 +195,7 @@
 - [Clearzero22/gemini-talk.nvim](https://github.com/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/stars/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/last-commit/Clearzero22/gemini-talk.nvim) ![](https://img.shields.io/github/commit-activity/y/Clearzero22/gemini-talk.nvim)
 - [flyingshutter/gemini-autocomplete.nvim](https://github.com/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/stars/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/flyingshutter/gemini-autocomplete.nvim)
 - [takeshy/nvim-gemini-helper](https://github.com/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/stars/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/last-commit/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/commit-activity/y/takeshy/nvim-gemini-helper)
+- [mrf/gemini-code-assist.nvim](https://github.com/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/stars/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/last-commit/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/mrf/gemini-code-assist.nvim)
 
 #### Gemini CLI
 
@@ -610,6 +611,7 @@
 - [carlos-algms/agentic.nvim](https://github.com/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/stars/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/last-commit/carlos-algms/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/carlos-algms/agentic.nvim)
 - [swmcc/agentic.nvim](https://github.com/swmcc/agentic.nvim) ![](https://img.shields.io/github/stars/swmcc/agentic.nvim) ![](https://img.shields.io/github/last-commit/swmcc/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/swmcc/agentic.nvim)
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) ![](https://img.shields.io/github/stars/shabaraba/vibing.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/vibing.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/vibing.nvim)
+- [rykunk21/agent.nvim](https://github.com/rykunk21/agent.nvim) ![](https://img.shields.io/github/stars/rykunk21/agent.nvim) ![](https://img.shields.io/github/last-commit/rykunk21/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/rykunk21/agent.nvim)
 
 ### Amp
 
@@ -625,6 +627,7 @@
 - [tsukimizake/prompt-in-buf.nvim](https://github.com/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/stars/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/last-commit/tsukimizake/prompt-in-buf.nvim) ![](https://img.shields.io/github/commit-activity/y/tsukimizake/prompt-in-buf.nvim)
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
 - [loom99-public/n00bkeys.nvim](https://github.com/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/stars/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/last-commit/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/loom99-public/n00bkeys.nvim)
+- [jarvoren/ShutItAndAnswer.nvim](https://github.com/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/stars/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/last-commit/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/commit-activity/y/jarvoren/ShutItAndAnswer.nvim)
 
 ## AI Terminal
 
@@ -646,6 +649,7 @@
 - [koikonom/nvim-cursor](https://github.com/koikonom/nvim-cursor) ![](https://img.shields.io/github/stars/koikonom/nvim-cursor) ![](https://img.shields.io/github/last-commit/koikonom/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/koikonom/nvim-cursor)
 - [eun2ce/cursoragent.nvim](https://github.com/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/stars/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/last-commit/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/commit-activity/y/eun2ce/cursoragent.nvim)
 - [Sarctiann/cursor-agent.nvim](https://github.com/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cursor-agent.nvim)
+- [nguyenleson-cydas/cursor-agent.nvim](https://github.com/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/stars/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/nguyenleson-cydas/cursor-agent.nvim)
 
 ## CodeCompanion
 
@@ -750,6 +754,7 @@
 - [georgeharker/mcp-diagnostics.nvim](https://github.com/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/stars/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/georgeharker/mcp-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/georgeharker/mcp-diagnostics.nvim)
 - [jkeresman01/synaps.nvim](https://github.com/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/stars/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/synaps.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/synaps.nvim)
 - [DaneliSanche/mcphub.nvim](https://github.com/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/stars/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/last-commit/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/DaneliSanche/mcphub.nvim)
+- [AlessandMonte/mcphub.nvim](https://github.com/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/stars/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/last-commit/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/AlessandMonte/mcphub.nvim)
 
 ### MCP SDK
 

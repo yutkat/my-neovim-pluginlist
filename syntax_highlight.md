@@ -189,6 +189,8 @@
 - [mavantgarderc/raphael.nvim](https://github.com/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/stars/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/last-commit/mavantgarderc/raphael.nvim) ![](https://img.shields.io/github/commit-activity/y/mavantgarderc/raphael.nvim)
 - [jkaraskiewicz/colorscheme-picker.nvim](https://github.com/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/colorscheme-picker.nvim)
 - [danhat1020/colorscheme-picker.nvim](https://github.com/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/stars/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/last-commit/danhat1020/colorscheme-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/danhat1020/colorscheme-picker.nvim)
+- [m4c4r0n1n/theme-switcher.nvim](https://github.com/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/theme-switcher.nvim)
+- [dangho1/theme-switcher.nvim](https://github.com/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/stars/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/dangho1/theme-switcher.nvim)
 
 ### Colorscheme overwrite
 

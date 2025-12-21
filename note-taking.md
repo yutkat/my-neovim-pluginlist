@@ -61,6 +61,7 @@
 - [hamidi-dev/org-telescope.nvim](https://github.com/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-telescope.nvim)
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-super-agenda.nvim)
 - [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/org-social.nvim)
+- [aaratha/org-cycle-lite.nvim](https://github.com/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/stars/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/last-commit/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaratha/org-cycle-lite.nvim)
 
 ### Zettelkasten
 
@@ -117,6 +118,8 @@
 - [clobrano/zournal.nvim](https://github.com/clobrano/zournal.nvim) ![](https://img.shields.io/github/stars/clobrano/zournal.nvim) ![](https://img.shields.io/github/last-commit/clobrano/zournal.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/zournal.nvim)
 - [tednguyendev/dailynote.nvim](https://github.com/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/stars/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/last-commit/tednguyendev/dailynote.nvim) ![](https://img.shields.io/github/commit-activity/y/tednguyendev/dailynote.nvim)
 - [pants721/orca.nvim](https://github.com/pants721/orca.nvim) ![](https://img.shields.io/github/stars/pants721/orca.nvim) ![](https://img.shields.io/github/last-commit/pants721/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/pants721/orca.nvim)
+- [Mazide/today.nvim](https://github.com/Mazide/today.nvim) ![](https://img.shields.io/github/stars/Mazide/today.nvim) ![](https://img.shields.io/github/last-commit/Mazide/today.nvim) ![](https://img.shields.io/github/commit-activity/y/Mazide/today.nvim)
+- [kaka-ruto/notre.nvim](https://github.com/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/stars/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/last-commit/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/notre.nvim)
 
 ### ToDo
 
