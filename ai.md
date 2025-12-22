@@ -654,7 +654,6 @@
 - [koikonom/nvim-cursor](https://github.com/koikonom/nvim-cursor) ![](https://img.shields.io/github/stars/koikonom/nvim-cursor) ![](https://img.shields.io/github/last-commit/koikonom/nvim-cursor) ![](https://img.shields.io/github/commit-activity/y/koikonom/nvim-cursor)
 - [eun2ce/cursoragent.nvim](https://github.com/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/stars/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/last-commit/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/commit-activity/y/eun2ce/cursoragent.nvim)
 - [Sarctiann/cursor-agent.nvim](https://github.com/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cursor-agent.nvim)
-- [nguyenleson-cydas/cursor-agent.nvim](https://github.com/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/stars/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/nguyenleson-cydas/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/nguyenleson-cydas/cursor-agent.nvim)
 
 ## CodeCompanion
 
