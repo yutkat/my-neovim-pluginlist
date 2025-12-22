@@ -110,6 +110,7 @@
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/stars/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/last-commit/m4xshen/hardtime.nvim) ![](https://img.shields.io/github/commit-activity/y/m4xshen/hardtime.nvim)
 - [Weyaaron/nvim-training](https://github.com/Weyaaron/nvim-training) ![](https://img.shields.io/github/stars/Weyaaron/nvim-training) ![](https://img.shields.io/github/last-commit/Weyaaron/nvim-training) ![](https://img.shields.io/github/commit-activity/y/Weyaaron/nvim-training)
 - [Leonardo-Luz/focus.nvim](https://github.com/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/focus.nvim)
+- [leonardollobato/vimcoach.nvim](https://github.com/leonardollobato/vimcoach.nvim) ![](https://img.shields.io/github/stars/leonardollobato/vimcoach.nvim) ![](https://img.shields.io/github/last-commit/leonardollobato/vimcoach.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardollobato/vimcoach.nvim)
 
 ### Turing path
 

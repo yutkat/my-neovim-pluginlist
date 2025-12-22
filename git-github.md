@@ -499,6 +499,7 @@
 - [gitusp/gh-utils.nvim](https://github.com/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/stars/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/last-commit/gitusp/gh-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/gh-utils.nvim)
 - [georgesnoe/lazygithub.nvim](https://github.com/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazygithub.nvim)
 - [e-roux/gh.nvim](https://github.com/e-roux/gh.nvim) ![](https://img.shields.io/github/stars/e-roux/gh.nvim) ![](https://img.shields.io/github/last-commit/e-roux/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/e-roux/gh.nvim)
+- [krshrimali/gh.nvim](https://github.com/krshrimali/gh.nvim) ![](https://img.shields.io/github/stars/krshrimali/gh.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/gh.nvim)
 
 #### Notify
 
