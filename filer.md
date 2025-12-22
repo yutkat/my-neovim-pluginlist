@@ -96,6 +96,7 @@
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
 - [taku25/neo-tree-unl.nvim](https://github.com/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/stars/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/last-commit/taku25/neo-tree-unl.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/neo-tree-unl.nvim)
 - [Olyxz16/triad.nvim](https://github.com/Olyxz16/triad.nvim) ![](https://img.shields.io/github/stars/Olyxz16/triad.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/triad.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/triad.nvim)
+- [dghuuloc/fexptr.nvim](https://github.com/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/stars/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/fexptr.nvim)
 
 ### gx
 

@@ -50,6 +50,7 @@
 - [123Untitled/midx.nvim](https://github.com/123Untitled/midx.nvim) ![](https://img.shields.io/github/stars/123Untitled/midx.nvim) ![](https://img.shields.io/github/last-commit/123Untitled/midx.nvim) ![](https://img.shields.io/github/commit-activity/y/123Untitled/midx.nvim)
 - [Ferouk/nowplaying.nvim](https://github.com/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/stars/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/Ferouk/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/Ferouk/nowplaying.nvim)
 - [ukeSJTU/coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/stars/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/last-commit/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/commit-activity/y/ukeSJTU/coderadio.nvim)
+- [willibrandon/lofi.nvim](https://github.com/willibrandon/lofi.nvim) ![](https://img.shields.io/github/stars/willibrandon/lofi.nvim) ![](https://img.shields.io/github/last-commit/willibrandon/lofi.nvim) ![](https://img.shields.io/github/commit-activity/y/willibrandon/lofi.nvim)
 
 ### sapf
 
