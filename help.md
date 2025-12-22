@@ -56,6 +56,7 @@
 - [mikelue/telescope-cheat.nvim](https://github.com/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/stars/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/last-commit/mikelue/telescope-cheat.nvim) ![](https://img.shields.io/github/commit-activity/y/mikelue/telescope-cheat.nvim)
 - [CleverNamesTaken/pizza_chit.nvim](https://github.com/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/stars/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/last-commit/CleverNamesTaken/pizza_chit.nvim) ![](https://img.shields.io/github/commit-activity/y/CleverNamesTaken/pizza_chit.nvim)
 - [desertthunder/cheatsheet.nvim](https://github.com/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/stars/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/desertthunder/cheatsheet.nvim)
+- [stikypiston/cheaty.nvim](https://github.com/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/stars/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/last-commit/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/commit-activity/y/stikypiston/cheaty.nvim)
 
 ### Tips
 
