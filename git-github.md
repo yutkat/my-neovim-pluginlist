@@ -65,6 +65,7 @@
   - [Link](#link)
   - [Image](#image)
   - [Star](#star)
+  - [Stats](#stats)
   - [grep.app](#grepapp)
   - [Organization](#organization)
   - [CODEOWNERS](#codeowners)
@@ -637,6 +638,10 @@
 ### Star
 
 - [jsongerber/thanks.nvim](https://github.com/jsongerber/thanks.nvim) ![](https://img.shields.io/github/stars/jsongerber/thanks.nvim) ![](https://img.shields.io/github/last-commit/jsongerber/thanks.nvim) ![](https://img.shields.io/github/commit-activity/y/jsongerber/thanks.nvim)
+
+### Stats
+
+- [StefanBartl/github_stats.nvim](https://github.com/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/stars/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/github_stats.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/github_stats.nvim)
 
 ### grep.app
 
