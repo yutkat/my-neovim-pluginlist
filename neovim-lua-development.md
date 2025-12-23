@@ -45,7 +45,6 @@
 - [nvimdev/nvim-plugin-template](https://github.com/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/stars/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/last-commit/nvimdev/nvim-plugin-template) ![](https://img.shields.io/github/commit-activity/y/nvimdev/nvim-plugin-template)
 - [S1M0N38/my-awesome-plugin.nvim](https://github.com/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/stars/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/my-awesome-plugin.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/my-awesome-plugin.nvim)
 - [2kabhishek/template.nvim](https://github.com/2kabhishek/template.nvim) ![](https://img.shields.io/github/stars/2kabhishek/template.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/template.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/template.nvim)
-- [winston0410/thunder.nvim](https://github.com/winston0410/thunder.nvim) ![](https://img.shields.io/github/stars/winston0410/thunder.nvim) ![](https://img.shields.io/github/last-commit/winston0410/thunder.nvim) ![](https://img.shields.io/github/commit-activity/y/winston0410/thunder.nvim)
 
 ### LSP
 
