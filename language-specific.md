@@ -772,6 +772,10 @@
 - [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
 - [calltrace/traverse-lsp.nvim](https://github.com/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/stars/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/last-commit/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/calltrace/traverse-lsp.nvim)
 
+#### Soluna
+
+- [l0wigh/soluna.nvim](https://github.com/l0wigh/soluna.nvim) ![](https://img.shields.io/github/stars/l0wigh/soluna.nvim) ![](https://img.shields.io/github/last-commit/l0wigh/soluna.nvim) ![](https://img.shields.io/github/commit-activity/y/l0wigh/soluna.nvim)
+
 #### Huff
 
 - [mmsaki/huff.nvim](https://github.com/mmsaki/huff.nvim) ![](https://img.shields.io/github/stars/mmsaki/huff.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/huff.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/huff.nvim)

@@ -218,6 +218,7 @@
 - [glouie/jira.nvim](https://github.com/glouie/jira.nvim) ![](https://img.shields.io/github/stars/glouie/jira.nvim) ![](https://img.shields.io/github/last-commit/glouie/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/glouie/jira.nvim)
 - [bartcortooms/task-manager.nvim](https://github.com/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/stars/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/last-commit/bartcortooms/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/bartcortooms/task-manager.nvim)
 - [ZGltYQ/jira-time.nvim](https://github.com/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/stars/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/last-commit/ZGltYQ/jira-time.nvim) ![](https://img.shields.io/github/commit-activity/y/ZGltYQ/jira-time.nvim)
+- [letieu/jira.nvim](https://github.com/letieu/jira.nvim) ![](https://img.shields.io/github/stars/letieu/jira.nvim) ![](https://img.shields.io/github/last-commit/letieu/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/jira.nvim)
 - [l-lin/jira.nvim](https://github.com/l-lin/jira.nvim) ![](https://img.shields.io/github/stars/l-lin/jira.nvim) ![](https://img.shields.io/github/last-commit/l-lin/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/l-lin/jira.nvim)
 
 ### Confluence

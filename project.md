@@ -132,6 +132,7 @@
 - [E-Mud/ptplugin.nvim](https://github.com/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/stars/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/last-commit/E-Mud/ptplugin.nvim) ![](https://img.shields.io/github/commit-activity/y/E-Mud/ptplugin.nvim)
 - [BlankTiger/keeper.nvim](https://github.com/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/stars/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/last-commit/BlankTiger/keeper.nvim) ![](https://img.shields.io/github/commit-activity/y/BlankTiger/keeper.nvim)
 - [mrjones2014/codesettings.nvim](https://github.com/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/stars/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/codesettings.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/codesettings.nvim)
+- [oeshennix/nvim-ONNV-config.nvim](https://github.com/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/stars/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/last-commit/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/commit-activity/y/oeshennix/nvim-ONNV-config.nvim)
 
 ### Config switcher
 
