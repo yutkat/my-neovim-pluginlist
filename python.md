@@ -159,6 +159,7 @@
 
 - [RazorBest/pydoc.nvim](https://github.com/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/stars/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/last-commit/RazorBest/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/RazorBest/pydoc.nvim)
 - [fredrikaverpil/pydoc.nvim](https://github.com/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pydoc.nvim)
+- [aymenhafeez/telescope-pydoc.nvim](https://github.com/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/stars/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/last-commit/aymenhafeez/telescope-pydoc.nvim) ![](https://img.shields.io/github/commit-activity/y/aymenhafeez/telescope-pydoc.nvim)
 
 ### pyenv
 
@@ -289,6 +290,7 @@
 - [Jamsjz/django.nvim](https://github.com/Jamsjz/django.nvim) ![](https://img.shields.io/github/stars/Jamsjz/django.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/django.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/django.nvim)
 - [Jamsjz/djlist.nvim](https://github.com/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/stars/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/last-commit/Jamsjz/djlist.nvim) ![](https://img.shields.io/github/commit-activity/y/Jamsjz/djlist.nvim)
 - [franmacke/djortcuts.nvim](https://github.com/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/stars/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/last-commit/franmacke/djortcuts.nvim) ![](https://img.shields.io/github/commit-activity/y/franmacke/djortcuts.nvim)
+- [mizisu/django.nvim](https://github.com/mizisu/django.nvim) ![](https://img.shields.io/github/stars/mizisu/django.nvim) ![](https://img.shields.io/github/last-commit/mizisu/django.nvim) ![](https://img.shields.io/github/commit-activity/y/mizisu/django.nvim)
 
 ## MicroPython
 

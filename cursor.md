@@ -22,6 +22,7 @@
 - [adelarsq/snake_cursor.nvim](https://github.com/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/stars/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/last-commit/adelarsq/snake_cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/adelarsq/snake_cursor.nvim)
 - [rlychrisg/cursorshine.nvim](https://github.com/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/stars/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/last-commit/rlychrisg/cursorshine.nvim) ![](https://img.shields.io/github/commit-activity/y/rlychrisg/cursorshine.nvim)
 - [kosior3kt/mode-colors.nvim](https://github.com/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/stars/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/last-commit/kosior3kt/mode-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/kosior3kt/mode-colors.nvim)
+- [phanen/winc.nvim](https://github.com/phanen/winc.nvim) ![](https://img.shields.io/github/stars/phanen/winc.nvim) ![](https://img.shields.io/github/last-commit/phanen/winc.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/winc.nvim)
 
 ### Cursor position
 

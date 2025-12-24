@@ -108,6 +108,7 @@
 - [genzade/ftm.nvim](https://github.com/genzade/ftm.nvim) ![](https://img.shields.io/github/stars/genzade/ftm.nvim) ![](https://img.shields.io/github/last-commit/genzade/ftm.nvim) ![](https://img.shields.io/github/commit-activity/y/genzade/ftm.nvim)
 - [BioStumpf/ToggleTerminal.nvim](https://github.com/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/stars/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/last-commit/BioStumpf/ToggleTerminal.nvim) ![](https://img.shields.io/github/commit-activity/y/BioStumpf/ToggleTerminal.nvim)
 - [gitsang/trzsz.nvim](https://github.com/gitsang/trzsz.nvim) ![](https://img.shields.io/github/stars/gitsang/trzsz.nvim) ![](https://img.shields.io/github/last-commit/gitsang/trzsz.nvim) ![](https://img.shields.io/github/commit-activity/y/gitsang/trzsz.nvim)
+- [sh1Nome/floatcli.nvim](https://github.com/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/stars/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/floatcli.nvim)
 
 ### Open
 

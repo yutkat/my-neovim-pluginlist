@@ -57,6 +57,7 @@
 - [ollbx/match-list.nvim](https://github.com/ollbx/match-list.nvim) ![](https://img.shields.io/github/stars/ollbx/match-list.nvim) ![](https://img.shields.io/github/last-commit/ollbx/match-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/match-list.nvim)
 - [Natestah/blitzsearch.nvim](https://github.com/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/stars/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/last-commit/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Natestah/blitzsearch.nvim)
 - [andmarek/yas.nvim](https://github.com/andmarek/yas.nvim) ![](https://img.shields.io/github/stars/andmarek/yas.nvim) ![](https://img.shields.io/github/last-commit/andmarek/yas.nvim) ![](https://img.shields.io/github/commit-activity/y/andmarek/yas.nvim)
+- [HiPhish/multiquery.nvim](https://github.com/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/stars/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/multiquery.nvim)
 
 ### Window local search
 
