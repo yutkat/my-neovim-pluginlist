@@ -32,6 +32,7 @@
 
 - [chuck-flowers/purl.nvim](https://github.com/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/stars/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/last-commit/chuck-flowers/purl.nvim) ![](https://img.shields.io/github/commit-activity/y/chuck-flowers/purl.nvim)
 - [asrul10/readable-number.nvim](https://github.com/asrul10/readable-number.nvim) ![](https://img.shields.io/github/stars/asrul10/readable-number.nvim) ![](https://img.shields.io/github/last-commit/asrul10/readable-number.nvim) ![](https://img.shields.io/github/commit-activity/y/asrul10/readable-number.nvim)
+- [Alowree/pangu.nvim](https://github.com/Alowree/pangu.nvim) ![](https://img.shields.io/github/stars/Alowree/pangu.nvim) ![](https://img.shields.io/github/last-commit/Alowree/pangu.nvim) ![](https://img.shields.io/github/commit-activity/y/Alowree/pangu.nvim)
 
 #### bionic reading
 

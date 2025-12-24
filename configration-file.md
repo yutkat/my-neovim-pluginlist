@@ -64,6 +64,7 @@
 - [koskev/jsonnet-tools.nvim](https://github.com/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/stars/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/last-commit/koskev/jsonnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/koskev/jsonnet-tools.nvim)
 - [JamiroFerrara/jq.nvim](https://github.com/JamiroFerrara/jq.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/jq.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/jq.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/jq.nvim)
 - [RizaHKhan/filter.nvim](https://github.com/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/stars/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/last-commit/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/commit-activity/y/RizaHKhan/filter.nvim)
+- [HiPhish/multiquery.nvim](https://github.com/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/stars/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/multiquery.nvim)
 
 #### fx
 
