@@ -29,6 +29,7 @@
 - [zachwi/motorbike](https://github.com/zachwi/motorbike) ![](https://img.shields.io/github/stars/zachwi/motorbike) ![](https://img.shields.io/github/last-commit/zachwi/motorbike) ![](https://img.shields.io/github/commit-activity/y/zachwi/motorbike)
 - [Sparkylc2/quick-cd.nvim](https://github.com/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/quick-cd.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/quick-cd.nvim)
 - [shaobosong/cdup.nvim](https://github.com/shaobosong/cdup.nvim) ![](https://img.shields.io/github/stars/shaobosong/cdup.nvim) ![](https://img.shields.io/github/last-commit/shaobosong/cdup.nvim) ![](https://img.shields.io/github/commit-activity/y/shaobosong/cdup.nvim)
+- [rodolfojsv/navigation.nvim](https://github.com/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/navigation.nvim)
 
 ### zoxide
 

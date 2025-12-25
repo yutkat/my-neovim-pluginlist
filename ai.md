@@ -197,6 +197,7 @@
 - [flyingshutter/gemini-autocomplete.nvim](https://github.com/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/stars/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/flyingshutter/gemini-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/flyingshutter/gemini-autocomplete.nvim)
 - [takeshy/nvim-gemini-helper](https://github.com/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/stars/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/last-commit/takeshy/nvim-gemini-helper) ![](https://img.shields.io/github/commit-activity/y/takeshy/nvim-gemini-helper)
 - [mrf/gemini-code-assist.nvim](https://github.com/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/stars/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/last-commit/mrf/gemini-code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/mrf/gemini-code-assist.nvim)
+- [novrion/awb.nvim](https://github.com/novrion/awb.nvim) ![](https://img.shields.io/github/stars/novrion/awb.nvim) ![](https://img.shields.io/github/last-commit/novrion/awb.nvim) ![](https://img.shields.io/github/commit-activity/y/novrion/awb.nvim)
 
 #### Gemini CLI
 
