@@ -249,6 +249,7 @@
 - [l4zygreed/prune.nvim](https://github.com/l4zygreed/prune.nvim) ![](https://img.shields.io/github/stars/l4zygreed/prune.nvim) ![](https://img.shields.io/github/last-commit/l4zygreed/prune.nvim) ![](https://img.shields.io/github/commit-activity/y/l4zygreed/prune.nvim)
 - [n3tw0rth/scrub.nvim](https://github.com/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/stars/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/last-commit/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/commit-activity/y/n3tw0rth/scrub.nvim)
 - [ljsoph/bufdelete.nvim](https://github.com/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/stars/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/last-commit/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsoph/bufdelete.nvim)
+- [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bufdel.nvim)
 
 #### restore
 
@@ -289,7 +290,6 @@
 - [jmadotgg/vimlink.nvim](https://github.com/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/stars/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/last-commit/jmadotgg/vimlink.nvim) ![](https://img.shields.io/github/commit-activity/y/jmadotgg/vimlink.nvim)
 
 #### status
-
 
 #### oldfiles
 
