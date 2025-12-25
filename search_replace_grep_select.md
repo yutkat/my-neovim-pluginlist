@@ -57,6 +57,7 @@
 - [ollbx/match-list.nvim](https://github.com/ollbx/match-list.nvim) ![](https://img.shields.io/github/stars/ollbx/match-list.nvim) ![](https://img.shields.io/github/last-commit/ollbx/match-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/match-list.nvim)
 - [Natestah/blitzsearch.nvim](https://github.com/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/stars/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/last-commit/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Natestah/blitzsearch.nvim)
 - [andmarek/yas.nvim](https://github.com/andmarek/yas.nvim) ![](https://img.shields.io/github/stars/andmarek/yas.nvim) ![](https://img.shields.io/github/last-commit/andmarek/yas.nvim) ![](https://img.shields.io/github/commit-activity/y/andmarek/yas.nvim)
+- [rodolfojsv/log-filter.nvim](https://github.com/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/log-filter.nvim)
 
 ### Window local search
 

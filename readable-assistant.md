@@ -5,6 +5,7 @@
 - [Readable Assistant](#readable-assistant)
   - [Reading assistant feature](#reading-assistant-feature)
     - [Current Position Info](#current-position-info)
+  - [Code quality](#code-quality)
   - [Human-readable](#human-readable)
     - [bionic reading](#bionic-reading)
 
@@ -27,6 +28,10 @@
 
 - [delphinus/characterize.nvim](https://github.com/delphinus/characterize.nvim) ![](https://img.shields.io/github/stars/delphinus/characterize.nvim) ![](https://img.shields.io/github/last-commit/delphinus/characterize.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/characterize.nvim)
 - [diegoulloao/nvim-file-location](https://github.com/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/stars/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/last-commit/diegoulloao/nvim-file-location) ![](https://img.shields.io/github/commit-activity/y/diegoulloao/nvim-file-location)
+
+### Code quality
+
+- [reeteppup/code-police.nvim](https://github.com/reeteppup/code-police.nvim) ![](https://img.shields.io/github/stars/reeteppup/code-police.nvim) ![](https://img.shields.io/github/last-commit/reeteppup/code-police.nvim) ![](https://img.shields.io/github/commit-activity/y/reeteppup/code-police.nvim)
 
 ### Human-readable
 

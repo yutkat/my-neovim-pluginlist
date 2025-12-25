@@ -138,6 +138,7 @@
 ### JSON -> Code
 
 - [Ponita48/tono.nvim](https://github.com/Ponita48/tono.nvim) ![](https://img.shields.io/github/stars/Ponita48/tono.nvim) ![](https://img.shields.io/github/last-commit/Ponita48/tono.nvim) ![](https://img.shields.io/github/commit-activity/y/Ponita48/tono.nvim)
+- [fahmiauliarahman/json2go.nvim](https://github.com/fahmiauliarahman/json2go.nvim) ![](https://img.shields.io/github/stars/fahmiauliarahman/json2go.nvim) ![](https://img.shields.io/github/last-commit/fahmiauliarahman/json2go.nvim) ![](https://img.shields.io/github/commit-activity/y/fahmiauliarahman/json2go.nvim)
 
 ### Code -> HTML
 

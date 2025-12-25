@@ -223,6 +223,7 @@
 - [kevinliao852/smart-commit.nvim](https://github.com/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/stars/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kevinliao852/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kevinliao852/smart-commit.nvim)
 - [ryancraigdavis/AutoCommitMessage.nvim](https://github.com/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/stars/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/last-commit/ryancraigdavis/AutoCommitMessage.nvim) ![](https://img.shields.io/github/commit-activity/y/ryancraigdavis/AutoCommitMessage.nvim)
 - [ajatdarojat45/commitmate.nvim](https://github.com/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/stars/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/last-commit/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/commit-activity/y/ajatdarojat45/commitmate.nvim)
+- [chmouel/gitcommitai.nvim](https://github.com/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/stars/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/last-commit/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/commit-activity/y/chmouel/gitcommitai.nvim)
 
 ### git fetch
 
