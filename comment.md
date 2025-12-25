@@ -17,6 +17,7 @@
   - [Comment highlight](#comment-highlight)
   - [Internal comment](#internal-comment)
   - [Directory comment](#directory-comment)
+  - [Comment Viewer](#comment-viewer)
   - [Hide comment](#hide-comment)
   - [AI comment](#ai-comment)
   - [remove comment](#remove-comment)
@@ -155,6 +156,10 @@
 ### Directory comment
 
 - [bxrne/was.nvim](https://github.com/bxrne/was.nvim) ![](https://img.shields.io/github/stars/bxrne/was.nvim) ![](https://img.shields.io/github/last-commit/bxrne/was.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/was.nvim)
+
+### Comment Viewer
+
+- [kuri-sun/comment-graph.nvim](https://github.com/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/stars/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/last-commit/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/kuri-sun/comment-graph.nvim)
 
 ### Hide comment
 
