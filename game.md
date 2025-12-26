@@ -99,6 +99,7 @@
 - [RyanSaxe/buffergolf.nvim](https://github.com/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/stars/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/last-commit/RyanSaxe/buffergolf.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanSaxe/buffergolf.nvim)
 - [maelwalser/speed-motion.nvim](https://github.com/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/stars/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/last-commit/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/maelwalser/speed-motion.nvim)
 - [gitkav0k/type-review.nvim](https://github.com/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/stars/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/last-commit/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitkav0k/type-review.nvim)
+- [Goose97/typist.nvim](https://github.com/Goose97/typist.nvim) ![](https://img.shields.io/github/stars/Goose97/typist.nvim) ![](https://img.shields.io/github/last-commit/Goose97/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/typist.nvim)
 
 ### FiveM
 

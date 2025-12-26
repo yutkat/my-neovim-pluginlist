@@ -235,6 +235,7 @@
 - [SteveRohrlack/make.nvim](https://github.com/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/stars/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/last-commit/SteveRohrlack/make.nvim) ![](https://img.shields.io/github/commit-activity/y/SteveRohrlack/make.nvim)
 - [thefoxery/make.nvim](https://github.com/thefoxery/make.nvim) ![](https://img.shields.io/github/stars/thefoxery/make.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/make.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/make.nvim)
 - [yilisharcs/cme.nvim](https://github.com/yilisharcs/cme.nvim) ![](https://img.shields.io/github/stars/yilisharcs/cme.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/cme.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/cme.nvim)
+- [sebszyller/quick-make.nvim](https://github.com/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/stars/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/last-commit/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/commit-activity/y/sebszyller/quick-make.nvim)
 
 ### use tmux
 
