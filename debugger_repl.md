@@ -137,3 +137,4 @@
 #### stack trace analyze
 
 - [vigoux/infer.nvim](https://github.com/vigoux/infer.nvim) ![](https://img.shields.io/github/stars/vigoux/infer.nvim) ![](https://img.shields.io/github/last-commit/vigoux/infer.nvim) ![](https://img.shields.io/github/commit-activity/y/vigoux/infer.nvim)
+- [B1tWhys/stacktrace.nvim](https://github.com/B1tWhys/stacktrace.nvim) ![](https://img.shields.io/github/stars/B1tWhys/stacktrace.nvim) ![](https://img.shields.io/github/last-commit/B1tWhys/stacktrace.nvim) ![](https://img.shields.io/github/commit-activity/y/B1tWhys/stacktrace.nvim)
