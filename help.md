@@ -87,6 +87,7 @@
 - [CarlosDanielDev/discipline.nvim](https://github.com/CarlosDanielDev/discipline.nvim) ![](https://img.shields.io/github/stars/CarlosDanielDev/discipline.nvim) ![](https://img.shields.io/github/last-commit/CarlosDanielDev/discipline.nvim) ![](https://img.shields.io/github/commit-activity/y/CarlosDanielDev/discipline.nvim)
 - [pherklotz/tiny-exercise.nvim](https://github.com/pherklotz/tiny-exercise.nvim) ![](https://img.shields.io/github/stars/pherklotz/tiny-exercise.nvim) ![](https://img.shields.io/github/last-commit/pherklotz/tiny-exercise.nvim) ![](https://img.shields.io/github/commit-activity/y/pherklotz/tiny-exercise.nvim)
 - [mathematicalninja/learnXinYminutes.nvim](https://github.com/mathematicalninja/learnXinYminutes.nvim) ![](https://img.shields.io/github/stars/mathematicalninja/learnXinYminutes.nvim) ![](https://img.shields.io/github/last-commit/mathematicalninja/learnXinYminutes.nvim) ![](https://img.shields.io/github/commit-activity/y/mathematicalninja/learnXinYminutes.nvim)
+- [StefanBartl/learn-cli.nvim](https://github.com/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/stars/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/learn-cli.nvim)
 
 ## Gnu Info
 
