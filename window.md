@@ -90,6 +90,7 @@
 - [devansh08/remembuf.nvim](https://github.com/devansh08/remembuf.nvim) ![](https://img.shields.io/github/stars/devansh08/remembuf.nvim) ![](https://img.shields.io/github/last-commit/devansh08/remembuf.nvim) ![](https://img.shields.io/github/commit-activity/y/devansh08/remembuf.nvim)
 - [caioariede/nvim-persist-window](https://github.com/caioariede/nvim-persist-window) ![](https://img.shields.io/github/stars/caioariede/nvim-persist-window) ![](https://img.shields.io/github/last-commit/caioariede/nvim-persist-window) ![](https://img.shields.io/github/commit-activity/y/caioariede/nvim-persist-window)
 - [ssgabrieldev/grid.nvim](https://github.com/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/stars/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/last-commit/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/commit-activity/y/ssgabrieldev/grid.nvim)
+- [AFwcxx/nvim-multipage](https://github.com/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/stars/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/last-commit/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/commit-activity/y/AFwcxx/nvim-multipage)
 
 #### close
 
