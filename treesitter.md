@@ -28,7 +28,6 @@
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
 - [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
 - [Jorenar/nvim-treesitter-diagnostics](https://github.com/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/stars/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/last-commit/Jorenar/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/commit-activity/y/Jorenar/nvim-treesitter-diagnostics)
-- [takid1412/nvim-treesitter-nginx](https://github.com/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/stars/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/last-commit/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/commit-activity/y/takid1412/nvim-treesitter-nginx)
 
 ### Installer
 

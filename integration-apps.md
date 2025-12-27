@@ -236,6 +236,7 @@
 #### Nginx
 
 - [dlvandenberg/nvim-treesitter-nginx](https://github.com/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/stars/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/last-commit/dlvandenberg/nvim-treesitter-nginx) ![](https://img.shields.io/github/commit-activity/y/dlvandenberg/nvim-treesitter-nginx)
+- [takid1412/nvim-treesitter-nginx](https://github.com/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/stars/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/last-commit/takid1412/nvim-treesitter-nginx) ![](https://img.shields.io/github/commit-activity/y/takid1412/nvim-treesitter-nginx)
 
 #### OpenFGA
 

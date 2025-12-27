@@ -219,8 +219,8 @@
 - [mclean25/nvim-file-history](https://github.com/mclean25/nvim-file-history) ![](https://img.shields.io/github/stars/mclean25/nvim-file-history) ![](https://img.shields.io/github/last-commit/mclean25/nvim-file-history) ![](https://img.shields.io/github/commit-activity/y/mclean25/nvim-file-history)
 - [yuki-yano/snacks-smart-open.nvim](https://github.com/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-open.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-open.nvim)
 - [ALPHAvibe/telescope-recent-files-vibes.nvim](https://github.com/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-recent-files-vibes.nvim)
-
 - [maxzwerin/oldfiles.nvim](https://github.com/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/stars/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxzwerin/oldfiles.nvim)
+- [coil398/mrubuftab.nvim](https://github.com/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/stars/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/last-commit/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/commit-activity/y/coil398/mrubuftab.nvim)
 
 ##### remote open
 
