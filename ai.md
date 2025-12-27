@@ -178,6 +178,7 @@
 #### Whisper
 
 - [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
+- [Avi-D-coder/whisper.nvim](https://github.com/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/stars/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/last-commit/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/Avi-D-coder/whisper.nvim)
 
 ### Gemini
 
@@ -632,6 +633,7 @@
 - [kiminandayo19/nvim-ai](https://github.com/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/stars/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/last-commit/kiminandayo19/nvim-ai) ![](https://img.shields.io/github/commit-activity/y/kiminandayo19/nvim-ai)
 - [loom99-public/n00bkeys.nvim](https://github.com/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/stars/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/last-commit/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/loom99-public/n00bkeys.nvim)
 - [jarvoren/ShutItAndAnswer.nvim](https://github.com/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/stars/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/last-commit/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/commit-activity/y/jarvoren/ShutItAndAnswer.nvim)
+- [PreziosiRaffaele/markdown-llm.nvim](https://github.com/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/markdown-llm.nvim)
 
 ## AI Terminal
 
