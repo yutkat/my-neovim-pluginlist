@@ -53,6 +53,7 @@
 
 - [wet-sandwich/hyper.nvim](https://github.com/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/stars/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/last-commit/wet-sandwich/hyper.nvim) ![](https://img.shields.io/github/commit-activity/y/wet-sandwich/hyper.nvim)
 - [JamiroFerrara/neopostman.nvim](https://github.com/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/stars/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/last-commit/JamiroFerrara/neopostman.nvim) ![](https://img.shields.io/github/commit-activity/y/JamiroFerrara/neopostman.nvim)
+- [arctan2/curl.nvim](https://github.com/arctan2/curl.nvim) ![](https://img.shields.io/github/stars/arctan2/curl.nvim) ![](https://img.shields.io/github/last-commit/arctan2/curl.nvim) ![](https://img.shields.io/github/commit-activity/y/arctan2/curl.nvim)
 
 ### mkdir
 

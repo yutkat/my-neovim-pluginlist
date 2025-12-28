@@ -230,6 +230,7 @@
 - [pseudoacacial/turbo.nvim](https://github.com/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/stars/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/last-commit/pseudoacacial/turbo.nvim) ![](https://img.shields.io/github/commit-activity/y/pseudoacacial/turbo.nvim)
 - [niuiic/remote.nvim](https://github.com/niuiic/remote.nvim) ![](https://img.shields.io/github/stars/niuiic/remote.nvim) ![](https://img.shields.io/github/last-commit/niuiic/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/remote.nvim)
 - [GeordyJ/tmp-edit.nvim](https://github.com/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/stars/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/last-commit/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/GeordyJ/tmp-edit.nvim)
+- [ultimatile/remote-edit.nvim](https://github.com/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/stars/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/last-commit/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/ultimatile/remote-edit.nvim)
 
 #### delete
 
@@ -271,6 +272,7 @@
 - [bmon/nvim-background-autoread](https://github.com/bmon/nvim-background-autoread) ![](https://img.shields.io/github/stars/bmon/nvim-background-autoread) ![](https://img.shields.io/github/last-commit/bmon/nvim-background-autoread) ![](https://img.shields.io/github/commit-activity/y/bmon/nvim-background-autoread)
 - [ycdzj/auto-reload.nvim](https://github.com/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/stars/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/last-commit/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/ycdzj/auto-reload.nvim)
 - [rdgd/file-reloader.nvim](https://github.com/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/stars/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/last-commit/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/file-reloader.nvim)
+- [awalland/nvim-file-watch](https://github.com/awalland/nvim-file-watch) ![](https://img.shields.io/github/stars/awalland/nvim-file-watch) ![](https://img.shields.io/github/last-commit/awalland/nvim-file-watch) ![](https://img.shields.io/github/commit-activity/y/awalland/nvim-file-watch)
 
 #### access control
 
@@ -314,6 +316,7 @@
 - [eth-p/nvim-clone-buffer](https://github.com/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/stars/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/last-commit/eth-p/nvim-clone-buffer) ![](https://img.shields.io/github/commit-activity/y/eth-p/nvim-clone-buffer)
 - [MartinCornelius/tempbuf.nvim](https://github.com/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/tempbuf.nvim)
 - [arctan2/scratch.nvim](https://github.com/arctan2/scratch.nvim) ![](https://img.shields.io/github/stars/arctan2/scratch.nvim) ![](https://img.shields.io/github/last-commit/arctan2/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/arctan2/scratch.nvim)
+- [Arfs6/scrappaper.nvim](https://github.com/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/stars/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/scrappaper.nvim)
 
 ### Scratchpad
 
