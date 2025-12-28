@@ -332,6 +332,7 @@
 
 - [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
 - [freref/typst-qol.nvim](https://github.com/freref/typst-qol.nvim) ![](https://img.shields.io/github/stars/freref/typst-qol.nvim) ![](https://img.shields.io/github/last-commit/freref/typst-qol.nvim) ![](https://img.shields.io/github/commit-activity/y/freref/typst-qol.nvim)
+- [Kirizan/typst-bib.nvim](https://github.com/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/stars/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/last-commit/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/commit-activity/y/Kirizan/typst-bib.nvim)
 
 ### Dendron
 

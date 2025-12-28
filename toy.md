@@ -234,3 +234,4 @@
 #### Muslim
 
 - [hakimajaman/nvim-muslim-prayer](https://github.com/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/stars/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/last-commit/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/commit-activity/y/hakimajaman/nvim-muslim-prayer)
+- [muhfaris/prayertime.nvim](https://github.com/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/stars/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/prayertime.nvim)
