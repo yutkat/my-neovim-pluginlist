@@ -158,6 +158,7 @@
 - [marwndev/nextfile.nvim](https://github.com/marwndev/nextfile.nvim) ![](https://img.shields.io/github/stars/marwndev/nextfile.nvim) ![](https://img.shields.io/github/last-commit/marwndev/nextfile.nvim) ![](https://img.shields.io/github/commit-activity/y/marwndev/nextfile.nvim)
 - [shizukani-cp/bufman.nvim](https://github.com/shizukani-cp/bufman.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/bufman.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/bufman.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/bufman.nvim)
 - [mthnglac/bufferinator.nvim](https://github.com/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/stars/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/last-commit/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/commit-activity/y/mthnglac/bufferinator.nvim)
+- [MattConce/buflow.nvim](https://github.com/MattConce/buflow.nvim) ![](https://img.shields.io/github/stars/MattConce/buflow.nvim) ![](https://img.shields.io/github/last-commit/MattConce/buflow.nvim) ![](https://img.shields.io/github/commit-activity/y/MattConce/buflow.nvim)
 
 #### create
 
@@ -272,6 +273,7 @@
 - [ycdzj/auto-reload.nvim](https://github.com/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/stars/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/last-commit/ycdzj/auto-reload.nvim) ![](https://img.shields.io/github/commit-activity/y/ycdzj/auto-reload.nvim)
 - [rdgd/file-reloader.nvim](https://github.com/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/stars/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/last-commit/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/file-reloader.nvim)
 - [awalland/nvim-file-watch](https://github.com/awalland/nvim-file-watch) ![](https://img.shields.io/github/stars/awalland/nvim-file-watch) ![](https://img.shields.io/github/last-commit/awalland/nvim-file-watch) ![](https://img.shields.io/github/commit-activity/y/awalland/nvim-file-watch)
+- [diegok/live-autoread.nvim](https://github.com/diegok/live-autoread.nvim) ![](https://img.shields.io/github/stars/diegok/live-autoread.nvim) ![](https://img.shields.io/github/last-commit/diegok/live-autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/diegok/live-autoread.nvim)
 
 #### access control
 
