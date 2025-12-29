@@ -113,3 +113,4 @@
 ### MTG
 
 - [mvargasmoran/collector.nvim](https://github.com/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/stars/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/last-commit/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/commit-activity/y/mvargasmoran/collector.nvim)
+- [noname7777G/surveil.nvim](https://github.com/noname7777G/surveil.nvim) ![](https://img.shields.io/github/stars/noname7777G/surveil.nvim) ![](https://img.shields.io/github/last-commit/noname7777G/surveil.nvim) ![](https://img.shields.io/github/commit-activity/y/noname7777G/surveil.nvim)
