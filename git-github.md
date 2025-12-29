@@ -401,6 +401,7 @@
 - [ALPHAvibe/telescope-worktree-vibes.nvim](https://github.com/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-worktree-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-worktree-vibes.nvim)
 - [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
 - [mitubaEX/branch-workspace.nvim](https://github.com/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/stars/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/branch-workspace.nvim)
+- [pittcat/tmux-worktrees.nvim](https://github.com/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/stars/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/last-commit/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/tmux-worktrees.nvim)
 
 ### submodule
 

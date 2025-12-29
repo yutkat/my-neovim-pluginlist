@@ -398,6 +398,7 @@
 - [bnema/claude-summon.nvim](https://github.com/bnema/claude-summon.nvim) ![](https://img.shields.io/github/stars/bnema/claude-summon.nvim) ![](https://img.shields.io/github/last-commit/bnema/claude-summon.nvim) ![](https://img.shields.io/github/commit-activity/y/bnema/claude-summon.nvim)
 - [evilwaveforms/nvim-claudecode-tmux](https://github.com/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/stars/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/last-commit/evilwaveforms/nvim-claudecode-tmux) ![](https://img.shields.io/github/commit-activity/y/evilwaveforms/nvim-claudecode-tmux)
 - [CaceresCallieri/orchestator.nvim](https://github.com/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/stars/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/last-commit/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/commit-activity/y/CaceresCallieri/orchestator.nvim)
+- [3kz2501/claude-input.nvim](https://github.com/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/stars/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/last-commit/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/commit-activity/y/3kz2501/claude-input.nvim)
 
 ### Amazon Q
 
@@ -429,6 +430,7 @@
 - [josh-le/openrouter.nvim](https://github.com/josh-le/openrouter.nvim) ![](https://img.shields.io/github/stars/josh-le/openrouter.nvim) ![](https://img.shields.io/github/last-commit/josh-le/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/josh-le/openrouter.nvim)
 - [schlerp/nohands.nvim](https://github.com/schlerp/nohands.nvim) ![](https://img.shields.io/github/stars/schlerp/nohands.nvim) ![](https://img.shields.io/github/last-commit/schlerp/nohands.nvim) ![](https://img.shields.io/github/commit-activity/y/schlerp/nohands.nvim)
 - [0xInuarashi/openrouter.nvim](https://github.com/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/stars/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/last-commit/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/0xInuarashi/openrouter.nvim)
+- [RAJ8664/chatbot.nvim](https://github.com/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/stars/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/last-commit/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/commit-activity/y/RAJ8664/chatbot.nvim)
 
 ### Supermaven
 

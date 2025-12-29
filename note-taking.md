@@ -110,6 +110,7 @@
 - [ushmz/tabi.nvim](https://github.com/ushmz/tabi.nvim) ![](https://img.shields.io/github/stars/ushmz/tabi.nvim) ![](https://img.shields.io/github/last-commit/ushmz/tabi.nvim) ![](https://img.shields.io/github/commit-activity/y/ushmz/tabi.nvim)
 - [morgsmccauley/notes.nvim](https://github.com/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/notes.nvim)
 - [sigugo/simple-notes.nvim](https://github.com/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/stars/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/last-commit/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sigugo/simple-notes.nvim)
+- [JulianSchubel/nvim-notepad](https://github.com/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-notepad)
 
 ### Journal
 
@@ -247,6 +248,8 @@
 - [mshiyaf/todoist.nvim](https://github.com/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/stars/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/last-commit/mshiyaf/todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/mshiyaf/todoist.nvim)
 - [randomdude16671/huid.nvim](https://github.com/randomdude16671/huid.nvim) ![](https://img.shields.io/github/stars/randomdude16671/huid.nvim) ![](https://img.shields.io/github/last-commit/randomdude16671/huid.nvim) ![](https://img.shields.io/github/commit-activity/y/randomdude16671/huid.nvim)
 - [ClearHeadToDo-Devs/clearhead.nvim](https://github.com/ClearHeadToDo-Devs/clearhead.nvim) ![](https://img.shields.io/github/stars/ClearHeadToDo-Devs/clearhead.nvim) ![](https://img.shields.io/github/last-commit/ClearHeadToDo-Devs/clearhead.nvim) ![](https://img.shields.io/github/commit-activity/y/ClearHeadToDo-Devs/clearhead.nvim)
+- [ochcaroline/needdis.nvim](https://github.com/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/stars/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/needdis.nvim)
+- [viniciusteixeiradias/kanban.nvim](https://github.com/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/stars/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/last-commit/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciusteixeiradias/kanban.nvim)
 
 #### Google Task
 
@@ -260,6 +263,7 @@
 - [duckdm/neowarrior.nvim](https://github.com/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/stars/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/last-commit/duckdm/neowarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/duckdm/neowarrior.nvim)
 - [ChrisGVE/taskforge.nvim](https://github.com/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/taskforge.nvim)
 - [clobrano/frontline.nvim](https://github.com/clobrano/frontline.nvim) ![](https://img.shields.io/github/stars/clobrano/frontline.nvim) ![](https://img.shields.io/github/last-commit/clobrano/frontline.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/frontline.nvim)
+- [Pete-Hamlin/tasknv.nvim](https://github.com/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/stars/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/last-commit/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/commit-activity/y/Pete-Hamlin/tasknv.nvim)
 
 ### Obsidian
 
