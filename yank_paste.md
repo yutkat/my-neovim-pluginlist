@@ -174,6 +174,7 @@
 - [arakkkkk/smart-paste.nvim](https://github.com/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/stars/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/smart-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/smart-paste.nvim)
 - [whoop-t/dupe.nvim](https://github.com/whoop-t/dupe.nvim) ![](https://img.shields.io/github/stars/whoop-t/dupe.nvim) ![](https://img.shields.io/github/last-commit/whoop-t/dupe.nvim) ![](https://img.shields.io/github/commit-activity/y/whoop-t/dupe.nvim)
 - [carlosgrillet/demo-paste.nvim](https://github.com/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/stars/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/last-commit/carlosgrillet/demo-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/carlosgrillet/demo-paste.nvim)
+- [tzhouhc/interspaced.nvim](https://github.com/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/stars/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/last-commit/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/commit-activity/y/tzhouhc/interspaced.nvim)
 
 ### Cyclic paste
 

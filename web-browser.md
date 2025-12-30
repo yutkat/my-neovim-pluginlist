@@ -34,6 +34,7 @@
 - [Menh1505/browser.nvim](https://github.com/Menh1505/browser.nvim) ![](https://img.shields.io/github/stars/Menh1505/browser.nvim) ![](https://img.shields.io/github/last-commit/Menh1505/browser.nvim) ![](https://img.shields.io/github/commit-activity/y/Menh1505/browser.nvim)
 - [chrsolr/open-in.nvim](https://github.com/chrsolr/open-in.nvim) ![](https://img.shields.io/github/stars/chrsolr/open-in.nvim) ![](https://img.shields.io/github/last-commit/chrsolr/open-in.nvim) ![](https://img.shields.io/github/commit-activity/y/chrsolr/open-in.nvim)
 - [m4c4r0n1n/nanabrowser.nvim](https://github.com/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/stars/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/last-commit/m4c4r0n1n/nanabrowser.nvim) ![](https://img.shields.io/github/commit-activity/y/m4c4r0n1n/nanabrowser.nvim)
+- [tahby/neograbber.nvim](https://github.com/tahby/neograbber.nvim) ![](https://img.shields.io/github/stars/tahby/neograbber.nvim) ![](https://img.shields.io/github/last-commit/tahby/neograbber.nvim) ![](https://img.shields.io/github/commit-activity/y/tahby/neograbber.nvim)
 
 #### url open
 

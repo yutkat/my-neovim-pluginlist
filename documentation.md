@@ -110,6 +110,7 @@
 - [mathias-ewald/markdown-toc.nvim](https://github.com/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/stars/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/last-commit/mathias-ewald/markdown-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/mathias-ewald/markdown-toc.nvim)
 - [sonlam806/sandman.nvim](https://github.com/sonlam806/sandman.nvim) ![](https://img.shields.io/github/stars/sonlam806/sandman.nvim) ![](https://img.shields.io/github/last-commit/sonlam806/sandman.nvim) ![](https://img.shields.io/github/commit-activity/y/sonlam806/sandman.nvim)
 - [MasterTemple/better-callouts.nvim](https://github.com/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/stars/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/better-callouts.nvim)
+- [adnair2024/md-helper.nvim](https://github.com/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/stars/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/last-commit/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/adnair2024/md-helper.nvim)
 
 #### Markdown link
 
@@ -426,6 +427,7 @@
 - [lancekrogers/mermaider.nvim](https://github.com/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/stars/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/last-commit/lancekrogers/mermaider.nvim) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/mermaider.nvim)
 - [zacharyeller13/mermaid-preview.nvim](https://github.com/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/stars/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/last-commit/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyeller13/mermaid-preview.nvim)
 - [selimacerbas/mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/stars/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/mermaid-playground.nvim)
+- [wardenclyffetower/mermaidjs.nvim](https://github.com/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/stars/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/last-commit/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/commit-activity/y/wardenclyffetower/mermaidjs.nvim)
 
 ### pikchr
 

@@ -174,6 +174,7 @@
 - [JanSmrcka/codex.nvim](https://github.com/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/stars/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/last-commit/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/codex.nvim)
 - [rkmax/codex.nvim](https://github.com/rkmax/codex.nvim) ![](https://img.shields.io/github/stars/rkmax/codex.nvim) ![](https://img.shields.io/github/last-commit/rkmax/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rkmax/codex.nvim)
 - [caverav/codex.nvim](https://github.com/caverav/codex.nvim) ![](https://img.shields.io/github/stars/caverav/codex.nvim) ![](https://img.shields.io/github/last-commit/caverav/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/codex.nvim)
+- [anirudhsundar/codex.nvim](https://github.com/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/stars/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/last-commit/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/anirudhsundar/codex.nvim)
 
 #### Whisper
 
@@ -619,6 +620,7 @@
 - [swmcc/agentic.nvim](https://github.com/swmcc/agentic.nvim) ![](https://img.shields.io/github/stars/swmcc/agentic.nvim) ![](https://img.shields.io/github/last-commit/swmcc/agentic.nvim) ![](https://img.shields.io/github/commit-activity/y/swmcc/agentic.nvim)
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) ![](https://img.shields.io/github/stars/shabaraba/vibing.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/vibing.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/vibing.nvim)
 - [rykunk21/agent.nvim](https://github.com/rykunk21/agent.nvim) ![](https://img.shields.io/github/stars/rykunk21/agent.nvim) ![](https://img.shields.io/github/last-commit/rykunk21/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/rykunk21/agent.nvim)
+- [cristianoliveira/dogmeat.nvim](https://github.com/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/dogmeat.nvim)
 
 ### Amp
 
