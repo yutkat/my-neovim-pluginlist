@@ -80,6 +80,10 @@
 - [samiulsami/cmp-go-deep](https://github.com/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/stars/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/last-commit/samiulsami/cmp-go-deep) ![](https://img.shields.io/github/commit-activity/y/samiulsami/cmp-go-deep)
 - [edte/cmp-go-pkgs.nvim](https://github.com/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/stars/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/last-commit/edte/cmp-go-pkgs.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/cmp-go-pkgs.nvim)
 
+### Lint
+
+- [barthollomew/check-this.nvim](https://github.com/barthollomew/check-this.nvim) ![](https://img.shields.io/github/stars/barthollomew/check-this.nvim) ![](https://img.shields.io/github/last-commit/barthollomew/check-this.nvim) ![](https://img.shields.io/github/commit-activity/y/barthollomew/check-this.nvim)
+
 ### LSP
 
 - [jackielii/gopls.nvim](https://github.com/jackielii/gopls.nvim) ![](https://img.shields.io/github/stars/jackielii/gopls.nvim) ![](https://img.shields.io/github/last-commit/jackielii/gopls.nvim) ![](https://img.shields.io/github/commit-activity/y/jackielii/gopls.nvim)
