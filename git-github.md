@@ -281,6 +281,7 @@
 - [JoshuaDueck/git-heatmap.nvim](https://github.com/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/git-heatmap.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/git-heatmap.nvim)
 - [cetanu/recent-work.nvim](https://github.com/cetanu/recent-work.nvim) ![](https://img.shields.io/github/stars/cetanu/recent-work.nvim) ![](https://img.shields.io/github/last-commit/cetanu/recent-work.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/recent-work.nvim)
 - [matthewalunni/nvim-gitmovie](https://github.com/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/stars/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/last-commit/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/commit-activity/y/matthewalunni/nvim-gitmovie)
+- [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/stars/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/last-commit/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Salanoid/gitlogdiff.nvim)
 
 #### preview contents
 
