@@ -92,6 +92,7 @@
 - [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) ![](https://img.shields.io/github/stars/comfysage/mossy.nvim) ![](https://img.shields.io/github/last-commit/comfysage/mossy.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/mossy.nvim)
 - [gisikw/vitals.nvim](https://github.com/gisikw/vitals.nvim) ![](https://img.shields.io/github/stars/gisikw/vitals.nvim) ![](https://img.shields.io/github/last-commit/gisikw/vitals.nvim) ![](https://img.shields.io/github/commit-activity/y/gisikw/vitals.nvim)
 - [skeletony007/nvim-linterconfig](https://github.com/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/stars/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/last-commit/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/commit-activity/y/skeletony007/nvim-linterconfig)
+- [barthollomew/check-this.nvim](https://github.com/barthollomew/check-this.nvim) ![](https://img.shields.io/github/stars/barthollomew/check-this.nvim) ![](https://img.shields.io/github/last-commit/barthollomew/check-this.nvim) ![](https://img.shields.io/github/commit-activity/y/barthollomew/check-this.nvim)
 
 ### Grammar
 
