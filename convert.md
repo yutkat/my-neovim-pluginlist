@@ -6,6 +6,7 @@
   - [Adding and subtracting](#adding-and-subtracting)
   - [Convert Case](#convert-case)
   - [Convert Word](#convert-word)
+  - [Punctuation](#punctuation)
   - [Quote](#quote)
   - [Boolean](#boolean)
   - [Shell command](#shell-command)
@@ -72,6 +73,10 @@
 - [lucas-garcia-rubio/switcher.nvim](https://github.com/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/stars/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/last-commit/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lucas-garcia-rubio/switcher.nvim)
 - [afkale/wswitcher.nvim](https://github.com/afkale/wswitcher.nvim) ![](https://img.shields.io/github/stars/afkale/wswitcher.nvim) ![](https://img.shields.io/github/last-commit/afkale/wswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/wswitcher.nvim)
 - [MrKyomoto/mini-reverse.nvim](https://github.com/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/stars/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/last-commit/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/commit-activity/y/MrKyomoto/mini-reverse.nvim)
+
+### Punctuation
+
+- [AzarAI-TOP/cpc.nvim](https://github.com/AzarAI-TOP/cpc.nvim) ![](https://img.shields.io/github/stars/AzarAI-TOP/cpc.nvim) ![](https://img.shields.io/github/last-commit/AzarAI-TOP/cpc.nvim) ![](https://img.shields.io/github/commit-activity/y/AzarAI-TOP/cpc.nvim)
 
 ### Quote
 

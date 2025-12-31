@@ -282,6 +282,7 @@
 - [cetanu/recent-work.nvim](https://github.com/cetanu/recent-work.nvim) ![](https://img.shields.io/github/stars/cetanu/recent-work.nvim) ![](https://img.shields.io/github/last-commit/cetanu/recent-work.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/recent-work.nvim)
 - [matthewalunni/nvim-gitmovie](https://github.com/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/stars/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/last-commit/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/commit-activity/y/matthewalunni/nvim-gitmovie)
 - [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/stars/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/last-commit/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Salanoid/gitlogdiff.nvim)
+- [Enigama/remarks.nvim](https://github.com/Enigama/remarks.nvim) ![](https://img.shields.io/github/stars/Enigama/remarks.nvim) ![](https://img.shields.io/github/last-commit/Enigama/remarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Enigama/remarks.nvim)
 
 #### preview contents
 
@@ -313,6 +314,7 @@
 - [Morass/history-git-diff.nvim](https://github.com/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/stars/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/last-commit/Morass/history-git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/history-git-diff.nvim)
 - [ahmedalhulaibi/dirty-review.nvim](https://github.com/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/stars/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/last-commit/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmedalhulaibi/dirty-review.nvim)
 - [pmelab/review.nvim](https://github.com/pmelab/review.nvim) ![](https://img.shields.io/github/stars/pmelab/review.nvim) ![](https://img.shields.io/github/last-commit/pmelab/review.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/review.nvim)
+- [alexandrelam/diff-navigator.nvim](https://github.com/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/stars/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/last-commit/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/alexandrelam/diff-navigator.nvim)
 
 #### image diff
 

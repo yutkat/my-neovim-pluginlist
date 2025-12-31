@@ -288,6 +288,7 @@
 - [19bischof/nvim-ansible-vault](https://github.com/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/stars/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/19bischof/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/19bischof/nvim-ansible-vault)
 - [Geertsky/ansible-role-picker.nvim](https://github.com/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/stars/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/ansible-role-picker.nvim)
 - [outerLeitmotiv/nvim-ansible-vault](https://github.com/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/stars/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/outerLeitmotiv/nvim-ansible-vault)
+- [eyebrowkang/ansible-vault.nvim](https://github.com/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/stars/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/last-commit/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/eyebrowkang/ansible-vault.nvim)
 
 #### Kustomize
 
@@ -392,6 +393,7 @@
 ### Ethereum
 
 - [0xferrous/eth.nvim](https://github.com/0xferrous/eth.nvim) ![](https://img.shields.io/github/stars/0xferrous/eth.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/eth.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/eth.nvim)
+- [FilipHarald/eth.nvim](https://github.com/FilipHarald/eth.nvim) ![](https://img.shields.io/github/stars/FilipHarald/eth.nvim) ![](https://img.shields.io/github/last-commit/FilipHarald/eth.nvim) ![](https://img.shields.io/github/commit-activity/y/FilipHarald/eth.nvim)
 
 #### foundry
 
@@ -423,6 +425,7 @@
 - [yehuohan/blink-cmp-im](https://github.com/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/stars/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/blink-cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/blink-cmp-im)
 - [yehuohan/cmp-im](https://github.com/yehuohan/cmp-im) ![](https://img.shields.io/github/stars/yehuohan/cmp-im) ![](https://img.shields.io/github/last-commit/yehuohan/cmp-im) ![](https://img.shields.io/github/commit-activity/y/yehuohan/cmp-im)
 - [kanium3/neovide-ime.nvim](https://github.com/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/stars/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/last-commit/kanium3/neovide-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/kanium3/neovide-ime.nvim)
+- [sevenc-nanashi/neov-ime.nvim](https://github.com/sevenc-nanashi/neov-ime.nvim) ![](https://img.shields.io/github/stars/sevenc-nanashi/neov-ime.nvim) ![](https://img.shields.io/github/last-commit/sevenc-nanashi/neov-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/sevenc-nanashi/neov-ime.nvim)
 - [396458015/imeflow.nvim](https://github.com/396458015/imeflow.nvim) ![](https://img.shields.io/github/stars/396458015/imeflow.nvim) ![](https://img.shields.io/github/last-commit/396458015/imeflow.nvim) ![](https://img.shields.io/github/commit-activity/y/396458015/imeflow.nvim)
 - [guohao117/noime.nvim](https://github.com/guohao117/noime.nvim) ![](https://img.shields.io/github/stars/guohao117/noime.nvim) ![](https://img.shields.io/github/last-commit/guohao117/noime.nvim) ![](https://img.shields.io/github/commit-activity/y/guohao117/noime.nvim)
 - [chojs23/im-switch.nvim](https://github.com/chojs23/im-switch.nvim) ![](https://img.shields.io/github/stars/chojs23/im-switch.nvim) ![](https://img.shields.io/github/last-commit/chojs23/im-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/chojs23/im-switch.nvim)

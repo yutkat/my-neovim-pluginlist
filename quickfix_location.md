@@ -44,6 +44,7 @@
 - [afjoseph/buildlog.nvim](https://github.com/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/stars/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/last-commit/afjoseph/buildlog.nvim) ![](https://img.shields.io/github/commit-activity/y/afjoseph/buildlog.nvim)
 - [mikejmcguirk/nvim-qf-rancher](https://github.com/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/stars/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/last-commit/mikejmcguirk/nvim-qf-rancher) ![](https://img.shields.io/github/commit-activity/y/mikejmcguirk/nvim-qf-rancher)
 - [anoopkcn/csub.nvim](https://github.com/anoopkcn/csub.nvim) ![](https://img.shields.io/github/stars/anoopkcn/csub.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/csub.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/csub.nvim)
+- [phanen/hlq.nvim](https://github.com/phanen/hlq.nvim) ![](https://img.shields.io/github/stars/phanen/hlq.nvim) ![](https://img.shields.io/github/last-commit/phanen/hlq.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/hlq.nvim)
 
 ### Output the list to another format
 

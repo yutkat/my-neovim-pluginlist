@@ -58,6 +58,7 @@
 - [Natestah/blitzsearch.nvim](https://github.com/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/stars/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/last-commit/Natestah/blitzsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Natestah/blitzsearch.nvim)
 - [andmarek/yas.nvim](https://github.com/andmarek/yas.nvim) ![](https://img.shields.io/github/stars/andmarek/yas.nvim) ![](https://img.shields.io/github/last-commit/andmarek/yas.nvim) ![](https://img.shields.io/github/commit-activity/y/andmarek/yas.nvim)
 - [jwbla/search-tree.nvim](https://github.com/jwbla/search-tree.nvim) ![](https://img.shields.io/github/stars/jwbla/search-tree.nvim) ![](https://img.shields.io/github/last-commit/jwbla/search-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/jwbla/search-tree.nvim)
+- [teppei22/nvim-log-search](https://github.com/teppei22/nvim-log-search) ![](https://img.shields.io/github/stars/teppei22/nvim-log-search) ![](https://img.shields.io/github/last-commit/teppei22/nvim-log-search) ![](https://img.shields.io/github/commit-activity/y/teppei22/nvim-log-search)
 
 ### Window local search
 
