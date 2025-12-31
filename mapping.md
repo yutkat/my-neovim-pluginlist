@@ -140,6 +140,8 @@
 
 ### Layout Switch
 
+- [Andrew-the-Programmer/layout-switcher.nvim](https://github.com/Andrew-the-Programmer/layout-switcher.nvim) ![](https://img.shields.io/github/stars/Andrew-the-Programmer/layout-switcher.nvim) ![](https://img.shields.io/github/last-commit/Andrew-the-Programmer/layout-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/Andrew-the-Programmer/layout-switcher.nvim)
+
 #### Colemak-HD
 
 ### Mapping toggle
