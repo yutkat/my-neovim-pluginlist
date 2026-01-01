@@ -152,6 +152,7 @@
 - [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 - [samonide/runner.nvim](https://github.com/samonide/runner.nvim) ![](https://img.shields.io/github/stars/samonide/runner.nvim) ![](https://img.shields.io/github/last-commit/samonide/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/samonide/runner.nvim)
 - [tad34s/mejkr.nvim](https://github.com/tad34s/mejkr.nvim) ![](https://img.shields.io/github/stars/tad34s/mejkr.nvim) ![](https://img.shields.io/github/last-commit/tad34s/mejkr.nvim) ![](https://img.shields.io/github/commit-activity/y/tad34s/mejkr.nvim)
+- [theawakener0/NeoRunner](https://github.com/theawakener0/NeoRunner) ![](https://img.shields.io/github/stars/theawakener0/NeoRunner) ![](https://img.shields.io/github/last-commit/theawakener0/NeoRunner) ![](https://img.shields.io/github/commit-activity/y/theawakener0/NeoRunner)
 
 #### Shell
 

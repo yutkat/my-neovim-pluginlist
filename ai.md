@@ -670,6 +670,7 @@
 - [eun2ce/cursoragent.nvim](https://github.com/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/stars/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/last-commit/eun2ce/cursoragent.nvim) ![](https://img.shields.io/github/commit-activity/y/eun2ce/cursoragent.nvim)
 - [Sarctiann/cursor-agent.nvim](https://github.com/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cursor-agent.nvim)
 - [safzanpirani/cursor.nvim](https://github.com/safzanpirani/cursor.nvim) ![](https://img.shields.io/github/stars/safzanpirani/cursor.nvim) ![](https://img.shields.io/github/last-commit/safzanpirani/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/safzanpirani/cursor.nvim)
+- [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/stars/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/last-commit/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/cursor-inline)
 
 ## CodeCompanion
 
