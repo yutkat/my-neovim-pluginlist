@@ -277,6 +277,10 @@
 - [frodonh/simplellm.nvim](https://github.com/frodonh/simplellm.nvim) ![](https://img.shields.io/github/stars/frodonh/simplellm.nvim) ![](https://img.shields.io/github/last-commit/frodonh/simplellm.nvim) ![](https://img.shields.io/github/commit-activity/y/frodonh/simplellm.nvim)
 - [hansmrtn/clanker.nvim](https://github.com/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/stars/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/clanker.nvim)
 
+#### crush
+
+- [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ![](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/neocrush.nvim)
+
 #### mods
 
 - [ntawileh/mods.nvim](https://github.com/ntawileh/mods.nvim) ![](https://img.shields.io/github/stars/ntawileh/mods.nvim) ![](https://img.shields.io/github/last-commit/ntawileh/mods.nvim) ![](https://img.shields.io/github/commit-activity/y/ntawileh/mods.nvim)
@@ -622,6 +626,7 @@
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) ![](https://img.shields.io/github/stars/shabaraba/vibing.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/vibing.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/vibing.nvim)
 - [rykunk21/agent.nvim](https://github.com/rykunk21/agent.nvim) ![](https://img.shields.io/github/stars/rykunk21/agent.nvim) ![](https://img.shields.io/github/last-commit/rykunk21/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/rykunk21/agent.nvim)
 - [cristianoliveira/dogmeat.nvim](https://github.com/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/dogmeat.nvim)
+- [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
 
 ### Amp
 

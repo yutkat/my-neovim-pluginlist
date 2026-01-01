@@ -107,6 +107,7 @@
 - [jkeresman01/spring-initializr.nvim](https://github.com/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/stars/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/spring-initializr.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/spring-initializr.nvim)
 - [Hancho7/spring-properties-lsp.nvim](https://github.com/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/stars/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hancho7/spring-properties-lsp.nvim)
 - [lazerfit/spring-gen.nvim](https://github.com/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/stars/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/last-commit/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/lazerfit/spring-gen.nvim)
+- [KashifKhn/haft.nvim](https://github.com/KashifKhn/haft.nvim) ![](https://img.shields.io/github/stars/KashifKhn/haft.nvim) ![](https://img.shields.io/github/last-commit/KashifKhn/haft.nvim) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/haft.nvim)
 
 ### MyBatis
 

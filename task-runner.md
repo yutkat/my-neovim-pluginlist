@@ -158,6 +158,7 @@
 - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) ![](https://img.shields.io/github/stars/ojroques/nvim-buildme) ![](https://img.shields.io/github/last-commit/ojroques/nvim-buildme) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-buildme)
 - [LeonardsonCC/scrips.nvim](https://github.com/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/stars/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/last-commit/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonardsonCC/scrips.nvim)
 - [drunyd/nvim-runner](https://github.com/drunyd/nvim-runner) ![](https://img.shields.io/github/stars/drunyd/nvim-runner) ![](https://img.shields.io/github/last-commit/drunyd/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/drunyd/nvim-runner)
+- [cmdl-dev/run-build.nvim](https://github.com/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/stars/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/last-commit/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/commit-activity/y/cmdl-dev/run-build.nvim)
 
 ### Command style
 

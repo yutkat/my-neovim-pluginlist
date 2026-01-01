@@ -33,6 +33,7 @@
 - [srghma-backup/nvim-various-textobjs-movements](https://github.com/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/stars/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/last-commit/srghma-backup/nvim-various-textobjs-movements) ![](https://img.shields.io/github/commit-activity/y/srghma-backup/nvim-various-textobjs-movements)
 - [fuyu28/textobj-entire.nvim](https://github.com/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/stars/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/last-commit/fuyu28/textobj-entire.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu28/textobj-entire.nvim)
 - [zmunk/dot-rename.nvim](https://github.com/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/stars/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/last-commit/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/zmunk/dot-rename.nvim)
+- [jonatan-branting/telekinesis.nvim](https://github.com/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/stars/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/last-commit/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/telekinesis.nvim)
 
 ### Unit
 
