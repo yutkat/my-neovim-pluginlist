@@ -622,6 +622,8 @@
 - [shabaraba/vibing.nvim](https://github.com/shabaraba/vibing.nvim) ![](https://img.shields.io/github/stars/shabaraba/vibing.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/vibing.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/vibing.nvim)
 - [rykunk21/agent.nvim](https://github.com/rykunk21/agent.nvim) ![](https://img.shields.io/github/stars/rykunk21/agent.nvim) ![](https://img.shields.io/github/last-commit/rykunk21/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/rykunk21/agent.nvim)
 - [cristianoliveira/dogmeat.nvim](https://github.com/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/dogmeat.nvim)
+- [taigrr/neocrush.nvim](https://github.com/taigrr/neocrush.nvim) ![](https://img.shields.io/github/stars/taigrr/neocrush.nvim) ![](https://img.shields.io/github/last-commit/taigrr/neocrush.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/neocrush.nvim)
+- [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
 
 ### Amp
 

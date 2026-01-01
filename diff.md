@@ -27,6 +27,7 @@
 - [andrewhwaller/difftastic.nvim](https://github.com/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/stars/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/last-commit/andrewhwaller/difftastic.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewhwaller/difftastic.nvim)
 - [jake-stewart/diff.nvim](https://github.com/jake-stewart/diff.nvim) ![](https://img.shields.io/github/stars/jake-stewart/diff.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/diff.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/diff.nvim)
 - [TheMusicBoy/diffui.nvim](https://github.com/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/stars/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/last-commit/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMusicBoy/diffui.nvim)
+- [clabby/difftastic.nvim](https://github.com/clabby/difftastic.nvim) ![](https://img.shields.io/github/stars/clabby/difftastic.nvim) ![](https://img.shields.io/github/last-commit/clabby/difftastic.nvim) ![](https://img.shields.io/github/commit-activity/y/clabby/difftastic.nvim)
 
 ### Diff Register
 

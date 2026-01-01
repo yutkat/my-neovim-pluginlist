@@ -69,6 +69,7 @@
 ### go run
 
 - [hungdh9x/gorun.nvim](https://github.com/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/stars/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/last-commit/hungdh9x/gorun.nvim) ![](https://img.shields.io/github/commit-activity/y/hungdh9x/gorun.nvim)
+- [skuf-love/runner.nvim](https://github.com/skuf-love/runner.nvim) ![](https://img.shields.io/github/stars/skuf-love/runner.nvim) ![](https://img.shields.io/github/last-commit/skuf-love/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/skuf-love/runner.nvim)
 
 ### debug
 

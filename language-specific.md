@@ -400,6 +400,7 @@
 
 - [Klafyvel/nvim-smuggler](https://github.com/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/stars/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/last-commit/Klafyvel/nvim-smuggler) ![](https://img.shields.io/github/commit-activity/y/Klafyvel/nvim-smuggler)
 - [ArbitRandomUser/projectsearchjl.nvim](https://github.com/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/stars/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/last-commit/ArbitRandomUser/projectsearchjl.nvim) ![](https://img.shields.io/github/commit-activity/y/ArbitRandomUser/projectsearchjl.nvim)
+- [MarcWeber/nvim-julia-addon](https://github.com/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/stars/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-julia-addon) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-julia-addon)
 
 #### R
 
