@@ -59,6 +59,7 @@
 - [edte/more-go.nvim](https://github.com/edte/more-go.nvim) ![](https://img.shields.io/github/stars/edte/more-go.nvim) ![](https://img.shields.io/github/last-commit/edte/more-go.nvim) ![](https://img.shields.io/github/commit-activity/y/edte/more-go.nvim)
 - [jedi-knights/go.nvim](https://github.com/jedi-knights/go.nvim) ![](https://img.shields.io/github/stars/jedi-knights/go.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/go.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/go.nvim)
 - [CelikE/nvim-go](https://github.com/CelikE/nvim-go) ![](https://img.shields.io/github/stars/CelikE/nvim-go) ![](https://img.shields.io/github/last-commit/CelikE/nvim-go) ![](https://img.shields.io/github/commit-activity/y/CelikE/nvim-go)
+- [fahmiauliarahman/goctl.nvim](https://github.com/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/stars/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/last-commit/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/commit-activity/y/fahmiauliarahman/goctl.nvim)
 
 ### gofmt
 

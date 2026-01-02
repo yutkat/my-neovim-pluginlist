@@ -52,6 +52,7 @@
 - [ukeSJTU/coderadio.nvim](https://github.com/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/stars/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/last-commit/ukeSJTU/coderadio.nvim) ![](https://img.shields.io/github/commit-activity/y/ukeSJTU/coderadio.nvim)
 - [willibrandon/lofi.nvim](https://github.com/willibrandon/lofi.nvim) ![](https://img.shields.io/github/stars/willibrandon/lofi.nvim) ![](https://img.shields.io/github/last-commit/willibrandon/lofi.nvim) ![](https://img.shields.io/github/commit-activity/y/willibrandon/lofi.nvim)
 - [igrep/mpv-ipc.nvim](https://github.com/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/stars/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/last-commit/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/commit-activity/y/igrep/mpv-ipc.nvim)
+- [ricmonmol/nvim-music-player](https://github.com/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/stars/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/last-commit/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/commit-activity/y/ricmonmol/nvim-music-player)
 
 ### sapf
 

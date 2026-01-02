@@ -15,6 +15,7 @@
 
 - [diegoroccia/checkupdate.nvim](https://github.com/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/stars/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/last-commit/diegoroccia/checkupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoroccia/checkupdate.nvim)
 - [rootiest/nvim-updater.nvim](https://github.com/rootiest/nvim-updater.nvim) ![](https://img.shields.io/github/stars/rootiest/nvim-updater.nvim) ![](https://img.shields.io/github/last-commit/rootiest/nvim-updater.nvim) ![](https://img.shields.io/github/commit-activity/y/rootiest/nvim-updater.nvim)
+- [1NickPappas/canary.nvim](https://github.com/1NickPappas/canary.nvim) ![](https://img.shields.io/github/stars/1NickPappas/canary.nvim) ![](https://img.shields.io/github/last-commit/1NickPappas/canary.nvim) ![](https://img.shields.io/github/commit-activity/y/1NickPappas/canary.nvim)
 
 ### init.lua(vimrc)
 
