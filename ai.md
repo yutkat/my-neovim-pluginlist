@@ -175,6 +175,7 @@
 - [rkmax/codex.nvim](https://github.com/rkmax/codex.nvim) ![](https://img.shields.io/github/stars/rkmax/codex.nvim) ![](https://img.shields.io/github/last-commit/rkmax/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rkmax/codex.nvim)
 - [caverav/codex.nvim](https://github.com/caverav/codex.nvim) ![](https://img.shields.io/github/stars/caverav/codex.nvim) ![](https://img.shields.io/github/last-commit/caverav/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/codex.nvim)
 - [anirudhsundar/codex.nvim](https://github.com/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/stars/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/last-commit/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/anirudhsundar/codex.nvim)
+- [dukjjang/codex-cli.nvim](https://github.com/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/stars/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dukjjang/codex-cli.nvim)
 
 #### Whisper
 
@@ -627,6 +628,7 @@
 - [rykunk21/agent.nvim](https://github.com/rykunk21/agent.nvim) ![](https://img.shields.io/github/stars/rykunk21/agent.nvim) ![](https://img.shields.io/github/last-commit/rykunk21/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/rykunk21/agent.nvim)
 - [cristianoliveira/dogmeat.nvim](https://github.com/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/dogmeat.nvim)
 - [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
+- [N0nki/tmux-coding-agent.nvim](https://github.com/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/stars/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/last-commit/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/N0nki/tmux-coding-agent.nvim)
 
 ### Amp
 

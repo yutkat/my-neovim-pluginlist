@@ -249,6 +249,7 @@
 #### Kubernetes
 
 - [georgesnoe/lazykube.nvim](https://github.com/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazykube.nvim)
+- [skanehira/k8s.nvim](https://github.com/skanehira/k8s.nvim) ![](https://img.shields.io/github/stars/skanehira/k8s.nvim) ![](https://img.shields.io/github/last-commit/skanehira/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/k8s.nvim)
 
 #### VPN
 

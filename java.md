@@ -38,6 +38,7 @@
 - [ghaithsassi/nvim-java-cryeator](https://github.com/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/stars/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/last-commit/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/commit-activity/y/ghaithsassi/nvim-java-cryeator)
 - [nhattVim/java-project.nvim](https://github.com/nhattVim/java-project.nvim) ![](https://img.shields.io/github/stars/nhattVim/java-project.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/java-project.nvim)
 - [jstarts86/java-docs.nvim](https://github.com/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/stars/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/last-commit/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jstarts86/java-docs.nvim)
+- [idelice/nvim-jls](https://github.com/idelice/nvim-jls) ![](https://img.shields.io/github/stars/idelice/nvim-jls) ![](https://img.shields.io/github/last-commit/idelice/nvim-jls) ![](https://img.shields.io/github/commit-activity/y/idelice/nvim-jls)
 
 ### package import
 
