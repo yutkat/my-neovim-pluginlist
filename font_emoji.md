@@ -40,6 +40,10 @@
 - [gwydion67/Unicode.nvim](https://github.com/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/stars/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/last-commit/gwydion67/Unicode.nvim) ![](https://img.shields.io/github/commit-activity/y/gwydion67/Unicode.nvim)
 - [cskeeters/unicode.nvim](https://github.com/cskeeters/unicode.nvim) ![](https://img.shields.io/github/stars/cskeeters/unicode.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/unicode.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/unicode.nvim)
 
+## non-monospace
+
+- [thjbdvlt/leguinvim](https://github.com/thjbdvlt/leguinvim) ![](https://img.shields.io/github/stars/thjbdvlt/leguinvim) ![](https://img.shields.io/github/last-commit/thjbdvlt/leguinvim) ![](https://img.shields.io/github/commit-activity/y/thjbdvlt/leguinvim)
+
 ## Greek
 
 - [utrumsit/betacode-to-unicode](https://github.com/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/stars/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/last-commit/utrumsit/betacode-to-unicode) ![](https://img.shields.io/github/commit-activity/y/utrumsit/betacode-to-unicode)
