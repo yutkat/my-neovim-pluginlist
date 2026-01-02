@@ -159,7 +159,6 @@
 
 ### Comment Viewer
 
-- [kuri-sun/comment-graph.nvim](https://github.com/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/stars/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/last-commit/kuri-sun/comment-graph.nvim) ![](https://img.shields.io/github/commit-activity/y/kuri-sun/comment-graph.nvim)
 
 ### Hide comment
 
