@@ -93,6 +93,7 @@
 - [naughie/buffer-switcher.nvim](https://github.com/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/stars/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/last-commit/naughie/buffer-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/naughie/buffer-switcher.nvim)
 - [benbpyle/modified-buffers.nvim](https://github.com/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/stars/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/last-commit/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/benbpyle/modified-buffers.nvim)
 - [aclCMNK/BuffersJump.nvim](https://github.com/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/stars/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/BuffersJump.nvim)
+- [serhez/bento.nvim](https://github.com/serhez/bento.nvim) ![](https://img.shields.io/github/stars/serhez/bento.nvim) ![](https://img.shields.io/github/last-commit/serhez/bento.nvim) ![](https://img.shields.io/github/commit-activity/y/serhez/bento.nvim)
 
 ### Other Buffer Switcher
 

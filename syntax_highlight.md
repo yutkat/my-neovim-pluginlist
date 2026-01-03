@@ -81,6 +81,7 @@
 
 - [ck-zhang/obfuscate.nvim](https://github.com/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/stars/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/obfuscate.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/obfuscate.nvim)
 - [nvim-jo/conceal.nvim](https://github.com/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/stars/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/conceal.nvim)
+- [ADemkin/dim.nvim](https://github.com/ADemkin/dim.nvim) ![](https://img.shields.io/github/stars/ADemkin/dim.nvim) ![](https://img.shields.io/github/last-commit/ADemkin/dim.nvim) ![](https://img.shields.io/github/commit-activity/y/ADemkin/dim.nvim)
 
 ## Syntax
 
