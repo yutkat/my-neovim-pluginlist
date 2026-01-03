@@ -32,6 +32,7 @@
 - [ibrahim317/skybison.nvim](https://github.com/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/stars/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/last-commit/ibrahim317/skybison.nvim) ![](https://img.shields.io/github/commit-activity/y/ibrahim317/skybison.nvim)
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/stars/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/last-commit/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/simifalaye/minibuffer.nvim)
 - [nvim-mini/mini.cmdline](https://github.com/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/stars/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.cmdline)
+- [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) ![](https://img.shields.io/github/stars/juniorsundar/cling.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/cling.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/cling.nvim)
 
 ### Normal mode command line
 

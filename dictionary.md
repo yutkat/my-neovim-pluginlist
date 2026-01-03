@@ -34,5 +34,8 @@
 
 - [mec-nyan/nvim-words](https://github.com/mec-nyan/nvim-words) ![](https://img.shields.io/github/stars/mec-nyan/nvim-words) ![](https://img.shields.io/github/last-commit/mec-nyan/nvim-words) ![](https://img.shields.io/github/commit-activity/y/mec-nyan/nvim-words)
 
-## Thesaurus
+## English Completion
 
+- [AshLink95/coward.nvim](https://github.com/AshLink95/coward.nvim) ![](https://img.shields.io/github/stars/AshLink95/coward.nvim) ![](https://img.shields.io/github/last-commit/AshLink95/coward.nvim) ![](https://img.shields.io/github/commit-activity/y/AshLink95/coward.nvim)
+
+## Thesaurus
