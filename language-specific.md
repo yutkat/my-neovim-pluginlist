@@ -185,6 +185,7 @@
 - [Libsod/zig-tools.nvim](https://github.com/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/stars/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/last-commit/Libsod/zig-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Libsod/zig-tools.nvim)
 - [jinzhongjia/zig-lamp](https://github.com/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/stars/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/last-commit/jinzhongjia/zig-lamp) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/zig-lamp)
 - [benomahony/ziglings.nvim](https://github.com/benomahony/ziglings.nvim) ![](https://img.shields.io/github/stars/benomahony/ziglings.nvim) ![](https://img.shields.io/github/last-commit/benomahony/ziglings.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/ziglings.nvim)
+- [CWood-sdf/zigthing.nvim](https://github.com/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/zigthing.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/zigthing.nvim)
 
 #### Nix
 

@@ -251,6 +251,7 @@
 - [ochcaroline/needdis.nvim](https://github.com/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/stars/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/needdis.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/needdis.nvim)
 - [viniciusteixeiradias/kanban.nvim](https://github.com/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/stars/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/last-commit/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciusteixeiradias/kanban.nvim)
 - [Kamyil/markdown-agenda.nvim](https://github.com/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/Kamyil/markdown-agenda.nvim)
+- [tgienger/stm.nvim](https://github.com/tgienger/stm.nvim) ![](https://img.shields.io/github/stars/tgienger/stm.nvim) ![](https://img.shields.io/github/last-commit/tgienger/stm.nvim) ![](https://img.shields.io/github/commit-activity/y/tgienger/stm.nvim)
 
 #### Google Task
 

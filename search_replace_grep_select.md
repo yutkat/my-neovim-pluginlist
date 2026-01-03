@@ -117,6 +117,7 @@
 - [sahlte/timed-highlight.nvim](https://github.com/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/stars/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/last-commit/sahlte/timed-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/sahlte/timed-highlight.nvim)
 - [am2b/stardust.nvim](https://github.com/am2b/stardust.nvim) ![](https://img.shields.io/github/stars/am2b/stardust.nvim) ![](https://img.shields.io/github/last-commit/am2b/stardust.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/stardust.nvim)
 - [Euro20179/find-highlight.nvim](https://github.com/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/stars/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/find-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/find-highlight.nvim)
+- [mhiro2/pinwords.nvim](https://github.com/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/stars/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/pinwords.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/pinwords.nvim)
 
 ### Visual search
 

@@ -38,6 +38,7 @@
 - [lfilho/note2cal.nvim](https://github.com/lfilho/note2cal.nvim) ![](https://img.shields.io/github/stars/lfilho/note2cal.nvim) ![](https://img.shields.io/github/last-commit/lfilho/note2cal.nvim) ![](https://img.shields.io/github/commit-activity/y/lfilho/note2cal.nvim)
 - [obsidian-nvim/calendar.nvim](https://github.com/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/stars/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/last-commit/obsidian-nvim/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/obsidian-nvim/calendar.nvim)
 - [yahorni/simple-calendar.nvim](https://github.com/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/stars/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/last-commit/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/yahorni/simple-calendar.nvim)
+- [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/stars/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/calendar.nvim)
 
 ## MS Word
 

@@ -573,6 +573,7 @@
 - [mujx/nvim-actions-sha](https://github.com/mujx/nvim-actions-sha) ![](https://img.shields.io/github/stars/mujx/nvim-actions-sha) ![](https://img.shields.io/github/last-commit/mujx/nvim-actions-sha) ![](https://img.shields.io/github/commit-activity/y/mujx/nvim-actions-sha)
 - [Hdoc1509/gh-actions.nvim](https://github.com/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/stars/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/last-commit/Hdoc1509/gh-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Hdoc1509/gh-actions.nvim)
 - [naillizard/ghactions.nvim](https://github.com/naillizard/ghactions.nvim) ![](https://img.shields.io/github/stars/naillizard/ghactions.nvim) ![](https://img.shields.io/github/last-commit/naillizard/ghactions.nvim) ![](https://img.shields.io/github/commit-activity/y/naillizard/ghactions.nvim)
+- [mhiro2/gha-pin.nvim](https://github.com/mhiro2/gha-pin.nvim) ![](https://img.shields.io/github/stars/mhiro2/gha-pin.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/gha-pin.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/gha-pin.nvim)
 
 ### Project
 
