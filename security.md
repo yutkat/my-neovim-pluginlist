@@ -67,6 +67,7 @@
 - [jwvictor/nvim-cubby](https://github.com/jwvictor/nvim-cubby) ![](https://img.shields.io/github/stars/jwvictor/nvim-cubby) ![](https://img.shields.io/github/last-commit/jwvictor/nvim-cubby) ![](https://img.shields.io/github/commit-activity/y/jwvictor/nvim-cubby)
 - [aashan10/passbolt.nvim](https://github.com/aashan10/passbolt.nvim) ![](https://img.shields.io/github/stars/aashan10/passbolt.nvim) ![](https://img.shields.io/github/last-commit/aashan10/passbolt.nvim) ![](https://img.shields.io/github/commit-activity/y/aashan10/passbolt.nvim)
 - [fionn/nvim-redact-pass](https://github.com/fionn/nvim-redact-pass) ![](https://img.shields.io/github/stars/fionn/nvim-redact-pass) ![](https://img.shields.io/github/last-commit/fionn/nvim-redact-pass) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-redact-pass)
+- [davidmh/pass.nvim](https://github.com/davidmh/pass.nvim) ![](https://img.shields.io/github/stars/davidmh/pass.nvim) ![](https://img.shields.io/github/last-commit/davidmh/pass.nvim) ![](https://img.shields.io/github/commit-activity/y/davidmh/pass.nvim)
 
 #### KeePassXC
 

@@ -23,6 +23,7 @@
 
 - [ldelossa/litee.nvim](https://github.com/ldelossa/litee.nvim) ![](https://img.shields.io/github/stars/ldelossa/litee.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/litee.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/litee.nvim)
 - [arakkkkk/switchpanel.nvim](https://github.com/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/stars/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/switchpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/switchpanel.nvim)
+- [SCRIPTERBLOX/neobrains-left-bar-select.nvim](https://github.com/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/stars/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/last-commit/SCRIPTERBLOX/neobrains-left-bar-select.nvim) ![](https://img.shields.io/github/commit-activity/y/SCRIPTERBLOX/neobrains-left-bar-select.nvim)
 
 ### Menu
 

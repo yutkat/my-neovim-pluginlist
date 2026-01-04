@@ -69,6 +69,7 @@
 - [braden-godley/evil-larry.nvim](https://github.com/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/stars/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/last-commit/braden-godley/evil-larry.nvim) ![](https://img.shields.io/github/commit-activity/y/braden-godley/evil-larry.nvim)
 - [opqrstuvcut/catwalk.nvim](https://github.com/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/stars/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/last-commit/opqrstuvcut/catwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/opqrstuvcut/catwalk.nvim)
 - [Panda-d3v/cute-cat.nvim](https://github.com/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/stars/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/last-commit/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/Panda-d3v/cute-cat.nvim)
+- [frostzt/bongo-cat.nvim](https://github.com/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/stars/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/last-commit/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/bongo-cat.nvim)
 
 ### Coinflip
 

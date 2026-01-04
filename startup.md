@@ -44,6 +44,7 @@
 - [johnmathews/project-dashboard.nvim](https://github.com/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/stars/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/last-commit/johnmathews/project-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/johnmathews/project-dashboard.nvim)
 - [CaptainGitHook/dish.nvim](https://github.com/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/stars/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/last-commit/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/commit-activity/y/CaptainGitHook/dish.nvim)
 - [EthanJWright/quicknotes.nvim](https://github.com/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/stars/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/quicknotes.nvim)
+- [StikyPiston/simpledash.nvim](https://github.com/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/stars/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/simpledash.nvim)
 
 ### Boot Arguments
 
