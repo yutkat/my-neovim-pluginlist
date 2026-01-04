@@ -159,6 +159,7 @@
 - [n1kben/gitcast.nvim](https://github.com/n1kben/gitcast.nvim) ![](https://img.shields.io/github/stars/n1kben/gitcast.nvim) ![](https://img.shields.io/github/last-commit/n1kben/gitcast.nvim) ![](https://img.shields.io/github/commit-activity/y/n1kben/gitcast.nvim)
 - [kimpure/gitcolors.nvim](https://github.com/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/stars/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/last-commit/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/gitcolors.nvim)
 - [yuki-yano/snacks-smart-git-status.nvim](https://github.com/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-git-status.nvim)
+- [smiggiddy/git-oil.nvim](https://github.com/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/stars/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/last-commit/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/smiggiddy/git-oil.nvim)
 
 ### git add
 
@@ -283,6 +284,7 @@
 - [matthewalunni/nvim-gitmovie](https://github.com/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/stars/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/last-commit/matthewalunni/nvim-gitmovie) ![](https://img.shields.io/github/commit-activity/y/matthewalunni/nvim-gitmovie)
 - [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/stars/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/last-commit/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Salanoid/gitlogdiff.nvim)
 - [Enigama/remarks.nvim](https://github.com/Enigama/remarks.nvim) ![](https://img.shields.io/github/stars/Enigama/remarks.nvim) ![](https://img.shields.io/github/last-commit/Enigama/remarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Enigama/remarks.nvim)
+- [dallagi/git-timemachine.nvim](https://github.com/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/stars/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/last-commit/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/dallagi/git-timemachine.nvim)
 
 #### preview contents
 
@@ -556,6 +558,7 @@
 - [pravinbashyal/cligh.nvim](https://github.com/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/stars/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/last-commit/pravinbashyal/cligh.nvim) ![](https://img.shields.io/github/commit-activity/y/pravinbashyal/cligh.nvim)
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) ![](https://img.shields.io/github/stars/noamsto/resolved.nvim) ![](https://img.shields.io/github/last-commit/noamsto/resolved.nvim) ![](https://img.shields.io/github/commit-activity/y/noamsto/resolved.nvim)
 - [palekiwi/prctl.nvim](https://github.com/palekiwi/prctl.nvim) ![](https://img.shields.io/github/stars/palekiwi/prctl.nvim) ![](https://img.shields.io/github/last-commit/palekiwi/prctl.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi/prctl.nvim)
+- [ryugen04/remora.nvim](https://github.com/ryugen04/remora.nvim) ![](https://img.shields.io/github/stars/ryugen04/remora.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/remora.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/remora.nvim)
 
 #### Pull Request Comment
 

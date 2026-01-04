@@ -60,6 +60,7 @@
 - [tkachenkosi/mautopairs.nvim](https://github.com/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/stars/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/last-commit/tkachenkosi/mautopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenkosi/mautopairs.nvim)
 - [Marfien/simple-pairs.nvim](https://github.com/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/stars/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/last-commit/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Marfien/simple-pairs.nvim)
 - [sundbp/strict-paredit.nvim](https://github.com/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/stars/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/last-commit/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/strict-paredit.nvim)
+- [frangio/parity.nvim](https://github.com/frangio/parity.nvim) ![](https://img.shields.io/github/stars/frangio/parity.nvim) ![](https://img.shields.io/github/last-commit/frangio/parity.nvim) ![](https://img.shields.io/github/commit-activity/y/frangio/parity.nvim)
 
 ### escape pairs
 

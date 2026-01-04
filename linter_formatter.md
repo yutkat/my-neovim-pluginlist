@@ -66,6 +66,7 @@
 - [aanatoly/ws-trim.nvim](https://github.com/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/stars/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/last-commit/aanatoly/ws-trim.nvim) ![](https://img.shields.io/github/commit-activity/y/aanatoly/ws-trim.nvim)
 - [littlewhi/shit-whitesapce.nvim](https://github.com/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/stars/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/last-commit/littlewhi/shit-whitesapce.nvim) ![](https://img.shields.io/github/commit-activity/y/littlewhi/shit-whitesapce.nvim)
 - [BKoderisch/whitespace.nvim](https://github.com/BKoderisch/whitespace.nvim) ![](https://img.shields.io/github/stars/BKoderisch/whitespace.nvim) ![](https://img.shields.io/github/last-commit/BKoderisch/whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/BKoderisch/whitespace.nvim)
+- [yokotakohei/detect-whitespace.nvim](https://github.com/yokotakohei/detect-whitespace.nvim) ![](https://img.shields.io/github/stars/yokotakohei/detect-whitespace.nvim) ![](https://img.shields.io/github/last-commit/yokotakohei/detect-whitespace.nvim) ![](https://img.shields.io/github/commit-activity/y/yokotakohei/detect-whitespace.nvim)
 
 ### Trim EOL
 

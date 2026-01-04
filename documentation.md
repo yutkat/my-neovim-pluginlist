@@ -163,6 +163,7 @@
   - [mtkld/fixedspace.nvim](https://github.com/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/stars/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/last-commit/mtkld/fixedspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/fixedspace.nvim)
 - [baphled/md_nav.nvim](https://github.com/baphled/md_nav.nvim) ![](https://img.shields.io/github/stars/baphled/md_nav.nvim) ![](https://img.shields.io/github/last-commit/baphled/md_nav.nvim) ![](https://img.shields.io/github/commit-activity/y/baphled/md_nav.nvim)
 - [lum1nar/float-toc.nvim](https://github.com/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/stars/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/float-toc.nvim)
+- [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/atlas.nvim)
 
 #### highlight
 
@@ -204,6 +205,7 @@
 - [andev0x/mdview.nvim](https://github.com/andev0x/mdview.nvim) ![](https://img.shields.io/github/stars/andev0x/mdview.nvim) ![](https://img.shields.io/github/last-commit/andev0x/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/mdview.nvim)
 - [hostmyapps-git/live-preview.nvim](https://github.com/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/stars/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/last-commit/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/hostmyapps-git/live-preview.nvim)
 - [StefanBartl/mdview.nvim](https://github.com/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/stars/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/mdview.nvim)
+- [urugus/mdbuf.nvim](https://github.com/urugus/mdbuf.nvim) ![](https://img.shields.io/github/stars/urugus/mdbuf.nvim) ![](https://img.shields.io/github/last-commit/urugus/mdbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/mdbuf.nvim)
 
 ##### Deno
 

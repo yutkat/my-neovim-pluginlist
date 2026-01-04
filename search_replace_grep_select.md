@@ -215,6 +215,7 @@
 - [ashwinp88/egrep.nvim](https://github.com/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/stars/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/last-commit/ashwinp88/egrep.nvim) ![](https://img.shields.io/github/commit-activity/y/ashwinp88/egrep.nvim)
 - [naranyala/ag_filepicker.nvim](https://github.com/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/stars/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/last-commit/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/ag_filepicker.nvim)
 - [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) ![](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![](https://img.shields.io/github/last-commit/bravoecho/brook.nvim) ![](https://img.shields.io/github/commit-activity/y/bravoecho/brook.nvim)
+- [mistgc/grp.nvim](https://github.com/mistgc/grp.nvim) ![](https://img.shields.io/github/stars/mistgc/grp.nvim) ![](https://img.shields.io/github/last-commit/mistgc/grp.nvim) ![](https://img.shields.io/github/commit-activity/y/mistgc/grp.nvim)
 
 ### AST (Semantic search)
 
