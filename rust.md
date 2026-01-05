@@ -14,6 +14,7 @@
     - [Maud](#maud)
   - [Crate](#crate)
   - [lifetime](#lifetime)
+  - [rustlings](#rustlings)
   - [Framework](#framework)
     - [Dioxus](#dioxus)
     - [tera](#tera)
@@ -85,6 +86,10 @@
 
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) ![](https://img.shields.io/github/stars/cordx56/rustowl) ![](https://img.shields.io/github/last-commit/cordx56/rustowl) ![](https://img.shields.io/github/commit-activity/y/cordx56/rustowl)
 - [ASoldo/rust-lifetimes.nvim](https://github.com/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/stars/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/last-commit/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/commit-activity/y/ASoldo/rust-lifetimes.nvim)
+
+### rustlings
+
+- [martifaj/rustlings.nvim](https://github.com/martifaj/rustlings.nvim) ![](https://img.shields.io/github/stars/martifaj/rustlings.nvim) ![](https://img.shields.io/github/last-commit/martifaj/rustlings.nvim) ![](https://img.shields.io/github/commit-activity/y/martifaj/rustlings.nvim)
 
 ### Framework
 
