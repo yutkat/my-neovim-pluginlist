@@ -10,6 +10,7 @@
     - [Gemini CLI](#gemini-cli)
   - [Grok](#grok)
   - [Multi LLM](#multi-llm)
+    - [crush](#crush)
     - [mods](#mods)
     - [Generate Doc](#generate-doc)
       - [Mintlify Writer](#mintlify-writer)
@@ -176,6 +177,7 @@
 - [caverav/codex.nvim](https://github.com/caverav/codex.nvim) ![](https://img.shields.io/github/stars/caverav/codex.nvim) ![](https://img.shields.io/github/last-commit/caverav/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/codex.nvim)
 - [anirudhsundar/codex.nvim](https://github.com/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/stars/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/last-commit/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/anirudhsundar/codex.nvim)
 - [dukjjang/codex-cli.nvim](https://github.com/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/stars/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dukjjang/codex-cli.nvim)
+- [momiforgotthesemicolon/codex-nvim](https://github.com/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/stars/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/last-commit/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/commit-activity/y/momiforgotthesemicolon/codex-nvim)
 
 #### Whisper
 
