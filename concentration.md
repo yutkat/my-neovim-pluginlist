@@ -59,6 +59,7 @@
 - [arch563/reminders.nvim](https://github.com/arch563/reminders.nvim) ![](https://img.shields.io/github/stars/arch563/reminders.nvim) ![](https://img.shields.io/github/last-commit/arch563/reminders.nvim) ![](https://img.shields.io/github/commit-activity/y/arch563/reminders.nvim)
 - [CodeGeek04/wellness-break.nvim](https://github.com/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/stars/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/last-commit/CodeGeek04/wellness-break.nvim) ![](https://img.shields.io/github/commit-activity/y/CodeGeek04/wellness-break.nvim)
 - [popmatik/health-break.nvim](https://github.com/popmatik/health-break.nvim) ![](https://img.shields.io/github/stars/popmatik/health-break.nvim) ![](https://img.shields.io/github/last-commit/popmatik/health-break.nvim) ![](https://img.shields.io/github/commit-activity/y/popmatik/health-break.nvim)
+- [piyushdivyankar1994/goblin.nvim](https://github.com/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/stars/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/last-commit/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/commit-activity/y/piyushdivyankar1994/goblin.nvim)
 
 ## Timer
 

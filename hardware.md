@@ -103,6 +103,7 @@
 - [AtomThum/layoutswitch.nvim](https://github.com/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/stars/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/last-commit/AtomThum/layoutswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/AtomThum/layoutswitch.nvim)
 - [coreyb-git/keyboardlayout.nvim](https://github.com/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/stars/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/keyboardlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/keyboardlayout.nvim)
 - [Levizor/hyprxkbswitch.nvim](https://github.com/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/stars/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/last-commit/Levizor/hyprxkbswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/Levizor/hyprxkbswitch.nvim)
+- [daym0ns/ergogen.nvim](https://github.com/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/stars/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/last-commit/daym0ns/ergogen.nvim) ![](https://img.shields.io/github/commit-activity/y/daym0ns/ergogen.nvim)
 
 #### Virtual Keyboard
 

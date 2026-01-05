@@ -479,6 +479,8 @@
 
 ### Mistral
 
+- [jrollin/mistral-codestral.nvim](https://github.com/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/stars/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/last-commit/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/commit-activity/y/jrollin/mistral-codestral.nvim)
+
 ### Mentat
 
 - [hesiod-au/mentat.nvim](https://github.com/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/stars/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/last-commit/hesiod-au/mentat.nvim) ![](https://img.shields.io/github/commit-activity/y/hesiod-au/mentat.nvim)
@@ -575,6 +577,7 @@
 - [haapjari/inline.nvim](https://github.com/haapjari/inline.nvim) ![](https://img.shields.io/github/stars/haapjari/inline.nvim) ![](https://img.shields.io/github/last-commit/haapjari/inline.nvim) ![](https://img.shields.io/github/commit-activity/y/haapjari/inline.nvim)
 - [silvabyte/audetic.nvim](https://github.com/silvabyte/audetic.nvim) ![](https://img.shields.io/github/stars/silvabyte/audetic.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/audetic.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/audetic.nvim)
 - [jaswdr/opencode-completion.nvim](https://github.com/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/stars/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/last-commit/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/jaswdr/opencode-completion.nvim)
+- [mark-vella/oct2c.nvim](https://github.com/mark-vella/oct2c.nvim) ![](https://img.shields.io/github/stars/mark-vella/oct2c.nvim) ![](https://img.shields.io/github/last-commit/mark-vella/oct2c.nvim) ![](https://img.shields.io/github/commit-activity/y/mark-vella/oct2c.nvim)
 
 ### khulnasoft
 

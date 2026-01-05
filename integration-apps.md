@@ -269,6 +269,7 @@
 - [dkooll/diffy.nvim](https://github.com/dkooll/diffy.nvim) ![](https://img.shields.io/github/stars/dkooll/diffy.nvim) ![](https://img.shields.io/github/last-commit/dkooll/diffy.nvim) ![](https://img.shields.io/github/commit-activity/y/dkooll/diffy.nvim)
 - [timonviola/terraform-doc-browser.nvim](https://github.com/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/stars/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/last-commit/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/timonviola/terraform-doc-browser.nvim)
 - [mariuskimmina/tfapply.nvim](https://github.com/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/stars/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/last-commit/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/commit-activity/y/mariuskimmina/tfapply.nvim)
+- [mhiro2/tf-docs.nvim](https://github.com/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/stars/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/tf-docs.nvim)
 
 ##### atmos
 

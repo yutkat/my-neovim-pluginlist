@@ -44,6 +44,7 @@
     - [Code to Markdown](#code-to-markdown)
     - [AI writter](#ai-writter)
     - [MyST](#myst)
+  - [Documentation search](#documentation-search)
   - [Fountain](#fountain)
   - [Query](#query)
     - [MDX](#mdx)
@@ -385,6 +386,10 @@
 #### MyST
 
 - [QuantEcon/myst-markdown-tree-sitter.nvim](https://github.com/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/stars/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/last-commit/QuantEcon/myst-markdown-tree-sitter.nvim) ![](https://img.shields.io/github/commit-activity/y/QuantEcon/myst-markdown-tree-sitter.nvim)
+
+### Documentation search
+
+- [cmdl-dev/search_doc.nvim](https://github.com/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/stars/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/last-commit/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/commit-activity/y/cmdl-dev/search_doc.nvim)
 
 ### Fountain
 
