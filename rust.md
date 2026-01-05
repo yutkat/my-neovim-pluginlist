@@ -14,6 +14,7 @@
     - [Maud](#maud)
   - [Crate](#crate)
   - [lifetime](#lifetime)
+  - [rustlings](#rustlings)
   - [Framework](#framework)
     - [Dioxus](#dioxus)
     - [tera](#tera)
@@ -35,7 +36,6 @@
 - [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
 - [wuchuheng/auto-fix-rust.nvim](https://github.com/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/stars/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/last-commit/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/wuchuheng/auto-fix-rust.nvim)
 - [alexpasmantier/krust.nvim](https://github.com/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/krust.nvim)
-- [martifaj/rustlings.nvim](https://github.com/martifaj/rustlings.nvim) ![](https://img.shields.io/github/stars/martifaj/rustlings.nvim) ![](https://img.shields.io/github/last-commit/martifaj/rustlings.nvim) ![](https://img.shields.io/github/commit-activity/y/martifaj/rustlings.nvim)
 
 ### Test
 
@@ -86,6 +86,10 @@
 
 - [cordx56/rustowl](https://github.com/cordx56/rustowl) ![](https://img.shields.io/github/stars/cordx56/rustowl) ![](https://img.shields.io/github/last-commit/cordx56/rustowl) ![](https://img.shields.io/github/commit-activity/y/cordx56/rustowl)
 - [ASoldo/rust-lifetimes.nvim](https://github.com/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/stars/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/last-commit/ASoldo/rust-lifetimes.nvim) ![](https://img.shields.io/github/commit-activity/y/ASoldo/rust-lifetimes.nvim)
+
+### rustlings
+
+- [martifaj/rustlings.nvim](https://github.com/martifaj/rustlings.nvim) ![](https://img.shields.io/github/stars/martifaj/rustlings.nvim) ![](https://img.shields.io/github/last-commit/martifaj/rustlings.nvim) ![](https://img.shields.io/github/commit-activity/y/martifaj/rustlings.nvim)
 
 ### Framework
 
