@@ -174,6 +174,7 @@
 - [JanSmrcka/codex.nvim](https://github.com/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/stars/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/last-commit/JanSmrcka/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/codex.nvim)
 - [rkmax/codex.nvim](https://github.com/rkmax/codex.nvim) ![](https://img.shields.io/github/stars/rkmax/codex.nvim) ![](https://img.shields.io/github/last-commit/rkmax/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/rkmax/codex.nvim)
 - [caverav/codex.nvim](https://github.com/caverav/codex.nvim) ![](https://img.shields.io/github/stars/caverav/codex.nvim) ![](https://img.shields.io/github/last-commit/caverav/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/codex.nvim)
+- [momiforgotthesemicolon/codex-nvim](https://github.com/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/stars/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/last-commit/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/commit-activity/y/momiforgotthesemicolon/codex-nvim)
 
 #### Whisper
 
