@@ -210,7 +210,6 @@
 - [ring0-rootkit/compile-mode.nvim](https://github.com/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/stars/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/last-commit/ring0-rootkit/compile-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ring0-rootkit/compile-mode.nvim)
 - [reybits/anvil.nvim](https://github.com/reybits/anvil.nvim) ![](https://img.shields.io/github/stars/reybits/anvil.nvim) ![](https://img.shields.io/github/last-commit/reybits/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/anvil.nvim)
 - [mdrosiadis/nvim-compile](https://github.com/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/stars/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/last-commit/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/mdrosiadis/nvim-compile)
-- [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
 
 ### Auto detect style
 
@@ -229,6 +228,7 @@
 - [rltyty/runit.nvim](https://github.com/rltyty/runit.nvim) ![](https://img.shields.io/github/stars/rltyty/runit.nvim) ![](https://img.shields.io/github/last-commit/rltyty/runit.nvim) ![](https://img.shields.io/github/commit-activity/y/rltyty/runit.nvim)
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
 - [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
+- [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
 
 ### :make style
 
