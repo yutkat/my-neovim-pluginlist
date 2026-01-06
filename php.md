@@ -36,6 +36,7 @@
 ### test
 
 - [zkucekovic/tdd.nvim](https://github.com/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/stars/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/last-commit/zkucekovic/tdd.nvim) ![](https://img.shields.io/github/commit-activity/y/zkucekovic/tdd.nvim)
+- [pdaether/pest.nvim](https://github.com/pdaether/pest.nvim) ![](https://img.shields.io/github/stars/pdaether/pest.nvim) ![](https://img.shields.io/github/last-commit/pdaether/pest.nvim) ![](https://img.shields.io/github/commit-activity/y/pdaether/pest.nvim)
 
 ### REPL
 

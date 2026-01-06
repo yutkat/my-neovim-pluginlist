@@ -128,6 +128,7 @@
 - [drybalka/tree-climber.nvim](https://github.com/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/stars/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/last-commit/drybalka/tree-climber.nvim) ![](https://img.shields.io/github/commit-activity/y/drybalka/tree-climber.nvim)
 - [woosaaahh/vertigo.nvim](https://github.com/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/stars/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/vertigo.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/vertigo.nvim)
 - [mluders/comfy-line-numbers.nvim](https://github.com/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/stars/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/last-commit/mluders/comfy-line-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/mluders/comfy-line-numbers.nvim)
+- [flayshon/snapcol.nvim](https://github.com/flayshon/snapcol.nvim) ![](https://img.shields.io/github/stars/flayshon/snapcol.nvim) ![](https://img.shields.io/github/last-commit/flayshon/snapcol.nvim) ![](https://img.shields.io/github/commit-activity/y/flayshon/snapcol.nvim)
 
 ### Cursor motion
 

@@ -79,6 +79,7 @@
 - [syntaxpresso/bufstate.nvim](https://github.com/syntaxpresso/bufstate.nvim) ![](https://img.shields.io/github/stars/syntaxpresso/bufstate.nvim) ![](https://img.shields.io/github/last-commit/syntaxpresso/bufstate.nvim) ![](https://img.shields.io/github/commit-activity/y/syntaxpresso/bufstate.nvim)
 - [Lowq53/nvim-session-manager](https://github.com/Lowq53/nvim-session-manager) ![](https://img.shields.io/github/stars/Lowq53/nvim-session-manager) ![](https://img.shields.io/github/last-commit/Lowq53/nvim-session-manager) ![](https://img.shields.io/github/commit-activity/y/Lowq53/nvim-session-manager)
 - [stephane-klein/neo-tree-session.nvim](https://github.com/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/stars/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/last-commit/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/commit-activity/y/stephane-klein/neo-tree-session.nvim)
+- [Akmadan23/local-session.nvim](https://github.com/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/stars/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/last-commit/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akmadan23/local-session.nvim)
 
 ### Session Selector
 

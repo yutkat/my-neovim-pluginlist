@@ -207,6 +207,7 @@
 - [hostmyapps-git/live-preview.nvim](https://github.com/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/stars/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/last-commit/hostmyapps-git/live-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/hostmyapps-git/live-preview.nvim)
 - [StefanBartl/mdview.nvim](https://github.com/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/stars/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/mdview.nvim)
 - [urugus/mdbuf.nvim](https://github.com/urugus/mdbuf.nvim) ![](https://img.shields.io/github/stars/urugus/mdbuf.nvim) ![](https://img.shields.io/github/last-commit/urugus/mdbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/mdbuf.nvim)
+- [urugus/kagami.nvim](https://github.com/urugus/kagami.nvim) ![](https://img.shields.io/github/stars/urugus/kagami.nvim) ![](https://img.shields.io/github/last-commit/urugus/kagami.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/kagami.nvim)
 
 ##### Deno
 

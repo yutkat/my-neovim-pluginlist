@@ -253,6 +253,8 @@
 - [viniciusteixeiradias/kanban.nvim](https://github.com/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/stars/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/last-commit/viniciusteixeiradias/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciusteixeiradias/kanban.nvim)
 - [Kamyil/markdown-agenda.nvim](https://github.com/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/stars/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/last-commit/Kamyil/markdown-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/Kamyil/markdown-agenda.nvim)
 - [tgienger/stm.nvim](https://github.com/tgienger/stm.nvim) ![](https://img.shields.io/github/stars/tgienger/stm.nvim) ![](https://img.shields.io/github/last-commit/tgienger/stm.nvim) ![](https://img.shields.io/github/commit-activity/y/tgienger/stm.nvim)
+- [b0dee/qabtan.nvim](https://github.com/b0dee/qabtan.nvim) ![](https://img.shields.io/github/stars/b0dee/qabtan.nvim) ![](https://img.shields.io/github/last-commit/b0dee/qabtan.nvim) ![](https://img.shields.io/github/commit-activity/y/b0dee/qabtan.nvim)
+- [blitzarx1/todoer.nvim](https://github.com/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/stars/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/last-commit/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/commit-activity/y/blitzarx1/todoer.nvim)
 
 #### Google Task
 

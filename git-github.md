@@ -478,6 +478,7 @@
 - [HotThoughts/jjui.nvim](https://github.com/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/stars/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/last-commit/HotThoughts/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/HotThoughts/jjui.nvim)
 - [Spiegie/jj-conflict-highlight.nvim](https://github.com/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/stars/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/last-commit/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Spiegie/jj-conflict-highlight.nvim)
 - [sivansh11/jj](https://github.com/sivansh11/jj) ![](https://img.shields.io/github/stars/sivansh11/jj) ![](https://img.shields.io/github/last-commit/sivansh11/jj) ![](https://img.shields.io/github/commit-activity/y/sivansh11/jj)
+- [yannvanhalewyn/jujutsu.nvim](https://github.com/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/stars/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/yannvanhalewyn/jujutsu.nvim)
 
 ### diff
 
