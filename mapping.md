@@ -128,6 +128,7 @@
 - [yuri-rage/nvim-keybind-tracker](https://github.com/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/stars/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/last-commit/yuri-rage/nvim-keybind-tracker) ![](https://img.shields.io/github/commit-activity/y/yuri-rage/nvim-keybind-tracker)
 - [HunterretnuH/map-tree.nvim](https://github.com/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map-tree.nvim)
 - [sk1t0n/vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/stars/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/last-commit/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/sk1t0n/vim-top-keymaps.nvim)
+- [bezlant/unused.nvim](https://github.com/bezlant/unused.nvim) ![](https://img.shields.io/github/stars/bezlant/unused.nvim) ![](https://img.shields.io/github/last-commit/bezlant/unused.nvim) ![](https://img.shields.io/github/commit-activity/y/bezlant/unused.nvim)
 
 ### Prefix Key Binding
 

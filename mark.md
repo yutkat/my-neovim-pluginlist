@@ -139,6 +139,7 @@
 - [dhruvmanila/telescope-bookmarks.nvim](https://github.com/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/stars/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/last-commit/dhruvmanila/telescope-bookmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dhruvmanila/telescope-bookmarks.nvim)
 - [Sidney-Bernardin/tesser.nvim](https://github.com/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/stars/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/last-commit/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/commit-activity/y/Sidney-Bernardin/tesser.nvim)
 - [anoopkcn/filemarks.nvim](https://github.com/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/stars/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/filemarks.nvim)
+- [eidge/charta.nvim](https://github.com/eidge/charta.nvim) ![](https://img.shields.io/github/stars/eidge/charta.nvim) ![](https://img.shields.io/github/last-commit/eidge/charta.nvim) ![](https://img.shields.io/github/commit-activity/y/eidge/charta.nvim)
 
 ### etc
 
@@ -174,3 +175,4 @@
 - [vieitesss/miniharp.nvim](https://github.com/vieitesss/miniharp.nvim) ![](https://img.shields.io/github/stars/vieitesss/miniharp.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/miniharp.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/miniharp.nvim)
 - [walkersumida/fusen.nvim](https://github.com/walkersumida/fusen.nvim) ![](https://img.shields.io/github/stars/walkersumida/fusen.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/fusen.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/fusen.nvim)
 - [alexekdahl/marksman.nvim](https://github.com/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/stars/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/last-commit/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/commit-activity/y/alexekdahl/marksman.nvim)
+- [stuglaser/mark_ring.nvim](https://github.com/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/stars/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/last-commit/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/commit-activity/y/stuglaser/mark_ring.nvim)
