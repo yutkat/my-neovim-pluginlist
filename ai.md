@@ -408,6 +408,7 @@
 - [CaceresCallieri/orchestator.nvim](https://github.com/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/stars/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/last-commit/CaceresCallieri/orchestator.nvim) ![](https://img.shields.io/github/commit-activity/y/CaceresCallieri/orchestator.nvim)
 - [3kz2501/claude-input.nvim](https://github.com/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/stars/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/last-commit/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/commit-activity/y/3kz2501/claude-input.nvim)
 - [johnernaut/claude-files.nvim](https://github.com/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/stars/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/last-commit/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/commit-activity/y/johnernaut/claude-files.nvim)
+- [marcelom97/claude-context.nvim](https://github.com/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-context.nvim)
 
 ### Amazon Q
 
