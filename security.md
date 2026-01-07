@@ -92,6 +92,7 @@
 ## Privacy
 
 - [skeletony007/private-mode.nvim](https://github.com/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/stars/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/private-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/private-mode.nvim)
+- [vipul-sharma20/privacy-mode.nvim](https://github.com/vipul-sharma20/privacy-mode.nvim) ![](https://img.shields.io/github/stars/vipul-sharma20/privacy-mode.nvim) ![](https://img.shields.io/github/last-commit/vipul-sharma20/privacy-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/vipul-sharma20/privacy-mode.nvim)
 
 ## GPG
 

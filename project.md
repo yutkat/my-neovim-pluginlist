@@ -70,6 +70,7 @@
 - [simonwjackson/project-picker.nvim](https://github.com/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/stars/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/last-commit/simonwjackson/project-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwjackson/project-picker.nvim)
 - [letrandat/nvim-workspaces](https://github.com/letrandat/nvim-workspaces) ![](https://img.shields.io/github/stars/letrandat/nvim-workspaces) ![](https://img.shields.io/github/last-commit/letrandat/nvim-workspaces) ![](https://img.shields.io/github/commit-activity/y/letrandat/nvim-workspaces)
 - [aclCMNK/my_projects.nvim](https://github.com/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/stars/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/my_projects.nvim)
+- [JulianSchubel/nvim-launchpad](https://github.com/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-launchpad)
 
 ### Project Root Detector
 

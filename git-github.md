@@ -317,6 +317,7 @@
 - [ahmedalhulaibi/dirty-review.nvim](https://github.com/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/stars/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/last-commit/ahmedalhulaibi/dirty-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ahmedalhulaibi/dirty-review.nvim)
 - [pmelab/review.nvim](https://github.com/pmelab/review.nvim) ![](https://img.shields.io/github/stars/pmelab/review.nvim) ![](https://img.shields.io/github/last-commit/pmelab/review.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/review.nvim)
 - [alexandrelam/diff-navigator.nvim](https://github.com/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/stars/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/last-commit/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/alexandrelam/diff-navigator.nvim)
+- [dpi0/ddf.nvim](https://github.com/dpi0/ddf.nvim) ![](https://img.shields.io/github/stars/dpi0/ddf.nvim) ![](https://img.shields.io/github/last-commit/dpi0/ddf.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/ddf.nvim)
 
 #### image diff
 

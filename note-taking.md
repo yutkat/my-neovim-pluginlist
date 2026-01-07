@@ -62,6 +62,7 @@
 - [hamidi-dev/org-super-agenda.nvim](https://github.com/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-super-agenda.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-super-agenda.nvim)
 - [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/org-social.nvim)
 - [aaratha/org-cycle-lite.nvim](https://github.com/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/stars/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/last-commit/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaratha/org-cycle-lite.nvim)
+- [RuslanGagushin/obsorg.nvim](https://github.com/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/stars/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/last-commit/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/commit-activity/y/RuslanGagushin/obsorg.nvim)
 
 ### Zettelkasten
 
@@ -121,6 +122,7 @@
 - [pants721/orca.nvim](https://github.com/pants721/orca.nvim) ![](https://img.shields.io/github/stars/pants721/orca.nvim) ![](https://img.shields.io/github/last-commit/pants721/orca.nvim) ![](https://img.shields.io/github/commit-activity/y/pants721/orca.nvim)
 - [Mazide/today.nvim](https://github.com/Mazide/today.nvim) ![](https://img.shields.io/github/stars/Mazide/today.nvim) ![](https://img.shields.io/github/last-commit/Mazide/today.nvim) ![](https://img.shields.io/github/commit-activity/y/Mazide/today.nvim)
 - [kaka-ruto/notre.nvim](https://github.com/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/stars/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/last-commit/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/notre.nvim)
+- [ckyrouac/nfc.nvim](https://github.com/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/stars/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/last-commit/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/commit-activity/y/ckyrouac/nfc.nvim)
 
 ### ToDo
 
@@ -605,3 +607,4 @@
 - [SalOrak/note.nvim](https://github.com/SalOrak/note.nvim) ![](https://img.shields.io/github/stars/SalOrak/note.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/note.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/note.nvim)
 - [nkapatos/neoweaver.nvim](https://github.com/nkapatos/neoweaver.nvim) ![](https://img.shields.io/github/stars/nkapatos/neoweaver.nvim) ![](https://img.shields.io/github/last-commit/nkapatos/neoweaver.nvim) ![](https://img.shields.io/github/commit-activity/y/nkapatos/neoweaver.nvim)
 - [salasberryfin/postit.nvim](https://github.com/salasberryfin/postit.nvim) ![](https://img.shields.io/github/stars/salasberryfin/postit.nvim) ![](https://img.shields.io/github/last-commit/salasberryfin/postit.nvim) ![](https://img.shields.io/github/commit-activity/y/salasberryfin/postit.nvim)
+- [SalOrak/orak.nvim](https://github.com/SalOrak/orak.nvim) ![](https://img.shields.io/github/stars/SalOrak/orak.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/orak.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/orak.nvim)
