@@ -334,6 +334,8 @@
 - [edwinboon/azure.nvim](https://github.com/edwinboon/azure.nvim) ![](https://img.shields.io/github/stars/edwinboon/azure.nvim) ![](https://img.shields.io/github/last-commit/edwinboon/azure.nvim) ![](https://img.shields.io/github/commit-activity/y/edwinboon/azure.nvim)
 - [ChristofferNissen/azure-pipelines.nvim](https://github.com/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/stars/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/last-commit/ChristofferNissen/azure-pipelines.nvim) ![](https://img.shields.io/github/commit-activity/y/ChristofferNissen/azure-pipelines.nvim)
 - [Wotee/adoboards.nvim](https://github.com/Wotee/adoboards.nvim) ![](https://img.shields.io/github/stars/Wotee/adoboards.nvim) ![](https://img.shields.io/github/last-commit/Wotee/adoboards.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/adoboards.nvim)
+- [jampow/nvim-azure-devops-plugin](https://github.com/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/stars/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/last-commit/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/commit-activity/y/jampow/nvim-azure-devops-plugin)
+- [thomazmoura/workhorse.nvim](https://github.com/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/stars/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/workhorse.nvim)
 
 #### Adobe
 
