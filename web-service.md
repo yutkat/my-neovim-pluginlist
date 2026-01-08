@@ -157,6 +157,7 @@
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
 - [jampow/nvim-azure-devops-plugin](https://github.com/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/stars/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/last-commit/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/commit-activity/y/jampow/nvim-azure-devops-plugin)
+- [thomazmoura/workhorse.nvim](https://github.com/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/stars/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/workhorse.nvim)
 
 ### Local server
 

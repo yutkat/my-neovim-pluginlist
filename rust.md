@@ -65,6 +65,7 @@
 ### Clippy
 
 - [johnsaigle/clippy.nvim](https://github.com/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/stars/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/clippy.nvim)
+- [Arne-Berner/nvim-clippy](https://github.com/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/stars/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/last-commit/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/commit-activity/y/Arne-Berner/nvim-clippy)
 
 ### Completion
 

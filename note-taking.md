@@ -88,6 +88,7 @@
 - [hisamafahri/archive.nvim](https://github.com/hisamafahri/archive.nvim) ![](https://img.shields.io/github/stars/hisamafahri/archive.nvim) ![](https://img.shields.io/github/last-commit/hisamafahri/archive.nvim) ![](https://img.shields.io/github/commit-activity/y/hisamafahri/archive.nvim)
 - [Youchunmaru/skb.nvim](https://github.com/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/stars/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/last-commit/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/commit-activity/y/Youchunmaru/skb.nvim)
 - [wsdjeg/zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/stars/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/zettelkasten.nvim)
+- [tDalile/gravel.nvim](https://github.com/tDalile/gravel.nvim) ![](https://img.shields.io/github/stars/tDalile/gravel.nvim) ![](https://img.shields.io/github/last-commit/tDalile/gravel.nvim) ![](https://img.shields.io/github/commit-activity/y/tDalile/gravel.nvim)
 
 ### Markdown
 
@@ -123,6 +124,8 @@
 - [Mazide/today.nvim](https://github.com/Mazide/today.nvim) ![](https://img.shields.io/github/stars/Mazide/today.nvim) ![](https://img.shields.io/github/last-commit/Mazide/today.nvim) ![](https://img.shields.io/github/commit-activity/y/Mazide/today.nvim)
 - [kaka-ruto/notre.nvim](https://github.com/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/stars/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/last-commit/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/notre.nvim)
 - [ckyrouac/nfc.nvim](https://github.com/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/stars/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/last-commit/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/commit-activity/y/ckyrouac/nfc.nvim)
+- [gs-deliverists-io/daily-champ.nvim](https://github.com/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/daily-champ.nvim)
+- [paulpaule21/life.nvim](https://github.com/paulpaule21/life.nvim) ![](https://img.shields.io/github/stars/paulpaule21/life.nvim) ![](https://img.shields.io/github/last-commit/paulpaule21/life.nvim) ![](https://img.shields.io/github/commit-activity/y/paulpaule21/life.nvim)
 
 ### ToDo
 

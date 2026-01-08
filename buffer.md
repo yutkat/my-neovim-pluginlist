@@ -299,6 +299,7 @@
 #### oldfiles
 
 - [incptr/telescope-live-grep-oldfiles.nvim](https://github.com/incptr/telescope-live-grep-oldfiles.nvim) ![](https://img.shields.io/github/stars/incptr/telescope-live-grep-oldfiles.nvim) ![](https://img.shields.io/github/last-commit/incptr/telescope-live-grep-oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/incptr/telescope-live-grep-oldfiles.nvim)
+- [phanen/frecency.nvim](https://github.com/phanen/frecency.nvim) ![](https://img.shields.io/github/stars/phanen/frecency.nvim) ![](https://img.shields.io/github/last-commit/phanen/frecency.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/frecency.nvim)
 
 ### Scratch Buffer
 

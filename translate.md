@@ -33,6 +33,7 @@
 - [alassek/deepl.nvim](https://github.com/alassek/deepl.nvim) ![](https://img.shields.io/github/stars/alassek/deepl.nvim) ![](https://img.shields.io/github/last-commit/alassek/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/alassek/deepl.nvim)
 - [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) ![](https://img.shields.io/github/stars/walkersumida/deepl.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/deepl.nvim)
 - [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) ![](https://img.shields.io/github/stars/acidsugarx/babel.nvim) ![](https://img.shields.io/github/last-commit/acidsugarx/babel.nvim) ![](https://img.shields.io/github/commit-activity/y/acidsugarx/babel.nvim)
+- [Tardouse/translate.nvim](https://github.com/Tardouse/translate.nvim) ![](https://img.shields.io/github/stars/Tardouse/translate.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/translate.nvim)
 
 ## i18n
 
