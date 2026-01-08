@@ -307,6 +307,8 @@
 
 ### Preset task
 
+- [Lindenschuh/uwu.nvim](https://github.com/Lindenschuh/uwu.nvim) ![](https://img.shields.io/github/stars/Lindenschuh/uwu.nvim) ![](https://img.shields.io/github/last-commit/Lindenschuh/uwu.nvim) ![](https://img.shields.io/github/commit-activity/y/Lindenschuh/uwu.nvim)
+
 ### moon (moonrepo)
 
 - [nhomble/moon-monorepo.nvim](https://github.com/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/stars/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/last-commit/nhomble/moon-monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/nhomble/moon-monorepo.nvim)

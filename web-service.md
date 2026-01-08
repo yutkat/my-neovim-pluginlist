@@ -16,6 +16,7 @@
     - [X (Twitter)](#x-twitter)
     - [Reddit](#reddit)
   - [Notion](#notion)
+  - [Raindrop](#raindrop)
   - [esa.io](#esaio)
   - [Dev](#dev)
   - [Local server](#local-server)
@@ -46,7 +47,7 @@
   - [Codeforce](#codeforce)
   - [compiler-explorer](#compiler-explorer)
   - [prefix.cc](#prefixcc)
-  - [www.ietf.org](#wwwietforg)
+  - [](#)
   - [haste](#haste)
   - [TabNews](#tabnews)
   - [HackerNews](#hackernews)
@@ -64,6 +65,7 @@
 - [Web3](#web3)
 - [CI](#ci)
   - [CircleCI](#circleci)
+  - [GitHub Actions](#github-actions)
   - [Nx](#nx)
   - [Jenkins](#jenkins)
   - [SonarQube](#sonarqube)
@@ -156,7 +158,6 @@
 ### Dev
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
-- [jampow/nvim-azure-devops-plugin](https://github.com/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/stars/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/last-commit/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/commit-activity/y/jampow/nvim-azure-devops-plugin)
 
 ### Local server
 
@@ -321,7 +322,7 @@
 
 - [ajuvercr/prefix.cc.nvim](https://github.com/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/stars/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/last-commit/ajuvercr/prefix.cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ajuvercr/prefix.cc.nvim)
 
-### www.ietf.org
+### <www.ietf.org>
 
 - [CyberFatherRT/rfc.nvim](https://github.com/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/rfc.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/rfc.nvim)
 

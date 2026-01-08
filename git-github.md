@@ -408,6 +408,7 @@
 - [g-ioannou/telescope-worktree.nvim](https://github.com/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/stars/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/last-commit/g-ioannou/telescope-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/g-ioannou/telescope-worktree.nvim)
 - [mitubaEX/branch-workspace.nvim](https://github.com/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/stars/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/branch-workspace.nvim)
 - [pittcat/tmux-worktrees.nvim](https://github.com/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/stars/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/last-commit/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/tmux-worktrees.nvim)
+- [nerap/bareme.nvim](https://github.com/nerap/bareme.nvim) ![](https://img.shields.io/github/stars/nerap/bareme.nvim) ![](https://img.shields.io/github/last-commit/nerap/bareme.nvim) ![](https://img.shields.io/github/commit-activity/y/nerap/bareme.nvim)
 
 ### submodule
 
@@ -480,6 +481,7 @@
 - [Spiegie/jj-conflict-highlight.nvim](https://github.com/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/stars/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/last-commit/Spiegie/jj-conflict-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Spiegie/jj-conflict-highlight.nvim)
 - [sivansh11/jj](https://github.com/sivansh11/jj) ![](https://img.shields.io/github/stars/sivansh11/jj) ![](https://img.shields.io/github/last-commit/sivansh11/jj) ![](https://img.shields.io/github/commit-activity/y/sivansh11/jj)
 - [yannvanhalewyn/jujutsu.nvim](https://github.com/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/stars/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/yannvanhalewyn/jujutsu.nvim)
+- [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ![](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![](https://img.shields.io/github/last-commit/jceb/jiejie.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/jiejie.nvim)
 
 ### diff
 

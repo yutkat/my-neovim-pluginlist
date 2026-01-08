@@ -72,6 +72,7 @@
 - [Hugo1974/nvim-webicons](https://github.com/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/stars/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/last-commit/Hugo1974/nvim-webicons) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/nvim-webicons)
 - [knaveightt/wims.nvim](https://github.com/knaveightt/wims.nvim) ![](https://img.shields.io/github/stars/knaveightt/wims.nvim) ![](https://img.shields.io/github/last-commit/knaveightt/wims.nvim) ![](https://img.shields.io/github/commit-activity/y/knaveightt/wims.nvim)
 - [HunterretnuH/universal-icons.nvim](https://github.com/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/universal-icons.nvim)
+- [phanen/lscolors.nvim](https://github.com/phanen/lscolors.nvim) ![](https://img.shields.io/github/stars/phanen/lscolors.nvim) ![](https://img.shields.io/github/last-commit/phanen/lscolors.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lscolors.nvim)
 
 ### Devicon color
 
