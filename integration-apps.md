@@ -436,6 +436,7 @@
 - [pk-hash/smart-im.nvim](https://github.com/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/stars/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/last-commit/pk-hash/smart-im.nvim) ![](https://img.shields.io/github/commit-activity/y/pk-hash/smart-im.nvim)
 - [seokgukim/vawi.nvim](https://github.com/seokgukim/vawi.nvim) ![](https://img.shields.io/github/stars/seokgukim/vawi.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/vawi.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/vawi.nvim)
 - [wsdjeg/smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/stars/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/smart-ime.nvim)
+- [riodelphino/macime.nvim](https://github.com/riodelphino/macime.nvim) ![](https://img.shields.io/github/stars/riodelphino/macime.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/macime.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/macime.nvim)
 
 #### Fcitx
 
