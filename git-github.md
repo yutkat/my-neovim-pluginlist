@@ -112,6 +112,7 @@
 - [metalelf0/git-utils.nvim](https://github.com/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/stars/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/last-commit/metalelf0/git-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/metalelf0/git-utils.nvim)
 - [sakhnik/nvim-fossil](https://github.com/sakhnik/nvim-fossil) ![](https://img.shields.io/github/stars/sakhnik/nvim-fossil) ![](https://img.shields.io/github/last-commit/sakhnik/nvim-fossil) ![](https://img.shields.io/github/commit-activity/y/sakhnik/nvim-fossil)
 - [santhosh-tekuri/git.nvim](https://github.com/santhosh-tekuri/git.nvim) ![](https://img.shields.io/github/stars/santhosh-tekuri/git.nvim) ![](https://img.shields.io/github/last-commit/santhosh-tekuri/git.nvim) ![](https://img.shields.io/github/commit-activity/y/santhosh-tekuri/git.nvim)
+- [SCRIPTERBLOX/neobrains-git-integration.nvim](https://github.com/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/stars/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/last-commit/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/SCRIPTERBLOX/neobrains-git-integration.nvim)
 
 ### gitui
 

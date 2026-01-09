@@ -25,6 +25,7 @@
 - [CMOISDEAD/equal.nvim](https://github.com/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/stars/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/last-commit/CMOISDEAD/equal.nvim) ![](https://img.shields.io/github/commit-activity/y/CMOISDEAD/equal.nvim)
 - [navicore/bc.nvim](https://github.com/navicore/bc.nvim) ![](https://img.shields.io/github/stars/navicore/bc.nvim) ![](https://img.shields.io/github/last-commit/navicore/bc.nvim) ![](https://img.shields.io/github/commit-activity/y/navicore/bc.nvim)
 - [Necrom4/calcium.nvim](https://github.com/Necrom4/calcium.nvim) ![](https://img.shields.io/github/stars/Necrom4/calcium.nvim) ![](https://img.shields.io/github/last-commit/Necrom4/calcium.nvim) ![](https://img.shields.io/github/commit-activity/y/Necrom4/calcium.nvim)
+- [Otard95/kalker.nvim](https://github.com/Otard95/kalker.nvim) ![](https://img.shields.io/github/stars/Otard95/kalker.nvim) ![](https://img.shields.io/github/last-commit/Otard95/kalker.nvim) ![](https://img.shields.io/github/commit-activity/y/Otard95/kalker.nvim)
 
 ### Time
 

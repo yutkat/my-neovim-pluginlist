@@ -181,6 +181,7 @@
 - [Bparsons0904/phantom-err.nvim](https://github.com/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/phantom-err.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/phantom-err.nvim)
 - [alirostami1/iferr.nvim](https://github.com/alirostami1/iferr.nvim) ![](https://img.shields.io/github/stars/alirostami1/iferr.nvim) ![](https://img.shields.io/github/last-commit/alirostami1/iferr.nvim) ![](https://img.shields.io/github/commit-activity/y/alirostami1/iferr.nvim)
 - [TheNoeTrevino/no-go.nvim](https://github.com/TheNoeTrevino/no-go.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/no-go.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/no-go.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/no-go.nvim)
+- [joshuarubin/iferr.nvim](https://github.com/joshuarubin/iferr.nvim) ![](https://img.shields.io/github/stars/joshuarubin/iferr.nvim) ![](https://img.shields.io/github/last-commit/joshuarubin/iferr.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuarubin/iferr.nvim)
 
 ### Hint
 
