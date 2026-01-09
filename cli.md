@@ -211,7 +211,6 @@
 
 #### mise
 
-- [ejrichards/mise.nvim](https://github.com/ejrichards/mise.nvim) ![](https://img.shields.io/github/stars/ejrichards/mise.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/mise.nvim)
 - [carldaws/miser.nvim](https://github.com/carldaws/miser.nvim) ![](https://img.shields.io/github/stars/carldaws/miser.nvim) ![](https://img.shields.io/github/last-commit/carldaws/miser.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/miser.nvim)
 
 #### Chamber
