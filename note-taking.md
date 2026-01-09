@@ -126,6 +126,7 @@
 - [ckyrouac/nfc.nvim](https://github.com/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/stars/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/last-commit/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/commit-activity/y/ckyrouac/nfc.nvim)
 - [gs-deliverists-io/daily-champ.nvim](https://github.com/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/daily-champ.nvim)
 - [paulpaule21/life.nvim](https://github.com/paulpaule21/life.nvim) ![](https://img.shields.io/github/stars/paulpaule21/life.nvim) ![](https://img.shields.io/github/last-commit/paulpaule21/life.nvim) ![](https://img.shields.io/github/commit-activity/y/paulpaule21/life.nvim)
+- [behzade/j.nvim](https://github.com/behzade/j.nvim) ![](https://img.shields.io/github/stars/behzade/j.nvim) ![](https://img.shields.io/github/last-commit/behzade/j.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/j.nvim)
 
 ### ToDo
 
@@ -335,7 +336,6 @@
 - [onlyati/hugo.nvim](https://github.com/onlyati/hugo.nvim) ![](https://img.shields.io/github/stars/onlyati/hugo.nvim) ![](https://img.shields.io/github/last-commit/onlyati/hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/hugo.nvim)
 
 #### GitHub Pages
-
 
 ### Google Keep
 
