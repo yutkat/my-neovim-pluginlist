@@ -113,7 +113,6 @@
 
 #### README
 
-- [mimikun/generate-readme.nvim](https://github.com/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/stars/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/last-commit/mimikun/generate-readme.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/generate-readme.nvim)
 
 ### Shebang
 

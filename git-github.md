@@ -429,7 +429,6 @@
 
 ### git environment variable
 
-- [ejrichards/baredot.nvim](https://github.com/ejrichards/baredot.nvim) ![](https://img.shields.io/github/stars/ejrichards/baredot.nvim) ![](https://img.shields.io/github/last-commit/ejrichards/baredot.nvim) ![](https://img.shields.io/github/commit-activity/y/ejrichards/baredot.nvim)
 
 ### git ls-files
 
