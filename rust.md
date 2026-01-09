@@ -13,6 +13,7 @@
     - [Askama](#askama)
     - [Maud](#maud)
   - [Crate](#crate)
+    - [use](#use)
   - [lifetime](#lifetime)
   - [rustlings](#rustlings)
   - [Framework](#framework)
@@ -36,7 +37,6 @@
 - [snOm3ad/ra.nvim](https://github.com/snOm3ad/ra.nvim) ![](https://img.shields.io/github/stars/snOm3ad/ra.nvim) ![](https://img.shields.io/github/last-commit/snOm3ad/ra.nvim) ![](https://img.shields.io/github/commit-activity/y/snOm3ad/ra.nvim)
 - [wuchuheng/auto-fix-rust.nvim](https://github.com/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/stars/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/last-commit/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/wuchuheng/auto-fix-rust.nvim)
 - [alexpasmantier/krust.nvim](https://github.com/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/krust.nvim)
-- [statiolake/rust-import.nvim](https://github.com/statiolake/rust-import.nvim) ![](https://img.shields.io/github/stars/statiolake/rust-import.nvim) ![](https://img.shields.io/github/last-commit/statiolake/rust-import.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/rust-import.nvim)
 
 ### Test
 
@@ -83,6 +83,10 @@
 ### Crate
 
 - [Aityz/cratesearch.nvim](https://github.com/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/stars/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/last-commit/Aityz/cratesearch.nvim) ![](https://img.shields.io/github/commit-activity/y/Aityz/cratesearch.nvim)
+
+#### use
+
+- [statiolake/rust-import.nvim](https://github.com/statiolake/rust-import.nvim) ![](https://img.shields.io/github/stars/statiolake/rust-import.nvim) ![](https://img.shields.io/github/last-commit/statiolake/rust-import.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/rust-import.nvim)
 
 ### lifetime
 
