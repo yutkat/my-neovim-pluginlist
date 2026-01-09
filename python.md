@@ -183,6 +183,7 @@
 #### pypi
 
 - [topenkoff/pyproject.nvim](https://github.com/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/stars/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/last-commit/topenkoff/pyproject.nvim) ![](https://img.shields.io/github/commit-activity/y/topenkoff/pyproject.nvim)
+- [flaport/pip.nvim](https://github.com/flaport/pip.nvim) ![](https://img.shields.io/github/stars/flaport/pip.nvim) ![](https://img.shields.io/github/last-commit/flaport/pip.nvim) ![](https://img.shields.io/github/commit-activity/y/flaport/pip.nvim)
 
 #### venv
 

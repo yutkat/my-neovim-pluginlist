@@ -39,6 +39,7 @@
 - [yonchando/http.nvim](https://github.com/yonchando/http.nvim) ![](https://img.shields.io/github/stars/yonchando/http.nvim) ![](https://img.shields.io/github/last-commit/yonchando/http.nvim) ![](https://img.shields.io/github/commit-activity/y/yonchando/http.nvim)
 - [ecthiender/daak.nvim](https://github.com/ecthiender/daak.nvim) ![](https://img.shields.io/github/stars/ecthiender/daak.nvim) ![](https://img.shields.io/github/last-commit/ecthiender/daak.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthiender/daak.nvim)
 - [Cybernetics354/mayohttp.nvim](https://github.com/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/stars/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/last-commit/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/commit-activity/y/Cybernetics354/mayohttp.nvim)
+- [felipeRese/httpie-runer.nvim](https://github.com/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/stars/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/last-commit/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeRese/httpie-runer.nvim)
 
 #### Status
 
