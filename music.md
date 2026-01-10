@@ -53,6 +53,7 @@
 - [willibrandon/lofi.nvim](https://github.com/willibrandon/lofi.nvim) ![](https://img.shields.io/github/stars/willibrandon/lofi.nvim) ![](https://img.shields.io/github/last-commit/willibrandon/lofi.nvim) ![](https://img.shields.io/github/commit-activity/y/willibrandon/lofi.nvim)
 - [igrep/mpv-ipc.nvim](https://github.com/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/stars/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/last-commit/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/commit-activity/y/igrep/mpv-ipc.nvim)
 - [ricmonmol/nvim-music-player](https://github.com/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/stars/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/last-commit/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/commit-activity/y/ricmonmol/nvim-music-player)
+- [Dheebz/spotify-cli.nvim](https://github.com/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/stars/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/last-commit/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheebz/spotify-cli.nvim)
 
 ### sapf
 

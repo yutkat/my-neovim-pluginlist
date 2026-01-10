@@ -125,6 +125,7 @@
 - [ryanburda/nvim-tmux-navigator](https://github.com/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/stars/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/last-commit/ryanburda/nvim-tmux-navigator) ![](https://img.shields.io/github/commit-activity/y/ryanburda/nvim-tmux-navigator)
 - [3cnf-f/f_tmux_panetitle.nvim](https://github.com/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/stars/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/f_tmux_panetitle.nvim)
 - [ChrisO345/scout.nvim](https://github.com/ChrisO345/scout.nvim) ![](https://img.shields.io/github/stars/ChrisO345/scout.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/scout.nvim)
+- [MisterGrinvalds/tmux.nvim](https://github.com/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/tmux.nvim)
 
 ##### tmux alternative
 
@@ -162,6 +163,7 @@
 - [zigotica/telescope-docker-commands.nvim](https://github.com/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/stars/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/last-commit/zigotica/telescope-docker-commands.nvim) ![](https://img.shields.io/github/commit-activity/y/zigotica/telescope-docker-commands.nvim)
 - [skanehira/docker.nvim](https://github.com/skanehira/docker.nvim) ![](https://img.shields.io/github/stars/skanehira/docker.nvim) ![](https://img.shields.io/github/last-commit/skanehira/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/docker.nvim)
 - [igmrrf/lazydocker.nvim](https://github.com/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/stars/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/lazydocker.nvim)
+- [HyperAfnan/docker-containers.nvim](https://github.com/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/stars/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/last-commit/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/commit-activity/y/HyperAfnan/docker-containers.nvim)
 
 ###### Docker Compose
 
@@ -196,6 +198,7 @@
 - [petermnhull/nvim-dotenv](https://github.com/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/stars/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/last-commit/petermnhull/nvim-dotenv) ![](https://img.shields.io/github/commit-activity/y/petermnhull/nvim-dotenv)
 - [amihere/dotenv.nvim](https://github.com/amihere/dotenv.nvim) ![](https://img.shields.io/github/stars/amihere/dotenv.nvim) ![](https://img.shields.io/github/last-commit/amihere/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/amihere/dotenv.nvim)
 - [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/commit-activity/y/philosofonusus/ecolog.nvim)
+- [ph1losof/shelter.nvim](https://github.com/ph1losof/shelter.nvim) ![](https://img.shields.io/github/stars/ph1losof/shelter.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/shelter.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/shelter.nvim)
 
 #### direnv
 
