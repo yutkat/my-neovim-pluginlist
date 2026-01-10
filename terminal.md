@@ -181,6 +181,7 @@
 ### Terminal Selector
 
 - [tknightz/telescope-termfinder.nvim](https://github.com/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/stars/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/last-commit/tknightz/telescope-termfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/tknightz/telescope-termfinder.nvim)
+- [aclCMNK/terminal_picker.nvim](https://github.com/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/stars/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/terminal_picker.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/terminal_picker.nvim)
 
 ### Command
 

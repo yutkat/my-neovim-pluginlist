@@ -597,6 +597,7 @@
 #### Haxe
 
 - [noriapi/select-hxml.nvim](https://github.com/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/stars/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/last-commit/noriapi/select-hxml.nvim) ![](https://img.shields.io/github/commit-activity/y/noriapi/select-hxml.nvim)
+- [jurmerlo/haxe_lsp_hxml_select.nvim](https://github.com/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/stars/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/last-commit/jurmerlo/haxe_lsp_hxml_select.nvim) ![](https://img.shields.io/github/commit-activity/y/jurmerlo/haxe_lsp_hxml_select.nvim)
 
 #### Coralogix dataprime
 
@@ -668,6 +669,10 @@
 - [will-lynas/lean-snippets.nvim](https://github.com/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/stars/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/last-commit/will-lynas/lean-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/will-lynas/lean-snippets.nvim)
 - [Julian/lean.nvim](https://github.com/Julian/lean.nvim) ![](https://img.shields.io/github/stars/Julian/lean.nvim) ![](https://img.shields.io/github/last-commit/Julian/lean.nvim) ![](https://img.shields.io/github/commit-activity/y/Julian/lean.nvim)
 - [PatrickMassot/lean-lsp-experiments.nvim](https://github.com/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/stars/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/last-commit/PatrickMassot/lean-lsp-experiments.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickMassot/lean-lsp-experiments.nvim)
+
+#### Lina
+
+- [lina-lng/lina.nvim](https://github.com/lina-lng/lina.nvim) ![](https://img.shields.io/github/stars/lina-lng/lina.nvim) ![](https://img.shields.io/github/last-commit/lina-lng/lina.nvim) ![](https://img.shields.io/github/commit-activity/y/lina-lng/lina.nvim)
 
 #### sylt
 

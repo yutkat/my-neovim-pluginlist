@@ -71,6 +71,7 @@
 - [letrandat/nvim-workspaces](https://github.com/letrandat/nvim-workspaces) ![](https://img.shields.io/github/stars/letrandat/nvim-workspaces) ![](https://img.shields.io/github/last-commit/letrandat/nvim-workspaces) ![](https://img.shields.io/github/commit-activity/y/letrandat/nvim-workspaces)
 - [aclCMNK/my_projects.nvim](https://github.com/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/stars/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/my_projects.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/my_projects.nvim)
 - [JulianSchubel/nvim-launchpad](https://github.com/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-launchpad)
+- [frostzt/workspaces.nvim](https://github.com/frostzt/workspaces.nvim) ![](https://img.shields.io/github/stars/frostzt/workspaces.nvim) ![](https://img.shields.io/github/last-commit/frostzt/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/workspaces.nvim)
 
 ### Project Root Detector
 
@@ -100,6 +101,7 @@
 - [paradoxical-dev/bootstrap.nvim](https://github.com/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/stars/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/last-commit/paradoxical-dev/bootstrap.nvim) ![](https://img.shields.io/github/commit-activity/y/paradoxical-dev/bootstrap.nvim)
 - [NitroVim/foldergen.nvim](https://github.com/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/stars/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/last-commit/NitroVim/foldergen.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroVim/foldergen.nvim)
 - [admin0076/foldergen.nvim](https://github.com/admin0076/foldergen.nvim) ![](https://img.shields.io/github/stars/admin0076/foldergen.nvim) ![](https://img.shields.io/github/last-commit/admin0076/foldergen.nvim) ![](https://img.shields.io/github/commit-activity/y/admin0076/foldergen.nvim)
+- [Sqbika/filegen.nvim](https://github.com/Sqbika/filegen.nvim) ![](https://img.shields.io/github/stars/Sqbika/filegen.nvim) ![](https://img.shields.io/github/last-commit/Sqbika/filegen.nvim) ![](https://img.shields.io/github/commit-activity/y/Sqbika/filegen.nvim)
 
 ### Project syntax
 
