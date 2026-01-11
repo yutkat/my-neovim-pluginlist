@@ -277,6 +277,7 @@
   - [zaucy/mcos.nvim](https://github.com/zaucy/mcos.nvim) ![](https://img.shields.io/github/stars/zaucy/mcos.nvim) ![](https://img.shields.io/github/last-commit/zaucy/mcos.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/mcos.nvim)
 - [xzbdmw/clasp.nvim](https://github.com/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/stars/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/last-commit/xzbdmw/clasp.nvim) ![](https://img.shields.io/github/commit-activity/y/xzbdmw/clasp.nvim)
 - [wsdjeg/iedit.nvim](https://github.com/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/stars/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/iedit.nvim)
+- [khoido2003/multiple-cursor.nvim](https://github.com/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/stars/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/multiple-cursor.nvim)
 
 ### Incremental selection
 
