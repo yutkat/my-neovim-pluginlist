@@ -301,6 +301,7 @@
 - [wasabeef/melos.nvim](https://github.com/wasabeef/melos.nvim) ![](https://img.shields.io/github/stars/wasabeef/melos.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/melos.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/melos.nvim)
 - [urazmaxambetovserik/flutter-hot.nvim](https://github.com/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/stars/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/last-commit/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/commit-activity/y/urazmaxambetovserik/flutter-hot.nvim)
 - [sgraves76/nvim-flutter-companion](https://github.com/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/stars/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-flutter-companion)
+- [Redooyyy/flutter-deps.nvim](https://github.com/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/stars/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/last-commit/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/Redooyyy/flutter-deps.nvim)
 
 #### Clojure
 

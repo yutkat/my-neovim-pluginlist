@@ -116,6 +116,7 @@
 - [Jafagervik/Testy.nvim](https://github.com/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/stars/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/last-commit/Jafagervik/Testy.nvim) ![](https://img.shields.io/github/commit-activity/y/Jafagervik/Testy.nvim)
 - [lima1909/only.nvim](https://github.com/lima1909/only.nvim) ![](https://img.shields.io/github/stars/lima1909/only.nvim) ![](https://img.shields.io/github/last-commit/lima1909/only.nvim) ![](https://img.shields.io/github/commit-activity/y/lima1909/only.nvim)
 - [Kafva/tsst.nvim](https://github.com/Kafva/tsst.nvim) ![](https://img.shields.io/github/stars/Kafva/tsst.nvim) ![](https://img.shields.io/github/last-commit/Kafva/tsst.nvim) ![](https://img.shields.io/github/commit-activity/y/Kafva/tsst.nvim)
+- [akaptelinin/nvim-test-core](https://github.com/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/stars/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/last-commit/akaptelinin/nvim-test-core) ![](https://img.shields.io/github/commit-activity/y/akaptelinin/nvim-test-core)
 
 ## Help
 
