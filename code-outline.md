@@ -60,6 +60,7 @@
 - [gosvig123/nvim-codebase-mindmap](https://github.com/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/stars/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/last-commit/gosvig123/nvim-codebase-mindmap) ![](https://img.shields.io/github/commit-activity/y/gosvig123/nvim-codebase-mindmap)
 - [BerniSc/calltrace.nvim](https://github.com/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/stars/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/last-commit/BerniSc/calltrace.nvim) ![](https://img.shields.io/github/commit-activity/y/BerniSc/calltrace.nvim)
 - [shabaraba/who-called.nvim](https://github.com/shabaraba/who-called.nvim) ![](https://img.shields.io/github/stars/shabaraba/who-called.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/who-called.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/who-called.nvim)
+- [BibekBhusal0/tree-hierarchy.nvim](https://github.com/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/stars/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/tree-hierarchy.nvim)
 
 ## Type Hierarchy
 
