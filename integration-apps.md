@@ -306,7 +306,6 @@
 - [Aljendro/nvim-aws](https://github.com/Aljendro/nvim-aws) ![](https://img.shields.io/github/stars/Aljendro/nvim-aws) ![](https://img.shields.io/github/last-commit/Aljendro/nvim-aws) ![](https://img.shields.io/github/commit-activity/y/Aljendro/nvim-aws)
 - [thevinchi/aws.nvim](https://github.com/thevinchi/aws.nvim) ![](https://img.shields.io/github/stars/thevinchi/aws.nvim) ![](https://img.shields.io/github/last-commit/thevinchi/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/thevinchi/aws.nvim)
 - [fbreckle/telescope-aws-accounts.nvim](https://github.com/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/stars/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/last-commit/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/commit-activity/y/fbreckle/telescope-aws-accounts.nvim)
-- [sriram-mv/kiro.nvim](https://github.com/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/stars/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/last-commit/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-mv/kiro.nvim)
 
 ##### S3
 

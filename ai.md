@@ -683,6 +683,10 @@
 - [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/stars/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/last-commit/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/cursor-inline)
 - [h4kbas/cursor.nvim](https://github.com/h4kbas/cursor.nvim) ![](https://img.shields.io/github/stars/h4kbas/cursor.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/cursor.nvim)
 
+## Kiro
+
+- [sriram-mv/kiro.nvim](https://github.com/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/stars/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/last-commit/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-mv/kiro.nvim)
+
 ## CodeCompanion
 
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/stars/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/last-commit/olimorris/codecompanion.nvim) ![](https://img.shields.io/github/commit-activity/y/olimorris/codecompanion.nvim)
