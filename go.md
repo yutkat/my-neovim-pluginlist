@@ -60,6 +60,7 @@
 - [jedi-knights/go.nvim](https://github.com/jedi-knights/go.nvim) ![](https://img.shields.io/github/stars/jedi-knights/go.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/go.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/go.nvim)
 - [CelikE/nvim-go](https://github.com/CelikE/nvim-go) ![](https://img.shields.io/github/stars/CelikE/nvim-go) ![](https://img.shields.io/github/last-commit/CelikE/nvim-go) ![](https://img.shields.io/github/commit-activity/y/CelikE/nvim-go)
 - [fahmiauliarahman/goctl.nvim](https://github.com/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/stars/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/last-commit/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/commit-activity/y/fahmiauliarahman/goctl.nvim)
+- [akaptelinin/go-unfucked.nvim](https://github.com/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/stars/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/last-commit/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/commit-activity/y/akaptelinin/go-unfucked.nvim)
 
 ### gofmt
 

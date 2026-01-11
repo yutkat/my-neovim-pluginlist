@@ -164,6 +164,7 @@
 
 - [soemre/commentless.nvim](https://github.com/soemre/commentless.nvim) ![](https://img.shields.io/github/stars/soemre/commentless.nvim) ![](https://img.shields.io/github/last-commit/soemre/commentless.nvim) ![](https://img.shields.io/github/commit-activity/y/soemre/commentless.nvim)
 - [jiangxue-analysis/nvim.comment-hide](https://github.com/jiangxue-analysis/nvim.comment-hide) ![](https://img.shields.io/github/stars/jiangxue-analysis/nvim.comment-hide) ![](https://img.shields.io/github/last-commit/jiangxue-analysis/nvim.comment-hide) ![](https://img.shields.io/github/commit-activity/y/jiangxue-analysis/nvim.comment-hide)
+- [Raaghav-Arya/no-comments-please.nvim](https://github.com/Raaghav-Arya/no-comments-please.nvim) ![](https://img.shields.io/github/stars/Raaghav-Arya/no-comments-please.nvim) ![](https://img.shields.io/github/last-commit/Raaghav-Arya/no-comments-please.nvim) ![](https://img.shields.io/github/commit-activity/y/Raaghav-Arya/no-comments-please.nvim)
 
 ### AI comment
 

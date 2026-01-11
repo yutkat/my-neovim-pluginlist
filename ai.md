@@ -410,6 +410,7 @@
 - [3kz2501/claude-input.nvim](https://github.com/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/stars/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/last-commit/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/commit-activity/y/3kz2501/claude-input.nvim)
 - [johnernaut/claude-files.nvim](https://github.com/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/stars/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/last-commit/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/commit-activity/y/johnernaut/claude-files.nvim)
 - [marcelom97/claude-context.nvim](https://github.com/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-context.nvim)
+- [thassiov/claude-dashboard.nvim](https://github.com/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/stars/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/last-commit/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thassiov/claude-dashboard.nvim)
 
 ### Amazon Q
 
