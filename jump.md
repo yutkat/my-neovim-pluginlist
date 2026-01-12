@@ -98,6 +98,7 @@
 - [lineick/haken.nvim](https://github.com/lineick/haken.nvim) ![](https://img.shields.io/github/stars/lineick/haken.nvim) ![](https://img.shields.io/github/last-commit/lineick/haken.nvim) ![](https://img.shields.io/github/commit-activity/y/lineick/haken.nvim)
 - [z0rzi/pos-stack.nvim](https://github.com/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/stars/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/pos-stack.nvim)
 - [someshkoli/jumps.nvim](https://github.com/someshkoli/jumps.nvim) ![](https://img.shields.io/github/stars/someshkoli/jumps.nvim) ![](https://img.shields.io/github/last-commit/someshkoli/jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/someshkoli/jumps.nvim)
+- [wbbradley/jumplist.nvim](https://github.com/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/stars/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/last-commit/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/wbbradley/jumplist.nvim)
 
 ### Edit History
 

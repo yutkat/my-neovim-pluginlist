@@ -22,6 +22,7 @@
   - [Local server](#local-server)
   - [Fatebook](#fatebook)
   - [micro.blog](#microblog)
+  - [Blog](#blog)
   - [Gmail](#gmail)
   - [Zoom](#zoom)
   - [ntfy](#ntfy)
@@ -35,6 +36,7 @@
   - [youtrack](#youtrack)
   - [Google Docs](#google-docs)
   - [0x0.st](#0x0st)
+  - [Gyazo](#gyazo)
   - [Twitch](#twitch)
   - [Spotify](#spotify)
   - [StackOverflow](#stackoverflow)
@@ -172,6 +174,10 @@
 
 - [s-cassidy/microblog.nvim](https://github.com/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/stars/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/last-commit/s-cassidy/microblog.nvim) ![](https://img.shields.io/github/commit-activity/y/s-cassidy/microblog.nvim)
 
+### Blog
+
+- [MarellaB/nog.nvim](https://github.com/MarellaB/nog.nvim) ![](https://img.shields.io/github/stars/MarellaB/nog.nvim) ![](https://img.shields.io/github/last-commit/MarellaB/nog.nvim) ![](https://img.shields.io/github/commit-activity/y/MarellaB/nog.nvim)
+
 ### Gmail
 
 - [ogomezba/nvim-gmail](https://github.com/ogomezba/nvim-gmail) ![](https://img.shields.io/github/stars/ogomezba/nvim-gmail) ![](https://img.shields.io/github/last-commit/ogomezba/nvim-gmail) ![](https://img.shields.io/github/commit-activity/y/ogomezba/nvim-gmail)
@@ -251,6 +257,10 @@
 ### 0x0.st
 
 - [LionyxML/nvim-0x0](https://github.com/LionyxML/nvim-0x0) ![](https://img.shields.io/github/stars/LionyxML/nvim-0x0) ![](https://img.shields.io/github/last-commit/LionyxML/nvim-0x0) ![](https://img.shields.io/github/commit-activity/y/LionyxML/nvim-0x0)
+
+### Gyazo
+
+- [skanehira/gyazo.nvim](https://github.com/skanehira/gyazo.nvim) ![](https://img.shields.io/github/stars/skanehira/gyazo.nvim) ![](https://img.shields.io/github/last-commit/skanehira/gyazo.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/gyazo.nvim)
 
 ### Twitch
 

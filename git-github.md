@@ -268,6 +268,7 @@
 - [tmybsv/blame.nvim](https://github.com/tmybsv/blame.nvim) ![](https://img.shields.io/github/stars/tmybsv/blame.nvim) ![](https://img.shields.io/github/last-commit/tmybsv/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/tmybsv/blame.nvim)
 - [pedroren-001/blame.nvim](https://github.com/pedroren-001/blame.nvim) ![](https://img.shields.io/github/stars/pedroren-001/blame.nvim) ![](https://img.shields.io/github/last-commit/pedroren-001/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroren-001/blame.nvim)
 - [Aitai/blamer.nvim](https://github.com/Aitai/blamer.nvim) ![](https://img.shields.io/github/stars/Aitai/blamer.nvim) ![](https://img.shields.io/github/last-commit/Aitai/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/Aitai/blamer.nvim)
+- [maraxor27/nvim-gitblame](https://github.com/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/stars/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/last-commit/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/commit-activity/y/maraxor27/nvim-gitblame)
 
 ### git log
 
@@ -319,6 +320,7 @@
 - [pmelab/review.nvim](https://github.com/pmelab/review.nvim) ![](https://img.shields.io/github/stars/pmelab/review.nvim) ![](https://img.shields.io/github/last-commit/pmelab/review.nvim) ![](https://img.shields.io/github/commit-activity/y/pmelab/review.nvim)
 - [alexandrelam/diff-navigator.nvim](https://github.com/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/stars/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/last-commit/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/alexandrelam/diff-navigator.nvim)
 - [dpi0/ddf.nvim](https://github.com/dpi0/ddf.nvim) ![](https://img.shields.io/github/stars/dpi0/ddf.nvim) ![](https://img.shields.io/github/last-commit/dpi0/ddf.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/ddf.nvim)
+- [krisajenkins/oversight.nvim](https://github.com/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/stars/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/oversight.nvim)
 
 #### image diff
 

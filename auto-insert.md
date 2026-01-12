@@ -96,6 +96,7 @@
 ## Path
 
 - [Kannazuki-jp/autopath.nvim](https://github.com/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/autopath.nvim)
+- [Kannazuki-jp/nvim-pathlinker](https://github.com/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/stars/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/nvim-pathlinker)
 
 ## List
 
@@ -104,6 +105,7 @@
 ## random string
 
 - [benjaminshawki/nvim-random-id](https://github.com/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/stars/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/last-commit/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/commit-activity/y/benjaminshawki/nvim-random-id)
+- [m-row/uuid-go.nvim](https://github.com/m-row/uuid-go.nvim) ![](https://img.shields.io/github/stars/m-row/uuid-go.nvim) ![](https://img.shields.io/github/last-commit/m-row/uuid-go.nvim) ![](https://img.shields.io/github/commit-activity/y/m-row/uuid-go.nvim)
 
 ## Lorem Ipsum
 
