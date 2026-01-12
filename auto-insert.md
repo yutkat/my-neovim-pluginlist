@@ -95,7 +95,6 @@
 
 ## Path
 
-- [Kannazuki-jp/autopath.nvim](https://github.com/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/autopath.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/autopath.nvim)
 - [Kannazuki-jp/nvim-pathlinker](https://github.com/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/stars/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/nvim-pathlinker) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/nvim-pathlinker)
 
 ## List
