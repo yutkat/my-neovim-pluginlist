@@ -23,7 +23,6 @@
 - [Maldus512/reader.nvim](https://github.com/Maldus512/reader.nvim) ![](https://img.shields.io/github/stars/Maldus512/reader.nvim) ![](https://img.shields.io/github/last-commit/Maldus512/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Maldus512/reader.nvim)
 - [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
 - [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/pacer.nvim)
-- [xHugo21/rsvp.nvim](https://github.com/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/stars/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/last-commit/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/commit-activity/y/xHugo21/rsvp.nvim)
 
 #### Current Position Info
 

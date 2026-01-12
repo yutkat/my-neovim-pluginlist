@@ -38,7 +38,6 @@
 - [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
 - [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
-- [AbinZorto/bento-symbols.nvim](https://github.com/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/stars/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/last-commit/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/AbinZorto/bento-symbols.nvim)
 
 ## Definition
 
