@@ -34,6 +34,7 @@
 - [walkersumida/deepl.nvim](https://github.com/walkersumida/deepl.nvim) ![](https://img.shields.io/github/stars/walkersumida/deepl.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/deepl.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/deepl.nvim)
 - [acidsugarx/babel.nvim](https://github.com/acidsugarx/babel.nvim) ![](https://img.shields.io/github/stars/acidsugarx/babel.nvim) ![](https://img.shields.io/github/last-commit/acidsugarx/babel.nvim) ![](https://img.shields.io/github/commit-activity/y/acidsugarx/babel.nvim)
 - [Tardouse/translate.nvim](https://github.com/Tardouse/translate.nvim) ![](https://img.shields.io/github/stars/Tardouse/translate.nvim) ![](https://img.shields.io/github/last-commit/Tardouse/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/Tardouse/translate.nvim)
+- [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/stars/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/noir4y/comment-translate.nvim)
 
 ## i18n
 

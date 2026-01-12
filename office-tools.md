@@ -49,6 +49,7 @@
 ## Excel
 
 - [Beargruug/xls-viewer.nvim](https://github.com/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/stars/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/xls-viewer.nvim)
+- [mikevskater/nvim-xlsx](https://github.com/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/stars/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/last-commit/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/commit-activity/y/mikevskater/nvim-xlsx)
 
 ## Presentation
 
@@ -65,3 +66,7 @@
 ### Slidev
 
 - [mei28/slidev.nvim](https://github.com/mei28/slidev.nvim) ![](https://img.shields.io/github/stars/mei28/slidev.nvim) ![](https://img.shields.io/github/last-commit/mei28/slidev.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/slidev.nvim)
+
+### RSVP
+
+- [xHugo21/rsvp.nvim](https://github.com/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/stars/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/last-commit/xHugo21/rsvp.nvim) ![](https://img.shields.io/github/commit-activity/y/xHugo21/rsvp.nvim)

@@ -115,6 +115,7 @@
 - [Nkr1shna/nlhelp.nvim](https://github.com/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/nlhelp.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/nlhelp.nvim)
 - [theinventorylib/inline_hints.nvim](https://github.com/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/stars/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/last-commit/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/commit-activity/y/theinventorylib/inline_hints.nvim)
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) ![](https://img.shields.io/github/stars/nvim-mini/mini.clue) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.clue) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.clue)
+- [sud977/nemo.nvim](https://github.com/sud977/nemo.nvim) ![](https://img.shields.io/github/stars/sud977/nemo.nvim) ![](https://img.shields.io/github/last-commit/sud977/nemo.nvim) ![](https://img.shields.io/github/commit-activity/y/sud977/nemo.nvim)
 
 ### Show assigned
 
@@ -129,6 +130,7 @@
 - [HunterretnuH/map-tree.nvim](https://github.com/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/map-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/map-tree.nvim)
 - [sk1t0n/vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/stars/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/last-commit/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/sk1t0n/vim-top-keymaps.nvim)
 - [bezlant/unused.nvim](https://github.com/bezlant/unused.nvim) ![](https://img.shields.io/github/stars/bezlant/unused.nvim) ![](https://img.shields.io/github/last-commit/bezlant/unused.nvim) ![](https://img.shields.io/github/commit-activity/y/bezlant/unused.nvim)
+- [abdul-hamid-achik/keymaps.nvim](https://github.com/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/keymaps.nvim)
 
 ### Prefix Key Binding
 

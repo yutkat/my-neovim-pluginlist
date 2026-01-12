@@ -232,6 +232,7 @@
 - [hadikhamoud/hover-rtl.nvim](https://github.com/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/stars/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/last-commit/hadikhamoud/hover-rtl.nvim) ![](https://img.shields.io/github/commit-activity/y/hadikhamoud/hover-rtl.nvim)
 - [RamAvni/expandable-hover.nvim](https://github.com/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/stars/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/last-commit/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/RamAvni/expandable-hover.nvim)
 - [YanniPapandreou/livedocs.nvim](https://github.com/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/stars/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/last-commit/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/commit-activity/y/YanniPapandreou/livedocs.nvim)
+- [MLobsien/cowlsp.nvim](https://github.com/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/stars/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/last-commit/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/MLobsien/cowlsp.nvim)
 
 ##### Hover info
 

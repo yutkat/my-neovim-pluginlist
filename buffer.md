@@ -94,6 +94,7 @@
 - [benbpyle/modified-buffers.nvim](https://github.com/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/stars/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/last-commit/benbpyle/modified-buffers.nvim) ![](https://img.shields.io/github/commit-activity/y/benbpyle/modified-buffers.nvim)
 - [aclCMNK/BuffersJump.nvim](https://github.com/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/stars/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/BuffersJump.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/BuffersJump.nvim)
 - [serhez/bento.nvim](https://github.com/serhez/bento.nvim) ![](https://img.shields.io/github/stars/serhez/bento.nvim) ![](https://img.shields.io/github/last-commit/serhez/bento.nvim) ![](https://img.shields.io/github/commit-activity/y/serhez/bento.nvim)
+  - [AbinZorto/bento-symbols.nvim](https://github.com/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/stars/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/last-commit/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/AbinZorto/bento-symbols.nvim)
 - [kburgon/roo.nvim](https://github.com/kburgon/roo.nvim) ![](https://img.shields.io/github/stars/kburgon/roo.nvim) ![](https://img.shields.io/github/last-commit/kburgon/roo.nvim) ![](https://img.shields.io/github/commit-activity/y/kburgon/roo.nvim)
 
 ### Other Buffer Switcher
