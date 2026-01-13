@@ -131,6 +131,7 @@
 - [frenchef156/weather.nvim](https://github.com/frenchef156/weather.nvim) ![](https://img.shields.io/github/stars/frenchef156/weather.nvim) ![](https://img.shields.io/github/last-commit/frenchef156/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/frenchef156/weather.nvim)
 - [rmrf/weather.nvim](https://github.com/rmrf/weather.nvim) ![](https://img.shields.io/github/stars/rmrf/weather.nvim) ![](https://img.shields.io/github/last-commit/rmrf/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/rmrf/weather.nvim)
 - [athar-qadri/weather.nvim](https://github.com/athar-qadri/weather.nvim) ![](https://img.shields.io/github/stars/athar-qadri/weather.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/weather.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/weather.nvim)
+- [bitspaceorg/Weather-Reporto.nvim](https://github.com/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/stars/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/last-commit/bitspaceorg/Weather-Reporto.nvim) ![](https://img.shields.io/github/commit-activity/y/bitspaceorg/Weather-Reporto.nvim)
 
 ### Clock
 
