@@ -101,6 +101,7 @@
 - [vijaysenapathi/nvim-debug-tools](https://github.com/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/stars/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/last-commit/vijaysenapathi/nvim-debug-tools) ![](https://img.shields.io/github/commit-activity/y/vijaysenapathi/nvim-debug-tools)
 - [wsdjeg/logger.nvim](https://github.com/wsdjeg/logger.nvim) ![](https://img.shields.io/github/stars/wsdjeg/logger.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/logger.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/logger.nvim)
 - [jedi-knights/yoda-logging.nvim](https://github.com/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-logging.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-logging.nvim)
+- [brancisco/timber.nvim](https://github.com/brancisco/timber.nvim) ![](https://img.shields.io/github/stars/brancisco/timber.nvim) ![](https://img.shields.io/github/last-commit/brancisco/timber.nvim) ![](https://img.shields.io/github/commit-activity/y/brancisco/timber.nvim)
 
 ## async
 

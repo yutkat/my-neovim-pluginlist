@@ -315,6 +315,7 @@
 - [apdot/doodle](https://github.com/apdot/doodle) ![](https://img.shields.io/github/stars/apdot/doodle) ![](https://img.shields.io/github/last-commit/apdot/doodle) ![](https://img.shields.io/github/commit-activity/y/apdot/doodle)
 - [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 - [AniP-gt/nvim-obsidian-tasks.nvim](https://github.com/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/AniP-gt/nvim-obsidian-tasks.nvim)
+- [damianpoole/obsidian-stats.nvim](https://github.com/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/stars/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/last-commit/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/damianpoole/obsidian-stats.nvim)
 
 ### nb
 
