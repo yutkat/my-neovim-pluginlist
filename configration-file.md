@@ -92,6 +92,7 @@
 
 - [TheDrawingCoder-Gamer/prc.nvim](https://github.com/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/stars/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/last-commit/TheDrawingCoder-Gamer/prc.nvim) ![](https://img.shields.io/github/commit-activity/y/TheDrawingCoder-Gamer/prc.nvim)
 - [try-to-fly/xml-preview.nvim](https://github.com/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/stars/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/xml-preview.nvim)
+- [benomahony/jing.nvim](https://github.com/benomahony/jing.nvim) ![](https://img.shields.io/github/stars/benomahony/jing.nvim) ![](https://img.shields.io/github/last-commit/benomahony/jing.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/jing.nvim)
 
 ### dotbox
 
