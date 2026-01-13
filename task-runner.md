@@ -249,6 +249,7 @@
 
 - [audunhov/autorun.nvim](https://github.com/audunhov/autorun.nvim) ![](https://img.shields.io/github/stars/audunhov/autorun.nvim) ![](https://img.shields.io/github/last-commit/audunhov/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/audunhov/autorun.nvim)
 - [gashon/buildfix.nvim](https://github.com/gashon/buildfix.nvim) ![](https://img.shields.io/github/stars/gashon/buildfix.nvim) ![](https://img.shields.io/github/last-commit/gashon/buildfix.nvim) ![](https://img.shields.io/github/commit-activity/y/gashon/buildfix.nvim)
+- [klephron/watch.nvim](https://github.com/klephron/watch.nvim) ![](https://img.shields.io/github/stars/klephron/watch.nvim) ![](https://img.shields.io/github/last-commit/klephron/watch.nvim) ![](https://img.shields.io/github/commit-activity/y/klephron/watch.nvim)
 
 ### CLI
 

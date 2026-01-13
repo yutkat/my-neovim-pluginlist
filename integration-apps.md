@@ -29,6 +29,8 @@
     - [WezTerm](#wezterm)
     - [Ghostty](#ghostty)
     - [Windows Terminal](#windows-terminal)
+    - [Zellij](#zellij)
+    - [Wireman](#wireman)
     - [ZTerm](#zterm)
   - [Infra](#infra)
     - [OpenStack](#openstack)
@@ -208,6 +210,14 @@
 #### Windows Terminal
 
 - [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
+
+#### Zellij
+
+- [HypeSafety/promptly.nvim](https://github.com/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/stars/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/last-commit/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/HypeSafety/promptly.nvim)
+
+#### Wireman
+
+- [preiter93/wireman.nvim](https://github.com/preiter93/wireman.nvim) ![](https://img.shields.io/github/stars/preiter93/wireman.nvim) ![](https://img.shields.io/github/last-commit/preiter93/wireman.nvim) ![](https://img.shields.io/github/commit-activity/y/preiter93/wireman.nvim)
 
 #### ZTerm
 

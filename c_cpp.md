@@ -205,6 +205,7 @@
 - [IIIBreakeRIII/ReCursion.nvim](https://github.com/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/stars/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/last-commit/IIIBreakeRIII/ReCursion.nvim) ![](https://img.shields.io/github/commit-activity/y/IIIBreakeRIII/ReCursion.nvim)
 - [liamvdvyver/disasm.nvim](https://github.com/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/stars/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/last-commit/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/liamvdvyver/disasm.nvim)
 - [NuggetOfficial/c4x.nvim](https://github.com/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/stars/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/last-commit/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/commit-activity/y/NuggetOfficial/c4x.nvim)
+- [neurapy/asmview.nvim](https://github.com/neurapy/asmview.nvim) ![](https://img.shields.io/github/stars/neurapy/asmview.nvim) ![](https://img.shields.io/github/last-commit/neurapy/asmview.nvim) ![](https://img.shields.io/github/commit-activity/y/neurapy/asmview.nvim)
 
 ### Cscope
 

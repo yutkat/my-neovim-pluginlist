@@ -46,6 +46,7 @@
 - [TomJo2000/clocwork.nvim](https://github.com/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/stars/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/last-commit/TomJo2000/clocwork.nvim) ![](https://img.shields.io/github/commit-activity/y/TomJo2000/clocwork.nvim)
 - [17xande/track-action.nvim](https://github.com/17xande/track-action.nvim) ![](https://img.shields.io/github/stars/17xande/track-action.nvim) ![](https://img.shields.io/github/last-commit/17xande/track-action.nvim) ![](https://img.shields.io/github/commit-activity/y/17xande/track-action.nvim)
 - [mtarld/tempo.nvim](https://github.com/mtarld/tempo.nvim) ![](https://img.shields.io/github/stars/mtarld/tempo.nvim) ![](https://img.shields.io/github/last-commit/mtarld/tempo.nvim) ![](https://img.shields.io/github/commit-activity/y/mtarld/tempo.nvim)
+- [samonide/timesense.nvim](https://github.com/samonide/timesense.nvim) ![](https://img.shields.io/github/stars/samonide/timesense.nvim) ![](https://img.shields.io/github/last-commit/samonide/timesense.nvim) ![](https://img.shields.io/github/commit-activity/y/samonide/timesense.nvim)
 
 ### Coding time
 
