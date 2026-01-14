@@ -29,6 +29,7 @@
 - [TheMusicBoy/diffui.nvim](https://github.com/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/stars/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/last-commit/TheMusicBoy/diffui.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMusicBoy/diffui.nvim)
 - [clabby/difftastic.nvim](https://github.com/clabby/difftastic.nvim) ![](https://img.shields.io/github/stars/clabby/difftastic.nvim) ![](https://img.shields.io/github/last-commit/clabby/difftastic.nvim) ![](https://img.shields.io/github/commit-activity/y/clabby/difftastic.nvim)
 - [kokusenz/deltaview.nvim](https://github.com/kokusenz/deltaview.nvim) ![](https://img.shields.io/github/stars/kokusenz/deltaview.nvim) ![](https://img.shields.io/github/last-commit/kokusenz/deltaview.nvim) ![](https://img.shields.io/github/commit-activity/y/kokusenz/deltaview.nvim)
+- [ovidiu-ionescu/gdiff.nvim](https://github.com/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/stars/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/last-commit/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ovidiu-ionescu/gdiff.nvim)
 
 ### Diff Register
 

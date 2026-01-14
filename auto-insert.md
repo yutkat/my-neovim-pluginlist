@@ -61,6 +61,7 @@
 - [Marfien/simple-pairs.nvim](https://github.com/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/stars/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/last-commit/Marfien/simple-pairs.nvim) ![](https://img.shields.io/github/commit-activity/y/Marfien/simple-pairs.nvim)
 - [sundbp/strict-paredit.nvim](https://github.com/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/stars/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/last-commit/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/strict-paredit.nvim)
 - [frangio/parity.nvim](https://github.com/frangio/parity.nvim) ![](https://img.shields.io/github/stars/frangio/parity.nvim) ![](https://img.shields.io/github/last-commit/frangio/parity.nvim) ![](https://img.shields.io/github/commit-activity/y/frangio/parity.nvim)
+- [byitkc/autoclose.nvim](https://github.com/byitkc/autoclose.nvim) ![](https://img.shields.io/github/stars/byitkc/autoclose.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autoclose.nvim)
 
 ### escape pairs
 

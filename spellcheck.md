@@ -37,6 +37,7 @@
 - [samuelstranges/spellbound.nvim](https://github.com/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/stars/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/last-commit/samuelstranges/spellbound.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelstranges/spellbound.nvim)
 - [unrealapex/prose.nvim](https://github.com/unrealapex/prose.nvim) ![](https://img.shields.io/github/stars/unrealapex/prose.nvim) ![](https://img.shields.io/github/last-commit/unrealapex/prose.nvim) ![](https://img.shields.io/github/commit-activity/y/unrealapex/prose.nvim)
 - [kungfusaini/spellcheck-mode.nvim](https://github.com/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/stars/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/last-commit/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusaini/spellcheck-mode.nvim)
+- [suderio/autolang.nvim](https://github.com/suderio/autolang.nvim) ![](https://img.shields.io/github/stars/suderio/autolang.nvim) ![](https://img.shields.io/github/last-commit/suderio/autolang.nvim) ![](https://img.shields.io/github/commit-activity/y/suderio/autolang.nvim)
 
 ### ShellSpec
 

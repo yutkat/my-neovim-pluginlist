@@ -60,6 +60,7 @@
 - [numEricL/WinBender.nvim](https://github.com/numEricL/WinBender.nvim) ![](https://img.shields.io/github/stars/numEricL/WinBender.nvim) ![](https://img.shields.io/github/last-commit/numEricL/WinBender.nvim) ![](https://img.shields.io/github/commit-activity/y/numEricL/WinBender.nvim)
 - [jedi-knights/yoda-window.nvim](https://github.com/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-window.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-window.nvim)
 - [66RING/flex-plane.nvim](https://github.com/66RING/flex-plane.nvim) ![](https://img.shields.io/github/stars/66RING/flex-plane.nvim) ![](https://img.shields.io/github/last-commit/66RING/flex-plane.nvim) ![](https://img.shields.io/github/commit-activity/y/66RING/flex-plane.nvim)
+- [oskarnurm/win.nvim](https://github.com/oskarnurm/win.nvim) ![](https://img.shields.io/github/stars/oskarnurm/win.nvim) ![](https://img.shields.io/github/last-commit/oskarnurm/win.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarnurm/win.nvim)
 
 #### move
 
