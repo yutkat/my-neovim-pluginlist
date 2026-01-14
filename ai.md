@@ -63,6 +63,7 @@
 - [AI Terminal](#ai-terminal)
 - [ECA](#eca)
 - [Cursor](#cursor)
+- [Kiro](#kiro)
 - [CodeCompanion](#codecompanion)
   - [GitLab Guo](#gitlab-guo)
   - [Chatblade](#chatblade)
@@ -826,6 +827,7 @@
 
 - [julwrites/llm-nvim](https://github.com/julwrites/llm-nvim) ![](https://img.shields.io/github/stars/julwrites/llm-nvim) ![](https://img.shields.io/github/last-commit/julwrites/llm-nvim) ![](https://img.shields.io/github/commit-activity/y/julwrites/llm-nvim)
 - [edward-r/prompty.nvim](https://github.com/edward-r/prompty.nvim) ![](https://img.shields.io/github/stars/edward-r/prompty.nvim) ![](https://img.shields.io/github/last-commit/edward-r/prompty.nvim) ![](https://img.shields.io/github/commit-activity/y/edward-r/prompty.nvim)
+- [PhantomYdn/fabric-ai.nvim](https://github.com/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/stars/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/last-commit/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhantomYdn/fabric-ai.nvim)
 
 ### Gennie CLI
 

@@ -225,6 +225,7 @@
 - [pratikneupane/nSearch.nvim](https://github.com/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/stars/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/last-commit/pratikneupane/nSearch.nvim) ![](https://img.shields.io/github/commit-activity/y/pratikneupane/nSearch.nvim)
 - [newtoallofthis123/goated.nvim](https://github.com/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/stars/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/last-commit/newtoallofthis123/goated.nvim) ![](https://img.shields.io/github/commit-activity/y/newtoallofthis123/goated.nvim)
 - [dk949/ast-search.nvim](https://github.com/dk949/ast-search.nvim) ![](https://img.shields.io/github/stars/dk949/ast-search.nvim) ![](https://img.shields.io/github/last-commit/dk949/ast-search.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/ast-search.nvim)
+- [KyleKing/codanna.nvim](https://github.com/KyleKing/codanna.nvim) ![](https://img.shields.io/github/stars/KyleKing/codanna.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/codanna.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/codanna.nvim)
 
 ### Zoket(google)
 

@@ -151,6 +151,7 @@
 - [Monster0506/universal_runner.nvim](https://github.com/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/stars/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/last-commit/Monster0506/universal_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/Monster0506/universal_runner.nvim)
 - [tjsmart/mcc.nvim](https://github.com/tjsmart/mcc.nvim) ![](https://img.shields.io/github/stars/tjsmart/mcc.nvim) ![](https://img.shields.io/github/last-commit/tjsmart/mcc.nvim) ![](https://img.shields.io/github/commit-activity/y/tjsmart/mcc.nvim)
 - [samonide/runner.nvim](https://github.com/samonide/runner.nvim) ![](https://img.shields.io/github/stars/samonide/runner.nvim) ![](https://img.shields.io/github/last-commit/samonide/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/samonide/runner.nvim)
+- [gabebautista11/runner.nvim](https://github.com/gabebautista11/runner.nvim) ![](https://img.shields.io/github/stars/gabebautista11/runner.nvim) ![](https://img.shields.io/github/last-commit/gabebautista11/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/gabebautista11/runner.nvim)
 - [tad34s/mejkr.nvim](https://github.com/tad34s/mejkr.nvim) ![](https://img.shields.io/github/stars/tad34s/mejkr.nvim) ![](https://img.shields.io/github/last-commit/tad34s/mejkr.nvim) ![](https://img.shields.io/github/commit-activity/y/tad34s/mejkr.nvim)
 - [theawakener0/NeoRunner](https://github.com/theawakener0/NeoRunner) ![](https://img.shields.io/github/stars/theawakener0/NeoRunner) ![](https://img.shields.io/github/last-commit/theawakener0/NeoRunner) ![](https://img.shields.io/github/commit-activity/y/theawakener0/NeoRunner)
 
@@ -244,6 +245,7 @@
 - [Veirt/trun.nvim](https://github.com/Veirt/trun.nvim) ![](https://img.shields.io/github/stars/Veirt/trun.nvim) ![](https://img.shields.io/github/last-commit/Veirt/trun.nvim) ![](https://img.shields.io/github/commit-activity/y/Veirt/trun.nvim)
 - [landonturner/run-cmd.nvim](https://github.com/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/stars/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/last-commit/landonturner/run-cmd.nvim) ![](https://img.shields.io/github/commit-activity/y/landonturner/run-cmd.nvim)
 - [bestie/paneity.nvim](https://github.com/bestie/paneity.nvim) ![](https://img.shields.io/github/stars/bestie/paneity.nvim) ![](https://img.shields.io/github/last-commit/bestie/paneity.nvim) ![](https://img.shields.io/github/commit-activity/y/bestie/paneity.nvim)
+- [huylg/tmux-runner.nvim](https://github.com/huylg/tmux-runner.nvim) ![](https://img.shields.io/github/stars/huylg/tmux-runner.nvim) ![](https://img.shields.io/github/last-commit/huylg/tmux-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/huylg/tmux-runner.nvim)
 
 ### Auto Execute
 

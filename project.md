@@ -73,6 +73,10 @@
 - [JulianSchubel/nvim-launchpad](https://github.com/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-launchpad)
 - [frostzt/workspaces.nvim](https://github.com/frostzt/workspaces.nvim) ![](https://img.shields.io/github/stars/frostzt/workspaces.nvim) ![](https://img.shields.io/github/last-commit/frostzt/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/workspaces.nvim)
 
+### Task Tracking
+
+- [joeblubaugh/nvim-beads](https://github.com/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/stars/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/last-commit/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/commit-activity/y/joeblubaugh/nvim-beads)
+
 ### Project Root Detector
 
 - [shaeinst/penvim](https://github.com/shaeinst/penvim) ![](https://img.shields.io/github/stars/shaeinst/penvim) ![](https://img.shields.io/github/last-commit/shaeinst/penvim) ![](https://img.shields.io/github/commit-activity/y/shaeinst/penvim)

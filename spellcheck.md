@@ -5,6 +5,7 @@
 - [Spell](#spell)
   - [Spellcheck](#spellcheck)
   - [ShellSpec](#shellspec)
+  - [spelllang](#spelllang)
   - [Vale](#vale)
 - [Grammar check](#grammar-check)
 
@@ -41,6 +42,10 @@
 ### ShellSpec
 
 - [ivuorinen/nvim-shellspec](https://github.com/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/stars/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/last-commit/ivuorinen/nvim-shellspec) ![](https://img.shields.io/github/commit-activity/y/ivuorinen/nvim-shellspec)
+
+### spelllang
+
+- [suderio/autolang.nvim](https://github.com/suderio/autolang.nvim) ![](https://img.shields.io/github/stars/suderio/autolang.nvim) ![](https://img.shields.io/github/last-commit/suderio/autolang.nvim) ![](https://img.shields.io/github/commit-activity/y/suderio/autolang.nvim)
 
 ### Vale
 
