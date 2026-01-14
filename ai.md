@@ -63,6 +63,7 @@
 - [AI Terminal](#ai-terminal)
 - [ECA](#eca)
 - [Cursor](#cursor)
+- [Kiro](#kiro)
 - [CodeCompanion](#codecompanion)
   - [GitLab Guo](#gitlab-guo)
   - [Chatblade](#chatblade)
@@ -782,7 +783,6 @@
 ## RAG
 
 - [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
-- [KyleKing/codanna.nvim](https://github.com/KyleKing/codanna.nvim) ![](https://img.shields.io/github/stars/KyleKing/codanna.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/codanna.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/codanna.nvim)
 
 ## Model Context Protocol(MCP)
 

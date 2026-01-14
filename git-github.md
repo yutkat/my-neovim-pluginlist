@@ -321,6 +321,7 @@
 - [alexandrelam/diff-navigator.nvim](https://github.com/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/stars/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/last-commit/alexandrelam/diff-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/alexandrelam/diff-navigator.nvim)
 - [dpi0/ddf.nvim](https://github.com/dpi0/ddf.nvim) ![](https://img.shields.io/github/stars/dpi0/ddf.nvim) ![](https://img.shields.io/github/last-commit/dpi0/ddf.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/ddf.nvim)
 - [krisajenkins/oversight.nvim](https://github.com/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/stars/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/oversight.nvim)
+- [ovidiu-ionescu/gdiff.nvim](https://github.com/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/stars/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/last-commit/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ovidiu-ionescu/gdiff.nvim)
 
 #### image diff
 
@@ -430,7 +431,6 @@
 - [rbmarliere/get_maintainer.nvim](https://github.com/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/stars/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/last-commit/rbmarliere/get_maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/rbmarliere/get_maintainer.nvim)
 
 ### git environment variable
-
 
 ### git ls-files
 
