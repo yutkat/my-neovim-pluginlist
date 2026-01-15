@@ -108,6 +108,7 @@
   - [Package Manager](#package-manager)
   - [VS Code features](#vs-code-features)
   - [Image](#image)
+  - [Video](#video)
   - [Schedule](#schedule)
   - [Key stroke](#key-stroke)
   - [Concentration(Pomodoro/Zenn)](#concentrationpomodorozenn)
@@ -153,6 +154,7 @@
 - [Service](#service)
 - [Music](#music)
 - [Animation](#animation)
+- [Natural Language](#natural-language)
 - [Toy](#toy)
   - [Game](#game)
 
@@ -555,6 +557,8 @@
 
 ### [Image](./image.md)
 
+### [Video](./video.md)
+
 ### Schedule
 
 - [Cassin01/sche.nvim](https://github.com/Cassin01/sche.nvim) ![](https://img.shields.io/github/stars/Cassin01/sche.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sche.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sche.nvim)
@@ -662,6 +666,8 @@
 ## [Music](./music.md)
 
 ## [Animation](./animation.md)
+
+## [Natural Language](/natural-languages.md)
 
 ## [Toy](./toy.md)
 

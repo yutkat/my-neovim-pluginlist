@@ -49,6 +49,10 @@
 - [piersolenski/skifree.nvim](https://github.com/piersolenski/skifree.nvim) ![](https://img.shields.io/github/stars/piersolenski/skifree.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/skifree.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/skifree.nvim)
 - [ALLLLLL703/minecraft-dev.nvim](https://github.com/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/stars/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/last-commit/ALLLLLL703/minecraft-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/ALLLLLL703/minecraft-dev.nvim)
 - [shushtain/touch-piping.nvim](https://github.com/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/stars/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/last-commit/shushtain/touch-piping.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/touch-piping.nvim)
+- [neysanfoo/party.nvim](https://github.com/neysanfoo/party.nvim) ![](https://img.shields.io/github/stars/neysanfoo/party.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/party.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/party.nvim)
+- [Django0033/tangled-worlds.nvim](https://github.com/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/stars/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/last-commit/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/tangled-worlds.nvim)
+- [Django0033/dice-roller.nvim](https://github.com/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/stars/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/last-commit/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/dice-roller.nvim)
+- [PatrickKoss/keyforge.nvim](https://github.com/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/stars/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/last-commit/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickKoss/keyforge.nvim)
 
 ### Snake
 
