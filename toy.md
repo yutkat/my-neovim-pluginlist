@@ -28,6 +28,7 @@
     - [YouTube](#youtube)
   - [Study](#study)
     - [French](#french)
+    - [Hebrew](#hebrew)
     - [Hangul](#hangul)
   - [Speech](#speech)
   - [Sports](#sports)
@@ -95,6 +96,8 @@
 #### Screen Recording
 
 - [wsdjeg/record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-screen.nvim)
+- [phanen/rec.nvim](https://github.com/phanen/rec.nvim) ![](https://img.shields.io/github/stars/phanen/rec.nvim) ![](https://img.shields.io/github/last-commit/phanen/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/rec.nvim)
+- [willsantiagomedina/rec.nvim](https://github.com/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/rec.nvim)
 
 ### View
 
@@ -202,6 +205,10 @@
 #### French
 
 - [Praczet/le-mot-du-jour.nvim](https://github.com/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/stars/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/last-commit/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/le-mot-du-jour.nvim)
+
+#### Hebrew
+
+- [yairh/bidi.nvim](https://github.com/yairh/bidi.nvim) ![](https://img.shields.io/github/stars/yairh/bidi.nvim) ![](https://img.shields.io/github/last-commit/yairh/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/yairh/bidi.nvim)
 
 #### Hangul
 
