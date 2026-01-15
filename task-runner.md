@@ -50,6 +50,7 @@
 - [LeGarbage/taskless.nvim](https://github.com/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/stars/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/last-commit/LeGarbage/taskless.nvim) ![](https://img.shields.io/github/commit-activity/y/LeGarbage/taskless.nvim)
 - [stephansama/fzf-tmux-runner.nvim](https://github.com/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-tmux-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-tmux-runner.nvim)
 - [anosatsuk124/visual-run.nvim](https://github.com/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/stars/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/last-commit/anosatsuk124/visual-run.nvim) ![](https://img.shields.io/github/commit-activity/y/anosatsuk124/visual-run.nvim)
+- [phtea/simple_tasks.nvim](https://github.com/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/stars/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/last-commit/phtea/simple_tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/phtea/simple_tasks.nvim)
 
 #### YAML
 

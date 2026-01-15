@@ -95,6 +95,8 @@
 #### Screen Recording
 
 - [wsdjeg/record-screen.nvim](https://github.com/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/stars/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/record-screen.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/record-screen.nvim)
+- [phanen/rec.nvim](https://github.com/phanen/rec.nvim) ![](https://img.shields.io/github/stars/phanen/rec.nvim) ![](https://img.shields.io/github/last-commit/phanen/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/rec.nvim)
+- [willsantiagomedina/rec.nvim](https://github.com/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/rec.nvim)
 
 ### View
 
