@@ -517,7 +517,6 @@
 
 #### Spade
 
-- [ethanuppal/spade.nvim](https://github.com/ethanuppal/spade.nvim) ![](https://img.shields.io/github/stars/ethanuppal/spade.nvim) ![](https://img.shields.io/github/last-commit/ethanuppal/spade.nvim) ![](https://img.shields.io/github/commit-activity/y/ethanuppal/spade.nvim)
 
 #### Radiant
 
