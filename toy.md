@@ -28,6 +28,7 @@
     - [YouTube](#youtube)
   - [Study](#study)
     - [French](#french)
+    - [Hebrew](#hebrew)
     - [Hangul](#hangul)
   - [Speech](#speech)
   - [Sports](#sports)
@@ -204,6 +205,10 @@
 #### French
 
 - [Praczet/le-mot-du-jour.nvim](https://github.com/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/stars/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/last-commit/Praczet/le-mot-du-jour.nvim) ![](https://img.shields.io/github/commit-activity/y/Praczet/le-mot-du-jour.nvim)
+
+#### Hebrew
+
+- [yairh/bidi.nvim](https://github.com/yairh/bidi.nvim) ![](https://img.shields.io/github/stars/yairh/bidi.nvim) ![](https://img.shields.io/github/last-commit/yairh/bidi.nvim) ![](https://img.shields.io/github/commit-activity/y/yairh/bidi.nvim)
 
 #### Hangul
 
