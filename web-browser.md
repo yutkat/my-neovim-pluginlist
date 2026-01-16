@@ -83,6 +83,7 @@
 - [ulf-westermann/websearch.nvim](https://github.com/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/stars/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/last-commit/ulf-westermann/websearch.nvim) ![](https://img.shields.io/github/commit-activity/y/ulf-westermann/websearch.nvim)
 - [jamesukiyo/search-this.nvim](https://github.com/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/stars/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/last-commit/jamesukiyo/search-this.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesukiyo/search-this.nvim)
 - [alexhokl/nvim-web-search](https://github.com/alexhokl/nvim-web-search) ![](https://img.shields.io/github/stars/alexhokl/nvim-web-search) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-web-search) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-web-search)
+- [Bredman1996/web-search.nvim](https://github.com/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/stars/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/last-commit/Bredman1996/web-search.nvim) ![](https://img.shields.io/github/commit-activity/y/Bredman1996/web-search.nvim)
 
 ##### Search without browser
 

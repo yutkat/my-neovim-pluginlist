@@ -183,6 +183,7 @@
 - [kboshold/smart-commit.nvim](https://github.com/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/stars/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/last-commit/kboshold/smart-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/kboshold/smart-commit.nvim)
 - [elliotekj/claude-commit.nvim](https://github.com/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/stars/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/last-commit/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotekj/claude-commit.nvim)
 - [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
+- [Sengoku11/commitpad.nvim](https://github.com/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/stars/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/commitpad.nvim)
 
 #### prefix(conventional-commits)
 

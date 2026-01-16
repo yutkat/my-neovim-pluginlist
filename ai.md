@@ -179,6 +179,7 @@
 - [anirudhsundar/codex.nvim](https://github.com/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/stars/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/last-commit/anirudhsundar/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/anirudhsundar/codex.nvim)
 - [dukjjang/codex-cli.nvim](https://github.com/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/stars/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/dukjjang/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dukjjang/codex-cli.nvim)
 - [momiforgotthesemicolon/codex-nvim](https://github.com/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/stars/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/last-commit/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/commit-activity/y/momiforgotthesemicolon/codex-nvim)
+- [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) ![](https://img.shields.io/github/stars/ishiooon/codex.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/codex.nvim)
 
 #### Whisper
 
@@ -410,6 +411,7 @@
 - [3kz2501/claude-input.nvim](https://github.com/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/stars/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/last-commit/3kz2501/claude-input.nvim) ![](https://img.shields.io/github/commit-activity/y/3kz2501/claude-input.nvim)
 - [johnernaut/claude-files.nvim](https://github.com/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/stars/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/last-commit/johnernaut/claude-files.nvim) ![](https://img.shields.io/github/commit-activity/y/johnernaut/claude-files.nvim)
 - [marcelom97/claude-context.nvim](https://github.com/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-context.nvim)
+- [mknn/nvim-claude-context](https://github.com/mknn/nvim-claude-context) ![](https://img.shields.io/github/stars/mknn/nvim-claude-context) ![](https://img.shields.io/github/last-commit/mknn/nvim-claude-context) ![](https://img.shields.io/github/commit-activity/y/mknn/nvim-claude-context)
 - [thassiov/claude-dashboard.nvim](https://github.com/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/stars/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/last-commit/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thassiov/claude-dashboard.nvim)
 
 ### Amazon Q
@@ -582,6 +584,7 @@
 - [haapjari/inline.nvim](https://github.com/haapjari/inline.nvim) ![](https://img.shields.io/github/stars/haapjari/inline.nvim) ![](https://img.shields.io/github/last-commit/haapjari/inline.nvim) ![](https://img.shields.io/github/commit-activity/y/haapjari/inline.nvim)
 - [silvabyte/audetic.nvim](https://github.com/silvabyte/audetic.nvim) ![](https://img.shields.io/github/stars/silvabyte/audetic.nvim) ![](https://img.shields.io/github/last-commit/silvabyte/audetic.nvim) ![](https://img.shields.io/github/commit-activity/y/silvabyte/audetic.nvim)
 - [jaswdr/opencode-completion.nvim](https://github.com/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/stars/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/last-commit/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/jaswdr/opencode-completion.nvim)
+- [fmpisantos/opencode.nvim](https://github.com/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/stars/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/opencode.nvim)
 
 ### khulnasoft
 
@@ -601,6 +604,7 @@
 - [westbrookdaniel/danai.nvim](https://github.com/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/stars/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/last-commit/westbrookdaniel/danai.nvim) ![](https://img.shields.io/github/commit-activity/y/westbrookdaniel/danai.nvim)
 - [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/stars/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/last-commit/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/commit-activity/y/ninetyfive-gg/ninetyfive.nvim)
 - [brendonmlopes/nvim-gopilot](https://github.com/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/stars/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/last-commit/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/commit-activity/y/brendonmlopes/nvim-gopilot)
+- [abdul-hamid-achik/haiku.nvim](https://github.com/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/haiku.nvim)
 
 ### Copilot
 

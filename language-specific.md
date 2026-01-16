@@ -372,6 +372,7 @@
 
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 - [sundbp/lispy-helpers.nvim](https://github.com/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/stars/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/last-commit/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/lispy-helpers.nvim)
+- [joaobzrr/ooze.nvim](https://github.com/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/stars/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/last-commit/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/commit-activity/y/joaobzrr/ooze.nvim)
 
 #### Lingua Franca
 
