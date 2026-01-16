@@ -160,6 +160,7 @@
 ### Dev
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
+- [Awallace3/LeetGPU.nvim](https://github.com/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/stars/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/last-commit/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/commit-activity/y/Awallace3/LeetGPU.nvim)
 
 ### Local server
 

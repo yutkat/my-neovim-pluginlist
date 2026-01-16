@@ -155,6 +155,7 @@
 - [gabebautista11/runner.nvim](https://github.com/gabebautista11/runner.nvim) ![](https://img.shields.io/github/stars/gabebautista11/runner.nvim) ![](https://img.shields.io/github/last-commit/gabebautista11/runner.nvim) ![](https://img.shields.io/github/commit-activity/y/gabebautista11/runner.nvim)
 - [tad34s/mejkr.nvim](https://github.com/tad34s/mejkr.nvim) ![](https://img.shields.io/github/stars/tad34s/mejkr.nvim) ![](https://img.shields.io/github/last-commit/tad34s/mejkr.nvim) ![](https://img.shields.io/github/commit-activity/y/tad34s/mejkr.nvim)
 - [theawakener0/NeoRunner](https://github.com/theawakener0/NeoRunner) ![](https://img.shields.io/github/stars/theawakener0/NeoRunner) ![](https://img.shields.io/github/last-commit/theawakener0/NeoRunner) ![](https://img.shields.io/github/commit-activity/y/theawakener0/NeoRunner)
+- [mewais/task-hub.nvim](https://github.com/mewais/task-hub.nvim) ![](https://img.shields.io/github/stars/mewais/task-hub.nvim) ![](https://img.shields.io/github/last-commit/mewais/task-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/mewais/task-hub.nvim)
 
 #### Shell
 
@@ -259,6 +260,7 @@
 - [al1-ce/just.nvim](https://github.com/al1-ce/just.nvim) ![](https://img.shields.io/github/stars/al1-ce/just.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/just.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/just.nvim)
 - [adriangitvitz/pm.nvim](https://github.com/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/stars/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/last-commit/adriangitvitz/pm.nvim) ![](https://img.shields.io/github/commit-activity/y/adriangitvitz/pm.nvim)
 - [fcying/just.nvim](https://github.com/fcying/just.nvim) ![](https://img.shields.io/github/stars/fcying/just.nvim) ![](https://img.shields.io/github/last-commit/fcying/just.nvim) ![](https://img.shields.io/github/commit-activity/y/fcying/just.nvim)
+- [ltpie123/lazymake.nvim](https://github.com/ltpie123/lazymake.nvim) ![](https://img.shields.io/github/stars/ltpie123/lazymake.nvim) ![](https://img.shields.io/github/last-commit/ltpie123/lazymake.nvim) ![](https://img.shields.io/github/commit-activity/y/ltpie123/lazymake.nvim)
 
 #### just
 

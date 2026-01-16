@@ -200,6 +200,7 @@
 - [albenisolmos/telescope-oil.nvim](https://github.com/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/stars/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/last-commit/albenisolmos/telescope-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/albenisolmos/telescope-oil.nvim)
 - [synic/telescope-dirpicker.nvim](https://github.com/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/stars/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/last-commit/synic/telescope-dirpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/synic/telescope-dirpicker.nvim)
 - [otavioschwanck/fzf-lua-explorer.nvim](https://github.com/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/fzf-lua-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/fzf-lua-explorer.nvim)
+- [wfletch/goto.nvim](https://github.com/wfletch/goto.nvim) ![](https://img.shields.io/github/stars/wfletch/goto.nvim) ![](https://img.shields.io/github/last-commit/wfletch/goto.nvim) ![](https://img.shields.io/github/commit-activity/y/wfletch/goto.nvim)
 
 ### Find specific file
 

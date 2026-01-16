@@ -23,6 +23,7 @@
 - [Maldus512/reader.nvim](https://github.com/Maldus512/reader.nvim) ![](https://img.shields.io/github/stars/Maldus512/reader.nvim) ![](https://img.shields.io/github/last-commit/Maldus512/reader.nvim) ![](https://img.shields.io/github/commit-activity/y/Maldus512/reader.nvim)
 - [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
 - [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/pacer.nvim)
+- [unixsuperhero/demo.nvim](https://github.com/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/demo.nvim)
 
 #### Current Position Info
 
