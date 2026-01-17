@@ -45,6 +45,7 @@
 - [avocadoisi/tenkai.nvim](https://github.com/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/stars/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/last-commit/avocadoisi/tenkai.nvim) ![](https://img.shields.io/github/commit-activity/y/avocadoisi/tenkai.nvim)
 - [caplod/extract.nvim](https://github.com/caplod/extract.nvim) ![](https://img.shields.io/github/stars/caplod/extract.nvim) ![](https://img.shields.io/github/last-commit/caplod/extract.nvim) ![](https://img.shields.io/github/commit-activity/y/caplod/extract.nvim)
 - [saifshahriar/nvim-lsi](https://github.com/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/stars/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/last-commit/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/commit-activity/y/saifshahriar/nvim-lsi)
+- [Caylub/telescope-blink-snippets.nvim](https://github.com/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/stars/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/last-commit/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Caylub/telescope-blink-snippets.nvim)
 
 #### Snippet definitions
 
@@ -111,7 +112,6 @@
 - [suzhiking/algotpl.nvim](https://github.com/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/stars/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/last-commit/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/commit-activity/y/suzhiking/algotpl.nvim)
 
 #### README
-
 
 ### Shebang
 

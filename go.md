@@ -110,6 +110,7 @@
 - [vcraescu/gotest.nvim](https://github.com/vcraescu/gotest.nvim) ![](https://img.shields.io/github/stars/vcraescu/gotest.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/gotest.nvim)
 - [vladevelops/gtestler.nvim](https://github.com/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/stars/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/last-commit/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/commit-activity/y/vladevelops/gtestler.nvim)
 - [stroiman/gotest.nvim](https://github.com/stroiman/gotest.nvim) ![](https://img.shields.io/github/stars/stroiman/gotest.nvim) ![](https://img.shields.io/github/last-commit/stroiman/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/stroiman/gotest.nvim)
+- [AEKDA/minimock.nvim](https://github.com/AEKDA/minimock.nvim) ![](https://img.shields.io/github/stars/AEKDA/minimock.nvim) ![](https://img.shields.io/github/last-commit/AEKDA/minimock.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKDA/minimock.nvim)
 
 #### Test file
 
