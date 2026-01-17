@@ -111,6 +111,7 @@
 - [gitsang/trzsz.nvim](https://github.com/gitsang/trzsz.nvim) ![](https://img.shields.io/github/stars/gitsang/trzsz.nvim) ![](https://img.shields.io/github/last-commit/gitsang/trzsz.nvim) ![](https://img.shields.io/github/commit-activity/y/gitsang/trzsz.nvim)
 - [sh1Nome/floatcli.nvim](https://github.com/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/stars/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/floatcli.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/floatcli.nvim)
 - [huypl53/acterm.nvim](https://github.com/huypl53/acterm.nvim) ![](https://img.shields.io/github/stars/huypl53/acterm.nvim) ![](https://img.shields.io/github/last-commit/huypl53/acterm.nvim) ![](https://img.shields.io/github/commit-activity/y/huypl53/acterm.nvim)
+- [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ![](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-winterm)
 
 ### Open
 

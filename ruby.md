@@ -24,6 +24,7 @@
 - [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
 - [lucianghinda/ruby-smart-copy.nvim](https://github.com/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/stars/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/last-commit/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianghinda/ruby-smart-copy.nvim)
 - [h3pei/ruby-block-toggle.nvim](https://github.com/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/stars/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/last-commit/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/ruby-block-toggle.nvim)
+- [l-lin/private-ruby.nvim](https://github.com/l-lin/private-ruby.nvim) ![](https://img.shields.io/github/stars/l-lin/private-ruby.nvim) ![](https://img.shields.io/github/last-commit/l-lin/private-ruby.nvim) ![](https://img.shields.io/github/commit-activity/y/l-lin/private-ruby.nvim)
 
 ### Test
 

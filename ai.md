@@ -605,6 +605,7 @@
 - [ninetyfive-gg/ninetyfive.nvim](https://github.com/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/stars/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/last-commit/ninetyfive-gg/ninetyfive.nvim) ![](https://img.shields.io/github/commit-activity/y/ninetyfive-gg/ninetyfive.nvim)
 - [brendonmlopes/nvim-gopilot](https://github.com/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/stars/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/last-commit/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/commit-activity/y/brendonmlopes/nvim-gopilot)
 - [abdul-hamid-achik/haiku.nvim](https://github.com/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/haiku.nvim)
+- [chirag-juneja/librecode.nvim](https://github.com/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/librecode.nvim)
 
 ### Copilot
 
@@ -811,6 +812,7 @@
 
 - [manno23/nvim-acp](https://github.com/manno23/nvim-acp) ![](https://img.shields.io/github/stars/manno23/nvim-acp) ![](https://img.shields.io/github/last-commit/manno23/nvim-acp) ![](https://img.shields.io/github/commit-activity/y/manno23/nvim-acp)
 - [slimslenderslacks/nvim-cagent](https://github.com/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-cagent)
+- [assagman/ghost.nvim](https://github.com/assagman/ghost.nvim) ![](https://img.shields.io/github/stars/assagman/ghost.nvim) ![](https://img.shields.io/github/last-commit/assagman/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/assagman/ghost.nvim)
 
 ## ignore
 

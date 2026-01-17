@@ -896,6 +896,7 @@
 - [regarager/cheesepizza.nvim](https://github.com/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/stars/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/last-commit/regarager/cheesepizza.nvim) ![](https://img.shields.io/github/commit-activity/y/regarager/cheesepizza.nvim)
 - [barrett-ruth/cp.nvim](https://github.com/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/cp.nvim)
 - [simta1/cptools.nvim](https://github.com/simta1/cptools.nvim) ![](https://img.shields.io/github/stars/simta1/cptools.nvim) ![](https://img.shields.io/github/last-commit/simta1/cptools.nvim) ![](https://img.shields.io/github/commit-activity/y/simta1/cptools.nvim)
+- [prerit714/cp.nvim](https://github.com/prerit714/cp.nvim) ![](https://img.shields.io/github/stars/prerit714/cp.nvim) ![](https://img.shields.io/github/last-commit/prerit714/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/cp.nvim)
 
 ### Codeforces
 

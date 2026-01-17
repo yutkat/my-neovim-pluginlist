@@ -262,6 +262,7 @@
 - [tgienger/stm.nvim](https://github.com/tgienger/stm.nvim) ![](https://img.shields.io/github/stars/tgienger/stm.nvim) ![](https://img.shields.io/github/last-commit/tgienger/stm.nvim) ![](https://img.shields.io/github/commit-activity/y/tgienger/stm.nvim)
 - [b0dee/qabtan.nvim](https://github.com/b0dee/qabtan.nvim) ![](https://img.shields.io/github/stars/b0dee/qabtan.nvim) ![](https://img.shields.io/github/last-commit/b0dee/qabtan.nvim) ![](https://img.shields.io/github/commit-activity/y/b0dee/qabtan.nvim)
 - [blitzarx1/todoer.nvim](https://github.com/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/stars/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/last-commit/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/commit-activity/y/blitzarx1/todoer.nvim)
+- [RodrigoAroeira/tick.nvim](https://github.com/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/stars/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/last-commit/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/RodrigoAroeira/tick.nvim)
 
 #### Google Task
 
@@ -458,6 +459,7 @@
 - [Selyss/mind.nvim](https://github.com/Selyss/mind.nvim) ![](https://img.shields.io/github/stars/Selyss/mind.nvim) ![](https://img.shields.io/github/last-commit/Selyss/mind.nvim) ![](https://img.shields.io/github/commit-activity/y/Selyss/mind.nvim)
 - [HumanEntity/denote.nvim](https://github.com/HumanEntity/denote.nvim) ![](https://img.shields.io/github/stars/HumanEntity/denote.nvim) ![](https://img.shields.io/github/last-commit/HumanEntity/denote.nvim) ![](https://img.shields.io/github/commit-activity/y/HumanEntity/denote.nvim)
 - [natefduncan/notes.nvim](https://github.com/natefduncan/notes.nvim) ![](https://img.shields.io/github/stars/natefduncan/notes.nvim) ![](https://img.shields.io/github/last-commit/natefduncan/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/natefduncan/notes.nvim)
+- [b-illy-d/lifemode.nvim](https://github.com/b-illy-d/lifemode.nvim) ![](https://img.shields.io/github/stars/b-illy-d/lifemode.nvim) ![](https://img.shields.io/github/last-commit/b-illy-d/lifemode.nvim) ![](https://img.shields.io/github/commit-activity/y/b-illy-d/lifemode.nvim)
 - [chrishannah/blogutils.nvim](https://github.com/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/stars/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/last-commit/chrishannah/blogutils.nvim) ![](https://img.shields.io/github/commit-activity/y/chrishannah/blogutils.nvim)
 - [genzyy/weaver.nvim](https://github.com/genzyy/weaver.nvim) ![](https://img.shields.io/github/stars/genzyy/weaver.nvim) ![](https://img.shields.io/github/last-commit/genzyy/weaver.nvim) ![](https://img.shields.io/github/commit-activity/y/genzyy/weaver.nvim)
 - [EnzoJ0se/quick-notes.nvim](https://github.com/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/stars/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/last-commit/EnzoJ0se/quick-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/EnzoJ0se/quick-notes.nvim)
