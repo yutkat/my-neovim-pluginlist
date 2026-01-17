@@ -89,7 +89,3 @@
 - [Daydreamer-riri/pretty-telescope.nvim](https://github.com/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/stars/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/last-commit/Daydreamer-riri/pretty-telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/Daydreamer-riri/pretty-telescope.nvim)
 - [josa42/nvim-telescope-minimal-layout](https://github.com/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/stars/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/last-commit/josa42/nvim-telescope-minimal-layout) ![](https://img.shields.io/github/commit-activity/y/josa42/nvim-telescope-minimal-layout)
 - [todesking/telescope-highlight-common-prefix.nvim](https://github.com/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/stars/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/last-commit/todesking/telescope-highlight-common-prefix.nvim) ![](https://img.shields.io/github/commit-activity/y/todesking/telescope-highlight-common-prefix.nvim)
-
-#### Integration for another plugin
-
-- [Caylub/telescope-blink-snippets.nvim](https://github.com/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/stars/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/last-commit/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Caylub/telescope-blink-snippets.nvim)
