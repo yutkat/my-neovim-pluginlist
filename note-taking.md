@@ -116,6 +116,7 @@
 - [morgsmccauley/notes.nvim](https://github.com/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/stars/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/last-commit/morgsmccauley/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/morgsmccauley/notes.nvim)
 - [sigugo/simple-notes.nvim](https://github.com/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/stars/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/last-commit/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sigugo/simple-notes.nvim)
 - [JulianSchubel/nvim-notepad](https://github.com/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-notepad)
+- [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) ![](https://img.shields.io/github/stars/iwe-org/iwe.nvim) ![](https://img.shields.io/github/last-commit/iwe-org/iwe.nvim) ![](https://img.shields.io/github/commit-activity/y/iwe-org/iwe.nvim)
 
 ### Journal
 
