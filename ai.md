@@ -487,6 +487,7 @@
 ### Mistral
 
 - [jrollin/mistral-codestral.nvim](https://github.com/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/stars/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/last-commit/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/commit-activity/y/jrollin/mistral-codestral.nvim)
+- [aliou/nvim-fim](https://github.com/aliou/nvim-fim) ![](https://img.shields.io/github/stars/aliou/nvim-fim) ![](https://img.shields.io/github/last-commit/aliou/nvim-fim) ![](https://img.shields.io/github/commit-activity/y/aliou/nvim-fim)
 
 ### Mentat
 
@@ -740,6 +741,7 @@
 - [surajssc1232/rover.nvim](https://github.com/surajssc1232/rover.nvim) ![](https://img.shields.io/github/stars/surajssc1232/rover.nvim) ![](https://img.shields.io/github/last-commit/surajssc1232/rover.nvim) ![](https://img.shields.io/github/commit-activity/y/surajssc1232/rover.nvim)
 - [dylowens/llm-docs.nvim](https://github.com/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/stars/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/last-commit/dylowens/llm-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/dylowens/llm-docs.nvim)
 - [kr4nkenwagen/ai-docstring.nvim](https://github.com/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/stars/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/last-commit/kr4nkenwagen/ai-docstring.nvim) ![](https://img.shields.io/github/commit-activity/y/kr4nkenwagen/ai-docstring.nvim)
+- [mabd-dev/doc-gen-ai.nvim](https://github.com/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/stars/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/last-commit/mabd-dev/doc-gen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/mabd-dev/doc-gen-ai.nvim)
 
 ## Pair Programming
 

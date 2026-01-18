@@ -347,6 +347,7 @@
 - [3dyuval/git-resolve-conflict.nvim](https://github.com/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/stars/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/last-commit/3dyuval/git-resolve-conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/3dyuval/git-resolve-conflict.nvim)
 - [StackInTheWild/headhunter.nvim](https://github.com/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/headhunter.nvim)
 - [Yeshwanthyk/resolver.nvim](https://github.com/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/stars/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/last-commit/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeshwanthyk/resolver.nvim)
+- [madmaxieee/unclash.nvim](https://github.com/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/stars/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/unclash.nvim)
 
 ### git pull
 
@@ -414,6 +415,7 @@
 - [mitubaEX/branch-workspace.nvim](https://github.com/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/stars/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/branch-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/branch-workspace.nvim)
 - [pittcat/tmux-worktrees.nvim](https://github.com/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/stars/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/last-commit/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/tmux-worktrees.nvim)
 - [nerap/bareme.nvim](https://github.com/nerap/bareme.nvim) ![](https://img.shields.io/github/stars/nerap/bareme.nvim) ![](https://img.shields.io/github/last-commit/nerap/bareme.nvim) ![](https://img.shields.io/github/commit-activity/y/nerap/bareme.nvim)
+- [IMax153/git-worktree.nvim](https://github.com/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/stars/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/IMax153/git-worktree.nvim)
 
 ### submodule
 
@@ -588,6 +590,7 @@
 ### Project
 
 - [Lucas-Henry/github-projects.nvim](https://github.com/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/stars/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/last-commit/Lucas-Henry/github-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/Lucas-Henry/github-projects.nvim)
+- [bretwardjames/ghp.nvim](https://github.com/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/stars/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/last-commit/bretwardjames/ghp.nvim) ![](https://img.shields.io/github/commit-activity/y/bretwardjames/ghp.nvim)
 
 ### Link
 

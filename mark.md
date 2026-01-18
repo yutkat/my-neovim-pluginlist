@@ -141,6 +141,7 @@
 - [Sidney-Bernardin/tesser.nvim](https://github.com/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/stars/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/last-commit/Sidney-Bernardin/tesser.nvim) ![](https://img.shields.io/github/commit-activity/y/Sidney-Bernardin/tesser.nvim)
 - [anoopkcn/filemarks.nvim](https://github.com/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/stars/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/filemarks.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/filemarks.nvim)
 - [eidge/charta.nvim](https://github.com/eidge/charta.nvim) ![](https://img.shields.io/github/stars/eidge/charta.nvim) ![](https://img.shields.io/github/last-commit/eidge/charta.nvim) ![](https://img.shields.io/github/commit-activity/y/eidge/charta.nvim)
+- [TheNoeTrevino/haunt.nvim](https://github.com/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/haunt.nvim)
 
 ### etc
 

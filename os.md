@@ -81,6 +81,7 @@
 - [wizardlink/nix-store.nvim](https://github.com/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/stars/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/last-commit/wizardlink/nix-store.nvim) ![](https://img.shields.io/github/commit-activity/y/wizardlink/nix-store.nvim)
 - [brandishcode/nixessity.nvim](https://github.com/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/stars/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/last-commit/brandishcode/nixessity.nvim) ![](https://img.shields.io/github/commit-activity/y/brandishcode/nixessity.nvim)
 - [CameronBadman/nixshell.nvim](https://github.com/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/stars/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/last-commit/CameronBadman/nixshell.nvim) ![](https://img.shields.io/github/commit-activity/y/CameronBadman/nixshell.nvim)
+- [SalOrak/nix-dev.nvim](https://github.com/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/stars/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/nix-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/nix-dev.nvim)
 
 #### drun
 
