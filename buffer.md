@@ -168,7 +168,6 @@
 
 - [mskelton/local-yokel.nvim](https://github.com/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/stars/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/last-commit/mskelton/local-yokel.nvim) ![](https://img.shields.io/github/commit-activity/y/mskelton/local-yokel.nvim)
 - [ZKAW/telescope-create-file.nvim](https://github.com/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/stars/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/last-commit/ZKAW/telescope-create-file.nvim) ![](https://img.shields.io/github/commit-activity/y/ZKAW/telescope-create-file.nvim)
-- [dpi0/nee.nvim](https://github.com/dpi0/nee.nvim) ![](https://img.shields.io/github/stars/dpi0/nee.nvim) ![](https://img.shields.io/github/last-commit/dpi0/nee.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/nee.nvim)
 
 #### open
 
