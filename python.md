@@ -68,6 +68,7 @@
 - [dumidusw/python-type-hints.nvim](https://github.com/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/stars/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/last-commit/dumidusw/python-type-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/dumidusw/python-type-hints.nvim)
 - [Sabir222/bracepy.nvim](https://github.com/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/stars/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/last-commit/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/commit-activity/y/Sabir222/bracepy.nvim)
 - [lukoshkin/pymove.nvim](https://github.com/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/stars/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/last-commit/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/pymove.nvim)
+- [timsat/myfact.nvim](https://github.com/timsat/myfact.nvim) ![](https://img.shields.io/github/stars/timsat/myfact.nvim) ![](https://img.shields.io/github/last-commit/timsat/myfact.nvim) ![](https://img.shields.io/github/commit-activity/y/timsat/myfact.nvim)
 
 ### tweaks
 
@@ -250,6 +251,7 @@
 - [stellarjmr/notebook_style.nvim](https://github.com/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/stars/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/notebook_style.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/notebook_style.nvim)
 - [foredu/jupyter-remote.nvim](https://github.com/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/stars/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/last-commit/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/foredu/jupyter-remote.nvim)
 - [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
+- [ajbucci/ipynb.nvim](https://github.com/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/stars/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbucci/ipynb.nvim)
 
 ### Pandas
 

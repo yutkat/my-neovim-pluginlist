@@ -225,6 +225,7 @@
 ##### disassembler
 
 - [ArnauPrat/nvim-csharp-dasm](https://github.com/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/stars/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/last-commit/ArnauPrat/nvim-csharp-dasm) ![](https://img.shields.io/github/commit-activity/y/ArnauPrat/nvim-csharp-dasm)
+- [caverav/ilspy.nvim](https://github.com/caverav/ilspy.nvim) ![](https://img.shields.io/github/stars/caverav/ilspy.nvim) ![](https://img.shields.io/github/last-commit/caverav/ilspy.nvim) ![](https://img.shields.io/github/commit-activity/y/caverav/ilspy.nvim)
 
 ##### inspect
 
@@ -412,6 +413,7 @@
 - [conig/nvim-target-target](https://github.com/conig/nvim-target-target) ![](https://img.shields.io/github/stars/conig/nvim-target-target) ![](https://img.shields.io/github/last-commit/conig/nvim-target-target) ![](https://img.shields.io/github/commit-activity/y/conig/nvim-target-target)
 - [wurli/ark.nvim](https://github.com/wurli/ark.nvim) ![](https://img.shields.io/github/stars/wurli/ark.nvim) ![](https://img.shields.io/github/last-commit/wurli/ark.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/ark.nvim)
 - [FernandoFailla/r-background-jobs.nvim](https://github.com/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/stars/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/last-commit/FernandoFailla/r-background-jobs.nvim) ![](https://img.shields.io/github/commit-activity/y/FernandoFailla/r-background-jobs.nvim)
+- [mschmidty/rtargets.nvim](https://github.com/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/stars/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/rtargets.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/rtargets.nvim)
 
 #### Shellscript(bash)
 
