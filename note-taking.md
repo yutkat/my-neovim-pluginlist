@@ -92,6 +92,7 @@
 - [Youchunmaru/skb.nvim](https://github.com/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/stars/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/last-commit/Youchunmaru/skb.nvim) ![](https://img.shields.io/github/commit-activity/y/Youchunmaru/skb.nvim)
 - [wsdjeg/zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/stars/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/zettelkasten.nvim)
 - [tDalile/gravel.nvim](https://github.com/tDalile/gravel.nvim) ![](https://img.shields.io/github/stars/tDalile/gravel.nvim) ![](https://img.shields.io/github/last-commit/tDalile/gravel.nvim) ![](https://img.shields.io/github/commit-activity/y/tDalile/gravel.nvim)
+- [Sahel13/notes.nvim](https://github.com/Sahel13/notes.nvim) ![](https://img.shields.io/github/stars/Sahel13/notes.nvim) ![](https://img.shields.io/github/last-commit/Sahel13/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sahel13/notes.nvim)
 
 ### Markdown
 
@@ -131,6 +132,7 @@
 - [gs-deliverists-io/daily-champ.nvim](https://github.com/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/daily-champ.nvim)
 - [paulpaule21/life.nvim](https://github.com/paulpaule21/life.nvim) ![](https://img.shields.io/github/stars/paulpaule21/life.nvim) ![](https://img.shields.io/github/last-commit/paulpaule21/life.nvim) ![](https://img.shields.io/github/commit-activity/y/paulpaule21/life.nvim)
 - [behzade/j.nvim](https://github.com/behzade/j.nvim) ![](https://img.shields.io/github/stars/behzade/j.nvim) ![](https://img.shields.io/github/last-commit/behzade/j.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/j.nvim)
+- [Cassin01/sm.nvim](https://github.com/Cassin01/sm.nvim) ![](https://img.shields.io/github/stars/Cassin01/sm.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sm.nvim)
 
 ### ToDo
 
@@ -265,6 +267,7 @@
 - [b0dee/qabtan.nvim](https://github.com/b0dee/qabtan.nvim) ![](https://img.shields.io/github/stars/b0dee/qabtan.nvim) ![](https://img.shields.io/github/last-commit/b0dee/qabtan.nvim) ![](https://img.shields.io/github/commit-activity/y/b0dee/qabtan.nvim)
 - [blitzarx1/todoer.nvim](https://github.com/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/stars/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/last-commit/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/commit-activity/y/blitzarx1/todoer.nvim)
 - [RodrigoAroeira/tick.nvim](https://github.com/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/stars/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/last-commit/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/RodrigoAroeira/tick.nvim)
+- [JOSA-OpenLab/todo.nvim](https://github.com/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/stars/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/last-commit/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/JOSA-OpenLab/todo.nvim)
 
 #### Google Task
 

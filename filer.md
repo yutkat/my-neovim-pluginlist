@@ -96,6 +96,7 @@
 - [TrsNium/feather.nvim](https://github.com/TrsNium/feather.nvim) ![](https://img.shields.io/github/stars/TrsNium/feather.nvim) ![](https://img.shields.io/github/last-commit/TrsNium/feather.nvim) ![](https://img.shields.io/github/commit-activity/y/TrsNium/feather.nvim)
 - [Olyxz16/triad.nvim](https://github.com/Olyxz16/triad.nvim) ![](https://img.shields.io/github/stars/Olyxz16/triad.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/triad.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/triad.nvim)
 - [dghuuloc/fexptr.nvim](https://github.com/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/stars/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/fexptr.nvim)
+- [JuaniRaggio/vired.nvim](https://github.com/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/stars/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/last-commit/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/commit-activity/y/JuaniRaggio/vired.nvim)
 
 ### gx
 
@@ -231,6 +232,7 @@
 - [JulienZD/file-case-gen.nvim](https://github.com/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/stars/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/last-commit/JulienZD/file-case-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/JulienZD/file-case-gen.nvim)
 - [cushydigit/nvim-rename-plugin](https://github.com/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/stars/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/last-commit/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/commit-activity/y/cushydigit/nvim-rename-plugin)
 - [marcesengel/renamer.nvim](https://github.com/marcesengel/renamer.nvim) ![](https://img.shields.io/github/stars/marcesengel/renamer.nvim) ![](https://img.shields.io/github/last-commit/marcesengel/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/marcesengel/renamer.nvim)
+- [opsaaaaa/movefile.nvim](https://github.com/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/stars/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/last-commit/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/commit-activity/y/opsaaaaa/movefile.nvim)
 
 ### Trash
 
