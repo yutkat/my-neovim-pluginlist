@@ -488,6 +488,7 @@
 
 - [jrollin/mistral-codestral.nvim](https://github.com/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/stars/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/last-commit/jrollin/mistral-codestral.nvim) ![](https://img.shields.io/github/commit-activity/y/jrollin/mistral-codestral.nvim)
 - [aliou/nvim-fim](https://github.com/aliou/nvim-fim) ![](https://img.shields.io/github/stars/aliou/nvim-fim) ![](https://img.shields.io/github/last-commit/aliou/nvim-fim) ![](https://img.shields.io/github/commit-activity/y/aliou/nvim-fim)
+- [ide-outils/mistral_nvim](https://github.com/ide-outils/mistral_nvim) ![](https://img.shields.io/github/stars/ide-outils/mistral_nvim) ![](https://img.shields.io/github/last-commit/ide-outils/mistral_nvim) ![](https://img.shields.io/github/commit-activity/y/ide-outils/mistral_nvim)
 
 ### Mentat
 
@@ -607,6 +608,7 @@
 - [brendonmlopes/nvim-gopilot](https://github.com/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/stars/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/last-commit/brendonmlopes/nvim-gopilot) ![](https://img.shields.io/github/commit-activity/y/brendonmlopes/nvim-gopilot)
 - [abdul-hamid-achik/haiku.nvim](https://github.com/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/haiku.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/haiku.nvim)
 - [chirag-juneja/librecode.nvim](https://github.com/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/librecode.nvim)
+- [jim-at-jibba/nvim-stride](https://github.com/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/stars/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/last-commit/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/nvim-stride)
 
 ### Copilot
 
@@ -624,6 +626,7 @@
 - [dyamon/codecompanion-copilot-enterprise.nvim](https://github.com/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-copilot-enterprise.nvim)
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ![](https://img.shields.io/github/stars/folke/sidekick.nvim) ![](https://img.shields.io/github/last-commit/folke/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/sidekick.nvim)
 - [agretta/cccontext.nvim](https://github.com/agretta/cccontext.nvim) ![](https://img.shields.io/github/stars/agretta/cccontext.nvim) ![](https://img.shields.io/github/last-commit/agretta/cccontext.nvim) ![](https://img.shields.io/github/commit-activity/y/agretta/cccontext.nvim)
+- [samiulsami/copilot-eldritch.nvim](https://github.com/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/stars/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/copilot-eldritch.nvim)
 
 ### Genie CLI
 

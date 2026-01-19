@@ -93,6 +93,7 @@
 - [wsdjeg/zettelkasten.nvim](https://github.com/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/stars/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/zettelkasten.nvim)
 - [tDalile/gravel.nvim](https://github.com/tDalile/gravel.nvim) ![](https://img.shields.io/github/stars/tDalile/gravel.nvim) ![](https://img.shields.io/github/last-commit/tDalile/gravel.nvim) ![](https://img.shields.io/github/commit-activity/y/tDalile/gravel.nvim)
 - [Sahel13/notes.nvim](https://github.com/Sahel13/notes.nvim) ![](https://img.shields.io/github/stars/Sahel13/notes.nvim) ![](https://img.shields.io/github/last-commit/Sahel13/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sahel13/notes.nvim)
+- [wakatara/MdViews](https://github.com/wakatara/MdViews) ![](https://img.shields.io/github/stars/wakatara/MdViews) ![](https://img.shields.io/github/last-commit/wakatara/MdViews) ![](https://img.shields.io/github/commit-activity/y/wakatara/MdViews)
 
 ### Markdown
 
