@@ -61,7 +61,6 @@
   - [sc-im](#sc-im)
   - [ledger](#ledger)
   - [diagon](#diagon)
-  - [editprompt](#editprompt)
   - [k8s (Kubernetes)](#k8s-kubernetes)
     - [ArgoCD](#argocd)
   - [Nomad](#nomad)
@@ -473,10 +472,6 @@
 #### diagon
 
 - [h8rtv/diagon.nvim](https://github.com/h8rtv/diagon.nvim) ![](https://img.shields.io/github/stars/h8rtv/diagon.nvim) ![](https://img.shields.io/github/last-commit/h8rtv/diagon.nvim) ![](https://img.shields.io/github/commit-activity/y/h8rtv/diagon.nvim)
-
-#### editprompt
-
-- [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
 
 #### k8s (Kubernetes)
 

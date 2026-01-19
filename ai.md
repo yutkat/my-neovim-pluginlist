@@ -642,6 +642,7 @@
 - [cristianoliveira/dogmeat.nvim](https://github.com/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/stars/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/last-commit/cristianoliveira/dogmeat.nvim) ![](https://img.shields.io/github/commit-activity/y/cristianoliveira/dogmeat.nvim)
 - [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
 - [N0nki/tmux-coding-agent.nvim](https://github.com/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/stars/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/last-commit/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/N0nki/tmux-coding-agent.nvim)
+- [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
 
 ### Amp
 
