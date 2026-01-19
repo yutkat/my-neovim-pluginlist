@@ -100,6 +100,7 @@
 - [kiselevart/nvim-discord-rpc](https://github.com/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/stars/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/last-commit/kiselevart/nvim-discord-rpc) ![](https://img.shields.io/github/commit-activity/y/kiselevart/nvim-discord-rpc)
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) ![](https://img.shields.io/github/stars/vyfor/cord.nvim) ![](https://img.shields.io/github/last-commit/vyfor/cord.nvim) ![](https://img.shields.io/github/commit-activity/y/vyfor/cord.nvim)
 - [himonshuuu/discord.nvim](https://github.com/himonshuuu/discord.nvim) ![](https://img.shields.io/github/stars/himonshuuu/discord.nvim) ![](https://img.shields.io/github/last-commit/himonshuuu/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/himonshuuu/discord.nvim)
+- [pandasoli/nekovim](https://github.com/pandasoli/nekovim) ![](https://img.shields.io/github/stars/pandasoli/nekovim) ![](https://img.shields.io/github/last-commit/pandasoli/nekovim) ![](https://img.shields.io/github/commit-activity/y/pandasoli/nekovim)
 
 #### Slack
 
