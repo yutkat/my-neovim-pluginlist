@@ -149,3 +149,4 @@
 
 - [rpapallas/illustrate.nvim](https://github.com/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/stars/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/last-commit/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/commit-activity/y/rpapallas/illustrate.nvim)
 - [louis-dj/doodle.nvim](https://github.com/louis-dj/doodle.nvim) ![](https://img.shields.io/github/stars/louis-dj/doodle.nvim) ![](https://img.shields.io/github/last-commit/louis-dj/doodle.nvim) ![](https://img.shields.io/github/commit-activity/y/louis-dj/doodle.nvim)
+- [piwvis/nvim-whiteboard](https://github.com/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/stars/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/last-commit/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/commit-activity/y/piwvis/nvim-whiteboard)

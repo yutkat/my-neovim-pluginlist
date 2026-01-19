@@ -112,3 +112,5 @@
 - [rdgd/timeline.nvim](https://github.com/rdgd/timeline.nvim) ![](https://img.shields.io/github/stars/rdgd/timeline.nvim) ![](https://img.shields.io/github/last-commit/rdgd/timeline.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/timeline.nvim)
 
 ### Cursor Position History
+
+- [Shresth72/navigation.nvim](https://github.com/Shresth72/navigation.nvim) ![](https://img.shields.io/github/stars/Shresth72/navigation.nvim) ![](https://img.shields.io/github/last-commit/Shresth72/navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/Shresth72/navigation.nvim)

@@ -20,6 +20,7 @@
 - [domsch1988/mattern.nvim](https://github.com/domsch1988/mattern.nvim) ![](https://img.shields.io/github/stars/domsch1988/mattern.nvim) ![](https://img.shields.io/github/last-commit/domsch1988/mattern.nvim) ![](https://img.shields.io/github/commit-activity/y/domsch1988/mattern.nvim)
 - [svampkorg/moody.nvim](https://github.com/svampkorg/moody.nvim) ![](https://img.shields.io/github/stars/svampkorg/moody.nvim) ![](https://img.shields.io/github/last-commit/svampkorg/moody.nvim) ![](https://img.shields.io/github/commit-activity/y/svampkorg/moody.nvim)
 - [aikawa9376/auto-cursorline.nvim](https://github.com/aikawa9376/auto-cursorline.nvim) ![](https://img.shields.io/github/stars/aikawa9376/auto-cursorline.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/auto-cursorline.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/auto-cursorline.nvim)
+- [Sand77x/leree.nvim](https://github.com/Sand77x/leree.nvim) ![](https://img.shields.io/github/stars/Sand77x/leree.nvim) ![](https://img.shields.io/github/last-commit/Sand77x/leree.nvim) ![](https://img.shields.io/github/commit-activity/y/Sand77x/leree.nvim)
 
 ### tweak
 
