@@ -113,6 +113,7 @@
 ### MyBatis
 
 - [qumn/mybatis.nvim](https://github.com/qumn/mybatis.nvim) ![](https://img.shields.io/github/stars/qumn/mybatis.nvim) ![](https://img.shields.io/github/last-commit/qumn/mybatis.nvim) ![](https://img.shields.io/github/commit-activity/y/qumn/mybatis.nvim)
+- [ishi-o/nvim-mybatis](https://github.com/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/stars/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/last-commit/ishi-o/nvim-mybatis) ![](https://img.shields.io/github/commit-activity/y/ishi-o/nvim-mybatis)
 
 ### JBoss
 

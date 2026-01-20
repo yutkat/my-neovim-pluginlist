@@ -341,6 +341,7 @@
 - [tjdevries/failwind.nvim](https://github.com/tjdevries/failwind.nvim) ![](https://img.shields.io/github/stars/tjdevries/failwind.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/failwind.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/failwind.nvim)
 - [jwbackhouse/tailwind-picker.nvim](https://github.com/jwbackhouse/tailwind-picker.nvim) ![](https://img.shields.io/github/stars/jwbackhouse/tailwind-picker.nvim) ![](https://img.shields.io/github/last-commit/jwbackhouse/tailwind-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/jwbackhouse/tailwind-picker.nvim)
 - [AalyTokombaev/tailwind-multiline.nvim](https://github.com/AalyTokombaev/tailwind-multiline.nvim) ![](https://img.shields.io/github/stars/AalyTokombaev/tailwind-multiline.nvim) ![](https://img.shields.io/github/last-commit/AalyTokombaev/tailwind-multiline.nvim) ![](https://img.shields.io/github/commit-activity/y/AalyTokombaev/tailwind-multiline.nvim)
+- [ruicsh/tailwind-hover.nvim](https://github.com/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwind-hover.nvim)
 
 ### SCSS
 

@@ -29,6 +29,7 @@
 - [krmmzs/jump-beacon.nvim](https://github.com/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/stars/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/last-commit/krmmzs/jump-beacon.nvim) ![](https://img.shields.io/github/commit-activity/y/krmmzs/jump-beacon.nvim)
 - [Sparkylc2/smart-nav.nvim](https://github.com/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/smart-nav.nvim)
 - [simoesd/floodlight.nvim](https://github.com/simoesd/floodlight.nvim) ![](https://img.shields.io/github/stars/simoesd/floodlight.nvim) ![](https://img.shields.io/github/last-commit/simoesd/floodlight.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/floodlight.nvim)
+- [xavierchen0/ezpoon.nvim](https://github.com/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/stars/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/last-commit/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/xavierchen0/ezpoon.nvim)
 
 ### Error
 
