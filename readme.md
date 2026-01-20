@@ -298,6 +298,7 @@
 - [tar80/matchwith.nvim](https://github.com/tar80/matchwith.nvim) ![](https://img.shields.io/github/stars/tar80/matchwith.nvim) ![](https://img.shields.io/github/last-commit/tar80/matchwith.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/matchwith.nvim)
 - [yorickpeterse/nvim-tree-pairs](https://github.com/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-tree-pairs) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-tree-pairs)
 - [haolian9/showmatch.nvim](https://github.com/haolian9/showmatch.nvim) ![](https://img.shields.io/github/stars/haolian9/showmatch.nvim) ![](https://img.shields.io/github/last-commit/haolian9/showmatch.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/showmatch.nvim)
+- [jugarpeupv/visual-match-paren.nvim](https://github.com/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/visual-match-paren.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/visual-match-paren.nvim)
 
 ### matchadd
 

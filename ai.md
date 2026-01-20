@@ -73,6 +73,7 @@
 - [Pair Programming](#pair-programming)
 - [Token Count](#token-count)
 - [log](#log)
+- [Plan](#plan)
 - [REPL](#repl)
 - [Writefull](#writefull)
 - [Neovim Command](#neovim-command)
@@ -762,6 +763,10 @@
 
 - [bissakov/copilot-telemetry-log-clean.nvim](https://github.com/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/stars/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/last-commit/bissakov/copilot-telemetry-log-clean.nvim) ![](https://img.shields.io/github/commit-activity/y/bissakov/copilot-telemetry-log-clean.nvim)
 - [suverino/llmlog.nvim](https://github.com/suverino/llmlog.nvim) ![](https://img.shields.io/github/stars/suverino/llmlog.nvim) ![](https://img.shields.io/github/last-commit/suverino/llmlog.nvim) ![](https://img.shields.io/github/commit-activity/y/suverino/llmlog.nvim)
+
+## Plan
+
+- [crafts69guy/ai-plans.nvim](https://github.com/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/stars/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/ai-plans.nvim)
 
 ## REPL
 

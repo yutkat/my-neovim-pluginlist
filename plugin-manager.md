@@ -83,6 +83,7 @@
 - [shizukani-cp/manager.nvim](https://github.com/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/manager.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/manager.nvim)
 - [OriginCoderPulse/synapse.nvim](https://github.com/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/stars/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/last-commit/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/commit-activity/y/OriginCoderPulse/synapse.nvim)
 - [JPierro0513/pack-wrap.nvim](https://github.com/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/stars/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/last-commit/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/JPierro0513/pack-wrap.nvim)
+- [TheMagSec/gpack.nvim](https://github.com/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/stars/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/last-commit/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMagSec/gpack.nvim)
 
 ### Update checker
 
