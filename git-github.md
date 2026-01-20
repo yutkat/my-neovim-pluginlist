@@ -271,6 +271,7 @@
 - [pedroren-001/blame.nvim](https://github.com/pedroren-001/blame.nvim) ![](https://img.shields.io/github/stars/pedroren-001/blame.nvim) ![](https://img.shields.io/github/last-commit/pedroren-001/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroren-001/blame.nvim)
 - [Aitai/blamer.nvim](https://github.com/Aitai/blamer.nvim) ![](https://img.shields.io/github/stars/Aitai/blamer.nvim) ![](https://img.shields.io/github/last-commit/Aitai/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/Aitai/blamer.nvim)
 - [maraxor27/nvim-gitblame](https://github.com/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/stars/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/last-commit/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/commit-activity/y/maraxor27/nvim-gitblame)
+- [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) ![](https://img.shields.io/github/stars/dgrco/blastradius.nvim) ![](https://img.shields.io/github/last-commit/dgrco/blastradius.nvim) ![](https://img.shields.io/github/commit-activity/y/dgrco/blastradius.nvim)
 
 ### git log
 

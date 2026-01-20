@@ -41,6 +41,8 @@
 - [vertexE/fold.nvim](https://github.com/vertexE/fold.nvim) ![](https://img.shields.io/github/stars/vertexE/fold.nvim) ![](https://img.shields.io/github/last-commit/vertexE/fold.nvim) ![](https://img.shields.io/github/commit-activity/y/vertexE/fold.nvim)
 - [Faria22/foldsync.nvim](https://github.com/Faria22/foldsync.nvim) ![](https://img.shields.io/github/stars/Faria22/foldsync.nvim) ![](https://img.shields.io/github/last-commit/Faria22/foldsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Faria22/foldsync.nvim)
 - [hanhanW/mlir-fold.nvim](https://github.com/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/stars/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/last-commit/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/hanhanW/mlir-fold.nvim)
+- [netmute/foldsigns.nvim](https://github.com/netmute/foldsigns.nvim) ![](https://img.shields.io/github/stars/netmute/foldsigns.nvim) ![](https://img.shields.io/github/last-commit/netmute/foldsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/netmute/foldsigns.nvim)
+- [netmute/foldchanged.nvim](https://github.com/netmute/foldchanged.nvim) ![](https://img.shields.io/github/stars/netmute/foldchanged.nvim) ![](https://img.shields.io/github/last-commit/netmute/foldchanged.nvim) ![](https://img.shields.io/github/commit-activity/y/netmute/foldchanged.nvim)
 
 ### Auto fold
 
