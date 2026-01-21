@@ -323,6 +323,7 @@
 - [MartinCornelius/tempbuf.nvim](https://github.com/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/stars/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/last-commit/MartinCornelius/tempbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/MartinCornelius/tempbuf.nvim)
 - [arctan2/scratch.nvim](https://github.com/arctan2/scratch.nvim) ![](https://img.shields.io/github/stars/arctan2/scratch.nvim) ![](https://img.shields.io/github/last-commit/arctan2/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/arctan2/scratch.nvim)
 - [Arfs6/scrappaper.nvim](https://github.com/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/stars/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/scrappaper.nvim)
+- [pirey/scratch.nvim](https://github.com/pirey/scratch.nvim) ![](https://img.shields.io/github/stars/pirey/scratch.nvim) ![](https://img.shields.io/github/last-commit/pirey/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/scratch.nvim)
 
 ### Scratchpad
 

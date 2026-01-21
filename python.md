@@ -69,6 +69,7 @@
 - [Sabir222/bracepy.nvim](https://github.com/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/stars/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/last-commit/Sabir222/bracepy.nvim) ![](https://img.shields.io/github/commit-activity/y/Sabir222/bracepy.nvim)
 - [lukoshkin/pymove.nvim](https://github.com/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/stars/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/last-commit/lukoshkin/pymove.nvim) ![](https://img.shields.io/github/commit-activity/y/lukoshkin/pymove.nvim)
 - [timsat/myfact.nvim](https://github.com/timsat/myfact.nvim) ![](https://img.shields.io/github/stars/timsat/myfact.nvim) ![](https://img.shields.io/github/last-commit/timsat/myfact.nvim) ![](https://img.shields.io/github/commit-activity/y/timsat/myfact.nvim)
+- [TheMagSec/lang-python.nvim](https://github.com/TheMagSec/lang-python.nvim) ![](https://img.shields.io/github/stars/TheMagSec/lang-python.nvim) ![](https://img.shields.io/github/last-commit/TheMagSec/lang-python.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMagSec/lang-python.nvim)
 
 ### tweaks
 

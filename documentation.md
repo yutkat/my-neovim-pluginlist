@@ -548,6 +548,7 @@
 
 - [thevimmer/latex_renderer.nvim](https://github.com/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/stars/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/last-commit/thevimmer/latex_renderer.nvim) ![](https://img.shields.io/github/commit-activity/y/thevimmer/latex_renderer.nvim)
 - [Thiago4532/mdmath.nvim](https://github.com/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/stars/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/last-commit/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/commit-activity/y/Thiago4532/mdmath.nvim)
+- [greasycat/yatr.nvim](https://github.com/greasycat/yatr.nvim) ![](https://img.shields.io/github/stars/greasycat/yatr.nvim) ![](https://img.shields.io/github/last-commit/greasycat/yatr.nvim) ![](https://img.shields.io/github/commit-activity/y/greasycat/yatr.nvim)
 
 #### Image
 

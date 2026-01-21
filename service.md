@@ -22,6 +22,7 @@
 - [codicocodes/dotfyle](https://github.com/codicocodes/dotfyle) ![](https://img.shields.io/github/stars/codicocodes/dotfyle) ![](https://img.shields.io/github/last-commit/codicocodes/dotfyle) ![](https://img.shields.io/github/commit-activity/y/codicocodes/dotfyle)
     - [creativenull/dotfyle-metadata.nvim](https://github.com/creativenull/dotfyle-metadata.nvim) ![](https://img.shields.io/github/stars/creativenull/dotfyle-metadata.nvim) ![](https://img.shields.io/github/last-commit/creativenull/dotfyle-metadata.nvim) ![](https://img.shields.io/github/commit-activity/y/creativenull/dotfyle-metadata.nvim)
 - [akasuv/neoland](https://github.com/akasuv/neoland) ![](https://img.shields.io/github/stars/akasuv/neoland) ![](https://img.shields.io/github/last-commit/akasuv/neoland) ![](https://img.shields.io/github/commit-activity/y/akasuv/neoland)
+- [taher53-s/nvim-plugin-marketplace](https://github.com/taher53-s/nvim-plugin-marketplace) ![](https://img.shields.io/github/stars/taher53-s/nvim-plugin-marketplace) ![](https://img.shields.io/github/last-commit/taher53-s/nvim-plugin-marketplace) ![](https://img.shields.io/github/commit-activity/y/taher53-s/nvim-plugin-marketplace)
 
 ## Remote server
 

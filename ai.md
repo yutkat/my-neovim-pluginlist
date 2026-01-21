@@ -221,6 +221,7 @@
 - [gutsavgupta/nvim-gemini-companion](https://github.com/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/stars/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/last-commit/gutsavgupta/nvim-gemini-companion) ![](https://img.shields.io/github/commit-activity/y/gutsavgupta/nvim-gemini-companion)
 - [ndsl6211/nvim-gemini-cli](https://github.com/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/stars/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/last-commit/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/commit-activity/y/ndsl6211/nvim-gemini-cli)
 - [vaijab/gemini-cli.nvim](https://github.com/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/stars/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/vaijab/gemini-cli.nvim)
+- [zaucy/gemini.nvim](https://github.com/zaucy/gemini.nvim) ![](https://img.shields.io/github/stars/zaucy/gemini.nvim) ![](https://img.shields.io/github/last-commit/zaucy/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/gemini.nvim)
 
 ### Grok
 
@@ -664,6 +665,7 @@
 - [loom99-public/n00bkeys.nvim](https://github.com/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/stars/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/last-commit/loom99-public/n00bkeys.nvim) ![](https://img.shields.io/github/commit-activity/y/loom99-public/n00bkeys.nvim)
 - [jarvoren/ShutItAndAnswer.nvim](https://github.com/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/stars/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/last-commit/jarvoren/ShutItAndAnswer.nvim) ![](https://img.shields.io/github/commit-activity/y/jarvoren/ShutItAndAnswer.nvim)
 - [PreziosiRaffaele/markdown-llm.nvim](https://github.com/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/markdown-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/markdown-llm.nvim)
+- [surajssamal/GPT_sidebar.nvim](https://github.com/surajssamal/GPT_sidebar.nvim) ![](https://img.shields.io/github/stars/surajssamal/GPT_sidebar.nvim) ![](https://img.shields.io/github/last-commit/surajssamal/GPT_sidebar.nvim) ![](https://img.shields.io/github/commit-activity/y/surajssamal/GPT_sidebar.nvim)
 
 ## AI Terminal
 
@@ -813,6 +815,7 @@
 - [DaneliSanche/mcphub.nvim](https://github.com/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/stars/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/last-commit/DaneliSanche/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/DaneliSanche/mcphub.nvim)
 - [AlessandMonte/mcphub.nvim](https://github.com/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/stars/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/last-commit/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/AlessandMonte/mcphub.nvim)
 - [guill/mcp-tools.nvim](https://github.com/guill/mcp-tools.nvim) ![](https://img.shields.io/github/stars/guill/mcp-tools.nvim) ![](https://img.shields.io/github/last-commit/guill/mcp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcp-tools.nvim)
+- [zaucy/mcp.nvim](https://github.com/zaucy/mcp.nvim) ![](https://img.shields.io/github/stars/zaucy/mcp.nvim) ![](https://img.shields.io/github/last-commit/zaucy/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/mcp.nvim)
 
 ### MCP SDK
 
