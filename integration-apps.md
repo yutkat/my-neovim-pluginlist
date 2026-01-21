@@ -505,7 +505,6 @@
 
 ### Core dump
 
-- [pathmann/stackwalk.nvim](https://github.com/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/stars/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/last-commit/pathmann/stackwalk.nvim) ![](https://img.shields.io/github/commit-activity/y/pathmann/stackwalk.nvim)
 
 ### dump file
 
