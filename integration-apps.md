@@ -449,6 +449,7 @@
 - [seokgukim/vawi.nvim](https://github.com/seokgukim/vawi.nvim) ![](https://img.shields.io/github/stars/seokgukim/vawi.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/vawi.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/vawi.nvim)
 - [wsdjeg/smart-ime.nvim](https://github.com/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/stars/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/smart-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/smart-ime.nvim)
 - [riodelphino/macime.nvim](https://github.com/riodelphino/macime.nvim) ![](https://img.shields.io/github/stars/riodelphino/macime.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/macime.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/macime.nvim)
+- [universal-abstraction/lang-autoswitch.nvim](https://github.com/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/stars/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/last-commit/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/universal-abstraction/lang-autoswitch.nvim)
 
 #### Fcitx
 

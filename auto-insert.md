@@ -62,6 +62,7 @@
 - [sundbp/strict-paredit.nvim](https://github.com/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/stars/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/last-commit/sundbp/strict-paredit.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/strict-paredit.nvim)
 - [frangio/parity.nvim](https://github.com/frangio/parity.nvim) ![](https://img.shields.io/github/stars/frangio/parity.nvim) ![](https://img.shields.io/github/last-commit/frangio/parity.nvim) ![](https://img.shields.io/github/commit-activity/y/frangio/parity.nvim)
 - [byitkc/autoclose.nvim](https://github.com/byitkc/autoclose.nvim) ![](https://img.shields.io/github/stars/byitkc/autoclose.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autoclose.nvim)
+- [gzygmanski/not-so-autopairs.nvim](https://github.com/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/stars/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/last-commit/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/gzygmanski/not-so-autopairs.nvim)
 
 ### escape pairs
 
@@ -93,6 +94,7 @@
 
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
 - [byfarm/nvim-autoswap](https://github.com/byfarm/nvim-autoswap) ![](https://img.shields.io/github/stars/byfarm/nvim-autoswap) ![](https://img.shields.io/github/last-commit/byfarm/nvim-autoswap) ![](https://img.shields.io/github/commit-activity/y/byfarm/nvim-autoswap)
+- [jos3lo89/autotemplate.nvim](https://github.com/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/stars/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/jos3lo89/autotemplate.nvim)
 
 ## Path
 
