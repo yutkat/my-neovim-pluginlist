@@ -4,7 +4,7 @@ set -Eeuo pipefail
 
 # Extract header 2+ sections from [a-z]*.md files and create .claude/SECTION.md
 
-output_file=".claude/SECTION.md"
+output_file=".codex/skills/add/references/SECTION.md"
 
 # Remove existing output file if it exists
 if [[ -f "$output_file" ]]; then
