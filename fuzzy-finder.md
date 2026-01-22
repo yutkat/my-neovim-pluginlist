@@ -4,7 +4,6 @@
 
 - [FuzzyFinder](#fuzzyfinder)
   - [Telescope Extensions](#telescope-extensions)
-    - [Picker](#picker)
     - [Customize Build-in Picker](#customize-build-in-picker)
     - [Sorter](#sorter)
     - [Action](#action)
@@ -58,10 +57,6 @@
 - [anoopkcn/fuzzy.nvim](https://github.com/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/stars/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/fuzzy.nvim)
 
 ### Telescope Extensions
-
-#### Picker
-
-- [metaphor-162/telescope-skill-picker.nvim](https://github.com/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/stars/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/last-commit/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/metaphor-162/telescope-skill-picker.nvim)
 
 #### Customize Build-in Picker
 
