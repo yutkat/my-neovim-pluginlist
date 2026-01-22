@@ -449,6 +449,7 @@
 - [Alexandersfg4/environment.nvim](https://github.com/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/stars/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/last-commit/Alexandersfg4/environment.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandersfg4/environment.nvim)
 - [Leonardo-Luz/hidenv.nvim](https://github.com/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/hidenv.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/hidenv.nvim)
 - [sociale11/envim.nvim](https://github.com/sociale11/envim.nvim) ![](https://img.shields.io/github/stars/sociale11/envim.nvim) ![](https://img.shields.io/github/last-commit/sociale11/envim.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/envim.nvim)
+- [ph1losof/ecolog2.nvim](https://github.com/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/stars/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/ecolog2.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/ecolog2.nvim)
 
 ### Errorformat
 

@@ -68,6 +68,7 @@
 ### Test
 
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
+- [jf-lavoie/maven.test.nvim](https://github.com/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/stars/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/last-commit/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/commit-activity/y/jf-lavoie/maven.test.nvim)
 
 ### Coverage
 

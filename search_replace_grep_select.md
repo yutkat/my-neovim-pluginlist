@@ -160,6 +160,7 @@
 - [utkayd/wherewolf.nvim](https://github.com/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/stars/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/last-commit/utkayd/wherewolf.nvim) ![](https://img.shields.io/github/commit-activity/y/utkayd/wherewolf.nvim)
 - [TobiasLaross/find-replace.nvim](https://github.com/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/stars/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/last-commit/TobiasLaross/find-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/TobiasLaross/find-replace.nvim)
 - [Jason-Bai/search-replace.nvim](https://github.com/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/stars/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Jason-Bai/search-replace.nvim)
+- [mosheavni/search-replace.nvim](https://github.com/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/stars/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/search-replace.nvim)
 
 ### Rename
 
