@@ -7,6 +7,7 @@
     - [Zig](#zig)
     - [Nix](#nix)
     - [Noir](#noir)
+    - [Nature](#nature)
     - [Lumos](#lumos)
     - [C#](#c%23)
       - [Compile](#compile)
@@ -199,6 +200,10 @@
 #### Noir
 
 - [0xteddybear/noir.nvim](https://github.com/0xteddybear/noir.nvim) ![](https://img.shields.io/github/stars/0xteddybear/noir.nvim) ![](https://img.shields.io/github/last-commit/0xteddybear/noir.nvim) ![](https://img.shields.io/github/commit-activity/y/0xteddybear/noir.nvim)
+
+#### Nature
+
+- [Araozu/nature.nvim](https://github.com/Araozu/nature.nvim) ![](https://img.shields.io/github/stars/Araozu/nature.nvim) ![](https://img.shields.io/github/last-commit/Araozu/nature.nvim) ![](https://img.shields.io/github/commit-activity/y/Araozu/nature.nvim)
 
 #### Lumos
 

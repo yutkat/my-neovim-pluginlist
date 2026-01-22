@@ -570,6 +570,7 @@
 - [noamsto/resolved.nvim](https://github.com/noamsto/resolved.nvim) ![](https://img.shields.io/github/stars/noamsto/resolved.nvim) ![](https://img.shields.io/github/last-commit/noamsto/resolved.nvim) ![](https://img.shields.io/github/commit-activity/y/noamsto/resolved.nvim)
 - [palekiwi/prctl.nvim](https://github.com/palekiwi/prctl.nvim) ![](https://img.shields.io/github/stars/palekiwi/prctl.nvim) ![](https://img.shields.io/github/last-commit/palekiwi/prctl.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi/prctl.nvim)
 - [ryugen04/remora.nvim](https://github.com/ryugen04/remora.nvim) ![](https://img.shields.io/github/stars/ryugen04/remora.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/remora.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/remora.nvim)
+- [0xKitsune/pr.nvim](https://github.com/0xKitsune/pr.nvim) ![](https://img.shields.io/github/stars/0xKitsune/pr.nvim) ![](https://img.shields.io/github/last-commit/0xKitsune/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKitsune/pr.nvim)
 
 #### Pull Request Comment
 
