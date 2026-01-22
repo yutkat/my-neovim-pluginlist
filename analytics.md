@@ -76,6 +76,7 @@
 ### Wakatime
 
 - [fiqryq/wakastat.nvim](https://github.com/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/stars/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/last-commit/fiqryq/wakastat.nvim) ![](https://img.shields.io/github/commit-activity/y/fiqryq/wakastat.nvim)
+- [Rtarun3606k/TakaTime](https://github.com/Rtarun3606k/TakaTime) ![](https://img.shields.io/github/stars/Rtarun3606k/TakaTime) ![](https://img.shields.io/github/last-commit/Rtarun3606k/TakaTime) ![](https://img.shields.io/github/commit-activity/y/Rtarun3606k/TakaTime)
 
 ### Mapping stat
 
