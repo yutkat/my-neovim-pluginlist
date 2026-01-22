@@ -1,0 +1,131 @@
+name: Auto Add New Plugins
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  add-plugins:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: "22"
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install Python dependencies
+        run: uv sync
+
+      - name: Cache Codex workspace
+        uses: actions/cache@v5
+        with:
+          path: |
+            ~/.codex
+            !~/.codex/auth.json
+          key: codex-${{ runner.os }}-${{ github.run_id }}
+          restore-keys: |
+            codex-${{ runner.os }}-
+
+      - name: Install Codex CLI
+        run: npm install -g @openai/codex
+
+      - name: Setup Codex authentication
+        run: |
+          mkdir -p ~/.codex
+          echo '${{ secrets.CODEX_AUTH }}' > ~/.codex/auth.json
+
+      - name: Fetch new plugins from RSS
+        run: uv run scripts/fetch_rss.py .latest_rss.json
+
+      - name: Show fetched RSS data
+        run: cat .latest_rss.json
+
+      - name: Check for new plugins
+        id: check_plugins
+        run: |
+          count=$(jq 'length' .latest_rss.json)
+          echo "plugin_count=$count" >> $GITHUB_OUTPUT
+          if [ "$count" -eq 0 ]; then
+            echo "No new plugins found today. Skipping."
+          fi
+
+      - name: Generate plugin list
+        if: steps.check_plugins.outputs.plugin_count != '0'
+        run: jq -r 'map(.title = "https://github.com/" + .title) | .[].title' .latest_rss.json | tee .new_plugins.txt
+
+      - name: Categorize plugins with Codex
+        if: steps.check_plugins.outputs.plugin_count != '0'
+        run: |
+          codex --ask-for-approval never exec --sandbox danger-full-access '$add'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Check categorization result
+        if: steps.check_plugins.outputs.plugin_count != '0'
+        id: check_result
+        run: |
+          if [ -f ".reason.md" ]; then
+            echo "exists=true" >> $GITHUB_OUTPUT
+          else
+            echo "exists=false" >> $GITHUB_OUTPUT
+            echo ".reason.md does not exist. No plugins were categorized."
+          fi
+
+      - name: Update SECTION.md
+        if: steps.check_plugins.outputs.plugin_count != '0' && steps.check_result.outputs.exists == 'true'
+        run: ./scripts/extract-sections.sh
+
+      - name: Create Pull Request
+        if: steps.check_plugins.outputs.plugin_count != '0' && steps.check_result.outputs.exists == 'true'
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet && git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git checkout -b ai-${{ github.run_id }}
+            git add *.md .codex/skills/add/references/SECTION.md
+            git commit -m "Add"
+            git push origin ai-${{ github.run_id }}
+            gh pr create \
+              --title "Add" \
+              --body-file ".reason.md" \
+              --base main \
+              --head ai-${{ github.run_id }} \
+              --assignee yutkat \
+              --label "automated pr,bot"
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Refresh Codex authentication
+        if: always()
+        run: |
+          if [ -f ~/.codex/auth.json ]; then
+            gh secret set CODEX_AUTH -R "${{ github.repository }}" -b"$(cat ~/.codex/auth.json)"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+
+  workflow-keepalive:
+    if: github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+    steps:
+      - uses: liskin/gh-workflow-keepalive@v1

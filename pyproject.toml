@@ -1,0 +1,9 @@
+[project]
+name = "my-neovim-pluginlist"
+version = "0.1.0"
+description = "Curated list of Neovim plugins"
+readme = "readme.md"
+requires-python = ">=3.12"
+dependencies = [
+    "feedparser>=6.0.11",
+]
