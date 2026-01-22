@@ -24,7 +24,7 @@ jobs:
           grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos.txt
           ./scripts/archive_check.sh /tmp/repos.txt archived_check_list.txt
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
       - run: >
           grep ":true\|:null" archived_check_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
@@ -33,7 +33,7 @@ jobs:
           grep '](https://github.com' Archived.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' > /tmp/repos_archive.txt
           ./scripts/archive_check.sh /tmp/repos_archive.txt archive_list.txt
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
       - run: >
           grep ":false" archive_list.txt | cut -d ":" -f 1 | sed 's/^/https:\/\/github.com\//'
       - run: >
@@ -46,7 +46,7 @@ jobs:
       #     sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' |
       #     xargs -P100 -I {} bash -c "curl -fsSL -o /dev/null https://github.com/{} || echo {} >> removed_check_list.txt"
       #   env:
-      #     GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+      #     GH_TOKEN: ${{ secrets.GH_PAT }}
       # - run: >
       #     cat removed_check_list.txt
       # - run: >

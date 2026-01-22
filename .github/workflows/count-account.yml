@@ -21,4 +21,4 @@ jobs:
       - run: >
           grep '](https://github.com' [a-z]*.md | sed -re 's/^.*\]\(https:\/\/github.com\/([^\)]*).*/\1/' | xargs -I {} dirname {} | sort | uniq -c | sort -n -r
         env:
-          GH_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
