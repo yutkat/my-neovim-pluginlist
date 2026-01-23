@@ -17,6 +17,7 @@
 - [Walenski/cloze.nvim](https://github.com/Walenski/cloze.nvim) ![](https://img.shields.io/github/stars/Walenski/cloze.nvim) ![](https://img.shields.io/github/last-commit/Walenski/cloze.nvim) ![](https://img.shields.io/github/commit-activity/y/Walenski/cloze.nvim)
 - [cjohnson74/Scales.nvim](https://github.com/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/stars/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/last-commit/cjohnson74/Scales.nvim) ![](https://img.shields.io/github/commit-activity/y/cjohnson74/Scales.nvim)
 - [SanzharKuandyk/subjoyer.nvim](https://github.com/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/subjoyer.nvim)
+- [ephi-jp/polytype.nvim](https://github.com/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/stars/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/last-commit/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/commit-activity/y/ephi-jp/polytype.nvim)
 
 ### French
 

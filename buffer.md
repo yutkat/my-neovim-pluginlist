@@ -97,6 +97,7 @@
   - [AbinZorto/bento-symbols.nvim](https://github.com/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/stars/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/last-commit/AbinZorto/bento-symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/AbinZorto/bento-symbols.nvim)
 - [kburgon/roo.nvim](https://github.com/kburgon/roo.nvim) ![](https://img.shields.io/github/stars/kburgon/roo.nvim) ![](https://img.shields.io/github/last-commit/kburgon/roo.nvim) ![](https://img.shields.io/github/commit-activity/y/kburgon/roo.nvim)
 - [zeroicey/bufswi.nvim](https://github.com/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/stars/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/last-commit/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/commit-activity/y/zeroicey/bufswi.nvim)
+- [chirag-diwan/FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/stars/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/last-commit/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-diwan/FSwitch.nvim)
 
 ### Other Buffer Switcher
 

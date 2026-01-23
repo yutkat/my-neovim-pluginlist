@@ -71,6 +71,7 @@
 
 - [codeasashu/oas.nvim](https://github.com/codeasashu/oas.nvim) ![](https://img.shields.io/github/stars/codeasashu/oas.nvim) ![](https://img.shields.io/github/last-commit/codeasashu/oas.nvim) ![](https://img.shields.io/github/commit-activity/y/codeasashu/oas.nvim)
 - [SanoLitch/rest-gen.nvim](https://github.com/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/stars/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/last-commit/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/SanoLitch/rest-gen.nvim)
+- [fmorroni/swagger-preview.nvim](https://github.com/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/stars/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/swagger-preview.nvim)
 
 ### Protocol buffer
 
