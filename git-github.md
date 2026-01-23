@@ -489,6 +489,7 @@
 - [sivansh11/jj](https://github.com/sivansh11/jj) ![](https://img.shields.io/github/stars/sivansh11/jj) ![](https://img.shields.io/github/last-commit/sivansh11/jj) ![](https://img.shields.io/github/commit-activity/y/sivansh11/jj)
 - [yannvanhalewyn/jujutsu.nvim](https://github.com/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/stars/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/yannvanhalewyn/jujutsu.nvim)
 - [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ![](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![](https://img.shields.io/github/last-commit/jceb/jiejie.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/jiejie.nvim)
+- [lucasadelino/jjtrack](https://github.com/lucasadelino/jjtrack) ![](https://img.shields.io/github/stars/lucasadelino/jjtrack) ![](https://img.shields.io/github/last-commit/lucasadelino/jjtrack) ![](https://img.shields.io/github/commit-activity/y/lucasadelino/jjtrack)
 
 ### diff
 
