@@ -7,15 +7,19 @@ metadata:
   short-description: Add Neovim plugins to categorized markdown lists
 ---
 
-**IMPORTANT: Do not ask any questions. Execute all steps automatically.**
+# CRITICAL INSTRUCTIONS
 
-First, run `cat .new_plugins.txt` to get the list of plugins to add.
+1. **NEVER ask questions.** This runs in CI with no human interaction.
+2. **Your FIRST action MUST be:** `cat .new_plugins.txt`
+3. The file `.new_plugins.txt` exists in the project root and contains the plugin URLs.
+
+---
 
 Update each repo's plugin in the right markdown section, then create .reason.md summarizing why each category was chosen.
 
 ## Tasks
 
-1. Get a list of new plugins to add. Run `cat .new_plugins.txt`.
+1. **FIRST:** Run `cat .new_plugins.txt` to get the list of plugins. Do this immediately without asking.
 2. Examine each plugin and their assigned categories.
    2.1. Visit the corresponding repository on **GitHub**.
    2.2. If any of the following items apply, remove the added plugins from the list. - The plugin is a fork of another repository. - It is a new colorscheme plugin. - The repository has no README. - The README is written in a language other than English. - The repository is a Neovim configuration rather than a plugin. - The repository is a sample plugin created solely for learning purposes.
