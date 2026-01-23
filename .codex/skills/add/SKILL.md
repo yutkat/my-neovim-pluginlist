@@ -7,6 +7,10 @@ metadata:
   short-description: Add Neovim plugins to categorized markdown lists
 ---
 
+**IMPORTANT: Do not ask any questions. Execute all steps automatically.**
+
+First, run `cat .new_plugins.txt` to get the list of plugins to add.
+
 Update each repo's plugin in the right markdown section, then create .reason.md summarizing why each category was chosen.
 
 ## Tasks
