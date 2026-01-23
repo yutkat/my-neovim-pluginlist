@@ -49,6 +49,13 @@ jobs:
           mkdir -p ~/.codex
           echo '${{ secrets.CODEX_AUTH }}' > ~/.codex/auth.json
 
+      - name: Configure Codex trust
+        run: |
+          cat > ~/.codex/config.toml << 'EOF'
+          [projects."${{ github.workspace }}"]
+          trust_level = "trusted"
+          EOF
+
       - name: Fetch new plugins from RSS
         run: uv run scripts/fetch_rss.py .latest_rss.json
 
