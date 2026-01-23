@@ -76,6 +76,7 @@
 ### Task Tracking
 
 - [joeblubaugh/nvim-beads](https://github.com/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/stars/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/last-commit/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/commit-activity/y/joeblubaugh/nvim-beads)
+- [divramod/shooter.nvim](https://github.com/divramod/shooter.nvim) ![](https://img.shields.io/github/stars/divramod/shooter.nvim) ![](https://img.shields.io/github/last-commit/divramod/shooter.nvim) ![](https://img.shields.io/github/commit-activity/y/divramod/shooter.nvim)
 
 ### Project Root Detector
 

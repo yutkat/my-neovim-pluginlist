@@ -110,6 +110,7 @@
 - [Coding4Glory/tiny-templates.nvim](https://github.com/Coding4Glory/tiny-templates.nvim) ![](https://img.shields.io/github/stars/Coding4Glory/tiny-templates.nvim) ![](https://img.shields.io/github/last-commit/Coding4Glory/tiny-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/Coding4Glory/tiny-templates.nvim)
 - [Sparkylc2/file-templates.nvim](https://github.com/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/file-templates.nvim)
 - [suzhiking/algotpl.nvim](https://github.com/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/stars/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/last-commit/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/commit-activity/y/suzhiking/algotpl.nvim)
+- [codevogel/hatch.nvim](https://github.com/codevogel/hatch.nvim) ![](https://img.shields.io/github/stars/codevogel/hatch.nvim) ![](https://img.shields.io/github/last-commit/codevogel/hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/codevogel/hatch.nvim)
 
 #### README
 

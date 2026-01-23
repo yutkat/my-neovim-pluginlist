@@ -63,6 +63,7 @@
 - [gs-deliverists-io/gf-override.nvim](https://github.com/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/gf-override.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/gf-override.nvim)
 - [vE5li/better-goto-file.nvim](https://github.com/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/stars/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/last-commit/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/better-goto-file.nvim)
 - [dajnz/link-jumper.nvim](https://github.com/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/stars/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/last-commit/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/dajnz/link-jumper.nvim)
+- [nolleh/warp.nvim](https://github.com/nolleh/warp.nvim) ![](https://img.shields.io/github/stars/nolleh/warp.nvim) ![](https://img.shields.io/github/last-commit/nolleh/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/warp.nvim)
 
 ### Definition
 

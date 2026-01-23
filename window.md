@@ -150,6 +150,7 @@
 - [drop-stones/smart-splits-wsl2.nvim](https://github.com/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/stars/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/smart-splits-wsl2.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/smart-splits-wsl2.nvim)
 - [justincampbell/eighties.nvim](https://github.com/justincampbell/eighties.nvim) ![](https://img.shields.io/github/stars/justincampbell/eighties.nvim) ![](https://img.shields.io/github/last-commit/justincampbell/eighties.nvim) ![](https://img.shields.io/github/commit-activity/y/justincampbell/eighties.nvim)
 - [lkzz/golden-ratio.nvim](https://github.com/lkzz/golden-ratio.nvim) ![](https://img.shields.io/github/stars/lkzz/golden-ratio.nvim) ![](https://img.shields.io/github/last-commit/lkzz/golden-ratio.nvim) ![](https://img.shields.io/github/commit-activity/y/lkzz/golden-ratio.nvim)
+- [aronjohanns/smooth-resize.nvim](https://github.com/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/stars/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/last-commit/aronjohanns/smooth-resize.nvim) ![](https://img.shields.io/github/commit-activity/y/aronjohanns/smooth-resize.nvim)
 
 #### maximize
 

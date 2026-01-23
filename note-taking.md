@@ -413,6 +413,7 @@
 - [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
 - [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
 - [nack098/nvim-note](https://github.com/nack098/nvim-note) ![](https://img.shields.io/github/stars/nack098/nvim-note) ![](https://img.shields.io/github/last-commit/nack098/nvim-note) ![](https://img.shields.io/github/commit-activity/y/nack098/nvim-note)
+- [fiquellcarter/floatnotes.nvim](https://github.com/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/stars/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fiquellcarter/floatnotes.nvim)
 
 ### inline note
 

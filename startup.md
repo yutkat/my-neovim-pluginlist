@@ -44,6 +44,7 @@
 - [CaptainGitHook/dish.nvim](https://github.com/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/stars/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/last-commit/CaptainGitHook/dish.nvim) ![](https://img.shields.io/github/commit-activity/y/CaptainGitHook/dish.nvim)
 - [EthanJWright/quicknotes.nvim](https://github.com/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/stars/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/last-commit/EthanJWright/quicknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/EthanJWright/quicknotes.nvim)
 - [StikyPiston/simpledash.nvim](https://github.com/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/stars/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/simpledash.nvim)
+- [bukkml/minintro.nvim](https://github.com/bukkml/minintro.nvim) ![](https://img.shields.io/github/stars/bukkml/minintro.nvim) ![](https://img.shields.io/github/last-commit/bukkml/minintro.nvim) ![](https://img.shields.io/github/commit-activity/y/bukkml/minintro.nvim)
 
 ### Boot Arguments
 

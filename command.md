@@ -84,6 +84,7 @@
 ### Redirect to scratch buffer
 
 - [sbulav/nredir.nvim](https://github.com/sbulav/nredir.nvim) ![](https://img.shields.io/github/stars/sbulav/nredir.nvim) ![](https://img.shields.io/github/last-commit/sbulav/nredir.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/nredir.nvim)
+- [jvacata/bufferize.nvim](https://github.com/jvacata/bufferize.nvim) ![](https://img.shields.io/github/stars/jvacata/bufferize.nvim) ![](https://img.shields.io/github/last-commit/jvacata/bufferize.nvim) ![](https://img.shields.io/github/commit-activity/y/jvacata/bufferize.nvim)
 
 ### Shell Command
 
@@ -153,3 +154,4 @@
 - [MaxiPutz/nvim-panel](https://github.com/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/stars/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/last-commit/MaxiPutz/nvim-panel) ![](https://img.shields.io/github/commit-activity/y/MaxiPutz/nvim-panel)
 - [aclCMNK/toolbox_manager.nvim](https://github.com/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/stars/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/toolbox_manager.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/toolbox_manager.nvim)
 - [hayate212/command-palette.nvim](https://github.com/hayate212/command-palette.nvim) ![](https://img.shields.io/github/stars/hayate212/command-palette.nvim) ![](https://img.shields.io/github/last-commit/hayate212/command-palette.nvim) ![](https://img.shields.io/github/commit-activity/y/hayate212/command-palette.nvim)
+- [jiuyuanshen/nvim-command-palette](https://github.com/jiuyuanshen/nvim-command-palette) ![](https://img.shields.io/github/stars/jiuyuanshen/nvim-command-palette) ![](https://img.shields.io/github/last-commit/jiuyuanshen/nvim-command-palette) ![](https://img.shields.io/github/commit-activity/y/jiuyuanshen/nvim-command-palette)

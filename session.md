@@ -81,6 +81,7 @@
 - [stephane-klein/neo-tree-session.nvim](https://github.com/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/stars/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/last-commit/stephane-klein/neo-tree-session.nvim) ![](https://img.shields.io/github/commit-activity/y/stephane-klein/neo-tree-session.nvim)
 - [Akmadan23/local-session.nvim](https://github.com/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/stars/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/last-commit/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akmadan23/local-session.nvim)
 - [tdfacer/fsm.nvim](https://github.com/tdfacer/fsm.nvim) ![](https://img.shields.io/github/stars/tdfacer/fsm.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/fsm.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/fsm.nvim)
+- [Mathiew82/phantom.nvim](https://github.com/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/stars/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/phantom.nvim)
 
 ### Session Selector
 
