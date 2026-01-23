@@ -24,6 +24,7 @@
   - [Omnivore](#omnivore)
   - [BibleGateway](#biblegateway)
   - [Zotero](#zotero)
+  - [Task Tracking](#task-tracking)
   - [Wiki](#wiki)
   - [VimWiki](#vimwiki)
   - [Scratch Buffer](#scratch-buffer)
@@ -376,6 +377,11 @@
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 - [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
 - [wellsdurant/zotero-md.nvim](https://github.com/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/zotero-md.nvim)
+
+### Task Tracking
+
+- [joeblubaugh/nvim-beads](https://github.com/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/stars/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/last-commit/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/commit-activity/y/joeblubaugh/nvim-beads)
+- [divramod/shooter.nvim](https://github.com/divramod/shooter.nvim) ![](https://img.shields.io/github/stars/divramod/shooter.nvim) ![](https://img.shields.io/github/last-commit/divramod/shooter.nvim) ![](https://img.shields.io/github/commit-activity/y/divramod/shooter.nvim)
 
 ### Wiki
 
