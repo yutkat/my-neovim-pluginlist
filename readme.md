@@ -382,6 +382,7 @@
 - [teial/relvirt.nvim](https://github.com/teial/relvirt.nvim) ![](https://img.shields.io/github/stars/teial/relvirt.nvim) ![](https://img.shields.io/github/last-commit/teial/relvirt.nvim) ![](https://img.shields.io/github/commit-activity/y/teial/relvirt.nvim)
 - [am2b/smartnumber.nvim](https://github.com/am2b/smartnumber.nvim) ![](https://img.shields.io/github/stars/am2b/smartnumber.nvim) ![](https://img.shields.io/github/last-commit/am2b/smartnumber.nvim) ![](https://img.shields.io/github/commit-activity/y/am2b/smartnumber.nvim)
 - [segfaulted67/rln.nvim](https://github.com/segfaulted67/rln.nvim) ![](https://img.shields.io/github/stars/segfaulted67/rln.nvim) ![](https://img.shields.io/github/last-commit/segfaulted67/rln.nvim) ![](https://img.shields.io/github/commit-activity/y/segfaulted67/rln.nvim)
+- [stikypiston/unobtrusive-relnums.nvim](https://github.com/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/stars/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/last-commit/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/commit-activity/y/stikypiston/unobtrusive-relnums.nvim)
 
 ### [Mark](./mark.md)
 

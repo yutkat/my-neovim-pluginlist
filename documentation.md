@@ -280,6 +280,7 @@
 - [y0ug/ctx.nvim](https://github.com/y0ug/ctx.nvim) ![](https://img.shields.io/github/stars/y0ug/ctx.nvim) ![](https://img.shields.io/github/last-commit/y0ug/ctx.nvim) ![](https://img.shields.io/github/commit-activity/y/y0ug/ctx.nvim)
 - [Zonric/codecopy.nvim](https://github.com/Zonric/codecopy.nvim) ![](https://img.shields.io/github/stars/Zonric/codecopy.nvim) ![](https://img.shields.io/github/last-commit/Zonric/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zonric/codecopy.nvim)
 - [xpcoffee/nvim-markdown-codeblocks](https://github.com/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-codeblocks)
+- [StefanBartl/color_my_ascii.nvim](https://github.com/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/stars/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/color_my_ascii.nvim)
 
 #### Markdown table
 
