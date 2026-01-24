@@ -30,6 +30,7 @@
 - [Sparkylc2/smart-nav.nvim](https://github.com/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/smart-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/smart-nav.nvim)
 - [simoesd/floodlight.nvim](https://github.com/simoesd/floodlight.nvim) ![](https://img.shields.io/github/stars/simoesd/floodlight.nvim) ![](https://img.shields.io/github/last-commit/simoesd/floodlight.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/floodlight.nvim)
 - [xavierchen0/ezpoon.nvim](https://github.com/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/stars/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/last-commit/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/xavierchen0/ezpoon.nvim)
+- [66RING/peek.nvim](https://github.com/66RING/peek.nvim) ![](https://img.shields.io/github/stars/66RING/peek.nvim) ![](https://img.shields.io/github/last-commit/66RING/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/66RING/peek.nvim)
 
 ### Error
 

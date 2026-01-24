@@ -1441,6 +1441,7 @@
 ### Omnivore
 ### BibleGateway
 ### Zotero
+### Task Tracking
 ### Wiki
 ### VimWiki
 ### Scratch Buffer
@@ -1540,7 +1541,6 @@
 # project.md
 ## Project
 ### Project Switcher
-### Task Tracking
 ### Project Root Detector
 ### Project Template
 ### Project syntax

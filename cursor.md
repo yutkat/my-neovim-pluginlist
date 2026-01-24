@@ -33,6 +33,7 @@
 - [tyamaz/kokokoko.nvim](https://github.com/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko.nvim)
 - [tyamaz/kokokoko2d.nvim](https://github.com/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/stars/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/last-commit/tyamaz/kokokoko2d.nvim) ![](https://img.shields.io/github/commit-activity/y/tyamaz/kokokoko2d.nvim)
 - [oaSakamoto/CenterStage.nvim](https://github.com/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/stars/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/last-commit/oaSakamoto/CenterStage.nvim) ![](https://img.shields.io/github/commit-activity/y/oaSakamoto/CenterStage.nvim)
+- [axlebedev/find-my-cursor.nvim](https://github.com/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/stars/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/last-commit/axlebedev/find-my-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/axlebedev/find-my-cursor.nvim)
 
 ### Hold
 
