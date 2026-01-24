@@ -195,6 +195,7 @@
 - [dangho1/theme-switcher.nvim](https://github.com/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/stars/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/last-commit/dangho1/theme-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/dangho1/theme-switcher.nvim)
 - [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/which-colorscheme.nvim)
 - [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ![](https://img.shields.io/github/stars/samesense/savitsky.nvim) ![](https://img.shields.io/github/last-commit/samesense/savitsky.nvim) ![](https://img.shields.io/github/commit-activity/y/samesense/savitsky.nvim)
+- [nickshiro/better-colorscheme.nvim](https://github.com/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/stars/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/nickshiro/better-colorscheme.nvim)
 
 ### Colorscheme overwrite
 
