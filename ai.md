@@ -613,6 +613,8 @@
 - [chirag-juneja/librecode.nvim](https://github.com/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/stars/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/last-commit/chirag-juneja/librecode.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-juneja/librecode.nvim)
 - [jim-at-jibba/nvim-stride](https://github.com/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/stars/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/last-commit/jim-at-jibba/nvim-stride) ![](https://img.shields.io/github/commit-activity/y/jim-at-jibba/nvim-stride)
 - [maxpaulus43/llama-cmp.nvim](https://github.com/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/stars/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/last-commit/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/maxpaulus43/llama-cmp.nvim)
+- [laulauland/ne.nvim](https://github.com/laulauland/ne.nvim) ![](https://img.shields.io/github/stars/laulauland/ne.nvim) ![](https://img.shields.io/github/last-commit/laulauland/ne.nvim) ![](https://img.shields.io/github/commit-activity/y/laulauland/ne.nvim)
+- [sijirama/sweep.nvim](https://github.com/sijirama/sweep.nvim) ![](https://img.shields.io/github/stars/sijirama/sweep.nvim) ![](https://img.shields.io/github/last-commit/sijirama/sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/sweep.nvim)
 
 ### Copilot
 

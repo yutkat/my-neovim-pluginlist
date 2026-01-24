@@ -111,6 +111,7 @@
 - [LazyYuuki/notice_me.nvim](https://github.com/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/stars/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/last-commit/LazyYuuki/notice_me.nvim) ![](https://img.shields.io/github/commit-activity/y/LazyYuuki/notice_me.nvim)
 - [ctfrancia/severityhl.nvim](https://github.com/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/stars/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/severityhl.nvim)
 - [Fau818/todotag.nvim](https://github.com/Fau818/todotag.nvim) ![](https://img.shields.io/github/stars/Fau818/todotag.nvim) ![](https://img.shields.io/github/last-commit/Fau818/todotag.nvim) ![](https://img.shields.io/github/commit-activity/y/Fau818/todotag.nvim)
+- [wmartinmimi/todo-highlight.nvim](https://github.com/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/stars/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/last-commit/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/wmartinmimi/todo-highlight.nvim)
 
 ## Doxygen
 
