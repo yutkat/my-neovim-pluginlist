@@ -38,6 +38,7 @@
 - [oskarrrrrrr/symbols.nvim](https://github.com/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/stars/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/last-commit/oskarrrrrrr/symbols.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarrrrrrr/symbols.nvim)
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
 - [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
+- [FABLOUSFALCON/go-pkg-outline.nvim](https://github.com/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/stars/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/last-commit/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/FABLOUSFALCON/go-pkg-outline.nvim)
 
 ## Definition
 
