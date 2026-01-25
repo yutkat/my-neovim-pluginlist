@@ -416,6 +416,8 @@
 - [marcelom97/claude-context.nvim](https://github.com/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-context.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-context.nvim)
 - [mknn/nvim-claude-context](https://github.com/mknn/nvim-claude-context) ![](https://img.shields.io/github/stars/mknn/nvim-claude-context) ![](https://img.shields.io/github/last-commit/mknn/nvim-claude-context) ![](https://img.shields.io/github/commit-activity/y/mknn/nvim-claude-context)
 - [thassiov/claude-dashboard.nvim](https://github.com/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/stars/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/last-commit/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thassiov/claude-dashboard.nvim)
+- [mr55p-dev/claude-tmux.nvim](https://github.com/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/claude-tmux.nvim)
+- [ebrentnelson/claude-code-pane.nvim](https://github.com/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/stars/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/last-commit/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ebrentnelson/claude-code-pane.nvim)
 
 ### Amazon Q
 

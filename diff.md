@@ -34,6 +34,7 @@
 - [KyleKing/patch_it.nvim](https://github.com/KyleKing/patch_it.nvim) ![](https://img.shields.io/github/stars/KyleKing/patch_it.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/patch_it.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/patch_it.nvim)
 - [moha-abdi/patchview.nvim](https://github.com/moha-abdi/patchview.nvim) ![](https://img.shields.io/github/stars/moha-abdi/patchview.nvim) ![](https://img.shields.io/github/last-commit/moha-abdi/patchview.nvim) ![](https://img.shields.io/github/commit-activity/y/moha-abdi/patchview.nvim)
 - [bbuchanan/vscode-diff.nvim](https://github.com/bbuchanan/vscode-diff.nvim) ![](https://img.shields.io/github/stars/bbuchanan/vscode-diff.nvim) ![](https://img.shields.io/github/last-commit/bbuchanan/vscode-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/bbuchanan/vscode-diff.nvim)
+- [spacedentist/resolve.nvim](https://github.com/spacedentist/resolve.nvim) ![](https://img.shields.io/github/stars/spacedentist/resolve.nvim) ![](https://img.shields.io/github/last-commit/spacedentist/resolve.nvim) ![](https://img.shields.io/github/commit-activity/y/spacedentist/resolve.nvim)
 
 ### Diff Register
 

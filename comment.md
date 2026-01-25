@@ -135,6 +135,7 @@
 - [Sahas-Ananth/code_annotate.nvim](https://github.com/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/stars/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/last-commit/Sahas-Ananth/code_annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/Sahas-Ananth/code_annotate.nvim)
 - [WarrenZhu050413/nvim-annotations](https://github.com/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-annotations) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-annotations)
 - [hugooliveirad/annotate.nvim](https://github.com/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/stars/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/last-commit/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/hugooliveirad/annotate.nvim)
+- [kenfdev/nvim-feedbacks](https://github.com/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/stars/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/last-commit/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/commit-activity/y/kenfdev/nvim-feedbacks)
 
 ### function comment
 
