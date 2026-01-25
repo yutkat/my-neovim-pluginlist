@@ -27,6 +27,7 @@
   - [Zoom](#zoom)
   - [ntfy](#ntfy)
   - [WhatsApp](#whatsapp)
+  - [MantisBT](#mantisbt)
   - [Redmine](#redmine)
   - [Shortcut](#shortcut)
   - [Jira](#jira)
@@ -196,6 +197,10 @@
 ### WhatsApp
 
 - [alcidesbsilvaneto/nvim-whatsapp](https://github.com/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/stars/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/last-commit/alcidesbsilvaneto/nvim-whatsapp) ![](https://img.shields.io/github/commit-activity/y/alcidesbsilvaneto/nvim-whatsapp)
+
+### MantisBT
+
+- [whleucka/mantis.nvim](https://github.com/whleucka/mantis.nvim) ![](https://img.shields.io/github/stars/whleucka/mantis.nvim) ![](https://img.shields.io/github/last-commit/whleucka/mantis.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/mantis.nvim)
 
 ### Redmine
 

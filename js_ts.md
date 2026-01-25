@@ -373,6 +373,7 @@
 - [Matt-Boeren/reactToolkit.nvim](https://github.com/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/stars/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/last-commit/Matt-Boeren/reactToolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/Matt-Boeren/reactToolkit.nvim)
 - [Kenzo-Wada/boundary.nvim](https://github.com/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/stars/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/last-commit/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/Kenzo-Wada/boundary.nvim)
 - [ycycwx/react-compiler-badge.nvim](https://github.com/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/stars/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/last-commit/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/commit-activity/y/ycycwx/react-compiler-badge.nvim)
+- [billmakes/react_tree.nvim](https://github.com/billmakes/react_tree.nvim) ![](https://img.shields.io/github/stars/billmakes/react_tree.nvim) ![](https://img.shields.io/github/last-commit/billmakes/react_tree.nvim) ![](https://img.shields.io/github/commit-activity/y/billmakes/react_tree.nvim)
 
 #### Next.js
 

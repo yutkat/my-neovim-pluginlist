@@ -326,6 +326,7 @@
 - [dpi0/ddf.nvim](https://github.com/dpi0/ddf.nvim) ![](https://img.shields.io/github/stars/dpi0/ddf.nvim) ![](https://img.shields.io/github/last-commit/dpi0/ddf.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/ddf.nvim)
 - [krisajenkins/oversight.nvim](https://github.com/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/stars/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/oversight.nvim)
 - [ovidiu-ionescu/gdiff.nvim](https://github.com/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/stars/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/last-commit/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ovidiu-ionescu/gdiff.nvim)
+- [LuccaRomanelli/git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/git-review.nvim)
 
 #### image diff
 
@@ -506,6 +507,7 @@
 - [2kabhishek/octohub.nvim](https://github.com/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/stars/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/octohub.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/octohub.nvim)
 - [nvim-telescope/telescope-github.nvim](https://github.com/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/stars/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/last-commit/nvim-telescope/telescope-github.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-telescope/telescope-github.nvim)
 - [wsdjeg/github.nvim](https://github.com/wsdjeg/github.nvim) ![](https://img.shields.io/github/stars/wsdjeg/github.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/github.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/github.nvim)
+- [Universal-Invariant/NVIM-gh-fork-search.nvim](https://github.com/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/stars/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/last-commit/Universal-Invariant/NVIM-gh-fork-search.nvim) ![](https://img.shields.io/github/commit-activity/y/Universal-Invariant/NVIM-gh-fork-search.nvim)
 
 ### Features like gh
 

@@ -121,6 +121,8 @@
 - [sigugo/simple-notes.nvim](https://github.com/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/stars/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/last-commit/sigugo/simple-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sigugo/simple-notes.nvim)
 - [JulianSchubel/nvim-notepad](https://github.com/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-notepad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-notepad)
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) ![](https://img.shields.io/github/stars/iwe-org/iwe.nvim) ![](https://img.shields.io/github/last-commit/iwe-org/iwe.nvim) ![](https://img.shields.io/github/commit-activity/y/iwe-org/iwe.nvim)
+- [skeletony007/note.nvim](https://github.com/skeletony007/note.nvim) ![](https://img.shields.io/github/stars/skeletony007/note.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/note.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/note.nvim)
+- [paulatcodescout/csnotes.nvim](https://github.com/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/stars/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/last-commit/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/paulatcodescout/csnotes.nvim)
 
 ### Journal
 
@@ -136,6 +138,7 @@
 - [paulpaule21/life.nvim](https://github.com/paulpaule21/life.nvim) ![](https://img.shields.io/github/stars/paulpaule21/life.nvim) ![](https://img.shields.io/github/last-commit/paulpaule21/life.nvim) ![](https://img.shields.io/github/commit-activity/y/paulpaule21/life.nvim)
 - [behzade/j.nvim](https://github.com/behzade/j.nvim) ![](https://img.shields.io/github/stars/behzade/j.nvim) ![](https://img.shields.io/github/last-commit/behzade/j.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/j.nvim)
 - [Cassin01/sm.nvim](https://github.com/Cassin01/sm.nvim) ![](https://img.shields.io/github/stars/Cassin01/sm.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sm.nvim)
+- [vvvetroff/tinyhash.nvim](https://github.com/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/stars/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/last-commit/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvetroff/tinyhash.nvim)
 
 ### ToDo
 
