@@ -11,6 +11,7 @@
     - [Google Task](#google-task)
     - [Taskwarrior](#taskwarrior)
   - [Obsidian](#obsidian)
+  - [Logseq](#logseq)
   - [nb](#nb)
   - [Zeppelin](#zeppelin)
   - [Joplin](#joplin)
@@ -48,6 +49,7 @@
   - [mrshmllow/orgmode-babel.nvim](https://github.com/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/stars/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/last-commit/mrshmllow/orgmode-babel.nvim) ![](https://img.shields.io/github/commit-activity/y/mrshmllow/orgmode-babel.nvim)
   - [chipsenkbeil/org-mouse.nvim](https://github.com/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/org-mouse.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/org-mouse.nvim)
   - [hamidi-dev/org-list.nvim](https://github.com/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/stars/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/last-commit/hamidi-dev/org-list.nvim) ![](https://img.shields.io/github/commit-activity/y/hamidi-dev/org-list.nvim)
+  - [productivitykit/org-journal.nvim](https://github.com/productivitykit/org-journal.nvim) ![](https://img.shields.io/github/stars/productivitykit/org-journal.nvim) ![](https://img.shields.io/github/last-commit/productivitykit/org-journal.nvim) ![](https://img.shields.io/github/commit-activity/y/productivitykit/org-journal.nvim)
 - [justyntemme/org-sync.nvim](https://github.com/justyntemme/org-sync.nvim) ![](https://img.shields.io/github/stars/justyntemme/org-sync.nvim) ![](https://img.shields.io/github/last-commit/justyntemme/org-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/justyntemme/org-sync.nvim)
 - [ranjithshegde/orgWiki.nvim](https://github.com/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/stars/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/last-commit/ranjithshegde/orgWiki.nvim) ![](https://img.shields.io/github/commit-activity/y/ranjithshegde/orgWiki.nvim)
 - [joaomsa/telescope-orgmode.nvim](https://github.com/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/stars/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/last-commit/joaomsa/telescope-orgmode.nvim) ![](https://img.shields.io/github/commit-activity/y/joaomsa/telescope-orgmode.nvim)
@@ -330,6 +332,10 @@
 - [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 - [AniP-gt/nvim-obsidian-tasks.nvim](https://github.com/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/AniP-gt/nvim-obsidian-tasks.nvim)
 - [damianpoole/obsidian-stats.nvim](https://github.com/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/stars/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/last-commit/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/damianpoole/obsidian-stats.nvim)
+
+### Logseq
+
+- [Conor-McLeod/logseq-mode.nvim](https://github.com/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/stars/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/last-commit/Conor-McLeod/logseq-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Conor-McLeod/logseq-mode.nvim)
 
 ### nb
 
