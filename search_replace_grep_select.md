@@ -129,6 +129,7 @@
 
 - [fdschmidt93/telescope-corrode.nvim](https://github.com/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/stars/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/last-commit/fdschmidt93/telescope-corrode.nvim) ![](https://img.shields.io/github/commit-activity/y/fdschmidt93/telescope-corrode.nvim)
 - [ALPHAvibe/telescope-find-file-vibes.nvim](https://github.com/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-find-file-vibes.nvim)
+- [wdomitrz/findfile.nvim](https://github.com/wdomitrz/findfile.nvim) ![](https://img.shields.io/github/stars/wdomitrz/findfile.nvim) ![](https://img.shields.io/github/last-commit/wdomitrz/findfile.nvim) ![](https://img.shields.io/github/commit-activity/y/wdomitrz/findfile.nvim)
 
 ## Replace
 

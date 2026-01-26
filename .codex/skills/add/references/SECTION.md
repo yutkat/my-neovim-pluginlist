@@ -1428,6 +1428,7 @@
 #### Google Task
 #### Taskwarrior
 ### Obsidian
+### Logseq
 ### nb
 ### Zeppelin
 ### Joplin
@@ -2103,6 +2104,7 @@
 ### Zoom
 ### ntfy
 ### WhatsApp
+### MantisBT
 ### Redmine
 ### Shortcut
 ### Jira
