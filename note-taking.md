@@ -66,6 +66,7 @@
 - [cherryramatisdev/org-social.nvim](https://github.com/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/org-social.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/org-social.nvim)
 - [aaratha/org-cycle-lite.nvim](https://github.com/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/stars/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/last-commit/aaratha/org-cycle-lite.nvim) ![](https://img.shields.io/github/commit-activity/y/aaratha/org-cycle-lite.nvim)
 - [RuslanGagushin/obsorg.nvim](https://github.com/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/stars/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/last-commit/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/commit-activity/y/RuslanGagushin/obsorg.nvim)
+- [productivitykit/org-virtual-clocktime.nvim](https://github.com/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/stars/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/last-commit/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/commit-activity/y/productivitykit/org-virtual-clocktime.nvim)
 
 ### Zettelkasten
 

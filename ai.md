@@ -418,6 +418,7 @@
 - [thassiov/claude-dashboard.nvim](https://github.com/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/stars/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/last-commit/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thassiov/claude-dashboard.nvim)
 - [mr55p-dev/claude-tmux.nvim](https://github.com/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/claude-tmux.nvim)
 - [ebrentnelson/claude-code-pane.nvim](https://github.com/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/stars/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/last-commit/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ebrentnelson/claude-code-pane.nvim)
+- [jayadeepk/claude-agents.nvim](https://github.com/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/stars/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/last-commit/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jayadeepk/claude-agents.nvim)
 
 ### Amazon Q
 
@@ -593,6 +594,7 @@
 - [jaswdr/opencode-completion.nvim](https://github.com/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/stars/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/last-commit/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/jaswdr/opencode-completion.nvim)
 - [fmpisantos/opencode.nvim](https://github.com/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/stars/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/opencode.nvim)
 - [Hashino/opencode-meta.nvim](https://github.com/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/stars/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/last-commit/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/opencode-meta.nvim)
+- [olisikh/octools.nvim](https://github.com/olisikh/octools.nvim) ![](https://img.shields.io/github/stars/olisikh/octools.nvim) ![](https://img.shields.io/github/last-commit/olisikh/octools.nvim) ![](https://img.shields.io/github/commit-activity/y/olisikh/octools.nvim)
 
 ### khulnasoft
 
