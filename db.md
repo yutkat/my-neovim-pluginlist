@@ -6,6 +6,7 @@
   - [SQL](#sql)
   - [PostgreSQL](#postgresql)
   - [MySQL](#mysql)
+  - [Oracle](#oracle)
   - [SQLite](#sqlite)
   - [MongoDB](#mongodb)
   - [SurrealDB](#surrealdb)
@@ -81,6 +82,11 @@
 
 - [NyeKo-ItL/mysql_query.nvim](https://github.com/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/stars/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/last-commit/NyeKo-ItL/mysql_query.nvim) ![](https://img.shields.io/github/commit-activity/y/NyeKo-ItL/mysql_query.nvim)
 - [Kurren123/mssql.nvim](https://github.com/Kurren123/mssql.nvim) ![](https://img.shields.io/github/stars/Kurren123/mssql.nvim) ![](https://img.shields.io/github/last-commit/Kurren123/mssql.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurren123/mssql.nvim)
+
+### Oracle
+
+- [pompos02/oravim.nvim](https://github.com/pompos02/oravim.nvim) ![](https://img.shields.io/github/stars/pompos02/oravim.nvim) ![](https://img.shields.io/github/last-commit/pompos02/oravim.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/oravim.nvim)
+- [pompos02/blink-cmp-plsql.nvim](https://github.com/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/stars/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/last-commit/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/blink-cmp-plsql.nvim)
 
 ### SQLite
 

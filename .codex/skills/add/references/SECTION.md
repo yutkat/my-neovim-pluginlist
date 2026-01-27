@@ -390,6 +390,7 @@
 ### SQL
 ### PostgreSQL
 ### MySQL
+### Oracle
 ### SQLite
 ### MongoDB
 ### SurrealDB

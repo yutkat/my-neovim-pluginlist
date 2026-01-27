@@ -115,6 +115,7 @@
 - [SCRIPTERBLOX/neobrains-git-integration.nvim](https://github.com/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/stars/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/last-commit/SCRIPTERBLOX/neobrains-git-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/SCRIPTERBLOX/neobrains-git-integration.nvim)
 - [BibekBhusal0/nvim-git-utils](https://github.com/BibekBhusal0/nvim-git-utils) ![](https://img.shields.io/github/stars/BibekBhusal0/nvim-git-utils) ![](https://img.shields.io/github/last-commit/BibekBhusal0/nvim-git-utils) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/nvim-git-utils)
 - [benja2998/git-ts.nvim](https://github.com/benja2998/git-ts.nvim) ![](https://img.shields.io/github/stars/benja2998/git-ts.nvim) ![](https://img.shields.io/github/last-commit/benja2998/git-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/benja2998/git-ts.nvim)
+- [gingama4/middle-git.nvim](https://github.com/gingama4/middle-git.nvim) ![](https://img.shields.io/github/stars/gingama4/middle-git.nvim) ![](https://img.shields.io/github/last-commit/gingama4/middle-git.nvim) ![](https://img.shields.io/github/commit-activity/y/gingama4/middle-git.nvim)
 
 ### gitui
 
