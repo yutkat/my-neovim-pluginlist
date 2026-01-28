@@ -73,6 +73,8 @@
 - [jameswolensky/marker-groups-dev.nvim](https://github.com/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/stars/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/last-commit/jameswolensky/marker-groups-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/jameswolensky/marker-groups-dev.nvim)
 - [IstiCusi/docpair.nvim](https://github.com/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/stars/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/last-commit/IstiCusi/docpair.nvim) ![](https://img.shields.io/github/commit-activity/y/IstiCusi/docpair.nvim)
 - [nisidabay/code-notes.nvim](https://github.com/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/stars/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/code-notes.nvim)
+- [bearded-giant/phantom.nvim](https://github.com/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/stars/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/phantom.nvim)
+- [czheo/anno.nvim](https://github.com/czheo/anno.nvim) ![](https://img.shields.io/github/stars/czheo/anno.nvim) ![](https://img.shields.io/github/last-commit/czheo/anno.nvim) ![](https://img.shields.io/github/commit-activity/y/czheo/anno.nvim)
 
 ### hashtag
 

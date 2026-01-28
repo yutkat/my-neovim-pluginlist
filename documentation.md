@@ -440,6 +440,7 @@
 - [zacharyeller13/mermaid-preview.nvim](https://github.com/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/stars/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/last-commit/zacharyeller13/mermaid-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyeller13/mermaid-preview.nvim)
 - [selimacerbas/mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/stars/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/mermaid-playground.nvim)
 - [wardenclyffetower/mermaidjs.nvim](https://github.com/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/stars/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/last-commit/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/commit-activity/y/wardenclyffetower/mermaidjs.nvim)
+- [kevalin/mermaid.nvim](https://github.com/kevalin/mermaid.nvim) ![](https://img.shields.io/github/stars/kevalin/mermaid.nvim) ![](https://img.shields.io/github/last-commit/kevalin/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/kevalin/mermaid.nvim)
 
 ### pikchr
 

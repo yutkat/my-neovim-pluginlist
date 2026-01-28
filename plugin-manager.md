@@ -121,6 +121,7 @@
 ### Switch
 
 - [azatakmyradov/easyswitch.nvim](https://github.com/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/stars/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/last-commit/azatakmyradov/easyswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/azatakmyradov/easyswitch.nvim)
+- [Universal-Invariant/NVIM-bisect-plugins.nvim](https://github.com/Universal-Invariant/NVIM-bisect-plugins.nvim) ![](https://img.shields.io/github/stars/Universal-Invariant/NVIM-bisect-plugins.nvim) ![](https://img.shields.io/github/last-commit/Universal-Invariant/NVIM-bisect-plugins.nvim) ![](https://img.shields.io/github/commit-activity/y/Universal-Invariant/NVIM-bisect-plugins.nvim)
 
 ### Open README
 

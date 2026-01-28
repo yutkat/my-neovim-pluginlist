@@ -72,6 +72,8 @@
 - [GitLab](#gitlab)
   - [GitLab CI](#gitlab-ci)
   - [GitLab Kanban](#gitlab-kanban)
+- [Gitea/Forgejo](#giteaforgejo)
+  - [Pull Request](#pull-request-1)
 - [Sapling](#sapling)
 - [BitBucket](#bitbucket)
 - [Sourcegraph](#sourcegraph)
@@ -353,6 +355,7 @@
 - [StackInTheWild/headhunter.nvim](https://github.com/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/headhunter.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/headhunter.nvim)
 - [Yeshwanthyk/resolver.nvim](https://github.com/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/stars/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/last-commit/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeshwanthyk/resolver.nvim)
 - [madmaxieee/unclash.nvim](https://github.com/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/stars/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/unclash.nvim)
+- [jcucci/weavr.nvim](https://github.com/jcucci/weavr.nvim) ![](https://img.shields.io/github/stars/jcucci/weavr.nvim) ![](https://img.shields.io/github/last-commit/jcucci/weavr.nvim) ![](https://img.shields.io/github/commit-activity/y/jcucci/weavr.nvim)
 
 ### git pull
 
@@ -705,6 +708,12 @@
 ### GitLab Kanban
 
 - [Kibadda/kanban.nvim](https://github.com/Kibadda/kanban.nvim) ![](https://img.shields.io/github/stars/Kibadda/kanban.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/kanban.nvim)
+
+## Gitea/Forgejo
+
+### Pull Request
+
+- [sbulav/snacks-tea.nvim](https://github.com/sbulav/snacks-tea.nvim) ![](https://img.shields.io/github/stars/sbulav/snacks-tea.nvim) ![](https://img.shields.io/github/last-commit/sbulav/snacks-tea.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/snacks-tea.nvim)
 
 ## Sapling
 

@@ -112,6 +112,7 @@
 - [toreerdmann/send-to-repl.nvim](https://github.com/toreerdmann/send-to-repl.nvim) ![](https://img.shields.io/github/stars/toreerdmann/send-to-repl.nvim) ![](https://img.shields.io/github/last-commit/toreerdmann/send-to-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/toreerdmann/send-to-repl.nvim)
 - [mghaight/replua.nvim](https://github.com/mghaight/replua.nvim) ![](https://img.shields.io/github/stars/mghaight/replua.nvim) ![](https://img.shields.io/github/last-commit/mghaight/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/mghaight/replua.nvim)
 - [m4r3k1598-lang/replua.nvim](https://github.com/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/stars/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/last-commit/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/m4r3k1598-lang/replua.nvim)
+- [gh-liu/nvim-bullseye](https://github.com/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/stars/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-bullseye)
 
 ### Refactoring,Debugging
 
