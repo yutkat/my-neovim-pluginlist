@@ -667,6 +667,8 @@
 ## GitLab
 ### GitLab CI
 ### GitLab Kanban
+## Gitea/Forgejo
+### Pull Request
 ## Sapling
 ## BitBucket
 ## Sourcegraph

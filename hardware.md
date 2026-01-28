@@ -3,6 +3,8 @@
 <!-- toc -->
 
 - [Hardware](#hardware)
+  - [Embedded Software](#embedded-software)
+    - [OpenEmbedded/BitBake](#openembeddedbitbake)
   - [IoT](#iot)
   - [CAD](#cad)
   - [VHDL](#vhdl)
@@ -21,7 +23,7 @@
     - [Virtual Keyboard](#virtual-keyboard)
     - [IPA Keyboard](#ipa-keyboard)
     - [LED](#led)
-  - [Embedded Software](#embedded-software)
+  - [Embedded Software](#embedded-software-1)
     - [Arduino](#arduino)
     - [ESP32](#esp32)
     - [FlipperZero](#flipperzero)
@@ -31,6 +33,12 @@
 <!-- tocstop -->
 
 ## Hardware
+
+### Embedded Software
+
+#### OpenEmbedded/BitBake
+
+- [anakin4747/oelint-adv.nvim](https://github.com/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/stars/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/last-commit/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/commit-activity/y/anakin4747/oelint-adv.nvim)
 
 ### IoT
 
