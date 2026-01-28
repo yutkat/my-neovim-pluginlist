@@ -92,7 +92,6 @@
 - [comfysage/mossy.nvim](https://github.com/comfysage/mossy.nvim) ![](https://img.shields.io/github/stars/comfysage/mossy.nvim) ![](https://img.shields.io/github/last-commit/comfysage/mossy.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/mossy.nvim)
 - [gisikw/vitals.nvim](https://github.com/gisikw/vitals.nvim) ![](https://img.shields.io/github/stars/gisikw/vitals.nvim) ![](https://img.shields.io/github/last-commit/gisikw/vitals.nvim) ![](https://img.shields.io/github/commit-activity/y/gisikw/vitals.nvim)
 - [skeletony007/nvim-linterconfig](https://github.com/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/stars/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/last-commit/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/commit-activity/y/skeletony007/nvim-linterconfig)
-- [anakin4747/oelint-adv.nvim](https://github.com/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/stars/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/last-commit/anakin4747/oelint-adv.nvim) ![](https://img.shields.io/github/commit-activity/y/anakin4747/oelint-adv.nvim)
 
 ### Grammar
 
