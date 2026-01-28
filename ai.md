@@ -286,6 +286,7 @@
 - [rmuell9/jarvis.nvim](https://github.com/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/stars/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/last-commit/rmuell9/jarvis.nvim) ![](https://img.shields.io/github/commit-activity/y/rmuell9/jarvis.nvim)
 - [frodonh/simplellm.nvim](https://github.com/frodonh/simplellm.nvim) ![](https://img.shields.io/github/stars/frodonh/simplellm.nvim) ![](https://img.shields.io/github/last-commit/frodonh/simplellm.nvim) ![](https://img.shields.io/github/commit-activity/y/frodonh/simplellm.nvim)
 - [hansmrtn/clanker.nvim](https://github.com/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/stars/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/clanker.nvim)
+- [CarGDev/codetyper.nvim](https://github.com/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/stars/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/codetyper.nvim)
 
 #### crush
 
