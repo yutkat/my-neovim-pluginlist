@@ -335,6 +335,7 @@
 - [slugbyte/whip.nvim](https://github.com/slugbyte/whip.nvim) ![](https://img.shields.io/github/stars/slugbyte/whip.nvim) ![](https://img.shields.io/github/last-commit/slugbyte/whip.nvim) ![](https://img.shields.io/github/commit-activity/y/slugbyte/whip.nvim)
 - [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/scratchpad.nvim)
 - [alexkotusenko/looseleaf.nvim](https://github.com/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/stars/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/last-commit/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/alexkotusenko/looseleaf.nvim)
+- [PremBharwani/scratchpad](https://github.com/PremBharwani/scratchpad) ![](https://img.shields.io/github/stars/PremBharwani/scratchpad) ![](https://img.shields.io/github/last-commit/PremBharwani/scratchpad) ![](https://img.shields.io/github/commit-activity/y/PremBharwani/scratchpad)
 
 ### buffer Sharing
 
