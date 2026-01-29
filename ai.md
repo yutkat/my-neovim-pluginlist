@@ -551,6 +551,7 @@
 ### Blink AI
 
 - [wispl/blink-ars.nvim](https://github.com/wispl/blink-ars.nvim) ![](https://img.shields.io/github/stars/wispl/blink-ars.nvim) ![](https://img.shields.io/github/last-commit/wispl/blink-ars.nvim) ![](https://img.shields.io/github/commit-activity/y/wispl/blink-ars.nvim)
+- [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 
 ### tgpt
 
@@ -757,6 +758,7 @@
 - [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
 - [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
 - [emshan/agent.nvim](https://github.com/emshan/agent.nvim) ![](https://img.shields.io/github/stars/emshan/agent.nvim) ![](https://img.shields.io/github/last-commit/emshan/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/emshan/agent.nvim)
+- [anonymus1145/rev.nvim](https://github.com/anonymus1145/rev.nvim) ![](https://img.shields.io/github/stars/anonymus1145/rev.nvim) ![](https://img.shields.io/github/last-commit/anonymus1145/rev.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymus1145/rev.nvim)
 
 ## Documentation
 

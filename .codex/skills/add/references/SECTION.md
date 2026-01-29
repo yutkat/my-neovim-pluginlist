@@ -725,6 +725,8 @@
 
 # hardware.md
 ## Hardware
+### Embedded Software
+#### OpenEmbedded/BitBake
 ### IoT
 ### CAD
 ### VHDL

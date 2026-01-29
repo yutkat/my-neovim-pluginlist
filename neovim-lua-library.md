@@ -245,6 +245,7 @@
 ### Spinner
 
 - [javio7/nvim-spinetta](https://github.com/javio7/nvim-spinetta) ![](https://img.shields.io/github/stars/javio7/nvim-spinetta) ![](https://img.shields.io/github/last-commit/javio7/nvim-spinetta) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-spinetta)
+- [xieyonn/spinner.nvim](https://github.com/xieyonn/spinner.nvim) ![](https://img.shields.io/github/stars/xieyonn/spinner.nvim) ![](https://img.shields.io/github/last-commit/xieyonn/spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/xieyonn/spinner.nvim)
 
 ## Error handling
 

@@ -48,6 +48,8 @@
 - [nd70/global_marks.nvim](https://github.com/nd70/global_marks.nvim) ![](https://img.shields.io/github/stars/nd70/global_marks.nvim) ![](https://img.shields.io/github/last-commit/nd70/global_marks.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/global_marks.nvim)
 - [Justiniscoding/temp-mark.nvim](https://github.com/Justiniscoding/temp-mark.nvim) ![](https://img.shields.io/github/stars/Justiniscoding/temp-mark.nvim) ![](https://img.shields.io/github/last-commit/Justiniscoding/temp-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/Justiniscoding/temp-mark.nvim)
 - [jinks908/marksman.nvim](https://github.com/jinks908/marksman.nvim) ![](https://img.shields.io/github/stars/jinks908/marksman.nvim) ![](https://img.shields.io/github/last-commit/jinks908/marksman.nvim) ![](https://img.shields.io/github/commit-activity/y/jinks908/marksman.nvim)
+- [cat-phish/buffer-marks.nvim](https://github.com/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/stars/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/buffer-marks.nvim)
+- [mbfoss/loop-marks.nvim](https://github.com/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-marks.nvim)
 
 ### extmark
 
