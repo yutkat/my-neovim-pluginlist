@@ -37,7 +37,6 @@
 - [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/stars/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/noir4y/comment-translate.nvim)
 - [RUNFUNRUN/comment-translate.nvim](https://github.com/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/stars/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/RUNFUNRUN/comment-translate.nvim)
 - [nicholasxjy/translator.nvim](https://github.com/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/translator.nvim)
-- [pedersandvoll/arrival.nvim](https://github.com/pedersandvoll/arrival.nvim) ![](https://img.shields.io/github/stars/pedersandvoll/arrival.nvim) ![](https://img.shields.io/github/last-commit/pedersandvoll/arrival.nvim) ![](https://img.shields.io/github/commit-activity/y/pedersandvoll/arrival.nvim)
 
 ## i18n
 

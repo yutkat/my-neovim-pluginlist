@@ -356,6 +356,7 @@
 - [mikey-arch/askcat.nvim](https://github.com/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/stars/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/last-commit/mikey-arch/askcat.nvim) ![](https://img.shields.io/github/commit-activity/y/mikey-arch/askcat.nvim)
 - [Dheeraj-Murthy/Ollama_chat.nvim](https://github.com/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/stars/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/last-commit/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheeraj-Murthy/Ollama_chat.nvim)
 - [sha0coder/nvim-ollama](https://github.com/sha0coder/nvim-ollama) ![](https://img.shields.io/github/stars/sha0coder/nvim-ollama) ![](https://img.shields.io/github/last-commit/sha0coder/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/sha0coder/nvim-ollama)
+- [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 
 ### Claude
 
@@ -551,7 +552,6 @@
 ### Blink AI
 
 - [wispl/blink-ars.nvim](https://github.com/wispl/blink-ars.nvim) ![](https://img.shields.io/github/stars/wispl/blink-ars.nvim) ![](https://img.shields.io/github/last-commit/wispl/blink-ars.nvim) ![](https://img.shields.io/github/commit-activity/y/wispl/blink-ars.nvim)
-- [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 
 ### tgpt
 
