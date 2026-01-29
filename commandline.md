@@ -33,6 +33,7 @@
 - [simifalaye/minibuffer.nvim](https://github.com/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/stars/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/last-commit/simifalaye/minibuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/simifalaye/minibuffer.nvim)
 - [nvim-mini/mini.cmdline](https://github.com/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/stars/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.cmdline) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.cmdline)
 - [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) ![](https://img.shields.io/github/stars/juniorsundar/cling.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/cling.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/cling.nvim)
+- [dypshong/cmdline.nvim](https://github.com/dypshong/cmdline.nvim) ![](https://img.shields.io/github/stars/dypshong/cmdline.nvim) ![](https://img.shields.io/github/last-commit/dypshong/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/dypshong/cmdline.nvim)
 
 ### Normal mode command line
 

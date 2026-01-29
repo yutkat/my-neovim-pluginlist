@@ -28,6 +28,7 @@
 - [Okerew/od.nvim](https://github.com/Okerew/od.nvim) ![](https://img.shields.io/github/stars/Okerew/od.nvim) ![](https://img.shields.io/github/last-commit/Okerew/od.nvim) ![](https://img.shields.io/github/commit-activity/y/Okerew/od.nvim)
 - [DudeWhat12134/od.nvim](https://github.com/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/stars/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/last-commit/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/commit-activity/y/DudeWhat12134/od.nvim)
 - [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) ![](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/fschaal/azfunc.nvim)
+- [MarcWeber/nvim-lldb](https://github.com/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/stars/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-lldb)
 
 #### nvim-dap extension
 
