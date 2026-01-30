@@ -98,6 +98,7 @@
 - [kburgon/roo.nvim](https://github.com/kburgon/roo.nvim) ![](https://img.shields.io/github/stars/kburgon/roo.nvim) ![](https://img.shields.io/github/last-commit/kburgon/roo.nvim) ![](https://img.shields.io/github/commit-activity/y/kburgon/roo.nvim)
 - [zeroicey/bufswi.nvim](https://github.com/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/stars/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/last-commit/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/commit-activity/y/zeroicey/bufswi.nvim)
 - [chirag-diwan/FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/stars/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/last-commit/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-diwan/FSwitch.nvim)
+- [vimjeremy/bluffer.nvim](https://github.com/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/stars/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/last-commit/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/commit-activity/y/vimjeremy/bluffer.nvim)
 
 ### Other Buffer Switcher
 
