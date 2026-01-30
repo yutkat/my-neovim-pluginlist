@@ -127,6 +127,7 @@
 - [iwe-org/iwe.nvim](https://github.com/iwe-org/iwe.nvim) ![](https://img.shields.io/github/stars/iwe-org/iwe.nvim) ![](https://img.shields.io/github/last-commit/iwe-org/iwe.nvim) ![](https://img.shields.io/github/commit-activity/y/iwe-org/iwe.nvim)
 - [skeletony007/note.nvim](https://github.com/skeletony007/note.nvim) ![](https://img.shields.io/github/stars/skeletony007/note.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/note.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/note.nvim)
 - [paulatcodescout/csnotes.nvim](https://github.com/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/stars/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/last-commit/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/paulatcodescout/csnotes.nvim)
+- [abdul-hamid-achik/noted.nvim](https://github.com/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/noted.nvim)
 
 ### Journal
 
@@ -198,6 +199,7 @@
 - [tadashi-aikawa/ghostwriter.nvim](https://github.com/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/ghostwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/ghostwriter.nvim)
 - [crimsoncrayfish/todo.nvim](https://github.com/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/stars/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/last-commit/crimsoncrayfish/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/crimsoncrayfish/todo.nvim)
 - [negativeOne1/noto.nvim](https://github.com/negativeOne1/noto.nvim) ![](https://img.shields.io/github/stars/negativeOne1/noto.nvim) ![](https://img.shields.io/github/last-commit/negativeOne1/noto.nvim) ![](https://img.shields.io/github/commit-activity/y/negativeOne1/noto.nvim)
+- [harg/taches.nvim](https://github.com/harg/taches.nvim) ![](https://img.shields.io/github/stars/harg/taches.nvim) ![](https://img.shields.io/github/last-commit/harg/taches.nvim) ![](https://img.shields.io/github/commit-activity/y/harg/taches.nvim)
 - [tbm5k/todo.nvim](https://github.com/tbm5k/todo.nvim) ![](https://img.shields.io/github/stars/tbm5k/todo.nvim) ![](https://img.shields.io/github/last-commit/tbm5k/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/tbm5k/todo.nvim)
 - [smsimone/todolist.nvim](https://github.com/smsimone/todolist.nvim) ![](https://img.shields.io/github/stars/smsimone/todolist.nvim) ![](https://img.shields.io/github/last-commit/smsimone/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/smsimone/todolist.nvim)
 - [pongpatapee/kanban.nvim](https://github.com/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/stars/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/last-commit/pongpatapee/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/pongpatapee/kanban.nvim)
@@ -333,6 +335,7 @@
 - [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 - [AniP-gt/nvim-obsidian-tasks.nvim](https://github.com/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/AniP-gt/nvim-obsidian-tasks.nvim)
 - [damianpoole/obsidian-stats.nvim](https://github.com/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/stars/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/last-commit/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/damianpoole/obsidian-stats.nvim)
+- [Ausmosian/obsidian-render.nvim](https://github.com/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/stars/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/last-commit/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausmosian/obsidian-render.nvim)
 
 ### Logseq
 
