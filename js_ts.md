@@ -307,7 +307,6 @@
 - [gn0/nvim-web-server](https://github.com/gn0/nvim-web-server) ![](https://img.shields.io/github/stars/gn0/nvim-web-server) ![](https://img.shields.io/github/last-commit/gn0/nvim-web-server) ![](https://img.shields.io/github/commit-activity/y/gn0/nvim-web-server)
 - [jbyuki/servethis.nvim](https://github.com/jbyuki/servethis.nvim) ![](https://img.shields.io/github/stars/jbyuki/servethis.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/servethis.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/servethis.nvim)
 - [hyperstown/nvim-live-server](https://github.com/hyperstown/nvim-live-server) ![](https://img.shields.io/github/stars/hyperstown/nvim-live-server) ![](https://img.shields.io/github/last-commit/hyperstown/nvim-live-server) ![](https://img.shields.io/github/commit-activity/y/hyperstown/nvim-live-server)
-- [jiuyuanshen/nvim-live](https://github.com/jiuyuanshen/nvim-live) ![](https://img.shields.io/github/stars/jiuyuanshen/nvim-live) ![](https://img.shields.io/github/last-commit/jiuyuanshen/nvim-live) ![](https://img.shields.io/github/commit-activity/y/jiuyuanshen/nvim-live)
 
 ### Static site
 
