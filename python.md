@@ -182,6 +182,7 @@
 - [tobiaaa/py-runner.nvim](https://github.com/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/stars/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/last-commit/tobiaaa/py-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaaa/py-runner.nvim)
 - [Lairizzle/pyrun.nvim](https://github.com/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/stars/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/last-commit/Lairizzle/pyrun.nvim) ![](https://img.shields.io/github/commit-activity/y/Lairizzle/pyrun.nvim)
 - [Silletr/LazyDevHelper](https://github.com/Silletr/LazyDevHelper) ![](https://img.shields.io/github/stars/Silletr/LazyDevHelper) ![](https://img.shields.io/github/last-commit/Silletr/LazyDevHelper) ![](https://img.shields.io/github/commit-activity/y/Silletr/LazyDevHelper)
+- [DrKJeff16/pipenv.nvim](https://github.com/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/pipenv.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/pipenv.nvim)
 
 #### pypi
 
