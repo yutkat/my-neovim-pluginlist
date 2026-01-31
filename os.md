@@ -45,6 +45,7 @@
 - [mimikun/human-rights.nvim](https://github.com/mimikun/human-rights.nvim) ![](https://img.shields.io/github/stars/mimikun/human-rights.nvim) ![](https://img.shields.io/github/last-commit/mimikun/human-rights.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/human-rights.nvim)
 - [skyroor/nvim-bbstatus](https://github.com/skyroor/nvim-bbstatus) ![](https://img.shields.io/github/stars/skyroor/nvim-bbstatus) ![](https://img.shields.io/github/last-commit/skyroor/nvim-bbstatus) ![](https://img.shields.io/github/commit-activity/y/skyroor/nvim-bbstatus)
 - [szaffarano/top.nvim](https://github.com/szaffarano/top.nvim) ![](https://img.shields.io/github/stars/szaffarano/top.nvim) ![](https://img.shields.io/github/last-commit/szaffarano/top.nvim) ![](https://img.shields.io/github/commit-activity/y/szaffarano/top.nvim)
+- [jugarpeupv/processmonitor.nvim](https://github.com/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/processmonitor.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/processmonitor.nvim)
 
 ### Linux
 

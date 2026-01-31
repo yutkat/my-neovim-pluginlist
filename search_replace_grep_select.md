@@ -220,6 +220,7 @@
 - [naranyala/ag_filepicker.nvim](https://github.com/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/stars/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/last-commit/naranyala/ag_filepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/naranyala/ag_filepicker.nvim)
 - [bravoecho/brook.nvim](https://github.com/bravoecho/brook.nvim) ![](https://img.shields.io/github/stars/bravoecho/brook.nvim) ![](https://img.shields.io/github/last-commit/bravoecho/brook.nvim) ![](https://img.shields.io/github/commit-activity/y/bravoecho/brook.nvim)
 - [mistgc/grp.nvim](https://github.com/mistgc/grp.nvim) ![](https://img.shields.io/github/stars/mistgc/grp.nvim) ![](https://img.shields.io/github/last-commit/mistgc/grp.nvim) ![](https://img.shields.io/github/commit-activity/y/mistgc/grp.nvim)
+- [wakaranakattari/searchlight.nvim](https://github.com/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/stars/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/last-commit/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/commit-activity/y/wakaranakattari/searchlight.nvim)
 
 ### AST (Semantic search)
 

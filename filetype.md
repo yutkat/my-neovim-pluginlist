@@ -15,6 +15,7 @@
 
 - [spywhere/detect-language.nvim](https://github.com/spywhere/detect-language.nvim) ![](https://img.shields.io/github/stars/spywhere/detect-language.nvim) ![](https://img.shields.io/github/last-commit/spywhere/detect-language.nvim) ![](https://img.shields.io/github/commit-activity/y/spywhere/detect-language.nvim)
 - [CalvinE/ft-mapper.nvim](https://github.com/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/stars/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/last-commit/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/CalvinE/ft-mapper.nvim)
+- [fionn/nvim-hujson](https://github.com/fionn/nvim-hujson) ![](https://img.shields.io/github/stars/fionn/nvim-hujson) ![](https://img.shields.io/github/last-commit/fionn/nvim-hujson) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-hujson)
 
 ## ftplugin
 

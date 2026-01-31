@@ -231,6 +231,7 @@
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
 - [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
 - [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
+- [wakaranakattari/task-manager.nvim](https://github.com/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/stars/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/last-commit/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/wakaranakattari/task-manager.nvim)
 
 ### :make style
 
