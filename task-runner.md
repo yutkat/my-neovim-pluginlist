@@ -156,6 +156,7 @@
 - [tad34s/mejkr.nvim](https://github.com/tad34s/mejkr.nvim) ![](https://img.shields.io/github/stars/tad34s/mejkr.nvim) ![](https://img.shields.io/github/last-commit/tad34s/mejkr.nvim) ![](https://img.shields.io/github/commit-activity/y/tad34s/mejkr.nvim)
 - [theawakener0/NeoRunner](https://github.com/theawakener0/NeoRunner) ![](https://img.shields.io/github/stars/theawakener0/NeoRunner) ![](https://img.shields.io/github/last-commit/theawakener0/NeoRunner) ![](https://img.shields.io/github/commit-activity/y/theawakener0/NeoRunner)
 - [mewais/task-hub.nvim](https://github.com/mewais/task-hub.nvim) ![](https://img.shields.io/github/stars/mewais/task-hub.nvim) ![](https://img.shields.io/github/last-commit/mewais/task-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/mewais/task-hub.nvim)
+- [Arthur-Negrao-Smith/JustRun.nvim](https://github.com/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/stars/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/last-commit/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthur-Negrao-Smith/JustRun.nvim)
 
 #### Shell
 
@@ -231,6 +232,7 @@
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
 - [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
 - [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
+- [wakaranakattari/task-manager.nvim](https://github.com/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/stars/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/last-commit/wakaranakattari/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/wakaranakattari/task-manager.nvim)
 
 ### :make style
 
