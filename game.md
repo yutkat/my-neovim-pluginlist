@@ -53,6 +53,7 @@
 - [Django0033/tangled-worlds.nvim](https://github.com/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/stars/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/last-commit/Django0033/tangled-worlds.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/tangled-worlds.nvim)
 - [Django0033/dice-roller.nvim](https://github.com/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/stars/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/last-commit/Django0033/dice-roller.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/dice-roller.nvim)
 - [PatrickKoss/keyforge.nvim](https://github.com/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/stars/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/last-commit/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickKoss/keyforge.nvim)
+- [ishiooon/idle-dungeon.nvim](https://github.com/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/stars/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/idle-dungeon.nvim)
 
 ### Snake
 

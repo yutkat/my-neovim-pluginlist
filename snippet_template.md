@@ -46,6 +46,7 @@
 - [caplod/extract.nvim](https://github.com/caplod/extract.nvim) ![](https://img.shields.io/github/stars/caplod/extract.nvim) ![](https://img.shields.io/github/last-commit/caplod/extract.nvim) ![](https://img.shields.io/github/commit-activity/y/caplod/extract.nvim)
 - [saifshahriar/nvim-lsi](https://github.com/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/stars/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/last-commit/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/commit-activity/y/saifshahriar/nvim-lsi)
 - [Caylub/telescope-blink-snippets.nvim](https://github.com/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/stars/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/last-commit/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Caylub/telescope-blink-snippets.nvim)
+- [ogaken-1/nvim-ix-repeat](https://github.com/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/stars/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-ix-repeat)
 
 #### Snippet definitions
 

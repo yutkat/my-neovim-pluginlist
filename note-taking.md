@@ -405,6 +405,7 @@
 - [yilisharcs/wikibrowse.nvim](https://github.com/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/stars/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/last-commit/yilisharcs/wikibrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/yilisharcs/wikibrowse.nvim)
 - [yeasin50/wikilink.nvim](https://github.com/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/stars/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/wikilink.nvim)
 - [dfryer1193/wiki.nvim](https://github.com/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/stars/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/last-commit/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dfryer1193/wiki.nvim)
+- [skeletony007/qwiki.nvim](https://github.com/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/stars/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/qwiki.nvim)
 
 ### VimWiki
 

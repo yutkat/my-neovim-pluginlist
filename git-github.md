@@ -135,6 +135,7 @@
 - [liYony/nvim-gitrepo.nvim](https://github.com/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/stars/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/last-commit/liYony/nvim-gitrepo.nvim) ![](https://img.shields.io/github/commit-activity/y/liYony/nvim-gitrepo.nvim)
 - [Benjman/lvdflg.nvim](https://github.com/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/stars/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/last-commit/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/commit-activity/y/Benjman/lvdflg.nvim)
 - [ardaanyazli/lg-float.nvim](https://github.com/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/stars/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/last-commit/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/commit-activity/y/ardaanyazli/lg-float.nvim)
+- [fdarian/lazygit.nvim](https://github.com/fdarian/lazygit.nvim) ![](https://img.shields.io/github/stars/fdarian/lazygit.nvim) ![](https://img.shields.io/github/last-commit/fdarian/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/fdarian/lazygit.nvim)
 
 ### git clone
 
@@ -245,6 +246,7 @@
 ### git checkout
 
 - [moyiz/git-dev.nvim](https://github.com/moyiz/git-dev.nvim) ![](https://img.shields.io/github/stars/moyiz/git-dev.nvim) ![](https://img.shields.io/github/last-commit/moyiz/git-dev.nvim) ![](https://img.shields.io/github/commit-activity/y/moyiz/git-dev.nvim)
+- [jedipunkz/fuzz.nvim](https://github.com/jedipunkz/fuzz.nvim) ![](https://img.shields.io/github/stars/jedipunkz/fuzz.nvim) ![](https://img.shields.io/github/last-commit/jedipunkz/fuzz.nvim) ![](https://img.shields.io/github/commit-activity/y/jedipunkz/fuzz.nvim)
 
 ### git blame
 
@@ -294,6 +296,7 @@
 - [Salanoid/gitlogdiff.nvim](https://github.com/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/stars/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/last-commit/Salanoid/gitlogdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Salanoid/gitlogdiff.nvim)
 - [Enigama/remarks.nvim](https://github.com/Enigama/remarks.nvim) ![](https://img.shields.io/github/stars/Enigama/remarks.nvim) ![](https://img.shields.io/github/last-commit/Enigama/remarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Enigama/remarks.nvim)
 - [dallagi/git-timemachine.nvim](https://github.com/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/stars/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/last-commit/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/dallagi/git-timemachine.nvim)
+- [prasannashrestha011/git-explorer.nvim](https://github.com/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/stars/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/last-commit/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/prasannashrestha011/git-explorer.nvim)
 
 #### preview contents
 
@@ -662,6 +665,7 @@
 - [tapihdev/cfp.nvim](https://github.com/tapihdev/cfp.nvim) ![](https://img.shields.io/github/stars/tapihdev/cfp.nvim) ![](https://img.shields.io/github/last-commit/tapihdev/cfp.nvim) ![](https://img.shields.io/github/commit-activity/y/tapihdev/cfp.nvim)
 - [vieitesss/gh-permalink.nvim](https://github.com/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/stars/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/gh-permalink.nvim)
 - [amaanq/gitlink.nvim](https://github.com/amaanq/gitlink.nvim) ![](https://img.shields.io/github/stars/amaanq/gitlink.nvim) ![](https://img.shields.io/github/last-commit/amaanq/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/amaanq/gitlink.nvim)
+- [melvi-l/housp.nvim](https://github.com/melvi-l/housp.nvim) ![](https://img.shields.io/github/stars/melvi-l/housp.nvim) ![](https://img.shields.io/github/last-commit/melvi-l/housp.nvim) ![](https://img.shields.io/github/commit-activity/y/melvi-l/housp.nvim)
 
 ### Image
 
@@ -724,6 +728,7 @@
 - [Otterpatsch/bitbucket.nvim](https://github.com/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/stars/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/last-commit/Otterpatsch/bitbucket.nvim) ![](https://img.shields.io/github/commit-activity/y/Otterpatsch/bitbucket.nvim)
 - [Speiser/bitbucket-url.nvim](https://github.com/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/stars/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/bitbucket-url.nvim)
 - [TheChessDev/bb.nvim](https://github.com/TheChessDev/bb.nvim) ![](https://img.shields.io/github/stars/TheChessDev/bb.nvim) ![](https://img.shields.io/github/last-commit/TheChessDev/bb.nvim) ![](https://img.shields.io/github/commit-activity/y/TheChessDev/bb.nvim)
+- [veracus/bitbucket-open.nvim](https://github.com/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/stars/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/last-commit/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/commit-activity/y/veracus/bitbucket-open.nvim)
 
 ## Sourcegraph
 

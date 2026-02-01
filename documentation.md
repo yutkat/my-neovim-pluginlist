@@ -240,6 +240,7 @@
 
 - [adalessa/markdown-preview.nvim](https://github.com/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adalessa/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adalessa/markdown-preview.nvim)
 - [davidgranstrom/nvim-markdown-preview](https://github.com/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/stars/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/last-commit/davidgranstrom/nvim-markdown-preview) ![](https://img.shields.io/github/commit-activity/y/davidgranstrom/nvim-markdown-preview)
+- [momospc/nvim-markdown-preview-lite](https://github.com/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/stars/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/last-commit/momospc/nvim-markdown-preview-lite) ![](https://img.shields.io/github/commit-activity/y/momospc/nvim-markdown-preview-lite)
 
 ##### Python(markdown-live-preview)
 
@@ -443,6 +444,7 @@
 - [selimacerbas/mermaid-playground.nvim](https://github.com/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/stars/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/mermaid-playground.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/mermaid-playground.nvim)
 - [wardenclyffetower/mermaidjs.nvim](https://github.com/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/stars/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/last-commit/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/commit-activity/y/wardenclyffetower/mermaidjs.nvim)
 - [kevalin/mermaid.nvim](https://github.com/kevalin/mermaid.nvim) ![](https://img.shields.io/github/stars/kevalin/mermaid.nvim) ![](https://img.shields.io/github/last-commit/kevalin/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/kevalin/mermaid.nvim)
+- [ruslan-kurchenko/nvim-beautiful-mermaid](https://github.com/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/stars/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/last-commit/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/commit-activity/y/ruslan-kurchenko/nvim-beautiful-mermaid)
 
 ### pikchr
 

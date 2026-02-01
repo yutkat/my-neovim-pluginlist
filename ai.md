@@ -690,6 +690,7 @@
 - [Nkr1shna/truffle.nvim](https://github.com/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/stars/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/last-commit/Nkr1shna/truffle.nvim) ![](https://img.shields.io/github/commit-activity/y/Nkr1shna/truffle.nvim)
 - [dansomething/ai-pane.nvim](https://github.com/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/stars/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/last-commit/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/dansomething/ai-pane.nvim)
 - [greenarmor/tatacodes.nvim](https://github.com/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/stars/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/last-commit/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/commit-activity/y/greenarmor/tatacodes.nvim)
+- [viniciussoares/ai-cli.nvim](https://github.com/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/stars/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/last-commit/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciussoares/ai-cli.nvim)
 
 ## ECA
 
@@ -712,10 +713,12 @@
 - [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/stars/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/last-commit/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/cursor-inline)
 - [h4kbas/cursor.nvim](https://github.com/h4kbas/cursor.nvim) ![](https://img.shields.io/github/stars/h4kbas/cursor.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/cursor.nvim)
 - [BenGu3/cursor-tab.nvim](https://github.com/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/stars/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/last-commit/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/BenGu3/cursor-tab.nvim)
+- [huylg/cursor-agent.nvim](https://github.com/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/stars/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huylg/cursor-agent.nvim)
 
 ## Kiro
 
 - [sriram-mv/kiro.nvim](https://github.com/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/stars/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/last-commit/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-mv/kiro.nvim)
+- [ynnekF/nvim-kiro](https://github.com/ynnekF/nvim-kiro) ![](https://img.shields.io/github/stars/ynnekF/nvim-kiro) ![](https://img.shields.io/github/last-commit/ynnekF/nvim-kiro) ![](https://img.shields.io/github/commit-activity/y/ynnekF/nvim-kiro)
 
 ## CodeCompanion
 
