@@ -596,7 +596,6 @@
 - [jaswdr/opencode-completion.nvim](https://github.com/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/stars/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/last-commit/jaswdr/opencode-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/jaswdr/opencode-completion.nvim)
 - [fmpisantos/opencode.nvim](https://github.com/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/stars/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/opencode.nvim)
 - [Hashino/opencode-meta.nvim](https://github.com/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/stars/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/last-commit/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/opencode-meta.nvim)
-- [olisikh/octools.nvim](https://github.com/olisikh/octools.nvim) ![](https://img.shields.io/github/stars/olisikh/octools.nvim) ![](https://img.shields.io/github/last-commit/olisikh/octools.nvim) ![](https://img.shields.io/github/commit-activity/y/olisikh/octools.nvim)
 - [MisterGrinvalds/opencode.nvim](https://github.com/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/opencode.nvim)
 
 ### khulnasoft
