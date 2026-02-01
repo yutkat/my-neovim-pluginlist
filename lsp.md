@@ -368,7 +368,6 @@
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
-- [nagashimam/vue-expand-markuplint.nvim](https://github.com/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/stars/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/last-commit/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/commit-activity/y/nagashimam/vue-expand-markuplint.nvim)
 
 ## Pre-configuration
 
