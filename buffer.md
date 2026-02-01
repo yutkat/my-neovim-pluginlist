@@ -99,6 +99,7 @@
 - [zeroicey/bufswi.nvim](https://github.com/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/stars/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/last-commit/zeroicey/bufswi.nvim) ![](https://img.shields.io/github/commit-activity/y/zeroicey/bufswi.nvim)
 - [chirag-diwan/FSwitch.nvim](https://github.com/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/stars/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/last-commit/chirag-diwan/FSwitch.nvim) ![](https://img.shields.io/github/commit-activity/y/chirag-diwan/FSwitch.nvim)
 - [vimjeremy/bluffer.nvim](https://github.com/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/stars/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/last-commit/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/commit-activity/y/vimjeremy/bluffer.nvim)
+- [Masalale/buffer-jump.nvim](https://github.com/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/stars/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/last-commit/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/Masalale/buffer-jump.nvim)
 
 ### Other Buffer Switcher
 

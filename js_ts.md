@@ -63,6 +63,7 @@
   - [mjml](#mjml)
   - [Hygen](#hygen)
   - [Ember](#ember)
+    - [p5.js](#p5js)
 - [Template Engine](#template-engine)
   - [Jinja](#jinja)
   - [Edge.js](#edgejs)
@@ -385,6 +386,7 @@
 - [yimme/vue-marks.nvim](https://github.com/yimme/vue-marks.nvim) ![](https://img.shields.io/github/stars/yimme/vue-marks.nvim) ![](https://img.shields.io/github/last-commit/yimme/vue-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/yimme/vue-marks.nvim)
 - [MGouillardon/vue-component-creator.nvim](https://github.com/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/stars/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/last-commit/MGouillardon/vue-component-creator.nvim) ![](https://img.shields.io/github/commit-activity/y/MGouillardon/vue-component-creator.nvim)
 - [nagashimam/vue-html-bridge.nvim](https://github.com/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/stars/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/last-commit/nagashimam/vue-html-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/nagashimam/vue-html-bridge.nvim)
+- [nagashimam/vue-expand-markuplint.nvim](https://github.com/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/stars/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/last-commit/nagashimam/vue-expand-markuplint.nvim) ![](https://img.shields.io/github/commit-activity/y/nagashimam/vue-expand-markuplint.nvim)
 
 #### Vleam
 

@@ -77,6 +77,7 @@
 - [Leonardo-Luz/focus.nvim](https://github.com/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/stars/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/last-commit/Leonardo-Luz/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/Leonardo-Luz/focus.nvim)
 - [menisadi/numrow.nvim](https://github.com/menisadi/numrow.nvim) ![](https://img.shields.io/github/stars/menisadi/numrow.nvim) ![](https://img.shields.io/github/last-commit/menisadi/numrow.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/numrow.nvim)
 - [akhutsishvili/vim-dojo.nvim](https://github.com/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/stars/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/last-commit/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/akhutsishvili/vim-dojo.nvim)
+- [benjilegnard/wpm-caret.nvim](https://github.com/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/stars/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/last-commit/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/commit-activity/y/benjilegnard/wpm-caret.nvim)
 
 ### Turing path
 
@@ -142,3 +143,4 @@
 
 - [hakimajaman/nvim-muslim-prayer](https://github.com/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/stars/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/last-commit/hakimajaman/nvim-muslim-prayer) ![](https://img.shields.io/github/commit-activity/y/hakimajaman/nvim-muslim-prayer)
 - [muhfaris/prayertime.nvim](https://github.com/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/stars/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/last-commit/muhfaris/prayertime.nvim) ![](https://img.shields.io/github/commit-activity/y/muhfaris/prayertime.nvim)
+- [JOSA-OpenLab/azkar.nvim](https://github.com/JOSA-OpenLab/azkar.nvim) ![](https://img.shields.io/github/stars/JOSA-OpenLab/azkar.nvim) ![](https://img.shields.io/github/last-commit/JOSA-OpenLab/azkar.nvim) ![](https://img.shields.io/github/commit-activity/y/JOSA-OpenLab/azkar.nvim)

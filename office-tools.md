@@ -20,6 +20,7 @@
 - [holmanb/telescope-notmuch.nvim](https://github.com/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/stars/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/last-commit/holmanb/telescope-notmuch.nvim) ![](https://img.shields.io/github/commit-activity/y/holmanb/telescope-notmuch.nvim)
 - [mraspaud/kbmail.nvim](https://github.com/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/stars/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/last-commit/mraspaud/kbmail.nvim) ![](https://img.shields.io/github/commit-activity/y/mraspaud/kbmail.nvim)
 - [BasileBux/mail.nvim](https://github.com/BasileBux/mail.nvim) ![](https://img.shields.io/github/stars/BasileBux/mail.nvim) ![](https://img.shields.io/github/last-commit/BasileBux/mail.nvim) ![](https://img.shields.io/github/commit-activity/y/BasileBux/mail.nvim)
+- [shuber2/mailassist.nvim](https://github.com/shuber2/mailassist.nvim) ![](https://img.shields.io/github/stars/shuber2/mailassist.nvim) ![](https://img.shields.io/github/last-commit/shuber2/mailassist.nvim) ![](https://img.shields.io/github/commit-activity/y/shuber2/mailassist.nvim)
 
 ## Contacts
 
