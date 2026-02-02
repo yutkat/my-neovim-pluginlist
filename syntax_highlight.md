@@ -221,7 +221,6 @@
 
 ### filetype colorscheme
 
-- [KeiAzDev/framework-highlighter.nvim](https://github.com/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/stars/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/last-commit/KeiAzDev/framework-highlighter.nvim) ![](https://img.shields.io/github/commit-activity/y/KeiAzDev/framework-highlighter.nvim)
 
 ### Auto generate colorscheme
 
