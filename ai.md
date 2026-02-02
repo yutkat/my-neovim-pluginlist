@@ -597,6 +597,7 @@
 - [fmpisantos/opencode.nvim](https://github.com/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/stars/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/opencode.nvim)
 - [Hashino/opencode-meta.nvim](https://github.com/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/stars/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/last-commit/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/opencode-meta.nvim)
 - [MisterGrinvalds/opencode.nvim](https://github.com/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/opencode.nvim)
+- [krmcbride/opencode.nvim](https://github.com/krmcbride/opencode.nvim) ![](https://img.shields.io/github/stars/krmcbride/opencode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/opencode.nvim)
 
 ### khulnasoft
 
@@ -659,6 +660,7 @@
 - [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
 - [N0nki/tmux-coding-agent.nvim](https://github.com/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/stars/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/last-commit/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/N0nki/tmux-coding-agent.nvim)
 - [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
+- [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
 
 ### Amp
 

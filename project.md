@@ -114,6 +114,7 @@
 - [imNel/monorepo.nvim](https://github.com/imNel/monorepo.nvim) ![](https://img.shields.io/github/stars/imNel/monorepo.nvim) ![](https://img.shields.io/github/last-commit/imNel/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/imNel/monorepo.nvim)
 - [sajjathossain/nvim-monorepos](https://github.com/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/stars/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-monorepos)
 - [Akshay-Vs/monorepo.nvim](https://github.com/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/stars/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/last-commit/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/Akshay-Vs/monorepo.nvim)
+- [yardnsm/nx-console.nvim](https://github.com/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/stars/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/last-commit/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/commit-activity/y/yardnsm/nx-console.nvim)
 
 ### Project Local Config
 

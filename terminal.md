@@ -114,6 +114,7 @@
 - [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ![](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-winterm)
 - [RajaMahanty/runfloater.nvim](https://github.com/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/stars/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/last-commit/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/commit-activity/y/RajaMahanty/runfloater.nvim)
 - [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ![](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-winterm)
+- [husseinmirzaki/nvim-tmux-integration](https://github.com/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/stars/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/last-commit/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/commit-activity/y/husseinmirzaki/nvim-tmux-integration)
 
 ### Open
 
