@@ -172,6 +172,7 @@
 
 - [bagohart/diff-mappings.nvim](https://github.com/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/diff-mappings.nvim)
 - [GlennMm/auto-git-add.nvim](https://github.com/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/stars/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/auto-git-add.nvim)
+- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
 
 ### git commit
 
@@ -374,6 +375,7 @@
 - [ipetrovbg/nvim-gh-browse](https://github.com/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/stars/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/last-commit/ipetrovbg/nvim-gh-browse) ![](https://img.shields.io/github/commit-activity/y/ipetrovbg/nvim-gh-browse)
 - [jcger/git-open.nvim](https://github.com/jcger/git-open.nvim) ![](https://img.shields.io/github/stars/jcger/git-open.nvim) ![](https://img.shields.io/github/last-commit/jcger/git-open.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/git-open.nvim)
 - [andi242/gitopen.nvim](https://github.com/andi242/gitopen.nvim) ![](https://img.shields.io/github/stars/andi242/gitopen.nvim) ![](https://img.shields.io/github/last-commit/andi242/gitopen.nvim) ![](https://img.shields.io/github/commit-activity/y/andi242/gitopen.nvim)
+- [albxllm/nvim-gotogit](https://github.com/albxllm/nvim-gotogit) ![](https://img.shields.io/github/stars/albxllm/nvim-gotogit) ![](https://img.shields.io/github/last-commit/albxllm/nvim-gotogit) ![](https://img.shields.io/github/commit-activity/y/albxllm/nvim-gotogit)
 
 ### git switch
 
@@ -582,6 +584,7 @@
 - [palekiwi/prctl.nvim](https://github.com/palekiwi/prctl.nvim) ![](https://img.shields.io/github/stars/palekiwi/prctl.nvim) ![](https://img.shields.io/github/last-commit/palekiwi/prctl.nvim) ![](https://img.shields.io/github/commit-activity/y/palekiwi/prctl.nvim)
 - [ryugen04/remora.nvim](https://github.com/ryugen04/remora.nvim) ![](https://img.shields.io/github/stars/ryugen04/remora.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/remora.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/remora.nvim)
 - [0xKitsune/pr.nvim](https://github.com/0xKitsune/pr.nvim) ![](https://img.shields.io/github/stars/0xKitsune/pr.nvim) ![](https://img.shields.io/github/last-commit/0xKitsune/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKitsune/pr.nvim)
+- [bajor/nvim-raccoon](https://github.com/bajor/nvim-raccoon) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon)
 
 #### Pull Request Comment
 

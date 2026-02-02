@@ -72,6 +72,7 @@
 - [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) ![](https://img.shields.io/github/stars/sontungexpt/witch-line) ![](https://img.shields.io/github/last-commit/sontungexpt/witch-line) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/witch-line)
 - [geo-afk/c-statusline.nvim](https://github.com/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/stars/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/last-commit/geo-afk/c-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/geo-afk/c-statusline.nvim)
 - [abosnjakovic/nyan.nvim](https://github.com/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/nyan.nvim)
+- [loichyan/meoline.nvim](https://github.com/loichyan/meoline.nvim) ![](https://img.shields.io/github/stars/loichyan/meoline.nvim) ![](https://img.shields.io/github/last-commit/loichyan/meoline.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/meoline.nvim)
 
 ### Simple
 

@@ -100,6 +100,7 @@
 - [wakatara/MdViews](https://github.com/wakatara/MdViews) ![](https://img.shields.io/github/stars/wakatara/MdViews) ![](https://img.shields.io/github/last-commit/wakatara/MdViews) ![](https://img.shields.io/github/commit-activity/y/wakatara/MdViews)
 - [m-takeuchi/fzfkasten.nvim](https://github.com/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/stars/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/last-commit/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/m-takeuchi/fzfkasten.nvim)
 - [y4m3/zettel-meta.nvim](https://github.com/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/stars/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/last-commit/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/y4m3/zettel-meta.nvim)
+- [riodelphino/zk-auto-update.nvim](https://github.com/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/stars/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/zk-auto-update.nvim)
 
 ### Markdown
 

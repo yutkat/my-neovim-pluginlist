@@ -125,6 +125,7 @@
 - [3cnf-f/f_tmux_panetitle.nvim](https://github.com/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/stars/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/last-commit/3cnf-f/f_tmux_panetitle.nvim) ![](https://img.shields.io/github/commit-activity/y/3cnf-f/f_tmux_panetitle.nvim)
 - [ChrisO345/scout.nvim](https://github.com/ChrisO345/scout.nvim) ![](https://img.shields.io/github/stars/ChrisO345/scout.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/scout.nvim)
 - [MisterGrinvalds/tmux.nvim](https://github.com/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/tmux.nvim)
+- [husseinmirzaki/nvim-tmux-integration](https://github.com/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/stars/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/last-commit/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/commit-activity/y/husseinmirzaki/nvim-tmux-integration)
 
 ##### tmux alternative
 

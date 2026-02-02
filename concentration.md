@@ -44,6 +44,7 @@
 - [hvenables/pomodoro.nvim](https://github.com/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/stars/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/hvenables/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/hvenables/pomodoro.nvim)
 - [sserada/spartan-pomo.nvim](https://github.com/sserada/spartan-pomo.nvim) ![](https://img.shields.io/github/stars/sserada/spartan-pomo.nvim) ![](https://img.shields.io/github/last-commit/sserada/spartan-pomo.nvim) ![](https://img.shields.io/github/commit-activity/y/sserada/spartan-pomo.nvim)
 - [Lachignol/time-bomb.nvim](https://github.com/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/stars/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/last-commit/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/commit-activity/y/Lachignol/time-bomb.nvim)
+- [mvtt25/pomodoro.nvim](https://github.com/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/stars/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/mvtt25/pomodoro.nvim)
 
 ## Alarm
 
