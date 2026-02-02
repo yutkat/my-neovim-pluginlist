@@ -172,6 +172,7 @@
 
 - [bagohart/diff-mappings.nvim](https://github.com/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/diff-mappings.nvim)
 - [GlennMm/auto-git-add.nvim](https://github.com/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/stars/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/auto-git-add.nvim)
+- [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
 
 ### git commit
 
@@ -333,7 +334,6 @@
 - [krisajenkins/oversight.nvim](https://github.com/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/stars/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/last-commit/krisajenkins/oversight.nvim) ![](https://img.shields.io/github/commit-activity/y/krisajenkins/oversight.nvim)
 - [ovidiu-ionescu/gdiff.nvim](https://github.com/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/stars/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/last-commit/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ovidiu-ionescu/gdiff.nvim)
 - [LuccaRomanelli/git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/git-review.nvim)
-- [jetm/rehunk.nvim](https://github.com/jetm/rehunk.nvim) ![](https://img.shields.io/github/stars/jetm/rehunk.nvim) ![](https://img.shields.io/github/last-commit/jetm/rehunk.nvim) ![](https://img.shields.io/github/commit-activity/y/jetm/rehunk.nvim)
 
 #### image diff
 
