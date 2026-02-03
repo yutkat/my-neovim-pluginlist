@@ -145,6 +145,8 @@
 - [behzade/j.nvim](https://github.com/behzade/j.nvim) ![](https://img.shields.io/github/stars/behzade/j.nvim) ![](https://img.shields.io/github/last-commit/behzade/j.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/j.nvim)
 - [Cassin01/sm.nvim](https://github.com/Cassin01/sm.nvim) ![](https://img.shields.io/github/stars/Cassin01/sm.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sm.nvim)
 - [vvvetroff/tinyhash.nvim](https://github.com/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/stars/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/last-commit/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvetroff/tinyhash.nvim)
+- [Kannazuki-jp/sticky-note.nvim](https://github.com/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/sticky-note.nvim)
+- [senelway/vinote.nvim](https://github.com/senelway/vinote.nvim) ![](https://img.shields.io/github/stars/senelway/vinote.nvim) ![](https://img.shields.io/github/last-commit/senelway/vinote.nvim) ![](https://img.shields.io/github/commit-activity/y/senelway/vinote.nvim)
 
 ### ToDo
 
@@ -295,6 +297,7 @@
 - [ChrisGVE/taskforge.nvim](https://github.com/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/stars/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/last-commit/ChrisGVE/taskforge.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisGVE/taskforge.nvim)
 - [clobrano/frontline.nvim](https://github.com/clobrano/frontline.nvim) ![](https://img.shields.io/github/stars/clobrano/frontline.nvim) ![](https://img.shields.io/github/last-commit/clobrano/frontline.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/frontline.nvim)
 - [Pete-Hamlin/tasknv.nvim](https://github.com/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/stars/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/last-commit/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/commit-activity/y/Pete-Hamlin/tasknv.nvim)
+- [07CalC/doit.nvim](https://github.com/07CalC/doit.nvim) ![](https://img.shields.io/github/stars/07CalC/doit.nvim) ![](https://img.shields.io/github/last-commit/07CalC/doit.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/doit.nvim)
 
 ### Obsidian
 

@@ -238,6 +238,7 @@
 - [quiqueporta/jira.nvim](https://github.com/quiqueporta/jira.nvim) ![](https://img.shields.io/github/stars/quiqueporta/jira.nvim) ![](https://img.shields.io/github/last-commit/quiqueporta/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/quiqueporta/jira.nvim)
 - [bearded-giant/jim.nvim](https://github.com/bearded-giant/jim.nvim) ![](https://img.shields.io/github/stars/bearded-giant/jim.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/jim.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/jim.nvim)
 - [letieu/jira.nvim](https://github.com/letieu/jira.nvim) ![](https://img.shields.io/github/stars/letieu/jira.nvim) ![](https://img.shields.io/github/last-commit/letieu/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/jira.nvim)
+- [osszoi/jira-board.nvim](https://github.com/osszoi/jira-board.nvim) ![](https://img.shields.io/github/stars/osszoi/jira-board.nvim) ![](https://img.shields.io/github/last-commit/osszoi/jira-board.nvim) ![](https://img.shields.io/github/commit-activity/y/osszoi/jira-board.nvim)
 - [l-lin/jira.nvim](https://github.com/l-lin/jira.nvim) ![](https://img.shields.io/github/stars/l-lin/jira.nvim) ![](https://img.shields.io/github/last-commit/l-lin/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/l-lin/jira.nvim)
 
 ### Confluence

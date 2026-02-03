@@ -105,6 +105,7 @@
 - [z0rzi/pos-stack.nvim](https://github.com/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/stars/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/pos-stack.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/pos-stack.nvim)
 - [someshkoli/jumps.nvim](https://github.com/someshkoli/jumps.nvim) ![](https://img.shields.io/github/stars/someshkoli/jumps.nvim) ![](https://img.shields.io/github/last-commit/someshkoli/jumps.nvim) ![](https://img.shields.io/github/commit-activity/y/someshkoli/jumps.nvim)
 - [wbbradley/jumplist.nvim](https://github.com/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/stars/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/last-commit/wbbradley/jumplist.nvim) ![](https://img.shields.io/github/commit-activity/y/wbbradley/jumplist.nvim)
+- [robert-ohurley/compass.nvim](https://github.com/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/stars/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/last-commit/robert-ohurley/compass.nvim) ![](https://img.shields.io/github/commit-activity/y/robert-ohurley/compass.nvim)
 
 ### Edit History
 

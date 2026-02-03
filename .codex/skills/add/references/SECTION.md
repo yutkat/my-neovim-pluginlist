@@ -470,6 +470,7 @@
 #### Code to Markdown
 #### AI writter
 #### MyST
+### Documentation viewer
 ### Documentation search
 ### Fountain
 ### Query

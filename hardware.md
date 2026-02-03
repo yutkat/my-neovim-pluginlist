@@ -46,6 +46,8 @@
 
 ### CAD
 
+- [diodeinc/zen.nvim](https://github.com/diodeinc/zen.nvim) ![](https://img.shields.io/github/stars/diodeinc/zen.nvim) ![](https://img.shields.io/github/last-commit/diodeinc/zen.nvim) ![](https://img.shields.io/github/commit-activity/y/diodeinc/zen.nvim)
+
 ### VHDL
 
 - [patgro1/vhdl-utils.nvim](https://github.com/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/stars/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/last-commit/patgro1/vhdl-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/patgro1/vhdl-utils.nvim)

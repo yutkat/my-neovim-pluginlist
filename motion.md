@@ -83,6 +83,7 @@
 - [LuxVim/nvim-luxmotion](https://github.com/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/stars/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/last-commit/LuxVim/nvim-luxmotion) ![](https://img.shields.io/github/commit-activity/y/LuxVim/nvim-luxmotion)
 - [elanmed/seek.nvim](https://github.com/elanmed/seek.nvim) ![](https://img.shields.io/github/stars/elanmed/seek.nvim) ![](https://img.shields.io/github/last-commit/elanmed/seek.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/seek.nvim)
 - [turbo-soft/skok.nvim](https://github.com/turbo-soft/skok.nvim) ![](https://img.shields.io/github/stars/turbo-soft/skok.nvim) ![](https://img.shields.io/github/last-commit/turbo-soft/skok.nvim) ![](https://img.shields.io/github/commit-activity/y/turbo-soft/skok.nvim)
+- [litvinov-git/furry.nvim](https://github.com/litvinov-git/furry.nvim) ![](https://img.shields.io/github/stars/litvinov-git/furry.nvim) ![](https://img.shields.io/github/last-commit/litvinov-git/furry.nvim) ![](https://img.shields.io/github/commit-activity/y/litvinov-git/furry.nvim)
 
 ### Horizontal Move
 
