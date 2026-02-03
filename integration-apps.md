@@ -304,6 +304,7 @@
 #### Kustomize
 
 - [Allaman/kustomize.nvim](https://github.com/Allaman/kustomize.nvim) ![](https://img.shields.io/github/stars/Allaman/kustomize.nvim) ![](https://img.shields.io/github/last-commit/Allaman/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/Allaman/kustomize.nvim)
+- [DavidRR-F/kustomize.nvim](https://github.com/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/stars/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/last-commit/DavidRR-F/kustomize.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRR-F/kustomize.nvim)
 - [vgromanov/fluxcd.nvim](https://github.com/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/stars/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/last-commit/vgromanov/fluxcd.nvim) ![](https://img.shields.io/github/commit-activity/y/vgromanov/fluxcd.nvim)
 
 #### AWS
@@ -322,6 +323,7 @@
 
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) ![](https://img.shields.io/github/stars/kiran94/s3edit.nvim) ![](https://img.shields.io/github/last-commit/kiran94/s3edit.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/s3edit.nvim)
 - [oguzhancoskun/aws-s3.nvim](https://github.com/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-s3.nvim)
+- [fmpisantos/s3.nvim](https://github.com/fmpisantos/s3.nvim) ![](https://img.shields.io/github/stars/fmpisantos/s3.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/s3.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/s3.nvim)
 
 ##### SAM
 

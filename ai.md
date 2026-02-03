@@ -421,6 +421,8 @@
 - [mr55p-dev/claude-tmux.nvim](https://github.com/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/claude-tmux.nvim)
 - [ebrentnelson/claude-code-pane.nvim](https://github.com/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/stars/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/last-commit/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ebrentnelson/claude-code-pane.nvim)
 - [jayadeepk/claude-agents.nvim](https://github.com/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/stars/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/last-commit/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jayadeepk/claude-agents.nvim)
+- [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
+- [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
 
 ### Amazon Q
 
@@ -661,6 +663,8 @@
 - [N0nki/tmux-coding-agent.nvim](https://github.com/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/stars/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/last-commit/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/N0nki/tmux-coding-agent.nvim)
 - [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
 - [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
+- [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
+- [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 
 ### Amp
 
@@ -692,6 +696,7 @@
 - [dansomething/ai-pane.nvim](https://github.com/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/stars/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/last-commit/dansomething/ai-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/dansomething/ai-pane.nvim)
 - [greenarmor/tatacodes.nvim](https://github.com/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/stars/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/last-commit/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/commit-activity/y/greenarmor/tatacodes.nvim)
 - [viniciussoares/ai-cli.nvim](https://github.com/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/stars/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/last-commit/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciussoares/ai-cli.nvim)
+- [njg7194/openclaw.nvim](https://github.com/njg7194/openclaw.nvim) ![](https://img.shields.io/github/stars/njg7194/openclaw.nvim) ![](https://img.shields.io/github/last-commit/njg7194/openclaw.nvim) ![](https://img.shields.io/github/commit-activity/y/njg7194/openclaw.nvim)
 
 ## ECA
 

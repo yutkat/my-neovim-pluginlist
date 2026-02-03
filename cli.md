@@ -470,6 +470,7 @@
 #### ledger
 
 - [wllfaria/ledger.nvim](https://github.com/wllfaria/ledger.nvim) ![](https://img.shields.io/github/stars/wllfaria/ledger.nvim) ![](https://img.shields.io/github/last-commit/wllfaria/ledger.nvim) ![](https://img.shields.io/github/commit-activity/y/wllfaria/ledger.nvim)
+- [acristoffers/ledger.nvim](https://github.com/acristoffers/ledger.nvim) ![](https://img.shields.io/github/stars/acristoffers/ledger.nvim) ![](https://img.shields.io/github/last-commit/acristoffers/ledger.nvim) ![](https://img.shields.io/github/commit-activity/y/acristoffers/ledger.nvim)
 
 #### diagon
 
