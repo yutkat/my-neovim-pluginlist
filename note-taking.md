@@ -147,6 +147,7 @@
 - [vvvetroff/tinyhash.nvim](https://github.com/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/stars/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/last-commit/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvetroff/tinyhash.nvim)
 - [Kannazuki-jp/sticky-note.nvim](https://github.com/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/sticky-note.nvim)
 - [senelway/vinote.nvim](https://github.com/senelway/vinote.nvim) ![](https://img.shields.io/github/stars/senelway/vinote.nvim) ![](https://img.shields.io/github/last-commit/senelway/vinote.nvim) ![](https://img.shields.io/github/commit-activity/y/senelway/vinote.nvim)
+- [bilyes/daily-notes-index.nvim](https://github.com/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/stars/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/last-commit/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/commit-activity/y/bilyes/daily-notes-index.nvim)
 
 ### ToDo
 
@@ -338,6 +339,7 @@
 - [apdot/doodle](https://github.com/apdot/doodle) ![](https://img.shields.io/github/stars/apdot/doodle) ![](https://img.shields.io/github/last-commit/apdot/doodle) ![](https://img.shields.io/github/commit-activity/y/apdot/doodle)
 - [fvalenza/vaultview.nvim](https://github.com/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/stars/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/last-commit/fvalenza/vaultview.nvim) ![](https://img.shields.io/github/commit-activity/y/fvalenza/vaultview.nvim)
 - [AniP-gt/nvim-obsidian-tasks.nvim](https://github.com/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/AniP-gt/nvim-obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/AniP-gt/nvim-obsidian-tasks.nvim)
+- [miller3616/bases.nvim](https://github.com/miller3616/bases.nvim) ![](https://img.shields.io/github/stars/miller3616/bases.nvim) ![](https://img.shields.io/github/last-commit/miller3616/bases.nvim) ![](https://img.shields.io/github/commit-activity/y/miller3616/bases.nvim)
 - [damianpoole/obsidian-stats.nvim](https://github.com/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/stars/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/last-commit/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/damianpoole/obsidian-stats.nvim)
 - [Ausmosian/obsidian-render.nvim](https://github.com/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/stars/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/last-commit/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausmosian/obsidian-render.nvim)
 

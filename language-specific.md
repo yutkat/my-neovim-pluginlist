@@ -56,6 +56,8 @@
     - [Dingo](#dingo)
     - [fortran](#fortran)
     - [DSL](#dsl)
+  - [WSL](#wsl)
+    - [CQL](#cql)
       - [Quadrate](#quadrate)
       - [Confgen](#confgen)
       - [DAML](#daml)
@@ -108,6 +110,7 @@
     - [CFML](#cfml)
     - [Zed](#zed)
     - [Lean](#lean)
+    - [Lina](#lina)
     - [sylt](#sylt)
     - [Cyber](#cyber)
     - [Aeria](#aeria)
@@ -134,6 +137,7 @@
     - [Jule](#jule)
     - [Gren](#gren)
     - [Solidity](#solidity)
+    - [Soluna](#soluna)
     - [Huff](#huff)
     - [Simplicity](#simplicity)
     - [Bril](#bril)
@@ -470,6 +474,10 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+### WSL
+
+- [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)
+
 #### CQL
 
 - [Akzestia/nvim-cql-v2](https://github.com/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/stars/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/last-commit/Akzestia/nvim-cql-v2) ![](https://img.shields.io/github/commit-activity/y/Akzestia/nvim-cql-v2)
@@ -524,7 +532,6 @@
 - [ovalnine/processing.nvim](https://github.com/ovalnine/processing.nvim) ![](https://img.shields.io/github/stars/ovalnine/processing.nvim) ![](https://img.shields.io/github/last-commit/ovalnine/processing.nvim) ![](https://img.shields.io/github/commit-activity/y/ovalnine/processing.nvim)
 
 #### Spade
-
 
 #### Radiant
 
