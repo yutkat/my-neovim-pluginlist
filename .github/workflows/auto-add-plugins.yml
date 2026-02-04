@@ -2,7 +2,7 @@ name: Auto Add New Plugins
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "15 0 * * *"
   workflow_dispatch:
 
 jobs:
