@@ -59,6 +59,7 @@
 - [colomb8/rambo.nvim](https://github.com/colomb8/rambo.nvim) ![](https://img.shields.io/github/stars/colomb8/rambo.nvim) ![](https://img.shields.io/github/last-commit/colomb8/rambo.nvim) ![](https://img.shields.io/github/commit-activity/y/colomb8/rambo.nvim)
 - [codebam/easymode.nvim](https://github.com/codebam/easymode.nvim) ![](https://img.shields.io/github/stars/codebam/easymode.nvim) ![](https://img.shields.io/github/last-commit/codebam/easymode.nvim) ![](https://img.shields.io/github/commit-activity/y/codebam/easymode.nvim)
 - [StackInTheWild/elevator.nvim](https://github.com/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/stars/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/last-commit/StackInTheWild/elevator.nvim) ![](https://img.shields.io/github/commit-activity/y/StackInTheWild/elevator.nvim)
+- [Kaiser-Yang/maplayer.nvim](https://github.com/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/maplayer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/maplayer.nvim)
 
 ### map function utiliy
 

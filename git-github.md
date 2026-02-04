@@ -586,6 +586,7 @@
 - [ryugen04/remora.nvim](https://github.com/ryugen04/remora.nvim) ![](https://img.shields.io/github/stars/ryugen04/remora.nvim) ![](https://img.shields.io/github/last-commit/ryugen04/remora.nvim) ![](https://img.shields.io/github/commit-activity/y/ryugen04/remora.nvim)
 - [0xKitsune/pr.nvim](https://github.com/0xKitsune/pr.nvim) ![](https://img.shields.io/github/stars/0xKitsune/pr.nvim) ![](https://img.shields.io/github/last-commit/0xKitsune/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKitsune/pr.nvim)
 - [bajor/nvim-raccoon](https://github.com/bajor/nvim-raccoon) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon)
+- [sQVe/nit.nvim](https://github.com/sQVe/nit.nvim) ![](https://img.shields.io/github/stars/sQVe/nit.nvim) ![](https://img.shields.io/github/last-commit/sQVe/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/nit.nvim)
 
 #### Pull Request Comment
 

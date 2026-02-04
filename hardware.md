@@ -147,6 +147,7 @@
 #### WPILib
 
 - [spacey-sooty/wpilib.nvim](https://github.com/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/stars/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/last-commit/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/spacey-sooty/wpilib.nvim)
+- [Illuminate-dev/nvim-wpilib](https://github.com/Illuminate-dev/nvim-wpilib) ![](https://img.shields.io/github/stars/Illuminate-dev/nvim-wpilib) ![](https://img.shields.io/github/last-commit/Illuminate-dev/nvim-wpilib) ![](https://img.shields.io/github/commit-activity/y/Illuminate-dev/nvim-wpilib)
 
 #### Analyzer4D
 

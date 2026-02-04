@@ -73,6 +73,7 @@
 - [JulianSchubel/nvim-launchpad](https://github.com/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-launchpad) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-launchpad)
 - [frostzt/workspaces.nvim](https://github.com/frostzt/workspaces.nvim) ![](https://img.shields.io/github/stars/frostzt/workspaces.nvim) ![](https://img.shields.io/github/last-commit/frostzt/workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/workspaces.nvim)
 - [josephschmitt/pj.nvim](https://github.com/josephschmitt/pj.nvim) ![](https://img.shields.io/github/stars/josephschmitt/pj.nvim) ![](https://img.shields.io/github/last-commit/josephschmitt/pj.nvim) ![](https://img.shields.io/github/commit-activity/y/josephschmitt/pj.nvim)
+- [DanyPops/stem.nvim](https://github.com/DanyPops/stem.nvim) ![](https://img.shields.io/github/stars/DanyPops/stem.nvim) ![](https://img.shields.io/github/last-commit/DanyPops/stem.nvim) ![](https://img.shields.io/github/commit-activity/y/DanyPops/stem.nvim)
 
 ### Project Root Detector
 
