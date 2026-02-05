@@ -699,6 +699,7 @@
 - [greenarmor/tatacodes.nvim](https://github.com/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/stars/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/last-commit/greenarmor/tatacodes.nvim) ![](https://img.shields.io/github/commit-activity/y/greenarmor/tatacodes.nvim)
 - [viniciussoares/ai-cli.nvim](https://github.com/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/stars/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/last-commit/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciussoares/ai-cli.nvim)
 - [njg7194/openclaw.nvim](https://github.com/njg7194/openclaw.nvim) ![](https://img.shields.io/github/stars/njg7194/openclaw.nvim) ![](https://img.shields.io/github/last-commit/njg7194/openclaw.nvim) ![](https://img.shields.io/github/commit-activity/y/njg7194/openclaw.nvim)
+- [aldoborrero/pi-agent.nvim](https://github.com/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/stars/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldoborrero/pi-agent.nvim)
 
 ## ECA
 
@@ -848,6 +849,7 @@
 - [AlessandMonte/mcphub.nvim](https://github.com/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/stars/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/last-commit/AlessandMonte/mcphub.nvim) ![](https://img.shields.io/github/commit-activity/y/AlessandMonte/mcphub.nvim)
 - [guill/mcp-tools.nvim](https://github.com/guill/mcp-tools.nvim) ![](https://img.shields.io/github/stars/guill/mcp-tools.nvim) ![](https://img.shields.io/github/last-commit/guill/mcp-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/guill/mcp-tools.nvim)
 - [zaucy/mcp.nvim](https://github.com/zaucy/mcp.nvim) ![](https://img.shields.io/github/stars/zaucy/mcp.nvim) ![](https://img.shields.io/github/last-commit/zaucy/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/mcp.nvim)
+- [arismoko/buddy.nvim](https://github.com/arismoko/buddy.nvim) ![](https://img.shields.io/github/stars/arismoko/buddy.nvim) ![](https://img.shields.io/github/last-commit/arismoko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/arismoko/buddy.nvim)
 
 ### MCP SDK
 

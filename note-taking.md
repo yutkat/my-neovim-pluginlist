@@ -402,6 +402,7 @@
 
 - [joeblubaugh/nvim-beads](https://github.com/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/stars/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/last-commit/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/commit-activity/y/joeblubaugh/nvim-beads)
 - [divramod/shooter.nvim](https://github.com/divramod/shooter.nvim) ![](https://img.shields.io/github/stars/divramod/shooter.nvim) ![](https://img.shields.io/github/last-commit/divramod/shooter.nvim) ![](https://img.shields.io/github/commit-activity/y/divramod/shooter.nvim)
+- [frankogenrwoth/backlog.nvim](https://github.com/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/stars/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/last-commit/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/commit-activity/y/frankogenrwoth/backlog.nvim)
 
 ### Wiki
 
@@ -438,6 +439,7 @@
 - [aiya000/nvim-mado-scratch-buffer](https://github.com/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/stars/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/last-commit/aiya000/nvim-mado-scratch-buffer) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-mado-scratch-buffer)
 - [diegoortizmatajira/workspace-scratch-files.nvim](https://github.com/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/workspace-scratch-files.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/workspace-scratch-files.nvim)
 - [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
+- [leo-alvarenga/drift.nvim](https://github.com/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/stars/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/last-commit/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/commit-activity/y/leo-alvarenga/drift.nvim)
 - [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
 - [nack098/nvim-note](https://github.com/nack098/nvim-note) ![](https://img.shields.io/github/stars/nack098/nvim-note) ![](https://img.shields.io/github/last-commit/nack098/nvim-note) ![](https://img.shields.io/github/commit-activity/y/nack098/nvim-note)
 - [fiquellcarter/floatnotes.nvim](https://github.com/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/stars/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fiquellcarter/floatnotes.nvim)

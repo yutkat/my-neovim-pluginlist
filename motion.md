@@ -112,6 +112,7 @@
 - [totochi-2022/clever-f.nvim](https://github.com/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/stars/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/last-commit/totochi-2022/clever-f.nvim) ![](https://img.shields.io/github/commit-activity/y/totochi-2022/clever-f.nvim)
 - [trevorkavanaugh/move.nvim](https://github.com/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/stars/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/last-commit/trevorkavanaugh/move.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorkavanaugh/move.nvim)
 - [kiyoon/repeatable-move.nvim](https://github.com/kiyoon/repeatable-move.nvim) ![](https://img.shields.io/github/stars/kiyoon/repeatable-move.nvim) ![](https://img.shields.io/github/last-commit/kiyoon/repeatable-move.nvim) ![](https://img.shields.io/github/commit-activity/y/kiyoon/repeatable-move.nvim)
+- [Kaiser-Yang/repmove.nvim](https://github.com/Kaiser-Yang/repmove.nvim) ![](https://img.shields.io/github/stars/Kaiser-Yang/repmove.nvim) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/repmove.nvim) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/repmove.nvim)
 
 #### Show jump word
 

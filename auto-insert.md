@@ -63,6 +63,7 @@
 - [frangio/parity.nvim](https://github.com/frangio/parity.nvim) ![](https://img.shields.io/github/stars/frangio/parity.nvim) ![](https://img.shields.io/github/last-commit/frangio/parity.nvim) ![](https://img.shields.io/github/commit-activity/y/frangio/parity.nvim)
 - [byitkc/autoclose.nvim](https://github.com/byitkc/autoclose.nvim) ![](https://img.shields.io/github/stars/byitkc/autoclose.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autoclose.nvim)
 - [gzygmanski/not-so-autopairs.nvim](https://github.com/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/stars/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/last-commit/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/gzygmanski/not-so-autopairs.nvim)
+- [alexghergh/pairs-jump.nvim](https://github.com/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/stars/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/last-commit/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/alexghergh/pairs-jump.nvim)
 
 ### escape pairs
 
