@@ -396,6 +396,7 @@
 
 - [rushjs1/nuxt-goto-alias.nvim](https://github.com/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/stars/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/last-commit/rushjs1/nuxt-goto-alias.nvim) ![](https://img.shields.io/github/commit-activity/y/rushjs1/nuxt-goto-alias.nvim)
 - [aaronred345/nuxt-dx-tools.nvim](https://github.com/aaronred345/nuxt-dx-tools.nvim) ![](https://img.shields.io/github/stars/aaronred345/nuxt-dx-tools.nvim) ![](https://img.shields.io/github/last-commit/aaronred345/nuxt-dx-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronred345/nuxt-dx-tools.nvim)
+- [tomsour1s/nuxt-goto.nvim](https://github.com/tomsour1s/nuxt-goto.nvim) ![](https://img.shields.io/github/stars/tomsour1s/nuxt-goto.nvim) ![](https://img.shields.io/github/last-commit/tomsour1s/nuxt-goto.nvim) ![](https://img.shields.io/github/commit-activity/y/tomsour1s/nuxt-goto.nvim)
 
 ### Angular
 

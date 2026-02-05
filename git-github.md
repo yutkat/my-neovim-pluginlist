@@ -203,6 +203,7 @@
 - [andostronaut/cocli.nvim](https://github.com/andostronaut/cocli.nvim) ![](https://img.shields.io/github/stars/andostronaut/cocli.nvim) ![](https://img.shields.io/github/last-commit/andostronaut/cocli.nvim) ![](https://img.shields.io/github/commit-activity/y/andostronaut/cocli.nvim)
 - [yus-works/csc.nvim](https://github.com/yus-works/csc.nvim) ![](https://img.shields.io/github/stars/yus-works/csc.nvim) ![](https://img.shields.io/github/last-commit/yus-works/csc.nvim) ![](https://img.shields.io/github/commit-activity/y/yus-works/csc.nvim)
 - [zerbiniandrea/conventional-commits.nvim](https://github.com/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/stars/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/last-commit/zerbiniandrea/conventional-commits.nvim) ![](https://img.shields.io/github/commit-activity/y/zerbiniandrea/conventional-commits.nvim)
+- [TheOrangePuff/nvim-commit-prefix](https://github.com/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/stars/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/last-commit/TheOrangePuff/nvim-commit-prefix) ![](https://img.shields.io/github/commit-activity/y/TheOrangePuff/nvim-commit-prefix)
 
 #### co authored
 
@@ -392,6 +393,7 @@
 - [kilavila/nvim-gitignore](https://github.com/kilavila/nvim-gitignore) ![](https://img.shields.io/github/stars/kilavila/nvim-gitignore) ![](https://img.shields.io/github/last-commit/kilavila/nvim-gitignore) ![](https://img.shields.io/github/commit-activity/y/kilavila/nvim-gitignore)
 - [mplieske/gitignore.nvim](https://github.com/mplieske/gitignore.nvim) ![](https://img.shields.io/github/stars/mplieske/gitignore.nvim) ![](https://img.shields.io/github/last-commit/mplieske/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/mplieske/gitignore.nvim)
 - [bwpge/gitignore.nvim](https://github.com/bwpge/gitignore.nvim) ![](https://img.shields.io/github/stars/bwpge/gitignore.nvim) ![](https://img.shields.io/github/last-commit/bwpge/gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/bwpge/gitignore.nvim)
+- [llawn/telescope-gitignore.nvim](https://github.com/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/stars/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/last-commit/llawn/telescope-gitignore.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/telescope-gitignore.nvim)
 
 ### git hook
 
@@ -618,6 +620,7 @@
 - [linrongbin16/gitlinker.nvim](https://github.com/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/stars/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/gitlinker.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/gitlinker.nvim)
 - [liouk/gitlinks.nvim](https://github.com/liouk/gitlinks.nvim) ![](https://img.shields.io/github/stars/liouk/gitlinks.nvim) ![](https://img.shields.io/github/last-commit/liouk/gitlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/liouk/gitlinks.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
+- [sontixyou/open-gh.nvim](https://github.com/sontixyou/open-gh.nvim) ![](https://img.shields.io/github/stars/sontixyou/open-gh.nvim) ![](https://img.shields.io/github/last-commit/sontixyou/open-gh.nvim) ![](https://img.shields.io/github/commit-activity/y/sontixyou/open-gh.nvim)
 - [RyugaXhypeR/git_link.nvim](https://github.com/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/stars/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/last-commit/RyugaXhypeR/git_link.nvim) ![](https://img.shields.io/github/commit-activity/y/RyugaXhypeR/git_link.nvim)
 - [9seconds/repolink.nvim](https://github.com/9seconds/repolink.nvim) ![](https://img.shields.io/github/stars/9seconds/repolink.nvim) ![](https://img.shields.io/github/last-commit/9seconds/repolink.nvim) ![](https://img.shields.io/github/commit-activity/y/9seconds/repolink.nvim)
 - [josephwoodward/github-browse.nvim](https://github.com/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/stars/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/last-commit/josephwoodward/github-browse.nvim) ![](https://img.shields.io/github/commit-activity/y/josephwoodward/github-browse.nvim)
