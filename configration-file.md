@@ -133,7 +133,6 @@
 
 ### Drools Rule Language
 
-- [errantepiphany/drools.nvim](https://github.com/errantepiphany/drools.nvim) ![](https://img.shields.io/github/stars/errantepiphany/drools.nvim) ![](https://img.shields.io/github/last-commit/errantepiphany/drools.nvim) ![](https://img.shields.io/github/commit-activity/y/errantepiphany/drools.nvim)
 
 ### Log
 
