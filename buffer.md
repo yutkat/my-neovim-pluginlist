@@ -228,6 +228,7 @@
 - [ALPHAvibe/telescope-recent-files-vibes.nvim](https://github.com/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-recent-files-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-recent-files-vibes.nvim)
 - [maxzwerin/oldfiles.nvim](https://github.com/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/stars/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxzwerin/oldfiles.nvim)
 - [coil398/mrubuftab.nvim](https://github.com/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/stars/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/last-commit/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/commit-activity/y/coil398/mrubuftab.nvim)
+- [neovim-idea/switcher-nvim](https://github.com/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/stars/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/switcher-nvim)
 
 ##### remote open
 
