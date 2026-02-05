@@ -299,6 +299,7 @@
 - [Enigama/remarks.nvim](https://github.com/Enigama/remarks.nvim) ![](https://img.shields.io/github/stars/Enigama/remarks.nvim) ![](https://img.shields.io/github/last-commit/Enigama/remarks.nvim) ![](https://img.shields.io/github/commit-activity/y/Enigama/remarks.nvim)
 - [dallagi/git-timemachine.nvim](https://github.com/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/stars/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/last-commit/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/dallagi/git-timemachine.nvim)
 - [prasannashrestha011/git-explorer.nvim](https://github.com/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/stars/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/last-commit/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/prasannashrestha011/git-explorer.nvim)
+- [LionyxML/gitlineage.nvim](https://github.com/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/stars/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/last-commit/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/commit-activity/y/LionyxML/gitlineage.nvim)
 
 #### preview contents
 
