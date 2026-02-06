@@ -78,7 +78,7 @@ jobs:
       - name: Categorize plugins with Codex
         if: steps.check_plugins.outputs.plugin_count != '0'
         run: |
-          codex --ask-for-approval never exec --sandbox danger-full-access '$add'
+          codex -m gpt-5.3-codex --ask-for-approval never exec --sandbox danger-full-access '$add'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
