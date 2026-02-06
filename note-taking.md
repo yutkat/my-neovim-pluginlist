@@ -403,6 +403,8 @@
 - [joeblubaugh/nvim-beads](https://github.com/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/stars/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/last-commit/joeblubaugh/nvim-beads) ![](https://img.shields.io/github/commit-activity/y/joeblubaugh/nvim-beads)
 - [divramod/shooter.nvim](https://github.com/divramod/shooter.nvim) ![](https://img.shields.io/github/stars/divramod/shooter.nvim) ![](https://img.shields.io/github/last-commit/divramod/shooter.nvim) ![](https://img.shields.io/github/commit-activity/y/divramod/shooter.nvim)
 - [frankogenrwoth/backlog.nvim](https://github.com/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/stars/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/last-commit/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/commit-activity/y/frankogenrwoth/backlog.nvim)
+- [dtomvan/tasks.nvim](https://github.com/dtomvan/tasks.nvim) ![](https://img.shields.io/github/stars/dtomvan/tasks.nvim) ![](https://img.shields.io/github/last-commit/dtomvan/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/dtomvan/tasks.nvim)
+- [sandepten/worklog.nvim](https://github.com/sandepten/worklog.nvim) ![](https://img.shields.io/github/stars/sandepten/worklog.nvim) ![](https://img.shields.io/github/last-commit/sandepten/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/sandepten/worklog.nvim)
 
 ### Wiki
 
