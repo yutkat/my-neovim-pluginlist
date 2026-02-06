@@ -363,6 +363,7 @@
 - [Yeshwanthyk/resolver.nvim](https://github.com/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/stars/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/last-commit/Yeshwanthyk/resolver.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeshwanthyk/resolver.nvim)
 - [madmaxieee/unclash.nvim](https://github.com/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/stars/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/unclash.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/unclash.nvim)
 - [jcucci/weavr.nvim](https://github.com/jcucci/weavr.nvim) ![](https://img.shields.io/github/stars/jcucci/weavr.nvim) ![](https://img.shields.io/github/last-commit/jcucci/weavr.nvim) ![](https://img.shields.io/github/commit-activity/y/jcucci/weavr.nvim)
+- [chojs23/ec](https://github.com/chojs23/ec) ![](https://img.shields.io/github/stars/chojs23/ec) ![](https://img.shields.io/github/last-commit/chojs23/ec) ![](https://img.shields.io/github/commit-activity/y/chojs23/ec)
 
 ### git pull
 
