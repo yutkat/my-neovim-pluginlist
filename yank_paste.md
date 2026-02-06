@@ -101,6 +101,7 @@
 - [mikko-kohtala/copy-filepath.nvim](https://github.com/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/stars/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/last-commit/mikko-kohtala/copy-filepath.nvim) ![](https://img.shields.io/github/commit-activity/y/mikko-kohtala/copy-filepath.nvim)
 - [ywpkwon/yank-path.nvim](https://github.com/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/stars/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/last-commit/ywpkwon/yank-path.nvim) ![](https://img.shields.io/github/commit-activity/y/ywpkwon/yank-path.nvim)
 - [axlebedev/yank-filename.nvim](https://github.com/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/stars/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/last-commit/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/commit-activity/y/axlebedev/yank-filename.nvim)
+- [ireydiak/le-chemin.nvim](https://github.com/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/stars/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/last-commit/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/commit-activity/y/ireydiak/le-chemin.nvim)
 
 ### Register Selector
 

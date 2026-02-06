@@ -423,6 +423,7 @@
 - [jayadeepk/claude-agents.nvim](https://github.com/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/stars/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/last-commit/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jayadeepk/claude-agents.nvim)
 - [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
 - [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
+- [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
 
 ### Amazon Q
 
@@ -600,6 +601,7 @@
 - [Hashino/opencode-meta.nvim](https://github.com/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/stars/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/last-commit/Hashino/opencode-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/opencode-meta.nvim)
 - [MisterGrinvalds/opencode.nvim](https://github.com/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/opencode.nvim)
 - [krmcbride/opencode.nvim](https://github.com/krmcbride/opencode.nvim) ![](https://img.shields.io/github/stars/krmcbride/opencode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/opencode.nvim)
+- [natsunlee/doitforme.nvim](https://github.com/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/stars/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/last-commit/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/commit-activity/y/natsunlee/doitforme.nvim)
 
 ### khulnasoft
 
@@ -665,6 +667,7 @@
 - [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
+- [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
 
 ### Amp
 
@@ -700,6 +703,7 @@
 - [viniciussoares/ai-cli.nvim](https://github.com/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/stars/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/last-commit/viniciussoares/ai-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/viniciussoares/ai-cli.nvim)
 - [njg7194/openclaw.nvim](https://github.com/njg7194/openclaw.nvim) ![](https://img.shields.io/github/stars/njg7194/openclaw.nvim) ![](https://img.shields.io/github/last-commit/njg7194/openclaw.nvim) ![](https://img.shields.io/github/commit-activity/y/njg7194/openclaw.nvim)
 - [aldoborrero/pi-agent.nvim](https://github.com/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/stars/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldoborrero/pi-agent.nvim)
+- [Elmonade/pi-mono.nvim](https://github.com/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/stars/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/last-commit/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/Elmonade/pi-mono.nvim)
 
 ## ECA
 

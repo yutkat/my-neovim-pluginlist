@@ -19,6 +19,7 @@
 - [68mschmitt/custom-cellular-automaton.nvim](https://github.com/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/stars/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/custom-cellular-automaton.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/custom-cellular-automaton.nvim)
 - [vukvukovich/breakdown.nvim](https://github.com/vukvukovich/breakdown.nvim) ![](https://img.shields.io/github/stars/vukvukovich/breakdown.nvim) ![](https://img.shields.io/github/last-commit/vukvukovich/breakdown.nvim) ![](https://img.shields.io/github/commit-activity/y/vukvukovich/breakdown.nvim)
 - [QU4SIMOTO/cube.nvim](https://github.com/QU4SIMOTO/cube.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/cube.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/cube.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/cube.nvim)
+- [giuseppesalvi/nvim-ascii-animation](https://github.com/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/stars/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/last-commit/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/commit-activity/y/giuseppesalvi/nvim-ascii-animation)
 
 ### Snow effect
 
