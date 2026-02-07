@@ -248,6 +248,7 @@
 - [austincrft/dotnet-secrets.nvim](https://github.com/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-secrets.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-secrets.nvim)
 - [austincrft/dotnet-test.nvim](https://github.com/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-test.nvim)
 - [tuliopaim/dotnet-tools.nvim](https://github.com/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dotnet-tools.nvim)
+- [7akimz/neodev-dotnet.nvim](https://github.com/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/stars/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/last-commit/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/7akimz/neodev-dotnet.nvim)
 
 ##### ASP.NET
 

@@ -424,6 +424,7 @@
 - [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
 - [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
 - [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
+- [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
 
 ### Amazon Q
 
@@ -807,6 +808,7 @@
 ## Plan
 
 - [crafts69guy/ai-plans.nvim](https://github.com/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/stars/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/last-commit/crafts69guy/ai-plans.nvim) ![](https://img.shields.io/github/commit-activity/y/crafts69guy/ai-plans.nvim)
+- [elblah/aitodo.nvim](https://github.com/elblah/aitodo.nvim) ![](https://img.shields.io/github/stars/elblah/aitodo.nvim) ![](https://img.shields.io/github/last-commit/elblah/aitodo.nvim) ![](https://img.shields.io/github/commit-activity/y/elblah/aitodo.nvim)
 
 ## REPL
 
@@ -829,11 +831,13 @@
 - [rdainton/share-context.nvim](https://github.com/rdainton/share-context.nvim) ![](https://img.shields.io/github/stars/rdainton/share-context.nvim) ![](https://img.shields.io/github/last-commit/rdainton/share-context.nvim) ![](https://img.shields.io/github/commit-activity/y/rdainton/share-context.nvim)
 - [WarrenZhu050413/nvim-get-ref](https://github.com/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-get-ref)
 - [simonwinther/dir2text.nvim](https://github.com/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/stars/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/dir2text.nvim)
+- [polacekpavel/prompt-yank.nvim](https://github.com/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/stars/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/last-commit/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/polacekpavel/prompt-yank.nvim)
 
 ## LLM context
 
 - [SDGLBL/context-groups.nvim](https://github.com/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/stars/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/context-groups.nvim)
 - [mrilikecoding/clawmarks.nvim](https://github.com/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/stars/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/last-commit/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/mrilikecoding/clawmarks.nvim)
+- [mcncl/context.nvim](https://github.com/mcncl/context.nvim) ![](https://img.shields.io/github/stars/mcncl/context.nvim) ![](https://img.shields.io/github/last-commit/mcncl/context.nvim) ![](https://img.shields.io/github/commit-activity/y/mcncl/context.nvim)
 
 ## RAG
 

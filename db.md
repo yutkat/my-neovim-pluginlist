@@ -39,6 +39,7 @@
 - [csmhowitzer/enhance.nvim](https://github.com/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/enhance.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/enhance.nvim)
 - [dan612/dbquery.nvim](https://github.com/dan612/dbquery.nvim) ![](https://img.shields.io/github/stars/dan612/dbquery.nvim) ![](https://img.shields.io/github/last-commit/dan612/dbquery.nvim) ![](https://img.shields.io/github/commit-activity/y/dan612/dbquery.nvim)
 - [yuito2k/vault.nvim](https://github.com/yuito2k/vault.nvim) ![](https://img.shields.io/github/stars/yuito2k/vault.nvim) ![](https://img.shields.io/github/last-commit/yuito2k/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/yuito2k/vault.nvim)
+- [zerochae/dbab.nvim](https://github.com/zerochae/dbab.nvim) ![](https://img.shields.io/github/stars/zerochae/dbab.nvim) ![](https://img.shields.io/github/last-commit/zerochae/dbab.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/dbab.nvim)
 
 ### SQL
 

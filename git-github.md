@@ -506,6 +506,7 @@
 - [yannvanhalewyn/jujutsu.nvim](https://github.com/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/stars/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/yannvanhalewyn/jujutsu.nvim)
 - [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ![](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![](https://img.shields.io/github/last-commit/jceb/jiejie.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/jiejie.nvim)
 - [lucasadelino/jjtrack](https://github.com/lucasadelino/jjtrack) ![](https://img.shields.io/github/stars/lucasadelino/jjtrack) ![](https://img.shields.io/github/last-commit/lucasadelino/jjtrack) ![](https://img.shields.io/github/commit-activity/y/lucasadelino/jjtrack)
+- [Yanguk/jj-sign.nvim](https://github.com/Yanguk/jj-sign.nvim) ![](https://img.shields.io/github/stars/Yanguk/jj-sign.nvim) ![](https://img.shields.io/github/last-commit/Yanguk/jj-sign.nvim) ![](https://img.shields.io/github/commit-activity/y/Yanguk/jj-sign.nvim)
 
 ### diff
 

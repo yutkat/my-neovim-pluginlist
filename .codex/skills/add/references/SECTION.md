@@ -2091,6 +2091,7 @@
 #### Matrix.org
 #### Discord
 #### Slack
+#### Google Chat
 #### Telegram
 #### IRC
 #### iMessage
