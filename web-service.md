@@ -106,7 +106,6 @@
 
 #### Slack
 
-- [alex-laycalvert/slack.nvim](https://github.com/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/stars/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/last-commit/alex-laycalvert/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-laycalvert/slack.nvim)
 - [ntk148v/slack.nvim](https://github.com/ntk148v/slack.nvim) ![](https://img.shields.io/github/stars/ntk148v/slack.nvim) ![](https://img.shields.io/github/last-commit/ntk148v/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/ntk148v/slack.nvim)
 - [albertofp/nvim-slack](https://github.com/albertofp/nvim-slack) ![](https://img.shields.io/github/stars/albertofp/nvim-slack) ![](https://img.shields.io/github/last-commit/albertofp/nvim-slack) ![](https://img.shields.io/github/commit-activity/y/albertofp/nvim-slack)
 - [Ramilito/slack.nvim](https://github.com/Ramilito/slack.nvim) ![](https://img.shields.io/github/stars/Ramilito/slack.nvim) ![](https://img.shields.io/github/last-commit/Ramilito/slack.nvim) ![](https://img.shields.io/github/commit-activity/y/Ramilito/slack.nvim)
@@ -168,7 +167,6 @@
 
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
 - [Awallace3/LeetGPU.nvim](https://github.com/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/stars/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/last-commit/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/commit-activity/y/Awallace3/LeetGPU.nvim)
-- [kj-111/dodona.nvim](https://github.com/kj-111/dodona.nvim) ![](https://img.shields.io/github/stars/kj-111/dodona.nvim) ![](https://img.shields.io/github/last-commit/kj-111/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-111/dodona.nvim)
 
 ### Local server
 
