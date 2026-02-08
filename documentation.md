@@ -213,6 +213,7 @@
 - [urugus/mdbuf.nvim](https://github.com/urugus/mdbuf.nvim) ![](https://img.shields.io/github/stars/urugus/mdbuf.nvim) ![](https://img.shields.io/github/last-commit/urugus/mdbuf.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/mdbuf.nvim)
 - [urugus/kagami.nvim](https://github.com/urugus/kagami.nvim) ![](https://img.shields.io/github/stars/urugus/kagami.nvim) ![](https://img.shields.io/github/last-commit/urugus/kagami.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/kagami.nvim)
 - [roerohan/mark.nvim](https://github.com/roerohan/mark.nvim) ![](https://img.shields.io/github/stars/roerohan/mark.nvim) ![](https://img.shields.io/github/last-commit/roerohan/mark.nvim) ![](https://img.shields.io/github/commit-activity/y/roerohan/mark.nvim)
+- [toki83w/remark-preview.nvim](https://github.com/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/stars/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/last-commit/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/remark-preview.nvim)
 
 ##### Deno
 

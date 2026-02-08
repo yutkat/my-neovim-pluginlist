@@ -58,6 +58,7 @@
 - [grqphical/rest.nvim](https://github.com/grqphical/rest.nvim) ![](https://img.shields.io/github/stars/grqphical/rest.nvim) ![](https://img.shields.io/github/last-commit/grqphical/rest.nvim) ![](https://img.shields.io/github/commit-activity/y/grqphical/rest.nvim)
 - [eumis/runb.nvim](https://github.com/eumis/runb.nvim) ![](https://img.shields.io/github/stars/eumis/runb.nvim) ![](https://img.shields.io/github/last-commit/eumis/runb.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/runb.nvim)
 - [Xxax/nrest.nvim](https://github.com/Xxax/nrest.nvim) ![](https://img.shields.io/github/stars/Xxax/nrest.nvim) ![](https://img.shields.io/github/last-commit/Xxax/nrest.nvim) ![](https://img.shields.io/github/commit-activity/y/Xxax/nrest.nvim)
+- [AFROnin/restisch.nvim](https://github.com/AFROnin/restisch.nvim) ![](https://img.shields.io/github/stars/AFROnin/restisch.nvim) ![](https://img.shields.io/github/last-commit/AFROnin/restisch.nvim) ![](https://img.shields.io/github/commit-activity/y/AFROnin/restisch.nvim)
 
 #### .http / .rest file
 

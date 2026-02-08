@@ -453,6 +453,7 @@
 - [asmorris/line_notes.nvim](https://github.com/asmorris/line_notes.nvim) ![](https://img.shields.io/github/stars/asmorris/line_notes.nvim) ![](https://img.shields.io/github/last-commit/asmorris/line_notes.nvim) ![](https://img.shields.io/github/commit-activity/y/asmorris/line_notes.nvim)
 - [vvilhelmsen/ghostnotes.nvim](https://github.com/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/ghostnotes.nvim)
 - [daniprol/sidenote.nvim](https://github.com/daniprol/sidenote.nvim) ![](https://img.shields.io/github/stars/daniprol/sidenote.nvim) ![](https://img.shields.io/github/last-commit/daniprol/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/daniprol/sidenote.nvim)
+- [jacobb/annotate.nvim](https://github.com/jacobb/annotate.nvim) ![](https://img.shields.io/github/stars/jacobb/annotate.nvim) ![](https://img.shields.io/github/last-commit/jacobb/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobb/annotate.nvim)
 
 ### Anki
 
