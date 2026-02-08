@@ -258,6 +258,7 @@
 - [ragnarok22/chat-ai.nvim](https://github.com/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/stars/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/chat-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/chat-ai.nvim)
 - [lupeke/boldo.nvim](https://github.com/lupeke/boldo.nvim) ![](https://img.shields.io/github/stars/lupeke/boldo.nvim) ![](https://img.shields.io/github/last-commit/lupeke/boldo.nvim) ![](https://img.shields.io/github/commit-activity/y/lupeke/boldo.nvim)
 - [oleksiiluchnikov/telescope-prompts.nvim](https://github.com/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/telescope-prompts.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/telescope-prompts.nvim)
+- [Xetius/brain.nvim](https://github.com/Xetius/brain.nvim) ![](https://img.shields.io/github/stars/Xetius/brain.nvim) ![](https://img.shields.io/github/last-commit/Xetius/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/Xetius/brain.nvim)
 - [brewinski/avante-cody.nvim](https://github.com/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/stars/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/last-commit/brewinski/avante-cody.nvim) ![](https://img.shields.io/github/commit-activity/y/brewinski/avante-cody.nvim)
 - [0xrusowsky/nvim-ctx-ingest](https://github.com/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/stars/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/last-commit/0xrusowsky/nvim-ctx-ingest) ![](https://img.shields.io/github/commit-activity/y/0xrusowsky/nvim-ctx-ingest)
 - [bajistic/llm.nvim](https://github.com/bajistic/llm.nvim) ![](https://img.shields.io/github/stars/bajistic/llm.nvim) ![](https://img.shields.io/github/last-commit/bajistic/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/bajistic/llm.nvim)
@@ -603,6 +604,7 @@
 - [MisterGrinvalds/opencode.nvim](https://github.com/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/opencode.nvim)
 - [krmcbride/opencode.nvim](https://github.com/krmcbride/opencode.nvim) ![](https://img.shields.io/github/stars/krmcbride/opencode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/opencode.nvim)
 - [natsunlee/doitforme.nvim](https://github.com/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/stars/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/last-commit/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/commit-activity/y/natsunlee/doitforme.nvim)
+- [Sped0n/ocx.nvim](https://github.com/Sped0n/ocx.nvim) ![](https://img.shields.io/github/stars/Sped0n/ocx.nvim) ![](https://img.shields.io/github/last-commit/Sped0n/ocx.nvim) ![](https://img.shields.io/github/commit-activity/y/Sped0n/ocx.nvim)
 
 ### khulnasoft
 
@@ -669,6 +671,7 @@
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
+- [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
 
 ### Amp
 

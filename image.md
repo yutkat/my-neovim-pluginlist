@@ -131,6 +131,8 @@
 
 ### Graph
 
+- [statusfailed/metacat.nvim](https://github.com/statusfailed/metacat.nvim) ![](https://img.shields.io/github/stars/statusfailed/metacat.nvim) ![](https://img.shields.io/github/last-commit/statusfailed/metacat.nvim) ![](https://img.shields.io/github/commit-activity/y/statusfailed/metacat.nvim)
+
 #### Box drawing
 
 - [nullromo/telescope-box-drawing.nvim](https://github.com/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/stars/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/last-commit/nullromo/telescope-box-drawing.nvim) ![](https://img.shields.io/github/commit-activity/y/nullromo/telescope-box-drawing.nvim)
@@ -150,3 +152,4 @@
 - [rpapallas/illustrate.nvim](https://github.com/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/stars/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/last-commit/rpapallas/illustrate.nvim) ![](https://img.shields.io/github/commit-activity/y/rpapallas/illustrate.nvim)
 - [louis-dj/doodle.nvim](https://github.com/louis-dj/doodle.nvim) ![](https://img.shields.io/github/stars/louis-dj/doodle.nvim) ![](https://img.shields.io/github/last-commit/louis-dj/doodle.nvim) ![](https://img.shields.io/github/commit-activity/y/louis-dj/doodle.nvim)
 - [piwvis/nvim-whiteboard](https://github.com/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/stars/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/last-commit/piwvis/nvim-whiteboard) ![](https://img.shields.io/github/commit-activity/y/piwvis/nvim-whiteboard)
+- [agrathwohl/nvim-whiteboard](https://github.com/agrathwohl/nvim-whiteboard) ![](https://img.shields.io/github/stars/agrathwohl/nvim-whiteboard) ![](https://img.shields.io/github/last-commit/agrathwohl/nvim-whiteboard) ![](https://img.shields.io/github/commit-activity/y/agrathwohl/nvim-whiteboard)

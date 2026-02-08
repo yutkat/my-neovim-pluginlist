@@ -260,3 +260,4 @@
 
 - [FtVim/norminette-lint.nvim](https://github.com/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/stars/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/last-commit/FtVim/norminette-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/FtVim/norminette-lint.nvim)
 - [FtVim/ft_count_lines.nvim](https://github.com/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/stars/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/last-commit/FtVim/ft_count_lines.nvim) ![](https://img.shields.io/github/commit-activity/y/FtVim/ft_count_lines.nvim)
+- [Stefanistkuhl/dogshitnorm.nvim](https://github.com/Stefanistkuhl/dogshitnorm.nvim) ![](https://img.shields.io/github/stars/Stefanistkuhl/dogshitnorm.nvim) ![](https://img.shields.io/github/last-commit/Stefanistkuhl/dogshitnorm.nvim) ![](https://img.shields.io/github/commit-activity/y/Stefanistkuhl/dogshitnorm.nvim)

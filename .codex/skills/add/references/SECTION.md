@@ -845,6 +845,7 @@
 ##### SAM
 ##### CloudWatch
 #### Azure
+#### SailPoint
 #### Adobe
 #### Salesforce
 ##### Microsoft Dynamics 365 Business Central

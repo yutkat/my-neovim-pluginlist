@@ -53,6 +53,7 @@
       - [SAM](#sam)
       - [CloudWatch](#cloudwatch)
     - [Azure](#azure)
+    - [SailPoint](#sailpoint)
     - [Adobe](#adobe)
     - [Salesforce](#salesforce)
       - [Microsoft Dynamics 365 Business Central](#microsoft-dynamics-365-business-central)
@@ -279,6 +280,7 @@
 - [timonviola/terraform-doc-browser.nvim](https://github.com/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/stars/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/last-commit/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/timonviola/terraform-doc-browser.nvim)
 - [mariuskimmina/tfapply.nvim](https://github.com/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/stars/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/last-commit/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/commit-activity/y/mariuskimmina/tfapply.nvim)
 - [mhiro2/tf-docs.nvim](https://github.com/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/stars/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/tf-docs.nvim)
+- [ellsclytn/terraform-address.nvim](https://github.com/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/stars/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/last-commit/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/commit-activity/y/ellsclytn/terraform-address.nvim)
 
 ##### atmos
 
@@ -349,6 +351,10 @@
 - [Wotee/adoboards.nvim](https://github.com/Wotee/adoboards.nvim) ![](https://img.shields.io/github/stars/Wotee/adoboards.nvim) ![](https://img.shields.io/github/last-commit/Wotee/adoboards.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/adoboards.nvim)
 - [jampow/nvim-azure-devops-plugin](https://github.com/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/stars/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/last-commit/jampow/nvim-azure-devops-plugin) ![](https://img.shields.io/github/commit-activity/y/jampow/nvim-azure-devops-plugin)
 - [thomazmoura/workhorse.nvim](https://github.com/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/stars/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/last-commit/thomazmoura/workhorse.nvim) ![](https://img.shields.io/github/commit-activity/y/thomazmoura/workhorse.nvim)
+
+#### SailPoint
+
+- [yohanduartep/nvim-sailpoint-identitynow](https://github.com/yohanduartep/nvim-sailpoint-identitynow) ![](https://img.shields.io/github/stars/yohanduartep/nvim-sailpoint-identitynow) ![](https://img.shields.io/github/last-commit/yohanduartep/nvim-sailpoint-identitynow) ![](https://img.shields.io/github/commit-activity/y/yohanduartep/nvim-sailpoint-identitynow)
 
 #### Adobe
 

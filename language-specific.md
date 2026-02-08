@@ -478,6 +478,7 @@
 ### WSL
 
 - [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)
+- [lmgraf/wsl-clipboard.nvim](https://github.com/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/stars/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/last-commit/lmgraf/wsl-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/lmgraf/wsl-clipboard.nvim)
 
 #### CQL
 
@@ -858,6 +859,7 @@
 #### Slang
 
 - [sgaulter/slang-server.nvim](https://github.com/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/stars/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/last-commit/sgaulter/slang-server.nvim) ![](https://img.shields.io/github/commit-activity/y/sgaulter/slang-server.nvim)
+- [pixelsandpointers/slang.nvim](https://github.com/pixelsandpointers/slang.nvim) ![](https://img.shields.io/github/stars/pixelsandpointers/slang.nvim) ![](https://img.shields.io/github/last-commit/pixelsandpointers/slang.nvim) ![](https://img.shields.io/github/commit-activity/y/pixelsandpointers/slang.nvim)
 
 #### NASM
 

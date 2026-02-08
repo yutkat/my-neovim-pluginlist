@@ -134,6 +134,7 @@
 - [sk1t0n/vim-top-keymaps.nvim](https://github.com/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/stars/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/last-commit/sk1t0n/vim-top-keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/sk1t0n/vim-top-keymaps.nvim)
 - [bezlant/unused.nvim](https://github.com/bezlant/unused.nvim) ![](https://img.shields.io/github/stars/bezlant/unused.nvim) ![](https://img.shields.io/github/last-commit/bezlant/unused.nvim) ![](https://img.shields.io/github/commit-activity/y/bezlant/unused.nvim)
 - [abdul-hamid-achik/keymaps.nvim](https://github.com/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/keymaps.nvim)
+- [vsyaco/keymaps-help.nvim](https://github.com/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/stars/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/keymaps-help.nvim)
 
 ### Prefix Key Binding
 
