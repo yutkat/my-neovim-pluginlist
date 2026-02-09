@@ -43,6 +43,7 @@
 - [Morass/picture-scatch.nvim](https://github.com/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/stars/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/last-commit/Morass/picture-scatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/picture-scatch.nvim)
 - [hmdfrds/focal.nvim](https://github.com/hmdfrds/focal.nvim) ![](https://img.shields.io/github/stars/hmdfrds/focal.nvim) ![](https://img.shields.io/github/last-commit/hmdfrds/focal.nvim) ![](https://img.shields.io/github/commit-activity/y/hmdfrds/focal.nvim)
 - [Luke-McMahon/img.nvim](https://github.com/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/stars/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/last-commit/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/commit-activity/y/Luke-McMahon/img.nvim)
+- [TKasperczyk/snacks-gallery.nvim](https://github.com/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/stars/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/last-commit/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/commit-activity/y/TKasperczyk/snacks-gallery.nvim)
 
 ### Image Magick
 

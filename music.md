@@ -54,6 +54,7 @@
 - [igrep/mpv-ipc.nvim](https://github.com/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/stars/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/last-commit/igrep/mpv-ipc.nvim) ![](https://img.shields.io/github/commit-activity/y/igrep/mpv-ipc.nvim)
 - [ricmonmol/nvim-music-player](https://github.com/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/stars/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/last-commit/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/commit-activity/y/ricmonmol/nvim-music-player)
 - [Dheebz/spotify-cli.nvim](https://github.com/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/stars/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/last-commit/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheebz/spotify-cli.nvim)
+- [mattpetters/nowplaying.nvim](https://github.com/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/stars/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpetters/nowplaying.nvim)
 
 ### sapf
 
@@ -66,6 +67,7 @@
 - [p5quared/apple-music.nvim](https://github.com/p5quared/apple-music.nvim) ![](https://img.shields.io/github/stars/p5quared/apple-music.nvim) ![](https://img.shields.io/github/last-commit/p5quared/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/p5quared/apple-music.nvim)
 - [Vilos92/media-controls.nvim](https://github.com/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/stars/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/last-commit/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/Vilos92/media-controls.nvim)
 - [NoamFav/apple_music.nvim](https://github.com/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/stars/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/last-commit/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/commit-activity/y/NoamFav/apple_music.nvim)
+- [kaminzhi/apple-music.nvim](https://github.com/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/stars/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/apple-music.nvim)
 
 ### YouTube Music
 

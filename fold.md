@@ -43,6 +43,7 @@
 - [hanhanW/mlir-fold.nvim](https://github.com/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/stars/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/last-commit/hanhanW/mlir-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/hanhanW/mlir-fold.nvim)
 - [netmute/foldsigns.nvim](https://github.com/netmute/foldsigns.nvim) ![](https://img.shields.io/github/stars/netmute/foldsigns.nvim) ![](https://img.shields.io/github/last-commit/netmute/foldsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/netmute/foldsigns.nvim)
 - [netmute/foldchanged.nvim](https://github.com/netmute/foldchanged.nvim) ![](https://img.shields.io/github/stars/netmute/foldchanged.nvim) ![](https://img.shields.io/github/last-commit/netmute/foldchanged.nvim) ![](https://img.shields.io/github/commit-activity/y/netmute/foldchanged.nvim)
+- [Skyppex/bellows.nvim](https://github.com/Skyppex/bellows.nvim) ![](https://img.shields.io/github/stars/Skyppex/bellows.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/bellows.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/bellows.nvim)
 
 ### Auto fold
 

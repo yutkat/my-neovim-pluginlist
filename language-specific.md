@@ -901,6 +901,10 @@
 
 - [carlinigraphy/steno.nvim](https://github.com/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/steno.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/steno.nvim)
 
+#### Pine Script
+
+- [kaiiserni/pinescript.nvim](https://github.com/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/stars/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/last-commit/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiiserni/pinescript.nvim)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
@@ -915,6 +919,7 @@
 - [barrett-ruth/cp.nvim](https://github.com/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/cp.nvim)
 - [simta1/cptools.nvim](https://github.com/simta1/cptools.nvim) ![](https://img.shields.io/github/stars/simta1/cptools.nvim) ![](https://img.shields.io/github/last-commit/simta1/cptools.nvim) ![](https://img.shields.io/github/commit-activity/y/simta1/cptools.nvim)
 - [prerit714/cp.nvim](https://github.com/prerit714/cp.nvim) ![](https://img.shields.io/github/stars/prerit714/cp.nvim) ![](https://img.shields.io/github/last-commit/prerit714/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/cp.nvim)
+- [ddl0620/cpmode.nvim](https://github.com/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/stars/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/last-commit/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/commit-activity/y/ddl0620/cpmode.nvim)
 
 ### Codeforces
 

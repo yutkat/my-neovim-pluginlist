@@ -426,6 +426,7 @@
 - [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
 - [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
 - [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
+- [genomewalker/prism.nvim](https://github.com/genomewalker/prism.nvim) ![](https://img.shields.io/github/stars/genomewalker/prism.nvim) ![](https://img.shields.io/github/last-commit/genomewalker/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/genomewalker/prism.nvim)
 
 ### Amazon Q
 
@@ -605,6 +606,7 @@
 - [krmcbride/opencode.nvim](https://github.com/krmcbride/opencode.nvim) ![](https://img.shields.io/github/stars/krmcbride/opencode.nvim) ![](https://img.shields.io/github/last-commit/krmcbride/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/krmcbride/opencode.nvim)
 - [natsunlee/doitforme.nvim](https://github.com/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/stars/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/last-commit/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/commit-activity/y/natsunlee/doitforme.nvim)
 - [Sped0n/ocx.nvim](https://github.com/Sped0n/ocx.nvim) ![](https://img.shields.io/github/stars/Sped0n/ocx.nvim) ![](https://img.shields.io/github/last-commit/Sped0n/ocx.nvim) ![](https://img.shields.io/github/commit-activity/y/Sped0n/ocx.nvim)
+- [wwnbb/opencode.nvim](https://github.com/wwnbb/opencode.nvim) ![](https://img.shields.io/github/stars/wwnbb/opencode.nvim) ![](https://img.shields.io/github/last-commit/wwnbb/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/wwnbb/opencode.nvim)
 
 ### khulnasoft
 
@@ -672,6 +674,7 @@
 - [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
 - [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
+- [0xburden/pi.nvim](https://github.com/0xburden/pi.nvim) ![](https://img.shields.io/github/stars/0xburden/pi.nvim) ![](https://img.shields.io/github/last-commit/0xburden/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xburden/pi.nvim)
 
 ### Amp
 
@@ -835,6 +838,7 @@
 - [WarrenZhu050413/nvim-get-ref](https://github.com/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/stars/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/last-commit/WarrenZhu050413/nvim-get-ref) ![](https://img.shields.io/github/commit-activity/y/WarrenZhu050413/nvim-get-ref)
 - [simonwinther/dir2text.nvim](https://github.com/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/stars/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/dir2text.nvim)
 - [polacekpavel/prompt-yank.nvim](https://github.com/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/stars/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/last-commit/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/polacekpavel/prompt-yank.nvim)
+- [macukadam/nvim-claude-paste](https://github.com/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/stars/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/last-commit/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/commit-activity/y/macukadam/nvim-claude-paste)
 
 ## LLM context
 

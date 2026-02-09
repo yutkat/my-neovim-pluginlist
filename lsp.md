@@ -311,6 +311,8 @@
 
 ### Get LSP Client
 
+- [robcmills/nvim-lsp-bridge](https://github.com/robcmills/nvim-lsp-bridge) ![](https://img.shields.io/github/stars/robcmills/nvim-lsp-bridge) ![](https://img.shields.io/github/last-commit/robcmills/nvim-lsp-bridge) ![](https://img.shields.io/github/commit-activity/y/robcmills/nvim-lsp-bridge)
+
 ### LSP timeout
 
 - [hinell/lsp-timeout.nvim](https://github.com/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/stars/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/last-commit/hinell/lsp-timeout.nvim) ![](https://img.shields.io/github/commit-activity/y/hinell/lsp-timeout.nvim)

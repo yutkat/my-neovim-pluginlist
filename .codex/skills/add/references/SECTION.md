@@ -866,6 +866,7 @@
 #### migemo
 ### Battery
 ### Audio
+#### Speech-to-text
 #### SuperCollider
 #### LilyPond
 #### Text-to-speech
@@ -1137,6 +1138,7 @@
 #### E2
 #### Brainfuck
 #### stenography
+#### Pine Script
 ## Competitive programming
 ### Codeforces
 ## Computer science

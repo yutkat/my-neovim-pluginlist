@@ -239,6 +239,7 @@
 - [niuiic/remote.nvim](https://github.com/niuiic/remote.nvim) ![](https://img.shields.io/github/stars/niuiic/remote.nvim) ![](https://img.shields.io/github/last-commit/niuiic/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/niuiic/remote.nvim)
 - [GeordyJ/tmp-edit.nvim](https://github.com/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/stars/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/last-commit/GeordyJ/tmp-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/GeordyJ/tmp-edit.nvim)
 - [ultimatile/remote-edit.nvim](https://github.com/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/stars/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/last-commit/ultimatile/remote-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/ultimatile/remote-edit.nvim)
+- [TryDying/RemoteMirror.nvim](https://github.com/TryDying/RemoteMirror.nvim) ![](https://img.shields.io/github/stars/TryDying/RemoteMirror.nvim) ![](https://img.shields.io/github/last-commit/TryDying/RemoteMirror.nvim) ![](https://img.shields.io/github/commit-activity/y/TryDying/RemoteMirror.nvim)
 
 #### delete
 
