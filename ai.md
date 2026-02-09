@@ -58,6 +58,7 @@
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
 - [Agent](#agent)
+  - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
 - [Agent Skills](#agent-skills)
 - [Chat](#chat)
@@ -671,8 +672,11 @@
 - [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
 - [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
-- [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
+
+### Pi Coding Agent
+
+- [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 - [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
 - [0xburden/pi.nvim](https://github.com/0xburden/pi.nvim) ![](https://img.shields.io/github/stars/0xburden/pi.nvim) ![](https://img.shields.io/github/last-commit/0xburden/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xburden/pi.nvim)
 
