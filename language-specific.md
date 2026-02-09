@@ -55,6 +55,7 @@
     - [D](#d)
     - [Dingo](#dingo)
     - [fortran](#fortran)
+    - [Ghidra](#ghidra)
     - [DSL](#dsl)
   - [WSL](#wsl)
     - [CQL](#cql)
@@ -162,6 +163,7 @@
     - [E2](#e2)
     - [Brainfuck](#brainfuck)
     - [stenography](#stenography)
+    - [Pine Script](#pine-script)
 - [Competitive programming](#competitive-programming)
   - [Codeforces](#codeforces)
 - [Computer science](#computer-science)
@@ -213,7 +215,7 @@
 
 - [getlumos/nvim-lumos](https://github.com/getlumos/nvim-lumos) ![](https://img.shields.io/github/stars/getlumos/nvim-lumos) ![](https://img.shields.io/github/last-commit/getlumos/nvim-lumos) ![](https://img.shields.io/github/commit-activity/y/getlumos/nvim-lumos)
 
-#### C#
+#### C #
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
@@ -470,6 +472,10 @@
 
 - [gustav-jansen/nvim-fortran-snippets](https://github.com/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/stars/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/last-commit/gustav-jansen/nvim-fortran-snippets) ![](https://img.shields.io/github/commit-activity/y/gustav-jansen/nvim-fortran-snippets)
 - [wassup05/fortran.nvim](https://github.com/wassup05/fortran.nvim) ![](https://img.shields.io/github/stars/wassup05/fortran.nvim) ![](https://img.shields.io/github/last-commit/wassup05/fortran.nvim) ![](https://img.shields.io/github/commit-activity/y/wassup05/fortran.nvim)
+
+#### Ghidra
+
+- [jdearmas/ghidra.nvim](https://github.com/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/stars/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/ghidra.nvim)
 
 #### DSL
 
