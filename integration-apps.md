@@ -460,6 +460,7 @@
 - [riodelphino/macime.nvim](https://github.com/riodelphino/macime.nvim) ![](https://img.shields.io/github/stars/riodelphino/macime.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/macime.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/macime.nvim)
 - [universal-abstraction/lang-autoswitch.nvim](https://github.com/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/stars/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/last-commit/universal-abstraction/lang-autoswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/universal-abstraction/lang-autoswitch.nvim)
 - [pluttan/im-autoswitch.nvim](https://github.com/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/stars/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/last-commit/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/im-autoswitch.nvim)
+- [fft-tf/macos-ime-status.nvim](https://github.com/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/stars/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/last-commit/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/fft-tf/macos-ime-status.nvim)
 
 #### Fcitx
 
@@ -499,6 +500,10 @@
 - [justinhj/battery.nvim](https://github.com/justinhj/battery.nvim) ![](https://img.shields.io/github/stars/justinhj/battery.nvim) ![](https://img.shields.io/github/last-commit/justinhj/battery.nvim) ![](https://img.shields.io/github/commit-activity/y/justinhj/battery.nvim)
 
 ### Audio
+
+#### Speech-to-text
+
+- [VyacheslavVanin/spraaktt.nvim](https://github.com/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/spraaktt.nvim)
 
 #### SuperCollider
 

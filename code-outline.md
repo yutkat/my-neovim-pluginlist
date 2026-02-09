@@ -39,6 +39,7 @@
 - [epheien/outline-treesitter-provider.nvim](https://github.com/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/stars/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/last-commit/epheien/outline-treesitter-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/epheien/outline-treesitter-provider.nvim)
 - [human-d3v/txt-files.nvim](https://github.com/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/stars/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/last-commit/human-d3v/txt-files.nvim) ![](https://img.shields.io/github/commit-activity/y/human-d3v/txt-files.nvim)
 - [FABLOUSFALCON/go-pkg-outline.nvim](https://github.com/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/stars/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/last-commit/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/FABLOUSFALCON/go-pkg-outline.nvim)
+- [abhipranay/argus.nvim](https://github.com/abhipranay/argus.nvim) ![](https://img.shields.io/github/stars/abhipranay/argus.nvim) ![](https://img.shields.io/github/last-commit/abhipranay/argus.nvim) ![](https://img.shields.io/github/commit-activity/y/abhipranay/argus.nvim)
 
 ## Definition
 

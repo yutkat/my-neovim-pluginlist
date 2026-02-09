@@ -103,6 +103,7 @@
 - [vyfor/cord.nvim](https://github.com/vyfor/cord.nvim) ![](https://img.shields.io/github/stars/vyfor/cord.nvim) ![](https://img.shields.io/github/last-commit/vyfor/cord.nvim) ![](https://img.shields.io/github/commit-activity/y/vyfor/cord.nvim)
 - [himonshuuu/discord.nvim](https://github.com/himonshuuu/discord.nvim) ![](https://img.shields.io/github/stars/himonshuuu/discord.nvim) ![](https://img.shields.io/github/last-commit/himonshuuu/discord.nvim) ![](https://img.shields.io/github/commit-activity/y/himonshuuu/discord.nvim)
 - [pandasoli/nekovim](https://github.com/pandasoli/nekovim) ![](https://img.shields.io/github/stars/pandasoli/nekovim) ![](https://img.shields.io/github/last-commit/pandasoli/nekovim) ![](https://img.shields.io/github/commit-activity/y/pandasoli/nekovim)
+- [cjodo/presence.nvim](https://github.com/cjodo/presence.nvim) ![](https://img.shields.io/github/stars/cjodo/presence.nvim) ![](https://img.shields.io/github/last-commit/cjodo/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/cjodo/presence.nvim)
 
 #### Slack
 
@@ -266,6 +267,7 @@
 ### Google Docs
 
 - [aadv1k/gdoc.vim](https://github.com/aadv1k/gdoc.vim) ![](https://img.shields.io/github/stars/aadv1k/gdoc.vim) ![](https://img.shields.io/github/last-commit/aadv1k/gdoc.vim) ![](https://img.shields.io/github/commit-activity/y/aadv1k/gdoc.vim)
+- [nithilgadde/gdocs.nvim](https://github.com/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/stars/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/last-commit/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/nithilgadde/gdocs.nvim)
 
 ### 0x0.st
 

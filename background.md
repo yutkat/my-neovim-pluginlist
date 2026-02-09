@@ -29,6 +29,7 @@
 - [parz3val/auto-themer.nvim](https://github.com/parz3val/auto-themer.nvim) ![](https://img.shields.io/github/stars/parz3val/auto-themer.nvim) ![](https://img.shields.io/github/last-commit/parz3val/auto-themer.nvim) ![](https://img.shields.io/github/commit-activity/y/parz3val/auto-themer.nvim)
 - [itsfernn/auto-gnome-theme.nvim](https://github.com/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/stars/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/last-commit/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfernn/auto-gnome-theme.nvim)
 - [wdomitrz/theme_watcher.nvim](https://github.com/wdomitrz/theme_watcher.nvim) ![](https://img.shields.io/github/stars/wdomitrz/theme_watcher.nvim) ![](https://img.shields.io/github/last-commit/wdomitrz/theme_watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/wdomitrz/theme_watcher.nvim)
+- [raulcorreia7/theme-browser.nvim](https://github.com/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/stars/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/last-commit/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/raulcorreia7/theme-browser.nvim)
 
 ### Transparency
 

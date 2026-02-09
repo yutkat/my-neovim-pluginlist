@@ -445,6 +445,7 @@
 - [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
 - [nack098/nvim-note](https://github.com/nack098/nvim-note) ![](https://img.shields.io/github/stars/nack098/nvim-note) ![](https://img.shields.io/github/last-commit/nack098/nvim-note) ![](https://img.shields.io/github/commit-activity/y/nack098/nvim-note)
 - [fiquellcarter/floatnotes.nvim](https://github.com/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/stars/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fiquellcarter/floatnotes.nvim)
+- [hypatia-tile/floating-note.nvim](https://github.com/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/stars/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/last-commit/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/commit-activity/y/hypatia-tile/floating-note.nvim)
 
 ### inline note
 
