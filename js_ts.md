@@ -308,6 +308,7 @@
 - [gn0/nvim-web-server](https://github.com/gn0/nvim-web-server) ![](https://img.shields.io/github/stars/gn0/nvim-web-server) ![](https://img.shields.io/github/last-commit/gn0/nvim-web-server) ![](https://img.shields.io/github/commit-activity/y/gn0/nvim-web-server)
 - [jbyuki/servethis.nvim](https://github.com/jbyuki/servethis.nvim) ![](https://img.shields.io/github/stars/jbyuki/servethis.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/servethis.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/servethis.nvim)
 - [hyperstown/nvim-live-server](https://github.com/hyperstown/nvim-live-server) ![](https://img.shields.io/github/stars/hyperstown/nvim-live-server) ![](https://img.shields.io/github/last-commit/hyperstown/nvim-live-server) ![](https://img.shields.io/github/commit-activity/y/hyperstown/nvim-live-server)
+- [gustavomarchesim/live-server.nvim](https://github.com/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/stars/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/last-commit/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavomarchesim/live-server.nvim)
 
 ### Static site
 
@@ -374,6 +375,7 @@
 - [Kenzo-Wada/boundary.nvim](https://github.com/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/stars/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/last-commit/Kenzo-Wada/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/Kenzo-Wada/boundary.nvim)
 - [ycycwx/react-compiler-badge.nvim](https://github.com/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/stars/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/last-commit/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/commit-activity/y/ycycwx/react-compiler-badge.nvim)
 - [billmakes/react_tree.nvim](https://github.com/billmakes/react_tree.nvim) ![](https://img.shields.io/github/stars/billmakes/react_tree.nvim) ![](https://img.shields.io/github/last-commit/billmakes/react_tree.nvim) ![](https://img.shields.io/github/commit-activity/y/billmakes/react_tree.nvim)
+- [TmLev/react-suspense-lens.nvim](https://github.com/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/stars/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/last-commit/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/TmLev/react-suspense-lens.nvim)
 
 #### Next.js
 

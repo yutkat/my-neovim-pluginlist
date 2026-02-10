@@ -38,6 +38,7 @@
 - [spacedentist/resolve.nvim](https://github.com/spacedentist/resolve.nvim) ![](https://img.shields.io/github/stars/spacedentist/resolve.nvim) ![](https://img.shields.io/github/last-commit/spacedentist/resolve.nvim) ![](https://img.shields.io/github/commit-activity/y/spacedentist/resolve.nvim)
 - [oug-t/difi.nvim](https://github.com/oug-t/difi.nvim) ![](https://img.shields.io/github/stars/oug-t/difi.nvim) ![](https://img.shields.io/github/last-commit/oug-t/difi.nvim) ![](https://img.shields.io/github/commit-activity/y/oug-t/difi.nvim)
 - [martindur/zdiff.nvim](https://github.com/martindur/zdiff.nvim) ![](https://img.shields.io/github/stars/martindur/zdiff.nvim) ![](https://img.shields.io/github/last-commit/martindur/zdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/zdiff.nvim)
+- [flamingoosesoftwareinc/swap-merge.nvim](https://github.com/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/stars/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/last-commit/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/commit-activity/y/flamingoosesoftwareinc/swap-merge.nvim)
 
 ### Diff Register
 

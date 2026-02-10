@@ -429,6 +429,8 @@
 - [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
 - [genomewalker/prism.nvim](https://github.com/genomewalker/prism.nvim) ![](https://img.shields.io/github/stars/genomewalker/prism.nvim) ![](https://img.shields.io/github/last-commit/genomewalker/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/genomewalker/prism.nvim)
 
+- [kengkiat/claude-hurl.nvim](https://github.com/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/stars/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/last-commit/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kengkiat/claude-hurl.nvim)
+
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
@@ -574,6 +576,7 @@
 ### LMStudio
 
 - [MHD-GDev/genlms.nvim](https://github.com/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/stars/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/last-commit/MHD-GDev/genlms.nvim) ![](https://img.shields.io/github/commit-activity/y/MHD-GDev/genlms.nvim)
+- [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
 
 ### Machine Learning
 
@@ -843,6 +846,7 @@
 - [simonwinther/dir2text.nvim](https://github.com/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/stars/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/dir2text.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/dir2text.nvim)
 - [polacekpavel/prompt-yank.nvim](https://github.com/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/stars/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/last-commit/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/polacekpavel/prompt-yank.nvim)
 - [macukadam/nvim-claude-paste](https://github.com/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/stars/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/last-commit/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/commit-activity/y/macukadam/nvim-claude-paste)
+- [hjaykl/alleyoop.nvim](https://github.com/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/stars/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/last-commit/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/commit-activity/y/hjaykl/alleyoop.nvim)
 
 ## LLM context
 

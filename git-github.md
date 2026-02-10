@@ -572,6 +572,7 @@
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
 - [kamrul1157024/nvim-pr](https://github.com/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/stars/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/last-commit/kamrul1157024/nvim-pr) ![](https://img.shields.io/github/commit-activity/y/kamrul1157024/nvim-pr)
 - [ryanvu/mai_pr.nvim](https://github.com/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/stars/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/last-commit/ryanvu/mai_pr.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanvu/mai_pr.nvim)
+- [theochap/gh-review.nvim](https://github.com/theochap/gh-review.nvim) ![](https://img.shields.io/github/stars/theochap/gh-review.nvim) ![](https://img.shields.io/github/last-commit/theochap/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/theochap/gh-review.nvim)
 - [daliusd/ghlite.nvim](https://github.com/daliusd/ghlite.nvim) ![](https://img.shields.io/github/stars/daliusd/ghlite.nvim) ![](https://img.shields.io/github/last-commit/daliusd/ghlite.nvim) ![](https://img.shields.io/github/commit-activity/y/daliusd/ghlite.nvim)
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
@@ -740,6 +741,7 @@
 - [Speiser/bitbucket-url.nvim](https://github.com/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/stars/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/bitbucket-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/bitbucket-url.nvim)
 - [TheChessDev/bb.nvim](https://github.com/TheChessDev/bb.nvim) ![](https://img.shields.io/github/stars/TheChessDev/bb.nvim) ![](https://img.shields.io/github/last-commit/TheChessDev/bb.nvim) ![](https://img.shields.io/github/commit-activity/y/TheChessDev/bb.nvim)
 - [veracus/bitbucket-open.nvim](https://github.com/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/stars/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/last-commit/veracus/bitbucket-open.nvim) ![](https://img.shields.io/github/commit-activity/y/veracus/bitbucket-open.nvim)
+- [emrearmagan/atlas.nvim](https://github.com/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/stars/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/atlas.nvim)
 
 ## Sourcegraph
 

@@ -50,6 +50,7 @@
 - [jinks908/marksman.nvim](https://github.com/jinks908/marksman.nvim) ![](https://img.shields.io/github/stars/jinks908/marksman.nvim) ![](https://img.shields.io/github/last-commit/jinks908/marksman.nvim) ![](https://img.shields.io/github/commit-activity/y/jinks908/marksman.nvim)
 - [cat-phish/buffer-marks.nvim](https://github.com/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/stars/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/buffer-marks.nvim)
 - [mbfoss/loop-marks.nvim](https://github.com/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-marks.nvim)
+- [ZiYang-oyxy/vim-mark.nvim](https://github.com/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/stars/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/last-commit/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZiYang-oyxy/vim-mark.nvim)
 
 ### extmark
 
