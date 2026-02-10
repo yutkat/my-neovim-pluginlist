@@ -60,6 +60,7 @@
 - [BB223/redact_pass.nvim](https://github.com/BB223/redact_pass.nvim) ![](https://img.shields.io/github/stars/BB223/redact_pass.nvim) ![](https://img.shields.io/github/last-commit/BB223/redact_pass.nvim) ![](https://img.shields.io/github/commit-activity/y/BB223/redact_pass.nvim)
 - [anokfireball/sops-edit.nvim](https://github.com/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/stars/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/last-commit/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/anokfireball/sops-edit.nvim)
 - [jellydn/tiny-cloak.nvim](https://github.com/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/stars/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/last-commit/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/tiny-cloak.nvim)
+- [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ![](https://img.shields.io/github/stars/zeybek/camouflage.nvim) ![](https://img.shields.io/github/last-commit/zeybek/camouflage.nvim) ![](https://img.shields.io/github/commit-activity/y/zeybek/camouflage.nvim)
 
 ### Password Manager
 
