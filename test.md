@@ -52,6 +52,7 @@
 - [marilari88/neotest-vitest](https://github.com/marilari88/neotest-vitest) ![](https://img.shields.io/github/stars/marilari88/neotest-vitest) ![](https://img.shields.io/github/last-commit/marilari88/neotest-vitest) ![](https://img.shields.io/github/commit-activity/y/marilari88/neotest-vitest)
 - [mrcjkb/neotest-haskell](https://github.com/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/stars/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/last-commit/mrcjkb/neotest-haskell) ![](https://img.shields.io/github/commit-activity/y/mrcjkb/neotest-haskell)
 - [MisanthropicBit/neotest-busted](https://github.com/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/stars/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/last-commit/MisanthropicBit/neotest-busted) ![](https://img.shields.io/github/commit-activity/y/MisanthropicBit/neotest-busted)
+- [Jumziey/neotest-nix-unit.nvim](https://github.com/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/stars/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/last-commit/Jumziey/neotest-nix-unit.nvim) ![](https://img.shields.io/github/commit-activity/y/Jumziey/neotest-nix-unit.nvim)
 
 ## Test Coverage
 

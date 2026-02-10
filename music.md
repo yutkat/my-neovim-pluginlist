@@ -68,6 +68,7 @@
 - [Vilos92/media-controls.nvim](https://github.com/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/stars/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/last-commit/Vilos92/media-controls.nvim) ![](https://img.shields.io/github/commit-activity/y/Vilos92/media-controls.nvim)
 - [NoamFav/apple_music.nvim](https://github.com/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/stars/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/last-commit/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/commit-activity/y/NoamFav/apple_music.nvim)
 - [kaminzhi/apple-music.nvim](https://github.com/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/stars/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/apple-music.nvim)
+- [kaminzhi/what-im-listening.nvim](https://github.com/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/stars/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/what-im-listening.nvim)
 
 ### YouTube Music
 

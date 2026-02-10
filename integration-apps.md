@@ -256,6 +256,10 @@
 
 - [Oddly/elasticsearch-run.nvim](https://github.com/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/stars/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/last-commit/Oddly/elasticsearch-run.nvim) ![](https://img.shields.io/github/commit-activity/y/Oddly/elasticsearch-run.nvim)
 
+#### Docker
+
+- [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/stars/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/dockyard.nvim)
+
 #### Kubernetes
 
 - [georgesnoe/lazykube.nvim](https://github.com/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazykube.nvim)

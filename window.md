@@ -134,6 +134,7 @@
 - [mathematicalninja/floating.nvim](https://github.com/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/stars/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/last-commit/mathematicalninja/floating.nvim) ![](https://img.shields.io/github/commit-activity/y/mathematicalninja/floating.nvim)
 - [Zynith0/floater.nvim](https://github.com/Zynith0/floater.nvim) ![](https://img.shields.io/github/stars/Zynith0/floater.nvim) ![](https://img.shields.io/github/last-commit/Zynith0/floater.nvim) ![](https://img.shields.io/github/commit-activity/y/Zynith0/floater.nvim)
 - [mhiro2/peekstack.nvim](https://github.com/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/stars/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/peekstack.nvim)
+- [heavycircle/float-ui.nvim](https://github.com/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/stars/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/last-commit/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/heavycircle/float-ui.nvim)
 
 #### resize
 

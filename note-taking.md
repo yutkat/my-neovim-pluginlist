@@ -404,6 +404,7 @@
 - [frankogenrwoth/backlog.nvim](https://github.com/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/stars/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/last-commit/frankogenrwoth/backlog.nvim) ![](https://img.shields.io/github/commit-activity/y/frankogenrwoth/backlog.nvim)
 - [dtomvan/tasks.nvim](https://github.com/dtomvan/tasks.nvim) ![](https://img.shields.io/github/stars/dtomvan/tasks.nvim) ![](https://img.shields.io/github/last-commit/dtomvan/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/dtomvan/tasks.nvim)
 - [sandepten/worklog.nvim](https://github.com/sandepten/worklog.nvim) ![](https://img.shields.io/github/stars/sandepten/worklog.nvim) ![](https://img.shields.io/github/last-commit/sandepten/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/sandepten/worklog.nvim)
+- [sminrana/nvim-taskflow](https://github.com/sminrana/nvim-taskflow) ![](https://img.shields.io/github/stars/sminrana/nvim-taskflow) ![](https://img.shields.io/github/last-commit/sminrana/nvim-taskflow) ![](https://img.shields.io/github/commit-activity/y/sminrana/nvim-taskflow)
 
 ### Wiki
 

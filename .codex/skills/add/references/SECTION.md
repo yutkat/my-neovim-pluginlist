@@ -55,6 +55,7 @@
 ### Copilot
 ### Genie CLI
 ## Agent
+### Pi Coding Agent
 ### Amp
 ## Agent Skills
 ## Chat
@@ -832,6 +833,7 @@
 #### Nginx
 #### OpenFGA
 #### ElasticSearch
+#### Docker
 #### Kubernetes
 #### VPN
 ### Cloud
@@ -985,7 +987,7 @@
 #### Noir
 #### Nature
 #### Lumos
-#### C#
+#### C #
 ##### Compile
 ###### Roslyn
 ##### disassembler
@@ -1031,6 +1033,7 @@
 #### D
 #### Dingo
 #### fortran
+#### Ghidra
 #### DSL
 ### WSL
 #### CQL

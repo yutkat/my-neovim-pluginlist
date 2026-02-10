@@ -57,6 +57,7 @@
 - [comfysage/artio.nvim](https://github.com/comfysage/artio.nvim) ![](https://img.shields.io/github/stars/comfysage/artio.nvim) ![](https://img.shields.io/github/last-commit/comfysage/artio.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/artio.nvim)
 - [anoopkcn/fuzzy.nvim](https://github.com/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/stars/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/fuzzy.nvim)
 - [2KAbhishek/seeker.nvim](https://github.com/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/seeker.nvim)
+- [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) ![](https://img.shields.io/github/stars/juniorsundar/refer.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/refer.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/refer.nvim)
 
 ### Telescope Extensions
 

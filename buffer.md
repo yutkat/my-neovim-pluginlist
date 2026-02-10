@@ -167,6 +167,7 @@
 - [mthnglac/bufferinator.nvim](https://github.com/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/stars/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/last-commit/mthnglac/bufferinator.nvim) ![](https://img.shields.io/github/commit-activity/y/mthnglac/bufferinator.nvim)
 - [MattConce/buflow.nvim](https://github.com/MattConce/buflow.nvim) ![](https://img.shields.io/github/stars/MattConce/buflow.nvim) ![](https://img.shields.io/github/last-commit/MattConce/buflow.nvim) ![](https://img.shields.io/github/commit-activity/y/MattConce/buflow.nvim)
 - [DavidRambo/buffer-stacker.nvim](https://github.com/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/stars/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/last-commit/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRambo/buffer-stacker.nvim)
+- [mkeiji/better-tabs.nvim](https://github.com/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-tabs.nvim)
 
 #### create
 
