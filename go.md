@@ -169,7 +169,6 @@
 - [catgoose/templ-goto-definition](https://github.com/catgoose/templ-goto-definition) ![](https://img.shields.io/github/stars/catgoose/templ-goto-definition) ![](https://img.shields.io/github/last-commit/catgoose/templ-goto-definition) ![](https://img.shields.io/github/commit-activity/y/catgoose/templ-goto-definition)
 - [ngynkvn/gotmpl.nvim](https://github.com/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/stars/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/last-commit/ngynkvn/gotmpl.nvim) ![](https://img.shields.io/github/commit-activity/y/ngynkvn/gotmpl.nvim)
 - [eggplannt/composite-highlighting.nvim](https://github.com/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/stars/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/last-commit/eggplannt/composite-highlighting.nvim) ![](https://img.shields.io/github/commit-activity/y/eggplannt/composite-highlighting.nvim)
-- [paulpaule21/go-project.nvim](https://github.com/paulpaule21/go-project.nvim) ![](https://img.shields.io/github/stars/paulpaule21/go-project.nvim) ![](https://img.shields.io/github/last-commit/paulpaule21/go-project.nvim) ![](https://img.shields.io/github/commit-activity/y/paulpaule21/go-project.nvim)
 
 ### Type
 
