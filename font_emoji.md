@@ -102,6 +102,7 @@
 - [ask-786/emojis.nvim](https://github.com/ask-786/emojis.nvim) ![](https://img.shields.io/github/stars/ask-786/emojis.nvim) ![](https://img.shields.io/github/last-commit/ask-786/emojis.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/emojis.nvim)
 - [stephansama/fzf-nerdfont.nvim](https://github.com/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/stars/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/last-commit/stephansama/fzf-nerdfont.nvim) ![](https://img.shields.io/github/commit-activity/y/stephansama/fzf-nerdfont.nvim)
 - [cskeeters/github_emoji.nvim](https://github.com/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/stars/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/last-commit/cskeeters/github_emoji.nvim) ![](https://img.shields.io/github/commit-activity/y/cskeeters/github_emoji.nvim)
+- [techne98/emotive.nvim](https://github.com/techne98/emotive.nvim) ![](https://img.shields.io/github/stars/techne98/emotive.nvim) ![](https://img.shields.io/github/last-commit/techne98/emotive.nvim) ![](https://img.shields.io/github/commit-activity/y/techne98/emotive.nvim)
 
 ### Kaomoji
 

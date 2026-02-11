@@ -47,6 +47,7 @@
 - [saifshahriar/nvim-lsi](https://github.com/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/stars/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/last-commit/saifshahriar/nvim-lsi) ![](https://img.shields.io/github/commit-activity/y/saifshahriar/nvim-lsi)
 - [Caylub/telescope-blink-snippets.nvim](https://github.com/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/stars/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/last-commit/Caylub/telescope-blink-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/Caylub/telescope-blink-snippets.nvim)
 - [ogaken-1/nvim-ix-repeat](https://github.com/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/stars/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/last-commit/ogaken-1/nvim-ix-repeat) ![](https://img.shields.io/github/commit-activity/y/ogaken-1/nvim-ix-repeat)
+- [joao-lobao/extract-tool.nvim](https://github.com/joao-lobao/extract-tool.nvim) ![](https://img.shields.io/github/stars/joao-lobao/extract-tool.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/extract-tool.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/extract-tool.nvim)
 
 #### Snippet definitions
 
