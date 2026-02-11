@@ -82,6 +82,7 @@
 - [Akmadan23/local-session.nvim](https://github.com/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/stars/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/last-commit/Akmadan23/local-session.nvim) ![](https://img.shields.io/github/commit-activity/y/Akmadan23/local-session.nvim)
 - [tdfacer/fsm.nvim](https://github.com/tdfacer/fsm.nvim) ![](https://img.shields.io/github/stars/tdfacer/fsm.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/fsm.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/fsm.nvim)
 - [Mathiew82/phantom.nvim](https://github.com/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/stars/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/phantom.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/phantom.nvim)
+- [joao-lobao/simple-session.nvim](https://github.com/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/stars/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/simple-session.nvim)
 
 ### Session Selector
 

@@ -114,6 +114,7 @@
 - [MasterTemple/better-callouts.nvim](https://github.com/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/stars/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/last-commit/MasterTemple/better-callouts.nvim) ![](https://img.shields.io/github/commit-activity/y/MasterTemple/better-callouts.nvim)
 - [adnair2024/md-helper.nvim](https://github.com/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/stars/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/last-commit/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/adnair2024/md-helper.nvim)
 - [CrixuAMG/featurepad.nvim](https://github.com/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/featurepad.nvim)
+- [birdcar/bfm.nvim](https://github.com/birdcar/bfm.nvim) ![](https://img.shields.io/github/stars/birdcar/bfm.nvim) ![](https://img.shields.io/github/last-commit/birdcar/bfm.nvim) ![](https://img.shields.io/github/commit-activity/y/birdcar/bfm.nvim)
 
 #### Markdown link
 

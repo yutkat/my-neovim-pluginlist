@@ -184,6 +184,7 @@
 - [momiforgotthesemicolon/codex-nvim](https://github.com/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/stars/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/last-commit/momiforgotthesemicolon/codex-nvim) ![](https://img.shields.io/github/commit-activity/y/momiforgotthesemicolon/codex-nvim)
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) ![](https://img.shields.io/github/stars/ishiooon/codex.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/codex.nvim)
 - [sdcoffey/codex-inline-edits.nvim](https://github.com/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/stars/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/last-commit/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/commit-activity/y/sdcoffey/codex-inline-edits.nvim)
+- [yaadata/codex.nvim](https://github.com/yaadata/codex.nvim) ![](https://img.shields.io/github/stars/yaadata/codex.nvim) ![](https://img.shields.io/github/last-commit/yaadata/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/yaadata/codex.nvim)
 
 #### Whisper
 
@@ -428,6 +429,7 @@
 - [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
 - [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
 - [genomewalker/prism.nvim](https://github.com/genomewalker/prism.nvim) ![](https://img.shields.io/github/stars/genomewalker/prism.nvim) ![](https://img.shields.io/github/last-commit/genomewalker/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/genomewalker/prism.nvim)
+- [S1M0N38/claude.nvim](https://github.com/S1M0N38/claude.nvim) ![](https://img.shields.io/github/stars/S1M0N38/claude.nvim) ![](https://img.shields.io/github/last-commit/S1M0N38/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/S1M0N38/claude.nvim)
 
 - [kengkiat/claude-hurl.nvim](https://github.com/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/stars/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/last-commit/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kengkiat/claude-hurl.nvim)
 
@@ -676,6 +678,7 @@
 - [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
+- [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
 
 ### Pi Coding Agent
 
