@@ -38,6 +38,7 @@
 - [tenfyzhong/nvim-F](https://github.com/tenfyzhong/nvim-F) ![](https://img.shields.io/github/stars/tenfyzhong/nvim-F) ![](https://img.shields.io/github/last-commit/tenfyzhong/nvim-F) ![](https://img.shields.io/github/commit-activity/y/tenfyzhong/nvim-F)
 - [OXY2DEV/oops.nvim](https://github.com/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/stars/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/last-commit/OXY2DEV/oops.nvim) ![](https://img.shields.io/github/commit-activity/y/OXY2DEV/oops.nvim)
 - [malikbenkirane/sensible.nvim](https://github.com/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/stars/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/last-commit/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/commit-activity/y/malikbenkirane/sensible.nvim)
+- [Sarctiann/cli-integration.nvim](https://github.com/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cli-integration.nvim)
 
 ### Shell
 

@@ -78,6 +78,7 @@
 
 - [folke/lazydev.nvim](https://github.com/folke/lazydev.nvim) ![](https://img.shields.io/github/stars/folke/lazydev.nvim) ![](https://img.shields.io/github/last-commit/folke/lazydev.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/lazydev.nvim)
 - [notomo/lreload.nvim](https://github.com/notomo/lreload.nvim) ![](https://img.shields.io/github/stars/notomo/lreload.nvim) ![](https://img.shields.io/github/last-commit/notomo/lreload.nvim) ![](https://img.shields.io/github/commit-activity/y/notomo/lreload.nvim)
+- [Ben-Collett/reload_current_plugin_lazy.nvim](https://github.com/Ben-Collett/reload_current_plugin_lazy.nvim) ![](https://img.shields.io/github/stars/Ben-Collett/reload_current_plugin_lazy.nvim) ![](https://img.shields.io/github/last-commit/Ben-Collett/reload_current_plugin_lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/Ben-Collett/reload_current_plugin_lazy.nvim)
 
 ## Neovim Lua REPL
 

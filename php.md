@@ -33,6 +33,7 @@
 - [zkucekovic/create-from-ns.nvim](https://github.com/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/stars/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/last-commit/zkucekovic/create-from-ns.nvim) ![](https://img.shields.io/github/commit-activity/y/zkucekovic/create-from-ns.nvim)
 - [nemanjajojic/package-version.nvim](https://github.com/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/stars/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/last-commit/nemanjajojic/package-version.nvim) ![](https://img.shields.io/github/commit-activity/y/nemanjajojic/package-version.nvim)
 - [calvinludwig/mago.nvim](https://github.com/calvinludwig/mago.nvim) ![](https://img.shields.io/github/stars/calvinludwig/mago.nvim) ![](https://img.shields.io/github/last-commit/calvinludwig/mago.nvim) ![](https://img.shields.io/github/commit-activity/y/calvinludwig/mago.nvim)
+- [gobackdev/php-codegen.nvim](https://github.com/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/stars/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/last-commit/gobackdev/php-codegen.nvim) ![](https://img.shields.io/github/commit-activity/y/gobackdev/php-codegen.nvim)
 
 ### test
 

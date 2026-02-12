@@ -464,6 +464,7 @@
 - [schlerp/nohands.nvim](https://github.com/schlerp/nohands.nvim) ![](https://img.shields.io/github/stars/schlerp/nohands.nvim) ![](https://img.shields.io/github/last-commit/schlerp/nohands.nvim) ![](https://img.shields.io/github/commit-activity/y/schlerp/nohands.nvim)
 - [0xInuarashi/openrouter.nvim](https://github.com/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/stars/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/last-commit/0xInuarashi/openrouter.nvim) ![](https://img.shields.io/github/commit-activity/y/0xInuarashi/openrouter.nvim)
 - [RAJ8664/chatbot.nvim](https://github.com/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/stars/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/last-commit/RAJ8664/chatbot.nvim) ![](https://img.shields.io/github/commit-activity/y/RAJ8664/chatbot.nvim)
+- [Ammerfest/bb7.nvim](https://github.com/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/stars/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/last-commit/Ammerfest/bb7.nvim) ![](https://img.shields.io/github/commit-activity/y/Ammerfest/bb7.nvim)
 
 ### Supermaven
 

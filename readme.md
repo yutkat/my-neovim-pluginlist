@@ -61,6 +61,7 @@
   - [Diff](#diff)
   - [Tags](#tags)
   - [Fold / Conceal](#fold--conceal)
+  - [:changes](#changes)
   - [Calculation](#calculation)
   - [Command](#command)
   - [Command Line](#command-line)
@@ -412,6 +413,10 @@
 - [francescoApophis/tags.nvim](https://github.com/francescoApophis/tags.nvim) ![](https://img.shields.io/github/stars/francescoApophis/tags.nvim) ![](https://img.shields.io/github/last-commit/francescoApophis/tags.nvim) ![](https://img.shields.io/github/commit-activity/y/francescoApophis/tags.nvim)
 
 ### [Fold / Conceal](./fold.md)
+
+### :changes
+
+- [axlebedev/nvim-footprints](https://github.com/axlebedev/nvim-footprints) ![](https://img.shields.io/github/stars/axlebedev/nvim-footprints) ![](https://img.shields.io/github/last-commit/axlebedev/nvim-footprints) ![](https://img.shields.io/github/commit-activity/y/axlebedev/nvim-footprints)
 
 ### [Calculation](./calculation.md)
 

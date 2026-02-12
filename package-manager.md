@@ -6,6 +6,7 @@
   - [LSP, DAP, linter, formatter](#lsp-dap-linter-formatter)
     - [formatter](#formatter)
   - [Luarock](#luarock)
+  - [mise](#mise)
 - [for programming languages](#for-programming-languages)
 - [for CLI](#for-cli)
 - [for Rust](#for-rust)
@@ -41,6 +42,10 @@
 ### Luarock
 
 - [theHamsta/nvim_rocks](https://github.com/theHamsta/nvim_rocks) ![](https://img.shields.io/github/stars/theHamsta/nvim_rocks) ![](https://img.shields.io/github/last-commit/theHamsta/nvim_rocks) ![](https://img.shields.io/github/commit-activity/y/theHamsta/nvim_rocks)
+
+### mise
+
+- [tonyxwz/mise-tools.nvim](https://github.com/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/stars/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/last-commit/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyxwz/mise-tools.nvim)
 
 ## for programming languages
 

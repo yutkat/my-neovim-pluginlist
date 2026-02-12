@@ -157,6 +157,7 @@
 - [theawakener0/NeoRunner](https://github.com/theawakener0/NeoRunner) ![](https://img.shields.io/github/stars/theawakener0/NeoRunner) ![](https://img.shields.io/github/last-commit/theawakener0/NeoRunner) ![](https://img.shields.io/github/commit-activity/y/theawakener0/NeoRunner)
 - [mewais/task-hub.nvim](https://github.com/mewais/task-hub.nvim) ![](https://img.shields.io/github/stars/mewais/task-hub.nvim) ![](https://img.shields.io/github/last-commit/mewais/task-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/mewais/task-hub.nvim)
 - [Arthur-Negrao-Smith/JustRun.nvim](https://github.com/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/stars/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/last-commit/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthur-Negrao-Smith/JustRun.nvim)
+- [sheymor21/unirunner.nvim](https://github.com/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/stars/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/last-commit/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/commit-activity/y/sheymor21/unirunner.nvim)
 
 #### Shell
 
