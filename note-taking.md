@@ -129,6 +129,7 @@
 - [skeletony007/note.nvim](https://github.com/skeletony007/note.nvim) ![](https://img.shields.io/github/stars/skeletony007/note.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/note.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/note.nvim)
 - [paulatcodescout/csnotes.nvim](https://github.com/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/stars/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/last-commit/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/paulatcodescout/csnotes.nvim)
 - [abdul-hamid-achik/noted.nvim](https://github.com/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/noted.nvim)
+- [ThomasVanRiel/nvim-notediscovery](https://github.com/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/stars/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/last-commit/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/commit-activity/y/ThomasVanRiel/nvim-notediscovery)
 
 ### Journal
 

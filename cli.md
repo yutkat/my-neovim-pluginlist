@@ -70,6 +70,8 @@
 
 ### CLI
 
+- [Sarctiann/cli-integration.nvim](https://github.com/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cli-integration.nvim)
+
 #### tmux
 
 - [numToStr/Navigator.nvim](https://github.com/numToStr/Navigator.nvim) ![](https://img.shields.io/github/stars/numToStr/Navigator.nvim) ![](https://img.shields.io/github/last-commit/numToStr/Navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/numToStr/Navigator.nvim)
