@@ -5,10 +5,12 @@
 - [Font](#font)
   - [Resize](#resize)
 - [Unicode character](#unicode-character)
+- [non-monospace](#non-monospace)
 - [Greek](#greek)
 - [Savian alphabet](#savian-alphabet)
 - [Superscript Subscript](#superscript-subscript)
 - [Style](#style)
+- [Symbol](#symbol)
 - [Icon](#icon)
   - [Devicon color](#devicon-color)
 - [Emoji](#emoji)
@@ -60,6 +62,10 @@
 
 - [CodesWithRobi/stylize.nvim](https://github.com/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/stylize.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/stylize.nvim)
 - [TomDeneire/nerdify.nvim](https://github.com/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/stars/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/last-commit/TomDeneire/nerdify.nvim) ![](https://img.shields.io/github/commit-activity/y/TomDeneire/nerdify.nvim)
+
+## Symbol
+
+- [Prgebish/sigil.nvim](https://github.com/Prgebish/sigil.nvim) ![](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim) ![](https://img.shields.io/github/commit-activity/y/Prgebish/sigil.nvim)
 
 ## Icon
 
