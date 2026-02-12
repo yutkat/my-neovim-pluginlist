@@ -58,6 +58,7 @@
   - [Copilot](#copilot)
   - [Genie CLI](#genie-cli)
 - [Agent](#agent)
+  - [AGENTS.md](#agentsmd)
   - [Pi Coding Agent](#pi-coding-agent)
   - [Amp](#amp)
 - [Agent Skills](#agent-skills)
@@ -680,6 +681,10 @@
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
 - [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
+
+### AGENTS.md
+
+- [avifenesh/agnix](https://github.com/avifenesh/agnix) ![](https://img.shields.io/github/stars/avifenesh/agnix) ![](https://img.shields.io/github/last-commit/avifenesh/agnix) ![](https://img.shields.io/github/commit-activity/y/avifenesh/agnix)
 
 ### Pi Coding Agent
 
