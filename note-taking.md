@@ -457,6 +457,7 @@
 - [daniprol/sidenote.nvim](https://github.com/daniprol/sidenote.nvim) ![](https://img.shields.io/github/stars/daniprol/sidenote.nvim) ![](https://img.shields.io/github/last-commit/daniprol/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/daniprol/sidenote.nvim)
 - [jacobb/annotate.nvim](https://github.com/jacobb/annotate.nvim) ![](https://img.shields.io/github/stars/jacobb/annotate.nvim) ![](https://img.shields.io/github/last-commit/jacobb/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobb/annotate.nvim)
 - [efueyo/mybot-notes.nvim](https://github.com/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/stars/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/last-commit/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/mybot-notes.nvim)
+- [zion-off/mole.nvim](https://github.com/zion-off/mole.nvim) ![](https://img.shields.io/github/stars/zion-off/mole.nvim) ![](https://img.shields.io/github/last-commit/zion-off/mole.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/mole.nvim)
 
 ### Anki
 

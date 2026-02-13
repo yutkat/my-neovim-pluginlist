@@ -168,6 +168,7 @@
 - [MattConce/buflow.nvim](https://github.com/MattConce/buflow.nvim) ![](https://img.shields.io/github/stars/MattConce/buflow.nvim) ![](https://img.shields.io/github/last-commit/MattConce/buflow.nvim) ![](https://img.shields.io/github/commit-activity/y/MattConce/buflow.nvim)
 - [DavidRambo/buffer-stacker.nvim](https://github.com/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/stars/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/last-commit/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRambo/buffer-stacker.nvim)
 - [mkeiji/better-tabs.nvim](https://github.com/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-tabs.nvim)
+- [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/workspaces-nvim)
 
 #### create
 
