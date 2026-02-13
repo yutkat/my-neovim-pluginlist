@@ -117,6 +117,7 @@
 - [RajaMahanty/runfloater.nvim](https://github.com/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/stars/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/last-commit/RajaMahanty/runfloater.nvim) ![](https://img.shields.io/github/commit-activity/y/RajaMahanty/runfloater.nvim)
 - [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ![](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-winterm)
 - [latuconsinafr/simpleterm.nvim](https://github.com/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/stars/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/last-commit/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/latuconsinafr/simpleterm.nvim)
+- [salkhalil/summon.nvim](https://github.com/salkhalil/summon.nvim) ![](https://img.shields.io/github/stars/salkhalil/summon.nvim) ![](https://img.shields.io/github/last-commit/salkhalil/summon.nvim) ![](https://img.shields.io/github/commit-activity/y/salkhalil/summon.nvim)
 
 ### Open
 

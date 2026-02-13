@@ -729,6 +729,7 @@
 #### Umple
 
 - [DraftTin/umple.nvim](https://github.com/DraftTin/umple.nvim) ![](https://img.shields.io/github/stars/DraftTin/umple.nvim) ![](https://img.shields.io/github/last-commit/DraftTin/umple.nvim) ![](https://img.shields.io/github/commit-activity/y/DraftTin/umple.nvim)
+- [umple/umple.nvim](https://github.com/umple/umple.nvim) ![](https://img.shields.io/github/stars/umple/umple.nvim) ![](https://img.shields.io/github/last-commit/umple/umple.nvim) ![](https://img.shields.io/github/commit-activity/y/umple/umple.nvim)
 
 #### Storm
 
@@ -951,6 +952,7 @@
 - [ludbarzs/leetcoder.nvim](https://github.com/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/stars/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/last-commit/ludbarzs/leetcoder.nvim) ![](https://img.shields.io/github/commit-activity/y/ludbarzs/leetcoder.nvim)
 - [MuazTPM-YT/leetvim.nvim](https://github.com/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/stars/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/last-commit/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/commit-activity/y/MuazTPM-YT/leetvim.nvim)
 - [sh1zer/leet.nvim](https://github.com/sh1zer/leet.nvim) ![](https://img.shields.io/github/stars/sh1zer/leet.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/leet.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/leet.nvim)
+- [SCUTBrothers/leetcode-compat.nvim](https://github.com/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/stars/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/last-commit/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/commit-activity/y/SCUTBrothers/leetcode-compat.nvim)
 
 ### AtCoder
 

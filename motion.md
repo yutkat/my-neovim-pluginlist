@@ -127,6 +127,7 @@
 - [joshuadanpeterson/typewriter.nvim](https://github.com/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/stars/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/last-commit/joshuadanpeterson/typewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuadanpeterson/typewriter.nvim)
 - [Vlazum/cheat-line.nvim](https://github.com/Vlazum/cheat-line.nvim) ![](https://img.shields.io/github/stars/Vlazum/cheat-line.nvim) ![](https://img.shields.io/github/last-commit/Vlazum/cheat-line.nvim) ![](https://img.shields.io/github/commit-activity/y/Vlazum/cheat-line.nvim)
 - [namelesskull/motionflow.nvim](https://github.com/namelesskull/motionflow.nvim) ![](https://img.shields.io/github/stars/namelesskull/motionflow.nvim) ![](https://img.shields.io/github/last-commit/namelesskull/motionflow.nvim) ![](https://img.shields.io/github/commit-activity/y/namelesskull/motionflow.nvim)
+- [burneikis/which-motion.nvim](https://github.com/burneikis/which-motion.nvim) ![](https://img.shields.io/github/stars/burneikis/which-motion.nvim) ![](https://img.shields.io/github/last-commit/burneikis/which-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/burneikis/which-motion.nvim)
 
 ### Vertical Move
 

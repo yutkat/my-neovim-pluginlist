@@ -337,6 +337,7 @@
 - [ovidiu-ionescu/gdiff.nvim](https://github.com/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/stars/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/last-commit/ovidiu-ionescu/gdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/ovidiu-ionescu/gdiff.nvim)
 - [LuccaRomanelli/git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/git-review.nvim)
 - [barrettruth/fugitive-ts.nvim](https://github.com/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/stars/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/fugitive-ts.nvim)
+- [joao-lobao/githunks.nvim](https://github.com/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/stars/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/githunks.nvim)
 
 #### image diff
 
@@ -591,6 +592,8 @@
 - [0xKitsune/pr.nvim](https://github.com/0xKitsune/pr.nvim) ![](https://img.shields.io/github/stars/0xKitsune/pr.nvim) ![](https://img.shields.io/github/last-commit/0xKitsune/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/0xKitsune/pr.nvim)
 - [bajor/nvim-raccoon](https://github.com/bajor/nvim-raccoon) ![](https://img.shields.io/github/stars/bajor/nvim-raccoon) ![](https://img.shields.io/github/last-commit/bajor/nvim-raccoon) ![](https://img.shields.io/github/commit-activity/y/bajor/nvim-raccoon)
 - [sQVe/nit.nvim](https://github.com/sQVe/nit.nvim) ![](https://img.shields.io/github/stars/sQVe/nit.nvim) ![](https://img.shields.io/github/last-commit/sQVe/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/nit.nvim)
+- [IbraheemHaseeb7/ghpr.nvim](https://github.com/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/stars/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/last-commit/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/IbraheemHaseeb7/ghpr.nvim)
+- [jtubbenhauer/code-review.nvim](https://github.com/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/code-review.nvim)
 
 #### Pull Request Comment
 
@@ -718,6 +721,7 @@
 ### GitLab CI
 
 - [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
+- [blotero/gitlab-pipeline.nvim](https://github.com/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/stars/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/last-commit/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/blotero/gitlab-pipeline.nvim)
 
 ### GitLab Kanban
 

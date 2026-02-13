@@ -213,6 +213,7 @@
 ### Filer switcher
 
 - [glmlm/file-association.nvim](https://github.com/glmlm/file-association.nvim) ![](https://img.shields.io/github/stars/glmlm/file-association.nvim) ![](https://img.shields.io/github/last-commit/glmlm/file-association.nvim) ![](https://img.shields.io/github/commit-activity/y/glmlm/file-association.nvim)
+- [ingur/fzf-oil.nvim](https://github.com/ingur/fzf-oil.nvim) ![](https://img.shields.io/github/stars/ingur/fzf-oil.nvim) ![](https://img.shields.io/github/last-commit/ingur/fzf-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/ingur/fzf-oil.nvim)
 
 ### broot
 

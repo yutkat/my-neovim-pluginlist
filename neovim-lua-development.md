@@ -90,6 +90,7 @@
 ## Development Tools
 
 - [tjdevries/nlua.nvim](https://github.com/tjdevries/nlua.nvim) ![](https://img.shields.io/github/stars/tjdevries/nlua.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/nlua.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/nlua.nvim)
+- [cosmicbuffalo/maintainer.nvim](https://github.com/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/maintainer.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/maintainer.nvim)
 
 ## Type
 
