@@ -456,6 +456,7 @@
 - [vvilhelmsen/ghostnotes.nvim](https://github.com/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/stars/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/last-commit/vvilhelmsen/ghostnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vvilhelmsen/ghostnotes.nvim)
 - [daniprol/sidenote.nvim](https://github.com/daniprol/sidenote.nvim) ![](https://img.shields.io/github/stars/daniprol/sidenote.nvim) ![](https://img.shields.io/github/last-commit/daniprol/sidenote.nvim) ![](https://img.shields.io/github/commit-activity/y/daniprol/sidenote.nvim)
 - [jacobb/annotate.nvim](https://github.com/jacobb/annotate.nvim) ![](https://img.shields.io/github/stars/jacobb/annotate.nvim) ![](https://img.shields.io/github/last-commit/jacobb/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobb/annotate.nvim)
+- [efueyo/mybot-notes.nvim](https://github.com/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/stars/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/last-commit/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/mybot-notes.nvim)
 
 ### Anki
 
@@ -469,6 +470,7 @@
 ### Flashcards
 
 - [yo-reign/nvim-flashcards](https://github.com/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/stars/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/last-commit/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/commit-activity/y/yo-reign/nvim-flashcards)
+- [Eckii24/recall.nvim](https://github.com/Eckii24/recall.nvim) ![](https://img.shields.io/github/stars/Eckii24/recall.nvim) ![](https://img.shields.io/github/last-commit/Eckii24/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/Eckii24/recall.nvim)
 
 ### Clickup
 

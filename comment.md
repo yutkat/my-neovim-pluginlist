@@ -95,6 +95,7 @@
 - [LucasTavaresA/headers.nvim](https://github.com/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/stars/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/last-commit/LucasTavaresA/headers.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasTavaresA/headers.nvim)
 - [ekhar/filename_cc.nvim](https://github.com/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/stars/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/last-commit/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ekhar/filename_cc.nvim)
 - [uhs-robert/comment_filename.nvim](https://github.com/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/stars/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/last-commit/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/commit-activity/y/uhs-robert/comment_filename.nvim)
+- [Stefanistkuhl/fancy-header.nvim](https://github.com/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/stars/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/last-commit/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/commit-activity/y/Stefanistkuhl/fancy-header.nvim)
 
 ## Todo Comment
 
@@ -189,3 +190,4 @@
 - [CyberFatherRT/license.nvim](https://github.com/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/stars/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/last-commit/CyberFatherRT/license.nvim) ![](https://img.shields.io/github/commit-activity/y/CyberFatherRT/license.nvim)
 - [Diogo-ss/licenser.nvim](https://github.com/Diogo-ss/licenser.nvim) ![](https://img.shields.io/github/stars/Diogo-ss/licenser.nvim) ![](https://img.shields.io/github/last-commit/Diogo-ss/licenser.nvim) ![](https://img.shields.io/github/commit-activity/y/Diogo-ss/licenser.nvim)
 - [umbe77/spdx.nvim](https://github.com/umbe77/spdx.nvim) ![](https://img.shields.io/github/stars/umbe77/spdx.nvim) ![](https://img.shields.io/github/last-commit/umbe77/spdx.nvim) ![](https://img.shields.io/github/commit-activity/y/umbe77/spdx.nvim)
+- [SayC8/license_gen.nvim](https://github.com/SayC8/license_gen.nvim) ![](https://img.shields.io/github/stars/SayC8/license_gen.nvim) ![](https://img.shields.io/github/last-commit/SayC8/license_gen.nvim) ![](https://img.shields.io/github/commit-activity/y/SayC8/license_gen.nvim)

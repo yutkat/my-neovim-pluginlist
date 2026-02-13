@@ -291,6 +291,7 @@
 - [frodonh/simplellm.nvim](https://github.com/frodonh/simplellm.nvim) ![](https://img.shields.io/github/stars/frodonh/simplellm.nvim) ![](https://img.shields.io/github/last-commit/frodonh/simplellm.nvim) ![](https://img.shields.io/github/commit-activity/y/frodonh/simplellm.nvim)
 - [hansmrtn/clanker.nvim](https://github.com/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/stars/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/clanker.nvim)
 - [CarGDev/codetyper.nvim](https://github.com/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/stars/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/codetyper.nvim)
+- [ajbarryiii/sage-llm.nvim](https://github.com/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/stars/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/last-commit/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbarryiii/sage-llm.nvim)
 
 #### crush
 

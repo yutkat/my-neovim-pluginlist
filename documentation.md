@@ -453,6 +453,7 @@
 - [wardenclyffetower/mermaidjs.nvim](https://github.com/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/stars/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/last-commit/wardenclyffetower/mermaidjs.nvim) ![](https://img.shields.io/github/commit-activity/y/wardenclyffetower/mermaidjs.nvim)
 - [kevalin/mermaid.nvim](https://github.com/kevalin/mermaid.nvim) ![](https://img.shields.io/github/stars/kevalin/mermaid.nvim) ![](https://img.shields.io/github/last-commit/kevalin/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/kevalin/mermaid.nvim)
 - [ruslan-kurchenko/nvim-beautiful-mermaid](https://github.com/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/stars/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/last-commit/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/commit-activity/y/ruslan-kurchenko/nvim-beautiful-mermaid)
+- [The-Ox-22/beautiful-mermaid.nvim](https://github.com/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Ox-22/beautiful-mermaid.nvim)
 
 ### pikchr
 

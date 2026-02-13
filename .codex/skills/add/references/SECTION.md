@@ -55,6 +55,7 @@
 ### Copilot
 ### Genie CLI
 ## Agent
+### AGENTS.md
 ### Pi Coding Agent
 ### Amp
 ## Agent Skills
@@ -558,6 +559,7 @@
 ## Savian alphabet
 ## Superscript Subscript
 ## Style
+## Symbol
 ## Icon
 ### Devicon color
 ## Emoji
@@ -1517,6 +1519,7 @@
 ### LSP, DAP, linter, formatter
 #### formatter
 ### Luarock
+### mise
 ## for programming languages
 ## for CLI
 ## for Rust
@@ -1712,6 +1715,7 @@
 ### [Diff](./diff.md)
 ### Tags
 ### [Fold / Conceal](./fold.md)
+### :changes
 ### [Calculation](./calculation.md)
 ### [Command](./command.md)
 ### [Command Line](./commandline.md)
