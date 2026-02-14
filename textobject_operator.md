@@ -98,6 +98,7 @@
 - [thomasgustavo/paste-operator.nvim](https://github.com/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/stars/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/last-commit/thomasgustavo/paste-operator.nvim) ![](https://img.shields.io/github/commit-activity/y/thomasgustavo/paste-operator.nvim)
 - [johk06/nvim-cut-out](https://github.com/johk06/nvim-cut-out) ![](https://img.shields.io/github/stars/johk06/nvim-cut-out) ![](https://img.shields.io/github/last-commit/johk06/nvim-cut-out) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-cut-out)
 - [johk06/nvim-eject](https://github.com/johk06/nvim-eject) ![](https://img.shields.io/github/stars/johk06/nvim-eject) ![](https://img.shields.io/github/last-commit/johk06/nvim-eject) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-eject)
+- [lettertwo/occurrence.nvim](https://github.com/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/stars/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/last-commit/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/commit-activity/y/lettertwo/occurrence.nvim)
 
 ### Replace
 
