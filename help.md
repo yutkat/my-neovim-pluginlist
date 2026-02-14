@@ -37,6 +37,7 @@
 ### Neovim doc
 
 - [delphinus/open-official-doc.nvim](https://github.com/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/stars/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/last-commit/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/open-official-doc.nvim)
+- [phanen/helpful.nvim](https://github.com/phanen/helpful.nvim) ![](https://img.shields.io/github/stars/phanen/helpful.nvim) ![](https://img.shields.io/github/last-commit/phanen/helpful.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/helpful.nvim)
 
 ### CheatSheet
 

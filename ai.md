@@ -427,6 +427,7 @@
 - [ebrentnelson/claude-code-pane.nvim](https://github.com/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/stars/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/last-commit/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ebrentnelson/claude-code-pane.nvim)
 - [jayadeepk/claude-agents.nvim](https://github.com/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/stars/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/last-commit/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jayadeepk/claude-agents.nvim)
 - [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
+- [douglasjordan2/claudecode.nvim](https://github.com/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/stars/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/last-commit/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/douglasjordan2/claudecode.nvim)
 - [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
 - [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
 - [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
@@ -682,6 +683,7 @@
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
 - [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
+- [tsurumi-yizhou/agents.nvim](https://github.com/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/agents.nvim)
 
 ### AGENTS.md
 
@@ -728,6 +730,7 @@
 - [njg7194/openclaw.nvim](https://github.com/njg7194/openclaw.nvim) ![](https://img.shields.io/github/stars/njg7194/openclaw.nvim) ![](https://img.shields.io/github/last-commit/njg7194/openclaw.nvim) ![](https://img.shields.io/github/commit-activity/y/njg7194/openclaw.nvim)
 - [aldoborrero/pi-agent.nvim](https://github.com/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/stars/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldoborrero/pi-agent.nvim)
 - [Elmonade/pi-mono.nvim](https://github.com/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/stars/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/last-commit/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/Elmonade/pi-mono.nvim)
+- [Asylcreek/droid-tmux.nvim](https://github.com/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/stars/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/last-commit/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/Asylcreek/droid-tmux.nvim)
 
 ## ECA
 

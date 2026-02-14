@@ -105,6 +105,7 @@
 - [pandasoli/nekovim](https://github.com/pandasoli/nekovim) ![](https://img.shields.io/github/stars/pandasoli/nekovim) ![](https://img.shields.io/github/last-commit/pandasoli/nekovim) ![](https://img.shields.io/github/commit-activity/y/pandasoli/nekovim)
 - [cjodo/presence.nvim](https://github.com/cjodo/presence.nvim) ![](https://img.shields.io/github/stars/cjodo/presence.nvim) ![](https://img.shields.io/github/last-commit/cjodo/presence.nvim) ![](https://img.shields.io/github/commit-activity/y/cjodo/presence.nvim)
 - [guidiguidi/nvim-discord-rpc](https://github.com/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/stars/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/last-commit/guidiguidi/nvim-discord-rpc) ![](https://img.shields.io/github/commit-activity/y/guidiguidi/nvim-discord-rpc)
+- [kaminzhi/oxicord.nvim](https://github.com/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/stars/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/oxicord.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/oxicord.nvim)
 
 #### Slack
 

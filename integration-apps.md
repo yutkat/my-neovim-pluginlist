@@ -259,6 +259,7 @@
 #### Docker
 
 - [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/stars/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/dockyard.nvim)
+- [zion-off/opal.nvim](https://github.com/zion-off/opal.nvim) ![](https://img.shields.io/github/stars/zion-off/opal.nvim) ![](https://img.shields.io/github/last-commit/zion-off/opal.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/opal.nvim)
 
 #### Kubernetes
 
@@ -330,6 +331,7 @@
 - [kiran94/s3edit.nvim](https://github.com/kiran94/s3edit.nvim) ![](https://img.shields.io/github/stars/kiran94/s3edit.nvim) ![](https://img.shields.io/github/last-commit/kiran94/s3edit.nvim) ![](https://img.shields.io/github/commit-activity/y/kiran94/s3edit.nvim)
 - [oguzhancoskun/aws-s3.nvim](https://github.com/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/stars/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/last-commit/oguzhancoskun/aws-s3.nvim) ![](https://img.shields.io/github/commit-activity/y/oguzhancoskun/aws-s3.nvim)
 - [fmpisantos/s3.nvim](https://github.com/fmpisantos/s3.nvim) ![](https://img.shields.io/github/stars/fmpisantos/s3.nvim) ![](https://img.shields.io/github/last-commit/fmpisantos/s3.nvim) ![](https://img.shields.io/github/commit-activity/y/fmpisantos/s3.nvim)
+- [tdfacer/s3-copy.nvim](https://github.com/tdfacer/s3-copy.nvim) ![](https://img.shields.io/github/stars/tdfacer/s3-copy.nvim) ![](https://img.shields.io/github/last-commit/tdfacer/s3-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/tdfacer/s3-copy.nvim)
 
 ##### SAM
 
