@@ -126,6 +126,7 @@
 - [ChrisO345/scout.nvim](https://github.com/ChrisO345/scout.nvim) ![](https://img.shields.io/github/stars/ChrisO345/scout.nvim) ![](https://img.shields.io/github/last-commit/ChrisO345/scout.nvim) ![](https://img.shields.io/github/commit-activity/y/ChrisO345/scout.nvim)
 - [MisterGrinvalds/tmux.nvim](https://github.com/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/tmux.nvim)
 - [husseinmirzaki/nvim-tmux-integration](https://github.com/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/stars/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/last-commit/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/commit-activity/y/husseinmirzaki/nvim-tmux-integration)
+- [shateq/TmuxReparent.nvim](https://github.com/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/stars/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/last-commit/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/commit-activity/y/shateq/TmuxReparent.nvim)
 
 ##### tmux alternative
 
