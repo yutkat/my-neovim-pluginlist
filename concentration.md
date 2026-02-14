@@ -113,6 +113,7 @@
 - [Django0033/writer-mode.nvim](https://github.com/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/stars/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/last-commit/Django0033/writer-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/writer-mode.nvim)
 - [jamesforward999/zen-breath.nvim](https://github.com/jamesforward999/zen-breath.nvim) ![](https://img.shields.io/github/stars/jamesforward999/zen-breath.nvim) ![](https://img.shields.io/github/last-commit/jamesforward999/zen-breath.nvim) ![](https://img.shields.io/github/commit-activity/y/jamesforward999/zen-breath.nvim)
 - [sand4rt/zen.nvim](https://github.com/sand4rt/zen.nvim) ![](https://img.shields.io/github/stars/sand4rt/zen.nvim) ![](https://img.shields.io/github/last-commit/sand4rt/zen.nvim) ![](https://img.shields.io/github/commit-activity/y/sand4rt/zen.nvim)
+- [tuffgniuz/simplezen.nvim](https://github.com/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/stars/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/last-commit/tuffgniuz/simplezen.nvim) ![](https://img.shields.io/github/commit-activity/y/tuffgniuz/simplezen.nvim)
 
 ### Focus Mode
 

@@ -114,6 +114,7 @@
 - [mghaight/replua.nvim](https://github.com/mghaight/replua.nvim) ![](https://img.shields.io/github/stars/mghaight/replua.nvim) ![](https://img.shields.io/github/last-commit/mghaight/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/mghaight/replua.nvim)
 - [m4r3k1598-lang/replua.nvim](https://github.com/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/stars/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/last-commit/m4r3k1598-lang/replua.nvim) ![](https://img.shields.io/github/commit-activity/y/m4r3k1598-lang/replua.nvim)
 - [gh-liu/nvim-bullseye](https://github.com/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/stars/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-bullseye)
+- [BlakeJC94/shelly.nvim](https://github.com/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/shelly.nvim)
 
 ### Refactoring,Debugging
 

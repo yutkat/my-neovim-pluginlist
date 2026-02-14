@@ -93,6 +93,7 @@
 
 - [kevinhwang91/nvim-hlslens](https://github.com/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/stars/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/last-commit/kevinhwang91/nvim-hlslens) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/nvim-hlslens)
 - [rapan931/bistahieversor.nvim](https://github.com/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/stars/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/last-commit/rapan931/bistahieversor.nvim) ![](https://img.shields.io/github/commit-activity/y/rapan931/bistahieversor.nvim)
+- [softglitch/nvim-search-count-at-cursor](https://github.com/softglitch/nvim-search-count-at-cursor) ![](https://img.shields.io/github/stars/softglitch/nvim-search-count-at-cursor) ![](https://img.shields.io/github/last-commit/softglitch/nvim-search-count-at-cursor) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-search-count-at-cursor)
 
 ### Word Count
 
