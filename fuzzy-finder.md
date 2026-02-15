@@ -58,6 +58,8 @@
 - [anoopkcn/fuzzy.nvim](https://github.com/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/stars/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/fuzzy.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/fuzzy.nvim)
 - [2KAbhishek/seeker.nvim](https://github.com/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/seeker.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/seeker.nvim)
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) ![](https://img.shields.io/github/stars/juniorsundar/refer.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/refer.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/refer.nvim)
+- [liuerfire/television.nvim](https://github.com/liuerfire/television.nvim) ![](https://img.shields.io/github/stars/liuerfire/television.nvim) ![](https://img.shields.io/github/last-commit/liuerfire/television.nvim) ![](https://img.shields.io/github/commit-activity/y/liuerfire/television.nvim)
+- [yesitsfebreeze/finder.nvim](https://github.com/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/finder.nvim)
 
 ### Telescope Extensions
 

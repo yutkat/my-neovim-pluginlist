@@ -291,6 +291,7 @@
 - [shazow/paint.nvim](https://github.com/shazow/paint.nvim) ![](https://img.shields.io/github/stars/shazow/paint.nvim) ![](https://img.shields.io/github/last-commit/shazow/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/shazow/paint.nvim)
 - [hendrikyang/nvim-wordhighlighter](https://github.com/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/stars/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/last-commit/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/commit-activity/y/hendrikyang/nvim-wordhighlighter)
 - [haolian9/chocolate.nvim](https://github.com/haolian9/chocolate.nvim) ![](https://img.shields.io/github/stars/haolian9/chocolate.nvim) ![](https://img.shields.io/github/last-commit/haolian9/chocolate.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/chocolate.nvim)
+- [jwu/easyhl.nvim](https://github.com/jwu/easyhl.nvim) ![](https://img.shields.io/github/stars/jwu/easyhl.nvim) ![](https://img.shields.io/github/last-commit/jwu/easyhl.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/easyhl.nvim)
 
 ### Cursor Jump highlight
 

@@ -75,6 +75,7 @@
 - [hainakus/yt-dlp.nvim](https://github.com/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/stars/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/last-commit/hainakus/yt-dlp.nvim) ![](https://img.shields.io/github/commit-activity/y/hainakus/yt-dlp.nvim)
 - [Rits1272/riff.nvim](https://github.com/Rits1272/riff.nvim) ![](https://img.shields.io/github/stars/Rits1272/riff.nvim) ![](https://img.shields.io/github/last-commit/Rits1272/riff.nvim) ![](https://img.shields.io/github/commit-activity/y/Rits1272/riff.nvim)
 - [shardulvs/ytmusic.nvim](https://github.com/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/stars/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/shardulvs/ytmusic.nvim)
+- [sanjay-np/nvim-yt-control](https://github.com/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/stars/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/last-commit/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/commit-activity/y/sanjay-np/nvim-yt-control)
 
 ### Tidal
 

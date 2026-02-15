@@ -122,6 +122,7 @@
 ### Linter
 
 - [TuTaRdrgZ/norminette-lint.nvim](https://github.com/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/stars/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/last-commit/TuTaRdrgZ/norminette-lint.nvim) ![](https://img.shields.io/github/commit-activity/y/TuTaRdrgZ/norminette-lint.nvim)
+- [jesusmb1995/nvim-clang-tidy-analysis](https://github.com/jesusmb1995/nvim-clang-tidy-analysis) ![](https://img.shields.io/github/stars/jesusmb1995/nvim-clang-tidy-analysis) ![](https://img.shields.io/github/last-commit/jesusmb1995/nvim-clang-tidy-analysis) ![](https://img.shields.io/github/commit-activity/y/jesusmb1995/nvim-clang-tidy-analysis)
 
 ### Comment
 
