@@ -135,6 +135,7 @@
 - [bezlant/unused.nvim](https://github.com/bezlant/unused.nvim) ![](https://img.shields.io/github/stars/bezlant/unused.nvim) ![](https://img.shields.io/github/last-commit/bezlant/unused.nvim) ![](https://img.shields.io/github/commit-activity/y/bezlant/unused.nvim)
 - [abdul-hamid-achik/keymaps.nvim](https://github.com/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/keymaps.nvim)
 - [vsyaco/keymaps-help.nvim](https://github.com/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/stars/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/keymaps-help.nvim)
+- [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) ![](https://img.shields.io/github/stars/aikhe/wrapped.nvim) ![](https://img.shields.io/github/last-commit/aikhe/wrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/aikhe/wrapped.nvim)
 
 ### Prefix Key Binding
 
