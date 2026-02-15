@@ -260,6 +260,7 @@
 
 - [lrnzmonaco/trak.nvim](https://github.com/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/stars/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/last-commit/lrnzmonaco/trak.nvim) ![](https://img.shields.io/github/commit-activity/y/lrnzmonaco/trak.nvim)
 - [idossha/whoop.nvim](https://github.com/idossha/whoop.nvim) ![](https://img.shields.io/github/stars/idossha/whoop.nvim) ![](https://img.shields.io/github/last-commit/idossha/whoop.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/whoop.nvim)
+- [rawnly/targetprocess.nvim](https://github.com/rawnly/targetprocess.nvim) ![](https://img.shields.io/github/stars/rawnly/targetprocess.nvim) ![](https://img.shields.io/github/last-commit/rawnly/targetprocess.nvim) ![](https://img.shields.io/github/commit-activity/y/rawnly/targetprocess.nvim)
 
 ### youtrack
 

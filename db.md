@@ -68,6 +68,7 @@
 - [diegoortizmatajira/db-cli-adapter.nvim](https://github.com/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/stars/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/last-commit/diegoortizmatajira/db-cli-adapter.nvim) ![](https://img.shields.io/github/commit-activity/y/diegoortizmatajira/db-cli-adapter.nvim)
 - [zongben/dbout.nvim](https://github.com/zongben/dbout.nvim) ![](https://img.shields.io/github/stars/zongben/dbout.nvim) ![](https://img.shields.io/github/last-commit/zongben/dbout.nvim) ![](https://img.shields.io/github/commit-activity/y/zongben/dbout.nvim)
 - [Maxteabag/sqlit.nvim](https://github.com/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/stars/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/last-commit/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/commit-activity/y/Maxteabag/sqlit.nvim)
+- [sadopc/gotermsql.nvim](https://github.com/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/stars/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/last-commit/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/commit-activity/y/sadopc/gotermsql.nvim)
 
 ### PostgreSQL
 

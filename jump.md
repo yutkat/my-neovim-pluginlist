@@ -67,10 +67,12 @@
 - [vE5li/better-goto-file.nvim](https://github.com/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/stars/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/last-commit/vE5li/better-goto-file.nvim) ![](https://img.shields.io/github/commit-activity/y/vE5li/better-goto-file.nvim)
 - [dajnz/link-jumper.nvim](https://github.com/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/stars/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/last-commit/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/dajnz/link-jumper.nvim)
 - [nolleh/warp.nvim](https://github.com/nolleh/warp.nvim) ![](https://img.shields.io/github/stars/nolleh/warp.nvim) ![](https://img.shields.io/github/last-commit/nolleh/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/warp.nvim)
+- [krzmknt/blazin-g.nvim](https://github.com/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/stars/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/last-commit/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/commit-activity/y/krzmknt/blazin-g.nvim)
 
 ### Definition
 
 - [srcrip/lookup.nvim](https://github.com/srcrip/lookup.nvim) ![](https://img.shields.io/github/stars/srcrip/lookup.nvim) ![](https://img.shields.io/github/last-commit/srcrip/lookup.nvim) ![](https://img.shields.io/github/commit-activity/y/srcrip/lookup.nvim)
+- [kbairak/ColumnTags.nvim](https://github.com/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/stars/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/last-commit/kbairak/ColumnTags.nvim) ![](https://img.shields.io/github/commit-activity/y/kbairak/ColumnTags.nvim)
 
 ### HML
 

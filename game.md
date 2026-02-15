@@ -55,6 +55,7 @@
 - [PatrickKoss/keyforge.nvim](https://github.com/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/stars/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/last-commit/PatrickKoss/keyforge.nvim) ![](https://img.shields.io/github/commit-activity/y/PatrickKoss/keyforge.nvim)
 - [ishiooon/idle-dungeon.nvim](https://github.com/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/stars/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/idle-dungeon.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/idle-dungeon.nvim)
 - [jeangiraldoo/brickgame.nvim](https://github.com/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/brickgame.nvim)
+- [tasteSoGood/cellular.nvim](https://github.com/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/stars/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/last-commit/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/commit-activity/y/tasteSoGood/cellular.nvim)
 
 ### Snake
 
@@ -107,6 +108,7 @@
 - [maelwalser/speed-motion.nvim](https://github.com/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/stars/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/last-commit/maelwalser/speed-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/maelwalser/speed-motion.nvim)
 - [gitkav0k/type-review.nvim](https://github.com/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/stars/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/last-commit/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitkav0k/type-review.nvim)
 - [Goose97/typist.nvim](https://github.com/Goose97/typist.nvim) ![](https://img.shields.io/github/stars/Goose97/typist.nvim) ![](https://img.shields.io/github/last-commit/Goose97/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/typist.nvim)
+- [snesjhon/nvim-typer](https://github.com/snesjhon/nvim-typer) ![](https://img.shields.io/github/stars/snesjhon/nvim-typer) ![](https://img.shields.io/github/last-commit/snesjhon/nvim-typer) ![](https://img.shields.io/github/commit-activity/y/snesjhon/nvim-typer)
 
 ### FiveM
 

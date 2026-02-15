@@ -308,6 +308,7 @@
 - [linrongbin16/lsp-progress.nvim](https://github.com/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/stars/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/linrongbin16/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/linrongbin16/lsp-progress.nvim)
 - [davidosomething/everandever.nvim](https://github.com/davidosomething/everandever.nvim) ![](https://img.shields.io/github/stars/davidosomething/everandever.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/everandever.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/everandever.nvim)
 - [thomas-maurice/lspnotify.nvim](https://github.com/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/stars/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/last-commit/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-maurice/lspnotify.nvim)
+- [leogps/lsp-progress.nvim](https://github.com/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/stars/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/leogps/lsp-progress.nvim)
 
 ### Get LSP Client
 

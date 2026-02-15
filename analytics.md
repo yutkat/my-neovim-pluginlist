@@ -83,6 +83,7 @@
 - [dougrocha/keytrack.nvim](https://github.com/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/stars/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/last-commit/dougrocha/keytrack.nvim) ![](https://img.shields.io/github/commit-activity/y/dougrocha/keytrack.nvim)
 - [menisadi/keychain.nvim](https://github.com/menisadi/keychain.nvim) ![](https://img.shields.io/github/stars/menisadi/keychain.nvim) ![](https://img.shields.io/github/last-commit/menisadi/keychain.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/keychain.nvim)
 - [ryoppippi/nvim-in-the-loop](https://github.com/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/stars/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/last-commit/ryoppippi/nvim-in-the-loop) ![](https://img.shields.io/github/commit-activity/y/ryoppippi/nvim-in-the-loop)
+- [duotang12/vft.nvim](https://github.com/duotang12/vft.nvim) ![](https://img.shields.io/github/stars/duotang12/vft.nvim) ![](https://img.shields.io/github/last-commit/duotang12/vft.nvim) ![](https://img.shields.io/github/commit-activity/y/duotang12/vft.nvim)
 
 ### Typing speed
 

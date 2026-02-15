@@ -56,6 +56,7 @@
 
 - [delphinus/inspect-extmarks.nvim](https://github.com/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/stars/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/last-commit/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/inspect-extmarks.nvim)
 - [alanfortlink/animatedbg.nvim](https://github.com/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/stars/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/last-commit/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfortlink/animatedbg.nvim)
+- [qrikko/pin.nvim](https://github.com/qrikko/pin.nvim) ![](https://img.shields.io/github/stars/qrikko/pin.nvim) ![](https://img.shields.io/github/last-commit/qrikko/pin.nvim) ![](https://img.shields.io/github/commit-activity/y/qrikko/pin.nvim)
 
 ### sign
 
@@ -99,6 +100,7 @@
 - [jmattaa/quickmark.nvim](https://github.com/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/stars/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/last-commit/jmattaa/quickmark.nvim) ![](https://img.shields.io/github/commit-activity/y/jmattaa/quickmark.nvim)
 - [neutrie/pinbuff.nvim](https://github.com/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/stars/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/last-commit/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/commit-activity/y/neutrie/pinbuff.nvim)
 - [GrammAcc/intervention.nvim](https://github.com/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/stars/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/last-commit/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/commit-activity/y/GrammAcc/intervention.nvim)
+- [ailrk/telescope-context.nvim](https://github.com/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/stars/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/last-commit/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/telescope-context.nvim)
 
 ### floating marker(easymotion style)
 

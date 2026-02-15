@@ -167,6 +167,7 @@
 - [kimpure/gitcolors.nvim](https://github.com/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/stars/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/last-commit/kimpure/gitcolors.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/gitcolors.nvim)
 - [yuki-yano/snacks-smart-git-status.nvim](https://github.com/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-git-status.nvim)
 - [smiggiddy/git-oil.nvim](https://github.com/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/stars/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/last-commit/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/smiggiddy/git-oil.nvim)
+- [nabetama/lean-tig.nvim](https://github.com/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/stars/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/last-commit/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/commit-activity/y/nabetama/lean-tig.nvim)
 
 ### git add
 
@@ -472,6 +473,7 @@
 
 - [xkill-9/dot.nvim](https://github.com/xkill-9/dot.nvim) ![](https://img.shields.io/github/stars/xkill-9/dot.nvim) ![](https://img.shields.io/github/last-commit/xkill-9/dot.nvim) ![](https://img.shields.io/github/commit-activity/y/xkill-9/dot.nvim)
 - [omarcresp/smart-flow.nvim](https://github.com/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/stars/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/last-commit/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcresp/smart-flow.nvim)
+- [vsyaco/git-workflow.nvim](https://github.com/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/stars/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/git-workflow.nvim)
 
 ### Wrapper
 
