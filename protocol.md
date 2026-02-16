@@ -41,6 +41,7 @@
 - [Cybernetics354/mayohttp.nvim](https://github.com/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/stars/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/last-commit/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/commit-activity/y/Cybernetics354/mayohttp.nvim)
 - [felipeRese/httpie-runer.nvim](https://github.com/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/stars/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/last-commit/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeRese/httpie-runer.nvim)
 
+- [takeshy/http-file.nvim](https://github.com/takeshy/http-file.nvim) ![](https://img.shields.io/github/stars/takeshy/http-file.nvim) ![](https://img.shields.io/github/last-commit/takeshy/http-file.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshy/http-file.nvim)
 #### Status
 
 - [barrett-ruth/http-codes.nvim](https://github.com/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/stars/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/last-commit/barrett-ruth/http-codes.nvim) ![](https://img.shields.io/github/commit-activity/y/barrett-ruth/http-codes.nvim)
@@ -78,6 +79,7 @@
 
 - [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
 
+- [AmirMohammad2003/nvim-protobuf-tools](https://github.com/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/stars/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/last-commit/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/commit-activity/y/AmirMohammad2003/nvim-protobuf-tools)
 ### Hurl
 
 - [pfeiferj/nvim-hurl](https://github.com/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/stars/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/last-commit/pfeiferj/nvim-hurl) ![](https://img.shields.io/github/commit-activity/y/pfeiferj/nvim-hurl)

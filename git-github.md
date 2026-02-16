@@ -442,6 +442,7 @@
 
 ### git patch
 
+- [ktakayama/partial-stage.nvim](https://github.com/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/stars/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/last-commit/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/commit-activity/y/ktakayama/partial-stage.nvim)
 ### git utils
 
 - [yutkat/convert-git-url.nvim](https://github.com/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/stars/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/last-commit/yutkat/convert-git-url.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/convert-git-url.nvim)

@@ -362,6 +362,7 @@
 - [sha0coder/nvim-ollama](https://github.com/sha0coder/nvim-ollama) ![](https://img.shields.io/github/stars/sha0coder/nvim-ollama) ![](https://img.shields.io/github/last-commit/sha0coder/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/sha0coder/nvim-ollama)
 - [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 
+- [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
 ### Claude
 
 - [evangstav/claude.nvim](https://github.com/evangstav/claude.nvim) ![](https://img.shields.io/github/stars/evangstav/claude.nvim) ![](https://img.shields.io/github/last-commit/evangstav/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/evangstav/claude.nvim)
@@ -436,6 +437,7 @@
 
 - [kengkiat/claude-hurl.nvim](https://github.com/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/stars/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/last-commit/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kengkiat/claude-hurl.nvim)
 
+- [airkewld/claude.nvim](https://github.com/airkewld/claude.nvim) ![](https://img.shields.io/github/stars/airkewld/claude.nvim) ![](https://img.shields.io/github/last-commit/airkewld/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/airkewld/claude.nvim)
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
@@ -490,6 +492,7 @@
 - [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
 - [hungyiloo/nvaider.nvim](https://github.com/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/stars/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/last-commit/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/commit-activity/y/hungyiloo/nvaider.nvim)
 
+- [possumtech/aider-pop.nvim](https://github.com/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/stars/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/last-commit/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/commit-activity/y/possumtech/aider-pop.nvim)
 ### CodeGate
 
 - [stacklok/codegate.nvim](https://github.com/stacklok/codegate.nvim) ![](https://img.shields.io/github/stars/stacklok/codegate.nvim) ![](https://img.shields.io/github/last-commit/stacklok/codegate.nvim) ![](https://img.shields.io/github/commit-activity/y/stacklok/codegate.nvim)
