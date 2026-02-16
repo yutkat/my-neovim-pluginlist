@@ -194,6 +194,7 @@
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) ![](https://img.shields.io/github/stars/mikew/nvim-drawer) ![](https://img.shields.io/github/last-commit/mikew/nvim-drawer) ![](https://img.shields.io/github/commit-activity/y/mikew/nvim-drawer)
 - [leonardo-luz/floatwindow.nvim](https://github.com/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/floatwindow.nvim)
 
+- [yesitsfebreeze/space.nvim](https://github.com/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/space.nvim)
 ### HTML
 
 - [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/banana.nvim)

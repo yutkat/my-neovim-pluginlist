@@ -174,6 +174,7 @@
 - [bagohart/diff-mappings.nvim](https://github.com/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/stars/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/last-commit/bagohart/diff-mappings.nvim) ![](https://img.shields.io/github/commit-activity/y/bagohart/diff-mappings.nvim)
 - [GlennMm/auto-git-add.nvim](https://github.com/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/stars/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/last-commit/GlennMm/auto-git-add.nvim) ![](https://img.shields.io/github/commit-activity/y/GlennMm/auto-git-add.nvim)
 - [dlvhdr/gh-addressed.nvim](https://github.com/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/stars/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/last-commit/dlvhdr/gh-addressed.nvim) ![](https://img.shields.io/github/commit-activity/y/dlvhdr/gh-addressed.nvim)
+- [ktakayama/partial-stage.nvim](https://github.com/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/stars/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/last-commit/ktakayama/partial-stage.nvim) ![](https://img.shields.io/github/commit-activity/y/ktakayama/partial-stage.nvim)
 
 ### git commit
 
