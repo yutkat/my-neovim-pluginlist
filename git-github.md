@@ -340,6 +340,8 @@
 - [LuccaRomanelli/git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/git-review.nvim)
 - [barrettruth/fugitive-ts.nvim](https://github.com/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/stars/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/fugitive-ts.nvim)
 - [joao-lobao/githunks.nvim](https://github.com/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/stars/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/githunks.nvim)
+- [dev-shetty/easydiff.nvim](https://github.com/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/stars/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/last-commit/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shetty/easydiff.nvim)
+- [msegoviadev/nvim-iterview](https://github.com/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/stars/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/last-commit/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/commit-activity/y/msegoviadev/nvim-iterview)
 
 #### image diff
 

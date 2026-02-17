@@ -127,6 +127,7 @@
 - [MisterGrinvalds/tmux.nvim](https://github.com/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/stars/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/last-commit/MisterGrinvalds/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterGrinvalds/tmux.nvim)
 - [husseinmirzaki/nvim-tmux-integration](https://github.com/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/stars/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/last-commit/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/commit-activity/y/husseinmirzaki/nvim-tmux-integration)
 - [shateq/TmuxReparent.nvim](https://github.com/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/stars/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/last-commit/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/commit-activity/y/shateq/TmuxReparent.nvim)
+- [js/tmux-sendit.nvim](https://github.com/js/tmux-sendit.nvim) ![](https://img.shields.io/github/stars/js/tmux-sendit.nvim) ![](https://img.shields.io/github/last-commit/js/tmux-sendit.nvim) ![](https://img.shields.io/github/commit-activity/y/js/tmux-sendit.nvim)
 
 ##### tmux alternative
 
