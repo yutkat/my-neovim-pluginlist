@@ -101,6 +101,7 @@
 - [m-takeuchi/fzfkasten.nvim](https://github.com/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/stars/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/last-commit/m-takeuchi/fzfkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/m-takeuchi/fzfkasten.nvim)
 - [y4m3/zettel-meta.nvim](https://github.com/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/stars/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/last-commit/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/y4m3/zettel-meta.nvim)
 - [riodelphino/zk-auto-update.nvim](https://github.com/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/stars/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/zk-auto-update.nvim)
+- [snehlsen/zettelkasten.nvim](https://github.com/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/stars/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/snehlsen/zettelkasten.nvim)
 
 ### Markdown
 
@@ -130,6 +131,7 @@
 - [paulatcodescout/csnotes.nvim](https://github.com/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/stars/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/last-commit/paulatcodescout/csnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/paulatcodescout/csnotes.nvim)
 - [abdul-hamid-achik/noted.nvim](https://github.com/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/noted.nvim)
 - [ThomasVanRiel/nvim-notediscovery](https://github.com/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/stars/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/last-commit/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/commit-activity/y/ThomasVanRiel/nvim-notediscovery)
+- [pompos02/live-markdown.nvim](https://github.com/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/live-markdown.nvim)
 
 ### Journal
 
@@ -218,6 +220,9 @@
 - [steven-dyson/todo-finder.nvim](https://github.com/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/stars/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/last-commit/steven-dyson/todo-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/steven-dyson/todo-finder.nvim)
 - [cche/todo-txt.nvim](https://github.com/cche/todo-txt.nvim) ![](https://img.shields.io/github/stars/cche/todo-txt.nvim) ![](https://img.shields.io/github/last-commit/cche/todo-txt.nvim) ![](https://img.shields.io/github/commit-activity/y/cche/todo-txt.nvim)
 - [toddhainsworth/todos.nvim](https://github.com/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/stars/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/last-commit/toddhainsworth/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/toddhainsworth/todos.nvim)
+- [grwna/just-do-it.nvim](https://github.com/grwna/just-do-it.nvim) ![](https://img.shields.io/github/stars/grwna/just-do-it.nvim) ![](https://img.shields.io/github/last-commit/grwna/just-do-it.nvim) ![](https://img.shields.io/github/commit-activity/y/grwna/just-do-it.nvim)
+- [nicholasxjy/jishiben.nvim](https://github.com/nicholasxjy/jishiben.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/jishiben.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/jishiben.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/jishiben.nvim)
+- [oliver-hughes/neodo.nvim](https://github.com/oliver-hughes/neodo.nvim) ![](https://img.shields.io/github/stars/oliver-hughes/neodo.nvim) ![](https://img.shields.io/github/last-commit/oliver-hughes/neodo.nvim) ![](https://img.shields.io/github/commit-activity/y/oliver-hughes/neodo.nvim)
 - [TrippW/todo.nvim](https://github.com/TrippW/todo.nvim) ![](https://img.shields.io/github/stars/TrippW/todo.nvim) ![](https://img.shields.io/github/last-commit/TrippW/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/TrippW/todo.nvim)
 - [yamazhen/zhenlist.nvim](https://github.com/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/stars/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/last-commit/yamazhen/zhenlist.nvim) ![](https://img.shields.io/github/commit-activity/y/yamazhen/zhenlist.nvim)
 - [lazybobcat/todolist.nvim](https://github.com/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/stars/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/last-commit/lazybobcat/todolist.nvim) ![](https://img.shields.io/github/commit-activity/y/lazybobcat/todolist.nvim)

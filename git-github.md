@@ -340,6 +340,8 @@
 - [LuccaRomanelli/git-review.nvim](https://github.com/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/git-review.nvim)
 - [barrettruth/fugitive-ts.nvim](https://github.com/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/stars/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/fugitive-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/fugitive-ts.nvim)
 - [joao-lobao/githunks.nvim](https://github.com/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/stars/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/githunks.nvim)
+- [dev-shetty/easydiff.nvim](https://github.com/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/stars/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/last-commit/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shetty/easydiff.nvim)
+- [msegoviadev/nvim-iterview](https://github.com/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/stars/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/last-commit/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/commit-activity/y/msegoviadev/nvim-iterview)
 
 #### image diff
 
@@ -597,6 +599,7 @@
 - [sQVe/nit.nvim](https://github.com/sQVe/nit.nvim) ![](https://img.shields.io/github/stars/sQVe/nit.nvim) ![](https://img.shields.io/github/last-commit/sQVe/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/nit.nvim)
 - [IbraheemHaseeb7/ghpr.nvim](https://github.com/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/stars/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/last-commit/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/IbraheemHaseeb7/ghpr.nvim)
 - [jtubbenhauer/code-review.nvim](https://github.com/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/code-review.nvim)
+- [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-tui-tools/gh-review.nvim)
 
 #### Pull Request Comment
 

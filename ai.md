@@ -620,6 +620,7 @@
 - [natsunlee/doitforme.nvim](https://github.com/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/stars/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/last-commit/natsunlee/doitforme.nvim) ![](https://img.shields.io/github/commit-activity/y/natsunlee/doitforme.nvim)
 - [Sped0n/ocx.nvim](https://github.com/Sped0n/ocx.nvim) ![](https://img.shields.io/github/stars/Sped0n/ocx.nvim) ![](https://img.shields.io/github/last-commit/Sped0n/ocx.nvim) ![](https://img.shields.io/github/commit-activity/y/Sped0n/ocx.nvim)
 - [wwnbb/opencode.nvim](https://github.com/wwnbb/opencode.nvim) ![](https://img.shields.io/github/stars/wwnbb/opencode.nvim) ![](https://img.shields.io/github/last-commit/wwnbb/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/wwnbb/opencode.nvim)
+- [jawoznia/opencode.nvim](https://github.com/jawoznia/opencode.nvim) ![](https://img.shields.io/github/stars/jawoznia/opencode.nvim) ![](https://img.shields.io/github/last-commit/jawoznia/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/jawoznia/opencode.nvim)
 
 ### khulnasoft
 
@@ -734,6 +735,7 @@
 - [aldoborrero/pi-agent.nvim](https://github.com/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/stars/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/aldoborrero/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldoborrero/pi-agent.nvim)
 - [Elmonade/pi-mono.nvim](https://github.com/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/stars/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/last-commit/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/Elmonade/pi-mono.nvim)
 - [Asylcreek/droid-tmux.nvim](https://github.com/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/stars/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/last-commit/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/Asylcreek/droid-tmux.nvim)
+- [willyelm/sidekick.nvim](https://github.com/willyelm/sidekick.nvim) ![](https://img.shields.io/github/stars/willyelm/sidekick.nvim) ![](https://img.shields.io/github/last-commit/willyelm/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/sidekick.nvim)
 
 ## ECA
 
@@ -824,6 +826,7 @@
 - [atusy/aibou.nvim](https://github.com/atusy/aibou.nvim) ![](https://img.shields.io/github/stars/atusy/aibou.nvim) ![](https://img.shields.io/github/last-commit/atusy/aibou.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/aibou.nvim)
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
 - [jingkaihe/kodelet.nvim](https://github.com/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/stars/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/last-commit/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/commit-activity/y/jingkaihe/kodelet.nvim)
+- [martintrojer/promptly.nvim](https://github.com/martintrojer/promptly.nvim) ![](https://img.shields.io/github/stars/martintrojer/promptly.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/promptly.nvim)
 
 ## Token Count
 

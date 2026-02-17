@@ -27,6 +27,7 @@
 - [Necrom4/calcium.nvim](https://github.com/Necrom4/calcium.nvim) ![](https://img.shields.io/github/stars/Necrom4/calcium.nvim) ![](https://img.shields.io/github/last-commit/Necrom4/calcium.nvim) ![](https://img.shields.io/github/commit-activity/y/Necrom4/calcium.nvim)
 - [Otard95/kalker.nvim](https://github.com/Otard95/kalker.nvim) ![](https://img.shields.io/github/stars/Otard95/kalker.nvim) ![](https://img.shields.io/github/last-commit/Otard95/kalker.nvim) ![](https://img.shields.io/github/commit-activity/y/Otard95/kalker.nvim)
 - [dominc8/dolper.nvim](https://github.com/dominc8/dolper.nvim) ![](https://img.shields.io/github/stars/dominc8/dolper.nvim) ![](https://img.shields.io/github/last-commit/dominc8/dolper.nvim) ![](https://img.shields.io/github/commit-activity/y/dominc8/dolper.nvim)
+- [laughp/solva.nvim](https://github.com/laughp/solva.nvim) ![](https://img.shields.io/github/stars/laughp/solva.nvim) ![](https://img.shields.io/github/last-commit/laughp/solva.nvim) ![](https://img.shields.io/github/commit-activity/y/laughp/solva.nvim)
 
 ### Time
 

@@ -91,6 +91,7 @@
 - [JamieByers/semicolonify.nvim](https://github.com/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/stars/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/last-commit/JamieByers/semicolonify.nvim) ![](https://img.shields.io/github/commit-activity/y/JamieByers/semicolonify.nvim)
 - [AlexRainHao/suffix-semicolon.nvim](https://github.com/AlexRainHao/suffix-semicolon.nvim) ![](https://img.shields.io/github/stars/AlexRainHao/suffix-semicolon.nvim) ![](https://img.shields.io/github/last-commit/AlexRainHao/suffix-semicolon.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexRainHao/suffix-semicolon.nvim)
 - [jade-gay/semicolon.nvim](https://github.com/jade-gay/semicolon.nvim) ![](https://img.shields.io/github/stars/jade-gay/semicolon.nvim) ![](https://img.shields.io/github/last-commit/jade-gay/semicolon.nvim) ![](https://img.shields.io/github/commit-activity/y/jade-gay/semicolon.nvim)
+- [Micro-nvim-plugin/Micro-append-end.nvim](https://github.com/Micro-nvim-plugin/Micro-append-end.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-append-end.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-append-end.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-append-end.nvim)
 
 ## Auto convert
 

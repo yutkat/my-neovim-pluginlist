@@ -74,6 +74,7 @@
 - [lucas-garcia-rubio/switcher.nvim](https://github.com/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/stars/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/last-commit/lucas-garcia-rubio/switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lucas-garcia-rubio/switcher.nvim)
 - [afkale/wswitcher.nvim](https://github.com/afkale/wswitcher.nvim) ![](https://img.shields.io/github/stars/afkale/wswitcher.nvim) ![](https://img.shields.io/github/last-commit/afkale/wswitcher.nvim) ![](https://img.shields.io/github/commit-activity/y/afkale/wswitcher.nvim)
 - [MrKyomoto/mini-reverse.nvim](https://github.com/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/stars/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/last-commit/MrKyomoto/mini-reverse.nvim) ![](https://img.shields.io/github/commit-activity/y/MrKyomoto/mini-reverse.nvim)
+- [Micro-nvim-plugin/Micro-word-toggle.nvim](https://github.com/Micro-nvim-plugin/Micro-word-toggle.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-word-toggle.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-word-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-word-toggle.nvim)
 
 ### Punctuation
 
