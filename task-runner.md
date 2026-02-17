@@ -248,6 +248,7 @@
 - [sebszyller/quick-make.nvim](https://github.com/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/stars/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/last-commit/sebszyller/quick-make.nvim) ![](https://img.shields.io/github/commit-activity/y/sebszyller/quick-make.nvim)
 - [jpalazz2/rake.nvim](https://github.com/jpalazz2/rake.nvim) ![](https://img.shields.io/github/stars/jpalazz2/rake.nvim) ![](https://img.shields.io/github/last-commit/jpalazz2/rake.nvim) ![](https://img.shields.io/github/commit-activity/y/jpalazz2/rake.nvim)
 - [sincngraeme/simbuild.nvim](https://github.com/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/stars/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/last-commit/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/sincngraeme/simbuild.nvim)
+- [Seowlfh/compile.nvim](https://github.com/Seowlfh/compile.nvim) ![](https://img.shields.io/github/stars/Seowlfh/compile.nvim) ![](https://img.shields.io/github/last-commit/Seowlfh/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Seowlfh/compile.nvim)
 
 ### use tmux
 

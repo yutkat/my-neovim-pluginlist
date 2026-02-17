@@ -37,6 +37,7 @@
 - [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/stars/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/noir4y/comment-translate.nvim)
 - [RUNFUNRUN/comment-translate.nvim](https://github.com/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/stars/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/RUNFUNRUN/comment-translate.nvim)
 - [nicholasxjy/translator.nvim](https://github.com/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/translator.nvim)
+- [alexhokl/nvim-kanji-to-hiragana](https://github.com/alexhokl/nvim-kanji-to-hiragana) ![](https://img.shields.io/github/stars/alexhokl/nvim-kanji-to-hiragana) ![](https://img.shields.io/github/last-commit/alexhokl/nvim-kanji-to-hiragana) ![](https://img.shields.io/github/commit-activity/y/alexhokl/nvim-kanji-to-hiragana)
 
 ## i18n
 

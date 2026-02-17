@@ -40,6 +40,10 @@
 - [martindur/zdiff.nvim](https://github.com/martindur/zdiff.nvim) ![](https://img.shields.io/github/stars/martindur/zdiff.nvim) ![](https://img.shields.io/github/last-commit/martindur/zdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/martindur/zdiff.nvim)
 - [flamingoosesoftwareinc/swap-merge.nvim](https://github.com/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/stars/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/last-commit/flamingoosesoftwareinc/swap-merge.nvim) ![](https://img.shields.io/github/commit-activity/y/flamingoosesoftwareinc/swap-merge.nvim)
 - [YouSame2/inlinediff-nvim](https://github.com/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/stars/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/last-commit/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/commit-activity/y/YouSame2/inlinediff-nvim)
+- [comiluv/tabdiff.nvim](https://github.com/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/stars/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/last-commit/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/comiluv/tabdiff.nvim)
+- [dev-shetty/easydiff.nvim](https://github.com/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/stars/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/last-commit/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shetty/easydiff.nvim)
+- [finegs/dirdiff.nvim](https://github.com/finegs/dirdiff.nvim) ![](https://img.shields.io/github/stars/finegs/dirdiff.nvim) ![](https://img.shields.io/github/last-commit/finegs/dirdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/finegs/dirdiff.nvim)
+- [msegoviadev/nvim-iterview](https://github.com/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/stars/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/last-commit/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/commit-activity/y/msegoviadev/nvim-iterview)
 
 ### Diff Register
 

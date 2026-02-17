@@ -597,6 +597,7 @@
 - [sQVe/nit.nvim](https://github.com/sQVe/nit.nvim) ![](https://img.shields.io/github/stars/sQVe/nit.nvim) ![](https://img.shields.io/github/last-commit/sQVe/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/sQVe/nit.nvim)
 - [IbraheemHaseeb7/ghpr.nvim](https://github.com/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/stars/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/last-commit/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/IbraheemHaseeb7/ghpr.nvim)
 - [jtubbenhauer/code-review.nvim](https://github.com/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/code-review.nvim)
+- [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-tui-tools/gh-review.nvim)
 
 #### Pull Request Comment
 
