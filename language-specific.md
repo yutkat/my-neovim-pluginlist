@@ -728,7 +728,6 @@
 
 #### Umple
 
-- [DraftTin/umple.nvim](https://github.com/DraftTin/umple.nvim) ![](https://img.shields.io/github/stars/DraftTin/umple.nvim) ![](https://img.shields.io/github/last-commit/DraftTin/umple.nvim) ![](https://img.shields.io/github/commit-activity/y/DraftTin/umple.nvim)
 - [umple/umple.nvim](https://github.com/umple/umple.nvim) ![](https://img.shields.io/github/stars/umple/umple.nvim) ![](https://img.shields.io/github/last-commit/umple/umple.nvim) ![](https://img.shields.io/github/commit-activity/y/umple/umple.nvim)
 
 #### Storm
