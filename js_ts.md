@@ -266,7 +266,6 @@
 
 - [bassamsdata/vite.nvim](https://github.com/bassamsdata/vite.nvim) ![](https://img.shields.io/github/stars/bassamsdata/vite.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/vite.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/vite.nvim)
 - [MarcWeber/nvim-vite-launch-editor](https://github.com/MarcWeber/nvim-vite-launch-editor) ![](https://img.shields.io/github/stars/MarcWeber/nvim-vite-launch-editor) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-vite-launch-editor) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-vite-launch-editor)
-- [MarcWeber/nvim-vite-run-dev-populate-qwikfix](https://github.com/MarcWeber/nvim-vite-run-dev-populate-qwikfix) ![](https://img.shields.io/github/stars/MarcWeber/nvim-vite-run-dev-populate-qwikfix) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-vite-run-dev-populate-qwikfix) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-vite-run-dev-populate-qwikfix)
 
 #### Playground
 
