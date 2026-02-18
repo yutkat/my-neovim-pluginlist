@@ -105,6 +105,7 @@
 - [denialofsandwich/sudo.nvim](https://github.com/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/stars/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/last-commit/denialofsandwich/sudo.nvim) ![](https://img.shields.io/github/commit-activity/y/denialofsandwich/sudo.nvim)
 - [gnsfujiwara/suda.nvim](https://github.com/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/stars/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/last-commit/gnsfujiwara/suda.nvim) ![](https://img.shields.io/github/commit-activity/y/gnsfujiwara/suda.nvim)
 - [pynappo/sudow.nvim](https://github.com/pynappo/sudow.nvim) ![](https://img.shields.io/github/stars/pynappo/sudow.nvim) ![](https://img.shields.io/github/last-commit/pynappo/sudow.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/sudow.nvim)
+- [alex-k03/sudo-write.nvim](https://github.com/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/stars/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/last-commit/alex-k03/sudo-write.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-k03/sudo-write.nvim)
 
 #### quit
 
