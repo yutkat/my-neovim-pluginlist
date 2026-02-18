@@ -289,6 +289,7 @@
 - [blitzarx1/todoer.nvim](https://github.com/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/stars/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/last-commit/blitzarx1/todoer.nvim) ![](https://img.shields.io/github/commit-activity/y/blitzarx1/todoer.nvim)
 - [RodrigoAroeira/tick.nvim](https://github.com/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/stars/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/last-commit/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/RodrigoAroeira/tick.nvim)
 - [JOSA-OpenLab/todo.nvim](https://github.com/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/stars/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/last-commit/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/JOSA-OpenLab/todo.nvim)
+- [toftul/nvim-td](https://github.com/toftul/nvim-td) ![](https://img.shields.io/github/stars/toftul/nvim-td) ![](https://img.shields.io/github/last-commit/toftul/nvim-td) ![](https://img.shields.io/github/commit-activity/y/toftul/nvim-td)
 
 #### Google Task
 
