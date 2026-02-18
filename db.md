@@ -114,7 +114,6 @@
 
 ### Metabase
 
-- [YGautier/mb-query.nvim](https://github.com/YGautier/mb-query.nvim) ![](https://img.shields.io/github/stars/YGautier/mb-query.nvim) ![](https://img.shields.io/github/last-commit/YGautier/mb-query.nvim) ![](https://img.shields.io/github/commit-activity/y/YGautier/mb-query.nvim)
 
 ### DuckDB
 
