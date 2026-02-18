@@ -102,6 +102,7 @@
 - [neutrie/pinbuff.nvim](https://github.com/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/stars/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/last-commit/neutrie/pinbuff.nvim) ![](https://img.shields.io/github/commit-activity/y/neutrie/pinbuff.nvim)
 - [GrammAcc/intervention.nvim](https://github.com/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/stars/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/last-commit/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/commit-activity/y/GrammAcc/intervention.nvim)
 - [ailrk/telescope-context.nvim](https://github.com/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/stars/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/last-commit/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/telescope-context.nvim)
+- [gormanity/starmark.nvim](https://github.com/gormanity/starmark.nvim) ![](https://img.shields.io/github/stars/gormanity/starmark.nvim) ![](https://img.shields.io/github/last-commit/gormanity/starmark.nvim) ![](https://img.shields.io/github/commit-activity/y/gormanity/starmark.nvim)
 
 ### floating marker(easymotion style)
 

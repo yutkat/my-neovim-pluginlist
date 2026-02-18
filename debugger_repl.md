@@ -77,6 +77,7 @@
 - [taku25/UDB.nvim](https://github.com/taku25/UDB.nvim) ![](https://img.shields.io/github/stars/taku25/UDB.nvim) ![](https://img.shields.io/github/last-commit/taku25/UDB.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UDB.nvim)
 - [ownself/nvim-dap-unity](https://github.com/ownself/nvim-dap-unity) ![](https://img.shields.io/github/stars/ownself/nvim-dap-unity) ![](https://img.shields.io/github/last-commit/ownself/nvim-dap-unity) ![](https://img.shields.io/github/commit-activity/y/ownself/nvim-dap-unity)
 - [hl037/nvim-dap-ghidra-sync](https://github.com/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/stars/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/last-commit/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/commit-activity/y/hl037/nvim-dap-ghidra-sync)
+- [Jaehaks/nvim-dap-matlab](https://github.com/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/stars/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/last-commit/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/nvim-dap-matlab)
 
 #### Launch.json
 

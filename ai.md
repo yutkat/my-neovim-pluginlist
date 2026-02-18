@@ -278,6 +278,7 @@
 - [PhoneMinThu/neoai.nvim](https://github.com/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/stars/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/last-commit/PhoneMinThu/neoai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhoneMinThu/neoai.nvim)
 - [avastmick/simple-ai-assist.nvim](https://github.com/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/stars/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/last-commit/avastmick/simple-ai-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/avastmick/simple-ai-assist.nvim)
 - [robcmills/prompt.nvim](https://github.com/robcmills/prompt.nvim) ![](https://img.shields.io/github/stars/robcmills/prompt.nvim) ![](https://img.shields.io/github/last-commit/robcmills/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/prompt.nvim)
+- [harshel721/VayAI.nvim](https://github.com/harshel721/VayAI.nvim) ![](https://img.shields.io/github/stars/harshel721/VayAI.nvim) ![](https://img.shields.io/github/last-commit/harshel721/VayAI.nvim) ![](https://img.shields.io/github/commit-activity/y/harshel721/VayAI.nvim)
 - [nathom/delphi.nvim](https://github.com/nathom/delphi.nvim) ![](https://img.shields.io/github/stars/nathom/delphi.nvim) ![](https://img.shields.io/github/last-commit/nathom/delphi.nvim) ![](https://img.shields.io/github/commit-activity/y/nathom/delphi.nvim)
 - [lucabenaventew/llc.nvim](https://github.com/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/stars/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/last-commit/lucabenaventew/llc.nvim) ![](https://img.shields.io/github/commit-activity/y/lucabenaventew/llc.nvim)
 - [heyitscarl-dev/ferret.nvim](https://github.com/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/stars/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/last-commit/heyitscarl-dev/ferret.nvim) ![](https://img.shields.io/github/commit-activity/y/heyitscarl-dev/ferret.nvim)
@@ -723,6 +724,7 @@
 - [aufam/askai.nvim](https://github.com/aufam/askai.nvim) ![](https://img.shields.io/github/stars/aufam/askai.nvim) ![](https://img.shields.io/github/last-commit/aufam/askai.nvim) ![](https://img.shields.io/github/commit-activity/y/aufam/askai.nvim)
 - [Root-lee/popai.nvim](https://github.com/Root-lee/popai.nvim) ![](https://img.shields.io/github/stars/Root-lee/popai.nvim) ![](https://img.shields.io/github/last-commit/Root-lee/popai.nvim) ![](https://img.shields.io/github/commit-activity/y/Root-lee/popai.nvim)
 - [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ![](https://img.shields.io/github/stars/wsdjeg/chat.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/chat.nvim)
+- [herschel21/nvim-chat-ai](https://github.com/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/stars/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat-ai)
 
 ## AI Terminal
 
@@ -736,6 +738,7 @@
 - [Elmonade/pi-mono.nvim](https://github.com/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/stars/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/last-commit/Elmonade/pi-mono.nvim) ![](https://img.shields.io/github/commit-activity/y/Elmonade/pi-mono.nvim)
 - [Asylcreek/droid-tmux.nvim](https://github.com/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/stars/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/last-commit/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/Asylcreek/droid-tmux.nvim)
 - [willyelm/sidekick.nvim](https://github.com/willyelm/sidekick.nvim) ![](https://img.shields.io/github/stars/willyelm/sidekick.nvim) ![](https://img.shields.io/github/last-commit/willyelm/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/sidekick.nvim)
+- [h-cow/nvim-send-to-ai-in-tmux](https://github.com/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/stars/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/last-commit/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-send-to-ai-in-tmux)
 
 ## ECA
 

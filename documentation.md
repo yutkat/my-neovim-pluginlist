@@ -353,6 +353,7 @@
 - [c-dilks/notator.nvim](https://github.com/c-dilks/notator.nvim) ![](https://img.shields.io/github/stars/c-dilks/notator.nvim) ![](https://img.shields.io/github/last-commit/c-dilks/notator.nvim) ![](https://img.shields.io/github/commit-activity/y/c-dilks/notator.nvim)
 - [efirlus/keepin-md.nvim](https://github.com/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/stars/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/last-commit/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/keepin-md.nvim)
 - [oliver-hughes/md-list.nvim](https://github.com/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/stars/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/last-commit/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/commit-activity/y/oliver-hughes/md-list.nvim)
+- [albertoCaroM/markdown-mote.nvim](https://github.com/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/stars/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/last-commit/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/commit-activity/y/albertoCaroM/markdown-mote.nvim)
 
 #### Markdown details
 
@@ -561,6 +562,7 @@
 - [eczovian/tex.nvim](https://github.com/eczovian/tex.nvim) ![](https://img.shields.io/github/stars/eczovian/tex.nvim) ![](https://img.shields.io/github/last-commit/eczovian/tex.nvim) ![](https://img.shields.io/github/commit-activity/y/eczovian/tex.nvim)
 - [krissen/output-panel.nvim](https://github.com/krissen/output-panel.nvim) ![](https://img.shields.io/github/stars/krissen/output-panel.nvim) ![](https://img.shields.io/github/last-commit/krissen/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/output-panel.nvim)
 - [james-martinez96/texwatch.nvim](https://github.com/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/stars/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/last-commit/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/james-martinez96/texwatch.nvim)
+- [richwomanbtc/overleaf.nvim](https://github.com/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/stars/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/last-commit/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/richwomanbtc/overleaf.nvim)
 
 #### Preview
 
@@ -641,6 +643,7 @@
 ## Code documentaion
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
+- [cetanu/archon.nvim](https://github.com/cetanu/archon.nvim) ![](https://img.shields.io/github/stars/cetanu/archon.nvim) ![](https://img.shields.io/github/last-commit/cetanu/archon.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/archon.nvim)
 
 ## Dadoot
 
