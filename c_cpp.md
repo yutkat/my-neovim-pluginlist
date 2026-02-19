@@ -75,6 +75,7 @@
 ### Macro
 
 - [sciccolella/cmacro.nvim](https://github.com/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/stars/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/last-commit/sciccolella/cmacro.nvim) ![](https://img.shields.io/github/commit-activity/y/sciccolella/cmacro.nvim)
+- [karshPrime/ifdef.nvim](https://github.com/karshPrime/ifdef.nvim) ![](https://img.shields.io/github/stars/karshPrime/ifdef.nvim) ![](https://img.shields.io/github/last-commit/karshPrime/ifdef.nvim) ![](https://img.shields.io/github/commit-activity/y/karshPrime/ifdef.nvim)
 
 ### function
 

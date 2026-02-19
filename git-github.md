@@ -216,6 +216,7 @@
 #### Auto commit
 
 - [AuLaSW/autocommit.nvim](https://github.com/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/stars/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/last-commit/AuLaSW/autocommit.nvim) ![](https://img.shields.io/github/commit-activity/y/AuLaSW/autocommit.nvim)
+- [derwolz/nvim-md-git-autosave](https://github.com/derwolz/nvim-md-git-autosave) ![](https://img.shields.io/github/stars/derwolz/nvim-md-git-autosave) ![](https://img.shields.io/github/last-commit/derwolz/nvim-md-git-autosave) ![](https://img.shields.io/github/commit-activity/y/derwolz/nvim-md-git-autosave)
 
 #### pre-commit
 
@@ -283,6 +284,7 @@
 - [maraxor27/nvim-gitblame](https://github.com/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/stars/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/last-commit/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/commit-activity/y/maraxor27/nvim-gitblame)
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) ![](https://img.shields.io/github/stars/dgrco/blastradius.nvim) ![](https://img.shields.io/github/last-commit/dgrco/blastradius.nvim) ![](https://img.shields.io/github/commit-activity/y/dgrco/blastradius.nvim)
 - [roschaefer/blame.nvim](https://github.com/roschaefer/blame.nvim) ![](https://img.shields.io/github/stars/roschaefer/blame.nvim) ![](https://img.shields.io/github/last-commit/roschaefer/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/roschaefer/blame.nvim)
+- [inari111/git-trace.nvim](https://github.com/inari111/git-trace.nvim) ![](https://img.shields.io/github/stars/inari111/git-trace.nvim) ![](https://img.shields.io/github/last-commit/inari111/git-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/inari111/git-trace.nvim)
 
 ### git log
 
