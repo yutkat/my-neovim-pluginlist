@@ -373,6 +373,7 @@
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
+- [rebelopsio/boundary.nvim](https://github.com/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/stars/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/last-commit/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelopsio/boundary.nvim)
 
 ## Pre-configuration
 
@@ -386,6 +387,7 @@
 - [Massolari/lsp-auto-setup.nvim](https://github.com/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/stars/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/last-commit/Massolari/lsp-auto-setup.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/lsp-auto-setup.nvim)
 - [Myzel394/config-lsp.nvim](https://github.com/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/stars/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/config-lsp.nvim)
 - [asward/workspace-config.nvim](https://github.com/asward/workspace-config.nvim) ![](https://img.shields.io/github/stars/asward/workspace-config.nvim) ![](https://img.shields.io/github/last-commit/asward/workspace-config.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/workspace-config.nvim)
+- [HimadriChakra12/hsc.nvim](https://github.com/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/hsc.nvim)
 
 ## Backwards Compatibility
 

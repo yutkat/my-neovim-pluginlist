@@ -215,6 +215,7 @@
 - [urugus/kagami.nvim](https://github.com/urugus/kagami.nvim) ![](https://img.shields.io/github/stars/urugus/kagami.nvim) ![](https://img.shields.io/github/last-commit/urugus/kagami.nvim) ![](https://img.shields.io/github/commit-activity/y/urugus/kagami.nvim)
 - [roerohan/mark.nvim](https://github.com/roerohan/mark.nvim) ![](https://img.shields.io/github/stars/roerohan/mark.nvim) ![](https://img.shields.io/github/last-commit/roerohan/mark.nvim) ![](https://img.shields.io/github/commit-activity/y/roerohan/mark.nvim)
 - [toki83w/remark-preview.nvim](https://github.com/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/stars/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/last-commit/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/remark-preview.nvim)
+- [adam-coates/markdown-preview.nvim](https://github.com/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/markdown-preview.nvim)
 
 ##### Deno
 
@@ -456,6 +457,7 @@
 - [kevalin/mermaid.nvim](https://github.com/kevalin/mermaid.nvim) ![](https://img.shields.io/github/stars/kevalin/mermaid.nvim) ![](https://img.shields.io/github/last-commit/kevalin/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/kevalin/mermaid.nvim)
 - [ruslan-kurchenko/nvim-beautiful-mermaid](https://github.com/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/stars/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/last-commit/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/commit-activity/y/ruslan-kurchenko/nvim-beautiful-mermaid)
 - [The-Ox-22/beautiful-mermaid.nvim](https://github.com/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Ox-22/beautiful-mermaid.nvim)
+- [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) ![](https://img.shields.io/github/stars/ktrysmt/memd.nvim) ![](https://img.shields.io/github/last-commit/ktrysmt/memd.nvim) ![](https://img.shields.io/github/commit-activity/y/ktrysmt/memd.nvim)
 
 ### pikchr
 

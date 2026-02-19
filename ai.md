@@ -430,6 +430,7 @@
 - [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
 - [douglasjordan2/claudecode.nvim](https://github.com/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/stars/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/last-commit/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/douglasjordan2/claudecode.nvim)
 - [Yota-K/visai.nvim](https://github.com/Yota-K/visai.nvim) ![](https://img.shields.io/github/stars/Yota-K/visai.nvim) ![](https://img.shields.io/github/last-commit/Yota-K/visai.nvim) ![](https://img.shields.io/github/commit-activity/y/Yota-K/visai.nvim)
+- [thbits/jeanCode.nvim](https://github.com/thbits/jeanCode.nvim) ![](https://img.shields.io/github/stars/thbits/jeanCode.nvim) ![](https://img.shields.io/github/last-commit/thbits/jeanCode.nvim) ![](https://img.shields.io/github/commit-activity/y/thbits/jeanCode.nvim)
 - [heliotik/botglue.nvim](https://github.com/heliotik/botglue.nvim) ![](https://img.shields.io/github/stars/heliotik/botglue.nvim) ![](https://img.shields.io/github/last-commit/heliotik/botglue.nvim) ![](https://img.shields.io/github/commit-activity/y/heliotik/botglue.nvim)
 - [yakschuss/nvim-bridge](https://github.com/yakschuss/nvim-bridge) ![](https://img.shields.io/github/stars/yakschuss/nvim-bridge) ![](https://img.shields.io/github/last-commit/yakschuss/nvim-bridge) ![](https://img.shields.io/github/commit-activity/y/yakschuss/nvim-bridge)
 - [genomewalker/prism.nvim](https://github.com/genomewalker/prism.nvim) ![](https://img.shields.io/github/stars/genomewalker/prism.nvim) ![](https://img.shields.io/github/last-commit/genomewalker/prism.nvim) ![](https://img.shields.io/github/commit-activity/y/genomewalker/prism.nvim)
@@ -833,6 +834,7 @@
 ## Token Count
 
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/token-count.nvim)
+- [SimeonGrancharov/claude-cost.nvim](https://github.com/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/stars/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/last-commit/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/SimeonGrancharov/claude-cost.nvim)
 
 ## log
 
