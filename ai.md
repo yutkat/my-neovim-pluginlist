@@ -665,6 +665,7 @@
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ![](https://img.shields.io/github/stars/folke/sidekick.nvim) ![](https://img.shields.io/github/last-commit/folke/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/sidekick.nvim)
 - [agretta/cccontext.nvim](https://github.com/agretta/cccontext.nvim) ![](https://img.shields.io/github/stars/agretta/cccontext.nvim) ![](https://img.shields.io/github/last-commit/agretta/cccontext.nvim) ![](https://img.shields.io/github/commit-activity/y/agretta/cccontext.nvim)
 - [samiulsami/copilot-eldritch.nvim](https://github.com/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/stars/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/copilot-eldritch.nvim)
+- [analogrelay/copilot.nvim](https://github.com/analogrelay/copilot.nvim) ![](https://img.shields.io/github/stars/analogrelay/copilot.nvim) ![](https://img.shields.io/github/last-commit/analogrelay/copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/analogrelay/copilot.nvim)
 
 ### Genie CLI
 

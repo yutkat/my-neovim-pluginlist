@@ -132,6 +132,7 @@
 - [abdul-hamid-achik/noted.nvim](https://github.com/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/noted.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/noted.nvim)
 - [ThomasVanRiel/nvim-notediscovery](https://github.com/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/stars/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/last-commit/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/commit-activity/y/ThomasVanRiel/nvim-notediscovery)
 - [pompos02/live-markdown.nvim](https://github.com/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/live-markdown.nvim)
+- [parksb/simpesys.nvim](https://github.com/parksb/simpesys.nvim) ![](https://img.shields.io/github/stars/parksb/simpesys.nvim) ![](https://img.shields.io/github/last-commit/parksb/simpesys.nvim) ![](https://img.shields.io/github/commit-activity/y/parksb/simpesys.nvim)
 
 ### Journal
 

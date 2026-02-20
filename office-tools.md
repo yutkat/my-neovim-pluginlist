@@ -41,6 +41,7 @@
 - [yahorni/simple-calendar.nvim](https://github.com/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/stars/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/last-commit/yahorni/simple-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/yahorni/simple-calendar.nvim)
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/stars/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/calendar.nvim)
 - [vulcanshen/calendar.nvim](https://github.com/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/stars/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/last-commit/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/vulcanshen/calendar.nvim)
+- [HimadriChakra12/calendar.nvim](https://github.com/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/calendar.nvim)
 
 ## MS Word
 

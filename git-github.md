@@ -123,6 +123,7 @@
 
 - [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [mikinovation/nvim-gitui](https://github.com/mikinovation/nvim-gitui) ![](https://img.shields.io/github/stars/mikinovation/nvim-gitui) ![](https://img.shields.io/github/last-commit/mikinovation/nvim-gitui) ![](https://img.shields.io/github/commit-activity/y/mikinovation/nvim-gitui)
+- [ras0q/better-gitui.nvim](https://github.com/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/stars/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/last-commit/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/ras0q/better-gitui.nvim)
 
 ### lazygit
 
@@ -514,6 +515,7 @@
 - [yannvanhalewyn/jujutsu.nvim](https://github.com/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/stars/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/yannvanhalewyn/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/yannvanhalewyn/jujutsu.nvim)
 - [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ![](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![](https://img.shields.io/github/last-commit/jceb/jiejie.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/jiejie.nvim)
 - [lucasadelino/jjtrack](https://github.com/lucasadelino/jjtrack) ![](https://img.shields.io/github/stars/lucasadelino/jjtrack) ![](https://img.shields.io/github/last-commit/lucasadelino/jjtrack) ![](https://img.shields.io/github/commit-activity/y/lucasadelino/jjtrack)
+- [aguss787/jujutsu.nvim](https://github.com/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/stars/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/aguss787/jujutsu.nvim)
 
 ### diff
 
