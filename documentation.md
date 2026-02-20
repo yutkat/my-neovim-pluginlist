@@ -407,6 +407,7 @@
 
 - [cmdl-dev/search_doc.nvim](https://github.com/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/stars/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/last-commit/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/commit-activity/y/cmdl-dev/search_doc.nvim)
 - [andyjeffries/lazydocs.nvim](https://github.com/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/stars/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/andyjeffries/lazydocs.nvim)
+- [kwerie/vendure-docs-browser.nvim](https://github.com/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/stars/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/last-commit/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/kwerie/vendure-docs-browser.nvim)
 
 ### Fountain
 

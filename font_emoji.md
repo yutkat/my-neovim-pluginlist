@@ -80,6 +80,7 @@
 - [knaveightt/wims.nvim](https://github.com/knaveightt/wims.nvim) ![](https://img.shields.io/github/stars/knaveightt/wims.nvim) ![](https://img.shields.io/github/last-commit/knaveightt/wims.nvim) ![](https://img.shields.io/github/commit-activity/y/knaveightt/wims.nvim)
 - [HunterretnuH/universal-icons.nvim](https://github.com/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/stars/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/last-commit/HunterretnuH/universal-icons.nvim) ![](https://img.shields.io/github/commit-activity/y/HunterretnuH/universal-icons.nvim)
 - [phanen/lscolors.nvim](https://github.com/phanen/lscolors.nvim) ![](https://img.shields.io/github/stars/phanen/lscolors.nvim) ![](https://img.shields.io/github/last-commit/phanen/lscolors.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/lscolors.nvim)
+- [barrettruth/nonicons.nvim](https://github.com/barrettruth/nonicons.nvim) ![](https://img.shields.io/github/stars/barrettruth/nonicons.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/nonicons.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/nonicons.nvim)
 
 ### Devicon color
 

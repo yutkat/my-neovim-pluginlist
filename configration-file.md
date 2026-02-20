@@ -143,6 +143,7 @@
 - [fei6409/log-highlight.nvim](https://github.com/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/stars/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/last-commit/fei6409/log-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fei6409/log-highlight.nvim)
 - [dmitrii-cernev/logjump.nvim](https://github.com/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/stars/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/last-commit/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/commit-activity/y/dmitrii-cernev/logjump.nvim)
 - [rodolfojsv/log-filter.nvim](https://github.com/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/log-filter.nvim)
+- [RubikNube/loglens.nvim](https://github.com/RubikNube/loglens.nvim) ![](https://img.shields.io/github/stars/RubikNube/loglens.nvim) ![](https://img.shields.io/github/last-commit/RubikNube/loglens.nvim) ![](https://img.shields.io/github/commit-activity/y/RubikNube/loglens.nvim)
 
 #### CLIPS(C Language Integrated Production System)
 

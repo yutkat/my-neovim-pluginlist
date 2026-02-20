@@ -113,6 +113,7 @@
 - [Sparkylc2/file-templates.nvim](https://github.com/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/stars/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/last-commit/Sparkylc2/file-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/Sparkylc2/file-templates.nvim)
 - [suzhiking/algotpl.nvim](https://github.com/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/stars/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/last-commit/suzhiking/algotpl.nvim) ![](https://img.shields.io/github/commit-activity/y/suzhiking/algotpl.nvim)
 - [codevogel/hatch.nvim](https://github.com/codevogel/hatch.nvim) ![](https://img.shields.io/github/stars/codevogel/hatch.nvim) ![](https://img.shields.io/github/last-commit/codevogel/hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/codevogel/hatch.nvim)
+- [tkruer/preamble.nvim](https://github.com/tkruer/preamble.nvim) ![](https://img.shields.io/github/stars/tkruer/preamble.nvim) ![](https://img.shields.io/github/last-commit/tkruer/preamble.nvim) ![](https://img.shields.io/github/commit-activity/y/tkruer/preamble.nvim)
 
 #### README
 
