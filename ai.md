@@ -362,8 +362,8 @@
 - [Dheeraj-Murthy/Ollama_chat.nvim](https://github.com/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/stars/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/last-commit/Dheeraj-Murthy/Ollama_chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheeraj-Murthy/Ollama_chat.nvim)
 - [sha0coder/nvim-ollama](https://github.com/sha0coder/nvim-ollama) ![](https://img.shields.io/github/stars/sha0coder/nvim-ollama) ![](https://img.shields.io/github/last-commit/sha0coder/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/sha0coder/nvim-ollama)
 - [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
-
 - [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
+
 ### Claude
 
 - [evangstav/claude.nvim](https://github.com/evangstav/claude.nvim) ![](https://img.shields.io/github/stars/evangstav/claude.nvim) ![](https://img.shields.io/github/last-commit/evangstav/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/evangstav/claude.nvim)
@@ -439,6 +439,7 @@
 - [kengkiat/claude-hurl.nvim](https://github.com/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/stars/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/last-commit/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kengkiat/claude-hurl.nvim)
 
 - [airkewld/claude.nvim](https://github.com/airkewld/claude.nvim) ![](https://img.shields.io/github/stars/airkewld/claude.nvim) ![](https://img.shields.io/github/last-commit/airkewld/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/airkewld/claude.nvim)
+
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
@@ -494,6 +495,7 @@
 - [hungyiloo/nvaider.nvim](https://github.com/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/stars/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/last-commit/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/commit-activity/y/hungyiloo/nvaider.nvim)
 
 - [possumtech/aider-pop.nvim](https://github.com/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/stars/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/last-commit/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/commit-activity/y/possumtech/aider-pop.nvim)
+
 ### CodeGate
 
 - [stacklok/codegate.nvim](https://github.com/stacklok/codegate.nvim) ![](https://img.shields.io/github/stars/stacklok/codegate.nvim) ![](https://img.shields.io/github/last-commit/stacklok/codegate.nvim) ![](https://img.shields.io/github/commit-activity/y/stacklok/codegate.nvim)
@@ -692,6 +694,7 @@
 - [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
 - [tsurumi-yizhou/agents.nvim](https://github.com/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/agents.nvim)
 - [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
+- [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
 
 ### AGENTS.md
 
