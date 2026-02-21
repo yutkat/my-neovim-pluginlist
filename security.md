@@ -44,7 +44,6 @@
 - [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
 - [johnsaigle/zizmor.nvim](https://github.com/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/stars/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/zizmor.nvim)
 
-- [f0rest3xplorer/opengrep.nvim](https://github.com/f0rest3xplorer/opengrep.nvim) ![](https://img.shields.io/github/stars/f0rest3xplorer/opengrep.nvim) ![](https://img.shields.io/github/last-commit/f0rest3xplorer/opengrep.nvim) ![](https://img.shields.io/github/commit-activity/y/f0rest3xplorer/opengrep.nvim)
 - [f0rest3xplorer/sift.nvim](https://github.com/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/stars/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/last-commit/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/f0rest3xplorer/sift.nvim)
 ### Security Code Review
 
