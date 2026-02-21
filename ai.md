@@ -647,6 +647,7 @@
 - [maxpaulus43/llama-cmp.nvim](https://github.com/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/stars/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/last-commit/maxpaulus43/llama-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/maxpaulus43/llama-cmp.nvim)
 - [laulauland/ne.nvim](https://github.com/laulauland/ne.nvim) ![](https://img.shields.io/github/stars/laulauland/ne.nvim) ![](https://img.shields.io/github/last-commit/laulauland/ne.nvim) ![](https://img.shields.io/github/commit-activity/y/laulauland/ne.nvim)
 - [sijirama/sweep.nvim](https://github.com/sijirama/sweep.nvim) ![](https://img.shields.io/github/stars/sijirama/sweep.nvim) ![](https://img.shields.io/github/last-commit/sijirama/sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/sweep.nvim)
+- [orellazri/corridor.nvim](https://github.com/orellazri/corridor.nvim) ![](https://img.shields.io/github/stars/orellazri/corridor.nvim) ![](https://img.shields.io/github/last-commit/orellazri/corridor.nvim) ![](https://img.shields.io/github/commit-activity/y/orellazri/corridor.nvim)
 
 ### Copilot
 
@@ -690,6 +691,7 @@
 - [TheLazyLemur/neogent.nvim](https://github.com/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/stars/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/last-commit/TheLazyLemur/neogent.nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyLemur/neogent.nvim)
 - [awtotty/orc.nvim](https://github.com/awtotty/orc.nvim) ![](https://img.shields.io/github/stars/awtotty/orc.nvim) ![](https://img.shields.io/github/last-commit/awtotty/orc.nvim) ![](https://img.shields.io/github/commit-activity/y/awtotty/orc.nvim)
 - [tsurumi-yizhou/agents.nvim](https://github.com/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/agents.nvim)
+- [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
 
 ### AGENTS.md
 

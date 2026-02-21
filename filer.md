@@ -97,6 +97,7 @@
 - [Olyxz16/triad.nvim](https://github.com/Olyxz16/triad.nvim) ![](https://img.shields.io/github/stars/Olyxz16/triad.nvim) ![](https://img.shields.io/github/last-commit/Olyxz16/triad.nvim) ![](https://img.shields.io/github/commit-activity/y/Olyxz16/triad.nvim)
 - [dghuuloc/fexptr.nvim](https://github.com/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/stars/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/fexptr.nvim)
 - [JuaniRaggio/vired.nvim](https://github.com/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/stars/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/last-commit/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/commit-activity/y/JuaniRaggio/vired.nvim)
+- [CypDasHuhn/vdir.nvim](https://github.com/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/vdir.nvim)
 
 ### gx
 

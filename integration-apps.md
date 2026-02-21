@@ -188,6 +188,7 @@
 - [MunsMan/kitty-navigator.nvim](https://github.com/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/stars/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/last-commit/MunsMan/kitty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/MunsMan/kitty-navigator.nvim)
 - [Toprun123/PicVim](https://github.com/Toprun123/PicVim) ![](https://img.shields.io/github/stars/Toprun123/PicVim) ![](https://img.shields.io/github/last-commit/Toprun123/PicVim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/PicVim)
 - [ksmai/power-mode.nvim](https://github.com/ksmai/power-mode.nvim) ![](https://img.shields.io/github/stars/ksmai/power-mode.nvim) ![](https://img.shields.io/github/last-commit/ksmai/power-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ksmai/power-mode.nvim)
+- [degnbol/kitty-conf.nvim](https://github.com/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/stars/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/last-commit/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/commit-activity/y/degnbol/kitty-conf.nvim)
 
 ##### Image
 

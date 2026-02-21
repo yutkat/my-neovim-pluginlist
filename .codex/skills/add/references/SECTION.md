@@ -1062,6 +1062,7 @@
 #### Move
 #### MQL
 #### Gno
+#### Gox
 #### Agda
 #### Monkey
 #### GNU APL
