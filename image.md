@@ -110,6 +110,7 @@
 - [mactep/code_to_image.nvim](https://github.com/mactep/code_to_image.nvim) ![](https://img.shields.io/github/stars/mactep/code_to_image.nvim) ![](https://img.shields.io/github/last-commit/mactep/code_to_image.nvim) ![](https://img.shields.io/github/commit-activity/y/mactep/code_to_image.nvim)
 - [flothjl/codeshot.nvim](https://github.com/flothjl/codeshot.nvim) ![](https://img.shields.io/github/stars/flothjl/codeshot.nvim) ![](https://img.shields.io/github/last-commit/flothjl/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/flothjl/codeshot.nvim)
 - [aekasitt/shoyu.nvim](https://github.com/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/stars/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/shoyu.nvim)
+- [taigrr/freeze.nvim](https://github.com/taigrr/freeze.nvim) ![](https://img.shields.io/github/stars/taigrr/freeze.nvim) ![](https://img.shields.io/github/last-commit/taigrr/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/freeze.nvim)
 
 ### SVG
 

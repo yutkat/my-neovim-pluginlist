@@ -61,6 +61,7 @@
 - [teppei22/nvim-log-search](https://github.com/teppei22/nvim-log-search) ![](https://img.shields.io/github/stars/teppei22/nvim-log-search) ![](https://img.shields.io/github/last-commit/teppei22/nvim-log-search) ![](https://img.shields.io/github/commit-activity/y/teppei22/nvim-log-search)
 - [xHugo21/globtrotter.nvim](https://github.com/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/stars/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/last-commit/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/commit-activity/y/xHugo21/globtrotter.nvim)
 - [ericspiddev/nvim-scout](https://github.com/ericspiddev/nvim-scout) ![](https://img.shields.io/github/stars/ericspiddev/nvim-scout) ![](https://img.shields.io/github/last-commit/ericspiddev/nvim-scout) ![](https://img.shields.io/github/commit-activity/y/ericspiddev/nvim-scout)
+- [maureyesdev/accio.nvim](https://github.com/maureyesdev/accio.nvim) ![](https://img.shields.io/github/stars/maureyesdev/accio.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/accio.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/accio.nvim)
 
 ### Window local search
 

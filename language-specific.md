@@ -252,6 +252,7 @@
 - [austincrft/dotnet-test.nvim](https://github.com/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/stars/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/last-commit/austincrft/dotnet-test.nvim) ![](https://img.shields.io/github/commit-activity/y/austincrft/dotnet-test.nvim)
 - [tuliopaim/dotnet-tools.nvim](https://github.com/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dotnet-tools.nvim)
 - [7akimz/neodev-dotnet.nvim](https://github.com/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/stars/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/last-commit/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/7akimz/neodev-dotnet.nvim)
+- [xunafay/dotnet.explorer.nvim](https://github.com/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/stars/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/last-commit/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/xunafay/dotnet.explorer.nvim)
 
 ##### ASP.NET
 
@@ -387,6 +388,7 @@
 - [HiPhish/nvim-cmp-vlime](https://github.com/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/stars/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/last-commit/HiPhish/nvim-cmp-vlime) ![](https://img.shields.io/github/commit-activity/y/HiPhish/nvim-cmp-vlime)
 - [sundbp/lispy-helpers.nvim](https://github.com/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/stars/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/last-commit/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/lispy-helpers.nvim)
 - [joaobzrr/ooze.nvim](https://github.com/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/stars/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/last-commit/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/commit-activity/y/joaobzrr/ooze.nvim)
+- [parenworks/sextant.nvim](https://github.com/parenworks/sextant.nvim) ![](https://img.shields.io/github/stars/parenworks/sextant.nvim) ![](https://img.shields.io/github/last-commit/parenworks/sextant.nvim) ![](https://img.shields.io/github/commit-activity/y/parenworks/sextant.nvim)
 
 #### Lingua Franca
 
@@ -581,6 +583,10 @@
 - [seokgukim/mlua-debugger.nvim](https://github.com/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua-debugger.nvim)
 
 #### Gno
+
+#### Gox
+
+- [doors-dev/nvim-gox](https://github.com/doors-dev/nvim-gox) ![](https://img.shields.io/github/stars/doors-dev/nvim-gox) ![](https://img.shields.io/github/last-commit/doors-dev/nvim-gox) ![](https://img.shields.io/github/commit-activity/y/doors-dev/nvim-gox)
 
 #### Agda
 
