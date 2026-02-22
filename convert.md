@@ -97,6 +97,7 @@
 - [jkaraskiewicz/toggle.nvim](https://github.com/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/stars/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/last-commit/jkaraskiewicz/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/jkaraskiewicz/toggle.nvim)
 - [iquzart/toggleword.nvim](https://github.com/iquzart/toggleword.nvim) ![](https://img.shields.io/github/stars/iquzart/toggleword.nvim) ![](https://img.shields.io/github/last-commit/iquzart/toggleword.nvim) ![](https://img.shields.io/github/commit-activity/y/iquzart/toggleword.nvim)
 - [wfletch/on_off.nvim](https://github.com/wfletch/on_off.nvim) ![](https://img.shields.io/github/stars/wfletch/on_off.nvim) ![](https://img.shields.io/github/last-commit/wfletch/on_off.nvim) ![](https://img.shields.io/github/commit-activity/y/wfletch/on_off.nvim)
+- [fionn/nvim-cycle-boolean](https://github.com/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/stars/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/last-commit/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-cycle-boolean)
 
 ### Shell command
 

@@ -363,6 +363,7 @@
 - [sha0coder/nvim-ollama](https://github.com/sha0coder/nvim-ollama) ![](https://img.shields.io/github/stars/sha0coder/nvim-ollama) ![](https://img.shields.io/github/last-commit/sha0coder/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/sha0coder/nvim-ollama)
 - [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 - [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
+- [mabucio/nvim-ollama](https://github.com/mabucio/nvim-ollama) ![](https://img.shields.io/github/stars/mabucio/nvim-ollama) ![](https://img.shields.io/github/last-commit/mabucio/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/mabucio/nvim-ollama)
 
 ### Claude
 
@@ -745,6 +746,7 @@
 - [Asylcreek/droid-tmux.nvim](https://github.com/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/stars/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/last-commit/Asylcreek/droid-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/Asylcreek/droid-tmux.nvim)
 - [willyelm/sidekick.nvim](https://github.com/willyelm/sidekick.nvim) ![](https://img.shields.io/github/stars/willyelm/sidekick.nvim) ![](https://img.shields.io/github/last-commit/willyelm/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/sidekick.nvim)
 - [h-cow/nvim-send-to-ai-in-tmux](https://github.com/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/stars/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/last-commit/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-send-to-ai-in-tmux)
+- [luk400/vibi.nvim](https://github.com/luk400/vibi.nvim) ![](https://img.shields.io/github/stars/luk400/vibi.nvim) ![](https://img.shields.io/github/last-commit/luk400/vibi.nvim) ![](https://img.shields.io/github/commit-activity/y/luk400/vibi.nvim)
 
 ## ECA
 
@@ -876,6 +878,7 @@
 - [polacekpavel/prompt-yank.nvim](https://github.com/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/stars/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/last-commit/polacekpavel/prompt-yank.nvim) ![](https://img.shields.io/github/commit-activity/y/polacekpavel/prompt-yank.nvim)
 - [macukadam/nvim-claude-paste](https://github.com/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/stars/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/last-commit/macukadam/nvim-claude-paste) ![](https://img.shields.io/github/commit-activity/y/macukadam/nvim-claude-paste)
 - [hjaykl/alleyoop.nvim](https://github.com/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/stars/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/last-commit/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/commit-activity/y/hjaykl/alleyoop.nvim)
+- [gen4438/marginalia.nvim](https://github.com/gen4438/marginalia.nvim) ![](https://img.shields.io/github/stars/gen4438/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gen4438/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gen4438/marginalia.nvim)
 
 ## LLM context
 
