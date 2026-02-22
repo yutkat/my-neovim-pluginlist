@@ -216,7 +216,7 @@
 
 - [getlumos/nvim-lumos](https://github.com/getlumos/nvim-lumos) ![](https://img.shields.io/github/stars/getlumos/nvim-lumos) ![](https://img.shields.io/github/last-commit/getlumos/nvim-lumos) ![](https://img.shields.io/github/commit-activity/y/getlumos/nvim-lumos)
 
-#### C #
+#### C
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)
 - [iabdelkareem/csharp.nvim](https://github.com/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/stars/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/last-commit/iabdelkareem/csharp.nvim) ![](https://img.shields.io/github/commit-activity/y/iabdelkareem/csharp.nvim)
@@ -483,6 +483,10 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+
+#### Viper
+
+- [tiyn/viper.nvim](https://github.com/tiyn/viper.nvim) ![](https://img.shields.io/github/stars/tiyn/viper.nvim) ![](https://img.shields.io/github/last-commit/tiyn/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/viper.nvim)
 
 ### WSL
 
@@ -865,6 +869,7 @@
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
 
 - [gleachkr/swine.nvim](https://github.com/gleachkr/swine.nvim) ![](https://img.shields.io/github/stars/gleachkr/swine.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/swine.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/swine.nvim)
+
 #### Beancount
 
 - [crispgm/cmp-beancount](https://github.com/crispgm/cmp-beancount) ![](https://img.shields.io/github/stars/crispgm/cmp-beancount) ![](https://img.shields.io/github/last-commit/crispgm/cmp-beancount) ![](https://img.shields.io/github/commit-activity/y/crispgm/cmp-beancount)

@@ -447,6 +447,7 @@
 - [tobias-edwards/plantuml-preview.nvim](https://github.com/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/tobias-edwards/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-edwards/plantuml-preview.nvim)
 - [charlesnicholson/plantuml.nvim](https://github.com/charlesnicholson/plantuml.nvim) ![](https://img.shields.io/github/stars/charlesnicholson/plantuml.nvim) ![](https://img.shields.io/github/last-commit/charlesnicholson/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/charlesnicholson/plantuml.nvim)
 - [Sengoku11/plantuml.nvim](https://github.com/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/stars/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/plantuml.nvim)
+- [githiago-f/plantuml.nvim](https://github.com/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/stars/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/last-commit/githiago-f/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/githiago-f/plantuml.nvim)
 
 ### Mermaid
 

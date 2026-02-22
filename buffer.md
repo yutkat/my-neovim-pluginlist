@@ -343,6 +343,7 @@
 - [athar-qadri/scratchpad.nvim](https://github.com/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/stars/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/athar-qadri/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/athar-qadri/scratchpad.nvim)
 - [alexkotusenko/looseleaf.nvim](https://github.com/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/stars/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/last-commit/alexkotusenko/looseleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/alexkotusenko/looseleaf.nvim)
 - [PremBharwani/scratchpad](https://github.com/PremBharwani/scratchpad) ![](https://img.shields.io/github/stars/PremBharwani/scratchpad) ![](https://img.shields.io/github/last-commit/PremBharwani/scratchpad) ![](https://img.shields.io/github/commit-activity/y/PremBharwani/scratchpad)
+- [Ratludu/purgatory.nvim](https://github.com/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/stars/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/last-commit/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/commit-activity/y/Ratludu/purgatory.nvim)
 
 ### buffer Sharing
 
