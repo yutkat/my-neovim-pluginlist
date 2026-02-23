@@ -257,6 +257,7 @@
 - [foredu/jupyter-remote.nvim](https://github.com/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/stars/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/last-commit/foredu/jupyter-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/foredu/jupyter-remote.nvim)
 - [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
 - [ajbucci/ipynb.nvim](https://github.com/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/stars/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbucci/ipynb.nvim)
+- [sunbluesome/callisto.nvim](https://github.com/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/stars/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/callisto.nvim)
 
 ### Pandas
 

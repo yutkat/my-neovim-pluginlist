@@ -41,6 +41,7 @@
 - [jstarts86/java-docs.nvim](https://github.com/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/stars/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/last-commit/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jstarts86/java-docs.nvim)
 - [idelice/nvim-jls](https://github.com/idelice/nvim-jls) ![](https://img.shields.io/github/stars/idelice/nvim-jls) ![](https://img.shields.io/github/last-commit/idelice/nvim-jls) ![](https://img.shields.io/github/commit-activity/y/idelice/nvim-jls)
 - [alessio-vivaldelli/java-creator-nvim](https://github.com/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/stars/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/last-commit/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/commit-activity/y/alessio-vivaldelli/java-creator-nvim)
+- [gzitei/java-utils.nvim](https://github.com/gzitei/java-utils.nvim) ![](https://img.shields.io/github/stars/gzitei/java-utils.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-utils.nvim)
 
 ### package import
 
@@ -70,6 +71,7 @@
 
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
 - [jf-lavoie/maven.test.nvim](https://github.com/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/stars/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/last-commit/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/commit-activity/y/jf-lavoie/maven.test.nvim)
+- [gzitei/java-tester.nvim](https://github.com/gzitei/java-tester.nvim) ![](https://img.shields.io/github/stars/gzitei/java-tester.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-tester.nvim)
 
 ### Coverage
 

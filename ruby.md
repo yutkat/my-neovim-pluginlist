@@ -34,6 +34,7 @@
 - [apaslak/factory_finder.nvim](https://github.com/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/stars/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/last-commit/apaslak/factory_finder.nvim) ![](https://img.shields.io/github/commit-activity/y/apaslak/factory_finder.nvim)
 - [dickdavis/spec-split.nvim](https://github.com/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/stars/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/last-commit/dickdavis/spec-split.nvim) ![](https://img.shields.io/github/commit-activity/y/dickdavis/spec-split.nvim)
 - [markgandolfo/rails_toggle_spec.nvim](https://github.com/markgandolfo/rails_toggle_spec.nvim) ![](https://img.shields.io/github/stars/markgandolfo/rails_toggle_spec.nvim) ![](https://img.shields.io/github/last-commit/markgandolfo/rails_toggle_spec.nvim) ![](https://img.shields.io/github/commit-activity/y/markgandolfo/rails_toggle_spec.nvim)
+- [wassimk/rails-fixture-complete.nvim](https://github.com/wassimk/rails-fixture-complete.nvim) ![](https://img.shields.io/github/stars/wassimk/rails-fixture-complete.nvim) ![](https://img.shields.io/github/last-commit/wassimk/rails-fixture-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/rails-fixture-complete.nvim)
 
 ### LSP
 
@@ -69,6 +70,7 @@
 - [body-clock/view-component.nvim](https://github.com/body-clock/view-component.nvim) ![](https://img.shields.io/github/stars/body-clock/view-component.nvim) ![](https://img.shields.io/github/last-commit/body-clock/view-component.nvim) ![](https://img.shields.io/github/commit-activity/y/body-clock/view-component.nvim)
 - [nedzib/tenant-feature.nvim](https://github.com/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/stars/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/last-commit/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/commit-activity/y/nedzib/tenant-feature.nvim)
 - [tednguyendev/recent_rails.nvim](https://github.com/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/last-commit/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/commit-activity/y/tednguyendev/recent_rails.nvim)
+- [wassimk/flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/stars/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/last-commit/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/flipper-complete.nvim)
 
 ### Redis
 

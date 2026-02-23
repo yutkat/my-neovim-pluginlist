@@ -117,6 +117,7 @@
 - [gh-liu/nvim-bullseye](https://github.com/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/stars/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-bullseye)
 - [BlakeJC94/shelly.nvim](https://github.com/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/shelly.nvim)
 - [urtzienriquez/replent.nvim](https://github.com/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/replent.nvim)
+- [jesseleite/iex.nvim](https://github.com/jesseleite/iex.nvim) ![](https://img.shields.io/github/stars/jesseleite/iex.nvim) ![](https://img.shields.io/github/last-commit/jesseleite/iex.nvim) ![](https://img.shields.io/github/commit-activity/y/jesseleite/iex.nvim)
 
 ### Refactoring,Debugging
 

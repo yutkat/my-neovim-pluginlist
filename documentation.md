@@ -201,6 +201,8 @@
 - [dpi0/moo.nvim](https://github.com/dpi0/moo.nvim) ![](https://img.shields.io/github/stars/dpi0/moo.nvim) ![](https://img.shields.io/github/last-commit/dpi0/moo.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/moo.nvim)
 - [austinliuigi/portal.nvim](https://github.com/austinliuigi/portal.nvim) ![](https://img.shields.io/github/stars/austinliuigi/portal.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/portal.nvim)
 - [pidgeon777/vivify.nvim](https://github.com/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/stars/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/last-commit/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/commit-activity/y/pidgeon777/vivify.nvim)
+- [halkn/nvim-markview](https://github.com/halkn/nvim-markview) ![](https://img.shields.io/github/stars/halkn/nvim-markview) ![](https://img.shields.io/github/last-commit/halkn/nvim-markview) ![](https://img.shields.io/github/commit-activity/y/halkn/nvim-markview)
+- [pompos02/go-live-markdown.nvim](https://github.com/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/go-live-markdown.nvim)
 
 ##### Node
 

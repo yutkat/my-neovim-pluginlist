@@ -108,6 +108,7 @@
 - [0xJWLabs/highlight-colors.nvim](https://github.com/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/stars/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/last-commit/0xJWLabs/highlight-colors.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJWLabs/highlight-colors.nvim)
 - [Godswill-255/colorviewer.nvim](https://github.com/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/stars/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/last-commit/Godswill-255/colorviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Godswill-255/colorviewer.nvim)
 - [aki-masaki/nvim-virtual-colors](https://github.com/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/stars/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/last-commit/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/commit-activity/y/aki-masaki/nvim-virtual-colors)
+- [gzitei/paint.nvim](https://github.com/gzitei/paint.nvim) ![](https://img.shields.io/github/stars/gzitei/paint.nvim) ![](https://img.shields.io/github/last-commit/gzitei/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/paint.nvim)
 
 ### Color picker
 
@@ -121,6 +122,7 @@
 - [eero-lehtinen/oklch-color-picker.nvim](https://github.com/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/stars/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/last-commit/eero-lehtinen/oklch-color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/eero-lehtinen/oklch-color-picker.nvim)
 - [ChausseBenjamin/termpicker.nvim](https://github.com/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/stars/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/last-commit/ChausseBenjamin/termpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/ChausseBenjamin/termpicker.nvim)
 - [r7sqtr/spectra.nvim](https://github.com/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/stars/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/spectra.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/spectra.nvim)
+- [gzitei/color-picker.nvim](https://github.com/gzitei/color-picker.nvim) ![](https://img.shields.io/github/stars/gzitei/color-picker.nvim) ![](https://img.shields.io/github/last-commit/gzitei/color-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/color-picker.nvim)
 
 ### Color Creator
 
@@ -196,6 +198,7 @@
 - [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/which-colorscheme.nvim)
 - [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ![](https://img.shields.io/github/stars/samesense/savitsky.nvim) ![](https://img.shields.io/github/last-commit/samesense/savitsky.nvim) ![](https://img.shields.io/github/commit-activity/y/samesense/savitsky.nvim)
 - [nickshiro/better-colorscheme.nvim](https://github.com/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/stars/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/nickshiro/better-colorscheme.nvim)
+- [MisterPiggie/casper.nvim](https://github.com/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/stars/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/last-commit/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterPiggie/casper.nvim)
 
 ### Colorscheme overwrite
 

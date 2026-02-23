@@ -53,6 +53,7 @@
 ### Syntax
 
 - [BenSeefeldt/qf-format.nvim](https://github.com/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/stars/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/last-commit/BenSeefeldt/qf-format.nvim) ![](https://img.shields.io/github/commit-activity/y/BenSeefeldt/qf-format.nvim)
+- [wassimk/qf-formatter.nvim](https://github.com/wassimk/qf-formatter.nvim) ![](https://img.shields.io/github/stars/wassimk/qf-formatter.nvim) ![](https://img.shields.io/github/last-commit/wassimk/qf-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/qf-formatter.nvim)
 
 ## Location
 

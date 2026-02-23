@@ -62,6 +62,7 @@
 - [anokfireball/sops-edit.nvim](https://github.com/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/stars/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/last-commit/anokfireball/sops-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/anokfireball/sops-edit.nvim)
 - [jellydn/tiny-cloak.nvim](https://github.com/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/stars/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/last-commit/jellydn/tiny-cloak.nvim) ![](https://img.shields.io/github/commit-activity/y/jellydn/tiny-cloak.nvim)
 - [zeybek/camouflage.nvim](https://github.com/zeybek/camouflage.nvim) ![](https://img.shields.io/github/stars/zeybek/camouflage.nvim) ![](https://img.shields.io/github/last-commit/zeybek/camouflage.nvim) ![](https://img.shields.io/github/commit-activity/y/zeybek/camouflage.nvim)
+- [pedropombeiro/uncloak.nvim](https://github.com/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/stars/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/last-commit/pedropombeiro/uncloak.nvim) ![](https://img.shields.io/github/commit-activity/y/pedropombeiro/uncloak.nvim)
 
 ### Password Manager
 
