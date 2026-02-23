@@ -253,6 +253,7 @@
 - [tuliopaim/dotnet-tools.nvim](https://github.com/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/stars/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/last-commit/tuliopaim/dotnet-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tuliopaim/dotnet-tools.nvim)
 - [7akimz/neodev-dotnet.nvim](https://github.com/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/stars/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/last-commit/7akimz/neodev-dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/7akimz/neodev-dotnet.nvim)
 - [xunafay/dotnet.explorer.nvim](https://github.com/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/stars/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/last-commit/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/xunafay/dotnet.explorer.nvim)
+- [dtrh95/csharp-explorer.nvim](https://github.com/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/stars/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/last-commit/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/dtrh95/csharp-explorer.nvim)
 
 ##### ASP.NET
 
@@ -365,6 +366,7 @@
 
 - [ThenWhenceComethEvil/elixir-repl.nvim](https://github.com/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/stars/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/last-commit/ThenWhenceComethEvil/elixir-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/ThenWhenceComethEvil/elixir-repl.nvim)
 - [victor23k/iex.nvim](https://github.com/victor23k/iex.nvim) ![](https://img.shields.io/github/stars/victor23k/iex.nvim) ![](https://img.shields.io/github/last-commit/victor23k/iex.nvim) ![](https://img.shields.io/github/commit-activity/y/victor23k/iex.nvim)
+- [jesseleite/iex.nvim](https://github.com/jesseleite/iex.nvim) ![](https://img.shields.io/github/stars/jesseleite/iex.nvim) ![](https://img.shields.io/github/last-commit/jesseleite/iex.nvim) ![](https://img.shields.io/github/commit-activity/y/jesseleite/iex.nvim)
 
 #### Haskell
 

@@ -989,7 +989,7 @@
 #### Noir
 #### Nature
 #### Lumos
-#### C #
+#### C
 ##### Compile
 ###### Roslyn
 ##### disassembler
@@ -1037,6 +1037,7 @@
 #### fortran
 #### Ghidra
 #### DSL
+#### Viper
 ### WSL
 #### CQL
 ##### Quadrate

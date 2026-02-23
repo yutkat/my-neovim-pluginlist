@@ -42,6 +42,7 @@
 - [wsdjeg/calendar.nvim](https://github.com/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/stars/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/calendar.nvim)
 - [vulcanshen/calendar.nvim](https://github.com/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/stars/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/last-commit/vulcanshen/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/vulcanshen/calendar.nvim)
 - [HimadriChakra12/calendar.nvim](https://github.com/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/calendar.nvim)
+- [gzitei/gcal.nvim](https://github.com/gzitei/gcal.nvim) ![](https://img.shields.io/github/stars/gzitei/gcal.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gcal.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gcal.nvim)
 
 ## MS Word
 

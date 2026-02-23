@@ -209,6 +209,7 @@
 #### Ghostty
 
 - [isak102/ghostty.nvim](https://github.com/isak102/ghostty.nvim) ![](https://img.shields.io/github/stars/isak102/ghostty.nvim) ![](https://img.shields.io/github/last-commit/isak102/ghostty.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/ghostty.nvim)
+- [MisterPiggie/casper.nvim](https://github.com/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/stars/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/last-commit/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterPiggie/casper.nvim)
 
 #### Windows Terminal
 
@@ -526,7 +527,6 @@
 - [nisidabay/txt2mp3.nvim](https://github.com/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/stars/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/txt2mp3.nvim)
 
 ### Core dump
-
 
 ### dump file
 

@@ -46,6 +46,7 @@
 ### Completion
 
 - [teramako/cmp-cmdline-prompt.nvim](https://github.com/teramako/cmp-cmdline-prompt.nvim) ![](https://img.shields.io/github/stars/teramako/cmp-cmdline-prompt.nvim) ![](https://img.shields.io/github/last-commit/teramako/cmp-cmdline-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/teramako/cmp-cmdline-prompt.nvim)
+- [phanen/ctrl_r.nvim](https://github.com/phanen/ctrl_r.nvim) ![](https://img.shields.io/github/stars/phanen/ctrl_r.nvim) ![](https://img.shields.io/github/last-commit/phanen/ctrl_r.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ctrl_r.nvim)
 
 ### GUID
 

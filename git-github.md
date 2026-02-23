@@ -213,6 +213,7 @@
 - [2KAbhishek/co-author.nvim](https://github.com/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/stars/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/last-commit/2KAbhishek/co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/2KAbhishek/co-author.nvim)
 - [Penpen7/telescope-co-author.nvim](https://github.com/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/stars/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/last-commit/Penpen7/telescope-co-author.nvim) ![](https://img.shields.io/github/commit-activity/y/Penpen7/telescope-co-author.nvim)
 - [rcasia/git-mob.nvim](https://github.com/rcasia/git-mob.nvim) ![](https://img.shields.io/github/stars/rcasia/git-mob.nvim) ![](https://img.shields.io/github/last-commit/rcasia/git-mob.nvim) ![](https://img.shields.io/github/commit-activity/y/rcasia/git-mob.nvim)
+- [wassimk/git-coauthors.nvim](https://github.com/wassimk/git-coauthors.nvim) ![](https://img.shields.io/github/stars/wassimk/git-coauthors.nvim) ![](https://img.shields.io/github/last-commit/wassimk/git-coauthors.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/git-coauthors.nvim)
 
 #### Auto commit
 
@@ -283,6 +284,7 @@
 - [pedroren-001/blame.nvim](https://github.com/pedroren-001/blame.nvim) ![](https://img.shields.io/github/stars/pedroren-001/blame.nvim) ![](https://img.shields.io/github/last-commit/pedroren-001/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/pedroren-001/blame.nvim)
 - [Aitai/blamer.nvim](https://github.com/Aitai/blamer.nvim) ![](https://img.shields.io/github/stars/Aitai/blamer.nvim) ![](https://img.shields.io/github/last-commit/Aitai/blamer.nvim) ![](https://img.shields.io/github/commit-activity/y/Aitai/blamer.nvim)
 - [maraxor27/nvim-gitblame](https://github.com/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/stars/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/last-commit/maraxor27/nvim-gitblame) ![](https://img.shields.io/github/commit-activity/y/maraxor27/nvim-gitblame)
+- [phanen/blame_hl.nvim](https://github.com/phanen/blame_hl.nvim) ![](https://img.shields.io/github/stars/phanen/blame_hl.nvim) ![](https://img.shields.io/github/last-commit/phanen/blame_hl.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/blame_hl.nvim)
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) ![](https://img.shields.io/github/stars/dgrco/blastradius.nvim) ![](https://img.shields.io/github/last-commit/dgrco/blastradius.nvim) ![](https://img.shields.io/github/commit-activity/y/dgrco/blastradius.nvim)
 - [roschaefer/blame.nvim](https://github.com/roschaefer/blame.nvim) ![](https://img.shields.io/github/stars/roschaefer/blame.nvim) ![](https://img.shields.io/github/last-commit/roschaefer/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/roschaefer/blame.nvim)
 - [inari111/git-trace.nvim](https://github.com/inari111/git-trace.nvim) ![](https://img.shields.io/github/stars/inari111/git-trace.nvim) ![](https://img.shields.io/github/last-commit/inari111/git-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/inari111/git-trace.nvim)
@@ -605,6 +607,7 @@
 - [IbraheemHaseeb7/ghpr.nvim](https://github.com/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/stars/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/last-commit/IbraheemHaseeb7/ghpr.nvim) ![](https://img.shields.io/github/commit-activity/y/IbraheemHaseeb7/ghpr.nvim)
 - [jtubbenhauer/code-review.nvim](https://github.com/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/code-review.nvim)
 - [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-tui-tools/gh-review.nvim)
+- [gzitei/gh-review.nvim](https://github.com/gzitei/gh-review.nvim) ![](https://img.shields.io/github/stars/gzitei/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gh-review.nvim)
 
 #### Pull Request Comment
 

@@ -117,6 +117,7 @@
 - [gh-liu/nvim-winterm](https://github.com/gh-liu/nvim-winterm) ![](https://img.shields.io/github/stars/gh-liu/nvim-winterm) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-winterm) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-winterm)
 - [latuconsinafr/simpleterm.nvim](https://github.com/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/stars/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/last-commit/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/latuconsinafr/simpleterm.nvim)
 - [salkhalil/summon.nvim](https://github.com/salkhalil/summon.nvim) ![](https://img.shields.io/github/stars/salkhalil/summon.nvim) ![](https://img.shields.io/github/last-commit/salkhalil/summon.nvim) ![](https://img.shields.io/github/commit-activity/y/salkhalil/summon.nvim)
+- [gzitei/terminal.nvim](https://github.com/gzitei/terminal.nvim) ![](https://img.shields.io/github/stars/gzitei/terminal.nvim) ![](https://img.shields.io/github/last-commit/gzitei/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/terminal.nvim)
 
 ### Open
 
