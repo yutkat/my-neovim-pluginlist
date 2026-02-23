@@ -198,7 +198,6 @@
 - [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/which-colorscheme.nvim)
 - [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ![](https://img.shields.io/github/stars/samesense/savitsky.nvim) ![](https://img.shields.io/github/last-commit/samesense/savitsky.nvim) ![](https://img.shields.io/github/commit-activity/y/samesense/savitsky.nvim)
 - [nickshiro/better-colorscheme.nvim](https://github.com/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/stars/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/nickshiro/better-colorscheme.nvim)
-- [MisterPiggie/casper.nvim](https://github.com/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/stars/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/last-commit/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterPiggie/casper.nvim)
 
 ### Colorscheme overwrite
 
@@ -223,7 +222,6 @@
 - [mr55p-dev/color-control.nvim](https://github.com/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/color-control.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/color-control.nvim)
 
 ### filetype colorscheme
-
 
 ### Auto generate colorscheme
 
