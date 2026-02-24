@@ -2087,6 +2087,7 @@
 ### Screen Recording
 ### Movie
 #### YouTube
+#### Manim
 
 # vscode-features.md
 ## VS Code features

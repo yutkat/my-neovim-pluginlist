@@ -652,6 +652,7 @@
 - [laulauland/ne.nvim](https://github.com/laulauland/ne.nvim) ![](https://img.shields.io/github/stars/laulauland/ne.nvim) ![](https://img.shields.io/github/last-commit/laulauland/ne.nvim) ![](https://img.shields.io/github/commit-activity/y/laulauland/ne.nvim)
 - [sijirama/sweep.nvim](https://github.com/sijirama/sweep.nvim) ![](https://img.shields.io/github/stars/sijirama/sweep.nvim) ![](https://img.shields.io/github/last-commit/sijirama/sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/sweep.nvim)
 - [orellazri/corridor.nvim](https://github.com/orellazri/corridor.nvim) ![](https://img.shields.io/github/stars/orellazri/corridor.nvim) ![](https://img.shields.io/github/last-commit/orellazri/corridor.nvim) ![](https://img.shields.io/github/commit-activity/y/orellazri/corridor.nvim)
+- [penczak/llama-line.nvim](https://github.com/penczak/llama-line.nvim) ![](https://img.shields.io/github/stars/penczak/llama-line.nvim) ![](https://img.shields.io/github/last-commit/penczak/llama-line.nvim) ![](https://img.shields.io/github/commit-activity/y/penczak/llama-line.nvim)
 
 ### Copilot
 
@@ -733,6 +734,7 @@
 - [Root-lee/popai.nvim](https://github.com/Root-lee/popai.nvim) ![](https://img.shields.io/github/stars/Root-lee/popai.nvim) ![](https://img.shields.io/github/last-commit/Root-lee/popai.nvim) ![](https://img.shields.io/github/commit-activity/y/Root-lee/popai.nvim)
 - [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ![](https://img.shields.io/github/stars/wsdjeg/chat.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/chat.nvim)
 - [herschel21/nvim-chat-ai](https://github.com/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/stars/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat-ai)
+- [benjaminyakobi/chat.nvim](https://github.com/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/stars/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/last-commit/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminyakobi/chat.nvim)
 
 ## AI Terminal
 

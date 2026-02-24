@@ -78,6 +78,8 @@
 - [ownself/nvim-dap-unity](https://github.com/ownself/nvim-dap-unity) ![](https://img.shields.io/github/stars/ownself/nvim-dap-unity) ![](https://img.shields.io/github/last-commit/ownself/nvim-dap-unity) ![](https://img.shields.io/github/commit-activity/y/ownself/nvim-dap-unity)
 - [hl037/nvim-dap-ghidra-sync](https://github.com/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/stars/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/last-commit/hl037/nvim-dap-ghidra-sync) ![](https://img.shields.io/github/commit-activity/y/hl037/nvim-dap-ghidra-sync)
 - [Jaehaks/nvim-dap-matlab](https://github.com/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/stars/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/last-commit/Jaehaks/nvim-dap-matlab) ![](https://img.shields.io/github/commit-activity/y/Jaehaks/nvim-dap-matlab)
+- [Isletier/nvim-DVAP](https://github.com/Isletier/nvim-DVAP) ![](https://img.shields.io/github/stars/Isletier/nvim-DVAP) ![](https://img.shields.io/github/last-commit/Isletier/nvim-DVAP) ![](https://img.shields.io/github/commit-activity/y/Isletier/nvim-DVAP)
+  - [Isletier/nvim-DVAP-ui](https://github.com/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/stars/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/last-commit/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/commit-activity/y/Isletier/nvim-DVAP-ui)
 
 #### Launch.json
 
@@ -140,6 +142,7 @@
 - [Tert0z/nvim-logp](https://github.com/Tert0z/nvim-logp) ![](https://img.shields.io/github/stars/Tert0z/nvim-logp) ![](https://img.shields.io/github/last-commit/Tert0z/nvim-logp) ![](https://img.shields.io/github/commit-activity/y/Tert0z/nvim-logp)
 - [AndresYague/print-debug.nvim](https://github.com/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/stars/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/print-debug.nvim)
 - [chriswritescode-dev/consolelog.nvim](https://github.com/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/consolelog.nvim)
+- [evanmcpheron/rocketlog.nvim](https://github.com/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcpheron/rocketlog.nvim)
 
 #### stack trace analyze
 
