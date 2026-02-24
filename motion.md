@@ -50,6 +50,7 @@
 - [gen740/SmoothCursor.nvim](https://github.com/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/stars/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/last-commit/gen740/SmoothCursor.nvim) ![](https://img.shields.io/github/commit-activity/y/gen740/SmoothCursor.nvim)
 - [sindrets/view-tween.nvim](https://github.com/sindrets/view-tween.nvim) ![](https://img.shields.io/github/stars/sindrets/view-tween.nvim) ![](https://img.shields.io/github/last-commit/sindrets/view-tween.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrets/view-tween.nvim)
 - [echasnovski/mini.animate](https://github.com/echasnovski/mini.animate) ![](https://img.shields.io/github/stars/echasnovski/mini.animate) ![](https://img.shields.io/github/last-commit/echasnovski/mini.animate) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.animate)
+- [abhinavnatarajan/smooth-scroll.nvim](https://github.com/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/stars/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/last-commit/abhinavnatarajan/smooth-scroll.nvim) ![](https://img.shields.io/github/commit-activity/y/abhinavnatarajan/smooth-scroll.nvim)
 
 ### Label Jump (Easymotion style)
 

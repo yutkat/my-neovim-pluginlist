@@ -608,6 +608,7 @@
 - [jtubbenhauer/code-review.nvim](https://github.com/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/stars/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/last-commit/jtubbenhauer/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/jtubbenhauer/code-review.nvim)
 - [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-tui-tools/gh-review.nvim)
 - [gzitei/gh-review.nvim](https://github.com/gzitei/gh-review.nvim) ![](https://img.shields.io/github/stars/gzitei/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gh-review.nvim)
+- [afewyards/codereview.nvim](https://github.com/afewyards/codereview.nvim) ![](https://img.shields.io/github/stars/afewyards/codereview.nvim) ![](https://img.shields.io/github/last-commit/afewyards/codereview.nvim) ![](https://img.shields.io/github/commit-activity/y/afewyards/codereview.nvim)
 
 #### Pull Request Comment
 
