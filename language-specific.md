@@ -467,7 +467,6 @@
 
 #### D
 
-- [emcclure/dcompiler.nvim](https://github.com/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/stars/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/last-commit/emcclure/dcompiler.nvim) ![](https://img.shields.io/github/commit-activity/y/emcclure/dcompiler.nvim)
 
 #### Dingo
 
