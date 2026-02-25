@@ -232,6 +232,7 @@
 - [maxzwerin/oldfiles.nvim](https://github.com/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/stars/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/last-commit/maxzwerin/oldfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/maxzwerin/oldfiles.nvim)
 - [coil398/mrubuftab.nvim](https://github.com/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/stars/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/last-commit/coil398/mrubuftab.nvim) ![](https://img.shields.io/github/commit-activity/y/coil398/mrubuftab.nvim)
 - [neovim-idea/switcher-nvim](https://github.com/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/stars/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/switcher-nvim)
+- [neio-dev/harbor.nvim](https://github.com/neio-dev/harbor.nvim) ![](https://img.shields.io/github/stars/neio-dev/harbor.nvim) ![](https://img.shields.io/github/last-commit/neio-dev/harbor.nvim) ![](https://img.shields.io/github/commit-activity/y/neio-dev/harbor.nvim)
 
 ##### remote open
 

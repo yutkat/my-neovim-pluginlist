@@ -118,6 +118,7 @@
 - [latuconsinafr/simpleterm.nvim](https://github.com/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/stars/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/last-commit/latuconsinafr/simpleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/latuconsinafr/simpleterm.nvim)
 - [salkhalil/summon.nvim](https://github.com/salkhalil/summon.nvim) ![](https://img.shields.io/github/stars/salkhalil/summon.nvim) ![](https://img.shields.io/github/last-commit/salkhalil/summon.nvim) ![](https://img.shields.io/github/commit-activity/y/salkhalil/summon.nvim)
 - [gzitei/terminal.nvim](https://github.com/gzitei/terminal.nvim) ![](https://img.shields.io/github/stars/gzitei/terminal.nvim) ![](https://img.shields.io/github/last-commit/gzitei/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/terminal.nvim)
+- [beardnick/terminal_mate.nvim](https://github.com/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/stars/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/last-commit/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/commit-activity/y/beardnick/terminal_mate.nvim)
 
 ### Open
 

@@ -391,6 +391,7 @@
 - [jcger/git-open.nvim](https://github.com/jcger/git-open.nvim) ![](https://img.shields.io/github/stars/jcger/git-open.nvim) ![](https://img.shields.io/github/last-commit/jcger/git-open.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/git-open.nvim)
 - [andi242/gitopen.nvim](https://github.com/andi242/gitopen.nvim) ![](https://img.shields.io/github/stars/andi242/gitopen.nvim) ![](https://img.shields.io/github/last-commit/andi242/gitopen.nvim) ![](https://img.shields.io/github/commit-activity/y/andi242/gitopen.nvim)
 - [albxllm/nvim-gotogit](https://github.com/albxllm/nvim-gotogit) ![](https://img.shields.io/github/stars/albxllm/nvim-gotogit) ![](https://img.shields.io/github/last-commit/albxllm/nvim-gotogit) ![](https://img.shields.io/github/commit-activity/y/albxllm/nvim-gotogit)
+- [fuyu510/git_tag_opener.nvim](https://github.com/fuyu510/git_tag_opener.nvim) ![](https://img.shields.io/github/stars/fuyu510/git_tag_opener.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/git_tag_opener.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/git_tag_opener.nvim)
 
 ### git switch
 

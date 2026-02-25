@@ -464,6 +464,7 @@
 #### F
 
 - [noralambda/fsproj-edit.nvim](https://github.com/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/stars/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/last-commit/noralambda/fsproj-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/noralambda/fsproj-edit.nvim)
+- [WillEhrendreich/sagefs.nvim](https://github.com/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/stars/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/last-commit/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/commit-activity/y/WillEhrendreich/sagefs.nvim)
 
 #### D
 

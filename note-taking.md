@@ -292,6 +292,9 @@
 - [RodrigoAroeira/tick.nvim](https://github.com/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/stars/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/last-commit/RodrigoAroeira/tick.nvim) ![](https://img.shields.io/github/commit-activity/y/RodrigoAroeira/tick.nvim)
 - [JOSA-OpenLab/todo.nvim](https://github.com/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/stars/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/last-commit/JOSA-OpenLab/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/JOSA-OpenLab/todo.nvim)
 - [toftul/nvim-td](https://github.com/toftul/nvim-td) ![](https://img.shields.io/github/stars/toftul/nvim-td) ![](https://img.shields.io/github/last-commit/toftul/nvim-td) ![](https://img.shields.io/github/commit-activity/y/toftul/nvim-td)
+- [Fynjirby/tasky.nvim](https://github.com/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/stars/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/last-commit/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/Fynjirby/tasky.nvim)
+- [joninvski/nvim-todo-tasks](https://github.com/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/stars/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/last-commit/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/commit-activity/y/joninvski/nvim-todo-tasks)
+- [tjmisko/taskbuffer.nvim](https://github.com/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/stars/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/last-commit/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tjmisko/taskbuffer.nvim)
 
 #### Google Task
 

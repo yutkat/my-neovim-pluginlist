@@ -226,6 +226,7 @@
 
 - [henriklovhaug/Preview.nvim](https://github.com/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/stars/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/last-commit/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/commit-activity/y/henriklovhaug/Preview.nvim)
 - [vihu/penview.nvim](https://github.com/vihu/penview.nvim) ![](https://img.shields.io/github/stars/vihu/penview.nvim) ![](https://img.shields.io/github/last-commit/vihu/penview.nvim) ![](https://img.shields.io/github/commit-activity/y/vihu/penview.nvim)
+- [manzt/gfm.nvim](https://github.com/manzt/gfm.nvim) ![](https://img.shields.io/github/stars/manzt/gfm.nvim) ![](https://img.shields.io/github/last-commit/manzt/gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/manzt/gfm.nvim)
 
 ##### Go
 
@@ -371,6 +372,7 @@
 
 - [breiting/idado.nvim](https://github.com/breiting/idado.nvim) ![](https://img.shields.io/github/stars/breiting/idado.nvim) ![](https://img.shields.io/github/last-commit/breiting/idado.nvim) ![](https://img.shields.io/github/commit-activity/y/breiting/idado.nvim)
 - [HakonHarnes/img-clip-2.nvim](https://github.com/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/stars/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/last-commit/HakonHarnes/img-clip-2.nvim) ![](https://img.shields.io/github/commit-activity/y/HakonHarnes/img-clip-2.nvim)
+- [smit4k/badges.nvim](https://github.com/smit4k/badges.nvim) ![](https://img.shields.io/github/stars/smit4k/badges.nvim) ![](https://img.shields.io/github/last-commit/smit4k/badges.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/badges.nvim)
 
 #### Markdown concealer
 
