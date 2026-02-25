@@ -186,6 +186,7 @@
 - [ishiooon/codex.nvim](https://github.com/ishiooon/codex.nvim) ![](https://img.shields.io/github/stars/ishiooon/codex.nvim) ![](https://img.shields.io/github/last-commit/ishiooon/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/ishiooon/codex.nvim)
 - [sdcoffey/codex-inline-edits.nvim](https://github.com/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/stars/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/last-commit/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/commit-activity/y/sdcoffey/codex-inline-edits.nvim)
 - [yaadata/codex.nvim](https://github.com/yaadata/codex.nvim) ![](https://img.shields.io/github/stars/yaadata/codex.nvim) ![](https://img.shields.io/github/last-commit/yaadata/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/yaadata/codex.nvim)
+- [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
 
 #### Whisper
 
@@ -428,6 +429,8 @@
 - [thassiov/claude-dashboard.nvim](https://github.com/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/stars/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/last-commit/thassiov/claude-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/thassiov/claude-dashboard.nvim)
 - [mr55p-dev/claude-tmux.nvim](https://github.com/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/stars/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/last-commit/mr55p-dev/claude-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/mr55p-dev/claude-tmux.nvim)
 - [ebrentnelson/claude-code-pane.nvim](https://github.com/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/stars/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/last-commit/ebrentnelson/claude-code-pane.nvim) ![](https://img.shields.io/github/commit-activity/y/ebrentnelson/claude-code-pane.nvim)
+- [hbs9312/nvim-claude-code](https://github.com/hbs9312/nvim-claude-code) ![](https://img.shields.io/github/stars/hbs9312/nvim-claude-code) ![](https://img.shields.io/github/last-commit/hbs9312/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/hbs9312/nvim-claude-code)
+- [jtmkrueger/clmux.nvim](https://github.com/jtmkrueger/clmux.nvim) ![](https://img.shields.io/github/stars/jtmkrueger/clmux.nvim) ![](https://img.shields.io/github/last-commit/jtmkrueger/clmux.nvim) ![](https://img.shields.io/github/commit-activity/y/jtmkrueger/clmux.nvim)
 - [jayadeepk/claude-agents.nvim](https://github.com/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/stars/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/last-commit/jayadeepk/claude-agents.nvim) ![](https://img.shields.io/github/commit-activity/y/jayadeepk/claude-agents.nvim)
 - [mrcloudchase/claude-code.nvim](https://github.com/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/stars/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/last-commit/mrcloudchase/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mrcloudchase/claude-code.nvim)
 - [douglasjordan2/claudecode.nvim](https://github.com/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/stars/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/last-commit/douglasjordan2/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/douglasjordan2/claudecode.nvim)
@@ -653,6 +656,7 @@
 - [sijirama/sweep.nvim](https://github.com/sijirama/sweep.nvim) ![](https://img.shields.io/github/stars/sijirama/sweep.nvim) ![](https://img.shields.io/github/last-commit/sijirama/sweep.nvim) ![](https://img.shields.io/github/commit-activity/y/sijirama/sweep.nvim)
 - [orellazri/corridor.nvim](https://github.com/orellazri/corridor.nvim) ![](https://img.shields.io/github/stars/orellazri/corridor.nvim) ![](https://img.shields.io/github/last-commit/orellazri/corridor.nvim) ![](https://img.shields.io/github/commit-activity/y/orellazri/corridor.nvim)
 - [penczak/llama-line.nvim](https://github.com/penczak/llama-line.nvim) ![](https://img.shields.io/github/stars/penczak/llama-line.nvim) ![](https://img.shields.io/github/last-commit/penczak/llama-line.nvim) ![](https://img.shields.io/github/commit-activity/y/penczak/llama-line.nvim)
+- [anonymous-dev-org/0x0-completion.nvim](https://github.com/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0-completion.nvim)
 
 ### Copilot
 
@@ -750,6 +754,8 @@
 - [willyelm/sidekick.nvim](https://github.com/willyelm/sidekick.nvim) ![](https://img.shields.io/github/stars/willyelm/sidekick.nvim) ![](https://img.shields.io/github/last-commit/willyelm/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/willyelm/sidekick.nvim)
 - [h-cow/nvim-send-to-ai-in-tmux](https://github.com/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/stars/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/last-commit/h-cow/nvim-send-to-ai-in-tmux) ![](https://img.shields.io/github/commit-activity/y/h-cow/nvim-send-to-ai-in-tmux)
 - [luk400/vibi.nvim](https://github.com/luk400/vibi.nvim) ![](https://img.shields.io/github/stars/luk400/vibi.nvim) ![](https://img.shields.io/github/last-commit/luk400/vibi.nvim) ![](https://img.shields.io/github/commit-activity/y/luk400/vibi.nvim)
+- [anonymous-dev-org/0x0.nvim](https://github.com/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0.nvim)
+- [sokinpui/coder-ask.nvim](https://github.com/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder-ask.nvim)
 
 ## ECA
 

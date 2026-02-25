@@ -155,6 +155,7 @@
 - [Frosthaven/native-clipboard.nvim](https://github.com/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/stars/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/last-commit/Frosthaven/native-clipboard.nvim) ![](https://img.shields.io/github/commit-activity/y/Frosthaven/native-clipboard.nvim)
 - [adam-szaj/nvim-rclipboard](https://github.com/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/stars/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/last-commit/adam-szaj/nvim-rclipboard) ![](https://img.shields.io/github/commit-activity/y/adam-szaj/nvim-rclipboard)
 - [Wastelander777/clip-paste.nvim](https://github.com/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/stars/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/last-commit/Wastelander777/clip-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/Wastelander777/clip-paste.nvim)
+- [kbuley/suffuse.nvim](https://github.com/kbuley/suffuse.nvim) ![](https://img.shields.io/github/stars/kbuley/suffuse.nvim) ![](https://img.shields.io/github/last-commit/kbuley/suffuse.nvim) ![](https://img.shields.io/github/commit-activity/y/kbuley/suffuse.nvim)
 
 #### WSL clipboard
 
