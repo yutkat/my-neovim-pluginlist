@@ -111,6 +111,7 @@
 - [flothjl/codeshot.nvim](https://github.com/flothjl/codeshot.nvim) ![](https://img.shields.io/github/stars/flothjl/codeshot.nvim) ![](https://img.shields.io/github/last-commit/flothjl/codeshot.nvim) ![](https://img.shields.io/github/commit-activity/y/flothjl/codeshot.nvim)
 - [aekasitt/shoyu.nvim](https://github.com/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/stars/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/shoyu.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/shoyu.nvim)
 - [taigrr/freeze.nvim](https://github.com/taigrr/freeze.nvim) ![](https://img.shields.io/github/stars/taigrr/freeze.nvim) ![](https://img.shields.io/github/last-commit/taigrr/freeze.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/freeze.nvim)
+- [smit4k/snapshot.nvim](https://github.com/smit4k/snapshot.nvim) ![](https://img.shields.io/github/stars/smit4k/snapshot.nvim) ![](https://img.shields.io/github/last-commit/smit4k/snapshot.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/snapshot.nvim)
 
 ### SVG
 
