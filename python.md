@@ -100,7 +100,6 @@
 
 #### jurigged
 
-- [Proteusiq/moto.nvim](https://github.com/Proteusiq/moto.nvim) ![](https://img.shields.io/github/stars/Proteusiq/moto.nvim) ![](https://img.shields.io/github/last-commit/Proteusiq/moto.nvim) ![](https://img.shields.io/github/commit-activity/y/Proteusiq/moto.nvim)
 
 ### import
 
