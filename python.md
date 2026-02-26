@@ -287,6 +287,7 @@
 
 - [Kristina-Pianykh/nvim-databricks](https://github.com/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/stars/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/last-commit/Kristina-Pianykh/nvim-databricks) ![](https://img.shields.io/github/commit-activity/y/Kristina-Pianykh/nvim-databricks)
 - [nikolaiser/brichka.nvim](https://github.com/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/stars/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/last-commit/nikolaiser/brichka.nvim) ![](https://img.shields.io/github/commit-activity/y/nikolaiser/brichka.nvim)
+- [Srivatsan260/databricks.nvim](https://github.com/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/stars/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/last-commit/Srivatsan260/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/Srivatsan260/databricks.nvim)
 
 ### Scrapy
 

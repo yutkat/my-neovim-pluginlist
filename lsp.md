@@ -203,6 +203,7 @@
 - [taybart/code-actions.nvim](https://github.com/taybart/code-actions.nvim) ![](https://img.shields.io/github/stars/taybart/code-actions.nvim) ![](https://img.shields.io/github/last-commit/taybart/code-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/taybart/code-actions.nvim)
 - [matsixfive/lspui.nvim](https://github.com/matsixfive/lspui.nvim) ![](https://img.shields.io/github/stars/matsixfive/lspui.nvim) ![](https://img.shields.io/github/last-commit/matsixfive/lspui.nvim) ![](https://img.shields.io/github/commit-activity/y/matsixfive/lspui.nvim)
 - [mikejmcguirk/lampshade.nvim](https://github.com/mikejmcguirk/lampshade.nvim) ![](https://img.shields.io/github/stars/mikejmcguirk/lampshade.nvim) ![](https://img.shields.io/github/last-commit/mikejmcguirk/lampshade.nvim) ![](https://img.shields.io/github/commit-activity/y/mikejmcguirk/lampshade.nvim)
+- [C163q/codeaction-lightbulb.nvim](https://github.com/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/stars/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/last-commit/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/C163q/codeaction-lightbulb.nvim)
 
 #### Hint
 

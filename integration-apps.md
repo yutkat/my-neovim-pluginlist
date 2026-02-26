@@ -383,6 +383,7 @@
 - [PreziosiRaffaele/nvim-apex-coverage](https://github.com/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/stars/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/nvim-apex-coverage) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/nvim-apex-coverage)
 - [PreziosiRaffaele/apex-log-analyzer.nvim](https://github.com/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/apex-log-analyzer.nvim)
 - [palecore/brocade.nvim](https://github.com/palecore/brocade.nvim) ![](https://img.shields.io/github/stars/palecore/brocade.nvim) ![](https://img.shields.io/github/last-commit/palecore/brocade.nvim) ![](https://img.shields.io/github/commit-activity/y/palecore/brocade.nvim)
+- [KamilGolis/sf.nvim](https://github.com/KamilGolis/sf.nvim) ![](https://img.shields.io/github/stars/KamilGolis/sf.nvim) ![](https://img.shields.io/github/last-commit/KamilGolis/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/KamilGolis/sf.nvim)
 
 ##### Microsoft Dynamics 365 Business Central
 
@@ -513,6 +514,7 @@
 #### Speech-to-text
 
 - [VyacheslavVanin/spraaktt.nvim](https://github.com/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/spraaktt.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/spraaktt.nvim)
+- [nicolasayotte/dyt.nvim](https://github.com/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/stars/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/last-commit/nicolasayotte/dyt.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasayotte/dyt.nvim)
 
 #### SuperCollider
 

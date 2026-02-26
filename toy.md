@@ -79,6 +79,7 @@
 - [menisadi/numrow.nvim](https://github.com/menisadi/numrow.nvim) ![](https://img.shields.io/github/stars/menisadi/numrow.nvim) ![](https://img.shields.io/github/last-commit/menisadi/numrow.nvim) ![](https://img.shields.io/github/commit-activity/y/menisadi/numrow.nvim)
 - [akhutsishvili/vim-dojo.nvim](https://github.com/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/stars/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/last-commit/akhutsishvili/vim-dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/akhutsishvili/vim-dojo.nvim)
 - [benjilegnard/wpm-caret.nvim](https://github.com/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/stars/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/last-commit/benjilegnard/wpm-caret.nvim) ![](https://img.shields.io/github/commit-activity/y/benjilegnard/wpm-caret.nvim)
+- [execute008/brain.nvim](https://github.com/execute008/brain.nvim) ![](https://img.shields.io/github/stars/execute008/brain.nvim) ![](https://img.shields.io/github/last-commit/execute008/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/execute008/brain.nvim)
 
 ### Turing path
 

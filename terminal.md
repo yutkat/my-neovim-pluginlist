@@ -206,3 +206,4 @@
 ### ansi escape sequence
 
 - [samsze0/terminal-filetype.nvim](https://github.com/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/stars/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/last-commit/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/terminal-filetype.nvim)
+- [yungmood/semantic-zones.nvim](https://github.com/yungmood/semantic-zones.nvim) ![](https://img.shields.io/github/stars/yungmood/semantic-zones.nvim) ![](https://img.shields.io/github/last-commit/yungmood/semantic-zones.nvim) ![](https://img.shields.io/github/commit-activity/y/yungmood/semantic-zones.nvim)

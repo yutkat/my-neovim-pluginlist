@@ -445,6 +445,7 @@
 - [pittcat/tmux-worktrees.nvim](https://github.com/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/stars/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/last-commit/pittcat/tmux-worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/tmux-worktrees.nvim)
 - [nerap/bareme.nvim](https://github.com/nerap/bareme.nvim) ![](https://img.shields.io/github/stars/nerap/bareme.nvim) ![](https://img.shields.io/github/last-commit/nerap/bareme.nvim) ![](https://img.shields.io/github/commit-activity/y/nerap/bareme.nvim)
 - [IMax153/git-worktree.nvim](https://github.com/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/stars/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/IMax153/git-worktree.nvim)
+- [WataruNishimura/git-wt.nvim](https://github.com/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/stars/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/last-commit/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/WataruNishimura/git-wt.nvim)
 
 ### submodule
 
