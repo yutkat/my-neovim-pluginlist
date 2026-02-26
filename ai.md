@@ -852,6 +852,7 @@
 
 - [3ZsForInsomnia/token-count.nvim](https://github.com/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/token-count.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/token-count.nvim)
 - [SimeonGrancharov/claude-cost.nvim](https://github.com/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/stars/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/last-commit/SimeonGrancharov/claude-cost.nvim) ![](https://img.shields.io/github/commit-activity/y/SimeonGrancharov/claude-cost.nvim)
+- [lancekrogers/nvim-token-counter](https://github.com/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/stars/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/last-commit/lancekrogers/nvim-token-counter) ![](https://img.shields.io/github/commit-activity/y/lancekrogers/nvim-token-counter)
 
 ## log
 
