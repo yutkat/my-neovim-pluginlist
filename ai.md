@@ -948,6 +948,7 @@
 - [edward-r/prompty.nvim](https://github.com/edward-r/prompty.nvim) ![](https://img.shields.io/github/stars/edward-r/prompty.nvim) ![](https://img.shields.io/github/last-commit/edward-r/prompty.nvim) ![](https://img.shields.io/github/commit-activity/y/edward-r/prompty.nvim)
 - [PhantomYdn/fabric-ai.nvim](https://github.com/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/stars/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/last-commit/PhantomYdn/fabric-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/PhantomYdn/fabric-ai.nvim)
 - [mikaoelitiana/kilo-code.nvim](https://github.com/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/stars/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/last-commit/mikaoelitiana/kilo-code.nvim) ![](https://img.shields.io/github/commit-activity/y/mikaoelitiana/kilo-code.nvim)
+- [BlakeJC94/llm.nvim](https://github.com/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/llm.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/llm.nvim)
 
 ### Gennie CLI
 

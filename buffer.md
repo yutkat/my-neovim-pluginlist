@@ -170,6 +170,7 @@
 - [DavidRambo/buffer-stacker.nvim](https://github.com/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/stars/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/last-commit/DavidRambo/buffer-stacker.nvim) ![](https://img.shields.io/github/commit-activity/y/DavidRambo/buffer-stacker.nvim)
 - [mkeiji/better-tabs.nvim](https://github.com/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-tabs.nvim)
 - [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/workspaces-nvim)
+- [Rainfxxk/bufferman.nvim](https://github.com/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/bufferman.nvim)
 
 #### create
 
@@ -333,6 +334,7 @@
 - [arctan2/scratch.nvim](https://github.com/arctan2/scratch.nvim) ![](https://img.shields.io/github/stars/arctan2/scratch.nvim) ![](https://img.shields.io/github/last-commit/arctan2/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/arctan2/scratch.nvim)
 - [Arfs6/scrappaper.nvim](https://github.com/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/stars/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/scrappaper.nvim)
 - [pirey/scratch.nvim](https://github.com/pirey/scratch.nvim) ![](https://img.shields.io/github/stars/pirey/scratch.nvim) ![](https://img.shields.io/github/last-commit/pirey/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/scratch.nvim)
+- [BlakeJC94/scrap.nvim](https://github.com/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/scrap.nvim)
 
 ### Scratchpad
 

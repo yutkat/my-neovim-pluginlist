@@ -94,6 +94,7 @@
 - [enie123/sops.nvim](https://github.com/enie123/sops.nvim) ![](https://img.shields.io/github/stars/enie123/sops.nvim) ![](https://img.shields.io/github/last-commit/enie123/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/enie123/sops.nvim)
 - [atmask/sops.nvim](https://github.com/atmask/sops.nvim) ![](https://img.shields.io/github/stars/atmask/sops.nvim) ![](https://img.shields.io/github/last-commit/atmask/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/atmask/sops.nvim)
 - [volkangulen/ansible-vault-encrypt.nvim](https://github.com/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/stars/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/last-commit/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/volkangulen/ansible-vault-encrypt.nvim)
+- [adalbertjnr/pemviewer.nvim](https://github.com/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/stars/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/last-commit/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalbertjnr/pemviewer.nvim)
 
 ## Privacy
 
