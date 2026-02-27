@@ -36,6 +36,7 @@
   - [niels4/websocket-text-relay.nvim](https://github.com/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/stars/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/last-commit/niels4/websocket-text-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/niels4/websocket-text-relay.nvim)
 - [lofic/dummyvisincr.nvim](https://github.com/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/stars/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/last-commit/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/commit-activity/y/lofic/dummyvisincr.nvim)
 - [gh-liu/nvim-mobius](https://github.com/gh-liu/nvim-mobius) ![](https://img.shields.io/github/stars/gh-liu/nvim-mobius) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-mobius) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-mobius)
+- [TeleVoyant/smart-increment.nvim](https://github.com/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/stars/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/last-commit/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/commit-activity/y/TeleVoyant/smart-increment.nvim)
 
 ### Convert Case
 

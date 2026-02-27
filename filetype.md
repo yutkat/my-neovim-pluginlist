@@ -30,6 +30,8 @@
 - [Faria22/ftmemo.nvim](https://github.com/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/stars/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/last-commit/Faria22/ftmemo.nvim) ![](https://img.shields.io/github/commit-activity/y/Faria22/ftmemo.nvim)
 - [mustache-enthusiast/leXtern_ipe.nvim](https://github.com/mustache-enthusiast/leXtern_ipe.nvim) ![](https://img.shields.io/github/stars/mustache-enthusiast/leXtern_ipe.nvim) ![](https://img.shields.io/github/last-commit/mustache-enthusiast/leXtern_ipe.nvim) ![](https://img.shields.io/github/commit-activity/y/mustache-enthusiast/leXtern_ipe.nvim)
 - [Silver-Saucepan/kmymoney.nvim](https://github.com/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/stars/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/last-commit/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/commit-activity/y/Silver-Saucepan/kmymoney.nvim)
+- [sobue-code/nvim-alt-spec](https://github.com/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/stars/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/last-commit/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/commit-activity/y/sobue-code/nvim-alt-spec)
+- [sobue-code/nvim-spec-changelog](https://github.com/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/stars/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/last-commit/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/commit-activity/y/sobue-code/nvim-spec-changelog)
 
 ### filetype colorscheme
 
