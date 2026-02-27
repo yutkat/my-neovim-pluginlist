@@ -441,6 +441,7 @@
 - [ck-zhang/mistake.nvim](https://github.com/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/stars/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/last-commit/ck-zhang/mistake.nvim) ![](https://img.shields.io/github/commit-activity/y/ck-zhang/mistake.nvim)
 - [Russoul/abbrev-expand.nvim](https://github.com/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/stars/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/last-commit/Russoul/abbrev-expand.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/abbrev-expand.nvim)
 - [reyalka/shell-abbr.nvim](https://github.com/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/stars/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/last-commit/reyalka/shell-abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/reyalka/shell-abbr.nvim)
+- [dgtipon/abbrev-gen.nvim](https://github.com/dgtipon/abbrev-gen.nvim) ![](https://img.shields.io/github/stars/dgtipon/abbrev-gen.nvim) ![](https://img.shields.io/github/last-commit/dgtipon/abbrev-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/dgtipon/abbrev-gen.nvim)
 
 ### [Quickfix / Location](./quickfix_location.md)
 

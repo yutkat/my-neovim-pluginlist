@@ -26,6 +26,7 @@
 - [phanen/rec.nvim](https://github.com/phanen/rec.nvim) ![](https://img.shields.io/github/stars/phanen/rec.nvim) ![](https://img.shields.io/github/last-commit/phanen/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/rec.nvim)
 - [willsantiagomedina/rec.nvim](https://github.com/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/rec.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/rec.nvim)
 - [theawakener0/neoreplay.nvim](https://github.com/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/stars/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/last-commit/theawakener0/neoreplay.nvim) ![](https://img.shields.io/github/commit-activity/y/theawakener0/neoreplay.nvim)
+- [SammmE/replays.nvim](https://github.com/SammmE/replays.nvim) ![](https://img.shields.io/github/stars/SammmE/replays.nvim) ![](https://img.shields.io/github/last-commit/SammmE/replays.nvim) ![](https://img.shields.io/github/commit-activity/y/SammmE/replays.nvim)
 
 ### Movie
 

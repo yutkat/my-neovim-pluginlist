@@ -366,6 +366,8 @@
 
 ### HackerNews
 
+- [forked4x/hackernews.nvim](https://github.com/forked4x/hackernews.nvim) ![](https://img.shields.io/github/stars/forked4x/hackernews.nvim) ![](https://img.shields.io/github/last-commit/forked4x/hackernews.nvim) ![](https://img.shields.io/github/commit-activity/y/forked4x/hackernews.nvim)
+
 ### DevDocs
 
 - [emmanueltouzery/apidocs.nvim](https://github.com/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/stars/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/last-commit/emmanueltouzery/apidocs.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanueltouzery/apidocs.nvim)
