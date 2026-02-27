@@ -188,6 +188,7 @@
 - [Hydra0xetc/Openner.nvim](https://github.com/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/stars/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/last-commit/Hydra0xetc/Openner.nvim) ![](https://img.shields.io/github/commit-activity/y/Hydra0xetc/Openner.nvim)
 - [iamironz/android-nvim-plugin](https://github.com/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/stars/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/last-commit/iamironz/android-nvim-plugin) ![](https://img.shields.io/github/commit-activity/y/iamironz/android-nvim-plugin)
 - [AntoineGagnon/android.nvim](https://github.com/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/stars/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/last-commit/AntoineGagnon/android.nvim) ![](https://img.shields.io/github/commit-activity/y/AntoineGagnon/android.nvim)
+- [egordebug/ApkDexEditor.nvim](https://github.com/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/stars/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/last-commit/egordebug/ApkDexEditor.nvim) ![](https://img.shields.io/github/commit-activity/y/egordebug/ApkDexEditor.nvim)
 
 #### adb
 
