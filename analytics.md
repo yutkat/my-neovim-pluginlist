@@ -12,6 +12,7 @@
   - [Writing metrics](#writing-metrics)
   - [Operation Log](#operation-log)
   - [Clockify](#clockify)
+  - [Clockwork](#clockwork)
   - [Performance Test](#performance-test)
 - [Neovim Profiler](#neovim-profiler)
 
@@ -62,6 +63,7 @@
 - [HarshK200/playtime.nvim](https://github.com/HarshK200/playtime.nvim) ![](https://img.shields.io/github/stars/HarshK200/playtime.nvim) ![](https://img.shields.io/github/last-commit/HarshK200/playtime.nvim) ![](https://img.shields.io/github/commit-activity/y/HarshK200/playtime.nvim)
 - [lsshawn/tracktime.nvim](https://github.com/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/stars/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/last-commit/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/commit-activity/y/lsshawn/tracktime.nvim)
 - [SanzharKuandyk/toggl-track.nvim](https://github.com/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/toggl-track.nvim)
+- [taigrr/blast.nvim](https://github.com/taigrr/blast.nvim) ![](https://img.shields.io/github/stars/taigrr/blast.nvim) ![](https://img.shields.io/github/last-commit/taigrr/blast.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/blast.nvim)
 
 #### Timewarrior
 
