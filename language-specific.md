@@ -150,6 +150,7 @@
     - [Fe](#fe)
     - [CoNLL-U](#conll-u)
     - [Koan](#koan)
+    - [Prover9](#prover9)
     - [Prolog](#prolog)
     - [Beancount](#beancount)
     - [incc](#incc)
@@ -866,6 +867,10 @@
 #### Koan
 
 - [TogarashiPepper/koan.nvim](https://github.com/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/stars/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/last-commit/TogarashiPepper/koan.nvim) ![](https://img.shields.io/github/commit-activity/y/TogarashiPepper/koan.nvim)
+
+#### Prover9
+
+- [jkorb/prover9.nvim](https://github.com/jkorb/prover9.nvim) ![](https://img.shields.io/github/stars/jkorb/prover9.nvim) ![](https://img.shields.io/github/last-commit/jkorb/prover9.nvim) ![](https://img.shields.io/github/commit-activity/y/jkorb/prover9.nvim)
 
 #### Prolog
 

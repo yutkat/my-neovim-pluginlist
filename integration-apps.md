@@ -9,6 +9,7 @@
     - [Xcode](#xcode)
     - [Multi IDE](#multi-ide)
   - [JetBrains](#jetbrains)
+  - [Jira](#jira)
   - [Zed](#zed)
   - [Desktop Integration](#desktop-integration)
   - [Blockchain](#blockchain)
@@ -117,6 +118,10 @@
 
 - [vianney-g/jetbrains-scopes.nvim](https://github.com/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/stars/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/last-commit/vianney-g/jetbrains-scopes.nvim) ![](https://img.shields.io/github/commit-activity/y/vianney-g/jetbrains-scopes.nvim)
 - [hisasann/run-storm.nvim](https://github.com/hisasann/run-storm.nvim) ![](https://img.shields.io/github/stars/hisasann/run-storm.nvim) ![](https://img.shields.io/github/last-commit/hisasann/run-storm.nvim) ![](https://img.shields.io/github/commit-activity/y/hisasann/run-storm.nvim)
+
+### Jira
+
+- [sbulav/jira-oil.nvim](https://github.com/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/stars/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/last-commit/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/jira-oil.nvim)
 
 ### Zed
 

@@ -86,6 +86,7 @@
 ### Gesture
 
 - [kiyoon/nvim-hand-gesture](https://github.com/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/stars/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/last-commit/kiyoon/nvim-hand-gesture) ![](https://img.shields.io/github/commit-activity/y/kiyoon/nvim-hand-gesture)
+- [duncanlutz/smack.nvim](https://github.com/duncanlutz/smack.nvim) ![](https://img.shields.io/github/stars/duncanlutz/smack.nvim) ![](https://img.shields.io/github/last-commit/duncanlutz/smack.nvim) ![](https://img.shields.io/github/commit-activity/y/duncanlutz/smack.nvim)
 
 ### Weather
 
