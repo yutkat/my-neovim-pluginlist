@@ -69,6 +69,7 @@
 - [shahshlok/vim-coach.nvim](https://github.com/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/stars/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/last-commit/shahshlok/vim-coach.nvim) ![](https://img.shields.io/github/commit-activity/y/shahshlok/vim-coach.nvim)
 - [saxon1964/neovim-tips](https://github.com/saxon1964/neovim-tips) ![](https://img.shields.io/github/stars/saxon1964/neovim-tips) ![](https://img.shields.io/github/last-commit/saxon1964/neovim-tips) ![](https://img.shields.io/github/commit-activity/y/saxon1964/neovim-tips)
 - [NasParagas/random-key-tips.nvim](https://github.com/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/stars/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/last-commit/NasParagas/random-key-tips.nvim) ![](https://img.shields.io/github/commit-activity/y/NasParagas/random-key-tips.nvim)
+- [boyanangelov/startup-tips.nvim](https://github.com/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/stars/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/last-commit/boyanangelov/startup-tips.nvim) ![](https://img.shields.io/github/commit-activity/y/boyanangelov/startup-tips.nvim)
 
 ### External Manual
 

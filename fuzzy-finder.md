@@ -60,6 +60,7 @@
 - [juniorsundar/refer.nvim](https://github.com/juniorsundar/refer.nvim) ![](https://img.shields.io/github/stars/juniorsundar/refer.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/refer.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/refer.nvim)
 - [liuerfire/television.nvim](https://github.com/liuerfire/television.nvim) ![](https://img.shields.io/github/stars/liuerfire/television.nvim) ![](https://img.shields.io/github/last-commit/liuerfire/television.nvim) ![](https://img.shields.io/github/commit-activity/y/liuerfire/television.nvim)
 - [yesitsfebreeze/finder.nvim](https://github.com/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/finder.nvim)
+- [oyarsa/codespelunker.nvim](https://github.com/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/stars/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/last-commit/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/commit-activity/y/oyarsa/codespelunker.nvim)
 
 ### Telescope Extensions
 

@@ -804,6 +804,7 @@
 #### Xcode
 #### Multi IDE
 ### JetBrains
+### Jira
 ### Zed
 ### Desktop Integration
 ### Blockchain
@@ -1132,6 +1133,7 @@
 #### Fe
 #### CoNLL-U
 #### Koan
+#### Prover9
 #### Prolog
 #### Beancount
 #### incc

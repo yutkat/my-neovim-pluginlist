@@ -51,6 +51,7 @@
 
 - [bkiahstroud/xeref.nvim](https://github.com/bkiahstroud/xeref.nvim) ![](https://img.shields.io/github/stars/bkiahstroud/xeref.nvim) ![](https://img.shields.io/github/last-commit/bkiahstroud/xeref.nvim) ![](https://img.shields.io/github/commit-activity/y/bkiahstroud/xeref.nvim)
 - [h3pei/ruby-fqcn.nvim](https://github.com/h3pei/ruby-fqcn.nvim) ![](https://img.shields.io/github/stars/h3pei/ruby-fqcn.nvim) ![](https://img.shields.io/github/last-commit/h3pei/ruby-fqcn.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/ruby-fqcn.nvim)
+- [matiyas/ruby-namespace-copy.nvim](https://github.com/matiyas/ruby-namespace-copy.nvim) ![](https://img.shields.io/github/stars/matiyas/ruby-namespace-copy.nvim) ![](https://img.shields.io/github/last-commit/matiyas/ruby-namespace-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/matiyas/ruby-namespace-copy.nvim)
 
 ### Gem
 
