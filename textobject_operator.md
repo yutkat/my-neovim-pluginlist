@@ -83,6 +83,7 @@
 - [carlinigraphy/structured.nvim](https://github.com/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/stars/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/last-commit/carlinigraphy/structured.nvim) ![](https://img.shields.io/github/commit-activity/y/carlinigraphy/structured.nvim)
 - [kimpure/warp.nvim](https://github.com/kimpure/warp.nvim) ![](https://img.shields.io/github/stars/kimpure/warp.nvim) ![](https://img.shields.io/github/last-commit/kimpure/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/warp.nvim)
 - [joshjkns/tuck.nvim](https://github.com/joshjkns/tuck.nvim) ![](https://img.shields.io/github/stars/joshjkns/tuck.nvim) ![](https://img.shields.io/github/last-commit/joshjkns/tuck.nvim) ![](https://img.shields.io/github/commit-activity/y/joshjkns/tuck.nvim)
+- [elanmed/surround.nvim](https://github.com/elanmed/surround.nvim) ![](https://img.shields.io/github/stars/elanmed/surround.nvim) ![](https://img.shields.io/github/last-commit/elanmed/surround.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/surround.nvim)
 
 ## Operator
 

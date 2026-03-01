@@ -62,6 +62,7 @@
 - [lefinnok/jobcontrol.nvim](https://github.com/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/stars/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/last-commit/lefinnok/jobcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/lefinnok/jobcontrol.nvim)
 - [davidKristiansen/macpyver.nvim](https://github.com/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/stars/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/last-commit/davidKristiansen/macpyver.nvim) ![](https://img.shields.io/github/commit-activity/y/davidKristiansen/macpyver.nvim)
 - [RazgrizHsu/exer.nvim](https://github.com/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/stars/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/last-commit/RazgrizHsu/exer.nvim) ![](https://img.shields.io/github/commit-activity/y/RazgrizHsu/exer.nvim)
+- [mikeboiko/nvim-flow](https://github.com/mikeboiko/nvim-flow) ![](https://img.shields.io/github/stars/mikeboiko/nvim-flow) ![](https://img.shields.io/github/last-commit/mikeboiko/nvim-flow) ![](https://img.shields.io/github/commit-activity/y/mikeboiko/nvim-flow)
 
 #### TOML
 
@@ -250,6 +251,7 @@
 - [sincngraeme/simbuild.nvim](https://github.com/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/stars/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/last-commit/sincngraeme/simbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/sincngraeme/simbuild.nvim)
 - [Seowlfh/compile.nvim](https://github.com/Seowlfh/compile.nvim) ![](https://img.shields.io/github/stars/Seowlfh/compile.nvim) ![](https://img.shields.io/github/last-commit/Seowlfh/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/Seowlfh/compile.nvim)
 - [benmatselby/nvim-make](https://github.com/benmatselby/nvim-make) ![](https://img.shields.io/github/stars/benmatselby/nvim-make) ![](https://img.shields.io/github/last-commit/benmatselby/nvim-make) ![](https://img.shields.io/github/commit-activity/y/benmatselby/nvim-make)
+- [Aietes/checkmate.nvim](https://github.com/Aietes/checkmate.nvim) ![](https://img.shields.io/github/stars/Aietes/checkmate.nvim) ![](https://img.shields.io/github/last-commit/Aietes/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Aietes/checkmate.nvim)
 
 ### use tmux
 
@@ -275,6 +277,7 @@
 #### just
 
 - [alirezanobakht13/just-runner.nvim](https://github.com/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/stars/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/last-commit/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/alirezanobakht13/just-runner.nvim)
+- [jdearmas/just-compiler.nvim](https://github.com/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/stars/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/just-compiler.nvim)
 
 #### Taskfile
 

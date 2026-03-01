@@ -61,6 +61,7 @@
 - [liuerfire/television.nvim](https://github.com/liuerfire/television.nvim) ![](https://img.shields.io/github/stars/liuerfire/television.nvim) ![](https://img.shields.io/github/last-commit/liuerfire/television.nvim) ![](https://img.shields.io/github/commit-activity/y/liuerfire/television.nvim)
 - [yesitsfebreeze/finder.nvim](https://github.com/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/finder.nvim)
 - [oyarsa/codespelunker.nvim](https://github.com/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/stars/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/last-commit/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/commit-activity/y/oyarsa/codespelunker.nvim)
+- [Bparsons0904/smart-finder.nvim](https://github.com/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/smart-finder.nvim)
 
 ### Telescope Extensions
 

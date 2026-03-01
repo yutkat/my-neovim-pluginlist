@@ -100,6 +100,7 @@
 - [saltytine/typestats.nvim](https://github.com/saltytine/typestats.nvim) ![](https://img.shields.io/github/stars/saltytine/typestats.nvim) ![](https://img.shields.io/github/last-commit/saltytine/typestats.nvim) ![](https://img.shields.io/github/commit-activity/y/saltytine/typestats.nvim)
 - [slowy07/mywpm.nvim](https://github.com/slowy07/mywpm.nvim) ![](https://img.shields.io/github/stars/slowy07/mywpm.nvim) ![](https://img.shields.io/github/last-commit/slowy07/mywpm.nvim) ![](https://img.shields.io/github/commit-activity/y/slowy07/mywpm.nvim)
 - [casni14/TypeCheck.nvim](https://github.com/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/stars/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/last-commit/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/casni14/TypeCheck.nvim)
+- [znuznu/typist.nvim](https://github.com/znuznu/typist.nvim) ![](https://img.shields.io/github/stars/znuznu/typist.nvim) ![](https://img.shields.io/github/last-commit/znuznu/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/znuznu/typist.nvim)
 
 ### Writing metrics
 
