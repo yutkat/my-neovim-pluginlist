@@ -233,6 +233,7 @@
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
 - [javio7/nvim-popcorn](https://github.com/javio7/nvim-popcorn) ![](https://img.shields.io/github/stars/javio7/nvim-popcorn) ![](https://img.shields.io/github/last-commit/javio7/nvim-popcorn) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-popcorn)
 - [divagueame/lacasitos.nvim](https://github.com/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/stars/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/last-commit/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/commit-activity/y/divagueame/lacasitos.nvim)
+- [errael/popup.nvim](https://github.com/errael/popup.nvim) ![](https://img.shields.io/github/stars/errael/popup.nvim) ![](https://img.shields.io/github/last-commit/errael/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/errael/popup.nvim)
 
 ### Animation
 
@@ -242,6 +243,7 @@
 ### FuzzyFinder
 
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
+- [disrupted/frizbee.nvim](https://github.com/disrupted/frizbee.nvim) ![](https://img.shields.io/github/stars/disrupted/frizbee.nvim) ![](https://img.shields.io/github/last-commit/disrupted/frizbee.nvim) ![](https://img.shields.io/github/commit-activity/y/disrupted/frizbee.nvim)
 
 ### Spinner
 

@@ -289,6 +289,7 @@
 - [dgrco/blastradius.nvim](https://github.com/dgrco/blastradius.nvim) ![](https://img.shields.io/github/stars/dgrco/blastradius.nvim) ![](https://img.shields.io/github/last-commit/dgrco/blastradius.nvim) ![](https://img.shields.io/github/commit-activity/y/dgrco/blastradius.nvim)
 - [roschaefer/blame.nvim](https://github.com/roschaefer/blame.nvim) ![](https://img.shields.io/github/stars/roschaefer/blame.nvim) ![](https://img.shields.io/github/last-commit/roschaefer/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/roschaefer/blame.nvim)
 - [inari111/git-trace.nvim](https://github.com/inari111/git-trace.nvim) ![](https://img.shields.io/github/stars/inari111/git-trace.nvim) ![](https://img.shields.io/github/last-commit/inari111/git-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/inari111/git-trace.nvim)
+- [ervinismu/git-line-blame.nvim](https://github.com/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/stars/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/last-commit/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ervinismu/git-line-blame.nvim)
 
 ### git log
 
@@ -447,6 +448,7 @@
 - [nerap/bareme.nvim](https://github.com/nerap/bareme.nvim) ![](https://img.shields.io/github/stars/nerap/bareme.nvim) ![](https://img.shields.io/github/last-commit/nerap/bareme.nvim) ![](https://img.shields.io/github/commit-activity/y/nerap/bareme.nvim)
 - [IMax153/git-worktree.nvim](https://github.com/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/stars/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/IMax153/git-worktree.nvim)
 - [WataruNishimura/git-wt.nvim](https://github.com/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/stars/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/last-commit/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/WataruNishimura/git-wt.nvim)
+- [jack-work/tree-bear.nvim](https://github.com/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/stars/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/last-commit/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-work/tree-bear.nvim)
 
 ### submodule
 
@@ -613,11 +615,13 @@
 - [gh-tui-tools/gh-review.nvim](https://github.com/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/stars/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gh-tui-tools/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gh-tui-tools/gh-review.nvim)
 - [gzitei/gh-review.nvim](https://github.com/gzitei/gh-review.nvim) ![](https://img.shields.io/github/stars/gzitei/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gh-review.nvim)
 - [afewyards/codereview.nvim](https://github.com/afewyards/codereview.nvim) ![](https://img.shields.io/github/stars/afewyards/codereview.nvim) ![](https://img.shields.io/github/last-commit/afewyards/codereview.nvim) ![](https://img.shields.io/github/commit-activity/y/afewyards/codereview.nvim)
+- [flexphere/reviewit.nvim](https://github.com/flexphere/reviewit.nvim) ![](https://img.shields.io/github/stars/flexphere/reviewit.nvim) ![](https://img.shields.io/github/last-commit/flexphere/reviewit.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/reviewit.nvim)
 
 #### Pull Request Comment
 
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/stars/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/last-commit/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/mcnangus/pr-comments.nvim)
 - [tobias-walle/nit.nvim](https://github.com/tobias-walle/nit.nvim) ![](https://img.shields.io/github/stars/tobias-walle/nit.nvim) ![](https://img.shields.io/github/last-commit/tobias-walle/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-walle/nit.nvim)
+- [kyu08/fude.nvim](https://github.com/kyu08/fude.nvim) ![](https://img.shields.io/github/stars/kyu08/fude.nvim) ![](https://img.shields.io/github/last-commit/kyu08/fude.nvim) ![](https://img.shields.io/github/commit-activity/y/kyu08/fude.nvim)
 
 #### Assign
 

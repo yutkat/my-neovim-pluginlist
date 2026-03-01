@@ -444,6 +444,7 @@
 - [kengkiat/claude-hurl.nvim](https://github.com/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/stars/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/last-commit/kengkiat/claude-hurl.nvim) ![](https://img.shields.io/github/commit-activity/y/kengkiat/claude-hurl.nvim)
 
 - [airkewld/claude.nvim](https://github.com/airkewld/claude.nvim) ![](https://img.shields.io/github/stars/airkewld/claude.nvim) ![](https://img.shields.io/github/last-commit/airkewld/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/airkewld/claude.nvim)
+- [miketheprogrammer/Agent.nvim](https://github.com/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/stars/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/last-commit/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/commit-activity/y/miketheprogrammer/Agent.nvim)
 
 ### Amazon Q
 
@@ -678,6 +679,7 @@
 - [agretta/cccontext.nvim](https://github.com/agretta/cccontext.nvim) ![](https://img.shields.io/github/stars/agretta/cccontext.nvim) ![](https://img.shields.io/github/last-commit/agretta/cccontext.nvim) ![](https://img.shields.io/github/commit-activity/y/agretta/cccontext.nvim)
 - [samiulsami/copilot-eldritch.nvim](https://github.com/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/stars/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/copilot-eldritch.nvim)
 - [analogrelay/copilot.nvim](https://github.com/analogrelay/copilot.nvim) ![](https://img.shields.io/github/stars/analogrelay/copilot.nvim) ![](https://img.shields.io/github/last-commit/analogrelay/copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/analogrelay/copilot.nvim)
+- [dustier/copilot-cli.nvim](https://github.com/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/stars/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/last-commit/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dustier/copilot-cli.nvim)
 
 ### Genie CLI
 
@@ -714,6 +716,7 @@
 - [adragomir/pi.nvim](https://github.com/adragomir/pi.nvim) ![](https://img.shields.io/github/stars/adragomir/pi.nvim) ![](https://img.shields.io/github/last-commit/adragomir/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/adragomir/pi.nvim)
 - [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
 - [0xburden/pi.nvim](https://github.com/0xburden/pi.nvim) ![](https://img.shields.io/github/stars/0xburden/pi.nvim) ![](https://img.shields.io/github/last-commit/0xburden/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xburden/pi.nvim)
+- [kurochenko/pi.nvim](https://github.com/kurochenko/pi.nvim) ![](https://img.shields.io/github/stars/kurochenko/pi.nvim) ![](https://img.shields.io/github/last-commit/kurochenko/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/kurochenko/pi.nvim)
 
 ### Amp
 

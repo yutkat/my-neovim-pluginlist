@@ -258,6 +258,7 @@
 - [ajbucci/ipynb.nvim](https://github.com/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/stars/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ajbucci/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbucci/ipynb.nvim)
 - [sunbluesome/callisto.nvim](https://github.com/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/stars/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/callisto.nvim)
 - [cmorales95/jupytext-render.nvim](https://github.com/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/stars/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/last-commit/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/commit-activity/y/cmorales95/jupytext-render.nvim)
+- [brian2001dineen-afk/marimo.nvim](https://github.com/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/marimo.nvim)
 
 ### Pandas
 
