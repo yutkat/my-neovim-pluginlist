@@ -153,6 +153,8 @@
 - [bilyes/daily-notes-index.nvim](https://github.com/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/stars/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/last-commit/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/commit-activity/y/bilyes/daily-notes-index.nvim)
 - [k0ndratov/notes.nvim](https://github.com/k0ndratov/notes.nvim) ![](https://img.shields.io/github/stars/k0ndratov/notes.nvim) ![](https://img.shields.io/github/last-commit/k0ndratov/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/k0ndratov/notes.nvim)
 
+- [chadnorvell/devlog.nvim](https://github.com/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/stars/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/devlog.nvim)
+
 ### ToDo
 
 - [marcushwz/nvim-workbench](https://github.com/marcushwz/nvim-workbench) ![](https://img.shields.io/github/stars/marcushwz/nvim-workbench) ![](https://img.shields.io/github/last-commit/marcushwz/nvim-workbench) ![](https://img.shields.io/github/commit-activity/y/marcushwz/nvim-workbench)

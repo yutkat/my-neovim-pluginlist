@@ -253,6 +253,8 @@
 - [benmatselby/nvim-make](https://github.com/benmatselby/nvim-make) ![](https://img.shields.io/github/stars/benmatselby/nvim-make) ![](https://img.shields.io/github/last-commit/benmatselby/nvim-make) ![](https://img.shields.io/github/commit-activity/y/benmatselby/nvim-make)
 - [Aietes/checkmate.nvim](https://github.com/Aietes/checkmate.nvim) ![](https://img.shields.io/github/stars/Aietes/checkmate.nvim) ![](https://img.shields.io/github/last-commit/Aietes/checkmate.nvim) ![](https://img.shields.io/github/commit-activity/y/Aietes/checkmate.nvim)
 
+- [Melal1/make.nvim](https://github.com/Melal1/make.nvim) ![](https://img.shields.io/github/stars/Melal1/make.nvim) ![](https://img.shields.io/github/last-commit/Melal1/make.nvim) ![](https://img.shields.io/github/commit-activity/y/Melal1/make.nvim)
+
 ### use tmux
 
 - [Veirt/trun.nvim](https://github.com/Veirt/trun.nvim) ![](https://img.shields.io/github/stars/Veirt/trun.nvim) ![](https://img.shields.io/github/last-commit/Veirt/trun.nvim) ![](https://img.shields.io/github/commit-activity/y/Veirt/trun.nvim)

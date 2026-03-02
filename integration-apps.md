@@ -399,6 +399,8 @@
 - [3mpee3mpee/nvim_dw_sync](https://github.com/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/stars/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/last-commit/3mpee3mpee/nvim_dw_sync) ![](https://img.shields.io/github/commit-activity/y/3mpee3mpee/nvim_dw_sync)
 - [IFAKA/prophet.nvim](https://github.com/IFAKA/prophet.nvim) ![](https://img.shields.io/github/stars/IFAKA/prophet.nvim) ![](https://img.shields.io/github/last-commit/IFAKA/prophet.nvim) ![](https://img.shields.io/github/commit-activity/y/IFAKA/prophet.nvim)
 
+- [derhach0v/sf-log.nvim](https://github.com/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/stars/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/last-commit/derhach0v/sf-log.nvim) ![](https://img.shields.io/github/commit-activity/y/derhach0v/sf-log.nvim)
+
 #### Odoo
 
 - [Whenrow/odoo-ls.nvim](https://github.com/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/stars/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/last-commit/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/Whenrow/odoo-ls.nvim)

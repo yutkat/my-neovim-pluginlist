@@ -156,6 +156,8 @@
 - [TheNoeTrevino/haunt.nvim](https://github.com/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/haunt.nvim)
 - [KoinBanks/spear.nvim](https://github.com/KoinBanks/spear.nvim) ![](https://img.shields.io/github/stars/KoinBanks/spear.nvim) ![](https://img.shields.io/github/last-commit/KoinBanks/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/KoinBanks/spear.nvim)
 
+- [vbrdnk/anchorage.nvim](https://github.com/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/stars/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/last-commit/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/commit-activity/y/vbrdnk/anchorage.nvim)
+
 ### etc
 
 - [edluffy/hologram.nvim](https://github.com/edluffy/hologram.nvim) ![](https://img.shields.io/github/stars/edluffy/hologram.nvim) ![](https://img.shields.io/github/last-commit/edluffy/hologram.nvim) ![](https://img.shields.io/github/commit-activity/y/edluffy/hologram.nvim)
