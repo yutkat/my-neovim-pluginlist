@@ -446,6 +446,8 @@
 - [airkewld/claude.nvim](https://github.com/airkewld/claude.nvim) ![](https://img.shields.io/github/stars/airkewld/claude.nvim) ![](https://img.shields.io/github/last-commit/airkewld/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/airkewld/claude.nvim)
 - [miketheprogrammer/Agent.nvim](https://github.com/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/stars/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/last-commit/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/commit-activity/y/miketheprogrammer/Agent.nvim)
 
+- [sophiehicks1/nvim-claude-code](https://github.com/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/stars/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/last-commit/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/sophiehicks1/nvim-claude-code)
+
 ### Amazon Q
 
 - [dapc11/q.nvim](https://github.com/dapc11/q.nvim) ![](https://img.shields.io/github/stars/dapc11/q.nvim) ![](https://img.shields.io/github/last-commit/dapc11/q.nvim) ![](https://img.shields.io/github/commit-activity/y/dapc11/q.nvim)
@@ -686,6 +688,8 @@
 - [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
 - [e3oroush/askCode](https://github.com/e3oroush/askCode) ![](https://img.shields.io/github/stars/e3oroush/askCode) ![](https://img.shields.io/github/last-commit/e3oroush/askCode) ![](https://img.shields.io/github/commit-activity/y/e3oroush/askCode)
 
+- [ofcRS/nvim-acai](https://github.com/ofcRS/nvim-acai) ![](https://img.shields.io/github/stars/ofcRS/nvim-acai) ![](https://img.shields.io/github/last-commit/ofcRS/nvim-acai) ![](https://img.shields.io/github/commit-activity/y/ofcRS/nvim-acai)
+
 ## Agent
 
 - [AndrewMead10/ai-coders.nvim](https://github.com/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/ai-coders.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/ai-coders.nvim)
@@ -788,6 +792,8 @@
 
 - [sriram-mv/kiro.nvim](https://github.com/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/stars/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/last-commit/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-mv/kiro.nvim)
 - [ynnekF/nvim-kiro](https://github.com/ynnekF/nvim-kiro) ![](https://img.shields.io/github/stars/ynnekF/nvim-kiro) ![](https://img.shields.io/github/last-commit/ynnekF/nvim-kiro) ![](https://img.shields.io/github/commit-activity/y/ynnekF/nvim-kiro)
+
+- [seagoj/kiro.nvim](https://github.com/seagoj/kiro.nvim) ![](https://img.shields.io/github/stars/seagoj/kiro.nvim) ![](https://img.shields.io/github/last-commit/seagoj/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/seagoj/kiro.nvim)
 
 ## CodeCompanion
 

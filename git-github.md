@@ -355,6 +355,8 @@
 
 - [sankantsu/gin-diff-image.nvim](https://github.com/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/stars/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/last-commit/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/commit-activity/y/sankantsu/gin-diff-image.nvim)
 
+- [HubertKasperek/gitdx.nvim](https://github.com/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/gitdx.nvim)
+
 ### git rebase
 
 - [yutkat/git-rebase-auto-diff.nvim](https://github.com/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/stars/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/last-commit/yutkat/git-rebase-auto-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/git-rebase-auto-diff.nvim)

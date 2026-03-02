@@ -119,6 +119,8 @@
 - [thgrass/csvcols.nvim](https://github.com/thgrass/csvcols.nvim) ![](https://img.shields.io/github/stars/thgrass/csvcols.nvim) ![](https://img.shields.io/github/last-commit/thgrass/csvcols.nvim) ![](https://img.shields.io/github/commit-activity/y/thgrass/csvcols.nvim)
 - [Kyytox/data-explorer.nvim](https://github.com/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/stars/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/last-commit/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyytox/data-explorer.nvim)
 
+- [kissy24/render-csv.nvim](https://github.com/kissy24/render-csv.nvim) ![](https://img.shields.io/github/stars/kissy24/render-csv.nvim) ![](https://img.shields.io/github/last-commit/kissy24/render-csv.nvim) ![](https://img.shields.io/github/commit-activity/y/kissy24/render-csv.nvim)
+
 ### Jenkins
 
 - [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)

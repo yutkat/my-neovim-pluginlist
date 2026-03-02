@@ -59,6 +59,8 @@
 - [frostzt/bongo-cat.nvim](https://github.com/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/stars/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/last-commit/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/bongo-cat.nvim)
 - [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
 
+- [calvin-gehrig/nvim-fish](https://github.com/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/stars/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/last-commit/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/commit-activity/y/calvin-gehrig/nvim-fish)
+
 ### Coinflip
 
 - [StikyPiston/coinflip.nvim](https://github.com/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/stars/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/coinflip.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/coinflip.nvim)

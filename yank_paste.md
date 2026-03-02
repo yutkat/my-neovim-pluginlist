@@ -76,6 +76,8 @@
 - [Zlatej/copy.nvim](https://github.com/Zlatej/copy.nvim) ![](https://img.shields.io/github/stars/Zlatej/copy.nvim) ![](https://img.shields.io/github/last-commit/Zlatej/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zlatej/copy.nvim)
 - [kenfdev/nvim-clip-line-ref](https://github.com/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/stars/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/last-commit/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/commit-activity/y/kenfdev/nvim-clip-line-ref)
 
+- [chadnorvell/yank-ref.nvim](https://github.com/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/stars/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/yank-ref.nvim)
+
 ### yank node
 
 - [nounder/tree-copy.nvim](https://github.com/nounder/tree-copy.nvim) ![](https://img.shields.io/github/stars/nounder/tree-copy.nvim) ![](https://img.shields.io/github/last-commit/nounder/tree-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/nounder/tree-copy.nvim)
@@ -130,6 +132,8 @@
 - [ravibrock/regisfilter.nvim](https://github.com/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/stars/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/last-commit/ravibrock/regisfilter.nvim) ![](https://img.shields.io/github/commit-activity/y/ravibrock/regisfilter.nvim)
 - [sunesimonsen/killring.nvim](https://github.com/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/killring.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/killring.nvim)
 - [Skyppex/punch-card.nvim](https://github.com/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/stars/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/punch-card.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/punch-card.nvim)
+
+- [tlarivier/repreg.nvim](https://github.com/tlarivier/repreg.nvim) ![](https://img.shields.io/github/stars/tlarivier/repreg.nvim) ![](https://img.shields.io/github/last-commit/tlarivier/repreg.nvim) ![](https://img.shields.io/github/commit-activity/y/tlarivier/repreg.nvim)
 
 ### Lock Register
 

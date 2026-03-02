@@ -100,6 +100,8 @@
 - [wfletch/on_off.nvim](https://github.com/wfletch/on_off.nvim) ![](https://img.shields.io/github/stars/wfletch/on_off.nvim) ![](https://img.shields.io/github/last-commit/wfletch/on_off.nvim) ![](https://img.shields.io/github/commit-activity/y/wfletch/on_off.nvim)
 - [fionn/nvim-cycle-boolean](https://github.com/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/stars/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/last-commit/fionn/nvim-cycle-boolean) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-cycle-boolean)
 
+- [leblocks/toggle.nvim](https://github.com/leblocks/toggle.nvim) ![](https://img.shields.io/github/stars/leblocks/toggle.nvim) ![](https://img.shields.io/github/last-commit/leblocks/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/leblocks/toggle.nvim)
+
 ### Shell command
 
 - [kareltucek/nvim-inplace-preview](https://github.com/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/stars/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/last-commit/kareltucek/nvim-inplace-preview) ![](https://img.shields.io/github/commit-activity/y/kareltucek/nvim-inplace-preview)
