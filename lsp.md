@@ -139,6 +139,7 @@
 - [riodelphino/diagnostic-toggle.nvim](https://github.com/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/stars/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/diagnostic-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/diagnostic-toggle.nvim)
 - [basel184/nvim-pretty-ts-errors](https://github.com/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/stars/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/last-commit/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/commit-activity/y/basel184/nvim-pretty-ts-errors)
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/stars/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/workspace-diagnostics.nvim)
+- [Kurama622/clean-diagnostic](https://github.com/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/commit-activity/y/Kurama622/clean-diagnostic)
 
 ##### Diagnostics goto
 
