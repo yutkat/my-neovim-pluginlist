@@ -115,6 +115,7 @@
 - [adnair2024/md-helper.nvim](https://github.com/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/stars/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/last-commit/adnair2024/md-helper.nvim) ![](https://img.shields.io/github/commit-activity/y/adnair2024/md-helper.nvim)
 - [CrixuAMG/featurepad.nvim](https://github.com/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/featurepad.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/featurepad.nvim)
 - [birdcar/bfm.nvim](https://github.com/birdcar/bfm.nvim) ![](https://img.shields.io/github/stars/birdcar/bfm.nvim) ![](https://img.shields.io/github/last-commit/birdcar/bfm.nvim) ![](https://img.shields.io/github/commit-activity/y/birdcar/bfm.nvim)
+- [AlexBurdu/critic.nvim](https://github.com/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/critic.nvim)
 
 #### Markdown link
 
@@ -635,6 +636,7 @@
 - [gl1tchc0d3r/typstwriter.nvim](https://github.com/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/stars/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/last-commit/gl1tchc0d3r/typstwriter.nvim) ![](https://img.shields.io/github/commit-activity/y/gl1tchc0d3r/typstwriter.nvim)
 - [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/stars/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/al-kot/typst-preview.nvim)
 - [J0schu/typstwatch.nvim](https://github.com/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/stars/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/last-commit/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/J0schu/typstwatch.nvim)
+- [barrettruth/render.nvim](https://github.com/barrettruth/render.nvim) ![](https://img.shields.io/github/stars/barrettruth/render.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/render.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/render.nvim)
 
 ### Textile
 

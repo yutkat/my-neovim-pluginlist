@@ -300,6 +300,10 @@
 
 - [nbeversl/urtext_neovim](https://github.com/nbeversl/urtext_neovim) ![](https://img.shields.io/github/stars/nbeversl/urtext_neovim) ![](https://img.shields.io/github/last-commit/nbeversl/urtext_neovim) ![](https://img.shields.io/github/commit-activity/y/nbeversl/urtext_neovim)
 
+## FastAPI
+
+- [mrpbennett/fastapi.nvim](https://github.com/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/stars/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/last-commit/mrpbennett/fastapi.nvim) ![](https://img.shields.io/github/commit-activity/y/mrpbennett/fastapi.nvim)
+
 ## django
 
 - [shtayeb/nvim-django-shell](https://github.com/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/stars/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/last-commit/shtayeb/nvim-django-shell) ![](https://img.shields.io/github/commit-activity/y/shtayeb/nvim-django-shell)

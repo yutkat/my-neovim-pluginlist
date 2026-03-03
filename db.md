@@ -93,6 +93,7 @@
 
 - [pompos02/oravim.nvim](https://github.com/pompos02/oravim.nvim) ![](https://img.shields.io/github/stars/pompos02/oravim.nvim) ![](https://img.shields.io/github/last-commit/pompos02/oravim.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/oravim.nvim)
 - [pompos02/blink-cmp-plsql.nvim](https://github.com/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/stars/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/last-commit/pompos02/blink-cmp-plsql.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/blink-cmp-plsql.nvim)
+- [ShamatienkoYaroslav/oradev.nvim](https://github.com/ShamatienkoYaroslav/oradev.nvim) ![](https://img.shields.io/github/stars/ShamatienkoYaroslav/oradev.nvim) ![](https://img.shields.io/github/last-commit/ShamatienkoYaroslav/oradev.nvim) ![](https://img.shields.io/github/commit-activity/y/ShamatienkoYaroslav/oradev.nvim)
 
 ### SQLite
 

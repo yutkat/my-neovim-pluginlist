@@ -40,6 +40,7 @@
 - [DuckyShine004/duck-type.nvim](https://github.com/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/stars/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/last-commit/DuckyShine004/duck-type.nvim) ![](https://img.shields.io/github/commit-activity/y/DuckyShine004/duck-type.nvim)
 - [sahaj-b/brainrot.nvim](https://github.com/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/stars/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/last-commit/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/sahaj-b/brainrot.nvim)
 - [tamton-aquib/ads.nvim](https://github.com/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/ads.nvim)
+- [ingenarel/age-verification.nvim](https://github.com/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/stars/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/age-verification.nvim)
 
 #### Hacker typer
 

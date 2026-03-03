@@ -50,6 +50,7 @@
 ## UI
 
 - [NvChad/ui](https://github.com/NvChad/ui) ![](https://img.shields.io/github/stars/NvChad/ui) ![](https://img.shields.io/github/last-commit/NvChad/ui) ![](https://img.shields.io/github/commit-activity/y/NvChad/ui)
+- [kit494way/shisso-ui.nvim](https://github.com/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/stars/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/last-commit/kit494way/shisso-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/kit494way/shisso-ui.nvim)
 
 ## Patch
 
