@@ -118,8 +118,8 @@
 - [senkentarou/csv-tools.nvim](https://github.com/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/stars/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/csv-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/csv-tools.nvim)
 - [thgrass/csvcols.nvim](https://github.com/thgrass/csvcols.nvim) ![](https://img.shields.io/github/stars/thgrass/csvcols.nvim) ![](https://img.shields.io/github/last-commit/thgrass/csvcols.nvim) ![](https://img.shields.io/github/commit-activity/y/thgrass/csvcols.nvim)
 - [Kyytox/data-explorer.nvim](https://github.com/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/stars/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/last-commit/Kyytox/data-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/Kyytox/data-explorer.nvim)
-
 - [kissy24/render-csv.nvim](https://github.com/kissy24/render-csv.nvim) ![](https://img.shields.io/github/stars/kissy24/render-csv.nvim) ![](https://img.shields.io/github/last-commit/kissy24/render-csv.nvim) ![](https://img.shields.io/github/commit-activity/y/kissy24/render-csv.nvim)
+- [kibi2/tirenvi.nvim](https://github.com/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/stars/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/last-commit/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/tirenvi.nvim)
 
 ### Jenkins
 
@@ -134,7 +134,6 @@
 - [CrixuAMG/cron-readable.nvim](https://github.com/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/cron-readable.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/cron-readable.nvim)
 
 ### Drools Rule Language
-
 
 ### Log
 

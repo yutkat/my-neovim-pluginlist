@@ -1479,6 +1479,7 @@
 ## Calendar
 ## MS Word
 ## Excel
+## Printer
 ## Presentation
 ### Slidev
 ### RSVP
@@ -1628,6 +1629,7 @@
 ### Databricks
 ### Scrapy
 ## urtext
+## FastAPI
 ## django
 ## MicroPython
 ## Quix

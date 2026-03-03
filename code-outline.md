@@ -66,6 +66,7 @@
 - [shabaraba/who-called.nvim](https://github.com/shabaraba/who-called.nvim) ![](https://img.shields.io/github/stars/shabaraba/who-called.nvim) ![](https://img.shields.io/github/last-commit/shabaraba/who-called.nvim) ![](https://img.shields.io/github/commit-activity/y/shabaraba/who-called.nvim)
 - [BibekBhusal0/tree-hierarchy.nvim](https://github.com/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/stars/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/BibekBhusal0/tree-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/BibekBhusal0/tree-hierarchy.nvim)
 - [jacksanders-xyz/traverser.nvim](https://github.com/jacksanders-xyz/traverser.nvim) ![](https://img.shields.io/github/stars/jacksanders-xyz/traverser.nvim) ![](https://img.shields.io/github/last-commit/jacksanders-xyz/traverser.nvim) ![](https://img.shields.io/github/commit-activity/y/jacksanders-xyz/traverser.nvim)
+- [mhiro2/code-shape.nvim](https://github.com/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/stars/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/code-shape.nvim)
 
 ## Type Hierarchy
 

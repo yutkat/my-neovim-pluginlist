@@ -73,6 +73,7 @@
 - [nedzib/tenant-feature.nvim](https://github.com/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/stars/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/last-commit/nedzib/tenant-feature.nvim) ![](https://img.shields.io/github/commit-activity/y/nedzib/tenant-feature.nvim)
 - [tednguyendev/recent_rails.nvim](https://github.com/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/stars/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/last-commit/tednguyendev/recent_rails.nvim) ![](https://img.shields.io/github/commit-activity/y/tednguyendev/recent_rails.nvim)
 - [wassimk/flipper-complete.nvim](https://github.com/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/stars/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/last-commit/wassimk/flipper-complete.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/flipper-complete.nvim)
+- [kalebhenrique/lazyrails.nvim](https://github.com/kalebhenrique/lazyrails.nvim) ![](https://img.shields.io/github/stars/kalebhenrique/lazyrails.nvim) ![](https://img.shields.io/github/last-commit/kalebhenrique/lazyrails.nvim) ![](https://img.shields.io/github/commit-activity/y/kalebhenrique/lazyrails.nvim)
 
 ### Redis
 

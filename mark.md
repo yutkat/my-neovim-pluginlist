@@ -155,6 +155,7 @@
 - [eidge/charta.nvim](https://github.com/eidge/charta.nvim) ![](https://img.shields.io/github/stars/eidge/charta.nvim) ![](https://img.shields.io/github/last-commit/eidge/charta.nvim) ![](https://img.shields.io/github/commit-activity/y/eidge/charta.nvim)
 - [TheNoeTrevino/haunt.nvim](https://github.com/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/haunt.nvim)
 - [KoinBanks/spear.nvim](https://github.com/KoinBanks/spear.nvim) ![](https://img.shields.io/github/stars/KoinBanks/spear.nvim) ![](https://img.shields.io/github/last-commit/KoinBanks/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/KoinBanks/spear.nvim)
+- [moriyoshi-kasuga/projmark.nvim](https://github.com/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/stars/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/last-commit/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/commit-activity/y/moriyoshi-kasuga/projmark.nvim)
 
 - [vbrdnk/anchorage.nvim](https://github.com/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/stars/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/last-commit/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/commit-activity/y/vbrdnk/anchorage.nvim)
 

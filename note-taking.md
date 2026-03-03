@@ -102,6 +102,7 @@
 - [y4m3/zettel-meta.nvim](https://github.com/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/stars/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/last-commit/y4m3/zettel-meta.nvim) ![](https://img.shields.io/github/commit-activity/y/y4m3/zettel-meta.nvim)
 - [riodelphino/zk-auto-update.nvim](https://github.com/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/stars/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/zk-auto-update.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/zk-auto-update.nvim)
 - [snehlsen/zettelkasten.nvim](https://github.com/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/stars/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/snehlsen/zettelkasten.nvim)
+- [sunbluesome/holon.nvim](https://github.com/sunbluesome/holon.nvim) ![](https://img.shields.io/github/stars/sunbluesome/holon.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/holon.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/holon.nvim)
 
 ### Markdown
 
@@ -133,6 +134,7 @@
 - [ThomasVanRiel/nvim-notediscovery](https://github.com/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/stars/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/last-commit/ThomasVanRiel/nvim-notediscovery) ![](https://img.shields.io/github/commit-activity/y/ThomasVanRiel/nvim-notediscovery)
 - [pompos02/live-markdown.nvim](https://github.com/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/live-markdown.nvim)
 - [parksb/simpesys.nvim](https://github.com/parksb/simpesys.nvim) ![](https://img.shields.io/github/stars/parksb/simpesys.nvim) ![](https://img.shields.io/github/last-commit/parksb/simpesys.nvim) ![](https://img.shields.io/github/commit-activity/y/parksb/simpesys.nvim)
+- [crcrist/notes-dashboard.nvim](https://github.com/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/stars/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/last-commit/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/crcrist/notes-dashboard.nvim)
 
 ### Journal
 
@@ -299,6 +301,7 @@
 - [Fynjirby/tasky.nvim](https://github.com/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/stars/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/last-commit/Fynjirby/tasky.nvim) ![](https://img.shields.io/github/commit-activity/y/Fynjirby/tasky.nvim)
 - [joninvski/nvim-todo-tasks](https://github.com/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/stars/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/last-commit/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/commit-activity/y/joninvski/nvim-todo-tasks)
 - [tjmisko/taskbuffer.nvim](https://github.com/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/stars/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/last-commit/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tjmisko/taskbuffer.nvim)
+- [paval-shlyk/session-todo.nvim](https://github.com/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/session-todo.nvim)
 
 #### Google Task
 

@@ -7,8 +7,10 @@
 - [Calendar](#calendar)
 - [MS Word](#ms-word)
 - [Excel](#excel)
+- [Printer](#printer)
 - [Presentation](#presentation)
   - [Slidev](#slidev)
+  - [RSVP](#rsvp)
 
 <!-- tocstop -->
 
@@ -56,6 +58,10 @@
 - [Beargruug/xls-viewer.nvim](https://github.com/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/stars/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/xls-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/xls-viewer.nvim)
 - [mikevskater/nvim-xlsx](https://github.com/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/stars/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/last-commit/mikevskater/nvim-xlsx) ![](https://img.shields.io/github/commit-activity/y/mikevskater/nvim-xlsx)
 - [HimadriChakra12/excel.nvim](https://github.com/HimadriChakra12/excel.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/excel.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/excel.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/excel.nvim)
+
+## Printer
+
+- [adam-coates/printer.nvim](https://github.com/adam-coates/printer.nvim) ![](https://img.shields.io/github/stars/adam-coates/printer.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/printer.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/printer.nvim)
 
 ## Presentation
 

@@ -57,6 +57,7 @@
 ### Debugger
 
 - [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
+- [CrystalMethod/nvim-jfr](https://github.com/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/stars/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/last-commit/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/commit-activity/y/CrystalMethod/nvim-jfr)
 
 #### Stacktrace
 
@@ -113,6 +114,7 @@
 - [Hancho7/spring-properties-lsp.nvim](https://github.com/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/stars/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/last-commit/Hancho7/spring-properties-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Hancho7/spring-properties-lsp.nvim)
 - [lazerfit/spring-gen.nvim](https://github.com/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/stars/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/last-commit/lazerfit/spring-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/lazerfit/spring-gen.nvim)
 - [KashifKhn/haft.nvim](https://github.com/KashifKhn/haft.nvim) ![](https://img.shields.io/github/stars/KashifKhn/haft.nvim) ![](https://img.shields.io/github/last-commit/KashifKhn/haft.nvim) ![](https://img.shields.io/github/commit-activity/y/KashifKhn/haft.nvim)
+- [nirmalravidas/nvim-javacreator](https://github.com/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/stars/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/last-commit/nirmalravidas/nvim-javacreator) ![](https://img.shields.io/github/commit-activity/y/nirmalravidas/nvim-javacreator)
 
 ### MyBatis
 

@@ -294,6 +294,7 @@
 - [hansmrtn/clanker.nvim](https://github.com/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/stars/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/clanker.nvim)
 - [CarGDev/codetyper.nvim](https://github.com/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/stars/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/codetyper.nvim)
 - [ajbarryiii/sage-llm.nvim](https://github.com/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/stars/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/last-commit/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbarryiii/sage-llm.nvim)
+- [Dhanuzh/dcode.nvim](https://github.com/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/stars/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/last-commit/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dhanuzh/dcode.nvim)
 
 #### crush
 
@@ -445,6 +446,7 @@
 - [miketheprogrammer/Agent.nvim](https://github.com/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/stars/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/last-commit/miketheprogrammer/Agent.nvim) ![](https://img.shields.io/github/commit-activity/y/miketheprogrammer/Agent.nvim)
 - [sophiehicks1/nvim-claude-code](https://github.com/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/stars/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/last-commit/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/sophiehicks1/nvim-claude-code)
 - [Cannon07/claude-preview.nvim](https://github.com/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/stars/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/last-commit/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannon07/claude-preview.nvim)
+- [unixsuperhero/h-claude.nvim](https://github.com/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/h-claude.nvim)
 
 ### Amazon Q
 
