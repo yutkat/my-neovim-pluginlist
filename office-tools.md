@@ -27,7 +27,6 @@
 
 ## Contacts
 
-- [michhernand/rolodex.nvim](https://github.com/michhernand/rolodex.nvim) ![](https://img.shields.io/github/stars/michhernand/rolodex.nvim) ![](https://img.shields.io/github/last-commit/michhernand/rolodex.nvim) ![](https://img.shields.io/github/commit-activity/y/michhernand/rolodex.nvim)
 
 ## Calendar
 
