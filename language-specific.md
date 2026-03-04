@@ -9,7 +9,7 @@
     - [Noir](#noir)
     - [Nature](#nature)
     - [Lumos](#lumos)
-    - [C#](#c%23)
+    - [C](#c)
       - [Compile](#compile)
         - [Roslyn](#roslyn)
       - [disassembler](#disassembler)
@@ -57,6 +57,7 @@
     - [fortran](#fortran)
     - [Ghidra](#ghidra)
     - [DSL](#dsl)
+    - [Viper](#viper)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -82,6 +83,7 @@
     - [Move](#move)
     - [MQL](#mql)
     - [Gno](#gno)
+    - [Gox](#gox)
     - [Agda](#agda)
     - [Monkey](#monkey)
     - [GNU APL](#gnu-apl)
@@ -256,6 +258,7 @@
 - [xunafay/dotnet.explorer.nvim](https://github.com/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/stars/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/last-commit/xunafay/dotnet.explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/xunafay/dotnet.explorer.nvim)
 - [dtrh95/csharp-explorer.nvim](https://github.com/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/stars/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/last-commit/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/dtrh95/csharp-explorer.nvim)
 - [KaBooMa/dotnet.nvim](https://github.com/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/stars/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/last-commit/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/KaBooMa/dotnet.nvim)
+- [lukaszmoskwa/dottest.nvim](https://github.com/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/stars/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/last-commit/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaszmoskwa/dottest.nvim)
 
 ##### ASP.NET
 
@@ -469,7 +472,6 @@
 - [WillEhrendreich/sagefs.nvim](https://github.com/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/stars/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/last-commit/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/commit-activity/y/WillEhrendreich/sagefs.nvim)
 
 #### D
-
 
 #### Dingo
 

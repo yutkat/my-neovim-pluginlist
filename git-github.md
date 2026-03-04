@@ -124,6 +124,7 @@
 - [aspeddro/gitui.nvim](https://github.com/aspeddro/gitui.nvim) ![](https://img.shields.io/github/stars/aspeddro/gitui.nvim) ![](https://img.shields.io/github/last-commit/aspeddro/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/aspeddro/gitui.nvim)
 - [mikinovation/nvim-gitui](https://github.com/mikinovation/nvim-gitui) ![](https://img.shields.io/github/stars/mikinovation/nvim-gitui) ![](https://img.shields.io/github/last-commit/mikinovation/nvim-gitui) ![](https://img.shields.io/github/commit-activity/y/mikinovation/nvim-gitui)
 - [ras0q/better-gitui.nvim](https://github.com/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/stars/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/last-commit/ras0q/better-gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/ras0q/better-gitui.nvim)
+- [ochcaroline/gitui.nvim](https://github.com/ochcaroline/gitui.nvim) ![](https://img.shields.io/github/stars/ochcaroline/gitui.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/gitui.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/gitui.nvim)
 
 ### lazygit
 

@@ -196,6 +196,7 @@
 - [FredeEB/alias.nvim](https://github.com/FredeEB/alias.nvim) ![](https://img.shields.io/github/stars/FredeEB/alias.nvim) ![](https://img.shields.io/github/last-commit/FredeEB/alias.nvim) ![](https://img.shields.io/github/commit-activity/y/FredeEB/alias.nvim)
 - [ilan-schemoul/nvim-simple-send-to-term](https://github.com/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/stars/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/last-commit/ilan-schemoul/nvim-simple-send-to-term) ![](https://img.shields.io/github/commit-activity/y/ilan-schemoul/nvim-simple-send-to-term)
 - [gitsang/crush.nvim](https://github.com/gitsang/crush.nvim) ![](https://img.shields.io/github/stars/gitsang/crush.nvim) ![](https://img.shields.io/github/last-commit/gitsang/crush.nvim) ![](https://img.shields.io/github/commit-activity/y/gitsang/crush.nvim)
+- [cfung89/cmd-macro.nvim](https://github.com/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/stars/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/last-commit/cfung89/cmd-macro.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/cmd-macro.nvim)
 
 ### Neovim in Neovim
 

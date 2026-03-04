@@ -165,6 +165,8 @@
 
 ### Comment Viewer
 
+- [huashuai/nvim-comment-overlay](https://github.com/huashuai/nvim-comment-overlay) ![](https://img.shields.io/github/stars/huashuai/nvim-comment-overlay) ![](https://img.shields.io/github/last-commit/huashuai/nvim-comment-overlay) ![](https://img.shields.io/github/commit-activity/y/huashuai/nvim-comment-overlay)
+
 ### Hide comment
 
 - [soemre/commentless.nvim](https://github.com/soemre/commentless.nvim) ![](https://img.shields.io/github/stars/soemre/commentless.nvim) ![](https://img.shields.io/github/last-commit/soemre/commentless.nvim) ![](https://img.shields.io/github/commit-activity/y/soemre/commentless.nvim)
