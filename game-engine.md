@@ -59,6 +59,7 @@
 - [dpowling/godot-lsp.nvim](https://github.com/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/stars/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/last-commit/dpowling/godot-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/dpowling/godot-lsp.nvim)
 - [Schwenckenator/godot-quickstart.nvim](https://github.com/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/stars/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/last-commit/Schwenckenator/godot-quickstart.nvim) ![](https://img.shields.io/github/commit-activity/y/Schwenckenator/godot-quickstart.nvim)
 - [fm39hz/nvim-dap-godot-mono](https://github.com/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/stars/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/last-commit/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/commit-activity/y/fm39hz/nvim-dap-godot-mono)
+- [SalOrak/godot.nvim](https://github.com/SalOrak/godot.nvim) ![](https://img.shields.io/github/stars/SalOrak/godot.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/godot.nvim)
 
 ### Roblox studio
 

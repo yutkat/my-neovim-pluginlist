@@ -62,6 +62,7 @@
 - [xHugo21/globtrotter.nvim](https://github.com/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/stars/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/last-commit/xHugo21/globtrotter.nvim) ![](https://img.shields.io/github/commit-activity/y/xHugo21/globtrotter.nvim)
 - [ericspiddev/nvim-scout](https://github.com/ericspiddev/nvim-scout) ![](https://img.shields.io/github/stars/ericspiddev/nvim-scout) ![](https://img.shields.io/github/last-commit/ericspiddev/nvim-scout) ![](https://img.shields.io/github/commit-activity/y/ericspiddev/nvim-scout)
 - [maureyesdev/accio.nvim](https://github.com/maureyesdev/accio.nvim) ![](https://img.shields.io/github/stars/maureyesdev/accio.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/accio.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/accio.nvim)
+- [jugarpeupv/jsregex.nvim](https://github.com/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/jsregex.nvim)
 
 ### Window local search
 

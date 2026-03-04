@@ -24,6 +24,7 @@
 - [Jiramide/nicer-numbers.nvim](https://github.com/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/stars/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/last-commit/Jiramide/nicer-numbers.nvim) ![](https://img.shields.io/github/commit-activity/y/Jiramide/nicer-numbers.nvim)
 - [3ZsForInsomnia/pacer.nvim](https://github.com/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/stars/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/pacer.nvim) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/pacer.nvim)
 - [unixsuperhero/demo.nvim](https://github.com/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/demo.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/demo.nvim)
+- [Arfs6/mana.nvim](https://github.com/Arfs6/mana.nvim) ![](https://img.shields.io/github/stars/Arfs6/mana.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/mana.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/mana.nvim)
 
 #### Current Position Info
 

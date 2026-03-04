@@ -295,6 +295,7 @@
 - [CarGDev/codetyper.nvim](https://github.com/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/stars/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/last-commit/CarGDev/codetyper.nvim) ![](https://img.shields.io/github/commit-activity/y/CarGDev/codetyper.nvim)
 - [ajbarryiii/sage-llm.nvim](https://github.com/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/stars/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/last-commit/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbarryiii/sage-llm.nvim)
 - [Dhanuzh/dcode.nvim](https://github.com/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/stars/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/last-commit/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dhanuzh/dcode.nvim)
+- [xd0pa/ai-modifier.nvim](https://github.com/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/stars/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/last-commit/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/commit-activity/y/xd0pa/ai-modifier.nvim)
 
 #### crush
 
