@@ -49,7 +49,6 @@
 
 - [TheK4n/postman.nvim](https://github.com/TheK4n/postman.nvim) ![](https://img.shields.io/github/stars/TheK4n/postman.nvim) ![](https://img.shields.io/github/last-commit/TheK4n/postman.nvim) ![](https://img.shields.io/github/commit-activity/y/TheK4n/postman.nvim)
 - [calebbray/requester.nvim](https://github.com/calebbray/requester.nvim) ![](https://img.shields.io/github/stars/calebbray/requester.nvim) ![](https://img.shields.io/github/last-commit/calebbray/requester.nvim) ![](https://img.shields.io/github/commit-activity/y/calebbray/requester.nvim)
-- [botantony/run.nvim](https://github.com/botantony/run.nvim) ![](https://img.shields.io/github/stars/botantony/run.nvim) ![](https://img.shields.io/github/last-commit/botantony/run.nvim) ![](https://img.shields.io/github/commit-activity/y/botantony/run.nvim)
 
 ### HTTP Request
 
