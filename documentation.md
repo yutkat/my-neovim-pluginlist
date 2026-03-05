@@ -607,6 +607,7 @@
 - [inmzhang/citero.nvim](https://github.com/inmzhang/citero.nvim) ![](https://img.shields.io/github/stars/inmzhang/citero.nvim) ![](https://img.shields.io/github/last-commit/inmzhang/citero.nvim) ![](https://img.shields.io/github/commit-activity/y/inmzhang/citero.nvim)
 - [krissen/snacks-bibtex.nvim](https://github.com/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/snacks-bibtex.nvim)
 - [urtzienriquez/citeref.nvim](https://github.com/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/citeref.nvim)
+- [mschmidty/bib-builder.nvim](https://github.com/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/stars/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/bib-builder.nvim)
 
 #### Speech
 

@@ -289,6 +289,7 @@
 - [rdgd/file-reloader.nvim](https://github.com/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/stars/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/last-commit/rdgd/file-reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/rdgd/file-reloader.nvim)
 - [awalland/nvim-file-watch](https://github.com/awalland/nvim-file-watch) ![](https://img.shields.io/github/stars/awalland/nvim-file-watch) ![](https://img.shields.io/github/last-commit/awalland/nvim-file-watch) ![](https://img.shields.io/github/commit-activity/y/awalland/nvim-file-watch)
 - [diegok/live-autoread.nvim](https://github.com/diegok/live-autoread.nvim) ![](https://img.shields.io/github/stars/diegok/live-autoread.nvim) ![](https://img.shields.io/github/last-commit/diegok/live-autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/diegok/live-autoread.nvim)
+- [ccntrq/autoreload.nvim](https://github.com/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/stars/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/last-commit/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/commit-activity/y/ccntrq/autoreload.nvim)
 
 #### access control
 

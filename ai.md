@@ -296,6 +296,7 @@
 - [ajbarryiii/sage-llm.nvim](https://github.com/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/stars/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/last-commit/ajbarryiii/sage-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/ajbarryiii/sage-llm.nvim)
 - [Dhanuzh/dcode.nvim](https://github.com/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/stars/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/last-commit/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dhanuzh/dcode.nvim)
 - [xd0pa/ai-modifier.nvim](https://github.com/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/stars/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/last-commit/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/commit-activity/y/xd0pa/ai-modifier.nvim)
+- [finnff/nvim-prompt-refine](https://github.com/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/stars/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/last-commit/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/commit-activity/y/finnff/nvim-prompt-refine)
 
 #### crush
 
@@ -367,6 +368,7 @@
 - [BlinkResearchLabs/blink-edit.nvim](https://github.com/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/stars/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/last-commit/BlinkResearchLabs/blink-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/BlinkResearchLabs/blink-edit.nvim)
 - [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
 - [mabucio/nvim-ollama](https://github.com/mabucio/nvim-ollama) ![](https://img.shields.io/github/stars/mabucio/nvim-ollama) ![](https://img.shields.io/github/last-commit/mabucio/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/mabucio/nvim-ollama)
+- [jorge-a-martinez-dev/local-llm.nvim](https://github.com/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/stars/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/last-commit/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/jorge-a-martinez-dev/local-llm.nvim)
 
 ### Claude
 

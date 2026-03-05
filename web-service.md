@@ -175,6 +175,7 @@
 
 - [selimacerbas/live-server.nvim](https://github.com/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/stars/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/live-server.nvim)
 - [kdog3682/nvim-frontend](https://github.com/kdog3682/nvim-frontend) ![](https://img.shields.io/github/stars/kdog3682/nvim-frontend) ![](https://img.shields.io/github/last-commit/kdog3682/nvim-frontend) ![](https://img.shields.io/github/commit-activity/y/kdog3682/nvim-frontend)
+- [letientai299/dirsv.nvim](https://github.com/letientai299/dirsv.nvim) ![](https://img.shields.io/github/stars/letientai299/dirsv.nvim) ![](https://img.shields.io/github/last-commit/letientai299/dirsv.nvim) ![](https://img.shields.io/github/commit-activity/y/letientai299/dirsv.nvim)
 
 ### Fatebook
 

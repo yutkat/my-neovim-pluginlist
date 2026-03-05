@@ -267,6 +267,7 @@
 - [audunhov/autorun.nvim](https://github.com/audunhov/autorun.nvim) ![](https://img.shields.io/github/stars/audunhov/autorun.nvim) ![](https://img.shields.io/github/last-commit/audunhov/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/audunhov/autorun.nvim)
 - [gashon/buildfix.nvim](https://github.com/gashon/buildfix.nvim) ![](https://img.shields.io/github/stars/gashon/buildfix.nvim) ![](https://img.shields.io/github/last-commit/gashon/buildfix.nvim) ![](https://img.shields.io/github/commit-activity/y/gashon/buildfix.nvim)
 - [shadowmkj/nvim-live-runner](https://github.com/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/stars/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/last-commit/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/nvim-live-runner)
+- [yuki-yano/directive-hooks.nvim](https://github.com/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/stars/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/directive-hooks.nvim)
 
 ### CLI
 
