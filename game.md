@@ -110,6 +110,7 @@
 - [gitkav0k/type-review.nvim](https://github.com/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/stars/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/last-commit/gitkav0k/type-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitkav0k/type-review.nvim)
 - [Goose97/typist.nvim](https://github.com/Goose97/typist.nvim) ![](https://img.shields.io/github/stars/Goose97/typist.nvim) ![](https://img.shields.io/github/last-commit/Goose97/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/typist.nvim)
 - [snesjhon/nvim-typer](https://github.com/snesjhon/nvim-typer) ![](https://img.shields.io/github/stars/snesjhon/nvim-typer) ![](https://img.shields.io/github/last-commit/snesjhon/nvim-typer) ![](https://img.shields.io/github/commit-activity/y/snesjhon/nvim-typer)
+- [rodolfo-arg/neotype](https://github.com/rodolfo-arg/neotype) ![](https://img.shields.io/github/stars/rodolfo-arg/neotype) ![](https://img.shields.io/github/last-commit/rodolfo-arg/neotype) ![](https://img.shields.io/github/commit-activity/y/rodolfo-arg/neotype)
 
 ### FiveM
 

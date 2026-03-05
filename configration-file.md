@@ -145,6 +145,7 @@
 - [dmitrii-cernev/logjump.nvim](https://github.com/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/stars/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/last-commit/dmitrii-cernev/logjump.nvim) ![](https://img.shields.io/github/commit-activity/y/dmitrii-cernev/logjump.nvim)
 - [rodolfojsv/log-filter.nvim](https://github.com/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/log-filter.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/log-filter.nvim)
 - [RubikNube/loglens.nvim](https://github.com/RubikNube/loglens.nvim) ![](https://img.shields.io/github/stars/RubikNube/loglens.nvim) ![](https://img.shields.io/github/last-commit/RubikNube/loglens.nvim) ![](https://img.shields.io/github/commit-activity/y/RubikNube/loglens.nvim)
+- [minigian/juan-logs.nvim](https://github.com/minigian/juan-logs.nvim) ![](https://img.shields.io/github/stars/minigian/juan-logs.nvim) ![](https://img.shields.io/github/last-commit/minigian/juan-logs.nvim) ![](https://img.shields.io/github/commit-activity/y/minigian/juan-logs.nvim)
 
 #### CLIPS(C Language Integrated Production System)
 
