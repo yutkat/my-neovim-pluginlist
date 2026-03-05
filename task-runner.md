@@ -160,6 +160,7 @@
 - [mewais/task-hub.nvim](https://github.com/mewais/task-hub.nvim) ![](https://img.shields.io/github/stars/mewais/task-hub.nvim) ![](https://img.shields.io/github/last-commit/mewais/task-hub.nvim) ![](https://img.shields.io/github/commit-activity/y/mewais/task-hub.nvim)
 - [Arthur-Negrao-Smith/JustRun.nvim](https://github.com/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/stars/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/last-commit/Arthur-Negrao-Smith/JustRun.nvim) ![](https://img.shields.io/github/commit-activity/y/Arthur-Negrao-Smith/JustRun.nvim)
 - [sheymor21/unirunner.nvim](https://github.com/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/stars/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/last-commit/sheymor21/unirunner.nvim) ![](https://img.shields.io/github/commit-activity/y/sheymor21/unirunner.nvim)
+- [botantony/run.nvim](https://github.com/botantony/run.nvim) ![](https://img.shields.io/github/stars/botantony/run.nvim) ![](https://img.shields.io/github/last-commit/botantony/run.nvim) ![](https://img.shields.io/github/commit-activity/y/botantony/run.nvim)
 
 #### Shell
 
@@ -267,6 +268,7 @@
 - [audunhov/autorun.nvim](https://github.com/audunhov/autorun.nvim) ![](https://img.shields.io/github/stars/audunhov/autorun.nvim) ![](https://img.shields.io/github/last-commit/audunhov/autorun.nvim) ![](https://img.shields.io/github/commit-activity/y/audunhov/autorun.nvim)
 - [gashon/buildfix.nvim](https://github.com/gashon/buildfix.nvim) ![](https://img.shields.io/github/stars/gashon/buildfix.nvim) ![](https://img.shields.io/github/last-commit/gashon/buildfix.nvim) ![](https://img.shields.io/github/commit-activity/y/gashon/buildfix.nvim)
 - [shadowmkj/nvim-live-runner](https://github.com/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/stars/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/last-commit/shadowmkj/nvim-live-runner) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/nvim-live-runner)
+- [yuki-yano/directive-hooks.nvim](https://github.com/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/stars/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/directive-hooks.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/directive-hooks.nvim)
 
 ### CLI
 

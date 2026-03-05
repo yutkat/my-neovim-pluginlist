@@ -120,6 +120,7 @@
 - [itsamayo/microscope.nvim](https://github.com/itsamayo/microscope.nvim) ![](https://img.shields.io/github/stars/itsamayo/microscope.nvim) ![](https://img.shields.io/github/last-commit/itsamayo/microscope.nvim) ![](https://img.shields.io/github/commit-activity/y/itsamayo/microscope.nvim)
 - [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) ![](https://img.shields.io/github/stars/0oAstro/dim.lua) ![](https://img.shields.io/github/last-commit/0oAstro/dim.lua) ![](https://img.shields.io/github/commit-activity/y/0oAstro/dim.lua)
 - [willsantiagomedina/focus.nvim](https://github.com/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/focus.nvim)
+- [vinvolve/forest.nvim](https://github.com/vinvolve/forest.nvim) ![](https://img.shields.io/github/stars/vinvolve/forest.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/forest.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/forest.nvim)
 
 ## Random Selection
 
