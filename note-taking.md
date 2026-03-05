@@ -148,7 +148,6 @@
 - [kaka-ruto/notre.nvim](https://github.com/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/stars/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/last-commit/kaka-ruto/notre.nvim) ![](https://img.shields.io/github/commit-activity/y/kaka-ruto/notre.nvim)
 - [ckyrouac/nfc.nvim](https://github.com/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/stars/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/last-commit/ckyrouac/nfc.nvim) ![](https://img.shields.io/github/commit-activity/y/ckyrouac/nfc.nvim)
 - [gs-deliverists-io/daily-champ.nvim](https://github.com/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/stars/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/last-commit/gs-deliverists-io/daily-champ.nvim) ![](https://img.shields.io/github/commit-activity/y/gs-deliverists-io/daily-champ.nvim)
-- [behzade/j.nvim](https://github.com/behzade/j.nvim) ![](https://img.shields.io/github/stars/behzade/j.nvim) ![](https://img.shields.io/github/last-commit/behzade/j.nvim) ![](https://img.shields.io/github/commit-activity/y/behzade/j.nvim)
 - [Cassin01/sm.nvim](https://github.com/Cassin01/sm.nvim) ![](https://img.shields.io/github/stars/Cassin01/sm.nvim) ![](https://img.shields.io/github/last-commit/Cassin01/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/Cassin01/sm.nvim)
 - [vvvetroff/tinyhash.nvim](https://github.com/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/stars/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/last-commit/vvvetroff/tinyhash.nvim) ![](https://img.shields.io/github/commit-activity/y/vvvetroff/tinyhash.nvim)
 - [Kannazuki-jp/sticky-note.nvim](https://github.com/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/stars/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/last-commit/Kannazuki-jp/sticky-note.nvim) ![](https://img.shields.io/github/commit-activity/y/Kannazuki-jp/sticky-note.nvim)
@@ -442,7 +441,6 @@
 ### VimWiki
 
 - [hulufei/backlinks.nvim](https://github.com/hulufei/backlinks.nvim) ![](https://img.shields.io/github/stars/hulufei/backlinks.nvim) ![](https://img.shields.io/github/last-commit/hulufei/backlinks.nvim) ![](https://img.shields.io/github/commit-activity/y/hulufei/backlinks.nvim)
-- [serenevoid/kiwi.nvim](https://github.com/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/stars/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/last-commit/serenevoid/kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/serenevoid/kiwi.nvim)
 - [djmbritt/vimki.nvim](https://github.com/djmbritt/vimki.nvim) ![](https://img.shields.io/github/stars/djmbritt/vimki.nvim) ![](https://img.shields.io/github/last-commit/djmbritt/vimki.nvim) ![](https://img.shields.io/github/commit-activity/y/djmbritt/vimki.nvim)
 - [echaya/neowiki.nvim](https://github.com/echaya/neowiki.nvim) ![](https://img.shields.io/github/stars/echaya/neowiki.nvim) ![](https://img.shields.io/github/last-commit/echaya/neowiki.nvim) ![](https://img.shields.io/github/commit-activity/y/echaya/neowiki.nvim)
 
