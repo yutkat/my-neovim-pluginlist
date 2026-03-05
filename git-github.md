@@ -626,7 +626,6 @@
 
 - [mcnangus/pr-comments.nvim](https://github.com/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/stars/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/last-commit/mcnangus/pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/mcnangus/pr-comments.nvim)
 - [tobias-walle/nit.nvim](https://github.com/tobias-walle/nit.nvim) ![](https://img.shields.io/github/stars/tobias-walle/nit.nvim) ![](https://img.shields.io/github/last-commit/tobias-walle/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-walle/nit.nvim)
-- [kyu08/fude.nvim](https://github.com/kyu08/fude.nvim) ![](https://img.shields.io/github/stars/kyu08/fude.nvim) ![](https://img.shields.io/github/last-commit/kyu08/fude.nvim) ![](https://img.shields.io/github/commit-activity/y/kyu08/fude.nvim)
 
 #### Assign
 

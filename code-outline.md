@@ -41,7 +41,6 @@
 - [FABLOUSFALCON/go-pkg-outline.nvim](https://github.com/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/stars/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/last-commit/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/FABLOUSFALCON/go-pkg-outline.nvim)
 - [abhipranay/argus.nvim](https://github.com/abhipranay/argus.nvim) ![](https://img.shields.io/github/stars/abhipranay/argus.nvim) ![](https://img.shields.io/github/last-commit/abhipranay/argus.nvim) ![](https://img.shields.io/github/commit-activity/y/abhipranay/argus.nvim)
 - [religiosa1/tsoutline.nvim](https://github.com/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/stars/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/tsoutline.nvim)
-- [trevorm4/code-layout.nvim](https://github.com/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/stars/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/last-commit/trevorm4/code-layout.nvim) ![](https://img.shields.io/github/commit-activity/y/trevorm4/code-layout.nvim)
 
 ## Definition
 
