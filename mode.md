@@ -36,6 +36,7 @@
 - [aaron-p1/match-visual.nvim](https://github.com/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/stars/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/last-commit/aaron-p1/match-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/aaron-p1/match-visual.nvim)
 - [astaos/nvim-ultivisual](https://github.com/astaos/nvim-ultivisual) ![](https://img.shields.io/github/stars/astaos/nvim-ultivisual) ![](https://img.shields.io/github/last-commit/astaos/nvim-ultivisual) ![](https://img.shields.io/github/commit-activity/y/astaos/nvim-ultivisual)
 - [phanen/vbi.nvim](https://github.com/phanen/vbi.nvim) ![](https://img.shields.io/github/stars/phanen/vbi.nvim) ![](https://img.shields.io/github/last-commit/phanen/vbi.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/vbi.nvim)
+- [Lananon/visedit.nvim](https://github.com/Lananon/visedit.nvim) ![](https://img.shields.io/github/stars/Lananon/visedit.nvim) ![](https://img.shields.io/github/last-commit/Lananon/visedit.nvim) ![](https://img.shields.io/github/commit-activity/y/Lananon/visedit.nvim)
 
 ### Submode
 

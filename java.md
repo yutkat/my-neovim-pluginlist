@@ -26,6 +26,7 @@
 
 - [mfussenegger/nvim-jdtls](https://github.com/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/stars/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/last-commit/mfussenegger/nvim-jdtls) ![](https://img.shields.io/github/commit-activity/y/mfussenegger/nvim-jdtls)
   - [pojokcodeid/auto-jdtls.nvim](https://github.com/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/stars/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/last-commit/pojokcodeid/auto-jdtls.nvim) ![](https://img.shields.io/github/commit-activity/y/pojokcodeid/auto-jdtls.nvim)
+  - [Chazmus/bazel-java.nvim](https://github.com/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/stars/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/last-commit/Chazmus/bazel-java.nvim) ![](https://img.shields.io/github/commit-activity/y/Chazmus/bazel-java.nvim)
 - [artur-shaik/jc.nvim](https://github.com/artur-shaik/jc.nvim) ![](https://img.shields.io/github/stars/artur-shaik/jc.nvim) ![](https://img.shields.io/github/last-commit/artur-shaik/jc.nvim) ![](https://img.shields.io/github/commit-activity/y/artur-shaik/jc.nvim)
 - [esensar/neovim-java-plugin-host](https://github.com/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/stars/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/last-commit/esensar/neovim-java-plugin-host) ![](https://img.shields.io/github/commit-activity/y/esensar/neovim-java-plugin-host)
 - [dsych/blanket.nvim](https://github.com/dsych/blanket.nvim) ![](https://img.shields.io/github/stars/dsych/blanket.nvim) ![](https://img.shields.io/github/last-commit/dsych/blanket.nvim) ![](https://img.shields.io/github/commit-activity/y/dsych/blanket.nvim)
@@ -86,6 +87,7 @@
 ### Refactor / Builder
 
 - [HSMF/java-builder.nvim](https://github.com/HSMF/java-builder.nvim) ![](https://img.shields.io/github/stars/HSMF/java-builder.nvim) ![](https://img.shields.io/github/last-commit/HSMF/java-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/java-builder.nvim)
+- [axonde/delombok.nvim](https://github.com/axonde/delombok.nvim) ![](https://img.shields.io/github/stars/axonde/delombok.nvim) ![](https://img.shields.io/github/last-commit/axonde/delombok.nvim) ![](https://img.shields.io/github/commit-activity/y/axonde/delombok.nvim)
 
 ### Maven
 

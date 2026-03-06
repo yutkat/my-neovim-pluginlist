@@ -46,6 +46,7 @@
 - [anoopkcn/csub.nvim](https://github.com/anoopkcn/csub.nvim) ![](https://img.shields.io/github/stars/anoopkcn/csub.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/csub.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/csub.nvim)
 - [phanen/hlq.nvim](https://github.com/phanen/hlq.nvim) ![](https://img.shields.io/github/stars/phanen/hlq.nvim) ![](https://img.shields.io/github/last-commit/phanen/hlq.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/hlq.nvim)
 - [jbuck95/ltqf.nvim](https://github.com/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/stars/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/ltqf.nvim)
+- [CodesWithRobi/qfsearch.nvim](https://github.com/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/qfsearch.nvim)
 
 ### Output the list to another format
 

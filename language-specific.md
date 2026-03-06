@@ -320,6 +320,7 @@
 - [Uniyo-Ltd/nvim-flutter-tdd](https://github.com/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/stars/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/last-commit/Uniyo-Ltd/nvim-flutter-tdd) ![](https://img.shields.io/github/commit-activity/y/Uniyo-Ltd/nvim-flutter-tdd)
 - [rithikjain/flutter-freezed.nvim](https://github.com/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/stars/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/last-commit/rithikjain/flutter-freezed.nvim) ![](https://img.shields.io/github/commit-activity/y/rithikjain/flutter-freezed.nvim)
 - [wasabeef/melos.nvim](https://github.com/wasabeef/melos.nvim) ![](https://img.shields.io/github/stars/wasabeef/melos.nvim) ![](https://img.shields.io/github/last-commit/wasabeef/melos.nvim) ![](https://img.shields.io/github/commit-activity/y/wasabeef/melos.nvim)
+- [pretodev/dart-class-tools.nvim](https://github.com/pretodev/dart-class-tools.nvim) ![](https://img.shields.io/github/stars/pretodev/dart-class-tools.nvim) ![](https://img.shields.io/github/last-commit/pretodev/dart-class-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/dart-class-tools.nvim)
 - [urazmaxambetovserik/flutter-hot.nvim](https://github.com/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/stars/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/last-commit/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/commit-activity/y/urazmaxambetovserik/flutter-hot.nvim)
 - [sgraves76/nvim-flutter-companion](https://github.com/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/stars/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-flutter-companion)
 - [Redooyyy/flutter-deps.nvim](https://github.com/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/stars/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/last-commit/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/Redooyyy/flutter-deps.nvim)
@@ -472,6 +473,8 @@
 - [WillEhrendreich/sagefs.nvim](https://github.com/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/stars/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/last-commit/WillEhrendreich/sagefs.nvim) ![](https://img.shields.io/github/commit-activity/y/WillEhrendreich/sagefs.nvim)
 
 #### D
+
+- [vito/dang.nvim](https://github.com/vito/dang.nvim) ![](https://img.shields.io/github/stars/vito/dang.nvim) ![](https://img.shields.io/github/last-commit/vito/dang.nvim) ![](https://img.shields.io/github/commit-activity/y/vito/dang.nvim)
 
 #### Dingo
 

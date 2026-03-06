@@ -294,6 +294,7 @@
 - [Zonric/codecopy.nvim](https://github.com/Zonric/codecopy.nvim) ![](https://img.shields.io/github/stars/Zonric/codecopy.nvim) ![](https://img.shields.io/github/last-commit/Zonric/codecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zonric/codecopy.nvim)
 - [xpcoffee/nvim-markdown-codeblocks](https://github.com/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/stars/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/last-commit/xpcoffee/nvim-markdown-codeblocks) ![](https://img.shields.io/github/commit-activity/y/xpcoffee/nvim-markdown-codeblocks)
 - [StefanBartl/color_my_ascii.nvim](https://github.com/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/stars/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/color_my_ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/color_my_ascii.nvim)
+- [joakimmj/md-tangle.nvim](https://github.com/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/stars/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/md-tangle.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/md-tangle.nvim)
 
 #### Markdown table
 

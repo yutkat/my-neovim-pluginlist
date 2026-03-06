@@ -136,6 +136,7 @@
 - [parksb/simpesys.nvim](https://github.com/parksb/simpesys.nvim) ![](https://img.shields.io/github/stars/parksb/simpesys.nvim) ![](https://img.shields.io/github/last-commit/parksb/simpesys.nvim) ![](https://img.shields.io/github/commit-activity/y/parksb/simpesys.nvim)
 - [crcrist/notes-dashboard.nvim](https://github.com/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/stars/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/last-commit/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/crcrist/notes-dashboard.nvim)
 - [gmcusaro/ma.nvim](https://github.com/gmcusaro/ma.nvim) ![](https://img.shields.io/github/stars/gmcusaro/ma.nvim) ![](https://img.shields.io/github/last-commit/gmcusaro/ma.nvim) ![](https://img.shields.io/github/commit-activity/y/gmcusaro/ma.nvim)
+- [anti-precog/nvim-draft](https://github.com/anti-precog/nvim-draft) ![](https://img.shields.io/github/stars/anti-precog/nvim-draft) ![](https://img.shields.io/github/last-commit/anti-precog/nvim-draft) ![](https://img.shields.io/github/commit-activity/y/anti-precog/nvim-draft)
 
 ### Journal
 

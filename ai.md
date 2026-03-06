@@ -713,6 +713,7 @@
 - [tsurumi-yizhou/agents.nvim](https://github.com/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/stars/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/last-commit/tsurumi-yizhou/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/tsurumi-yizhou/agents.nvim)
 - [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
 - [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
+- [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
 
 ### AGENTS.md
 
