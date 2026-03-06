@@ -73,6 +73,7 @@
 ### Completion
 
 - [zjp-CN/nvim-cmp-lsp-rs](https://github.com/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/stars/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/last-commit/zjp-CN/nvim-cmp-lsp-rs) ![](https://img.shields.io/github/commit-activity/y/zjp-CN/nvim-cmp-lsp-rs)
+- [AJamesyD/blink-cmp-rust.nvim](https://github.com/AJamesyD/blink-cmp-rust.nvim) ![](https://img.shields.io/github/stars/AJamesyD/blink-cmp-rust.nvim) ![](https://img.shields.io/github/last-commit/AJamesyD/blink-cmp-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/AJamesyD/blink-cmp-rust.nvim)
 
 ### Template
 

@@ -367,6 +367,7 @@
 - [rbledsaw3/rsync-netrw.nvim](https://github.com/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/stars/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/last-commit/rbledsaw3/rsync-netrw.nvim) ![](https://img.shields.io/github/commit-activity/y/rbledsaw3/rsync-netrw.nvim)
 - [dmbhatti/deployment.nvim](https://github.com/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/stars/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/last-commit/dmbhatti/deployment.nvim) ![](https://img.shields.io/github/commit-activity/y/dmbhatti/deployment.nvim)
 - [kpjim/nvim-rsync](https://github.com/kpjim/nvim-rsync) ![](https://img.shields.io/github/stars/kpjim/nvim-rsync) ![](https://img.shields.io/github/last-commit/kpjim/nvim-rsync) ![](https://img.shields.io/github/commit-activity/y/kpjim/nvim-rsync)
+- [LCPAN/remote-upload.nvim](https://github.com/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/stars/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/last-commit/LCPAN/remote-upload.nvim) ![](https://img.shields.io/github/commit-activity/y/LCPAN/remote-upload.nvim)
 
 #### curl
 
@@ -384,6 +385,7 @@
 
 - [romek-codes/bruno.nvim](https://github.com/romek-codes/bruno.nvim) ![](https://img.shields.io/github/stars/romek-codes/bruno.nvim) ![](https://img.shields.io/github/last-commit/romek-codes/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/romek-codes/bruno.nvim)
 - [Wotee/bruh.nvim](https://github.com/Wotee/bruh.nvim) ![](https://img.shields.io/github/stars/Wotee/bruh.nvim) ![](https://img.shields.io/github/last-commit/Wotee/bruh.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/bruh.nvim)
+- [SugarHashira/bruno.nvim](https://github.com/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/stars/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/last-commit/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/SugarHashira/bruno.nvim)
 
 #### ctags
 
