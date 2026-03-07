@@ -438,6 +438,7 @@
 - [yeasin50/wikilink.nvim](https://github.com/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/stars/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/last-commit/yeasin50/wikilink.nvim) ![](https://img.shields.io/github/commit-activity/y/yeasin50/wikilink.nvim)
 - [dfryer1193/wiki.nvim](https://github.com/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/stars/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/last-commit/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dfryer1193/wiki.nvim)
 - [skeletony007/qwiki.nvim](https://github.com/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/stars/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/qwiki.nvim)
+- [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
 
 ### VimWiki
 

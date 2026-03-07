@@ -502,6 +502,7 @@
 - [jbuck95/nvim-sioyek-highlights](https://github.com/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/stars/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/last-commit/jbuck95/nvim-sioyek-highlights) ![](https://img.shields.io/github/commit-activity/y/jbuck95/nvim-sioyek-highlights)
 - [xunoaib/pdf-snippet.nvim](https://github.com/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/stars/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/pdf-snippet.nvim)
 - [Chiarandini/telescope-pdf-browser.nvim](https://github.com/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/stars/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/telescope-pdf-browser.nvim)
+- [joshheyse/mupager.nvim](https://github.com/joshheyse/mupager.nvim) ![](https://img.shields.io/github/stars/joshheyse/mupager.nvim) ![](https://img.shields.io/github/last-commit/joshheyse/mupager.nvim) ![](https://img.shields.io/github/commit-activity/y/joshheyse/mupager.nvim)
 
 ### EPUB
 

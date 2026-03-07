@@ -323,6 +323,11 @@
 - [urazmaxambetovserik/flutter-hot.nvim](https://github.com/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/stars/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/last-commit/urazmaxambetovserik/flutter-hot.nvim) ![](https://img.shields.io/github/commit-activity/y/urazmaxambetovserik/flutter-hot.nvim)
 - [sgraves76/nvim-flutter-companion](https://github.com/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/stars/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-flutter-companion)
 - [Redooyyy/flutter-deps.nvim](https://github.com/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/stars/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/last-commit/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/Redooyyy/flutter-deps.nvim)
+- [djade007/nvim-pub-version](https://github.com/djade007/nvim-pub-version) ![](https://img.shields.io/github/stars/djade007/nvim-pub-version) ![](https://img.shields.io/github/last-commit/djade007/nvim-pub-version) ![](https://img.shields.io/github/commit-activity/y/djade007/nvim-pub-version)
+
+#### MetaScript
+
+- [metascriptlang/metascript.nvim](https://github.com/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/stars/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/last-commit/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/commit-activity/y/metascriptlang/metascript.nvim)
 
 #### Clojure
 

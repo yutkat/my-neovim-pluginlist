@@ -84,6 +84,7 @@
 - [Tin-Mijatovic/fit.nvim](https://github.com/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/stars/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/last-commit/Tin-Mijatovic/fit.nvim) ![](https://img.shields.io/github/commit-activity/y/Tin-Mijatovic/fit.nvim)
 - [praveenscript/idleClock.nvim](https://github.com/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/stars/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/last-commit/praveenscript/idleClock.nvim) ![](https://img.shields.io/github/commit-activity/y/praveenscript/idleClock.nvim)
 - [TemelGunaydin/timer.nvim](https://github.com/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/stars/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/last-commit/TemelGunaydin/timer.nvim) ![](https://img.shields.io/github/commit-activity/y/TemelGunaydin/timer.nvim)
+- [lambertse/nvim-pomodoro](https://github.com/lambertse/nvim-pomodoro) ![](https://img.shields.io/github/stars/lambertse/nvim-pomodoro) ![](https://img.shields.io/github/last-commit/lambertse/nvim-pomodoro) ![](https://img.shields.io/github/commit-activity/y/lambertse/nvim-pomodoro)
 
 ## Do Not Disturb
 
