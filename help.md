@@ -93,6 +93,7 @@
 - [StefanBartl/learn-cli.nvim](https://github.com/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/stars/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/last-commit/StefanBartl/learn-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/StefanBartl/learn-cli.nvim)
 - [scinac/vim-norm-trainer.nvim](https://github.com/scinac/vim-norm-trainer.nvim) ![](https://img.shields.io/github/stars/scinac/vim-norm-trainer.nvim) ![](https://img.shields.io/github/last-commit/scinac/vim-norm-trainer.nvim) ![](https://img.shields.io/github/commit-activity/y/scinac/vim-norm-trainer.nvim)
 - [urtzienriquez/learnlua.nvim](https://github.com/urtzienriquez/learnlua.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/learnlua.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/learnlua.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/learnlua.nvim)
+- [jakewaldrip/vimscape2007.nvim](https://github.com/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/stars/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/last-commit/jakewaldrip/vimscape2007.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewaldrip/vimscape2007.nvim)
 
 ## Gnu Info
 

@@ -297,6 +297,7 @@
 - [Dhanuzh/dcode.nvim](https://github.com/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/stars/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/last-commit/Dhanuzh/dcode.nvim) ![](https://img.shields.io/github/commit-activity/y/Dhanuzh/dcode.nvim)
 - [xd0pa/ai-modifier.nvim](https://github.com/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/stars/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/last-commit/xd0pa/ai-modifier.nvim) ![](https://img.shields.io/github/commit-activity/y/xd0pa/ai-modifier.nvim)
 - [finnff/nvim-prompt-refine](https://github.com/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/stars/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/last-commit/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/commit-activity/y/finnff/nvim-prompt-refine)
+- [blmayer/tai](https://github.com/blmayer/tai) ![](https://img.shields.io/github/stars/blmayer/tai) ![](https://img.shields.io/github/last-commit/blmayer/tai) ![](https://img.shields.io/github/commit-activity/y/blmayer/tai)
 
 #### crush
 
