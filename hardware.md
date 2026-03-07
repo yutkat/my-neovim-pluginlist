@@ -6,6 +6,7 @@
   - [Embedded Software](#embedded-software)
     - [OpenEmbedded/BitBake](#openembeddedbitbake)
   - [IoT](#iot)
+  - [3D printer](#3d-printer)
   - [CAD](#cad)
   - [VHDL](#vhdl)
   - [Verilog](#verilog)
@@ -43,6 +44,9 @@
 ### IoT
 
 - [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
+
+### 3D printer
+
 - [MFoxx/nvim-moonraker](https://github.com/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/stars/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/last-commit/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/commit-activity/y/MFoxx/nvim-moonraker)
 
 ### CAD
