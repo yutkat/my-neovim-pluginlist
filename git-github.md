@@ -621,6 +621,7 @@
 - [gzitei/gh-review.nvim](https://github.com/gzitei/gh-review.nvim) ![](https://img.shields.io/github/stars/gzitei/gh-review.nvim) ![](https://img.shields.io/github/last-commit/gzitei/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/gh-review.nvim)
 - [afewyards/codereview.nvim](https://github.com/afewyards/codereview.nvim) ![](https://img.shields.io/github/stars/afewyards/codereview.nvim) ![](https://img.shields.io/github/last-commit/afewyards/codereview.nvim) ![](https://img.shields.io/github/commit-activity/y/afewyards/codereview.nvim)
 - [flexphere/reviewit.nvim](https://github.com/flexphere/reviewit.nvim) ![](https://img.shields.io/github/stars/flexphere/reviewit.nvim) ![](https://img.shields.io/github/last-commit/flexphere/reviewit.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/reviewit.nvim)
+- [max-farver/git-review.nvim](https://github.com/max-farver/git-review.nvim) ![](https://img.shields.io/github/stars/max-farver/git-review.nvim) ![](https://img.shields.io/github/last-commit/max-farver/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/max-farver/git-review.nvim)
 
 #### Pull Request Comment
 

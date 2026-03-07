@@ -43,6 +43,7 @@
 ### IoT
 
 - [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
+- [MFoxx/nvim-moonraker](https://github.com/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/stars/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/last-commit/MFoxx/nvim-moonraker) ![](https://img.shields.io/github/commit-activity/y/MFoxx/nvim-moonraker)
 
 ### CAD
 

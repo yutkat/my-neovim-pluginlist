@@ -637,6 +637,7 @@
 - [Sped0n/ocx.nvim](https://github.com/Sped0n/ocx.nvim) ![](https://img.shields.io/github/stars/Sped0n/ocx.nvim) ![](https://img.shields.io/github/last-commit/Sped0n/ocx.nvim) ![](https://img.shields.io/github/commit-activity/y/Sped0n/ocx.nvim)
 - [wwnbb/opencode.nvim](https://github.com/wwnbb/opencode.nvim) ![](https://img.shields.io/github/stars/wwnbb/opencode.nvim) ![](https://img.shields.io/github/last-commit/wwnbb/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/wwnbb/opencode.nvim)
 - [jawoznia/opencode.nvim](https://github.com/jawoznia/opencode.nvim) ![](https://img.shields.io/github/stars/jawoznia/opencode.nvim) ![](https://img.shields.io/github/last-commit/jawoznia/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/jawoznia/opencode.nvim)
+- [hansmrtn/openfollow.nvim](https://github.com/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/stars/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/openfollow.nvim)
 
 ### khulnasoft
 
@@ -685,6 +686,7 @@
 - [samiulsami/copilot-eldritch.nvim](https://github.com/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/stars/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/copilot-eldritch.nvim)
 - [analogrelay/copilot.nvim](https://github.com/analogrelay/copilot.nvim) ![](https://img.shields.io/github/stars/analogrelay/copilot.nvim) ![](https://img.shields.io/github/last-commit/analogrelay/copilot.nvim) ![](https://img.shields.io/github/commit-activity/y/analogrelay/copilot.nvim)
 - [dustier/copilot-cli.nvim](https://github.com/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/stars/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/last-commit/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dustier/copilot-cli.nvim)
+- [powerman/copilot-prompt.nvim](https://github.com/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/stars/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/last-commit/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/powerman/copilot-prompt.nvim)
 
 ### Genie CLI
 

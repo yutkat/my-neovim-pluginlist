@@ -78,6 +78,7 @@
 ### Slidev
 
 - [mei28/slidev.nvim](https://github.com/mei28/slidev.nvim) ![](https://img.shields.io/github/stars/mei28/slidev.nvim) ![](https://img.shields.io/github/last-commit/mei28/slidev.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/slidev.nvim)
+- [tadashi-aikawa/slidev-preview.nvim](https://github.com/tadashi-aikawa/slidev-preview.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/slidev-preview.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/slidev-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/slidev-preview.nvim)
 
 ### RSVP
 
