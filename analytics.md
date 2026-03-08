@@ -5,6 +5,7 @@
 - [Neovim Usage Analytics](#neovim-usage-analytics)
   - [Coding time](#coding-time)
     - [Timewarrior](#timewarrior)
+    - [Solidtime](#solidtime)
     - [ActivityWatch](#activitywatch)
   - [Wakatime](#wakatime)
   - [Mapping stat](#mapping-stat)
@@ -69,6 +70,10 @@
 
 - [gallois/timewarrior.nvim](https://github.com/gallois/timewarrior.nvim) ![](https://img.shields.io/github/stars/gallois/timewarrior.nvim) ![](https://img.shields.io/github/last-commit/gallois/timewarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/gallois/timewarrior.nvim)
 - [luisfer-cli/autotrack.nvim](https://github.com/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/stars/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/last-commit/luisfer-cli/autotrack.nvim) ![](https://img.shields.io/github/commit-activity/y/luisfer-cli/autotrack.nvim)
+
+#### Solidtime
+
+- [nick22985/solidtime.nvim](https://github.com/nick22985/solidtime.nvim) ![](https://img.shields.io/github/stars/nick22985/solidtime.nvim) ![](https://img.shields.io/github/last-commit/nick22985/solidtime.nvim) ![](https://img.shields.io/github/commit-activity/y/nick22985/solidtime.nvim)
 
 #### ActivityWatch
 

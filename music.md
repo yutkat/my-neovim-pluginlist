@@ -56,6 +56,7 @@
 - [ricmonmol/nvim-music-player](https://github.com/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/stars/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/last-commit/ricmonmol/nvim-music-player) ![](https://img.shields.io/github/commit-activity/y/ricmonmol/nvim-music-player)
 - [Dheebz/spotify-cli.nvim](https://github.com/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/stars/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/last-commit/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheebz/spotify-cli.nvim)
 - [mattpetters/nowplaying.nvim](https://github.com/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/stars/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpetters/nowplaying.nvim)
+- [futurekismo-oss/Ambience.nvim](https://github.com/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/stars/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/last-commit/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/futurekismo-oss/Ambience.nvim)
 
 ### sapf
 
@@ -128,4 +129,3 @@
 - [valenipes/audio-recording.nvim](https://github.com/valenipes/audio-recording.nvim) ![](https://img.shields.io/github/stars/valenipes/audio-recording.nvim) ![](https://img.shields.io/github/last-commit/valenipes/audio-recording.nvim) ![](https://img.shields.io/github/commit-activity/y/valenipes/audio-recording.nvim)
 - [AndrewMead10/asr.nvim](https://github.com/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/stars/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/last-commit/AndrewMead10/asr.nvim) ![](https://img.shields.io/github/commit-activity/y/AndrewMead10/asr.nvim)
 - [vikke/lcvgc.nvim](https://github.com/vikke/lcvgc.nvim) ![](https://img.shields.io/github/stars/vikke/lcvgc.nvim) ![](https://img.shields.io/github/last-commit/vikke/lcvgc.nvim) ![](https://img.shields.io/github/commit-activity/y/vikke/lcvgc.nvim)
-
