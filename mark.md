@@ -80,6 +80,7 @@
 - [nisidabay/code-notes.nvim](https://github.com/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/stars/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/code-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/code-notes.nvim)
 - [bearded-giant/phantom.nvim](https://github.com/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/stars/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/phantom.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/phantom.nvim)
 - [czheo/anno.nvim](https://github.com/czheo/anno.nvim) ![](https://img.shields.io/github/stars/czheo/anno.nvim) ![](https://img.shields.io/github/last-commit/czheo/anno.nvim) ![](https://img.shields.io/github/commit-activity/y/czheo/anno.nvim)
+- [j-barnak/auditor.nvim](https://github.com/j-barnak/auditor.nvim) ![](https://img.shields.io/github/stars/j-barnak/auditor.nvim) ![](https://img.shields.io/github/last-commit/j-barnak/auditor.nvim) ![](https://img.shields.io/github/commit-activity/y/j-barnak/auditor.nvim)
 
 ### hashtag
 
@@ -103,6 +104,7 @@
 - [GrammAcc/intervention.nvim](https://github.com/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/stars/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/last-commit/GrammAcc/intervention.nvim) ![](https://img.shields.io/github/commit-activity/y/GrammAcc/intervention.nvim)
 - [ailrk/telescope-context.nvim](https://github.com/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/stars/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/last-commit/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/telescope-context.nvim)
 - [gormanity/starmark.nvim](https://github.com/gormanity/starmark.nvim) ![](https://img.shields.io/github/stars/gormanity/starmark.nvim) ![](https://img.shields.io/github/last-commit/gormanity/starmark.nvim) ![](https://img.shields.io/github/commit-activity/y/gormanity/starmark.nvim)
+- [soon2moon/tekken.nvim](https://github.com/soon2moon/tekken.nvim) ![](https://img.shields.io/github/stars/soon2moon/tekken.nvim) ![](https://img.shields.io/github/last-commit/soon2moon/tekken.nvim) ![](https://img.shields.io/github/commit-activity/y/soon2moon/tekken.nvim)
 
 ### floating marker(easymotion style)
 

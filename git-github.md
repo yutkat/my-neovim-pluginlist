@@ -291,6 +291,7 @@
 - [roschaefer/blame.nvim](https://github.com/roschaefer/blame.nvim) ![](https://img.shields.io/github/stars/roschaefer/blame.nvim) ![](https://img.shields.io/github/last-commit/roschaefer/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/roschaefer/blame.nvim)
 - [inari111/git-trace.nvim](https://github.com/inari111/git-trace.nvim) ![](https://img.shields.io/github/stars/inari111/git-trace.nvim) ![](https://img.shields.io/github/last-commit/inari111/git-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/inari111/git-trace.nvim)
 - [ervinismu/git-line-blame.nvim](https://github.com/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/stars/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/last-commit/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ervinismu/git-line-blame.nvim)
+- [wshivers93/blame.nvim](https://github.com/wshivers93/blame.nvim) ![](https://img.shields.io/github/stars/wshivers93/blame.nvim) ![](https://img.shields.io/github/last-commit/wshivers93/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/wshivers93/blame.nvim)
 
 ### git log
 
@@ -311,6 +312,7 @@
 - [dallagi/git-timemachine.nvim](https://github.com/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/stars/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/last-commit/dallagi/git-timemachine.nvim) ![](https://img.shields.io/github/commit-activity/y/dallagi/git-timemachine.nvim)
 - [prasannashrestha011/git-explorer.nvim](https://github.com/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/stars/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/last-commit/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/prasannashrestha011/git-explorer.nvim)
 - [LionyxML/gitlineage.nvim](https://github.com/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/stars/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/last-commit/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/commit-activity/y/LionyxML/gitlineage.nvim)
+- [JoshuaDueck/hotline.nvim](https://github.com/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/hotline.nvim)
 
 #### preview contents
 

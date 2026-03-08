@@ -132,6 +132,8 @@
 - [Rizwanelansyah/simplyfile.nvim](https://github.com/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/simplyfile.nvim)
 - [nganhkhoa/portal.nvim](https://github.com/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/portal.nvim)
 
+- [HubertKasperek/treedx.nvim](https://github.com/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/treedx.nvim)
+
 ### Floating Style
 
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) ![](https://img.shields.io/github/stars/TimUntersberger/neofs) ![](https://img.shields.io/github/last-commit/TimUntersberger/neofs) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neofs)

@@ -167,6 +167,8 @@
 - [Jason-Bai/search-replace.nvim](https://github.com/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/stars/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Jason-Bai/search-replace.nvim)
 - [mosheavni/search-replace.nvim](https://github.com/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/stars/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/search-replace.nvim)
 
+- [dantevazquez/one-replace.nvim](https://github.com/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/stars/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/last-commit/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/dantevazquez/one-replace.nvim)
+
 ### Rename
 
 - [seasonalmatcha/symbol-renamer.nvim](https://github.com/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/stars/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/last-commit/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/seasonalmatcha/symbol-renamer.nvim)
