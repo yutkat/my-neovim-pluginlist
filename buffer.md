@@ -172,6 +172,7 @@
 - [mkeiji/better-tabs.nvim](https://github.com/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-tabs.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-tabs.nvim)
 - [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/workspaces-nvim)
 - [Rainfxxk/bufferman.nvim](https://github.com/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/bufferman.nvim)
+- [themitchells/nvim-buffergator](https://github.com/themitchells/nvim-buffergator) ![](https://img.shields.io/github/stars/themitchells/nvim-buffergator) ![](https://img.shields.io/github/last-commit/themitchells/nvim-buffergator) ![](https://img.shields.io/github/commit-activity/y/themitchells/nvim-buffergator)
 
 #### create
 

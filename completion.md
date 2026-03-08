@@ -33,6 +33,7 @@
 - [hanspinckaers/zap.nvim](https://github.com/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/stars/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/last-commit/hanspinckaers/zap.nvim) ![](https://img.shields.io/github/commit-activity/y/hanspinckaers/zap.nvim)
 - [nvimdev/phoenix.nvim](https://github.com/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/stars/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/last-commit/nvimdev/phoenix.nvim) ![](https://img.shields.io/github/commit-activity/y/nvimdev/phoenix.nvim)
 - [wsdjeg/nvim-completion](https://github.com/wsdjeg/nvim-completion) ![](https://img.shields.io/github/stars/wsdjeg/nvim-completion) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-completion) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-completion)
+- [anoopkcn/autofill.nvim](https://github.com/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/stars/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/autofill.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/autofill.nvim)
 
 #### Made in Python
 
@@ -134,4 +135,3 @@
 - [illia-shkroba/telescope-completion.nvim](https://github.com/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/stars/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/last-commit/illia-shkroba/telescope-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/illia-shkroba/telescope-completion.nvim)
 - [konradmalik/incomplete.nvim](https://github.com/konradmalik/incomplete.nvim) ![](https://img.shields.io/github/stars/konradmalik/incomplete.nvim) ![](https://img.shields.io/github/last-commit/konradmalik/incomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/konradmalik/incomplete.nvim)
 - [xuyangy/enum-picker.nvim](https://github.com/xuyangy/enum-picker.nvim) ![](https://img.shields.io/github/stars/xuyangy/enum-picker.nvim) ![](https://img.shields.io/github/last-commit/xuyangy/enum-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/xuyangy/enum-picker.nvim)
-

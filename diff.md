@@ -42,6 +42,8 @@
 - [YouSame2/inlinediff-nvim](https://github.com/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/stars/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/last-commit/YouSame2/inlinediff-nvim) ![](https://img.shields.io/github/commit-activity/y/YouSame2/inlinediff-nvim)
 - [comiluv/tabdiff.nvim](https://github.com/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/stars/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/last-commit/comiluv/tabdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/comiluv/tabdiff.nvim)
 - [finegs/dirdiff.nvim](https://github.com/finegs/dirdiff.nvim) ![](https://img.shields.io/github/stars/finegs/dirdiff.nvim) ![](https://img.shields.io/github/last-commit/finegs/dirdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/finegs/dirdiff.nvim)
+- [cvlmtg/inline-diff.nvim](https://github.com/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/stars/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/last-commit/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/cvlmtg/inline-diff.nvim)
+- [xd0pa/astral.nvim](https://github.com/xd0pa/astral.nvim) ![](https://img.shields.io/github/stars/xd0pa/astral.nvim) ![](https://img.shields.io/github/last-commit/xd0pa/astral.nvim) ![](https://img.shields.io/github/commit-activity/y/xd0pa/astral.nvim)
 
 ### Diff Register
 

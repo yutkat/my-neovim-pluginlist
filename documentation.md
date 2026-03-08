@@ -409,6 +409,7 @@
 ### Documentation viewer
 
 - [4DRIAN0RTIZ/docviewer.nvim](https://github.com/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/docviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/docviewer.nvim)
+- [SBlokhuizen/rst-preview.nvim](https://github.com/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/stars/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/last-commit/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SBlokhuizen/rst-preview.nvim)
 
 ### Documentation search
 

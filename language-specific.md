@@ -236,6 +236,7 @@
 ###### Roslyn
 
 - [khoido2003/roslyn-filewatch.nvim](https://github.com/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/stars/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/roslyn-filewatch.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/roslyn-filewatch.nvim)
+- [justinlazarus/roslyn.nvim](https://github.com/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/stars/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/roslyn.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/roslyn.nvim)
 
 ##### disassembler
 
@@ -258,6 +259,7 @@
 - [dtrh95/csharp-explorer.nvim](https://github.com/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/stars/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/last-commit/dtrh95/csharp-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/dtrh95/csharp-explorer.nvim)
 - [KaBooMa/dotnet.nvim](https://github.com/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/stars/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/last-commit/KaBooMa/dotnet.nvim) ![](https://img.shields.io/github/commit-activity/y/KaBooMa/dotnet.nvim)
 - [lukaszmoskwa/dottest.nvim](https://github.com/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/stars/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/last-commit/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaszmoskwa/dottest.nvim)
+- [andres-m-rodriguez/csharp-toolkit.nvim](https://github.com/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/stars/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/last-commit/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/andres-m-rodriguez/csharp-toolkit.nvim)
 
 ##### ASP.NET
 
@@ -324,6 +326,8 @@
 - [sgraves76/nvim-flutter-companion](https://github.com/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/stars/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-flutter-companion) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-flutter-companion)
 - [Redooyyy/flutter-deps.nvim](https://github.com/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/stars/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/last-commit/Redooyyy/flutter-deps.nvim) ![](https://img.shields.io/github/commit-activity/y/Redooyyy/flutter-deps.nvim)
 - [djade007/nvim-pub-version](https://github.com/djade007/nvim-pub-version) ![](https://img.shields.io/github/stars/djade007/nvim-pub-version) ![](https://img.shields.io/github/last-commit/djade007/nvim-pub-version) ![](https://img.shields.io/github/commit-activity/y/djade007/nvim-pub-version)
+- [pretodev/bloc.nvim](https://github.com/pretodev/bloc.nvim) ![](https://img.shields.io/github/stars/pretodev/bloc.nvim) ![](https://img.shields.io/github/last-commit/pretodev/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/bloc.nvim)
+- [pretodev/copy-widget.nvim](https://github.com/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/stars/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/last-commit/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/copy-widget.nvim)
 
 #### MetaScript
 
@@ -500,6 +504,10 @@
 #### Viper
 
 - [tiyn/viper.nvim](https://github.com/tiyn/viper.nvim) ![](https://img.shields.io/github/stars/tiyn/viper.nvim) ![](https://img.shields.io/github/last-commit/tiyn/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/viper.nvim)
+
+#### Plank
+
+- [plankevm/plank.nvim](https://github.com/plankevm/plank.nvim) ![](https://img.shields.io/github/stars/plankevm/plank.nvim) ![](https://img.shields.io/github/last-commit/plankevm/plank.nvim) ![](https://img.shields.io/github/commit-activity/y/plankevm/plank.nvim)
 
 ### WSL
 

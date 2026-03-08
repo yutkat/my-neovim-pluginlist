@@ -732,6 +732,7 @@
 ### Embedded Software
 #### OpenEmbedded/BitBake
 ### IoT
+### 3D printer
 ### CAD
 ### VHDL
 ### Verilog
@@ -1040,6 +1041,7 @@
 #### Ghidra
 #### DSL
 #### Viper
+#### Plank
 ### WSL
 #### CQL
 ##### Quadrate
