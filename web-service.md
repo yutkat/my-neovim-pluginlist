@@ -311,6 +311,7 @@
 - [iamt4nk/smm.nvim](https://github.com/iamt4nk/smm.nvim) ![](https://img.shields.io/github/stars/iamt4nk/smm.nvim) ![](https://img.shields.io/github/last-commit/iamt4nk/smm.nvim) ![](https://img.shields.io/github/commit-activity/y/iamt4nk/smm.nvim)
 - [Caronte995/spotify-player.nvim](https://github.com/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/stars/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/last-commit/Caronte995/spotify-player.nvim) ![](https://img.shields.io/github/commit-activity/y/Caronte995/spotify-player.nvim)
 - [olinpin/macos-spotify.nvim](https://github.com/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/stars/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/last-commit/olinpin/macos-spotify.nvim) ![](https://img.shields.io/github/commit-activity/y/olinpin/macos-spotify.nvim)
+- [mrsupradip/nvim-spotify](https://github.com/mrsupradip/nvim-spotify) ![](https://img.shields.io/github/stars/mrsupradip/nvim-spotify) ![](https://img.shields.io/github/last-commit/mrsupradip/nvim-spotify) ![](https://img.shields.io/github/commit-activity/y/mrsupradip/nvim-spotify)
 
 ### StackOverflow
 

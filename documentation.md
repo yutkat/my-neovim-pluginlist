@@ -504,6 +504,7 @@
 - [xunoaib/pdf-snippet.nvim](https://github.com/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/stars/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/last-commit/xunoaib/pdf-snippet.nvim) ![](https://img.shields.io/github/commit-activity/y/xunoaib/pdf-snippet.nvim)
 - [Chiarandini/telescope-pdf-browser.nvim](https://github.com/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/stars/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/telescope-pdf-browser.nvim)
 - [joshheyse/mupager.nvim](https://github.com/joshheyse/mupager.nvim) ![](https://img.shields.io/github/stars/joshheyse/mupager.nvim) ![](https://img.shields.io/github/last-commit/joshheyse/mupager.nvim) ![](https://img.shields.io/github/commit-activity/y/joshheyse/mupager.nvim)
+- [tianbaiting/pdfbuffer.nvim](https://github.com/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/stars/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/last-commit/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tianbaiting/pdfbuffer.nvim)
 
 ### EPUB
 
@@ -527,6 +528,7 @@
 - [calcu1on/ahoy.nvim](https://github.com/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/stars/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/last-commit/calcu1on/ahoy.nvim) ![](https://img.shields.io/github/commit-activity/y/calcu1on/ahoy.nvim)
 - [smtucker/pandoc-this.nvim](https://github.com/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/stars/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/last-commit/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/commit-activity/y/smtucker/pandoc-this.nvim)
 - [pranphy/pamdex.nvim](https://github.com/pranphy/pamdex.nvim) ![](https://img.shields.io/github/stars/pranphy/pamdex.nvim) ![](https://img.shields.io/github/last-commit/pranphy/pamdex.nvim) ![](https://img.shields.io/github/commit-activity/y/pranphy/pamdex.nvim)
+- [StBreuer/docs_dispenser.nvim](https://github.com/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/stars/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/last-commit/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/commit-activity/y/StBreuer/docs_dispenser.nvim)
 
 ### Vimdoc
 

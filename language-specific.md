@@ -219,6 +219,10 @@
 
 - [getlumos/nvim-lumos](https://github.com/getlumos/nvim-lumos) ![](https://img.shields.io/github/stars/getlumos/nvim-lumos) ![](https://img.shields.io/github/last-commit/getlumos/nvim-lumos) ![](https://img.shields.io/github/commit-activity/y/getlumos/nvim-lumos)
 
+#### Alloy
+
+- [vincentlu/alloy.nvim](https://github.com/vincentlu/alloy.nvim) ![](https://img.shields.io/github/stars/vincentlu/alloy.nvim) ![](https://img.shields.io/github/last-commit/vincentlu/alloy.nvim) ![](https://img.shields.io/github/commit-activity/y/vincentlu/alloy.nvim)
+
 #### C
 
 - [Decodetalkers/csharpls-extended-lsp.nvim](https://github.com/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/stars/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/last-commit/Decodetalkers/csharpls-extended-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Decodetalkers/csharpls-extended-lsp.nvim)

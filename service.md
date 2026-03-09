@@ -27,3 +27,4 @@
 ## Remote server
 
 - [rektide/nvim-auto-listen](https://github.com/rektide/nvim-auto-listen) ![](https://img.shields.io/github/stars/rektide/nvim-auto-listen) ![](https://img.shields.io/github/last-commit/rektide/nvim-auto-listen) ![](https://img.shields.io/github/commit-activity/y/rektide/nvim-auto-listen)
+- [DumbNoxx/pulse.nvim](https://github.com/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/stars/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/last-commit/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/commit-activity/y/DumbNoxx/pulse.nvim)
