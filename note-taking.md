@@ -379,6 +379,7 @@
 ### Joplin
 
 - [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) ![](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/happyeric77/joplin.nvim)
+- [soanseng/joplin-zettel.nvim](https://github.com/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/stars/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/last-commit/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/soanseng/joplin-zettel.nvim)
 
 ### Blog
 

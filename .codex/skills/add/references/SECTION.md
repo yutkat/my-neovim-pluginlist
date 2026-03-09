@@ -98,6 +98,7 @@
 ## Neovim Usage Analytics
 ### Coding time
 #### Timewarrior
+#### Solidtime
 #### ActivityWatch
 ### Wakatime
 ### Mapping stat
@@ -991,6 +992,7 @@
 #### Noir
 #### Nature
 #### Lumos
+#### Alloy
 #### C
 ##### Compile
 ###### Roslyn

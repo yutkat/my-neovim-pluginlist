@@ -262,6 +262,8 @@
 - [sunbluesome/callisto.nvim](https://github.com/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/stars/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/callisto.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/callisto.nvim)
 - [cmorales95/jupytext-render.nvim](https://github.com/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/stars/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/last-commit/cmorales95/jupytext-render.nvim) ![](https://img.shields.io/github/commit-activity/y/cmorales95/jupytext-render.nvim)
 - [brian2001dineen-afk/marimo.nvim](https://github.com/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/marimo.nvim)
+- [pickledcoder85/neo-notebooks.nvim](https://github.com/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/stars/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/last-commit/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/commit-activity/y/pickledcoder85/neo-notebooks.nvim)
+- [sunbluesome/ipynvim.nvim](https://github.com/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/stars/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/ipynvim.nvim)
 
 ### Pandas
 

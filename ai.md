@@ -717,6 +717,7 @@
 - [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
 - [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
 - [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
+- [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
 
 ### AGENTS.md
 
@@ -734,6 +735,7 @@
 ## Agent Skills
 
 - [metaphor-162/telescope-skill-picker.nvim](https://github.com/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/stars/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/last-commit/metaphor-162/telescope-skill-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/metaphor-162/telescope-skill-picker.nvim)
+- [0xble/dotagent.nvim](https://github.com/0xble/dotagent.nvim) ![](https://img.shields.io/github/stars/0xble/dotagent.nvim) ![](https://img.shields.io/github/last-commit/0xble/dotagent.nvim) ![](https://img.shields.io/github/commit-activity/y/0xble/dotagent.nvim)
 
 ## Chat
 
@@ -848,6 +850,7 @@
 - [koushikxd/resu.nvim](https://github.com/koushikxd/resu.nvim) ![](https://img.shields.io/github/stars/koushikxd/resu.nvim) ![](https://img.shields.io/github/last-commit/koushikxd/resu.nvim) ![](https://img.shields.io/github/commit-activity/y/koushikxd/resu.nvim)
 - [emshan/agent.nvim](https://github.com/emshan/agent.nvim) ![](https://img.shields.io/github/stars/emshan/agent.nvim) ![](https://img.shields.io/github/last-commit/emshan/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/emshan/agent.nvim)
 - [anonymus1145/rev.nvim](https://github.com/anonymus1145/rev.nvim) ![](https://img.shields.io/github/stars/anonymus1145/rev.nvim) ![](https://img.shields.io/github/last-commit/anonymus1145/rev.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymus1145/rev.nvim)
+- [scristobal/code-review.nvim](https://github.com/scristobal/code-review.nvim) ![](https://img.shields.io/github/stars/scristobal/code-review.nvim) ![](https://img.shields.io/github/last-commit/scristobal/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/scristobal/code-review.nvim)
 
 ## Documentation
 
@@ -910,6 +913,7 @@
 - [hjaykl/alleyoop.nvim](https://github.com/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/stars/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/last-commit/hjaykl/alleyoop.nvim) ![](https://img.shields.io/github/commit-activity/y/hjaykl/alleyoop.nvim)
 - [gen4438/marginalia.nvim](https://github.com/gen4438/marginalia.nvim) ![](https://img.shields.io/github/stars/gen4438/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gen4438/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gen4438/marginalia.nvim)
 - [tofunori/nvim-ai-bridge](https://github.com/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/stars/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/last-commit/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/commit-activity/y/tofunori/nvim-ai-bridge)
+- [ruicsh/briefing.nvim](https://github.com/ruicsh/briefing.nvim) ![](https://img.shields.io/github/stars/ruicsh/briefing.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/briefing.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/briefing.nvim)
 
 ## LLM context
 
