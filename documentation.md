@@ -643,6 +643,7 @@
 - [al-kot/typst-preview.nvim](https://github.com/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/stars/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/al-kot/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/al-kot/typst-preview.nvim)
 - [J0schu/typstwatch.nvim](https://github.com/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/stars/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/last-commit/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/J0schu/typstwatch.nvim)
 - [barrettruth/render.nvim](https://github.com/barrettruth/render.nvim) ![](https://img.shields.io/github/stars/barrettruth/render.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/render.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/render.nvim)
+- [qwjyh/tinymist-clientfeatures.nvim](https://github.com/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/stars/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/last-commit/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/commit-activity/y/qwjyh/tinymist-clientfeatures.nvim)
 
 ### Textile
 
