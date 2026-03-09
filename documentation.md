@@ -644,6 +644,11 @@
 - [J0schu/typstwatch.nvim](https://github.com/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/stars/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/last-commit/J0schu/typstwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/J0schu/typstwatch.nvim)
 - [barrettruth/render.nvim](https://github.com/barrettruth/render.nvim) ![](https://img.shields.io/github/stars/barrettruth/render.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/render.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/render.nvim)
 - [qwjyh/tinymist-clientfeatures.nvim](https://github.com/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/stars/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/last-commit/qwjyh/tinymist-clientfeatures.nvim) ![](https://img.shields.io/github/commit-activity/y/qwjyh/tinymist-clientfeatures.nvim)
+- [monaqa/typscrap.nvim](https://github.com/monaqa/typscrap.nvim) ![](https://img.shields.io/github/stars/monaqa/typscrap.nvim) ![](https://img.shields.io/github/last-commit/monaqa/typscrap.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/typscrap.nvim)
+- [freref/typst-qol.nvim](https://github.com/freref/typst-qol.nvim) ![](https://img.shields.io/github/stars/freref/typst-qol.nvim) ![](https://img.shields.io/github/last-commit/freref/typst-qol.nvim) ![](https://img.shields.io/github/commit-activity/y/freref/typst-qol.nvim)
+- [Kirizan/typst-bib.nvim](https://github.com/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/stars/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/last-commit/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/commit-activity/y/Kirizan/typst-bib.nvim)
+- [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
+- [max397574/typst-tools.nvim](https://github.com/max397574/typst-tools.nvim) ![](https://img.shields.io/github/stars/max397574/typst-tools.nvim) ![](https://img.shields.io/github/last-commit/max397574/typst-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/typst-tools.nvim)
 
 ### Textile
 
