@@ -717,6 +717,7 @@
 - [otaleghani/dwight.nvim](https://github.com/otaleghani/dwight.nvim) ![](https://img.shields.io/github/stars/otaleghani/dwight.nvim) ![](https://img.shields.io/github/last-commit/otaleghani/dwight.nvim) ![](https://img.shields.io/github/commit-activity/y/otaleghani/dwight.nvim)
 - [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
 - [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
+- [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
 
 ### AGENTS.md
 
@@ -773,7 +774,6 @@
 - [anonymous-dev-org/0x0.nvim](https://github.com/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0.nvim)
 - [sokinpui/coder-ask.nvim](https://github.com/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder-ask.nvim)
 - [juhaku/aiwaku.nvim](https://github.com/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/stars/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/last-commit/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/commit-activity/y/juhaku/aiwaku.nvim)
-- [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
 
 ## ECA
 
