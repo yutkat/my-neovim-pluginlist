@@ -23,7 +23,6 @@
     - [eslint](#eslint)
     - [OXC](#oxc)
   - [tsserver](#tsserver)
-  - [Typst preview](#typst-preview)
   - [JSON](#json)
   - [Test](#test)
     - [Jasmine](#jasmine)
@@ -184,11 +183,6 @@
 - [davidosomething/format-ts-errors.nvim](https://github.com/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/stars/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/davidosomething/format-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidosomething/format-ts-errors.nvim)
 - [stornquist/tsserver-workspace-linter.nvim](https://github.com/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/stars/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/last-commit/stornquist/tsserver-workspace-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/stornquist/tsserver-workspace-linter.nvim)
 - [davidfriar/tserrors.nvim](https://github.com/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/stars/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/last-commit/davidfriar/tserrors.nvim) ![](https://img.shields.io/github/commit-activity/y/davidfriar/tserrors.nvim)
-
-### Typst preview
-
-- [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
-- [max397574/typst-tools.nvim](https://github.com/max397574/typst-tools.nvim) ![](https://img.shields.io/github/stars/max397574/typst-tools.nvim) ![](https://img.shields.io/github/last-commit/max397574/typst-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/typst-tools.nvim)
 
 ### JSON
 
