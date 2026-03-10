@@ -129,6 +129,7 @@
 - [Layxe/comment-divider.nvim](https://github.com/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/stars/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/last-commit/Layxe/comment-divider.nvim) ![](https://img.shields.io/github/commit-activity/y/Layxe/comment-divider.nvim)
 - [SrVariable/gensec.nvim](https://github.com/SrVariable/gensec.nvim) ![](https://img.shields.io/github/stars/SrVariable/gensec.nvim) ![](https://img.shields.io/github/last-commit/SrVariable/gensec.nvim) ![](https://img.shields.io/github/commit-activity/y/SrVariable/gensec.nvim)
 - [marantz-dev/codeSeparator.nvim](https://github.com/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/stars/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/last-commit/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/commit-activity/y/marantz-dev/codeSeparator.nvim)
+- [YUSHACOD/sections.nvim](https://github.com/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/stars/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/last-commit/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/commit-activity/y/YUSHACOD/sections.nvim)
 
 ### Annotation
 
