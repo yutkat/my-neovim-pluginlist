@@ -532,6 +532,7 @@
 - [aguss787/jujutsu.nvim](https://github.com/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/stars/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/aguss787/jujutsu.nvim)
 - [doprz/jujutsu.nvim](https://github.com/doprz/jujutsu.nvim) ![](https://img.shields.io/github/stars/doprz/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/doprz/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/doprz/jujutsu.nvim)
 - [micahbf/maju.nvim](https://github.com/micahbf/maju.nvim) ![](https://img.shields.io/github/stars/micahbf/maju.nvim) ![](https://img.shields.io/github/last-commit/micahbf/maju.nvim) ![](https://img.shields.io/github/commit-activity/y/micahbf/maju.nvim)
+- [NicholasZolton/neojj](https://github.com/NicholasZolton/neojj) ![](https://img.shields.io/github/stars/NicholasZolton/neojj) ![](https://img.shields.io/github/last-commit/NicholasZolton/neojj) ![](https://img.shields.io/github/commit-activity/y/NicholasZolton/neojj)
 
 ### diff
 
@@ -714,7 +715,6 @@
 - [melvi-l/housp.nvim](https://github.com/melvi-l/housp.nvim) ![](https://img.shields.io/github/stars/melvi-l/housp.nvim) ![](https://img.shields.io/github/last-commit/melvi-l/housp.nvim) ![](https://img.shields.io/github/commit-activity/y/melvi-l/housp.nvim)
 
 ### Image
-
 
 ### Star
 
