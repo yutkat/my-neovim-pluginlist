@@ -57,6 +57,7 @@
 - [Dheebz/spotify-cli.nvim](https://github.com/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/stars/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/last-commit/Dheebz/spotify-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Dheebz/spotify-cli.nvim)
 - [mattpetters/nowplaying.nvim](https://github.com/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/stars/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpetters/nowplaying.nvim)
 - [futurekismo-oss/Ambience.nvim](https://github.com/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/stars/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/last-commit/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/futurekismo-oss/Ambience.nvim)
+- [Hugo1974/musicpicker.nvim](https://github.com/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/stars/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/last-commit/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/musicpicker.nvim)
 
 ### sapf
 

@@ -105,6 +105,7 @@
 - [codethread/qmk.nvim](https://github.com/codethread/qmk.nvim) ![](https://img.shields.io/github/stars/codethread/qmk.nvim) ![](https://img.shields.io/github/last-commit/codethread/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/codethread/qmk.nvim)
 - [jdsee/umlauts.nvim](https://github.com/jdsee/umlauts.nvim) ![](https://img.shields.io/github/stars/jdsee/umlauts.nvim) ![](https://img.shields.io/github/last-commit/jdsee/umlauts.nvim) ![](https://img.shields.io/github/commit-activity/y/jdsee/umlauts.nvim)
 - [linduxed/colemak.nvim](https://github.com/linduxed/colemak.nvim) ![](https://img.shields.io/github/stars/linduxed/colemak.nvim) ![](https://img.shields.io/github/last-commit/linduxed/colemak.nvim) ![](https://img.shields.io/github/commit-activity/y/linduxed/colemak.nvim)
+- [arnmar/qmk.nvim](https://github.com/arnmar/qmk.nvim) ![](https://img.shields.io/github/stars/arnmar/qmk.nvim) ![](https://img.shields.io/github/last-commit/arnmar/qmk.nvim) ![](https://img.shields.io/github/commit-activity/y/arnmar/qmk.nvim)
 
 #### Keyboard Layout
 
