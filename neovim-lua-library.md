@@ -226,6 +226,7 @@
 - [r0nsha/multinput.nvim](https://github.com/r0nsha/multinput.nvim) ![](https://img.shields.io/github/stars/r0nsha/multinput.nvim) ![](https://img.shields.io/github/last-commit/r0nsha/multinput.nvim) ![](https://img.shields.io/github/commit-activity/y/r0nsha/multinput.nvim)
 - [cpea2506/input.nvim](https://github.com/cpea2506/input.nvim) ![](https://img.shields.io/github/stars/cpea2506/input.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/input.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/input.nvim)
 - [ivomac/toothpick.nvim](https://github.com/ivomac/toothpick.nvim) ![](https://img.shields.io/github/stars/ivomac/toothpick.nvim) ![](https://img.shields.io/github/last-commit/ivomac/toothpick.nvim) ![](https://img.shields.io/github/commit-activity/y/ivomac/toothpick.nvim)
+- [skewb1k/nvim-simple-select](https://github.com/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/stars/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/last-commit/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/commit-activity/y/skewb1k/nvim-simple-select)
 
 ### Popup
 

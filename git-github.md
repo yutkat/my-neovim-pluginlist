@@ -530,6 +530,8 @@
 - [jceb/jiejie.nvim](https://github.com/jceb/jiejie.nvim) ![](https://img.shields.io/github/stars/jceb/jiejie.nvim) ![](https://img.shields.io/github/last-commit/jceb/jiejie.nvim) ![](https://img.shields.io/github/commit-activity/y/jceb/jiejie.nvim)
 - [lucasadelino/jjtrack](https://github.com/lucasadelino/jjtrack) ![](https://img.shields.io/github/stars/lucasadelino/jjtrack) ![](https://img.shields.io/github/last-commit/lucasadelino/jjtrack) ![](https://img.shields.io/github/commit-activity/y/lucasadelino/jjtrack)
 - [aguss787/jujutsu.nvim](https://github.com/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/stars/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/aguss787/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/aguss787/jujutsu.nvim)
+- [doprz/jujutsu.nvim](https://github.com/doprz/jujutsu.nvim) ![](https://img.shields.io/github/stars/doprz/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/doprz/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/doprz/jujutsu.nvim)
+- [micahbf/maju.nvim](https://github.com/micahbf/maju.nvim) ![](https://img.shields.io/github/stars/micahbf/maju.nvim) ![](https://img.shields.io/github/last-commit/micahbf/maju.nvim) ![](https://img.shields.io/github/commit-activity/y/micahbf/maju.nvim)
 
 ### diff
 
