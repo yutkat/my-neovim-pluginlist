@@ -30,7 +30,6 @@
     - [WezTerm](#wezterm)
     - [Ghostty](#ghostty)
     - [Windows Terminal](#windows-terminal)
-    - [Zellij](#zellij)
     - [Wireman](#wireman)
     - [ZTerm](#zterm)
   - [Infra](#infra)
@@ -196,6 +195,7 @@
 - [Toprun123/PicVim](https://github.com/Toprun123/PicVim) ![](https://img.shields.io/github/stars/Toprun123/PicVim) ![](https://img.shields.io/github/last-commit/Toprun123/PicVim) ![](https://img.shields.io/github/commit-activity/y/Toprun123/PicVim)
 - [ksmai/power-mode.nvim](https://github.com/ksmai/power-mode.nvim) ![](https://img.shields.io/github/stars/ksmai/power-mode.nvim) ![](https://img.shields.io/github/last-commit/ksmai/power-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/ksmai/power-mode.nvim)
 - [degnbol/kitty-conf.nvim](https://github.com/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/stars/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/last-commit/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/commit-activity/y/degnbol/kitty-conf.nvim)
+- [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
 
 ##### Image
 
@@ -222,10 +222,6 @@
 #### Windows Terminal
 
 - [BlueKossa/windows-terminal-bg.nvim](https://github.com/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/stars/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/last-commit/BlueKossa/windows-terminal-bg.nvim) ![](https://img.shields.io/github/commit-activity/y/BlueKossa/windows-terminal-bg.nvim)
-
-#### Zellij
-
-- [HypeSafety/promptly.nvim](https://github.com/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/stars/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/last-commit/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/HypeSafety/promptly.nvim)
 
 #### Wireman
 
