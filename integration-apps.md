@@ -41,6 +41,7 @@
     - [Nginx](#nginx)
     - [OpenFGA](#openfga)
     - [ElasticSearch](#elasticsearch)
+    - [Docker](#docker)
     - [Kubernetes](#kubernetes)
     - [VPN](#vpn)
   - [Cloud](#cloud)
@@ -75,6 +76,7 @@
     - [migemo](#migemo)
   - [Battery](#battery)
   - [Audio](#audio)
+    - [Speech-to-text](#speech-to-text)
     - [SuperCollider](#supercollider)
     - [LilyPond](#lilypond)
     - [Text-to-speech](#text-to-speech)
@@ -215,6 +217,7 @@
 
 - [isak102/ghostty.nvim](https://github.com/isak102/ghostty.nvim) ![](https://img.shields.io/github/stars/isak102/ghostty.nvim) ![](https://img.shields.io/github/last-commit/isak102/ghostty.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/ghostty.nvim)
 - [MisterPiggie/casper.nvim](https://github.com/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/stars/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/last-commit/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterPiggie/casper.nvim)
+- [tmm/ghostty-navigator.nvim](https://github.com/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/stars/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/last-commit/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/tmm/ghostty-navigator.nvim)
 
 #### Windows Terminal
 
