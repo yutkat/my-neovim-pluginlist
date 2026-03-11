@@ -924,7 +924,6 @@
 #### eslint
 #### OXC
 ### tsserver
-### Typst preview
 ### JSON
 ### Test
 #### Jasmine
@@ -1044,6 +1043,7 @@
 #### DSL
 #### Viper
 #### Plank
+#### Elm
 ### WSL
 #### CQL
 ##### Quadrate
@@ -1461,7 +1461,6 @@
 #### Hugo
 #### GitHub Pages
 ### Google Keep
-### Typst
 ### Dendron
 ### Linear.app
 ### Omnivore

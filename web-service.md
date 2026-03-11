@@ -370,6 +370,7 @@
 ### HackerNews
 
 - [forked4x/hackernews.nvim](https://github.com/forked4x/hackernews.nvim) ![](https://img.shields.io/github/stars/forked4x/hackernews.nvim) ![](https://img.shields.io/github/last-commit/forked4x/hackernews.nvim) ![](https://img.shields.io/github/commit-activity/y/forked4x/hackernews.nvim)
+- [jwayston/quicknews.nvim](https://github.com/jwayston/quicknews.nvim) ![](https://img.shields.io/github/stars/jwayston/quicknews.nvim) ![](https://img.shields.io/github/last-commit/jwayston/quicknews.nvim) ![](https://img.shields.io/github/commit-activity/y/jwayston/quicknews.nvim)
 
 ### DevDocs
 

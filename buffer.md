@@ -267,6 +267,7 @@
 - [n3tw0rth/scrub.nvim](https://github.com/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/stars/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/last-commit/n3tw0rth/scrub.nvim) ![](https://img.shields.io/github/commit-activity/y/n3tw0rth/scrub.nvim)
 - [ljsoph/bufdelete.nvim](https://github.com/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/stars/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/last-commit/ljsoph/bufdelete.nvim) ![](https://img.shields.io/github/commit-activity/y/ljsoph/bufdelete.nvim)
 - [wsdjeg/bufdel.nvim](https://github.com/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/stars/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/bufdel.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/bufdel.nvim)
+- [maranix/bufd.nvim](https://github.com/maranix/bufd.nvim) ![](https://img.shields.io/github/stars/maranix/bufd.nvim) ![](https://img.shields.io/github/last-commit/maranix/bufd.nvim) ![](https://img.shields.io/github/commit-activity/y/maranix/bufd.nvim)
 
 #### restore
 

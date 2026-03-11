@@ -188,6 +188,8 @@
 - [yaadata/codex.nvim](https://github.com/yaadata/codex.nvim) ![](https://img.shields.io/github/stars/yaadata/codex.nvim) ![](https://img.shields.io/github/last-commit/yaadata/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/yaadata/codex.nvim)
 - [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
 
+- [AlexanderGolys/codex-cli.nvim](https://github.com/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex-cli.nvim)
+
 #### Whisper
 
 - [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
@@ -369,6 +371,8 @@
 - [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
 - [mabucio/nvim-ollama](https://github.com/mabucio/nvim-ollama) ![](https://img.shields.io/github/stars/mabucio/nvim-ollama) ![](https://img.shields.io/github/last-commit/mabucio/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/mabucio/nvim-ollama)
 - [jorge-a-martinez-dev/local-llm.nvim](https://github.com/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/stars/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/last-commit/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/jorge-a-martinez-dev/local-llm.nvim)
+
+- [basola21/chisel.nvim](https://github.com/basola21/chisel.nvim) ![](https://img.shields.io/github/stars/basola21/chisel.nvim) ![](https://img.shields.io/github/last-commit/basola21/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/basola21/chisel.nvim)
 
 ### Claude
 
