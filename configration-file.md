@@ -65,6 +65,7 @@
 - [RizaHKhan/filter.nvim](https://github.com/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/stars/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/last-commit/RizaHKhan/filter.nvim) ![](https://img.shields.io/github/commit-activity/y/RizaHKhan/filter.nvim)
 - [HiPhish/multiquery.nvim](https://github.com/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/stars/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/last-commit/HiPhish/multiquery.nvim) ![](https://img.shields.io/github/commit-activity/y/HiPhish/multiquery.nvim)
 - [tomasdedic/nvim-json-schema-selector](https://github.com/tomasdedic/nvim-json-schema-selector) ![](https://img.shields.io/github/stars/tomasdedic/nvim-json-schema-selector) ![](https://img.shields.io/github/last-commit/tomasdedic/nvim-json-schema-selector) ![](https://img.shields.io/github/commit-activity/y/tomasdedic/nvim-json-schema-selector)
+- [kristoferssolo/jsonl.nvim](https://github.com/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/jsonl.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/jsonl.nvim)
 
 #### fx
 
