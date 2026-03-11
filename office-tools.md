@@ -74,6 +74,7 @@
 - [ducks/vimdeck.nvim](https://github.com/ducks/vimdeck.nvim) ![](https://img.shields.io/github/stars/ducks/vimdeck.nvim) ![](https://img.shields.io/github/last-commit/ducks/vimdeck.nvim) ![](https://img.shields.io/github/commit-activity/y/ducks/vimdeck.nvim)
 - [kulvirdotgg/ppt.nvim](https://github.com/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/stars/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/last-commit/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/commit-activity/y/kulvirdotgg/ppt.nvim)
 - [numen-0/glide.nvim](https://github.com/numen-0/glide.nvim) ![](https://img.shields.io/github/stars/numen-0/glide.nvim) ![](https://img.shields.io/github/last-commit/numen-0/glide.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/glide.nvim)
+- [ochcaroline/slidey.nvim](https://github.com/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/stars/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/slidey.nvim)
 
 ### Slidev
 

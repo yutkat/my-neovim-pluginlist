@@ -303,6 +303,8 @@
 - [tjmisko/taskbuffer.nvim](https://github.com/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/stars/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/last-commit/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tjmisko/taskbuffer.nvim)
 - [paval-shlyk/session-todo.nvim](https://github.com/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/session-todo.nvim)
 
+- [MOHIT-IITP/todofloat.nvim](https://github.com/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/stars/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/last-commit/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/MOHIT-IITP/todofloat.nvim)
+
 #### Google Task
 
 - [p-tupe/gtask.nvim](https://github.com/p-tupe/gtask.nvim) ![](https://img.shields.io/github/stars/p-tupe/gtask.nvim) ![](https://img.shields.io/github/last-commit/p-tupe/gtask.nvim) ![](https://img.shields.io/github/commit-activity/y/p-tupe/gtask.nvim)
@@ -538,6 +540,7 @@
 - [deleonn/notetaker.nvim](https://github.com/deleonn/notetaker.nvim) ![](https://img.shields.io/github/stars/deleonn/notetaker.nvim) ![](https://img.shields.io/github/last-commit/deleonn/notetaker.nvim) ![](https://img.shields.io/github/commit-activity/y/deleonn/notetaker.nvim)
 - [kungfusheep/i.nvim](https://github.com/kungfusheep/i.nvim) ![](https://img.shields.io/github/stars/kungfusheep/i.nvim) ![](https://img.shields.io/github/last-commit/kungfusheep/i.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusheep/i.nvim)
 - [txemaotero/entry_selector.nvim](https://github.com/txemaotero/entry_selector.nvim) ![](https://img.shields.io/github/stars/txemaotero/entry_selector.nvim) ![](https://img.shields.io/github/last-commit/txemaotero/entry_selector.nvim) ![](https://img.shields.io/github/commit-activity/y/txemaotero/entry_selector.nvim)
+- [wg-romank/telememos.nvim](https://github.com/wg-romank/telememos.nvim) ![](https://img.shields.io/github/stars/wg-romank/telememos.nvim) ![](https://img.shields.io/github/last-commit/wg-romank/telememos.nvim) ![](https://img.shields.io/github/commit-activity/y/wg-romank/telememos.nvim)
 - [letieu/jot.lua](https://github.com/letieu/jot.lua) ![](https://img.shields.io/github/stars/letieu/jot.lua) ![](https://img.shields.io/github/last-commit/letieu/jot.lua) ![](https://img.shields.io/github/commit-activity/y/letieu/jot.lua)
 - [Suhaan-Bhandary/notes.nvim](https://github.com/Suhaan-Bhandary/notes.nvim) ![](https://img.shields.io/github/stars/Suhaan-Bhandary/notes.nvim) ![](https://img.shields.io/github/last-commit/Suhaan-Bhandary/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/Suhaan-Bhandary/notes.nvim)
 - [xiaket/n.nvim](https://github.com/xiaket/n.nvim) ![](https://img.shields.io/github/stars/xiaket/n.nvim) ![](https://img.shields.io/github/last-commit/xiaket/n.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaket/n.nvim)

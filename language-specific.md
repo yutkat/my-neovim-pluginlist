@@ -514,6 +514,10 @@
 
 - [plankevm/plank.nvim](https://github.com/plankevm/plank.nvim) ![](https://img.shields.io/github/stars/plankevm/plank.nvim) ![](https://img.shields.io/github/last-commit/plankevm/plank.nvim) ![](https://img.shields.io/github/commit-activity/y/plankevm/plank.nvim)
 
+#### Elm
+
+- [teppix/elm-toolbox.nvim](https://github.com/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/stars/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/last-commit/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/teppix/elm-toolbox.nvim)
+
 ### WSL
 
 - [stjude-rust-labs/sprocket.nvim](https://github.com/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/stars/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/last-commit/stjude-rust-labs/sprocket.nvim) ![](https://img.shields.io/github/commit-activity/y/stjude-rust-labs/sprocket.nvim)

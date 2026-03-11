@@ -32,6 +32,7 @@
 - [xavierchen0/ezpoon.nvim](https://github.com/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/stars/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/last-commit/xavierchen0/ezpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/xavierchen0/ezpoon.nvim)
 - [66RING/peek.nvim](https://github.com/66RING/peek.nvim) ![](https://img.shields.io/github/stars/66RING/peek.nvim) ![](https://img.shields.io/github/last-commit/66RING/peek.nvim) ![](https://img.shields.io/github/commit-activity/y/66RING/peek.nvim)
 - [johnpmitsch/vai.nvim](https://github.com/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/stars/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/last-commit/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpmitsch/vai.nvim)
+- [michaelPotter/blowdart.nvim](https://github.com/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/stars/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/blowdart.nvim)
 
 ### Error
 

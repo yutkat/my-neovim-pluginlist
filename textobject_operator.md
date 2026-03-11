@@ -105,5 +105,6 @@
 - [tar80/rereope.nvim](https://github.com/tar80/rereope.nvim) ![](https://img.shields.io/github/stars/tar80/rereope.nvim) ![](https://img.shields.io/github/last-commit/tar80/rereope.nvim) ![](https://img.shields.io/github/commit-activity/y/tar80/rereope.nvim)
 - [TheLazyCat00/replace-nvim](https://github.com/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/replace-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/replace-nvim)
 - [zmunk/remote-replace.nvim](https://github.com/zmunk/remote-replace.nvim) ![](https://img.shields.io/github/stars/zmunk/remote-replace.nvim) ![](https://img.shields.io/github/last-commit/zmunk/remote-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/zmunk/remote-replace.nvim)
+- [marc-alexis-com/change-in-line.nvim](https://github.com/marc-alexis-com/change-in-line.nvim) ![](https://img.shields.io/github/stars/marc-alexis-com/change-in-line.nvim) ![](https://img.shields.io/github/last-commit/marc-alexis-com/change-in-line.nvim) ![](https://img.shields.io/github/commit-activity/y/marc-alexis-com/change-in-line.nvim)
 
 ### s
