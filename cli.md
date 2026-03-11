@@ -128,6 +128,7 @@
 - [husseinmirzaki/nvim-tmux-integration](https://github.com/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/stars/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/last-commit/husseinmirzaki/nvim-tmux-integration) ![](https://img.shields.io/github/commit-activity/y/husseinmirzaki/nvim-tmux-integration)
 - [shateq/TmuxReparent.nvim](https://github.com/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/stars/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/last-commit/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/commit-activity/y/shateq/TmuxReparent.nvim)
 - [js/tmux-sendit.nvim](https://github.com/js/tmux-sendit.nvim) ![](https://img.shields.io/github/stars/js/tmux-sendit.nvim) ![](https://img.shields.io/github/last-commit/js/tmux-sendit.nvim) ![](https://img.shields.io/github/commit-activity/y/js/tmux-sendit.nvim)
+- [dwainm/tmux-commander.nvim](https://github.com/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/stars/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/last-commit/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/commit-activity/y/dwainm/tmux-commander.nvim)
 
 ##### tmux alternative
 
@@ -144,6 +145,7 @@
 - [dev-vinicius-andrade/zellij-nav.nvim](https://github.com/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/stars/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/last-commit/dev-vinicius-andrade/zellij-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-vinicius-andrade/zellij-nav.nvim)
 - [wizardling1/zj-tab.nvim](https://github.com/wizardling1/zj-tab.nvim) ![](https://img.shields.io/github/stars/wizardling1/zj-tab.nvim) ![](https://img.shields.io/github/last-commit/wizardling1/zj-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/wizardling1/zj-tab.nvim)
 - [y2w8/zellij.nvim](https://github.com/y2w8/zellij.nvim) ![](https://img.shields.io/github/stars/y2w8/zellij.nvim) ![](https://img.shields.io/github/last-commit/y2w8/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/y2w8/zellij.nvim)
+- [HypeSafety/promptly.nvim](https://github.com/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/stars/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/last-commit/HypeSafety/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/HypeSafety/promptly.nvim)
 
 #### Container
 
