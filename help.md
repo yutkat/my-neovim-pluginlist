@@ -38,6 +38,7 @@
 
 - [delphinus/open-official-doc.nvim](https://github.com/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/stars/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/last-commit/delphinus/open-official-doc.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/open-official-doc.nvim)
 - [phanen/helpful.nvim](https://github.com/phanen/helpful.nvim) ![](https://img.shields.io/github/stars/phanen/helpful.nvim) ![](https://img.shields.io/github/last-commit/phanen/helpful.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/helpful.nvim)
+- [yochem/nvim-md-help](https://github.com/yochem/nvim-md-help) ![](https://img.shields.io/github/stars/yochem/nvim-md-help) ![](https://img.shields.io/github/last-commit/yochem/nvim-md-help) ![](https://img.shields.io/github/commit-activity/y/yochem/nvim-md-help)
 
 ### CheatSheet
 

@@ -319,6 +319,7 @@
 - [clobrano/frontline.nvim](https://github.com/clobrano/frontline.nvim) ![](https://img.shields.io/github/stars/clobrano/frontline.nvim) ![](https://img.shields.io/github/last-commit/clobrano/frontline.nvim) ![](https://img.shields.io/github/commit-activity/y/clobrano/frontline.nvim)
 - [Pete-Hamlin/tasknv.nvim](https://github.com/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/stars/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/last-commit/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/commit-activity/y/Pete-Hamlin/tasknv.nvim)
 - [07CalC/doit.nvim](https://github.com/07CalC/doit.nvim) ![](https://img.shields.io/github/stars/07CalC/doit.nvim) ![](https://img.shields.io/github/last-commit/07CalC/doit.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/doit.nvim)
+- [armmahajan/taskwarrior.nvim](https://github.com/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/stars/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/armmahajan/taskwarrior.nvim)
 
 ### Obsidian
 

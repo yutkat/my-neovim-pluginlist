@@ -38,6 +38,7 @@
 - [wuchuheng/auto-fix-rust.nvim](https://github.com/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/stars/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/last-commit/wuchuheng/auto-fix-rust.nvim) ![](https://img.shields.io/github/commit-activity/y/wuchuheng/auto-fix-rust.nvim)
 - [alexpasmantier/krust.nvim](https://github.com/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/krust.nvim)
 - [Nub/clanker.nvim](https://github.com/Nub/clanker.nvim) ![](https://img.shields.io/github/stars/Nub/clanker.nvim) ![](https://img.shields.io/github/last-commit/Nub/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/Nub/clanker.nvim)
+- [GhostVox/implicit-return.nvim](https://github.com/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/stars/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/last-commit/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostVox/implicit-return.nvim)
 
 ### Test
 
@@ -64,6 +65,7 @@
 - [david-rusnak/dependacheck.nvim](https://github.com/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/stars/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/last-commit/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/commit-activity/y/david-rusnak/dependacheck.nvim)
 - [frofor/cargo-ghost](https://github.com/frofor/cargo-ghost) ![](https://img.shields.io/github/stars/frofor/cargo-ghost) ![](https://img.shields.io/github/last-commit/frofor/cargo-ghost) ![](https://img.shields.io/github/commit-activity/y/frofor/cargo-ghost)
 - [madelaney/cargo-audit.nvim](https://github.com/madelaney/cargo-audit.nvim) ![](https://img.shields.io/github/stars/madelaney/cargo-audit.nvim) ![](https://img.shields.io/github/last-commit/madelaney/cargo-audit.nvim) ![](https://img.shields.io/github/commit-activity/y/madelaney/cargo-audit.nvim)
+- [aekasitt/fargo.nvim](https://github.com/aekasitt/fargo.nvim) ![](https://img.shields.io/github/stars/aekasitt/fargo.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/fargo.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/fargo.nvim)
 
 ### Clippy
 

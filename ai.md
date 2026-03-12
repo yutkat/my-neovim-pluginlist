@@ -721,6 +721,7 @@
 - [MSmaili/wiremux.nvim](https://github.com/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/stars/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/last-commit/MSmaili/wiremux.nvim) ![](https://img.shields.io/github/commit-activity/y/MSmaili/wiremux.nvim)
 - [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
 - [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
+- [medeirosvictor/sade.nvim](https://github.com/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/stars/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/last-commit/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/commit-activity/y/medeirosvictor/sade.nvim)
 
 ### AGENTS.md
 
