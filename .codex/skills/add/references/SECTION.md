@@ -827,7 +827,6 @@
 #### WezTerm
 #### Ghostty
 #### Windows Terminal
-#### Zellij
 #### Wireman
 #### ZTerm
 ### Infra
@@ -1318,6 +1317,7 @@
 # music.md
 ## Music
 ### sapf
+### Spotify
 ### Apple music
 ### YouTube Music
 ### Tidal
@@ -2029,7 +2029,6 @@
 ### Mapping
 ### Jump
 ### Terminal mode
-### External terminal
 ### Terminal Selector
 ### Command
 ### Neovim in Neovim
@@ -2147,7 +2146,6 @@
 ### 0x0.st
 ### Gyazo
 ### Twitch
-### Spotify
 ### StackOverflow
 ### pastebin
 ### Meilisearch
