@@ -69,8 +69,8 @@
 - [Maxteabag/sqlit.nvim](https://github.com/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/stars/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/last-commit/Maxteabag/sqlit.nvim) ![](https://img.shields.io/github/commit-activity/y/Maxteabag/sqlit.nvim)
 - [sadopc/gotermsql.nvim](https://github.com/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/stars/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/last-commit/sadopc/gotermsql.nvim) ![](https://img.shields.io/github/commit-activity/y/sadopc/gotermsql.nvim)
 - [j4flmao/sql-lens.nvim](https://github.com/j4flmao/sql-lens.nvim) ![](https://img.shields.io/github/stars/j4flmao/sql-lens.nvim) ![](https://img.shields.io/github/last-commit/j4flmao/sql-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/j4flmao/sql-lens.nvim)
-
 - [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/last-commit/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/commit-activity/y/joryeugene/dadbod-grip.nvim)
+- [MysticalDevil/ts-inject.nvim](https://github.com/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/stars/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/last-commit/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/commit-activity/y/MysticalDevil/ts-inject.nvim)
 
 ### PostgreSQL
 
@@ -116,7 +116,6 @@
 - [deepbuzin/gel-query.nvim](https://github.com/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/stars/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/last-commit/deepbuzin/gel-query.nvim) ![](https://img.shields.io/github/commit-activity/y/deepbuzin/gel-query.nvim)
 
 ### Metabase
-
 
 ### DuckDB
 
