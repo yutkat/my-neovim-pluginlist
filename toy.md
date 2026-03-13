@@ -41,6 +41,7 @@
 - [sahaj-b/brainrot.nvim](https://github.com/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/stars/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/last-commit/sahaj-b/brainrot.nvim) ![](https://img.shields.io/github/commit-activity/y/sahaj-b/brainrot.nvim)
 - [tamton-aquib/ads.nvim](https://github.com/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/stars/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/last-commit/tamton-aquib/ads.nvim) ![](https://img.shields.io/github/commit-activity/y/tamton-aquib/ads.nvim)
 - [ingenarel/age-verification.nvim](https://github.com/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/stars/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/last-commit/ingenarel/age-verification.nvim) ![](https://img.shields.io/github/commit-activity/y/ingenarel/age-verification.nvim)
+- [mahyarmirrashed/devexcuses.nvim](https://github.com/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/stars/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/last-commit/mahyarmirrashed/devexcuses.nvim) ![](https://img.shields.io/github/commit-activity/y/mahyarmirrashed/devexcuses.nvim)
 
 #### Hacker typer
 

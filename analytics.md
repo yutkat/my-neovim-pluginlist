@@ -79,6 +79,7 @@
 #### ActivityWatch
 
 - [lowitea/aw-watcher.nvim](https://github.com/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/stars/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/last-commit/lowitea/aw-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/lowitea/aw-watcher.nvim)
+- [taigrr/activity-watch.nvim](https://github.com/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/stars/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/last-commit/taigrr/activity-watch.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/activity-watch.nvim)
 
 ### Wakatime
 

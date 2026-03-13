@@ -52,3 +52,4 @@
 ## Bruno
 
 - [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/bruno.nvim)
+- [kristoferssolo/bruno.nvim](https://github.com/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/bruno.nvim)

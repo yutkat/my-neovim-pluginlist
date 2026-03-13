@@ -136,6 +136,7 @@
 - [crcrist/notes-dashboard.nvim](https://github.com/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/stars/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/last-commit/crcrist/notes-dashboard.nvim) ![](https://img.shields.io/github/commit-activity/y/crcrist/notes-dashboard.nvim)
 - [gmcusaro/ma.nvim](https://github.com/gmcusaro/ma.nvim) ![](https://img.shields.io/github/stars/gmcusaro/ma.nvim) ![](https://img.shields.io/github/last-commit/gmcusaro/ma.nvim) ![](https://img.shields.io/github/commit-activity/y/gmcusaro/ma.nvim)
 - [anti-precog/nvim-draft](https://github.com/anti-precog/nvim-draft) ![](https://img.shields.io/github/stars/anti-precog/nvim-draft) ![](https://img.shields.io/github/last-commit/anti-precog/nvim-draft) ![](https://img.shields.io/github/commit-activity/y/anti-precog/nvim-draft)
+- [czt08883/todo-md.nvim](https://github.com/czt08883/todo-md.nvim) ![](https://img.shields.io/github/stars/czt08883/todo-md.nvim) ![](https://img.shields.io/github/last-commit/czt08883/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/czt08883/todo-md.nvim)
 
 ### Journal
 
@@ -425,6 +426,7 @@
 - [sandepten/worklog.nvim](https://github.com/sandepten/worklog.nvim) ![](https://img.shields.io/github/stars/sandepten/worklog.nvim) ![](https://img.shields.io/github/last-commit/sandepten/worklog.nvim) ![](https://img.shields.io/github/commit-activity/y/sandepten/worklog.nvim)
 - [sminrana/nvim-taskflow](https://github.com/sminrana/nvim-taskflow) ![](https://img.shields.io/github/stars/sminrana/nvim-taskflow) ![](https://img.shields.io/github/last-commit/sminrana/nvim-taskflow) ![](https://img.shields.io/github/commit-activity/y/sminrana/nvim-taskflow)
 - [joelgwebber/yaks.nvim](https://github.com/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/stars/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/yaks.nvim)
+- [tanmayv/tasks.nvim](https://github.com/tanmayv/tasks.nvim) ![](https://img.shields.io/github/stars/tanmayv/tasks.nvim) ![](https://img.shields.io/github/last-commit/tanmayv/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tanmayv/tasks.nvim)
 
 ### Wiki
 

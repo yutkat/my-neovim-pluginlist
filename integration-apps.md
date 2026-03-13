@@ -123,6 +123,7 @@
 ### Jira
 
 - [sbulav/jira-oil.nvim](https://github.com/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/stars/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/last-commit/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/jira-oil.nvim)
+- [tobiaswadsethdev/anvil.nvim](https://github.com/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/stars/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/last-commit/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaswadsethdev/anvil.nvim)
 
 ### Zed
 
