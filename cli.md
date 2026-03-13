@@ -41,7 +41,7 @@
   - [rsync](#rsync)
   - [curl](#curl)
   - [OpenSSL](#openssl)
-  - [bruno](#bruno)
+  - [Bruno](#bruno)
   - [ctags](#ctags)
   - [global](#global)
   - [tldr](#tldr)
@@ -382,11 +382,13 @@
 
 - [johannww/openssl.nvim](https://github.com/johannww/openssl.nvim) ![](https://img.shields.io/github/stars/johannww/openssl.nvim) ![](https://img.shields.io/github/last-commit/johannww/openssl.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/openssl.nvim)
 
-#### bruno
+#### Bruno
 
 - [romek-codes/bruno.nvim](https://github.com/romek-codes/bruno.nvim) ![](https://img.shields.io/github/stars/romek-codes/bruno.nvim) ![](https://img.shields.io/github/last-commit/romek-codes/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/romek-codes/bruno.nvim)
 - [Wotee/bruh.nvim](https://github.com/Wotee/bruh.nvim) ![](https://img.shields.io/github/stars/Wotee/bruh.nvim) ![](https://img.shields.io/github/last-commit/Wotee/bruh.nvim) ![](https://img.shields.io/github/commit-activity/y/Wotee/bruh.nvim)
 - [SugarHashira/bruno.nvim](https://github.com/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/stars/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/last-commit/SugarHashira/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/SugarHashira/bruno.nvim)
+- [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/bruno.nvim)
+- [kristoferssolo/bruno.nvim](https://github.com/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/bruno.nvim)
 
 #### ctags
 

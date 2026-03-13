@@ -111,7 +111,6 @@
 - [aki-masaki/nvim-virtual-colors](https://github.com/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/stars/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/last-commit/aki-masaki/nvim-virtual-colors) ![](https://img.shields.io/github/commit-activity/y/aki-masaki/nvim-virtual-colors)
 - [gzitei/paint.nvim](https://github.com/gzitei/paint.nvim) ![](https://img.shields.io/github/stars/gzitei/paint.nvim) ![](https://img.shields.io/github/last-commit/gzitei/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/paint.nvim)
 - [dinh-khuong/csscolor.nvim](https://github.com/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/stars/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/last-commit/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/commit-activity/y/dinh-khuong/csscolor.nvim)
-- [pavlokrykh/tailwind-highlight.nvim](https://github.com/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/stars/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/last-commit/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlokrykh/tailwind-highlight.nvim)
 
 ### Color picker
 

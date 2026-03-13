@@ -7,7 +7,6 @@
   - [Devcontainer](#devcontainer)
   - [Collaborative Editing](#collaborative-editing)
   - [IDE feature](#ide-feature)
-- [Bruno](#bruno)
 
 <!-- tocstop -->
 
@@ -48,8 +47,3 @@
 - [AEKjeldal/imposter.nvim](https://github.com/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/stars/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/last-commit/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKjeldal/imposter.nvim)
 - [kevintraver/nvim-vscode-status](https://github.com/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/stars/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/last-commit/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/commit-activity/y/kevintraver/nvim-vscode-status)
 - [kimpure/vscode-settings.nvim](https://github.com/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/stars/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/last-commit/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/vscode-settings.nvim)
-
-## Bruno
-
-- [jesses-code-adventures/bruno.nvim](https://github.com/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/bruno.nvim)
-- [kristoferssolo/bruno.nvim](https://github.com/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/stars/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/last-commit/kristoferssolo/bruno.nvim) ![](https://img.shields.io/github/commit-activity/y/kristoferssolo/bruno.nvim)
