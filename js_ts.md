@@ -342,6 +342,7 @@
 - [ruicsh/tailwind-hover.nvim](https://github.com/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwind-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwind-hover.nvim)
 - [ruicsh/tailwindcss-shades.nvim](https://github.com/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwindcss-shades.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwindcss-shades.nvim)
 - [ruicsh/tailwindcss-dial.nvim](https://github.com/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/stars/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/tailwindcss-dial.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/tailwindcss-dial.nvim)
+- [pavlokrykh/tailwind-highlight.nvim](https://github.com/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/stars/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/last-commit/pavlokrykh/tailwind-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/pavlokrykh/tailwind-highlight.nvim)
 
 ### SCSS
 

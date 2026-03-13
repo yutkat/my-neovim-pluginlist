@@ -537,6 +537,7 @@
 - [doprz/jujutsu.nvim](https://github.com/doprz/jujutsu.nvim) ![](https://img.shields.io/github/stars/doprz/jujutsu.nvim) ![](https://img.shields.io/github/last-commit/doprz/jujutsu.nvim) ![](https://img.shields.io/github/commit-activity/y/doprz/jujutsu.nvim)
 - [micahbf/maju.nvim](https://github.com/micahbf/maju.nvim) ![](https://img.shields.io/github/stars/micahbf/maju.nvim) ![](https://img.shields.io/github/last-commit/micahbf/maju.nvim) ![](https://img.shields.io/github/commit-activity/y/micahbf/maju.nvim)
 - [NicholasZolton/neojj](https://github.com/NicholasZolton/neojj) ![](https://img.shields.io/github/stars/NicholasZolton/neojj) ![](https://img.shields.io/github/last-commit/NicholasZolton/neojj) ![](https://img.shields.io/github/commit-activity/y/NicholasZolton/neojj)
+- [ATTron/dojo.nvim](https://github.com/ATTron/dojo.nvim) ![](https://img.shields.io/github/stars/ATTron/dojo.nvim) ![](https://img.shields.io/github/last-commit/ATTron/dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ATTron/dojo.nvim)
 
 ### diff
 
@@ -631,6 +632,7 @@
 - [afewyards/codereview.nvim](https://github.com/afewyards/codereview.nvim) ![](https://img.shields.io/github/stars/afewyards/codereview.nvim) ![](https://img.shields.io/github/last-commit/afewyards/codereview.nvim) ![](https://img.shields.io/github/commit-activity/y/afewyards/codereview.nvim)
 - [flexphere/reviewit.nvim](https://github.com/flexphere/reviewit.nvim) ![](https://img.shields.io/github/stars/flexphere/reviewit.nvim) ![](https://img.shields.io/github/last-commit/flexphere/reviewit.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/reviewit.nvim)
 - [max-farver/git-review.nvim](https://github.com/max-farver/git-review.nvim) ![](https://img.shields.io/github/stars/max-farver/git-review.nvim) ![](https://img.shields.io/github/last-commit/max-farver/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/max-farver/git-review.nvim)
+- [justinlazarus/plz.nvim](https://github.com/justinlazarus/plz.nvim) ![](https://img.shields.io/github/stars/justinlazarus/plz.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/plz.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/plz.nvim)
 
 #### Pull Request Comment
 

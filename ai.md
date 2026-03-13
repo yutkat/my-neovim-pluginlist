@@ -186,6 +186,7 @@
 - [sdcoffey/codex-inline-edits.nvim](https://github.com/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/stars/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/last-commit/sdcoffey/codex-inline-edits.nvim) ![](https://img.shields.io/github/commit-activity/y/sdcoffey/codex-inline-edits.nvim)
 - [yaadata/codex.nvim](https://github.com/yaadata/codex.nvim) ![](https://img.shields.io/github/stars/yaadata/codex.nvim) ![](https://img.shields.io/github/last-commit/yaadata/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/yaadata/codex.nvim)
 - [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
+- [jcarlos7121/codex.nvim](https://github.com/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/codex.nvim)
 
 - [AlexanderGolys/codex-cli.nvim](https://github.com/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex-cli.nvim)
 
