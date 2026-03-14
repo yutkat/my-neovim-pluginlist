@@ -137,6 +137,8 @@
 - [gmcusaro/ma.nvim](https://github.com/gmcusaro/ma.nvim) ![](https://img.shields.io/github/stars/gmcusaro/ma.nvim) ![](https://img.shields.io/github/last-commit/gmcusaro/ma.nvim) ![](https://img.shields.io/github/commit-activity/y/gmcusaro/ma.nvim)
 - [anti-precog/nvim-draft](https://github.com/anti-precog/nvim-draft) ![](https://img.shields.io/github/stars/anti-precog/nvim-draft) ![](https://img.shields.io/github/last-commit/anti-precog/nvim-draft) ![](https://img.shields.io/github/commit-activity/y/anti-precog/nvim-draft)
 - [czt08883/todo-md.nvim](https://github.com/czt08883/todo-md.nvim) ![](https://img.shields.io/github/stars/czt08883/todo-md.nvim) ![](https://img.shields.io/github/last-commit/czt08883/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/czt08883/todo-md.nvim)
+- [Andrrs64/dirnotes.nvim](https://github.com/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/stars/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/last-commit/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Andrrs64/dirnotes.nvim)
+- [cmdblock/nvim-note-templates](https://github.com/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/stars/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/last-commit/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/commit-activity/y/cmdblock/nvim-note-templates)
 
 ### Journal
 
@@ -305,6 +307,7 @@
 - [paval-shlyk/session-todo.nvim](https://github.com/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/session-todo.nvim)
 
 - [MOHIT-IITP/todofloat.nvim](https://github.com/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/stars/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/last-commit/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/MOHIT-IITP/todofloat.nvim)
+- [olo42/markdone.nvim](https://github.com/olo42/markdone.nvim) ![](https://img.shields.io/github/stars/olo42/markdone.nvim) ![](https://img.shields.io/github/last-commit/olo42/markdone.nvim) ![](https://img.shields.io/github/commit-activity/y/olo42/markdone.nvim)
 
 #### Google Task
 
@@ -427,6 +430,7 @@
 - [sminrana/nvim-taskflow](https://github.com/sminrana/nvim-taskflow) ![](https://img.shields.io/github/stars/sminrana/nvim-taskflow) ![](https://img.shields.io/github/last-commit/sminrana/nvim-taskflow) ![](https://img.shields.io/github/commit-activity/y/sminrana/nvim-taskflow)
 - [joelgwebber/yaks.nvim](https://github.com/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/stars/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/yaks.nvim)
 - [tanmayv/tasks.nvim](https://github.com/tanmayv/tasks.nvim) ![](https://img.shields.io/github/stars/tanmayv/tasks.nvim) ![](https://img.shields.io/github/last-commit/tanmayv/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tanmayv/tasks.nvim)
+- [davidelng/shipcop.nvim](https://github.com/davidelng/shipcop.nvim) ![](https://img.shields.io/github/stars/davidelng/shipcop.nvim) ![](https://img.shields.io/github/last-commit/davidelng/shipcop.nvim) ![](https://img.shields.io/github/commit-activity/y/davidelng/shipcop.nvim)
 
 ### Wiki
 

@@ -505,6 +505,7 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+- [El-Mundos/nvim-sfml](https://github.com/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/stars/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/last-commit/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/commit-activity/y/El-Mundos/nvim-sfml)
 
 #### Viper
 

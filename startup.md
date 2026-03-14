@@ -44,6 +44,7 @@
 - [StikyPiston/simpledash.nvim](https://github.com/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/stars/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/last-commit/StikyPiston/simpledash.nvim) ![](https://img.shields.io/github/commit-activity/y/StikyPiston/simpledash.nvim)
 - [bukkml/minintro.nvim](https://github.com/bukkml/minintro.nvim) ![](https://img.shields.io/github/stars/bukkml/minintro.nvim) ![](https://img.shields.io/github/last-commit/bukkml/minintro.nvim) ![](https://img.shields.io/github/commit-activity/y/bukkml/minintro.nvim)
 - [leo-alvarenga/homecoming.nvim](https://github.com/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/last-commit/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/commit-activity/y/leo-alvarenga/homecoming.nvim)
+- [InfJoker/nvim-shader-art](https://github.com/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/stars/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/last-commit/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/commit-activity/y/InfJoker/nvim-shader-art)
 
 ### Boot Arguments
 

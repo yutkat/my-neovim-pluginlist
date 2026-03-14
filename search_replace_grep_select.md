@@ -237,6 +237,7 @@
 - [dk949/ast-search.nvim](https://github.com/dk949/ast-search.nvim) ![](https://img.shields.io/github/stars/dk949/ast-search.nvim) ![](https://img.shields.io/github/last-commit/dk949/ast-search.nvim) ![](https://img.shields.io/github/commit-activity/y/dk949/ast-search.nvim)
 - [KyleKing/codanna.nvim](https://github.com/KyleKing/codanna.nvim) ![](https://img.shields.io/github/stars/KyleKing/codanna.nvim) ![](https://img.shields.io/github/last-commit/KyleKing/codanna.nvim) ![](https://img.shields.io/github/commit-activity/y/KyleKing/codanna.nvim)
 - [ryanmab/onoma.nvim](https://github.com/ryanmab/onoma.nvim) ![](https://img.shields.io/github/stars/ryanmab/onoma.nvim) ![](https://img.shields.io/github/last-commit/ryanmab/onoma.nvim) ![](https://img.shields.io/github/commit-activity/y/ryanmab/onoma.nvim)
+- [martintrojer/vecgrep.nvim](https://github.com/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/stars/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/vecgrep.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/vecgrep.nvim)
 
 ### Zoket(google)
 
