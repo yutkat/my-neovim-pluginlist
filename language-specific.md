@@ -9,6 +9,7 @@
     - [Noir](#noir)
     - [Nature](#nature)
     - [Lumos](#lumos)
+    - [Alloy](#alloy)
     - [C](#c)
       - [Compile](#compile)
         - [Roslyn](#roslyn)
@@ -25,6 +26,7 @@
     - [Scala](#scala)
       - [ZIO](#zio)
     - [Dart, Flutter](#dart-flutter)
+    - [MetaScript](#metascript)
     - [Clojure](#clojure)
       - [test](#test)
       - [format](#format)
@@ -58,6 +60,8 @@
     - [Ghidra](#ghidra)
     - [DSL](#dsl)
     - [Viper](#viper)
+    - [Plank](#plank)
+    - [Elm](#elm)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -505,7 +509,6 @@
 #### DSL
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
-- [El-Mundos/nvim-sfml](https://github.com/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/stars/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/last-commit/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/commit-activity/y/El-Mundos/nvim-sfml)
 
 #### Viper
 
