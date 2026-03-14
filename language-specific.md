@@ -905,7 +905,6 @@
 #### Prolog
 
 - [dimchee/ediprolog.nvim](https://github.com/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/stars/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/last-commit/dimchee/ediprolog.nvim) ![](https://img.shields.io/github/commit-activity/y/dimchee/ediprolog.nvim)
-
 - [gleachkr/swine.nvim](https://github.com/gleachkr/swine.nvim) ![](https://img.shields.io/github/stars/gleachkr/swine.nvim) ![](https://img.shields.io/github/last-commit/gleachkr/swine.nvim) ![](https://img.shields.io/github/commit-activity/y/gleachkr/swine.nvim)
 
 #### Beancount

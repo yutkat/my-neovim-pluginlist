@@ -69,7 +69,6 @@
 - [bart-vd/visual-marks.nvim](https://github.com/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/stars/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/last-commit/bart-vd/visual-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/bart-vd/visual-marks.nvim)
 - [tgallacher/waypoint.nvim](https://github.com/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/stars/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/last-commit/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/tgallacher/waypoint.nvim)
 - [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/stars/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/last-commit/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dimtion/guttermarks.nvim)
-
 - [jwu/showmarks.nvim](https://github.com/jwu/showmarks.nvim) ![](https://img.shields.io/github/stars/jwu/showmarks.nvim) ![](https://img.shields.io/github/last-commit/jwu/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/showmarks.nvim)
 ### mark note
 
@@ -158,7 +157,6 @@
 - [TheNoeTrevino/haunt.nvim](https://github.com/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/haunt.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/haunt.nvim)
 - [KoinBanks/spear.nvim](https://github.com/KoinBanks/spear.nvim) ![](https://img.shields.io/github/stars/KoinBanks/spear.nvim) ![](https://img.shields.io/github/last-commit/KoinBanks/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/KoinBanks/spear.nvim)
 - [moriyoshi-kasuga/projmark.nvim](https://github.com/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/stars/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/last-commit/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/commit-activity/y/moriyoshi-kasuga/projmark.nvim)
-
 - [vbrdnk/anchorage.nvim](https://github.com/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/stars/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/last-commit/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/commit-activity/y/vbrdnk/anchorage.nvim)
 
 ### etc

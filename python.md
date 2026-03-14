@@ -154,7 +154,6 @@
 #### inlayhint
 
 - [Davidyz/inlayhint-filler.nvim](https://github.com/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/stars/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/inlayhint-filler.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/inlayhint-filler.nvim)
-
 - [KirilStrezikozin/telescope-py-super-types.nvim](https://github.com/KirilStrezikozin/telescope-py-super-types.nvim) ![](https://img.shields.io/github/stars/KirilStrezikozin/telescope-py-super-types.nvim) ![](https://img.shields.io/github/last-commit/KirilStrezikozin/telescope-py-super-types.nvim) ![](https://img.shields.io/github/commit-activity/y/KirilStrezikozin/telescope-py-super-types.nvim)
 
 ### Docstring

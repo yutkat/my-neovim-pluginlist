@@ -187,7 +187,6 @@
 - [yaadata/codex.nvim](https://github.com/yaadata/codex.nvim) ![](https://img.shields.io/github/stars/yaadata/codex.nvim) ![](https://img.shields.io/github/last-commit/yaadata/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/yaadata/codex.nvim)
 - [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
 - [jcarlos7121/codex.nvim](https://github.com/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/codex.nvim)
-
 - [AlexanderGolys/codex-cli.nvim](https://github.com/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex-cli.nvim)
 
 #### Whisper
@@ -371,7 +370,6 @@
 - [tejas-hosamani/nvim-sensei](https://github.com/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/stars/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/last-commit/tejas-hosamani/nvim-sensei) ![](https://img.shields.io/github/commit-activity/y/tejas-hosamani/nvim-sensei)
 - [mabucio/nvim-ollama](https://github.com/mabucio/nvim-ollama) ![](https://img.shields.io/github/stars/mabucio/nvim-ollama) ![](https://img.shields.io/github/last-commit/mabucio/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/mabucio/nvim-ollama)
 - [jorge-a-martinez-dev/local-llm.nvim](https://github.com/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/stars/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/last-commit/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/jorge-a-martinez-dev/local-llm.nvim)
-
 - [basola21/chisel.nvim](https://github.com/basola21/chisel.nvim) ![](https://img.shields.io/github/stars/basola21/chisel.nvim) ![](https://img.shields.io/github/last-commit/basola21/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/basola21/chisel.nvim)
 
 ### Claude
@@ -508,7 +506,6 @@
 - [WayenVan/aidergo.nvim](https://github.com/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/stars/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/last-commit/WayenVan/aidergo.nvim) ![](https://img.shields.io/github/commit-activity/y/WayenVan/aidergo.nvim)
 - [iammmiru/aider-addons.nvim](https://github.com/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/stars/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/last-commit/iammmiru/aider-addons.nvim) ![](https://img.shields.io/github/commit-activity/y/iammmiru/aider-addons.nvim)
 - [hungyiloo/nvaider.nvim](https://github.com/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/stars/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/last-commit/hungyiloo/nvaider.nvim) ![](https://img.shields.io/github/commit-activity/y/hungyiloo/nvaider.nvim)
-
 - [possumtech/aider-pop.nvim](https://github.com/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/stars/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/last-commit/possumtech/aider-pop.nvim) ![](https://img.shields.io/github/commit-activity/y/possumtech/aider-pop.nvim)
 
 ### CodeGate
@@ -697,7 +694,6 @@
 
 - [kcaldas/genie.nvim](https://github.com/kcaldas/genie.nvim) ![](https://img.shields.io/github/stars/kcaldas/genie.nvim) ![](https://img.shields.io/github/last-commit/kcaldas/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/kcaldas/genie.nvim)
 - [e3oroush/askCode](https://github.com/e3oroush/askCode) ![](https://img.shields.io/github/stars/e3oroush/askCode) ![](https://img.shields.io/github/last-commit/e3oroush/askCode) ![](https://img.shields.io/github/commit-activity/y/e3oroush/askCode)
-
 - [ofcRS/nvim-acai](https://github.com/ofcRS/nvim-acai) ![](https://img.shields.io/github/stars/ofcRS/nvim-acai) ![](https://img.shields.io/github/last-commit/ofcRS/nvim-acai) ![](https://img.shields.io/github/commit-activity/y/ofcRS/nvim-acai)
 
 ## Agent
@@ -806,7 +802,6 @@
 
 - [sriram-mv/kiro.nvim](https://github.com/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/stars/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/last-commit/sriram-mv/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/sriram-mv/kiro.nvim)
 - [ynnekF/nvim-kiro](https://github.com/ynnekF/nvim-kiro) ![](https://img.shields.io/github/stars/ynnekF/nvim-kiro) ![](https://img.shields.io/github/last-commit/ynnekF/nvim-kiro) ![](https://img.shields.io/github/commit-activity/y/ynnekF/nvim-kiro)
-
 - [seagoj/kiro.nvim](https://github.com/seagoj/kiro.nvim) ![](https://img.shields.io/github/stars/seagoj/kiro.nvim) ![](https://img.shields.io/github/last-commit/seagoj/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/seagoj/kiro.nvim)
 
 ## CodeCompanion

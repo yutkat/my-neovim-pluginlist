@@ -131,7 +131,6 @@
 - [bobrown101/fff.nvim](https://github.com/bobrown101/fff.nvim) ![](https://img.shields.io/github/stars/bobrown101/fff.nvim) ![](https://img.shields.io/github/last-commit/bobrown101/fff.nvim) ![](https://img.shields.io/github/commit-activity/y/bobrown101/fff.nvim)
 - [Rizwanelansyah/simplyfile.nvim](https://github.com/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/simplyfile.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/simplyfile.nvim)
 - [nganhkhoa/portal.nvim](https://github.com/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/portal.nvim)
-
 - [HubertKasperek/treedx.nvim](https://github.com/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/treedx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/treedx.nvim)
 
 ### Floating Style

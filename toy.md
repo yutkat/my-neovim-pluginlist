@@ -60,7 +60,6 @@
 - [Panda-d3v/cute-cat.nvim](https://github.com/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/stars/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/last-commit/Panda-d3v/cute-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/Panda-d3v/cute-cat.nvim)
 - [frostzt/bongo-cat.nvim](https://github.com/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/stars/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/last-commit/frostzt/bongo-cat.nvim) ![](https://img.shields.io/github/commit-activity/y/frostzt/bongo-cat.nvim)
 - [VeroAsghar/cat.nvim](https://github.com/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/stars/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/last-commit/VeroAsghar/cat.nvim) ![](https://img.shields.io/github/commit-activity/y/VeroAsghar/cat.nvim)
-
 - [calvin-gehrig/nvim-fish](https://github.com/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/stars/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/last-commit/calvin-gehrig/nvim-fish) ![](https://img.shields.io/github/commit-activity/y/calvin-gehrig/nvim-fish)
 
 ### Coinflip
