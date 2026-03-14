@@ -40,7 +40,6 @@
 - [ecthiender/daak.nvim](https://github.com/ecthiender/daak.nvim) ![](https://img.shields.io/github/stars/ecthiender/daak.nvim) ![](https://img.shields.io/github/last-commit/ecthiender/daak.nvim) ![](https://img.shields.io/github/commit-activity/y/ecthiender/daak.nvim)
 - [Cybernetics354/mayohttp.nvim](https://github.com/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/stars/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/last-commit/Cybernetics354/mayohttp.nvim) ![](https://img.shields.io/github/commit-activity/y/Cybernetics354/mayohttp.nvim)
 - [felipeRese/httpie-runer.nvim](https://github.com/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/stars/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/last-commit/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeRese/httpie-runer.nvim)
-
 - [takeshy/http-file.nvim](https://github.com/takeshy/http-file.nvim) ![](https://img.shields.io/github/stars/takeshy/http-file.nvim) ![](https://img.shields.io/github/last-commit/takeshy/http-file.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshy/http-file.nvim)
 - [JD1705/AdoRest.nvim](https://github.com/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/stars/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/last-commit/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/commit-activity/y/JD1705/AdoRest.nvim)
 
@@ -80,7 +79,6 @@
 ### Protocol buffer
 
 - [yeyee2901/nvim-buf-lint](https://github.com/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/stars/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/last-commit/yeyee2901/nvim-buf-lint) ![](https://img.shields.io/github/commit-activity/y/yeyee2901/nvim-buf-lint)
-
 - [AmirMohammad2003/nvim-protobuf-tools](https://github.com/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/stars/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/last-commit/AmirMohammad2003/nvim-protobuf-tools) ![](https://img.shields.io/github/commit-activity/y/AmirMohammad2003/nvim-protobuf-tools)
 ### Hurl
 
@@ -112,7 +110,6 @@
 
 - [ZieMcd/nvim-httpyac](https://github.com/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/stars/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/last-commit/ZieMcd/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/ZieMcd/nvim-httpyac)
 - [abidibo/nvim-httpyac](https://github.com/abidibo/nvim-httpyac) ![](https://img.shields.io/github/stars/abidibo/nvim-httpyac) ![](https://img.shields.io/github/last-commit/abidibo/nvim-httpyac) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-httpyac)
-
 - [SuriyaRuk/httpyac.nvim](https://github.com/SuriyaRuk/httpyac.nvim) ![](https://img.shields.io/github/stars/SuriyaRuk/httpyac.nvim) ![](https://img.shields.io/github/last-commit/SuriyaRuk/httpyac.nvim) ![](https://img.shields.io/github/commit-activity/y/SuriyaRuk/httpyac.nvim)
 
 ### HL7

@@ -157,7 +157,6 @@
 - [senelway/vinote.nvim](https://github.com/senelway/vinote.nvim) ![](https://img.shields.io/github/stars/senelway/vinote.nvim) ![](https://img.shields.io/github/last-commit/senelway/vinote.nvim) ![](https://img.shields.io/github/commit-activity/y/senelway/vinote.nvim)
 - [bilyes/daily-notes-index.nvim](https://github.com/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/stars/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/last-commit/bilyes/daily-notes-index.nvim) ![](https://img.shields.io/github/commit-activity/y/bilyes/daily-notes-index.nvim)
 - [k0ndratov/notes.nvim](https://github.com/k0ndratov/notes.nvim) ![](https://img.shields.io/github/stars/k0ndratov/notes.nvim) ![](https://img.shields.io/github/last-commit/k0ndratov/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/k0ndratov/notes.nvim)
-
 - [chadnorvell/devlog.nvim](https://github.com/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/stars/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/devlog.nvim)
 
 ### ToDo
@@ -281,7 +280,6 @@
 - [Morass/simple-todo.nvim](https://github.com/Morass/simple-todo.nvim) ![](https://img.shields.io/github/stars/Morass/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/Morass/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Morass/simple-todo.nvim)
 - [DrewDalmedo/docket.nvim](https://github.com/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/docket.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/docket.nvim)
 - [teejstroyer/task.nvim](https://github.com/teejstroyer/task.nvim) ![](https://img.shields.io/github/stars/teejstroyer/task.nvim) ![](https://img.shields.io/github/last-commit/teejstroyer/task.nvim) ![](https://img.shields.io/github/commit-activity/y/teejstroyer/task.nvim)
-
 - [ZachYarbrough/todo-list.nvim](https://github.com/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/stars/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/last-commit/ZachYarbrough/todo-list.nvim) ![](https://img.shields.io/github/commit-activity/y/ZachYarbrough/todo-list.nvim)
 - [Maduki-tech/mdtodo.nvim](https://github.com/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/stars/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/last-commit/Maduki-tech/mdtodo.nvim) ![](https://img.shields.io/github/commit-activity/y/Maduki-tech/mdtodo.nvim)
 - [moreka/simple-todo.nvim](https://github.com/moreka/simple-todo.nvim) ![](https://img.shields.io/github/stars/moreka/simple-todo.nvim) ![](https://img.shields.io/github/last-commit/moreka/simple-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/moreka/simple-todo.nvim)
@@ -305,7 +303,6 @@
 - [joninvski/nvim-todo-tasks](https://github.com/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/stars/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/last-commit/joninvski/nvim-todo-tasks) ![](https://img.shields.io/github/commit-activity/y/joninvski/nvim-todo-tasks)
 - [tjmisko/taskbuffer.nvim](https://github.com/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/stars/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/last-commit/tjmisko/taskbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tjmisko/taskbuffer.nvim)
 - [paval-shlyk/session-todo.nvim](https://github.com/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/session-todo.nvim)
-
 - [MOHIT-IITP/todofloat.nvim](https://github.com/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/stars/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/last-commit/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/MOHIT-IITP/todofloat.nvim)
 - [olo42/markdone.nvim](https://github.com/olo42/markdone.nvim) ![](https://img.shields.io/github/stars/olo42/markdone.nvim) ![](https://img.shields.io/github/last-commit/olo42/markdone.nvim) ![](https://img.shields.io/github/commit-activity/y/olo42/markdone.nvim)
 

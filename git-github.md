@@ -355,13 +355,11 @@
 - [joao-lobao/githunks.nvim](https://github.com/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/stars/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/githunks.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/githunks.nvim)
 - [dev-shetty/easydiff.nvim](https://github.com/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/stars/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/last-commit/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shetty/easydiff.nvim)
 - [msegoviadev/nvim-iterview](https://github.com/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/stars/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/last-commit/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/commit-activity/y/msegoviadev/nvim-iterview)
-
 - [ByteBardOrg/critiq-diff-search.nvim](https://github.com/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/stars/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/last-commit/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/commit-activity/y/ByteBardOrg/critiq-diff-search.nvim)
 
 #### image diff
 
 - [sankantsu/gin-diff-image.nvim](https://github.com/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/stars/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/last-commit/sankantsu/gin-diff-image.nvim) ![](https://img.shields.io/github/commit-activity/y/sankantsu/gin-diff-image.nvim)
-
 - [HubertKasperek/gitdx.nvim](https://github.com/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/gitdx.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/gitdx.nvim)
 
 ### git rebase
@@ -459,7 +457,6 @@
 - [IMax153/git-worktree.nvim](https://github.com/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/stars/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/IMax153/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/IMax153/git-worktree.nvim)
 - [WataruNishimura/git-wt.nvim](https://github.com/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/stars/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/last-commit/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/WataruNishimura/git-wt.nvim)
 - [jack-work/tree-bear.nvim](https://github.com/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/stars/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/last-commit/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-work/tree-bear.nvim)
-
 - [gsilvapt/neotrees.nvim](https://github.com/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/stars/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/last-commit/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/commit-activity/y/gsilvapt/neotrees.nvim)
 
 ### submodule
