@@ -195,6 +195,7 @@
 - [elliotekj/claude-commit.nvim](https://github.com/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/stars/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/last-commit/elliotekj/claude-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/elliotekj/claude-commit.nvim)
 - [JanSmrcka/nvim-auto-commit](https://github.com/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/stars/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/last-commit/JanSmrcka/nvim-auto-commit) ![](https://img.shields.io/github/commit-activity/y/JanSmrcka/nvim-auto-commit)
 - [Sengoku11/commitpad.nvim](https://github.com/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/stars/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/commitpad.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/commitpad.nvim)
+- [MattFlower/commit-view.nvim](https://github.com/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/stars/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/last-commit/MattFlower/commit-view.nvim) ![](https://img.shields.io/github/commit-activity/y/MattFlower/commit-view.nvim)
 
 #### prefix(conventional-commits)
 
@@ -313,6 +314,7 @@
 - [prasannashrestha011/git-explorer.nvim](https://github.com/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/stars/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/last-commit/prasannashrestha011/git-explorer.nvim) ![](https://img.shields.io/github/commit-activity/y/prasannashrestha011/git-explorer.nvim)
 - [LionyxML/gitlineage.nvim](https://github.com/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/stars/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/last-commit/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/commit-activity/y/LionyxML/gitlineage.nvim)
 - [JoshuaDueck/hotline.nvim](https://github.com/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/hotline.nvim)
+- [Daiki48/gbv.nvim](https://github.com/Daiki48/gbv.nvim) ![](https://img.shields.io/github/stars/Daiki48/gbv.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/gbv.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/gbv.nvim)
 
 #### preview contents
 

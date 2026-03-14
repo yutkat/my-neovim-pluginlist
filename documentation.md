@@ -242,6 +242,7 @@
 - [JASONews/glow-hover.nvim](https://github.com/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/stars/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/last-commit/JASONews/glow-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/JASONews/glow-hover.nvim)
 - [Isaac7777-cpu/markdown-preview.nvim](https://github.com/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/stars/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/Isaac7777-cpu/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Isaac7777-cpu/markdown-preview.nvim)
 - [Alexandros-Pallis/neoglow.nvim](https://github.com/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/stars/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/last-commit/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandros-Pallis/neoglow.nvim)
+- [ibuibu/glow-preview.nvim](https://github.com/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/stars/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/last-commit/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ibuibu/glow-preview.nvim)
 
 ##### Zathura
 

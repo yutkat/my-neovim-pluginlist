@@ -30,6 +30,7 @@
     - [Window Manager](#window-manager)
     - [iTerm](#iterm)
     - [input source](#input-source)
+    - [Karabiner](#karabiner)
     - [Theme](#theme)
   - [Chromebook](#chromebook)
   - [iOS](#ios)
@@ -164,6 +165,10 @@
 
 - [smartding/macism.nvim](https://github.com/smartding/macism.nvim) ![](https://img.shields.io/github/stars/smartding/macism.nvim) ![](https://img.shields.io/github/last-commit/smartding/macism.nvim) ![](https://img.shields.io/github/commit-activity/y/smartding/macism.nvim)
 - [yulianggan/macism.nvim](https://github.com/yulianggan/macism.nvim) ![](https://img.shields.io/github/stars/yulianggan/macism.nvim) ![](https://img.shields.io/github/last-commit/yulianggan/macism.nvim) ![](https://img.shields.io/github/commit-activity/y/yulianggan/macism.nvim)
+
+#### Karabiner
+
+- [Gai-H/karabiner-active-variable.nvim](https://github.com/Gai-H/karabiner-active-variable.nvim) ![](https://img.shields.io/github/stars/Gai-H/karabiner-active-variable.nvim) ![](https://img.shields.io/github/last-commit/Gai-H/karabiner-active-variable.nvim) ![](https://img.shields.io/github/commit-activity/y/Gai-H/karabiner-active-variable.nvim)
 
 #### Theme
 

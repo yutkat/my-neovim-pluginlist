@@ -7,6 +7,7 @@
   - [Tetris](#tetris)
   - [Chess](#chess)
   - [Mine Sweeper](#mine-sweeper)
+  - [Minecraft](#minecraft)
   - [DOOM](#doom)
   - [Sudoku](#sudoku)
   - [Wordy](#wordy)
@@ -81,6 +82,10 @@
 ### Mine Sweeper
 
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
+
+### Minecraft
+
+- [El-Mundos/nvim-sfml](https://github.com/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/stars/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/last-commit/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/commit-activity/y/El-Mundos/nvim-sfml)
 
 ### DOOM
 

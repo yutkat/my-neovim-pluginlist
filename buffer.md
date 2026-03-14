@@ -339,6 +339,7 @@
 - [Arfs6/scrappaper.nvim](https://github.com/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/stars/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/last-commit/Arfs6/scrappaper.nvim) ![](https://img.shields.io/github/commit-activity/y/Arfs6/scrappaper.nvim)
 - [pirey/scratch.nvim](https://github.com/pirey/scratch.nvim) ![](https://img.shields.io/github/stars/pirey/scratch.nvim) ![](https://img.shields.io/github/last-commit/pirey/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/scratch.nvim)
 - [BlakeJC94/scrap.nvim](https://github.com/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/scrap.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/scrap.nvim)
+- [DanielCardeal/scratch.nvim](https://github.com/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/stars/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/last-commit/DanielCardeal/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielCardeal/scratch.nvim)
 
 ### Scratchpad
 
