@@ -204,6 +204,7 @@
 - [austinliuigi/portal.nvim](https://github.com/austinliuigi/portal.nvim) ![](https://img.shields.io/github/stars/austinliuigi/portal.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/portal.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/portal.nvim)
 - [pidgeon777/vivify.nvim](https://github.com/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/stars/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/last-commit/pidgeon777/vivify.nvim) ![](https://img.shields.io/github/commit-activity/y/pidgeon777/vivify.nvim)
 - [halkn/nvim-markview](https://github.com/halkn/nvim-markview) ![](https://img.shields.io/github/stars/halkn/nvim-markview) ![](https://img.shields.io/github/last-commit/halkn/nvim-markview) ![](https://img.shields.io/github/commit-activity/y/halkn/nvim-markview)
+- [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim) ![](https://img.shields.io/github/stars/delphinus/md-render.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-render.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-render.nvim)
 
 ##### Node
 
@@ -312,6 +313,7 @@
 - [timantipov/md-table-tidy.nvim](https://github.com/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/stars/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/last-commit/timantipov/md-table-tidy.nvim) ![](https://img.shields.io/github/commit-activity/y/timantipov/md-table-tidy.nvim)
 - [paulsonkoly/adjust-table.nvim](https://github.com/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/stars/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/last-commit/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsonkoly/adjust-table.nvim)
 - [sh1Nome/md-table-align.nvim](https://github.com/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/stars/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/md-table-align.nvim)
+- [pupepa/make-table.nvim](https://github.com/pupepa/make-table.nvim) ![](https://img.shields.io/github/stars/pupepa/make-table.nvim) ![](https://img.shields.io/github/last-commit/pupepa/make-table.nvim) ![](https://img.shields.io/github/commit-activity/y/pupepa/make-table.nvim)
 
 #### Frontmatter
 

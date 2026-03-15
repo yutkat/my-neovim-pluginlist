@@ -29,6 +29,7 @@
 - [thesignumt/def.nvim](https://github.com/thesignumt/def.nvim) ![](https://img.shields.io/github/stars/thesignumt/def.nvim) ![](https://img.shields.io/github/last-commit/thesignumt/def.nvim) ![](https://img.shields.io/github/commit-activity/y/thesignumt/def.nvim)
 - [Ka10kenHQ/dictionary.nvim](https://github.com/Ka10kenHQ/dictionary.nvim) ![](https://img.shields.io/github/stars/Ka10kenHQ/dictionary.nvim) ![](https://img.shields.io/github/last-commit/Ka10kenHQ/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/Ka10kenHQ/dictionary.nvim)
 - [MayDomine/dict.nvim](https://github.com/MayDomine/dict.nvim) ![](https://img.shields.io/github/stars/MayDomine/dict.nvim) ![](https://img.shields.io/github/last-commit/MayDomine/dict.nvim) ![](https://img.shields.io/github/commit-activity/y/MayDomine/dict.nvim)
+- [whtsht/cursor-dictionary.nvim](https://github.com/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/stars/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/last-commit/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/whtsht/cursor-dictionary.nvim)
 
 ## Pronunce
 

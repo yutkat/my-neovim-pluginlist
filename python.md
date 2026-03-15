@@ -263,6 +263,8 @@
 - [brian2001dineen-afk/marimo.nvim](https://github.com/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/marimo.nvim)
 - [pickledcoder85/neo-notebooks.nvim](https://github.com/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/stars/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/last-commit/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/commit-activity/y/pickledcoder85/neo-notebooks.nvim)
 - [sunbluesome/ipynvim.nvim](https://github.com/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/stars/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/ipynvim.nvim)
+- [Noghpu/marimo.nvim](https://github.com/Noghpu/marimo.nvim) ![](https://img.shields.io/github/stars/Noghpu/marimo.nvim) ![](https://img.shields.io/github/last-commit/Noghpu/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/Noghpu/marimo.nvim)
+- [sammy-spills/marimo.nvim](https://github.com/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/stars/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/last-commit/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/sammy-spills/marimo.nvim)
 
 ### Pandas
 

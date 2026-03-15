@@ -599,6 +599,7 @@
 - [4DRIAN0RTIZ/rssfeed.nvim](https://github.com/4DRIAN0RTIZ/rssfeed.nvim) ![](https://img.shields.io/github/stars/4DRIAN0RTIZ/rssfeed.nvim) ![](https://img.shields.io/github/last-commit/4DRIAN0RTIZ/rssfeed.nvim) ![](https://img.shields.io/github/commit-activity/y/4DRIAN0RTIZ/rssfeed.nvim)
 - [r7sqtr/wyw.nvim](https://github.com/r7sqtr/wyw.nvim) ![](https://img.shields.io/github/stars/r7sqtr/wyw.nvim) ![](https://img.shields.io/github/last-commit/r7sqtr/wyw.nvim) ![](https://img.shields.io/github/commit-activity/y/r7sqtr/wyw.nvim)
 - [jwayston/quicknews.nvim](https://github.com/jwayston/quicknews.nvim) ![](https://img.shields.io/github/stars/jwayston/quicknews.nvim) ![](https://img.shields.io/github/last-commit/jwayston/quicknews.nvim) ![](https://img.shields.io/github/commit-activity/y/jwayston/quicknews.nvim)
+- [5100haze/chomp.nvim](https://github.com/5100haze/chomp.nvim) ![](https://img.shields.io/github/stars/5100haze/chomp.nvim) ![](https://img.shields.io/github/last-commit/5100haze/chomp.nvim) ![](https://img.shields.io/github/commit-activity/y/5100haze/chomp.nvim)
 
 #### Code::Stats
 

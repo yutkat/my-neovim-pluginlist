@@ -29,6 +29,7 @@
 - [itsfernn/auto-gnome-theme.nvim](https://github.com/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/stars/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/last-commit/itsfernn/auto-gnome-theme.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfernn/auto-gnome-theme.nvim)
 - [raulcorreia7/theme-browser.nvim](https://github.com/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/stars/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/last-commit/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/raulcorreia7/theme-browser.nvim)
 - [anderson3x11/theme-selector.nvim](https://github.com/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/stars/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/last-commit/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/anderson3x11/theme-selector.nvim)
+- [blackhat-hemsworth/quicktheme.nvim](https://github.com/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/stars/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/last-commit/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-hemsworth/quicktheme.nvim)
 
 ### Transparency
 
