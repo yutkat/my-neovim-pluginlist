@@ -22,7 +22,7 @@ Update each repo's plugin in the right markdown section, then create .reason.md 
 4. Update the table with correct categories and provide clear reasons.
 5. Please write the selection reasons in following simple markdown table.
    - The format is a Markdown table with the following order: |URL|Category|Reason|.
-   - The Category column must use slash-delimited format reflecting the full section hierarchy: `filename/Section/Sub-section/...` (e.g., `lsp.md/LSP/Diagnostics`, `editing.md/Editing/Indent/Auto-indent`). Include as many levels as the actual heading hierarchy requires. If there is no sub-section, omit it (e.g., `git-github.md/Git`).
+   - The Category column must use slash-delimited format reflecting the full section hierarchy: `filename / Section / Sub-section / ...` (e.g., `lsp.md / LSP / Diagnostics`, `editing.md / Editing / Indent / Auto-indent`). Include as many levels as the actual heading hierarchy requires. If there is no sub-section, omit it (e.g., `git-github.md / Git`).
    - Sort the table rows by the Category column so that plugins in the same category are grouped together.
    - Save it as .reason.md
 
