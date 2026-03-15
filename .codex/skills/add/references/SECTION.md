@@ -593,6 +593,7 @@
 ### Tetris
 ### Chess
 ### Mine Sweeper
+### Minecraft
 ### DOOM
 ### Sudoku
 ### Wordy
@@ -1517,6 +1518,7 @@
 #### Window Manager
 #### iTerm
 #### input source
+#### Karabiner
 #### Theme
 ### Chromebook
 ### iOS

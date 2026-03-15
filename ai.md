@@ -719,6 +719,7 @@
 - [roshbhatia/neph.nvim](https://github.com/roshbhatia/neph.nvim) ![](https://img.shields.io/github/stars/roshbhatia/neph.nvim) ![](https://img.shields.io/github/last-commit/roshbhatia/neph.nvim) ![](https://img.shields.io/github/commit-activity/y/roshbhatia/neph.nvim)
 - [HeLiBloks/nvim-aiagent-invoke](https://github.com/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/stars/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/last-commit/HeLiBloks/nvim-aiagent-invoke) ![](https://img.shields.io/github/commit-activity/y/HeLiBloks/nvim-aiagent-invoke)
 - [medeirosvictor/sade.nvim](https://github.com/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/stars/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/last-commit/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/commit-activity/y/medeirosvictor/sade.nvim)
+- [EisBlue/orchestrator.nvim](https://github.com/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/stars/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/last-commit/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/commit-activity/y/EisBlue/orchestrator.nvim)
 
 ### AGENTS.md
 
@@ -917,6 +918,7 @@
 - [gen4438/marginalia.nvim](https://github.com/gen4438/marginalia.nvim) ![](https://img.shields.io/github/stars/gen4438/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gen4438/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gen4438/marginalia.nvim)
 - [tofunori/nvim-ai-bridge](https://github.com/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/stars/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/last-commit/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/commit-activity/y/tofunori/nvim-ai-bridge)
 - [ruicsh/briefing.nvim](https://github.com/ruicsh/briefing.nvim) ![](https://img.shields.io/github/stars/ruicsh/briefing.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/briefing.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/briefing.nvim)
+- [erraX/nvim-ctx](https://github.com/erraX/nvim-ctx) ![](https://img.shields.io/github/stars/erraX/nvim-ctx) ![](https://img.shields.io/github/last-commit/erraX/nvim-ctx) ![](https://img.shields.io/github/commit-activity/y/erraX/nvim-ctx)
 
 ## LLM context
 

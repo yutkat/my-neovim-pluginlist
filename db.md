@@ -73,6 +73,7 @@
 - [joryeugene/dadbod-grip.nvim](https://github.com/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/stars/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/last-commit/joryeugene/dadbod-grip.nvim) ![](https://img.shields.io/github/commit-activity/y/joryeugene/dadbod-grip.nvim)
 - [MysticalDevil/ts-inject.nvim](https://github.com/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/stars/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/last-commit/MysticalDevil/ts-inject.nvim) ![](https://img.shields.io/github/commit-activity/y/MysticalDevil/ts-inject.nvim)
 - [ZzurabSiprashvili/run-sql.nvim](https://github.com/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/stars/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/last-commit/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ZzurabSiprashvili/run-sql.nvim)
+  - [ZzurabSiprashvili/run-sql-postgresql-adapter.nvim](https://github.com/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/stars/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/last-commit/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/commit-activity/y/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim)
 
 ### PostgreSQL
 

@@ -39,6 +39,7 @@
   - [Databricks](#databricks)
   - [Scrapy](#scrapy)
 - [urtext](#urtext)
+- [FastAPI](#fastapi)
 - [django](#django)
 - [MicroPython](#micropython)
 - [Quix](#quix)
@@ -99,7 +100,6 @@
 - [alimasry/pytest-approve.nvim](https://github.com/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/stars/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/last-commit/alimasry/pytest-approve.nvim) ![](https://img.shields.io/github/commit-activity/y/alimasry/pytest-approve.nvim)
 
 #### jurigged
-
 
 ### import
 
@@ -263,6 +263,7 @@
 - [brian2001dineen-afk/marimo.nvim](https://github.com/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/marimo.nvim)
 - [pickledcoder85/neo-notebooks.nvim](https://github.com/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/stars/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/last-commit/pickledcoder85/neo-notebooks.nvim) ![](https://img.shields.io/github/commit-activity/y/pickledcoder85/neo-notebooks.nvim)
 - [sunbluesome/ipynvim.nvim](https://github.com/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/stars/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/ipynvim.nvim)
+- [sammy-spills/marimo.nvim](https://github.com/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/stars/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/last-commit/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/sammy-spills/marimo.nvim)
 
 ### Pandas
 

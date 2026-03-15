@@ -158,6 +158,7 @@
 - [KoinBanks/spear.nvim](https://github.com/KoinBanks/spear.nvim) ![](https://img.shields.io/github/stars/KoinBanks/spear.nvim) ![](https://img.shields.io/github/last-commit/KoinBanks/spear.nvim) ![](https://img.shields.io/github/commit-activity/y/KoinBanks/spear.nvim)
 - [moriyoshi-kasuga/projmark.nvim](https://github.com/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/stars/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/last-commit/moriyoshi-kasuga/projmark.nvim) ![](https://img.shields.io/github/commit-activity/y/moriyoshi-kasuga/projmark.nvim)
 - [vbrdnk/anchorage.nvim](https://github.com/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/stars/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/last-commit/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/commit-activity/y/vbrdnk/anchorage.nvim)
+- [hiimjako/anchor.nvim](https://github.com/hiimjako/anchor.nvim) ![](https://img.shields.io/github/stars/hiimjako/anchor.nvim) ![](https://img.shields.io/github/last-commit/hiimjako/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/hiimjako/anchor.nvim)
 
 ### etc
 
