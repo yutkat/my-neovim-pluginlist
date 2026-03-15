@@ -391,7 +391,6 @@
 - [Jarvismkennedy/git-auto-sync.nvim](https://github.com/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/stars/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/last-commit/Jarvismkennedy/git-auto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/Jarvismkennedy/git-auto-sync.nvim)
 - [rgibbons-dev/gitsync.nvim](https://github.com/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/stars/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/last-commit/rgibbons-dev/gitsync.nvim) ![](https://img.shields.io/github/commit-activity/y/rgibbons-dev/gitsync.nvim)
 - [luispflamminger/git-sync.nvim](https://github.com/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/stars/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/last-commit/luispflamminger/git-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/luispflamminger/git-sync.nvim)
-- [hugoh/nvim-async-git](https://github.com/hugoh/nvim-async-git) ![](https://img.shields.io/github/stars/hugoh/nvim-async-git) ![](https://img.shields.io/github/last-commit/hugoh/nvim-async-git) ![](https://img.shields.io/github/commit-activity/y/hugoh/nvim-async-git)
 
 ### git open
 
