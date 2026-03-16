@@ -11,6 +11,7 @@
   - [Bevy](#bevy)
   - [UEFN Verse](#uefn-verse)
   - [Defold](#defold)
+  - [Love2D](#love2d)
   - [Webots](#webots)
 
 <!-- tocstop -->
@@ -84,6 +85,10 @@
 ### Defold
 
 - [atomicptr/defold.nvim](https://github.com/atomicptr/defold.nvim) ![](https://img.shields.io/github/stars/atomicptr/defold.nvim) ![](https://img.shields.io/github/last-commit/atomicptr/defold.nvim) ![](https://img.shields.io/github/commit-activity/y/atomicptr/defold.nvim)
+
+### Love2D
+
+- [yorik1984/love2d-treesitter.nvim](https://github.com/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/stars/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/love2d-treesitter.nvim)
 
 ### Webots
 

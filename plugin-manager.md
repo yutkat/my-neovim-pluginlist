@@ -50,6 +50,7 @@
 - [lulkien/packoff.nvim](https://github.com/lulkien/packoff.nvim) ![](https://img.shields.io/github/stars/lulkien/packoff.nvim) ![](https://img.shields.io/github/last-commit/lulkien/packoff.nvim) ![](https://img.shields.io/github/commit-activity/y/lulkien/packoff.nvim)
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
 - [TheOneWithTheWrench/wrench.nvim](https://github.com/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/stars/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/last-commit/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/commit-activity/y/TheOneWithTheWrench/wrench.nvim)
+- [yaeju1205/nvim-plugin-manager](https://github.com/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/stars/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/last-commit/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/commit-activity/y/yaeju1205/nvim-plugin-manager)
 
 ### Use builtin package feature
 
@@ -84,6 +85,7 @@
 - [OriginCoderPulse/synapse.nvim](https://github.com/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/stars/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/last-commit/OriginCoderPulse/synapse.nvim) ![](https://img.shields.io/github/commit-activity/y/OriginCoderPulse/synapse.nvim)
 - [JPierro0513/pack-wrap.nvim](https://github.com/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/stars/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/last-commit/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/JPierro0513/pack-wrap.nvim)
 - [TheMagSec/gpack.nvim](https://github.com/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/stars/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/last-commit/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMagSec/gpack.nvim)
+- [vcraescu/pack.nvim](https://github.com/vcraescu/pack.nvim) ![](https://img.shields.io/github/stars/vcraescu/pack.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/pack.nvim)
 
 ### Update checker
 

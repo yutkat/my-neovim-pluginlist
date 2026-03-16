@@ -478,6 +478,7 @@
 - [pluttan/im-autoswitch.nvim](https://github.com/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/stars/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/last-commit/pluttan/im-autoswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/im-autoswitch.nvim)
 - [fft-tf/macos-ime-status.nvim](https://github.com/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/stars/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/last-commit/fft-tf/macos-ime-status.nvim) ![](https://img.shields.io/github/commit-activity/y/fft-tf/macos-ime-status.nvim)
 - [LCPAN/ime-switch.nvim](https://github.com/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/stars/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/last-commit/LCPAN/ime-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/LCPAN/ime-switch.nvim)
+- [lvyuemeng/auto-ime.nvim](https://github.com/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/stars/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/last-commit/lvyuemeng/auto-ime.nvim) ![](https://img.shields.io/github/commit-activity/y/lvyuemeng/auto-ime.nvim)
 
 #### Fcitx
 
