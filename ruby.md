@@ -40,6 +40,7 @@
 - [vinibispo/ruby-lsp.nvim](https://github.com/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/vinibispo/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/vinibispo/ruby-lsp.nvim)
 - [adam12/ruby-lsp.nvim](https://github.com/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/adam12/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/ruby-lsp.nvim)
 - [wassimk/ruby-lsp.nvim](https://github.com/wassimk/ruby-lsp.nvim) ![](https://img.shields.io/github/stars/wassimk/ruby-lsp.nvim) ![](https://img.shields.io/github/last-commit/wassimk/ruby-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/ruby-lsp.nvim)
+- [wassimk/rails-fixture-ls.nvim](https://github.com/wassimk/rails-fixture-ls.nvim) ![](https://img.shields.io/github/stars/wassimk/rails-fixture-ls.nvim) ![](https://img.shields.io/github/last-commit/wassimk/rails-fixture-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/rails-fixture-ls.nvim)
 
 ### Debug
 

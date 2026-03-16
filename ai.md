@@ -229,6 +229,7 @@
 - [ndsl6211/nvim-gemini-cli](https://github.com/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/stars/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/last-commit/ndsl6211/nvim-gemini-cli) ![](https://img.shields.io/github/commit-activity/y/ndsl6211/nvim-gemini-cli)
 - [vaijab/gemini-cli.nvim](https://github.com/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/stars/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/vaijab/gemini-cli.nvim)
 - [zaucy/gemini.nvim](https://github.com/zaucy/gemini.nvim) ![](https://img.shields.io/github/stars/zaucy/gemini.nvim) ![](https://img.shields.io/github/last-commit/zaucy/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/gemini.nvim)
+- [jeantimex/gemini-cli.nvim](https://github.com/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/stars/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeantimex/gemini-cli.nvim)
 
 ### Grok
 
