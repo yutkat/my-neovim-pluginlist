@@ -75,6 +75,7 @@
 - [nvim-jo/lspsystem.nvim](https://github.com/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/stars/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/last-commit/nvim-jo/lspsystem.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-jo/lspsystem.nvim)
 - [WillEhrendreich/datastar.nvim](https://github.com/WillEhrendreich/datastar.nvim) ![](https://img.shields.io/github/stars/WillEhrendreich/datastar.nvim) ![](https://img.shields.io/github/last-commit/WillEhrendreich/datastar.nvim) ![](https://img.shields.io/github/commit-activity/y/WillEhrendreich/datastar.nvim)
 - [xinghe98/snacks-coc.nvim](https://github.com/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/stars/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/last-commit/xinghe98/snacks-coc.nvim) ![](https://img.shields.io/github/commit-activity/y/xinghe98/snacks-coc.nvim)
+- [Sang-it/fluoride](https://github.com/Sang-it/fluoride) ![](https://img.shields.io/github/stars/Sang-it/fluoride) ![](https://img.shields.io/github/last-commit/Sang-it/fluoride) ![](https://img.shields.io/github/commit-activity/y/Sang-it/fluoride)
 
 #### Diagnostics
 
