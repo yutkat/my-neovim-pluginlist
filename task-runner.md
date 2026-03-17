@@ -301,7 +301,6 @@
 - [Beloin/heph.nvim](https://github.com/Beloin/heph.nvim) ![](https://img.shields.io/github/stars/Beloin/heph.nvim) ![](https://img.shields.io/github/last-commit/Beloin/heph.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/heph.nvim)
 - [kribw/himake.nvim](https://github.com/kribw/himake.nvim) ![](https://img.shields.io/github/stars/kribw/himake.nvim) ![](https://img.shields.io/github/last-commit/kribw/himake.nvim) ![](https://img.shields.io/github/commit-activity/y/kribw/himake.nvim)
 - [mbfoss/loop-build.nvim](https://github.com/mbfoss/loop-build.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-build.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-build.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-build.nvim)
-- [qiekn/code-runner.nvim](https://github.com/qiekn/code-runner.nvim) ![](https://img.shields.io/github/stars/qiekn/code-runner.nvim) ![](https://img.shields.io/github/last-commit/qiekn/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/code-runner.nvim)
 
 ### Partial execution
 
