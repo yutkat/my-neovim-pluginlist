@@ -171,6 +171,7 @@
 - [thefoxery/lualine-cmake.nvim](https://github.com/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/lualine-cmake.nvim)
 - [mbfoss/loop-cmake.nvim](https://github.com/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-cmake.nvim)
 - [nocis/cmakebuild.nvim](https://github.com/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/stars/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/last-commit/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/cmakebuild.nvim)
+- [qiekn/code-runner.nvim](https://github.com/qiekn/code-runner.nvim) ![](https://img.shields.io/github/stars/qiekn/code-runner.nvim) ![](https://img.shields.io/github/last-commit/qiekn/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/code-runner.nvim)
 
 ### Library Manager
 

@@ -98,6 +98,7 @@
 ### Wordy
 
 - [neysanfoo/wordy.nvim](https://github.com/neysanfoo/wordy.nvim) ![](https://img.shields.io/github/stars/neysanfoo/wordy.nvim) ![](https://img.shields.io/github/last-commit/neysanfoo/wordy.nvim) ![](https://img.shields.io/github/commit-activity/y/neysanfoo/wordy.nvim)
+- [malagant/wordle.nvim](https://github.com/malagant/wordle.nvim) ![](https://img.shields.io/github/stars/malagant/wordle.nvim) ![](https://img.shields.io/github/last-commit/malagant/wordle.nvim) ![](https://img.shields.io/github/commit-activity/y/malagant/wordle.nvim)
 
 ### Typing
 
