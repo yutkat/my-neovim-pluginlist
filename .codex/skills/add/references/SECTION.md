@@ -1042,6 +1042,8 @@
 #### fortran
 #### Ghidra
 #### DSL
+#### GICEL
+#### Simple
 #### Viper
 #### Plank
 #### Elm

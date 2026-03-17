@@ -45,6 +45,7 @@
 - [cvlmtg/inline-diff.nvim](https://github.com/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/stars/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/last-commit/cvlmtg/inline-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/cvlmtg/inline-diff.nvim)
 - [xd0pa/astral.nvim](https://github.com/xd0pa/astral.nvim) ![](https://img.shields.io/github/stars/xd0pa/astral.nvim) ![](https://img.shields.io/github/last-commit/xd0pa/astral.nvim) ![](https://img.shields.io/github/commit-activity/y/xd0pa/astral.nvim)
 - [HarshK97/diffmantic.nvim](https://github.com/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/stars/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/last-commit/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/commit-activity/y/HarshK97/diffmantic.nvim)
+- [paxunix/bin-comm.nvim](https://github.com/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/stars/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/last-commit/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/commit-activity/y/paxunix/bin-comm.nvim)
 
 ### Diff Register
 

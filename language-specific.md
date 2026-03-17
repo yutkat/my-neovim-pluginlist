@@ -510,6 +510,14 @@
 
 - [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
 
+#### GICEL
+
+- [cwd-k2/nvim-gicel](https://github.com/cwd-k2/nvim-gicel) ![](https://img.shields.io/github/stars/cwd-k2/nvim-gicel) ![](https://img.shields.io/github/last-commit/cwd-k2/nvim-gicel) ![](https://img.shields.io/github/commit-activity/y/cwd-k2/nvim-gicel)
+
+#### Simple
+
+- [ormastes/simple.nvim](https://github.com/ormastes/simple.nvim) ![](https://img.shields.io/github/stars/ormastes/simple.nvim) ![](https://img.shields.io/github/last-commit/ormastes/simple.nvim) ![](https://img.shields.io/github/commit-activity/y/ormastes/simple.nvim)
+
 #### Viper
 
 - [tiyn/viper.nvim](https://github.com/tiyn/viper.nvim) ![](https://img.shields.io/github/stars/tiyn/viper.nvim) ![](https://img.shields.io/github/last-commit/tiyn/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/viper.nvim)

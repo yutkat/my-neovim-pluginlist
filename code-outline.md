@@ -90,6 +90,7 @@
 - [Beargruug/blink.nvim](https://github.com/Beargruug/blink.nvim) ![](https://img.shields.io/github/stars/Beargruug/blink.nvim) ![](https://img.shields.io/github/last-commit/Beargruug/blink.nvim) ![](https://img.shields.io/github/commit-activity/y/Beargruug/blink.nvim)
 - [mtkld/funview.nvim](https://github.com/mtkld/funview.nvim) ![](https://img.shields.io/github/stars/mtkld/funview.nvim) ![](https://img.shields.io/github/last-commit/mtkld/funview.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/funview.nvim)
 - [olafur-palsson/nvim-function-class-motions](https://github.com/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/stars/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/last-commit/olafur-palsson/nvim-function-class-motions) ![](https://img.shields.io/github/commit-activity/y/olafur-palsson/nvim-function-class-motions)
+- [MrCherub/function-line-count.nvim](https://github.com/MrCherub/function-line-count.nvim) ![](https://img.shields.io/github/stars/MrCherub/function-line-count.nvim) ![](https://img.shields.io/github/last-commit/MrCherub/function-line-count.nvim) ![](https://img.shields.io/github/commit-activity/y/MrCherub/function-line-count.nvim)
 
 ## Context
 

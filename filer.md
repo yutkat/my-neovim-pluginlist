@@ -236,6 +236,7 @@
 - [DanielTellier/multi-tree.nvim](https://github.com/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/stars/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/last-commit/DanielTellier/multi-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielTellier/multi-tree.nvim)
 - [Ammsiss/filetree.nvim](https://github.com/Ammsiss/filetree.nvim) ![](https://img.shields.io/github/stars/Ammsiss/filetree.nvim) ![](https://img.shields.io/github/last-commit/Ammsiss/filetree.nvim) ![](https://img.shields.io/github/commit-activity/y/Ammsiss/filetree.nvim)
 - [keathmilligan/super-tree.nvim](https://github.com/keathmilligan/super-tree.nvim) ![](https://img.shields.io/github/stars/keathmilligan/super-tree.nvim) ![](https://img.shields.io/github/last-commit/keathmilligan/super-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/keathmilligan/super-tree.nvim)
+- [nabekou29/trev.nvim](https://github.com/nabekou29/trev.nvim) ![](https://img.shields.io/github/stars/nabekou29/trev.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/trev.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/trev.nvim)
 
 ### File rename
 
