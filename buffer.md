@@ -373,6 +373,7 @@
 - [addisonbeck/where-am-i.nvim](https://github.com/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/stars/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/last-commit/addisonbeck/where-am-i.nvim) ![](https://img.shields.io/github/commit-activity/y/addisonbeck/where-am-i.nvim)
 - [adriankarlen/buffed.nvim](https://github.com/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/stars/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/last-commit/adriankarlen/buffed.nvim) ![](https://img.shields.io/github/commit-activity/y/adriankarlen/buffed.nvim)
 - [crixuamg/visual-complexity.nvim](https://github.com/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/stars/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/last-commit/crixuamg/visual-complexity.nvim) ![](https://img.shields.io/github/commit-activity/y/crixuamg/visual-complexity.nvim)
+- [luckyPtr/bufindicator.nvim](https://github.com/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/stars/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/last-commit/luckyPtr/bufindicator.nvim) ![](https://img.shields.io/github/commit-activity/y/luckyPtr/bufindicator.nvim)
 
 ### Buffer Option
 
