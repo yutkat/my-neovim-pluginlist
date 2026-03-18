@@ -104,6 +104,7 @@
 - [ailrk/telescope-context.nvim](https://github.com/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/stars/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/last-commit/ailrk/telescope-context.nvim) ![](https://img.shields.io/github/commit-activity/y/ailrk/telescope-context.nvim)
 - [gormanity/starmark.nvim](https://github.com/gormanity/starmark.nvim) ![](https://img.shields.io/github/stars/gormanity/starmark.nvim) ![](https://img.shields.io/github/last-commit/gormanity/starmark.nvim) ![](https://img.shields.io/github/commit-activity/y/gormanity/starmark.nvim)
 - [soon2moon/tekken.nvim](https://github.com/soon2moon/tekken.nvim) ![](https://img.shields.io/github/stars/soon2moon/tekken.nvim) ![](https://img.shields.io/github/last-commit/soon2moon/tekken.nvim) ![](https://img.shields.io/github/commit-activity/y/soon2moon/tekken.nvim)
+- [mvezer/mark-and-jump.nvim](https://github.com/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/stars/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/last-commit/mvezer/mark-and-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/mvezer/mark-and-jump.nvim)
 
 ### floating marker(easymotion style)
 
