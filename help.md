@@ -60,6 +60,7 @@
 - [desertthunder/cheatsheet.nvim](https://github.com/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/stars/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/desertthunder/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/desertthunder/cheatsheet.nvim)
 - [stikypiston/cheaty.nvim](https://github.com/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/stars/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/last-commit/stikypiston/cheaty.nvim) ![](https://img.shields.io/github/commit-activity/y/stikypiston/cheaty.nvim)
 - [JulianSchubel/nvim-cheatsheet](https://github.com/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-cheatsheet)
+- [yorik1984/telescope-cheat-md.nvim](https://github.com/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/stars/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/telescope-cheat-md.nvim)
 
 ### Tips
 
