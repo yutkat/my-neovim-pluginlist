@@ -177,6 +177,7 @@
 - [arakkkkk/kanban.nvim](https://github.com/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/stars/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/kanban.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/kanban.nvim)
 - [Cartogy/todo.nvim](https://github.com/Cartogy/todo.nvim) ![](https://img.shields.io/github/stars/Cartogy/todo.nvim) ![](https://img.shields.io/github/last-commit/Cartogy/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/Cartogy/todo.nvim)
 - [ImmanuelHaffner/dooing-sync.nvim](https://github.com/ImmanuelHaffner/dooing-sync.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/dooing-sync.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/dooing-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/dooing-sync.nvim)
+- [erykjarocki/branch-todos.nvim](https://github.com/erykjarocki/branch-todos.nvim) ![](https://img.shields.io/github/stars/erykjarocki/branch-todos.nvim) ![](https://img.shields.io/github/last-commit/erykjarocki/branch-todos.nvim) ![](https://img.shields.io/github/commit-activity/y/erykjarocki/branch-todos.nvim)
 - [kperath/dailynotes.nvim](https://github.com/kperath/dailynotes.nvim) ![](https://img.shields.io/github/stars/kperath/dailynotes.nvim) ![](https://img.shields.io/github/last-commit/kperath/dailynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/kperath/dailynotes.nvim)
 - [arakkkkk/marktodo.nvim](https://github.com/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/stars/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/last-commit/arakkkkk/marktodo.nvim) ![](https://img.shields.io/github/commit-activity/y/arakkkkk/marktodo.nvim)
 - [ca-mantis-shrimp/Todoist.nvim](https://github.com/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/stars/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/last-commit/ca-mantis-shrimp/Todoist.nvim) ![](https://img.shields.io/github/commit-activity/y/ca-mantis-shrimp/Todoist.nvim)
@@ -443,6 +444,7 @@
 - [dfryer1193/wiki.nvim](https://github.com/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/stars/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/last-commit/dfryer1193/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dfryer1193/wiki.nvim)
 - [skeletony007/qwiki.nvim](https://github.com/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/stars/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/qwiki.nvim)
 - [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
+- [gxtools/gx.nvim](https://github.com/gxtools/gx.nvim) ![](https://img.shields.io/github/stars/gxtools/gx.nvim) ![](https://img.shields.io/github/last-commit/gxtools/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/gxtools/gx.nvim)
 
 ### VimWiki
 

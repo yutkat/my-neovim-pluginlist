@@ -534,6 +534,7 @@
 - [smtucker/pandoc-this.nvim](https://github.com/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/stars/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/last-commit/smtucker/pandoc-this.nvim) ![](https://img.shields.io/github/commit-activity/y/smtucker/pandoc-this.nvim)
 - [pranphy/pamdex.nvim](https://github.com/pranphy/pamdex.nvim) ![](https://img.shields.io/github/stars/pranphy/pamdex.nvim) ![](https://img.shields.io/github/last-commit/pranphy/pamdex.nvim) ![](https://img.shields.io/github/commit-activity/y/pranphy/pamdex.nvim)
 - [StBreuer/docs_dispenser.nvim](https://github.com/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/stars/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/last-commit/StBreuer/docs_dispenser.nvim) ![](https://img.shields.io/github/commit-activity/y/StBreuer/docs_dispenser.nvim)
+- [ciocapiat02/pandoc.nvim](https://github.com/ciocapiat02/pandoc.nvim) ![](https://img.shields.io/github/stars/ciocapiat02/pandoc.nvim) ![](https://img.shields.io/github/last-commit/ciocapiat02/pandoc.nvim) ![](https://img.shields.io/github/commit-activity/y/ciocapiat02/pandoc.nvim)
 
 ### Vimdoc
 
@@ -585,6 +586,7 @@
 - [krissen/output-panel.nvim](https://github.com/krissen/output-panel.nvim) ![](https://img.shields.io/github/stars/krissen/output-panel.nvim) ![](https://img.shields.io/github/last-commit/krissen/output-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/output-panel.nvim)
 - [james-martinez96/texwatch.nvim](https://github.com/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/stars/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/last-commit/james-martinez96/texwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/james-martinez96/texwatch.nvim)
 - [richwomanbtc/overleaf.nvim](https://github.com/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/stars/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/last-commit/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/richwomanbtc/overleaf.nvim)
+- [herschel21/tex.nvim](https://github.com/herschel21/tex.nvim) ![](https://img.shields.io/github/stars/herschel21/tex.nvim) ![](https://img.shields.io/github/last-commit/herschel21/tex.nvim) ![](https://img.shields.io/github/commit-activity/y/herschel21/tex.nvim)
 
 #### Preview
 

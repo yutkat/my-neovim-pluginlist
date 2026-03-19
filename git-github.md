@@ -252,6 +252,7 @@
 
 - [Amzd/dontforgit.nvim](https://github.com/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/stars/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/last-commit/Amzd/dontforgit.nvim) ![](https://img.shields.io/github/commit-activity/y/Amzd/dontforgit.nvim)
 - [shahjalal-labs/git-smart-push.nvim](https://github.com/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/stars/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/last-commit/shahjalal-labs/git-smart-push.nvim) ![](https://img.shields.io/github/commit-activity/y/shahjalal-labs/git-smart-push.nvim)
+- [Jubbim0/nvim-edstem-guard](https://github.com/Jubbim0/nvim-edstem-guard) ![](https://img.shields.io/github/stars/Jubbim0/nvim-edstem-guard) ![](https://img.shields.io/github/last-commit/Jubbim0/nvim-edstem-guard) ![](https://img.shields.io/github/commit-activity/y/Jubbim0/nvim-edstem-guard)
 
 ### git checkout
 

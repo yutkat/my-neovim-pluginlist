@@ -230,6 +230,7 @@
 - [vaijab/gemini-cli.nvim](https://github.com/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/stars/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/vaijab/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/vaijab/gemini-cli.nvim)
 - [zaucy/gemini.nvim](https://github.com/zaucy/gemini.nvim) ![](https://img.shields.io/github/stars/zaucy/gemini.nvim) ![](https://img.shields.io/github/last-commit/zaucy/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/gemini.nvim)
 - [jeantimex/gemini-cli.nvim](https://github.com/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/stars/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeantimex/gemini-cli.nvim)
+- [Beloin/gemini-code.nvim](https://github.com/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/stars/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/last-commit/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/gemini-code.nvim)
 
 ### Grok
 
@@ -744,6 +745,7 @@
 ## Chat
 
 - [CopilotC-Nvim/CopilotChat.nvim](https://github.com/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/stars/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/last-commit/CopilotC-Nvim/CopilotChat.nvim) ![](https://img.shields.io/github/commit-activity/y/CopilotC-Nvim/CopilotChat.nvim)
+  - [rodolfojsv/copilot-cli.nvim](https://github.com/rodolfojsv/copilot-cli.nvim) ![](https://img.shields.io/github/stars/rodolfojsv/copilot-cli.nvim) ![](https://img.shields.io/github/last-commit/rodolfojsv/copilot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/rodolfojsv/copilot-cli.nvim)
 - [mikeslattery/genie.nvim](https://github.com/mikeslattery/genie.nvim) ![](https://img.shields.io/github/stars/mikeslattery/genie.nvim) ![](https://img.shields.io/github/last-commit/mikeslattery/genie.nvim) ![](https://img.shields.io/github/commit-activity/y/mikeslattery/genie.nvim)
 - [Lommix/ollamachad.nvim](https://github.com/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/stars/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/last-commit/Lommix/ollamachad.nvim) ![](https://img.shields.io/github/commit-activity/y/Lommix/ollamachad.nvim)
 - [z0rzi/ai-chat.nvim](https://github.com/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/stars/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/z0rzi/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/z0rzi/ai-chat.nvim)

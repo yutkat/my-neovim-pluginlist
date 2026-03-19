@@ -145,6 +145,7 @@
 - [biozz/whop.nvim](https://github.com/biozz/whop.nvim) ![](https://img.shields.io/github/stars/biozz/whop.nvim) ![](https://img.shields.io/github/last-commit/biozz/whop.nvim) ![](https://img.shields.io/github/commit-activity/y/biozz/whop.nvim)
 - [rancorm/nvim-aqua](https://github.com/rancorm/nvim-aqua) ![](https://img.shields.io/github/stars/rancorm/nvim-aqua) ![](https://img.shields.io/github/last-commit/rancorm/nvim-aqua) ![](https://img.shields.io/github/commit-activity/y/rancorm/nvim-aqua)
 - [JayFarei/quicklook.nvim](https://github.com/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/stars/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/last-commit/JayFarei/quicklook.nvim) ![](https://img.shields.io/github/commit-activity/y/JayFarei/quicklook.nvim)
+- [lincw/devontthink.nvim](https://github.com/lincw/devontthink.nvim) ![](https://img.shields.io/github/stars/lincw/devontthink.nvim) ![](https://img.shields.io/github/last-commit/lincw/devontthink.nvim) ![](https://img.shields.io/github/commit-activity/y/lincw/devontthink.nvim)
 
 #### say
 

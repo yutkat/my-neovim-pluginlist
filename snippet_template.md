@@ -70,6 +70,7 @@
 - [joyme123/float-code.nvim](https://github.com/joyme123/float-code.nvim) ![](https://img.shields.io/github/stars/joyme123/float-code.nvim) ![](https://img.shields.io/github/last-commit/joyme123/float-code.nvim) ![](https://img.shields.io/github/commit-activity/y/joyme123/float-code.nvim)
 - [Neurarian/snacks-luasnip.nvim](https://github.com/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/stars/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/last-commit/Neurarian/snacks-luasnip.nvim) ![](https://img.shields.io/github/commit-activity/y/Neurarian/snacks-luasnip.nvim)
 - [blaze-d83/snipbrowzurr.nvim](https://github.com/blaze-d83/snipbrowzurr.nvim) ![](https://img.shields.io/github/stars/blaze-d83/snipbrowzurr.nvim) ![](https://img.shields.io/github/last-commit/blaze-d83/snipbrowzurr.nvim) ![](https://img.shields.io/github/commit-activity/y/blaze-d83/snipbrowzurr.nvim)
+- [phlx0/snip.nvim](https://github.com/phlx0/snip.nvim) ![](https://img.shields.io/github/stars/phlx0/snip.nvim) ![](https://img.shields.io/github/last-commit/phlx0/snip.nvim) ![](https://img.shields.io/github/commit-activity/y/phlx0/snip.nvim)
 
 #### Snippet highlight
 
