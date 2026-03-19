@@ -188,6 +188,7 @@
 - [dimfeld/codex.nvim](https://github.com/dimfeld/codex.nvim) ![](https://img.shields.io/github/stars/dimfeld/codex.nvim) ![](https://img.shields.io/github/last-commit/dimfeld/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/dimfeld/codex.nvim)
 - [jcarlos7121/codex.nvim](https://github.com/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/codex.nvim)
 - [AlexanderGolys/codex-cli.nvim](https://github.com/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex-cli.nvim)
+- [eskalVAR/codex.nvim](https://github.com/eskalVAR/codex.nvim) ![](https://img.shields.io/github/stars/eskalVAR/codex.nvim) ![](https://img.shields.io/github/last-commit/eskalVAR/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/eskalVAR/codex.nvim)
 
 #### Whisper
 
