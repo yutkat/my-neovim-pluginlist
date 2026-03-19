@@ -47,6 +47,7 @@
 
 - [tonyxwz/mise-tools.nvim](https://github.com/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/stars/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/last-commit/tonyxwz/mise-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/tonyxwz/mise-tools.nvim)
 - [sattfatt/mise.nvim](https://github.com/sattfatt/mise.nvim) ![](https://img.shields.io/github/stars/sattfatt/mise.nvim) ![](https://img.shields.io/github/last-commit/sattfatt/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/sattfatt/mise.nvim)
+- [caleb/mise.nvim](https://github.com/caleb/mise.nvim) ![](https://img.shields.io/github/stars/caleb/mise.nvim) ![](https://img.shields.io/github/last-commit/caleb/mise.nvim) ![](https://img.shields.io/github/commit-activity/y/caleb/mise.nvim)
 
 ## for programming languages
 

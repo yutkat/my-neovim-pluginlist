@@ -242,6 +242,7 @@
 - [d-manuel/includeguards.nvim](https://github.com/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/stars/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/last-commit/d-manuel/includeguards.nvim) ![](https://img.shields.io/github/commit-activity/y/d-manuel/includeguards.nvim)
 - [MoulatiMehdi/HeaderGuard.nvim](https://github.com/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/stars/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/last-commit/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/commit-activity/y/MoulatiMehdi/HeaderGuard.nvim)
 - [PanasMoti/headerguard.nvim](https://github.com/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/stars/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/last-commit/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/PanasMoti/headerguard.nvim)
+- [LinkNexus/cpp_header_sync.nvim](https://github.com/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/stars/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/last-commit/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/commit-activity/y/LinkNexus/cpp_header_sync.nvim)
 
 ## PlatformIO
 

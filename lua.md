@@ -23,6 +23,7 @@
 - [willothy/luahint](https://github.com/willothy/luahint) ![](https://img.shields.io/github/stars/willothy/luahint) ![](https://img.shields.io/github/last-commit/willothy/luahint) ![](https://img.shields.io/github/commit-activity/y/willothy/luahint)
 - [KaitlynEthylia/Evalua](https://github.com/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/stars/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/last-commit/KaitlynEthylia/Evalua) ![](https://img.shields.io/github/commit-activity/y/KaitlynEthylia/Evalua)
 - [YaroSpace/dev-tools.nvim](https://github.com/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/stars/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/last-commit/YaroSpace/dev-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/YaroSpace/dev-tools.nvim)
+- [AlexanderGolys/usable-lua.nvim](https://github.com/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/usable-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/usable-lua.nvim)
 
 ### LSP
 

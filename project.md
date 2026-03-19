@@ -75,6 +75,7 @@
 - [josephschmitt/pj.nvim](https://github.com/josephschmitt/pj.nvim) ![](https://img.shields.io/github/stars/josephschmitt/pj.nvim) ![](https://img.shields.io/github/last-commit/josephschmitt/pj.nvim) ![](https://img.shields.io/github/commit-activity/y/josephschmitt/pj.nvim)
 - [DanyPops/stem.nvim](https://github.com/DanyPops/stem.nvim) ![](https://img.shields.io/github/stars/DanyPops/stem.nvim) ![](https://img.shields.io/github/last-commit/DanyPops/stem.nvim) ![](https://img.shields.io/github/commit-activity/y/DanyPops/stem.nvim)
 - [AlexanderGolys/proj.nvim](https://github.com/AlexanderGolys/proj.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/proj.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/proj.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/proj.nvim)
+- [aoantov/pwarp.nvim](https://github.com/aoantov/pwarp.nvim) ![](https://img.shields.io/github/stars/aoantov/pwarp.nvim) ![](https://img.shields.io/github/last-commit/aoantov/pwarp.nvim) ![](https://img.shields.io/github/commit-activity/y/aoantov/pwarp.nvim)
 
 ### Project Root Detector
 

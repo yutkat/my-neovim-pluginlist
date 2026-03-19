@@ -117,6 +117,7 @@
 - [Goose97/typist.nvim](https://github.com/Goose97/typist.nvim) ![](https://img.shields.io/github/stars/Goose97/typist.nvim) ![](https://img.shields.io/github/last-commit/Goose97/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/Goose97/typist.nvim)
 - [snesjhon/nvim-typer](https://github.com/snesjhon/nvim-typer) ![](https://img.shields.io/github/stars/snesjhon/nvim-typer) ![](https://img.shields.io/github/last-commit/snesjhon/nvim-typer) ![](https://img.shields.io/github/commit-activity/y/snesjhon/nvim-typer)
 - [rodolfo-arg/neotype](https://github.com/rodolfo-arg/neotype) ![](https://img.shields.io/github/stars/rodolfo-arg/neotype) ![](https://img.shields.io/github/last-commit/rodolfo-arg/neotype) ![](https://img.shields.io/github/commit-activity/y/rodolfo-arg/neotype)
+- [matthieudesprez/nvim-game](https://github.com/matthieudesprez/nvim-game) ![](https://img.shields.io/github/stars/matthieudesprez/nvim-game) ![](https://img.shields.io/github/last-commit/matthieudesprez/nvim-game) ![](https://img.shields.io/github/commit-activity/y/matthieudesprez/nvim-game)
 
 ### FiveM
 
