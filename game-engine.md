@@ -89,6 +89,7 @@
 ### Love2D
 
 - [yorik1984/love2d-treesitter.nvim](https://github.com/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/stars/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/love2d-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/love2d-treesitter.nvim)
+- [yorik1984/love2d-docs.nvim](https://github.com/yorik1984/love2d-docs.nvim) ![](https://img.shields.io/github/stars/yorik1984/love2d-docs.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/love2d-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/love2d-docs.nvim)
 
 ### Webots
 
