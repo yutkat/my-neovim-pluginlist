@@ -334,6 +334,7 @@
 - [thevinchi/aws.nvim](https://github.com/thevinchi/aws.nvim) ![](https://img.shields.io/github/stars/thevinchi/aws.nvim) ![](https://img.shields.io/github/last-commit/thevinchi/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/thevinchi/aws.nvim)
 - [fbreckle/telescope-aws-accounts.nvim](https://github.com/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/stars/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/last-commit/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/commit-activity/y/fbreckle/telescope-aws-accounts.nvim)
 - [RogerTerrazas/aws.nvim](https://github.com/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/stars/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/last-commit/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/RogerTerrazas/aws.nvim)
+- [jugarpeupv/aws.nvim](https://github.com/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/aws.nvim)
 
 ##### S3
 

@@ -66,6 +66,7 @@
 ## Symbol
 
 - [Prgebish/sigil.nvim](https://github.com/Prgebish/sigil.nvim) ![](https://img.shields.io/github/stars/Prgebish/sigil.nvim) ![](https://img.shields.io/github/last-commit/Prgebish/sigil.nvim) ![](https://img.shields.io/github/commit-activity/y/Prgebish/sigil.nvim)
+- [patztablook22/sigilify.nvim](https://github.com/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/stars/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/last-commit/patztablook22/sigilify.nvim) ![](https://img.shields.io/github/commit-activity/y/patztablook22/sigilify.nvim)
 
 ## Icon
 

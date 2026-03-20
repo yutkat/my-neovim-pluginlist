@@ -95,6 +95,7 @@
 ## Context
 
 - [ahkohd/context.nvim](https://github.com/ahkohd/context.nvim) ![](https://img.shields.io/github/stars/ahkohd/context.nvim) ![](https://img.shields.io/github/last-commit/ahkohd/context.nvim) ![](https://img.shields.io/github/commit-activity/y/ahkohd/context.nvim)
+- [iicsx/nvim-fox](https://github.com/iicsx/nvim-fox) ![](https://img.shields.io/github/stars/iicsx/nvim-fox) ![](https://img.shields.io/github/last-commit/iicsx/nvim-fox) ![](https://img.shields.io/github/commit-activity/y/iicsx/nvim-fox)
 
 ## Code Block Separater
 

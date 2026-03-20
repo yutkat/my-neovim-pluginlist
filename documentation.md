@@ -237,6 +237,7 @@
 
 - [andyp1xe1/eden.nvim](https://github.com/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/stars/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/last-commit/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/commit-activity/y/andyp1xe1/eden.nvim)
 - [pompos02/go-live-markdown.nvim](https://github.com/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/go-live-markdown.nvim)
+- [corey-fu/markdown-preview-gfm.nvim](https://github.com/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/stars/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/last-commit/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/corey-fu/markdown-preview-gfm.nvim)
 
 ##### Glow
 
@@ -677,6 +678,7 @@
 
 - [SunnyTamang/neodoc.nvim](https://github.com/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/stars/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/last-commit/SunnyTamang/neodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/SunnyTamang/neodoc.nvim)
 - [cetanu/archon.nvim](https://github.com/cetanu/archon.nvim) ![](https://img.shields.io/github/stars/cetanu/archon.nvim) ![](https://img.shields.io/github/last-commit/cetanu/archon.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/archon.nvim)
+- [riccardo-enr/codedoc.nvim](https://github.com/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/stars/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/last-commit/riccardo-enr/codedoc.nvim) ![](https://img.shields.io/github/commit-activity/y/riccardo-enr/codedoc.nvim)
 
 ## Dadoot
 
