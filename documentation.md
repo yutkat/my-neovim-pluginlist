@@ -222,6 +222,7 @@
 - [toki83w/remark-preview.nvim](https://github.com/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/stars/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/last-commit/toki83w/remark-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/toki83w/remark-preview.nvim)
 - [adam-coates/markdown-preview.nvim](https://github.com/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/stars/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/last-commit/adam-coates/markdown-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/adam-coates/markdown-preview.nvim)
 - [SBlokhuizen/rst-preview.nvim](https://github.com/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/stars/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/last-commit/SBlokhuizen/rst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/SBlokhuizen/rst-preview.nvim)
+- [san-siva/blogkit-md.nvim](https://github.com/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/stars/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/last-commit/san-siva/blogkit-md.nvim) ![](https://img.shields.io/github/commit-activity/y/san-siva/blogkit-md.nvim)
 
 ##### Deno
 
