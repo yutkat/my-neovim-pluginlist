@@ -119,6 +119,7 @@
 - [gzitei/terminal.nvim](https://github.com/gzitei/terminal.nvim) ![](https://img.shields.io/github/stars/gzitei/terminal.nvim) ![](https://img.shields.io/github/last-commit/gzitei/terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/terminal.nvim)
 - [beardnick/terminal_mate.nvim](https://github.com/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/stars/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/last-commit/beardnick/terminal_mate.nvim) ![](https://img.shields.io/github/commit-activity/y/beardnick/terminal_mate.nvim)
 - [Panama0/Terman.nvim](https://github.com/Panama0/Terman.nvim) ![](https://img.shields.io/github/stars/Panama0/Terman.nvim) ![](https://img.shields.io/github/last-commit/Panama0/Terman.nvim) ![](https://img.shields.io/github/commit-activity/y/Panama0/Terman.nvim)
+- [ruicsh/termite.nvim](https://github.com/ruicsh/termite.nvim) ![](https://img.shields.io/github/stars/ruicsh/termite.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/termite.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/termite.nvim)
 
 ### Open
 

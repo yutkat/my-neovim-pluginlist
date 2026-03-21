@@ -296,6 +296,7 @@
 
 - [nvim-treesitter/nvim-treesitter(Incremental selection)](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
 - [shushtain/incselect.nvim](https://github.com/shushtain/incselect.nvim) ![](https://img.shields.io/github/stars/shushtain/incselect.nvim) ![](https://img.shields.io/github/last-commit/shushtain/incselect.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/incselect.nvim)
+- [zetatez/quickselect.nvim](https://github.com/zetatez/quickselect.nvim) ![](https://img.shields.io/github/stars/zetatez/quickselect.nvim) ![](https://img.shields.io/github/last-commit/zetatez/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/quickselect.nvim)
 
 ### Around select
 

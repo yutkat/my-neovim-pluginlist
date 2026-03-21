@@ -173,6 +173,7 @@
     - [stenography](#stenography)
     - [Pine Script](#pine-script)
 - [Competitive programming](#competitive-programming)
+  - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
@@ -989,6 +990,10 @@
 - [prerit714/cp.nvim](https://github.com/prerit714/cp.nvim) ![](https://img.shields.io/github/stars/prerit714/cp.nvim) ![](https://img.shields.io/github/last-commit/prerit714/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/cp.nvim)
 - [ddl0620/cpmode.nvim](https://github.com/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/stars/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/last-commit/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/commit-activity/y/ddl0620/cpmode.nvim)
 - [shouryadixitisverycool/dmoj.nvim](https://github.com/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/stars/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/last-commit/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/commit-activity/y/shouryadixitisverycool/dmoj.nvim)
+
+### ACMOJ
+
+- [Young-Lord/acmoj.nvim](https://github.com/Young-Lord/acmoj.nvim) ![](https://img.shields.io/github/stars/Young-Lord/acmoj.nvim) ![](https://img.shields.io/github/last-commit/Young-Lord/acmoj.nvim) ![](https://img.shields.io/github/commit-activity/y/Young-Lord/acmoj.nvim)
 
 ### Codeforces
 
