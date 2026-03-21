@@ -59,6 +59,7 @@
 - [mattpetters/nowplaying.nvim](https://github.com/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/stars/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/last-commit/mattpetters/nowplaying.nvim) ![](https://img.shields.io/github/commit-activity/y/mattpetters/nowplaying.nvim)
 - [futurekismo-oss/Ambience.nvim](https://github.com/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/stars/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/last-commit/futurekismo-oss/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/futurekismo-oss/Ambience.nvim)
 - [Hugo1974/musicpicker.nvim](https://github.com/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/stars/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/last-commit/Hugo1974/musicpicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Hugo1974/musicpicker.nvim)
+- [SDKprojectmark2/Ambience.nvim](https://github.com/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/stars/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/last-commit/SDKprojectmark2/Ambience.nvim) ![](https://img.shields.io/github/commit-activity/y/SDKprojectmark2/Ambience.nvim)
 
 ### sapf
 

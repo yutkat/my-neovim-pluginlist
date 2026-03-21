@@ -461,6 +461,7 @@
 - [WataruNishimura/git-wt.nvim](https://github.com/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/stars/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/last-commit/WataruNishimura/git-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/WataruNishimura/git-wt.nvim)
 - [jack-work/tree-bear.nvim](https://github.com/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/stars/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/last-commit/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-work/tree-bear.nvim)
 - [gsilvapt/neotrees.nvim](https://github.com/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/stars/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/last-commit/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/commit-activity/y/gsilvapt/neotrees.nvim)
+- [Geromendez135/worktree-manager.nvim](https://github.com/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/stars/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/last-commit/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Geromendez135/worktree-manager.nvim)
 
 ### submodule
 

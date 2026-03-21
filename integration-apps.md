@@ -145,6 +145,8 @@
 
 ### Shell
 
+- [packetverse/shelly.nvim](https://github.com/packetverse/shelly.nvim) ![](https://img.shields.io/github/stars/packetverse/shelly.nvim) ![](https://img.shields.io/github/last-commit/packetverse/shelly.nvim) ![](https://img.shields.io/github/commit-activity/y/packetverse/shelly.nvim)
+
 #### bash
 
 - [Porter/bash_history.nvim](https://github.com/Porter/bash_history.nvim) ![](https://img.shields.io/github/stars/Porter/bash_history.nvim) ![](https://img.shields.io/github/last-commit/Porter/bash_history.nvim) ![](https://img.shields.io/github/commit-activity/y/Porter/bash_history.nvim)
@@ -293,6 +295,7 @@
 - [timonviola/terraform-doc-browser.nvim](https://github.com/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/stars/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/last-commit/timonviola/terraform-doc-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/timonviola/terraform-doc-browser.nvim)
 - [mariuskimmina/tfapply.nvim](https://github.com/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/stars/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/last-commit/mariuskimmina/tfapply.nvim) ![](https://img.shields.io/github/commit-activity/y/mariuskimmina/tfapply.nvim)
 - [mhiro2/tf-docs.nvim](https://github.com/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/stars/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/tf-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/tf-docs.nvim)
+- [cablecreek/tf-docs.nvim](https://github.com/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/stars/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/last-commit/cablecreek/tf-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/cablecreek/tf-docs.nvim)
 - [ellsclytn/terraform-address.nvim](https://github.com/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/stars/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/last-commit/ellsclytn/terraform-address.nvim) ![](https://img.shields.io/github/commit-activity/y/ellsclytn/terraform-address.nvim)
 
 ##### atmos
