@@ -141,6 +141,7 @@
 
 - [akiyosi/copysource.nvim](https://github.com/akiyosi/copysource.nvim) ![](https://img.shields.io/github/stars/akiyosi/copysource.nvim) ![](https://img.shields.io/github/last-commit/akiyosi/copysource.nvim) ![](https://img.shields.io/github/commit-activity/y/akiyosi/copysource.nvim)
 - [yuchanns/ccr.nvim](https://github.com/yuchanns/ccr.nvim) ![](https://img.shields.io/github/stars/yuchanns/ccr.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/ccr.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/ccr.nvim)
+- [stevewallis/yank-ref.nvim](https://github.com/stevewallis/yank-ref.nvim) ![](https://img.shields.io/github/stars/stevewallis/yank-ref.nvim) ![](https://img.shields.io/github/last-commit/stevewallis/yank-ref.nvim) ![](https://img.shields.io/github/commit-activity/y/stevewallis/yank-ref.nvim)
 
 ### OSC52
 

@@ -181,6 +181,7 @@
 - [kaltwelten/tintin.nvim](https://github.com/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/stars/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/last-commit/kaltwelten/tintin.nvim) ![](https://img.shields.io/github/commit-activity/y/kaltwelten/tintin.nvim)
 - [gigacrat/aperture.nvim](https://github.com/gigacrat/aperture.nvim) ![](https://img.shields.io/github/stars/gigacrat/aperture.nvim) ![](https://img.shields.io/github/last-commit/gigacrat/aperture.nvim) ![](https://img.shields.io/github/commit-activity/y/gigacrat/aperture.nvim)
 - [shaozi/active-gutter.nvim](https://github.com/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/stars/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/last-commit/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/shaozi/active-gutter.nvim)
+- [zetatez/spotlight.nvim](https://github.com/zetatez/spotlight.nvim) ![](https://img.shields.io/github/stars/zetatez/spotlight.nvim) ![](https://img.shields.io/github/last-commit/zetatez/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/spotlight.nvim)
 
 #### Window Number
 

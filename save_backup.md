@@ -60,6 +60,7 @@
 ### Snapshot
 
 - [theawakener0/TraceBack](https://github.com/theawakener0/TraceBack) ![](https://img.shields.io/github/stars/theawakener0/TraceBack) ![](https://img.shields.io/github/last-commit/theawakener0/TraceBack) ![](https://img.shields.io/github/commit-activity/y/theawakener0/TraceBack)
+- [clawoflight/telescope-zfs-snapshots.nvim](https://github.com/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/stars/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/last-commit/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/commit-activity/y/clawoflight/telescope-zfs-snapshots.nvim)
 
 ## Swapfile
 
