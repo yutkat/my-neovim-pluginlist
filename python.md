@@ -6,6 +6,7 @@
   - [tweaks](#tweaks)
     - [string](#string)
     - [json](#json)
+    - [path](#path)
   - [test](#test)
     - [jurigged](#jurigged)
   - [import](#import)
@@ -83,6 +84,10 @@
 #### json
 
 - [ozawau/nvim-formatter](https://github.com/ozawau/nvim-formatter) ![](https://img.shields.io/github/stars/ozawau/nvim-formatter) ![](https://img.shields.io/github/last-commit/ozawau/nvim-formatter) ![](https://img.shields.io/github/commit-activity/y/ozawau/nvim-formatter)
+
+#### path
+
+- [AnsonH/copy-python-path.nvim](https://github.com/AnsonH/copy-python-path.nvim) ![](https://img.shields.io/github/stars/AnsonH/copy-python-path.nvim) ![](https://img.shields.io/github/last-commit/AnsonH/copy-python-path.nvim) ![](https://img.shields.io/github/commit-activity/y/AnsonH/copy-python-path.nvim)
 
 ### test
 
