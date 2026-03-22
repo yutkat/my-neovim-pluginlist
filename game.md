@@ -58,6 +58,7 @@
 - [jeangiraldoo/brickgame.nvim](https://github.com/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/brickgame.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/brickgame.nvim)
 - [tasteSoGood/cellular.nvim](https://github.com/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/stars/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/last-commit/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/commit-activity/y/tasteSoGood/cellular.nvim)
 - [5hashN/flock.nvim](https://github.com/5hashN/flock.nvim) ![](https://img.shields.io/github/stars/5hashN/flock.nvim) ![](https://img.shields.io/github/last-commit/5hashN/flock.nvim) ![](https://img.shields.io/github/commit-activity/y/5hashN/flock.nvim)
+- [Django0033/lonelog.nvim](https://github.com/Django0033/lonelog.nvim) ![](https://img.shields.io/github/stars/Django0033/lonelog.nvim) ![](https://img.shields.io/github/last-commit/Django0033/lonelog.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/lonelog.nvim)
 
 ### Snake
 
