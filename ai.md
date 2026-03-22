@@ -567,7 +567,6 @@
 
 ### Zeke
 
-- [GhostKellz/zeke.nvim](https://github.com/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/stars/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/last-commit/GhostKellz/zeke.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostKellz/zeke.nvim)
 
 ### Groq
 

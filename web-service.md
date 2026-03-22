@@ -172,7 +172,6 @@
 ### Local server
 
 - [selimacerbas/live-server.nvim](https://github.com/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/stars/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/live-server.nvim)
-- [kdog3682/nvim-frontend](https://github.com/kdog3682/nvim-frontend) ![](https://img.shields.io/github/stars/kdog3682/nvim-frontend) ![](https://img.shields.io/github/last-commit/kdog3682/nvim-frontend) ![](https://img.shields.io/github/commit-activity/y/kdog3682/nvim-frontend)
 - [letientai299/dirsv.nvim](https://github.com/letientai299/dirsv.nvim) ![](https://img.shields.io/github/stars/letientai299/dirsv.nvim) ![](https://img.shields.io/github/last-commit/letientai299/dirsv.nvim) ![](https://img.shields.io/github/commit-activity/y/letientai299/dirsv.nvim)
 
 ### Fatebook
@@ -245,7 +244,6 @@
 - [bearded-giant/jim.nvim](https://github.com/bearded-giant/jim.nvim) ![](https://img.shields.io/github/stars/bearded-giant/jim.nvim) ![](https://img.shields.io/github/last-commit/bearded-giant/jim.nvim) ![](https://img.shields.io/github/commit-activity/y/bearded-giant/jim.nvim)
 - [letieu/jira.nvim](https://github.com/letieu/jira.nvim) ![](https://img.shields.io/github/stars/letieu/jira.nvim) ![](https://img.shields.io/github/last-commit/letieu/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/letieu/jira.nvim)
 - [osszoi/jira-board.nvim](https://github.com/osszoi/jira-board.nvim) ![](https://img.shields.io/github/stars/osszoi/jira-board.nvim) ![](https://img.shields.io/github/last-commit/osszoi/jira-board.nvim) ![](https://img.shields.io/github/commit-activity/y/osszoi/jira-board.nvim)
-- [l-lin/jira.nvim](https://github.com/l-lin/jira.nvim) ![](https://img.shields.io/github/stars/l-lin/jira.nvim) ![](https://img.shields.io/github/last-commit/l-lin/jira.nvim) ![](https://img.shields.io/github/commit-activity/y/l-lin/jira.nvim)
 
 ### Confluence
 
