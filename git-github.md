@@ -722,6 +722,7 @@
 - [vieitesss/gh-permalink.nvim](https://github.com/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/stars/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/gh-permalink.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/gh-permalink.nvim)
 - [amaanq/gitlink.nvim](https://github.com/amaanq/gitlink.nvim) ![](https://img.shields.io/github/stars/amaanq/gitlink.nvim) ![](https://img.shields.io/github/last-commit/amaanq/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/amaanq/gitlink.nvim)
 - [melvi-l/housp.nvim](https://github.com/melvi-l/housp.nvim) ![](https://img.shields.io/github/stars/melvi-l/housp.nvim) ![](https://img.shields.io/github/last-commit/melvi-l/housp.nvim) ![](https://img.shields.io/github/commit-activity/y/melvi-l/housp.nvim)
+- [FlavioMili/gitlink.nvim](https://github.com/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/stars/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/last-commit/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/FlavioMili/gitlink.nvim)
 
 ### Image
 

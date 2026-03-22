@@ -58,7 +58,9 @@
     - [Dingo](#dingo)
     - [fortran](#fortran)
     - [Ghidra](#ghidra)
-    - [DSL](#dsl)
+    - [Stan](#stan)
+    - [GICEL](#gicel)
+    - [Simple](#simple)
     - [Viper](#viper)
     - [Plank](#plank)
     - [Elm](#elm)
@@ -507,9 +509,9 @@
 
 - [jdearmas/ghidra.nvim](https://github.com/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/stars/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/ghidra.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/ghidra.nvim)
 
-#### DSL
+#### Stan
 
-- [restaumatic/nvim-dsl-lsp](https://github.com/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/stars/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/last-commit/restaumatic/nvim-dsl-lsp) ![](https://img.shields.io/github/commit-activity/y/restaumatic/nvim-dsl-lsp)
+- [amas0/stan.nvim](https://github.com/amas0/stan.nvim) ![](https://img.shields.io/github/stars/amas0/stan.nvim) ![](https://img.shields.io/github/last-commit/amas0/stan.nvim) ![](https://img.shields.io/github/commit-activity/y/amas0/stan.nvim)
 
 #### GICEL
 
