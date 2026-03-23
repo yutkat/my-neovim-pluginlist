@@ -1041,7 +1041,7 @@
 #### Dingo
 #### fortran
 #### Ghidra
-#### DSL
+#### Stan
 #### GICEL
 #### Simple
 #### Viper
@@ -1575,6 +1575,7 @@
 ## Project
 ### Project Switcher
 ### Project Root Detector
+### Project Note
 ### Project Template
 ### Project syntax
 #### Monorepo
@@ -1606,6 +1607,7 @@
 ### tweaks
 #### string
 #### json
+#### path
 ### test
 #### jurigged
 ### import

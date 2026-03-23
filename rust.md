@@ -39,6 +39,7 @@
 - [alexpasmantier/krust.nvim](https://github.com/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/stars/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/last-commit/alexpasmantier/krust.nvim) ![](https://img.shields.io/github/commit-activity/y/alexpasmantier/krust.nvim)
 - [Nub/clanker.nvim](https://github.com/Nub/clanker.nvim) ![](https://img.shields.io/github/stars/Nub/clanker.nvim) ![](https://img.shields.io/github/last-commit/Nub/clanker.nvim) ![](https://img.shields.io/github/commit-activity/y/Nub/clanker.nvim)
 - [GhostVox/implicit-return.nvim](https://github.com/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/stars/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/last-commit/GhostVox/implicit-return.nvim) ![](https://img.shields.io/github/commit-activity/y/GhostVox/implicit-return.nvim)
+- [jugarpeupv/rust-docs.nvim](https://github.com/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/rust-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/rust-docs.nvim)
 
 ### Test
 

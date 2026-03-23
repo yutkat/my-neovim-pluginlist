@@ -59,6 +59,8 @@
 
 ## Location
 
+- [pluma9/scattermarks.nvim](https://github.com/pluma9/scattermarks.nvim) ![](https://img.shields.io/github/stars/pluma9/scattermarks.nvim) ![](https://img.shields.io/github/last-commit/pluma9/scattermarks.nvim) ![](https://img.shields.io/github/commit-activity/y/pluma9/scattermarks.nvim)
+
 ## Error
 
 - [msaher/bufix.nvim](https://github.com/msaher/bufix.nvim) ![](https://img.shields.io/github/stars/msaher/bufix.nvim) ![](https://img.shields.io/github/last-commit/msaher/bufix.nvim) ![](https://img.shields.io/github/commit-activity/y/msaher/bufix.nvim)

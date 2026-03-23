@@ -83,6 +83,7 @@
 - [yuki-yano/fallback-map.nvim](https://github.com/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/stars/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/fallback-map.nvim)
 - [wsdjeg/keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/stars/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/keymap-guide.nvim)
 - [sohanemon/keymap.nvim](https://github.com/sohanemon/keymap.nvim) ![](https://img.shields.io/github/stars/sohanemon/keymap.nvim) ![](https://img.shields.io/github/last-commit/sohanemon/keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/sohanemon/keymap.nvim)
+- [Picalines/mappet.nvim](https://github.com/Picalines/mappet.nvim) ![](https://img.shields.io/github/stars/Picalines/mappet.nvim) ![](https://img.shields.io/github/last-commit/Picalines/mappet.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/mappet.nvim)
 
 ### instant mapping
 
