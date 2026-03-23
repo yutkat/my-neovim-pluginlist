@@ -83,6 +83,7 @@
 - [yuki-yano/fallback-map.nvim](https://github.com/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/stars/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/fallback-map.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/fallback-map.nvim)
 - [wsdjeg/keymap-guide.nvim](https://github.com/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/stars/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/keymap-guide.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/keymap-guide.nvim)
 - [sohanemon/keymap.nvim](https://github.com/sohanemon/keymap.nvim) ![](https://img.shields.io/github/stars/sohanemon/keymap.nvim) ![](https://img.shields.io/github/last-commit/sohanemon/keymap.nvim) ![](https://img.shields.io/github/commit-activity/y/sohanemon/keymap.nvim)
+- [Picalines/mappet.nvim](https://github.com/Picalines/mappet.nvim) ![](https://img.shields.io/github/stars/Picalines/mappet.nvim) ![](https://img.shields.io/github/last-commit/Picalines/mappet.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/mappet.nvim)
 
 ### instant mapping
 
@@ -120,6 +121,7 @@
 - [theinventorylib/inline_hints.nvim](https://github.com/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/stars/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/last-commit/theinventorylib/inline_hints.nvim) ![](https://img.shields.io/github/commit-activity/y/theinventorylib/inline_hints.nvim)
 - [nvim-mini/mini.clue](https://github.com/nvim-mini/mini.clue) ![](https://img.shields.io/github/stars/nvim-mini/mini.clue) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.clue) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.clue)
 - [sud977/nemo.nvim](https://github.com/sud977/nemo.nvim) ![](https://img.shields.io/github/stars/sud977/nemo.nvim) ![](https://img.shields.io/github/last-commit/sud977/nemo.nvim) ![](https://img.shields.io/github/commit-activity/y/sud977/nemo.nvim)
+- [marnickvda/huh.nvim](https://github.com/marnickvda/huh.nvim) ![](https://img.shields.io/github/stars/marnickvda/huh.nvim) ![](https://img.shields.io/github/last-commit/marnickvda/huh.nvim) ![](https://img.shields.io/github/commit-activity/y/marnickvda/huh.nvim)
 
 ### Show assigned
 

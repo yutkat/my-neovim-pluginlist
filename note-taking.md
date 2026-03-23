@@ -141,6 +141,8 @@
 - [czt08883/todo-md.nvim](https://github.com/czt08883/todo-md.nvim) ![](https://img.shields.io/github/stars/czt08883/todo-md.nvim) ![](https://img.shields.io/github/last-commit/czt08883/todo-md.nvim) ![](https://img.shields.io/github/commit-activity/y/czt08883/todo-md.nvim)
 - [Andrrs64/dirnotes.nvim](https://github.com/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/stars/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/last-commit/Andrrs64/dirnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Andrrs64/dirnotes.nvim)
 - [cmdblock/nvim-note-templates](https://github.com/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/stars/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/last-commit/cmdblock/nvim-note-templates) ![](https://img.shields.io/github/commit-activity/y/cmdblock/nvim-note-templates)
+- [hurou927/memo-float.nvim](https://github.com/hurou927/memo-float.nvim) ![](https://img.shields.io/github/stars/hurou927/memo-float.nvim) ![](https://img.shields.io/github/last-commit/hurou927/memo-float.nvim) ![](https://img.shields.io/github/commit-activity/y/hurou927/memo-float.nvim)
+- [stvhuang/memo.nvim](https://github.com/stvhuang/memo.nvim) ![](https://img.shields.io/github/stars/stvhuang/memo.nvim) ![](https://img.shields.io/github/last-commit/stvhuang/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/stvhuang/memo.nvim)
 
 ### Journal
 

@@ -5,6 +5,7 @@
 - [Project](#project)
   - [Project Switcher](#project-switcher)
   - [Project Root Detector](#project-root-detector)
+  - [Project Note](#project-note)
   - [Project Template](#project-template)
   - [Project syntax](#project-syntax)
     - [Monorepo](#monorepo)
@@ -97,6 +98,10 @@
 - [jakobwesthoff/taproot.nvim](https://github.com/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/taproot.nvim)
 - [andrewwillette/project.nvim](https://github.com/andrewwillette/project.nvim) ![](https://img.shields.io/github/stars/andrewwillette/project.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/project.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/project.nvim)
 
+### Project Note
+
+- [grohiro/project-note.nvim](https://github.com/grohiro/project-note.nvim) ![](https://img.shields.io/github/stars/grohiro/project-note.nvim) ![](https://img.shields.io/github/last-commit/grohiro/project-note.nvim) ![](https://img.shields.io/github/commit-activity/y/grohiro/project-note.nvim)
+
 ### Project Template
 
 - [MeisApps/blueprint.nvim](https://github.com/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/stars/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/last-commit/MeisApps/blueprint.nvim) ![](https://img.shields.io/github/commit-activity/y/MeisApps/blueprint.nvim)
@@ -117,6 +122,7 @@
 - [sajjathossain/nvim-monorepos](https://github.com/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/stars/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/last-commit/sajjathossain/nvim-monorepos) ![](https://img.shields.io/github/commit-activity/y/sajjathossain/nvim-monorepos)
 - [Akshay-Vs/monorepo.nvim](https://github.com/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/stars/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/last-commit/Akshay-Vs/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/Akshay-Vs/monorepo.nvim)
 - [yardnsm/nx-console.nvim](https://github.com/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/stars/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/last-commit/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/commit-activity/y/yardnsm/nx-console.nvim)
+- [jonesn3/telescope-metarepo.nvim](https://github.com/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/stars/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/last-commit/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/commit-activity/y/jonesn3/telescope-metarepo.nvim)
 
 ### Project Local Config
 
