@@ -369,6 +369,7 @@
 - [efirlus/keepin-md.nvim](https://github.com/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/stars/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/last-commit/efirlus/keepin-md.nvim) ![](https://img.shields.io/github/commit-activity/y/efirlus/keepin-md.nvim)
 - [oliver-hughes/md-list.nvim](https://github.com/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/stars/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/last-commit/oliver-hughes/md-list.nvim) ![](https://img.shields.io/github/commit-activity/y/oliver-hughes/md-list.nvim)
 - [albertoCaroM/markdown-mote.nvim](https://github.com/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/stars/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/last-commit/albertoCaroM/markdown-mote.nvim) ![](https://img.shields.io/github/commit-activity/y/albertoCaroM/markdown-mote.nvim)
+- [satozawa/graft.nvim](https://github.com/satozawa/graft.nvim) ![](https://img.shields.io/github/stars/satozawa/graft.nvim) ![](https://img.shields.io/github/last-commit/satozawa/graft.nvim) ![](https://img.shields.io/github/commit-activity/y/satozawa/graft.nvim)
 
 #### Markdown details
 
