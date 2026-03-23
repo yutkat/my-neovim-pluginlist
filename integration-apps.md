@@ -222,6 +222,7 @@
 - [MisterPiggie/casper.nvim](https://github.com/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/stars/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/last-commit/MisterPiggie/casper.nvim) ![](https://img.shields.io/github/commit-activity/y/MisterPiggie/casper.nvim)
 - [tmm/ghostty-navigator.nvim](https://github.com/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/stars/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/last-commit/tmm/ghostty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/tmm/ghostty-navigator.nvim)
 - [mazzoccantelorenzo/ghostty-fonts.nvim](https://github.com/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/stars/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/last-commit/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/mazzoccantelorenzo/ghostty-fonts.nvim)
+- [stellarjmr/ghostty-repl.nvim](https://github.com/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/stars/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/ghostty-repl.nvim)
 
 #### Windows Terminal
 
