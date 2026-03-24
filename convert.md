@@ -125,6 +125,7 @@
 - [mimikun/num-utils.nvim](https://github.com/mimikun/num-utils.nvim) ![](https://img.shields.io/github/stars/mimikun/num-utils.nvim) ![](https://img.shields.io/github/last-commit/mimikun/num-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/mimikun/num-utils.nvim)
 - [Paperweightt/transmute.nvim](https://github.com/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/stars/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/last-commit/Paperweightt/transmute.nvim) ![](https://img.shields.io/github/commit-activity/y/Paperweightt/transmute.nvim)
 - [Necrom4/convy.nvim](https://github.com/Necrom4/convy.nvim) ![](https://img.shields.io/github/stars/Necrom4/convy.nvim) ![](https://img.shields.io/github/last-commit/Necrom4/convy.nvim) ![](https://img.shields.io/github/commit-activity/y/Necrom4/convy.nvim)
+- [AnonMiraj/fconv.nvim](https://github.com/AnonMiraj/fconv.nvim) ![](https://img.shields.io/github/stars/AnonMiraj/fconv.nvim) ![](https://img.shields.io/github/last-commit/AnonMiraj/fconv.nvim) ![](https://img.shields.io/github/commit-activity/y/AnonMiraj/fconv.nvim)
 
 ### Color
 

@@ -546,6 +546,7 @@
 - [nisidabay/txt2mp3.nvim](https://github.com/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/stars/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/last-commit/nisidabay/txt2mp3.nvim) ![](https://img.shields.io/github/commit-activity/y/nisidabay/txt2mp3.nvim)
 - [coreyb-git/spd-say.nvim](https://github.com/coreyb-git/spd-say.nvim) ![](https://img.shields.io/github/stars/coreyb-git/spd-say.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/spd-say.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/spd-say.nvim)
 - [LeandroDeJesus-S/SayIt.nvim](https://github.com/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/stars/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/last-commit/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/commit-activity/y/LeandroDeJesus-S/SayIt.nvim)
+- [bew4lsh/ogma.nvim](https://github.com/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/stars/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/last-commit/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/commit-activity/y/bew4lsh/ogma.nvim)
 
 ### Core dump
 

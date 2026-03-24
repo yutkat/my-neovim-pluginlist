@@ -32,6 +32,7 @@
 - [Silver-Saucepan/kmymoney.nvim](https://github.com/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/stars/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/last-commit/Silver-Saucepan/kmymoney.nvim) ![](https://img.shields.io/github/commit-activity/y/Silver-Saucepan/kmymoney.nvim)
 - [sobue-code/nvim-alt-spec](https://github.com/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/stars/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/last-commit/sobue-code/nvim-alt-spec) ![](https://img.shields.io/github/commit-activity/y/sobue-code/nvim-alt-spec)
 - [sobue-code/nvim-spec-changelog](https://github.com/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/stars/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/last-commit/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/commit-activity/y/sobue-code/nvim-spec-changelog)
+- [fibsussy/gcode.nvim](https://github.com/fibsussy/gcode.nvim) ![](https://img.shields.io/github/stars/fibsussy/gcode.nvim) ![](https://img.shields.io/github/last-commit/fibsussy/gcode.nvim) ![](https://img.shields.io/github/commit-activity/y/fibsussy/gcode.nvim)
 
 ### filetype colorscheme
 
@@ -42,6 +43,7 @@
 - [sjjwantfish/encodings.nvim](https://github.com/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/stars/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/last-commit/sjjwantfish/encodings.nvim) ![](https://img.shields.io/github/commit-activity/y/sjjwantfish/encodings.nvim)
 - [pguimier/ToggleEncode.nvim](https://github.com/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/stars/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/last-commit/pguimier/ToggleEncode.nvim) ![](https://img.shields.io/github/commit-activity/y/pguimier/ToggleEncode.nvim)
 - [Shuheng-Zhang/file-encode-selector.nvim](https://github.com/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/stars/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/last-commit/Shuheng-Zhang/file-encode-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/Shuheng-Zhang/file-encode-selector.nvim)
+- [LizardLiang/big5.nvim](https://github.com/LizardLiang/big5.nvim) ![](https://img.shields.io/github/stars/LizardLiang/big5.nvim) ![](https://img.shields.io/github/last-commit/LizardLiang/big5.nvim) ![](https://img.shields.io/github/commit-activity/y/LizardLiang/big5.nvim)
 
 ## file attributes
 

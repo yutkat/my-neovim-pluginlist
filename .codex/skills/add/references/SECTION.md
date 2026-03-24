@@ -52,6 +52,7 @@
 ### OpenCode
 ### khulnasoft
 ## AI Completion
+### Claude
 ### Copilot
 ### Genie CLI
 ## Agent
