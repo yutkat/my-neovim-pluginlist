@@ -128,6 +128,7 @@
 #### IPA Keyboard
 
 - [Icni/ipa.nvim](https://github.com/Icni/ipa.nvim) ![](https://img.shields.io/github/stars/Icni/ipa.nvim) ![](https://img.shields.io/github/last-commit/Icni/ipa.nvim) ![](https://img.shields.io/github/commit-activity/y/Icni/ipa.nvim)
+- [moltinginstar/xsampa.nvim](https://github.com/moltinginstar/xsampa.nvim) ![](https://img.shields.io/github/stars/moltinginstar/xsampa.nvim) ![](https://img.shields.io/github/last-commit/moltinginstar/xsampa.nvim) ![](https://img.shields.io/github/commit-activity/y/moltinginstar/xsampa.nvim)
 
 #### LED
 

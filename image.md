@@ -77,6 +77,7 @@
 - [pittcat/macos-screenshot.nvim](https://github.com/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/stars/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/last-commit/pittcat/macos-screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/macos-screenshot.nvim)
 - [mistweaverco/snap.nvim](https://github.com/mistweaverco/snap.nvim) ![](https://img.shields.io/github/stars/mistweaverco/snap.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/snap.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/snap.nvim)
 - [glyccogen/imprint.nvim](https://github.com/glyccogen/imprint.nvim) ![](https://img.shields.io/github/stars/glyccogen/imprint.nvim) ![](https://img.shields.io/github/last-commit/glyccogen/imprint.nvim) ![](https://img.shields.io/github/commit-activity/y/glyccogen/imprint.nvim)
+- [qq3g7bad/easy-screenshot.nvim](https://github.com/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/easy-screenshot.nvim)
 
 ### Screen Key (Show Typing key)
 

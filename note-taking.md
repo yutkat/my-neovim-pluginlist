@@ -328,6 +328,7 @@
 - [Pete-Hamlin/tasknv.nvim](https://github.com/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/stars/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/last-commit/Pete-Hamlin/tasknv.nvim) ![](https://img.shields.io/github/commit-activity/y/Pete-Hamlin/tasknv.nvim)
 - [07CalC/doit.nvim](https://github.com/07CalC/doit.nvim) ![](https://img.shields.io/github/stars/07CalC/doit.nvim) ![](https://img.shields.io/github/last-commit/07CalC/doit.nvim) ![](https://img.shields.io/github/commit-activity/y/07CalC/doit.nvim)
 - [armmahajan/taskwarrior.nvim](https://github.com/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/stars/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/last-commit/armmahajan/taskwarrior.nvim) ![](https://img.shields.io/github/commit-activity/y/armmahajan/taskwarrior.nvim)
+- [MattHandzel/task.nvim](https://github.com/MattHandzel/task.nvim) ![](https://img.shields.io/github/stars/MattHandzel/task.nvim) ![](https://img.shields.io/github/last-commit/MattHandzel/task.nvim) ![](https://img.shields.io/github/commit-activity/y/MattHandzel/task.nvim)
 
 ### Obsidian
 
