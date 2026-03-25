@@ -136,6 +136,7 @@
 - [Zynith0/floater.nvim](https://github.com/Zynith0/floater.nvim) ![](https://img.shields.io/github/stars/Zynith0/floater.nvim) ![](https://img.shields.io/github/last-commit/Zynith0/floater.nvim) ![](https://img.shields.io/github/commit-activity/y/Zynith0/floater.nvim)
 - [mhiro2/peekstack.nvim](https://github.com/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/stars/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/peekstack.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/peekstack.nvim)
 - [heavycircle/float-ui.nvim](https://github.com/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/stars/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/last-commit/heavycircle/float-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/heavycircle/float-ui.nvim)
+- [Jpifer13/popnav.nvim](https://github.com/Jpifer13/popnav.nvim) ![](https://img.shields.io/github/stars/Jpifer13/popnav.nvim) ![](https://img.shields.io/github/last-commit/Jpifer13/popnav.nvim) ![](https://img.shields.io/github/commit-activity/y/Jpifer13/popnav.nvim)
 
 #### resize
 

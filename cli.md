@@ -376,6 +376,7 @@
 - [nabekou29/open-by-http.nvim](https://github.com/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/stars/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/open-by-http.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/open-by-http.nvim)
 - [gera2ld/remotely.nvim](https://github.com/gera2ld/remotely.nvim) ![](https://img.shields.io/github/stars/gera2ld/remotely.nvim) ![](https://img.shields.io/github/last-commit/gera2ld/remotely.nvim) ![](https://img.shields.io/github/commit-activity/y/gera2ld/remotely.nvim)
 - [rodrigoscc/nurl.nvim](https://github.com/rodrigoscc/nurl.nvim) ![](https://img.shields.io/github/stars/rodrigoscc/nurl.nvim) ![](https://img.shields.io/github/last-commit/rodrigoscc/nurl.nvim) ![](https://img.shields.io/github/commit-activity/y/rodrigoscc/nurl.nvim)
+- [yoshixi/curl-runnner.nvim](https://github.com/yoshixi/curl-runnner.nvim) ![](https://img.shields.io/github/stars/yoshixi/curl-runnner.nvim) ![](https://img.shields.io/github/last-commit/yoshixi/curl-runnner.nvim) ![](https://img.shields.io/github/commit-activity/y/yoshixi/curl-runnner.nvim)
 
 #### OpenSSL
 

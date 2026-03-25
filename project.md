@@ -101,6 +101,7 @@
 ### Project Note
 
 - [grohiro/project-note.nvim](https://github.com/grohiro/project-note.nvim) ![](https://img.shields.io/github/stars/grohiro/project-note.nvim) ![](https://img.shields.io/github/last-commit/grohiro/project-note.nvim) ![](https://img.shields.io/github/commit-activity/y/grohiro/project-note.nvim)
+- [shoebox/spec-kit.nvim](https://github.com/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/stars/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/last-commit/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/spec-kit.nvim)
 
 ### Project Template
 

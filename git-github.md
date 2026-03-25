@@ -636,6 +636,7 @@
 - [flexphere/reviewit.nvim](https://github.com/flexphere/reviewit.nvim) ![](https://img.shields.io/github/stars/flexphere/reviewit.nvim) ![](https://img.shields.io/github/last-commit/flexphere/reviewit.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/reviewit.nvim)
 - [max-farver/git-review.nvim](https://github.com/max-farver/git-review.nvim) ![](https://img.shields.io/github/stars/max-farver/git-review.nvim) ![](https://img.shields.io/github/last-commit/max-farver/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/max-farver/git-review.nvim)
 - [justinlazarus/plz.nvim](https://github.com/justinlazarus/plz.nvim) ![](https://img.shields.io/github/stars/justinlazarus/plz.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/plz.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/plz.nvim)
+- [arefaslani/gh-review.nvim](https://github.com/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/stars/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/last-commit/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/arefaslani/gh-review.nvim)
 
 #### Pull Request Comment
 

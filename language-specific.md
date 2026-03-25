@@ -10,6 +10,7 @@
     - [Nature](#nature)
     - [Lumos](#lumos)
     - [Alloy](#alloy)
+    - [Allium](#allium)
     - [C](#c)
       - [Compile](#compile)
         - [Roslyn](#roslyn)
@@ -177,6 +178,7 @@
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
+  - [Project Euler](#project-euler)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
   - [LeetCode](#leetcode)
@@ -227,6 +229,10 @@
 - [getlumos/nvim-lumos](https://github.com/getlumos/nvim-lumos) ![](https://img.shields.io/github/stars/getlumos/nvim-lumos) ![](https://img.shields.io/github/last-commit/getlumos/nvim-lumos) ![](https://img.shields.io/github/commit-activity/y/getlumos/nvim-lumos)
 
 #### Alloy
+
+#### Allium
+
+- [juxt/nvim-allium](https://github.com/juxt/nvim-allium) ![](https://img.shields.io/github/stars/juxt/nvim-allium) ![](https://img.shields.io/github/last-commit/juxt/nvim-allium) ![](https://img.shields.io/github/commit-activity/y/juxt/nvim-allium)
 
 
 #### C
@@ -999,6 +1005,10 @@
 ### Codeforces
 
 - [khushimitr/lazycf.nvim](https://github.com/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/stars/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/last-commit/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/commit-activity/y/khushimitr/lazycf.nvim)
+
+### Project Euler
+
+- [noahlias/projecteuler.nvim](https://github.com/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/stars/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/last-commit/noahlias/projecteuler.nvim) ![](https://img.shields.io/github/commit-activity/y/noahlias/projecteuler.nvim)
 
 ## Computer science
 
