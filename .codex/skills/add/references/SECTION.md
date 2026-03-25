@@ -994,6 +994,7 @@
 #### Nature
 #### Lumos
 #### Alloy
+#### Allium
 #### C
 ##### Compile
 ###### Roslyn
@@ -1161,6 +1162,7 @@
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
+### Project Euler
 ## Computer science
 ## Technical interviews
 ### LeetCode
@@ -1463,6 +1465,7 @@
 ### nb
 ### Zeppelin
 ### Joplin
+### Apple Notes
 ### Blog
 #### Hugo
 #### GitHub Pages

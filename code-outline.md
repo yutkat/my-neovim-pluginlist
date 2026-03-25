@@ -32,6 +32,7 @@
 - [MikkelvtK/outliner.nvim](https://github.com/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/stars/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/last-commit/MikkelvtK/outliner.nvim) ![](https://img.shields.io/github/commit-activity/y/MikkelvtK/outliner.nvim)
 - [ivanjermakov/telescope-file-structure.nvim](https://github.com/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/telescope-file-structure.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/telescope-file-structure.nvim)
 - [AyMeeko/stack-trace.nvim](https://github.com/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/stars/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/last-commit/AyMeeko/stack-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/AyMeeko/stack-trace.nvim)
+- [benjamindblock/nvim-voom](https://github.com/benjamindblock/nvim-voom) ![](https://img.shields.io/github/stars/benjamindblock/nvim-voom) ![](https://img.shields.io/github/last-commit/benjamindblock/nvim-voom) ![](https://img.shields.io/github/commit-activity/y/benjamindblock/nvim-voom)
 - [fmillone/lsp-highlight.nvim](https://github.com/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/stars/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/last-commit/fmillone/lsp-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/fmillone/lsp-highlight.nvim)
 - [jessesimpson36/whereami.nvim](https://github.com/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/stars/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/last-commit/jessesimpson36/whereami.nvim) ![](https://img.shields.io/github/commit-activity/y/jessesimpson36/whereami.nvim)
 - [jeroldhu/symbols-outline.nvim](https://github.com/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/stars/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/last-commit/jeroldhu/symbols-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/jeroldhu/symbols-outline.nvim)
@@ -72,6 +73,7 @@
 ## Type Hierarchy
 
 - [Slyces/hierarchy.nvim](https://github.com/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/stars/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/last-commit/Slyces/hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/Slyces/hierarchy.nvim)
+- [zadirion/ClassDossier.nvim](https://github.com/zadirion/ClassDossier.nvim) ![](https://img.shields.io/github/stars/zadirion/ClassDossier.nvim) ![](https://img.shields.io/github/last-commit/zadirion/ClassDossier.nvim) ![](https://img.shields.io/github/commit-activity/y/zadirion/ClassDossier.nvim)
 
 ## Breadcrumbs
 

@@ -354,6 +354,7 @@
 ### Remote LSP
 
 - [Chayanon-Ninyawee/remote-lsp.nvim](https://github.com/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/stars/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/last-commit/Chayanon-Ninyawee/remote-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Chayanon-Ninyawee/remote-lsp.nvim)
+- [Rohansjamadagni/nvim-client-render](https://github.com/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/stars/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/last-commit/Rohansjamadagni/nvim-client-render) ![](https://img.shields.io/github/commit-activity/y/Rohansjamadagni/nvim-client-render)
 
 ### restart
 

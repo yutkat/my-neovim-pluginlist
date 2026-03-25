@@ -15,6 +15,7 @@
   - [nb](#nb)
   - [Zeppelin](#zeppelin)
   - [Joplin](#joplin)
+  - [Apple Notes](#apple-notes)
   - [Blog](#blog)
     - [Hugo](#hugo)
     - [GitHub Pages](#github-pages)
@@ -393,6 +394,10 @@
 - [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) ![](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/happyeric77/joplin.nvim)
 - [soanseng/joplin-zettel.nvim](https://github.com/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/stars/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/last-commit/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/soanseng/joplin-zettel.nvim)
 
+### Apple Notes
+
+- [rdrkr/apple-notes.nvim](https://github.com/rdrkr/apple-notes.nvim) ![](https://img.shields.io/github/stars/rdrkr/apple-notes.nvim) ![](https://img.shields.io/github/last-commit/rdrkr/apple-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/rdrkr/apple-notes.nvim)
+
 ### Blog
 
 #### Hugo
@@ -476,6 +481,7 @@
 - [alifoo/fleeting-notes.nvim](https://github.com/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/stars/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/last-commit/alifoo/fleeting-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/alifoo/fleeting-notes.nvim)
 - [leo-alvarenga/drift.nvim](https://github.com/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/stars/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/last-commit/leo-alvarenga/drift.nvim) ![](https://img.shields.io/github/commit-activity/y/leo-alvarenga/drift.nvim)
 - [wsdjeg/scratch.nvim](https://github.com/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/stars/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/scratch.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/scratch.nvim)
+- [VoluteTech/manuscript.nvim](https://github.com/VoluteTech/manuscript.nvim) ![](https://img.shields.io/github/stars/VoluteTech/manuscript.nvim) ![](https://img.shields.io/github/last-commit/VoluteTech/manuscript.nvim) ![](https://img.shields.io/github/commit-activity/y/VoluteTech/manuscript.nvim)
 - [nack098/nvim-note](https://github.com/nack098/nvim-note) ![](https://img.shields.io/github/stars/nack098/nvim-note) ![](https://img.shields.io/github/last-commit/nack098/nvim-note) ![](https://img.shields.io/github/commit-activity/y/nack098/nvim-note)
 - [fiquellcarter/floatnotes.nvim](https://github.com/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/stars/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fiquellcarter/floatnotes.nvim)
 - [hypatia-tile/floating-note.nvim](https://github.com/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/stars/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/last-commit/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/commit-activity/y/hypatia-tile/floating-note.nvim)
