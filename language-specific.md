@@ -89,6 +89,7 @@
     - [Promela](#promela)
     - [Move](#move)
     - [MQL](#mql)
+    - [XVR](#xvr)
     - [Gno](#gno)
     - [Gox](#gox)
     - [Agda](#agda)
@@ -233,7 +234,6 @@
 #### Allium
 
 - [juxt/nvim-allium](https://github.com/juxt/nvim-allium) ![](https://img.shields.io/github/stars/juxt/nvim-allium) ![](https://img.shields.io/github/last-commit/juxt/nvim-allium) ![](https://img.shields.io/github/commit-activity/y/juxt/nvim-allium)
-
 
 #### C
 
@@ -635,6 +635,10 @@
 - [riodelphino/mql-compile.nvim](https://github.com/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-compile.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-compile.nvim)
 - [riodelphino/mql-filetype.nvim](https://github.com/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/stars/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/last-commit/riodelphino/mql-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/riodelphino/mql-filetype.nvim)
 - [seokgukim/mlua-debugger.nvim](https://github.com/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/stars/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/last-commit/seokgukim/mlua-debugger.nvim) ![](https://img.shields.io/github/commit-activity/y/seokgukim/mlua-debugger.nvim)
+
+#### XVR
+
+- [xvrlang/xvr.nvim](https://github.com/xvrlang/xvr.nvim) ![](https://img.shields.io/github/stars/xvrlang/xvr.nvim) ![](https://img.shields.io/github/last-commit/xvrlang/xvr.nvim) ![](https://img.shields.io/github/commit-activity/y/xvrlang/xvr.nvim)
 
 #### Gno
 

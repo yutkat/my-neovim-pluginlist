@@ -30,6 +30,7 @@
 - [DudeWhat12134/od.nvim](https://github.com/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/stars/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/last-commit/DudeWhat12134/od.nvim) ![](https://img.shields.io/github/commit-activity/y/DudeWhat12134/od.nvim)
 - [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) ![](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/fschaal/azfunc.nvim)
 - [MarcWeber/nvim-lldb](https://github.com/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/stars/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-lldb)
+- [lucilands/gradbg.nvim](https://github.com/lucilands/gradbg.nvim) ![](https://img.shields.io/github/stars/lucilands/gradbg.nvim) ![](https://img.shields.io/github/last-commit/lucilands/gradbg.nvim) ![](https://img.shields.io/github/commit-activity/y/lucilands/gradbg.nvim)
 
 #### nvim-dap extension
 
@@ -145,6 +146,7 @@
 - [AndresYague/print-debug.nvim](https://github.com/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/stars/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/print-debug.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/print-debug.nvim)
 - [chriswritescode-dev/consolelog.nvim](https://github.com/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/stars/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/last-commit/chriswritescode-dev/consolelog.nvim) ![](https://img.shields.io/github/commit-activity/y/chriswritescode-dev/consolelog.nvim)
 - [evanmcpheron/rocketlog.nvim](https://github.com/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/stars/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/last-commit/evanmcpheron/rocketlog.nvim) ![](https://img.shields.io/github/commit-activity/y/evanmcpheron/rocketlog.nvim)
+- [maureyesdev/revelio.nvim](https://github.com/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/stars/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/revelio.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/revelio.nvim)
 
 #### stack trace analyze
 

@@ -67,6 +67,7 @@
 - [madmaxieee/camelsnek.nvim](https://github.com/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/stars/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/last-commit/madmaxieee/camelsnek.nvim) ![](https://img.shields.io/github/commit-activity/y/madmaxieee/camelsnek.nvim)
 - [amano-takahisa/case-transform.nvim](https://github.com/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/stars/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/last-commit/amano-takahisa/case-transform.nvim) ![](https://img.shields.io/github/commit-activity/y/amano-takahisa/case-transform.nvim)
 - [h3pei/case-dial.nvim](https://github.com/h3pei/case-dial.nvim) ![](https://img.shields.io/github/stars/h3pei/case-dial.nvim) ![](https://img.shields.io/github/last-commit/h3pei/case-dial.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/case-dial.nvim)
+- [numen-0/chisel.nvim](https://github.com/numen-0/chisel.nvim) ![](https://img.shields.io/github/stars/numen-0/chisel.nvim) ![](https://img.shields.io/github/last-commit/numen-0/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/chisel.nvim)
 
 ### Convert Word
 
