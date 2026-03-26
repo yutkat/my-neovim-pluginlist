@@ -245,6 +245,7 @@
 - [cushydigit/nvim-rename-plugin](https://github.com/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/stars/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/last-commit/cushydigit/nvim-rename-plugin) ![](https://img.shields.io/github/commit-activity/y/cushydigit/nvim-rename-plugin)
 - [marcesengel/renamer.nvim](https://github.com/marcesengel/renamer.nvim) ![](https://img.shields.io/github/stars/marcesengel/renamer.nvim) ![](https://img.shields.io/github/last-commit/marcesengel/renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/marcesengel/renamer.nvim)
 - [opsaaaaa/movefile.nvim](https://github.com/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/stars/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/last-commit/opsaaaaa/movefile.nvim) ![](https://img.shields.io/github/commit-activity/y/opsaaaaa/movefile.nvim)
+- [tiyn/file-renamer.nvim](https://github.com/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/stars/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/last-commit/tiyn/file-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/file-renamer.nvim)
 
 ### Trash
 

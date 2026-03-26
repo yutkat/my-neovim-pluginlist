@@ -653,6 +653,7 @@
 - [wwnbb/opencode.nvim](https://github.com/wwnbb/opencode.nvim) ![](https://img.shields.io/github/stars/wwnbb/opencode.nvim) ![](https://img.shields.io/github/last-commit/wwnbb/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/wwnbb/opencode.nvim)
 - [jawoznia/opencode.nvim](https://github.com/jawoznia/opencode.nvim) ![](https://img.shields.io/github/stars/jawoznia/opencode.nvim) ![](https://img.shields.io/github/last-commit/jawoznia/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/jawoznia/opencode.nvim)
 - [hansmrtn/openfollow.nvim](https://github.com/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/stars/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/openfollow.nvim)
+- [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
 
 ### khulnasoft
 
@@ -751,6 +752,7 @@
 - [pablopunk/pi.nvim](https://github.com/pablopunk/pi.nvim) ![](https://img.shields.io/github/stars/pablopunk/pi.nvim) ![](https://img.shields.io/github/last-commit/pablopunk/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/pablopunk/pi.nvim)
 - [0xburden/pi.nvim](https://github.com/0xburden/pi.nvim) ![](https://img.shields.io/github/stars/0xburden/pi.nvim) ![](https://img.shields.io/github/last-commit/0xburden/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/0xburden/pi.nvim)
 - [kurochenko/pi.nvim](https://github.com/kurochenko/pi.nvim) ![](https://img.shields.io/github/stars/kurochenko/pi.nvim) ![](https://img.shields.io/github/last-commit/kurochenko/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/kurochenko/pi.nvim)
+- [lanjoni/pi.nvim](https://github.com/lanjoni/pi.nvim) ![](https://img.shields.io/github/stars/lanjoni/pi.nvim) ![](https://img.shields.io/github/last-commit/lanjoni/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/lanjoni/pi.nvim)
 
 ### Amp
 
@@ -882,6 +884,7 @@
 - [rufex/ceibo.nvim](https://github.com/rufex/ceibo.nvim) ![](https://img.shields.io/github/stars/rufex/ceibo.nvim) ![](https://img.shields.io/github/last-commit/rufex/ceibo.nvim) ![](https://img.shields.io/github/commit-activity/y/rufex/ceibo.nvim)
 - [tannaurus/nvim-arbiter](https://github.com/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/stars/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/last-commit/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/commit-activity/y/tannaurus/nvim-arbiter)
 - [Pustelto/nvim-code-review](https://github.com/Pustelto/nvim-code-review) ![](https://img.shields.io/github/stars/Pustelto/nvim-code-review) ![](https://img.shields.io/github/last-commit/Pustelto/nvim-code-review) ![](https://img.shields.io/github/commit-activity/y/Pustelto/nvim-code-review)
+- [68mschmitt/docent.nvim](https://github.com/68mschmitt/docent.nvim) ![](https://img.shields.io/github/stars/68mschmitt/docent.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/docent.nvim)
 
 ## Documentation
 

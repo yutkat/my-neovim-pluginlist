@@ -442,6 +442,7 @@
 - [joelgwebber/yaks.nvim](https://github.com/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/stars/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/yaks.nvim)
 - [tanmayv/tasks.nvim](https://github.com/tanmayv/tasks.nvim) ![](https://img.shields.io/github/stars/tanmayv/tasks.nvim) ![](https://img.shields.io/github/last-commit/tanmayv/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tanmayv/tasks.nvim)
 - [davidelng/shipcop.nvim](https://github.com/davidelng/shipcop.nvim) ![](https://img.shields.io/github/stars/davidelng/shipcop.nvim) ![](https://img.shields.io/github/last-commit/davidelng/shipcop.nvim) ![](https://img.shields.io/github/commit-activity/y/davidelng/shipcop.nvim)
+- [vipul-sharma20/tasks.nvim](https://github.com/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/stars/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/last-commit/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/vipul-sharma20/tasks.nvim)
 
 ### Wiki
 

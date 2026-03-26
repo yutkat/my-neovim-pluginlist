@@ -28,6 +28,7 @@
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
 - [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
 - [ViniiR/nvim-treesitter-extension](https://github.com/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/stars/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/last-commit/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/commit-activity/y/ViniiR/nvim-treesitter-extension)
+- [xvrlang/xvr.nvim](https://github.com/xvrlang/xvr.nvim) ![](https://img.shields.io/github/stars/xvrlang/xvr.nvim) ![](https://img.shields.io/github/last-commit/xvrlang/xvr.nvim) ![](https://img.shields.io/github/commit-activity/y/xvrlang/xvr.nvim)
 
 ### Installer
 
