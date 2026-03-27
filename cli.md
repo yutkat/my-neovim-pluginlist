@@ -213,7 +213,6 @@
 #### asdf
 
 - [mosheavni/asdf.nvim](https://github.com/mosheavni/asdf.nvim) ![](https://img.shields.io/github/stars/mosheavni/asdf.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/asdf.nvim)
-- [bry-guy/asdf.nvim](https://github.com/bry-guy/asdf.nvim) ![](https://img.shields.io/github/stars/bry-guy/asdf.nvim) ![](https://img.shields.io/github/last-commit/bry-guy/asdf.nvim) ![](https://img.shields.io/github/commit-activity/y/bry-guy/asdf.nvim)
 
 #### mise
 
