@@ -392,7 +392,6 @@
 ### Joplin
 
 - [happyeric77/joplin.nvim](https://github.com/happyeric77/joplin.nvim) ![](https://img.shields.io/github/stars/happyeric77/joplin.nvim) ![](https://img.shields.io/github/last-commit/happyeric77/joplin.nvim) ![](https://img.shields.io/github/commit-activity/y/happyeric77/joplin.nvim)
-- [soanseng/joplin-zettel.nvim](https://github.com/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/stars/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/last-commit/soanseng/joplin-zettel.nvim) ![](https://img.shields.io/github/commit-activity/y/soanseng/joplin-zettel.nvim)
 
 ### Apple Notes
 
@@ -634,7 +633,6 @@
 - [manasveer6/scratchpad.nvim](https://github.com/manasveer6/scratchpad.nvim) ![](https://img.shields.io/github/stars/manasveer6/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/manasveer6/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/manasveer6/scratchpad.nvim)
 - [deveshidwivedi/notefloat.nvim](https://github.com/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/stars/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/last-commit/deveshidwivedi/notefloat.nvim) ![](https://img.shields.io/github/commit-activity/y/deveshidwivedi/notefloat.nvim)
 - [phevospan/nabla.nvim](https://github.com/phevospan/nabla.nvim) ![](https://img.shields.io/github/stars/phevospan/nabla.nvim) ![](https://img.shields.io/github/last-commit/phevospan/nabla.nvim) ![](https://img.shields.io/github/commit-activity/y/phevospan/nabla.nvim)
-- [dpi0/doo.nvim](https://github.com/dpi0/doo.nvim) ![](https://img.shields.io/github/stars/dpi0/doo.nvim) ![](https://img.shields.io/github/last-commit/dpi0/doo.nvim) ![](https://img.shields.io/github/commit-activity/y/dpi0/doo.nvim)
 - [JachymPutta/dailies.nvim](https://github.com/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/stars/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/last-commit/JachymPutta/dailies.nvim) ![](https://img.shields.io/github/commit-activity/y/JachymPutta/dailies.nvim)
 - [sunesimonsen/notes.nvim](https://github.com/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/stars/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/last-commit/sunesimonsen/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/sunesimonsen/notes.nvim)
 - [jbgreenh/jibun.nvim](https://github.com/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/stars/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/last-commit/jbgreenh/jibun.nvim) ![](https://img.shields.io/github/commit-activity/y/jbgreenh/jibun.nvim)
