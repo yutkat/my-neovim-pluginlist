@@ -295,6 +295,7 @@
 - [inari111/git-trace.nvim](https://github.com/inari111/git-trace.nvim) ![](https://img.shields.io/github/stars/inari111/git-trace.nvim) ![](https://img.shields.io/github/last-commit/inari111/git-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/inari111/git-trace.nvim)
 - [ervinismu/git-line-blame.nvim](https://github.com/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/stars/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/last-commit/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ervinismu/git-line-blame.nvim)
 - [wshivers93/blame.nvim](https://github.com/wshivers93/blame.nvim) ![](https://img.shields.io/github/stars/wshivers93/blame.nvim) ![](https://img.shields.io/github/last-commit/wshivers93/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/wshivers93/blame.nvim)
+- [rpollard00/gutter-slime.nvim](https://github.com/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/stars/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/gutter-slime.nvim)
 
 ### git log
 

@@ -466,6 +466,8 @@
 - [sophiehicks1/nvim-claude-code](https://github.com/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/stars/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/last-commit/sophiehicks1/nvim-claude-code) ![](https://img.shields.io/github/commit-activity/y/sophiehicks1/nvim-claude-code)
 - [Cannon07/claude-preview.nvim](https://github.com/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/stars/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/last-commit/Cannon07/claude-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Cannon07/claude-preview.nvim)
 - [unixsuperhero/h-claude.nvim](https://github.com/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/h-claude.nvim)
+- [mikehu/chisel.nvim](https://github.com/mikehu/chisel.nvim) ![](https://img.shields.io/github/stars/mikehu/chisel.nvim) ![](https://img.shields.io/github/last-commit/mikehu/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/mikehu/chisel.nvim)
+- [elmomk/cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/stars/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/last-commit/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/elmomk/cc-watcher.nvim)
 
 ### Amazon Q
 
@@ -885,6 +887,7 @@
 - [tannaurus/nvim-arbiter](https://github.com/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/stars/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/last-commit/tannaurus/nvim-arbiter) ![](https://img.shields.io/github/commit-activity/y/tannaurus/nvim-arbiter)
 - [Pustelto/nvim-code-review](https://github.com/Pustelto/nvim-code-review) ![](https://img.shields.io/github/stars/Pustelto/nvim-code-review) ![](https://img.shields.io/github/last-commit/Pustelto/nvim-code-review) ![](https://img.shields.io/github/commit-activity/y/Pustelto/nvim-code-review)
 - [68mschmitt/docent.nvim](https://github.com/68mschmitt/docent.nvim) ![](https://img.shields.io/github/stars/68mschmitt/docent.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/docent.nvim)
+- [okazagi/code-review.nvim](https://github.com/okazagi/code-review.nvim) ![](https://img.shields.io/github/stars/okazagi/code-review.nvim) ![](https://img.shields.io/github/last-commit/okazagi/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/okazagi/code-review.nvim)
 
 ## Documentation
 
@@ -904,6 +907,7 @@
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/stars/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/last-commit/Piotr1215/pairup.nvim) ![](https://img.shields.io/github/commit-activity/y/Piotr1215/pairup.nvim)
 - [jingkaihe/kodelet.nvim](https://github.com/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/stars/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/last-commit/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/commit-activity/y/jingkaihe/kodelet.nvim)
 - [martintrojer/promptly.nvim](https://github.com/martintrojer/promptly.nvim) ![](https://img.shields.io/github/stars/martintrojer/promptly.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/promptly.nvim)
+- [ryanbenney/nvim-ai-pair-programming](https://github.com/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/stars/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/last-commit/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/commit-activity/y/ryanbenney/nvim-ai-pair-programming)
 
 ## Token Count
 

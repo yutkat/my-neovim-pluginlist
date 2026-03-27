@@ -8,6 +8,7 @@
   - [Image Paste](#image-paste)
   - [Image Uploader](#image-uploader)
   - [Screenshot](#screenshot)
+  - [QR Code](#qr-code)
   - [Screen Key (Show Typing key)](#screen-key-show-typing-key)
     - [Code Image](#code-image)
   - [SVG](#svg)
@@ -44,6 +45,7 @@
 - [hmdfrds/focal.nvim](https://github.com/hmdfrds/focal.nvim) ![](https://img.shields.io/github/stars/hmdfrds/focal.nvim) ![](https://img.shields.io/github/last-commit/hmdfrds/focal.nvim) ![](https://img.shields.io/github/commit-activity/y/hmdfrds/focal.nvim)
 - [Luke-McMahon/img.nvim](https://github.com/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/stars/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/last-commit/Luke-McMahon/img.nvim) ![](https://img.shields.io/github/commit-activity/y/Luke-McMahon/img.nvim)
 - [TKasperczyk/snacks-gallery.nvim](https://github.com/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/stars/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/last-commit/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/commit-activity/y/TKasperczyk/snacks-gallery.nvim)
+- [SalarAlo/rndr.nvim](https://github.com/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/stars/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/last-commit/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/commit-activity/y/SalarAlo/rndr.nvim)
 
 ### Image Magick
 
@@ -78,6 +80,10 @@
 - [mistweaverco/snap.nvim](https://github.com/mistweaverco/snap.nvim) ![](https://img.shields.io/github/stars/mistweaverco/snap.nvim) ![](https://img.shields.io/github/last-commit/mistweaverco/snap.nvim) ![](https://img.shields.io/github/commit-activity/y/mistweaverco/snap.nvim)
 - [glyccogen/imprint.nvim](https://github.com/glyccogen/imprint.nvim) ![](https://img.shields.io/github/stars/glyccogen/imprint.nvim) ![](https://img.shields.io/github/last-commit/glyccogen/imprint.nvim) ![](https://img.shields.io/github/commit-activity/y/glyccogen/imprint.nvim)
 - [qq3g7bad/easy-screenshot.nvim](https://github.com/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/easy-screenshot.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/easy-screenshot.nvim)
+
+### QR Code
+
+- [manno/qrencode.nvim](https://github.com/manno/qrencode.nvim) ![](https://img.shields.io/github/stars/manno/qrencode.nvim) ![](https://img.shields.io/github/last-commit/manno/qrencode.nvim) ![](https://img.shields.io/github/commit-activity/y/manno/qrencode.nvim)
 
 ### Screen Key (Show Typing key)
 

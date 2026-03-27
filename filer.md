@@ -138,6 +138,7 @@
 
 - [TimUntersberger/neofs](https://github.com/TimUntersberger/neofs) ![](https://img.shields.io/github/stars/TimUntersberger/neofs) ![](https://img.shields.io/github/last-commit/TimUntersberger/neofs) ![](https://img.shields.io/github/commit-activity/y/TimUntersberger/neofs)
 - [kevinhwang91/rnvimr](https://github.com/kevinhwang91/rnvimr) ![](https://img.shields.io/github/stars/kevinhwang91/rnvimr) ![](https://img.shields.io/github/last-commit/kevinhwang91/rnvimr) ![](https://img.shields.io/github/commit-activity/y/kevinhwang91/rnvimr)
+- [wingitman/listicles.nvim](https://github.com/wingitman/listicles.nvim) ![](https://img.shields.io/github/stars/wingitman/listicles.nvim) ![](https://img.shields.io/github/last-commit/wingitman/listicles.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/listicles.nvim)
 
 ### FuzzyFinder Style
 

@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Database](#database)
+  - [BigQuery](#bigquery)
   - [SQL](#sql)
   - [PostgreSQL](#postgresql)
   - [MySQL](#mysql)
@@ -41,6 +42,10 @@
 - [yuito2k/vault.nvim](https://github.com/yuito2k/vault.nvim) ![](https://img.shields.io/github/stars/yuito2k/vault.nvim) ![](https://img.shields.io/github/last-commit/yuito2k/vault.nvim) ![](https://img.shields.io/github/commit-activity/y/yuito2k/vault.nvim)
 - [zerochae/dbab.nvim](https://github.com/zerochae/dbab.nvim) ![](https://img.shields.io/github/stars/zerochae/dbab.nvim) ![](https://img.shields.io/github/last-commit/zerochae/dbab.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/dbab.nvim)
 - [LeuciRemi/arangodb.nvim](https://github.com/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/stars/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/last-commit/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/commit-activity/y/LeuciRemi/arangodb.nvim)
+
+### BigQuery
+
+- [cnrrobertson/bq.nvim](https://github.com/cnrrobertson/bq.nvim) ![](https://img.shields.io/github/stars/cnrrobertson/bq.nvim) ![](https://img.shields.io/github/last-commit/cnrrobertson/bq.nvim) ![](https://img.shields.io/github/commit-activity/y/cnrrobertson/bq.nvim)
 
 ### SQL
 
