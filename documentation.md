@@ -318,6 +318,7 @@
 - [paulsonkoly/adjust-table.nvim](https://github.com/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/stars/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/last-commit/paulsonkoly/adjust-table.nvim) ![](https://img.shields.io/github/commit-activity/y/paulsonkoly/adjust-table.nvim)
 - [sh1Nome/md-table-align.nvim](https://github.com/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/stars/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/md-table-align.nvim)
 - [pupepa/make-table.nvim](https://github.com/pupepa/make-table.nvim) ![](https://img.shields.io/github/stars/pupepa/make-table.nvim) ![](https://img.shields.io/github/last-commit/pupepa/make-table.nvim) ![](https://img.shields.io/github/commit-activity/y/pupepa/make-table.nvim)
+- [svm-zhang/sheetdown.nvim](https://github.com/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/stars/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/last-commit/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/commit-activity/y/svm-zhang/sheetdown.nvim)
 
 #### Frontmatter
 

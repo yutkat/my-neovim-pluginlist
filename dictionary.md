@@ -32,6 +32,7 @@
 - [whtsht/cursor-dictionary.nvim](https://github.com/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/stars/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/last-commit/whtsht/cursor-dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/whtsht/cursor-dictionary.nvim)
 - [jovielarue/wordnet.nvim](https://github.com/jovielarue/wordnet.nvim) ![](https://img.shields.io/github/stars/jovielarue/wordnet.nvim) ![](https://img.shields.io/github/last-commit/jovielarue/wordnet.nvim) ![](https://img.shields.io/github/commit-activity/y/jovielarue/wordnet.nvim)
 - [andrewwillette/dictionary.nvim](https://github.com/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/stars/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/dictionary.nvim)
+- [andy12241025/mdict.nvim](https://github.com/andy12241025/mdict.nvim) ![](https://img.shields.io/github/stars/andy12241025/mdict.nvim) ![](https://img.shields.io/github/last-commit/andy12241025/mdict.nvim) ![](https://img.shields.io/github/commit-activity/y/andy12241025/mdict.nvim)
 
 ## Pronunce
 

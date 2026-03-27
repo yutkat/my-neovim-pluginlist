@@ -391,6 +391,7 @@
 
 # db.md
 ## Database
+### BigQuery
 ### SQL
 ### PostgreSQL
 ### MySQL
@@ -784,6 +785,7 @@
 ### Image Paste
 ### Image Uploader
 ### Screenshot
+### QR Code
 ### Screen Key (Show Typing key)
 #### Code Image
 ### SVG
@@ -1073,6 +1075,7 @@
 #### Promela
 #### Move
 #### MQL
+#### XVR
 #### Gno
 #### Gox
 #### Agda
