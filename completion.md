@@ -118,6 +118,7 @@
 - [Kaiser-Yang/blink-cmp-avante](https://github.com/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/stars/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/last-commit/Kaiser-Yang/blink-cmp-avante) ![](https://img.shields.io/github/commit-activity/y/Kaiser-Yang/blink-cmp-avante)
 - [xieyonn/blink-cmp-dat-word](https://github.com/xieyonn/blink-cmp-dat-word) ![](https://img.shields.io/github/stars/xieyonn/blink-cmp-dat-word) ![](https://img.shields.io/github/last-commit/xieyonn/blink-cmp-dat-word) ![](https://img.shields.io/github/commit-activity/y/xieyonn/blink-cmp-dat-word)
 - [DrSh4dow/blink-ai.nvim](https://github.com/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/stars/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/last-commit/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/DrSh4dow/blink-ai.nvim)
+- [yaocccc/blink-cmp-cmdlinehistory](https://github.com/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/stars/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/last-commit/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/commit-activity/y/yaocccc/blink-cmp-cmdlinehistory)
 
 ### Auto Completion support
 
