@@ -823,7 +823,6 @@
 - [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/stars/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/last-commit/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/cursor-inline)
 - [h4kbas/cursor.nvim](https://github.com/h4kbas/cursor.nvim) ![](https://img.shields.io/github/stars/h4kbas/cursor.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/cursor.nvim)
 - [BenGu3/cursor-tab.nvim](https://github.com/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/stars/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/last-commit/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/BenGu3/cursor-tab.nvim)
-- [huylg/cursor-agent.nvim](https://github.com/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/stars/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/last-commit/huylg/cursor-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/huylg/cursor-agent.nvim)
 
 ## Kiro
 
