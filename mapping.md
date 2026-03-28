@@ -100,6 +100,7 @@
 ### Remap
 
 - [codescovery/lazy-remap.nvim](https://github.com/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/stars/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/last-commit/codescovery/lazy-remap.nvim) ![](https://img.shields.io/github/commit-activity/y/codescovery/lazy-remap.nvim)
+- [meerkat-b/remapper.nvim](https://github.com/meerkat-b/remapper.nvim) ![](https://img.shields.io/github/stars/meerkat-b/remapper.nvim) ![](https://img.shields.io/github/last-commit/meerkat-b/remapper.nvim) ![](https://img.shields.io/github/commit-activity/y/meerkat-b/remapper.nvim)
 
 ### Remove default
 

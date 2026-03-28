@@ -38,6 +38,7 @@
 - [jackplus-xyz/player-one.nvim](https://github.com/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/stars/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/last-commit/jackplus-xyz/player-one.nvim) ![](https://img.shields.io/github/commit-activity/y/jackplus-xyz/player-one.nvim)
 - [KeithETruesdell/combo-mode.nvim](https://github.com/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/stars/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/last-commit/KeithETruesdell/combo-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/KeithETruesdell/combo-mode.nvim)
 - [thevahidal/deej.nvim](https://github.com/thevahidal/deej.nvim) ![](https://img.shields.io/github/stars/thevahidal/deej.nvim) ![](https://img.shields.io/github/last-commit/thevahidal/deej.nvim) ![](https://img.shields.io/github/commit-activity/y/thevahidal/deej.nvim)
+- [numen-0/jab.nvim](https://github.com/numen-0/jab.nvim) ![](https://img.shields.io/github/stars/numen-0/jab.nvim) ![](https://img.shields.io/github/last-commit/numen-0/jab.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/jab.nvim)
 
 ### event sound
 

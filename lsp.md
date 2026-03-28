@@ -384,6 +384,7 @@
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
 - [rebelopsio/boundary.nvim](https://github.com/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/stars/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/last-commit/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelopsio/boundary.nvim)
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
+- [LTX-GOD/zsm-sagemath-lsp.nvim](https://github.com/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/stars/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/last-commit/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/LTX-GOD/zsm-sagemath-lsp.nvim)
 
 ## Pre-configuration
 

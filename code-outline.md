@@ -42,6 +42,7 @@
 - [FABLOUSFALCON/go-pkg-outline.nvim](https://github.com/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/stars/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/last-commit/FABLOUSFALCON/go-pkg-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/FABLOUSFALCON/go-pkg-outline.nvim)
 - [abhipranay/argus.nvim](https://github.com/abhipranay/argus.nvim) ![](https://img.shields.io/github/stars/abhipranay/argus.nvim) ![](https://img.shields.io/github/last-commit/abhipranay/argus.nvim) ![](https://img.shields.io/github/commit-activity/y/abhipranay/argus.nvim)
 - [religiosa1/tsoutline.nvim](https://github.com/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/stars/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/last-commit/religiosa1/tsoutline.nvim) ![](https://img.shields.io/github/commit-activity/y/religiosa1/tsoutline.nvim)
+- [hl037/outlineasy.nvim](https://github.com/hl037/outlineasy.nvim) ![](https://img.shields.io/github/stars/hl037/outlineasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/outlineasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/outlineasy.nvim)
 
 ## Definition
 
@@ -69,6 +70,7 @@
 - [mhiro2/code-shape.nvim](https://github.com/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/stars/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/last-commit/mhiro2/code-shape.nvim) ![](https://img.shields.io/github/commit-activity/y/mhiro2/code-shape.nvim)
 - [Sackbuoy/goto-caller.nvim](https://github.com/Sackbuoy/goto-caller.nvim) ![](https://img.shields.io/github/stars/Sackbuoy/goto-caller.nvim) ![](https://img.shields.io/github/last-commit/Sackbuoy/goto-caller.nvim) ![](https://img.shields.io/github/commit-activity/y/Sackbuoy/goto-caller.nvim)
 - [jiangyinzuo/neo-tree-hierarchy.nvim](https://github.com/jiangyinzuo/neo-tree-hierarchy.nvim) ![](https://img.shields.io/github/stars/jiangyinzuo/neo-tree-hierarchy.nvim) ![](https://img.shields.io/github/last-commit/jiangyinzuo/neo-tree-hierarchy.nvim) ![](https://img.shields.io/github/commit-activity/y/jiangyinzuo/neo-tree-hierarchy.nvim)
+- [iryan2/usages.nvim](https://github.com/iryan2/usages.nvim) ![](https://img.shields.io/github/stars/iryan2/usages.nvim) ![](https://img.shields.io/github/last-commit/iryan2/usages.nvim) ![](https://img.shields.io/github/commit-activity/y/iryan2/usages.nvim)
 
 ## Type Hierarchy
 

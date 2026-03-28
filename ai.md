@@ -309,6 +309,7 @@
 - [finnff/nvim-prompt-refine](https://github.com/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/stars/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/last-commit/finnff/nvim-prompt-refine) ![](https://img.shields.io/github/commit-activity/y/finnff/nvim-prompt-refine)
 - [blmayer/tai](https://github.com/blmayer/tai) ![](https://img.shields.io/github/stars/blmayer/tai) ![](https://img.shields.io/github/last-commit/blmayer/tai) ![](https://img.shields.io/github/commit-activity/y/blmayer/tai)
 - [isacssw/canopy.nvim](https://github.com/isacssw/canopy.nvim) ![](https://img.shields.io/github/stars/isacssw/canopy.nvim) ![](https://img.shields.io/github/last-commit/isacssw/canopy.nvim) ![](https://img.shields.io/github/commit-activity/y/isacssw/canopy.nvim)
+- [cjvnjde/ai-provider.nvim](https://github.com/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-provider.nvim)
 
 #### crush
 
@@ -688,6 +689,7 @@
 ### Claude
 
 - [spencerjireh/bonk.nvim](https://github.com/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/stars/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/last-commit/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/commit-activity/y/spencerjireh/bonk.nvim)
+- [goropikari/claude-completion.nvim](https://github.com/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/claude-completion.nvim)
 
 ### Copilot
 
@@ -784,6 +786,7 @@
 - [wsdjeg/chat.nvim](https://github.com/wsdjeg/chat.nvim) ![](https://img.shields.io/github/stars/wsdjeg/chat.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/chat.nvim)
 - [herschel21/nvim-chat-ai](https://github.com/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/stars/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat-ai)
 - [benjaminyakobi/chat.nvim](https://github.com/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/stars/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/last-commit/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminyakobi/chat.nvim)
+- [68mschmitt/ai-chat.nvim](https://github.com/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/stars/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/ai-chat.nvim)
 
 ## AI Terminal
 
@@ -838,6 +841,7 @@
   - [Davidyz/codecompanion-dap.nvim](https://github.com/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/stars/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/last-commit/Davidyz/codecompanion-dap.nvim) ![](https://img.shields.io/github/commit-activity/y/Davidyz/codecompanion-dap.nvim)
   - [dyamon/codecompanion-filewise.nvim](https://github.com/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-filewise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-filewise.nvim)
   - [viespejo/codecompanion-filewise.nvim](https://github.com/viespejo/codecompanion-filewise.nvim) ![](https://img.shields.io/github/stars/viespejo/codecompanion-filewise.nvim) ![](https://img.shields.io/github/last-commit/viespejo/codecompanion-filewise.nvim) ![](https://img.shields.io/github/commit-activity/y/viespejo/codecompanion-filewise.nvim)
+  - [mrjones2014/codecompanion-ui.nvim](https://github.com/mrjones2014/codecompanion-ui.nvim) ![](https://img.shields.io/github/stars/mrjones2014/codecompanion-ui.nvim) ![](https://img.shields.io/github/last-commit/mrjones2014/codecompanion-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/mrjones2014/codecompanion-ui.nvim)
   - [bassamsdata/fs-monitor.nvim](https://github.com/bassamsdata/fs-monitor.nvim) ![](https://img.shields.io/github/stars/bassamsdata/fs-monitor.nvim) ![](https://img.shields.io/github/last-commit/bassamsdata/fs-monitor.nvim) ![](https://img.shields.io/github/commit-activity/y/bassamsdata/fs-monitor.nvim)
   - [ras0q/codecompanion-wakatime.nvim](https://github.com/ras0q/codecompanion-wakatime.nvim) ![](https://img.shields.io/github/stars/ras0q/codecompanion-wakatime.nvim) ![](https://img.shields.io/github/last-commit/ras0q/codecompanion-wakatime.nvim) ![](https://img.shields.io/github/commit-activity/y/ras0q/codecompanion-wakatime.nvim)
   - [viespejo/cc-adapter-gemini-code-assist.nvim](https://github.com/viespejo/cc-adapter-gemini-code-assist.nvim) ![](https://img.shields.io/github/stars/viespejo/cc-adapter-gemini-code-assist.nvim) ![](https://img.shields.io/github/last-commit/viespejo/cc-adapter-gemini-code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/viespejo/cc-adapter-gemini-code-assist.nvim)
