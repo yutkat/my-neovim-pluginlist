@@ -244,6 +244,7 @@
 - [bosvik/roslyn-diagnostics.nvim](https://github.com/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/stars/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/bosvik/roslyn-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/bosvik/roslyn-diagnostics.nvim)
 - [leblocks/hopcsharp.nvim](https://github.com/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/commit-activity/y/leblocks/hopcsharp.nvim)
 - [TheAjaykrishnanR/nvim-csharp-runner](https://github.com/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/stars/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/last-commit/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/commit-activity/y/TheAjaykrishnanR/nvim-csharp-runner)
+- [MertzAndreas/roslyn-kit.nvim](https://github.com/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/stars/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/last-commit/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/MertzAndreas/roslyn-kit.nvim)
 
 ##### Compile
 

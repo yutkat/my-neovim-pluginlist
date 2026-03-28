@@ -154,6 +154,7 @@
 - [joCaldwell/neovim-docker-python-interpreter.nvim](https://github.com/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/stars/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/last-commit/joCaldwell/neovim-docker-python-interpreter.nvim) ![](https://img.shields.io/github/commit-activity/y/joCaldwell/neovim-docker-python-interpreter.nvim)
 - [segoon/yamake-python-lspconfig.nvim](https://github.com/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/stars/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/last-commit/segoon/yamake-python-lspconfig.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/yamake-python-lspconfig.nvim)
 - [Jay-Madden/tylsp-pep723.nvim](https://github.com/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/stars/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/last-commit/Jay-Madden/tylsp-pep723.nvim) ![](https://img.shields.io/github/commit-activity/y/Jay-Madden/tylsp-pep723.nvim)
+- [LTX-GOD/zsm-sagemath-lsp.nvim](https://github.com/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/stars/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/last-commit/LTX-GOD/zsm-sagemath-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/LTX-GOD/zsm-sagemath-lsp.nvim)
 
 #### inlayhint
 

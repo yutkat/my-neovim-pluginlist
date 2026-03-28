@@ -243,6 +243,7 @@
 - [ajatdarojat45/commitmate.nvim](https://github.com/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/stars/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/last-commit/ajatdarojat45/commitmate.nvim) ![](https://img.shields.io/github/commit-activity/y/ajatdarojat45/commitmate.nvim)
 - [chmouel/gitcommitai.nvim](https://github.com/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/stars/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/last-commit/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/commit-activity/y/chmouel/gitcommitai.nvim)
 - [jinzhongjia/ai-gitcommit.nvim](https://github.com/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/ai-gitcommit.nvim)
+- [cjvnjde/ai-split-commit.nvim](https://github.com/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-split-commit.nvim)
 
 ### git fetch
 
@@ -462,6 +463,7 @@
 - [jack-work/tree-bear.nvim](https://github.com/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/stars/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/last-commit/jack-work/tree-bear.nvim) ![](https://img.shields.io/github/commit-activity/y/jack-work/tree-bear.nvim)
 - [gsilvapt/neotrees.nvim](https://github.com/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/stars/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/last-commit/gsilvapt/neotrees.nvim) ![](https://img.shields.io/github/commit-activity/y/gsilvapt/neotrees.nvim)
 - [Geromendez135/worktree-manager.nvim](https://github.com/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/stars/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/last-commit/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Geromendez135/worktree-manager.nvim)
+- [vinicius507/worktrunk.nvim](https://github.com/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/stars/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/vinicius507/worktrunk.nvim)
 
 ### submodule
 

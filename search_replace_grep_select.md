@@ -292,6 +292,7 @@
 - [wsdjeg/iedit.nvim](https://github.com/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/stars/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/iedit.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/iedit.nvim)
 - [khoido2003/multiple-cursor.nvim](https://github.com/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/stars/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/last-commit/khoido2003/multiple-cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/khoido2003/multiple-cursor.nvim)
 - [superNGA/AlignEm.nvim](https://github.com/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/stars/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/last-commit/superNGA/AlignEm.nvim) ![](https://img.shields.io/github/commit-activity/y/superNGA/AlignEm.nvim)
+- [sndrummer/phantom-cursors.nvim](https://github.com/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/stars/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/last-commit/sndrummer/phantom-cursors.nvim) ![](https://img.shields.io/github/commit-activity/y/sndrummer/phantom-cursors.nvim)
 
 ### Incremental selection
 

@@ -376,6 +376,8 @@
 - [damianpoole/obsidian-stats.nvim](https://github.com/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/stars/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/last-commit/damianpoole/obsidian-stats.nvim) ![](https://img.shields.io/github/commit-activity/y/damianpoole/obsidian-stats.nvim)
 - [Ausmosian/obsidian-render.nvim](https://github.com/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/stars/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/last-commit/Ausmosian/obsidian-render.nvim) ![](https://img.shields.io/github/commit-activity/y/Ausmosian/obsidian-render.nvim)
 - [Andrew-42/obsidian-calendar.nvim](https://github.com/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/stars/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/last-commit/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/Andrew-42/obsidian-calendar.nvim)
+- [Davi-S/nvim-obsidian](https://github.com/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/stars/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/last-commit/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/commit-activity/y/Davi-S/nvim-obsidian)
+- [JulianDeclercq/obsidian-cli.nvim](https://github.com/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/stars/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/last-commit/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianDeclercq/obsidian-cli.nvim)
 
 ### Logseq
 
