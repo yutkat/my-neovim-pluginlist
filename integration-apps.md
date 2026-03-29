@@ -10,6 +10,7 @@
     - [Multi IDE](#multi-ide)
   - [JetBrains](#jetbrains)
   - [Jira](#jira)
+  - [Feishu](#feishu)
   - [Zed](#zed)
   - [Desktop Integration](#desktop-integration)
   - [Blockchain](#blockchain)
@@ -124,6 +125,10 @@
 
 - [sbulav/jira-oil.nvim](https://github.com/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/stars/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/last-commit/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/jira-oil.nvim)
 - [tobiaswadsethdev/anvil.nvim](https://github.com/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/stars/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/last-commit/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaswadsethdev/anvil.nvim)
+
+### Feishu
+
+- [chijw/feishu.nvim](https://github.com/chijw/feishu.nvim) ![](https://img.shields.io/github/stars/chijw/feishu.nvim) ![](https://img.shields.io/github/last-commit/chijw/feishu.nvim) ![](https://img.shields.io/github/commit-activity/y/chijw/feishu.nvim)
 
 ### Zed
 
@@ -277,6 +282,7 @@
 - [georgesnoe/lazykube.nvim](https://github.com/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazykube.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazykube.nvim)
 - [skanehira/k8s.nvim](https://github.com/skanehira/k8s.nvim) ![](https://img.shields.io/github/stars/skanehira/k8s.nvim) ![](https://img.shields.io/github/last-commit/skanehira/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/k8s.nvim)
 - [dahol/k8s.nvim](https://github.com/dahol/k8s.nvim) ![](https://img.shields.io/github/stars/dahol/k8s.nvim) ![](https://img.shields.io/github/last-commit/dahol/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/dahol/k8s.nvim)
+- [Sironheart/kube_yaml_schema.nvim](https://github.com/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/stars/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/last-commit/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sironheart/kube_yaml_schema.nvim)
 
 #### VPN
 

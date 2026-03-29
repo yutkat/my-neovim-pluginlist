@@ -322,6 +322,7 @@
 #### Frontmatter
 
 - [tkancf/telescope-markdown-frontmatter.nvim](https://github.com/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/stars/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/last-commit/tkancf/telescope-markdown-frontmatter.nvim) ![](https://img.shields.io/github/commit-activity/y/tkancf/telescope-markdown-frontmatter.nvim)
+- [LetsDrinkSomeTea/md-autofm.nvim](https://github.com/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/stars/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/last-commit/LetsDrinkSomeTea/md-autofm.nvim) ![](https://img.shields.io/github/commit-activity/y/LetsDrinkSomeTea/md-autofm.nvim)
 
 #### footnote
 

@@ -113,6 +113,7 @@
 - [vladevelops/gtestler.nvim](https://github.com/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/stars/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/last-commit/vladevelops/gtestler.nvim) ![](https://img.shields.io/github/commit-activity/y/vladevelops/gtestler.nvim)
 - [stroiman/gotest.nvim](https://github.com/stroiman/gotest.nvim) ![](https://img.shields.io/github/stars/stroiman/gotest.nvim) ![](https://img.shields.io/github/last-commit/stroiman/gotest.nvim) ![](https://img.shields.io/github/commit-activity/y/stroiman/gotest.nvim)
 - [AEKDA/minimock.nvim](https://github.com/AEKDA/minimock.nvim) ![](https://img.shields.io/github/stars/AEKDA/minimock.nvim) ![](https://img.shields.io/github/last-commit/AEKDA/minimock.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKDA/minimock.nvim)
+- [sukhjit/go-test-runner.nvim](https://github.com/sukhjit/go-test-runner.nvim) ![](https://img.shields.io/github/stars/sukhjit/go-test-runner.nvim) ![](https://img.shields.io/github/last-commit/sukhjit/go-test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/sukhjit/go-test-runner.nvim)
 
 #### Test file
 

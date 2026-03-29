@@ -47,8 +47,10 @@
   - [flow](#flow)
   - [Wrapper](#wrapper)
 - [Darcs](#darcs)
+- [Fossil](#fossil)
 - [Jujutsu(jj)](#jujutsujj)
   - [diff](#diff)
+- [Mercurial](#mercurial)
 - [Sage](#sage)
 - [GitHub](#github)
   - [Features like gh](#features-like-gh)
@@ -297,6 +299,7 @@
 - [ervinismu/git-line-blame.nvim](https://github.com/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/stars/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/last-commit/ervinismu/git-line-blame.nvim) ![](https://img.shields.io/github/commit-activity/y/ervinismu/git-line-blame.nvim)
 - [wshivers93/blame.nvim](https://github.com/wshivers93/blame.nvim) ![](https://img.shields.io/github/stars/wshivers93/blame.nvim) ![](https://img.shields.io/github/last-commit/wshivers93/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/wshivers93/blame.nvim)
 - [rpollard00/gutter-slime.nvim](https://github.com/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/stars/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/gutter-slime.nvim)
+- [takeshiD/hover-git.nvim](https://github.com/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/stars/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/hover-git.nvim)
 
 ### git log
 
@@ -505,6 +508,7 @@
 - [omarcresp/smart-flow.nvim](https://github.com/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/stars/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/last-commit/omarcresp/smart-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/omarcresp/smart-flow.nvim)
 - [vsyaco/git-workflow.nvim](https://github.com/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/stars/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/git-workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/git-workflow.nvim)
 - [abosnjakovic/gitbutler.nvim](https://github.com/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/gitbutler.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/gitbutler.nvim)
+- [barrettruth/forge.nvim](https://github.com/barrettruth/forge.nvim) ![](https://img.shields.io/github/stars/barrettruth/forge.nvim) ![](https://img.shields.io/github/last-commit/barrettruth/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/barrettruth/forge.nvim)
 
 ### Wrapper
 
@@ -513,6 +517,10 @@
 ## Darcs
 
 - [Eiko-Tokura/darcssigns.nvim](https://github.com/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/stars/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/last-commit/Eiko-Tokura/darcssigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Eiko-Tokura/darcssigns.nvim)
+
+## Fossil
+
+- [wow12345678/fossil.nvim](https://github.com/wow12345678/fossil.nvim) ![](https://img.shields.io/github/stars/wow12345678/fossil.nvim) ![](https://img.shields.io/github/last-commit/wow12345678/fossil.nvim) ![](https://img.shields.io/github/commit-activity/y/wow12345678/fossil.nvim)
 
 ## Jujutsu(jj)
 
@@ -548,6 +556,10 @@
 ### diff
 
 - [julienvincent/hunk.nvim](https://github.com/julienvincent/hunk.nvim) ![](https://img.shields.io/github/stars/julienvincent/hunk.nvim) ![](https://img.shields.io/github/last-commit/julienvincent/hunk.nvim) ![](https://img.shields.io/github/commit-activity/y/julienvincent/hunk.nvim)
+
+## Mercurial
+
+- [cavanaug/hgsigns.nvim](https://github.com/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/stars/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/hgsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/hgsigns.nvim)
 
 ## Sage
 

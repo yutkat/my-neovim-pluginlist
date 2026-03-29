@@ -168,6 +168,7 @@
 - [DivAgarwal1/easy-cmake.nvim](https://github.com/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/stars/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/last-commit/DivAgarwal1/easy-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/DivAgarwal1/easy-cmake.nvim)
 - [thefoxery/cmake.nvim](https://github.com/thefoxery/cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/cmake.nvim)
 - [thefoxery/telescope-cmake.nvim](https://github.com/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/telescope-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/telescope-cmake.nvim)
+- [martuscellifaria/ahoicpp.nvim](https://github.com/martuscellifaria/ahoicpp.nvim) ![](https://img.shields.io/github/stars/martuscellifaria/ahoicpp.nvim) ![](https://img.shields.io/github/last-commit/martuscellifaria/ahoicpp.nvim) ![](https://img.shields.io/github/commit-activity/y/martuscellifaria/ahoicpp.nvim)
 - [thefoxery/lualine-cmake.nvim](https://github.com/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/stars/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/last-commit/thefoxery/lualine-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/thefoxery/lualine-cmake.nvim)
 - [mbfoss/loop-cmake.nvim](https://github.com/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/stars/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/loop-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/loop-cmake.nvim)
 - [nocis/cmakebuild.nvim](https://github.com/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/stars/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/last-commit/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/cmakebuild.nvim)
@@ -226,6 +227,8 @@
 - [dlyongemallo/valgrind.nvim](https://github.com/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/valgrind.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/valgrind.nvim)
 
 ### OpenMP
+
+- [abhinavgaba/omp-maptype-info.nvim](https://github.com/abhinavgaba/omp-maptype-info.nvim) ![](https://img.shields.io/github/stars/abhinavgaba/omp-maptype-info.nvim) ![](https://img.shields.io/github/last-commit/abhinavgaba/omp-maptype-info.nvim) ![](https://img.shields.io/github/commit-activity/y/abhinavgaba/omp-maptype-info.nvim)
 
 ### Header
 
