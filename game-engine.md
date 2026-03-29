@@ -7,6 +7,7 @@
   - [Unreal](#unreal)
   - [Godot](#godot)
   - [Roblox studio](#roblox-studio)
+  - [Mythic GME](#mythic-gme)
   - [Garry's Mod](#garrys-mod)
   - [Bevy](#bevy)
   - [UEFN Verse](#uefn-verse)
@@ -69,6 +70,10 @@
 - [ShouxTech/rojo.nvim](https://github.com/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/stars/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/last-commit/ShouxTech/rojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ShouxTech/rojo.nvim)
 - [sweetboss12512/rbx-ui-autocomplete.nvim](https://github.com/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/stars/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/last-commit/sweetboss12512/rbx-ui-autocomplete.nvim) ![](https://img.shields.io/github/commit-activity/y/sweetboss12512/rbx-ui-autocomplete.nvim)
 - [weeaboo/datastores.nvim](https://github.com/weeaboo/datastores.nvim) ![](https://img.shields.io/github/stars/weeaboo/datastores.nvim) ![](https://img.shields.io/github/last-commit/weeaboo/datastores.nvim) ![](https://img.shields.io/github/commit-activity/y/weeaboo/datastores.nvim)
+
+### Mythic GME
+
+- [Django0033/mythic.nvim](https://github.com/Django0033/mythic.nvim) ![](https://img.shields.io/github/stars/Django0033/mythic.nvim) ![](https://img.shields.io/github/last-commit/Django0033/mythic.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/mythic.nvim)
 
 ### Garry's Mod
 
