@@ -10,7 +10,6 @@
     - [Multi IDE](#multi-ide)
   - [JetBrains](#jetbrains)
   - [Jira](#jira)
-  - [Feishu](#feishu)
   - [Zed](#zed)
   - [Desktop Integration](#desktop-integration)
   - [Blockchain](#blockchain)
@@ -125,10 +124,6 @@
 
 - [sbulav/jira-oil.nvim](https://github.com/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/stars/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/last-commit/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/jira-oil.nvim)
 - [tobiaswadsethdev/anvil.nvim](https://github.com/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/stars/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/last-commit/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaswadsethdev/anvil.nvim)
-
-### Feishu
-
-- [chijw/feishu.nvim](https://github.com/chijw/feishu.nvim) ![](https://img.shields.io/github/stars/chijw/feishu.nvim) ![](https://img.shields.io/github/last-commit/chijw/feishu.nvim) ![](https://img.shields.io/github/commit-activity/y/chijw/feishu.nvim)
 
 ### Zed
 
