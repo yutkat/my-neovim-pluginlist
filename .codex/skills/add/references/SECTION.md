@@ -651,8 +651,10 @@
 ### flow
 ### Wrapper
 ## Darcs
+## Fossil
 ## Jujutsu(jj)
 ### diff
+## Mercurial
 ## Sage
 ## GitHub
 ### Features like gh
@@ -812,6 +814,7 @@
 #### Multi IDE
 ### JetBrains
 ### Jira
+### Feishu
 ### Zed
 ### Desktop Integration
 ### Blockchain
