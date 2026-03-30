@@ -2,7 +2,7 @@ name: Check Markdown links
 
 on:
   pull_request:
-    types: [opened, review_requested, reopened]
+    types: [opened, reopened]
 
 jobs:
   github:
