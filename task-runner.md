@@ -29,6 +29,8 @@
 
 ## Task Runner
 
+- [blm34/code-runner.nvim](https://github.com/blm34/code-runner.nvim) ![](https://img.shields.io/github/stars/blm34/code-runner.nvim) ![](https://img.shields.io/github/last-commit/blm34/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/blm34/code-runner.nvim)
+
 ### Config file style
 
 #### JSON

@@ -583,6 +583,7 @@
 ### Unreal
 ### Godot
 ### Roblox studio
+### Mythic GME
 ### Garry's Mod
 ### Bevy
 ### UEFN Verse
@@ -814,7 +815,6 @@
 #### Multi IDE
 ### JetBrains
 ### Jira
-### Feishu
 ### Zed
 ### Desktop Integration
 ### Blockchain

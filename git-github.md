@@ -246,6 +246,7 @@
 - [chmouel/gitcommitai.nvim](https://github.com/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/stars/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/last-commit/chmouel/gitcommitai.nvim) ![](https://img.shields.io/github/commit-activity/y/chmouel/gitcommitai.nvim)
 - [jinzhongjia/ai-gitcommit.nvim](https://github.com/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/ai-gitcommit.nvim)
 - [cjvnjde/ai-split-commit.nvim](https://github.com/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-split-commit.nvim)
+- [Jannik-Schroeder/commitgen.nvim](https://github.com/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/stars/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/last-commit/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/Jannik-Schroeder/commitgen.nvim)
 
 ### git fetch
 
@@ -300,6 +301,7 @@
 - [wshivers93/blame.nvim](https://github.com/wshivers93/blame.nvim) ![](https://img.shields.io/github/stars/wshivers93/blame.nvim) ![](https://img.shields.io/github/last-commit/wshivers93/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/wshivers93/blame.nvim)
 - [rpollard00/gutter-slime.nvim](https://github.com/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/stars/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/gutter-slime.nvim)
 - [takeshiD/hover-git.nvim](https://github.com/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/stars/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/hover-git.nvim)
+- [kuzb/blame.nvim](https://github.com/kuzb/blame.nvim) ![](https://img.shields.io/github/stars/kuzb/blame.nvim) ![](https://img.shields.io/github/last-commit/kuzb/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/blame.nvim)
 
 ### git log
 
@@ -413,6 +415,7 @@
 
 - [cszczepaniak/git-lb.nvim](https://github.com/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/git-lb.nvim)
 - [mrloop/telescope-git-branch.nvim](https://github.com/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrloop/telescope-git-branch.nvim)
+- [aclCMNK/git_locker.nvim](https://github.com/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/stars/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/git_locker.nvim)
 
 ### gitignore
 
@@ -552,6 +555,7 @@
 - [micahbf/maju.nvim](https://github.com/micahbf/maju.nvim) ![](https://img.shields.io/github/stars/micahbf/maju.nvim) ![](https://img.shields.io/github/last-commit/micahbf/maju.nvim) ![](https://img.shields.io/github/commit-activity/y/micahbf/maju.nvim)
 - [NicholasZolton/neojj](https://github.com/NicholasZolton/neojj) ![](https://img.shields.io/github/stars/NicholasZolton/neojj) ![](https://img.shields.io/github/last-commit/NicholasZolton/neojj) ![](https://img.shields.io/github/commit-activity/y/NicholasZolton/neojj)
 - [ATTron/dojo.nvim](https://github.com/ATTron/dojo.nvim) ![](https://img.shields.io/github/stars/ATTron/dojo.nvim) ![](https://img.shields.io/github/last-commit/ATTron/dojo.nvim) ![](https://img.shields.io/github/commit-activity/y/ATTron/dojo.nvim)
+- [EzraCerpac/jj-waltz.nvim](https://github.com/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/stars/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/last-commit/EzraCerpac/jj-waltz.nvim) ![](https://img.shields.io/github/commit-activity/y/EzraCerpac/jj-waltz.nvim)
 
 ### diff
 

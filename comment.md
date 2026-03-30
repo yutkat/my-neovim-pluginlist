@@ -105,6 +105,7 @@
 - [georgeharker/comment-tasks.nvim](https://github.com/georgeharker/comment-tasks.nvim) ![](https://img.shields.io/github/stars/georgeharker/comment-tasks.nvim) ![](https://img.shields.io/github/last-commit/georgeharker/comment-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/georgeharker/comment-tasks.nvim)
 - [anmomu92/taskman.nvim](https://github.com/anmomu92/taskman.nvim) ![](https://img.shields.io/github/stars/anmomu92/taskman.nvim) ![](https://img.shields.io/github/last-commit/anmomu92/taskman.nvim) ![](https://img.shields.io/github/commit-activity/y/anmomu92/taskman.nvim)
 - [nico-nunez/remind-meh.nvim](https://github.com/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/stars/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/last-commit/nico-nunez/remind-meh.nvim) ![](https://img.shields.io/github/commit-activity/y/nico-nunez/remind-meh.nvim)
+- [roshanlimbu/todo.nvim](https://github.com/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/stars/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/last-commit/roshanlimbu/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/roshanlimbu/todo.nvim)
 
 ## Todo Comment Highlight
 
