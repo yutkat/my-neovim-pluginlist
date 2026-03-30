@@ -166,6 +166,7 @@
 - [sergiogallegos/luca.nvim](https://github.com/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/stars/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/last-commit/sergiogallegos/luca.nvim) ![](https://img.shields.io/github/commit-activity/y/sergiogallegos/luca.nvim)
 - [TenzinPlatter/nvim-llm-request](https://github.com/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/stars/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/last-commit/TenzinPlatter/nvim-llm-request) ![](https://img.shields.io/github/commit-activity/y/TenzinPlatter/nvim-llm-request)
 - [whleucka/bodybuilder.nvim](https://github.com/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/stars/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/last-commit/whleucka/bodybuilder.nvim) ![](https://img.shields.io/github/commit-activity/y/whleucka/bodybuilder.nvim)
+- [mamachanko/prompt.nvim](https://github.com/mamachanko/prompt.nvim) ![](https://img.shields.io/github/stars/mamachanko/prompt.nvim) ![](https://img.shields.io/github/last-commit/mamachanko/prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/mamachanko/prompt.nvim)
 
 #### Codex
 
@@ -686,6 +687,7 @@
 - [orellazri/corridor.nvim](https://github.com/orellazri/corridor.nvim) ![](https://img.shields.io/github/stars/orellazri/corridor.nvim) ![](https://img.shields.io/github/last-commit/orellazri/corridor.nvim) ![](https://img.shields.io/github/commit-activity/y/orellazri/corridor.nvim)
 - [penczak/llama-line.nvim](https://github.com/penczak/llama-line.nvim) ![](https://img.shields.io/github/stars/penczak/llama-line.nvim) ![](https://img.shields.io/github/last-commit/penczak/llama-line.nvim) ![](https://img.shields.io/github/commit-activity/y/penczak/llama-line.nvim)
 - [anonymous-dev-org/0x0-completion.nvim](https://github.com/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0-completion.nvim)
+- [goropikari/ollama-completion.nvim](https://github.com/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama-completion.nvim)
 
 ### Claude
 
@@ -733,6 +735,7 @@
 - [yngwi/agentwatch.nvim](https://github.com/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/stars/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/last-commit/yngwi/agentwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/yngwi/agentwatch.nvim)
 - [N0nki/tmux-coding-agent.nvim](https://github.com/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/stars/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/last-commit/N0nki/tmux-coding-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/N0nki/tmux-coding-agent.nvim)
 - [eetann/editprompt.nvim](https://github.com/eetann/editprompt.nvim) ![](https://img.shields.io/github/stars/eetann/editprompt.nvim) ![](https://img.shields.io/github/last-commit/eetann/editprompt.nvim) ![](https://img.shields.io/github/commit-activity/y/eetann/editprompt.nvim)
+- [sandudorogan/harness.nvim](https://github.com/sandudorogan/harness.nvim) ![](https://img.shields.io/github/stars/sandudorogan/harness.nvim) ![](https://img.shields.io/github/last-commit/sandudorogan/harness.nvim) ![](https://img.shields.io/github/commit-activity/y/sandudorogan/harness.nvim)
 - [ianjkaplan/smith.nvim](https://github.com/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/stars/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/last-commit/ianjkaplan/smith.nvim) ![](https://img.shields.io/github/commit-activity/y/ianjkaplan/smith.nvim)
 - [JavierMatasPose/nvim-pose](https://github.com/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/stars/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/last-commit/JavierMatasPose/nvim-pose) ![](https://img.shields.io/github/commit-activity/y/JavierMatasPose/nvim-pose)
 - [alexgorbatchev/agentation.nvim](https://github.com/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/stars/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/last-commit/alexgorbatchev/agentation.nvim) ![](https://img.shields.io/github/commit-activity/y/alexgorbatchev/agentation.nvim)

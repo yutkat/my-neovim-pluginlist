@@ -200,6 +200,7 @@
 - [agus-ameig/jest-test.nvim](https://github.com/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/stars/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/last-commit/agus-ameig/jest-test.nvim) ![](https://img.shields.io/github/commit-activity/y/agus-ameig/jest-test.nvim)
 - [sashankr98/nvim-jester](https://github.com/sashankr98/nvim-jester) ![](https://img.shields.io/github/stars/sashankr98/nvim-jester) ![](https://img.shields.io/github/last-commit/sashankr98/nvim-jester) ![](https://img.shields.io/github/commit-activity/y/sashankr98/nvim-jester)
 - [nicolasgandrade/jest-runner.nvim](https://github.com/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/stars/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/last-commit/nicolasgandrade/jest-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/nicolasgandrade/jest-runner.nvim)
+- [hxsggsz/test-it.nvim](https://github.com/hxsggsz/test-it.nvim) ![](https://img.shields.io/github/stars/hxsggsz/test-it.nvim) ![](https://img.shields.io/github/last-commit/hxsggsz/test-it.nvim) ![](https://img.shields.io/github/commit-activity/y/hxsggsz/test-it.nvim)
 
 #### Jasmine
 
