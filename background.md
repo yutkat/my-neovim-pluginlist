@@ -30,6 +30,7 @@
 - [raulcorreia7/theme-browser.nvim](https://github.com/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/stars/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/last-commit/raulcorreia7/theme-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/raulcorreia7/theme-browser.nvim)
 - [anderson3x11/theme-selector.nvim](https://github.com/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/stars/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/last-commit/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/anderson3x11/theme-selector.nvim)
 - [blackhat-hemsworth/quicktheme.nvim](https://github.com/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/stars/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/last-commit/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-hemsworth/quicktheme.nvim)
+- [Picalines/colorsets.nvim](https://github.com/Picalines/colorsets.nvim) ![](https://img.shields.io/github/stars/Picalines/colorsets.nvim) ![](https://img.shields.io/github/last-commit/Picalines/colorsets.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/colorsets.nvim)
 
 ### Transparency
 

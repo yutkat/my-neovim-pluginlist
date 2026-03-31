@@ -41,7 +41,7 @@
   - [Disable/Enable](#disableenable)
   - [Handler](#handler)
   - [lsptrace](#lsptrace)
-  - [Language server](#language-server)
+  - [General-purpose Language server](#general-purpose-language-server)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
 
@@ -142,6 +142,7 @@
 - [basel184/nvim-pretty-ts-errors](https://github.com/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/stars/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/last-commit/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/commit-activity/y/basel184/nvim-pretty-ts-errors)
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/stars/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/workspace-diagnostics.nvim)
 - [Kurama622/clean-diagnostic](https://github.com/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/commit-activity/y/Kurama622/clean-diagnostic)
+- [njhoffman/diagnostics.nvim](https://github.com/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/stars/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/last-commit/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/njhoffman/diagnostics.nvim)
 
 ##### Diagnostics goto
 
@@ -188,6 +189,7 @@
 - [akioweh/lsp-document-highlight.nvim](https://github.com/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/stars/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/last-commit/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/akioweh/lsp-document-highlight.nvim)
 - [ZenithInc/fqn.nvim](https://github.com/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/stars/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/last-commit/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenithInc/fqn.nvim)
 - [mkeiji/better-gtd.nvim](https://github.com/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-gtd.nvim)
+- [brian2001dineen-afk/babble.nvim](https://github.com/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/babble.nvim)
 
 #### Code action
 
@@ -377,7 +379,7 @@
 
 - [mparq/lsptrace.nvim](https://github.com/mparq/lsptrace.nvim) ![](https://img.shields.io/github/stars/mparq/lsptrace.nvim) ![](https://img.shields.io/github/last-commit/mparq/lsptrace.nvim) ![](https://img.shields.io/github/commit-activity/y/mparq/lsptrace.nvim)
 
-### Language server
+### General-purpose Language server
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)

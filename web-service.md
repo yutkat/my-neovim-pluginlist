@@ -20,6 +20,7 @@
   - [Raindrop](#raindrop)
   - [esa.io](#esaio)
   - [Dev](#dev)
+  - [REST](#rest)
   - [Local server](#local-server)
   - [Fatebook](#fatebook)
   - [micro.blog](#microblog)
@@ -169,6 +170,10 @@
 - [Massolari/devto.nvim](https://github.com/Massolari/devto.nvim) ![](https://img.shields.io/github/stars/Massolari/devto.nvim) ![](https://img.shields.io/github/last-commit/Massolari/devto.nvim) ![](https://img.shields.io/github/commit-activity/y/Massolari/devto.nvim)
 - [Awallace3/LeetGPU.nvim](https://github.com/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/stars/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/last-commit/Awallace3/LeetGPU.nvim) ![](https://img.shields.io/github/commit-activity/y/Awallace3/LeetGPU.nvim)
 
+### REST
+
+- [Di3go0-0/restui.nvim](https://github.com/Di3go0-0/restui.nvim) ![](https://img.shields.io/github/stars/Di3go0-0/restui.nvim) ![](https://img.shields.io/github/last-commit/Di3go0-0/restui.nvim) ![](https://img.shields.io/github/commit-activity/y/Di3go0-0/restui.nvim)
+
 ### Local server
 
 - [selimacerbas/live-server.nvim](https://github.com/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/stars/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/last-commit/selimacerbas/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/selimacerbas/live-server.nvim)
@@ -248,6 +253,7 @@
 ### Confluence
 
 - [mramsden/fluence.nvim](https://github.com/mramsden/fluence.nvim) ![](https://img.shields.io/github/stars/mramsden/fluence.nvim) ![](https://img.shields.io/github/last-commit/mramsden/fluence.nvim) ![](https://img.shields.io/github/commit-activity/y/mramsden/fluence.nvim)
+- [FoamScience/conflira.nvim](https://github.com/FoamScience/conflira.nvim) ![](https://img.shields.io/github/stars/FoamScience/conflira.nvim) ![](https://img.shields.io/github/last-commit/FoamScience/conflira.nvim) ![](https://img.shields.io/github/commit-activity/y/FoamScience/conflira.nvim)
 
 ### Linear
 

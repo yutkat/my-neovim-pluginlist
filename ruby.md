@@ -10,6 +10,7 @@
   - [Gem](#gem)
   - [Rails](#rails)
   - [Redis](#redis)
+  - [Flipper Cloud](#flipper-cloud)
 
 <!-- tocstop -->
 
@@ -77,3 +78,7 @@
 ### Redis
 
 - [recap/nvim-redis](https://github.com/recap/nvim-redis) ![](https://img.shields.io/github/stars/recap/nvim-redis) ![](https://img.shields.io/github/last-commit/recap/nvim-redis) ![](https://img.shields.io/github/commit-activity/y/recap/nvim-redis)
+
+### Flipper Cloud
+
+- [wassimk/flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/stars/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/last-commit/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/flipper-ls.nvim)
