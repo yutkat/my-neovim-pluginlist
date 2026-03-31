@@ -41,7 +41,7 @@
   - [Disable/Enable](#disableenable)
   - [Handler](#handler)
   - [lsptrace](#lsptrace)
-  - [Language server](#language-server)
+  - [General-purpose Language server](#general-purpose-language-server)
 - [Pre-configuration](#pre-configuration)
 - [Backwards Compatibility](#backwards-compatibility)
 
@@ -379,13 +379,12 @@
 
 - [mparq/lsptrace.nvim](https://github.com/mparq/lsptrace.nvim) ![](https://img.shields.io/github/stars/mparq/lsptrace.nvim) ![](https://img.shields.io/github/last-commit/mparq/lsptrace.nvim) ![](https://img.shields.io/github/commit-activity/y/mparq/lsptrace.nvim)
 
-### Language server
+### General-purpose Language server
 
 - [Kibadda/fake.nvim](https://github.com/Kibadda/fake.nvim) ![](https://img.shields.io/github/stars/Kibadda/fake.nvim) ![](https://img.shields.io/github/last-commit/Kibadda/fake.nvim) ![](https://img.shields.io/github/commit-activity/y/Kibadda/fake.nvim)
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
 - [rebelopsio/boundary.nvim](https://github.com/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/stars/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/last-commit/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelopsio/boundary.nvim)
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
-- [wassimk/flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/stars/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/last-commit/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/flipper-ls.nvim)
 
 ## Pre-configuration
 
