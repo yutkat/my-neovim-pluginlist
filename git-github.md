@@ -393,6 +393,7 @@
 - [jcucci/weavr.nvim](https://github.com/jcucci/weavr.nvim) ![](https://img.shields.io/github/stars/jcucci/weavr.nvim) ![](https://img.shields.io/github/last-commit/jcucci/weavr.nvim) ![](https://img.shields.io/github/commit-activity/y/jcucci/weavr.nvim)
 - [chojs23/ec](https://github.com/chojs23/ec) ![](https://img.shields.io/github/stars/chojs23/ec) ![](https://img.shields.io/github/last-commit/chojs23/ec) ![](https://img.shields.io/github/commit-activity/y/chojs23/ec)
 - [shun095/nvim-merge-diff](https://github.com/shun095/nvim-merge-diff) ![](https://img.shields.io/github/stars/shun095/nvim-merge-diff) ![](https://img.shields.io/github/last-commit/shun095/nvim-merge-diff) ![](https://img.shields.io/github/commit-activity/y/shun095/nvim-merge-diff)
+- [Valentin-Guillet/conflict.nvim](https://github.com/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/stars/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/last-commit/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/Valentin-Guillet/conflict.nvim)
 
 ### git pull
 

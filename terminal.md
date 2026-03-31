@@ -154,6 +154,7 @@
 - [rkb121541/floaterminal.nvim](https://github.com/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/stars/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/last-commit/rkb121541/floaterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/rkb121541/floaterminal.nvim)
 - [DrewDalmedo/glacier.nvim](https://github.com/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/stars/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/last-commit/DrewDalmedo/glacier.nvim) ![](https://img.shields.io/github/commit-activity/y/DrewDalmedo/glacier.nvim)
 - [saya-ashen/termbuffer.nvim](https://github.com/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/stars/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/termbuffer.nvim)
+- [goropikari/terminals.nvim](https://github.com/goropikari/terminals.nvim) ![](https://img.shields.io/github/stars/goropikari/terminals.nvim) ![](https://img.shields.io/github/last-commit/goropikari/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/terminals.nvim)
 
 ### Edit
 

@@ -142,6 +142,7 @@
 - [basel184/nvim-pretty-ts-errors](https://github.com/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/stars/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/last-commit/basel184/nvim-pretty-ts-errors) ![](https://img.shields.io/github/commit-activity/y/basel184/nvim-pretty-ts-errors)
 - [smnatale/workspace-diagnostics.nvim](https://github.com/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/stars/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/smnatale/workspace-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/workspace-diagnostics.nvim)
 - [Kurama622/clean-diagnostic](https://github.com/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/commit-activity/y/Kurama622/clean-diagnostic)
+- [njhoffman/diagnostics.nvim](https://github.com/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/stars/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/last-commit/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/njhoffman/diagnostics.nvim)
 
 ##### Diagnostics goto
 
@@ -188,6 +189,7 @@
 - [akioweh/lsp-document-highlight.nvim](https://github.com/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/stars/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/last-commit/akioweh/lsp-document-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/akioweh/lsp-document-highlight.nvim)
 - [ZenithInc/fqn.nvim](https://github.com/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/stars/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/last-commit/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenithInc/fqn.nvim)
 - [mkeiji/better-gtd.nvim](https://github.com/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-gtd.nvim)
+- [brian2001dineen-afk/babble.nvim](https://github.com/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/babble.nvim)
 
 #### Code action
 
@@ -383,6 +385,7 @@
 - [kbwo/testing-ls.nvim](https://github.com/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/stars/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/last-commit/kbwo/testing-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/kbwo/testing-ls.nvim)
 - [rebelopsio/boundary.nvim](https://github.com/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/stars/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/last-commit/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelopsio/boundary.nvim)
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
+- [wassimk/flipper-ls.nvim](https://github.com/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/stars/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/last-commit/wassimk/flipper-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/wassimk/flipper-ls.nvim)
 
 ## Pre-configuration
 

@@ -203,6 +203,7 @@
 - [miversen33/netman.nvim](https://github.com/miversen33/netman.nvim) ![](https://img.shields.io/github/stars/miversen33/netman.nvim) ![](https://img.shields.io/github/last-commit/miversen33/netman.nvim) ![](https://img.shields.io/github/commit-activity/y/miversen33/netman.nvim)
 - [iharkatkavets/remotify.nvim](https://github.com/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/remotify.nvim)
 - [poppanda/zero.nvim](https://github.com/poppanda/zero.nvim) ![](https://img.shields.io/github/stars/poppanda/zero.nvim) ![](https://img.shields.io/github/last-commit/poppanda/zero.nvim) ![](https://img.shields.io/github/commit-activity/y/poppanda/zero.nvim)
+- [hdoi/mewrw.nvim](https://github.com/hdoi/mewrw.nvim) ![](https://img.shields.io/github/stars/hdoi/mewrw.nvim) ![](https://img.shields.io/github/last-commit/hdoi/mewrw.nvim) ![](https://img.shields.io/github/commit-activity/y/hdoi/mewrw.nvim)
 
 ### Open directory
 
