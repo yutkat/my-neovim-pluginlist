@@ -83,6 +83,7 @@
 
 ### Mine Sweeper
 
+- [Pansther/minesweeper.nvim](https://github.com/Pansther/minesweeper.nvim) ![](https://img.shields.io/github/stars/Pansther/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/Pansther/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/Pansther/minesweeper.nvim)
 - [QU4SIMOTO/minesweeper.nvim](https://github.com/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/stars/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/last-commit/QU4SIMOTO/minesweeper.nvim) ![](https://img.shields.io/github/commit-activity/y/QU4SIMOTO/minesweeper.nvim)
 
 ### Minecraft

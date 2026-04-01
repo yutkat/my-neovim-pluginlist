@@ -339,6 +339,7 @@
 
 #### Markdown evaluate code
 
+- [paxunix/eval-inline-lua-block.nvim](https://github.com/paxunix/eval-inline-lua-block.nvim) ![](https://img.shields.io/github/stars/paxunix/eval-inline-lua-block.nvim) ![](https://img.shields.io/github/last-commit/paxunix/eval-inline-lua-block.nvim) ![](https://img.shields.io/github/commit-activity/y/paxunix/eval-inline-lua-block.nvim)
 - [jbyuki/carrot.nvim](https://github.com/jbyuki/carrot.nvim) ![](https://img.shields.io/github/stars/jbyuki/carrot.nvim) ![](https://img.shields.io/github/last-commit/jbyuki/carrot.nvim) ![](https://img.shields.io/github/commit-activity/y/jbyuki/carrot.nvim)
 - [DiegoMoralesRoman/MDInlineRunner.nvim](https://github.com/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/stars/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/last-commit/DiegoMoralesRoman/MDInlineRunner.nvim) ![](https://img.shields.io/github/commit-activity/y/DiegoMoralesRoman/MDInlineRunner.nvim)
 - [flexphere/mdrun.nvim](https://github.com/flexphere/mdrun.nvim) ![](https://img.shields.io/github/stars/flexphere/mdrun.nvim) ![](https://img.shields.io/github/last-commit/flexphere/mdrun.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/mdrun.nvim)
@@ -456,6 +457,7 @@
 
 ### PlantUML
 
+- [mszenfeld/puml-viewer.nvim](https://github.com/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/stars/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/last-commit/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/mszenfeld/puml-viewer.nvim)
 - [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
 - [javio7/nvim-modelizer](https://github.com/javio7/nvim-modelizer) ![](https://img.shields.io/github/stars/javio7/nvim-modelizer) ![](https://img.shields.io/github/last-commit/javio7/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-modelizer)
 - [zapling/plantuml.nvim](https://github.com/zapling/plantuml.nvim) ![](https://img.shields.io/github/stars/zapling/plantuml.nvim) ![](https://img.shields.io/github/last-commit/zapling/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/plantuml.nvim)
@@ -553,6 +555,8 @@
 
 ### Tex
 
+- [Chiarandini/latex-nav-core.nvim](https://github.com/Chiarandini/latex-nav-core.nvim) ![](https://img.shields.io/github/stars/Chiarandini/latex-nav-core.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/latex-nav-core.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/latex-nav-core.nvim)
+- [Chiarandini/snacks-latex-labels.nvim](https://github.com/Chiarandini/snacks-latex-labels.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-latex-labels.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-latex-labels.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-latex-labels.nvim)
 - [frabjous/knap](https://github.com/frabjous/knap) ![](https://img.shields.io/github/stars/frabjous/knap) ![](https://img.shields.io/github/last-commit/frabjous/knap) ![](https://img.shields.io/github/commit-activity/y/frabjous/knap)
 - [jakewvincent/texmagic.nvim](https://github.com/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/stars/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/last-commit/jakewvincent/texmagic.nvim) ![](https://img.shields.io/github/commit-activity/y/jakewvincent/texmagic.nvim)
 - [bamonroe/rnoweb-nvim](https://github.com/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/stars/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/last-commit/bamonroe/rnoweb-nvim) ![](https://img.shields.io/github/commit-activity/y/bamonroe/rnoweb-nvim)
