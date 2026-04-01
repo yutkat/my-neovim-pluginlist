@@ -163,6 +163,7 @@
 
 ### Save
 
+- [agayushh/nvim-terminal-persistence](https://github.com/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/stars/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/last-commit/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/commit-activity/y/agayushh/nvim-terminal-persistence)
 - [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
 
 ### Send

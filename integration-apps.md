@@ -43,7 +43,7 @@
     - [Docker](#docker)
     - [Kubernetes](#kubernetes)
     - [VPN](#vpn)
-  - [Cloud](#cloud)
+  - [DataDog](#datadog)
     - [Terraform](#terraform)
       - [atmos](#atmos)
     - [StackGen](#stackgen)
@@ -284,7 +284,9 @@
 - [FocusThen/vpn-script.nvim](https://github.com/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/stars/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/last-commit/FocusThen/vpn-script.nvim) ![](https://img.shields.io/github/commit-activity/y/FocusThen/vpn-script.nvim)
 - [MaxiPutz/nvim-wg-plugin](https://github.com/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/stars/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/last-commit/MaxiPutz/nvim-wg-plugin) ![](https://img.shields.io/github/commit-activity/y/MaxiPutz/nvim-wg-plugin)
 
-### Cloud
+### DataDog
+
+- [teekey-dev/datadog.nvim](https://github.com/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/stars/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/last-commit/teekey-dev/datadog.nvim) ![](https://img.shields.io/github/commit-activity/y/teekey-dev/datadog.nvim)
 
 #### Terraform
 

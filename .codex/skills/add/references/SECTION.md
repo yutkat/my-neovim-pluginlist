@@ -1234,7 +1234,7 @@
 ### Disable/Enable
 ### Handler
 ### lsptrace
-### Language server
+### General-purpose Language server
 ## Pre-configuration
 ## Backwards Compatibility
 
@@ -1850,6 +1850,7 @@
 ### Gem
 ### Rails
 ### Redis
+### Flipper Cloud
 
 # rust.md
 ## Rust
