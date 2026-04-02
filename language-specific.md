@@ -231,6 +231,8 @@
 
 #### Alloy
 
+- [vincentlu/alloy.nvim](https://github.com/vincentlu/alloy.nvim) ![](https://img.shields.io/github/stars/vincentlu/alloy.nvim) ![](https://img.shields.io/github/last-commit/vincentlu/alloy.nvim) ![](https://img.shields.io/github/commit-activity/y/vincentlu/alloy.nvim)
+
 #### Allium
 
 - [juxt/nvim-allium](https://github.com/juxt/nvim-allium) ![](https://img.shields.io/github/stars/juxt/nvim-allium) ![](https://img.shields.io/github/last-commit/juxt/nvim-allium) ![](https://img.shields.io/github/commit-activity/y/juxt/nvim-allium)
