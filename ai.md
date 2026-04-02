@@ -476,6 +476,7 @@
 - [unixsuperhero/h-claude.nvim](https://github.com/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/stars/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/last-commit/unixsuperhero/h-claude.nvim) ![](https://img.shields.io/github/commit-activity/y/unixsuperhero/h-claude.nvim)
 - [mikehu/chisel.nvim](https://github.com/mikehu/chisel.nvim) ![](https://img.shields.io/github/stars/mikehu/chisel.nvim) ![](https://img.shields.io/github/last-commit/mikehu/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/mikehu/chisel.nvim)
 - [elmomk/cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/stars/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/last-commit/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/elmomk/cc-watcher.nvim)
+- [idossha/lazyclaude.nvim](https://github.com/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/stars/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/last-commit/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/lazyclaude.nvim)
 
 ### Amazon Q
 
@@ -579,7 +580,6 @@
 - [KohlJary/nvim-compass](https://github.com/KohlJary/nvim-compass) ![](https://img.shields.io/github/stars/KohlJary/nvim-compass) ![](https://img.shields.io/github/last-commit/KohlJary/nvim-compass) ![](https://img.shields.io/github/commit-activity/y/KohlJary/nvim-compass)
 
 ### Zeke
-
 
 ### Groq
 
