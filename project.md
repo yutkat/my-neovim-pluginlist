@@ -126,6 +126,7 @@
 - [yardnsm/nx-console.nvim](https://github.com/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/stars/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/last-commit/yardnsm/nx-console.nvim) ![](https://img.shields.io/github/commit-activity/y/yardnsm/nx-console.nvim)
 - [jonesn3/telescope-metarepo.nvim](https://github.com/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/stars/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/last-commit/jonesn3/telescope-metarepo.nvim) ![](https://img.shields.io/github/commit-activity/y/jonesn3/telescope-metarepo.nvim)
 - [willdavidow/nx-console.nvim](https://github.com/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/stars/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/last-commit/willdavidow/nx-console.nvim) ![](https://img.shields.io/github/commit-activity/y/willdavidow/nx-console.nvim)
+- [aekasitt/monorepo.nvim](https://github.com/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/stars/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/monorepo.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/monorepo.nvim)
 
 ### Project Local Config
 

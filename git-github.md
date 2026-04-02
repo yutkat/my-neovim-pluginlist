@@ -744,6 +744,7 @@
 - [amaanq/gitlink.nvim](https://github.com/amaanq/gitlink.nvim) ![](https://img.shields.io/github/stars/amaanq/gitlink.nvim) ![](https://img.shields.io/github/last-commit/amaanq/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/amaanq/gitlink.nvim)
 - [melvi-l/housp.nvim](https://github.com/melvi-l/housp.nvim) ![](https://img.shields.io/github/stars/melvi-l/housp.nvim) ![](https://img.shields.io/github/last-commit/melvi-l/housp.nvim) ![](https://img.shields.io/github/commit-activity/y/melvi-l/housp.nvim)
 - [FlavioMili/gitlink.nvim](https://github.com/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/stars/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/last-commit/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/FlavioMili/gitlink.nvim)
+- [sh1Nome/yank-git-remote-url.nvim](https://github.com/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/stars/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/yank-git-remote-url.nvim)
 
 ### Image
 

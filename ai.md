@@ -699,6 +699,7 @@
 
 - [spencerjireh/bonk.nvim](https://github.com/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/stars/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/last-commit/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/commit-activity/y/spencerjireh/bonk.nvim)
 - [goropikari/claude-completion.nvim](https://github.com/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/claude-completion.nvim)
+- [CohenRus/cohen-ai.nvim](https://github.com/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/stars/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/last-commit/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/CohenRus/cohen-ai.nvim)
 
 ### Copilot
 
@@ -998,6 +999,7 @@
 - [zaucy/mcp.nvim](https://github.com/zaucy/mcp.nvim) ![](https://img.shields.io/github/stars/zaucy/mcp.nvim) ![](https://img.shields.io/github/last-commit/zaucy/mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/mcp.nvim)
 - [arismoko/buddy.nvim](https://github.com/arismoko/buddy.nvim) ![](https://img.shields.io/github/stars/arismoko/buddy.nvim) ![](https://img.shields.io/github/last-commit/arismoko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/arismoko/buddy.nvim)
 - [marcelom97/claude-transport.nvim](https://github.com/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-transport.nvim)
+- [andrew-d-moore/stationeers-mcp.nvim](https://github.com/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/stars/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/last-commit/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/andrew-d-moore/stationeers-mcp.nvim)
 
 ### MCP SDK
 

@@ -63,6 +63,7 @@
 - [ericspiddev/nvim-scout](https://github.com/ericspiddev/nvim-scout) ![](https://img.shields.io/github/stars/ericspiddev/nvim-scout) ![](https://img.shields.io/github/last-commit/ericspiddev/nvim-scout) ![](https://img.shields.io/github/commit-activity/y/ericspiddev/nvim-scout)
 - [maureyesdev/accio.nvim](https://github.com/maureyesdev/accio.nvim) ![](https://img.shields.io/github/stars/maureyesdev/accio.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/accio.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/accio.nvim)
 - [jugarpeupv/jsregex.nvim](https://github.com/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/jsregex.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/jsregex.nvim)
+- [regomne/nvim-step-search.lua](https://github.com/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/stars/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/last-commit/regomne/nvim-step-search.lua) ![](https://img.shields.io/github/commit-activity/y/regomne/nvim-step-search.lua)
 
 ### Window local search
 

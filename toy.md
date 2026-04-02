@@ -73,6 +73,7 @@
 ### View
 
 - [NStefan002/donutlify.nvim](https://github.com/NStefan002/donutlify.nvim) ![](https://img.shields.io/github/stars/NStefan002/donutlify.nvim) ![](https://img.shields.io/github/last-commit/NStefan002/donutlify.nvim) ![](https://img.shields.io/github/commit-activity/y/NStefan002/donutlify.nvim)
+- [ragnarok22/e-office.nvim](https://github.com/ragnarok22/e-office.nvim) ![](https://img.shields.io/github/stars/ragnarok22/e-office.nvim) ![](https://img.shields.io/github/last-commit/ragnarok22/e-office.nvim) ![](https://img.shields.io/github/commit-activity/y/ragnarok22/e-office.nvim)
 
 ### Training
 
