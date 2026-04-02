@@ -443,7 +443,6 @@
 - [sminrana/nvim-taskflow](https://github.com/sminrana/nvim-taskflow) ![](https://img.shields.io/github/stars/sminrana/nvim-taskflow) ![](https://img.shields.io/github/last-commit/sminrana/nvim-taskflow) ![](https://img.shields.io/github/commit-activity/y/sminrana/nvim-taskflow)
 - [joelgwebber/yaks.nvim](https://github.com/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/stars/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/last-commit/joelgwebber/yaks.nvim) ![](https://img.shields.io/github/commit-activity/y/joelgwebber/yaks.nvim)
 - [tanmayv/tasks.nvim](https://github.com/tanmayv/tasks.nvim) ![](https://img.shields.io/github/stars/tanmayv/tasks.nvim) ![](https://img.shields.io/github/last-commit/tanmayv/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tanmayv/tasks.nvim)
-- [davidelng/shipcop.nvim](https://github.com/davidelng/shipcop.nvim) ![](https://img.shields.io/github/stars/davidelng/shipcop.nvim) ![](https://img.shields.io/github/last-commit/davidelng/shipcop.nvim) ![](https://img.shields.io/github/commit-activity/y/davidelng/shipcop.nvim)
 - [vipul-sharma20/tasks.nvim](https://github.com/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/stars/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/last-commit/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/vipul-sharma20/tasks.nvim)
 
 ### Wiki
@@ -500,7 +499,6 @@
 - [efueyo/mybot-notes.nvim](https://github.com/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/stars/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/last-commit/efueyo/mybot-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/efueyo/mybot-notes.nvim)
 - [zion-off/mole.nvim](https://github.com/zion-off/mole.nvim) ![](https://img.shields.io/github/stars/zion-off/mole.nvim) ![](https://img.shields.io/github/last-commit/zion-off/mole.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/mole.nvim)
 - [jonaebel/cpin.nvim](https://github.com/jonaebel/cpin.nvim) ![](https://img.shields.io/github/stars/jonaebel/cpin.nvim) ![](https://img.shields.io/github/last-commit/jonaebel/cpin.nvim) ![](https://img.shields.io/github/commit-activity/y/jonaebel/cpin.nvim)
-- [68mschmitt/marginalia.nvim](https://github.com/68mschmitt/marginalia.nvim) ![](https://img.shields.io/github/stars/68mschmitt/marginalia.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/marginalia.nvim)
 
 ### Anki
 
@@ -705,4 +703,3 @@
 - [salasberryfin/postit.nvim](https://github.com/salasberryfin/postit.nvim) ![](https://img.shields.io/github/stars/salasberryfin/postit.nvim) ![](https://img.shields.io/github/last-commit/salasberryfin/postit.nvim) ![](https://img.shields.io/github/commit-activity/y/salasberryfin/postit.nvim)
 - [SalOrak/orak.nvim](https://github.com/SalOrak/orak.nvim) ![](https://img.shields.io/github/stars/SalOrak/orak.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/orak.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/orak.nvim)
 - [Mathiew82/mynotes.nvim](https://github.com/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/stars/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/last-commit/Mathiew82/mynotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Mathiew82/mynotes.nvim)
-- [loop-nvim/loop.nvim](https://github.com/loop-nvim/loop.nvim) ![](https://img.shields.io/github/stars/loop-nvim/loop.nvim) ![](https://img.shields.io/github/last-commit/loop-nvim/loop.nvim) ![](https://img.shields.io/github/commit-activity/y/loop-nvim/loop.nvim)
