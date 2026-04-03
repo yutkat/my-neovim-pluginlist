@@ -50,6 +50,7 @@
 - [jinks908/marksman.nvim](https://github.com/jinks908/marksman.nvim) ![](https://img.shields.io/github/stars/jinks908/marksman.nvim) ![](https://img.shields.io/github/last-commit/jinks908/marksman.nvim) ![](https://img.shields.io/github/commit-activity/y/jinks908/marksman.nvim)
 - [cat-phish/buffer-marks.nvim](https://github.com/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/stars/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/last-commit/cat-phish/buffer-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/cat-phish/buffer-marks.nvim)
 - [ZiYang-oyxy/vim-mark.nvim](https://github.com/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/stars/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/last-commit/ZiYang-oyxy/vim-mark.nvim) ![](https://img.shields.io/github/commit-activity/y/ZiYang-oyxy/vim-mark.nvim)
+- [ryanburda/buf-mark](https://github.com/ryanburda/buf-mark) ![](https://img.shields.io/github/stars/ryanburda/buf-mark) ![](https://img.shields.io/github/last-commit/ryanburda/buf-mark) ![](https://img.shields.io/github/commit-activity/y/ryanburda/buf-mark)
 
 ### extmark
 
@@ -69,6 +70,7 @@
 - [tgallacher/waypoint.nvim](https://github.com/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/stars/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/last-commit/tgallacher/waypoint.nvim) ![](https://img.shields.io/github/commit-activity/y/tgallacher/waypoint.nvim)
 - [dimtion/guttermarks.nvim](https://github.com/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/stars/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/last-commit/dimtion/guttermarks.nvim) ![](https://img.shields.io/github/commit-activity/y/dimtion/guttermarks.nvim)
 - [jwu/showmarks.nvim](https://github.com/jwu/showmarks.nvim) ![](https://img.shields.io/github/stars/jwu/showmarks.nvim) ![](https://img.shields.io/github/last-commit/jwu/showmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/showmarks.nvim)
+
 ### mark note
 
 - [ed22699/sticky-notes.nvim](https://github.com/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/stars/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/last-commit/ed22699/sticky-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/ed22699/sticky-notes.nvim)
