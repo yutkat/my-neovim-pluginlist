@@ -366,6 +366,11 @@
 - [dev-shetty/easydiff.nvim](https://github.com/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/stars/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/last-commit/dev-shetty/easydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/dev-shetty/easydiff.nvim)
 - [msegoviadev/nvim-iterview](https://github.com/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/stars/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/last-commit/msegoviadev/nvim-iterview) ![](https://img.shields.io/github/commit-activity/y/msegoviadev/nvim-iterview)
 - [ByteBardOrg/critiq-diff-search.nvim](https://github.com/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/stars/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/last-commit/ByteBardOrg/critiq-diff-search.nvim) ![](https://img.shields.io/github/commit-activity/y/ByteBardOrg/critiq-diff-search.nvim)
+- [binajmen/review.nvim](https://github.com/binajmen/review.nvim) ![](https://img.shields.io/github/stars/binajmen/review.nvim) ![](https://img.shields.io/github/last-commit/binajmen/review.nvim) ![](https://img.shields.io/github/commit-activity/y/binajmen/review.nvim)
+- [rparrapy/tuicr.nvim](https://github.com/rparrapy/tuicr.nvim) ![](https://img.shields.io/github/stars/rparrapy/tuicr.nvim) ![](https://img.shields.io/github/last-commit/rparrapy/tuicr.nvim) ![](https://img.shields.io/github/commit-activity/y/rparrapy/tuicr.nvim)
+- [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
+- [tkachenko0/diffstore.nvim](https://github.com/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/stars/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/last-commit/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenko0/diffstore.nvim)
+- [xiaocang/gitrev.nvim](https://github.com/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/stars/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/last-commit/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaocang/gitrev.nvim)
 
 #### image diff
 
@@ -417,6 +422,7 @@
 - [cszczepaniak/git-lb.nvim](https://github.com/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/stars/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/last-commit/cszczepaniak/git-lb.nvim) ![](https://img.shields.io/github/commit-activity/y/cszczepaniak/git-lb.nvim)
 - [mrloop/telescope-git-branch.nvim](https://github.com/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/stars/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/last-commit/mrloop/telescope-git-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/mrloop/telescope-git-branch.nvim)
 - [aclCMNK/git_locker.nvim](https://github.com/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/stars/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/last-commit/aclCMNK/git_locker.nvim) ![](https://img.shields.io/github/commit-activity/y/aclCMNK/git_locker.nvim)
+- [patricktrainer/random-branch.nvim](https://github.com/patricktrainer/random-branch.nvim) ![](https://img.shields.io/github/stars/patricktrainer/random-branch.nvim) ![](https://img.shields.io/github/last-commit/patricktrainer/random-branch.nvim) ![](https://img.shields.io/github/commit-activity/y/patricktrainer/random-branch.nvim)
 
 ### gitignore
 
@@ -656,7 +662,6 @@
 - [flexphere/reviewit.nvim](https://github.com/flexphere/reviewit.nvim) ![](https://img.shields.io/github/stars/flexphere/reviewit.nvim) ![](https://img.shields.io/github/last-commit/flexphere/reviewit.nvim) ![](https://img.shields.io/github/commit-activity/y/flexphere/reviewit.nvim)
 - [max-farver/git-review.nvim](https://github.com/max-farver/git-review.nvim) ![](https://img.shields.io/github/stars/max-farver/git-review.nvim) ![](https://img.shields.io/github/last-commit/max-farver/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/max-farver/git-review.nvim)
 - [justinlazarus/plz.nvim](https://github.com/justinlazarus/plz.nvim) ![](https://img.shields.io/github/stars/justinlazarus/plz.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/plz.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/plz.nvim)
-- [arefaslani/gh-review.nvim](https://github.com/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/stars/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/last-commit/arefaslani/gh-review.nvim) ![](https://img.shields.io/github/commit-activity/y/arefaslani/gh-review.nvim)
 
 #### Pull Request Comment
 

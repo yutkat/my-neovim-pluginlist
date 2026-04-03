@@ -299,6 +299,7 @@
 - [jaytyrrell13/static.nvim](https://github.com/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/stars/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/last-commit/jaytyrrell13/static.nvim) ![](https://img.shields.io/github/commit-activity/y/jaytyrrell13/static.nvim)
 - [Beloin/heph.nvim](https://github.com/Beloin/heph.nvim) ![](https://img.shields.io/github/stars/Beloin/heph.nvim) ![](https://img.shields.io/github/last-commit/Beloin/heph.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/heph.nvim)
 - [kribw/himake.nvim](https://github.com/kribw/himake.nvim) ![](https://img.shields.io/github/stars/kribw/himake.nvim) ![](https://img.shields.io/github/last-commit/kribw/himake.nvim) ![](https://img.shields.io/github/commit-activity/y/kribw/himake.nvim)
+- [SnarkyDeveloper/wpilib.nvim](https://github.com/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/stars/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/last-commit/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/SnarkyDeveloper/wpilib.nvim)
 
 ### Partial execution
 
