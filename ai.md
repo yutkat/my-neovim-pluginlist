@@ -314,6 +314,7 @@
 - [isacssw/canopy.nvim](https://github.com/isacssw/canopy.nvim) ![](https://img.shields.io/github/stars/isacssw/canopy.nvim) ![](https://img.shields.io/github/last-commit/isacssw/canopy.nvim) ![](https://img.shields.io/github/commit-activity/y/isacssw/canopy.nvim)
 - [cjvnjde/ai-provider.nvim](https://github.com/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-provider.nvim)
 - [kruemmelbande/explaintome.nvim](https://github.com/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/stars/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/last-commit/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/commit-activity/y/kruemmelbande/explaintome.nvim)
+- [makefunstuff/cogcog](https://github.com/makefunstuff/cogcog) ![](https://img.shields.io/github/stars/makefunstuff/cogcog) ![](https://img.shields.io/github/last-commit/makefunstuff/cogcog) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/cogcog)
 
 #### crush
 
