@@ -817,6 +817,7 @@
 - [anonymous-dev-org/0x0.nvim](https://github.com/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0.nvim)
 - [sokinpui/coder-ask.nvim](https://github.com/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder-ask.nvim)
 - [juhaku/aiwaku.nvim](https://github.com/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/stars/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/last-commit/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/commit-activity/y/juhaku/aiwaku.nvim)
+- [RangaRaja-R/ai-sidekick.nvim](https://github.com/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/stars/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/last-commit/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/RangaRaja-R/ai-sidekick.nvim)
 
 ## ECA
 
@@ -978,6 +979,7 @@
 - [SDGLBL/context-groups.nvim](https://github.com/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/stars/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/last-commit/SDGLBL/context-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/SDGLBL/context-groups.nvim)
 - [mrilikecoding/clawmarks.nvim](https://github.com/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/stars/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/last-commit/mrilikecoding/clawmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/mrilikecoding/clawmarks.nvim)
 - [mcncl/context.nvim](https://github.com/mcncl/context.nvim) ![](https://img.shields.io/github/stars/mcncl/context.nvim) ![](https://img.shields.io/github/last-commit/mcncl/context.nvim) ![](https://img.shields.io/github/commit-activity/y/mcncl/context.nvim)
+- [terkelg/nvim-context](https://github.com/terkelg/nvim-context) ![](https://img.shields.io/github/stars/terkelg/nvim-context) ![](https://img.shields.io/github/last-commit/terkelg/nvim-context) ![](https://img.shields.io/github/commit-activity/y/terkelg/nvim-context)
 
 ## RAG
 

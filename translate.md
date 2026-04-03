@@ -36,6 +36,7 @@
 - [noir4y/comment-translate.nvim](https://github.com/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/stars/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/noir4y/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/noir4y/comment-translate.nvim)
 - [RUNFUNRUN/comment-translate.nvim](https://github.com/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/stars/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/last-commit/RUNFUNRUN/comment-translate.nvim) ![](https://img.shields.io/github/commit-activity/y/RUNFUNRUN/comment-translate.nvim)
 - [nicholasxjy/translator.nvim](https://github.com/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/translator.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/translator.nvim)
+- [yosephbernandus/nvim-translate](https://github.com/yosephbernandus/nvim-translate) ![](https://img.shields.io/github/stars/yosephbernandus/nvim-translate) ![](https://img.shields.io/github/last-commit/yosephbernandus/nvim-translate) ![](https://img.shields.io/github/commit-activity/y/yosephbernandus/nvim-translate)
 
 ## i18n
 
