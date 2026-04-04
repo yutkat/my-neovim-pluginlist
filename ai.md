@@ -370,7 +370,6 @@
 - [yuys13/collama.nvim](https://github.com/yuys13/collama.nvim) ![](https://img.shields.io/github/stars/yuys13/collama.nvim) ![](https://img.shields.io/github/last-commit/yuys13/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/yuys13/collama.nvim)
 - [hmunye/llama.nvim](https://github.com/hmunye/llama.nvim) ![](https://img.shields.io/github/stars/hmunye/llama.nvim) ![](https://img.shields.io/github/last-commit/hmunye/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/hmunye/llama.nvim)
 - [hadleyhzy34/ollama_popup.nvim](https://github.com/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/stars/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/last-commit/hadleyhzy34/ollama_popup.nvim) ![](https://img.shields.io/github/commit-activity/y/hadleyhzy34/ollama_popup.nvim)
-- [jasper-clarke/collama.nvim](https://github.com/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/stars/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/last-commit/jasper-clarke/collama.nvim) ![](https://img.shields.io/github/commit-activity/y/jasper-clarke/collama.nvim)
 - [TangerineGlacier/nvim-tangerine](https://github.com/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/stars/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/last-commit/TangerineGlacier/nvim-tangerine) ![](https://img.shields.io/github/commit-activity/y/TangerineGlacier/nvim-tangerine)
 - [CaKellum/ollama_question.nvim](https://github.com/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/stars/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/last-commit/CaKellum/ollama_question.nvim) ![](https://img.shields.io/github/commit-activity/y/CaKellum/ollama_question.nvim)
 - [VyacheslavVanin/llm-requester.nvim](https://github.com/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/stars/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/last-commit/VyacheslavVanin/llm-requester.nvim) ![](https://img.shields.io/github/commit-activity/y/VyacheslavVanin/llm-requester.nvim)
@@ -700,7 +699,6 @@
 ### Claude
 
 - [spencerjireh/bonk.nvim](https://github.com/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/stars/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/last-commit/spencerjireh/bonk.nvim) ![](https://img.shields.io/github/commit-activity/y/spencerjireh/bonk.nvim)
-- [goropikari/claude-completion.nvim](https://github.com/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/claude-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/claude-completion.nvim)
 - [CohenRus/cohen-ai.nvim](https://github.com/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/stars/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/last-commit/CohenRus/cohen-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/CohenRus/cohen-ai.nvim)
 
 ### Copilot

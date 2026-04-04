@@ -371,7 +371,6 @@
 
 ### Cloudinary
 
-- [e2r2fx/cloudy.nvim](https://github.com/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/stars/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/cloudy.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/cloudy.nvim)
 
 ### Dagster
 
