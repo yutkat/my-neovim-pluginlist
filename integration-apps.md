@@ -10,6 +10,7 @@
     - [Multi IDE](#multi-ide)
   - [JetBrains](#jetbrains)
   - [Jira](#jira)
+  - [Home Assistant](#home-assistant)
   - [Zed](#zed)
   - [Desktop Integration](#desktop-integration)
   - [Blockchain](#blockchain)
@@ -124,6 +125,10 @@
 
 - [sbulav/jira-oil.nvim](https://github.com/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/stars/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/last-commit/sbulav/jira-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/jira-oil.nvim)
 - [tobiaswadsethdev/anvil.nvim](https://github.com/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/stars/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/last-commit/tobiaswadsethdev/anvil.nvim) ![](https://img.shields.io/github/commit-activity/y/tobiaswadsethdev/anvil.nvim)
+
+### Home Assistant
+
+- [szsolt/ha.nvim](https://github.com/szsolt/ha.nvim) ![](https://img.shields.io/github/stars/szsolt/ha.nvim) ![](https://img.shields.io/github/last-commit/szsolt/ha.nvim) ![](https://img.shields.io/github/commit-activity/y/szsolt/ha.nvim)
 
 ### Zed
 

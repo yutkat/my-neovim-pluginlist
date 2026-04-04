@@ -50,6 +50,7 @@
 - [HarshK97/diffmantic.nvim](https://github.com/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/stars/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/last-commit/HarshK97/diffmantic.nvim) ![](https://img.shields.io/github/commit-activity/y/HarshK97/diffmantic.nvim)
 - [aneveux/localreview.nvim](https://github.com/aneveux/localreview.nvim) ![](https://img.shields.io/github/stars/aneveux/localreview.nvim) ![](https://img.shields.io/github/last-commit/aneveux/localreview.nvim) ![](https://img.shields.io/github/commit-activity/y/aneveux/localreview.nvim)
 - [paxunix/bin-comm.nvim](https://github.com/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/stars/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/last-commit/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/commit-activity/y/paxunix/bin-comm.nvim)
+- [0xferrous/diffie.nvim](https://github.com/0xferrous/diffie.nvim) ![](https://img.shields.io/github/stars/0xferrous/diffie.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/diffie.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/diffie.nvim)
 
 ### Diff Register
 
