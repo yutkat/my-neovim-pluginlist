@@ -7,6 +7,7 @@
     - [Made in Lua](#made-in-lua)
     - [Made in Python](#made-in-python)
     - [Made in Rust](#made-in-rust)
+    - [Made in Go](#made-in-go)
   - [nvim-cmp extension](#nvim-cmp-extension)
     - [nvim-cmp sources](#nvim-cmp-sources)
     - [nvim-cmp comparator](#nvim-cmp-comparator)
@@ -40,6 +41,10 @@
 - [ms-jpq/coq_nvim](https://github.com/ms-jpq/coq_nvim) ![](https://img.shields.io/github/stars/ms-jpq/coq_nvim) ![](https://img.shields.io/github/last-commit/ms-jpq/coq_nvim) ![](https://img.shields.io/github/commit-activity/y/ms-jpq/coq_nvim)
 
 #### Made in Rust
+
+#### Made in Go
+
+- [cursortab/cursortab.nvim](https://github.com/cursortab/cursortab.nvim) ![](https://img.shields.io/github/stars/cursortab/cursortab.nvim) ![](https://img.shields.io/github/last-commit/cursortab/cursortab.nvim) ![](https://img.shields.io/github/commit-activity/y/cursortab/cursortab.nvim)
 
 ### nvim-cmp extension
 
