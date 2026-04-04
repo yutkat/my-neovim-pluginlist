@@ -11,7 +11,6 @@
 
 ## Treesitter
 
-- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter)
 - [nvim-treesitter/nvim-tree-docs](https://github.com/nvim-treesitter/nvim-tree-docs) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-tree-docs) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-tree-docs) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-tree-docs)
 - [yioneko/nvim-yati](https://github.com/yioneko/nvim-yati) ![](https://img.shields.io/github/stars/yioneko/nvim-yati) ![](https://img.shields.io/github/last-commit/yioneko/nvim-yati) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-yati)
 - [s1n7ax/nvim-ts-utils](https://github.com/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/stars/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/last-commit/s1n7ax/nvim-ts-utils) ![](https://img.shields.io/github/commit-activity/y/s1n7ax/nvim-ts-utils)
@@ -26,7 +25,6 @@
 - [TheNoeTrevino/roids.nvim](https://github.com/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/stars/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/last-commit/TheNoeTrevino/roids.nvim) ![](https://img.shields.io/github/commit-activity/y/TheNoeTrevino/roids.nvim)
 - [a73s/treesitter-diagnostics.nvim](https://github.com/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/stars/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/a73s/treesitter-diagnostics.nvim)
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
-- [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
 - [ViniiR/nvim-treesitter-extension](https://github.com/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/stars/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/last-commit/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/commit-activity/y/ViniiR/nvim-treesitter-extension)
 
 ### Installer
