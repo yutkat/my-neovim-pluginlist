@@ -654,6 +654,7 @@
 ## Darcs
 ## Fossil
 ## Jujutsu(jj)
+#### diff
 ### diff
 ## Mercurial
 ## Sage
@@ -815,6 +816,7 @@
 #### Multi IDE
 ### JetBrains
 ### Jira
+### Home Assistant
 ### Zed
 ### Desktop Integration
 ### Blockchain

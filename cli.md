@@ -284,6 +284,7 @@
 - [mrheinen/bazelbub.nvim](https://github.com/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/stars/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/last-commit/mrheinen/bazelbub.nvim) ![](https://img.shields.io/github/commit-activity/y/mrheinen/bazelbub.nvim)
 - [lewistg/pesto.nvim](https://github.com/lewistg/pesto.nvim) ![](https://img.shields.io/github/stars/lewistg/pesto.nvim) ![](https://img.shields.io/github/last-commit/lewistg/pesto.nvim) ![](https://img.shields.io/github/commit-activity/y/lewistg/pesto.nvim)
 - [glindstedt/obazel.nvim](https://github.com/glindstedt/obazel.nvim) ![](https://img.shields.io/github/stars/glindstedt/obazel.nvim) ![](https://img.shields.io/github/last-commit/glindstedt/obazel.nvim) ![](https://img.shields.io/github/commit-activity/y/glindstedt/obazel.nvim)
+- [rwooster/bazel-build-file.nvim](https://github.com/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/stars/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/last-commit/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/commit-activity/y/rwooster/bazel-build-file.nvim)
 
 #### ripgrep
 

@@ -695,6 +695,7 @@
 - [penczak/llama-line.nvim](https://github.com/penczak/llama-line.nvim) ![](https://img.shields.io/github/stars/penczak/llama-line.nvim) ![](https://img.shields.io/github/last-commit/penczak/llama-line.nvim) ![](https://img.shields.io/github/commit-activity/y/penczak/llama-line.nvim)
 - [anonymous-dev-org/0x0-completion.nvim](https://github.com/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0-completion.nvim)
 - [goropikari/ollama-completion.nvim](https://github.com/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama-completion.nvim)
+- [geoffjay/c18n.nvim](https://github.com/geoffjay/c18n.nvim) ![](https://img.shields.io/github/stars/geoffjay/c18n.nvim) ![](https://img.shields.io/github/last-commit/geoffjay/c18n.nvim) ![](https://img.shields.io/github/commit-activity/y/geoffjay/c18n.nvim)
 
 ### Claude
 

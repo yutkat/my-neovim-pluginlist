@@ -142,6 +142,7 @@
 - [hugooliveirad/annotate.nvim](https://github.com/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/stars/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/last-commit/hugooliveirad/annotate.nvim) ![](https://img.shields.io/github/commit-activity/y/hugooliveirad/annotate.nvim)
 - [kenfdev/nvim-feedbacks](https://github.com/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/stars/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/last-commit/kenfdev/nvim-feedbacks) ![](https://img.shields.io/github/commit-activity/y/kenfdev/nvim-feedbacks)
 - [jbuck95/glossator-nvim](https://github.com/jbuck95/glossator-nvim) ![](https://img.shields.io/github/stars/jbuck95/glossator-nvim) ![](https://img.shields.io/github/last-commit/jbuck95/glossator-nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/glossator-nvim)
+- [68mschmitt/gloss.nvim](https://github.com/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/stars/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/gloss.nvim)
 
 ### function comment
 
