@@ -69,6 +69,7 @@
 - [dajnz/link-jumper.nvim](https://github.com/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/stars/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/last-commit/dajnz/link-jumper.nvim) ![](https://img.shields.io/github/commit-activity/y/dajnz/link-jumper.nvim)
 - [nolleh/warp.nvim](https://github.com/nolleh/warp.nvim) ![](https://img.shields.io/github/stars/nolleh/warp.nvim) ![](https://img.shields.io/github/last-commit/nolleh/warp.nvim) ![](https://img.shields.io/github/commit-activity/y/nolleh/warp.nvim)
 - [krzmknt/blazin-g.nvim](https://github.com/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/stars/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/last-commit/krzmknt/blazin-g.nvim) ![](https://img.shields.io/github/commit-activity/y/krzmknt/blazin-g.nvim)
+- [tummetott/pathnav.nvim](https://github.com/tummetott/pathnav.nvim) ![](https://img.shields.io/github/stars/tummetott/pathnav.nvim) ![](https://img.shields.io/github/last-commit/tummetott/pathnav.nvim) ![](https://img.shields.io/github/commit-activity/y/tummetott/pathnav.nvim)
 
 ### Definition
 
