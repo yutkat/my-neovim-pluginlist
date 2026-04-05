@@ -371,6 +371,7 @@
 - [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
 - [tkachenko0/diffstore.nvim](https://github.com/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/stars/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/last-commit/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenko0/diffstore.nvim)
 - [xiaocang/gitrev.nvim](https://github.com/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/stars/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/last-commit/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaocang/gitrev.nvim)
+- [alex35mil/delta.nvim](https://github.com/alex35mil/delta.nvim) ![](https://img.shields.io/github/stars/alex35mil/delta.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/delta.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/delta.nvim)
 
 #### image diff
 
@@ -400,6 +401,7 @@
 - [chojs23/ec](https://github.com/chojs23/ec) ![](https://img.shields.io/github/stars/chojs23/ec) ![](https://img.shields.io/github/last-commit/chojs23/ec) ![](https://img.shields.io/github/commit-activity/y/chojs23/ec)
 - [shun095/nvim-merge-diff](https://github.com/shun095/nvim-merge-diff) ![](https://img.shields.io/github/stars/shun095/nvim-merge-diff) ![](https://img.shields.io/github/last-commit/shun095/nvim-merge-diff) ![](https://img.shields.io/github/commit-activity/y/shun095/nvim-merge-diff)
 - [Valentin-Guillet/conflict.nvim](https://github.com/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/stars/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/last-commit/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/Valentin-Guillet/conflict.nvim)
+- [niekdomi/conflict.nvim](https://github.com/niekdomi/conflict.nvim) ![](https://img.shields.io/github/stars/niekdomi/conflict.nvim) ![](https://img.shields.io/github/last-commit/niekdomi/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/niekdomi/conflict.nvim)
 
 ### git pull
 
@@ -792,6 +794,7 @@
 - [Speiser/gitlab-url.nvim](https://github.com/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/stars/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/last-commit/Speiser/gitlab-url.nvim) ![](https://img.shields.io/github/commit-activity/y/Speiser/gitlab-url.nvim)
 - [themuuln/the-glab.nvim](https://github.com/themuuln/the-glab.nvim) ![](https://img.shields.io/github/stars/themuuln/the-glab.nvim) ![](https://img.shields.io/github/last-commit/themuuln/the-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/themuuln/the-glab.nvim)
 - [tachyons/gitlab-lsp.nvim](https://github.com/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab-lsp.nvim)
+- [alexdovzhanyn/glab-mr.nvim](https://github.com/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/stars/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/last-commit/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexdovzhanyn/glab-mr.nvim)
 
 ### GitLab CI
 

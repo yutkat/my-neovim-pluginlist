@@ -103,6 +103,7 @@
 ## AI Coding
 
 - [urmzd/lazyspeak.nvim](https://github.com/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/stars/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/last-commit/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/commit-activity/y/urmzd/lazyspeak.nvim)
+- [kasbot951/murmur.nvim](https://github.com/kasbot951/murmur.nvim) ![](https://img.shields.io/github/stars/kasbot951/murmur.nvim) ![](https://img.shields.io/github/last-commit/kasbot951/murmur.nvim) ![](https://img.shields.io/github/commit-activity/y/kasbot951/murmur.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -694,6 +695,7 @@
 - [anonymous-dev-org/0x0-completion.nvim](https://github.com/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/stars/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/last-commit/anonymous-dev-org/0x0-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/anonymous-dev-org/0x0-completion.nvim)
 - [goropikari/ollama-completion.nvim](https://github.com/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama-completion.nvim)
 - [geoffjay/c18n.nvim](https://github.com/geoffjay/c18n.nvim) ![](https://img.shields.io/github/stars/geoffjay/c18n.nvim) ![](https://img.shields.io/github/last-commit/geoffjay/c18n.nvim) ![](https://img.shields.io/github/commit-activity/y/geoffjay/c18n.nvim)
+- [nhlmg93/supertab.nvim](https://github.com/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/stars/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/supertab.nvim)
 
 ### Claude
 
@@ -954,6 +956,7 @@
 ## Neovim Command
 
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
+- [dskart/nvim-claudehalp](https://github.com/dskart/nvim-claudehalp) ![](https://img.shields.io/github/stars/dskart/nvim-claudehalp) ![](https://img.shields.io/github/last-commit/dskart/nvim-claudehalp) ![](https://img.shields.io/github/commit-activity/y/dskart/nvim-claudehalp)
 
 ## Copy File Context
 
