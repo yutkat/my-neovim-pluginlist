@@ -257,6 +257,7 @@
 
 - [yioneko/nvim-type-fmt](https://github.com/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/stars/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/last-commit/yioneko/nvim-type-fmt) ![](https://img.shields.io/github/commit-activity/y/yioneko/nvim-type-fmt)
 - [aznhe21/lsp-query-format.nvim](https://github.com/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/stars/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/last-commit/aznhe21/lsp-query-format.nvim) ![](https://img.shields.io/github/commit-activity/y/aznhe21/lsp-query-format.nvim)
+- [sindrip/formatls.nvim](https://github.com/sindrip/formatls.nvim) ![](https://img.shields.io/github/stars/sindrip/formatls.nvim) ![](https://img.shields.io/github/last-commit/sindrip/formatls.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrip/formatls.nvim)
 
 #### Symbol
 
@@ -400,6 +401,7 @@
 - [Myzel394/config-lsp.nvim](https://github.com/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/stars/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/last-commit/Myzel394/config-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/Myzel394/config-lsp.nvim)
 - [asward/workspace-config.nvim](https://github.com/asward/workspace-config.nvim) ![](https://img.shields.io/github/stars/asward/workspace-config.nvim) ![](https://img.shields.io/github/last-commit/asward/workspace-config.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/workspace-config.nvim)
 - [HimadriChakra12/hsc.nvim](https://github.com/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/hsc.nvim)
+- [owenrumney/goreleaser-ls.nvim](https://github.com/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/stars/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/last-commit/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/owenrumney/goreleaser-ls.nvim)
 
 ## Backwards Compatibility
 

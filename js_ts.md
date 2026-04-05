@@ -177,6 +177,7 @@
 #### OXC
 
 - [soulsam480/nvim-oxlint](https://github.com/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/stars/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/last-commit/soulsam480/nvim-oxlint) ![](https://img.shields.io/github/commit-activity/y/soulsam480/nvim-oxlint)
+- [SimeonGrancharov/nvim-oxlint-fix-on-save](https://github.com/SimeonGrancharov/nvim-oxlint-fix-on-save) ![](https://img.shields.io/github/stars/SimeonGrancharov/nvim-oxlint-fix-on-save) ![](https://img.shields.io/github/last-commit/SimeonGrancharov/nvim-oxlint-fix-on-save) ![](https://img.shields.io/github/commit-activity/y/SimeonGrancharov/nvim-oxlint-fix-on-save)
 
 ### tsserver
 

@@ -322,6 +322,7 @@
 #### Made in Lua
 #### Made in Python
 #### Made in Rust
+#### Made in Go
 ### nvim-cmp extension
 #### nvim-cmp sources
 #### nvim-cmp comparator
@@ -1176,6 +1177,7 @@
 ### LeetCode
 ### AtCoder
 ### Codeforces
+### Codewars
 ### exercism
 ### Advent of code
 ## Configuration

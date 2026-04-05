@@ -386,6 +386,7 @@
 - [segfaulted67/rln.nvim](https://github.com/segfaulted67/rln.nvim) ![](https://img.shields.io/github/stars/segfaulted67/rln.nvim) ![](https://img.shields.io/github/last-commit/segfaulted67/rln.nvim) ![](https://img.shields.io/github/commit-activity/y/segfaulted67/rln.nvim)
 - [stikypiston/unobtrusive-relnums.nvim](https://github.com/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/stars/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/last-commit/stikypiston/unobtrusive-relnums.nvim) ![](https://img.shields.io/github/commit-activity/y/stikypiston/unobtrusive-relnums.nvim)
 - [lum1nar/peep.nvim](https://github.com/lum1nar/peep.nvim) ![](https://img.shields.io/github/stars/lum1nar/peep.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/peep.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/peep.nvim)
+- [secobaka/peepingnum.nvim](https://github.com/secobaka/peepingnum.nvim) ![](https://img.shields.io/github/stars/secobaka/peepingnum.nvim) ![](https://img.shields.io/github/last-commit/secobaka/peepingnum.nvim) ![](https://img.shields.io/github/commit-activity/y/secobaka/peepingnum.nvim)
 
 ### [Mark](./mark.md)
 

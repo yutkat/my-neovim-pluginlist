@@ -182,10 +182,11 @@
   - [Project Euler](#project-euler)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
-  - [LeetCode](#leetcode)
-  - [AtCoder](#atcoder)
-  - [Codeforces](#codeforces-1)
-  - [exercism](#exercism)
+    - [LeetCode](#leetcode)
+    - [AtCoder](#atcoder)
+    - [Codeforces](#codeforces-1)
+    - [Codewars](#codewars)
+    - [exercism](#exercism)
   - [Advent of code](#advent-of-code)
 - [Configuration](#configuration)
   - [School](#school)
@@ -1041,6 +1042,10 @@
 ### Codeforces
 
 - [paulrounak/cfhelper.nvim](https://github.com/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/stars/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/last-commit/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/commit-activity/y/paulrounak/cfhelper.nvim)
+
+### Codewars
+
+- [prosk-sudo/codewars.nvim](https://github.com/prosk-sudo/codewars.nvim) ![](https://img.shields.io/github/stars/prosk-sudo/codewars.nvim) ![](https://img.shields.io/github/last-commit/prosk-sudo/codewars.nvim) ![](https://img.shields.io/github/commit-activity/y/prosk-sudo/codewars.nvim)
 
 ### exercism
 
