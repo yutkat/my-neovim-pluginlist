@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Go](#go)
+  - [Complexity](#complexity)
   - [gofmt](#gofmt)
   - [go list](#go-list)
   - [go run](#go-run)
@@ -62,6 +63,10 @@
 - [fahmiauliarahman/goctl.nvim](https://github.com/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/stars/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/last-commit/fahmiauliarahman/goctl.nvim) ![](https://img.shields.io/github/commit-activity/y/fahmiauliarahman/goctl.nvim)
 - [akaptelinin/go-unfucked.nvim](https://github.com/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/stars/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/last-commit/akaptelinin/go-unfucked.nvim) ![](https://img.shields.io/github/commit-activity/y/akaptelinin/go-unfucked.nvim)
 - [abhipranay/nvim-go-sigrefactor](https://github.com/abhipranay/nvim-go-sigrefactor) ![](https://img.shields.io/github/stars/abhipranay/nvim-go-sigrefactor) ![](https://img.shields.io/github/last-commit/abhipranay/nvim-go-sigrefactor) ![](https://img.shields.io/github/commit-activity/y/abhipranay/nvim-go-sigrefactor)
+
+### Complexity
+
+- [sjclayton/goplexity.nvim](https://github.com/sjclayton/goplexity.nvim) ![](https://img.shields.io/github/stars/sjclayton/goplexity.nvim) ![](https://img.shields.io/github/last-commit/sjclayton/goplexity.nvim) ![](https://img.shields.io/github/commit-activity/y/sjclayton/goplexity.nvim)
 
 ### gofmt
 

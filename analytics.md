@@ -67,6 +67,7 @@
 - [lsshawn/tracktime.nvim](https://github.com/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/stars/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/last-commit/lsshawn/tracktime.nvim) ![](https://img.shields.io/github/commit-activity/y/lsshawn/tracktime.nvim)
 - [SanzharKuandyk/toggl-track.nvim](https://github.com/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/toggl-track.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/toggl-track.nvim)
 - [taigrr/blast.nvim](https://github.com/taigrr/blast.nvim) ![](https://img.shields.io/github/stars/taigrr/blast.nvim) ![](https://img.shields.io/github/last-commit/taigrr/blast.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/blast.nvim)
+- [sabiqazhar/tailtime.nvim](https://github.com/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/stars/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/last-commit/sabiqazhar/tailtime.nvim) ![](https://img.shields.io/github/commit-activity/y/sabiqazhar/tailtime.nvim)
 
 #### Timewarrior
 

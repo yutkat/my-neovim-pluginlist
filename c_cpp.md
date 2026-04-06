@@ -106,6 +106,7 @@
 - [Fildo7525/reloader.nvim](https://github.com/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/stars/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/last-commit/Fildo7525/reloader.nvim) ![](https://img.shields.io/github/commit-activity/y/Fildo7525/reloader.nvim)
 - [shadowchiki/nvim-cpp-tools](https://github.com/shadowchiki/nvim-cpp-tools) ![](https://img.shields.io/github/stars/shadowchiki/nvim-cpp-tools) ![](https://img.shields.io/github/last-commit/shadowchiki/nvim-cpp-tools) ![](https://img.shields.io/github/commit-activity/y/shadowchiki/nvim-cpp-tools)
 - [segoon/compile-commands-yamake.nvim](https://github.com/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/stars/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/last-commit/segoon/compile-commands-yamake.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/compile-commands-yamake.nvim)
+- [troyliu0105/cmantc.nvim](https://github.com/troyliu0105/cmantc.nvim) ![](https://img.shields.io/github/stars/troyliu0105/cmantc.nvim) ![](https://img.shields.io/github/last-commit/troyliu0105/cmantc.nvim) ![](https://img.shields.io/github/commit-activity/y/troyliu0105/cmantc.nvim)
 
 #### GCC
 

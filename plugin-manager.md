@@ -86,6 +86,7 @@
 - [JPierro0513/pack-wrap.nvim](https://github.com/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/stars/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/last-commit/JPierro0513/pack-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/JPierro0513/pack-wrap.nvim)
 - [TheMagSec/gpack.nvim](https://github.com/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/stars/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/last-commit/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMagSec/gpack.nvim)
 - [vcraescu/pack.nvim](https://github.com/vcraescu/pack.nvim) ![](https://img.shields.io/github/stars/vcraescu/pack.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/pack.nvim)
+- [HimadriChakra12/deck.nvim](https://github.com/HimadriChakra12/deck.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/deck.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/deck.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/deck.nvim)
 
 ### Update checker
 
