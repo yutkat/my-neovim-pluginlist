@@ -26,6 +26,8 @@
 - [a73s/treesitter-diagnostics.nvim](https://github.com/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/stars/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/a73s/treesitter-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/a73s/treesitter-diagnostics.nvim)
 - [VonHeikemen/ts-enable.nvim](https://github.com/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/stars/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/last-commit/VonHeikemen/ts-enable.nvim) ![](https://img.shields.io/github/commit-activity/y/VonHeikemen/ts-enable.nvim)
 - [ViniiR/nvim-treesitter-extension](https://github.com/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/stars/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/last-commit/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/commit-activity/y/ViniiR/nvim-treesitter-extension)
+- [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-textobjects)
+- [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
 
 ### Installer
 
