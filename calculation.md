@@ -34,3 +34,4 @@
 
 - [corsantic/chrono.nvim](https://github.com/corsantic/chrono.nvim) ![](https://img.shields.io/github/stars/corsantic/chrono.nvim) ![](https://img.shields.io/github/last-commit/corsantic/chrono.nvim) ![](https://img.shields.io/github/commit-activity/y/corsantic/chrono.nvim)
 - [Dzejkop/datepicker.nvim](https://github.com/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/stars/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/datepicker.nvim)
+- [ask-786/time-calculator.nvim](https://github.com/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/stars/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/last-commit/ask-786/time-calculator.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/time-calculator.nvim)
