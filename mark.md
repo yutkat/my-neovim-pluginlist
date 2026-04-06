@@ -57,6 +57,7 @@
 - [delphinus/inspect-extmarks.nvim](https://github.com/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/stars/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/last-commit/delphinus/inspect-extmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/inspect-extmarks.nvim)
 - [alanfortlink/animatedbg.nvim](https://github.com/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/stars/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/last-commit/alanfortlink/animatedbg.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfortlink/animatedbg.nvim)
 - [qrikko/pin.nvim](https://github.com/qrikko/pin.nvim) ![](https://img.shields.io/github/stars/qrikko/pin.nvim) ![](https://img.shields.io/github/last-commit/qrikko/pin.nvim) ![](https://img.shields.io/github/commit-activity/y/qrikko/pin.nvim)
+- [qrikko/markers.nvim](https://github.com/qrikko/markers.nvim) ![](https://img.shields.io/github/stars/qrikko/markers.nvim) ![](https://img.shields.io/github/last-commit/qrikko/markers.nvim) ![](https://img.shields.io/github/commit-activity/y/qrikko/markers.nvim)
 
 ### sign
 

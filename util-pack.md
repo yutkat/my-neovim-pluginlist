@@ -46,6 +46,7 @@
 - [wsdjeg/utils.nvim](https://github.com/wsdjeg/utils.nvim) ![](https://img.shields.io/github/stars/wsdjeg/utils.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/utils.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/utils.nvim)
 - [hyperstown/hacks.nvim](https://github.com/hyperstown/hacks.nvim) ![](https://img.shields.io/github/stars/hyperstown/hacks.nvim) ![](https://img.shields.io/github/last-commit/hyperstown/hacks.nvim) ![](https://img.shields.io/github/commit-activity/y/hyperstown/hacks.nvim)
 - [ImmanuelHaffner/nvu.nvim](https://github.com/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/nvu.nvim)
+- [kototuz/simple.nvim](https://github.com/kototuz/simple.nvim) ![](https://img.shields.io/github/stars/kototuz/simple.nvim) ![](https://img.shields.io/github/last-commit/kototuz/simple.nvim) ![](https://img.shields.io/github/commit-activity/y/kototuz/simple.nvim)
 
 ## UI
 

@@ -169,6 +169,7 @@
 
 - [evanbattaglia/sendtoterm.nvim](https://github.com/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/stars/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/last-commit/evanbattaglia/sendtoterm.nvim) ![](https://img.shields.io/github/commit-activity/y/evanbattaglia/sendtoterm.nvim)
 - [grimmjulian/pickleterm.nvim](https://github.com/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/stars/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/last-commit/grimmjulian/pickleterm.nvim) ![](https://img.shields.io/github/commit-activity/y/grimmjulian/pickleterm.nvim)
+- [skbolton/gossip.nvim](https://github.com/skbolton/gossip.nvim) ![](https://img.shields.io/github/stars/skbolton/gossip.nvim) ![](https://img.shields.io/github/last-commit/skbolton/gossip.nvim) ![](https://img.shields.io/github/commit-activity/y/skbolton/gossip.nvim)
 
 ### Mapping
 

@@ -295,6 +295,7 @@
 
 # comment.md
 ## Comment out
+### Continue
 ### CommentString
 ### Diagnostic Comment
 ### Comment Header
@@ -693,6 +694,7 @@
 
 # go.md
 ## Go
+### Complexity
 ### gofmt
 ### go list
 ### go run

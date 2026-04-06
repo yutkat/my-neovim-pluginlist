@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Comment out](#comment-out)
+  - [Continue](#continue)
   - [CommentString](#commentstring)
   - [Diagnostic Comment](#diagnostic-comment)
   - [Comment Header](#comment-header)
@@ -54,6 +55,10 @@
 - [yuki-yano/cmt.nvim](https://github.com/yuki-yano/cmt.nvim) ![](https://img.shields.io/github/stars/yuki-yano/cmt.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/cmt.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/cmt.nvim)
 - [josstei/quill.nvim](https://github.com/josstei/quill.nvim) ![](https://img.shields.io/github/stars/josstei/quill.nvim) ![](https://img.shields.io/github/last-commit/josstei/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/josstei/quill.nvim)
 
+### Continue
+
+- [sanjayshr/comment-cont.nvim](https://github.com/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/stars/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/last-commit/sanjayshr/comment-cont.nvim) ![](https://img.shields.io/github/commit-activity/y/sanjayshr/comment-cont.nvim)
+
 ### CommentString
 
 - [JoosepAlviste/nvim-ts-context-commentstring](https://github.com/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/stars/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/last-commit/JoosepAlviste/nvim-ts-context-commentstring) ![](https://img.shields.io/github/commit-activity/y/JoosepAlviste/nvim-ts-context-commentstring)
@@ -85,6 +90,7 @@
 ### Voice comment
 
 - [madelynwith5ns/vo-comment.nvim](https://github.com/madelynwith5ns/vo-comment.nvim) ![](https://img.shields.io/github/stars/madelynwith5ns/vo-comment.nvim) ![](https://img.shields.io/github/last-commit/madelynwith5ns/vo-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/madelynwith5ns/vo-comment.nvim)
+- [NitroVim/voice.nvim](https://github.com/NitroVim/voice.nvim) ![](https://img.shields.io/github/stars/NitroVim/voice.nvim) ![](https://img.shields.io/github/last-commit/NitroVim/voice.nvim) ![](https://img.shields.io/github/commit-activity/y/NitroVim/voice.nvim)
 
 ## File Header
 

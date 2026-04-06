@@ -248,6 +248,7 @@
 - [jinzhongjia/ai-gitcommit.nvim](https://github.com/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/stars/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/last-commit/jinzhongjia/ai-gitcommit.nvim) ![](https://img.shields.io/github/commit-activity/y/jinzhongjia/ai-gitcommit.nvim)
 - [cjvnjde/ai-split-commit.nvim](https://github.com/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-split-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-split-commit.nvim)
 - [Jannik-Schroeder/commitgen.nvim](https://github.com/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/stars/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/last-commit/Jannik-Schroeder/commitgen.nvim) ![](https://img.shields.io/github/commit-activity/y/Jannik-Schroeder/commitgen.nvim)
+- [cjvnjde/ai-commit.nvim](https://github.com/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-commit.nvim)
 
 ### git fetch
 

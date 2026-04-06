@@ -426,6 +426,7 @@
 - [sundbp/lispy-helpers.nvim](https://github.com/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/stars/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/last-commit/sundbp/lispy-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/sundbp/lispy-helpers.nvim)
 - [joaobzrr/ooze.nvim](https://github.com/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/stars/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/last-commit/joaobzrr/ooze.nvim) ![](https://img.shields.io/github/commit-activity/y/joaobzrr/ooze.nvim)
 - [parenworks/sextant.nvim](https://github.com/parenworks/sextant.nvim) ![](https://img.shields.io/github/stars/parenworks/sextant.nvim) ![](https://img.shields.io/github/last-commit/parenworks/sextant.nvim) ![](https://img.shields.io/github/commit-activity/y/parenworks/sextant.nvim)
+- [corigne/swank.nvim](https://github.com/corigne/swank.nvim) ![](https://img.shields.io/github/stars/corigne/swank.nvim) ![](https://img.shields.io/github/last-commit/corigne/swank.nvim) ![](https://img.shields.io/github/commit-activity/y/corigne/swank.nvim)
 
 #### Lingua Franca
 

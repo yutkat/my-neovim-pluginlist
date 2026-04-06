@@ -34,6 +34,7 @@
 - [sobue-code/nvim-spec-changelog](https://github.com/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/stars/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/last-commit/sobue-code/nvim-spec-changelog) ![](https://img.shields.io/github/commit-activity/y/sobue-code/nvim-spec-changelog)
 - [fibsussy/gcode.nvim](https://github.com/fibsussy/gcode.nvim) ![](https://img.shields.io/github/stars/fibsussy/gcode.nvim) ![](https://img.shields.io/github/last-commit/fibsussy/gcode.nvim) ![](https://img.shields.io/github/commit-activity/y/fibsussy/gcode.nvim)
 - [jscaltreto/downstage.nvim](https://github.com/jscaltreto/downstage.nvim) ![](https://img.shields.io/github/stars/jscaltreto/downstage.nvim) ![](https://img.shields.io/github/last-commit/jscaltreto/downstage.nvim) ![](https://img.shields.io/github/commit-activity/y/jscaltreto/downstage.nvim)
+- [polymerase60053/mmcif.nvim](https://github.com/polymerase60053/mmcif.nvim) ![](https://img.shields.io/github/stars/polymerase60053/mmcif.nvim) ![](https://img.shields.io/github/last-commit/polymerase60053/mmcif.nvim) ![](https://img.shields.io/github/commit-activity/y/polymerase60053/mmcif.nvim)
 
 ### filetype colorscheme
 
