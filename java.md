@@ -59,6 +59,7 @@
 
 - [nvim-java/nvim-java-dap](https://github.com/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/stars/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/last-commit/nvim-java/nvim-java-dap) ![](https://img.shields.io/github/commit-activity/y/nvim-java/nvim-java-dap)
 - [CrystalMethod/nvim-jfr](https://github.com/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/stars/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/last-commit/CrystalMethod/nvim-jfr) ![](https://img.shields.io/github/commit-activity/y/CrystalMethod/nvim-jfr)
+- [vulcanshen/nvim-java-debugger](https://github.com/vulcanshen/nvim-java-debugger) ![](https://img.shields.io/github/stars/vulcanshen/nvim-java-debugger) ![](https://img.shields.io/github/last-commit/vulcanshen/nvim-java-debugger) ![](https://img.shields.io/github/commit-activity/y/vulcanshen/nvim-java-debugger)
 
 #### Stacktrace
 
