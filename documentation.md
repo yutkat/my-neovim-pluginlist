@@ -500,6 +500,7 @@
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/stars/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/last-commit/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-asciidoc-preview)
 - [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 - [cpkio/nvim-treesitter-asciidoc](https://github.com/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/stars/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/last-commit/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-treesitter-asciidoc)
+- [dghuuloc/asciidoc.nvim](https://github.com/dghuuloc/asciidoc.nvim) ![](https://img.shields.io/github/stars/dghuuloc/asciidoc.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/asciidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/asciidoc.nvim)
 
 ### Mindmap
 
