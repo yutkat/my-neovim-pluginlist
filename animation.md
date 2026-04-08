@@ -22,6 +22,7 @@
 - [giuseppesalvi/nvim-ascii-animation](https://github.com/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/stars/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/last-commit/giuseppesalvi/nvim-ascii-animation) ![](https://img.shields.io/github/commit-activity/y/giuseppesalvi/nvim-ascii-animation)
 - [ian-howell/ripple-on-save.nvim](https://github.com/ian-howell/ripple-on-save.nvim) ![](https://img.shields.io/github/stars/ian-howell/ripple-on-save.nvim) ![](https://img.shields.io/github/last-commit/ian-howell/ripple-on-save.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-howell/ripple-on-save.nvim)
 - [itreau/goofy.nvim](https://github.com/itreau/goofy.nvim) ![](https://img.shields.io/github/stars/itreau/goofy.nvim) ![](https://img.shields.io/github/last-commit/itreau/goofy.nvim) ![](https://img.shields.io/github/commit-activity/y/itreau/goofy.nvim)
+- [eduardoarandah/explode.nvim](https://github.com/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/explode.nvim)
 
 ### Snow effect
 

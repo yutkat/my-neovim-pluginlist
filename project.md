@@ -98,6 +98,7 @@
 - [jakobwesthoff/taproot.nvim](https://github.com/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/taproot.nvim)
 - [andrewwillette/project.nvim](https://github.com/andrewwillette/project.nvim) ![](https://img.shields.io/github/stars/andrewwillette/project.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/project.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/project.nvim)
 - [Aetherall/rooter.nvim](https://github.com/Aetherall/rooter.nvim) ![](https://img.shields.io/github/stars/Aetherall/rooter.nvim) ![](https://img.shields.io/github/last-commit/Aetherall/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/Aetherall/rooter.nvim)
+- [rwooster/libbazel.nvim](https://github.com/rwooster/libbazel.nvim) ![](https://img.shields.io/github/stars/rwooster/libbazel.nvim) ![](https://img.shields.io/github/last-commit/rwooster/libbazel.nvim) ![](https://img.shields.io/github/commit-activity/y/rwooster/libbazel.nvim)
 
 ### Project Note
 

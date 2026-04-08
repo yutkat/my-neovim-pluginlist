@@ -697,6 +697,7 @@
 - [goropikari/ollama-completion.nvim](https://github.com/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/stars/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/last-commit/goropikari/ollama-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/ollama-completion.nvim)
 - [geoffjay/c18n.nvim](https://github.com/geoffjay/c18n.nvim) ![](https://img.shields.io/github/stars/geoffjay/c18n.nvim) ![](https://img.shields.io/github/last-commit/geoffjay/c18n.nvim) ![](https://img.shields.io/github/commit-activity/y/geoffjay/c18n.nvim)
 - [nhlmg93/supertab.nvim](https://github.com/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/stars/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/supertab.nvim)
+- [ixigo/agentify.nvim](https://github.com/ixigo/agentify.nvim) ![](https://img.shields.io/github/stars/ixigo/agentify.nvim) ![](https://img.shields.io/github/last-commit/ixigo/agentify.nvim) ![](https://img.shields.io/github/commit-activity/y/ixigo/agentify.nvim)
 
 ### Claude
 
@@ -772,6 +773,9 @@
 - [lanjoni/pi.nvim](https://github.com/lanjoni/pi.nvim) ![](https://img.shields.io/github/stars/lanjoni/pi.nvim) ![](https://img.shields.io/github/last-commit/lanjoni/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/lanjoni/pi.nvim)
 - [aliou/nvim-pi](https://github.com/aliou/nvim-pi) ![](https://img.shields.io/github/stars/aliou/nvim-pi) ![](https://img.shields.io/github/last-commit/aliou/nvim-pi) ![](https://img.shields.io/github/commit-activity/y/aliou/nvim-pi)
 - [rjshrjndrn/pi.nvim](https://github.com/rjshrjndrn/pi.nvim) ![](https://img.shields.io/github/stars/rjshrjndrn/pi.nvim) ![](https://img.shields.io/github/last-commit/rjshrjndrn/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/rjshrjndrn/pi.nvim)
+- [Huijiro/nvim-pi](https://github.com/Huijiro/nvim-pi) ![](https://img.shields.io/github/stars/Huijiro/nvim-pi) ![](https://img.shields.io/github/last-commit/Huijiro/nvim-pi) ![](https://img.shields.io/github/commit-activity/y/Huijiro/nvim-pi)
+- [gumonteilh/nvim-pi](https://github.com/gumonteilh/nvim-pi) ![](https://img.shields.io/github/stars/gumonteilh/nvim-pi) ![](https://img.shields.io/github/last-commit/gumonteilh/nvim-pi) ![](https://img.shields.io/github/commit-activity/y/gumonteilh/nvim-pi)
+- [pbonh/pi-traycer.nvim](https://github.com/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/stars/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/last-commit/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/commit-activity/y/pbonh/pi-traycer.nvim)
 
 ### Amp
 
@@ -802,6 +806,7 @@
 - [herschel21/nvim-chat-ai](https://github.com/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/stars/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat-ai)
 - [benjaminyakobi/chat.nvim](https://github.com/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/stars/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/last-commit/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminyakobi/chat.nvim)
 - [68mschmitt/ai-chat.nvim](https://github.com/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/stars/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/ai-chat.nvim)
+- [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
 
 ## AI Terminal
 
@@ -908,6 +913,7 @@
 - [Pustelto/nvim-code-review](https://github.com/Pustelto/nvim-code-review) ![](https://img.shields.io/github/stars/Pustelto/nvim-code-review) ![](https://img.shields.io/github/last-commit/Pustelto/nvim-code-review) ![](https://img.shields.io/github/commit-activity/y/Pustelto/nvim-code-review)
 - [68mschmitt/docent.nvim](https://github.com/68mschmitt/docent.nvim) ![](https://img.shields.io/github/stars/68mschmitt/docent.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/docent.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/docent.nvim)
 - [okazagi/code-review.nvim](https://github.com/okazagi/code-review.nvim) ![](https://img.shields.io/github/stars/okazagi/code-review.nvim) ![](https://img.shields.io/github/last-commit/okazagi/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/okazagi/code-review.nvim)
+- [makefinks/doubt.nvim](https://github.com/makefinks/doubt.nvim) ![](https://img.shields.io/github/stars/makefinks/doubt.nvim) ![](https://img.shields.io/github/last-commit/makefinks/doubt.nvim) ![](https://img.shields.io/github/commit-activity/y/makefinks/doubt.nvim)
 
 ## Documentation
 
