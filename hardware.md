@@ -88,6 +88,7 @@
 - [VLPatton/frcpal.nvim](https://github.com/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/stars/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/last-commit/VLPatton/frcpal.nvim) ![](https://img.shields.io/github/commit-activity/y/VLPatton/frcpal.nvim)
 - [frc4533-lincoln/wpilib.nvim](https://github.com/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/stars/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/last-commit/frc4533-lincoln/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/frc4533-lincoln/wpilib.nvim)
 - [SnarkyDeveloper/wpilib.nvim](https://github.com/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/stars/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/last-commit/SnarkyDeveloper/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/SnarkyDeveloper/wpilib.nvim)
+- [spacey-sooty/wpilib.nvim](https://github.com/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/stars/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/last-commit/spacey-sooty/wpilib.nvim) ![](https://img.shields.io/github/commit-activity/y/spacey-sooty/wpilib.nvim)
 
 #### Robot framework
 
