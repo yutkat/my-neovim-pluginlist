@@ -189,7 +189,6 @@
 
 - [Redoxahmii/json-to-ts.nvim](https://github.com/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/stars/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/Redoxahmii/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/Redoxahmii/json-to-ts.nvim)
 - [koengommers/telescope-data-paths.nvim](https://github.com/koengommers/telescope-data-paths.nvim) ![](https://img.shields.io/github/stars/koengommers/telescope-data-paths.nvim) ![](https://img.shields.io/github/last-commit/koengommers/telescope-data-paths.nvim) ![](https://img.shields.io/github/commit-activity/y/koengommers/telescope-data-paths.nvim)
-- [ask-786/json-to-ts.nvim](https://github.com/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/stars/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/json-to-ts.nvim)
 
 ### Test
 
