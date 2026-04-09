@@ -8,6 +8,7 @@
   - [Pet](#pet)
   - [Coinflip](#coinflip)
   - [Book](#book)
+    - [Reading](#reading)
   - [View](#view)
   - [Training](#training)
   - [Turing path](#turing-path)
@@ -69,6 +70,10 @@
 ### Book
 
 - [oleksiiluchnikov/eagle.nvim](https://github.com/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/stars/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/last-commit/oleksiiluchnikov/eagle.nvim) ![](https://img.shields.io/github/commit-activity/y/oleksiiluchnikov/eagle.nvim)
+
+#### Reading
+
+- [chrisgleitze/kant.nvim](https://github.com/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/kant.nvim)
 
 ### View
 
