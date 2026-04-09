@@ -482,6 +482,7 @@
 - [kevalin/mermaid.nvim](https://github.com/kevalin/mermaid.nvim) ![](https://img.shields.io/github/stars/kevalin/mermaid.nvim) ![](https://img.shields.io/github/last-commit/kevalin/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/kevalin/mermaid.nvim)
 - [ruslan-kurchenko/nvim-beautiful-mermaid](https://github.com/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/stars/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/last-commit/ruslan-kurchenko/nvim-beautiful-mermaid) ![](https://img.shields.io/github/commit-activity/y/ruslan-kurchenko/nvim-beautiful-mermaid)
 - [The-Ox-22/beautiful-mermaid.nvim](https://github.com/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Ox-22/beautiful-mermaid.nvim)
+- [TakuSemba/mermaid-ascii.nvim](https://github.com/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/stars/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/last-commit/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/TakuSemba/mermaid-ascii.nvim)
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) ![](https://img.shields.io/github/stars/ktrysmt/memd.nvim) ![](https://img.shields.io/github/last-commit/ktrysmt/memd.nvim) ![](https://img.shields.io/github/commit-activity/y/ktrysmt/memd.nvim)
 
 ### pikchr
@@ -636,6 +637,7 @@
 - [krissen/snacks-bibtex.nvim](https://github.com/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/krissen/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/krissen/snacks-bibtex.nvim)
 - [urtzienriquez/citeref.nvim](https://github.com/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/citeref.nvim)
 - [mschmidty/bib-builder.nvim](https://github.com/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/stars/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/bib-builder.nvim)
+- [nganhkhoa/dblp.nvim](https://github.com/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/dblp.nvim)
 
 #### Speech
 
