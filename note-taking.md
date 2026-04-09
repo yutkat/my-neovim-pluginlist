@@ -381,6 +381,8 @@
 - [Andrew-42/obsidian-calendar.nvim](https://github.com/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/stars/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/last-commit/Andrew-42/obsidian-calendar.nvim) ![](https://img.shields.io/github/commit-activity/y/Andrew-42/obsidian-calendar.nvim)
 - [Davi-S/nvim-obsidian](https://github.com/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/stars/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/last-commit/Davi-S/nvim-obsidian) ![](https://img.shields.io/github/commit-activity/y/Davi-S/nvim-obsidian)
 - [JulianDeclercq/obsidian-cli.nvim](https://github.com/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/stars/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/last-commit/JulianDeclercq/obsidian-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/JulianDeclercq/obsidian-cli.nvim)
+- [hidetoshing/obsidianus.nvim](https://github.com/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/stars/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/last-commit/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/commit-activity/y/hidetoshing/obsidianus.nvim)
+- [simplycycling/obsidian-preview.nvim](https://github.com/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/stars/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/last-commit/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/simplycycling/obsidian-preview.nvim)
 
 ### Logseq
 

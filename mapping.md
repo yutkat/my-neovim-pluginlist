@@ -140,6 +140,7 @@
 - [abdul-hamid-achik/keymaps.nvim](https://github.com/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/stars/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/last-commit/abdul-hamid-achik/keymaps.nvim) ![](https://img.shields.io/github/commit-activity/y/abdul-hamid-achik/keymaps.nvim)
 - [vsyaco/keymaps-help.nvim](https://github.com/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/stars/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/last-commit/vsyaco/keymaps-help.nvim) ![](https://img.shields.io/github/commit-activity/y/vsyaco/keymaps-help.nvim)
 - [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) ![](https://img.shields.io/github/stars/aikhe/wrapped.nvim) ![](https://img.shields.io/github/last-commit/aikhe/wrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/aikhe/wrapped.nvim)
+- [rnemeth90/nvim-show-keymaps](https://github.com/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/stars/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/last-commit/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/commit-activity/y/rnemeth90/nvim-show-keymaps)
 
 ### Prefix Key Binding
 

@@ -1005,6 +1005,9 @@
 #### Lumos
 #### Alloy
 #### Allium
+#### COSMOS
+#### Oryn
+#### SudoLang
 #### C
 ##### Compile
 ###### Roslyn

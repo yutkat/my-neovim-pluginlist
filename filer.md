@@ -243,6 +243,7 @@
 - [nabekou29/trev.nvim](https://github.com/nabekou29/trev.nvim) ![](https://img.shields.io/github/stars/nabekou29/trev.nvim) ![](https://img.shields.io/github/last-commit/nabekou29/trev.nvim) ![](https://img.shields.io/github/commit-activity/y/nabekou29/trev.nvim)
 - [hl037/filetreeasy.nvim](https://github.com/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/stars/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/filetreeasy.nvim)
   - [hl037/treeasy.nvim](https://github.com/hl037/treeasy.nvim) ![](https://img.shields.io/github/stars/hl037/treeasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/treeasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/treeasy.nvim)
+- [0ax1/tree.nvim](https://github.com/0ax1/tree.nvim) ![](https://img.shields.io/github/stars/0ax1/tree.nvim) ![](https://img.shields.io/github/last-commit/0ax1/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/0ax1/tree.nvim)
 
 ### File rename
 

@@ -430,6 +430,7 @@
 - [andyjeffries/lazydocs.nvim](https://github.com/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/stars/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/andyjeffries/lazydocs.nvim)
 - [kwerie/vendure-docs-browser.nvim](https://github.com/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/stars/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/last-commit/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/kwerie/vendure-docs-browser.nvim)
 - [Victor-johnsson/aspire-docs.nvim](https://github.com/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/stars/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/last-commit/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/Victor-johnsson/aspire-docs.nvim)
+- [chrisgleitze/kant.nvim](https://github.com/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/kant.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/kant.nvim)
 
 ### Fountain
 
