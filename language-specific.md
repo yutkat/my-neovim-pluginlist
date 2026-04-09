@@ -11,6 +11,9 @@
     - [Lumos](#lumos)
     - [Alloy](#alloy)
     - [Allium](#allium)
+    - [COSMOS](#cosmos)
+    - [Oryn](#oryn)
+    - [SudoLang](#sudolang)
     - [C](#c)
       - [Compile](#compile)
         - [Roslyn](#roslyn)
@@ -237,6 +240,18 @@
 #### Allium
 
 - [juxt/nvim-allium](https://github.com/juxt/nvim-allium) ![](https://img.shields.io/github/stars/juxt/nvim-allium) ![](https://img.shields.io/github/last-commit/juxt/nvim-allium) ![](https://img.shields.io/github/commit-activity/y/juxt/nvim-allium)
+
+#### COSMOS
+
+- [TheMikeste1/nvim-tree-sitter-cosmos](https://github.com/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/stars/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/last-commit/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/commit-activity/y/TheMikeste1/nvim-tree-sitter-cosmos)
+
+#### Oryn
+
+- [oryn-lang/oryn.nvim](https://github.com/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/stars/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/last-commit/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/commit-activity/y/oryn-lang/oryn.nvim)
+
+#### SudoLang
+
+- [brunoti/sudolang.nvim](https://github.com/brunoti/sudolang.nvim) ![](https://img.shields.io/github/stars/brunoti/sudolang.nvim) ![](https://img.shields.io/github/last-commit/brunoti/sudolang.nvim) ![](https://img.shields.io/github/commit-activity/y/brunoti/sudolang.nvim)
 
 #### C
 

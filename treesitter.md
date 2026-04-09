@@ -38,6 +38,7 @@
 - [desdic/simple-treesitter.nvim](https://github.com/desdic/simple-treesitter.nvim) ![](https://img.shields.io/github/stars/desdic/simple-treesitter.nvim) ![](https://img.shields.io/github/last-commit/desdic/simple-treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/desdic/simple-treesitter.nvim)
 - [yuchanns/ishiku.nvim](https://github.com/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/stars/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/ishiku.nvim)
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/stars/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/last-commit/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/commit-activity/y/arborist-ts/arborist.nvim)
+- [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/treesitter.nvim)
 
 ## Code Action
 

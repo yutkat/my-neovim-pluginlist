@@ -73,6 +73,7 @@
 
 - [neanias/telescope-lines.nvim](https://github.com/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/stars/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/last-commit/neanias/telescope-lines.nvim) ![](https://img.shields.io/github/commit-activity/y/neanias/telescope-lines.nvim)
 - [jtroo/telescope-buffer-extract](https://github.com/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/stars/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/last-commit/jtroo/telescope-buffer-extract) ![](https://img.shields.io/github/commit-activity/y/jtroo/telescope-buffer-extract)
+- [jkhas8/linefinder.nvim](https://github.com/jkhas8/linefinder.nvim) ![](https://img.shields.io/github/stars/jkhas8/linefinder.nvim) ![](https://img.shields.io/github/last-commit/jkhas8/linefinder.nvim) ![](https://img.shields.io/github/commit-activity/y/jkhas8/linefinder.nvim)
 
 ### Range Search
 

@@ -98,6 +98,7 @@
 - [Abizrh/beastie.nvim](https://github.com/Abizrh/beastie.nvim) ![](https://img.shields.io/github/stars/Abizrh/beastie.nvim) ![](https://img.shields.io/github/last-commit/Abizrh/beastie.nvim) ![](https://img.shields.io/github/commit-activity/y/Abizrh/beastie.nvim)
 - [mageOfstructs/custom-emojis.nvim](https://github.com/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/stars/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/last-commit/mageOfstructs/custom-emojis.nvim) ![](https://img.shields.io/github/commit-activity/y/mageOfstructs/custom-emojis.nvim)
 - [aiya000/nvim-luasnip-emoji](https://github.com/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/stars/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/last-commit/aiya000/nvim-luasnip-emoji) ![](https://img.shields.io/github/commit-activity/y/aiya000/nvim-luasnip-emoji)
+- [vkhangpham/emotes.nvim](https://github.com/vkhangpham/emotes.nvim) ![](https://img.shields.io/github/stars/vkhangpham/emotes.nvim) ![](https://img.shields.io/github/last-commit/vkhangpham/emotes.nvim) ![](https://img.shields.io/github/commit-activity/y/vkhangpham/emotes.nvim)
 
 ### Emoji FuzzyFinder
 
