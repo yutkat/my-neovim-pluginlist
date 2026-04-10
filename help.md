@@ -112,6 +112,7 @@
 ## Reference
 
 - [johannww/scopus-bib-references.nvim](https://github.com/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/stars/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/last-commit/johannww/scopus-bib-references.nvim) ![](https://img.shields.io/github/commit-activity/y/johannww/scopus-bib-references.nvim)
+- [chrisgleitze/hegel.nvim](https://github.com/chrisgleitze/hegel.nvim) ![](https://img.shields.io/github/stars/chrisgleitze/hegel.nvim) ![](https://img.shields.io/github/last-commit/chrisgleitze/hegel.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisgleitze/hegel.nvim)
 
 ## DevDocs
 

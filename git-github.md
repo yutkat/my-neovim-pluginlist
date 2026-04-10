@@ -529,6 +529,7 @@
 ### Wrapper
 
 - [skeletony007/git-help.nvim](https://github.com/skeletony007/git-help.nvim) ![](https://img.shields.io/github/stars/skeletony007/git-help.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/git-help.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/git-help.nvim)
+- [martintrojer/fugitive-core.nvim](https://github.com/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/stars/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/fugitive-core.nvim)
 
 ## Darcs
 
@@ -648,6 +649,7 @@
 - [fredrikaverpil/pr.nvim](https://github.com/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/stars/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/last-commit/fredrikaverpil/pr.nvim) ![](https://img.shields.io/github/commit-activity/y/fredrikaverpil/pr.nvim)
 - [tkuramot/go-to-pr.nvim](https://github.com/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/stars/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/last-commit/tkuramot/go-to-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/tkuramot/go-to-pr.nvim)
 - [mjveilleux/pr-description.nvim](https://github.com/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/stars/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/last-commit/mjveilleux/pr-description.nvim) ![](https://img.shields.io/github/commit-activity/y/mjveilleux/pr-description.nvim)
+- [dbatten5/apron.nvim](https://github.com/dbatten5/apron.nvim) ![](https://img.shields.io/github/stars/dbatten5/apron.nvim) ![](https://img.shields.io/github/last-commit/dbatten5/apron.nvim) ![](https://img.shields.io/github/commit-activity/y/dbatten5/apron.nvim)
 - [gitusp/pbrowse.nvim](https://github.com/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/stars/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pbrowse.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pbrowse.nvim)
 - [gitusp/pr-review.nvim](https://github.com/gitusp/pr-review.nvim) ![](https://img.shields.io/github/stars/gitusp/pr-review.nvim) ![](https://img.shields.io/github/last-commit/gitusp/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/gitusp/pr-review.nvim)
 - [otavioschwanck/github-pr-reviewer.nvim](https://github.com/otavioschwanck/github-pr-reviewer.nvim) ![](https://img.shields.io/github/stars/otavioschwanck/github-pr-reviewer.nvim) ![](https://img.shields.io/github/last-commit/otavioschwanck/github-pr-reviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/otavioschwanck/github-pr-reviewer.nvim)
