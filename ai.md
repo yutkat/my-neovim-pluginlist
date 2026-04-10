@@ -760,6 +760,7 @@
 - [medeirosvictor/sade.nvim](https://github.com/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/stars/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/last-commit/medeirosvictor/sade.nvim) ![](https://img.shields.io/github/commit-activity/y/medeirosvictor/sade.nvim)
 - [EisBlue/orchestrator.nvim](https://github.com/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/stars/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/last-commit/EisBlue/orchestrator.nvim) ![](https://img.shields.io/github/commit-activity/y/EisBlue/orchestrator.nvim)
 - [abhirup-dev/agent-deck.nvim](https://github.com/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/stars/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/last-commit/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/commit-activity/y/abhirup-dev/agent-deck.nvim)
+- [truthlocks/maip.nvim](https://github.com/truthlocks/maip.nvim) ![](https://img.shields.io/github/stars/truthlocks/maip.nvim) ![](https://img.shields.io/github/last-commit/truthlocks/maip.nvim) ![](https://img.shields.io/github/commit-activity/y/truthlocks/maip.nvim)
 
 ### AGENTS.md
 
@@ -983,6 +984,7 @@
 - [gen4438/marginalia.nvim](https://github.com/gen4438/marginalia.nvim) ![](https://img.shields.io/github/stars/gen4438/marginalia.nvim) ![](https://img.shields.io/github/last-commit/gen4438/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/gen4438/marginalia.nvim)
 - [tofunori/nvim-ai-bridge](https://github.com/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/stars/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/last-commit/tofunori/nvim-ai-bridge) ![](https://img.shields.io/github/commit-activity/y/tofunori/nvim-ai-bridge)
 - [ruicsh/briefing.nvim](https://github.com/ruicsh/briefing.nvim) ![](https://img.shields.io/github/stars/ruicsh/briefing.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/briefing.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/briefing.nvim)
+- [EliasArruda/Treecopy.nvim](https://github.com/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/stars/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/last-commit/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/EliasArruda/Treecopy.nvim)
 - [erraX/nvim-ctx](https://github.com/erraX/nvim-ctx) ![](https://img.shields.io/github/stars/erraX/nvim-ctx) ![](https://img.shields.io/github/last-commit/erraX/nvim-ctx) ![](https://img.shields.io/github/commit-activity/y/erraX/nvim-ctx)
 - [ZarkMedo/nvim-claude-copy-file-ref.lua](https://github.com/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/stars/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/last-commit/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/commit-activity/y/ZarkMedo/nvim-claude-copy-file-ref.lua)
 

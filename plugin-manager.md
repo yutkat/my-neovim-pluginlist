@@ -51,6 +51,7 @@
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
 - [TheOneWithTheWrench/wrench.nvim](https://github.com/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/stars/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/last-commit/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/commit-activity/y/TheOneWithTheWrench/wrench.nvim)
 - [yaeju1205/nvim-plugin-manager](https://github.com/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/stars/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/last-commit/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/commit-activity/y/yaeju1205/nvim-plugin-manager)
+- [ihave17bucks/garrys.nvim](https://github.com/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/stars/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/last-commit/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/commit-activity/y/ihave17bucks/garrys.nvim)
 
 ### Use builtin package feature
 
@@ -87,6 +88,8 @@
 - [TheMagSec/gpack.nvim](https://github.com/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/stars/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/last-commit/TheMagSec/gpack.nvim) ![](https://img.shields.io/github/commit-activity/y/TheMagSec/gpack.nvim)
 - [vcraescu/pack.nvim](https://github.com/vcraescu/pack.nvim) ![](https://img.shields.io/github/stars/vcraescu/pack.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/pack.nvim)
 - [kouovo/vpack.nvim](https://github.com/kouovo/vpack.nvim) ![](https://img.shields.io/github/stars/kouovo/vpack.nvim) ![](https://img.shields.io/github/last-commit/kouovo/vpack.nvim) ![](https://img.shields.io/github/commit-activity/y/kouovo/vpack.nvim)
+- [CrixuAMG/packui.nvim](https://github.com/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/packui.nvim)
+- [dghuuloc/packman.nvim](https://github.com/dghuuloc/packman.nvim) ![](https://img.shields.io/github/stars/dghuuloc/packman.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/packman.nvim)
 
 ### Update checker
 
