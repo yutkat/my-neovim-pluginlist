@@ -72,6 +72,7 @@
 - [sontungexpt/witch-line](https://github.com/sontungexpt/witch-line) ![](https://img.shields.io/github/stars/sontungexpt/witch-line) ![](https://img.shields.io/github/last-commit/sontungexpt/witch-line) ![](https://img.shields.io/github/commit-activity/y/sontungexpt/witch-line)
 - [abosnjakovic/nyan.nvim](https://github.com/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/nyan.nvim)
 - [loichyan/meoline.nvim](https://github.com/loichyan/meoline.nvim) ![](https://img.shields.io/github/stars/loichyan/meoline.nvim) ![](https://img.shields.io/github/last-commit/loichyan/meoline.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/meoline.nvim)
+- [SantosAlarcon/fancyline.nvim](https://github.com/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/stars/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/last-commit/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/commit-activity/y/SantosAlarcon/fancyline.nvim)
 
 ### Simple
 
