@@ -44,6 +44,7 @@
 - [Poojsri/nvim-secscan](https://github.com/Poojsri/nvim-secscan) ![](https://img.shields.io/github/stars/Poojsri/nvim-secscan) ![](https://img.shields.io/github/last-commit/Poojsri/nvim-secscan) ![](https://img.shields.io/github/commit-activity/y/Poojsri/nvim-secscan)
 - [johnsaigle/zizmor.nvim](https://github.com/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/stars/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/zizmor.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/zizmor.nvim)
 - [f0rest3xplorer/sift.nvim](https://github.com/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/stars/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/last-commit/f0rest3xplorer/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/f0rest3xplorer/sift.nvim)
+
 ### Security Code Review
 
 - [h0pes/screw.nvim](https://github.com/h0pes/screw.nvim) ![](https://img.shields.io/github/stars/h0pes/screw.nvim) ![](https://img.shields.io/github/last-commit/h0pes/screw.nvim) ![](https://img.shields.io/github/commit-activity/y/h0pes/screw.nvim)
@@ -106,6 +107,7 @@
 - [benoror/gpg.nvim](https://github.com/benoror/gpg.nvim) ![](https://img.shields.io/github/stars/benoror/gpg.nvim) ![](https://img.shields.io/github/last-commit/benoror/gpg.nvim) ![](https://img.shields.io/github/commit-activity/y/benoror/gpg.nvim)
 - [markbragin/pivo.nvim](https://github.com/markbragin/pivo.nvim) ![](https://img.shields.io/github/stars/markbragin/pivo.nvim) ![](https://img.shields.io/github/last-commit/markbragin/pivo.nvim) ![](https://img.shields.io/github/commit-activity/y/markbragin/pivo.nvim)
 - [icarios-dev/privymd.nvim](https://github.com/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/stars/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/last-commit/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/commit-activity/y/icarios-dev/privymd.nvim)
+- [zhafacai/authinfo.nvim](https://github.com/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/stars/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/last-commit/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/zhafacai/authinfo.nvim)
 
 ### Keychain
 
