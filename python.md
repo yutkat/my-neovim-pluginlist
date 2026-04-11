@@ -284,6 +284,7 @@
 ### Pytorch
 
 - [alejandro-cobo/torchinfo.nvim](https://github.com/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/stars/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/last-commit/alejandro-cobo/torchinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/alejandro-cobo/torchinfo.nvim)
+- [dghuuloc/mlbuddy.nvim](https://github.com/dghuuloc/mlbuddy.nvim) ![](https://img.shields.io/github/stars/dghuuloc/mlbuddy.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/mlbuddy.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/mlbuddy.nvim)
 
 ### visidata
 

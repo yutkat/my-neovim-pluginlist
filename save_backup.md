@@ -34,6 +34,7 @@
 - [byitkc/autosave.nvim](https://github.com/byitkc/autosave.nvim) ![](https://img.shields.io/github/stars/byitkc/autosave.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autosave.nvim)
 - [alex-granny/auto-saver.nvim](https://github.com/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/stars/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/last-commit/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-granny/auto-saver.nvim)
 - [pluttan/autosave.nvim](https://github.com/pluttan/autosave.nvim) ![](https://img.shields.io/github/stars/pluttan/autosave.nvim) ![](https://img.shields.io/github/last-commit/pluttan/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/autosave.nvim)
+- [swaits/tiny-autosave.nvim](https://github.com/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-autosave.nvim)
 
 ### Edit history
 
@@ -50,10 +51,12 @@
 - [akmassey/preserve.nvim](https://github.com/akmassey/preserve.nvim) ![](https://img.shields.io/github/stars/akmassey/preserve.nvim) ![](https://img.shields.io/github/last-commit/akmassey/preserve.nvim) ![](https://img.shields.io/github/commit-activity/y/akmassey/preserve.nvim)
 - [purarue/auto-mkview.nvim](https://github.com/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/stars/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/last-commit/purarue/auto-mkview.nvim) ![](https://img.shields.io/github/commit-activity/y/purarue/auto-mkview.nvim)
 - [Faria22/nvim-stay.lua](https://github.com/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/stars/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/last-commit/Faria22/nvim-stay.lua) ![](https://img.shields.io/github/commit-activity/y/Faria22/nvim-stay.lua)
+- [swaits/tiny-lastplace.nvim](https://github.com/swaits/tiny-lastplace.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-lastplace.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-lastplace.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-lastplace.nvim)
 
 ### Create directory
 
 - [Notaduck/auto-create-dirs.nvim](https://github.com/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/stars/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/last-commit/Notaduck/auto-create-dirs.nvim) ![](https://img.shields.io/github/commit-activity/y/Notaduck/auto-create-dirs.nvim)
+- [swaits/tiny-mkpath.nvim](https://github.com/swaits/tiny-mkpath.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-mkpath.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-mkpath.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-mkpath.nvim)
 
 ## Backup
 

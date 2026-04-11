@@ -28,6 +28,7 @@
 - [ViniiR/nvim-treesitter-extension](https://github.com/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/stars/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/last-commit/ViniiR/nvim-treesitter-extension) ![](https://img.shields.io/github/commit-activity/y/ViniiR/nvim-treesitter-extension)
 - [nvim-treesitter/nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-textobjects) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-textobjects)
 - [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
+- [phanen/nvim-treesitter-diagnostics](https://github.com/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/stars/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/last-commit/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/commit-activity/y/phanen/nvim-treesitter-diagnostics)
 
 ### Installer
 
@@ -39,6 +40,7 @@
 - [yuchanns/ishiku.nvim](https://github.com/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/stars/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/last-commit/yuchanns/ishiku.nvim) ![](https://img.shields.io/github/commit-activity/y/yuchanns/ishiku.nvim)
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/stars/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/last-commit/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/commit-activity/y/arborist-ts/arborist.nvim)
 - [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/treesitter.nvim)
+- [reybits/ts-forge.nvim](https://github.com/reybits/ts-forge.nvim) ![](https://img.shields.io/github/stars/reybits/ts-forge.nvim) ![](https://img.shields.io/github/last-commit/reybits/ts-forge.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/ts-forge.nvim)
 
 ## Code Action
 
