@@ -98,6 +98,7 @@
 - [NoamFav/apple_music.nvim](https://github.com/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/stars/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/last-commit/NoamFav/apple_music.nvim) ![](https://img.shields.io/github/commit-activity/y/NoamFav/apple_music.nvim)
 - [kaminzhi/apple-music.nvim](https://github.com/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/stars/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/apple-music.nvim)
 - [kaminzhi/what-im-listening.nvim](https://github.com/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/stars/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/last-commit/kaminzhi/what-im-listening.nvim) ![](https://img.shields.io/github/commit-activity/y/kaminzhi/what-im-listening.nvim)
+- [srushti/apple-music.nvim](https://github.com/srushti/apple-music.nvim) ![](https://img.shields.io/github/stars/srushti/apple-music.nvim) ![](https://img.shields.io/github/last-commit/srushti/apple-music.nvim) ![](https://img.shields.io/github/commit-activity/y/srushti/apple-music.nvim)
 
 ### YouTube Music
 
