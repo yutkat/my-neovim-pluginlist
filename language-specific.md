@@ -717,6 +717,10 @@
 
 - [RKBethke/k.nvim](https://github.com/RKBethke/k.nvim) ![](https://img.shields.io/github/stars/RKBethke/k.nvim) ![](https://img.shields.io/github/last-commit/RKBethke/k.nvim) ![](https://img.shields.io/github/commit-activity/y/RKBethke/k.nvim)
 
+#### K1
+
+- [kolemannix/k1.nvim](https://github.com/kolemannix/k1.nvim) ![](https://img.shields.io/github/stars/kolemannix/k1.nvim) ![](https://img.shields.io/github/last-commit/kolemannix/k1.nvim) ![](https://img.shields.io/github/commit-activity/y/kolemannix/k1.nvim)
+
 #### Scheme
 
 - [bsssssss/scheme2max.nvim](https://github.com/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/stars/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/last-commit/bsssssss/scheme2max.nvim) ![](https://img.shields.io/github/commit-activity/y/bsssssss/scheme2max.nvim)
@@ -739,6 +743,10 @@
 #### Janet
 
 - [alexalemi/judge.nvim](https://github.com/alexalemi/judge.nvim) ![](https://img.shields.io/github/stars/alexalemi/judge.nvim) ![](https://img.shields.io/github/last-commit/alexalemi/judge.nvim) ![](https://img.shields.io/github/commit-activity/y/alexalemi/judge.nvim)
+
+#### IC10
+
+- [Pesterenan/ic10.nvim](https://github.com/Pesterenan/ic10.nvim) ![](https://img.shields.io/github/stars/Pesterenan/ic10.nvim) ![](https://img.shields.io/github/last-commit/Pesterenan/ic10.nvim) ![](https://img.shields.io/github/commit-activity/y/Pesterenan/ic10.nvim)
 
 #### Idris2
 

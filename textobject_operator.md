@@ -34,6 +34,7 @@
 - [zmunk/dot-rename.nvim](https://github.com/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/stars/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/last-commit/zmunk/dot-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/zmunk/dot-rename.nvim)
 - [jonatan-branting/telekinesis.nvim](https://github.com/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/stars/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/last-commit/jonatan-branting/telekinesis.nvim) ![](https://img.shields.io/github/commit-activity/y/jonatan-branting/telekinesis.nvim)
 - [perrin4869/nvim-in-its-entirety](https://github.com/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/stars/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/last-commit/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/commit-activity/y/perrin4869/nvim-in-its-entirety)
+- [coolcat702/targets.nvim](https://github.com/coolcat702/targets.nvim) ![](https://img.shields.io/github/stars/coolcat702/targets.nvim) ![](https://img.shields.io/github/last-commit/coolcat702/targets.nvim) ![](https://img.shields.io/github/commit-activity/y/coolcat702/targets.nvim)
 - [abhinavnatarajan/onword.nvim](https://github.com/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/stars/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/last-commit/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/commit-activity/y/abhinavnatarajan/onword.nvim)
 
 ### Unit

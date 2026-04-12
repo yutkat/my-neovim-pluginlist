@@ -234,6 +234,7 @@
 - [henriklovhaug/Preview.nvim](https://github.com/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/stars/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/last-commit/henriklovhaug/Preview.nvim) ![](https://img.shields.io/github/commit-activity/y/henriklovhaug/Preview.nvim)
 - [vihu/penview.nvim](https://github.com/vihu/penview.nvim) ![](https://img.shields.io/github/stars/vihu/penview.nvim) ![](https://img.shields.io/github/last-commit/vihu/penview.nvim) ![](https://img.shields.io/github/commit-activity/y/vihu/penview.nvim)
 - [manzt/gfm.nvim](https://github.com/manzt/gfm.nvim) ![](https://img.shields.io/github/stars/manzt/gfm.nvim) ![](https://img.shields.io/github/last-commit/manzt/gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/manzt/gfm.nvim)
+- [DenizIsikli/mdpreview.nvim](https://github.com/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/stars/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/DenizIsikli/mdpreview.nvim)
 
 ##### Go
 
@@ -591,6 +592,7 @@
 - [dirichy/nvimtex.nvim](https://github.com/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/stars/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/last-commit/dirichy/nvimtex.nvim) ![](https://img.shields.io/github/commit-activity/y/dirichy/nvimtex.nvim)
 - [Blobosle/mintex.nvim](https://github.com/Blobosle/mintex.nvim) ![](https://img.shields.io/github/stars/Blobosle/mintex.nvim) ![](https://img.shields.io/github/last-commit/Blobosle/mintex.nvim) ![](https://img.shields.io/github/commit-activity/y/Blobosle/mintex.nvim)
 - [DanielMSussman/motleyLatex.nvim](https://github.com/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/motleyLatex.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/motleyLatex.nvim)
+- [gsmith-alvarez/latex-tools.nvim](https://github.com/gsmith-alvarez/latex-tools.nvim) ![](https://img.shields.io/github/stars/gsmith-alvarez/latex-tools.nvim) ![](https://img.shields.io/github/last-commit/gsmith-alvarez/latex-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/gsmith-alvarez/latex-tools.nvim)
 - [mathjiajia/nvim-latex-conceal](https://github.com/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/stars/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/last-commit/mathjiajia/nvim-latex-conceal) ![](https://img.shields.io/github/commit-activity/y/mathjiajia/nvim-latex-conceal)
 - [pxwg/latex-conceal.nvim](https://github.com/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/stars/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/last-commit/pxwg/latex-conceal.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/latex-conceal.nvim)
 - [atomashevic/unicode-math.nvim](https://github.com/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/stars/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/last-commit/atomashevic/unicode-math.nvim) ![](https://img.shields.io/github/commit-activity/y/atomashevic/unicode-math.nvim)
@@ -614,6 +616,7 @@
 #### Image
 
 - [Scarcy/LatexImage.nvim](https://github.com/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/stars/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/last-commit/Scarcy/LatexImage.nvim) ![](https://img.shields.io/github/commit-activity/y/Scarcy/LatexImage.nvim)
+- [mezbah488-ops/inkscape-figures.nvim](https://github.com/mezbah488-ops/inkscape-figures.nvim) ![](https://img.shields.io/github/stars/mezbah488-ops/inkscape-figures.nvim) ![](https://img.shields.io/github/last-commit/mezbah488-ops/inkscape-figures.nvim) ![](https://img.shields.io/github/commit-activity/y/mezbah488-ops/inkscape-figures.nvim)
 
 #### subfiles
 
