@@ -1102,12 +1102,14 @@
 #### Coralogix dataprime
 #### Kind
 #### K
+#### K1
 #### Scheme
 #### Coq
 #### Mojo
 #### Fram
 #### NWScript
 #### Janet
+#### IC10
 #### Idris2
 #### MatLab
 #### Dice

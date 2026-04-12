@@ -17,6 +17,7 @@
 - [CalvinE/ft-mapper.nvim](https://github.com/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/stars/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/last-commit/CalvinE/ft-mapper.nvim) ![](https://img.shields.io/github/commit-activity/y/CalvinE/ft-mapper.nvim)
 - [fionn/nvim-hujson](https://github.com/fionn/nvim-hujson) ![](https://img.shields.io/github/stars/fionn/nvim-hujson) ![](https://img.shields.io/github/last-commit/fionn/nvim-hujson) ![](https://img.shields.io/github/commit-activity/y/fionn/nvim-hujson)
 - [Eingin/filetypemap.nvim](https://github.com/Eingin/filetypemap.nvim) ![](https://img.shields.io/github/stars/Eingin/filetypemap.nvim) ![](https://img.shields.io/github/last-commit/Eingin/filetypemap.nvim) ![](https://img.shields.io/github/commit-activity/y/Eingin/filetypemap.nvim)
+- [moltinginstar/magika.nvim](https://github.com/moltinginstar/magika.nvim) ![](https://img.shields.io/github/stars/moltinginstar/magika.nvim) ![](https://img.shields.io/github/last-commit/moltinginstar/magika.nvim) ![](https://img.shields.io/github/commit-activity/y/moltinginstar/magika.nvim)
 
 ## ftplugin
 

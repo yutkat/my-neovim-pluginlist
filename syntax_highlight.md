@@ -297,6 +297,7 @@
 - [hendrikyang/nvim-wordhighlighter](https://github.com/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/stars/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/last-commit/hendrikyang/nvim-wordhighlighter) ![](https://img.shields.io/github/commit-activity/y/hendrikyang/nvim-wordhighlighter)
 - [haolian9/chocolate.nvim](https://github.com/haolian9/chocolate.nvim) ![](https://img.shields.io/github/stars/haolian9/chocolate.nvim) ![](https://img.shields.io/github/last-commit/haolian9/chocolate.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/chocolate.nvim)
 - [jwu/easyhl.nvim](https://github.com/jwu/easyhl.nvim) ![](https://img.shields.io/github/stars/jwu/easyhl.nvim) ![](https://img.shields.io/github/last-commit/jwu/easyhl.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/easyhl.nvim)
+- [roife/symbol-marks.nvim](https://github.com/roife/symbol-marks.nvim) ![](https://img.shields.io/github/stars/roife/symbol-marks.nvim) ![](https://img.shields.io/github/last-commit/roife/symbol-marks.nvim) ![](https://img.shields.io/github/commit-activity/y/roife/symbol-marks.nvim)
 
 ### Cursor Jump highlight
 

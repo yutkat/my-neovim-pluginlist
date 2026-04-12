@@ -40,6 +40,8 @@
 
 ## Note Taking
 
+- [ironbars/envy.nvim](https://github.com/ironbars/envy.nvim) ![](https://img.shields.io/github/stars/ironbars/envy.nvim) ![](https://img.shields.io/github/last-commit/ironbars/envy.nvim) ![](https://img.shields.io/github/commit-activity/y/ironbars/envy.nvim)
+
 ### Org mode
 
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) ![](https://img.shields.io/github/stars/nvim-neorg/neorg) ![](https://img.shields.io/github/last-commit/nvim-neorg/neorg) ![](https://img.shields.io/github/commit-activity/y/nvim-neorg/neorg)
@@ -453,6 +455,7 @@
 - [tanmayv/tasks.nvim](https://github.com/tanmayv/tasks.nvim) ![](https://img.shields.io/github/stars/tanmayv/tasks.nvim) ![](https://img.shields.io/github/last-commit/tanmayv/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/tanmayv/tasks.nvim)
 - [vipul-sharma20/tasks.nvim](https://github.com/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/stars/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/last-commit/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/vipul-sharma20/tasks.nvim)
 - [alexjercan/tatr.nvim](https://github.com/alexjercan/tatr.nvim) ![](https://img.shields.io/github/stars/alexjercan/tatr.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/tatr.nvim)
+- [bab014/sm.nvim](https://github.com/bab014/sm.nvim) ![](https://img.shields.io/github/stars/bab014/sm.nvim) ![](https://img.shields.io/github/last-commit/bab014/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/sm.nvim)
 
 ### Wiki
 

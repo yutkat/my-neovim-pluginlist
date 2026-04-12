@@ -300,6 +300,7 @@
 
 - [shushtain/incselect.nvim](https://github.com/shushtain/incselect.nvim) ![](https://img.shields.io/github/stars/shushtain/incselect.nvim) ![](https://img.shields.io/github/last-commit/shushtain/incselect.nvim) ![](https://img.shields.io/github/commit-activity/y/shushtain/incselect.nvim)
 - [zetatez/quickselect.nvim](https://github.com/zetatez/quickselect.nvim) ![](https://img.shields.io/github/stars/zetatez/quickselect.nvim) ![](https://img.shields.io/github/last-commit/zetatez/quickselect.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/quickselect.nvim)
+- [d-itu/incsel.nvim](https://github.com/d-itu/incsel.nvim) ![](https://img.shields.io/github/stars/d-itu/incsel.nvim) ![](https://img.shields.io/github/last-commit/d-itu/incsel.nvim) ![](https://img.shields.io/github/commit-activity/y/d-itu/incsel.nvim)
 
 ### Around select
 
