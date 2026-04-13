@@ -29,8 +29,6 @@
 
 ## Task Runner
 
-- [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
-
 ### Config file style
 
 #### JSON
@@ -165,6 +163,7 @@
 - [botantony/run.nvim](https://github.com/botantony/run.nvim) ![](https://img.shields.io/github/stars/botantony/run.nvim) ![](https://img.shields.io/github/last-commit/botantony/run.nvim) ![](https://img.shields.io/github/commit-activity/y/botantony/run.nvim)
 - [blm34/code-runner.nvim](https://github.com/blm34/code-runner.nvim) ![](https://img.shields.io/github/stars/blm34/code-runner.nvim) ![](https://img.shields.io/github/last-commit/blm34/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/blm34/code-runner.nvim)
 - [sektant1/executioner.nvim](https://github.com/sektant1/executioner.nvim) ![](https://img.shields.io/github/stars/sektant1/executioner.nvim) ![](https://img.shields.io/github/last-commit/sektant1/executioner.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/executioner.nvim)
+- [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
 
 #### Shell
 
