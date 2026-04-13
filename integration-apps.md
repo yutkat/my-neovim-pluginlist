@@ -207,6 +207,7 @@
 - [degnbol/kitty-conf.nvim](https://github.com/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/stars/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/last-commit/degnbol/kitty-conf.nvim) ![](https://img.shields.io/github/commit-activity/y/degnbol/kitty-conf.nvim)
 - [jghauser/kitty-runner.nvim](https://github.com/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/stars/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/last-commit/jghauser/kitty-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/jghauser/kitty-runner.nvim)
 - [iamharshdabas/hyde.nvim](https://github.com/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/stars/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/last-commit/iamharshdabas/hyde.nvim) ![](https://img.shields.io/github/commit-activity/y/iamharshdabas/hyde.nvim)
+- [nitinbhat972/kitty-font.nvim](https://github.com/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/stars/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/last-commit/nitinbhat972/kitty-font.nvim) ![](https://img.shields.io/github/commit-activity/y/nitinbhat972/kitty-font.nvim)
 
 ##### Image
 
@@ -332,6 +333,7 @@
 - [Geertsky/ansible-role-picker.nvim](https://github.com/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/stars/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/last-commit/Geertsky/ansible-role-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Geertsky/ansible-role-picker.nvim)
 - [outerLeitmotiv/nvim-ansible-vault](https://github.com/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/stars/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/last-commit/outerLeitmotiv/nvim-ansible-vault) ![](https://img.shields.io/github/commit-activity/y/outerLeitmotiv/nvim-ansible-vault)
 - [eyebrowkang/ansible-vault.nvim](https://github.com/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/stars/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/last-commit/eyebrowkang/ansible-vault.nvim) ![](https://img.shields.io/github/commit-activity/y/eyebrowkang/ansible-vault.nvim)
+- [stevencch99/ansible-crypt.nvim](https://github.com/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/stars/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/last-commit/stevencch99/ansible-crypt.nvim) ![](https://img.shields.io/github/commit-activity/y/stevencch99/ansible-crypt.nvim)
 
 #### Kustomize
 
@@ -560,6 +562,8 @@
 - [filtercodes/speech.nvim](https://github.com/filtercodes/speech.nvim) ![](https://img.shields.io/github/stars/filtercodes/speech.nvim) ![](https://img.shields.io/github/last-commit/filtercodes/speech.nvim) ![](https://img.shields.io/github/commit-activity/y/filtercodes/speech.nvim)
 
 ### Core dump
+
+- [Kurama622/corefile.nvim](https://github.com/Kurama622/corefile.nvim) ![](https://img.shields.io/github/stars/Kurama622/corefile.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/corefile.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/corefile.nvim)
 
 ### dump file
 

@@ -605,6 +605,7 @@
 - [richwomanbtc/overleaf.nvim](https://github.com/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/stars/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/last-commit/richwomanbtc/overleaf.nvim) ![](https://img.shields.io/github/commit-activity/y/richwomanbtc/overleaf.nvim)
 - [mei28/nvim-overleaf](https://github.com/mei28/nvim-overleaf) ![](https://img.shields.io/github/stars/mei28/nvim-overleaf) ![](https://img.shields.io/github/last-commit/mei28/nvim-overleaf) ![](https://img.shields.io/github/commit-activity/y/mei28/nvim-overleaf)
 - [herschel21/tex.nvim](https://github.com/herschel21/tex.nvim) ![](https://img.shields.io/github/stars/herschel21/tex.nvim) ![](https://img.shields.io/github/last-commit/herschel21/tex.nvim) ![](https://img.shields.io/github/commit-activity/y/herschel21/tex.nvim)
+- [leogabac/novellum.nvim](https://github.com/leogabac/novellum.nvim) ![](https://img.shields.io/github/stars/leogabac/novellum.nvim) ![](https://img.shields.io/github/last-commit/leogabac/novellum.nvim) ![](https://img.shields.io/github/commit-activity/y/leogabac/novellum.nvim)
 
 #### Preview
 

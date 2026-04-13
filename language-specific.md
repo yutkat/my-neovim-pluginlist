@@ -365,6 +365,10 @@
 - [pretodev/bloc.nvim](https://github.com/pretodev/bloc.nvim) ![](https://img.shields.io/github/stars/pretodev/bloc.nvim) ![](https://img.shields.io/github/last-commit/pretodev/bloc.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/bloc.nvim)
 - [pretodev/copy-widget.nvim](https://github.com/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/stars/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/last-commit/pretodev/copy-widget.nvim) ![](https://img.shields.io/github/commit-activity/y/pretodev/copy-widget.nvim)
 
+#### QML
+
+- [cushycush/quickshell-completions.nvim](https://github.com/cushycush/quickshell-completions.nvim) ![](https://img.shields.io/github/stars/cushycush/quickshell-completions.nvim) ![](https://img.shields.io/github/last-commit/cushycush/quickshell-completions.nvim) ![](https://img.shields.io/github/commit-activity/y/cushycush/quickshell-completions.nvim)
+
 #### MetaScript
 
 - [metascriptlang/metascript.nvim](https://github.com/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/stars/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/last-commit/metascriptlang/metascript.nvim) ![](https://img.shields.io/github/commit-activity/y/metascriptlang/metascript.nvim)

@@ -60,6 +60,7 @@
 - [prichrd/refgo.nvim](https://github.com/prichrd/refgo.nvim) ![](https://img.shields.io/github/stars/prichrd/refgo.nvim) ![](https://img.shields.io/github/last-commit/prichrd/refgo.nvim) ![](https://img.shields.io/github/commit-activity/y/prichrd/refgo.nvim)
 - [fidgetingbits/rowglow.nvim](https://github.com/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/stars/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/last-commit/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/commit-activity/y/fidgetingbits/rowglow.nvim)
 - [zenangst/relativenumber-hints.nvim](https://github.com/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/stars/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/last-commit/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/zenangst/relativenumber-hints.nvim)
+- [gpncarl/jumph.nvim](https://github.com/gpncarl/jumph.nvim) ![](https://img.shields.io/github/stars/gpncarl/jumph.nvim) ![](https://img.shields.io/github/last-commit/gpncarl/jumph.nvim) ![](https://img.shields.io/github/commit-activity/y/gpncarl/jumph.nvim)
 
 ### Go to File
 
