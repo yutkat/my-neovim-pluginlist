@@ -165,6 +165,7 @@
 
 - [unawarez/nvim-python-docstrings](https://github.com/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/stars/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/last-commit/unawarez/nvim-python-docstrings) ![](https://img.shields.io/github/commit-activity/y/unawarez/nvim-python-docstrings)
 - [ok97465/py-autodoc.nvim](https://github.com/ok97465/py-autodoc.nvim) ![](https://img.shields.io/github/stars/ok97465/py-autodoc.nvim) ![](https://img.shields.io/github/last-commit/ok97465/py-autodoc.nvim) ![](https://img.shields.io/github/commit-activity/y/ok97465/py-autodoc.nvim)
+- [svm-zhang/doxi.nvim](https://github.com/svm-zhang/doxi.nvim) ![](https://img.shields.io/github/stars/svm-zhang/doxi.nvim) ![](https://img.shields.io/github/last-commit/svm-zhang/doxi.nvim) ![](https://img.shields.io/github/commit-activity/y/svm-zhang/doxi.nvim)
 
 ### pydoc
 

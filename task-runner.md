@@ -29,6 +29,8 @@
 
 ## Task Runner
 
+- [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
+
 ### Config file style
 
 #### JSON

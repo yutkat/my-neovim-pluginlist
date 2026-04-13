@@ -1024,6 +1024,7 @@
 #### Scala
 ##### ZIO
 #### Dart, Flutter
+#### QML
 #### MetaScript
 #### Clojure
 ##### test

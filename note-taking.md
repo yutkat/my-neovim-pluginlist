@@ -170,6 +170,7 @@
 - [k0ndratov/notes.nvim](https://github.com/k0ndratov/notes.nvim) ![](https://img.shields.io/github/stars/k0ndratov/notes.nvim) ![](https://img.shields.io/github/last-commit/k0ndratov/notes.nvim) ![](https://img.shields.io/github/commit-activity/y/k0ndratov/notes.nvim)
 - [chadnorvell/devlog.nvim](https://github.com/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/stars/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/devlog.nvim)
 - [zeapoz/tiny-journal.nvim](https://github.com/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/stars/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/last-commit/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/commit-activity/y/zeapoz/tiny-journal.nvim)
+- [pcyman/second-brain.nvim](https://github.com/pcyman/second-brain.nvim) ![](https://img.shields.io/github/stars/pcyman/second-brain.nvim) ![](https://img.shields.io/github/last-commit/pcyman/second-brain.nvim) ![](https://img.shields.io/github/commit-activity/y/pcyman/second-brain.nvim)
 
 ### ToDo
 
