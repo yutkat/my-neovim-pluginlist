@@ -923,6 +923,7 @@
 - [makefinks/doubt.nvim](https://github.com/makefinks/doubt.nvim) ![](https://img.shields.io/github/stars/makefinks/doubt.nvim) ![](https://img.shields.io/github/last-commit/makefinks/doubt.nvim) ![](https://img.shields.io/github/commit-activity/y/makefinks/doubt.nvim)
 - [xendarboh/tuicr.nvim](https://github.com/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/stars/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/last-commit/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/commit-activity/y/xendarboh/tuicr.nvim)
 - [retran/meow.review.nvim](https://github.com/retran/meow.review.nvim) ![](https://img.shields.io/github/stars/retran/meow.review.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.review.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.review.nvim)
+- [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
 
 ## Documentation
 

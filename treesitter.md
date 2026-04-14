@@ -41,6 +41,7 @@
 - [arborist-ts/arborist.nvim](https://github.com/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/stars/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/last-commit/arborist-ts/arborist.nvim) ![](https://img.shields.io/github/commit-activity/y/arborist-ts/arborist.nvim)
 - [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/treesitter.nvim)
 - [reybits/ts-forge.nvim](https://github.com/reybits/ts-forge.nvim) ![](https://img.shields.io/github/stars/reybits/ts-forge.nvim) ![](https://img.shields.io/github/last-commit/reybits/ts-forge.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/ts-forge.nvim)
+- [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/neovim-treesitter/nvim-treesitter)
 
 ## Code Action
 

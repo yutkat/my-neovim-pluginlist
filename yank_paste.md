@@ -104,6 +104,7 @@
 - [axlebedev/yank-filename.nvim](https://github.com/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/stars/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/last-commit/axlebedev/yank-filename.nvim) ![](https://img.shields.io/github/commit-activity/y/axlebedev/yank-filename.nvim)
 - [ireydiak/le-chemin.nvim](https://github.com/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/stars/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/last-commit/ireydiak/le-chemin.nvim) ![](https://img.shields.io/github/commit-activity/y/ireydiak/le-chemin.nvim)
 - [lamecksilva/lameck-copypath.nvim](https://github.com/lamecksilva/lameck-copypath.nvim) ![](https://img.shields.io/github/stars/lamecksilva/lameck-copypath.nvim) ![](https://img.shields.io/github/last-commit/lamecksilva/lameck-copypath.nvim) ![](https://img.shields.io/github/commit-activity/y/lamecksilva/lameck-copypath.nvim)
+- [hong4rc/copy-path.nvim](https://github.com/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/stars/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/last-commit/hong4rc/copy-path.nvim) ![](https://img.shields.io/github/commit-activity/y/hong4rc/copy-path.nvim)
 
 ### Register Selector
 
