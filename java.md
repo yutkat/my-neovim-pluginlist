@@ -43,7 +43,6 @@
 - [idelice/nvim-jls](https://github.com/idelice/nvim-jls) ![](https://img.shields.io/github/stars/idelice/nvim-jls) ![](https://img.shields.io/github/last-commit/idelice/nvim-jls) ![](https://img.shields.io/github/commit-activity/y/idelice/nvim-jls)
 - [alessio-vivaldelli/java-creator-nvim](https://github.com/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/stars/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/last-commit/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/commit-activity/y/alessio-vivaldelli/java-creator-nvim)
 - [gzitei/java-utils.nvim](https://github.com/gzitei/java-utils.nvim) ![](https://img.shields.io/github/stars/gzitei/java-utils.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-utils.nvim)
-- [dghuuloc/java-ide.nvim](https://github.com/dghuuloc/java-ide.nvim) ![](https://img.shields.io/github/stars/dghuuloc/java-ide.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/java-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/java-ide.nvim)
 
 ### package import
 

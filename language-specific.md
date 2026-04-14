@@ -247,7 +247,6 @@
 
 #### Oryn
 
-- [oryn-lang/oryn.nvim](https://github.com/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/stars/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/last-commit/oryn-lang/oryn.nvim) ![](https://img.shields.io/github/commit-activity/y/oryn-lang/oryn.nvim)
 
 #### SudoLang
 
