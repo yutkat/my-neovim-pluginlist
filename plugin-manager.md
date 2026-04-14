@@ -89,7 +89,6 @@
 - [vcraescu/pack.nvim](https://github.com/vcraescu/pack.nvim) ![](https://img.shields.io/github/stars/vcraescu/pack.nvim) ![](https://img.shields.io/github/last-commit/vcraescu/pack.nvim) ![](https://img.shields.io/github/commit-activity/y/vcraescu/pack.nvim)
 - [kouovo/vpack.nvim](https://github.com/kouovo/vpack.nvim) ![](https://img.shields.io/github/stars/kouovo/vpack.nvim) ![](https://img.shields.io/github/last-commit/kouovo/vpack.nvim) ![](https://img.shields.io/github/commit-activity/y/kouovo/vpack.nvim)
 - [CrixuAMG/packui.nvim](https://github.com/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/packui.nvim)
-- [dghuuloc/packman.nvim](https://github.com/dghuuloc/packman.nvim) ![](https://img.shields.io/github/stars/dghuuloc/packman.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/packman.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/packman.nvim)
 - [swaits/tiny-packupdate.nvim](https://github.com/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-packupdate.nvim)
 
 ### Update checker
