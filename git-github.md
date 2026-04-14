@@ -50,6 +50,7 @@
 - [Fossil](#fossil)
 - [Jujutsu(jj)](#jujutsujj)
   - [diff](#diff)
+  - [diff](#diff-1)
 - [Mercurial](#mercurial)
 - [Sage](#sage)
 - [GitHub](#github)
@@ -377,6 +378,7 @@
 - [tkachenko0/diffstore.nvim](https://github.com/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/stars/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/last-commit/tkachenko0/diffstore.nvim) ![](https://img.shields.io/github/commit-activity/y/tkachenko0/diffstore.nvim)
 - [xiaocang/gitrev.nvim](https://github.com/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/stars/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/last-commit/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaocang/gitrev.nvim)
 - [alex35mil/delta.nvim](https://github.com/alex35mil/delta.nvim) ![](https://img.shields.io/github/stars/alex35mil/delta.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/delta.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/delta.nvim)
+- [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/diffview.nvim)
 
 #### image diff
 
