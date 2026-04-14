@@ -486,6 +486,7 @@
 - [Geromendez135/worktree-manager.nvim](https://github.com/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/stars/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/last-commit/Geromendez135/worktree-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/Geromendez135/worktree-manager.nvim)
 - [vinicius507/worktrunk.nvim](https://github.com/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/stars/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/vinicius507/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/vinicius507/worktrunk.nvim)
 - [transonhy96/vibetree.nvim](https://github.com/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/stars/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/last-commit/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/commit-activity/y/transonhy96/vibetree.nvim)
+- [malkoG/gtr.nvim](https://github.com/malkoG/gtr.nvim) ![](https://img.shields.io/github/stars/malkoG/gtr.nvim) ![](https://img.shields.io/github/last-commit/malkoG/gtr.nvim) ![](https://img.shields.io/github/commit-activity/y/malkoG/gtr.nvim)
 
 ### submodule
 

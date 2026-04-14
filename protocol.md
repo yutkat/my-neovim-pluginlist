@@ -61,6 +61,7 @@
 - [eumis/runb.nvim](https://github.com/eumis/runb.nvim) ![](https://img.shields.io/github/stars/eumis/runb.nvim) ![](https://img.shields.io/github/last-commit/eumis/runb.nvim) ![](https://img.shields.io/github/commit-activity/y/eumis/runb.nvim)
 - [Xxax/nrest.nvim](https://github.com/Xxax/nrest.nvim) ![](https://img.shields.io/github/stars/Xxax/nrest.nvim) ![](https://img.shields.io/github/last-commit/Xxax/nrest.nvim) ![](https://img.shields.io/github/commit-activity/y/Xxax/nrest.nvim)
 - [AFROnin/restisch.nvim](https://github.com/AFROnin/restisch.nvim) ![](https://img.shields.io/github/stars/AFROnin/restisch.nvim) ![](https://img.shields.io/github/last-commit/AFROnin/restisch.nvim) ![](https://img.shields.io/github/commit-activity/y/AFROnin/restisch.nvim)
+- [nxhung2304/restman.nvim](https://github.com/nxhung2304/restman.nvim) ![](https://img.shields.io/github/stars/nxhung2304/restman.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/restman.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/restman.nvim)
 
 #### .http / .rest file
 

@@ -171,6 +171,7 @@
 - [chadnorvell/devlog.nvim](https://github.com/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/stars/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/devlog.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/devlog.nvim)
 - [zeapoz/tiny-journal.nvim](https://github.com/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/stars/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/last-commit/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/commit-activity/y/zeapoz/tiny-journal.nvim)
 - [pcyman/second-brain.nvim](https://github.com/pcyman/second-brain.nvim) ![](https://img.shields.io/github/stars/pcyman/second-brain.nvim) ![](https://img.shields.io/github/last-commit/pcyman/second-brain.nvim) ![](https://img.shields.io/github/commit-activity/y/pcyman/second-brain.nvim)
+- [KvnGonz7/nvim-journal-workflow](https://github.com/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/stars/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/last-commit/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/commit-activity/y/KvnGonz7/nvim-journal-workflow)
 
 ### ToDo
 
@@ -457,6 +458,7 @@
 - [vipul-sharma20/tasks.nvim](https://github.com/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/stars/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/last-commit/vipul-sharma20/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/vipul-sharma20/tasks.nvim)
 - [alexjercan/tatr.nvim](https://github.com/alexjercan/tatr.nvim) ![](https://img.shields.io/github/stars/alexjercan/tatr.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/tatr.nvim)
 - [bab014/sm.nvim](https://github.com/bab014/sm.nvim) ![](https://img.shields.io/github/stars/bab014/sm.nvim) ![](https://img.shields.io/github/last-commit/bab014/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/sm.nvim)
+- [imdevan/task-manager.nvim](https://github.com/imdevan/task-manager.nvim) ![](https://img.shields.io/github/stars/imdevan/task-manager.nvim) ![](https://img.shields.io/github/last-commit/imdevan/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/task-manager.nvim)
 
 ### Wiki
 

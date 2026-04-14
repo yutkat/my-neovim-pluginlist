@@ -312,6 +312,7 @@
 ### Static site
 
 - [deparr/static.nvim](https://github.com/deparr/static.nvim) ![](https://img.shields.io/github/stars/deparr/static.nvim) ![](https://img.shields.io/github/last-commit/deparr/static.nvim) ![](https://img.shields.io/github/commit-activity/y/deparr/static.nvim)
+- [mezbah488-ops/mysite.nvim](https://github.com/mezbah488-ops/mysite.nvim) ![](https://img.shields.io/github/stars/mezbah488-ops/mysite.nvim) ![](https://img.shields.io/github/last-commit/mezbah488-ops/mysite.nvim) ![](https://img.shields.io/github/commit-activity/y/mezbah488-ops/mysite.nvim)
 
 ## CSS
 
