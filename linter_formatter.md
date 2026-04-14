@@ -94,6 +94,7 @@
 - [skeletony007/nvim-linterconfig](https://github.com/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/stars/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/last-commit/skeletony007/nvim-linterconfig) ![](https://img.shields.io/github/commit-activity/y/skeletony007/nvim-linterconfig)
 - [leiswatch/nvim-stylelint](https://github.com/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/stars/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/last-commit/leiswatch/nvim-stylelint) ![](https://img.shields.io/github/commit-activity/y/leiswatch/nvim-stylelint)
 - [akyrey/condition-order.nvim](https://github.com/akyrey/condition-order.nvim) ![](https://img.shields.io/github/stars/akyrey/condition-order.nvim) ![](https://img.shields.io/github/last-commit/akyrey/condition-order.nvim) ![](https://img.shields.io/github/commit-activity/y/akyrey/condition-order.nvim)
+- [pearofducks/splint.nvim](https://github.com/pearofducks/splint.nvim) ![](https://img.shields.io/github/stars/pearofducks/splint.nvim) ![](https://img.shields.io/github/last-commit/pearofducks/splint.nvim) ![](https://img.shields.io/github/commit-activity/y/pearofducks/splint.nvim)
 
 ### Grammar
 

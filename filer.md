@@ -102,6 +102,7 @@
 - [dghuuloc/fexptr.nvim](https://github.com/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/stars/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/last-commit/dghuuloc/fexptr.nvim) ![](https://img.shields.io/github/commit-activity/y/dghuuloc/fexptr.nvim)
 - [JuaniRaggio/vired.nvim](https://github.com/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/stars/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/last-commit/JuaniRaggio/vired.nvim) ![](https://img.shields.io/github/commit-activity/y/JuaniRaggio/vired.nvim)
 - [CypDasHuhn/vdir.nvim](https://github.com/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/stars/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/last-commit/CypDasHuhn/vdir.nvim) ![](https://img.shields.io/github/commit-activity/y/CypDasHuhn/vdir.nvim)
+- [wadackel/eda.nvim](https://github.com/wadackel/eda.nvim) ![](https://img.shields.io/github/stars/wadackel/eda.nvim) ![](https://img.shields.io/github/last-commit/wadackel/eda.nvim) ![](https://img.shields.io/github/commit-activity/y/wadackel/eda.nvim)
 
 ### gx
 

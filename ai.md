@@ -765,6 +765,7 @@
 - [abhirup-dev/agent-deck.nvim](https://github.com/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/stars/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/last-commit/abhirup-dev/agent-deck.nvim) ![](https://img.shields.io/github/commit-activity/y/abhirup-dev/agent-deck.nvim)
 - [truthlocks/maip.nvim](https://github.com/truthlocks/maip.nvim) ![](https://img.shields.io/github/stars/truthlocks/maip.nvim) ![](https://img.shields.io/github/last-commit/truthlocks/maip.nvim) ![](https://img.shields.io/github/commit-activity/y/truthlocks/maip.nvim)
 - [vuongpd95/pie.nvim](https://github.com/vuongpd95/pie.nvim) ![](https://img.shields.io/github/stars/vuongpd95/pie.nvim) ![](https://img.shields.io/github/last-commit/vuongpd95/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/vuongpd95/pie.nvim)
+- [statiolake/agent-assisted.nvim](https://github.com/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/stars/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/last-commit/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/agent-assisted.nvim)
 
 ### AGENTS.md
 
@@ -921,6 +922,7 @@
 - [okazagi/code-review.nvim](https://github.com/okazagi/code-review.nvim) ![](https://img.shields.io/github/stars/okazagi/code-review.nvim) ![](https://img.shields.io/github/last-commit/okazagi/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/okazagi/code-review.nvim)
 - [makefinks/doubt.nvim](https://github.com/makefinks/doubt.nvim) ![](https://img.shields.io/github/stars/makefinks/doubt.nvim) ![](https://img.shields.io/github/last-commit/makefinks/doubt.nvim) ![](https://img.shields.io/github/commit-activity/y/makefinks/doubt.nvim)
 - [xendarboh/tuicr.nvim](https://github.com/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/stars/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/last-commit/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/commit-activity/y/xendarboh/tuicr.nvim)
+- [retran/meow.review.nvim](https://github.com/retran/meow.review.nvim) ![](https://img.shields.io/github/stars/retran/meow.review.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.review.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.review.nvim)
 
 ## Documentation
 

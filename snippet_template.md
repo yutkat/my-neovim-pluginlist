@@ -121,3 +121,4 @@
 ### Shebang
 
 - [LunarLambda/shebang.nvim](https://github.com/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/stars/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/last-commit/LunarLambda/shebang.nvim) ![](https://img.shields.io/github/commit-activity/y/LunarLambda/shebang.nvim)
+- [DrKJeff16/shebang.nvim](https://github.com/DrKJeff16/shebang.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/shebang.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/shebang.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/shebang.nvim)
