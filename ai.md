@@ -481,6 +481,7 @@
 - [mikehu/chisel.nvim](https://github.com/mikehu/chisel.nvim) ![](https://img.shields.io/github/stars/mikehu/chisel.nvim) ![](https://img.shields.io/github/last-commit/mikehu/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/mikehu/chisel.nvim)
 - [elmomk/cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/stars/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/last-commit/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/elmomk/cc-watcher.nvim)
 - [idossha/lazyclaude.nvim](https://github.com/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/stars/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/last-commit/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/lazyclaude.nvim)
+- [robcmills/cc.nvim](https://github.com/robcmills/cc.nvim) ![](https://img.shields.io/github/stars/robcmills/cc.nvim) ![](https://img.shields.io/github/last-commit/robcmills/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/cc.nvim)
 
 ### Amazon Q
 
@@ -728,6 +729,7 @@
 - [dustier/copilot-cli.nvim](https://github.com/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/stars/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/last-commit/dustier/copilot-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/dustier/copilot-cli.nvim)
 - [powerman/copilot-prompt.nvim](https://github.com/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/stars/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/last-commit/powerman/copilot-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/powerman/copilot-prompt.nvim)
 - [ochcaroline/dum.nvim](https://github.com/ochcaroline/dum.nvim) ![](https://img.shields.io/github/stars/ochcaroline/dum.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/dum.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/dum.nvim)
+- [Kristoffer1122/npilot.nvim](https://github.com/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/stars/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/last-commit/Kristoffer1122/npilot.nvim) ![](https://img.shields.io/github/commit-activity/y/Kristoffer1122/npilot.nvim)
 
 ### Genie CLI
 
@@ -813,6 +815,7 @@
 - [herschel21/nvim-chat-ai](https://github.com/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/stars/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/last-commit/herschel21/nvim-chat-ai) ![](https://img.shields.io/github/commit-activity/y/herschel21/nvim-chat-ai)
 - [benjaminyakobi/chat.nvim](https://github.com/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/stars/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/last-commit/benjaminyakobi/chat.nvim) ![](https://img.shields.io/github/commit-activity/y/benjaminyakobi/chat.nvim)
 - [68mschmitt/ai-chat.nvim](https://github.com/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/stars/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/ai-chat.nvim)
+- [Sokol080808/copilot-chat.nvim](https://github.com/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/stars/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/last-commit/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Sokol080808/copilot-chat.nvim)
 - [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
 
 ## AI Terminal
@@ -924,6 +927,7 @@
 - [xendarboh/tuicr.nvim](https://github.com/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/stars/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/last-commit/xendarboh/tuicr.nvim) ![](https://img.shields.io/github/commit-activity/y/xendarboh/tuicr.nvim)
 - [retran/meow.review.nvim](https://github.com/retran/meow.review.nvim) ![](https://img.shields.io/github/stars/retran/meow.review.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.review.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.review.nvim)
 - [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
+- [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/stars/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/last-commit/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/coderabbit.nvim)
 
 ## Documentation
 

@@ -1176,6 +1176,8 @@
 #### Brainfuck
 #### stenography
 #### Pine Script
+#### C3
+#### Vela
 ## Competitive programming
 ### ACMOJ
 ### Codeforces

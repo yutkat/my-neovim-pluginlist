@@ -316,6 +316,7 @@
 
 - [ahollister/wp-utils.nvim](https://github.com/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/stars/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/last-commit/ahollister/wp-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/ahollister/wp-utils.nvim)
 - [chrisbellboy/wp-vars.nvim](https://github.com/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/stars/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/last-commit/chrisbellboy/wp-vars.nvim) ![](https://img.shields.io/github/commit-activity/y/chrisbellboy/wp-vars.nvim)
+- [atareao/wp-publish.nvim](https://github.com/atareao/wp-publish.nvim) ![](https://img.shields.io/github/stars/atareao/wp-publish.nvim) ![](https://img.shields.io/github/last-commit/atareao/wp-publish.nvim) ![](https://img.shields.io/github/commit-activity/y/atareao/wp-publish.nvim)
 
 ### Shopify
 

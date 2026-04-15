@@ -137,6 +137,7 @@
 - [ALPHAvibe/telescope-find-file-vibes.nvim](https://github.com/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/stars/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/last-commit/ALPHAvibe/telescope-find-file-vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/ALPHAvibe/telescope-find-file-vibes.nvim)
 - [dtormoen/neural-open.nvim](https://github.com/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/stars/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/last-commit/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/commit-activity/y/dtormoen/neural-open.nvim)
 - [Punity122333/snipe.nvim](https://github.com/Punity122333/snipe.nvim) ![](https://img.shields.io/github/stars/Punity122333/snipe.nvim) ![](https://img.shields.io/github/last-commit/Punity122333/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/Punity122333/snipe.nvim)
+- [sbradl/matching-file.nvim](https://github.com/sbradl/matching-file.nvim) ![](https://img.shields.io/github/stars/sbradl/matching-file.nvim) ![](https://img.shields.io/github/last-commit/sbradl/matching-file.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/matching-file.nvim)
 
 ## Replace
 

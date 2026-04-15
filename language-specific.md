@@ -1016,6 +1016,14 @@
 
 - [kaiiserni/pinescript.nvim](https://github.com/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/stars/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/last-commit/kaiiserni/pinescript.nvim) ![](https://img.shields.io/github/commit-activity/y/kaiiserni/pinescript.nvim)
 
+#### C3
+
+- [ManuLinares/nvim-c3](https://github.com/ManuLinares/nvim-c3) ![](https://img.shields.io/github/stars/ManuLinares/nvim-c3) ![](https://img.shields.io/github/last-commit/ManuLinares/nvim-c3) ![](https://img.shields.io/github/commit-activity/y/ManuLinares/nvim-c3)
+
+#### Vela
+
+- [elauven/nvim-vela](https://github.com/elauven/nvim-vela) ![](https://img.shields.io/github/stars/elauven/nvim-vela) ![](https://img.shields.io/github/last-commit/elauven/nvim-vela) ![](https://img.shields.io/github/commit-activity/y/elauven/nvim-vela)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
