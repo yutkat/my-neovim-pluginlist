@@ -154,6 +154,7 @@
 ##### Docker
 
 - [dgrbrady/nvim-docker](https://github.com/dgrbrady/nvim-docker) ![](https://img.shields.io/github/stars/dgrbrady/nvim-docker) ![](https://img.shields.io/github/last-commit/dgrbrady/nvim-docker) ![](https://img.shields.io/github/commit-activity/y/dgrbrady/nvim-docker)
+- [BeastInBash/pg-docker.nvim](https://github.com/BeastInBash/pg-docker.nvim) ![](https://img.shields.io/github/stars/BeastInBash/pg-docker.nvim) ![](https://img.shields.io/github/last-commit/BeastInBash/pg-docker.nvim) ![](https://img.shields.io/github/commit-activity/y/BeastInBash/pg-docker.nvim)
 - [pwntester/crane.nvim](https://github.com/pwntester/crane.nvim) ![](https://img.shields.io/github/stars/pwntester/crane.nvim) ![](https://img.shields.io/github/last-commit/pwntester/crane.nvim) ![](https://img.shields.io/github/commit-activity/y/pwntester/crane.nvim)
 - [yohi/set-docker-compose-env.nvim](https://github.com/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/stars/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/last-commit/yohi/set-docker-compose-env.nvim) ![](https://img.shields.io/github/commit-activity/y/yohi/set-docker-compose-env.nvim)
 - [mgierada/lazydocker.nvim](https://github.com/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/stars/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/mgierada/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/mgierada/lazydocker.nvim)
@@ -227,6 +228,7 @@
 #### Swagger
 
 - [vinnymeller/swagger-preview.nvim](https://github.com/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/stars/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/vinnymeller/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/vinnymeller/swagger-preview.nvim)
+- [akyrey/openapi-navigator.nvim](https://github.com/akyrey/openapi-navigator.nvim) ![](https://img.shields.io/github/stars/akyrey/openapi-navigator.nvim) ![](https://img.shields.io/github/last-commit/akyrey/openapi-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/akyrey/openapi-navigator.nvim)
 
 #### endpoints.json
 

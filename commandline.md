@@ -60,6 +60,7 @@
 - [ivanjermakov/cmdzero.nvim](https://github.com/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/stars/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/last-commit/ivanjermakov/cmdzero.nvim) ![](https://img.shields.io/github/commit-activity/y/ivanjermakov/cmdzero.nvim)
 - [noelr/floating-cmdline.nvim](https://github.com/noelr/floating-cmdline.nvim) ![](https://img.shields.io/github/stars/noelr/floating-cmdline.nvim) ![](https://img.shields.io/github/last-commit/noelr/floating-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/noelr/floating-cmdline.nvim)
 - [aurora0x27/popup.nvim](https://github.com/aurora0x27/popup.nvim) ![](https://img.shields.io/github/stars/aurora0x27/popup.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/popup.nvim)
+- [ThongVu1996/simple-noice.nvim](https://github.com/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/simple-noice.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/simple-noice.nvim)
 
 ### Highlight
 
