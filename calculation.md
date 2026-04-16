@@ -34,3 +34,4 @@
 
 - [corsantic/chrono.nvim](https://github.com/corsantic/chrono.nvim) ![](https://img.shields.io/github/stars/corsantic/chrono.nvim) ![](https://img.shields.io/github/last-commit/corsantic/chrono.nvim) ![](https://img.shields.io/github/commit-activity/y/corsantic/chrono.nvim)
 - [Dzejkop/datepicker.nvim](https://github.com/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/stars/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/last-commit/Dzejkop/datepicker.nvim) ![](https://img.shields.io/github/commit-activity/y/Dzejkop/datepicker.nvim)
+- [QuiiBz/date-formatter.nvim](https://github.com/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/stars/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/last-commit/QuiiBz/date-formatter.nvim) ![](https://img.shields.io/github/commit-activity/y/QuiiBz/date-formatter.nvim)
