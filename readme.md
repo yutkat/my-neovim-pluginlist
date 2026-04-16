@@ -193,6 +193,7 @@
 - [ElPiloto/significant.nvim](https://github.com/ElPiloto/significant.nvim) ![](https://img.shields.io/github/stars/ElPiloto/significant.nvim) ![](https://img.shields.io/github/last-commit/ElPiloto/significant.nvim) ![](https://img.shields.io/github/commit-activity/y/ElPiloto/significant.nvim)
 - [tombell/hem.nvim](https://github.com/tombell/hem.nvim) ![](https://img.shields.io/github/stars/tombell/hem.nvim) ![](https://img.shields.io/github/last-commit/tombell/hem.nvim) ![](https://img.shields.io/github/commit-activity/y/tombell/hem.nvim)
 - [wsdjeg/statuscolumn.nvim](https://github.com/wsdjeg/statuscolumn.nvim) ![](https://img.shields.io/github/stars/wsdjeg/statuscolumn.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/statuscolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/statuscolumn.nvim)
+- [coreyb-git/statuscolumn.nvim](https://github.com/coreyb-git/statuscolumn.nvim) ![](https://img.shields.io/github/stars/coreyb-git/statuscolumn.nvim) ![](https://img.shields.io/github/last-commit/coreyb-git/statuscolumn.nvim) ![](https://img.shields.io/github/commit-activity/y/coreyb-git/statuscolumn.nvim)
 
 ### [Cursor](./cursor.md)
 

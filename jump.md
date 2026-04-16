@@ -61,6 +61,7 @@
 - [fidgetingbits/rowglow.nvim](https://github.com/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/stars/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/last-commit/fidgetingbits/rowglow.nvim) ![](https://img.shields.io/github/commit-activity/y/fidgetingbits/rowglow.nvim)
 - [zenangst/relativenumber-hints.nvim](https://github.com/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/stars/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/last-commit/zenangst/relativenumber-hints.nvim) ![](https://img.shields.io/github/commit-activity/y/zenangst/relativenumber-hints.nvim)
 - [gpncarl/jumph.nvim](https://github.com/gpncarl/jumph.nvim) ![](https://img.shields.io/github/stars/gpncarl/jumph.nvim) ![](https://img.shields.io/github/last-commit/gpncarl/jumph.nvim) ![](https://img.shields.io/github/commit-activity/y/gpncarl/jumph.nvim)
+- [RootOperator/jump-highlight.nvim](https://github.com/RootOperator/jump-highlight.nvim) ![](https://img.shields.io/github/stars/RootOperator/jump-highlight.nvim) ![](https://img.shields.io/github/last-commit/RootOperator/jump-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/RootOperator/jump-highlight.nvim)
 
 ### Go to File
 

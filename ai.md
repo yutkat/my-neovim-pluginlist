@@ -195,6 +195,7 @@
 - [AlexanderGolys/codex-cli.nvim](https://github.com/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex-cli.nvim)
 - [eskalVAR/codex.nvim](https://github.com/eskalVAR/codex.nvim) ![](https://img.shields.io/github/stars/eskalVAR/codex.nvim) ![](https://img.shields.io/github/last-commit/eskalVAR/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/eskalVAR/codex.nvim)
 - [jyhl/sift.nvim](https://github.com/jyhl/sift.nvim) ![](https://img.shields.io/github/stars/jyhl/sift.nvim) ![](https://img.shields.io/github/last-commit/jyhl/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/jyhl/sift.nvim)
+- [Ali-Aref/codex.nvim](https://github.com/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/stars/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/codex.nvim)
 
 #### Whisper
 
@@ -238,6 +239,7 @@
 - [zaucy/gemini.nvim](https://github.com/zaucy/gemini.nvim) ![](https://img.shields.io/github/stars/zaucy/gemini.nvim) ![](https://img.shields.io/github/last-commit/zaucy/gemini.nvim) ![](https://img.shields.io/github/commit-activity/y/zaucy/gemini.nvim)
 - [jeantimex/gemini-cli.nvim](https://github.com/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/stars/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeantimex/gemini-cli.nvim)
 - [Beloin/gemini-code.nvim](https://github.com/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/stars/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/last-commit/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/gemini-code.nvim)
+- [McEazy2700/gemini-cli.nvim](https://github.com/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/gemini-cli.nvim)
 
 ### Grok
 
@@ -423,6 +425,7 @@
 - [Namacha411/ccusage.nvim](https://github.com/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/stars/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/last-commit/Namacha411/ccusage.nvim) ![](https://img.shields.io/github/commit-activity/y/Namacha411/ccusage.nvim)
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) ![](https://img.shields.io/github/stars/coder/claudecode.nvim) ![](https://img.shields.io/github/last-commit/coder/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/coder/claudecode.nvim)
   - [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
+  - [thobiasn/claudediff.nvim](https://github.com/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/stars/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/last-commit/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/commit-activity/y/thobiasn/claudediff.nvim)
 - [jaerod95/scrawl.nvim](https://github.com/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/stars/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/last-commit/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/jaerod95/scrawl.nvim)
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
@@ -928,6 +931,7 @@
 - [retran/meow.review.nvim](https://github.com/retran/meow.review.nvim) ![](https://img.shields.io/github/stars/retran/meow.review.nvim) ![](https://img.shields.io/github/last-commit/retran/meow.review.nvim) ![](https://img.shields.io/github/commit-activity/y/retran/meow.review.nvim)
 - [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/stars/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/last-commit/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/coderabbit.nvim)
+- [GabrielArpini/nvim-watcher](https://github.com/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/stars/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/last-commit/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/commit-activity/y/GabrielArpini/nvim-watcher)
 
 ## Documentation
 
@@ -1040,6 +1044,7 @@
 - [slimslenderslacks/nvim-cagent](https://github.com/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/stars/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/last-commit/slimslenderslacks/nvim-cagent) ![](https://img.shields.io/github/commit-activity/y/slimslenderslacks/nvim-cagent)
 - [assagman/ghost.nvim](https://github.com/assagman/ghost.nvim) ![](https://img.shields.io/github/stars/assagman/ghost.nvim) ![](https://img.shields.io/github/last-commit/assagman/ghost.nvim) ![](https://img.shields.io/github/commit-activity/y/assagman/ghost.nvim)
 - [qingfua/nes-acp.nvim](https://github.com/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/stars/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/last-commit/qingfua/nes-acp.nvim) ![](https://img.shields.io/github/commit-activity/y/qingfua/nes-acp.nvim)
+- [ComicShrimp/agent.nvim](https://github.com/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/stars/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/last-commit/ComicShrimp/agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ComicShrimp/agent.nvim)
 
 ## ignore
 
