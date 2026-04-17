@@ -65,6 +65,7 @@
 - [byitkc/autoclose.nvim](https://github.com/byitkc/autoclose.nvim) ![](https://img.shields.io/github/stars/byitkc/autoclose.nvim) ![](https://img.shields.io/github/last-commit/byitkc/autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/byitkc/autoclose.nvim)
 - [gzygmanski/not-so-autopairs.nvim](https://github.com/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/stars/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/last-commit/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/gzygmanski/not-so-autopairs.nvim)
 - [alexghergh/pairs-jump.nvim](https://github.com/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/stars/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/last-commit/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/alexghergh/pairs-jump.nvim)
+- [jqno/jqno-autoclose.nvim](https://github.com/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/stars/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/last-commit/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/jqno/jqno-autoclose.nvim)
 
 ### escape pairs
 
@@ -112,6 +113,7 @@
 
 - [benjaminshawki/nvim-random-id](https://github.com/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/stars/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/last-commit/benjaminshawki/nvim-random-id) ![](https://img.shields.io/github/commit-activity/y/benjaminshawki/nvim-random-id)
 - [m-row/uuid-go.nvim](https://github.com/m-row/uuid-go.nvim) ![](https://img.shields.io/github/stars/m-row/uuid-go.nvim) ![](https://img.shields.io/github/last-commit/m-row/uuid-go.nvim) ![](https://img.shields.io/github/commit-activity/y/m-row/uuid-go.nvim)
+- [StiltFox/uuid-insert.nvim](https://github.com/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/stars/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/last-commit/StiltFox/uuid-insert.nvim) ![](https://img.shields.io/github/commit-activity/y/StiltFox/uuid-insert.nvim)
 
 ## Lorem Ipsum
 

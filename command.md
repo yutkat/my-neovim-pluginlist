@@ -40,6 +40,7 @@
 - [malikbenkirane/sensible.nvim](https://github.com/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/stars/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/last-commit/malikbenkirane/sensible.nvim) ![](https://img.shields.io/github/commit-activity/y/malikbenkirane/sensible.nvim)
 - [Sarctiann/cli-integration.nvim](https://github.com/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/stars/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/cli-integration.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/cli-integration.nvim)
 - [p-senichenkov/smart-edit.nvim](https://github.com/p-senichenkov/smart-edit.nvim) ![](https://img.shields.io/github/stars/p-senichenkov/smart-edit.nvim) ![](https://img.shields.io/github/last-commit/p-senichenkov/smart-edit.nvim) ![](https://img.shields.io/github/commit-activity/y/p-senichenkov/smart-edit.nvim)
+- [drehren/fltcmd.nvim](https://github.com/drehren/fltcmd.nvim) ![](https://img.shields.io/github/stars/drehren/fltcmd.nvim) ![](https://img.shields.io/github/last-commit/drehren/fltcmd.nvim) ![](https://img.shields.io/github/commit-activity/y/drehren/fltcmd.nvim)
 
 ### Shell
 

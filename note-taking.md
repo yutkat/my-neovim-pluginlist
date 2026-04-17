@@ -172,6 +172,7 @@
 - [zeapoz/tiny-journal.nvim](https://github.com/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/stars/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/last-commit/zeapoz/tiny-journal.nvim) ![](https://img.shields.io/github/commit-activity/y/zeapoz/tiny-journal.nvim)
 - [pcyman/second-brain.nvim](https://github.com/pcyman/second-brain.nvim) ![](https://img.shields.io/github/stars/pcyman/second-brain.nvim) ![](https://img.shields.io/github/last-commit/pcyman/second-brain.nvim) ![](https://img.shields.io/github/commit-activity/y/pcyman/second-brain.nvim)
 - [KvnGonz7/nvim-journal-workflow](https://github.com/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/stars/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/last-commit/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/commit-activity/y/KvnGonz7/nvim-journal-workflow)
+- [kmgrime/nota.nvim](https://github.com/kmgrime/nota.nvim) ![](https://img.shields.io/github/stars/kmgrime/nota.nvim) ![](https://img.shields.io/github/last-commit/kmgrime/nota.nvim) ![](https://img.shields.io/github/commit-activity/y/kmgrime/nota.nvim)
 
 ### ToDo
 
