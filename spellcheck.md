@@ -41,6 +41,7 @@
 - [kungfusaini/spellcheck-mode.nvim](https://github.com/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/stars/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/last-commit/kungfusaini/spellcheck-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/kungfusaini/spellcheck-mode.nvim)
 - [LuccaRomanelli/autocorrect.nvim](https://github.com/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/stars/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/last-commit/LuccaRomanelli/autocorrect.nvim) ![](https://img.shields.io/github/commit-activity/y/LuccaRomanelli/autocorrect.nvim)
 - [maureyesdev/reparo.nvim](https://github.com/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/stars/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/last-commit/maureyesdev/reparo.nvim) ![](https://img.shields.io/github/commit-activity/y/maureyesdev/reparo.nvim)
+- [chaneyzorn/spellwand.nvim](https://github.com/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/stars/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/last-commit/chaneyzorn/spellwand.nvim) ![](https://img.shields.io/github/commit-activity/y/chaneyzorn/spellwand.nvim)
 
 ### ShellSpec
 
