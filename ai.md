@@ -600,7 +600,6 @@
 
 ### Gen42 AI
 
-- [mcjkula/gen42.nvim](https://github.com/mcjkula/gen42.nvim) ![](https://img.shields.io/github/stars/mcjkula/gen42.nvim) ![](https://img.shields.io/github/last-commit/mcjkula/gen42.nvim) ![](https://img.shields.io/github/commit-activity/y/mcjkula/gen42.nvim)
 
 ### FastGPT Kagi
 
