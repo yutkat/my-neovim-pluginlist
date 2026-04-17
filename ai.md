@@ -319,6 +319,7 @@
 - [cjvnjde/ai-provider.nvim](https://github.com/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-provider.nvim)
 - [kruemmelbande/explaintome.nvim](https://github.com/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/stars/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/last-commit/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/commit-activity/y/kruemmelbande/explaintome.nvim)
 - [makefunstuff/cogcog](https://github.com/makefunstuff/cogcog) ![](https://img.shields.io/github/stars/makefunstuff/cogcog) ![](https://img.shields.io/github/last-commit/makefunstuff/cogcog) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/cogcog)
+- [Hashino/learning.nvim](https://github.com/Hashino/learning.nvim) ![](https://img.shields.io/github/stars/Hashino/learning.nvim) ![](https://img.shields.io/github/last-commit/Hashino/learning.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/learning.nvim)
 
 #### crush
 
