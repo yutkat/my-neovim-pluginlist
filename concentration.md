@@ -65,6 +65,7 @@
 - [popmatik/health-break.nvim](https://github.com/popmatik/health-break.nvim) ![](https://img.shields.io/github/stars/popmatik/health-break.nvim) ![](https://img.shields.io/github/last-commit/popmatik/health-break.nvim) ![](https://img.shields.io/github/commit-activity/y/popmatik/health-break.nvim)
 - [piyushdivyankar1994/goblin.nvim](https://github.com/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/stars/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/last-commit/piyushdivyankar1994/goblin.nvim) ![](https://img.shields.io/github/commit-activity/y/piyushdivyankar1994/goblin.nvim)
 - [jaredxfeng/brain-soc.nvim](https://github.com/jaredxfeng/brain-soc.nvim) ![](https://img.shields.io/github/stars/jaredxfeng/brain-soc.nvim) ![](https://img.shields.io/github/last-commit/jaredxfeng/brain-soc.nvim) ![](https://img.shields.io/github/commit-activity/y/jaredxfeng/brain-soc.nvim)
+- [aelisonCode/modal_timer.nvim](https://github.com/aelisonCode/modal_timer.nvim) ![](https://img.shields.io/github/stars/aelisonCode/modal_timer.nvim) ![](https://img.shields.io/github/last-commit/aelisonCode/modal_timer.nvim) ![](https://img.shields.io/github/commit-activity/y/aelisonCode/modal_timer.nvim)
 
 ## Timer
 

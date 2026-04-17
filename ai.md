@@ -196,6 +196,7 @@
 - [eskalVAR/codex.nvim](https://github.com/eskalVAR/codex.nvim) ![](https://img.shields.io/github/stars/eskalVAR/codex.nvim) ![](https://img.shields.io/github/last-commit/eskalVAR/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/eskalVAR/codex.nvim)
 - [jyhl/sift.nvim](https://github.com/jyhl/sift.nvim) ![](https://img.shields.io/github/stars/jyhl/sift.nvim) ![](https://img.shields.io/github/last-commit/jyhl/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/jyhl/sift.nvim)
 - [Ali-Aref/codex.nvim](https://github.com/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/stars/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/codex.nvim)
+- [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
 
 #### Whisper
 
@@ -389,6 +390,7 @@
 - [mabucio/nvim-ollama](https://github.com/mabucio/nvim-ollama) ![](https://img.shields.io/github/stars/mabucio/nvim-ollama) ![](https://img.shields.io/github/last-commit/mabucio/nvim-ollama) ![](https://img.shields.io/github/commit-activity/y/mabucio/nvim-ollama)
 - [jorge-a-martinez-dev/local-llm.nvim](https://github.com/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/stars/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/last-commit/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/jorge-a-martinez-dev/local-llm.nvim)
 - [basola21/chisel.nvim](https://github.com/basola21/chisel.nvim) ![](https://img.shields.io/github/stars/basola21/chisel.nvim) ![](https://img.shields.io/github/last-commit/basola21/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/basola21/chisel.nvim)
+- [Lostexee/ollama-chat.nvim](https://github.com/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/stars/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Lostexee/ollama-chat.nvim)
 
 ### Claude
 
@@ -771,6 +773,7 @@
 - [truthlocks/maip.nvim](https://github.com/truthlocks/maip.nvim) ![](https://img.shields.io/github/stars/truthlocks/maip.nvim) ![](https://img.shields.io/github/last-commit/truthlocks/maip.nvim) ![](https://img.shields.io/github/commit-activity/y/truthlocks/maip.nvim)
 - [vuongpd95/pie.nvim](https://github.com/vuongpd95/pie.nvim) ![](https://img.shields.io/github/stars/vuongpd95/pie.nvim) ![](https://img.shields.io/github/last-commit/vuongpd95/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/vuongpd95/pie.nvim)
 - [statiolake/agent-assisted.nvim](https://github.com/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/stars/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/last-commit/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/agent-assisted.nvim)
+- [arjunmahishi/agent-bridge.nvim](https://github.com/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/agent-bridge.nvim)
 
 ### AGENTS.md
 
@@ -932,6 +935,7 @@
 - [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/stars/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/last-commit/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/coderabbit.nvim)
 - [GabrielArpini/nvim-watcher](https://github.com/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/stars/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/last-commit/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/commit-activity/y/GabrielArpini/nvim-watcher)
+- [joelazar/agent-review.nvim](https://github.com/joelazar/agent-review.nvim) ![](https://img.shields.io/github/stars/joelazar/agent-review.nvim) ![](https://img.shields.io/github/last-commit/joelazar/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/joelazar/agent-review.nvim)
 
 ## Documentation
 
