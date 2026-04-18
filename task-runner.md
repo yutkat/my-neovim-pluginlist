@@ -170,7 +170,6 @@
 - [ojroques/nvim-buildme](https://github.com/ojroques/nvim-buildme) ![](https://img.shields.io/github/stars/ojroques/nvim-buildme) ![](https://img.shields.io/github/last-commit/ojroques/nvim-buildme) ![](https://img.shields.io/github/commit-activity/y/ojroques/nvim-buildme)
 - [LeonardsonCC/scrips.nvim](https://github.com/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/stars/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/last-commit/LeonardsonCC/scrips.nvim) ![](https://img.shields.io/github/commit-activity/y/LeonardsonCC/scrips.nvim)
 - [drunyd/nvim-runner](https://github.com/drunyd/nvim-runner) ![](https://img.shields.io/github/stars/drunyd/nvim-runner) ![](https://img.shields.io/github/last-commit/drunyd/nvim-runner) ![](https://img.shields.io/github/commit-activity/y/drunyd/nvim-runner)
-- [cmdl-dev/run-build.nvim](https://github.com/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/stars/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/last-commit/cmdl-dev/run-build.nvim) ![](https://img.shields.io/github/commit-activity/y/cmdl-dev/run-build.nvim)
 
 ### Command style
 
@@ -312,7 +311,6 @@
 - [klesh/nvim-runscript](https://github.com/klesh/nvim-runscript) ![](https://img.shields.io/github/stars/klesh/nvim-runscript) ![](https://img.shields.io/github/last-commit/klesh/nvim-runscript) ![](https://img.shields.io/github/commit-activity/y/klesh/nvim-runscript)
 - [holmanb/range-runner.nvim](https://github.com/holmanb/range-runner.nvim) ![](https://img.shields.io/github/stars/holmanb/range-runner.nvim) ![](https://img.shields.io/github/last-commit/holmanb/range-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/holmanb/range-runner.nvim)
 - [RimuhRimu/runthis.nvim](https://github.com/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/stars/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/last-commit/RimuhRimu/runthis.nvim) ![](https://img.shields.io/github/commit-activity/y/RimuhRimu/runthis.nvim)
-- [javio7/nvim-executor](https://github.com/javio7/nvim-executor) ![](https://img.shields.io/github/stars/javio7/nvim-executor) ![](https://img.shields.io/github/last-commit/javio7/nvim-executor) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-executor)
 - [czkz/smartrun.nvim](https://github.com/czkz/smartrun.nvim) ![](https://img.shields.io/github/stars/czkz/smartrun.nvim) ![](https://img.shields.io/github/last-commit/czkz/smartrun.nvim) ![](https://img.shields.io/github/commit-activity/y/czkz/smartrun.nvim)
 - [tiberiuiurco/runny.nvim](https://github.com/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/stars/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/last-commit/tiberiuiurco/runny.nvim) ![](https://img.shields.io/github/commit-activity/y/tiberiuiurco/runny.nvim)
 - [devmuu/nvim-run-script](https://github.com/devmuu/nvim-run-script) ![](https://img.shields.io/github/stars/devmuu/nvim-run-script) ![](https://img.shields.io/github/last-commit/devmuu/nvim-run-script) ![](https://img.shields.io/github/commit-activity/y/devmuu/nvim-run-script)
