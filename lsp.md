@@ -146,6 +146,7 @@
 - [Kurama622/clean-diagnostic](https://github.com/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/stars/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/last-commit/Kurama622/clean-diagnostic) ![](https://img.shields.io/github/commit-activity/y/Kurama622/clean-diagnostic)
 - [njhoffman/diagnostics.nvim](https://github.com/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/stars/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/last-commit/njhoffman/diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/njhoffman/diagnostics.nvim)
 - [OceanOSdev/doom-diagnostics.nvim](https://github.com/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/stars/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/OceanOSdev/doom-diagnostics.nvim)
+- [takeshiD/whyis.nvim](https://github.com/takeshiD/whyis.nvim) ![](https://img.shields.io/github/stars/takeshiD/whyis.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/whyis.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/whyis.nvim)
 
 ##### Diagnostics goto
 
