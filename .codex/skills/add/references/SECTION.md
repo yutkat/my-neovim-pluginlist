@@ -176,6 +176,7 @@
 
 # c_cpp.md
 ## C/C++
+## Arduino
 ### Syntax
 ### Macro
 ### function
@@ -387,6 +388,7 @@
 # cursorline_columnline.md
 ## Cursorline
 ### tweak
+## Line Number
 ## Columnline
 ### limit column
 ### EOL

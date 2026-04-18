@@ -92,6 +92,7 @@
 - [execute008/brain.nvim](https://github.com/execute008/brain.nvim) ![](https://img.shields.io/github/stars/execute008/brain.nvim) ![](https://img.shields.io/github/last-commit/execute008/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/execute008/brain.nvim)
 - [gustav-lastname/scriptscript.nvim](https://github.com/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/stars/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/last-commit/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gustav-lastname/scriptscript.nvim)
 - [antoniorodr/lexy.nvim](https://github.com/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/stars/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/last-commit/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniorodr/lexy.nvim)
+- [goropikari/drill.nvim](https://github.com/goropikari/drill.nvim) ![](https://img.shields.io/github/stars/goropikari/drill.nvim) ![](https://img.shields.io/github/last-commit/goropikari/drill.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/drill.nvim)
 
 ### Turing path
 

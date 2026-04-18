@@ -334,6 +334,7 @@
 
 - [isak102/telescope-git-file-history.nvim](https://github.com/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/stars/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/last-commit/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/telescope-git-file-history.nvim)
 - [piersolenski/wayback.nvim](https://github.com/piersolenski/wayback.nvim) ![](https://img.shields.io/github/stars/piersolenski/wayback.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/wayback.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/wayback.nvim)
+- [nsavvide/saywhatnow.nvim](https://github.com/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/stars/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/last-commit/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/commit-activity/y/nsavvide/saywhatnow.nvim)
 
 ### git lens
 

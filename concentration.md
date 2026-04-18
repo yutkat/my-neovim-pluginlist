@@ -124,6 +124,7 @@
 - [0oAstro/dim.lua](https://github.com/0oAstro/dim.lua) ![](https://img.shields.io/github/stars/0oAstro/dim.lua) ![](https://img.shields.io/github/last-commit/0oAstro/dim.lua) ![](https://img.shields.io/github/commit-activity/y/0oAstro/dim.lua)
 - [willsantiagomedina/focus.nvim](https://github.com/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/stars/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/last-commit/willsantiagomedina/focus.nvim) ![](https://img.shields.io/github/commit-activity/y/willsantiagomedina/focus.nvim)
 - [vinvolve/forest.nvim](https://github.com/vinvolve/forest.nvim) ![](https://img.shields.io/github/stars/vinvolve/forest.nvim) ![](https://img.shields.io/github/last-commit/vinvolve/forest.nvim) ![](https://img.shields.io/github/commit-activity/y/vinvolve/forest.nvim)
+- [leolaurindo/tunnelvision.nvim](https://github.com/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/stars/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/last-commit/leolaurindo/tunnelvision.nvim) ![](https://img.shields.io/github/commit-activity/y/leolaurindo/tunnelvision.nvim)
 
 ## Random Selection
 

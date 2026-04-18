@@ -4,6 +4,7 @@
 
 - [Cursorline](#cursorline)
   - [tweak](#tweak)
+- [Line Number](#line-number)
 - [Columnline](#columnline)
   - [limit column](#limit-column)
   - [EOL](#eol)
@@ -25,6 +26,10 @@
 ### tweak
 
 - [jake-stewart/force-cul.nvim](https://github.com/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/stars/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/last-commit/jake-stewart/force-cul.nvim) ![](https://img.shields.io/github/commit-activity/y/jake-stewart/force-cul.nvim)
+
+## Line Number
+
+- [zaakiy/line-justice.nvim](https://github.com/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/stars/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/last-commit/zaakiy/line-justice.nvim) ![](https://img.shields.io/github/commit-activity/y/zaakiy/line-justice.nvim)
 
 ## Columnline
 

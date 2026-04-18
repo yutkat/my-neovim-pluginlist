@@ -62,6 +62,7 @@
 - [HakonHarnes/img-clip.nvim](https://github.com/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/stars/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/last-commit/HakonHarnes/img-clip.nvim) ![](https://img.shields.io/github/commit-activity/y/HakonHarnes/img-clip.nvim)
 - [yuki-yano/clipboard-image-to-agent.nvim](https://github.com/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/stars/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/clipboard-image-to-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/clipboard-image-to-agent.nvim)
 - [AlexZeitler/sshimg.nvim](https://github.com/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/stars/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/last-commit/AlexZeitler/sshimg.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexZeitler/sshimg.nvim)
+- [Jacky-Lzx/image-insert.nvim](https://github.com/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/stars/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/last-commit/Jacky-Lzx/image-insert.nvim) ![](https://img.shields.io/github/commit-activity/y/Jacky-Lzx/image-insert.nvim)
 
 ### Image Uploader
 
