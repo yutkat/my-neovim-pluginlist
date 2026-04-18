@@ -151,6 +151,8 @@
 - [hurou927/memo-float.nvim](https://github.com/hurou927/memo-float.nvim) ![](https://img.shields.io/github/stars/hurou927/memo-float.nvim) ![](https://img.shields.io/github/last-commit/hurou927/memo-float.nvim) ![](https://img.shields.io/github/commit-activity/y/hurou927/memo-float.nvim)
 - [stvhuang/memo.nvim](https://github.com/stvhuang/memo.nvim) ![](https://img.shields.io/github/stars/stvhuang/memo.nvim) ![](https://img.shields.io/github/last-commit/stvhuang/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/stvhuang/memo.nvim)
 
+- [Moh-Snoussi/nvim-notes](https://github.com/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/stars/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/last-commit/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Moh-Snoussi/nvim-notes)
+
 ### Journal
 
 - [r35krag0th/yeahnotes.nvim](https://github.com/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/stars/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/last-commit/r35krag0th/yeahnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/r35krag0th/yeahnotes.nvim)
@@ -392,6 +394,8 @@
 - [jeryldev/obsidian-cli.nvim](https://github.com/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/stars/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/last-commit/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeryldev/obsidian-cli.nvim)
 - [hidetoshing/obsidianus.nvim](https://github.com/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/stars/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/last-commit/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/commit-activity/y/hidetoshing/obsidianus.nvim)
 - [simplycycling/obsidian-preview.nvim](https://github.com/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/stars/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/last-commit/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/simplycycling/obsidian-preview.nvim)
+
+- [Aevox121/obsidian-link.nvim](https://github.com/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/stars/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/last-commit/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/commit-activity/y/Aevox121/obsidian-link.nvim)
 
 ### Logseq
 

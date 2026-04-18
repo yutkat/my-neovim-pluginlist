@@ -123,6 +123,7 @@
 #### detach
 
 - [ezechukwu69/detacher.nvim](https://github.com/ezechukwu69/detacher.nvim) ![](https://img.shields.io/github/stars/ezechukwu69/detacher.nvim) ![](https://img.shields.io/github/last-commit/ezechukwu69/detacher.nvim) ![](https://img.shields.io/github/commit-activity/y/ezechukwu69/detacher.nvim)
+- [SanzharKuandyk/shunpo.nvim](https://github.com/SanzharKuandyk/shunpo.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/shunpo.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/shunpo.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/shunpo.nvim)
 
 ### Random value
 

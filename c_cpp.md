@@ -37,6 +37,7 @@
   - [OpenMP](#openmp)
   - [Header](#header)
     - [include](#include)
+- [Arduino](#arduino)
 - [PlatformIO](#platformio)
 - [ASM](#asm)
 - [Linux kernel development](#linux-kernel-development)
@@ -68,6 +69,10 @@
 - [ankit02327/nvim-cpp-setup](https://github.com/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/stars/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/last-commit/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/commit-activity/y/ankit02327/nvim-cpp-setup)
 - [prerit714/suno.nvim](https://github.com/prerit714/suno.nvim) ![](https://img.shields.io/github/stars/prerit714/suno.nvim) ![](https://img.shields.io/github/last-commit/prerit714/suno.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/suno.nvim)
 
+## Arduino
+
+- [AsclepiosDeus/arduino.nvim](https://github.com/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/stars/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/last-commit/AsclepiosDeus/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/AsclepiosDeus/arduino.nvim)
+
 ### Syntax
 
 - [RyanBlaney/syntax-tract.nvim](https://github.com/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/stars/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/last-commit/RyanBlaney/syntax-tract.nvim) ![](https://img.shields.io/github/commit-activity/y/RyanBlaney/syntax-tract.nvim)
@@ -91,6 +96,7 @@
 #### insight
 
 - [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/cppinsights.nvim)
+- [J-Cowsert/classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/stars/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/last-commit/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/J-Cowsert/classlayout.nvim)
 
 #### elf
 
@@ -99,6 +105,7 @@
 ### Implement
 
 - [DanielMSussman/simpleCppTreesitterTools.nvim](https://github.com/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/stars/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/last-commit/DanielMSussman/simpleCppTreesitterTools.nvim) ![](https://img.shields.io/github/commit-activity/y/DanielMSussman/simpleCppTreesitterTools.nvim)
+- [sektant1/clanger.nvim](https://github.com/sektant1/clanger.nvim) ![](https://img.shields.io/github/stars/sektant1/clanger.nvim) ![](https://img.shields.io/github/last-commit/sektant1/clanger.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/clanger.nvim)
 
 #### Clang
 
