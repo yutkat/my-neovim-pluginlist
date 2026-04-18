@@ -432,7 +432,6 @@
 
 ### Documentation search
 
-- [cmdl-dev/search_doc.nvim](https://github.com/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/stars/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/last-commit/cmdl-dev/search_doc.nvim) ![](https://img.shields.io/github/commit-activity/y/cmdl-dev/search_doc.nvim)
 - [andyjeffries/lazydocs.nvim](https://github.com/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/stars/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/andyjeffries/lazydocs.nvim)
 - [kwerie/vendure-docs-browser.nvim](https://github.com/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/stars/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/last-commit/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/kwerie/vendure-docs-browser.nvim)
 - [Victor-johnsson/aspire-docs.nvim](https://github.com/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/stars/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/last-commit/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/Victor-johnsson/aspire-docs.nvim)
@@ -465,7 +464,6 @@
 
 - [mszenfeld/puml-viewer.nvim](https://github.com/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/stars/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/last-commit/mszenfeld/puml-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/mszenfeld/puml-viewer.nvim)
 - [Sol-Ponz/plantuml-previewer.nvim](https://github.com/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/stars/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/last-commit/Sol-Ponz/plantuml-previewer.nvim) ![](https://img.shields.io/github/commit-activity/y/Sol-Ponz/plantuml-previewer.nvim)
-- [javio7/nvim-modelizer](https://github.com/javio7/nvim-modelizer) ![](https://img.shields.io/github/stars/javio7/nvim-modelizer) ![](https://img.shields.io/github/last-commit/javio7/nvim-modelizer) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-modelizer)
 - [zapling/plantuml.nvim](https://github.com/zapling/plantuml.nvim) ![](https://img.shields.io/github/stars/zapling/plantuml.nvim) ![](https://img.shields.io/github/last-commit/zapling/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/zapling/plantuml.nvim)
 - [bnse/plantuml.nvim](https://github.com/bnse/plantuml.nvim) ![](https://img.shields.io/github/stars/bnse/plantuml.nvim) ![](https://img.shields.io/github/last-commit/bnse/plantuml.nvim) ![](https://img.shields.io/github/commit-activity/y/bnse/plantuml.nvim)
 - [v1nh1shungry/plantuml-preview.nvim](https://github.com/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/plantuml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/plantuml-preview.nvim)

@@ -126,7 +126,6 @@
 
 ### JBoss
 
-- [orfosys/nvim-wildcat](https://github.com/orfosys/nvim-wildcat) ![](https://img.shields.io/github/stars/orfosys/nvim-wildcat) ![](https://img.shields.io/github/last-commit/orfosys/nvim-wildcat) ![](https://img.shields.io/github/commit-activity/y/orfosys/nvim-wildcat)
 
 ### Tomcat
 

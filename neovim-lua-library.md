@@ -232,7 +232,6 @@
 
 - [nvim-lua/popup.nvim](https://github.com/nvim-lua/popup.nvim) ![](https://img.shields.io/github/stars/nvim-lua/popup.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/popup.nvim)
 - [RishabhRD/popfix](https://github.com/RishabhRD/popfix) ![](https://img.shields.io/github/stars/RishabhRD/popfix) ![](https://img.shields.io/github/last-commit/RishabhRD/popfix) ![](https://img.shields.io/github/commit-activity/y/RishabhRD/popfix)
-- [javio7/nvim-popcorn](https://github.com/javio7/nvim-popcorn) ![](https://img.shields.io/github/stars/javio7/nvim-popcorn) ![](https://img.shields.io/github/last-commit/javio7/nvim-popcorn) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-popcorn)
 - [divagueame/lacasitos.nvim](https://github.com/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/stars/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/last-commit/divagueame/lacasitos.nvim) ![](https://img.shields.io/github/commit-activity/y/divagueame/lacasitos.nvim)
 - [errael/popup.nvim](https://github.com/errael/popup.nvim) ![](https://img.shields.io/github/stars/errael/popup.nvim) ![](https://img.shields.io/github/last-commit/errael/popup.nvim) ![](https://img.shields.io/github/commit-activity/y/errael/popup.nvim)
 
@@ -248,7 +247,6 @@
 
 ### Spinner
 
-- [javio7/nvim-spinetta](https://github.com/javio7/nvim-spinetta) ![](https://img.shields.io/github/stars/javio7/nvim-spinetta) ![](https://img.shields.io/github/last-commit/javio7/nvim-spinetta) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-spinetta)
 - [xieyonn/spinner.nvim](https://github.com/xieyonn/spinner.nvim) ![](https://img.shields.io/github/stars/xieyonn/spinner.nvim) ![](https://img.shields.io/github/last-commit/xieyonn/spinner.nvim) ![](https://img.shields.io/github/commit-activity/y/xieyonn/spinner.nvim)
 
 ## Error handling
@@ -289,7 +287,6 @@
 
 ### Curl
 
-- [javio7/nvim-vurl](https://github.com/javio7/nvim-vurl) ![](https://img.shields.io/github/stars/javio7/nvim-vurl) ![](https://img.shields.io/github/last-commit/javio7/nvim-vurl) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-vurl)
 - [minowak/nvim-curl](https://github.com/minowak/nvim-curl) ![](https://img.shields.io/github/stars/minowak/nvim-curl) ![](https://img.shields.io/github/last-commit/minowak/nvim-curl) ![](https://img.shields.io/github/commit-activity/y/minowak/nvim-curl)
 - [bdargan/curl_insert.nvim](https://github.com/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/stars/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/last-commit/bdargan/curl_insert.nvim) ![](https://img.shields.io/github/commit-activity/y/bdargan/curl_insert.nvim)
 
@@ -452,7 +449,6 @@
 
 - [nvim-lua/plenary.nvim](https://github.com/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/stars/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/last-commit/nvim-lua/plenary.nvim) ![](https://img.shields.io/github/commit-activity/y/nvim-lua/plenary.nvim)
 - [anuvyklack/nvim-api-wrappers](https://github.com/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/stars/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/last-commit/anuvyklack/nvim-api-wrappers) ![](https://img.shields.io/github/commit-activity/y/anuvyklack/nvim-api-wrappers)
-- [javio7/nvim-osfa](https://github.com/javio7/nvim-osfa) ![](https://img.shields.io/github/stars/javio7/nvim-osfa) ![](https://img.shields.io/github/last-commit/javio7/nvim-osfa) ![](https://img.shields.io/github/commit-activity/y/javio7/nvim-osfa)
 - [tenxsoydev/nx.nvim](https://github.com/tenxsoydev/nx.nvim) ![](https://img.shields.io/github/stars/tenxsoydev/nx.nvim) ![](https://img.shields.io/github/last-commit/tenxsoydev/nx.nvim) ![](https://img.shields.io/github/commit-activity/y/tenxsoydev/nx.nvim)
 - [ollbx/nvim-utility-lib.nvim](https://github.com/ollbx/nvim-utility-lib.nvim) ![](https://img.shields.io/github/stars/ollbx/nvim-utility-lib.nvim) ![](https://img.shields.io/github/last-commit/ollbx/nvim-utility-lib.nvim) ![](https://img.shields.io/github/commit-activity/y/ollbx/nvim-utility-lib.nvim)
 - [wrightjjw/cool.nvim](https://github.com/wrightjjw/cool.nvim) ![](https://img.shields.io/github/stars/wrightjjw/cool.nvim) ![](https://img.shields.io/github/last-commit/wrightjjw/cool.nvim) ![](https://img.shields.io/github/commit-activity/y/wrightjjw/cool.nvim)
