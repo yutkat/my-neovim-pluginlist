@@ -793,6 +793,7 @@
 - [Huijiro/nvim-pi](https://github.com/Huijiro/nvim-pi) ![](https://img.shields.io/github/stars/Huijiro/nvim-pi) ![](https://img.shields.io/github/last-commit/Huijiro/nvim-pi) ![](https://img.shields.io/github/commit-activity/y/Huijiro/nvim-pi)
 - [gumonteilh/nvim-pi](https://github.com/gumonteilh/nvim-pi) ![](https://img.shields.io/github/stars/gumonteilh/nvim-pi) ![](https://img.shields.io/github/last-commit/gumonteilh/nvim-pi) ![](https://img.shields.io/github/commit-activity/y/gumonteilh/nvim-pi)
 - [pbonh/pi-traycer.nvim](https://github.com/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/stars/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/last-commit/pbonh/pi-traycer.nvim) ![](https://img.shields.io/github/commit-activity/y/pbonh/pi-traycer.nvim)
+- [PedroKlein/pi.nvim](https://github.com/PedroKlein/pi.nvim) ![](https://img.shields.io/github/stars/PedroKlein/pi.nvim) ![](https://img.shields.io/github/last-commit/PedroKlein/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroKlein/pi.nvim)
 
 ### Amp
 

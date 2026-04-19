@@ -52,6 +52,7 @@
 - [aneveux/localreview.nvim](https://github.com/aneveux/localreview.nvim) ![](https://img.shields.io/github/stars/aneveux/localreview.nvim) ![](https://img.shields.io/github/last-commit/aneveux/localreview.nvim) ![](https://img.shields.io/github/commit-activity/y/aneveux/localreview.nvim)
 - [paxunix/bin-comm.nvim](https://github.com/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/stars/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/last-commit/paxunix/bin-comm.nvim) ![](https://img.shields.io/github/commit-activity/y/paxunix/bin-comm.nvim)
 - [0xferrous/diffie.nvim](https://github.com/0xferrous/diffie.nvim) ![](https://img.shields.io/github/stars/0xferrous/diffie.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/diffie.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/diffie.nvim)
+- [emmanuelchucks/patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/stars/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/last-commit/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanuelchucks/patchmarks.nvim)
 
 ### Diff Register
 
