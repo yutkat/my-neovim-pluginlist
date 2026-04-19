@@ -68,6 +68,7 @@
 - [skuzniar/nvim-cppgen](https://github.com/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/stars/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/last-commit/skuzniar/nvim-cppgen) ![](https://img.shields.io/github/commit-activity/y/skuzniar/nvim-cppgen)
 - [ankit02327/nvim-cpp-setup](https://github.com/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/stars/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/last-commit/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/commit-activity/y/ankit02327/nvim-cpp-setup)
 - [prerit714/suno.nvim](https://github.com/prerit714/suno.nvim) ![](https://img.shields.io/github/stars/prerit714/suno.nvim) ![](https://img.shields.io/github/last-commit/prerit714/suno.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/suno.nvim)
+- [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) ![](https://img.shields.io/github/stars/simonwinther/cppman.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/cppman.nvim)
 
 ## Arduino
 

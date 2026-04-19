@@ -326,6 +326,7 @@
 - [paval-shlyk/session-todo.nvim](https://github.com/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/stars/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/last-commit/paval-shlyk/session-todo.nvim) ![](https://img.shields.io/github/commit-activity/y/paval-shlyk/session-todo.nvim)
 - [MOHIT-IITP/todofloat.nvim](https://github.com/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/stars/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/last-commit/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/MOHIT-IITP/todofloat.nvim)
 - [olo42/markdone.nvim](https://github.com/olo42/markdone.nvim) ![](https://img.shields.io/github/stars/olo42/markdone.nvim) ![](https://img.shields.io/github/last-commit/olo42/markdone.nvim) ![](https://img.shields.io/github/commit-activity/y/olo42/markdone.nvim)
+- [GunawanAhmad/todo.nvim](https://github.com/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/stars/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/last-commit/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/GunawanAhmad/todo.nvim)
 
 #### Google Task
 
@@ -476,6 +477,7 @@
 - [skeletony007/qwiki.nvim](https://github.com/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/stars/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/qwiki.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/qwiki.nvim)
 - [dhayer200/wiki.nvim](https://github.com/dhayer200/wiki.nvim) ![](https://img.shields.io/github/stars/dhayer200/wiki.nvim) ![](https://img.shields.io/github/last-commit/dhayer200/wiki.nvim) ![](https://img.shields.io/github/commit-activity/y/dhayer200/wiki.nvim)
 - [gxtools/gx.nvim](https://github.com/gxtools/gx.nvim) ![](https://img.shields.io/github/stars/gxtools/gx.nvim) ![](https://img.shields.io/github/last-commit/gxtools/gx.nvim) ![](https://img.shields.io/github/commit-activity/y/gxtools/gx.nvim)
+- [Narong-Kanthanu/llm-kiwi.nvim](https://github.com/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/stars/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/last-commit/Narong-Kanthanu/llm-kiwi.nvim) ![](https://img.shields.io/github/commit-activity/y/Narong-Kanthanu/llm-kiwi.nvim)
 
 ### VimWiki
 

@@ -273,6 +273,7 @@
 - [sammy-spills/marimo.nvim](https://github.com/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/stars/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/last-commit/sammy-spills/marimo.nvim) ![](https://img.shields.io/github/commit-activity/y/sammy-spills/marimo.nvim)
 - [ansh-info/ipynb.nvim](https://github.com/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/stars/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/last-commit/ansh-info/ipynb.nvim) ![](https://img.shields.io/github/commit-activity/y/ansh-info/ipynb.nvim)
 - [sunbluesome/ipynvim.nvim](https://github.com/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/stars/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/ipynvim.nvim)
+- [twhlynch/notebook.nvim](https://github.com/twhlynch/notebook.nvim) ![](https://img.shields.io/github/stars/twhlynch/notebook.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/notebook.nvim)
 
 ### Pandas
 

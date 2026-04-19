@@ -88,6 +88,7 @@
 
 - [icedman/nvim-textmate](https://github.com/icedman/nvim-textmate) ![](https://img.shields.io/github/stars/icedman/nvim-textmate) ![](https://img.shields.io/github/last-commit/icedman/nvim-textmate) ![](https://img.shields.io/github/commit-activity/y/icedman/nvim-textmate)
 - [notxkcd/nvim-jasmin](https://github.com/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/stars/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/last-commit/notxkcd/nvim-jasmin) ![](https://img.shields.io/github/commit-activity/y/notxkcd/nvim-jasmin)
+- [KiliLoje/rapresence.nvim](https://github.com/KiliLoje/rapresence.nvim) ![](https://img.shields.io/github/stars/KiliLoje/rapresence.nvim) ![](https://img.shields.io/github/last-commit/KiliLoje/rapresence.nvim) ![](https://img.shields.io/github/commit-activity/y/KiliLoje/rapresence.nvim)
 
 ### Semantic highlight
 
