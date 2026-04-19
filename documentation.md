@@ -525,6 +525,7 @@
 - [Chiarandini/telescope-pdf-browser.nvim](https://github.com/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/stars/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/telescope-pdf-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/telescope-pdf-browser.nvim)
 - [joshheyse/mupager.nvim](https://github.com/joshheyse/mupager.nvim) ![](https://img.shields.io/github/stars/joshheyse/mupager.nvim) ![](https://img.shields.io/github/last-commit/joshheyse/mupager.nvim) ![](https://img.shields.io/github/commit-activity/y/joshheyse/mupager.nvim)
 - [tianbaiting/pdfbuffer.nvim](https://github.com/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/stars/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/last-commit/tianbaiting/pdfbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/tianbaiting/pdfbuffer.nvim)
+- [propilideno/buffer-preview.nvim](https://github.com/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/stars/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/last-commit/propilideno/buffer-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/propilideno/buffer-preview.nvim)
 
 ### EPUB
 
