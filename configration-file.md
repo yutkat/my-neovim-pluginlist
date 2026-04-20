@@ -79,6 +79,7 @@
 - [DmarshalTU/yaml-jumper](https://github.com/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/stars/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/last-commit/DmarshalTU/yaml-jumper) ![](https://img.shields.io/github/commit-activity/y/DmarshalTU/yaml-jumper)
 - [vasuadari/yaml-breadcrumb.nvim](https://github.com/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/stars/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/last-commit/vasuadari/yaml-breadcrumb.nvim) ![](https://img.shields.io/github/commit-activity/y/vasuadari/yaml-breadcrumb.nvim)
 - [mosheavni/yaml-companion.nvim](https://github.com/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/stars/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/yaml-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/yaml-companion.nvim)
+- [xingyuXXX/yaml-path.nvim](https://github.com/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/stars/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/last-commit/xingyuXXX/yaml-path.nvim) ![](https://img.shields.io/github/commit-activity/y/xingyuXXX/yaml-path.nvim)
 
 ### TOML
 
