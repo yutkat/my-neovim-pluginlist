@@ -6,6 +6,7 @@
   - [Remote Development](#remote-development)
   - [Devcontainer](#devcontainer)
   - [Collaborative Editing](#collaborative-editing)
+  - [.vscode](#vscode)
   - [IDE feature](#ide-feature)
 
 <!-- tocstop -->
@@ -41,10 +42,13 @@
 - [EmreDay1/collab.nvim](https://github.com/EmreDay1/collab.nvim) ![](https://img.shields.io/github/stars/EmreDay1/collab.nvim) ![](https://img.shields.io/github/last-commit/EmreDay1/collab.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreDay1/collab.nvim)
 - [StackApe/apexlink.nvim](https://github.com/StackApe/apexlink.nvim) ![](https://img.shields.io/github/stars/StackApe/apexlink.nvim) ![](https://img.shields.io/github/last-commit/StackApe/apexlink.nvim) ![](https://img.shields.io/github/commit-activity/y/StackApe/apexlink.nvim)
 
+### .vscode
+
+- [noelmugnier/vscode-gen.nvim](https://github.com/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/stars/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/vscode-gen.nvim)
+
 ### IDE feature
 
 - [AbaoFromCUG/intergrater.nvim](https://github.com/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/stars/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/last-commit/AbaoFromCUG/intergrater.nvim) ![](https://img.shields.io/github/commit-activity/y/AbaoFromCUG/intergrater.nvim)
 - [AEKjeldal/imposter.nvim](https://github.com/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/stars/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/last-commit/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKjeldal/imposter.nvim)
 - [kevintraver/nvim-vscode-status](https://github.com/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/stars/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/last-commit/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/commit-activity/y/kevintraver/nvim-vscode-status)
 - [kimpure/vscode-settings.nvim](https://github.com/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/stars/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/last-commit/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/vscode-settings.nvim)
-- [noelmugnier/vscode-gen.nvim](https://github.com/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/stars/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/vscode-gen.nvim)
