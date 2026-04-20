@@ -6,6 +6,7 @@
   - [Remote Development](#remote-development)
   - [Devcontainer](#devcontainer)
   - [Collaborative Editing](#collaborative-editing)
+  - [.vscode](#vscode)
   - [IDE feature](#ide-feature)
 
 <!-- tocstop -->
@@ -40,6 +41,10 @@
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) ![](https://img.shields.io/github/stars/azratul/live-share.nvim) ![](https://img.shields.io/github/last-commit/azratul/live-share.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/live-share.nvim)
 - [EmreDay1/collab.nvim](https://github.com/EmreDay1/collab.nvim) ![](https://img.shields.io/github/stars/EmreDay1/collab.nvim) ![](https://img.shields.io/github/last-commit/EmreDay1/collab.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreDay1/collab.nvim)
 - [StackApe/apexlink.nvim](https://github.com/StackApe/apexlink.nvim) ![](https://img.shields.io/github/stars/StackApe/apexlink.nvim) ![](https://img.shields.io/github/last-commit/StackApe/apexlink.nvim) ![](https://img.shields.io/github/commit-activity/y/StackApe/apexlink.nvim)
+
+### .vscode
+
+- [noelmugnier/vscode-gen.nvim](https://github.com/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/stars/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/vscode-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/vscode-gen.nvim)
 
 ### IDE feature
 

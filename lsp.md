@@ -194,6 +194,7 @@
 - [ZenithInc/fqn.nvim](https://github.com/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/stars/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/last-commit/ZenithInc/fqn.nvim) ![](https://img.shields.io/github/commit-activity/y/ZenithInc/fqn.nvim)
 - [mkeiji/better-gtd.nvim](https://github.com/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/stars/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/last-commit/mkeiji/better-gtd.nvim) ![](https://img.shields.io/github/commit-activity/y/mkeiji/better-gtd.nvim)
 - [brian2001dineen-afk/babble.nvim](https://github.com/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/stars/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/last-commit/brian2001dineen-afk/babble.nvim) ![](https://img.shields.io/github/commit-activity/y/brian2001dineen-afk/babble.nvim)
+- [mikkurogue/peekr.nvim](https://github.com/mikkurogue/peekr.nvim) ![](https://img.shields.io/github/stars/mikkurogue/peekr.nvim) ![](https://img.shields.io/github/last-commit/mikkurogue/peekr.nvim) ![](https://img.shields.io/github/commit-activity/y/mikkurogue/peekr.nvim)
 
 #### Code action
 
@@ -216,6 +217,7 @@
 - [C163q/codeaction-lightbulb.nvim](https://github.com/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/stars/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/last-commit/C163q/codeaction-lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/C163q/codeaction-lightbulb.nvim)
 - [swaits/tiny-lightbulb.nvim](https://github.com/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-lightbulb.nvim)
 - [taigrr/biscuit.nvim](https://github.com/taigrr/biscuit.nvim) ![](https://img.shields.io/github/stars/taigrr/biscuit.nvim) ![](https://img.shields.io/github/last-commit/taigrr/biscuit.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/biscuit.nvim)
+- [Chiarandini/smart-actions.nvim](https://github.com/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-actions.nvim)
 
 #### Hint
 
@@ -409,6 +411,7 @@
 - [asward/workspace-config.nvim](https://github.com/asward/workspace-config.nvim) ![](https://img.shields.io/github/stars/asward/workspace-config.nvim) ![](https://img.shields.io/github/last-commit/asward/workspace-config.nvim) ![](https://img.shields.io/github/commit-activity/y/asward/workspace-config.nvim)
 - [HimadriChakra12/hsc.nvim](https://github.com/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/stars/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/last-commit/HimadriChakra12/hsc.nvim) ![](https://img.shields.io/github/commit-activity/y/HimadriChakra12/hsc.nvim)
 - [owenrumney/goreleaser-ls.nvim](https://github.com/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/stars/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/last-commit/owenrumney/goreleaser-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/owenrumney/goreleaser-ls.nvim)
+- [noelmugnier/lsp-preload.nvim](https://github.com/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/stars/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/last-commit/noelmugnier/lsp-preload.nvim) ![](https://img.shields.io/github/commit-activity/y/noelmugnier/lsp-preload.nvim)
 
 ## Backwards Compatibility
 

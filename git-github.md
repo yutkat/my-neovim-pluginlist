@@ -335,6 +335,7 @@
 - [isak102/telescope-git-file-history.nvim](https://github.com/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/stars/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/last-commit/isak102/telescope-git-file-history.nvim) ![](https://img.shields.io/github/commit-activity/y/isak102/telescope-git-file-history.nvim)
 - [piersolenski/wayback.nvim](https://github.com/piersolenski/wayback.nvim) ![](https://img.shields.io/github/stars/piersolenski/wayback.nvim) ![](https://img.shields.io/github/last-commit/piersolenski/wayback.nvim) ![](https://img.shields.io/github/commit-activity/y/piersolenski/wayback.nvim)
 - [nsavvide/saywhatnow.nvim](https://github.com/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/stars/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/last-commit/nsavvide/saywhatnow.nvim) ![](https://img.shields.io/github/commit-activity/y/nsavvide/saywhatnow.nvim)
+- [noizwaves/gloggles.nvim](https://github.com/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/stars/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/last-commit/noizwaves/gloggles.nvim) ![](https://img.shields.io/github/commit-activity/y/noizwaves/gloggles.nvim)
 
 ### git lens
 
@@ -380,6 +381,7 @@
 - [xiaocang/gitrev.nvim](https://github.com/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/stars/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/last-commit/xiaocang/gitrev.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaocang/gitrev.nvim)
 - [alex35mil/delta.nvim](https://github.com/alex35mil/delta.nvim) ![](https://img.shields.io/github/stars/alex35mil/delta.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/delta.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/delta.nvim)
 - [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/diffview.nvim)
+- [elanmed/git-diff.nvim](https://github.com/elanmed/git-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diff.nvim)
 
 #### image diff
 

@@ -6,6 +6,7 @@
   - [package import](#package-import)
   - [rename](#rename)
   - [method](#method)
+  - [javadoc](#javadoc)
   - [Debugger](#debugger)
     - [Stacktrace](#stacktrace)
   - [Serial Version](#serial-version)
@@ -39,7 +40,6 @@
 - [NickJAllen/java-helpers.nvim](https://github.com/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/stars/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/last-commit/NickJAllen/java-helpers.nvim) ![](https://img.shields.io/github/commit-activity/y/NickJAllen/java-helpers.nvim)
 - [ghaithsassi/nvim-java-cryeator](https://github.com/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/stars/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/last-commit/ghaithsassi/nvim-java-cryeator) ![](https://img.shields.io/github/commit-activity/y/ghaithsassi/nvim-java-cryeator)
 - [nhattVim/java-project.nvim](https://github.com/nhattVim/java-project.nvim) ![](https://img.shields.io/github/stars/nhattVim/java-project.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/java-project.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/java-project.nvim)
-- [jstarts86/java-docs.nvim](https://github.com/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/stars/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/last-commit/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jstarts86/java-docs.nvim)
 - [idelice/nvim-jls](https://github.com/idelice/nvim-jls) ![](https://img.shields.io/github/stars/idelice/nvim-jls) ![](https://img.shields.io/github/last-commit/idelice/nvim-jls) ![](https://img.shields.io/github/commit-activity/y/idelice/nvim-jls)
 - [alessio-vivaldelli/java-creator-nvim](https://github.com/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/stars/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/last-commit/alessio-vivaldelli/java-creator-nvim) ![](https://img.shields.io/github/commit-activity/y/alessio-vivaldelli/java-creator-nvim)
 - [gzitei/java-utils.nvim](https://github.com/gzitei/java-utils.nvim) ![](https://img.shields.io/github/stars/gzitei/java-utils.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-utils.nvim)
@@ -54,6 +54,11 @@
 ### method
 
 - [jkeresman01/java-method-search.nvim](https://github.com/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/stars/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/last-commit/jkeresman01/java-method-search.nvim) ![](https://img.shields.io/github/commit-activity/y/jkeresman01/java-method-search.nvim)
+
+### javadoc
+
+- [jstarts86/java-docs.nvim](https://github.com/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/stars/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/last-commit/jstarts86/java-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/jstarts86/java-docs.nvim)
+- [nick22985/ijdocs.nvim](https://github.com/nick22985/ijdocs.nvim) ![](https://img.shields.io/github/stars/nick22985/ijdocs.nvim) ![](https://img.shields.io/github/last-commit/nick22985/ijdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/nick22985/ijdocs.nvim)
 
 ### Debugger
 
@@ -126,7 +131,6 @@
 - [inkpark/nvim-mybatis](https://github.com/inkpark/nvim-mybatis) ![](https://img.shields.io/github/stars/inkpark/nvim-mybatis) ![](https://img.shields.io/github/last-commit/inkpark/nvim-mybatis) ![](https://img.shields.io/github/commit-activity/y/inkpark/nvim-mybatis)
 
 ### JBoss
-
 
 ### Tomcat
 

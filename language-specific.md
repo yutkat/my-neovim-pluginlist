@@ -1048,6 +1048,7 @@
 ### Codeforces
 
 - [khushimitr/lazycf.nvim](https://github.com/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/stars/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/last-commit/khushimitr/lazycf.nvim) ![](https://img.shields.io/github/commit-activity/y/khushimitr/lazycf.nvim)
+- [didenamine/codeforcesparser.nvim](https://github.com/didenamine/codeforcesparser.nvim) ![](https://img.shields.io/github/stars/didenamine/codeforcesparser.nvim) ![](https://img.shields.io/github/last-commit/didenamine/codeforcesparser.nvim) ![](https://img.shields.io/github/commit-activity/y/didenamine/codeforcesparser.nvim)
 
 ### Project Euler
 
