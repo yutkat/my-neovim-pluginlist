@@ -245,6 +245,7 @@
 - [andyp1xe1/eden.nvim](https://github.com/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/stars/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/last-commit/andyp1xe1/eden.nvim) ![](https://img.shields.io/github/commit-activity/y/andyp1xe1/eden.nvim)
 - [pompos02/go-live-markdown.nvim](https://github.com/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/stars/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/last-commit/pompos02/go-live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/pompos02/go-live-markdown.nvim)
 - [corey-fu/markdown-preview-gfm.nvim](https://github.com/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/stars/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/last-commit/corey-fu/markdown-preview-gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/corey-fu/markdown-preview-gfm.nvim)
+- [okm321/mo.nvim](https://github.com/okm321/mo.nvim) ![](https://img.shields.io/github/stars/okm321/mo.nvim) ![](https://img.shields.io/github/last-commit/okm321/mo.nvim) ![](https://img.shields.io/github/commit-activity/y/okm321/mo.nvim)
 
 ##### Glow
 
