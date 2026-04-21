@@ -34,6 +34,7 @@
 - [andrewwillette/dictionary.nvim](https://github.com/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/stars/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/dictionary.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/dictionary.nvim)
 - [andy12241025/mdict.nvim](https://github.com/andy12241025/mdict.nvim) ![](https://img.shields.io/github/stars/andy12241025/mdict.nvim) ![](https://img.shields.io/github/last-commit/andy12241025/mdict.nvim) ![](https://img.shields.io/github/commit-activity/y/andy12241025/mdict.nvim)
 - [mtamc/rikai.nvim](https://github.com/mtamc/rikai.nvim) ![](https://img.shields.io/github/stars/mtamc/rikai.nvim) ![](https://img.shields.io/github/last-commit/mtamc/rikai.nvim) ![](https://img.shields.io/github/commit-activity/y/mtamc/rikai.nvim)
+- [Imngzx/jisho.nvim](https://github.com/Imngzx/jisho.nvim) ![](https://img.shields.io/github/stars/Imngzx/jisho.nvim) ![](https://img.shields.io/github/last-commit/Imngzx/jisho.nvim) ![](https://img.shields.io/github/commit-activity/y/Imngzx/jisho.nvim)
 
 ## Pronunce
 

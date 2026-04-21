@@ -902,6 +902,7 @@
 ### package import
 ### rename
 ### method
+### javadoc
 ### Debugger
 #### Stacktrace
 ### Serial Version
@@ -2137,6 +2138,7 @@
 ### Remote Development
 ### Devcontainer
 ### Collaborative Editing
+### .vscode
 ### IDE feature
 
 # web-browser.md

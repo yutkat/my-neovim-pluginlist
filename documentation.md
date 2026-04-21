@@ -460,6 +460,7 @@
 - [boborbt/marp-dev-preview.nvim](https://github.com/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/stars/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/last-commit/boborbt/marp-dev-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/boborbt/marp-dev-preview.nvim)
 - [joalon/mdslides.nvim](https://github.com/joalon/mdslides.nvim) ![](https://img.shields.io/github/stars/joalon/mdslides.nvim) ![](https://img.shields.io/github/last-commit/joalon/mdslides.nvim) ![](https://img.shields.io/github/commit-activity/y/joalon/mdslides.nvim)
 - [kbryy/marp-preview.nvim](https://github.com/kbryy/marp-preview.nvim) ![](https://img.shields.io/github/stars/kbryy/marp-preview.nvim) ![](https://img.shields.io/github/last-commit/kbryy/marp-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/kbryy/marp-preview.nvim)
+- [franzhuang/sync-marp.nvim](https://github.com/franzhuang/sync-marp.nvim) ![](https://img.shields.io/github/stars/franzhuang/sync-marp.nvim) ![](https://img.shields.io/github/last-commit/franzhuang/sync-marp.nvim) ![](https://img.shields.io/github/commit-activity/y/franzhuang/sync-marp.nvim)
 
 ### PlantUML
 
