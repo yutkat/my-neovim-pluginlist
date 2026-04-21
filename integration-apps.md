@@ -438,6 +438,7 @@
 - [hariprasadr1hp/dbt.nvim](https://github.com/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/stars/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/last-commit/hariprasadr1hp/dbt.nvim) ![](https://img.shields.io/github/commit-activity/y/hariprasadr1hp/dbt.nvim)
 - [edmondop/dbt-lsp.nvim](https://github.com/edmondop/dbt-lsp.nvim) ![](https://img.shields.io/github/stars/edmondop/dbt-lsp.nvim) ![](https://img.shields.io/github/last-commit/edmondop/dbt-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/edmondop/dbt-lsp.nvim)
 - [hashPhoeNiX/dbt-power.nvim](https://github.com/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/stars/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/last-commit/hashPhoeNiX/dbt-power.nvim) ![](https://img.shields.io/github/commit-activity/y/hashPhoeNiX/dbt-power.nvim)
+- [emilioJUA23/nvim-dbt](https://github.com/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/stars/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/last-commit/emilioJUA23/nvim-dbt) ![](https://img.shields.io/github/commit-activity/y/emilioJUA23/nvim-dbt)
 
 #### sdfcli
 
