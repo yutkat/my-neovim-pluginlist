@@ -295,6 +295,7 @@
 - [lukaszmoskwa/dottest.nvim](https://github.com/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/stars/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/last-commit/lukaszmoskwa/dottest.nvim) ![](https://img.shields.io/github/commit-activity/y/lukaszmoskwa/dottest.nvim)
 - [andres-m-rodriguez/csharp-toolkit.nvim](https://github.com/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/stars/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/last-commit/andres-m-rodriguez/csharp-toolkit.nvim) ![](https://img.shields.io/github/commit-activity/y/andres-m-rodriguez/csharp-toolkit.nvim)
 - [xunafay/dotnet-cartographer.nvim](https://github.com/xunafay/dotnet-cartographer.nvim) ![](https://img.shields.io/github/stars/xunafay/dotnet-cartographer.nvim) ![](https://img.shields.io/github/last-commit/xunafay/dotnet-cartographer.nvim) ![](https://img.shields.io/github/commit-activity/y/xunafay/dotnet-cartographer.nvim)
+- [Orbit-Lua/dotnet-cli.nvim](https://github.com/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/stars/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/last-commit/Orbit-Lua/dotnet-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Orbit-Lua/dotnet-cli.nvim)
 
 ##### ASP.NET
 

@@ -37,6 +37,7 @@
 - [lofic/dummyvisincr.nvim](https://github.com/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/stars/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/last-commit/lofic/dummyvisincr.nvim) ![](https://img.shields.io/github/commit-activity/y/lofic/dummyvisincr.nvim)
 - [gh-liu/nvim-mobius](https://github.com/gh-liu/nvim-mobius) ![](https://img.shields.io/github/stars/gh-liu/nvim-mobius) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-mobius) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-mobius)
 - [TeleVoyant/smart-increment.nvim](https://github.com/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/stars/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/last-commit/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/commit-activity/y/TeleVoyant/smart-increment.nvim)
+- [audiobird/nvim-skipinc](https://github.com/audiobird/nvim-skipinc) ![](https://img.shields.io/github/stars/audiobird/nvim-skipinc) ![](https://img.shields.io/github/last-commit/audiobird/nvim-skipinc) ![](https://img.shields.io/github/commit-activity/y/audiobird/nvim-skipinc)
 
 ### Convert Case
 

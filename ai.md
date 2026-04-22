@@ -489,6 +489,7 @@
 - [elmomk/cc-watcher.nvim](https://github.com/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/stars/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/last-commit/elmomk/cc-watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/elmomk/cc-watcher.nvim)
 - [idossha/lazyclaude.nvim](https://github.com/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/stars/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/last-commit/idossha/lazyclaude.nvim) ![](https://img.shields.io/github/commit-activity/y/idossha/lazyclaude.nvim)
 - [robcmills/cc.nvim](https://github.com/robcmills/cc.nvim) ![](https://img.shields.io/github/stars/robcmills/cc.nvim) ![](https://img.shields.io/github/last-commit/robcmills/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/cc.nvim)
+- [Vasilis-Narain/tidal.nvim](https://github.com/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/stars/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/last-commit/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/Vasilis-Narain/tidal.nvim)
 
 ### Amazon Q
 
@@ -774,6 +775,7 @@
 - [vuongpd95/pie.nvim](https://github.com/vuongpd95/pie.nvim) ![](https://img.shields.io/github/stars/vuongpd95/pie.nvim) ![](https://img.shields.io/github/last-commit/vuongpd95/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/vuongpd95/pie.nvim)
 - [statiolake/agent-assisted.nvim](https://github.com/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/stars/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/last-commit/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/agent-assisted.nvim)
 - [arjunmahishi/agent-bridge.nvim](https://github.com/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/agent-bridge.nvim)
+- [e-cal/tmux-agent-bridge.nvim](https://github.com/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/stars/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/tmux-agent-bridge.nvim)
 
 ### AGENTS.md
 
@@ -938,6 +940,8 @@
 - [ssundarraj/local-review.nvim](https://github.com/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/stars/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/last-commit/ssundarraj/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/ssundarraj/local-review.nvim)
 - [smnatale/coderabbit.nvim](https://github.com/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/stars/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/last-commit/smnatale/coderabbit.nvim) ![](https://img.shields.io/github/commit-activity/y/smnatale/coderabbit.nvim)
 - [GabrielArpini/nvim-watcher](https://github.com/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/stars/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/last-commit/GabrielArpini/nvim-watcher) ![](https://img.shields.io/github/commit-activity/y/GabrielArpini/nvim-watcher)
+- [abrose/wishes.nvim](https://github.com/abrose/wishes.nvim) ![](https://img.shields.io/github/stars/abrose/wishes.nvim) ![](https://img.shields.io/github/last-commit/abrose/wishes.nvim) ![](https://img.shields.io/github/commit-activity/y/abrose/wishes.nvim)
+- [yikesboy/leash.nvim](https://github.com/yikesboy/leash.nvim) ![](https://img.shields.io/github/stars/yikesboy/leash.nvim) ![](https://img.shields.io/github/last-commit/yikesboy/leash.nvim) ![](https://img.shields.io/github/commit-activity/y/yikesboy/leash.nvim)
 - [joelazar/agent-review.nvim](https://github.com/joelazar/agent-review.nvim) ![](https://img.shields.io/github/stars/joelazar/agent-review.nvim) ![](https://img.shields.io/github/last-commit/joelazar/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/joelazar/agent-review.nvim)
 
 ## Documentation

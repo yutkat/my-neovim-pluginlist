@@ -337,6 +337,7 @@
 - [Zeioth/garbage-day.nvim](https://github.com/Zeioth/garbage-day.nvim) ![](https://img.shields.io/github/stars/Zeioth/garbage-day.nvim) ![](https://img.shields.io/github/last-commit/Zeioth/garbage-day.nvim) ![](https://img.shields.io/github/commit-activity/y/Zeioth/garbage-day.nvim)
 - [d-vim/lsp-feedback.nvim](https://github.com/d-vim/lsp-feedback.nvim) ![](https://img.shields.io/github/stars/d-vim/lsp-feedback.nvim) ![](https://img.shields.io/github/last-commit/d-vim/lsp-feedback.nvim) ![](https://img.shields.io/github/commit-activity/y/d-vim/lsp-feedback.nvim)
 - [dylan-chong/lsp-dont-suck-all-my-ram-forever.nvim](https://github.com/dylan-chong/lsp-dont-suck-all-my-ram-forever.nvim) ![](https://img.shields.io/github/stars/dylan-chong/lsp-dont-suck-all-my-ram-forever.nvim) ![](https://img.shields.io/github/last-commit/dylan-chong/lsp-dont-suck-all-my-ram-forever.nvim) ![](https://img.shields.io/github/commit-activity/y/dylan-chong/lsp-dont-suck-all-my-ram-forever.nvim)
+- [Akazukin-Team/lsp-suspend.nvim](https://github.com/Akazukin-Team/lsp-suspend.nvim) ![](https://img.shields.io/github/stars/Akazukin-Team/lsp-suspend.nvim) ![](https://img.shields.io/github/last-commit/Akazukin-Team/lsp-suspend.nvim) ![](https://img.shields.io/github/commit-activity/y/Akazukin-Team/lsp-suspend.nvim)
 
 ### LSP Log
 

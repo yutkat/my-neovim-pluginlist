@@ -245,6 +245,7 @@
 
 - [norcalli/ui.nvim](https://github.com/norcalli/ui.nvim) ![](https://img.shields.io/github/stars/norcalli/ui.nvim) ![](https://img.shields.io/github/last-commit/norcalli/ui.nvim) ![](https://img.shields.io/github/commit-activity/y/norcalli/ui.nvim)
 - [disrupted/frizbee.nvim](https://github.com/disrupted/frizbee.nvim) ![](https://img.shields.io/github/stars/disrupted/frizbee.nvim) ![](https://img.shields.io/github/last-commit/disrupted/frizbee.nvim) ![](https://img.shields.io/github/commit-activity/y/disrupted/frizbee.nvim)
+- [Orbit-Lua/comet.nvim](https://github.com/Orbit-Lua/comet.nvim) ![](https://img.shields.io/github/stars/Orbit-Lua/comet.nvim) ![](https://img.shields.io/github/last-commit/Orbit-Lua/comet.nvim) ![](https://img.shields.io/github/commit-activity/y/Orbit-Lua/comet.nvim)
 
 ### Spinner
 
