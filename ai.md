@@ -602,7 +602,6 @@
 
 ### Gen42 AI
 
-
 ### FastGPT Kagi
 
 - [ibutra/kagi.nvim](https://github.com/ibutra/kagi.nvim) ![](https://img.shields.io/github/stars/ibutra/kagi.nvim) ![](https://img.shields.io/github/last-commit/ibutra/kagi.nvim) ![](https://img.shields.io/github/commit-activity/y/ibutra/kagi.nvim)
@@ -1043,6 +1042,7 @@
 - [arismoko/buddy.nvim](https://github.com/arismoko/buddy.nvim) ![](https://img.shields.io/github/stars/arismoko/buddy.nvim) ![](https://img.shields.io/github/last-commit/arismoko/buddy.nvim) ![](https://img.shields.io/github/commit-activity/y/arismoko/buddy.nvim)
 - [marcelom97/claude-transport.nvim](https://github.com/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-transport.nvim)
 - [andrew-d-moore/stationeers-mcp.nvim](https://github.com/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/stars/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/last-commit/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/andrew-d-moore/stationeers-mcp.nvim)
+- [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-mcp)
 
 ### MCP SDK
 
