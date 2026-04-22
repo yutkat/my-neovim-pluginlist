@@ -165,6 +165,7 @@
 - [sektant1/executioner.nvim](https://github.com/sektant1/executioner.nvim) ![](https://img.shields.io/github/stars/sektant1/executioner.nvim) ![](https://img.shields.io/github/last-commit/sektant1/executioner.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/executioner.nvim)
 - [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
 - [agokule/taskrunner.nvim](https://github.com/agokule/taskrunner.nvim) ![](https://img.shields.io/github/stars/agokule/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/agokule/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/taskrunner.nvim)
+- [shadowmkj/qompile.nvim](https://github.com/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/stars/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/last-commit/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/qompile.nvim)
 
 #### Shell
 

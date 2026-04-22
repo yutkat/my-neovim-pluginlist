@@ -63,6 +63,7 @@
 - [fm39hz/nvim-dap-godot-mono](https://github.com/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/stars/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/last-commit/fm39hz/nvim-dap-godot-mono) ![](https://img.shields.io/github/commit-activity/y/fm39hz/nvim-dap-godot-mono)
 - [SalOrak/godot.nvim](https://github.com/SalOrak/godot.nvim) ![](https://img.shields.io/github/stars/SalOrak/godot.nvim) ![](https://img.shields.io/github/last-commit/SalOrak/godot.nvim) ![](https://img.shields.io/github/commit-activity/y/SalOrak/godot.nvim)
 - [castawaypirate/godot-remote.nvim](https://github.com/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/stars/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/last-commit/castawaypirate/godot-remote.nvim) ![](https://img.shields.io/github/commit-activity/y/castawaypirate/godot-remote.nvim)
+- [CultOfTheBlob/godot-scenetree.nvim](https://github.com/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/stars/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/last-commit/CultOfTheBlob/godot-scenetree.nvim) ![](https://img.shields.io/github/commit-activity/y/CultOfTheBlob/godot-scenetree.nvim)
 
 ### Roblox studio
 

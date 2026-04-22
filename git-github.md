@@ -495,6 +495,8 @@
 - [transonhy96/vibetree.nvim](https://github.com/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/stars/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/last-commit/transonhy96/vibetree.nvim) ![](https://img.shields.io/github/commit-activity/y/transonhy96/vibetree.nvim)
 - [malkoG/gtr.nvim](https://github.com/malkoG/gtr.nvim) ![](https://img.shields.io/github/stars/malkoG/gtr.nvim) ![](https://img.shields.io/github/last-commit/malkoG/gtr.nvim) ![](https://img.shields.io/github/commit-activity/y/malkoG/gtr.nvim)
 - [KulkarniKaustubh/ezstack.nvim](https://github.com/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/stars/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/last-commit/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/commit-activity/y/KulkarniKaustubh/ezstack.nvim)
+- [AsLogd/worktabs.nvim](https://github.com/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/stars/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/last-commit/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/commit-activity/y/AsLogd/worktabs.nvim)
+- [yongjohnlee80/worktree.nvim](https://github.com/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/worktree.nvim)
 
 ### submodule
 

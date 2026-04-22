@@ -2173,6 +2173,7 @@
 ### WhatsApp
 ### MantisBT
 ### Redmine
+### Asana
 ### Shortcut
 ### Jira
 ### Confluence

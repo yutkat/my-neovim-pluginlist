@@ -114,6 +114,7 @@
 ### index.js
 
 - [try-to-fly/create-index.nvim](https://github.com/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/stars/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/create-index.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/create-index.nvim)
+- [da-b1rmuda/autobarrel.nvim](https://github.com/da-b1rmuda/autobarrel.nvim) ![](https://img.shields.io/github/stars/da-b1rmuda/autobarrel.nvim) ![](https://img.shields.io/github/last-commit/da-b1rmuda/autobarrel.nvim) ![](https://img.shields.io/github/commit-activity/y/da-b1rmuda/autobarrel.nvim)
 
 ### Package
 

@@ -396,6 +396,8 @@
 - [jeryldev/obsidian-cli.nvim](https://github.com/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/stars/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/last-commit/jeryldev/obsidian-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeryldev/obsidian-cli.nvim)
 - [hidetoshing/obsidianus.nvim](https://github.com/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/stars/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/last-commit/hidetoshing/obsidianus.nvim) ![](https://img.shields.io/github/commit-activity/y/hidetoshing/obsidianus.nvim)
 - [simplycycling/obsidian-preview.nvim](https://github.com/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/stars/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/last-commit/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/simplycycling/obsidian-preview.nvim)
+- [kev-cao/kai-obsidian.nvim](https://github.com/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/stars/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/last-commit/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/kev-cao/kai-obsidian.nvim)
+- [lastranget/obsidian-tasks-slop.nvim](https://github.com/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/stars/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/last-commit/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/commit-activity/y/lastranget/obsidian-tasks-slop.nvim)
 
 - [Aevox121/obsidian-link.nvim](https://github.com/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/stars/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/last-commit/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/commit-activity/y/Aevox121/obsidian-link.nvim)
 
@@ -425,6 +427,7 @@
 
 - [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
 - [onlyati/hugo.nvim](https://github.com/onlyati/hugo.nvim) ![](https://img.shields.io/github/stars/onlyati/hugo.nvim) ![](https://img.shields.io/github/last-commit/onlyati/hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/onlyati/hugo.nvim)
+- [TomSchimana/hugo-cms.nvim](https://github.com/TomSchimana/hugo-cms.nvim) ![](https://img.shields.io/github/stars/TomSchimana/hugo-cms.nvim) ![](https://img.shields.io/github/last-commit/TomSchimana/hugo-cms.nvim) ![](https://img.shields.io/github/commit-activity/y/TomSchimana/hugo-cms.nvim)
 
 #### GitHub Pages
 

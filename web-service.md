@@ -216,6 +216,10 @@
 - [sgross-emlix/angerona.nvim](https://github.com/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/stars/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/last-commit/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/commit-activity/y/sgross-emlix/angerona.nvim)
 - [fuyu510/redmine_tag_opener.nvim](https://github.com/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/stars/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/redmine_tag_opener.nvim)
 
+### Asana
+
+- [neyugnaoh/asana.nvim](https://github.com/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/stars/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/last-commit/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/commit-activity/y/neyugnaoh/asana.nvim)
+
 ### Shortcut
 
 - [semperos/shortcut-api.nvim](https://github.com/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/stars/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/last-commit/semperos/shortcut-api.nvim) ![](https://img.shields.io/github/commit-activity/y/semperos/shortcut-api.nvim)

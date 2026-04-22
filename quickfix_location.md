@@ -49,6 +49,7 @@
 - [phanen/hlq.nvim](https://github.com/phanen/hlq.nvim) ![](https://img.shields.io/github/stars/phanen/hlq.nvim) ![](https://img.shields.io/github/last-commit/phanen/hlq.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/hlq.nvim)
 - [jbuck95/ltqf.nvim](https://github.com/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/stars/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/ltqf.nvim)
 - [CodesWithRobi/qfsearch.nvim](https://github.com/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/qfsearch.nvim)
+- [pirey/fqf.nvim](https://github.com/pirey/fqf.nvim) ![](https://img.shields.io/github/stars/pirey/fqf.nvim) ![](https://img.shields.io/github/last-commit/pirey/fqf.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/fqf.nvim)
 
 ### Output the list to another format
 
