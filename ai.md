@@ -942,6 +942,7 @@
 - [abrose/wishes.nvim](https://github.com/abrose/wishes.nvim) ![](https://img.shields.io/github/stars/abrose/wishes.nvim) ![](https://img.shields.io/github/last-commit/abrose/wishes.nvim) ![](https://img.shields.io/github/commit-activity/y/abrose/wishes.nvim)
 - [yikesboy/leash.nvim](https://github.com/yikesboy/leash.nvim) ![](https://img.shields.io/github/stars/yikesboy/leash.nvim) ![](https://img.shields.io/github/last-commit/yikesboy/leash.nvim) ![](https://img.shields.io/github/commit-activity/y/yikesboy/leash.nvim)
 - [joelazar/agent-review.nvim](https://github.com/joelazar/agent-review.nvim) ![](https://img.shields.io/github/stars/joelazar/agent-review.nvim) ![](https://img.shields.io/github/last-commit/joelazar/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/joelazar/agent-review.nvim)
+- [amchp/nvim-code-reviewer-helper](https://github.com/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/stars/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/last-commit/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/commit-activity/y/amchp/nvim-code-reviewer-helper)
 
 ## Documentation
 

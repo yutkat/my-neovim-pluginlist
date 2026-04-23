@@ -541,6 +541,7 @@
 - [yo-reign/nvim-flashcards](https://github.com/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/stars/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/last-commit/yo-reign/nvim-flashcards) ![](https://img.shields.io/github/commit-activity/y/yo-reign/nvim-flashcards)
 - [Eckii24/recall.nvim](https://github.com/Eckii24/recall.nvim) ![](https://img.shields.io/github/stars/Eckii24/recall.nvim) ![](https://img.shields.io/github/last-commit/Eckii24/recall.nvim) ![](https://img.shields.io/github/commit-activity/y/Eckii24/recall.nvim)
 - [Yeijon/mnemonic.nvim](https://github.com/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/stars/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/last-commit/Yeijon/mnemonic.nvim) ![](https://img.shields.io/github/commit-activity/y/Yeijon/mnemonic.nvim)
+- [dautroc/nvim-flashcard](https://github.com/dautroc/nvim-flashcard) ![](https://img.shields.io/github/stars/dautroc/nvim-flashcard) ![](https://img.shields.io/github/last-commit/dautroc/nvim-flashcard) ![](https://img.shields.io/github/commit-activity/y/dautroc/nvim-flashcard)
 
 ### Clickup
 

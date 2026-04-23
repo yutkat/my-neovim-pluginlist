@@ -43,6 +43,7 @@
 - [wsdjeg/treesitter.nvim](https://github.com/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/stars/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/treesitter.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/treesitter.nvim)
 - [reybits/ts-forge.nvim](https://github.com/reybits/ts-forge.nvim) ![](https://img.shields.io/github/stars/reybits/ts-forge.nvim) ![](https://img.shields.io/github/last-commit/reybits/ts-forge.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/ts-forge.nvim)
 - [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/neovim-treesitter/nvim-treesitter)
+- [FeudeyTF/dreamcode.nvim](https://github.com/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/stars/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/last-commit/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/commit-activity/y/FeudeyTF/dreamcode.nvim)
 
 ## Code Action
 
@@ -51,3 +52,4 @@
 ## Info
 
 - [roycrippen4/telescope-treesitter-info.nvim](https://github.com/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/stars/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/last-commit/roycrippen4/telescope-treesitter-info.nvim) ![](https://img.shields.io/github/commit-activity/y/roycrippen4/telescope-treesitter-info.nvim)
+- [xvzc/bufsitter.nvim](https://github.com/xvzc/bufsitter.nvim) ![](https://img.shields.io/github/stars/xvzc/bufsitter.nvim) ![](https://img.shields.io/github/last-commit/xvzc/bufsitter.nvim) ![](https://img.shields.io/github/commit-activity/y/xvzc/bufsitter.nvim)

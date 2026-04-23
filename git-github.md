@@ -690,6 +690,7 @@
 - [max-farver/git-review.nvim](https://github.com/max-farver/git-review.nvim) ![](https://img.shields.io/github/stars/max-farver/git-review.nvim) ![](https://img.shields.io/github/last-commit/max-farver/git-review.nvim) ![](https://img.shields.io/github/commit-activity/y/max-farver/git-review.nvim)
 - [justinlazarus/plz.nvim](https://github.com/justinlazarus/plz.nvim) ![](https://img.shields.io/github/stars/justinlazarus/plz.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/plz.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/plz.nvim)
 - [shankur/zpr.nvim](https://github.com/shankur/zpr.nvim) ![](https://img.shields.io/github/stars/shankur/zpr.nvim) ![](https://img.shields.io/github/last-commit/shankur/zpr.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/zpr.nvim)
+- [shankur/snowdash.nvim](https://github.com/shankur/snowdash.nvim) ![](https://img.shields.io/github/stars/shankur/snowdash.nvim) ![](https://img.shields.io/github/last-commit/shankur/snowdash.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/snowdash.nvim)
 
 #### Pull Request Comment
 
@@ -806,6 +807,7 @@
 - [JonasGavenavicius/codeowners.nvim](https://github.com/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/stars/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/last-commit/JonasGavenavicius/codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/JonasGavenavicius/codeowners.nvim)
 - [comatory/gh-co.nvim](https://github.com/comatory/gh-co.nvim) ![](https://img.shields.io/github/stars/comatory/gh-co.nvim) ![](https://img.shields.io/github/last-commit/comatory/gh-co.nvim) ![](https://img.shields.io/github/commit-activity/y/comatory/gh-co.nvim)
 - [vzsky/gitlab-codeowners.nvim](https://github.com/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/stars/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/last-commit/vzsky/gitlab-codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/vzsky/gitlab-codeowners.nvim)
+- [nerdomaly/lualine-codeowners.nvim](https://github.com/nerdomaly/lualine-codeowners.nvim) ![](https://img.shields.io/github/stars/nerdomaly/lualine-codeowners.nvim) ![](https://img.shields.io/github/last-commit/nerdomaly/lualine-codeowners.nvim) ![](https://img.shields.io/github/commit-activity/y/nerdomaly/lualine-codeowners.nvim)
 
 ## GitLab
 
@@ -824,6 +826,7 @@
 
 - [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
 - [blotero/gitlab-pipeline.nvim](https://github.com/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/stars/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/last-commit/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/blotero/gitlab-pipeline.nvim)
+- [mirai-toto/glab.nvim](https://github.com/mirai-toto/glab.nvim) ![](https://img.shields.io/github/stars/mirai-toto/glab.nvim) ![](https://img.shields.io/github/last-commit/mirai-toto/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/mirai-toto/glab.nvim)
 
 ### GitLab Kanban
 
