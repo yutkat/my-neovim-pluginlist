@@ -394,6 +394,7 @@
 #### Crystal
 
 - [lost22git/crystal.nvim](https://github.com/lost22git/crystal.nvim) ![](https://img.shields.io/github/stars/lost22git/crystal.nvim) ![](https://img.shields.io/github/last-commit/lost22git/crystal.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/crystal.nvim)
+- [LolsonX/crystal.nvim](https://github.com/LolsonX/crystal.nvim) ![](https://img.shields.io/github/stars/LolsonX/crystal.nvim) ![](https://img.shields.io/github/last-commit/LolsonX/crystal.nvim) ![](https://img.shields.io/github/commit-activity/y/LolsonX/crystal.nvim)
 
 #### Erlang
 

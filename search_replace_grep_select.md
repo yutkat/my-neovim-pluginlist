@@ -172,6 +172,7 @@
 - [Jason-Bai/search-replace.nvim](https://github.com/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/stars/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/last-commit/Jason-Bai/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/Jason-Bai/search-replace.nvim)
 - [mosheavni/search-replace.nvim](https://github.com/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/stars/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/last-commit/mosheavni/search-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/mosheavni/search-replace.nvim)
 - [dantevazquez/one-replace.nvim](https://github.com/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/stars/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/last-commit/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/dantevazquez/one-replace.nvim)
+- [gagath/nvim-replayce](https://github.com/gagath/nvim-replayce) ![](https://img.shields.io/github/stars/gagath/nvim-replayce) ![](https://img.shields.io/github/last-commit/gagath/nvim-replayce) ![](https://img.shields.io/github/commit-activity/y/gagath/nvim-replayce)
 
 ### Rename
 
