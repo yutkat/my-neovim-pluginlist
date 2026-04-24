@@ -108,7 +108,6 @@
 - [Rits1272/riff.nvim](https://github.com/Rits1272/riff.nvim) ![](https://img.shields.io/github/stars/Rits1272/riff.nvim) ![](https://img.shields.io/github/last-commit/Rits1272/riff.nvim) ![](https://img.shields.io/github/commit-activity/y/Rits1272/riff.nvim)
 - [shardulvs/ytmusic.nvim](https://github.com/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/stars/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/shardulvs/ytmusic.nvim)
 - [sanjay-np/nvim-yt-control](https://github.com/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/stars/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/last-commit/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/commit-activity/y/sanjay-np/nvim-yt-control)
-- [tilaktilak/nvim-yui](https://github.com/tilaktilak/nvim-yui) ![](https://img.shields.io/github/stars/tilaktilak/nvim-yui) ![](https://img.shields.io/github/last-commit/tilaktilak/nvim-yui) ![](https://img.shields.io/github/commit-activity/y/tilaktilak/nvim-yui)
 - [griffinaddison/ytmusic.nvim](https://github.com/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/stars/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/griffinaddison/ytmusic.nvim)
 
 ### Tidal
