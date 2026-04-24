@@ -51,7 +51,6 @@
 - [wsdjeg/nvim-plug](https://github.com/wsdjeg/nvim-plug) ![](https://img.shields.io/github/stars/wsdjeg/nvim-plug) ![](https://img.shields.io/github/last-commit/wsdjeg/nvim-plug) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/nvim-plug)
 - [TheOneWithTheWrench/wrench.nvim](https://github.com/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/stars/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/last-commit/TheOneWithTheWrench/wrench.nvim) ![](https://img.shields.io/github/commit-activity/y/TheOneWithTheWrench/wrench.nvim)
 - [yaeju1205/nvim-plugin-manager](https://github.com/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/stars/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/last-commit/yaeju1205/nvim-plugin-manager) ![](https://img.shields.io/github/commit-activity/y/yaeju1205/nvim-plugin-manager)
-- [ihave17bucks/garrys.nvim](https://github.com/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/stars/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/last-commit/ihave17bucks/garrys.nvim) ![](https://img.shields.io/github/commit-activity/y/ihave17bucks/garrys.nvim)
 - [yukimemi/rvpm.nvim](https://github.com/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/stars/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/rvpm.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/rvpm.nvim)
 
 ### Use builtin package feature
