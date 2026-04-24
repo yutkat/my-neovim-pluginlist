@@ -491,6 +491,7 @@
 - [The-Ox-22/beautiful-mermaid.nvim](https://github.com/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/stars/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/last-commit/The-Ox-22/beautiful-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/The-Ox-22/beautiful-mermaid.nvim)
 - [TakuSemba/mermaid-ascii.nvim](https://github.com/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/stars/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/last-commit/TakuSemba/mermaid-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/TakuSemba/mermaid-ascii.nvim)
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) ![](https://img.shields.io/github/stars/ktrysmt/memd.nvim) ![](https://img.shields.io/github/last-commit/ktrysmt/memd.nvim) ![](https://img.shields.io/github/commit-activity/y/ktrysmt/memd.nvim)
+- [RokPre/mermaid.nvim](https://github.com/RokPre/mermaid.nvim) ![](https://img.shields.io/github/stars/RokPre/mermaid.nvim) ![](https://img.shields.io/github/last-commit/RokPre/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/RokPre/mermaid.nvim)
 
 ### pikchr
 

@@ -367,6 +367,7 @@
 - [FaisonZ/bring-a-map.nvim](https://github.com/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/stars/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/last-commit/FaisonZ/bring-a-map.nvim) ![](https://img.shields.io/github/commit-activity/y/FaisonZ/bring-a-map.nvim)
 - [shorya-1012/buffer_walker.nvim](https://github.com/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/stars/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/last-commit/shorya-1012/buffer_walker.nvim) ![](https://img.shields.io/github/commit-activity/y/shorya-1012/buffer_walker.nvim)
 - [johnpmitsch/buf-jump.nvim](https://github.com/johnpmitsch/buf-jump.nvim) ![](https://img.shields.io/github/stars/johnpmitsch/buf-jump.nvim) ![](https://img.shields.io/github/last-commit/johnpmitsch/buf-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpmitsch/buf-jump.nvim)
+- [ef3d0c3e/places.nvim](https://github.com/ef3d0c3e/places.nvim) ![](https://img.shields.io/github/stars/ef3d0c3e/places.nvim) ![](https://img.shields.io/github/last-commit/ef3d0c3e/places.nvim) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/places.nvim)
 
 ### refresh
 

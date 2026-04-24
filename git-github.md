@@ -176,6 +176,7 @@
 - [yuki-yano/snacks-smart-git-status.nvim](https://github.com/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/stars/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/snacks-smart-git-status.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/snacks-smart-git-status.nvim)
 - [smiggiddy/git-oil.nvim](https://github.com/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/stars/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/last-commit/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/smiggiddy/git-oil.nvim)
 - [nabetama/lean-tig.nvim](https://github.com/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/stars/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/last-commit/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/commit-activity/y/nabetama/lean-tig.nvim)
+- [BMilliet/git_status.nvim](https://github.com/BMilliet/git_status.nvim) ![](https://img.shields.io/github/stars/BMilliet/git_status.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/git_status.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/git_status.nvim)
 
 ### git add
 
@@ -253,6 +254,7 @@
 - [cjvnjde/ai-commit.nvim](https://github.com/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/stars/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/last-commit/cjvnjde/ai-commit.nvim) ![](https://img.shields.io/github/commit-activity/y/cjvnjde/ai-commit.nvim)
 - [martinhjartmyr/generate-commit-message.nvim](https://github.com/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/stars/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/last-commit/martinhjartmyr/generate-commit-message.nvim) ![](https://img.shields.io/github/commit-activity/y/martinhjartmyr/generate-commit-message.nvim)
 - [nxhung2304/commit.nvim](https://github.com/nxhung2304/commit.nvim) ![](https://img.shields.io/github/stars/nxhung2304/commit.nvim) ![](https://img.shields.io/github/last-commit/nxhung2304/commit.nvim) ![](https://img.shields.io/github/commit-activity/y/nxhung2304/commit.nvim)
+- [lululau/neogit-fire.nvim](https://github.com/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/stars/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/last-commit/lululau/neogit-fire.nvim) ![](https://img.shields.io/github/commit-activity/y/lululau/neogit-fire.nvim)
 
 ### git fetch
 
@@ -330,6 +332,7 @@
 - [LionyxML/gitlineage.nvim](https://github.com/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/stars/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/last-commit/LionyxML/gitlineage.nvim) ![](https://img.shields.io/github/commit-activity/y/LionyxML/gitlineage.nvim)
 - [JoshuaDueck/hotline.nvim](https://github.com/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/hotline.nvim)
 - [Daiki48/gbv.nvim](https://github.com/Daiki48/gbv.nvim) ![](https://img.shields.io/github/stars/Daiki48/gbv.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/gbv.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/gbv.nvim)
+- [BMilliet/lore.nvim](https://github.com/BMilliet/lore.nvim) ![](https://img.shields.io/github/stars/BMilliet/lore.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/lore.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/lore.nvim)
 
 #### preview contents
 
@@ -384,6 +387,7 @@
 - [alex35mil/delta.nvim](https://github.com/alex35mil/delta.nvim) ![](https://img.shields.io/github/stars/alex35mil/delta.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/delta.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/delta.nvim)
 - [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/diffview.nvim)
 - [elanmed/git-diff.nvim](https://github.com/elanmed/git-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diff.nvim)
+- [goropikari/gitdiff.nvim](https://github.com/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/stars/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/gitdiff.nvim)
 
 #### image diff
 
@@ -567,6 +571,7 @@
 - [l3d00m/jj-signs.nvim](https://github.com/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/stars/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/last-commit/l3d00m/jj-signs.nvim) ![](https://img.shields.io/github/commit-activity/y/l3d00m/jj-signs.nvim)
 - [tilupe/submission.nvim](https://github.com/tilupe/submission.nvim) ![](https://img.shields.io/github/stars/tilupe/submission.nvim) ![](https://img.shields.io/github/last-commit/tilupe/submission.nvim) ![](https://img.shields.io/github/commit-activity/y/tilupe/submission.nvim)
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
+- [Skyppex/kanji.nvim](https://github.com/Skyppex/kanji.nvim) ![](https://img.shields.io/github/stars/Skyppex/kanji.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/kanji.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/kanji.nvim)
 
 #### diff
 
@@ -781,6 +786,7 @@
 - [melvi-l/housp.nvim](https://github.com/melvi-l/housp.nvim) ![](https://img.shields.io/github/stars/melvi-l/housp.nvim) ![](https://img.shields.io/github/last-commit/melvi-l/housp.nvim) ![](https://img.shields.io/github/commit-activity/y/melvi-l/housp.nvim)
 - [FlavioMili/gitlink.nvim](https://github.com/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/stars/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/last-commit/FlavioMili/gitlink.nvim) ![](https://img.shields.io/github/commit-activity/y/FlavioMili/gitlink.nvim)
 - [sh1Nome/yank-git-remote-url.nvim](https://github.com/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/stars/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/yank-git-remote-url.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/yank-git-remote-url.nvim)
+- [abackstrometsy/github-permalinks.nvim](https://github.com/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/stars/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/last-commit/abackstrometsy/github-permalinks.nvim) ![](https://img.shields.io/github/commit-activity/y/abackstrometsy/github-permalinks.nvim)
 
 ### Image
 

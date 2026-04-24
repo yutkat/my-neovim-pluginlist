@@ -129,6 +129,7 @@
 - [shateq/TmuxReparent.nvim](https://github.com/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/stars/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/last-commit/shateq/TmuxReparent.nvim) ![](https://img.shields.io/github/commit-activity/y/shateq/TmuxReparent.nvim)
 - [js/tmux-sendit.nvim](https://github.com/js/tmux-sendit.nvim) ![](https://img.shields.io/github/stars/js/tmux-sendit.nvim) ![](https://img.shields.io/github/last-commit/js/tmux-sendit.nvim) ![](https://img.shields.io/github/commit-activity/y/js/tmux-sendit.nvim)
 - [dwainm/tmux-commander.nvim](https://github.com/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/stars/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/last-commit/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/commit-activity/y/dwainm/tmux-commander.nvim)
+- [its-saanvi/sessionizer.nvim](https://github.com/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/stars/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/last-commit/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/its-saanvi/sessionizer.nvim)
 
 ##### tmux alternative
 

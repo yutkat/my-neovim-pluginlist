@@ -161,6 +161,7 @@
 - [oeshennix/nvim-ONNV-config.nvim](https://github.com/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/stars/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/last-commit/oeshennix/nvim-ONNV-config.nvim) ![](https://img.shields.io/github/commit-activity/y/oeshennix/nvim-ONNV-config.nvim)
 - [Thirantos/quick-actions.nvim](https://github.com/Thirantos/quick-actions.nvim) ![](https://img.shields.io/github/stars/Thirantos/quick-actions.nvim) ![](https://img.shields.io/github/last-commit/Thirantos/quick-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Thirantos/quick-actions.nvim)
 - [to268/repos.nvim](https://github.com/to268/repos.nvim) ![](https://img.shields.io/github/stars/to268/repos.nvim) ![](https://img.shields.io/github/last-commit/to268/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/to268/repos.nvim)
+- [taku25/vscode-workspace.nvim](https://github.com/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/stars/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/last-commit/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/vscode-workspace.nvim)
 
 ### Config switcher
 
