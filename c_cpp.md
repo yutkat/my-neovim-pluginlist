@@ -266,6 +266,8 @@
 - [kamoshi/disasm.nvim](https://github.com/kamoshi/disasm.nvim) ![](https://img.shields.io/github/stars/kamoshi/disasm.nvim) ![](https://img.shields.io/github/last-commit/kamoshi/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/kamoshi/disasm.nvim)
 - [ii14/neobolt.nvim](https://github.com/ii14/neobolt.nvim) ![](https://img.shields.io/github/stars/ii14/neobolt.nvim) ![](https://img.shields.io/github/last-commit/ii14/neobolt.nvim) ![](https://img.shields.io/github/commit-activity/y/ii14/neobolt.nvim)
 - [tcvdh/asm-context.nvim](https://github.com/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/stars/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/last-commit/tcvdh/asm-context.nvim) ![](https://img.shields.io/github/commit-activity/y/tcvdh/asm-context.nvim)
+- [dknight/nes.nvim](https://github.com/dknight/nes.nvim) ![](https://img.shields.io/github/stars/dknight/nes.nvim) ![](https://img.shields.io/github/last-commit/dknight/nes.nvim) ![](https://img.shields.io/github/commit-activity/y/dknight/nes.nvim)
+- [twhlynch/elk.nvim](https://github.com/twhlynch/elk.nvim) ![](https://img.shields.io/github/stars/twhlynch/elk.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/elk.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/elk.nvim)
 
 ## Linux kernel development
 

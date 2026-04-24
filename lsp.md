@@ -396,6 +396,7 @@
 - [rebelopsio/boundary.nvim](https://github.com/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/stars/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/last-commit/rebelopsio/boundary.nvim) ![](https://img.shields.io/github/commit-activity/y/rebelopsio/boundary.nvim)
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
 - [sindrip/fixpoint.nvim](https://github.com/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/stars/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/last-commit/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrip/fixpoint.nvim)
+- [phanen/ctags-ls.nvim](https://github.com/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/stars/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/last-commit/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ctags-ls.nvim)
 
 ## Pre-configuration
 

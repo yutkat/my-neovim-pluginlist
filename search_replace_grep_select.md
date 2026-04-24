@@ -138,6 +138,7 @@
 - [dtormoen/neural-open.nvim](https://github.com/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/stars/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/last-commit/dtormoen/neural-open.nvim) ![](https://img.shields.io/github/commit-activity/y/dtormoen/neural-open.nvim)
 - [Punity122333/snipe.nvim](https://github.com/Punity122333/snipe.nvim) ![](https://img.shields.io/github/stars/Punity122333/snipe.nvim) ![](https://img.shields.io/github/last-commit/Punity122333/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/Punity122333/snipe.nvim)
 - [sbradl/matching-file.nvim](https://github.com/sbradl/matching-file.nvim) ![](https://img.shields.io/github/stars/sbradl/matching-file.nvim) ![](https://img.shields.io/github/last-commit/sbradl/matching-file.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/matching-file.nvim)
+- [zitrocode/spot.nvim](https://github.com/zitrocode/spot.nvim) ![](https://img.shields.io/github/stars/zitrocode/spot.nvim) ![](https://img.shields.io/github/last-commit/zitrocode/spot.nvim) ![](https://img.shields.io/github/commit-activity/y/zitrocode/spot.nvim)
 
 ## Replace
 
@@ -178,6 +179,7 @@
 
 - [seasonalmatcha/symbol-renamer.nvim](https://github.com/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/stars/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/last-commit/seasonalmatcha/symbol-renamer.nvim) ![](https://img.shields.io/github/commit-activity/y/seasonalmatcha/symbol-renamer.nvim)
 - [mei28/instant-rename.nvim](https://github.com/mei28/instant-rename.nvim) ![](https://img.shields.io/github/stars/mei28/instant-rename.nvim) ![](https://img.shields.io/github/last-commit/mei28/instant-rename.nvim) ![](https://img.shields.io/github/commit-activity/y/mei28/instant-rename.nvim)
+- [tunachip/casket.nvim](https://github.com/tunachip/casket.nvim) ![](https://img.shields.io/github/stars/tunachip/casket.nvim) ![](https://img.shields.io/github/last-commit/tunachip/casket.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/casket.nvim)
 
 ### Replace character
 

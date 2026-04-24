@@ -52,6 +52,7 @@
 - [marromlam/nvim-docx](https://github.com/marromlam/nvim-docx) ![](https://img.shields.io/github/stars/marromlam/nvim-docx) ![](https://img.shields.io/github/last-commit/marromlam/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/marromlam/nvim-docx)
 - [DaanHessen/nvim-docx](https://github.com/DaanHessen/nvim-docx) ![](https://img.shields.io/github/stars/DaanHessen/nvim-docx) ![](https://img.shields.io/github/last-commit/DaanHessen/nvim-docx) ![](https://img.shields.io/github/commit-activity/y/DaanHessen/nvim-docx)
 - [oribarilan/folio.nvim](https://github.com/oribarilan/folio.nvim) ![](https://img.shields.io/github/stars/oribarilan/folio.nvim) ![](https://img.shields.io/github/last-commit/oribarilan/folio.nvim) ![](https://img.shields.io/github/commit-activity/y/oribarilan/folio.nvim)
+- [Wilberucx/docx-preview.nvim](https://github.com/Wilberucx/docx-preview.nvim) ![](https://img.shields.io/github/stars/Wilberucx/docx-preview.nvim) ![](https://img.shields.io/github/last-commit/Wilberucx/docx-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Wilberucx/docx-preview.nvim)
 
 ## Excel
 
