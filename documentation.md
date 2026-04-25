@@ -647,6 +647,8 @@
 - [urtzienriquez/citeref.nvim](https://github.com/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/citeref.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/citeref.nvim)
 - [mschmidty/bib-builder.nvim](https://github.com/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/stars/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/last-commit/mschmidty/bib-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/mschmidty/bib-builder.nvim)
 - [nganhkhoa/dblp.nvim](https://github.com/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/stars/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/last-commit/nganhkhoa/dblp.nvim) ![](https://img.shields.io/github/commit-activity/y/nganhkhoa/dblp.nvim)
+- [Chiarandini/snacks-bibtex.nvim](https://github.com/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-bibtex.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-bibtex.nvim)
+- [barewalker/fzfcite.nvim](https://github.com/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/stars/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/last-commit/barewalker/fzfcite.nvim) ![](https://img.shields.io/github/commit-activity/y/barewalker/fzfcite.nvim)
 
 #### Speech
 

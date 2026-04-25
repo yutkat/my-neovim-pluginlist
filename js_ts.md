@@ -148,6 +148,7 @@
 - [youyoumu/pretty-ts-errors.nvim](https://github.com/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/stars/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/last-commit/youyoumu/pretty-ts-errors.nvim) ![](https://img.shields.io/github/commit-activity/y/youyoumu/pretty-ts-errors.nvim)
 - [fulopkovacs/fix-ts-props.nvim](https://github.com/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/stars/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/last-commit/fulopkovacs/fix-ts-props.nvim) ![](https://img.shields.io/github/commit-activity/y/fulopkovacs/fix-ts-props.nvim)
 - [enochchau/nvim-pretty-ts-errors](https://github.com/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/stars/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/last-commit/enochchau/nvim-pretty-ts-errors) ![](https://img.shields.io/github/commit-activity/y/enochchau/nvim-pretty-ts-errors)
+- [rashedInt32/effect-error-pretty.nvim](https://github.com/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/stars/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/effect-error-pretty.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/effect-error-pretty.nvim)
 
 ### typescript-go
 

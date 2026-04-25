@@ -418,6 +418,7 @@
 - [shun095/nvim-merge-diff](https://github.com/shun095/nvim-merge-diff) ![](https://img.shields.io/github/stars/shun095/nvim-merge-diff) ![](https://img.shields.io/github/last-commit/shun095/nvim-merge-diff) ![](https://img.shields.io/github/commit-activity/y/shun095/nvim-merge-diff)
 - [Valentin-Guillet/conflict.nvim](https://github.com/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/stars/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/last-commit/Valentin-Guillet/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/Valentin-Guillet/conflict.nvim)
 - [niekdomi/conflict.nvim](https://github.com/niekdomi/conflict.nvim) ![](https://img.shields.io/github/stars/niekdomi/conflict.nvim) ![](https://img.shields.io/github/last-commit/niekdomi/conflict.nvim) ![](https://img.shields.io/github/commit-activity/y/niekdomi/conflict.nvim)
+- [andremaeland/conflict-ink.nvim](https://github.com/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/stars/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/last-commit/andremaeland/conflict-ink.nvim) ![](https://img.shields.io/github/commit-activity/y/andremaeland/conflict-ink.nvim)
 
 ### git pull
 

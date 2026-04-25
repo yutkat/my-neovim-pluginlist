@@ -293,6 +293,7 @@
 - [v1nh1shungry/error-lens.nvim](https://github.com/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/stars/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/last-commit/v1nh1shungry/error-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/v1nh1shungry/error-lens.nvim)
 - [lost22git/hover.nvim](https://github.com/lost22git/hover.nvim) ![](https://img.shields.io/github/stars/lost22git/hover.nvim) ![](https://img.shields.io/github/last-commit/lost22git/hover.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/hover.nvim)
 - [liinyun/codelens_eol.nvim](https://github.com/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/stars/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/last-commit/liinyun/codelens_eol.nvim) ![](https://img.shields.io/github/commit-activity/y/liinyun/codelens_eol.nvim)
+- [rpollard00/endofline-club.nvim](https://github.com/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/stars/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/endofline-club.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/endofline-club.nvim)
 
 ##### LinkedEditingRange
 
@@ -398,6 +399,7 @@
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
 - [sindrip/fixpoint.nvim](https://github.com/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/stars/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/last-commit/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrip/fixpoint.nvim)
 - [phanen/ctags-ls.nvim](https://github.com/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/stars/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/last-commit/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ctags-ls.nvim)
+- [SemanticWebLanguageServer/swls.nvim](https://github.com/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/stars/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/last-commit/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/commit-activity/y/SemanticWebLanguageServer/swls.nvim)
 
 ## Pre-configuration
 
