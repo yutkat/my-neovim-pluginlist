@@ -327,6 +327,7 @@
 - [MOHIT-IITP/todofloat.nvim](https://github.com/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/stars/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/last-commit/MOHIT-IITP/todofloat.nvim) ![](https://img.shields.io/github/commit-activity/y/MOHIT-IITP/todofloat.nvim)
 - [olo42/markdone.nvim](https://github.com/olo42/markdone.nvim) ![](https://img.shields.io/github/stars/olo42/markdone.nvim) ![](https://img.shields.io/github/last-commit/olo42/markdone.nvim) ![](https://img.shields.io/github/commit-activity/y/olo42/markdone.nvim)
 - [GunawanAhmad/todo.nvim](https://github.com/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/stars/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/last-commit/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/GunawanAhmad/todo.nvim)
+- [BeastInBash/todos.nvim](https://github.com/BeastInBash/todos.nvim) ![](https://img.shields.io/github/stars/BeastInBash/todos.nvim) ![](https://img.shields.io/github/last-commit/BeastInBash/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/BeastInBash/todos.nvim)
 
 #### Google Task
 
@@ -454,6 +455,7 @@
 - [jmbuhr/telescope-zotero.nvim](https://github.com/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/stars/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/last-commit/jmbuhr/telescope-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/jmbuhr/telescope-zotero.nvim)
 - [anandkumar89/nvim-zotero](https://github.com/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/stars/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/last-commit/anandkumar89/nvim-zotero) ![](https://img.shields.io/github/commit-activity/y/anandkumar89/nvim-zotero)
 - [wellsdurant/zotero-md.nvim](https://github.com/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/stars/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/zotero-md.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/zotero-md.nvim)
+- [Chiarandini/snacks-zotero.nvim](https://github.com/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-zotero.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-zotero.nvim)
 
 ### Task Tracking
 

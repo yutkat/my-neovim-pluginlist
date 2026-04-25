@@ -31,6 +31,7 @@
   - [WhatsApp](#whatsapp)
   - [MantisBT](#mantisbt)
   - [Redmine](#redmine)
+  - [Asana](#asana)
   - [Shortcut](#shortcut)
   - [Jira](#jira)
   - [Confluence](#confluence)
@@ -377,7 +378,6 @@
 
 ### Cloudinary
 
-
 ### Dagster
 
 - [cmpadden/dagster.nvim](https://github.com/cmpadden/dagster.nvim) ![](https://img.shields.io/github/stars/cmpadden/dagster.nvim) ![](https://img.shields.io/github/last-commit/cmpadden/dagster.nvim) ![](https://img.shields.io/github/commit-activity/y/cmpadden/dagster.nvim)
@@ -427,6 +427,9 @@
 ### Jenkins
 
 - [cvanhoosear/jenkins-linter.nvim](https://github.com/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/stars/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/last-commit/cvanhoosear/jenkins-linter.nvim) ![](https://img.shields.io/github/commit-activity/y/cvanhoosear/jenkins-linter.nvim)
+- [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
+- [ckipp01/nvim-jenkinsfile-linter](https://github.com/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/stars/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/last-commit/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/commit-activity/y/ckipp01/nvim-jenkinsfile-linter)
+- [Funkmyster/jenkins.nvim](https://github.com/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/stars/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/last-commit/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/Funkmyster/jenkins.nvim)
 
 ### SonarQube
 
