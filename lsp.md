@@ -399,7 +399,6 @@
 - [atusy/kakehashi.nvim](https://github.com/atusy/kakehashi.nvim) ![](https://img.shields.io/github/stars/atusy/kakehashi.nvim) ![](https://img.shields.io/github/last-commit/atusy/kakehashi.nvim) ![](https://img.shields.io/github/commit-activity/y/atusy/kakehashi.nvim)
 - [sindrip/fixpoint.nvim](https://github.com/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/stars/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/last-commit/sindrip/fixpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/sindrip/fixpoint.nvim)
 - [phanen/ctags-ls.nvim](https://github.com/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/stars/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/last-commit/phanen/ctags-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/ctags-ls.nvim)
-- [SemanticWebLanguageServer/swls.nvim](https://github.com/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/stars/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/last-commit/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/commit-activity/y/SemanticWebLanguageServer/swls.nvim)
 
 ## Pre-configuration
 

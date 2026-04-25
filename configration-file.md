@@ -12,7 +12,7 @@
   - [dotbox](#dotbox)
   - [Jayvee](#jayvee)
   - [CSV](#csv)
-  - [Jenkins](#jenkins)
+  - [Turtle / SPARQL](#turtle--sparql)
   - [Cron](#cron)
   - [Drools Rule Language](#drools-rule-language)
   - [Log](#log)
@@ -122,11 +122,9 @@
 - [kissy24/render-csv.nvim](https://github.com/kissy24/render-csv.nvim) ![](https://img.shields.io/github/stars/kissy24/render-csv.nvim) ![](https://img.shields.io/github/last-commit/kissy24/render-csv.nvim) ![](https://img.shields.io/github/commit-activity/y/kissy24/render-csv.nvim)
 - [kibi2/tirenvi.nvim](https://github.com/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/stars/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/last-commit/kibi2/tirenvi.nvim) ![](https://img.shields.io/github/commit-activity/y/kibi2/tirenvi.nvim)
 
-### Jenkins
+### Turtle / SPARQL
 
-- [joshzcold/cmp-jenkinsfile](https://github.com/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/stars/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/last-commit/joshzcold/cmp-jenkinsfile) ![](https://img.shields.io/github/commit-activity/y/joshzcold/cmp-jenkinsfile)
-- [ckipp01/nvim-jenkinsfile-linter](https://github.com/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/stars/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/last-commit/ckipp01/nvim-jenkinsfile-linter) ![](https://img.shields.io/github/commit-activity/y/ckipp01/nvim-jenkinsfile-linter)
-- [Funkmyster/jenkins.nvim](https://github.com/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/stars/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/last-commit/Funkmyster/jenkins.nvim) ![](https://img.shields.io/github/commit-activity/y/Funkmyster/jenkins.nvim)
+- [SemanticWebLanguageServer/swls.nvim](https://github.com/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/stars/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/last-commit/SemanticWebLanguageServer/swls.nvim) ![](https://img.shields.io/github/commit-activity/y/SemanticWebLanguageServer/swls.nvim)
 
 ### Cron
 
