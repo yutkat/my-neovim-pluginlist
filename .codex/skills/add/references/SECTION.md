@@ -183,6 +183,7 @@
 ### Compile
 #### insight
 #### elf
+#### MSVC
 ### Implement
 #### Clang
 #### GCC
@@ -352,7 +353,7 @@
 ### dotbox
 ### Jayvee
 ### CSV
-### Jenkins
+### Turtle / SPARQL
 ### Cron
 ### Drools Rule Language
 ### Log
@@ -874,6 +875,7 @@
 #### Odoo
 #### Accounting tool
 ##### hledger
+##### SIE
 #### dbt
 #### sdfcli
 #### dagster
@@ -1354,6 +1356,7 @@
 ### Tidal
 ### Strudel
 ### GABC
+### Guitar tablature
 ### Reaper
 #### MIDI
 #### ABC Notation

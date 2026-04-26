@@ -112,6 +112,7 @@
 - [casni14/TypeCheck.nvim](https://github.com/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/stars/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/last-commit/casni14/TypeCheck.nvim) ![](https://img.shields.io/github/commit-activity/y/casni14/TypeCheck.nvim)
 - [znuznu/typist.nvim](https://github.com/znuznu/typist.nvim) ![](https://img.shields.io/github/stars/znuznu/typist.nvim) ![](https://img.shields.io/github/last-commit/znuznu/typist.nvim) ![](https://img.shields.io/github/commit-activity/y/znuznu/typist.nvim)
 - [uhvesta/flowstate.nvim](https://github.com/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/stars/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/last-commit/uhvesta/flowstate.nvim) ![](https://img.shields.io/github/commit-activity/y/uhvesta/flowstate.nvim)
+- [z1g-zag-zoomer/nvim-speedster](https://github.com/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/stars/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/last-commit/z1g-zag-zoomer/nvim-speedster) ![](https://img.shields.io/github/commit-activity/y/z1g-zag-zoomer/nvim-speedster)
 
 ### Writing metrics
 

@@ -9,6 +9,7 @@
   - [Compile](#compile)
     - [insight](#insight)
     - [elf](#elf)
+    - [MSVC](#msvc)
   - [Implement](#implement)
     - [Clang](#clang)
     - [GCC](#gcc)
@@ -102,6 +103,10 @@
 #### elf
 
 - [JonTheBurger/nvim-elf-file](https://github.com/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/stars/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/last-commit/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/commit-activity/y/JonTheBurger/nvim-elf-file)
+
+#### MSVC
+
+- [ptquang2000/nvim-msvc](https://github.com/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/stars/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/last-commit/ptquang2000/nvim-msvc) ![](https://img.shields.io/github/commit-activity/y/ptquang2000/nvim-msvc)
 
 ### Implement
 
@@ -260,6 +265,7 @@
 - [anurag3301/nvim-platformio.lua](https://github.com/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/stars/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/last-commit/anurag3301/nvim-platformio.lua) ![](https://img.shields.io/github/commit-activity/y/anurag3301/nvim-platformio.lua)
 - [beckboan/platformio.nvim](https://github.com/beckboan/platformio.nvim) ![](https://img.shields.io/github/stars/beckboan/platformio.nvim) ![](https://img.shields.io/github/last-commit/beckboan/platformio.nvim) ![](https://img.shields.io/github/commit-activity/y/beckboan/platformio.nvim)
 - [sbatin/platformio.nvim](https://github.com/sbatin/platformio.nvim) ![](https://img.shields.io/github/stars/sbatin/platformio.nvim) ![](https://img.shields.io/github/last-commit/sbatin/platformio.nvim) ![](https://img.shields.io/github/commit-activity/y/sbatin/platformio.nvim)
+- [446564/pio.nvim](https://github.com/446564/pio.nvim) ![](https://img.shields.io/github/stars/446564/pio.nvim) ![](https://img.shields.io/github/last-commit/446564/pio.nvim) ![](https://img.shields.io/github/commit-activity/y/446564/pio.nvim)
 
 ## ASM
 

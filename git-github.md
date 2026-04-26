@@ -501,6 +501,7 @@
 - [KulkarniKaustubh/ezstack.nvim](https://github.com/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/stars/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/last-commit/KulkarniKaustubh/ezstack.nvim) ![](https://img.shields.io/github/commit-activity/y/KulkarniKaustubh/ezstack.nvim)
 - [AsLogd/worktabs.nvim](https://github.com/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/stars/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/last-commit/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/commit-activity/y/AsLogd/worktabs.nvim)
 - [yongjohnlee80/worktree.nvim](https://github.com/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/worktree.nvim)
+- [ss0923/limb.nvim](https://github.com/ss0923/limb.nvim) ![](https://img.shields.io/github/stars/ss0923/limb.nvim) ![](https://img.shields.io/github/last-commit/ss0923/limb.nvim) ![](https://img.shields.io/github/commit-activity/y/ss0923/limb.nvim)
 
 ### submodule
 

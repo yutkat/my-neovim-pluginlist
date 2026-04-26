@@ -679,6 +679,7 @@
 - [jawoznia/opencode.nvim](https://github.com/jawoznia/opencode.nvim) ![](https://img.shields.io/github/stars/jawoznia/opencode.nvim) ![](https://img.shields.io/github/last-commit/jawoznia/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/jawoznia/opencode.nvim)
 - [hansmrtn/openfollow.nvim](https://github.com/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/stars/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/openfollow.nvim)
 - [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
+- [sachchidanandx/opencode.nvim](https://github.com/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/opencode.nvim)
 
 ### khulnasoft
 
@@ -949,6 +950,7 @@
 - [joelazar/agent-review.nvim](https://github.com/joelazar/agent-review.nvim) ![](https://img.shields.io/github/stars/joelazar/agent-review.nvim) ![](https://img.shields.io/github/last-commit/joelazar/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/joelazar/agent-review.nvim)
 - [amchp/nvim-code-reviewer-helper](https://github.com/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/stars/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/last-commit/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/commit-activity/y/amchp/nvim-code-reviewer-helper)
 - [hamersaw/ullr.nvim](https://github.com/hamersaw/ullr.nvim) ![](https://img.shields.io/github/stars/hamersaw/ullr.nvim) ![](https://img.shields.io/github/last-commit/hamersaw/ullr.nvim) ![](https://img.shields.io/github/commit-activity/y/hamersaw/ullr.nvim)
+- [jcger/review-prompt.nvim](https://github.com/jcger/review-prompt.nvim) ![](https://img.shields.io/github/stars/jcger/review-prompt.nvim) ![](https://img.shields.io/github/last-commit/jcger/review-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/review-prompt.nvim)
 
 ## Documentation
 

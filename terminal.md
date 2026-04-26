@@ -119,6 +119,7 @@
 - [Panama0/Terman.nvim](https://github.com/Panama0/Terman.nvim) ![](https://img.shields.io/github/stars/Panama0/Terman.nvim) ![](https://img.shields.io/github/last-commit/Panama0/Terman.nvim) ![](https://img.shields.io/github/commit-activity/y/Panama0/Terman.nvim)
 - [ruicsh/termite.nvim](https://github.com/ruicsh/termite.nvim) ![](https://img.shields.io/github/stars/ruicsh/termite.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/termite.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/termite.nvim)
 - [wr9dg17/essential-term.nvim](https://github.com/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/stars/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/last-commit/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/commit-activity/y/wr9dg17/essential-term.nvim)
+- [rodakd/terms.nvim](https://github.com/rodakd/terms.nvim) ![](https://img.shields.io/github/stars/rodakd/terms.nvim) ![](https://img.shields.io/github/last-commit/rodakd/terms.nvim) ![](https://img.shields.io/github/commit-activity/y/rodakd/terms.nvim)
 
 ### Open
 
