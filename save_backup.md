@@ -35,6 +35,7 @@
 - [alex-granny/auto-saver.nvim](https://github.com/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/stars/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/last-commit/alex-granny/auto-saver.nvim) ![](https://img.shields.io/github/commit-activity/y/alex-granny/auto-saver.nvim)
 - [pluttan/autosave.nvim](https://github.com/pluttan/autosave.nvim) ![](https://img.shields.io/github/stars/pluttan/autosave.nvim) ![](https://img.shields.io/github/last-commit/pluttan/autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/pluttan/autosave.nvim)
 - [swaits/tiny-autosave.nvim](https://github.com/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-autosave.nvim)
+- [Micro-nvim-plugin/Micro-autosave.nvim](https://github.com/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/stars/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/last-commit/Micro-nvim-plugin/Micro-autosave.nvim) ![](https://img.shields.io/github/commit-activity/y/Micro-nvim-plugin/Micro-autosave.nvim)
 
 ### Edit history
 

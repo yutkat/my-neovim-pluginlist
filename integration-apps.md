@@ -63,6 +63,7 @@
     - [Odoo](#odoo)
     - [Accounting tool](#accounting-tool)
       - [hledger](#hledger)
+      - [SIE](#sie)
     - [dbt](#dbt)
     - [sdfcli](#sdfcli)
     - [dagster](#dagster)
@@ -429,6 +430,10 @@
 ##### hledger
 
 - [davidhelbig/hledger.nvim](https://github.com/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/stars/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/last-commit/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/commit-activity/y/davidhelbig/hledger.nvim)
+
+##### SIE
+
+- [t4t5/sie.nvim](https://github.com/t4t5/sie.nvim) ![](https://img.shields.io/github/stars/t4t5/sie.nvim) ![](https://img.shields.io/github/last-commit/t4t5/sie.nvim) ![](https://img.shields.io/github/commit-activity/y/t4t5/sie.nvim)
 
 #### dbt
 

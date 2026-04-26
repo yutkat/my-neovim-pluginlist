@@ -10,6 +10,7 @@
   - [Tidal](#tidal)
   - [Strudel](#strudel)
   - [GABC](#gabc)
+  - [Guitar tablature](#guitar-tablature)
   - [Reaper](#reaper)
     - [MIDI](#midi)
     - [ABC Notation](#abc-notation)
@@ -131,6 +132,10 @@
 ### GABC
 
 - [AISCGre-BR/gregorio.nvim](https://github.com/AISCGre-BR/gregorio.nvim) ![](https://img.shields.io/github/stars/AISCGre-BR/gregorio.nvim) ![](https://img.shields.io/github/last-commit/AISCGre-BR/gregorio.nvim) ![](https://img.shields.io/github/commit-activity/y/AISCGre-BR/gregorio.nvim)
+
+### Guitar tablature
+
+- [hc-nolan/tablature.nvim](https://github.com/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/stars/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/last-commit/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/hc-nolan/tablature.nvim)
 
 ### Reaper
 

@@ -175,6 +175,7 @@
 - [TheLazyCat00/workspaces-nvim](https://github.com/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/workspaces-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/workspaces-nvim)
 - [Rainfxxk/bufferman.nvim](https://github.com/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/bufferman.nvim)
 - [themitchells/nvim-buffergator](https://github.com/themitchells/nvim-buffergator) ![](https://img.shields.io/github/stars/themitchells/nvim-buffergator) ![](https://img.shields.io/github/last-commit/themitchells/nvim-buffergator) ![](https://img.shields.io/github/commit-activity/y/themitchells/nvim-buffergator)
+- [Philanatidae/wintabs.nvim](https://github.com/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/stars/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/last-commit/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/commit-activity/y/Philanatidae/wintabs.nvim)
 
 #### create
 
