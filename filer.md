@@ -21,6 +21,7 @@
   - [Filer switcher](#filer-switcher)
   - [broot](#broot)
   - [Create directory](#create-directory)
+  - [Create file](#create-file)
   - [Tree View](#tree-view)
   - [File rename](#file-rename)
   - [Trash](#trash)
@@ -233,6 +234,10 @@
 ### Create directory
 
 - [aikooo7/funnyfiles.nvim](https://github.com/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/stars/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/last-commit/aikooo7/funnyfiles.nvim) ![](https://img.shields.io/github/commit-activity/y/aikooo7/funnyfiles.nvim)
+
+### Create file
+
+- [sociale11/touche.nvim](https://github.com/sociale11/touche.nvim) ![](https://img.shields.io/github/stars/sociale11/touche.nvim) ![](https://img.shields.io/github/last-commit/sociale11/touche.nvim) ![](https://img.shields.io/github/commit-activity/y/sociale11/touche.nvim)
 
 ### Tree View
 

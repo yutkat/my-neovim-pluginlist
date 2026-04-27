@@ -328,6 +328,7 @@
 - [olo42/markdone.nvim](https://github.com/olo42/markdone.nvim) ![](https://img.shields.io/github/stars/olo42/markdone.nvim) ![](https://img.shields.io/github/last-commit/olo42/markdone.nvim) ![](https://img.shields.io/github/commit-activity/y/olo42/markdone.nvim)
 - [GunawanAhmad/todo.nvim](https://github.com/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/stars/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/last-commit/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/GunawanAhmad/todo.nvim)
 - [BeastInBash/todos.nvim](https://github.com/BeastInBash/todos.nvim) ![](https://img.shields.io/github/stars/BeastInBash/todos.nvim) ![](https://img.shields.io/github/last-commit/BeastInBash/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/BeastInBash/todos.nvim)
+- [e-mar404/ticktick.nvim](https://github.com/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/stars/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/last-commit/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/commit-activity/y/e-mar404/ticktick.nvim)
 
 #### Google Task
 

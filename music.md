@@ -110,6 +110,7 @@
 - [shardulvs/ytmusic.nvim](https://github.com/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/stars/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/shardulvs/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/shardulvs/ytmusic.nvim)
 - [sanjay-np/nvim-yt-control](https://github.com/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/stars/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/last-commit/sanjay-np/nvim-yt-control) ![](https://img.shields.io/github/commit-activity/y/sanjay-np/nvim-yt-control)
 - [griffinaddison/ytmusic.nvim](https://github.com/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/stars/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/last-commit/griffinaddison/ytmusic.nvim) ![](https://img.shields.io/github/commit-activity/y/griffinaddison/ytmusic.nvim)
+- [cfung89/vibes.nvim](https://github.com/cfung89/vibes.nvim) ![](https://img.shields.io/github/stars/cfung89/vibes.nvim) ![](https://img.shields.io/github/last-commit/cfung89/vibes.nvim) ![](https://img.shields.io/github/commit-activity/y/cfung89/vibes.nvim)
 
 ### Tidal
 

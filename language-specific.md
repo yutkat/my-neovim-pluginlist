@@ -262,6 +262,7 @@
 - [leblocks/hopcsharp.nvim](https://github.com/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/stars/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/last-commit/leblocks/hopcsharp.nvim) ![](https://img.shields.io/github/commit-activity/y/leblocks/hopcsharp.nvim)
 - [TheAjaykrishnanR/nvim-csharp-runner](https://github.com/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/stars/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/last-commit/TheAjaykrishnanR/nvim-csharp-runner) ![](https://img.shields.io/github/commit-activity/y/TheAjaykrishnanR/nvim-csharp-runner)
 - [MertzAndreas/roslyn-kit.nvim](https://github.com/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/stars/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/last-commit/MertzAndreas/roslyn-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/MertzAndreas/roslyn-kit.nvim)
+- [adia-dev/csharp_template.nvim](https://github.com/adia-dev/csharp_template.nvim) ![](https://img.shields.io/github/stars/adia-dev/csharp_template.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/csharp_template.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/csharp_template.nvim)
 
 ##### Compile
 
