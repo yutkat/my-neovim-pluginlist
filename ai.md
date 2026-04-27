@@ -197,6 +197,7 @@
 - [jyhl/sift.nvim](https://github.com/jyhl/sift.nvim) ![](https://img.shields.io/github/stars/jyhl/sift.nvim) ![](https://img.shields.io/github/last-commit/jyhl/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/jyhl/sift.nvim)
 - [Ali-Aref/codex.nvim](https://github.com/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/stars/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/codex.nvim)
 - [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
+- [KotaroMotoda/codex-workbench.nvim](https://github.com/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/stars/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/last-commit/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/KotaroMotoda/codex-workbench.nvim)
 
 #### Whisper
 

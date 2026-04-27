@@ -579,6 +579,8 @@
 
 ### NVIDIA
 
+- [SimonLarsen/smi.nvim](https://github.com/SimonLarsen/smi.nvim) ![](https://img.shields.io/github/stars/SimonLarsen/smi.nvim) ![](https://img.shields.io/github/last-commit/SimonLarsen/smi.nvim) ![](https://img.shields.io/github/commit-activity/y/SimonLarsen/smi.nvim)
+
 #### CUDA
 
 - [Jorgedavyd/cuda-prof.nvim](https://github.com/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/stars/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/last-commit/Jorgedavyd/cuda-prof.nvim) ![](https://img.shields.io/github/commit-activity/y/Jorgedavyd/cuda-prof.nvim)

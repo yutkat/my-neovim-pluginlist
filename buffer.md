@@ -102,6 +102,7 @@
 - [vimjeremy/bluffer.nvim](https://github.com/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/stars/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/last-commit/vimjeremy/bluffer.nvim) ![](https://img.shields.io/github/commit-activity/y/vimjeremy/bluffer.nvim)
 - [Masalale/buffer-jump.nvim](https://github.com/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/stars/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/last-commit/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/Masalale/buffer-jump.nvim)
 - [juliomc23/buffer-list.nvim](https://github.com/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/stars/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/last-commit/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/commit-activity/y/juliomc23/buffer-list.nvim)
+- [ankushbhagats/buffswitch.nvim](https://github.com/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/stars/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/last-commit/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ankushbhagats/buffswitch.nvim)
 
 ### Other Buffer Switcher
 
@@ -240,6 +241,7 @@
 - [mjacobs/mru-nav.nvim](https://github.com/mjacobs/mru-nav.nvim) ![](https://img.shields.io/github/stars/mjacobs/mru-nav.nvim) ![](https://img.shields.io/github/last-commit/mjacobs/mru-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/mjacobs/mru-nav.nvim)
 - [neovim-idea/switcher-nvim](https://github.com/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/stars/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/switcher-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/switcher-nvim)
 - [neio-dev/harbor.nvim](https://github.com/neio-dev/harbor.nvim) ![](https://img.shields.io/github/stars/neio-dev/harbor.nvim) ![](https://img.shields.io/github/last-commit/neio-dev/harbor.nvim) ![](https://img.shields.io/github/commit-activity/y/neio-dev/harbor.nvim)
+- [maxrzaw/recent-files.nvim](https://github.com/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/stars/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/last-commit/maxrzaw/recent-files.nvim) ![](https://img.shields.io/github/commit-activity/y/maxrzaw/recent-files.nvim)
 
 ##### remote open
 

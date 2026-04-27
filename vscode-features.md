@@ -41,6 +41,7 @@
 - [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) ![](https://img.shields.io/github/stars/azratul/live-share.nvim) ![](https://img.shields.io/github/last-commit/azratul/live-share.nvim) ![](https://img.shields.io/github/commit-activity/y/azratul/live-share.nvim)
 - [EmreDay1/collab.nvim](https://github.com/EmreDay1/collab.nvim) ![](https://img.shields.io/github/stars/EmreDay1/collab.nvim) ![](https://img.shields.io/github/last-commit/EmreDay1/collab.nvim) ![](https://img.shields.io/github/commit-activity/y/EmreDay1/collab.nvim)
 - [StackApe/apexlink.nvim](https://github.com/StackApe/apexlink.nvim) ![](https://img.shields.io/github/stars/StackApe/apexlink.nvim) ![](https://img.shields.io/github/last-commit/StackApe/apexlink.nvim) ![](https://img.shields.io/github/commit-activity/y/StackApe/apexlink.nvim)
+- [Peix-a-la-GachkUPC/nvim-extension](https://github.com/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/stars/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/last-commit/Peix-a-la-GachkUPC/nvim-extension) ![](https://img.shields.io/github/commit-activity/y/Peix-a-la-GachkUPC/nvim-extension)
 
 ### .vscode
 
