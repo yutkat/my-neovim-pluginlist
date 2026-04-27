@@ -149,6 +149,7 @@
 ### JSON -> TypeScript
 
 - [I2olanD/jtt.nvim](https://github.com/I2olanD/jtt.nvim) ![](https://img.shields.io/github/stars/I2olanD/jtt.nvim) ![](https://img.shields.io/github/last-commit/I2olanD/jtt.nvim) ![](https://img.shields.io/github/commit-activity/y/I2olanD/jtt.nvim)
+- [ask-786/json-to-ts.nvim](https://github.com/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/stars/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/last-commit/ask-786/json-to-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/json-to-ts.nvim)
 
 ### JSON -> Code
 
