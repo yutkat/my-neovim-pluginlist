@@ -54,6 +54,7 @@
 - [0xferrous/diffie.nvim](https://github.com/0xferrous/diffie.nvim) ![](https://img.shields.io/github/stars/0xferrous/diffie.nvim) ![](https://img.shields.io/github/last-commit/0xferrous/diffie.nvim) ![](https://img.shields.io/github/commit-activity/y/0xferrous/diffie.nvim)
 - [emmanuelchucks/patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/stars/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/last-commit/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanuelchucks/patchmarks.nvim)
 - [Xuyuanp/review.nvim](https://github.com/Xuyuanp/review.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/review.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/review.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/review.nvim)
+- [rashedInt32/lazydiff.nvim](https://github.com/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/stars/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/lazydiff.nvim)
 
 ### Diff Register
 

@@ -254,6 +254,7 @@
 - [RamAvni/expandable-hover.nvim](https://github.com/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/stars/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/last-commit/RamAvni/expandable-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/RamAvni/expandable-hover.nvim)
 - [YanniPapandreou/livedocs.nvim](https://github.com/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/stars/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/last-commit/YanniPapandreou/livedocs.nvim) ![](https://img.shields.io/github/commit-activity/y/YanniPapandreou/livedocs.nvim)
 - [MLobsien/cowlsp.nvim](https://github.com/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/stars/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/last-commit/MLobsien/cowlsp.nvim) ![](https://img.shields.io/github/commit-activity/y/MLobsien/cowlsp.nvim)
+- [Jlesster/Linus.nvim](https://github.com/Jlesster/Linus.nvim) ![](https://img.shields.io/github/stars/Jlesster/Linus.nvim) ![](https://img.shields.io/github/last-commit/Jlesster/Linus.nvim) ![](https://img.shields.io/github/commit-activity/y/Jlesster/Linus.nvim)
 
 ##### Hover info
 

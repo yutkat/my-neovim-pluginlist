@@ -86,6 +86,7 @@
 - [Isletier/nvim-DVAP](https://github.com/Isletier/nvim-DVAP) ![](https://img.shields.io/github/stars/Isletier/nvim-DVAP) ![](https://img.shields.io/github/last-commit/Isletier/nvim-DVAP) ![](https://img.shields.io/github/commit-activity/y/Isletier/nvim-DVAP)
   - [Isletier/nvim-DVAP-ui](https://github.com/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/stars/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/last-commit/Isletier/nvim-DVAP-ui) ![](https://img.shields.io/github/commit-activity/y/Isletier/nvim-DVAP-ui)
 - [hecrogon/nvim-dap-retro](https://github.com/hecrogon/nvim-dap-retro) ![](https://img.shields.io/github/stars/hecrogon/nvim-dap-retro) ![](https://img.shields.io/github/last-commit/hecrogon/nvim-dap-retro) ![](https://img.shields.io/github/commit-activity/y/hecrogon/nvim-dap-retro)
+- [jmarcelomb/dap-persist.nvim](https://github.com/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/stars/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/last-commit/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/jmarcelomb/dap-persist.nvim)
 
 #### Launch.json
 
