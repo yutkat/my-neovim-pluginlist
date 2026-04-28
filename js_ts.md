@@ -381,6 +381,7 @@
 - [ycycwx/react-compiler-badge.nvim](https://github.com/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/stars/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/last-commit/ycycwx/react-compiler-badge.nvim) ![](https://img.shields.io/github/commit-activity/y/ycycwx/react-compiler-badge.nvim)
 - [billmakes/react_tree.nvim](https://github.com/billmakes/react_tree.nvim) ![](https://img.shields.io/github/stars/billmakes/react_tree.nvim) ![](https://img.shields.io/github/last-commit/billmakes/react_tree.nvim) ![](https://img.shields.io/github/commit-activity/y/billmakes/react_tree.nvim)
 - [TmLev/react-suspense-lens.nvim](https://github.com/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/stars/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/last-commit/TmLev/react-suspense-lens.nvim) ![](https://img.shields.io/github/commit-activity/y/TmLev/react-suspense-lens.nvim)
+- [SaptanshuWanjari/icon-picker.nvim](https://github.com/SaptanshuWanjari/icon-picker.nvim) ![](https://img.shields.io/github/stars/SaptanshuWanjari/icon-picker.nvim) ![](https://img.shields.io/github/last-commit/SaptanshuWanjari/icon-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/SaptanshuWanjari/icon-picker.nvim)
 
 #### Next.js
 

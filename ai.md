@@ -681,6 +681,8 @@
 - [hansmrtn/openfollow.nvim](https://github.com/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/stars/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/last-commit/hansmrtn/openfollow.nvim) ![](https://img.shields.io/github/commit-activity/y/hansmrtn/openfollow.nvim)
 - [simonwinther/opencode-tmux.nvim](https://github.com/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/stars/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/opencode-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/opencode-tmux.nvim)
 - [sachchidanandx/opencode.nvim](https://github.com/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/opencode.nvim)
+- [13janderson/opencode-wt.nvim](https://github.com/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/stars/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/last-commit/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/opencode-wt.nvim)
+- [jorlly-collado-castro/opencode-lazy.nvim](https://github.com/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/opencode-lazy.nvim)
 
 ### khulnasoft
 
@@ -781,6 +783,7 @@
 - [arjunmahishi/agent-bridge.nvim](https://github.com/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/agent-bridge.nvim)
 - [e-cal/tmux-agent-bridge.nvim](https://github.com/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/stars/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/tmux-agent-bridge.nvim)
 - [emilpriver/tau.nvim](https://github.com/emilpriver/tau.nvim) ![](https://img.shields.io/github/stars/emilpriver/tau.nvim) ![](https://img.shields.io/github/last-commit/emilpriver/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/emilpriver/tau.nvim)
+- [ray-x/copilot-agent.nvim](https://github.com/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/stars/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/last-commit/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/copilot-agent.nvim)
 
 ### AGENTS.md
 
