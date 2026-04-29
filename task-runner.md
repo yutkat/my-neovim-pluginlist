@@ -165,6 +165,7 @@
 - [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
 - [agokule/taskrunner.nvim](https://github.com/agokule/taskrunner.nvim) ![](https://img.shields.io/github/stars/agokule/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/agokule/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/taskrunner.nvim)
 - [shadowmkj/qompile.nvim](https://github.com/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/stars/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/last-commit/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/qompile.nvim)
+- [Logan-Garrett/chainbuild.nvim](https://github.com/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/stars/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/last-commit/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/Logan-Garrett/chainbuild.nvim)
 
 #### Shell
 
@@ -222,7 +223,6 @@
 - [mdrosiadis/nvim-compile](https://github.com/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/stars/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/last-commit/mdrosiadis/nvim-compile) ![](https://img.shields.io/github/commit-activity/y/mdrosiadis/nvim-compile)
 - [TheLazyCat00/runner-nvim](https://github.com/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/runner-nvim)
 - [kotsmile/erun.nvim](https://github.com/kotsmile/erun.nvim) ![](https://img.shields.io/github/stars/kotsmile/erun.nvim) ![](https://img.shields.io/github/last-commit/kotsmile/erun.nvim) ![](https://img.shields.io/github/commit-activity/y/kotsmile/erun.nvim)
-- [Logan-Garrett/chainbuild.nvim](https://github.com/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/stars/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/last-commit/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/Logan-Garrett/chainbuild.nvim)
 
 ### Auto detect style
 
