@@ -344,6 +344,7 @@
 
 # configration-file.md
 ## Configuration File
+### Schema
 ### JSON
 #### fx
 ### YAML
@@ -2156,6 +2157,7 @@
 #### Slack
 #### Google Chat
 #### Telegram
+#### Signal
 #### IRC
 #### iMessage
 ### SNS

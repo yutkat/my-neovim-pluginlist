@@ -287,6 +287,7 @@
 - [skanehira/k8s.nvim](https://github.com/skanehira/k8s.nvim) ![](https://img.shields.io/github/stars/skanehira/k8s.nvim) ![](https://img.shields.io/github/last-commit/skanehira/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/k8s.nvim)
 - [dahol/k8s.nvim](https://github.com/dahol/k8s.nvim) ![](https://img.shields.io/github/stars/dahol/k8s.nvim) ![](https://img.shields.io/github/last-commit/dahol/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/dahol/k8s.nvim)
 - [Sironheart/kube_yaml_schema.nvim](https://github.com/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/stars/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/last-commit/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sironheart/kube_yaml_schema.nvim)
+- [johnharmon/nvim-acm](https://github.com/johnharmon/nvim-acm) ![](https://img.shields.io/github/stars/johnharmon/nvim-acm) ![](https://img.shields.io/github/last-commit/johnharmon/nvim-acm) ![](https://img.shields.io/github/commit-activity/y/johnharmon/nvim-acm)
 
 #### VPN
 

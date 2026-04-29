@@ -165,6 +165,7 @@
 - [taleroangel/dalton.nvim](https://github.com/taleroangel/dalton.nvim) ![](https://img.shields.io/github/stars/taleroangel/dalton.nvim) ![](https://img.shields.io/github/last-commit/taleroangel/dalton.nvim) ![](https://img.shields.io/github/commit-activity/y/taleroangel/dalton.nvim)
 - [agokule/taskrunner.nvim](https://github.com/agokule/taskrunner.nvim) ![](https://img.shields.io/github/stars/agokule/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/agokule/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/taskrunner.nvim)
 - [shadowmkj/qompile.nvim](https://github.com/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/stars/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/last-commit/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/qompile.nvim)
+- [Logan-Garrett/chainbuild.nvim](https://github.com/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/stars/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/last-commit/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/Logan-Garrett/chainbuild.nvim)
 
 #### Shell
 

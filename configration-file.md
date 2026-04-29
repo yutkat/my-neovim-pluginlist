@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Configuration File](#configuration-file)
+  - [Schema](#schema)
   - [JSON](#json)
     - [fx](#fx)
   - [YAML](#yaml)
@@ -23,6 +24,10 @@
 <!-- tocstop -->
 
 ## Configuration File
+
+### Schema
+
+- [bezhermoso/shibboleth.nvim](https://github.com/bezhermoso/shibboleth.nvim) ![](https://img.shields.io/github/stars/bezhermoso/shibboleth.nvim) ![](https://img.shields.io/github/last-commit/bezhermoso/shibboleth.nvim) ![](https://img.shields.io/github/commit-activity/y/bezhermoso/shibboleth.nvim)
 
 ### JSON
 
