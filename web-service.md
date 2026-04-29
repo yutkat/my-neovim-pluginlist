@@ -9,6 +9,7 @@
     - [Slack](#slack)
     - [Google Chat](#google-chat)
     - [Telegram](#telegram)
+    - [Signal](#signal)
     - [IRC](#irc)
     - [iMessage](#imessage)
   - [SNS](#sns)
@@ -122,6 +123,10 @@
 #### Telegram
 
 - [the-blc/telegram.nvim](https://github.com/the-blc/telegram.nvim) ![](https://img.shields.io/github/stars/the-blc/telegram.nvim) ![](https://img.shields.io/github/last-commit/the-blc/telegram.nvim) ![](https://img.shields.io/github/commit-activity/y/the-blc/telegram.nvim)
+
+#### Signal
+
+- [AlexanderInnerbichler/signal.nvim](https://github.com/AlexanderInnerbichler/signal.nvim) ![](https://img.shields.io/github/stars/AlexanderInnerbichler/signal.nvim) ![](https://img.shields.io/github/last-commit/AlexanderInnerbichler/signal.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderInnerbichler/signal.nvim)
 
 #### IRC
 

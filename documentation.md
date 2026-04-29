@@ -211,6 +211,7 @@
 - [bun913/live-markdown.nvim](https://github.com/bun913/live-markdown.nvim) ![](https://img.shields.io/github/stars/bun913/live-markdown.nvim) ![](https://img.shields.io/github/last-commit/bun913/live-markdown.nvim) ![](https://img.shields.io/github/commit-activity/y/bun913/live-markdown.nvim)
 - [kcayme/md-view.nvim](https://github.com/kcayme/md-view.nvim) ![](https://img.shields.io/github/stars/kcayme/md-view.nvim) ![](https://img.shields.io/github/last-commit/kcayme/md-view.nvim) ![](https://img.shields.io/github/commit-activity/y/kcayme/md-view.nvim)
 - [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim) ![](https://img.shields.io/github/stars/delphinus/md-render.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-render.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-render.nvim)
+  - [yongjohnlee80/md-harpoon.nvim](https://github.com/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/md-harpoon.nvim)
 
 ##### Node
 

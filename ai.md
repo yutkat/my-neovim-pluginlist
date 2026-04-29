@@ -1006,6 +1006,7 @@
 
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
 - [dskart/nvim-claudehalp](https://github.com/dskart/nvim-claudehalp) ![](https://img.shields.io/github/stars/dskart/nvim-claudehalp) ![](https://img.shields.io/github/last-commit/dskart/nvim-claudehalp) ![](https://img.shields.io/github/commit-activity/y/dskart/nvim-claudehalp)
+- [dtnewman/remember.nvim](https://github.com/dtnewman/remember.nvim) ![](https://img.shields.io/github/stars/dtnewman/remember.nvim) ![](https://img.shields.io/github/last-commit/dtnewman/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/dtnewman/remember.nvim)
 
 ## Copy File Context
 
