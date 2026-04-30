@@ -198,6 +198,7 @@
 - [Ali-Aref/codex.nvim](https://github.com/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/stars/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/codex.nvim)
 - [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
 - [KotaroMotoda/codex-workbench.nvim](https://github.com/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/stars/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/last-commit/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/KotaroMotoda/codex-workbench.nvim)
+- [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
 
 #### Whisper
 
@@ -1027,6 +1028,7 @@
 - [EliasArruda/Treecopy.nvim](https://github.com/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/stars/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/last-commit/EliasArruda/Treecopy.nvim) ![](https://img.shields.io/github/commit-activity/y/EliasArruda/Treecopy.nvim)
 - [erraX/nvim-ctx](https://github.com/erraX/nvim-ctx) ![](https://img.shields.io/github/stars/erraX/nvim-ctx) ![](https://img.shields.io/github/last-commit/erraX/nvim-ctx) ![](https://img.shields.io/github/commit-activity/y/erraX/nvim-ctx)
 - [ZarkMedo/nvim-claude-copy-file-ref.lua](https://github.com/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/stars/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/last-commit/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/commit-activity/y/ZarkMedo/nvim-claude-copy-file-ref.lua)
+- [cxwx/copyForAI.nvim](https://github.com/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/stars/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/last-commit/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/copyForAI.nvim)
 
 ## LLM context
 

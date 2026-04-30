@@ -50,6 +50,7 @@
 - [CyanideData2/remote_flashbang.nvim](https://github.com/CyanideData2/remote_flashbang.nvim) ![](https://img.shields.io/github/stars/CyanideData2/remote_flashbang.nvim) ![](https://img.shields.io/github/last-commit/CyanideData2/remote_flashbang.nvim) ![](https://img.shields.io/github/commit-activity/y/CyanideData2/remote_flashbang.nvim)
 - [cadrianmae/signals.nvim](https://github.com/cadrianmae/signals.nvim) ![](https://img.shields.io/github/stars/cadrianmae/signals.nvim) ![](https://img.shields.io/github/last-commit/cadrianmae/signals.nvim) ![](https://img.shields.io/github/commit-activity/y/cadrianmae/signals.nvim)
 - [sulan/nvim-industrial](https://github.com/sulan/nvim-industrial) ![](https://img.shields.io/github/stars/sulan/nvim-industrial) ![](https://img.shields.io/github/last-commit/sulan/nvim-industrial) ![](https://img.shields.io/github/commit-activity/y/sulan/nvim-industrial)
+- [Baumple/soundevents.nvim](https://github.com/Baumple/soundevents.nvim) ![](https://img.shields.io/github/stars/Baumple/soundevents.nvim) ![](https://img.shields.io/github/last-commit/Baumple/soundevents.nvim) ![](https://img.shields.io/github/commit-activity/y/Baumple/soundevents.nvim)
 
 ## Screen server
 
