@@ -517,6 +517,7 @@
 - [fiquellcarter/floatnotes.nvim](https://github.com/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/stars/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/last-commit/fiquellcarter/floatnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/fiquellcarter/floatnotes.nvim)
 - [hypatia-tile/floating-note.nvim](https://github.com/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/stars/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/last-commit/hypatia-tile/floating-note.nvim) ![](https://img.shields.io/github/commit-activity/y/hypatia-tile/floating-note.nvim)
 - [Sou1lah/StickyNotes.nvim](https://github.com/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/stars/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/last-commit/Sou1lah/StickyNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/Sou1lah/StickyNotes.nvim)
+- [BellCrow/lightNotes.nvim](https://github.com/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/stars/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/last-commit/BellCrow/lightNotes.nvim) ![](https://img.shields.io/github/commit-activity/y/BellCrow/lightNotes.nvim)
 
 ### inline note
 

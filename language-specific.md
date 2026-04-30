@@ -68,6 +68,7 @@
     - [Viper](#viper)
     - [Plank](#plank)
     - [Elm](#elm)
+    - [Paradox Script](#paradox-script)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -565,6 +566,10 @@
 #### Elm
 
 - [teppix/elm-toolbox.nvim](https://github.com/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/stars/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/last-commit/teppix/elm-toolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/teppix/elm-toolbox.nvim)
+
+#### Paradox Script
+
+- [gatlinnewhouse/pdxscript.nvim](https://github.com/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/stars/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/last-commit/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gatlinnewhouse/pdxscript.nvim)
 
 ### WSL
 

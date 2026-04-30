@@ -1071,6 +1071,7 @@
 #### Viper
 #### Plank
 #### Elm
+#### Paradox Script
 ### WSL
 #### CQL
 ##### Quadrate
