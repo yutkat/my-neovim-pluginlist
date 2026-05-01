@@ -142,7 +142,6 @@
 
 ## List
 
-- [al1-ce/jsfunc.nvim](https://github.com/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/stars/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/last-commit/al1-ce/jsfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/al1-ce/jsfunc.nvim)
 
 ## Type
 
