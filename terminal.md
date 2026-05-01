@@ -10,6 +10,7 @@
   - [Send](#send)
   - [Mapping](#mapping)
   - [Jump](#jump)
+  - [Yank](#yank)
   - [Terminal mode](#terminal-mode)
   - [Terminal Selector](#terminal-selector)
   - [Command](#command)
@@ -181,6 +182,10 @@
 ### Jump
 
 - [yutkat/term-gf.nvim](https://github.com/yutkat/term-gf.nvim) ![](https://img.shields.io/github/stars/yutkat/term-gf.nvim) ![](https://img.shields.io/github/last-commit/yutkat/term-gf.nvim) ![](https://img.shields.io/github/commit-activity/y/yutkat/term-gf.nvim)
+
+### Yank
+
+- [hawknewton/termyank.nvim](https://github.com/hawknewton/termyank.nvim) ![](https://img.shields.io/github/stars/hawknewton/termyank.nvim) ![](https://img.shields.io/github/last-commit/hawknewton/termyank.nvim) ![](https://img.shields.io/github/commit-activity/y/hawknewton/termyank.nvim)
 
 ### Terminal mode
 

@@ -330,6 +330,7 @@
 - [GunawanAhmad/todo.nvim](https://github.com/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/stars/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/last-commit/GunawanAhmad/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/GunawanAhmad/todo.nvim)
 - [BeastInBash/todos.nvim](https://github.com/BeastInBash/todos.nvim) ![](https://img.shields.io/github/stars/BeastInBash/todos.nvim) ![](https://img.shields.io/github/last-commit/BeastInBash/todos.nvim) ![](https://img.shields.io/github/commit-activity/y/BeastInBash/todos.nvim)
 - [e-mar404/ticktick.nvim](https://github.com/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/stars/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/last-commit/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/commit-activity/y/e-mar404/ticktick.nvim)
+- [DaFi-1/tasknvim](https://github.com/DaFi-1/tasknvim) ![](https://img.shields.io/github/stars/DaFi-1/tasknvim) ![](https://img.shields.io/github/last-commit/DaFi-1/tasknvim) ![](https://img.shields.io/github/commit-activity/y/DaFi-1/tasknvim)
 
 #### Google Task
 
