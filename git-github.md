@@ -144,6 +144,7 @@
 - [Benjman/lvdflg.nvim](https://github.com/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/stars/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/last-commit/Benjman/lvdflg.nvim) ![](https://img.shields.io/github/commit-activity/y/Benjman/lvdflg.nvim)
 - [ardaanyazli/lg-float.nvim](https://github.com/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/stars/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/last-commit/ardaanyazli/lg-float.nvim) ![](https://img.shields.io/github/commit-activity/y/ardaanyazli/lg-float.nvim)
 - [fdarian/lazygit.nvim](https://github.com/fdarian/lazygit.nvim) ![](https://img.shields.io/github/stars/fdarian/lazygit.nvim) ![](https://img.shields.io/github/last-commit/fdarian/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/fdarian/lazygit.nvim)
+- [LibereCode/lazygit.nvim](https://github.com/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/stars/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/lazygit.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/lazygit.nvim)
 
 ### git clone
 

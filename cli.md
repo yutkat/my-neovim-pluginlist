@@ -289,6 +289,7 @@
 - [glindstedt/obazel.nvim](https://github.com/glindstedt/obazel.nvim) ![](https://img.shields.io/github/stars/glindstedt/obazel.nvim) ![](https://img.shields.io/github/last-commit/glindstedt/obazel.nvim) ![](https://img.shields.io/github/commit-activity/y/glindstedt/obazel.nvim)
 - [rwooster/bazel-build-file.nvim](https://github.com/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/stars/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/last-commit/rwooster/bazel-build-file.nvim) ![](https://img.shields.io/github/commit-activity/y/rwooster/bazel-build-file.nvim)
 - [rwooster/libbazel.nvim](https://github.com/rwooster/libbazel.nvim) ![](https://img.shields.io/github/stars/rwooster/libbazel.nvim) ![](https://img.shields.io/github/last-commit/rwooster/libbazel.nvim) ![](https://img.shields.io/github/commit-activity/y/rwooster/libbazel.nvim)
+- [dav1d-wright/bazel-tools.nvim](https://github.com/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/stars/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/last-commit/dav1d-wright/bazel-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/bazel-tools.nvim)
 
 #### ripgrep
 

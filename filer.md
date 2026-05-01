@@ -207,6 +207,7 @@
 - [iharkatkavets/remotify.nvim](https://github.com/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/stars/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/last-commit/iharkatkavets/remotify.nvim) ![](https://img.shields.io/github/commit-activity/y/iharkatkavets/remotify.nvim)
 - [poppanda/zero.nvim](https://github.com/poppanda/zero.nvim) ![](https://img.shields.io/github/stars/poppanda/zero.nvim) ![](https://img.shields.io/github/last-commit/poppanda/zero.nvim) ![](https://img.shields.io/github/commit-activity/y/poppanda/zero.nvim)
 - [hdoi/mewrw.nvim](https://github.com/hdoi/mewrw.nvim) ![](https://img.shields.io/github/stars/hdoi/mewrw.nvim) ![](https://img.shields.io/github/last-commit/hdoi/mewrw.nvim) ![](https://img.shields.io/github/commit-activity/y/hdoi/mewrw.nvim)
+- [pedrosanto90/neo-tree-ssh.nvim](https://github.com/pedrosanto90/neo-tree-ssh.nvim) ![](https://img.shields.io/github/stars/pedrosanto90/neo-tree-ssh.nvim) ![](https://img.shields.io/github/last-commit/pedrosanto90/neo-tree-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/pedrosanto90/neo-tree-ssh.nvim)
 
 ### Open directory
 

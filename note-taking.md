@@ -152,6 +152,8 @@
 - [stvhuang/memo.nvim](https://github.com/stvhuang/memo.nvim) ![](https://img.shields.io/github/stars/stvhuang/memo.nvim) ![](https://img.shields.io/github/last-commit/stvhuang/memo.nvim) ![](https://img.shields.io/github/commit-activity/y/stvhuang/memo.nvim)
 
 - [Moh-Snoussi/nvim-notes](https://github.com/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/stars/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/last-commit/Moh-Snoussi/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/Moh-Snoussi/nvim-notes)
+- [sektant1/ram.nvim](https://github.com/sektant1/ram.nvim) ![](https://img.shields.io/github/stars/sektant1/ram.nvim) ![](https://img.shields.io/github/last-commit/sektant1/ram.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/ram.nvim)
+- [yungibly/silknotes.nvim](https://github.com/yungibly/silknotes.nvim) ![](https://img.shields.io/github/stars/yungibly/silknotes.nvim) ![](https://img.shields.io/github/last-commit/yungibly/silknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/yungibly/silknotes.nvim)
 
 ### Journal
 
