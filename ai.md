@@ -646,7 +646,6 @@
 
 ### Machine Learning
 
-- [dav1d-wright/nvim-dap-cv-image-viewer](https://github.com/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/stars/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/last-commit/dav1d-wright/nvim-dap-cv-image-viewer) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/nvim-dap-cv-image-viewer)
 
 ### Fitten Code
 
@@ -783,7 +782,6 @@
 - [statiolake/agent-assisted.nvim](https://github.com/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/stars/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/last-commit/statiolake/agent-assisted.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/agent-assisted.nvim)
 - [arjunmahishi/agent-bridge.nvim](https://github.com/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/stars/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/arjunmahishi/agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/arjunmahishi/agent-bridge.nvim)
 - [e-cal/tmux-agent-bridge.nvim](https://github.com/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/stars/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/tmux-agent-bridge.nvim)
-- [emilpriver/tau.nvim](https://github.com/emilpriver/tau.nvim) ![](https://img.shields.io/github/stars/emilpriver/tau.nvim) ![](https://img.shields.io/github/last-commit/emilpriver/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/emilpriver/tau.nvim)
 - [ray-x/copilot-agent.nvim](https://github.com/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/stars/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/last-commit/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/copilot-agent.nvim)
 - [deathbeam/slopcode.nvim](https://github.com/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/stars/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/slopcode.nvim)
 - [shalekeen/nvim-agent](https://github.com/shalekeen/nvim-agent) ![](https://img.shields.io/github/stars/shalekeen/nvim-agent) ![](https://img.shields.io/github/last-commit/shalekeen/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/shalekeen/nvim-agent)
