@@ -120,6 +120,7 @@
 - [ruicsh/termite.nvim](https://github.com/ruicsh/termite.nvim) ![](https://img.shields.io/github/stars/ruicsh/termite.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/termite.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/termite.nvim)
 - [wr9dg17/essential-term.nvim](https://github.com/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/stars/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/last-commit/wr9dg17/essential-term.nvim) ![](https://img.shields.io/github/commit-activity/y/wr9dg17/essential-term.nvim)
 - [rodakd/terms.nvim](https://github.com/rodakd/terms.nvim) ![](https://img.shields.io/github/stars/rodakd/terms.nvim) ![](https://img.shields.io/github/last-commit/rodakd/terms.nvim) ![](https://img.shields.io/github/commit-activity/y/rodakd/terms.nvim)
+- [LibereCode/toggleTerm.nvim](https://github.com/LibereCode/toggleTerm.nvim) ![](https://img.shields.io/github/stars/LibereCode/toggleTerm.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/toggleTerm.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/toggleTerm.nvim)
 
 ### Open
 

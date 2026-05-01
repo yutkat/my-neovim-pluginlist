@@ -785,6 +785,8 @@
 - [e-cal/tmux-agent-bridge.nvim](https://github.com/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/stars/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/last-commit/e-cal/tmux-agent-bridge.nvim) ![](https://img.shields.io/github/commit-activity/y/e-cal/tmux-agent-bridge.nvim)
 - [emilpriver/tau.nvim](https://github.com/emilpriver/tau.nvim) ![](https://img.shields.io/github/stars/emilpriver/tau.nvim) ![](https://img.shields.io/github/last-commit/emilpriver/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/emilpriver/tau.nvim)
 - [ray-x/copilot-agent.nvim](https://github.com/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/stars/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/last-commit/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/copilot-agent.nvim)
+- [deathbeam/slopcode.nvim](https://github.com/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/stars/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/slopcode.nvim)
+- [shalekeen/nvim-agent](https://github.com/shalekeen/nvim-agent) ![](https://img.shields.io/github/stars/shalekeen/nvim-agent) ![](https://img.shields.io/github/last-commit/shalekeen/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/shalekeen/nvim-agent)
 
 ### AGENTS.md
 
@@ -806,6 +808,7 @@
 - [mnkhoi/kai.nvim](https://github.com/mnkhoi/kai.nvim) ![](https://img.shields.io/github/stars/mnkhoi/kai.nvim) ![](https://img.shields.io/github/last-commit/mnkhoi/kai.nvim) ![](https://img.shields.io/github/commit-activity/y/mnkhoi/kai.nvim)
 - [PedroKlein/pi.nvim](https://github.com/PedroKlein/pi.nvim) ![](https://img.shields.io/github/stars/PedroKlein/pi.nvim) ![](https://img.shields.io/github/last-commit/PedroKlein/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroKlein/pi.nvim)
 - [itsfrank/nine.nvim](https://github.com/itsfrank/nine.nvim) ![](https://img.shields.io/github/stars/itsfrank/nine.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/nine.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/nine.nvim)
+- [surfdude75/nvim-min-pi-agent](https://github.com/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/stars/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/last-commit/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/commit-activity/y/surfdude75/nvim-min-pi-agent)
 
 ### Amp
 
@@ -1029,6 +1032,7 @@
 - [erraX/nvim-ctx](https://github.com/erraX/nvim-ctx) ![](https://img.shields.io/github/stars/erraX/nvim-ctx) ![](https://img.shields.io/github/last-commit/erraX/nvim-ctx) ![](https://img.shields.io/github/commit-activity/y/erraX/nvim-ctx)
 - [ZarkMedo/nvim-claude-copy-file-ref.lua](https://github.com/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/stars/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/last-commit/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/commit-activity/y/ZarkMedo/nvim-claude-copy-file-ref.lua)
 - [cxwx/copyForAI.nvim](https://github.com/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/stars/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/last-commit/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/copyForAI.nvim)
+- [codingno/copy-context.nvim](https://github.com/codingno/copy-context.nvim) ![](https://img.shields.io/github/stars/codingno/copy-context.nvim) ![](https://img.shields.io/github/last-commit/codingno/copy-context.nvim) ![](https://img.shields.io/github/commit-activity/y/codingno/copy-context.nvim)
 
 ## LLM context
 

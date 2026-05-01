@@ -44,6 +44,7 @@
 - [reybits/ts-forge.nvim](https://github.com/reybits/ts-forge.nvim) ![](https://img.shields.io/github/stars/reybits/ts-forge.nvim) ![](https://img.shields.io/github/last-commit/reybits/ts-forge.nvim) ![](https://img.shields.io/github/commit-activity/y/reybits/ts-forge.nvim)
 - [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/neovim-treesitter/nvim-treesitter)
 - [FeudeyTF/dreamcode.nvim](https://github.com/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/stars/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/last-commit/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/commit-activity/y/FeudeyTF/dreamcode.nvim)
+- [IlyasYOY/ts-pack.nvim](https://github.com/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/ts-pack.nvim)
 
 ## Code Action
 
