@@ -47,7 +47,6 @@
 - [Skyppex/bellows.nvim](https://github.com/Skyppex/bellows.nvim) ![](https://img.shields.io/github/stars/Skyppex/bellows.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/bellows.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/bellows.nvim)
 - [tunachip/fold-up.nvim](https://github.com/tunachip/fold-up.nvim) ![](https://img.shields.io/github/stars/tunachip/fold-up.nvim) ![](https://img.shields.io/github/last-commit/tunachip/fold-up.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/fold-up.nvim)
 - [ThongVu1996/simple-fold.nvim](https://github.com/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/simple-fold.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/simple-fold.nvim)
-- [michael-disalvo/rustdoc.nvim](https://github.com/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/stars/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/last-commit/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/michael-disalvo/rustdoc.nvim)
 
 ### Auto fold
 
