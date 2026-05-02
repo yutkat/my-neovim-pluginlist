@@ -324,6 +324,7 @@
 - [kruemmelbande/explaintome.nvim](https://github.com/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/stars/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/last-commit/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/commit-activity/y/kruemmelbande/explaintome.nvim)
 - [makefunstuff/cogcog](https://github.com/makefunstuff/cogcog) ![](https://img.shields.io/github/stars/makefunstuff/cogcog) ![](https://img.shields.io/github/last-commit/makefunstuff/cogcog) ![](https://img.shields.io/github/commit-activity/y/makefunstuff/cogcog)
 - [Hashino/learning.nvim](https://github.com/Hashino/learning.nvim) ![](https://img.shields.io/github/stars/Hashino/learning.nvim) ![](https://img.shields.io/github/last-commit/Hashino/learning.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/learning.nvim)
+- [timothyckl/tau.nvim](https://github.com/timothyckl/tau.nvim) ![](https://img.shields.io/github/stars/timothyckl/tau.nvim) ![](https://img.shields.io/github/last-commit/timothyckl/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/timothyckl/tau.nvim)
 
 #### crush
 
@@ -646,7 +647,6 @@
 - [mikusriekstins/inlinecoder.nvim](https://github.com/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/stars/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/last-commit/mikusriekstins/inlinecoder.nvim) ![](https://img.shields.io/github/commit-activity/y/mikusriekstins/inlinecoder.nvim)
 
 ### Machine Learning
-
 
 ### Fitten Code
 
