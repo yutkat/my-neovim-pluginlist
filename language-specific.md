@@ -30,6 +30,7 @@
     - [Scala](#scala)
       - [ZIO](#zio)
     - [Dart, Flutter](#dart-flutter)
+    - [QML](#qml)
     - [MetaScript](#metascript)
     - [Clojure](#clojure)
       - [test](#test)
@@ -109,12 +110,14 @@
     - [Coralogix dataprime](#coralogix-dataprime)
     - [Kind](#kind)
     - [K](#k)
+    - [K1](#k1)
     - [Scheme](#scheme)
     - [Coq](#coq)
     - [Mojo](#mojo)
     - [Fram](#fram)
     - [NWScript](#nwscript)
     - [Janet](#janet)
+    - [IC10](#ic10)
     - [Idris2](#idris2)
     - [MatLab](#matlab)
     - [Dice](#dice)
@@ -180,17 +183,19 @@
     - [Brainfuck](#brainfuck)
     - [stenography](#stenography)
     - [Pine Script](#pine-script)
+    - [C3](#c3)
+    - [Vela](#vela)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
   - [Project Euler](#project-euler)
 - [Computer science](#computer-science)
 - [Technical interviews](#technical-interviews)
-    - [LeetCode](#leetcode)
-    - [AtCoder](#atcoder)
-    - [Codeforces](#codeforces-1)
-    - [Codewars](#codewars)
-    - [exercism](#exercism)
+  - [LeetCode](#leetcode)
+  - [AtCoder](#atcoder)
+  - [Codeforces](#codeforces-1)
+  - [Codewars](#codewars)
+  - [exercism](#exercism)
   - [Advent of code](#advent-of-code)
 - [Configuration](#configuration)
   - [School](#school)
@@ -247,7 +252,6 @@
 - [TheMikeste1/nvim-tree-sitter-cosmos](https://github.com/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/stars/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/last-commit/TheMikeste1/nvim-tree-sitter-cosmos) ![](https://img.shields.io/github/commit-activity/y/TheMikeste1/nvim-tree-sitter-cosmos)
 
 #### Oryn
-
 
 #### SudoLang
 
@@ -1050,6 +1054,7 @@
 - [prerit714/cp.nvim](https://github.com/prerit714/cp.nvim) ![](https://img.shields.io/github/stars/prerit714/cp.nvim) ![](https://img.shields.io/github/last-commit/prerit714/cp.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/cp.nvim)
 - [ddl0620/cpmode.nvim](https://github.com/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/stars/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/last-commit/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/commit-activity/y/ddl0620/cpmode.nvim)
 - [shouryadixitisverycool/dmoj.nvim](https://github.com/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/stars/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/last-commit/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/commit-activity/y/shouryadixitisverycool/dmoj.nvim)
+- [kj-111/dodona.nvim](https://github.com/kj-111/dodona.nvim) ![](https://img.shields.io/github/stars/kj-111/dodona.nvim) ![](https://img.shields.io/github/last-commit/kj-111/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-111/dodona.nvim)
 
 ### ACMOJ
 
