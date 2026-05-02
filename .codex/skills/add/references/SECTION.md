@@ -2071,6 +2071,7 @@
 ### Send
 ### Mapping
 ### Jump
+### Yank
 ### Terminal mode
 ### Terminal Selector
 ### Command

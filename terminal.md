@@ -212,3 +212,4 @@
 ### ansi escape sequence
 
 - [samsze0/terminal-filetype.nvim](https://github.com/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/stars/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/last-commit/samsze0/terminal-filetype.nvim) ![](https://img.shields.io/github/commit-activity/y/samsze0/terminal-filetype.nvim)
+- [MoaidHathot/osc-relay.nvim](https://github.com/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/stars/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/last-commit/MoaidHathot/osc-relay.nvim) ![](https://img.shields.io/github/commit-activity/y/MoaidHathot/osc-relay.nvim)

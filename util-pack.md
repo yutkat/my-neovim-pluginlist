@@ -47,6 +47,7 @@
 - [hyperstown/hacks.nvim](https://github.com/hyperstown/hacks.nvim) ![](https://img.shields.io/github/stars/hyperstown/hacks.nvim) ![](https://img.shields.io/github/last-commit/hyperstown/hacks.nvim) ![](https://img.shields.io/github/commit-activity/y/hyperstown/hacks.nvim)
 - [ImmanuelHaffner/nvu.nvim](https://github.com/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/stars/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/last-commit/ImmanuelHaffner/nvu.nvim) ![](https://img.shields.io/github/commit-activity/y/ImmanuelHaffner/nvu.nvim)
 - [kototuz/simple.nvim](https://github.com/kototuz/simple.nvim) ![](https://img.shields.io/github/stars/kototuz/simple.nvim) ![](https://img.shields.io/github/last-commit/kototuz/simple.nvim) ![](https://img.shields.io/github/commit-activity/y/kototuz/simple.nvim)
+- [swairshah/swair.nvim](https://github.com/swairshah/swair.nvim) ![](https://img.shields.io/github/stars/swairshah/swair.nvim) ![](https://img.shields.io/github/last-commit/swairshah/swair.nvim) ![](https://img.shields.io/github/commit-activity/y/swairshah/swair.nvim)
 
 ## UI
 
