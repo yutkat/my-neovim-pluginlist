@@ -631,6 +631,7 @@
 
 - [anthonymolinari/latex_preview.nvim](https://github.com/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/stars/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/last-commit/anthonymolinari/latex_preview.nvim) ![](https://img.shields.io/github/commit-activity/y/anthonymolinari/latex_preview.nvim)
 - [lucasmyers97/evince-search.nvim](https://github.com/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/stars/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/last-commit/lucasmyers97/evince-search.nvim) ![](https://img.shields.io/github/commit-activity/y/lucasmyers97/evince-search.nvim)
+- [mattia-marini/tectonic.nvim](https://github.com/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/stars/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/last-commit/mattia-marini/tectonic.nvim) ![](https://img.shields.io/github/commit-activity/y/mattia-marini/tectonic.nvim)
 
 #### conceal
 

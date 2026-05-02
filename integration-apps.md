@@ -233,6 +233,7 @@
 - [mazzoccantelorenzo/ghostty-fonts.nvim](https://github.com/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/stars/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/last-commit/mazzoccantelorenzo/ghostty-fonts.nvim) ![](https://img.shields.io/github/commit-activity/y/mazzoccantelorenzo/ghostty-fonts.nvim)
 - [stellarjmr/ghostty-repl.nvim](https://github.com/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/stars/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/last-commit/stellarjmr/ghostty-repl.nvim) ![](https://img.shields.io/github/commit-activity/y/stellarjmr/ghostty-repl.nvim)
 - [RestartDK/ghostty-navigator.nvim](https://github.com/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/stars/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/last-commit/RestartDK/ghostty-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/RestartDK/ghostty-navigator.nvim)
+- [piacsek/ghostty-mirror.nvim](https://github.com/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/stars/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/last-commit/piacsek/ghostty-mirror.nvim) ![](https://img.shields.io/github/commit-activity/y/piacsek/ghostty-mirror.nvim)
 
 #### Windows Terminal
 
@@ -568,6 +569,7 @@
 - [LeandroDeJesus-S/SayIt.nvim](https://github.com/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/stars/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/last-commit/LeandroDeJesus-S/SayIt.nvim) ![](https://img.shields.io/github/commit-activity/y/LeandroDeJesus-S/SayIt.nvim)
 - [bew4lsh/ogma.nvim](https://github.com/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/stars/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/last-commit/bew4lsh/ogma.nvim) ![](https://img.shields.io/github/commit-activity/y/bew4lsh/ogma.nvim)
 - [filtercodes/speech.nvim](https://github.com/filtercodes/speech.nvim) ![](https://img.shields.io/github/stars/filtercodes/speech.nvim) ![](https://img.shields.io/github/last-commit/filtercodes/speech.nvim) ![](https://img.shields.io/github/commit-activity/y/filtercodes/speech.nvim)
+- [TheVICoder/sirvim.nvim](https://github.com/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/stars/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/last-commit/TheVICoder/sirvim.nvim) ![](https://img.shields.io/github/commit-activity/y/TheVICoder/sirvim.nvim)
 
 ### Core dump
 

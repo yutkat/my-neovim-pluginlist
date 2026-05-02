@@ -199,6 +199,7 @@
 - [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
 - [KotaroMotoda/codex-workbench.nvim](https://github.com/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/stars/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/last-commit/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/KotaroMotoda/codex-workbench.nvim)
 - [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
+- [genkio/code-trace.nvim](https://github.com/genkio/code-trace.nvim) ![](https://img.shields.io/github/stars/genkio/code-trace.nvim) ![](https://img.shields.io/github/last-commit/genkio/code-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/genkio/code-trace.nvim)
 
 #### Whisper
 
@@ -807,6 +808,7 @@
 - [PedroKlein/pi.nvim](https://github.com/PedroKlein/pi.nvim) ![](https://img.shields.io/github/stars/PedroKlein/pi.nvim) ![](https://img.shields.io/github/last-commit/PedroKlein/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/PedroKlein/pi.nvim)
 - [itsfrank/nine.nvim](https://github.com/itsfrank/nine.nvim) ![](https://img.shields.io/github/stars/itsfrank/nine.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/nine.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/nine.nvim)
 - [surfdude75/nvim-min-pi-agent](https://github.com/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/stars/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/last-commit/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/commit-activity/y/surfdude75/nvim-min-pi-agent)
+- [swairshah/pi.nvim](https://github.com/swairshah/pi.nvim) ![](https://img.shields.io/github/stars/swairshah/pi.nvim) ![](https://img.shields.io/github/last-commit/swairshah/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/swairshah/pi.nvim)
 
 ### Amp
 
@@ -1044,6 +1046,7 @@
 - [tjdevries/riches.nvim](https://github.com/tjdevries/riches.nvim) ![](https://img.shields.io/github/stars/tjdevries/riches.nvim) ![](https://img.shields.io/github/last-commit/tjdevries/riches.nvim) ![](https://img.shields.io/github/commit-activity/y/tjdevries/riches.nvim)
 - [reh3376/mdemg.nvim](https://github.com/reh3376/mdemg.nvim) ![](https://img.shields.io/github/stars/reh3376/mdemg.nvim) ![](https://img.shields.io/github/last-commit/reh3376/mdemg.nvim) ![](https://img.shields.io/github/commit-activity/y/reh3376/mdemg.nvim)
 - [manojmallick/sigmap.nvim](https://github.com/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/stars/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/last-commit/manojmallick/sigmap.nvim) ![](https://img.shields.io/github/commit-activity/y/manojmallick/sigmap.nvim)
+- [wingitman/lup.nvim](https://github.com/wingitman/lup.nvim) ![](https://img.shields.io/github/stars/wingitman/lup.nvim) ![](https://img.shields.io/github/last-commit/wingitman/lup.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/lup.nvim)
 
 ## Model Context Protocol(MCP)
 

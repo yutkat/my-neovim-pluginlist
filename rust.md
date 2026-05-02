@@ -8,6 +8,7 @@
   - [Debug](#debug)
   - [Cargo](#cargo)
   - [Clippy](#clippy)
+  - [rustdoc](#rustdoc)
   - [Completion](#completion)
   - [Template](#template)
     - [Askama](#askama)
@@ -71,6 +72,10 @@
 
 - [johnsaigle/clippy.nvim](https://github.com/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/stars/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/last-commit/johnsaigle/clippy.nvim) ![](https://img.shields.io/github/commit-activity/y/johnsaigle/clippy.nvim)
 - [Arne-Berner/nvim-clippy](https://github.com/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/stars/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/last-commit/Arne-Berner/nvim-clippy) ![](https://img.shields.io/github/commit-activity/y/Arne-Berner/nvim-clippy)
+
+### rustdoc
+
+- [michael-disalvo/rustdoc.nvim](https://github.com/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/stars/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/last-commit/michael-disalvo/rustdoc.nvim) ![](https://img.shields.io/github/commit-activity/y/michael-disalvo/rustdoc.nvim)
 
 ### Completion
 

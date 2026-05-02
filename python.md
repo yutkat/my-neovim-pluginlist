@@ -275,6 +275,7 @@
 - [sunbluesome/ipynvim.nvim](https://github.com/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/stars/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/ipynvim.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/ipynvim.nvim)
 - [twhlynch/notebook.nvim](https://github.com/twhlynch/notebook.nvim) ![](https://img.shields.io/github/stars/twhlynch/notebook.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/notebook.nvim)
 - [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) ![](https://img.shields.io/github/stars/nghiant03/jove.nvim) ![](https://img.shields.io/github/last-commit/nghiant03/jove.nvim) ![](https://img.shields.io/github/commit-activity/y/nghiant03/jove.nvim)
+- [dominic999/nvim-ipynb](https://github.com/dominic999/nvim-ipynb) ![](https://img.shields.io/github/stars/dominic999/nvim-ipynb) ![](https://img.shields.io/github/last-commit/dominic999/nvim-ipynb) ![](https://img.shields.io/github/commit-activity/y/dominic999/nvim-ipynb)
 
 ### Pandas
 

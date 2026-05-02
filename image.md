@@ -47,6 +47,7 @@
 - [TKasperczyk/snacks-gallery.nvim](https://github.com/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/stars/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/last-commit/TKasperczyk/snacks-gallery.nvim) ![](https://img.shields.io/github/commit-activity/y/TKasperczyk/snacks-gallery.nvim)
 - [SalarAlo/rndr.nvim](https://github.com/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/stars/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/last-commit/SalarAlo/rndr.nvim) ![](https://img.shields.io/github/commit-activity/y/SalarAlo/rndr.nvim)
 - [Aethar01/imgpreview.nvim](https://github.com/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/stars/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/last-commit/Aethar01/imgpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Aethar01/imgpreview.nvim)
+- [chipsenkbeil/alt-img.nvim](https://github.com/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/stars/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/last-commit/chipsenkbeil/alt-img.nvim) ![](https://img.shields.io/github/commit-activity/y/chipsenkbeil/alt-img.nvim)
 
 ### Image Magick
 
