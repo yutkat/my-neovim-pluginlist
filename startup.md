@@ -45,6 +45,7 @@
 - [leo-alvarenga/homecoming.nvim](https://github.com/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/stars/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/last-commit/leo-alvarenga/homecoming.nvim) ![](https://img.shields.io/github/commit-activity/y/leo-alvarenga/homecoming.nvim)
 - [InfJoker/nvim-shader-art](https://github.com/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/stars/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/last-commit/InfJoker/nvim-shader-art) ![](https://img.shields.io/github/commit-activity/y/InfJoker/nvim-shader-art)
 - [tiberium/nvim-gol-dashboard](https://github.com/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/stars/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/last-commit/tiberium/nvim-gol-dashboard) ![](https://img.shields.io/github/commit-activity/y/tiberium/nvim-gol-dashboard)
+- [Kurama622/dashboard-github.nvim](https://github.com/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/stars/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/last-commit/Kurama622/dashboard-github.nvim) ![](https://img.shields.io/github/commit-activity/y/Kurama622/dashboard-github.nvim)
 
 ### Boot Arguments
 

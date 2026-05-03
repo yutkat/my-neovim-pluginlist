@@ -1883,6 +1883,7 @@
 ### Debug
 ### Cargo
 ### Clippy
+### rustdoc
 ### Completion
 ### Template
 #### Askama

@@ -216,6 +216,7 @@
 #### Cyrillic
 
 - [nativerv/cyrillic.nvim](https://github.com/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/stars/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/last-commit/nativerv/cyrillic.nvim) ![](https://img.shields.io/github/commit-activity/y/nativerv/cyrillic.nvim)
+- [stsg/punto.nvim](https://github.com/stsg/punto.nvim) ![](https://img.shields.io/github/stars/stsg/punto.nvim) ![](https://img.shields.io/github/last-commit/stsg/punto.nvim) ![](https://img.shields.io/github/commit-activity/y/stsg/punto.nvim)
 
 #### Numpad
 

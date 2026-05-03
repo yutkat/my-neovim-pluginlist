@@ -505,6 +505,7 @@
 - [AsLogd/worktabs.nvim](https://github.com/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/stars/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/last-commit/AsLogd/worktabs.nvim) ![](https://img.shields.io/github/commit-activity/y/AsLogd/worktabs.nvim)
 - [yongjohnlee80/worktree.nvim](https://github.com/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/worktree.nvim)
 - [ss0923/limb.nvim](https://github.com/ss0923/limb.nvim) ![](https://img.shields.io/github/stars/ss0923/limb.nvim) ![](https://img.shields.io/github/last-commit/ss0923/limb.nvim) ![](https://img.shields.io/github/commit-activity/y/ss0923/limb.nvim)
+- [nd70/worktrunk.nvim](https://github.com/nd70/worktrunk.nvim) ![](https://img.shields.io/github/stars/nd70/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/nd70/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/worktrunk.nvim)
 
 ### submodule
 
@@ -866,6 +867,7 @@
 ## Perforce
 
 - [motiongorilla/p4nvim](https://github.com/motiongorilla/p4nvim) ![](https://img.shields.io/github/stars/motiongorilla/p4nvim) ![](https://img.shields.io/github/last-commit/motiongorilla/p4nvim) ![](https://img.shields.io/github/commit-activity/y/motiongorilla/p4nvim)
+- [vlicecream/UVersionControlSystem.nvim](https://github.com/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/stars/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UVersionControlSystem.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UVersionControlSystem.nvim)
 
 ## CLI
 
