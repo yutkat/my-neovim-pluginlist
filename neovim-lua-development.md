@@ -164,6 +164,7 @@
 - [katawful/kreative](https://github.com/katawful/kreative) ![](https://img.shields.io/github/stars/katawful/kreative) ![](https://img.shields.io/github/last-commit/katawful/kreative) ![](https://img.shields.io/github/commit-activity/y/katawful/kreative)
 - [echasnovski/mini.colors](https://github.com/echasnovski/mini.colors) ![](https://img.shields.io/github/stars/echasnovski/mini.colors) ![](https://img.shields.io/github/last-commit/echasnovski/mini.colors) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.colors)
 - [echasnovski/mini.hues](https://github.com/echasnovski/mini.hues) ![](https://img.shields.io/github/stars/echasnovski/mini.hues) ![](https://img.shields.io/github/last-commit/echasnovski/mini.hues) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.hues)
+- [tunachip/minischeme.nvim](https://github.com/tunachip/minischeme.nvim) ![](https://img.shields.io/github/stars/tunachip/minischeme.nvim) ![](https://img.shields.io/github/last-commit/tunachip/minischeme.nvim) ![](https://img.shields.io/github/commit-activity/y/tunachip/minischeme.nvim)
 
 ## Color Creation
 

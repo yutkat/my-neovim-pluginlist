@@ -330,6 +330,7 @@
 - [thomas-maurice/lspnotify.nvim](https://github.com/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/stars/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/last-commit/thomas-maurice/lspnotify.nvim) ![](https://img.shields.io/github/commit-activity/y/thomas-maurice/lspnotify.nvim)
 - [leogps/lsp-progress.nvim](https://github.com/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/stars/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/last-commit/leogps/lsp-progress.nvim) ![](https://img.shields.io/github/commit-activity/y/leogps/lsp-progress.nvim)
 - [ryan-WORK/ohm](https://github.com/ryan-WORK/ohm) ![](https://img.shields.io/github/stars/ryan-WORK/ohm) ![](https://img.shields.io/github/last-commit/ryan-WORK/ohm) ![](https://img.shields.io/github/commit-activity/y/ryan-WORK/ohm)
+- [nicholasxjy/lsp-progress-notify.nvim](https://github.com/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/lsp-progress-notify.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/lsp-progress-notify.nvim)
 
 ### Get LSP Client
 

@@ -242,6 +242,7 @@
 - [cetanu/taskrunner.nvim](https://github.com/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/stars/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/cetanu/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/cetanu/taskrunner.nvim)
 - [bhushan/coderunner.nvim](https://github.com/bhushan/coderunner.nvim) ![](https://img.shields.io/github/stars/bhushan/coderunner.nvim) ![](https://img.shields.io/github/last-commit/bhushan/coderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/bhushan/coderunner.nvim)
 - [valonmulolli/zignite.nvim](https://github.com/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/stars/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/last-commit/valonmulolli/zignite.nvim) ![](https://img.shields.io/github/commit-activity/y/valonmulolli/zignite.nvim)
+- [abdallahsoliman00/neocoderunner.nvim](https://github.com/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/stars/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/last-commit/abdallahsoliman00/neocoderunner.nvim) ![](https://img.shields.io/github/commit-activity/y/abdallahsoliman00/neocoderunner.nvim)
 
 ### :make style
 

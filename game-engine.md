@@ -47,6 +47,7 @@
 - [taku25/USX.nvim](https://github.com/taku25/USX.nvim) ![](https://img.shields.io/github/stars/taku25/USX.nvim) ![](https://img.shields.io/github/last-commit/taku25/USX.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/USX.nvim)
 - [taku25/UEA.nvim](https://github.com/taku25/UEA.nvim) ![](https://img.shields.io/github/stars/taku25/UEA.nvim) ![](https://img.shields.io/github/last-commit/taku25/UEA.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UEA.nvim)
 - [taku25/UNX.nvim](https://github.com/taku25/UNX.nvim) ![](https://img.shields.io/github/stars/taku25/UNX.nvim) ![](https://img.shields.io/github/last-commit/taku25/UNX.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UNX.nvim)
+- [vlicecream/UTreeSitter.nvim](https://github.com/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/stars/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UTreeSitter.nvim)
 
 ### Godot
 

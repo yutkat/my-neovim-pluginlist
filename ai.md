@@ -498,6 +498,7 @@
 - [robcmills/cc.nvim](https://github.com/robcmills/cc.nvim) ![](https://img.shields.io/github/stars/robcmills/cc.nvim) ![](https://img.shields.io/github/last-commit/robcmills/cc.nvim) ![](https://img.shields.io/github/commit-activity/y/robcmills/cc.nvim)
 - [Vasilis-Narain/tidal.nvim](https://github.com/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/stars/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/last-commit/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/Vasilis-Narain/tidal.nvim)
 - [0xmoebius/claude.nvim](https://github.com/0xmoebius/claude.nvim) ![](https://img.shields.io/github/stars/0xmoebius/claude.nvim) ![](https://img.shields.io/github/last-commit/0xmoebius/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/0xmoebius/claude.nvim)
+- [heychris/cctoolbox.nvim](https://github.com/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/stars/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/last-commit/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/heychris/cctoolbox.nvim)
 
 ### Amazon Q
 
@@ -717,6 +718,7 @@
 - [nhlmg93/supertab.nvim](https://github.com/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/stars/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/last-commit/nhlmg93/supertab.nvim) ![](https://img.shields.io/github/commit-activity/y/nhlmg93/supertab.nvim)
 - [ixigo/agentify.nvim](https://github.com/ixigo/agentify.nvim) ![](https://img.shields.io/github/stars/ixigo/agentify.nvim) ![](https://img.shields.io/github/last-commit/ixigo/agentify.nvim) ![](https://img.shields.io/github/commit-activity/y/ixigo/agentify.nvim)
 - [zetatez/pilot.nvim](https://github.com/zetatez/pilot.nvim) ![](https://img.shields.io/github/stars/zetatez/pilot.nvim) ![](https://img.shields.io/github/last-commit/zetatez/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/pilot.nvim)
+- [cw228/code-assist.nvim](https://github.com/cw228/code-assist.nvim) ![](https://img.shields.io/github/stars/cw228/code-assist.nvim) ![](https://img.shields.io/github/last-commit/cw228/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/cw228/code-assist.nvim)
 
 ### Claude
 
@@ -958,6 +960,8 @@
 - [amchp/nvim-code-reviewer-helper](https://github.com/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/stars/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/last-commit/amchp/nvim-code-reviewer-helper) ![](https://img.shields.io/github/commit-activity/y/amchp/nvim-code-reviewer-helper)
 - [hamersaw/ullr.nvim](https://github.com/hamersaw/ullr.nvim) ![](https://img.shields.io/github/stars/hamersaw/ullr.nvim) ![](https://img.shields.io/github/last-commit/hamersaw/ullr.nvim) ![](https://img.shields.io/github/commit-activity/y/hamersaw/ullr.nvim)
 - [jcger/review-prompt.nvim](https://github.com/jcger/review-prompt.nvim) ![](https://img.shields.io/github/stars/jcger/review-prompt.nvim) ![](https://img.shields.io/github/last-commit/jcger/review-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/review-prompt.nvim)
+- [colewhitley/agent-review.nvim](https://github.com/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/stars/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/last-commit/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/colewhitley/agent-review.nvim)
+- [igor-gorohovsky/agent-review.nvim](https://github.com/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/stars/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/last-commit/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/igor-gorohovsky/agent-review.nvim)
 
 ## Documentation
 

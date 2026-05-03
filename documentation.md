@@ -617,6 +617,7 @@
 - [Thiago4532/mdmath.nvim](https://github.com/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/stars/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/last-commit/Thiago4532/mdmath.nvim) ![](https://img.shields.io/github/commit-activity/y/Thiago4532/mdmath.nvim)
 - [greasycat/yatr.nvim](https://github.com/greasycat/yatr.nvim) ![](https://img.shields.io/github/stars/greasycat/yatr.nvim) ![](https://img.shields.io/github/last-commit/greasycat/yatr.nvim) ![](https://img.shields.io/github/commit-activity/y/greasycat/yatr.nvim)
 - [merv1n34k/marksetta.nvim](https://github.com/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/stars/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/last-commit/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/commit-activity/y/merv1n34k/marksetta.nvim)
+- [sonv/latex-preview.nvim](https://github.com/sonv/latex-preview.nvim) ![](https://img.shields.io/github/stars/sonv/latex-preview.nvim) ![](https://img.shields.io/github/last-commit/sonv/latex-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/sonv/latex-preview.nvim)
 
 #### Image
 

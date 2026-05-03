@@ -157,6 +157,7 @@
 - [alexmccray23/filebrowser-picker.nvim](https://github.com/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/stars/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/last-commit/alexmccray23/filebrowser-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/alexmccray23/filebrowser-picker.nvim)
 - [68mschmitt/DirQuest.nvim](https://github.com/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/stars/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/DirQuest.nvim)
 - [AIntelligentTech/nvim-snacks-file-picker-mouse-support](https://github.com/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/stars/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/last-commit/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/commit-activity/y/AIntelligentTech/nvim-snacks-file-picker-mouse-support)
+- [wym2010/spark.nvim](https://github.com/wym2010/spark.nvim) ![](https://img.shields.io/github/stars/wym2010/spark.nvim) ![](https://img.shields.io/github/last-commit/wym2010/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/wym2010/spark.nvim)
 
 ### Emacs style
 
