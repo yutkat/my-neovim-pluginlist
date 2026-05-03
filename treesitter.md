@@ -30,7 +30,6 @@
 - [nvim-treesitter/nvim-treesitter-locals](https://github.com/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/nvim-treesitter/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/nvim-treesitter/nvim-treesitter-locals)
   - [PlatyPew/nvim-treesitter-locals](https://github.com/PlatyPew/nvim-treesitter-locals) ![](https://img.shields.io/github/stars/PlatyPew/nvim-treesitter-locals) ![](https://img.shields.io/github/last-commit/PlatyPew/nvim-treesitter-locals) ![](https://img.shields.io/github/commit-activity/y/PlatyPew/nvim-treesitter-locals)
 - [phanen/nvim-treesitter-diagnostics](https://github.com/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/stars/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/last-commit/phanen/nvim-treesitter-diagnostics) ![](https://img.shields.io/github/commit-activity/y/phanen/nvim-treesitter-diagnostics)
-- [vlicecream/UTreeSitter.nvim](https://github.com/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/stars/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UTreeSitter.nvim)
 
 ### Installer
 
