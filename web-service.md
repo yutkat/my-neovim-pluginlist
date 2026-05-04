@@ -41,6 +41,7 @@
   - [TargetProcess](#targetprocess)
   - [youtrack](#youtrack)
   - [Google Docs](#google-docs)
+  - [Google Workspace](#google-workspace)
   - [0x0.st](#0x0st)
   - [Gyazo](#gyazo)
   - [Twitch](#twitch)
@@ -290,6 +291,10 @@
 - [aadv1k/gdoc.vim](https://github.com/aadv1k/gdoc.vim) ![](https://img.shields.io/github/stars/aadv1k/gdoc.vim) ![](https://img.shields.io/github/last-commit/aadv1k/gdoc.vim) ![](https://img.shields.io/github/commit-activity/y/aadv1k/gdoc.vim)
 - [nithilgadde/gdocs.nvim](https://github.com/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/stars/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/last-commit/nithilgadde/gdocs.nvim) ![](https://img.shields.io/github/commit-activity/y/nithilgadde/gdocs.nvim)
 - [teddytennant/gws-docs.nvim](https://github.com/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/stars/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/last-commit/teddytennant/gws-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/teddytennant/gws-docs.nvim)
+
+### Google Workspace
+
+- [shin1ohno/gws.nvim](https://github.com/shin1ohno/gws.nvim) ![](https://img.shields.io/github/stars/shin1ohno/gws.nvim) ![](https://img.shields.io/github/last-commit/shin1ohno/gws.nvim) ![](https://img.shields.io/github/commit-activity/y/shin1ohno/gws.nvim)
 
 ### 0x0.st
 

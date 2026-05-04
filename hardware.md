@@ -25,6 +25,7 @@
     - [IPA Keyboard](#ipa-keyboard)
     - [LED](#led)
   - [Embedded Software](#embedded-software-1)
+    - [PlatformIO](#platformio)
     - [Arduino](#arduino)
     - [ESP32](#esp32)
     - [FlipperZero](#flipperzero)
@@ -140,6 +141,10 @@
 ### Embedded Software
 
 - [jedrzejboczar/nvim-dap-cortex-debug](https://github.com/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/stars/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/last-commit/jedrzejboczar/nvim-dap-cortex-debug) ![](https://img.shields.io/github/commit-activity/y/jedrzejboczar/nvim-dap-cortex-debug)
+
+#### PlatformIO
+
+- [batoaqaa/nvim-pio](https://github.com/batoaqaa/nvim-pio) ![](https://img.shields.io/github/stars/batoaqaa/nvim-pio) ![](https://img.shields.io/github/last-commit/batoaqaa/nvim-pio) ![](https://img.shields.io/github/commit-activity/y/batoaqaa/nvim-pio)
 
 #### Arduino
 

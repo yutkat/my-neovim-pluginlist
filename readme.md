@@ -328,6 +328,7 @@
 - [haolian9/furrow.nvim](https://github.com/haolian9/furrow.nvim) ![](https://img.shields.io/github/stars/haolian9/furrow.nvim) ![](https://img.shields.io/github/last-commit/haolian9/furrow.nvim) ![](https://img.shields.io/github/commit-activity/y/haolian9/furrow.nvim)
 - [CoffeeCoder1/virtual-align.nvim](https://github.com/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/stars/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/last-commit/CoffeeCoder1/virtual-align.nvim) ![](https://img.shields.io/github/commit-activity/y/CoffeeCoder1/virtual-align.nvim)
 - [AGomezCuervo/align.nvim](https://github.com/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/stars/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/last-commit/AGomezCuervo/align.nvim) ![](https://img.shields.io/github/commit-activity/y/AGomezCuervo/align.nvim)
+- [NoSpawnn/align.nvim](https://github.com/NoSpawnn/align.nvim) ![](https://img.shields.io/github/stars/NoSpawnn/align.nvim) ![](https://img.shields.io/github/last-commit/NoSpawnn/align.nvim) ![](https://img.shields.io/github/commit-activity/y/NoSpawnn/align.nvim)
 
 ### [TextObject, Operator](./textobject_operator.md)
 

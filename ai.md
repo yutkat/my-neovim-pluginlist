@@ -787,6 +787,7 @@
 - [ray-x/copilot-agent.nvim](https://github.com/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/stars/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/last-commit/ray-x/copilot-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/ray-x/copilot-agent.nvim)
 - [deathbeam/slopcode.nvim](https://github.com/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/stars/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/slopcode.nvim)
 - [shalekeen/nvim-agent](https://github.com/shalekeen/nvim-agent) ![](https://img.shields.io/github/stars/shalekeen/nvim-agent) ![](https://img.shields.io/github/last-commit/shalekeen/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/shalekeen/nvim-agent)
+- [kang8/kitty-agent-picker.nvim](https://github.com/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/stars/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/kang8/kitty-agent-picker.nvim)
 
 ### AGENTS.md
 
@@ -810,6 +811,7 @@
 - [itsfrank/nine.nvim](https://github.com/itsfrank/nine.nvim) ![](https://img.shields.io/github/stars/itsfrank/nine.nvim) ![](https://img.shields.io/github/last-commit/itsfrank/nine.nvim) ![](https://img.shields.io/github/commit-activity/y/itsfrank/nine.nvim)
 - [surfdude75/nvim-min-pi-agent](https://github.com/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/stars/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/last-commit/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/commit-activity/y/surfdude75/nvim-min-pi-agent)
 - [swairshah/pi.nvim](https://github.com/swairshah/pi.nvim) ![](https://img.shields.io/github/stars/swairshah/pi.nvim) ![](https://img.shields.io/github/last-commit/swairshah/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/swairshah/pi.nvim)
+- [erkamkavak/pi.nvim](https://github.com/erkamkavak/pi.nvim) ![](https://img.shields.io/github/stars/erkamkavak/pi.nvim) ![](https://img.shields.io/github/last-commit/erkamkavak/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/erkamkavak/pi.nvim)
 
 ### Amp
 
