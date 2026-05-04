@@ -35,6 +35,7 @@
 - [juniorsundar/cling.nvim](https://github.com/juniorsundar/cling.nvim) ![](https://img.shields.io/github/stars/juniorsundar/cling.nvim) ![](https://img.shields.io/github/last-commit/juniorsundar/cling.nvim) ![](https://img.shields.io/github/commit-activity/y/juniorsundar/cling.nvim)
 - [dypshong/cmdline.nvim](https://github.com/dypshong/cmdline.nvim) ![](https://img.shields.io/github/stars/dypshong/cmdline.nvim) ![](https://img.shields.io/github/last-commit/dypshong/cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/dypshong/cmdline.nvim)
 - [rachartier/tiny-cmdline.nvim](https://github.com/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/stars/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/last-commit/rachartier/tiny-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/rachartier/tiny-cmdline.nvim)
+- [Izzymaroc1690/tiny-cmdline.nvim](https://github.com/Izzymaroc1690/tiny-cmdline.nvim) ![](https://img.shields.io/github/stars/Izzymaroc1690/tiny-cmdline.nvim) ![](https://img.shields.io/github/last-commit/Izzymaroc1690/tiny-cmdline.nvim) ![](https://img.shields.io/github/commit-activity/y/Izzymaroc1690/tiny-cmdline.nvim)
 
 ### Normal mode command line
 

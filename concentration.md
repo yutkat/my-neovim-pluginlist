@@ -45,6 +45,7 @@
 - [Lachignol/time-bomb.nvim](https://github.com/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/stars/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/last-commit/Lachignol/time-bomb.nvim) ![](https://img.shields.io/github/commit-activity/y/Lachignol/time-bomb.nvim)
 - [mvtt25/pomodoro.nvim](https://github.com/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/stars/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/mvtt25/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/mvtt25/pomodoro.nvim)
 - [wingitman/ticky.nvim](https://github.com/wingitman/ticky.nvim) ![](https://img.shields.io/github/stars/wingitman/ticky.nvim) ![](https://img.shields.io/github/last-commit/wingitman/ticky.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/ticky.nvim)
+- [yal212/pomodoro.nvim](https://github.com/yal212/pomodoro.nvim) ![](https://img.shields.io/github/stars/yal212/pomodoro.nvim) ![](https://img.shields.io/github/last-commit/yal212/pomodoro.nvim) ![](https://img.shields.io/github/commit-activity/y/yal212/pomodoro.nvim)
 
 ## Alarm
 

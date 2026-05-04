@@ -507,6 +507,7 @@
 #### BiBTex
 #### Speech
 ### Copyright
+### Quarkdown
 ### Quarto
 ### Gist
 ### typst
@@ -769,6 +770,7 @@
 #### IPA Keyboard
 #### LED
 ### Embedded Software
+#### PlatformIO
 #### Arduino
 #### ESP32
 #### FlipperZero
@@ -2192,6 +2194,7 @@
 ### TargetProcess
 ### youtrack
 ### Google Docs
+### Google Workspace
 ### 0x0.st
 ### Gyazo
 ### Twitch

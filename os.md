@@ -64,6 +64,7 @@
 ##### Hyprland
 
 - [rgarber11/hyprland-keymap-picker.nvim](https://github.com/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/stars/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/last-commit/rgarber11/hyprland-keymap-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/rgarber11/hyprland-keymap-picker.nvim)
+- [pynappo/hyprlang-to-lua.nvim](https://github.com/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/stars/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/last-commit/pynappo/hyprlang-to-lua.nvim) ![](https://img.shields.io/github/commit-activity/y/pynappo/hyprlang-to-lua.nvim)
 
 ##### X11
 

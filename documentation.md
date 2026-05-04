@@ -69,6 +69,7 @@
     - [BiBTex](#bibtex)
     - [Speech](#speech)
   - [Copyright](#copyright)
+  - [Quarkdown](#quarkdown)
   - [Quarto](#quarto)
   - [Gist](#gist)
   - [typst](#typst)
@@ -660,6 +661,10 @@
 ### Copyright
 
 - [LittleMorph/copyright-updater.nvim](https://github.com/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/stars/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/last-commit/LittleMorph/copyright-updater.nvim) ![](https://img.shields.io/github/commit-activity/y/LittleMorph/copyright-updater.nvim)
+
+### Quarkdown
+
+- [donny-son/quarkdown.nvim](https://github.com/donny-son/quarkdown.nvim) ![](https://img.shields.io/github/stars/donny-son/quarkdown.nvim) ![](https://img.shields.io/github/last-commit/donny-son/quarkdown.nvim) ![](https://img.shields.io/github/commit-activity/y/donny-son/quarkdown.nvim)
 
 ### Quarto
 
