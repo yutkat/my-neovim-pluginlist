@@ -329,6 +329,7 @@
 - [sh1Nome/md-table-align.nvim](https://github.com/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/stars/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/last-commit/sh1Nome/md-table-align.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1Nome/md-table-align.nvim)
 - [pupepa/make-table.nvim](https://github.com/pupepa/make-table.nvim) ![](https://img.shields.io/github/stars/pupepa/make-table.nvim) ![](https://img.shields.io/github/last-commit/pupepa/make-table.nvim) ![](https://img.shields.io/github/commit-activity/y/pupepa/make-table.nvim)
 - [svm-zhang/sheetdown.nvim](https://github.com/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/stars/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/last-commit/svm-zhang/sheetdown.nvim) ![](https://img.shields.io/github/commit-activity/y/svm-zhang/sheetdown.nvim)
+- [sakakibara/tablature.nvim](https://github.com/sakakibara/tablature.nvim) ![](https://img.shields.io/github/stars/sakakibara/tablature.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/tablature.nvim)
 
 #### Frontmatter
 

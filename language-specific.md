@@ -25,6 +25,7 @@
     - [Groovy](#groovy)
       - [detekt](#detekt)
     - [Galaxy](#galaxy)
+    - [Grain](#grain)
     - [Swift](#swift)
       - [SwiftLint](#swiftlint)
     - [Scala](#scala)
@@ -323,6 +324,10 @@
 #### Galaxy
 
 - [withgalaxy/gxc.nvim](https://github.com/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/stars/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/last-commit/withgalaxy/gxc.nvim) ![](https://img.shields.io/github/commit-activity/y/withgalaxy/gxc.nvim)
+
+#### Grain
+
+- [Kara-Zor-El/grain.nvim](https://github.com/Kara-Zor-El/grain.nvim) ![](https://img.shields.io/github/stars/Kara-Zor-El/grain.nvim) ![](https://img.shields.io/github/last-commit/Kara-Zor-El/grain.nvim) ![](https://img.shields.io/github/commit-activity/y/Kara-Zor-El/grain.nvim)
 
 #### Swift
 

@@ -48,6 +48,8 @@
 - [taku25/UEA.nvim](https://github.com/taku25/UEA.nvim) ![](https://img.shields.io/github/stars/taku25/UEA.nvim) ![](https://img.shields.io/github/last-commit/taku25/UEA.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UEA.nvim)
 - [taku25/UNX.nvim](https://github.com/taku25/UNX.nvim) ![](https://img.shields.io/github/stars/taku25/UNX.nvim) ![](https://img.shields.io/github/last-commit/taku25/UNX.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/UNX.nvim)
 - [vlicecream/UTreeSitter.nvim](https://github.com/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/stars/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UTreeSitter.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UTreeSitter.nvim)
+- [vlicecream/UBuildTool.nvim](https://github.com/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UBuildTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UBuildTool.nvim)
+- [vlicecream/UDebugTool.nvim](https://github.com/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/stars/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/last-commit/vlicecream/UDebugTool.nvim) ![](https://img.shields.io/github/commit-activity/y/vlicecream/UDebugTool.nvim)
 
 ### Godot
 
