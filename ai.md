@@ -921,6 +921,7 @@
 - [e2r2fx/codecompanion-fast-apply.nvim](https://github.com/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/stars/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/last-commit/e2r2fx/codecompanion-fast-apply.nvim) ![](https://img.shields.io/github/commit-activity/y/e2r2fx/codecompanion-fast-apply.nvim)
 - [3ZsForInsomnia/vs-code-companion](https://github.com/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/stars/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/vs-code-companion) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/vs-code-companion)
 - [3ZsForInsomnia/code-companion-picker](https://github.com/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/stars/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/last-commit/3ZsForInsomnia/code-companion-picker) ![](https://img.shields.io/github/commit-activity/y/3ZsForInsomnia/code-companion-picker)
+- [khaninm/ainnoying.nvim](https://github.com/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/stars/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/last-commit/khaninm/ainnoying.nvim) ![](https://img.shields.io/github/commit-activity/y/khaninm/ainnoying.nvim)
 
 ### GitLab Guo
 
