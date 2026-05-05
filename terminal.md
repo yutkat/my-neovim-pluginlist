@@ -158,6 +158,7 @@
 - [saya-ashen/termbuffer.nvim](https://github.com/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/stars/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/last-commit/saya-ashen/termbuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/saya-ashen/termbuffer.nvim)
 - [goropikari/terminals.nvim](https://github.com/goropikari/terminals.nvim) ![](https://img.shields.io/github/stars/goropikari/terminals.nvim) ![](https://img.shields.io/github/last-commit/goropikari/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/terminals.nvim)
 - [pyotrkk/qterminal.nvim](https://github.com/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/stars/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/last-commit/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/pyotrkk/qterminal.nvim)
+- [nimbahus/tmux-popup.nvim](https://github.com/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/stars/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/last-commit/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nimbahus/tmux-popup.nvim)
 
 ### Edit
 

@@ -129,6 +129,7 @@
 
 - [jamespeilunli/nvim-flatbuffers](https://github.com/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/stars/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/last-commit/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/commit-activity/y/jamespeilunli/nvim-flatbuffers)
 - [adamatom/clangd-db-picker.nvim](https://github.com/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/stars/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/last-commit/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/adamatom/clangd-db-picker.nvim)
+- [sr-tream/clangd-preamble.nvim](https://github.com/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/stars/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/last-commit/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/commit-activity/y/sr-tream/clangd-preamble.nvim)
 
 ### Formatter
 
@@ -224,6 +225,7 @@
 - [liamvdvyver/disasm.nvim](https://github.com/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/stars/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/last-commit/liamvdvyver/disasm.nvim) ![](https://img.shields.io/github/commit-activity/y/liamvdvyver/disasm.nvim)
 - [NuggetOfficial/c4x.nvim](https://github.com/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/stars/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/last-commit/NuggetOfficial/c4x.nvim) ![](https://img.shields.io/github/commit-activity/y/NuggetOfficial/c4x.nvim)
 - [neurapy/asmview.nvim](https://github.com/neurapy/asmview.nvim) ![](https://img.shields.io/github/stars/neurapy/asmview.nvim) ![](https://img.shields.io/github/last-commit/neurapy/asmview.nvim) ![](https://img.shields.io/github/commit-activity/y/neurapy/asmview.nvim)
+- [NickTsaizer/splitasm.nvim](https://github.com/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/stars/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/last-commit/NickTsaizer/splitasm.nvim) ![](https://img.shields.io/github/commit-activity/y/NickTsaizer/splitasm.nvim)
 
 ### Cscope
 

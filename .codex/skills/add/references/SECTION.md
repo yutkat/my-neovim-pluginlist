@@ -687,6 +687,7 @@
 ### Organization
 ### CODEOWNERS
 ## GitLab
+### Merge Request
 ### GitLab CI
 ### GitLab Kanban
 ## Gitea/Forgejo
@@ -1029,6 +1030,7 @@
 #### Groovy
 ##### detekt
 #### Galaxy
+#### Grain
 #### Swift
 ##### SwiftLint
 #### Scala

@@ -73,6 +73,7 @@
   - [Organization](#organization)
   - [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
+  - [Merge Request](#merge-request)
   - [GitLab CI](#gitlab-ci)
   - [GitLab Kanban](#gitlab-kanban)
 - [Gitea/Forgejo](#giteaforgejo)
@@ -506,6 +507,7 @@
 - [yongjohnlee80/worktree.nvim](https://github.com/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/worktree.nvim)
 - [ss0923/limb.nvim](https://github.com/ss0923/limb.nvim) ![](https://img.shields.io/github/stars/ss0923/limb.nvim) ![](https://img.shields.io/github/last-commit/ss0923/limb.nvim) ![](https://img.shields.io/github/commit-activity/y/ss0923/limb.nvim)
 - [nd70/worktrunk.nvim](https://github.com/nd70/worktrunk.nvim) ![](https://img.shields.io/github/stars/nd70/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/nd70/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/worktrunk.nvim)
+- [laoz40/git-worktree.nvim](https://github.com/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/stars/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/laoz40/git-worktree.nvim)
 
 ### submodule
 
@@ -831,6 +833,10 @@
 - [themuuln/the-glab.nvim](https://github.com/themuuln/the-glab.nvim) ![](https://img.shields.io/github/stars/themuuln/the-glab.nvim) ![](https://img.shields.io/github/last-commit/themuuln/the-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/themuuln/the-glab.nvim)
 - [tachyons/gitlab-lsp.nvim](https://github.com/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab-lsp.nvim)
 - [alexdovzhanyn/glab-mr.nvim](https://github.com/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/stars/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/last-commit/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexdovzhanyn/glab-mr.nvim)
+
+### Merge Request
+
+- [cherryramatisdev/gitlab-review.nvim](https://github.com/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/gitlab-review.nvim)
 
 ### GitLab CI
 

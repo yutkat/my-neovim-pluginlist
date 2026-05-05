@@ -24,6 +24,8 @@
 
 ## Convert
 
+- [wingitman/atob.nvim](https://github.com/wingitman/atob.nvim) ![](https://img.shields.io/github/stars/wingitman/atob.nvim) ![](https://img.shields.io/github/last-commit/wingitman/atob.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/atob.nvim)
+
 ### Adding and subtracting
 
 - [monaqa/dial.nvim](https://github.com/monaqa/dial.nvim) ![](https://img.shields.io/github/stars/monaqa/dial.nvim) ![](https://img.shields.io/github/last-commit/monaqa/dial.nvim) ![](https://img.shields.io/github/commit-activity/y/monaqa/dial.nvim)
