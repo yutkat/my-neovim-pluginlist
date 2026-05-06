@@ -11,6 +11,7 @@
     - [Stacktrace](#stacktrace)
   - [Serial Version](#serial-version)
   - [Test](#test)
+  - [Practice](#practice)
   - [Coverage](#coverage)
   - [Compile](#compile)
   - [Refactor / Builder](#refactor--builder)
@@ -80,6 +81,10 @@
 - [tvntvn13/java-test-util.nvim](https://github.com/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/stars/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/last-commit/tvntvn13/java-test-util.nvim) ![](https://img.shields.io/github/commit-activity/y/tvntvn13/java-test-util.nvim)
 - [jf-lavoie/maven.test.nvim](https://github.com/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/stars/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/last-commit/jf-lavoie/maven.test.nvim) ![](https://img.shields.io/github/commit-activity/y/jf-lavoie/maven.test.nvim)
 - [gzitei/java-tester.nvim](https://github.com/gzitei/java-tester.nvim) ![](https://img.shields.io/github/stars/gzitei/java-tester.nvim) ![](https://img.shields.io/github/last-commit/gzitei/java-tester.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/java-tester.nvim)
+
+### Practice
+
+- [NachoOsella/java-logic-trainer.nvim](https://github.com/NachoOsella/java-logic-trainer.nvim) ![](https://img.shields.io/github/stars/NachoOsella/java-logic-trainer.nvim) ![](https://img.shields.io/github/last-commit/NachoOsella/java-logic-trainer.nvim) ![](https://img.shields.io/github/commit-activity/y/NachoOsella/java-logic-trainer.nvim)
 
 ### Coverage
 

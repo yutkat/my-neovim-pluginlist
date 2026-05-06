@@ -28,6 +28,7 @@
 - [dominc8/dolper.nvim](https://github.com/dominc8/dolper.nvim) ![](https://img.shields.io/github/stars/dominc8/dolper.nvim) ![](https://img.shields.io/github/last-commit/dominc8/dolper.nvim) ![](https://img.shields.io/github/commit-activity/y/dominc8/dolper.nvim)
 - [laughp/solva.nvim](https://github.com/laughp/solva.nvim) ![](https://img.shields.io/github/stars/laughp/solva.nvim) ![](https://img.shields.io/github/last-commit/laughp/solva.nvim) ![](https://img.shields.io/github/commit-activity/y/laughp/solva.nvim)
 - [XMedival/ecalc.nvim](https://github.com/XMedival/ecalc.nvim) ![](https://img.shields.io/github/stars/XMedival/ecalc.nvim) ![](https://img.shields.io/github/last-commit/XMedival/ecalc.nvim) ![](https://img.shields.io/github/commit-activity/y/XMedival/ecalc.nvim)
+- [fmorroni/livecalc.nvim](https://github.com/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/stars/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/livecalc.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/livecalc.nvim)
 
 ### Time
 

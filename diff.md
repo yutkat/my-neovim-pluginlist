@@ -55,6 +55,8 @@
 - [emmanuelchucks/patchmarks.nvim](https://github.com/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/stars/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/last-commit/emmanuelchucks/patchmarks.nvim) ![](https://img.shields.io/github/commit-activity/y/emmanuelchucks/patchmarks.nvim)
 - [Xuyuanp/review.nvim](https://github.com/Xuyuanp/review.nvim) ![](https://img.shields.io/github/stars/Xuyuanp/review.nvim) ![](https://img.shields.io/github/last-commit/Xuyuanp/review.nvim) ![](https://img.shields.io/github/commit-activity/y/Xuyuanp/review.nvim)
 - [rashedInt32/lazydiff.nvim](https://github.com/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/stars/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/last-commit/rashedInt32/lazydiff.nvim) ![](https://img.shields.io/github/commit-activity/y/rashedInt32/lazydiff.nvim)
+- [bpross/review.nvim](https://github.com/bpross/review.nvim) ![](https://img.shields.io/github/stars/bpross/review.nvim) ![](https://img.shields.io/github/last-commit/bpross/review.nvim) ![](https://img.shields.io/github/commit-activity/y/bpross/review.nvim)
+- [eltonsst/local-review.nvim](https://github.com/eltonsst/local-review.nvim) ![](https://img.shields.io/github/stars/eltonsst/local-review.nvim) ![](https://img.shields.io/github/last-commit/eltonsst/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/eltonsst/local-review.nvim)
 
 ### Diff Register
 

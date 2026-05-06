@@ -561,6 +561,7 @@
 ## Fold
 ### Auto fold
 ## Conceal
+## Narrowing
 
 # font_emoji.md
 ## Font
@@ -915,6 +916,7 @@
 #### Stacktrace
 ### Serial Version
 ### Test
+### Practice
 ### Coverage
 ### Compile
 ### Refactor / Builder
@@ -1076,6 +1078,7 @@
 #### Plank
 #### Elm
 #### Paradox Script
+#### Salesforce Formula
 ### WSL
 #### CQL
 ##### Quadrate

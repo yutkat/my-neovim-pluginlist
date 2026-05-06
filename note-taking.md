@@ -156,6 +156,7 @@
 - [sektant1/ram.nvim](https://github.com/sektant1/ram.nvim) ![](https://img.shields.io/github/stars/sektant1/ram.nvim) ![](https://img.shields.io/github/last-commit/sektant1/ram.nvim) ![](https://img.shields.io/github/commit-activity/y/sektant1/ram.nvim)
 - [yungibly/silknotes.nvim](https://github.com/yungibly/silknotes.nvim) ![](https://img.shields.io/github/stars/yungibly/silknotes.nvim) ![](https://img.shields.io/github/last-commit/yungibly/silknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/yungibly/silknotes.nvim)
 - [italianoW/brain.nvim](https://github.com/italianoW/brain.nvim) ![](https://img.shields.io/github/stars/italianoW/brain.nvim) ![](https://img.shields.io/github/last-commit/italianoW/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/italianoW/brain.nvim)
+- [shadowfax92/markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/stars/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/markdown-focus.nvim)
 
 ### Journal
 

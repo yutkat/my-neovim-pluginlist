@@ -71,6 +71,7 @@
     - [Plank](#plank)
     - [Elm](#elm)
     - [Paradox Script](#paradox-script)
+    - [Salesforce Formula](#salesforce-formula)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -579,6 +580,10 @@
 #### Paradox Script
 
 - [gatlinnewhouse/pdxscript.nvim](https://github.com/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/stars/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/last-commit/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gatlinnewhouse/pdxscript.nvim)
+
+#### Salesforce Formula
+
+- [ThatOneShortGuy/sf_formula.nvim](https://github.com/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/stars/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/last-commit/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/commit-activity/y/ThatOneShortGuy/sf_formula.nvim)
 
 ### WSL
 
