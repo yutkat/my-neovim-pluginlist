@@ -58,6 +58,7 @@
     - [SailPoint](#sailpoint)
     - [Adobe](#adobe)
     - [Salesforce](#salesforce)
+    - [Salesforce Formula](#salesforce-formula)
       - [Microsoft Dynamics 365 Business Central](#microsoft-dynamics-365-business-central)
       - [demandware](#demandware)
     - [Odoo](#odoo)
@@ -413,6 +414,10 @@
 - [PreziosiRaffaele/apex-log-analyzer.nvim](https://github.com/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/stars/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/last-commit/PreziosiRaffaele/apex-log-analyzer.nvim) ![](https://img.shields.io/github/commit-activity/y/PreziosiRaffaele/apex-log-analyzer.nvim)
 - [palecore/brocade.nvim](https://github.com/palecore/brocade.nvim) ![](https://img.shields.io/github/stars/palecore/brocade.nvim) ![](https://img.shields.io/github/last-commit/palecore/brocade.nvim) ![](https://img.shields.io/github/commit-activity/y/palecore/brocade.nvim)
 - [KamilGolis/sf.nvim](https://github.com/KamilGolis/sf.nvim) ![](https://img.shields.io/github/stars/KamilGolis/sf.nvim) ![](https://img.shields.io/github/last-commit/KamilGolis/sf.nvim) ![](https://img.shields.io/github/commit-activity/y/KamilGolis/sf.nvim)
+
+#### Salesforce Formula
+
+- [ThatOneShortGuy/sf_formula.nvim](https://github.com/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/stars/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/last-commit/ThatOneShortGuy/sf_formula.nvim) ![](https://img.shields.io/github/commit-activity/y/ThatOneShortGuy/sf_formula.nvim)
 
 ##### Microsoft Dynamics 365 Business Central
 
