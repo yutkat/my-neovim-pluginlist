@@ -648,7 +648,6 @@
 
 ### Notification
 
-- [LucasMRC/ghn.nvim](https://github.com/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/stars/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/last-commit/LucasMRC/ghn.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasMRC/ghn.nvim)
 - [jfgordon2/gh-notifications.nvim](https://github.com/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/stars/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/last-commit/jfgordon2/gh-notifications.nvim) ![](https://img.shields.io/github/commit-activity/y/jfgordon2/gh-notifications.nvim)
 
 ### Trend

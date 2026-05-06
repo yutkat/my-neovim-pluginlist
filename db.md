@@ -83,7 +83,6 @@
 - [ZzurabSiprashvili/run-sql.nvim](https://github.com/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/stars/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/last-commit/ZzurabSiprashvili/run-sql.nvim) ![](https://img.shields.io/github/commit-activity/y/ZzurabSiprashvili/run-sql.nvim)
   - [ZzurabSiprashvili/run-sql-postgresql-adapter.nvim](https://github.com/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/stars/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/last-commit/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim) ![](https://img.shields.io/github/commit-activity/y/ZzurabSiprashvili/run-sql-postgresql-adapter.nvim)
 - [0xveya/sqlc.nvim](https://github.com/0xveya/sqlc.nvim) ![](https://img.shields.io/github/stars/0xveya/sqlc.nvim) ![](https://img.shields.io/github/last-commit/0xveya/sqlc.nvim) ![](https://img.shields.io/github/commit-activity/y/0xveya/sqlc.nvim)
-- [Orbit-Lua/forge-sql-ui.nvim](https://github.com/Orbit-Lua/forge-sql-ui.nvim) ![](https://img.shields.io/github/stars/Orbit-Lua/forge-sql-ui.nvim) ![](https://img.shields.io/github/last-commit/Orbit-Lua/forge-sql-ui.nvim) ![](https://img.shields.io/github/commit-activity/y/Orbit-Lua/forge-sql-ui.nvim)
 
 ### PostgreSQL
 
