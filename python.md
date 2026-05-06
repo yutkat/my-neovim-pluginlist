@@ -276,6 +276,7 @@
 - [twhlynch/notebook.nvim](https://github.com/twhlynch/notebook.nvim) ![](https://img.shields.io/github/stars/twhlynch/notebook.nvim) ![](https://img.shields.io/github/last-commit/twhlynch/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/twhlynch/notebook.nvim)
 - [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) ![](https://img.shields.io/github/stars/nghiant03/jove.nvim) ![](https://img.shields.io/github/last-commit/nghiant03/jove.nvim) ![](https://img.shields.io/github/commit-activity/y/nghiant03/jove.nvim)
 - [dominic999/nvim-ipynb](https://github.com/dominic999/nvim-ipynb) ![](https://img.shields.io/github/stars/dominic999/nvim-ipynb) ![](https://img.shields.io/github/last-commit/dominic999/nvim-ipynb) ![](https://img.shields.io/github/commit-activity/y/dominic999/nvim-ipynb)
+- [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
 
 ### Pandas
 
@@ -311,7 +312,6 @@
 - [natori-hrj/databricks.nvim](https://github.com/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/stars/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/last-commit/natori-hrj/databricks.nvim) ![](https://img.shields.io/github/commit-activity/y/natori-hrj/databricks.nvim)
 
 ### Scrapy
-
 
 ## urtext
 
