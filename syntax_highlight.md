@@ -112,7 +112,6 @@
 - [gzitei/paint.nvim](https://github.com/gzitei/paint.nvim) ![](https://img.shields.io/github/stars/gzitei/paint.nvim) ![](https://img.shields.io/github/last-commit/gzitei/paint.nvim) ![](https://img.shields.io/github/commit-activity/y/gzitei/paint.nvim)
 - [dinh-khuong/csscolor.nvim](https://github.com/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/stars/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/last-commit/dinh-khuong/csscolor.nvim) ![](https://img.shields.io/github/commit-activity/y/dinh-khuong/csscolor.nvim)
 - [chikof/colors.nvim](https://github.com/chikof/colors.nvim) ![](https://img.shields.io/github/stars/chikof/colors.nvim) ![](https://img.shields.io/github/last-commit/chikof/colors.nvim) ![](https://img.shields.io/github/commit-activity/y/chikof/colors.nvim)
-- [mohammed-r9/colorizer.nvim](https://github.com/mohammed-r9/colorizer.nvim) ![](https://img.shields.io/github/stars/mohammed-r9/colorizer.nvim) ![](https://img.shields.io/github/last-commit/mohammed-r9/colorizer.nvim) ![](https://img.shields.io/github/commit-activity/y/mohammed-r9/colorizer.nvim)
 
 ### Color picker
 
