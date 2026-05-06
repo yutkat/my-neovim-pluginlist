@@ -89,6 +89,7 @@
 
 - [n-shift/radio.nvim](https://github.com/n-shift/radio.nvim) ![](https://img.shields.io/github/stars/n-shift/radio.nvim) ![](https://img.shields.io/github/last-commit/n-shift/radio.nvim) ![](https://img.shields.io/github/commit-activity/y/n-shift/radio.nvim)
 - [dkasak/msc.nvim](https://github.com/dkasak/msc.nvim) ![](https://img.shields.io/github/stars/dkasak/msc.nvim) ![](https://img.shields.io/github/last-commit/dkasak/msc.nvim) ![](https://img.shields.io/github/commit-activity/y/dkasak/msc.nvim)
+- [Massolari/neoment](https://github.com/Massolari/neoment) ![](https://img.shields.io/github/stars/Massolari/neoment) ![](https://img.shields.io/github/last-commit/Massolari/neoment) ![](https://img.shields.io/github/commit-activity/y/Massolari/neoment)
 
 #### Discord
 
