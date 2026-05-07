@@ -126,6 +126,7 @@
 - [rodolfo-arg/neotype](https://github.com/rodolfo-arg/neotype) ![](https://img.shields.io/github/stars/rodolfo-arg/neotype) ![](https://img.shields.io/github/last-commit/rodolfo-arg/neotype) ![](https://img.shields.io/github/commit-activity/y/rodolfo-arg/neotype)
 - [matthieudesprez/nvim-game](https://github.com/matthieudesprez/nvim-game) ![](https://img.shields.io/github/stars/matthieudesprez/nvim-game) ![](https://img.shields.io/github/last-commit/matthieudesprez/nvim-game) ![](https://img.shields.io/github/commit-activity/y/matthieudesprez/nvim-game)
 - [protivinsky/etude.nvim](https://github.com/protivinsky/etude.nvim) ![](https://img.shields.io/github/stars/protivinsky/etude.nvim) ![](https://img.shields.io/github/last-commit/protivinsky/etude.nvim) ![](https://img.shields.io/github/commit-activity/y/protivinsky/etude.nvim)
+- [barelief/buftype.nvim](https://github.com/barelief/buftype.nvim) ![](https://img.shields.io/github/stars/barelief/buftype.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftype.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftype.nvim)
 
 ### FiveM
 

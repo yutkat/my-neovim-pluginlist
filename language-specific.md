@@ -567,6 +567,7 @@
 #### Viper
 
 - [tiyn/viper.nvim](https://github.com/tiyn/viper.nvim) ![](https://img.shields.io/github/stars/tiyn/viper.nvim) ![](https://img.shields.io/github/last-commit/tiyn/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/viper.nvim)
+- [HSMF/viper.nvim](https://github.com/HSMF/viper.nvim) ![](https://img.shields.io/github/stars/HSMF/viper.nvim) ![](https://img.shields.io/github/last-commit/HSMF/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/viper.nvim)
 
 #### Plank
 

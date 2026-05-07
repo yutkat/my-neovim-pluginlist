@@ -466,6 +466,7 @@
 #### Zeal
 
 - [Betelgeuse1/zealua.nvim](https://github.com/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/stars/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/last-commit/Betelgeuse1/zealua.nvim) ![](https://img.shields.io/github/commit-activity/y/Betelgeuse1/zealua.nvim)
+- [sheymor21/zealsearch.nvim](https://github.com/sheymor21/zealsearch.nvim) ![](https://img.shields.io/github/stars/sheymor21/zealsearch.nvim) ![](https://img.shields.io/github/last-commit/sheymor21/zealsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/sheymor21/zealsearch.nvim)
 
 #### Snyk Code
 

@@ -159,6 +159,8 @@
 - [goropikari/terminals.nvim](https://github.com/goropikari/terminals.nvim) ![](https://img.shields.io/github/stars/goropikari/terminals.nvim) ![](https://img.shields.io/github/last-commit/goropikari/terminals.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/terminals.nvim)
 - [pyotrkk/qterminal.nvim](https://github.com/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/stars/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/last-commit/pyotrkk/qterminal.nvim) ![](https://img.shields.io/github/commit-activity/y/pyotrkk/qterminal.nvim)
 - [nimbahus/tmux-popup.nvim](https://github.com/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/stars/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/last-commit/nimbahus/tmux-popup.nvim) ![](https://img.shields.io/github/commit-activity/y/nimbahus/tmux-popup.nvim)
+- [dfdezmonteiro/float-term.nvim](https://github.com/dfdezmonteiro/float-term.nvim) ![](https://img.shields.io/github/stars/dfdezmonteiro/float-term.nvim) ![](https://img.shields.io/github/last-commit/dfdezmonteiro/float-term.nvim) ![](https://img.shields.io/github/commit-activity/y/dfdezmonteiro/float-term.nvim)
+- [nigromante/floatty.nvim](https://github.com/nigromante/floatty.nvim) ![](https://img.shields.io/github/stars/nigromante/floatty.nvim) ![](https://img.shields.io/github/last-commit/nigromante/floatty.nvim) ![](https://img.shields.io/github/commit-activity/y/nigromante/floatty.nvim)
 
 ### Edit
 
