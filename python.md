@@ -277,6 +277,7 @@
 - [nghiant03/jove.nvim](https://github.com/nghiant03/jove.nvim) ![](https://img.shields.io/github/stars/nghiant03/jove.nvim) ![](https://img.shields.io/github/last-commit/nghiant03/jove.nvim) ![](https://img.shields.io/github/commit-activity/y/nghiant03/jove.nvim)
 - [dominic999/nvim-ipynb](https://github.com/dominic999/nvim-ipynb) ![](https://img.shields.io/github/stars/dominic999/nvim-ipynb) ![](https://img.shields.io/github/last-commit/dominic999/nvim-ipynb) ![](https://img.shields.io/github/commit-activity/y/dominic999/nvim-ipynb)
 - [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
+- [sheng-tse/jupynvim](https://github.com/sheng-tse/jupynvim) ![](https://img.shields.io/github/stars/sheng-tse/jupynvim) ![](https://img.shields.io/github/last-commit/sheng-tse/jupynvim) ![](https://img.shields.io/github/commit-activity/y/sheng-tse/jupynvim)
 
 ### Pandas
 
