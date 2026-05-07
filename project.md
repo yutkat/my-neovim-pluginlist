@@ -80,6 +80,7 @@
 - [aoantov/pwarp.nvim](https://github.com/aoantov/pwarp.nvim) ![](https://img.shields.io/github/stars/aoantov/pwarp.nvim) ![](https://img.shields.io/github/last-commit/aoantov/pwarp.nvim) ![](https://img.shields.io/github/commit-activity/y/aoantov/pwarp.nvim)
 - [jeangiraldoo/proyecto.nvim](https://github.com/jeangiraldoo/proyecto.nvim) ![](https://img.shields.io/github/stars/jeangiraldoo/proyecto.nvim) ![](https://img.shields.io/github/last-commit/jeangiraldoo/proyecto.nvim) ![](https://img.shields.io/github/commit-activity/y/jeangiraldoo/proyecto.nvim)
 - [nhattVim/projects.nvim](https://github.com/nhattVim/projects.nvim) ![](https://img.shields.io/github/stars/nhattVim/projects.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/projects.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/projects.nvim)
+- [jfhn/nvim-vibe](https://github.com/jfhn/nvim-vibe) ![](https://img.shields.io/github/stars/jfhn/nvim-vibe) ![](https://img.shields.io/github/last-commit/jfhn/nvim-vibe) ![](https://img.shields.io/github/commit-activity/y/jfhn/nvim-vibe)
 
 ### Project Root Detector
 

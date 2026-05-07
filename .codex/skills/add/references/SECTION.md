@@ -877,6 +877,7 @@
 #### SailPoint
 #### Adobe
 #### Salesforce
+#### Salesforce Formula
 ##### Microsoft Dynamics 365 Business Central
 ##### demandware
 #### Odoo
@@ -1078,7 +1079,6 @@
 #### Plank
 #### Elm
 #### Paradox Script
-#### Salesforce Formula
 ### WSL
 #### CQL
 ##### Quadrate

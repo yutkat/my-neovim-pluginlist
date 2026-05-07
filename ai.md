@@ -324,6 +324,7 @@
 - [kruemmelbande/explaintome.nvim](https://github.com/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/stars/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/last-commit/kruemmelbande/explaintome.nvim) ![](https://img.shields.io/github/commit-activity/y/kruemmelbande/explaintome.nvim)
 - [Hashino/learning.nvim](https://github.com/Hashino/learning.nvim) ![](https://img.shields.io/github/stars/Hashino/learning.nvim) ![](https://img.shields.io/github/last-commit/Hashino/learning.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/learning.nvim)
 - [timothyckl/tau.nvim](https://github.com/timothyckl/tau.nvim) ![](https://img.shields.io/github/stars/timothyckl/tau.nvim) ![](https://img.shields.io/github/last-commit/timothyckl/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/timothyckl/tau.nvim)
+- [binbandit/kerf.nvim](https://github.com/binbandit/kerf.nvim) ![](https://img.shields.io/github/stars/binbandit/kerf.nvim) ![](https://img.shields.io/github/last-commit/binbandit/kerf.nvim) ![](https://img.shields.io/github/commit-activity/y/binbandit/kerf.nvim)
 
 #### crush
 
@@ -789,6 +790,7 @@
 - [deathbeam/slopcode.nvim](https://github.com/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/stars/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/last-commit/deathbeam/slopcode.nvim) ![](https://img.shields.io/github/commit-activity/y/deathbeam/slopcode.nvim)
 - [shalekeen/nvim-agent](https://github.com/shalekeen/nvim-agent) ![](https://img.shields.io/github/stars/shalekeen/nvim-agent) ![](https://img.shields.io/github/last-commit/shalekeen/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/shalekeen/nvim-agent)
 - [kang8/kitty-agent-picker.nvim](https://github.com/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/stars/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/kang8/kitty-agent-picker.nvim)
+- [rlch/patchwork.nvim](https://github.com/rlch/patchwork.nvim) ![](https://img.shields.io/github/stars/rlch/patchwork.nvim) ![](https://img.shields.io/github/last-commit/rlch/patchwork.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/patchwork.nvim)
 
 ### AGENTS.md
 
@@ -864,6 +866,7 @@
 - [sokinpui/coder-ask.nvim](https://github.com/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/stars/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/last-commit/sokinpui/coder-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/sokinpui/coder-ask.nvim)
 - [juhaku/aiwaku.nvim](https://github.com/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/stars/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/last-commit/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/commit-activity/y/juhaku/aiwaku.nvim)
 - [RangaRaja-R/ai-sidekick.nvim](https://github.com/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/stars/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/last-commit/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/RangaRaja-R/ai-sidekick.nvim)
+- [aleph-zero/deepagents.nvim](https://github.com/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/stars/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/last-commit/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/commit-activity/y/aleph-zero/deepagents.nvim)
 
 ## ECA
 
