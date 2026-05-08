@@ -1052,6 +1052,7 @@
 #### Haskell
 ##### GHCi
 #### Perl
+#### Pic
 #### Lisp
 #### Lingua Franca
 #### OCaml
@@ -1899,6 +1900,7 @@
 #### use
 ### lifetime
 ### rustlings
+### Rust by Example
 ### Framework
 #### Dioxus
 #### tera

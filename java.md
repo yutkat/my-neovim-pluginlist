@@ -99,6 +99,7 @@
 
 - [HSMF/java-builder.nvim](https://github.com/HSMF/java-builder.nvim) ![](https://img.shields.io/github/stars/HSMF/java-builder.nvim) ![](https://img.shields.io/github/last-commit/HSMF/java-builder.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/java-builder.nvim)
 - [axonde/delombok.nvim](https://github.com/axonde/delombok.nvim) ![](https://img.shields.io/github/stars/axonde/delombok.nvim) ![](https://img.shields.io/github/last-commit/axonde/delombok.nvim) ![](https://img.shields.io/github/commit-activity/y/axonde/delombok.nvim)
+- [wunsmat/sort-java-fields.nvim](https://github.com/wunsmat/sort-java-fields.nvim) ![](https://img.shields.io/github/stars/wunsmat/sort-java-fields.nvim) ![](https://img.shields.io/github/last-commit/wunsmat/sort-java-fields.nvim) ![](https://img.shields.io/github/commit-activity/y/wunsmat/sort-java-fields.nvim)
 
 ### Maven
 

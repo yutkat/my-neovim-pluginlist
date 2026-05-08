@@ -87,6 +87,7 @@
 - [elanmed/seek.nvim](https://github.com/elanmed/seek.nvim) ![](https://img.shields.io/github/stars/elanmed/seek.nvim) ![](https://img.shields.io/github/last-commit/elanmed/seek.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/seek.nvim)
 - [turbo-soft/skok.nvim](https://github.com/turbo-soft/skok.nvim) ![](https://img.shields.io/github/stars/turbo-soft/skok.nvim) ![](https://img.shields.io/github/last-commit/turbo-soft/skok.nvim) ![](https://img.shields.io/github/commit-activity/y/turbo-soft/skok.nvim)
 - [litvinov-git/furry.nvim](https://github.com/litvinov-git/furry.nvim) ![](https://img.shields.io/github/stars/litvinov-git/furry.nvim) ![](https://img.shields.io/github/last-commit/litvinov-git/furry.nvim) ![](https://img.shields.io/github/commit-activity/y/litvinov-git/furry.nvim)
+- [walkersumida/flash-japanese.nvim](https://github.com/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/stars/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/last-commit/walkersumida/flash-japanese.nvim) ![](https://img.shields.io/github/commit-activity/y/walkersumida/flash-japanese.nvim)
 
 ### Horizontal Move
 
