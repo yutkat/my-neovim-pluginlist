@@ -17,6 +17,7 @@
     - [use](#use)
   - [lifetime](#lifetime)
   - [rustlings](#rustlings)
+  - [Rust by Example](#rust-by-example)
   - [Framework](#framework)
     - [Dioxus](#dioxus)
     - [tera](#tera)
@@ -106,6 +107,10 @@
 ### rustlings
 
 - [martifaj/rustlings.nvim](https://github.com/martifaj/rustlings.nvim) ![](https://img.shields.io/github/stars/martifaj/rustlings.nvim) ![](https://img.shields.io/github/last-commit/martifaj/rustlings.nvim) ![](https://img.shields.io/github/commit-activity/y/martifaj/rustlings.nvim)
+
+### Rust by Example
+
+- [lmth/nvim-rust-by-example](https://github.com/lmth/nvim-rust-by-example) ![](https://img.shields.io/github/stars/lmth/nvim-rust-by-example) ![](https://img.shields.io/github/last-commit/lmth/nvim-rust-by-example) ![](https://img.shields.io/github/commit-activity/y/lmth/nvim-rust-by-example)
 
 ### Framework
 

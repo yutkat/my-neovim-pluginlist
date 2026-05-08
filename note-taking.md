@@ -72,6 +72,7 @@
 - [RuslanGagushin/obsorg.nvim](https://github.com/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/stars/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/last-commit/RuslanGagushin/obsorg.nvim) ![](https://img.shields.io/github/commit-activity/y/RuslanGagushin/obsorg.nvim)
 - [productivitykit/org-virtual-clocktime.nvim](https://github.com/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/stars/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/last-commit/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/commit-activity/y/productivitykit/org-virtual-clocktime.nvim)
 - [Sir-NoChill/morg-mode.nvim](https://github.com/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/stars/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/last-commit/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Sir-NoChill/morg-mode.nvim)
+- [sakakibara/organ.nvim](https://github.com/sakakibara/organ.nvim) ![](https://img.shields.io/github/stars/sakakibara/organ.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/organ.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/organ.nvim)
 
 ### Zettelkasten
 
@@ -479,6 +480,7 @@
 - [alexjercan/tatr.nvim](https://github.com/alexjercan/tatr.nvim) ![](https://img.shields.io/github/stars/alexjercan/tatr.nvim) ![](https://img.shields.io/github/last-commit/alexjercan/tatr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexjercan/tatr.nvim)
 - [bab014/sm.nvim](https://github.com/bab014/sm.nvim) ![](https://img.shields.io/github/stars/bab014/sm.nvim) ![](https://img.shields.io/github/last-commit/bab014/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/sm.nvim)
 - [imdevan/task-manager.nvim](https://github.com/imdevan/task-manager.nvim) ![](https://img.shields.io/github/stars/imdevan/task-manager.nvim) ![](https://img.shields.io/github/last-commit/imdevan/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/task-manager.nvim)
+- [ericmckevitt/nvim-task-manager](https://github.com/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/stars/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/last-commit/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/commit-activity/y/ericmckevitt/nvim-task-manager)
 
 ### Wiki
 

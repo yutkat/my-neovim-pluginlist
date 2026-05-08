@@ -150,6 +150,7 @@
 
 - [edKotinsky/ArduinoLSP.nvim](https://github.com/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/stars/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/last-commit/edKotinsky/ArduinoLSP.nvim) ![](https://img.shields.io/github/commit-activity/y/edKotinsky/ArduinoLSP.nvim)
 - [ctorney/arduino-tools.nvim](https://github.com/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/stars/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/last-commit/ctorney/arduino-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/ctorney/arduino-tools.nvim)
+- [phtea/arduino.nvim](https://github.com/phtea/arduino.nvim) ![](https://img.shields.io/github/stars/phtea/arduino.nvim) ![](https://img.shields.io/github/last-commit/phtea/arduino.nvim) ![](https://img.shields.io/github/commit-activity/y/phtea/arduino.nvim)
 
 #### ESP32
 

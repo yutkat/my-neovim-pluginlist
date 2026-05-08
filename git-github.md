@@ -124,6 +124,7 @@
 - [benja2998/git-ts.nvim](https://github.com/benja2998/git-ts.nvim) ![](https://img.shields.io/github/stars/benja2998/git-ts.nvim) ![](https://img.shields.io/github/last-commit/benja2998/git-ts.nvim) ![](https://img.shields.io/github/commit-activity/y/benja2998/git-ts.nvim)
 - [gingama4/middle-git.nvim](https://github.com/gingama4/middle-git.nvim) ![](https://img.shields.io/github/stars/gingama4/middle-git.nvim) ![](https://img.shields.io/github/last-commit/gingama4/middle-git.nvim) ![](https://img.shields.io/github/commit-activity/y/gingama4/middle-git.nvim)
 - [vieitesss/minifugit.nvim](https://github.com/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/stars/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/minifugit.nvim)
+- [ochcaroline/legit.nvim](https://github.com/ochcaroline/legit.nvim) ![](https://img.shields.io/github/stars/ochcaroline/legit.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/legit.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/legit.nvim)
 
 ### gitui
 

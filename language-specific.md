@@ -44,6 +44,7 @@
     - [Haskell](#haskell)
       - [GHCi](#ghci)
     - [Perl](#perl)
+    - [Pic](#pic)
     - [Lisp](#lisp)
     - [Lingua Franca](#lingua-franca)
     - [OCaml](#ocaml)
@@ -452,6 +453,10 @@
 
 - [zKurisu/perldoc.nvim](https://github.com/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/stars/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/last-commit/zKurisu/perldoc.nvim) ![](https://img.shields.io/github/commit-activity/y/zKurisu/perldoc.nvim)
 - [dnebauer/dn-perl.nvim](https://github.com/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/stars/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/last-commit/dnebauer/dn-perl.nvim) ![](https://img.shields.io/github/commit-activity/y/dnebauer/dn-perl.nvim)
+
+#### Pic
+
+- [jdearmas/pic.nvim](https://github.com/jdearmas/pic.nvim) ![](https://img.shields.io/github/stars/jdearmas/pic.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/pic.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/pic.nvim)
 
 #### Lisp
 

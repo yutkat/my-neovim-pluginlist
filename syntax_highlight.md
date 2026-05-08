@@ -53,6 +53,7 @@
 - [trippwill/modechar.nvim](https://github.com/trippwill/modechar.nvim) ![](https://img.shields.io/github/stars/trippwill/modechar.nvim) ![](https://img.shields.io/github/last-commit/trippwill/modechar.nvim) ![](https://img.shields.io/github/commit-activity/y/trippwill/modechar.nvim)
 - [racakenon/vscode-unicode-highlight.nvim](https://github.com/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/stars/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/last-commit/racakenon/vscode-unicode-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/racakenon/vscode-unicode-highlight.nvim)
 - [vsuhanov/region-highlight.nvim](https://github.com/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/stars/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/vsuhanov/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/vsuhanov/region-highlight.nvim)
+- [Felix-Kettnaker/region-highlight.nvim](https://github.com/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/stars/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/last-commit/Felix-Kettnaker/region-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/Felix-Kettnaker/region-highlight.nvim)
 - [PEMessage/inspector.nvim](https://github.com/PEMessage/inspector.nvim) ![](https://img.shields.io/github/stars/PEMessage/inspector.nvim) ![](https://img.shields.io/github/last-commit/PEMessage/inspector.nvim) ![](https://img.shields.io/github/commit-activity/y/PEMessage/inspector.nvim)
 
 ### Delimiter
@@ -271,6 +272,7 @@
 - [LucasGualtieri/visual-highlight.nvim](https://github.com/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/stars/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/last-commit/LucasGualtieri/visual-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/LucasGualtieri/visual-highlight.nvim)
 - [lost22git/highlight-visual.nvim](https://github.com/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/stars/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/last-commit/lost22git/highlight-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/lost22git/highlight-visual.nvim)
 - [BaoSiZe-bot/symbol-overlay.nvim](https://github.com/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/stars/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/last-commit/BaoSiZe-bot/symbol-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/BaoSiZe-bot/symbol-overlay.nvim)
+- [claydugo/showtime.nvim](https://github.com/claydugo/showtime.nvim) ![](https://img.shields.io/github/stars/claydugo/showtime.nvim) ![](https://img.shields.io/github/last-commit/claydugo/showtime.nvim) ![](https://img.shields.io/github/commit-activity/y/claydugo/showtime.nvim)
 
 ### Current block highlight
 
