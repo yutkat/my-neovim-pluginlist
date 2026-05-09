@@ -336,6 +336,7 @@
 - [e-mar404/ticktick.nvim](https://github.com/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/stars/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/last-commit/e-mar404/ticktick.nvim) ![](https://img.shields.io/github/commit-activity/y/e-mar404/ticktick.nvim)
 - [DaFi-1/tasknvim](https://github.com/DaFi-1/tasknvim) ![](https://img.shields.io/github/stars/DaFi-1/tasknvim) ![](https://img.shields.io/github/last-commit/DaFi-1/tasknvim) ![](https://img.shields.io/github/commit-activity/y/DaFi-1/tasknvim)
 - [LibereCode/todo-sh.nvim](https://github.com/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/stars/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/todo-sh.nvim)
+- [YlanAllouche/striked.nvim](https://github.com/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/stars/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/last-commit/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/commit-activity/y/YlanAllouche/striked.nvim)
 
 #### Google Task
 

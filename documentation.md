@@ -14,6 +14,7 @@
     - [Calculation](#calculation)
     - [Markdown preview](#markdown-preview)
       - [Lua](#lua)
+      - [Python](#python)
       - [Node](#node)
       - [Deno](#deno)
       - [Rust](#rust)
@@ -213,6 +214,10 @@
 - [kcayme/md-view.nvim](https://github.com/kcayme/md-view.nvim) ![](https://img.shields.io/github/stars/kcayme/md-view.nvim) ![](https://img.shields.io/github/last-commit/kcayme/md-view.nvim) ![](https://img.shields.io/github/commit-activity/y/kcayme/md-view.nvim)
 - [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim) ![](https://img.shields.io/github/stars/delphinus/md-render.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-render.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-render.nvim)
   - [yongjohnlee80/md-harpoon.nvim](https://github.com/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/md-harpoon.nvim)
+
+##### Python
+
+- [aldevv/md-preview.nvim](https://github.com/aldevv/md-preview.nvim) ![](https://img.shields.io/github/stars/aldevv/md-preview.nvim) ![](https://img.shields.io/github/last-commit/aldevv/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/md-preview.nvim)
 
 ##### Node
 

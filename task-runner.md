@@ -166,6 +166,8 @@
 - [agokule/taskrunner.nvim](https://github.com/agokule/taskrunner.nvim) ![](https://img.shields.io/github/stars/agokule/taskrunner.nvim) ![](https://img.shields.io/github/last-commit/agokule/taskrunner.nvim) ![](https://img.shields.io/github/commit-activity/y/agokule/taskrunner.nvim)
 - [shadowmkj/qompile.nvim](https://github.com/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/stars/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/last-commit/shadowmkj/qompile.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowmkj/qompile.nvim)
 - [Logan-Garrett/chainbuild.nvim](https://github.com/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/stars/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/last-commit/Logan-Garrett/chainbuild.nvim) ![](https://img.shields.io/github/commit-activity/y/Logan-Garrett/chainbuild.nvim)
+- [SergioBonatto/nvim-run-code](https://github.com/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/stars/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/last-commit/SergioBonatto/nvim-run-code) ![](https://img.shields.io/github/commit-activity/y/SergioBonatto/nvim-run-code)
+- [gabrielgnsilva/compile.nvim](https://github.com/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/compile.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/compile.nvim)
 
 #### Shell
 

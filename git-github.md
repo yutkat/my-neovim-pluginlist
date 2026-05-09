@@ -703,6 +703,7 @@
 - [justinlazarus/plz.nvim](https://github.com/justinlazarus/plz.nvim) ![](https://img.shields.io/github/stars/justinlazarus/plz.nvim) ![](https://img.shields.io/github/last-commit/justinlazarus/plz.nvim) ![](https://img.shields.io/github/commit-activity/y/justinlazarus/plz.nvim)
 - [shankur/zpr.nvim](https://github.com/shankur/zpr.nvim) ![](https://img.shields.io/github/stars/shankur/zpr.nvim) ![](https://img.shields.io/github/last-commit/shankur/zpr.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/zpr.nvim)
 - [shankur/snowdash.nvim](https://github.com/shankur/snowdash.nvim) ![](https://img.shields.io/github/stars/shankur/snowdash.nvim) ![](https://img.shields.io/github/last-commit/shankur/snowdash.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/snowdash.nvim)
+- [yakschuss/pr-review.nvim](https://github.com/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/stars/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/last-commit/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/yakschuss/pr-review.nvim)
 
 #### Pull Request Comment
 
@@ -710,6 +711,7 @@
 - [tobias-walle/nit.nvim](https://github.com/tobias-walle/nit.nvim) ![](https://img.shields.io/github/stars/tobias-walle/nit.nvim) ![](https://img.shields.io/github/last-commit/tobias-walle/nit.nvim) ![](https://img.shields.io/github/commit-activity/y/tobias-walle/nit.nvim)
 - [thaidmfinnick/silver-lining.nvim](https://github.com/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/stars/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/last-commit/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/commit-activity/y/thaidmfinnick/silver-lining.nvim)
 - [statiolake/gh-pr-comments.nvim](https://github.com/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/stars/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/last-commit/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/gh-pr-comments.nvim)
+- [marcelodeleon/marginalia.nvim](https://github.com/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/stars/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/last-commit/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelodeleon/marginalia.nvim)
 
 #### Assign
 

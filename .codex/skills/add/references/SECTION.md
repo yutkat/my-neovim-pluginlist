@@ -452,6 +452,7 @@
 #### Calculation
 #### Markdown preview
 ##### Lua
+##### Python
 ##### Node
 ##### Deno
 ##### Rust

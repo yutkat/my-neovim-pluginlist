@@ -33,6 +33,7 @@
 - [goropikari/pict.nvim](https://github.com/goropikari/pict.nvim) ![](https://img.shields.io/github/stars/goropikari/pict.nvim) ![](https://img.shields.io/github/last-commit/goropikari/pict.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/pict.nvim)
 - [choneface/test-runner.nvim](https://github.com/choneface/test-runner.nvim) ![](https://img.shields.io/github/stars/choneface/test-runner.nvim) ![](https://img.shields.io/github/last-commit/choneface/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/choneface/test-runner.nvim)
 - [Theacebutler/test.nvim](https://github.com/Theacebutler/test.nvim) ![](https://img.shields.io/github/stars/Theacebutler/test.nvim) ![](https://img.shields.io/github/last-commit/Theacebutler/test.nvim) ![](https://img.shields.io/github/commit-activity/y/Theacebutler/test.nvim)
+- [rasmus105/test-runner.nvim](https://github.com/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/stars/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/last-commit/rasmus105/test-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/rasmus105/test-runner.nvim)
 
 ### Test file
 

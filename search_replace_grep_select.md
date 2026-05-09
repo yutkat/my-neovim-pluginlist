@@ -92,6 +92,7 @@
 - [Axlefublr/lupa.nvim](https://github.com/Axlefublr/lupa.nvim) ![](https://img.shields.io/github/stars/Axlefublr/lupa.nvim) ![](https://img.shields.io/github/last-commit/Axlefublr/lupa.nvim) ![](https://img.shields.io/github/commit-activity/y/Axlefublr/lupa.nvim)
 - [JefferyBoy/keyword_search.nvim](https://github.com/JefferyBoy/keyword_search.nvim) ![](https://img.shields.io/github/stars/JefferyBoy/keyword_search.nvim) ![](https://img.shields.io/github/last-commit/JefferyBoy/keyword_search.nvim) ![](https://img.shields.io/github/commit-activity/y/JefferyBoy/keyword_search.nvim)
 - [yuki-yano/asterisk.nvim](https://github.com/yuki-yano/asterisk.nvim) ![](https://img.shields.io/github/stars/yuki-yano/asterisk.nvim) ![](https://img.shields.io/github/last-commit/yuki-yano/asterisk.nvim) ![](https://img.shields.io/github/commit-activity/y/yuki-yano/asterisk.nvim)
+- [liuwankang/f_find.nvim](https://github.com/liuwankang/f_find.nvim) ![](https://img.shields.io/github/stars/liuwankang/f_find.nvim) ![](https://img.shields.io/github/last-commit/liuwankang/f_find.nvim) ![](https://img.shields.io/github/commit-activity/y/liuwankang/f_find.nvim)
 
 ### Search count
 
