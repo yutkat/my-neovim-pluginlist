@@ -220,6 +220,7 @@
 - [swaits/tiny-lightbulb.nvim](https://github.com/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-lightbulb.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-lightbulb.nvim)
 - [taigrr/biscuit.nvim](https://github.com/taigrr/biscuit.nvim) ![](https://img.shields.io/github/stars/taigrr/biscuit.nvim) ![](https://img.shields.io/github/last-commit/taigrr/biscuit.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/biscuit.nvim)
 - [Chiarandini/smart-actions.nvim](https://github.com/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/stars/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/smart-actions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/smart-actions.nvim)
+- [so1ve/code-action-menu.nvim](https://github.com/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/stars/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/last-commit/so1ve/code-action-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/code-action-menu.nvim)
 
 #### Hint
 
@@ -352,6 +353,8 @@
 - [abonckus/lsp-output.nvim](https://github.com/abonckus/lsp-output.nvim) ![](https://img.shields.io/github/stars/abonckus/lsp-output.nvim) ![](https://img.shields.io/github/last-commit/abonckus/lsp-output.nvim) ![](https://img.shields.io/github/commit-activity/y/abonckus/lsp-output.nvim)
 
 #### Debug
+
+- [rtc11/kls-debug.nvim](https://github.com/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/stars/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/last-commit/rtc11/kls-debug.nvim) ![](https://img.shields.io/github/commit-activity/y/rtc11/kls-debug.nvim)
 
 #### LSP Info
 
