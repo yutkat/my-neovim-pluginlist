@@ -76,7 +76,6 @@
 ### Simple
 
 - [beauwilliams/statusline.lua](https://github.com/beauwilliams/statusline.lua) ![](https://img.shields.io/github/stars/beauwilliams/statusline.lua) ![](https://img.shields.io/github/last-commit/beauwilliams/statusline.lua) ![](https://img.shields.io/github/commit-activity/y/beauwilliams/statusline.lua)
-- [doums/ponton.nvim](https://github.com/doums/ponton.nvim) ![](https://img.shields.io/github/stars/doums/ponton.nvim) ![](https://img.shields.io/github/last-commit/doums/ponton.nvim) ![](https://img.shields.io/github/commit-activity/y/doums/ponton.nvim)
 - [amirrezaask/nline.nvim](https://github.com/amirrezaask/nline.nvim) ![](https://img.shields.io/github/stars/amirrezaask/nline.nvim) ![](https://img.shields.io/github/last-commit/amirrezaask/nline.nvim) ![](https://img.shields.io/github/commit-activity/y/amirrezaask/nline.nvim)
 - [RRethy/nvim-hotline](https://github.com/RRethy/nvim-hotline) ![](https://img.shields.io/github/stars/RRethy/nvim-hotline) ![](https://img.shields.io/github/last-commit/RRethy/nvim-hotline) ![](https://img.shields.io/github/commit-activity/y/RRethy/nvim-hotline)
 - [austinliuigi/bartender.nvim](https://github.com/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/stars/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/last-commit/austinliuigi/bartender.nvim) ![](https://img.shields.io/github/commit-activity/y/austinliuigi/bartender.nvim)

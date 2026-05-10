@@ -432,7 +432,6 @@
 
 #### Odoo
 
-- [Whenrow/odoo-ls.nvim](https://github.com/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/stars/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/last-commit/Whenrow/odoo-ls.nvim) ![](https://img.shields.io/github/commit-activity/y/Whenrow/odoo-ls.nvim)
 
 #### Accounting tool
 
