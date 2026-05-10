@@ -712,6 +712,7 @@
 - [thaidmfinnick/silver-lining.nvim](https://github.com/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/stars/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/last-commit/thaidmfinnick/silver-lining.nvim) ![](https://img.shields.io/github/commit-activity/y/thaidmfinnick/silver-lining.nvim)
 - [statiolake/gh-pr-comments.nvim](https://github.com/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/stars/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/last-commit/statiolake/gh-pr-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/statiolake/gh-pr-comments.nvim)
 - [marcelodeleon/marginalia.nvim](https://github.com/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/stars/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/last-commit/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelodeleon/marginalia.nvim)
+- [segoon/parley.nvim](https://github.com/segoon/parley.nvim) ![](https://img.shields.io/github/stars/segoon/parley.nvim) ![](https://img.shields.io/github/last-commit/segoon/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/parley.nvim)
 
 #### Assign
 

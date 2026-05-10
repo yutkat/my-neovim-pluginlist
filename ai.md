@@ -53,6 +53,7 @@
   - [Fitten Code](#fitten-code)
   - [Giant AI](#giant-ai)
   - [OpenCode](#opencode)
+  - [Alma](#alma)
   - [khulnasoft](#khulnasoft)
 - [AI Completion](#ai-completion)
   - [Claude](#claude-1)
@@ -200,6 +201,7 @@
 - [KotaroMotoda/codex-workbench.nvim](https://github.com/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/stars/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/last-commit/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/KotaroMotoda/codex-workbench.nvim)
 - [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
 - [genkio/code-trace.nvim](https://github.com/genkio/code-trace.nvim) ![](https://img.shields.io/github/stars/genkio/code-trace.nvim) ![](https://img.shields.io/github/last-commit/genkio/code-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/genkio/code-trace.nvim)
+- [AlexanderGolys/codex.nvim](https://github.com/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex.nvim)
 
 #### Whisper
 
@@ -501,6 +503,7 @@
 - [Vasilis-Narain/tidal.nvim](https://github.com/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/stars/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/last-commit/Vasilis-Narain/tidal.nvim) ![](https://img.shields.io/github/commit-activity/y/Vasilis-Narain/tidal.nvim)
 - [0xmoebius/claude.nvim](https://github.com/0xmoebius/claude.nvim) ![](https://img.shields.io/github/stars/0xmoebius/claude.nvim) ![](https://img.shields.io/github/last-commit/0xmoebius/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/0xmoebius/claude.nvim)
 - [heychris/cctoolbox.nvim](https://github.com/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/stars/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/last-commit/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/heychris/cctoolbox.nvim)
+- [Melkeydev/agent-tail.nvim](https://github.com/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/stars/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/last-commit/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/commit-activity/y/Melkeydev/agent-tail.nvim)
 
 ### Amazon Q
 
@@ -686,6 +689,10 @@
 - [sachchidanandx/opencode.nvim](https://github.com/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/opencode.nvim)
 - [13janderson/opencode-wt.nvim](https://github.com/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/stars/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/last-commit/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/opencode-wt.nvim)
 - [jorlly-collado-castro/opencode-lazy.nvim](https://github.com/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/opencode-lazy.nvim)
+
+### Alma
+
+- [pxwg/alma.nvim](https://github.com/pxwg/alma.nvim) ![](https://img.shields.io/github/stars/pxwg/alma.nvim) ![](https://img.shields.io/github/last-commit/pxwg/alma.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/alma.nvim)
 
 ### khulnasoft
 

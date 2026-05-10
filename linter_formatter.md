@@ -48,6 +48,7 @@
 - [GowayLee/reform.nvim](https://github.com/GowayLee/reform.nvim) ![](https://img.shields.io/github/stars/GowayLee/reform.nvim) ![](https://img.shields.io/github/last-commit/GowayLee/reform.nvim) ![](https://img.shields.io/github/commit-activity/y/GowayLee/reform.nvim)
 - [csmhowitzer/format-width.nvim](https://github.com/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/stars/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/last-commit/csmhowitzer/format-width.nvim) ![](https://img.shields.io/github/commit-activity/y/csmhowitzer/format-width.nvim)
 - [mmsaki/forgefmt.nvim](https://github.com/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/stars/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/forgefmt.nvim)
+- [gabrielgnsilva/minify.nvim](https://github.com/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/minify.nvim)
 
 ### Trim Whitespace
 
@@ -71,6 +72,7 @@
 ### Trim EOL
 
 - [tochikuji/cr-remover.nvim](https://github.com/tochikuji/cr-remover.nvim) ![](https://img.shields.io/github/stars/tochikuji/cr-remover.nvim) ![](https://img.shields.io/github/last-commit/tochikuji/cr-remover.nvim) ![](https://img.shields.io/github/commit-activity/y/tochikuji/cr-remover.nvim)
+- [2XiangL/remove-ctrl-m.nvim](https://github.com/2XiangL/remove-ctrl-m.nvim) ![](https://img.shields.io/github/stars/2XiangL/remove-ctrl-m.nvim) ![](https://img.shields.io/github/last-commit/2XiangL/remove-ctrl-m.nvim) ![](https://img.shields.io/github/commit-activity/y/2XiangL/remove-ctrl-m.nvim)
 
 ### Formatter switcher
 

@@ -46,6 +46,7 @@
 - [Saghen/neverflow.nvim](https://github.com/Saghen/neverflow.nvim) ![](https://img.shields.io/github/stars/Saghen/neverflow.nvim) ![](https://img.shields.io/github/last-commit/Saghen/neverflow.nvim) ![](https://img.shields.io/github/commit-activity/y/Saghen/neverflow.nvim)
 - [navid-rji/better-scrolloff.nvim](https://github.com/navid-rji/better-scrolloff.nvim) ![](https://img.shields.io/github/stars/navid-rji/better-scrolloff.nvim) ![](https://img.shields.io/github/last-commit/navid-rji/better-scrolloff.nvim) ![](https://img.shields.io/github/commit-activity/y/navid-rji/better-scrolloff.nvim)
 - [ABDsheikho/focusline.nvim](https://github.com/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/stars/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/last-commit/ABDsheikho/focusline.nvim) ![](https://img.shields.io/github/commit-activity/y/ABDsheikho/focusline.nvim)
+- [mrstruijk/typewriter.nvim](https://github.com/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/stars/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/last-commit/mrstruijk/typewriter.nvim) ![](https://img.shields.io/github/commit-activity/y/mrstruijk/typewriter.nvim)
 
 ### Smooth scroll
 
