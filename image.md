@@ -145,6 +145,7 @@
 - [nhattVim/alpha-ascii.nvim](https://github.com/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/stars/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/alpha-ascii.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/alpha-ascii.nvim)
 - [bxrne/diagrascii.nvim](https://github.com/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/stars/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/last-commit/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/diagrascii.nvim)
 - [Xetius/neoimage.nvim](https://github.com/Xetius/neoimage.nvim) ![](https://img.shields.io/github/stars/Xetius/neoimage.nvim) ![](https://img.shields.io/github/last-commit/Xetius/neoimage.nvim) ![](https://img.shields.io/github/commit-activity/y/Xetius/neoimage.nvim)
+- [svenbergner/banner_creator.nvim](https://github.com/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/stars/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/last-commit/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/commit-activity/y/svenbergner/banner_creator.nvim)
 
 ### Graph
 

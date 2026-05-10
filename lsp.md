@@ -197,6 +197,7 @@
 - [error311/wayfinder.nvim](https://github.com/error311/wayfinder.nvim) ![](https://img.shields.io/github/stars/error311/wayfinder.nvim) ![](https://img.shields.io/github/last-commit/error311/wayfinder.nvim) ![](https://img.shields.io/github/commit-activity/y/error311/wayfinder.nvim)
 - [Baruch4413/smart-tree.nvim](https://github.com/Baruch4413/smart-tree.nvim) ![](https://img.shields.io/github/stars/Baruch4413/smart-tree.nvim) ![](https://img.shields.io/github/last-commit/Baruch4413/smart-tree.nvim) ![](https://img.shields.io/github/commit-activity/y/Baruch4413/smart-tree.nvim)
 - [r4ppz/lspeek.nvim](https://github.com/r4ppz/lspeek.nvim) ![](https://img.shields.io/github/stars/r4ppz/lspeek.nvim) ![](https://img.shields.io/github/last-commit/r4ppz/lspeek.nvim) ![](https://img.shields.io/github/commit-activity/y/r4ppz/lspeek.nvim)
+- [ArtBears/floatie.nvim](https://github.com/ArtBears/floatie.nvim) ![](https://img.shields.io/github/stars/ArtBears/floatie.nvim) ![](https://img.shields.io/github/last-commit/ArtBears/floatie.nvim) ![](https://img.shields.io/github/commit-activity/y/ArtBears/floatie.nvim)
 
 #### Code action
 

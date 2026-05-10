@@ -50,6 +50,7 @@
 ### Fitten Code
 ### Giant AI
 ### OpenCode
+### Alma
 ### khulnasoft
 ## AI Completion
 ### Claude
