@@ -203,6 +203,7 @@
 - [DrKJeff16/which-colorscheme.nvim](https://github.com/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/stars/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/DrKJeff16/which-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/which-colorscheme.nvim)
 - [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ![](https://img.shields.io/github/stars/samesense/savitsky.nvim) ![](https://img.shields.io/github/last-commit/samesense/savitsky.nvim) ![](https://img.shields.io/github/commit-activity/y/samesense/savitsky.nvim)
 - [nickshiro/better-colorscheme.nvim](https://github.com/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/stars/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/nickshiro/better-colorscheme.nvim)
+- [JohnnyJumper/theme-peeper.nvim](https://github.com/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/stars/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/last-commit/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnnyJumper/theme-peeper.nvim)
 
 ### Colorscheme overwrite
 
