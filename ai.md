@@ -327,6 +327,7 @@
 - [Hashino/learning.nvim](https://github.com/Hashino/learning.nvim) ![](https://img.shields.io/github/stars/Hashino/learning.nvim) ![](https://img.shields.io/github/last-commit/Hashino/learning.nvim) ![](https://img.shields.io/github/commit-activity/y/Hashino/learning.nvim)
 - [timothyckl/tau.nvim](https://github.com/timothyckl/tau.nvim) ![](https://img.shields.io/github/stars/timothyckl/tau.nvim) ![](https://img.shields.io/github/last-commit/timothyckl/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/timothyckl/tau.nvim)
 - [binbandit/kerf.nvim](https://github.com/binbandit/kerf.nvim) ![](https://img.shields.io/github/stars/binbandit/kerf.nvim) ![](https://img.shields.io/github/last-commit/binbandit/kerf.nvim) ![](https://img.shields.io/github/commit-activity/y/binbandit/kerf.nvim)
+- [azorng/vision.nvim](https://github.com/azorng/vision.nvim) ![](https://img.shields.io/github/stars/azorng/vision.nvim) ![](https://img.shields.io/github/last-commit/azorng/vision.nvim) ![](https://img.shields.io/github/commit-activity/y/azorng/vision.nvim)
 
 #### crush
 
