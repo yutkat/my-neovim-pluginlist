@@ -84,6 +84,7 @@
 - [joao-lobao/simple-session.nvim](https://github.com/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/stars/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/last-commit/joao-lobao/simple-session.nvim) ![](https://img.shields.io/github/commit-activity/y/joao-lobao/simple-session.nvim)
 - [HubertKasperek/workalias.nvim](https://github.com/HubertKasperek/workalias.nvim) ![](https://img.shields.io/github/stars/HubertKasperek/workalias.nvim) ![](https://img.shields.io/github/last-commit/HubertKasperek/workalias.nvim) ![](https://img.shields.io/github/commit-activity/y/HubertKasperek/workalias.nvim)
 - [urtzienriquez/sessman.nvim](https://github.com/urtzienriquez/sessman.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/sessman.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/sessman.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/sessman.nvim)
+- [tunaflsh/notmux.nvim](https://github.com/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/stars/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/last-commit/tunaflsh/notmux.nvim) ![](https://img.shields.io/github/commit-activity/y/tunaflsh/notmux.nvim)
 
 ### Session Selector
 

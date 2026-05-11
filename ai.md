@@ -520,6 +520,7 @@
 - [tumillanino/deepseek-r1.nvim](https://github.com/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/stars/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/last-commit/tumillanino/deepseek-r1.nvim) ![](https://img.shields.io/github/commit-activity/y/tumillanino/deepseek-r1.nvim)
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
+- [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
 
 ### Devstral
 
@@ -729,6 +730,7 @@
 - [ixigo/agentify.nvim](https://github.com/ixigo/agentify.nvim) ![](https://img.shields.io/github/stars/ixigo/agentify.nvim) ![](https://img.shields.io/github/last-commit/ixigo/agentify.nvim) ![](https://img.shields.io/github/commit-activity/y/ixigo/agentify.nvim)
 - [zetatez/pilot.nvim](https://github.com/zetatez/pilot.nvim) ![](https://img.shields.io/github/stars/zetatez/pilot.nvim) ![](https://img.shields.io/github/last-commit/zetatez/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/pilot.nvim)
 - [cw228/code-assist.nvim](https://github.com/cw228/code-assist.nvim) ![](https://img.shields.io/github/stars/cw228/code-assist.nvim) ![](https://img.shields.io/github/last-commit/cw228/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/cw228/code-assist.nvim)
+- [myzenon/novibe.nvim](https://github.com/myzenon/novibe.nvim) ![](https://img.shields.io/github/stars/myzenon/novibe.nvim) ![](https://img.shields.io/github/last-commit/myzenon/novibe.nvim) ![](https://img.shields.io/github/commit-activity/y/myzenon/novibe.nvim)
 
 ### Claude
 
@@ -799,6 +801,7 @@
 - [shalekeen/nvim-agent](https://github.com/shalekeen/nvim-agent) ![](https://img.shields.io/github/stars/shalekeen/nvim-agent) ![](https://img.shields.io/github/last-commit/shalekeen/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/shalekeen/nvim-agent)
 - [kang8/kitty-agent-picker.nvim](https://github.com/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/stars/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/kang8/kitty-agent-picker.nvim)
 - [rlch/patchwork.nvim](https://github.com/rlch/patchwork.nvim) ![](https://img.shields.io/github/stars/rlch/patchwork.nvim) ![](https://img.shields.io/github/last-commit/rlch/patchwork.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/patchwork.nvim)
+- [hyprpilot/hyprpilot.nvim](https://github.com/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/stars/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/last-commit/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/hyprpilot/hyprpilot.nvim)
 
 ### AGENTS.md
 

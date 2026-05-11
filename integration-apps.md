@@ -438,6 +438,7 @@
 ##### hledger
 
 - [davidhelbig/hledger.nvim](https://github.com/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/stars/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/last-commit/davidhelbig/hledger.nvim) ![](https://img.shields.io/github/commit-activity/y/davidhelbig/hledger.nvim)
+- [falsycat/ledger.nvim](https://github.com/falsycat/ledger.nvim) ![](https://img.shields.io/github/stars/falsycat/ledger.nvim) ![](https://img.shields.io/github/last-commit/falsycat/ledger.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/ledger.nvim)
 
 ##### SIE
 

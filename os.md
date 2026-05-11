@@ -177,6 +177,7 @@
 #### Theme
 
 - [twenty9-labs/neotone.nvim](https://github.com/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/stars/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/last-commit/twenty9-labs/neotone.nvim) ![](https://img.shields.io/github/commit-activity/y/twenty9-labs/neotone.nvim)
+- [ttak0422/meian.nvim](https://github.com/ttak0422/meian.nvim) ![](https://img.shields.io/github/stars/ttak0422/meian.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/meian.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/meian.nvim)
 
 ### Chromebook
 

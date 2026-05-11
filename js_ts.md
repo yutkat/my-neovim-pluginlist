@@ -310,6 +310,7 @@
 - [hyperstown/nvim-live-server](https://github.com/hyperstown/nvim-live-server) ![](https://img.shields.io/github/stars/hyperstown/nvim-live-server) ![](https://img.shields.io/github/last-commit/hyperstown/nvim-live-server) ![](https://img.shields.io/github/commit-activity/y/hyperstown/nvim-live-server)
 - [gustavomarchesim/live-server.nvim](https://github.com/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/stars/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/last-commit/gustavomarchesim/live-server.nvim) ![](https://img.shields.io/github/commit-activity/y/gustavomarchesim/live-server.nvim)
 - [ankushbhagats/liveserver.nvim](https://github.com/ankushbhagats/liveserver.nvim) ![](https://img.shields.io/github/stars/ankushbhagats/liveserver.nvim) ![](https://img.shields.io/github/last-commit/ankushbhagats/liveserver.nvim) ![](https://img.shields.io/github/commit-activity/y/ankushbhagats/liveserver.nvim)
+- [Hishantik/render.nvim](https://github.com/Hishantik/render.nvim) ![](https://img.shields.io/github/stars/Hishantik/render.nvim) ![](https://img.shields.io/github/last-commit/Hishantik/render.nvim) ![](https://img.shields.io/github/commit-activity/y/Hishantik/render.nvim)
 
 ### Static site
 
