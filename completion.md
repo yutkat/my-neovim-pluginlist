@@ -125,6 +125,7 @@
 - [DrSh4dow/blink-ai.nvim](https://github.com/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/stars/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/last-commit/DrSh4dow/blink-ai.nvim) ![](https://img.shields.io/github/commit-activity/y/DrSh4dow/blink-ai.nvim)
 - [yaocccc/blink-cmp-cmdlinehistory](https://github.com/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/stars/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/last-commit/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/commit-activity/y/yaocccc/blink-cmp-cmdlinehistory)
 - [saghen/blink.lib](https://github.com/saghen/blink.lib) ![](https://img.shields.io/github/stars/saghen/blink.lib) ![](https://img.shields.io/github/last-commit/saghen/blink.lib) ![](https://img.shields.io/github/commit-activity/y/saghen/blink.lib)
+- [so1ve/blink-noice-docs.nvim](https://github.com/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/stars/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/last-commit/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/blink-noice-docs.nvim)
 
 ### Auto Completion support
 
@@ -134,7 +135,6 @@
 - [erhickey/sig-window-nvim](https://github.com/erhickey/sig-window-nvim) ![](https://img.shields.io/github/stars/erhickey/sig-window-nvim) ![](https://img.shields.io/github/last-commit/erhickey/sig-window-nvim) ![](https://img.shields.io/github/commit-activity/y/erhickey/sig-window-nvim)
 - [tranzystorekk/cmp-minikind.nvim](https://github.com/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/stars/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/last-commit/tranzystorekk/cmp-minikind.nvim) ![](https://img.shields.io/github/commit-activity/y/tranzystorekk/cmp-minikind.nvim)
 - [xzbdmw/colorful-menu.nvim](https://github.com/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/stars/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/last-commit/xzbdmw/colorful-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/xzbdmw/colorful-menu.nvim)
-- [so1ve/blink-noice-docs.nvim](https://github.com/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/stars/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/last-commit/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/blink-noice-docs.nvim)
 
 ## Standard Completion
 
