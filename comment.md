@@ -136,6 +136,7 @@
 - [SrVariable/gensec.nvim](https://github.com/SrVariable/gensec.nvim) ![](https://img.shields.io/github/stars/SrVariable/gensec.nvim) ![](https://img.shields.io/github/last-commit/SrVariable/gensec.nvim) ![](https://img.shields.io/github/commit-activity/y/SrVariable/gensec.nvim)
 - [marantz-dev/codeSeparator.nvim](https://github.com/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/stars/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/last-commit/marantz-dev/codeSeparator.nvim) ![](https://img.shields.io/github/commit-activity/y/marantz-dev/codeSeparator.nvim)
 - [YUSHACOD/sections.nvim](https://github.com/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/stars/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/last-commit/YUSHACOD/sections.nvim) ![](https://img.shields.io/github/commit-activity/y/YUSHACOD/sections.nvim)
+- [lobkovilya/comment.nvim](https://github.com/lobkovilya/comment.nvim) ![](https://img.shields.io/github/stars/lobkovilya/comment.nvim) ![](https://img.shields.io/github/last-commit/lobkovilya/comment.nvim) ![](https://img.shields.io/github/commit-activity/y/lobkovilya/comment.nvim)
 
 ### Annotation
 

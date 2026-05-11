@@ -255,6 +255,7 @@
 - [hl037/filetreeasy.nvim](https://github.com/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/stars/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/filetreeasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/filetreeasy.nvim)
   - [hl037/treeasy.nvim](https://github.com/hl037/treeasy.nvim) ![](https://img.shields.io/github/stars/hl037/treeasy.nvim) ![](https://img.shields.io/github/last-commit/hl037/treeasy.nvim) ![](https://img.shields.io/github/commit-activity/y/hl037/treeasy.nvim)
 - [0ax1/tree.nvim](https://github.com/0ax1/tree.nvim) ![](https://img.shields.io/github/stars/0ax1/tree.nvim) ![](https://img.shields.io/github/last-commit/0ax1/tree.nvim) ![](https://img.shields.io/github/commit-activity/y/0ax1/tree.nvim)
+- [tadashi-aikawa/etoile.nvim](https://github.com/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/stars/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/last-commit/tadashi-aikawa/etoile.nvim) ![](https://img.shields.io/github/commit-activity/y/tadashi-aikawa/etoile.nvim)
 
 ### File rename
 
