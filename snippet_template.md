@@ -117,6 +117,7 @@
 - [hrmeetsingh/insert-templates.nvim](https://github.com/hrmeetsingh/insert-templates.nvim) ![](https://img.shields.io/github/stars/hrmeetsingh/insert-templates.nvim) ![](https://img.shields.io/github/last-commit/hrmeetsingh/insert-templates.nvim) ![](https://img.shields.io/github/commit-activity/y/hrmeetsingh/insert-templates.nvim)
 - [codevogel/hatch.nvim](https://github.com/codevogel/hatch.nvim) ![](https://img.shields.io/github/stars/codevogel/hatch.nvim) ![](https://img.shields.io/github/last-commit/codevogel/hatch.nvim) ![](https://img.shields.io/github/commit-activity/y/codevogel/hatch.nvim)
 - [tkruer/preamble.nvim](https://github.com/tkruer/preamble.nvim) ![](https://img.shields.io/github/stars/tkruer/preamble.nvim) ![](https://img.shields.io/github/last-commit/tkruer/preamble.nvim) ![](https://img.shields.io/github/commit-activity/y/tkruer/preamble.nvim)
+- [DanishCraftYT/ScriptGen.nvim](https://github.com/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/stars/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/last-commit/DanishCraftYT/ScriptGen.nvim) ![](https://img.shields.io/github/commit-activity/y/DanishCraftYT/ScriptGen.nvim)
 
 #### README
 

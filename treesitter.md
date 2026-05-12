@@ -45,6 +45,7 @@
 - [neovim-treesitter/nvim-treesitter](https://github.com/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/stars/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/last-commit/neovim-treesitter/nvim-treesitter) ![](https://img.shields.io/github/commit-activity/y/neovim-treesitter/nvim-treesitter)
 - [FeudeyTF/dreamcode.nvim](https://github.com/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/stars/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/last-commit/FeudeyTF/dreamcode.nvim) ![](https://img.shields.io/github/commit-activity/y/FeudeyTF/dreamcode.nvim)
 - [IlyasYOY/ts-pack.nvim](https://github.com/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/ts-pack.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/ts-pack.nvim)
+- [lautisilber/nvim-treesitter-lite](https://github.com/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/stars/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/last-commit/lautisilber/nvim-treesitter-lite) ![](https://img.shields.io/github/commit-activity/y/lautisilber/nvim-treesitter-lite)
 
 ## Code Action
 

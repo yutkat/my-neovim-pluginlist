@@ -34,6 +34,7 @@
 - [johnpmitsch/vai.nvim](https://github.com/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/stars/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/last-commit/johnpmitsch/vai.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpmitsch/vai.nvim)
 - [michaelPotter/blowdart.nvim](https://github.com/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/stars/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/last-commit/michaelPotter/blowdart.nvim) ![](https://img.shields.io/github/commit-activity/y/michaelPotter/blowdart.nvim)
 - [yorickpeterse/nvim-jump](https://github.com/yorickpeterse/nvim-jump) ![](https://img.shields.io/github/stars/yorickpeterse/nvim-jump) ![](https://img.shields.io/github/last-commit/yorickpeterse/nvim-jump) ![](https://img.shields.io/github/commit-activity/y/yorickpeterse/nvim-jump)
+- [pqppq/jump.nvim](https://github.com/pqppq/jump.nvim) ![](https://img.shields.io/github/stars/pqppq/jump.nvim) ![](https://img.shields.io/github/last-commit/pqppq/jump.nvim) ![](https://img.shields.io/github/commit-activity/y/pqppq/jump.nvim)
 
 ### Error
 

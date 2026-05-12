@@ -262,6 +262,7 @@
 - [Alexandros-Pallis/neoglow.nvim](https://github.com/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/stars/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/last-commit/Alexandros-Pallis/neoglow.nvim) ![](https://img.shields.io/github/commit-activity/y/Alexandros-Pallis/neoglow.nvim)
 - [kaitoimai/prev-md.nvim](https://github.com/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/stars/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/last-commit/kaitoimai/prev-md.nvim) ![](https://img.shields.io/github/commit-activity/y/kaitoimai/prev-md.nvim)
 - [ibuibu/glow-preview.nvim](https://github.com/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/stars/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/last-commit/ibuibu/glow-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/ibuibu/glow-preview.nvim)
+- [shcode/nvim-glow](https://github.com/shcode/nvim-glow) ![](https://img.shields.io/github/stars/shcode/nvim-glow) ![](https://img.shields.io/github/last-commit/shcode/nvim-glow) ![](https://img.shields.io/github/commit-activity/y/shcode/nvim-glow)
 
 ##### Zathura
 

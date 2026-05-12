@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Natural Languages](#natural-languages)
+  - [Chinese](#chinese)
   - [French](#french)
   - [Hebrew](#hebrew)
   - [Hangul](#hangul)
@@ -19,6 +20,10 @@
 - [SanzharKuandyk/subjoyer.nvim](https://github.com/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/subjoyer.nvim)
 - [ephi-jp/polytype.nvim](https://github.com/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/stars/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/last-commit/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/commit-activity/y/ephi-jp/polytype.nvim)
 - [confusedkernel/elicit.nvim](https://github.com/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/stars/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/last-commit/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/commit-activity/y/confusedkernel/elicit.nvim)
+
+### Chinese
+
+- [kkkksu/nvim-chinese-writer](https://github.com/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/stars/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/last-commit/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/commit-activity/y/kkkksu/nvim-chinese-writer)
 
 ### French
 

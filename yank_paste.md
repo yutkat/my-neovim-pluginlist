@@ -76,6 +76,7 @@
 - [Zlatej/copy.nvim](https://github.com/Zlatej/copy.nvim) ![](https://img.shields.io/github/stars/Zlatej/copy.nvim) ![](https://img.shields.io/github/last-commit/Zlatej/copy.nvim) ![](https://img.shields.io/github/commit-activity/y/Zlatej/copy.nvim)
 - [kenfdev/nvim-clip-line-ref](https://github.com/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/stars/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/last-commit/kenfdev/nvim-clip-line-ref) ![](https://img.shields.io/github/commit-activity/y/kenfdev/nvim-clip-line-ref)
 - [chadnorvell/yank-ref.nvim](https://github.com/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/stars/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/yank-ref.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/yank-ref.nvim)
+- [KudoLayton/refcopy.nvim](https://github.com/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/stars/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/last-commit/KudoLayton/refcopy.nvim) ![](https://img.shields.io/github/commit-activity/y/KudoLayton/refcopy.nvim)
 
 ### yank node
 

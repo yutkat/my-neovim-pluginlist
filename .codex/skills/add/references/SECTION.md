@@ -1380,6 +1380,7 @@
 
 # natural-languages.md
 ## Natural Languages
+### Chinese
 ### French
 ### Hebrew
 ### Hangul
