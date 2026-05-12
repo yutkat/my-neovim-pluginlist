@@ -531,6 +531,8 @@
 
 ### git ls-files
 
+- [denxeiy/gitbare.nvim](https://github.com/denxeiy/gitbare.nvim) ![](https://img.shields.io/github/stars/denxeiy/gitbare.nvim) ![](https://img.shields.io/github/last-commit/denxeiy/gitbare.nvim) ![](https://img.shields.io/github/commit-activity/y/denxeiy/gitbare.nvim)
+
 ### git jump
 
 - [ohainle/gitjump.nvim](https://github.com/ohainle/gitjump.nvim) ![](https://img.shields.io/github/stars/ohainle/gitjump.nvim) ![](https://img.shields.io/github/last-commit/ohainle/gitjump.nvim) ![](https://img.shields.io/github/commit-activity/y/ohainle/gitjump.nvim)
@@ -580,6 +582,7 @@
 - [tilupe/submission.nvim](https://github.com/tilupe/submission.nvim) ![](https://img.shields.io/github/stars/tilupe/submission.nvim) ![](https://img.shields.io/github/last-commit/tilupe/submission.nvim) ![](https://img.shields.io/github/commit-activity/y/tilupe/submission.nvim)
 - [Charlie-83/jjsigns.nvim](https://github.com/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/stars/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/last-commit/Charlie-83/jjsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/Charlie-83/jjsigns.nvim)
 - [Skyppex/kanji.nvim](https://github.com/Skyppex/kanji.nvim) ![](https://img.shields.io/github/stars/Skyppex/kanji.nvim) ![](https://img.shields.io/github/last-commit/Skyppex/kanji.nvim) ![](https://img.shields.io/github/commit-activity/y/Skyppex/kanji.nvim)
+- [noidilin/jjui.nvim](https://github.com/noidilin/jjui.nvim) ![](https://img.shields.io/github/stars/noidilin/jjui.nvim) ![](https://img.shields.io/github/last-commit/noidilin/jjui.nvim) ![](https://img.shields.io/github/commit-activity/y/noidilin/jjui.nvim)
 
 #### diff
 
@@ -714,6 +717,7 @@
 - [marcelodeleon/marginalia.nvim](https://github.com/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/stars/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/last-commit/marcelodeleon/marginalia.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelodeleon/marginalia.nvim)
 - [segoon/parley.nvim](https://github.com/segoon/parley.nvim) ![](https://img.shields.io/github/stars/segoon/parley.nvim) ![](https://img.shields.io/github/last-commit/segoon/parley.nvim) ![](https://img.shields.io/github/commit-activity/y/segoon/parley.nvim)
 - [Furkanzmc/mkreview.nvim](https://github.com/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/stars/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/last-commit/Furkanzmc/mkreview.nvim) ![](https://img.shields.io/github/commit-activity/y/Furkanzmc/mkreview.nvim)
+- [jesses-code-adventures/diffview-pr.nvim](https://github.com/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/stars/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/last-commit/jesses-code-adventures/diffview-pr.nvim) ![](https://img.shields.io/github/commit-activity/y/jesses-code-adventures/diffview-pr.nvim)
 
 #### Assign
 

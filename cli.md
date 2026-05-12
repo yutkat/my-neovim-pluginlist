@@ -218,6 +218,7 @@
 #### mise
 
 - [carldaws/miser.nvim](https://github.com/carldaws/miser.nvim) ![](https://img.shields.io/github/stars/carldaws/miser.nvim) ![](https://img.shields.io/github/last-commit/carldaws/miser.nvim) ![](https://img.shields.io/github/commit-activity/y/carldaws/miser.nvim)
+- [stephane-klein/mise-treesitter-queries.nvim](https://github.com/stephane-klein/mise-treesitter-queries.nvim) ![](https://img.shields.io/github/stars/stephane-klein/mise-treesitter-queries.nvim) ![](https://img.shields.io/github/last-commit/stephane-klein/mise-treesitter-queries.nvim) ![](https://img.shields.io/github/commit-activity/y/stephane-klein/mise-treesitter-queries.nvim)
 
 #### Chamber
 

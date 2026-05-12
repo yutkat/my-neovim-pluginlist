@@ -224,6 +224,7 @@
 
 - [sgross-emlix/angerona.nvim](https://github.com/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/stars/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/last-commit/sgross-emlix/angerona.nvim) ![](https://img.shields.io/github/commit-activity/y/sgross-emlix/angerona.nvim)
 - [fuyu510/redmine_tag_opener.nvim](https://github.com/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/stars/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/last-commit/fuyu510/redmine_tag_opener.nvim) ![](https://img.shields.io/github/commit-activity/y/fuyu510/redmine_tag_opener.nvim)
+- [willysk73/redmine.nvim](https://github.com/willysk73/redmine.nvim) ![](https://img.shields.io/github/stars/willysk73/redmine.nvim) ![](https://img.shields.io/github/last-commit/willysk73/redmine.nvim) ![](https://img.shields.io/github/commit-activity/y/willysk73/redmine.nvim)
 
 ### Asana
 

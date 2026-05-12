@@ -505,6 +505,7 @@
 - [0xmoebius/claude.nvim](https://github.com/0xmoebius/claude.nvim) ![](https://img.shields.io/github/stars/0xmoebius/claude.nvim) ![](https://img.shields.io/github/last-commit/0xmoebius/claude.nvim) ![](https://img.shields.io/github/commit-activity/y/0xmoebius/claude.nvim)
 - [heychris/cctoolbox.nvim](https://github.com/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/stars/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/last-commit/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/heychris/cctoolbox.nvim)
 - [Melkeydev/agent-tail.nvim](https://github.com/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/stars/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/last-commit/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/commit-activity/y/Melkeydev/agent-tail.nvim)
+- [falsycat/claudecode.nvim](https://github.com/falsycat/claudecode.nvim) ![](https://img.shields.io/github/stars/falsycat/claudecode.nvim) ![](https://img.shields.io/github/last-commit/falsycat/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/claudecode.nvim)
 
 ### Amazon Q
 
