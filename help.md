@@ -62,6 +62,7 @@
 - [JulianSchubel/nvim-cheatsheet](https://github.com/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-cheatsheet)
 - [yorik1984/telescope-cheat-md.nvim](https://github.com/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/stars/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/telescope-cheat-md.nvim)
 - [gabrielgnsilva/regex-cheatsheet.nvim](https://github.com/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/regex-cheatsheet.nvim)
+- [nhattVim/cheatsheet.nvim](https://github.com/nhattVim/cheatsheet.nvim) ![](https://img.shields.io/github/stars/nhattVim/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/cheatsheet.nvim)
 
 ### Tips
 
