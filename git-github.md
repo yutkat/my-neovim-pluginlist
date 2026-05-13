@@ -639,6 +639,7 @@
 - [georgesnoe/lazygithub.nvim](https://github.com/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/stars/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/last-commit/georgesnoe/lazygithub.nvim) ![](https://img.shields.io/github/commit-activity/y/georgesnoe/lazygithub.nvim)
 - [e-roux/gh.nvim](https://github.com/e-roux/gh.nvim) ![](https://img.shields.io/github/stars/e-roux/gh.nvim) ![](https://img.shields.io/github/last-commit/e-roux/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/e-roux/gh.nvim)
 - [krshrimali/gh.nvim](https://github.com/krshrimali/gh.nvim) ![](https://img.shields.io/github/stars/krshrimali/gh.nvim) ![](https://img.shields.io/github/last-commit/krshrimali/gh.nvim) ![](https://img.shields.io/github/commit-activity/y/krshrimali/gh.nvim)
+- [JoshuaFurman/ghui.nvim](https://github.com/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/ghui.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/ghui.nvim)
 
 #### Notify
 

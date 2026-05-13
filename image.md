@@ -146,6 +146,7 @@
 - [bxrne/diagrascii.nvim](https://github.com/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/stars/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/last-commit/bxrne/diagrascii.nvim) ![](https://img.shields.io/github/commit-activity/y/bxrne/diagrascii.nvim)
 - [Xetius/neoimage.nvim](https://github.com/Xetius/neoimage.nvim) ![](https://img.shields.io/github/stars/Xetius/neoimage.nvim) ![](https://img.shields.io/github/last-commit/Xetius/neoimage.nvim) ![](https://img.shields.io/github/commit-activity/y/Xetius/neoimage.nvim)
 - [svenbergner/banner_creator.nvim](https://github.com/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/stars/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/last-commit/svenbergner/banner_creator.nvim) ![](https://img.shields.io/github/commit-activity/y/svenbergner/banner_creator.nvim)
+- [cavanaug/figgy.nvim](https://github.com/cavanaug/figgy.nvim) ![](https://img.shields.io/github/stars/cavanaug/figgy.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/figgy.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/figgy.nvim)
 
 ### Graph
 
