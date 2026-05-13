@@ -157,6 +157,7 @@
 - [yungibly/silknotes.nvim](https://github.com/yungibly/silknotes.nvim) ![](https://img.shields.io/github/stars/yungibly/silknotes.nvim) ![](https://img.shields.io/github/last-commit/yungibly/silknotes.nvim) ![](https://img.shields.io/github/commit-activity/y/yungibly/silknotes.nvim)
 - [italianoW/brain.nvim](https://github.com/italianoW/brain.nvim) ![](https://img.shields.io/github/stars/italianoW/brain.nvim) ![](https://img.shields.io/github/last-commit/italianoW/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/italianoW/brain.nvim)
 - [shadowfax92/markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/stars/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/markdown-focus.nvim)
+- [miniatureape/notebook.nvim](https://github.com/miniatureape/notebook.nvim) ![](https://img.shields.io/github/stars/miniatureape/notebook.nvim) ![](https://img.shields.io/github/last-commit/miniatureape/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/miniatureape/notebook.nvim)
 
 ### Journal
 

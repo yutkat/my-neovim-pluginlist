@@ -94,6 +94,7 @@
 - [gustav-lastname/scriptscript.nvim](https://github.com/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/stars/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/last-commit/gustav-lastname/scriptscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gustav-lastname/scriptscript.nvim)
 - [antoniorodr/lexy.nvim](https://github.com/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/stars/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/last-commit/antoniorodr/lexy.nvim) ![](https://img.shields.io/github/commit-activity/y/antoniorodr/lexy.nvim)
 - [goropikari/drill.nvim](https://github.com/goropikari/drill.nvim) ![](https://img.shields.io/github/stars/goropikari/drill.nvim) ![](https://img.shields.io/github/last-commit/goropikari/drill.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/drill.nvim)
+- [Chamartin3/usethefmotions.nvim](https://github.com/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/stars/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/last-commit/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chamartin3/usethefmotions.nvim)
 
 ### Turing path
 
