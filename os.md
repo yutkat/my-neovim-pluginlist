@@ -10,6 +10,7 @@
       - [gnome](#gnome)
       - [Hyprland](#hyprland)
       - [X11](#x11)
+    - [XDG file picker](#xdg-file-picker)
     - [flatpak](#flatpak)
     - [Nix](#nix)
     - [drun](#drun)
@@ -70,6 +71,10 @@
 
 - [altermo/nxwm](https://github.com/altermo/nxwm) ![](https://img.shields.io/github/stars/altermo/nxwm) ![](https://img.shields.io/github/last-commit/altermo/nxwm) ![](https://img.shields.io/github/commit-activity/y/altermo/nxwm)
 - [Kody-Quintana/x11-border-color.nvim](https://github.com/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/stars/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/last-commit/Kody-Quintana/x11-border-color.nvim) ![](https://img.shields.io/github/commit-activity/y/Kody-Quintana/x11-border-color.nvim)
+
+#### XDG file picker
+
+- [shenawy29/xdg-nvfilechooser.nvim](https://github.com/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/stars/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/last-commit/shenawy29/xdg-nvfilechooser.nvim) ![](https://img.shields.io/github/commit-activity/y/shenawy29/xdg-nvfilechooser.nvim)
 
 #### flatpak
 
