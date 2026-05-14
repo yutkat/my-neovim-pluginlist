@@ -557,6 +557,7 @@
 
 - [skeletony007/git-help.nvim](https://github.com/skeletony007/git-help.nvim) ![](https://img.shields.io/github/stars/skeletony007/git-help.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/git-help.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/git-help.nvim)
 - [martintrojer/fugitive-core.nvim](https://github.com/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/stars/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/fugitive-core.nvim)
+- [sencer/vcs.nvim](https://github.com/sencer/vcs.nvim) ![](https://img.shields.io/github/stars/sencer/vcs.nvim) ![](https://img.shields.io/github/last-commit/sencer/vcs.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/vcs.nvim)
 
 ## Darcs
 

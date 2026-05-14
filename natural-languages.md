@@ -24,6 +24,7 @@
 ### Chinese
 
 - [kkkksu/nvim-chinese-writer](https://github.com/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/stars/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/last-commit/kkkksu/nvim-chinese-writer) ![](https://img.shields.io/github/commit-activity/y/kkkksu/nvim-chinese-writer)
+- [LauritsLL/hanzi-gate.nvim](https://github.com/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/stars/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/last-commit/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/commit-activity/y/LauritsLL/hanzi-gate.nvim)
 
 ### French
 

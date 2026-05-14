@@ -95,6 +95,7 @@
 - [AlexisPerdomoD/psql_runner.nvim](https://github.com/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/stars/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/last-commit/AlexisPerdomoD/psql_runner.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexisPerdomoD/psql_runner.nvim)
 - [senkentarou/telescope-psql-viewer.nvim](https://github.com/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/stars/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/last-commit/senkentarou/telescope-psql-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/senkentarou/telescope-psql-viewer.nvim)
 - [h4kbas/neosql.nvim](https://github.com/h4kbas/neosql.nvim) ![](https://img.shields.io/github/stars/h4kbas/neosql.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/neosql.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/neosql.nvim)
+- [huyvu8051/db.nvim](https://github.com/huyvu8051/db.nvim) ![](https://img.shields.io/github/stars/huyvu8051/db.nvim) ![](https://img.shields.io/github/last-commit/huyvu8051/db.nvim) ![](https://img.shields.io/github/commit-activity/y/huyvu8051/db.nvim)
 
 ### MySQL
 

@@ -801,6 +801,7 @@
 - [kang8/kitty-agent-picker.nvim](https://github.com/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/stars/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/last-commit/kang8/kitty-agent-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/kang8/kitty-agent-picker.nvim)
 - [rlch/patchwork.nvim](https://github.com/rlch/patchwork.nvim) ![](https://img.shields.io/github/stars/rlch/patchwork.nvim) ![](https://img.shields.io/github/last-commit/rlch/patchwork.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/patchwork.nvim)
 - [hyprpilot/hyprpilot.nvim](https://github.com/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/stars/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/last-commit/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/hyprpilot/hyprpilot.nvim)
+- [lucatume/agent-ask.nvim](https://github.com/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/stars/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/last-commit/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/lucatume/agent-ask.nvim)
 
 ### AGENTS.md
 
@@ -857,6 +858,7 @@
 - [68mschmitt/ai-chat.nvim](https://github.com/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/stars/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/ai-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/ai-chat.nvim)
 - [Sokol080808/copilot-chat.nvim](https://github.com/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/stars/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/last-commit/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Sokol080808/copilot-chat.nvim)
 - [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
+- [lyhappy/minimax-chat.nvim](https://github.com/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/stars/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/last-commit/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/lyhappy/minimax-chat.nvim)
 
 ## AI Terminal
 
@@ -1051,6 +1053,7 @@
 - [ZarkMedo/nvim-claude-copy-file-ref.lua](https://github.com/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/stars/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/last-commit/ZarkMedo/nvim-claude-copy-file-ref.lua) ![](https://img.shields.io/github/commit-activity/y/ZarkMedo/nvim-claude-copy-file-ref.lua)
 - [cxwx/copyForAI.nvim](https://github.com/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/stars/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/last-commit/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/copyForAI.nvim)
 - [codingno/copy-context.nvim](https://github.com/codingno/copy-context.nvim) ![](https://img.shields.io/github/stars/codingno/copy-context.nvim) ![](https://img.shields.io/github/last-commit/codingno/copy-context.nvim) ![](https://img.shields.io/github/commit-activity/y/codingno/copy-context.nvim)
+- [harsh-m-patil/handoff.nvim](https://github.com/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/stars/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/last-commit/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/commit-activity/y/harsh-m-patil/handoff.nvim)
 
 ## LLM context
 

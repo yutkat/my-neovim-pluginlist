@@ -108,6 +108,7 @@
 - [Ullreich/wordcount.nvim](https://github.com/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/stars/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/last-commit/Ullreich/wordcount.nvim) ![](https://img.shields.io/github/commit-activity/y/Ullreich/wordcount.nvim)
 - [kghose/lekha.nvim](https://github.com/kghose/lekha.nvim) ![](https://img.shields.io/github/stars/kghose/lekha.nvim) ![](https://img.shields.io/github/last-commit/kghose/lekha.nvim) ![](https://img.shields.io/github/commit-activity/y/kghose/lekha.nvim)
 - [mig-ael/charcount.nvim](https://github.com/mig-ael/charcount.nvim) ![](https://img.shields.io/github/stars/mig-ael/charcount.nvim) ![](https://img.shields.io/github/last-commit/mig-ael/charcount.nvim) ![](https://img.shields.io/github/commit-activity/y/mig-ael/charcount.nvim)
+- [cxwx/wordCountZh.nvim](https://github.com/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/stars/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/last-commit/cxwx/wordCountZh.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/wordCountZh.nvim)
 
 ### Line Count
 
