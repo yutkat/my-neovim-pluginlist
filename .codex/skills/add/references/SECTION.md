@@ -1059,6 +1059,7 @@
 #### Lingua Franca
 #### OCaml
 ##### LCaml
+#### Odin
 #### Nim
 #### NetLinx
 #### Julia
@@ -1547,6 +1548,7 @@
 ##### gnome
 ##### Hyprland
 ##### X11
+#### XDG file picker
 #### flatpak
 #### Nix
 #### drun

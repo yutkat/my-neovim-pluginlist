@@ -224,6 +224,7 @@
 - [TheLazyCat00/runner-nvim](https://github.com/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/stars/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/last-commit/TheLazyCat00/runner-nvim) ![](https://img.shields.io/github/commit-activity/y/TheLazyCat00/runner-nvim)
 - [kotsmile/erun.nvim](https://github.com/kotsmile/erun.nvim) ![](https://img.shields.io/github/stars/kotsmile/erun.nvim) ![](https://img.shields.io/github/last-commit/kotsmile/erun.nvim) ![](https://img.shields.io/github/commit-activity/y/kotsmile/erun.nvim)
 - [JNSFilipe/compmod.nvim](https://github.com/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/stars/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/last-commit/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/commit-activity/y/JNSFilipe/compmod.nvim)
+- [ayosec/nvim-ceramicist](https://github.com/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/stars/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/last-commit/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/commit-activity/y/ayosec/nvim-ceramicist)
 
 ### Auto detect style
 

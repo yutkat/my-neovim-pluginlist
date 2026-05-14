@@ -246,6 +246,7 @@
 - [vihu/penview.nvim](https://github.com/vihu/penview.nvim) ![](https://img.shields.io/github/stars/vihu/penview.nvim) ![](https://img.shields.io/github/last-commit/vihu/penview.nvim) ![](https://img.shields.io/github/commit-activity/y/vihu/penview.nvim)
 - [manzt/gfm.nvim](https://github.com/manzt/gfm.nvim) ![](https://img.shields.io/github/stars/manzt/gfm.nvim) ![](https://img.shields.io/github/last-commit/manzt/gfm.nvim) ![](https://img.shields.io/github/commit-activity/y/manzt/gfm.nvim)
 - [DenizIsikli/mdpreview.nvim](https://github.com/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/stars/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/last-commit/DenizIsikli/mdpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/DenizIsikli/mdpreview.nvim)
+- [jswent/mdview.nvim](https://github.com/jswent/mdview.nvim) ![](https://img.shields.io/github/stars/jswent/mdview.nvim) ![](https://img.shields.io/github/last-commit/jswent/mdview.nvim) ![](https://img.shields.io/github/commit-activity/y/jswent/mdview.nvim)
 
 ##### Go
 

@@ -49,6 +49,7 @@
     - [Lingua Franca](#lingua-franca)
     - [OCaml](#ocaml)
       - [LCaml](#lcaml)
+    - [Odin](#odin)
     - [Nim](#nim)
     - [NetLinx](#netlinx)
     - [Julia](#julia)
@@ -482,6 +483,10 @@
 ##### LCaml
 
 - [barnii77/lcaml.nvim](https://github.com/barnii77/lcaml.nvim) ![](https://img.shields.io/github/stars/barnii77/lcaml.nvim) ![](https://img.shields.io/github/last-commit/barnii77/lcaml.nvim) ![](https://img.shields.io/github/commit-activity/y/barnii77/lcaml.nvim)
+
+#### Odin
+
+- [cephei8/odin.nvim](https://github.com/cephei8/odin.nvim) ![](https://img.shields.io/github/stars/cephei8/odin.nvim) ![](https://img.shields.io/github/last-commit/cephei8/odin.nvim) ![](https://img.shields.io/github/commit-activity/y/cephei8/odin.nvim)
 
 #### Nim
 

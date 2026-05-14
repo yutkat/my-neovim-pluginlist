@@ -92,6 +92,7 @@
 ### Special Features
 
 - [windwp/windline.nvim](https://github.com/windwp/windline.nvim) ![](https://img.shields.io/github/stars/windwp/windline.nvim) ![](https://img.shields.io/github/last-commit/windwp/windline.nvim) ![](https://img.shields.io/github/commit-activity/y/windwp/windline.nvim)
+- [alchezar/fishbone.nvim](https://github.com/alchezar/fishbone.nvim) ![](https://img.shields.io/github/stars/alchezar/fishbone.nvim) ![](https://img.shields.io/github/last-commit/alchezar/fishbone.nvim) ![](https://img.shields.io/github/commit-activity/y/alchezar/fishbone.nvim)
 
 ### Statusline component
 
