@@ -826,6 +826,7 @@
 - [surfdude75/nvim-min-pi-agent](https://github.com/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/stars/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/last-commit/surfdude75/nvim-min-pi-agent) ![](https://img.shields.io/github/commit-activity/y/surfdude75/nvim-min-pi-agent)
 - [swairshah/pi.nvim](https://github.com/swairshah/pi.nvim) ![](https://img.shields.io/github/stars/swairshah/pi.nvim) ![](https://img.shields.io/github/last-commit/swairshah/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/swairshah/pi.nvim)
 - [erkamkavak/pi.nvim](https://github.com/erkamkavak/pi.nvim) ![](https://img.shields.io/github/stars/erkamkavak/pi.nvim) ![](https://img.shields.io/github/last-commit/erkamkavak/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/erkamkavak/pi.nvim)
+- [qasimstatic/pie.nvim](https://github.com/qasimstatic/pie.nvim) ![](https://img.shields.io/github/stars/qasimstatic/pie.nvim) ![](https://img.shields.io/github/last-commit/qasimstatic/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/qasimstatic/pie.nvim)
 
 ### Amp
 

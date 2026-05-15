@@ -40,6 +40,7 @@
 - [gh-liu/nvim-mobius](https://github.com/gh-liu/nvim-mobius) ![](https://img.shields.io/github/stars/gh-liu/nvim-mobius) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-mobius) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-mobius)
 - [TeleVoyant/smart-increment.nvim](https://github.com/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/stars/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/last-commit/TeleVoyant/smart-increment.nvim) ![](https://img.shields.io/github/commit-activity/y/TeleVoyant/smart-increment.nvim)
 - [audiobird/nvim-skipinc](https://github.com/audiobird/nvim-skipinc) ![](https://img.shields.io/github/stars/audiobird/nvim-skipinc) ![](https://img.shields.io/github/last-commit/audiobird/nvim-skipinc) ![](https://img.shields.io/github/commit-activity/y/audiobird/nvim-skipinc)
+- [koepnick/char-rotate.nvim](https://github.com/koepnick/char-rotate.nvim) ![](https://img.shields.io/github/stars/koepnick/char-rotate.nvim) ![](https://img.shields.io/github/last-commit/koepnick/char-rotate.nvim) ![](https://img.shields.io/github/commit-activity/y/koepnick/char-rotate.nvim)
 
 ### Convert Case
 

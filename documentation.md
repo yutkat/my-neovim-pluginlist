@@ -218,6 +218,7 @@
 ##### Python
 
 - [aldevv/md-preview.nvim](https://github.com/aldevv/md-preview.nvim) ![](https://img.shields.io/github/stars/aldevv/md-preview.nvim) ![](https://img.shields.io/github/last-commit/aldevv/md-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/md-preview.nvim)
+- [Symphon-y/preview.nvim](https://github.com/Symphon-y/preview.nvim) ![](https://img.shields.io/github/stars/Symphon-y/preview.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/preview.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/preview.nvim)
 
 ##### Node
 
@@ -446,6 +447,7 @@
 - [andyjeffries/lazydocs.nvim](https://github.com/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/stars/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/last-commit/andyjeffries/lazydocs.nvim) ![](https://img.shields.io/github/commit-activity/y/andyjeffries/lazydocs.nvim)
 - [kwerie/vendure-docs-browser.nvim](https://github.com/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/stars/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/last-commit/kwerie/vendure-docs-browser.nvim) ![](https://img.shields.io/github/commit-activity/y/kwerie/vendure-docs-browser.nvim)
 - [Victor-johnsson/aspire-docs.nvim](https://github.com/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/stars/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/last-commit/Victor-johnsson/aspire-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/Victor-johnsson/aspire-docs.nvim)
+- [eduardoarandah/context7.nvim](https://github.com/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/context7.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/context7.nvim)
 
 ### Fountain
 
