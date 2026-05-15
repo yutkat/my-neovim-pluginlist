@@ -214,7 +214,6 @@
 - [HaoYDai/venv-auto.nvim](https://github.com/HaoYDai/venv-auto.nvim) ![](https://img.shields.io/github/stars/HaoYDai/venv-auto.nvim) ![](https://img.shields.io/github/last-commit/HaoYDai/venv-auto.nvim) ![](https://img.shields.io/github/commit-activity/y/HaoYDai/venv-auto.nvim)
 - [1A7432/nvim-python-venv](https://github.com/1A7432/nvim-python-venv) ![](https://img.shields.io/github/stars/1A7432/nvim-python-venv) ![](https://img.shields.io/github/last-commit/1A7432/nvim-python-venv) ![](https://img.shields.io/github/commit-activity/y/1A7432/nvim-python-venv)
 - [jedi-knights/yoda-terminal.nvim](https://github.com/jedi-knights/yoda-terminal.nvim) ![](https://img.shields.io/github/stars/jedi-knights/yoda-terminal.nvim) ![](https://img.shields.io/github/last-commit/jedi-knights/yoda-terminal.nvim) ![](https://img.shields.io/github/commit-activity/y/jedi-knights/yoda-terminal.nvim)
-- [CnsMaple/select_python_venv.nvim](https://github.com/CnsMaple/select_python_venv.nvim) ![](https://img.shields.io/github/stars/CnsMaple/select_python_venv.nvim) ![](https://img.shields.io/github/last-commit/CnsMaple/select_python_venv.nvim) ![](https://img.shields.io/github/commit-activity/y/CnsMaple/select_python_venv.nvim)
 
 #### mypy
 
