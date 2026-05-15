@@ -229,6 +229,7 @@
 ### Asana
 
 - [neyugnaoh/asana.nvim](https://github.com/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/stars/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/last-commit/neyugnaoh/asana.nvim) ![](https://img.shields.io/github/commit-activity/y/neyugnaoh/asana.nvim)
+- [AranBorkum/donkey.nvim](https://github.com/AranBorkum/donkey.nvim) ![](https://img.shields.io/github/stars/AranBorkum/donkey.nvim) ![](https://img.shields.io/github/last-commit/AranBorkum/donkey.nvim) ![](https://img.shields.io/github/commit-activity/y/AranBorkum/donkey.nvim)
 
 ### Shortcut
 
