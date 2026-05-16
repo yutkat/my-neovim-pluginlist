@@ -188,6 +188,7 @@
     - [Pine Script](#pine-script)
     - [C3](#c3)
     - [Vela](#vela)
+    - [Awsum](#awsum)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1053,6 +1054,10 @@
 #### Vela
 
 - [elauven/nvim-vela](https://github.com/elauven/nvim-vela) ![](https://img.shields.io/github/stars/elauven/nvim-vela) ![](https://img.shields.io/github/last-commit/elauven/nvim-vela) ![](https://img.shields.io/github/commit-activity/y/elauven/nvim-vela)
+
+#### Awsum
+
+- [awsum-lang/awsum-nvim](https://github.com/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/stars/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/last-commit/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/commit-activity/y/awsum-lang/awsum-nvim)
 
 ## Competitive programming
 

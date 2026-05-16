@@ -15,6 +15,7 @@
   - [FiveM](#fivem)
   - [World of Warcraft](#world-of-warcraft)
   - [MTG](#mtg)
+  - [Rubik's cube](#rubiks-cube)
 
 <!-- tocstop -->
 
@@ -141,3 +142,7 @@
 
 - [mvargasmoran/collector.nvim](https://github.com/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/stars/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/last-commit/mvargasmoran/collector.nvim) ![](https://img.shields.io/github/commit-activity/y/mvargasmoran/collector.nvim)
 - [noname7777G/surveil.nvim](https://github.com/noname7777G/surveil.nvim) ![](https://img.shields.io/github/stars/noname7777G/surveil.nvim) ![](https://img.shields.io/github/last-commit/noname7777G/surveil.nvim) ![](https://img.shields.io/github/commit-activity/y/noname7777G/surveil.nvim)
+
+### Rubik's cube
+
+- [xiangnongWu2233/rubiks-cube.nvim](https://github.com/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/stars/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/last-commit/xiangnongWu2233/rubiks-cube.nvim) ![](https://img.shields.io/github/commit-activity/y/xiangnongWu2233/rubiks-cube.nvim)
