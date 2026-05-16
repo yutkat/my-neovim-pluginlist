@@ -26,6 +26,7 @@
 - [eduardoarandah/explode.nvim](https://github.com/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/stars/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/last-commit/eduardoarandah/explode.nvim) ![](https://img.shields.io/github/commit-activity/y/eduardoarandah/explode.nvim)
 - [LOTaher/rave.nvim](https://github.com/LOTaher/rave.nvim) ![](https://img.shields.io/github/stars/LOTaher/rave.nvim) ![](https://img.shields.io/github/last-commit/LOTaher/rave.nvim) ![](https://img.shields.io/github/commit-activity/y/LOTaher/rave.nvim)
 - [VKKKV/badapple.nvim](https://github.com/VKKKV/badapple.nvim) ![](https://img.shields.io/github/stars/VKKKV/badapple.nvim) ![](https://img.shields.io/github/last-commit/VKKKV/badapple.nvim) ![](https://img.shields.io/github/commit-activity/y/VKKKV/badapple.nvim)
+- [BrigBryu/ember.nvim](https://github.com/BrigBryu/ember.nvim) ![](https://img.shields.io/github/stars/BrigBryu/ember.nvim) ![](https://img.shields.io/github/last-commit/BrigBryu/ember.nvim) ![](https://img.shields.io/github/commit-activity/y/BrigBryu/ember.nvim)
 
 ### Snow effect
 

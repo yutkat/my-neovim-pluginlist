@@ -111,6 +111,7 @@
 - [snehlsen/zettelkasten.nvim](https://github.com/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/stars/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/last-commit/snehlsen/zettelkasten.nvim) ![](https://img.shields.io/github/commit-activity/y/snehlsen/zettelkasten.nvim)
 - [sunbluesome/holon.nvim](https://github.com/sunbluesome/holon.nvim) ![](https://img.shields.io/github/stars/sunbluesome/holon.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/holon.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/holon.nvim)
 - [sharp541/taxon.nvim](https://github.com/sharp541/taxon.nvim) ![](https://img.shields.io/github/stars/sharp541/taxon.nvim) ![](https://img.shields.io/github/last-commit/sharp541/taxon.nvim) ![](https://img.shields.io/github/commit-activity/y/sharp541/taxon.nvim)
+- [siatko/denim.nvim](https://github.com/siatko/denim.nvim) ![](https://img.shields.io/github/stars/siatko/denim.nvim) ![](https://img.shields.io/github/last-commit/siatko/denim.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/denim.nvim)
 
 ### Markdown
 
@@ -336,6 +337,7 @@
 - [DaFi-1/tasknvim](https://github.com/DaFi-1/tasknvim) ![](https://img.shields.io/github/stars/DaFi-1/tasknvim) ![](https://img.shields.io/github/last-commit/DaFi-1/tasknvim) ![](https://img.shields.io/github/commit-activity/y/DaFi-1/tasknvim)
 - [LibereCode/todo-sh.nvim](https://github.com/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/stars/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/todo-sh.nvim)
 - [YlanAllouche/striked.nvim](https://github.com/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/stars/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/last-commit/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/commit-activity/y/YlanAllouche/striked.nvim)
+- [mimvoid/todoview.nvim](https://github.com/mimvoid/todoview.nvim) ![](https://img.shields.io/github/stars/mimvoid/todoview.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/todoview.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/todoview.nvim)
 
 #### Google Task
 

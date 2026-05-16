@@ -137,6 +137,7 @@
 ### Guitar tablature
 
 - [hc-nolan/tablature.nvim](https://github.com/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/stars/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/last-commit/hc-nolan/tablature.nvim) ![](https://img.shields.io/github/commit-activity/y/hc-nolan/tablature.nvim)
+- [siatko/fret.nvim](https://github.com/siatko/fret.nvim) ![](https://img.shields.io/github/stars/siatko/fret.nvim) ![](https://img.shields.io/github/last-commit/siatko/fret.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/fret.nvim)
 
 ### Reaper
 

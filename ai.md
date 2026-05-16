@@ -860,6 +860,7 @@
 - [Sokol080808/copilot-chat.nvim](https://github.com/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/stars/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/last-commit/Sokol080808/copilot-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Sokol080808/copilot-chat.nvim)
 - [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
 - [lyhappy/minimax-chat.nvim](https://github.com/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/stars/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/last-commit/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/lyhappy/minimax-chat.nvim)
+- [the-slow-one/nabu.nvim](https://github.com/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/stars/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/last-commit/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/commit-activity/y/the-slow-one/nabu.nvim)
 
 ## AI Terminal
 
@@ -1000,6 +1001,7 @@
 - [jingkaihe/kodelet.nvim](https://github.com/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/stars/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/last-commit/jingkaihe/kodelet.nvim) ![](https://img.shields.io/github/commit-activity/y/jingkaihe/kodelet.nvim)
 - [martintrojer/promptly.nvim](https://github.com/martintrojer/promptly.nvim) ![](https://img.shields.io/github/stars/martintrojer/promptly.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/promptly.nvim)
 - [ryanbenney/nvim-ai-pair-programming](https://github.com/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/stars/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/last-commit/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/commit-activity/y/ryanbenney/nvim-ai-pair-programming)
+- [tmgast/cairn.nvim](https://github.com/tmgast/cairn.nvim) ![](https://img.shields.io/github/stars/tmgast/cairn.nvim) ![](https://img.shields.io/github/last-commit/tmgast/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/tmgast/cairn.nvim)
 
 ## Token Count
 
