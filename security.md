@@ -82,6 +82,7 @@
 
 - [simeonoff/1password.nvim](https://github.com/simeonoff/1password.nvim) ![](https://img.shields.io/github/stars/simeonoff/1password.nvim) ![](https://img.shields.io/github/last-commit/simeonoff/1password.nvim) ![](https://img.shields.io/github/commit-activity/y/simeonoff/1password.nvim)
 - [SektorCERT/op-secret-peek.nvim](https://github.com/SektorCERT/op-secret-peek.nvim) ![](https://img.shields.io/github/stars/SektorCERT/op-secret-peek.nvim) ![](https://img.shields.io/github/last-commit/SektorCERT/op-secret-peek.nvim) ![](https://img.shields.io/github/commit-activity/y/SektorCERT/op-secret-peek.nvim)
+- [gwenwindflower/provisions.nvim](https://github.com/gwenwindflower/provisions.nvim) ![](https://img.shields.io/github/stars/gwenwindflower/provisions.nvim) ![](https://img.shields.io/github/last-commit/gwenwindflower/provisions.nvim) ![](https://img.shields.io/github/commit-activity/y/gwenwindflower/provisions.nvim)
 
 ### Encrypt
 

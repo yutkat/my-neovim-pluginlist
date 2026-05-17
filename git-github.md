@@ -125,6 +125,7 @@
 - [gingama4/middle-git.nvim](https://github.com/gingama4/middle-git.nvim) ![](https://img.shields.io/github/stars/gingama4/middle-git.nvim) ![](https://img.shields.io/github/last-commit/gingama4/middle-git.nvim) ![](https://img.shields.io/github/commit-activity/y/gingama4/middle-git.nvim)
 - [vieitesss/minifugit.nvim](https://github.com/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/stars/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/minifugit.nvim)
 - [ochcaroline/legit.nvim](https://github.com/ochcaroline/legit.nvim) ![](https://img.shields.io/github/stars/ochcaroline/legit.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/legit.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/legit.nvim)
+- [jondysinger/stagit.nvim](https://github.com/jondysinger/stagit.nvim) ![](https://img.shields.io/github/stars/jondysinger/stagit.nvim) ![](https://img.shields.io/github/last-commit/jondysinger/stagit.nvim) ![](https://img.shields.io/github/commit-activity/y/jondysinger/stagit.nvim)
 
 ### gitui
 
@@ -391,6 +392,7 @@
 - [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/diffview.nvim)
 - [elanmed/git-diff.nvim](https://github.com/elanmed/git-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diff.nvim)
 - [goropikari/gitdiff.nvim](https://github.com/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/stars/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/gitdiff.nvim)
+- [llawn/buffer-change.nvim](https://github.com/llawn/buffer-change.nvim) ![](https://img.shields.io/github/stars/llawn/buffer-change.nvim) ![](https://img.shields.io/github/last-commit/llawn/buffer-change.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/buffer-change.nvim)
 
 #### image diff
 

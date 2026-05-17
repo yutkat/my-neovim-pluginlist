@@ -190,6 +190,7 @@
 #### Backspace
 
 - [qwavies/smart-backspace.nvim](https://github.com/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/stars/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/last-commit/qwavies/smart-backspace.nvim) ![](https://img.shields.io/github/commit-activity/y/qwavies/smart-backspace.nvim)
+- [cotrin8672/wise-backspace.nvim](https://github.com/cotrin8672/wise-backspace.nvim) ![](https://img.shields.io/github/stars/cotrin8672/wise-backspace.nvim) ![](https://img.shields.io/github/last-commit/cotrin8672/wise-backspace.nvim) ![](https://img.shields.io/github/commit-activity/y/cotrin8672/wise-backspace.nvim)
 
 #### Normal Mode
 

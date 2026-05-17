@@ -617,6 +617,7 @@
 ### FiveM
 ### World of Warcraft
 ### MTG
+### Rubik's cube
 
 # git-github.md
 ## Git
@@ -1083,6 +1084,7 @@
 #### Plank
 #### Elm
 #### Paradox Script
+#### Valen
 ### WSL
 #### CQL
 ##### Quadrate
@@ -1198,6 +1200,7 @@
 #### Pine Script
 #### C3
 #### Vela
+#### Awsum
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
