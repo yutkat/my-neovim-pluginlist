@@ -25,6 +25,7 @@
 - [shuber2/mailassist.nvim](https://github.com/shuber2/mailassist.nvim) ![](https://img.shields.io/github/stars/shuber2/mailassist.nvim) ![](https://img.shields.io/github/last-commit/shuber2/mailassist.nvim) ![](https://img.shields.io/github/commit-activity/y/shuber2/mailassist.nvim)
 - [knownasnaffy/himalaya.nvim](https://github.com/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/stars/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/last-commit/knownasnaffy/himalaya.nvim) ![](https://img.shields.io/github/commit-activity/y/knownasnaffy/himalaya.nvim)
 - [rustmailapp/rustmail.nvim](https://github.com/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/stars/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/last-commit/rustmailapp/rustmail.nvim) ![](https://img.shields.io/github/commit-activity/y/rustmailapp/rustmail.nvim)
+- [monkeyxite/nvim-mail](https://github.com/monkeyxite/nvim-mail) ![](https://img.shields.io/github/stars/monkeyxite/nvim-mail) ![](https://img.shields.io/github/last-commit/monkeyxite/nvim-mail) ![](https://img.shields.io/github/commit-activity/y/monkeyxite/nvim-mail)
 
 ## Contacts
 
@@ -78,6 +79,7 @@
 - [kulvirdotgg/ppt.nvim](https://github.com/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/stars/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/last-commit/kulvirdotgg/ppt.nvim) ![](https://img.shields.io/github/commit-activity/y/kulvirdotgg/ppt.nvim)
 - [numen-0/glide.nvim](https://github.com/numen-0/glide.nvim) ![](https://img.shields.io/github/stars/numen-0/glide.nvim) ![](https://img.shields.io/github/last-commit/numen-0/glide.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/glide.nvim)
 - [ochcaroline/slidey.nvim](https://github.com/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/stars/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/slidey.nvim)
+- [joakimmj/memoria.nvim](https://github.com/joakimmj/memoria.nvim) ![](https://img.shields.io/github/stars/joakimmj/memoria.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/memoria.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/memoria.nvim)
 
 ### Slidev
 

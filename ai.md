@@ -400,6 +400,7 @@
 - [jorge-a-martinez-dev/local-llm.nvim](https://github.com/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/stars/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/last-commit/jorge-a-martinez-dev/local-llm.nvim) ![](https://img.shields.io/github/commit-activity/y/jorge-a-martinez-dev/local-llm.nvim)
 - [basola21/chisel.nvim](https://github.com/basola21/chisel.nvim) ![](https://img.shields.io/github/stars/basola21/chisel.nvim) ![](https://img.shields.io/github/last-commit/basola21/chisel.nvim) ![](https://img.shields.io/github/commit-activity/y/basola21/chisel.nvim)
 - [Lostexee/ollama-chat.nvim](https://github.com/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/stars/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/last-commit/Lostexee/ollama-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/Lostexee/ollama-chat.nvim)
+- [Justedizi/ollama-code-snipets.nvim](https://github.com/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/stars/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/last-commit/Justedizi/ollama-code-snipets.nvim) ![](https://img.shields.io/github/commit-activity/y/Justedizi/ollama-code-snipets.nvim)
 
 ### Claude
 
@@ -802,6 +803,7 @@
 - [rlch/patchwork.nvim](https://github.com/rlch/patchwork.nvim) ![](https://img.shields.io/github/stars/rlch/patchwork.nvim) ![](https://img.shields.io/github/last-commit/rlch/patchwork.nvim) ![](https://img.shields.io/github/commit-activity/y/rlch/patchwork.nvim)
 - [hyprpilot/hyprpilot.nvim](https://github.com/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/stars/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/last-commit/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/hyprpilot/hyprpilot.nvim)
 - [lucatume/agent-ask.nvim](https://github.com/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/stars/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/last-commit/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/lucatume/agent-ask.nvim)
+- [jhanna2/nvim-agent](https://github.com/jhanna2/nvim-agent) ![](https://img.shields.io/github/stars/jhanna2/nvim-agent) ![](https://img.shields.io/github/last-commit/jhanna2/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/jhanna2/nvim-agent)
 
 ### AGENTS.md
 
@@ -827,6 +829,8 @@
 - [swairshah/pi.nvim](https://github.com/swairshah/pi.nvim) ![](https://img.shields.io/github/stars/swairshah/pi.nvim) ![](https://img.shields.io/github/last-commit/swairshah/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/swairshah/pi.nvim)
 - [erkamkavak/pi.nvim](https://github.com/erkamkavak/pi.nvim) ![](https://img.shields.io/github/stars/erkamkavak/pi.nvim) ![](https://img.shields.io/github/last-commit/erkamkavak/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/erkamkavak/pi.nvim)
 - [qasimstatic/pie.nvim](https://github.com/qasimstatic/pie.nvim) ![](https://img.shields.io/github/stars/qasimstatic/pie.nvim) ![](https://img.shields.io/github/last-commit/qasimstatic/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/qasimstatic/pie.nvim)
+- [AndreaKinder/pi-togle.nvim](https://github.com/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/pi-togle.nvim)
+- [lukemelnik/piovim.nvim](https://github.com/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/stars/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/piovim.nvim)
 
 ### Amp
 
@@ -1057,6 +1061,7 @@
 - [cxwx/copyForAI.nvim](https://github.com/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/stars/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/last-commit/cxwx/copyForAI.nvim) ![](https://img.shields.io/github/commit-activity/y/cxwx/copyForAI.nvim)
 - [codingno/copy-context.nvim](https://github.com/codingno/copy-context.nvim) ![](https://img.shields.io/github/stars/codingno/copy-context.nvim) ![](https://img.shields.io/github/last-commit/codingno/copy-context.nvim) ![](https://img.shields.io/github/commit-activity/y/codingno/copy-context.nvim)
 - [harsh-m-patil/handoff.nvim](https://github.com/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/stars/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/last-commit/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/commit-activity/y/harsh-m-patil/handoff.nvim)
+- [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) ![](https://img.shields.io/github/stars/not-manu/filemention.nvim) ![](https://img.shields.io/github/last-commit/not-manu/filemention.nvim) ![](https://img.shields.io/github/commit-activity/y/not-manu/filemention.nvim)
 
 ## LLM context
 

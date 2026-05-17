@@ -73,6 +73,7 @@
     - [Plank](#plank)
     - [Elm](#elm)
     - [Paradox Script](#paradox-script)
+    - [Valen](#valen)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -591,6 +592,10 @@
 #### Paradox Script
 
 - [gatlinnewhouse/pdxscript.nvim](https://github.com/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/stars/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/last-commit/gatlinnewhouse/pdxscript.nvim) ![](https://img.shields.io/github/commit-activity/y/gatlinnewhouse/pdxscript.nvim)
+
+#### Valen
+
+- [NaruseNia/valen.nvim](https://github.com/NaruseNia/valen.nvim) ![](https://img.shields.io/github/stars/NaruseNia/valen.nvim) ![](https://img.shields.io/github/last-commit/NaruseNia/valen.nvim) ![](https://img.shields.io/github/commit-activity/y/NaruseNia/valen.nvim)
 
 ### WSL
 

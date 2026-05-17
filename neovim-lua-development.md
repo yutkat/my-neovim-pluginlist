@@ -47,6 +47,7 @@
 - [2kabhishek/template.nvim](https://github.com/2kabhishek/template.nvim) ![](https://img.shields.io/github/stars/2kabhishek/template.nvim) ![](https://img.shields.io/github/last-commit/2kabhishek/template.nvim) ![](https://img.shields.io/github/commit-activity/y/2kabhishek/template.nvim)
 - [DrKJeff16/nvim-plugin-boilerplate](https://github.com/DrKJeff16/nvim-plugin-boilerplate) ![](https://img.shields.io/github/stars/DrKJeff16/nvim-plugin-boilerplate) ![](https://img.shields.io/github/last-commit/DrKJeff16/nvim-plugin-boilerplate) ![](https://img.shields.io/github/commit-activity/y/DrKJeff16/nvim-plugin-boilerplate)
 - [JustBarnt/template.nvim](https://github.com/JustBarnt/template.nvim) ![](https://img.shields.io/github/stars/JustBarnt/template.nvim) ![](https://img.shields.io/github/last-commit/JustBarnt/template.nvim) ![](https://img.shields.io/github/commit-activity/y/JustBarnt/template.nvim)
+- [gabrielgnsilva/plugin-template.nvim](https://github.com/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/plugin-template.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/plugin-template.nvim)
 
 ### LSP
 

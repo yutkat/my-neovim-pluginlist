@@ -94,6 +94,7 @@
 - [kouovo/vpack.nvim](https://github.com/kouovo/vpack.nvim) ![](https://img.shields.io/github/stars/kouovo/vpack.nvim) ![](https://img.shields.io/github/last-commit/kouovo/vpack.nvim) ![](https://img.shields.io/github/commit-activity/y/kouovo/vpack.nvim)
 - [CrixuAMG/packui.nvim](https://github.com/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/stars/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/last-commit/CrixuAMG/packui.nvim) ![](https://img.shields.io/github/commit-activity/y/CrixuAMG/packui.nvim)
 - [swaits/tiny-packupdate.nvim](https://github.com/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-packupdate.nvim)
+- [llawn/pack-utils.nvim](https://github.com/llawn/pack-utils.nvim) ![](https://img.shields.io/github/stars/llawn/pack-utils.nvim) ![](https://img.shields.io/github/last-commit/llawn/pack-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/pack-utils.nvim)
 
 ### Update checker
 
