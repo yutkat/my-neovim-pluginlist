@@ -20,6 +20,7 @@
 - [catgoose/bmessages.nvim](https://github.com/catgoose/bmessages.nvim) ![](https://img.shields.io/github/stars/catgoose/bmessages.nvim) ![](https://img.shields.io/github/last-commit/catgoose/bmessages.nvim) ![](https://img.shields.io/github/commit-activity/y/catgoose/bmessages.nvim)
 - [ariel-frischer/bmessages.nvim](https://github.com/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/stars/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/last-commit/ariel-frischer/bmessages.nvim) ![](https://img.shields.io/github/commit-activity/y/ariel-frischer/bmessages.nvim)
 - [nqrk/msghook.nvim](https://github.com/nqrk/msghook.nvim) ![](https://img.shields.io/github/stars/nqrk/msghook.nvim) ![](https://img.shields.io/github/last-commit/nqrk/msghook.nvim) ![](https://img.shields.io/github/commit-activity/y/nqrk/msghook.nvim)
+- [Arcelyth/envelope.nvim](https://github.com/Arcelyth/envelope.nvim) ![](https://img.shields.io/github/stars/Arcelyth/envelope.nvim) ![](https://img.shields.io/github/last-commit/Arcelyth/envelope.nvim) ![](https://img.shields.io/github/commit-activity/y/Arcelyth/envelope.nvim)
 
 ## Notification
 
