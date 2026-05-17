@@ -27,6 +27,7 @@
 - [LOTaher/rave.nvim](https://github.com/LOTaher/rave.nvim) ![](https://img.shields.io/github/stars/LOTaher/rave.nvim) ![](https://img.shields.io/github/last-commit/LOTaher/rave.nvim) ![](https://img.shields.io/github/commit-activity/y/LOTaher/rave.nvim)
 - [VKKKV/badapple.nvim](https://github.com/VKKKV/badapple.nvim) ![](https://img.shields.io/github/stars/VKKKV/badapple.nvim) ![](https://img.shields.io/github/last-commit/VKKKV/badapple.nvim) ![](https://img.shields.io/github/commit-activity/y/VKKKV/badapple.nvim)
 - [BrigBryu/ember.nvim](https://github.com/BrigBryu/ember.nvim) ![](https://img.shields.io/github/stars/BrigBryu/ember.nvim) ![](https://img.shields.io/github/last-commit/BrigBryu/ember.nvim) ![](https://img.shields.io/github/commit-activity/y/BrigBryu/ember.nvim)
+- [axsaucedo/neovim-power-mode](https://github.com/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/stars/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/last-commit/axsaucedo/neovim-power-mode) ![](https://img.shields.io/github/commit-activity/y/axsaucedo/neovim-power-mode)
 
 ### Snow effect
 
