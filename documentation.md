@@ -506,6 +506,7 @@
 - [ktrysmt/memd.nvim](https://github.com/ktrysmt/memd.nvim) ![](https://img.shields.io/github/stars/ktrysmt/memd.nvim) ![](https://img.shields.io/github/last-commit/ktrysmt/memd.nvim) ![](https://img.shields.io/github/commit-activity/y/ktrysmt/memd.nvim)
 - [RokPre/mermaid.nvim](https://github.com/RokPre/mermaid.nvim) ![](https://img.shields.io/github/stars/RokPre/mermaid.nvim) ![](https://img.shields.io/github/last-commit/RokPre/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/RokPre/mermaid.nvim)
 - [toboriak/ascii-mermaid.nvim](https://github.com/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/stars/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/last-commit/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/toboriak/ascii-mermaid.nvim)
+- [cavanaug/render-markdown-mermaid.nvim](https://github.com/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/render-markdown-mermaid.nvim)
 
 ### pikchr
 
@@ -634,6 +635,7 @@
 - [greasycat/yatr.nvim](https://github.com/greasycat/yatr.nvim) ![](https://img.shields.io/github/stars/greasycat/yatr.nvim) ![](https://img.shields.io/github/last-commit/greasycat/yatr.nvim) ![](https://img.shields.io/github/commit-activity/y/greasycat/yatr.nvim)
 - [merv1n34k/marksetta.nvim](https://github.com/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/stars/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/last-commit/merv1n34k/marksetta.nvim) ![](https://img.shields.io/github/commit-activity/y/merv1n34k/marksetta.nvim)
 - [sonv/latex-preview.nvim](https://github.com/sonv/latex-preview.nvim) ![](https://img.shields.io/github/stars/sonv/latex-preview.nvim) ![](https://img.shields.io/github/last-commit/sonv/latex-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/sonv/latex-preview.nvim)
+- [techwizrd/render-latex.nvim](https://github.com/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/stars/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/last-commit/techwizrd/render-latex.nvim) ![](https://img.shields.io/github/commit-activity/y/techwizrd/render-latex.nvim)
 
 #### Image
 

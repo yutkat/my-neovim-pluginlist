@@ -72,6 +72,7 @@
 - [abosnjakovic/nyan.nvim](https://github.com/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/stars/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/last-commit/abosnjakovic/nyan.nvim) ![](https://img.shields.io/github/commit-activity/y/abosnjakovic/nyan.nvim)
 - [loichyan/meoline.nvim](https://github.com/loichyan/meoline.nvim) ![](https://img.shields.io/github/stars/loichyan/meoline.nvim) ![](https://img.shields.io/github/last-commit/loichyan/meoline.nvim) ![](https://img.shields.io/github/commit-activity/y/loichyan/meoline.nvim)
 - [SantosAlarcon/fancyline.nvim](https://github.com/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/stars/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/last-commit/SantosAlarcon/fancyline.nvim) ![](https://img.shields.io/github/commit-activity/y/SantosAlarcon/fancyline.nvim)
+- [PhilippOesch/lineforge.nvim](https://github.com/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/stars/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/last-commit/PhilippOesch/lineforge.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippOesch/lineforge.nvim)
 
 ### Simple
 

@@ -405,6 +405,7 @@
 ### MySQL
 ### Oracle
 ### SQLite
+### Redis
 ### MongoDB
 ### SurrealDB
 ### EdgeDB

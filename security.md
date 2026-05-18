@@ -97,6 +97,7 @@
 - [atmask/sops.nvim](https://github.com/atmask/sops.nvim) ![](https://img.shields.io/github/stars/atmask/sops.nvim) ![](https://img.shields.io/github/last-commit/atmask/sops.nvim) ![](https://img.shields.io/github/commit-activity/y/atmask/sops.nvim)
 - [volkangulen/ansible-vault-encrypt.nvim](https://github.com/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/stars/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/last-commit/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/volkangulen/ansible-vault-encrypt.nvim)
 - [adalbertjnr/pemviewer.nvim](https://github.com/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/stars/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/last-commit/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalbertjnr/pemviewer.nvim)
+- [masterj122517/Jen.nvim](https://github.com/masterj122517/Jen.nvim) ![](https://img.shields.io/github/stars/masterj122517/Jen.nvim) ![](https://img.shields.io/github/last-commit/masterj122517/Jen.nvim) ![](https://img.shields.io/github/commit-activity/y/masterj122517/Jen.nvim)
 
 ## Privacy
 
