@@ -9,7 +9,6 @@
   - [MySQL](#mysql)
   - [Oracle](#oracle)
   - [SQLite](#sqlite)
-  - [Redis](#redis)
   - [MongoDB](#mongodb)
   - [SurrealDB](#surrealdb)
   - [EdgeDB](#edgedb)
@@ -114,10 +113,6 @@
 ### SQLite
 
 - [andrenaP/nvim-sql-completion](https://github.com/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/stars/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/last-commit/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/commit-activity/y/andrenaP/nvim-sql-completion)
-
-### Redis
-
-- [aaronshahriari/redis.nvim](https://github.com/aaronshahriari/redis.nvim) ![](https://img.shields.io/github/stars/aaronshahriari/redis.nvim) ![](https://img.shields.io/github/last-commit/aaronshahriari/redis.nvim) ![](https://img.shields.io/github/commit-activity/y/aaronshahriari/redis.nvim)
 
 ### MongoDB
 
