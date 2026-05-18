@@ -121,6 +121,7 @@
 - [ctfrancia/severityhl.nvim](https://github.com/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/stars/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/last-commit/ctfrancia/severityhl.nvim) ![](https://img.shields.io/github/commit-activity/y/ctfrancia/severityhl.nvim)
 - [Fau818/todotag.nvim](https://github.com/Fau818/todotag.nvim) ![](https://img.shields.io/github/stars/Fau818/todotag.nvim) ![](https://img.shields.io/github/last-commit/Fau818/todotag.nvim) ![](https://img.shields.io/github/commit-activity/y/Fau818/todotag.nvim)
 - [wmartinmimi/todo-highlight.nvim](https://github.com/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/stars/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/last-commit/wmartinmimi/todo-highlight.nvim) ![](https://img.shields.io/github/commit-activity/y/wmartinmimi/todo-highlight.nvim)
+- [kuzb/todo.nvim](https://github.com/kuzb/todo.nvim) ![](https://img.shields.io/github/stars/kuzb/todo.nvim) ![](https://img.shields.io/github/last-commit/kuzb/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/todo.nvim)
 
 ## Doxygen
 

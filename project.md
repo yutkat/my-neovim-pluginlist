@@ -82,6 +82,7 @@
 - [nhattVim/projects.nvim](https://github.com/nhattVim/projects.nvim) ![](https://img.shields.io/github/stars/nhattVim/projects.nvim) ![](https://img.shields.io/github/last-commit/nhattVim/projects.nvim) ![](https://img.shields.io/github/commit-activity/y/nhattVim/projects.nvim)
 - [jfhn/nvim-vibe](https://github.com/jfhn/nvim-vibe) ![](https://img.shields.io/github/stars/jfhn/nvim-vibe) ![](https://img.shields.io/github/last-commit/jfhn/nvim-vibe) ![](https://img.shields.io/github/commit-activity/y/jfhn/nvim-vibe)
 - [jeanbeanie/project-switcher.nvim](https://github.com/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/stars/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/last-commit/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jeanbeanie/project-switcher.nvim)
+- [shaunwen/myprojects.nvim](https://github.com/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/stars/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/last-commit/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/commit-activity/y/shaunwen/myprojects.nvim)
 
 ### Project Root Detector
 

@@ -51,6 +51,7 @@
 - [samonide/timesense.nvim](https://github.com/samonide/timesense.nvim) ![](https://img.shields.io/github/stars/samonide/timesense.nvim) ![](https://img.shields.io/github/last-commit/samonide/timesense.nvim) ![](https://img.shields.io/github/commit-activity/y/samonide/timesense.nvim)
 - [DumbNoxx/pulse.nvim](https://github.com/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/stars/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/last-commit/DumbNoxx/pulse.nvim) ![](https://img.shields.io/github/commit-activity/y/DumbNoxx/pulse.nvim)
 - [kristijanhusak/usage-tracker.nvim](https://github.com/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/stars/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/last-commit/kristijanhusak/usage-tracker.nvim) ![](https://img.shields.io/github/commit-activity/y/kristijanhusak/usage-tracker.nvim)
+- [thrr0/stats.nvim](https://github.com/thrr0/stats.nvim) ![](https://img.shields.io/github/stars/thrr0/stats.nvim) ![](https://img.shields.io/github/last-commit/thrr0/stats.nvim) ![](https://img.shields.io/github/commit-activity/y/thrr0/stats.nvim)
 
 ### Coding time
 
