@@ -328,6 +328,7 @@
 - [timothyckl/tau.nvim](https://github.com/timothyckl/tau.nvim) ![](https://img.shields.io/github/stars/timothyckl/tau.nvim) ![](https://img.shields.io/github/last-commit/timothyckl/tau.nvim) ![](https://img.shields.io/github/commit-activity/y/timothyckl/tau.nvim)
 - [binbandit/kerf.nvim](https://github.com/binbandit/kerf.nvim) ![](https://img.shields.io/github/stars/binbandit/kerf.nvim) ![](https://img.shields.io/github/last-commit/binbandit/kerf.nvim) ![](https://img.shields.io/github/commit-activity/y/binbandit/kerf.nvim)
 - [azorng/vision.nvim](https://github.com/azorng/vision.nvim) ![](https://img.shields.io/github/stars/azorng/vision.nvim) ![](https://img.shields.io/github/last-commit/azorng/vision.nvim) ![](https://img.shields.io/github/commit-activity/y/azorng/vision.nvim)
+- [cachebag/jumpy.nvim](https://github.com/cachebag/jumpy.nvim) ![](https://img.shields.io/github/stars/cachebag/jumpy.nvim) ![](https://img.shields.io/github/last-commit/cachebag/jumpy.nvim) ![](https://img.shields.io/github/commit-activity/y/cachebag/jumpy.nvim)
 
 #### crush
 

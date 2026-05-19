@@ -126,6 +126,7 @@
 - [yaocccc/blink-cmp-cmdlinehistory](https://github.com/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/stars/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/last-commit/yaocccc/blink-cmp-cmdlinehistory) ![](https://img.shields.io/github/commit-activity/y/yaocccc/blink-cmp-cmdlinehistory)
 - [saghen/blink.lib](https://github.com/saghen/blink.lib) ![](https://img.shields.io/github/stars/saghen/blink.lib) ![](https://img.shields.io/github/last-commit/saghen/blink.lib) ![](https://img.shields.io/github/commit-activity/y/saghen/blink.lib)
 - [so1ve/blink-noice-docs.nvim](https://github.com/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/stars/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/last-commit/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/blink-noice-docs.nvim)
+- [piero-vic/blink-cmp-ledger](https://github.com/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/stars/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/last-commit/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/commit-activity/y/piero-vic/blink-cmp-ledger)
 
 ### Auto Completion support
 
