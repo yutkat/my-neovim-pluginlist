@@ -507,6 +507,7 @@
 - [heychris/cctoolbox.nvim](https://github.com/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/stars/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/last-commit/heychris/cctoolbox.nvim) ![](https://img.shields.io/github/commit-activity/y/heychris/cctoolbox.nvim)
 - [Melkeydev/agent-tail.nvim](https://github.com/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/stars/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/last-commit/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/commit-activity/y/Melkeydev/agent-tail.nvim)
 - [falsycat/claudecode.nvim](https://github.com/falsycat/claudecode.nvim) ![](https://img.shields.io/github/stars/falsycat/claudecode.nvim) ![](https://img.shields.io/github/last-commit/falsycat/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/claudecode.nvim)
+- [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
 
 ### Amazon Q
 
@@ -1061,6 +1062,7 @@
 - [codingno/copy-context.nvim](https://github.com/codingno/copy-context.nvim) ![](https://img.shields.io/github/stars/codingno/copy-context.nvim) ![](https://img.shields.io/github/last-commit/codingno/copy-context.nvim) ![](https://img.shields.io/github/commit-activity/y/codingno/copy-context.nvim)
 - [harsh-m-patil/handoff.nvim](https://github.com/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/stars/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/last-commit/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/commit-activity/y/harsh-m-patil/handoff.nvim)
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) ![](https://img.shields.io/github/stars/not-manu/filemention.nvim) ![](https://img.shields.io/github/last-commit/not-manu/filemention.nvim) ![](https://img.shields.io/github/commit-activity/y/not-manu/filemention.nvim)
+- [danielronalds/reference.nvim](https://github.com/danielronalds/reference.nvim) ![](https://img.shields.io/github/stars/danielronalds/reference.nvim) ![](https://img.shields.io/github/last-commit/danielronalds/reference.nvim) ![](https://img.shields.io/github/commit-activity/y/danielronalds/reference.nvim)
 
 ## LLM context
 

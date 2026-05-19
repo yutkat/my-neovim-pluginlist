@@ -405,7 +405,6 @@
 ### MySQL
 ### Oracle
 ### SQLite
-### Redis
 ### MongoDB
 ### SurrealDB
 ### EdgeDB
@@ -611,6 +610,7 @@
 ### Chess
 ### Mine Sweeper
 ### Minecraft
+### Bitburner
 ### DOOM
 ### Sudoku
 ### Wordy

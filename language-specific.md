@@ -939,6 +939,7 @@
 - [dmpierre/natspec.nvim](https://github.com/dmpierre/natspec.nvim) ![](https://img.shields.io/github/stars/dmpierre/natspec.nvim) ![](https://img.shields.io/github/last-commit/dmpierre/natspec.nvim) ![](https://img.shields.io/github/commit-activity/y/dmpierre/natspec.nvim)
 - [calltrace/traverse-lsp.nvim](https://github.com/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/stars/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/last-commit/calltrace/traverse-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/calltrace/traverse-lsp.nvim)
 - [mmsaki/forge.nvim](https://github.com/mmsaki/forge.nvim) ![](https://img.shields.io/github/stars/mmsaki/forge.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/forge.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/forge.nvim)
+- [dragmakex/solidity-metrics.nvim](https://github.com/dragmakex/solidity-metrics.nvim) ![](https://img.shields.io/github/stars/dragmakex/solidity-metrics.nvim) ![](https://img.shields.io/github/last-commit/dragmakex/solidity-metrics.nvim) ![](https://img.shields.io/github/commit-activity/y/dragmakex/solidity-metrics.nvim)
 
 #### Soluna
 

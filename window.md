@@ -43,6 +43,7 @@
 - [nicholascross/displace.nvim](https://github.com/nicholascross/displace.nvim) ![](https://img.shields.io/github/stars/nicholascross/displace.nvim) ![](https://img.shields.io/github/last-commit/nicholascross/displace.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholascross/displace.nvim)
 - [emptyengineering/nvim-window-wrapper](https://github.com/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/stars/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/last-commit/emptyengineering/nvim-window-wrapper) ![](https://img.shields.io/github/commit-activity/y/emptyengineering/nvim-window-wrapper)
 - [coletrammer/seamless-navigation.nvim](https://github.com/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/stars/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/last-commit/coletrammer/seamless-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/coletrammer/seamless-navigation.nvim)
+- [jwu/last-win-jump.nvim](https://github.com/jwu/last-win-jump.nvim) ![](https://img.shields.io/github/stars/jwu/last-win-jump.nvim) ![](https://img.shields.io/github/last-commit/jwu/last-win-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/jwu/last-win-jump.nvim)
 
 ### Window Management
 

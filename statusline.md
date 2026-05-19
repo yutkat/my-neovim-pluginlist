@@ -89,6 +89,7 @@
 - [at2er/simple-statusline.nvim](https://github.com/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/stars/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/last-commit/at2er/simple-statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/at2er/simple-statusline.nvim)
 - [martynasmuizys/horizn.nvim](https://github.com/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/stars/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/last-commit/martynasmuizys/horizn.nvim) ![](https://img.shields.io/github/commit-activity/y/martynasmuizys/horizn.nvim)
 - [shizukani-cp/status.nvim](https://github.com/shizukani-cp/status.nvim) ![](https://img.shields.io/github/stars/shizukani-cp/status.nvim) ![](https://img.shields.io/github/last-commit/shizukani-cp/status.nvim) ![](https://img.shields.io/github/commit-activity/y/shizukani-cp/status.nvim)
+- [gabrielgnsilva/statusline.nvim](https://github.com/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/statusline.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/statusline.nvim)
 
 ### Special Features
 
