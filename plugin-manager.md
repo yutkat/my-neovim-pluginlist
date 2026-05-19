@@ -96,6 +96,7 @@
 - [swaits/tiny-packupdate.nvim](https://github.com/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/stars/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/last-commit/swaits/tiny-packupdate.nvim) ![](https://img.shields.io/github/commit-activity/y/swaits/tiny-packupdate.nvim)
 - [llawn/pack-utils.nvim](https://github.com/llawn/pack-utils.nvim) ![](https://img.shields.io/github/stars/llawn/pack-utils.nvim) ![](https://img.shields.io/github/last-commit/llawn/pack-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/pack-utils.nvim)
 - [Roddyck/packview.nvim](https://github.com/Roddyck/packview.nvim) ![](https://img.shields.io/github/stars/Roddyck/packview.nvim) ![](https://img.shields.io/github/last-commit/Roddyck/packview.nvim) ![](https://img.shields.io/github/commit-activity/y/Roddyck/packview.nvim)
+- [qwexvf/pakku.nvim](https://github.com/qwexvf/pakku.nvim) ![](https://img.shields.io/github/stars/qwexvf/pakku.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/pakku.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/pakku.nvim)
 
 ### Update checker
 

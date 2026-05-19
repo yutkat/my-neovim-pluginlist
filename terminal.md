@@ -171,6 +171,7 @@
 
 - [agayushh/nvim-terminal-persistence](https://github.com/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/stars/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/last-commit/agayushh/nvim-terminal-persistence) ![](https://img.shields.io/github/commit-activity/y/agayushh/nvim-terminal-persistence)
 - [phanen/termmode.nvim](https://github.com/phanen/termmode.nvim) ![](https://img.shields.io/github/stars/phanen/termmode.nvim) ![](https://img.shields.io/github/last-commit/phanen/termmode.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/termmode.nvim)
+- [hbinhng/persistent-term.nvim](https://github.com/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/stars/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/last-commit/hbinhng/persistent-term.nvim) ![](https://img.shields.io/github/commit-activity/y/hbinhng/persistent-term.nvim)
 
 ### Send
 

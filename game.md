@@ -8,6 +8,7 @@
   - [Chess](#chess)
   - [Mine Sweeper](#mine-sweeper)
   - [Minecraft](#minecraft)
+  - [Bitburner](#bitburner)
   - [DOOM](#doom)
   - [Sudoku](#sudoku)
   - [Wordy](#wordy)
@@ -92,6 +93,10 @@
 ### Minecraft
 
 - [El-Mundos/nvim-sfml](https://github.com/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/stars/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/last-commit/El-Mundos/nvim-sfml) ![](https://img.shields.io/github/commit-activity/y/El-Mundos/nvim-sfml)
+
+### Bitburner
+
+- [emilnymann/netscript.nvim](https://github.com/emilnymann/netscript.nvim) ![](https://img.shields.io/github/stars/emilnymann/netscript.nvim) ![](https://img.shields.io/github/last-commit/emilnymann/netscript.nvim) ![](https://img.shields.io/github/commit-activity/y/emilnymann/netscript.nvim)
 
 ### DOOM
 

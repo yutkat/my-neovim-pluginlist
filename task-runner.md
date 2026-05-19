@@ -68,6 +68,7 @@
 - [SpyicyDev/run.nvim](https://github.com/SpyicyDev/run.nvim) ![](https://img.shields.io/github/stars/SpyicyDev/run.nvim) ![](https://img.shields.io/github/last-commit/SpyicyDev/run.nvim) ![](https://img.shields.io/github/commit-activity/y/SpyicyDev/run.nvim)
 - [pspiagicw/groom.nvim](https://github.com/pspiagicw/groom.nvim) ![](https://img.shields.io/github/stars/pspiagicw/groom.nvim) ![](https://img.shields.io/github/last-commit/pspiagicw/groom.nvim) ![](https://img.shields.io/github/commit-activity/y/pspiagicw/groom.nvim)
 - [wsdjeg/tasks.nvim](https://github.com/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/stars/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/tasks.nvim)
+- [mbfoss/easytasks.nvim](https://github.com/mbfoss/easytasks.nvim) ![](https://img.shields.io/github/stars/mbfoss/easytasks.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/easytasks.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/easytasks.nvim)
 
 #### Lua
 
@@ -226,6 +227,7 @@
 - [kotsmile/erun.nvim](https://github.com/kotsmile/erun.nvim) ![](https://img.shields.io/github/stars/kotsmile/erun.nvim) ![](https://img.shields.io/github/last-commit/kotsmile/erun.nvim) ![](https://img.shields.io/github/commit-activity/y/kotsmile/erun.nvim)
 - [JNSFilipe/compmod.nvim](https://github.com/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/stars/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/last-commit/JNSFilipe/compmod.nvim) ![](https://img.shields.io/github/commit-activity/y/JNSFilipe/compmod.nvim)
 - [ayosec/nvim-ceramicist](https://github.com/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/stars/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/last-commit/ayosec/nvim-ceramicist) ![](https://img.shields.io/github/commit-activity/y/ayosec/nvim-ceramicist)
+- [aetherspritee/mxcompile.nvim](https://github.com/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/stars/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/last-commit/aetherspritee/mxcompile.nvim) ![](https://img.shields.io/github/commit-activity/y/aetherspritee/mxcompile.nvim)
 
 ### Auto detect style
 

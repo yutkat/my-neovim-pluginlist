@@ -214,6 +214,8 @@
 - [kcayme/md-view.nvim](https://github.com/kcayme/md-view.nvim) ![](https://img.shields.io/github/stars/kcayme/md-view.nvim) ![](https://img.shields.io/github/last-commit/kcayme/md-view.nvim) ![](https://img.shields.io/github/commit-activity/y/kcayme/md-view.nvim)
 - [delphinus/md-render.nvim](https://github.com/delphinus/md-render.nvim) ![](https://img.shields.io/github/stars/delphinus/md-render.nvim) ![](https://img.shields.io/github/last-commit/delphinus/md-render.nvim) ![](https://img.shields.io/github/commit-activity/y/delphinus/md-render.nvim)
   - [yongjohnlee80/md-harpoon.nvim](https://github.com/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/md-harpoon.nvim)
+- [khaitranhq/markview.nvim](https://github.com/khaitranhq/markview.nvim) ![](https://img.shields.io/github/stars/khaitranhq/markview.nvim) ![](https://img.shields.io/github/last-commit/khaitranhq/markview.nvim) ![](https://img.shields.io/github/commit-activity/y/khaitranhq/markview.nvim)
+- [mimvoid/mdopen.nvim](https://github.com/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/stars/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/mdopen.nvim)
 
 ##### Python
 
