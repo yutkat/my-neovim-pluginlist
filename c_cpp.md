@@ -263,6 +263,7 @@
 - [MoulatiMehdi/HeaderGuard.nvim](https://github.com/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/stars/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/last-commit/MoulatiMehdi/HeaderGuard.nvim) ![](https://img.shields.io/github/commit-activity/y/MoulatiMehdi/HeaderGuard.nvim)
 - [PanasMoti/headerguard.nvim](https://github.com/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/stars/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/last-commit/PanasMoti/headerguard.nvim) ![](https://img.shields.io/github/commit-activity/y/PanasMoti/headerguard.nvim)
 - [LinkNexus/cpp_header_sync.nvim](https://github.com/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/stars/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/last-commit/LinkNexus/cpp_header_sync.nvim) ![](https://img.shields.io/github/commit-activity/y/LinkNexus/cpp_header_sync.nvim)
+- [FLeWz/clangd-direct-includes.nvim](https://github.com/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/stars/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/last-commit/FLeWz/clangd-direct-includes.nvim) ![](https://img.shields.io/github/commit-activity/y/FLeWz/clangd-direct-includes.nvim)
 
 ## PlatformIO
 

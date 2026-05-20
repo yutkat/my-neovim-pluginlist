@@ -160,6 +160,7 @@
 - [italianoW/brain.nvim](https://github.com/italianoW/brain.nvim) ![](https://img.shields.io/github/stars/italianoW/brain.nvim) ![](https://img.shields.io/github/last-commit/italianoW/brain.nvim) ![](https://img.shields.io/github/commit-activity/y/italianoW/brain.nvim)
 - [shadowfax92/markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/stars/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/markdown-focus.nvim)
 - [miniatureape/notebook.nvim](https://github.com/miniatureape/notebook.nvim) ![](https://img.shields.io/github/stars/miniatureape/notebook.nvim) ![](https://img.shields.io/github/last-commit/miniatureape/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/miniatureape/notebook.nvim)
+- [ryw27/projectnotes.nvim](https://github.com/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/stars/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/last-commit/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/ryw27/projectnotes.nvim)
 
 ### Journal
 
@@ -184,6 +185,7 @@
 - [KvnGonz7/nvim-journal-workflow](https://github.com/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/stars/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/last-commit/KvnGonz7/nvim-journal-workflow) ![](https://img.shields.io/github/commit-activity/y/KvnGonz7/nvim-journal-workflow)
 - [kmgrime/nota.nvim](https://github.com/kmgrime/nota.nvim) ![](https://img.shields.io/github/stars/kmgrime/nota.nvim) ![](https://img.shields.io/github/last-commit/kmgrime/nota.nvim) ![](https://img.shields.io/github/commit-activity/y/kmgrime/nota.nvim)
 - [LibereCode/journal.nvim](https://github.com/LibereCode/journal.nvim) ![](https://img.shields.io/github/stars/LibereCode/journal.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/journal.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/journal.nvim)
+- [riakiqqnm/daymemo.nvim](https://github.com/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/stars/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/last-commit/riakiqqnm/daymemo.nvim) ![](https://img.shields.io/github/commit-activity/y/riakiqqnm/daymemo.nvim)
 
 ### ToDo
 
