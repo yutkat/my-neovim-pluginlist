@@ -340,6 +340,7 @@
 - [kumarvivek1752/remote-ssh.nvim](https://github.com/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/stars/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/kumarvivek1752/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/kumarvivek1752/remote-ssh.nvim)
 - [tfpickard/sshiv.nvim](https://github.com/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/stars/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/last-commit/tfpickard/sshiv.nvim) ![](https://img.shields.io/github/commit-activity/y/tfpickard/sshiv.nvim)
 - [G00380316/ssh-launcher.nvim](https://github.com/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/stars/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/last-commit/G00380316/ssh-launcher.nvim) ![](https://img.shields.io/github/commit-activity/y/G00380316/ssh-launcher.nvim)
+- [GNITOAHC/remote-ssh.nvim](https://github.com/GNITOAHC/remote-ssh.nvim) ![](https://img.shields.io/github/stars/GNITOAHC/remote-ssh.nvim) ![](https://img.shields.io/github/last-commit/GNITOAHC/remote-ssh.nvim) ![](https://img.shields.io/github/commit-activity/y/GNITOAHC/remote-ssh.nvim)
 
 #### ftp
 
