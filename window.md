@@ -99,6 +99,7 @@
 - [ssgabrieldev/grid.nvim](https://github.com/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/stars/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/last-commit/ssgabrieldev/grid.nvim) ![](https://img.shields.io/github/commit-activity/y/ssgabrieldev/grid.nvim)
 - [AFwcxx/nvim-multipage](https://github.com/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/stars/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/last-commit/AFwcxx/nvim-multipage) ![](https://img.shields.io/github/commit-activity/y/AFwcxx/nvim-multipage)
 - [ishanvarade/scrollflow.nvim](https://github.com/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/stars/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/last-commit/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/commit-activity/y/ishanvarade/scrollflow.nvim)
+- [LiamGoodacre/lay.nvim](https://github.com/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/stars/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/last-commit/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamGoodacre/lay.nvim)
 
 #### close
 

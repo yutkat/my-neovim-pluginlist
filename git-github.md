@@ -392,6 +392,7 @@
 - [elanmed/git-diff.nvim](https://github.com/elanmed/git-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diff.nvim)
 - [goropikari/gitdiff.nvim](https://github.com/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/stars/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/gitdiff.nvim)
 - [llawn/buffer-change.nvim](https://github.com/llawn/buffer-change.nvim) ![](https://img.shields.io/github/stars/llawn/buffer-change.nvim) ![](https://img.shields.io/github/last-commit/llawn/buffer-change.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/buffer-change.nvim)
+- [softglitch/nvim-line-diff](https://github.com/softglitch/nvim-line-diff) ![](https://img.shields.io/github/stars/softglitch/nvim-line-diff) ![](https://img.shields.io/github/last-commit/softglitch/nvim-line-diff) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-line-diff)
 
 #### image diff
 
@@ -559,6 +560,7 @@
 - [skeletony007/git-help.nvim](https://github.com/skeletony007/git-help.nvim) ![](https://img.shields.io/github/stars/skeletony007/git-help.nvim) ![](https://img.shields.io/github/last-commit/skeletony007/git-help.nvim) ![](https://img.shields.io/github/commit-activity/y/skeletony007/git-help.nvim)
 - [martintrojer/fugitive-core.nvim](https://github.com/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/stars/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/fugitive-core.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/fugitive-core.nvim)
 - [sencer/vcs.nvim](https://github.com/sencer/vcs.nvim) ![](https://img.shields.io/github/stars/sencer/vcs.nvim) ![](https://img.shields.io/github/last-commit/sencer/vcs.nvim) ![](https://img.shields.io/github/commit-activity/y/sencer/vcs.nvim)
+- [zlj-zz/pigit.nvim](https://github.com/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/stars/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/last-commit/zlj-zz/pigit.nvim) ![](https://img.shields.io/github/commit-activity/y/zlj-zz/pigit.nvim)
 
 ## Darcs
 
