@@ -412,9 +412,9 @@
 - [simplycycling/obsidian-preview.nvim](https://github.com/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/stars/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/last-commit/simplycycling/obsidian-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/simplycycling/obsidian-preview.nvim)
 - [kev-cao/kai-obsidian.nvim](https://github.com/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/stars/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/last-commit/kev-cao/kai-obsidian.nvim) ![](https://img.shields.io/github/commit-activity/y/kev-cao/kai-obsidian.nvim)
 - [lastranget/obsidian-tasks-slop.nvim](https://github.com/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/stars/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/last-commit/lastranget/obsidian-tasks-slop.nvim) ![](https://img.shields.io/github/commit-activity/y/lastranget/obsidian-tasks-slop.nvim)
-
 - [Aevox121/obsidian-link.nvim](https://github.com/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/stars/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/last-commit/Aevox121/obsidian-link.nvim) ![](https://img.shields.io/github/commit-activity/y/Aevox121/obsidian-link.nvim)
 - [leezhengjing/obsidian-spaced-repetition.nvim](https://github.com/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/stars/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/last-commit/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/commit-activity/y/leezhengjing/obsidian-spaced-repetition.nvim)
+- [snapwich/obsidian-tasks.nvim](https://github.com/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/snapwich/obsidian-tasks.nvim)
 
 ### Logseq
 
