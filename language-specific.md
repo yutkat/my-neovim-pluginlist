@@ -827,7 +827,6 @@
 
 #### Lina
 
-- [lina-lng/lina.nvim](https://github.com/lina-lng/lina.nvim) ![](https://img.shields.io/github/stars/lina-lng/lina.nvim) ![](https://img.shields.io/github/last-commit/lina-lng/lina.nvim) ![](https://img.shields.io/github/commit-activity/y/lina-lng/lina.nvim)
 
 #### sylt
 
