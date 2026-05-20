@@ -31,6 +31,7 @@
 - [anderson3x11/theme-selector.nvim](https://github.com/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/stars/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/last-commit/anderson3x11/theme-selector.nvim) ![](https://img.shields.io/github/commit-activity/y/anderson3x11/theme-selector.nvim)
 - [blackhat-hemsworth/quicktheme.nvim](https://github.com/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/stars/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/last-commit/blackhat-hemsworth/quicktheme.nvim) ![](https://img.shields.io/github/commit-activity/y/blackhat-hemsworth/quicktheme.nvim)
 - [Picalines/colorsets.nvim](https://github.com/Picalines/colorsets.nvim) ![](https://img.shields.io/github/stars/Picalines/colorsets.nvim) ![](https://img.shields.io/github/last-commit/Picalines/colorsets.nvim) ![](https://img.shields.io/github/commit-activity/y/Picalines/colorsets.nvim)
+- [WantDead/theme-sync.nvim](https://github.com/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/stars/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/last-commit/WantDead/theme-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/WantDead/theme-sync.nvim)
 
 ### Transparency
 
