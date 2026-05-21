@@ -103,6 +103,7 @@
 - [Masalale/buffer-jump.nvim](https://github.com/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/stars/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/last-commit/Masalale/buffer-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/Masalale/buffer-jump.nvim)
 - [juliomc23/buffer-list.nvim](https://github.com/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/stars/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/last-commit/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/commit-activity/y/juliomc23/buffer-list.nvim)
 - [ankushbhagats/buffswitch.nvim](https://github.com/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/stars/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/last-commit/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ankushbhagats/buffswitch.nvim)
+- [themandes77/ibuff.nvim](https://github.com/themandes77/ibuff.nvim) ![](https://img.shields.io/github/stars/themandes77/ibuff.nvim) ![](https://img.shields.io/github/last-commit/themandes77/ibuff.nvim) ![](https://img.shields.io/github/commit-activity/y/themandes77/ibuff.nvim)
 
 ### Other Buffer Switcher
 

@@ -35,6 +35,7 @@
 - [perrin4869/nvim-in-its-entirety](https://github.com/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/stars/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/last-commit/perrin4869/nvim-in-its-entirety) ![](https://img.shields.io/github/commit-activity/y/perrin4869/nvim-in-its-entirety)
 - [coolcat702/targets.nvim](https://github.com/coolcat702/targets.nvim) ![](https://img.shields.io/github/stars/coolcat702/targets.nvim) ![](https://img.shields.io/github/last-commit/coolcat702/targets.nvim) ![](https://img.shields.io/github/commit-activity/y/coolcat702/targets.nvim)
 - [abhinavnatarajan/onword.nvim](https://github.com/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/stars/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/last-commit/abhinavnatarajan/onword.nvim) ![](https://img.shields.io/github/commit-activity/y/abhinavnatarajan/onword.nvim)
+- [maxischmaxi/inc-select.nvim](https://github.com/maxischmaxi/inc-select.nvim) ![](https://img.shields.io/github/stars/maxischmaxi/inc-select.nvim) ![](https://img.shields.io/github/last-commit/maxischmaxi/inc-select.nvim) ![](https://img.shields.io/github/commit-activity/y/maxischmaxi/inc-select.nvim)
 
 ### Unit
 

@@ -104,6 +104,8 @@
 
 ## Print
 
+- [LibereCode/printTreeTable.nvim](https://github.com/LibereCode/printTreeTable.nvim) ![](https://img.shields.io/github/stars/LibereCode/printTreeTable.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/printTreeTable.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/printTreeTable.nvim)
+
 ## Debug
 
 - [woosaaahh/debugwin.nvim](https://github.com/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/stars/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/last-commit/woosaaahh/debugwin.nvim) ![](https://img.shields.io/github/commit-activity/y/woosaaahh/debugwin.nvim)

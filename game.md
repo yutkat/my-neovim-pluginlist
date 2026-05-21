@@ -133,6 +133,7 @@
 - [matthieudesprez/nvim-game](https://github.com/matthieudesprez/nvim-game) ![](https://img.shields.io/github/stars/matthieudesprez/nvim-game) ![](https://img.shields.io/github/last-commit/matthieudesprez/nvim-game) ![](https://img.shields.io/github/commit-activity/y/matthieudesprez/nvim-game)
 - [protivinsky/etude.nvim](https://github.com/protivinsky/etude.nvim) ![](https://img.shields.io/github/stars/protivinsky/etude.nvim) ![](https://img.shields.io/github/last-commit/protivinsky/etude.nvim) ![](https://img.shields.io/github/commit-activity/y/protivinsky/etude.nvim)
 - [barelief/buftype.nvim](https://github.com/barelief/buftype.nvim) ![](https://img.shields.io/github/stars/barelief/buftype.nvim) ![](https://img.shields.io/github/last-commit/barelief/buftype.nvim) ![](https://img.shields.io/github/commit-activity/y/barelief/buftype.nvim)
+- [pakut2/wmc.nvim](https://github.com/pakut2/wmc.nvim) ![](https://img.shields.io/github/stars/pakut2/wmc.nvim) ![](https://img.shields.io/github/last-commit/pakut2/wmc.nvim) ![](https://img.shields.io/github/commit-activity/y/pakut2/wmc.nvim)
 
 ### FiveM
 

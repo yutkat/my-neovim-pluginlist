@@ -100,6 +100,7 @@
 - [Freed-Wu/cppinsights.nvim](https://github.com/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/stars/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/last-commit/Freed-Wu/cppinsights.nvim) ![](https://img.shields.io/github/commit-activity/y/Freed-Wu/cppinsights.nvim)
 - [J-Cowsert/classlayout.nvim](https://github.com/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/stars/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/last-commit/J-Cowsert/classlayout.nvim) ![](https://img.shields.io/github/commit-activity/y/J-Cowsert/classlayout.nvim)
   - [phpvoid/memlay.nvim](https://github.com/phpvoid/memlay.nvim) ![](https://img.shields.io/github/stars/phpvoid/memlay.nvim) ![](https://img.shields.io/github/last-commit/phpvoid/memlay.nvim) ![](https://img.shields.io/github/commit-activity/y/phpvoid/memlay.nvim)
+- [evancodes10/bitfield.nvim](https://github.com/evancodes10/bitfield.nvim) ![](https://img.shields.io/github/stars/evancodes10/bitfield.nvim) ![](https://img.shields.io/github/last-commit/evancodes10/bitfield.nvim) ![](https://img.shields.io/github/commit-activity/y/evancodes10/bitfield.nvim)
 
 #### elf
 

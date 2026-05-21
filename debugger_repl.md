@@ -89,6 +89,7 @@
 - [jmarcelomb/dap-persist.nvim](https://github.com/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/stars/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/last-commit/jmarcelomb/dap-persist.nvim) ![](https://img.shields.io/github/commit-activity/y/jmarcelomb/dap-persist.nvim)
 - [dav1d-wright/nvim-dap-image](https://github.com/dav1d-wright/nvim-dap-image) ![](https://img.shields.io/github/stars/dav1d-wright/nvim-dap-image) ![](https://img.shields.io/github/last-commit/dav1d-wright/nvim-dap-image) ![](https://img.shields.io/github/commit-activity/y/dav1d-wright/nvim-dap-image)
 - [ilyaZar/nvim-dap-r](https://github.com/ilyaZar/nvim-dap-r) ![](https://img.shields.io/github/stars/ilyaZar/nvim-dap-r) ![](https://img.shields.io/github/last-commit/ilyaZar/nvim-dap-r) ![](https://img.shields.io/github/commit-activity/y/ilyaZar/nvim-dap-r)
+- [Saladin1812/roundtable.nvim](https://github.com/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/stars/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/last-commit/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/commit-activity/y/Saladin1812/roundtable.nvim)
 
 #### Launch.json
 
