@@ -3,6 +3,8 @@
 <!-- toc -->
 
 - [Ruby](#ruby)
+  - [Syntax](#syntax)
+    - [blocks](#blocks)
   - [Test](#test)
   - [LSP](#lsp)
   - [Debug](#debug)
@@ -23,6 +25,11 @@
 - [phaul/shapeshifter.nvim](https://github.com/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/stars/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/last-commit/phaul/shapeshifter.nvim) ![](https://img.shields.io/github/commit-activity/y/phaul/shapeshifter.nvim)
 - [adam12/referral.nvim](https://github.com/adam12/referral.nvim) ![](https://img.shields.io/github/stars/adam12/referral.nvim) ![](https://img.shields.io/github/last-commit/adam12/referral.nvim) ![](https://img.shields.io/github/commit-activity/y/adam12/referral.nvim)
 - [lucianghinda/ruby-smart-copy.nvim](https://github.com/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/stars/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/last-commit/lucianghinda/ruby-smart-copy.nvim) ![](https://img.shields.io/github/commit-activity/y/lucianghinda/ruby-smart-copy.nvim)
+
+### Syntax
+
+#### blocks
+
 - [h3pei/ruby-block-toggle.nvim](https://github.com/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/stars/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/last-commit/h3pei/ruby-block-toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/h3pei/ruby-block-toggle.nvim)
 - [jcarlos7121/blockle.nvim](https://github.com/jcarlos7121/blockle.nvim) ![](https://img.shields.io/github/stars/jcarlos7121/blockle.nvim) ![](https://img.shields.io/github/last-commit/jcarlos7121/blockle.nvim) ![](https://img.shields.io/github/commit-activity/y/jcarlos7121/blockle.nvim)
 
