@@ -105,6 +105,7 @@
 
 - [urmzd/lazyspeak.nvim](https://github.com/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/stars/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/last-commit/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/commit-activity/y/urmzd/lazyspeak.nvim)
 - [kasbot951/murmur.nvim](https://github.com/kasbot951/murmur.nvim) ![](https://img.shields.io/github/stars/kasbot951/murmur.nvim) ![](https://img.shields.io/github/last-commit/kasbot951/murmur.nvim) ![](https://img.shields.io/github/commit-activity/y/kasbot951/murmur.nvim)
+- [gambhirsharma/cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/stars/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/last-commit/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/commit-activity/y/gambhirsharma/cgd.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -985,6 +986,7 @@
 - [jcger/review-prompt.nvim](https://github.com/jcger/review-prompt.nvim) ![](https://img.shields.io/github/stars/jcger/review-prompt.nvim) ![](https://img.shields.io/github/last-commit/jcger/review-prompt.nvim) ![](https://img.shields.io/github/commit-activity/y/jcger/review-prompt.nvim)
 - [colewhitley/agent-review.nvim](https://github.com/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/stars/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/last-commit/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/colewhitley/agent-review.nvim)
 - [igor-gorohovsky/agent-review.nvim](https://github.com/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/stars/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/last-commit/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/igor-gorohovsky/agent-review.nvim)
+- [Skarian/code-review.nvim](https://github.com/Skarian/code-review.nvim) ![](https://img.shields.io/github/stars/Skarian/code-review.nvim) ![](https://img.shields.io/github/last-commit/Skarian/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Skarian/code-review.nvim)
 
 ## Documentation
 
@@ -1094,6 +1096,7 @@
 - [marcelom97/claude-transport.nvim](https://github.com/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/stars/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/last-commit/marcelom97/claude-transport.nvim) ![](https://img.shields.io/github/commit-activity/y/marcelom97/claude-transport.nvim)
 - [andrew-d-moore/stationeers-mcp.nvim](https://github.com/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/stars/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/last-commit/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/andrew-d-moore/stationeers-mcp.nvim)
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-mcp)
+- [pappasam/nvim-context-mcp](https://github.com/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/stars/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/last-commit/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/commit-activity/y/pappasam/nvim-context-mcp)
 
 ### MCP SDK
 

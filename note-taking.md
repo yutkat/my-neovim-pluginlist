@@ -161,6 +161,8 @@
 - [shadowfax92/markdown-focus.nvim](https://github.com/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/stars/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/last-commit/shadowfax92/markdown-focus.nvim) ![](https://img.shields.io/github/commit-activity/y/shadowfax92/markdown-focus.nvim)
 - [miniatureape/notebook.nvim](https://github.com/miniatureape/notebook.nvim) ![](https://img.shields.io/github/stars/miniatureape/notebook.nvim) ![](https://img.shields.io/github/last-commit/miniatureape/notebook.nvim) ![](https://img.shields.io/github/commit-activity/y/miniatureape/notebook.nvim)
 - [ryw27/projectnotes.nvim](https://github.com/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/stars/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/last-commit/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/ryw27/projectnotes.nvim)
+- [ice345/markdown-table-wrap.nvim](https://github.com/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/stars/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/ice345/markdown-table-wrap.nvim)
+- [saadndm/mathlive.nvim](https://github.com/saadndm/mathlive.nvim) ![](https://img.shields.io/github/stars/saadndm/mathlive.nvim) ![](https://img.shields.io/github/last-commit/saadndm/mathlive.nvim) ![](https://img.shields.io/github/commit-activity/y/saadndm/mathlive.nvim)
 
 ### Journal
 
