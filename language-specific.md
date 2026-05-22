@@ -190,6 +190,7 @@
     - [C3](#c3)
     - [Vela](#vela)
     - [Awsum](#awsum)
+    - [Kaikai](#kaikai)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1064,6 +1065,10 @@
 
 - [awsum-lang/awsum-nvim](https://github.com/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/stars/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/last-commit/awsum-lang/awsum-nvim) ![](https://img.shields.io/github/commit-activity/y/awsum-lang/awsum-nvim)
 
+#### Kaikai
+
+- [kaikailang-org/kaikai.nvim](https://github.com/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/stars/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/last-commit/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/commit-activity/y/kaikailang-org/kaikai.nvim)
+
 ## Competitive programming
 
 - [p00f/cphelper.nvim](https://github.com/p00f/cphelper.nvim) ![](https://img.shields.io/github/stars/p00f/cphelper.nvim) ![](https://img.shields.io/github/last-commit/p00f/cphelper.nvim) ![](https://img.shields.io/github/commit-activity/y/p00f/cphelper.nvim)
@@ -1081,6 +1086,7 @@
 - [ddl0620/cpmode.nvim](https://github.com/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/stars/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/last-commit/ddl0620/cpmode.nvim) ![](https://img.shields.io/github/commit-activity/y/ddl0620/cpmode.nvim)
 - [shouryadixitisverycool/dmoj.nvim](https://github.com/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/stars/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/last-commit/shouryadixitisverycool/dmoj.nvim) ![](https://img.shields.io/github/commit-activity/y/shouryadixitisverycool/dmoj.nvim)
 - [kj-111/dodona.nvim](https://github.com/kj-111/dodona.nvim) ![](https://img.shields.io/github/stars/kj-111/dodona.nvim) ![](https://img.shields.io/github/last-commit/kj-111/dodona.nvim) ![](https://img.shields.io/github/commit-activity/y/kj-111/dodona.nvim)
+- [0xK4rim/FCPT.nvim](https://github.com/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/stars/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/last-commit/0xK4rim/FCPT.nvim) ![](https://img.shields.io/github/commit-activity/y/0xK4rim/FCPT.nvim)
 
 ### ACMOJ
 

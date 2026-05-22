@@ -236,6 +236,7 @@
 - [wakaranakattari/searchlight.nvim](https://github.com/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/stars/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/last-commit/wakaranakattari/searchlight.nvim) ![](https://img.shields.io/github/commit-activity/y/wakaranakattari/searchlight.nvim)
 - [nick-orton/token-grep.nvim](https://github.com/nick-orton/token-grep.nvim) ![](https://img.shields.io/github/stars/nick-orton/token-grep.nvim) ![](https://img.shields.io/github/last-commit/nick-orton/token-grep.nvim) ![](https://img.shields.io/github/commit-activity/y/nick-orton/token-grep.nvim)
 - [drop-stones/grepscope.nvim](https://github.com/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/stars/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/last-commit/drop-stones/grepscope.nvim) ![](https://img.shields.io/github/commit-activity/y/drop-stones/grepscope.nvim)
+- [CoderLambert/lazy-project-search.nvim](https://github.com/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/stars/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/last-commit/CoderLambert/lazy-project-search.nvim) ![](https://img.shields.io/github/commit-activity/y/CoderLambert/lazy-project-search.nvim)
 
 ### AST (Semantic search)
 

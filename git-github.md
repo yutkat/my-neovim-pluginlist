@@ -393,6 +393,7 @@
 - [goropikari/gitdiff.nvim](https://github.com/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/stars/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/gitdiff.nvim)
 - [llawn/buffer-change.nvim](https://github.com/llawn/buffer-change.nvim) ![](https://img.shields.io/github/stars/llawn/buffer-change.nvim) ![](https://img.shields.io/github/last-commit/llawn/buffer-change.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/buffer-change.nvim)
 - [softglitch/nvim-line-diff](https://github.com/softglitch/nvim-line-diff) ![](https://img.shields.io/github/stars/softglitch/nvim-line-diff) ![](https://img.shields.io/github/last-commit/softglitch/nvim-line-diff) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-line-diff)
+- [Symphon-y/gitdiff.nvim](https://github.com/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/stars/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/gitdiff.nvim)
 
 #### image diff
 
