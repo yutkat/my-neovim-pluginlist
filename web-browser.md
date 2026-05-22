@@ -5,6 +5,7 @@
 - [Browser Integration](#browser-integration)
   - [url open](#url-open)
     - [url preview](#url-preview)
+    - [convert the web page to markdown](#convert-the-web-page-to-markdown)
   - [DevTools](#devtools)
   - [Firefox](#firefox)
   - [DuckDuckGo](#duckduckgo)
@@ -53,6 +54,10 @@
 ##### url preview
 
 - [wurli/urlpreview.nvim](https://github.com/wurli/urlpreview.nvim) ![](https://img.shields.io/github/stars/wurli/urlpreview.nvim) ![](https://img.shields.io/github/last-commit/wurli/urlpreview.nvim) ![](https://img.shields.io/github/commit-activity/y/wurli/urlpreview.nvim)
+
+##### convert the web page to markdown
+
+- [jbuck95/web-clipper.nvim](https://github.com/jbuck95/web-clipper.nvim) ![](https://img.shields.io/github/stars/jbuck95/web-clipper.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/web-clipper.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/web-clipper.nvim)
 
 #### DevTools
 
