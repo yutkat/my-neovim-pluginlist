@@ -22,6 +22,7 @@
     - [xrandr](#xrandr)
   - [Windows](#windows)
     - [Explorer](#explorer)
+    - [Registry](#registry)
     - [Everything](#everything)
     - [AutoHotKey](#autohotkey)
     - [windbg](#windbg)
@@ -125,6 +126,10 @@
 #### Explorer
 
 - [srpmtt/nvim-open-in-explorer](https://github.com/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/stars/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/last-commit/srpmtt/nvim-open-in-explorer) ![](https://img.shields.io/github/commit-activity/y/srpmtt/nvim-open-in-explorer)
+
+#### Registry
+
+- [mkwpaul/nvim-winregview](https://github.com/mkwpaul/nvim-winregview) ![](https://img.shields.io/github/stars/mkwpaul/nvim-winregview) ![](https://img.shields.io/github/last-commit/mkwpaul/nvim-winregview) ![](https://img.shields.io/github/commit-activity/y/mkwpaul/nvim-winregview)
 
 #### Everything
 

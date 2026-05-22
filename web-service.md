@@ -125,6 +125,7 @@
 #### Telegram
 
 - [the-blc/telegram.nvim](https://github.com/the-blc/telegram.nvim) ![](https://img.shields.io/github/stars/the-blc/telegram.nvim) ![](https://img.shields.io/github/last-commit/the-blc/telegram.nvim) ![](https://img.shields.io/github/commit-activity/y/the-blc/telegram.nvim)
+- [ChuYanLon/telegram.nvim](https://github.com/ChuYanLon/telegram.nvim) ![](https://img.shields.io/github/stars/ChuYanLon/telegram.nvim) ![](https://img.shields.io/github/last-commit/ChuYanLon/telegram.nvim) ![](https://img.shields.io/github/commit-activity/y/ChuYanLon/telegram.nvim)
 
 #### Signal
 

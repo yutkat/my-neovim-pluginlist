@@ -8,6 +8,7 @@
     - [Whisper](#whisper)
   - [Gemini](#gemini)
     - [Gemini CLI](#gemini-cli)
+  - [Antigravity](#antigravity)
   - [Grok](#grok)
   - [Multi LLM](#multi-llm)
     - [crush](#crush)
@@ -247,6 +248,10 @@
 - [jeantimex/gemini-cli.nvim](https://github.com/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/stars/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/jeantimex/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/jeantimex/gemini-cli.nvim)
 - [Beloin/gemini-code.nvim](https://github.com/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/stars/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/last-commit/Beloin/gemini-code.nvim) ![](https://img.shields.io/github/commit-activity/y/Beloin/gemini-code.nvim)
 - [McEazy2700/gemini-cli.nvim](https://github.com/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/gemini-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/gemini-cli.nvim)
+
+### Antigravity
+
+- [McEazy2700/antigravity-cli.nvim](https://github.com/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/antigravity-cli.nvim)
 
 ### Grok
 
@@ -695,6 +700,7 @@
 - [sachchidanandx/opencode.nvim](https://github.com/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/stars/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/last-commit/sachchidanandx/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/sachchidanandx/opencode.nvim)
 - [13janderson/opencode-wt.nvim](https://github.com/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/stars/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/last-commit/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/opencode-wt.nvim)
 - [jorlly-collado-castro/opencode-lazy.nvim](https://github.com/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/opencode-lazy.nvim)
+- [McEazy2700/opencode.nvim](https://github.com/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/stars/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/opencode.nvim)
 
 ### Alma
 
@@ -1040,6 +1046,7 @@
 - [3v0k4/exit.nvim](https://github.com/3v0k4/exit.nvim) ![](https://img.shields.io/github/stars/3v0k4/exit.nvim) ![](https://img.shields.io/github/last-commit/3v0k4/exit.nvim) ![](https://img.shields.io/github/commit-activity/y/3v0k4/exit.nvim)
 - [dskart/nvim-claudehalp](https://github.com/dskart/nvim-claudehalp) ![](https://img.shields.io/github/stars/dskart/nvim-claudehalp) ![](https://img.shields.io/github/last-commit/dskart/nvim-claudehalp) ![](https://img.shields.io/github/commit-activity/y/dskart/nvim-claudehalp)
 - [dtnewman/remember.nvim](https://github.com/dtnewman/remember.nvim) ![](https://img.shields.io/github/stars/dtnewman/remember.nvim) ![](https://img.shields.io/github/last-commit/dtnewman/remember.nvim) ![](https://img.shields.io/github/commit-activity/y/dtnewman/remember.nvim)
+- [othorizedshogun/vim-whisperer.nvim](https://github.com/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/stars/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/last-commit/othorizedshogun/vim-whisperer.nvim) ![](https://img.shields.io/github/commit-activity/y/othorizedshogun/vim-whisperer.nvim)
 
 ## Copy File Context
 

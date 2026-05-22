@@ -5,6 +5,7 @@
 #### Whisper
 ### Gemini
 #### Gemini CLI
+### Antigravity
 ### Grok
 ### Multi LLM
 #### crush
@@ -1202,6 +1203,7 @@
 #### C3
 #### Vela
 #### Awsum
+#### Kaikai
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
@@ -1564,6 +1566,7 @@
 #### xrandr
 ### Windows
 #### Explorer
+#### Registry
 #### Everything
 #### AutoHotKey
 #### windbg
@@ -1884,6 +1887,8 @@
 
 # ruby.md
 ## Ruby
+### Syntax
+#### blocks
 ### Test
 ### LSP
 ### Debug
