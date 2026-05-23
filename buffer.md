@@ -179,6 +179,7 @@
 - [Rainfxxk/bufferman.nvim](https://github.com/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/stars/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/last-commit/Rainfxxk/bufferman.nvim) ![](https://img.shields.io/github/commit-activity/y/Rainfxxk/bufferman.nvim)
 - [themitchells/nvim-buffergator](https://github.com/themitchells/nvim-buffergator) ![](https://img.shields.io/github/stars/themitchells/nvim-buffergator) ![](https://img.shields.io/github/last-commit/themitchells/nvim-buffergator) ![](https://img.shields.io/github/commit-activity/y/themitchells/nvim-buffergator)
 - [Philanatidae/wintabs.nvim](https://github.com/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/stars/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/last-commit/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/commit-activity/y/Philanatidae/wintabs.nvim)
+- [merrebach/window-groups.nvim](https://github.com/merrebach/window-groups.nvim) ![](https://img.shields.io/github/stars/merrebach/window-groups.nvim) ![](https://img.shields.io/github/last-commit/merrebach/window-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/merrebach/window-groups.nvim)
 
 #### create
 

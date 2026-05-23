@@ -74,6 +74,7 @@
 - [maxbol/treesorter.nvim](https://github.com/maxbol/treesorter.nvim) ![](https://img.shields.io/github/stars/maxbol/treesorter.nvim) ![](https://img.shields.io/github/last-commit/maxbol/treesorter.nvim) ![](https://img.shields.io/github/commit-activity/y/maxbol/treesorter.nvim)
 - [gwydion67/headwind.nvim](https://github.com/gwydion67/headwind.nvim) ![](https://img.shields.io/github/stars/gwydion67/headwind.nvim) ![](https://img.shields.io/github/last-commit/gwydion67/headwind.nvim) ![](https://img.shields.io/github/commit-activity/y/gwydion67/headwind.nvim)
 - [Sengoku11/line-tools.nvim](https://github.com/Sengoku11/line-tools.nvim) ![](https://img.shields.io/github/stars/Sengoku11/line-tools.nvim) ![](https://img.shields.io/github/last-commit/Sengoku11/line-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/Sengoku11/line-tools.nvim)
+- [WnndGws/nvim-blocksort](https://github.com/WnndGws/nvim-blocksort) ![](https://img.shields.io/github/stars/WnndGws/nvim-blocksort) ![](https://img.shields.io/github/last-commit/WnndGws/nvim-blocksort) ![](https://img.shields.io/github/commit-activity/y/WnndGws/nvim-blocksort)
 
 ### make
 

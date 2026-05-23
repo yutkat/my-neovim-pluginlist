@@ -3,6 +3,7 @@
 <!-- toc -->
 
 - [Natural Languages](#natural-languages)
+  - [Japanese](#japanese)
   - [Chinese](#chinese)
   - [French](#french)
   - [Hebrew](#hebrew)
@@ -20,6 +21,10 @@
 - [SanzharKuandyk/subjoyer.nvim](https://github.com/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/stars/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/last-commit/SanzharKuandyk/subjoyer.nvim) ![](https://img.shields.io/github/commit-activity/y/SanzharKuandyk/subjoyer.nvim)
 - [ephi-jp/polytype.nvim](https://github.com/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/stars/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/last-commit/ephi-jp/polytype.nvim) ![](https://img.shields.io/github/commit-activity/y/ephi-jp/polytype.nvim)
 - [confusedkernel/elicit.nvim](https://github.com/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/stars/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/last-commit/confusedkernel/elicit.nvim) ![](https://img.shields.io/github/commit-activity/y/confusedkernel/elicit.nvim)
+
+### Japanese
+
+- [qq3g7bad/hanzen.nvim](https://github.com/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/stars/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/last-commit/qq3g7bad/hanzen.nvim) ![](https://img.shields.io/github/commit-activity/y/qq3g7bad/hanzen.nvim)
 
 ### Chinese
 
