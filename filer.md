@@ -161,6 +161,7 @@
 - [68mschmitt/DirQuest.nvim](https://github.com/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/stars/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/DirQuest.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/DirQuest.nvim)
 - [AIntelligentTech/nvim-snacks-file-picker-mouse-support](https://github.com/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/stars/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/last-commit/AIntelligentTech/nvim-snacks-file-picker-mouse-support) ![](https://img.shields.io/github/commit-activity/y/AIntelligentTech/nvim-snacks-file-picker-mouse-support)
 - [wym2010/spark.nvim](https://github.com/wym2010/spark.nvim) ![](https://img.shields.io/github/stars/wym2010/spark.nvim) ![](https://img.shields.io/github/last-commit/wym2010/spark.nvim) ![](https://img.shields.io/github/commit-activity/y/wym2010/spark.nvim)
+- [dolmens/finder.nvim](https://github.com/dolmens/finder.nvim) ![](https://img.shields.io/github/stars/dolmens/finder.nvim) ![](https://img.shields.io/github/last-commit/dolmens/finder.nvim) ![](https://img.shields.io/github/commit-activity/y/dolmens/finder.nvim)
 
 ### Emacs style
 

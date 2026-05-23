@@ -204,6 +204,7 @@
 - [amihere/dotenv.nvim](https://github.com/amihere/dotenv.nvim) ![](https://img.shields.io/github/stars/amihere/dotenv.nvim) ![](https://img.shields.io/github/last-commit/amihere/dotenv.nvim) ![](https://img.shields.io/github/commit-activity/y/amihere/dotenv.nvim)
 - [philosofonusus/ecolog.nvim](https://github.com/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/stars/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/last-commit/philosofonusus/ecolog.nvim) ![](https://img.shields.io/github/commit-activity/y/philosofonusus/ecolog.nvim)
 - [ph1losof/shelter.nvim](https://github.com/ph1losof/shelter.nvim) ![](https://img.shields.io/github/stars/ph1losof/shelter.nvim) ![](https://img.shields.io/github/last-commit/ph1losof/shelter.nvim) ![](https://img.shields.io/github/commit-activity/y/ph1losof/shelter.nvim)
+- [aguraan/env_window.nvim](https://github.com/aguraan/env_window.nvim) ![](https://img.shields.io/github/stars/aguraan/env_window.nvim) ![](https://img.shields.io/github/last-commit/aguraan/env_window.nvim) ![](https://img.shields.io/github/commit-activity/y/aguraan/env_window.nvim)
 
 #### direnv
 

@@ -153,6 +153,7 @@
 - [jbuck95/glossator-nvim](https://github.com/jbuck95/glossator-nvim) ![](https://img.shields.io/github/stars/jbuck95/glossator-nvim) ![](https://img.shields.io/github/last-commit/jbuck95/glossator-nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/glossator-nvim)
 - [68mschmitt/gloss.nvim](https://github.com/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/stars/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/last-commit/68mschmitt/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/68mschmitt/gloss.nvim)
 - [chpeters/annotator.nvim](https://github.com/chpeters/annotator.nvim) ![](https://img.shields.io/github/stars/chpeters/annotator.nvim) ![](https://img.shields.io/github/last-commit/chpeters/annotator.nvim) ![](https://img.shields.io/github/commit-activity/y/chpeters/annotator.nvim)
+- [andreeich/comments.nvim](https://github.com/andreeich/comments.nvim) ![](https://img.shields.io/github/stars/andreeich/comments.nvim) ![](https://img.shields.io/github/last-commit/andreeich/comments.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/comments.nvim)
 
 ### function comment
 

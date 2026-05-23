@@ -19,6 +19,7 @@
 - [stefanwatt/remote.nvim](https://github.com/stefanwatt/remote.nvim) ![](https://img.shields.io/github/stars/stefanwatt/remote.nvim) ![](https://img.shields.io/github/last-commit/stefanwatt/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/stefanwatt/remote.nvim)
 - [amitds1997/remote-nvim.nvim](https://github.com/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/stars/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/last-commit/amitds1997/remote-nvim.nvim) ![](https://img.shields.io/github/commit-activity/y/amitds1997/remote-nvim.nvim)
 - [advaypakhale/remote.nvim](https://github.com/advaypakhale/remote.nvim) ![](https://img.shields.io/github/stars/advaypakhale/remote.nvim) ![](https://img.shields.io/github/last-commit/advaypakhale/remote.nvim) ![](https://img.shields.io/github/commit-activity/y/advaypakhale/remote.nvim)
+- [serhez/editr.nvim](https://github.com/serhez/editr.nvim) ![](https://img.shields.io/github/stars/serhez/editr.nvim) ![](https://img.shields.io/github/last-commit/serhez/editr.nvim) ![](https://img.shields.io/github/commit-activity/y/serhez/editr.nvim)
 
 ### Devcontainer
 
@@ -54,3 +55,4 @@
 - [AEKjeldal/imposter.nvim](https://github.com/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/stars/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/last-commit/AEKjeldal/imposter.nvim) ![](https://img.shields.io/github/commit-activity/y/AEKjeldal/imposter.nvim)
 - [kevintraver/nvim-vscode-status](https://github.com/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/stars/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/last-commit/kevintraver/nvim-vscode-status) ![](https://img.shields.io/github/commit-activity/y/kevintraver/nvim-vscode-status)
 - [kimpure/vscode-settings.nvim](https://github.com/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/stars/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/last-commit/kimpure/vscode-settings.nvim) ![](https://img.shields.io/github/commit-activity/y/kimpure/vscode-settings.nvim)
+- [pankaj4u4m/vscode-productivity.nvim](https://github.com/pankaj4u4m/vscode-productivity.nvim) ![](https://img.shields.io/github/stars/pankaj4u4m/vscode-productivity.nvim) ![](https://img.shields.io/github/last-commit/pankaj4u4m/vscode-productivity.nvim) ![](https://img.shields.io/github/commit-activity/y/pankaj4u4m/vscode-productivity.nvim)

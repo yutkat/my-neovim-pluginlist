@@ -107,6 +107,8 @@
 - [urmzd/lazyspeak.nvim](https://github.com/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/stars/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/last-commit/urmzd/lazyspeak.nvim) ![](https://img.shields.io/github/commit-activity/y/urmzd/lazyspeak.nvim)
 - [kasbot951/murmur.nvim](https://github.com/kasbot951/murmur.nvim) ![](https://img.shields.io/github/stars/kasbot951/murmur.nvim) ![](https://img.shields.io/github/last-commit/kasbot951/murmur.nvim) ![](https://img.shields.io/github/commit-activity/y/kasbot951/murmur.nvim)
 - [gambhirsharma/cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/stars/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/last-commit/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/commit-activity/y/gambhirsharma/cgd.nvim)
+- [gvanbeck/luai.nvim](https://github.com/gvanbeck/luai.nvim) ![](https://img.shields.io/github/stars/gvanbeck/luai.nvim) ![](https://img.shields.io/github/last-commit/gvanbeck/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/gvanbeck/luai.nvim)
+- [laynef/sage.nvim](https://github.com/laynef/sage.nvim) ![](https://img.shields.io/github/stars/laynef/sage.nvim) ![](https://img.shields.io/github/last-commit/laynef/sage.nvim) ![](https://img.shields.io/github/commit-activity/y/laynef/sage.nvim)
 
 ### OpenAI(ChatGPT)
 

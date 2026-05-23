@@ -581,6 +581,7 @@
 
 - [tiyn/viper.nvim](https://github.com/tiyn/viper.nvim) ![](https://img.shields.io/github/stars/tiyn/viper.nvim) ![](https://img.shields.io/github/last-commit/tiyn/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/tiyn/viper.nvim)
 - [HSMF/viper.nvim](https://github.com/HSMF/viper.nvim) ![](https://img.shields.io/github/stars/HSMF/viper.nvim) ![](https://img.shields.io/github/last-commit/HSMF/viper.nvim) ![](https://img.shields.io/github/commit-activity/y/HSMF/viper.nvim)
+- [tifrueh/nvim-viper-ide](https://github.com/tifrueh/nvim-viper-ide) ![](https://img.shields.io/github/stars/tifrueh/nvim-viper-ide) ![](https://img.shields.io/github/last-commit/tifrueh/nvim-viper-ide) ![](https://img.shields.io/github/commit-activity/y/tifrueh/nvim-viper-ide)
 
 #### Plank
 
@@ -1117,6 +1118,7 @@
 - [MuazTPM-YT/leetvim.nvim](https://github.com/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/stars/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/last-commit/MuazTPM-YT/leetvim.nvim) ![](https://img.shields.io/github/commit-activity/y/MuazTPM-YT/leetvim.nvim)
 - [sh1zer/leet.nvim](https://github.com/sh1zer/leet.nvim) ![](https://img.shields.io/github/stars/sh1zer/leet.nvim) ![](https://img.shields.io/github/last-commit/sh1zer/leet.nvim) ![](https://img.shields.io/github/commit-activity/y/sh1zer/leet.nvim)
 - [SCUTBrothers/leetcode-compat.nvim](https://github.com/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/stars/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/last-commit/SCUTBrothers/leetcode-compat.nvim) ![](https://img.shields.io/github/commit-activity/y/SCUTBrothers/leetcode-compat.nvim)
+- [sidntrivedi/leetcode.nvim](https://github.com/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/stars/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/last-commit/sidntrivedi/leetcode.nvim) ![](https://img.shields.io/github/commit-activity/y/sidntrivedi/leetcode.nvim)
 
 ### AtCoder
 

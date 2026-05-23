@@ -1387,6 +1387,7 @@
 
 # natural-languages.md
 ## Natural Languages
+### Japanese
 ### Chinese
 ### French
 ### Hebrew
