@@ -163,6 +163,7 @@
 - [ryw27/projectnotes.nvim](https://github.com/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/stars/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/last-commit/ryw27/projectnotes.nvim) ![](https://img.shields.io/github/commit-activity/y/ryw27/projectnotes.nvim)
 - [ice345/markdown-table-wrap.nvim](https://github.com/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/stars/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/ice345/markdown-table-wrap.nvim)
 - [saadndm/mathlive.nvim](https://github.com/saadndm/mathlive.nvim) ![](https://img.shields.io/github/stars/saadndm/mathlive.nvim) ![](https://img.shields.io/github/last-commit/saadndm/mathlive.nvim) ![](https://img.shields.io/github/commit-activity/y/saadndm/mathlive.nvim)
+- [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
 
 ### Journal
 
@@ -343,6 +344,7 @@
 - [LibereCode/todo-sh.nvim](https://github.com/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/stars/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/last-commit/LibereCode/todo-sh.nvim) ![](https://img.shields.io/github/commit-activity/y/LibereCode/todo-sh.nvim)
 - [YlanAllouche/striked.nvim](https://github.com/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/stars/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/last-commit/YlanAllouche/striked.nvim) ![](https://img.shields.io/github/commit-activity/y/YlanAllouche/striked.nvim)
 - [mimvoid/todoview.nvim](https://github.com/mimvoid/todoview.nvim) ![](https://img.shields.io/github/stars/mimvoid/todoview.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/todoview.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/todoview.nvim)
+- [matheusmurkdock/todo.nvim](https://github.com/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/stars/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/last-commit/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusmurkdock/todo.nvim)
 
 #### Google Task
 

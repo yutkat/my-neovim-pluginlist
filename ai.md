@@ -813,6 +813,7 @@
 - [hyprpilot/hyprpilot.nvim](https://github.com/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/stars/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/last-commit/hyprpilot/hyprpilot.nvim) ![](https://img.shields.io/github/commit-activity/y/hyprpilot/hyprpilot.nvim)
 - [lucatume/agent-ask.nvim](https://github.com/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/stars/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/last-commit/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/lucatume/agent-ask.nvim)
 - [jhanna2/nvim-agent](https://github.com/jhanna2/nvim-agent) ![](https://img.shields.io/github/stars/jhanna2/nvim-agent) ![](https://img.shields.io/github/last-commit/jhanna2/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/jhanna2/nvim-agent)
+- [inhesrom/agents.nvim](https://github.com/inhesrom/agents.nvim) ![](https://img.shields.io/github/stars/inhesrom/agents.nvim) ![](https://img.shields.io/github/last-commit/inhesrom/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/inhesrom/agents.nvim)
 
 ### AGENTS.md
 

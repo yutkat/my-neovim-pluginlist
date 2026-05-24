@@ -130,6 +130,7 @@
 - [dwainm/tmux-commander.nvim](https://github.com/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/stars/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/last-commit/dwainm/tmux-commander.nvim) ![](https://img.shields.io/github/commit-activity/y/dwainm/tmux-commander.nvim)
 - [its-saanvi/sessionizer.nvim](https://github.com/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/stars/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/last-commit/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/its-saanvi/sessionizer.nvim)
 - [keyvanm/zyn.nvim](https://github.com/keyvanm/zyn.nvim) ![](https://img.shields.io/github/stars/keyvanm/zyn.nvim) ![](https://img.shields.io/github/last-commit/keyvanm/zyn.nvim) ![](https://img.shields.io/github/commit-activity/y/keyvanm/zyn.nvim)
+- [andreeich/tmux.nvim](https://github.com/andreeich/tmux.nvim) ![](https://img.shields.io/github/stars/andreeich/tmux.nvim) ![](https://img.shields.io/github/last-commit/andreeich/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/tmux.nvim)
 
 ##### tmux alternative
 
