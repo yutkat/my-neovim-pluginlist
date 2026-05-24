@@ -66,6 +66,7 @@
 - [oskarnurm/win.nvim](https://github.com/oskarnurm/win.nvim) ![](https://img.shields.io/github/stars/oskarnurm/win.nvim) ![](https://img.shields.io/github/last-commit/oskarnurm/win.nvim) ![](https://img.shields.io/github/commit-activity/y/oskarnurm/win.nvim)
 - [rmb0034/toggle.nvim](https://github.com/rmb0034/toggle.nvim) ![](https://img.shields.io/github/stars/rmb0034/toggle.nvim) ![](https://img.shields.io/github/last-commit/rmb0034/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/rmb0034/toggle.nvim)
 - [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/stars/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/tabman.nvim)
+- [Russoul/window-manip.nvim](https://github.com/Russoul/window-manip.nvim) ![](https://img.shields.io/github/stars/Russoul/window-manip.nvim) ![](https://img.shields.io/github/last-commit/Russoul/window-manip.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/window-manip.nvim)
 
 #### move
 

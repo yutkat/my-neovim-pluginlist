@@ -334,6 +334,7 @@
 - [JoshuaDueck/hotline.nvim](https://github.com/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/stars/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/last-commit/JoshuaDueck/hotline.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaDueck/hotline.nvim)
 - [Daiki48/gbv.nvim](https://github.com/Daiki48/gbv.nvim) ![](https://img.shields.io/github/stars/Daiki48/gbv.nvim) ![](https://img.shields.io/github/last-commit/Daiki48/gbv.nvim) ![](https://img.shields.io/github/commit-activity/y/Daiki48/gbv.nvim)
 - [BMilliet/lore.nvim](https://github.com/BMilliet/lore.nvim) ![](https://img.shields.io/github/stars/BMilliet/lore.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/lore.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/lore.nvim)
+- [modulomedito/rookie_git.nvim](https://github.com/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_git.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_git.nvim)
 
 #### preview contents
 

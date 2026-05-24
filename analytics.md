@@ -121,6 +121,7 @@
 - [jameskeim/nvim-writing-metrics](https://github.com/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/stars/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/last-commit/jameskeim/nvim-writing-metrics) ![](https://img.shields.io/github/commit-activity/y/jameskeim/nvim-writing-metrics)
 - [leonardofmoura/writing-sessions.nvim](https://github.com/leonardofmoura/writing-sessions.nvim) ![](https://img.shields.io/github/stars/leonardofmoura/writing-sessions.nvim) ![](https://img.shields.io/github/last-commit/leonardofmoura/writing-sessions.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardofmoura/writing-sessions.nvim)
 - [ruinivist/loc.nvim](https://github.com/ruinivist/loc.nvim) ![](https://img.shields.io/github/stars/ruinivist/loc.nvim) ![](https://img.shields.io/github/last-commit/ruinivist/loc.nvim) ![](https://img.shields.io/github/commit-activity/y/ruinivist/loc.nvim)
+- [matheusmurkdock/lineofcontrol.nvim](https://github.com/matheusmurkdock/lineofcontrol.nvim) ![](https://img.shields.io/github/stars/matheusmurkdock/lineofcontrol.nvim) ![](https://img.shields.io/github/last-commit/matheusmurkdock/lineofcontrol.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusmurkdock/lineofcontrol.nvim)
 
 ### Operation Log
 

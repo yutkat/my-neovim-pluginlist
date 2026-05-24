@@ -147,6 +147,7 @@
 - [OceanOSdev/doom-diagnostics.nvim](https://github.com/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/stars/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/last-commit/OceanOSdev/doom-diagnostics.nvim) ![](https://img.shields.io/github/commit-activity/y/OceanOSdev/doom-diagnostics.nvim)
 - [sheymor21/unidiagnostic.nvim](https://github.com/sheymor21/unidiagnostic.nvim) ![](https://img.shields.io/github/stars/sheymor21/unidiagnostic.nvim) ![](https://img.shields.io/github/last-commit/sheymor21/unidiagnostic.nvim) ![](https://img.shields.io/github/commit-activity/y/sheymor21/unidiagnostic.nvim)
 - [takeshiD/whyis.nvim](https://github.com/takeshiD/whyis.nvim) ![](https://img.shields.io/github/stars/takeshiD/whyis.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/whyis.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/whyis.nvim)
+- [Derrekito/diagnostic-picker.nvim](https://github.com/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/stars/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/last-commit/Derrekito/diagnostic-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/Derrekito/diagnostic-picker.nvim)
 
 ##### Diagnostics goto
 

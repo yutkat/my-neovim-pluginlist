@@ -131,6 +131,7 @@
 - [gh-liu/nvim-bullseye](https://github.com/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/stars/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/last-commit/gh-liu/nvim-bullseye) ![](https://img.shields.io/github/commit-activity/y/gh-liu/nvim-bullseye)
 - [BlakeJC94/shelly.nvim](https://github.com/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/stars/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/last-commit/BlakeJC94/shelly.nvim) ![](https://img.shields.io/github/commit-activity/y/BlakeJC94/shelly.nvim)
 - [urtzienriquez/replent.nvim](https://github.com/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/stars/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/last-commit/urtzienriquez/replent.nvim) ![](https://img.shields.io/github/commit-activity/y/urtzienriquez/replent.nvim)
+- [rkube/ghostty-slime.nvim](https://github.com/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/stars/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/last-commit/rkube/ghostty-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rkube/ghostty-slime.nvim)
 
 ### Refactoring,Debugging
 
