@@ -127,6 +127,7 @@
 - [saghen/blink.lib](https://github.com/saghen/blink.lib) ![](https://img.shields.io/github/stars/saghen/blink.lib) ![](https://img.shields.io/github/last-commit/saghen/blink.lib) ![](https://img.shields.io/github/commit-activity/y/saghen/blink.lib)
 - [so1ve/blink-noice-docs.nvim](https://github.com/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/stars/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/last-commit/so1ve/blink-noice-docs.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/blink-noice-docs.nvim)
 - [piero-vic/blink-cmp-ledger](https://github.com/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/stars/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/last-commit/piero-vic/blink-cmp-ledger) ![](https://img.shields.io/github/commit-activity/y/piero-vic/blink-cmp-ledger)
+- [benborla/at-file.nvim](https://github.com/benborla/at-file.nvim) ![](https://img.shields.io/github/stars/benborla/at-file.nvim) ![](https://img.shields.io/github/last-commit/benborla/at-file.nvim) ![](https://img.shields.io/github/commit-activity/y/benborla/at-file.nvim)
 
 ### Auto Completion support
 
