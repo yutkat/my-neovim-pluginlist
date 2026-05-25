@@ -54,6 +54,7 @@
 - [josstei/quill.nvim](https://github.com/josstei/quill.nvim) ![](https://img.shields.io/github/stars/josstei/quill.nvim) ![](https://img.shields.io/github/last-commit/josstei/quill.nvim) ![](https://img.shields.io/github/commit-activity/y/josstei/quill.nvim)
 - [nickbutler/scope-comment.nvim](https://github.com/nickbutler/scope-comment.nvim) ![](https://img.shields.io/github/stars/nickbutler/scope-comment.nvim) ![](https://img.shields.io/github/last-commit/nickbutler/scope-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/nickbutler/scope-comment.nvim)
 - [AlexPhoenix42/phoenixnv-comments.nvim](https://github.com/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/stars/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/last-commit/AlexPhoenix42/phoenixnv-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexPhoenix42/phoenixnv-comments.nvim)
+- [so1ve/tiny-comment.nvim](https://github.com/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/stars/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/last-commit/so1ve/tiny-comment.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/tiny-comment.nvim)
 
 ### Continue
 
