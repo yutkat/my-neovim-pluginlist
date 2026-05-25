@@ -841,6 +841,7 @@
 - [qasimstatic/pie.nvim](https://github.com/qasimstatic/pie.nvim) ![](https://img.shields.io/github/stars/qasimstatic/pie.nvim) ![](https://img.shields.io/github/last-commit/qasimstatic/pie.nvim) ![](https://img.shields.io/github/commit-activity/y/qasimstatic/pie.nvim)
 - [AndreaKinder/pi-togle.nvim](https://github.com/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/pi-togle.nvim)
 - [lukemelnik/piovim.nvim](https://github.com/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/stars/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/piovim.nvim)
+- [saattrupdan/pi-agent.nvim](https://github.com/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/stars/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/saattrupdan/pi-agent.nvim)
 
 ### Amp
 
@@ -996,6 +997,7 @@
 - [colewhitley/agent-review.nvim](https://github.com/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/stars/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/last-commit/colewhitley/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/colewhitley/agent-review.nvim)
 - [igor-gorohovsky/agent-review.nvim](https://github.com/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/stars/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/last-commit/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/igor-gorohovsky/agent-review.nvim)
 - [Skarian/code-review.nvim](https://github.com/Skarian/code-review.nvim) ![](https://img.shields.io/github/stars/Skarian/code-review.nvim) ![](https://img.shields.io/github/last-commit/Skarian/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Skarian/code-review.nvim)
+- [pratyushmittal/faltoo.nvim](https://github.com/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/stars/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/last-commit/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/commit-activity/y/pratyushmittal/faltoo.nvim)
 
 ## Documentation
 

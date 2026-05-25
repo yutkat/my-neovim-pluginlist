@@ -344,6 +344,7 @@
 ## TOML
 
 - [wsdjeg/toml.nvim](https://github.com/wsdjeg/toml.nvim) ![](https://img.shields.io/github/stars/wsdjeg/toml.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/toml.nvim)
+- [dox4/taohua.nvim](https://github.com/dox4/taohua.nvim) ![](https://img.shields.io/github/stars/dox4/taohua.nvim) ![](https://img.shields.io/github/last-commit/dox4/taohua.nvim) ![](https://img.shields.io/github/commit-activity/y/dox4/taohua.nvim)
 
 ## Require
 
