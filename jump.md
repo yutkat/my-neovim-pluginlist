@@ -85,6 +85,7 @@
 
 - [mawkler/hml.nvim](https://github.com/mawkler/hml.nvim) ![](https://img.shields.io/github/stars/mawkler/hml.nvim) ![](https://img.shields.io/github/last-commit/mawkler/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/mawkler/hml.nvim)
 - [yochem/jumpsigns.nvim](https://github.com/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/stars/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/last-commit/yochem/jumpsigns.nvim) ![](https://img.shields.io/github/commit-activity/y/yochem/jumpsigns.nvim)
+- [er-GOD-ic/hml.nvim](https://github.com/er-GOD-ic/hml.nvim) ![](https://img.shields.io/github/stars/er-GOD-ic/hml.nvim) ![](https://img.shields.io/github/last-commit/er-GOD-ic/hml.nvim) ![](https://img.shields.io/github/commit-activity/y/er-GOD-ic/hml.nvim)
 
 ### Bisection
 
