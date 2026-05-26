@@ -132,6 +132,7 @@
 - [jamespeilunli/nvim-flatbuffers](https://github.com/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/stars/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/last-commit/jamespeilunli/nvim-flatbuffers) ![](https://img.shields.io/github/commit-activity/y/jamespeilunli/nvim-flatbuffers)
 - [adamatom/clangd-db-picker.nvim](https://github.com/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/stars/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/last-commit/adamatom/clangd-db-picker.nvim) ![](https://img.shields.io/github/commit-activity/y/adamatom/clangd-db-picker.nvim)
 - [sr-tream/clangd-preamble.nvim](https://github.com/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/stars/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/last-commit/sr-tream/clangd-preamble.nvim) ![](https://img.shields.io/github/commit-activity/y/sr-tream/clangd-preamble.nvim)
+- [modulomedito/rookie_c.nvim](https://github.com/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_c.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_c.nvim)
 
 ### Formatter
 

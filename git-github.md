@@ -311,6 +311,7 @@
 - [rpollard00/gutter-slime.nvim](https://github.com/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/stars/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/last-commit/rpollard00/gutter-slime.nvim) ![](https://img.shields.io/github/commit-activity/y/rpollard00/gutter-slime.nvim)
 - [takeshiD/hover-git.nvim](https://github.com/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/stars/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/last-commit/takeshiD/hover-git.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshiD/hover-git.nvim)
 - [kuzb/blame.nvim](https://github.com/kuzb/blame.nvim) ![](https://img.shields.io/github/stars/kuzb/blame.nvim) ![](https://img.shields.io/github/last-commit/kuzb/blame.nvim) ![](https://img.shields.io/github/commit-activity/y/kuzb/blame.nvim)
+- [markmarkoh/code-age.nvim](https://github.com/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/stars/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/last-commit/markmarkoh/code-age.nvim) ![](https://img.shields.io/github/commit-activity/y/markmarkoh/code-age.nvim)
 
 ### git log
 

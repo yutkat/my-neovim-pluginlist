@@ -131,6 +131,7 @@
 - [its-saanvi/sessionizer.nvim](https://github.com/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/stars/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/last-commit/its-saanvi/sessionizer.nvim) ![](https://img.shields.io/github/commit-activity/y/its-saanvi/sessionizer.nvim)
 - [keyvanm/zyn.nvim](https://github.com/keyvanm/zyn.nvim) ![](https://img.shields.io/github/stars/keyvanm/zyn.nvim) ![](https://img.shields.io/github/last-commit/keyvanm/zyn.nvim) ![](https://img.shields.io/github/commit-activity/y/keyvanm/zyn.nvim)
 - [andreeich/tmux.nvim](https://github.com/andreeich/tmux.nvim) ![](https://img.shields.io/github/stars/andreeich/tmux.nvim) ![](https://img.shields.io/github/last-commit/andreeich/tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/andreeich/tmux.nvim)
+- [viniarck/snacks-tmuxdir.nvim](https://github.com/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/stars/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/last-commit/viniarck/snacks-tmuxdir.nvim) ![](https://img.shields.io/github/commit-activity/y/viniarck/snacks-tmuxdir.nvim)
 
 ##### tmux alternative
 

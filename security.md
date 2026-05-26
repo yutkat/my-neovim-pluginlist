@@ -98,6 +98,7 @@
 - [volkangulen/ansible-vault-encrypt.nvim](https://github.com/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/stars/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/last-commit/volkangulen/ansible-vault-encrypt.nvim) ![](https://img.shields.io/github/commit-activity/y/volkangulen/ansible-vault-encrypt.nvim)
 - [adalbertjnr/pemviewer.nvim](https://github.com/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/stars/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/last-commit/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalbertjnr/pemviewer.nvim)
 - [masterj122517/Jen.nvim](https://github.com/masterj122517/Jen.nvim) ![](https://img.shields.io/github/stars/masterj122517/Jen.nvim) ![](https://img.shields.io/github/last-commit/masterj122517/Jen.nvim) ![](https://img.shields.io/github/commit-activity/y/masterj122517/Jen.nvim)
+- [modulomedito/rookie_aes.nvim](https://github.com/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_aes.nvim)
 
 ## Privacy
 
