@@ -42,6 +42,7 @@
 - [felipeRese/httpie-runer.nvim](https://github.com/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/stars/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/last-commit/felipeRese/httpie-runer.nvim) ![](https://img.shields.io/github/commit-activity/y/felipeRese/httpie-runer.nvim)
 - [takeshy/http-file.nvim](https://github.com/takeshy/http-file.nvim) ![](https://img.shields.io/github/stars/takeshy/http-file.nvim) ![](https://img.shields.io/github/last-commit/takeshy/http-file.nvim) ![](https://img.shields.io/github/commit-activity/y/takeshy/http-file.nvim)
 - [JD1705/AdoRest.nvim](https://github.com/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/stars/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/last-commit/JD1705/AdoRest.nvim) ![](https://img.shields.io/github/commit-activity/y/JD1705/AdoRest.nvim)
+- [M0squ3ra/req.nvim](https://github.com/M0squ3ra/req.nvim) ![](https://img.shields.io/github/stars/M0squ3ra/req.nvim) ![](https://img.shields.io/github/last-commit/M0squ3ra/req.nvim) ![](https://img.shields.io/github/commit-activity/y/M0squ3ra/req.nvim)
 
 #### Status
 

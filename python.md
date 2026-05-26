@@ -279,6 +279,7 @@
 - [m-tky/jovian.nvim](https://github.com/m-tky/jovian.nvim) ![](https://img.shields.io/github/stars/m-tky/jovian.nvim) ![](https://img.shields.io/github/last-commit/m-tky/jovian.nvim) ![](https://img.shields.io/github/commit-activity/y/m-tky/jovian.nvim)
 - [sheng-tse/jupynvim](https://github.com/sheng-tse/jupynvim) ![](https://img.shields.io/github/stars/sheng-tse/jupynvim) ![](https://img.shields.io/github/last-commit/sheng-tse/jupynvim) ![](https://img.shields.io/github/commit-activity/y/sheng-tse/jupynvim)
 - [sei40kr/jupyter.nvim](https://github.com/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/stars/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/last-commit/sei40kr/jupyter.nvim) ![](https://img.shields.io/github/commit-activity/y/sei40kr/jupyter.nvim)
+- [tejbindu/jup.nvim](https://github.com/tejbindu/jup.nvim) ![](https://img.shields.io/github/stars/tejbindu/jup.nvim) ![](https://img.shields.io/github/last-commit/tejbindu/jup.nvim) ![](https://img.shields.io/github/commit-activity/y/tejbindu/jup.nvim)
 
 ### Pandas
 

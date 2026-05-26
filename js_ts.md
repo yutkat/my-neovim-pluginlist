@@ -131,6 +131,7 @@
 ### Jsx
 
 - [Apfelfrosch/jsxcomments.nvim](https://github.com/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/stars/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/last-commit/Apfelfrosch/jsxcomments.nvim) ![](https://img.shields.io/github/commit-activity/y/Apfelfrosch/jsxcomments.nvim)
+- [nicholasxjy/rainbow-tags.nvim](https://github.com/nicholasxjy/rainbow-tags.nvim) ![](https://img.shields.io/github/stars/nicholasxjy/rainbow-tags.nvim) ![](https://img.shields.io/github/last-commit/nicholasxjy/rainbow-tags.nvim) ![](https://img.shields.io/github/commit-activity/y/nicholasxjy/rainbow-tags.nvim)
 
 ## Toolchain
 

@@ -740,6 +740,8 @@
 - [zetatez/pilot.nvim](https://github.com/zetatez/pilot.nvim) ![](https://img.shields.io/github/stars/zetatez/pilot.nvim) ![](https://img.shields.io/github/last-commit/zetatez/pilot.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/pilot.nvim)
 - [cw228/code-assist.nvim](https://github.com/cw228/code-assist.nvim) ![](https://img.shields.io/github/stars/cw228/code-assist.nvim) ![](https://img.shields.io/github/last-commit/cw228/code-assist.nvim) ![](https://img.shields.io/github/commit-activity/y/cw228/code-assist.nvim)
 - [myzenon/novibe.nvim](https://github.com/myzenon/novibe.nvim) ![](https://img.shields.io/github/stars/myzenon/novibe.nvim) ![](https://img.shields.io/github/last-commit/myzenon/novibe.nvim) ![](https://img.shields.io/github/commit-activity/y/myzenon/novibe.nvim)
+- [AoraMD/auto-completion.nvim](https://github.com/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/stars/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/last-commit/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/AoraMD/auto-completion.nvim)
+- [ducng99/llama.nvim](https://github.com/ducng99/llama.nvim) ![](https://img.shields.io/github/stars/ducng99/llama.nvim) ![](https://img.shields.io/github/last-commit/ducng99/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/ducng99/llama.nvim)
 
 ### Claude
 
@@ -876,6 +878,7 @@
 - [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
 - [lyhappy/minimax-chat.nvim](https://github.com/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/stars/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/last-commit/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/lyhappy/minimax-chat.nvim)
 - [the-slow-one/nabu.nvim](https://github.com/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/stars/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/last-commit/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/commit-activity/y/the-slow-one/nabu.nvim)
+- [skusel/aside.nvim](https://github.com/skusel/aside.nvim) ![](https://img.shields.io/github/stars/skusel/aside.nvim) ![](https://img.shields.io/github/last-commit/skusel/aside.nvim) ![](https://img.shields.io/github/commit-activity/y/skusel/aside.nvim)
 
 ## AI Terminal
 
@@ -895,6 +898,8 @@
 - [juhaku/aiwaku.nvim](https://github.com/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/stars/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/last-commit/juhaku/aiwaku.nvim) ![](https://img.shields.io/github/commit-activity/y/juhaku/aiwaku.nvim)
 - [RangaRaja-R/ai-sidekick.nvim](https://github.com/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/stars/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/last-commit/RangaRaja-R/ai-sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/RangaRaja-R/ai-sidekick.nvim)
 - [aleph-zero/deepagents.nvim](https://github.com/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/stars/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/last-commit/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/commit-activity/y/aleph-zero/deepagents.nvim)
+- [juantot9/ai-harness.nvim](https://github.com/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/stars/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/last-commit/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/juantot9/ai-harness.nvim)
+- [modulomedito/rookie_ai.nvim](https://github.com/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ai.nvim)
 
 ## ECA
 
@@ -923,6 +928,7 @@
 - [ynnekF/nvim-kiro](https://github.com/ynnekF/nvim-kiro) ![](https://img.shields.io/github/stars/ynnekF/nvim-kiro) ![](https://img.shields.io/github/last-commit/ynnekF/nvim-kiro) ![](https://img.shields.io/github/commit-activity/y/ynnekF/nvim-kiro)
 - [seagoj/kiro.nvim](https://github.com/seagoj/kiro.nvim) ![](https://img.shields.io/github/stars/seagoj/kiro.nvim) ![](https://img.shields.io/github/last-commit/seagoj/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/seagoj/kiro.nvim)
 - [nix-gencokamin/kiro.nvim](https://github.com/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/stars/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/last-commit/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/nix-gencokamin/kiro.nvim)
+- [Thi0x40go/kiro-cli.nvim](https://github.com/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/stars/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/last-commit/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Thi0x40go/kiro-cli.nvim)
 
 ## CodeCompanion
 
@@ -1019,6 +1025,7 @@
 - [martintrojer/promptly.nvim](https://github.com/martintrojer/promptly.nvim) ![](https://img.shields.io/github/stars/martintrojer/promptly.nvim) ![](https://img.shields.io/github/last-commit/martintrojer/promptly.nvim) ![](https://img.shields.io/github/commit-activity/y/martintrojer/promptly.nvim)
 - [ryanbenney/nvim-ai-pair-programming](https://github.com/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/stars/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/last-commit/ryanbenney/nvim-ai-pair-programming) ![](https://img.shields.io/github/commit-activity/y/ryanbenney/nvim-ai-pair-programming)
 - [tmgast/cairn.nvim](https://github.com/tmgast/cairn.nvim) ![](https://img.shields.io/github/stars/tmgast/cairn.nvim) ![](https://img.shields.io/github/last-commit/tmgast/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/tmgast/cairn.nvim)
+- [RoqCode/buddy-companion.nvim](https://github.com/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/stars/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/last-commit/RoqCode/buddy-companion.nvim) ![](https://img.shields.io/github/commit-activity/y/RoqCode/buddy-companion.nvim)
 
 ## Token Count
 
