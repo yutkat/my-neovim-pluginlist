@@ -532,6 +532,7 @@
 - [PyDevC/model-cmp.nvim](https://github.com/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/stars/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/last-commit/PyDevC/model-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/PyDevC/model-cmp.nvim)
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 - [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
+- [zacharyxz/codewhale.nvim](https://github.com/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/stars/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/codewhale.nvim)
 
 ### Devstral
 
@@ -816,6 +817,7 @@
 - [lucatume/agent-ask.nvim](https://github.com/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/stars/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/last-commit/lucatume/agent-ask.nvim) ![](https://img.shields.io/github/commit-activity/y/lucatume/agent-ask.nvim)
 - [jhanna2/nvim-agent](https://github.com/jhanna2/nvim-agent) ![](https://img.shields.io/github/stars/jhanna2/nvim-agent) ![](https://img.shields.io/github/last-commit/jhanna2/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/jhanna2/nvim-agent)
 - [inhesrom/agents.nvim](https://github.com/inhesrom/agents.nvim) ![](https://img.shields.io/github/stars/inhesrom/agents.nvim) ![](https://img.shields.io/github/last-commit/inhesrom/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/inhesrom/agents.nvim)
+- [topper3418/agents.nvim](https://github.com/topper3418/agents.nvim) ![](https://img.shields.io/github/stars/topper3418/agents.nvim) ![](https://img.shields.io/github/last-commit/topper3418/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/agents.nvim)
 
 ### AGENTS.md
 
@@ -844,6 +846,7 @@
 - [AndreaKinder/pi-togle.nvim](https://github.com/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/pi-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/pi-togle.nvim)
 - [lukemelnik/piovim.nvim](https://github.com/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/stars/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/piovim.nvim)
 - [saattrupdan/pi-agent.nvim](https://github.com/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/stars/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/saattrupdan/pi-agent.nvim)
+- [bamggm/pi.nvim](https://github.com/bamggm/pi.nvim) ![](https://img.shields.io/github/stars/bamggm/pi.nvim) ![](https://img.shields.io/github/last-commit/bamggm/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/bamggm/pi.nvim)
 
 ### Amp
 

@@ -346,6 +346,7 @@
 - [mimvoid/todoview.nvim](https://github.com/mimvoid/todoview.nvim) ![](https://img.shields.io/github/stars/mimvoid/todoview.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/todoview.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/todoview.nvim)
 - [matheusmurkdock/todo.nvim](https://github.com/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/stars/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/last-commit/matheusmurkdock/todo.nvim) ![](https://img.shields.io/github/commit-activity/y/matheusmurkdock/todo.nvim)
 - [dtomvan/tasks.nvim](https://github.com/dtomvan/tasks.nvim) ![](https://img.shields.io/github/stars/dtomvan/tasks.nvim) ![](https://img.shields.io/github/last-commit/dtomvan/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/dtomvan/tasks.nvim)
+- [wakatara/tada.nvim](https://github.com/wakatara/tada.nvim) ![](https://img.shields.io/github/stars/wakatara/tada.nvim) ![](https://img.shields.io/github/last-commit/wakatara/tada.nvim) ![](https://img.shields.io/github/commit-activity/y/wakatara/tada.nvim)
 
 #### Google Task
 

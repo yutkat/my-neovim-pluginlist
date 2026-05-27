@@ -64,6 +64,7 @@
 - [tasteSoGood/cellular.nvim](https://github.com/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/stars/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/last-commit/tasteSoGood/cellular.nvim) ![](https://img.shields.io/github/commit-activity/y/tasteSoGood/cellular.nvim)
 - [5hashN/flock.nvim](https://github.com/5hashN/flock.nvim) ![](https://img.shields.io/github/stars/5hashN/flock.nvim) ![](https://img.shields.io/github/last-commit/5hashN/flock.nvim) ![](https://img.shields.io/github/commit-activity/y/5hashN/flock.nvim)
 - [Django0033/lonelog.nvim](https://github.com/Django0033/lonelog.nvim) ![](https://img.shields.io/github/stars/Django0033/lonelog.nvim) ![](https://img.shields.io/github/last-commit/Django0033/lonelog.nvim) ![](https://img.shields.io/github/commit-activity/y/Django0033/lonelog.nvim)
+- [PaoloAlessio/dnd-generator.nvim](https://github.com/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/stars/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/last-commit/PaoloAlessio/dnd-generator.nvim) ![](https://img.shields.io/github/commit-activity/y/PaoloAlessio/dnd-generator.nvim)
 
 ### Snake
 

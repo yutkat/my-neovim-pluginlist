@@ -97,6 +97,7 @@
 - [llawn/pack-utils.nvim](https://github.com/llawn/pack-utils.nvim) ![](https://img.shields.io/github/stars/llawn/pack-utils.nvim) ![](https://img.shields.io/github/last-commit/llawn/pack-utils.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/pack-utils.nvim)
 - [Roddyck/packview.nvim](https://github.com/Roddyck/packview.nvim) ![](https://img.shields.io/github/stars/Roddyck/packview.nvim) ![](https://img.shields.io/github/last-commit/Roddyck/packview.nvim) ![](https://img.shields.io/github/commit-activity/y/Roddyck/packview.nvim)
 - [qwexvf/pakku.nvim](https://github.com/qwexvf/pakku.nvim) ![](https://img.shields.io/github/stars/qwexvf/pakku.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/pakku.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/pakku.nvim)
+- [ruicsh/packard.nvim](https://github.com/ruicsh/packard.nvim) ![](https://img.shields.io/github/stars/ruicsh/packard.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/packard.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/packard.nvim)
 
 ### Update checker
 

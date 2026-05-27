@@ -40,6 +40,7 @@
 - [ask-786/translate.nvim](https://github.com/ask-786/translate.nvim) ![](https://img.shields.io/github/stars/ask-786/translate.nvim) ![](https://img.shields.io/github/last-commit/ask-786/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/ask-786/translate.nvim)
 - [Ring-A-Ding-Ding-Baby/LibreTranslate.nvim](https://github.com/Ring-A-Ding-Ding-Baby/LibreTranslate.nvim) ![](https://img.shields.io/github/stars/Ring-A-Ding-Ding-Baby/LibreTranslate.nvim) ![](https://img.shields.io/github/last-commit/Ring-A-Ding-Ding-Baby/LibreTranslate.nvim) ![](https://img.shields.io/github/commit-activity/y/Ring-A-Ding-Ding-Baby/LibreTranslate.nvim)
 - [samuelnihoul/immersion.nvim](https://github.com/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/stars/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/last-commit/samuelnihoul/immersion.nvim) ![](https://img.shields.io/github/commit-activity/y/samuelnihoul/immersion.nvim)
+- [ginkohub/translate.nvim](https://github.com/ginkohub/translate.nvim) ![](https://img.shields.io/github/stars/ginkohub/translate.nvim) ![](https://img.shields.io/github/last-commit/ginkohub/translate.nvim) ![](https://img.shields.io/github/commit-activity/y/ginkohub/translate.nvim)
 
 ## i18n
 
