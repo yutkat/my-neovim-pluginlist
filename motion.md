@@ -127,6 +127,7 @@
 - [cosmicbuffalo/eyeliner.nvim](https://github.com/cosmicbuffalo/eyeliner.nvim) ![](https://img.shields.io/github/stars/cosmicbuffalo/eyeliner.nvim) ![](https://img.shields.io/github/last-commit/cosmicbuffalo/eyeliner.nvim) ![](https://img.shields.io/github/commit-activity/y/cosmicbuffalo/eyeliner.nvim)
 - [dmxk062/nvim-blinkenfind](https://github.com/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/stars/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/last-commit/dmxk062/nvim-blinkenfind) ![](https://img.shields.io/github/commit-activity/y/dmxk062/nvim-blinkenfind)
 - [ef3d0c3e/sniper.nvim](https://github.com/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/stars/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/last-commit/ef3d0c3e/sniper.nvim) ![](https://img.shields.io/github/commit-activity/y/ef3d0c3e/sniper.nvim)
+- [simoesd/spotlight.nvim](https://github.com/simoesd/spotlight.nvim) ![](https://img.shields.io/github/stars/simoesd/spotlight.nvim) ![](https://img.shields.io/github/last-commit/simoesd/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/spotlight.nvim)
 
 ### Motion Label
 
@@ -157,6 +158,7 @@
 - [vallahor/delite.nvim](https://github.com/vallahor/delite.nvim) ![](https://img.shields.io/github/stars/vallahor/delite.nvim) ![](https://img.shields.io/github/last-commit/vallahor/delite.nvim) ![](https://img.shields.io/github/commit-activity/y/vallahor/delite.nvim)
 - [hashylog/micro-motion.nvim](https://github.com/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/stars/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/last-commit/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/hashylog/micro-motion.nvim)
 - [neovim-idea/camelhumps-nvim](https://github.com/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/stars/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/camelhumps-nvim)
+- [simoesd/omnicase.nvim](https://github.com/simoesd/omnicase.nvim) ![](https://img.shields.io/github/stars/simoesd/omnicase.nvim) ![](https://img.shields.io/github/last-commit/simoesd/omnicase.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/omnicase.nvim)
 
 ### Line Move
 

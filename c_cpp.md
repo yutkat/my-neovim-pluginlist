@@ -70,6 +70,7 @@
 - [ankit02327/nvim-cpp-setup](https://github.com/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/stars/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/last-commit/ankit02327/nvim-cpp-setup) ![](https://img.shields.io/github/commit-activity/y/ankit02327/nvim-cpp-setup)
 - [prerit714/suno.nvim](https://github.com/prerit714/suno.nvim) ![](https://img.shields.io/github/stars/prerit714/suno.nvim) ![](https://img.shields.io/github/last-commit/prerit714/suno.nvim) ![](https://img.shields.io/github/commit-activity/y/prerit714/suno.nvim)
 - [simonwinther/cppman.nvim](https://github.com/simonwinther/cppman.nvim) ![](https://img.shields.io/github/stars/simonwinther/cppman.nvim) ![](https://img.shields.io/github/last-commit/simonwinther/cppman.nvim) ![](https://img.shields.io/github/commit-activity/y/simonwinther/cppman.nvim)
+- [K5087/cfcc.nvim](https://github.com/K5087/cfcc.nvim) ![](https://img.shields.io/github/stars/K5087/cfcc.nvim) ![](https://img.shields.io/github/last-commit/K5087/cfcc.nvim) ![](https://img.shields.io/github/commit-activity/y/K5087/cfcc.nvim)
 
 ## Arduino
 

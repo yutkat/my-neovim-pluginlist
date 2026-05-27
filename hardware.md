@@ -10,6 +10,7 @@
   - [CAD](#cad)
   - [VHDL](#vhdl)
   - [Verilog](#verilog)
+  - [Virdant](#virdant)
   - [Grooper](#grooper)
   - [SketchUp](#sketchup)
   - [Raspberry PI](#raspberry-pi)
@@ -45,6 +46,7 @@
 ### IoT
 
 - [RadekPudelko/particle.nvim](https://github.com/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/stars/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/last-commit/RadekPudelko/particle.nvim) ![](https://img.shields.io/github/commit-activity/y/RadekPudelko/particle.nvim)
+- [tae9898/tr181.nvim](https://github.com/tae9898/tr181.nvim) ![](https://img.shields.io/github/stars/tae9898/tr181.nvim) ![](https://img.shields.io/github/last-commit/tae9898/tr181.nvim) ![](https://img.shields.io/github/commit-activity/y/tae9898/tr181.nvim)
 
 ### 3D printer
 
@@ -63,6 +65,10 @@
 
 - [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
 - [Junknown99/nvim-verilog-mode](https://github.com/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/stars/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/last-commit/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/commit-activity/y/Junknown99/nvim-verilog-mode)
+
+### Virdant
+
+- [virdant-lang/virdant.nvim](https://github.com/virdant-lang/virdant.nvim) ![](https://img.shields.io/github/stars/virdant-lang/virdant.nvim) ![](https://img.shields.io/github/last-commit/virdant-lang/virdant.nvim) ![](https://img.shields.io/github/commit-activity/y/virdant-lang/virdant.nvim)
 
 ### Grooper
 

@@ -69,6 +69,7 @@
 - [echasnovski/mini.move](https://github.com/echasnovski/mini.move) ![](https://img.shields.io/github/stars/echasnovski/mini.move) ![](https://img.shields.io/github/last-commit/echasnovski/mini.move) ![](https://img.shields.io/github/commit-activity/y/echasnovski/mini.move)
 - [willothy/moveline.nvim](https://github.com/willothy/moveline.nvim) ![](https://img.shields.io/github/stars/willothy/moveline.nvim) ![](https://img.shields.io/github/last-commit/willothy/moveline.nvim) ![](https://img.shields.io/github/commit-activity/y/willothy/moveline.nvim)
 - [Russoul/block-move.nvim](https://github.com/Russoul/block-move.nvim) ![](https://img.shields.io/github/stars/Russoul/block-move.nvim) ![](https://img.shields.io/github/last-commit/Russoul/block-move.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/block-move.nvim)
+- [modulomedito/rookie_textmanip.nvim](https://github.com/modulomedito/rookie_textmanip.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_textmanip.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_textmanip.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_textmanip.nvim)
 
 ### Surround
 

@@ -89,6 +89,7 @@
 
 - [daic0r/hashtags.nvim](https://github.com/daic0r/hashtags.nvim) ![](https://img.shields.io/github/stars/daic0r/hashtags.nvim) ![](https://img.shields.io/github/last-commit/daic0r/hashtags.nvim) ![](https://img.shields.io/github/commit-activity/y/daic0r/hashtags.nvim)
 - [rasjonell/tag-finder.nvim](https://github.com/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/stars/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/last-commit/rasjonell/tag-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/rasjonell/tag-finder.nvim)
+- [modulomedito/rookie_tag.nvim](https://github.com/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_tag.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_tag.nvim)
 
 #### git sign
 
