@@ -98,6 +98,8 @@
 - [Roddyck/packview.nvim](https://github.com/Roddyck/packview.nvim) ![](https://img.shields.io/github/stars/Roddyck/packview.nvim) ![](https://img.shields.io/github/last-commit/Roddyck/packview.nvim) ![](https://img.shields.io/github/commit-activity/y/Roddyck/packview.nvim)
 - [qwexvf/pakku.nvim](https://github.com/qwexvf/pakku.nvim) ![](https://img.shields.io/github/stars/qwexvf/pakku.nvim) ![](https://img.shields.io/github/last-commit/qwexvf/pakku.nvim) ![](https://img.shields.io/github/commit-activity/y/qwexvf/pakku.nvim)
 - [ruicsh/packard.nvim](https://github.com/ruicsh/packard.nvim) ![](https://img.shields.io/github/stars/ruicsh/packard.nvim) ![](https://img.shields.io/github/last-commit/ruicsh/packard.nvim) ![](https://img.shields.io/github/commit-activity/y/ruicsh/packard.nvim)
+- [Imngzx/resonance.nvim](https://github.com/Imngzx/resonance.nvim) ![](https://img.shields.io/github/stars/Imngzx/resonance.nvim) ![](https://img.shields.io/github/last-commit/Imngzx/resonance.nvim) ![](https://img.shields.io/github/commit-activity/y/Imngzx/resonance.nvim)
+- [x-kej/cooldown.nvim](https://github.com/x-kej/cooldown.nvim) ![](https://img.shields.io/github/stars/x-kej/cooldown.nvim) ![](https://img.shields.io/github/last-commit/x-kej/cooldown.nvim) ![](https://img.shields.io/github/commit-activity/y/x-kej/cooldown.nvim)
 
 ### Update checker
 

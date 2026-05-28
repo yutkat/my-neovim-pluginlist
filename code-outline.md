@@ -117,6 +117,7 @@
 - [smit4k/graphite.nvim](https://github.com/smit4k/graphite.nvim) ![](https://img.shields.io/github/stars/smit4k/graphite.nvim) ![](https://img.shields.io/github/last-commit/smit4k/graphite.nvim) ![](https://img.shields.io/github/commit-activity/y/smit4k/graphite.nvim)
 - [andev0x/codeguide.nvim](https://github.com/andev0x/codeguide.nvim) ![](https://img.shields.io/github/stars/andev0x/codeguide.nvim) ![](https://img.shields.io/github/last-commit/andev0x/codeguide.nvim) ![](https://img.shields.io/github/commit-activity/y/andev0x/codeguide.nvim)
 - [afsharalex/turin.nvim](https://github.com/afsharalex/turin.nvim) ![](https://img.shields.io/github/stars/afsharalex/turin.nvim) ![](https://img.shields.io/github/last-commit/afsharalex/turin.nvim) ![](https://img.shields.io/github/commit-activity/y/afsharalex/turin.nvim)
+- [iamsurjog/langgraph.nvim](https://github.com/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/stars/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/last-commit/iamsurjog/langgraph.nvim) ![](https://img.shields.io/github/commit-activity/y/iamsurjog/langgraph.nvim)
 
 ## CCN
 

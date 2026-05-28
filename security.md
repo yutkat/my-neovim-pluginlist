@@ -38,6 +38,7 @@
 - [fouladi/ccrypt-wrapper.nvim](https://github.com/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/stars/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/last-commit/fouladi/ccrypt-wrapper.nvim) ![](https://img.shields.io/github/commit-activity/y/fouladi/ccrypt-wrapper.nvim)
 - [MannuVilasara/env-hide.nvim](https://github.com/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/stars/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/last-commit/MannuVilasara/env-hide.nvim) ![](https://img.shields.io/github/commit-activity/y/MannuVilasara/env-hide.nvim)
 - [stasfilin/nvim-sandman](https://github.com/stasfilin/nvim-sandman) ![](https://img.shields.io/github/stars/stasfilin/nvim-sandman) ![](https://img.shields.io/github/last-commit/stasfilin/nvim-sandman) ![](https://img.shields.io/github/commit-activity/y/stasfilin/nvim-sandman)
+- [anotherhadi/jwt-tui.nvim](https://github.com/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/stars/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/last-commit/anotherhadi/jwt-tui.nvim) ![](https://img.shields.io/github/commit-activity/y/anotherhadi/jwt-tui.nvim)
 
 ### Scan
 
@@ -99,6 +100,7 @@
 - [adalbertjnr/pemviewer.nvim](https://github.com/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/stars/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/last-commit/adalbertjnr/pemviewer.nvim) ![](https://img.shields.io/github/commit-activity/y/adalbertjnr/pemviewer.nvim)
 - [masterj122517/Jen.nvim](https://github.com/masterj122517/Jen.nvim) ![](https://img.shields.io/github/stars/masterj122517/Jen.nvim) ![](https://img.shields.io/github/last-commit/masterj122517/Jen.nvim) ![](https://img.shields.io/github/commit-activity/y/masterj122517/Jen.nvim)
 - [modulomedito/rookie_aes.nvim](https://github.com/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_aes.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_aes.nvim)
+- [modulomedito/rookie_ssl.nvim](https://github.com/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ssl.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ssl.nvim)
 
 ## Privacy
 

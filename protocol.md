@@ -29,6 +29,7 @@
 
 - [icarios-dev/hapi.nvim](https://github.com/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/stars/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/last-commit/icarios-dev/hapi.nvim) ![](https://img.shields.io/github/commit-activity/y/icarios-dev/hapi.nvim)
 - [zerochae/endpoint.nvim](https://github.com/zerochae/endpoint.nvim) ![](https://img.shields.io/github/stars/zerochae/endpoint.nvim) ![](https://img.shields.io/github/last-commit/zerochae/endpoint.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/endpoint.nvim)
+- [jdearmas/mitmproxy-editor.nvim](https://github.com/jdearmas/mitmproxy-editor.nvim) ![](https://img.shields.io/github/stars/jdearmas/mitmproxy-editor.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/mitmproxy-editor.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/mitmproxy-editor.nvim)
 
 #### Request
 

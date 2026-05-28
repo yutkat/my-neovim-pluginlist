@@ -422,6 +422,7 @@
 - [leezhengjing/obsidian-spaced-repetition.nvim](https://github.com/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/stars/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/last-commit/leezhengjing/obsidian-spaced-repetition.nvim) ![](https://img.shields.io/github/commit-activity/y/leezhengjing/obsidian-spaced-repetition.nvim)
 - [snapwich/obsidian-tasks.nvim](https://github.com/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/stars/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/last-commit/snapwich/obsidian-tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/snapwich/obsidian-tasks.nvim)
 - [rossop/dataview.nvim](https://github.com/rossop/dataview.nvim) ![](https://img.shields.io/github/stars/rossop/dataview.nvim) ![](https://img.shields.io/github/last-commit/rossop/dataview.nvim) ![](https://img.shields.io/github/commit-activity/y/rossop/dataview.nvim)
+- [mje07/neomd.nvim](https://github.com/mje07/neomd.nvim) ![](https://img.shields.io/github/stars/mje07/neomd.nvim) ![](https://img.shields.io/github/last-commit/mje07/neomd.nvim) ![](https://img.shields.io/github/commit-activity/y/mje07/neomd.nvim)
 
 ### Logseq
 

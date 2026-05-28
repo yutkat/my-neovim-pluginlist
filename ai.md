@@ -516,6 +516,7 @@
 - [Melkeydev/agent-tail.nvim](https://github.com/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/stars/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/last-commit/Melkeydev/agent-tail.nvim) ![](https://img.shields.io/github/commit-activity/y/Melkeydev/agent-tail.nvim)
 - [falsycat/claudecode.nvim](https://github.com/falsycat/claudecode.nvim) ![](https://img.shields.io/github/stars/falsycat/claudecode.nvim) ![](https://img.shields.io/github/last-commit/falsycat/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/claudecode.nvim)
 - [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
+- [zacharyxz/ccb.nvim](https://github.com/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/stars/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/ccb.nvim)
 
 ### Amazon Q
 
@@ -533,6 +534,7 @@
 - [TeaAndCoffeeParty/deepseek.nvim](https://github.com/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/stars/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/last-commit/TeaAndCoffeeParty/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/TeaAndCoffeeParty/deepseek.nvim)
 - [xiaopixiao/deepseek.nvim](https://github.com/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/deepseek.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/deepseek.nvim)
 - [zacharyxz/codewhale.nvim](https://github.com/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/stars/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/codewhale.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/codewhale.nvim)
+- [doraemon-hub-art/deepcode.nvim](https://github.com/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/stars/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/last-commit/doraemon-hub-art/deepcode.nvim) ![](https://img.shields.io/github/commit-activity/y/doraemon-hub-art/deepcode.nvim)
 
 ### Devstral
 

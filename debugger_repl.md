@@ -92,6 +92,7 @@
 - [Saladin1812/roundtable.nvim](https://github.com/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/stars/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/last-commit/Saladin1812/roundtable.nvim) ![](https://img.shields.io/github/commit-activity/y/Saladin1812/roundtable.nvim)
 - [planform/quickdebug.nvim](https://github.com/planform/quickdebug.nvim) ![](https://img.shields.io/github/stars/planform/quickdebug.nvim) ![](https://img.shields.io/github/last-commit/planform/quickdebug.nvim) ![](https://img.shields.io/github/commit-activity/y/planform/quickdebug.nvim)
 - [aselhid/nvim-dapper](https://github.com/aselhid/nvim-dapper) ![](https://img.shields.io/github/stars/aselhid/nvim-dapper) ![](https://img.shields.io/github/last-commit/aselhid/nvim-dapper) ![](https://img.shields.io/github/commit-activity/y/aselhid/nvim-dapper)
+- [neoguri7/dap-lowlevel.nvim](https://github.com/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/stars/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/last-commit/neoguri7/dap-lowlevel.nvim) ![](https://img.shields.io/github/commit-activity/y/neoguri7/dap-lowlevel.nvim)
 
 #### Launch.json
 
