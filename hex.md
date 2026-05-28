@@ -16,6 +16,7 @@
 - [theKnightsOfRohan/hexer.nvim](https://github.com/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/stars/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/last-commit/theKnightsOfRohan/hexer.nvim) ![](https://img.shields.io/github/commit-activity/y/theKnightsOfRohan/hexer.nvim)
 - [CameronDixon0/hex-reader.nvim](https://github.com/CameronDixon0/hex-reader.nvim) ![](https://img.shields.io/github/stars/CameronDixon0/hex-reader.nvim) ![](https://img.shields.io/github/last-commit/CameronDixon0/hex-reader.nvim) ![](https://img.shields.io/github/commit-activity/y/CameronDixon0/hex-reader.nvim)
 - [ruizdesotto/nvim-hex2ascii](https://github.com/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/stars/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/last-commit/ruizdesotto/nvim-hex2ascii) ![](https://img.shields.io/github/commit-activity/y/ruizdesotto/nvim-hex2ascii)
+- [modulomedito/rookie_hex.nvim](https://github.com/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_hex.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_hex.nvim)
 
 ### Hex Editor
 

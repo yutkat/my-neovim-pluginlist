@@ -126,6 +126,7 @@
 - [vieitesss/minifugit.nvim](https://github.com/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/stars/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/last-commit/vieitesss/minifugit.nvim) ![](https://img.shields.io/github/commit-activity/y/vieitesss/minifugit.nvim)
 - [ochcaroline/legit.nvim](https://github.com/ochcaroline/legit.nvim) ![](https://img.shields.io/github/stars/ochcaroline/legit.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/legit.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/legit.nvim)
 - [jondysinger/stagit.nvim](https://github.com/jondysinger/stagit.nvim) ![](https://img.shields.io/github/stars/jondysinger/stagit.nvim) ![](https://img.shields.io/github/last-commit/jondysinger/stagit.nvim) ![](https://img.shields.io/github/commit-activity/y/jondysinger/stagit.nvim)
+- [cet-t/git-oily.nvim](https://github.com/cet-t/git-oily.nvim) ![](https://img.shields.io/github/stars/cet-t/git-oily.nvim) ![](https://img.shields.io/github/last-commit/cet-t/git-oily.nvim) ![](https://img.shields.io/github/commit-activity/y/cet-t/git-oily.nvim)
 
 ### gitui
 
@@ -714,6 +715,7 @@
 - [shankur/zpr.nvim](https://github.com/shankur/zpr.nvim) ![](https://img.shields.io/github/stars/shankur/zpr.nvim) ![](https://img.shields.io/github/last-commit/shankur/zpr.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/zpr.nvim)
 - [shankur/snowdash.nvim](https://github.com/shankur/snowdash.nvim) ![](https://img.shields.io/github/stars/shankur/snowdash.nvim) ![](https://img.shields.io/github/last-commit/shankur/snowdash.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/snowdash.nvim)
 - [yakschuss/pr-review.nvim](https://github.com/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/stars/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/last-commit/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/yakschuss/pr-review.nvim)
+- [adrianmross/pr-review.nvim](https://github.com/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/stars/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/last-commit/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianmross/pr-review.nvim)
 
 #### Pull Request Comment
 
@@ -848,6 +850,7 @@
 - [themuuln/the-glab.nvim](https://github.com/themuuln/the-glab.nvim) ![](https://img.shields.io/github/stars/themuuln/the-glab.nvim) ![](https://img.shields.io/github/last-commit/themuuln/the-glab.nvim) ![](https://img.shields.io/github/commit-activity/y/themuuln/the-glab.nvim)
 - [tachyons/gitlab-lsp.nvim](https://github.com/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/stars/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/last-commit/tachyons/gitlab-lsp.nvim) ![](https://img.shields.io/github/commit-activity/y/tachyons/gitlab-lsp.nvim)
 - [alexdovzhanyn/glab-mr.nvim](https://github.com/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/stars/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/last-commit/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexdovzhanyn/glab-mr.nvim)
+- [modulomedito/rookie_gitlab.nvim](https://github.com/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_gitlab.nvim)
 
 ### Merge Request
 
