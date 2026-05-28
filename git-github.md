@@ -469,7 +469,6 @@
 
 ### git info
 
-- [IlyasYOY/git-link.nvim](https://github.com/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/stars/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/last-commit/IlyasYOY/git-link.nvim) ![](https://img.shields.io/github/commit-activity/y/IlyasYOY/git-link.nvim)
 - [mtkld/gitwatch.nvim](https://github.com/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/stars/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/last-commit/mtkld/gitwatch.nvim) ![](https://img.shields.io/github/commit-activity/y/mtkld/gitwatch.nvim)
 
 ### git grep
