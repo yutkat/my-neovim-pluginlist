@@ -350,7 +350,6 @@
 
 ## Jinja
 
-- [cathaysia/nvim-jinja](https://github.com/cathaysia/nvim-jinja) ![](https://img.shields.io/github/stars/cathaysia/nvim-jinja) ![](https://img.shields.io/github/last-commit/cathaysia/nvim-jinja) ![](https://img.shields.io/github/commit-activity/y/cathaysia/nvim-jinja)
 
 ## Packages
 
