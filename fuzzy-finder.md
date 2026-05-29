@@ -62,6 +62,7 @@
 - [yesitsfebreeze/finder.nvim](https://github.com/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/finder.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/finder.nvim)
 - [oyarsa/codespelunker.nvim](https://github.com/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/stars/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/last-commit/oyarsa/codespelunker.nvim) ![](https://img.shields.io/github/commit-activity/y/oyarsa/codespelunker.nvim)
 - [Bparsons0904/smart-finder.nvim](https://github.com/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/stars/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/last-commit/Bparsons0904/smart-finder.nvim) ![](https://img.shields.io/github/commit-activity/y/Bparsons0904/smart-finder.nvim)
+- [r1cardohj/ctrlp.nvim](https://github.com/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/stars/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/last-commit/r1cardohj/ctrlp.nvim) ![](https://img.shields.io/github/commit-activity/y/r1cardohj/ctrlp.nvim)
 
 ### Telescope Extensions
 
