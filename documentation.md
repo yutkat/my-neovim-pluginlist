@@ -119,6 +119,7 @@
 - [birdcar/bfm.nvim](https://github.com/birdcar/bfm.nvim) ![](https://img.shields.io/github/stars/birdcar/bfm.nvim) ![](https://img.shields.io/github/last-commit/birdcar/bfm.nvim) ![](https://img.shields.io/github/commit-activity/y/birdcar/bfm.nvim)
 - [AlexBurdu/critic.nvim](https://github.com/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/stars/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/last-commit/AlexBurdu/critic.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexBurdu/critic.nvim)
 - [stefantrost/gloss.nvim](https://github.com/stefantrost/gloss.nvim) ![](https://img.shields.io/github/stars/stefantrost/gloss.nvim) ![](https://img.shields.io/github/last-commit/stefantrost/gloss.nvim) ![](https://img.shields.io/github/commit-activity/y/stefantrost/gloss.nvim)
+- [rsmenon/inline-review.nvim](https://github.com/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/stars/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/last-commit/rsmenon/inline-review.nvim) ![](https://img.shields.io/github/commit-activity/y/rsmenon/inline-review.nvim)
 
 #### Markdown link
 

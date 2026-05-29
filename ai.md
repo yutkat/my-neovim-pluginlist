@@ -253,6 +253,7 @@
 ### Antigravity
 
 - [McEazy2700/antigravity-cli.nvim](https://github.com/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/antigravity-cli.nvim)
+- [AndreaKinder/agy-togle.nvim](https://github.com/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/agy-togle.nvim)
 
 ### Grok
 
