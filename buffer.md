@@ -104,6 +104,7 @@
 - [juliomc23/buffer-list.nvim](https://github.com/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/stars/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/last-commit/juliomc23/buffer-list.nvim) ![](https://img.shields.io/github/commit-activity/y/juliomc23/buffer-list.nvim)
 - [ankushbhagats/buffswitch.nvim](https://github.com/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/stars/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/last-commit/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ankushbhagats/buffswitch.nvim)
 - [themandes77/ibuff.nvim](https://github.com/themandes77/ibuff.nvim) ![](https://img.shields.io/github/stars/themandes77/ibuff.nvim) ![](https://img.shields.io/github/last-commit/themandes77/ibuff.nvim) ![](https://img.shields.io/github/commit-activity/y/themandes77/ibuff.nvim)
+- [tomkhoailang/buffer-switch-release](https://github.com/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/stars/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/last-commit/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/commit-activity/y/tomkhoailang/buffer-switch-release)
 
 ### Other Buffer Switcher
 
