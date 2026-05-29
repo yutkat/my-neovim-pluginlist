@@ -849,6 +849,7 @@
 - [lukemelnik/piovim.nvim](https://github.com/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/stars/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/last-commit/lukemelnik/piovim.nvim) ![](https://img.shields.io/github/commit-activity/y/lukemelnik/piovim.nvim)
 - [saattrupdan/pi-agent.nvim](https://github.com/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/stars/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/saattrupdan/pi-agent.nvim)
 - [bamggm/pi.nvim](https://github.com/bamggm/pi.nvim) ![](https://img.shields.io/github/stars/bamggm/pi.nvim) ![](https://img.shields.io/github/last-commit/bamggm/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/bamggm/pi.nvim)
+- [ldelossa/pi-ide.nvim](https://github.com/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/stars/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/pi-ide.nvim)
 
 ### Amp
 
