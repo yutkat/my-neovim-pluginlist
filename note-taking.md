@@ -114,6 +114,7 @@
 - [sunbluesome/holon.nvim](https://github.com/sunbluesome/holon.nvim) ![](https://img.shields.io/github/stars/sunbluesome/holon.nvim) ![](https://img.shields.io/github/last-commit/sunbluesome/holon.nvim) ![](https://img.shields.io/github/commit-activity/y/sunbluesome/holon.nvim)
 - [sharp541/taxon.nvim](https://github.com/sharp541/taxon.nvim) ![](https://img.shields.io/github/stars/sharp541/taxon.nvim) ![](https://img.shields.io/github/last-commit/sharp541/taxon.nvim) ![](https://img.shields.io/github/commit-activity/y/sharp541/taxon.nvim)
 - [siatko/denim.nvim](https://github.com/siatko/denim.nvim) ![](https://img.shields.io/github/stars/siatko/denim.nvim) ![](https://img.shields.io/github/last-commit/siatko/denim.nvim) ![](https://img.shields.io/github/commit-activity/y/siatko/denim.nvim)
+- [0xJohnnyboy/voyage.nvim](https://github.com/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/stars/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/last-commit/0xJohnnyboy/voyage.nvim) ![](https://img.shields.io/github/commit-activity/y/0xJohnnyboy/voyage.nvim)
 
 ### Markdown
 

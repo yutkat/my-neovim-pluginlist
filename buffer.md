@@ -141,6 +141,7 @@
 - [wsdjeg/altf.nvim](https://github.com/wsdjeg/altf.nvim) ![](https://img.shields.io/github/stars/wsdjeg/altf.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/altf.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/altf.nvim)
 - [vdegenne/ez-switch.nvim](https://github.com/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/stars/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/last-commit/vdegenne/ez-switch.nvim) ![](https://img.shields.io/github/commit-activity/y/vdegenne/ez-switch.nvim)
 - [akasataikisiti/tabLocalBuffer.nvim](https://github.com/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/stars/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/last-commit/akasataikisiti/tabLocalBuffer.nvim) ![](https://img.shields.io/github/commit-activity/y/akasataikisiti/tabLocalBuffer.nvim)
+- [BMilliet/buffer-menu.nvim](https://github.com/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/stars/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/buffer-menu.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/buffer-menu.nvim)
 
 ### Buffer Management
 

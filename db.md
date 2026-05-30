@@ -14,6 +14,7 @@
   - [EdgeDB](#edgedb)
   - [Metabase](#metabase)
   - [DuckDB](#duckdb)
+  - [kdb+](#kdb)
   - [Prisma](#prisma)
 
 <!-- tocstop -->
@@ -45,6 +46,7 @@
 - [zerochae/dbab.nvim](https://github.com/zerochae/dbab.nvim) ![](https://img.shields.io/github/stars/zerochae/dbab.nvim) ![](https://img.shields.io/github/last-commit/zerochae/dbab.nvim) ![](https://img.shields.io/github/commit-activity/y/zerochae/dbab.nvim)
 - [LeuciRemi/arangodb.nvim](https://github.com/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/stars/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/last-commit/LeuciRemi/arangodb.nvim) ![](https://img.shields.io/github/commit-activity/y/LeuciRemi/arangodb.nvim)
 - [SpollaL/datasight.nvim](https://github.com/SpollaL/datasight.nvim) ![](https://img.shields.io/github/stars/SpollaL/datasight.nvim) ![](https://img.shields.io/github/last-commit/SpollaL/datasight.nvim) ![](https://img.shields.io/github/commit-activity/y/SpollaL/datasight.nvim)
+- [aikawa9376/connector.nvim](https://github.com/aikawa9376/connector.nvim) ![](https://img.shields.io/github/stars/aikawa9376/connector.nvim) ![](https://img.shields.io/github/last-commit/aikawa9376/connector.nvim) ![](https://img.shields.io/github/commit-activity/y/aikawa9376/connector.nvim)
 
 ### BigQuery
 
@@ -113,6 +115,7 @@
 ### SQLite
 
 - [andrenaP/nvim-sql-completion](https://github.com/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/stars/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/last-commit/andrenaP/nvim-sql-completion) ![](https://img.shields.io/github/commit-activity/y/andrenaP/nvim-sql-completion)
+- [topper3418/db-viewer.nvim](https://github.com/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/stars/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/last-commit/topper3418/db-viewer.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/db-viewer.nvim)
 
 ### MongoDB
 
@@ -137,6 +140,10 @@
 - [princejoogie/duckdb.nvim](https://github.com/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/stars/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/last-commit/princejoogie/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/princejoogie/duckdb.nvim)
 - [wylie102/duckdb.yazi](https://github.com/wylie102/duckdb.yazi) ![](https://img.shields.io/github/stars/wylie102/duckdb.yazi) ![](https://img.shields.io/github/last-commit/wylie102/duckdb.yazi) ![](https://img.shields.io/github/commit-activity/y/wylie102/duckdb.yazi)
 - [ptrkhr/duckdb.nvim](https://github.com/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/stars/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/last-commit/ptrkhr/duckdb.nvim) ![](https://img.shields.io/github/commit-activity/y/ptrkhr/duckdb.nvim)
+
+### kdb+
+
+- [komsit37/nvim-q](https://github.com/komsit37/nvim-q) ![](https://img.shields.io/github/stars/komsit37/nvim-q) ![](https://img.shields.io/github/last-commit/komsit37/nvim-q) ![](https://img.shields.io/github/commit-activity/y/komsit37/nvim-q)
 
 ### Prisma
 

@@ -33,6 +33,7 @@
     - [Windows Terminal](#windows-terminal)
     - [Wireman](#wireman)
     - [ZTerm](#zterm)
+    - [Zellij](#zellij)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -248,6 +249,10 @@
 
 - [Zacharias-Brohn/zterm-navigator.nvim](https://github.com/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/stars/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/last-commit/Zacharias-Brohn/zterm-navigator.nvim) ![](https://img.shields.io/github/commit-activity/y/Zacharias-Brohn/zterm-navigator.nvim)
 
+#### Zellij
+
+- [hjetmundsen/zellij.nvim](https://github.com/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/stars/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/last-commit/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/hjetmundsen/zellij.nvim)
+
 ### Infra
 
 #### OpenStack
@@ -291,6 +296,7 @@
 - [dahol/k8s.nvim](https://github.com/dahol/k8s.nvim) ![](https://img.shields.io/github/stars/dahol/k8s.nvim) ![](https://img.shields.io/github/last-commit/dahol/k8s.nvim) ![](https://img.shields.io/github/commit-activity/y/dahol/k8s.nvim)
 - [Sironheart/kube_yaml_schema.nvim](https://github.com/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/stars/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/last-commit/Sironheart/kube_yaml_schema.nvim) ![](https://img.shields.io/github/commit-activity/y/Sironheart/kube_yaml_schema.nvim)
 - [johnharmon/nvim-acm](https://github.com/johnharmon/nvim-acm) ![](https://img.shields.io/github/stars/johnharmon/nvim-acm) ![](https://img.shields.io/github/last-commit/johnharmon/nvim-acm) ![](https://img.shields.io/github/commit-activity/y/johnharmon/nvim-acm)
+- [gijsentius/helm-schemas.nvim](https://github.com/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/stars/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/last-commit/gijsentius/helm-schemas.nvim) ![](https://img.shields.io/github/commit-activity/y/gijsentius/helm-schemas.nvim)
 
 #### VPN
 

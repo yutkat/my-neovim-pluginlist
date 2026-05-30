@@ -179,6 +179,7 @@
 - [lum1nar/float-toc.nvim](https://github.com/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/stars/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/last-commit/lum1nar/float-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/lum1nar/float-toc.nvim)
 - [JoshuaFurman/atlas.nvim](https://github.com/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/stars/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/last-commit/JoshuaFurman/atlas.nvim) ![](https://img.shields.io/github/commit-activity/y/JoshuaFurman/atlas.nvim)
 - [ThongVu1996/vscode-toc.nvim](https://github.com/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/stars/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/last-commit/ThongVu1996/vscode-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/ThongVu1996/vscode-toc.nvim)
+- [whitestarrain/md-summary-toc.nvim](https://github.com/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/stars/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/last-commit/whitestarrain/md-summary-toc.nvim) ![](https://img.shields.io/github/commit-activity/y/whitestarrain/md-summary-toc.nvim)
 
 #### highlight
 
