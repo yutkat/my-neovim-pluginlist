@@ -205,12 +205,14 @@
 - [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
 - [genkio/code-trace.nvim](https://github.com/genkio/code-trace.nvim) ![](https://img.shields.io/github/stars/genkio/code-trace.nvim) ![](https://img.shields.io/github/last-commit/genkio/code-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/genkio/code-trace.nvim)
 - [AlexanderGolys/codex.nvim](https://github.com/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex.nvim)
+- [pxwg/codex.nvim](https://github.com/pxwg/codex.nvim) ![](https://img.shields.io/github/stars/pxwg/codex.nvim) ![](https://img.shields.io/github/last-commit/pxwg/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/codex.nvim)
 
 #### Whisper
 
 - [kyza0d/vocal.nvim](https://github.com/kyza0d/vocal.nvim) ![](https://img.shields.io/github/stars/kyza0d/vocal.nvim) ![](https://img.shields.io/github/last-commit/kyza0d/vocal.nvim) ![](https://img.shields.io/github/commit-activity/y/kyza0d/vocal.nvim)
 - [Avi-D-coder/whisper.nvim](https://github.com/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/stars/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/last-commit/Avi-D-coder/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/Avi-D-coder/whisper.nvim)
 - [IronBlood/whisper.nvim](https://github.com/IronBlood/whisper.nvim) ![](https://img.shields.io/github/stars/IronBlood/whisper.nvim) ![](https://img.shields.io/github/last-commit/IronBlood/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/IronBlood/whisper.nvim)
+- [brianchli/whisper.nvim](https://github.com/brianchli/whisper.nvim) ![](https://img.shields.io/github/stars/brianchli/whisper.nvim) ![](https://img.shields.io/github/last-commit/brianchli/whisper.nvim) ![](https://img.shields.io/github/commit-activity/y/brianchli/whisper.nvim)
 
 ### Gemini
 
@@ -745,6 +747,7 @@
 - [myzenon/novibe.nvim](https://github.com/myzenon/novibe.nvim) ![](https://img.shields.io/github/stars/myzenon/novibe.nvim) ![](https://img.shields.io/github/last-commit/myzenon/novibe.nvim) ![](https://img.shields.io/github/commit-activity/y/myzenon/novibe.nvim)
 - [AoraMD/auto-completion.nvim](https://github.com/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/stars/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/last-commit/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/AoraMD/auto-completion.nvim)
 - [ducng99/llama.nvim](https://github.com/ducng99/llama.nvim) ![](https://img.shields.io/github/stars/ducng99/llama.nvim) ![](https://img.shields.io/github/last-commit/ducng99/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/ducng99/llama.nvim)
+- [pablogarin/ataraxy.nvim](https://github.com/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/stars/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/ataraxy.nvim)
 
 ### Claude
 
@@ -763,6 +766,7 @@
 - [fuegoio/copiloutre.nvim](https://github.com/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/stars/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/last-commit/fuegoio/copiloutre.nvim) ![](https://img.shields.io/github/commit-activity/y/fuegoio/copiloutre.nvim)
 - [copilotlsp-nvim/copilot-lsp](https://github.com/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/stars/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/last-commit/copilotlsp-nvim/copilot-lsp) ![](https://img.shields.io/github/commit-activity/y/copilotlsp-nvim/copilot-lsp)
 - [dyamon/codecompanion-copilot-enterprise.nvim](https://github.com/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/stars/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/last-commit/dyamon/codecompanion-copilot-enterprise.nvim) ![](https://img.shields.io/github/commit-activity/y/dyamon/codecompanion-copilot-enterprise.nvim)
+- [npertschy/copilot-ghe.nvim](https://github.com/npertschy/copilot-ghe.nvim) ![](https://img.shields.io/github/stars/npertschy/copilot-ghe.nvim) ![](https://img.shields.io/github/last-commit/npertschy/copilot-ghe.nvim) ![](https://img.shields.io/github/commit-activity/y/npertschy/copilot-ghe.nvim)
 - [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) ![](https://img.shields.io/github/stars/folke/sidekick.nvim) ![](https://img.shields.io/github/last-commit/folke/sidekick.nvim) ![](https://img.shields.io/github/commit-activity/y/folke/sidekick.nvim)
 - [agretta/cccontext.nvim](https://github.com/agretta/cccontext.nvim) ![](https://img.shields.io/github/stars/agretta/cccontext.nvim) ![](https://img.shields.io/github/last-commit/agretta/cccontext.nvim) ![](https://img.shields.io/github/commit-activity/y/agretta/cccontext.nvim)
 - [samiulsami/copilot-eldritch.nvim](https://github.com/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/stars/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/last-commit/samiulsami/copilot-eldritch.nvim) ![](https://img.shields.io/github/commit-activity/y/samiulsami/copilot-eldritch.nvim)

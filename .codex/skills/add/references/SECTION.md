@@ -411,6 +411,7 @@
 ### EdgeDB
 ### Metabase
 ### DuckDB
+### kdb+
 ### Prisma
 
 # debugger_repl.md
@@ -858,6 +859,7 @@
 #### Windows Terminal
 #### Wireman
 #### ZTerm
+#### Zellij
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -1667,6 +1669,7 @@
 ### test
 #### jurigged
 ### import
+### Run
 ### REPL
 ### Debug
 ### Profiler

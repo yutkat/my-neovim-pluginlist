@@ -87,6 +87,7 @@
 - [joshjkns/tuck.nvim](https://github.com/joshjkns/tuck.nvim) ![](https://img.shields.io/github/stars/joshjkns/tuck.nvim) ![](https://img.shields.io/github/last-commit/joshjkns/tuck.nvim) ![](https://img.shields.io/github/commit-activity/y/joshjkns/tuck.nvim)
 - [elanmed/surround.nvim](https://github.com/elanmed/surround.nvim) ![](https://img.shields.io/github/stars/elanmed/surround.nvim) ![](https://img.shields.io/github/last-commit/elanmed/surround.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/surround.nvim)
 - [Oreo412/nvim-wrap-node](https://github.com/Oreo412/nvim-wrap-node) ![](https://img.shields.io/github/stars/Oreo412/nvim-wrap-node) ![](https://img.shields.io/github/last-commit/Oreo412/nvim-wrap-node) ![](https://img.shields.io/github/commit-activity/y/Oreo412/nvim-wrap-node)
+- [lsbrel/nvim-abraco](https://github.com/lsbrel/nvim-abraco) ![](https://img.shields.io/github/stars/lsbrel/nvim-abraco) ![](https://img.shields.io/github/last-commit/lsbrel/nvim-abraco) ![](https://img.shields.io/github/commit-activity/y/lsbrel/nvim-abraco)
 
 ## Operator
 
