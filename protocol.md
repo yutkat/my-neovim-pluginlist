@@ -79,6 +79,7 @@
 - [SanoLitch/rest-gen.nvim](https://github.com/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/stars/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/last-commit/SanoLitch/rest-gen.nvim) ![](https://img.shields.io/github/commit-activity/y/SanoLitch/rest-gen.nvim)
 - [fmorroni/swagger-preview.nvim](https://github.com/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/stars/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/last-commit/fmorroni/swagger-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/fmorroni/swagger-preview.nvim)
 - [kevsommer/openapi-navigation.nvim](https://github.com/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/stars/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/last-commit/kevsommer/openapi-navigation.nvim) ![](https://img.shields.io/github/commit-activity/y/kevsommer/openapi-navigation.nvim)
+- [devdammit/openapi.nvim](https://github.com/devdammit/openapi.nvim) ![](https://img.shields.io/github/stars/devdammit/openapi.nvim) ![](https://img.shields.io/github/last-commit/devdammit/openapi.nvim) ![](https://img.shields.io/github/commit-activity/y/devdammit/openapi.nvim)
 
 ### Protocol buffer
 

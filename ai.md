@@ -256,6 +256,7 @@
 
 - [McEazy2700/antigravity-cli.nvim](https://github.com/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/antigravity-cli.nvim)
 - [AndreaKinder/agy-togle.nvim](https://github.com/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/agy-togle.nvim)
+- [denerblack/agy.nvim](https://github.com/denerblack/agy.nvim) ![](https://img.shields.io/github/stars/denerblack/agy.nvim) ![](https://img.shields.io/github/last-commit/denerblack/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/denerblack/agy.nvim)
 
 ### Grok
 
@@ -910,6 +911,8 @@
 - [aleph-zero/deepagents.nvim](https://github.com/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/stars/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/last-commit/aleph-zero/deepagents.nvim) ![](https://img.shields.io/github/commit-activity/y/aleph-zero/deepagents.nvim)
 - [juantot9/ai-harness.nvim](https://github.com/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/stars/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/last-commit/juantot9/ai-harness.nvim) ![](https://img.shields.io/github/commit-activity/y/juantot9/ai-harness.nvim)
 - [modulomedito/rookie_ai.nvim](https://github.com/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ai.nvim)
+- [alsi-lawr/agent-term.nvim](https://github.com/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/stars/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/last-commit/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/commit-activity/y/alsi-lawr/agent-term.nvim)
+- [bankaert-benoit/nvim-ai-cli](https://github.com/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/stars/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/last-commit/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/commit-activity/y/bankaert-benoit/nvim-ai-cli)
 
 ## ECA
 

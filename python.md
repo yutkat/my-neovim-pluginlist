@@ -151,6 +151,7 @@
 #### Ruff
 
 - [williambdean/ruff-rules.nvim](https://github.com/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/stars/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/last-commit/williambdean/ruff-rules.nvim) ![](https://img.shields.io/github/commit-activity/y/williambdean/ruff-rules.nvim)
+- [PhilippFeO/explain-ruff-rule.nvim](https://github.com/PhilippFeO/explain-ruff-rule.nvim) ![](https://img.shields.io/github/stars/PhilippFeO/explain-ruff-rule.nvim) ![](https://img.shields.io/github/last-commit/PhilippFeO/explain-ruff-rule.nvim) ![](https://img.shields.io/github/commit-activity/y/PhilippFeO/explain-ruff-rule.nvim)
 
 ### LSP
 

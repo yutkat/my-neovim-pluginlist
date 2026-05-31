@@ -89,6 +89,7 @@
 ### QR Code
 
 - [manno/qrencode.nvim](https://github.com/manno/qrencode.nvim) ![](https://img.shields.io/github/stars/manno/qrencode.nvim) ![](https://img.shields.io/github/last-commit/manno/qrencode.nvim) ![](https://img.shields.io/github/commit-activity/y/manno/qrencode.nvim)
+- [taigrr/qr.nvim](https://github.com/taigrr/qr.nvim) ![](https://img.shields.io/github/stars/taigrr/qr.nvim) ![](https://img.shields.io/github/last-commit/taigrr/qr.nvim) ![](https://img.shields.io/github/commit-activity/y/taigrr/qr.nvim)
 
 ### Screen Key (Show Typing key)
 

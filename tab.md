@@ -22,6 +22,7 @@
 - [Gheruha/tabman.nvim](https://github.com/Gheruha/tabman.nvim) ![](https://img.shields.io/github/stars/Gheruha/tabman.nvim) ![](https://img.shields.io/github/last-commit/Gheruha/tabman.nvim) ![](https://img.shields.io/github/commit-activity/y/Gheruha/tabman.nvim)
 - [hiszd/tabscope.nvim](https://github.com/hiszd/tabscope.nvim) ![](https://img.shields.io/github/stars/hiszd/tabscope.nvim) ![](https://img.shields.io/github/last-commit/hiszd/tabscope.nvim) ![](https://img.shields.io/github/commit-activity/y/hiszd/tabscope.nvim)
 - [modulomedito/rookie_tabrename.nvim](https://github.com/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_tabrename.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_tabrename.nvim)
+- [ttak0422/worktab.nvim](https://github.com/ttak0422/worktab.nvim) ![](https://img.shields.io/github/stars/ttak0422/worktab.nvim) ![](https://img.shields.io/github/last-commit/ttak0422/worktab.nvim) ![](https://img.shields.io/github/commit-activity/y/ttak0422/worktab.nvim)
 
 ### select
 
