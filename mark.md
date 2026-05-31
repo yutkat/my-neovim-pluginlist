@@ -53,6 +53,7 @@
 - [ryanburda/buf-mark](https://github.com/ryanburda/buf-mark) ![](https://img.shields.io/github/stars/ryanburda/buf-mark) ![](https://img.shields.io/github/last-commit/ryanburda/buf-mark) ![](https://img.shields.io/github/commit-activity/y/ryanburda/buf-mark)
 - [adithyasource/spearmint.nvim](https://github.com/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/stars/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/last-commit/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/commit-activity/y/adithyasource/spearmint.nvim)
 - [curlylakes/markus.nvim](https://github.com/curlylakes/markus.nvim) ![](https://img.shields.io/github/stars/curlylakes/markus.nvim) ![](https://img.shields.io/github/last-commit/curlylakes/markus.nvim) ![](https://img.shields.io/github/commit-activity/y/curlylakes/markus.nvim)
+- [GooseRooster/cairn.nvim](https://github.com/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/stars/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/cairn.nvim)
 
 ### extmark
 
