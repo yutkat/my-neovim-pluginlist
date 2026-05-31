@@ -74,6 +74,7 @@
     - [Elm](#elm)
     - [Paradox Script](#paradox-script)
     - [Valen](#valen)
+    - [Jac](#jac)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -598,6 +599,10 @@
 #### Valen
 
 - [NaruseNia/valen.nvim](https://github.com/NaruseNia/valen.nvim) ![](https://img.shields.io/github/stars/NaruseNia/valen.nvim) ![](https://img.shields.io/github/last-commit/NaruseNia/valen.nvim) ![](https://img.shields.io/github/commit-activity/y/NaruseNia/valen.nvim)
+
+#### Jac
+
+- [chess10kp/jac.nvim](https://github.com/chess10kp/jac.nvim) ![](https://img.shields.io/github/stars/chess10kp/jac.nvim) ![](https://img.shields.io/github/last-commit/chess10kp/jac.nvim) ![](https://img.shields.io/github/commit-activity/y/chess10kp/jac.nvim)
 
 ### WSL
 

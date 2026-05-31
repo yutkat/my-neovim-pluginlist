@@ -132,6 +132,7 @@
 
 - [dbeauchamp/orderbook.nvim](https://github.com/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/stars/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/last-commit/dbeauchamp/orderbook.nvim) ![](https://img.shields.io/github/commit-activity/y/dbeauchamp/orderbook.nvim)
 - [Hzzy2O/cryptowatch.nvim](https://github.com/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/stars/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/last-commit/Hzzy2O/cryptowatch.nvim) ![](https://img.shields.io/github/commit-activity/y/Hzzy2O/cryptowatch.nvim)
+- [dshan12/alpha-stream.nvim](https://github.com/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/stars/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/last-commit/dshan12/alpha-stream.nvim) ![](https://img.shields.io/github/commit-activity/y/dshan12/alpha-stream.nvim)
 
 ### Speech
 

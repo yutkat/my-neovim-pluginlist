@@ -288,6 +288,7 @@
 
 - [emrearmagan/dockyard.nvim](https://github.com/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/stars/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/last-commit/emrearmagan/dockyard.nvim) ![](https://img.shields.io/github/commit-activity/y/emrearmagan/dockyard.nvim)
 - [zion-off/opal.nvim](https://github.com/zion-off/opal.nvim) ![](https://img.shields.io/github/stars/zion-off/opal.nvim) ![](https://img.shields.io/github/last-commit/zion-off/opal.nvim) ![](https://img.shields.io/github/commit-activity/y/zion-off/opal.nvim)
+- [lonsagisawa/ddev.nvim](https://github.com/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/stars/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/last-commit/lonsagisawa/ddev.nvim) ![](https://img.shields.io/github/commit-activity/y/lonsagisawa/ddev.nvim)
 
 #### Kubernetes
 
@@ -365,6 +366,8 @@
 - [fbreckle/telescope-aws-accounts.nvim](https://github.com/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/stars/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/last-commit/fbreckle/telescope-aws-accounts.nvim) ![](https://img.shields.io/github/commit-activity/y/fbreckle/telescope-aws-accounts.nvim)
 - [RogerTerrazas/aws.nvim](https://github.com/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/stars/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/last-commit/RogerTerrazas/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/RogerTerrazas/aws.nvim)
 - [jugarpeupv/aws.nvim](https://github.com/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/stars/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/last-commit/jugarpeupv/aws.nvim) ![](https://img.shields.io/github/commit-activity/y/jugarpeupv/aws.nvim)
+- [wingitman/awstoolkitwrapper.nvim](https://github.com/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/stars/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/last-commit/wingitman/awstoolkitwrapper.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/awstoolkitwrapper.nvim)
+- [wingitman/lambit.nvim](https://github.com/wingitman/lambit.nvim) ![](https://img.shields.io/github/stars/wingitman/lambit.nvim) ![](https://img.shields.io/github/last-commit/wingitman/lambit.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/lambit.nvim)
 
 ##### S3
 
