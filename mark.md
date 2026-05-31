@@ -53,6 +53,7 @@
 - [ryanburda/buf-mark](https://github.com/ryanburda/buf-mark) ![](https://img.shields.io/github/stars/ryanburda/buf-mark) ![](https://img.shields.io/github/last-commit/ryanburda/buf-mark) ![](https://img.shields.io/github/commit-activity/y/ryanburda/buf-mark)
 - [adithyasource/spearmint.nvim](https://github.com/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/stars/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/last-commit/adithyasource/spearmint.nvim) ![](https://img.shields.io/github/commit-activity/y/adithyasource/spearmint.nvim)
 - [curlylakes/markus.nvim](https://github.com/curlylakes/markus.nvim) ![](https://img.shields.io/github/stars/curlylakes/markus.nvim) ![](https://img.shields.io/github/last-commit/curlylakes/markus.nvim) ![](https://img.shields.io/github/commit-activity/y/curlylakes/markus.nvim)
+- [GooseRooster/cairn.nvim](https://github.com/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/stars/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/cairn.nvim)
 
 ### extmark
 
@@ -207,4 +208,3 @@
 - [alexekdahl/marksman.nvim](https://github.com/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/stars/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/last-commit/alexekdahl/marksman.nvim) ![](https://img.shields.io/github/commit-activity/y/alexekdahl/marksman.nvim)
 - [stuglaser/mark_ring.nvim](https://github.com/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/stars/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/last-commit/stuglaser/mark_ring.nvim) ![](https://img.shields.io/github/commit-activity/y/stuglaser/mark_ring.nvim)
 - [AndresYague/fish-files.nvim](https://github.com/AndresYague/fish-files.nvim) ![](https://img.shields.io/github/stars/AndresYague/fish-files.nvim) ![](https://img.shields.io/github/last-commit/AndresYague/fish-files.nvim) ![](https://img.shields.io/github/commit-activity/y/AndresYague/fish-files.nvim)
-- [GooseRooster/cairn.nvim](https://github.com/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/stars/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/last-commit/GooseRooster/cairn.nvim) ![](https://img.shields.io/github/commit-activity/y/GooseRooster/cairn.nvim)
