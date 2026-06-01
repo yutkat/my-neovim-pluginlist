@@ -39,6 +39,7 @@
 ### Unit
 
 - [David-Kunz/treesitter-unit](https://github.com/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/stars/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/last-commit/David-Kunz/treesitter-unit) ![](https://img.shields.io/github/commit-activity/y/David-Kunz/treesitter-unit)
+- [so1ve/textobject-hud.nvim](https://github.com/so1ve/textobject-hud.nvim) ![](https://img.shields.io/github/stars/so1ve/textobject-hud.nvim) ![](https://img.shields.io/github/last-commit/so1ve/textobject-hud.nvim) ![](https://img.shields.io/github/commit-activity/y/so1ve/textobject-hud.nvim)
 
 ### indent
 
