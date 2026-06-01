@@ -201,7 +201,6 @@
 - [jyhl/sift.nvim](https://github.com/jyhl/sift.nvim) ![](https://img.shields.io/github/stars/jyhl/sift.nvim) ![](https://img.shields.io/github/last-commit/jyhl/sift.nvim) ![](https://img.shields.io/github/commit-activity/y/jyhl/sift.nvim)
 - [Ali-Aref/codex.nvim](https://github.com/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/stars/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/last-commit/Ali-Aref/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/Ali-Aref/codex.nvim)
 - [goropikari/codex.nvim](https://github.com/goropikari/codex.nvim) ![](https://img.shields.io/github/stars/goropikari/codex.nvim) ![](https://img.shields.io/github/last-commit/goropikari/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/codex.nvim)
-- [KotaroMotoda/codex-workbench.nvim](https://github.com/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/stars/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/last-commit/KotaroMotoda/codex-workbench.nvim) ![](https://img.shields.io/github/commit-activity/y/KotaroMotoda/codex-workbench.nvim)
 - [command-z-z/codex.nvim](https://github.com/command-z-z/codex.nvim) ![](https://img.shields.io/github/stars/command-z-z/codex.nvim) ![](https://img.shields.io/github/last-commit/command-z-z/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/command-z-z/codex.nvim)
 - [genkio/code-trace.nvim](https://github.com/genkio/code-trace.nvim) ![](https://img.shields.io/github/stars/genkio/code-trace.nvim) ![](https://img.shields.io/github/last-commit/genkio/code-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/genkio/code-trace.nvim)
 - [AlexanderGolys/codex.nvim](https://github.com/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex.nvim)
@@ -568,7 +567,6 @@
 
 ### Aider
 
-- [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) ![](https://img.shields.io/github/stars/joshuavial/aider.nvim) ![](https://img.shields.io/github/last-commit/joshuavial/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/joshuavial/aider.nvim)
 - [ddzero2c/aider.nvim](https://github.com/ddzero2c/aider.nvim) ![](https://img.shields.io/github/stars/ddzero2c/aider.nvim) ![](https://img.shields.io/github/last-commit/ddzero2c/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/ddzero2c/aider.nvim)
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/stars/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/last-commit/GeorgesAlkhouri/nvim-aider) ![](https://img.shields.io/github/commit-activity/y/GeorgesAlkhouri/nvim-aider)
 - [aweis89/aider.nvim](https://github.com/aweis89/aider.nvim) ![](https://img.shields.io/github/stars/aweis89/aider.nvim) ![](https://img.shields.io/github/last-commit/aweis89/aider.nvim) ![](https://img.shields.io/github/commit-activity/y/aweis89/aider.nvim)
