@@ -573,6 +573,7 @@
 #### SuperCollider
 
 - [madskjeldgaard/telescope-supercollider.nvim](https://github.com/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/stars/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/last-commit/madskjeldgaard/telescope-supercollider.nvim) ![](https://img.shields.io/github/commit-activity/y/madskjeldgaard/telescope-supercollider.nvim)
+- [mixify/sc-inline-visual.nvim](https://github.com/mixify/sc-inline-visual.nvim) ![](https://img.shields.io/github/stars/mixify/sc-inline-visual.nvim) ![](https://img.shields.io/github/last-commit/mixify/sc-inline-visual.nvim) ![](https://img.shields.io/github/commit-activity/y/mixify/sc-inline-visual.nvim)
 
 #### LilyPond
 
