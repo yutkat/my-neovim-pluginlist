@@ -161,6 +161,7 @@
 - [tttol/md-outline.nvim](https://github.com/tttol/md-outline.nvim) ![](https://img.shields.io/github/stars/tttol/md-outline.nvim) ![](https://img.shields.io/github/last-commit/tttol/md-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/tttol/md-outline.nvim)
 - [Chiarandini/telescope-cached-headings.nvim](https://github.com/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/stars/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/telescope-cached-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/telescope-cached-headings.nvim)
 - [Chiarandini/snacks-cached-headings.nvim](https://github.com/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/stars/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/last-commit/Chiarandini/snacks-cached-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/Chiarandini/snacks-cached-headings.nvim)
+- [t0w2/markdown-headings.nvim](https://github.com/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/stars/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/last-commit/t0w2/markdown-headings.nvim) ![](https://img.shields.io/github/commit-activity/y/t0w2/markdown-headings.nvim)
 
 ##### Section
 
@@ -531,6 +532,7 @@
 - [tigion/nvim-asciidoc-preview](https://github.com/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/stars/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/last-commit/tigion/nvim-asciidoc-preview) ![](https://img.shields.io/github/commit-activity/y/tigion/nvim-asciidoc-preview)
 - [msr1k/outline-asciidoc-provider.nvim](https://github.com/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/stars/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/last-commit/msr1k/outline-asciidoc-provider.nvim) ![](https://img.shields.io/github/commit-activity/y/msr1k/outline-asciidoc-provider.nvim)
 - [cpkio/nvim-treesitter-asciidoc](https://github.com/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/stars/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/last-commit/cpkio/nvim-treesitter-asciidoc) ![](https://img.shields.io/github/commit-activity/y/cpkio/nvim-treesitter-asciidoc)
+- [rudolfa/ft-asciidoc.nvim](https://github.com/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/stars/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/last-commit/rudolfa/ft-asciidoc.nvim) ![](https://img.shields.io/github/commit-activity/y/rudolfa/ft-asciidoc.nvim)
 
 ### Mindmap
 

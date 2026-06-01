@@ -709,6 +709,7 @@
 - [13janderson/opencode-wt.nvim](https://github.com/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/stars/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/last-commit/13janderson/opencode-wt.nvim) ![](https://img.shields.io/github/commit-activity/y/13janderson/opencode-wt.nvim)
 - [jorlly-collado-castro/opencode-lazy.nvim](https://github.com/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/opencode-lazy.nvim)
 - [McEazy2700/opencode.nvim](https://github.com/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/stars/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/opencode.nvim)
+- [scarydoors/craft.nvim](https://github.com/scarydoors/craft.nvim) ![](https://img.shields.io/github/stars/scarydoors/craft.nvim) ![](https://img.shields.io/github/last-commit/scarydoors/craft.nvim) ![](https://img.shields.io/github/commit-activity/y/scarydoors/craft.nvim)
 
 ### Alma
 
@@ -855,6 +856,7 @@
 - [saattrupdan/pi-agent.nvim](https://github.com/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/stars/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/last-commit/saattrupdan/pi-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/saattrupdan/pi-agent.nvim)
 - [bamggm/pi.nvim](https://github.com/bamggm/pi.nvim) ![](https://img.shields.io/github/stars/bamggm/pi.nvim) ![](https://img.shields.io/github/last-commit/bamggm/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/bamggm/pi.nvim)
 - [ldelossa/pi-ide.nvim](https://github.com/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/stars/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/pi-ide.nvim)
+- [fonnesbeck/pi-panel.nvim](https://github.com/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/stars/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/last-commit/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/fonnesbeck/pi-panel.nvim)
 
 ### Amp
 

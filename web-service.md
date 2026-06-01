@@ -389,6 +389,7 @@
 ### paste.rs
 
 - [postfen/trozo.nvim](https://github.com/postfen/trozo.nvim) ![](https://img.shields.io/github/stars/postfen/trozo.nvim) ![](https://img.shields.io/github/last-commit/postfen/trozo.nvim) ![](https://img.shields.io/github/commit-activity/y/postfen/trozo.nvim)
+- [ronish-maharjan/caret.nvim](https://github.com/ronish-maharjan/caret.nvim) ![](https://img.shields.io/github/stars/ronish-maharjan/caret.nvim) ![](https://img.shields.io/github/last-commit/ronish-maharjan/caret.nvim) ![](https://img.shields.io/github/commit-activity/y/ronish-maharjan/caret.nvim)
 
 ### Cloudinary
 

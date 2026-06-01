@@ -192,6 +192,7 @@
     - [Vela](#vela)
     - [Awsum](#awsum)
     - [Kaikai](#kaikai)
+    - [Soyuz](#soyuz)
 - [Competitive programming](#competitive-programming)
   - [ACMOJ](#acmoj)
   - [Codeforces](#codeforces)
@@ -1074,6 +1075,10 @@
 #### Kaikai
 
 - [kaikailang-org/kaikai.nvim](https://github.com/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/stars/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/last-commit/kaikailang-org/kaikai.nvim) ![](https://img.shields.io/github/commit-activity/y/kaikailang-org/kaikai.nvim)
+
+#### Soyuz
+
+- [VandeJr/nvim-soyuz](https://github.com/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/stars/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/last-commit/VandeJr/nvim-soyuz) ![](https://img.shields.io/github/commit-activity/y/VandeJr/nvim-soyuz)
 
 ## Competitive programming
 

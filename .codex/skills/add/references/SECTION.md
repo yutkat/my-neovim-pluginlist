@@ -1208,6 +1208,7 @@
 #### Vela
 #### Awsum
 #### Kaikai
+#### Soyuz
 ## Competitive programming
 ### ACMOJ
 ### Codeforces
