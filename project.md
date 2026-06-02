@@ -114,6 +114,7 @@
 - [shoebox/spec-kit.nvim](https://github.com/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/stars/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/last-commit/shoebox/spec-kit.nvim) ![](https://img.shields.io/github/commit-activity/y/shoebox/spec-kit.nvim)
 - [taratani21/nvim-notes](https://github.com/taratani21/nvim-notes) ![](https://img.shields.io/github/stars/taratani21/nvim-notes) ![](https://img.shields.io/github/last-commit/taratani21/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/taratani21/nvim-notes)
 - [adia-dev/project-notes.nvim](https://github.com/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/stars/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/last-commit/adia-dev/project-notes.nvim) ![](https://img.shields.io/github/commit-activity/y/adia-dev/project-notes.nvim)
+- [abidibo/nvim-notes](https://github.com/abidibo/nvim-notes) ![](https://img.shields.io/github/stars/abidibo/nvim-notes) ![](https://img.shields.io/github/last-commit/abidibo/nvim-notes) ![](https://img.shields.io/github/commit-activity/y/abidibo/nvim-notes)
 
 ### Project Template
 

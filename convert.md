@@ -26,6 +26,7 @@
 
 - [wingitman/atob.nvim](https://github.com/wingitman/atob.nvim) ![](https://img.shields.io/github/stars/wingitman/atob.nvim) ![](https://img.shields.io/github/last-commit/wingitman/atob.nvim) ![](https://img.shields.io/github/commit-activity/y/wingitman/atob.nvim)
 - [anotherhadi/sttr.nvim](https://github.com/anotherhadi/sttr.nvim) ![](https://img.shields.io/github/stars/anotherhadi/sttr.nvim) ![](https://img.shields.io/github/last-commit/anotherhadi/sttr.nvim) ![](https://img.shields.io/github/commit-activity/y/anotherhadi/sttr.nvim)
+- [yukimemi/ahdr.nvim](https://github.com/yukimemi/ahdr.nvim) ![](https://img.shields.io/github/stars/yukimemi/ahdr.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/ahdr.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/ahdr.nvim)
 
 ### Adding and subtracting
 

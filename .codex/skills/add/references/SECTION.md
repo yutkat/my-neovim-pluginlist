@@ -1155,6 +1155,7 @@
 #### Aeria
 #### Apple II
 #### C64
+#### ZX Spectrum
 #### Templaty
 #### Timur
 #### Umple
