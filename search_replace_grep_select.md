@@ -177,6 +177,7 @@
 - [dantevazquez/one-replace.nvim](https://github.com/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/stars/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/last-commit/dantevazquez/one-replace.nvim) ![](https://img.shields.io/github/commit-activity/y/dantevazquez/one-replace.nvim)
 - [gagath/nvim-replayce](https://github.com/gagath/nvim-replayce) ![](https://img.shields.io/github/stars/gagath/nvim-replayce) ![](https://img.shields.io/github/last-commit/gagath/nvim-replayce) ![](https://img.shields.io/github/commit-activity/y/gagath/nvim-replayce)
 - [modulomedito/rookie_enhance_telescope.nvim](https://github.com/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_enhance_telescope.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_enhance_telescope.nvim)
+- [yukimemi/autoreplacer.nvim](https://github.com/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/stars/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/autoreplacer.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/autoreplacer.nvim)
 
 ### Rename
 

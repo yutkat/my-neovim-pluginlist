@@ -697,6 +697,7 @@
 
 - [quarto-dev/quarto-nvim](https://github.com/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/stars/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/last-commit/quarto-dev/quarto-nvim) ![](https://img.shields.io/github/commit-activity/y/quarto-dev/quarto-nvim)
 - [wellsdurant/quartofy.nvim](https://github.com/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/stars/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/last-commit/wellsdurant/quartofy.nvim) ![](https://img.shields.io/github/commit-activity/y/wellsdurant/quartofy.nvim)
+- [luyiyun/quarto-sync.nvim](https://github.com/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/stars/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/last-commit/luyiyun/quarto-sync.nvim) ![](https://img.shields.io/github/commit-activity/y/luyiyun/quarto-sync.nvim)
 
 ### Gist
 

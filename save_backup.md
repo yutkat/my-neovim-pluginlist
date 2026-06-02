@@ -43,6 +43,7 @@
 - [phanen/undotree-plus.nvim](https://github.com/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/stars/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/last-commit/phanen/undotree-plus.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/undotree-plus.nvim)
 - [sgraves76/nvim-haven](https://github.com/sgraves76/nvim-haven) ![](https://img.shields.io/github/stars/sgraves76/nvim-haven) ![](https://img.shields.io/github/last-commit/sgraves76/nvim-haven) ![](https://img.shields.io/github/commit-activity/y/sgraves76/nvim-haven)
 - [kako-jun/chunkundo.nvim](https://github.com/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/stars/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/last-commit/kako-jun/chunkundo.nvim) ![](https://img.shields.io/github/commit-activity/y/kako-jun/chunkundo.nvim)
+- [yukimemi/chronicle.nvim](https://github.com/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/stars/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/chronicle.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/chronicle.nvim)
 
 ### Cursor Position
 
@@ -65,6 +66,7 @@
 
 - [theawakener0/TraceBack](https://github.com/theawakener0/TraceBack) ![](https://img.shields.io/github/stars/theawakener0/TraceBack) ![](https://img.shields.io/github/last-commit/theawakener0/TraceBack) ![](https://img.shields.io/github/commit-activity/y/theawakener0/TraceBack)
 - [clawoflight/telescope-zfs-snapshots.nvim](https://github.com/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/stars/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/last-commit/clawoflight/telescope-zfs-snapshots.nvim) ![](https://img.shields.io/github/commit-activity/y/clawoflight/telescope-zfs-snapshots.nvim)
+- [yukimemi/silentsaver.nvim](https://github.com/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/stars/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/last-commit/yukimemi/silentsaver.nvim) ![](https://img.shields.io/github/commit-activity/y/yukimemi/silentsaver.nvim)
 
 ## Swapfile
 

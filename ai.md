@@ -913,6 +913,8 @@
 - [modulomedito/rookie_ai.nvim](https://github.com/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_ai.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_ai.nvim)
 - [alsi-lawr/agent-term.nvim](https://github.com/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/stars/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/last-commit/alsi-lawr/agent-term.nvim) ![](https://img.shields.io/github/commit-activity/y/alsi-lawr/agent-term.nvim)
 - [bankaert-benoit/nvim-ai-cli](https://github.com/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/stars/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/last-commit/bankaert-benoit/nvim-ai-cli) ![](https://img.shields.io/github/commit-activity/y/bankaert-benoit/nvim-ai-cli)
+- [timwmillard/tmux-agent.nvim](https://github.com/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/stars/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/last-commit/timwmillard/tmux-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/timwmillard/tmux-agent.nvim)
+- [xiaopixiao/reasonix.nvim](https://github.com/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/stars/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/last-commit/xiaopixiao/reasonix.nvim) ![](https://img.shields.io/github/commit-activity/y/xiaopixiao/reasonix.nvim)
 
 ## ECA
 

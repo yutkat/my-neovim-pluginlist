@@ -139,6 +139,7 @@
     - [Aeria](#aeria)
     - [Apple II](#apple-ii)
     - [C64](#c64)
+    - [ZX Spectrum](#zx-spectrum)
     - [Templaty](#templaty)
     - [Timur](#timur)
     - [Umple](#umple)
@@ -855,6 +856,10 @@
 #### C64
 
 - [cybersorcerer/c64.nvim](https://github.com/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/stars/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/last-commit/cybersorcerer/c64.nvim) ![](https://img.shields.io/github/commit-activity/y/cybersorcerer/c64.nvim)
+
+#### ZX Spectrum
+
+- [dknight/zx.nvim](https://github.com/dknight/zx.nvim) ![](https://img.shields.io/github/stars/dknight/zx.nvim) ![](https://img.shields.io/github/last-commit/dknight/zx.nvim) ![](https://img.shields.io/github/commit-activity/y/dknight/zx.nvim)
 
 #### Templaty
 
