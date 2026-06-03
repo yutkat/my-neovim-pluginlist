@@ -860,6 +860,7 @@
 #### Wireman
 #### ZTerm
 #### Zellij
+#### Herdr
 ### Infra
 #### OpenStack
 #### SonarLint
@@ -1125,6 +1126,7 @@
 #### ntangle
 #### Ada
 ##### Alire
+##### Snippet
 #### Moonscript
 #### mLua
 #### Haxe
@@ -1928,6 +1930,7 @@
 #### tera
 #### tauri
 #### Zola
+#### Leptos
 
 # save_backup.md
 ## Save

@@ -109,6 +109,7 @@
 - [gambhirsharma/cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/stars/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/last-commit/gambhirsharma/cgd.nvim) ![](https://img.shields.io/github/commit-activity/y/gambhirsharma/cgd.nvim)
 - [gvanbeck/luai.nvim](https://github.com/gvanbeck/luai.nvim) ![](https://img.shields.io/github/stars/gvanbeck/luai.nvim) ![](https://img.shields.io/github/last-commit/gvanbeck/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/gvanbeck/luai.nvim)
 - [laynef/sage.nvim](https://github.com/laynef/sage.nvim) ![](https://img.shields.io/github/stars/laynef/sage.nvim) ![](https://img.shields.io/github/last-commit/laynef/sage.nvim) ![](https://img.shields.io/github/commit-activity/y/laynef/sage.nvim)
+- [rsarv3006/ai-scalpel.nvim](https://github.com/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/stars/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/last-commit/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/commit-activity/y/rsarv3006/ai-scalpel.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -748,6 +749,7 @@
 - [AoraMD/auto-completion.nvim](https://github.com/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/stars/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/last-commit/AoraMD/auto-completion.nvim) ![](https://img.shields.io/github/commit-activity/y/AoraMD/auto-completion.nvim)
 - [ducng99/llama.nvim](https://github.com/ducng99/llama.nvim) ![](https://img.shields.io/github/stars/ducng99/llama.nvim) ![](https://img.shields.io/github/last-commit/ducng99/llama.nvim) ![](https://img.shields.io/github/commit-activity/y/ducng99/llama.nvim)
 - [pablogarin/ataraxy.nvim](https://github.com/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/stars/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/last-commit/pablogarin/ataraxy.nvim) ![](https://img.shields.io/github/commit-activity/y/pablogarin/ataraxy.nvim)
+- [Degatien/yapper.nvim](https://github.com/Degatien/yapper.nvim) ![](https://img.shields.io/github/stars/Degatien/yapper.nvim) ![](https://img.shields.io/github/last-commit/Degatien/yapper.nvim) ![](https://img.shields.io/github/commit-activity/y/Degatien/yapper.nvim)
 
 ### Claude
 
@@ -824,6 +826,7 @@
 - [jhanna2/nvim-agent](https://github.com/jhanna2/nvim-agent) ![](https://img.shields.io/github/stars/jhanna2/nvim-agent) ![](https://img.shields.io/github/last-commit/jhanna2/nvim-agent) ![](https://img.shields.io/github/commit-activity/y/jhanna2/nvim-agent)
 - [inhesrom/agents.nvim](https://github.com/inhesrom/agents.nvim) ![](https://img.shields.io/github/stars/inhesrom/agents.nvim) ![](https://img.shields.io/github/last-commit/inhesrom/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/inhesrom/agents.nvim)
 - [topper3418/agents.nvim](https://github.com/topper3418/agents.nvim) ![](https://img.shields.io/github/stars/topper3418/agents.nvim) ![](https://img.shields.io/github/last-commit/topper3418/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/agents.nvim)
+- [seanxwzhang/agentpanel.nvim](https://github.com/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/stars/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/last-commit/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/seanxwzhang/agentpanel.nvim)
 
 ### AGENTS.md
 

@@ -34,6 +34,7 @@
     - [Wireman](#wireman)
     - [ZTerm](#zterm)
     - [Zellij](#zellij)
+    - [Herdr](#herdr)
   - [Infra](#infra)
     - [OpenStack](#openstack)
     - [SonarLint](#sonarlint)
@@ -166,6 +167,7 @@
 #### fish
 
 - [Trard/fish_abbr.nvim](https://github.com/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/stars/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/last-commit/Trard/fish_abbr.nvim) ![](https://img.shields.io/github/commit-activity/y/Trard/fish_abbr.nvim)
+- [tetzng/pez.nvim](https://github.com/tetzng/pez.nvim) ![](https://img.shields.io/github/stars/tetzng/pez.nvim) ![](https://img.shields.io/github/last-commit/tetzng/pez.nvim) ![](https://img.shields.io/github/commit-activity/y/tetzng/pez.nvim)
 
 #### nushell
 
@@ -252,6 +254,10 @@
 #### Zellij
 
 - [hjetmundsen/zellij.nvim](https://github.com/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/stars/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/last-commit/hjetmundsen/zellij.nvim) ![](https://img.shields.io/github/commit-activity/y/hjetmundsen/zellij.nvim)
+
+#### Herdr
+
+- [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) ![](https://img.shields.io/github/stars/devxplay/herdr.nvim) ![](https://img.shields.io/github/last-commit/devxplay/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/devxplay/herdr.nvim)
 
 ### Infra
 
