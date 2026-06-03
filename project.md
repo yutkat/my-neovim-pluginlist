@@ -107,6 +107,7 @@
 - [jakobwesthoff/taproot.nvim](https://github.com/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/stars/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/last-commit/jakobwesthoff/taproot.nvim) ![](https://img.shields.io/github/commit-activity/y/jakobwesthoff/taproot.nvim)
 - [andrewwillette/project.nvim](https://github.com/andrewwillette/project.nvim) ![](https://img.shields.io/github/stars/andrewwillette/project.nvim) ![](https://img.shields.io/github/last-commit/andrewwillette/project.nvim) ![](https://img.shields.io/github/commit-activity/y/andrewwillette/project.nvim)
 - [Aetherall/rooter.nvim](https://github.com/Aetherall/rooter.nvim) ![](https://img.shields.io/github/stars/Aetherall/rooter.nvim) ![](https://img.shields.io/github/last-commit/Aetherall/rooter.nvim) ![](https://img.shields.io/github/commit-activity/y/Aetherall/rooter.nvim)
+- [cgraf78/nvim-workspace](https://github.com/cgraf78/nvim-workspace) ![](https://img.shields.io/github/stars/cgraf78/nvim-workspace) ![](https://img.shields.io/github/last-commit/cgraf78/nvim-workspace) ![](https://img.shields.io/github/commit-activity/y/cgraf78/nvim-workspace)
 
 ### Project Note
 

@@ -169,6 +169,7 @@
 - [vbrdnk/anchorage.nvim](https://github.com/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/stars/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/last-commit/vbrdnk/anchorage.nvim) ![](https://img.shields.io/github/commit-activity/y/vbrdnk/anchorage.nvim)
 - [hiimjako/anchor.nvim](https://github.com/hiimjako/anchor.nvim) ![](https://img.shields.io/github/stars/hiimjako/anchor.nvim) ![](https://img.shields.io/github/last-commit/hiimjako/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/hiimjako/anchor.nvim)
 - [subsid/anchor.nvim](https://github.com/subsid/anchor.nvim) ![](https://img.shields.io/github/stars/subsid/anchor.nvim) ![](https://img.shields.io/github/last-commit/subsid/anchor.nvim) ![](https://img.shields.io/github/commit-activity/y/subsid/anchor.nvim)
+- [portbound/mstache.nvim](https://github.com/portbound/mstache.nvim) ![](https://img.shields.io/github/stars/portbound/mstache.nvim) ![](https://img.shields.io/github/last-commit/portbound/mstache.nvim) ![](https://img.shields.io/github/commit-activity/y/portbound/mstache.nvim)
 
 ### etc
 

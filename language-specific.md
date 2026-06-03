@@ -109,6 +109,7 @@
     - [ntangle](#ntangle)
     - [Ada](#ada)
       - [Alire](#alire)
+      - [Snippet](#snippet)
     - [Moonscript](#moonscript)
     - [mLua](#mlua)
     - [Haxe](#haxe)
@@ -741,6 +742,10 @@
 ##### Alire
 
 - [TamaMcGlinn/nvim-alire-tools](https://github.com/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/stars/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/last-commit/TamaMcGlinn/nvim-alire-tools) ![](https://img.shields.io/github/commit-activity/y/TamaMcGlinn/nvim-alire-tools)
+
+##### Snippet
+
+- [jorlly-collado-castro/ada-snippets.nvim](https://github.com/jorlly-collado-castro/ada-snippets.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/ada-snippets.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/ada-snippets.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/ada-snippets.nvim)
 
 #### Moonscript
 

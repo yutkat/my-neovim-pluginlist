@@ -23,6 +23,7 @@
     - [tera](#tera)
     - [tauri](#tauri)
     - [Zola](#zola)
+    - [Leptos](#leptos)
 
 <!-- tocstop -->
 
@@ -129,3 +130,7 @@
 #### Zola
 
 - [savente93/zola.nvim](https://github.com/savente93/zola.nvim) ![](https://img.shields.io/github/stars/savente93/zola.nvim) ![](https://img.shields.io/github/last-commit/savente93/zola.nvim) ![](https://img.shields.io/github/commit-activity/y/savente93/zola.nvim)
+
+#### Leptos
+
+- [joegoggin/goggin-rs.nvim](https://github.com/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/stars/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/last-commit/joegoggin/goggin-rs.nvim) ![](https://img.shields.io/github/commit-activity/y/joegoggin/goggin-rs.nvim)
