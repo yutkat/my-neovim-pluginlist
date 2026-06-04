@@ -67,6 +67,7 @@
 - [rmb0034/toggle.nvim](https://github.com/rmb0034/toggle.nvim) ![](https://img.shields.io/github/stars/rmb0034/toggle.nvim) ![](https://img.shields.io/github/last-commit/rmb0034/toggle.nvim) ![](https://img.shields.io/github/commit-activity/y/rmb0034/toggle.nvim)
 - [wsdjeg/tabman.nvim](https://github.com/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/stars/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/last-commit/wsdjeg/tabman.nvim) ![](https://img.shields.io/github/commit-activity/y/wsdjeg/tabman.nvim)
 - [Russoul/window-manip.nvim](https://github.com/Russoul/window-manip.nvim) ![](https://img.shields.io/github/stars/Russoul/window-manip.nvim) ![](https://img.shields.io/github/last-commit/Russoul/window-manip.nvim) ![](https://img.shields.io/github/commit-activity/y/Russoul/window-manip.nvim)
+- [mr-scrpt/current_coder.nvim](https://github.com/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/stars/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/last-commit/mr-scrpt/current_coder.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-scrpt/current_coder.nvim)
 
 #### move
 

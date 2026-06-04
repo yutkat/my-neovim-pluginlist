@@ -104,6 +104,7 @@
 - [ekhar/filename_cc.nvim](https://github.com/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/stars/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/last-commit/ekhar/filename_cc.nvim) ![](https://img.shields.io/github/commit-activity/y/ekhar/filename_cc.nvim)
 - [uhs-robert/comment_filename.nvim](https://github.com/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/stars/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/last-commit/uhs-robert/comment_filename.nvim) ![](https://img.shields.io/github/commit-activity/y/uhs-robert/comment_filename.nvim)
 - [Stefanistkuhl/fancy-header.nvim](https://github.com/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/stars/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/last-commit/Stefanistkuhl/fancy-header.nvim) ![](https://img.shields.io/github/commit-activity/y/Stefanistkuhl/fancy-header.nvim)
+- [mr-scrpt/path_injector.nvim](https://github.com/mr-scrpt/path_injector.nvim) ![](https://img.shields.io/github/stars/mr-scrpt/path_injector.nvim) ![](https://img.shields.io/github/last-commit/mr-scrpt/path_injector.nvim) ![](https://img.shields.io/github/commit-activity/y/mr-scrpt/path_injector.nvim)
 
 ## Todo Comment
 

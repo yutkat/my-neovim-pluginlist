@@ -28,3 +28,4 @@
 
 - [rektide/nvim-auto-listen](https://github.com/rektide/nvim-auto-listen) ![](https://img.shields.io/github/stars/rektide/nvim-auto-listen) ![](https://img.shields.io/github/last-commit/rektide/nvim-auto-listen) ![](https://img.shields.io/github/commit-activity/y/rektide/nvim-auto-listen)
 - [Tanzkalmar35/justsync.nvim](https://github.com/Tanzkalmar35/justsync.nvim) ![](https://img.shields.io/github/stars/Tanzkalmar35/justsync.nvim) ![](https://img.shields.io/github/last-commit/Tanzkalmar35/justsync.nvim) ![](https://img.shields.io/github/commit-activity/y/Tanzkalmar35/justsync.nvim)
+- [wujiangu16/sync.nvim](https://github.com/wujiangu16/sync.nvim) ![](https://img.shields.io/github/stars/wujiangu16/sync.nvim) ![](https://img.shields.io/github/last-commit/wujiangu16/sync.nvim) ![](https://img.shields.io/github/commit-activity/y/wujiangu16/sync.nvim)

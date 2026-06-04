@@ -73,6 +73,7 @@
   - [Quarkdown](#quarkdown)
   - [Quarto](#quarto)
   - [Gist](#gist)
+  - [OpenSpec](#openspec)
   - [typst](#typst)
   - [Textile](#textile)
   - [Jekyll](#jekyll)
@@ -703,6 +704,10 @@
 
 - [Rawnly/gist.nvim](https://github.com/Rawnly/gist.nvim) ![](https://img.shields.io/github/stars/Rawnly/gist.nvim) ![](https://img.shields.io/github/last-commit/Rawnly/gist.nvim) ![](https://img.shields.io/github/commit-activity/y/Rawnly/gist.nvim)
 
+### OpenSpec
+
+- [speclib/openspec.nvim](https://github.com/speclib/openspec.nvim) ![](https://img.shields.io/github/stars/speclib/openspec.nvim) ![](https://img.shields.io/github/last-commit/speclib/openspec.nvim) ![](https://img.shields.io/github/commit-activity/y/speclib/openspec.nvim)
+
 ### typst
 
 - [SeniorMars/typst.nvim](https://github.com/SeniorMars/typst.nvim) ![](https://img.shields.io/github/stars/SeniorMars/typst.nvim) ![](https://img.shields.io/github/last-commit/SeniorMars/typst.nvim) ![](https://img.shields.io/github/commit-activity/y/SeniorMars/typst.nvim)
@@ -720,6 +725,7 @@
 - [Kirizan/typst-bib.nvim](https://github.com/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/stars/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/last-commit/Kirizan/typst-bib.nvim) ![](https://img.shields.io/github/commit-activity/y/Kirizan/typst-bib.nvim)
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
 - [max397574/typst-tools.nvim](https://github.com/max397574/typst-tools.nvim) ![](https://img.shields.io/github/stars/max397574/typst-tools.nvim) ![](https://img.shields.io/github/last-commit/max397574/typst-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/typst-tools.nvim)
+- [gitefdf/typst-outline.nvim](https://github.com/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/stars/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/last-commit/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/gitefdf/typst-outline.nvim)
 
 ### Textile
 

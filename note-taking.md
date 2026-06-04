@@ -75,6 +75,7 @@
 - [productivitykit/org-virtual-clocktime.nvim](https://github.com/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/stars/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/last-commit/productivitykit/org-virtual-clocktime.nvim) ![](https://img.shields.io/github/commit-activity/y/productivitykit/org-virtual-clocktime.nvim)
 - [Sir-NoChill/morg-mode.nvim](https://github.com/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/stars/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/last-commit/Sir-NoChill/morg-mode.nvim) ![](https://img.shields.io/github/commit-activity/y/Sir-NoChill/morg-mode.nvim)
 - [sakakibara/organ.nvim](https://github.com/sakakibara/organ.nvim) ![](https://img.shields.io/github/stars/sakakibara/organ.nvim) ![](https://img.shields.io/github/last-commit/sakakibara/organ.nvim) ![](https://img.shields.io/github/commit-activity/y/sakakibara/organ.nvim)
+- [deekshith991/org.nvim](https://github.com/deekshith991/org.nvim) ![](https://img.shields.io/github/stars/deekshith991/org.nvim) ![](https://img.shields.io/github/last-commit/deekshith991/org.nvim) ![](https://img.shields.io/github/commit-activity/y/deekshith991/org.nvim)
 
 ### Zettelkasten
 

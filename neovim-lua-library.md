@@ -186,6 +186,7 @@
 - [comfysage/yosu.nvim](https://github.com/comfysage/yosu.nvim) ![](https://img.shields.io/github/stars/comfysage/yosu.nvim) ![](https://img.shields.io/github/last-commit/comfysage/yosu.nvim) ![](https://img.shields.io/github/commit-activity/y/comfysage/yosu.nvim)
 - [Rizwanelansyah/windui.nvim](https://github.com/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/stars/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/last-commit/Rizwanelansyah/windui.nvim) ![](https://img.shields.io/github/commit-activity/y/Rizwanelansyah/windui.nvim)
 - [jrop/morph.nvim](https://github.com/jrop/morph.nvim) ![](https://img.shields.io/github/stars/jrop/morph.nvim) ![](https://img.shields.io/github/last-commit/jrop/morph.nvim) ![](https://img.shields.io/github/commit-activity/y/jrop/morph.nvim)
+- [cagatayfidan/yoga.nvim](https://github.com/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/stars/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/last-commit/cagatayfidan/yoga.nvim) ![](https://img.shields.io/github/commit-activity/y/cagatayfidan/yoga.nvim)
 
 ### Window
 
