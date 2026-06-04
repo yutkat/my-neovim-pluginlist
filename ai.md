@@ -257,6 +257,8 @@
 - [McEazy2700/antigravity-cli.nvim](https://github.com/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/antigravity-cli.nvim)
 - [AndreaKinder/agy-togle.nvim](https://github.com/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/stars/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/last-commit/AndreaKinder/agy-togle.nvim) ![](https://img.shields.io/github/commit-activity/y/AndreaKinder/agy-togle.nvim)
 - [denerblack/agy.nvim](https://github.com/denerblack/agy.nvim) ![](https://img.shields.io/github/stars/denerblack/agy.nvim) ![](https://img.shields.io/github/last-commit/denerblack/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/denerblack/agy.nvim)
+- [AtesIsf/syringe.nvim](https://github.com/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/stars/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/last-commit/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/commit-activity/y/AtesIsf/syringe.nvim)
+- [lolbaiteed/antigravity.nvim](https://github.com/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/stars/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/last-commit/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/lolbaiteed/antigravity.nvim)
 
 ### Grok
 
@@ -827,6 +829,7 @@
 - [inhesrom/agents.nvim](https://github.com/inhesrom/agents.nvim) ![](https://img.shields.io/github/stars/inhesrom/agents.nvim) ![](https://img.shields.io/github/last-commit/inhesrom/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/inhesrom/agents.nvim)
 - [topper3418/agents.nvim](https://github.com/topper3418/agents.nvim) ![](https://img.shields.io/github/stars/topper3418/agents.nvim) ![](https://img.shields.io/github/last-commit/topper3418/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/agents.nvim)
 - [seanxwzhang/agentpanel.nvim](https://github.com/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/stars/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/last-commit/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/seanxwzhang/agentpanel.nvim)
+- [plurnk/plurnk.nvim](https://github.com/plurnk/plurnk.nvim) ![](https://img.shields.io/github/stars/plurnk/plurnk.nvim) ![](https://img.shields.io/github/last-commit/plurnk/plurnk.nvim) ![](https://img.shields.io/github/commit-activity/y/plurnk/plurnk.nvim)
 
 ### AGENTS.md
 
@@ -939,6 +942,7 @@
 - [nishu-murmu/cursor-inline](https://github.com/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/stars/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/last-commit/nishu-murmu/cursor-inline) ![](https://img.shields.io/github/commit-activity/y/nishu-murmu/cursor-inline)
 - [h4kbas/cursor.nvim](https://github.com/h4kbas/cursor.nvim) ![](https://img.shields.io/github/stars/h4kbas/cursor.nvim) ![](https://img.shields.io/github/last-commit/h4kbas/cursor.nvim) ![](https://img.shields.io/github/commit-activity/y/h4kbas/cursor.nvim)
 - [BenGu3/cursor-tab.nvim](https://github.com/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/stars/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/last-commit/BenGu3/cursor-tab.nvim) ![](https://img.shields.io/github/commit-activity/y/BenGu3/cursor-tab.nvim)
+- [tjbrockmeyer/wave.nvim](https://github.com/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/stars/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/last-commit/tjbrockmeyer/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/tjbrockmeyer/wave.nvim)
 
 ## Kiro
 
@@ -947,6 +951,7 @@
 - [seagoj/kiro.nvim](https://github.com/seagoj/kiro.nvim) ![](https://img.shields.io/github/stars/seagoj/kiro.nvim) ![](https://img.shields.io/github/last-commit/seagoj/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/seagoj/kiro.nvim)
 - [nix-gencokamin/kiro.nvim](https://github.com/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/stars/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/last-commit/nix-gencokamin/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/nix-gencokamin/kiro.nvim)
 - [Thi0x40go/kiro-cli.nvim](https://github.com/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/stars/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/last-commit/Thi0x40go/kiro-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/Thi0x40go/kiro-cli.nvim)
+- [yanralapdy/kiro.nvim](https://github.com/yanralapdy/kiro.nvim) ![](https://img.shields.io/github/stars/yanralapdy/kiro.nvim) ![](https://img.shields.io/github/last-commit/yanralapdy/kiro.nvim) ![](https://img.shields.io/github/commit-activity/y/yanralapdy/kiro.nvim)
 
 ## CodeCompanion
 

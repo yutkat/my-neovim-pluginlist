@@ -182,6 +182,7 @@
 - [smiggiddy/git-oil.nvim](https://github.com/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/stars/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/last-commit/smiggiddy/git-oil.nvim) ![](https://img.shields.io/github/commit-activity/y/smiggiddy/git-oil.nvim)
 - [nabetama/lean-tig.nvim](https://github.com/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/stars/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/last-commit/nabetama/lean-tig.nvim) ![](https://img.shields.io/github/commit-activity/y/nabetama/lean-tig.nvim)
 - [BMilliet/git_status.nvim](https://github.com/BMilliet/git_status.nvim) ![](https://img.shields.io/github/stars/BMilliet/git_status.nvim) ![](https://img.shields.io/github/last-commit/BMilliet/git_status.nvim) ![](https://img.shields.io/github/commit-activity/y/BMilliet/git_status.nvim)
+- [d3m3t3r/gitgutter.nvim](https://github.com/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/stars/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/last-commit/d3m3t3r/gitgutter.nvim) ![](https://img.shields.io/github/commit-activity/y/d3m3t3r/gitgutter.nvim)
 
 ### git add
 
@@ -393,6 +394,7 @@
 - [alex35mil/delta.nvim](https://github.com/alex35mil/delta.nvim) ![](https://img.shields.io/github/stars/alex35mil/delta.nvim) ![](https://img.shields.io/github/last-commit/alex35mil/delta.nvim) ![](https://img.shields.io/github/commit-activity/y/alex35mil/delta.nvim)
 - [dlyongemallo/diffview.nvim](https://github.com/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/stars/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/last-commit/dlyongemallo/diffview.nvim) ![](https://img.shields.io/github/commit-activity/y/dlyongemallo/diffview.nvim)
 - [elanmed/git-diff.nvim](https://github.com/elanmed/git-diff.nvim) ![](https://img.shields.io/github/stars/elanmed/git-diff.nvim) ![](https://img.shields.io/github/last-commit/elanmed/git-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/elanmed/git-diff.nvim)
+- [leo0o7/diffselect.nvim](https://github.com/leo0o7/diffselect.nvim) ![](https://img.shields.io/github/stars/leo0o7/diffselect.nvim) ![](https://img.shields.io/github/last-commit/leo0o7/diffselect.nvim) ![](https://img.shields.io/github/commit-activity/y/leo0o7/diffselect.nvim)
 - [goropikari/gitdiff.nvim](https://github.com/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/stars/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/goropikari/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/gitdiff.nvim)
 - [llawn/buffer-change.nvim](https://github.com/llawn/buffer-change.nvim) ![](https://img.shields.io/github/stars/llawn/buffer-change.nvim) ![](https://img.shields.io/github/last-commit/llawn/buffer-change.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/buffer-change.nvim)
 - [softglitch/nvim-line-diff](https://github.com/softglitch/nvim-line-diff) ![](https://img.shields.io/github/stars/softglitch/nvim-line-diff) ![](https://img.shields.io/github/last-commit/softglitch/nvim-line-diff) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-line-diff)

@@ -97,6 +97,7 @@
 - [goropikari/drill.nvim](https://github.com/goropikari/drill.nvim) ![](https://img.shields.io/github/stars/goropikari/drill.nvim) ![](https://img.shields.io/github/last-commit/goropikari/drill.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/drill.nvim)
 - [Chamartin3/usethefmotions.nvim](https://github.com/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/stars/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/last-commit/Chamartin3/usethefmotions.nvim) ![](https://img.shields.io/github/commit-activity/y/Chamartin3/usethefmotions.nvim)
 - [IkuinenPadawan/vimprover.nvim](https://github.com/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/stars/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/last-commit/IkuinenPadawan/vimprover.nvim) ![](https://img.shields.io/github/commit-activity/y/IkuinenPadawan/vimprover.nvim)
+- [bash-win/learn.nvim](https://github.com/bash-win/learn.nvim) ![](https://img.shields.io/github/stars/bash-win/learn.nvim) ![](https://img.shields.io/github/last-commit/bash-win/learn.nvim) ![](https://img.shields.io/github/commit-activity/y/bash-win/learn.nvim)
 
 ### Turing path
 

@@ -75,6 +75,8 @@
     - [Paradox Script](#paradox-script)
     - [Valen](#valen)
     - [Jac](#jac)
+    - [M1](#m1)
+    - [Uiua](#uiua)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -606,6 +608,15 @@
 #### Jac
 
 - [chess10kp/jac.nvim](https://github.com/chess10kp/jac.nvim) ![](https://img.shields.io/github/stars/chess10kp/jac.nvim) ![](https://img.shields.io/github/last-commit/chess10kp/jac.nvim) ![](https://img.shields.io/github/commit-activity/y/chess10kp/jac.nvim)
+
+#### M1
+
+- [C-Nucifora/nvim-m1](https://github.com/C-Nucifora/nvim-m1) ![](https://img.shields.io/github/stars/C-Nucifora/nvim-m1) ![](https://img.shields.io/github/last-commit/C-Nucifora/nvim-m1) ![](https://img.shields.io/github/commit-activity/y/C-Nucifora/nvim-m1)
+- [C-Nucifora/telescope-m1.nvim](https://github.com/C-Nucifora/telescope-m1.nvim) ![](https://img.shields.io/github/stars/C-Nucifora/telescope-m1.nvim) ![](https://img.shields.io/github/last-commit/C-Nucifora/telescope-m1.nvim) ![](https://img.shields.io/github/commit-activity/y/C-Nucifora/telescope-m1.nvim)
+
+#### Uiua
+
+- [TomMurray/uiua.nvim](https://github.com/TomMurray/uiua.nvim) ![](https://img.shields.io/github/stars/TomMurray/uiua.nvim) ![](https://img.shields.io/github/last-commit/TomMurray/uiua.nvim) ![](https://img.shields.io/github/commit-activity/y/TomMurray/uiua.nvim)
 
 ### WSL
 

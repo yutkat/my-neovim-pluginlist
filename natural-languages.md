@@ -32,6 +32,7 @@
 - [LauritsLL/hanzi-gate.nvim](https://github.com/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/stars/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/last-commit/LauritsLL/hanzi-gate.nvim) ![](https://img.shields.io/github/commit-activity/y/LauritsLL/hanzi-gate.nvim)
 - [LauritsLL/hanzi-overlay.nvim](https://github.com/LauritsLL/hanzi-overlay.nvim) ![](https://img.shields.io/github/stars/LauritsLL/hanzi-overlay.nvim) ![](https://img.shields.io/github/last-commit/LauritsLL/hanzi-overlay.nvim) ![](https://img.shields.io/github/commit-activity/y/LauritsLL/hanzi-overlay.nvim)
 - [stevenctl/bookchoy.nvim](https://github.com/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/stars/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/last-commit/stevenctl/bookchoy.nvim) ![](https://img.shields.io/github/commit-activity/y/stevenctl/bookchoy.nvim)
+- [Verf/shapeim.nvim](https://github.com/Verf/shapeim.nvim) ![](https://img.shields.io/github/stars/Verf/shapeim.nvim) ![](https://img.shields.io/github/last-commit/Verf/shapeim.nvim) ![](https://img.shields.io/github/commit-activity/y/Verf/shapeim.nvim)
 
 ### French
 

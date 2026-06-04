@@ -514,6 +514,7 @@
 ### Quarkdown
 ### Quarto
 ### Gist
+### OpenSpec
 ### typst
 ### Textile
 ### Jekyll
@@ -1092,6 +1093,8 @@
 #### Paradox Script
 #### Valen
 #### Jac
+#### M1
+#### Uiua
 ### WSL
 #### CQL
 ##### Quadrate
