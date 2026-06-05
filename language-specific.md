@@ -1157,7 +1157,6 @@
 
 ### Codeforces
 
-- [paulrounak/cfhelper.nvim](https://github.com/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/stars/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/last-commit/paulrounak/cfhelper.nvim) ![](https://img.shields.io/github/commit-activity/y/paulrounak/cfhelper.nvim)
 
 ### Codewars
 
