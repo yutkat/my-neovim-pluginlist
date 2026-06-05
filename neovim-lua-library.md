@@ -227,6 +227,7 @@
 - [ivomac/toothpick.nvim](https://github.com/ivomac/toothpick.nvim) ![](https://img.shields.io/github/stars/ivomac/toothpick.nvim) ![](https://img.shields.io/github/last-commit/ivomac/toothpick.nvim) ![](https://img.shields.io/github/commit-activity/y/ivomac/toothpick.nvim)
 - [skewb1k/nvim-simple-select](https://github.com/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/stars/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/last-commit/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/commit-activity/y/skewb1k/nvim-simple-select)
 - [cpea2506/select.nvim](https://github.com/cpea2506/select.nvim) ![](https://img.shields.io/github/stars/cpea2506/select.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/select.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/select.nvim)
+- [ompugao/ctrlp-select.nvim](https://github.com/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/stars/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/last-commit/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/commit-activity/y/ompugao/ctrlp-select.nvim)
 
 ### Popup
 

@@ -12,6 +12,7 @@
     - [Signal](#signal)
     - [IRC](#irc)
     - [iMessage](#imessage)
+    - [OneBot](#onebot)
   - [SNS](#sns)
     - [Mastodon](#mastodon)
     - [Nostr](#nostr)
@@ -137,6 +138,10 @@
 - [Euro20179/irc.nvim](https://github.com/Euro20179/irc.nvim) ![](https://img.shields.io/github/stars/Euro20179/irc.nvim) ![](https://img.shields.io/github/last-commit/Euro20179/irc.nvim) ![](https://img.shields.io/github/commit-activity/y/Euro20179/irc.nvim)
 
 #### iMessage
+
+#### OneBot
+
+- [phanen/napcat.nvim](https://github.com/phanen/napcat.nvim) ![](https://img.shields.io/github/stars/phanen/napcat.nvim) ![](https://img.shields.io/github/last-commit/phanen/napcat.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/napcat.nvim)
 
 ### SNS
 

@@ -182,6 +182,7 @@
 - [themitchells/nvim-buffergator](https://github.com/themitchells/nvim-buffergator) ![](https://img.shields.io/github/stars/themitchells/nvim-buffergator) ![](https://img.shields.io/github/last-commit/themitchells/nvim-buffergator) ![](https://img.shields.io/github/commit-activity/y/themitchells/nvim-buffergator)
 - [Philanatidae/wintabs.nvim](https://github.com/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/stars/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/last-commit/Philanatidae/wintabs.nvim) ![](https://img.shields.io/github/commit-activity/y/Philanatidae/wintabs.nvim)
 - [merrebach/window-groups.nvim](https://github.com/merrebach/window-groups.nvim) ![](https://img.shields.io/github/stars/merrebach/window-groups.nvim) ![](https://img.shields.io/github/last-commit/merrebach/window-groups.nvim) ![](https://img.shields.io/github/commit-activity/y/merrebach/window-groups.nvim)
+- [aurora0x27/bpm.nvim](https://github.com/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/stars/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/last-commit/aurora0x27/bpm.nvim) ![](https://img.shields.io/github/commit-activity/y/aurora0x27/bpm.nvim)
 
 #### create
 
@@ -304,6 +305,7 @@
 - [awalland/nvim-file-watch](https://github.com/awalland/nvim-file-watch) ![](https://img.shields.io/github/stars/awalland/nvim-file-watch) ![](https://img.shields.io/github/last-commit/awalland/nvim-file-watch) ![](https://img.shields.io/github/commit-activity/y/awalland/nvim-file-watch)
 - [diegok/live-autoread.nvim](https://github.com/diegok/live-autoread.nvim) ![](https://img.shields.io/github/stars/diegok/live-autoread.nvim) ![](https://img.shields.io/github/last-commit/diegok/live-autoread.nvim) ![](https://img.shields.io/github/commit-activity/y/diegok/live-autoread.nvim)
 - [ccntrq/autoreload.nvim](https://github.com/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/stars/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/last-commit/ccntrq/autoreload.nvim) ![](https://img.shields.io/github/commit-activity/y/ccntrq/autoreload.nvim)
+- [jgYro/watcher.nvim](https://github.com/jgYro/watcher.nvim) ![](https://img.shields.io/github/stars/jgYro/watcher.nvim) ![](https://img.shields.io/github/last-commit/jgYro/watcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/watcher.nvim)
 
 #### access control
 

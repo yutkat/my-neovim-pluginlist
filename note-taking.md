@@ -167,6 +167,7 @@
 - [ice345/markdown-table-wrap.nvim](https://github.com/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/stars/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/last-commit/ice345/markdown-table-wrap.nvim) ![](https://img.shields.io/github/commit-activity/y/ice345/markdown-table-wrap.nvim)
 - [saadndm/mathlive.nvim](https://github.com/saadndm/mathlive.nvim) ![](https://img.shields.io/github/stars/saadndm/mathlive.nvim) ![](https://img.shields.io/github/last-commit/saadndm/mathlive.nvim) ![](https://img.shields.io/github/commit-activity/y/saadndm/mathlive.nvim)
 - [donovanhubbard/markdown-links.nvim](https://github.com/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/stars/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/last-commit/donovanhubbard/markdown-links.nvim) ![](https://img.shields.io/github/commit-activity/y/donovanhubbard/markdown-links.nvim)
+- [alanfzf/trackdown.nvim](https://github.com/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/stars/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/last-commit/alanfzf/trackdown.nvim) ![](https://img.shields.io/github/commit-activity/y/alanfzf/trackdown.nvim)
 
 ### Journal
 
@@ -451,6 +452,8 @@
 
 ### Blog
 
+- [voidfemme/blog-manager.nvim](https://github.com/voidfemme/blog-manager.nvim) ![](https://img.shields.io/github/stars/voidfemme/blog-manager.nvim) ![](https://img.shields.io/github/last-commit/voidfemme/blog-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/voidfemme/blog-manager.nvim)
+
 #### Hugo
 
 - [goropikari/telescope-hugo.nvim](https://github.com/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/stars/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/last-commit/goropikari/telescope-hugo.nvim) ![](https://img.shields.io/github/commit-activity/y/goropikari/telescope-hugo.nvim)
@@ -497,6 +500,7 @@
 - [bab014/sm.nvim](https://github.com/bab014/sm.nvim) ![](https://img.shields.io/github/stars/bab014/sm.nvim) ![](https://img.shields.io/github/last-commit/bab014/sm.nvim) ![](https://img.shields.io/github/commit-activity/y/bab014/sm.nvim)
 - [imdevan/task-manager.nvim](https://github.com/imdevan/task-manager.nvim) ![](https://img.shields.io/github/stars/imdevan/task-manager.nvim) ![](https://img.shields.io/github/last-commit/imdevan/task-manager.nvim) ![](https://img.shields.io/github/commit-activity/y/imdevan/task-manager.nvim)
 - [ericmckevitt/nvim-task-manager](https://github.com/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/stars/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/last-commit/ericmckevitt/nvim-task-manager) ![](https://img.shields.io/github/commit-activity/y/ericmckevitt/nvim-task-manager)
+- [Souvlaki42/tasks.nvim](https://github.com/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/stars/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/last-commit/Souvlaki42/tasks.nvim) ![](https://img.shields.io/github/commit-activity/y/Souvlaki42/tasks.nvim)
 
 ### Wiki
 

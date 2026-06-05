@@ -193,6 +193,7 @@
 - [tzhouhc/interspaced.nvim](https://github.com/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/stars/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/last-commit/tzhouhc/interspaced.nvim) ![](https://img.shields.io/github/commit-activity/y/tzhouhc/interspaced.nvim)
 - [ZreXoc/smart-paste.nvim](https://github.com/ZreXoc/smart-paste.nvim) ![](https://img.shields.io/github/stars/ZreXoc/smart-paste.nvim) ![](https://img.shields.io/github/last-commit/ZreXoc/smart-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/ZreXoc/smart-paste.nvim)
 - [nemanjamalesija/smart-paste.nvim](https://github.com/nemanjamalesija/smart-paste.nvim) ![](https://img.shields.io/github/stars/nemanjamalesija/smart-paste.nvim) ![](https://img.shields.io/github/last-commit/nemanjamalesija/smart-paste.nvim) ![](https://img.shields.io/github/commit-activity/y/nemanjamalesija/smart-paste.nvim)
+- [tenmo2003/stringscape.nvim](https://github.com/tenmo2003/stringscape.nvim) ![](https://img.shields.io/github/stars/tenmo2003/stringscape.nvim) ![](https://img.shields.io/github/last-commit/tenmo2003/stringscape.nvim) ![](https://img.shields.io/github/commit-activity/y/tenmo2003/stringscape.nvim)
 
 ### Cyclic paste
 

@@ -141,6 +141,7 @@
 - [Punity122333/snipe.nvim](https://github.com/Punity122333/snipe.nvim) ![](https://img.shields.io/github/stars/Punity122333/snipe.nvim) ![](https://img.shields.io/github/last-commit/Punity122333/snipe.nvim) ![](https://img.shields.io/github/commit-activity/y/Punity122333/snipe.nvim)
 - [sbradl/matching-file.nvim](https://github.com/sbradl/matching-file.nvim) ![](https://img.shields.io/github/stars/sbradl/matching-file.nvim) ![](https://img.shields.io/github/last-commit/sbradl/matching-file.nvim) ![](https://img.shields.io/github/commit-activity/y/sbradl/matching-file.nvim)
 - [zitrocode/spot.nvim](https://github.com/zitrocode/spot.nvim) ![](https://img.shields.io/github/stars/zitrocode/spot.nvim) ![](https://img.shields.io/github/last-commit/zitrocode/spot.nvim) ![](https://img.shields.io/github/commit-activity/y/zitrocode/spot.nvim)
+- [err0r500/scoped.nvim](https://github.com/err0r500/scoped.nvim) ![](https://img.shields.io/github/stars/err0r500/scoped.nvim) ![](https://img.shields.io/github/last-commit/err0r500/scoped.nvim) ![](https://img.shields.io/github/commit-activity/y/err0r500/scoped.nvim)
 
 ## Replace
 

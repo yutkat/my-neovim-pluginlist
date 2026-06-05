@@ -10,6 +10,7 @@
   - [TOML](#toml)
   - [Pkl](#pkl)
   - [XML](#xml)
+  - [BIND](#bind)
   - [dotbox](#dotbox)
   - [Jayvee](#jayvee)
   - [CSV](#csv)
@@ -102,6 +103,10 @@
 - [try-to-fly/xml-preview.nvim](https://github.com/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/stars/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/last-commit/try-to-fly/xml-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/try-to-fly/xml-preview.nvim)
 - [benomahony/jing.nvim](https://github.com/benomahony/jing.nvim) ![](https://img.shields.io/github/stars/benomahony/jing.nvim) ![](https://img.shields.io/github/last-commit/benomahony/jing.nvim) ![](https://img.shields.io/github/commit-activity/y/benomahony/jing.nvim)
 - [tearandfix/arxml.nvim](https://github.com/tearandfix/arxml.nvim) ![](https://img.shields.io/github/stars/tearandfix/arxml.nvim) ![](https://img.shields.io/github/last-commit/tearandfix/arxml.nvim) ![](https://img.shields.io/github/commit-activity/y/tearandfix/arxml.nvim)
+
+### BIND
+
+- [ltfiend/nvim-named-conf](https://github.com/ltfiend/nvim-named-conf) ![](https://img.shields.io/github/stars/ltfiend/nvim-named-conf) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-named-conf) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-named-conf)
 
 ### dotbox
 

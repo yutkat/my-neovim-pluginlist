@@ -171,6 +171,7 @@
 - [skanehira/docker.nvim](https://github.com/skanehira/docker.nvim) ![](https://img.shields.io/github/stars/skanehira/docker.nvim) ![](https://img.shields.io/github/last-commit/skanehira/docker.nvim) ![](https://img.shields.io/github/commit-activity/y/skanehira/docker.nvim)
 - [igmrrf/lazydocker.nvim](https://github.com/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/stars/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/last-commit/igmrrf/lazydocker.nvim) ![](https://img.shields.io/github/commit-activity/y/igmrrf/lazydocker.nvim)
 - [HyperAfnan/docker-containers.nvim](https://github.com/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/stars/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/last-commit/HyperAfnan/docker-containers.nvim) ![](https://img.shields.io/github/commit-activity/y/HyperAfnan/docker-containers.nvim)
+- [ltfiend/nvim-dockerz](https://github.com/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/stars/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/last-commit/ltfiend/nvim-dockerz) ![](https://img.shields.io/github/commit-activity/y/ltfiend/nvim-dockerz)
 
 ###### Docker Compose
 
@@ -214,6 +215,7 @@
 - [actionshrimp/direnv.nvim](https://github.com/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/stars/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/last-commit/actionshrimp/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/actionshrimp/direnv.nvim)
 - [diniamo/direnv.nvim](https://github.com/diniamo/direnv.nvim) ![](https://img.shields.io/github/stars/diniamo/direnv.nvim) ![](https://img.shields.io/github/last-commit/diniamo/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/diniamo/direnv.nvim)
 - [NotAShelf/direnv.nvim](https://github.com/NotAShelf/direnv.nvim) ![](https://img.shields.io/github/stars/NotAShelf/direnv.nvim) ![](https://img.shields.io/github/last-commit/NotAShelf/direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/NotAShelf/direnv.nvim)
+- [JHolba/poly-direnv.nvim](https://github.com/JHolba/poly-direnv.nvim) ![](https://img.shields.io/github/stars/JHolba/poly-direnv.nvim) ![](https://img.shields.io/github/last-commit/JHolba/poly-direnv.nvim) ![](https://img.shields.io/github/commit-activity/y/JHolba/poly-direnv.nvim)
 
 #### asdf
 
