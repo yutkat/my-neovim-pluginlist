@@ -353,6 +353,7 @@
 ### TOML
 ### Pkl
 ### XML
+### BIND
 ### dotbox
 ### Jayvee
 ### CSV
@@ -1003,6 +1004,7 @@
 ## Template Engine
 ### Jinja
 ### Edge.js
+### EJS
 
 # jump.md
 ## Jump
@@ -2031,6 +2033,7 @@
 ### Simple
 ### Special Features
 ### Statusline component
+## Statuscolumn
 
 # syntax_highlight.md
 ## Highlight
@@ -2200,6 +2203,7 @@
 #### Signal
 #### IRC
 #### iMessage
+#### OneBot
 ### SNS
 #### Mastodon
 #### Nostr

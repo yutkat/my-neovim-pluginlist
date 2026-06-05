@@ -830,6 +830,7 @@
 - [topper3418/agents.nvim](https://github.com/topper3418/agents.nvim) ![](https://img.shields.io/github/stars/topper3418/agents.nvim) ![](https://img.shields.io/github/last-commit/topper3418/agents.nvim) ![](https://img.shields.io/github/commit-activity/y/topper3418/agents.nvim)
 - [seanxwzhang/agentpanel.nvim](https://github.com/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/stars/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/last-commit/seanxwzhang/agentpanel.nvim) ![](https://img.shields.io/github/commit-activity/y/seanxwzhang/agentpanel.nvim)
 - [plurnk/plurnk.nvim](https://github.com/plurnk/plurnk.nvim) ![](https://img.shields.io/github/stars/plurnk/plurnk.nvim) ![](https://img.shields.io/github/last-commit/plurnk/plurnk.nvim) ![](https://img.shields.io/github/commit-activity/y/plurnk/plurnk.nvim)
+- [aldevv/ask-agent.nvim](https://github.com/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/stars/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/last-commit/aldevv/ask-agent.nvim) ![](https://img.shields.io/github/commit-activity/y/aldevv/ask-agent.nvim)
 
 ### AGENTS.md
 
@@ -1107,6 +1108,7 @@
 - [harsh-m-patil/handoff.nvim](https://github.com/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/stars/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/last-commit/harsh-m-patil/handoff.nvim) ![](https://img.shields.io/github/commit-activity/y/harsh-m-patil/handoff.nvim)
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) ![](https://img.shields.io/github/stars/not-manu/filemention.nvim) ![](https://img.shields.io/github/last-commit/not-manu/filemention.nvim) ![](https://img.shields.io/github/commit-activity/y/not-manu/filemention.nvim)
 - [danielronalds/reference.nvim](https://github.com/danielronalds/reference.nvim) ![](https://img.shields.io/github/stars/danielronalds/reference.nvim) ![](https://img.shields.io/github/last-commit/danielronalds/reference.nvim) ![](https://img.shields.io/github/commit-activity/y/danielronalds/reference.nvim)
+- [bajankristof/fileref.nvim](https://github.com/bajankristof/fileref.nvim) ![](https://img.shields.io/github/stars/bajankristof/fileref.nvim) ![](https://img.shields.io/github/last-commit/bajankristof/fileref.nvim) ![](https://img.shields.io/github/commit-activity/y/bajankristof/fileref.nvim)
 
 ## LLM context
 
@@ -1139,6 +1141,7 @@
 - [andrew-d-moore/stationeers-mcp.nvim](https://github.com/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/stars/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/last-commit/andrew-d-moore/stationeers-mcp.nvim) ![](https://img.shields.io/github/commit-activity/y/andrew-d-moore/stationeers-mcp.nvim)
 - [paulburgess1357/nvim-mcp](https://github.com/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/stars/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/last-commit/paulburgess1357/nvim-mcp) ![](https://img.shields.io/github/commit-activity/y/paulburgess1357/nvim-mcp)
 - [pappasam/nvim-context-mcp](https://github.com/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/stars/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/last-commit/pappasam/nvim-context-mcp) ![](https://img.shields.io/github/commit-activity/y/pappasam/nvim-context-mcp)
+- [ediestel/ffrw.nvim](https://github.com/ediestel/ffrw.nvim) ![](https://img.shields.io/github/stars/ediestel/ffrw.nvim) ![](https://img.shields.io/github/last-commit/ediestel/ffrw.nvim) ![](https://img.shields.io/github/commit-activity/y/ediestel/ffrw.nvim)
 
 ### MCP SDK
 

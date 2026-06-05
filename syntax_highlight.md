@@ -206,6 +206,7 @@
 - [samesense/savitsky.nvim](https://github.com/samesense/savitsky.nvim) ![](https://img.shields.io/github/stars/samesense/savitsky.nvim) ![](https://img.shields.io/github/last-commit/samesense/savitsky.nvim) ![](https://img.shields.io/github/commit-activity/y/samesense/savitsky.nvim)
 - [nickshiro/better-colorscheme.nvim](https://github.com/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/stars/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/last-commit/nickshiro/better-colorscheme.nvim) ![](https://img.shields.io/github/commit-activity/y/nickshiro/better-colorscheme.nvim)
 - [JohnnyJumper/theme-peeper.nvim](https://github.com/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/stars/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/last-commit/JohnnyJumper/theme-peeper.nvim) ![](https://img.shields.io/github/commit-activity/y/JohnnyJumper/theme-peeper.nvim)
+- [kevincfisher/nvim-themepicker](https://github.com/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/stars/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/last-commit/kevincfisher/nvim-themepicker) ![](https://img.shields.io/github/commit-activity/y/kevincfisher/nvim-themepicker)
 
 ### Colorscheme overwrite
 
