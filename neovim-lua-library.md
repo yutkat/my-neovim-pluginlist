@@ -142,7 +142,6 @@
 
 ## List
 
-
 ## Type
 
 - [ElanMedoff/schema-validator.nvim](https://github.com/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/stars/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/last-commit/ElanMedoff/schema-validator.nvim) ![](https://img.shields.io/github/commit-activity/y/ElanMedoff/schema-validator.nvim)
@@ -193,6 +192,7 @@
 - [mikew/nvim-drawer](https://github.com/mikew/nvim-drawer) ![](https://img.shields.io/github/stars/mikew/nvim-drawer) ![](https://img.shields.io/github/last-commit/mikew/nvim-drawer) ![](https://img.shields.io/github/commit-activity/y/mikew/nvim-drawer)
 - [leonardo-luz/floatwindow.nvim](https://github.com/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/stars/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/last-commit/leonardo-luz/floatwindow.nvim) ![](https://img.shields.io/github/commit-activity/y/leonardo-luz/floatwindow.nvim)
 - [yesitsfebreeze/space.nvim](https://github.com/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/stars/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/last-commit/yesitsfebreeze/space.nvim) ![](https://img.shields.io/github/commit-activity/y/yesitsfebreeze/space.nvim)
+
 ### HTML
 
 - [CWood-sdf/banana.nvim](https://github.com/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/stars/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/last-commit/CWood-sdf/banana.nvim) ![](https://img.shields.io/github/commit-activity/y/CWood-sdf/banana.nvim)
@@ -228,6 +228,7 @@
 - [skewb1k/nvim-simple-select](https://github.com/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/stars/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/last-commit/skewb1k/nvim-simple-select) ![](https://img.shields.io/github/commit-activity/y/skewb1k/nvim-simple-select)
 - [cpea2506/select.nvim](https://github.com/cpea2506/select.nvim) ![](https://img.shields.io/github/stars/cpea2506/select.nvim) ![](https://img.shields.io/github/last-commit/cpea2506/select.nvim) ![](https://img.shields.io/github/commit-activity/y/cpea2506/select.nvim)
 - [ompugao/ctrlp-select.nvim](https://github.com/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/stars/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/last-commit/ompugao/ctrlp-select.nvim) ![](https://img.shields.io/github/commit-activity/y/ompugao/ctrlp-select.nvim)
+- [nvim-mini/mini.input](https://github.com/nvim-mini/mini.input) ![](https://img.shields.io/github/stars/nvim-mini/mini.input) ![](https://img.shields.io/github/last-commit/nvim-mini/mini.input) ![](https://img.shields.io/github/commit-activity/y/nvim-mini/mini.input)
 
 ### Popup
 
