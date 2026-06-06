@@ -398,6 +398,7 @@
 - [llawn/buffer-change.nvim](https://github.com/llawn/buffer-change.nvim) ![](https://img.shields.io/github/stars/llawn/buffer-change.nvim) ![](https://img.shields.io/github/last-commit/llawn/buffer-change.nvim) ![](https://img.shields.io/github/commit-activity/y/llawn/buffer-change.nvim)
 - [softglitch/nvim-line-diff](https://github.com/softglitch/nvim-line-diff) ![](https://img.shields.io/github/stars/softglitch/nvim-line-diff) ![](https://img.shields.io/github/last-commit/softglitch/nvim-line-diff) ![](https://img.shields.io/github/commit-activity/y/softglitch/nvim-line-diff)
 - [Symphon-y/gitdiff.nvim](https://github.com/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/stars/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/last-commit/Symphon-y/gitdiff.nvim) ![](https://img.shields.io/github/commit-activity/y/Symphon-y/gitdiff.nvim)
+- [381e35/diff-first.nvim](https://github.com/381e35/diff-first.nvim) ![](https://img.shields.io/github/stars/381e35/diff-first.nvim) ![](https://img.shields.io/github/last-commit/381e35/diff-first.nvim) ![](https://img.shields.io/github/commit-activity/y/381e35/diff-first.nvim)
 
 #### image diff
 
@@ -716,6 +717,7 @@
 - [shankur/snowdash.nvim](https://github.com/shankur/snowdash.nvim) ![](https://img.shields.io/github/stars/shankur/snowdash.nvim) ![](https://img.shields.io/github/last-commit/shankur/snowdash.nvim) ![](https://img.shields.io/github/commit-activity/y/shankur/snowdash.nvim)
 - [yakschuss/pr-review.nvim](https://github.com/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/stars/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/last-commit/yakschuss/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/yakschuss/pr-review.nvim)
 - [adrianmross/pr-review.nvim](https://github.com/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/stars/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/last-commit/adrianmross/pr-review.nvim) ![](https://img.shields.io/github/commit-activity/y/adrianmross/pr-review.nvim)
+- [ian-yeh/doorbell.nvim](https://github.com/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/stars/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/last-commit/ian-yeh/doorbell.nvim) ![](https://img.shields.io/github/commit-activity/y/ian-yeh/doorbell.nvim)
 
 #### Pull Request Comment
 
