@@ -100,6 +100,7 @@
 - [axelvc/template-string.nvim](https://github.com/axelvc/template-string.nvim) ![](https://img.shields.io/github/stars/axelvc/template-string.nvim) ![](https://img.shields.io/github/last-commit/axelvc/template-string.nvim) ![](https://img.shields.io/github/commit-activity/y/axelvc/template-string.nvim)
 - [byfarm/nvim-autoswap](https://github.com/byfarm/nvim-autoswap) ![](https://img.shields.io/github/stars/byfarm/nvim-autoswap) ![](https://img.shields.io/github/last-commit/byfarm/nvim-autoswap) ![](https://img.shields.io/github/commit-activity/y/byfarm/nvim-autoswap)
 - [jos3lo89/autotemplate.nvim](https://github.com/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/stars/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/last-commit/jos3lo89/autotemplate.nvim) ![](https://img.shields.io/github/commit-activity/y/jos3lo89/autotemplate.nvim)
+- [Delici0u-s/typing-transformer.nvim](https://github.com/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/stars/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/last-commit/Delici0u-s/typing-transformer.nvim) ![](https://img.shields.io/github/commit-activity/y/Delici0u-s/typing-transformer.nvim)
 
 ## Path
 

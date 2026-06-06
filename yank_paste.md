@@ -126,6 +126,7 @@
 - [DoussangSebastien/clipThat.nvim](https://github.com/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/stars/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/last-commit/DoussangSebastien/clipThat.nvim) ![](https://img.shields.io/github/commit-activity/y/DoussangSebastien/clipThat.nvim)
 - [johnpmitsch/bolso.nvim](https://github.com/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/stars/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/last-commit/johnpmitsch/bolso.nvim) ![](https://img.shields.io/github/commit-activity/y/johnpmitsch/bolso.nvim)
 - [Leonie-Theobald/regput](https://github.com/Leonie-Theobald/regput) ![](https://img.shields.io/github/stars/Leonie-Theobald/regput) ![](https://img.shields.io/github/last-commit/Leonie-Theobald/regput) ![](https://img.shields.io/github/commit-activity/y/Leonie-Theobald/regput)
+- [alexesba/clipring.nvim](https://github.com/alexesba/clipring.nvim) ![](https://img.shields.io/github/stars/alexesba/clipring.nvim) ![](https://img.shields.io/github/last-commit/alexesba/clipring.nvim) ![](https://img.shields.io/github/commit-activity/y/alexesba/clipring.nvim)
 
 ### Edit Register
 

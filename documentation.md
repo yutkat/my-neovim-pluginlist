@@ -517,6 +517,7 @@
 - [RokPre/mermaid.nvim](https://github.com/RokPre/mermaid.nvim) ![](https://img.shields.io/github/stars/RokPre/mermaid.nvim) ![](https://img.shields.io/github/last-commit/RokPre/mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/RokPre/mermaid.nvim)
 - [toboriak/ascii-mermaid.nvim](https://github.com/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/stars/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/last-commit/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/toboriak/ascii-mermaid.nvim)
 - [cavanaug/render-markdown-mermaid.nvim](https://github.com/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/render-markdown-mermaid.nvim)
+- [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/stars/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/last-commit/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Esequiel378/mermaid-hover.nvim)
 
 ### pikchr
 

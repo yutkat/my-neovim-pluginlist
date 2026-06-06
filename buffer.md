@@ -105,6 +105,7 @@
 - [ankushbhagats/buffswitch.nvim](https://github.com/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/stars/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/last-commit/ankushbhagats/buffswitch.nvim) ![](https://img.shields.io/github/commit-activity/y/ankushbhagats/buffswitch.nvim)
 - [themandes77/ibuff.nvim](https://github.com/themandes77/ibuff.nvim) ![](https://img.shields.io/github/stars/themandes77/ibuff.nvim) ![](https://img.shields.io/github/last-commit/themandes77/ibuff.nvim) ![](https://img.shields.io/github/commit-activity/y/themandes77/ibuff.nvim)
 - [tomkhoailang/buffer-switch-release](https://github.com/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/stars/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/last-commit/tomkhoailang/buffer-switch-release) ![](https://img.shields.io/github/commit-activity/y/tomkhoailang/buffer-switch-release)
+- [ogawadeniro/nvim-bufctl](https://github.com/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/stars/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/last-commit/ogawadeniro/nvim-bufctl) ![](https://img.shields.io/github/commit-activity/y/ogawadeniro/nvim-bufctl)
 
 ### Other Buffer Switcher
 
@@ -367,6 +368,7 @@
 - [PremBharwani/scratchpad](https://github.com/PremBharwani/scratchpad) ![](https://img.shields.io/github/stars/PremBharwani/scratchpad) ![](https://img.shields.io/github/last-commit/PremBharwani/scratchpad) ![](https://img.shields.io/github/commit-activity/y/PremBharwani/scratchpad)
 - [Ratludu/purgatory.nvim](https://github.com/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/stars/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/last-commit/Ratludu/purgatory.nvim) ![](https://img.shields.io/github/commit-activity/y/Ratludu/purgatory.nvim)
 - [throskam/scratchpad.nvim](https://github.com/throskam/scratchpad.nvim) ![](https://img.shields.io/github/stars/throskam/scratchpad.nvim) ![](https://img.shields.io/github/last-commit/throskam/scratchpad.nvim) ![](https://img.shields.io/github/commit-activity/y/throskam/scratchpad.nvim)
+- [grohith327/nvim-scratchpad](https://github.com/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/stars/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/last-commit/grohith327/nvim-scratchpad) ![](https://img.shields.io/github/commit-activity/y/grohith327/nvim-scratchpad)
 
 ### buffer Sharing
 

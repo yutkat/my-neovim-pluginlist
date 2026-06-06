@@ -79,6 +79,7 @@
 - [numen-0/glide.nvim](https://github.com/numen-0/glide.nvim) ![](https://img.shields.io/github/stars/numen-0/glide.nvim) ![](https://img.shields.io/github/last-commit/numen-0/glide.nvim) ![](https://img.shields.io/github/commit-activity/y/numen-0/glide.nvim)
 - [ochcaroline/slidey.nvim](https://github.com/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/stars/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/last-commit/ochcaroline/slidey.nvim) ![](https://img.shields.io/github/commit-activity/y/ochcaroline/slidey.nvim)
 - [joakimmj/memoria.nvim](https://github.com/joakimmj/memoria.nvim) ![](https://img.shields.io/github/stars/joakimmj/memoria.nvim) ![](https://img.shields.io/github/last-commit/joakimmj/memoria.nvim) ![](https://img.shields.io/github/commit-activity/y/joakimmj/memoria.nvim)
+- [waldo2810/slides.nvim](https://github.com/waldo2810/slides.nvim) ![](https://img.shields.io/github/stars/waldo2810/slides.nvim) ![](https://img.shields.io/github/last-commit/waldo2810/slides.nvim) ![](https://img.shields.io/github/commit-activity/y/waldo2810/slides.nvim)
 
 ### Slidev
 

@@ -104,6 +104,7 @@
 - [johk06/nvim-cut-out](https://github.com/johk06/nvim-cut-out) ![](https://img.shields.io/github/stars/johk06/nvim-cut-out) ![](https://img.shields.io/github/last-commit/johk06/nvim-cut-out) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-cut-out)
 - [johk06/nvim-eject](https://github.com/johk06/nvim-eject) ![](https://img.shields.io/github/stars/johk06/nvim-eject) ![](https://img.shields.io/github/last-commit/johk06/nvim-eject) ![](https://img.shields.io/github/commit-activity/y/johk06/nvim-eject)
 - [lettertwo/occurrence.nvim](https://github.com/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/stars/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/last-commit/lettertwo/occurrence.nvim) ![](https://img.shields.io/github/commit-activity/y/lettertwo/occurrence.nvim)
+- [kvnduff/relops.nvim](https://github.com/kvnduff/relops.nvim) ![](https://img.shields.io/github/stars/kvnduff/relops.nvim) ![](https://img.shields.io/github/last-commit/kvnduff/relops.nvim) ![](https://img.shields.io/github/commit-activity/y/kvnduff/relops.nvim)
 
 ### Replace
 

@@ -259,6 +259,7 @@
 - [denerblack/agy.nvim](https://github.com/denerblack/agy.nvim) ![](https://img.shields.io/github/stars/denerblack/agy.nvim) ![](https://img.shields.io/github/last-commit/denerblack/agy.nvim) ![](https://img.shields.io/github/commit-activity/y/denerblack/agy.nvim)
 - [AtesIsf/syringe.nvim](https://github.com/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/stars/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/last-commit/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/commit-activity/y/AtesIsf/syringe.nvim)
 - [lolbaiteed/antigravity.nvim](https://github.com/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/stars/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/last-commit/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/lolbaiteed/antigravity.nvim)
+- [Showwaiyan/antigravity.nvim](https://github.com/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/stars/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/last-commit/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/Showwaiyan/antigravity.nvim)
 
 ### Grok
 
@@ -342,6 +343,7 @@
 - [azorng/vision.nvim](https://github.com/azorng/vision.nvim) ![](https://img.shields.io/github/stars/azorng/vision.nvim) ![](https://img.shields.io/github/last-commit/azorng/vision.nvim) ![](https://img.shields.io/github/commit-activity/y/azorng/vision.nvim)
 - [cachebag/jumpy.nvim](https://github.com/cachebag/jumpy.nvim) ![](https://img.shields.io/github/stars/cachebag/jumpy.nvim) ![](https://img.shields.io/github/last-commit/cachebag/jumpy.nvim) ![](https://img.shields.io/github/commit-activity/y/cachebag/jumpy.nvim)
 - [NishantJoshi00/sidekick](https://github.com/NishantJoshi00/sidekick) ![](https://img.shields.io/github/stars/NishantJoshi00/sidekick) ![](https://img.shields.io/github/last-commit/NishantJoshi00/sidekick) ![](https://img.shields.io/github/commit-activity/y/NishantJoshi00/sidekick)
+- [uuhan/ai.nvim](https://github.com/uuhan/ai.nvim) ![](https://img.shields.io/github/stars/uuhan/ai.nvim) ![](https://img.shields.io/github/last-commit/uuhan/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/uuhan/ai.nvim)
 
 #### crush
 
@@ -522,6 +524,7 @@
 - [falsycat/claudecode.nvim](https://github.com/falsycat/claudecode.nvim) ![](https://img.shields.io/github/stars/falsycat/claudecode.nvim) ![](https://img.shields.io/github/last-commit/falsycat/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/falsycat/claudecode.nvim)
 - [mitubaEX/claude_workflow.nvim](https://github.com/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/stars/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/last-commit/mitubaEX/claude_workflow.nvim) ![](https://img.shields.io/github/commit-activity/y/mitubaEX/claude_workflow.nvim)
 - [zacharyxz/ccb.nvim](https://github.com/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/stars/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/last-commit/zacharyxz/ccb.nvim) ![](https://img.shields.io/github/commit-activity/y/zacharyxz/ccb.nvim)
+- [0ta2/amanoukihashi.nvim](https://github.com/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/stars/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/last-commit/0ta2/amanoukihashi.nvim) ![](https://img.shields.io/github/commit-activity/y/0ta2/amanoukihashi.nvim)
 
 ### Amazon Q
 
@@ -862,6 +865,7 @@
 - [bamggm/pi.nvim](https://github.com/bamggm/pi.nvim) ![](https://img.shields.io/github/stars/bamggm/pi.nvim) ![](https://img.shields.io/github/last-commit/bamggm/pi.nvim) ![](https://img.shields.io/github/commit-activity/y/bamggm/pi.nvim)
 - [ldelossa/pi-ide.nvim](https://github.com/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/stars/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/last-commit/ldelossa/pi-ide.nvim) ![](https://img.shields.io/github/commit-activity/y/ldelossa/pi-ide.nvim)
 - [fonnesbeck/pi-panel.nvim](https://github.com/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/stars/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/last-commit/fonnesbeck/pi-panel.nvim) ![](https://img.shields.io/github/commit-activity/y/fonnesbeck/pi-panel.nvim)
+- [SavingFrame/pi-send.nvim](https://github.com/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/stars/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/last-commit/SavingFrame/pi-send.nvim) ![](https://img.shields.io/github/commit-activity/y/SavingFrame/pi-send.nvim)
 
 ### Amp
 
