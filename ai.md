@@ -899,7 +899,6 @@
 - [RichardOyelowo/chatforge.nvim](https://github.com/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/stars/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/last-commit/RichardOyelowo/chatforge.nvim) ![](https://img.shields.io/github/commit-activity/y/RichardOyelowo/chatforge.nvim)
 - [lyhappy/minimax-chat.nvim](https://github.com/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/stars/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/last-commit/lyhappy/minimax-chat.nvim) ![](https://img.shields.io/github/commit-activity/y/lyhappy/minimax-chat.nvim)
 - [the-slow-one/nabu.nvim](https://github.com/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/stars/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/last-commit/the-slow-one/nabu.nvim) ![](https://img.shields.io/github/commit-activity/y/the-slow-one/nabu.nvim)
-- [skusel/aside.nvim](https://github.com/skusel/aside.nvim) ![](https://img.shields.io/github/stars/skusel/aside.nvim) ![](https://img.shields.io/github/last-commit/skusel/aside.nvim) ![](https://img.shields.io/github/commit-activity/y/skusel/aside.nvim)
 
 ## AI Terminal
 
