@@ -258,6 +258,7 @@
 #### Herdr
 
 - [devxplay/herdr.nvim](https://github.com/devxplay/herdr.nvim) ![](https://img.shields.io/github/stars/devxplay/herdr.nvim) ![](https://img.shields.io/github/last-commit/devxplay/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/devxplay/herdr.nvim)
+- [kbroomstd/herdr.nvim](https://github.com/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/stars/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/last-commit/kbroomstd/herdr.nvim) ![](https://img.shields.io/github/commit-activity/y/kbroomstd/herdr.nvim)
 
 ### Infra
 

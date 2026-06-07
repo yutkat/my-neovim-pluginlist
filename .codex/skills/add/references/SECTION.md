@@ -1363,6 +1363,7 @@
 ### Submode
 ### Parinfer
 ### Helix selection mode
+### Editor mode
 
 # motion.md
 ## Motion
@@ -2224,6 +2225,7 @@
 ### WhatsApp
 ### MantisBT
 ### Redmine
+### Launchpad
 ### Asana
 ### Shortcut
 ### Jira

@@ -171,6 +171,8 @@
 
 ### Lint
 
+- [xeind/vallow.nvim](https://github.com/xeind/vallow.nvim) ![](https://img.shields.io/github/stars/xeind/vallow.nvim) ![](https://img.shields.io/github/last-commit/xeind/vallow.nvim) ![](https://img.shields.io/github/commit-activity/y/xeind/vallow.nvim)
+
 #### eslint
 
 - [ceceppa/lint.nvim](https://github.com/ceceppa/lint.nvim) ![](https://img.shields.io/github/stars/ceceppa/lint.nvim) ![](https://img.shields.io/github/last-commit/ceceppa/lint.nvim) ![](https://img.shields.io/github/commit-activity/y/ceceppa/lint.nvim)

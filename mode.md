@@ -8,6 +8,7 @@
   - [Submode](#submode)
   - [Parinfer](#parinfer)
   - [Helix selection mode](#helix-selection-mode)
+  - [Editor mode](#editor-mode)
 
 <!-- tocstop -->
 
@@ -53,3 +54,7 @@
 ### Helix selection mode
 
 - [luiscassih/AniMotion.nvim](https://github.com/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/stars/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/last-commit/luiscassih/AniMotion.nvim) ![](https://img.shields.io/github/commit-activity/y/luiscassih/AniMotion.nvim)
+
+### Editor mode
+
+- [theoneand33/extra-lazy.nvim](https://github.com/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/stars/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/last-commit/theoneand33/extra-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/theoneand33/extra-lazy.nvim)
