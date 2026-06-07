@@ -515,6 +515,7 @@
 - [ss0923/limb.nvim](https://github.com/ss0923/limb.nvim) ![](https://img.shields.io/github/stars/ss0923/limb.nvim) ![](https://img.shields.io/github/last-commit/ss0923/limb.nvim) ![](https://img.shields.io/github/commit-activity/y/ss0923/limb.nvim)
 - [nd70/worktrunk.nvim](https://github.com/nd70/worktrunk.nvim) ![](https://img.shields.io/github/stars/nd70/worktrunk.nvim) ![](https://img.shields.io/github/last-commit/nd70/worktrunk.nvim) ![](https://img.shields.io/github/commit-activity/y/nd70/worktrunk.nvim)
 - [laoz40/git-worktree.nvim](https://github.com/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/stars/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/last-commit/laoz40/git-worktree.nvim) ![](https://img.shields.io/github/commit-activity/y/laoz40/git-worktree.nvim)
+- [chadnorvell/worktrees.nvim](https://github.com/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/stars/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/last-commit/chadnorvell/worktrees.nvim) ![](https://img.shields.io/github/commit-activity/y/chadnorvell/worktrees.nvim)
 
 ### submodule
 

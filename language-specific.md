@@ -797,6 +797,7 @@
 #### Mojo
 
 - [qompassai/blaze.nvim](https://github.com/qompassai/blaze.nvim) ![](https://img.shields.io/github/stars/qompassai/blaze.nvim) ![](https://img.shields.io/github/last-commit/qompassai/blaze.nvim) ![](https://img.shields.io/github/commit-activity/y/qompassai/blaze.nvim)
+- [Sarctiann/mojo.nvim](https://github.com/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/stars/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/last-commit/Sarctiann/mojo.nvim) ![](https://img.shields.io/github/commit-activity/y/Sarctiann/mojo.nvim)
 
 #### Fram
 

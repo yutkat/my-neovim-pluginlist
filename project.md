@@ -171,6 +171,7 @@
 - [to268/repos.nvim](https://github.com/to268/repos.nvim) ![](https://img.shields.io/github/stars/to268/repos.nvim) ![](https://img.shields.io/github/last-commit/to268/repos.nvim) ![](https://img.shields.io/github/commit-activity/y/to268/repos.nvim)
 - [taku25/vscode-workspace.nvim](https://github.com/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/stars/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/last-commit/taku25/vscode-workspace.nvim) ![](https://img.shields.io/github/commit-activity/y/taku25/vscode-workspace.nvim)
 - [ivankozlovcodes/lazy-workspaces.nvim](https://github.com/ivankozlovcodes/lazy-workspaces.nvim) ![](https://img.shields.io/github/stars/ivankozlovcodes/lazy-workspaces.nvim) ![](https://img.shields.io/github/last-commit/ivankozlovcodes/lazy-workspaces.nvim) ![](https://img.shields.io/github/commit-activity/y/ivankozlovcodes/lazy-workspaces.nvim)
+- [austinbrees/nvim-workspace](https://github.com/austinbrees/nvim-workspace) ![](https://img.shields.io/github/stars/austinbrees/nvim-workspace) ![](https://img.shields.io/github/last-commit/austinbrees/nvim-workspace) ![](https://img.shields.io/github/commit-activity/y/austinbrees/nvim-workspace)
 
 ### Config switcher
 

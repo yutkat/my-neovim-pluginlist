@@ -61,6 +61,7 @@
 - [JulianSchubel/nvim-cheatsheet](https://github.com/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/stars/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/last-commit/JulianSchubel/nvim-cheatsheet) ![](https://img.shields.io/github/commit-activity/y/JulianSchubel/nvim-cheatsheet)
 - [yorik1984/telescope-cheat-md.nvim](https://github.com/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/stars/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/last-commit/yorik1984/telescope-cheat-md.nvim) ![](https://img.shields.io/github/commit-activity/y/yorik1984/telescope-cheat-md.nvim)
 - [gabrielgnsilva/regex-cheatsheet.nvim](https://github.com/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/regex-cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/regex-cheatsheet.nvim)
+- [Blizzard-fs/cheatsheet.nvim](https://github.com/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/stars/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/last-commit/Blizzard-fs/cheatsheet.nvim) ![](https://img.shields.io/github/commit-activity/y/Blizzard-fs/cheatsheet.nvim)
 
 ### Tips
 
