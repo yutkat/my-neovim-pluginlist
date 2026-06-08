@@ -77,6 +77,7 @@
     - [Jac](#jac)
     - [M1](#m1)
     - [Uiua](#uiua)
+    - [Conops](#conops)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -617,6 +618,10 @@
 #### Uiua
 
 - [TomMurray/uiua.nvim](https://github.com/TomMurray/uiua.nvim) ![](https://img.shields.io/github/stars/TomMurray/uiua.nvim) ![](https://img.shields.io/github/last-commit/TomMurray/uiua.nvim) ![](https://img.shields.io/github/commit-activity/y/TomMurray/uiua.nvim)
+
+#### Conops
+
+- [sstoehrm/conops.nvim](https://github.com/sstoehrm/conops.nvim) ![](https://img.shields.io/github/stars/sstoehrm/conops.nvim) ![](https://img.shields.io/github/last-commit/sstoehrm/conops.nvim) ![](https://img.shields.io/github/commit-activity/y/sstoehrm/conops.nvim)
 
 ### WSL
 

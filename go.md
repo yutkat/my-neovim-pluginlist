@@ -124,6 +124,7 @@
 #### Test file
 
 - [tscolari/goalt.nvim](https://github.com/tscolari/goalt.nvim) ![](https://img.shields.io/github/stars/tscolari/goalt.nvim) ![](https://img.shields.io/github/last-commit/tscolari/goalt.nvim) ![](https://img.shields.io/github/commit-activity/y/tscolari/goalt.nvim)
+- [di-az/related.nvim](https://github.com/di-az/related.nvim) ![](https://img.shields.io/github/stars/di-az/related.nvim) ![](https://img.shields.io/github/last-commit/di-az/related.nvim) ![](https://img.shields.io/github/commit-activity/y/di-az/related.nvim)
 
 ### Report
 

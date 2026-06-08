@@ -728,6 +728,7 @@
 - [chomosuke/typst-preview.nvim](https://github.com/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/stars/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/last-commit/chomosuke/typst-preview.nvim) ![](https://img.shields.io/github/commit-activity/y/chomosuke/typst-preview.nvim)
 - [max397574/typst-tools.nvim](https://github.com/max397574/typst-tools.nvim) ![](https://img.shields.io/github/stars/max397574/typst-tools.nvim) ![](https://img.shields.io/github/last-commit/max397574/typst-tools.nvim) ![](https://img.shields.io/github/commit-activity/y/max397574/typst-tools.nvim)
 - [gitefdf/typst-outline.nvim](https://github.com/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/stars/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/last-commit/gitefdf/typst-outline.nvim) ![](https://img.shields.io/github/commit-activity/y/gitefdf/typst-outline.nvim)
+- [KineticJetIce245/typst-pyglue.nvim](https://github.com/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/stars/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/last-commit/KineticJetIce245/typst-pyglue.nvim) ![](https://img.shields.io/github/commit-activity/y/KineticJetIce245/typst-pyglue.nvim)
 
 ### Textile
 

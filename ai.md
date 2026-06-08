@@ -110,6 +110,7 @@
 - [gvanbeck/luai.nvim](https://github.com/gvanbeck/luai.nvim) ![](https://img.shields.io/github/stars/gvanbeck/luai.nvim) ![](https://img.shields.io/github/last-commit/gvanbeck/luai.nvim) ![](https://img.shields.io/github/commit-activity/y/gvanbeck/luai.nvim)
 - [laynef/sage.nvim](https://github.com/laynef/sage.nvim) ![](https://img.shields.io/github/stars/laynef/sage.nvim) ![](https://img.shields.io/github/last-commit/laynef/sage.nvim) ![](https://img.shields.io/github/commit-activity/y/laynef/sage.nvim)
 - [rsarv3006/ai-scalpel.nvim](https://github.com/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/stars/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/last-commit/rsarv3006/ai-scalpel.nvim) ![](https://img.shields.io/github/commit-activity/y/rsarv3006/ai-scalpel.nvim)
+- [Jpatching/odysseus.nvim](https://github.com/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/stars/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/last-commit/Jpatching/odysseus.nvim) ![](https://img.shields.io/github/commit-activity/y/Jpatching/odysseus.nvim)
 
 ### OpenAI(ChatGPT)
 
@@ -260,6 +261,7 @@
 - [AtesIsf/syringe.nvim](https://github.com/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/stars/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/last-commit/AtesIsf/syringe.nvim) ![](https://img.shields.io/github/commit-activity/y/AtesIsf/syringe.nvim)
 - [lolbaiteed/antigravity.nvim](https://github.com/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/stars/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/last-commit/lolbaiteed/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/lolbaiteed/antigravity.nvim)
 - [Showwaiyan/antigravity.nvim](https://github.com/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/stars/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/last-commit/Showwaiyan/antigravity.nvim) ![](https://img.shields.io/github/commit-activity/y/Showwaiyan/antigravity.nvim)
+- [NakLast/antigravity-cli.nvim](https://github.com/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/stars/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/last-commit/NakLast/antigravity-cli.nvim) ![](https://img.shields.io/github/commit-activity/y/NakLast/antigravity-cli.nvim)
 
 ### Grok
 
