@@ -66,6 +66,7 @@
 - [gzygmanski/not-so-autopairs.nvim](https://github.com/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/stars/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/last-commit/gzygmanski/not-so-autopairs.nvim) ![](https://img.shields.io/github/commit-activity/y/gzygmanski/not-so-autopairs.nvim)
 - [alexghergh/pairs-jump.nvim](https://github.com/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/stars/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/last-commit/alexghergh/pairs-jump.nvim) ![](https://img.shields.io/github/commit-activity/y/alexghergh/pairs-jump.nvim)
 - [jqno/jqno-autoclose.nvim](https://github.com/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/stars/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/last-commit/jqno/jqno-autoclose.nvim) ![](https://img.shields.io/github/commit-activity/y/jqno/jqno-autoclose.nvim)
+- [TJ-Woods/nvim-AutoPair](https://github.com/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/stars/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/last-commit/TJ-Woods/nvim-AutoPair) ![](https://img.shields.io/github/commit-activity/y/TJ-Woods/nvim-AutoPair)
 
 ### escape pairs
 

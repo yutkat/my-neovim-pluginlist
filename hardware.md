@@ -10,6 +10,7 @@
   - [CAD](#cad)
   - [VHDL](#vhdl)
   - [Verilog](#verilog)
+  - [Waveform](#waveform)
   - [Virdant](#virdant)
   - [Grooper](#grooper)
   - [SketchUp](#sketchup)
@@ -65,6 +66,10 @@
 
 - [mingo99/autoverilog.nvim](https://github.com/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/stars/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/last-commit/mingo99/autoverilog.nvim) ![](https://img.shields.io/github/commit-activity/y/mingo99/autoverilog.nvim)
 - [Junknown99/nvim-verilog-mode](https://github.com/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/stars/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/last-commit/Junknown99/nvim-verilog-mode) ![](https://img.shields.io/github/commit-activity/y/Junknown99/nvim-verilog-mode)
+
+### Waveform
+
+- [hikamaree/wave.nvim](https://github.com/hikamaree/wave.nvim) ![](https://img.shields.io/github/stars/hikamaree/wave.nvim) ![](https://img.shields.io/github/last-commit/hikamaree/wave.nvim) ![](https://img.shields.io/github/commit-activity/y/hikamaree/wave.nvim)
 
 ### Virdant
 

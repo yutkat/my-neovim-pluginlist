@@ -58,6 +58,7 @@
 - [bpross/review.nvim](https://github.com/bpross/review.nvim) ![](https://img.shields.io/github/stars/bpross/review.nvim) ![](https://img.shields.io/github/last-commit/bpross/review.nvim) ![](https://img.shields.io/github/commit-activity/y/bpross/review.nvim)
 - [eltonsst/local-review.nvim](https://github.com/eltonsst/local-review.nvim) ![](https://img.shields.io/github/stars/eltonsst/local-review.nvim) ![](https://img.shields.io/github/last-commit/eltonsst/local-review.nvim) ![](https://img.shields.io/github/commit-activity/y/eltonsst/local-review.nvim)
 - [SalzDevs/Diffscope.nvim](https://github.com/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/stars/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/last-commit/SalzDevs/Diffscope.nvim) ![](https://img.shields.io/github/commit-activity/y/SalzDevs/Diffscope.nvim)
+- [SevereOverfl0w/difft.nvim](https://github.com/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/stars/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/last-commit/SevereOverfl0w/difft.nvim) ![](https://img.shields.io/github/commit-activity/y/SevereOverfl0w/difft.nvim)
 
 ### Diff Register
 

@@ -765,6 +765,7 @@
 ### CAD
 ### VHDL
 ### Verilog
+### Waveform
 ### Virdant
 ### Grooper
 ### SketchUp
@@ -1097,6 +1098,7 @@
 #### Jac
 #### M1
 #### Uiua
+#### Conops
 ### WSL
 #### CQL
 ##### Quadrate

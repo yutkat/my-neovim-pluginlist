@@ -50,6 +50,7 @@
 - [mmsaki/forgefmt.nvim](https://github.com/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/stars/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/last-commit/mmsaki/forgefmt.nvim) ![](https://img.shields.io/github/commit-activity/y/mmsaki/forgefmt.nvim)
 - [gabrielgnsilva/minify.nvim](https://github.com/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/stars/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/last-commit/gabrielgnsilva/minify.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielgnsilva/minify.nvim)
 - [S3-R4/unformat.nvim](https://github.com/S3-R4/unformat.nvim) ![](https://img.shields.io/github/stars/S3-R4/unformat.nvim) ![](https://img.shields.io/github/last-commit/S3-R4/unformat.nvim) ![](https://img.shields.io/github/commit-activity/y/S3-R4/unformat.nvim)
+- [idleberg/ardent.nvim](https://github.com/idleberg/ardent.nvim) ![](https://img.shields.io/github/stars/idleberg/ardent.nvim) ![](https://img.shields.io/github/last-commit/idleberg/ardent.nvim) ![](https://img.shields.io/github/commit-activity/y/idleberg/ardent.nvim)
 
 ### Trim Whitespace
 
