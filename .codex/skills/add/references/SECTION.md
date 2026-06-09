@@ -992,6 +992,7 @@
 #### Nuxt
 ### Angular
 ### Svelte
+### WebJS
 ### Node.js
 ### Deno
 ### Bun

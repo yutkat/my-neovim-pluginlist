@@ -346,6 +346,7 @@
 - [cachebag/jumpy.nvim](https://github.com/cachebag/jumpy.nvim) ![](https://img.shields.io/github/stars/cachebag/jumpy.nvim) ![](https://img.shields.io/github/last-commit/cachebag/jumpy.nvim) ![](https://img.shields.io/github/commit-activity/y/cachebag/jumpy.nvim)
 - [NishantJoshi00/sidekick](https://github.com/NishantJoshi00/sidekick) ![](https://img.shields.io/github/stars/NishantJoshi00/sidekick) ![](https://img.shields.io/github/last-commit/NishantJoshi00/sidekick) ![](https://img.shields.io/github/commit-activity/y/NishantJoshi00/sidekick)
 - [uuhan/ai.nvim](https://github.com/uuhan/ai.nvim) ![](https://img.shields.io/github/stars/uuhan/ai.nvim) ![](https://img.shields.io/github/last-commit/uuhan/ai.nvim) ![](https://img.shields.io/github/commit-activity/y/uuhan/ai.nvim)
+- [minhnhat97kg/metalsp.nvim](https://github.com/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/stars/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/last-commit/minhnhat97kg/metalsp.nvim) ![](https://img.shields.io/github/commit-activity/y/minhnhat97kg/metalsp.nvim)
 
 #### crush
 
@@ -1034,6 +1035,7 @@
 - [igor-gorohovsky/agent-review.nvim](https://github.com/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/stars/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/last-commit/igor-gorohovsky/agent-review.nvim) ![](https://img.shields.io/github/commit-activity/y/igor-gorohovsky/agent-review.nvim)
 - [Skarian/code-review.nvim](https://github.com/Skarian/code-review.nvim) ![](https://img.shields.io/github/stars/Skarian/code-review.nvim) ![](https://img.shields.io/github/last-commit/Skarian/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Skarian/code-review.nvim)
 - [pratyushmittal/faltoo.nvim](https://github.com/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/stars/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/last-commit/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/commit-activity/y/pratyushmittal/faltoo.nvim)
+- [nodeselector/copilot-inline.nvim](https://github.com/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/stars/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/last-commit/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/nodeselector/copilot-inline.nvim)
 
 ## Documentation
 
