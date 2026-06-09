@@ -53,6 +53,7 @@
     - [Nuxt](#nuxt)
   - [Angular](#angular)
   - [Svelte](#svelte)
+  - [WebJS](#webjs)
   - [Node.js](#nodejs)
   - [Deno](#deno)
   - [Bun](#bun)
@@ -392,6 +393,7 @@
 #### Next.js
 
 - [jacobsonryan/lualine-nextname.nvim](https://github.com/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/stars/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/last-commit/jacobsonryan/lualine-nextname.nvim) ![](https://img.shields.io/github/commit-activity/y/jacobsonryan/lualine-nextname.nvim)
+- [SaptanshuWanjari/next-request.nvim](https://github.com/SaptanshuWanjari/next-request.nvim) ![](https://img.shields.io/github/stars/SaptanshuWanjari/next-request.nvim) ![](https://img.shields.io/github/last-commit/SaptanshuWanjari/next-request.nvim) ![](https://img.shields.io/github/commit-activity/y/SaptanshuWanjari/next-request.nvim)
 
 ### Vue
 
@@ -437,6 +439,10 @@
 - [theIbraDev/sveltekit_motions.nvim](https://github.com/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/stars/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/last-commit/theIbraDev/sveltekit_motions.nvim) ![](https://img.shields.io/github/commit-activity/y/theIbraDev/sveltekit_motions.nvim)
 - [nvim-svelte/nvim-svelte-snippets](https://github.com/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/stars/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/last-commit/nvim-svelte/nvim-svelte-snippets) ![](https://img.shields.io/github/commit-activity/y/nvim-svelte/nvim-svelte-snippets)
 - [themixednuts/nvim-treesitter-svelte](https://github.com/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/stars/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/last-commit/themixednuts/nvim-treesitter-svelte) ![](https://img.shields.io/github/commit-activity/y/themixednuts/nvim-treesitter-svelte)
+
+### WebJS
+
+- [webjsdev/webjs.nvim](https://github.com/webjsdev/webjs.nvim) ![](https://img.shields.io/github/stars/webjsdev/webjs.nvim) ![](https://img.shields.io/github/last-commit/webjsdev/webjs.nvim) ![](https://img.shields.io/github/commit-activity/y/webjsdev/webjs.nvim)
 
 ### Node.js
 
