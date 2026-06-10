@@ -459,6 +459,7 @@
   - [pittcat/claude-fzf.nvim](https://github.com/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/stars/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/last-commit/pittcat/claude-fzf.nvim) ![](https://img.shields.io/github/commit-activity/y/pittcat/claude-fzf.nvim)
   - [thobiasn/claudediff.nvim](https://github.com/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/stars/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/last-commit/thobiasn/claudediff.nvim) ![](https://img.shields.io/github/commit-activity/y/thobiasn/claudediff.nvim)
   - [CedricUrvoy/claude-diff.nvim](https://github.com/CedricUrvoy/claude-diff.nvim) ![](https://img.shields.io/github/stars/CedricUrvoy/claude-diff.nvim) ![](https://img.shields.io/github/last-commit/CedricUrvoy/claude-diff.nvim) ![](https://img.shields.io/github/commit-activity/y/CedricUrvoy/claude-diff.nvim)
+  - [MunifTanjim/claudecode-provider-tmux.nvim](https://github.com/MunifTanjim/claudecode-provider-tmux.nvim) ![](https://img.shields.io/github/stars/MunifTanjim/claudecode-provider-tmux.nvim) ![](https://img.shields.io/github/last-commit/MunifTanjim/claudecode-provider-tmux.nvim) ![](https://img.shields.io/github/commit-activity/y/MunifTanjim/claudecode-provider-tmux.nvim)
 - [jaerod95/scrawl.nvim](https://github.com/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/stars/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/last-commit/jaerod95/scrawl.nvim) ![](https://img.shields.io/github/commit-activity/y/jaerod95/scrawl.nvim)
 - [clogginsdev/claudecode.nvim](https://github.com/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/stars/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/last-commit/clogginsdev/claudecode.nvim) ![](https://img.shields.io/github/commit-activity/y/clogginsdev/claudecode.nvim)
 - [dreemanuel/claude-code.nvim](https://github.com/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/stars/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/last-commit/dreemanuel/claude-code.nvim) ![](https://img.shields.io/github/commit-activity/y/dreemanuel/claude-code.nvim)
@@ -1036,6 +1037,7 @@
 - [Skarian/code-review.nvim](https://github.com/Skarian/code-review.nvim) ![](https://img.shields.io/github/stars/Skarian/code-review.nvim) ![](https://img.shields.io/github/last-commit/Skarian/code-review.nvim) ![](https://img.shields.io/github/commit-activity/y/Skarian/code-review.nvim)
 - [pratyushmittal/faltoo.nvim](https://github.com/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/stars/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/last-commit/pratyushmittal/faltoo.nvim) ![](https://img.shields.io/github/commit-activity/y/pratyushmittal/faltoo.nvim)
 - [nodeselector/copilot-inline.nvim](https://github.com/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/stars/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/last-commit/nodeselector/copilot-inline.nvim) ![](https://img.shields.io/github/commit-activity/y/nodeselector/copilot-inline.nvim)
+- [obj-p/caddie.nvim](https://github.com/obj-p/caddie.nvim) ![](https://img.shields.io/github/stars/obj-p/caddie.nvim) ![](https://img.shields.io/github/last-commit/obj-p/caddie.nvim) ![](https://img.shields.io/github/commit-activity/y/obj-p/caddie.nvim)
 
 ## Documentation
 
@@ -1117,6 +1119,7 @@
 - [not-manu/filemention.nvim](https://github.com/not-manu/filemention.nvim) ![](https://img.shields.io/github/stars/not-manu/filemention.nvim) ![](https://img.shields.io/github/last-commit/not-manu/filemention.nvim) ![](https://img.shields.io/github/commit-activity/y/not-manu/filemention.nvim)
 - [danielronalds/reference.nvim](https://github.com/danielronalds/reference.nvim) ![](https://img.shields.io/github/stars/danielronalds/reference.nvim) ![](https://img.shields.io/github/last-commit/danielronalds/reference.nvim) ![](https://img.shields.io/github/commit-activity/y/danielronalds/reference.nvim)
 - [bajankristof/fileref.nvim](https://github.com/bajankristof/fileref.nvim) ![](https://img.shields.io/github/stars/bajankristof/fileref.nvim) ![](https://img.shields.io/github/last-commit/bajankristof/fileref.nvim) ![](https://img.shields.io/github/commit-activity/y/bajankristof/fileref.nvim)
+- [jgYro/yank2think.nvim](https://github.com/jgYro/yank2think.nvim) ![](https://img.shields.io/github/stars/jgYro/yank2think.nvim) ![](https://img.shields.io/github/last-commit/jgYro/yank2think.nvim) ![](https://img.shields.io/github/commit-activity/y/jgYro/yank2think.nvim)
 
 ## LLM context
 

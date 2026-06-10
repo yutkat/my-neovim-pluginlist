@@ -106,6 +106,7 @@
 #### elf
 
 - [JonTheBurger/nvim-elf-file](https://github.com/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/stars/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/last-commit/JonTheBurger/nvim-elf-file) ![](https://img.shields.io/github/commit-activity/y/JonTheBurger/nvim-elf-file)
+- [a-mango/bin.nvim](https://github.com/a-mango/bin.nvim) ![](https://img.shields.io/github/stars/a-mango/bin.nvim) ![](https://img.shields.io/github/last-commit/a-mango/bin.nvim) ![](https://img.shields.io/github/commit-activity/y/a-mango/bin.nvim)
 
 #### MSVC
 
@@ -192,6 +193,7 @@
 - [nocis/cmakebuild.nvim](https://github.com/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/stars/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/last-commit/nocis/cmakebuild.nvim) ![](https://img.shields.io/github/commit-activity/y/nocis/cmakebuild.nvim)
 - [qiekn/code-runner.nvim](https://github.com/qiekn/code-runner.nvim) ![](https://img.shields.io/github/stars/qiekn/code-runner.nvim) ![](https://img.shields.io/github/last-commit/qiekn/code-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/qiekn/code-runner.nvim)
 - [zischl/BuildSentry.nvim](https://github.com/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/stars/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/last-commit/zischl/BuildSentry.nvim) ![](https://img.shields.io/github/commit-activity/y/zischl/BuildSentry.nvim)
+- [Nordic-Barn-Owl/simple-cmake.nvim](https://github.com/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/stars/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/last-commit/Nordic-Barn-Owl/simple-cmake.nvim) ![](https://img.shields.io/github/commit-activity/y/Nordic-Barn-Owl/simple-cmake.nvim)
 
 ### Library Manager
 

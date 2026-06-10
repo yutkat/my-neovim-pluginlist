@@ -142,6 +142,7 @@
 - [aikhe/wrapped.nvim](https://github.com/aikhe/wrapped.nvim) ![](https://img.shields.io/github/stars/aikhe/wrapped.nvim) ![](https://img.shields.io/github/last-commit/aikhe/wrapped.nvim) ![](https://img.shields.io/github/commit-activity/y/aikhe/wrapped.nvim)
 - [rnemeth90/nvim-show-keymaps](https://github.com/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/stars/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/last-commit/rnemeth90/nvim-show-keymaps) ![](https://img.shields.io/github/commit-activity/y/rnemeth90/nvim-show-keymaps)
 - [cmtonkinson/map-list.nvim](https://github.com/cmtonkinson/map-list.nvim) ![](https://img.shields.io/github/stars/cmtonkinson/map-list.nvim) ![](https://img.shields.io/github/last-commit/cmtonkinson/map-list.nvim) ![](https://img.shields.io/github/commit-activity/y/cmtonkinson/map-list.nvim)
+- [kei-gnu/nvim-keymap-panel](https://github.com/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/stars/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/last-commit/kei-gnu/nvim-keymap-panel) ![](https://img.shields.io/github/commit-activity/y/kei-gnu/nvim-keymap-panel)
 
 ### Prefix Key Binding
 
