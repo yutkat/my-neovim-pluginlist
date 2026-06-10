@@ -221,6 +221,7 @@
   - [yongjohnlee80/md-harpoon.nvim](https://github.com/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/stars/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/last-commit/yongjohnlee80/md-harpoon.nvim) ![](https://img.shields.io/github/commit-activity/y/yongjohnlee80/md-harpoon.nvim)
 - [khaitranhq/markview.nvim](https://github.com/khaitranhq/markview.nvim) ![](https://img.shields.io/github/stars/khaitranhq/markview.nvim) ![](https://img.shields.io/github/last-commit/khaitranhq/markview.nvim) ![](https://img.shields.io/github/commit-activity/y/khaitranhq/markview.nvim)
 - [mimvoid/mdopen.nvim](https://github.com/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/stars/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/last-commit/mimvoid/mdopen.nvim) ![](https://img.shields.io/github/commit-activity/y/mimvoid/mdopen.nvim)
+- [Sebb57/peekabuf.nvim](https://github.com/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/stars/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/last-commit/Sebb57/peekabuf.nvim) ![](https://img.shields.io/github/commit-activity/y/Sebb57/peekabuf.nvim)
 
 ##### Python
 
@@ -518,6 +519,7 @@
 - [toboriak/ascii-mermaid.nvim](https://github.com/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/stars/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/last-commit/toboriak/ascii-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/toboriak/ascii-mermaid.nvim)
 - [cavanaug/render-markdown-mermaid.nvim](https://github.com/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/stars/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/last-commit/cavanaug/render-markdown-mermaid.nvim) ![](https://img.shields.io/github/commit-activity/y/cavanaug/render-markdown-mermaid.nvim)
 - [Esequiel378/mermaid-hover.nvim](https://github.com/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/stars/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/last-commit/Esequiel378/mermaid-hover.nvim) ![](https://img.shields.io/github/commit-activity/y/Esequiel378/mermaid-hover.nvim)
+- [jdonghia/mermaid-live.nvim](https://github.com/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/stars/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/last-commit/jdonghia/mermaid-live.nvim) ![](https://img.shields.io/github/commit-activity/y/jdonghia/mermaid-live.nvim)
 
 ### pikchr
 

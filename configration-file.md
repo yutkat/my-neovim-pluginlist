@@ -92,6 +92,7 @@
 ### TOML
 
 - [dharmx/toml.nvim](https://github.com/dharmx/toml.nvim) ![](https://img.shields.io/github/stars/dharmx/toml.nvim) ![](https://img.shields.io/github/last-commit/dharmx/toml.nvim) ![](https://img.shields.io/github/commit-activity/y/dharmx/toml.nvim)
+- [mbfoss/tomltools.nvim](https://github.com/mbfoss/tomltools.nvim) ![](https://img.shields.io/github/stars/mbfoss/tomltools.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/tomltools.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/tomltools.nvim)
 
 ### Pkl
 

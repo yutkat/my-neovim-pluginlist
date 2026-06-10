@@ -69,6 +69,7 @@
 - [david-rusnak/dependacheck.nvim](https://github.com/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/stars/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/last-commit/david-rusnak/dependacheck.nvim) ![](https://img.shields.io/github/commit-activity/y/david-rusnak/dependacheck.nvim)
 - [frofor/cargo-ghost](https://github.com/frofor/cargo-ghost) ![](https://img.shields.io/github/stars/frofor/cargo-ghost) ![](https://img.shields.io/github/last-commit/frofor/cargo-ghost) ![](https://img.shields.io/github/commit-activity/y/frofor/cargo-ghost)
 - [aekasitt/fargo.nvim](https://github.com/aekasitt/fargo.nvim) ![](https://img.shields.io/github/stars/aekasitt/fargo.nvim) ![](https://img.shields.io/github/last-commit/aekasitt/fargo.nvim) ![](https://img.shields.io/github/commit-activity/y/aekasitt/fargo.nvim)
+- [DDtKey/cargo-features.nvim](https://github.com/DDtKey/cargo-features.nvim) ![](https://img.shields.io/github/stars/DDtKey/cargo-features.nvim) ![](https://img.shields.io/github/last-commit/DDtKey/cargo-features.nvim) ![](https://img.shields.io/github/commit-activity/y/DDtKey/cargo-features.nvim)
 
 ### Clippy
 

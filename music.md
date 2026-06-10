@@ -128,6 +128,8 @@
   - [soundsmitten/strudel-blink-cmp.nvim](https://github.com/soundsmitten/strudel-blink-cmp.nvim) ![](https://img.shields.io/github/stars/soundsmitten/strudel-blink-cmp.nvim) ![](https://img.shields.io/github/last-commit/soundsmitten/strudel-blink-cmp.nvim) ![](https://img.shields.io/github/commit-activity/y/soundsmitten/strudel-blink-cmp.nvim)
 - [bonzonkim/strudel.nvim](https://github.com/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/stars/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/last-commit/bonzonkim/strudel.nvim) ![](https://img.shields.io/github/commit-activity/y/bonzonkim/strudel.nvim)
 - [Goshujinsama/nvim-strudel](https://github.com/Goshujinsama/nvim-strudel) ![](https://img.shields.io/github/stars/Goshujinsama/nvim-strudel) ![](https://img.shields.io/github/last-commit/Goshujinsama/nvim-strudel) ![](https://img.shields.io/github/commit-activity/y/Goshujinsama/nvim-strudel)
+- [Ovsiankina/strudel-types.nvim](https://github.com/Ovsiankina/strudel-types.nvim) ![](https://img.shields.io/github/stars/Ovsiankina/strudel-types.nvim) ![](https://img.shields.io/github/last-commit/Ovsiankina/strudel-types.nvim) ![](https://img.shields.io/github/commit-activity/y/Ovsiankina/strudel-types.nvim)
+- [odezzshuuk/strudelPWA.nvim](https://github.com/odezzshuuk/strudelPWA.nvim) ![](https://img.shields.io/github/stars/odezzshuuk/strudelPWA.nvim) ![](https://img.shields.io/github/last-commit/odezzshuuk/strudelPWA.nvim) ![](https://img.shields.io/github/commit-activity/y/odezzshuuk/strudelPWA.nvim)
 
 ### GABC
 

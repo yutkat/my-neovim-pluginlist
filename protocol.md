@@ -121,6 +121,8 @@
 
 ### HL7
 
+- [hwang-fu/fhir.nvim](https://github.com/hwang-fu/fhir.nvim) ![](https://img.shields.io/github/stars/hwang-fu/fhir.nvim) ![](https://img.shields.io/github/last-commit/hwang-fu/fhir.nvim) ![](https://img.shields.io/github/commit-activity/y/hwang-fu/fhir.nvim)
+
 ### CCSDS
 
 - [realShaneYost/ccsds-hdr.nvim](https://github.com/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/stars/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/last-commit/realShaneYost/ccsds-hdr.nvim) ![](https://img.shields.io/github/commit-activity/y/realShaneYost/ccsds-hdr.nvim)

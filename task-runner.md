@@ -293,6 +293,7 @@
 
 - [alirezanobakht13/just-runner.nvim](https://github.com/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/stars/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/last-commit/alirezanobakht13/just-runner.nvim) ![](https://img.shields.io/github/commit-activity/y/alirezanobakht13/just-runner.nvim)
 - [jdearmas/just-compiler.nvim](https://github.com/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/stars/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/last-commit/jdearmas/just-compiler.nvim) ![](https://img.shields.io/github/commit-activity/y/jdearmas/just-compiler.nvim)
+- [dmitrii-cernev/justfile.nvim](https://github.com/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/stars/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/last-commit/dmitrii-cernev/justfile.nvim) ![](https://img.shields.io/github/commit-activity/y/dmitrii-cernev/justfile.nvim)
 
 #### Taskfile
 
