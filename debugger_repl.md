@@ -31,6 +31,7 @@
 - [fschaal/azfunc.nvim](https://github.com/fschaal/azfunc.nvim) ![](https://img.shields.io/github/stars/fschaal/azfunc.nvim) ![](https://img.shields.io/github/last-commit/fschaal/azfunc.nvim) ![](https://img.shields.io/github/commit-activity/y/fschaal/azfunc.nvim)
 - [MarcWeber/nvim-lldb](https://github.com/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/stars/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/last-commit/MarcWeber/nvim-lldb) ![](https://img.shields.io/github/commit-activity/y/MarcWeber/nvim-lldb)
 - [lucilands/gradbg.nvim](https://github.com/lucilands/gradbg.nvim) ![](https://img.shields.io/github/stars/lucilands/gradbg.nvim) ![](https://img.shields.io/github/last-commit/lucilands/gradbg.nvim) ![](https://img.shields.io/github/commit-activity/y/lucilands/gradbg.nvim)
+- [mbfoss/easydap.nvim](https://github.com/mbfoss/easydap.nvim) ![](https://img.shields.io/github/stars/mbfoss/easydap.nvim) ![](https://img.shields.io/github/last-commit/mbfoss/easydap.nvim) ![](https://img.shields.io/github/commit-activity/y/mbfoss/easydap.nvim)
 
 #### nvim-dap extension
 

@@ -115,6 +115,7 @@
 - [markbragin/pivo.nvim](https://github.com/markbragin/pivo.nvim) ![](https://img.shields.io/github/stars/markbragin/pivo.nvim) ![](https://img.shields.io/github/last-commit/markbragin/pivo.nvim) ![](https://img.shields.io/github/commit-activity/y/markbragin/pivo.nvim)
 - [icarios-dev/privymd.nvim](https://github.com/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/stars/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/last-commit/icarios-dev/privymd.nvim) ![](https://img.shields.io/github/commit-activity/y/icarios-dev/privymd.nvim)
 - [zhafacai/authinfo.nvim](https://github.com/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/stars/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/last-commit/zhafacai/authinfo.nvim) ![](https://img.shields.io/github/commit-activity/y/zhafacai/authinfo.nvim)
+- [dijeferson/gpg.nvim](https://github.com/dijeferson/gpg.nvim) ![](https://img.shields.io/github/stars/dijeferson/gpg.nvim) ![](https://img.shields.io/github/last-commit/dijeferson/gpg.nvim) ![](https://img.shields.io/github/commit-activity/y/dijeferson/gpg.nvim)
 
 ### Keychain
 

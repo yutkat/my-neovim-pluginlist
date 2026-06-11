@@ -73,6 +73,7 @@
   - [Organization](#organization)
   - [CODEOWNERS](#codeowners)
 - [GitLab](#gitlab)
+  - [Issue](#issue)
   - [Merge Request](#merge-request)
   - [GitLab CI](#gitlab-ci)
   - [GitLab Kanban](#gitlab-kanban)
@@ -857,6 +858,10 @@
 - [alexdovzhanyn/glab-mr.nvim](https://github.com/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/stars/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/last-commit/alexdovzhanyn/glab-mr.nvim) ![](https://img.shields.io/github/commit-activity/y/alexdovzhanyn/glab-mr.nvim)
 - [modulomedito/rookie_gitlab.nvim](https://github.com/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_gitlab.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_gitlab.nvim)
 
+### Issue
+
+- [Salemmander/gitlab-issues.nvim](https://github.com/Salemmander/gitlab-issues.nvim) ![](https://img.shields.io/github/stars/Salemmander/gitlab-issues.nvim) ![](https://img.shields.io/github/last-commit/Salemmander/gitlab-issues.nvim) ![](https://img.shields.io/github/commit-activity/y/Salemmander/gitlab-issues.nvim)
+
 ### Merge Request
 
 - [cherryramatisdev/gitlab-review.nvim](https://github.com/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/stars/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/last-commit/cherryramatisdev/gitlab-review.nvim) ![](https://img.shields.io/github/commit-activity/y/cherryramatisdev/gitlab-review.nvim)
@@ -866,6 +871,7 @@
 - [sbulav/validate-gitlab-ci.nvim](https://github.com/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/stars/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/last-commit/sbulav/validate-gitlab-ci.nvim) ![](https://img.shields.io/github/commit-activity/y/sbulav/validate-gitlab-ci.nvim)
 - [blotero/gitlab-pipeline.nvim](https://github.com/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/stars/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/last-commit/blotero/gitlab-pipeline.nvim) ![](https://img.shields.io/github/commit-activity/y/blotero/gitlab-pipeline.nvim)
 - [mirai-toto/glab.nvim](https://github.com/mirai-toto/glab.nvim) ![](https://img.shields.io/github/stars/mirai-toto/glab.nvim) ![](https://img.shields.io/github/last-commit/mirai-toto/glab.nvim) ![](https://img.shields.io/github/commit-activity/y/mirai-toto/glab.nvim)
+- [mm4cN/nvim-gitlab](https://github.com/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/stars/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/last-commit/mm4cN/nvim-gitlab) ![](https://img.shields.io/github/commit-activity/y/mm4cN/nvim-gitlab)
 
 ### GitLab Kanban
 

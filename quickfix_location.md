@@ -50,6 +50,7 @@
 - [jbuck95/ltqf.nvim](https://github.com/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/stars/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/last-commit/jbuck95/ltqf.nvim) ![](https://img.shields.io/github/commit-activity/y/jbuck95/ltqf.nvim)
 - [CodesWithRobi/qfsearch.nvim](https://github.com/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/stars/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/last-commit/CodesWithRobi/qfsearch.nvim) ![](https://img.shields.io/github/commit-activity/y/CodesWithRobi/qfsearch.nvim)
 - [pirey/fqf.nvim](https://github.com/pirey/fqf.nvim) ![](https://img.shields.io/github/stars/pirey/fqf.nvim) ![](https://img.shields.io/github/last-commit/pirey/fqf.nvim) ![](https://img.shields.io/github/commit-activity/y/pirey/fqf.nvim)
+- [anoopkcn/stitch.nvim](https://github.com/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/stars/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/last-commit/anoopkcn/stitch.nvim) ![](https://img.shields.io/github/commit-activity/y/anoopkcn/stitch.nvim)
 
 ### Output the list to another format
 

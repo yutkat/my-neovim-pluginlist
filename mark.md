@@ -98,6 +98,7 @@
 
 - [nobe4/relativity.nvim](https://github.com/nobe4/relativity.nvim) ![](https://img.shields.io/github/stars/nobe4/relativity.nvim) ![](https://img.shields.io/github/last-commit/nobe4/relativity.nvim) ![](https://img.shields.io/github/commit-activity/y/nobe4/relativity.nvim)
 - [shateq/mark-comments.nvim](https://github.com/shateq/mark-comments.nvim) ![](https://img.shields.io/github/stars/shateq/mark-comments.nvim) ![](https://img.shields.io/github/last-commit/shateq/mark-comments.nvim) ![](https://img.shields.io/github/commit-activity/y/shateq/mark-comments.nvim)
+- [jfinnis/automarks.nvim](https://github.com/jfinnis/automarks.nvim) ![](https://img.shields.io/github/stars/jfinnis/automarks.nvim) ![](https://img.shields.io/github/last-commit/jfinnis/automarks.nvim) ![](https://img.shields.io/github/commit-activity/y/jfinnis/automarks.nvim)
 
 ### Jump
 

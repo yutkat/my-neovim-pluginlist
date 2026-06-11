@@ -207,6 +207,7 @@
 - [genkio/code-trace.nvim](https://github.com/genkio/code-trace.nvim) ![](https://img.shields.io/github/stars/genkio/code-trace.nvim) ![](https://img.shields.io/github/last-commit/genkio/code-trace.nvim) ![](https://img.shields.io/github/commit-activity/y/genkio/code-trace.nvim)
 - [AlexanderGolys/codex.nvim](https://github.com/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/stars/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/last-commit/AlexanderGolys/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/AlexanderGolys/codex.nvim)
 - [pxwg/codex.nvim](https://github.com/pxwg/codex.nvim) ![](https://img.shields.io/github/stars/pxwg/codex.nvim) ![](https://img.shields.io/github/last-commit/pxwg/codex.nvim) ![](https://img.shields.io/github/commit-activity/y/pxwg/codex.nvim)
+- [ZaaWi/codex-flow.nvim](https://github.com/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/stars/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/last-commit/ZaaWi/codex-flow.nvim) ![](https://img.shields.io/github/commit-activity/y/ZaaWi/codex-flow.nvim)
 
 #### Whisper
 
@@ -720,6 +721,7 @@
 - [jorlly-collado-castro/opencode-lazy.nvim](https://github.com/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/stars/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/last-commit/jorlly-collado-castro/opencode-lazy.nvim) ![](https://img.shields.io/github/commit-activity/y/jorlly-collado-castro/opencode-lazy.nvim)
 - [McEazy2700/opencode.nvim](https://github.com/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/stars/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/last-commit/McEazy2700/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/McEazy2700/opencode.nvim)
 - [scarydoors/craft.nvim](https://github.com/scarydoors/craft.nvim) ![](https://img.shields.io/github/stars/scarydoors/craft.nvim) ![](https://img.shields.io/github/last-commit/scarydoors/craft.nvim) ![](https://img.shields.io/github/commit-activity/y/scarydoors/craft.nvim)
+- [losty17/opencode.nvim](https://github.com/losty17/opencode.nvim) ![](https://img.shields.io/github/stars/losty17/opencode.nvim) ![](https://img.shields.io/github/last-commit/losty17/opencode.nvim) ![](https://img.shields.io/github/commit-activity/y/losty17/opencode.nvim)
 
 ### Alma
 

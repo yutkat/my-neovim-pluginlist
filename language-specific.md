@@ -78,6 +78,7 @@
     - [M1](#m1)
     - [Uiua](#uiua)
     - [Conops](#conops)
+    - [PyPlyne](#pyplyne)
   - [WSL](#wsl)
     - [CQL](#cql)
       - [Quadrate](#quadrate)
@@ -622,6 +623,10 @@
 #### Conops
 
 - [sstoehrm/conops.nvim](https://github.com/sstoehrm/conops.nvim) ![](https://img.shields.io/github/stars/sstoehrm/conops.nvim) ![](https://img.shields.io/github/last-commit/sstoehrm/conops.nvim) ![](https://img.shields.io/github/commit-activity/y/sstoehrm/conops.nvim)
+
+#### PyPlyne
+
+- [pyplyne-org/pyplyne.nvim](https://github.com/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/stars/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/last-commit/pyplyne-org/pyplyne.nvim) ![](https://img.shields.io/github/commit-activity/y/pyplyne-org/pyplyne.nvim)
 
 ### WSL
 

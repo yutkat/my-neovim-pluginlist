@@ -103,6 +103,7 @@
 - [ishanvarade/scrollflow.nvim](https://github.com/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/stars/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/last-commit/ishanvarade/scrollflow.nvim) ![](https://img.shields.io/github/commit-activity/y/ishanvarade/scrollflow.nvim)
 - [LiamGoodacre/lay.nvim](https://github.com/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/stars/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/last-commit/LiamGoodacre/lay.nvim) ![](https://img.shields.io/github/commit-activity/y/LiamGoodacre/lay.nvim)
 - [perpetualbits/colflow.nvim](https://github.com/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/stars/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/last-commit/perpetualbits/colflow.nvim) ![](https://img.shields.io/github/commit-activity/y/perpetualbits/colflow.nvim)
+- [kyoh86/panedit.nvim](https://github.com/kyoh86/panedit.nvim) ![](https://img.shields.io/github/stars/kyoh86/panedit.nvim) ![](https://img.shields.io/github/last-commit/kyoh86/panedit.nvim) ![](https://img.shields.io/github/commit-activity/y/kyoh86/panedit.nvim)
 
 #### close
 
@@ -193,6 +194,7 @@
 - [gigacrat/aperture.nvim](https://github.com/gigacrat/aperture.nvim) ![](https://img.shields.io/github/stars/gigacrat/aperture.nvim) ![](https://img.shields.io/github/last-commit/gigacrat/aperture.nvim) ![](https://img.shields.io/github/commit-activity/y/gigacrat/aperture.nvim)
 - [shaozi/active-gutter.nvim](https://github.com/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/stars/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/last-commit/shaozi/active-gutter.nvim) ![](https://img.shields.io/github/commit-activity/y/shaozi/active-gutter.nvim)
 - [zetatez/spotlight.nvim](https://github.com/zetatez/spotlight.nvim) ![](https://img.shields.io/github/stars/zetatez/spotlight.nvim) ![](https://img.shields.io/github/last-commit/zetatez/spotlight.nvim) ![](https://img.shields.io/github/commit-activity/y/zetatez/spotlight.nvim)
+- [gabrielsugai/kamui.nvim](https://github.com/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/stars/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/last-commit/gabrielsugai/kamui.nvim) ![](https://img.shields.io/github/commit-activity/y/gabrielsugai/kamui.nvim)
 
 #### Window Number
 
