@@ -192,6 +192,7 @@
 #### Calculation
 
 - [SleepySwords/mathjax.nvim](https://github.com/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/stars/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/last-commit/SleepySwords/mathjax.nvim) ![](https://img.shields.io/github/commit-activity/y/SleepySwords/mathjax.nvim)
+- [MarkKon/mathwrap.nvim](https://github.com/MarkKon/mathwrap.nvim) ![](https://img.shields.io/github/stars/MarkKon/mathwrap.nvim) ![](https://img.shields.io/github/last-commit/MarkKon/mathwrap.nvim) ![](https://img.shields.io/github/commit-activity/y/MarkKon/mathwrap.nvim)
 
 #### Markdown preview
 

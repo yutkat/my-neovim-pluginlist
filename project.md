@@ -84,6 +84,7 @@
 - [jeanbeanie/project-switcher.nvim](https://github.com/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/stars/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/last-commit/jeanbeanie/project-switcher.nvim) ![](https://img.shields.io/github/commit-activity/y/jeanbeanie/project-switcher.nvim)
 - [shaunwen/myprojects.nvim](https://github.com/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/stars/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/last-commit/shaunwen/myprojects.nvim) ![](https://img.shields.io/github/commit-activity/y/shaunwen/myprojects.nvim)
 - [modulomedito/rookie_project.nvim](https://github.com/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/stars/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/last-commit/modulomedito/rookie_project.nvim) ![](https://img.shields.io/github/commit-activity/y/modulomedito/rookie_project.nvim)
+- [galal-hussein/dumb-projects.nvim](https://github.com/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/stars/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/last-commit/galal-hussein/dumb-projects.nvim) ![](https://img.shields.io/github/commit-activity/y/galal-hussein/dumb-projects.nvim)
 
 ### Project Root Detector
 

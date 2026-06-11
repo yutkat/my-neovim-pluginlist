@@ -353,6 +353,7 @@
 - [wakatara/tada.nvim](https://github.com/wakatara/tada.nvim) ![](https://img.shields.io/github/stars/wakatara/tada.nvim) ![](https://img.shields.io/github/last-commit/wakatara/tada.nvim) ![](https://img.shields.io/github/commit-activity/y/wakatara/tada.nvim)
 - [VrajVed/quests.nvim](https://github.com/VrajVed/quests.nvim) ![](https://img.shields.io/github/stars/VrajVed/quests.nvim) ![](https://img.shields.io/github/last-commit/VrajVed/quests.nvim) ![](https://img.shields.io/github/commit-activity/y/VrajVed/quests.nvim)
 - [IogaMaster/tuxedo.nvim](https://github.com/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/stars/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/last-commit/IogaMaster/tuxedo.nvim) ![](https://img.shields.io/github/commit-activity/y/IogaMaster/tuxedo.nvim)
+- [Onering20/todo-nav.nvim](https://github.com/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/stars/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/last-commit/Onering20/todo-nav.nvim) ![](https://img.shields.io/github/commit-activity/y/Onering20/todo-nav.nvim)
 
 #### Google Task
 

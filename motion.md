@@ -159,6 +159,7 @@
 - [hashylog/micro-motion.nvim](https://github.com/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/stars/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/last-commit/hashylog/micro-motion.nvim) ![](https://img.shields.io/github/commit-activity/y/hashylog/micro-motion.nvim)
 - [neovim-idea/camelhumps-nvim](https://github.com/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/stars/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/last-commit/neovim-idea/camelhumps-nvim) ![](https://img.shields.io/github/commit-activity/y/neovim-idea/camelhumps-nvim)
 - [simoesd/omnicase.nvim](https://github.com/simoesd/omnicase.nvim) ![](https://img.shields.io/github/stars/simoesd/omnicase.nvim) ![](https://img.shields.io/github/last-commit/simoesd/omnicase.nvim) ![](https://img.shields.io/github/commit-activity/y/simoesd/omnicase.nvim)
+- [phanen/cword.nvim](https://github.com/phanen/cword.nvim) ![](https://img.shields.io/github/stars/phanen/cword.nvim) ![](https://img.shields.io/github/last-commit/phanen/cword.nvim) ![](https://img.shields.io/github/commit-activity/y/phanen/cword.nvim)
 
 ### Line Move
 

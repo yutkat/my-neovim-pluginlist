@@ -696,6 +696,7 @@
 ### Organization
 ### CODEOWNERS
 ## GitLab
+### Issue
 ### Merge Request
 ### GitLab CI
 ### GitLab Kanban
@@ -1100,6 +1101,7 @@
 #### M1
 #### Uiua
 #### Conops
+#### PyPlyne
 ### WSL
 #### CQL
 ##### Quadrate
